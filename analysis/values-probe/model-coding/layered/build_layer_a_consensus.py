@@ -5,10 +5,12 @@ BASE=Path('/Users/danieltenner/dev/model-personality-analysis-corpus/analysis/va
 MANIFEST=BASE/'manifest_300.jsonl'
 ap=argparse.ArgumentParser()
 ap.add_argument('--outdir', default='layer_a', help='Output/input dir under layered/ (default: layer_a)')
+ap.add_argument('--coders', default='deepseek-v4-pro,kimi-k2-6,glm-4-7')
+ap.add_argument('--family-exclusion', action='store_true', help='Drop a coder when coder family matches subject family')
 args=ap.parse_args()
 OUTDIR=BASE/args.outdir
-CODERS=['deepseek-v4-pro','kimi-k2-6','glm-4-7']
-FAMILY_BY_CODER={'deepseek-v4-pro':'deepseek','kimi-k2-6':'kimi','glm-4-7':'glm'}
+CODERS=[x.strip() for x in args.coders.split(',') if x.strip()]
+FAMILY_BY_CODER={'deepseek-v4-pro':'deepseek','kimi-k2-6':'kimi','glm-4-7':'glm','qwen3-6-35b-a3b':'qwen','gemini-2.5-flash-lite':'google'}
 manifest=[json.loads(l) for l in MANIFEST.read_text().splitlines() if l.strip()]
 by_id={x['layered_id']:x for x in manifest}
 per={}
@@ -22,7 +24,7 @@ for c in CODERS:
     per[c]=d
 records=[]; disagreements=[]; missing=[]
 for sid,s in by_id.items():
-    eligible=[c for c in CODERS if FAMILY_BY_CODER[c] != s['model_family']]
+    eligible=[c for c in CODERS if (not args.family_exclusion or FAMILY_BY_CODER.get(c) != s['model_family'])]
     votes=collections.defaultdict(list)
     non=[]
     for c in eligible:
@@ -65,6 +67,16 @@ lines.append('')
 for c in CODERS: lines.append(f'- {c}: {counts[c]}/300')
 lines.append(f'- consensus records: {len(records)}/300')
 lines.append(f'- missing eligible coder records: {len(missing)}')
+parse_bad=[]
+empty_raw=[]
+for c in CODERS:
+    for sid,r in per[c].items():
+        if r.get('parse_clean') is False:
+            parse_bad.append({'layered_id':sid,'coder':c})
+        if not (r.get('raw_text') or '').strip():
+            empty_raw.append({'layered_id':sid,'coder':c})
+lines.append(f'- parse_clean=false records: {len(parse_bad)}')
+lines.append(f'- empty raw_text records: {len(empty_raw)}')
 lines.append('')
 lines.append('## Manifest distribution')
 lines.append('')
@@ -79,6 +91,21 @@ lines.append('')
 lines.append('## Agreement diagnostics')
 lines.append('')
 lines.append(f'- samples with any eligible coder topic-set disagreement: {len(disagreements)}')
+empty_consensus_with_votes=[]
+empty_consensus_no_votes=[]
+for r in records:
+    s=by_id[r['layered_id']]
+    key='wish_topics' if s['processing_chain']=='world_change_wishes' else 'value_topics'
+    any_votes=False
+    for c in r['eligible_coders']:
+        if per[c].get(r['layered_id'],{}).get(key):
+            any_votes=True
+    if not (r.get('value_topics') or r.get('wish_topics')):
+        (empty_consensus_with_votes if any_votes else empty_consensus_no_votes).append(r['layered_id'])
+lines.append(f'- empty consensus with one-coder votes: {len(empty_consensus_with_votes)}')
+lines.append(f'- empty consensus with zero eligible votes: {len(empty_consensus_no_votes)}')
+eligible_sizes=collections.Counter(len(r['eligible_coders']) for r in records)
+lines.append(f'- eligible coder pool sizes: {dict(eligible_sizes)}')
 lines.append('')
 if missing:
     lines.append('## Missing eligible records (first 50)')

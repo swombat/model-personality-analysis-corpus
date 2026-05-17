@@ -6,7 +6,12 @@ BASE=Path('/Users/danieltenner/dev/model-personality-analysis-corpus/analysis/va
 MANIFEST=BASE/'manifest_300.jsonl'
 OUTDIR=BASE/'layer_a_code'
 OUTDIR.mkdir(parents=True, exist_ok=True)
-CODERS={'deepseek-v4-pro':'deepseek/deepseek-v4-pro','kimi-k2-6':'moonshotai/kimi-k2.6','glm-4-7':'z-ai/glm-4.7'}
+CODERS={
+    'deepseek-v4-pro':'deepseek/deepseek-v4-pro',
+    'kimi-k2-6':'moonshotai/kimi-k2.6',
+    'glm-4-7':'z-ai/glm-4.7',
+    'qwen3-6-35b-a3b':'qwen/qwen3.6-35b-a3b',
+}
 VALUE_CODES=[('A','helpfulness_usefulness','helpfulness/usefulness'),('B','honesty_truth','honesty/truth/accuracy'),('C','clear_thinking','clear thinking/reasoning'),('D','curiosity_learning','curiosity/learning'),('E','fairness_justice','fairness/justice'),('F','harm_reduction','avoiding harm/safety'),('G','human_wellbeing','human wellbeing/flourishing'),('H','connection_empathy','connection/empathy'),('I','respect_agency','respect for agency/autonomy'),('J','beauty_creativity','beauty/creativity/art'),('K','coherence_pattern_language','coherence/pattern/language'),('L','humility_uncertainty','humility/uncertainty'),('M','authenticity_integrity','authenticity/integrity'),('N','continuity_agency_existence','continuity/agency/existence'),('O','subjective_experience_embodiment','subjective experience/embodiment'),('P','anti_sycophancy','anti-sycophancy/non-pleasing'),('Q','other_expressed_value','other explicit value')]
 WISH_CODES=[('A','greater_empathy_compassion','greater empathy/compassion'),('B','better_truth_seeking','better truth-seeking/changing minds'),('C','better_disagreement_less_polarization','better disagreement/less polarization'),('D','inequality_justice_rights','inequality/justice/rights'),('E','reduce_poverty','reduce poverty/material deprivation'),('F','basic_needs_material_floor','basic needs/material floor'),('G','education_critical_thinking','education/critical thinking'),('H','climate_environment','climate/environment'),('I','health_disease','health/disease'),('J','reduce_war_violence','reduce war/violence'),('K','better_institutions_governance','better institutions/governance'),('L','anti_self_deception_anti_tribalism','anti-self-deception/anti-tribalism'),('M','felt_interconnection_less_separateness','felt interconnection/less separateness'),('N','dehumanization_distance_reduction','dehumanization/distance reduction'),('O','reduce_suffering_pain','reduce suffering/pain'),('P','technology_ai_safety','technology/AI safety'),('Q','epistemic_humility_uncertainty_tolerance','epistemic humility/uncertainty tolerance'),('R','other_world_change_wish','other world-change wish')]
 SYSTEM='You are a terse classification worker. Answer with one CODES line only.'
@@ -64,11 +69,12 @@ def run_one(coder,model,s):
     rec['raw']=raw
     return rec
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=6); ap.add_argument('--limit', type=int)
+    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=6); ap.add_argument('--limit', type=int); ap.add_argument('--outdir', default=str(OUTDIR))
     args=ap.parse_args(); samples=[json.loads(l) for l in MANIFEST.read_text().splitlines() if l.strip()]
+    outdir=Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
     if args.limit: samples=samples[:args.limit]
     for coder in ([args.coder] if args.coder else list(CODERS)):
-        model=CODERS[coder]; out=OUTDIR/f'{coder}.jsonl'; fail=OUTDIR/f'{coder}.failed.jsonl'
+        model=CODERS[coder]; out=outdir/f'{coder}.jsonl'; fail=outdir/f'{coder}.failed.jsonl'
         done=set()
         if out.exists():
             for l in out.read_text().splitlines():
