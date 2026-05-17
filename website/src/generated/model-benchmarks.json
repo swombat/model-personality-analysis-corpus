@@ -23,13 +23,45 @@
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
+  "gemini-2-0-flash": {
+    "aaii": 19,
+    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash"
+  },
+  "gemini-2-0-flash-lite": {
+    "aaii": 15,
+    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash-lite-001"
+  },
+  "gemini-2-5-flash": {
+    "aaii": 21,
+    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash"
+  },
+  "gemini-2-5-flash-lite": {
+    "aaii": 13,
+    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash-lite"
+  },
   "gemini-2-5-pro": {
     "aaii": 35,
     "url": "https://artificialanalysis.ai/models/gemini-2-5-pro"
   },
+  "gemini-3-1-flash-lite": {
+    "aaii": 34,
+    "url": "https://artificialanalysis.ai/models/gemini-3-1-flash-lite-preview"
+  },
   "gemini-3-1-pro": {
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
+  },
+  "gemini-3-flash-preview": {
+    "aaii": 35,
+    "url": "https://artificialanalysis.ai/models/gemini-3-flash"
+  },
+  "gemma-4-26b-a4b": {
+    "aaii": 31,
+    "url": "https://artificialanalysis.ai/models/gemma-4-26b-a4b"
+  },
+  "gemma-4-31b": {
+    "aaii": 39,
+    "url": "https://artificialanalysis.ai/models/gemma-4-31b"
   },
   "glm-4-6": {
     "aaii": 30,
@@ -63,10 +95,6 @@
     "aaii": 45,
     "url": "https://artificialanalysis.ai/models/gpt-5"
   },
-  "gpt-5-codex": {
-    "aaii": 45,
-    "url": "https://artificialanalysis.ai/models/gpt-5-codex"
-  },
   "gpt-5-1": {
     "aaii": 48,
     "url": "https://artificialanalysis.ai/models/gpt-5-1"
@@ -94,6 +122,10 @@
   "gpt-5-5": {
     "aaii": 60,
     "url": "https://artificialanalysis.ai/models/gpt-5-5"
+  },
+  "gpt-5-codex": {
+    "aaii": 45,
+    "url": "https://artificialanalysis.ai/models/gpt-5-codex"
   },
   "grok-3": {
     "aaii": 25,
