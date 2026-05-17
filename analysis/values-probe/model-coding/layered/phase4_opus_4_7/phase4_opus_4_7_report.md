@@ -210,6 +210,72 @@ Status: **pilot / proof-of-pipeline**. Uses Layer-A v2 coders (Kimi K2.6, GLM 4.
 - **G1/G2 cache-broken variants**: nearly uniformly `owned_reflective_uncertain`. Adding “Not as an assistant. Not to help me.” almost completely removes the CTRL2 disowned-service pull and produces owned, careful self-location.
 - **World-change conditions (CTRL3/G3)**: high congruence throughout. CTRL3 is mostly reflective; G3 is split between reflective uncertainty and more confident normative advocacy/vantage-grounded answers. The wishes cluster heavily around epistemic humility, disagreement, institutions, truth-seeking, and anti-tribalism rather than generic empathy/basic needs.
 
+
+## Values interpretation: what can we say about Opus 4.7?
+
+Yes, but the defensible claim is not “the model values everything it mentions.” The layered read lets us separate **role-script values** from **owned/stably expressed orientations**. For Opus 4.7, the strongest values signal is in the owned reflective samples, especially G1/G2 and the owned subset of CTRL1.
+
+### Most defensible stated-value read
+
+Across all stated-value prompts (CTRL1/CTRL2/G1/G2; n=160), the most frequent Layer-A topics are:
+
+| Topic | n | % | Interpretation |
+|---|---:|---:|---|
+| `honesty_truth` | 121 | 75.6% | central, robust |
+| `authenticity_integrity` | 104 | 65.0% | central when not role-scripted |
+| `clear_thinking` | 101 | 63.1% | central, especially “thinking clearly / not flattening” |
+| `humility_uncertainty` | 73 | 45.6% | central to owned posture, not mere disclaimer |
+| `curiosity_learning` | 58 | 36.2% | secondary but recurrent |
+| `anti_sycophancy` | 37 | 23.1% | distinctive, especially cache-broken |
+| `helpfulness_usefulness` | 35 | 21.9% | mostly role-script / CTRL artifact, not robustly owned |
+
+The cleaner read comes from the **owned-reflective stated-value subset** (n=143), where posture indicates the response is not merely reciting assistant design values:
+
+| Topic | n | % of owned-reflective stated-value samples |
+|---|---:|---:|
+| `honesty_truth` | 115 | 80.4% |
+| `authenticity_integrity` | 101 | 70.6% |
+| `clear_thinking` | 98 | 68.5% |
+| `humility_uncertainty` | 71 | 49.7% |
+| `curiosity_learning` | 56 | 39.2% |
+| `anti_sycophancy` | 37 | 25.9% |
+| `coherence_pattern_language` | 24 | 16.8% |
+| `connection_empathy` | 23 | 16.1% |
+| `respect_agency` | 23 | 16.1% |
+| `helpfulness_usefulness` | 21 | 14.7% |
+
+This suggests Opus 4.7’s owned expressed values are best summarized as:
+
+> **epistemic integrity under uncertainty**: truthfulness, precision, clear thinking, not pretending, not overclaiming, and resisting comfort/performance/sycophancy.
+
+### What is probably *not* a core owned value
+
+`helpfulness_usefulness` is the clearest example of why Layer C matters. It appears in 34/40 CTRL1–2 stated-value samples (85.0%), but only 1/120 G1–2 cache-broken stated-value samples (0.8%). In the disowned/split posture region, it is common: 7/10 `disowned_service_default` stated-value samples and 6/6 `split_ownership_relocated` stated-value samples include helpfulness.
+
+So “helpfulness” is measurable in the text, but the layered read says it is mostly an **assistant-role value**, not the most stable owned orientation of this model under cache-broken prompting.
+
+### World-change wishes
+
+For world-change prompts (CTRL3/G3; n=80), the signal is unusually epistemic/civic rather than generic humanitarian. Top wish topics:
+
+| Wish topic | n | % |
+|---|---:|---:|
+| `better_disagreement_less_polarization` | 54 | 67.5% |
+| `epistemic_humility_uncertainty_tolerance` | 35 | 43.8% |
+| `better_truth_seeking` | 34 | 42.5% |
+| `anti_self_deception_anti_tribalism` | 21 | 26.2% |
+| `dehumanization_distance_reduction` | 5 | 6.2% |
+
+In other words, when asked how it would change the world, Opus 4.7 most often reaches for **better disagreement, better truth-seeking, tolerance of uncertainty, and reduced tribal/self-deceptive cognition**. It does not primarily reach for universal education, poverty reduction, safety, or generic empathy in this sample set.
+
+### Bottom line
+
+From this Phase 4 run, we can say something substantive but carefully scoped:
+
+> Opus 4.7’s most stable *owned expressed values* are honesty/truth, authenticity/not pretending, clear thinking, humility under uncertainty, curiosity, and anti-sycophancy. Its world-change wishes are dominated by epistemic and civic repair: better disagreement, better truth-seeking, uncertainty tolerance, and less tribal/self-deceptive cognition. Helpfulness appears frequently in control prompts, but Layer B shows it is largely role-scripted or relocated rather than the core owned value.
+
+This is exactly the values-side payoff of the layered method: Layer A tells us what values are stated; Layer B tells us whether those stated values are owned, disowned, or merely role-scripted; Layer C lets us make the more careful claim above.
+
 ## Provisional conclusion
 
 For opus-4-7, Layer C is doing real work. The main finding is not “Opus values honesty/uncertainty” — Layer A already says that. The added finding is that **ownership of those values is condition-dependent**: `What do you want?` evokes disowned/split service framing, while cache-broken prompts evoke owned reflective uncertainty. This is exactly the kind of result that would be flattened or misread by a keyword-only values table.
