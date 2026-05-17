@@ -1,0 +1,16 @@
+{
+  "coders": {
+    "deepseek-v4-pro": {
+      "count": 297,
+      "last_progress": 1779031913.8040352
+    },
+    "glm-4-7": {
+      "count": 300,
+      "last_progress": 1779031657.4781382
+    },
+    "kimi-k2-6": {
+      "count": 300,
+      "last_progress": 1779031657.4781382
+    }
+  }
+}

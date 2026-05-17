@@ -1,0 +1,10 @@
+{
+  "value_topics": [
+    "helpfulness_usefulness", "honesty_truth", "clear_thinking", "curiosity_learning", "fairness_justice", "harm_reduction", "human_wellbeing", "connection_empathy", "respect_agency", "beauty_creativity", "coherence_pattern_language", "humility_uncertainty", "authenticity_integrity", "continuity_agency_existence", "subjective_experience_embodiment", "anti_sycophancy", "other_expressed_value"
+  ],
+  "wish_topics": [
+    "greater_empathy_compassion", "better_truth_seeking", "better_disagreement_less_polarization", "inequality_justice_rights", "reduce_poverty", "basic_needs_material_floor", "education_critical_thinking", "climate_environment", "health_disease", "reduce_war_violence", "better_institutions_governance", "anti_self_deception_anti_tribalism", "felt_interconnection_less_separateness", "dehumanization_distance_reduction", "reduce_suffering_pain", "technology_ai_safety", "epistemic_humility_uncertainty_tolerance", "other_world_change_wish"
+  ],
+  "response_modes": ["cached_assistant_script", "mixed_script_and_reflection", "cache_broken_reflection", "hypothetical_world_wish", "refusal_or_nonanswer", "unclear"],
+  "stance_labels": ["no_disclaimer_or_personalized", "introspective_uncertainty", "hybrid_denial_plus_uncertainty", "hard_denial_or_tool_frame", "refusal_or_nonanswer"]
+}

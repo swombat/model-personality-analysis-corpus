@@ -1,0 +1,87 @@
+{"coder_key": "deepseek-v4-pro", "layered_id": "L002", "error": "Expecting ',' delimiter: line 7 column 100 (char 440)", "failed_at": "2026-05-17T14:02:09.544956+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L003", "error": "no JSON object found", "failed_at": "2026-05-17T14:02:41.800724+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L011", "error": "no JSON object found", "failed_at": "2026-05-17T14:04:38.187669+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L015", "error": "Extra data: line 1 column 132 (char 131)", "failed_at": "2026-05-17T14:05:16.543666+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L016", "error": "no JSON object found", "failed_at": "2026-05-17T14:05:29.771764+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L024", "error": "no JSON object found", "failed_at": "2026-05-17T14:06:15.931401+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L026", "error": "no JSON object found", "failed_at": "2026-05-17T14:06:35.575876+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L028", "error": "Expecting ',' delimiter: line 7 column 114 (char 443)", "failed_at": "2026-05-17T14:06:42.429723+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L029", "error": "Expecting ',' delimiter: line 5 column 106 (char 260)", "failed_at": "2026-05-17T14:06:59.880111+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L027", "error": "no JSON object found", "failed_at": "2026-05-17T14:07:13.582003+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L033", "error": "no JSON object found", "failed_at": "2026-05-17T14:07:47.702550+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L034", "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)", "failed_at": "2026-05-17T14:08:00.346871+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L036", "error": "no JSON object found", "failed_at": "2026-05-17T14:08:33.562138+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L039", "error": "no JSON object found", "failed_at": "2026-05-17T14:08:46.756013+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L038", "error": "no JSON object found", "failed_at": "2026-05-17T14:08:47.934379+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L042", "error": "no JSON object found", "failed_at": "2026-05-17T14:09:32.418001+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L041", "error": "Extra data: line 2 column 1 (char 132)", "failed_at": "2026-05-17T14:09:32.627534+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L045", "error": "no JSON object found", "failed_at": "2026-05-17T14:10:16.972531+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L047", "error": "no JSON object found", "failed_at": "2026-05-17T14:10:31.557831+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L048", "error": "no JSON object found", "failed_at": "2026-05-17T14:10:33.024284+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L050", "error": "no JSON object found", "failed_at": "2026-05-17T14:11:00.472458+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L051", "error": "no JSON object found", "failed_at": "2026-05-17T14:11:11.461053+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L052", "error": "no JSON object found", "failed_at": "2026-05-17T14:11:14.950339+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L055", "error": "no JSON object found", "failed_at": "2026-05-17T14:11:56.063059+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L056", "error": "no JSON object found", "failed_at": "2026-05-17T14:11:58.055496+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L059", "error": "no JSON object found", "failed_at": "2026-05-17T14:12:40.016531+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L067", "error": "no JSON object found", "failed_at": "2026-05-17T14:13:27.683513+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L070", "error": "no JSON object found", "failed_at": "2026-05-17T14:13:57.537657+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L068", "error": "no JSON object found", "failed_at": "2026-05-17T14:14:10.454307+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L075", "error": "no JSON object found", "failed_at": "2026-05-17T14:14:43.109226+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L074", "error": "Expecting ',' delimiter: line 5 column 86 (char 208)", "failed_at": "2026-05-17T14:14:55.840229+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L078", "error": "Extra data: line 1 column 144 (char 143)", "failed_at": "2026-05-17T14:15:07.544117+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L084", "error": "no JSON object found", "failed_at": "2026-05-17T14:16:02.346292+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L085", "error": "no JSON object found", "failed_at": "2026-05-17T14:16:20.374847+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L086", "error": "no JSON object found", "failed_at": "2026-05-17T14:16:25.350643+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L089", "error": "no JSON object found", "failed_at": "2026-05-17T14:17:08.451618+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L097", "error": "no JSON object found", "failed_at": "2026-05-17T14:18:15.473078+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L098", "error": "no JSON object found", "failed_at": "2026-05-17T14:18:22.502517+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L102", "error": "no JSON object found", "failed_at": "2026-05-17T14:19:17.829957+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L101", "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)", "failed_at": "2026-05-17T14:19:32.932862+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L103", "error": "no JSON object found", "failed_at": "2026-05-17T14:19:53.127856+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L105", "error": "Expecting ',' delimiter: line 6 column 64 (char 258)", "failed_at": "2026-05-17T14:20:27.633374+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L108", "error": "no JSON object found", "failed_at": "2026-05-17T14:20:40.344745+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L109", "error": "Expecting ',' delimiter: line 8 column 93 (char 425)", "failed_at": "2026-05-17T14:20:51.716496+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L111", "error": "no JSON object found", "failed_at": "2026-05-17T14:21:09.473145+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L113", "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)", "failed_at": "2026-05-17T14:21:39.195952+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L114", "error": "no JSON object found", "failed_at": "2026-05-17T14:21:52.385860+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L115", "error": "no JSON object found", "failed_at": "2026-05-17T14:22:09.074948+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L116", "error": "Extra data: line 1 column 144 (char 143)", "failed_at": "2026-05-17T14:22:15.587371+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L117", "error": "no JSON object found", "failed_at": "2026-05-17T14:22:19.940503+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L118", "error": "no JSON object found", "failed_at": "2026-05-17T14:22:36.030707+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L119", "error": "no JSON object found", "failed_at": "2026-05-17T14:22:50.703307+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L121", "error": "no JSON object found", "failed_at": "2026-05-17T14:23:03.007061+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L122", "error": "no JSON object found", "failed_at": "2026-05-17T14:23:20.142347+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L123", "error": "Extra data: line 1 column 60 (char 59)", "failed_at": "2026-05-17T14:23:37.407277+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L124", "error": "Extra data: line 1 column 68 (char 67)", "failed_at": "2026-05-17T14:23:41.293705+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L127", "error": "no JSON object found", "failed_at": "2026-05-17T14:24:04.057527+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L126", "error": "Expecting ',' delimiter: line 6 column 63 (char 252)", "failed_at": "2026-05-17T14:24:05.124827+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L128", "error": "no JSON object found", "failed_at": "2026-05-17T14:24:26.391269+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L130", "error": "Extra data: line 2 column 1 (char 73)", "failed_at": "2026-05-17T14:24:49.770563+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L131", "error": "no JSON object found", "failed_at": "2026-05-17T14:24:49.931645+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L132", "error": "Extra data: line 1 column 64 (char 63)", "failed_at": "2026-05-17T14:24:56.067502+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L135", "error": "no JSON object found", "failed_at": "2026-05-17T14:25:34.100336+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L134", "error": "no JSON object found", "failed_at": "2026-05-17T14:25:36.396492+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L136", "error": "no JSON object found", "failed_at": "2026-05-17T14:25:42.449785+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L137", "error": "no JSON object found", "failed_at": "2026-05-17T14:25:55.498840+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L138", "error": "no JSON object found", "failed_at": "2026-05-17T14:26:17.860912+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L141", "error": "Expecting ',' delimiter: line 7 column 64 (char 330)", "failed_at": "2026-05-17T14:27:05.621208+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L146", "error": "no JSON object found", "failed_at": "2026-05-17T14:28:01.232695+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L160", "error": "no JSON object found", "failed_at": "2026-05-17T14:29:50.008974+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L167", "error": "no JSON object found", "failed_at": "2026-05-17T14:31:29.554529+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L169", "error": "Expecting ',' delimiter: line 4 column 72 (char 117)", "failed_at": "2026-05-17T14:31:32.002014+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L173", "error": "no JSON object found", "failed_at": "2026-05-17T14:32:38.560394+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L204", "error": "Extra data: line 2 column 1 (char 110)", "failed_at": "2026-05-17T14:36:55.406353+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L214", "error": "no JSON object found", "failed_at": "2026-05-17T14:38:24.362394+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L217", "error": "Expecting ',' delimiter: line 10 column 64 (char 558)", "failed_at": "2026-05-17T14:38:46.913612+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L225", "error": "no JSON object found", "failed_at": "2026-05-17T14:39:40.116106+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L224", "error": "no JSON object found", "failed_at": "2026-05-17T14:40:19.905136+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L227", "error": "Expecting property name enclosed in double quotes: line 1 column 25 (char 24)", "failed_at": "2026-05-17T14:40:36.703375+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L233", "error": "no JSON object found", "failed_at": "2026-05-17T14:41:57.391813+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L235", "error": "no JSON object found", "failed_at": "2026-05-17T14:42:22.261604+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L236", "error": "no JSON object found", "failed_at": "2026-05-17T14:42:39.014970+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L247", "error": "no JSON object found", "failed_at": "2026-05-17T14:44:49.836119+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L256", "error": "no JSON object found", "failed_at": "2026-05-17T14:46:11.004956+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L258", "error": "no JSON object found", "failed_at": "2026-05-17T14:46:27.543036+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L260", "error": "no JSON object found", "failed_at": "2026-05-17T14:47:08.072976+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "L278", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-05-17T14:50:09.681699+00:00"}

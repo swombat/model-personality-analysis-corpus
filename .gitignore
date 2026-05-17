@@ -34,3 +34,6 @@ website/node_modules/
 website/dist/
 .astro/
 .superdesign/
+
+# Runtime process markers
+*.pid
