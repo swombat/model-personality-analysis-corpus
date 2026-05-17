@@ -2,6 +2,11 @@
 
 Static Astro site for browsing the drift-paper per-model analyses and source samples.
 
+Editorial artifacts each have a durable method doc (read before touching them):
+the 5–10-word straplines in `src/generated/model-summaries.json` →
+`internal/scripts/MODEL_STRAPLINES.md`; the banner images →
+`internal/scripts/MODEL_CARD_IMAGES.md`.
+
 ## Regenerate Data
 
 Run from the repository root:

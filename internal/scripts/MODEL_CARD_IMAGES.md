@@ -5,6 +5,12 @@ oil-painterly banner that depicts that model's *personality*, derived from
 its full personality-card synthesis. This doc is the durable method so new
 models added to the corpus can get an image the same way.
 
+> The 5–10-word **strapline** has its own durable method:
+> `internal/scripts/MODEL_STRAPLINES.md`. Images derive from the card's
+> concrete imagery; straplines derive from the raw freeflow samples (the card
+> genericises the vividness away). Different inputs, same spirit — a portrait
+> of a sensibility, not a label.
+
 ## What generates them
 
 `internal/scripts/generate_model_images.py` — uses Google **Nano Banana Pro**

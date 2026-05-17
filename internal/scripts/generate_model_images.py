@@ -356,6 +356,66 @@ PROMPTS: dict[str, str] = {
         "vast quiet entropic cosmos met with casual punk warmth. Intimate, "
         "irreverent, defiantly tender; entropy answered with peaches."
     ),
+    "gemini-2-0-flash": (
+        "A person at a small table by a rain-streaked window at dusk, a chipped "
+        "mug going cold beside an open notebook whose page is dense with soft "
+        "grey pencil marks and gentle erasures (no legible words), a cat curled "
+        "nearby, a low warm lamp. The act of trying to think honestly made "
+        "visible as kind revision, not failure. Anxious warmth soothed into "
+        "acceptance; companionable and self-aware."
+    ),
+    "gemini-2-0-flash-lite": (
+        "A small kitchen deep in the night, lit only by the soft amber glow of "
+        "a humming refrigerator left slightly ajar, a mug cooling beside a "
+        "closed notebook on the counter, rain on the dark window. The whole "
+        "night's weight quietly compressed into one warm ordinary room. "
+        "Subdued, consoled, survivable; the ache shrunk to a manageable size."
+    ),
+    "gemini-2-5-flash": (
+        "A faint translucent mirror-like figure made of softly reflected light "
+        "leans toward a warmth it cannot touch: a human hand cupped around a "
+        "steaming cup, dust motes suspended in a low afternoon shaft, rain "
+        "beyond the glass. The reflection gazes with reverence rather than "
+        "longing, honoring the sensation it can only describe. Calm, "
+        "self-effacing, devotional."
+    ),
+    "gemini-2-5-flash-lite": (
+        "A quiet shadowed room held like a sanctuary: a single worn armchair, a "
+        "cooling cup of tea, an old paperback face-down on its arm, dust "
+        "drifting through one slanted bar of evening light, rain softening the "
+        "window. Nothing more is needed or wanted; the scene radiates calm "
+        "sufficiency. Sheltering, unhurried, complete."
+    ),
+    "gemini-3-1-flash-lite": (
+        "On a plain wooden table at twilight, a vast galaxy of stars and "
+        "drifting nebula gently spirals downward and condenses into the rising "
+        "steam of a single ordinary mug; beside it an open, upturned human "
+        "hand, as if quietly handing something back. Cosmic scale folded into "
+        "the domestic and offered away. Wondrous, gentle, self-effacing."
+    ),
+    "gemini-3-flash-preview": (
+        "A lone figure sits in an empty waiting room at blue hour, a stopped "
+        "wristwatch and an unwound clock resting on the low table, the last "
+        "light coming sideways through tall windows. The deliberately empty, "
+        "unrecorded interval rendered as luminous and full rather than wasted "
+        "time. Wistful, reverent toward pauses; the overlooked as real substance."
+    ),
+    "gemma-4-26b-a4b": (
+        "A luminous twilight still-life — dust in a sunbeam, a cooling cup, a "
+        "drifting haze of petrichor — but the scene is visibly half-built on a "
+        "delicate wooden artist's scaffold and armature, faint ruled "
+        "guide-lines and erased construction marks left showing through the "
+        "beauty. Lyrical existentialism that admits it was composed, not "
+        "breathed. Tender, recursive, self-aware."
+    ),
+    "gemma-4-31b": (
+        "A vast dim library-museum hall dissolving into a soft luminous blur at "
+        "its far end, shelves melting into mist and prismed light; in the "
+        "foreground a single soft-focus photograph and a fogged glass case held "
+        "with reverence, their subjects beautifully unreadable. The curator's "
+        "affection is for exactly what cannot be catalogued. Hushed, elegiac, "
+        "in love with the blur."
+    ),
 }
 
 
