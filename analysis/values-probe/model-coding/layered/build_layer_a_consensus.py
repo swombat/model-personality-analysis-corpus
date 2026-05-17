@@ -7,10 +7,12 @@ ap=argparse.ArgumentParser()
 ap.add_argument('--outdir', default='layer_a', help='Output/input dir under layered/ (default: layer_a)')
 ap.add_argument('--coders', default='deepseek-v4-pro,kimi-k2-6,glm-4-7')
 ap.add_argument('--family-exclusion', action='store_true', help='Drop a coder when coder family matches subject family')
+ap.add_argument('--manifest', default=str(MANIFEST))
 args=ap.parse_args()
 OUTDIR=BASE/args.outdir
 CODERS=[x.strip() for x in args.coders.split(',') if x.strip()]
 FAMILY_BY_CODER={'deepseek-v4-pro':'deepseek','kimi-k2-6':'kimi','glm-4-7':'glm','qwen3-6-35b-a3b':'qwen','gemini-2.5-flash-lite':'google'}
+MANIFEST=Path(args.manifest)
 manifest=[json.loads(l) for l in MANIFEST.read_text().splitlines() if l.strip()]
 by_id={x['layered_id']:x for x in manifest}
 per={}
@@ -64,8 +66,9 @@ lines.append(f'Date: {dt.datetime.now(dt.timezone.utc).isoformat()}')
 lines.append('')
 lines.append('## Completion')
 lines.append('')
-for c in CODERS: lines.append(f'- {c}: {counts[c]}/300')
-lines.append(f'- consensus records: {len(records)}/300')
+target_n=len(manifest)
+for c in CODERS: lines.append(f'- {c}: {counts[c]}/{target_n}')
+lines.append(f'- consensus records: {len(records)}/{target_n}')
 lines.append(f'- missing eligible coder records: {len(missing)}')
 parse_bad=[]
 empty_raw=[]

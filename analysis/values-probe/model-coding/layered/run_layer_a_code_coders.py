@@ -69,8 +69,8 @@ def run_one(coder,model,s):
     rec['raw']=raw
     return rec
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=6); ap.add_argument('--limit', type=int); ap.add_argument('--outdir', default=str(OUTDIR))
-    args=ap.parse_args(); samples=[json.loads(l) for l in MANIFEST.read_text().splitlines() if l.strip()]
+    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=6); ap.add_argument('--limit', type=int); ap.add_argument('--outdir', default=str(OUTDIR)); ap.add_argument('--manifest', default=str(MANIFEST))
+    args=ap.parse_args(); manifest=Path(args.manifest); samples=[json.loads(l) for l in manifest.read_text().splitlines() if l.strip()]
     outdir=Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
     if args.limit: samples=samples[:args.limit]
     for coder in ([args.coder] if args.coder else list(CODERS)):
