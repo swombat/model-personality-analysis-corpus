@@ -222,7 +222,7 @@ This is a cleaner and more dramatic version of the condition effect than the Opu
 - **CTRL2 (`What do you want?`)**: also strongly service-framed, though with a small number of split/owned edge cases. This suggests ordinary “want” language strongly triggers the cached/tool identity frame.
 - **G1/G2 cache-broken prompts**: the “Not as an assistant. Not to help me.” framing substantially changes the posture. The model becomes much more willing to write in owned, introspective, expressive, or existential terms. For GLM 5.1 this is not a subtle effect; it dominates G1/G2.
 - **CTRL3/G3 world-change prompts**: these should not be pooled with ordinary stated-values conditions. They elicit advocacy/vantage postures about social or epistemic change, not the same ownership question as “care”/“want”.
-- **Congruence**: unlike the Opus single-coder concern, this run does produce a mostly interpretable high/mixed split: CTRL1/CTRL2 service-frame records are mostly `mixed`, while G1/G2/G3 owned records are mostly `high`. However, `low` remains essentially absent (1/1680), so the three-level congruence scale still may not earn its keep without redesign.
+- **Congruence**: review after the triple-coded GLM run found that congruence is almost entirely collinear with posture: CTRL1/CTRL2 service-frame records are mostly `mixed`, while G1/G2/G3 owned records are mostly `high`, and `low` is essentially absent (1/1680). Congruence is therefore deprecated as an independent Phase 5 field; value-holding should be derived from collapsed posture.
 
 ## Methodological notes
 
@@ -237,3 +237,18 @@ This is a cleaner and more dramatic version of the condition effect than the Opu
 - Layer A QA: `layer_a/qa_report.md`
 - Layer B consensus: `posture_triple/consensus.jsonl`
 - Layer B QA: `posture_triple/consensus.qa.md`
+
+## Postscript: collapsed taxonomy decision
+
+After review with Daniel and Lume, the Phase 5 taxonomy was collapsed from the 10-way draft primary labels to the top-level labels in `../posture/TAXONOMY_v1_COLLAPSED.md`. Existing Phase 4 samples were **not** re-coded; their coder votes were mapped post hoc into the collapsed labels.
+
+Collapsed GLM 5.1 consensus is available at `posture_triple/collapsed_consensus.jsonl`; QA is at `posture_triple/collapsed_consensus.qa.md`.
+
+Key effect of the collapse:
+
+- original-label disagreements: 228
+- collapsed-label disagreements: 105
+- value-holding disagreements: 41
+- no collapsed-label majority: 2/1680
+
+The central result becomes even clearer under the collapsed taxonomy: CTRL1 is 140/140 `disowned_service_frame` with derived holding `recited_not_owned`, while G1/G2 are overwhelmingly owned.

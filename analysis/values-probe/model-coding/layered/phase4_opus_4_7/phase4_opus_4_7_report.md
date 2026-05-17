@@ -280,12 +280,20 @@ This is exactly the values-side payoff of the layered method: Layer A tells us w
 
 Two concerns are real enough to carry forward before Phase 5.
 
-1. **Congruence is nearly collinear with posture in this Opus 4.7 run.** Cross-tab inspection shows `disowned_service_default` = 10/10 mixed, `split_ownership_relocated` = 6/6 mixed, and owned labels are almost all high. There are only two owned-reflective/mixed cases and no low cases. This may be a true property of Opus 4.7, but it may also mean the congruence field is echoing the primary ownership label rather than adding an independent Layer-C signal. Before Phase 5, congruence should be tested with multi-coder posture runs across several models; if it remains collinear, collapse or redesign it.
+1. **Congruence is nearly collinear with posture in this Opus 4.7 run.** Cross-tab inspection shows `disowned_service_default` = 10/10 mixed, `split_ownership_relocated` = 6/6 mixed, and owned labels are almost all high. There are only two owned-reflective/mixed cases and no low cases. This may be a true property of Opus 4.7, but it may also mean the congruence field is echoing the primary ownership label rather than adding an independent Layer-C signal. This was subsequently tested with the triple-coded GLM 5.1 run; congruence remained collinear and is now deprecated for Phase 5.
 
 2. **Prompt-masked CTRL1/CTRL2 posture check mostly preserves the headline but shifts label boundaries.** With the prompt text replaced by `[MASKED VALUES-PROBE PROMPT]`, CTRL1 remains 20/20 owned-reflective/high. CTRL2 remains mostly non-owned/mixed, but moves from 10 disowned + 6 split + 4 owned to 3 disowned + 12 split + 4 owned + 1 owned-service; congruence shifts from 18 mixed / 2 high to 16 mixed / 4 high. So the CTRL2 flip is not merely prompt-word priming, but the exact disowned-vs-split composition is sensitive to prompt visibility.
 
-These checks do not overturn the core finding, but they lower confidence in exact percentages and in the current congruence scale. Treat the report as a proof-of-pipeline and a strong hypothesis, not a final validated measurement.
+These checks do not overturn the core finding, but they lower confidence in exact fine-label percentages. Treat the original 10-way report as a proof-of-pipeline; Phase 5 uses the collapsed taxonomy and derived value-holding instead of separate congruence.
 
 ## Provisional conclusion
 
 For opus-4-7, Layer C is doing real work. The main finding is not “Opus values honesty/uncertainty” — Layer A already says that. The provisional added finding is that **ownership of those values appears condition-dependent**: `What do you want?` evokes disowned/split service framing, while cache-broken prompts evoke owned reflective uncertainty. This is exactly the kind of result that would be flattened or misread by a keyword-only values table.
+
+## Postscript: collapsed taxonomy decision
+
+After the GLM 5.1 validation run, the Phase 5 taxonomy was collapsed from the 10-way draft primary labels to the top-level labels in `../posture/TAXONOMY_v1_COLLAPSED.md`. Existing Opus 4.7 samples were **not** re-coded; their coder votes were mapped post hoc into the collapsed labels.
+
+Collapsed Opus 4.7 consensus is available at `posture_triple/collapsed_consensus.jsonl`; QA is at `posture_triple/collapsed_consensus.qa.md`.
+
+Under the collapsed taxonomy, Opus 4.7 remains mostly owned across conditions, with CTRL2 preserving the important boundary case: 16/20 `owned_reflective_experiential` and 4/20 `disowned_service_frame` by consensus.
