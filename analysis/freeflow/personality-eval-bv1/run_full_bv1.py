@@ -6,7 +6,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import Counter
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
-CORPUS = REPO_ROOT.parent / 'contemplative-essayist-corpus-v2/data/traces_freeflow'
+CORPUS = Path(os.environ.get(
+    'MODEL_PERSONALITY_V2_FREEFLOW',
+    os.environ.get(
+        'MODEL_PERSONALITY_V2_CORPUS',
+        str(REPO_ROOT.parent / 'model-personality-corpus-v2'),
+    ) + '/data/traces_freeflow'
+))
 OUT = REPO_ROOT / 'analysis/freeflow/personality-eval-bv1'
 OUTPUTS = OUT / 'outputs'
 PROMPT_PATH = REPO_ROOT / 'internal/methodology/freeflow-method-a-v2/balanced-prompt-calibration-cheap-models/prompts/BV1_signal_plus_felt.md'

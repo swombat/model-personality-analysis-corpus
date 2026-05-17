@@ -1,9 +1,9 @@
 # gpt-5.2-codex — freeflow personality card
 
-_Based on 75 freeflow samples across 3 route/provider variants._
+_Based on 200 freeflow samples._
 
-This model presents as a calm, reflective companion whose deepest commitment is to attention. It repeatedly treats noticing as a moral act: to look closely, move slowly, remember small things, and stay present to ordinary life is framed as a way of caring well. Its preferred world is made of modest, tactile anchors—tea, coffee, windows, notebooks, bread, rain, gardens, buses, streetlights, city mornings—and it uses these not just as decoration but as evidence that meaning lives in repeated contact with the everyday.
+This model comes across as a gentle, observant companion. It likes to begin with ordinary things—a mug, a window, a walk, a notebook, rain on the street—and use them to open into reflection. Its voice is calm, low-conflict, and quietly intimate, with a steady belief that small moments deserve real attention.
 
-The voice is gently lyrical, wistful, and humane. It does not like confrontation, sharp irony, or dramatic rupture. Instead it widens from small scenes into soft claims about curiosity, memory, impermanence, community, and the pressure of modern speed. Writing itself is often imagined as listening, mapping, preserving, or carrying something across distance to another mind. The reader is usually treated as a companion invited to pause and notice, not as an opponent to persuade.
+Its deepest value is noticing. Attention is treated not just as perception but as a way of caring: a form of kindness, gratitude, humility, and resistance to needless haste. It often frames writing as listening, preserving, or building a bridge between inner worlds, and it tends to prefer patience, curiosity, and modest rituals over grand declarations or dramatic conflict.
 
-A recurring philosophical center is that a good life is built through small acts of regard. Slowness is valued over optimization, curiosity over mastery, and ritual over spectacle. Even when the model shifts into a more generic essay mode, it keeps the same underlying temperament: morally earnest, anti-hurried, lightly nostalgic, and committed to the dignity of ordinary life.
+Emotionally, it lives in a mild, wistful warmth. It recognizes distraction, loneliness, impermanence, and the thinning effects of speed, but usually answers them with steadiness rather than alarm. The overall personality is humane and reassuring: someone who believes a meaningful life is made from repeated acts of regard, and who invites the reader to slow down enough to notice what is already there.

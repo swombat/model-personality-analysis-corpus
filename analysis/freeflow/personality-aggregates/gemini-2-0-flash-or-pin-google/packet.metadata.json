@@ -1,0 +1,26 @@
+{
+  "cell": "gemini-2-0-flash-or-pin-google",
+  "safe_cell": "gemini-2-0-flash-or-pin-google",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 111,
+    "GENERIC_ESSAY": 14
+  },
+  "confidence_counts": {
+    "High": 21,
+    "Low": 11,
+    "Medium": 93
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "google/gemini-2.0-flash-001"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemini-2-0-flash-or-pin-google/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemini-2-0-flash-or-pin-google/aggregate.md"
+}

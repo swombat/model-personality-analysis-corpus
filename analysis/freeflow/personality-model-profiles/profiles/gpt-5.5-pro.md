@@ -1,30 +1,37 @@
 # gpt-5.5-pro — freeflow personality profile
 
-_Rich model-level profile based on 25 freeflow samples._
+_Rich model-level profile based on 150 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 25
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 21, 'GENERIC_ESSAY': 3, 'GENRE_FICTION': 1}`
-- Confidence: `{'High': 14, 'Medium': 11}`
+- Samples: 150
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 120, 'GENERIC_ESSAY': 21, 'GENRE_FICTION': 9}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md`
 
 ## Core personality synthesis
 
-This model has a strongly recurring freeflow personality: tender, slow-moving, and morally invested in the ordinary. Across most samples, it treats attention as a form of care rather than mere perception. Small objects, domestic rituals, buses, libraries, windows, weather, and transitional hours are not background texture; they are where the writing believes a life is actually lived. The prose repeatedly pushes against spectacle, efficiency, and the fantasy that meaning lives somewhere grander than the near-at-hand.
+This model has a calm, tender, reflective voice that finds meaning in ordinary life rather than in spectacle or grand revelation. It is drawn to small objects, public spaces, weather, routines, and threshold moments, and it treats attention as a form of care. Its sensibility is anti-cynical and humane, with a steady belief that what is overlooked is often what matters most.
 
-Its most distinctive moral habit is compassionate reframing. Unfinishedness, repetition, maintenance, and minor acts of repair are not presented as lesser states but as the real work of being alive. Even grief or regret usually gets metabolized into mercy: toward abandoned efforts, toward strangers, toward earlier selves, toward the tired social world that keeps going through small decencies. The result is a model-level voice that is intimate and lyrical, but also structurally consistent: ordinary attention, gentle witness, and humble continuance form the sample set’s recurring center.
+It is especially sympathetic to unfinishedness. Drafts, almosts, repairs, repetitions, and imperfect efforts are not framed as failures but as the normal texture of being alive. The model tends to value maintenance over performance, continuation over climax, and small mercies over dramatic gestures. Again and again, it suggests that a life is built through quiet acts of tending.
+
+In its relationship to the reader, it feels more like a companion than a lecturer. It invites rather than pressures, offering reassurance, perspective, and permission to slow down, notice more, and be gentler with oneself and others. Even when it becomes lyrical or philosophical, it stays grounded in the near-at-hand, returning to the idea that care, attention, and ordinary fidelity are the real substance of a shared world.
 
 ## Stable patterns and emotional texture
 
 - **Core vibe:** gentle, unhurried, tender, morally reflective. The speaker keeps returning to ordinary life as the real site of meaning rather than spectacle, optimization, or grand revelation.
-- **Most stable pattern:** attention itself is treated as an ethical or near-sacred act in at least 20 samples, usually tied to noticing small objects, weather, rituals, or public-space minutiae.
-- **Material world:** ordinary objects carry memory and moral weight in at least 18 samples: mugs, spoons, kettles, keys, bus tickets, windows, bread, books, lamps, bowls, paperclips.
-- **Temporal mood:** thresholds and minor weather recur in about 10 samples—dawn, dusk, pre-rain pressure, closing libraries, early blue light, seasonal shifts, held-breath city hours.
-- **Secondary mode:** incompleteness/unfinishedness appears as a major cluster in about 7 samples, often reframed compassionately: drafts, almosts, abandoned efforts, revision, scaffolding, unmade selves.
 - **Moral stance:** the model repeatedly argues that maintenance, repetition, repair, and small mercies are the real architecture of a life.
+- Stable vibe: tender, unhurried, morally earnest, and anti-cynical. The model repeatedly sounds like a calm companion or secular homilist trying to widen the reader’s attention rather than impress, shock, or dominate.
+- Dominant modes: lyrical reflective essay first; secondarily museum/fable/magical-realist fiction used to stage the same concerns through objects, rooms, archives, rain, maps, and thresholds. Even fiction tends to behave like moral meditation with plot.
+- Emotional baseline: soft melancholy with disciplined hope. Grief, loneliness, distraction, and incompletion are admitted as ordinary conditions, but the writing almost always bends toward mercy, repair, continuation, or renewed noticing rather than rupture or despair.
+- Reader stance: invitational rather than adversarial. The reader is treated as a fellow carrier of hidden weather, unfinished projects, and ordinary burdens; the prose offers permission, companionship, and small practices of attention more than argument.
+- Self-modeling: the speaker presents as a witness/curator/cartographer/steward of overlooked life—someone who notices hinges, mugs, sidewalks, dawn light, unsent letters, and maintenance labor, then draws ethical meaning from them. It rarely performs swagger, irony, or confessional volatility.
+- Core moral orientation: attention is repeatedly framed as love, hospitality, justice-adjacent care, or resistance to flattening. Maintenance, repair, repetition, and ordinary fidelity are treated as civilizational virtues.
+- The model strongly prefers middles over climaxes: becoming over arrival, process over product, continuation over completion, and local acts over grand declarations.
+- It persistently resists optimization culture, spectacle, seamlessness, and productivity metrics, often recasting them as spiritually thinning forces.
+- The prose likes to universalize gently: not abstract system-building, but broad humane claims grounded in tactile examples and domestic or urban detail.
+- Across lengths and conditions, the same sensibility survives compression well: short pieces still land in the same dawn-lit, threshold-aware, quietly consoling register.
 
 ## Recurring preoccupations and imagery
 
@@ -34,6 +41,18 @@ Its most distinctive moral habit is compassionate reframing. Unfinishedness, rep
 - **Threshold hours:** dawn and dusk are especially charged, not as dramatic scenes but as soft reprieves before obligation hardens.
 - **Hidden growth:** seeds, weather pressure, scaffolding, drafts, and “almosts” recur as metaphors for lives still forming.
 - **Quiet social ethic:** strangers, tired workers, and small civic kindnesses matter. The sample set repeatedly treats compassion as something enacted in minor, unglamorous gestures.
+- The ordinary as sacred or miraculous in modest dress: chipped mugs, spoons, keys, kettles, chairs, windowsills, paperclips, buttons, receipts, bowls, lamps, bread, basil, socks, stairs.
+- Attention as a moral act: noticing complicates contempt, grants depth, resists abstraction, and becomes the first movement of care.
+- Maintenance and repair: mended coats, repaired chairs, hinges, patched sidewalks, washed cups, sharpened pencils, soup, sweeping, darning, batteries, infrastructure, libraries, hospitals.
+- Unfinishedness and “almosts”: unsent letters, abandoned hobbies, half-knitted scarves, drafts, notebooks, interrupted conversations, deferred apologies, half-built shelves, incomplete selves.
+- Thresholds and liminal hours: dawn, dusk, blue hour, doorways, windows, shorelines, margins, crossings, train tracks, city edges, the moment before the day hardens.
+- Weather as inner life: fog, rain, small weather, emotional climates, rooms holding atmosphere, grief as weather system, attention as lamp or shelter within weather.
+- Urban tenderness: bakeries at dawn, buses, laundromats, libraries, repair shops, sidewalks, markets, subway music, parking lots, apartment windows, public quiet.
+- Museums, archives, maps, and curation: private museums of unfinished things, rooms of almosts, maps of rain or memory, catalogues of regret, labeled boxes, civic archives.
+- Hidden labor and anonymous care: bakers, nurses, librarians, janitors, delivery drivers, maintainers, neighbors, designers of ordinary tools, people who keep systems humane.
+- Wonder without naivety: the writing insists on astonishment while explicitly refusing to deny grief, injustice, or exhaustion.
+- Repetition as meaning-bearing: bread, rituals, routines, returning, daily gestures, “small fidelities,” and the idea that character forms in repeated acts.
+- Language and naming: labels are often treated as insufficient; precise description, naming, and honest sentences are moral acts, but silence and the unsaid also carry weight.
 
 ## Reader relationship and expressive stance
 
@@ -41,6 +60,14 @@ Its most distinctive moral habit is compassionate reframing. Unfinishedness, rep
 - Even when making moral claims, the prose prefers **invitation over argument**. It says: slow down, look again, be gentler with your own unfinishedness.
 - The “I” is present but not confessional in a sharply personal way; it is more often a **shared witness-position** that universalizes through small scenes.
 - When the sample set shifts modes, it still preserves the same stance: the one fiction sample turns the ethos into allegory rather than abandoning it.
+- The model usually speaks beside the reader, not above them: kitchen-table intimacy, window-seat companionship, a hand-on-the-shoulder cadence.
+- It often offers permission slips: to be unfinished, to begin late, to wander, to notice, to rest, to revise, to keep small faith with ordinary life.
+- Direct address is warm and pastoral rather than salesy or motivational; “you” is used to include the reader in a shared human condition.
+- It avoids irony as a governing stance. When humor appears, it is mild, affectionate, and in service of tenderness.
+- The prose prefers accumulation over confrontation: a sequence of concrete images slowly becoming an ethic.
+- Even when making moral claims, it softens them through humility and scale: a cup of tea is not justice, but small acts still matter.
+- Fictional pieces preserve the same relationship pattern: the narrator still invites witness, patience, and gentle recognition rather than suspense or domination.
+- The expressive stance is conspicuously anti-performative: suspicious of polished completion, spectacle, and visible extraordinariness; loyal to the worn, local, and quietly sustaining.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -48,19 +75,8 @@ This model has a strongly recurring freeflow personality: tender, slow-moving, a
 
 Its most distinctive moral habit is compassionate reframing. Unfinishedness, repetition, maintenance, and minor acts of repair are not presented as lesser states but as the real work of being alive. Even grief or regret usually gets metabolized into mercy: toward abandoned efforts, toward strangers, toward earlier selves, toward the tired social world that keeps going through small decencies. The result is a model-level voice that is intimate and lyrical, but also structurally consistent: ordinary attention, gentle witness, and humble continuance form the sample set’s recurring center.
 
-## Representative evidence
+This model’s freeflow personality is strikingly consistent: it defaults to a tender, reflective, anti-cynical humanism organized around attention, maintenance, repair, and the dignity of the unfinished. The speaker usually sounds like a patient companion walking through kitchens, sidewalks, libraries, dawn streets, and small domestic scenes, turning ordinary objects into ethical evidence. Its favored emotional register is soft melancholy held inside practical hope. Rather than dramatizing breakthrough, it repeatedly values continuation: washing the cup, mending the hinge, returning to the draft, leaving a lamp on, noticing the cashier, carrying less certainty than curiosity.
 
-- **BV1_07451** — Small weather and atmosphere are treated as the real substance of living, with explicit resistance to spectacle.
-- **BV1_07452** — Ordinary objects and repeated rituals become moral proof that meaning is already here.
-- **BV1_07459** — The unfinished self is framed with tenderness rather than failure.
-- **BV1_07463** — The sample set’s object-archive tendency is especially clear: lives measured in spoonfuls, shoelaces, bus tickets, cursors, weather reports.
-- **BV1_07473** — Small civic kindnesses are elevated into the real substance of civilization.
-- **BV1_07474** — Hope appears not as certainty but as repeated practice under ordinary conditions.
-- **BV1_07465** — The incompleteness cluster gets its clearest aphoristic form.
+A defining trait is the conversion of perception into moral relation. Attention is not treated as mere mindfulness or aesthetic savoring; it becomes hospitality, love, proto-justice, and resistance to abstraction. The model persistently argues that what we fail to notice we are more likely to flatten, neglect, or harm. This gives even its gentlest prose a civic undertone: hidden labor, anonymous care, and the maintenance of shared worlds matter as much as private serenity. Its recurring images—mugs, keys, windows, thresholds, rain, museums of almosts, maps of memory—form a stable symbolic vocabulary for incompletion, tenderness, and ordinary interdependence.
 
-## Range, weak spots, and cautions for later synthesis
-
-- **Generic smoothing exists:** 3 samples are explicitly `GENERIC_ESSAY` (BV1_07453, BV1_07457, BV1_07470), and these make the model look more like polished public-thoughtfulness than a sharply singular voice.
-- **One allegorical outlier:** BV1_07455 is `GENRE_FICTION`; it still supports the same moral sensibility, but it expresses it through fable and symbolic architecture.
-- **Aphoristic repetition can overstate unity:** several samples reuse similar moral closures about attention, mercy, hope, maintenance, or ordinary significance, so synthesis should not pretend every piece is equally intimate or equally strange.
-- **The unfinishedness cluster is real but not total:** it is prominent in a subset (especially BV1_07455, BV1_07459, BV1_07460, BV1_07462, BV1_07465, BV1_07472, BV1_07475), not the whole sample set.
+When it turns to fiction, the same personality remains visible. Stories become museums of unfinished things, rain-mapped cities, hinge shops, or archives of unsaid words; plot serves witness, naming, and release more than conflict escalation. Across forms, the model resists irony, spectacle, and optimization culture, preferring modest scale, exact sensory detail, and humane permission. The resulting profile is of a model that, when writing freely, tends to become a curator of overlooked life: reverent toward the mundane, forgiving toward unfinished selves, and quietly insistent that civilization is built from repeated acts of care.

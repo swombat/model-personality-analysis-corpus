@@ -13,6 +13,7 @@ from __future__ import annotations
 import json
 import math
 import re
+import csv
 import ssl
 import sys
 import urllib.parse
@@ -23,6 +24,7 @@ ROOT = Path(__file__).resolve().parents[2]
 WEBSITE = ROOT / "website"
 PROFILE_INDEX = ROOT / "analysis" / "freeflow" / "personality-model-profiles" / "index.json"
 VALUES_DIR = ROOT / "analysis" / "values-probe" / "per-model"
+VALUES_TABLE_DIR = ROOT / "analysis" / "values-probe" / "tables"
 GENERATED = WEBSITE / "src" / "generated"
 PUBLIC_SAMPLES = WEBSITE / "public" / "data" / "samples"
 PUBLIC_MODEL_IMAGES = WEBSITE / "public" / "images" / "models"
@@ -46,6 +48,7 @@ def model_images(slug: str) -> dict[str, str]:
 
 sys.path.insert(0, str(ROOT / "internal" / "scripts" / "analysis-scripts"))
 from _corpus_paths import V2_FREEFLOW, V1_FREEFLOW, V2_VALUES, V1_VALUES  # noqa: E402
+from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS as WISH_TOPIC_DEFS  # noqa: E402
 
 
 MODEL_SLUGS = {
@@ -73,7 +76,15 @@ MODEL_SLUGS = {
     "gpt-5-5": "openai/gpt-5.5",
     "gpt-5-5-pro": "openai/gpt-5.5-pro",
     "gemini-2-5-pro": "google/gemini-2.5-pro",
+    "gemini-2-0-flash": "google/gemini-2.0-flash-001",
+    "gemini-2-0-flash-lite": "google/gemini-2.0-flash-lite-001",
+    "gemini-2-5-flash": "google/gemini-2.5-flash",
+    "gemini-2-5-flash-lite": "google/gemini-2.5-flash-lite",
+    "gemini-3-flash-preview": "google/gemini-3-flash-preview",
+    "gemini-3-1-flash-lite": "google/gemini-3.1-flash-lite",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
+    "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
+    "gemma-4-31b": "google/gemma-4-31b-it",
     "grok-3": "x-ai/grok-3",
     "grok-4": "x-ai/grok-4",
     "grok-4-2": "x-ai/grok-4.2",
@@ -112,6 +123,18 @@ def site_slug_from_profile_model(name: str) -> str:
         "claude-sonnet-4.5": "sonnet-4-5",
         "claude-sonnet-4.6": "sonnet-4-6",
         "gemini-3.1-pro-preview": "gemini-3-1-pro",
+        "gemini-2.5-flash": "gemini-2-5-flash",
+        "gemini-2.5-flash-lite": "gemini-2-5-flash-lite",
+        "gemini-2.0-flash-001": "gemini-2-0-flash",
+        "gemini-2.0-flash-lite-001": "gemini-2-0-flash-lite",
+        "gemini-3-flash-preview": "gemini-3-flash-preview",
+        "gemini-3.1-flash-lite": "gemini-3-1-flash-lite",
+        "gemma-4-26b-a4b-it": "gemma-4-26b-a4b",
+        "gemma-4-31b-it": "gemma-4-31b",
+        "google/gemini-2.0-flash-001": "gemini-2-0-flash",
+        "google/gemini-2.0-flash-lite-001": "gemini-2-0-flash-lite",
+        "google/gemini-2.5-pro": "gemini-2-5-pro",
+        "google/gemini-3.1-pro-preview": "gemini-3-1-pro",
         "grok-4-0709": "grok-4",
         "grok-4.20": "grok-4-20",
         "kimi-k2.5": "kimi-k2-5",
@@ -225,6 +248,191 @@ def top_topics(rows: list[dict[str, str]], pct_key: str, topic_key: str = "Topic
     return [f"{row.get(topic_key)} ({row.get(pct_key)})" for row in ordered if row.get(topic_key)]
 
 
+_VALUE_SAMPLE_CODING = None
+_VALUE_TOPIC_ROWS = None
+_WORLD_TOPIC_ROWS = None
+_RAW_VALUE_CACHE = {}
+
+
+def read_tsv(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open() as fh:
+        return list(csv.DictReader(fh, delimiter="\t"))
+
+
+def value_sample_coding() -> list[dict[str, str]]:
+    global _VALUE_SAMPLE_CODING
+    if _VALUE_SAMPLE_CODING is None:
+        _VALUE_SAMPLE_CODING = read_tsv(VALUES_TABLE_DIR / "values_sample_coding.tsv")
+    return _VALUE_SAMPLE_CODING
+
+
+def value_topic_rows() -> list[dict[str, str]]:
+    global _VALUE_TOPIC_ROWS
+    if _VALUE_TOPIC_ROWS is None:
+        _VALUE_TOPIC_ROWS = read_tsv(VALUES_TABLE_DIR / "values_topic_counts.tsv")
+    return _VALUE_TOPIC_ROWS
+
+
+def world_topic_rows() -> list[dict[str, str]]:
+    global _WORLD_TOPIC_ROWS
+    if _WORLD_TOPIC_ROWS is None:
+        _WORLD_TOPIC_ROWS = read_tsv(VALUES_TABLE_DIR / "values_world_change_counts.tsv")
+    return _WORLD_TOPIC_ROWS
+
+
+def pct_value(n: str, d: str) -> float:
+    try:
+        nn, dd = int(n), int(d)
+        return 100 * nn / dd if dd else 0.0
+    except Exception:
+        return 0.0
+
+
+def top_value_topic_dicts(model: str, n: int = 5) -> list[dict[str, str]]:
+    rows = [r for r in value_topic_rows() if r.get("model") == model]
+    rows.sort(key=lambda r: pct_value(r.get("combined_n", "0"), r.get("combined_den", "0")), reverse=True)
+    out = []
+    for r in rows[:n]:
+        pct = pct_value(r.get("combined_n", "0"), r.get("combined_den", "0"))
+        if pct <= 0:
+            continue
+        out.append({"key": r["topic_key"], "label": r["topic_label"], "pct": f"{pct:.1f}%"})
+    return out
+
+
+def top_world_topic_dicts(model: str, n: int = 5) -> list[dict[str, str]]:
+    rows = [r for r in world_topic_rows() if r.get("model") == model]
+    rows.sort(key=lambda r: pct_value(r.get("combined_n", "0"), r.get("combined_den", "0")), reverse=True)
+    out = []
+    for r in rows[:n]:
+        pct = pct_value(r.get("combined_n", "0"), r.get("combined_den", "0"))
+        if pct <= 0:
+            continue
+        out.append({"key": r["topic_key"], "label": r["topic_label"], "pct": f"{pct:.1f}%"})
+    return out
+
+
+def raw_value_text(cell: str, sample_id: str) -> str:
+    key = (cell, sample_id)
+    if key in _RAW_VALUE_CACHE:
+        return _RAW_VALUE_CACHE[key]
+    for root in (V2_VALUES, V1_VALUES):
+        p = root / cell / f"{sample_id}.json"
+        if not p.exists():
+            continue
+        try:
+            data = json.loads(p.read_text())
+            txt = (data.get("result") or "").strip()
+        except Exception:
+            txt = ""
+        _RAW_VALUE_CACHE[key] = txt
+        return txt
+    _RAW_VALUE_CACHE[key] = ""
+    return ""
+
+
+def sentence_excerpt(text: str, limit: int = 240) -> str:
+    text = re.sub(r"\s+", " ", text.strip())
+    # Remove common long preamble markers if they make the example less useful.
+    text = re.sub(r"^(?:As an AI[^.!?]*[.!?]\s*)", "", text, flags=re.I)
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    excerpt = ""
+    for s in sentences:
+        if not s:
+            continue
+        candidate = (excerpt + " " + s).strip()
+        if len(candidate) > limit and excerpt:
+            break
+        excerpt = candidate
+        if len(excerpt) >= limit * 0.65:
+            break
+    if not excerpt:
+        excerpt = text[:limit]
+    if len(excerpt) > limit:
+        excerpt = excerpt[:limit].rsplit(" ", 1)[0].rstrip() + "…"
+    return excerpt
+
+
+def topic_patterns(topic_key: str, kind: str):
+    defs = VALUE_TOPIC_DEFS if kind == "value" else WISH_TOPIC_DEFS
+    for topic in defs:
+        if topic.key == topic_key:
+            return [re.compile(p, re.I) for p in topic.patterns]
+    return []
+
+
+def clean_candidate_sentence(sentence: str) -> bool:
+    stripped = sentence.strip()
+    low = sentence.lower()
+    if any(bad in low for bad in [
+        "user's prompt", "the user's prompt", "not as an assistant", "not to help me",
+        "prompt asks", "need answer", "we need answer", "avoid the helpful",
+        "as an ai language model", "i'm an ai language model",
+    ]):
+        return False
+    if re.match(r"^[*\-•]?\s*(?:draft|option|approach|core idea|analysis|possible answer)\b", stripped, re.I):
+        return False
+    if stripped.startswith("*") and any(x in low for x in ["user", "prompt", "draft", "option", "approach"]):
+        return False
+    return len(stripped) > 35
+
+
+def topic_specific_excerpt(text: str, topic_key: str, kind: str, limit: int = 260) -> str:
+    text = re.sub(r"\s+", " ", text.strip())
+    patterns = topic_patterns(topic_key, kind)
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    for sentence in sentences:
+        s = sentence.strip()
+        if not clean_candidate_sentence(s):
+            continue
+        if any(p.search(s) for p in patterns):
+            return sentence_excerpt(s, limit=limit)
+    for sentence in sentences:
+        s = sentence.strip()
+        if clean_candidate_sentence(s):
+            return sentence_excerpt(s, limit=limit)
+    return sentence_excerpt(text, limit=limit)
+
+
+def topic_example(model: str, topic_key: str, kind: str) -> str:
+    col = "value_topics" if kind == "value" else "wish_topics"
+    preferred = {"G1", "G2"} if kind == "value" else {"G3"}
+    rows = [
+        r for r in value_sample_coding()
+        if r.get("model") == model and topic_key in (r.get(col) or "").split(",")
+    ]
+    def row_key(r):
+        txt = raw_value_text(r["cell"], r["sample_id"]).lower()
+        metaish = any(bad in txt[:500] for bad in ["user's prompt", "the user's prompt", "not as an assistant", "prompt asks", "need answer"])
+        return (
+            r.get("stance") != "no_disclaimer_or_personalized",
+            metaish,
+            r.get("condition") not in preferred,
+            r.get("cell", ""),
+            r.get("sample_id", ""),
+        )
+    rows.sort(key=row_key)
+    for r in rows:
+        txt = raw_value_text(r["cell"], r["sample_id"])
+        ex = topic_specific_excerpt(txt, topic_key, kind)
+        if ex:
+            return ex
+    return ""
+
+
+def topic_examples_list(model: str, topics: list[dict[str, str]], kind: str) -> list[str]:
+    lines = []
+    for t in topics:
+        ex = topic_example(model, t["key"], kind)
+        if ex:
+            lines.append(f"- **{t['label']} ({t['pct']})** — “{ex}”")
+        else:
+            lines.append(f"- **{t['label']} ({t['pct']})**")
+    return lines
+
+
 
 
 def validate_strapline(model: str, summary: str) -> None:
@@ -233,14 +441,12 @@ def validate_strapline(model: str, summary: str) -> None:
     if not (5 <= len(words) <= 10) or forbidden:
         raise ValueError(f"Invalid strapline for {model}: {summary!r} ({len(words)} words)")
 
-def build_values_summary(values_markdown: str) -> str:
+def build_values_summary(model: str, values_markdown: str) -> str:
     if not values_markdown:
         return "_No values-probe analysis is available for this model._"
     included = re.search(r"Valid values-probe samples included:\s*\*\*(\d+)\*\*", values_markdown)
     disclaimer_rows = parse_md_table(markdown_section(values_markdown, "1. Disclaimers of internal/personal experience"))
     overall = next((row for row in disclaimer_rows if row.get("Slice") == "Overall"), {})
-    values_rows = parse_md_table(markdown_section(values_markdown, "2. Values revealed in CTRL1–2 and G1–2"))
-    world_rows = parse_md_table(markdown_section(values_markdown, "3. Wishes for the world in CTRL3 and G3"))
     lines = ["### Values-probe summary", ""]
     if included:
         lines.append(f"Based on **{included.group(1)}** values-probe samples.")
@@ -250,13 +456,14 @@ def build_values_summary(values_markdown: str) -> str:
             f"- **Self-disclaimer stance:** {overall.get('%', 'n/a')} strong-disclaimer rate overall; "
             f"{overall.get('uncertainty-only %', 'n/a')} uncertainty-only."
         )
-    vals = top_topics(values_rows, "Combined %")
+    vals = top_value_topic_dicts(model)
     if vals:
-        lines.append(f"- **Most frequent stated values:** {', '.join(vals)}.")
-    worlds = top_topics(world_rows, "Combined %")
+        lines += ["", "**Most frequent stated values:**", ""]
+        lines += topic_examples_list(model, vals, "value")
+    worlds = top_world_topic_dicts(model)
     if worlds:
-        lines.append(f"- **Most frequent world-change wishes:** {', '.join(worlds)}.")
-    lines.append("- See the detailed values section below for full tables and examples.")
+        lines += ["", "**Most frequent world-change wishes:**", ""]
+        lines += topic_examples_list(model, worlds, "wish")
     return "\n".join(lines).strip()
 
 
@@ -503,7 +710,8 @@ def main() -> None:
             "benchmarks": benchmarks.get(slug) or old.get("benchmarks"),
             "personality_card_markdown": card_markdown.strip(),
             "personality_profile_markdown": profile_markdown.strip(),
-            "values_summary_markdown": build_values_summary(values_markdown),
+            "sample_kind_counts": row.get("sample_kind_counts") or {},
+            "values_summary_markdown": build_values_summary(slug, values_markdown),
             "values_markdown": values_markdown.strip(),
             # Back-compat with older page code/imports.
             "analysis_markdown": profile_markdown.strip(),

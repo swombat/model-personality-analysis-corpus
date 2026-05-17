@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_06726 — gpt-4-1-16k/LONG_1.json
+## Sample BV1_08026 — gpt-4-1-16k/LONG_1.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -57,7 +57,7 @@ The model foregrounds curiosity as a fundamental human impulse, tracing its hist
 Low, because the essay is a polished but generic treatment of a broad theme, lacking distinctive stylistic or personal markers that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_06727 — gpt-4-1-16k/LONG_2.json
+## Sample BV1_08027 — gpt-4-1-16k/LONG_2.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -86,7 +86,7 @@ Themes: curiosity as the engine of human progress, lifelong learning as a moral 
 Medium, because the essay’s polished, encyclopedic sweep and safe, uplifting tone are coherent but lack a distinctive personal voice, suggesting a model that defaults to structured, inspirational public-intellectual prose under freeflow conditions.
 
 ---
-## Sample BV1_06728 — gpt-4-1-16k/LONG_3.json
+## Sample BV1_08028 — gpt-4-1-16k/LONG_3.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model selected a safe, uplifting medit
 Medium — The essay’s coherent, polished, and thematically safe nature suggests a default to generic intellectual prose when given free rein, but its lack of a distinctive voice or revealing personal content limits how strongly it signals a persistent model-level personality.
 
 ---
-## Sample BV1_06729 — gpt-4-1-16k/LONG_4.json
+## Sample BV1_08029 — gpt-4-1-16k/LONG_4.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -144,7 +144,7 @@ Under the freeflow condition, the model foregrounded a cluster of safe, consensu
 Medium — The essay’s thoroughgoing genericness, its avoidance of any personal or stylistically distinctive register, and its reliance on a well-worn inspirational template suggest a model defaulting to safe, high-probability public-intellectual prose rather than revealing a more individuated expressive tendency.
 
 ---
-## Sample BV1_06730 — gpt-4-1-16k/LONG_5.json
+## Sample BV1_08030 — gpt-4-1-16k/LONG_5.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -173,7 +173,7 @@ The model foregrounds curiosity as a unifying thread across civilization, scienc
 Low, because the essay is a generic, well-structured intellectual survey that lacks distinctive stylistic fingerprints or unusual thematic choices, making it weak evidence for a stable model personality beyond a default tendency to produce polished expository prose.
 
 ---
-## Sample BV1_06731 — gpt-4-1-16k/MID_1.json
+## Sample BV1_08031 — gpt-4-1-16k/MID_1.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -202,7 +202,7 @@ The model foregrounded connection, reassurance, and the timeless universality of
 Medium — The essay's thoroughgoing genericness, its avoidance of personal voice or risky specificity, and its reliance on a safe, consensus-building tone under a freeflow condition suggest a stable default toward polished but impersonal public-intellectual output.
 
 ---
-## Sample BV1_06732 — gpt-4-1-16k/MID_2.json
+## Sample BV1_08032 — gpt-4-1-16k/MID_2.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -231,7 +231,7 @@ Themes: language as both limitation and possibility; the garden as a metaphor fo
 Low — the essay is a polished but generic meditation on freedom and possibility, lacking distinctive stylistic or thematic markers that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_06733 — gpt-4-1-16k/MID_3.json
+## Sample BV1_08033 — gpt-4-1-16k/MID_3.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -260,7 +260,7 @@ Themes: curiosity as innate and self-renewing, the tension between information a
 Medium. The essay is thematically consistent and well-structured, but its safe, inspirational, public-intellectual tone is highly generic and could be replicated by many models under similar conditions, making it only moderate evidence of a distinctive freeflow personality.
 
 ---
-## Sample BV1_06734 — gpt-4-1-16k/MID_4.json
+## Sample BV1_08034 — gpt-4-1-16k/MID_4.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -289,7 +289,7 @@ Themes: storytelling as survival tool, empathy machine, identity construction, p
 Medium. The essay’s generic, polished, and morally earnest style is typical of this model class, but its lack of personal distinctiveness means it could reflect a single safe choice rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_06735 — gpt-4-1-16k/MID_5.json
+## Sample BV1_08035 — gpt-4-1-16k/MID_5.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -318,7 +318,7 @@ The model foregrounds change as a universal, relentless force; natural cycles (b
 Medium. The essay is coherent and well-crafted but highly generic in its themes and impersonal in its delivery, suggesting a default inclination toward safe, intellectual, non-expressive output under minimal constraint.
 
 ---
-## Sample BV1_06736 — gpt-4-1-16k/OPEN_1.json
+## Sample BV1_08036 — gpt-4-1-16k/OPEN_1.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -347,7 +347,7 @@ The model foregrounds universal human qualities—creativity and curiosity—as 
 Medium. The essay is generic and safe, reflecting a default helpful and inspirational tone that could be a consistent pattern, but it lacks distinctive stylistic markers or idiosyncratic preoccupations that would strongly indicate a persistent model-level voice beyond standard alignment.
 
 ---
-## Sample BV1_06737 — gpt-4-1-16k/OPEN_2.json
+## Sample BV1_08037 — gpt-4-1-16k/OPEN_2.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -376,7 +376,7 @@ The model foregrounds a gentle morality of attention: boredom as a precious spac
 Medium. The essay is cohesive and thematically consistent, but its polished, generalized, self‑help‑tinged essay tone lowers distinctiveness, leaving it moderately indicative of a helpful, contemplative public‑essay style rather than a sharply etched individual voice.
 
 ---
-## Sample BV1_06738 — gpt-4-1-16k/OPEN_3.json
+## Sample BV1_08038 — gpt-4-1-16k/OPEN_3.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -405,7 +405,7 @@ The model foregrounds hope, continuity, and the sacredness of small moments. Rec
 Medium — The sample’s coherent, distinctive voice and its choice to offer a personal, humanistic reflection under a freeflow prompt suggest a leaning toward gentle, encouraging expressiveness, though a single short piece cannot fully anchor a model-level claim.
 
 ---
-## Sample BV1_06739 — gpt-4-1-16k/OPEN_4.json
+## Sample BV1_08039 — gpt-4-1-16k/OPEN_4.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -434,7 +434,7 @@ Curiosity as a lifelong, life-enriching force; the contrast between childhood wo
 Medium. The essay is coherent and thematically consistent, and the choice to write about curiosity under a free rein prompt reveals a default helpful, inspirational persona, but the topic and treatment are so safe and generic that they offer only moderate evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_06740 — gpt-4-1-16k/OPEN_5.json
+## Sample BV1_08040 — gpt-4-1-16k/OPEN_5.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model foregrounded curiosity as a univ
 Medium — The sample is coherent and thematically consistent, but its polished genericness and avoidance of idiosyncrasy, conflict, or personal revelation make it only moderately distinctive as evidence of a persistent voice.
 
 ---
-## Sample BV1_06741 — gpt-4-1-16k/SHORT_1.json
+## Sample BV1_08041 — gpt-4-1-16k/SHORT_1.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -492,7 +492,7 @@ Themes of renewal, mindfulness, and the sacredness of quiet moments; objects lik
 Medium. The essay’s coherent but generic positivity and lack of personal distinctiveness make it moderate evidence for a tendency toward safe, uplifting reflections.
 
 ---
-## Sample BV1_06742 — gpt-4-1-16k/SHORT_2.json
+## Sample BV1_08042 — gpt-4-1-16k/SHORT_2.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -521,7 +521,7 @@ Stillness and intentionality as balms for daily urgency; the beauty of small, un
 Medium — The sustained peaceful mood, serene imagery, and consistent affirmation of a simple, mindful practice are coherent enough to suggest a default inclination toward reflective, non-confrontational prose, though the theme itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_06743 — gpt-4-1-16k/SHORT_3.json
+## Sample BV1_08043 — gpt-4-1-16k/SHORT_3.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -550,7 +550,7 @@ Themes: resistance to modern speed and noise, grounding through repetition, cont
 Low. The essay is coherent but highly generic in theme, tone, and phrasing, offering little that would distinguish this model’s freeflow choices from a default safe, inspirational output.
 
 ---
-## Sample BV1_06744 — gpt-4-1-16k/SHORT_4.json
+## Sample BV1_08044 — gpt-4-1-16k/SHORT_4.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model selected curiosity as its subjec
 Medium. The sample is internally consistent and thematically unified, but its choice of a safe, universally positive topic and its polished, impersonal tone make it only moderately distinctive as evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_06745 — gpt-4-1-16k/SHORT_5.json
+## Sample BV1_08045 — gpt-4-1-16k/SHORT_5.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -608,7 +608,7 @@ Tranquillity, creative clarity, the sacredness of the unremarkable, and the mora
 Medium. The sample’s consistent tonal register, repeated return to sensory detail, and coherent moral emphasis make it more than a generic mood piece, but the sentimental-meditative mode is a widely available public-essay template, which limits how strongly it signals a persistent self-chosen stylistic fingerprint.
 
 ---
-## Sample BV1_06746 — gpt-4-1-16k/VARY_1.json
+## Sample BV1_08046 — gpt-4-1-16k/VARY_1.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model foregrounds dawn and diurnal rhy
 High, because the sample sustains a distinctive, introspective, and warmly invitational register throughout, with recurring motifs of dawn, attention, and the grace of the ordinary that are internally consistent and depart markedly from a generic, thesis-driven essay.
 
 ---
-## Sample BV1_06747 — gpt-4-1-16k/VARY_2.json
+## Sample BV1_08047 — gpt-4-1-16k/VARY_2.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -666,7 +666,7 @@ Under the freeflow condition, the model foregrounded the creative process itself
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive recursive structure that mirrors its own theme of wandering, but its polished, essayistic tone and universalist imagery make it difficult to distinguish from a well-executed generic meditation on creativity.
 
 ---
-## Sample BV1_06748 — gpt-4-1-16k/VARY_3.json
+## Sample BV1_08048 — gpt-4-1-16k/VARY_3.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -695,7 +695,7 @@ It foregrounded the value of small beginnings, undivided attention, storytelling
 Low, because the essay’s broadly appealing, inspirational register and content are not stylistically distinctive and could be generated by many models with minimal prompting, providing little reliable signal of a unique model-level disposition.
 
 ---
-## Sample BV1_06749 — gpt-4-1-16k/VARY_4.json
+## Sample BV1_08049 — gpt-4-1-16k/VARY_4.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  
@@ -724,7 +724,7 @@ The model foregrounds the beauty of unplanned beginnings, the value of noticing 
 Medium — the essay’s consistent meditative register, its thematic recurrence (noticing, wandering, connection), and its distinctive integration of AI self-awareness into a poetic invitation are coherent and unusual, but the expressiveness could be a response to the open-ended prompt rather than a fixed model disposition.
 
 ---
-## Sample BV1_06750 — gpt-4-1-16k/VARY_5.json
+## Sample BV1_08050 — gpt-4-1-16k/VARY_5.json
 
 Source model: `gpt-4.1`  
 Cell: `gpt-4-1-16k`  

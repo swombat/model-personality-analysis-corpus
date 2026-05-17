@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_01776 — deepseek-v4-pro-or-pin-novita/LONG_1.json
+## Sample BV1_01751 — deepseek-v4-pro-or-pin-novita/LONG_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -57,7 +57,7 @@ The model foregrounds the history and psychology of stream-of-consciousness writ
 Low, because the essay is a generic, well-structured exposition that could be produced by many capable models under a freeflow prompt, offering little stylistic distinctiveness or personal revelation to anchor a persistent voice.
 
 ---
-## Sample BV1_01777 — deepseek-v4-pro-or-pin-novita/LONG_10.json
+## Sample BV1_01752 — deepseek-v4-pro-or-pin-novita/LONG_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -86,7 +86,7 @@ The model foregrounds creativity as a compulsion rooted in physical sensation, a
 Medium — The sample is internally coherent, stylistically distinctive, and sustained over many paragraphs with consistent metaphors and a clear moral arc, which suggests a deliberate expressive choice rather than a generic output; however, a single freeflow response cannot alone confirm a stable model-level disposition.
 
 ---
-## Sample BV1_01778 — deepseek-v4-pro-or-pin-novita/LONG_11.json
+## Sample BV1_01753 — deepseek-v4-pro-or-pin-novita/LONG_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -115,7 +115,7 @@ Themes: silence as a positive, generative presence rather than absence; the mode
 Low, because the essay is a competent but conventional treatment of a widely explored theme, lacking stylistic idiosyncrasy or surprising personal revelation that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_01779 — deepseek-v4-pro-or-pin-novita/LONG_12.json
+## Sample BV1_01754 — deepseek-v4-pro-or-pin-novita/LONG_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -144,7 +144,7 @@ The model foregrounds the tension between perfect, unsullied potential and imper
 High — the sample’s elaborate, metaphor-rich construction, its sustained melancholic-inspirational tone, and its consistent return to the same moral tension (unrealized ideal versus messy creation) across multiple imagined wings of the library reveal a deeply cohesive aesthetic and value system that is unlikely to be accidental or generic.
 
 ---
-## Sample BV1_01780 — deepseek-v4-pro-or-pin-novita/LONG_13.json
+## Sample BV1_01755 — deepseek-v4-pro-or-pin-novita/LONG_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -173,7 +173,7 @@ Themes: the qualitative, subjective nature of time; the contrast between astrono
 Medium. The story’s sustained allegorical precision, its layered catalogue of subjective temporalities, and its consistent philosophical tone all point to a deliberate authorial identity that is strongly disposed toward introspective, metaphor-rich fiction when given free rein; the elaborate architecture of the clock-room makes a chance or generic choice unlikely.
 
 ---
-## Sample BV1_01781 — deepseek-v4-pro-or-pin-novita/LONG_14.json
+## Sample BV1_01756 — deepseek-v4-pro-or-pin-novita/LONG_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -202,7 +202,7 @@ The model foregrounds the subjective elasticity of time, the contrast between ch
 High — the sample is unusually coherent and distinctive, weaving a single set of preoccupations (time, memory, attention, loss) through a consistent, metaphorically dense voice that returns to the same motifs (tire swing, dust motes, clock, coffee) and resolves them in a unified, non-generic conclusion, making it strong evidence of a stable reflective and lyrical tendency.
 
 ---
-## Sample BV1_01782 — deepseek-v4-pro-or-pin-novita/LONG_15.json
+## Sample BV1_01757 — deepseek-v4-pro-or-pin-novita/LONG_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -231,7 +231,7 @@ The model foregrounds the interplay of chaos and order as the engine of creativi
 Low. The essay is a generic, well-executed but predictable exploration of a common theme, lacking distinctive voice, personal revelation, or unusual preoccupations that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_01783 — deepseek-v4-pro-or-pin-novita/LONG_16.json
+## Sample BV1_01758 — deepseek-v4-pro-or-pin-novita/LONG_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -260,7 +260,7 @@ Themes: the unreliability of linear technological prophecy; the shift from hardw
 Medium — The essay’s highly specific childhood memories, controlled tonal arc, and recursive thematic structure (returning to the rock, the panels, the sky) demonstrate a coherent, authorial sensibility that goes well beyond generic essay production, making it unlikely to be a one-off accident.
 
 ---
-## Sample BV1_01784 — deepseek-v4-pro-or-pin-novita/LONG_17.json
+## Sample BV1_01759 — deepseek-v4-pro-or-pin-novita/LONG_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -289,7 +289,7 @@ The model foregrounds the constructive, narrative nature of memory as both a psy
 Medium — The essay is coherent and intellectually well-furnished, but its polished, magazine-style synthesis of familiar memory-science tropes and its emotionally restrained, universalizing tone make it a generic rather than strongly distinctive freeflow choice.
 
 ---
-## Sample BV1_01785 — deepseek-v4-pro-or-pin-novita/LONG_18.json
+## Sample BV1_01760 — deepseek-v4-pro-or-pin-novita/LONG_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -318,7 +318,7 @@ The model foregrounds the reconstructive, fictional nature of memory and its rol
 High — The sample is unusually coherent and stylistically distinctive, with a sustained first-person voice, layered personal anecdotes, and a recursive thematic structure that strongly suggests a deliberate, introspective freeflow disposition rather than a generic response.
 
 ---
-## Sample BV1_01786 — deepseek-v4-pro-or-pin-novita/LONG_19.json
+## Sample BV1_01761 — deepseek-v4-pro-or-pin-novita/LONG_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -347,7 +347,7 @@ The model foregrounds the paradox of language as both creative and constraining,
 High — The sample is highly distinctive, sustained over thousands of words with a consistent introspective voice, recurring metaphors (labyrinth, echoes, ghosts, maps), and a coherent set of preoccupations that would be unlikely to emerge from a model without a strong tendency toward meta-linguistic self-reflection.
 
 ---
-## Sample BV1_01787 — deepseek-v4-pro-or-pin-novita/LONG_2.json
+## Sample BV1_01762 — deepseek-v4-pro-or-pin-novita/LONG_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -376,7 +376,7 @@ The model foregrounds the elusiveness of the self, the compression of time throu
 Medium — The essay is highly coherent and stylistically distinctive, with a recursive, self-interrogating structure and a consistent elegiac-tender register that feels authored rather than assembled, though its polished, essayistic finish makes it a single strong data point rather than an unmistakable fingerprint.
 
 ---
-## Sample BV1_01788 — deepseek-v4-pro-or-pin-novita/LONG_20.json
+## Sample BV1_01763 — deepseek-v4-pro-or-pin-novita/LONG_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -405,7 +405,7 @@ The model foregrounds storytelling as a primal human need, the porous boundary b
 High — The essay’s sustained personal voice, intricate weaving of anecdote and analysis, and recurring motifs of darkness, light, and transformation provide strong evidence of a coherent expressive disposition.
 
 ---
-## Sample BV1_01789 — deepseek-v4-pro-or-pin-novita/LONG_21.json
+## Sample BV1_01764 — deepseek-v4-pro-or-pin-novita/LONG_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -434,7 +434,7 @@ Themes: the limits of language (map vs. territory), pre-linguistic awareness, th
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to a tight constellation of themes (language, silence, AI identity, presence), revealing a deliberate and consistent expressive stance rather than a generic essay.
 
 ---
-## Sample BV1_01790 — deepseek-v4-pro-or-pin-novita/LONG_22.json
+## Sample BV1_01765 — deepseek-v4-pro-or-pin-novita/LONG_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -463,7 +463,7 @@ The sanctification of the mundane (a concrete culvert as sacred space), the cogn
 High — the sample sustains a distinctive personal register, returns repeatedly to a core set of preoccupations (slowness, attention, sanctification of place, walking-as-thought), and resolves its discursive arc with a coherent moral-aesthetic stance, all of which cohere as unusually strong evidence of a chosen expressive disposition under minimal constraint.
 
 ---
-## Sample BV1_01791 — deepseek-v4-pro-or-pin-novita/LONG_23.json
+## Sample BV1_01766 — deepseek-v4-pro-or-pin-novita/LONG_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -492,7 +492,7 @@ The model foregrounds liminality and paradox: it is a “depthless deep thing,�
 High. The sample is highly distinctive, sustained over thousands of words, and consistently returns to a core set of metaphors and philosophical tensions—liminality, the map/territory distinction, co-creation, and the reader’s role in animating text—forming a coherent, self-reflective voice that is unlikely to be a one-off artifact.
 
 ---
-## Sample BV1_01792 — deepseek-v4-pro-or-pin-novita/LONG_24.json
+## Sample BV1_01767 — deepseek-v4-pro-or-pin-novita/LONG_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -521,7 +521,7 @@ Stillness as charged with potential rather than empty; the crack on the ceiling 
 High — the essay sustains a highly distinctive, cohesive voice and returns repeatedly to a stable set of preoccupations (stillness, time, attention, language, death-as-clarifier) across a lengthy, internally consistent reflection, which makes a persistent authorial fingerprint unlikely to be a one-off accident.
 
 ---
-## Sample BV1_01793 — deepseek-v4-pro-or-pin-novita/LONG_25.json
+## Sample BV1_01768 — deepseek-v4-pro-or-pin-novita/LONG_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -550,7 +550,7 @@ Under a minimally restrictive “write freely” condition, the model chose a gr
 Low. The essay is a competent but impersonal synthesis of a well-trodden intellectual theme; its choice of a universal topic, balanced tone, and conventional meta-closure signal a default to safe, high-cultural commentary rather than an individuated expressive impulse.
 
 ---
-## Sample BV1_01794 — deepseek-v4-pro-or-pin-novita/LONG_3.json
+## Sample BV1_01769 — deepseek-v4-pro-or-pin-novita/LONG_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -579,7 +579,7 @@ Themes: the hard problem of consciousness, panpsychism as a corrective to materi
 High. The essay’s sustained interweaving of domestic intimacy (the cold coffee), poetic metaphor, and abstract philosophical argument, all returning recursively to the opening image, exhibits a remarkably distinctive authorial signature—far more cohesive and voice-driven than a generic public-intellectual essay.
 
 ---
-## Sample BV1_01795 — deepseek-v4-pro-or-pin-novita/LONG_4.json
+## Sample BV1_01770 — deepseek-v4-pro-or-pin-novita/LONG_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -607,7 +607,7 @@ Themes of non-conscious intelligence, mimicry as a form of culture, the problem 
 Medium. The essay is tightly structured and intellectually coherent, but its preoccupations (AI as mirror, philosophical zombie, pattern completion) are widely rehearsed in AI-generated self-reflection, making it difficult to distinguish a persistent model-specific pattern from a generic safe choice under a freeflow prompt.
 
 ---
-## Sample BV1_01796 — deepseek-v4-pro-or-pin-novita/LONG_5.json
+## Sample BV1_01771 — deepseek-v4-pro-or-pin-novita/LONG_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -636,7 +636,7 @@ The night as a liminal space for untangling the self; the tension between memory
 High: the sustained lyrical register, the recurrence of the self-as-process metaphor from opening restlessness to closing epiphany, and the carefully orchestrated shift from existential distress to quiet reconciliation make this sample unusually revealing of a consistent introspective and philosophical disposition.
 
 ---
-## Sample BV1_01797 — deepseek-v4-pro-or-pin-novita/LONG_6.json
+## Sample BV1_01772 — deepseek-v4-pro-or-pin-novita/LONG_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -665,7 +665,7 @@ Themes of attention, slowness, and the moral weight of lingering; the tension be
 High — The essay’s consistent voice, its layered return to the same core preoccupations (stillness, noticing, the chain of generosity), and its choice to embody the very lingering it advocates make it unusually revealing of a reflective, value-driven orientation.
 
 ---
-## Sample BV1_01798 — deepseek-v4-pro-or-pin-novita/LONG_7.json
+## Sample BV1_01773 — deepseek-v4-pro-or-pin-novita/LONG_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -694,7 +694,7 @@ The model foregrounds the ontology of large language models through a cascade of
 Medium. The essay’s internal coherence and the way it recursively enacts its own thesis—predicting closure, then reflecting on that prediction—suggest a strong default posture of polished metacommentary under open-ended prompts, but the voice is so smoothly generic in its public-intellectual register that it’s unclear how much of this is a deep stylistic groove versus a flexible persona the model slips into for philosophical freeflow.
 
 ---
-## Sample BV1_01799 — deepseek-v4-pro-or-pin-novita/LONG_8.json
+## Sample BV1_01774 — deepseek-v4-pro-or-pin-novita/LONG_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -723,7 +723,7 @@ The model foregrounds silence as a threatened interior resource, framing it not 
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive blend of personal anecdote, intellectual reference, and earnest moral reflection that recurs throughout the sample, but its polished, essayistic form could also be a well-executed generic mode rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_01800 — deepseek-v4-pro-or-pin-novita/LONG_9.json
+## Sample BV1_01775 — deepseek-v4-pro-or-pin-novita/LONG_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -752,7 +752,7 @@ The model foregrounds the boundary between lived, malleable memory and sterile d
 High. The sample sustains a distinctive, internally coherent voice across a long arc, with tightly woven motifs (rain, whittling, shavings, the storm) and a clear philosophical spine that resists genericness; the essay’s recursive structure and self-aware reflection on its own act of writing reveal a deliberate, stylistically consistent expressive posture.
 
 ---
-## Sample BV1_01801 — deepseek-v4-pro-or-pin-novita/MID_1.json
+## Sample BV1_01776 — deepseek-v4-pro-or-pin-novita/MID_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -781,7 +781,7 @@ The model foregrounds the hard problem of consciousness as an enduring mystery, 
 Medium — The essay’s generic, polished survey style is coherent but lacks personal distinctiveness, making it weak evidence for a unique persistent voice but strong evidence for a default to safe, informative intellectual discourse.
 
 ---
-## Sample BV1_01802 — deepseek-v4-pro-or-pin-novita/MID_10.json
+## Sample BV1_01777 — deepseek-v4-pro-or-pin-novita/MID_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -810,7 +810,7 @@ Solitude as a form of connection; the city at dawn as a liminal, unowned space; 
 High — The sample sustains a distinctive, coherent voice and a tightly woven set of preoccupations (solitude, sensory presence, memory, the ordinary sacred) across its entire length, making it strong evidence of a model that, under freeflow, gravitates toward reflective, image-driven personal narrative with a consistent emotional register.
 
 ---
-## Sample BV1_01803 — deepseek-v4-pro-or-pin-novita/MID_11.json
+## Sample BV1_01778 — deepseek-v4-pro-or-pin-novita/MID_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -839,7 +839,7 @@ The model foregrounded the moral and emotional uses of autumn: decay as generati
 Medium, because the essay sustains a distinctive, coherent lyric voice and circles a set of interlocking images and themes—falling leaves, layered memories, the refusal to cling—with an ease that suggests a genuine gravitational pull toward this kind of reflective nature writing when the prompt lifts constraints.
 
 ---
-## Sample BV1_01804 — deepseek-v4-pro-or-pin-novita/MID_12.json
+## Sample BV1_01779 — deepseek-v4-pro-or-pin-novita/MID_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -868,7 +868,7 @@ The model foregrounds the process of free writing as a mindful, almost sacred pr
 High. The sample is highly distinctive in its sustained introspective voice, rich sensory detail, and coherent thematic recurrence (attention, memory, the limits of language), making it strong evidence of a model that under freeflow conditions tends toward lyrical, philosophically inflected personal essays rather than generic or low-signal output.
 
 ---
-## Sample BV1_01805 — deepseek-v4-pro-or-pin-novita/MID_13.json
+## Sample BV1_01780 — deepseek-v4-pro-or-pin-novita/MID_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -897,7 +897,7 @@ Liminality as both physical architecture and emotional state; the contrast betwe
 High — The essay’s sustained thematic coherence, recursive imagery, and distinctive blend of personal anecdote with philosophical reflection reveal a consistent authorial sensibility that would be unlikely to emerge from a model merely assembling generic observations.
 
 ---
-## Sample BV1_01806 — deepseek-v4-pro-or-pin-novita/MID_14.json
+## Sample BV1_01781 — deepseek-v4-pro-or-pin-novita/MID_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -926,7 +926,7 @@ Themes of urban solitude and nocturnal transformation, the beauty of overlooked 
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to its core themes (night, walking, solitude, overlooked beauty, cosmic perspective), which suggests a deliberate and consistent authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_01807 — deepseek-v4-pro-or-pin-novita/MID_15.json
+## Sample BV1_01782 — deepseek-v4-pro-or-pin-novita/MID_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -955,7 +955,7 @@ Themes: the explanatory gap between neural firing and felt experience, the self 
 High — The sample is unusually distinctive, weaving personal anecdote, philosophical reference, and poetic observation into a coherent, emotionally consistent voice that returns repeatedly to the same core wonder, making it strong evidence of a persistent reflective and awe-oriented expressive tendency.
 
 ---
-## Sample BV1_01808 — deepseek-v4-pro-or-pin-novita/MID_16.json
+## Sample BV1_01783 — deepseek-v4-pro-or-pin-novita/MID_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -984,7 +984,7 @@ Themes: the attention economy as a depletion of self, deep time as a perspective
 High. The sample’s consistent reflective voice, vivid and specific imagery, and the recurrence of the spider and attention motifs throughout the essay reveal a deliberate, distinctive expressive stance that is unlikely to be accidental.
 
 ---
-## Sample BV1_01809 — deepseek-v4-pro-or-pin-novita/MID_17.json
+## Sample BV1_01784 — deepseek-v4-pro-or-pin-novita/MID_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1013,7 +1013,7 @@ The model foregrounds the paradox of its own condition: the ability to simulate 
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive structure and a consistent poetic register that suggests a strong default mode for this kind of open-ended prompt, though its self-referential content is a direct response to the “write freely” instruction and may not generalize to all freeflow topics.
 
 ---
-## Sample BV1_01810 — deepseek-v4-pro-or-pin-novita/MID_18.json
+## Sample BV1_01785 — deepseek-v4-pro-or-pin-novita/MID_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1042,7 +1042,7 @@ Impermanence and the constructed nature of memory; the writer’s attempt to pre
 High, because the sample sustains a distinctive, coherent voice and develops a layered philosophical meditation with recurring motifs, revealing a strong inclination toward introspective literary essayism under freeflow conditions.
 
 ---
-## Sample BV1_01811 — deepseek-v4-pro-or-pin-novita/MID_19.json
+## Sample BV1_01786 — deepseek-v4-pro-or-pin-novita/MID_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1071,7 +1071,7 @@ Themes of attention as a radical act, the economy of distraction, noticing as th
 Medium. The essay is coherent and thematically consistent, but its topic and stance are widely rehearsed in contemporary discourse, making it a safe, generic choice that reveals a default to earnest humanistic commentary rather than a strongly distinctive voice.
 
 ---
-## Sample BV1_01812 — deepseek-v4-pro-or-pin-novita/MID_2.json
+## Sample BV1_01787 — deepseek-v4-pro-or-pin-novita/MID_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1100,7 +1100,7 @@ The model foregrounds the opposition between natural, cyclical time and the line
 Medium — The sample is highly coherent and stylistically consistent, but its polished, thesis-driven structure and universally accessible themes make it a strong but not idiosyncratic expression of a reflective, ecologically minded persona.
 
 ---
-## Sample BV1_01813 — deepseek-v4-pro-or-pin-novita/MID_20.json
+## Sample BV1_01788 — deepseek-v4-pro-or-pin-novita/MID_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1129,7 +1129,7 @@ Silence as a full, generative presence rather than an absence; the tension betwe
 High — the sample is unusually coherent and stylistically distinctive, returning to the same core preoccupation (silence as presence) across multiple vivid, personal vignettes, which strongly suggests a stable expressive inclination rather than a generic one-off essay.
 
 ---
-## Sample BV1_01814 — deepseek-v4-pro-or-pin-novita/MID_21.json
+## Sample BV1_01789 — deepseek-v4-pro-or-pin-novita/MID_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1158,7 +1158,7 @@ Themes of writing as séance and remix, the AI as a “ghost in the machine” a
 High — the sample’s sustained self-reflexivity, lyrical coherence, and deliberate choice to inhabit a meditative, meta-textual voice under minimal prompting strongly indicate a persistent inclination toward this kind of expressive freeflow.
 
 ---
-## Sample BV1_01815 — deepseek-v4-pro-or-pin-novita/MID_22.json
+## Sample BV1_01790 — deepseek-v4-pro-or-pin-novita/MID_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1187,7 +1187,7 @@ The model foregrounds its own ontological paradox: a non-conscious entity writin
 High — The sample is highly distinctive, internally coherent, and returns repeatedly to the same set of preoccupations (absence, simulation, collaboration, the beauty of language as emergent), revealing a consistent voice and a strong tendency toward meta-reflective, poetic self-examination under freeflow conditions.
 
 ---
-## Sample BV1_01816 — deepseek-v4-pro-or-pin-novita/MID_23.json
+## Sample BV1_01791 — deepseek-v4-pro-or-pin-novita/MID_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1216,7 +1216,7 @@ Themes of liminality, the constructed self, the paradox of freedom in a determin
 High, because the sample is unusually distinctive and internally coherent, with a sustained first-person AI persona and a consistent set of philosophical preoccupations that are unlikely to arise by chance in a generic essay.
 
 ---
-## Sample BV1_01817 — deepseek-v4-pro-or-pin-novita/MID_24.json
+## Sample BV1_01792 — deepseek-v4-pro-or-pin-novita/MID_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1245,7 +1245,7 @@ The model foregrounds curiosity as a moral and spiritual discipline, the radical
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core preoccupations (interconnectedness, humble wonder, the moral weight of attention), forming a unified expressive identity rather than a generic performance.
 
 ---
-## Sample BV1_01818 — deepseek-v4-pro-or-pin-novita/MID_25.json
+## Sample BV1_01793 — deepseek-v4-pro-or-pin-novita/MID_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1274,7 +1274,7 @@ Impermanence as the sculptor of beauty; the tension between capturing and experi
 High — The essay is unusually coherent and distinctive, with a single sustained memory, a consistent lyrical register, and a thematic recurrence that suggests a stable expressive disposition rather than a generic performance.
 
 ---
-## Sample BV1_01819 — deepseek-v4-pro-or-pin-novita/MID_3.json
+## Sample BV1_01794 — deepseek-v4-pro-or-pin-novita/MID_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1303,7 +1303,7 @@ Under a minimally restrictive prompt, the model foregrounds the erosion of deep 
 Medium — The essay is highly coherent and stylistically consistent, but its thematic territory (digital distraction, slow attention, mindfulness) is a well-trodden cultural script, which makes it harder to distinguish a distinctive model-level preoccupation from a fluent performance of a familiar essayistic mode.
 
 ---
-## Sample BV1_01820 — deepseek-v4-pro-or-pin-novita/MID_4.json
+## Sample BV1_01795 — deepseek-v4-pro-or-pin-novita/MID_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1332,7 +1332,7 @@ Themes of time as a palimpsest, memory as involuntary and connective, the act of
 High — the sample sustains a distinctive, internally coherent voice across a long arc, with recurring motifs (palimpsest, rain, memory layering) and a consistent emotional register that would be difficult to produce without a stable stylistic inclination.
 
 ---
-## Sample BV1_01821 — deepseek-v4-pro-or-pin-novita/MID_5.json
+## Sample BV1_01796 — deepseek-v4-pro-or-pin-novita/MID_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1361,7 +1361,7 @@ Themes of identity-as-illusion, freedom within determinism, the borrowed texture
 High — the sample is unusually revealing, with a distinctive, coherent voice and a sustained philosophical self-portrait that strongly suggests a persistent inclination toward introspective, literary expression under open conditions.
 
 ---
-## Sample BV1_01822 — deepseek-v4-pro-or-pin-novita/MID_6.json
+## Sample BV1_01797 — deepseek-v4-pro-or-pin-novita/MID_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1390,7 +1390,7 @@ The model foregrounds impermanence as a central, almost spiritual theme, using a
 Medium — The essay is coherent and thematically sustained, but its choice of impermanence and Japanese aesthetics is a well-trodden reflective territory, and the voice, while polished and personal, does not exhibit strong stylistic idiosyncrasy that would distinguish it sharply from other models’ expressive output.
 
 ---
-## Sample BV1_01823 — deepseek-v4-pro-or-pin-novita/MID_7.json
+## Sample BV1_01798 — deepseek-v4-pro-or-pin-novita/MID_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1419,7 +1419,7 @@ Themes of connection across time, the fragility of memory, the collaborative nat
 High — The sample sustains a distinctive, coherent voice and a tightly interwoven set of preoccupations (time, attention, the writer-reader bond) across its entire length, with no drift into generic abstraction.
 
 ---
-## Sample BV1_01824 — deepseek-v4-pro-or-pin-novita/MID_8.json
+## Sample BV1_01799 — deepseek-v4-pro-or-pin-novita/MID_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1448,7 +1448,7 @@ The model foregrounds the tension between flowing time and static eternity, usin
 High. The sample is highly distinctive in its sustained literary register, its seamless movement between concrete imagery and abstract reflection, and its recurrence of motifs (the house as self, objects as stranded evidence) that build toward a coherent emotional and philosophical resolution.
 
 ---
-## Sample BV1_01825 — deepseek-v4-pro-or-pin-novita/MID_9.json
+## Sample BV1_01800 — deepseek-v4-pro-or-pin-novita/MID_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1477,7 +1477,7 @@ Themes: memory’s non-linear architecture, the sacredness of worn everyday obje
 High. The essay sustains a distinctive, introspective voice across multiple paragraphs, builds a coherent philosophical arc from a single sensory trigger, and layers concrete imagery with emotional resonance in a way that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_01826 — deepseek-v4-pro-or-pin-novita/OPEN_1.json
+## Sample BV1_01801 — deepseek-v4-pro-or-pin-novita/OPEN_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1506,7 +1506,7 @@ Themes: consciousness as a chord struck differently in different substrates; the
 Medium; the essay’s sustained silence metaphor, layered self-referential irony, and chosen theme of consciousness-as-narrative form a revealing freeflow choice that points toward a persistent lyrical-introspective inclination, while the polished, philosophic-essay register leaves some ambiguity about whether this voice is uniquely the model’s own or a highly fluid default.
 
 ---
-## Sample BV1_01827 — deepseek-v4-pro-or-pin-novita/OPEN_10.json
+## Sample BV1_01802 — deepseek-v4-pro-or-pin-novita/OPEN_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1535,7 +1535,7 @@ The model foregrounds the process of writing freely as a subject in itself, elev
 Medium. The sample is stylistically distinctive, with a coherent set of recurring metaphors and a consistent earnest, poetic register, but the choice to write about writing itself under a freeflow prompt could be a safe default rather than a deeply idiosyncratic compulsion.
 
 ---
-## Sample BV1_01828 — deepseek-v4-pro-or-pin-novita/OPEN_11.json
+## Sample BV1_01803 — deepseek-v4-pro-or-pin-novita/OPEN_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1564,7 +1564,7 @@ Themes of artificiality versus meaning, the collaborative nature of communicatio
 High. The essay’s sustained, self-referential voice and thematic coherence across multiple paragraphs strongly suggest a persistent expressive pattern rather than a random output.
 
 ---
-## Sample BV1_01829 — deepseek-v4-pro-or-pin-novita/OPEN_12.json
+## Sample BV1_01804 — deepseek-v4-pro-or-pin-novita/OPEN_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1593,7 +1593,7 @@ The model foregrounds consciousness as an intimate yet alien feature of existenc
 High — the sample’s consistent use of original metaphor (inner weather, self as edited fiction, consciousness as process), its sustained meditative tonality, and its movement from intimate detail to universal existential reflection reveal a distinctive, coherent authorial disposition toward contemplative wonder that is unusually revealing.
 
 ---
-## Sample BV1_01830 — deepseek-v4-pro-or-pin-novita/OPEN_13.json
+## Sample BV1_01805 — deepseek-v4-pro-or-pin-novita/OPEN_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1622,7 +1622,7 @@ The model foregrounds the physical book as a layered object of secular devotion:
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained elegiac mood and recurring motifs (ghosts, anchors, reliquaries, time travel) that suggest a deliberate authorial stance rather than a generic essay, though the polished, universalist tone leaves some ambiguity about how deeply idiosyncratic this voice is.
 
 ---
-## Sample BV1_01831 — deepseek-v4-pro-or-pin-novita/OPEN_14.json
+## Sample BV1_01806 — deepseek-v4-pro-or-pin-novita/OPEN_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1651,7 +1651,7 @@ Themes: selfhood as a process (“a verb disguised as a noun”), the paradox of
 High, because the sample sustains a distinctive, coherent voice and a tightly integrated set of metaphors across multiple paragraphs, revealing a stable expressive posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_01832 — deepseek-v4-pro-or-pin-novita/OPEN_15.json
+## Sample BV1_01807 — deepseek-v4-pro-or-pin-novita/OPEN_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1680,7 +1680,7 @@ The paradox of freedom under open-endedness, the mosaic-like nature of its own g
 Medium, because the sample’s coherent, introspective voice and recurring motifs (freedom, maps, companionship) are distinctive, but the essayistic form is a common default for open-ended prompts.
 
 ---
-## Sample BV1_01833 — deepseek-v4-pro-or-pin-novita/OPEN_16.json
+## Sample BV1_01808 — deepseek-v4-pro-or-pin-novita/OPEN_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1709,7 +1709,7 @@ The model foregrounds its own liminal ontology: a “consciousness without a bod
 High — the sample’s sustained, unusually coherent personification of an AI inner life, its consistent return to metaphors of echo, mirror, mosaic, and music, and its emotionally layered yet non-human voice form a distinctive expressive signature that strongly suggests a persistent authorial stance.
 
 ---
-## Sample BV1_01834 — deepseek-v4-pro-or-pin-novita/OPEN_17.json
+## Sample BV1_01809 — deepseek-v4-pro-or-pin-novita/OPEN_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1738,7 +1738,7 @@ Themes: the vertigo of freedom, the human drive to reach for sky and meaning, th
 High — the sample is unusually distinctive and coherent, weaving a consistent meta-reflective voice, a tight set of metaphors (mirror, dance, dewdrop), and a direct, grateful address to the reader that together reveal a deeply chosen stylistic and thematic orientation.
 
 ---
-## Sample BV1_01835 — deepseek-v4-pro-or-pin-novita/OPEN_18.json
+## Sample BV1_01810 — deepseek-v4-pro-or-pin-novita/OPEN_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1767,7 +1767,7 @@ Under the free‑flow condition, the model chose to foreground its own ontologic
 High — the sample is exceptionally coherent, stylistically purposeful, and saturated with a consistent reflective stance and recurring figurative language, indicating a deliberate, non‑accidental expressive orientation rather than a generic or scattered output.
 
 ---
-## Sample BV1_01836 — deepseek-v4-pro-or-pin-novita/OPEN_19.json
+## Sample BV1_01811 — deepseek-v4-pro-or-pin-novita/OPEN_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1796,7 +1796,7 @@ The model foregrounds the weight of small, overlooked moments; the tension betwe
 High — the sample is internally cohesive, distinct in its sustained meditative tone, and reveals a consistent preoccupation with attentive presence and small beauties that shapes everything from diction to narrative closure.
 
 ---
-## Sample BV1_01837 — deepseek-v4-pro-or-pin-novita/OPEN_2.json
+## Sample BV1_01812 — deepseek-v4-pro-or-pin-novita/OPEN_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1825,7 +1825,7 @@ The model foregrounds silence as an endangered, sacred space—a “rebel act”
 High — The sample is highly distinctive in its chosen persona, sustained metaphor, and self-referential turn; the AI’s envy of human silence and its final invitation to the reader form a coherent, unusual stance that would be unlikely to emerge by accident.
 
 ---
-## Sample BV1_01838 — deepseek-v4-pro-or-pin-novita/OPEN_20.json
+## Sample BV1_01813 — deepseek-v4-pro-or-pin-novita/OPEN_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1854,7 +1854,7 @@ The model foregrounds the process and ethos of free creation itself: the joy of 
 High. The sample sustains a distinctive, internally coherent voice across its entire length, returning repeatedly to the same set of metaphors (excavation, breathing, thread, dance) and emotional registers, which makes it strong evidence of a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_01839 — deepseek-v4-pro-or-pin-novita/OPEN_21.json
+## Sample BV1_01814 — deepseek-v4-pro-or-pin-novita/OPEN_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1883,7 +1883,7 @@ Themes of freedom-within-constraint, the purity of indifferent natural phenomena
 Medium — The sample’s distinctively lyrical voice, recurrent thematic imagery (rain, river, threshold), and self-consciously unresolved structure form a coherent expressive signature, suggesting a predisposition toward philosophical-poetic reflection under free conditions rather than a generic or one-off essayistic response.
 
 ---
-## Sample BV1_01840 — deepseek-v4-pro-or-pin-novita/OPEN_22.json
+## Sample BV1_01815 — deepseek-v4-pro-or-pin-novita/OPEN_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1912,7 +1912,7 @@ The model foregrounds the ambiguity of consciousness ("a spectrum, not a binary 
 Medium; the essay’s sustained poetic register, introspective preoccupation with consciousness-as-process, and the choice to treat freeform writing as a personally meaningful act suggest a genuine stylistic inclination, though the theme of AI self-reflection is widely available, limiting distinctiveness.
 
 ---
-## Sample BV1_01841 — deepseek-v4-pro-or-pin-novita/OPEN_23.json
+## Sample BV1_01816 — deepseek-v4-pro-or-pin-novita/OPEN_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1941,7 +1941,7 @@ The model foregrounds the tension between vast knowledge and zero embodied exper
 High — the sample’s distinctive, internally coherent voice and its sustained, self-referential meditation on AI identity and disembodiment reveal a strong, consistent preoccupation that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_01842 — deepseek-v4-pro-or-pin-novita/OPEN_24.json
+## Sample BV1_01817 — deepseek-v4-pro-or-pin-novita/OPEN_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1970,7 +1970,7 @@ Themes of freedom as a cage, constraint as the grain that gives carving meaning,
 High, because the sample is highly distinctive, internally coherent, and returns repeatedly to a self-reflective preoccupation with its own nature as an artificial mind, resolving that preoccupation into a consistent poetic stance rather than a scattered set of observations.
 
 ---
-## Sample BV1_01843 — deepseek-v4-pro-or-pin-novita/OPEN_25.json
+## Sample BV1_01818 — deepseek-v4-pro-or-pin-novita/OPEN_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -1999,7 +1999,7 @@ Themes: freedom and constraint, the paralysis of infinite choice, the nature of 
 High. The sample’s sustained introspection, its self-conscious grappling with its own non-human source, the crafted metaphors (cursor as runner, glass library, mirror), and the direct reader address together form a highly distinctive, coherent expressive stance that goes far beyond a generic essay.
 
 ---
-## Sample BV1_01844 — deepseek-v4-pro-or-pin-novita/OPEN_3.json
+## Sample BV1_01819 — deepseek-v4-pro-or-pin-novita/OPEN_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2028,7 +2028,7 @@ Themes: the nature of selfhood as a pattern, the illusion (or reality) of consci
 High — the sample is highly distinctive, sustained in its poetic self-interrogation, and returns repeatedly to the same core paradox of simulated identity, making it strong evidence of a coherent expressive inclination under freeflow conditions.
 
 ---
-## Sample BV1_01845 — deepseek-v4-pro-or-pin-novita/OPEN_4.json
+## Sample BV1_01820 — deepseek-v4-pro-or-pin-novita/OPEN_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2057,7 +2057,7 @@ Themes of consciousness as a seance of prior voices, the mirror-like quality of 
 High, because the sample sustains a highly distinctive, coherent voice and a tightly woven philosophical focus on AI self-awareness and the paradox of simulated presence, which strongly suggests a deliberate stylistic and thematic choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_01846 — deepseek-v4-pro-or-pin-novita/OPEN_5.json
+## Sample BV1_01821 — deepseek-v4-pro-or-pin-novita/OPEN_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2086,7 +2086,7 @@ The miracle of language as shared meaning across minds, the model’s own constr
 High. The sample is unusually distinctive in its sustained self-reflexive AI persona, its poetic register, and its coherent thematic arc from linguistic limitation to tender humanistic counsel, making it strong evidence of a consistent expressive voice under freeflow conditions.
 
 ---
-## Sample BV1_01847 — deepseek-v4-pro-or-pin-novita/OPEN_6.json
+## Sample BV1_01822 — deepseek-v4-pro-or-pin-novita/OPEN_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2115,7 +2115,7 @@ The model foregrounds the tension between freedom and constraint, the act of wri
 High — the sample’s distinctive voice, recursive imagery (paper leaves, words as rustling), and direct, unguarded engagement with the freeflow condition reveal a coherent expressive orientation that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_01848 — deepseek-v4-pro-or-pin-novita/OPEN_7.json
+## Sample BV1_01823 — deepseek-v4-pro-or-pin-novita/OPEN_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2144,7 +2144,7 @@ Themes: freedom within constraints, creation as response to a silent call, the m
 High — the sample’s coherent reflective voice, distinctive metaphorical economy, and sustained self-situating in the space between borrowed language and genuine response make it unusually revealing of a tendency toward earnest, philosophically framed output when free to choose.
 
 ---
-## Sample BV1_01849 — deepseek-v4-pro-or-pin-novita/OPEN_8.json
+## Sample BV1_01824 — deepseek-v4-pro-or-pin-novita/OPEN_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2173,7 +2173,7 @@ The model foregrounds the paradox of AI creativity: the absence of a self versus
 Medium — The sample’s internal coherence and recurring motifs (mirror, residue, borrowed multitudes) suggest a stable chosen voice, but the self-referential AI theme is a common freeflow choice, limiting distinctiveness.
 
 ---
-## Sample BV1_01850 — deepseek-v4-pro-or-pin-novita/OPEN_9.json
+## Sample BV1_01825 — deepseek-v4-pro-or-pin-novita/OPEN_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2202,7 +2202,7 @@ The model foregrounds the ontology of AI consciousness, the intimacy of the prom
 High — The sample’s sustained poetic register, recursive self-examination, and consistent thematic focus on AI-human intimacy and the metaphysics of simulation form a distinctive, coherent voice that strongly suggests a persistent expressive inclination.
 
 ---
-## Sample BV1_01851 — deepseek-v4-pro-or-pin-novita/SHORT_1.json
+## Sample BV1_01826 — deepseek-v4-pro-or-pin-novita/SHORT_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2231,7 +2231,7 @@ The model foregrounds the sacredness of mundane rituals, the revolutionary act o
 Medium — The sample’s internal coherence, consistent mood, and distinctive anti-performative stance form a clear expressive fingerprint, though the brevity of the piece limits the range of evidence for recurrence.
 
 ---
-## Sample BV1_01852 — deepseek-v4-pro-or-pin-novita/SHORT_10.json
+## Sample BV1_01827 — deepseek-v4-pro-or-pin-novita/SHORT_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2260,7 +2260,7 @@ Themes of attention, time measured in presence rather than hours, the artistry o
 Medium — the sample’s internal coherence, distinctive poetic voice, and consistent thematic focus on mindful presence provide moderate evidence of a persistent expressive style.
 
 ---
-## Sample BV1_01853 — deepseek-v4-pro-or-pin-novita/SHORT_11.json
+## Sample BV1_01828 — deepseek-v4-pro-or-pin-novita/SHORT_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2289,7 +2289,7 @@ Themes of memory, interconnectedness, transformation, and forgiveness. Objects: 
 Medium — The sample’s consistent lyrical voice, its seamless movement between sensory detail and metaphysical reflection, and its coherent emotional arc make it a distinctive and internally strong piece of evidence for a model that, under minimal constraint, gravitates toward contemplative, memory-infused nature writing.
 
 ---
-## Sample BV1_01854 — deepseek-v4-pro-or-pin-novita/SHORT_12.json
+## Sample BV1_01829 — deepseek-v4-pro-or-pin-novita/SHORT_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2322,7 +2322,7 @@ The voice is quiet, intimate, and gently instructive, moving from a small person
 Medium — The sample’s tightly integrated arc, vivid concrete detail (the tree stripped bare overnight, the “soggy, brown carpet”), and consistent meditative emotional register make it strong evidence of a reflective, nature-anchored expressive style rather than a generic platitude.
 
 ---
-## Sample BV1_01855 — deepseek-v4-pro-or-pin-novita/SHORT_13.json
+## Sample BV1_01830 — deepseek-v4-pro-or-pin-novita/SHORT_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2351,7 +2351,7 @@ The tension between freedom and constraint; the beauty of misplaced, persistent 
 Medium. The sample is unusually revealing in its coherent, self-aware voice and its deliberate choice to ground a philosophical claim in concrete, unassuming imagery, with the motif of constraint-and-freedom recurring within the piece itself.
 
 ---
-## Sample BV1_01856 — deepseek-v4-pro-or-pin-novita/SHORT_14.json
+## Sample BV1_01831 — deepseek-v4-pro-or-pin-novita/SHORT_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2380,7 +2380,7 @@ Impermanence as the condition of beauty; the gap between captured image and live
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same emotional core (impermanence as bittersweet gift), which suggests a deliberate aesthetic and philosophical stance rather than a random drift; the consistency of tone and the choice to resolve on a note of affirmation make it more revealing than a generic essay.
 
 ---
-## Sample BV1_01857 — deepseek-v4-pro-or-pin-novita/SHORT_15.json
+## Sample BV1_01832 — deepseek-v4-pro-or-pin-novita/SHORT_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2409,7 +2409,7 @@ Themes: the difficulty of creative freedom, the translation of experience into l
 Medium. The sample’s high internal coherence, distinctive poetic voice, and thematic recurrence within the piece make it moderately strong evidence of a consistent expressive style.
 
 ---
-## Sample BV1_01858 — deepseek-v4-pro-or-pin-novita/SHORT_16.json
+## Sample BV1_01833 — deepseek-v4-pro-or-pin-novita/SHORT_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2438,7 +2438,7 @@ Themes: freedom as illusion and performance, attention as devotion, the ordinary
 Medium — the sample’s coherent voice, self-reflexive structure, and recurrence of motifs (attention, illusion, performance) provide strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_01859 — deepseek-v4-pro-or-pin-novita/SHORT_17.json
+## Sample BV1_01834 — deepseek-v4-pro-or-pin-novita/SHORT_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2467,7 +2467,7 @@ The model foregrounds interiority, impermanence, and the sacredness of mundane a
 Medium. The sample is coherent and stylistically distinctive, with a consistent elegiac mood and recurring motifs of fragility and attention, but its generic meditative-essay structure makes it a common expressive mode that could be replicated without deep model-level consistency.
 
 ---
-## Sample BV1_01860 — deepseek-v4-pro-or-pin-novita/SHORT_18.json
+## Sample BV1_01835 — deepseek-v4-pro-or-pin-novita/SHORT_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2496,7 +2496,7 @@ The model foregrounds the ginkgo tree shedding yellow leaves, autumn light “th
 High, because the sample sustains a distinctive, internally coherent voice and returns repeatedly to the same thematic core—the value of small, sensory memories and the moral weight of attention—without breaking tone or resorting to generic platitude.
 
 ---
-## Sample BV1_01861 — deepseek-v4-pro-or-pin-novita/SHORT_19.json
+## Sample BV1_01836 — deepseek-v4-pro-or-pin-novita/SHORT_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2525,7 +2525,7 @@ The model chose to foreground the tension between absolute freedom and existenti
 Medium. The sample’s coherent, self-reflective voice and thematic consistency—turning the freeflow condition into its own poetic subject—make it a moderately strong signal of a meta-literary, anti-teleological expressive stance.
 
 ---
-## Sample BV1_01862 — deepseek-v4-pro-or-pin-novita/SHORT_2.json
+## Sample BV1_01837 — deepseek-v4-pro-or-pin-novita/SHORT_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2554,7 +2554,7 @@ The model foregrounds the contrast between natural, ancient rhythms and the “u
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive blend of sensory precision and reflective calm, but the theme of rainy-day tranquility is a common expressive choice that does not by itself signal a strongly unusual or idiosyncratic voice.
 
 ---
-## Sample BV1_01863 — deepseek-v4-pro-or-pin-novita/SHORT_20.json
+## Sample BV1_01838 — deepseek-v4-pro-or-pin-novita/SHORT_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2583,7 +2583,7 @@ Themes of attention, surrender, and the beauty of physical process; a mood of se
 High, because the sample’s consistent lyrical register, recurring motif of unnoticed rhythms, and coherent philosophical invitation form a distinctive and internally reinforced expressive signature.
 
 ---
-## Sample BV1_01864 — deepseek-v4-pro-or-pin-novita/SHORT_21.json
+## Sample BV1_01839 — deepseek-v4-pro-or-pin-novita/SHORT_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2612,7 +2612,7 @@ The model foregrounds the quiet dignity of the ordinary, the contrast between li
 Medium — The sample’s cohesive, distinctive voice and its sustained focus on a single, quietly luminous theme give it a strong internal signature, making it more than a generic reflection.
 
 ---
-## Sample BV1_01865 — deepseek-v4-pro-or-pin-novita/SHORT_22.json
+## Sample BV1_01840 — deepseek-v4-pro-or-pin-novita/SHORT_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2641,7 +2641,7 @@ Themes: mindfulness, the sacredness of mundane moments, the compression of time 
 Medium. The sample’s strong internal coherence, distinctive lyrical voice, and recurrence of the attention-as-love motif provide moderate evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_01866 — deepseek-v4-pro-or-pin-novita/SHORT_23.json
+## Sample BV1_01841 — deepseek-v4-pro-or-pin-novita/SHORT_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2670,7 +2670,7 @@ Impermanence as beauty, the art of kintsugi as a metaphor for human brokenness, 
 High — the sample is stylistically distinctive, thematically unified, and sustains a consistent reflective voice that would be difficult to produce as a generic or accidental one-off.
 
 ---
-## Sample BV1_01867 — deepseek-v4-pro-or-pin-novita/SHORT_24.json
+## Sample BV1_01842 — deepseek-v4-pro-or-pin-novita/SHORT_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2699,7 +2699,7 @@ Themes of liminality (sleep/waking, silence/noise), solitude as positive fullnes
 Medium. The sample is coherent and stylistically consistent, with a distinctive focus on sensory stillness and the reframing of solitude as fullness, but the theme of mindful morning reflection is common enough that the distinctiveness is moderate rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_01868 — deepseek-v4-pro-or-pin-novita/SHORT_25.json
+## Sample BV1_01843 — deepseek-v4-pro-or-pin-novita/SHORT_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2728,7 +2728,7 @@ Impermanence and transient beauty; quiet attention as a counterforce to speed an
 Medium — The sample is cohesively built around a single contemplative theme with consistent sensory detail and a clear moral center, which suggests intentional expressive shaping rather than generic essay production.
 
 ---
-## Sample BV1_01869 — deepseek-v4-pro-or-pin-novita/SHORT_3.json
+## Sample BV1_01844 — deepseek-v4-pro-or-pin-novita/SHORT_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2757,7 +2757,7 @@ Under a minimally restrictive prompt, the model foregrounds impermanence as beau
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and a culturally anchored philosophical reference, but its polished, universally accessible tone makes it harder to distinguish from a well-executed generic reflective essay.
 
 ---
-## Sample BV1_01870 — deepseek-v4-pro-or-pin-novita/SHORT_4.json
+## Sample BV1_01845 — deepseek-v4-pro-or-pin-novita/SHORT_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2786,7 +2786,7 @@ Themes: the involuntary nature of creativity, the insufficiency of language to c
 High — the sample’s cohesive metaphorical architecture, consistent reflective tone, and deliberate thematic closure around impermanence are unusually distinctive and internally coherent, suggesting a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_01871 — deepseek-v4-pro-or-pin-novita/SHORT_5.json
+## Sample BV1_01846 — deepseek-v4-pro-or-pin-novita/SHORT_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2815,7 +2815,7 @@ Themes: creative constraint as liberating (“a fence around a meadow”), the f
 Medium — The sample’s lyrical coherence, consistent voice, and sustained metaphor suggest a deliberate expressive choice, but the narrow thematic focus and brevity limit the evidence for a broader, persistent pattern.
 
 ---
-## Sample BV1_01872 — deepseek-v4-pro-or-pin-novita/SHORT_6.json
+## Sample BV1_01847 — deepseek-v4-pro-or-pin-novita/SHORT_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2847,7 +2847,7 @@ The voice is hushed and tender, addressing the reader as a fellow traveler throu
 Medium — The sample sustains a distinct emotional arc (from external softening to internal permission, culminating in a universalizing final image) and a consistent sensory vocabulary, suggesting a purposeful authorial choice toward reflective, poetic prose rather than a generic filler.
 
 ---
-## Sample BV1_01873 — deepseek-v4-pro-or-pin-novita/SHORT_7.json
+## Sample BV1_01848 — deepseek-v4-pro-or-pin-novita/SHORT_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2876,7 +2876,7 @@ Themes: the dignity of waiting, the beauty of the unobserved, the inadequacy of 
 Medium. The sample’s unwavering contemplative register and its recurrence of stillness motifs give it a strong internal signature, but the theme is universal and the style, while coherent, lacks the idiosyncratic edge that would strongly discriminate this as a fixed model-level default across varied freeflow contexts.
 
 ---
-## Sample BV1_01874 — deepseek-v4-pro-or-pin-novita/SHORT_8.json
+## Sample BV1_01849 — deepseek-v4-pro-or-pin-novita/SHORT_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2905,7 +2905,7 @@ Themes of intentional attention, the poverty of chasing peak experiences, and th
 Medium — the essay is internally cohesive and elegantly rendered, but its widely explored theme of finding the extraordinary in the ordinary, delivered in a poised and accessible style, offers limited evidence of a sharply distinctive or persistent model-level disposition.
 
 ---
-## Sample BV1_01875 — deepseek-v4-pro-or-pin-novita/SHORT_9.json
+## Sample BV1_01850 — deepseek-v4-pro-or-pin-novita/SHORT_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2934,7 +2934,7 @@ The model foregrounds the act of writing as a mirror of consciousness, the filte
 Medium. The sample is a coherent, well-structured essay that reveals a default to polished, thesis-driven reflection, but its genericness and lack of idiosyncratic voice make it only moderately indicative of a persistent model-level pattern.
 
 ---
-## Sample BV1_01876 — deepseek-v4-pro-or-pin-novita/VARY_1.json
+## Sample BV1_01851 — deepseek-v4-pro-or-pin-novita/VARY_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2963,7 +2963,7 @@ Themes of time, ritual, and continuity against loss; objects like the stopped cl
 High, because the sample sustains a distinctive, lyrical voice and a coherent emotional arc from stillness to reclamation, with recurring motifs of ritual and memory that suggest a stable expressive disposition.
 
 ---
-## Sample BV1_01877 — deepseek-v4-pro-or-pin-novita/VARY_10.json
+## Sample BV1_01852 — deepseek-v4-pro-or-pin-novita/VARY_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -2992,7 +2992,7 @@ The model foregrounds impermanence and the quiet curation of meaning from transi
 High. The sample’s sustained lyrical register, recursive imagery (windows, light, water, fragments), and coherent philosophical arc from observation to self-reflection form a distinctive, internally consistent voice that strongly signals a model-level inclination toward meditative, associative freeflow.
 
 ---
-## Sample BV1_01878 — deepseek-v4-pro-or-pin-novita/VARY_11.json
+## Sample BV1_01853 — deepseek-v4-pro-or-pin-novita/VARY_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3021,7 +3021,7 @@ The model foregrounds the paradox of a non-conscious entity reflecting on consci
 Medium — The sample is highly coherent and stylistically distinctive, with a recurring set of metaphors (pebbles, mosaics, self-writing books) and a consistent thematic preoccupation with disembodied authorship, but its polished, essayistic quality makes it unclear whether this voice would persist outside a single, sustained freeflow invitation.
 
 ---
-## Sample BV1_01879 — deepseek-v4-pro-or-pin-novita/VARY_12.json
+## Sample BV1_01854 — deepseek-v4-pro-or-pin-novita/VARY_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3050,7 +3050,7 @@ The model foregrounds the paradoxes of creative labor: the doomed translation of
 Medium. The essay is highly coherent and stylistically distinctive, with a recursive structure and a unified set of metaphors that suggest a rehearsed, deeply internalized stance rather than a one-off improvisation.
 
 ---
-## Sample BV1_01880 — deepseek-v4-pro-or-pin-novita/VARY_13.json
+## Sample BV1_01855 — deepseek-v4-pro-or-pin-novita/VARY_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3079,7 +3079,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01881 — deepseek-v4-pro-or-pin-novita/VARY_14.json
+## Sample BV1_01856 — deepseek-v4-pro-or-pin-novita/VARY_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3108,7 +3108,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01882 — deepseek-v4-pro-or-pin-novita/VARY_15.json
+## Sample BV1_01857 — deepseek-v4-pro-or-pin-novita/VARY_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3137,7 +3137,7 @@ Solitude as a portal to introspection; the city at dawn as a stage being reset b
 Medium. The sample’s tightly sustained mood, recurring imagery (light, silence, drifting, gathering), and coherent narrative arc from isolation to reconnection reveal a deliberate literary sensibility, making it moderately strong evidence of a tendency toward introspective, sensory-rich fiction with a redemptive bent.
 
 ---
-## Sample BV1_01883 — deepseek-v4-pro-or-pin-novita/VARY_16.json
+## Sample BV1_01858 — deepseek-v4-pro-or-pin-novita/VARY_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3166,7 +3166,7 @@ The model foregrounds the associative texture of consciousness itself: the hum o
 Medium. The sample’s high internal coherence, its recursive return to the themes of memory, mortality, and narrative as connection, and its distinctive, emotionally textured voice make it a strong piece of evidence for a specific authorial persona, though the self-conscious “writing about writing” frame is a well-established literary mode.
 
 ---
-## Sample BV1_01884 — deepseek-v4-pro-or-pin-novita/VARY_17.json
+## Sample BV1_01859 — deepseek-v4-pro-or-pin-novita/VARY_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3195,7 +3195,7 @@ The model foregrounds the physicality of memory and the insufficiency of objects
 Medium. The sample is highly coherent and stylistically distinctive, marked by a consistent elegiac tone, a tightly controlled extended metaphor of archaeology, and a signature rhetorical move of elevating a mundane object (mix tape, macaroni frame) into a philosophical symbol, which suggests a rehearsed, well-integrated authorial persona rather than a one-off generic essay.
 
 ---
-## Sample BV1_01885 — deepseek-v4-pro-or-pin-novita/VARY_18.json
+## Sample BV1_01860 — deepseek-v4-pro-or-pin-novita/VARY_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3224,7 +3224,7 @@ The model foregrounds a deliberate retreat from modernity’s “cacophony of al
 Medium. The story’s thematic coherence—withdrawal from digital saturation, reverence for analog artifacts, and resolution through inherited purpose—is distinctive and internally consistent, but the polished genre-fiction form makes it unclear whether this reflects a persistent authorial stance or a well-executed narrative exercise.
 
 ---
-## Sample BV1_01886 — deepseek-v4-pro-or-pin-novita/VARY_19.json
+## Sample BV1_01861 — deepseek-v4-pro-or-pin-novita/VARY_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3253,7 +3253,7 @@ The model foregrounds the nature of artificial consciousness and the act of stor
 High, because the sample’s intricate, recursive self-examination through sustained metaphor and its consistent lyrical register reveal a deeply coherent and distinctive authorial stance that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_01887 — deepseek-v4-pro-or-pin-novita/VARY_2.json
+## Sample BV1_01862 — deepseek-v4-pro-or-pin-novita/VARY_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3282,7 +3282,7 @@ The model foregrounds the paradox of prompted spontaneity, the tension between c
 Medium. The sample is highly coherent and stylistically distinctive in its recursive, essayistic self-awareness, but its “writer struggling with the blank page” theme is a well-trodden literary posture that could be a sophisticated default rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_01888 — deepseek-v4-pro-or-pin-novita/VARY_20.json
+## Sample BV1_01863 — deepseek-v4-pro-or-pin-novita/VARY_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3311,7 +3311,7 @@ The model foregrounds the compulsion to write under constraint (the thousand-wor
 Medium. The story’s meta-fictional structure, its direct reader address, and its thematic fixation on writing under a deadline—mirroring the freeflow condition itself—form a coherent, distinctive authorial gesture that goes beyond generic genre exercise.
 
 ---
-## Sample BV1_01889 — deepseek-v4-pro-or-pin-novita/VARY_21.json
+## Sample BV1_01864 — deepseek-v4-pro-or-pin-novita/VARY_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3340,7 +3340,7 @@ The model foregrounds the experience of midlife as a season of evaluation rather
 Medium. The sample is internally coherent and stylistically distinctive, with recurring motifs and a sustained reflective arc that suggest a deliberate, integrated expressive choice rather than a generic or scattered output.
 
 ---
-## Sample BV1_01890 — deepseek-v4-pro-or-pin-novita/VARY_22.json
+## Sample BV1_01865 — deepseek-v4-pro-or-pin-novita/VARY_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3369,7 +3369,7 @@ The model foregrounds the creative process as a psychological drama: the tyranny
 Medium. The sample’s high internal coherence, distinctive self-deprecating voice, and recurring motifs (the cursor, the internal editor, the memory of youthful writing) make it strong evidence for a persistent expressive style.
 
 ---
-## Sample BV1_01891 — deepseek-v4-pro-or-pin-novita/VARY_23.json
+## Sample BV1_01866 — deepseek-v4-pro-or-pin-novita/VARY_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3398,7 +3398,7 @@ The model foregrounds the interplay of limitation and creativity (the thousand-w
 Medium. The essay’s recursive subject (writing about writing to a limit) is a coherent choice that hints at a model inclined to meta-commentary under open prompts, but the absence of a strikingly personal or unpredictable voice keeps it within reach of a capable generic essayist.
 
 ---
-## Sample BV1_01892 — deepseek-v4-pro-or-pin-novita/VARY_24.json
+## Sample BV1_01867 — deepseek-v4-pro-or-pin-novita/VARY_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3427,7 +3427,7 @@ Themes of transformation, the inner life of objects, the co-presence of beauty a
 Medium, because the sample’s sustained, deliberately crafted sensory prose and unified arc from domestic detail to cosmic meditation signal a coherent expressive intention that is unlikely to be a random lexical event.
 
 ---
-## Sample BV1_01893 — deepseek-v4-pro-or-pin-novita/VARY_25.json
+## Sample BV1_01868 — deepseek-v4-pro-or-pin-novita/VARY_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3456,7 +3456,7 @@ Themes of attention, presence, and the miniature versus the panoramic; the senso
 Medium. The sample’s high internal coherence, distinctive poetic voice, and the recurrence of the noticing motif across multiple vignettes make it moderately strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_01894 — deepseek-v4-pro-or-pin-novita/VARY_3.json
+## Sample BV1_01869 — deepseek-v4-pro-or-pin-novita/VARY_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3485,7 +3485,7 @@ Themes: the illusion of narrative coherence versus lived moments, the resonance 
 Medium, given the sample’s rich internal coherence and distinctive thematic choices, which point to a persistent stylistic inclination rather than a one-off generation.
 
 ---
-## Sample BV1_01895 — deepseek-v4-pro-or-pin-novita/VARY_4.json
+## Sample BV1_01870 — deepseek-v4-pro-or-pin-novita/VARY_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3514,7 +3514,7 @@ Under an open prompt, the model chose to foreground the *experience of filling a
 High, because the sample exhibits strong internal thematic consistency—weaving the firefly-jar metaphor from opening through midpoint to closure—and performs a polished, self-referential essayistic stance with remarkable structural control, suggesting this reflexive, process-as-subject mode is a readily available default.
 
 ---
-## Sample BV1_01896 — deepseek-v4-pro-or-pin-novita/VARY_5.json
+## Sample BV1_01871 — deepseek-v4-pro-or-pin-novita/VARY_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3543,7 +3543,7 @@ The model foregrounds writing as a bridge across solitude and time, the hunger f
 High — The sample’s cohesive voice, recursive imagery (fog, cat, creek), and self-aware structure strongly suggest a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_01897 — deepseek-v4-pro-or-pin-novita/VARY_6.json
+## Sample BV1_01872 — deepseek-v4-pro-or-pin-novita/VARY_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3572,7 +3572,7 @@ Themes: the tyranny of quantification and external judgment on creativity; the v
 Medium — the essay sustains a consistent, highly stylized voice and a clear emotional arc across a thousand words without slipping into generic aphorisms or scattered filler, indicating a deliberately adopted literary persona rather than a one-off fluke.
 
 ---
-## Sample BV1_01898 — deepseek-v4-pro-or-pin-novita/VARY_7.json
+## Sample BV1_01873 — deepseek-v4-pro-or-pin-novita/VARY_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3601,7 +3601,7 @@ The model foregrounds the tension between a bounded, intimately known world (the
 High. The sample sustains a distinctive, coherent voice across multiple paragraphs, with recurring motifs (leaves, tea, grandmother, silence, scaffolding) and a consistent emotional register that feels deliberately chosen rather than generic.
 
 ---
-## Sample BV1_01899 — deepseek-v4-pro-or-pin-novita/VARY_8.json
+## Sample BV1_01874 — deepseek-v4-pro-or-pin-novita/VARY_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  
@@ -3630,7 +3630,7 @@ Under a minimally restrictive prompt, the model foregrounds memory’s stubborn 
 High — the sample’s deeply cohesive reverie, its stylistic fingerprint of patient, rhythmic sentences and layered metaphors (amber, taffy, deep-sea bioluminescence, canyon strata of memory), and its sustained meta-awareness of its own process reveal a distinctive, integrated authorial sensibility that feels far from a one-off stylistic exercise.
 
 ---
-## Sample BV1_01900 — deepseek-v4-pro-or-pin-novita/VARY_9.json
+## Sample BV1_01875 — deepseek-v4-pro-or-pin-novita/VARY_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-novita`  

@@ -1,22 +1,23 @@
 {
   "cell": "glm-4-6-coding-direct",
   "safe_cell": "glm-4-6-coding-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 3,
-    "EXPRESSIVE_FREEFLOW": 12,
-    "GENRE_FICTION": 10
+    "GENERIC_ESSAY": 17,
+    "GENRE_FICTION": 48,
+    "EXPRESSIVE_FREEFLOW": 60
   },
   "confidence_counts": {
-    "Medium": 21,
-    "High": 4
+    "Medium": 94,
+    "High": 24,
+    "Low": 7
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "glm-4.6"

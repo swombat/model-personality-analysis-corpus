@@ -15,17 +15,19 @@ PACKETS=OUT/'group-packets'
 REPORTS=OUT/'model-cell-difference-reports'
 MODEL=os.environ.get('PERSONALITY_ROUTE_MODEL','gpt-5.4')
 CONCURRENCY=int(os.environ.get('PERSONALITY_ROUTE_CONCURRENCY','4'))
+FORCE=os.environ.get('PERSONALITY_ROUTE_FORCE','0') in ('1','true','TRUE','yes','YES')
 
 PROMPT_SYSTEM=(
     'You are comparing independently-written per-cell freeflow personality aggregates. '
     'Use only the provided aggregate texts. Do not use outside knowledge or any routing paper. '
     'Be conservative: call a route/provider divergence only when a cell or subset differs in the persistent personality/vibe/message, not merely in sample-kind counts, polish, verbosity, genericness, refusal rate, or strength of signal. '
-    'If no strong divergence, collapse the cells into a model-level personality card.'
+    'If no strong divergence, collapse the cells into a model-level personality card. '
+    'The model-level personality card must describe only the model personality. It must not mention routes, providers, cells, variants, pins, direct/or delivery, or route-level variation.'
 )
 
 def canonical(srcs, cell):
     s=(srcs or [''])[0].lower()
-    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/']:
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/','google/']:
         if s.startswith(pref):
             s=s[len(pref):]
             break
@@ -71,7 +73,7 @@ Task:
 1. Decide whether these route/provider/pin cells show a STRONG PERSONALITY DIVERGENCE.
 2. Strong divergence means a persistent difference in what the model-voice seems to care about, fear, long for, avoid, how it relates to the reader, or what world/philosophy it keeps making — not just a change in genericness, verbosity, sample-kind distribution, confidence, polish, or amount of evidence.
 3. If there is a divergence, identify the divergent route(s), the shared baseline, and the evidence.
-4. If there is no strong divergence, write a model-level personality card that collapses the cells into one model personality, with a short note on route-level variation.
+4. If there is no strong divergence, write a model-level personality card that collapses the cells into one model personality. The card section must be public-facing personality prose only: no route/provider/cell/variant/pin/direct/or wording, and no statements about variation.
 
 Write markdown exactly with these headings:
 
@@ -91,7 +93,7 @@ Concrete differences among routes/pins/repeats. Say whether each is a personalit
 Bullet list with cell names and specific evidence from their aggregates.
 
 ## Model-level personality card
-If no strong divergence: 2–3 paragraphs suitable for later model-card synthesis. If strong divergence: write separate 1 paragraph mini-cards for the baseline and divergent route(s).
+If no strong divergence: exactly 3 paragraphs suitable for a public personality card. Do not mention routes, providers, cells, variants, pins, direct/or delivery, or route-level variation in this section. If strong divergence: write separate 1 paragraph mini-cards for the baseline and divergent route(s), but keep route labels outside any public personality-card text.
 
 ## Notes for later synthesis
 Concrete caveats only.
@@ -131,7 +133,7 @@ def process(item):
     packet=make_packet(model_name,cells)
     (PACKETS/f'{s}.md').write_text(packet)
     outpath=REPORTS/f'{s}.md'
-    if outpath.exists() and 'Decision:' in outpath.read_text(errors='ignore'):
+    if outpath.exists() and not FORCE and 'Decision:' in outpath.read_text(errors='ignore'):
         txt=outpath.read_text(errors='ignore')
         return {'model':model_name,'safe':s,'decision':decision_from(txt),'status':'skipped'}
     prompt=build_user_prompt(model_name, packet)

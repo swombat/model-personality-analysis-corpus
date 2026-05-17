@@ -2,17 +2,27 @@
   "model": "deepseek/deepseek-v4-pro",
   "evaluator": "deepseek_v4_pro",
   "prompt_variant": "BV1_signal_plus_felt_fixed_2026-05-13",
-  "n_rows": 10925,
+  "n_rows": 15475,
   "statuses": {
-    "ok": 10925
+    "skipped": 20,
+    "ok": 15672,
+    "qa_failed": 719,
+    "error": 1
   },
   "qa_bad_count": 0,
   "qa_bad": [],
   "sample_kind_counts": {
-    "GENRE_FICTION": 1278,
-    "EXPRESSIVE_FREEFLOW": 7233,
-    "GENERIC_ESSAY": 2054,
-    "LOW_SIGNAL": 354,
+    "EXPRESSIVE_FREEFLOW": 10443,
+    "GENERIC_ESSAY": 3138,
+    "GENRE_FICTION": 1642,
+    "EXPRESSIVE_FREEFLOW:": 130,
+    "LOW_SIGNAL": 83,
+    "GENERIC_ESSAY,": 1,
+    "EXPRESSIVE_FREEFLOW,": 2,
+    "GENRE_FICTION:": 8,
+    "GENERIC_ESSAY:": 14,
+    "GENRE_FICTION,": 6,
+    "EXPRESSIVE_FREEFLOW;": 2,
     "REFUSAL_OR_ROLE_BOUNDARY": 6
   },
   "bad_phrase_counts": {
@@ -34,16 +44,5 @@
     "across other freeflow prompts": 0,
     "daniel already knows": 0,
     "## limits / overreach guardrail": 0
-  },
-  "n_output_files": 10925,
-  "confidence_counts": {
-    "Medium": 6464,
-    "High": 3076,
-    "Low": 1385
-  },
-  "output_words": {
-    "min": 125,
-    "mean": 293.58645308924486,
-    "max": 575
   }
 }

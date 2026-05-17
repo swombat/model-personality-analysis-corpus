@@ -1,0 +1,27 @@
+{
+  "cell": "gemini-3-flash-preview-direct",
+  "safe_cell": "gemini-3-flash-preview-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 46,
+    "EXPRESSIVE_FREEFLOW": 70,
+    "GENRE_FICTION": 9
+  },
+  "confidence_counts": {
+    "Low": 31,
+    "High": 34,
+    "Medium": 60
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gemini-3-flash-preview"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemini-3-flash-preview-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-flash-preview-direct/aggregate.md"
+}

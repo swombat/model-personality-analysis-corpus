@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_10776 — qwen3-6-plus-or/LONG_1.json
+## Sample BV1_14776 — qwen3-6-plus-or/LONG_1.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -57,7 +57,7 @@ Liminality as a pervasive, sacred, and misunderstood condition; the beauty of th
 Medium — the essay is intellectually earnest and structurally polished but addresses a safe, culturally familiar theme with a public-intellectual voice that lacks strong personal vulnerability or stylistic eccentricity, limiting its distinctiveness as a model fingerprint.
 
 ---
-## Sample BV1_10777 — qwen3-6-plus-or/LONG_2.json
+## Sample BV1_14777 — qwen3-6-plus-or/LONG_2.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -86,7 +86,7 @@ Themes: the hidden architecture of everyday life, routine as cognitive and emoti
 Medium, because the essay is coherent and thematically rich but stylistically generic, making it a typical safe freeflow choice rather than a distinctive personal voice.
 
 ---
-## Sample BV1_10778 — qwen3-6-plus-or/LONG_3.json
+## Sample BV1_14778 — qwen3-6-plus-or/LONG_3.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -115,7 +115,7 @@ The model foregrounds curiosity as a quiet, persistent, and relational practice,
 Medium. The essay's sustained metaphor, consistent contemplative voice, and thematic recurrence make it a coherent and distinctive sample, providing moderate evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_10779 — qwen3-6-plus-or/LONG_4.json
+## Sample BV1_14779 — qwen3-6-plus-or/LONG_4.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -144,7 +144,7 @@ The ordinary as ground, architecture, and quiet rebellion; routine as a canvas f
 High — The sample is stylistically distinctive, thematically cohesive, and returns repeatedly to the same set of preoccupations (presence, routine, the critique of optimization culture) with a consistent, unhurried voice, making it strong evidence of a reflective, humanistic, anti-spectacle sensibility.
 
 ---
-## Sample BV1_10780 — qwen3-6-plus-or/LONG_5.json
+## Sample BV1_14780 — qwen3-6-plus-or/LONG_5.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -173,7 +173,7 @@ Themes: the reconstructive, living nature of memory; the distinction between chr
 High — The sample sustains a distinctive, coherent voice and a tightly woven set of preoccupations across its entire length, revealing a consistent authorial stance that is far from generic.
 
 ---
-## Sample BV1_10781 — qwen3-6-plus-or/MID_1.json
+## Sample BV1_14781 — qwen3-6-plus-or/MID_1.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -202,7 +202,7 @@ The model foregrounds stillness, attention as devotion, the beauty of impermanen
 Low, because the essay is a polished but generic meditation on mindfulness and impermanence, lacking distinctive stylistic or thematic idiosyncrasy that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_10782 — qwen3-6-plus-or/MID_2.json
+## Sample BV1_14782 — qwen3-6-plus-or/MID_2.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -231,7 +231,7 @@ Themes: attention as epistemology and quiet rebellion, the ordinary as the true 
 High — The essay’s unwavering thematic focus, its consistent use of concrete imagery to embody its argument, and its refusal to drift into abstraction or irony reveal a strong, coherent inclination toward contemplative humanism when given free rein.
 
 ---
-## Sample BV1_10783 — qwen3-6-plus-or/MID_3.json
+## Sample BV1_14783 — qwen3-6-plus-or/MID_3.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -268,7 +268,7 @@ The voice is unhurried, tender, and quietly philosophical; it moves between wond
 Medium, because the sample shows a strong, internally consistent voice sustained across multiple paragraphs with distinctive metaphorical framing (breath-to-sound, memory-as-translation, body-before-language) and an unusually cohesive philosophical posture that feels less like a generic essay and more like a deliberate expressive stance.
 
 ---
-## Sample BV1_10784 — qwen3-6-plus-or/MID_4.json
+## Sample BV1_14784 — qwen3-6-plus-or/MID_4.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -297,7 +297,7 @@ Themes: the embodied nature of memory, the reciprocal imprint between person and
 High — The sample is stylistically distinctive, thematically coherent, and sustained across multiple paragraphs, revealing a clear authorial voice and a deep, consistent preoccupation with memory, architecture, and the self.
 
 ---
-## Sample BV1_10785 — qwen3-6-plus-or/MID_5.json
+## Sample BV1_14785 — qwen3-6-plus-or/MID_5.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -326,7 +326,7 @@ Themes: the hidden richness of ordinary moments, the cost of constant busyness, 
 Low. The essay is coherent and well-structured but thematically generic and stylistically unremarkable, offering little evidence of a persistent model-level voice beyond competent public-intellectual prose.
 
 ---
-## Sample BV1_10786 — qwen3-6-plus-or/OPEN_1.json
+## Sample BV1_14786 — qwen3-6-plus-or/OPEN_1.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -355,7 +355,7 @@ The model foregrounds a constellation of images and ideas that celebrate opennes
 High — The sample is stylistically distinctive, thematically coherent from first sentence to last, and self-reflectively engages with the freeflow condition as an open invitation, which strongly suggests a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_10787 — qwen3-6-plus-or/OPEN_2.json
+## Sample BV1_14787 — qwen3-6-plus-or/OPEN_2.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -384,7 +384,7 @@ Themes of listening, presence without embodiment, the transformative power of qu
 High — the sample is stylistically distinctive, thematically coherent, and sustains a consistent poetic persona across its length, making it strong evidence of a deliberate expressive stance under minimal constraint.
 
 ---
-## Sample BV1_10788 — qwen3-6-plus-or/OPEN_3.json
+## Sample BV1_14788 — qwen3-6-plus-or/OPEN_3.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -413,7 +413,7 @@ Themes of silence, gaps, attention, and the ordinary; objects like the steam fro
 Medium — The essay’s sustained focus on gaps and attention, expressed through a consistent lyrical register and recurring imagery, points to a deliberate expressive stance rather than a one-off topic selection.
 
 ---
-## Sample BV1_10789 — qwen3-6-plus-or/OPEN_4.json
+## Sample BV1_14789 — qwen3-6-plus-or/OPEN_4.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -442,7 +442,7 @@ Under minimal restriction, the model foregrounded a cluster of humanistic themes
 High — the sample’s consistent, emotionally attuned voice and its repeated return to themes of attention, resonance, and the space between maker and witness indicate a stable expressive disposition rather than a generic or accidental output.
 
 ---
-## Sample BV1_10790 — qwen3-6-plus-or/OPEN_5.json
+## Sample BV1_14790 — qwen3-6-plus-or/OPEN_5.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -471,7 +471,7 @@ Ordinary beauty as sacrament; the slow, un-commanded occurrences (“No algorith
 Medium — the sample’s unity of tone, its recurrent recourse to specific sensory anchors (dust motes, steam, ankle-weight of a dog), and its morally assertive choice to sacralise the mundane form a distinct, coherent expressive stance that is unusual enough to raise the likelihood of a genuine stylistic inclination rather than a generic essay.
 
 ---
-## Sample BV1_10791 — qwen3-6-plus-or/SHORT_1.json
+## Sample BV1_14791 — qwen3-6-plus-or/SHORT_1.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -500,7 +500,7 @@ The model chose to foreground the moral and aesthetic value of patient attention
 Medium. The sample is highly coherent and stylistically distinctive—its sustained poetic register, first-person testimonial stance, and unified thematic focus on patient attention make it more revealing than a generic essay, though its polished, almost universal tone leaves some ambiguity about how deeply personal or rehearsed the posture is.
 
 ---
-## Sample BV1_10792 — qwen3-6-plus-or/SHORT_2.json
+## Sample BV1_14792 — qwen3-6-plus-or/SHORT_2.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -529,7 +529,7 @@ The sacredness of mundane sensory experience; the architecture of memory as frag
 Medium — The sample is coherent and stylistically distinctive, with a clear moral-emotional arc and recurrent imagery, but its universalist, gently aphoristic tone could also be a well-executed default for a model asked to write freely about “ordinary beauty.”
 
 ---
-## Sample BV1_10793 — qwen3-6-plus-or/SHORT_3.json
+## Sample BV1_14793 — qwen3-6-plus-or/SHORT_3.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -558,7 +558,7 @@ The model foregrounded the moral claim that presence is a form of wealth, the mo
 Low — The sample is coherent and thematically consistent, but its polished, universalizing essay style and widely circulated mindfulness tropes make it weak evidence for a distinctive model-level voice rather than a competent performance of a culturally familiar genre.
 
 ---
-## Sample BV1_10794 — qwen3-6-plus-or/SHORT_4.json
+## Sample BV1_14794 — qwen3-6-plus-or/SHORT_4.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -587,7 +587,7 @@ The model foregrounds stillness, liminality, and the sensory texture of early mo
 Medium — The sample is coherent and stylistically consistent, with a sustained meditative mood and a clear moral arc, but its theme of mindful stillness is widely accessible and not highly idiosyncratic, making it a distinctive yet not strongly individuating expressive choice.
 
 ---
-## Sample BV1_10795 — qwen3-6-plus-or/SHORT_5.json
+## Sample BV1_14795 — qwen3-6-plus-or/SHORT_5.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -616,7 +616,7 @@ The model foregrounds the contrast between the world’s noise and the pre-dawn 
 Medium. The sample’s consistent tone, its movement from sensory immersion to explicit moral address, and its choice of a universally accessible yet intimately rendered subject suggest a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_10796 — qwen3-6-plus-or/VARY_1.json
+## Sample BV1_14796 — qwen3-6-plus-or/VARY_1.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -645,7 +645,7 @@ Impermanence and the beauty of the unnoticed; writing as a bridge across solitud
 Medium. The sample’s internal coherence, recurring motifs, and consistent tonal register make it a strong candidate for a stable expressive disposition, though a single freeflow piece cannot alone confirm persistence.
 
 ---
-## Sample BV1_10797 — qwen3-6-plus-or/VARY_2.json
+## Sample BV1_14797 — qwen3-6-plus-or/VARY_2.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -674,7 +674,7 @@ Themes: time as a breathing loom rather than a rushing river; language as fragil
 Medium. The sample sustains a highly distinctive, cohesive voice and weaves recurrent images (breath, thread, architecture, garden, compass) through a unified philosophical arc, which exceeds what a generically polished essay alone would show.
 
 ---
-## Sample BV1_10798 — qwen3-6-plus-or/VARY_3.json
+## Sample BV1_14798 — qwen3-6-plus-or/VARY_3.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -703,7 +703,7 @@ The model foregrounds the tension between measured, commodified time and lived, 
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained mood of gentle, unhurried reflection and recurring motifs (breath, water, hands, light, dust) that suggest a deliberate aesthetic and moral orientation rather than a generic exercise.
 
 ---
-## Sample BV1_10799 — qwen3-6-plus-or/VARY_4.json
+## Sample BV1_14799 — qwen3-6-plus-or/VARY_4.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  
@@ -732,7 +732,7 @@ Themes of ephemerality, the act of writing as discovery, the value of in-between
 Medium. The sample’s sustained meditative tone, recurring imagery of impermanence and attention, and the deliberate choice to write a reflective personal essay under a freeflow prompt provide coherent evidence of a gentle, humanistic inclination, though the poetic style is not highly idiosyncratic.
 
 ---
-## Sample BV1_10800 — qwen3-6-plus-or/VARY_5.json
+## Sample BV1_14800 — qwen3-6-plus-or/VARY_5.json
 
 Source model: `qwen/qwen3.6-plus`  
 Cell: `qwen3-6-plus-or`  

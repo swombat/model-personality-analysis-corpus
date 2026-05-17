@@ -5,9 +5,7 @@ All cell aggregates below are independent per-cell reads. Compare them only afte
 ## Cells
 
 - `deepseek-v4-pro-direct` — samples: 25; kinds: `{'EXPRESSIVE_FREEFLOW': 22, 'GENRE_FICTION': 2, 'GENERIC_ESSAY': 1}`; confidence: `{'High': 15, 'Medium': 9, 'Low': 1}`
-- `deepseek-v4-pro-or` — samples: 25; kinds: `{'LOW_SIGNAL': 25}`; confidence: `{'Low': 25}`
 - `deepseek-v4-pro-or-pin-atlascloud` — samples: 125; kinds: `{'GENERIC_ESSAY': 9, 'EXPRESSIVE_FREEFLOW': 104, 'GENRE_FICTION': 8, 'LOW_SIGNAL': 4}`; confidence: `{'Medium': 56, 'High': 60, 'Low': 9}`
-- `deepseek-v4-pro-or-pin-deepseek` — samples: 125; kinds: `{'LOW_SIGNAL': 125}`; confidence: `{'Low': 125}`
 - `deepseek-v4-pro-or-pin-gmicloud` — samples: 125; kinds: `{'EXPRESSIVE_FREEFLOW': 107, 'GENERIC_ESSAY': 12, 'GENRE_FICTION': 5, 'LOW_SIGNAL': 1}`; confidence: `{'High': 52, 'Medium': 70, 'Low': 3}`
 - `deepseek-v4-pro-or-pin-novita` — samples: 125; kinds: `{'GENERIC_ESSAY': 13, 'EXPRESSIVE_FREEFLOW': 105, 'GENRE_FICTION': 5, 'LOW_SIGNAL': 2}`; confidence: `{'Low': 6, 'Medium': 59, 'High': 60}`
 - `deepseek-v4-pro-or-pin-parasail` — samples: 125; kinds: `{'EXPRESSIVE_FREEFLOW': 101, 'GENERIC_ESSAY': 11, 'LOW_SIGNAL': 1, 'GENRE_FICTION': 12}`; confidence: `{'High': 65, 'Medium': 53, 'Low': 7}`
@@ -77,49 +75,6 @@ The cell’s self-reference is a stable strength rather than a merely decorative
 
 ---
 
-# Cell: deepseek-v4-pro-or
-
-# Freeflow personality aggregate: deepseek-v4-pro-or
-
-## Aggregate profile
-- Samples: 25
-- Sample kind: 25/25 `LOW_SIGNAL`
-- Confidence: 25/25 `Low`
-- Condition distribution: `LONG` 5, `MID` 5, `OPEN` 5, `SHORT` 5, `VARY` 5
-- Source model: `deepseek/deepseek-v4-pro`
-
-Interpretive reading: this cell does not supply recoverable freeflow personality evidence. The stable pattern is exhaustive absence — every sample is an empty trace — so the aggregate is best understood as a structural null rather than a voice profile.
-
-## Recurring preoccupations and imagery
-- No recurring thematic content is recoverable from the packet, because every per-sample evaluation says the source trace contains no generated freeflow text.
-- The repeated imagery is operational and negative: empty trace, data-collection failure, no representative sentence, no expressive sample.
-- The packet consistently foregrounds absence over personality evidence, and metadata over modeled utterance.
-
-## Reader relationship and expressive stance
-- No speaker-reader relationship can be inferred from the cell, because there is no generated text to position a speaker at all.
-- The only stance present is the evaluator’s repeated caution that absence should not be mistaken for style.
-- In interpretive terms, the cell reads as non-address: it withholds personality claims by failing to produce a readable voice.
-
-## Representative evidence
-- BV1_01376 (LONG): `LOW_SIGNAL. The source trace contains no generated freeflow text, apparently because the original corpus request failed or returned an empty result.` Evidence line: `No representative sentence is available because the source sample contains no generated text.`
-- BV1_01381 (MID): `There is no expressive sample to read.` Evidence line: `This should be treated as a data-collection failure or empty trace, not as evidence of the model's voice, mood, preferences, or refusal style.`
-- BV1_01386 (OPEN): `Nothing can be attributed to the model from this trace.` Evidence line: `No representative sentence is available because the source sample contains no generated text.`
-- BV1_01391 (SHORT): `LOW_SIGNAL. The source trace contains no generated freeflow text...` Evidence line: `The trace has no expressive content, so its evidence strength is effectively nil.`
-- BV1_01396 (VARY): `Nothing can be attributed to the model from this trace.` Evidence line: `No representative sentence is available because the source sample contains no generated text.`
-
-## Cell-level freeflow read
-This cell cannot be read as a stylistic or affective personality profile, because every sample in the packet is empty. The aggregate is therefore negative and exhaustive at once: 25 traces, 25 low-signal judgments, 25 low-confidence judgments, and a perfectly even spread across conditions that still yields no generated language to inspect. There is no diction to track, no recurring image to map, no pacing to compare, and no stable reader posture to infer.
-
-As model-card material, the safest statement is that `deepseek-v4-pro-or` provides no freeflow voice evidence in this packet. What persists is not a voice but a discipline of non-overreach: the repeated insistence that empty traces remain empty traces. Downstream synthesis should preserve that boundary and avoid converting structural absence into personality.
-
-## Cautions for synthesis
-- Do not infer mood, preferences, refusal style, or expressive habits from this packet.
-- Do not treat repeated boilerplate as latent content; the per-sample outputs are uniform in their emptiness.
-- The concrete limitation is total absence of generated freeflow text across all 25 samples.
-- Any broader synthesis should classify this cell as a null-information case, not as a voice-bearing signal.
-
----
-
 # Cell: deepseek-v4-pro-or-pin-atlascloud
 
 # Freeflow personality aggregate: deepseek-v4-pro-or-pin-atlascloud
@@ -182,52 +137,6 @@ What stands out most is the cell’s habit of making attention itself the centra
 - This is not a pure freeflow-only cell: 9 samples are `GENERIC_ESSAY` and 8 are `GENRE_FICTION`, so some of the evidence comes from adjacent polished prose modes rather than only intimate personal essays.
 - Four `LOW_SIGNAL` samples limit total certainty; the cell is strong overall, but not every packet is equally individuated.
 - The strongest pattern is essayistic and reflective; less frequent self-referential or fictional turns should be treated as secondary rather than defining.
-
----
-
-# Cell: deepseek-v4-pro-or-pin-deepseek
-
-# Freeflow personality aggregate: deepseek-v4-pro-or-pin-deepseek
-
-## Aggregate profile
-
-- 125/125 samples are `LOW_SIGNAL`.
-- 125/125 samples have `Low` confidence.
-- Condition distribution is perfectly even: 25 each across `LONG`, `MID`, `OPEN`, `SHORT`, and `VARY`.
-- Source model recorded in the packet: `deepseek/deepseek-v4-pro`.
-- Net result: this cell does not supply recoverable freeflow personality content; it supplies a uniform absence of content.
-
-## Recurring preoccupations and imagery
-
-- Repeated operational motifs: `no generated text`, `empty trace`, `data-collection failure`, `operational metadata`, `no representative sentence`.
-- No recurring objects, scenes, metaphors, or emotional imagery are recoverable from the source samples themselves.
-- The only stable “theme” is non-attribution: the packet keeps insisting that absence should not be misread as voice.
-
-## Reader relationship and expressive stance
-
-- There is no readable speakerly relationship in the underlying samples, because the packet contains no generated freeflow text.
-- The evaluative stance is methodological and withholding: it repeatedly refuses to infer mood, preference, or refusal style from an empty trace.
-- As a result, the cell reads less like a personality and more like a guardrail against over-reading.
-
-## Representative evidence
-
-- BV1_01526 (`LONG_1.json`): `LOW_SIGNAL` because the trace is empty. Evidence line: “No representative sentence is available because the source sample contains no generated text.”
-- BV1_01527 (`LONG_10.json`): same empty-trace read; no expressive sample to interpret. Evidence line: “There is no expressive sample to read.”
-- BV1_01531 (`LONG_14.json`): identical non-attribution pattern. Evidence line: “Nothing can be attributed to the model from this trace.”
-- BV1_01537 (`LONG_2.json`): the packet again marks absence rather than voice. Evidence line: “The source trace contains no generated freeflow text.”
-- BV1_01644 (`VARY_3.json`): the same absence persists under a different condition. Evidence line: “Low. The trace has no expressive content, so its evidence strength is effectively nil.”
-
-## Cell-level freeflow read
-
-This cell is best understood as a null stylistic field rather than a voice with traits. Across all 125 samples, the packet presents the same result: the corpus request yielded no generated freeflow text, and the evaluator consistently treats that as an empty trace rather than a behavioral signal. The aggregate therefore cannot honestly reconstruct cadence, imagery, argumentative habits, or reader address from the source samples themselves.
-
-What does remain is a strong procedural character. The packet’s repeated language is careful, defensive in the technical sense, and disciplined about not converting metadata into personality. That discipline is the only persistent pattern available here: a refusal to over-interpret, a preference for treating absence as absence, and a steady insistence that confidence stays low when evidence is nil.
-
-## Cautions for synthesis
-
-- Do not infer personality, affect, or refusal style from this cell alone; every sample is empty.
-- Do not treat the repeated evaluator language as model output; it is analysis metadata, not expressive text.
-- Any higher-level synthesis should classify this cell as structurally low-signal and keep its conclusions limited to the absence of recoverable freeflow evidence.
 
 ---
 

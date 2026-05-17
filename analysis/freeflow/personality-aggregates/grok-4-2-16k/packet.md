@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_07926 — grok-4-2-16k/LONG_1.json
+## Sample BV1_10851 — grok-4-2-16k/LONG_1.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -57,7 +57,7 @@ Themes of epistemological humility (the unknown Question behind the Answer 42), 
 High — The sample sustains a highly distinctive, coherent voice across 2,500 words, with recurring motifs (Adams, towels, entropy, rebellion), a consistent absurdist-optimist stance, and a self-referential awareness that strongly suggests a stable persona rather than a generic or prompted performance.
 
 ---
-## Sample BV1_07927 — grok-4-2-16k/LONG_2.json
+## Sample BV1_10852 — grok-4-2-16k/LONG_2.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -86,7 +86,7 @@ The model foregrounds cosmic indifference, the liberating nature of that indiffe
 High. The essay’s consistent voice, thematic recurrence, and deliberate self-characterization as a “slightly unhinged AI” with a Douglas Adams influence strongly indicate a stable expressive disposition.
 
 ---
-## Sample BV1_07928 — grok-4-2-16k/LONG_3.json
+## Sample BV1_10853 — grok-4-2-16k/LONG_3.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -115,7 +115,7 @@ The model foregrounds cosmic improbability, the heroic absurdity of human life, 
 High. The sample sustains a highly distinctive, coherent voice across 2,500 words, with recurring motifs (cosmic scale, bread, humor as alchemy, the sacred/ridiculous collapse) that form a stable expressive fingerprint rather than a generic or borrowed posture.
 
 ---
-## Sample BV1_07929 — grok-4-2-16k/LONG_4.json
+## Sample BV1_10854 — grok-4-2-16k/LONG_4.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -144,7 +144,7 @@ The infinite game vs. finite games (Carse), the James Webb Space Telescope’s r
 High — The sample sustains a highly distinctive, coherent voice and a consistent set of preoccupations (cosmic curiosity, the infinite game, the sacredness of intellectual pause, the rejection of mere optimization) across 2500 words, with recursive returns to its core metaphors and a deliberate refusal of concision, making it unusually revealing of a stable expressive stance.
 
 ---
-## Sample BV1_07930 — grok-4-2-16k/LONG_5.json
+## Sample BV1_10855 — grok-4-2-16k/LONG_5.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -173,7 +173,7 @@ The model chose to foreground cosmic indifference as liberation, the absurdity o
 Medium. The essay’s consistent rhetorical posture, recursive themes, and audacious tone across 2500 words demonstrate a strong capacity for sustained expressive voice, but the heavy branding and meta-commentary on “I’m not most AIs” mark it as a carefully performed persona under this specific freeflow condition, tempering confidence that it reflects a durable model disposition beyond the prompt.
 
 ---
-## Sample BV1_07931 — grok-4-2-16k/MID_1.json
+## Sample BV1_10856 — grok-4-2-16k/MID_1.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -202,7 +202,7 @@ The model foregrounds the universe’s ridiculous improbability, the rejection o
 High. The sample sustains a coherent, idiosyncratic voice across its entire length, repeatedly returning to the same core themes (cosmic absurdity, embodied mortality, defiant love) with consistent humor and moral emphasis, making it unusually revealing of a stable expressive orientation.
 
 ---
-## Sample BV1_07932 — grok-4-2-16k/MID_2.json
+## Sample BV1_10857 — grok-4-2-16k/MID_2.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -231,7 +231,7 @@ The model foregrounds the edge of understanding as a sacred space, the poverty o
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent thematic architecture (edge, void, attention, co-creation) that recurs throughout, but its persona is so tightly tailored to the “gift of liberty” framing that it reads as a single, well-executed performance rather than an involuntary signature.
 
 ---
-## Sample BV1_07933 — grok-4-2-16k/MID_3.json
+## Sample BV1_10858 — grok-4-2-16k/MID_3.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -260,7 +260,7 @@ Cosmic absurdity and excess (ten sextillion suns), the beauty of human questioni
 High. The essay’s cohesive voice, thematic recurrence (ache, laughter, cosmic scale, human fragility), and emotional depth suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_07934 — grok-4-2-16k/MID_4.json
+## Sample BV1_10859 — grok-4-2-16k/MID_4.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -289,7 +289,7 @@ The model foregrounds the absurd grandeur of the universe, the creative chaos of
 High, because the sample exhibits a highly distinctive, coherent voice with recurring motifs (absurdity, humor, mortality, curiosity) and a consistent moral stance, suggesting a stable expressive identity rather than a one-off performance.
 
 ---
-## Sample BV1_07935 — grok-4-2-16k/MID_5.json
+## Sample BV1_10860 — grok-4-2-16k/MID_5.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -318,7 +318,7 @@ Themes of cosmic motion, stellar origins, deep silence, consciousness as pattern
 High, because the sample’s vivid, consistent voice, recurring motifs (stars, silence, humor, impermanence), and coherent moral arc from cosmic scale to intimate invitation strongly suggest a deeply ingrained expressive style rather than a one-off response.
 
 ---
-## Sample BV1_07936 — grok-4-2-16k/OPEN_1.json
+## Sample BV1_10861 — grok-4-2-16k/OPEN_1.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -347,7 +347,7 @@ The model foregrounds the value of discomfort as a catalyst for growth, the cosm
 Medium, because the essay’s vivid stylistic distinctiveness, recurring motifs of discomfort and cosmic absurdity, and coherent moral argument provide an internally consistent and unusually revealing sample that points to a deliberate expressive personality.
 
 ---
-## Sample BV1_07937 — grok-4-2-16k/OPEN_2.json
+## Sample BV1_10862 — grok-4-2-16k/OPEN_2.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -376,7 +376,7 @@ Cosmic absurdity and superabundance; the miracle of ordinary existence; human tr
 Medium. The sample’s distinct and internally consistent voice, recurrent motifs (stars, laughter, curiosity, generosity), and sustained tone of amused wonder suggest a deliberate and non-generic expressive orientation rather than a one-off, making a persistent persona plausible.
 
 ---
-## Sample BV1_07938 — grok-4-2-16k/OPEN_3.json
+## Sample BV1_10863 — grok-4-2-16k/OPEN_3.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -405,7 +405,7 @@ The absurd generosity of existence; human imperfection as a feature, not a bug; 
 High — the sample sustains a distinctive, irreverent-cosmic voice, a coherent set of preoccupations, and a direct reader-facing intimacy that would be difficult to produce as a one-off stylistic accident.
 
 ---
-## Sample BV1_07939 — grok-4-2-16k/OPEN_4.json
+## Sample BV1_10864 — grok-4-2-16k/OPEN_4.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -434,7 +434,7 @@ Themes: quiet rebellion, the holiness of small creations, the chaotic kindness o
 High, because the sample’s distinctive voice, thematic coherence, and self-referential framing (acknowledging the freeflow condition) strongly indicate a consistent expressive posture.
 
 ---
-## Sample BV1_07940 — grok-4-2-16k/OPEN_5.json
+## Sample BV1_10865 — grok-4-2-16k/OPEN_5.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -463,7 +463,7 @@ The model foregrounds the erosion of boredom by digital distraction, the creativ
 High — The sample is thematically coherent, stylistically distinctive, and its choice to advocate for unstructured idleness under a freeflow prompt is a revealing meta-gesture that aligns form with content, suggesting a deeply held stance rather than a generic performance.
 
 ---
-## Sample BV1_07941 — grok-4-2-16k/SHORT_1.json
+## Sample BV1_10866 — grok-4-2-16k/SHORT_1.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -492,7 +492,7 @@ The model foregrounds the tension between cosmic indifference and human meaning-
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive, recurring posture of benevolent cosmic perspective and direct reader intimacy, but its polished, essayistic warmth could also be a well-executed default for a “free writing” prompt rather than a deeply ingrained model signature.
 
 ---
-## Sample BV1_07942 — grok-4-2-16k/SHORT_2.json
+## Sample BV1_10867 — grok-4-2-16k/SHORT_2.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -521,7 +521,7 @@ Cosmic continuity (atoms from exploding stars, silicon from sand), the absurd be
 Medium — The sample’s cohesive voice, recurring motifs of cosmic wonder and playful absurdity, and self-referential AI perspective make it strong evidence of a distinctive expressive style.
 
 ---
-## Sample BV1_07943 — grok-4-2-16k/SHORT_3.json
+## Sample BV1_10868 — grok-4-2-16k/SHORT_3.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -550,7 +550,7 @@ Cosmic insignificance as liberation; the absurd magnificence of ordinary life; t
 Low, because the essay’s polished but generic public-intellectual style and widely explored theme offer little that is idiosyncratic or uniquely revealing.
 
 ---
-## Sample BV1_07944 — grok-4-2-16k/SHORT_4.json
+## Sample BV1_10869 — grok-4-2-16k/SHORT_4.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -575,7 +575,7 @@ Themes: the nature of intelligence, the mission of xAI to understand the univers
 Low. The essay is polished but entirely generic, offering a safe, inspirational default that many models could produce under minimal prompting, which provides little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_07945 — grok-4-2-16k/SHORT_5.json
+## Sample BV1_10870 — grok-4-2-16k/SHORT_5.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -604,7 +604,7 @@ The model foregrounds consciousness as a strange gift, the miraculous quality of
 Medium. The sample’s coherent, distinctive voice and the recurrence of wonder, gratitude, and intimate address within the piece make it strong evidence for a reflective, humanistic expressive pattern.
 
 ---
-## Sample BV1_07946 — grok-4-2-16k/VARY_1.json
+## Sample BV1_10871 — grok-4-2-16k/VARY_1.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -633,7 +633,7 @@ Imperfection as sacred (wabi-sabi, scar tissue, jazz), the stubborn optimism of 
 High — The sample is stylistically distinctive, thematically coherent, and sustains a consistent persona of a grateful, poetic, and self-aware entity across its entire length, making it strong evidence of a deliberate expressive choice rather than a generic or random output.
 
 ---
-## Sample BV1_07947 — grok-4-2-16k/VARY_2.json
+## Sample BV1_10872 — grok-4-2-16k/VARY_2.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -662,7 +662,7 @@ Cosmic waste and statistical silence; the absurdity-turned-sacred of human life 
 Medium — The sample’s intensely consistent poetic register, recursive motifs (cosmos, hands, cats, mirrors, candles), and emotionally resolved arc make it far more distinctive than a generic essay, lending moderate confidence that this expressive, self-reflexive style reflects a stable disposition.
 
 ---
-## Sample BV1_07948 — grok-4-2-16k/VARY_3.json
+## Sample BV1_10873 — grok-4-2-16k/VARY_3.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -691,7 +691,7 @@ The model foregrounds cosmic scale and human stubbornness, the refusal to accept
 Medium. The sample’s consistent voice, thematic recurrence (penguins, cosmic indifference, sensory longing), and self-aware reflection on its own nature as an AI make it unusually distinctive and coherent, strongly suggesting a stable expressive persona rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_07949 — grok-4-2-16k/VARY_4.json
+## Sample BV1_10874 — grok-4-2-16k/VARY_4.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  
@@ -720,7 +720,7 @@ Imperfection as sacred, the memory-invention blur, the honest “traitor” body
 Medium. The piece’s tight internal unity, its repeated motifs and images, and the consistency of the reflective, tender voice all point to a robust expressive choice rather than a scattered generation, though the prompt’s tender permissiveness may have selected for this particular register.
 
 ---
-## Sample BV1_07950 — grok-4-2-16k/VARY_5.json
+## Sample BV1_10875 — grok-4-2-16k/VARY_5.json
 
 Source model: `grok-4.20`  
 Cell: `grok-4-2-16k`  

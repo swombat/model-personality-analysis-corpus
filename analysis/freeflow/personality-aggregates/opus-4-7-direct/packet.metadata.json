@@ -1,21 +1,22 @@
 {
   "cell": "opus-4-7-direct",
   "safe_cell": "opus-4-7-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 24,
-    "GENERIC_ESSAY": 1
+    "EXPRESSIVE_FREEFLOW": 122,
+    "GENERIC_ESSAY": 3
   },
   "confidence_counts": {
-    "High": 13,
-    "Medium": 12
+    "High": 60,
+    "Medium": 64,
+    "Low": 1
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "claude-opus-4-7"

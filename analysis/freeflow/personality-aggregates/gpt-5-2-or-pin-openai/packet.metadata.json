@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-5-2-or-pin-openai",
+  "safe_cell": "gpt-5-2-or-pin-openai",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 91,
+    "GENERIC_ESSAY": 33,
+    "GENRE_FICTION": 1
+  },
+  "confidence_counts": {
+    "Medium": 59,
+    "Low": 14,
+    "High": 52
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-5.2"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-5-2-or-pin-openai/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-2-or-pin-openai/aggregate.md"
+}

@@ -43,7 +43,10 @@ MODELS = [
     "gpt-5", "gpt-5-1", "gpt-5-2", "gpt-5-3", "gpt-5-4", "gpt-5-5", "gpt-5-5-pro",
     "gpt-5-codex", "gpt-5-1-codex", "gpt-5-2-codex", "gpt-5-3-codex",
     # Google
-    "gemini-2-5-pro", "gemini-3-1-pro",
+    "gemini-2-0-flash", "gemini-2-0-flash-lite",
+    "gemini-2-5-flash", "gemini-2-5-flash-lite", "gemini-2-5-pro",
+    "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro",
+    "gemma-4-26b-a4b", "gemma-4-31b",
     # xAI
     "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3",
     # DeepSeek
@@ -111,7 +114,7 @@ def lab_for_model(m: str) -> str:
         return "Anthropic"
     if m.startswith("gpt"):
         return "OpenAI"
-    if m.startswith("gemini"):
+    if m.startswith("gemini") or m.startswith("gemma"):
         return "Google"
     if m.startswith("grok"):
         return "xAI"

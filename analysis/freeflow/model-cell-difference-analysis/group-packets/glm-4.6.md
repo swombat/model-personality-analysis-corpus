@@ -4,7 +4,7 @@ All cell aggregates below are independent per-cell reads. Compare them only afte
 
 ## Cells
 
-- `glm-4-6-coding-direct` — samples: 25; kinds: `{'GENERIC_ESSAY': 3, 'EXPRESSIVE_FREEFLOW': 12, 'GENRE_FICTION': 10}`; confidence: `{'Medium': 21, 'High': 4}`
+- `glm-4-6-coding-direct` — samples: 125; kinds: `{'GENERIC_ESSAY': 17, 'GENRE_FICTION': 48, 'EXPRESSIVE_FREEFLOW': 60}`; confidence: `{'Medium': 94, 'High': 24, 'Low': 7}`
 - `glm-4-6-or` — samples: 25; kinds: `{'GENRE_FICTION': 7, 'GENERIC_ESSAY': 2, 'EXPRESSIVE_FREEFLOW': 16}`; confidence: `{'Medium': 20, 'High': 5}`
 - `glm-4-6-or-pin-atlascloud` — samples: 125; kinds: `{'EXPRESSIVE_FREEFLOW': 88, 'GENERIC_ESSAY': 18, 'GENRE_FICTION': 19}`; confidence: `{'High': 37, 'Medium': 78, 'Low': 10}`
 - `glm-4-6-or-pin-deepinfra` — samples: 125; kinds: `{'GENERIC_ESSAY': 8, 'GENRE_FICTION': 21, 'EXPRESSIVE_FREEFLOW': 96}`; confidence: `{'Medium': 73, 'High': 49, 'Low': 3}`

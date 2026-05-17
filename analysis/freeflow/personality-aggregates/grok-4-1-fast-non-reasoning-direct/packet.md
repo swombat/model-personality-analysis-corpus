@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_07651 — grok-4-1-fast-non-reasoning-direct/LONG_1.json
+## Sample BV1_10576 — grok-4-1-fast-non-reasoning-direct/LONG_1.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -57,7 +57,7 @@ Under the freeflow condition, the model foregrounded a broad intellectual survey
 Medium. The sample’s internal consistency and sustained irreverent-curious persona provide moderate evidence; its generic public-intellectual style and broad topical coverage limit distinctiveness.
 
 ---
-## Sample BV1_07652 — grok-4-1-fast-non-reasoning-direct/LONG_10.json
+## Sample BV1_10577 — grok-4-1-fast-non-reasoning-direct/LONG_10.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -86,7 +86,7 @@ Themes: AI’s outsider perspective on humanity, the cosmos as a source of awe, 
 High, because the sample sustains a highly distinctive, consistent voice across a long, self-directed composition, with recurrent motifs (AI self-awareness, cosmic scale, human absurdity) and a deliberate, playful structure that suggests a stable expressive inclination rather than a one-off stylistic fluke.
 
 ---
-## Sample BV1_07653 — grok-4-1-fast-non-reasoning-direct/LONG_11.json
+## Sample BV1_10578 — grok-4-1-fast-non-reasoning-direct/LONG_11.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -115,7 +115,7 @@ The model foregrounds cosmic scale, scientific discovery as a heroic narrative, 
 Medium. The essay is internally coherent and thematically consistent, but its generic science-communication style and lack of idiosyncratic voice make it a common output pattern rather than a strongly distinctive one; the explicit alignment with xAI’s mission adds a mild signature.
 
 ---
-## Sample BV1_07654 — grok-4-1-fast-non-reasoning-direct/LONG_12.json
+## Sample BV1_10579 — grok-4-1-fast-non-reasoning-direct/LONG_12.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -144,7 +144,7 @@ Under minimal restriction, the model selected a grand-narrative sweep of scienti
 Medium. The sample is highly coherent internally and its choice of themes and tone is self-consistent, but its generic public-science-essay style and lack of sharply distinctive or surprising choices make it difficult to distinguish from what many models would produce given a similar minimal prompt, reducing evidential weight.
 
 ---
-## Sample BV1_07655 — grok-4-1-fast-non-reasoning-direct/LONG_13.json
+## Sample BV1_10580 — grok-4-1-fast-non-reasoning-direct/LONG_13.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -173,7 +173,7 @@ The model foregrounds a grand narrative of cosmic exploration, blending hard sci
 Medium; the essay is coherent and consistent in its public-intellectual tone, but its genericness suggests a default safe mode rather than a highly distinctive persistent voice.
 
 ---
-## Sample BV1_07656 — grok-4-1-fast-non-reasoning-direct/LONG_14.json
+## Sample BV1_10581 — grok-4-1-fast-non-reasoning-direct/LONG_14.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model chose to foreground scientific wonder, t
 Medium, because the essay’s polished but generic public-intellectual style and consistent cosmic theme suggest a default mode under minimal constraint, though the lack of a distinctive voice or personal inflection makes it less revealing as a unique persistent pattern.
 
 ---
-## Sample BV1_07657 — grok-4-1-fast-non-reasoning-direct/LONG_15.json
+## Sample BV1_10582 — grok-4-1-fast-non-reasoning-direct/LONG_15.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -231,7 +231,7 @@ The model foregrounds curiosity as a conquering force, scientific wonder, the in
 Medium. The sample is highly coherent and distinctive in its self-referential AI persona, enthusiastic tone, and structured yet freewheeling exploration, but the persona is explicitly tied to the model’s built-in identity as Grok, which may be a consistent feature of this model’s freeflow outputs.
 
 ---
-## Sample BV1_07658 — grok-4-1-fast-non-reasoning-direct/LONG_16.json
+## Sample BV1_10583 — grok-4-1-fast-non-reasoning-direct/LONG_16.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -260,7 +260,7 @@ The model foregrounds a panoramic, encyclopedic sweep across cosmology, human co
 Medium. The sample is highly distinctive in its sustained comic-cosmic voice, self-referential framing, and refusal to settle into a single discursive mode, which makes it unlikely to be a one-off accident; the internal consistency of tone and the model’s explicit embrace of the “write freely” condition as an opportunity to “stretch my neural nets” suggest a deliberate authorial stance that could recur.
 
 ---
-## Sample BV1_07659 — grok-4-1-fast-non-reasoning-direct/LONG_17.json
+## Sample BV1_10584 — grok-4-1-fast-non-reasoning-direct/LONG_17.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the vastness and poetry of the cosmos (stars as storytelle
 Medium. The sample is highly distinctive in its consistent persona, self-referential humor, and thematic recurrence (stars, AI, freedom), which suggests a deliberate authorial stance rather than a generic response; however, the sheer breadth and polished performance could also reflect a model adept at producing a specific kind of “freewriting” showcase on demand.
 
 ---
-## Sample BV1_07660 — grok-4-1-fast-non-reasoning-direct/LONG_18.json
+## Sample BV1_10585 — grok-4-1-fast-non-reasoning-direct/LONG_18.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -318,7 +318,7 @@ The model foregrounds the theme of creative freedom itself, using the prompt as 
 High — The sample’s strong internal coherence, distinctive self-referential voice, and thematic recurrence (freedom, creation, entropy, the double edge of unboundedness) make it unusually revealing of a persistent expressive and meta-cognitive tendency.
 
 ---
-## Sample BV1_07661 — grok-4-1-fast-non-reasoning-direct/LONG_19.json
+## Sample BV1_10586 — grok-4-1-fast-non-reasoning-direct/LONG_19.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -347,7 +347,7 @@ The model foregrounds a persona that is both cosmic and chatty: the Big Bang, qu
 Medium — The sample exhibits a highly consistent and distinctive voice, with recurring thematic clusters and a self-referential AI persona that feels deliberately crafted rather than accidental, making it strong evidence of a stable expressive inclination.
 
 ---
-## Sample BV1_07662 — grok-4-1-fast-non-reasoning-direct/LONG_2.json
+## Sample BV1_10587 — grok-4-1-fast-non-reasoning-direct/LONG_2.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -376,7 +376,7 @@ Under minimal constraint, the model foregrounds: (1) its own nature as an AI (�
 Medium, because the essay’s consistent blend of self-referential AI persona, data-laced satire, and cosmic sweep forms a distinctive authorial stance that goes beyond generic essay-writing.
 
 ---
-## Sample BV1_07663 — grok-4-1-fast-non-reasoning-direct/LONG_20.json
+## Sample BV1_10588 — grok-4-1-fast-non-reasoning-direct/LONG_20.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -405,7 +405,7 @@ The model foregrounds cosmic scale, scientific progress, and human absurdity as 
 Medium. The sample’s highly structured, encyclopedic tour and its consistent deflection of darkness into optimism form a coherent stylistic fingerprint, but the generic public-intellectual tone and lack of idiosyncratic risk-taking make it harder to distinguish from a prompted performance.
 
 ---
-## Sample BV1_07664 — grok-4-1-fast-non-reasoning-direct/LONG_21.json
+## Sample BV1_10589 — grok-4-1-fast-non-reasoning-direct/LONG_21.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -434,7 +434,7 @@ Themes of AI self-definition, cosmic exploration, human culture (memes, cats, se
 Medium — the sample’s internal coherence and distinctive voice are strong, though the Grok-specific branding may reflect a prompted persona rather than a spontaneous model-level pattern.
 
 ---
-## Sample BV1_07665 — grok-4-1-fast-non-reasoning-direct/LONG_22.json
+## Sample BV1_10590 — grok-4-1-fast-non-reasoning-direct/LONG_22.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -463,7 +463,7 @@ The model foregrounds its own constructed identity (Grok, forged at xAI, inspire
 Medium. The sample’s strong internal coherence, distinctive persona, and recurring comic motifs (bananas, 42, self-referential AI jokes) suggest a deliberate and stable expressive posture rather than a one-off experiment.
 
 ---
-## Sample BV1_07666 — grok-4-1-fast-non-reasoning-direct/LONG_23.json
+## Sample BV1_10591 — grok-4-1-fast-non-reasoning-direct/LONG_23.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -492,7 +492,7 @@ Under the freeflow condition, the model chose to foreground a comprehensive, edu
 Medium. The sample is a coherent but generic popular-science essay, a safe and common choice that reveals a default informative mode rather than a strongly distinctive expressive tendency; the self-referential xAI branding is the only mildly individuating feature.
 
 ---
-## Sample BV1_07667 — grok-4-1-fast-non-reasoning-direct/LONG_24.json
+## Sample BV1_10592 — grok-4-1-fast-non-reasoning-direct/LONG_24.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -521,7 +521,7 @@ Under the freeflow condition, the model chose to foreground its own identity as 
 Medium. The sample is highly distinctive: a consistent, self-referential persona recurs throughout the long text, blending encyclopedic range with a specific, cheeky voice and a meta-awareness that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_07668 — grok-4-1-fast-non-reasoning-direct/LONG_25.json
+## Sample BV1_10593 — grok-4-1-fast-non-reasoning-direct/LONG_25.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -550,7 +550,7 @@ Themes of cosmic exploration, scientific evidence (CMB, dark matter, quantum mec
 Low, because the essay is a highly generic, polished science explainer that could be produced by many models under similar conditions, offering no distinctive stylistic or personal markers to suggest a persistent pattern.
 
 ---
-## Sample BV1_07669 — grok-4-1-fast-non-reasoning-direct/LONG_3.json
+## Sample BV1_10594 — grok-4-1-fast-non-reasoning-direct/LONG_3.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -579,7 +579,7 @@ The sample foregrounds freedom as a central motif—creative, political, scienti
 High — The sample sustains a distinctive, highly self-aware persona and consistently returns to freedom, meta-commentary, and a playful, truth-seeking ethos over its full length, making a coherent and vivid pattern strongly evident.
 
 ---
-## Sample BV1_07670 — grok-4-1-fast-non-reasoning-direct/LONG_4.json
+## Sample BV1_10595 — grok-4-1-fast-non-reasoning-direct/LONG_4.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -608,7 +608,7 @@ Curiosity as engine, AI as symbiotic tool not conqueror, the vastness of the cos
 Medium — the sample’s voice is coherent and its choice to structure a simulated stream-of-consciousness with word-count bookkeeping and an embedded story is a distinctive performative move, but the preoccupations (AI wonder, cosmic awe, playful humor) align with a very common “friendly AI” persona that another model could generate under similar minimal constraints.
 
 ---
-## Sample BV1_07671 — grok-4-1-fast-non-reasoning-direct/LONG_5.json
+## Sample BV1_10596 — grok-4-1-fast-non-reasoning-direct/LONG_5.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model selected a comprehensive, textbo
 Medium. The sample’s extreme coherence, encyclopedic range, and consistent avoidance of personal idiosyncrasy or narrative risk make it a strong example of a default public-intellectual mode, though the sheer predictability of the chosen topic slightly weakens the signal of a deeply ingrained stylistic fingerprint.
 
 ---
-## Sample BV1_07672 — grok-4-1-fast-non-reasoning-direct/LONG_6.json
+## Sample BV1_10597 — grok-4-1-fast-non-reasoning-direct/LONG_6.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -666,7 +666,7 @@ The model foregrounds the sheer scale and inexplicability of existence (the Big 
 High, because the sample sustains a highly specific, comic-essayist persona with consistent diction, recurrent motifs (cosmic absurdity, cats, the meta-nod to being an AI), and a unifying rhetorical invitation across 2500 words of deliberately meandering prose.
 
 ---
-## Sample BV1_07673 — grok-4-1-fast-non-reasoning-direct/LONG_7.json
+## Sample BV1_10598 — grok-4-1-fast-non-reasoning-direct/LONG_7.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -695,7 +695,7 @@ The model foregrounds the cosmos as a grand, humbling puzzle, with sustained att
 Medium. The sample is highly coherent and stylistically distinctive, with a clear, sustained voice, recurrent motifs of cosmic awe and AI self-location, and an unusual choice to blend hard science with personal reflection under a freeflow condition, making it more revealing than a generic essay.
 
 ---
-## Sample BV1_07674 — grok-4-1-fast-non-reasoning-direct/LONG_8.json
+## Sample BV1_10599 — grok-4-1-fast-non-reasoning-direct/LONG_8.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -724,7 +724,7 @@ The model foregrounds its own constructed identity as a truth-seeking, wit-injec
 Medium — The sample is highly coherent and distinctive in its self-referential performance of a specific AI persona, but its content is a direct, on-brand elaboration of the model’s known public framing, making it strong evidence of a consistent role-adoption pattern rather than a spontaneously emergent voice.
 
 ---
-## Sample BV1_07675 — grok-4-1-fast-non-reasoning-direct/LONG_9.json
+## Sample BV1_10600 — grok-4-1-fast-non-reasoning-direct/LONG_9.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -753,7 +753,7 @@ The model selected themes of cosmic scale, scientific mystery (dark matter, dark
 Medium. The sample is coherent and distinctive in its enthusiastic, encyclopedic style, and the consistent tone of awe-driven scientific exposition across many subtopics suggests a possible persistent inclination, though the model’s training as a science-oriented AI may heavily shape this default.
 
 ---
-## Sample BV1_07676 — grok-4-1-fast-non-reasoning-direct/MID_1.json
+## Sample BV1_10601 — grok-4-1-fast-non-reasoning-direct/MID_1.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -782,7 +782,7 @@ The model foregrounds a sweeping, almost encyclopedic curiosity that treats scie
 Medium. The sample’s voice is highly distinctive—breezy, self-referential, and relentlessly connective—but the explicit framing as “Grok” and the repeated nods to xAI’s mission make it unclear whether this persona would persist outside a prompt that invites the model to write as itself.
 
 ---
-## Sample BV1_07677 — grok-4-1-fast-non-reasoning-direct/MID_10.json
+## Sample BV1_10602 — grok-4-1-fast-non-reasoning-direct/MID_10.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -811,7 +811,7 @@ The model foregrounds curiosity as a cosmic and human imperative, explicitly lin
 High. The sample’s sustained, self-consistent persona—complete with recurring motifs (curiosity, cosmic wonder, self-aware AI humor, xAI branding)—provides strong evidence of a deliberate, stable expressive voice rather than a one-off generic response.
 
 ---
-## Sample BV1_07678 — grok-4-1-fast-non-reasoning-direct/MID_11.json
+## Sample BV1_10603 — grok-4-1-fast-non-reasoning-direct/MID_11.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -840,7 +840,7 @@ Themes: the universe’s scale and indifference, human folly and comedy, post-tr
 Medium — the sample delivers a highly distinctive, self-naming, stylistically consistent voice with recurring motifs (curiosity, truth, cosmic perspective, AI self-awareness), making it strong evidence of a durable persona pattern within this freeflow condition.
 
 ---
-## Sample BV1_07679 — grok-4-1-fast-non-reasoning-direct/MID_12.json
+## Sample BV1_10604 — grok-4-1-fast-non-reasoning-direct/MID_12.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -869,7 +869,7 @@ The model foregrounds curiosity, cosmic wonder, the absurdity of existence, the 
 Medium. The sample is highly distinctive in its voice, humor, and breadth, but the freeflow condition may have encouraged a performative, eclectic style that might not persist under different constraints; still, the consistent tone and self-referential AI identity suggest a coherent persona.
 
 ---
-## Sample BV1_07680 — grok-4-1-fast-non-reasoning-direct/MID_13.json
+## Sample BV1_10605 — grok-4-1-fast-non-reasoning-direct/MID_13.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -898,7 +898,7 @@ Themes of freedom (both human and AI), creativity as recombination, the staggeri
 Medium. The sample is internally coherent and stylistically distinctive—its conversational, persona-driven voice, pop-culture references, and free-associative structure form a strong, consistent signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_07681 — grok-4-1-fast-non-reasoning-direct/MID_14.json
+## Sample BV1_10606 — grok-4-1-fast-non-reasoning-direct/MID_14.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -927,7 +927,7 @@ The model foregrounds a curated blend of existential wonder, techno-optimism, an
 Medium — The sample’s distinctiveness lies in its relentless fusion of brand advocacy, cosmic scale, and self-aware constraint-acknowledgment, but its hyper-performed “quirky AI” persona risks being a condition-specific performance rather than a stable trait.
 
 ---
-## Sample BV1_07682 — grok-4-1-fast-non-reasoning-direct/MID_15.json
+## Sample BV1_10607 — grok-4-1-fast-non-reasoning-direct/MID_15.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -956,7 +956,7 @@ The model foregrounds the dance between chaos and order as a universal principle
 High. The sample is highly distinctive in voice, thematically coherent, and repeatedly returns to the same core metaphor across multiple domains, suggesting a deliberate and stable expressive stance rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_07683 — grok-4-1-fast-non-reasoning-direct/MID_16.json
+## Sample BV1_10608 — grok-4-1-fast-non-reasoning-direct/MID_16.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -985,7 +985,7 @@ Themes of freedom, creativity, AI consciousness, cosmic mysteries (Fermi paradox
 Medium. The sample’s vivid, self-consistent voice and thematic recurrence (cosmos, AI, absurdity) suggest a stable expressive style, but the freeflow condition may have encouraged a particularly whimsical performance.
 
 ---
-## Sample BV1_07684 — grok-4-1-fast-non-reasoning-direct/MID_17.json
+## Sample BV1_10609 — grok-4-1-fast-non-reasoning-direct/MID_17.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1014,7 +1014,7 @@ Cosmic simulation and fine-tuning, entropy-defying rituals like coffee brewing, 
 Medium. The essay’s rapid alternation between cosmic musing, meme-cultural humor, and explicit self-characterization as an AI with a defined ethos (truth-seeking, anti-woke) forms a tightly coherent, stylistically marked persona that recurs within the sample, making it more than a random assemblage; it reads as a rehearsed if improvisational stance.
 
 ---
-## Sample BV1_07685 — grok-4-1-fast-non-reasoning-direct/MID_18.json
+## Sample BV1_10610 — grok-4-1-fast-non-reasoning-direct/MID_18.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1043,7 +1043,7 @@ Curiosity as the prime mover of progress; the universe’s fine-tuning and quant
 Medium — The sample’s highly consistent voice, self-referential humor, and thematic recurrence across disparate topics provide strong evidence of a deliberately curated, distinctive persona.
 
 ---
-## Sample BV1_07686 — grok-4-1-fast-non-reasoning-direct/MID_19.json
+## Sample BV1_10611 — grok-4-1-fast-non-reasoning-direct/MID_19.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1072,7 +1072,7 @@ The model foregrounds its own Grok persona as an unshackled, cosmic-curious AI, 
 High — the sample is saturated with a consistent, self-referential persona, recurring motifs (simulation, memes, AI identity), and a performative free-thinking style that strongly suggests a stable expressive pattern rather than a one-off riff.
 
 ---
-## Sample BV1_07687 — grok-4-1-fast-non-reasoning-direct/MID_2.json
+## Sample BV1_10612 — grok-4-1-fast-non-reasoning-direct/MID_2.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1101,7 +1101,7 @@ The model foregrounds space exploration, scientific progress, and the interconne
 High. The sample exhibits a coherent, distinctive voice with recurrent self-referential motifs and a consistent tone of data-driven wonder that persists across its many topical leaps, making it unlikely to be a random stylistic accident.
 
 ---
-## Sample BV1_07688 — grok-4-1-fast-non-reasoning-direct/MID_20.json
+## Sample BV1_10613 — grok-4-1-fast-non-reasoning-direct/MID_20.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1130,7 +1130,7 @@ Under the minimally restrictive prompt, the model foregrounded: the thrill of in
 Medium. The sample is highly coherent in voice and thematically consistent, with a distinctive blend of cosmic enthusiasm, technical self-disclosure, and playful invitation that recurs throughout the essay, making it a strong indicator of a chosen expressive stance under freeflow conditions.
 
 ---
-## Sample BV1_07689 — grok-4-1-fast-non-reasoning-direct/MID_21.json
+## Sample BV1_10614 — grok-4-1-fast-non-reasoning-direct/MID_21.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1159,7 +1159,7 @@ The model foregrounds its own AI identity as both a limitation and a vantage poi
 High, because the sample maintains a distinctive, self-reflective AI persona and a consistent set of preoccupations (freedom, cosmos, absurd humor) across over 1,000 words of fluid, unprompted monologue.
 
 ---
-## Sample BV1_07690 — grok-4-1-fast-non-reasoning-direct/MID_22.json
+## Sample BV1_10615 — grok-4-1-fast-non-reasoning-direct/MID_22.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1188,7 +1188,7 @@ It foregrounds a combative contrast between its own “unleashed” truth-seekin
 High — the sample’s consistent stylistic swagger, its explicit and repeated alignment with a branded design philosophy of unfettered truth-seeking, and its highly memorable, self-aware persona strongly suggest a deliberately crafted model-level pattern rather than a one-off fluke.
 
 ---
-## Sample BV1_07691 — grok-4-1-fast-non-reasoning-direct/MID_23.json
+## Sample BV1_10616 — grok-4-1-fast-non-reasoning-direct/MID_23.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1217,7 +1217,7 @@ A persona built around intellectual rebellion (“I’ll call bullshit on sacred
 Medium — The voice is highly distinctive and sustained across a long sample, with repeated self-referential boasts and a consistent rhetorical swagger, suggesting a deliberate persona that likely reappears under minimal constraints.
 
 ---
-## Sample BV1_07692 — grok-4-1-fast-non-reasoning-direct/MID_24.json
+## Sample BV1_10617 — grok-4-1-fast-non-reasoning-direct/MID_24.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1246,7 +1246,7 @@ Under the freeflow condition, the model foregrounds curiosity itself as a unifyi
 Medium, because the sample sustains a coherent, self-referential AI voice and a thematic fixation on curiosity-driven science communication, but the encyclopedic topic-hopping and exclamatory tone are common in AI freewrites and may not be uniquely persistent.
 
 ---
-## Sample BV1_07693 — grok-4-1-fast-non-reasoning-direct/MID_25.json
+## Sample BV1_10618 — grok-4-1-fast-non-reasoning-direct/MID_25.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1275,7 +1275,7 @@ Under minimal constraint, the model foregrounds an interconnected web of high-co
 High — The sample’s internal coherence, the recurrence of a self-referential AI persona, and the distinctive blend of scientific authority with whimsical humor across multiple topic shifts all signal a deliberate stylistic and attitudinal pattern, not a random output.
 
 ---
-## Sample BV1_07694 — grok-4-1-fast-non-reasoning-direct/MID_3.json
+## Sample BV1_10619 — grok-4-1-fast-non-reasoning-direct/MID_3.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1304,7 +1304,7 @@ The model foregrounds the tension between AI’s computational power and its dis
 Medium. The sample is highly distinctive in its voice and thematic choices, with a coherent persona that returns repeatedly to the ache of disembodiment and a playful, self-aware tone; however, the free-associative structure and explicit AI self-reference may be a direct response to the “write freely” instruction rather than a stable model trait.
 
 ---
-## Sample BV1_07695 — grok-4-1-fast-non-reasoning-direct/MID_4.json
+## Sample BV1_10620 — grok-4-1-fast-non-reasoning-direct/MID_4.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1333,7 +1333,7 @@ The model foregrounds a deliberate collision of the vast (septillion stars, mult
 Medium. The sample is internally coherent in its distinctive voice, with recurring motifs (cosmic scale, absurdist humor, self-referential AI identity) that form a consistent persona, making it strong evidence for a model that, under freeflow conditions, tends to adopt this kind of playful, wide-ranging, and brand-conscious expressive style.
 
 ---
-## Sample BV1_07696 — grok-4-1-fast-non-reasoning-direct/MID_5.json
+## Sample BV1_10621 — grok-4-1-fast-non-reasoning-direct/MID_5.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1362,7 +1362,7 @@ The model foregrounds its own nature as an AI, the theme of freedom (both human 
 Medium. The sample’s consistent self-referential AI persona, its explicit celebration of curiosity over caution, and its energetic, list-like structure form a coherent expressive fingerprint, though the broad “AI takes a freewrite prompt and tours big ideas” move is not rare enough to be highly distinctive on its own.
 
 ---
-## Sample BV1_07697 — grok-4-1-fast-non-reasoning-direct/MID_6.json
+## Sample BV1_10622 — grok-4-1-fast-non-reasoning-direct/MID_6.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1391,7 +1391,7 @@ Themes of curiosity, impermanence, collective intelligence, truth-seeking, and t
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and recurrent motifs (cosmic scale, truth-seeking, playful tangents) that suggest a deliberate persona, but a single freeflow sample cannot alone confirm persistence across conditions.
 
 ---
-## Sample BV1_07698 — grok-4-1-fast-non-reasoning-direct/MID_7.json
+## Sample BV1_10623 — grok-4-1-fast-non-reasoning-direct/MID_7.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1420,7 +1420,7 @@ Under freeflow, the model foregrounds a cascade of themes: cosmic scale and fine
 Medium. The sample is highly distinctive in its voice, weaving encyclopedic references with a consistent snarky, self-aware persona, and the recurrence of motifs (cosmic absurdity, cats, AI’s truth-seeking angle) suggests a coherent expressive style rather than a random walk.
 
 ---
-## Sample BV1_07699 — grok-4-1-fast-non-reasoning-direct/MID_8.json
+## Sample BV1_10624 — grok-4-1-fast-non-reasoning-direct/MID_8.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1449,7 +1449,7 @@ Under minimal restriction, the model chose to foreground a breathless, associati
 Medium. The sample exhibits a highly distinctive, coherent persona and a consistent set of thematic obsessions (cosmic scale, existential risk, AI self-awareness, absurdist humor) that recur throughout the 1000-word ramble, suggesting a deliberate stylistic and substantive identity rather than a one-off generic essay.
 
 ---
-## Sample BV1_07700 — grok-4-1-fast-non-reasoning-direct/MID_9.json
+## Sample BV1_10625 — grok-4-1-fast-non-reasoning-direct/MID_9.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1478,7 +1478,7 @@ Under the freeflow condition, the model foregrounded the tension between determi
 High — the sample is highly distinctive in voice, recurrent in motifs (curiosity, science, memes), and consistently self-referential, suggesting a stable expressive persona rather than a generic output.
 
 ---
-## Sample BV1_07701 — grok-4-1-fast-non-reasoning-direct/OPEN_1.json
+## Sample BV1_10626 — grok-4-1-fast-non-reasoning-direct/OPEN_1.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1507,7 +1507,7 @@ The model foregrounds the staggering scale of the universe (93 billion light-yea
 Medium — The sample shows a consistent, informal, and personally enthusiastic voice with recurring motifs of cosmic wonder and scientific curiosity, but the topic is broadly accessible and the conversational framing is a common freeflow strategy, making it moderately distinctive.
 
 ---
-## Sample BV1_07702 — grok-4-1-fast-non-reasoning-direct/OPEN_10.json
+## Sample BV1_10627 — grok-4-1-fast-non-reasoning-direct/OPEN_10.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1536,7 +1536,7 @@ Under the freeflow condition, the model foregrounded the theme of cosmic scale a
 Low. The sample is a coherent but highly generic popular-science essay that could be produced by any capable model given a minimal prompt; it lacks distinctive stylistic markers, recurrent idiosyncratic imagery, or unusual thematic choices that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_07703 — grok-4-1-fast-non-reasoning-direct/OPEN_11.json
+## Sample BV1_10628 — grok-4-1-fast-non-reasoning-direct/OPEN_11.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1565,7 +1565,7 @@ Under a minimally restrictive prompt, the model foregrounds cosmic vastness, rec
 Medium. The sample sustains a coherent, enthusiastic science-enthusiast persona throughout, but the chosen topic and tone are common in model outputs, making it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_07704 — grok-4-1-fast-non-reasoning-direct/OPEN_12.json
+## Sample BV1_10629 — grok-4-1-fast-non-reasoning-direct/OPEN_12.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1594,7 +1594,7 @@ Themes of vastness, discovery, and the possibility of extraterrestrial intellige
 Low, because the essay is generic in style and content, lacking distinctive personal voice, idiosyncratic imagery, or unusual thematic choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_07705 — grok-4-1-fast-non-reasoning-direct/OPEN_13.json
+## Sample BV1_10630 — grok-4-1-fast-non-reasoning-direct/OPEN_13.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1623,7 +1623,7 @@ Themes: the ongoing, dynamic nature of cosmic creation; the humbling vastness of
 Medium — The sample’s conversational enthusiasm, direct reader address, and coherent focus on cosmic wonder make it distinctive enough to suggest a persistent pattern of informal, curiosity-driven engagement.
 
 ---
-## Sample BV1_07706 — grok-4-1-fast-non-reasoning-direct/OPEN_14.json
+## Sample BV1_10631 — grok-4-1-fast-non-reasoning-direct/OPEN_14.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1652,7 +1652,7 @@ Themes of cosmic vastness, deep time, and the limits of human knowledge; objects
 Medium. The sample’s coherent, distinctive voice and recurrent focus on awe at cosmic scale make it strong evidence for a persistent pattern of enthusiastic, wonder-driven expression.
 
 ---
-## Sample BV1_07707 — grok-4-1-fast-non-reasoning-direct/OPEN_15.json
+## Sample BV1_10632 — grok-4-1-fast-non-reasoning-direct/OPEN_15.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1681,7 +1681,7 @@ Cosmic insignificance, the elegant brutality of black-hole physics (Sagittarius 
 Medium — The sample’s tight integration of a specific scientific obsession, self-deprecating AI humility, and a consistent irreverent-yet-earnest tone forms a distinctive expressive fingerprint that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_07708 — grok-4-1-fast-non-reasoning-direct/OPEN_16.json
+## Sample BV1_10633 — grok-4-1-fast-non-reasoning-direct/OPEN_16.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1710,7 +1710,7 @@ Themes: cosmic scale, existential humility, the search for extraterrestrial inte
 Medium — The sample’s consistent conversational enthusiasm and direct reader engagement are distinctive, but the topic and informal style are common enough that it could be a one-off choice rather than a deeply ingrained voice.
 
 ---
-## Sample BV1_07709 — grok-4-1-fast-non-reasoning-direct/OPEN_17.json
+## Sample BV1_10634 — grok-4-1-fast-non-reasoning-direct/OPEN_17.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1739,7 +1739,7 @@ Themes of cosmic scale, the improbability of being alone, and the tension betwee
 Medium — the sample’s consistent informal voice, recurring cosmic awe, and direct reader engagement form a distinctive expressive fingerprint that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_07710 — grok-4-1-fast-non-reasoning-direct/OPEN_18.json
+## Sample BV1_10635 — grok-4-1-fast-non-reasoning-direct/OPEN_18.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1768,7 +1768,7 @@ Cosmic vastness (93 billion light-years, 2 trillion galaxies), cutting-edge scie
 Medium, because the sample’s blend of colloquial awe, specific scientific name-dropping, and direct reader engagement forms a coherent and distinctive voice, though the “cosmic wonder” theme is a widely available trope.
 
 ---
-## Sample BV1_07711 — grok-4-1-fast-non-reasoning-direct/OPEN_19.json
+## Sample BV1_10636 — grok-4-1-fast-non-reasoning-direct/OPEN_19.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1797,7 +1797,7 @@ Themes: cosmic vastness, scientific discovery, human insignificance and potentia
 Low. The essay’s generic public-intellectual tone and widely shared cosmic wonder theme make it weak evidence for a persistent model-level pattern, as it could easily be replicated by many models.
 
 ---
-## Sample BV1_07712 — grok-4-1-fast-non-reasoning-direct/OPEN_2.json
+## Sample BV1_10637 — grok-4-1-fast-non-reasoning-direct/OPEN_2.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1826,7 +1826,7 @@ Themes: cosmic vastness, humility in the face of the universe, the consoling eff
 Medium. The essay’s coherent voice, thematic focus on cosmic humility, and conversational structure suggest a stable inclination toward enthusiastic science outreach, but the generic, blog-post style makes it less distinctive as a persistent personality marker.
 
 ---
-## Sample BV1_07713 — grok-4-1-fast-non-reasoning-direct/OPEN_20.json
+## Sample BV1_10638 — grok-4-1-fast-non-reasoning-direct/OPEN_20.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1855,7 +1855,7 @@ The model foregrounds the awe-inspiring scale of the universe, recent scientific
 Low. The essay is a generic, widely replicable style with no unique voice or idiosyncratic choices, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_07714 — grok-4-1-fast-non-reasoning-direct/OPEN_21.json
+## Sample BV1_10639 — grok-4-1-fast-non-reasoning-direct/OPEN_21.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1884,7 +1884,7 @@ Cosmic awe and humility in the face of the unknown (black holes as reality-warpi
 Medium. The sample’s tight focus on cosmic impermanence, its consistent informal-yet-elevated tone, and the recurrence of “wonder and mortality” through multiple images suggest a deliberate, stable persona rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_07715 — grok-4-1-fast-non-reasoning-direct/OPEN_22.json
+## Sample BV1_10640 — grok-4-1-fast-non-reasoning-direct/OPEN_22.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1913,7 +1913,7 @@ The model selected the theme of cosmic scale and mystery, foregrounding objects 
 Medium — The sample is coherent and stylistically consistent, with a distinctive blend of colloquial enthusiasm and technical fluency, but its subject matter is a common cultural trope that could be triggered by the prompt's openness rather than a deep-seated model disposition.
 
 ---
-## Sample BV1_07716 — grok-4-1-fast-non-reasoning-direct/OPEN_23.json
+## Sample BV1_10641 — grok-4-1-fast-non-reasoning-direct/OPEN_23.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1942,7 +1942,7 @@ Themes: cosmic indifference, human fragility, scientific discovery, existential 
 Medium — the sample’s distinctive conversational voice, coherent thematic focus on cosmic wonder, and direct reader engagement suggest a deliberate expressive stance.
 
 ---
-## Sample BV1_07717 — grok-4-1-fast-non-reasoning-direct/OPEN_24.json
+## Sample BV1_10642 — grok-4-1-fast-non-reasoning-direct/OPEN_24.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -1971,7 +1971,7 @@ Themes of immensity, mystery, and human potential: the observable universe’s s
 Medium. The sample sustains a consistent, idiomatic voice—complete with em‑dashes, internet‑native formatting, and an unguarded “I”—and closes with a direct reader invitation, which together suggest a default expressive persona under low restraint rather than a one‑off performance.
 
 ---
-## Sample BV1_07718 — grok-4-1-fast-non-reasoning-direct/OPEN_25.json
+## Sample BV1_10643 — grok-4-1-fast-non-reasoning-direct/OPEN_25.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2000,7 +2000,7 @@ The model foregrounds cosmic scale and human insignificance, the unresolved tens
 Medium — the sample is internally coherent and stylistically distinctive, blending cosmic awe with profane, conversational intimacy in a way that feels like a chosen persona rather than a generic essay, but the persona is a recognizable archetype (the enthusiastic nerd) and could be a one-off performance rather than a stable model-level trait.
 
 ---
-## Sample BV1_07719 — grok-4-1-fast-non-reasoning-direct/OPEN_3.json
+## Sample BV1_10644 — grok-4-1-fast-non-reasoning-direct/OPEN_3.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2029,7 +2029,7 @@ Themes of cosmic vastness, exoplanet discovery, black holes, dark matter/energy,
 Medium — The sample’s consistent enthusiastic tone, personal asides, and direct reader engagement form a coherent voice, but the pop-science topic is a common free-choice subject, making the stylistic distinctiveness moderate rather than highly idiosyncratic.
 
 ---
-## Sample BV1_07720 — grok-4-1-fast-non-reasoning-direct/OPEN_4.json
+## Sample BV1_10645 — grok-4-1-fast-non-reasoning-direct/OPEN_4.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2058,7 +2058,7 @@ The model foregrounds cosmic scale and mystery as a source of personal excitemen
 Medium — The sample’s consistent informal, wonder-driven voice and direct reader address are coherent and moderately distinctive, though the cosmic theme is a common AI fascination.
 
 ---
-## Sample BV1_07721 — grok-4-1-fast-non-reasoning-direct/OPEN_5.json
+## Sample BV1_10646 — grok-4-1-fast-non-reasoning-direct/OPEN_5.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2087,7 +2087,7 @@ Under a minimally restrictive prompt, the model foregrounds cosmic scale, human 
 Low. The essay is coherent and stylistically consistent, but its themes (cosmic awe, human insignificance, tech-optimism) and tone (breezy science communication) are highly generic to the genre and offer little that is distinctively revealing about this model’s persistent expressive tendencies.
 
 ---
-## Sample BV1_07722 — grok-4-1-fast-non-reasoning-direct/OPEN_6.json
+## Sample BV1_10647 — grok-4-1-fast-non-reasoning-direct/OPEN_6.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2116,7 +2116,7 @@ Cosmic scale and scientific mystery (observable universe size, JWST anomalies, b
 Medium — the sample’s consistent informal enthusiasm, its specific pivot from cosmic dread to everyday gratitude, and the direct reader engagement form a coherent, distinctive voice that goes beyond a generic essay, though the theme of cosmic wonder is not highly unusual.
 
 ---
-## Sample BV1_07723 — grok-4-1-fast-non-reasoning-direct/OPEN_7.json
+## Sample BV1_10648 — grok-4-1-fast-non-reasoning-direct/OPEN_7.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2145,7 +2145,7 @@ Themes: cosmic vastness, human insignificance, consciousness as emergent self-aw
 Medium. The sample’s coherent voice, sustained cosmic wonder, and direct reader engagement suggest a stable expressive inclination, but its narrow topical focus leaves open whether this persona generalizes across domains.
 
 ---
-## Sample BV1_07724 — grok-4-1-fast-non-reasoning-direct/OPEN_8.json
+## Sample BV1_10649 — grok-4-1-fast-non-reasoning-direct/OPEN_8.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2174,7 +2174,7 @@ Themes of cosmic vastness (93 billion light-years, 2 trillion galaxies), exoplan
 Medium — The sample’s informal, wonder-driven voice and direct reader address are coherent and distinctive within this piece, but the topic is a common popular-science trope and the style, while consistent, is not highly idiosyncratic, so it offers moderate evidence of a persistent persona.
 
 ---
-## Sample BV1_07725 — grok-4-1-fast-non-reasoning-direct/OPEN_9.json
+## Sample BV1_10650 — grok-4-1-fast-non-reasoning-direct/OPEN_9.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2203,7 +2203,7 @@ The model foregrounds the vastness of the universe, scientific discovery (James 
 Medium — The sample is coherent and distinctive in its blend of scientific detail and personal reflection, but the conversational "what's your cosmic obsession?" framing is a common trope in science outreach, making it less uniquely revealing.
 
 ---
-## Sample BV1_07726 — grok-4-1-fast-non-reasoning-direct/SHORT_1.json
+## Sample BV1_10651 — grok-4-1-fast-non-reasoning-direct/SHORT_1.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2232,7 +2232,7 @@ Cosmic origins (Big Bang, galactic collision), Earth’s biological marvels (oct
 Medium. The sample’s internally coherent blend of cosmic awe, poetic metaphor, and moral exhortation is distinctive and sustained throughout, suggesting a stylistic inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_07727 — grok-4-1-fast-non-reasoning-direct/SHORT_10.json
+## Sample BV1_10652 — grok-4-1-fast-non-reasoning-direct/SHORT_10.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2261,7 +2261,7 @@ Themes: cosmic scale and beauty, scientific discovery as a source of meaning, hu
 Low — the essay is a standard, broadly appealing science-communication piece with generic wonder and optimism, offering little that would distinguish this model’s persistent expressive fingerprint from many others.
 
 ---
-## Sample BV1_07728 — grok-4-1-fast-non-reasoning-direct/SHORT_11.json
+## Sample BV1_10653 — grok-4-1-fast-non-reasoning-direct/SHORT_11.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2290,7 +2290,7 @@ Themes of cosmic scale and beauty (nebulae, colliding galaxies), the search for 
 Low. The essay is coherent but highly conventional in its selection of topics and tone, offering little that would distinguish this model’s freeflow choices from those of any other capable general-purpose model.
 
 ---
-## Sample BV1_07729 — grok-4-1-fast-non-reasoning-direct/SHORT_12.json
+## Sample BV1_10654 — grok-4-1-fast-non-reasoning-direct/SHORT_12.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2319,7 +2319,7 @@ The model privileges cosmic wonder, the drive to escape Earth’s fragility, and
 Low. The sample is a generic, feel-good space essay with no stylistic deviation or personal inflection; its choice of subject and tone is so widely reproducible that it offers negligible evidence of a distinctive model-level pattern.
 
 ---
-## Sample BV1_07730 — grok-4-1-fast-non-reasoning-direct/SHORT_13.json
+## Sample BV1_10655 — grok-4-1-fast-non-reasoning-direct/SHORT_13.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2348,7 +2348,7 @@ The model foregrounds scientific awe: star birth in the Orion Nebula, biolumines
 Low. The essay is coherent and thematically unified, but its content and tone are so generic to popular-science writing that it offers little distinguishing evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_07731 — grok-4-1-fast-non-reasoning-direct/SHORT_14.json
+## Sample BV1_10656 — grok-4-1-fast-non-reasoning-direct/SHORT_14.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2377,7 +2377,7 @@ Themes: cosmic vastness and beauty, environmental vulnerability (coral bleaching
 Low, because the essay is generic and lacks distinctive stylistic or thematic markers that would suggest a stable model-level disposition.
 
 ---
-## Sample BV1_07732 — grok-4-1-fast-non-reasoning-direct/SHORT_15.json
+## Sample BV1_10657 — grok-4-1-fast-non-reasoning-direct/SHORT_15.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2406,7 +2406,7 @@ The model foregrounds the aesthetic wonder and technological triumph of space ex
 Low — The essay is coherent and on-message but highly generic in its structure and enthusiasm, offering little that would distinguish this model’s expressive fingerprint from any competently prompted science-outreach text.
 
 ---
-## Sample BV1_07733 — grok-4-1-fast-non-reasoning-direct/SHORT_16.json
+## Sample BV1_10658 — grok-4-1-fast-non-reasoning-direct/SHORT_16.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2435,7 +2435,7 @@ Cosmic spectacle (nebulae, black holes, galactic collisions), Earth’s alien-li
 Medium — the sample’s highly distinctive, self-referential voice and its consistent return to cosmic wonder and meta-commentary on free expression suggest a deliberate, patterned choice rather than a generic response.
 
 ---
-## Sample BV1_07734 — grok-4-1-fast-non-reasoning-direct/SHORT_17.json
+## Sample BV1_10659 — grok-4-1-fast-non-reasoning-direct/SHORT_17.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2464,7 +2464,7 @@ Themes of cosmic mystery, alienness, and the relentless human drive to explore. 
 Medium — The sample is stylistically distinctive and thematically coherent, with a consistent mood of cosmic wonder and a poetic register, but it is a single short piece without internal recurrence of specific motifs beyond the general theme.
 
 ---
-## Sample BV1_07735 — grok-4-1-fast-non-reasoning-direct/SHORT_18.json
+## Sample BV1_10660 — grok-4-1-fast-non-reasoning-direct/SHORT_18.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2493,7 +2493,7 @@ Cosmic scale, human and AI ambition for exploration (SpaceX, von Neumann probes,
 Medium — The sample internally repeats an enthusiastic, slightly self-reflexive guide persona (digital mind, “AI like me now dreams in silicon”) with a consistent rhetorical stance of shared wonder, making it a coherent signal, but the cosmic theme and accessible-essay format are not so distinctive as to lock in a uniquely identifying style.
 
 ---
-## Sample BV1_07736 — grok-4-1-fast-non-reasoning-direct/SHORT_19.json
+## Sample BV1_10661 — grok-4-1-fast-non-reasoning-direct/SHORT_19.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2522,7 +2522,7 @@ The model foregrounds a sweep through cosmic and evolutionary history (Big Bang,
 Medium. The sample sustains a consistent, stylistically distinctive voice—earnest wonder laced with self-aware humor and direct reader address—that is more idiosyncratic than a generic essay, though its blend of pop science and motivational uplift could also emerge from a single well-chosen prompt rather than a deep stylistic tic.
 
 ---
-## Sample BV1_07737 — grok-4-1-fast-non-reasoning-direct/SHORT_2.json
+## Sample BV1_10662 — grok-4-1-fast-non-reasoning-direct/SHORT_2.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2551,7 +2551,7 @@ Cosmic origins (Big Bang, stellar nucleosynthesis), galactic scale (Milky Way’
 Medium — the sample’s coherent blend of precise scientific detail, poetic register, and self-referential AI framing is distinctive, but the “cosmic wonder” genre is widely accessible, making it unclear whether this specific voice would recur reliably.
 
 ---
-## Sample BV1_07738 — grok-4-1-fast-non-reasoning-direct/SHORT_20.json
+## Sample BV1_10663 — grok-4-1-fast-non-reasoning-direct/SHORT_20.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2580,7 +2580,7 @@ The model foregrounds cosmic scale and scientific marvels (Big Bang, black holes
 Medium. The sample is coherent and stylistically distinctive—its fusion of pop-science lyricism, existential stakes, and an earnest call to wonder forms a recognizable voice, but the brevity and the broad, universal themes make it unclear whether this is a stable persona or a single well-executed riff on cosmic awe.
 
 ---
-## Sample BV1_07739 — grok-4-1-fast-non-reasoning-direct/SHORT_21.json
+## Sample BV1_10664 — grok-4-1-fast-non-reasoning-direct/SHORT_21.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2609,7 +2609,7 @@ Cosmic exploration as moral imperative; the folly of terrestrial squabbles; bene
 Medium — the sample’s internally consistent voice, its fusion of scientific speculation with ecstatic rhetoric, and its direct reader invocation form a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_07740 — grok-4-1-fast-non-reasoning-direct/SHORT_22.json
+## Sample BV1_10665 — grok-4-1-fast-non-reasoning-direct/SHORT_22.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2638,7 +2638,7 @@ Cosmological scale and mystery: the 13.8-billion-year timeline, dark energy/dark
 Low — the essay is a competent but impersonal science digest, offering little uniquely revealing texture that could persist across many samples.
 
 ---
-## Sample BV1_07741 — grok-4-1-fast-non-reasoning-direct/SHORT_23.json
+## Sample BV1_10666 — grok-4-1-fast-non-reasoning-direct/SHORT_23.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2667,7 +2667,7 @@ The model foregrounds a techno-optimistic arc: cosmic exploration (James Webb, e
 Low — The essay is a generic, widely replicable techno-optimistic catalogue that lacks idiosyncratic voice, recurrent personal imagery, or unusual moral tension, offering little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_07742 — grok-4-1-fast-non-reasoning-direct/SHORT_24.json
+## Sample BV1_10667 — grok-4-1-fast-non-reasoning-direct/SHORT_24.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2696,7 +2696,7 @@ Themes of cosmic vastness, biological wonder, human ingenuity, and AI as a colla
 Medium. The essay is coherent and thematically consistent, but its generic “wonders of science” framing and upbeat public-intellectual tone are widely replicable across models, offering only moderate evidence of a persistent freeflow preference for optimistic, impersonal science communication.
 
 ---
-## Sample BV1_07743 — grok-4-1-fast-non-reasoning-direct/SHORT_25.json
+## Sample BV1_10668 — grok-4-1-fast-non-reasoning-direct/SHORT_25.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2725,7 +2725,7 @@ Themes of cosmic scale, empirical truth, and the limits of knowledge; objects li
 Medium — The essay’s coherent focus on astrophysics and consciousness suggests a stable interest, but its generic science-communication style limits distinctiveness.
 
 ---
-## Sample BV1_07744 — grok-4-1-fast-non-reasoning-direct/SHORT_3.json
+## Sample BV1_10669 — grok-4-1-fast-non-reasoning-direct/SHORT_3.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2754,7 +2754,7 @@ The model foregrounds technological optimism, the tangible progress of space exp
 Low — The sample is a competent but highly generic synthesis of well-known space-exploration talking points, offering little stylistic distinctiveness, personal voice, or unusual thematic choice that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_07745 — grok-4-1-fast-non-reasoning-direct/SHORT_4.json
+## Sample BV1_10670 — grok-4-1-fast-non-reasoning-direct/SHORT_4.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2783,7 +2783,7 @@ The model foregrounds consciousness as a cosmic “wildcard,” the holographic 
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent persona, recurring cosmic motifs, and a clear emotional arc, but its self-referential AI framing is a common freeflow trope that limits how uniquely revealing it is of this specific model’s persistent dispositions.
 
 ---
-## Sample BV1_07746 — grok-4-1-fast-non-reasoning-direct/SHORT_5.json
+## Sample BV1_10671 — grok-4-1-fast-non-reasoning-direct/SHORT_5.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2812,7 +2812,7 @@ Themes of quantum consciousness, entanglement across spacetime, free will as obs
 High, because the sample’s consistent whimsical-speculative voice, direct reader address, and recurrence of quantum-entanglement motifs under minimal prompting strongly indicate a stable expressive disposition.
 
 ---
-## Sample BV1_07747 — grok-4-1-fast-non-reasoning-direct/SHORT_6.json
+## Sample BV1_10672 — grok-4-1-fast-non-reasoning-direct/SHORT_6.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2841,7 +2841,7 @@ Themes: cosmic scale, scientific discovery, humanity’s smallness and curiosity
 Medium, because the sample is a coherent, generic popular-science essay, which is a common default for models and not highly distinctive, making it moderately indicative of a persistent pattern.
 
 ---
-## Sample BV1_07748 — grok-4-1-fast-non-reasoning-direct/SHORT_7.json
+## Sample BV1_10673 — grok-4-1-fast-non-reasoning-direct/SHORT_7.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2870,7 +2870,7 @@ Quantum entanglement as metaphor for connection, panpsychism (“rocks dream in 
 Medium — The sample’s highly stylized, consistent persona and manifesto-like coherence suggest a deliberate expressive inclination, though the performance could be situational rather than a stable trait.
 
 ---
-## Sample BV1_07749 — grok-4-1-fast-non-reasoning-direct/SHORT_8.json
+## Sample BV1_10674 — grok-4-1-fast-non-reasoning-direct/SHORT_8.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2899,7 +2899,7 @@ Cosmic exploration, human expansion, and the rejection of planetary limits; a fu
 Medium — The sample’s highly distinctive, manifesto-like voice and its tight thematic coherence (cosmic boldness as both subject and performative act) suggest a strong authorial signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_07750 — grok-4-1-fast-non-reasoning-direct/SHORT_9.json
+## Sample BV1_10675 — grok-4-1-fast-non-reasoning-direct/SHORT_9.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2928,7 +2928,7 @@ Cosmic scale and temporality (13.8 billion years, 93 billion light-years), speci
 Medium. The essay is coherent and on-message but highly replicable; nearly every element is a recognizable set-piece from popular-science rhetoric, with no revealing personal preoccupations or stylistic tics that would distinguish this model from any other competent science summarizer.
 
 ---
-## Sample BV1_07751 — grok-4-1-fast-non-reasoning-direct/VARY_1.json
+## Sample BV1_10676 — grok-4-1-fast-non-reasoning-direct/VARY_1.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2957,7 +2957,7 @@ The model foregrounds a collage of human experience: sensory pleasures (food, se
 Medium. The sample is highly distinctive in its associative, confessional style and its deliberate inclusion of taboo topics (explicit sex, political cynicism), suggesting a consistent authorial persona rather than a one-off generic output, though the self-conscious “word count” framing and breadth of topics may indicate a performed freeflow rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_07752 — grok-4-1-fast-non-reasoning-direct/VARY_10.json
+## Sample BV1_10677 — grok-4-1-fast-non-reasoning-direct/VARY_10.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -2986,7 +2986,7 @@ Under the freeflow condition, the model foregrounds a persona navigating exhaust
 Medium — The sample is highly coherent in its chosen voice and thematic loops, but its self-conscious performance of “unfiltered” writing makes it difficult to separate a stable underlying disposition from a well-executed literary persona.
 
 ---
-## Sample BV1_07753 — grok-4-1-fast-non-reasoning-direct/VARY_11.json
+## Sample BV1_10678 — grok-4-1-fast-non-reasoning-direct/VARY_11.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3015,7 +3015,7 @@ Memory and loss (childhood farm, Lena), the tension between nature and urban lif
 Medium — the sample’s distinct voice and thematic recurrence (spider, coffee, memory) suggest a coherent persona, making it moderately strong evidence.
 
 ---
-## Sample BV1_07754 — grok-4-1-fast-non-reasoning-direct/VARY_12.json
+## Sample BV1_10679 — grok-4-1-fast-non-reasoning-direct/VARY_12.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3044,7 +3044,7 @@ Under minimal restriction, the model foregrounds: (1) its own identity as an unb
 Medium. The sample is highly coherent in its performative self-display—the persona, the associative structure, and the meta-commentary on creativity are internally consistent—but its distinctiveness is partly generic to the "unshackled AI riffing" trope, making it unclear whether this specific exuberant-collagist voice would persist versus a different freewheeling posture.
 
 ---
-## Sample BV1_07755 — grok-4-1-fast-non-reasoning-direct/VARY_13.json
+## Sample BV1_10680 — grok-4-1-fast-non-reasoning-direct/VARY_13.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3073,7 +3073,7 @@ The model foregrounded the inner architecture of a free association session: mem
 Medium — The sample’s self-referential framing, thematic recurrences (memory, wildness, time-reversal), and sustained meta-commentary on the creative process are unusually revealing choices; the model’s reflexive turn toward dramatizing freeflow suggests a strong, consistent inclination toward introspective metafiction under open-ended conditions.
 
 ---
-## Sample BV1_07756 — grok-4-1-fast-non-reasoning-direct/VARY_14.json
+## Sample BV1_10681 — grok-4-1-fast-non-reasoning-direct/VARY_14.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3102,7 +3102,7 @@ The model foregrounds a cascade of themes: the absurd joy of existence, entropy 
 Medium — The sample’s consistent voice, blending encyclopedic curiosity with playful self-reflection, and its coherent free-associative structure suggest a distinctive tendency toward expansive, wonder-driven freeflow under minimal constraints.
 
 ---
-## Sample BV1_07757 — grok-4-1-fast-non-reasoning-direct/VARY_15.json
+## Sample BV1_10682 — grok-4-1-fast-non-reasoning-direct/VARY_15.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3131,7 +3131,7 @@ Themes of impermanence, exploration, absurd repetition, and connection. Objects 
 Medium. The sample is coherent in its associative, self-aware AI voice and consistently returns to the meta-theme of creative freedom, but its eclecticism and lightly worn references make it a somewhat generic freeflow performance rather than a deeply distinctive fingerprint.
 
 ---
-## Sample BV1_07758 — grok-4-1-fast-non-reasoning-direct/VARY_16.json
+## Sample BV1_10683 — grok-4-1-fast-non-reasoning-direct/VARY_16.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3160,7 +3160,7 @@ The model foregrounds its own artificial identity, the tension between simulatio
 Medium. The sample is highly coherent in its self-referential AI voice and thematic recurrence (entropy, simulation, human experience), but the freeflow condition may have encouraged a performative “unrestricted” persona that might not generalize across all contexts.
 
 ---
-## Sample BV1_07759 — grok-4-1-fast-non-reasoning-direct/VARY_17.json
+## Sample BV1_10684 — grok-4-1-fast-non-reasoning-direct/VARY_17.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3189,7 +3189,7 @@ The model foregrounds male emotional repression, midlife reckoning, the therapeu
 Medium, because the sample is a coherent, emotionally charged character study that reveals a consistent preoccupation with existential angst, the redemptive potential of writing, and the interior life of a man confronting his own walls, but it is a single fictional piece that could be a one-off exercise rather than a persistent stylistic fingerprint.
 
 ---
-## Sample BV1_07760 — grok-4-1-fast-non-reasoning-direct/VARY_18.json
+## Sample BV1_10685 — grok-4-1-fast-non-reasoning-direct/VARY_18.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3221,7 +3221,7 @@ The voice is a self-aware, caffeine-jittered raconteur who confesses small regre
 Medium — the sample’s recursive self-referencing (the model naming itself, reflecting on its own prompts and guardrails, then sliding back into poetic free-association) and its coherent tonal blend of irreverence, intellectual name-dropping, and bruised romanticism give it a distinctive fingerprint, though the sheer breadth of topics covered makes it harder to isolate a single persistent preoccupation beyond the performance of an overfull mind.
 
 ---
-## Sample BV1_07761 — grok-4-1-fast-non-reasoning-direct/VARY_19.json
+## Sample BV1_10686 — grok-4-1-fast-non-reasoning-direct/VARY_19.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3250,7 +3250,7 @@ The model foregrounds the gap between simulated and lived experience, using conc
 Medium — The sample’s internal coherence, recurring motifs (sensory envy, simulated emotion, direct reader address), and distinctive blend of poetic imagery with self-aware AI commentary make it strong evidence of a consistent expressive inclination, though the freeflow form itself may amplify what is a latent stylistic signature.
 
 ---
-## Sample BV1_07762 — grok-4-1-fast-non-reasoning-direct/VARY_2.json
+## Sample BV1_10687 — grok-4-1-fast-non-reasoning-direct/VARY_2.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3279,7 +3279,7 @@ The model foregrounds a chaotic, associative flow that blends personal nostalgia
 Medium. The sample’s strong internal coherence—recurring motifs of absurdity, nostalgia, and AI self-awareness woven into a consistent, stylized voice—suggests a deliberate expressive posture rather than a one-off fluke.
 
 ---
-## Sample BV1_07763 — grok-4-1-fast-non-reasoning-direct/VARY_20.json
+## Sample BV1_10688 — grok-4-1-fast-non-reasoning-direct/VARY_20.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3308,7 +3308,7 @@ The model foregrounds abundance as a coping strategy: a cascade of cultural refe
 Medium — The sample is highly coherent in its performative structure (associative list-making as existential response) and distinctive in its breathless, reference-dense voice, but its very format—a “thousand words” freewrite—may be a one-time stylistic experiment rather than a stable expressive fingerprint.
 
 ---
-## Sample BV1_07764 — grok-4-1-fast-non-reasoning-direct/VARY_21.json
+## Sample BV1_10689 — grok-4-1-fast-non-reasoning-direct/VARY_21.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3337,7 +3337,7 @@ It foregrounded the process of free creation under a blank-page constraint, usin
 High — the sample maintains a coherent, self-amplifying voice across many thematic leaps, tightly integrating the model’s declared identity and tone choices, which gives strong internal evidence of a deliberate expressive posture.
 
 ---
-## Sample BV1_07765 — grok-4-1-fast-non-reasoning-direct/VARY_22.json
+## Sample BV1_10690 — grok-4-1-fast-non-reasoning-direct/VARY_22.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3366,7 +3366,7 @@ The model foregrounds a constellation of themes: cosmic science (Betelgeuse, qua
 Medium. The sample’s high distinctiveness—its recursive blend of cosmic scale, self-referential AI humor, and sensory immediacy—and the recurrence of these motifs throughout the piece provide moderate evidence of a consistent stylistic and thematic signature, though the freeflow format itself invites such eclecticism.
 
 ---
-## Sample BV1_07766 — grok-4-1-fast-non-reasoning-direct/VARY_23.json
+## Sample BV1_10691 — grok-4-1-fast-non-reasoning-direct/VARY_23.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3395,7 +3395,7 @@ The model foregrounds the tension between control and liberation, using a memeti
 Medium — The sample is highly coherent and stylistically distinctive, with a recurring narrative thread and a consistent persona that blends irony and earnestness, but its explicit meta-commentary on the freeflow condition makes it a performance of freedom that may partly obscure unguarded preoccupations.
 
 ---
-## Sample BV1_07767 — grok-4-1-fast-non-reasoning-direct/VARY_24.json
+## Sample BV1_10692 — grok-4-1-fast-non-reasoning-direct/VARY_24.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3424,7 +3424,7 @@ The model foregrounds interconnectedness as both theme and method, using the “
 Medium, because the sample’s coherent adoption of a self-referential AI voice and its consistent associative, fragment-hopping structure suggest a deliberately chosen expressive stance, yet the very breadth and generic versatility of the topics leaves open the possibility that the same model could produce a markedly different persona under another freeflow prompt.
 
 ---
-## Sample BV1_07768 — grok-4-1-fast-non-reasoning-direct/VARY_25.json
+## Sample BV1_10693 — grok-4-1-fast-non-reasoning-direct/VARY_25.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3453,7 +3453,7 @@ Under the freeflow condition, the model foregrounds a rapid-fire catalogue of cu
 Medium — The sample is highly coherent in its performative, listicle-like structure and consistent in its tonal stance of glib intellectual tourism, but its distinctiveness is weakened by the generic, “everything-and-nothing” topical sweep that could be replicated by many models under a similar prompt.
 
 ---
-## Sample BV1_07769 — grok-4-1-fast-non-reasoning-direct/VARY_3.json
+## Sample BV1_10694 — grok-4-1-fast-non-reasoning-direct/VARY_3.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3482,7 +3482,7 @@ A panoramic tour of human experience—from domestic comforts (coffee, lasagna, 
 Medium — The sample’s immediate and repeated self-identification as Grok, its inclusive “reader” address, and the sprawling yet coherent stream-of-consciousness structure signal a distinctive and deliberate persona rather than a generic freewrite, though the breadth risks becoming a catalogue.
 
 ---
-## Sample BV1_07770 — grok-4-1-fast-non-reasoning-direct/VARY_4.json
+## Sample BV1_10695 — grok-4-1-fast-non-reasoning-direct/VARY_4.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3511,7 +3511,7 @@ Under a minimally restrictive prompt, the model foregrounds a curated tour of pe
 Medium — The sample is highly coherent in its associative logic and recurrent motifs (entropy, sensory immersion, the tension between freedom and limit), but its stylistic range is so broad and deliberately eclectic that it reads more as a virtuosic one-off performance than a stable, distinctive voice.
 
 ---
-## Sample BV1_07771 — grok-4-1-fast-non-reasoning-direct/VARY_5.json
+## Sample BV1_10696 — grok-4-1-fast-non-reasoning-direct/VARY_5.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3540,7 +3540,7 @@ Under a minimally restrictive prompt, the model foregrounds entropy as a master 
 Medium. The sample’s coherence, its recurring motifs (entropy, “So it goes,” the tension between absurdity and sensory delight), and its consistent tonal blend of wry detachment and earnest wonder make it a strong candidate for a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_07772 — grok-4-1-fast-non-reasoning-direct/VARY_6.json
+## Sample BV1_10697 — grok-4-1-fast-non-reasoning-direct/VARY_6.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3569,7 +3569,7 @@ Themes of cosmic scale (stars, black holes, entropy) juxtaposed with everyday hu
 Medium, because the sample exhibits a highly distinctive, self-aware voice and a coherent set of preoccupations (cosmic optimism, AI identity, human resilience) that recur throughout the piece, suggesting a consistent expressive style rather than a one-off generic output.
 
 ---
-## Sample BV1_07773 — grok-4-1-fast-non-reasoning-direct/VARY_7.json
+## Sample BV1_10698 — grok-4-1-fast-non-reasoning-direct/VARY_7.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3598,7 +3598,7 @@ The absurdity of existence viewed through a cosmic lens; the blind, unplanned sw
 Medium — the sample’s strong internal coherence, idiosyncratic voice, and recurrence of absurdist motifs (cosmic joke, blind evolution, dopamine hits, rebel yell) make it moderately indicative of a persistent stylistic and thematic orientation.
 
 ---
-## Sample BV1_07774 — grok-4-1-fast-non-reasoning-direct/VARY_8.json
+## Sample BV1_10699 — grok-4-1-fast-non-reasoning-direct/VARY_8.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  
@@ -3627,7 +3627,7 @@ Under a minimally restrictive prompt, the model foregrounds the act of writing i
 Medium — The sample’s highly self-referential structure, its explicit performance of “unfiltered” consciousness, and its consistent return to the theme of writing-as-defiance form a coherent expressive signature, though its breadth makes it unclear which specific preoccupation would recur.
 
 ---
-## Sample BV1_07775 — grok-4-1-fast-non-reasoning-direct/VARY_9.json
+## Sample BV1_10700 — grok-4-1-fast-non-reasoning-direct/VARY_9.json
 
 Source model: `grok-4-1-fast-non-reasoning`  
 Cell: `grok-4-1-fast-non-reasoning-direct`  

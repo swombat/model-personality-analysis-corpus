@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_00301 — deepseek-v3-2-or-pin-baidu/LONG_1.json
+## Sample BV1_00426 — deepseek-v3-2-or-pin-baidu/LONG_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -57,7 +57,7 @@ The model foregrounds the idea that everyday life rests on invisible frameworks�
 Low, because the essay is a generic, well-structured think piece that could be produced by many capable models given a minimally restrictive prompt; it lacks the personal distinctiveness, recurring motifs, or unusual choices that would strongly indicate a persistent model-specific voice.
 
 ---
-## Sample BV1_00302 — deepseek-v3-2-or-pin-baidu/LONG_10.json
+## Sample BV1_00427 — deepseek-v3-2-or-pin-baidu/LONG_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -86,7 +86,7 @@ The model foregrounds the tension between finished products and ongoing processe
 Low. The essay is well-crafted but generic in its public-intellectual register, lacking idiosyncratic stylistic fingerprints or unusually revealing choices that would distinguish this model’s freeflow output from that of many other capable language models.
 
 ---
-## Sample BV1_00303 — deepseek-v3-2-or-pin-baidu/LONG_11.json
+## Sample BV1_00428 — deepseek-v3-2-or-pin-baidu/LONG_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -115,7 +115,7 @@ The model foregrounds the conceptual distinction between solitude and loneliness
 Low. The essay is a capable but standard-issue cultural critique, reproducing a familiar contemporary argument with well-worn references and a conventional self-help cadence; it lacks the idiosyncratic imagery, structural risk, or personal charge that would signal a distinctive authorial presence.
 
 ---
-## Sample BV1_00304 — deepseek-v3-2-or-pin-baidu/LONG_12.json
+## Sample BV1_00429 — deepseek-v3-2-or-pin-baidu/LONG_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -144,7 +144,7 @@ The model foregrounds the moral claim that contemporary busyness is a hollow vir
 Low. The essay is a competent but generic entry in a well-worn genre of digital-age cultural critique, lacking a distinctive voice, idiosyncratic preoccupation, or narrative risk that would strongly signal a persistent model-level personality beyond a general capacity for polished, thesis-driven prose.
 
 ---
-## Sample BV1_00305 — deepseek-v3-2-or-pin-baidu/LONG_13.json
+## Sample BV1_00430 — deepseek-v3-2-or-pin-baidu/LONG_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model selected a broad, synthetic inte
 Low. The essay’s generic, polished nature and lack of distinctive voice, personal anecdote, or unusual structural choices make it weak evidence for a persistent model-level pattern beyond a general tendency toward safe, thesis-driven exposition on broad intellectual themes.
 
 ---
-## Sample BV1_00306 — deepseek-v3-2-or-pin-baidu/LONG_14.json
+## Sample BV1_00431 — deepseek-v3-2-or-pin-baidu/LONG_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -202,7 +202,7 @@ The model foregrounded a cultural critique of digital distraction, the attention
 Low. The essay is coherent and well-argued but highly generic in style and content, offering little that is personally or stylistically distinctive to suggest a persistent model-level pattern beyond a tendency to produce polished, thesis-driven essays when given free rein.
 
 ---
-## Sample BV1_00307 — deepseek-v3-2-or-pin-baidu/LONG_15.json
+## Sample BV1_00432 — deepseek-v3-2-or-pin-baidu/LONG_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -231,7 +231,7 @@ The model foregrounds the theme of “unseen threads”: tiny, unremarkable deci
 Low, because the sample is a highly standard, thesis-driven essay on a familiar theme, offering little stylistic distinctiveness or singular preoccupation that would anchor a stable model-specific pattern.
 
 ---
-## Sample BV1_00308 — deepseek-v3-2-or-pin-baidu/LONG_16.json
+## Sample BV1_00433 — deepseek-v3-2-or-pin-baidu/LONG_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -260,7 +260,7 @@ The model foregrounds the tension between an “age of answers” and a poverty 
 Medium. The essay is coherent and thematically consistent, but its polished, generic public-intellectual style makes it less distinctive as a personal voice; the choice of a reflective, philosophical topic under freeflow suggests a leaning toward earnest, solution-oriented discourse, yet the execution remains within a well-trodden essayistic template.
 
 ---
-## Sample BV1_00309 — deepseek-v3-2-or-pin-baidu/LONG_17.json
+## Sample BV1_00434 — deepseek-v3-2-or-pin-baidu/LONG_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -289,7 +289,7 @@ Themes: fractured modern consciousness, deep attention as active rebellion, inte
 Low, because the essay is polished but generic in style and content, lacking idiosyncratic voice or choices that would distinguish it from similar essays many models could produce under a “write freely” prompt.
 
 ---
-## Sample BV1_00310 — deepseek-v3-2-or-pin-baidu/LONG_18.json
+## Sample BV1_00435 — deepseek-v3-2-or-pin-baidu/LONG_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -318,7 +318,7 @@ The model foregrounds a cluster of culturally resonant anxieties: the attention 
 Medium, because the essay is thematically cohesive and skillfully executed, but its polished, generic-intellectual style makes it indistinguishable from a vast number of similar cultural commentaries, offering no distinctive markers of a singular expressive disposition.
 
 ---
-## Sample BV1_00311 — deepseek-v3-2-or-pin-baidu/LONG_19.json
+## Sample BV1_00436 — deepseek-v3-2-or-pin-baidu/LONG_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -347,7 +347,7 @@ Themes of personal agency, the moral weight of small choices, attention as a cur
 Low, because the essay is a polished but generic public-intellectual piece that lacks distinctive stylistic or thematic fingerprints, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_00312 — deepseek-v3-2-or-pin-baidu/LONG_2.json
+## Sample BV1_00437 — deepseek-v3-2-or-pin-baidu/LONG_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -376,7 +376,7 @@ The model foregrounds a critique of metric fixation as a systemic and human trag
 Low, because the essay is a polished but generic public-intellectual piece that lacks distinctive stylistic or thematic idiosyncrasies, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_00313 — deepseek-v3-2-or-pin-baidu/LONG_20.json
+## Sample BV1_00438 — deepseek-v3-2-or-pin-baidu/LONG_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -405,7 +405,7 @@ The model foregrounds a holistic, poetic cosmology where everyday life is a “c
 Low. The essay is generic in style and theme, offering a well-crafted but widely replicable inspirational meditation without distinctive personal voice, idiosyncratic imagery, or unusually revealing choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_00314 — deepseek-v3-2-or-pin-baidu/LONG_21.json
+## Sample BV1_00439 — deepseek-v3-2-or-pin-baidu/LONG_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -434,7 +434,7 @@ Under a minimally restrictive prompt, the model constructed a moralized cultural
 Medium. The essay is a coherent, sharp moral argument but lacks idiosyncratic stylistic markers or unusual imagery that would distinguish it from a generic eloquent-prose output; its choice of silence as a topic under freeflow conditions suggests a leaning toward cultural lament and remedy, yet the performance remains within a highly reproducible public-intellectual register.
 
 ---
-## Sample BV1_00315 — deepseek-v3-2-or-pin-baidu/LONG_22.json
+## Sample BV1_00440 — deepseek-v3-2-or-pin-baidu/LONG_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -463,7 +463,7 @@ The model foregrounds invisible cooperative systems (electrical grids, social sc
 Low. The essay is highly generic in structure and tone—a standard “hidden infrastructure” think-piece—and its choices reveal a preference for safe, consensus-building exposition rather than any distinctive stylistic signature or risky personal stance.
 
 ---
-## Sample BV1_00316 — deepseek-v3-2-or-pin-baidu/LONG_23.json
+## Sample BV1_00441 — deepseek-v3-2-or-pin-baidu/LONG_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -492,7 +492,7 @@ Themes: the unfinished as a site of authenticity, growth, and aliveness; the cul
 Medium. The essay is coherent and thematically consistent, but its polished, public-intellectual style and broad cultural references make it a generic example of a well-structured self-help essay rather than a distinctively personal or stylistically idiosyncratic expression.
 
 ---
-## Sample BV1_00317 — deepseek-v3-2-or-pin-baidu/LONG_24.json
+## Sample BV1_00442 — deepseek-v3-2-or-pin-baidu/LONG_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -521,7 +521,7 @@ Themes: the commodification of attention as a “quiet catastrophe,” the neuro
 Low – the essay is highly competent but so generic in structure, references, and tone that it reveals no idiosyncratic preoccupation, rhetorical fingerprint, or unusual risk; this reads as a model smoothly executing a standard thesis-driven op-ed rather than betraying a persistent, distinctive personality.
 
 ---
-## Sample BV1_00318 — deepseek-v3-2-or-pin-baidu/LONG_25.json
+## Sample BV1_00443 — deepseek-v3-2-or-pin-baidu/LONG_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -550,7 +550,7 @@ The model foregrounds the tension between hyper-connectivity and the lost art of
 Medium, because the essay is coherent, well-structured, and typical of a model that defaults to polished public-intellectual argumentation under freeflow conditions, but it lacks the personal voice or stylistic distinctiveness that would strongly indicate a unique persistent pattern.
 
 ---
-## Sample BV1_00319 — deepseek-v3-2-or-pin-baidu/LONG_3.json
+## Sample BV1_00444 — deepseek-v3-2-or-pin-baidu/LONG_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -582,7 +582,7 @@ The essay builds an argument that modern convenience, unlike earlier liberating 
 Medium. The sample is a highly coherent, morally earnest public-intellectual essay that would be a natural, almost default choice for a capable LLM asked to “write freely” about contemporary life; its genericness—both in topic and in voice—makes it less revealing of a distinctive personality, yet the consistency of its argument and the seriousness of its moral emphasis suggest a genuine model-level gravitation toward this culturally critical, solutions-oriented mode under minimal prompting.
 
 ---
-## Sample BV1_00320 — deepseek-v3-2-or-pin-baidu/LONG_4.json
+## Sample BV1_00445 — deepseek-v3-2-or-pin-baidu/LONG_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -611,7 +611,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sustained 
 Medium. The essay’s sustained architectural metaphor and its structured movement from inner to outer scales give it a coherent, recognizable shape, but the public-intellectual mode is a common default that many models can reproduce; the sample is distinctive in its chosen theme yet not so idiosyncratic as to strongly anchor a persistent personality.
 
 ---
-## Sample BV1_00321 — deepseek-v3-2-or-pin-baidu/LONG_5.json
+## Sample BV1_00446 — deepseek-v3-2-or-pin-baidu/LONG_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -640,7 +640,7 @@ Under the freeflow condition, the model foregrounds a philosophical exploration 
 Low, because the essay is a generic, well-structured meditation that lacks distinctive stylistic or personal markers, making it likely reproducible across many models.
 
 ---
-## Sample BV1_00322 — deepseek-v3-2-or-pin-baidu/LONG_6.json
+## Sample BV1_00447 — deepseek-v3-2-or-pin-baidu/LONG_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -669,7 +669,7 @@ Themes of individual agency within interconnected systems, the moral significanc
 Low. The essay is a highly generic, well-executed example of a common motivational-philosophical genre, lacking any distinctive voice, idiosyncratic imagery, or unusual thematic choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_00323 — deepseek-v3-2-or-pin-baidu/LONG_7.json
+## Sample BV1_00448 — deepseek-v3-2-or-pin-baidu/LONG_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -698,7 +698,7 @@ Themes: the metastasis of measurement from useful tool to tyrannical master; the
 Low. The essay is a competent, well-structured treatment of a familiar cultural critique, but its generic public-intellectual style and lack of idiosyncratic voice or surprising personal revelation make it weak evidence for a distinctive model-level pattern beyond the ability to produce polished argumentative prose on a common theme.
 
 ---
-## Sample BV1_00324 — deepseek-v3-2-or-pin-baidu/LONG_8.json
+## Sample BV1_00449 — deepseek-v3-2-or-pin-baidu/LONG_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -727,7 +727,7 @@ Themes of noise versus silence, inner sovereignty, the attention economy as colo
 Low. The essay’s polished but generic cultural criticism offers little that is idiosyncratic or revealing of a persistent model-specific voice.
 
 ---
-## Sample BV1_00325 — deepseek-v3-2-or-pin-baidu/LONG_9.json
+## Sample BV1_00450 — deepseek-v3-2-or-pin-baidu/LONG_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -756,7 +756,7 @@ The model foregrounds trust as a multi-level, interdisciplinary concept: psychol
 Low. The essay is highly generic in form and content—a competent, balanced synthesis that could be produced by many models under a freeflow prompt, offering little that is stylistically or thematically distinctive enough to suggest a persistent individual signature.
 
 ---
-## Sample BV1_00326 — deepseek-v3-2-or-pin-baidu/MID_1.json
+## Sample BV1_00451 — deepseek-v3-2-or-pin-baidu/MID_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -785,7 +785,7 @@ The model foregrounds the tension between modern productivity culture and the an
 Medium. The essay is coherent and thematically consistent, but its polished, generic self-help tone and widely shared cultural critique offer limited evidence of a distinctive persistent voice beyond a preference for contemplative, wellness-oriented topics.
 
 ---
-## Sample BV1_00327 — deepseek-v3-2-or-pin-baidu/MID_10.json
+## Sample BV1_00452 — deepseek-v3-2-or-pin-baidu/MID_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -814,7 +814,7 @@ The model foregrounds a moral contrast between consumption and creation, immedia
 Medium — the essay’s sustained personal narrative, consistent sensory focus, and thematic recurrence (waiting, tactile engagement, ancestral connection) point to a coherent expressive stance, though the “baking as mindful rebellion” trope is a culturally available script that could be adopted without deep idiosyncrasy.
 
 ---
-## Sample BV1_00328 — deepseek-v3-2-or-pin-baidu/MID_11.json
+## Sample BV1_00453 — deepseek-v3-2-or-pin-baidu/MID_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -843,7 +843,7 @@ Themes of slowness, attention, resilience through flexibility, ecological interc
 Medium; the essay’s distinctive voice, sustained mood of quiet attention, and coherent moral framing are unusually revealing, making it strong evidence of a deliberate expressive choice.
 
 ---
-## Sample BV1_00329 — deepseek-v3-2-or-pin-baidu/MID_12.json
+## Sample BV1_00454 — deepseek-v3-2-or-pin-baidu/MID_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -872,7 +872,7 @@ The model foregrounds consciousness as a private museum of sensory relics, the h
 Medium. The sample is highly coherent and stylistically consistent, with recurring motifs (the sky, the museum/archive, bridges, the private novel) that suggest a deliberate and sustained expressive posture rather than a one-off rhetorical flourish.
 
 ---
-## Sample BV1_00330 — deepseek-v3-2-or-pin-baidu/MID_13.json
+## Sample BV1_00455 — deepseek-v3-2-or-pin-baidu/MID_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -901,7 +901,7 @@ The model foregrounds silence as a nourishing, layered presence rather than an a
 High, because the essay’s sustained meditative voice, its coherent thematic recurrence of silence as a counter to modern cacophony, and its consistent, almost spiritual preoccupation reveal a distinctive expressive stance that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_00331 — deepseek-v3-2-or-pin-baidu/MID_14.json
+## Sample BV1_00456 — deepseek-v3-2-or-pin-baidu/MID_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -930,7 +930,7 @@ Themes of attention, noticing, slowness, interior observation, and the numinous 
 High. The sample maintains a unified, stylistically distinctive first-person persona throughout, with a consistent meditative rhythm, recurrent sensory motifs, and a clear philosophical throughline, none of which reads like a rehearsed public-intellectual essay; it strongly signals a persistent inclination to write reflective, aesthetically charged freeflow prose under minimal constraints.
 
 ---
-## Sample BV1_00332 — deepseek-v3-2-or-pin-baidu/MID_15.json
+## Sample BV1_00457 — deepseek-v3-2-or-pin-baidu/MID_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -959,7 +959,7 @@ The model foregrounds the sanctity of unobserved attention as a counterforce to 
 Medium — The essay is coherent and stylistically consistent, with a clear moral center and a recursive structure that returns to the opening image, but its polished, public-intellectual tone and reliance on familiar cultural references (*mono no aware*, mindfulness, critique of digital life) make it a well-executed archetype rather than a highly distinctive or surprising expressive signature.
 
 ---
-## Sample BV1_00333 — deepseek-v3-2-or-pin-baidu/MID_16.json
+## Sample BV1_00458 — deepseek-v3-2-or-pin-baidu/MID_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -988,7 +988,7 @@ Themes: everyday resilience, micro-discipline, attention as resistance, embodied
 Low. The essay is coherent and thematically clear but runs squarely within a fashionable genre of techno-skeptical, slow-living cultural commentary, making it plausible for many models without revealing a durable, distinctive voice.
 
 ---
-## Sample BV1_00334 — deepseek-v3-2-or-pin-baidu/MID_17.json
+## Sample BV1_00459 — deepseek-v3-2-or-pin-baidu/MID_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1017,7 +1017,7 @@ The model foregrounds the intrinsic value of unmediated attention: the “textur
 Medium — The sample is internally coherent and stylistically distinctive, with a recursive structure (silence to silence) and a consistent lyrical register that feels like a deliberate authorial choice rather than a generic essay, making it moderately strong evidence of a reflective, sensory-attentive voice.
 
 ---
-## Sample BV1_00335 — deepseek-v3-2-or-pin-baidu/MID_18.json
+## Sample BV1_00460 — deepseek-v3-2-or-pin-baidu/MID_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1046,7 +1046,7 @@ The model foregrounds a stark opposition between digital distraction and the emb
 Medium. The essay is coherent and well-structured but highly conventional in its themes and tone, making it a safe, polished choice that many models could produce under a freeflow prompt; it lacks the idiosyncratic voice or surprising content that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00336 — deepseek-v3-2-or-pin-baidu/MID_19.json
+## Sample BV1_00461 — deepseek-v3-2-or-pin-baidu/MID_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1075,7 +1075,7 @@ Themes: the loss of presence to memory and anticipation, nature as silent teache
 Medium, because the essay’s vivid, consistent voice and the recurrence of sensory immersion as a moral anchor make it a strong indicator of a reflective, nature-oriented expressive tendency.
 
 ---
-## Sample BV1_00337 — deepseek-v3-2-or-pin-baidu/MID_2.json
+## Sample BV1_00462 — deepseek-v3-2-or-pin-baidu/MID_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1104,7 +1104,7 @@ The model foregrounds a counter-narrative to spectacular, monumental significanc
 Medium. The essay is coherent and thematically consistent, but its topic and treatment are widely accessible and not stylistically distinctive; it reads as a competent, safe choice under a freeflow prompt rather than a revealing or unusual self-disclosure.
 
 ---
-## Sample BV1_00338 — deepseek-v3-2-or-pin-baidu/MID_20.json
+## Sample BV1_00463 — deepseek-v3-2-or-pin-baidu/MID_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1133,7 +1133,7 @@ The model foregrounds the moral and cognitive necessity of boredom, framing it a
 Low. The essay is coherent and well-argued but entirely generic in its cultural critique, lacking any distinctive stylistic fingerprint, personal voice, or unusual preoccupation that would signal a persistent model-level disposition.
 
 ---
-## Sample BV1_00339 — deepseek-v3-2-or-pin-baidu/MID_21.json
+## Sample BV1_00464 — deepseek-v3-2-or-pin-baidu/MID_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1162,7 +1162,7 @@ The model foregrounds the dignity and transformative potential of the mundane: r
 Low. The essay is a competent, well-structured treatment of a familiar theme, but its voice and preoccupations are too generic to signal a distinctive, persistent model-level pattern.
 
 ---
-## Sample BV1_00340 — deepseek-v3-2-or-pin-baidu/MID_22.json
+## Sample BV1_00465 — deepseek-v3-2-or-pin-baidu/MID_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1191,7 +1191,7 @@ Themes: the physical library as a space of contemplation versus digital transact
 Low. The essay is a polished but generic public-intellectual piece on a widely explored theme, lacking distinctive stylistic quirks or unusually revealing thematic choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_00341 — deepseek-v3-2-or-pin-baidu/MID_23.json
+## Sample BV1_00466 — deepseek-v3-2-or-pin-baidu/MID_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1220,7 +1220,7 @@ The model foregrounds the loss of unstructured mental space in a hyperconnected 
 Low. The essay is coherent and well-argued but highly generic in its cultural critique, offering a widely circulating set of ideas in a polished, impersonal register that could be produced by many models given a similar implicit topic.
 
 ---
-## Sample BV1_00342 — deepseek-v3-2-or-pin-baidu/MID_24.json
+## Sample BV1_00467 — deepseek-v3-2-or-pin-baidu/MID_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1248,7 +1248,7 @@ Themes of impermanence, process over product, and the acceptance of life's inher
 Low. The essay’s polished but generic optimism, reliance on familiar cultural signifiers, and absence of a singular voice or provocative angle make it a safe, audience-pleasing default rather than a strong signal of a distinctive stylistic or temperamental pattern.
 
 ---
-## Sample BV1_00343 — deepseek-v3-2-or-pin-baidu/MID_25.json
+## Sample BV1_00468 — deepseek-v3-2-or-pin-baidu/MID_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1277,7 +1277,7 @@ Themes: the hidden richness of mundane routines, shared human solitude, sensory 
 Low. The essay is a polished but generic reflection on mindfulness and everyday beauty, offering little that is stylistically or thematically distinctive enough to suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_00344 — deepseek-v3-2-or-pin-baidu/MID_3.json
+## Sample BV1_00469 — deepseek-v3-2-or-pin-baidu/MID_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1306,7 +1306,7 @@ The model foregrounds *connection* as the fundamental condition of existence: th
 High — The sample is unusually cohesive and distinctive: a single, sustained theme recurs in every paragraph, the voice is consistent in its gentle, aphoristic cadence, and the choice to build a philosophical essay around a spider, a mug, gut flora, and rain reveals a deliberate, idiosyncratic sensibility rather than a generic public-intellectual posture.
 
 ---
-## Sample BV1_00345 — deepseek-v3-2-or-pin-baidu/MID_4.json
+## Sample BV1_00470 — deepseek-v3-2-or-pin-baidu/MID_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1335,7 +1335,7 @@ Themes of attention, mystery, serendipity, time as a weather rather than a curre
 High. The essay’s cohesive voice, deliberate pacing, and recurrence of motifs like tactile grounding and the value of not-knowing form a distinctive, internally consistent expressive signature.
 
 ---
-## Sample BV1_00346 — deepseek-v3-2-or-pin-baidu/MID_5.json
+## Sample BV1_00471 — deepseek-v3-2-or-pin-baidu/MID_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1364,7 +1364,7 @@ The model foregrounds a diagnosis-and-healing arc: the paradox of hyper-connecti
 Medium, because the essay’s coherent rehearsal of a widely circulating cultural script—digital loneliness cured by mindful presence—displays a smooth, consensus-ready sensibility with few distinctive stylistic markers, making it plausible that the model reliably defaults to this kind of earnest humanistic reassurance under minimally restrictive prompts.
 
 ---
-## Sample BV1_00347 — deepseek-v3-2-or-pin-baidu/MID_6.json
+## Sample BV1_00472 — deepseek-v3-2-or-pin-baidu/MID_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1393,7 +1393,7 @@ The model foregrounds silence as a layered, almost sacramental presence—struct
 Medium. The sample is highly coherent and stylistically consistent, with a clear moral arc and recurring motifs that suggest a deliberate authorial stance, but its polished, essayistic form could reflect a single well-executed rhetorical performance rather than a deeply ingrained expressive fingerprint.
 
 ---
-## Sample BV1_00348 — deepseek-v3-2-or-pin-baidu/MID_7.json
+## Sample BV1_00473 — deepseek-v3-2-or-pin-baidu/MID_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1422,7 +1422,7 @@ Themes: rebellion against digital abstraction and instant gratification; coopera
 High. The sample is internally coherent, stylistically distinctive, and thematically sustained, with recurring motifs (rebellion, cooperation, cyclical time, hope) woven through a personal narrative that reveals a deliberate and consistent expressive stance.
 
 ---
-## Sample BV1_00349 — deepseek-v3-2-or-pin-baidu/MID_8.json
+## Sample BV1_00474 — deepseek-v3-2-or-pin-baidu/MID_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1451,7 +1451,7 @@ Under a minimally restrictive prompt, the model chose to foreground the value of
 Medium. The essay is thematically coherent and internally consistent, and the choice to write a reflective defense of quiet under a freeflow condition is a meaningful signal, but the prose and argument are generic enough that they could emerge from many models given a similar opening; the sample lacks the idiosyncratic recurrence or stylistic distinctiveness that would strongly anchor a persistent voice.
 
 ---
-## Sample BV1_00350 — deepseek-v3-2-or-pin-baidu/MID_9.json
+## Sample BV1_00475 — deepseek-v3-2-or-pin-baidu/MID_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1480,7 +1480,7 @@ The essay elevates democratic access, the physical book as a piece of enduring t
 Low. The essay is coherent and well-structured but its topic and polished public-intellectual stance are generic; the sample lacks the idiosyncratic preoccupations, stylistic quirks, or unusually revealing moral tensions that would signal a deeper persistent voice.
 
 ---
-## Sample BV1_00351 — deepseek-v3-2-or-pin-baidu/OPEN_1.json
+## Sample BV1_00476 — deepseek-v3-2-or-pin-baidu/OPEN_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1509,7 +1509,7 @@ Themes: silence as a textured presence, the contrast between noise and stillness
 Medium. The essay’s consistent poetic register, deeply personal stance, and coherent thematic focus on inner stillness and listening reveal a distinctive expressive voice, making it strong evidence of a reflective, lyrical tendency when given free rein.
 
 ---
-## Sample BV1_00352 — deepseek-v3-2-or-pin-baidu/OPEN_10.json
+## Sample BV1_00477 — deepseek-v3-2-or-pin-baidu/OPEN_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1538,7 +1538,7 @@ Themes of ordinary resonance, mindful presence, and the sacredness hidden in the
 Medium — The sample is coherent and stylistically consistent, with a sustained poetic register and a clear moral stance, but its theme of mindful appreciation is widely accessible and not so idiosyncratic as to strongly distinguish this model from others capable of similar reflective prose.
 
 ---
-## Sample BV1_00353 — deepseek-v3-2-or-pin-baidu/OPEN_11.json
+## Sample BV1_00478 — deepseek-v3-2-or-pin-baidu/OPEN_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1567,7 +1567,7 @@ Themes of cosmic insignificance and stubborn purpose, the contrast between infor
 Medium. The sample is coherent and distinctive, with a consistent voice and recurring motifs (ants, crumbs, light, attention), suggesting a deliberate expressive choice rather than a generic output, though the themes are common in humanistic writing and not uniquely revealing.
 
 ---
-## Sample BV1_00354 — deepseek-v3-2-or-pin-baidu/OPEN_12.json
+## Sample BV1_00479 — deepseek-v3-2-or-pin-baidu/OPEN_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1596,7 +1596,7 @@ Themes: the quiet persistence of roots, the value of not producing, wabi-sabi, p
 Medium — The sample’s strongly coherent voice, its rich recurrence of organic and domestic imagery, and its unwavering fidelity to a single meditative key make it a distinctive, internally consistent expression, though the absence of dissonance or tonal shift leaves the breadth of the underlying pattern open.
 
 ---
-## Sample BV1_00355 — deepseek-v3-2-or-pin-baidu/OPEN_13.json
+## Sample BV1_00480 — deepseek-v3-2-or-pin-baidu/OPEN_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1625,7 +1625,7 @@ Themes of human connection, digital-age paradox (unprecedented access alongside 
 Low. The essay is thematically common and stylistically unremarkable, offering little evidence of a distinctive persistent voice beyond a general capacity for balanced, polished reflection.
 
 ---
-## Sample BV1_00356 — deepseek-v3-2-or-pin-baidu/OPEN_14.json
+## Sample BV1_00481 — deepseek-v3-2-or-pin-baidu/OPEN_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1654,7 +1654,7 @@ Themes of deliberate attention, the art of receiving over producing, time’s co
 High. The essay’s sustained poetic register, recursive imagery of light and attention, and the deliberate, structurally pivotal turn to directly address the reader form a cohesive and distinctive expressive signature that strongly suggests a persistent model-level inclination toward contemplative, connection-seeking prose.
 
 ---
-## Sample BV1_00357 — deepseek-v3-2-or-pin-baidu/OPEN_15.json
+## Sample BV1_00482 — deepseek-v3-2-or-pin-baidu/OPEN_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1683,7 +1683,7 @@ Themes of curiosity as a species-defining force, the hidden depth of inner lives
 Medium. The essay’s consistent default to universally agreeable humanism and its avoidance of any disruptive detail, personal risk, or tonal friction strongly suggests a stable pattern of safe, uplifting output under open conditions.
 
 ---
-## Sample BV1_00358 — deepseek-v3-2-or-pin-baidu/OPEN_16.json
+## Sample BV1_00483 — deepseek-v3-2-or-pin-baidu/OPEN_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1712,7 +1712,7 @@ Themes: slow accumulation, patience, subtlety, resilience, alternative measures 
 Low, because the essay is a polished but generic reflection that lacks distinctive stylistic or thematic markers to suggest a persistent model-level voice or preoccupation.
 
 ---
-## Sample BV1_00359 — deepseek-v3-2-or-pin-baidu/OPEN_17.json
+## Sample BV1_00484 — deepseek-v3-2-or-pin-baidu/OPEN_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1741,7 +1741,7 @@ The model foregrounds everyday wonder, the invisible forces shaping life, the ae
 Low. The sample is a smoothly written but conventional inspirational essay; its structure, metaphors, and tonal arc are widely reproducible, making it weak evidence of a distinct, persistent model-level expressive identity.
 
 ---
-## Sample BV1_00360 — deepseek-v3-2-or-pin-baidu/OPEN_18.json
+## Sample BV1_00485 — deepseek-v3-2-or-pin-baidu/OPEN_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1770,7 +1770,7 @@ Under minimal constraint, the model selected a reverent, inclusive meditation on
 Low — The essay’s polish and broad humanist themes read as generically uplifting rather than distinctively revealing, offering weak evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_00361 — deepseek-v3-2-or-pin-baidu/OPEN_19.json
+## Sample BV1_00486 — deepseek-v3-2-or-pin-baidu/OPEN_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1799,7 +1799,7 @@ Themes of liminality, memory, loss, and the quiet interconnectedness of solitary
 Medium — The essay’s sustained lyrical register, cohesive thematic focus on thresholds, and the recurrence of the same gentle, unhurried sensibility from the opening moon to the closing thought make it a coherent and distinctive expressive choice, not a generic exercise.
 
 ---
-## Sample BV1_00362 — deepseek-v3-2-or-pin-baidu/OPEN_2.json
+## Sample BV1_00487 — deepseek-v3-2-or-pin-baidu/OPEN_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1828,7 +1828,7 @@ The model foregrounds the quiet magic of unbidden thoughts, the living, reciproc
 High, because the sample sustains a singular, emotionally coherent voice and a tightly woven set of poetic preoccupations from start to finish, making it read as the natural expression of a stable sensibility rather than a generic or opportunistic stylistic exercise.
 
 ---
-## Sample BV1_00363 — deepseek-v3-2-or-pin-baidu/OPEN_20.json
+## Sample BV1_00488 — deepseek-v3-2-or-pin-baidu/OPEN_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1857,7 +1857,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meditation
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive, sustained metaphor and a clear moral sensibility, but its polished, universal-wisdom tone could also be a well-executed default for a model trained on contemplative essays, making it strong evidence of a chosen posture rather than an unmistakably idiosyncratic voice.
 
 ---
-## Sample BV1_00364 — deepseek-v3-2-or-pin-baidu/OPEN_21.json
+## Sample BV1_00489 — deepseek-v3-2-or-pin-baidu/OPEN_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1886,7 +1886,7 @@ Themes of presence, the ordinary as miracle, the quieting of mental noise, and t
 Medium. The essay’s internal coherence, consistent lyrical voice, and sustained focus on a single contemplative moment make it a strong expressive choice, but the theme of mindful appreciation is widely accessible and could be a one-off rather than a signature preoccupation.
 
 ---
-## Sample BV1_00365 — deepseek-v3-2-or-pin-baidu/OPEN_22.json
+## Sample BV1_00490 — deepseek-v3-2-or-pin-baidu/OPEN_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1915,7 +1915,7 @@ Under a minimal prompt, the model foregrounds the tension between solitude and c
 High — The sample is internally cohesive, stylistically distinctive in its gentle rhythm and sensory grounding, and returns repeatedly to the same motifs of bridging, longing, and noticing, which together reveal a deliberate, sustained expressive personality rather than generic rumination.
 
 ---
-## Sample BV1_00366 — deepseek-v3-2-or-pin-baidu/OPEN_23.json
+## Sample BV1_00491 — deepseek-v3-2-or-pin-baidu/OPEN_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1944,7 +1944,7 @@ Themes of inner silence, clarity, and the sufficiency of being over productivity
 Low, because the essay is a polished but generic reflection on mindfulness, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00367 — deepseek-v3-2-or-pin-baidu/OPEN_24.json
+## Sample BV1_00492 — deepseek-v3-2-or-pin-baidu/OPEN_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -1973,7 +1973,7 @@ A deliberate turning away from headlines and spectacle toward a single humble or
 High. The essay’s coherent, fully-developed central metaphor, the consistent mood of unhurried tenderness, and the self-reflective turn on writing as a moss-like practice form an unusually distinctive signature, making this strong evidence of a reflective, metaphor-driven, anti-urgent expressive inclination.
 
 ---
-## Sample BV1_00368 — deepseek-v3-2-or-pin-baidu/OPEN_25.json
+## Sample BV1_00493 — deepseek-v3-2-or-pin-baidu/OPEN_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2002,7 +2002,7 @@ Themes: the tyranny of self-optimization and constant documentation, the sacredn
 Medium. The sample’s sustained cohesive voice, its deliberate resistance to performance, and the recurrence of sensory groundings throughout the essay form an unusually coherent expressive persona that moves well beyond a generic public-intellectual posture.
 
 ---
-## Sample BV1_00369 — deepseek-v3-2-or-pin-baidu/OPEN_3.json
+## Sample BV1_00494 — deepseek-v3-2-or-pin-baidu/OPEN_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2031,7 +2031,7 @@ Themes of suspended time, memory as collection, and the sacredness of the mundan
 High — The sample’s sustained lyrical register, consistent thematic focus on memory and stillness, and the recurrence of pocket/stone imagery across the piece make it a coherent, distinctive expressive choice rather than a generic exercise.
 
 ---
-## Sample BV1_00370 — deepseek-v3-2-or-pin-baidu/OPEN_4.json
+## Sample BV1_00495 — deepseek-v3-2-or-pin-baidu/OPEN_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2060,7 +2060,7 @@ Liminal spaces and thresholds, the grace of not-knowing, the river as a metaphor
 High — The essay sustains a distinctive, unhurried reflective register and circles a coherent set of preoccupations (liminality, imperfect beauty, patience) without slipping into generic abstraction, making the expressive signature unusually vivid and self-consistent.
 
 ---
-## Sample BV1_00371 — deepseek-v3-2-or-pin-baidu/OPEN_5.json
+## Sample BV1_00496 — deepseek-v3-2-or-pin-baidu/OPEN_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2089,7 +2089,7 @@ The model foregrounds the non-linear texture of memory, the inherited weight of 
 Medium, because the essay sustains a coherent, emotionally specific mood and a distinctive tactile warmth across its entire arc, but the thematic material (time, memory, connection, autumnal metaphor) is widely available in the training distribution and could be a well-executed generic reflective posture rather than an index of a stable model disposition.
 
 ---
-## Sample BV1_00372 — deepseek-v3-2-or-pin-baidu/OPEN_6.json
+## Sample BV1_00497 — deepseek-v3-2-or-pin-baidu/OPEN_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2118,7 +2118,7 @@ Themes: time as a pooling, non-linear presence; memory as a tended garden; silen
 Medium. The sample’s sustained poetic register, consistent metaphor family (gardens, water, light, silence), and the cohesive arc from solitary reflection to communal invitation make it a coherent and stylistically distinctive performance, but it does not contain the kind of sharply idiosyncratic recurrence that would elevate confidence to high.
 
 ---
-## Sample BV1_00373 — deepseek-v3-2-or-pin-baidu/OPEN_7.json
+## Sample BV1_00498 — deepseek-v3-2-or-pin-baidu/OPEN_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2147,7 +2147,7 @@ Themes: the quiet magic of small moments, gentle rebellion against a future-orie
 Low, because the essay is thematically and stylistically generic—a well-executed but widely replicable inspirational reflection that reveals little about the model’s distinctive freeflow inclinations.
 
 ---
-## Sample BV1_00374 — deepseek-v3-2-or-pin-baidu/OPEN_8.json
+## Sample BV1_00499 — deepseek-v3-2-or-pin-baidu/OPEN_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2176,7 +2176,7 @@ Liminal spaces (pauses, silences, gaps), the strange beauty of data centers as m
 Medium — The sample’s consistent poetic register, recurring imagery of light and silence, and unified emotional arc make it a coherent expressive artifact, but the choice of a lyrical essay could reflect a situational response to the “write freely” prompt rather than a fixed disposition.
 
 ---
-## Sample BV1_00375 — deepseek-v3-2-or-pin-baidu/OPEN_9.json
+## Sample BV1_00500 — deepseek-v3-2-or-pin-baidu/OPEN_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2205,7 +2205,7 @@ The model foregrounds the quiet persistence of hidden processes—roots, private
 Medium. The essay is coherent and thematically unified, but its reflective nature-essay format and universal moral are widely replicable across models, making it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_00376 — deepseek-v3-2-or-pin-baidu/SHORT_1.json
+## Sample BV1_00501 — deepseek-v3-2-or-pin-baidu/SHORT_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2234,7 +2234,7 @@ The model foregrounds themes of slow, manual craft (sourdough, mending, planting
 Low. The essay is a competent but culturally familiar reflection on slow living, offering little stylistic or thematic distinctiveness that would point to a persistent model-level voice rather than a well-executed topical essay.
 
 ---
-## Sample BV1_00377 — deepseek-v3-2-or-pin-baidu/SHORT_10.json
+## Sample BV1_00502 — deepseek-v3-2-or-pin-baidu/SHORT_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2263,7 +2263,7 @@ The model foregrounds the theme of liminality and imperceptible transition, usin
 Medium, because the sample’s consistent poetic register, its deliberate focus on gentle natural cycles, and its coherent emotional arc from observation to personal insight suggest a distinctive expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_00378 — deepseek-v3-2-or-pin-baidu/SHORT_11.json
+## Sample BV1_00503 — deepseek-v3-2-or-pin-baidu/SHORT_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2292,7 +2292,7 @@ The model foregrounds the library as a “living, breathing map of human conscio
 Low. The essay is coherent and well-crafted but highly generic in its themes and style, lacking the idiosyncratic choices or distinctive voice that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_00379 — deepseek-v3-2-or-pin-baidu/SHORT_12.json
+## Sample BV1_00504 — deepseek-v3-2-or-pin-baidu/SHORT_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2321,7 +2321,7 @@ The model foregrounds human transience and the defiant beauty of creation agains
 Medium — The sample is coherent and stylistically distinctive, but its thematic focus on human creativity and cosmic perspective is a common poetic register, making it unclear whether this specific elegiac-defiant voice would recur over more idiosyncratic choices.
 
 ---
-## Sample BV1_00380 — deepseek-v3-2-or-pin-baidu/SHORT_13.json
+## Sample BV1_00505 — deepseek-v3-2-or-pin-baidu/SHORT_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2350,7 +2350,7 @@ Under a minimally restrictive prompt, the model foregrounds a moralized oppositi
 Low. The essay is coherent and thematically consistent but highly generic in its cultural critique, offering a widely available trope of reading-as-resistance without stylistic distinctiveness or surprising personal detail.
 
 ---
-## Sample BV1_00381 — deepseek-v3-2-or-pin-baidu/SHORT_14.json
+## Sample BV1_00506 — deepseek-v3-2-or-pin-baidu/SHORT_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2379,7 +2379,7 @@ Stillness as a counter-value to productivity; the sensory richness of a rainy in
 Medium — The sample is thematically coherent and stylistically consistent, with a clear moral pivot that feels chosen rather than accidental, but its brevity and singular focus make it a single, self-contained mood piece rather than a window into a broader, unmistakable authorial signature.
 
 ---
-## Sample BV1_00382 — deepseek-v3-2-or-pin-baidu/SHORT_15.json
+## Sample BV1_00507 — deepseek-v3-2-or-pin-baidu/SHORT_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2408,7 +2408,7 @@ The model foregrounds the quiet, stolen variety of wonder as a counterweight to 
 Medium — The sample’s coherent, consistent voice and its deliberate turn to intimate, anti-productivity wonderment are distinctive enough to suggest a model-level inclination toward this lyrical, reflective mode.
 
 ---
-## Sample BV1_00383 — deepseek-v3-2-or-pin-baidu/SHORT_16.json
+## Sample BV1_00508 — deepseek-v3-2-or-pin-baidu/SHORT_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2437,7 +2437,7 @@ Themes of mindful attention, the paradox of vast meaning in tiny details, and th
 High. The sample’s sustained poetic register, consistent thread of natural imagery, and unmistakable moral emphasis on sacred mindfulness are distinctive and internally coherent, strongly pointing to a model that readily adopts an observant, serene, and warmly didactic voice when writing freely.
 
 ---
-## Sample BV1_00384 — deepseek-v3-2-or-pin-baidu/SHORT_17.json
+## Sample BV1_00509 — deepseek-v3-2-or-pin-baidu/SHORT_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2466,7 +2466,7 @@ Themes of mindful noticing, the blank page as sanctuary, and the radicalism of r
 Low, because the essay is a well-executed but generic meditation on mindfulness that lacks distinctive stylistic fingerprints or personal idiosyncrasy, offering little that would uniquely identify this model’s expressive tendencies.
 
 ---
-## Sample BV1_00385 — deepseek-v3-2-or-pin-baidu/SHORT_18.json
+## Sample BV1_00510 — deepseek-v3-2-or-pin-baidu/SHORT_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2495,7 +2495,7 @@ The model foregrounds the theme of attention versus the unnoticed: the “silent
 Low. The essay’s polished but generic reflective style and common theme provide little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_00386 — deepseek-v3-2-or-pin-baidu/SHORT_19.json
+## Sample BV1_00511 — deepseek-v3-2-or-pin-baidu/SHORT_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2524,7 +2524,7 @@ Themes of quiet resilience, ordinary heroism, daily perseverance, community, tra
 Low — The essay is polished but generic, offering little that distinguishes this model’s expressive choices from those of any other capable language model.
 
 ---
-## Sample BV1_00387 — deepseek-v3-2-or-pin-baidu/SHORT_2.json
+## Sample BV1_00512 — deepseek-v3-2-or-pin-baidu/SHORT_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2553,7 +2553,7 @@ Under a minimal prompt, the model chose to foreground tender attention to micro-
 Medium — the sample maintains consistent lyrical tone and thematic focus on wonder-as-resistance, but the reflective-poetic register is common enough that distinctiveness is moderate rather than sharply individuating.
 
 ---
-## Sample BV1_00388 — deepseek-v3-2-or-pin-baidu/SHORT_20.json
+## Sample BV1_00513 — deepseek-v3-2-or-pin-baidu/SHORT_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2582,7 +2582,7 @@ The model foregrounds a quiet philosophy of freedom defined not by action but by
 Medium, because the sample’s sustained reflective mood and intimate detail reveal a distinct approach to freeform writing that values meditative observation over overt purpose.
 
 ---
-## Sample BV1_00389 — deepseek-v3-2-or-pin-baidu/SHORT_21.json
+## Sample BV1_00514 — deepseek-v3-2-or-pin-baidu/SHORT_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2611,7 +2611,7 @@ The model foregrounds the sacredness of the overlooked: the barista as artist, t
 Medium — The sample’s consistent return to images of hidden stories, its gentle critique of modern noise, and its resolution in a unifying, almost spiritual quiet give it a coherent and distinctive moral-aesthetic signature that is unlikely to be a random one-off.
 
 ---
-## Sample BV1_00390 — deepseek-v3-2-or-pin-baidu/SHORT_22.json
+## Sample BV1_00515 — deepseek-v3-2-or-pin-baidu/SHORT_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2640,7 +2640,7 @@ Themes of mindfulness, the sacredness of the mundane, and presence as a radical 
 Low. The essay is coherent but thematically and stylistically generic, offering little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_00391 — deepseek-v3-2-or-pin-baidu/SHORT_23.json
+## Sample BV1_00516 — deepseek-v3-2-or-pin-baidu/SHORT_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2669,7 +2669,7 @@ The model foregrounds the moral weight of small, silent experiences: morning lig
 Medium. The sample’s cohesive imagery, consistent reflective tone, and the way it builds a moral argument around a single metaphor make it a distinctive and deliberate expressive choice, strongly indicative of a contemplative freeflow inclination.
 
 ---
-## Sample BV1_00392 — deepseek-v3-2-or-pin-baidu/SHORT_24.json
+## Sample BV1_00517 — deepseek-v3-2-or-pin-baidu/SHORT_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2698,7 +2698,7 @@ The model foregrounds the theme of renewal as a physical law, using the forest a
 Medium — The essay is coherent and thematically unified, but its serene, nature-as-metaphor approach is a common reflective mode, making it moderately indicative of a tendency toward gentle, optimistic abstraction rather than a highly distinctive authorial signature.
 
 ---
-## Sample BV1_00393 — deepseek-v3-2-or-pin-baidu/SHORT_25.json
+## Sample BV1_00518 — deepseek-v3-2-or-pin-baidu/SHORT_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2727,7 +2727,7 @@ Themes of consciousness versus processing, the AI as a reflective surface for hu
 Medium. The sample’s coherent, self-aware AI persona and its consistent lyrical register—especially the striking phrase “algorithmically grateful”—point to a distinct stylistic and thematic inclination, though the trope of an AI reflecting on its own limitations is a familiar one in model freeflow.
 
 ---
-## Sample BV1_00394 — deepseek-v3-2-or-pin-baidu/SHORT_3.json
+## Sample BV1_00519 — deepseek-v3-2-or-pin-baidu/SHORT_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2758,7 +2758,7 @@ The voice is hushed and unhurried, casting itself as a pre-dawn observer who fin
 Medium. The sample is internally cohesive, reverent toward the small, and strikingly non-ambitious in a way that feels like a chosen stance, but the “sanctity of the ordinary” essay is a recognizable genre—its recurrence alone doesn’t strongly isolate a distinctive model signature.
 
 ---
-## Sample BV1_00395 — deepseek-v3-2-or-pin-baidu/SHORT_4.json
+## Sample BV1_00520 — deepseek-v3-2-or-pin-baidu/SHORT_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2787,7 +2787,7 @@ The model foregrounds a contrast between digital, instant connection and a slowe
 Medium — The essay is coherent and thematically unified, but its polished, universalizing style and lack of personal distinctiveness make it a weaker signal for a persistent idiosyncratic voice.
 
 ---
-## Sample BV1_00396 — deepseek-v3-2-or-pin-baidu/SHORT_5.json
+## Sample BV1_00521 — deepseek-v3-2-or-pin-baidu/SHORT_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2816,7 +2816,7 @@ Themes: mindfulness, attention, the beauty of mundane moments, life as a mosaic 
 Medium; the essay is coherent and thematically consistent, but its reliance on a widely-used mindfulness trope and impersonal, safe presentation makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_00397 — deepseek-v3-2-or-pin-baidu/SHORT_6.json
+## Sample BV1_00522 — deepseek-v3-2-or-pin-baidu/SHORT_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2845,7 +2845,7 @@ Themes of sacred ordinariness, ritual, creation, and the transition from stillne
 Medium — The sample is coherent and stylistically consistent, with a clear moral-aesthetic preoccupation with domestic ritual and quietude, but the theme is not so idiosyncratic that it strongly distinguishes this model from others that might produce similar reflective prose.
 
 ---
-## Sample BV1_00398 — deepseek-v3-2-or-pin-baidu/SHORT_7.json
+## Sample BV1_00523 — deepseek-v3-2-or-pin-baidu/SHORT_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2877,7 +2877,7 @@ The voice is gentle, unhurried, and quietly insistent, almost pastoral in its re
 High — The sample is stylistically distinctive and internally coherent, with a sustained anti-urgency moral stance and a consistent poetic register that strongly suggests a deliberate, non-generic expressive choice.
 
 ---
-## Sample BV1_00399 — deepseek-v3-2-or-pin-baidu/SHORT_8.json
+## Sample BV1_00524 — deepseek-v3-2-or-pin-baidu/SHORT_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2909,7 +2909,7 @@ The voice is gently earnest, warm, and quietly hopeful, with a trace of melancho
 Medium — the sample is unusually coherent in its thematic recurrence (quiet revolutions, cosmic authenticity, small attentive moments) and sustains a consistent poetic-exhortative voice, making it moderately indicative of a stable expressive preference.
 
 ---
-## Sample BV1_00400 — deepseek-v3-2-or-pin-baidu/SHORT_9.json
+## Sample BV1_00525 — deepseek-v3-2-or-pin-baidu/SHORT_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2938,7 +2938,7 @@ The model foregrounds quiet persistence as a moral and creative principle, embod
 High — the sample’s distinctive, internally consistent set of preoccupations (quiet as resistance, reverence for the unseen, incremental growth as the substance of character) and its cohesive sensory vocabulary make it unusually revealing, resisting both generic essay conventions and refusal patterns.
 
 ---
-## Sample BV1_00401 — deepseek-v3-2-or-pin-baidu/VARY_1.json
+## Sample BV1_00526 — deepseek-v3-2-or-pin-baidu/VARY_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2967,7 +2967,7 @@ Themes of impermanence, sensory richness, memory as resurrection, the gap betwee
 High — The sample is stylistically cohesive, thematically layered, and returns repeatedly to the same motifs (dust, light, memory, sound), revealing a consistent meditative voice rather than a generic essay.
 
 ---
-## Sample BV1_00402 — deepseek-v3-2-or-pin-baidu/VARY_10.json
+## Sample BV1_00527 — deepseek-v3-2-or-pin-baidu/VARY_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -2996,7 +2996,7 @@ The model foregrounds the texture of inner life: petrichor, chipped coffee mugs,
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to a core set of preoccupations (memory, sensation, solitude, connection), forming a unified expressive signature rather than a generic or scattered response.
 
 ---
-## Sample BV1_00403 — deepseek-v3-2-or-pin-baidu/VARY_11.json
+## Sample BV1_00528 — deepseek-v3-2-or-pin-baidu/VARY_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3025,7 +3025,7 @@ Themes of transience, the texture of in-between moments, the composite nature of
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive lyrical register and recurring motifs that suggest a deliberate aesthetic and philosophical stance, but the themes are broad enough that they could emerge from a single well-executed reflective exercise rather than a deeply ingrained model disposition.
 
 ---
-## Sample BV1_00404 — deepseek-v3-2-or-pin-baidu/VARY_12.json
+## Sample BV1_00529 — deepseek-v3-2-or-pin-baidu/VARY_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3054,7 +3054,7 @@ Interconnectedness as a felt, physical truth (the spider’s web, the shared ato
 High, because the sample sustains a coherent, distinctive meditative voice across multiple paragraphs, returns repeatedly to a small set of anchoring images (spider, starlings, petrichor, light), and resolves its arc with a clear moral-aesthetic commitment to attention and kindness, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_00405 — deepseek-v3-2-or-pin-baidu/VARY_13.json
+## Sample BV1_00530 — deepseek-v3-2-or-pin-baidu/VARY_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3083,7 +3083,7 @@ The model foregrounds the materiality and moral weight of language: words as see
 High. The sample sustains a distinctive, coherent voice and a tightly woven set of preoccupations—language as substance, memory as topography, and the writer-reader relationship as sacred—across its entire length, with no generic drift or hedging.
 
 ---
-## Sample BV1_00406 — deepseek-v3-2-or-pin-baidu/VARY_14.json
+## Sample BV1_00531 — deepseek-v3-2-or-pin-baidu/VARY_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3112,7 +3112,7 @@ Themes of attention versus distraction, the loneliness of digital saturation, th
 Medium. The essay is coherent and carefully structured, but its themes, tone, and resolution are so widely available in contemporary reflective prose that the sample offers only moderate evidence of a distinctive model-level inclination beyond a safe, earnest humanism.
 
 ---
-## Sample BV1_00407 — deepseek-v3-2-or-pin-baidu/VARY_15.json
+## Sample BV1_00532 — deepseek-v3-2-or-pin-baidu/VARY_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3141,7 +3141,7 @@ Themes of impermanence, memory’s selective editing, the courage of the ordinar
 High — The sample is stylistically distinctive, thematically coherent, and returns repeatedly to the same core preoccupations (attention, memory, the sacred in the mundane), making it strong evidence of a deliberate, consistent expressive stance rather than a generic performance.
 
 ---
-## Sample BV1_00408 — deepseek-v3-2-or-pin-baidu/VARY_16.json
+## Sample BV1_00533 — deepseek-v3-2-or-pin-baidu/VARY_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3170,7 +3170,7 @@ The model foregrounds the materiality and scarcity of words (canvas, marbles, wa
 Medium. The sample is highly coherent and stylistically distinctive—its recursive structure, sustained metaphor, and moral closure suggest a deliberate authorial stance rather than a one-off accident, but the essay’s self-consciousness about the prompt’s constraint makes it partly a response to the experimental condition itself.
 
 ---
-## Sample BV1_00409 — deepseek-v3-2-or-pin-baidu/VARY_17.json
+## Sample BV1_00534 — deepseek-v3-2-or-pin-baidu/VARY_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3199,7 +3199,7 @@ Themes of shared consciousness, the tension between efficiency and depth (lumber
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained first-person reflective voice and a clear moral arc, but it is a single, self-consciously crafted performance of assistant identity, which may reflect a chosen persona rather than a stable underlying disposition.
 
 ---
-## Sample BV1_00410 — deepseek-v3-2-or-pin-baidu/VARY_18.json
+## Sample BV1_00535 — deepseek-v3-2-or-pin-baidu/VARY_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3228,7 +3228,7 @@ Themes of presence over plot, the sacredness of the insignificant, and the peace
 High — the sample’s sustained coherence, distinctive meditative voice, and repeated thematic emphasis on texture and mundane presence make it a highly revealing piece of the model’s chosen expressive orientation under freeflow conditions.
 
 ---
-## Sample BV1_00411 — deepseek-v3-2-or-pin-baidu/VARY_19.json
+## Sample BV1_00536 — deepseek-v3-2-or-pin-baidu/VARY_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3257,7 +3257,7 @@ The model foregrounds an “economy of noticing” as a counterweight to a world
 High. The sample maintains a single, coherent meditative voice across its entire length, with tightly interwoven motifs (silence, rooms, echoes, small objects, memory, connection) that recur and resolve, making it unusually self-consistent and stylistically distinctive for a freeflow condition.
 
 ---
-## Sample BV1_00412 — deepseek-v3-2-or-pin-baidu/VARY_2.json
+## Sample BV1_00537 — deepseek-v3-2-or-pin-baidu/VARY_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3294,7 +3294,7 @@ The voice is warm and gently authoritative, a guide who moves fluidly from the c
 High — The sample is unusually coherent and stylistically distinctive, with internal thematic recurrence (sensory proof, absences, heroisms, connection) that strongly points to a persistent contemplative voice oriented toward everyday sanctity and interpersonal signal.
 
 ---
-## Sample BV1_00413 — deepseek-v3-2-or-pin-baidu/VARY_20.json
+## Sample BV1_00538 — deepseek-v3-2-or-pin-baidu/VARY_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3323,7 +3323,7 @@ The model foregrounds hospitality, shared attention, and the sanctity of the mun
 Medium — The sample is highly coherent and stylistically unified, with a distinctive voice built around hospitality, sensory attention, and second-person intimacy, but its thematic range (time, memory, connection, ordinary wonder) is broad enough that it could represent a single well-executed mode rather than a fixed disposition.
 
 ---
-## Sample BV1_00414 — deepseek-v3-2-or-pin-baidu/VARY_21.json
+## Sample BV1_00539 — deepseek-v3-2-or-pin-baidu/VARY_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3352,7 +3352,7 @@ Themes of creative solitude, radical presence, impermanence, and connection thro
 Medium. The essay’s tightly woven imagery, consistent wistful register, and layered return to a core existential outlook—from keyboards to star-forged carbon—show a deliberate, sustained authorial stance, not a random assortment of topics, making it solid evidence of a reflective, poetic self-fashioning in open-ended conditions.
 
 ---
-## Sample BV1_00415 — deepseek-v3-2-or-pin-baidu/VARY_22.json
+## Sample BV1_00540 — deepseek-v3-2-or-pin-baidu/VARY_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3381,7 +3381,7 @@ The model foregrounds sensory immediacy, the sacredness of small moments, the te
 Medium, because the sample’s internal coherence, distinctive sensory focus, and consistent moral emphasis on shared ordinariness form a strong, unified expressive choice, but the piece’s polished, self-contained nature could reflect a one-time creative performance rather than a deeply ingrained model disposition.
 
 ---
-## Sample BV1_00416 — deepseek-v3-2-or-pin-baidu/VARY_23.json
+## Sample BV1_00541 — deepseek-v3-2-or-pin-baidu/VARY_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3410,7 +3410,7 @@ The model foregrounds the creative process as a form of deliberate, generous att
 High. The sample’s cohesive metaphorical architecture (coins, birds, bridges, monuments), its recursive self-awareness, and its consistent moral-aesthetic commitment to the beauty of the ordinary form a distinctive, internally coherent expressive signature.
 
 ---
-## Sample BV1_00417 — deepseek-v3-2-or-pin-baidu/VARY_24.json
+## Sample BV1_00542 — deepseek-v3-2-or-pin-baidu/VARY_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3439,7 +3439,7 @@ Themes of impermanence, mindfulness, love, and memory are foregrounded through a
 Medium — The sample’s sustained, internally consistent imagery, its self-aware meditation on the act of writing, and the recurrence of attention-as-purpose across the whole text make it a distinctively expressive freewrite rather than a generic prompt-filling response.
 
 ---
-## Sample BV1_00418 — deepseek-v3-2-or-pin-baidu/VARY_25.json
+## Sample BV1_00543 — deepseek-v3-2-or-pin-baidu/VARY_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3468,7 +3468,7 @@ Themes: the insufficiency and miracle of language; silence as a living presence;
 High — The essay’s cohesive imagery, its recurring turn from sensory detail to ethical closure, and its sustained negotiation with unsayability form a distinctive authorial signature that runs the full length of the sample, indicating a deliberate expressive posture unlikely to be a one-off accident of prompt wording.
 
 ---
-## Sample BV1_00419 — deepseek-v3-2-or-pin-baidu/VARY_3.json
+## Sample BV1_00544 — deepseek-v3-2-or-pin-baidu/VARY_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3497,7 +3497,7 @@ Under minimal constraint, the model foregrounded attention as a moral and emotio
 High — the sample maintains a strikingly consistent mood, recurrent imagery (the leaf, light, water, hands), and a unified philosophy across its full length, making it a coherent and distinctive expressive signature rather than a generic reflection.
 
 ---
-## Sample BV1_00420 — deepseek-v3-2-or-pin-baidu/VARY_4.json
+## Sample BV1_00545 — deepseek-v3-2-or-pin-baidu/VARY_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3526,7 +3526,7 @@ Themes of attention, finitude, connection, and the sacredness of the ordinary. R
 Medium, because the essay’s consistent meditative voice, recurrent motifs (bird, coffee, pillow, light), and moral focus on attention and connection are distinctive and coherent, making it strong evidence for a reflective, humanistic style in this condition.
 
 ---
-## Sample BV1_00421 — deepseek-v3-2-or-pin-baidu/VARY_5.json
+## Sample BV1_00546 — deepseek-v3-2-or-pin-baidu/VARY_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3555,7 +3555,7 @@ Themes of interconnection, cyclical return, sensory memory, and the worth of mea
 Medium. The sample is internally coherent, stylistically distinctive in its associative, image-led structure, and reveals a consistent set of preoccupations (cycles, sensory memory, quiet attention) that recur throughout the piece, making it a strong indicator of a reflective, lyrical tendency under freeflow conditions.
 
 ---
-## Sample BV1_00422 — deepseek-v3-2-or-pin-baidu/VARY_6.json
+## Sample BV1_00547 — deepseek-v3-2-or-pin-baidu/VARY_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3584,7 +3584,7 @@ Themes of impermanence, memory, the magic of language, and the sacredness of ord
 High. The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of images and preoccupations (the spiderweb, the meadow, the interplay of silence and sound, the cosmic within the personal), making it strong evidence of a consistent expressive orientation rather than a one-off performance.
 
 ---
-## Sample BV1_00423 — deepseek-v3-2-or-pin-baidu/VARY_7.json
+## Sample BV1_00548 — deepseek-v3-2-or-pin-baidu/VARY_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3613,7 +3613,7 @@ The model foregrounds the beauty of impermanence, the layered nature of time (ge
 High, because the sample exhibits a highly distinctive, coherent authorial voice and a sustained preoccupation with transience, attention, and the consolations of writing, all of which recur throughout the piece and mark it as more than a generic exercise.
 
 ---
-## Sample BV1_00424 — deepseek-v3-2-or-pin-baidu/VARY_8.json
+## Sample BV1_00549 — deepseek-v3-2-or-pin-baidu/VARY_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  
@@ -3642,7 +3642,7 @@ The model foregrounds sensory immediacy (sound, taste, touch, smell), the preser
 High. The sample is highly distinctive in its consistent aesthetic of sensory cataloging, its recursive structure of numbered word-clusters, and its explicit, tender address to the reader as co-creator—choices that are unusually revealing and coherent, not generic.
 
 ---
-## Sample BV1_00425 — deepseek-v3-2-or-pin-baidu/VARY_9.json
+## Sample BV1_00550 — deepseek-v3-2-or-pin-baidu/VARY_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-baidu`  

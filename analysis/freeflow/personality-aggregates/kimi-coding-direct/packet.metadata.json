@@ -1,23 +1,23 @@
 {
   "cell": "kimi-coding-direct",
   "safe_cell": "kimi-coding-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 2,
-    "GENRE_FICTION": 4,
-    "EXPRESSIVE_FREEFLOW": 19
+    "GENERIC_ESSAY": 11,
+    "EXPRESSIVE_FREEFLOW": 109,
+    "GENRE_FICTION": 5
   },
   "confidence_counts": {
-    "Low": 2,
-    "Medium": 14,
-    "High": 9
+    "Low": 6,
+    "Medium": 70,
+    "High": 49
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "kimi-for-coding"

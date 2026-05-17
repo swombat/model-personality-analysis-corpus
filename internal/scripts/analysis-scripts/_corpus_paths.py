@@ -16,7 +16,7 @@ import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
-V2_CORPUS = Path(os.environ.get("MODEL_PERSONALITY_V2_CORPUS", ROOT.parent / "contemplative-essayist-corpus-v2"))
+V2_CORPUS = Path(os.environ.get("MODEL_PERSONALITY_V2_CORPUS", ROOT.parent / "model-personality-corpus-v2"))
 V1_CORPUS = Path(os.environ.get("MODEL_PERSONALITY_V1_CORPUS", ROOT.parent / "codex-check" / "model-personality-probe"))
 
 # v2 corpus (canonical) — companion v2 bundle, Zenodo DOI 10.5281/zenodo.20013518

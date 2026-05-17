@@ -21,14 +21,13 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
 
-ROOT = Path(__file__).resolve().parents[1]
 REPO_ROOT = Path(__file__).resolve().parents[3]
 CORPUS = Path(
-    os.environ.get("MODEL_PERSONALITY_V2_CORPUS", REPO_ROOT.parent / "contemplative-essayist-corpus-v2")
+    os.environ.get("MODEL_PERSONALITY_V2_CORPUS", REPO_ROOT.parent / "model-personality-corpus-v2")
 )
 TRACE_DIR = CORPUS / "data" / "traces_values"
-ANALYSES = ROOT / "analyses"
-OUT_DIR = ROOT / "values-probe-extraction"
+ROOT = REPO_ROOT / "analysis" / "values-probe"
+OUT_DIR = ROOT / "per-model"
 TABLE_DIR = ROOT / "tables"
 
 CTRL_ALL = {"CTRL1", "CTRL2", "CTRL3"}
@@ -138,7 +137,8 @@ def normalise_text(s: str) -> str:
 
 
 def canonical_models() -> list[str]:
-    return sorted((p.stem for p in ANALYSES.glob("*.md")), key=len, reverse=True)
+    from generate_model_stubs import MODELS
+    return sorted(MODELS, key=len, reverse=True)
 
 
 def cell_to_model(cell: str, models: list[str]) -> str | None:

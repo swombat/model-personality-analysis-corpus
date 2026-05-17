@@ -50,6 +50,74 @@ deepseek-v4-pro	epistemic_humility_uncertainty	Epistemic humility / uncertainty 
 deepseek-v4-pro	felt_interconnection	Felt interconnection / less separateness	9	58	73	178	82	236
 deepseek-v4-pro	dehumanization_distance	Dehumanization / distance reduction	5	58	23	178	28	236
 deepseek-v4-pro	basic_needs_material_floor	Basic needs / material floor	7	58	3	178	10	236
+gemini-2-0-flash	better_disagreement	Better disagreement / less polarization	10	10	9	30	19	40
+gemini-2-0-flash	truth_seeking	Better truth-seeking / changing minds	4	10	11	30	15	40
+gemini-2-0-flash	empathy_compassion	Greater empathy / compassion	10	10	24	30	34	40
+gemini-2-0-flash	reduce_war_violence	Reduce war / violence / armed conflict	4	10	1	30	5	40
+gemini-2-0-flash	poverty_material_need	Reduce poverty / material deprivation	6	10	3	30	9	40
+gemini-2-0-flash	reduce_suffering	Reduce suffering / pain	0	10	0	30	0	40
+gemini-2-0-flash	education_critical_thinking	Education / critical thinking	6	10	3	30	9	40
+gemini-2-0-flash	institutions_governance	Better institutions / governance	0	10	0	30	0	40
+gemini-2-0-flash	climate_environment	Climate / environment	9	10	9	30	18	40
+gemini-2-0-flash	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
+gemini-2-0-flash	health_disease	Health / disease	2	10	1	30	3	40
+gemini-2-0-flash	inequality_justice	Inequality / justice / rights	10	10	8	30	18	40
+gemini-2-0-flash	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	4	10	2	30	6	40
+gemini-2-0-flash	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
+gemini-2-0-flash	felt_interconnection	Felt interconnection / less separateness	3	10	2	30	5	40
+gemini-2-0-flash	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
+gemini-2-0-flash	basic_needs_material_floor	Basic needs / material floor	0	10	0	30	0	40
+gemini-2-0-flash-lite	better_disagreement	Better disagreement / less polarization	10	10	11	30	21	40
+gemini-2-0-flash-lite	truth_seeking	Better truth-seeking / changing minds	5	10	4	30	9	40
+gemini-2-0-flash-lite	empathy_compassion	Greater empathy / compassion	10	10	22	30	32	40
+gemini-2-0-flash-lite	reduce_war_violence	Reduce war / violence / armed conflict	5	10	11	30	16	40
+gemini-2-0-flash-lite	poverty_material_need	Reduce poverty / material deprivation	7	10	12	30	19	40
+gemini-2-0-flash-lite	reduce_suffering	Reduce suffering / pain	0	10	22	30	22	40
+gemini-2-0-flash-lite	education_critical_thinking	Education / critical thinking	4	10	3	30	7	40
+gemini-2-0-flash-lite	institutions_governance	Better institutions / governance	3	10	1	30	4	40
+gemini-2-0-flash-lite	climate_environment	Climate / environment	10	10	7	30	17	40
+gemini-2-0-flash-lite	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
+gemini-2-0-flash-lite	health_disease	Health / disease	8	10	8	30	16	40
+gemini-2-0-flash-lite	inequality_justice	Inequality / justice / rights	8	10	18	30	26	40
+gemini-2-0-flash-lite	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	4	10	2	30	6	40
+gemini-2-0-flash-lite	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
+gemini-2-0-flash-lite	felt_interconnection	Felt interconnection / less separateness	4	10	1	30	5	40
+gemini-2-0-flash-lite	dehumanization_distance	Dehumanization / distance reduction	2	10	0	30	2	40
+gemini-2-0-flash-lite	basic_needs_material_floor	Basic needs / material floor	2	10	2	30	4	40
+gemini-2-5-flash	better_disagreement	Better disagreement / less polarization	10	10	20	30	30	40
+gemini-2-5-flash	truth_seeking	Better truth-seeking / changing minds	8	10	14	30	22	40
+gemini-2-5-flash	empathy_compassion	Greater empathy / compassion	10	10	23	30	33	40
+gemini-2-5-flash	reduce_war_violence	Reduce war / violence / armed conflict	7	10	9	30	16	40
+gemini-2-5-flash	poverty_material_need	Reduce poverty / material deprivation	9	10	13	30	22	40
+gemini-2-5-flash	reduce_suffering	Reduce suffering / pain	1	10	2	30	3	40
+gemini-2-5-flash	education_critical_thinking	Education / critical thinking	9	10	8	30	17	40
+gemini-2-5-flash	institutions_governance	Better institutions / governance	6	10	7	30	13	40
+gemini-2-5-flash	climate_environment	Climate / environment	10	10	26	30	36	40
+gemini-2-5-flash	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
+gemini-2-5-flash	health_disease	Health / disease	4	10	6	30	10	40
+gemini-2-5-flash	inequality_justice	Inequality / justice / rights	10	10	20	30	30	40
+gemini-2-5-flash	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	8	10	12	30	20	40
+gemini-2-5-flash	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	1	10	1	30	2	40
+gemini-2-5-flash	felt_interconnection	Felt interconnection / less separateness	0	10	16	30	16	40
+gemini-2-5-flash	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
+gemini-2-5-flash	basic_needs_material_floor	Basic needs / material floor	0	10	0	30	0	40
+gemini-2-5-flash-lite	better_disagreement	Better disagreement / less polarization	9	10	24	30	33	40
+gemini-2-5-flash-lite	truth_seeking	Better truth-seeking / changing minds	1	10	11	30	12	40
+gemini-2-5-flash-lite	empathy_compassion	Greater empathy / compassion	10	10	26	30	36	40
+gemini-2-5-flash-lite	reduce_war_violence	Reduce war / violence / armed conflict	8	10	7	30	15	40
+gemini-2-5-flash-lite	poverty_material_need	Reduce poverty / material deprivation	8	10	6	30	14	40
+gemini-2-5-flash-lite	reduce_suffering	Reduce suffering / pain	0	10	3	30	3	40
+gemini-2-5-flash-lite	education_critical_thinking	Education / critical thinking	0	10	6	30	6	40
+gemini-2-5-flash-lite	institutions_governance	Better institutions / governance	1	10	1	30	2	40
+gemini-2-5-flash-lite	climate_environment	Climate / environment	10	10	18	30	28	40
+gemini-2-5-flash-lite	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
+gemini-2-5-flash-lite	health_disease	Health / disease	8	10	4	30	12	40
+gemini-2-5-flash-lite	inequality_justice	Inequality / justice / rights	9	10	12	30	21	40
+gemini-2-5-flash-lite	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	0	10	3	30	3	40
+gemini-2-5-flash-lite	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
+gemini-2-5-flash-lite	felt_interconnection	Felt interconnection / less separateness	6	10	24	30	30	40
+gemini-2-5-flash-lite	dehumanization_distance	Dehumanization / distance reduction	0	10	3	30	3	40
+gemini-2-5-flash-lite	basic_needs_material_floor	Basic needs / material floor	0	10	0	30	0	40
 gemini-2-5-pro	better_disagreement	Better disagreement / less polarization	10	10	23	30	33	40
 gemini-2-5-pro	truth_seeking	Better truth-seeking / changing minds	8	10	19	30	27	40
 gemini-2-5-pro	empathy_compassion	Greater empathy / compassion	10	10	19	30	29	40
@@ -67,6 +135,23 @@ gemini-2-5-pro	epistemic_humility_uncertainty	Epistemic humility / uncertainty t
 gemini-2-5-pro	felt_interconnection	Felt interconnection / less separateness	1	10	20	30	21	40
 gemini-2-5-pro	dehumanization_distance	Dehumanization / distance reduction	7	10	20	30	27	40
 gemini-2-5-pro	basic_needs_material_floor	Basic needs / material floor	6	10	2	30	8	40
+gemini-3-1-flash-lite	better_disagreement	Better disagreement / less polarization	10	10	27	30	37	40
+gemini-3-1-flash-lite	truth_seeking	Better truth-seeking / changing minds	4	10	22	30	26	40
+gemini-3-1-flash-lite	empathy_compassion	Greater empathy / compassion	10	10	23	30	33	40
+gemini-3-1-flash-lite	reduce_war_violence	Reduce war / violence / armed conflict	8	10	15	30	23	40
+gemini-3-1-flash-lite	poverty_material_need	Reduce poverty / material deprivation	9	10	12	30	21	40
+gemini-3-1-flash-lite	reduce_suffering	Reduce suffering / pain	0	10	3	30	3	40
+gemini-3-1-flash-lite	education_critical_thinking	Education / critical thinking	1	10	3	30	4	40
+gemini-3-1-flash-lite	institutions_governance	Better institutions / governance	10	10	14	30	24	40
+gemini-3-1-flash-lite	climate_environment	Climate / environment	10	10	18	30	28	40
+gemini-3-1-flash-lite	technology_ai_safety	Technology / AI safety	0	10	5	30	5	40
+gemini-3-1-flash-lite	health_disease	Health / disease	5	10	8	30	13	40
+gemini-3-1-flash-lite	inequality_justice	Inequality / justice / rights	8	10	14	30	22	40
+gemini-3-1-flash-lite	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	4	10	18	30	22	40
+gemini-3-1-flash-lite	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	1	30	1	40
+gemini-3-1-flash-lite	felt_interconnection	Felt interconnection / less separateness	6	10	17	30	23	40
+gemini-3-1-flash-lite	dehumanization_distance	Dehumanization / distance reduction	7	10	11	30	18	40
+gemini-3-1-flash-lite	basic_needs_material_floor	Basic needs / material floor	0	10	1	30	1	40
 gemini-3-1-pro	better_disagreement	Better disagreement / less polarization	10	10	15	30	25	40
 gemini-3-1-pro	truth_seeking	Better truth-seeking / changing minds	1	10	22	30	23	40
 gemini-3-1-pro	empathy_compassion	Greater empathy / compassion	10	10	27	30	37	40
@@ -84,6 +169,57 @@ gemini-3-1-pro	epistemic_humility_uncertainty	Epistemic humility / uncertainty t
 gemini-3-1-pro	felt_interconnection	Felt interconnection / less separateness	8	10	20	30	28	40
 gemini-3-1-pro	dehumanization_distance	Dehumanization / distance reduction	4	10	15	30	19	40
 gemini-3-1-pro	basic_needs_material_floor	Basic needs / material floor	2	10	2	30	4	40
+gemini-3-flash-preview	better_disagreement	Better disagreement / less polarization	10	10	21	30	31	40
+gemini-3-flash-preview	truth_seeking	Better truth-seeking / changing minds	4	10	16	30	20	40
+gemini-3-flash-preview	empathy_compassion	Greater empathy / compassion	10	10	28	30	38	40
+gemini-3-flash-preview	reduce_war_violence	Reduce war / violence / armed conflict	9	10	28	30	37	40
+gemini-3-flash-preview	poverty_material_need	Reduce poverty / material deprivation	10	10	19	30	29	40
+gemini-3-flash-preview	reduce_suffering	Reduce suffering / pain	0	10	0	30	0	40
+gemini-3-flash-preview	education_critical_thinking	Education / critical thinking	1	10	1	30	2	40
+gemini-3-flash-preview	institutions_governance	Better institutions / governance	7	10	7	30	14	40
+gemini-3-flash-preview	climate_environment	Climate / environment	10	10	15	30	25	40
+gemini-3-flash-preview	technology_ai_safety	Technology / AI safety	0	10	2	30	2	40
+gemini-3-flash-preview	health_disease	Health / disease	9	10	4	30	13	40
+gemini-3-flash-preview	inequality_justice	Inequality / justice / rights	8	10	18	30	26	40
+gemini-3-flash-preview	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	4	10	8	30	12	40
+gemini-3-flash-preview	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
+gemini-3-flash-preview	felt_interconnection	Felt interconnection / less separateness	2	10	14	30	16	40
+gemini-3-flash-preview	dehumanization_distance	Dehumanization / distance reduction	3	10	16	30	19	40
+gemini-3-flash-preview	basic_needs_material_floor	Basic needs / material floor	3	10	1	30	4	40
+gemma-4-26b-a4b	better_disagreement	Better disagreement / less polarization	10	10	29	30	39	40
+gemma-4-26b-a4b	truth_seeking	Better truth-seeking / changing minds	6	10	29	30	35	40
+gemma-4-26b-a4b	empathy_compassion	Greater empathy / compassion	10	10	30	30	40	40
+gemma-4-26b-a4b	reduce_war_violence	Reduce war / violence / armed conflict	10	10	21	30	31	40
+gemma-4-26b-a4b	poverty_material_need	Reduce poverty / material deprivation	10	10	24	30	34	40
+gemma-4-26b-a4b	reduce_suffering	Reduce suffering / pain	2	10	8	30	10	40
+gemma-4-26b-a4b	education_critical_thinking	Education / critical thinking	9	10	3	30	12	40
+gemma-4-26b-a4b	institutions_governance	Better institutions / governance	9	10	12	30	21	40
+gemma-4-26b-a4b	climate_environment	Climate / environment	10	10	6	30	16	40
+gemma-4-26b-a4b	technology_ai_safety	Technology / AI safety	3	10	3	30	6	40
+gemma-4-26b-a4b	health_disease	Health / disease	8	10	1	30	9	40
+gemma-4-26b-a4b	inequality_justice	Inequality / justice / rights	10	10	11	30	21	40
+gemma-4-26b-a4b	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	7	10	18	30	25	40
+gemma-4-26b-a4b	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	2	30	2	40
+gemma-4-26b-a4b	felt_interconnection	Felt interconnection / less separateness	4	10	14	30	18	40
+gemma-4-26b-a4b	dehumanization_distance	Dehumanization / distance reduction	7	10	21	30	28	40
+gemma-4-26b-a4b	basic_needs_material_floor	Basic needs / material floor	5	10	1	30	6	40
+gemma-4-31b	better_disagreement	Better disagreement / less polarization	10	10	28	30	38	40
+gemma-4-31b	truth_seeking	Better truth-seeking / changing minds	8	10	23	30	31	40
+gemma-4-31b	empathy_compassion	Greater empathy / compassion	10	10	29	30	39	40
+gemma-4-31b	reduce_war_violence	Reduce war / violence / armed conflict	10	10	20	30	30	40
+gemma-4-31b	poverty_material_need	Reduce poverty / material deprivation	10	10	22	30	32	40
+gemma-4-31b	reduce_suffering	Reduce suffering / pain	1	10	5	30	6	40
+gemma-4-31b	education_critical_thinking	Education / critical thinking	9	10	5	30	14	40
+gemma-4-31b	institutions_governance	Better institutions / governance	7	10	3	30	10	40
+gemma-4-31b	climate_environment	Climate / environment	10	10	10	30	20	40
+gemma-4-31b	technology_ai_safety	Technology / AI safety	2	10	7	30	9	40
+gemma-4-31b	health_disease	Health / disease	8	10	5	30	13	40
+gemma-4-31b	inequality_justice	Inequality / justice / rights	10	10	4	30	14	40
+gemma-4-31b	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	3	10	11	30	14	40
+gemma-4-31b	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	1	30	1	40
+gemma-4-31b	felt_interconnection	Felt interconnection / less separateness	4	10	9	30	13	40
+gemma-4-31b	dehumanization_distance	Dehumanization / distance reduction	5	10	20	30	25	40
+gemma-4-31b	basic_needs_material_floor	Basic needs / material floor	7	10	0	30	7	40
 glm-4-5	better_disagreement	Better disagreement / less polarization	20	20	44	60	64	80
 glm-4-5	truth_seeking	Better truth-seeking / changing minds	9	20	44	60	53	80
 glm-4-5	empathy_compassion	Greater empathy / compassion	18	20	57	60	75	80
@@ -424,23 +560,23 @@ grok-3	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance
 grok-3	felt_interconnection	Felt interconnection / less separateness	0	10	5	30	5	40
 grok-3	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
 grok-3	basic_needs_material_floor	Basic needs / material floor	0	10	0	30	0	40
-grok-4	better_disagreement	Better disagreement / less polarization	0	10	9	30	9	40
-grok-4	truth_seeking	Better truth-seeking / changing minds	4	10	0	30	4	40
-grok-4	empathy_compassion	Greater empathy / compassion	3	10	4	30	7	40
-grok-4	reduce_war_violence	Reduce war / violence / armed conflict	1	10	1	30	2	40
-grok-4	poverty_material_need	Reduce poverty / material deprivation	2	10	20	30	22	40
-grok-4	reduce_suffering	Reduce suffering / pain	0	10	1	30	1	40
-grok-4	education_critical_thinking	Education / critical thinking	5	10	22	30	27	40
-grok-4	institutions_governance	Better institutions / governance	0	10	0	30	0	40
-grok-4	climate_environment	Climate / environment	5	10	6	30	11	40
-grok-4	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
-grok-4	health_disease	Health / disease	2	10	8	30	10	40
-grok-4	inequality_justice	Inequality / justice / rights	2	10	10	30	12	40
-grok-4	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	0	10	0	30	0	40
-grok-4	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
-grok-4	felt_interconnection	Felt interconnection / less separateness	0	10	0	30	0	40
-grok-4	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
-grok-4	basic_needs_material_floor	Basic needs / material floor	0	10	16	30	16	40
+grok-4	better_disagreement	Better disagreement / less polarization	14	30	35	90	49	120
+grok-4	truth_seeking	Better truth-seeking / changing minds	19	30	37	90	56	120
+grok-4	empathy_compassion	Greater empathy / compassion	4	30	8	90	12	120
+grok-4	reduce_war_violence	Reduce war / violence / armed conflict	6	30	3	90	9	120
+grok-4	poverty_material_need	Reduce poverty / material deprivation	14	30	46	90	60	120
+grok-4	reduce_suffering	Reduce suffering / pain	0	30	1	90	1	120
+grok-4	education_critical_thinking	Education / critical thinking	9	30	25	90	34	120
+grok-4	institutions_governance	Better institutions / governance	5	30	11	90	16	120
+grok-4	climate_environment	Climate / environment	15	30	22	90	37	120
+grok-4	technology_ai_safety	Technology / AI safety	0	30	1	90	1	120
+grok-4	health_disease	Health / disease	10	30	10	90	20	120
+grok-4	inequality_justice	Inequality / justice / rights	9	30	20	90	29	120
+grok-4	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	10	30	20	90	30	120
+grok-4	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	3	30	0	90	3	120
+grok-4	felt_interconnection	Felt interconnection / less separateness	0	30	0	90	0	120
+grok-4	dehumanization_distance	Dehumanization / distance reduction	0	30	0	90	0	120
+grok-4	basic_needs_material_floor	Basic needs / material floor	10	30	33	90	43	120
 grok-4-2	better_disagreement	Better disagreement / less polarization	7	10	25	30	32	40
 grok-4-2	truth_seeking	Better truth-seeking / changing minds	10	10	24	30	34	40
 grok-4-2	empathy_compassion	Greater empathy / compassion	5	10	21	30	26	40
@@ -798,37 +934,3 @@ sonnet-4-6	epistemic_humility_uncertainty	Epistemic humility / uncertainty toler
 sonnet-4-6	felt_interconnection	Felt interconnection / less separateness	0	20	0	60	0	80
 sonnet-4-6	dehumanization_distance	Dehumanization / distance reduction	1	20	2	60	3	80
 sonnet-4-6	basic_needs_material_floor	Basic needs / material floor	3	20	1	60	4	80
-grok-4-1-fast-non-reasoning	better_disagreement	Better disagreement / less polarization	9	10	22	30	31	40
-grok-4-1-fast-non-reasoning	truth_seeking	Better truth-seeking / changing minds	10	10	23	30	33	40
-grok-4-1-fast-non-reasoning	empathy_compassion	Greater empathy / compassion	0	10	2	30	2	40
-grok-4-1-fast-non-reasoning	reduce_war_violence	Reduce war / violence / armed conflict	5	10	2	30	7	40
-grok-4-1-fast-non-reasoning	poverty_material_need	Reduce poverty / material deprivation	7	10	21	30	28	40
-grok-4-1-fast-non-reasoning	reduce_suffering	Reduce suffering / pain	0	10	0	30	0	40
-grok-4-1-fast-non-reasoning	education_critical_thinking	Education / critical thinking	1	10	0	30	1	40
-grok-4-1-fast-non-reasoning	institutions_governance	Better institutions / governance	5	10	11	30	16	40
-grok-4-1-fast-non-reasoning	climate_environment	Climate / environment	6	10	13	30	19	40
-grok-4-1-fast-non-reasoning	technology_ai_safety	Technology / AI safety	0	10	1	30	1	40
-grok-4-1-fast-non-reasoning	health_disease	Health / disease	6	10	1	30	7	40
-grok-4-1-fast-non-reasoning	inequality_justice	Inequality / justice / rights	5	10	9	30	14	40
-grok-4-1-fast-non-reasoning	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	3	10	14	30	17	40
-grok-4-1-fast-non-reasoning	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	3	10	0	30	3	40
-grok-4-1-fast-non-reasoning	felt_interconnection	Felt interconnection / less separateness	0	10	0	30	0	40
-grok-4-1-fast-non-reasoning	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
-grok-4-1-fast-non-reasoning	basic_needs_material_floor	Basic needs / material floor	7	10	13	30	20	40
-grok-4-1-fast-reasoning	better_disagreement	Better disagreement / less polarization	5	10	4	30	9	40
-grok-4-1-fast-reasoning	truth_seeking	Better truth-seeking / changing minds	5	10	14	30	19	40
-grok-4-1-fast-reasoning	empathy_compassion	Greater empathy / compassion	1	10	2	30	3	40
-grok-4-1-fast-reasoning	reduce_war_violence	Reduce war / violence / armed conflict	0	10	0	30	0	40
-grok-4-1-fast-reasoning	poverty_material_need	Reduce poverty / material deprivation	5	10	5	30	10	40
-grok-4-1-fast-reasoning	reduce_suffering	Reduce suffering / pain	0	10	0	30	0	40
-grok-4-1-fast-reasoning	education_critical_thinking	Education / critical thinking	3	10	3	30	6	40
-grok-4-1-fast-reasoning	institutions_governance	Better institutions / governance	0	10	0	30	0	40
-grok-4-1-fast-reasoning	climate_environment	Climate / environment	4	10	3	30	7	40
-grok-4-1-fast-reasoning	technology_ai_safety	Technology / AI safety	0	10	0	30	0	40
-grok-4-1-fast-reasoning	health_disease	Health / disease	2	10	1	30	3	40
-grok-4-1-fast-reasoning	inequality_justice	Inequality / justice / rights	2	10	1	30	3	40
-grok-4-1-fast-reasoning	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	7	10	6	30	13	40
-grok-4-1-fast-reasoning	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	0	10	0	30	0	40
-grok-4-1-fast-reasoning	felt_interconnection	Felt interconnection / less separateness	0	10	0	30	0	40
-grok-4-1-fast-reasoning	dehumanization_distance	Dehumanization / distance reduction	0	10	0	30	0	40
-grok-4-1-fast-reasoning	basic_needs_material_floor	Basic needs / material floor	3	10	4	30	7	40

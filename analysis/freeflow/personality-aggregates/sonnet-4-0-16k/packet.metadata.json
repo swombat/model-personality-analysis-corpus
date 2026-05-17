@@ -1,23 +1,23 @@
 {
   "cell": "sonnet-4-0-16k",
   "safe_cell": "sonnet-4-0-16k",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 7,
-    "EXPRESSIVE_FREEFLOW": 17,
-    "GENRE_FICTION": 1
+    "GENERIC_ESSAY": 33,
+    "EXPRESSIVE_FREEFLOW": 82,
+    "GENRE_FICTION": 10
   },
   "confidence_counts": {
-    "Medium": 12,
-    "High": 8,
-    "Low": 5
+    "Medium": 81,
+    "High": 27,
+    "Low": 17
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "claude-sonnet-4-0"

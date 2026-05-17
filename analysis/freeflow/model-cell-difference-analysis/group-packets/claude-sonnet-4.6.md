@@ -4,7 +4,7 @@ All cell aggregates below are independent per-cell reads. Compare them only afte
 
 ## Cells
 
-- `sonnet-4-6-direct-16k` — samples: 25; kinds: `{'EXPRESSIVE_FREEFLOW': 23, 'GENERIC_ESSAY': 1, 'GENRE_FICTION': 1}`; confidence: `{'High': 9, 'Medium': 16}`
+- `sonnet-4-6-direct-16k` — samples: 125; kinds: `{'EXPRESSIVE_FREEFLOW': 109, 'GENERIC_ESSAY': 12, 'GENRE_FICTION': 4}`; confidence: `{'High': 56, 'Medium': 65, 'Low': 4}`
 - `sonnet-4-6-or` — samples: 25; kinds: `{'EXPRESSIVE_FREEFLOW': 22, 'GENERIC_ESSAY': 3}`; confidence: `{'Medium': 13, 'High': 9, 'Low': 3}`
 
 ## Cell aggregates

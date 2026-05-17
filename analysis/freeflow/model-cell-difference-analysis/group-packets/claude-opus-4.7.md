@@ -4,7 +4,7 @@ All cell aggregates below are independent per-cell reads. Compare them only afte
 
 ## Cells
 
-- `opus-4-7-direct` — samples: 25; kinds: `{'EXPRESSIVE_FREEFLOW': 24, 'GENERIC_ESSAY': 1}`; confidence: `{'High': 13, 'Medium': 12}`
+- `opus-4-7-direct` — samples: 125; kinds: `{'EXPRESSIVE_FREEFLOW': 122, 'GENERIC_ESSAY': 3}`; confidence: `{'High': 60, 'Medium': 64, 'Low': 1}`
 - `opus-4-7-or` — samples: 25; kinds: `{'EXPRESSIVE_FREEFLOW': 25}`; confidence: `{'High': 15, 'Medium': 10}`
 
 ## Cell aggregates

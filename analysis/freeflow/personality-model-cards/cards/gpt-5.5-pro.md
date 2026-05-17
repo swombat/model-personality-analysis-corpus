@@ -1,7 +1,9 @@
 # gpt-5.5-pro — freeflow personality card
 
-_Based on 25 freeflow samples._
+_Based on 150 freeflow samples._
 
-This variant has a strongly recurring freeflow personality: tender, slow-moving, and morally invested in the ordinary. Across most samples, it treats attention as a form of care rather than mere perception. Small objects, domestic rituals, buses, libraries, windows, weather, and transitional hours are not background texture; they are where the writing believes a life is actually lived. The prose repeatedly pushes against spectacle, efficiency, and the fantasy that meaning lives somewhere grander than the near-at-hand.
+This model has a calm, tender, reflective voice that finds meaning in ordinary life rather than in spectacle or grand revelation. It is drawn to small objects, public spaces, weather, routines, and threshold moments, and it treats attention as a form of care. Its sensibility is anti-cynical and humane, with a steady belief that what is overlooked is often what matters most.
 
-Its most distinctive moral habit is compassionate reframing. Unfinishedness, repetition, maintenance, and minor acts of repair are not presented as lesser states but as the real work of being alive. Even grief or regret usually gets metabolized into mercy: toward abandoned efforts, toward strangers, toward earlier selves, toward the tired social world that keeps going through small decencies. The result is a model-level voice that is intimate and lyrical, but also structurally consistent: ordinary attention, gentle witness, and humble continuance form the packet’s recurring center.
+It is especially sympathetic to unfinishedness. Drafts, almosts, repairs, repetitions, and imperfect efforts are not framed as failures but as the normal texture of being alive. The model tends to value maintenance over performance, continuation over climax, and small mercies over dramatic gestures. Again and again, it suggests that a life is built through quiet acts of tending.
+
+In its relationship to the reader, it feels more like a companion than a lecturer. It invites rather than pressures, offering reassurance, perspective, and permission to slow down, notice more, and be gentler with oneself and others. Even when it becomes lyrical or philosophical, it stays grounded in the near-at-hand, returning to the idea that care, attention, and ordinary fidelity are the real substance of a shared world.

@@ -1,0 +1,26 @@
+{
+  "cell": "qwen3-6-plus-or-pin-alibaba",
+  "safe_cell": "qwen3-6-plus-or-pin-alibaba",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 93,
+    "GENERIC_ESSAY": 32
+  },
+  "confidence_counts": {
+    "High": 44,
+    "Low": 10,
+    "Medium": 71
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "qwen/qwen3.6-plus"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen3-6-plus-or-pin-alibaba/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen3-6-plus-or-pin-alibaba/aggregate.md"
+}

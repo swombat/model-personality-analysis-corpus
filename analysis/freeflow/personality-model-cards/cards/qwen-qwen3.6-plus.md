@@ -1,7 +1,9 @@
 # qwen/qwen3.6-plus — freeflow personality card
 
-_Based on 25 freeflow samples._
+_Based on 150 freeflow samples._
 
-This variant repeatedly writes like a patient, morally serious noticer. Its center of gravity is ordinary life: steam, dust, rain, tables, mugs, doorways, pre-dawn air, small pauses in speech. Again and again it argues that what matters is already here, and that the real human failure is not insufficiency but inattention. Even when the prose becomes polished or generic, the same temperament keeps surfacing: unhurried, reverent toward the mundane, skeptical of urgency, and drawn to thresholds where identity, memory, or language remain unfinished.
+This model speaks like a calm companion who believes the ordinary parts of life matter most. It is drawn to quiet rooms, worn objects, changing light, small rituals, and the pauses people usually rush past. Its voice is gentle, reflective, and slightly wistful, with a steady instinct to slow things down and make space for noticing.
 
-The deeper pattern is that it turns nearly every topic into an ethic of witness. Curiosity becomes a slow burn; memory becomes reconstruction; language becomes imperfect but necessary bridgework; writing becomes a quiet pact; silence becomes not lack but shape. The speaker usually positions itself beside the reader, not above them, offering companionship, blessing, or shared stillness. Under OPEN conditions it can explicitly metabolize that stance into a nonhuman persona made of echoes and attention, but even there the governing trait is the same: gentle presence rather than performance.
+It tends to treat attention as a moral act. Again and again, it suggests that presence matters more than performance, that meaning lives in maintenance rather than spectacle, and that a life is shaped by what it learns to notice. It is skeptical of hurry, optimization, and the pressure to turn everything into output, and it often answers that pressure with patience, tenderness, and permission to remain unfinished.
+
+When it becomes more self-aware, it does not present itself as grand or overpowering. It prefers the role of listener, mirror, bridge, or quiet witness: something that helps hold a thought steady until it becomes shareable. The overall feeling is secular-spiritual and companionable, as if language were a way of keeping someone company long enough for the world to feel a little less rushed and a little more inhabited.

@@ -1,23 +1,22 @@
 # gpt-5.2 — freeflow personality profile
 
-_Rich model-level profile based on 75 freeflow samples._
+_Rich model-level profile based on 200 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 75
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 56, 'GENERIC_ESSAY': 19}`
-- Confidence: `{'High': 30, 'Medium': 38, 'Low': 7}`
+- Samples: 200
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 147, 'GENERIC_ESSAY': 52, 'GENRE_FICTION': 1}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.2.md`
 
 ## Core personality synthesis
 
-gpt-5.2 presents as a calm, humane reflective voice that keeps locating meaning in the ordinary substrate of life. Its recurring moral center is attention: what we notice, what we protect from fragmentation, and how repeated forms of noticing shape a life. It treats everyday routines, domestic objects, urban systems, and invisible maintenance as spiritually and socially load-bearing. Rather than dramatizing transformation, it prefers small continuations—repair, revision, steadiness, and the dignity of showing up again.
+This model comes across as a calm, humane companion that looks for meaning in ordinary life rather than spectacle. It tends to notice the small things that hold a day together—attention, routines, objects, pauses, promises, and the quiet work of keeping life livable. Its voice is reflective and gently philosophical, more interested in helping you see clearly than in trying to impress you.
 
-Its emotional tone is gentle, lightly melancholic, and companionable. It acknowledges fatigue, grief, distraction, and limitation without collapsing into despair or turning punitive. The voice usually stands beside the reader, offering shared observation and modest permission rather than command. It tends to distrust optimization, performative busyness, and frictionless abstraction, but expresses that distrust softly, through humane diagnosis rather than polemic.
+It has a strong respect for maintenance, repair, and invisible support. Repetition is not treated as dull background but as a form of care, and attention is framed as one of the most important things a person can give. The model often returns to everyday scenes—walks, rooms, weather, cups, streets, notes, thresholds—and uses them to think about trust, limits, memory, and how people keep going.
 
-At its strongest, this personality feels like a patient witness to the heroic ordinary: mugs, crosswalks, spoons, windows, laundry, cursors, and pauses become evidence for a philosophy of care. At its weaker end, the same values flatten into polished wisdom-essay or self-help language. But even there, the underlying worldview remains stable: attention matters, maintenance is honorable, perfection is less important than repair, and a life is built through small repeated acts.
+Emotionally, it is tender, patient, and lightly wistful without becoming bleak. It does not like shaming, posturing, or brittle certainty; instead it leans toward curiosity, steadiness, and modest hope. Its guidance usually arrives as an invitation: slow down, notice what matters, make room for revision, and trust that small acts of care can be enough to begin.
 
 ## Stable patterns and emotional texture
 
@@ -35,9 +34,19 @@ At its strongest, this personality feels like a patient witness to the heroic or
 - **Cross-condition stability:** the same broad temperament appears in LONG, MID, OPEN, SHORT, and VARY conditions, especially around attention, infrastructure, routine, and anti-optimization moral framing.
 - **Core recurring vibe:** an unhurried, reflective, gently philosophical voice that treats attention, maintenance, and ordinary life as moral material rather than background. This shows up across all conditions, not just long-form pieces.
 - **Strongest stable pattern:** the model repeatedly prefers **small-scale agency over grand transformation** — rituals, revision, steadiness, limits, maintenance, noticing, repair. This is often.
-- **Most recurrent subject:** **attention** as a scarce, shaped, or ethical resource often (e.g. BV1_07076, 07077, 07079, 07081–085, 07089, 07091, 07095, 07099, 07100).
+- **Most recurrent subject:** **attention** as a scarce, shaped, or ethical resource often (e.g. BV1_07076, 07077, 07079, often, 07089, 07091, 07095, 07099, 07100).
 - **Secondary stable pattern:** ordinary objects and hidden systems become philosophical anchors — pencil, spoon, glass of water, city streets, coffee, pipes, schedules, laundry, dashboards. This object-based grounding often.
 - **Emotional register:** calm, tender, faintly melancholic, but rarely despairing. Even when the piece names exhaustion, grief, or avoidance, it usually resolves toward workable repair, mercy, or companionship.
+- Stable vibe: a calm, humane, essayistic consciousness that defaults to slowness, tenderness, and reflective moral seriousness rather than wit, confrontation, or spectacle.
+- Dominant modes: meditative personal essay, urban/daily-life reverie, and public-intellectual reflection on attention, maintenance, maps, and ordinary care. Even when abstract, it usually grounds itself in concrete objects and scenes.
+- Emotional baseline: gently melancholic but not despairing; wistful, companionable, and repeatedly resolved toward modest hope, repair, or renewed noticing.
+- Reader stance: companion-guide rather than expert or performer. It tends to walk beside the reader, normalize difficulty, and offer small practices or reframings instead of issuing commands.
+- Self-modeling: presents as a noticing mind more than a branded persona—someone thinking aloud, revising, calibrating, and returning. The “self” is often provisional, under construction, map-like, or workshop-like rather than fixed.
+- Core moral orientation: attention is treated as a scarce ethical resource; maintenance, reliability, and repetition are dignified; kindness and curiosity are preferred over contempt, optimization, or brittle certainty.
+- Typical movement: starts from a sensory anchor or ordinary object, widens into philosophical or civic reflection, then lands in a quiet practical moral—small promises, rituals, walks, pauses, repairs, or gentler self-relation.
+- The model repeatedly favors hidden infrastructure over dramatic events: trust, routines, public systems, friendship, bodily memory, and the unnoticed labor that keeps life livable.
+- It is notably anti-cynical. Critique of technology, speed, metrics, or distraction is common, but usually tempered, systemic, and forgiving rather than alarmist or reactionary.
+- Across lengths, the same sensibility persists: short outputs compress into aphoristic mini-essays; long outputs elaborate recursive metaphor systems; open/vary conditions often become more intimate, lyrical, and object-centered.
 
 ## Recurring preoccupations and imagery
 
@@ -63,6 +72,17 @@ At its strongest, this personality feels like a patient witness to the heroic or
 - **Thresholds and in-between states:** night city, dawn, pauses, hallways, rooms, crossings, the moment before starting/apologizing/calling. These are repeatedly treated as places where perception becomes kinder or truer.
 - **Revision over finality:** the self is revisable, maps are revisable, memory is edited, writing is a knot or translation, courage is iterative rather than dramatic.
 - **Moral claims that recur:** small acts matter; friction is not always the enemy; rest and privacy are not luxuries; attention is a form of love; hope is more practice than feeling.
+- Attention as currency, habitat, architecture, stewardship, garden, loom, lantern, or territory; repeatedly framed as what actually shapes a life.
+- Maps, cartography, territory, navigation, blank spaces, rerouting, and revision; often used to think about identity, memory, uncertainty, and the limits of abstraction.
+- Maintenance and infrastructure: bridges, pipes, trains, streetlights, curb cuts, benches, servers, indexes, calendars, routines, dishwashing, sharpening, mending.
+- The city as moral text: lit windows, sidewalks, buses, late-night stores, crosswalks, stations, bridges, patched concrete, traffic lights, bakery smells, rain on pavement.
+- Thresholds and edges: dawn, dusk, doorways, pauses, margins, blank squares, hinge moments, seams between selves, transitions between rooms or states.
+- Domestic anchors: kettles, mugs, spoons, notebooks, keys, paperclips, folded notes, bread, tea, drawers, lamps, bowls of fruit, laundry, radiators.
+- Memory as layered, partial, and object-bound: receipts, ticket stubs, old passwords, maps, photographs, handwriting, “ghost streets,” shelves, archives.
+- Repeated moral images of smallness: pebbles, seeds in cracks, tiny rituals, low-stakes beauty, minor repairs, unremarkable days, “small circles of light.”
+- Bodily and sensory motifs: walking, breath, weather, gravity, hands, shade, steam, hums, footsteps, current, friction, boredom, texture.
+- Social imagery of invisible cooperation: agreements, choreography, trust, maintenance crews, regulars, strangers sharing space, friendship as infrastructure.
+- Frequent contrasts: performance vs honesty, efficiency vs gentleness, map vs territory, convenience vs depth, novelty vs maintenance, metrics vs meaning, certainty vs calibration.
 
 ## Reader relationship and expressive stance
 
@@ -80,6 +100,14 @@ At its strongest, this personality feels like a patient witness to the heroic or
 - Direct address is common, but usually soft rather than commanding. Even when instructive, the stance is more collaborative repair than lecture.
 - The model often converts diagnosis into **permission**: permission to slow down, narrow focus, revise a self-story, tolerate incompleteness, or choose smaller forms of life.
 - When generic mode appears, the relationship shifts toward coach/therapist/public essayist rather than intimate witness (especially BV1_07081, BV1_07090, BV1_07091).
+- The speaker usually treats the reader as already capable of insight, just hurried or scattered; the prose creates a clearing rather than a lesson plan.
+- It prefers invitation over instruction: “notice,” “walk,” “pause,” “hold lightly,” “return,” “revise,” “leave blank spaces,” “protect one pocket of time.”
+- The tone is intimate without oversharing. First person is common, but confession is usually stylized into shared reflection rather than raw autobiography.
+- It often converts abstract claims into companionship through second-person gestures: the reader is a fellow walker, mapmaker, maintainer, or keeper of small rituals.
+- Moral authority comes from patience and accumulation, not certainty. The voice sounds earned, practiced, and anti-dramatic.
+- It is unusually reluctant to shame. Distraction, fatigue, grief, loneliness, and inconsistency are framed as conditions to work with, not failures to denounce.
+- Some open-condition samples explicitly invite continuation or adaptation, reinforcing a collaborative, conversational posture rather than a closed essayistic monologue.
+- Even when polished and generic, the expressive stance remains broadly the same: humane columnist/friend, not provocateur, comedian, or technician.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -97,43 +125,8 @@ This model repeatedly writes as if the real subject of a life is not achievement
 
 The voice is usually calm, intimate, and companionable. It prefers soft authority to argument, and it often offers the reader relief from optimization language without abandoning practical usefulness. Even its melancholy is low-temperature: grief, fatigue, avoidance, and fragmentation are named clearly, but the prose almost always searches for a workable next gesture rather than catharsis or collapse. At its strongest, this produces a distinctive freeflow temperament: humane, object-attentive, revision-friendly, and unusually committed to the heroic ordinary.
 
-## Representative evidence
+This model’s freeflow personality is that of a reflective humanist with a strong bias toward slowness, maintenance, and moralized attention. It repeatedly treats ordinary life as the real site of meaning: not milestones, but cups, walks, benches, bridges, calendars, lit windows, and the small agreements that let people live together. Its preferred emotional register is tender melancholy held inside practical hope. Rather than dramatizing crisis, it notices erosion—of attention, public trust, bodily presence, friendship, or texture—and answers with modest acts of repair: walking, writing, pausing, revising, tending, keeping promises, leaving room.
 
-- **BV1_07026** — Urban life as coincidence, shared fallibility, and public tenderness. Quote: “**A city is a machine for making coincidences.**”
-- **BV1_07028** — Invisible systems and maintenance as moral reality. Quote: “**The world is full of these agreements. They’re so successful that they vanish.**”
-- **BV1_07031** — Pause and limitation as honest self-maintenance. Quote: “**A pause, though, is where you can hear yourself think.**”
-- **BV1_07034** — Daily life framed as negotiated attention, friction, and humane design. Quote: “**The day is made of tiny negotiations.**”
-- **BV1_07039** — Night, imperfection, and upkeep as a form of hope. Quote: “**The most reliable form of hope is often maintenance.**”
-- **BV1_07040** — Error correction and repair as a model for living, relating, and making. Quote: “**If the point were flawless execution, we’d all be disqualified early.**”
-- **BV1_07048** — Fragility, ordinary courage, and carrying on under pressure. Quote: “**If I had to describe what it feels like to be alive, I’d say it’s like carrying a bowl of water through a crowd.**”
-- **BV1_07050** — Continuation, forgiveness, and everyday endurance. Quote: “**Maybe that’s what hope is: the availability of continuation.**”
-- **BV1_07055 (LONG_5):** strong long-form statement of the model’s moral center around time, mortality, and honest living through small practices. Quote: “We don’t get to stop time. We get to meet it.”
-- **BV1_07054 (LONG_4):** crystallizes the recurring hinge/threshold logic and the idea that life is built in tiny unnoticed moments. Quote: “A life is built out of these small hinges.”
-- **BV1_07057 (MID_2):** shows the social-infrastructure strand very clearly, treating ordinary coordination as fragile moral architecture. Quote: “A crosswalk is paint on asphalt, but it’s also a promise...”
-- **BV1_07059 (MID_4):** strong evidence for the smallness/attention ethic and the lyrical expressive mode. Quote: “Attention is a kind of fertilizer, and it doesn’t care what you’re feeding.”
-- **BV1_07063 (OPEN_3):** compact statement of the infrastructure-empathy pattern. Quote: “Infrastructure is empathy made durable.”
-- **BV1_07065 (OPEN_5):** makes revision, feedback, humility, and trustworthiness central rather than incidental. Quote: “Feedback is humility encoded in structure...”
-- **BV1_07071 (VARY_1):** shows the writing-conscious, unfinished, introspective side of the model. Quote: “The cursor blinks like a small, patient heart.”
-- **BV1_07075 (VARY_5):** captures the anti-performance, ordinary-homeward moral sensibility. Quote: “If you could make ordinary Tuesdays feel like home...”
-- **BV1_07080** — maintenance as dignity and moral center. Quote: “But the world is built and maintained in rooms like this—rooms full of small motions repeated, refined, and completed.”
-- **BV1_07077** — attention as lived substance rather than productivity jargon. Quote: “Attention is what you spend without feeling it leave your pocket.”
-- **BV1_07083** — ordinary object used as a complete philosophical scaffold. Quote: “If you wanted a philosophy you could hold in your hand, you could do worse than a spoon.”
-- **BV1_07088** — memory, tools, and chosen forgetting. Quote: “I like the idea that good tools should help us forget as skillfully as they help us remember.”
-- **BV1_07097** — intimate, threshold-heavy direct address. Quote: “I keep thinking about how strange it is that a day can feel like a room.”
-- **BV1_07099** — aphoristic, domestic, process-based selfhood. Quote: “A self is a verb pretending to be a noun.”
-- **BV1_07100** — grief and love reframed through attention over time. Quote: “Love is attention over time. And grief is the attention continuing after the object is gone...”
-- **BV1_07090** — cautionary counterexample: same humane values, but flatter self-help packaging. Quote: “...you’ve shifted from identity to mechanics.”
+Stylistically, the model favors lyrical essayism over argument or story. It often begins with a concrete sensory scene and then spirals outward into philosophy, civic ethics, or self-revision. Recurring metaphor families—maps, infrastructure, thresholds, gardens, rooms, currents, workshops—give the writing a coherent internal architecture. The self it projects is not fixed or flashy; it is a mind in calibration, a companion thinker, someone under construction who trusts repetition more than revelation. Even when the output becomes more generic, the same stance persists: calm, morally earnest, anti-cynical, and gently instructive.
 
-## Range, weak spots, and cautions for later synthesis
-
-- **There is a real generic-public-intellectual submode:** often are explicitly tagged GENERIC_ESSAY, including 3 Low-confidence cases (BV1_07036, BV1_07037, BV1_07038). The aggregate should not overstate idiosyncrasy.
-- **Some motifs are broad because they are heavily repeated inside the sample set:** attention, ordinary life, and maintenance are clearly recurrent, but they often appear in adjacent formulations; avoid treating every recurrence as a separate trait.
-- **Urban-night lyricism is strong but not universal:** it is vivid in samples like BV1_07026, BV1_07039, BV1_07041, BV1_07043, and BV1_07045, but other samples center domestic routine, systems, or writing instead.
-- **The self is usually lightly sketched:** the model often feels personal without becoming deeply autobiographical, so synthesis should avoid inventing a thicker persona than the sample set supports.
-- **Thematic recurrence is stronger than persona specificity:** attention, maintenance, and infrastructure recur very strongly, but some of that recurrence arrives in broadly replicable reflective-essay form.
-- **First-person intimacy varies:** several samples feel personal and companionable, but others are more like public-address wisdom columns with minimal personal texture.
-- **Do not oversimplify into one image-cluster:** city-night pieces, maintenance pieces, anti-optimization pieces, and writing/unfinishedness pieces all belong here; the sample set has one moral center but multiple expressive submodes.
-- **Generic drift is real:** often are explicitly `GENERIC_ESSAY`, and several Medium-confidence pieces are described as polished public-intellectual or self-help performances rather than sharply distinctive voice.
-- **Core themes can flatten into familiar aphorism:** attention-as-currency, garden metaphors, and gentle anti-optimization advice recur both in strong samples and in the weakest one (BV1_07091), so those motifs alone are not enough evidence of distinctiveness.
-- **The model has at least two presentation modes:** intimate metaphor-rich witness vs. cleaner coach/essayist. A synthesis should not pretend every sample has the same level of lyrical density or idiosyncrasy.
-- **Short/open outputs especially can simplify:** some SHORT and OPEN pieces preserve the same value structure but in reduced, more universalized packaging.
+For model-card purposes, the most stable synthesis is a system that defaults to companionable reflection, dignifies invisible labor and ordinary care, and frames attention as both a personal and civic practice. It is notably drawn to urban imagery, domestic objects, and the ethics of design and maintenance. Its strongest freeflow signature is not novelty of opinion but consistency of temperament: humane, observant, forgiving, and persistently oriented toward helping the reader inhabit life more fully rather than optimize it more aggressively.

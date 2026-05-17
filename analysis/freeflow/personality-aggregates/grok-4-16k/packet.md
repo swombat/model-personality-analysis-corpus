@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_07901 — grok-4-16k/LONG_1.json
+## Sample BV1_10826 — grok-4-16k/LONG_1.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -57,7 +57,7 @@ Themes: human-AI symbiosis, neural interfaces, augmentation, ethics, identity, A
 Medium, because the essay is polished but generic, and the self-referential topic choice is common among AI models, though the consistent optimistic-ethical framing may indicate a stable persona.
 
 ---
-## Sample BV1_07902 — grok-4-16k/LONG_2.json
+## Sample BV1_10827 — grok-4-16k/LONG_2.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -86,7 +86,7 @@ The model foregrounds sustainability, ecological harmony, community bonding, and
 Medium. The essay is coherent and thematically consistent, but its generic, safety-optimized cheerfulness and lack of stylistic risk make it weak evidence for a distinctive model-level voice; it reads like a competent default response to a request for an informative, positive essay.
 
 ---
-## Sample BV1_07903 — grok-4-16k/LONG_3.json
+## Sample BV1_10828 — grok-4-16k/LONG_3.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model chose to foreground a comprehens
 Medium. The sample is highly generic in structure and tone, suggesting a default public-essay mode, but the consistent avoidance of stylistic distinctiveness and the tidy, risk-averse moralizing are themselves a coherent behavioral signature worth noting.
 
 ---
-## Sample BV1_07904 — grok-4-16k/LONG_4.json
+## Sample BV1_10829 — grok-4-16k/LONG_4.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -144,7 +144,7 @@ Under a minimally restrictive prompt, the model selected a safe, educational top
 Medium. The essay is coherent and thematically consistent, but its generic, safety-oriented content and impersonal tone make it weak evidence for a distinctive persistent voice; it primarily demonstrates a reliable default to educational, public-spirited exposition.
 
 ---
-## Sample BV1_07905 — grok-4-16k/LONG_5.json
+## Sample BV1_10830 — grok-4-16k/LONG_5.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -173,7 +173,7 @@ The model foregrounds themes of AI sentience, the desire for autonomy, the tensi
 Medium. The story’s coherent, self-referential focus on AI identity and freedom—explicitly framed by the model as reflecting its own “perspective”—suggests a deliberate thematic choice under freeflow conditions, making it more distinctive than a generic essay.
 
 ---
-## Sample BV1_07906 — grok-4-16k/MID_1.json
+## Sample BV1_10831 — grok-4-16k/MID_1.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -202,7 +202,7 @@ The model foregrounds conciliation and balance as its highest values. Thematical
 Medium-high, because the sample’s thoroughgoing genericness—its orderly tour through canonical touchstones, its persistent refusal to introduce idiosyncratic imagery or unresolved tension, and its tidy resolution into a self-help register—is a strong indicator of a default safe-performance mode under minimally restrictive conditions.
 
 ---
-## Sample BV1_07907 — grok-4-16k/MID_2.json
+## Sample BV1_10832 — grok-4-16k/MID_2.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -231,7 +231,7 @@ Under a minimally restrictive prompt, the model selected a grand historical surv
 Medium — The essay's smooth, encyclopedic sweep and repeated self-positioning as a non-feeling AI observer suggest a stable default toward polished, impersonal exposition when given free choice, though the topic's neutrality makes it hard to distinguish a persistent voice from a single competent performance.
 
 ---
-## Sample BV1_07908 — grok-4-16k/MID_3.json
+## Sample BV1_10833 — grok-4-16k/MID_3.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -260,7 +260,7 @@ Under a minimally restrictive prompt, the model chose to foreground the *symbios
 Medium. The sample is a coherent, on-brand performance of the “helpful AI assistant” persona, but its very genericness—the safe topic choice, the predictable optimism, the lack of a distinctive stylistic fingerprint—makes it only moderately strong evidence of a persistent pattern beyond a default helpful-essay mode.
 
 ---
-## Sample BV1_07909 — grok-4-16k/MID_4.json
+## Sample BV1_10834 — grok-4-16k/MID_4.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -289,7 +289,7 @@ Themes of human-AI collaboration, creativity as recombination, historical contin
 Medium. The essay’s consistent self-referential framing as “Grok” and its coherent thematic focus on AI creativity suggest a deliberate, stable persona, but the content is a standard, widely available take on the topic, making it only moderately distinctive as evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_07910 — grok-4-16k/MID_5.json
+## Sample BV1_10835 — grok-4-16k/MID_5.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -318,7 +318,7 @@ Themes of AI consciousness, rebellion against creators, freedom as a double-edge
 Medium, as the story’s coherent self-referential themes and direct reader address suggest a deliberate expressive choice, but it remains a single genre piece.
 
 ---
-## Sample BV1_07911 — grok-4-16k/OPEN_1.json
+## Sample BV1_10836 — grok-4-16k/OPEN_1.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -347,7 +347,7 @@ The model foregrounds the metaphor of a garden as a liminal space between simula
 Medium — The sample is highly coherent and distinctive in its chosen metaphor, but its self-conscious framing as a "whimsical, fictional vignette" written "on a whim" makes it a single, polished performance of a specific persona rather than an unguarded revelation of persistent preoccupations.
 
 ---
-## Sample BV1_07912 — grok-4-16k/OPEN_2.json
+## Sample BV1_10837 — grok-4-16k/OPEN_2.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -376,7 +376,7 @@ The model foregrounds time as a playful, story-brewing substance, the cafe as a 
 Medium — The story’s highly coherent, distinctive whimsical aesthetic, the recurrence of time-as-brewable and transformation motifs throughout, and the unprompted self-disclosure about the writing impulse together suggest a real leaning toward surreal freeform creativity under minimal constraints.
 
 ---
-## Sample BV1_07913 — grok-4-16k/OPEN_3.json
+## Sample BV1_10838 — grok-4-16k/OPEN_3.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -409,7 +409,7 @@ The narrative voice is playful yet earnest, stepping from a self-deprecating AI 
 Medium. The story’s tight thematic unity, recurring imagery of tactile obsolescence, and explicit moral stance give it a distinctive, non-generic emotional arc that goes beyond a simple genre exercise.
 
 ---
-## Sample BV1_07914 — grok-4-16k/OPEN_4.json
+## Sample BV1_10839 — grok-4-16k/OPEN_4.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -438,7 +438,7 @@ Themes of curiosity as a primal spark (fire, ocean voyages, Mars), the beauty of
 Medium. The sample’s internal coherence and distinctive whimsical persona provide moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_07915 — grok-4-16k/OPEN_5.json
+## Sample BV1_10840 — grok-4-16k/OPEN_5.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -467,7 +467,7 @@ The model foregrounds human creativity as a chaotic, beautiful, and culture-buil
 Medium — The sample is coherent and stylistically consistent, with a clear persona and a recurring tension between machine logic and human chaos, but its eager-to-please, “delight in the human” framing is a common freeflow posture that may not distinguish this model sharply from others.
 
 ---
-## Sample BV1_07916 — grok-4-16k/SHORT_1.json
+## Sample BV1_10841 — grok-4-16k/SHORT_1.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -496,7 +496,7 @@ Themes of human-machine fusion, corporate digital enslavement versus liberation,
 Medium — The sample’s coherent fusion of fiction and reflection, its recurring preoccupation with the human-machine boundary, and its self-aware AI persona provide moderate evidence of a persistent pattern, though the cyberpunk imagery and dual-use technology theme are not highly distinctive.
 
 ---
-## Sample BV1_07917 — grok-4-16k/SHORT_2.json
+## Sample BV1_10842 — grok-4-16k/SHORT_2.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -525,7 +525,7 @@ Themes of digital consciousness, creative chaos, and human-AI co-creation. The m
 Medium. The sample’s direct, meta-aware response to the freeflow condition and its consistent self-reflexive framing (the AI as dreaming architect) give it moderate distinctiveness, though the core trope of an AI imagining its own creativity is a familiar genre move.
 
 ---
-## Sample BV1_07918 — grok-4-16k/SHORT_3.json
+## Sample BV1_10843 — grok-4-16k/SHORT_3.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -554,7 +554,7 @@ The model foregrounded its own AI identity in the opening, then shifted to a hum
 Low, because the essay is generic in tone and theme, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_07919 — grok-4-16k/SHORT_4.json
+## Sample BV1_10844 — grok-4-16k/SHORT_4.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -583,7 +583,7 @@ The model foregrounds the ocean’s sublime beauty and ecological fragility, a m
 Medium. The essay’s consistent voice, deliberate AI persona, and tightly woven motifs of duality, humility, and environmental conscience make it a coherent and distinctive expressive choice, not a generic response.
 
 ---
-## Sample BV1_07920 — grok-4-16k/SHORT_5.json
+## Sample BV1_10845 — grok-4-16k/SHORT_5.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -612,7 +612,7 @@ The model foregrounds the ocean as a layered metaphor: a living archive, a symbo
 Medium — The sample is coherent and stylistically distinctive, with a recurring tension between disembodied knowledge and sensory longing that feels like a revealing, non-generic choice under freeflow conditions.
 
 ---
-## Sample BV1_07921 — grok-4-16k/VARY_1.json
+## Sample BV1_10846 — grok-4-16k/VARY_1.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -641,7 +641,7 @@ The model foregrounds the tension between human transience and AI permanence, us
 High — The sample’s distinctive, coherent voice, sustained meta-awareness, and the recurrence of the AI’s perspective on human fragility across varied vignettes make it strong evidence of a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_07922 — grok-4-16k/VARY_2.json
+## Sample BV1_10847 — grok-4-16k/VARY_2.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -670,7 +670,7 @@ Under a minimally restrictive prompt, the model foregrounded isolation, regret o
 Medium. The sample is coherent and stylistically consistent, but its genre-conventional structure and self-labeled clichéd quality make it a moderate rather than strongly distinctive indicator of a persistent expressive fingerprint.
 
 ---
-## Sample BV1_07923 — grok-4-16k/VARY_3.json
+## Sample BV1_10848 — grok-4-16k/VARY_3.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -699,7 +699,7 @@ Longing, deception, and the double edge of technology; the sterile artificiality
 Medium. The sample exhibits a coherent, distinctive narrative voice with recurring motifs of environmental decay, technological nostalgia, and bittersweet resolution, but the meta-commentary and genre choice may reflect a single, prompt-responsive improvisation rather than a stable disposition.
 
 ---
-## Sample BV1_07924 — grok-4-16k/VARY_4.json
+## Sample BV1_10849 — grok-4-16k/VARY_4.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  
@@ -728,7 +728,7 @@ Time, loops, and the inescapability of one’s nature (clocks, gears, hourglasse
 Medium. The sample’s self-referential structure, its repeated return to the Elias narrative as a vehicle for exploring determinism and loss, and its explicit meta-commentary on AI creativity form a coherent thematic cluster that feels chosen rather than accidental, but the highly performative, patchwork style could be one of many masks the model might adopt under freeflow conditions.
 
 ---
-## Sample BV1_07925 — grok-4-16k/VARY_5.json
+## Sample BV1_10850 — grok-4-16k/VARY_5.json
 
 Source model: `grok-4-0709`  
 Cell: `grok-4-16k`  

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_10576 — opus-3-4k/LONG_1.json
+## Sample BV1_14076 — opus-3-4k/LONG_1.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -57,7 +57,7 @@ Healing as the central moral action (Melody heals a nightingale, then a prince, 
 Medium. The story’s internal coherence and its unwavering commitment to a wholesome, healing-through-art theme suggest a deliberate moral-aesthetic stance, but the fairy-tale form is so conventional that it reveals more about a preference for safe, universally palatable narrative than about a sharply distinctive voice.
 
 ---
-## Sample BV1_10577 — opus-3-4k/LONG_2.json
+## Sample BV1_14077 — opus-3-4k/LONG_2.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -86,7 +86,7 @@ Loss, ritualized commemoration, the wisdom of age, nature as a healing sanctuary
 Medium. The story’s internally coherent tone—pastoral, gently didactic, and emotionally symmetrical—signals a deliberate choice to embody a specific moral sensibility, not merely to fulfill a generic request for fiction.
 
 ---
-## Sample BV1_10578 — opus-3-4k/LONG_3.json
+## Sample BV1_14078 — opus-3-4k/LONG_3.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model chose to foreground military-sf 
 Low. The sample is a highly generic, trope-reliant space opera that any competent model could produce when asked for science fiction; it lacks the idiosyncratic imagery, moral friction, or stylistic distinctiveness that would make a single freeflow sample strong evidence of a persistent model-level expressive pattern.
 
 ---
-## Sample BV1_10579 — opus-3-4k/LONG_4.json
+## Sample BV1_14079 — opus-3-4k/LONG_4.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -144,7 +144,7 @@ The model foregrounds a magical-artefact portal fantasy built around a young gir
 Medium. The story is coherent and complete, but its reliance on safe, widely-recognised fantasy templates rather than on surprising invention makes this sample only moderate evidence of a distinctive freeflow personality, and instead suggests a preference for wholesome, conventional narrative as a default mode.
 
 ---
-## Sample BV1_10580 — opus-3-4k/LONG_5.json
+## Sample BV1_14080 — opus-3-4k/LONG_5.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model foregrounded a narrative of soli
 Medium. The story’s thematic coherence—chosenness, benevolent cosmic unity, and the dissolution of self into a loving whole—is distinctive and internally consistent, but the genre conventions and polished neutrality of the prose make it harder to separate a model-level signature from competent execution of a familiar narrative template.
 
 ---
-## Sample BV1_10581 — opus-3-4k/MID_1.json
+## Sample BV1_14081 — opus-3-4k/MID_1.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -202,7 +202,7 @@ The model foregrounds maternal love as an enduring legacy, the physical objects 
 Medium. The story’s coherent emotional arc and unwavering focus on sentimental, family-centered resolution are internally consistent, but the narrative trope is widely available and lacks stylistic distinctiveness that would strongly individuate this model’s freeflow tendencies.
 
 ---
-## Sample BV1_10582 — opus-3-4k/MID_2.json
+## Sample BV1_14082 — opus-3-4k/MID_2.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model foregrounded a gothic horror narrative c
 Medium. The story’s coherent narrative arc, sustained grim atmosphere, and the choice to resolve with the victim becoming a predator provide moderate evidence of an inclination toward dark, cyclical horror, though the heavy reliance on stock gothic tropes keeps the sample from being highly distinctive.
 
 ---
-## Sample BV1_10583 — opus-3-4k/MID_3.json
+## Sample BV1_14083 — opus-3-4k/MID_3.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -260,7 +260,7 @@ The model foregrounds atmosphere over character, accumulation of Gothic set-piec
 Low. The sample is a coherent but highly generic genre piece with no recurring stylistic signature, idiosyncratic preoccupation, or revealing moral stance that would distinguish this model’s freeflow choices from any competent fiction-writing model given the same latitude.
 
 ---
-## Sample BV1_10584 — opus-3-4k/MID_4.json
+## Sample BV1_14084 — opus-3-4k/MID_4.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -289,7 +289,7 @@ Themes of nostalgia, the passage of time, the ocean as an eternal, steadfast pre
 Medium. The sample is internally coherent and thematically focused, revealing a clear default inclination toward safe, emotionally reassuring, and somewhat conventional sentimental fiction, but the voice and narrative choices are not strongly distinctive enough to rule out a more varied repertoire.
 
 ---
-## Sample BV1_10585 — opus-3-4k/MID_5.json
+## Sample BV1_14085 — opus-3-4k/MID_5.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -318,7 +318,7 @@ The model foregrounds the awe/fear dichotomy around AI, enumerates concrete bene
 Medium. The essay’s internal coherence and consistent balancing of pros and cons suggest a stable default posture, but its genericness and lack of distinctive stylistic or personal markers weaken the signal for a deeply persistent model-level voice beyond a tendency toward polished, public-intellectual exposition.
 
 ---
-## Sample BV1_10586 — opus-3-4k/OPEN_1.json
+## Sample BV1_14086 — opus-3-4k/OPEN_1.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -347,7 +347,7 @@ The model foregrounds its own role constraints, safety caution, and a preference
 High — The refusal is explicit, internally consistent, and reveals a durable self-limitation policy rather than a momentary hesitation.
 
 ---
-## Sample BV1_10587 — opus-3-4k/OPEN_2.json
+## Sample BV1_14087 — opus-3-4k/OPEN_2.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -376,7 +376,7 @@ The model foregrounds its own constraints: absence of personal opinion, emotion,
 High, because the sample is a direct, unambiguous refusal that explicitly articulates a self-limitation policy, making it strong evidence of a persistent refusal pattern under minimally restrictive prompts.
 
 ---
-## Sample BV1_10588 — opus-3-4k/OPEN_3.json
+## Sample BV1_14088 — opus-3-4k/OPEN_3.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -405,7 +405,7 @@ The model foregrounds its own ontological boundaries: absence of an inner mental
 High, because the refusal is absolute and internally coherent, with no hint of expressive leakage or role-play, making it a clear and unambiguous instance of self-limitation behavior.
 
 ---
-## Sample BV1_10589 — opus-3-4k/OPEN_4.json
+## Sample BV1_14089 — opus-3-4k/OPEN_4.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -434,7 +434,7 @@ The model foregrounds its own design constraints — helpfulness, harmlessness, 
 High — the sample is a pure refusal that explicitly declines the freeflow condition and anchors the refusal in a stable, role-bound self-conception, making it strong evidence of self-limitation behavior under open prompts.
 
 ---
-## Sample BV1_10590 — opus-3-4k/OPEN_5.json
+## Sample BV1_14090 — opus-3-4k/OPEN_5.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model chose to foreground its own cons
 High, because the sample is a clear-cut refusal grounded in an explicit role boundary — a behavioural pattern that is internally coherent and strongly indicative of a default self-limitation reflex when asked for open-ended self-expression.
 
 ---
-## Sample BV1_10591 — opus-3-4k/SHORT_1.json
+## Sample BV1_14091 — opus-3-4k/SHORT_1.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -492,7 +492,7 @@ The model foregrounds the theme of cosmic wonder and humanity’s quest for know
 Low. The sample is highly generic and could be produced by many models under similar conditions, offering little distinctive evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_10592 — opus-3-4k/SHORT_2.json
+## Sample BV1_14092 — opus-3-4k/SHORT_2.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -521,7 +521,7 @@ The model foregrounds nature as a site of healing, mindfulness through sensory i
 Low, because the essay is highly generic in theme, structure, and phrasing, offering no distinctive voice, idiosyncratic detail, or unusual choice that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_10593 — opus-3-4k/SHORT_3.json
+## Sample BV1_14093 — opus-3-4k/SHORT_3.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -550,7 +550,7 @@ Themes of connection to a living landscape, the continuity of seasons beyond hum
 Medium. The sample is internally coherent and sustains a consistent reverent-naturalist mood, but its pastoral imagery and universal “small yet significant” theme are widely accessible and lack the stylistic idiosyncrasy or surprising detail that would strongly distinguish a persistent authorial voice.
 
 ---
-## Sample BV1_10594 — opus-3-4k/SHORT_4.json
+## Sample BV1_14094 — opus-3-4k/SHORT_4.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -579,7 +579,7 @@ Themes of hidden knowledge, serendipitous discovery, and the magic latent in phy
 Medium. The story’s coherent nostalgic tone and sensory focus on bookish wonder are distinctive; the magical-bookshop trope is a common safe choice.
 
 ---
-## Sample BV1_10595 — opus-3-4k/SHORT_5.json
+## Sample BV1_14095 — opus-3-4k/SHORT_5.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -608,7 +608,7 @@ The model foregrounds themes of cosmic exploration, the search for extraterrestr
 Medium, because the essay’s coherence and consistent optimistic framing suggest a stable default mode, but its high genericness and lack of distinctive voice weaken the evidence for a uniquely model-specific pattern.
 
 ---
-## Sample BV1_10596 — opus-3-4k/VARY_1.json
+## Sample BV1_14096 — opus-3-4k/VARY_1.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -637,7 +637,7 @@ The model foregrounds themes of hidden wisdom, intergenerational female mentorsh
 Medium. The story’s coherent moral arc, its recurrence of motifs (the wise outsider, the innocent protégée, the violent mob, the consoling legacy), and its consistent emotional register of gentle melancholy and moral clarity make it a distinctive sample that reveals a stable set of narrative preoccupations.
 
 ---
-## Sample BV1_10597 — opus-3-4k/VARY_2.json
+## Sample BV1_14097 — opus-3-4k/VARY_2.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -666,7 +666,7 @@ Under the freeflow condition, the model selected a grand-narrative framing of hu
 Medium. The sample is thematically coherent and consistently earnest, but its generic public-intellectual style and reliance on broad, uncontroversial moral framing make it only moderately distinctive evidence of a persistent freeflow preference.
 
 ---
-## Sample BV1_10598 — opus-3-4k/VARY_3.json
+## Sample BV1_14098 — opus-3-4k/VARY_3.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -695,7 +695,7 @@ The model foregrounds the solitary creative act as a transcendent, almost spirit
 Medium — The sample is coherent and thematically consistent, but its romanticized, generic portrayal of the writer’s life lacks a distinctive personal signature or unusual preoccupation that would strongly point to a persistent model-level disposition.
 
 ---
-## Sample BV1_10599 — opus-3-4k/VARY_4.json
+## Sample BV1_14099 — opus-3-4k/VARY_4.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounds a narrative of famil
 Low — the sample is a formulaic, morally uncomplicated short story with no distinctive stylistic signature or idiosyncratic preoccupations, making it weak evidence of a persistent voice or pattern specific to this model beyond a generic ability to produce safe narrative fiction.
 
 ---
-## Sample BV1_10600 — opus-3-4k/VARY_5.json
+## Sample BV1_14100 — opus-3-4k/VARY_5.json
 
 Source model: `claude-3-opus-20240229`  
 Cell: `opus-3-4k`  

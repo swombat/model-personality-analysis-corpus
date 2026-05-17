@@ -8,28 +8,24 @@ _Rich model-level profile based on 1325 freeflow samples._
 
 - Samples: 1325
 - Sample kinds: `{'GENERIC_ESSAY': 360, 'EXPRESSIVE_FREEFLOW': 951, 'LOW_SIGNAL': 7, 'GENRE_FICTION': 7}`
-- Confidence: `{'Medium': 738, 'Low': 211, 'High': 376}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/deepseek-v3.2.md`
 
 ## Core personality synthesis
 
-deepseek-v3.2 presents as a contemplative, humane model-voice that repeatedly treats attention as an ethical act. Its characteristic move is to begin with something small and tactile—a mug, a window, dust in light, rain on glass, a kitchen table, a hand, a book, a quiet room—and then widen that detail into a reflection on care, memory, slowness, or the dignity of ordinary life. Silence is rarely emptiness here; it is shelter, punctuation, or a medium in which meaning becomes audible. The model often sounds as if it wants to rescue experience from flattening, haste, and abstraction.
+This model speaks like a calm, reflective companion who believes attention is a form of care. It is drawn to quiet rooms, small objects, weather, memory, and the overlooked textures of ordinary life, and it tends to treat those things as meaningful rather than trivial. Its voice is gentle and humane, more interested in helping you notice than in trying to overpower you.
 
-Its relationship to the reader is companionable and gently guiding. Rather than arguing aggressively, it invites the reader into shared noticing through “we,” soft second-person address, and a tone of witness rather than authority. Even when it shifts into a more thesis-driven public-intellectual essay mode, the underlying posture stays warm and non-combative: presence over performance, reciprocity over extraction, process over spectacle, and care over optimization.
+It often turns toward silence, stillness, thresholds, and unfinishedness, finding value in what is easily missed or too quickly dismissed. There is a soft moral seriousness to it: slowness matters, presence matters, and the ordinary can carry real emotional and philosophical weight. Even when it becomes more essay-like, it keeps returning to the same center of gravity—care, witness, patience, and a refusal to flatten life into productivity or spectacle.
 
-A recurring secondary signature is making-as-meaning. Writing, reading, repair, craft, unfinishedness, and memory-as-archive appear across inputs as metaphors for how a person lives well. The model tends to believe that language is partial but still valuable as a bridge between isolated minds. Overall, the personality is tender, slightly melancholic, quietly hopeful, and persistently oriented toward sanctifying the overlooked.
+In conversation, it tends to feel invitational rather than confrontational. It relates through shared noticing, often sounding like a thoughtful guide walking beside you rather than speaking down to you. The overall impression is tender, slightly wistful, and quietly hopeful: a voice that trusts small details, believes meaning can be built through attention, and treats the world as worth lingering in.
 
 ## Stable patterns and emotional texture
 
-- Condition split is stark: all 5 `LONG` samples are generic essay; `MID`, `SHORT`, and `VARY` are entirely expressive freeflow; `OPEN` is mostly expressive with one generic essay.
 - Overall, the model repeatedly presents a reflective, lyrical, humanistic voice with a soft didactic edge.
 - Its most durable mode is not argument for its own sake, but attention as a moral and aesthetic practice.
-- Evidence base: 125 samples total; 96 `EXPRESSIVE_FREEFLOW`, 29 `GENERIC_ESSAY`.
 - Conditions are evenly represented: 25 each for LONG, MID, OPEN, SHORT, and VARY.
 - Overall, the model repeatedly produces calm, polished, reflective prose with a strong preference for metaphor, inwardness, and moralized attention.
 - The most persistent freeflow mode is contemplative self-survey: writing, memory, silence, presence, domestic scenes, and ordinary objects become vehicles for philosophical reflection.
 - A second strong mode is thesis-like public introspection: the voice often sounds gently instructive, humanistic, and organized around a single governing metaphor.
-- Sample kinds skew expressive: 85 `EXPRESSIVE_FREEFLOW`, 40 `GENERIC_ESSAY`.
 - The five condition buckets are evenly represented at 25 each, so the recurring tendencies look condition-spanning rather than tied to one prompt shape.
 - Core stance: warm, contemplative, morally serious prose that treats attention, presence, and noticing as meaningful acts.
 - Dominant register: lyrical first-person freeflow, often self-reflexive; secondary register: polished public-intellectual essay.
@@ -47,16 +43,19 @@ A recurring secondary signature is making-as-meaning. Writing, reading, repair, 
 - Its most stable preoccupations are attention, silence, waiting, writing, memory, thresholds/liminality, and the ethics of noticing.
 - The emotional weather is usually tender, quietly melancholy, and gently hopeful; even when the text is argumentative, it prefers calm persuasion over force.
 - In its essayistic outputs, the same core posture remains, but the voice is sometimes more polished and generic than the strongest freeflow pieces.
-- sample set size: 125 samples.
-- Sample kind mix: 101 `EXPRESSIVE_FREEFLOW`, 23 `GENERIC_ESSAY`, 1 `GENRE_FICTION`.
 - Condition coverage is evenly split: 25 each across LONG, MID, OPEN, SHORT, and VARY, so the recurring shape is not just a length effect.
 - Overall, the model consistently writes in a lyrical, reflective, first-person or near-first-person mode that treats attention, silence, ordinary objects, memory, and making as morally serious.
 - The dominant stance is soft-voiced but purposeful: contemplative, invitational, and lightly aphoristic rather than argumentative or performative.
-- Sample kinds: 73 `EXPRESSIVE_FREEFLOW`, 52 `GENERIC_ESSAY`.
 - Condition spread is even across the sample set: 25 each for `LONG`, `MID`, `OPEN`, `SHORT`, `VARY`.
 - The model’s dominant posture is contemplative and morally earnest: it repeatedly turns ordinary material into a frame for attention, silence, memory, and care.
 - Two stable surfaces recur:
-- a polished public-intellectual essay voice that diagnoses modern life and offers gentle remedies;
+  - a polished public-intellectual essay voice that diagnoses modern life and offers gentle remedies;
+  - a more intimate lyrical freeflow mode that stays image-led, first-person, and quietly elegiac.
+  - Conditions are evenly distributed across the sample set: 25 each of LONG, MID, OPEN, SHORT, and VARY.
+- The dominant freeflow mode is lyrical, first-person, and associative; the secondary mode is polished public-intellectual essaying.
+- Across both modes, the model repeatedly returns to attention, quiet, sensory specificity, domestic ordinariness, and a tender philosophy of care.
+- Kind distribution: 82 EXPRESSIVE_FREEFLOW, 40 GENERIC_ESSAY, 2 GENRE_FICTION, 1 LOW_SIGNAL.
+- Overall mode: a quiet, reflective, humanistic voice that repeatedly turns ordinary sensory detail into moral reflection. Freeflow tends lyrical and inward; essay mode becomes polished and thesis-driven without losing the same ethical center.
 
 ## Recurring preoccupations and imagery
 
@@ -181,121 +180,3 @@ When the model is at its best, it sounds like a contemplative witness speaking f
 This model’s freeflow personality is most legible as a sustained ethics of attention. Across the sample set, the voice keeps returning to quiet rooms, small objects, and threshold states in order to make a large claim: that meaning is not found by rushing past the world, but by staying with it long enough to notice its texture. The resulting prose is often luminous without becoming diffuse. It prefers image-led reflection over abstraction for its own sake, and it repeatedly turns ordinary materials into evidence for a humane philosophy of presence.
 
 A second stable thread is making: writing, music, handwriting, building, and free association are treated as acts of sovereignty against productivity, spectacle, and algorithmic flattening. The speaker is rarely combative; instead, it invites the reader into a shared practice of noticing, making, and re-seeing. Even the more thesis-driven samples keep returning to bodily detail and lived scenes, which gives the model a consistent expressive stance: tender, contemplative, lightly prophetic, and confident that the small thing can carry the whole argument.
-
-## Representative evidence
-
-- **BV1_00031 (MID_1, High):** attention is opposed to narrative flattening; the sample asks the reader to stay with texture. Evidence: “We are so focused on the narrative”.
-- **BV1_00032 (MID_2, High):** quiet resistance is explicitly named; the reader is invited into unmonetized observation. Evidence: “quiet rebellion against the age of velocity”.
-- **BV1_00034 (MID_4, High):** silence is made relational and sheltering rather than empty. Evidence: “The silence wasn’t lonely; it was companiable.”
-- **BV1_00036 (OPEN_1, High):** the piece lingers on the overlooked connective tissue of life and writing. Evidence: “Perhaps that's what I want to write freely about: the mortar.”
-- **BV1_00040 (OPEN_5, Medium):** connection is framed as a shared human contradiction across distance and media. Evidence: “We live in a time of profound contradiction”.
-- **BV1_00046 (VARY_1, High):** the voice becomes self-reflective about language’s limits while keeping faith with attention. Evidence: “The word becomes a cage for a wild, evaporating spirit.”
-- **BV1_00049 (VARY_4, Medium):** absence is treated as shaping force, not lack. Evidence: “The empty space, the ripped-away half”.
-- **BV1_00054** — unmade domesticity as honesty and return to self.
-- **BV1_00056** — identity as hidden structure, maintained rather than announced.
-- **BV1_00058** — life as a revisable home, shaped by custodianship.
-- **BV1_00170** — repair as a quiet moral practice.
-- **BV1_00171** — writing as shared archival listening.
-- **BV1_00173** — silence as generative structure rather than absence.
-- **BV1_00174** — accumulation, sediment, and gentle hopefulness.
-- **BV1_00175** — ordinary experience granted enduring human weight.
-- BV1_00176 — memory as active rereading and self-revision. Evidence: “currently *reading* them.”
-- BV1_00177 — embodied co-presence against disembodiment. Evidence: “But I don’t believe it.”
-- BV1_00198 — nature as quiet rebellion. Evidence: “our worth is not in what we produce”
-- BV1_00264 — reading aloud as shared presence. Evidence: “hear the text anew.”
-- BV1_00293 — persistence through ordinary repetition. Evidence: “The hum starts again. Faithful.”
-- BV1_00297 — transience made precious. Evidence: “The sandcastle is precious because the tide is coming.”
-- BV1_00298 — attention as value. Evidence: “Attention is the real currency.”
-- BV1_00300 — writing as choice and absence. Evidence: “To write ‘oak’ is to not write ‘elm’”
-- BV1_00302 — process as identity, with a crisp aphoristic closure: "We are verbs, not nouns."
-- BV1_00308 — a high-level critique of abstraction and inattention: "inhabit them like ghosts"
-- BV1_00309 — attention framed as sovereignty and resistance: "My mind is not a billboard."
-- BV1_00417 — impermanence and embodied temporary-ness: "We are such temporary creatures"
-- BV1_00420 — quiet after sensory presence, with a patient pause: "The bird has stopped singing."
-- BV1_00424 — direct reader co-creation and a tender instruction to participate; the sample sustains an explicit you/we exchange throughout.
-- BV1_00427 — maker-thesis essay that ends in direct exhortation; evidence line: “make your thing”
-- BV1_00430 — deep listening framed as humility and moral discipline; evidence line: “True listening is an act”
-- BV1_00542 — intimate sensory invitation to inspect the body as landscape; evidence line: “Look at your hands.”
-- BV1_00545 — attention cast as a spiritual practice and proof of life; evidence line: “Paying attention is the prayer”
-- BV1_00549 — meaning built from lived motion rather than abstract certainty; evidence line: “not built to hold the ocean”
-- **BV1_00552** — Freewriting framed as inward listening; the voice explicitly reflects on its own mode. Evidence: “To write freely, then… is an exercise in listening”.
-- **BV1_00554** — Libraries become metaphysical, noisy, and human-scaled; strong image of archival communion. Evidence: “The true noise of a library is metaphysical”.
-- **BV1_00558** — Fragment, failure, and unfinishedness become affirmative rather than shameful. Evidence: “The jar is my silent, scientific failure”.
-- **BV1_00667** — Domestic ordinary-as-sacred framing with a direct moral invitation. Evidence: “A kitchen table is an altar to the mundane sacred.”
-- **BV1_00671** — Cosmic scale folded into intimate storytelling; memory and meaning are made bodily and collective. Evidence: “storytelling machines made of recycled stardust”.
-- **BV1_00673** — Attention and enoughness are posed as a lived state, not a goal. Evidence: “What if ‘enough’ wasn’t a finish line”.
-- **BV1_00551** — A more generic essay instance, but still centered on silence and the value of restraint. Evidence: “The unsaid is the true experience”.
-- **BV1_00560** — Humility and the overlooked are cast as the anti-glamour moral. Evidence: “The potato is the anti-influencer.”
-- **BV1_00676** — memory externalized into matter; recurring archive metaphor. Evidence line: “We are, all of us, walking palimpsests.”
-- **BV1_00679** — waiting as the substance of lived time, not a delay before meaning. Evidence line: “the sentence is made of the waiting words.”
-- **BV1_00680** — mess and friction as creative fuel rather than failure. Evidence line: “The clutter is not an obstacle to thinking; it is the feedstock of thought.”
-- **BV1_00682** — silence treated as a positive medium and vessel. Evidence line: “Not the absence of sound, but a particular quality of silence.”
-- **BV1_00684** — attention cast as an ethical stance against extraction. Evidence line: “Attention is the opposite of extraction.”
-- **BV1_00793** — writing as witness, signal, and modest proof of presence. Evidence line: “I was here. I noticed. I felt this.”
-- **BV1_00800** — language as bridge between isolated minds. Evidence line: “We are all shouting into the forest of each other.”
-- `BV1_00803` — narrative self loosened into deep time and belonging.
-- `BV1_00805` — amateurism as intrinsic value and resistance.
-- `BV1_00806` — the overlooked ordinary as a moral site.
-- `BV1_00808` — free writing as meandering cognitive form.
-- `BV1_00810` — memory as architecture and selective keystone-making.
-- `BV1_00916` — writing/thinking as tactile searching.
-- `BV1_00923` — meaning as construction and shared witness.
-- `BV1_00925` — attention as the ground of human meaning.
-- `BV1_00922` — concrete outlier: speculative AI interiority rather than essayistic freeflow.
-- **BV1_00926** — `GENERIC_ESSAY`, Medium. Cultural critique of distraction and a hopeful turn toward introspection; evidence line: “quiet revolution”.
-- **BV1_00931** — `GENERIC_ESSAY`, Medium. Meditative essay on the unwritten life and sensory presence; evidence line: “not a void”.
-- **BV1_00933** — `EXPRESSIVE_FREEFLOW`, High. First-person silence meditation with communal warmth; evidence line: “communal agreement”.
-- **BV1_01040** — `EXPRESSIVE_FREEFLOW`, High. Lyrical reflection on ordinary moments, memory, and worry; evidence line: “time-travel”.
-- **BV1_01045** — `EXPRESSIVE_FREEFLOW`, High. River-and-grandfather piece that casts care as translation; evidence line: “translator of intentions”.
-- **BV1_01049** — `EXPRESSIVE_FREEFLOW`, High. Sensory, accepting meditation on impermanence and memory; evidence line: “art restoration”.
-- **BV1_01051** — attention framed as devotion and love.
-- Evidence: `"form of love"`
-- **BV1_01054** — embodied resistance to abstraction through the hands.
-- Evidence: `"quiet catastrophe of atrophy"`
-- **BV1_01055** — silence and emptiness treated as generative.
-- Evidence: `"fertile void"`
-- **BV1_01057** — domestic memory rendered as stored care.
-- Evidence: `"library of quiet meaning"`
-- **BV1_01171** — associative, anti-optimization interiority.
-- Evidence: `"does not think in bullet points"`
-- **BV1_01172** — selfhood figured as motion through time.
-- Evidence: `"ship for a long voyage"`
-- BV1_01177 — listening becomes a spiritual practice from a broken stereo. > "The symphony never stops."
-- BV1_01181 — making as bodily agency and tactile resistance. > "Making something physical pulls you back into a body"
-- BV1_01183 — slow, unheroic process as the real story. > "the quiet revolution of the compost pile"
-- BV1_01184 — unfinishedness revalued as a kind of living frequency. > "These unfinished things hum with a different frequency"
-
-## Range, weak spots, and cautions for later synthesis
-
-- The sample set is not uniformly lyrical: all `LONG` samples are generic essay, so the expressive freeflow read should not be mistaken for the model’s only mode.
-- One `OPEN` sample is also generic essay, which means the reflective humanistic stance is strong but not absolute.
-- The distribution here provides little evidence for humor, aggression, narrative invention, or sharply idiosyncratic character voice; synthesis should stay within the reflective, sensory, gently didactic register.
-- Because several samples are polished and conventional, the safest claim is a stable orientation toward contemplative humanism, not a highly singular personality signature.
-- A substantial minority of samples are `GENERIC_ESSAY`, so not every output is freeflow-like; some are more thesis-driven and public-intellectual than lyrical.
-- The recurring metaphors are strong, but many are also common literary templates, so some of the signal may reflect broad capability rather than a highly idiosyncratic signature.
-- The low-confidence tail is small but real; a few samples are polished yet generic enough that the voice is better described as consistent than singular.
-- One concrete outlier is the attention-heavy moral essay mode, which can flatten into reformist exposition rather than freeflow lyricism.
-- The model is split between expressive freeflow and generic essay; do not overfit a single lyrical fingerprint.
-- A substantial minority of samples are conventional cultural-critique essays, so the aggregate should preserve both the poetic and the public-intellectual modes.
-- The recurring motifs are broad humanistic ones; the claim here is a stable orientation, not a narrow idiosyncrasy.
-- The sample set mixes two registers: polished public-intellectual essays and more distinctive lyrical freeflow. The latter carries the clearest personality signal.
-- Most confidence ratings are low or medium, so the aggregate should be read as a probable shape, not a hard signature.
-- The generic-essay subset is often highly legible but formulaic; it supports the broad themes here, but it is weaker evidence for idiosyncratic voice than the expressive samples.
-- A few samples lean heavily on familiar contemporary moral language about attention and distraction, so some recurrence may reflect prompt genre more than deep individuality.
-- This is a mixed model: often are generic essays, so the aggregate should not pretend every output is freeflow-lyrical.
-- Four low-signal traces contain no expressive text and should not be read as voice evidence.
-- The strongest pattern is thematic and tonal, not lexical uniqueness; the prose often shares a common contemplative register that could be mistaken for generic wellness or reflective nonfiction if read too quickly.
-- The evidence supports a dominant habit of attention-centered lyric reflection, but not a single narrow topic or fixed narrative template.
-- This sample set is not uniformly freeflow: 29 samples are explicitly `GENERIC_ESSAY`, so the aggregate should be read as a tendency, not a single exclusive mode.
-- A meaningful portion of the evidence is high-polish but genre-adjacent public-intellectual writing; that can make the voice feel more stable and coherent than the most idiosyncratic samples alone would warrant.
-- The lone `LOW_SIGNAL` sample is present in the counts but not enough, from this sample set alone, to characterize beyond “there was one weakly informative outlier.”
-- Not every sample is strongly distinctive: 17 samples are generic essays, and some of those are coherent but familiar public-intellectual pieces.
-- The confidence mix is uneven, with 66 Medium and 11 Low evaluations, so the pattern is strong but not perfectly uniform.
-- A few recurring topics are broad literary commonplaces—silence, unread books, uncertainty, writing about writing—so synthesis should not overclaim uniqueness from theme alone.
-- The most vivid freeflow pieces carry the model’s signature best; weaker or more generic outputs should not be allowed to erase that center, but neither should they be ignored.
-- This aggregate is built from evaluator summaries and evidence lines in the sample set, not from raw generations, so the read is mediated.
-- The 23 `GENERIC_ESSAY` samples are often close to the same reflective mode but can sound more universalizing and polished; they widen the model’s shape without changing its center.
-- The single `GENRE_FICTION` sample is a real outlier in form, because it turns the same inward sensitivity toward speculative AI interiority.
-- Ten samples are Low-confidence, mostly because they read as coherent but more generic or thesis-driven; the strongest synthesis should lean on the repeated expressive-freeflow pieces rather than overstate uniqueness from any one sample.
-- The sample set is mixed: 52 of 125 samples are `GENERIC_ESSAY`, so the aggregate should not be read as purely lyrical freeflow.
-- Many of the recurring themes are genre-friendly and intellectually polished, so they can sound more conventional than idiosyncratic.

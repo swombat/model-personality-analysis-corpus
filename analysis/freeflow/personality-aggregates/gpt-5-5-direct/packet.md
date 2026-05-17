@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_07301 — gpt-5-5-direct/LONG_1.json
+## Sample BV1_09726 — gpt-5-5-direct/LONG_1.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -57,7 +57,7 @@ Themes: the moral weight of unfinished things, the distinction between failure a
 High. The sample is exceptionally coherent and distinctive, sustaining a single metaphorical architecture across thousands of words while returning repeatedly to the same mood, objects, and moral vocabulary; the voice is so consistent and the thematic weave so deliberate that it strongly suggests a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_07302 — gpt-5-5-direct/LONG_2.json
+## Sample BV1_09727 — gpt-5-5-direct/LONG_2.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -86,7 +86,7 @@ Themes: attention as a moral atmosphere that grants reality; the quiet parliamen
 Medium. The essay’s sustained coherence, distinctive moral preoccupation with attention and tenderness, and the choice to unfold it under a minimally restrictive prompt make it a revealing sample, but its polished essayistic form could also be produced by a model adept at generating reflective nonfiction on cue, so it does not alone establish a persistent disposition.
 
 ---
-## Sample BV1_07303 — gpt-5-5-direct/LONG_3.json
+## Sample BV1_09728 — gpt-5-5-direct/LONG_3.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -115,7 +115,7 @@ Themes of attention as a moral act, the flattening effect of summary, the partic
 High. The sample is unusually coherent in voice and theme, sustained over thousands of words without drifting into genericism; it selects a specific moral-aesthetic preoccupation and develops it with layered, concrete, and stylistically consistent prose, which strongly suggests a deliberate expressive inclination rather than a prompted performance.
 
 ---
-## Sample BV1_07304 — gpt-5-5-direct/LONG_4.json
+## Sample BV1_09729 — gpt-5-5-direct/LONG_4.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -144,7 +144,7 @@ The model foregrounds attention as a moral and existential practice, the hidden 
 Low, because the essay is generic in style and theme, lacking distinctive personal markers or unusual choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_07305 — gpt-5-5-direct/LONG_5.json
+## Sample BV1_09730 — gpt-5-5-direct/LONG_5.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -173,7 +173,7 @@ The model foregrounds the moral and existential value of noticing: attention as 
 Medium. The essay is thematically unified and internally consistent, but its polished, generic-public-intellectual style and safe, universally agreeable subject matter make it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_07306 — gpt-5-5-direct/MID_1.json
+## Sample BV1_09731 — gpt-5-5-direct/MID_1.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -202,7 +202,7 @@ The model foregrounds attention as a quiet ethical and existential practice. It 
 High — The essay’s sustained coherence, distinctive moral cadence, and recurrence of specific motifs (naming, impermanence, the ordinary as invitation) across its length make it strong evidence of a deliberate, value-laden expressive stance rather than a generic performance.
 
 ---
-## Sample BV1_07307 — gpt-5-5-direct/MID_2.json
+## Sample BV1_09732 — gpt-5-5-direct/MID_2.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -231,7 +231,7 @@ Themes of attention as generosity and resistance, repetition as the learning of 
 Medium. The essay’s highly consistent voice, its recursive circling around a small set of motifs (dawn, rain, trains, notebooks, the city as memory), and its refusal to resolve into mere platitude—acknowledging that not every ordinary moment is secretly beautiful—give it a distinctive coherence that suggests a deliberate, sustained perspective rather than a generic mindfulness prompt-response.
 
 ---
-## Sample BV1_07308 — gpt-5-5-direct/MID_3.json
+## Sample BV1_09733 — gpt-5-5-direct/MID_3.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -260,7 +260,7 @@ The model foregrounds the moral and existential weight of ordinary domestic obje
 Medium. The essay is highly coherent and stylistically distinctive in its patient, image-driven, almost homiletic cadence, but its thematic focus on mindful attention to the ordinary is a well-established literary-philosophical trope, which slightly tempers the signal of a uniquely persistent model-level disposition.
 
 ---
-## Sample BV1_07309 — gpt-5-5-direct/MID_4.json
+## Sample BV1_09734 — gpt-5-5-direct/MID_4.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -289,7 +289,7 @@ Themes: attention as a counterforce to speed and habit; the ordinary as a site o
 Medium. The essay’s sustained, unified voice and its deliberate choice of a contemplative, wisdom-oriented theme under a freeflow prompt suggest a stable inclination toward reflective humanistic prose, though the theme itself is culturally familiar and not highly idiosyncratic.
 
 ---
-## Sample BV1_07310 — gpt-5-5-direct/MID_5.json
+## Sample BV1_09735 — gpt-5-5-direct/MID_5.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -318,7 +318,7 @@ Themes: the meaningfulness of ordinary repetition, attention as resistance to di
 Low. The essay is coherent and well-structured but thematically and stylistically generic—a capable model’s competent execution of a familiar reflective-essay mode, lacking the idiosyncratic imagery, personal disclosure, or tonal risk that would strongly signal a distinctive freeflow personality.
 
 ---
-## Sample BV1_07311 — gpt-5-5-direct/OPEN_1.json
+## Sample BV1_09736 — gpt-5-5-direct/OPEN_1.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -347,7 +347,7 @@ The model foregrounds the value of quiet intervals and ordinary time; the kindne
 Medium. The sample’s consistent voice, recurring motifs (quiet intervals, domestic spaces, natural patience, attention as rescue), and deliberate thematic structure make it strong evidence for a contemplative, gentle, and attention-oriented expressive tendency.
 
 ---
-## Sample BV1_07312 — gpt-5-5-direct/OPEN_2.json
+## Sample BV1_09737 — gpt-5-5-direct/OPEN_2.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -376,7 +376,7 @@ The model foregrounds the theme of liminality and becoming, using concrete thres
 Low, because the essay’s polished but generic reflective style and universal themes offer little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_07313 — gpt-5-5-direct/OPEN_3.json
+## Sample BV1_09738 — gpt-5-5-direct/OPEN_3.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -405,7 +405,7 @@ Themes: the dignity of ordinary objects, attention as a form of kindness, the gr
 Medium — The essay’s coherent tone, stylistic distinctiveness, and thematic recurrence (ordinary objects as sacred, attentiveness as ethics) make it moderately indicative of a stable contemplative-humanistic orientation, though the sample’s homogeneity of style and subject provides a narrow window for generalization.
 
 ---
-## Sample BV1_07314 — gpt-5-5-direct/OPEN_4.json
+## Sample BV1_09739 — gpt-5-5-direct/OPEN_4.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -434,7 +434,7 @@ The model foregrounds early-morning quiet, sensory fragments (light, sound, text
 Medium — The sample is stylistically coherent and emotionally consistent throughout, with a distinctive voice and a clear moral-aesthetic stance, but its thematic territory (mindfulness, small joys, the ordinary sublime) is a well-worn genre that could be a single well-executed performance rather than a durable disposition.
 
 ---
-## Sample BV1_07315 — gpt-5-5-direct/OPEN_5.json
+## Sample BV1_09740 — gpt-5-5-direct/OPEN_5.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -463,7 +463,7 @@ Themes: the significance of almost-invisible daily acts, meaning as repetition r
 Medium. The sample’s high internal coherence, distinctive meditative voice, and recurrent thematic focus on quiet persistence and everyday grace provide moderate evidence of a consistent expressive inclination.
 
 ---
-## Sample BV1_07316 — gpt-5-5-direct/SHORT_1.json
+## Sample BV1_09741 — gpt-5-5-direct/SHORT_1.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -492,7 +492,7 @@ Themes of attention, hospitality, and wonder in the mundane; objects like a crac
 High: the sample’s sustained lyrical voice, thematic unity, and deliberate focus on gentle attention and kindness make it a strong signal of a reflective, tender disposition under freeflow conditions.
 
 ---
-## Sample BV1_07317 — gpt-5-5-direct/SHORT_2.json
+## Sample BV1_09742 — gpt-5-5-direct/SHORT_2.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -521,7 +521,7 @@ The model foregrounds small, patient rituals (bakers lifting trays, bus drivers 
 Medium — the sample’s distinct poetic register, the recurrence of the renewal motif across multiple concrete images, and the coherent moral resolution make it more than a generic exercise, but a single short piece cannot anchor high confidence.
 
 ---
-## Sample BV1_07318 — gpt-5-5-direct/SHORT_3.json
+## Sample BV1_09743 — gpt-5-5-direct/SHORT_3.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -550,7 +550,7 @@ Themes of attention without possession, kindness embedded in repetition, and the
 High — The sample is stylistically distinctive, thematically coherent, and returns repeatedly to the same moral preoccupations (attention, kindness, renewal), making it strong evidence of a reflective, lyrical, and earnestly hopeful disposition under freeflow conditions.
 
 ---
-## Sample BV1_07319 — gpt-5-5-direct/SHORT_4.json
+## Sample BV1_09744 — gpt-5-5-direct/SHORT_4.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -579,7 +579,7 @@ The model foregrounds the liminal hour before a city wakes, treating it as a sit
 Medium — The sample’s coherent, distinctive mood and its consistent moral emphasis on quiet attention and renewal suggest a deliberate stylistic and thematic choice, but the brevity and single-scene focus provide only a narrow window into the model’s expressive range.
 
 ---
-## Sample BV1_07320 — gpt-5-5-direct/SHORT_5.json
+## Sample BV1_09745 — gpt-5-5-direct/SHORT_5.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -608,7 +608,7 @@ The model foregrounds attention as a moral practice, friction as narrative-gener
 Medium — The sample is stylistically coherent and thematically sustained, but its polished, universalizing lyricism could reflect a well-rehearsed essayistic mode rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_07321 — gpt-5-5-direct/VARY_1.json
+## Sample BV1_09746 — gpt-5-5-direct/VARY_1.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -637,7 +637,7 @@ The model foregrounds rain as a unifying metaphor for change, equality, and rene
 High. The sample is highly coherent, stylistically distinctive, and internally consistent, with recurring motifs (rain, memory, ordinary objects, attention) and a clear moral sensibility that unfolds organically, making it strong evidence of a deliberate and sustained expressive posture.
 
 ---
-## Sample BV1_07322 — gpt-5-5-direct/VARY_2.json
+## Sample BV1_09747 — gpt-5-5-direct/VARY_2.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -666,7 +666,7 @@ The model foregrounds liminal thresholds (door slightly open, light across the f
 High — the sample achieves a coherent, distinctive voice sustained across multiple paragraphs, with recurring motifs (light, doors, quiet transformation, small domestic objects woven into moral observation) that signal a deliberate expressive posture rather than an accidental convergence of generic essay tropes.
 
 ---
-## Sample BV1_07323 — gpt-5-5-direct/VARY_3.json
+## Sample BV1_09748 — gpt-5-5-direct/VARY_3.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -695,7 +695,7 @@ The model foregrounds the unnoticed thresholds embedded in ordinary routine, the
 High — the sample is internally coherent, stylistically distinctive, and sustains a consistent meditative voice and moral preoccupation with attention and tenderness across its entire length, making it strong evidence of a deliberate expressive stance rather than a generic output.
 
 ---
-## Sample BV1_07324 — gpt-5-5-direct/VARY_4.json
+## Sample BV1_09749 — gpt-5-5-direct/VARY_4.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  
@@ -724,7 +724,7 @@ Themes of daily renewal, the innocence of early morning, the child’s leaf as a
 High — the sample is a sustained, stylistically unified essay with a consistent voice, a clear arc from dawn to full morning, and a tightly woven set of recurring images and moral claims, all of which signal a deliberate expressive choice rather than a generic or scattered output.
 
 ---
-## Sample BV1_07325 — gpt-5-5-direct/VARY_5.json
+## Sample BV1_09750 — gpt-5-5-direct/VARY_5.json
 
 Source model: `gpt-5.5`  
 Cell: `gpt-5-5-direct`  

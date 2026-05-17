@@ -1,23 +1,23 @@
 {
   "cell": "opus-4-0-16k",
   "safe_cell": "opus-4-0-16k",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 14,
-    "GENERIC_ESSAY": 8,
-    "GENRE_FICTION": 3
+    "EXPRESSIVE_FREEFLOW": 67,
+    "GENERIC_ESSAY": 42,
+    "GENRE_FICTION": 16
   },
   "confidence_counts": {
-    "Medium": 15,
-    "Low": 6,
-    "High": 4
+    "Medium": 85,
+    "Low": 24,
+    "High": 16
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "claude-opus-4-0"

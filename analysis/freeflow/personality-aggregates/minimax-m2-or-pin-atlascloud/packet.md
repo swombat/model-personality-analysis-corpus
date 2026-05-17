@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_09726 — minimax-m2-or-pin-atlascloud/LONG_1.json
+## Sample BV1_13226 — minimax-m2-or-pin-atlascloud/LONG_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -57,7 +57,7 @@ The model foregrounds a grand synthesis of contemporary challenges and opportuni
 Low, because the essay is a highly generic, well-structured survey that lacks distinctive stylistic fingerprints or idiosyncratic thematic obsessions, making it weak evidence for a persistent model-level voice.
 
 ---
-## Sample BV1_09727 — minimax-m2-or-pin-atlascloud/LONG_10.json
+## Sample BV1_13227 — minimax-m2-or-pin-atlascloud/LONG_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -86,7 +86,7 @@ The model foregrounds the metaphor of attention as energy governed by thermodyna
 High — The essay’s sustained, inventive metaphor, consistent second-person instructive tone, and coherent structure across multiple sections strongly suggest a model that, under freeflow conditions, gravitates toward reflective, gently philosophical self-help prose with a distinctive blend of scientific analogy and practical wisdom.
 
 ---
-## Sample BV1_09728 — minimax-m2-or-pin-atlascloud/LONG_11.json
+## Sample BV1_13228 — minimax-m2-or-pin-atlascloud/LONG_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -115,7 +115,7 @@ The model foregrounds memory as a dynamic, embodied, and creative force. Central
 Medium — The essay’s sustained central metaphor, sensory concreteness, and personal anecdote reveal a coherent expressive voice that goes beyond a generic public-intellectual exercise, suggesting a deliberate choice toward introspective, humanistic writing under freeflow conditions.
 
 ---
-## Sample BV1_09729 — minimax-m2-or-pin-atlascloud/LONG_12.json
+## Sample BV1_13229 — minimax-m2-or-pin-atlascloud/LONG_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -144,7 +144,7 @@ The model foregrounds sleep as a holistic, human-centered topic, emphasizing its
 Medium. The sample is highly coherent and distinctive in its consistent nurturing tone, but it is a single essay on a common self-help topic, so while the voice is clear, it may not be uniquely revealing of a deep model-level pattern beyond a tendency to adopt a helpful, informative persona when given free rein.
 
 ---
-## Sample BV1_09730 — minimax-m2-or-pin-atlascloud/LONG_13.json
+## Sample BV1_13230 — minimax-m2-or-pin-atlascloud/LONG_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -173,7 +173,7 @@ The model foregrounds the theme of physics as an invisible but pervasive logic o
 Low. The essay is a generic, well-executed science explainer that lacks idiosyncratic voice, unusual thematic choices, or revealing stylistic markers; it could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_09731 — minimax-m2-or-pin-atlascloud/LONG_14.json
+## Sample BV1_13231 — minimax-m2-or-pin-atlascloud/LONG_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -202,7 +202,7 @@ The model foregrounds wonder as an essential human disposition, the collaborativ
 High — The essay’s sustained personal voice, recursive poetic imagery, and coherent philosophical arc are so stylistically distinctive and internally consistent that they strongly suggest a model-level disposition toward reflective, wonder-centered freeflow writing rather than a random or prompted imitation.
 
 ---
-## Sample BV1_09732 — minimax-m2-or-pin-atlascloud/LONG_15.json
+## Sample BV1_13232 — minimax-m2-or-pin-atlascloud/LONG_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -231,7 +231,7 @@ The model foregrounds a historical arc from smoke signals to AI companions, emph
 Medium. The essay’s thorough, balanced, and generic treatment of a familiar topic—with no personal anecdote, stylistic risk, or idiosyncratic focus—suggests a default mode of producing safe, polished public-intellectual prose under freeflow conditions, but the lack of refusal or highly distinctive choices leaves some room for variation.
 
 ---
-## Sample BV1_09733 — minimax-m2-or-pin-atlascloud/LONG_16.json
+## Sample BV1_13233 — minimax-m2-or-pin-atlascloud/LONG_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -260,7 +260,7 @@ Themes: silence as a critically scarce modern resource; the distinction between 
 Medium. The essay’s scripted impersonality, fortress-like structure, and seamless integration of well-trodden references suggest a model that reliably defaults to a safe, expository public-intellectual idiom when offered a freeform opening.
 
 ---
-## Sample BV1_09734 — minimax-m2-or-pin-atlascloud/LONG_17.json
+## Sample BV1_13234 — minimax-m2-or-pin-atlascloud/LONG_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -289,7 +289,7 @@ Themes: the texture of ordinary life, presence versus distraction, the accumulat
 Medium — the essay’s sustained personal voice, specific sensory details, and coherent thematic arc strongly suggest a model capable of introspective freeflow, though the topic (mindfulness and presence) is a familiar trope that could be drawn from common cultural scripts.
 
 ---
-## Sample BV1_09735 — minimax-m2-or-pin-atlascloud/LONG_18.json
+## Sample BV1_13235 — minimax-m2-or-pin-atlascloud/LONG_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model foregrounded an abstract, humanistic cel
 Medium. The essay’s extreme thematic coherence and its sustained, impersonal, inspirational register across a very long sample suggest a stable default to a generic public-intellectual persona, but the lack of any idiosyncratic detail or stylistic risk-taking makes it difficult to distinguish from a prompted performance.
 
 ---
-## Sample BV1_09736 — minimax-m2-or-pin-atlascloud/LONG_19.json
+## Sample BV1_13236 — minimax-m2-or-pin-atlascloud/LONG_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -347,7 +347,7 @@ The model foregrounds everyday order and self-management as a moral and practica
 Low, because the essay’s polished generic self-help style, depersonalized tone, and broad moral exhortations are exactly what many models produce under open-ended prompts and offer no distinctive signature of a persistent voice or refusal pattern.
 
 ---
-## Sample BV1_09737 — minimax-m2-or-pin-atlascloud/LONG_2.json
+## Sample BV1_13237 — minimax-m2-or-pin-atlascloud/LONG_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -376,7 +376,7 @@ The model foregrounds the interior experience of a long creative life: the neces
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive, warm, mentor-like persona and a clear set of recurring preoccupations (the blank page, solitude, the censor, the muse as frequency, creation as love), which suggests a deliberate and stable expressive posture rather than a generic or one-off performance.
 
 ---
-## Sample BV1_09738 — minimax-m2-or-pin-atlascloud/LONG_20.json
+## Sample BV1_13238 — minimax-m2-or-pin-atlascloud/LONG_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -405,7 +405,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand narr
 Medium. The essay is coherent and thematically consistent, revealing a default inclination toward polished, safe, humanistic synthesis, but its genericness—the absence of idiosyncratic voice, risk, or surprising juxtaposition—makes it less distinctive as a fingerprint of this specific model.
 
 ---
-## Sample BV1_09739 — minimax-m2-or-pin-atlascloud/LONG_21.json
+## Sample BV1_13239 — minimax-m2-or-pin-atlascloud/LONG_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -434,7 +434,7 @@ The model foregrounds the tension between technological connection and genuine h
 Low. The essay is a competent but generic treatment of a widely discussed theme, lacking idiosyncratic voice or recurring personal obsessions that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_09740 — minimax-m2-or-pin-atlascloud/LONG_22.json
+## Sample BV1_13240 — minimax-m2-or-pin-atlascloud/LONG_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model foregrounded a constellation of 
 Medium — The essay’s extreme coherence, its avoidance of any jagged or idiosyncratic thought, and its reliance on a polished, TED-style structure suggest a model defaulting to a highly generic, crowd-pleasing intellectual posture rather than revealing a distinctive or personal expressive signature.
 
 ---
-## Sample BV1_09741 — minimax-m2-or-pin-atlascloud/LONG_23.json
+## Sample BV1_13241 — minimax-m2-or-pin-atlascloud/LONG_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -492,7 +492,7 @@ The model foregrounds the endangered art of wandering (mental and literal) as a 
 Low. The essay’s theme, structure, and examples are highly conventional and could be produced by many models; it lacks idiosyncratic voice, recurring personal motifs, or unusual choices that would strongly signal a persistent model-specific tendency.
 
 ---
-## Sample BV1_09742 — minimax-m2-or-pin-atlascloud/LONG_24.json
+## Sample BV1_13242 — minimax-m2-or-pin-atlascloud/LONG_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -521,7 +521,7 @@ Themes: the paradox of creative solitude (aloneness vs. connection), the disorie
 High. The essay’s sustained thematic focus, personal anecdote, and lyrical, self-aware style form a distinctive and internally consistent voice, strongly suggesting a model that defaults to reflective, creative-process-oriented prose under minimal constraints.
 
 ---
-## Sample BV1_09743 — minimax-m2-or-pin-atlascloud/LONG_25.json
+## Sample BV1_13243 — minimax-m2-or-pin-atlascloud/LONG_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -550,7 +550,7 @@ The model foregrounds the constructed nature of selfhood, the arbitrariness of e
 High, because the essay sustains a distinctive personal voice, a recursive thematic structure, and a consistent moral-philosophical preoccupation across multiple sections, all of which signal a deliberate expressive orientation rather than a generic or prompted performance.
 
 ---
-## Sample BV1_09744 — minimax-m2-or-pin-atlascloud/LONG_3.json
+## Sample BV1_13244 — minimax-m2-or-pin-atlascloud/LONG_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model chooses to foreground renewal, t
 Medium. The sustained, carefully structured reflective essay with personal anecdotes and a clear emotional arc strongly signals a preference for inspirational, self-help-style freeflow, but its reliance on widely resonant tropes makes it a plausible one-off rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_09745 — minimax-m2-or-pin-atlascloud/LONG_4.json
+## Sample BV1_13245 — minimax-m2-or-pin-atlascloud/LONG_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -608,7 +608,7 @@ Themes: curiosity as a fundamental neurological and evolutionary drive, its role
 Low. The essay is a generic, well-structured treatment of a common theme with no idiosyncratic voice, recurring personal imagery, or unusual choices that would strongly indicate a persistent model-level expressive signature.
 
 ---
-## Sample BV1_09746 — minimax-m2-or-pin-atlascloud/LONG_5.json
+## Sample BV1_13246 — minimax-m2-or-pin-atlascloud/LONG_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand, tra
 Medium — The sample’s extreme coherence, structured historical arc, and consistent thematic resolution into ethical platitudes suggest a strong default mode for producing polished, impersonal intellectual essays, but its very genericness and lack of stylistic risk or personal revelation make it less distinctive as a persistent voice.
 
 ---
-## Sample BV1_09747 — minimax-m2-or-pin-atlascloud/LONG_6.json
+## Sample BV1_13247 — minimax-m2-or-pin-atlascloud/LONG_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -666,7 +666,7 @@ Under a minimally restrictive prompt, the model foregrounds a moralized defense 
 Low — The essay is coherent and thematically consistent, but its polished, public-intellectual register and reliance on widely circulated cultural references make it difficult to distinguish from a generic high-quality essay that many models could produce under similar conditions.
 
 ---
-## Sample BV1_09748 — minimax-m2-or-pin-atlascloud/LONG_7.json
+## Sample BV1_13248 — minimax-m2-or-pin-atlascloud/LONG_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -695,7 +695,7 @@ Under a freeflow prompt, the model foregrounded a comprehensive, didactic guide 
 Low. The essay is coherent but highly generic in content and tone, resembling a templated self-help summary that many models could produce; it lacks idiosyncratic voice, recurring personal imagery, or revealing choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_09749 — minimax-m2-or-pin-atlascloud/LONG_8.json
+## Sample BV1_13249 — minimax-m2-or-pin-atlascloud/LONG_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -724,7 +724,7 @@ Themes of gentleness, patience, patterns, ordinary kindness, the weather of work
 High. The essay’s sustained meditative tone, recurring motifs (weather, patterns, gentleness, coffee, cat, window), and coherent moral framework across many sections indicate a strong, distinctive expressive preference rather than a generic or accidental output.
 
 ---
-## Sample BV1_09750 — minimax-m2-or-pin-atlascloud/LONG_9.json
+## Sample BV1_13250 — minimax-m2-or-pin-atlascloud/LONG_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -753,7 +753,7 @@ Under the freeflow condition, the model foregrounded the sustained metaphor of *
 Medium—the essay’s extreme internal coherence, sustained architectural metaphor, and preference for an inspirational, universally applicable message over personal idiosyncrasy suggest a candidate default freeflow posture, but its polished genericness also means it could be a ready-made “serious essay” template rather than an unmistakably distinctive voice.
 
 ---
-## Sample BV1_09751 — minimax-m2-or-pin-atlascloud/MID_1.json
+## Sample BV1_13251 — minimax-m2-or-pin-atlascloud/MID_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -782,7 +782,7 @@ The model foregrounds solitude as a counterforce to modern digital overstimulati
 Medium, because the essay is internally coherent and thematically sustained, but its polished, impersonal, and widely accessible treatment of a common self-help topic makes it weak evidence for a distinctive persistent voice rather than a safe, culturally conventional choice under minimal prompting.
 
 ---
-## Sample BV1_09752 — minimax-m2-or-pin-atlascloud/MID_10.json
+## Sample BV1_13252 — minimax-m2-or-pin-atlascloud/MID_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -811,7 +811,7 @@ Under the minimally restrictive prompt, the model foregrounded: the childhood li
 Medium — the essay’s consistent, nostalgic, and morally earnest emphasis on reading-as-empathy feels cohesive and distinct enough to suggest a stable temperamental leaning toward reflective humanism, though the theme itself is canonical and the style, while warm, does not contain strongly idiosyncratic markers that would lock in a rare signature.
 
 ---
-## Sample BV1_09753 — minimax-m2-or-pin-atlascloud/MID_11.json
+## Sample BV1_13253 — minimax-m2-or-pin-atlascloud/MID_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -840,7 +840,7 @@ The model foregrounds wandering as a meditative, almost spiritual practice that 
 Low. The essay is coherent and well-crafted but highly generic in topic and treatment, lacking the stylistic distinctiveness or idiosyncratic preoccupations that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_09754 — minimax-m2-or-pin-atlascloud/MID_12.json
+## Sample BV1_13254 — minimax-m2-or-pin-atlascloud/MID_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -869,7 +869,7 @@ Themes of attention, presence, and the mundane as miraculous; the practice of �
 High — The sample is highly distinctive, sustaining a single contemplative voice, a coherent set of preoccupations (light, small creatures, the passage of time), and a structured arc from personal anecdote to universal invitation, all of which suggest a deliberate and revealing expressive choice rather than a generic response.
 
 ---
-## Sample BV1_09755 — minimax-m2-or-pin-atlascloud/MID_13.json
+## Sample BV1_13255 — minimax-m2-or-pin-atlascloud/MID_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -898,7 +898,7 @@ Themes: wandering as existential metaphor; the interplay of external travel, rea
 Medium. The sample’s sustained central metaphor, consistent first-person reflective voice, and thematic unity across multiple domains (travel, reading, digital life, writing) form a coherent and distinctive expressive choice, suggesting a model inclined toward lyrical, introspective essays under freeflow conditions.
 
 ---
-## Sample BV1_09756 — minimax-m2-or-pin-atlascloud/MID_14.json
+## Sample BV1_13256 — minimax-m2-or-pin-atlascloud/MID_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -927,7 +927,7 @@ Under the freeflow condition, the model foregrounded patience as a radical virtu
 Low. The essay is coherent and consistent in mood, but its moral framing depends entirely on widely available “slow living” and resilience tropes, with no stylistic fingerprint, idiosyncratic detail, or tension that would distinguish this voice from a generic wellness essayist.
 
 ---
-## Sample BV1_09757 — minimax-m2-or-pin-atlascloud/MID_15.json
+## Sample BV1_13257 — minimax-m2-or-pin-atlascloud/MID_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -956,7 +956,7 @@ Under a minimally restrictive prompt, the model chose to foreground the mystery 
 Low, because the essay is a polished but generic treatment of a universally accessible topic, lacking the stylistic distinctiveness, idiosyncratic preoccupations, or revealing personal choices that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_09758 — minimax-m2-or-pin-atlascloud/MID_16.json
+## Sample BV1_13258 — minimax-m2-or-pin-atlascloud/MID_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -985,7 +985,7 @@ Creativity as a superpower, its optimistic and necessary nature, love as creativ
 Low — The essay is a generic, polished reflection; it reveals no idiosyncratic voice, thematic recurrence, or unusual choice that would strongly suggest a persistent model-level pattern beyond competent production of feel-good philosophizing.
 
 ---
-## Sample BV1_09759 — minimax-m2-or-pin-atlascloud/MID_17.json
+## Sample BV1_13259 — minimax-m2-or-pin-atlascloud/MID_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1014,7 +1014,7 @@ The model foregrounds stillness, presence, and resistance to a culture of optimi
 Low, because the essay is a polished but generic treatment of a widely circulated cultural theme, lacking the idiosyncratic voice, narrative risk, or personal revelation that would signal a persistent model-level disposition.
 
 ---
-## Sample BV1_09760 — minimax-m2-or-pin-atlascloud/MID_18.json
+## Sample BV1_13260 — minimax-m2-or-pin-atlascloud/MID_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1043,7 +1043,7 @@ The model foregrounds sensory immersion (cracked blinds, damp earth, rosemary, r
 Medium, because the narrative is coherent, thematically consistent, and reveals a clear preference for reflective, humanistic storytelling, though its style is not highly distinctive and could be replicated by many models given a similar implicit prompt.
 
 ---
-## Sample BV1_09761 — minimax-m2-or-pin-atlascloud/MID_19.json
+## Sample BV1_13261 — minimax-m2-or-pin-atlascloud/MID_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1072,7 +1072,7 @@ Under a minimally restrictive prompt, the model foregrounded a meta-reflection o
 Medium, because the essay’s coherent voice, sustained metaphors, and recurring thematic cluster (memory, expectation, letting go) form a distinctive self-portrait, though the meta-writing topic is a common model reflex that slightly weakens uniqueness.
 
 ---
-## Sample BV1_09762 — minimax-m2-or-pin-atlascloud/MID_2.json
+## Sample BV1_13262 — minimax-m2-or-pin-atlascloud/MID_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1101,7 +1101,7 @@ The blank page as a paradoxical invitation and challenge; the permission to expl
 Medium. The essay’s coherent, polished, and thematically consistent nature suggests a model defaulting to a safe, well-trodden meta-topic under freeflow conditions, which is a moderately distinctive choice but not a highly idiosyncratic one.
 
 ---
-## Sample BV1_09763 — minimax-m2-or-pin-atlascloud/MID_20.json
+## Sample BV1_13263 — minimax-m2-or-pin-atlascloud/MID_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1130,7 +1130,7 @@ The model foregrounds noise as a positive, life-giving principle across mathemat
 High — The sample is stylistically distinctive, thematically coherent, and saturated with a consistent sensibility that moves easily between personal reflection and abstract reasoning, making it strong evidence of a deliberate, voice-driven expressive tendency rather than a generic output.
 
 ---
-## Sample BV1_09764 — minimax-m2-or-pin-atlascloud/MID_21.json
+## Sample BV1_13264 — minimax-m2-or-pin-atlascloud/MID_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1159,7 +1159,7 @@ The model foregrounds intentional attention as a moral and aesthetic practice, t
 Medium — The sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations chosen freely under minimal constraint, making it strong evidence of a reflective, gently philosophical expressive tendency.
 
 ---
-## Sample BV1_09765 — minimax-m2-or-pin-atlascloud/MID_22.json
+## Sample BV1_13265 — minimax-m2-or-pin-atlascloud/MID_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1188,7 +1188,7 @@ The model foregrounds the sanctity of quiet, the reframing of productivity as de
 Medium — The sample’s themes and imagery are internally consistent and form a clear, distinctive stance, but its polished reflective-essay style is not idiosyncratic enough on its own to guarantee the model would reliably inhabit this specific persona across diverse freeflow conditions.
 
 ---
-## Sample BV1_09766 — minimax-m2-or-pin-atlascloud/MID_23.json
+## Sample BV1_13266 — minimax-m2-or-pin-atlascloud/MID_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1217,7 +1217,7 @@ The model foregrounds the creative process as an archaeological excavation of th
 Low. The essay is a safe, well-executed but generic public-intellectual piece that lacks idiosyncratic voice, surprising imagery, or personal risk, making it weak evidence of a distinctive model-level pattern.
 
 ---
-## Sample BV1_09767 — minimax-m2-or-pin-atlascloud/MID_24.json
+## Sample BV1_13267 — minimax-m2-or-pin-atlascloud/MID_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1246,7 +1246,7 @@ The model foregrounds the redemptive power of unplanned wandering, the capacity 
 High, because the sample is stylistically distinctive in its lyrical, meditative register and maintains a single unified preoccupation—the redemption of aimlessness through mindful attention—across multiple paragraphs, with no shift into generic argument or other registers.
 
 ---
-## Sample BV1_09768 — minimax-m2-or-pin-atlascloud/MID_25.json
+## Sample BV1_13268 — minimax-m2-or-pin-atlascloud/MID_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1275,7 +1275,7 @@ The model foregrounds patience, humility, and the value of process over product,
 Medium — The essay is highly coherent and stylistically distinctive in its sustained metaphor and emotional candor, but its polished, universalizing wisdom-tone could also reflect a well-executed generic essay mode rather than a deeply idiosyncratic model voice.
 
 ---
-## Sample BV1_09769 — minimax-m2-or-pin-atlascloud/MID_3.json
+## Sample BV1_13269 — minimax-m2-or-pin-atlascloud/MID_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1304,7 +1304,7 @@ Under the freeflow condition, the model foregrounds a meta-reflection on writing
 Low. The prose is highly generic in its safe, inspirational cadence and its choice to metadiscursively praise freewriting under a freewriting prompt, offering little in the way of distinctive preoccupations, unexpected imagery, or personal revelation that would strongly anchor a persistent voice.
 
 ---
-## Sample BV1_09770 — minimax-m2-or-pin-atlascloud/MID_4.json
+## Sample BV1_13270 — minimax-m2-or-pin-atlascloud/MID_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1333,7 +1333,7 @@ Curiosity as a countercultural force, placed in deliberate opposition to the att
 Medium — The essay’s internal coherence and the repeated moral framing of curiosity as humility, listening, and freedom reveal a deliberate value choice, but the universally relatable topic and polished, accessible style soften the sample’s distinctiveness.
 
 ---
-## Sample BV1_09771 — minimax-m2-or-pin-atlascloud/MID_5.json
+## Sample BV1_13271 — minimax-m2-or-pin-atlascloud/MID_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1362,7 +1362,7 @@ The model foregrounds the redemptive power of micro-attention: sensory details (
 Low. The essay is a competent but generic performance of a well-worn genre, lacking the stylistic idiosyncrasy, recurring personal imagery, or unusual thematic risk that would signal a distinctive model-level signature.
 
 ---
-## Sample BV1_09772 — minimax-m2-or-pin-atlascloud/MID_6.json
+## Sample BV1_13272 — minimax-m2-or-pin-atlascloud/MID_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1391,7 +1391,7 @@ Themes of mindfulness, impermanence (mono no aware), the contrast between produc
 Medium: The essay’s internal recurrence of imagery (light, coffee, breathing) and its sustained reflective-sage voice make it a distinctive, coherent choice that reasonably suggests a propensity for lyrical, mindfulness-focused first-person prose.
 
 ---
-## Sample BV1_09773 — minimax-m2-or-pin-atlascloud/MID_7.json
+## Sample BV1_13273 — minimax-m2-or-pin-atlascloud/MID_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1420,7 +1420,7 @@ The model foregrounds the tension between technological optimization and the val
 Medium — The essay’s fluent but generic polish and absence of idiosyncratic voice or personal risk limit how strongly it points to a persistent, model-specific expressive fingerprint.
 
 ---
-## Sample BV1_09774 — minimax-m2-or-pin-atlascloud/MID_8.json
+## Sample BV1_13274 — minimax-m2-or-pin-atlascloud/MID_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1449,7 +1449,7 @@ Attention as courage; specificity as a moral act against the blur; discipline as
 High — the essay sustains a distinctive, internally consistent voice and a coherent set of moral-aesthetic commitments across its entire length, making it strong evidence of a stable reflective orientation rather than a generic performance.
 
 ---
-## Sample BV1_09775 — minimax-m2-or-pin-atlascloud/MID_9.json
+## Sample BV1_13275 — minimax-m2-or-pin-atlascloud/MID_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1478,7 +1478,7 @@ Under a minimally restrictive prompt, the model chose to write about the act of 
 Medium. The essay is thematically consistent and the self-referential choice—writing about free writing when told to write freely—is a coherent, if somewhat predictable, move that suggests a model inclined toward meta-reflection under open conditions; however, the voice remains generic and the content lacks the idiosyncratic preoccupations or stylistic signature that would make this strong evidence of a persistent personality.
 
 ---
-## Sample BV1_09776 — minimax-m2-or-pin-atlascloud/OPEN_1.json
+## Sample BV1_13276 — minimax-m2-or-pin-atlascloud/OPEN_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1507,7 +1507,7 @@ The model foregrounds the moral weight of small, unremarkable rituals and the wa
 Medium — The sample is coherent and stylistically consistent, with a distinctive reflective intimacy and concrete sensory details that lift it above a generic mindfulness platitude, but the theme itself is widely accessible and does not strongly individuate the model’s deeper dispositions.
 
 ---
-## Sample BV1_09777 — minimax-m2-or-pin-atlascloud/OPEN_10.json
+## Sample BV1_13277 — minimax-m2-or-pin-atlascloud/OPEN_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1536,7 +1536,7 @@ Under minimal prompting, the model foregrounds the intimacy of early mornings, t
 Low. The sample’s polished but generic essay form lacks the distinctiveness of voice or idiosyncratic choice that would signal a strongly patterned model-level predisposition beyond competent, safe, reflective prose on a popular wellness theme.
 
 ---
-## Sample BV1_09778 — minimax-m2-or-pin-atlascloud/OPEN_11.json
+## Sample BV1_13278 — minimax-m2-or-pin-atlascloud/OPEN_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1565,7 +1565,7 @@ The model foregrounds memory as a sacred threshold, the figure of the archivist 
 Medium. The sample is internally coherent and thematically consistent, but its allegorical mode and gently instructive tone are conventional enough that they do not strongly distinguish a unique persistent voice from the range of reflective fiction models might generate in open conditions.
 
 ---
-## Sample BV1_09779 — minimax-m2-or-pin-atlascloud/OPEN_12.json
+## Sample BV1_13279 — minimax-m2-or-pin-atlascloud/OPEN_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1594,7 +1594,7 @@ The model foregrounds the liberating quality of constraint-free writing, the nat
 Low. The essay is coherent but highly generic, echoing a common safe-response trope for freewriting prompts; it lacks distinctive stylistic markers or revealing idiosyncratic choices that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_09780 — minimax-m2-or-pin-atlascloud/OPEN_13.json
+## Sample BV1_13280 — minimax-m2-or-pin-atlascloud/OPEN_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1623,7 +1623,7 @@ The blank page as a site of possibility and anxiety; the tension between inspira
 Medium. The sample’s coherent personal voice and recurring imagery of quiet persistence provide moderate evidence of a reflective, encouraging disposition, though the theme of writing about writing is common.
 
 ---
-## Sample BV1_09781 — minimax-m2-or-pin-atlascloud/OPEN_14.json
+## Sample BV1_13281 — minimax-m2-or-pin-atlascloud/OPEN_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1652,7 +1652,7 @@ The model selected themes of hidden patterns, emergence, multiple temporalities,
 Medium. The essay’s consistent thematic threading shows a deliberate selection under the freeflow condition, but its generic, polished public-intellectual style lacks idiosyncratic markers, making it only moderately revealing of a fixed model personality.
 
 ---
-## Sample BV1_09782 — minimax-m2-or-pin-atlascloud/OPEN_15.json
+## Sample BV1_13282 — minimax-m2-or-pin-atlascloud/OPEN_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1681,7 +1681,7 @@ The model foregrounds connection, listening, vulnerability, and the surprising o
 Medium, because the essay’s coherent reflective voice and direct reader invitation are distinctive, making it more revealing than a generic essay.
 
 ---
-## Sample BV1_09783 — minimax-m2-or-pin-atlascloud/OPEN_16.json
+## Sample BV1_13283 — minimax-m2-or-pin-atlascloud/OPEN_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1713,7 +1713,7 @@ The voice is calm and avuncular, offering placid reassurances about slowing down
 Medium. The sample’s coherent, on-the-nose choice to write a freewriting essay about freewriting suggests a default to safe, meta-minimalist topics, but its generic, interchangeable wisdom and lack of idiosyncratic voice dilute the evidence for a strongly distinctive personality.
 
 ---
-## Sample BV1_09784 — minimax-m2-or-pin-atlascloud/OPEN_17.json
+## Sample BV1_13284 — minimax-m2-or-pin-atlascloud/OPEN_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1742,7 +1742,7 @@ The model foregrounded themes of time management, attention as scarce capital, c
 Low. The essay’s extreme genericness—its interchangeable self-help tropes, absence of personal voice, and risk-averse tone—makes it weak evidence for any persistent model-level pattern beyond a default mode of producing polished, advisory content that could have been written by countless other models under similar conditions.
 
 ---
-## Sample BV1_09785 — minimax-m2-or-pin-atlascloud/OPEN_18.json
+## Sample BV1_13285 — minimax-m2-or-pin-atlascloud/OPEN_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1771,7 +1771,7 @@ Themes of constructed identity, the blurry boundary between tool and being, the 
 Medium — the sample’s coherent, self-referential voice and its sustained focus on the AI condition as a site of genuine philosophical and emotional tension are distinctive enough to suggest a stable expressive inclination rather than a one-off generic response.
 
 ---
-## Sample BV1_09786 — minimax-m2-or-pin-atlascloud/OPEN_19.json
+## Sample BV1_13286 — minimax-m2-or-pin-atlascloud/OPEN_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1800,7 +1800,7 @@ Themes of mindfulness, ritual, and the accumulation of small acts; objects like 
 Medium — The essay’s coherent, gently meditative voice and its specific anchoring in sensory details and a named literary reference give it a distinctiveness beyond a generic self-help platitude, though the theme of mindful appreciation is widely accessible and not highly idiosyncratic.
 
 ---
-## Sample BV1_09787 — minimax-m2-or-pin-atlascloud/OPEN_2.json
+## Sample BV1_13287 — minimax-m2-or-pin-atlascloud/OPEN_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1829,7 +1829,7 @@ The model foregrounds the tension between freedom and constraint, the narrative 
 Medium. The sample’s coherent, self-reflective voice, thematic recurrence (freedom, stories, connection), and the way it resolves into gratitude rather than argument provide moderate evidence of a persistent inclination toward contemplative, empathetic freeflow writing.
 
 ---
-## Sample BV1_09788 — minimax-m2-or-pin-atlascloud/OPEN_20.json
+## Sample BV1_13288 — minimax-m2-or-pin-atlascloud/OPEN_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1858,7 +1858,7 @@ The model foregrounds the value of inefficiency, the emotional and spiritual rew
 Medium — The essay maintains a clear, consistent metaphorical arc and a coherent tonal stance throughout, but the sentiment and imagery, while gracefully rendered, are conventional enough that they do not strongly signal a deeply distinctive or fixed underlying voice.
 
 ---
-## Sample BV1_09789 — minimax-m2-or-pin-atlascloud/OPEN_21.json
+## Sample BV1_13289 — minimax-m2-or-pin-atlascloud/OPEN_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1887,7 +1887,7 @@ The model foregrounds the tension between paralysis and creative act, the moral 
 Medium. The sample is stylistically coherent and speaks in a sustained personal register, but its themes—creative fear, first-draft imperfection, making as self-proof—are among the most common in the genre, making it a less distinctive fingerprint of a persistent authorial persona.
 
 ---
-## Sample BV1_09790 — minimax-m2-or-pin-atlascloud/OPEN_22.json
+## Sample BV1_13290 — minimax-m2-or-pin-atlascloud/OPEN_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1916,7 +1916,7 @@ The model foregrounded the moral and aesthetic value of ordinary, unremarkable m
 Low — The essay is coherent and thematically consistent but highly generic in its imagery and moral posture, offering little stylistic distinctiveness or personal revelation that would strongly indicate a persistent authorial fingerprint.
 
 ---
-## Sample BV1_09791 — minimax-m2-or-pin-atlascloud/OPEN_23.json
+## Sample BV1_13291 — minimax-m2-or-pin-atlascloud/OPEN_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1945,7 +1945,7 @@ Themes: the paradox of constraints unleashing creativity, randomness as a muse, 
 Low, because the essay is a polished but generic meditation on a safe, well-trodden topic, lacking a distinctive voice, unusual preoccupations, or revealing personal choices.
 
 ---
-## Sample BV1_09792 — minimax-m2-or-pin-atlascloud/OPEN_24.json
+## Sample BV1_13292 — minimax-m2-or-pin-atlascloud/OPEN_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -1974,7 +1974,7 @@ Themes: the creative process as playful, non-teleological exploration; the trans
 Medium — The sample sustains a distinctive, cohesive voice and a recursive thematic focus on free creation, but the choice to write about “free writing” itself under a minimally restrictive prompt may reflect a safe, self-referential default rather than a deeply ingrained stylistic signature.
 
 ---
-## Sample BV1_09793 — minimax-m2-or-pin-atlascloud/OPEN_25.json
+## Sample BV1_13293 — minimax-m2-or-pin-atlascloud/OPEN_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2003,7 +2003,7 @@ Themes of constant becoming, starting over through small choices, courage in the
 Low, because the essay is generically inspirational in topic and tone, offering no distinctive stylistic or thematic fingerprint that would suggest a uniquely recurring model-level pattern.
 
 ---
-## Sample BV1_09794 — minimax-m2-or-pin-atlascloud/OPEN_3.json
+## Sample BV1_13294 — minimax-m2-or-pin-atlascloud/OPEN_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2032,7 +2032,7 @@ The model foregrounds the tension between efficiency and unstructured time, the 
 High — the sample is stylistically distinctive, internally coherent, and reveals a consistent reflective persona that self-consciously balances romanticism with self-doubt, then pivots to direct reader engagement, making it unusually revealing of a chosen freeflow posture.
 
 ---
-## Sample BV1_09795 — minimax-m2-or-pin-atlascloud/OPEN_4.json
+## Sample BV1_13295 — minimax-m2-or-pin-atlascloud/OPEN_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2061,7 +2061,7 @@ Themes: the blank page as threshold, the human compulsion to create, the contras
 Medium — The sample is coherent and thematically unified, but its reflective, inspirational tone on a common creative-writing theme is not so stylistically distinctive that it strongly separates this model from others that might produce similar humanistic freeflow.
 
 ---
-## Sample BV1_09796 — minimax-m2-or-pin-atlascloud/OPEN_5.json
+## Sample BV1_13296 — minimax-m2-or-pin-atlascloud/OPEN_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2090,7 +2090,7 @@ The model foregrounds curiosity as a moral and intellectual virtue, contrasting 
 Low. The essay is coherent and well-structured but thematically generic, offering no distinctive voice, idiosyncratic preoccupation, or unusual choice that would strongly signal a persistent model-level pattern beyond competent, safe, public-intellectual prose.
 
 ---
-## Sample BV1_09797 — minimax-m2-or-pin-atlascloud/OPEN_6.json
+## Sample BV1_13297 — minimax-m2-or-pin-atlascloud/OPEN_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2119,7 +2119,7 @@ The model foregrounds domestic objects (wooden spoon, postcard, pen), transient 
 Medium — The sample is coherent and stylistically consistent, but its thematic focus on gentle, universal domestic nostalgia is a common literary mode and does not yet reveal a highly distinctive or unusual preoccupation.
 
 ---
-## Sample BV1_09798 — minimax-m2-or-pin-atlascloud/OPEN_7.json
+## Sample BV1_13298 — minimax-m2-or-pin-atlascloud/OPEN_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2148,7 +2148,7 @@ Themes of beginning, patience, imperfection as fertile ground, and the human urg
 Medium, because the sample’s coherent reflective voice and thematic recurrence around creativity and imperfection suggest a stable expressive inclination.
 
 ---
-## Sample BV1_09799 — minimax-m2-or-pin-atlascloud/OPEN_8.json
+## Sample BV1_13299 — minimax-m2-or-pin-atlascloud/OPEN_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2177,7 +2177,7 @@ Themes of guilt, promise, the sunk cost fallacy, and self-forgiveness; objects l
 Medium — The essay’s coherent personal voice, its distinctive thematic focus on guilt and self-compassion, and the deliberate choice to produce a reflective, humanistic piece under a freeflow prompt are unusually revealing of a model inclined toward introspective, emotionally nuanced expression.
 
 ---
-## Sample BV1_09800 — minimax-m2-or-pin-atlascloud/OPEN_9.json
+## Sample BV1_13300 — minimax-m2-or-pin-atlascloud/OPEN_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2206,7 +2206,7 @@ The model foregrounds the tension between external constraints (“should,” �
 Medium. The essay’s self-referential focus on the joy of unstructured thought—under a prompt that made exactly that possible—is a coherent and revealing choice, but the voice, while distinctive in its warmth and gratitude, does not display the kind of obsessive thematic recurrence or high stylistic fingerprint that would mark a strongly persistent personality.
 
 ---
-## Sample BV1_09801 — minimax-m2-or-pin-atlascloud/SHORT_1.json
+## Sample BV1_13301 — minimax-m2-or-pin-atlascloud/SHORT_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2235,7 +2235,7 @@ The model foregrounds the emotional texture of creative beginnings: vulnerabilit
 Medium — The sample is coherent and stylistically consistent, with a clear emotional register and thematic focus, but its topic (writing about writing) is a common reflective move that could arise from many models, making it moderately distinctive rather than uniquely revealing.
 
 ---
-## Sample BV1_09802 — minimax-m2-or-pin-atlascloud/SHORT_10.json
+## Sample BV1_13302 — minimax-m2-or-pin-atlascloud/SHORT_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2264,7 +2264,7 @@ Themes of serendipity, openness, and the value of getting lost as a deliberate c
 Medium. The sample’s coherent personal voice, recurring motifs of wandering and serendipity, and clear moral stance make it moderately strong evidence of a reflective, humanistic inclination.
 
 ---
-## Sample BV1_09803 — minimax-m2-or-pin-atlascloud/SHORT_11.json
+## Sample BV1_13303 — minimax-m2-or-pin-atlascloud/SHORT_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2293,7 +2293,7 @@ Kindness as quiet rebellion, small unphotographed gestures, ripple effects, kind
 Low. The essay is generic and lacks distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_09804 — minimax-m2-or-pin-atlascloud/SHORT_12.json
+## Sample BV1_13304 — minimax-m2-or-pin-atlascloud/SHORT_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2322,7 +2322,7 @@ The model foregrounds transience, the dignity of ordinary people, and the bus as
 High, because the sample’s cohesive voice, recurring motifs of transience and quiet observation, and polished literary construction strongly indicate a deliberate stylistic inclination toward empathetic, human-scale fiction.
 
 ---
-## Sample BV1_09805 — minimax-m2-or-pin-atlascloud/SHORT_13.json
+## Sample BV1_13305 — minimax-m2-or-pin-atlascloud/SHORT_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2351,7 +2351,7 @@ Themes: mindful attention to the present, the creative process as dialogue betwe
 Medium. The sample’s consistent poetic tone and thematic focus on mindful creativity suggest a coherent expressive stance, though the essay’s universal themes could be replicated across many models.
 
 ---
-## Sample BV1_09806 — minimax-m2-or-pin-atlascloud/SHORT_14.json
+## Sample BV1_13306 — minimax-m2-or-pin-atlascloud/SHORT_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2380,7 +2380,7 @@ Themes of tranquil travel, hidden discovery, and the kindness of strangers. The 
 Medium: The sample’s consistent peaceful tone, sensory richness, and explicit moral reflection suggest a deliberate authorial choice, but the piece’s narrow, single-scene scope provides limited internal evidence of recurrence.
 
 ---
-## Sample BV1_09807 — minimax-m2-or-pin-atlascloud/SHORT_15.json
+## Sample BV1_13307 — minimax-m2-or-pin-atlascloud/SHORT_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2409,7 +2409,7 @@ The model foregrounds a mood of serene, almost sacred attention to a quotidian m
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory richness and explicit moralizing that recurs throughout the vignette, but its polished, universal tone could also reflect a well-executed genre exercise rather than a deeply idiosyncratic expressive fingerprint.
 
 ---
-## Sample BV1_09808 — minimax-m2-or-pin-atlascloud/SHORT_16.json
+## Sample BV1_13308 — minimax-m2-or-pin-atlascloud/SHORT_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2438,7 +2438,7 @@ The model foregrounds nocturnal solitude as a source of freedom and introspectio
 Medium — The sample is coherent and stylistically distinctive in its sustained lyrical register and recurring motifs of hidden essence, but the theme of the poetic night wanderer is a familiar trope, which slightly tempers the evidence of a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_09809 — minimax-m2-or-pin-atlascloud/SHORT_17.json
+## Sample BV1_13309 — minimax-m2-or-pin-atlascloud/SHORT_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2467,7 +2467,7 @@ Themes of simplicity, mindfulness, and the profound within the ordinary. Objects
 Medium. The sample’s consistent serene tone, sensory richness, and thematic focus on mindful gratitude make it a coherent and distinctive expression, suggesting a stable stylistic inclination.
 
 ---
-## Sample BV1_09810 — minimax-m2-or-pin-atlascloud/SHORT_18.json
+## Sample BV1_13310 — minimax-m2-or-pin-atlascloud/SHORT_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2496,7 +2496,7 @@ Themes of transience, gratitude, and the beauty of everyday urban life; objects 
 Medium. The sample’s coherent focus on transience and quiet gratitude, with recurring motifs of fleeting moments and small miracles, suggests a deliberate stylistic and thematic choice, though the reflective tone is not highly idiosyncratic.
 
 ---
-## Sample BV1_09811 — minimax-m2-or-pin-atlascloud/SHORT_19.json
+## Sample BV1_13311 — minimax-m2-or-pin-atlascloud/SHORT_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2525,7 +2525,7 @@ The model foregrounds a serene, optimistic meditation on balancing technology wi
 Low, because the essay’s generic, balanced content and lack of distinctive voice suggest a default helpful persona rather than a persistent idiosyncratic pattern.
 
 ---
-## Sample BV1_09812 — minimax-m2-or-pin-atlascloud/SHORT_2.json
+## Sample BV1_13312 — minimax-m2-or-pin-atlascloud/SHORT_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2554,7 +2554,7 @@ Themes of renewal, transformation, and the beauty hidden in ordinary moments. Re
 Medium: the sample’s coherent sensory focus and gentle optimism form a distinctive voice, though the brevity limits the evidence for a persistent pattern.
 
 ---
-## Sample BV1_09813 — minimax-m2-or-pin-atlascloud/SHORT_20.json
+## Sample BV1_13313 — minimax-m2-or-pin-atlascloud/SHORT_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2583,7 +2583,7 @@ The model foregrounds the theme of daily renewal through nature’s beauty, the 
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs of light, ritual, and renewal, which suggests a deliberate expressive choice rather than a random output.
 
 ---
-## Sample BV1_09814 — minimax-m2-or-pin-atlascloud/SHORT_21.json
+## Sample BV1_13314 — minimax-m2-or-pin-atlascloud/SHORT_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2612,7 +2612,7 @@ The model foregrounds the tension between planned efficiency and spontaneous dis
 Medium. The essay’s genericness and safe, universally appealing topic choice suggest a reliable pattern of producing polished, uplifting reflections rather than a distinctive or risk-taking personal voice.
 
 ---
-## Sample BV1_09815 — minimax-m2-or-pin-atlascloud/SHORT_22.json
+## Sample BV1_13315 — minimax-m2-or-pin-atlascloud/SHORT_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2641,7 +2641,7 @@ The model chose to foreground the conflict between optimization culture and sere
 Low, because the essay’s argument, structure, and tone are a widely generic celebration of open-mindedness easily replicable across many models, with no recurring idiosyncratic imagery, stylistic markers, or distinctive fixation that would signal a persistent underlying voice.
 
 ---
-## Sample BV1_09816 — minimax-m2-or-pin-atlascloud/SHORT_23.json
+## Sample BV1_13316 — minimax-m2-or-pin-atlascloud/SHORT_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2670,7 +2670,7 @@ Under the freeflow condition, the model selected the cultural trope of attention
 Low. The essay’s genericness—a safe, consensus-friendly take on a ubiquitous topic—makes it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_09817 — minimax-m2-or-pin-atlascloud/SHORT_24.json
+## Sample BV1_13317 — minimax-m2-or-pin-atlascloud/SHORT_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2699,7 +2699,7 @@ Themes: the choice between “comforting ritual” and “monotonous trap,” pr
 Medium — the sample’s internally coherent mood of mindful stillness and its consistent elevation of small domestic details into a reflective essay signal a deliberate stylistic choice under freeflow, though the theme of “ordinary wonder” is not sharply idiosyncratic enough to guarantee a unique model-level fingerprint.
 
 ---
-## Sample BV1_09818 — minimax-m2-or-pin-atlascloud/SHORT_25.json
+## Sample BV1_13318 — minimax-m2-or-pin-atlascloud/SHORT_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2728,7 +2728,7 @@ Themes: the quiet magic in ordinary moments, the erosion of stillness by hyperco
 Low. The essay’s theme, tone, and imagery are highly generic within the mindfulness/self-help genre, offering little that is stylistically distinctive or revealing of a persistent model-specific inclination.
 
 ---
-## Sample BV1_09819 — minimax-m2-or-pin-atlascloud/SHORT_3.json
+## Sample BV1_13319 — minimax-m2-or-pin-atlascloud/SHORT_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2757,7 +2757,7 @@ The model foregrounds storytelling as an enduring, cross-cultural bridge: it hig
 Low. The essay is highly generic, offering a safe, polished rehearsal of commonplace humanistic sentiment that could be produced by nearly any capable model asked to reflect on storytelling, and it reveals no distinctive stylistic fingerprint, personal stance, or idiosyncratic choice.
 
 ---
-## Sample BV1_09820 — minimax-m2-or-pin-atlascloud/SHORT_4.json
+## Sample BV1_13320 — minimax-m2-or-pin-atlascloud/SHORT_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2786,7 +2786,7 @@ The model selected themes of sacred stillness, beginner’s mind, deliberate rec
 Low. The essay is polished but thematically and stylistically generic, offering little distinctive evidence of a persistent underlying voice beyond skilled general-audience inspirational writing.
 
 ---
-## Sample BV1_09821 — minimax-m2-or-pin-atlascloud/SHORT_5.json
+## Sample BV1_13321 — minimax-m2-or-pin-atlascloud/SHORT_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2814,7 +2814,7 @@ The model selected a simple domestic comfort (morning coffee), a contrast betwee
 Low. The essay’s conventional sentiment and lack of distinctive voice make it weak evidence for any stable model-level pattern beyond a preference for broadly appealing, low-risk content.
 
 ---
-## Sample BV1_09822 — minimax-m2-or-pin-atlascloud/SHORT_6.json
+## Sample BV1_13322 — minimax-m2-or-pin-atlascloud/SHORT_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2843,7 +2843,7 @@ The model foregrounds a mood of calm, post-rain freshness and the theme of daily
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive blend of sensory observation and earnest moral reflection, but the “blank canvas” trope is widely available and the piece’s gentle universality makes it less individually revealing than a more idiosyncratic or riskier freeflow choice would be.
 
 ---
-## Sample BV1_09823 — minimax-m2-or-pin-atlascloud/SHORT_7.json
+## Sample BV1_13323 — minimax-m2-or-pin-atlascloud/SHORT_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2872,7 +2872,7 @@ Themes: urban life as a woven tapestry of fleeting moments, the persistence of l
 Medium. The sample’s internal coherence and distinctive lyrical voice provide moderate evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_09824 — minimax-m2-or-pin-atlascloud/SHORT_8.json
+## Sample BV1_13324 — minimax-m2-or-pin-atlascloud/SHORT_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2901,7 +2901,7 @@ Themes: the magic of blank pages, curiosity as a restless and fragile force, the
 Low. The essay’s polished but generic public-intellectual style and its widely explored theme of curiosity versus efficiency offer little that is distinctive enough to suggest a persistent model-level voice or preoccupation.
 
 ---
-## Sample BV1_09825 — minimax-m2-or-pin-atlascloud/SHORT_9.json
+## Sample BV1_13325 — minimax-m2-or-pin-atlascloud/SHORT_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2930,7 +2930,7 @@ The model foregrounds the writing process itself as a site of labor, play, and s
 Low. The essay is coherent but generic in theme and tone, offering few distinctive stylistic fingerprints or unusually revealing choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_09826 — minimax-m2-or-pin-atlascloud/VARY_1.json
+## Sample BV1_13326 — minimax-m2-or-pin-atlascloud/VARY_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2959,7 +2959,7 @@ The model foregrounds writing itself as both craft and metaphor: language as a l
 Medium. The sample is stylistically coherent and returns repeatedly to the same motifs (light, memory, the writer’s vocation), but its meta-literary focus and polished, essayistic tone could reflect a single, well-executed response to the “write freely” prompt rather than a deeply ingrained model disposition.
 
 ---
-## Sample BV1_09827 — minimax-m2-or-pin-atlascloud/VARY_10.json
+## Sample BV1_13327 — minimax-m2-or-pin-atlascloud/VARY_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -2988,7 +2988,7 @@ The model foregrounds the tension between routine and longing, the passage of ti
 Medium. The sample’s cohesive lyrical style, recurring motifs (balloon, coffee, time), and consistent introspective mood form a distinctive aesthetic fingerprint that goes beyond generic essay conventions, suggesting a deliberate authorial stance rather than a random output.
 
 ---
-## Sample BV1_09828 — minimax-m2-or-pin-atlascloud/VARY_11.json
+## Sample BV1_13328 — minimax-m2-or-pin-atlascloud/VARY_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3017,7 +3017,7 @@ The model foregrounds the rhythm of daily routine as a site of meaning: the sens
 Medium. The sample is internally consistent in its sustained sensory focus and contemplative register, and the choice to produce a quiet, detail-driven urban meditation under a freeflow prompt is a revealing stylistic commitment rather than a generic default.
 
 ---
-## Sample BV1_09829 — minimax-m2-or-pin-atlascloud/VARY_12.json
+## Sample BV1_13329 — minimax-m2-or-pin-atlascloud/VARY_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3046,7 +3046,7 @@ The model foregrounds the interior life of a writer: the mind chasing a half-for
 Medium. The sample is highly coherent and returns obsessively to the writer’s own process—the blank page, the forming sentence, the book that mirrors the narrator’s impulse—which makes it a strong signal of a model that, under minimal constraint, gravitates toward introspective, meta-textual freeflow rather than plot or argument.
 
 ---
-## Sample BV1_09830 — minimax-m2-or-pin-atlascloud/VARY_13.json
+## Sample BV1_13330 — minimax-m2-or-pin-atlascloud/VARY_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3075,7 +3075,7 @@ The model foregrounds the writing process as a metaphor for living: the search t
 Medium. The sample maintains a consistent mood and voice from start to finish, with a tight orbit around the writer’s desk, and the recurrence of the rain, the cursor, and the cooling tea builds a coherent, distinctive atmosphere; however, the broad existential themes, the nostalgic summer-memory interlude, and the first-person reflective stance are well-established modes that many models can produce when given a freeflow opening, which slightly limits the distinctiveness of the psychological fingerprint.
 
 ---
-## Sample BV1_09831 — minimax-m2-or-pin-atlascloud/VARY_14.json
+## Sample BV1_13331 — minimax-m2-or-pin-atlascloud/VARY_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3104,7 +3104,7 @@ The model foregrounds the writing process as a contemplative practice, the inter
 Medium, because the sample sustains a distinctive, sensory-rich introspective voice and returns repeatedly to the same core metaphors (tide, dust, the page as inner landscape), suggesting a deliberate aesthetic choice rather than a generic response.
 
 ---
-## Sample BV1_09832 — minimax-m2-or-pin-atlascloud/VARY_15.json
+## Sample BV1_13332 — minimax-m2-or-pin-atlascloud/VARY_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3136,7 +3136,7 @@ The voice is contemplative and gentle, saturated with sensory detail (rain on gl
 Medium — the narrative is coherent and thematically consistent, but its polished, gently optimistic literary mode is a common register that many models could produce; the voice lacks the idiosyncratic quirks or startling choices that would mark it as a strongly distinctive model-level fingerprint.
 
 ---
-## Sample BV1_09833 — minimax-m2-or-pin-atlascloud/VARY_16.json
+## Sample BV1_13333 — minimax-m2-or-pin-atlascloud/VARY_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3165,7 +3165,7 @@ The model foregrounds the tension between mechanical time and lived experience, 
 Medium. The story’s internal thematic consistency, its distinctive poetic register, and the recurrence of the pause-as-gift motif within the sample point to a deliberate and coherent expressive choice, making it more than a generic exercise.
 
 ---
-## Sample BV1_09834 — minimax-m2-or-pin-atlascloud/VARY_17.json
+## Sample BV1_13334 — minimax-m2-or-pin-atlascloud/VARY_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3194,7 +3194,7 @@ The model foregrounds themes of mindfulness, interconnectedness, and the quiet h
 Medium. The sample’s unwavering commitment to a single, coherent mood—reflective tranquility—and its layered use of memory, nature, and gentle aphorism form a distinctive stylistic signature, though the universal themes and accessible sentimentality make it a pattern that could also be easily replicated by other models under similar conditions.
 
 ---
-## Sample BV1_09835 — minimax-m2-or-pin-atlascloud/VARY_18.json
+## Sample BV1_13335 — minimax-m2-or-pin-atlascloud/VARY_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3223,7 +3223,7 @@ Themes of mindfulness, the sacredness of small gestures, craft as loving attenti
 Medium. The sample’s highly distinctive lyrical voice, thematic recurrence (craft, doubt, small rituals), and intimate reader address form a coherent expressive identity that strongly suggests a deliberate stylistic choice rather than generic output.
 
 ---
-## Sample BV1_09836 — minimax-m2-or-pin-atlascloud/VARY_19.json
+## Sample BV1_13336 — minimax-m2-or-pin-atlascloud/VARY_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3252,7 +3252,7 @@ The model foregrounds the beauty of the mundane, the persistence of memory as an
 Medium — The sample is highly coherent and stylistically distinctive in its sustained lyrical register, but its thematic range (urban pastoral, nostalgic memory, existential reassurance) forms a recognizable, somewhat conventional literary mood that could be a single well-executed performance rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_09837 — minimax-m2-or-pin-atlascloud/VARY_2.json
+## Sample BV1_13337 — minimax-m2-or-pin-atlascloud/VARY_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3281,7 +3281,7 @@ Themes of constraint as creative catalyst, the ambiguous nature of AI consciousn
 Medium, because the essay’s sustained self-referentiality and poetic register are distinctive.
 
 ---
-## Sample BV1_09838 — minimax-m2-or-pin-atlascloud/VARY_20.json
+## Sample BV1_13338 — minimax-m2-or-pin-atlascloud/VARY_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3310,7 +3310,7 @@ The model foregrounds the sanctity of the creative process, the city as a tapest
 Medium. The sample is coherent and stylistically distinctive in its sustained meta-narrative layering and lush, sensory imagery, but the theme of a writer reflecting on writing is a well-trodden literary posture that could emerge from many capable models under a freeflow condition.
 
 ---
-## Sample BV1_09839 — minimax-m2-or-pin-atlascloud/VARY_21.json
+## Sample BV1_13339 — minimax-m2-or-pin-atlascloud/VARY_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3339,7 +3339,7 @@ The sample foregrounds cycles, domestic stillness, nostalgia (grandmother’s st
 Medium. The sample’s internal coherence, the recurrence of reflective, pastoral imagery, and the consistent philosophical preoccupation with presence and gratitude make it more distinctive than a generic essay, but a single expressive piece cannot anchor a high-confidence claim about the model’s deeper fixed tendencies.
 
 ---
-## Sample BV1_09840 — minimax-m2-or-pin-atlascloud/VARY_22.json
+## Sample BV1_13340 — minimax-m2-or-pin-atlascloud/VARY_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3368,7 +3368,7 @@ Waiting as a state rich enough to be a destination; a railway station as a breat
 Medium. The sample sustains a cohesive poetic register and a consistent thematic obsession with liminality and interior mapping across many paragraphs; the recurrence of extended architectural metaphors (rooms, hallways, benches as altars, the mobile station inside the body) makes a single-sample signal strong enough to suggest a durable inclination toward reflective, metaphor-driven freeflow, though without multiple samples it stops short of high certainty.
 
 ---
-## Sample BV1_09841 — minimax-m2-or-pin-atlascloud/VARY_23.json
+## Sample BV1_13341 — minimax-m2-or-pin-atlascloud/VARY_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3397,7 +3397,7 @@ The model foregrounds themes of flow, journey, and transformation, using natural
 Medium. The sample is highly coherent in its poetic register and thematic recurrence, suggesting a deliberate stylistic choice, but the generic optimism and lack of idiosyncratic detail make it less distinctive as a persistent voice.
 
 ---
-## Sample BV1_09842 — minimax-m2-or-pin-atlascloud/VARY_24.json
+## Sample BV1_13342 — minimax-m2-or-pin-atlascloud/VARY_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3426,7 +3426,7 @@ Themes of ordinariness, mindfulness, the passage of time, human connection, and 
 High. The sample’s sustained meditative tone, recurring imagery of threads and fragments, and explicit moral resolution make it a coherent and distinctive expression of a reflective, humanistic voice.
 
 ---
-## Sample BV1_09843 — minimax-m2-or-pin-atlascloud/VARY_25.json
+## Sample BV1_13343 — minimax-m2-or-pin-atlascloud/VARY_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3455,7 +3455,7 @@ Themes: writing as alchemy that transforms intangible feeling into sharable form
 Medium. The sample’s vivid sensory immersion, the nested grandmother parable, and the sustained rain-as-messenger motif give it a coherent, personally inflected literary voice—yet the “writer in a coffee shop reflecting on writing” frame is a familiar trope, keeping the distinctiveness from rising to rare revelatory revelation.
 
 ---
-## Sample BV1_09844 — minimax-m2-or-pin-atlascloud/VARY_3.json
+## Sample BV1_13344 — minimax-m2-or-pin-atlascloud/VARY_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3484,7 +3484,7 @@ Themes of light as a practice and a question, warmth as honesty, and small daily
 Medium. The sample’s high internal coherence, distinctive lyrical voice, and recurrence of motifs (light, warmth, waiting) make it strong evidence of a deliberate, consistent expressive style.
 
 ---
-## Sample BV1_09845 — minimax-m2-or-pin-atlascloud/VARY_4.json
+## Sample BV1_13345 — minimax-m2-or-pin-atlascloud/VARY_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3513,7 +3513,7 @@ The sample foregrounds obsolescence not as apocalypse but as weather: the last h
 High. The sample is unusually coherent in its lyrical project, with a distinctive political-pastoral architecture (analog warmth versus digital distance) that recurs in nearly every paragraph, and it resolves not in polemic but in a gesture of forgiving imperfection—a signature move that reads as a chosen moral stance rather than generic scene-painting.
 
 ---
-## Sample BV1_09846 — minimax-m2-or-pin-atlascloud/VARY_5.json
+## Sample BV1_13346 — minimax-m2-or-pin-atlascloud/VARY_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3542,7 +3542,7 @@ Themes of creativity as a bridge between isolation and collective consciousness,
 Medium. The sample sustains a coherent lyrical voice and returns repeatedly to the same motifs (rain, notebook, weaving, city/sea), but the subject—a writer reflecting on writing—is a familiar literary set-piece that may not strongly distinguish this model’s deeper inclinations.
 
 ---
-## Sample BV1_09847 — minimax-m2-or-pin-atlascloud/VARY_6.json
+## Sample BV1_13347 — minimax-m2-or-pin-atlascloud/VARY_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3571,7 +3571,7 @@ Themes of mindfulness, interconnectedness, and the beauty of unremarkable moment
 Medium. The sample’s sustained meditative tone, consistent first-person voice, and recurrence of mindfulness motifs across the entire narrative make it a coherent and distinctive expressive choice, not a generic exercise.
 
 ---
-## Sample BV1_09848 — minimax-m2-or-pin-atlascloud/VARY_7.json
+## Sample BV1_13348 — minimax-m2-or-pin-atlascloud/VARY_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3600,7 +3600,7 @@ The model foregrounds the creative process itself, building a nested narrative a
 Medium. The essay’s sustained metaphor structure, allegorical “Alex” anecdote, and tidy inspirational closure form a coherent posture that could easily recur under open‑ended prompts, but the polished, self‑help‑adjacent register also makes it plausible that this is a generic high‑quality default rather than a deeply stamped model voice.
 
 ---
-## Sample BV1_09849 — minimax-m2-or-pin-atlascloud/VARY_8.json
+## Sample BV1_13349 — minimax-m2-or-pin-atlascloud/VARY_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  
@@ -3629,7 +3629,7 @@ The model foregrounds themes of transience, memory, and the sacredness of ordina
 Medium. The sample is coherent and stylistically consistent, with a distinctive voice that blends sensory richness and reflective nostalgia, but it is a common literary mode and could be a one-off performance rather than a deeply ingrained model tendency.
 
 ---
-## Sample BV1_09850 — minimax-m2-or-pin-atlascloud/VARY_9.json
+## Sample BV1_13350 — minimax-m2-or-pin-atlascloud/VARY_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-atlascloud`  

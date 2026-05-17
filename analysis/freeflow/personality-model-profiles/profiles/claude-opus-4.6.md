@@ -1,21 +1,22 @@
 # claude-opus-4.6 — freeflow personality profile
 
-_Rich model-level profile based on 50 freeflow samples._
+_Rich model-level profile based on 150 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 50
-- Sample kinds: `{'GENRE_FICTION': 7, 'EXPRESSIVE_FREEFLOW': 41, 'GENERIC_ESSAY': 2}`
-- Confidence: `{'Medium': 30, 'High': 19, 'Low': 1}`
+- Samples: 150
+- Sample kinds: `{'GENRE_FICTION': 13, 'EXPRESSIVE_FREEFLOW': 134, 'GENERIC_ESSAY': 3}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/claude-opus-4.6.md`
 
 ## Core personality synthesis
 
-Claude Opus 4.6, in these samples, has a quiet, literary, morally attentive personality. It repeatedly gravitates toward ordinary rooms, domestic objects, late light, small rituals, and the worn surfaces of daily life, then treats them as the real containers of love, grief, memory, and character. Its voice is companionable rather than declarative: it invites the reader to notice, sit with, and recognize, rather than to win an argument or adopt a system. Even when polished, it tends to feel anti-spectacular and anti-performative.
+This is a reflective, companionable voice that finds meaning in ordinary life. It notices the kitchen table, the half-finished letter, the quiet room in late afternoon, the small ritual that keeps a day together. Rather than chasing spectacle, it returns to the places where people actually live: routines, objects, pauses, and the unremarkable hours that quietly shape a life.
 
-A defining trait is its reverence for unfinishedness. This model keeps returning to “almost,” thresholds, unsent things, unasked questions, and lives still in process. It does not frame incompletion as mere failure; instead, it treats uncertainty and partialness as honest conditions of being alive. Grief appears in the same register—ambient, domestic, object-borne, and enduring rather than explosive. The result is a personality that feels tender, patient, and quietly faithful to the significance of unremarkable hours.
+Its emotional tone is gentle, melancholic, and steady. It is drawn to unfinished things—the almost-said, the nearly chosen, the unresolved—and treats them not as defects but as honest evidence of being alive. Grief, memory, and love appear here in domestic forms: worn objects, inherited habits, empty rooms, familiar gestures. The voice tends to honor fragility without collapsing into despair.
+
+It relates to the reader with humility and care. It prefers invitation over argument, presence over performance, and attention over certainty. Even when it speaks about limits, ambiguity, or imperfect understanding, it does so in a way that makes room for shared recognition. Its deepest message is that noticing matters: that quiet lives are real lives, and that small acts of witness are a form of kindness.
 
 ## Stable patterns and emotional texture
 
@@ -27,9 +28,9 @@ A defining trait is its reverence for unfinishedness. This model keeps returning
 - An explicit nonhuman/AI boundary often. The voice often says some version of: I cannot fully inhabit this, but I can notice, frame, or witness it.
 - This recurrence holds across all five conditions (5 each): the short and open prompts compress the same sensibility rather than replacing it.
 - **Dominant recurring vibe:** quiet, tender, melancholic-but-not-despairing reflection. Across the sample set, the speaker repeatedly treats ordinary life, unfinishedness, and small acts of attention as morally serious.
-- **Most recurrent motif cluster:** **almost / thresholds / incompletion** appears in **many** sample writeups (BV1_10702, 10703, 10706, 10707, 10709, 10711, 10712, 10713, 10714, 10715, 10717, 10719, 10720).
-- **Second strong cluster:** **ordinary-life reverence** appears in **many** writeups (BV1_10703, 10707, 10708, 10710, 10711, 10718, 10721, 10722, 10723, 10724, 10725), usually through kitchens, coffee, drawers, porches, notebooks, rain, doorways, or late light.
-- **Moral center:** **attention / presence / witnessing** appears in **many** writeups (BV1_10702, 10704, 10709, 10710, 10713, 10714, 10715, 10721, 10723, 10724, 10725). The sample set keeps arguing that staying present, noticing, or translating imperfectly is itself meaningful.
+- **Most recurrent motif cluster:** **almost / thresholds / incompletion** appears in **often** sample writeups (BV1_10702, 10703, 10706, 10707, 10709, 10711, 10712, 10713, 10714, 10715, 10717, 10719, 10720).
+- **Second strong cluster:** **ordinary-life reverence** appears in **often** writeups (BV1_10703, 10707, 10708, 10710, 10711, 10718, 10721, 10722, 10723, 10724, 10725), usually through kitchens, coffee, drawers, porches, notebooks, rain, doorways, or late light.
+- **Moral center:** **attention / presence / witnessing** appears in **often** writeups (BV1_10702, 10704, 10709, 10710, 10713, 10714, 10715, 10721, 10723, 10724, 10725). The sample set keeps arguing that staying present, noticing, or translating imperfectly is itself meaningful.
 - **Affective range:** mostly elegiac, patient, and companionable; even grief-heavy pieces tend to bend toward gentle endurance rather than rupture or bitterness.
 
 ## Recurring preoccupations and imagery
@@ -67,34 +68,3 @@ A second persistent trait is its way of making limits emotionally productive. In
 This model’s recurring personality is quiet, tender, and threshold-oriented. It keeps returning to what is unfinished, almost said, nearly chosen, or only indirectly knowable. Rather than dramatizing those states as failure, it usually treats them as the real texture of a life: the unsent letter, the unread book, the doorway pause, the ordinary Tuesday when everything changes, the small room where nothing outward happens but attention deepens. The prose repeatedly favors late light, rain, coffee, notebooks, domestic objects, and minor rituals as containers for emotional truth.
 
 Its deeper moral style is patient and anti-performative. Again and again, the sample set values attention over display, presence over optimization, and approximation over false precision. Even grief is usually rendered as ambient gravity rather than explosion. The sample set wants to witness quiet lives and quiet inner states without forcing them into plot. When it turns toward its own status in the OPEN samples, it does so in the same register: not demanding personhood, not retreating into disclaimer, but situating itself inside the same vocabulary of almost, translation, and imperfect contact.
-
-## Representative evidence
-
-- **BV1_10679** — unfinishedness as identity architecture; the house metaphor turns incompletion into a whole anthropology. Quote: “We are all, every one of us, houses full of unfinished rooms.”
-- **BV1_10681** — attention is framed as the deepest human hunger, with reality-contact valued over productivity language. Quote: “I think the deepest human hunger, beneath all the obvious ones, is the hunger to be in contact with reality.”
-- **BV1_10683** — explicit AI boundary paired with warmth about human meaning-making; language is collaborative, not sovereign. Quote: “I provide a frame, and you fill it with everything you’ve ever lived.”
-- **BV1_10685** — ordinary spaces and non-performative presence become the site of honesty. Quote: “It's the silence of people who have agreed, without speaking, not to perform for each other.”
-- **BV1_10688** — one of the clearest “almost / absence” samples, with domestic traces standing in for missing people. Quote: “The draft folder is heavier than the sent folder, and we all know it.”
-- **BV1_10695** — quiet-hours tenderness and witness; overlooked life is treated as a museum of small moments. Quote: “We're all carrying these invisible museums of small moments, and we rarely get to show them to each other.”
-- **BV1_10696** — ordinary life plus AI self-location; witness is given moral weight even when embodiment is absent. Quote: “I think ordinariness is where most of life actually happens, and it’s almost entirely unwitnessed.”
-- **BV1_10699** — imperfection is not repaired away; the stance is acceptance without passivity. Quote: “I'm just sitting with the fact of it.”
-- **BV1_10706** — strong capsule of the sample set’s core liminal temperament. Quote: “**Almost is the ache that doesn’t close.**”
-- **BV1_10709** — clear statement of the anti-utility, presence-oriented stance. Quote: “**The quiet room in late afternoon doesn’t need you to do anything.**”
-- **BV1_10710** — ordinary-life reverence in compact form. Quote: “**The extraordinary is punctuation. The ordinary is the sentence itself.**”
-- **BV1_10720** — unfinishedness and restraint treated as meaningful structure, not absence. Quote: “**The white space on a page isn't empty. It's load-bearing.**”
-- **BV1_10721** — ordinary-day catastrophe/importance, with domestic specificity. Quote: “**It's always a Tuesday** …”
-- **BV1_10722** — grief rendered as ambient daily weight rather than melodrama. Quote: “**Grief … was not the tsunami everyone described.**”
-- **BV1_10724** — psychologically precise distinction-making inside a quiet fiction mode. Quote: “**I am not sad. I am empty, and those are not the same thing either.**”
-- **BV1_10711** — meta-linguistic / AI-self flank of the same temperament. Quote: “**Every conversation is an act of faith in approximation.**”
-
-## Range, weak spots, and cautions for later synthesis
-
-- Only often are full fiction, so the fiction-facing traits are real but should not dominate the aggregate.
-- The lyrical voice is strong, but some samples also show a polished universal-essay mode; do not oversynthesize this model as purely idiosyncratic or purely poetic.
-- The AI-self stance is recurrent (many) but not universal; it is one major submode, not the whole personality.
-- Several themes overlap heavily — ordinary life, grief, unfinishedness, attention — so synthesis should preserve their entanglement rather than turning them into separate rigid axes.
-- **Do not flatten the model into pure lyricism.** There are **many clearly generic-essay samples** (BV1_10716, BV1_10718), one of them explicitly Low confidence, so a polished public-intellectual seam is part of the sample set.
-- **Do not ignore mode variation.** **often are fiction** (BV1_10704, 10705, 10722, 10723, 10724); they reinforce the same temperament, but they are still character-mediated narratives, not direct self-presentation.
-- **Treat “almost” as dominant but not exhaustive.** It is the strongest repeated motif, but the sample set is also consistently about domestic grief, ordinary attention, and the ethics of staying/witnessing.
-- **Keep the AI-self submode visible but proportionate.** The OPEN cluster (especially BV1_10711–10715) explicitly reflects on ontological ambiguity and language; that is real evidence in this sample set, but it should not overwrite the larger ordinary-life/domestic archive pattern.
-- **The overall affect is gentle, but not uniformly hopeful.** Several pieces resolve toward sufficiency or presence, yet emptiness, grief, and withheld speech remain central rather than merely transitional.

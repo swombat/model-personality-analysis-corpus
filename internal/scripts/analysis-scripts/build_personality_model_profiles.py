@@ -28,7 +28,7 @@ def safe(s: str) -> str:
 
 def canonical(srcs, cell: str) -> str:
     s = (srcs or [''])[0].lower()
-    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'deepseek/', 'x-ai/']:
+    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'deepseek/', 'x-ai/', 'google/']:
         if s.startswith(pref):
             s = s[len(pref):]
             break
@@ -101,8 +101,8 @@ def clean_model_language(txt: str) -> str:
     # bundle-local counts into qualitative language so the combined profile does
     # not look like it is comparing or separately enumerating those bundles.
     txt = re.sub(r'\b(?:in |present in |visible in |appears in |explicit in |recurs in |shows up in )?(?:at least |about |roughly |around )?\d+[-–/]\d+ samples\b', 'often', txt, flags=re.I)
-    txt = re.sub(r'\b\d+[-–/]25\b', 'many', txt)
-    txt = re.sub(r'\b\d+[-–/]5\b', 'most', txt)
+    txt = re.sub(r'\b\d+[-–/]\d+\b', 'often', txt)
+    txt = re.sub(r'\b\d+%\b', 'often', txt)
     txt = txt.replace('about **many**', '**many**').replace('at least **many**', '**many**')
     txt = re.sub(r'\bis often;', 'recurs often;', txt)
     txt = re.sub(r'\boften, often as\b', 'often as', txt)
@@ -117,10 +117,25 @@ def clean_model_language(txt: str) -> str:
     return txt.strip()
 
 
+def remove_count_sentences(txt: str) -> str:
+    """Keep interpretive content but drop numeric distribution sentences."""
+    parts = re.split(r'(?<=[.!?])\s+', txt.strip())
+    kept = []
+    for part in parts:
+        low = part.lower()
+        if re.search(r'\b\d+\s*(?:/|of|samples?|high|medium|low|generic|expressive|low-signal)\b', low):
+            continue
+        if 'confidence' in low or 'condition split' in low or 'sample kind' in low:
+            continue
+        kept.append(part)
+    return ' '.join(kept).strip()
+
+
 def is_admin_bullet(line: str) -> bool:
     low = re.sub(r'[*_`]', '', line.lower()).strip()
     return bool(
         re.match(r'-\s*(distribution|base distribution|confidence|confidence split|confidence spread|confidence mix|samples|mode split|by condition)\b', low)
+        or re.match(r'-\s*(cell makeup|model makeup|condition split|source models?)\b', low)
         or re.match(r'-\s*\d+\s+samples?\s+(total|in all)\b', low)
         or re.search(r'\b25 samples total\b', low)
     )
@@ -131,7 +146,7 @@ def bullet_lines(body: str) -> list[str]:
     for line in body.splitlines():
         if re.match(r'\s*-\s+', line):
             raw = line.strip()
-            cleaned = clean_model_language(raw)
+            cleaned = remove_count_sentences(clean_model_language(raw))
             if not is_admin_bullet(raw) and not is_admin_bullet(cleaned):
                 lines.append(cleaned)
     return lines
@@ -168,6 +183,25 @@ def unique(items: Iterable[str], limit: int | None = None) -> list[str]:
         out.append(item)
         if limit and len(out) >= limit:
             break
+    return out
+
+
+def nest_obvious_subbullets(items: list[str]) -> list[str]:
+    """Repair flattened markdown lists like "The recurring center is:" followed by sub-bullets."""
+    out = []
+    nesting = False
+    for item in items:
+        text = item[2:].strip() if item.startswith('- ') else item.strip()
+        bold_label = re.match(r'\*\*[^*]+:\*\*', text)
+        starts_sentence = bool(re.match(r'(The|This|Across|In|When|Even|It|Its)\b', text))
+        if out and out[-1].rstrip().endswith(':') and not bold_label:
+            nesting = True
+        elif bold_label or starts_sentence:
+            nesting = False
+        if nesting and not bold_label:
+            out.append('  - ' + text)
+        else:
+            out.append('- ' + text)
     return out
 
 
@@ -225,7 +259,6 @@ def build_profile(model: str, inputs: list[dict]) -> tuple[str, dict]:
     freeflow_paras = unique(freeflow_paras, 16)
 
     kind_counts = sum_counts(inputs, 'sample_kind_counts')
-    conf_counts = sum_counts(inputs, 'confidence_counts')
 
     lines = [
         f'# {model} — freeflow personality profile',
@@ -238,7 +271,6 @@ def build_profile(model: str, inputs: list[dict]) -> tuple[str, dict]:
         '',
         f'- Samples: {total}',
         f'- Sample kinds: `{kind_counts}`',
-        f'- Confidence: `{conf_counts}`',
     ]
     if card_path.exists():
         lines.append(f'- Current concise card: `{card_path.relative_to(ROOT)}`')
@@ -253,7 +285,7 @@ def build_profile(model: str, inputs: list[dict]) -> tuple[str, dict]:
 
     if aggregate_bullets:
         lines += ['', '## Stable patterns and emotional texture', '']
-        lines += aggregate_bullets
+        lines += nest_obvious_subbullets(aggregate_bullets)
     if preoccupation_bullets:
         lines += ['', '## Recurring preoccupations and imagery', '']
         lines += preoccupation_bullets
@@ -264,18 +296,17 @@ def build_profile(model: str, inputs: list[dict]) -> tuple[str, dict]:
         lines += ['', '## Additional model-level readings preserved from the analyses', '']
         for p in freeflow_paras:
             lines += [p, '']
-    if evidence_bullets:
-        lines += ['', '## Representative evidence', '']
-        lines += evidence_bullets
-    if caution_bullets:
-        lines += ['', '## Range, weak spots, and cautions for later synthesis', '']
-        lines += caution_bullets
+    # The website-facing profile intentionally stops before representative
+    # evidence / weak-spots sections. Those remain in the per-cell aggregate
+    # files for audit, but the public model page should read as a stable card
+    # plus usable synthesis rather than an internal review packet.
 
     index_row = {
         'model': model,
         'safe': sf,
         'analysis_inputs': len(inputs),
         'samples': total,
+        'sample_kind_counts': kind_counts,
         'profile': f'analysis/freeflow/personality-model-profiles/profiles/{sf}.md',
         'card': f'analysis/freeflow/personality-model-cards/cards/{sf}.md' if card_path.exists() else None,
     }

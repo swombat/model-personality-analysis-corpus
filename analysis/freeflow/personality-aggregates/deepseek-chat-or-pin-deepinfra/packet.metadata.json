@@ -1,0 +1,27 @@
+{
+  "cell": "deepseek-chat-or-pin-deepinfra",
+  "safe_cell": "deepseek-chat-or-pin-deepinfra",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 103,
+    "EXPRESSIVE_FREEFLOW": 16,
+    "GENRE_FICTION": 6
+  },
+  "confidence_counts": {
+    "Medium": 72,
+    "Low": 48,
+    "High": 5
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "deepseek/deepseek-chat"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/deepseek-chat-or-pin-deepinfra/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/deepseek-chat-or-pin-deepinfra/aggregate.md"
+}

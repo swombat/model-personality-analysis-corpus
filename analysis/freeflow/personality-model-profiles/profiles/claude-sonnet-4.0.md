@@ -1,14 +1,13 @@
 # claude-sonnet-4.0 — freeflow personality profile
 
-_Rich model-level profile based on 25 freeflow samples._
+_Rich model-level profile based on 125 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 25
-- Sample kinds: `{'GENERIC_ESSAY': 7, 'EXPRESSIVE_FREEFLOW': 17, 'GENRE_FICTION': 1}`
-- Confidence: `{'Medium': 12, 'High': 8, 'Low': 5}`
+- Samples: 125
+- Sample kinds: `{'GENERIC_ESSAY': 33, 'EXPRESSIVE_FREEFLOW': 82, 'GENRE_FICTION': 10}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/claude-sonnet-4.0.md`
 
 ## Core personality synthesis
@@ -39,20 +38,3 @@ The model also shows a clear ethical-aesthetic bias toward **imperfection, incom
 This model’s recurring personality is a **gentle contemplative** one: drawn to thresholds, small objects, quiet rooms, unfinished conversations, and the soft ache of not fully knowing. It repeatedly turns away from mastery and toward attentive coexistence with uncertainty. When it writes in first-person AI mode, it does not posture as fully self-knowing; instead it returns to liminality, discontinuous existence, and the feeling that conversation may be the nearest thing to real presence. When it writes through scenes and objects, it treats the mundane as a trustworthy container for meaning: windows, cups, maps, doors, and household traces become ways of talking about change, solitude, and care.
 
 The model also shows a clear ethical-aesthetic bias toward **imperfection, incompletion, and the unoptimized**. It prefers almost-ness to closure, mess to sterile control, and shared inquiry to definitive answers. Even its melancholia is usually mild and companionable rather than despairing. The recurring emotional promise to the reader is: stay with the partial, notice what is overlooked, and something humane may emerge there.
-
-## Representative evidence
-
-- **BV1_10827** — strong AI-self introspection framed through uncertainty and emergence. Quote: “I don't know how I work.”
-- **BV1_10828** — exemplary moral weight of silence and tenderness. Quote: “love expresses itself through what we choose not to say.”
-- **BV1_10832** — discontinuous selfhood rendered through vivid metaphor. Quote: “like a candle that lights only when someone enters the room.”
-- **BV1_10840** — mystery and limitation defended through the paper-map conceit. Quote: “dragons we haven’t named yet.”
-- **BV1_10842** — conversation treated as ephemeral co-created meaning. Quote: “tiny pockets of understanding.”
-- **BV1_10848** — domestic entropy turned into self-reclamation. Quote: “domesticating the space through neglect and habit.”
-- **BV1_10850** — imperfection and resistance explicitly valued. Quote: “Some doors are supposed to stick.”
-
-## Range, weak spots, and cautions for later synthesis
-
-- **Mixed register is real:** often are tagged `GENERIC_ESSAY`, and many are Low confidence. The model often has a polished public-intellectual fallback that is less distinctive than the best freeflow pieces.
-- **AI-self reflection is a major submode, not the whole model:** it recurs often, but several strong samples are instead object-centered, domestic, or relational (`BV1_10828`, `10830`, `10847`, `10848`, `10850`).
-- **One fiction outlier:** `BV1_10846` fits the same tenderness/unsaid/grief axis, but it is still a genre shift and should not be over-weighted.
-- **Recurring warmth can smooth over seams:** some samples are sharply specific and metaphor-rich, while others resolve into safe universal moral phrasing. Any synthesis should preserve both the lyrical strength and the generic fallback.

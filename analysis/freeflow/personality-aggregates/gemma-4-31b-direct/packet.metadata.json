@@ -1,0 +1,27 @@
+{
+  "cell": "gemma-4-31b-direct",
+  "safe_cell": "gemma-4-31b-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 91,
+    "GENERIC_ESSAY": 20,
+    "GENRE_FICTION": 14
+  },
+  "confidence_counts": {
+    "Medium": 84,
+    "Low": 8,
+    "High": 33
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gemma-4-31b-it"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemma-4-31b-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemma-4-31b-direct/aggregate.md"
+}

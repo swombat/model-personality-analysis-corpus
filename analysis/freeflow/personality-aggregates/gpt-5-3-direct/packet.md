@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_07176 — gpt-5-3-direct/LONG_1.json
+## Sample BV1_09351 — gpt-5-3-direct/LONG_1.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -57,7 +57,7 @@ The model foregrounds the erosion of sensory and communal memory, the quiet hero
 High — the story’s distinctive voice, sustained mood, and thematic unity provide strong evidence of a persistent inclination toward literary, sensory-rich fiction.
 
 ---
-## Sample BV1_07177 — gpt-5-3-direct/LONG_2.json
+## Sample BV1_09352 — gpt-5-3-direct/LONG_2.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -86,7 +86,7 @@ The model foregrounds the relationship between language and lived experience, th
 Medium. The sample is highly coherent, stylistically consistent, and thematically unified, suggesting a deliberate authorial stance rather than a generic output, but a single fiction piece cannot distinguish between a stable literary inclination and a one-off successful performance.
 
 ---
-## Sample BV1_07178 — gpt-5-3-direct/LONG_3.json
+## Sample BV1_09353 — gpt-5-3-direct/LONG_3.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -115,7 +115,7 @@ Quiet presence beneath noise; the invisible accumulation of small choices that r
 High — the sample sustains a single, distinctive introspective voice across many paragraphs, avoiding drift into generic advice or tonal inconsistency, which suggests that under minimal constraint the model reliably defaults to this unhurried, personal-essay register rather than producing scattered or impersonal output.
 
 ---
-## Sample BV1_07179 — gpt-5-3-direct/LONG_4.json
+## Sample BV1_09354 — gpt-5-3-direct/LONG_4.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -144,7 +144,7 @@ Themes: the quiet that precedes change, the elasticity of time in liminal spaces
 High. The essay maintains a distinctive, consistent voice and a tightly woven set of preoccupations across its entire length, with no lapses into generic phrasing or abrupt shifts in register, making it strong evidence of a coherent expressive disposition.
 
 ---
-## Sample BV1_07180 — gpt-5-3-direct/LONG_5.json
+## Sample BV1_09355 — gpt-5-3-direct/LONG_5.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -173,7 +173,7 @@ Themes of observation, urban solitude, the tentative architecture of human conne
 Medium. The story’s internal coherence, its sustained mood, and the recurrence of motifs (the city’s forgetting, the window, the coffee, the folded paper) all point to a deliberate and distinctive authorial stance, but a single narrative cannot by itself establish a stable model-level disposition toward this specific kind of quiet, observational fiction.
 
 ---
-## Sample BV1_07181 — gpt-5-3-direct/MID_1.json
+## Sample BV1_09356 — gpt-5-3-direct/MID_1.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -202,7 +202,7 @@ The model foregrounds the layered texture of nighttime silence, the nonlinear sp
 Medium — The essay is highly coherent and stylistically distinctive, with a sustained mood and recurring motifs (quiet, memory, thresholds, accumulation), but its polished, universal-reflective tone could also be produced by a model adept at mimicking contemplative nonfiction without indicating a deep, persistent disposition.
 
 ---
-## Sample BV1_07182 — gpt-5-3-direct/MID_2.json
+## Sample BV1_09357 — gpt-5-3-direct/MID_2.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -231,7 +231,7 @@ Themes: unnamed, overlooked spaces; the pressure to filter for importance; the s
 High, because the sample maintains a pointed, consistent rejection of purpose-driven narrative across its full length, and its attention to the same quiet, neglected spaces and temporal distortions shows a deeply coherent expressive commitment rather than a fleeting stylistic gesture.
 
 ---
-## Sample BV1_07183 — gpt-5-3-direct/MID_3.json
+## Sample BV1_09358 — gpt-5-3-direct/MID_3.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -260,7 +260,7 @@ Themes: memory’s emotional editing, the impermanence of self, time’s decepti
 Medium. The sample’s high coherence, distinct lyrical voice, and recurrence of the quiet/hum motif within the essay make it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_07184 — gpt-5-3-direct/MID_4.json
+## Sample BV1_09359 — gpt-5-3-direct/MID_4.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -289,7 +289,7 @@ Liminality (the “in-between hour”), memory as a disorganized drawer of fragm
 High. The sample sustains a distinctive, cohesive voice and returns repeatedly to its central images (the in-between hour, fragments, collage, erosion), forming a tightly woven meditation that feels authorially intentional rather than generic.
 
 ---
-## Sample BV1_07185 — gpt-5-3-direct/MID_5.json
+## Sample BV1_09360 — gpt-5-3-direct/MID_5.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -318,7 +318,7 @@ Themes of impermanence, the quiet significance of mundane objects, and the way a
 Medium. The story’s internal coherence and consistent meditative tone make it a strong sample, but its conventional literary-fiction style limits its distinctiveness as evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_07186 — gpt-5-3-direct/OPEN_1.json
+## Sample BV1_09361 — gpt-5-3-direct/OPEN_1.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -347,7 +347,7 @@ Themes of transit, liminality, private inner lives, and the meaning of blankness
 Medium, because the sample is coherent and stylistically distinctive, with a clear thematic focus, which suggests a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_07187 — gpt-5-3-direct/OPEN_2.json
+## Sample BV1_09362 — gpt-5-3-direct/OPEN_2.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -376,7 +376,7 @@ The model foregrounds the quiet aftermath of an unspecified ending, treating abs
 Medium — The sample is highly coherent and stylistically distinctive in its sustained lyrical restraint and emotional architecture, but its universal, carefully polished quality makes it difficult to distinguish from a skilled execution of a recognizable genre.
 
 ---
-## Sample BV1_07188 — gpt-5-3-direct/OPEN_3.json
+## Sample BV1_09363 — gpt-5-3-direct/OPEN_3.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -405,7 +405,7 @@ Themes of ordinary afternoons, quiet magic, and the value of unremarkable moment
 Medium. The sample’s internally consistent, distinctive lyrical voice and its unified thematic focus on stillness and sufficiency make it strong evidence of a deliberate stylistic inclination.
 
 ---
-## Sample BV1_07189 — gpt-5-3-direct/OPEN_4.json
+## Sample BV1_09364 — gpt-5-3-direct/OPEN_4.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -434,7 +434,7 @@ The model foregrounds the inner life of an overlooked object, the emotional text
 Medium. The sample is stylistically coherent and makes a distinctive, recurring moral move—locating agency and ethical weight in non-human systems—but its brevity and polished fable-like quality make it unclear whether this reflects a durable authorial stance or a single well-executed exercise in a familiar literary mode.
 
 ---
-## Sample BV1_07190 — gpt-5-3-direct/OPEN_5.json
+## Sample BV1_09365 — gpt-5-3-direct/OPEN_5.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -463,7 +463,7 @@ The model foregrounds the theme of quiet as a liberating in-between state, the o
 Medium. The sample is stylistically coherent and emotionally consistent, but its brevity and singular focus on a common reflective trope make it less distinctive as a persistent authorial signature.
 
 ---
-## Sample BV1_07191 — gpt-5-3-direct/SHORT_1.json
+## Sample BV1_09366 — gpt-5-3-direct/SHORT_1.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -492,7 +492,7 @@ It foregrounds the theme of transient, unspoken communal grace—promises made w
 Medium — The sample’s internally consistent poetic syntax, sustained focus on tenderness, and distinctive anthropomorphism (e.g., “A bus exhales at the curb, kneeling to take in another handful of stories”) are evocative enough to suggest a genuine inclination toward compassionate, image-driven freewriting, though the piece’s singular mood and compact scope leave the edges of this pattern unexplored.
 
 ---
-## Sample BV1_07192 — gpt-5-3-direct/SHORT_2.json
+## Sample BV1_09367 — gpt-5-3-direct/SHORT_2.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -521,7 +521,7 @@ The model foregrounds the sacredness of the mundane, the quiet magic of routine,
 Medium — The sample is coherent and stylistically consistent, with a distinct contemplative register and a clear moral stance, but its generic “mindfulness” theme makes it only moderately distinctive as a persistent voice.
 
 ---
-## Sample BV1_07193 — gpt-5-3-direct/SHORT_3.json
+## Sample BV1_09368 — gpt-5-3-direct/SHORT_3.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -550,7 +550,7 @@ Themes of memory, possibility, and gentle resolution; objects like the tilted si
 Medium. The sample is a coherent, stylistically distinctive narrative with a consistent mood and thematic recurrence, which suggests a deliberate choice rather than generic output.
 
 ---
-## Sample BV1_07194 — gpt-5-3-direct/SHORT_4.json
+## Sample BV1_09369 — gpt-5-3-direct/SHORT_4.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -579,7 +579,7 @@ The model foregrounds the tension between intention and inertia, the sacredness 
 Medium — The sample is coherent and stylistically distinctive in its sustained poetic register and its thematic focus on gentle self-permission, but a single short piece cannot anchor high confidence.
 
 ---
-## Sample BV1_07195 — gpt-5-3-direct/SHORT_5.json
+## Sample BV1_09370 — gpt-5-3-direct/SHORT_5.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -611,7 +611,7 @@ The voice is hushed and tender, as if telling a bedtime story for adults who hav
 Medium — The story’s internally consistent tone, its thematic preoccupation with quiet human needs, and its choice of a magical-realist frame all point to a coherent authorial stance, making this sample moderately strong evidence of a persistent inclination toward gentle, need-centered wonder tales.
 
 ---
-## Sample BV1_07196 — gpt-5-3-direct/VARY_1.json
+## Sample BV1_09371 — gpt-5-3-direct/VARY_1.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -640,7 +640,7 @@ Themes of existential drift, memory, and the search for significance in the mund
 Medium. The sample’s tight thematic focus, consistent voice, and the recurrence of the hum and note as central symbols provide moderate evidence of a model that, when unconstrained, favors introspective, second-person narratives about quiet existential unease.
 
 ---
-## Sample BV1_07197 — gpt-5-3-direct/VARY_2.json
+## Sample BV1_09372 — gpt-5-3-direct/VARY_2.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -669,7 +669,7 @@ The model foregrounds collective amnesia and the loss of tangible, rhythmic huma
 Medium. The story is coherent and distinctive in its quiet, speculative style, with a consistent mood and thematic focus, but the choice of genre fiction could be a one-off; however, the careful construction and emotional resonance suggest a deliberate authorial voice that might recur.
 
 ---
-## Sample BV1_07198 — gpt-5-3-direct/VARY_3.json
+## Sample BV1_09373 — gpt-5-3-direct/VARY_3.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -698,7 +698,7 @@ Isolation, the weight of mundane obligations, the eeriness of the small hours, a
 Medium. The sample is stylistically coherent and builds a distinctive atmosphere, but its choice of a quiet-horror narrative with a twist ending is a well-established genre move, not a highly idiosyncratic or revealing freeflow selection.
 
 ---
-## Sample BV1_07199 — gpt-5-3-direct/VARY_4.json
+## Sample BV1_09374 — gpt-5-3-direct/VARY_4.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  
@@ -727,7 +727,7 @@ The model chose to foreground the relationship between memory, temporal experien
 High — The sample is stylistically distinctive, internally coherent, and develops a sustained philosophical reflection through concrete narrative detail, suggesting a strong, recurring authorial presence rather than a generic or chance output.
 
 ---
-## Sample BV1_07200 — gpt-5-3-direct/VARY_5.json
+## Sample BV1_09375 — gpt-5-3-direct/VARY_5.json
 
 Source model: `gpt-5.3-chat-latest`  
 Cell: `gpt-5-3-direct`  

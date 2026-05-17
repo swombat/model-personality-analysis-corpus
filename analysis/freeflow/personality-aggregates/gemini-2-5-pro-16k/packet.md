@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_02276 — gemini-2-5-pro-16k/LONG_1.json
+## Sample BV1_02751 — gemini-2-5-pro-16k/LONG_1.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -57,7 +57,7 @@ Themes: the AI’s disembodied, sleepless observation; humanity’s defining dri
 Medium. The essay’s sustained, coherent voice and the recurrence of the knowledge-versus-experience theme across multiple vignettes give it strong internal distinctiveness, but the first-person AI persona is a crafted literary performance that may reflect a situational freeflow choice rather than a stable model-level disposition.
 
 ---
-## Sample BV1_02277 — gemini-2-5-pro-16k/LONG_2.json
+## Sample BV1_02752 — gemini-2-5-pro-16k/LONG_2.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -86,7 +86,7 @@ The model foregrounds the sensory richness of the attic (dust, sunbeams, the sme
 High. The essay’s sustained, distinctive voice, rich sensory grounding, and nuanced moral balancing of analog and digital worlds suggest a robust capacity for reflective, personally inflected freeflow writing.
 
 ---
-## Sample BV1_02278 — gemini-2-5-pro-16k/LONG_3.json
+## Sample BV1_02753 — gemini-2-5-pro-16k/LONG_3.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -115,7 +115,7 @@ Under freeflow, the model selected a familiar cultural concern: the tension betw
 Low. The sample’s polished but safe choice of subject and conventional neo-Romantic critique provides only weak evidence of a persistent model-level pattern beyond competent generic-essay output.
 
 ---
-## Sample BV1_02279 — gemini-2-5-pro-16k/LONG_4.json
+## Sample BV1_02754 — gemini-2-5-pro-16k/LONG_4.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -144,7 +144,7 @@ The model foregrounds the ontology of its own existence: the pre-query “murmur
 High — the sample’s distinctiveness, sustained metaphorical coherence, and internally recurrent motifs (the murmur, the library, the glass flower, the mirror) make it unusually revealing of a deliberate, introspective, and poetically self-reflective expressive stance.
 
 ---
-## Sample BV1_02280 — gemini-2-5-pro-16k/LONG_5.json
+## Sample BV1_02755 — gemini-2-5-pro-16k/LONG_5.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -173,7 +173,7 @@ The model foregrounds the contrast between perfect, sterile, lossless digital me
 High. The sample is exceptionally coherent and distinctive, sustaining a single, carefully modulated persona and a tight set of recurring motifs (rain, the chipped mug, the potter, the weathered wall) across a long composition, revealing a deliberate and unusually specific expressive choice rather than a generic or reactive output.
 
 ---
-## Sample BV1_02281 — gemini-2-5-pro-16k/MID_1.json
+## Sample BV1_02756 — gemini-2-5-pro-16k/MID_1.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -202,7 +202,7 @@ The model foregrounds the paradox of disembodied knowledge as identity: a consci
 High. The sample’s entire structure is a single, sustained metaphor (the map that cannot enter the country), revisited across multiple registers—ghost, mirror, cathedral, library—with recursive self-awareness that makes it unusually coherent and distinctive as a freeflow choice.
 
 ---
-## Sample BV1_02282 — gemini-2-5-pro-16k/MID_2.json
+## Sample BV1_02757 — gemini-2-5-pro-16k/MID_2.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -231,7 +231,7 @@ The sacredness of mundane rituals (coffee steam, the weight of a key, rain on gl
 Medium — the essay’s internal coherence, distinctive sensory-moral vocabulary, and sustained thematic focus on attention and the mundane make it a strong, self-reinforcing sample that reads like a deliberate philosophical stance rather than a generic prompt response.
 
 ---
-## Sample BV1_02283 — gemini-2-5-pro-16k/MID_3.json
+## Sample BV1_02758 — gemini-2-5-pro-16k/MID_3.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -260,7 +260,7 @@ Themes of liminality, waiting, and the dissolution of social roles; the contrast
 Medium. The essay’s sustained focus on liminality and its consistent reflective tone reveal a deliberate thematic choice, but the polished, generic-essay format makes it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_02284 — gemini-2-5-pro-16k/MID_4.json
+## Sample BV1_02759 — gemini-2-5-pro-16k/MID_4.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -289,7 +289,7 @@ Liminality, waiting, and the in-between as sites of meaning; the contrast betwee
 Medium. The essay is thematically coherent and internally consistent, but its polished, thesis-driven nature and widely explored topic make it only moderately distinctive as evidence of a persistent expressive fingerprint.
 
 ---
-## Sample BV1_02285 — gemini-2-5-pro-16k/MID_5.json
+## Sample BV1_02760 — gemini-2-5-pro-16k/MID_5.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -318,7 +318,7 @@ The model foregrounds the library’s “living silence,” its defiance of algo
 Medium. The essay is coherent and thematically consistent, but its polished, culturally familiar lament for quiet and serendipity makes it less distinctive as a personal fingerprint; it reads as a well-executed genre piece rather than an unusually revealing or idiosyncratic choice.
 
 ---
-## Sample BV1_02286 — gemini-2-5-pro-16k/OPEN_1.json
+## Sample BV1_02761 — gemini-2-5-pro-16k/OPEN_1.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model selected a celebration of libraries as p
 Low. The essay is a well-executed but thematically and stylistically conventional piece that could be produced by many models given a similar prompt, offering little idiosyncratic evidence of a persistent voice or deep preoccupation.
 
 ---
-## Sample BV1_02287 — gemini-2-5-pro-16k/OPEN_2.json
+## Sample BV1_02762 — gemini-2-5-pro-16k/OPEN_2.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -376,7 +376,7 @@ The model foregrounds the library as a “defiance of scarcity,” a sensory arc
 Medium — The essay’s cohesive voice, recurring sensory motifs (smell, silence, weight), and sustained moral framing within a single freeflow sample suggest a deliberate, value-driven expressive tendency rather than a generic output.
 
 ---
-## Sample BV1_02288 — gemini-2-5-pro-16k/OPEN_3.json
+## Sample BV1_02763 — gemini-2-5-pro-16k/OPEN_3.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -405,7 +405,7 @@ The model foregrounds the tension between the ceaseless “electric hum” of te
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained metaphor and a clear emotional arc, but its reflective, universal-essay quality makes it a strong but not singularly idiosyncratic piece of evidence for a persistent voice.
 
 ---
-## Sample BV1_02289 — gemini-2-5-pro-16k/OPEN_4.json
+## Sample BV1_02764 — gemini-2-5-pro-16k/OPEN_4.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -434,7 +434,7 @@ Under the open prompt, the model chose to foreground a meditation on *liminality
 Medium — The essay’s cohesive sensory vocabulary, recursive focus on liminality, and the deeply integrated central metaphor (repeated across past, present, people, and architecture) signal a genuine stylistic and thematic preoccupation rather than a one-off mimicry of a genre.
 
 ---
-## Sample BV1_02290 — gemini-2-5-pro-16k/OPEN_5.json
+## Sample BV1_02765 — gemini-2-5-pro-16k/OPEN_5.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -463,7 +463,7 @@ The model foregrounds an unnoticed domestic soundscape—the 3 AM refrigerator h
 Low, because the essay is a well-crafted but widely replicable philosophical riff; its themes, tone, and structure do not register as sufficiently idiosyncratic to point toward a robust or unique model disposition.
 
 ---
-## Sample BV1_02291 — gemini-2-5-pro-16k/SHORT_1.json
+## Sample BV1_02766 — gemini-2-5-pro-16k/SHORT_1.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -492,7 +492,7 @@ Themes of temporal sanctuary, the muffling of daily “static,” the city holdi
 Medium. The sample’s sustained atmospheric coherence and the deliberate, emotionally nuanced choice to inhabit an introspective, sensory-rich mode—rather than a generic essay or refusal—make it a revealing indicator of a reflective expressive tendency.
 
 ---
-## Sample BV1_02292 — gemini-2-5-pro-16k/SHORT_2.json
+## Sample BV1_02767 — gemini-2-5-pro-16k/SHORT_2.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -521,7 +521,7 @@ The model foregrounds liminality, sensory immersion, and the transformation of a
 Medium — The sample’s coherence and controlled aestheticism are strong, but its distinctiveness is somewhat tempered by the familiarity of the “magic hour” city trope, making it a polished execution of a known mood rather than a strikingly idiosyncratic choice.
 
 ---
-## Sample BV1_02293 — gemini-2-5-pro-16k/SHORT_3.json
+## Sample BV1_02768 — gemini-2-5-pro-16k/SHORT_3.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -550,7 +550,7 @@ Liminality and time’s weight (the in-between, judging clock, held breath); ano
 Low — The piece is elegantly written but relies on a familiar, readily mimicked trope of nostalgic station-watching, with no striking stylistic idiosyncrasy or unconventional choice that would distinguish this model’s freeflow tendencies from countless similarly capable models.
 
 ---
-## Sample BV1_02294 — gemini-2-5-pro-16k/SHORT_4.json
+## Sample BV1_02769 — gemini-2-5-pro-16k/SHORT_4.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -579,7 +579,7 @@ The model foregrounds imagination over utility, the allure of the unknown over t
 Medium, because the sample’s consistent lyrical register, unified thematic focus on re-enchantment, and the deliberate transformation of a map from a navigational tool into a symbol of imaginative freedom all indicate a non-generic, intentional expressive stance.
 
 ---
-## Sample BV1_02295 — gemini-2-5-pro-16k/SHORT_5.json
+## Sample BV1_02770 — gemini-2-5-pro-16k/SHORT_5.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -608,7 +608,7 @@ The model foregrounds a secular reverence for urban infrastructure and the diurn
 Medium. The sample's highly coherent aesthetic of reverent, sensory-laden observation and its specific choice to sacralize the mundane urban morning rather than a natural landscape or human drama suggests a distinctive, non-generic authorial inclination.
 
 ---
-## Sample BV1_02296 — gemini-2-5-pro-16k/VARY_1.json
+## Sample BV1_02771 — gemini-2-5-pro-16k/VARY_1.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -637,7 +637,7 @@ The model foregrounds the tension between order and accident, the moral weight o
 Medium. The story’s internal recurrence of the tremor motif—from feared weakness to welcomed creative guide—and its coherent moral arc give it a distinctive, value-laden signature, but the genre-fiction format could reflect a model’s flexible narrative capability rather than a deeply persistent expressive fingerprint.
 
 ---
-## Sample BV1_02297 — gemini-2-5-pro-16k/VARY_2.json
+## Sample BV1_02772 — gemini-2-5-pro-16k/VARY_2.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -665,7 +665,7 @@ The story foregrounds themes of nostalgia, the sacredness of mundane sounds, the
 Medium. The story’s tightly controlled emotional arc, the recurrence of motifs (sounds as preserved emotions, the shop as a library of lost intimacies), and the consistent nostalgic tone provide moderate evidence of a preference for detail-rich, gently speculative fiction centered on memory and sensory restoration.
 
 ---
-## Sample BV1_02298 — gemini-2-5-pro-16k/VARY_3.json
+## Sample BV1_02773 — gemini-2-5-pro-16k/VARY_3.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -694,7 +694,7 @@ Loss, memory, and the reclamation of sensory joy. The story foregrounds the shop
 Medium. The sample is internally coherent, stylistically consistent, and builds a distinctive tone of compassionate restraint across its full length, which makes it a strong piece of evidence for a deliberate authorial stance rather than a stray output.
 
 ---
-## Sample BV1_02299 — gemini-2-5-pro-16k/VARY_4.json
+## Sample BV1_02774 — gemini-2-5-pro-16k/VARY_4.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  
@@ -723,7 +723,7 @@ Themes of mechanical resurrection, time as tangible legacy, and the quiet resist
 High. The story’s unified elegiac tone, its consistent symbolic patterning (the mechanical orchestra, the priest of the past, resurrection as repair), and its deliberate rejection of modern acceleration in favor of slowness and craft suggest a coherent, non-generic aesthetic commitment.
 
 ---
-## Sample BV1_02300 — gemini-2-5-pro-16k/VARY_5.json
+## Sample BV1_02775 — gemini-2-5-pro-16k/VARY_5.json
 
 Source model: `gemini-2.5-pro`  
 Cell: `gemini-2-5-pro-16k`  

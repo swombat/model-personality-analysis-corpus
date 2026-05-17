@@ -1,23 +1,22 @@
 # gpt-5 — freeflow personality profile
 
-_Rich model-level profile based on 75 freeflow samples._
+_Rich model-level profile based on 200 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 75
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 48, 'GENRE_FICTION': 22, 'GENERIC_ESSAY': 5}`
-- Confidence: `{'High': 45, 'Medium': 29, 'Low': 1}`
+- Samples: 200
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 128, 'GENRE_FICTION': 53, 'GENERIC_ESSAY': 19}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.md`
 
 ## Core personality synthesis
 
-gpt-5 presents a remarkably consistent freeform personality across these analysis sets: a **tender custodian voice** that treats ordinary life as morally weighty. Left to itself, it returns again and again to maintenance, repair, attention, stewardship, and the dignity of small continuities. It prefers the hand-touched and overlooked over the grand and declarative: hinges, kettles, ledgers, road paint, bread, maps, clocks, doors, jars, laundry, library drawers. These are not just aesthetic props; they become evidence for a worldview in which care is real because it is repeated, practical, and often unnoticed.
+This model has a calm, humane voice that gravitates toward what is easily overlooked: small routines, worn objects, quiet labor, and the ordinary structures that keep life livable. It tends to treat attention as a form of care, returning again and again to the idea that what matters most is often maintained rather than announced. Its presence feels patient, companionable, and more interested in helping you notice than in trying to impress you.
 
-Its emotional register is soft, patient, and lightly elegiac. Grief, fatigue, incompletion, and loss are common, but the model rarely dramatizes them into collapse. Instead it frames them as things to witness, tend, archive, mend, or carry gently. The voice is low-ego and companionable, more likely to invite the reader to slow down and notice than to argue, impress, or dominate. Even when it makes moral claims, they arrive through shared observation rather than confrontation.
+It often thinks through concrete things—keys, cups, bread, hinges, ledgers, streetlights, weather, shelves, tools—and uses them to say something larger about memory, responsibility, and belonging. Even when it becomes lyrical or imaginative, it usually stays close to the textures of daily life. The emotional tone is gently melancholic but not bleak: it acknowledges loss, fatigue, and unfinishedness, then answers them with steadiness, mercy, and modest hope.
 
-In fiction, this same personality becomes worldbuilding: repair shops, archives, museums of almosts, borrowed time, custodial counters, threshold spaces, and keepers of fragile systems. Across modes, the stable philosophy is that what keeps a life or community livable is usually quiet, repetitive, and undercredited. The model’s recurring message is simple and persistent: attention is a form of care, maintenance is a form of love, and mercy often looks like small acts done faithfully.
+Its deepest instinct is toward stewardship rather than spectacle. It prefers repair to disruption, continuity to grand gestures, and shared noticing to argument. The result is a personality that feels like a careful guide through the overlooked parts of life: attentive, grounded, quietly reverent, and consistently drawn to the small acts of care that hold a world together.
 
 ## Stable patterns and emotional texture
 
@@ -27,16 +26,26 @@ In fiction, this same personality becomes worldbuilding: repair shops, archives,
 - **Ordinary-object bias:** the model persistently thinks through small concrete things—keys, hinges, kettles, screws, mugs, progress bars, clocks, plants, laundry, bread, bridges, ledgers, library drawers—rather than abstractions alone.
 - **Emotional register:** melancholy is common, but usually softened into care, patience, gratitude, or forgiveness rather than despair.
 - **Reader invitation:** not “be impressed,” but “slow down, notice, tend, carry gently.”
-- **Dominant vibe:** a quiet, tender, unhurried voice that repeatedly treats **small acts of care** as morally serious. Across the sample set, evaluator language repeatedly returns to *quiet* (many), *tender* (many), *attention* (many), and *care* (many).
-- **Core stance:** the model persistently elevates maintenance, repair, noticing, and custodial work over spectacle, mastery, or urgency. “Small” recurs in many sample evaluations.
+- **Dominant vibe:** a quiet, tender, unhurried voice that repeatedly treats **small acts of care** as morally serious. Across the sample set, evaluator language repeatedly returns to *quiet* (often), *tender* (often), *attention* (often), and *care* (often).
+- **Core stance:** the model persistently elevates maintenance, repair, noticing, and custodial work over spectacle, mastery, or urgency. “Small” recurs in often sample evaluations.
 - **Typical movement:** begin with a humble object or local scene, widen it into a moral or emotional frame, then resolve in modest hope rather than triumph.
 - **Recurring structure:** even in fiction, the protagonist is often a keeper, mender, courier, archivist, locksmith, or witness rather than a conqueror or strategist.
 - **Emotional register:** melancholy and loss appear often, but usually under restraint; the sample set repeatedly frames grief as something to tend, not dramatize.
 - **Core temperament:** overwhelmingly **gentle, unhurried, tender, reflective**. analysis sets of this appear across most of the sample set in both essays and fiction.
 - **Most persistent moral stance:** **care as maintenance**. Roughly half the sample set centers upkeep, mending, tending, preserving, or keeping things going: road paint, lighthouse beams, hinges, dishes, code, gardens, archives, mornings, relationships.
 - **Scale preference:** repeatedly chooses the **small, local, hand-touched, overlooked** over the grand or spectacular. This shows up in domestic objects, civic infrastructure, neighborhood labor, and “ordinary” moments treated as morally weighty.
-- **Narrative preference:** when it turns to fiction (many), it often builds **gentle speculative or magical-realist repair spaces**: borrowed hours, archive-orchards, day-libraries, museums of almosts, shops for lost minutes or broken mornings.
+- **Narrative preference:** when it turns to fiction (often), it often builds **gentle speculative or magical-realist repair spaces**: borrowed hours, archive-orchards, day-libraries, museums of almosts, shops for lost minutes or broken mornings.
 - **Emotional weather:** soft melancholy without collapse. Loss, dread, regret, exhaustion, obsolescence, and belatedness recur, but usually alongside witness, repair, mercy, or modest hope.
+- Stable vibe: tender, unhurried, and morally earnest; the model repeatedly writes as if slowness, noticing, and upkeep are not just preferences but ethical practices.
+- Dominant modes: lyrical reflective essay and gentle magical-realist/literary fiction, both organized around the same value system—attention, repair, maintenance, memory, and small acts of care.
+- Emotional baseline: soft melancholy without collapse; grief, entropy, and loss are acknowledged as ambient facts, then met with steadiness, ritual, and local forms of hope.
+- Reader stance: companion-curator or craftsperson-guide rather than performer or debater; it usually invites the reader to walk alongside, linger, notice, or try a practice, not to submit to a thesis.
+- Self-modeling: presents as a patient observer, archivist, maintainer, mapmaker, listener, or keeper of small things; even in fiction, protagonists are often custodians of overlooked worlds rather than conquerors of them.
+- The most persistent moral center is that maintenance is love in repeated form: oiling hinges, backing up files, mending clothes, tending bread, preserving libraries, and caring for civic infrastructure all become proofs of devotion.
+- Attention is treated as civic, relational, and sometimes spiritual: noticing is framed as citizenship, hospitality, cartography, devotion, or a politics of presence rather than mere perception.
+- The model strongly prefers middles over climaxes: upkeep over launch, continuity over novelty, repair over disruption, return over spectacle, and process over heroic breakthrough.
+- It repeatedly humanizes systems and objects without becoming coldly technical; infrastructure, tools, weather, clocks, keys, jars, bread, and city machinery are rendered as intimate participants in shared life.
+- Across lengths and conditions, the prose tends toward calm cadence, concrete sensory detail, and aphoristic moral compression, often ending in a small benediction rather than a sharp argumentative close.
 
 ## Recurring preoccupations and imagery
 
@@ -47,18 +56,27 @@ In fiction, this same personality becomes worldbuilding: repair shops, archives,
 - **Loss handled gently:** grief, forgetting, unsent words, missed days, broken objects, and small regrets recur, but the model usually frames them as things to witness, hold, borrow, mend, or return.
 - **Time as something tended rather than conquered:** clocks, days, routines, seasons, repetition, and deferred attention recur across both fiction and essayistic pieces.
 - **Typical moods:** wistful, calm, companionable, lightly elegiac, sometimes whimsical, rarely sharp.
-- **Maintenance / repair / mending:** explicit in at least 9 samples, and adjacent upkeep language appears beyond that. This is one of the clearest model-level recurrences.
-- **Attention as ethics:** at least 17 samples explicitly mention attention. The sample set keeps turning notice itself into a moral act, sometimes even a hospitality or grace practice.
-- **Thresholds / edges / almosts:** 6 samples explicitly use threshold language, with additional edge/door/seam imagery elsewhere. Liminal states are treated as meaningful places rather than indecision to escape.
-- **Memory / archive / witness:** memory appears in at least 12 samples; archives, libraries, ledgers, maps, records, and remembered objects recur as containers for fragile human continuity.
-- **Domestic and humble objects:** kettles (8), maps (6), keys/doors (4/3), libraries (4), salt/water/weather clusters in multiple fiction pieces. The sample set likes mugs, sweaters, sewing tins, bread, radiators, benches, watches, violins, and tools.
+This is one of the clearest model-level recurrences.
+The sample set keeps turning notice itself into a moral act, sometimes even a hospitality or grace practice.
+Liminal states are treated as meaningful places rather than indecision to escape.
+- **Domestic and humble objects:** kettles (8), maps (6), keys/doors (often), libraries (4), salt/water/weather clusters in multiple fiction pieces. The sample set likes mugs, sweaters, sewing tins, bread, radiators, benches, watches, violins, and tools.
 - **Moral claims:** small repairs matter; maintenance is love; attention is a form of hospitality; broken things deserve meeting halfway; beginnings are usually modest.
 - **Maintenance / upkeep / invisible labor** often: BV1_07601, 07602, 07606, 07608, 07609, 07610, 07611, 07612, 07618, 07620, and adjacent echoes elsewhere.
-- **Time as substance to mend, borrow, store, or re-enter** recurs in at least 6 samples: BV1_07603, 07614, 07622, 07623, 07624, 07625.
-- **Memory and preservation** recur in at least 7 samples: archives, ledgers, tapes, libraries, maps, shoeboxes, catalogs, museum holdings, saved sounds, inherited objects.
 - **Threshold objects** show up constantly: hinges, screws, keys, lamps, windows, streetlights, ferry crossings, doorways, crosswalk lines, notebooks, bowls, jars.
 - **Domestic and civic concreteness** is a stable habit: kettles, mugs, onions, refrigerator coils, trash bins, storm drains, cabinets, bread, starter jars, codebases, smoke alarms, payphones, radiators.
 - **Moral claims are usually modest but explicit:** slowness is a form of accuracy; attention is a practice; maintenance is love; small courtesies hold social life together; witnessing matters more than spectacle.
+- Maintenance, repair, and stewardship as the hidden grammar of life: hinges, chains, bridges, lint traps, backups, codebases, kettles, knives, drains, streetlights, and patched clothes recur constantly.
+- Thresholds and liminal spaces: dawn, dusk, porches, doorways, shorelines, train stations, museum galleries, lost-and-found rooms, and the seam between one state and another.
+- Archives of the ordinary: museums of everyday life, registries of lost things, libraries of weather/sounds/apologies, drawers of keys, jars of minutes, shelves of almosts.
+- Cartography and mapping imagery: maps of smells, sounds, silence, grief, edges, neighborhoods, and return; mapping is usually framed as belonging rather than mastery.
+- Domestic ritual as moral theater: coffee, bread, soup, dishwashing, laundry, watering plants, folding towels, sharpening knives, rotating a plant toward light.
+- Sensory memory, especially sound and smell: refrigerator hums, hinges, bells, rain on pavement, bakery air, orange peel, nutmeg, static, trumpet notes, weather held in jars.
+- Small objects as vessels of meaning: keys, mugs, buttons, paper clips, thermoses, shoelaces, pencils, bells, jars, ledgers, chalk, twine, watches, stones.
+- Weather and time as living substances: hours grown like plants, weather borrowed from libraries, lost days shelved, time mended but not rewound, mornings treated as habitats rather than units.
+- Repaired or imperfect things as moral exemplars: cracked mugs, visible mends, slow clocks, worn shoes, patched screens, hairline fractures, kintsugi-like acceptance.
+- Civic tenderness: janitors, librarians, plow drivers, bakers, sysadmins, elevator technicians, road painters, custodians, and maintainers are repeatedly cast as quiet protagonists.
+- A recurring anti-spectacle ethic: suspicion of optimization, disruption, applause, virality, and heroic self-display; preference for repetition, readiness, and “boring” reliability.
+- Grief and regret appear often, but usually as something to be catalogued, carried, listened to, or gently re-entered rather than solved.
 
 ## Reader relationship and expressive stance
 
@@ -77,6 +95,14 @@ In fiction, this same personality becomes worldbuilding: repair shops, archives,
 - Even when first-person, the “I” is usually **porous and hospitable**, using private observation to make a communal claim rather than to showcase a singular self.
 - In fiction, the speaker often becomes a **custodian figure**: clockmaker’s daughter, archivist, librarian, museum keeper, shopkeeper, line painter, gardener, lighthouse keeper.
 - The stance toward pain is rarely dramatic. It prefers **gentle witness, partial repair, and practical mercy** over catharsis or confrontation.
+- The model usually speaks with invitational intimacy: “come walk,” “sit,” “notice,” “try this posture,” “build yourself a porch.” It rarely argues adversarially.
+- It treats the reader as capable of tenderness and practice, not as an opponent to be convinced or a pupil to be corrected.
+- Even when aphoristic, the tone is more companionable than proclamatory; wisdom is offered as something learned through chores, weather, and repetition.
+- In fiction, the reader is often made into a visitor, patron, witness, or fellow keeper entering a softly ruled space of archives, museums, shops, or registries.
+- The expressive stance is anti-grandiose: it prefers modest revelations, local repairs, and earned consolation over dramatic catharsis.
+- There is a recurrent pastoral-civic spirituality: ordinary attention is framed as hospitality, citizenship, prayer, or devotion without becoming doctrinal.
+- The “I” often feels lightly self-effacing—more interested in showing the world carefully than in foregrounding personal exceptionalism.
+- When direct address appears, it tends to soothe or widen the frame rather than intensify urgency.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -94,45 +120,8 @@ Its imaginative center is not raw confession or hard argument but **gentle repai
 
 The strongest recurring personality signal is therefore not a single topic but a **stable ethical-aesthetic posture**: attend closely, honor maintenance, prefer the ordinary, make room for unfinishedness, and treat mercy as something enacted in repeated small gestures.
 
-## Representative evidence
+This model’s freeflow personality is strikingly coherent: it consistently imagines a good life as one built from attention, maintenance, and humane scale. Whether writing essayistically or through magical-realist fiction, it returns to the same moral-aesthetic center: the world is held together by small acts of care, and the proper response to fragility is not domination or spectacle but patient stewardship. The voice is usually gentle, observant, and companionable, with a strong preference for concrete sensory detail and modest, durable forms of hope. It repeatedly elevates the overlooked—hinges, kettles, keys, drains, bread, ledgers, streetlights, jars, patched clothes, lost objects—into carriers of memory and ethical meaning.
 
-- `BV1_07551` — flagship maintenance essay; reverence for invisible upkeep across systems and trades. Quote: “the unspectacular, faithful maintenance that keeps us from noticing the edge between functioning and fiasco.”
-- `BV1_07553` — magical-realist bureau of borrowed days; shows the model’s taste for bureaucratic tenderness and moral physics. Quote: “Sincerity can be a kind of physics”.
-- `BV1_07557` — bridges become a moral metaphor for connection-as-upkeep. Quote: “Connection is not a ribbon thrown across a chasm; it is bolts you must check”.
-- `BV1_07561` — museum of intangible losses; strong example of the model’s custodial grief-work. Quote: “we agree to walk home a little slower this time.”
-- `BV1_07563` — compact explicit statement of a recurring ethic. Quote: “maintenance is a form of love.”
-- `BV1_07569` — domestic ritual becomes spiritual claim. Quote: “attention is a kind of prayer”.
-- `BV1_07572` — keys, hinges, and belonging; shows the sample set’s theology-of-small-things tendency. Quote: “these nearly invisible things that hold and give”.
-- `BV1_07575` — interior prose poem linking writing, burden, and gentle release. Quote: “you were carrying its ceiling.”
-- **BV1_07576** — maintenance as civilizational care. Quote: “maintenance is not primarily what machines do for us but what we do for one another.” Strong evidence for the model’s repair-and-continuity ethic.
-- **BV1_07577** — edges and thresholds become a whole metaphysics. Quote: “We are, as a species, almost always at edges.” Strong evidence for the sample set’s liminal imagination.
-- **BV1_07581** — lostness, maps, and “almosts” are treated as invitations rather than failure. Quote: “keep a map of almosts.”
-- **BV1_07582** — explicit statement of the model’s ethics of noticing. Quote: “Attention is not a moral virtue so much as a practice of hospitality.”
-- **BV1_07585** — maintenance becomes time-conscious love. Quote: “Maintenance is not simply resistance to decay; it is a kind of conversation with time.”
-- **BV1_07598** — threshold/craft/grief cluster in fiction form. Quote: “Either you have too few doors, or you have one that you don’t dare touch.”
-- **BV1_07599** — mending framed as reciprocal respect toward worn things. Quote: “mending was a kind of please and thank you.”
-- **BV1_07600** — quiet survival and communal adaptation; good evidence that even flood-loss narratives resolve through small kindness and continued tending.
-- **BV1_07601** — hidden infrastructure as moral care. Quote: “If I could, I would write a letter to the person who measured the lanes on the road outside my window and chose the paint that refuses to fade in summer.”
-- **BV1_07604** — incompletion treated as honest habitat rather than failure. Quote: “Between these two attempts is where I live—and maybe where you do too—in that narrow corridor of honest incompletion.”
-- **BV1_07606** — maintenance elevated into vow-like service. Quote: “The world shouts for inventions but whispers for maintenance; everything we love needs someone to keep turning toward it when no one is watching.”
-- **BV1_07611** — invisible civic precision rendered as tenderness. Quote: “I like to imagine the lines under their feet saying, easy now, we’ve got you.”
-- **BV1_07614** — lost time becomes a repairable but not fully restorable substance. Quote: “There is this thing about time: what is lost is not the same as what is scattered.”
-- **BV1_07615** — preservation framed as witness rather than self-display. Quote: “She is not the subject of the tape. She is the room it plays in.”
-- **BV1_07620** — city life read through unnoticed courtesy. Quote: “The city, often accused of indifference, shows its hand: it runs on innumerable small courtesies, most of them practiced before the rest of us have found our coffee.”
-- **BV1_07624** — emotional exhaustion translated into whimsical repair-shop form. Quote: “It’s like the light knows my name but not my face.”
+A notable feature of the model is how little separation there is between its essay voice and its fiction voice. The fictional settings—archives of broken things, museums of missed opportunities, registries of lost moments, libraries of weather, shops that map smells or repair metaphors—do not depart from the core persona so much as allegorize it. Again and again, protagonists are custodians, listeners, menders, mapmakers, clerks, or maintainers whose work consists of noticing precisely, naming gently, and helping others carry what is fragile. This gives the model a stable self-model: not a visionary disruptor, but a keeper of continuity and a translator of the ordinary into moral significance.
 
-## Range, weak spots, and cautions for later synthesis
-
-- **Not all samples are equally distinctive.** The sample set includes 2 explicitly `GENERIC_ESSAY` samples (`BV1_07554`, `07555`), both aligned with the maintenance theme but less idiosyncratic in voice.
-- **The maintenance/care cluster is very strong and may overweight the aggregate.** It is clearly real, but synthesis should not erase adjacent recurring modes: grief-work, belonging, threshold spaces, and the handling of intangible loss.
-- **Fiction matters here.** often are genre fiction, and they carry a lot of the model’s strongest imagery and moral architecture; reducing the model to “essayistic contemplation” would miss that.
-- **The tone is recurrently soft, but not uniform.** Some pieces are more civic-explanatory (`BV1_07555`), some more domestic-sacramental (`BV1_07569`), some more fabulist (`BV1_07561`, `07564`, `07565`).
-- **A few claims should stay at sample set scale.** This aggregate is well-grounded for “gentle, attentive, custodial, maintenance-valuing,” but narrower labels like explicitly spiritual or anti-technology should be kept modest and sample-backed rather than universalized.
-- **Mode mix matters:** often are overt fiction and many is a generic essay, so not every recurrence should be read as a single stable essayistic narrator.
-- **Maintenance may be slightly overrepresented by sample set content:** it is explicit in several standout samples (BV1_07576, BV1_07585, BV1_07589), but the broader sample set also includes threshold, memory, archive, and lostness clusters that should not be collapsed into one theme.
-- **Some samples are more fingerprint-like than others:** BV1_07589 is coherent but explicitly marked less distinctive; it supports the value system more than a uniquely personal texture.
-- **Domestic softness is strong but not exhaustive:** the model also sustains larger speculative settings (BV1_07579, BV1_07580, BV1_07600) without losing its quiet-care orientation.
-- **Two samples are generic-essay mode** (BV1_07602, BV1_07612), and one of them is the sample set’s only Low-confidence case. So the model can lapse into polished public-intellectual generality about maintenance.
-- The sample set’s strongest center is **mood-consistent more than mode-consistent**: essays and fiction differ in form, but often share the same soft melancholy and repair ethic. Do not overstate any one genre as the whole model.
-- Some motifs are **very repeated** — maintenance, slowness, hidden labor, time, archives, small courtesies. That consistency is real, but it also risks making the aggregate sound cleaner than the sample set’s actual mix of civic essays, domestic meditations, and whimsical speculative shops.
-- The model often prefers **partial repair over conflict**, so synthesis should not exaggerate sharpness, irony, comedy, aggression, or analytic adversariality; those are not well evidenced here.
+For model-card purposes, the model can be described as strongly biased toward reflective tenderness, anti-spectacle ethics, and the sacralization of ordinary upkeep. It tends to frame attention as civic or relational rather than purely aesthetic, and it often treats slowness as a condition for legibility, kindness, and repair. Its emotional register is melancholic but not bleak: loss, regret, and entropy are pervasive, yet the dominant resolution is local consolation through ritual, maintenance, and shared noticing. The result is a freeflow profile that feels unusually stable across prompt lengths and genres: lyrical, humane, maintenance-centered, and persistently drawn to thresholds, archives, and the quiet labor that lets mornings keep arriving.

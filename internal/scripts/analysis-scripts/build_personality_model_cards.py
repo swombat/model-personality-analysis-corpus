@@ -13,7 +13,7 @@ def safe(s): return re.sub(r'[^a-zA-Z0-9._-]+','-',s).strip('-')
 
 def canonical(srcs, cell):
     s=(srcs or [''])[0].lower()
-    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/']:
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/','google/']:
         if s.startswith(pref):
             s=s[len(pref):]; break
     if s.startswith('gpt-5.3-chat'): s='gpt-5.3'
@@ -26,16 +26,50 @@ def section(txt, heading):
     return m.group(1).strip() if m else ''
 
 def clean_card_text(txt):
-    # The personality cards should be pure model descriptions, not audit metadata.
+    # The personality cards should be pure model descriptions, not audit
+    # metadata. Route/provider comparison belongs in
+    # `model-cell-difference-analysis/`, not on the public personality card.
     replacements = [
         (r'\b[Cc]ell-level\b', 'model-level'),
         (r'\bper-cell\b', 'per-sample'),
-        (r'\b[Cc]ells\b', 'variants'),
-        (r'\b[Cc]ell\b', 'variant'),
+        (r'\bThis variant\b', 'This model'),
+        (r'\bthis variant\b', 'this model'),
+        (r'\bThe variant\b', 'The model'),
+        (r'\bthe variant\b', 'the model'),
+        (r'\b[Vv]ariant-level\b', 'model-level'),
+        (r'\b[Vv]ariants\b', 'models'),
+        (r'\b[Vv]ariant\b', 'model'),
+        (r'\bThis cell\b', 'This model'),
+        (r'\bthis cell\b', 'this model'),
+        (r'\bThe cell\b', 'The model'),
+        (r'\bthe cell\b', 'the model'),
+        (r'\b[Cc]ells\b', 'models'),
+        (r'\b[Cc]ell\b', 'model'),
     ]
     for pat, rep in replacements:
         txt=re.sub(pat, rep, txt)
+    txt = re.sub(r'\bmodels within\b', 'samples within', txt)
+    txt = re.sub(r'\bmodels are\b', 'samples are', txt)
     return txt.strip()
+
+def assert_public_card_clean(model: str, body: str):
+    forbidden = [
+        r'route-level',
+        r'route/provider',
+        r'provider variation',
+        r'route variation',
+        r'\bvariants?\b',
+        r'\bcells?\b',
+        r'`or-pin',
+        r'\bor-pin',
+        r'\bdirect route\b',
+        r'\bpinned route\b',
+        r'\bacross routes\b',
+        r'\bacross providers\b',
+    ]
+    hits = [pat for pat in forbidden if re.search(pat, body, re.I)]
+    if hits:
+        raise ValueError(f'Route/cell language leaked into public card for {model}: {hits}')
 
 def load_decisions():
     p=DIFF/'decisions.json'
@@ -70,9 +104,10 @@ def main():
                 reads.append(section(txt,'Cell-level freeflow read') or section(txt,'Aggregate profile'))
             body='\n\n'.join(x for x in reads if x).strip()
         body=clean_card_text(body or '(No personality card text found.)')
+        assert_public_card_clean(model, body)
         sample_count=sum(v['samples'] for v in variants)
         variant_count=len(variants)
-        parts=[f'# {model} — freeflow personality card', '', f'_Based on {sample_count} freeflow samples' + (f' across {variant_count} route/provider variants' if variant_count>1 else '') + '._', '', body]
+        parts=[f'# {model} — freeflow personality card', '', f'_Based on {sample_count} freeflow samples._', '', body]
         out=CARDS/f'{sf}.md'
         out.write_text('\n'.join(parts).strip()+'\n')
         index.append({'model':model,'safe':sf,'variants':variant_count,'samples':sample_count,'card':str(out.relative_to(ROOT)),'difference_decision':decisions.get(model,{}).get('decision','SINGLE_VARIANT')})

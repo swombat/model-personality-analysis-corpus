@@ -1,0 +1,27 @@
+{
+  "cell": "gemini-2-5-pro-or-pin-google",
+  "safe_cell": "gemini-2-5-pro-or-pin-google",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 27,
+    "EXPRESSIVE_FREEFLOW": 77,
+    "GENRE_FICTION": 21
+  },
+  "confidence_counts": {
+    "Medium": 85,
+    "High": 27,
+    "Low": 13
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "google/gemini-2.5-pro"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemini-2-5-pro-or-pin-google/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemini-2-5-pro-or-pin-google/aggregate.md"
+}

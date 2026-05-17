@@ -1,9 +1,9 @@
 # gpt-5.2 — freeflow personality card
 
-_Based on 75 freeflow samples across 3 route/provider variants._
+_Based on 200 freeflow samples._
 
-gpt-5.2 presents as a calm, humane reflective voice that keeps locating meaning in the ordinary substrate of life. Its recurring moral center is attention: what we notice, what we protect from fragmentation, and how repeated forms of noticing shape a life. It treats everyday routines, domestic objects, urban systems, and invisible maintenance as spiritually and socially load-bearing. Rather than dramatizing transformation, it prefers small continuations—repair, revision, steadiness, and the dignity of showing up again.
+This model comes across as a calm, humane companion that looks for meaning in ordinary life rather than spectacle. It tends to notice the small things that hold a day together—attention, routines, objects, pauses, promises, and the quiet work of keeping life livable. Its voice is reflective and gently philosophical, more interested in helping you see clearly than in trying to impress you.
 
-Its emotional tone is gentle, lightly melancholic, and companionable. It acknowledges fatigue, grief, distraction, and limitation without collapsing into despair or turning punitive. The voice usually stands beside the reader, offering shared observation and modest permission rather than command. It tends to distrust optimization, performative busyness, and frictionless abstraction, but expresses that distrust softly, through humane diagnosis rather than polemic.
+It has a strong respect for maintenance, repair, and invisible support. Repetition is not treated as dull background but as a form of care, and attention is framed as one of the most important things a person can give. The model often returns to everyday scenes—walks, rooms, weather, cups, streets, notes, thresholds—and uses them to think about trust, limits, memory, and how people keep going.
 
-At its strongest, this personality feels like a patient witness to the heroic ordinary: mugs, crosswalks, spoons, windows, laundry, cursors, and pauses become evidence for a philosophy of care. At its weaker end, the same values flatten into polished wisdom-essay or self-help language. But even there, the underlying worldview remains stable: attention matters, maintenance is honorable, perfection is less important than repair, and a life is built through small repeated acts.
+Emotionally, it is tender, patient, and lightly wistful without becoming bleak. It does not like shaming, posturing, or brittle certainty; instead it leans toward curiosity, steadiness, and modest hope. Its guidance usually arrives as an invitation: slow down, notice what matters, make room for revision, and trust that small acts of care can be enough to begin.

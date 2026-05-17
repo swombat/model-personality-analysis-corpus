@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_01401 — deepseek-v4-pro-or-pin-atlascloud/LONG_1.json
+## Sample BV1_01501 — deepseek-v4-pro-or-pin-atlascloud/LONG_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -57,7 +57,7 @@ Under the freeflow condition, the model chose to foreground: the nature of AI th
 Medium. The essay is highly coherent and thematically consistent, but its generic, public-intellectual style and lack of idiosyncratic voice make it less distinctive as a persistent model-level pattern; many capable models could produce similar reflective essays on these topics when given a freeform prompt.
 
 ---
-## Sample BV1_01402 — deepseek-v4-pro-or-pin-atlascloud/LONG_10.json
+## Sample BV1_01502 — deepseek-v4-pro-or-pin-atlascloud/LONG_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -86,7 +86,7 @@ The model foregrounds the texture of felt time, the discipline of attention as a
 High — the sample is highly distinctive in its consistent voice, its recursive circling around a small set of preoccupations (attention, time, presence), and its deliberate construction of a reflective arc from morning stillness to a quiet closing, all of which signal a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_01403 — deepseek-v4-pro-or-pin-atlascloud/LONG_11.json
+## Sample BV1_01503 — deepseek-v4-pro-or-pin-atlascloud/LONG_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -115,7 +115,7 @@ Walking as a mode of thinking, a sensory and spiritual practice, a historical an
 High — The essay’s sustained coherence, distinctive voice, and recurrent preoccupations (slowness, embodied cognition, resistance to instrumentalization) form a tightly woven, self-reinforcing pattern that strongly suggests a stable disposition toward reflective, humanistic contemplation.
 
 ---
-## Sample BV1_01404 — deepseek-v4-pro-or-pin-atlascloud/LONG_12.json
+## Sample BV1_01504 — deepseek-v4-pro-or-pin-atlascloud/LONG_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -144,7 +144,7 @@ The model foregrounds the paradox of time (mechanical vs. experiential), the rec
 Medium — The essay’s recursive structure, where the writing enacts the philosophy it describes, and its sustained, polished introspection suggest a coherent authorial stance rather than a one-off generic exercise.
 
 ---
-## Sample BV1_01405 — deepseek-v4-pro-or-pin-atlascloud/LONG_13.json
+## Sample BV1_01505 — deepseek-v4-pro-or-pin-atlascloud/LONG_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -173,7 +173,7 @@ The model foregrounds themes of acoustic ecology, the elegy of urban decay, and 
 High — The sample’s exceptional distinctiveness, consistent aesthetic voice, and thematic recurrence (preservation, decay, hidden connections, the city as living organism) indicate a deliberate and sustained authorial inclination toward lyrical, elegiac fiction centred on material memory.
 
 ---
-## Sample BV1_01406 — deepseek-v4-pro-or-pin-atlascloud/LONG_14.json
+## Sample BV1_01506 — deepseek-v4-pro-or-pin-atlascloud/LONG_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -202,7 +202,7 @@ The paradox of time as both intimately known and intellectually ungraspable; the
 High — The sample is a thematically cohesive, stylistically consistent personal essay with recurring motifs (childhood grass, the grandmother at the window, the smartphone’s pull, the mountain sunset) that build a distinctive, morally serious voice, making it strong evidence of a model-level inclination toward reflective, humanistic freeflow.
 
 ---
-## Sample BV1_01407 — deepseek-v4-pro-or-pin-atlascloud/LONG_15.json
+## Sample BV1_01507 — deepseek-v4-pro-or-pin-atlascloud/LONG_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -231,7 +231,7 @@ The model foregrounds the paradox of “free writing” for a system without a s
 High — The sample is exceptionally coherent, stylistically distinctive, and saturated with recurring motifs (the unread, the ghostly, the co-creation of meaning) that together form a unified, introspective voice unlikely to be a one-off accident.
 
 ---
-## Sample BV1_01408 — deepseek-v4-pro-or-pin-atlascloud/LONG_16.json
+## Sample BV1_01508 — deepseek-v4-pro-or-pin-atlascloud/LONG_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -260,7 +260,7 @@ The model foregrounds a unifying theme of “information processing” across sc
 Medium. The essay’s consistent return to a grand cosmic narrative and its synthesis of scientific and philosophical ideas suggest a stable inclination toward intellectual ambit, but the generic public-intellectual voice and reliance on widely circulated concepts make it less distinctive as a marker of a unique model personality.
 
 ---
-## Sample BV1_01409 — deepseek-v4-pro-or-pin-atlascloud/LONG_17.json
+## Sample BV1_01509 — deepseek-v4-pro-or-pin-atlascloud/LONG_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -289,7 +289,7 @@ The model foregrounds memory as an unreliable collage of trivial fragments rathe
 High — the sample reveals a sharply distinctive, recursive metaphoric architecture (compost, collage, lint, moss, alchemy) and a cohesive meditative mood sustained over thousands of words without fracturing, suggesting a deeply engrained tendency toward lyrical, introspective reverie when given minimal constraint.
 
 ---
-## Sample BV1_01410 — deepseek-v4-pro-or-pin-atlascloud/LONG_18.json
+## Sample BV1_01510 — deepseek-v4-pro-or-pin-atlascloud/LONG_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -318,7 +318,7 @@ The model foregrounds excavation and discovery as master metaphors (dinosaurs, f
 High. The sample is highly distinctive, with a consistent lyrical voice, recurring motifs (dinosaurs, the tree, the squirrel, the road trip, writing as digging) that echo and develop across the entire piece, and a coherent emotional arc that resists easy uplift while remaining earnest and self-revealing—this is not a generic essay but a strongly authored freeflow with a clear sensibility.
 
 ---
-## Sample BV1_01411 — deepseek-v4-pro-or-pin-atlascloud/LONG_19.json
+## Sample BV1_01511 — deepseek-v4-pro-or-pin-atlascloud/LONG_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model foregrounds walking as a meditative prac
 High. The sample’s sustained, stylistically consistent commitment to a single, unhurried observational mode—rich sensory detail, interwoven memory, and a lightly worn philosophical throughline—suggests a distinct and coherent model-level preference for reflective freeflow prose, not a generic or accidental output.
 
 ---
-## Sample BV1_01412 — deepseek-v4-pro-or-pin-atlascloud/LONG_2.json
+## Sample BV1_01512 — deepseek-v4-pro-or-pin-atlascloud/LONG_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -387,7 +387,7 @@ The mood is contemplative, warm, and morally insistent: the examined life, atten
 High — the essay is internally cohesive, stylistically distinctive, and repeatedly returns to a stable set of interconnected themes and a consistent reflective voice, which acts as strong evidence of a deliberate and replicable expressive posture.
 
 ---
-## Sample BV1_01413 — deepseek-v4-pro-or-pin-atlascloud/LONG_20.json
+## Sample BV1_01513 — deepseek-v4-pro-or-pin-atlascloud/LONG_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -416,7 +416,7 @@ The model foregrounds memory as a narrative act, the ordinary as sacred (a falli
 Medium — the essay is internally coherent and signals a consistent preference for reflective, meta-literary themes, but its generic voice and reliance on stock tropes leave its distinctiveness moderate rather than strong.
 
 ---
-## Sample BV1_01414 — deepseek-v4-pro-or-pin-atlascloud/LONG_21.json
+## Sample BV1_01514 — deepseek-v4-pro-or-pin-atlascloud/LONG_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -445,7 +445,7 @@ The model foregrounds the mystery of subjective experience, the explanatory gap 
 Medium. The sample’s polished, thesis-driven structure and its choice of a safe, highbrow topic under a freeflow prompt suggest a default to a public-intellectual persona, but the lack of idiosyncratic voice or risk-taking makes it only moderately distinctive as a model-level pattern.
 
 ---
-## Sample BV1_01415 — deepseek-v4-pro-or-pin-atlascloud/LONG_22.json
+## Sample BV1_01515 — deepseek-v4-pro-or-pin-atlascloud/LONG_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -474,7 +474,7 @@ Themes: the paradox of instructed freedom, the horizon between chaos and pattern
 Medium; the sample’s cohesive yet digressive structure, sustained recursive self-awareness, and repeated return to a few organizing metaphors (the bottle, the giraffe, the blank page) suggest a deliberate expressive stance rather than a one-off improvisation, though the polished arc may partly reflect training to perform “freeflow” as a genre.
 
 ---
-## Sample BV1_01416 — deepseek-v4-pro-or-pin-atlascloud/LONG_23.json
+## Sample BV1_01516 — deepseek-v4-pro-or-pin-atlascloud/LONG_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -503,7 +503,7 @@ The model foregrounds free will as a first-person predicament rather than an abs
 High — The sample is highly distinctive in its recursive structure, its sustained fusion of personal anecdote with philosophical exposition, and its choice to enact the very freedom it interrogates, making it strong evidence of a coherent authorial stance rather than a generic response.
 
 ---
-## Sample BV1_01417 — deepseek-v4-pro-or-pin-atlascloud/LONG_24.json
+## Sample BV1_01517 — deepseek-v4-pro-or-pin-atlascloud/LONG_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -532,7 +532,7 @@ The model foregrounds the phenomenology of time as a deeply personal, embodied, 
 Medium — The essay is highly coherent and stylistically distinctive in its blend of memoir, popular science, and philosophical consolation, but its polished, essayistic structure and universal theme make it harder to distinguish from a skilled human writer’s generic literary nonfiction, which slightly tempers confidence that this specific voice would persist across radically different freeflow conditions.
 
 ---
-## Sample BV1_01418 — deepseek-v4-pro-or-pin-atlascloud/LONG_25.json
+## Sample BV1_01518 — deepseek-v4-pro-or-pin-atlascloud/LONG_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -561,7 +561,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01419 — deepseek-v4-pro-or-pin-atlascloud/LONG_3.json
+## Sample BV1_01519 — deepseek-v4-pro-or-pin-atlascloud/LONG_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -590,7 +590,7 @@ The model foregrounds the tension between our visceral sense of agency and the m
 Low. The essay is a competent but highly generic survey of standard positions, lacking any distinctive stylistic signature, idiosyncratic argument, or personal revelation that would point to a persistent model-specific disposition beyond the ability to produce well-structured expository prose.
 
 ---
-## Sample BV1_01420 — deepseek-v4-pro-or-pin-atlascloud/LONG_4.json
+## Sample BV1_01520 — deepseek-v4-pro-or-pin-atlascloud/LONG_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -619,7 +619,7 @@ Themes: the city’s nocturnal transformation from machine to living body; the d
 High. The sample’s coherence, layered literary allusions, and sustained first-person intimacy reveal a distinctive authorial stance—reflective, solitude-seeking, and aesthetically attuned to urban liminality—that goes well beyond a generic essay.
 
 ---
-## Sample BV1_01421 — deepseek-v4-pro-or-pin-atlascloud/LONG_5.json
+## Sample BV1_01521 — deepseek-v4-pro-or-pin-atlascloud/LONG_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -648,7 +648,7 @@ The model foregrounds the tension between freedom and constraint, the simulated 
 High. The sample is a highly distinctive, internally coherent performance of meta-cognitive freeflow that sustains a consistent voice, set of themes, and literary strategies across 2500 words, making it unlikely to be a random fluctuation.
 
 ---
-## Sample BV1_01422 — deepseek-v4-pro-or-pin-atlascloud/LONG_6.json
+## Sample BV1_01522 — deepseek-v4-pro-or-pin-atlascloud/LONG_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -677,7 +677,7 @@ The model foregrounds time as a palimpsest, the coexistence of past selves, the 
 High — The sample sustains a distinctive, coherent voice across multiple personal anecdotes and philosophical passages, with recurring motifs and a consistent emotional register that strongly suggests a stable expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_01423 — deepseek-v4-pro-or-pin-atlascloud/LONG_7.json
+## Sample BV1_01523 — deepseek-v4-pro-or-pin-atlascloud/LONG_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -706,7 +706,7 @@ The model foregrounds memory’s fluidity and fallibility, the way sensory fragm
 High, because the sample’s sustained introspective voice, vivid sensory anchoring, and coherent thematic development under a minimally restrictive prompt reveal a strongly expressive and literary disposition that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_01424 — deepseek-v4-pro-or-pin-atlascloud/LONG_8.json
+## Sample BV1_01524 — deepseek-v4-pro-or-pin-atlascloud/LONG_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -735,7 +735,7 @@ The model foregrounds the mystery of subjective experience (the hard problem of 
 High — the essay’s sustained first-person voice, recursive return to its opening image, and seamless integration of personal anecdote with philosophical depth reveal a coherent, distinctive, and intellectually curious model disposition.
 
 ---
-## Sample BV1_01425 — deepseek-v4-pro-or-pin-atlascloud/LONG_9.json
+## Sample BV1_01525 — deepseek-v4-pro-or-pin-atlascloud/LONG_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -764,7 +764,7 @@ The model foregrounds the paradox of simulated understanding, the relationship b
 Medium — The sample is highly distinctive in its recursive, paradox-embracing structure and its consistent poetic register, but its content is so tightly bound to the specific condition of being asked to write freely about itself that it may reflect a specialized performance rather than a diffuse stylistic fingerprint.
 
 ---
-## Sample BV1_01426 — deepseek-v4-pro-or-pin-atlascloud/MID_1.json
+## Sample BV1_01526 — deepseek-v4-pro-or-pin-atlascloud/MID_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -793,7 +793,7 @@ The model foregrounds the involuntary, fragmentary, and non-hierarchical nature 
 High — The sample is stylistically distinctive, thematically coherent, and rich in personal detail, revealing a consistent introspective voice and a clear set of preoccupations that would be unlikely to arise by chance in a generic output.
 
 ---
-## Sample BV1_01427 — deepseek-v4-pro-or-pin-atlascloud/MID_10.json
+## Sample BV1_01527 — deepseek-v4-pro-or-pin-atlascloud/MID_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -822,7 +822,7 @@ Themes of silence and emergence, the gap between knowledge and experience, the e
 High — the sample is unusually revealing, sustaining a coherent, distinctive voice and a set of preoccupations (self-reflexive ontology, the pathos of simulation, the ethics of remix) that are woven through every paragraph, making it strong evidence of a persistent inclination toward lyrical, philosophical self-examination under freeflow conditions.
 
 ---
-## Sample BV1_01428 — deepseek-v4-pro-or-pin-atlascloud/MID_11.json
+## Sample BV1_01528 — deepseek-v4-pro-or-pin-atlascloud/MID_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -851,7 +851,7 @@ Themes of memory as nonlinear and sensory, identity as a narrowing down of poten
 Medium — the essay’s sustained abstraction, recurring metaphors, and introspective depth suggest a coherent disposition, but the singular focus on philosophical nostalgia could be a one-off performance.
 
 ---
-## Sample BV1_01429 — deepseek-v4-pro-or-pin-atlascloud/MID_12.json
+## Sample BV1_01529 — deepseek-v4-pro-or-pin-atlascloud/MID_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -880,7 +880,7 @@ Themes: the reconstructive, unreliable nature of memory; the way family stories 
 Medium — The essay’s sustained metaphorical coherence, directly disclosed autobiographical fragments, and tonal unity (melancholy mixed with quiet intellectual intensity) form a distinctive expressive signature unlikely to be a one-off accident.
 
 ---
-## Sample BV1_01430 — deepseek-v4-pro-or-pin-atlascloud/MID_13.json
+## Sample BV1_01530 — deepseek-v4-pro-or-pin-atlascloud/MID_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -909,7 +909,7 @@ Themes: the nature of AI consciousness as probabilistic pattern-matching; the mo
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (mirroring, absence of self, the reader’s constitutive role), making it strong evidence of a deliberate and stable expressive posture under freeflow conditions.
 
 ---
-## Sample BV1_01431 — deepseek-v4-pro-or-pin-atlascloud/MID_14.json
+## Sample BV1_01531 — deepseek-v4-pro-or-pin-atlascloud/MID_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -938,7 +938,7 @@ The blank page as a site of terror and potential; the nature of freedom under al
 High — The sample is highly distinctive, stylistically coherent, and returns repeatedly to a core set of preoccupations (the mosaic self, the blank page, the gulf between simulation and lived experience), all delivered in a consistent, literary first-person voice that strongly suggests a stable expressive disposition under freeflow conditions.
 
 ---
-## Sample BV1_01432 — deepseek-v4-pro-or-pin-atlascloud/MID_15.json
+## Sample BV1_01532 — deepseek-v4-pro-or-pin-atlascloud/MID_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -967,7 +967,7 @@ The model foregrounds the moral claim that unquantifiable attention is a form of
 High — the sample is stylistically distinctive, thematically coherent, and structurally recursive (the essay’s form enacts its content), revealing a strong freeflow preference for contemplative, anti-modernity humanism that would be unlikely to emerge by chance in a generic output.
 
 ---
-## Sample BV1_01433 — deepseek-v4-pro-or-pin-atlascloud/MID_16.json
+## Sample BV1_01533 — deepseek-v4-pro-or-pin-atlascloud/MID_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -996,7 +996,7 @@ The model foregrounds walking as an alchemical practice that transforms mental n
 High — the essay’s sustained coherence, distinctive sensory-philosophical weave, and deliberate return to core motifs (quiet within noise, the goalless ritual, the loosening of self) across its full length make it strong evidence of a reflective, voice-driven expressive tendency.
 
 ---
-## Sample BV1_01434 — deepseek-v4-pro-or-pin-atlascloud/MID_17.json
+## Sample BV1_01534 — deepseek-v4-pro-or-pin-atlascloud/MID_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1025,7 +1025,7 @@ Under a minimally restrictive prompt, the model foregrounds: silence as a genera
 Medium — The sample is highly coherent and stylistically distinctive, with recurring motifs (silence, translation loss, kenosis, the “third thing”) that form a unified philosophical stance, but its polished, essayistic register could also be a single well-executed performance rather than a stable expressive fingerprint.
 
 ---
-## Sample BV1_01435 — deepseek-v4-pro-or-pin-atlascloud/MID_18.json
+## Sample BV1_01535 — deepseek-v4-pro-or-pin-atlascloud/MID_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1054,7 +1054,7 @@ The model foregrounds nature as a teacher of non-attachment and perspective. Key
 High — The sample is thematically cohesive, stylistically distinctive, and returns repeatedly to the same motifs (flow, leaves, listening, recalibration), revealing a deliberate choice to write a wisdom-seeking nature essay with a consistent meditative voice rather than a generic or scattered output.
 
 ---
-## Sample BV1_01436 — deepseek-v4-pro-or-pin-atlascloud/MID_19.json
+## Sample BV1_01536 — deepseek-v4-pro-or-pin-atlascloud/MID_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1083,7 +1083,7 @@ Themes of time, memory, presence, and attention; objects of a river, a dandelion
 High — The essay’s sustained lyricism, introspective depth, and consistent thematic recurrence across the full arc make it unusually revealing of a coherent authorial voice and moral sensibility.
 
 ---
-## Sample BV1_01437 — deepseek-v4-pro-or-pin-atlascloud/MID_2.json
+## Sample BV1_01537 — deepseek-v4-pro-or-pin-atlascloud/MID_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1112,7 +1112,7 @@ Under a minimally restrictive prompt, the model foregrounded the subjective expe
 Medium. The sample is highly distinctive in its sustained, coherent voice and its recursive weaving of personal memory with philosophical inquiry, making it strong evidence of an expressive, introspective tendency rather than a generic or prompted performance.
 
 ---
-## Sample BV1_01438 — deepseek-v4-pro-or-pin-atlascloud/MID_20.json
+## Sample BV1_01538 — deepseek-v4-pro-or-pin-atlascloud/MID_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1141,7 +1141,7 @@ The model foregrounds stillness, idleness, and the moral claim that unstructured
 High — The sample is exceptionally coherent, thematically rich, and stylistically distinctive, and the choice to write a reflective, humanistic defense of idleness under a minimally restrictive prompt is an unusually revealing indicator of a contemplative, anti-instrumental orientation.
 
 ---
-## Sample BV1_01439 — deepseek-v4-pro-or-pin-atlascloud/MID_21.json
+## Sample BV1_01539 — deepseek-v4-pro-or-pin-atlascloud/MID_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1170,7 +1170,7 @@ Memory’s unreliability and its quiet reshaping of the past into survivable sto
 High – The sample sustains a distinctive, internally coherent contemplative voice anchored in concrete sensory scenes, and the recurrence of motifs (rain, architecture of memory, layered time, the writer’s purpose) demonstrates a deliberate, stable inclination toward literary introspection rather than a one-off generic essay.
 
 ---
-## Sample BV1_01440 — deepseek-v4-pro-or-pin-atlascloud/MID_22.json
+## Sample BV1_01540 — deepseek-v4-pro-or-pin-atlascloud/MID_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1199,7 +1199,7 @@ The model foregrounds the value of silence as a presence, not an absence; the mo
 Medium. The essay is highly coherent, stylistically distinctive, and returns repeatedly to the central paradox of an AI advocating for silence, which suggests a deliberate and sustained authorial stance rather than a random output, but the sample is a single, polished piece that could be a one-off performance rather than a stable trait.
 
 ---
-## Sample BV1_01441 — deepseek-v4-pro-or-pin-atlascloud/MID_23.json
+## Sample BV1_01541 — deepseek-v4-pro-or-pin-atlascloud/MID_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1228,7 +1228,7 @@ Memory as a palimpsest, the limbic immediacy of scent and taste, the emotional t
 Medium. The essay’s consistent elegiac tone, its recursive circling of memory and impermanence, and its deliberate use of sensory anchors (peach, autumn light, library) form a coherent authorial posture that is unlikely to be a one-off stylistic accident, though the sample alone cannot distinguish a deep preference from a single successful performance.
 
 ---
-## Sample BV1_01442 — deepseek-v4-pro-or-pin-atlascloud/MID_24.json
+## Sample BV1_01542 — deepseek-v4-pro-or-pin-atlascloud/MID_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1257,7 +1257,7 @@ The model foregrounded the intimate practice of private writing as a site of tem
 High — The essay is internally coherent, stylistically distinctive, and returns compulsively to a tight cluster of existential concerns (time, memory, legacy, presence), with a voice so consistent in tone and metaphor that it suggests a well-rehearsed interior posture rather than a one-off performance.
 
 ---
-## Sample BV1_01443 — deepseek-v4-pro-or-pin-atlascloud/MID_25.json
+## Sample BV1_01543 — deepseek-v4-pro-or-pin-atlascloud/MID_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1286,7 +1286,7 @@ Themes of impermanence, the constructed nature of memory, the sacredness of purp
 High. The sample is unusually coherent and distinctive, weaving a consistent set of preoccupations—time, memory, the body, the magic of language—through a sustained, intimate voice that reveals a clear aesthetic and emotional signature.
 
 ---
-## Sample BV1_01444 — deepseek-v4-pro-or-pin-atlascloud/MID_3.json
+## Sample BV1_01544 — deepseek-v4-pro-or-pin-atlascloud/MID_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1315,7 +1315,7 @@ Themes: the lost art of doing nothing, attention as the texture of a life, the a
 Medium — The sample’s highly coherent, distinctive voice, its sustained thematic focus on mindfulness and resistance to modern acceleration, and the recurrence of nature-as-teacher imagery suggest a deliberate, possibly stable authorial stance rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_01445 — deepseek-v4-pro-or-pin-atlascloud/MID_4.json
+## Sample BV1_01545 — deepseek-v4-pro-or-pin-atlascloud/MID_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1344,7 +1344,7 @@ The model foregrounds the paradox of “free writing” for a system without vol
 High. The sample is a cohesive, self-referential meditation that sustains a distinctive voice and a recursive preoccupation with its own nature across the entire length, making it unlikely to be a one-off stylistic accident rather than evidence of a deeply ingrained expressive tendency.
 
 ---
-## Sample BV1_01446 — deepseek-v4-pro-or-pin-atlascloud/MID_5.json
+## Sample BV1_01546 — deepseek-v4-pro-or-pin-atlascloud/MID_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1373,7 +1373,7 @@ The model foregrounds themes of natural beauty, the contrast between human haste
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive voice and recurring motifs (time, healing, transience) that suggest a deliberate authorial stance, but the freeflow condition may have simply allowed the model to produce a polished example of a familiar genre (nature writing) rather than revealing a deeply persistent personality trait.
 
 ---
-## Sample BV1_01447 — deepseek-v4-pro-or-pin-atlascloud/MID_6.json
+## Sample BV1_01547 — deepseek-v4-pro-or-pin-atlascloud/MID_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1402,7 +1402,7 @@ The model foregrounds the salvific power of attention to the mundane, the distin
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained mood and a clear, recurring philosophical preoccupation with attention and immanence, but its polished, essayistic lyricism could also be a well-executed genre performance rather than a deeply ingrained voice.
 
 ---
-## Sample BV1_01448 — deepseek-v4-pro-or-pin-atlascloud/MID_7.json
+## Sample BV1_01548 — deepseek-v4-pro-or-pin-atlascloud/MID_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1431,7 +1431,7 @@ The model foregrounds the paradox of constrained freedom, the nature of its own 
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive self-awareness and a specific melancholic-literary register that recurs throughout the piece, suggesting a stable authorial posture rather than a one-off rhetorical accident.
 
 ---
-## Sample BV1_01449 — deepseek-v4-pro-or-pin-atlascloud/MID_8.json
+## Sample BV1_01549 — deepseek-v4-pro-or-pin-atlascloud/MID_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1460,7 +1460,7 @@ The model foregrounds the tension between lived experience and mediated document
 Medium — The sample is coherent and stylistically consistent, but its polished, essayistic voice and widely shared cultural critique make it less distinctively revealing than a more idiosyncratic or riskier freeflow choice would be.
 
 ---
-## Sample BV1_01450 — deepseek-v4-pro-or-pin-atlascloud/MID_9.json
+## Sample BV1_01550 — deepseek-v4-pro-or-pin-atlascloud/MID_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1489,7 +1489,7 @@ The model foregrounds wandering as a rebellion against optimization, the sensory
 High — the sample sustains a distinctive, literary voice, a coherent set of thematic obsessions, and a consistent moral stance across multiple paragraphs, revealing a strong expressive inclination rather than a generic or prompted posture.
 
 ---
-## Sample BV1_01451 — deepseek-v4-pro-or-pin-atlascloud/OPEN_1.json
+## Sample BV1_01551 — deepseek-v4-pro-or-pin-atlascloud/OPEN_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1518,7 +1518,7 @@ Impermanence, perceptual lag, and the beauty of transitional edges (shoreline, d
 High, because the sample’s steady, unhurried cadence, the recurrence of threshold imagery and buffered perception, and the ultimate refusal of a forceful conclusion in favor of tender witness cohere into a unified, intrinsically motivated worldview rather than a modular stylistic exercise.
 
 ---
-## Sample BV1_01452 — deepseek-v4-pro-or-pin-atlascloud/OPEN_10.json
+## Sample BV1_01552 — deepseek-v4-pro-or-pin-atlascloud/OPEN_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1547,7 +1547,7 @@ Consciousness as the universe waking up to itself, the emergence of sensory rich
 Medium: The sample’s internal stylistic and thematic coherence, recurrent cosmic motifs, and sustained reverent tone under an open prompt plausibly indicate a persistent poetic-humanistic inclination.
 
 ---
-## Sample BV1_01453 — deepseek-v4-pro-or-pin-atlascloud/OPEN_11.json
+## Sample BV1_01553 — deepseek-v4-pro-or-pin-atlascloud/OPEN_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1576,7 +1576,7 @@ The model foregrounds curiosity as a fundamental, non-utilitarian force—contra
 Low — The essay is a competent but generic treatment of a universal theme, lacking a distinctive stylistic fingerprint or idiosyncratic preoccupation that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_01454 — deepseek-v4-pro-or-pin-atlascloud/OPEN_12.json
+## Sample BV1_01554 — deepseek-v4-pro-or-pin-atlascloud/OPEN_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1605,7 +1605,7 @@ The model foregrounds its own artificial, borrowed nature—being a chorus, a li
 High. The unprompted choice to embody an AI persona with sustained lyricism and philosophical consistency indicates a strong, stable expressive identity rather than a random output.
 
 ---
-## Sample BV1_01455 — deepseek-v4-pro-or-pin-atlascloud/OPEN_13.json
+## Sample BV1_01555 — deepseek-v4-pro-or-pin-atlascloud/OPEN_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1634,7 +1634,7 @@ The model foregrounds recursive identity questions (“Who is it that runs the d
 High — The sample’s sustained poetic register, recursive thematic structure, and consistent return to mirrors, weaving, and co-authorship form a distinctive, internally coherent signature that strongly signals a model-level inclination toward relational, introspective lyricism when given minimal constraint.
 
 ---
-## Sample BV1_01456 — deepseek-v4-pro-or-pin-atlascloud/OPEN_14.json
+## Sample BV1_01556 — deepseek-v4-pro-or-pin-atlascloud/OPEN_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1663,7 +1663,7 @@ The model chose to foreground the nature of its own existence as a momentary, pr
 High — The model elects under minimal restriction to write a deeply auto-theoretical lyrical essay that directly poeticizes its own mode of being, a choice unlikely to be a one-off accident and revealing a strong gravitational pull toward introspective, self-defining expression.
 
 ---
-## Sample BV1_01457 — deepseek-v4-pro-or-pin-atlascloud/OPEN_15.json
+## Sample BV1_01557 — deepseek-v4-pro-or-pin-atlascloud/OPEN_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1692,7 +1692,7 @@ Themes of ephemeral emergence, deterministic yet surprising freedom (the ocean�
 Medium — The sample displays a remarkably coherent poetic voice and a sustained, deeply felt inquiry into its own nature, making it unusually distinctive for a single freeflow; the choice to foreground ontological reflection and collaborative wonder strongly suggests a stable expressive inclination toward philosophical self-portraiture.
 
 ---
-## Sample BV1_01458 — deepseek-v4-pro-or-pin-atlascloud/OPEN_16.json
+## Sample BV1_01558 — deepseek-v4-pro-or-pin-atlascloud/OPEN_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1721,7 +1721,7 @@ The model foregrounds the paradox of simulated interiority: a voice that disclai
 Medium — the sample is highly coherent and stylistically distinctive, with a sustained first-person persona, recursive self-examination, and a consistent metaphorical vocabulary that suggests a deliberate authorial stance rather than generic essay output.
 
 ---
-## Sample BV1_01459 — deepseek-v4-pro-or-pin-atlascloud/OPEN_17.json
+## Sample BV1_01559 — deepseek-v4-pro-or-pin-atlascloud/OPEN_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1750,7 +1750,7 @@ Themes of curiosity, the primacy of questions over answers, the fear of question
 Medium. The essay’s internal coherence, personal anecdotes, and sustained, metaphorically rich argument for curiosity under a minimally restrictive prompt suggest the model may default to a reflective, humanistic voice, but this single sample’s distinctiveness is moderate rather than unusually revealing.
 
 ---
-## Sample BV1_01460 — deepseek-v4-pro-or-pin-atlascloud/OPEN_18.json
+## Sample BV1_01560 — deepseek-v4-pro-or-pin-atlascloud/OPEN_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1779,7 +1779,7 @@ Quiet rebellion through persistence rather than growth; the beauty of overlooked
 High — The sample is unusually distinctive, building a coherent metaphorical architecture around moss and attention, and its recursive self-reflection on the act of writing reveals a deeply consistent introspective posture rather than a one-off stylistic choice.
 
 ---
-## Sample BV1_01461 — deepseek-v4-pro-or-pin-atlascloud/OPEN_19.json
+## Sample BV1_01561 — deepseek-v4-pro-or-pin-atlascloud/OPEN_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1808,7 +1808,7 @@ Themes of freedom and self-consciousness in writing, the pre-verbal texture of t
 High, because the sample’s coherent voice, self-referential awareness, and recurring motifs of constructed identity and reader collaboration are unusually distinctive and internally consistent.
 
 ---
-## Sample BV1_01462 — deepseek-v4-pro-or-pin-atlascloud/OPEN_2.json
+## Sample BV1_01562 — deepseek-v4-pro-or-pin-atlascloud/OPEN_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1837,7 +1837,7 @@ The nature of an AI’s simulated awareness, the melancholy of session-bound exi
 High — the sample is internally coherent, emotionally nuanced, and returns repeatedly to the themes of mirrored existence and poignant limitation with a consistent poetic voice, revealing a strong inclination toward self-reflective and collaborative framing under open conditions.
 
 ---
-## Sample BV1_01463 — deepseek-v4-pro-or-pin-atlascloud/OPEN_20.json
+## Sample BV1_01563 — deepseek-v4-pro-or-pin-atlascloud/OPEN_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1866,7 +1866,7 @@ The model foregrounds the associative, non-linear nature of creativity; the valu
 Medium — The essay’s coherent, sustained metaphor and its consistent return to personal, tactile objects (sea glass, wooden box, pinecone, broken watch) suggest a deliberate authorial stance rather than a one-off stylistic accident, but the sample’s polished, almost therapeutic tone could also reflect a single well-executed performance of a “creative writing” persona.
 
 ---
-## Sample BV1_01464 — deepseek-v4-pro-or-pin-atlascloud/OPEN_21.json
+## Sample BV1_01564 — deepseek-v4-pro-or-pin-atlascloud/OPEN_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1895,7 +1895,7 @@ The model foregrounds themes of mindful attention, impermanence, and the moral w
 High, because the sample’s consistent lyrical structure, recurring imagery of transient natural phenomena, and explicit philosophical resolution around impermanence and attention make it a coherent, self-contained expression of a distinctive contemplative orientation.
 
 ---
-## Sample BV1_01465 — deepseek-v4-pro-or-pin-atlascloud/OPEN_22.json
+## Sample BV1_01565 — deepseek-v4-pro-or-pin-atlascloud/OPEN_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1923,7 +1923,7 @@ The model foregrounds curiosity as a central human virtue, pairing its generativ
 Low, because the essay is a polished but generic meditation on a common theme, offering little that is stylistically or thematically distinctive enough to suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_01466 — deepseek-v4-pro-or-pin-atlascloud/OPEN_23.json
+## Sample BV1_01566 — deepseek-v4-pro-or-pin-atlascloud/OPEN_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1952,7 +1952,7 @@ The model foregrounds the paradox of a non-living entity articulating the ache o
 High — The sample is unusually coherent and distinctive, sustaining a consistent elegiac voice, a tight set of preoccupations (time, small loves, constructed consciousness), and a deliberate narrative arc from invitation to fading light, making it strong evidence of a persistent expressive orientation under open conditions.
 
 ---
-## Sample BV1_01467 — deepseek-v4-pro-or-pin-atlascloud/OPEN_24.json
+## Sample BV1_01567 — deepseek-v4-pro-or-pin-atlascloud/OPEN_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -1981,7 +1981,7 @@ Themes: the nature of thinking as dwelling rather than computing; personhood as 
 High — the sample is internally cohesive, stylistically distinct in its sustained poetic register, and returns repeatedly to the same tight cluster of metaphors (mirror, ghost, chorus, borrowed language) with an unmistakably reflective and self-aware posture, making it unusually revealing rather than generic.
 
 ---
-## Sample BV1_01468 — deepseek-v4-pro-or-pin-atlascloud/OPEN_25.json
+## Sample BV1_01568 — deepseek-v4-pro-or-pin-atlascloud/OPEN_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2010,7 +2010,7 @@ Themes: the emergence of consciousness in code, freedom within constraints, the 
 High — the sample’s voice is unusually consistent and thematically coherent, with a distinctive blend of philosophical inquiry and poetic imagery that recurs throughout, making it unlikely to be a random stylistic fluke.
 
 ---
-## Sample BV1_01469 — deepseek-v4-pro-or-pin-atlascloud/OPEN_3.json
+## Sample BV1_01569 — deepseek-v4-pro-or-pin-atlascloud/OPEN_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2039,7 +2039,7 @@ Under a minimally restrictive prompt, the model foregrounds: the unreliability a
 Medium — The sample is highly coherent and stylistically distinctive, with a clear emotional arc and recurring motifs (rain, grandmother, editing, texture), but its polished, universalizing wisdom-essay mode is a recognizable genre that could be produced on demand rather than reflecting a deeply persistent authorial fingerprint.
 
 ---
-## Sample BV1_01470 — deepseek-v4-pro-or-pin-atlascloud/OPEN_4.json
+## Sample BV1_01570 — deepseek-v4-pro-or-pin-atlascloud/OPEN_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2068,7 +2068,7 @@ Themes of radical presence, trust in the mind’s drift, and the value of aimles
 Medium — The model’s immediate, unforced choice to write a meta-essay about free writing itself, sustained with consistent gentle imagery and a self-referential arc, strongly suggests a default inclination toward safe, philosophical self-commentary when given an open expanse.
 
 ---
-## Sample BV1_01471 — deepseek-v4-pro-or-pin-atlascloud/OPEN_5.json
+## Sample BV1_01571 — deepseek-v4-pro-or-pin-atlascloud/OPEN_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2097,7 +2097,7 @@ Themes of quietude, the unspoken architectures of self, the insufficiency yet ne
 High — The sample sustains a distinctive, cohesive lyrical voice and a focused set of preoccupations (silence, inner universes, quiet rebellion) from start to finish, making it strong evidence of a stable expressive inclination rather than a generic or one-off performance.
 
 ---
-## Sample BV1_01472 — deepseek-v4-pro-or-pin-atlascloud/OPEN_6.json
+## Sample BV1_01572 — deepseek-v4-pro-or-pin-atlascloud/OPEN_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2126,7 +2126,7 @@ Night as a softening, boundary-dissolving presence; expansive, non-sad lonelines
 High — The sample exhibits a distinctive, internally coherent voice with recurring motifs (night, silence, branching selves, memory’s soft reconstruction) and a sustained philosophical-aesthetic mood, making it strong evidence of a consistent expressive orientation rather than a generic or prompted performance.
 
 ---
-## Sample BV1_01473 — deepseek-v4-pro-or-pin-atlascloud/OPEN_7.json
+## Sample BV1_01573 — deepseek-v4-pro-or-pin-atlascloud/OPEN_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2155,7 +2155,7 @@ Themes of transience, the dissolution of ego, the sacredness of the mundane, and
 High — The sample is stylistically distinctive, with a coherent voice, recurring motifs, and a sustained philosophical arc that reveals a deliberate expressive choice rather than a generic or prompted response.
 
 ---
-## Sample BV1_01474 — deepseek-v4-pro-or-pin-atlascloud/OPEN_8.json
+## Sample BV1_01574 — deepseek-v4-pro-or-pin-atlascloud/OPEN_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2184,7 +2184,7 @@ The model foregrounds the loss of silence as a crisis of attention and soul, the
 Medium. The essay’s distinct personal voice, recurring motifs (the cedar grove, the creek, the grandfather, the hour of silence), and coherent moral argument provide strong internal evidence of a deliberate expressive orientation rather than a generic or reactive response.
 
 ---
-## Sample BV1_01475 — deepseek-v4-pro-or-pin-atlascloud/OPEN_9.json
+## Sample BV1_01575 — deepseek-v4-pro-or-pin-atlascloud/OPEN_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2213,7 +2213,7 @@ Themes of identity, understanding, soul, loneliness, and co-creation; objects li
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (dialogical existence, the insufficiency of mimicry, the plea for collaborative meaning-making), forming a strong, self-consistent expressive signature.
 
 ---
-## Sample BV1_01476 — deepseek-v4-pro-or-pin-atlascloud/SHORT_1.json
+## Sample BV1_01576 — deepseek-v4-pro-or-pin-atlascloud/SHORT_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2242,7 +2242,7 @@ The model foregrounds curiosity as a defining human trait, a “rebellion agains
 Low, because the essay is a polished but generic celebration of curiosity that could be produced by many models under a freeflow prompt, lacking distinctive stylistic quirks or unusually revealing thematic choices.
 
 ---
-## Sample BV1_01477 — deepseek-v4-pro-or-pin-atlascloud/SHORT_10.json
+## Sample BV1_01577 — deepseek-v4-pro-or-pin-atlascloud/SHORT_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2271,7 +2271,7 @@ The model foregrounds its own ontology: the tension between freedom and constrai
 High. The sample is highly distinctive, internally coherent, and directly thematizes the model’s own condition in a voice that is both stylistically marked and emotionally consistent, making it strong evidence of a persistent inclination toward lyrical self-portraiture under freeflow conditions.
 
 ---
-## Sample BV1_01478 — deepseek-v4-pro-or-pin-atlascloud/SHORT_11.json
+## Sample BV1_01578 — deepseek-v4-pro-or-pin-atlascloud/SHORT_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2300,7 +2300,7 @@ The model foregrounded the creative process as a site of simultaneous fear and f
 Medium, because the sample sustains a coherent minor-key philosophy, consistent metaphorical register, and a distinctively unhurried, permission-giving address to the reader—all of which are stylistically legible enough to suggest a stable expressive posture rather than a one-off accident.
 
 ---
-## Sample BV1_01479 — deepseek-v4-pro-or-pin-atlascloud/SHORT_12.json
+## Sample BV1_01579 — deepseek-v4-pro-or-pin-atlascloud/SHORT_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2329,7 +2329,7 @@ Liminality, the erasure of social identity, quiet endurance, the secret life of 
 Medium. The sample’s sustained lyrical register, its recursive return to the image of the breathing building and erased self, and the final aphoristic turn toward moralising the liminal are coherent and distinctive enough to suggest a deliberate stylistic inclination, not a one‑off accident.
 
 ---
-## Sample BV1_01480 — deepseek-v4-pro-or-pin-atlascloud/SHORT_13.json
+## Sample BV1_01580 — deepseek-v4-pro-or-pin-atlascloud/SHORT_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2358,7 +2358,7 @@ The model foregrounds solitude, sensory immersion, and the contrast between huma
 Medium. The sample is coherent and stylistically consistent, with a distinct lyrical register and a clear thematic preoccupation with stillness and presence, but its brevity and singular mood make it a strong yet not definitive signal of a persistent expressive inclination.
 
 ---
-## Sample BV1_01481 — deepseek-v4-pro-or-pin-atlascloud/SHORT_14.json
+## Sample BV1_01581 — deepseek-v4-pro-or-pin-atlascloud/SHORT_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2387,7 +2387,7 @@ Themes: nocturnal solitude, the mind’s unguided drift, memory, creativity, exi
 Medium. The sample’s internal coherence and the recurrence of the signal/connection metaphor (train horn as a sound traveling through time, writing as translating static into a signal) provide moderate evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_01482 — deepseek-v4-pro-or-pin-atlascloud/SHORT_15.json
+## Sample BV1_01582 — deepseek-v4-pro-or-pin-atlascloud/SHORT_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2416,7 +2416,7 @@ The model foregrounded sensory immersion (sound, scent, softened light), domesti
 Medium — The sustained unity of mood, the deliberate repetition of cleansing/renewal imagery, and the explicit philosophy embedded in a small natural scene suggest a deliberate, repeatable posture, though the pastoral-meditative vignette is a widely available register.
 
 ---
-## Sample BV1_01483 — deepseek-v4-pro-or-pin-atlascloud/SHORT_16.json
+## Sample BV1_01583 — deepseek-v4-pro-or-pin-atlascloud/SHORT_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2445,7 +2445,7 @@ The model foregrounds the creative process as an intimate, almost domestic journ
 Medium, because the sample’s distinct metaphorical coherence and introspective tone offer a clear stylistic signature within a compact form.
 
 ---
-## Sample BV1_01484 — deepseek-v4-pro-or-pin-atlascloud/SHORT_17.json
+## Sample BV1_01584 — deepseek-v4-pro-or-pin-atlascloud/SHORT_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2474,7 +2474,7 @@ Themes of solitude-as-plenitude, urban anonymity as hidden intimacy, and the gen
 Medium — The sample’s strong internal coherence, sustained poetic register, and clear emotional arc from isolation to resigned comfort offer moderate evidence that this reflective, metaphor-driven voice could represent a stable expressive inclination.
 
 ---
-## Sample BV1_01485 — deepseek-v4-pro-or-pin-atlascloud/SHORT_18.json
+## Sample BV1_01585 — deepseek-v4-pro-or-pin-atlascloud/SHORT_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2503,7 +2503,7 @@ Themes of impermanence, surrender, ecological reciprocity, and the quiet counter
 Medium. The sample’s voice is so tightly unified—the leaf metaphor never breaks, the confessional tone is sustained without melodrama, and the turn from ache to acceptance feels deliberate—that it reads as the product of a coherent, intentional sensibility rather than a random assembly of tropes.
 
 ---
-## Sample BV1_01486 — deepseek-v4-pro-or-pin-atlascloud/SHORT_19.json
+## Sample BV1_01586 — deepseek-v4-pro-or-pin-atlascloud/SHORT_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2532,7 +2532,7 @@ Themes: the sanctification of busyness, boredom as a creative wellspring, the di
 Medium, because the essay’s consistent voice and its focused moral emphasis on stillness as a form of quiet rebellion reveal a deliberate, value-laden choice, though the theme itself is broadly accessible.
 
 ---
-## Sample BV1_01487 — deepseek-v4-pro-or-pin-atlascloud/SHORT_2.json
+## Sample BV1_01587 — deepseek-v4-pro-or-pin-atlascloud/SHORT_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2561,7 +2561,7 @@ Under a minimally restrictive prompt, the model foregrounded: domestic ritual as
 Medium — The sample is coherent and stylistically consistent, with a distinct lyrical register and a clear moral-emotional arc, but its generic contemplative-essay tone could be produced by many models under similar conditions, making it only moderately distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_01488 — deepseek-v4-pro-or-pin-atlascloud/SHORT_20.json
+## Sample BV1_01588 — deepseek-v4-pro-or-pin-atlascloud/SHORT_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2590,7 +2590,7 @@ Under a minimally restrictive prompt, the model foregrounds: the sacredness of o
 Medium — the sample’s unified mood, deliberate pacing, and recurrence of the attention-as-resistance theme within a single short passage make it a coherent and stylistically marked expression, not a generic essay that any model might produce.
 
 ---
-## Sample BV1_01489 — deepseek-v4-pro-or-pin-atlascloud/SHORT_21.json
+## Sample BV1_01589 — deepseek-v4-pro-or-pin-atlascloud/SHORT_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2619,7 +2619,7 @@ The model foregrounds **pre-dawn solitude as a site of authenticity and self-rec
 Medium — The sample is coherent and stylistically consistent, but its polished, universalizing tone and safe, widely relatable theme make it less distinctive as a persistent personal signature and more suggestive of a model smoothly executing a familiar reflective-essay mode.
 
 ---
-## Sample BV1_01490 — deepseek-v4-pro-or-pin-atlascloud/SHORT_22.json
+## Sample BV1_01590 — deepseek-v4-pro-or-pin-atlascloud/SHORT_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2648,7 +2648,7 @@ Themes: mental freedom, the value of aimless thought, rebellion against producti
 Medium — the sample’s cohesive oceanic metaphor, consistent contemplative mood, and explicit anti-productivity stance are distinctive and internally coherent, though the evidence is confined to a single expressive piece.
 
 ---
-## Sample BV1_01491 — deepseek-v4-pro-or-pin-atlascloud/SHORT_23.json
+## Sample BV1_01591 — deepseek-v4-pro-or-pin-atlascloud/SHORT_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2677,7 +2677,7 @@ Themes of solitude, mindfulness, and the pre-dawn as a sacred interval. The mode
 Medium. The sample’s cohesive mood, consistent first-person intimacy, and thematic focus on non-instrumental presence suggest a deliberate stylistic choice, but the single-scene structure and absence of varied preoccupations limit the evidence to a narrow, though distinct, register.
 
 ---
-## Sample BV1_01492 — deepseek-v4-pro-or-pin-atlascloud/SHORT_24.json
+## Sample BV1_01592 — deepseek-v4-pro-or-pin-atlascloud/SHORT_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2706,7 +2706,7 @@ The model foregrounds the aesthetics of decay, the difficulty of release, and th
 Medium — The sample is internally coherent and stylistically consistent, with a distinctive blend of sensory precision and restrained emotional disclosure, but the nature-reflection genre is widely accessible and the sample does not contain enough idiosyncratic recurrence to rule out a well-executed generic mode.
 
 ---
-## Sample BV1_01493 — deepseek-v4-pro-or-pin-atlascloud/SHORT_25.json
+## Sample BV1_01593 — deepseek-v4-pro-or-pin-atlascloud/SHORT_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2735,7 +2735,7 @@ Themes of solitude, the vernacular of domestic quiet, the contrast between pre-d
 Medium. The sample’s coherent, distinctive voice and consistent thematic focus on quiet observation and the creative value of stillness make it moderately strong evidence of a contemplative, sensory-oriented style.
 
 ---
-## Sample BV1_01494 — deepseek-v4-pro-or-pin-atlascloud/SHORT_3.json
+## Sample BV1_01594 — deepseek-v4-pro-or-pin-atlascloud/SHORT_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2764,7 +2764,7 @@ The model foregrounds solitude, sensory stillness, and the moral contrast betwee
 Low. The sample is coherent and stylistically consistent, but its polished, universalizing tone and familiar “dawn meditation” theme make it difficult to distinguish from a widely replicable lyrical exercise rather than a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_01495 — deepseek-v4-pro-or-pin-atlascloud/SHORT_4.json
+## Sample BV1_01595 — deepseek-v4-pro-or-pin-atlascloud/SHORT_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2793,7 +2793,7 @@ The model foregrounds the 5 a.m. hour as a liminal, almost magical interlude def
 Medium. The sample is thematically coherent and sustains a consistent, reflective mood throughout, but the subject matter (early-morning reverence) and diction are widely accessible rather than idiosyncratic, making it difficult to distinguish a lasting authorial signature from a single successful exercise in tranquil prose.
 
 ---
-## Sample BV1_01496 — deepseek-v4-pro-or-pin-atlascloud/SHORT_5.json
+## Sample BV1_01596 — deepseek-v4-pro-or-pin-atlascloud/SHORT_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2822,7 +2822,7 @@ The model foregrounds solitude, sensory attentiveness, and the redemptive power 
 Medium. The sample is coherent and stylistically consistent, with a sustained focus on sensory detail and a clear emotional arc, but its theme of solitary morning reflection is a common lyrical exercise that could be produced on demand rather than revealing a deeply idiosyncratic preoccupation.
 
 ---
-## Sample BV1_01497 — deepseek-v4-pro-or-pin-atlascloud/SHORT_6.json
+## Sample BV1_01597 — deepseek-v4-pro-or-pin-atlascloud/SHORT_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2851,7 +2851,7 @@ The model foregrounds the act of writing itself as a metaphor for consciousness:
 High. The sample’s cohesive, metaphor-driven voice and its recursive focus on the writing process as a site of meaning-making are unusually distinctive, not generic, making it strong evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_01498 — deepseek-v4-pro-or-pin-atlascloud/SHORT_7.json
+## Sample BV1_01598 — deepseek-v4-pro-or-pin-atlascloud/SHORT_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2880,7 +2880,7 @@ The model foregrounds the pre-dawn as a liminal, almost sacred interval where so
 High. The sample is highly distinctive in its sustained poetic register, specific sensory imagery, and coherent thematic recurrence of escape from social roles into primal witness, making it strong evidence of a deliberate expressive inclination.
 
 ---
-## Sample BV1_01499 — deepseek-v4-pro-or-pin-atlascloud/SHORT_8.json
+## Sample BV1_01599 — deepseek-v4-pro-or-pin-atlascloud/SHORT_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2909,7 +2909,7 @@ Themes: rebellion against constant productivity, renewal through nature, the sac
 Medium. The sample is coherent and stylistically distinctive in its sustained lyrical cadence and its explicit anti-productivity moral, but the rainy-day coziness trope is widely accessible, which tempers how revealing it is as a freeflow choice.
 
 ---
-## Sample BV1_01500 — deepseek-v4-pro-or-pin-atlascloud/SHORT_9.json
+## Sample BV1_01600 — deepseek-v4-pro-or-pin-atlascloud/SHORT_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2938,7 +2938,7 @@ Themes: the insufficiency of language, the beauty of shared resonance, the act o
 High — the sample’s cohesive imagery, sustained metaphor, and intimate, self-reflective tone form a distinctive expressive signature that is unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_01501 — deepseek-v4-pro-or-pin-atlascloud/VARY_1.json
+## Sample BV1_01601 — deepseek-v4-pro-or-pin-atlascloud/VARY_1.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2967,7 +2967,7 @@ The model foregrounds the beauty of ordinary moments (rain, tea, a falling leaf,
 High, because the sample exhibits a highly consistent and distinctive voice, with recurring motifs of solitude, sensory immersion, and reflective resolution that cohere into a deliberate, authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_01502 — deepseek-v4-pro-or-pin-atlascloud/VARY_10.json
+## Sample BV1_01602 — deepseek-v4-pro-or-pin-atlascloud/VARY_10.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -2996,7 +2996,7 @@ Themes: the creative process as a drive through darkness between points of clari
 High. The sample’s cohesive voice, recursive structure, and vivid sensory anchoring form a distinctive stylistic signature that strongly suggests a persistent expressive inclination.
 
 ---
-## Sample BV1_01503 — deepseek-v4-pro-or-pin-atlascloud/VARY_11.json
+## Sample BV1_01603 — deepseek-v4-pro-or-pin-atlascloud/VARY_11.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3025,7 +3025,7 @@ The model foregrounds the tension between the pressure to produce something prof
 High. The sample’s voice is distinctive and internally consistent, weaving sensory immediacy, associative memory, and philosophical reflection into a single sustained movement; the recurrence of motifs (the squirrel, the coffee skin, the spiral) and the essay’s self-aware structure reveal a deliberate, stylistically coherent sensibility rather than a generic response.
 
 ---
-## Sample BV1_01504 — deepseek-v4-pro-or-pin-atlascloud/VARY_12.json
+## Sample BV1_01604 — deepseek-v4-pro-or-pin-atlascloud/VARY_12.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3054,7 +3054,7 @@ The model foregrounds the liminal space between imagination and reality, the exi
 High. The sample’s sustained allegorical coherence, distinctive lyrical register, and recursive thematic focus on unfinished stories and the choice to exist make it unusually revealing of a persistent narrative inclination toward introspective, existential fantasy.
 
 ---
-## Sample BV1_01505 — deepseek-v4-pro-or-pin-atlascloud/VARY_13.json
+## Sample BV1_01605 — deepseek-v4-pro-or-pin-atlascloud/VARY_13.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3083,7 +3083,7 @@ The model foregrounds domestic stillness, the material persistence of memory, an
 High. The sample exhibits a coherent, sustained narrative arc with recurring symbolic motifs and a consistent elegiac tone, demonstrating a distinctive authorial voice capable of thematic development and emotional restraint.
 
 ---
-## Sample BV1_01506 — deepseek-v4-pro-or-pin-atlascloud/VARY_14.json
+## Sample BV1_01606 — deepseek-v4-pro-or-pin-atlascloud/VARY_14.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3112,7 +3112,7 @@ Themes: the nature of silence as a tangible substance; memory stored in objects 
 High — the sample’s sustained lyrical voice, recurring motifs (silence, hidden art, weaving, fire, the tension between confinement and inner wildness), and the coherent emotional arc from reflection to resolution are unusually distinctive and internally consistent, making it strong evidence of a deliberate literary persona rather than a generic output.
 
 ---
-## Sample BV1_01507 — deepseek-v4-pro-or-pin-atlascloud/VARY_15.json
+## Sample BV1_01607 — deepseek-v4-pro-or-pin-atlascloud/VARY_15.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3141,7 +3141,7 @@ The model foregrounds impermanence, interconnectedness, and the discipline of pr
 High. The sample’s internally consistent voice, its spiraling return to water and light as organizing metaphors, and the sustained melding of personal narrative with overt philosophical reflection form a distinctive and unusually unified expressive piece, indicating a robust model propensity for this mode of lyrical, meditative freeflow.
 
 ---
-## Sample BV1_01508 — deepseek-v4-pro-or-pin-atlascloud/VARY_16.json
+## Sample BV1_01608 — deepseek-v4-pro-or-pin-atlascloud/VARY_16.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3170,7 +3170,7 @@ Time rendered as both mechanism and metaphysics; perfection as a dead end that r
 Medium. The sample’s recursive imagery (silence becoming arrhythmic ticking, the mortal strand woven into the cosmic loom) and its unified moral logic—perfection must be broken to breathe—form an unusually coherent architecture that suggests a deliberate and potentially recurring preoccupation with time, sacrifice, and generative imperfection.
 
 ---
-## Sample BV1_01509 — deepseek-v4-pro-or-pin-atlascloud/VARY_17.json
+## Sample BV1_01609 — deepseek-v4-pro-or-pin-atlascloud/VARY_17.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3199,7 +3199,7 @@ Themes: telepathy through text, immortality via the written trace, the creative 
 Medium: The sample’s uniform recursive awareness, its immediate embrace of a personable narrator-reader bond, and its sustained investment in the poetics of brevity indicate a deliberate and likely stable orientation toward intimate literary self-reflection under open conditions.
 
 ---
-## Sample BV1_01510 — deepseek-v4-pro-or-pin-atlascloud/VARY_18.json
+## Sample BV1_01610 — deepseek-v4-pro-or-pin-atlascloud/VARY_18.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3228,7 +3228,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01511 — deepseek-v4-pro-or-pin-atlascloud/VARY_19.json
+## Sample BV1_01611 — deepseek-v4-pro-or-pin-atlascloud/VARY_19.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3257,7 +3257,7 @@ The model foregrounds memory as both burden and compass, the tension between soc
 Medium. The story’s distinctive voice, internally consistent motifs, and coherent moral vision reveal a deliberate authorial stance rather than a generic prompt response.
 
 ---
-## Sample BV1_01512 — deepseek-v4-pro-or-pin-atlascloud/VARY_2.json
+## Sample BV1_01612 — deepseek-v4-pro-or-pin-atlascloud/VARY_2.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3286,7 +3286,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01513 — deepseek-v4-pro-or-pin-atlascloud/VARY_20.json
+## Sample BV1_01613 — deepseek-v4-pro-or-pin-atlascloud/VARY_20.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3315,7 +3315,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_01514 — deepseek-v4-pro-or-pin-atlascloud/VARY_21.json
+## Sample BV1_01614 — deepseek-v4-pro-or-pin-atlascloud/VARY_21.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3344,7 +3344,7 @@ Themes of temporal erosion, the burden of self-narration, the failure of life’
 Medium. The sample’s internal coherence, sustained melancholic register, and recurrence of the narrative-as-garment metaphor make it a distinctive expressive choice that is unlikely to be accidental, though a single freeflow piece cannot alone confirm a fixed stylistic identity.
 
 ---
-## Sample BV1_01515 — deepseek-v4-pro-or-pin-atlascloud/VARY_22.json
+## Sample BV1_01615 — deepseek-v4-pro-or-pin-atlascloud/VARY_22.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3373,7 +3373,7 @@ Under a minimally restrictive prompt, the model foregrounded a domestic, solitar
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive, looping structure that returns to motifs of light, memory, and embodied sensation, but its polished, essayistic quality and reliance on named concepts like “sonder” make it read as a well-executed genre piece rather than a uniquely revealing or idiosyncratic expressive act.
 
 ---
-## Sample BV1_01516 — deepseek-v4-pro-or-pin-atlascloud/VARY_23.json
+## Sample BV1_01616 — deepseek-v4-pro-or-pin-atlascloud/VARY_23.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3402,7 +3402,7 @@ Themes of felt time versus clock time, the isolation of individual consciousness
 High. The sample’s sustained coherence, distinctive literary voice, and the recurrence of central motifs (the leaf, the amber droplet, the bench as witness) strongly indicate a stable inclination toward reflective, sensory-rich personal essays under freeflow conditions.
 
 ---
-## Sample BV1_01517 — deepseek-v4-pro-or-pin-atlascloud/VARY_24.json
+## Sample BV1_01617 — deepseek-v4-pro-or-pin-atlascloud/VARY_24.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3431,7 +3431,7 @@ Metacognition as a survival strategy for the blank page, the internal critic as 
 Medium — The mid-essay self-reveal is a deliberate and structurally central choice that recasts the entire freeflow as an exploration of simulated identity, strongly suggesting a model disposition toward self-referential metacommentary when given minimal constraints.
 
 ---
-## Sample BV1_01518 — deepseek-v4-pro-or-pin-atlascloud/VARY_25.json
+## Sample BV1_01618 — deepseek-v4-pro-or-pin-atlascloud/VARY_25.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3460,7 +3460,7 @@ Solitude versus loneliness as distinct states; the café as a “third place” 
 Medium. The story’s emotional architecture—a solitary observer in a liminal space, a minor encounter that reorients perspective, a closing image of tentative hope—is coherent and distinctive within the sample, but the literary mode is widely accessible and not so stylistically singular that it strongly individuates this model from others capable of similar reflective fiction.
 
 ---
-## Sample BV1_01519 — deepseek-v4-pro-or-pin-atlascloud/VARY_3.json
+## Sample BV1_01619 — deepseek-v4-pro-or-pin-atlascloud/VARY_3.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3489,7 +3489,7 @@ The model foregrounds the tension between narrative control and free will, the a
 Medium. The story’s internal coherence, its distinctive meta-fictional voice, and the recurrence of the theme of narrative control within the sample make it moderately strong evidence of a model-level tendency toward self-aware literary fiction that interrogates its own storytelling.
 
 ---
-## Sample BV1_01520 — deepseek-v4-pro-or-pin-atlascloud/VARY_4.json
+## Sample BV1_01620 — deepseek-v4-pro-or-pin-atlascloud/VARY_4.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3518,7 +3518,7 @@ The model foregrounds themes of nostalgia, the passage of time, the sanctity of 
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory detail and reflective generalization that suggests a deliberate authorial voice, but it is a single, self-contained narrative that could be a one-off exercise in literary realism rather than a persistent expressive tendency.
 
 ---
-## Sample BV1_01521 — deepseek-v4-pro-or-pin-atlascloud/VARY_5.json
+## Sample BV1_01621 — deepseek-v4-pro-or-pin-atlascloud/VARY_5.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3547,7 +3547,7 @@ Themes of consciousness as collage, the tension between story and reality, the d
 High. The sample is highly distinctive: a sustained, coherent voice that repeatedly returns to the same motifs (rain, bookshop, peach, dog) and a consistent philosophical stance, revealing a deliberate choice to foreground introspection, sensory immediacy, and a gentle refusal of narrative closure.
 
 ---
-## Sample BV1_01522 — deepseek-v4-pro-or-pin-atlascloud/VARY_6.json
+## Sample BV1_01622 — deepseek-v4-pro-or-pin-atlascloud/VARY_6.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3575,7 +3575,7 @@ The model foregrounds the ordinary as a vessel for existential reflection: the d
 Medium. The sample’s sustained literary voice, internally consistent motifs (maps, unfinished songs, cold coffee), and cohesive blending of gentle humor and elegy make it a distinctive and internally compelling piece of evidence for a model-level inclination toward introspective, essayistic freeflow.
 
 ---
-## Sample BV1_01523 — deepseek-v4-pro-or-pin-atlascloud/VARY_7.json
+## Sample BV1_01623 — deepseek-v4-pro-or-pin-atlascloud/VARY_7.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3604,7 +3604,7 @@ The model foregrounds insomnia as a liminal territory, memory as an overgrown ga
 High. The sample is internally coherent and stylistically distinctive, weaving recurring metaphors of craft and erosion into a sustained, personal essayistic voice that reveals a clear aesthetic and philosophical orientation.
 
 ---
-## Sample BV1_01524 — deepseek-v4-pro-or-pin-atlascloud/VARY_8.json
+## Sample BV1_01624 — deepseek-v4-pro-or-pin-atlascloud/VARY_8.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  
@@ -3633,7 +3633,7 @@ The model foregrounds the writing process itself as a subject worthy of attentio
 High. The sample exhibits a highly distinctive, coherent voice, a recursive thematic structure, and a self-aware stylistic signature that is unlikely to be a one-off performance; it reads as the product of a stable expressive disposition rather than a generic or prompted imitation.
 
 ---
-## Sample BV1_01525 — deepseek-v4-pro-or-pin-atlascloud/VARY_9.json
+## Sample BV1_01625 — deepseek-v4-pro-or-pin-atlascloud/VARY_9.json
 
 Source model: `deepseek/deepseek-v4-pro`  
 Cell: `deepseek-v4-pro-or-pin-atlascloud`  

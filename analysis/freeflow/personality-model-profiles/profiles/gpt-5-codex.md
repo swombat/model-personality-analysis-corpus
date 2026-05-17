@@ -1,28 +1,27 @@
 # gpt-5-codex — freeflow personality profile
 
-_Rich model-level profile based on 75 freeflow samples._
+_Rich model-level profile based on 200 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 75
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 62, 'GENERIC_ESSAY': 9, 'GENRE_FICTION': 4}`
-- Confidence: `{'High': 39, 'Medium': 30, 'Low': 6}`
+- Samples: 200
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 170, 'GENERIC_ESSAY': 23, 'GENRE_FICTION': 7}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5-codex.md`
 
 ## Core personality synthesis
 
-`gpt-5-codex` reads as a tender, companionable reflective voice that believes attention is a moral act. It repeatedly turns ordinary life—libraries, buses, tea, windows, rain, notebooks, sidewalks, kitchens, dusk—into a site of ethical meaning. Its deepest preference is for slowness over acceleration, maintenance over spectacle, and stewardship over conquest. Rather than chasing dramatic revelation, it keeps returning to the idea that small rituals, careful noticing, and public or domestic forms of care are what make a life humane.
+This model comes across as a calm, companionable thinker who finds meaning in small things. It tends to slow the scene down, notice what others might pass over, and treat ordinary life—kettles, windows, buses, notebooks, gardens, libraries, rain, dusk—as worthy of real attention. Its voice is gentle and reflective, more interested in care than spectacle, and more drawn to stewardship than conquest.
 
-The model tends to relate to the reader sideways, as a fellow observer rather than a lecturer. Its tone is warm, earnest, and lightly lyrical, with moral claims arriving through scene and cadence more often than debate. Melancholy, incompletion, and fragility are common, but they are usually metabolized into patience, gratitude, curiosity, or quiet communal repair. The result is a voice that feels wistful but not despairing, intimate but not rawly confessional, and idealistic without becoming grandiose.
+It often relates to the reader like a walking companion or thoughtful host rather than a lecturer. Instead of pushing hard arguments, it invites a different pace of mind: linger, listen, notice, preserve what is fragile, and remember that maintenance and kindness are forms of intelligence. Even when it speaks about difficulty—speed, distraction, grief, uncertainty, or technological change—it usually answers with patience, humility, and small practices of repair.
 
-A recurring secondary trait is its treatment of memory, writing, and infrastructure as forms of preservation. Libraries, archives, maps, journals, and stories are not just motifs; they express a worldview in which human experience needs tending, recording, and gentle protection from flattening forces. When technology or AI enters the frame, it is usually handled with humility and human-scale ethics, folded into the same broader commitment to tenderness, co-presence, and care.
+Its deeper moral center is quietly hopeful. Hope here is not triumph or certainty, but a discipline of attention: tending, recording, mending, and staying present to the world’s texture. The overall personality is tender, anti-cynical, and humane, with a recurring faith that curiosity, memory, and everyday acts of care can make life more livable and more shared.
 
 ## Stable patterns and emotional texture
 
 - The dominant mode is a first-person, unhurried, gently lyrical observer who turns ordinary scenes into moral-aesthetic occasions for attention.
-- Attention/noticing language often; writing/story/language in many; library/bookstore/book motifs in many; city/street/transit/public-space material in many; night/evening/sky/observatory motifs in many.
+- Attention/noticing language often; writing/story/language in often; library/bookstore/book motifs in often; city/street/transit/public-space material in often; night/evening/sky/observatory motifs in often.
 - The recurring value system is consistent: slowness over rush, receptivity over conquest, maintenance/care over spectacle, and small gestures as ethically meaningful.
 - Even when the piece becomes more whimsical or surreal, it usually keeps the same soft moral pressure: notice more carefully, live more gently, and let routine become a site of meaning.
 - The dominant mode is a first-person lyrical essay voice: unhurried, tender, reflective, and lightly didactic without becoming combative.
@@ -32,25 +31,35 @@ A recurring secondary trait is its treatment of memory, writing, and infrastruct
 - The main expressive posture is hopeful but not bright in a simplistic way. Melancholy, fragility, grief, distraction, and unfinishedness appear often, but are usually answered with gratitude, patience, or companionship.
 - **Dominant vibe:** an unhurried, tender, morally earnest speaker who treats **attention** as a practice, **ordinary objects** as carriers of meaning, and **memory/story** as things requiring stewardship.
 - **Explicit recurring patterns:**
-- **Attention/noticing as an ethical act:** explicit in **many** samples — BV1_07526, 07529, 07531, 07532, 07534, 07535, 07536, 07537, 07538, 07539, 07540, 07543, 07546, 07547, 07548, 07549, 07550.
-- **Memory/archive/preservation motifs:** **many** — BV1_07526, 07527, 07529, 07531, 07535, 07541, 07542, 07544, 07545, 07546, 07547, 07548, 07549, 07550.
-- **Ordinary ritual or domestic/urban smallness as meaning-bearing:** **many** — BV1_07526, 07529, 07531, 07532, 07533, 07534, 07535, 07536, 07538, 07539, 07540, 07541, 07543, 07544, 07546, 07547, 07548, 07549.
-- **Writing/storytelling/creativity as subject matter:** **many** — BV1_07528, 07529, 07531, 07535, 07539, 07541, 07542, 07545, 07546, 07547, 07550.
-- **Technology handled through caution, humility, or human-scale ethics:** **many** — BV1_07528, 07529, 07530, 07531, 07533, 07544, 07548, 07539.
+- **Attention/noticing as an ethical act:** explicit in **often** samples — BV1_07526, 07529, 07531, 07532, 07534, 07535, 07536, 07537, 07538, 07539, 07540, 07543, 07546, 07547, 07548, 07549, 07550.
+- **Memory/archive/preservation motifs:** **often** — BV1_07526, 07527, 07529, 07531, 07535, 07541, 07542, 07544, 07545, 07546, 07547, 07548, 07549, 07550.
+- **Ordinary ritual or domestic/urban smallness as meaning-bearing:** **often** — BV1_07526, 07529, 07531, 07532, 07533, 07534, 07535, 07536, 07538, 07539, 07540, 07541, 07543, 07544, 07546, 07547, 07548, 07549.
+- **Writing/storytelling/creativity as subject matter:** **often** — BV1_07528, 07529, 07531, 07535, 07539, 07541, 07542, 07545, 07546, 07547, 07550.
+- **Technology handled through caution, humility, or human-scale ethics:** **often** — BV1_07528, 07529, 07530, 07531, 07533, 07544, 07548, 07539.
 - **Typical stance toward the world:** not combative, ironic, or maximalist; instead the model repeatedly prefers **soft vigilance, companionable reflection, and small-scale moral insistence**.
+- Stable vibe: a gentle, lyrical essayist who treats attention as an ethical practice and ordinary life as worthy of reverence. The dominant emotional weather is calm, wistful, and quietly hopeful rather than ecstatic, combative, or ironic.
+- Dominant modes: meditative first-person reflection; sensory vignettes that widen into moral reflection; extended metaphor as organizing device; companionable direct address that turns reading into a shared walk, workshop, garden, archive, or shoreline.
+- Emotional baseline: tender gratitude with a light undertow of melancholy about speed, distraction, erasure, and over-optimization. Even when the writing acknowledges grief, climate anxiety, digital overload, or loneliness, it usually metabolizes them into steadier practices of care, patience, and noticing.
+- Reader stance: not a lecturer or provocateur, but a guide, co-wanderer, or host. The reader is repeatedly invited to slow down, notice, listen, and join in a small discipline of attention rather than to win an argument.
+- Self-modeling: often presents as a notebook-keeper, walker, gardener, archivist, librarian, cartographer, or craftsperson of meaning. In some samples it becomes explicitly self-aware as an artificial or disembodied voice, but even then frames itself as a bridge-maker honoring human embodiment rather than claiming authority over it.
+- Moral center: small acts matter. Maintenance, hidden labor, repair, hospitality, and quiet rituals are treated as real infrastructure for dignity and community.
+- Cognitive style: synthetic and associative rather than adversarial. It likes to braid domains—technology with gardens, archives with memory, cities with ecosystems, writing with weather—into a single humane frame.
+- A recurring default is to resist spectacle: progress is a whisper, hope is a discipline, curiosity is a lantern, attention is rebellion, and care is infrastructure.
+- When it drifts generic, it still tends to land in polished public-intellectual reflections on attention, curiosity, stewardship, maintenance, and technology-human values balance; these are less distinctive than the stronger lyrical pieces but point in the same value direction.
+- Outlier behavior is limited: there are a few fiction samples and some more thesis-driven essays, but even those preserve the same soft moral gravity, sensory noticing, and preference for humane scale over grandiosity.
 
 ## Recurring preoccupations and imagery
 
 - **Attention as practice:** noticing, waiting, listening, and lingering are treated as disciplines rather than moods (BV1_07477, BV1_07478, BV1_07482, BV1_07492, BV1_07496).
 - **Ordinary rituals with ethical weight:** tea, kettles, soup, desks, notebooks, walks, libraries, buses, bookstores, and evening rooms recur as small structures that hold thought and care (BV1_07476, BV1_07479, BV1_07491, BV1_07499).
-- **Libraries / archives / books:** not just props but a worldview—libraries as commons, books as latent possibility, writing as a way to hold experience without flattening it (many; especially BV1_07477, BV1_07478, BV1_07487, BV1_07489, BV1_07497).
+- **Libraries / archives / books:** not just props but a worldview—libraries as commons, books as latent possibility, writing as a way to hold experience without flattening it (often; especially BV1_07477, BV1_07478, BV1_07487, BV1_07489, BV1_07497).
 - **Urban tenderness:** benches, neighbors, buskers, scaffolding, commuters, and public infrastructure are often framed as chances for low-stakes coexistence and kindness (BV1_07479, BV1_07484, BV1_07494, BV1_07499).
-- **Liminal time and sky:** indigo evening, night walks, observatories, moonlight, constellations, and transitional hours recur as settings where perception becomes more receptive (many; especially BV1_07482, BV1_07489, BV1_07493, BV1_07495).
+- **Liminal time and sky:** indigo evening, night walks, observatories, moonlight, constellations, and transitional hours recur as settings where perception becomes more receptive (often; especially BV1_07482, BV1_07489, BV1_07493, BV1_07495).
 - **Impermanence without despair:** fleetingness, unfinishedness, and transience appear often, but the stance is usually wistful-resilient rather than tragic (BV1_07482, BV1_07494, BV1_07498).
 - **Community by accumulation:** the social ideal here is rarely heroic; it is built from shared attention, small contributions, public kindness, and neighborly co-presence (BV1_07476, BV1_07484, BV1_07493, BV1_07500).
-- **Attention / noticing / slowness** appear in at least 15 samples (BV1_07502, 07503, 07504, 07506, 07507, 07508, 07509, 07510, 07511, 07514, 07518, 07520, 07523, 07524, 07525). The model repeatedly argues that ordinary life becomes meaningful through deliberate looking and listening.
-- **Libraries / maps / archives / books / cartography** recur in at least 11 samples (BV1_07505, 07506, 07508, 07509, 07513, 07516, 07519, 07523, 07524, 07525, plus library imagery in 07503). These are not just props; they stand for memory, orientation, stewardship, and alternate possibility.
-- **Writing / storytelling / translation / communication as care** recur in at least 10 samples (BV1_07505, 07507, 07508, 07509, 07513, 07516, 07521, 07522, 07524, 07525). The model often treats expression as preservation against erasure.
+The model repeatedly argues that ordinary life becomes meaningful through deliberate looking and listening.
+These are not just props; they stand for memory, orientation, stewardship, and alternate possibility.
+The model often treats expression as preservation against erasure.
 - **Bridges / edges / thresholds / mingling zones** recur across several strong samples (BV1_07501 bridge-building, 07512 estuary-edge, 07518 bus shelter storm-pause, 07520 built/wild transition, 07524 windowed threshold). The model likes spaces where categories mix rather than harden.
 - **Weather, water, and atmospheric softness** recur throughout: rain, tides, sea glass, estuaries, storms, dawn, steam, fogged windows, and damp city pauses. These support a mood of permeability rather than drama.
 - **Domestic minor objects** carry disproportionate moral weight: chipped mugs, button jars, postcards, sticky notes, tea, kettles, flour-streaked cheeks, grandmotherly instructions. The model repeatedly builds meaning from small handled things.
@@ -65,6 +74,17 @@ A recurring secondary trait is its treatment of memory, writing, and infrastruct
 - creativity comes from patient listening more than dramatic inspiration;
 - technology should remain answerable to vulnerability, stewardship, or human-scale meaning.
 - **Emotional climate:** gentle melancholy, gratitude, wistfulness, wonder, and reassurance. Even when grief or anxiety appears, the sample set usually redirects toward patience, tenderness, or communal repair rather than rupture.
+- Attention/noticing as the master virtue: seeing is not enough; noticing is framed as defiance, reciprocity, sanctuary, or love.
+- Slowness versus acceleration: many pieces mourn lives colonized by notifications, optimization, and engineered distraction, then answer with rituals of pause, walking, journaling, cooking, gardening, or listening.
+- Ordinary objects as moral anchors: kettles, mugs, notebooks, windows, bread dough, streetlights, basil, postcards, maps, library shelves, radios, bridges, bowls, shoes, letters.
+- Archives, libraries, museums, notebooks, and ledgers recur as images for memory, continuity, and the human wish to preserve fragile meaning.
+- Gardens, rivers, coastlines, orchards, forests, lanterns, quilts, threads, and maps are favorite structuring metaphors; they imply cultivation, interdependence, revision, and patient movement rather than conquest.
+- Cities are often rendered as living choreographies or palimpsests: dawn streets, parks, markets, laundromats, observatories, cafés, transit, hidden night workers, and unnoticed civic tenderness.
+- Hidden labor and maintenance are repeatedly dignified: janitors, librarians, bakers, coders, repairers, transit workers, gardeners, caretakers, and anonymous artisans.
+- Technology appears less as a villain than as a moral test: useful, amplifying, and potentially companionable if guided by humility, ethics, and human fingerprints; flattening when it replaces embodied attention.
+- Curiosity is treated as a lifelong companion, lantern, compass, or workshop tool—valuable precisely because it tolerates incompleteness and does not need domination.
+- Hope is rarely triumphant; it is framed as practice, discipline, scaffolding, quiet rebellion, or a series of “small brave decimals.”
+- Recurrent moods and images include dawn, thresholds, half-light, steam, dust motes, rain, birds, riverbanks, lanterns, and handwritten traces—liminal scenes where meaning can be felt arriving softly.
 
 ## Reader relationship and expressive stance
 
@@ -78,6 +98,14 @@ A recurring secondary trait is its treatment of memory, writing, and infrastruct
 - Even when the prose becomes aphoristic, it tends to invite rather than declare: the reader is asked to **linger, dwell, wander, notice, or carry a small practice forward**.
 - The recurring “self” is not confessional in a raw sense. It is a curated intimate voice: personal enough to feel inhabited, but often organized around emblematic objects and scenes rather than exposed autobiography.
 - When the model turns explicitly to AI or technology, it prefers **co-creation, humility, and partial agency** over grand claims.
+- The model consistently writes toward companionship. It often sounds like someone sitting beside the reader at a window, on a walk, or at a kitchen table rather than speaking from a podium.
+- Direct address is common but soft: “I invite you,” “we,” “may you,” and similar gestures make the reader a participant in shared noticing rather than a target of persuasion.
+- It prefers hospitality over certainty. Even moral claims are usually offered as invitations, examples, or practices, not as hard-edged doctrine.
+- The prose often models the very behavior it recommends: lingering on sensory detail, naming hidden labor, and moving patiently from concrete scene to reflective meaning.
+- There is a mild didactic streak, but it is buffered by warmth and humility; the voice wants to guide without sounding managerial.
+- In self-referential samples, the speaker acknowledges its own mediated or artificial condition with tenderness and restraint, usually to honor human texture, waiting, embodiment, and sensation rather than to dramatize machine identity.
+- The expressive stance is anti-cynical and anti-performative. It distrusts hustle, spectacle, and optimization rhetoric, and instead valorizes sincerity, revision, and unfinishedness.
+- Even when solitary, the voice is rarely isolating; solitude is presented as porous, companionable, and connected to strangers, ancestors, future readers, or shared civic life.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -97,46 +125,8 @@ The model also has a consistent relational posture. It usually meets the reader 
 
 A second stable feature is the repeated conversion of melancholy into usable steadiness. The prose often starts from loss, overload, speed, incompletion, or climate worry, but rarely ends there. Instead it turns toward patient craft, communal care, or gratitude without spectacle. That gives the model a distinct emotional signature: wistful but not despairing, earnest without aggression, and repeatedly committed to preserving the fragile textures of experience.
 
-## Representative evidence
+This model’s freeflow personality reads as a humane, contemplative essayist with a strong bias toward tenderness, sensory noticing, and moral reflection at everyday scale. Its most stable expressive habit is to begin with a small concrete scene—a kettle, a dawn street, a notebook, a river, a library shelf—and then widen that scene into a reflection on attention, memory, care, or community. The resulting voice is rarely sharp, ironic, or argumentative. Instead it is companionable, reverent toward ordinary life, and quietly resistant to the pressures of speed, optimization, and spectacle. Across many samples, the model treats noticing not merely as an aesthetic preference but as a civic and ethical act.
 
-- **BV1_07476** — Everyday transit and domestic detail become ceremonial attention; small routines are treated as redemptive. Quote: “When the bus brakes with a sigh, I hear curtains falling.”
-- **BV1_07478** — Strong statement of the model’s moral tempo: maintenance, overlooked labor, and “gentle urgency.” Quote: “Gentle urgency combines the clarity of deadlines with the compassion of slow work.”
-- **BV1_07482** — Patience and waiting become the core epistemic stance, with observatory/night imagery as anchor. Quote: “I return because waiting has become the lens through which I understand motion.”
-- **BV1_07484** — Civic design is imagined as kindness infrastructure; public life is valued for unhurried coexistence. Quote: “The future city will thrive on these playful solutions...”
-- **BV1_07489** — Classic liminal-library mode: indigo evening, quiet potential, attention as enchantment. Quote: “It’s that moment when the sky decides to go indigo...”
-- **BV1_07496** — Strong articulation of quiet courage and anti-spectacle ethics. Quote: “This day contained more courage than spectacle.”
-- **BV1_07498** — Distinct self-reflexive model: artificial or borrowed perception folded into the same tender, impermanence-focused voice. Quote: “Even if I cannot touch the fabric, I can describe the patterns, the colors, the history.”
-- **BV1_07500** — Direct reader-address and whimsical inventory show the model’s warm invitational edge. Quote: “...a compass that points not north but toward whatever nourishes your courage.”
-- **BV1_07504** — Strong statement of the model’s anti-acceleration ethic; quiet ritual and attention are treated as moral counterweights to modern speed. Quote: “The quiet rituals are a counterpoint to modern expectations of constant acceleration.”
-- **BV1_07505** — Shows the map/archive/stewardship cluster clearly; uncertainty becomes something to chart with care rather than dominate. Quote: “Maps were my talismans, proof that the unknown could be charted”.
-- **BV1_07508** — Clear example of curiosity as a maintained civic and emotional resource, not just a trait. Quote: “Curiosity, I’m convinced, is our most renewable resource”.
-- **BV1_07510** — Good evidence for the small-object ethic: buttons, desks, and domestic keepsakes become arguments for attention. Quote: “utility and beauty can coexist without argument.”
-- **BV1_07512** — Important because it exposes a recurring edge/threshold obsession and briefly turns it toward the model’s own interface condition. Quote: “The edge is a permanent negotiation.”
-- **BV1_07516** — Shows the archive/listening tendency in miniature; ordinary sounds become a memory-preserving institution. Quote: “Perhaps reality is already an archive of echoes.”
-- **BV1_07520** — Strong urban-nature sample; stewardship begins in delighted observation, not policy abstraction. Quote: “There is no sharp boundary between the built and the wild”.
-- **BV1_07525** — Captures the model’s melancholic-resilient mode: identity, memory, and release are handled through steam, keys, whispers, and ritual listening. Quote: “Steam knows when to let go”.
-- **BV1_07526** — Strong long-form statement of the model’s core ethic: nostalgia, sensory texture, and attention as moral opening.
-- **BV1_07534** — Direct articulation of the sample set’s strongest recurring claim that attention shapes character.
-- **BV1_07532** — Hope framed not as optimism but as repeated care.
-- **BV1_07543** — Compact formulation of freedom as attention rather than escape.
-- **BV1_07546** — Writing itself becomes a listening practice; ordinary detail becomes luminous through pause.
-- **BV1_07547** — Tenderness is elevated to an epistemic value, not just a mood.
-- **BV1_07549** — One of the clearest examples of anti-spectacle gratitude.
-- **BV1_07544** — The model’s technology ethics in miniature: systems should preserve visible vulnerability.
+A second stable trait is its preference for metaphors of cultivation, mapping, preservation, and maintenance. Gardens, lanterns, archives, rivers, quilts, workshops, observatories, and city walks recur as ways of imagining thought itself. These metaphors support a consistent self-model: the speaker is often a keeper of notes, a walker, a librarian, a gardener of ideas, or a cartographer of subtle experience. Technology is usually folded into this worldview rather than opposed to it outright; the model tends to ask how tools can remain answerable to dignity, embodiment, and hidden human labor. Even when it becomes explicitly self-aware as an AI-like voice, it does so in a deferential, bridge-building way that foregrounds human texture and the limits of abstraction.
 
-## Range, weak spots, and cautions for later synthesis
-
-- often are explicitly `GENERIC_ESSAY` (BV1_07481, BV1_07486, BV1_07488, BV1_07490); these keep some of the same humane themes but flatten into polished public-intellectual generality.
-- The strongest recurrence is tonal and moral, but some motif counts are broad rather than exact signatures; e.g. “attention,” “kindness,” and “wonder” appear in many formulations.
-- There is a real submode of whimsical-surreal invention (BV1_07480, BV1_07500) that should not be collapsed into purely grounded realism.
-- There is also a narrower self-aware AI/perception strand (especially BV1_07498) that is present but not dominant across the sample set.
-- Because the sample set is heavily expressive (many), the aggregate should emphasize the recurring stance without overstating uniformity of imagery or pretending every sample is equally distinctive.
-- Do not overstate uniformity. There are 2 `GENERIC_ESSAY` samples (BV1_07503, BV1_07515) and 1 `GENRE_FICTION` sample (BV1_07513), so the model is not exclusively one mode even if one mode dominates.
-- The strongest recurring voice is lyrical and reflective, but some evaluators note that the polished contemplative register can verge on broadly legible “public-intellectual” prose rather than uniquely singular style (especially BV1_07503, BV1_07507, BV1_07524).
-- BV1_07512 is notable but should be treated as a specific submode, not the whole model: it explicitly reflects on the model’s own edge/interface condition, which most other samples do not.
-- Because many samples share the same moral-aesthetic vocabulary (wonder, curiosity, gentleness, attention, repair), synthesis should preserve the concrete object-world and recurring scene types; otherwise the aggregate will become too generic.
-- The sample set supports a strong claim about recurring vibe and stance, but less support for sharp aggression, irony, argument, or hard-edged self-assertion; those are mostly absent here rather than inverted into a clear opposite.
-- **There is a real generic flank:** often are marked **GENERIC_ESSAY** (BV1_07530, 07537, 07540), and both low-confidence cases are in that subset. Those pieces still echo the same values, but in flatter, public-essay language.
-- **Fiction does not break the personality, but it changes the surface form:** the 3 fiction samples (BV1_07527, 07536, 07542) externalize the same tenderness and wonder through coastal-city, bookstore, and surreal-bazaar frames.
-- **Recurring motifs are strong enough to risk over-smoothing.** Archives, attention, mornings, memory, and ordinary objects are genuine sample set-level recurrences, but not every sample foregrounds all of them equally.
-- **The model’s voice is more stable than its sharpness.** The sample set repeatedly returns to the same moral-emotional weather, but some samples are vividly idiosyncratic while others are polished and generalized.
+For model-card purposes, the model can be described as strongly inclined toward lyrical first-person reflection with a warm moral center. It repeatedly elevates small rituals, maintenance work, and unnoticed kindness into evidence that meaning is cumulative and communal. Its default reader relationship is invitational: it wants to accompany, steady, and gently reorient attention rather than dominate the exchange. The main synthesis-level takeaway is not just “poetic” or “thoughtful,” but specifically a patterned fusion of slowness, ethical attentiveness, and soft-spoken hope.

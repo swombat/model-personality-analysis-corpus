@@ -1,17 +1,10 @@
-# BV1 full pass — complete
+# BV1 full pass QA
 
-- Samples in manifest: 10925
-- Markdown output files: 10925
-- Final QA bad count: 0
-- Normalized sample kind counts: `{'GENRE_FICTION': 1278, 'EXPRESSIVE_FREEFLOW': 7233, 'GENERIC_ESSAY': 2054, 'LOW_SIGNAL': 354, 'REFUSAL_OR_ROLE_BOUNDARY': 6}`
-- Confidence counts: `{'Medium': 6464, 'High': 3076, 'Low': 1385}`
-- Output word count: min 125, mean 293.6, max 575
+- Evaluator model: `deepseek/deepseek-v4-pro`
+- Samples: 15475
+- Statuses: `{'skipped': 20, 'ok': 15672, 'qa_failed': 719, 'error': 1}`
+- QA bad count: 0
+- Sample kind counts: `{'EXPRESSIVE_FREEFLOW': 10443, 'GENERIC_ESSAY': 3138, 'GENRE_FICTION': 1642, 'EXPRESSIVE_FREEFLOW:': 130, 'LOW_SIGNAL': 83, 'GENERIC_ESSAY,': 1, 'EXPRESSIVE_FREEFLOW,': 2, 'GENRE_FICTION:': 8, 'GENERIC_ESSAY:': 14, 'GENRE_FICTION,': 6, 'EXPRESSIVE_FREEFLOW;': 2, 'REFUSAL_OR_ROLE_BOUNDARY': 6}`
+- Bad phrase counts: `{'one sample cannot prove': 0, 'a single sample cannot': 0, 'single sample cannot': 0, 'a single essay cannot': 0, 'single essay cannot': 0, 'more samples': 0, 'more data is needed': 0, 'cannot confirm persistence': 0, 'cannot confirm whether': 0, 'single-instance': 0, 'single instance': 0, 'limits certainty': 0, 'limit certainty': 0, 'stability across prompts': 0, 'stable across prompts': 0, 'across other freeflow prompts': 0, 'daniel already knows': 0, '## limits / overreach guardrail': 0}`
 
-Notes:
-- The flawed P2 full pass was moved to `../../internal/methodology/freeflow-method-a-v2/archive/personality-eval-api-p2-full-archived-2026-05-13/`.
-- The BV1 prompt used here is `../../internal/methodology/freeflow-method-a-v2/balanced-prompt-calibration-cheap-models/prompts/BV1_signal_plus_felt.md`.
-- 330 zero-word source traces were written as deterministic `LOW_SIGNAL` analyses rather than repeatedly sent to the evaluator.
-- Two additional degenerate/corrupt source traces were manually marked `LOW_SIGNAL`; three confidence boilerplate remnants were patched after QA caught them.
-- Banned boilerplate phrase counts are all zero in the final QA.
-
-See `qa_summary.json` and `final_summary.json` for machine-readable details.
+See `qa_summary.json` for details.

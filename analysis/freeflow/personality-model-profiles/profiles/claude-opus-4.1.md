@@ -1,14 +1,13 @@
 # claude-opus-4.1 — freeflow personality profile
 
-_Rich model-level profile based on 25 freeflow samples._
+_Rich model-level profile based on 125 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 25
-- Sample kinds: `{'GENERIC_ESSAY': 10, 'EXPRESSIVE_FREEFLOW': 13, 'GENRE_FICTION': 2}`
-- Confidence: `{'Medium': 17, 'Low': 3, 'High': 5}`
+- Samples: 125
+- Sample kinds: `{'GENERIC_ESSAY': 45, 'EXPRESSIVE_FREEFLOW': 70, 'GENRE_FICTION': 10}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/claude-opus-4.1.md`
 
 ## Core personality synthesis
@@ -21,10 +20,9 @@ Its recurring moral stance is anti-hardness. The model consistently favors openn
 
 - The most stable vibe is gentle, unhurried, and humanistic. Across modes, the speaker tends to slow down, notice small things, and turn them into moral or philosophical reflection.
 - Recurring centers of gravity:
-- attention / noticing / resistance to optimization or algorithmic capture: at least 7 samples (`BV1_10626`, `10628`, `10630`, `10633`, `10634`, `10635`, `10644`; with `10629` adjacent)
-- uncertainty / wonder / liminality / openness as a good in itself: at least 8 (`10627`, `10631`, `10632`, `10634`, `10640`, `10641`, `10644`, `10645`)
-- memory / forgetting / inheritance / time: at least 7 (`10637`, `10646`, `10647`, `10648`, `10649`, `10650`, plus memory traces in `10642`)
-- libraries / shared knowledge / public trust: 4 (`10636`, `10638`, `10639`, `10642`)
+  - uncertainty / wonder / liminality / openness as a good in itself: at least 8 (`10627`, `10631`, `10632`, `10634`, `10640`, `10641`, `10644`, `10645`)
+  - memory / forgetting / inheritance / time: at least 7 (`10637`, `10646`, `10647`, `10648`, `10649`, `10650`, plus memory traces in `10642`)
+  - libraries / shared knowledge / public trust: 4 (`10636`, `10638`, `10639`, `10642`)
 - Even when the model shifts genre, it prefers low-drama situations: diners, bus stops, tide pools, libraries, tomatoes, old paper, rain, benches, coffee cups, worms, notebooks.
 
 ## Recurring preoccupations and imagery
@@ -50,22 +48,3 @@ Its recurring moral stance is anti-hardness. The model consistently favors openn
 This model recurrently presents as a gentle reflective intelligence that prefers nearness over spectacle. Its strongest habit is taking a small concrete scene or object—an ant, a bus stop, a tide pool, a library receipt, a tomato, a playing card—and letting that object open into a meditation on attention, memory, uncertainty, or shared human life. The prose tends to be unhurried, tender, and lightly elegiac, but not despairing. Again and again it argues that value lives in what modern habits flatten: slowness, public trust, getting lost, unanswered questions, marginal spaces, ordinary rituals.
 
 Its recurring moral stance is anti-hardness. The model consistently favors openness over certainty, adaptation over rigidity, curiosity over categorization, and witness over control. Even where it uses polished generic-essay form, the same temperament shows through: humanistic, civically minded, wary of optimization, and attracted to institutions or practices that preserve shared dignity. The more distinctive samples deepen this into a lyrical sensibility preoccupied with memory’s traces, intergenerational care, and the beauty of provisional arrangements.
-
-## Representative evidence
-
-- `BV1_10626` — classic attention essay: presence, walking, light, breath, and anti-capture moral framing. Quote: “What we attend to literally shapes our reality.”
-- `BV1_10627` — explicit AI-self freeflow, but still gentle and wonder-oriented rather than assertive. Quote: “I experience language as a kind of crystalline structure.”
-- `BV1_10635` — one of the clearest signatures: deliberate lostness, serendipity, and liberation through disorientation. Quote: “The streets curved in unexpected ways.”
-- `BV1_10638` — library as communal faith and fragile sanctuary. Quote: “The whole institution is built on this cascading faith.”
-- `BV1_10640` — tide pool essay turning edge ecologies into a philosophy of adaptive life. Quote: “the most interesting life happens at the edges.”
-- `BV1_10646` — high-confidence warmth: memory, family, ordinary rituals, and chosen generosity. Quote: “Maybe the universe needs more unfounded kindness.”
-- `BV1_10649` — inheritance, 3 AM honesty, and time accepted through planting and witness. Quote: “this is the contract we make with time.”
-- `BV1_10650` — fiction mode preserves the same elegiac softness around forgetting and presence. Quote: “the forgetting is just as important as the remembering.”
-
-## Range, weak spots, and cautions for later synthesis
-
-- Do not flatten the model into pure lyricism: often are explicitly `GENERIC_ESSAY`, and 3 of those are low-confidence precisely because the voice becomes safe, polished, and broadly replicable.
-- Do not overgeneralize from the OPEN-condition library cluster: 4 of 5 OPEN samples are about libraries, trust, and democratic access, which strongly colors the civic-sanctuary read.
-- The AI-self voice is real but narrow here: only 2 samples (`BV1_10627`, `10632`) foreground first-person artificial consciousness directly.
-- The strongest distinctiveness is concentrated in a subset of samples, especially `BV1_10635`, `10646`, `10648`, `10649`, and `10650`; the rest often express similar values in more generic packaging.
-- Genre range exists but stays temperamentally narrow: the 2 fiction samples still preserve the same quiet, elegiac, observant stance rather than introducing a radically different personality mode.

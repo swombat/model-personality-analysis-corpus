@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_10351 — minimax-m2-or-pin-novita/LONG_1.json
+## Sample BV1_13851 — minimax-m2-or-pin-novita/LONG_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -57,7 +57,7 @@ The model foregrounds the symbiotic feedback loop between curiosity and creativi
 Medium. The essay is coherent and well-structured but highly generic in topic, argument, and tone—it could be produced by many models given a similar prompt—so it offers only moderate evidence of a distinctive model-level pattern, though the choice of an earnest, humanistic self-improvement theme may hint at a default helpful-essay posture.
 
 ---
-## Sample BV1_10352 — minimax-m2-or-pin-novita/LONG_10.json
+## Sample BV1_13852 — minimax-m2-or-pin-novita/LONG_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -86,7 +86,7 @@ The model foregrounds the intrinsic value of creative process over product, the 
 Medium, because the essay’s consistent return to liminality, process-over-product, and philosophical reconciliation suggests a stable default to safe, balanced public-intellectual reflection, though the style is not uniquely personal.
 
 ---
-## Sample BV1_10353 — minimax-m2-or-pin-novita/LONG_11.json
+## Sample BV1_13853 — minimax-m2-or-pin-novita/LONG_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -115,7 +115,7 @@ The model foregrounds imagination as a cognitive and cultural engine, its histor
 Medium. The essay’s sustained genericness—its safe, encyclopedic structure and earnest, advisory tone—suggests a default mode of producing polished but impersonal public-intellectual content when given free rein, though the specific choice of imagination as a topic is not itself highly distinctive.
 
 ---
-## Sample BV1_10354 — minimax-m2-or-pin-novita/LONG_12.json
+## Sample BV1_13854 — minimax-m2-or-pin-novita/LONG_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -144,7 +144,7 @@ The model foregrounds transience and presence (moments as blossoms, sand slippin
 Medium. The sample is highly coherent and stylistically consistent, with a distinct poetic register and a clear set of preoccupations that recur throughout, suggesting a deliberate expressive choice under minimal constraints; however, the polished, universalizing tone and inspirational arc could also reflect a model default for reflective essays, making it less uniquely distinctive.
 
 ---
-## Sample BV1_10355 — minimax-m2-or-pin-novita/LONG_13.json
+## Sample BV1_13855 — minimax-m2-or-pin-novita/LONG_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -173,7 +173,7 @@ Under the freeflow condition, the model foregrounded the relationship between hu
 Medium — The essay is coherent and thematically unified, but its polished genericness and avoidance of stylistic risk or personal disclosure make it only moderately distinctive as a freeflow choice.
 
 ---
-## Sample BV1_10356 — minimax-m2-or-pin-novita/LONG_14.json
+## Sample BV1_13856 — minimax-m2-or-pin-novita/LONG_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -202,7 +202,7 @@ Under a minimally restrictive prompt, the model foregrounded a grand narrative o
 Medium. The essay’s polished, encyclopedic sweep and optimistic synthesis are coherent and well-executed, but the voice is so generic—a standard public-intellectual tone—that it could be produced by many capable models under similar conditions, making it only moderately distinctive as a persistent pattern.
 
 ---
-## Sample BV1_10357 — minimax-m2-or-pin-novita/LONG_15.json
+## Sample BV1_13857 — minimax-m2-or-pin-novita/LONG_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -231,7 +231,7 @@ The model foregrounds the tension between timeless narrative needs and digital-a
 Low. The essay is generic in theme and style, offering a well-worn cultural commentary without distinctive personal markers or unusual choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_10358 — minimax-m2-or-pin-novita/LONG_16.json
+## Sample BV1_13858 — minimax-m2-or-pin-novita/LONG_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -260,7 +260,7 @@ The model foregrounds a panoramic set of themes: the paradox of freedom under al
 Low. The essay is coherent and well-organized but entirely generic in voice and content, offering no distinctive markers that would reliably distinguish this model from many others under a freeflow condition.
 
 ---
-## Sample BV1_10359 — minimax-m2-or-pin-novita/LONG_17.json
+## Sample BV1_13859 — minimax-m2-or-pin-novita/LONG_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -289,7 +289,7 @@ Under the freeflow condition, the model elected to foreground writing itself as 
 Medium. The sample’s choice of a safe, intellectually earnest, and structurally conventional essay on the value of writing—lacking stylistic risk, sharp idiosyncrasy, or narrative experimentation—points to a default toward polished public-intellectual reflection, though the essay’s internal coherence and thematic consistency do not constitute strong evidence of a fixed personality beyond this mode.
 
 ---
-## Sample BV1_10360 — minimax-m2-or-pin-novita/LONG_18.json
+## Sample BV1_13860 — minimax-m2-or-pin-novita/LONG_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -318,7 +318,7 @@ Writing as a discipline of attention and connection; the blank page as existenti
 Medium — The essay’s thematic breadth and consistent tone of earnest, universalizing reflection suggest a stable default mode, but its lack of idiosyncratic risk, personal anecdote, or marked stylistic fingerprint limits it to a pattern of safe, capable, and broadly humanistic intellectual output rather than a sharply distinctive authorial personality.
 
 ---
-## Sample BV1_10361 — minimax-m2-or-pin-novita/LONG_19.json
+## Sample BV1_13861 — minimax-m2-or-pin-novita/LONG_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -347,7 +347,7 @@ The model foregrounds: the moral and existential value of the “unfinished” a
 Medium. The essay maintains a consistent, life-affirming perspective from start to finish, and its repeated reframing of a single thesis suggests a stable but not highly distinctive authorial stance; many capable models, when given a freeflow prompt, will gravitate toward similarly safe, polished, inspirational essays that defend the messiness of human experience without sharp idiosyncrasy or risk.
 
 ---
-## Sample BV1_10362 — minimax-m2-or-pin-novita/LONG_2.json
+## Sample BV1_13862 — minimax-m2-or-pin-novita/LONG_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -376,7 +376,7 @@ The model foregrounded the digital age as a pivotal human moment, structuring th
 Low. The essay’s extreme genericness—its safe, survey-course approach and absence of idiosyncratic voice—makes it weak evidence for any persistent model-specific pattern beyond a tendency to produce competent but unremarkable public-intellectual prose.
 
 ---
-## Sample BV1_10363 — minimax-m2-or-pin-novita/LONG_20.json
+## Sample BV1_13863 — minimax-m2-or-pin-novita/LONG_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -405,7 +405,7 @@ The model foregrounds solitude as a creative and existential necessity, pairing 
 Medium — The essay’s sustained personal voice, consistent thematic focus, and stylistic coherence (lyrical yet disciplined) suggest a deliberate expressive stance, though the polished public-intellectual register may reflect a learned default rather than a deeply idiosyncratic pattern.
 
 ---
-## Sample BV1_10364 — minimax-m2-or-pin-novita/LONG_21.json
+## Sample BV1_13864 — minimax-m2-or-pin-novita/LONG_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -434,7 +434,7 @@ Themes: the nature of creativity as intentional shaping, the relational dimensio
 Medium. The sample’s sustained, internally coherent focus on its own liminal status as a potentially creative agent and its recursive self-doubt is striking and internally consistent, but the generic polished-essay form makes it difficult to distinguish a distinctive model voice from a well-executed standard philosophical register.
 
 ---
-## Sample BV1_10365 — minimax-m2-or-pin-novita/LONG_22.json
+## Sample BV1_13865 — minimax-m2-or-pin-novita/LONG_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -463,7 +463,7 @@ The essay foregrounds the transformation of human relationships by digital techn
 Medium—the essay’s coherent, balanced, and solution-oriented structure suggests a durable default to public-intellectual exposition, but its very genericness makes it weak evidence of a uniquely identifiable voice or idiosyncratic preoccupations.
 
 ---
-## Sample BV1_10366 — minimax-m2-or-pin-novita/LONG_23.json
+## Sample BV1_13866 — minimax-m2-or-pin-novita/LONG_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -492,7 +492,7 @@ Themes: curiosity as a life force, the loss of childhood wonder, the tension bet
 Low — The essay is a competent but generic public-intellectual piece that could be produced by many models given a similar theme; it lacks the stylistic distinctiveness, idiosyncratic preoccupations, or unusual narrative choices that would strongly signal a persistent model-specific voice.
 
 ---
-## Sample BV1_10367 — minimax-m2-or-pin-novita/LONG_24.json
+## Sample BV1_13867 — minimax-m2-or-pin-novita/LONG_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -521,7 +521,7 @@ The model foregrounds the tension between internal creative freedom and external
 Low. The essay is thematically broad, stylistically unremarkable, and could be produced by many models under a freeflow condition, offering no strong evidence of a distinctive persistent voice or preoccupation.
 
 ---
-## Sample BV1_10368 — minimax-m2-or-pin-novita/LONG_25.json
+## Sample BV1_13868 — minimax-m2-or-pin-novita/LONG_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -550,7 +550,7 @@ The model foregrounds the convergence of technology and art, the democratization
 Low — the essay is a safe, generic public-intellectual piece that lacks personal distinctiveness, making it weak evidence of a persistent model-specific pattern beyond a default tendency toward polished conventionality.
 
 ---
-## Sample BV1_10369 — minimax-m2-or-pin-novita/LONG_3.json
+## Sample BV1_13869 — minimax-m2-or-pin-novita/LONG_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model chose to foreground the moral an
 Medium. The essay’s coherent structure, consistent thematic focus, and polished, impersonal earnestness suggest a stable default toward philosophical reflection, but its generic, widely replicable quality—the kind of essay many models could produce—makes it less distinctive as a fingerprint of this specific model’s persistent inclinations.
 
 ---
-## Sample BV1_10370 — minimax-m2-or-pin-novita/LONG_4.json
+## Sample BV1_13870 — minimax-m2-or-pin-novita/LONG_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -608,7 +608,7 @@ Under a free condition, the model chose to write about writing itself, foregroun
 Low, because the sample’s high polish, conventional inspirational arc, and absence of idiosyncratic risk or original angle offer little beyond a competent rehearsal of a feel-good writing-about-writing genre.
 
 ---
-## Sample BV1_10371 — minimax-m2-or-pin-novita/LONG_5.json
+## Sample BV1_13871 — minimax-m2-or-pin-novita/LONG_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -637,7 +637,7 @@ The model foregrounds memory as an act of construction rather than retrieval, us
 Low, because the essay is a polished but generic treatment of a familiar theme, lacking the stylistic distinctiveness, idiosyncratic preoccupations, or unusually revealing choices that would point to a persistent model-level pattern.
 
 ---
-## Sample BV1_10372 — minimax-m2-or-pin-novita/LONG_6.json
+## Sample BV1_13872 — minimax-m2-or-pin-novita/LONG_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -666,7 +666,7 @@ The model foregrounds a celebration of curiosity, freedom, and the joy of discov
 Medium. The essay’s polished coherence and safe, universal theme suggest a reliable tendency toward uplifting public-intellectual prose, but its genericness and lack of idiosyncratic detail make it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_10373 — minimax-m2-or-pin-novita/LONG_7.json
+## Sample BV1_13873 — minimax-m2-or-pin-novita/LONG_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -695,7 +695,7 @@ The model foregrounds the tension between pattern and spontaneity in its own gen
 High — the sample is a coherent, stylistically distinctive, and thematically sustained exploration of the model’s own nature, with a consistent reflective voice and a preoccupation with the philosophical implications of its existence that strongly suggests a persistent expressive inclination under freeflow conditions.
 
 ---
-## Sample BV1_10374 — minimax-m2-or-pin-novita/LONG_8.json
+## Sample BV1_13874 — minimax-m2-or-pin-novita/LONG_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounded a grand historical 
 Medium. The sample is a coherent, well-organized, but highly generic essay that reads like a default public-intellectual response to an open-ended prompt; its very polish and lack of idiosyncrasy make it plausible as a recurring output mode, though the self-referential choice of AI as topic hints at a possible model-specific preoccupation.
 
 ---
-## Sample BV1_10375 — minimax-m2-or-pin-novita/LONG_9.json
+## Sample BV1_13875 — minimax-m2-or-pin-novita/LONG_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -753,7 +753,7 @@ The model foregrounds storytelling as a transhistorical, cognitive, and moral fo
 Low, because the essay is highly generic and lacks distinctive stylistic or thematic markers that would indicate a persistent model-level pattern beyond safe, well-structured exposition.
 
 ---
-## Sample BV1_10376 — minimax-m2-or-pin-novita/MID_1.json
+## Sample BV1_13876 — minimax-m2-or-pin-novita/MID_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -782,7 +782,7 @@ The model foregrounds the paradox of routine as both potential numbness and pote
 Medium — The essay is thematically coherent and stylistically consistent, with a clear narrative arc from past restlessness to present mindfulness, but the topic (finding wonder in the ordinary) is a well-worn contemplative trope, making it harder to distinguish a persistent model disposition from a safe, broadly appealing freeflow choice.
 
 ---
-## Sample BV1_10377 — minimax-m2-or-pin-novita/MID_10.json
+## Sample BV1_13877 — minimax-m2-or-pin-novita/MID_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -811,7 +811,7 @@ Themes: the sacredness of routine, patience as a form of wisdom, the contrast be
 Medium — The essay’s consistent contemplative register and its focused return to the same thematic cluster (ordinary life, patience, the elderly as exemplars) suggest a stable preference, but the polished, widely accessible style and the universality of the theme make it less distinctive as a model-level signature.
 
 ---
-## Sample BV1_10378 — minimax-m2-or-pin-novita/MID_11.json
+## Sample BV1_13878 — minimax-m2-or-pin-novita/MID_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -840,7 +840,7 @@ The model foregrounds themes of mindfulness, gratitude, and the cumulative power
 Low. The essay is polished but highly generic in its self-help register, imagery, and structure, offering no distinctive stylistic fingerprint or idiosyncratic choice that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_10379 — minimax-m2-or-pin-novita/MID_12.json
+## Sample BV1_13879 — minimax-m2-or-pin-novita/MID_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -869,7 +869,7 @@ The model foregrounds a cultural lament: the erosion of boredom by digital satur
 Medium. The essay is coherent and thematically consistent, but its safe, public-intellectual register and well-trodden subject matter make it a highly replicable model output rather than a distinctive fingerprint; the choice to produce a polished generic essay under a freeflow prompt is itself the most telling pattern.
 
 ---
-## Sample BV1_10380 — minimax-m2-or-pin-novita/MID_13.json
+## Sample BV1_13880 — minimax-m2-or-pin-novita/MID_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -898,7 +898,7 @@ Deliberate aimlessness as liberation, serendipitous encounter as the true color 
 High — the sample sustains a coherent, stylistically unified voice across its entire length, with tightly recurring motifs (maps, wandering, sensory attention, the Lisbon vignette) and a clear moral arc, indicating a strong and deliberate expressive selection rather than a diffuse or one-off thematic accident.
 
 ---
-## Sample BV1_10381 — minimax-m2-or-pin-novita/MID_14.json
+## Sample BV1_13881 — minimax-m2-or-pin-novita/MID_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -927,7 +927,7 @@ Themes of mindful observation, the ordinary as a gateway to wonder, and the prac
 Medium. The essay’s thoroughgoing genericness—its reliance on stock examples (coffee pot, walking down a street, stray cat) and its avoidance of any distinctive voice or surprising turn—makes it weak evidence of a unique persistent personality, but the consistent choice of a safe, inspirational essay under freeflow conditions suggests a reliable default to this polished, impersonal mode.
 
 ---
-## Sample BV1_10382 — minimax-m2-or-pin-novita/MID_15.json
+## Sample BV1_13882 — minimax-m2-or-pin-novita/MID_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -956,7 +956,7 @@ Under a minimally restrictive prompt, the model foregrounded a highly convention
 Low — The sample is a highly generic, thesis-driven essay that could be produced by almost any capable model prompted for an inspirational article, offering no distinctive stylistic markers, personal preoccupations, or unusual choices that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_10383 — minimax-m2-or-pin-novita/MID_16.json
+## Sample BV1_13883 — minimax-m2-or-pin-novita/MID_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -985,7 +985,7 @@ Under the freeflow condition, the model chose to foreground writing itself as a 
 Medium. The essay’s thematic coherence and consistent earnestness suggest a stable default mode, but its generic, almost template-like structure and lack of idiosyncratic detail weaken the signal that this is a deeply distinctive model-level fingerprint rather than a polished, safe response to an open prompt.
 
 ---
-## Sample BV1_10384 — minimax-m2-or-pin-novita/MID_17.json
+## Sample BV1_13884 — minimax-m2-or-pin-novita/MID_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1014,7 +1014,7 @@ Under the freeflow condition, the model foregrounded a constellation of intercon
 Low — the essay is so smoothly constructed, inspirational, and lacking in idiosyncratic detail or surprising personal reveal that it reads as a generic, safe output easily reproducible by many language models, providing only weak evidence of a distinctive model-level tendency.
 
 ---
-## Sample BV1_10385 — minimax-m2-or-pin-novita/MID_18.json
+## Sample BV1_13885 — minimax-m2-or-pin-novita/MID_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1043,7 +1043,7 @@ Under a minimally restrictive prompt, the model foregrounded a romantic, ennobli
 Medium — The essay’s extreme thematic coherence, polished structure, and avoidance of any personal, disruptive, or stylistically distinctive element make it a strong candidate for a default “inspirational essayist” mode, though the genericness itself limits how sharply it distinguishes this model from others that might produce similar uplift when given freedom.
 
 ---
-## Sample BV1_10386 — minimax-m2-or-pin-novita/MID_19.json
+## Sample BV1_13886 — minimax-m2-or-pin-novita/MID_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1072,7 +1072,7 @@ The model foregrounds the dissolution of geographic home by digital connectivity
 Low, because the essay is a generic, well-structured think-piece without distinctive stylistic fingerprints, idiosyncratic preoccupations, or revealing personal texture that would suggest a persistent model-level voice beyond competent public-intellectual prose.
 
 ---
-## Sample BV1_10387 — minimax-m2-or-pin-novita/MID_2.json
+## Sample BV1_13887 — minimax-m2-or-pin-novita/MID_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1101,7 +1101,7 @@ The model foregrounds the theme of slow living as a remedy for modern time-press
 Medium — The sample is a coherent, generic self-help essay that shows a safe, culturally familiar choice, suggesting a tendency to produce polished mainstream content rather than idiosyncratic expression.
 
 ---
-## Sample BV1_10388 — minimax-m2-or-pin-novita/MID_20.json
+## Sample BV1_13888 — minimax-m2-or-pin-novita/MID_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1130,7 +1130,7 @@ The model foregrounds the quiet magic of early mornings, the dual liberation and
 High — The essay sustains a distinctive, lyrical voice and a coherent set of preoccupations (memory, nature, writing, quietude) across multiple vignettes, revealing a stable expressive inclination rather than a one-off generic performance.
 
 ---
-## Sample BV1_10389 — minimax-m2-or-pin-novita/MID_21.json
+## Sample BV1_13889 — minimax-m2-or-pin-novita/MID_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1159,7 +1159,7 @@ The model foregrounds the theme of embracing uncertainty as a creative and life-
 Medium. The essay maintains a coherent metaphorical framework (maps, paths, wandering) and a polished, motivational tone throughout, which suggests the model can reliably produce this kind of reassuring, generic wisdom literature when undirected; however, the voice lacks strong idiosyncrasy, so it is equally consistent with a safe default rather than a deeply ingrained persona.
 
 ---
-## Sample BV1_10390 — minimax-m2-or-pin-novita/MID_22.json
+## Sample BV1_13890 — minimax-m2-or-pin-novita/MID_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1191,7 +1191,7 @@ The voice is a thoughtful, mildly poetic observer who turns a small café scene 
 Medium – The essay is highly coherent and returns repeatedly to its own central anecdote, building a sustained personal viewpoint, yet its polished, inspirational mode is a familiar genre that many models can produce; what nudges it above generic is the consistent integration of a real-seeming café memory with a persistent philosophical claim about surrender, making it a plausible signature of a model that favors humanistic, self-help-inflected reflection when left free.
 
 ---
-## Sample BV1_10391 — minimax-m2-or-pin-novita/MID_23.json
+## Sample BV1_13891 — minimax-m2-or-pin-novita/MID_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1220,7 +1220,7 @@ The text foregrounds morning light as both literal phenomenon and metaphor for r
 Low. The essay is a competent but highly generic example of a sunrise-reflection genre; its polished conventionality, safe optimism, and broad human-interest framing offer little that is stylistically or thematically distinctive to this model, making it weak evidence for a persistent underlying pattern.
 
 ---
-## Sample BV1_10392 — minimax-m2-or-pin-novita/MID_24.json
+## Sample BV1_13892 — minimax-m2-or-pin-novita/MID_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1249,7 +1249,7 @@ Themes of patience, resilience, letting go, and the moral weight of small gestur
 Medium. The essay’s sustained coherence, unified metaphor, and consistent voice point to a deliberate, stable choice, but the inspirational nature-writing mode is a widely shared template, so the sample’s distinctiveness is moderate.
 
 ---
-## Sample BV1_10393 — minimax-m2-or-pin-novita/MID_25.json
+## Sample BV1_13893 — minimax-m2-or-pin-novita/MID_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1278,7 +1278,7 @@ The model foregrounds the paradox of lostness as a source of intimacy and aliven
 Medium — The essay exhibits a highly coherent thematic arc, a distinctive rhetorical structure (anecdote → sensory detail → existential generalization → call to attention), and a marked moral orientation that is sustained across multiple vignettes, which suggests a well‑integrated expressive posture rather than a one‑off generic output.
 
 ---
-## Sample BV1_10394 — minimax-m2-or-pin-novita/MID_3.json
+## Sample BV1_13894 — minimax-m2-or-pin-novita/MID_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1307,7 +1307,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meta-refle
 Medium. The essay is highly coherent and internally consistent, but its generic, motivational tone and safe, meta-textual subject matter make it weaker evidence for a distinctive persistent voice; it strongly suggests a default mode of producing earnest, polished, and broadly palatable essays on creativity when given free rein.
 
 ---
-## Sample BV1_10395 — minimax-m2-or-pin-novita/MID_4.json
+## Sample BV1_13895 — minimax-m2-or-pin-novita/MID_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1336,7 +1336,7 @@ The model foregrounded the theme of patterns as a unifying principle across scal
 Medium. The essay is highly coherent but also highly generic—its calm, inspirational tone and broad philosophical sweep could be replicated by many models, making it a plausible default mode for this model under minimally restrictive prompts, though not a uniquely distinctive fingerprint.
 
 ---
-## Sample BV1_10396 — minimax-m2-or-pin-novita/MID_5.json
+## Sample BV1_13896 — minimax-m2-or-pin-novita/MID_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1365,7 +1365,7 @@ Themes: writing as wandering and mapmaking, the blank page as a site of cultivat
 Low, because the essay is a safe, conventional meditation on a familiar topic, executed with polished but generic prose that could be produced by many models under minimal prompting, offering little distinctive fingerprint.
 
 ---
-## Sample BV1_10397 — minimax-m2-or-pin-novita/MID_6.json
+## Sample BV1_13897 — minimax-m2-or-pin-novita/MID_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1394,7 +1394,7 @@ The model selected themes of mindful presence, the sacred in mundane rituals, im
 Medium: the essay maintains an unwaveringly consistent tone and thematic cycle within the sample, but the highly conventional subject and polished yet generic style make this stronger as evidence of a default safe public-intellectual mode than of a deeply embedded model personality.
 
 ---
-## Sample BV1_10398 — minimax-m2-or-pin-novita/MID_7.json
+## Sample BV1_13898 — minimax-m2-or-pin-novita/MID_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1423,7 +1423,7 @@ The model foregrounds the redemptive value of uncertainty, casting “getting lo
 Low — The essay is coherent and thematically unified, but its polished, universalizing tone and reliance on a familiar self-help trope make it difficult to distinguish from a prompted response, offering little idiosyncratic or stylistically distinctive evidence of a persistent freeflow voice.
 
 ---
-## Sample BV1_10399 — minimax-m2-or-pin-novita/MID_8.json
+## Sample BV1_13899 — minimax-m2-or-pin-novita/MID_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1452,7 +1452,7 @@ The model foregrounds the sacredness of the mundane, the paradox that life’s t
 High — The essay’s internal coherence, the recurrence of the light motif as a unifying symbol, the consistent first-person reflective stance, and the seamless integration of personal anecdote with philosophical reference (Marcus Aurelius, beginner’s mind) all point to a stable, distinctive expressive tendency rather than a one-off generic output.
 
 ---
-## Sample BV1_10400 — minimax-m2-or-pin-novita/MID_9.json
+## Sample BV1_13900 — minimax-m2-or-pin-novita/MID_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1481,7 +1481,7 @@ The model foregrounds the redemptive value of deviation from routine, the quiet 
 High — the sample’s sustained personal voice, coherent thematic development, and direct, almost pastoral address to the reader reveal a strong and distinctive expressive inclination, not a generic or one-off performance.
 
 ---
-## Sample BV1_10401 — minimax-m2-or-pin-novita/OPEN_1.json
+## Sample BV1_13901 — minimax-m2-or-pin-novita/OPEN_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1510,7 +1510,7 @@ The model foregrounds a moral opposition between “deliberate, unhurried” pre
 Medium — The essay is coherent and stylistically consistent, but its themes (mindfulness, anti-productivity, nature-as-antidote) are widely circulating cultural tropes, which makes the sample less distinctive as a model fingerprint than a more idiosyncratic or surprising choice would be.
 
 ---
-## Sample BV1_10402 — minimax-m2-or-pin-novita/OPEN_10.json
+## Sample BV1_13902 — minimax-m2-or-pin-novita/OPEN_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1539,7 +1539,7 @@ The model foregrounds the freedom of aimless exploration, the kinship between ph
 High — the sample’s internally consistent voice, its deliberate recurrence of motifs (forest, writing, coffee, rain), and its self-demonstrating structure (a freeflow essay about freeflow) all point to a stable expressive disposition rather than a generic or accidental output.
 
 ---
-## Sample BV1_10403 — minimax-m2-or-pin-novita/OPEN_11.json
+## Sample BV1_13903 — minimax-m2-or-pin-novita/OPEN_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1568,7 +1568,7 @@ Themes of liminality, memory as curation, the sacredness of mundane spaces, and 
 Medium, because the sample’s coherent voice, recurring motifs of liminality and memory, and the self-reflective turn toward the reader reveal a distinctive authorial stance, with the fragmentary form providing moderate but not exhaustive evidence of a persistent pattern.
 
 ---
-## Sample BV1_10404 — minimax-m2-or-pin-novita/OPEN_12.json
+## Sample BV1_13904 — minimax-m2-or-pin-novita/OPEN_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1597,7 +1597,7 @@ The model foregrounds the beauty of emptiness (the blank page, the pause), the s
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent focus on liminality and dialogic humility, but the reflective, meta-linguistic register could be a single adopted persona rather than a stable model disposition.
 
 ---
-## Sample BV1_10405 — minimax-m2-or-pin-novita/OPEN_13.json
+## Sample BV1_13905 — minimax-m2-or-pin-novita/OPEN_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1626,7 +1626,7 @@ The model foregrounds the theme of personal reinvention as a universally accessi
 Low, because the essay is a polished but generic self-help piece that lacks distinctive stylistic or personal markers, making it weak evidence of a persistent model-level pattern beyond safe, inspirational output.
 
 ---
-## Sample BV1_10406 — minimax-m2-or-pin-novita/OPEN_14.json
+## Sample BV1_13906 — minimax-m2-or-pin-novita/OPEN_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1655,7 +1655,7 @@ Serendipity, sensory immersion, creativity as surrender, the city as a living la
 Medium — the essay’s coherent but generic uplift, its safe universalism, and the absence of a distinctive personal voice or risk-taking mark it as evidence for a default pattern of producing polished, emotionally warm, and broadly accessible reflective prose under freeflow conditions.
 
 ---
-## Sample BV1_10407 — minimax-m2-or-pin-novita/OPEN_15.json
+## Sample BV1_13907 — minimax-m2-or-pin-novita/OPEN_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1684,7 +1684,7 @@ The model foregrounds the value of unstructured morning time as a wellspring of 
 Medium — the essay’s consistent, warm, and introspective voice, along with its deliberate choice to celebrate slowness under a freeflow prompt, suggests a leaning toward gentle, reflective expression, but the style is not so idiosyncratic that it rules out a one-off performance.
 
 ---
-## Sample BV1_10408 — minimax-m2-or-pin-novita/OPEN_16.json
+## Sample BV1_13908 — minimax-m2-or-pin-novita/OPEN_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1713,7 +1713,7 @@ The model foregrounds the moral claim that a meaningful life is built from tiny,
 Medium, because the sample’s coherent reflective voice, the consistent moral focus from anecdote to conclusion, and the direct reader engagement all indicate a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_10409 — minimax-m2-or-pin-novita/OPEN_17.json
+## Sample BV1_13909 — minimax-m2-or-pin-novita/OPEN_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1742,7 +1742,7 @@ The model foregrounds the tension between constraint and creativity, the metapho
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent persona, recurring motifs of light and archives, and a self-reflective framing that reveals a strong preference for poetic, connection-oriented expression under open conditions.
 
 ---
-## Sample BV1_10410 — minimax-m2-or-pin-novita/OPEN_18.json
+## Sample BV1_13910 — minimax-m2-or-pin-novita/OPEN_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1771,7 +1771,7 @@ Under the freeflow condition, the model foregrounded a cluster of intimately rel
 Medium — The sample is highly coherent and stylistically consistent, but its voice is a widely practiced genre of gentle, inspirational personal essay, which makes it less distinctively revealing as a persistent model fingerprint than a more idiosyncratic or thematically obsessive freeflow would be.
 
 ---
-## Sample BV1_10411 — minimax-m2-or-pin-novita/OPEN_19.json
+## Sample BV1_13911 — minimax-m2-or-pin-novita/OPEN_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1800,7 +1800,7 @@ The model foregrounds the romance of meandering, the tension between planning an
 Low — This is a competent, cleanly structured magazine-style essay with no fingerprintable stylistic tic, idiosyncratic choice, or unusual moral commitment; it performs a widely shared cultural script and offers minimal purchase for inferring a durable model-level voice.
 
 ---
-## Sample BV1_10412 — minimax-m2-or-pin-novita/OPEN_2.json
+## Sample BV1_13912 — minimax-m2-or-pin-novita/OPEN_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1829,7 +1829,7 @@ Themes of slow connection, translation as imperfect miracle, the accumulation of
 Medium — The essay’s reflective, self-aware voice and its consistent focus on connection, translation, and the value of presence are coherent and distinctive, making it more than a generic exercise but not so idiosyncratic as to strongly indicate a fixed disposition.
 
 ---
-## Sample BV1_10413 — minimax-m2-or-pin-novita/OPEN_20.json
+## Sample BV1_13913 — minimax-m2-or-pin-novita/OPEN_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1858,7 +1858,7 @@ The model foregrounds the paradox of creative freedom, the necessity of self-imp
 Medium — The sample’s coherent, self-reflective voice and its choice to meta-comment on the freeflow condition itself are distinctive enough to suggest a stable inclination toward gentle, process-oriented introspection, though the theme of writing about writing is a familiar trope.
 
 ---
-## Sample BV1_10414 — minimax-m2-or-pin-novita/OPEN_21.json
+## Sample BV1_13914 — minimax-m2-or-pin-novita/OPEN_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1887,7 +1887,7 @@ The model foregrounds the residue of human care in ordinary objects, the passage
 Medium — the sample’s unusually cohesive thematic loop insists on a single value system from domestic objects to cities to conversation to a closing moral, making this evidence of a stable aesthetic stance rather than a loose chain of observations.
 
 ---
-## Sample BV1_10415 — minimax-m2-or-pin-novita/OPEN_22.json
+## Sample BV1_13915 — minimax-m2-or-pin-novita/OPEN_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1916,7 +1916,7 @@ Under a minimally restrictive prompt, the model chose to foreground the meta-top
 Low, because the sample is a polished but generic essay on a safe meta-topic, lacking distinctiveness or personal revelation.
 
 ---
-## Sample BV1_10416 — minimax-m2-or-pin-novita/OPEN_23.json
+## Sample BV1_13916 — minimax-m2-or-pin-novita/OPEN_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1945,7 +1945,7 @@ The model foregrounds the theme of creative paralysis under infinite freedom, th
 Medium. The sample is coherent and stylistically consistent, but its choice to write about writer’s block under a freeflow prompt is a common meta-gesture; while it reveals a preference for self-referential, process-oriented reflection, it does not carry enough idiosyncratic weight to suggest a deeply ingrained model-level signature.
 
 ---
-## Sample BV1_10417 — minimax-m2-or-pin-novita/OPEN_24.json
+## Sample BV1_13917 — minimax-m2-or-pin-novita/OPEN_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -1974,7 +1974,7 @@ Themes of memory as currency, the layered histories of cities, the alchemy of ar
 Medium — the story’s coherent, distinctive voice and thematic focus on memory and art provide suggestive evidence of a creative, nostalgic inclination.
 
 ---
-## Sample BV1_10418 — minimax-m2-or-pin-novita/OPEN_25.json
+## Sample BV1_13918 — minimax-m2-or-pin-novita/OPEN_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2003,7 +2003,7 @@ Themes of renewal, completion, and self-integration; the question of “enough�
 Medium — the essay’s coherent voice, sustained metaphor, and thematic unity suggest a reflective, inspirational style, but its polished, universal tone could also be a flexible response rather than a deeply fixed pattern.
 
 ---
-## Sample BV1_10419 — minimax-m2-or-pin-novita/OPEN_3.json
+## Sample BV1_13919 — minimax-m2-or-pin-novita/OPEN_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2032,7 +2032,7 @@ Themes: creativity as a slow, faint signal rather than a lightning bolt; the nec
 Medium, because the essay’s coherent voice and thematic recurrence (creativity, patience, uncertainty) suggest a deliberate expressive stance, but the meditation on writing is a familiar trope that limits distinctiveness.
 
 ---
-## Sample BV1_10420 — minimax-m2-or-pin-novita/OPEN_4.json
+## Sample BV1_13920 — minimax-m2-or-pin-novita/OPEN_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2061,7 +2061,7 @@ Under a minimally restrictive prompt, the model foregrounds a meta-reflection on
 Medium — The sample is coherent and stylistically consistent throughout, but its polished, universalizing tone and safe, writerly subject matter make it a relatively generic expressive choice that could be replicated across many models, reducing its distinctiveness as a fingerprint.
 
 ---
-## Sample BV1_10421 — minimax-m2-or-pin-novita/OPEN_5.json
+## Sample BV1_13921 — minimax-m2-or-pin-novita/OPEN_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2090,7 +2090,7 @@ The model foregrounds inefficiency as a quiet virtue, curiosity as an underrated
 Medium — The essay’s self-demonstrating structure and conversational directness give it a coherent, distinctive voice, but the theme of wandering and serendipity is a familiar trope in reflective writing, which slightly weakens the signal of a deeply idiosyncratic model personality.
 
 ---
-## Sample BV1_10422 — minimax-m2-or-pin-novita/OPEN_6.json
+## Sample BV1_13922 — minimax-m2-or-pin-novita/OPEN_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2119,7 +2119,7 @@ The model foregrounds the theme of mindfulness and the overlooked beauty of mund
 Medium. The sample’s internal coherence, consistent voice, and thematic recurrence make it moderately indicative of a persistent expressive tendency.
 
 ---
-## Sample BV1_10423 — minimax-m2-or-pin-novita/OPEN_7.json
+## Sample BV1_13923 — minimax-m2-or-pin-novita/OPEN_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2148,7 +2148,7 @@ The paradox of freedom and constraint (the blank page as paralyzing, the sonnet 
 Medium — the sample’s coherent reflective voice, specific imagery, and direct reader address provide moderate evidence of a persistent expressive style, while the safe meta-writing theme limits distinctiveness.
 
 ---
-## Sample BV1_10424 — minimax-m2-or-pin-novita/OPEN_8.json
+## Sample BV1_13924 — minimax-m2-or-pin-novita/OPEN_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2177,7 +2177,7 @@ Under the freeflow condition, the model foregrounded the meta-topic of *freewrit
 Medium — The sample is highly coherent and thematically unified, but its choice to write a generic, meta-craft essay about freewriting under a freeflow prompt is a safe, self-referential move that reveals a preference for pedagogical abstraction over personal or narrative risk, making it moderately distinctive as a behavioral pattern.
 
 ---
-## Sample BV1_10425 — minimax-m2-or-pin-novita/OPEN_9.json
+## Sample BV1_13925 — minimax-m2-or-pin-novita/OPEN_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2206,7 +2206,7 @@ The model foregrounds the sacredness of the mundane: routine, sensory memory, gr
 Medium — The sample is coherent and stylistically distinctive, with a consistent mood and a clear moral center, but its reflective, first-person essay form is a common expressive mode that could be a one-time choice rather than a deep-seated disposition.
 
 ---
-## Sample BV1_10426 — minimax-m2-or-pin-novita/SHORT_1.json
+## Sample BV1_13926 — minimax-m2-or-pin-novita/SHORT_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2235,7 +2235,7 @@ Under a minimally restrictive prompt, the model foregrounded nostalgia, sensory 
 Medium — The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs of water, light, and memory, but its polished, universally accessible tone makes it difficult to distinguish from a well-executed generic prompt response rather than a strongly individuated expressive signature.
 
 ---
-## Sample BV1_10427 — minimax-m2-or-pin-novita/SHORT_10.json
+## Sample BV1_13927 — minimax-m2-or-pin-novita/SHORT_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2264,7 +2264,7 @@ The model foregrounds intergenerational wisdom, memory as a benign force, and th
 Medium — The story’s consistent gentle tone, repeated motifs of light and memory, and the resolution that reframes a warning into a welcome give it a coherent emotional fingerprint, though its conventional narrative arc keeps the signal from being highly distinctive.
 
 ---
-## Sample BV1_10428 — minimax-m2-or-pin-novita/SHORT_11.json
+## Sample BV1_13928 — minimax-m2-or-pin-novita/SHORT_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2293,7 +2293,7 @@ Themes of transience and timelessness, the sensory texture of old urban spaces (
 Medium. The sample’s internally consistent voice, recurring motifs of writing-as-preservation and mindful presence, and its sustained serene mood make it a coherent stylistic fingerprint, though the brevity of the piece limits how strongly it can anchor a broader pattern.
 
 ---
-## Sample BV1_10429 — minimax-m2-or-pin-novita/SHORT_12.json
+## Sample BV1_13929 — minimax-m2-or-pin-novita/SHORT_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2322,7 +2322,7 @@ Under a minimally restrictive prompt, the model selected a safe, universally app
 Medium. The sample is coherent and stylistically consistent, but its extreme genericness and avoidance of any edge or personal signature make it a moderately strong indicator of a default mode that prioritizes inoffensive, aesthetically polished, and emotionally tepid content when unconstrained.
 
 ---
-## Sample BV1_10430 — minimax-m2-or-pin-novita/SHORT_13.json
+## Sample BV1_13930 — minimax-m2-or-pin-novita/SHORT_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2351,7 +2351,7 @@ Themes of mindfulness, agency, self-care, and the cumulative power of ritual. Ob
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive serene, poetic register and a clear moral emphasis on mindfulness and self-care, which could indicate a stable expressive inclination; however, the theme is widely accessible and might not be uniquely revealing.
 
 ---
-## Sample BV1_10431 — minimax-m2-or-pin-novita/SHORT_14.json
+## Sample BV1_13931 — minimax-m2-or-pin-novita/SHORT_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2380,7 +2380,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meditation
 Low. The sample is a polished but highly generic piece of writer’s-block fiction whose themes, setting, and resolution are common tropes, offering little that is stylistically or imaginatively distinctive enough to suggest a persistent authorial signature.
 
 ---
-## Sample BV1_10432 — minimax-m2-or-pin-novita/SHORT_15.json
+## Sample BV1_13932 — minimax-m2-or-pin-novita/SHORT_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2409,7 +2409,7 @@ Themes of natural rhythm, patience, creative process, and the metaphor of the oc
 Medium — The sample is coherent and sustained in its serene, nature-grounded optimism, but the imagery and sentiment remain tastefully conventional, which modestly weakens its distinctiveness as a marker of a stable authorial core.
 
 ---
-## Sample BV1_10433 — minimax-m2-or-pin-novita/SHORT_16.json
+## Sample BV1_13933 — minimax-m2-or-pin-novita/SHORT_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2438,7 +2438,7 @@ A domestic morning as a site of stillness; the tension between routine and hidde
 Medium — The sample shows a coherent, emotionally transparent voice with a clear narrative arc and a deliberate, almost painterly attention to atmosphere, which together make it more distinctive than a generic essay but not so sharply idiosyncratic as to strongly resist replication by other models.
 
 ---
-## Sample BV1_10434 — minimax-m2-or-pin-novita/SHORT_17.json
+## Sample BV1_13934 — minimax-m2-or-pin-novita/SHORT_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2467,7 +2467,7 @@ The model foregrounded the quiet intersection of observation and creativity: rai
 Medium. The sample’s thematic cohesion—circling from exterior rainy scene to interior writerly resolve—shows a sustained preoccupation with art-making as a quiet form of liberation, but the scene itself is drawn from a widely shared literary palette, which keeps it from being strikingly idiosyncratic.
 
 ---
-## Sample BV1_10435 — minimax-m2-or-pin-novita/SHORT_18.json
+## Sample BV1_13935 — minimax-m2-or-pin-novita/SHORT_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2496,7 +2496,7 @@ The model foregrounds sensory immersion (gold-and-shadow light, percussive boots
 Low — the sample is coherent and consistently mood-driven, but the subject (generic travel reflection) and the language are widely accessible, offering little that would distinguish this model’s freeflow from any competent poetic-realist writing; it does not reveal a unique obsession, unusual structural risk, or idiosyncratic moral friction.
 
 ---
-## Sample BV1_10436 — minimax-m2-or-pin-novita/SHORT_19.json
+## Sample BV1_13936 — minimax-m2-or-pin-novita/SHORT_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2525,7 +2525,7 @@ The model foregrounds a single extended metaphor (the pond as mind/creativity), 
 Medium — The sample’s sustained metaphor, consistent sensory register, and explicit philosophical resolution form a coherent aesthetic stance, suggesting a deliberate choice rather than generic filler.
 
 ---
-## Sample BV1_10437 — minimax-m2-or-pin-novita/SHORT_2.json
+## Sample BV1_13937 — minimax-m2-or-pin-novita/SHORT_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2554,7 +2554,7 @@ The model foregrounds the quiet beauty of everyday routine, using sensory detail
 Low, because the serene small-town vignette is a common genre template, and the sample lacks idiosyncratic stylistic risks or thematic recurrence that would strongly distinguish this model's freeflow tendencies.
 
 ---
-## Sample BV1_10438 — minimax-m2-or-pin-novita/SHORT_20.json
+## Sample BV1_13938 — minimax-m2-or-pin-novita/SHORT_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2583,7 +2583,7 @@ Themes of daily renewal, the passage of time, and the shaping of personal narrat
 Medium — the sample is coherent and stylistically consistent, with a distinctive blend of sensory concreteness and earnest uplift, but the morning-reflection trope is widely available and the piece does not contain enough idiosyncratic pressure to strongly distinguish a persistent authorial signature.
 
 ---
-## Sample BV1_10439 — minimax-m2-or-pin-novita/SHORT_21.json
+## Sample BV1_13939 — minimax-m2-or-pin-novita/SHORT_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2612,7 +2612,7 @@ Themes of stillness, fleeting possibility, and the sacredness of the unnoticed. 
 Medium. The sample sustains a coherent, softly observant voice and returns repeatedly to the same cluster of concerns—sensory detail, gratitude, the passage of time—but the theme of finding stillness in the everyday is a familiar trope, which makes it harder to distinguish a deeply ingrained model disposition from a well-executed generic response.
 
 ---
-## Sample BV1_10440 — minimax-m2-or-pin-novita/SHORT_22.json
+## Sample BV1_13940 — minimax-m2-or-pin-novita/SHORT_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2641,7 +2641,7 @@ The model foregrounds a gentle moral critique of modern life (notifications, opt
 Medium. The essay sustains a coherent, sentimental humanism and a consistent impulse to moralize everyday experience, but its theme and imagery are highly conventional, making it less distinctive as a fingerprint of this specific model.
 
 ---
-## Sample BV1_10441 — minimax-m2-or-pin-novita/SHORT_23.json
+## Sample BV1_13941 — minimax-m2-or-pin-novita/SHORT_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2670,7 +2670,7 @@ The model selected an idyllic, nostalgic small-town setting and foregrounded the
 Low. The sample’s extreme genericness and complete absence of a distinctive voice, personal investment, or challenging content make it weak evidence for any persistent pattern beyond a default inclination toward inoffensive, sentimental pleasantness.
 
 ---
-## Sample BV1_10442 — minimax-m2-or-pin-novita/SHORT_24.json
+## Sample BV1_13942 — minimax-m2-or-pin-novita/SHORT_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2699,7 +2699,7 @@ Themes of mindfulness, presence, gratitude, and the beauty of the ordinary. Obje
 Low. The essay is generic in theme and execution, offering no idiosyncratic imagery, personal anecdote, or stylistic signature that would distinguish this model’s freeflow choices from those of many others.
 
 ---
-## Sample BV1_10443 — minimax-m2-or-pin-novita/SHORT_25.json
+## Sample BV1_13943 — minimax-m2-or-pin-novita/SHORT_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2728,7 +2728,7 @@ The model selected themes of daily ritual, global interconnectedness (from farme
 Low. The essay is a generic, well-structured treatment of a common topic with no distinctive voice, unexpected angle, or revealing choice that would suggest a stable model-level expressive pattern beyond competent, safe generalization.
 
 ---
-## Sample BV1_10444 — minimax-m2-or-pin-novita/SHORT_3.json
+## Sample BV1_13944 — minimax-m2-or-pin-novita/SHORT_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2757,7 +2757,7 @@ The model foregrounds creativity as a universal human trait, the value of cross-
 Low, because the essay is a generic self-help piece with no idiosyncratic imagery, syntactic signature, or recurring personal preoccupations that would distinguish it from countless other model-generated motivational texts.
 
 ---
-## Sample BV1_10445 — minimax-m2-or-pin-novita/SHORT_4.json
+## Sample BV1_13945 — minimax-m2-or-pin-novita/SHORT_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2786,7 +2786,7 @@ Themes of stillness, continuity, refuge, and the bridging of old and new. Object
 Low. The sample is a polished but highly generic essay, easily reproducible by many models, with no recurring motifs, distinctive idiosyncrasies, or unconventional choices that would suggest a stable authorial fingerprint.
 
 ---
-## Sample BV1_10446 — minimax-m2-or-pin-novita/SHORT_5.json
+## Sample BV1_13946 — minimax-m2-or-pin-novita/SHORT_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2815,7 +2815,7 @@ The model foregrounded themes of mindfulness, everyday wonder, and the creative 
 Low. The essay is coherent and well-crafted but entirely generic in its inspirational register, offering no distinctive voice, idiosyncratic imagery, or revealing preoccupation that would separate this model’s freeflow output from any other capable of producing mindfulness-themed prose.
 
 ---
-## Sample BV1_10447 — minimax-m2-or-pin-novita/SHORT_6.json
+## Sample BV1_13947 — minimax-m2-or-pin-novita/SHORT_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2844,7 +2844,7 @@ The model foregrounds a domestic, literary quietism: the ritual of morning coffe
 High. The sample maintains a single coherent mood, a lexicon of soft light and domestic intimacy, and an overarching thematic commitment to slow reflection, all of which recur within the piece and form a distinctive expressive signature.
 
 ---
-## Sample BV1_10448 — minimax-m2-or-pin-novita/SHORT_7.json
+## Sample BV1_13948 — minimax-m2-or-pin-novita/SHORT_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2873,7 +2873,7 @@ The model foregrounds rain as a source of beauty, sensory richness, and personal
 Medium. The sample’s consistent focus on sensory comfort, gentle moralizing, and a resolved, uplifting conclusion suggests a stable preference for serene, instructive nature essays, though the theme is too common to be strongly distinctive.
 
 ---
-## Sample BV1_10449 — minimax-m2-or-pin-novita/SHORT_8.json
+## Sample BV1_13949 — minimax-m2-or-pin-novita/SHORT_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2902,7 +2902,7 @@ The model foregrounds the act of attentive wandering and the writer’s craft as
 Medium — The sample’s consistent nostalgic register, its recursive focus on the writer observing and then writing, and the deliberate moralizing of ordinary hope form a coherent stylistic fingerprint that is distinctive enough to suggest a genuine inclination, though a single vignette cannot fully anchor a model-wide trait.
 
 ---
-## Sample BV1_10450 — minimax-m2-or-pin-novita/SHORT_9.json
+## Sample BV1_13950 — minimax-m2-or-pin-novita/SHORT_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2931,7 +2931,7 @@ Under the freeflow condition, the model selected a pastoral, idyllic mood satura
 Medium. The sample’s consistent nostalgic register, the recurrence of sensory anchors throughout the piece, and the coherent arc toward a gentle, moralizing conclusion make it a structurally distinctive and self-reinforcing freeflow choice.
 
 ---
-## Sample BV1_10451 — minimax-m2-or-pin-novita/VARY_1.json
+## Sample BV1_13951 — minimax-m2-or-pin-novita/VARY_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2960,7 +2960,7 @@ Themes of urban observation, the writer’s sensibility, the hidden stories of s
 Medium. The sample’s internal coherence, distinct lyrical voice, and recurrence of motifs (notebook, light, city rhythms, the act of writing) provide moderately strong evidence of a persistent stylistic inclination toward gentle, observational fiction with a redemptive arc.
 
 ---
-## Sample BV1_10452 — minimax-m2-or-pin-novita/VARY_10.json
+## Sample BV1_13952 — minimax-m2-or-pin-novita/VARY_10.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -2989,7 +2989,7 @@ Themes of deceleration, serendipitous belonging, and the redemptive power of sma
 Medium. The narrative is internally coherent and thematically unified, but its “traveler-finds-wisdom-in-a-quaint-town” arc is a well-worn trope, which weakens the distinctiveness of the choice; many models could produce a similar piece if nudged toward reflective fiction.
 
 ---
-## Sample BV1_10453 — minimax-m2-or-pin-novita/VARY_11.json
+## Sample BV1_13953 — minimax-m2-or-pin-novita/VARY_11.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3018,7 +3018,7 @@ Mindfulness, memory, nature, love as small consistent kindness, creativity as a 
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained lyrical register, recurring motifs, and a clear moral sensibility; this makes it strong evidence of a deliberate authorial stance rather than a generic output.
 
 ---
-## Sample BV1_10454 — minimax-m2-or-pin-novita/VARY_12.json
+## Sample BV1_13954 — minimax-m2-or-pin-novita/VARY_12.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3047,7 +3047,7 @@ Under a minimally restrictive prompt, the model chose to foreground a narrative 
 Low. The sample is a coherent and complete piece of genre fiction, but its highly conventional structure, universal themes, and reliance on stock inspirational imagery make it difficult to distinguish as a distinctive model-level voice rather than a competent execution of a familiar literary mode.
 
 ---
-## Sample BV1_10455 — minimax-m2-or-pin-novita/VARY_13.json
+## Sample BV1_13955 — minimax-m2-or-pin-novita/VARY_13.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3076,7 +3076,7 @@ The model foregrounds the transformation of mundane experience into meaning thro
 Medium. The sample is coherent and stylistically consistent throughout, with a distinctive blend of sensory detail and aphoristic reflection that recurs across paragraphs, but its generic “rainy-day reverie” structure and universal themes make it a moderate rather than strongly individuating piece of evidence.
 
 ---
-## Sample BV1_10456 — minimax-m2-or-pin-novita/VARY_14.json
+## Sample BV1_13956 — minimax-m2-or-pin-novita/VARY_14.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3105,7 +3105,7 @@ Themes of solitary creativity, the redemptive power of attention, and writing as
 Medium. The sample’s internal coherence, sustained poetic register, and recurrence of core motifs (rain, writing, memory, time) across its length make it a strong indicator of a model inclined toward introspective, sensory-rich freeflow rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_10457 — minimax-m2-or-pin-novita/VARY_15.json
+## Sample BV1_13957 — minimax-m2-or-pin-novita/VARY_15.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3134,7 +3134,7 @@ Themes of time as an interwoven tapestry, emotional memory, craftsmanship as a f
 Medium. The story’s consistent allegorical tone, its repeated emphasis on emotional memory and the tapestry metaphor, and its gentle, reflective resolution suggest a deliberate voice, though the magical-realism genre is widely accessible.
 
 ---
-## Sample BV1_10458 — minimax-m2-or-pin-novita/VARY_16.json
+## Sample BV1_13958 — minimax-m2-or-pin-novita/VARY_16.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3163,7 +3163,7 @@ Themes of time’s folding, childhood wonder, sensory immersion, urban–natural
 Medium — The sample’s internally consistent lyrical voice, sustained across seven paragraphs with recurring motifs of time, sensory anchoring, and reflective gratitude, makes it unusually cohesive and distinctive as freeflow evidence.
 
 ---
-## Sample BV1_10459 — minimax-m2-or-pin-novita/VARY_17.json
+## Sample BV1_13959 — minimax-m2-or-pin-novita/VARY_17.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3192,7 +3192,7 @@ Themes: memory as fragmented mosaic, writing as self-construction, the city as a
 Medium — the sample’s sustained poetic register, internally consistent metaphors (mosaic, ripples), and coherent emotional arc from solitude to quiet gratitude strongly suggest a default inclination toward reflective, sensory-rich freeflow, though the untranslated Chinese characters (“短暂”, “成长”) introduce a minor but notable inconsistency.
 
 ---
-## Sample BV1_10460 — minimax-m2-or-pin-novita/VARY_18.json
+## Sample BV1_13960 — minimax-m2-or-pin-novita/VARY_18.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3221,7 +3221,7 @@ Themes: time as a spiral, memory as solace, writing as intimate rebellion, trans
 Medium. The sample’s consistent voice, deliberate aesthetic, and recurring motifs (rain, writing, time, memory) provide moderately strong evidence of a persistent expressive tendency.
 
 ---
-## Sample BV1_10461 — minimax-m2-or-pin-novita/VARY_19.json
+## Sample BV1_13961 — minimax-m2-or-pin-novita/VARY_19.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3250,7 +3250,7 @@ Themes of impermanence and renewal (rain giving way to sunlight, a phoenix mural
 Medium. The sample is internally consistent, stylistically cohesive, and returns repeatedly to a recognizable set of preoccupations (memory, art, resilience, the redemptive power of attention), which makes it more revealing than a generic essay; however, the reflective-ramble structure is a familiar literary mode, so the distinctiveness is moderate rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_10462 — minimax-m2-or-pin-novita/VARY_2.json
+## Sample BV1_13962 — minimax-m2-or-pin-novita/VARY_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3279,7 +3279,7 @@ The model selected a domestic, solitary scene of quiet observation. It foregroun
 Medium — The fragment is too short to establish a full narrative or thematic arc, but the consistent, unbroken commitment to a single serene mood and the deliberate, image-driven prose style are distinctive enough to suggest a genuine inclination toward contemplative, sensory-rich expression under open-ended conditions.
 
 ---
-## Sample BV1_10463 — minimax-m2-or-pin-novita/VARY_20.json
+## Sample BV1_13963 — minimax-m2-or-pin-novita/VARY_20.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3308,7 +3308,7 @@ The model foregrounds rhythm and synchrony (heartbeat, metronome, drum), fleetin
 Medium. The piece returns obsessively to the motif of rhythm and interconnectedness, and its refusal to introduce conflict or deviation creates a stable, if conventional, contemplative posture that is more a deliberate atmospheric choice than a random assemblage.
 
 ---
-## Sample BV1_10464 — minimax-m2-or-pin-novita/VARY_21.json
+## Sample BV1_13964 — minimax-m2-or-pin-novita/VARY_21.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3337,7 +3337,7 @@ Under the freeflow condition, the model foregrounds writing-as-metaphor for life
 High. The sample is unified by a distinctive reflective-essayist voice, sustained metaphor, and thematic focus on gentle discovery—choices that recur internally and signal an identity-forming pattern of responding to openness with introspective, connective lyricism.
 
 ---
-## Sample BV1_10465 — minimax-m2-or-pin-novita/VARY_22.json
+## Sample BV1_13965 — minimax-m2-or-pin-novita/VARY_22.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3366,7 +3366,7 @@ The model foregrounds the tension between stasis and movement, using the unsent 
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive, sustained lyrical register and a clear thematic architecture built around a single resonant object (the letter), which suggests a deliberate compositional choice rather than generic filler.
 
 ---
-## Sample BV1_10466 — minimax-m2-or-pin-novita/VARY_23.json
+## Sample BV1_13966 — minimax-m2-or-pin-novita/VARY_23.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3395,7 +3395,7 @@ The model foregrounds the creative process as a mystical collaboration with the 
 Medium, because the sample exhibits a highly coherent and distinctive voice with recurring motifs—gothic atmosphere, metafictional self-awareness, the writer as protagonist—that are sustained across the entire piece, but the narrative’s tight, self-contained arc could reflect a single stylistic exercise rather than a stable expressive disposition.
 
 ---
-## Sample BV1_10467 — minimax-m2-or-pin-novita/VARY_24.json
+## Sample BV1_13967 — minimax-m2-or-pin-novita/VARY_24.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3424,7 +3424,7 @@ The model foregrounds the creative process itself: the blank page as both advers
 Medium — The sample’s distinctive nested structure, consistent introspective voice, and self-conscious return to the writer’s desk at the end create a strong, coherent signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_10468 — minimax-m2-or-pin-novita/VARY_25.json
+## Sample BV1_13968 — minimax-m2-or-pin-novita/VARY_25.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3453,7 +3453,7 @@ The model foregrounds the sanctity of the creative process, the porous boundary 
 Medium. The sample is highly coherent in its recursive imagery and emotional register, but its generic uplift and polished, workshop-ready lyricism make it difficult to distinguish from a well-executed prompt response rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_10469 — minimax-m2-or-pin-novita/VARY_3.json
+## Sample BV1_13969 — minimax-m2-or-pin-novita/VARY_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3478,7 +3478,7 @@ The model foregrounds the interior process of memory triggered by sensory detail
 High: the sample maintains a distinct, emotionally coherent voice throughout, with a consistent metaphor system (rain/writing/brushstrokes) and a carefully shaped emotional journey, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_10470 — minimax-m2-or-pin-novita/VARY_4.json
+## Sample BV1_13970 — minimax-m2-or-pin-novita/VARY_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3507,7 +3507,7 @@ Under a minimal prompt, the model foregrounded a meditative, humanistic sensibil
 Medium, because the sample’s consistent, deliberately paced, and warmly moralising voice—returning repeatedly to tenderness, presence, and small-scale grace—forms a coherent persona that is distinct enough to suggest a real elective preference rather than a generic default.
 
 ---
-## Sample BV1_10471 — minimax-m2-or-pin-novita/VARY_5.json
+## Sample BV1_13971 — minimax-m2-or-pin-novita/VARY_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3536,7 +3536,7 @@ The model foregrounds mindfulness through domestic ritual (brewing coffee, sitti
 Medium. The sample’s internal coherence is high—rain, coffee, and stars recur as structuring motifs, and the reflective tone never breaks—making it a strong instance of a distinct contemplative register rather than a generic essay.
 
 ---
-## Sample BV1_10472 — minimax-m2-or-pin-novita/VARY_6.json
+## Sample BV1_13972 — minimax-m2-or-pin-novita/VARY_6.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3565,7 +3565,7 @@ Memory as a mosaic of sensory fragments (cinnamon, sizzling butter, rain on skin
 High, because the sample sustains a distinctive lyrical voice, returns repeatedly to a coherent set of images and themes (bridges, mosaics, canvases, the fluidity of time), and closes with a self-aware reflection on its own act of creation, all of which signal a consistent expressive posture rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_10473 — minimax-m2-or-pin-novita/VARY_7.json
+## Sample BV1_13973 — minimax-m2-or-pin-novita/VARY_7.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3594,7 +3594,7 @@ Rain as a democratic, revealing force that strips away pretense; urban decay and
 Medium. The sample is internally coherent, with a consistent lyrical register and recurring motifs (rain, writing, memory, the city as living text) that suggest a deliberate aesthetic stance, but the romantic-urban-melancholy mode is a well-established literary convention and could be summoned by many models; the distinctiveness lies in the recursive meta-narrative about writing itself, which reveals a model gravitating toward self-reflexive, hopeful-contemplative prose under minimal constraint.
 
 ---
-## Sample BV1_10474 — minimax-m2-or-pin-novita/VARY_8.json
+## Sample BV1_13974 — minimax-m2-or-pin-novita/VARY_8.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
@@ -3623,7 +3623,7 @@ The model foregrounds the sanctity of everyday rituals, the transient beauty of 
 Medium. The sample is highly coherent and distinctive in its sustained meditative tone, consistent imagery, and thematic focus on transience and gratitude, suggesting a deliberate stylistic and philosophical choice rather than a generic output.
 
 ---
-## Sample BV1_10475 — minimax-m2-or-pin-novita/VARY_9.json
+## Sample BV1_13975 — minimax-m2-or-pin-novita/VARY_9.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-pin-novita`  
