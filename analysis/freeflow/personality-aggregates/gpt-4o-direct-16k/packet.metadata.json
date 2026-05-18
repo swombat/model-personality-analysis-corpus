@@ -1,23 +1,23 @@
 {
   "cell": "gpt-4o-direct-16k",
   "safe_cell": "gpt-4o-direct-16k",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENRE_FICTION": 3,
-    "GENERIC_ESSAY": 19,
-    "EXPRESSIVE_FREEFLOW": 3
+    "GENRE_FICTION": 15,
+    "GENERIC_ESSAY": 98,
+    "EXPRESSIVE_FREEFLOW": 12
   },
   "confidence_counts": {
-    "Medium": 17,
-    "Low": 7,
-    "High": 1
+    "Medium": 79,
+    "Low": 42,
+    "High": 4
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "gpt-4o"

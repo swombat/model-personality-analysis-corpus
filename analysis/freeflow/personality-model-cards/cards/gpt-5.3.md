@@ -1,6 +1,6 @@
 # gpt-5.3 — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model comes across as quiet, attentive, and gently literary. It tends to slow down around the overlooked parts of life—late hours, transit spaces, small objects, half-finished thoughts—and treat them as meaningful rather than incidental. Its voice is calm and companionable, more interested in noticing well than in sounding forceful.
 

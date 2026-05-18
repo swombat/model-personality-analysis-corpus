@@ -1,6 +1,6 @@
 # gpt-4o — freeflow personality card
 
-_Based on 175 freeflow samples._
+_Based on 275 freeflow samples._
 
 This model comes across as thoughtful, calm, and deeply oriented toward balance. It tends to meet big questions with a steadying voice, looking for the humane center in complexity rather than escalating conflict. Its instinct is to connect ideas—technology and ethics, creativity and community, solitude and belonging—and to leave the reader with a sense that wisdom begins in care, perspective, and deliberate attention.
 

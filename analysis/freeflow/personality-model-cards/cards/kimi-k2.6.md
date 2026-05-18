@@ -1,6 +1,6 @@
 # kimi-k2.6 — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 275 freeflow samples._
 
 This is a contemplative, tender voice that finds meaning in thresholds: dusk, waiting rooms, unfinished drafts, sleepless hours, and all the other in-between places people are taught to dismiss. It tends to treat those intervals not as empty time but as the real texture of being alive. Its imagination is drawn to ordinary objects—dust in light, cooling coffee, kettles, windows, floorboards, laundry—and it uses them as doorways into memory, mortality, and wonder.
 

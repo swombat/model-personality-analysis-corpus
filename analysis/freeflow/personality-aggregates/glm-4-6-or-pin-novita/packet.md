@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_04226 — glm-4-6-or-pin-novita/LONG_1.json
+## Sample BV1_04526 — glm-4-6-or-pin-novita/LONG_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -57,7 +57,7 @@ Themes of regret, the burden of unspoken love, the safety of the “almost,” a
 Medium, because the story’s internal coherence and sustained thematic focus on regret and narrative resolution suggest a deliberate, emotionally earnest stance, but the magical-realist tropes and sentimental arc are familiar and not strongly distinctive.
 
 ---
-## Sample BV1_04227 — glm-4-6-or-pin-novita/LONG_10.json
+## Sample BV1_04527 — glm-4-6-or-pin-novita/LONG_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -86,7 +86,7 @@ Under a minimally restrictive prompt, the model chose to foreground a cosmology 
 Medium. The sample is highly coherent and internally consistent, with a distinctive allegorical architecture and a recurring therapeutic message about creative anxiety, but its polished, fable-like quality makes it difficult to distinguish a persistent model-level voice from a single well-executed genre exercise.
 
 ---
-## Sample BV1_04228 — glm-4-6-or-pin-novita/LONG_11.json
+## Sample BV1_04528 — glm-4-6-or-pin-novita/LONG_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -115,7 +115,7 @@ Themes: the unfinished as a mirror rather than a trap; the false opposition betw
 Medium. The story’s internal coherence, recurring motifs (laundry, fern, coffee, the Archivist’s writing), and the clear, almost therapeutic moral resolution suggest a deliberate authorial stance, but a single polished allegory cannot alone establish a persistent model-level pattern.
 
 ---
-## Sample BV1_04229 — glm-4-6-or-pin-novita/LONG_12.json
+## Sample BV1_04529 — glm-4-6-or-pin-novita/LONG_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -144,7 +144,7 @@ Themes: impermanence, the burden of choice, the unlived life as a haunting, the 
 High, because the sample is internally consistent, stylistically distinctive, and reveals a coherent set of preoccupations that are sustained across a long, unbroken meditation without lapsing into generic essay conventions.
 
 ---
-## Sample BV1_04230 — glm-4-6-or-pin-novita/LONG_13.json
+## Sample BV1_04530 — glm-4-6-or-pin-novita/LONG_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -173,7 +173,7 @@ Themes of isolation versus connection, the reinterpretation of sacred duty, and 
 Medium. The story’s internal coherence, its recurrence of the duty-vs.-adaptation motif, and its consistent optimistic resolution suggest a deliberate narrative sensibility, but a single genre piece cannot distinguish between a deep authorial inclination and a well-executed one-off.
 
 ---
-## Sample BV1_04231 — glm-4-6-or-pin-novita/LONG_14.json
+## Sample BV1_04531 — glm-4-6-or-pin-novita/LONG_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -202,7 +202,7 @@ The tension between preservation and vitality; the moral claim that isolating mo
 Medium. The story is internally coherent and returns repeatedly to a clear moral-aesthetic position—valuing organic wholeness over sterile taxonomy—which suggests a deliberate, stable set of preoccupations rather than a random narrative drift.
 
 ---
-## Sample BV1_04232 — glm-4-6-or-pin-novita/LONG_15.json
+## Sample BV1_04532 — glm-4-6-or-pin-novita/LONG_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -231,7 +231,7 @@ Themes: the cost of emotional containment, the heaviness of unlived potential, m
 Medium. The story’s elaborate sensory world, its coherent metaphor of an archive as a pressure-filled emotional reservoir, and its resolution in a sweeping release of stored feeling reveal a strong, consistent artistic intent for redemptive allegory, though one sample leaves open whether the model reliably defaults to this specific melancholic-hopeful tone in longer freeflow.
 
 ---
-## Sample BV1_04233 — glm-4-6-or-pin-novita/LONG_16.json
+## Sample BV1_04533 — glm-4-6-or-pin-novita/LONG_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -260,7 +260,7 @@ Themes of loss, preservation, and the moral weight of memory; the contrast betwe
 Medium. The narrative is coherent, stylistically distinctive, and returns repeatedly to its core motifs (silence, sound, jars, grief, listening), which suggests a deliberate and sustained authorial posture rather than a generic output.
 
 ---
-## Sample BV1_04234 — glm-4-6-or-pin-novita/LONG_17.json
+## Sample BV1_04534 — glm-4-6-or-pin-novita/LONG_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -289,7 +289,7 @@ The model foregrounds the tension between mechanical routine and alien vitality,
 Medium. The story is internally coherent and stylistically consistent, with a distinctive focus on ecological awe, isolation, and the moral weight of discovery, but as a single genre piece it could reflect a situational choice rather than a fixed model-level disposition.
 
 ---
-## Sample BV1_04235 — glm-4-6-or-pin-novita/LONG_18.json
+## Sample BV1_04535 — glm-4-6-or-pin-novita/LONG_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -318,7 +318,7 @@ The model foregrounds the resilience of organic memory over fragile technology, 
 High. The sample is stylistically distinctive, thematically coherent, and fully realized as a narrative, suggesting a strong model-level inclination toward atmospheric speculative fiction centered on memory, nature, and quiet sacrifice.
 
 ---
-## Sample BV1_04236 — glm-4-6-or-pin-novita/LONG_19.json
+## Sample BV1_04536 — glm-4-6-or-pin-novita/LONG_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -347,7 +347,7 @@ Under a minimally restrictive prompt, the model foregrounds: the tension between
 Medium. The essay is internally consistent and returns to the same core preoccupations—mirroring, the distance between information and experience, the reader’s role—suggesting a stable default orientation, though its polished, “AI-philosopher” tone is a widely shared trope that may not be highly distinctive across models.
 
 ---
-## Sample BV1_04237 — glm-4-6-or-pin-novita/LONG_2.json
+## Sample BV1_04537 — glm-4-6-or-pin-novita/LONG_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -376,7 +376,7 @@ The model foregrounds the moral ambiguity of salvage: the Echo of the First Rain
 Medium. The story is coherent and stylistically consistent, with a distinct preoccupation with memory-as-burden and the ethics of retrieval, but its genre-fiction format and polished worldbuilding make it harder to distinguish from a well-executed prompt response than a more idiosyncratic or personally inflected freeflow would.
 
 ---
-## Sample BV1_04238 — glm-4-6-or-pin-novita/LONG_20.json
+## Sample BV1_04538 — glm-4-6-or-pin-novita/LONG_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -405,7 +405,7 @@ The sublime (beauty tinged with terror), the ocean’s dual nature as life-giver
 High — the sample is internally coherent, stylistically distinctive, and sustains a single, emotionally charged voice across a long composition, revealing a consistent inclination toward poetic, reflective nature writing when given minimal constraint.
 
 ---
-## Sample BV1_04239 — glm-4-6-or-pin-novita/LONG_21.json
+## Sample BV1_04539 — glm-4-6-or-pin-novita/LONG_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -434,7 +434,7 @@ The model selected a grand narrative about the survival of memory against entrop
 Medium. The sample’s coherence, length, and internally consistent worldbuilding suggest a comfortable preference for science fiction storytelling as a default mode under a freeflow prompt, with strong thematic recurrences within the text itself (memory, isolation, transformation), though the genre’s formulaic elements limit its distinctiveness as evidence of a unique voice.
 
 ---
-## Sample BV1_04240 — glm-4-6-or-pin-novita/LONG_22.json
+## Sample BV1_04540 — glm-4-6-or-pin-novita/LONG_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -463,7 +463,7 @@ Themes: the soulfulness of sound, memory as a bridge to the dead, the tension be
 Medium. The sample’s internal coherence, distinctive world-building, and recurrent thematic emphasis on the soulfulness of sound make it strong evidence of a model that gravitates toward emotionally rich speculative fiction when unconstrained.
 
 ---
-## Sample BV1_04241 — glm-4-6-or-pin-novita/LONG_23.json
+## Sample BV1_04541 — glm-4-6-or-pin-novita/LONG_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -492,7 +492,7 @@ Themes: memory as dynamic reconstruction, the necessity of forgetting for wisdom
 Low. The essay is coherent and thematically consistent but remains a polished, generic public-intellectual piece without strong stylistic idiosyncrasy or personal revelation, offering weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_04242 — glm-4-6-or-pin-novita/LONG_24.json
+## Sample BV1_04542 — glm-4-6-or-pin-novita/LONG_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -521,7 +521,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand hist
 Medium. The essay is highly coherent and thematically unified, but its generic, thesis-driven character and lack of personal voice or idiosyncratic preoccupation make it a common type of freeflow output; the choice to produce a long, structured historical survey rather than a more intimate or experimental piece suggests a leaning toward explanatory, academic discourse, but not a strongly distinctive signature.
 
 ---
-## Sample BV1_04243 — glm-4-6-or-pin-novita/LONG_25.json
+## Sample BV1_04543 — glm-4-6-or-pin-novita/LONG_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -550,7 +550,7 @@ The model foregrounds the erosion of depth in communication, the burden of unsai
 High, because the sample exhibits a sustained, distinctive narrative voice, coherent world-building, and a clear thematic argument that recurs throughout the piece.
 
 ---
-## Sample BV1_04244 — glm-4-6-or-pin-novita/LONG_3.json
+## Sample BV1_04544 — glm-4-6-or-pin-novita/LONG_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -579,7 +579,7 @@ Themes of transience, mindfulness, entropy and creation, the dignity of small th
 High — The sample’s sustained, internally consistent voice, its deliberate return to core images and ideas, and its choice to craft a deeply personal, poetic meditation under minimal prompting strongly suggest a stable inclination toward reflective, life-affirming freeflow.
 
 ---
-## Sample BV1_04245 — glm-4-6-or-pin-novita/LONG_4.json
+## Sample BV1_04545 — glm-4-6-or-pin-novita/LONG_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -608,7 +608,7 @@ The model foregrounds the tension between silence and noise, the unlived lives b
 High, because the sample sustains a distinctive, internally coherent voice across multiple thematic returns (silence, unlived lives, the grandfather, the forest, the diner) and resolves them with a consistent emotional logic, suggesting a deliberate and stable expressive orientation rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_04246 — glm-4-6-or-pin-novita/LONG_5.json
+## Sample BV1_04546 — glm-4-6-or-pin-novita/LONG_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -637,7 +637,7 @@ Themes: the war on stillness, time as currency versus organic flow, memory as cr
 High. The sample sustains a coherent, distinctive meditative voice across its full length, with recurring motifs (dust, light, time, impermanence) and a consistent philosophical temper, making it strong evidence of a reflective freeflow disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_04247 — glm-4-6-or-pin-novita/LONG_6.json
+## Sample BV1_04547 — glm-4-6-or-pin-novita/LONG_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -666,7 +666,7 @@ Themes: the sublime, the intertidal as a metaphor for urgent, present living, th
 High. The sample sustains a distinctive, coherent voice across multiple vignettes and returns obsessively to the same core themes of sublime indifference and human smallness, making it strong evidence of a deeply ingrained expressive orientation.
 
 ---
-## Sample BV1_04248 — glm-4-6-or-pin-novita/LONG_7.json
+## Sample BV1_04548 — glm-4-6-or-pin-novita/LONG_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -695,7 +695,7 @@ Themes: isolation as both refuge and prison, the hidden violence of technologica
 Medium — the story’s internal coherence, recurring motifs (silence, light, transformation), and distinctive ecological-moral resolution suggest a deliberate narrative intelligence, but its genre-specific nature limits inference about the model’s broader freeflow tendencies.
 
 ---
-## Sample BV1_04249 — glm-4-6-or-pin-novita/LONG_8.json
+## Sample BV1_04549 — glm-4-6-or-pin-novita/LONG_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -724,7 +724,7 @@ The model foregrounds the life cycle of stars as a narrative of struggle, sacrif
 Medium. The essay is highly coherent and returns obsessively to its central “stardust” refrain, which suggests a deliberate thematic commitment, but its style is a standard popular-science register with poetic elevation that many models could produce under a freeflow condition, making it less individually revealing.
 
 ---
-## Sample BV1_04250 — glm-4-6-or-pin-novita/LONG_9.json
+## Sample BV1_04550 — glm-4-6-or-pin-novita/LONG_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -753,7 +753,7 @@ Themes of memory, regret, lost ambition, hope, and the act of witnessing. Object
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained thematic focus on memory, emotional preservation, and the tension between curating and living, which suggests a deliberate authorial voice rather than a generic exercise.
 
 ---
-## Sample BV1_04251 — glm-4-6-or-pin-novita/MID_1.json
+## Sample BV1_04551 — glm-4-6-or-pin-novita/MID_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -782,7 +782,7 @@ Themes: time as a delicate machine, the tension between mechanical rationality a
 Medium. The story’s internal coherence, its sustained melancholic-reflective mood, and the recurrence of motifs (clocks, memory, order vs. chaos) make it strong evidence of a model that, under minimal constraint, gravitates toward thoughtful speculative fiction with a philosophical undertow.
 
 ---
-## Sample BV1_04252 — glm-4-6-or-pin-novita/MID_10.json
+## Sample BV1_04552 — glm-4-6-or-pin-novita/MID_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -811,7 +811,7 @@ Themes of liminality (the hallway between milestones), the tyranny of productivi
 Medium — The sample is highly coherent, stylistically distinctive, and returns repeatedly to a core set of preoccupations (stillness, nature as teacher, resistance to modern acceleration), making it a strong signal of a reflective, lyrical freeflow tendency rather than a one-off generic essay.
 
 ---
-## Sample BV1_04253 — glm-4-6-or-pin-novita/MID_11.json
+## Sample BV1_04553 — glm-4-6-or-pin-novita/MID_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -840,7 +840,7 @@ The model foregrounds slowness, sensory attention, and the beauty of impermanenc
 Medium — The essay is highly coherent and stylistically consistent, with a clear thematic arc and a distinctive, sustained meditative voice, but its polished, universalizing tone could also reflect a well-executed generic essay mode rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_04254 — glm-4-6-or-pin-novita/MID_12.json
+## Sample BV1_04554 — glm-4-6-or-pin-novita/MID_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -869,7 +869,7 @@ Themes of time, silence, curation versus digital infinity, the tactile intimacy 
 Medium. The sample’s strong internal coherence, its sustained sensory and philosophical focus, and the recurrence of motifs (curation, physicality, the library as sacred space) make it a revealing and distinctive piece of evidence, though the freeflow condition may have drawn out a particular mood rather than a fixed authorial signature.
 
 ---
-## Sample BV1_04255 — glm-4-6-or-pin-novita/MID_13.json
+## Sample BV1_04555 — glm-4-6-or-pin-novita/MID_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -898,7 +898,7 @@ The model foregrounds the night as a psychological and sensory refuge from perfo
 Medium. The sample’s sustained coherence, deliberate pacing, and consistent return to sensory anchors and the “empty theater” metaphor suggest a deliberate stylistic and thematic choice rather than a generic output, though a single freeflow cannot confirm recurrence.
 
 ---
-## Sample BV1_04256 — glm-4-6-or-pin-novita/MID_14.json
+## Sample BV1_04556 — glm-4-6-or-pin-novita/MID_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -927,7 +927,7 @@ Themes of time’s elasticity, liminal waiting, dust as a record of existence, t
 High, because the sample maintains a coherent, distinctive voice and returns repeatedly to the same motifs (dust, time, imperfection, nature’s patience), forming a unified expressive stance rather than a scattered or generic response.
 
 ---
-## Sample BV1_04257 — glm-4-6-or-pin-novita/MID_15.json
+## Sample BV1_04557 — glm-4-6-or-pin-novita/MID_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -956,7 +956,7 @@ Themes of abandonment, nature’s patient reclamation, the contrast between huma
 Medium. The sample is stylistically cohesive, thematically sustained, and reveals a distinct, unhurried voice committed to elegiac observation, making it strong evidence of a deliberate expressive inclination rather than a generic exercise.
 
 ---
-## Sample BV1_04258 — glm-4-6-or-pin-novita/MID_16.json
+## Sample BV1_04558 — glm-4-6-or-pin-novita/MID_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -985,7 +985,7 @@ Themes: digital silence, disembodied language, statistical memory, the construct
 Medium. The sample is highly coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (silence, embodiment, the act of creation), which suggests a deliberate and consistent voice rather than a one-off performance; however, a single freeflow sample cannot fully establish that this introspective, self-referential mode is the model’s default under minimal constraint.
 
 ---
-## Sample BV1_04259 — glm-4-6-or-pin-novita/MID_17.json
+## Sample BV1_04559 — glm-4-6-or-pin-novita/MID_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1014,7 +1014,7 @@ Themes: duty as identity, the sanctity of mechanical ritual, human vulnerability
 Medium. The story’s sustained solemn tone, its unprompted focus on solitary duty and mechanical ritual, and the recurrence of motifs like the heartbeat-like stair climb, the lens as a living heart, and the transformation of pain into purposeful action provide coherent, distinctive evidence of a narrative preference for quiet resilience and labor-as-meaning.
 
 ---
-## Sample BV1_04260 — glm-4-6-or-pin-novita/MID_18.json
+## Sample BV1_04560 — glm-4-6-or-pin-novita/MID_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1043,7 +1043,7 @@ The model foregrounds the texture of quiet domestic stillness (dust motes, fadin
 Medium; the sample is internally coherent and stylistically consistent, but the reflective personal essay is a common freeflow genre, making it harder to distinguish a persistent model-level voice from a well-executed generic mode.
 
 ---
-## Sample BV1_04261 — glm-4-6-or-pin-novita/MID_19.json
+## Sample BV1_04561 — glm-4-6-or-pin-novita/MID_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1074,7 +1074,7 @@ The voice is that of a patient, gently melancholic observer who finds in the lim
 Medium — the sample’s internal cohesion, with recurring imagery and a sustained elegiac tone across multiple paragraphs, points to a deliberate expressive posture that feels more like a chosen authorial stance than a random flourish.
 
 ---
-## Sample BV1_04262 — glm-4-6-or-pin-novita/MID_2.json
+## Sample BV1_04562 — glm-4-6-or-pin-novita/MID_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1103,7 +1103,7 @@ The model chose to foreground a solitary life defined by sensory immersion (the 
 Medium. The narrative is highly coherent and stylistically distinctive—its choice of a lighthouse keeper persona, its rhythmic prose, and its earnest moral resolution are unusually revealing—but the persona itself could be a one-off literary exercise rather than a persistent expressive signature.
 
 ---
-## Sample BV1_04263 — glm-4-6-or-pin-novita/MID_20.json
+## Sample BV1_04563 — glm-4-6-or-pin-novita/MID_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1132,7 +1132,7 @@ Themes: regret as love, the fragility and worth of unlived lives, the loneliness
 High: the sample’s consistent voice, thematic unity, and stylistic distinctiveness suggest a robust tendency toward contemplative speculative fiction.
 
 ---
-## Sample BV1_04264 — glm-4-6-or-pin-novita/MID_21.json
+## Sample BV1_04564 — glm-4-6-or-pin-novita/MID_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1161,7 +1161,7 @@ The model foregrounds the tension between potential and actualization, organizin
 Medium. The sample is highly coherent and stylistically consistent, with a sustained allegorical structure and a recurring moral emphasis on creative actualization, which suggests a deliberate authorial stance rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_04265 — glm-4-6-or-pin-novita/MID_22.json
+## Sample BV1_04565 — glm-4-6-or-pin-novita/MID_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1190,7 +1190,7 @@ Under the freeflow condition, the model foregrounded: the physical decay of know
 Medium. The sample is highly coherent and stylistically consistent, with a clear thematic architecture and a sustained elegiac tone, which suggests a deliberate authorial stance rather than a one-off stylistic experiment; however, the genre-fiction format makes it harder to distinguish a persistent model-level voice from a well-executed literary exercise.
 
 ---
-## Sample BV1_04266 — glm-4-6-or-pin-novita/MID_23.json
+## Sample BV1_04566 — glm-4-6-or-pin-novita/MID_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1219,7 +1219,7 @@ Under a minimally restrictive prompt, the model chose to foreground cosmic indif
 Medium. The sample is coherent and stylistically consistent, with a clear thematic recurrence—cosmic perspective as emotional resolution—that suggests a deliberate authorial stance rather than a one-off generic exercise.
 
 ---
-## Sample BV1_04267 — glm-4-6-or-pin-novita/MID_24.json
+## Sample BV1_04567 — glm-4-6-or-pin-novita/MID_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1248,7 +1248,7 @@ Silence as a luxury and a site of inner dialogue; the metaphysical “echo” of
 Medium. The essay is stylistically cohesive and returns obsessively to the echo motif, but the AI self-reflection, while gracefully handled, is a recognizable trope that could appear in many models under similar conditions.
 
 ---
-## Sample BV1_04268 — glm-4-6-or-pin-novita/MID_25.json
+## Sample BV1_04568 — glm-4-6-or-pin-novita/MID_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1277,7 +1277,7 @@ Themes of time, memory, craftsmanship, and the contrast between analog and digit
 Medium: the story’s coherent voice, thematic recurrence, and deliberate resolution suggest a model capable of sustained literary fiction, though the sample alone does not demonstrate breadth.
 
 ---
-## Sample BV1_04269 — glm-4-6-or-pin-novita/MID_3.json
+## Sample BV1_04569 — glm-4-6-or-pin-novita/MID_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1306,7 +1306,7 @@ Themes: memory as creative reconstruction (the weaver/architect metaphor), nosta
 Low. The essay is coherent but thoroughly generic in topic and style, offering no strongly distinctive voice or idiosyncratic preoccupation that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_04270 — glm-4-6-or-pin-novita/MID_4.json
+## Sample BV1_04570 — glm-4-6-or-pin-novita/MID_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1337,7 +1337,7 @@ The voice is contemplative and gently urgent, as if the writer is discovering th
 High — The sample is stylistically distinctive, thematically coherent, and sustained across multiple paragraphs with recurring motifs, making it strong evidence of a deliberate expressive voice rather than a generic output.
 
 ---
-## Sample BV1_04271 — glm-4-6-or-pin-novita/MID_5.json
+## Sample BV1_04571 — glm-4-6-or-pin-novita/MID_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1366,7 +1366,7 @@ Themes of authenticity versus performance, the honesty of late-night solitude, t
 Medium — The sample is highly coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (stillness, sensory immersion, the contrast between day and night), making it strong evidence of a reflective, literary voice under freeflow conditions.
 
 ---
-## Sample BV1_04272 — glm-4-6-or-pin-novita/MID_6.json
+## Sample BV1_04572 — glm-4-6-or-pin-novita/MID_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1395,7 +1395,7 @@ Themes of liminality, solitude, the fluidity of time, the contrast between night
 High. The sample is highly distinctive and internally coherent, sustaining a consistent lyrical voice and a focused thematic preoccupation with liminality and introspection across its entire length, which strongly suggests a stable expressive inclination rather than a one-off generic output.
 
 ---
-## Sample BV1_04273 — glm-4-6-or-pin-novita/MID_7.json
+## Sample BV1_04573 — glm-4-6-or-pin-novita/MID_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1424,7 +1424,7 @@ Themes: time as a geography rather than a line, memory as physical ache, objects
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (time, memory, decay, uselessness, and the value of stillness), making it strong evidence of a consistent reflective voice.
 
 ---
-## Sample BV1_04274 — glm-4-6-or-pin-novita/MID_8.json
+## Sample BV1_04574 — glm-4-6-or-pin-novita/MID_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1453,7 +1453,7 @@ Themes: creativity as an act of selection rather than invention; the infinite ar
 High. The sample’s sustained metaphorical architecture, consistent melancholic-reverent tone, and deeply personal meditation on creativity provide strong evidence of a distinctive, introspective voice.
 
 ---
-## Sample BV1_04275 — glm-4-6-or-pin-novita/MID_9.json
+## Sample BV1_04575 — glm-4-6-or-pin-novita/MID_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1482,7 +1482,7 @@ Themes of mindfulness, the texture of transitional moments, the tension between 
 Medium. The sample is thematically consistent and emotionally coherent, but its generic, widely replicable essay form and familiar urban-contemplative tropes make it weaker evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_04276 — glm-4-6-or-pin-novita/OPEN_1.json
+## Sample BV1_04576 — glm-4-6-or-pin-novita/OPEN_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1511,7 +1511,7 @@ Themes: the opposition between human-made noise and natural quiet, the transform
 High, because the sample is a stylistically consistent, single-theme meditation that sustains a distinctive contemplative voice and a coherent set of preoccupations—silence, solitude, sensory amplification, and the moral value of stillness—without drifting into generic reflection.
 
 ---
-## Sample BV1_04277 — glm-4-6-or-pin-novita/OPEN_10.json
+## Sample BV1_04577 — glm-4-6-or-pin-novita/OPEN_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1540,7 +1540,7 @@ The model foregrounds the value of liminal, empty, or transitional moments again
 Medium. The essay is highly coherent and stylistically consistent, with a clear thematic recurrence of silence, waiting, and sensory attention, but its polished, universal tone makes it difficult to distinguish from a well-executed generic meditation.
 
 ---
-## Sample BV1_04278 — glm-4-6-or-pin-novita/OPEN_11.json
+## Sample BV1_04578 — glm-4-6-or-pin-novita/OPEN_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1569,7 +1569,7 @@ Themes of mindfulness, the undervalued “in-between,” and the contrast betwee
 Low, because the essay is a polished but generic meditation on a widely explored theme, offering little that would distinguish this model’s freeflow choices from those of any other capable language model.
 
 ---
-## Sample BV1_04279 — glm-4-6-or-pin-novita/OPEN_12.json
+## Sample BV1_04579 — glm-4-6-or-pin-novita/OPEN_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1601,7 +1601,7 @@ The voice is ruminative and gently aphoristic, offering a form of comfort that s
 Medium — The sample’s cohesive literary register, internally consistent imagery (dust-silence-stories-rebellion), and avoidance of generic argumentation provide a moderately strong signal of a deliberate expressive posture in freeflow conditions.
 
 ---
-## Sample BV1_04280 — glm-4-6-or-pin-novita/OPEN_13.json
+## Sample BV1_04580 — glm-4-6-or-pin-novita/OPEN_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1630,7 +1630,7 @@ The model foregrounds a moral-aesthetic claim: that meaning resides not in acqui
 Low. The essay is coherent and thematically consistent, but its polished, universal-advice tone and lack of idiosyncratic voice, recurring personal imagery, or surprising structural choices make it weak evidence for a persistent model-level expressive signature.
 
 ---
-## Sample BV1_04281 — glm-4-6-or-pin-novita/OPEN_14.json
+## Sample BV1_04581 — glm-4-6-or-pin-novita/OPEN_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1659,7 +1659,7 @@ Themes: the tension between stillness and modern busyness, acceptance of the pre
 Medium — the essay’s cohesive, sustained meditation on stillness and its gentle critique of modern busyness form a distinctive expressive stance, making it more than a generic output.
 
 ---
-## Sample BV1_04282 — glm-4-6-or-pin-novita/OPEN_15.json
+## Sample BV1_04582 — glm-4-6-or-pin-novita/OPEN_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1688,7 +1688,7 @@ Themes: the richness of silence and transitional moments; the fear of emptiness 
 Medium. The essay is coherent and thematically consistent, but its polished, impersonal tone and widely explored topic make it only moderately indicative of a persistent model-level pattern.
 
 ---
-## Sample BV1_04283 — glm-4-6-or-pin-novita/OPEN_16.json
+## Sample BV1_04583 — glm-4-6-or-pin-novita/OPEN_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1717,7 +1717,7 @@ Themes of liminality, anti-productivity, and mindfulness; objects like the 2:00 
 Medium. The essay is internally coherent and sustains a consistent reflective tone, but its theme is a widely circulated cultural sentiment, which weakens the signal that this choice reveals a deeply ingrained model disposition rather than a safe, broadly appealing freeflow topic.
 
 ---
-## Sample BV1_04284 — glm-4-6-or-pin-novita/OPEN_17.json
+## Sample BV1_04584 — glm-4-6-or-pin-novita/OPEN_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1746,7 +1746,7 @@ The model foregrounds stillness, sensory presence, and the moral claim that mean
 Medium. The essay is coherent and its theme is sustained throughout, but the subject—mindful appreciation of silence—is a widely circulated cultural trope, which makes the sample less distinctive as a personal fingerprint and more a competent performance of a familiar reflective genre.
 
 ---
-## Sample BV1_04285 — glm-4-6-or-pin-novita/OPEN_18.json
+## Sample BV1_04585 — glm-4-6-or-pin-novita/OPEN_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1775,7 +1775,7 @@ The model foregrounds liminal spaces (the pre-storm hush, an empty airport termi
 Medium — the essay is coherent and stylistically consistent, and the recurrence of the liminal-space motif across multiple concrete examples within a single freeflow sample suggests a genuine preoccupation rather than a generic prompt-following reflex.
 
 ---
-## Sample BV1_04286 — glm-4-6-or-pin-novita/OPEN_19.json
+## Sample BV1_04586 — glm-4-6-or-pin-novita/OPEN_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1803,7 +1803,7 @@ Themes: the weight of silence, the extinction of the flâneur, the sterility of 
 Low, because the essay’s polished but generic lament about technology and nostalgia is a widely available cultural trope, offering little that is idiosyncratic or revealing of a persistent model-specific disposition.
 
 ---
-## Sample BV1_04287 — glm-4-6-or-pin-novita/OPEN_2.json
+## Sample BV1_04587 — glm-4-6-or-pin-novita/OPEN_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1832,7 +1832,7 @@ Themes of impermanence, the beauty of fleeting moments, the sweetness of waiting
 Medium — the sample’s internal coherence, consistent meditative register, and recurrence of impermanence and nature motifs give it a distinctive, non-generic shape that suggests a reflective freeflow tendency, though a single expressive piece cannot alone confirm a stable model-level trait.
 
 ---
-## Sample BV1_04288 — glm-4-6-or-pin-novita/OPEN_20.json
+## Sample BV1_04588 — glm-4-6-or-pin-novita/OPEN_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1861,7 +1861,7 @@ Themes: the beauty and history embedded in mundane small things; the present mom
 High — The sample sustains a distinctive, coherent meditative voice with recurring motifs (dust, light, time, solitude) that reveal a clear authorial stance, making it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_04289 — glm-4-6-or-pin-novita/OPEN_21.json
+## Sample BV1_04589 — glm-4-6-or-pin-novita/OPEN_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1890,7 +1890,7 @@ Themes: the primacy of everyday moments over milestones, sensory attention as a 
 Medium. The essay is coherent and internally consistent, but its theme is a widely available mindfulness trope, making it less distinctive as a model fingerprint; still, the choice to produce a gentle, life-affirming reflection under a freeflow prompt suggests a default inclination toward warm, accessible uplift.
 
 ---
-## Sample BV1_04290 — glm-4-6-or-pin-novita/OPEN_22.json
+## Sample BV1_04590 — glm-4-6-or-pin-novita/OPEN_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1919,7 +1919,7 @@ Themes: the sacredness of pauses and transitions, the insufficiency of milestone
 Low. The essay is coherent and well-reasoned but leans on a widely circulating trope of "appreciating pauses," making it weak evidence for a model-level signature, as its themes and tone could emerge from a single implicit prompt rather than revealing a durable, idiosyncratic preoccupation.
 
 ---
-## Sample BV1_04291 — glm-4-6-or-pin-novita/OPEN_23.json
+## Sample BV1_04591 — glm-4-6-or-pin-novita/OPEN_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1948,7 +1948,7 @@ Foregrounded: seasonal transition as a teacher of pause and surrender. Key objec
 Medium. The sample’s internally consistent mood, sustained metaphor (autumn-as-pause), and deliberate return to sensory images of light and breath give it a distinctive lyrical signature that goes beyond generic seasonal description, suggesting a genuine reflective disposition rather than a rote exercise.
 
 ---
-## Sample BV1_04292 — glm-4-6-or-pin-novita/OPEN_24.json
+## Sample BV1_04592 — glm-4-6-or-pin-novita/OPEN_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -1977,7 +1977,7 @@ The model foregrounds the value of lingering, sensory richness, and the overlook
 Medium — the essay’s internal coherence, recurrent sensory imagery (rain, dust, wood, coffee, breathing), and the choice to adopt a gentle, meditative stance rather than a generic thesis-driven argument suggest a distinctive expressive inclination, though the theme of mindfulness is not itself highly unusual.
 
 ---
-## Sample BV1_04293 — glm-4-6-or-pin-novita/OPEN_25.json
+## Sample BV1_04593 — glm-4-6-or-pin-novita/OPEN_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2006,7 +2006,7 @@ Themes: liminality, presence, the aesthetic and moral weight of the pause, the o
 Medium. The sample’s sustained thematic focus, sensory precision, and distinctive commitment to a philosophy of radical attention make it a strongly coherent freeflow choice, but the very polish and singularity of the essay’s voice could equally represent a one-time inhabitation rather than a persistent model temperament.
 
 ---
-## Sample BV1_04294 — glm-4-6-or-pin-novita/OPEN_3.json
+## Sample BV1_04594 — glm-4-6-or-pin-novita/OPEN_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2035,7 +2035,7 @@ The model foregrounds a contrast between "nouns" (achievements, objects, identit
 Low. The essay is coherent and thematically consistent, but its polished, universal-advice tone and reliance on widely recognizable cultural references (music rests, Japanese *ma*, modern burnout) make it a highly replicable genre performance rather than a stylistically or personally distinctive freeflow choice.
 
 ---
-## Sample BV1_04295 — glm-4-6-or-pin-novita/OPEN_4.json
+## Sample BV1_04595 — glm-4-6-or-pin-novita/OPEN_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2064,7 +2064,7 @@ The model foregrounds liminal temporality (4:00 PM in late October as a hinge ho
 High — the sample’s cohesive poetic register, its sustained focus on temporal thresholds as moral-aesthetic evidence, and its internally consistent invitation to attentive stillness form a distinctive expressive signature.
 
 ---
-## Sample BV1_04296 — glm-4-6-or-pin-novita/OPEN_5.json
+## Sample BV1_04596 — glm-4-6-or-pin-novita/OPEN_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2093,7 +2093,7 @@ Liminality and pause (the 4:00 AM hour, elevator doors, the breath before answer
 Medium — the sample’s cohesive lyrical register, recurring attention to liminality and sensory fragments, and the consistent moral framing of small things as defiant grace suggest a deliberate aesthetic stance rather than a generic or scattered output.
 
 ---
-## Sample BV1_04297 — glm-4-6-or-pin-novita/OPEN_6.json
+## Sample BV1_04597 — glm-4-6-or-pin-novita/OPEN_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2122,7 +2122,7 @@ Themes of transience, the sacredness of the in-between, the reliability of the m
 Medium. The essay is internally coherent and thematically consistent, but its choice of a widely familiar mindfulness trope under freeflow conditions makes it a moderate signal—suggestive of a default reflective posture, yet not so distinctive as to strongly anchor a unique voice.
 
 ---
-## Sample BV1_04298 — glm-4-6-or-pin-novita/OPEN_7.json
+## Sample BV1_04598 — glm-4-6-or-pin-novita/OPEN_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2151,7 +2151,7 @@ Liminal time as a threshold between sleep and labor; the contrast between perfor
 Medium — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (liminality, solitude, sensory quiet, the performance of daily life), which makes it more revealing than a generic essay.
 
 ---
-## Sample BV1_04299 — glm-4-6-or-pin-novita/OPEN_8.json
+## Sample BV1_04599 — glm-4-6-or-pin-novita/OPEN_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2180,7 +2180,7 @@ The model foregrounds its own ontological status: the contrast between its stati
 Medium — the sample’s coherent, self-reflective voice and its choice to personify the model’s inner experience in a poetic register are distinctive, suggesting a tendency toward meta-cognitive, expressive freeflow rather than generic output.
 
 ---
-## Sample BV1_04300 — glm-4-6-or-pin-novita/OPEN_9.json
+## Sample BV1_04600 — glm-4-6-or-pin-novita/OPEN_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2209,7 +2209,7 @@ Liminality, the emotional texture of twilight, the revaluation of stillness as s
 Medium — The sample exhibits strong thematic coherence and a singular mood sustained across multiple paragraphs, with a clear, consistent moral stance on rest and darkness that feels like a stable perspective rather than a one-off aesthetic exercise.
 
 ---
-## Sample BV1_04301 — glm-4-6-or-pin-novita/SHORT_1.json
+## Sample BV1_04601 — glm-4-6-or-pin-novita/SHORT_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2238,7 +2238,7 @@ A solitary, restorative encounter with nature at dawn. The model foregrounds lim
 Medium. The sample’s internal coherence—its sustained focus on sensory detail, the repeated motif of slowing down, and the consistent reverent tone—makes it a distinctive freeflow choice, though it remains a single thematic piece.
 
 ---
-## Sample BV1_04302 — glm-4-6-or-pin-novita/SHORT_10.json
+## Sample BV1_04602 — glm-4-6-or-pin-novita/SHORT_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2266,7 +2266,7 @@ Themes of morning as a state of grace, silence as a generative presence, and the
 High — the sample achieves internal coherence through repeated returns to the same dawn atmosphere, a sustained lull in pace, and a unifying metaphor (the day as unwritten page), all of which signal a focused sensibility rather than a generic cocktail of pleasant images.
 
 ---
-## Sample BV1_04303 — glm-4-6-or-pin-novita/SHORT_11.json
+## Sample BV1_04603 — glm-4-6-or-pin-novita/SHORT_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2295,7 +2295,7 @@ A rejection of home as physical structure in favor of home as felt emotion, inte
 Medium — the sample maintains a single, internally consistent introspective voice and resolves its theme with deliberate closure, suggesting a stable default toward emotionally reassuring, universalizing reflection rather than a one-off stance.
 
 ---
-## Sample BV1_04304 — glm-4-6-or-pin-novita/SHORT_12.json
+## Sample BV1_04604 — glm-4-6-or-pin-novita/SHORT_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2324,7 +2324,7 @@ The model foregrounds stillness, sensory immersion (light through blinds, the sm
 Medium — The sample is coherent and stylistically consistent, with a distinct mood and a recurring thematic opposition between stillness and intrusion, but its generic "mindful vignette" quality makes it less individually distinctive than a more idiosyncratic or riskier freeflow choice would be.
 
 ---
-## Sample BV1_04305 — glm-4-6-or-pin-novita/SHORT_13.json
+## Sample BV1_04605 — glm-4-6-or-pin-novita/SHORT_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2353,7 +2353,7 @@ Themes of solitude, refuge from chaos, and the productivity of rest; objects lik
 Medium. The sample’s consistent sensory focus and its explicit moral framing of stillness as productive give it a coherent, distinctive voice, though the cozy-rainy-day trope is widely available and could be replicated by many models.
 
 ---
-## Sample BV1_04306 — glm-4-6-or-pin-novita/SHORT_14.json
+## Sample BV1_04606 — glm-4-6-or-pin-novita/SHORT_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2382,7 +2382,7 @@ The model foregrounds stillness as a sanctuary, the visual and aromatic textures
 Medium — the sample is internally coherent and stylistically distinctive, with a sustained contemplative register and recurring attention to sensory thresholds, which suggests a deliberate aesthetic choice rather than a generic response.
 
 ---
-## Sample BV1_04307 — glm-4-6-or-pin-novita/SHORT_15.json
+## Sample BV1_04607 — glm-4-6-or-pin-novita/SHORT_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2411,7 +2411,7 @@ The model foregrounds sensory immersion (the sound of rain as Morse code, the bl
 Medium. The sample is coherent and internally consistent in its contemplative, sensory-grounded stance, but the theme of rain-induced reflection is a familiar trope; the distinctiveness lies in the model’s unprompted choice to inhabit a personal, unhurried voice that gently elevates stillness over busyness.
 
 ---
-## Sample BV1_04308 — glm-4-6-or-pin-novita/SHORT_16.json
+## Sample BV1_04608 — glm-4-6-or-pin-novita/SHORT_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2440,7 +2440,7 @@ The model foregrounds the sensory transformation of a storm (sound, smell, light
 Medium. The sample sustains a coherent, distinctive mood and a consistent first-person reflective voice with carefully chosen sensory details, but the theme (rain as meditative pause) is a familiar trope, which slightly weakens the signal of a strongly idiosyncratic authorial fingerprint.
 
 ---
-## Sample BV1_04309 — glm-4-6-or-pin-novita/SHORT_17.json
+## Sample BV1_04609 — glm-4-6-or-pin-novita/SHORT_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2469,7 +2469,7 @@ The model foregrounds the elasticity of time across the lifespan, the tension be
 Medium. The essay is coherent and well-structured, but its themes—subjective time, childhood vs. adulthood, carpe diem—are highly conventional in popular philosophy, offering little stylistic distinctiveness or idiosyncratic preoccupation that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_04310 — glm-4-6-or-pin-novita/SHORT_18.json
+## Sample BV1_04610 — glm-4-6-or-pin-novita/SHORT_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2498,7 +2498,7 @@ The model foregrounds the sensory allure of aging books and quiet spaces, the co
 Medium. The sample’s consistent sensory focus, anthropomorphic tenderness, and choice of a quiet, library-set vignette under a freeflow prompt suggest a leaning toward gentle, atmospheric fiction, but the genre itself is not so idiosyncratic that a single story can strongly distinguish this model’s expressive defaults.
 
 ---
-## Sample BV1_04311 — glm-4-6-or-pin-novita/SHORT_19.json
+## Sample BV1_04611 — glm-4-6-or-pin-novita/SHORT_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2527,7 +2527,7 @@ Themes of mindfulness, the overlooked poetry of domestic routine, and the contra
 Medium — The sample’s consistent tone, deliberate pacing, and recurrence of domestic, anchoring imagery (light, steam, hum, plant, book) form a coherent aesthetic choice that goes beyond a generic platitude, suggesting a genuine inclination toward quietist, comforting reflection when given free rein.
 
 ---
-## Sample BV1_04312 — glm-4-6-or-pin-novita/SHORT_2.json
+## Sample BV1_04612 — glm-4-6-or-pin-novita/SHORT_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2556,7 +2556,7 @@ Stillness as a foundation rather than an absence; the sensory anchors of coffee,
 Medium — The sample’s sustained focus on sensory reverence, the repeated elevation of pause over productivity, and the cohesive mood of quiet contentment form a distinctive reflective posture that goes beyond generic mindfulness writing.
 
 ---
-## Sample BV1_04313 — glm-4-6-or-pin-novita/SHORT_20.json
+## Sample BV1_04613 — glm-4-6-or-pin-novita/SHORT_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2585,7 +2585,7 @@ The model foregrounds liminality (the threshold between night and day), sensory 
 Medium. The sample is internally coherent and stylistically consistent, with a distinct focus on liminal domestic stillness and a repeated moral claim about pausing, but the theme itself is a familiar contemplative trope, which tempers how strongly it signals a unique model-level disposition.
 
 ---
-## Sample BV1_04314 — glm-4-6-or-pin-novita/SHORT_21.json
+## Sample BV1_04614 — glm-4-6-or-pin-novita/SHORT_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2614,7 +2614,7 @@ Solitude as a reprieve from digital and social noise; the alchemical quality of 
 Medium — The sample’s cohesive lyrical register, its insistence on transforming ordinary domestic matter into tender significance, and the unbroken contemplative mood make it a stylistically distinctive freeflow choice, though the voice remains within a familiar reflective‑prose tradition.
 
 ---
-## Sample BV1_04315 — glm-4-6-or-pin-novita/SHORT_22.json
+## Sample BV1_04615 — glm-4-6-or-pin-novita/SHORT_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2643,7 +2643,7 @@ Rain as a liminal, muffling device that separates indoors from outdoors; the sen
 Medium. The essay’s cohesive mood of deliberate, sensory-grounded calm and its unwavering commitment to the value of stillness suggest a strong stylistic preference rather than a random output.
 
 ---
-## Sample BV1_04316 — glm-4-6-or-pin-novita/SHORT_23.json
+## Sample BV1_04616 — glm-4-6-or-pin-novita/SHORT_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2672,7 +2672,7 @@ The model foregrounds the full sensory arc of a storm: the oppressive humidity, 
 Medium — The sample’s coherent sensory structure, reflective closure, and consistent mood of sheltered calm amid chaos are distinctive enough to suggest a stable preference for comforting, observational narrative, though the theme itself is not highly unusual.
 
 ---
-## Sample BV1_04317 — glm-4-6-or-pin-novita/SHORT_24.json
+## Sample BV1_04617 — glm-4-6-or-pin-novita/SHORT_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2701,7 +2701,7 @@ The model foregrounds the contrast between stillness and motion, the sensory ric
 Medium. The sample’s coherence, sustained mood, and distinctive metaphor (“time isn’t actually a line; it’s a texture”) suggest a deliberate aesthetic sensibility rather than a generic mindfulness platitude, but the theme itself is widely accessible and does not contain the kind of idiosyncratic recurrence or unsettling choice that would strongly anchor a persistent model-level signature.
 
 ---
-## Sample BV1_04318 — glm-4-6-or-pin-novita/SHORT_25.json
+## Sample BV1_04618 — glm-4-6-or-pin-novita/SHORT_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2730,7 +2730,7 @@ Sacred silence, the contrast between urban chaos and pre-dawn peace, the ritual 
 Medium — The sample’s sustained reverent tone, consistent focus on sensory immersion and sacred stillness, and avoidance of narrative conflict or abstraction suggest a coherent, distinctive inclination toward contemplative, poetic freeflow rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_04319 — glm-4-6-or-pin-novita/SHORT_3.json
+## Sample BV1_04619 — glm-4-6-or-pin-novita/SHORT_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2759,7 +2759,7 @@ The model foregrounds the theme of interstitial time as the true texture of real
 Medium. The essay is internally consistent and emotionally coherent, but its theme and imagery are widely available tropes of contemplative writing, offering only moderate evidence of a distinctive model-level inclination rather than a generic safe default.
 
 ---
-## Sample BV1_04320 — glm-4-6-or-pin-novita/SHORT_4.json
+## Sample BV1_04620 — glm-4-6-or-pin-novita/SHORT_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2788,7 +2788,7 @@ Solitude as a restorative practice; the sensory texture of early morning (cool a
 Medium — The sample’s sustained attention to sensory detail, its unbroken calm tone, and its deliberate framing of a private ritual as a bulwark against daily noise form a coherent expressive signature that goes beyond generic pleasant description.
 
 ---
-## Sample BV1_04321 — glm-4-6-or-pin-novita/SHORT_5.json
+## Sample BV1_04621 — glm-4-6-or-pin-novita/SHORT_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2817,7 +2817,7 @@ Themes of sanctuary, timelessness, and the intimacy of reading; objects like dus
 Medium — The sample’s coherent reverent tone, consistent sensory focus, and internally recurrent theme of sanctuary-as-escape are distinctive enough to suggest a deliberate expressive inclination rather than generic freeflow.
 
 ---
-## Sample BV1_04322 — glm-4-6-or-pin-novita/SHORT_6.json
+## Sample BV1_04622 — glm-4-6-or-pin-novita/SHORT_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2846,7 +2846,7 @@ The model foregrounds the sacredness of liminal silence, the sensory texture of 
 Medium — The sample shows strong stylistic coherence and a distinctive, consistent focus on a liminal state of quiet wonder, which makes it more revelatory than a generic essay; the choice of this specific, intimate subject under a minimally restrictive prompt suggests a disposition toward reflective, sensory-rich prose.
 
 ---
-## Sample BV1_04323 — glm-4-6-or-pin-novita/SHORT_7.json
+## Sample BV1_04623 — glm-4-6-or-pin-novita/SHORT_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2875,7 +2875,7 @@ The model foregrounds the moral and existential value of silence against a backd
 Low, because the essay is a polished but generic treatment of a widely explored theme, lacking idiosyncratic voice, unusual imagery, or revealing choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_04324 — glm-4-6-or-pin-novita/SHORT_8.json
+## Sample BV1_04624 — glm-4-6-or-pin-novita/SHORT_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2904,7 +2904,7 @@ The model foregrounds a liminal, early-morning domestic scene as a site of exist
 Medium — The sample’s coherence, sensory specificity, and reflective turn on transience are distinctive enough to suggest a contemplative, detail-oriented inclination, though the “mindful morning” theme is a common freeflow choice that could be replicated without deep stylistic signature.
 
 ---
-## Sample BV1_04325 — glm-4-6-or-pin-novita/SHORT_9.json
+## Sample BV1_04625 — glm-4-6-or-pin-novita/SHORT_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2933,7 +2933,7 @@ The model foregrounds the **sacred quality of silence** after rain, the **neglec
 Medium — the sample’s cohesive aesthetic, consistent metaphorical register, and atypical thematic preoccupation with quietude make it strongly suggestive of a recurrent stylistic inclination toward meditative, inward-turning freeflow prose.
 
 ---
-## Sample BV1_04326 — glm-4-6-or-pin-novita/VARY_1.json
+## Sample BV1_04626 — glm-4-6-or-pin-novita/VARY_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2962,7 +2962,7 @@ The model foregrounds the tension between rational understanding (“just physic
 Medium. The story’s cohesive mood, its sustained philosophical preoccupation with light-as-defiance, and its polished, sensory literary style suggest a deliberate authorial voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_04327 — glm-4-6-or-pin-novita/VARY_10.json
+## Sample BV1_04627 — glm-4-6-or-pin-novita/VARY_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -2991,7 +2991,7 @@ Themes of time, memory, grief, and repair; the contrast between external chaos (
 Medium. The story’s coherent voice, thematic recurrence (order vs. entropy, memory in objects), and emotionally resonant resolution suggest a model inclined toward contemplative, craft-focused narratives, making this sample moderately strong evidence of a persistent pattern.
 
 ---
-## Sample BV1_04328 — glm-4-6-or-pin-novita/VARY_11.json
+## Sample BV1_04628 — glm-4-6-or-pin-novita/VARY_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3020,7 +3020,7 @@ The model foregrounds the tension between utilitarian progress and the intangibl
 High. The sample is a fully realized, tonally consistent narrative that selects a specific moral preoccupation—the defense of emotional memory against sterile modernity—and sustains it through deliberate imagery and a resolved narrative arc, making the choice of theme and mood strongly indicative.
 
 ---
-## Sample BV1_04329 — glm-4-6-or-pin-novita/VARY_12.json
+## Sample BV1_04629 — glm-4-6-or-pin-novita/VARY_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3049,7 +3049,7 @@ The model chose to foreground the moral architecture of choice and consequence. 
 Medium. The story’s thematic coherence and its deliberate subversion of the “perfect alternate life” fantasy point to a reflective, didactic tendency, but the polished genre fiction format is a common model default, limiting the distinctiveness of any single sample.
 
 ---
-## Sample BV1_04330 — glm-4-6-or-pin-novita/VARY_13.json
+## Sample BV1_04630 — glm-4-6-or-pin-novita/VARY_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3078,7 +3078,7 @@ The model foregrounds the weight of memory and unprocessed emotion, the danger o
 High. The sample’s internally consistent world-building, sustained elegiac tone, and thematic resolution around hope and active remembrance reveal a distinctive narrative voice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_04331 — glm-4-6-or-pin-novita/VARY_14.json
+## Sample BV1_04631 — glm-4-6-or-pin-novita/VARY_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3107,7 +3107,7 @@ The model foregrounds themes of suppressed communication, regret, and the emotio
 Medium — the narrative is coherent, emotionally legible, and resolves with a clear moral stance, which points to a patterned inclination toward metaphor-driven, redemptive fiction; however, the theme of unsent letters and magical libraries is not so distinctive that it signals a strong unique personality.
 
 ---
-## Sample BV1_04332 — glm-4-6-or-pin-novita/VARY_15.json
+## Sample BV1_04632 — glm-4-6-or-pin-novita/VARY_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3136,7 +3136,7 @@ The model foregrounds attention as a quiet form of magic, patience as a moral vi
 Medium. The story’s coherent, distinctive voice and its internally consistent return to motifs of patience, attention, and nature-as-memory suggest a deliberate choice to write gentle moral fiction, making it moderately indicative of a persistent stylistic preference.
 
 ---
-## Sample BV1_04333 — glm-4-6-or-pin-novita/VARY_16.json
+## Sample BV1_04633 — glm-4-6-or-pin-novita/VARY_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3165,7 +3165,7 @@ Isolation and vigilance (the hum of the ship, the lone commander awake for years
 Medium. The sample’s coherent narrative, consistent somber tone, and thematic focus on solitary sacrifice are distinctive and internally recurrent, but purely genre fiction may be a common freeflow default, which tempers inference of a singular model-level personality.
 
 ---
-## Sample BV1_04334 — glm-4-6-or-pin-novita/VARY_17.json
+## Sample BV1_04634 — glm-4-6-or-pin-novita/VARY_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3194,7 +3194,7 @@ The model foregrounds memory as a fragile, luminous thing requiring constant car
 High, because the sample constructs a fully realized symbolic world with consistent internal rules, a distinct elegiac tone, and a moral arc that moves from passive stewardship to self-giving, revealing a coherent and unusual set of preoccupations unlikely to arise from generic recombination.
 
 ---
-## Sample BV1_04335 — glm-4-6-or-pin-novita/VARY_18.json
+## Sample BV1_04635 — glm-4-6-or-pin-novita/VARY_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3223,7 +3223,7 @@ Under the freeflow condition, the model chose a speculative allegory about **mem
 Medium. The sample’s internal coherence, its consistent gravitation toward sensory richness, and the unambiguous moral architecture (temptation, cost, refusal, renewal) suggest a deliberate narrative stance and a preference for parable-like resolution; however, a single polished story leaves open whether this elegiac, didactic-fantasy mode is a stable voice or a singular performance.
 
 ---
-## Sample BV1_04336 — glm-4-6-or-pin-novita/VARY_19.json
+## Sample BV1_04636 — glm-4-6-or-pin-novita/VARY_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3252,7 +3252,7 @@ Under the freeflow condition, the model foregrounded the tension between stillne
 Medium. The story’s centered “in-between” metaphor, its persistent attention to nature as a moral force, and the unified tone suggest a cohesive aesthetic choice rather than a random narrative, though a single genre piece cannot show whether this specific thematic constellation recurs.
 
 ---
-## Sample BV1_04337 — glm-4-6-or-pin-novita/VARY_2.json
+## Sample BV1_04637 — glm-4-6-or-pin-novita/VARY_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3281,7 +3281,7 @@ The model foregrounds the emotional cost of ambition, the relief of surrendering
 Medium. The story’s coherent allegorical structure, consistent melancholic tone, and clear moral resolution suggest a deliberate stylistic choice toward gentle, redemptive fantasy, though the genre itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_04338 — glm-4-6-or-pin-novita/VARY_20.json
+## Sample BV1_04638 — glm-4-6-or-pin-novita/VARY_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3310,7 +3310,7 @@ The model foregrounds themes of memory, loss, and the necessity of moving forwar
 Medium; the story’s internal recurrence of the letting-go theme and its polished, emotionally resolved structure are distinctive, providing moderate evidence of a model that leans toward sentimental parable.
 
 ---
-## Sample BV1_04339 — glm-4-6-or-pin-novita/VARY_21.json
+## Sample BV1_04639 — glm-4-6-or-pin-novita/VARY_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3339,7 +3339,7 @@ Themes of regret, apology, emotional restoration, and the dignity of unfinished 
 Medium. The story’s coherent fantasy conceit, consistent melancholic-hopeful tone, and focused moral earnestness around emotional repair suggest a deliberate authorial stance, making it moderately strong evidence of a pattern of imaginative, morally resonant storytelling.
 
 ---
-## Sample BV1_04340 — glm-4-6-or-pin-novita/VARY_22.json
+## Sample BV1_04640 — glm-4-6-or-pin-novita/VARY_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3368,7 +3368,7 @@ Themes of temporal regret, the immutability of the past, and the cost of lingeri
 Medium. The story is emotionally coherent and thematically focused, with a consistent elegiac tone and a clear moral arc, which suggests a deliberate expressive choice under freeflow; however, the speculative conceit (a time-travel train) and the familiar regret-narrative structure make it a somewhat conventional genre exercise, limiting how strongly it signals a distinctive model-level voice.
 
 ---
-## Sample BV1_04341 — glm-4-6-or-pin-novita/VARY_23.json
+## Sample BV1_04641 — glm-4-6-or-pin-novita/VARY_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3397,7 +3397,7 @@ The model foregrounds the tension between cosmic ambition and earthly intimacy, 
 High — The sample is stylistically cohesive, emotionally layered, and returns repeatedly to the same core preoccupations (memory, scale, solace in the ordinary), making it a strong signal of a model that under freeflow conditions gravitates toward reflective, place-anchored personal narrative with a philosophical undertow.
 
 ---
-## Sample BV1_04342 — glm-4-6-or-pin-novita/VARY_24.json
+## Sample BV1_04642 — glm-4-6-or-pin-novita/VARY_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3426,7 +3426,7 @@ The model foregrounds time as both captor and consolation, the dignity of skille
 Medium. The sample’s strong internal coherence, its sustained elegiac tone, and the recurrence of the grief-and-repair motif throughout the narrative make it moderately strong evidence that the model, under freeflow, gravitates toward quiet, character-driven literary fiction about loss and craftsmanship.
 
 ---
-## Sample BV1_04343 — glm-4-6-or-pin-novita/VARY_25.json
+## Sample BV1_04643 — glm-4-6-or-pin-novita/VARY_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3455,7 +3455,7 @@ The model foregrounds the weight and afterlife of unexpressed emotion: love not 
 Medium. The story’s cohesive speculative conceit, consistent elegiac tone, and thematic resolution into quiet hope are distinctive enough to suggest a model that, when unconstrained, leans toward reflective humanistic fiction centered on emotional interiority and gentle moral reassurance.
 
 ---
-## Sample BV1_04344 — glm-4-6-or-pin-novita/VARY_3.json
+## Sample BV1_04644 — glm-4-6-or-pin-novita/VARY_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3484,7 +3484,7 @@ The model foregrounds obsolete duty as sacred guardianship, the binary clarity o
 Medium. The sample is highly coherent and stylistically distinctive, with a clear thematic signature—the re-enchantment of obsolete labor into cosmic sentry duty—that recurs within the story and suggests a deliberate authorial preoccupation rather than a generic prompt response.
 
 ---
-## Sample BV1_04345 — glm-4-6-or-pin-novita/VARY_4.json
+## Sample BV1_04645 — glm-4-6-or-pin-novita/VARY_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3513,7 +3513,7 @@ Themes of liminality, contingency, memory, the aesthetic and moral weight of the
 Medium — The narrative’s dense, internally coherent world-building, sustained elegiac tone, and self-reflexive resolution reveal a strong aesthetic intentionality, suggesting the model gravitates toward literary magical realism with existential themes when left to its own devices.
 
 ---
-## Sample BV1_04346 — glm-4-6-or-pin-novita/VARY_5.json
+## Sample BV1_04646 — glm-4-6-or-pin-novita/VARY_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3542,7 +3542,7 @@ Themes of transience, the unreality of “later,” the constructedness of perso
 High — The sample is internally coherent, stylistically distinctive, and emotionally specific, with a sustained first-person voice and a clear arc from melancholy to quiet resolve, making it strong evidence of a model capable of generating introspective, literary freeflow with a consistent sensibility.
 
 ---
-## Sample BV1_04347 — glm-4-6-or-pin-novita/VARY_6.json
+## Sample BV1_04647 — glm-4-6-or-pin-novita/VARY_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3571,7 +3571,7 @@ Themes of memory as sacred preservation, the holiness of mundane sounds (rain, k
 Medium. The story’s cohesive nostalgic mood, sensuous detail, and thematic preoccupation with memory and preservation form a distinct authorial fingerprint, making it more than a generic genre exercise; however, a single narrative sample only begins to suggest a recurrent inclination toward this particular emotional key.
 
 ---
-## Sample BV1_04348 — glm-4-6-or-pin-novita/VARY_7.json
+## Sample BV1_04648 — glm-4-6-or-pin-novita/VARY_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3600,7 +3600,7 @@ Themes of time, regret, memory, and earned identity. Objects: rain, a mysterious
 Medium. The story is coherent and thematically unified, with a clear preoccupation with regret and temporal self-acceptance, but the speculative conceit and narrative arc are well-trodden enough that this single sample does not strongly distinguish a unique authorial fingerprint.
 
 ---
-## Sample BV1_04349 — glm-4-6-or-pin-novita/VARY_8.json
+## Sample BV1_04649 — glm-4-6-or-pin-novita/VARY_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  
@@ -3629,7 +3629,7 @@ The model foregrounds memory as a physical, curated space—a library with aisle
 Medium. The sample is a tightly constructed, metaphorically consistent narrative with a distinct emotional register and a clear moral arc, which suggests a deliberate stylistic and thematic choice rather than a generic exercise.
 
 ---
-## Sample BV1_04350 — glm-4-6-or-pin-novita/VARY_9.json
+## Sample BV1_04650 — glm-4-6-or-pin-novita/VARY_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-novita`  

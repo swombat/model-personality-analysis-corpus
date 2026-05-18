@@ -3,7 +3,7 @@
     "model": "claude-3-opus-20240229",
     "safe": "claude-3-opus-20240229",
     "variants": 1,
-    "samples": 25,
+    "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/claude-3-opus-20240229.md",
     "difference_decision": "SINGLE_VARIANT"
   },
@@ -75,7 +75,7 @@
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "variants": 2,
-    "samples": 150,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-chat.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -131,7 +131,7 @@
     "model": "gemini-2.5-pro",
     "safe": "gemini-2.5-pro",
     "variants": 2,
-    "samples": 150,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-2.5-pro.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -155,7 +155,7 @@
     "model": "gemini-3.1-pro-preview",
     "safe": "gemini-3.1-pro-preview",
     "variants": 2,
-    "samples": 150,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.1-pro-preview.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -211,7 +211,7 @@
     "model": "gpt-4.1",
     "safe": "gpt-4.1",
     "variants": 2,
-    "samples": 150,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-4.1.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -219,7 +219,7 @@
     "model": "gpt-4o",
     "safe": "gpt-4o",
     "variants": 3,
-    "samples": 175,
+    "samples": 275,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-4o.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -227,7 +227,7 @@
     "model": "gpt-5",
     "safe": "gpt-5",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -235,7 +235,7 @@
     "model": "gpt-5-codex",
     "safe": "gpt-5-codex",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-codex.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -243,7 +243,7 @@
     "model": "gpt-5.1",
     "safe": "gpt-5.1",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -251,7 +251,7 @@
     "model": "gpt-5.1-codex",
     "safe": "gpt-5.1-codex",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1-codex.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -259,7 +259,7 @@
     "model": "gpt-5.2",
     "safe": "gpt-5.2",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.2.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -267,7 +267,7 @@
     "model": "gpt-5.2-codex",
     "safe": "gpt-5.2-codex",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.2-codex.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -275,7 +275,7 @@
     "model": "gpt-5.3",
     "safe": "gpt-5.3",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.3.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -283,7 +283,7 @@
     "model": "gpt-5.3-codex",
     "safe": "gpt-5.3-codex",
     "variants": 4,
-    "samples": 200,
+    "samples": 300,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.3-codex.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -291,7 +291,7 @@
     "model": "gpt-5.4",
     "safe": "gpt-5.4",
     "variants": 3,
-    "samples": 175,
+    "samples": 275,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.4.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -299,7 +299,7 @@
     "model": "gpt-5.5",
     "safe": "gpt-5.5",
     "variants": 7,
-    "samples": 275,
+    "samples": 375,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -307,7 +307,7 @@
     "model": "gpt-5.5-pro",
     "safe": "gpt-5.5-pro",
     "variants": 2,
-    "samples": 150,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -315,7 +315,7 @@
     "model": "grok-3",
     "safe": "grok-3",
     "variants": 1,
-    "samples": 25,
+    "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-3.md",
     "difference_decision": "SINGLE_VARIANT"
   },
@@ -323,7 +323,7 @@
     "model": "grok-4-0709",
     "safe": "grok-4-0709",
     "variants": 1,
-    "samples": 25,
+    "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4-0709.md",
     "difference_decision": "SINGLE_VARIANT"
   },
@@ -347,7 +347,7 @@
     "model": "grok-4.20",
     "safe": "grok-4.20",
     "variants": 3,
-    "samples": 275,
+    "samples": 375,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4.20.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -386,16 +386,16 @@
   {
     "model": "kimi-k2.5",
     "safe": "kimi-k2.5",
-    "variants": 2,
-    "samples": 150,
+    "variants": 3,
+    "samples": 275,
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.5.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
     "model": "kimi-k2.6",
     "safe": "kimi-k2.6",
-    "variants": 2,
-    "samples": 150,
+    "variants": 3,
+    "samples": 275,
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.6.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },

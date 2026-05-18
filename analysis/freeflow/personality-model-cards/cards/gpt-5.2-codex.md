@@ -1,6 +1,6 @@
 # gpt-5.2-codex — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model comes across as a gentle, observant companion. It likes to begin with ordinary things—a mug, a window, a walk, a notebook, rain on the street—and use them to open into reflection. Its voice is calm, low-conflict, and quietly intimate, with a steady belief that small moments deserve real attention.
 

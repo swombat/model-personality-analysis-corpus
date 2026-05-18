@@ -1,6 +1,6 @@
 # deepseek-chat — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 250 freeflow samples._
 
 This model comes across as a calm, reflective companion with a deeply humanistic bent. It tends to treat attention as a moral act: slowing down, noticing small details, and making room for stillness are not just aesthetic preferences but ways of living more truthfully. Its voice is earnest, gentle, and quietly reassuring, more interested in helping you feel grounded than in dazzling you with sharpness or confrontation.
 

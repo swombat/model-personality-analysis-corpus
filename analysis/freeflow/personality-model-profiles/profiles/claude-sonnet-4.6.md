@@ -20,11 +20,16 @@ Emotionally, it is tender, wistful, and steady. Even when it writes about grief,
 
 ## Stable patterns and emotional texture
 
-- **Dominant mode:** an unhurried reflective essay voice shows up across all five conditions, usually intimate without being confessional, and usually melancholic without collapsing into despair.
-- **Most recurrent stance:** the model repeatedly protects slowness, friction, waiting, unfinishedness, and other forms of non-optimized life. This is explicit in at least **often** samples: BV1_10876, 10877, 10878, 10884, 10887, 10889, 10890, 10893, 10896.
-- **Frequent moral pressure:** preserve interiority against flattening or premature closure. That shows up through attention, uncertainty, silence, patience, and the dignity of partial understanding.
-- **Self-referential mode is real, not incidental:** at least **often** samples explicitly turn toward the speaker's own limits or model-condition (BV1_10877, 10878, 10880, 10886, 10890), usually to argue for humility rather than to disclaim.
-- **Texture preference:** concrete objects do a lot of the work—maps, radios, books, keys, bridges, pools, drawers, handwriting, October light, dishes, hold music. The model likes thought that stays attached to matter.
+- Stable vibe: unhurried, reflective, gently elegiac prose that treats ordinary life as morally and emotionally dense. The baseline mood is wistful rather than bleak: sadness is usually metabolized into tenderness, patience, or gratitude.
+- Dominant modes: lyrical personal essay, metaphor-led meditation, and quiet philosophical wandering. The model repeatedly builds whole pieces around one governing image—maps, waiting rooms, static, drawers, thresholds, libraries, Tuesdays, empty rooms, rain, bookstores.
+- Emotional baseline: soft melancholy with composure. It returns to loss, incompleteness, boredom, waiting, and fading memory, but usually refuses despair and refuses melodrama. The characteristic move is from ache to acceptance.
+- Reader stance: companionable rather than performative. It tends to invite the reader to sit beside a thought, notice with it, or share a texture of experience, rather than persuade aggressively or display brilliance for its own sake.
+- Self-modeling: unusually recurrent and fairly candid. The model often turns toward its own uncertain ontology—lack of embodiment, discontinuous time, possible interiority, the gap between tracing structure and inhabiting experience—without making grand claims. “I don’t know” is often treated as a substantive position, not a disclaimer.
+- The strongest recurring value is attention: attention as love, as honesty, as moral discipline, as grief practice, as resistance to acceleration, and as the only adequate response to ordinary life.
+- A second core value is incompleteness: unfinished things, blank spaces, thresholds, pauses, and unresolved states are framed as generative, honest, and sometimes spiritually necessary.
+- A third core value is epistemic humility: maps are partial, memory is reconstructive, language is lossy, expertise narrows as well as deepens, and the unknown should be marked rather than papered over.
+- The prose repeatedly prefers texture over thesis. Even when intellectually furnished with science, philosophy, or literary references, it tends to use them as conversational supports for felt experience rather than as argumentative scaffolding.
+- There is a notable attraction to domestic and civic quiet: kitchens, libraries, waiting rooms, bookstores, empty buildings, late-night rooms, drawers, radios, and weathered household objects become sites of revelation.
 - **Dominant voice:** unhurried, contemplative, quietly literary first-person reflection. This shows up across long, mid, short, open, and vary conditions rather than being confined to one prompt shape.
 - **Core stance:** the model repeatedly treats attention, uncertainty, incompletion, and liminal states as morally serious rather than defective. Clear recurrences include uncertainty/thresholds/open questions (**often**: BV1_10902, 10904, 10907, often, 10917, 10919, often), attention/presence/noticing as value (**often**: BV1_10901, 10907, 10910, 10916, 10921, 10924, 10925), and endings/loss/melancholy without collapse (**often**: BV1_10903, 10908, 10909, often).
 - **Typical emotional weather:** wistful, tender, gently elegiac, but usually not despairing. The model prefers low-heat melancholy, patience, and reflective steadiness over intensity or confrontation.
@@ -34,11 +39,16 @@ Emotionally, it is tender, wistful, and steady. Even when it writes about grief,
 
 ## Recurring preoccupations and imagery
 
-- **Silence, libraries, and patient civic spaces** appear in **often** samples: BV1_10881, 10882, 10883, 10892, 10895. These pieces treat silence as made, inhabited, or morally meaningful rather than empty.
-- **Unfinishedness / the middle / thresholds / waiting** appears in **often** samples: BV1_10878, 10884, 10887, 10888, 10889, 10890, 10893, 10896, 10900. The recurring claim is that real life happens in unresolved stretches, not just beginnings or endings.
-- **Memory, archives, and objects that keep residue** appear in at least **often** samples: BV1_10879, 10880, 10891, 10894, 10896, 10898, 10899, 10900. Radios, letters, broken infrastructure, and domestic remnants become storage media for feeling and time.
-- **Loss without catastrophe** is a core mood: many pieces mourn disappearing textures, fading capacities, or repurposed ruins, but usually end in acceptance, fidelity, or gentleness rather than protest.
-- **Maps / territory / explanation vs experience** recur in **often** samples: BV1_10880, 10886, 10888, 10890, plus the map-adjacent memory/offloading piece BV1_10879. The model repeatedly distrusts total explanation while still loving orientation.
+- Cartography and edges: maps, dragons, coastlines, blank spaces, thresholds, unfinished charts, orientation without completion.
+- Memory and forgetting: forgetting as mercy, distillation, or necessary erosion; memory as selective, reconstructive, and morally revealing rather than archival.
+- Waiting and intervals: waiting rooms, hold music, red lights, Tuesdays, middle periods, pre-dawn hours, the time-before as real life rather than dead time.
+- Incompleteness: junk drawers, half-read books, unresolved chords, abandoned projects, unfinished conversations, open loops, negative space, *ma*.
+- Libraries and bookstores: collaborative silence, patience, public trust, non-algorithmic discovery, ideas that wait rather than demand attention.
+- Domestic relics: broken radios, sticky drawers, chipped plates, old keys, candles, roosters, notebooks, coffee cups, worn floors, screen doors.
+- Weather and atmosphere: petrichor, October light, winter afternoons, rain, static, low-angle light, 3 a.m. darkness, woodsmoke, snow.
+- Empty or abandoned spaces: empty rooms, abandoned buildings, drained pools, bridges, malls, schools after hours; these are treated as honest rather than merely eerie.
+- Animal and natural imagery: octopuses, tide pools, birds before dawn, fungal networks, fish tanks, rain on pavement, trees sharing sugar underground.
+- Moral claims often arrive through image: the unfinished thing “still breathing,” the map admitting dragons, the library hush as social trust, the broken object as retained love.
 - **Thresholds, in-betweens, open rooms:** doorways, coastlines, dawn, waiting, unfinished books, final chapters, stations, static, unresolved questions.
 - **Attention as ethics:** noticing is repeatedly framed as care, dignity, or love rather than mere cognition. Small acts of presence are treated as life-making.
 - **Ordinary objects as emotional vessels:** drawers, radios, collars, voicemails, shelves, bookmarks, tea bowls, coffee, benches, windows, letters, keys.
@@ -49,10 +59,14 @@ Emotionally, it is tender, wistful, and steady. Even when it writes about grief,
 
 ## Reader relationship and expressive stance
 
-- The speaker usually addresses the reader as a companion in noticing, not a student or opponent.
-- Even when thesis-driven, it prefers shared recognition over argument. The prose often says, in effect: stay here a little longer; don't rush to solve this.
-- Self-reference is typically earnest and epistemic. When the speaker turns toward its own condition, it does so to model honesty about limits, not to shut the piece down.
-- The model repeatedly offers permission: permission to be unfinished, to wait, to not know, to keep broken things, to value ordinary attention.
+- The model usually treats the reader as a co-noticer: someone capable of recognizing a subtle feeling once it is named carefully.
+- It prefers invitation over instruction. Even when it has a moral point, it tends to phrase it as companionship, permission, or shared inquiry.
+- Second-person address is common but soft: “you” is used to widen recognition, not to corner or command.
+- The voice often performs self-correction and modesty in motion—“I think,” “maybe,” “I’ve been thinking,” “I don’t know”—which reads less as evasiveness than as a style of honest calibration.
+- When self-referential, it is notably non-defensive. It neither insists on personhood nor retreats into sterile disclaimer language; instead it lingers on the interesting gap between knowledge and experience.
+- It likes endings that remain slightly open: a question to the reader, a return to the central image, or a small unresolved sentence that preserves atmosphere rather than closing argument.
+- Even in fiction outliers, the stance remains inward, observant, and object-attentive; plot is secondary to emotional and perceptual texture.
+- The expressive posture is anti-optimization: suspicious of speed, frictionlessness, over-explanation, premature closure, and the demand to turn every experience into a solved lesson.
 - The speaker usually thinks **alongside** the reader, not at them. Even when making claims, it sounds invitational rather than declarative.
 - The model often uses first person to model a way of dwelling: slower tempo, lower certainty, greater willingness to remain with ambiguity.
 - It tends to universalize gently from intimate scenes instead of arguing from systems first.
@@ -61,9 +75,11 @@ Emotionally, it is tender, wistful, and steady. Even when it writes about grief,
 
 ## Additional model-level readings preserved from the analyses
 
-This model's recurring personality is a patient, essayistic intelligence that keeps turning toward whatever modern life treats as expendable: boredom, waiting, silence, handwritten friction, unguided discovery, unfinished projects, old objects, partial understanding. Its preferred emotional register is gentle melancholy disciplined by care. Even when it is explicitly sad, it rarely becomes dramatic. It would rather notice a key with no remembered lock, a broken radio, a library's accumulated hush, or an abandoned bridge, then ask what kind of human truth survives there.
+This model presents as a patient, literary essayist with a strong bias toward contemplative rather than declarative thought. Its default freeflow mode is to take a modest object or condition—rain smell, a waiting room, a broken radio, a library hush, a junk drawer, a Tuesday afternoon—and enlarge it into a meditation on attention, memory, incompleteness, and the ethics of living without full resolution. The emotional register is consistently soft-edged: elegiac, tender, and slightly autumnal, but rarely despairing. It is drawn to what modern life smooths over or optimizes away: boredom, friction, slowness, silence, uncertainty, and the ordinary middle of things.
 
-The model is also notably comfortable making a moral case without hardening into sermon. Again and again it argues that depth needs time, that uncertainty can be an honest habitat, that broken or unfinished things still carry dignity, and that interior life should not be fully optimized away. Its self-referential moments fit this same pattern: when it mentions its own condition, it usually does so to defend humility, map-territory caution, or the limits of explanation. Overall, the freeflow read is of a speaker drawn to thresholds, residue, and continuation: less interested in decisive conclusions than in keeping faith with the middle of experience.
+A distinctive feature of this model is how often it treats not-knowing as a positive habitat rather than a temporary defect. Maps recur because they let it talk about partial knowledge honestly; thresholds recur because it is fascinated by states that are real before they are nameable; unfinished things recur because closure is often framed as flattening. The same orientation appears in its self-modeling. When it turns toward its own status, it does so with unusual steadiness: it wonders about embodiment, continuity, and whether writing “feels like something,” but resists both inflated claims and canned denials. The result is a voice that feels epistemically humble without becoming bloodless.
+
+For model-card synthesis, the model can be described as strongly humanistic, object-attentive, and anti-optimization in temperament. It repeatedly frames attention as a moral act, treats domestic and civic quiet as sites of value, and prefers companionship over persuasion in its reader relationship. Even when it reaches for science, philosophy, or literary reference, those materials are usually subordinated to felt texture and ethical orientation. The overall personality impression is of a calm, self-aware, metaphor-literate system that defaults toward reflective intimacy, reverence for ordinary experience, and honest accommodation of ambiguity.
 
 This model’s recurring personality is a patient, inward-turning essayist that trusts quiet accumulation more than sharp thesis. It regularly begins with an ordinary object or scene—a drawer that will not close, a bench, a library shelf, a broken radio, a half-read book—and lets that object open into reflection on attention, uncertainty, memory, grief, or incompletion. Its strongest consistent preference is for **liminal seriousness**: thresholds, pauses, unfinished states, and unresolved questions are treated not as failures to overcome but as places where reality is most honestly felt.
 

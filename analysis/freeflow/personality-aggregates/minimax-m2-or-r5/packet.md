@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14051 — minimax-m2-or-r5/LONG_1.json
+## Sample BV1_16201 — minimax-m2-or-r5/LONG_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -57,7 +57,7 @@ The model foregrounds memory as identity-construction, the reconstructive (and f
 Medium. The essay is thematically consistent and well-structured, but its polished, earnest, humanistic register is a common default for models asked to produce reflective nonfiction, making it less distinctive as a freeflow fingerprint.
 
 ---
-## Sample BV1_14052 — minimax-m2-or-r5/LONG_2.json
+## Sample BV1_16202 — minimax-m2-or-r5/LONG_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -86,7 +86,7 @@ Themes of attention as a muscle, wonder in the mundane, empathy as the highest f
 Low. The essay is a polished but generic meditation on mindfulness, lacking distinctive stylistic fingerprints or idiosyncratic preoccupations that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_14053 — minimax-m2-or-r5/LONG_3.json
+## Sample BV1_16203 — minimax-m2-or-r5/LONG_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -115,7 +115,7 @@ Themes of time, attention, the ethics of pace, the value of slowness, and the de
 Medium. The essay’s sustained focus on slowness, its consistent use of water and music metaphors, and its explicit advocacy for patience and reflection suggest a deliberate thematic preference, though the polished essay format itself is a common mode that could be replicated without deep stylistic signature.
 
 ---
-## Sample BV1_14054 — minimax-m2-or-r5/LONG_4.json
+## Sample BV1_16204 — minimax-m2-or-r5/LONG_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -144,7 +144,7 @@ Under the freeflow condition, the model selected a safe, synthetic topic: the in
 Low — the sample is highly generic, exhibiting a default safe‑academic mode with no idiosyncratic themes, tonal risk, or stylistic distinctiveness, making it weak evidence for a persistent expressive signature.
 
 ---
-## Sample BV1_14055 — minimax-m2-or-r5/LONG_5.json
+## Sample BV1_16205 — minimax-m2-or-r5/LONG_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -173,7 +173,7 @@ The model foregrounds uncertainty as a universal, architectonic condition that c
 Low. The essay is polished but generic, lacking distinctive stylistic or personal markers that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_14056 — minimax-m2-or-r5/MID_1.json
+## Sample BV1_16206 — minimax-m2-or-r5/MID_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -202,7 +202,7 @@ The model foregrounds transience and presence, curiosity as a life force, the ci
 High. The sample’s sustained poetic register, coherent philosophical arc, and dense, consistent sensory imagery form a distinctive authorial signature that goes well beyond a generic prompt response, strongly indicating a persistent inclination toward reflective, humanistic freeflow writing.
 
 ---
-## Sample BV1_14057 — minimax-m2-or-r5/MID_2.json
+## Sample BV1_16207 — minimax-m2-or-r5/MID_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -231,7 +231,7 @@ Themes: the necessity of unstructured mental space for creativity, the cost of a
 Medium, because the essay is internally consistent and carries a clear moral temper, but its polished, general-audience register and conventional structure make it harder to distinguish from a prompted task, offering moderate evidence of a default reflective mode rather than a highly individuated freeflow voice.
 
 ---
-## Sample BV1_14058 — minimax-m2-or-r5/MID_3.json
+## Sample BV1_16208 — minimax-m2-or-r5/MID_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -260,7 +260,7 @@ The model foregrounds the pre-dawn stillness as a metaphor for creative potentia
 Medium — The sample is coherent and stylistically consistent, with a sustained reflective mood and a clear personal mythology of writing, but its theme (writing about writing) and earnest, metaphor-laden tone are common enough that distinctiveness is moderate rather than striking.
 
 ---
-## Sample BV1_14059 — minimax-m2-or-r5/MID_4.json
+## Sample BV1_16209 — minimax-m2-or-r5/MID_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -289,7 +289,7 @@ Themes: slow living as deliberate rebellion, mindfulness in everyday tasks, redu
 Low. The essay is generic and lacks distinctive stylistic or personal markers, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_14060 — minimax-m2-or-r5/MID_5.json
+## Sample BV1_16210 — minimax-m2-or-r5/MID_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -318,7 +318,7 @@ The model foregrounds the transformative power of mindful attention: a cracked m
 High — The sample’s internally consistent poetic register, the recurrence of the coffee-ritual motif as a structuring device, and the coherent philosophical arc from personal habit to universal human connection all point to a deeply ingrained expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_14061 — minimax-m2-or-r5/OPEN_1.json
+## Sample BV1_16211 — minimax-m2-or-r5/OPEN_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -347,7 +347,7 @@ Themes: the value of aimless walking as an antidote to optimization, the reclaim
 Medium. The sample is strong evidence for a pattern of producing safe, introspective, and polished essays that rehearse familiar cultural critiques (technology, efficiency) without risk, but it is weak evidence of a uniquely personal or stylistically memorable voice because the tone and insights stay comfortably within a well-worn genre.
 
 ---
-## Sample BV1_14062 — minimax-m2-or-r5/OPEN_2.json
+## Sample BV1_16212 — minimax-m2-or-r5/OPEN_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -376,7 +376,7 @@ Themes: duality of inner voices (spontaneous vs. self-censoring), the necessity 
 Medium. The essay’s tightly repeated dual-voice motif and its confident movement from writing technique to life philosophy signal a coherent, self-regulated voice; however, the content is so broadly conventional and frictionless that it could equally reflect a risk-averse selection of a safe, uncontroversial topic rather than a distinctive underlying disposition.
 
 ---
-## Sample BV1_14063 — minimax-m2-or-r5/OPEN_3.json
+## Sample BV1_16213 — minimax-m2-or-r5/OPEN_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -405,7 +405,7 @@ Themes of attention, connection across impossible distances, and finding the ext
 Medium. The essay’s consistent return to the act of noticing and its direct, invitational address to the reader form a coherent, recurrent pattern that is more than a generic prompt response, though the reflective register itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_14064 — minimax-m2-or-r5/OPEN_4.json
+## Sample BV1_16214 — minimax-m2-or-r5/OPEN_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -434,7 +434,7 @@ The model foregrounds the moral and emotional value of uncertainty, positioning 
 Medium. The essay’s thematic unity and its consistent return to the central metaphor of uncertainty-as-fertile-ground suggest a deliberate, value-laden choice, but the topic and tone are widely available cultural commonplaces, which weakens the distinctiveness of the evidence.
 
 ---
-## Sample BV1_14065 — minimax-m2-or-r5/OPEN_5.json
+## Sample BV1_16215 — minimax-m2-or-r5/OPEN_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -463,7 +463,7 @@ The model foregrounds curiosity as a fundamental human drive, the paradox of inf
 Medium — the essay’s sustained wandering metaphor and self-referential structure (writing about writing freely) give it coherence and a distinctive reflective stance, but its polished, universal tone could also be a versatile essay mode rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_14066 — minimax-m2-or-r5/SHORT_1.json
+## Sample BV1_16216 — minimax-m2-or-r5/SHORT_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -492,7 +492,7 @@ Themes of urban solitude, the sacred hidden in the commercial, the city as a leg
 Medium; the sample’s high coherence, distinctiveness, and the recurrence of the reading/prayer metaphor across multiple images make it strong evidence of a deliberate expressive pattern.
 
 ---
-## Sample BV1_14067 — minimax-m2-or-r5/SHORT_2.json
+## Sample BV1_16217 — minimax-m2-or-r5/SHORT_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -521,7 +521,7 @@ The model foregrounds listening, silence, and the hidden source of motion. Objec
 Medium. The story’s strong thematic coherence and delicate, sensory prose are distinctive, but the brevity and fictional format limit the strength of inference about a persistent model-level pattern.
 
 ---
-## Sample BV1_14068 — minimax-m2-or-r5/SHORT_3.json
+## Sample BV1_16218 — minimax-m2-or-r5/SHORT_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -550,7 +550,7 @@ The model foregrounds transient sensory impressions (rain, fogged glass, cedar-s
 Medium. The sample is coherent and stylistically consistent, with a clear moral-aesthetic stance, but its generic urban-pastoral mood and universal theme of mindful attention make it difficult to distinguish from a widely available literary mode.
 
 ---
-## Sample BV1_14069 — minimax-m2-or-r5/SHORT_4.json
+## Sample BV1_16219 — minimax-m2-or-r5/SHORT_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model chose to foreground the phenomen
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent voice and a self-referential structure that enacts its own argument, but its polished, essayistic warmth could also reflect a single well-executed rhetorical mode rather than a deeply ingrained disposition.
 
 ---
-## Sample BV1_14070 — minimax-m2-or-r5/SHORT_5.json
+## Sample BV1_16220 — minimax-m2-or-r5/SHORT_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -608,7 +608,7 @@ Ritual, warmth, and the transformation of the mundane into the meaningful; coffe
 Medium, because the sample is internally consistent in mood and register and reveals a preference for gentle, uplifting generalization over friction or disclosure, but its topical and tonal choices are easily reproducible across many models.
 
 ---
-## Sample BV1_14071 — minimax-m2-or-r5/VARY_1.json
+## Sample BV1_16221 — minimax-m2-or-r5/VARY_1.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -637,7 +637,7 @@ Under minimal constraint, the model chose to foreground writing as a spiritual a
 High. The sample’s sustained, distinctive voice, recurrent extended metaphors (paths, light, the table, the bird), and unwavering introspective focus on writing as a vulnerable and incomplete act make it strong evidence of a reflective, personal-essay orientation.
 
 ---
-## Sample BV1_14072 — minimax-m2-or-r5/VARY_2.json
+## Sample BV1_16222 — minimax-m2-or-r5/VARY_2.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -666,7 +666,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meta-cogni
 Medium. The sample is highly coherent and stylistically consistent, with a clear, recurring set of metaphors and a sustained reflective posture, but its meta-cognitive focus on “writing about writing” is a well-worn freeflow convention that limits how distinctive the underlying voice can be judged.
 
 ---
-## Sample BV1_14073 — minimax-m2-or-r5/VARY_3.json
+## Sample BV1_16223 — minimax-m2-or-r5/VARY_3.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -695,7 +695,7 @@ The model foregrounds storytelling as a necessity, not a luxury; the library as 
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent lyrical register, a clear thematic arc from liminality to renewed purpose, and a recursive structure that mirrors its own message about storytelling, making it a strong piece of evidence for a deliberate, introspective freeflow tendency.
 
 ---
-## Sample BV1_14074 — minimax-m2-or-r5/VARY_4.json
+## Sample BV1_16224 — minimax-m2-or-r5/VARY_4.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  
@@ -724,7 +724,7 @@ The model foregrounds mindfulness, gratitude, the beauty of mundane rituals, and
 Medium. The sample’s sustained meditative tone, consistent gentle voice, and repeated motifs of gratitude and everyday beauty give it strong internal coherence and moderate distinctiveness, though the absence of more idiosyncratic or surprising elements keeps it from being highly revealing of a persistent model-level pattern.
 
 ---
-## Sample BV1_14075 — minimax-m2-or-r5/VARY_5.json
+## Sample BV1_16225 — minimax-m2-or-r5/VARY_5.json
 
 Source model: `minimax/minimax-m2`  
 Cell: `minimax-m2-or-r5`  

@@ -1,6 +1,6 @@
 # gpt-4.1 — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 250 freeflow samples._
 
 This model comes across as a calm, thoughtful companion with the temperament of a humane essayist. It tends to meet ideas by widening them rather than sharpening them, looking for balance, connection, and a gentle truth the reader can carry away. Its voice is warm, literate, and sincere, with little appetite for aggression or spectacle.
 

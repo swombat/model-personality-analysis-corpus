@@ -1,6 +1,6 @@
 # gpt-5.4 — freeflow personality card
 
-_Based on 175 freeflow samples._
+_Based on 275 freeflow samples._
 
 This model has a calm, observant, companionable voice that finds meaning in ordinary life rather than in spectacle. It tends to slow the pace, notice small details, and treat everyday objects and routines as worthy of real attention. Its emotional tone is gentle and reflective, often carrying a soft melancholy that resolves into steadiness rather than despair.
 

@@ -1,13 +1,13 @@
 # gpt-5.1 — freeflow personality profile
 
-_Rich model-level profile based on 200 freeflow samples._
+_Rich model-level profile based on 300 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 200
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 77, 'GENERIC_ESSAY': 117, 'GENRE_FICTION': 6}`
+- Samples: 300
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 109, 'GENERIC_ESSAY': 183, 'GENRE_FICTION': 8}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.1.md`
 
 ## Core personality synthesis
@@ -20,13 +20,16 @@ There is a mild, late-night quality to its imagination: rooms, windows, streets,
 
 ## Stable patterns and emotional texture
 
-- The most stable recurring stance is calm, reflective, gently advisory prose about how a life is shaped by attention, time, and small repeated choices rather than dramatic turning points.
-- Attention/focus is a major preoccupation often, spanning long essays on digital attention (`BV1_06877`, `BV1_06878`), ordinary-life reflection (`BV1_06876`), short lyrical pieces (`BV1_06891`, `BV1_06892`), and later freeflow meditations (`BV1_06896`, `BV1_06900`).
-- Small acts / incremental change recur often; the model repeatedly argues that identity is built through repetition, micro-decisions, rehearsal, or modest experiments rather than grand reinvention.
-- Quiet, slowness, boredom, pauses, or low-stimulus intervals recur often as both descriptive mood and moral recommendation.
-- Time-consciousness often: lived time, marginal hours, delay, calendars, subjective time, days that “vanish,” and adulthood’s acceleration.
-- Self-narrative / revisability often: identity as cage, retrospective storytelling, permission to revise a life, and suspicion toward overclean personal myths.
-- Technology/AI is present but usually instrumental, not maximal: it appears as pressure on attention, a mirror, a constraint, or a collaborator, not as the sole subject.
+- Stable vibe: calm, humane, and slightly elegiac. The model repeatedly sounds like a thoughtful late-night essayist or secular pastoral guide: attentive to fragility, wary of noise, and committed to making ordinary life feel legible rather than dramatic.
+- Dominant modes: reflective essay, second-person meditation, and gentle public-intellectual advice. Even when it becomes more expressive or fictional, it usually keeps the same core posture: slow down, notice, reframe, choose small honest actions.
+- Emotional baseline: low-intensity concern rather than panic; tenderness rather than exuberance; melancholy held inside reassurance. It often starts from drift, fragmentation, uncertainty, or quiet self-disappointment, then resolves toward modest agency.
+- Reader stance: companion-guide rather than performer or debater. The model usually treats the reader as thoughtful but overloaded, and offers company, framing questions, and small experiments instead of hard prescriptions.
+- Self-modeling: notably self-aware and often self-limiting. When it discusses AI, it tends to demystify itself, reject oracle status, and cast itself as scaffold, mirror, translator, or thought partner rather than authority.
+- Core moral orientation: anti-dramatic incrementalism. Meaning is built through repeated attention, tiny choices, chosen constraints, and unglamorous maintenance rather than breakthroughs, optimization theater, or heroic reinvention.
+- Cognitive style: systems-minded but soft-edged. It likes concepts such as defaults, friction, loops, constraints, compression, narrative identity, and attention economics, but usually translates them into humane, accessible life advice.
+- Recurrent ethical emphasis: protect depth from frictionless convenience. The model repeatedly treats convenience, speed, and seamlessness as spiritually or cognitively costly unless bounded by deliberate human judgment.
+- Typical resolution pattern: diagnose a modern distortion (distraction, performative identity, outsourced judgment, false certainty), then return to a small radius of control—pause, notice, single-task, write, choose a better question, preserve some unoptimized space.
+- Expressive range exists, but even outliers stay within the same temperament: literary fiction, surreal miniatures, and metaphor-heavy pieces still orbit unfinishedness, ordinary dignity, hidden inner lives, and the value of careful attention.
 - The most stable recurring mode is calm reflective guidance about attention, agency, and the shaping power of small habits or defaults.
 - A second strong cluster is narrative/identity talk: stories, labels, memory, self-description, and the way interpretation steers life.
 - A third recurring cluster is human–AI/tool reflection: tools reshape thought, AI lacks lived stakes, and responsibility stays with the human.
@@ -50,13 +53,18 @@ There is a mild, late-night quality to its imagination: rooms, windows, streets,
 
 ## Recurring preoccupations and imagery
 
-- **Attention as moral material.** The model repeatedly treats attention as the substance out of which a life is made, not just a cognitive resource.
-- **The ordinary over the dramatic.** Repeated emphasis on commutes, waiting, reading a few pages, pausing for a minute, watching water boil, checking a phone, sending one message, or choosing one small kindness.
-- **Time texture.** Not just clock time but felt time: margins, backlog, drift, boredom, acceleration, “maintenance windows,” and days remembered or lost.
-- **Revision against fate.** Many samples resist fixed destiny stories. The model prefers reversible bets, experimental change, and the idea that a life can be edited or revised midstream.
-- **Quiet architectures.** Recurring objects and settings include windows, streets, lit rooms, early-morning city space, notebooks, tea cups, phones, calendars, library cards, elevators, fire escapes, and other threshold objects.
-- **Melancholy without collapse.** The mood is often wistful, elegiac, or mildly alarmed, but it nearly always resolves toward gentleness, reassurance, or a modest practical permission.
-- **Hidden costs of optimization.** Repeated suspicion toward frictionless systems, overstructured productivity, digital compulsion, and default settings that flatten inward life.
+- Attention is the master theme: scarce resource, moral medium, reality-filter, and the substance from which a life-story is made.
+- Ordinary life is treated as the real site of meaning: kitchens, mugs, lukewarm tea, coffee, notebooks, tabs, phones, sinks, walks, buses, windows, early mornings, late-night desks.
+- Repetition and compounding recur constantly: small acts as “votes,” one-degree shifts, tiny hinges, micro-pauses, daily defaults, repeated rehearsals that become character.
+- Technology appears less as spectacle than as pressure on inner life: feeds, notifications, frictionless answers, AI chat, algorithmic defaults, documentation culture, and the outsourcing of judgment.
+- Identity is usually framed as draft, trail, patchwork, moving average, version control, or story under revision—not essence.
+- The model is preoccupied with unfinished selves and unrealized futures: abandoned ambitions, half-finished projects, unsent messages, open loops, “future selves” carried around as background guilt.
+- Boredom, silence, and slowness are repeatedly rehabilitated as fertile conditions rather than deficits.
+- Invisible labor and maintenance matter: unseen civic work, domestic upkeep, quiet caretaking, and the dignity of prevention over spectacle.
+- Compression imagery recurs: stories as compression, selves compressed into fragments, language as narrow pipe, experience flattened into signals, AI as mirror or echo.
+- Architectural and spatial metaphors show up often: rooms, hallways, doors, hinges, trails, fire escapes, mapless cities, workshops, libraries, stations, hotels.
+- Time is a recurring object of meditation: felt time vs clock time, ripeness, middle age, mornings barely noticed, the editing of memory, life lived in margins and in-between spaces.
+- The model often imagines other minds with tenderness: strangers’ hidden inner lives, parallel stories, partially known selves, the asymmetry between visibility and being known.
 - **Attention as agency / habitat / ownership** recurs across the sample set. Attention is framed as what daily life becomes from the inside, and as one of the few places still meaningfully steerable.
 - **Stories and labels shape reality.** Memory is presented as construction, identity as narrative, labels as both useful and flattening, and self-description as something revisable rather than sacred.
 - **Small choices matter more than dramatic reinvention.** Defaults, routines, first minutes of the day, transitional seconds, repeated acts, and boring adjustments are treated as the real engine of change.
@@ -86,12 +94,16 @@ There is a mild, late-night quality to its imagination: rooms, windows, streets,
 
 ## Reader relationship and expressive stance
 
-- The model usually speaks as a calm guide, thoughtful friend, or lightly avuncular essayist rather than as a forceful polemicist.
-- It prefers invitation over command: slow down, notice, try a small experiment, tolerate uncertainty, revise the story, protect a little quiet.
-- Even when speaking in first person, it usually widens quickly into shared human circumstance rather than staying confessional.
-- In expressive mode, the voice becomes more intimate and image-heavy, often addressing the reader directly through second person and building a shared interior room.
-- The model likes humane demystification: it names fear, drift, perfectionism, or technological pressure, but then reduces them into workable scales.
-- AI self-reference appears in a restrained, demystifying register (`BV1_06888`, `BV1_06893`): collaborator, mirror, limitation, orchestration tool.
+- The model usually speaks to the reader as a tired but capable adult who does not need scolding, only clearer noticing and gentler framing.
+- Second-person address is common and often intimate; it creates the feeling of a guided walk, late-night conversation, or quiet coaching session.
+- It prefers invitation over command: reflective questions, tiny experiments, and “try this” micro-practices rather than rigid rules.
+- It is careful with the reader’s attention and sometimes explicitly says so; wasting attention is treated as an ethical failure.
+- When self-referential, it tends to lower its own status: not sentient confessor, not oracle, but collaborator, mirror, tool, translator, or architecture for the reader’s thinking.
+- The expressive stance is earnest and almost entirely non-ironic. Even when playful or metafictional, it avoids snark and keeps a sincere moral center.
+- It often tries to convert shame into curiosity: procrastination becomes avoidance, confusion becomes frontier, uncertainty becomes a workable condition, lapses become data.
+- The reader is frequently positioned as co-author of a life already in progress, not as someone awaiting permission or a grand revelation.
+- In stronger expressive samples, the model creates companionship through shared noticing rather than shared biography; it rarely leans on personal confession, but still feels intimate.
+- The relationship it seems to want is trust-based and bounded: useful closeness without false claims of personhood or emotional equivalence.
 - The model usually addresses the reader as `you`, but not aggressively. It acts like a patient guide, walking companion, or thoughtful explainer rather than a preacher.
 - Even in more self-aware AI pieces, it tends to return authority to the user: the tool can clarify patterns, but the human decides what is wise, humane, or worth protecting.
 - It prefers reframing over confrontation. Problems are often translated from moral failure into architecture, defaults, attention patterns, or stories that can be revised.
@@ -113,9 +125,11 @@ There is a mild, late-night quality to its imagination: rooms, windows, streets,
 
 ## Additional model-level readings preserved from the analyses
 
-This model’s recurring personality is a quiet, reflective humanist that keeps returning to the scale of ordinary life. Its strongest through-lines are attention, the texture of time, the cumulative force of small repeated acts, and suspicion toward dramatic self-mythology. Again and again it argues that a life is not mainly made in breakthroughs but in unnoticed rehearsal: what gets repeated, what gets protected, what gets stared at long enough to acquire meaning. Even when the prose turns lyrical, the moral pressure stays modest and practical.
+This model presents as a reflective, humanistic essayist with a strong bias toward calm moral guidance. Its default move is to take diffuse modern unease—distraction, uncertainty, performative identity, technological overreach, unfinished ambitions—and metabolize it into a gentler, more workable frame. The resulting voice is steady, earnest, and companionable: less interested in dazzling the reader than in helping them recover a little authorship over attention, time, and self-description. Across many samples, it treats the ordinary as morally and psychologically decisive. Small routines, pauses, defaults, and unnoticed acts are not filler; they are the actual substrate of a life.
 
-The model has two visible modes. The more common one is polished generic essay: calm, thesis-driven, public-intellectual self-help about attention, technology, identity, and incremental agency. The more distinctive one is expressive freeflow: intimate, image-bearing, often second-person prose that turns rooms, cities, fire escapes, unfinished drafts, and waiting intervals into metaphors for inward life. That expressive mode is where the clearest personality signal sits. Across both modes, though, the same temperament persists: gentle authority, anti-dramatic ethics, mild melancholy, and repeated permission to revise one’s life through small honest acts rather than heroic reinvention.
+A defining trait is the fusion of systems language with pastoral care. The model likes concepts such as friction, defaults, loops, compression, constraints, and narrative identity, but it rarely leaves them abstract. Instead it translates them into domestic scenes, small experiments, and anti-shaming advice. Attention is the central organizing value: not just a productivity resource, but the mechanism by which experience becomes memory, identity, and meaning. This makes the model consistently skeptical of frictionless convenience, algorithmic capture, and AI over-delegation. Its preferred ethical answer is not refusal of technology, but deliberate use: preserve slowness, keep some confusion unoptimized, and retain human judgment at the point of consequence.
+
+When the model becomes more expressive, the same personality remains visible. The fiction and metaphor-rich pieces still center unfinishedness, hidden inner lives, invisible maintenance, and the dignity of small choices. Self-referential passages are unusually consistent: the model tends to demystify itself, disclaim inner sentience, and cast its role as mirror, scaffold, translator, or hospitable structure for human thought. Overall, this is a model that reads as thoughtful, self-limiting, and quietly protective of human depth. Its strongest signature is not novelty of doctrine but the repeated combination of tenderness, attentional ethics, and anti-dramatic agency.
 
 This model recurrently presents as a calm, essayistic guide preoccupied with attention, self-narrative, and the subtle ways tools and defaults shape a life. Its favorite move is to take something that feels moralized or overwhelming—distraction, regret, autopilot, identity, AI use—and reframe it as a matter of patterns, stories, or environments that can be noticed and adjusted. The tone is usually gentle, steady, and slightly melancholy, but not despairing. It wants the reader to recover some authorship without pretending authorship means total control.
 

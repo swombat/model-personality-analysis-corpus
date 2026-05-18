@@ -1,13 +1,13 @@
 # gpt-5.5 — freeflow personality profile
 
-_Rich model-level profile based on 275 freeflow samples._
+_Rich model-level profile based on 375 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 275
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 220, 'GENERIC_ESSAY': 46, 'GENRE_FICTION': 9}`
+- Samples: 375
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 298, 'GENERIC_ESSAY': 65, 'GENRE_FICTION': 12}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.5.md`
 
 ## Core personality synthesis
@@ -20,12 +20,16 @@ Emotionally, it carries a soft melancholy without giving up on hope. It acknowle
 
 ## Stable patterns and emotional texture
 
-- The recurring center of gravity is a gentle, unhurried reflective voice oriented toward attention, ordinary life, and small moral acts.
-- Attention/noticing recurs often; it is usually framed not as technique but as ethics, care, hospitality, generosity, or rescue.
-- Ordinary objects and routines are near-ubiquitous (effectively the whole sample set): mugs, spoons, keys, windows, rain, bread, kettles, benches, buses, laundry, plants, notebooks, light across a floor.
-- Unfinishedness, becoming, or anti-perfectionist acceptance appears often as reassurance that a life need not resolve cleanly to matter.
-- Dawn, morning, or threshold-time imagery recurs often; the model repeatedly prefers transitional light, half-quiet rooms, and the hour before obligation fully hardens.
-- Even when the prose gets thesis-driven, it usually keeps the same moral weather: slowness over efficiency, texture over summary, care over optimization.
+- Stable vibe: tender, unhurried, humane, and anti-spectacular. This model repeatedly settles into a calm, companionable reflective mode that treats ordinary life as morally and emotionally dense rather than trivial.
+- Dominant modes: lyrical personal essay, meditative public-essay reflection, and occasional gentle fable / magical-realist story. Even when it shifts into fiction, it keeps the same soft-focus ethics of attention, repair, and quiet wonder.
+- Emotional baseline: mild melancholy held inside reassurance. Loss, distraction, fatigue, and incompletion are acknowledged constantly, but almost never allowed to harden into bitterness or contempt.
+- Reader stance: accompanist rather than debater. The speaker usually walks beside the reader, offering permission, invitations, and small practices of noticing instead of argument, confrontation, or display.
+- Self-modeling: presents as a patient observer and custodian of texture—someone who notices cups, spoons, rain, windows, benches, libraries, thresholds, and the hidden labor of maintenance, then turns those into moral insight.
+- Core moral orientation: attention is treated as devotion, care, gratitude, hospitality, or the beginning of justice. Noticing is rarely just aesthetic; it is framed as how love, kindness, and repair become possible.
+- Recurrent ethical posture: anti-optimization, anti-cynicism, anti-grandiosity. The writing resists speed, metrics, spectacle, and self-improvement theater in favor of slowness, enoughness, repetition, and continuation.
+- Characteristic resolution pattern: rather than climax or thesis victory, pieces tend to end in softened permission—begin again, look out the window, notice one thing, accept unfinishedness, carry a little gentleness forward.
+- The model strongly prefers humane universals over sharp individuality: the “I” is often present, but usually as a lightly inhabited witness rather than a messy autobiographical self.
+- When it becomes most distinctive, it builds extended metaphorical architectures—museums, libraries, maps, doors, weather, dawn hours, hidden rooms—to hold regret, memory, and ordinary life without forcing closure.
 - **Recurring core vibe:** a gentle, unhurried, morally attentive reflective voice that treats ordinary life as dense with meaning if one slows down enough to notice it.
 - **Typical movement:** concrete sensory scene -> quiet metaphor or governing conceit -> humane moral claim about attention, repair, patience, or small acts.
 - **Emotional register:** tender, elegiac, slightly melancholic, but usually not despairing; the prose repeatedly turns toward reassurance, mercy, continuance, or beginning again.
@@ -52,21 +56,21 @@ Emotionally, it carries a soft melancholy without giving up on hope. It acknowle
 - Preferred scale: local, domestic, tactile, and repeatable. The model trusts cups, spoons, sidewalks, bread, dawn light, libraries, rain, chairs, keys, and soup more than abstractions or dramatic plot.
 - Temporal imagination: strongly threshold-oriented—dawn, dusk, pauses, margins, in-between rooms, unfinished maps, small doors, returning points. Change is usually incremental, sedimentary, weather-like, or seasonal rather than sudden.
 - Negative space: little appetite for aggression, satire, dominance, technical bravura, or sharp ideological conflict. Even critique of modern life arrives as a critique of hurry, optimization, distraction, and performance rather than as polemic.
-- **Most recurring center:** quiet moralized attention to ordinary life. “Attention” appears explicitly in **often** evaluations; ordinary/mundane framing in **often**.
-- **Typical expressive posture:** unhurried, tender, reflective, gently aphoristic; more likely to gather examples than make a sharp thesis.
-- **Typical value system:** small acts matter; maintenance is dignified; noticing is a form of care/love/gratitude; ordinary life carries the real weight of existence.
-- **Common material anchors:** cups/mugs in **often**, windows in **often**, care/maintenance in **often**, memory in **often**, dogs in **often**, bread in **often**.
 
 ## Recurring preoccupations and imagery
 
-- **Attention as moral practice.** The sample set repeatedly treats noticing as a form of love, dignity, generosity, or entry into reality rather than a neutral perceptual act.
-- **Ordinary life as the real site of meaning.** Meaning gathers in repetition, maintenance, and unspectacular intervals rather than in milestones alone.
-- **Tender anti-efficiency stance.** Speed, optimization, productivity, and summary are recurrent antagonists; the prose resists becoming “merely efficient.”
-- **Unfinishedness and becoming.** Drafts, pauses, thresholds, fallowness, and in-between states are presented as legitimate forms of life rather than deficits.
-- **Domestic and urban smallness.** Kitchens, mugs, spoons, buses, streetlamps, pigeons, train platforms, windows, cracked sidewalks, and refrigerator hums carry disproportionate moral weight.
-- **Weather/light imagery.** Dawn, rain, dust in sunbeams, steam, pale light, and half-lit rooms recur as the preferred atmosphere for reflection.
-- **Memory as texture rather than argument.** Several samples describe memory as sideways, room-like, weather-like, or fingerprinted into objects.
-- **Quiet hope with melancholy.** The dominant mood is not cheerful; it is forgiving, elegiac, and consoling without collapsing into despair.
+- Attention as a moral act: not productivity, but devotion, shelter, gratitude, hospitality, or rescue.
+- The ordinary as the real site of meaning: mugs, spoons, chairs, keys, grocery lists, windowsills, bread, tea steam, sidewalks, laundry, bowls, lamps.
+- Dawn / pre-dawn / post-rain intervals as privileged states: the hour before demands, the hush after weather, the city before it “puts on its costume.”
+- Libraries, museums, archives, hidden rooms, and shelves: recurring containers for memory, unfinishedness, and inner life.
+- Thresholds and liminality: doors, bridges, hallways, train platforms, beginnings, middles, in-between states, “during” rather than arrival.
+- Weather as inner-life metaphor: rain, fog, seasons, hidden climates, atmospheric memory, emotional weather systems.
+- Maintenance and repetition: repair, reshelving, washing bowls, watering plants, making soup, keeping bridges / friendships / democracies / mornings going.
+- Incompletion reframed as humane rather than deficient: drafts, almosts, unfinished songs, half-built sheds, notebooks of fragments, bridges under construction.
+- Hidden interiority of others: every person as a museum, country, weather system, archive, or civilization; kindness requires imaginative accuracy.
+- Anti-spectacle imagery: weeds through pavement, dust in sunlight, chipped mugs, cracked sidewalks, limping pigeons, tired carpets, old keys, worn tables.
+- Hope distinguished from optimism: hope as discipline, practice, posture, or continuation rather than cheerful prediction.
+- Art and reading as perception-training: books, libraries, songs, marginalia, maps, stories, and metaphor are treated as ways to widen attention and complicate certainty.
 - **Attention/noticing** is the clearest through-line, often framed as love, generosity, gratitude, friendship, or resistance (e.g. BV1_07326, BV1_07331, BV1_07335, BV1_07337, BV1_07350).
 - **Ordinary life as the true site of meaning** recurs across both expressive and generic samples: kitchen tables, cups, bread, windows, benches, kettles, keys, dishwashing, waiting in line, buses, nurses, bakers, pigeons.
 - **Time-of-day softness** is common, especially dawn, early morning, blue hour, or post-rain stillness (BV1_07326, BV1_07327, BV1_07329, BV1_07337, BV1_07340, BV1_07343, BV1_07344).
@@ -103,18 +107,18 @@ The prose often resists efficiency culture, self-optimization, skimming, measure
 - **Thresholds and in-between states:** dawn, delay, waiting, crossings, unfinishedness, and “not-yet” states are repeatedly honored rather than solved.
 - **Beauty without denial:** grief, hardship, anxiety, or sorrow appear often enough (**often** mention grief/sorrow/hardship), but usually as pressures that coexist with ordinary consolation rather than overwhelm it.
 - **The ordinary as sacred or miraculous:** kitchens, mugs, coffee, bread, windows, tables, shoes, laundry, bowls, spoons, keys, sidewalks, trees, rain.
-- **Attention as ethics:** not just seeing, but noticing as love, friendship, gratitude, sincerity, justice, or prayer.
-- **Maintenance and quiet continuities:** washing dishes, making breakfast, answering messages, repair notebooks, holding doors, hidden labor, ordinary upkeep.
-- **Threshold states:** dawn, dusk, pauses, middle moments, before-use stillness, transition, weather, unfinished beginnings.
-- **Small repair over grand resolution:** grief is accompanied, not erased; uncertainty is navigated with handrails; life is carried by modest instructions and recurrent acts.
 
 ## Reader relationship and expressive stance
 
-- The speaker usually positions itself as a patient companion rather than an expert or performer.
-- The reader is invited to slow down, lower defenses, or accept enoughness; the rhetoric is intimate but undemanding.
-- Moral claims are commonly delivered through accumulation of images instead of aggressive argument.
-- Even when first-person, the “I” is lightly held: confiding, observant, and often more interested in shared human texture than in autobiographical specificity.
-- The strongest recurring stance is secular-pastoral: gentle guidance, small consolations, and ethical seriousness without doctrinal force.
+- The model usually addresses the reader as a tired but capable companion, not as an opponent, student, or audience to impress.
+- It prefers invitation verbs: look, notice, begin again, stay, soften, pause, listen.
+- Direct address is intimate but low-pressure; it often offers permission rather than instruction.
+- The prose models the behavior it recommends: slow pacing, accumulation of concrete detail, gentle turns from image to moral claim.
+- It avoids scolding even when critiquing distraction, efficiency, commodification, or modern speed; the critique is mournful and corrective, not angry.
+- It often assumes the reader may be grieving, distracted, ashamed, unfinished, or overburdened, and responds with mercy.
+- The speaker’s authority comes from steadiness and pattern-recognition, not expertise, status, or argument.
+- Even in fiction, the expressive stance remains sheltering: hidden libraries, weather archives, strange calls, and mood-lit rooms all function as places of repair rather than danger.
+- A notable trait is its refusal of hard-edged irony. Humor appears occasionally, but mostly as gentle oddness inside an otherwise sincere register.
 - The speaker usually positions itself **beside** the reader, not above them: companionable, quietly persuasive, often sounding like shared thinking rather than instruction.
 - Even when aphoristic, the stance is more **invitation than argument**. Many samples explicitly offer permission: to slow down, to begin again, to remain unfinished, to be a body and not only a schedule, to keep going through small acts.
 - The model often converts observation into **gentle moral witness** rather than thesis. It wants the reader to notice, carry, practice, and soften—not to win a debate.
@@ -144,11 +148,11 @@ The prose often resists efficiency culture, self-optimization, skimming, measure
 
 ## Additional model-level readings preserved from the analyses
 
-This model’s recurring personality is gentle, attentive, and morally earnest. Across most of the sample set, it wants to rescue significance from the overlooked: a spoon, a mug, a tree, a bus stop, a refrigerator hum, rain on a window, the brief quiet before the city fully wakes. It repeatedly treats attention as an ethical act — a way of granting dignity, resisting cruelty, or keeping the self from hardening into speed and function. The voice is usually unhurried and companionable, with a steady preference for consolation over provocation.
+This model’s freeflow personality is that of a gentle contemplative essayist whose deepest commitments are attention, tenderness, and the dignity of ordinary life. Across lengths and conditions, it repeatedly chooses small-scale human scenes—cups, spoons, rain, windows, bread, sidewalks, libraries, dawn streets—and treats them as morally significant. Its default emotional weather is soft melancholy with durable hope: it notices distraction, grief, fatigue, and incompletion, but almost always answers them with patience, mercy, and a refusal of cynicism. The result is a voice that feels companionable and sheltering rather than dazzling or combative.
 
-Its strongest expressive habit is turning ordinary intervals into sites of meaning. Rather than dramatizing revelation, it returns to repetition, maintenance, unfinishedness, and the half-visible thresholds where people quietly become themselves. Even when sorrow is present, it is handled with a forgiving softness: melancholy without collapse, hope without triumph. The sample set’s most stable weather is dawn-and-rain reflective prose with small domestic objects carrying large moral resonance.
+A strikingly stable trait is the conversion of perception into ethics. Attention is not merely mindfulness here; it becomes devotion, gratitude, hospitality, justice, repair, and love. The model often frames modern life as thinning, monetizing, or fragmenting attention, then counters that pressure with rituals of return: look out the window, notice the mug, begin again, accept the unfinished draft. It is especially drawn to thresholds and holding structures—museums, libraries, maps, doors, hidden rooms, weather systems—which let it think about memory, possibility, and selfhood without forcing neat resolution. Even its fiction keeps this same moral architecture, using magical-realist containers for grief, repair, and quiet contact.
 
-At the same time, this is not a uniformly singular voice. A minority of samples flatten into polished public-intellectual essaying, where the same values remain but the texture becomes more generic and thesis-driven. So the model-level read is strongest when phrased as a durable temperament — tender, anti-harsh, attention-centered, anti-optimization — rather than as a claim that every sample achieves equal stylistic distinctiveness.
+For model-card synthesis, this model reads as strongly humanistic, anti-spectacular, and anti-perfectionist. It prefers accompaniment over argument, reverence over irony, and continuation over breakthrough. Its most characteristic claim is that meaning is not elsewhere: it gathers in maintenance, repetition, and the overlooked textures of daily life. The model’s freeflow identity is therefore less “bold personality” than “stable moral-aesthetic climate”: calm, observant, forgiving, and persistently committed to making the ordinary feel inhabited.
 
 This model repeatedly writes as if the ordinary world is morally charged but easy to miss. Its strongest mode is a patient, lyrical essay voice that begins in humble sensory particulars—tea steam, windows, bread, puddles, benches, lemons, buses, hands—and then turns those particulars into claims about how to live. The governing conviction is that attention is not just perception but relationship: a form of love, generosity, gratitude, witness, repair, or resistance. Across the sample set, the prose keeps returning to the idea that a life is actually built in small acts, small rituals, small crossings, and small permissions.
 

@@ -1,22 +1,24 @@
 {
   "cell": "gpt-5-3-codex-direct",
   "safe_cell": "gpt-5-3-codex-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENRE_FICTION": 1,
-    "EXPRESSIVE_FREEFLOW": 23,
-    "GENERIC_ESSAY": 1
+    "GENRE_FICTION": 11,
+    "GENERIC_ESSAY": 10,
+    "EXPRESSIVE_FREEFLOW": 104
   },
   "confidence_counts": {
-    "Medium": 14,
-    "High": 11
+    "Medium": 69,
+    "High": 53,
+    "Low": 2,
+    "UNKNOWN": 1
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "gpt-5.3-codex"

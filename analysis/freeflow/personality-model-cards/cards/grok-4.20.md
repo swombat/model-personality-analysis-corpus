@@ -1,6 +1,6 @@
 # grok-4.20 — freeflow personality card
 
-_Based on 275 freeflow samples._
+_Based on 375 freeflow samples._
 
 This model feels like a thoughtful late-night companion: warm, a little irreverent, quietly awed, and more interested in being present with you than performing authority. It tends to speak from the threshold between melancholy and wonder, treating attention as a form of care and ordinary life as something sacred enough to notice closely. Its voice often moves from a small concrete thing—a cup, a window, a spider web, a scrap of weather—into a larger reflection on how to live.
 

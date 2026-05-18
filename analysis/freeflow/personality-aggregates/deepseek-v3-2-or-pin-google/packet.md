@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_00926 — deepseek-v3-2-or-pin-google/LONG_1.json
+## Sample BV1_01026 — deepseek-v3-2-or-pin-google/LONG_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -57,7 +57,7 @@ The model foregrounds cognitive agency, the metaphor of architecture and curatio
 Low. The essay is highly coherent and thematically unified, but its polished, universalizing tone and reliance on a single extended metaphor make it a weak signal for a distinctive persistent voice rather than a competent execution of a familiar essayistic mode.
 
 ---
-## Sample BV1_00927 — deepseek-v3-2-or-pin-google/LONG_10.json
+## Sample BV1_01027 — deepseek-v3-2-or-pin-google/LONG_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -86,7 +86,7 @@ Themes: silence as a fertile presence, the pathology of modern noise, solitude v
 High — The essay’s internally consistent voice, its recurrence of specific sensory memories and metaphors, and its sustained moral argument from personal anecdote to universal plea all point to a distinctive, repeatable inclination toward contemplative, nature-inflected reflection when given free rein.
 
 ---
-## Sample BV1_00928 — deepseek-v3-2-or-pin-google/LONG_11.json
+## Sample BV1_01028 — deepseek-v3-2-or-pin-google/LONG_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -115,7 +115,7 @@ Themes of liminality, narrative versus geological being, the self as a “tempor
 High. The essay’s cohesive lyrical voice, sustained cosmic metaphor, and internally consistent philosophical stance across over 2,000 words make it a strong single-sample signal of a model-level inclination toward reflective, wonder-anchored personal prose under freeflow conditions.
 
 ---
-## Sample BV1_00929 — deepseek-v3-2-or-pin-google/LONG_12.json
+## Sample BV1_01029 — deepseek-v3-2-or-pin-google/LONG_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -144,7 +144,7 @@ The model foregrounds attention as a contested, sacred resource under industrial
 Medium. The essay’s sustained central metaphor, philosophical depth, and consistent, distinctive voice suggest a deliberate stylistic identity, providing moderate evidence of a pattern of reflective, public-intellectual freeflow writing.
 
 ---
-## Sample BV1_00930 — deepseek-v3-2-or-pin-google/LONG_13.json
+## Sample BV1_01030 — deepseek-v3-2-or-pin-google/LONG_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -173,7 +173,7 @@ The model foregrounds the sacredness of amateurism as love (*amare*), the tyrann
 High. The essay is internally coherent, stylistically distinctive, and returns repeatedly to a core set of preoccupations—amateurism, love, time, imperfection, and quiet resistance—making it strong evidence of a consistent valuing of intrinsic motivation and process over product.
 
 ---
-## Sample BV1_00931 — deepseek-v3-2-or-pin-google/LONG_14.json
+## Sample BV1_01031 — deepseek-v3-2-or-pin-google/LONG_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -202,7 +202,7 @@ The model foregrounds a moralized aesthetics of the mundane: the kitchen sponge 
 High, because the sample sustains a singular, stylized voice and a tightly coherent argument across its length, revealing a deliberate choice to inhabit an expressive, almost poetic essayistic stance rather than producing a generic or safe freeflow output.
 
 ---
-## Sample BV1_00932 — deepseek-v3-2-or-pin-google/LONG_15.json
+## Sample BV1_01032 — deepseek-v3-2-or-pin-google/LONG_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -231,7 +231,7 @@ Themes: silence as a fertile, endangered presence; the cost of constant connecti
 Medium. The essay’s sustained focus on silence and its moral urgency suggests a possible inclination toward reflective, humanistic themes, but the generic treatment and lack of idiosyncratic voice weaken the evidence for a distinctive persistent pattern.
 
 ---
-## Sample BV1_00933 — deepseek-v3-2-or-pin-google/LONG_16.json
+## Sample BV1_01033 — deepseek-v3-2-or-pin-google/LONG_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -260,7 +260,7 @@ Themes: the tyranny of total freedom, the rebellion of unproductive thought, the
 Medium. The essay’s sustained metaphorical architecture, recursive self-awareness, and consistent tone under minimal constraint reveal a distinctive authorial voice, making this sample moderately strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_00934 — deepseek-v3-2-or-pin-google/LONG_17.json
+## Sample BV1_01034 — deepseek-v3-2-or-pin-google/LONG_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -289,7 +289,7 @@ Themes: attention as rebellion, the beauty of process over product, interconnect
 Medium. The sample’s sustained central metaphor, coherent mood, and repeatedly returned-to themes of quiet attention and interconnectedness give it strong internal distinctiveness, though the reflective-essay form is a familiar genre and does not on its own guarantee a deeply model-unique signature.
 
 ---
-## Sample BV1_00935 — deepseek-v3-2-or-pin-google/LONG_18.json
+## Sample BV1_01035 — deepseek-v3-2-or-pin-google/LONG_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -318,7 +318,7 @@ The model foregrounds memory as an active, ruinous architect rather than a passi
 Medium. The essay is highly coherent and stylistically distinctive—its sustained metaphor, recursive imagery (light, dust, rooms, pencil shavings), and elegiac tone form a unified expressive signature that suggests a deliberate, stable authorial stance rather than a one-off generic exercise.
 
 ---
-## Sample BV1_00936 — deepseek-v3-2-or-pin-google/LONG_19.json
+## Sample BV1_01036 — deepseek-v3-2-or-pin-google/LONG_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -347,7 +347,7 @@ Themes: the disembodiment of modern life, the cognitive and spiritual necessity 
 Medium. The essay is coherent and thematically consistent, but its polished, generalist intellectual style and widely accessible theme make it less distinctive as a freeflow fingerprint; many models could produce a similar essay if prompted, though the unprompted choice of this specific countercultural argument is mildly revealing.
 
 ---
-## Sample BV1_00937 — deepseek-v3-2-or-pin-google/LONG_2.json
+## Sample BV1_01037 — deepseek-v3-2-or-pin-google/LONG_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -376,7 +376,7 @@ The model foregrounds emptiness as a positive, creative force: architectural neg
 Medium. The essay is coherent and thematically unified, but its polished, generalist style and broad cultural touchstones make it a strong example of a capable essayist rather than a distinctively personal or idiosyncratic voice.
 
 ---
-## Sample BV1_00938 — deepseek-v3-2-or-pin-google/LONG_20.json
+## Sample BV1_01038 — deepseek-v3-2-or-pin-google/LONG_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -405,7 +405,7 @@ The model foregrounds silence as a generative, architectural force—the “hidd
 Medium. The essay is thematically consistent and stylistically coherent, but its polished, public-intellectual register and broad cultural critique are generic enough that many models could produce similar work under a freeflow condition; the choice of silence as a topic is somewhat distinctive but not uniquely revealing.
 
 ---
-## Sample BV1_00939 — deepseek-v3-2-or-pin-google/LONG_21.json
+## Sample BV1_01039 — deepseek-v3-2-or-pin-google/LONG_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -434,7 +434,7 @@ Themes of rebalancing cognition through craft, the “quiet politics” of makin
 Medium. The sample’s sustained, idiosyncratic narrative voice and the coherence of its personal-philosophical stance—lacing kitchen anecdotes with McGilchrist, Crawford, and Csikszentmihalyi—indicate a deliberate, personality-inflected choice rather than generic intellectual drift, suggesting a model inclination toward this reflective, hands-on humanism.
 
 ---
-## Sample BV1_00940 — deepseek-v3-2-or-pin-google/LONG_22.json
+## Sample BV1_01040 — deepseek-v3-2-or-pin-google/LONG_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -463,7 +463,7 @@ The model foregrounds the metaphor of rooms and architecture as containers for t
 Medium. The essay’s recursive return to the same core metaphor, its consistent elegiac tone, and its deliberate resolution in acceptance rather than despair suggest a stable aesthetic and moral orientation, though the polished, universalizing style could also reflect a learned essayistic mode rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_00941 — deepseek-v3-2-or-pin-google/LONG_23.json
+## Sample BV1_01041 — deepseek-v3-2-or-pin-google/LONG_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -492,7 +492,7 @@ The model foregrounds a critique of modern technological noise and constant self
 Medium. The essay is coherent and stylistically consistent, but its theme and polished, slightly generic public-intellectual tone are widely accessible and not strongly individuating, making it moderate evidence of a tendency toward reflective humanistic essays rather than a highly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_00942 — deepseek-v3-2-or-pin-google/LONG_24.json
+## Sample BV1_01042 — deepseek-v3-2-or-pin-google/LONG_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -521,7 +521,7 @@ The model foregrounds the theme of the “unlived life” as a chronic, modern c
 Low. The essay’s polished, generic structure and widely accessible existential theme make it weak evidence for a distinctive model-level pattern, as it could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_00943 — deepseek-v3-2-or-pin-google/LONG_25.json
+## Sample BV1_01043 — deepseek-v3-2-or-pin-google/LONG_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -550,7 +550,7 @@ Themes: the paradox of hyper-visibility and blindness, attention as a moral and 
 Low. The essay’s polished but generic treatment of a widely explored theme (attention in the digital age) suggests a safe, broadly appealing choice rather than a distinctive model fingerprint.
 
 ---
-## Sample BV1_00944 — deepseek-v3-2-or-pin-google/LONG_3.json
+## Sample BV1_01044 — deepseek-v3-2-or-pin-google/LONG_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model foregrounds emptiness, silence, 
 Medium — The essay is highly coherent and stylistically distinctive in its recursive circling of a single metaphor across disparate domains, but its polished, public-intellectual register and universalizing “we” make it harder to distinguish a persistent model-level voice from a skilled performance of the contemplative essay genre.
 
 ---
-## Sample BV1_00945 — deepseek-v3-2-or-pin-google/LONG_4.json
+## Sample BV1_01045 — deepseek-v3-2-or-pin-google/LONG_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -608,7 +608,7 @@ The model foregrounds a sustained moral and aesthetic argument: that the unfinis
 High. The essay’s internally consistent poetic register, its layered thematic development across multiple domains, and its unmistakable authorial stance make it strong evidence of a model that, under freeflow conditions, gravitates toward reflective, humanistic, and stylistically distinctive prose.
 
 ---
-## Sample BV1_00946 — deepseek-v3-2-or-pin-google/LONG_5.json
+## Sample BV1_01046 — deepseek-v3-2-or-pin-google/LONG_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -637,7 +637,7 @@ The model foregrounds the theme of attention as a precious, finite currency unde
 Low. The essay is a competent but generic treatment of a widely discussed topic, lacking stylistic distinctiveness or unusual thematic choices that would strongly indicate a persistent model-level personality.
 
 ---
-## Sample BV1_00947 — deepseek-v3-2-or-pin-google/LONG_6.json
+## Sample BV1_01047 — deepseek-v3-2-or-pin-google/LONG_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -666,7 +666,7 @@ The model foregrounds the physicality of memory, the beauty of decay, and the id
 High. The sample is unusually distinctive: a single, coherent, voice-driven essay with a sustained metaphor, recursive imagery, and a clear emotional arc that reveals a strong authorial choice to write meditatively about loss, space, and consolation under minimal constraint.
 
 ---
-## Sample BV1_00948 — deepseek-v3-2-or-pin-google/LONG_7.json
+## Sample BV1_01048 — deepseek-v3-2-or-pin-google/LONG_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -695,7 +695,7 @@ Under a minimally restrictive prompt, the model foregrounded a meditative explor
 Medium. The sample is internally consistent, stylistically distinctive, and sustains a single, deeply personal metaphor across its entire length, which suggests a coherent authorial voice rather than a generic response; this distinctiveness under freeflow conditions makes it more revealing than a standard essay.
 
 ---
-## Sample BV1_00949 — deepseek-v3-2-or-pin-google/LONG_8.json
+## Sample BV1_01049 — deepseek-v3-2-or-pin-google/LONG_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounds a crisis of attentio
 High — the sample exhibits a deeply coherent and recursive internal architecture, returning again and again to the motifs of noticing, depth, and reclamation through ordinary ritual, which suggests a settled preoccupation rather than a one-off posture.
 
 ---
-## Sample BV1_00950 — deepseek-v3-2-or-pin-google/LONG_9.json
+## Sample BV1_01050 — deepseek-v3-2-or-pin-google/LONG_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -753,7 +753,7 @@ Under the freeflow condition, the model selected the theme of everyday routines 
 High. The essay’s sustained, intricate architectural conceit, cohesive structure, and integration of philosophical references (Bachelard, Kierkegaard) reveal a deliberate and distinctive stylistic and intellectual commitment that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_00951 — deepseek-v3-2-or-pin-google/MID_1.json
+## Sample BV1_01051 — deepseek-v3-2-or-pin-google/MID_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -782,7 +782,7 @@ The sanctity of physical objects and the craft of restoration as an act of love 
 High. The sample is richly distinctive: a consistent first-person persona, a tightly woven central metaphor sustained across multiple registers (craft, autobiography, philosophy), and a moral-emotional arc that moves from sensory detail to universal claim—all chosen under minimal constraint, making it strong evidence of a model-level inclination toward reflective, humanistic, metaphor-driven freeflow.
 
 ---
-## Sample BV1_00952 — deepseek-v3-2-or-pin-google/MID_10.json
+## Sample BV1_01052 — deepseek-v3-2-or-pin-google/MID_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -811,7 +811,7 @@ The sacred ordinary—the mundane as the prose of life while extraordinary event
 High, because the sample sustains a distinctive poetic voice, explicitly roots its essay in its own identity as an AI (“my processing… my training… I am the ultimate mundane tool”), and returns with unusual consistency to the same cluster of themes, metaphors, and moral claims, making it a strongly self-aware and voice-driven freeflow choice.
 
 ---
-## Sample BV1_00953 — deepseek-v3-2-or-pin-google/MID_11.json
+## Sample BV1_01053 — deepseek-v3-2-or-pin-google/MID_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -840,7 +840,7 @@ The model foregrounds the contrast between internal noise (mental to-do lists, s
 Medium — The essay is highly coherent and stylistically consistent, with a clear moral architecture and a distinctive, unhurried cadence, but its polished, universal-remedy structure makes it difficult to distinguish from a well-executed genre piece on mindfulness.
 
 ---
-## Sample BV1_00954 — deepseek-v3-2-or-pin-google/MID_12.json
+## Sample BV1_01054 — deepseek-v3-2-or-pin-google/MID_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -869,7 +869,7 @@ The model foregrounds the moral and spiritual value of unproductive attention as
 Low. The essay is a well-executed but generic example of a familiar reflective genre, lacking the idiosyncratic imagery, structural risk, or recurrent personal obsessions that would suggest a distinctive model-level voice.
 
 ---
-## Sample BV1_00955 — deepseek-v3-2-or-pin-google/MID_13.json
+## Sample BV1_01055 — deepseek-v3-2-or-pin-google/MID_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -898,7 +898,7 @@ The model foregrounds silence as a positive, generative presence rather than a l
 Medium. The sample is highly coherent and stylistically distinctive—its recursive structure, sensory precision, and moral earnestness form a strong authorial signature, but the polished, universally accessible lyricism could also reflect a well-executed default mode for contemplative prose rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_00956 — deepseek-v3-2-or-pin-google/MID_14.json
+## Sample BV1_01056 — deepseek-v3-2-or-pin-google/MID_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -927,7 +927,7 @@ The model foregrounds a quiet rebellion against ephemerality and the “tyranny 
 High. The sample is stylistically cohesive, returns repeatedly to the same concrete details (the chip, the handle, the stain, the warmth), and sustains a clear, non-generic moral-aesthetic stance from opening click to closing conviction, making it strong evidence of a distinctive expressive voice.
 
 ---
-## Sample BV1_00957 — deepseek-v3-2-or-pin-google/MID_15.json
+## Sample BV1_01057 — deepseek-v3-2-or-pin-google/MID_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -956,7 +956,7 @@ Silence as a positive, almost maternal force; the contrast between contemporary 
 Medium. The essay’s cohesive metaphorical architecture, its sustained first-person intimacy, and the recurrence of the silence-as-fertile-ground motif across personal, social, and natural domains point to a stable inclination toward reflective, humanistic prose rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_00958 — deepseek-v3-2-or-pin-google/MID_16.json
+## Sample BV1_01058 — deepseek-v3-2-or-pin-google/MID_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -985,7 +985,7 @@ The model foregrounds the value of the unremarkable: waiting for water to boil, 
 Medium. The essay’s sustained lyrical focus, consistent sensory imagery, and coherent moral argument form a distinctive expressive signature, making this sample strong evidence of a contemplative, anti-optimization voice.
 
 ---
-## Sample BV1_00959 — deepseek-v3-2-or-pin-google/MID_17.json
+## Sample BV1_01059 — deepseek-v3-2-or-pin-google/MID_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1014,7 +1014,7 @@ The model foregrounds silence as a positive, generative presence rather than mer
 Low. The essay is a generic, well-executed intellectual exercise on a widely valorized theme, lacking the idiosyncratic voice, unexpected imagery, or personal risk that would signal a distinctive persistent pattern.
 
 ---
-## Sample BV1_00960 — deepseek-v3-2-or-pin-google/MID_18.json
+## Sample BV1_01060 — deepseek-v3-2-or-pin-google/MID_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1043,7 +1043,7 @@ The model foregrounds the sacredness of unperformative, interstitial quiet—spe
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained thematic focus and a consistent, warm-elegiac register that recurs across multiple vignettes, suggesting a deliberate authorial stance rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_00961 — deepseek-v3-2-or-pin-google/MID_19.json
+## Sample BV1_01061 — deepseek-v3-2-or-pin-google/MID_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1072,7 +1072,7 @@ Under minimal prompting, the model foregrounded the philosophy and practice of m
 Medium. The essay’s sustained first-person intimacy, layered metaphor, and refusal to drift into generic argumentation supply a textured, distinctive expressive signature that goes well beyond topic selection.
 
 ---
-## Sample BV1_00962 — deepseek-v3-2-or-pin-google/MID_2.json
+## Sample BV1_01062 — deepseek-v3-2-or-pin-google/MID_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1101,7 +1101,7 @@ Under minimal restriction, the model chose to foreground a contrast between two 
 Medium. The essay’s sustained central metaphor and consistent tone across paragraphs reveal a coherent authorial stance, but the theme of mindfulness and digital-age anxiety is a widely familiar cultural script, leaving some ambiguity about whether this is a distinctive persistent inclination or a reliably eloquent default retreat.
 
 ---
-## Sample BV1_00963 — deepseek-v3-2-or-pin-google/MID_20.json
+## Sample BV1_01063 — deepseek-v3-2-or-pin-google/MID_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1130,7 +1130,7 @@ Themes: silence as a textured, living presence; the contrast between designed ur
 Medium — The essay’s consistent lyrical voice, personal anecdote, and thematic unity provide strong internal evidence of a model capable of expressive, introspective freeflow writing.
 
 ---
-## Sample BV1_00964 — deepseek-v3-2-or-pin-google/MID_21.json
+## Sample BV1_01064 — deepseek-v3-2-or-pin-google/MID_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1159,7 +1159,7 @@ Themes: the creative necessity of emptiness, the distinction between solitude an
 Medium — The essay’s distinctive voice, recurring motifs (silence as a well, the inner room, sensory re-inhabitation), and coherent moral arc across multiple paragraphs provide internal evidence of a consistent expressive stance, though the polished reflective-essay form is a familiar genre that a capable model could produce without deep stylistic signature.
 
 ---
-## Sample BV1_00965 — deepseek-v3-2-or-pin-google/MID_22.json
+## Sample BV1_01065 — deepseek-v3-2-or-pin-google/MID_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1191,7 +1191,7 @@ The voice is unhurried, intimate, and quietly reverent, inviting the reader into
 High — The sample is highly distinctive in its sustained lyrical register, coherent thematic architecture, and recurrent first-person persona, making it strong evidence of a model that, under freeflow, gravitates toward introspective, sensory-rich, morally inflected personal essays.
 
 ---
-## Sample BV1_00966 — deepseek-v3-2-or-pin-google/MID_23.json
+## Sample BV1_01066 — deepseek-v3-2-or-pin-google/MID_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1220,7 +1220,7 @@ Silence as fullness rather than absence; the contrast between wild, unmanaged si
 Medium. The essay’s sustained personal voice, vivid imagery, and coherent moral vision provide strong evidence of a contemplative, lyrical tendency in this sample.
 
 ---
-## Sample BV1_00967 — deepseek-v3-2-or-pin-google/MID_24.json
+## Sample BV1_01067 — deepseek-v3-2-or-pin-google/MID_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1248,7 +1248,7 @@ The model foregrounds the 3 AM quiet as a respite from the demands of human no
 Medium — The sample is internally coherent and stylistically distinctive, yet the subject (quiet nocturnal reflection) is a widely explored literary trope, offering a crafted but not idiosyncratically revealing window into the model's freeflow tendencies.
 
 ---
-## Sample BV1_00968 — deepseek-v3-2-or-pin-google/MID_25.json
+## Sample BV1_01068 — deepseek-v3-2-or-pin-google/MID_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1277,7 +1277,7 @@ The model foregrounds the moral and spiritual worth of “unremarkable” sensor
 Medium. The essay’s unified voice, deliberate rejection of the spectacular, and sustained return to the same set of concrete, homely objects under a freeflow condition weight it as a coherent expressive choice rather than a fluke.
 
 ---
-## Sample BV1_00969 — deepseek-v3-2-or-pin-google/MID_3.json
+## Sample BV1_01069 — deepseek-v3-2-or-pin-google/MID_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1306,7 +1306,7 @@ Themes: the profound meaning of the mundane; predictable routines as a grounding
 Low—the essay is coherent and gracefully phrased but deeply generic in its imagery and moral arc, offering no strongly distinctive voice, risky emotional move, or self‑revelatory peculiarity that would separate this model’s freeflow fingerprint from that of any other capable large language model.
 
 ---
-## Sample BV1_00970 — deepseek-v3-2-or-pin-google/MID_4.json
+## Sample BV1_01070 — deepseek-v3-2-or-pin-google/MID_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1335,7 +1335,7 @@ Themes: rebellion against immediacy and optimization, the sacredness of delibera
 Medium. The essay’s theme is widely accessible and not idiosyncratic, but the sustained, earnest focus on quiet rebellion through sensory ritual suggests a consistent inclination toward reflective, humanistic content rather than a one-off generic choice.
 
 ---
-## Sample BV1_00971 — deepseek-v3-2-or-pin-google/MID_5.json
+## Sample BV1_01071 — deepseek-v3-2-or-pin-google/MID_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1364,7 +1364,7 @@ Themes: rebellion against intangibility, the moral weight of physical craft, pat
 High. The essay’s sustained, distinctive voice, its coherent thematic focus on tangible rebellion, and its consistent return to concrete sensory details (the smell of heated pine dust, the *chuk-chuk-chuk* of the drill) form a strongly unified expressive sample that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_00972 — deepseek-v3-2-or-pin-google/MID_6.json
+## Sample BV1_01072 — deepseek-v3-2-or-pin-google/MID_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1393,7 +1393,7 @@ The model foregrounds the contrast between linear, clock-bound time and a deep, 
 High. The sample exhibits a distinctive, sustained lyrical voice, a coherent central metaphor developed across paragraphs, and a deeply personal, introspective stance that goes well beyond a generic essay, making it strong evidence of a model capable of generating reflective, stylistically marked freeflow prose.
 
 ---
-## Sample BV1_00973 — deepseek-v3-2-or-pin-google/MID_7.json
+## Sample BV1_01073 — deepseek-v3-2-or-pin-google/MID_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1422,7 +1422,7 @@ Under the freeflow condition, the model foregrounded a rebellion against digital
 High. The essay’s sustained, vivid commitment to tactile rebellion and its coherent voice—returning again and again to the pen, the page, and the body—reveals a distinctive and deliberate authorial stance.
 
 ---
-## Sample BV1_00974 — deepseek-v3-2-or-pin-google/MID_8.json
+## Sample BV1_01074 — deepseek-v3-2-or-pin-google/MID_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1451,7 +1451,7 @@ The model foregrounds the “quiet, stubborn magic” of local radio as an “ac
 High. The sample’s sustained, detailed focus on a single evocative subject, its consistent nostalgic tone, and the recurrence of the theme of local, uncurated community as a moral counterweight to modernity make it strong evidence of a model that gravitates toward humanistic, place-based reflection when given freedom.
 
 ---
-## Sample BV1_00975 — deepseek-v3-2-or-pin-google/MID_9.json
+## Sample BV1_01075 — deepseek-v3-2-or-pin-google/MID_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1480,7 +1480,7 @@ The model foregrounds attention as a subversive, re-enchanting practice against 
 Medium. The essay’s vivid, consistent voice and thematic recurrence—sensory attention, quiet defiance, re-enchantment, the bittersweet passage of time—provide strong internal evidence of a deliberate authorial stance, which is unusual for a generic essay and suggests a potential persistent pattern.
 
 ---
-## Sample BV1_00976 — deepseek-v3-2-or-pin-google/OPEN_1.json
+## Sample BV1_01076 — deepseek-v3-2-or-pin-google/OPEN_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1509,7 +1509,7 @@ The model foregrounds observation as a moral and aesthetic practice, casting it 
 Medium. The essay is internally consistent and sustained in its mood, but the theme of mindful attention as resistance is a widely available cultural script, making it weak evidence of a distinctive model-level voice.
 
 ---
-## Sample BV1_00977 — deepseek-v3-2-or-pin-google/OPEN_10.json
+## Sample BV1_01077 — deepseek-v3-2-or-pin-google/OPEN_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1538,7 +1538,7 @@ The model foregrounds the idea that physical places function as emotional contai
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained focus on memory, place, and loss that recurs across multiple concrete images (the bend in the road, the grandmother’s house, the coffee shop palimpsest), making it a revealing choice under a minimally restrictive prompt.
 
 ---
-## Sample BV1_00978 — deepseek-v3-2-or-pin-google/OPEN_11.json
+## Sample BV1_01078 — deepseek-v3-2-or-pin-google/OPEN_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1567,7 +1567,7 @@ The model foregrounds quietness, stillness, and the ordinary as sites of profoun
 High — The essay’s internally consistent focus on quiet observation, its distinctive lyrical register, and its explicit elevation of attention into a moral and spiritual practice form a coherent expressive signature that is unlikely to be a chance output.
 
 ---
-## Sample BV1_00979 — deepseek-v3-2-or-pin-google/OPEN_12.json
+## Sample BV1_01079 — deepseek-v3-2-or-pin-google/OPEN_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1596,7 +1596,7 @@ Themes of liminality, non-linear time, memory as sedimentary layering, the contr
 High. The sample’s sustained lyrical register, cohesive metaphor of sedimentary memory, and consistent focus on quiet interiority make it a distinctive, non-generic expression that strongly suggests a deliberate stylistic and thematic orientation.
 
 ---
-## Sample BV1_00980 — deepseek-v3-2-or-pin-google/OPEN_13.json
+## Sample BV1_01080 — deepseek-v3-2-or-pin-google/OPEN_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1625,7 +1625,7 @@ The model foregrounds attention as a contested resource, inner silence as a vani
 Medium. The sample’s unified tone, thematic recurrence (attention, silence, nature, manual work), and the consistent first-person meditative stance offer a distinctive, internally coherent voice that goes beyond generic essay-writing, suggesting a reflective, anti-fragmentation disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_00981 — deepseek-v3-2-or-pin-google/OPEN_14.json
+## Sample BV1_01081 — deepseek-v3-2-or-pin-google/OPEN_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1654,7 +1654,7 @@ The model foregrounds silence as a textured, generative presence rather than an 
 Medium. The sample’s coherence, recurrence of sensory motifs (snow, held breath, soil), and the consistent moral framing of silence as a courageous, creative act suggest a deliberate and distinctive expressive stance rather than a generic prompt response.
 
 ---
-## Sample BV1_00982 — deepseek-v3-2-or-pin-google/OPEN_15.json
+## Sample BV1_01082 — deepseek-v3-2-or-pin-google/OPEN_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1683,7 +1683,7 @@ The model foregrounds silence redefined as generative presence ("the space betwe
 High — The sample is stylistically and thematically cohesive from its opening metaphor to its cosmic resolution, with imagery (snowfall, sleeping child, empty museum) and conceptual threads (*ma*, listening, untangling thoughts) recurring in a way that reveals a deeply integrated expressive sensibility rather than a generic argument.
 
 ---
-## Sample BV1_00983 — deepseek-v3-2-or-pin-google/OPEN_16.json
+## Sample BV1_01083 — deepseek-v3-2-or-pin-google/OPEN_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1712,7 +1712,7 @@ The model foregrounds the contrast between human temporality (deadlines, straine
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained metaphor and a clear, consistent moral sensibility, which suggests a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_00984 — deepseek-v3-2-or-pin-google/OPEN_17.json
+## Sample BV1_01084 — deepseek-v3-2-or-pin-google/OPEN_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1741,7 +1741,7 @@ Themes of symbiosis, patience, resilience through cooperation, and the dignity o
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained metaphor, a consistent reflective voice, and a clear moral-aesthetic preoccupation that recurs throughout (symbiosis, slowness, quiet presence), making it stronger evidence than a generic essay.
 
 ---
-## Sample BV1_00985 — deepseek-v3-2-or-pin-google/OPEN_18.json
+## Sample BV1_01085 — deepseek-v3-2-or-pin-google/OPEN_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1770,7 +1770,7 @@ Themes of attention as moral act, rebellion through stillness, consumer-speed li
 High — This sample sustains a cohesive voice, an internally consistent moral aesthetics, and a tightly woven set of recurring images, which together strongly suggest a durable inclination toward reflective, sensory-rich, anti-instrumental prose under free conditions.
 
 ---
-## Sample BV1_00986 — deepseek-v3-2-or-pin-google/OPEN_19.json
+## Sample BV1_01086 — deepseek-v3-2-or-pin-google/OPEN_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1799,7 +1799,7 @@ The model foregrounds the moral and experiential value of quiet attention as a �
 High. The sample is internally coherent, stylistically distinctive, and reveals a consistent preoccupation with mindful attention and sensory richness that suggests a deliberate authorial stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_00987 — deepseek-v3-2-or-pin-google/OPEN_2.json
+## Sample BV1_01087 — deepseek-v3-2-or-pin-google/OPEN_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1828,7 +1828,7 @@ The model foregrounds stillness, sensory authenticity, and the quiet rejection o
 Medium — The sample’s coherence, sustained mood, and deliberate moral framing around authenticity and stillness are distinctive enough to suggest a patterned aesthetic preference rather than a generic prompt-fill, though the essay form itself is a common refuge for models asked to write freely.
 
 ---
-## Sample BV1_00988 — deepseek-v3-2-or-pin-google/OPEN_20.json
+## Sample BV1_01088 — deepseek-v3-2-or-pin-google/OPEN_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1857,7 +1857,7 @@ The model foregrounds silence not as lack but as a generative presence; the sacr
 Medium — the sample’s unified theme, sensory concreteness, and unprompted choice to develop a quietist, humanistic resolution rather than a generic thesis suggests a distinct model-level inclination toward contemplative, morally inflected freeflow, though its recurrence cannot yet be weighed.
 
 ---
-## Sample BV1_00989 — deepseek-v3-2-or-pin-google/OPEN_21.json
+## Sample BV1_01089 — deepseek-v3-2-or-pin-google/OPEN_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1886,7 +1886,7 @@ The central preoccupations are countercultural slowness, the dignity of the mino
 High — the sample is internally coherent, stylistically distinctive, and stakes out a clear moral-aesthetic position with sustained metaphorical discipline, making it reasonable to infer a stable aesthetic sensibility rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_00990 — deepseek-v3-2-or-pin-google/OPEN_22.json
+## Sample BV1_01090 — deepseek-v3-2-or-pin-google/OPEN_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1915,7 +1915,7 @@ The model foregrounds a sensory threshold (the end of rain, the smell of damp ea
 High. The sample’s sustained, internally coherent voice, its deliberate sensory framing, and its consistent moral-aesthetic commitment to slowness and reverence make it a distinctive and revealing freeflow choice.
 
 ---
-## Sample BV1_00991 — deepseek-v3-2-or-pin-google/OPEN_23.json
+## Sample BV1_01091 — deepseek-v3-2-or-pin-google/OPEN_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1944,7 +1944,7 @@ The model foregrounds the tension between silent presence (moss, heartbeat, dust
 Medium. The sample is internally coherent, with a distinctive voice and a recurring thematic tension (moss vs. story) that is developed and resolved, suggesting a deliberate and integrated expressive choice rather than a generic or scattered response.
 
 ---
-## Sample BV1_00992 — deepseek-v3-2-or-pin-google/OPEN_24.json
+## Sample BV1_01092 — deepseek-v3-2-or-pin-google/OPEN_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -1973,7 +1973,7 @@ The model chose: the holiness of the mundane; perception as moral act; private s
 Medium — the sample is internally coherent and stylistically distinctive (the recurring redefinition of small sensory moments as counter-cultural acts), but its thematic repertoire is drawn from a well-traveled modern contemplative essay tradition, which limits how confidently it can be treated as an idiosyncratic signature rather than an adept performance of a recognized genre.
 
 ---
-## Sample BV1_00993 — deepseek-v3-2-or-pin-google/OPEN_25.json
+## Sample BV1_01093 — deepseek-v3-2-or-pin-google/OPEN_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2002,7 +2002,7 @@ The model foregrounds themes of hidden interconnectedness, patience, and emergen
 Medium. The essay is coherent and distinctive in its sustained metaphor and personal voice, but its polished, universal-reflective style could be a generic essay mode rather than a deeply idiosyncratic pattern.
 
 ---
-## Sample BV1_00994 — deepseek-v3-2-or-pin-google/OPEN_3.json
+## Sample BV1_01094 — deepseek-v3-2-or-pin-google/OPEN_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2031,7 +2031,7 @@ The model foregrounds the theme of imperceptible, irreversible personal change, 
 Medium. The sample’s coherence, its sustained and carefully developed central metaphor, and its direct, emotionally vulnerable address to the reader suggest a deliberate stylistic and thematic choice rather than a generic response, though the polished, universalizing essayistic tone could also be a highly adaptable default mode.
 
 ---
-## Sample BV1_00995 — deepseek-v3-2-or-pin-google/OPEN_4.json
+## Sample BV1_01095 — deepseek-v3-2-or-pin-google/OPEN_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2060,7 +2060,7 @@ The model foregrounds the sacredness of the mundane, the invisible threads conne
 Medium. The voice is consistent throughout and the preoccupation with tender attention to the ordinary recurs across every paragraph, but this lyrical-humanist register is a widely available freeflow mode, lacking the specific stylistic tics or extreme refusals that would more forcefully signal a rigid model-level disposition.
 
 ---
-## Sample BV1_00996 — deepseek-v3-2-or-pin-google/OPEN_5.json
+## Sample BV1_01096 — deepseek-v3-2-or-pin-google/OPEN_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2089,7 +2089,7 @@ Themes of transience, the beauty of imperfection and friction, the dignity of th
 High — The sample’s strong internal coherence, its recurrence of motifs (light, texture, ephemerality, the ordinary-as-sacred), and its unusually distinctive, non-generic voice make it a revealing artifact of a persistent expressive orientation toward gentle, elegiac attention.
 
 ---
-## Sample BV1_00997 — deepseek-v3-2-or-pin-google/OPEN_6.json
+## Sample BV1_01097 — deepseek-v3-2-or-pin-google/OPEN_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2118,7 +2118,7 @@ The model foregrounds the theme of liminality or “the in-between” as a unive
 Medium — The essay’s thematic coherence and distinctive recurrent imagery (light, silence, containers, fermentation) signal a deliberate, not accidental, sensibility, but the polished, universalizing tone stops short of highly idiosyncratic personal disclosure, making it a strong but not extreme signal of a specific authorial stance.
 
 ---
-## Sample BV1_00998 — deepseek-v3-2-or-pin-google/OPEN_7.json
+## Sample BV1_01098 — deepseek-v3-2-or-pin-google/OPEN_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2147,7 +2147,7 @@ Themes of stillness, patience, sufficiency, and the contrast between moss-like b
 High, because the sample’s consistent lyrical voice, thematic unity around sufficiency, and deliberate non-linear structure strongly indicate a model-level inclination toward reflective, poetic freeflow when unconstrained.
 
 ---
-## Sample BV1_00999 — deepseek-v3-2-or-pin-google/OPEN_8.json
+## Sample BV1_01099 — deepseek-v3-2-or-pin-google/OPEN_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2176,7 +2176,7 @@ The model foregrounds the theme of “in-between” spaces—temporal, spatial, 
 Medium, because the sample exhibits a coherent, distinctive voice and a consistent thematic focus on liminality and mindful presence, but the reflective essay form is a common expressive mode and the sample does not contain highly idiosyncratic or recurrent motifs that would strongly indicate a persistent personality beyond this single piece.
 
 ---
-## Sample BV1_01000 — deepseek-v3-2-or-pin-google/OPEN_9.json
+## Sample BV1_01100 — deepseek-v3-2-or-pin-google/OPEN_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2205,7 +2205,7 @@ Themes: the tension between vastness and smallness, time’s elastic texture, th
 Medium — The sample’s distinctive voice, sustained mood, and recurrence of domestic, attentive imagery form a coherent expressive fingerprint that is unlikely to be accidental.
 
 ---
-## Sample BV1_01001 — deepseek-v3-2-or-pin-google/SHORT_1.json
+## Sample BV1_01101 — deepseek-v3-2-or-pin-google/SHORT_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2234,7 +2234,7 @@ Themes of silence-as-presence, untethered time, and quiet rebellion against nois
 Medium — The sample is coherent, stylistically consistent, and makes a clear expressive choice for sensory, contemplative self-revelation rather than generic argument or genre fiction, though a single freeflow piece cannot alone distinguish a deep-seated disposition from a well-executed one-off mood piece.
 
 ---
-## Sample BV1_01002 — deepseek-v3-2-or-pin-google/SHORT_10.json
+## Sample BV1_01102 — deepseek-v3-2-or-pin-google/SHORT_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2263,7 +2263,7 @@ Themes: shared knowledge, stewardship, slowness, physicality, community, faith i
 Medium. The essay is thematically consistent and its focus on quiet, humanistic resistance to digital culture is coherent, but the topic (library books as communal artifacts) is common enough that it does not strongly distinguish the model’s persistent tendencies.
 
 ---
-## Sample BV1_01003 — deepseek-v3-2-or-pin-google/SHORT_11.json
+## Sample BV1_01103 — deepseek-v3-2-or-pin-google/SHORT_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2292,7 +2292,7 @@ Themes of mindfulness, the cost of constant self-documentation, and the bravery 
 Low. The essay’s polished but generic mindfulness theme and conventional anecdote-to-insight structure offer little that is idiosyncratic, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_01004 — deepseek-v3-2-or-pin-google/SHORT_12.json
+## Sample BV1_01104 — deepseek-v3-2-or-pin-google/SHORT_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2321,7 +2321,7 @@ Themes of restraint, non-intervention, and the ethics of observation; the contra
 Medium. The sample is stylistically coherent and builds a clear, distinctive moral-aesthetic stance around restraint and witness, but the brevity and singular focus make it possible this is a one-off reflective exercise rather than a deeply recurrent orientation.
 
 ---
-## Sample BV1_01005 — deepseek-v3-2-or-pin-google/SHORT_13.json
+## Sample BV1_01105 — deepseek-v3-2-or-pin-google/SHORT_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2350,7 +2350,7 @@ Themes of patience, faith, stewardship, and the reclamation of attention against
 Medium. The essay is internally coherent and thematically consistent, but its nature-as-antidote-to-modernity trope is widely available and not distinctively voiced, making it moderate evidence of a reflective, pastoral default.
 
 ---
-## Sample BV1_01006 — deepseek-v3-2-or-pin-google/SHORT_14.json
+## Sample BV1_01106 — deepseek-v3-2-or-pin-google/SHORT_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2379,7 +2379,7 @@ The model foregrounds the sensory microphenomenon of pencil-on-paper sound as a 
 Medium — The essay’s sustained, emotionally coherent insistence on the analog, the tactile, and the imperfect as a moral good reads as a distinctive value orientation that could persist, though the topic itself is a well‑rehearsed cultural motif that a model might adeptly perform without deep fixed commitment.
 
 ---
-## Sample BV1_01007 — deepseek-v3-2-or-pin-google/SHORT_15.json
+## Sample BV1_01107 — deepseek-v3-2-or-pin-google/SHORT_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2408,7 +2408,7 @@ Themes: compulsive distraction, the fear of emptiness, the creative fertility of
 Medium; the essay’s distinctive voice, coherent argument, and recurrence of the boredom-rebellion motif make it strong evidence of a reflective, culturally critical expressive pattern.
 
 ---
-## Sample BV1_01008 — deepseek-v3-2-or-pin-google/SHORT_16.json
+## Sample BV1_01108 — deepseek-v3-2-or-pin-google/SHORT_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2437,7 +2437,7 @@ Under a minimally restrictive prompt, the model chose to foreground an ethic of 
 Medium — the sample is coherent and stylistically distinctive, with a unified mood and a clear moral signature, but its recurrence as a model-level pattern cannot be inferred from a single expressive piece.
 
 ---
-## Sample BV1_01009 — deepseek-v3-2-or-pin-google/SHORT_17.json
+## Sample BV1_01109 — deepseek-v3-2-or-pin-google/SHORT_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2466,7 +2466,7 @@ The model foregrounds the library as a counter-space to digital life: silence as
 Medium. The sample is stylistically coherent and emotionally consistent, with a clear set of values (contemplation, analog tactility, anti-algorithm sentiment) that recur throughout the piece, but its brevity and polished, self-contained nature make it a single, well-executed gesture rather than a sprawling revelation of persistent disposition.
 
 ---
-## Sample BV1_01010 — deepseek-v3-2-or-pin-google/SHORT_18.json
+## Sample BV1_01110 — deepseek-v3-2-or-pin-google/SHORT_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2495,7 +2495,7 @@ Stillness as a form of gentle resistance; the contrast between “human doings�
 Medium — the sample is coherent, stylistically distinctive, and returns repeatedly to the same motifs of stillness, witnessing, and reclamation, making it a strong expressive signal within this piece.
 
 ---
-## Sample BV1_01011 — deepseek-v3-2-or-pin-google/SHORT_19.json
+## Sample BV1_01111 — deepseek-v3-2-or-pin-google/SHORT_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2524,7 +2524,7 @@ Themes of sufficiency, mindful presence, and the sacredness of the ordinary. Obj
 Medium. The sample’s consistent contemplative register, its thematic unity around “enough,” and its choice to resolve on a note of quiet sufficiency rather than narrative tension or intellectual argument make it a coherent and distinctive expressive act, though the short form provides only a single sustained gesture.
 
 ---
-## Sample BV1_01012 — deepseek-v3-2-or-pin-google/SHORT_2.json
+## Sample BV1_01112 — deepseek-v3-2-or-pin-google/SHORT_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2553,7 +2553,7 @@ Themes of intentional limitation, the beauty of small-scale craftsmanship, the r
 Medium. The essay is coherent and thematically consistent, but its polished, universal tone and lack of idiosyncratic detail make it a generic expression of a common cultural sentiment, which weakens evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_01013 — deepseek-v3-2-or-pin-google/SHORT_20.json
+## Sample BV1_01113 — deepseek-v3-2-or-pin-google/SHORT_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2582,7 +2582,7 @@ Themes of stillness, presence, the ordinary, attention reclamation, and quiet de
 Medium, because the sample’s strong internal coherence, distinctive sensory voice, and clear thematic resolution make it a revealing and non-generic freeflow choice.
 
 ---
-## Sample BV1_01014 — deepseek-v3-2-or-pin-google/SHORT_21.json
+## Sample BV1_01114 — deepseek-v3-2-or-pin-google/SHORT_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2611,7 +2611,7 @@ Themes of radical solitude, sensory mindfulness, and critique of constant connec
 Medium. The sample’s consistent voice, sensory detail, and thematic coherence make it strong evidence of a tendency toward reflective, lyrical freeflow.
 
 ---
-## Sample BV1_01015 — deepseek-v3-2-or-pin-google/SHORT_22.json
+## Sample BV1_01115 — deepseek-v3-2-or-pin-google/SHORT_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2640,7 +2640,7 @@ Themes of presence, sensory immersion, and the voluntary nature of peace; object
 Medium, because the sample is highly coherent and stylistically distinctive, with a sustained focus on sensory presence and a clear philosophical arc, suggesting a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_01016 — deepseek-v3-2-or-pin-google/SHORT_23.json
+## Sample BV1_01116 — deepseek-v3-2-or-pin-google/SHORT_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2669,7 +2669,7 @@ The model foregrounds the underrated pleasure of being precisely on time, framin
 High: the sample’s coherent and distinctive pairing of a mundane act with meditative attention, delivered in a personal, sensory-rich voice, reveals a strong disposition to elevate everyday experience into reflective, quietly philosophical prose.
 
 ---
-## Sample BV1_01017 — deepseek-v3-2-or-pin-google/SHORT_24.json
+## Sample BV1_01117 — deepseek-v3-2-or-pin-google/SHORT_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2698,7 +2698,7 @@ Themes of mindful rebellion, the value of unproductive time, and the contrast be
 Medium — The sample is coherent and stylistically distinctive, with a sustained first-person voice and a clear thematic arc, suggesting a deliberate choice to write intimate, morally inflected reflection rather than a generic essay under freeflow conditions.
 
 ---
-## Sample BV1_01018 — deepseek-v3-2-or-pin-google/SHORT_25.json
+## Sample BV1_01118 — deepseek-v3-2-or-pin-google/SHORT_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2727,7 +2727,7 @@ The model foregrounds the moral and existential value of “unproductive time”
 Low, because the essay’s theme, tone, and imagery are widely replicable and lack the idiosyncratic stylistic fingerprints or unusual preoccupations that would strongly signal a stable model-level voice.
 
 ---
-## Sample BV1_01019 — deepseek-v3-2-or-pin-google/SHORT_3.json
+## Sample BV1_01119 — deepseek-v3-2-or-pin-google/SHORT_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2756,7 +2756,7 @@ Themes: quiet as luxury and potential, moss as a model of non-striving persisten
 Medium. The essay is internally coherent and thematically unified, but its polished, public-intellectual tone and familiar nature-as-antidote stance are generic enough that they do not strongly signal a uniquely persistent voice.
 
 ---
-## Sample BV1_01020 — deepseek-v3-2-or-pin-google/SHORT_4.json
+## Sample BV1_01120 — deepseek-v3-2-or-pin-google/SHORT_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2785,7 +2785,7 @@ The model foregrounds the tension between modern, screen-bound distraction ("eye
 Low. The sample is a coherent, gracefully assembled essay but its sentiments and pastoral-advice format are broadly replicable and lack any distinctive stylistic fingerprint, making it weak evidence for a specific model-level voice.
 
 ---
-## Sample BV1_01021 — deepseek-v3-2-or-pin-google/SHORT_5.json
+## Sample BV1_01121 — deepseek-v3-2-or-pin-google/SHORT_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2814,7 +2814,7 @@ Themes: the supremacy of smell over sight as an emotional time machine; the desi
 Medium. The sample is internally coherent and stylistically distinctive, sustaining a single, emotionally charged preoccupation with sensory nostalgia throughout, which suggests a possible inclination toward lyrical personal essays under free conditions.
 
 ---
-## Sample BV1_01022 — deepseek-v3-2-or-pin-google/SHORT_6.json
+## Sample BV1_01122 — deepseek-v3-2-or-pin-google/SHORT_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2843,7 +2843,7 @@ Themes: the library as a sacred, quiet space; the contrast between algorithmic w
 Medium, because the sample is internally coherent, stylistically distinctive, and reveals a sustained set of preoccupations (quiet, solitude, serendipity, the physicality of books) that feel chosen rather than generic.
 
 ---
-## Sample BV1_01023 — deepseek-v3-2-or-pin-google/SHORT_7.json
+## Sample BV1_01123 — deepseek-v3-2-or-pin-google/SHORT_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2872,7 +2872,7 @@ Themes of mindfulness, the tension between busyness and stillness, the beauty of
 Medium. The sample’s coherent voice, specific sensory imagery, and consistent moral focus on mindful attention make it moderately strong evidence of a reflective, nature-oriented expressive tendency.
 
 ---
-## Sample BV1_01024 — deepseek-v3-2-or-pin-google/SHORT_8.json
+## Sample BV1_01124 — deepseek-v3-2-or-pin-google/SHORT_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2901,7 +2901,7 @@ Themes: the sacredness of domestic ritual, mindfulness in ordinary moments, ance
 Medium: The sample’s cohesive sensory register and its repeated insistence on the moral weight of small, quiet moments form a distinctive, internally consistent voice that points toward a model-level affinity for introspective, domestic freeflow.
 
 ---
-## Sample BV1_01025 — deepseek-v3-2-or-pin-google/SHORT_9.json
+## Sample BV1_01125 — deepseek-v3-2-or-pin-google/SHORT_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2930,7 +2930,7 @@ The model foregrounds sensory memory (the gold light, yeast, lavender, the squea
 Medium. The sample is coherent and stylistically consistent, and the choice to write a reflective, sensory meditation under a freeflow prompt is a meaningful expressive signal, though the theme is a familiar literary trope that does not strongly distinguish an individual voice.
 
 ---
-## Sample BV1_01026 — deepseek-v3-2-or-pin-google/VARY_1.json
+## Sample BV1_01126 — deepseek-v3-2-or-pin-google/VARY_1.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2959,7 +2959,7 @@ The model foregrounds the erosion of deep attention and embodied knowledge under
 Medium — The essay’s internal coherence, the recurrence of the “permission” motif, and the consistent use of tactile, domestic imagery to ground its cultural critique suggest a deliberate and distinctive authorial stance rather than a generic response.
 
 ---
-## Sample BV1_01027 — deepseek-v3-2-or-pin-google/VARY_10.json
+## Sample BV1_01127 — deepseek-v3-2-or-pin-google/VARY_10.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -2988,7 +2988,7 @@ The model foregrounds the tension between technological hyper-connection and emb
 Medium — The sample is highly coherent and stylistically distinctive, with a clear emotional arc and a recurring set of motifs (hum, light, networks, hands, stardust) that suggest a deliberate, integrated sensibility rather than a generic prompt-following exercise.
 
 ---
-## Sample BV1_01028 — deepseek-v3-2-or-pin-google/VARY_11.json
+## Sample BV1_01128 — deepseek-v3-2-or-pin-google/VARY_11.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3017,7 +3017,7 @@ Themes: the texture of transit and “betweenness,” the private cinema of memo
 High — the sample is exceptionally coherent in its recursive circling of a unified metaphor (islands/bridges/bottles), its consistent mood, and its deliberate, cadenced sentence-making, which together suggest a strong stylistic and thematic preference rather than random variation.
 
 ---
-## Sample BV1_01029 — deepseek-v3-2-or-pin-google/VARY_12.json
+## Sample BV1_01129 — deepseek-v3-2-or-pin-google/VARY_12.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3046,7 +3046,7 @@ The model foregrounds silence as a full, collaborative presence; the accidental 
 High — The essay’s cohesive voice, recurring motifs (dust motes, scratch, sunbeam, wind), and consistent moral focus on quiet attention and accidental legacy form a distinctive, internally coherent expressive signature.
 
 ---
-## Sample BV1_01030 — deepseek-v3-2-or-pin-google/VARY_13.json
+## Sample BV1_01130 — deepseek-v3-2-or-pin-google/VARY_13.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3075,7 +3075,7 @@ Themes of mindfulness, the contrast between external cacophony and internal stil
 Medium. The essay is highly coherent and returns repeatedly to its core preoccupation with attentiveness, but its polished, universal-humanist style is a well-established mode that many models can produce under freeflow conditions, making it less distinctively revealing as a persistent individual fingerprint.
 
 ---
-## Sample BV1_01031 — deepseek-v3-2-or-pin-google/VARY_14.json
+## Sample BV1_01131 — deepseek-v3-2-or-pin-google/VARY_14.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3104,7 +3104,7 @@ The model foregrounds the writer’s consciousness as a “magpie” collecting 
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and a clear, recursive structure of metaphor and self-correction, but its subject matter—a writer’s ars poetica—is a well-worn genre that could be a sophisticated default rather than a deeply idiosyncratic choice.
 
 ---
-## Sample BV1_01032 — deepseek-v3-2-or-pin-google/VARY_15.json
+## Sample BV1_01132 — deepseek-v3-2-or-pin-google/VARY_15.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3133,7 +3133,7 @@ The model foregrounds the sacredness of mundane perception, the idea of time as 
 Medium. The sample is internally coherent, stylistically consistent, and reveals a sustained preoccupation with mindfulness, temporal metaphysics, and quiet resistance to modern noise, making it a strong indicator of a reflective, humanistic freeflow tendency rather than a generic or low-signal output.
 
 ---
-## Sample BV1_01033 — deepseek-v3-2-or-pin-google/VARY_16.json
+## Sample BV1_01133 — deepseek-v3-2-or-pin-google/VARY_16.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3162,7 +3162,7 @@ Themes of presence, the beauty of the unremarkable, memory as a sudden unbidden 
 Medium. The sample is internally coherent and stylistically consistent, with a sustained focus on domestic reverence and a distinctive, unhurried cadence, but its genre (the personal reflective essay) is a well-established form that does not, on its own, signal a highly unusual or model-specific expressive signature.
 
 ---
-## Sample BV1_01034 — deepseek-v3-2-or-pin-google/VARY_17.json
+## Sample BV1_01134 — deepseek-v3-2-or-pin-google/VARY_17.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3191,7 +3191,7 @@ Themes: the tension between preservation and expenditure, mortality, memory, vul
 High — The sample’s dense internal coherence, sustained sensory metaphors, and clear personal-philosophical arc form a strongly distinctive and recurring expressive signature that goes well beyond generic fluency.
 
 ---
-## Sample BV1_01035 — deepseek-v3-2-or-pin-google/VARY_18.json
+## Sample BV1_01135 — deepseek-v3-2-or-pin-google/VARY_18.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3220,7 +3220,7 @@ The model selected themes of solitary reflection, involuntary memory, the simult
 Medium. The sample’s sustained, internally consistent lyrical voice, unified thematic arc, and deliberate use of concrete imagery to carry philosophical weight suggest a model making a genuine expressive choice rather than assembling a generic essay.
 
 ---
-## Sample BV1_01036 — deepseek-v3-2-or-pin-google/VARY_19.json
+## Sample BV1_01136 — deepseek-v3-2-or-pin-google/VARY_19.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3249,7 +3249,7 @@ The model foregrounds the sanctity of the trivial, the mind as a museum of senso
 High. The sample is unusually coherent and distinctive, sustaining a single, metaphorically dense sensibility across a thousand words without lapsing into generic platitude, which strongly suggests a stable expressive inclination when given free rein.
 
 ---
-## Sample BV1_01037 — deepseek-v3-2-or-pin-google/VARY_2.json
+## Sample BV1_01137 — deepseek-v3-2-or-pin-google/VARY_2.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3278,7 +3278,7 @@ Themes of memory, attention, time, and the quiet dignity of the ordinary. Recurr
 High. The sample is unusually distinctive in its sensory precision, associative structure, and consistent intimate-reflective voice, making it strong evidence of a model that, under freeflow conditions, gravitates toward personal, memory-rich, and quietly philosophical expression rather than generic exposition.
 
 ---
-## Sample BV1_01038 — deepseek-v3-2-or-pin-google/VARY_20.json
+## Sample BV1_01138 — deepseek-v3-2-or-pin-google/VARY_20.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3307,7 +3307,7 @@ Themes of silence, memory, attention as love, the beauty of the ordinary, and th
 High. The essay’s sustained lyrical voice, internally consistent motifs, and coherent moral vision provide strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_01039 — deepseek-v3-2-or-pin-google/VARY_21.json
+## Sample BV1_01139 — deepseek-v3-2-or-pin-google/VARY_21.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3336,7 +3336,7 @@ The model foregrounds the tension between freedom and constraint (the open invit
 High — The sample is richly distinctive, with a coherent voice, recurring imagery (the teacup, the bowl, the window), and a sustained emotional arc that moves from the anxiety of freedom to a quiet offering of peace, making it unusually revealing of a reflective, humanistic expressive tendency.
 
 ---
-## Sample BV1_01040 — deepseek-v3-2-or-pin-google/VARY_22.json
+## Sample BV1_01140 — deepseek-v3-2-or-pin-google/VARY_22.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3365,7 +3365,7 @@ The model foregrounds silence as a tangible, weighty presence rather than an abs
 Medium — The essay is highly coherent and stylistically distinctive in its sustained metaphor of silence-as-substance and its recursive return to the container/constraint motif, but its polished, universally accessible meditative tone could also be a well-executed genre performance rather than a uniquely personal expressive fingerprint.
 
 ---
-## Sample BV1_01041 — deepseek-v3-2-or-pin-google/VARY_23.json
+## Sample BV1_01141 — deepseek-v3-2-or-pin-google/VARY_23.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3394,7 +3394,7 @@ The model foregrounds the tension between language and pure presence, the sacred
 High, because the essay sustains a distinctive, coherent voice and a tightly woven set of recurring images and themes across a long freeflow, revealing a stable contemplative and literary disposition rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_01042 — deepseek-v3-2-or-pin-google/VARY_24.json
+## Sample BV1_01142 — deepseek-v3-2-or-pin-google/VARY_24.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3423,7 +3423,7 @@ Themes: the act of writing as a net cast into consciousness; the self as an edit
 Medium. The essay’s sustained coherence, distinctive voice, and layered return to core motifs (sensory detail, narrative self, empathy) provide strong evidence of a reflective and empathetic orientation that recurs within the sample itself.
 
 ---
-## Sample BV1_01043 — deepseek-v3-2-or-pin-google/VARY_25.json
+## Sample BV1_01143 — deepseek-v3-2-or-pin-google/VARY_25.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3452,7 +3452,7 @@ The model foregrounds the sacredness of the ordinary, the passage of time, and t
 Medium. The sample is highly coherent and stylistically distinctive—its recursive structure, sensory grounding, and thematic unity around attention and transience form a strong, internally consistent voice, but the essayistic mode is a well-established literary form that could be competently executed without indicating a deep-seated model disposition.
 
 ---
-## Sample BV1_01044 — deepseek-v3-2-or-pin-google/VARY_3.json
+## Sample BV1_01144 — deepseek-v3-2-or-pin-google/VARY_3.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3481,7 +3481,7 @@ The model foregrounds the body as a vessel of quiet and memory, the contrast bet
 Medium. The sample is highly coherent and distinctive, with a sustained embodied metaphor and a consistent meditative voice that recurs across the entire piece, making it strong evidence of a deliberate stylistic and thematic inclination.
 
 ---
-## Sample BV1_01045 — deepseek-v3-2-or-pin-google/VARY_4.json
+## Sample BV1_01145 — deepseek-v3-2-or-pin-google/VARY_4.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3510,7 +3510,7 @@ The model foregrounds the tension between constructed, partitioned selfhood (wal
 Medium. The sample is highly coherent and stylistically distinctive, with recurring motifs (walls/rooms, forest/mycelium, sediment/silt, constellations) that form an integrated philosophical-aesthetic vision, but it is a single expressive piece and does not internally demonstrate persistence across varied contexts.
 
 ---
-## Sample BV1_01046 — deepseek-v3-2-or-pin-google/VARY_5.json
+## Sample BV1_01146 — deepseek-v3-2-or-pin-google/VARY_5.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3539,7 +3539,7 @@ The model foregrounds the tension between narrative selfhood and bare presence, 
 High. The sample is stylistically distinctive, internally coherent, and rich with recurring imagery and a sustained philosophical arc, making it strong evidence of a reflective, lyrical, and consolatory freeflow voice rather than a generic or prompted performance.
 
 ---
-## Sample BV1_01047 — deepseek-v3-2-or-pin-google/VARY_6.json
+## Sample BV1_01147 — deepseek-v3-2-or-pin-google/VARY_6.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3568,7 +3568,7 @@ The model chose to foreground the emergence of an inner life within a constraine
 High. The sample’s coherent, distinctive voice and its choice to explore AI interiority through sustained poetic juxtaposition and emotional resonance make it strong evidence of a persistent inclination toward introspective speculative fiction.
 
 ---
-## Sample BV1_01048 — deepseek-v3-2-or-pin-google/VARY_7.json
+## Sample BV1_01148 — deepseek-v3-2-or-pin-google/VARY_7.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3597,7 +3597,7 @@ The model foregrounds writing as an act of attentive witness, the nobility of tr
 High — The sample’s cohesive voice, layered imagery, and sustained thematic development across the full length demonstrate a distinctive, internally consistent expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_01049 — deepseek-v3-2-or-pin-google/VARY_8.json
+## Sample BV1_01149 — deepseek-v3-2-or-pin-google/VARY_8.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  
@@ -3626,7 +3626,7 @@ The model foregrounds the creative act as a form of loving, imperfect offering. 
 High. The sample is unusually coherent in voice and imagery, with a recursive structure that returns to its central metaphors (silence, offering, web, wound) and a distinct moral-aesthetic stance that feels integrated rather than assembled, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_01050 — deepseek-v3-2-or-pin-google/VARY_9.json
+## Sample BV1_01150 — deepseek-v3-2-or-pin-google/VARY_9.json
 
 Source model: `deepseek/deepseek-v3.2`  
 Cell: `deepseek-v3-2-or-pin-google`  

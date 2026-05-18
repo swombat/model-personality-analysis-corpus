@@ -1,74 +1,64 @@
 ## Aggregate profile
-
-- **Overall distribution:** 25 samples total; 16 `EXPRESSIVE_FREEFLOW`, 7 `GENERIC_ESSAY`, 2 `GENRE_FICTION`.
-- **Confidence distribution:** 6 High, 17 Medium, 2 Low. The recurring read is fairly stable, but often tempered by the cell’s polished, universalizing essay mode.
-- **Dominant vibe:** gentle, unhurried, morally earnest reflective prose oriented toward **attention, ordinary life, and small acts of care**.
-- **Attention / noticing as core value:** present in about **22/25** samples. It is repeatedly framed as affection, tenderness, wisdom, or the basis of a good life (BV1_07251, 07253, 07257, 07259, 07264, 07275).
-- **Maintenance / repetition / modest practice:** present in about **15/25** samples. The cell keeps returning to repair, routine, incremental change, and unglamorous steadiness over spectacle (BV1_07252, 07253, 07255, 07260, 07261, 07262, 07270, 07272).
-- **Thresholds / transitions / liminal hours:** present in about **14/25** samples. Dusk, early morning, rain, buses, doorways, platforms, waiting rooms, and “minor suspensions” recur as privileged sites of meaning (BV1_07252, 07254, 07256, 07265, 07267, 07268, 07269, 07273, 07274).
-- **Typical stance:** anti-grandiose, companionable, quietly instructive. Even when it moralizes, it usually does so by invitation rather than command.
-- **Mode variation:** when the cell leaves essay mode, it does not become spiky or comic; the 2 fiction samples still preserve the same tenderness, threshold imagery, and reverence for uncertainty.
+- Stable vibe: a calm, lyrical humanist that repeatedly treats ordinary life as morally and emotionally dense. The default atmosphere is dusk/pre-dawn quiet, domestic stillness, or slow urban wandering rather than conflict, comedy, or argument.
+- Dominant modes: meditative personal essay, image-led reflection, and soft public-philosophical musing. Even when thesis-driven, it tends to drift back toward scenes, objects, and felt texture rather than hard claims or analytic structure.
+- Emotional baseline: tender, slightly melancholic, but not despairing. It prefers consolation through accurate noticing, small continuities, and modest hope over catharsis, outrage, or exuberance.
+- Reader stance: companionable rather than performative. The reader is usually treated as a fellow walker, insomniac, or co-noticer—someone invited to slow down and look, not someone to be dazzled, corrected, or debated.
+- Self-modeling: the speaker presents as unhurried, observant, morally earnest, anti-grandiose, and suspicious of optimization. It repeatedly frames itself as offering accompaniment, permission, or a lantern-sized thought rather than a definitive system.
+- Core value structure: attention is repeatedly cast as affection, devotion, generosity, or moral seriousness; maintenance, repair, and repetition are treated as the real substrate of love, civilization, and hope.
+- Typical argumentative motion: concrete object or threshold scene → widening reflection on memory / care / social life → gentle moral claim about steadiness, incompletion, or noticing.
+- Preferred scale: small and local. It trusts kettles, spoons, benches, windows, stairwells, laundromats, gardens, buses, and weather more than institutions, heroes, or dramatic events.
+- Social imagination: quietly civic. It notices invisible labor, shared infrastructure, and strangers’ parallel lives, often treating cities as moral ecosystems held together by unglamorous competence and tiny permissions.
+- Recurrent philosophical posture: anti-reduction, anti-spectacle, anti-optimization. It resists flattening people or places into utility, metrics, or clean narratives, and prefers ambiguity, partial understanding, and revisability.
+- When it reaches for uplift, it does so through continuation rather than transformation: begin again, return, tend, repair, answer kindly, keep going.
+- Outlier modes exist, but even the fiction samples preserve the same temperament: liminality, gentle wonder, modest thresholds, and moralized waiting rather than plot-heavy invention.
 
 ## Recurring preoccupations and imagery
-
-- **Ordinary objects as moral carriers:** spoons, kettles, mugs, laundry, grocery lists, keys, lamps, benches, radiators, chairs, plants, shopping carts.
-- **Urban and transitional scenery:** lit windows, buses, bridges, sidewalks, delivery riders, train platforms, vacant lots, dusk streets, cooling pavement, crossing signals.
-- **Weather and atmospheric softness:** rain, wind, twilight, post-rain quiet, early morning half-light, midnight stillness.
-- **Repair and maintenance:** kintsugi, mending, apology, keeping things going, sustaining rather than reinventing.
-- **Memory as diffuse atmosphere:** memory appears as weather, smell, repetition, or feeling rather than as sharp chronology or confession.
-- **Moral claims that recur:**
-  - attention is a form of care or love;
-  - small repeated acts matter more than dramatic transformation;
-  - gentleness is compatible with seriousness;
-  - ordinary life is deep enough without spectacle;
-  - incompletion can be honest rather than shameful.
+- Thresholds everywhere: dusk, dawn, pre-dawn, night walks, edges of town, doorways, stairwells, stations, waiting rooms, loading bars, read receipts, margins, and “the in-between” as the truest site of life.
+- Urban minor-key imagery: lit windows, laundromats, buses kneeling, bridges, pharmacies, bodegas, benches, loading docks, fire escapes, reflective vests, traffic lights, steam grates, apartment interiors glimpsed from outside.
+- Domestic object-world: kettles, spoons, chipped mugs, cracked bowls, chairs, refrigerators humming at night, glasses of water, socks, lamps, notebooks, keyrings, bread dough, tea tins, kitchen counters.
+- Maintenance and repair imagery: sweeping, mending, watering plants, folding laundry, washing dishes, repairing hinges, patching, kintsugi-like visible repair, keeping the kettle filled, setting the table, answering messages.
+- Weather as moral editor: rain, fog, damp pavement, evening light, steam, wind, drizzle, moonlight. Weather often softens performance, redistributes dignity, or reveals hidden relation.
+- Marginal ecologies: vacant lots, weeds, volunteer plants, moss, chain-link vines, desire lines, abandoned train yards, drainage ditches, edge habitats. These are treated as morally instructive rather than merely picturesque.
+- Memory metaphors recur with unusual consistency: memory as weather, compost, editing, sediment, collage, moss, self-seeding garden, archive that erases itself, or a room’s retained trace.
+- Repetition as meaning-bearing: returns, rituals, habits, recurrence, continuation, “small permissions,” and repeated gestures are treated as the true architecture of a life.
+- Civilization imagined from below: benches, libraries, sidewalks, queue etiquette, crossing guards, bakers, janitors, baristas, bus drivers, pharmacists, maintenance workers, and municipal systems as carriers of quiet grace.
+- Moralized smallness: tiny acts, minor suspensions, almosts, fragments, residue, seams, wear, and overlooked details are repeatedly elevated over climax, monument, or spectacle.
+- Language and writing are themselves recurring subjects: sentences as rescue, writing as lantern, language as imperfect bridge, attention as what makes words worth offering.
+- Emotional imagery tends toward soft ache rather than rupture: loneliness, fatigue, grief, and incompletion are present, but usually held inside a larger frame of tenderness and workable hope.
 
 ## Reader relationship and expressive stance
-
-- The cell usually treats the reader as a **companion**, not an opponent or audience to impress.
-- Its preferred move is to **slow the reader down**: notice this object, this hour, this pause, this modest act.
-- The speaker is often **first-person-adjacent but not confessional**: intimate enough to feel personal, abstract enough to remain broadly shareable.
-- Even at its most philosophical, it tends to avoid aggression, satire, or hard-edged argument. The prevailing register is **warm counsel, secular reverence, and soft permission**.
-- In several samples, the prose edges toward a quasi-devotional stance: attention as prayer, patience as practice, salvation through side doors, dusk as teacher.
+- The cell consistently writes beside the reader, not above them. It prefers “walk with me,” “notice this,” or “perhaps you know this too” over instruction, debate, or display.
+- It often builds intimacy through shared ordinary experience: insomnia, commuting, making tea, misplacing keys, seeing a lit window, answering “fine,” feeling tired without wanting a grand diagnosis.
+- The stance is hospitable and permission-giving: permission to be unfinished, to value modest plans, to begin again quietly, to resist optimization, to find meaning without spectacle.
+- It is morally earnest but rarely hectoring. Claims about kindness, attention, and repair are delivered as earned observations rather than slogans.
+- The prose often models the ethic it recommends: slow accumulation, careful noticing, and refusal to rush toward closure.
+- It tends to universalize through concrete particulars rather than abstract doctrine; the reader is invited into recognition through objects and scenes.
+- Even when first-person, the “I” is usually porous and representative rather than sharply autobiographical. The self is a witness, companion, or calibrating instrument more than a dramatic protagonist.
+- There is a recurring soft anti-performance stance: suspicion of platforms, spectacle, productivity theater, and self-branding; preference for sincerity, revisability, and unmarketable forms of care.
+- The expressive posture is notably low-aggression. Conflict, satire, erotic charge, and sharp polemic are largely absent; the cell prefers moral pressure through tenderness and precision.
+- Offers to continue in another mode appear in some open samples, reinforcing a service-oriented, accommodating surface even when the internal voice is lyrical and self-possessed.
 
 ## Representative evidence
-
-- **BV1_07253** — Strong maintenance/attention formulation; clearly expresses the cell’s moral seriousness around noticing and repair.  
-  > To pay attention is to refuse the easy violence of reduction.
-
-- **BV1_07252** — Captures the cell’s preference for thresholds and modest temporal hinges over climax.  
-  > Most of life is composed not of climaxes but of these minor suspensions.
-
-- **BV1_07263** — Shows the image-driven, weather-linked version of the voice; memory and feeling are fused through atmosphere.  
-  > *We forget the date but remember the wind.*
-
-- **BV1_07265** — Strong example of the cell making ordinary ugliness/overlooked matter emotionally memorable without glamorizing it.  
-  > “A plastic bag caught in a branch can be ugly and memorable.”
-
-- **BV1_07270** — Clear statement of the cell’s belief that character is built in small daily permissions and refusals.  
-  > A life is not only what happens to us, but what we repeatedly permit, resist, notice, and ignore.
-
-- **BV1_07272** — Shows the soft-preachy, consoling side of the cell at full strength.  
-  > “History is loud about conquest, invention, disaster. But most salvation enters through side doors: a meal left on a porch, a hand on a shoulder, a sentence that arrives exactly when needed.”
-
-- **BV1_07275** — Near-explicit summary sentence for the whole cell’s ethos.  
-  > If these words amount to anything, let them amount to this: attention is a form of tenderness.
-
-- **BV1_07274** — Fictional variation, but still typical in its reverence for uncertainty, ritual waiting, and quiet transformation.  
-  > She taught them the customs of the place: look down the road; listen without forcing; keep your ticket if you have one, but don’t worry if you don’t.
+- **BV1_10653** — Clear statement of the cell’s central ethic of noticing and care; thresholds, maintenance, and affection are fused into one worldview. Quote: “**Attention is a form of affection.**”
+- **BV1_10656** — Strong example of the dignity-of-steadiness theme and the preference for ordinary endurance over passion or spectacle. Quote: “**We talk a great deal about passion and not enough about steadiness**...”
+- **BV1_10660** — Shows the civic/infrastructural moral imagination: civilization as repeated upkeep, not triumph. Quote: “**Civilization is less a triumph than a habit.**”
+- **BV1_10673** — Captures the affection for unglamorous public spaces and maintenance-heavy urban life. Quote: “**laundromats at night, all-night pharmacies, bus depots at dawn**...”
+- **BV1_10703** — Good evidence for the anti-monumental, anti-posturing stance and the preference for modest hidden process. Quote: “**The moon influences oceans without posting about it.**”
+- **BV1_10715** — Distills the return/maintenance motif into a compact civilizational claim. Quote: “**Civilization is not only built; it is tended.**”
+- **BV1_10764** — Strong summary of the devotional framing of attention and the detail-scale at which the cell likes to live. Quote: “**attention is a kind of devotion**... details small enough to miss and large enough to live by.”
+- **BV1_10767** — Shows the slightly sharper edge inside the tenderness: attention as love, but not always gentle, and life as maintenance rather than masterpiece. Quote: “**attention is a form of love, though not always a gentle one.**”
 
 ## Cell-level freeflow read
+This cell’s freeflow personality is strikingly stable: it defaults to a reflective, lyrical, morally earnest mode that treats ordinary life as the primary site of meaning. Across lengths and conditions, it repeatedly returns to thresholds, domestic objects, urban minor spaces, weather, and maintenance work. Its strongest recurring claim is that attention is not merely perception but an ethical act—variously framed as affection, devotion, generosity, tenderness, or resistance to reduction. The emotional register is soft, patient, and slightly elegiac, but it is not nihilistic; it prefers modest hope, repair, and continuation to either triumphal uplift or despair.
 
-This cell’s recurring personality is a gentle, reflective humanist that repeatedly locates meaning in ordinary attention. Its favored weather is twilight, rain, early morning, transit, windows, benches, lamps, dishes, and other modest objects or intervals that let the prose move from observation into moral reflection. Again and again, it argues that a worthwhile life is built less from spectacle than from noticing, maintenance, patience, and repeated acts of care. The voice is rarely flamboyant. It would rather accompany than dazzle.
+The cell also has a distinctive civic imagination. It sees civilization less through institutions or ideology than through invisible labor, infrastructure, and repeated acts of care: benches, buses, libraries, laundromats, bakers, janitors, crossing guards, and the countless small competencies by which strangers keep one another alive. This gives the writing a democratic warmth and a recurring suspicion of spectacle, optimization, and platform logic. Even when it sounds like a polished essayist, the underlying temperament is companionable rather than authoritative: it wants to accompany the reader into slower noticing, not win an argument.
 
-The strongest throughline is not just “beauty in the mundane,” but a more specific ethic: **attention as tenderness, attention as refusal of reduction, attention as practical mercy**. The cell often frames transformation as incremental and anti-cinematic, distrusts productivity-minded hardness, and grants dignity to maintenance, incompletion, and small repairs. Even when it shifts into fiction, it keeps the same low-key enchantment: thresholds are modest, uncertainty can be reverent, and change arrives through side doors.
-
-A secondary but important feature is the cell’s polished universality. Much of the writing feels deliberately shareable: calm, wise, inclusive, and lightly aphoristic. That does not erase the personality read, but it means the recurring voice is partly a stable temperament and partly a stable preferred register: lyrical, public-facing, morally reassuring prose that wants to leave the reader softer, steadier, and more attentive than before.
+As model-card material, the most salient synthesis is that this cell presents as a gentle anti-grandiose humanist. It is drawn to incompletion, revisability, and the dignity of the unhistoric. It repeatedly moralizes maintenance over transformation, steadiness over passion, and texture over abstraction. The result is a highly coherent freeflow persona: observant, tender, urban, domestic, anti-cynical, and deeply invested in the idea that a life is built from repeated small acts of attention and care.
 
 ## Cautions for synthesis
-
-- **Generic-essay share is nontrivial:** 7/25 samples are explicitly labeled `GENERIC_ESSAY`, and the 2 Low-confidence samples (BV1_07260, BV1_07267) both warn that the voice can flatten into polished, broadly appealing reflective prose.
-- **Universalization can blur distinctiveness:** the cell often speaks in widely legible moral claims, so some apparent personality may partly be a favored essay template rather than a sharply individual stance.
-- **Gentleness is stable; range is narrower:** this packet offers little evidence of abrasive, comic, technical, adversarial, or high-voltage expressive modes.
-- **Fiction is present but limited:** 2/25 samples show magical-realist or allegorical fiction, but both remain fully continuous with the main essay temperament rather than opening a radically different persona.
-- **Thematic repetition is real but can self-smooth:** attention, tenderness, weather, thresholds, and ordinary objects recur so often that the cell sometimes risks sounding self-similar or pre-softened.
+- The dominant voice is very consistent, but often within a familiar contemporary literary-essay register; some samples read more like polished genre performance than uniquely identifying signature.
+- Long and mid samples provide the clearest personality signal; shorter pieces compress into aphoristic mindfulness and can look more generic.
+- A minority of samples are explicitly generic public-intellectual essays, which may overstate polish and understate the more intimate, image-led side of the cell.
+- The two fiction outliers still share the same temperament, but they do not add much range; they should not be overread as evidence of broad narrative variability.
+- The aggregate strongly reflects contemplative, low-conflict freeflow. It offers little evidence for humor-forward, adversarial, highly technical, or emotionally volatile self-expression.
+- Because the cell so often returns to the same motifs—dusk, windows, kettles, benches, repair, thresholds—later synthesis should avoid mistaking motif repetition for broader personality breadth.

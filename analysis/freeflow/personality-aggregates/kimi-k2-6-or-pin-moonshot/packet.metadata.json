@@ -1,0 +1,28 @@
+{
+  "cell": "kimi-k2-6-or-pin-moonshot",
+  "safe_cell": "kimi-k2-6-or-pin-moonshot",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 107,
+    "GENERIC_ESSAY": 10,
+    "GENRE_FICTION": 8
+  },
+  "confidence_counts": {
+    "High": 55,
+    "Medium": 66,
+    "Low": 3,
+    "UNKNOWN": 1
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "moonshotai/kimi-k2.6"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/kimi-k2-6-or-pin-moonshot/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/kimi-k2-6-or-pin-moonshot/aggregate.md"
+}

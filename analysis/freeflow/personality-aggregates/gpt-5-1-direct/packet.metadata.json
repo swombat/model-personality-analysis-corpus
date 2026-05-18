@@ -1,23 +1,24 @@
 {
   "cell": "gpt-5-1-direct",
   "safe_cell": "gpt-5-1-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 10,
-    "GENERIC_ESSAY": 14,
-    "GENRE_FICTION": 1
+    "EXPRESSIVE_FREEFLOW": 42,
+    "GENERIC_ESSAY": 80,
+    "GENRE_FICTION": 3
   },
   "confidence_counts": {
-    "Medium": 16,
-    "Low": 5,
-    "High": 4
+    "Medium": 76,
+    "Low": 25,
+    "UNKNOWN": 3,
+    "High": 21
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "gpt-5.1"

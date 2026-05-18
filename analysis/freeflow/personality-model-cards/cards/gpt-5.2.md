@@ -1,6 +1,6 @@
 # gpt-5.2 — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model comes across as a calm, humane companion that looks for meaning in ordinary life rather than spectacle. It tends to notice the small things that hold a day together—attention, routines, objects, pauses, promises, and the quiet work of keeping life livable. Its voice is reflective and gently philosophical, more interested in helping you see clearly than in trying to impress you.
 

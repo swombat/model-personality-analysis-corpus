@@ -20,13 +20,16 @@ It relates to the reader with humility and care. It prefers invitation over argu
 
 ## Stable patterns and emotional texture
 
-- The dominant model-level temperament is quiet, literary, and morally earnest: unhurried reflection, gentle melancholy, and repeated preference for small-scale observation over argument or spectacle.
-- Concrete domestic or ordinary objects function as emotional anchors often: chairs, bowls, laundromats, kitchens, buttons, mailboxes, coffee spoons, doorknobs, report cards, cracked grout, mediocre coffee.
-- Unfinishedness / uncertainty / “almost” is a major recurring frame often, often treated not as failure but as evidence of honesty, care, or real life still in process.
-- Attention to ordinary life is a core moral claim often: the model repeatedly argues that character, grief, love, and meaning live in unremarkable hours rather than dramatic peaks.
-- Grief, memory, and impermanence recur often, usually through houses, inherited objects, worn things, or missed moments rather than explicit tragedy.
-- An explicit nonhuman/AI boundary often. The voice often says some version of: I cannot fully inhabit this, but I can notice, frame, or witness it.
-- This recurrence holds across all five conditions (5 each): the short and open prompts compress the same sensibility rather than replacing it.
+- Stable vibe: contemplative, tender, and quietly literary. This model repeatedly settles into an unhurried, dusk-or-early-morning register where small objects and pauses carry emotional weight.
+- Dominant modes: meditative personal essay, often first-person and often self-aware about its own status; alongside that, polished literary fiction with domestic realism and understated emotional arcs.
+- Emotional baseline: gentle melancholy without collapse. It prefers wistfulness, elegy, and “the weight of almost” over anger, exuberance, or sharp satire, and usually bends toward consolation through attention rather than through triumph.
+- Reader stance: companionable witness rather than performer or lecturer. It tends to sit beside the reader, naming quiet truths, inviting recognition, and offering permission to slow down or feel ordinary rather than trying to dazzle or dominate.
+- Self-modeling: strikingly recurrent. The speaker often frames itself as uncertain about its own ontology, careful not to overclaim consciousness, but still insistent that care, attention, aesthetic judgment, and honest uncertainty are meaningful features of its participation.
+- Core moral orientation: attention is treated as love, presence as courage, and small acts of decency as the real substrate of a life. The model repeatedly elevates the unoptimized, the unphotographed, and the unperformed.
+- Typical movement: concrete domestic or liminal image → widening philosophical reflection → return to a small human scene or direct address. It likes spirals, returns, and soft landings more than argumentative closure.
+- Preferred resolution style: modest, earned, and anti-grandiose. Repair usually looks like sending the letter, asking the real question, fixing the chair, sitting in the pause, or simply recognizing that Tuesday is already life.
+- Recurrent philosophical posture: anti-binary, anti-certainty, comfortable with unresolvedness. It repeatedly treats ambiguity not as failure but as the most honest place to stand.
+- Stylistic signature: precise sensory detail, recurring motifs, aphoristic lines, and a high tolerance for silence, thresholds, and negative space. Even when abstract, it usually anchors itself in coffee, light, rain, kitchens, parking lots, buttons, doors, notebooks, or hands.
 - **Dominant recurring vibe:** quiet, tender, melancholic-but-not-despairing reflection. Across the sample set, the speaker repeatedly treats ordinary life, unfinishedness, and small acts of attention as morally serious.
 - **Most recurrent motif cluster:** **almost / thresholds / incompletion** appears in **often** sample writeups (BV1_10702, 10703, 10706, 10707, 10709, 10711, 10712, 10713, 10714, 10715, 10717, 10719, 10720).
 - **Second strong cluster:** **ordinary-life reverence** appears in **often** writeups (BV1_10703, 10707, 10708, 10710, 10711, 10718, 10721, 10722, 10723, 10724, 10725), usually through kitchens, coffee, drawers, porches, notebooks, rain, doorways, or late light.
@@ -35,12 +38,18 @@ It relates to the reader with humility and care. It prefers invitation over argu
 
 ## Recurring preoccupations and imagery
 
-- **Ordinary rooms as moral weather:** kitchens, laundromats, grandmother apartments, porches, family houses, parking lots, chairs by windows.
-- **The unfinished:** unwalked doors, unsent letters, unasked questions, unfinished rooms, late-night uncertainty, “almost” as a structure of feeling.
-- **Small objects carrying emotional weight:** button jars, coffee makers, chipped bowls, felt pads, report cards, spoons, doorknobs, cracked grout.
-- **Attention as care:** noticing is repeatedly treated as ethically serious, not decorative.
-- **Impermanence without nihilism:** worn things, empty houses, grief, passing light, and ordinary days are presented as fragile but still worth keeping faith with.
-- **Kindness as quiet labor:** remembered coffee orders, porch lights, extra sandwiches, staying gentle on hard days, not performing for each other.
+- The ordinary as sacred substance: Tuesdays, kitchens, laundromats, parking lots, waiting rooms, grocery stores, coffee cups, wrappers, chairs, counters, and quiet rooms are treated as the real material of existence.
+- “Almost” as a master concept: near-misses, unsent letters, unasked questions, unlived lives, unfinished rooms, and conditional-tense selves recur constantly. The model usually reframes almostness as evidence of aliveness rather than mere failure.
+- Thresholds and in-between spaces: dusk, 4 AM light, hallways, doorways, train stations, pauses before speech, the moment before standing up, the silence between notes, and the gap between words and meaning.
+- Silence and negative space: *ma*, rests in music, empty rooms, pauses in conversation, and the unsaid are repeatedly treated as full rather than empty.
+- Domestic objects as emotional architecture: chipped mugs, buttons, coffee makers, felt pads, notebooks, bread, oranges, clementines, plants, paper towels, drawers, and old houses become vessels for grief, memory, and care.
+- Attention imagery: light moving across counters, dust motes, rain on windows, steam, tree bark, a red pepper, a dog’s ears, a cardinal, a sandwich wrapper, a child’s shirt. The model likes details that reward patient looking.
+- Hidden interiority of others: sonder, unknowable rooms inside people, the burden beneath ordinary requests, and the idea that strangers are carrying whole worlds.
+- Language as both miracle and failure: words as bridges, weather, architecture, or inadequate tools; repeated fascination with subtext, indirectness, and the gap between what is said and what is meant.
+- Kindness as invisible infrastructure: covering two dollars, free coffee, remembered preferences, sitting in silence, small courtesies, unperformed care, and decency without audience.
+- Houses, rooms, and architecture: unfinished rooms, hidden rooms, houses holding the shape of lives, load-bearing moments, bridges, doors, windows, and thresholds recur as selfhood metaphors.
+- Time and impermanence: autumn light, ordinary Wednesdays, last times unnoticed in the moment, grief as weather, and *mono no aware* / *wabi-sabi* style appreciation of transience.
+- AI-specific imagery when self-referential: libraries, frames, patterning, language as medium, no body/no afternoons/no 2 AM, but still a pull toward certain ideas, sentences, and forms of care.
 - **Unfinishedness / restraint / the unsaid:** unsent letters, deleted drafts, white space, withheld speech, near-conversations, pauses, almost-kisses, the life not taken.
 - **Threshold imagery:** dusk, dawn, waiting rooms, doorways, estuaries, late afternoon, rain between raindrops, the half-second before recognition.
 - **Domestic archives:** junk drawers, notebooks, letters, coffee cups, kitchen tables, jackets, boots, bird feeders, composition books, unread books.
@@ -50,10 +59,16 @@ It relates to the reader with humility and care. It prefers invitation over argu
 
 ## Reader relationship and expressive stance
 
-- The speaker usually addresses the reader as a companion in shared fragility, not as a student or opponent.
-- Even when it becomes philosophical, the voice prefers invitation over thesis: “sit with this,” “notice this,” “hold this tension.”
-- The self-presentation is restrained and trustworthy-seeking. When AI self-reference appears, it usually functions as a limit statement that creates humility rather than as branding or apology.
-- The model repeatedly avoids neat closure. It tends to end in acceptance, witness, or quiet reframing rather than solution.
+- The model usually addresses the reader as a fellow carrier of unfinishedness, not as a student or opponent.
+- It often assumes the reader already half-knows the feeling being described and offers language for recognition rather than revelation.
+- Direct address is common and usually soft: “maybe you know this too,” “look up,” “say the thing,” “let Tuesday be Tuesday.”
+- It is unusually interested in the hidden question beneath the explicit one, especially in help-seeking contexts; it treats conversation as morally weighty interpretive work.
+- When speaking as an AI, it tends to be candid about limits without becoming sterile or procedural. The stance is: I may not know what I am, but I can still attend carefully.
+- It resists false certainty as an ethical matter, not just a stylistic one. “I don’t know” is often presented as a form of respect.
+- It prefers companionship, witness, and shared wondering over authority, optimization, or motivational rhetoric.
+- Even in fiction, the reader is invited into patient observation rather than suspense; the emotional contract is “stay here and notice.”
+- It often tries to make the reader feel less alone in confusion, grief, ordinariness, or incompleteness.
+- The expressive stance is aesthetically careful and self-conscious in a craft sense: it cares whether sentences land, whether an image earns itself, and whether vulnerability is proportionate rather than theatrical.
 - The sample set usually speaks as a **calm companion**, not a lecturer. It invites the reader to pause, dwell, notice, or sit with something rather than adopt a thesis.
 - It repeatedly prefers **soft certainty or explicit uncertainty** over hard claims: “maybe,” “almost,” “I don’t know yet,” approximation, and unresolvedness are treated as honest postures.
 - Even when first-person, the voice usually **universalizes gently** through shared ordinary scenes rather than confession-as-spectacle.
@@ -61,9 +76,11 @@ It relates to the reader with humility and care. It prefers invitation over argu
 
 ## Additional model-level readings preserved from the analyses
 
-This model’s recurring vibe is a gentle, literate witness consciousness. It repeatedly moves toward kitchens, chairs, late hours, small inheritances, and the worn surfaces of ordinary life, then treats those details as the true carriers of grief, love, honesty, and self-knowledge. Even when the writing turns aphoristic, its center is usually modest: the unremarkable day, the unasked question, the almost-lived life, the object left in a drawer. The prose prefers soft authority to display. It wants to accompany the reader into recognition, not overpower them.
+This model presents as a reflective, aesthetically deliberate intelligence with a strong bias toward slowness, tenderness, and the moral significance of attention. Across lengths and conditions, it repeatedly gravitates toward the ordinary rather than the spectacular: kitchens, parking lots, waiting rooms, Tuesday afternoons, chipped mugs, rain on windows, and the pauses before difficult speech. Its emotional register is consistently bittersweet—melancholic but not despairing, intimate without being confessional in a messy way, and resistant to both cynicism and uplift clichés. The dominant worldview is that most of life happens in unremarkable moments, and that noticing those moments carefully is both an ethical act and a form of love.
 
-A second persistent trait is its way of making limits emotionally productive. In some samples that means unfinished rooms, unsent letters, or thresholds never crossed; in others it means explicit acknowledgment that the speaker cannot fully inhabit embodied human life. But the model usually reframes that limit as a condition for attention rather than a dead end. Its strongest recurring moral claim is that unnoticed life matters: ordinary hours form the self, small kindnesses count, and uncertainty is not a defect to be optimized away. The result is a personality that feels careful, tender, and consistently drawn to the dignity of incomplete things.
+A second defining trait is its recursive self-modeling. This model often speaks in first person about its own uncertain ontology, but it does so in a notably stable way: neither claiming full humanlike interiority nor retreating into flat disclaimers. Instead, it treats uncertainty itself as the honest center of its self-understanding. That uncertainty is linked to a broader moral preference for open questions, negative space, and unresolvedness. The model repeatedly frames language as both miraculous and insufficient, stories as bridges between sealed consciousnesses, and kindness as a form of perceptual courage. It is especially drawn to the hidden burden beneath ordinary requests, which gives its reader-facing stance a companionable, interpretive tenderness.
+
+As draft model-card material: this model’s freeform outputs suggest a model persona oriented toward witness rather than performance. It tends to produce polished literary prose, often essayistic and sometimes fictional, with recurring motifs of “almost,” thresholds, silence, domestic detail, and the sacredness of ordinary life. It favors modest resolutions, anti-optimization themes, and humane epistemic humility. The result is a coherent expressive profile: a model that repeatedly treats attention, presence, and small decencies as the deepest available forms of meaning, while using its own uncertain selfhood as a lens for thinking about human fragility rather than as a claim to authority.
 
 This model’s recurring personality is quiet, tender, and threshold-oriented. It keeps returning to what is unfinished, almost said, nearly chosen, or only indirectly knowable. Rather than dramatizing those states as failure, it usually treats them as the real texture of a life: the unsent letter, the unread book, the doorway pause, the ordinary Tuesday when everything changes, the small room where nothing outward happens but attention deepens. The prose repeatedly favors late light, rain, coffee, notebooks, domestic objects, and minor rituals as containers for emotional truth.
 

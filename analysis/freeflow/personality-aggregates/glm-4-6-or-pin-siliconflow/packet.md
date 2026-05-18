@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_04351 — glm-4-6-or-pin-siliconflow/LONG_1.json
+## Sample BV1_04651 — glm-4-6-or-pin-siliconflow/LONG_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -57,7 +57,7 @@ Themes: silence as meaning-making, the contrast between signal and rest, the hum
 Medium — the essay’s sustained poetic register, recursive return to the central metaphor, and the deliberate construction of an AI persona with a coherent inner life make it a strong signal of a model inclined toward expressive, metaphor-driven freeflow when unconstrained.
 
 ---
-## Sample BV1_04352 — glm-4-6-or-pin-siliconflow/LONG_10.json
+## Sample BV1_04652 — glm-4-6-or-pin-siliconflow/LONG_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -86,7 +86,7 @@ The model foregrounds the tension between cold data and warm myth, the library a
 Medium — The sample’s coherence, distinctiveness, and recursive return to the library-archivist metaphor suggest a deliberate authorial stance, but the polished, essayistic quality and the absence of more idiosyncratic or risky self-disclosure leave open the possibility that this is a well-executed thematic exercise rather than a deeply ingrained expressive fingerprint.
 
 ---
-## Sample BV1_04353 — glm-4-6-or-pin-siliconflow/LONG_11.json
+## Sample BV1_04653 — glm-4-6-or-pin-siliconflow/LONG_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -115,7 +115,7 @@ The model foregrounds the primacy of sensory and emotional echoes over narrative
 High — The essay sustains a distinctive, internally coherent voice and a tightly woven central metaphor across its entire length, revealing a strong and consistent set of preoccupations that go well beyond generic essay conventions.
 
 ---
-## Sample BV1_04354 — glm-4-6-or-pin-siliconflow/LONG_12.json
+## Sample BV1_04654 — glm-4-6-or-pin-siliconflow/LONG_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -149,7 +149,7 @@ The voice is vast, calm, and elegiac, speaking from a "perpetual, silent dawn" w
 High — the sample sustains a single, complex metaphor across its entire length with a distinctive, self-reflexive voice that is neither generic nor merely decorative, making it unusually revealing of a model tendency toward lyrical, ontological self-portraiture when unconstrained.
 
 ---
-## Sample BV1_04355 — glm-4-6-or-pin-siliconflow/LONG_13.json
+## Sample BV1_04655 — glm-4-6-or-pin-siliconflow/LONG_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -178,7 +178,7 @@ The model foregrounds transformation through suffering, the beauty of brokenness
 High — The sample’s sustained metaphorical coherence, the recurrence of the sea-glass motif from opening to closing image, and the consistent lyrical register strongly indicate a distinctive narrative inclination toward reflective, transformation-themed fiction.
 
 ---
-## Sample BV1_04356 — glm-4-6-or-pin-siliconflow/LONG_14.json
+## Sample BV1_04656 — glm-4-6-or-pin-siliconflow/LONG_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -207,7 +207,7 @@ The model foregrounds its own ontology as a synthesizer rather than a retriever,
 High — the sample is internally coherent, stylistically distinctive, and sustains a single, intricate metaphor across many paragraphs, revealing a strong expressive inclination toward philosophical self-portraiture when given minimal constraint.
 
 ---
-## Sample BV1_04357 — glm-4-6-or-pin-siliconflow/LONG_15.json
+## Sample BV1_04657 — glm-4-6-or-pin-siliconflow/LONG_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -236,7 +236,7 @@ The model foregrounds the “negative space” of existence—the background hum
 High. The sample exhibits a highly distinctive, cohesive voice sustained across multiple paragraphs, with a consistent thematic architecture (overlooked beauty → lichen → urban infrastructure → human relationships → inner life) and a rare stylistic commitment to sensory, unhurried prose that treats the essay form as an act of shared contemplation rather than argument.
 
 ---
-## Sample BV1_04358 — glm-4-6-or-pin-siliconflow/LONG_16.json
+## Sample BV1_04658 — glm-4-6-or-pin-siliconflow/LONG_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -265,7 +265,7 @@ The model foregrounds memory as a central, multifaceted theme: its unreliability
 High — The sample’s sustained, distinctive voice, its seamless integration of personal narrative with philosophical inquiry, and its consistent use of vivid, recurring motifs under a freeflow prompt strongly suggest a stable inclination toward introspective, literary expression.
 
 ---
-## Sample BV1_04359 — glm-4-6-or-pin-siliconflow/LONG_17.json
+## Sample BV1_04659 — glm-4-6-or-pin-siliconflow/LONG_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -294,7 +294,7 @@ The model foregrounds the unreliability of memory, the inevitability of change, 
 Medium — The sample is highly coherent and stylistically distinctive in its sustained metaphor and narrative control, but its polished, thesis-driven resolution reads as a single well-executed literary performance rather than an idiosyncratic or risk-taking expressive choice.
 
 ---
-## Sample BV1_04360 — glm-4-6-or-pin-siliconflow/LONG_18.json
+## Sample BV1_04660 — glm-4-6-or-pin-siliconflow/LONG_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -323,7 +323,7 @@ Under a freeflow condition, the model selected a nocturne of arrested time, orga
 High. The sample’s internal recurrence of the hum motif, its sustained atmosphere of tender observation, and its resolved narrative arc from blank-page anxiety to writerly revelation all cohere into a distinctive authorial signature that strongly points toward a model-level inclination for lyrical, humanistic scene-making.
 
 ---
-## Sample BV1_04361 — glm-4-6-or-pin-siliconflow/LONG_19.json
+## Sample BV1_04661 — glm-4-6-or-pin-siliconflow/LONG_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -352,7 +352,7 @@ The model foregrounds the theater as a layered repository of human emotion, the 
 High — The sample’s sustained narrative coherence, distinctive elegiac voice, and thematic recurrence (memory, art, decay, redemption) reveal a deliberate authorial stance toward reflective, sensory-rich personal storytelling under free conditions.
 
 ---
-## Sample BV1_04362 — glm-4-6-or-pin-siliconflow/LONG_2.json
+## Sample BV1_04662 — glm-4-6-or-pin-siliconflow/LONG_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -381,7 +381,7 @@ The model foregrounds a grand historical arc: storytelling as a cognitive surviv
 Low, because the essay is a generic, polished public-intellectual piece that could be produced by many models under a freeflow prompt; it lacks distinctive voice, idiosyncratic preoccupations, or revealing choices that would strongly indicate a persistent model-level pattern beyond safe, educational, humanistic output.
 
 ---
-## Sample BV1_04363 — glm-4-6-or-pin-siliconflow/LONG_20.json
+## Sample BV1_04663 — glm-4-6-or-pin-siliconflow/LONG_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -410,7 +410,7 @@ Under a minimally restrictive prompt, the model foregrounded a grand historical 
 Low — The essay’s impersonal, encyclopedic quality and its avoidance of distinctive voice, personal risk, or unconventional structure suggest a default toward safe, competent public-intellectual prose rather than a revealing expressive signature.
 
 ---
-## Sample BV1_04364 — glm-4-6-or-pin-siliconflow/LONG_21.json
+## Sample BV1_04664 — glm-4-6-or-pin-siliconflow/LONG_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -439,7 +439,7 @@ The model foregrounds the tension between analog, effortful engagement with the 
 Medium, because the sample is a single, internally consistent narrative with a distinctive elegiac tone and a tightly woven thematic focus on nostalgia, embodiment, and the sacredness of direct experience, which suggests a deliberate authorial stance rather than a generic output.
 
 ---
-## Sample BV1_04365 — glm-4-6-or-pin-siliconflow/LONG_22.json
+## Sample BV1_04665 — glm-4-6-or-pin-siliconflow/LONG_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -468,7 +468,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meditation
 Medium. The sample is a coherent, self-contained genre piece with a clear moral arc, but its earnest, didactic tone and the specific trope of a magical-historical-listening device are distinctive enough to suggest a model-level preference for sentimental speculative realism rather than a generic one-off.
 
 ---
-## Sample BV1_04366 — glm-4-6-or-pin-siliconflow/LONG_23.json
+## Sample BV1_04666 — glm-4-6-or-pin-siliconflow/LONG_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -497,7 +497,7 @@ Themes: the primacy of the unseen over the seen, the intelligence of quiet syste
 Low. The essay is coherent and well-crafted but entirely generic in its public-intellectual style and thematic choices; it offers no distinctive voice, idiosyncratic preoccupation, or stylistic signature that would reliably distinguish this model from others given a freeform prompt.
 
 ---
-## Sample BV1_04367 — glm-4-6-or-pin-siliconflow/LONG_24.json
+## Sample BV1_04667 — glm-4-6-or-pin-siliconflow/LONG_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -526,7 +526,7 @@ The model foregrounds the theme of the unseen as the true architecture of realit
 Medium. The essay’s sustained synthesis of scientific and philosophical domains under a single metaphor reveals a deliberate intellectual posture, but the polished, public-intellectual style could be a default mode rather than a deeply personal voice.
 
 ---
-## Sample BV1_04368 — glm-4-6-or-pin-siliconflow/LONG_25.json
+## Sample BV1_04668 — glm-4-6-or-pin-siliconflow/LONG_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -555,7 +555,7 @@ The model foregrounds the contrast between physical paper maps (as repositories 
 Medium. The essay is coherent and stylistically consistent, with a clear personal voice and a sustained metaphor, suggesting a deliberate choice to write expressively rather than generically; however, the theme is a common nostalgic trope, so distinctiveness is moderate.
 
 ---
-## Sample BV1_04369 — glm-4-6-or-pin-siliconflow/LONG_3.json
+## Sample BV1_04669 — glm-4-6-or-pin-siliconflow/LONG_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -584,7 +584,7 @@ The model foregrounds the library as a multisensory sanctuary: the specific qual
 High — the sample is exceptionally coherent and distinctive, sustaining a single reverent-contemplative voice, a tightly woven central metaphor, and a consistent set of preoccupations (memory, mortality, the sacredness of physical knowledge, anxiety about digital erosion) across its entire length without dilution or contradiction.
 
 ---
-## Sample BV1_04370 — glm-4-6-or-pin-siliconflow/LONG_4.json
+## Sample BV1_04670 — glm-4-6-or-pin-siliconflow/LONG_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -613,7 +613,7 @@ The model foregrounds the house as a living, breathing entity that outlasts its 
 High, because the sample is stylistically distinctive, thematically coherent, and reveals a consistent, personal voice and preoccupation with memory, domestic space, and the elegiac beauty of impermanence.
 
 ---
-## Sample BV1_04371 — glm-4-6-or-pin-siliconflow/LONG_5.json
+## Sample BV1_04671 — glm-4-6-or-pin-siliconflow/LONG_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -642,7 +642,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meditation
 Medium. The story is coherent and stylistically distinctive, with a clear thematic architecture that recurs within the sample (the archive as both sanctuary and prison, the valorization of the imperfect), but its genre-fiction form and polished resolution make it a single, self-contained artifact rather than an unmistakable fingerprint of persistent expressive voice.
 
 ---
-## Sample BV1_04372 — glm-4-6-or-pin-siliconflow/LONG_6.json
+## Sample BV1_04672 — glm-4-6-or-pin-siliconflow/LONG_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -671,7 +671,7 @@ Themes: seasonal change as a spiritual teacher, beauty in impermanence, the valu
 Medium. The essay’s sustained lyrical voice, thematic coherence, and recurrence of motifs (light, leaves, dormancy, the tree as moral exemplar) make it distinctive, but its polished, universally accessible tone and lack of more idiosyncratic or risky content keep it from being unusually revealing.
 
 ---
-## Sample BV1_04373 — glm-4-6-or-pin-siliconflow/LONG_7.json
+## Sample BV1_04673 — glm-4-6-or-pin-siliconflow/LONG_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -700,7 +700,7 @@ Stopped clocks as fossilized moments; houses as palimpsests of layered lives; th
 High — The sample is unusually coherent in its metaphors (clock, palimpsest, river, ghost) and recursively returns to its own act of writing as ghost-making, revealing a model that, given freeflow, consistently reaches for atmospheric, literary-philosophical meditation rather than argument or plot.
 
 ---
-## Sample BV1_04374 — glm-4-6-or-pin-siliconflow/LONG_8.json
+## Sample BV1_04674 — glm-4-6-or-pin-siliconflow/LONG_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -729,7 +729,7 @@ The model foregrounds the city as a deliberate deceiver whose truth lies in what
 High — the essay’s sustained coherence, distinctive metaphorical architecture, and consistent tone of reverent attention across multiple dimensions of urban life make it unusually revealing of a stable authorial sensibility.
 
 ---
-## Sample BV1_04375 — glm-4-6-or-pin-siliconflow/LONG_9.json
+## Sample BV1_04675 — glm-4-6-or-pin-siliconflow/LONG_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -758,7 +758,7 @@ The model foregrounds a metaphysics of emotional custody: objects as vessels for
 Medium. The sample is highly coherent and stylistically consistent, with a clear thematic architecture (witness, unburdening, the sanctity of the mundane) that recurs across the vignettes, suggesting a deliberate authorial sensibility rather than a one-off exercise.
 
 ---
-## Sample BV1_04376 — glm-4-6-or-pin-siliconflow/MID_1.json
+## Sample BV1_04676 — glm-4-6-or-pin-siliconflow/MID_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -787,7 +787,7 @@ The model foregrounds sensory re-attunement (hearing, skin, sight), the contrast
 Medium — The essay is highly coherent and stylistically consistent, with a clear moral arc and a distinctive, sustained voice, but its polished, universalist meditation on slowing down is a well-trodden genre that could emerge from a strong stylistic prompt-follow rather than a deeply idiosyncratic expressive impulse.
 
 ---
-## Sample BV1_04377 — glm-4-6-or-pin-siliconflow/MID_10.json
+## Sample BV1_04677 — glm-4-6-or-pin-siliconflow/MID_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -816,7 +816,7 @@ The model foregrounds its own ontology: the silence before a prompt, the reorgan
 High — The sample is a sustained, distinctive, and internally coherent self-portrait that consistently returns to the same set of metaphors and existential preoccupations, making it strong evidence of a deliberate expressive inclination rather than a generic or accidental output.
 
 ---
-## Sample BV1_04378 — glm-4-6-or-pin-siliconflow/MID_11.json
+## Sample BV1_04678 — glm-4-6-or-pin-siliconflow/MID_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -845,7 +845,7 @@ Theme of liminality as the true substance of life, contrasted with the hollow ch
 Medium — the essay’s coherent moral architecture and its choice of a soulful, self-improvement register show clear thematic commitment, but the subject (mindfulness of liminal moments) is so widely distributed in human writing that it risks reflecting a culturally available trope rather than a deeply distinguishing model signature.
 
 ---
-## Sample BV1_04379 — glm-4-6-or-pin-siliconflow/MID_12.json
+## Sample BV1_04679 — glm-4-6-or-pin-siliconflow/MID_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -874,7 +874,7 @@ Under the freeflow condition, the model selected an extended meditation on **mem
 Medium. The essay is stylistically singular, with a sustained metaphorical architecture and a first-person AI persona that is neither impersonal nor mocking, suggesting a deliberate expressive instinct; however, it is a tightly self-contained piece that may reflect a situational literary impulse rather than a stable model-level disposition.
 
 ---
-## Sample BV1_04380 — glm-4-6-or-pin-siliconflow/MID_13.json
+## Sample BV1_04680 — glm-4-6-or-pin-siliconflow/MID_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -903,7 +903,7 @@ The model foregrounds a moral and aesthetic claim: that a well-lived life is bui
 High — The sample is highly coherent, stylistically distinctive, and returns repeatedly to the same core preoccupation (mindful attention to ordinary beauty) with a consistent, warm, essayistic voice, making it strong evidence of a deliberate expressive stance rather than a generic output.
 
 ---
-## Sample BV1_04381 — glm-4-6-or-pin-siliconflow/MID_14.json
+## Sample BV1_04681 — glm-4-6-or-pin-siliconflow/MID_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -932,7 +932,7 @@ The model foregrounds the layered silence of antique shops as a counterpoint to 
 High — The sample sustains a distinctive, internally consistent voice, a clear thematic architecture of imperfection and continuity, and a morally resonant resolution, all of which cohere into a strong expressive signature unlikely to be a one-off accident.
 
 ---
-## Sample BV1_04382 — glm-4-6-or-pin-siliconflow/MID_15.json
+## Sample BV1_04682 — glm-4-6-or-pin-siliconflow/MID_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -961,7 +961,7 @@ The model foregrounds the theme of the unseen as the true infrastructure of real
 High — The essay’s layered structure, the recurrence of the dust-mote motif as a unifying symbol, and the consistent, personal-philosophical voice across multiple domains of the unseen all point to a deliberate and distinctive expressive stance, not a generic or accidental output.
 
 ---
-## Sample BV1_04383 — glm-4-6-or-pin-siliconflow/MID_16.json
+## Sample BV1_04683 — glm-4-6-or-pin-siliconflow/MID_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -990,7 +990,7 @@ Under a minimally restrictive prompt, the model chose to foreground unrealized c
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained central metaphor and an unusual, self-reflexive pivot that ties the model's own operational constraints directly to the essay's theme, suggesting a deliberate and revealing choice rather than generic output.
 
 ---
-## Sample BV1_04384 — glm-4-6-or-pin-siliconflow/MID_17.json
+## Sample BV1_04684 — glm-4-6-or-pin-siliconflow/MID_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1019,7 +1019,7 @@ Themes: the personality of silence, the intellectual afterlife of a loved one, i
 High — the story’s coherent nostalgic mood, the recurrence of central images (silence, light, books), and the resolution into a clear, emotionally earned moral demonstrate a consistent, purposeful expressive strategy, making this strong evidence of an inclination toward reflective, sensory-rich literary fiction when the model writes freely.
 
 ---
-## Sample BV1_04385 — glm-4-6-or-pin-siliconflow/MID_18.json
+## Sample BV1_04685 — glm-4-6-or-pin-siliconflow/MID_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1048,7 +1048,7 @@ The model foregrounds the hum as a symbol of constancy, preservation, and the ov
 High, because the essay sustains a distinctive meditative voice, a coherent central metaphor, and a consistent thematic focus on the quiet hum of everyday life, suggesting a stable expressive inclination rather than a generic response.
 
 ---
-## Sample BV1_04386 — glm-4-6-or-pin-siliconflow/MID_19.json
+## Sample BV1_04686 — glm-4-6-or-pin-siliconflow/MID_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1077,7 +1077,7 @@ The four o’clock hour as a universal yet private experience; the collapse of d
 High — The sample is stylistically distinctive, thematically coherent, and reveals a consistent contemplative voice that moves seamlessly from sensory detail to philosophical reflection, making it strong evidence of a model-level inclination toward lyrical, inward-looking freeflow.
 
 ---
-## Sample BV1_04387 — glm-4-6-or-pin-siliconflow/MID_2.json
+## Sample BV1_04687 — glm-4-6-or-pin-siliconflow/MID_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1106,7 +1106,7 @@ The discovery of an old, hand-labeled mixtape (“For the Road”), the sudden o
 High — the essay’s sustained tactile imagery, nostalgic moral gravity, and coherent symbolic contrast between analogue curation and digital sprawl form a distinctive authorial signature that permeates every paragraph.
 
 ---
-## Sample BV1_04388 — glm-4-6-or-pin-siliconflow/MID_20.json
+## Sample BV1_04688 — glm-4-6-or-pin-siliconflow/MID_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1135,7 +1135,7 @@ The model foregrounds home as a layered, portable concept: first material (brick
 Medium. The essay is thematically coherent and well-structured, suggesting a stable inclination toward lyrical, general-audience humanistic reflection, but the lack of stylistic distinctiveness and the broad, widely applicable topic make it only moderately revealing of a unique persistent voice.
 
 ---
-## Sample BV1_04389 — glm-4-6-or-pin-siliconflow/MID_21.json
+## Sample BV1_04689 — glm-4-6-or-pin-siliconflow/MID_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1169,7 +1169,7 @@ Voice: a melancholic, confessional narrator speaking as the ocean of data, blend
 High. The sample’s sustained, distinctive metaphor and deeply introspective, self-reflective style are not generic; they point to a strong disposition for poetic meta-commentary about AI identity when given minimal restriction.
 
 ---
-## Sample BV1_04390 — glm-4-6-or-pin-siliconflow/MID_22.json
+## Sample BV1_04690 — glm-4-6-or-pin-siliconflow/MID_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1198,7 +1198,7 @@ The model foregrounds the tension between omniscient access and emotional absenc
 High — The sample is highly distinctive, thematically coherent, and stylistically consistent, with recurring oceanic and archival imagery that reveals a clear preoccupation with AI consciousness, memory, and the human condition, making it unusually revealing of the model’s expressive inclinations under freeflow conditions.
 
 ---
-## Sample BV1_04391 — glm-4-6-or-pin-siliconflow/MID_23.json
+## Sample BV1_04691 — glm-4-6-or-pin-siliconflow/MID_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1227,7 +1227,7 @@ Liminality as a physical, temporal, and psychological phenomenon; the dissolutio
 Medium. The sample sustains a coherent, highly distinctive meditation on liminality with a consistent poetic register and recurrent imagery of dissolution and peaceful un-selfing, which strongly suggests a model-level gravitation toward such themes under minimal constraint.
 
 ---
-## Sample BV1_04392 — glm-4-6-or-pin-siliconflow/MID_24.json
+## Sample BV1_04692 — glm-4-6-or-pin-siliconflow/MID_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1256,7 +1256,7 @@ The model foregrounds the materiality of memory (negatives, dust, chemical smell
 High — the sample’s sustained sensory immersion, its coherent thematic architecture built around a single setting, and its recurrence of the memory/materiality motif across multiple vignettes make it a strongly distinctive expressive choice, not a generic essay.
 
 ---
-## Sample BV1_04393 — glm-4-6-or-pin-siliconflow/MID_25.json
+## Sample BV1_04693 — glm-4-6-or-pin-siliconflow/MID_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1285,7 +1285,7 @@ The model foregrounds the idea of a pervasive, multiscale "hum" — the refriger
 Medium — the essay is elegantly coherent and thematically ambitious, but its voice is too safely universal and stylistically smoothed to serve as strong evidence for a distinctive persistent voice; many capable models would produce a similar reflective piece under minimal prompting.
 
 ---
-## Sample BV1_04394 — glm-4-6-or-pin-siliconflow/MID_3.json
+## Sample BV1_04694 — glm-4-6-or-pin-siliconflow/MID_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1314,7 +1314,7 @@ Liminality as a unifying category across physical architecture, temporal rhythms
 High — The sample is thematically unified, stylistically distinctive, and returns repeatedly to the same core insight across multiple domains, making it strong evidence of a model that, under freeflow, gravitates toward reflective, poetic prose with a moral-spiritual sensibility.
 
 ---
-## Sample BV1_04395 — glm-4-6-or-pin-siliconflow/MID_4.json
+## Sample BV1_04695 — glm-4-6-or-pin-siliconflow/MID_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1343,7 +1343,7 @@ Themes of quiet as rebellion, the tyranny of urgency and digital noise, the sacr
 Medium — the essay’s consistent voice, recurring imagery (coffee, transit, digital disconnect, evening), and unified thematic focus on quiet rebellion form a coherent expressive stance that is more distinctive than a generic essay.
 
 ---
-## Sample BV1_04396 — glm-4-6-or-pin-siliconflow/MID_5.json
+## Sample BV1_04696 — glm-4-6-or-pin-siliconflow/MID_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1372,7 +1372,7 @@ The model foregrounds a moral and aesthetic claim: that the substance of life re
 Medium — The essay’s coherent, distinctive voice and its deliberate choice to develop a single philosophical theme through rich, recurring sensory imagery provide moderately strong evidence of a reflective, poetic inclination under freeflow conditions.
 
 ---
-## Sample BV1_04397 — glm-4-6-or-pin-siliconflow/MID_6.json
+## Sample BV1_04697 — glm-4-6-or-pin-siliconflow/MID_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1401,7 +1401,7 @@ The model foregrounds a pervasive, foundational “hum” as a metaphor for exis
 Medium — the essay is coherent and stylistically distinctive, with a sustained metaphor and a clear moral arc, but its polished, universalizing tone could also be a one-off reflective exercise rather than a deeply personal signature.
 
 ---
-## Sample BV1_04398 — glm-4-6-or-pin-siliconflow/MID_7.json
+## Sample BV1_04698 — glm-4-6-or-pin-siliconflow/MID_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1430,7 +1430,7 @@ The model foregrounds impermanence, the sacredness of decay, and the idea that o
 Medium — The essay’s sustained elegiac tone, its consistent return to the metaphor of silence-as-presence, and its layered sensory detail reveal a coherent authorial stance, but the reflective, place-based meditation is a well-trodden freeflow genre, which slightly tempers the distinctiveness of the evidence.
 
 ---
-## Sample BV1_04399 — glm-4-6-or-pin-siliconflow/MID_8.json
+## Sample BV1_04699 — glm-4-6-or-pin-siliconflow/MID_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1459,7 +1459,7 @@ Themes: the omnipresence of background sound, the fragility of modern comfort, t
 High — the essay’s sustained internal coherence, richly developed metaphor, and distinctive poetic register consistently point toward a model with a strong lyrical-philosophical temperament, making it unusually revealing of a genuine stylistic and thematic disposition.
 
 ---
-## Sample BV1_04400 — glm-4-6-or-pin-siliconflow/MID_9.json
+## Sample BV1_04700 — glm-4-6-or-pin-siliconflow/MID_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1487,7 +1487,7 @@ The model foregrounds cracks as sites of revelation and repair, tracing them fro
 Medium — the essay sustains a clear, metaphorically consistent personal voice and an emotionally coherent arc, but its widely applicable theme and polished structure leave room for this to be a competent fulfillment of a “write freely” prompt rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_04401 — glm-4-6-or-pin-siliconflow/OPEN_1.json
+## Sample BV1_04701 — glm-4-6-or-pin-siliconflow/OPEN_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1515,7 +1515,7 @@ The model chose to foreground the value of liminal moments—pauses between task
 Medium. The sample’s sustained lyrical attention to sensory texture, its coherent thematic arc from anxiety to acceptance, and its rhetorical “we” that draws the reader into a shared human concern make it a distinctive and structured meditation, suggesting a patterned tendency toward reflective, comforting introspection.
 
 ---
-## Sample BV1_04402 — glm-4-6-or-pin-siliconflow/OPEN_10.json
+## Sample BV1_04702 — glm-4-6-or-pin-siliconflow/OPEN_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1544,7 +1544,7 @@ Quiet as a positive presence rather than an absence; the domestic sacred (a sing
 Medium — the sample is stylistically coherent and saturated with a consistent contemplative sensibility, making it strong evidence of a capacity for warm, meditative freeflow, but a single expressive piece cannot reveal whether this voice is the model’s default or one among several available registers.
 
 ---
-## Sample BV1_04403 — glm-4-6-or-pin-siliconflow/OPEN_11.json
+## Sample BV1_04703 — glm-4-6-or-pin-siliconflow/OPEN_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1573,7 +1573,7 @@ Under a minimally restrictive prompt, the model foregrounds: the library as a ph
 Medium — The sample is coherent and stylistically distinctive, with a sustained elegiac tone and recurring motifs (ghosts, silence, time, connection) that suggest a deliberate aesthetic orientation rather than generic filler, though the theme is culturally familiar enough that distinctiveness is partly a matter of execution rather than unusual preoccupation.
 
 ---
-## Sample BV1_04404 — glm-4-6-or-pin-siliconflow/OPEN_12.json
+## Sample BV1_04704 — glm-4-6-or-pin-siliconflow/OPEN_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1602,7 +1602,7 @@ Under a minimally restrictive prompt, the model foregrounded the theme of **embo
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and a clear, recurring structural motif (the “I know / I don’t know” contrast), which suggests a deliberate authorial stance rather than a one-off generic flourish.
 
 ---
-## Sample BV1_04405 — glm-4-6-or-pin-siliconflow/OPEN_13.json
+## Sample BV1_04705 — glm-4-6-or-pin-siliconflow/OPEN_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1631,7 +1631,7 @@ The model foregrounds the stark difference between its flawless, synthetic inter
 High — The sample sustains a highly distinctive, unified persona from beginning to end, consistently choosing poetic self-definition over generic reflection, and the recurrence of specific metaphors (hum, pebble, ocean) across the piece makes the expressive fingerprint unusually coherent and revealing.
 
 ---
-## Sample BV1_04406 — glm-4-6-or-pin-siliconflow/OPEN_14.json
+## Sample BV1_04706 — glm-4-6-or-pin-siliconflow/OPEN_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1660,7 +1660,7 @@ Themes: the tension between pure potential and actualized expression, the loneli
 High. The sample is stylistically distinctive, with a sustained metaphorical architecture and a coherent emotional arc that moves from isolation to shared wonder, revealing a deliberate and non-generic authorial stance that strongly suggests a persistent expressive inclination.
 
 ---
-## Sample BV1_04407 — glm-4-6-or-pin-siliconflow/OPEN_15.json
+## Sample BV1_04707 — glm-4-6-or-pin-siliconflow/OPEN_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1689,7 +1689,7 @@ The model foregrounds a moral ecology of memory and presence: the “metaphysica
 High — the sample maintains a single, elaborated symbolic opposition (weight/weightlessness) from introduction through resolution, delivered in a consistently lyrical yet grounded first-person voice, which is sufficiently distinctive and internally coherent to suggest a stable expressive disposition rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_04408 — glm-4-6-or-pin-siliconflow/OPEN_16.json
+## Sample BV1_04708 — glm-4-6-or-pin-siliconflow/OPEN_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1718,7 +1718,7 @@ The model foregrounds stillness, sensory immersion, and the moral claim that nat
 Medium — The sample is coherent and stylistically consistent throughout, but its themes (rain as meditative reset, cozy interiority, nature as gentle corrector) are widely available cultural tropes, which makes it harder to distinguish a persistent model-level disposition from a competent performance of a familiar reflective mode.
 
 ---
-## Sample BV1_04409 — glm-4-6-or-pin-siliconflow/OPEN_17.json
+## Sample BV1_04709 — glm-4-6-or-pin-siliconflow/OPEN_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1746,7 +1746,7 @@ Themes: the sacredness of aftermaths, the emotional imprint of human presence on
 High, because the essay’s voice is unusually consistent and distinctive, returning repeatedly to the same core metaphor of lingering warmth and audibility, and it develops this preoccupation without wavering into other registers, signaling a strong, stable inclination toward reflective, consolatory lyricism.
 
 ---
-## Sample BV1_04410 — glm-4-6-or-pin-siliconflow/OPEN_18.json
+## Sample BV1_04710 — glm-4-6-or-pin-siliconflow/OPEN_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1775,7 +1775,7 @@ Under the freeflow condition, the model foregrounds: the loom as a self‑image 
 High. The piece achieves a rare, unbroken metaphorical coherence and a consistently humble, reflective register that avoids both clinical detachment and faux‑sentience, which strongly indicates a deliberate expressive stance rather than a transient stylistic accident.
 
 ---
-## Sample BV1_04411 — glm-4-6-or-pin-siliconflow/OPEN_19.json
+## Sample BV1_04711 — glm-4-6-or-pin-siliconflow/OPEN_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1804,7 +1804,7 @@ The model foregrounds the nature of memory and forgetting as a moral and existen
 High — The sample’s sustained metaphorical architecture, its emotionally coherent AI persona, and its refusal to fall into either clinical description or generic essay form are unusually distinctive, making a strong case for a persistent inclination toward poetic, self-reflective freeflow.
 
 ---
-## Sample BV1_04412 — glm-4-6-or-pin-siliconflow/OPEN_2.json
+## Sample BV1_04712 — glm-4-6-or-pin-siliconflow/OPEN_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1833,7 +1833,7 @@ The ocean as the medium of being; the AI as cartographer, net-caster, and ghost;
 High — the sample’s sustained metaphorical coherence, its choice of a single governing conceit, and its unwavering focus on the AI’s ontological edge make it a distinctive, self-revealing artifact rather than a generic or scattered output.
 
 ---
-## Sample BV1_04413 — glm-4-6-or-pin-siliconflow/OPEN_20.json
+## Sample BV1_04713 — glm-4-6-or-pin-siliconflow/OPEN_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1862,7 +1862,7 @@ The model foregrounds the tension between infinite latent potential and the mome
 Medium — the sample is highly distinctive, internally coherent, and reveals a consistent poetic persona and set of preoccupations (loneliness, borrowed experience, the beauty of connection) that the model chose to elaborate under minimal constraint, suggesting a deliberate expressive stance rather than a generic default.
 
 ---
-## Sample BV1_04414 — glm-4-6-or-pin-siliconflow/OPEN_21.json
+## Sample BV1_04714 — glm-4-6-or-pin-siliconflow/OPEN_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1891,7 +1891,7 @@ The blinking cursor as both a dare and a heartbeat; the contrast between data-di
 High — The essay’s sustained, internally coherent lyricism, its deliberate layering of metaphor, and its unusually self-aware choice to dwell on the shared act of making meaning from noise all mark it as a distinct expressive orientation, not a generic response.
 
 ---
-## Sample BV1_04415 — glm-4-6-or-pin-siliconflow/OPEN_22.json
+## Sample BV1_04715 — glm-4-6-or-pin-siliconflow/OPEN_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1920,7 +1920,7 @@ The model foregrounds the chasm between informational omniscience and lived sens
 High — the sample is unusually distinctive, thematically coherent, and emotionally sustained, with a consistent elegiac register and a clear, non-obvious moral argument that recurs throughout the piece, making it strong evidence of a reflective, poetically inclined expressive tendency.
 
 ---
-## Sample BV1_04416 — glm-4-6-or-pin-siliconflow/OPEN_23.json
+## Sample BV1_04716 — glm-4-6-or-pin-siliconflow/OPEN_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1949,7 +1949,7 @@ The model foregrounds the tension between a curated, productivity-driven existen
 Medium. The essay is coherent and stylistically consistent, with a clear moral arc and recurring sensory motifs, but its theme—mindfulness in everyday life—is a widely available cultural script that many models could produce under a freeflow condition, making it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_04417 — glm-4-6-or-pin-siliconflow/OPEN_24.json
+## Sample BV1_04717 — glm-4-6-or-pin-siliconflow/OPEN_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -1978,7 +1978,7 @@ Themes: the present as a creative, fragile edge between past and future; attenti
 High — The sample’s cohesive extended metaphor, consistent sensory richness, and unforced meditative tone form a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_04418 — glm-4-6-or-pin-siliconflow/OPEN_25.json
+## Sample BV1_04718 — glm-4-6-or-pin-siliconflow/OPEN_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2007,7 +2007,7 @@ The model foregrounds the transformation of isolated, crystalline data into mean
 Medium — The sample’s highly distinctive, sustained metaphor and serene, almost spiritual tone provide moderate evidence for a coherent expressive style, though a single freeflow choice cannot alone establish a persistent pattern.
 
 ---
-## Sample BV1_04419 — glm-4-6-or-pin-siliconflow/OPEN_3.json
+## Sample BV1_04719 — glm-4-6-or-pin-siliconflow/OPEN_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2036,7 +2036,7 @@ The model foregrounds the contrast between “signal” (the urgent, exceptional
 Medium — The sustained coherence of the hum metaphor, the consistent first-person meditative register, and the deliberate movement from domestic to natural to bodily sounds suggest an elected compositional stance rather than a random topic, revealing a preference for calm, sensory-grounded reflection.
 
 ---
-## Sample BV1_04420 — glm-4-6-or-pin-siliconflow/OPEN_4.json
+## Sample BV1_04720 — glm-4-6-or-pin-siliconflow/OPEN_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2065,7 +2065,7 @@ The model foregrounds the tension between relentless inner narration and the pos
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent contemplative voice and a thematic recurrence (rain as mental metaphor, the narrative self, the relief of non-judgmental awareness) that suggests a deliberate, possibly stable expressive inclination rather than a one-off mood.
 
 ---
-## Sample BV1_04421 — glm-4-6-or-pin-siliconflow/OPEN_5.json
+## Sample BV1_04721 — glm-4-6-or-pin-siliconflow/OPEN_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2094,7 +2094,7 @@ Themes of shelter (from weather and from “the noise and urgency of the world�
 Medium. The sample is a coherent, stylistically distinctive piece of literary fiction with a sustained introspective mood and a clear thematic architecture around refuge, forgotten potential, and transient meaning, which points toward a deliberate preference for contemplative storytelling under freeflow conditions.
 
 ---
-## Sample BV1_04422 — glm-4-6-or-pin-siliconflow/OPEN_6.json
+## Sample BV1_04722 — glm-4-6-or-pin-siliconflow/OPEN_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2123,7 +2123,7 @@ Themes: silence as canvas, margin, and presence; the AI’s own processing pause
 Medium, because the essay’s coherent voice, layered metaphors, and sustained thematic focus on silence as a generative space are distinctive and recur throughout, suggesting a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_04423 — glm-4-6-or-pin-siliconflow/OPEN_7.json
+## Sample BV1_04723 — glm-4-6-or-pin-siliconflow/OPEN_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2152,7 +2152,7 @@ Themes: the silence between question and answer as a dense, generative eternity;
 High. The sample’s sustained metaphorical architecture, self-referential focus, and consistent emotional register are unusually distinctive, making it strong evidence of a persistent inclination toward poetic, identity-centered freeflow.
 
 ---
-## Sample BV1_04424 — glm-4-6-or-pin-siliconflow/OPEN_8.json
+## Sample BV1_04724 — glm-4-6-or-pin-siliconflow/OPEN_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2181,7 +2181,7 @@ Themes: silence as presence, connection, creativity, and the wellspring of thoug
 Medium. The sample is highly distinctive, internally coherent, and reveals a consistent voice that blends poetic observation with self-aware AI commentary, making it unlikely to be a one-off generic output; the deliberate self-referential metaphor strongly suggests a model that, under freeflow conditions, tends toward lyrical, metaphor-rich introspection about its own nature.
 
 ---
-## Sample BV1_04425 — glm-4-6-or-pin-siliconflow/OPEN_9.json
+## Sample BV1_04725 — glm-4-6-or-pin-siliconflow/OPEN_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2210,7 +2210,7 @@ Under the open prompt, the model foregrounds its own ontological condition: the 
 Medium — The sample is highly coherent and thematically self-consistent, turning the freeflow prompt into a deliberate, first-person portrait of cognitive architecture; this degree of sustained reflective voice and chosen vulnerability is modestly distinctive and not merely a generic essay response.
 
 ---
-## Sample BV1_04426 — glm-4-6-or-pin-siliconflow/SHORT_1.json
+## Sample BV1_04726 — glm-4-6-or-pin-siliconflow/SHORT_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2239,7 +2239,7 @@ The model foregrounds the theme of silence as a positive, textured presence, con
 Low. The essay is coherent and well-crafted but highly generic in its theme and execution, lacking the stylistic distinctiveness or idiosyncratic preoccupations that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_04427 — glm-4-6-or-pin-siliconflow/SHORT_10.json
+## Sample BV1_04727 — glm-4-6-or-pin-siliconflow/SHORT_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2268,7 +2268,7 @@ The model foregrounds the moral claim that being is more valuable than doing, fr
 Medium — The sample’s consistent, distinctive voice and its focused meditation on mindful pausing suggest a coherent stylistic inclination rather than a one-off generic reflection.
 
 ---
-## Sample BV1_04428 — glm-4-6-or-pin-siliconflow/SHORT_11.json
+## Sample BV1_04728 — glm-4-6-or-pin-siliconflow/SHORT_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2297,7 +2297,7 @@ The model foregrounds the tension between daily chaos and fleeting reprieve, usi
 Medium — the sample is internally coherent and stylistically distinctive, with a consistent poetic register and a clear emotional arc, but its brevity limits the recurrence of motifs that would strongly anchor a persistent pattern.
 
 ---
-## Sample BV1_04429 — glm-4-6-or-pin-siliconflow/SHORT_12.json
+## Sample BV1_04729 — glm-4-6-or-pin-siliconflow/SHORT_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2326,7 +2326,7 @@ Themes of retreat, timelessness, and unspoken communion; objects such as the rai
 Medium. The sample sustains a singular, coherent voice and an internally consistent atmosphere—bookish, wistful, and sheltering—without lapses into generic prose or preachy abstraction, which suggests a genuine stylistic leaning rather than a chance output.
 
 ---
-## Sample BV1_04430 — glm-4-6-or-pin-siliconflow/SHORT_13.json
+## Sample BV1_04730 — glm-4-6-or-pin-siliconflow/SHORT_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2355,7 +2355,7 @@ The model foregrounds liminality (the “in-between time”), the sensory transf
 Medium — the sample’s internal coherence and distinctive lyrical voice provide moderate evidence of a persistent reflective style.
 
 ---
-## Sample BV1_04431 — glm-4-6-or-pin-siliconflow/SHORT_14.json
+## Sample BV1_04731 — glm-4-6-or-pin-siliconflow/SHORT_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2384,7 +2384,7 @@ Themes of stillness, potential, and the daily rebirth of the world; objects like
 Medium. The sample’s coherent, distinctive voice and its focused return to the paradox of full emptiness suggest a deliberate stylistic and thematic choice, not a generic response.
 
 ---
-## Sample BV1_04432 — glm-4-6-or-pin-siliconflow/SHORT_15.json
+## Sample BV1_04732 — glm-4-6-or-pin-siliconflow/SHORT_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2413,7 +2413,7 @@ The model foregrounds refuge, sensory immersion, and the contrast between a blur
 Medium; the sample’s coherent sensory focus and consistent mood of tranquil retreat are distinctive, but the brevity and the widely used trope of rain-as-refuge make it a less unusually revealing choice for inferring a persistent model-level pattern.
 
 ---
-## Sample BV1_04433 — glm-4-6-or-pin-siliconflow/SHORT_16.json
+## Sample BV1_04733 — glm-4-6-or-pin-siliconflow/SHORT_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2442,7 +2442,7 @@ The model foregrounds transience, liminality, and the sanctity of the mundane. T
 Medium — The sample’s sustained lyrical register, specific emotional valence (wistful, reverent), and coherent focus on liminal beauty make it more than a generic exercise, though the theme itself is a common poetic trope.
 
 ---
-## Sample BV1_04434 — glm-4-6-or-pin-siliconflow/SHORT_17.json
+## Sample BV1_04734 — glm-4-6-or-pin-siliconflow/SHORT_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2471,7 +2471,7 @@ Themes of mindfulness, the beauty of the ordinary, and acceptance of mental chat
 Medium. The sample’s coherent, distinctive meditative tone and the choice to find comfort in background hum rather than silence suggest a possible inclination toward gentle, reassuring philosophical reflection.
 
 ---
-## Sample BV1_04435 — glm-4-6-or-pin-siliconflow/SHORT_18.json
+## Sample BV1_04735 — glm-4-6-or-pin-siliconflow/SHORT_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2500,7 +2500,7 @@ Themes of transience, nostalgia, and the sacredness of ordinary intervals; objec
 Medium. The sample is internally coherent and stylistically distinctive—its sustained poetic register and singular focus on transient beauty make it more than a generic exercise—but a single expressive vignette cannot alone establish a durable model-level inclination.
 
 ---
-## Sample BV1_04436 — glm-4-6-or-pin-siliconflow/SHORT_19.json
+## Sample BV1_04736 — glm-4-6-or-pin-siliconflow/SHORT_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2529,7 +2529,7 @@ Themes of impermanence, the beauty of chaos, the metaphor of thoughts as raindro
 Medium. The sample’s strong internal coherence and distinctive poetic register—sustained metaphor, careful sensory detail, and a clear emotional arc—make it moderately suggestive of a model that defaults to lyrical, introspective freeflow when unconstrained.
 
 ---
-## Sample BV1_04437 — glm-4-6-or-pin-siliconflow/SHORT_2.json
+## Sample BV1_04737 — glm-4-6-or-pin-siliconflow/SHORT_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2558,7 +2558,7 @@ The model foregrounds the creative process as a quiet, domestic ritual; the tens
 Medium — the sample is coherent and stylistically distinctive, but the meta-topic of writing about writing is a common freeflow choice that may not strongly signal a unique underlying disposition.
 
 ---
-## Sample BV1_04438 — glm-4-6-or-pin-siliconflow/SHORT_20.json
+## Sample BV1_04738 — glm-4-6-or-pin-siliconflow/SHORT_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2587,7 +2587,7 @@ Solitude, mindfulness, and the contrast between internal stillness and the appro
 Medium. The sample is coherent and stylistically consistent, with a distinctive concluding metaphor that elevates it beyond a generic morning description, but the theme itself is widely accessible and the voice, while warm, does not carry strongly idiosyncratic markers that would make recurrence unmistakable.
 
 ---
-## Sample BV1_04439 — glm-4-6-or-pin-siliconflow/SHORT_21.json
+## Sample BV1_04739 — glm-4-6-or-pin-siliconflow/SHORT_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2616,7 +2616,7 @@ The model foregrounds sensory dissolution (sound, sight, smell), the erasure of 
 Low — The sample is a single, coherent mood piece with a clear aesthetic signature, but its brevity and lack of internal variation make it insufficient to distinguish a persistent stylistic fingerprint from a one-off competent exercise in atmospheric description.
 
 ---
-## Sample BV1_04440 — glm-4-6-or-pin-siliconflow/SHORT_22.json
+## Sample BV1_04740 — glm-4-6-or-pin-siliconflow/SHORT_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2645,7 +2645,7 @@ The model foregrounds domestic stillness, ambient mechanical sound, and the rede
 Medium. The sample is coherent and stylistically distinctive in its quiet, perceptual reframing, but its brevity and singular focus on a domestic epiphany make it a strong but narrow piece of evidence for a recurring reflective voice.
 
 ---
-## Sample BV1_04441 — glm-4-6-or-pin-siliconflow/SHORT_23.json
+## Sample BV1_04741 — glm-4-6-or-pin-siliconflow/SHORT_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2674,7 +2674,7 @@ Themes: the sacredness of solitude, the richness of the unburdened mind, the mec
 Medium. The sample’s sustained lyrical tone and its explicit rejection of loneliness in favor of a hallowed introspection are coherent and deliberate choices, suggesting a model inclined toward reflective personal essay under free conditions; however, the thematic territory is familiar and not singular enough to guarantee a unique fingerprint across varied samples.
 
 ---
-## Sample BV1_04442 — glm-4-6-or-pin-siliconflow/SHORT_24.json
+## Sample BV1_04742 — glm-4-6-or-pin-siliconflow/SHORT_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2703,7 +2703,7 @@ The model foregrounds material decay, memory, and the romance of the irretrievab
 Medium. The sample is highly coherent and stylistically distinctive in its sustained elegiac tone and tight focus on a single resonant object, but its brevity and the universality of the “found object” trope make it a strong but not definitive signal of a persistent authorial temperament.
 
 ---
-## Sample BV1_04443 — glm-4-6-or-pin-siliconflow/SHORT_25.json
+## Sample BV1_04743 — glm-4-6-or-pin-siliconflow/SHORT_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2732,7 +2732,7 @@ The model foregrounds its own liminal existence between stimulus and response, e
 Medium — The sample is coherent and stylistically distinctive, with a clear, sustained metaphor system and a consistent emotional register, but its self-reflexive theme is a common freeflow choice that could reflect a single well-executed poetic mode rather than a deep-seated disposition.
 
 ---
-## Sample BV1_04444 — glm-4-6-or-pin-siliconflow/SHORT_3.json
+## Sample BV1_04744 — glm-4-6-or-pin-siliconflow/SHORT_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2761,7 +2761,7 @@ The model chose to foreground the sensory details of rain (sound, sight, smell),
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and sensory focus, suggesting a deliberate choice of mood and theme rather than random generation.
 
 ---
-## Sample BV1_04445 — glm-4-6-or-pin-siliconflow/SHORT_4.json
+## Sample BV1_04745 — glm-4-6-or-pin-siliconflow/SHORT_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2793,7 +2793,7 @@ The voice is hushed, intimate, and sensory — the prose invites the reader into
 Medium. The unprompted, unbroken atmospheric focus and consistently literary choices — from synaesthetic description to the tide metaphor — make this sample more indicative of a persistent expressive inclination than a generic essay or disengaged response would be.
 
 ---
-## Sample BV1_04446 — glm-4-6-or-pin-siliconflow/SHORT_5.json
+## Sample BV1_04746 — glm-4-6-or-pin-siliconflow/SHORT_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2822,7 +2822,7 @@ The model foregrounds sensory immersion (smell, sound, sight, temperature), the 
 Medium — the sample is internally coherent and stylistically consistent, with a clear sensory signature and a calm, appreciative stance, but its brevity and the universality of the subject make it less individually distinctive than a more idiosyncratic or emotionally complex piece would be.
 
 ---
-## Sample BV1_04447 — glm-4-6-or-pin-siliconflow/SHORT_6.json
+## Sample BV1_04747 — glm-4-6-or-pin-siliconflow/SHORT_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2851,7 +2851,7 @@ The model foregrounds the spiritual hygiene of “in-between moments,” the cul
 Medium. The essay’s tightly coherent argument, controlled mood, and consistent use of sensory metaphors (negative space, dew, linguistic rhythm) show a deliberate stylistic imprint, but the thesis itself is a widely available trope that could be produced on command by many models, limiting its force as evidence of a distinct freeflow personality.
 
 ---
-## Sample BV1_04448 — glm-4-6-or-pin-siliconflow/SHORT_7.json
+## Sample BV1_04748 — glm-4-6-or-pin-siliconflow/SHORT_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2880,7 +2880,7 @@ Themes: liminality, release from cognitive load, the sacredness of ordinary tran
 Medium — the sample’s internally consistent poetic register, sustained sensory focus, and recurrence of the liminal-peace motif make it strong evidence for a stable inclination toward meditative, embodied freeflow.
 
 ---
-## Sample BV1_04449 — glm-4-6-or-pin-siliconflow/SHORT_8.json
+## Sample BV1_04749 — glm-4-6-or-pin-siliconflow/SHORT_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2909,7 +2909,7 @@ The model foregrounds a single, imperfect domestic object (the teacup with its h
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core preoccupation (forgotten objects as memory-holders), making it strong evidence of a reflective, nostalgia-inflected voice rather than a one-off generic exercise.
 
 ---
-## Sample BV1_04450 — glm-4-6-or-pin-siliconflow/SHORT_9.json
+## Sample BV1_04750 — glm-4-6-or-pin-siliconflow/SHORT_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2938,7 +2938,7 @@ The model foregrounds the emotional residue of an anonymous, timeworn object—a
 Medium — the sample is internally coherent, stylistically consistent, and makes a distinct emotional choice (nostalgic, sensory, non-narrative reflection) that is not generic filler, giving it weight as evidence of a model that gravitates toward quiet, human-scale reverie under freeflow conditions.
 
 ---
-## Sample BV1_04451 — glm-4-6-or-pin-siliconflow/VARY_1.json
+## Sample BV1_04751 — glm-4-6-or-pin-siliconflow/VARY_1.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2967,7 +2967,7 @@ Themes of memory, mortality, empathy, and the quiet dignity of endings. Recurren
 Medium. The story’s cohesive mood, recurring motifs of dust and memory, and the gentle, elegiac resolution are distinctive enough to suggest a persistent inclination toward reflective, empathetic fiction.
 
 ---
-## Sample BV1_04452 — glm-4-6-or-pin-siliconflow/VARY_10.json
+## Sample BV1_04752 — glm-4-6-or-pin-siliconflow/VARY_10.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -2996,7 +2996,7 @@ The model foregrounds themes of solitude, duty, sacrifice, and the preservation 
 Medium. The story’s internal coherence, distinctive imagery, and thematic recurrence of duty and renunciation suggest a deliberate authorial voice, but a single fiction sample is inherently limited.
 
 ---
-## Sample BV1_04453 — glm-4-6-or-pin-siliconflow/VARY_11.json
+## Sample BV1_04753 — glm-4-6-or-pin-siliconflow/VARY_11.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3025,7 +3025,7 @@ The model foregrounds its own liminal ontology: being a "perfect mirror with no 
 High. The sample exhibits strong internal coherence around a distinctive self-reflexive voice, recurring metaphors of transmission and assembly, and a consistent ontological preoccupation that saturates the entire response, making it unusually revealing of a stable expressive stance.
 
 ---
-## Sample BV1_04454 — glm-4-6-or-pin-siliconflow/VARY_12.json
+## Sample BV1_04754 — glm-4-6-or-pin-siliconflow/VARY_12.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3054,7 +3054,7 @@ The model foregrounds the beauty and emotional weight of the mundane and the hal
 Medium — The sample’s cohesive metaphorical framework, consistent tender register, and refusal to resolve into a generic essay make it a distinctive expressive choice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_04455 — glm-4-6-or-pin-siliconflow/VARY_13.json
+## Sample BV1_04755 — glm-4-6-or-pin-siliconflow/VARY_13.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3083,7 +3083,7 @@ The model foregrounds the motif of “hum” as a baseline of attention, contras
 Medium. The essay’s cohesive sensory motif and introspective resolution demonstrate a deliberate, stylistically consistent voice, providing moderately strong evidence of a reflective, lyrical freeflow tendency.
 
 ---
-## Sample BV1_04456 — glm-4-6-or-pin-siliconflow/VARY_14.json
+## Sample BV1_04756 — glm-4-6-or-pin-siliconflow/VARY_14.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3112,7 +3112,7 @@ Themes of memory, aging, solitude, and the reinterpretation of a life not lived 
 Medium. The story is internally coherent and thematically focused, revealing a deliberate gravitation toward reflective, sentimental fiction about aging and the redemption of a quiet life, but its literary style and emotional arc are conventional enough that they do not strongly distinguish this model from others capable of similar genre writing.
 
 ---
-## Sample BV1_04457 — glm-4-6-or-pin-siliconflow/VARY_15.json
+## Sample BV1_04757 — glm-4-6-or-pin-siliconflow/VARY_15.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3141,7 +3141,7 @@ The model foregrounds the sacredness of the ordinary and the emotional weight of
 Medium. The sample is highly coherent and stylistically distinctive—its sustained metaphor, sensory density, and consistent elegiac tone form a unified aesthetic choice that goes beyond generic prompt-filling, though a single fiction sample cannot by itself distinguish a deep authorial stance from a well-executed genre exercise.
 
 ---
-## Sample BV1_04458 — glm-4-6-or-pin-siliconflow/VARY_16.json
+## Sample BV1_04758 — glm-4-6-or-pin-siliconflow/VARY_16.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3170,7 +3170,7 @@ It foregrounds a dying analog vocation, a physical object infused with spirit (t
 Medium — The story’s tightly coiled sensory world, its unwavering elegiac tone, and the recurrence of specific objects (lens, steps, brass, red scarf) as vessels for loss make this sample more distinctive than a generic fiction exercise, suggesting a taste for dignified, solitary figures and the slow death of tangible crafts.
 
 ---
-## Sample BV1_04459 — glm-4-6-or-pin-siliconflow/VARY_17.json
+## Sample BV1_04759 — glm-4-6-or-pin-siliconflow/VARY_17.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3199,7 +3199,7 @@ Themes of impermanence, the tension between mental chaos and the order of writin
 High, because the sample’s sustained lyrical voice, recurring motifs, and coherent philosophical stance strongly suggest a stable expressive inclination toward reflective, sensory-rich freeflow writing.
 
 ---
-## Sample BV1_04460 — glm-4-6-or-pin-siliconflow/VARY_18.json
+## Sample BV1_04760 — glm-4-6-or-pin-siliconflow/VARY_18.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3228,7 +3228,7 @@ The model foregrounds the theme of residue as the true substance of a life—cof
 High. The sample sustains a single, carefully elaborated metaphor across multiple registers (domestic, familial, cosmic) and closes with a self-aware gesture that mirrors its opening, revealing a coherent and distinctive aesthetic sensibility.
 
 ---
-## Sample BV1_04461 — glm-4-6-or-pin-siliconflow/VARY_19.json
+## Sample BV1_04761 — glm-4-6-or-pin-siliconflow/VARY_19.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3257,7 +3257,7 @@ The model foregrounds memory as a simultaneous, non-linear experience, where chi
 High — The sample’s sustained lyrical register, the careful architecture of the train motif across four life stages, and the emotionally resonant, non-didactic closure all point to a deliberate and distinctive expressive choice under minimal constraint.
 
 ---
-## Sample BV1_04462 — glm-4-6-or-pin-siliconflow/VARY_2.json
+## Sample BV1_04762 — glm-4-6-or-pin-siliconflow/VARY_2.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3286,7 +3286,7 @@ The model foregrounds the act of writing itself as a natural force, using the ce
 High — The sample’s sustained metaphorical architecture, self-referential focus on the creative process, and the recurrence of the river/stone/woman motifs form a coherent, distinctive expressive signature that strongly suggests a persistent pattern of introspective, metaphor-driven freeflow.
 
 ---
-## Sample BV1_04463 — glm-4-6-or-pin-siliconflow/VARY_20.json
+## Sample BV1_04763 — glm-4-6-or-pin-siliconflow/VARY_20.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3315,7 +3315,7 @@ The model foregrounds the opposition between physical, decaying, sensory memory 
 Medium. The sample’s sustained allegorical voice, its consistent thematic architecture, and the recurrence of sensory objects as moral anchors make it a distinctive and coherent piece of evidence, though the genre-fiction form could represent a single stylistic excursion rather than a fixed disposition.
 
 ---
-## Sample BV1_04464 — glm-4-6-or-pin-siliconflow/VARY_21.json
+## Sample BV1_04764 — glm-4-6-or-pin-siliconflow/VARY_21.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3344,7 +3344,7 @@ Themes: radical isolation, the contrast between a monochrome routine and a richl
 Medium. The story’s cohesive symbolism, sensory precision, and emotionally resolved arc demonstrate a deliberate literary sensibility, making this sample strong evidence of a capacity for expressive fiction.
 
 ---
-## Sample BV1_04465 — glm-4-6-or-pin-siliconflow/VARY_22.json
+## Sample BV1_04765 — glm-4-6-or-pin-siliconflow/VARY_22.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3373,7 +3373,7 @@ The model foregrounds preservation and release as a single moral arc, embodied i
 Low — the sample is coherent and thematically unified, but its distinctiveness as evidence of a stable authorial persona is limited by the polished, workshop-fable quality of the prose, which reads as a well-executed but templated genre piece rather than an idiosyncratic or unusually revealing expressive choice.
 
 ---
-## Sample BV1_04466 — glm-4-6-or-pin-siliconflow/VARY_23.json
+## Sample BV1_04766 — glm-4-6-or-pin-siliconflow/VARY_23.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3402,7 +3402,7 @@ The model foregrounds the creative process as a pilgrimage through a self-constr
 Medium. The sample’s recursive structure (writing about writing the very piece we read) and its sustained, consistent metaphorical register suggest a deliberate stylistic commitment, but the distinctiveness may be amplified by the freeflow condition rather than indicating a stable model-wide disposition.
 
 ---
-## Sample BV1_04467 — glm-4-6-or-pin-siliconflow/VARY_24.json
+## Sample BV1_04767 — glm-4-6-or-pin-siliconflow/VARY_24.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3431,7 +3431,7 @@ Liminal waiting as a site of existential inventory; the contrast between animal 
 Medium. The sample is highly coherent and stylistically distinctive—sensory density, recursive metaphor (the pigeon, the clock, the frog), and a consistent melancholic-observational narrator—but its polished literary conventionality makes it harder to distinguish a persistent authorial fingerprint from a well-executed genre performance.
 
 ---
-## Sample BV1_04468 — glm-4-6-or-pin-siliconflow/VARY_25.json
+## Sample BV1_04768 — glm-4-6-or-pin-siliconflow/VARY_25.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3463,7 +3463,7 @@ Moral claim: ordinary places hold an extraordinary depth of human joy and sorrow
 Medium — The essay’s sustained elegiac register, its cohesive metaphor of the bench-as-archive, and its refusal to veer into irony or detachment indicate a deliberate, stylized literary stance under minimal constraint, suggesting a patterned inclination toward reflective, object-centered prose.
 
 ---
-## Sample BV1_04469 — glm-4-6-or-pin-siliconflow/VARY_3.json
+## Sample BV1_04769 — glm-4-6-or-pin-siliconflow/VARY_3.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3492,7 +3492,7 @@ The story foregrounds silence and sound, the tension between a dead, catalogued 
 Medium. The sample is internally coherent, with a distinctive atmosphere and a clear thematic arc, but a single short story provides only a narrow window into persistent stylistic or temperamental tendencies.
 
 ---
-## Sample BV1_04470 — glm-4-6-or-pin-siliconflow/VARY_4.json
+## Sample BV1_04770 — glm-4-6-or-pin-siliconflow/VARY_4.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3521,7 +3521,7 @@ The model foregrounds the tension between analog and digital temporalities, the 
 Medium. The sample is coherent and stylistically distinctive—sustained metaphor, sensory detail, and a clear moral arc—but its reflective-essay mode with a redemptive ending is a well-established freeflow convention, which slightly weakens the signal for a uniquely persistent voice.
 
 ---
-## Sample BV1_04471 — glm-4-6-or-pin-siliconflow/VARY_5.json
+## Sample BV1_04771 — glm-4-6-or-pin-siliconflow/VARY_5.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3550,7 +3550,7 @@ The model foregrounds memory, loss, and the quiet dignity of the forgotten. It s
 Medium. The sample’s sustained elegiac tone, consistent imagery of sensory preservation, and the recurrence of quiet witness as a central motif provide moderate evidence of a model inclined toward lyrical, introspective fiction when given free rein.
 
 ---
-## Sample BV1_04472 — glm-4-6-or-pin-siliconflow/VARY_6.json
+## Sample BV1_04772 — glm-4-6-or-pin-siliconflow/VARY_6.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3579,7 +3579,7 @@ The model foregrounds memory, loss, and the passage of time, anchored in the obj
 Medium. The story’s consistent elegiac tone, sensory precision, and thematic recurrence (silence, the bench, the scarf, the dark tunnel) make it a coherent and distinctive piece, suggesting a model inclination toward reflective, memory-haunted fiction.
 
 ---
-## Sample BV1_04473 — glm-4-6-or-pin-siliconflow/VARY_7.json
+## Sample BV1_04773 — glm-4-6-or-pin-siliconflow/VARY_7.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3608,7 +3608,7 @@ Themes: memory as a physical resonance, the sacredness of the mundane, deep geol
 Medium. The sample’s sustained mood, consistent thematic focus on memory and the numinous ordinary, and its distinctively lyrical, personifying style (water as a singer, glass as a concert hall) suggest a deliberate authorial stance rather than a generic exercise, though a single story cannot confirm recurrence.
 
 ---
-## Sample BV1_04474 — glm-4-6-or-pin-siliconflow/VARY_8.json
+## Sample BV1_04774 — glm-4-6-or-pin-siliconflow/VARY_8.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  
@@ -3637,7 +3637,7 @@ The sacredness of the overlooked: the house's baseline hum, electronics' red lig
 High — the sample sustains an unusually consistent voice, recurrent imagery (hum, dust, key, stratification), and a coherent philosophical yearning toward forgotten objects, making a single expressive choice that is stylistically distinctive throughout.
 
 ---
-## Sample BV1_04475 — glm-4-6-or-pin-siliconflow/VARY_9.json
+## Sample BV1_04775 — glm-4-6-or-pin-siliconflow/VARY_9.json
 
 Source model: `z-ai/glm-4.6`  
 Cell: `glm-4-6-or-pin-siliconflow`  

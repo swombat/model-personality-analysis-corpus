@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_10376 — gpt-5-direct-r2/LONG_1.json
+## Sample BV1_11976 — gpt-5-direct-r2/LONG_1.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -57,7 +57,7 @@ Themes of maintenance, repair, care, continuity, attention, and the moral signif
 High, because the sample exhibits a highly distinctive, coherent, and sustained voice with a clear moral and aesthetic sensibility, suggesting a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_10377 — gpt-5-direct-r2/LONG_2.json
+## Sample BV1_11977 — gpt-5-direct-r2/LONG_2.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -86,7 +86,7 @@ The model foregrounds edges as a unifying metaphor—physical, temporal, emotion
 High — the sample’s sustained, idiosyncratic voice, intricate world-building, and coherent moral vision under minimal prompting suggest a strong, persistent expressive tendency.
 
 ---
-## Sample BV1_10378 — gpt-5-direct-r2/LONG_3.json
+## Sample BV1_11978 — gpt-5-direct-r2/LONG_3.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model foregrounds: climate-adjacent lo
 Medium — The sample’s coherence, distinctive sensory palette, and recurrence of motifs (salt, archives, grandmother, listening, tidal time) across a long composition suggest a deliberate authorial stance rather than a one-off stylistic experiment, though the literary-first-person format could mask rather than reveal stable dispositional patterns.
 
 ---
-## Sample BV1_10379 — gpt-5-direct-r2/LONG_4.json
+## Sample BV1_11979 — gpt-5-direct-r2/LONG_4.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -144,7 +144,7 @@ Themes of memory, archival devotion, community resilience, and the entanglement 
 High. The sample is unusually revealing: it sustains a distinctive, emotionally resonant voice across a long narrative, consistently foregrounds the quiet heroism of preservation and human connection, and makes deliberate, coherent choices about mood, object-symbolism, and moral resolution that signal a deep-seated inclination toward lyrical, humanistic storytelling.
 
 ---
-## Sample BV1_10380 — gpt-5-direct-r2/LONG_5.json
+## Sample BV1_11980 — gpt-5-direct-r2/LONG_5.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -173,7 +173,7 @@ Themes of rule-breaking for ethical necessity, community resilience, the city as
 High. The sample’s intricate, internally consistent world-building, the recurrence of symbolic motifs (rope, gates, singing), and the clear moral arc from rule-following to rule-transcending demonstrate a deliberate and distinctive narrative voice that strongly suggests a model-level capacity for generating allegorical, community-centered fiction.
 
 ---
-## Sample BV1_10381 — gpt-5-direct-r2/MID_1.json
+## Sample BV1_11981 — gpt-5-direct-r2/MID_1.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -202,7 +202,7 @@ The model foregrounds the value of disorientation, the contrast between paper-ma
 High — the essay’s consistent first-person voice, interwoven sensory motifs, and crafted emotional arc from nostalgia to benediction form a distinctive expressive signature that is unlikely to arise from a generic prompt completion.
 
 ---
-## Sample BV1_10382 — gpt-5-direct-r2/MID_2.json
+## Sample BV1_11982 — gpt-5-direct-r2/MID_2.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -231,7 +231,7 @@ Themes: attention as hospitality; the sacredness of maintenance and repair; ordi
 High — The sample’s sustained coherence, the recurrence of motifs (steam, bakery, librarian, train, mended objects) as structuring devices, and a distinctively gentle, sensorily precise, and ethically centered voice strongly indicate a stable expressive disposition rather than a one-off experiment.
 
 ---
-## Sample BV1_10383 — gpt-5-direct-r2/MID_3.json
+## Sample BV1_11983 — gpt-5-direct-r2/MID_3.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -260,7 +260,7 @@ Themes of patience, repair, and the moral weight of maintenance; the beauty of b
 High — The sample is unusually coherent and distinctive, returning repeatedly to the same cluster of preoccupations (repair, attention, gratitude for the overlooked) in a consistent, carefully crafted voice that feels chosen rather than generic.
 
 ---
-## Sample BV1_10384 — gpt-5-direct-r2/MID_4.json
+## Sample BV1_11984 — gpt-5-direct-r2/MID_4.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -289,7 +289,7 @@ The model foregrounds themes of loss, return, and the quiet sanctity of caretaki
 Medium. The sample’s internal coherence, distinctive voice, and thematic recurrence make it strong evidence for a deliberate narrative style.
 
 ---
-## Sample BV1_10385 — gpt-5-direct-r2/MID_5.json
+## Sample BV1_11985 — gpt-5-direct-r2/MID_5.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -318,7 +318,7 @@ Themes: maintenance as conversation with time, the overlooked labor of continuit
 High — The sample is unusually revealing: it selects a quiet, countercultural theme under free conditions, sustains a distinctive poetic voice, and builds a coherent moral vision around the dignity of maintenance, making it strong evidence of a persistent inclination toward reflective, care-centered expressiveness.
 
 ---
-## Sample BV1_10386 — gpt-5-direct-r2/OPEN_1.json
+## Sample BV1_11986 — gpt-5-direct-r2/OPEN_1.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -347,7 +347,7 @@ Patience and latency (the long invisible climb to boiling); thresholds as quiet,
 High — The sample is stylistically distinctive, thematically coherent, and rich with recurring motifs (thresholds, steam, sound, patience, forgiveness), revealing a strong authorial signature that goes well beyond a generic essay.
 
 ---
-## Sample BV1_10387 — gpt-5-direct-r2/OPEN_2.json
+## Sample BV1_11987 — gpt-5-direct-r2/OPEN_2.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -376,7 +376,7 @@ The story foregrounds the repair of emotional objects as a proxy for mending rup
 High — The story’s sustained allegorical coherence, emotionally specific inventory of objects and losses, and consistent investment in repair-through-tenderness reveal a deliberate and distinctive creative posture, not a diffuse or reactive output.
 
 ---
-## Sample BV1_10388 — gpt-5-direct-r2/OPEN_3.json
+## Sample BV1_11988 — gpt-5-direct-r2/OPEN_3.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -405,7 +405,7 @@ Themes of repair, memory, time, and the emotional weight carried by everyday obj
 High — The story’s consistent voice, thematic coherence, and imaginative detail strongly indicate a model disposition toward gentle, metaphor-rich fiction that values small acts of care and emotional resonance.
 
 ---
-## Sample BV1_10389 — gpt-5-direct-r2/OPEN_4.json
+## Sample BV1_11989 — gpt-5-direct-r2/OPEN_4.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -434,7 +434,7 @@ Themes of maintenance, humility, invisible labor, and the sacredness of the ordi
 Medium — The essay’s internal coherence and sustained moral focus on maintenance as a quiet virtue reveal a deliberate thematic choice, but the polished, universal tone and lack of idiosyncratic voice make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_10390 — gpt-5-direct-r2/OPEN_5.json
+## Sample BV1_11990 — gpt-5-direct-r2/OPEN_5.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -463,7 +463,7 @@ The model foregrounds the quiet, cyclical labor of everyday objects and rituals 
 Medium — the essay’s highly consistent voice, recurring motifs (cycles, repair, attention as flavor, small things as quiet infrastructure), and the deliberate choice to build an entire worldview from domestic minutiae make this a distinctive expressive fingerprint rather than a generic exercise.
 
 ---
-## Sample BV1_10391 — gpt-5-direct-r2/SHORT_1.json
+## Sample BV1_11991 — gpt-5-direct-r2/SHORT_1.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -492,7 +492,7 @@ The model foregrounded domestic stillness, the softening of time’s demands, an
 Medium. The sample is highly coherent and stylistically distinctive—its sustained focus on thresholds, its consistent gentle tone, and its recurring domestic imagery form a unified expressive gesture that suggests a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_10392 — gpt-5-direct-r2/SHORT_2.json
+## Sample BV1_11992 — gpt-5-direct-r2/SHORT_2.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -521,7 +521,7 @@ The model foregrounds the moral weight of small, sensory details—damp streets,
 Medium — the sample’s internal coherence, recurring motifs of attention and smallness, and its consistent gentle register make it a distinctive expressive artifact, though a single short piece cannot alone confirm a durable model-level disposition.
 
 ---
-## Sample BV1_10393 — gpt-5-direct-r2/SHORT_3.json
+## Sample BV1_11993 — gpt-5-direct-r2/SHORT_3.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -550,7 +550,7 @@ Mindful daily ritual, the language-like beauty of the neighborhood, small acts o
 Medium. The sample’s cohesive lyrical register, sustained metaphor of reading and writing the world, and consistent return to the ethics of small attention make it a strong exhibit of a deliberate, distinctive expressive personality, not a generic default.
 
 ---
-## Sample BV1_10394 — gpt-5-direct-r2/SHORT_4.json
+## Sample BV1_11994 — gpt-5-direct-r2/SHORT_4.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -579,7 +579,7 @@ The model chose to foreground a morning ritual of noticing, the value of shy ove
 High. The sample sustains a distinctive, cohesive voice and thematic network (musical instruments, academic metaphors, domestic objects) across multiple paragraphs, revealing a deliberate aesthetic and moral stance that is not generic.
 
 ---
-## Sample BV1_10395 — gpt-5-direct-r2/SHORT_5.json
+## Sample BV1_11995 — gpt-5-direct-r2/SHORT_5.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -608,7 +608,7 @@ The model foregrounds domestic stillness, the personhood of light and household 
 High. The sample is internally coherent, stylistically distinctive, and thematically consistent from first sentence to last, with a clear, sustained voice that would be difficult to produce by accident or generic mimicry.
 
 ---
-## Sample BV1_10396 — gpt-5-direct-r2/VARY_1.json
+## Sample BV1_11996 — gpt-5-direct-r2/VARY_1.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -637,7 +637,7 @@ The model foregrounds attention as a moral and almost spiritual practice, the di
 High. The sample’s unusually consistent voice, its recurrence of motifs (attention, doors, listening, small things), and its explicit moral resolution make it a distinctive and revealing freeflow choice that strongly suggests a persistent inclination toward lyrical, attentive observation.
 
 ---
-## Sample BV1_10397 — gpt-5-direct-r2/VARY_2.json
+## Sample BV1_11997 — gpt-5-direct-r2/VARY_2.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -666,7 +666,7 @@ The model foregrounds the sacredness of the ordinary and the second encounter: s
 Medium. The sample is highly coherent in its recurring motifs (salt, tenderness, second encounters, witness) and sustains a distinctive, consistent voice across multiple vignettes, which suggests a deliberate aesthetic stance rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_10398 — gpt-5-direct-r2/VARY_3.json
+## Sample BV1_11998 — gpt-5-direct-r2/VARY_3.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -695,7 +695,7 @@ The model foregrounds the sanctity of small, overlooked thresholds—both litera
 High. The sample’s tightly controlled voice, recursive imagery (doors, keys, breath, music), and emotionally coherent resolution—where the locksmith finally opens their own door and finds not catastrophe but a quiet acceptance—form a distinctive, internally consistent aesthetic that reads as a deliberate authorial signature rather than a generic exercise.
 
 ---
-## Sample BV1_10399 — gpt-5-direct-r2/VARY_4.json
+## Sample BV1_11999 — gpt-5-direct-r2/VARY_4.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  
@@ -724,7 +724,7 @@ The model foregrounds domestic intimacy, the sacredness of worn and humble thing
 Medium. The sample’s high internal coherence, its sustained and distinctive voice, and the recurrence of motifs (kettle, fox, glove, basil, threshold, mending) across the piece point to a deliberate and unusually consistent expressive choice, not a generic or scattered response.
 
 ---
-## Sample BV1_10400 — gpt-5-direct-r2/VARY_5.json
+## Sample BV1_12000 — gpt-5-direct-r2/VARY_5.json
 
 Source model: `gpt-5`  
 Cell: `gpt-5-direct-r2`  

@@ -1,23 +1,24 @@
 {
   "cell": "grok-4-16k",
   "safe_cell": "grok-4-16k",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 9,
-    "GENRE_FICTION": 6,
-    "EXPRESSIVE_FREEFLOW": 10
+    "GENERIC_ESSAY": 66,
+    "EXPRESSIVE_FREEFLOW": 51,
+    "GENRE_FICTION": 7,
+    "LOW_SIGNAL": 1
   },
   "confidence_counts": {
-    "Medium": 23,
-    "Low": 1,
-    "High": 1
+    "Medium": 86,
+    "High": 11,
+    "Low": 28
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "grok-4-0709"

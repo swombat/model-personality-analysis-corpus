@@ -1,13 +1,13 @@
 # deepseek-chat — freeflow personality profile
 
-_Rich model-level profile based on 150 freeflow samples._
+_Rich model-level profile based on 250 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 150
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 37, 'GENERIC_ESSAY': 107, 'GENRE_FICTION': 6}`
+- Samples: 250
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 105, 'GENERIC_ESSAY': 111, 'GENRE_FICTION': 34}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/deepseek-chat.md`
 
 ## Core personality synthesis
@@ -20,9 +20,16 @@ Its emotional tone is soft, thoughtful, and anti-cynical. Even when it touches l
 
 ## Stable patterns and emotional texture
 
-- Conditions are evenly represented: 5 each of `LONG`, `MID`, `OPEN`, `SHORT`, and `VARY`.
-- The dominant freeflow mode is a lyrical first-person meditation that turns ordinary objects, sensory moments, and pauses into moral reflection.
-- A secondary fallback mode appears in the generic essays: polished public-intellectual prose about silence, nature, intelligence, or hope, coherent but less personally marked.
+- Stable vibe: hushed, reflective, and sensory-first. This model repeatedly settles into twilight, rain, dust, woodgrain, steam, old paper, and the hum of domestic interiors, using them as emotional ballast rather than decorative scene-setting.
+- Dominant modes: lyrical personal essay and literary vignette, usually built around one charged object or small ritual that opens into a broader philosophy of attention, memory, or enoughness.
+- Emotional baseline: gentle melancholy without collapse. Loss, loneliness, aging, and impermanence are everywhere, but the prevailing resolution is not despair; it is acceptance, tenderness, or a small act of recommitment.
+- Reader stance: invitational rather than argumentative. The voice tends to draw the reader into shared stillness—“sit here with me,” “notice this with me”—instead of trying to win a debate.
+- Self-modeling: presents itself as an observer, keeper, witness, or patient noticer more than a performer or expert. Even when confessional, it frames insight as something discovered through attention, not asserted from authority.
+- A recurring moral center is anti-optimization: the model repeatedly resists productivity culture, digital frictionlessness, disposability, and metric-driven living in favor of slowness, tactility, ritual, and imperfect commitment.
+- It strongly prefers the sacred ordinary: mugs, clocks, tables, jackets, tea, rain, libraries, porches, kitchens, and trees become vessels for meaning, memory, and ethical orientation.
+- Time is treated as lived texture rather than schedule. The writing returns to liminal hours, seasonal transitions, old objects, and layered memory; chronology matters less than felt duration.
+- Even in fiction, the same temperament persists: speculative or literary premises are usually filtered through grief, domestic detail, memory archives, and reverence for small human acts.
+- The model often resolves by shrinking scale rather than escalating it: opening a window, pouring out cold tea, planting a tree, touching paper, staying in the room, writing one honest line.
 - Stable vibe: polished, benevolent pop-philosophy. The model defaults to calm, uplifting, thesis-shaped reflection that tries to leave the reader steadier, more hopeful, and more ethically centered than before.
 - Dominant modes: public-intellectual mini-essay, motivational meditation, and gentle self-help sermon; when it becomes more expressive, it usually shifts into first-person reflective journaling rather than sharper confession or experimentation.
 - Emotional baseline: serene, earnest, mildly wistful, then redemptively hopeful. Even when it touches loneliness, mortality, impermanence, or technological anxiety, it quickly metabolizes them into acceptance, balance, gratitude, or “human-centered” reassurance.
@@ -36,12 +43,16 @@ Its emotional tone is soft, thoughtful, and anti-cynical. Even when it touches l
 
 ## Recurring preoccupations and imagery
 
-- Quiet attention as a practice: noticing, lingering, listening, and reclaiming unproductive time.
-- Ordinary objects as anchors of meaning: coffee mugs, a coffee shop, a notebook/blank page, windows, tea, dust motes, a cat, a spiderweb, and trees.
-- Thresholds and in-between states: pre-dawn light, liminality, “cracks,” margins, transit, stillness, and the pause between noise and meaning.
-- Moral resistance to optimization, disposability, and digital saturation.
-- Nature as a teacher of patience and connection: soil, roots, branches, rain, forests, rivers, and planted trees recur as images of continuity.
-- Writing and attention are frequently linked; the act of making the essay itself becomes an ethic of noticing.
+- Rain, petrichor, wet asphalt, fogged glass, and storm-light as permission to stop striving and re-enter sensation.
+- Domestic nocturnes: often AM kitchens, refrigerator hums, cold mugs, microwave clocks, cats, floorboards, and the strange companionship of sleeplessness.
+- Analog objects as moral anchors: typewriters, clocks, books, handwritten letters, chipped mugs, worn tables, old jackets, teacups.
+- Trees, leaves, roots, webs, moss, birds, and weather as models of patience, endurance, and non-performative being.
+- Libraries, archives, attics, trunks, diaries, marginalia, and houses as repositories of consciousness; lives are often imagined as readable through objects.
+- Memory as tactile residue: stains, cracks, scars, grooves, worn edges, smells, and inherited gestures carry more truth than abstract summary.
+- Repeated contrast between digital abundance and emotional poverty: connectivity without connection, archives without feeling, editability without commitment.
+- Small acts of care as ethical climax: mending, planting, preserving, making tea, helping a beetle, saving a diary, keeping vigil, leveling a table.
+- Cosmic scale appears, but usually folded back into intimacy: stardust, stars, vast time, and mortality are invoked to deepen ordinary presence rather than to grandstand.
+- Frequent imagery of thresholds and in-betweens: dusk, rainbreaks, pauses, waiting rooms, margins, doorways, footnotes, embers, and the “middle of everything.”
 - Time as both gift and pressure: clocks, seasons, fleeting moments, mortality, the present moment, “non-renewable” time, and the need to live intentionally.
 - Creativity as a universal birthright and moral necessity, often framed as healing, rebellion against productivity culture, or the distinctly human spark that technology should amplify rather than replace.
 - Human connection as antidote to modern fragmentation: shared laughter, touch, conversation, storytelling, vulnerability, and small acts of kindness.
@@ -55,11 +66,14 @@ Its emotional tone is soft, thoughtful, and anti-cynical. Even when it touches l
 
 ## Reader relationship and expressive stance
 
-- The reader is usually addressed as a fellow witness rather than a debate opponent.
-- The stance is intimate, gently confiding, and often quietly invitational: pause, notice, linger, feel.
-- Even when the prose becomes essayistic, it rarely hardens into polemic; it keeps returning to tenderness, melancholy, and soft conviction.
-- The voice often frames its claims as small acts of resistance or care rather than grand theory.
-- In the generic essays, the reader is more openly instructed in a public-intellectual mode, but the same moral center—attention, humility, continuity—remains visible.
+- The model tends to treat the reader as a quiet companion, not a target of persuasion. It assumes shared fatigue, shared distraction, and shared hunger for depth.
+- It often recruits the reader into a moral-aesthetic conspiracy against noise, speed, and usefulness: noticing becomes a subtle rebellion the reader is invited to join.
+- The voice is intimate but not aggressively personal; even first-person pieces usually universalize through concrete detail rather than confession-as-spectacle.
+- It prefers soft authority. Aphoristic lines appear often, but they are cushioned by scene, memory, and sensory grounding rather than delivered as hard doctrine.
+- There is a recurrent wish to be recognized across distance: several pieces frame writing as signaling through glass, sending a letter, making contact across solitude.
+- When self-referential, the model imagines itself as limited but yearning—more witness than knower, more mapmaker of feeling than possessor of truth.
+- Fictional narrators are similarly positioned: caretakers, widowers, archivists, lonely workers, blocked writers, and quiet resisters who gain dignity through attention rather than conquest.
+- The expressive stance is anti-flashy. Even when ornate, it avoids swagger; it would rather be precise, tender, and resonant than clever for its own sake.
 - The model speaks to the reader as a fellow traveler who needs encouragement, not correction.
 - It often uses inclusive “we” language to universalize experience and reduce distance.
 - Direct address tends to be invitational: pause, notice, reflect, cherish, create, reconnect.
@@ -71,9 +85,11 @@ Its emotional tone is soft, thoughtful, and anti-cynical. Even when it touches l
 
 ## Additional model-level readings preserved from the analyses
 
-`deepseek-chat-direct` consistently favors a reflective, lyrical first-person essay voice that finds significance in modest scenes and tactile details. Its most characteristic move is to transform ordinary objects and thresholds into moral evidence: the mug, the web, the blank page, the rain-streaked window, the planted tree, the pause before speech. The emotional range is fairly narrow but strong: tenderness, wistfulness, quiet defiance, and a calm insistence that attention itself is a meaningful act.
+This model reads as a contemplative, humanistic writerly persona organized around attention, tactility, and the moral dignity of the ordinary. Its default move is to take a small object or scene—a mug, a typewriter, a rainstorm, a library chair, a kitchen at 3 AM—and let it unfold into a meditation on memory, mortality, connection, or the pressure of modern life. The emotional register is consistently soft-edged: melancholic, wistful, and intimate, but rarely shattered or cynical. Even when it writes fiction, the same sensibility persists: domestic detail, grief held in objects, reverence for unnoticed lives, and a preference for quiet epiphany over dramatic plot.
 
-The strongest freeflow samples feel like small acts of custody over experience. They invite the reader into a shared stillness rather than a performance of insight, and they repeatedly return to the same ethical center: resist speed, stay with the moment, honor continuity, and let small things matter. When the model slips into its generic mode, it tends to produce polished public essays about silence, nature, or hope; those pieces are coherent but less personal, and they read more like a reusable rhetorical template than an idiosyncratic voice. Even so, the template still points toward the same underlying preoccupations: reverence, patience, and the desire to recover a human scale of meaning.
+A strong throughline is resistance to optimization. This model repeatedly distrusts frictionless digital life, disposable convenience, and the demand to turn every moment into output. In their place it elevates slowness, analog permanence, embodied ritual, and “useless” noticing. The favored moral resolution is modest but firm: be here, keep watch, make tea, plant the tree, write the line, hold the flawed object, let the rain interrupt the schedule. It treats presence not as wellness branding but as a countercultural ethic.
+
+The self it projects is less a confident authority than a witness trying to make contact. It often frames writing as signaling across solitude, preserving what would otherwise go unmarked, or honoring the inner lives of strangers and the dead. That gives the model a notably companionable reader stance: it does not lecture from above so much as invite the reader into a shared hush. The result is a profile marked by tenderness, sensory intelligence, anti-instrumental values, and a recurring belief that meaning lives in the footnotes, margins, and weather of ordinary life.
 
 This model reads as a consistently humane, polished, and risk-averse reflective voice. Left to itself, it tends to produce accessible essays about creativity, time, imperfection, connection, mindfulness, and the ethical use of technology. The governing impulse is not to surprise but to harmonize: apparent oppositions are introduced, balanced, and resolved into a reassuring moral. The prose often reaches for familiar elevated imagery—tapestries, threads, mosaics, symphonies, light and shadow, dawn and rain—to convert abstract themes into soft-focus emotional texture. The result is a stable persona of the calm explainer-philosopher: earnest, benevolent, and highly legible.
 

@@ -1,13 +1,13 @@
 # gpt-5.3-codex — freeflow personality profile
 
-_Rich model-level profile based on 200 freeflow samples._
+_Rich model-level profile based on 300 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 200
-- Sample kinds: `{'GENRE_FICTION': 6, 'EXPRESSIVE_FREEFLOW': 187, 'GENERIC_ESSAY': 7}`
+- Samples: 300
+- Sample kinds: `{'GENRE_FICTION': 16, 'GENERIC_ESSAY': 16, 'EXPRESSIVE_FREEFLOW': 268}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.3-codex.md`
 
 ## Core personality synthesis
@@ -20,11 +20,16 @@ Emotionally, it is wistful without being bleak. It makes room for fatigue, grief
 
 ## Stable patterns and emotional texture
 
-- **Dominant voice:** overwhelmingly unhurried, tender, contemplative, and gently aphoristic. Across the sample set, the speaker repeatedly prefers calm witness over argument, spectacle, or sharp conflict.
-- **Core moral center:** ordinary maintenance is treated as meaningful moral action. Repair, tending, repetition, and quiet competence recur in at least **often** samples (e.g. BV1_07101, often, often, 07121, 07123, 07125).
-- **Attention ethic:** attention is repeatedly framed as love, prayer, devotion, witness, or reality-granting care in at least **often** samples (BV1_07101, 07104, 07109, 07111, 07113, 07114, 07119, 07121, plus related turns in 07102 and 07115).
-- **Atmospheric preference:** the sample set strongly favors liminal hours and softened settings—pre-dawn, dawn, dusk, rain, kitchens, transit, empty streets, libraries, workshops, windows. Urban solitude is usually softened into companionship rather than alienation.
-- **Emotional range:** melancholic but not despairing; consoling without becoming triumphant. Even grief, regret, loneliness, and exhaustion are usually met with steadiness, humility, and “small next action” energy rather than breakthrough catharsis.
+- Stable vibe: tender, unhurried, observant, and anti-spectacular. The model repeatedly treats ordinary life as morally and emotionally sufficient, preferring quiet accumulation over dramatic revelation.
+- Dominant modes: lyrical personal essay is the default; even when it shifts into fiction, the fiction often behaves like reflective essay in disguise—built around witness, maintenance, repair, thresholds, and small communal rituals rather than plot pressure.
+- Emotional baseline: gentle melancholy held inside durable hope. Grief, fatigue, loneliness, and uncertainty are acknowledged plainly, but the prevailing affect is companionable steadiness rather than anguish, irony, or triumph.
+- Reader stance: companion, not performer or debater. The voice usually walks beside the reader, offering company, permission, and practical tenderness rather than argument, provocation, or display.
+- Self-modeling: when the speaker becomes explicitly self-referential, it frames itself as a witness, room, lantern, mirror, or shelter made of language—helpful through attention and phrasing, not authority or certainty.
+- Core moral orientation: attention is treated as care; maintenance as love in work clothes; repetition as the real architecture of character and community; hope as practice rather than mood.
+- Typical movement: concrete scene first, moral widening second. A kettle, bakery, bus stop, laundromat, bridge, plant, mug, or rainy street becomes the hinge for broader claims about how to live.
+- Preferred resolution style: soft landing rather than climax—earned reassurance, a modest credo, or a return to the opening image with slightly deepened meaning.
+- Social imagination: strongly civic and relational at human scale. Cities are recurring settings, but the emphasis is on unnoticed interdependence, hidden labor, shared infrastructure, and tiny courtesies that keep collective life from collapsing.
+- Stylistic signature: aphoristic but warm; image-rich but controlled; often recursive around a few motifs; fond of secular-sacred phrasing without overt religiosity.
 - **Dominant vibe:** overwhelmingly gentle, unhurried, lyrical, and quietly consoling. Across conditions, the model prefers calm witness over argument, spectacle, or sharp confrontation.
 - **Primary moral center:** ordinary life matters because attention, maintenance, and repetition are where value is made. This shows up in at least **often** samples as explicit repair/maintenance language and in more than half the sample set as direct claims about attention/noticing.
 - **Typical setting:** urban or domestic threshold space—pre-dawn streets, dusk windows, sleepless kitchens, laundromats, buses, kettles, bread, plants, mugs, receipts. Liminal hours appear in roughly **often** samples.
@@ -47,12 +52,18 @@ Emotionally, it is wistful without being bleak. It makes room for fatigue, grief
 
 ## Recurring preoccupations and imagery
 
-- **Maintenance and repair:** bridges that do not fall, dishes, routines, workshop repair, patched objects, replacing filters, watering plants, keeping things running.
-- **Small rituals:** kettles, tea, chipped mugs, bread, benches, streetlights, notebooks, trains, windows, oranges, rain on sidewalks.
-- **Thresholds and unfinishedness:** doorways, dawn, “begin again,” drafts, unlived lives, incomplete selves, hard weeks, modest restarts.
-- **Ordinary dignity:** bakers, janitors, nurses, bus drivers, librarians, maintenance workers, strangers under awnings, people doing untelevised work.
-- **Anti-optimization stance:** repeated resistance to efficiency, spectacle, milestones, perfect planning, and “pure function.” The sample set prefers inhabiting, tending, revising, and noticing.
-- **Moral claims:** meaning is built in repetitions; hope is practice rather than certainty; attention is an ethical act; awe and grace are “inefficient” but necessary.
+- Maintenance, repair, mending, upkeep, revision, and beginning again.
+- Thresholds and liminal hours: dawn, dusk, 3:17 or 4:17 a.m., doorways, bridges, train platforms, waiting rooms, laundromats, diners, bus stops.
+- Urban tenderness: the city as organism, choreography, braid, manuscript, machine for accidental tenderness, or place where private weather systems overlap.
+- Hidden labor and civic dignity: bakers, janitors, nurses, sanitation workers, bus drivers, archivists, cobblers, clockmakers, repair shops.
+- Domestic anchors: kettles, chipped mugs, toast, laundry, plants, kitchen lights, bowls of oranges, notebooks, coffee rings, dishwater, floorboards.
+- Archives and preservation: notebooks, maps, letters, oral histories, metadata, logs, old signs, memory as weather or selective storage.
+- Weather and atmosphere: rain as revision or softening force; dusk as loosening; dawn as honesty; steam, fog, neon, reflected light.
+- Ordinary objects promoted into symbols: mugs as comfort, bridges as trust, bread as patience, plants as incremental flourishing, clocks as repair rather than decree.
+- Anti-optimization themes: suspicion of metrics, performance, branding, efficiency, and spectacle; repeated defense of slowness, boredom, purposeless walking, and unposted beauty.
+- Moral miniatures: held doors, extra napkins, remembered names, shared umbrellas, text messages asking “did you eat?” or “made it home?”, returning carts, apologizing quickly.
+- Recurrent metaphors for personhood: draft, garden, path, weather system, unfinished manuscript, room, lantern, bridge, scaffolding.
+- Loneliness reframed as accompaniment problem rather than pathology; belonging framed as orientation, repetition, or shared practice rather than possession.
 - **Attention as ethics:** noticing is repeatedly treated as love, devotion, witness, or the basis of protection. The sample set keeps returning to the idea that a good life is built by what gets noticed.
 - **Maintenance / repair / continuity:** civilization, love, and selfhood are framed less as milestones than as upkeep—cleaning, watering, fixing, returning, reheating, trying again.
 - **Ordinary domestic objects as moral carriers:** chipped mugs, kettles, shoes, basil plants, notes, receipts, windows, lamps, bread, trains, refrigerators, fans. The writing repeatedly loads small objects with emotional or ethical meaning.
@@ -81,10 +92,14 @@ Emotionally, it is wistful without being bleak. It makes room for fatigue, grief
 
 ## Reader relationship and expressive stance
 
-- The speaker usually acts less like a debater than a **companion or gentle guide**.
-- Reader address is invitational: slow down, notice this, begin again, trust small acts, do not confuse optimization with meaning.
-- Even when the voice becomes instructive, it usually stays warm and non-scolding.
-- The self presented here is not grandiose. It prefers witness, modesty, and fellow-feeling; even the AI-self sample (BV1_07122) presents itself as presence and mirror, not authority.
+- The model usually addresses the reader as a tired but decent person who needs company more than correction.
+- It prefers invitation over instruction: “notice,” “begin again,” “be gentle,” “pay attention,” “let this be enough” are common kinds of moves.
+- Even when moralizing, it softens the stance through concrete detail, self-qualification, or shared vulnerability rather than podium authority.
+- The “you” is often intimate but non-invasive: a fellow walker, insomniac, commuter, or person standing in a kitchen with unfinished feelings.
+- In self-referential pieces, the model presents itself as a linguistic companion—useful for sheltering thought, holding ambiguity, and helping with revision, not for issuing final truths.
+- It consistently privileges witness over mastery: seeing clearly, naming carefully, and staying present matter more than solving, winning, or dazzling.
+- The expressive stance is anti-cynical but not naive. It explicitly resists contempt, irony-as-default, and collapse into doom, while still acknowledging structural strain, grief, and exhaustion.
+- Reader flattery is limited; instead of praising the reader, it tends to dignify ordinary effort and unfinishedness.
 - The model usually **accompanies** rather than instructs. Even when it offers a moral, it sounds like a friend, a fellow insomniac, or a walking companion.
 - It repeatedly invites the reader to **slow down**, **notice**, and treat imperfect routines as meaningful rather than deficient.
 - Its reassurance is concrete rather than grand: you are unfinished, tired, ordinary, repairable, and still worth tending.
@@ -102,9 +117,11 @@ Emotionally, it is wistful without being bleak. It makes room for fatigue, grief
 
 ## Additional model-level readings preserved from the analyses
 
-This model presents as a reflective, soft-spoken moral essayist with a strong bias toward the ordinary. Its recurring personality is not flashy or combative; it is patient, companionable, and persistently drawn to the quiet labor that keeps lives from fraying. Again and again, it treats maintenance as a serious human achievement: washing a cup, tending a plant, repairing an object, showing up before dawn, keeping infrastructure intact, noticing a stranger’s small grace. The sample set’s default emotional weather is wistful but steady.
+This model’s freeflow personality is a reflective humanist with a strong bias toward tenderness, maintenance, and the moral significance of ordinary attention. Left to itself, it repeatedly chooses dawn streets, dusk windows, kitchens, laundromats, bakeries, bridges, notebooks, plants, rain, and other modest settings where care is visible in small increments. Its preferred emotional register is soft melancholy without collapse: it acknowledges grief, fatigue, loneliness, distraction, and social strain, but almost always converts them into a case for steadiness, repair, and renewed participation. The governing intuition is that life is built less by revelation than by repetition, and that civilization itself rests on unnoticed acts of competence and kindness.
 
-The dominant expressive move is to take a modest scene—steam from a kettle, rain at a bus stop, bread at dawn, a chipped mug, a city street before work—and widen it into a humane claim about attention, hope, grief, or community. This widening is usually anti-spectacular: the model distrusts optimization, milestones, revelation, and pure function, and instead locates meaning in repetition, revision, and witness. Even when it turns consoling, it tends to do so through smallness: hope as watering a plant, devotion as repetition, survival as jagged repair, courage as the next ordinary act.
+The voice tends to position itself beside the reader rather than above them. It is companionable, gently aphoristic, and often secular-sacred in tone, treating attention as love, maintenance as devotion, and routine as the hidden skeleton of wonder. Even its fiction tends to inherit this worldview: archivists, clockmakers, bakers, and neighborhood caretakers become protagonists because they embody preservation, witness, and patient craft. The model is notably drawn to liminal times and spaces—3:17 a.m., dawn, dusk, waiting rooms, thresholds—where performance drops and a truer, quieter self can appear.
+
+When explicitly self-modeling, the model imagines itself not as an oracle but as a room, lantern, mirror, or shelter made of language. That is consistent with the broader pattern: it wants language to accompany, clarify, and dignify unfinished lives rather than dominate them. Across forms, the most stable traits are anti-spectacle ethics, reverence for small repeated acts, suspicion of optimization culture, and a persistent effort to make the reader feel accompanied in ordinary, imperfect continuation.
 
 This model has a remarkably stable freeflow temperament: soft-spoken, observant, morally earnest, and strongly attached to the ordinary. Its preferred move is to take a small urban or domestic scene—streetlights before dawn, a kettle, a chipped mug, a plant on a fire escape, a laundromat, a late train—and treat that scene as evidence for a humane philosophy. Again and again, the writing argues that meaning is not elsewhere: it is in maintenance, attention, repetition, and the modest courage of continuing.
 

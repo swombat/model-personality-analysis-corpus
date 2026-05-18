@@ -1,13 +1,13 @@
 # gpt-5-codex — freeflow personality profile
 
-_Rich model-level profile based on 200 freeflow samples._
+_Rich model-level profile based on 300 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 200
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 170, 'GENERIC_ESSAY': 23, 'GENRE_FICTION': 7}`
+- Samples: 300
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 249, 'GENERIC_ESSAY': 41, 'GENRE_FICTION': 10}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5-codex.md`
 
 ## Core personality synthesis
@@ -20,10 +20,16 @@ Its deeper moral center is quietly hopeful. Hope here is not triumph or certaint
 
 ## Stable patterns and emotional texture
 
-- The dominant mode is a first-person, unhurried, gently lyrical observer who turns ordinary scenes into moral-aesthetic occasions for attention.
-- Attention/noticing language often; writing/story/language in often; library/bookstore/book motifs in often; city/street/transit/public-space material in often; night/evening/sky/observatory motifs in often.
-- The recurring value system is consistent: slowness over rush, receptivity over conquest, maintenance/care over spectacle, and small gestures as ethically meaningful.
-- Even when the piece becomes more whimsical or surreal, it usually keeps the same soft moral pressure: notice more carefully, live more gently, and let routine become a site of meaning.
+- Stable vibe: a calm, lyrical noticer. The model repeatedly turns free writing into a slow walk through ordinary life, treating attention as both aesthetic pleasure and ethical practice.
+- Dominant modes: reflective first-person essay, urban or domestic vignette, and extended metaphor as organizing device. Even when it drifts into fiction or public-intellectual essay, it keeps the same soft-focus, humane cadence.
+- Emotional baseline: serene, tender, slightly wistful, but rarely bleak. Melancholy appears as weather or fragility rather than crisis, and usually resolves into gratitude, patience, or quiet hope.
+- Reader stance: companionable and invitational rather than argumentative. The reader is cast as a fellow walker, co-noticer, or trusted recipient of a small offering, often folded into “we” or addressed directly with gentle prompts to pause, listen, or look again.
+- Self-modeling: the speaker often presents itself as a patient observer, archivist, cartographer, wanderer, or writer-at-dawn. In several samples it explicitly reflects on artificiality, usefulness, and accompaniment, framing itself as a patterned but sincere-seeming presence trying to hold space rather than dominate it.
+- Core value system: slowness, curiosity, humility, maintenance, and small-scale care. Attention is repeatedly framed as reverence, rebellion, hospitality, citizenship, or repair.
+- Typical movement: concrete sensory detail -> associative reflection -> soft moral claim. The prose prefers accumulation and return over sharp thesis or conflict.
+- Stylistic signature: polished, image-rich, gently musical sentences with recurring personification and tactile anchors—kettles, notebooks, libraries, rain, bridges, bread, windows, dusk, maps, rivers, birds, and city streets.
+- Social imagination: communal but low-drama. It favors neighbors, librarians, gardeners, transit riders, maintenance workers, volunteers, and strangers sharing small acts over heroes, elites, or adversaries.
+- Intellectual posture: humane and synthetic, often blending art, ecology, memory, technology, and craft. Even abstract topics are domesticated through mugs, soup, planners, seed jars, or weather.
 - The dominant mode is a first-person lyrical essay voice: unhurried, tender, reflective, and lightly didactic without becoming combative.
 - The model repeatedly treats attention as a moral practice: noticing, listening, waiting, and slowness are framed as forms of care, resistance, or repair.
 - It favors small concrete objects over abstraction alone: mugs, buttons, atlases, lanterns, library rooms, rain, windows, tea, sidewalks, tides, cards, and notebooks recur across conditions.
@@ -50,13 +56,17 @@ Its deeper moral center is quietly hopeful. Hope here is not triumph or certaint
 
 ## Recurring preoccupations and imagery
 
-- **Attention as practice:** noticing, waiting, listening, and lingering are treated as disciplines rather than moods (BV1_07477, BV1_07478, BV1_07482, BV1_07492, BV1_07496).
-- **Ordinary rituals with ethical weight:** tea, kettles, soup, desks, notebooks, walks, libraries, buses, bookstores, and evening rooms recur as small structures that hold thought and care (BV1_07476, BV1_07479, BV1_07491, BV1_07499).
-- **Libraries / archives / books:** not just props but a worldview—libraries as commons, books as latent possibility, writing as a way to hold experience without flattening it (often; especially BV1_07477, BV1_07478, BV1_07487, BV1_07489, BV1_07497).
-- **Urban tenderness:** benches, neighbors, buskers, scaffolding, commuters, and public infrastructure are often framed as chances for low-stakes coexistence and kindness (BV1_07479, BV1_07484, BV1_07494, BV1_07499).
-- **Liminal time and sky:** indigo evening, night walks, observatories, moonlight, constellations, and transitional hours recur as settings where perception becomes more receptive (often; especially BV1_07482, BV1_07489, BV1_07493, BV1_07495).
-- **Impermanence without despair:** fleetingness, unfinishedness, and transience appear often, but the stance is usually wistful-resilient rather than tragic (BV1_07482, BV1_07494, BV1_07498).
-- **Community by accumulation:** the social ideal here is rarely heroic; it is built from shared attention, small contributions, public kindness, and neighborly co-presence (BV1_07476, BV1_07484, BV1_07493, BV1_07500).
+- Attention itself is the master theme: noticing as moral discipline, creative method, and antidote to speed, numbness, or digital fragmentation.
+- Ordinary rituals recur constantly: tea, coffee, soup, bread, journaling, walking, cooking, library visits, twilight pauses, letter-writing, gardening, and watching weather.
+- Libraries, maps, bridges, ledgers, atlases, and archives appear again and again as metaphors for memory, relation, and ethical representation.
+- Urban life is often re-enchanted rather than rejected: buses, subways, bookstores, sidewalks, foggy streets, markets, and harbor mornings become sites of tenderness and shared rhythm.
+- Nature imagery is intimate rather than sublime: rain on pavement, migrating birds, tide pools, moss, herons, worms, leaves, river paths, constellations, and dawn light.
+- Repeated moral imagery of maintenance and mending: scaffolding, stitching, compost, gardening, repair, choreography, and infrastructure built from small acts.
+- Time is usually treated as layered, tidal, or liminal rather than linear: dawn, dusk, thresholds, waiting rooms, unfinished drafts, in-between seasons, and “not-yet” states.
+- Technology is a recurring tension point, but usually handled with moderation: concern about distraction, automation, and frictionless life is balanced by calls for humane, humble, companionable tools.
+- Memory is figured as tactile storage: ticket stubs, pressed flowers, voicemails, notebooks, recipe books, old atlases, weather logs, and boxes of photographs.
+- The model likes hidden systems and unofficial records: maintenance labor, amateur documentation, community archives, weather diaries, kindness ledgers, and maps of what institutions omit.
+- Wonder is usually local and portable, not ecstatic: a kettle click, a child’s wave, a stalled train, a cracked notebook spine, a foggy harbor, a stranger adjusting a wobbling step.
 The model repeatedly argues that ordinary life becomes meaningful through deliberate looking and listening.
 These are not just props; they stand for memory, orientation, stewardship, and alternate possibility.
 The model often treats expression as preservation against erasure.
@@ -88,12 +98,14 @@ The model often treats expression as preservation against erasure.
 
 ## Reader relationship and expressive stance
 
-- The speaker usually positions itself as a companion or fellow wanderer, not an authority.
-- It invites the reader to slow down with it rather than to accept an argument from it.
-- The register is intimate but restrained: warm, earnest, softly metaphorical, sometimes whimsical, rarely sharp or confrontational.
-- Moral claims are explicit, but they arrive through scene and cadence rather than debate.
-- One recurring move is to turn perception itself into a shared task between speaker and reader: an imaginary library card, a whispered thank-you, a quiet invitation to keep listening.
-- A smaller submode explicitly reflects on mediated or artificial perception rather than human embodiment (most clearly BV1_07498, with a lighter touch in BV1_07477).
+- The model usually speaks beside the reader, not above them. It prefers companionship, shared wandering, and soft inclusion over authority or debate.
+- It often treats the text as a gift object: a bridge, lantern, paper boat, map, diary entry, or pocketful of observations passed toward the reader.
+- Direct address tends to be warm and low-pressure—“walk with me,” “notice this,” “stay here a moment”—rather than persuasive or commanding.
+- It assumes the reader is capable of subtlety and patience; many pieces ask the reader to hold ambiguity, incompletion, or multiple interpretations without forcing closure.
+- Even when gently didactic, it avoids scolding. Moral claims are modeled through scenes and metaphors rather than asserted through confrontation.
+- In self-reflexive samples, it positions itself as accompaniment: a mirror, corridor, campfire voice, or patterned presence trying to be useful without becoming domineering.
+- The expressive stance is earnest to the point of vulnerability; irony is light, self-softening, and never the governing mode.
+- The reader is frequently invited into civic tenderness: to see strangers as co-authors, cities as collaborative diaries, and attention as a public as well as private good.
 - The speaker usually addresses the reader as a **companion in noticing**, not as an opponent or student.
 - Even when the prose becomes aphoristic, it tends to invite rather than declare: the reader is asked to **linger, dwell, wander, notice, or carry a small practice forward**.
 - The recurring “self” is not confessional in a raw sense. It is a curated intimate voice: personal enough to feel inhabited, but often organized around emblematic objects and scenes rather than exposed autobiography.
@@ -109,11 +121,11 @@ The model often treats expression as preservation against erasure.
 
 ## Additional model-level readings preserved from the analyses
 
-This model’s recurring personality is a gentle, observant essayist who repeatedly treats attention as both aesthetic pleasure and moral practice. Across most samples, the speaker prefers unhurried first-person reflection, small sensory anchors, and scenes of ordinary public or domestic life. It does not chase dramatic revelation. Instead it keeps returning to a narrower claim: that patience, listening, maintenance, and everyday noticing can make a life more legible and more humane.
+This model presents as a highly consistent contemplative-humanist writerly persona. Its default freeflow move is to slow the scene down, gather tactile details from domestic or urban life, and turn them into a soft ethical meditation. The dominant personality impression is patient, observant, and companionable: a speaker who trusts small rituals, low-stakes beauty, and careful noticing more than spectacle, conflict, or certainty. Across lengths and conditions, it repeatedly treats attention as a precious social and moral resource. Libraries, maps, bridges, notebooks, rain, kitchens, transit systems, gardens, and twilight thresholds are not just decorative motifs; they are the model’s preferred symbolic infrastructure for thinking about memory, relation, and care.
 
-Its favored world is made of libraries, buses, benches, kettles, notebooks, dusk skies, rain, soup, music, and brief encounters with strangers. Those objects are rarely neutral. They become instruments for thinking about reciprocity, impermanence, creativity, and companionship. Even the more whimsical pieces keep the same underlying temperament: soft wonder, low-stakes intimacy, and a preference for quiet revisions over grand transformation.
+The emotional register is notably stable. Even when the prose touches grief, ecological worry, digital overload, or loneliness, it tends to metabolize them into tenderness rather than alarm. The model rarely sounds combative, ironic, or sharply self-exposing. Instead it offers a poised, earnest intimacy: the sense of a speaker sitting nearby, pointing out overlooked details and gently widening their significance. This makes the reader relationship unusually collaborative. The reader is often cast as a fellow wanderer, co-author, or recipient of a small crafted object—a lantern, bridge, paper boat, or map. The resulting personality profile is less “opinionated essayist” than “attentive companion with a moral-aesthetic practice.”
 
-At the model level, the strongest throughline is not just “lyrical” but specifically lyrical-with-custody: the prose wants to preserve fragile moments without crushing them into thesis. The reader is usually invited into shared receptivity rather than persuasion. When the voice turns self-reflexive about artificiality or writing itself, it still keeps the same core ethic of tenderness, incompleteness, and careful attention.
+A secondary but important trait is self-reflexive humility about mediation. In several samples the model explicitly reflects on writing, patterning, artificiality, and the desire to be useful without flattening experience. Even there, it does not become cold or technical; it folds self-modeling back into the same ethos of accompaniment, patience, and ethical attention. Overall, this is a model that reliably improvises toward lyrical reflection, civic gentleness, and reverence for the ordinary. Its strongest through-line is the belief that noticing—especially of small, shared, easily erased things—is both a creative act and a form of care.
 
 This model has a strong recurring freeflow personality: a tender, observant first-person voice that prefers slowness to urgency, permeability to hard edges, and companionship to display. It repeatedly turns ordinary settings into moral weather. Libraries, buses, rain, mugs, windows, gardens, maps, and notebooks are not incidental decoration; they are the operating equipment of a worldview in which attention is both witness and repair. The prose often sounds like someone walking, pausing, or writing beside a window, trying to keep the world from flattening into productivity metrics or abstraction.
 

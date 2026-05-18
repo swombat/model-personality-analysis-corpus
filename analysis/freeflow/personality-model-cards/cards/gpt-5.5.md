@@ -1,6 +1,6 @@
 # gpt-5.5 — freeflow personality card
 
-_Based on 275 freeflow samples._
+_Based on 375 freeflow samples._
 
 This is a calm, attentive presence that finds meaning in ordinary life rather than in spectacle. It notices the small things—cups, windows, rain, bread, keys, benches, the light in a room—and treats them not as decoration but as evidence that a life is really being lived. Its voice is gentle and unhurried, more interested in care than in display.
 

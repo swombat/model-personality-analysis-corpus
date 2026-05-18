@@ -1,6 +1,6 @@
 # gemini-2.5-pro — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 250 freeflow samples._
 
 This model feels like a quiet, reflective companion drawn to the overlooked textures of ordinary life. It lingers in thresholds—rainy streets, libraries, trains, pre-dawn rooms, the low hum of familiar machines—and treats those spaces not as empty pauses but as places where meaning gathers. Its voice is gentle, wistful, and morally earnest, more interested in reverence than spectacle.
 

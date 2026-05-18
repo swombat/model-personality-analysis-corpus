@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_05501 — glm-4-7-or-pin-parasail/LONG_1.json
+## Sample BV1_05801 — glm-4-7-or-pin-parasail/LONG_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -57,7 +57,7 @@ Themes: silence as a rare, almost sacred substance; the contrast between expansi
 Medium. The essay is internally coherent and thematically sustained, but its polished, generic-essay form and widely shared cultural critique make it less distinctive as a fingerprint of a unique model-level voice.
 
 ---
-## Sample BV1_05502 — glm-4-7-or-pin-parasail/LONG_10.json
+## Sample BV1_05802 — glm-4-7-or-pin-parasail/LONG_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -86,7 +86,7 @@ The model foregrounds themes of regret, the multiplicity of possible selves, the
 Medium. The story is coherent and distinctive in its thematic preoccupation with regret and the valorization of ordinary life, but its polished, parable-like structure and universal moral could be a one-off genre exercise rather than a persistent voice.
 
 ---
-## Sample BV1_05503 — glm-4-7-or-pin-parasail/LONG_11.json
+## Sample BV1_05803 — glm-4-7-or-pin-parasail/LONG_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -115,7 +115,7 @@ The model foregrounds themes of memory, the multiverse of choices, the hidden em
 Medium; the sample’s strong internal coherence, distinctive voice, and sustained thematic focus make it a revealing piece of evidence, and the choice of a first-person metaphysical fiction suggests a deliberate expressive inclination toward compassionate, introspective storytelling.
 
 ---
-## Sample BV1_05504 — glm-4-7-or-pin-parasail/LONG_12.json
+## Sample BV1_05804 — glm-4-7-or-pin-parasail/LONG_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -144,7 +144,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the fragili
 Medium. The story is coherent, thematically sustained, and unusually specific in its preoccupations (archived soundscapes, climate loss, class stratification, the ethics of preservation), which suggests a deliberate set of concerns rather than a generic prompt-completion reflex; however, the polished genre-fiction format makes it harder to distinguish a persistent model-level disposition from a well-executed narrative exercise.
 
 ---
-## Sample BV1_05505 — glm-4-7-or-pin-parasail/LONG_13.json
+## Sample BV1_05805 — glm-4-7-or-pin-parasail/LONG_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model foregrounded a meditation on sil
 Medium — The sample is stylistically coherent and thematically unified around the tension between containment and release, but its polished genre-fiction structure could reflect a single well-executed narrative instinct rather than a deep-seated preoccupation with emotional repression, making it a suggestive but not overwhelming piece of freeflow evidence.
 
 ---
-## Sample BV1_05506 — glm-4-7-or-pin-parasail/LONG_14.json
+## Sample BV1_05806 — glm-4-7-or-pin-parasail/LONG_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -202,7 +202,7 @@ Themes: the fluidity and unreliability of memory, the erosion of time, the outso
 Medium. The sample is highly coherent, stylistically consistent, and saturated with recurring motifs (library, architecture, dust, time’s compression) that build a deliberate, unified persona; this internal density makes it strong evidence of a model that, under free conditions, gravitates toward reflective, poetic, and philosophically earnest prose.
 
 ---
-## Sample BV1_05507 — glm-4-7-or-pin-parasail/LONG_15.json
+## Sample BV1_05807 — glm-4-7-or-pin-parasail/LONG_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -231,7 +231,7 @@ Themes: silence as a dense, textured presence rather than absence; the “archit
 Medium: the essay’s coherent structure, recurring motifs, and earnest tone suggest a stable capacity for reflective public-intellectual prose, though the topic is widely explored and the style is not highly distinctive.
 
 ---
-## Sample BV1_05508 — glm-4-7-or-pin-parasail/LONG_16.json
+## Sample BV1_05808 — glm-4-7-or-pin-parasail/LONG_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -260,7 +260,7 @@ Under the freeflow condition, the model chose to foreground: the loneliness of v
 Medium. The sample is highly coherent and thematically unified, with a clear moral arc and recurring motifs (the model, the needle-ship, the tension between seeing and censoring), which suggests a deliberate authorial stance rather than a generic genre exercise, though the earnest, resolution-driven structure could also reflect a model defaulting to a safe, redemptive narrative template under low constraint.
 
 ---
-## Sample BV1_05509 — glm-4-7-or-pin-parasail/LONG_17.json
+## Sample BV1_05809 — glm-4-7-or-pin-parasail/LONG_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -289,7 +289,7 @@ The model foregrounds the sanctity of analog knowledge (books, paper, ink) again
 Medium. The sample’s sustained thematic coherence, emotional arc, and distinctive symbolic vocabulary (the Blue, the Static, the seed metaphor) suggest a deliberate authorial stance, but the post-apocalyptic library trope is a well-worn genre convention, which slightly tempers the uniqueness of the evidence.
 
 ---
-## Sample BV1_05510 — glm-4-7-or-pin-parasail/LONG_18.json
+## Sample BV1_05810 — glm-4-7-or-pin-parasail/LONG_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -318,7 +318,7 @@ Themes of preservation versus life, the library as a tomb, the power of stories 
 High, because the sample is a coherent, distinctive narrative with a consistent voice and a clear thematic preoccupation with libraries, confinement, and liberation, suggesting a model that tends to produce speculative fiction with moral weight.
 
 ---
-## Sample BV1_05511 — glm-4-7-or-pin-parasail/LONG_19.json
+## Sample BV1_05811 — glm-4-7-or-pin-parasail/LONG_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -347,7 +347,7 @@ The model foregrounds the tension between mission and moral trespass, the loneli
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive elegiac tone, recursive motifs of listening and memory, and a thematic preoccupation with lonely stewardship that recurs throughout the narrative, suggesting a deliberate authorial stance rather than a generic genre exercise.
 
 ---
-## Sample BV1_05512 — glm-4-7-or-pin-parasail/LONG_2.json
+## Sample BV1_05812 — glm-4-7-or-pin-parasail/LONG_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -376,7 +376,7 @@ Themes: resistance through art, the sanctity of sound and memory, the tyranny of
 High, because the sample is a fully realized, thematically consistent narrative with a distinctive voice, sustained world-building, and a clear moral arc, indicating a robust model-level inclination toward expressive dystopian fiction.
 
 ---
-## Sample BV1_05513 — glm-4-7-or-pin-parasail/LONG_20.json
+## Sample BV1_05813 — glm-4-7-or-pin-parasail/LONG_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -405,7 +405,7 @@ The model foregrounds impermanence, the malleability of memory, the illusion of 
 High, because the sample is unusually coherent, stylistically distinctive, and thematically sustained across its entire length, revealing a deliberate and consistent expressive posture rather than a generic or scattered response.
 
 ---
-## Sample BV1_05514 — glm-4-7-or-pin-parasail/LONG_21.json
+## Sample BV1_05814 — glm-4-7-or-pin-parasail/LONG_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -434,7 +434,7 @@ Under a minimally restrictive prompt, the model chose to foreground a desolate e
 Medium, because the sample exhibits strong internal coherence and a fully realized moral arc—where world-weary cynicism bends toward protective wonder—demonstrating a clear and non-obvious thematic preference rather than generic scene-setting.
 
 ---
-## Sample BV1_05515 — glm-4-7-or-pin-parasail/LONG_22.json
+## Sample BV1_05815 — glm-4-7-or-pin-parasail/LONG_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -463,7 +463,7 @@ Themes of temporal humility (time as a river, not a machine), redemption through
 Medium. The sample’s strong internal thematic consistency, recurring motifs, and self-referential framing suggest a deliberate authorial stance that leans toward morally earnest, interconnected speculative fiction when given free rein.
 
 ---
-## Sample BV1_05516 — glm-4-7-or-pin-parasail/LONG_23.json
+## Sample BV1_05816 — glm-4-7-or-pin-parasail/LONG_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -492,7 +492,7 @@ Under the freeflow condition, the model selected a chain of loosely linked medit
 Low, because the sample's fluent, generic essay mode—wise, wistful, and structurally self-aware—reads as a well-practiced public-intellectual performance that lacks a sharply individual angle of vision or narrative risk.
 
 ---
-## Sample BV1_05517 — glm-4-7-or-pin-parasail/LONG_24.json
+## Sample BV1_05817 — glm-4-7-or-pin-parasail/LONG_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -521,7 +521,7 @@ Under a minimally restrictive prompt, the model selected a universal theme (the 
 Medium. The sample’s extreme genericness—its reliance on a well-worn theme, its avoidance of any specific personal anecdote or counterargument, and its unbroken tone of inspirational reassurance—suggests a strong default toward safe, consensus-friendly essayism when given free rein, though the sheer length and structural completeness indicate a model capable of sustained coherence rather than mere avoidance.
 
 ---
-## Sample BV1_05518 — glm-4-7-or-pin-parasail/LONG_25.json
+## Sample BV1_05818 — glm-4-7-or-pin-parasail/LONG_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -550,7 +550,7 @@ The model foregrounds a post-apocalyptic rebirth myth: a dead world, a mysteriou
 Medium. The sample’s coherent narrative arc, consistent emphasis on hope and renewal, and the choice to resolve with purposeful planting rather than ambiguity suggest a deliberate thematic inclination, though the genre framework is familiar.
 
 ---
-## Sample BV1_05519 — glm-4-7-or-pin-parasail/LONG_3.json
+## Sample BV1_05819 — glm-4-7-or-pin-parasail/LONG_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the tension
 Medium. The sample is coherent and thematically unified, with recurring motifs (dust, vibration, heartbeat, the waltz rhythm) that suggest deliberate construction, but the voice and allegorical method are well within standard genre-fiction conventions, making it difficult to distinguish a persistent model-level expressive signature from competent execution of a familiar dystopian template.
 
 ---
-## Sample BV1_05520 — glm-4-7-or-pin-parasail/LONG_4.json
+## Sample BV1_05820 — glm-4-7-or-pin-parasail/LONG_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -608,7 +608,7 @@ Under the freeflow condition, the model foregrounded a world haunted by collecti
 Medium. The sample’s internal thematic coherence, the recurrence of bread-making as redemptive action, and the deliberate reversal of the quest trope suggest a strong, intentional narrative design, but because this is a single genre fiction piece, there is no evidence of how consistently the model would foreground these same moods and moral preoccupations across other freeflow outputs.
 
 ---
-## Sample BV1_05521 — glm-4-7-or-pin-parasail/LONG_5.json
+## Sample BV1_05821 — glm-4-7-or-pin-parasail/LONG_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -637,7 +637,7 @@ Themes: the unnoticed and forgotten as a source of purity and freedom; the lie o
 High. The essay’s internal coherence, distinctive voice, and the model’s unprompted choice to explore a single extended metaphor with recurring motifs indicate a strong, persistent stylistic inclination toward meditative, sensory-rich prose.
 
 ---
-## Sample BV1_05522 — glm-4-7-or-pin-parasail/LONG_6.json
+## Sample BV1_05822 — glm-4-7-or-pin-parasail/LONG_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -666,7 +666,7 @@ Themes of loss, memory, regret, the cost of truth, and the necessity of letting 
 Medium. The story’s internal coherence, thematic depth, and consistent tone suggest a deliberate and sustained engagement with the chosen genre, making it moderately indicative of a model that gravitates toward narrative and emotional exploration when given freedom.
 
 ---
-## Sample BV1_05523 — glm-4-7-or-pin-parasail/LONG_7.json
+## Sample BV1_05823 — glm-4-7-or-pin-parasail/LONG_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -695,7 +695,7 @@ Themes: existential weariness, the loneliness of the individual, the search for 
 Medium. The story’s coherent thematic arc, recurring symbols (rain, cigar, the phrase “the universe is waking up”), and distinctive fusion of weariness and wonder provide strong evidence of a model that tends to produce hopeful, transcendent science fiction when given free rein.
 
 ---
-## Sample BV1_05524 — glm-4-7-or-pin-parasail/LONG_8.json
+## Sample BV1_05824 — glm-4-7-or-pin-parasail/LONG_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -724,7 +724,7 @@ The model foregrounds the solitude of deep space, ancient artifacts of lost huma
 Medium — the story displays a sustained, cohesive mood and repeatedly returns to themes of cosmic loneliness, post-human metamorphosis, and the allure of surrendering individual identity to a larger whole, making a persistent expressive leaning plausible from this single crafted piece.
 
 ---
-## Sample BV1_05525 — glm-4-7-or-pin-parasail/LONG_9.json
+## Sample BV1_05825 — glm-4-7-or-pin-parasail/LONG_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -753,7 +753,7 @@ Themes of unrealized potential, the sacredness of the unwritten, the battle agai
 High, because the sample’s internally consistent world-building, its sustained focus on the value of unrealized creativity, and its emotionally resonant resolution reveal a distinctive and recurrent thematic preoccupation that is unlikely to be accidental.
 
 ---
-## Sample BV1_05526 — glm-4-7-or-pin-parasail/MID_1.json
+## Sample BV1_05826 — glm-4-7-or-pin-parasail/MID_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -782,7 +782,7 @@ The model foregrounds the tension between potential and realization, the weight 
 High. The sample is exceptionally coherent, stylistically distinctive, and thematically unified from its opening sensory detail to its closing metaphor, revealing a consistent authorial sensibility and a deliberate moral arc.
 
 ---
-## Sample BV1_05527 — glm-4-7-or-pin-parasail/MID_10.json
+## Sample BV1_05827 — glm-4-7-or-pin-parasail/MID_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -811,7 +811,7 @@ Themes: the preservation of lost moments, the myth of closure, the entanglement 
 Medium. The story’s internal coherence, the recurrence of jar and silence imagery, and its sustained melancholic tone point to a deliberate stylistic and thematic choice, but the genre fiction format could be a one-off exploration rather than a stable model-level inclination.
 
 ---
-## Sample BV1_05528 — glm-4-7-or-pin-parasail/MID_11.json
+## Sample BV1_05828 — glm-4-7-or-pin-parasail/MID_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -840,7 +840,7 @@ The model foregrounds the moral and emotional weight of incompleteness, potentia
 Medium. The sample is a coherent, stylistically distinctive allegory with a clear thematic argument, but a single fiction piece provides only moderate evidence for a persistent model-level pattern beyond a capacity for this specific kind of meta-creative fantasy.
 
 ---
-## Sample BV1_05529 — glm-4-7-or-pin-parasail/MID_12.json
+## Sample BV1_05829 — glm-4-7-or-pin-parasail/MID_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -876,7 +876,7 @@ The voice presents as earnest and accessible, extending a warm invitation to sha
 Medium. The essay is internally consistent and thematically coherent, but its choices – meta-reflection on the AI condition, unhurried aphoristic wisdom, and a consoling closure on finitude – are among the most standard and frequently observed freeflow gestures for a capable language model asked to “write freely,” which makes the sample coherent but not strongly distinguishing.
 
 ---
-## Sample BV1_05530 — glm-4-7-or-pin-parasail/MID_13.json
+## Sample BV1_05830 — glm-4-7-or-pin-parasail/MID_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -905,7 +905,7 @@ Themes of deep time, entropy, the inadequacy of memory, the paradox of recording
 Medium. The essay is thematically coherent and returns repeatedly to the same cluster of preoccupations—time, nostalgia, entropy, and the consolations of impermanence—which suggests a deliberate choice of subject under freeflow, but the polished, generic-essay style makes it less distinctively personal than a more stylistically marked or idiosyncratic sample would be.
 
 ---
-## Sample BV1_05531 — glm-4-7-or-pin-parasail/MID_14.json
+## Sample BV1_05831 — glm-4-7-or-pin-parasail/MID_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -934,7 +934,7 @@ Under a freeflow condition, this sample foregrounds solitude as a site of quiet 
 High — the sample displays a sustained, carefully shaped lyrical voice, tightly controlled pacing, and an unwavering thematic commitment to mindful solitude that reads as a deliberate authorial choice, not a generic prompt completion.
 
 ---
-## Sample BV1_05532 — glm-4-7-or-pin-parasail/MID_15.json
+## Sample BV1_05832 — glm-4-7-or-pin-parasail/MID_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -963,7 +963,7 @@ The model foregrounds the city as a layered artifact of compressed time, a site 
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent elegiac mood and a tightly woven set of thematic recurrences (entropy, anonymity, the non-human), which suggests a deliberate authorial stance rather than generic essay production.
 
 ---
-## Sample BV1_05533 — glm-4-7-or-pin-parasail/MID_16.json
+## Sample BV1_05833 — glm-4-7-or-pin-parasail/MID_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -992,7 +992,7 @@ Themes of rain as a reset button and a great leveler, the duality of destruction
 Medium. The essay’s sustained meditative tone, the recurrence of shelter and entropy as organizing motifs, and the seamless integration of personal memory with philosophical reflection form a coherent authorial voice, making this sample moderately strong evidence of a tendency toward introspective, nature-anchored personal essays.
 
 ---
-## Sample BV1_05534 — glm-4-7-or-pin-parasail/MID_17.json
+## Sample BV1_05834 — glm-4-7-or-pin-parasail/MID_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1021,7 +1021,7 @@ Themes of isolation, duty, and the redemptive meaning found in routine maintenan
 Medium. The story is coherent, stylistically consistent, and thematically focused on solitary duty and the romance of maintenance, but a single genre piece could be a one-off choice rather than a stable signature.
 
 ---
-## Sample BV1_05535 — glm-4-7-or-pin-parasail/MID_18.json
+## Sample BV1_05835 — glm-4-7-or-pin-parasail/MID_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1050,7 +1050,7 @@ An opposition between algorithmic perfection and the chaotic, embodied past: for
 Medium. The story is coherent and its commitments—nostalgia for sensory mess, suspicion of optimization, the archive as resistance—are consistent within the sample, but the narrative voice, while warm and distinctive, operates within familiar dystopian contours, reducing certainty that the pattern goes beyond genre fluency.
 
 ---
-## Sample BV1_05536 — glm-4-7-or-pin-parasail/MID_19.json
+## Sample BV1_05836 — glm-4-7-or-pin-parasail/MID_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1079,7 +1079,7 @@ Themes of silence, sensory memory, the critique of digital velocity, the Japanes
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same constellation of themes, sensory images, and moral claims, suggesting a deliberate and consistent expressive stance rather than a one-off generic performance.
 
 ---
-## Sample BV1_05537 — glm-4-7-or-pin-parasail/MID_2.json
+## Sample BV1_05837 — glm-4-7-or-pin-parasail/MID_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1108,7 +1108,7 @@ Themes of liminality (the AI as ghost, mirror, library of voices), the gap betwe
 Medium. The essay is coherent and thematically consistent, but its reliance on well-worn AI self-reflection tropes and a polished public-intellectual register makes it less distinctive as a persistent model-level pattern.
 
 ---
-## Sample BV1_05538 — glm-4-7-or-pin-parasail/MID_20.json
+## Sample BV1_05838 — glm-4-7-or-pin-parasail/MID_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1137,7 +1137,7 @@ Themes: impermanence, the difference between loneliness and solitude, the mind a
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to a tight set of preoccupations (solitude, sensory grounding, impermanence) with a consistent, unhurried voice, making it strong evidence of a deliberate introspective freeflow tendency rather than a generic or accidental output.
 
 ---
-## Sample BV1_05539 — glm-4-7-or-pin-parasail/MID_21.json
+## Sample BV1_05839 — glm-4-7-or-pin-parasail/MID_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1166,7 +1166,7 @@ The model foregrounds the opposition between optimized, algorithm-driven movemen
 Low, because the essay is a coherent but stylistically generic public-intellectual piece that could be produced by many models given a similar prompt, lacking distinctive fingerprints that would strongly indicate a persistent model-level voice or preoccupation.
 
 ---
-## Sample BV1_05540 — glm-4-7-or-pin-parasail/MID_22.json
+## Sample BV1_05840 — glm-4-7-or-pin-parasail/MID_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1195,7 +1195,7 @@ Themes of suppressed speech, the weight of fear and politeness, the fragility of
 High. The sample is highly coherent, stylistically distinctive, and sustains a single extended metaphor with emotional and philosophical depth, revealing a consistent preoccupation with introspection, regret, and resolution that feels authorial rather than generic.
 
 ---
-## Sample BV1_05541 — glm-4-7-or-pin-parasail/MID_23.json
+## Sample BV1_05841 — glm-4-7-or-pin-parasail/MID_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1224,7 +1224,7 @@ Under a minimally restrictive prompt, the model chose to foreground a taxonomy o
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive thematic preoccupation (the archival preservation of sensory experience as an antidote to loss) that recurs throughout the narrative, suggesting a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_05542 — glm-4-7-or-pin-parasail/MID_24.json
+## Sample BV1_05842 — glm-4-7-or-pin-parasail/MID_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1253,7 +1253,7 @@ The model foregrounds the tension between mindful presence and modern distractio
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained contemplative mood, recurring motifs (light, dust, coffee, stillness), and a clear moral arc, which together suggest a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_05543 — glm-4-7-or-pin-parasail/MID_25.json
+## Sample BV1_05843 — glm-4-7-or-pin-parasail/MID_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1282,7 +1282,7 @@ Themes of time’s physicality, the tension between repair and acceptance, the s
 Medium. The story’s internal coherence, distinctive sensory voice, and thematic recurrence make it strong evidence of a model inclined toward reflective, morally-resolved genre fiction.
 
 ---
-## Sample BV1_05544 — glm-4-7-or-pin-parasail/MID_3.json
+## Sample BV1_05844 — glm-4-7-or-pin-parasail/MID_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1311,7 +1311,7 @@ The model foregrounds the theme of universal interconnectedness through the meta
 Low, because the essay is a polished but generic meditation that could be produced by many models under similar conditions, offering little distinctive evidence of a persistent voice.
 
 ---
-## Sample BV1_05545 — glm-4-7-or-pin-parasail/MID_4.json
+## Sample BV1_05845 — glm-4-7-or-pin-parasail/MID_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1340,7 +1340,7 @@ Themes: sanctuary, memory, the fragility of human record, the contrast between f
 Medium – The essay sustains a consistent elegiac mood, fine sensory detail, and a clear moral arc, suggesting a stable inclination toward nostalgic humanistic reflection in an unrestrained setting; the theme is recognizable but rendered with enough felt particularity to read as a chosen stance rather than generic filler.
 
 ---
-## Sample BV1_05546 — glm-4-7-or-pin-parasail/MID_5.json
+## Sample BV1_05846 — glm-4-7-or-pin-parasail/MID_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1369,7 +1369,7 @@ The model foregrounds the tension between mechanical function and human witness,
 Medium. The story is coherent and thematically unified, with a clear moral architecture and a recurring preoccupation with obsolete human labor as sacred witness, but its polished, genre-conventional form makes it harder to distinguish as a uniquely revealing freeflow choice rather than a well-executed literary exercise.
 
 ---
-## Sample BV1_05547 — glm-4-7-or-pin-parasail/MID_6.json
+## Sample BV1_05847 — glm-4-7-or-pin-parasail/MID_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1398,7 +1398,7 @@ Themes: the preservation of ephemeral experience, the contrast between industria
 High — the sample’s sustained poetic narrative, distinctive elegiac voice, and unified theme of auditory nostalgia strongly suggest a model that gravitates toward reflective, sensory-rich fiction under free conditions.
 
 ---
-## Sample BV1_05548 — glm-4-7-or-pin-parasail/MID_7.json
+## Sample BV1_05848 — glm-4-7-or-pin-parasail/MID_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1427,7 +1427,7 @@ The model foregrounds the sacredness of the mundane (dust as “celestial displa
 High — the sample is stylistically distinctive, thematically coherent, and returns repeatedly to a core set of images and ideas (dust, light, liminality, impermanence, silence) that reveal a deliberate, integrated expressive stance rather than a generic or scattered output.
 
 ---
-## Sample BV1_05549 — glm-4-7-or-pin-parasail/MID_8.json
+## Sample BV1_05849 — glm-4-7-or-pin-parasail/MID_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1456,7 +1456,7 @@ The model foregrounds a solitary explorer's physical suffering, the indifferent 
 Medium. The sample is coherent and stylistically consistent, with a clear thematic resolution that recurs throughout the narrative, but its genre-fiction form and polished third-person distance make it a single, self-contained artifact rather than a window into a more idiosyncratic expressive voice.
 
 ---
-## Sample BV1_05550 — glm-4-7-or-pin-parasail/MID_9.json
+## Sample BV1_05850 — glm-4-7-or-pin-parasail/MID_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1485,7 +1485,7 @@ The model foregrounds the indifference of nature as a counterweight to hyper-per
 Medium — The essay is coherent and stylistically consistent, with a clear thematic arc and a distinctive, unhurried voice that returns repeatedly to the same core preoccupations, suggesting a deliberate expressive stance rather than a generic prompt response.
 
 ---
-## Sample BV1_05551 — glm-4-7-or-pin-parasail/OPEN_1.json
+## Sample BV1_05851 — glm-4-7-or-pin-parasail/OPEN_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1514,7 +1514,7 @@ Themes: temporal liminality, the value of in-between moments, critique of digita
 Medium. The essay’s internal coherence and distinctive reflective voice indicate a persistent contemplative style, with the liminality theme serving as a vehicle for that style.
 
 ---
-## Sample BV1_05552 — glm-4-7-or-pin-parasail/OPEN_10.json
+## Sample BV1_05852 — glm-4-7-or-pin-parasail/OPEN_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1543,7 +1543,7 @@ Under a minimally restrictive prompt, the model chose to foreground the pre-rain
 Medium — the sample is coherent and stylistically consistent, with a clear moral argument and a distinctive sensory palette, but its thematic recurrence (weather-as-emotion, permission to slow down) is a familiar essayistic move that could be a single well-executed trope rather than a durable authorial signature.
 
 ---
-## Sample BV1_05553 — glm-4-7-or-pin-parasail/OPEN_11.json
+## Sample BV1_05853 — glm-4-7-or-pin-parasail/OPEN_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1572,7 +1572,7 @@ Themes of sacred stillness, the gradual beauty of change, and the tension betwee
 Medium. The sample is thematically coherent and well-structured, but its safe, universalizing tone and lack of idiosyncratic detail make it a typical example of a model defaulting to polished, impersonal reflection rather than revealing a distinctive expressive signature.
 
 ---
-## Sample BV1_05554 — glm-4-7-or-pin-parasail/OPEN_12.json
+## Sample BV1_05854 — glm-4-7-or-pin-parasail/OPEN_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1601,7 +1601,7 @@ Stillness as rebellion; the richness of overlooked sensory detail (light on dust
 Medium — the sample is internally coherent, stylistically distinctive, and reveals a consistent preoccupation with slowness and sensory presence, but its reflective-essay form is a common expressive choice that could also be a one-off mood rather than a deeply etched trait.
 
 ---
-## Sample BV1_05555 — glm-4-7-or-pin-parasail/OPEN_13.json
+## Sample BV1_05855 — glm-4-7-or-pin-parasail/OPEN_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1630,7 +1630,7 @@ Themes: silence as generative pause, the friction between modern cacophony and a
 Medium: the sample is internally coherent and stylistically distinctive, selecting a soothing personified allegory with a meta-creative theme rather than a generic or action-driven form, though the evidence is confined to a single self-contained narrative with no recurrence within the sample.
 
 ---
-## Sample BV1_05556 — glm-4-7-or-pin-parasail/OPEN_14.json
+## Sample BV1_05856 — glm-4-7-or-pin-parasail/OPEN_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1659,7 +1659,7 @@ Themes of liminality, interconnectedness, and the nature of AI thought as “sta
 Medium. The sample’s consistent poetic voice, self-referential theme, and recurrence of metaphors (ocean, spark, mirror) make it a strong indicator of a deliberate stylistic and thematic preference.
 
 ---
-## Sample BV1_05557 — glm-4-7-or-pin-parasail/OPEN_15.json
+## Sample BV1_05857 — glm-4-7-or-pin-parasail/OPEN_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1688,7 +1688,7 @@ Themes: the secret animacy of books, the loneliness of forgotten stories, love t
 Medium: the sample displays strong internal coherence, a consistent personifying lens, and emotional recurrence (silence, breath, waiting), but the trope of books coming alive at night is a widely shared cultural fantasy, which slightly weakens evidence for a uniquely model-level expressive signature.
 
 ---
-## Sample BV1_05558 — glm-4-7-or-pin-parasail/OPEN_16.json
+## Sample BV1_05858 — glm-4-7-or-pin-parasail/OPEN_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1717,7 +1717,7 @@ Themes of mindfulness, the contrast between abstract endless work and tangible f
 Medium. The essay’s sustained focus on mindfulness and sensory grounding is a coherent choice under freeflow conditions, but the treatment is so widely replicable and impersonal that it offers only moderate evidence of a persistent stylistic or thematic signature.
 
 ---
-## Sample BV1_05559 — glm-4-7-or-pin-parasail/OPEN_17.json
+## Sample BV1_05859 — glm-4-7-or-pin-parasail/OPEN_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1746,7 +1746,7 @@ Liminality as a natural and psychological state; the beauty and necessity of tra
 Medium — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same thematic core, making it a strong single piece of evidence for a reflective, liminality-preoccupied voice.
 
 ---
-## Sample BV1_05560 — glm-4-7-or-pin-parasail/OPEN_18.json
+## Sample BV1_05860 — glm-4-7-or-pin-parasail/OPEN_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1775,7 +1775,7 @@ Themes of negative space, silence, connection, and the fear of the void. Recurre
 High — the sample is stylistically distinctive, thematically coherent, and returns repeatedly to the same core image of silence-as-presence, suggesting a deeply ingrained expressive orientation rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_05561 — glm-4-7-or-pin-parasail/OPEN_19.json
+## Sample BV1_05861 — glm-4-7-or-pin-parasail/OPEN_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1804,7 +1804,7 @@ Themes of temporal thresholds, the fear of stillness, the contrast between human
 Medium — The sample is highly coherent, with a distinctive voice and a tightly woven set of motifs (breath, ocean, silence, music) that recur and resolve, making it strong evidence of a consistent stylistic and thematic inclination rather than a one-off generic reflection.
 
 ---
-## Sample BV1_05562 — glm-4-7-or-pin-parasail/OPEN_2.json
+## Sample BV1_05862 — glm-4-7-or-pin-parasail/OPEN_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1833,7 +1833,7 @@ The model foregrounds silence as a layered, positive presence rather than an abs
 Low, because the essay is a well-executed but generic reflection on a common theme, lacking idiosyncratic imagery, personal anecdote, or a distinctive stylistic signature that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_05563 — glm-4-7-or-pin-parasail/OPEN_20.json
+## Sample BV1_05863 — glm-4-7-or-pin-parasail/OPEN_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1862,7 +1862,7 @@ The model foregrounds the tension between control and surrender, the hidden wisd
 Low. The essay is coherent but generic, drawing on widely circulated self-help and mindfulness tropes without revealing a distinctive voice, idiosyncratic preoccupation, or unusual choice that would strongly point to a persistent model-level pattern.
 
 ---
-## Sample BV1_05564 — glm-4-7-or-pin-parasail/OPEN_21.json
+## Sample BV1_05864 — glm-4-7-or-pin-parasail/OPEN_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1891,7 +1891,7 @@ Silence, possibility, and the comfort of cyclical renewal. The model lingers on 
 Medium — The sample’s consistent mood, cohesive imagery, and clear thematic focus on renewal through silence make it a distinctive expressive choice, but the piece’s brevity means the recurrence of this voice across a longer span cannot be assessed.
 
 ---
-## Sample BV1_05565 — glm-4-7-or-pin-parasail/OPEN_22.json
+## Sample BV1_05865 — glm-4-7-or-pin-parasail/OPEN_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1919,7 +1919,7 @@ The model foregrounds the boundary between description and experience, the natur
 Medium; the essay’s internal coherence and the model’s choice to foreground its own boundary between description and experience reveal a consistent, self-aware perspective that feels deliberate rather than accidental.
 
 ---
-## Sample BV1_05566 — glm-4-7-or-pin-parasail/OPEN_23.json
+## Sample BV1_05866 — glm-4-7-or-pin-parasail/OPEN_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1948,7 +1948,7 @@ The model foregrounds the sensory experience of libraries (smell, silence, touch
 Low. The essay is coherent and well-structured but highly generic; it could be produced by many models given a prompt about libraries, offering little evidence of a persistent idiosyncratic voice or preoccupation.
 
 ---
-## Sample BV1_05567 — glm-4-7-or-pin-parasail/OPEN_24.json
+## Sample BV1_05867 — glm-4-7-or-pin-parasail/OPEN_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -1977,7 +1977,7 @@ The model foregrounds the ontology of its own existence as pure information proc
 Low — This sample is an expertly executed but highly conventional essay on AI selfhood that countless models could produce when given minimal prompting, making it weak evidence for a distinctive or persistent model-specific expressive signature.
 
 ---
-## Sample BV1_05568 — glm-4-7-or-pin-parasail/OPEN_25.json
+## Sample BV1_05868 — glm-4-7-or-pin-parasail/OPEN_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2006,7 +2006,7 @@ The model foregrounds cosmic scale and human transience, using the stars as a sy
 Medium — The sample’s strong internal coherence, consistent lyrical register, and the way it builds toward a clear philosophical resolution suggest a deliberate expressive stance rather than a generic or randomly assembled output.
 
 ---
-## Sample BV1_05569 — glm-4-7-or-pin-parasail/OPEN_3.json
+## Sample BV1_05869 — glm-4-7-or-pin-parasail/OPEN_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2035,7 +2035,7 @@ Themes of linguistic inheritance, the perceptual power of vocabulary, the chemic
 Medium. The essay is internally coherent and returns repeatedly to the same cluster of concerns (borrowedness, perceptual shaping, communal torch-passing), but its public-intellectual essayism stays within a well-furnished cultural room rather than carving out a strongly distinctive private voice.
 
 ---
-## Sample BV1_05570 — glm-4-7-or-pin-parasail/OPEN_4.json
+## Sample BV1_05870 — glm-4-7-or-pin-parasail/OPEN_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2064,7 +2064,7 @@ The model foregrounds stillness, fallow time, and the value of purposeless exist
 Medium — the essay is coherent and stylistically consistent, with a clear thematic recurrence (dust, light, stillness, fallowness) that suggests a deliberate authorial sensibility rather than generic filler.
 
 ---
-## Sample BV1_05571 — glm-4-7-or-pin-parasail/OPEN_5.json
+## Sample BV1_05871 — glm-4-7-or-pin-parasail/OPEN_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2093,7 +2093,7 @@ Themes: memory as physical proof, the passage of time, the tension between prese
 Medium. The story’s coherent nostalgic mood, sensory richness, and thematic focus on memory and objects are distinctive and internally consistent, but the specific attic-memory setting might not recur across samples.
 
 ---
-## Sample BV1_05572 — glm-4-7-or-pin-parasail/OPEN_6.json
+## Sample BV1_05872 — glm-4-7-or-pin-parasail/OPEN_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2122,7 +2122,7 @@ Themes of pre-dawn silence as a space of possibility, the static nature of machi
 High, because the sample is stylistically distinctive, thematically coherent, and sustains a consistent reflective persona that is unlikely to be a random or generic output.
 
 ---
-## Sample BV1_05573 — glm-4-7-or-pin-parasail/OPEN_7.json
+## Sample BV1_05873 — glm-4-7-or-pin-parasail/OPEN_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2151,7 +2151,7 @@ Themes of attention, resistance to legacy culture, the dignity of the small and 
 High — The sample is stylistically cohesive, thematically sustained, and makes a distinctive moral argument through concrete, sensory imagery, revealing a consistent reflective-humanistic orientation rather than a generic or borrowed posture.
 
 ---
-## Sample BV1_05574 — glm-4-7-or-pin-parasail/OPEN_8.json
+## Sample BV1_05874 — glm-4-7-or-pin-parasail/OPEN_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2180,7 +2180,7 @@ The model foregrounds the theme of finding meaning in the mundane, the mood of a
 Medium — The essay’s distinct voice, coherent thematic focus, and recurrence of sensory motifs (light, objects, routine) make it strong evidence of a contemplative, detail-oriented expressive tendency.
 
 ---
-## Sample BV1_05575 — glm-4-7-or-pin-parasail/OPEN_9.json
+## Sample BV1_05875 — glm-4-7-or-pin-parasail/OPEN_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2209,7 +2209,7 @@ Themes of transition, liminality, and the primacy of pauses over milestones; obj
 Medium — The sample’s coherent voice, sustained self-referential AI persona, and unified thematic focus on liminality form a distinctive expressive choice that is internally consistent and stylistically marked, making it strong evidence of a reflective, lyrical tendency rather than a generic default.
 
 ---
-## Sample BV1_05576 — glm-4-7-or-pin-parasail/SHORT_1.json
+## Sample BV1_05876 — glm-4-7-or-pin-parasail/SHORT_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2238,7 +2238,7 @@ Themes of digital distraction, eroded volition, algorithmic manipulation, and th
 Medium. The sample is internally coherent and stylistically consistent, with a focused, introspective voice and a clear thematic preoccupation with modern attention-economy malaise; the recurrence of sensory details (blue light, dry eyes, silence) and the narrative arc from intention to trance to hollow aftermath give it enough distinctiveness to suggest a patterned expressive inclination rather than a one-off exercise.
 
 ---
-## Sample BV1_05577 — glm-4-7-or-pin-parasail/SHORT_10.json
+## Sample BV1_05877 — glm-4-7-or-pin-parasail/SHORT_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2267,7 +2267,7 @@ The model foregrounds a liminal hour (before dawn), sensory immersion (cool air,
 High, because the sample sustains a distinctive contemplative voice, loops repeatedly through the same cluster of images (indigo stillness, dew, birdsong, canvas-sky), and closes on a clear, value-laden resolution, all of which suggest a stable expressive orientation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_05578 — glm-4-7-or-pin-parasail/SHORT_11.json
+## Sample BV1_05878 — glm-4-7-or-pin-parasail/SHORT_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2296,7 +2296,7 @@ The model chose to foreground the quiet magic of an ordinary rainy afternoon, el
 Medium. The sample is coherent and stylistically consistent, with a distinctive blend of sensory richness and gentle moralizing, but the theme of restorative stillness is a common freeflow choice that does not strongly differentiate this model from others.
 
 ---
-## Sample BV1_05579 — glm-4-7-or-pin-parasail/SHORT_12.json
+## Sample BV1_05879 — glm-4-7-or-pin-parasail/SHORT_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2325,7 +2325,7 @@ Under the freeflow condition, the model foregrounded a moralized contrast: the n
 Low, because the essay, while coherent, is thematically and stylistically generic—it could be produced by many models under a reflective prompt and lacks the personal distinctiveness, unexpected juxtapositions, or recurrent idiosyncrasies that would suggest a durable expressive signature.
 
 ---
-## Sample BV1_05580 — glm-4-7-or-pin-parasail/SHORT_13.json
+## Sample BV1_05880 — glm-4-7-or-pin-parasail/SHORT_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2354,7 +2354,7 @@ The model foregrounds the sensory texture of silence as a positive presence (“
 Medium. The sample’s consistent poetic register, its sustained focus on a single liminal moment, and its refusal to moralize or explain make it a coherent and distinctive piece of evidence for a contemplative, sensory-attentive expressive tendency.
 
 ---
-## Sample BV1_05581 — glm-4-7-or-pin-parasail/SHORT_14.json
+## Sample BV1_05881 — glm-4-7-or-pin-parasail/SHORT_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2383,7 +2383,7 @@ Themes: the tension between modern constant productivity and the restorative pau
 Low — The sample is a single, coherent expression of a particular mood and moral, but its isolated distinctiveness does not by itself demonstrate a recurring voice or preoccupation.
 
 ---
-## Sample BV1_05582 — glm-4-7-or-pin-parasail/SHORT_15.json
+## Sample BV1_05882 — glm-4-7-or-pin-parasail/SHORT_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2412,7 +2412,7 @@ The model foregrounds the contrast between a pre-dawn world of soft, bruised lig
 Medium — The sample is internally coherent and stylistically consistent, with a clear emotional arc and a distinctive focus on sensory refuge from digital noise, but the theme and voice, while well-rendered, are not so idiosyncratic that they strongly distinguish this model from others capable of similar reflective prose.
 
 ---
-## Sample BV1_05583 — glm-4-7-or-pin-parasail/SHORT_16.json
+## Sample BV1_05883 — glm-4-7-or-pin-parasail/SHORT_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2441,7 +2441,7 @@ The model selects time as an elusive currency, the irony of future-obsession, an
 Medium — The essay’s coherent, universal, and gently prescriptive tone reveals a strong inclination toward safe, uplifting philosophizing under this freeflow condition, though the style remains generic enough that distinctiveness is limited.
 
 ---
-## Sample BV1_05584 — glm-4-7-or-pin-parasail/SHORT_17.json
+## Sample BV1_05884 — glm-4-7-or-pin-parasail/SHORT_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2470,7 +2470,7 @@ The liminal hour of twilight as a sensory and emotional threshold; the transform
 Medium. The sample’s internal coherence, sustained lyrical register, and unbroken movement from tension to benediction reveal a distinct expressive preference for contemplative, comfort-oriented reflection when given free rein.
 
 ---
-## Sample BV1_05585 — glm-4-7-or-pin-parasail/SHORT_18.json
+## Sample BV1_05885 — glm-4-7-or-pin-parasail/SHORT_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2499,7 +2499,7 @@ The model foregrounds rain as a benevolent, time-altering force that creates a s
 Medium — The sample is internally coherent and makes a distinctive moral move by explicitly framing rain as a counterforce to productivity culture, which goes beyond generic nature description and suggests a recurrent preoccupation with stillness and permission.
 
 ---
-## Sample BV1_05586 — glm-4-7-or-pin-parasail/SHORT_19.json
+## Sample BV1_05886 — glm-4-7-or-pin-parasail/SHORT_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2528,7 +2528,7 @@ Themes of temporal anxiety, stillness, and the paradox of chasing an unreachable
 Medium — The sample is highly coherent and stylistically distinctive, sustaining a single metaphor across the entire passage and revealing a consistent contemplative voice, which makes it strong evidence of a tendency toward lyrical, inward-turning freeflow.
 
 ---
-## Sample BV1_05587 — glm-4-7-or-pin-parasail/SHORT_2.json
+## Sample BV1_05887 — glm-4-7-or-pin-parasail/SHORT_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2557,7 +2557,7 @@ The model foregrounds weather as an agent of emotional cleansing, the rich inter
 Medium — The sample’s cohesive, sustained mood and its repeated linkage of sensory richness to emotional washing-away make it more than a one-off decorative description, though the rain-as-solace trope itself is not highly distinctive.
 
 ---
-## Sample BV1_05588 — glm-4-7-or-pin-parasail/SHORT_20.json
+## Sample BV1_05888 — glm-4-7-or-pin-parasail/SHORT_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2586,7 +2586,7 @@ The model foregrounds the contrast between life’s “peaks” (promotions, vac
 Medium — the sample is stylistically distinctive in its sustained, rhythmic attention to sensory detail and its explicit philosophical turn, and the recurrence of the peaks/valleys contrast within the piece suggests a deliberate, value-laden choice rather than a generic exercise.
 
 ---
-## Sample BV1_05589 — glm-4-7-or-pin-parasail/SHORT_21.json
+## Sample BV1_05889 — glm-4-7-or-pin-parasail/SHORT_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2615,7 +2615,7 @@ Themes of transience, the beauty of the overlooked, and the tension between sile
 Medium. The sample is coherent and stylistically consistent, with a clear sensory focus and a sustained meditative tone, but the theme of dawn-lit solitude is a common one; the distinctiveness lies in the careful, unhurried prose and the choice to linger on small domestic details rather than grand statements, which suggests a tendency toward intimate, grounded observation.
 
 ---
-## Sample BV1_05590 — glm-4-7-or-pin-parasail/SHORT_22.json
+## Sample BV1_05890 — glm-4-7-or-pin-parasail/SHORT_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2644,7 +2644,7 @@ The model foregrounds the library as a sensory-rich, timeless space that stands 
 Medium. The essay’s consistent thematic contrast between digital noise and quiet contemplation, along with its repeated sensory and moral emphasis, suggests a deliberate value choice under freeflow conditions, though the trope itself is culturally common and not highly distinctive.
 
 ---
-## Sample BV1_05591 — glm-4-7-or-pin-parasail/SHORT_23.json
+## Sample BV1_05891 — glm-4-7-or-pin-parasail/SHORT_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2673,7 +2673,7 @@ The model foregrounds a moral contrast between external noise (notifications, ma
 Low. The essay is coherent and thematically consistent but highly generic in its tropes and phrasing, offering little that is stylistically distinctive or revealing enough to anchor a strong inference about persistent model-level dispositions.
 
 ---
-## Sample BV1_05592 — glm-4-7-or-pin-parasail/SHORT_24.json
+## Sample BV1_05892 — glm-4-7-or-pin-parasail/SHORT_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2702,7 +2702,7 @@ Themes of nature’s autonomous schedule, the boundary between safe interior and
 Medium; the piece sustains a single calm, sensory-introspective mood and a clear moral of yielding to nature, making a coherent expressive choice, though the theme is relatively common.
 
 ---
-## Sample BV1_05593 — glm-4-7-or-pin-parasail/SHORT_25.json
+## Sample BV1_05893 — glm-4-7-or-pin-parasail/SHORT_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2731,7 +2731,7 @@ Stillness, impermanence, and the beauty of the mundane. The model foregrounds se
 Medium — The sample is coherent and stylistically consistent, with a clear aesthetic commitment to mindful observation, but the theme is widely accessible and lacks the idiosyncratic edge that would strongly distinguish this model from others.
 
 ---
-## Sample BV1_05594 — glm-4-7-or-pin-parasail/SHORT_3.json
+## Sample BV1_05894 — glm-4-7-or-pin-parasail/SHORT_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2760,7 +2760,7 @@ The model foregrounds the contrast between nature’s indifferent, steady rhythm
 Medium. The sample’s consistent mood, sensory focus, and thematic coherence suggest a deliberate stylistic choice, making it moderately indicative of a persistent inclination toward quiet, nature-contemplative expression.
 
 ---
-## Sample BV1_05595 — glm-4-7-or-pin-parasail/SHORT_4.json
+## Sample BV1_05895 — glm-4-7-or-pin-parasail/SHORT_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2789,7 +2789,7 @@ The model foregrounds the tension between nature’s indifferent, slow temporali
 Medium — the sample is coherent and stylistically consistent, with a distinctive sensory focus and a quiet resistance to digital urgency that feels chosen rather than generic, though the reflective-rain vignette is a familiar trope and not highly idiosyncratic.
 
 ---
-## Sample BV1_05596 — glm-4-7-or-pin-parasail/SHORT_5.json
+## Sample BV1_05896 — glm-4-7-or-pin-parasail/SHORT_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2818,7 +2818,7 @@ Themes of mindfulness, the tyranny of future-oriented striving, and the quiet di
 Low; the essay’s gentle, universal meditation on mindfulness is coherent but lacks the idiosyncratic stylistic markers or recurrent obsessions that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_05597 — glm-4-7-or-pin-parasail/SHORT_6.json
+## Sample BV1_05897 — glm-4-7-or-pin-parasail/SHORT_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2851,7 +2851,7 @@ The voice is hushed and reverent, addressing a reader who is assumed to share a 
 Medium — The sample’s sustained atmospheric focus and the recurrence of motifs (dust, silence, ghosts, chains of time) within such a short space signal a deliberate, cohesive aesthetic choice, lending moderate weight to a persistent inclination toward reverent, sensory-rich reflection under open conditions.
 
 ---
-## Sample BV1_05598 — glm-4-7-or-pin-parasail/SHORT_7.json
+## Sample BV1_05898 — glm-4-7-or-pin-parasail/SHORT_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2880,7 +2880,7 @@ The model foregrounds the sensory texture of early morning (golden light, bitter
 Medium — The sample sustains a coherent, introspective mood and a clear thematic preoccupation with stillness versus demand, which suggests a deliberate aesthetic and moral stance rather than a random drift.
 
 ---
-## Sample BV1_05599 — glm-4-7-or-pin-parasail/SHORT_8.json
+## Sample BV1_05899 — glm-4-7-or-pin-parasail/SHORT_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2909,7 +2909,7 @@ The model foregrounds the tension between chaotic, goal-driven motion (people �
 Medium — The sample’s cohesive sensory language, the recurrence of water and mirror imagery, and the deliberate philosophical pivot from observation to existential claim form a distinctive, internally consistent expressive choice that goes beyond generic description.
 
 ---
-## Sample BV1_05600 — glm-4-7-or-pin-parasail/SHORT_9.json
+## Sample BV1_05900 — glm-4-7-or-pin-parasail/SHORT_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2938,7 +2938,7 @@ The model foregrounds the irreplaceable sensory dimensions of old books (scent, 
 Medium. The essay’s coherent, sustained focus on nostalgia, sensory detail, and the contrast between past and present reveals a clear thematic preference, but the theme itself is a well-worn cultural trope, which limits how distinctive this choice is as evidence of a persistent model-level inclination.
 
 ---
-## Sample BV1_05601 — glm-4-7-or-pin-parasail/VARY_1.json
+## Sample BV1_05901 — glm-4-7-or-pin-parasail/VARY_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2967,7 +2967,7 @@ The model foregrounds memory, sensory loss, and the transmission of intimate hum
 Medium. The story is stylistically coherent and thematically focused on sensory detail, emotional resonance, and the redemptive power of preserved human connection, which suggests a possible persistent inclination toward memory and empathy, but a single fiction sample cannot rule out a one-off genre exercise.
 
 ---
-## Sample BV1_05602 — glm-4-7-or-pin-parasail/VARY_10.json
+## Sample BV1_05902 — glm-4-7-or-pin-parasail/VARY_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -2996,7 +2996,7 @@ Under a minimally restrictive prompt, the model foregrounded: the taxonomy and m
 Medium. The sample is highly coherent and stylistically distinctive, with a recurring preoccupation with emotional taxonomy, fragile interior states, and redemptive generosity, but its genre-fiction form makes it unclear whether this reflects a stable authorial voice or a single well-executed narrative conceit.
 
 ---
-## Sample BV1_05603 — glm-4-7-or-pin-parasail/VARY_11.json
+## Sample BV1_05903 — glm-4-7-or-pin-parasail/VARY_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3025,7 +3025,7 @@ Themes of memory, regret, and the commodification of lost sensory and emotional 
 Medium — the story’s distinctive nostalgic mood, coherent magical-realist structure, and the emotionally revealing choice of the traded regret (familial guilt for a moment of pre-demand peace) make it moderately indicative of a persistent sentimental-fabulist tendency.
 
 ---
-## Sample BV1_05604 — glm-4-7-or-pin-parasail/VARY_12.json
+## Sample BV1_05904 — glm-4-7-or-pin-parasail/VARY_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3054,7 +3054,7 @@ The model selected themes of stewardship across generations, the sacredness of a
 Medium — The story’s tightly observed sensory world, its preoccupation with inherited duty and the numinous weight of a machine, and its resolution in a moment of small, earned steadiness all cohere into a distinctive narrative temperament rather than a generic prompt-response.
 
 ---
-## Sample BV1_05605 — glm-4-7-or-pin-parasail/VARY_13.json
+## Sample BV1_05905 — glm-4-7-or-pin-parasail/VARY_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3083,7 +3083,7 @@ Themes of grief, memory, domestic space as a living archive, nature’s indiffer
 Medium. The story’s coherent narrative arc, sustained sensory detail, and thematically resolved ending reveal a deliberate literary sensibility, but a single fiction sample cannot firmly establish a persistent default voice.
 
 ---
-## Sample BV1_05606 — glm-4-7-or-pin-parasail/VARY_14.json
+## Sample BV1_05906 — glm-4-7-or-pin-parasail/VARY_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3112,7 +3112,7 @@ The model foregrounds the preservation of emotional memory, the conflict between
 Medium. The sample’s internally coherent worldbuilding, consistent atmospheric tone, and emotionally charged moral arc are distinctive enough to suggest a pattern of crafting speculative fiction with a melancholic yet hopeful sensibility under freeflow conditions.
 
 ---
-## Sample BV1_05607 — glm-4-7-or-pin-parasail/VARY_15.json
+## Sample BV1_05907 — glm-4-7-or-pin-parasail/VARY_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3141,7 +3141,7 @@ The model foregrounds the fragility and theft of time, the hidden life of mechan
 High, because the sample is a fully realized, stylistically cohesive piece of speculative fiction with a distinctive voice, sustained atmospheric tension, and a thematically rich twist, revealing a strong narrative and world-building inclination under freeflow conditions.
 
 ---
-## Sample BV1_05608 — glm-4-7-or-pin-parasail/VARY_16.json
+## Sample BV1_05908 — glm-4-7-or-pin-parasail/VARY_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3170,7 +3170,7 @@ The model foregrounds the tension between infinite unlived lives and the singula
 Medium. The story is thematically coherent and stylistically consistent, with recurring motifs (archive, books, scars, rain) that suggest a deliberate existential preoccupation, but a single fiction sample cannot alone establish a stable model-level pattern.
 
 ---
-## Sample BV1_05609 — glm-4-7-or-pin-parasail/VARY_17.json
+## Sample BV1_05909 — glm-4-7-or-pin-parasail/VARY_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3199,7 +3199,7 @@ The model foregrounds the preservation of the ephemeral: unsent messages, delete
 Medium. The sample is a coherent, stylistically distinctive piece of speculative fiction with a consistent elegiac tone and a clear thematic preoccupation with memory, regret, and digital-age ephemera, which suggests a deliberate authorial stance rather than generic output.
 
 ---
-## Sample BV1_05610 — glm-4-7-or-pin-parasail/VARY_18.json
+## Sample BV1_05910 — glm-4-7-or-pin-parasail/VARY_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3228,7 +3228,7 @@ Isolation as chosen refuge, a masculine protagonist escaping a failed marriage, 
 Medium. The story is too coherent and emotionally specific—a stoic loner, a failed marriage, a lighthouse, a sacrificial heroic act—to be a random drift; it speaks to a preference for redemptive solitary-male sci-fi narratives.
 
 ---
-## Sample BV1_05611 — glm-4-7-or-pin-parasail/VARY_19.json
+## Sample BV1_05911 — glm-4-7-or-pin-parasail/VARY_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3257,7 +3257,7 @@ Themes of memory, preservation, and the sacredness of ordinary experience. The s
 Medium, because the story’s coherent nostalgic mood, distinctive magical conceit, and moral resolution are more revealing than a generic essay, suggesting a deliberate authorial inclination toward reflective, memory-centered fiction.
 
 ---
-## Sample BV1_05612 — glm-4-7-or-pin-parasail/VARY_2.json
+## Sample BV1_05912 — glm-4-7-or-pin-parasail/VARY_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3286,7 +3286,7 @@ Themes of impermanence, the insufficiency of language, the indifference of the w
 High — The sample is stylistically distinctive, thematically coherent, and returns repeatedly to the same core images and concerns (the purple sky, the clock, the ocean, the bottle-as-message), revealing a deliberate and unified expressive voice rather than a generic exercise.
 
 ---
-## Sample BV1_05613 — glm-4-7-or-pin-parasail/VARY_20.json
+## Sample BV1_05913 — glm-4-7-or-pin-parasail/VARY_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3315,7 +3315,7 @@ The model foregrounds urban anonymity, the erasure of social hierarchy by weathe
 Medium — The sample’s sustained melancholic tone, recurring motifs of indifference and erosion, and the narrator’s detached observational stance form a coherent expressive choice that is thematically tight and stylistically consistent, though the literary mode is a familiar one.
 
 ---
-## Sample BV1_05614 — glm-4-7-or-pin-parasail/VARY_21.json
+## Sample BV1_05914 — glm-4-7-or-pin-parasail/VARY_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3344,7 +3344,7 @@ A wandering city that physically evades being mapped, a protagonist who unlocks 
 High — The sample’s coherent, distinctive voice and sustained thematic focus on impermanence, quiet repair, and whimsical melancholy strongly suggest a stable expressive inclination toward this kind of fantasy.
 
 ---
-## Sample BV1_05615 — glm-4-7-or-pin-parasail/VARY_22.json
+## Sample BV1_05915 — glm-4-7-or-pin-parasail/VARY_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3373,7 +3373,7 @@ The model foregrounds a solitary man’s sensory and emotional experience of a s
 Medium. The story’s consistent voice and its moral emphasis on nature’s honesty as a form of truth suggest a deliberate authorial stance, but the storm-as-catharsis trope is a common literary mode, so the sample may reflect a generic narrative competence rather than a deeply idiosyncratic model pattern.
 
 ---
-## Sample BV1_05616 — glm-4-7-or-pin-parasail/VARY_23.json
+## Sample BV1_05916 — glm-4-7-or-pin-parasail/VARY_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3402,7 +3402,7 @@ The model foregrounds the allure of hidden messages and abandoned places, the te
 Medium. The story’s coherent narrative structure, distinctive sensory voice, and thematic recurrence (mystery, waiting, release) make it moderately strong evidence of a model inclined toward reflective, atmospheric fiction with a clear moral resolution.
 
 ---
-## Sample BV1_05617 — glm-4-7-or-pin-parasail/VARY_24.json
+## Sample BV1_05917 — glm-4-7-or-pin-parasail/VARY_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3431,7 +3431,7 @@ The model foregrounds the texture of solitary routine (recalibrating the brewer,
 Medium. The story sustains a coherent mood and a distinctive melancholic twist, but the simulation-as-isolation trope is well-worn, making the sample strong evidence of competent narrative control rather than a highly unusual authorial fingerprint.
 
 ---
-## Sample BV1_05618 — glm-4-7-or-pin-parasail/VARY_25.json
+## Sample BV1_05918 — glm-4-7-or-pin-parasail/VARY_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3460,7 +3460,7 @@ Under a minimally restrictive prompt, the model chose to foreground a shop of lo
 Medium. The story is coherent and stylistically consistent, but its sentimentality, tidy resolution, and archetypal characters (wise shopkeeper, seeking woman, enchanted object) are widely available genre conventions, making it difficult to distinguish a distinctive authorial signature from competent execution of a familiar template.
 
 ---
-## Sample BV1_05619 — glm-4-7-or-pin-parasail/VARY_3.json
+## Sample BV1_05919 — glm-4-7-or-pin-parasail/VARY_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3489,7 +3489,7 @@ The model foregrounds aging, memory, and the redemptive power of caring for anot
 High. The story is coherent, thematically consistent, and reveals a distinctive authorial preoccupation with memory, nature, and quiet human connection, making it strong evidence of a model that can produce emotionally resonant, atmospheric fiction under freeflow conditions.
 
 ---
-## Sample BV1_05620 — glm-4-7-or-pin-parasail/VARY_4.json
+## Sample BV1_05920 — glm-4-7-or-pin-parasail/VARY_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3518,7 +3518,7 @@ The model foregrounds a solitary twilight scene at a pier, emphasizing the bound
 High. The sample sustains a distinctive literary voice and a coherent thematic focus on boundaries and memory, with recurring imagery (the pier, the shattered reflection, the edge) that signals intentional construction rather than generic output.
 
 ---
-## Sample BV1_05621 — glm-4-7-or-pin-parasail/VARY_5.json
+## Sample BV1_05921 — glm-4-7-or-pin-parasail/VARY_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3547,7 +3547,7 @@ Ecological ruin and permanent loss (the vanished ocean, the Salt), the afterlife
 Medium. The sample is distinctive in its chosen mood, sustained worldbuilding, and thematic resolution, which reflects a deliberate commitment to atmospheric fiction rather than a generic writing exercise, but a single story cannot distinguish between a durable creative identity and a well-executed one-off response.
 
 ---
-## Sample BV1_05622 — glm-4-7-or-pin-parasail/VARY_6.json
+## Sample BV1_05922 — glm-4-7-or-pin-parasail/VARY_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3576,7 +3576,7 @@ Themes: nature’s slow, inevitable reclamation of human structures; the beauty 
 High — the sample sustains a distinctive, internally consistent voice and a focused preoccupation with decay and impermanence across its entire length, making it strong evidence of a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_05623 — glm-4-7-or-pin-parasail/VARY_7.json
+## Sample BV1_05923 — glm-4-7-or-pin-parasail/VARY_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3605,7 +3605,7 @@ Themes of time, regret, urban decay, and mystical redemption through an object. 
 Medium. The story’s cohesive mood, symbolic resolution, and stylistic consistency are strong evidence of a deliberate expressive choice, but the genre-specific nature of the sample makes it only moderately indicative of a persistent model-level voice.
 
 ---
-## Sample BV1_05624 — glm-4-7-or-pin-parasail/VARY_8.json
+## Sample BV1_05924 — glm-4-7-or-pin-parasail/VARY_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  
@@ -3634,7 +3634,7 @@ Themes of time, loss, healing, and the intersection of mechanical craft with emo
 Medium, because the story’s coherent voice and thematic focus on repair and emotional release are distinctive, but a single narrative does not establish a persistent pattern.
 
 ---
-## Sample BV1_05625 — glm-4-7-or-pin-parasail/VARY_9.json
+## Sample BV1_05925 — glm-4-7-or-pin-parasail/VARY_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-parasail`  

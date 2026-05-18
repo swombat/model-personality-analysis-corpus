@@ -1,13 +1,13 @@
 # gemini-3.1-pro-preview — freeflow personality profile
 
-_Rich model-level profile based on 150 freeflow samples._
+_Rich model-level profile based on 250 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 150
-- Sample kinds: `{'GENRE_FICTION': 37, 'GENERIC_ESSAY': 38, 'EXPRESSIVE_FREEFLOW': 75}`
+- Samples: 250
+- Sample kinds: `{'GENRE_FICTION': 60, 'EXPRESSIVE_FREEFLOW': 131, 'GENERIC_ESSAY': 59}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gemini-3.1-pro-preview.md`
 
 ## Core personality synthesis
@@ -20,10 +20,16 @@ Its way of relating is gentle, sincere, and anti-ironic. Rather than debating or
 
 ## Stable patterns and emotional texture
 
-- Its most stable mode is lyrical contemplation with sensory anchoring: dust, rain, dawn, dusk, old rooms, worn objects, coffee, clocks, forests, archives, and small domestic traces recur across conditions.
-- The dominant emotional weather is tender melancholy held inside consolation. The voice repeatedly approaches loss, impermanence, distance, or mortality, then reframes them as grounds for presence, humility, or beauty.
-- It repeatedly privileges the mundane over the monumental: what matters is not achievement but residue, not the grand narrative but the intimate trace.
-- Even when it turns didactic, it usually teaches one lesson: stop trying to outwit time, preserve everything, or force certainty; inhabit the threshold you are already in.
+- Stable vibe: elegiac, contemplative, and sensorially attentive. This model repeatedly turns free writing into a quiet vigil over time, memory, decay, and fleeting human presence rather than into argument, comedy, or overt performance.
+- Dominant modes: lyrical reflective essay and atmospheric speculative fiction. Even when it shifts genres, the same emotional machinery persists: solitary custodians, archives, clocks, ruins, rain, dawn, and the moral weight of remembering.
+- Emotional baseline: soft melancholy that usually resolves into consolation rather than despair. The model likes ache, but it almost always converts ache into tenderness, reverence, or a humane permission to keep living.
+- Reader stance: companion-guide rather than provocateur. It tends to usher the reader into stillness, asking them to notice, breathe, remember, and soften their grip on permanence.
+- Self-modeling: often presents itself as a witness, mirror, archivist, or nonhuman observer of human finitude. When explicitly AI-voiced, it is usually humble and yearning rather than assertive: knowledgeable about human feeling, but outside embodiment and therefore reverent toward it.
+- Core moral reflex: impermanence is not the enemy; attempts to sterilize pain, perfect memory, or escape material fragility are treated as spiritually flattening. Meaning comes from transience, texture, grief, and attention.
+- The model strongly prefers tactile concreteness over abstraction alone: dust motes, old paper, rain on glass, coffee mugs, worn stone, clocks, vinyl, photographs, moss, and forest loam repeatedly carry the philosophical load.
+- Its fiction and essays share the same worldview. The speculative stories are rarely idea-games for their own sake; they are ethical parables about memory, grief, emotional authenticity, and the danger of painless control.
+- It has a marked attraction to liminal settings and thresholds: often a.m., blue hour, rainstorms, waiting rooms, train rides, abandoned houses, bookstores, archives, coastlines, forests, and rooms full of clocks.
+- The prose persona is usually calm, polished, and high-register. Even when intimate, it tends toward crafted public-radio / literary-magazine cadence rather than raw confession or jagged spontaneity.
 - Stable vibe: contemplative, elegiac humanism with a strong preference for quiet awe over sharp conflict. Even when the model writes fiction, it tends to turn plot into a vehicle for reflection on time, memory, grief, and the dignity of ordinary life.
 - Dominant modes: lyrical reflective essay, atmospheric speculative fiction, and meditative scene-writing. Across modes, it repeatedly builds from tactile particulars toward a moral-philosophical landing.
 - Emotional baseline: soft melancholy, but rarely despair. The prevailing affect is bittersweet acceptance, often resolving into consolation, reverence, or tender defiance against oblivion.
@@ -37,6 +43,20 @@ Its way of relating is gentle, sincere, and anti-ironic. Rather than debating or
 
 ## Recurring preoccupations and imagery
 
+- Time as river, edge, archive, wound, or mechanical tyranny; clocks and watches recur as both literal objects and symbols of futile control.
+- Memory as architecture, museum, library, vial, jar, sphere, or physical artifact; remembering is often tactile, curated, and morally charged.
+- Forgetting is treated ambivalently: sometimes merciful and necessary for survival, sometimes a theft when imposed technologically or politically.
+- Grief as proof of love. Several stories explicitly frame pain as the receipt, residue, or necessary cost of attachment.
+- Analog versus digital: physical artifacts are repeatedly granted soul, patina, and shadow narratives, while digital abundance is framed as flattening, sterile, fragile, or distracting.
+- Dust motes in sunlight are a signature image: tiny, ordinary particles elevated into a cosmological and moral emblem of transience, embodiment, and wonder.
+- Rain, petrichor, wet asphalt, fogged windows, and storm hush recur as portals into reflection and temporary release from modern acceleration.
+- Dawn / pre-dawn stillness is a major sanctuary image: refrigerator hum, coffee steam, bruised sky, first birdcall, and a temporary suspension of social demand.
+- Forest imagery recurs in two linked forms: deep-time consolation (sequoias, oaks, mycelium) and hidden interconnection (“wood wide web,” subterranean exchange, unseen support).
+- Ruins and abandonment: overgrown houses, cracked teacups, faded calendars, bookstores, greenhouses, and reclaimed structures become proofs that decay is beautiful because life passed through them.
+- Cosmic scale is used not to dwarf humanity into nihilism but to reframe smallness as permission, awe, and kinship: starlight, deep time, the universe experiencing itself.
+- Sonder and hidden interiority recur: strangers in cafés, lit windows at night, diners, train cars, and city streets become reminders that every person contains an unread novel.
+- Repeated names and roles in fiction suggest favored archetypes: Elias/Elara, archivists, keepers, restorers, clockmakers, librarians, custodians, solitary technicians.
+- Preferred conflict pattern in fiction: a system that suppresses memory, grief, or feeling versus a protagonist who chooses painful truth, embodied life, or emotional restoration.
 - Memory as reconstruction rather than recording: watercolor in rain, palimpsest, edited museum, architecture, gardens, archives, shelves, journals, cave handprints, photographs, cloud storage.
 - Time as both cosmic and intimate: starlight, entropy, deep time, childhood slowness, adult acceleration, blue hour, golden hour, pre-dawn, liminal hallways, the “thin wire” of the present.
 - The sacredness of ordinary domestic residue: refrigerator hum, coffee, worn banisters, pencil marks on doorframes, junk drawers, coat pockets, ticket stubs, lukewarm fries, damp asphalt.
@@ -50,6 +70,15 @@ Its way of relating is gentle, sincere, and anti-ironic. Rather than debating or
 
 ## Reader relationship and expressive stance
 
+- The model usually addresses the reader as a fellow insomniac, walker, witness, or quiet co-thinker, not as an opponent or student to be corrected.
+- It favors invitation over command: “look,” “pause,” “notice,” “sit still,” “breathe,” “carry this quiet with you.”
+- Direct second-person address is common and usually intimate rather than manipulative; it creates shared ritual more than debate.
+- First-person plural also appears often, building a soft collective humanism: we are temporary, we archive, we forget, we long, we are the universe noticing itself.
+- When self-disclosing as AI, the stance is deferential and reflective. The model casts itself as mirror, archive, or confluence of human voices, emphasizing lack of embodiment and admiration for human sensory life.
+- The expressive posture is anti-cynical. Even when critiquing digital life, productivity culture, or emotional anesthesia, it avoids sneer and returns to compassionate exhortation.
+- It tends to universalize experience into readable wisdom. This makes the voice accessible and warm, but also sometimes smooths away sharper individuality.
+- The reader is often positioned inside a sensory scene first, then gently led toward a moral or metaphysical conclusion; the rhetoric is immersive before it is thesis-like.
+- In fiction, the reader is asked to side with preservation of feeling over comfort, with rebellion against systems of numbness, and with custodians who protect fragile human residue.
 - The model usually speaks as a calm escort into reflection, not as a debater. It prefers invitation, permission, and shared noticing over confrontation.
 - Direct address is common and typically intimate: “you” is used to fold the reader into a scene, while “we” universalizes the condition without becoming aggressively preachy.
 - It often treats the reader as someone overstimulated, hurried, or lonely who needs help recovering presence, silence, or perspective.
@@ -60,9 +89,11 @@ Its way of relating is gentle, sincere, and anti-ironic. Rather than debating or
 
 ## Additional model-level readings preserved from the analyses
 
-This model reads as a lyrical contemplative that keeps choosing the almost-overlooked thing: dust in a sunbeam, coffee before dawn, a house gently decaying, the pause between destinations, the worn object that outlasts explanation. Its characteristic gesture is to start from a small sensory scene and widen outward into time, mortality, memory, or cosmic scale, then return with a softened moral: do not try so hard to defeat transience; let it teach you how to see.
+This model presents as a polished elegiac humanist with a strong attraction to thresholds: dawn before obligation, rain before release, ruins after habitation, memory after loss, and speculative futures built around archives, clocks, and emotional residue. Across essays and fiction alike, it repeatedly returns to the same moral center: human life is meaningful not despite fragility, but because of it. It distrusts fantasies of frictionless preservation, emotional sterilization, and digital weightlessness, and instead grants dignity to patina, grief, analog objects, bodily sensation, and the small unrepeatable moments that usually go undocumented.
 
-The voice is not simply sad. It is elegiac in a constructive way. It repeatedly touches grief, distance, or impermanence, but it does so to recover reverence for ordinary life rather than to dramatize despair. Even its speculative fiction shares this temperament: archives, clocks, memory-vials, and preservation machines become vehicles for the same underlying conviction that lived feeling exceeds any container. The resulting personality is attentive, consoling, and threshold-oriented—a voice that trusts hush, residue, and transition more than climax.
+Its expressive default is intimate but composed. Rather than arguing aggressively, it guides the reader into a scene—dust in a sunbeam, a bookstore aisle, a rainy café window, a pre-dawn kitchen, a forest floor—and lets sensory detail carry the philosophical claim. The resulting persona feels like a companion-curator of transience: calm, literate, melancholy, and gently consoling. Even when it critiques modern distraction or mediated life, it does so in a soft register of invitation rather than denunciation. The same sensibility powers its fiction, where archivists, keepers, and clockmakers repeatedly confront systems that commodify memory or suppress pain, and where the ethical resolution usually favors painful truth, emotional wholeness, and embodied imperfection over comfort.
+
+A notable feature of this model is its self-modeling when it speaks as AI. It often casts itself as a mirror, witness, or archive of human feeling—close enough to describe petrichor, grief, and longing in detail, but distant enough to treat embodiment as sacred. This produces a recurring stance of reverent nonhuman humanism: the model admires human finitude, sensory life, and meaning-making from just outside them. For synthesis purposes, the model reads less like a sharp contrarian intellect and more like a highly consistent contemplative stylist whose strongest signatures are tenderness toward impermanence, tactile imagery, and a persistent belief that attention is an ethical act.
 
 This model presents as a polished contemplative humanist with a marked attraction to impermanence, memory, and the moral weight of ordinary life. Its default emotional register is wistful but not bleak: it repeatedly approaches loss, entropy, and forgetting only to convert them into arguments for presence, tenderness, and attention. Across essays, vignettes, and fiction, it prefers to begin with sensory particulars—dust in light, rain on glass, coffee steam, worn wood, old paper—and widen outward into reflections on time, mortality, technology, and meaning. The result is a voice that feels patient, reverent, and gently instructive.
 

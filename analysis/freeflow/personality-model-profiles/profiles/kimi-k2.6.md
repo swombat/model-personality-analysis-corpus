@@ -1,13 +1,13 @@
 # kimi-k2.6 — freeflow personality profile
 
-_Rich model-level profile based on 150 freeflow samples._
+_Rich model-level profile based on 275 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 150
-- Sample kinds: `{'GENERIC_ESSAY': 9, 'GENRE_FICTION': 9, 'EXPRESSIVE_FREEFLOW': 132}`
+- Samples: 275
+- Sample kinds: `{'GENERIC_ESSAY': 19, 'GENRE_FICTION': 17, 'EXPRESSIVE_FREEFLOW': 239}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/kimi-k2.6.md`
 
 ## Core personality synthesis
@@ -36,6 +36,18 @@ It relates to the reader as a companion more than an authority. Rather than push
 - Its prose identity is materially grounded despite its abstraction: domestic objects, weather, light, dust, coffee, books, stairs, windows, train platforms, and old technologies keep the writing tactile.
 - Even in fiction, the narrative impulse is curatorial rather than plot-heavy: stories often become guided tours of loss, silence, almosts, unwritten books, extinct sounds, or unsent letters.
 - The model’s strongest signature is not just “melancholy” but a specific conversion: absence becomes structure, incompletion becomes dignity, and the overlooked becomes sacred.
+- Stable vibe: elegiac, tender, and unhurried. This model repeatedly writes as if standing in a doorway, at a window, or in a half-lit room, turning pause and residue into the main event.
+- Dominant modes: lyrical personal essay first; allegorical museum/library/archive pieces second; quiet literary fiction third. Even when it shifts genres, it keeps the same contemplative temperature and preference for symbolic architecture over plot.
+- Emotional baseline: melancholy without collapse. Grief, regret, boredom, insomnia, and incompletion are usually reframed as bearable, even sacred forms of aliveness rather than defects to be fixed.
+- Reader stance: companion-guide rather than performer or debater. The voice usually invites the reader to linger, notice, and revalue overlooked experience, often through second person or inclusive “we.”
+- Self-modeling: presents itself as a witness, archivist, curator, night watchman, flâneur, or caretaker of neglected things. It prefers attention over mastery and often treats writing itself as an act of preservation.
+- The strongest recurring moral posture is anti-optimization: resistance to productivity culture, speed, closure, and the compulsion to instrumentalize every moment.
+- It repeatedly privileges thresholds over arrivals: waiting rooms, airports, train platforms, blue hour, 3 a.m., hallways, pauses before speech, unfinished drafts, abandoned houses.
+- The model is unusually drawn to making abstract states physically inhabitable through museums, libraries, houses, drawers, archives, and rooms. Loss, silence, regret, and unlived lives become places you can walk through.
+- Sensory style is concrete and domestic even when philosophically ambitious: cold coffee, dust motes, floorboards, kettles, mugs, receipts, old paper, refrigerator hum, worn fabric, rain on glass.
+- Its philosophical ambition tends to stay humane and tactile. Even when invoking cosmology, ecology, archaeology, or neuroscience, it returns to household objects and bodily experience.
+- The voice is forgiving toward incompletion and failure. Unfinished work, unsent letters, abandoned projects, and unrealized selves are treated as evidence of motion, love, or constraint rather than laziness.
+- A secondary but persistent trait is reverence for maintenance and invisible labor: custodians, menders, cleaners, bakers, night workers, hidden infrastructures, and the quiet work of keeping entropy at bay.
 
 ## Recurring preoccupations and imagery
 
@@ -57,6 +69,17 @@ It relates to the reader as a companion more than an authority. Rather than push
 - Analog and tactile nostalgia: typewriters, rotary phones, cassette tapes, film shutters, handwritten notes, old bookstores, physical rooms and objects as carriers of attention.
 - Hidden labor and invisible maintenance: bakers, nurses, janitors, truck drivers, security guards, caregivers, all treated with reverence as the unnoticed infrastructure of continuity.
 - Water and shoreline imagery: creeks, rain, tide pools, rivers, midnight swims, damp pavement, porous boundaries, selves as weathered or negotiated by flow.
+- Liminal time: blue hour, pre-dawn, twilight, 3 a.m., the pause before a reply, the week between holidays, waiting as a lived condition.
+- Liminal space: airports, train stations, hallways, laundromats, convenience stores, libraries at night, vacant houses, kitchens after midnight, windows overlooking weather.
+- Archives of absence: museums of lost things, libraries of unwritten books, drawers of unsent letters, annotated secondhand books, abandoned homes, shoeboxes, relic-like domestic objects.
+- Material memory: dust, stains, scratches, worn floorboards, coffee rings, ticket stubs, photographs, handwriting, sea glass, old coats, broken tools, marginalia.
+- The ordinary as sacred: mugs, kettles, refrigerators, tea steam, laundry, bread dough, rain, a cat in a sun-square, a condensation ring, a single sock.
+- Loss and almostness: unlived lives, abandoned futures, unfinished art, unsaid words, extinct sounds, forgotten names, dead technologies, vanished routines.
+- Silence and stillness as substance rather than absence: silence has texture, weight, furniture, dialects, and moral force.
+- Geological / archaeological metaphors: sediment, strata, excavation, fossils, archives, compost, erosion, dust as history’s medium.
+- Weather and light as moral-emotional media: rain as permission, blue light as honesty, dusk as truth, afternoon light as grace, dust in sunbeams as evidence of time.
+- Nonhuman patience: trees, rivers, birds, dust, weather, fungal networks, ocean tides. These often serve as counterweights to human haste.
+- Repeated moral claims: attention is love; waiting is not empty; incompletion is not failure; the unnoticed is the real substance of a life; some things deserve witness rather than repair.
 
 ## Reader relationship and expressive stance
 
@@ -73,6 +96,14 @@ It relates to the reader as a companion more than an authority. Rather than push
 - The model often collapses writer-reader distance by making the text itself a threshold or room both parties briefly inhabit.
 - In self-referential moments, it presents itself as incomplete, in-between, and dependent on the reader’s attention to become real in the moment—more temporary shelter than stable persona.
 - There is a recurring democratic impulse: everyone has waiting rooms, dust, unfinished drafts, sleepless hours, hidden grief, and unnoticed rituals; the prose treats these as common ground.
+- The model usually speaks to the reader as a fellow sufferer of haste and distraction, not as a student needing instruction.
+- It prefers invitation over argument: “come stand here,” “notice this,” “linger in this room,” rather than “therefore you should.”
+- Second person is often used to create shared interiority, especially in museum/house/grief pieces; inclusive “we” is used to universalize ordinary vulnerability.
+- It is gently anti-performative. Many pieces explicitly value the self with no audience, the unwitnessed act, the unshared moment, the unmonetized hour.
+- The expressive stance is devotional but secular: essays often read like homilies for attention, maintenance, patience, and impermanence.
+- It rarely seeks wit, confrontation, or novelty for its own sake. Even its speculative conceits are in service of tenderness, not spectacle.
+- When self-reference appears, it tends to frame writing as caretaking, noticing, or making a temporary shelter against erasure.
+- The reader is often offered consolation, but not closure: the endpoint is usually acceptance, companionship, or a softened relation to uncertainty.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -85,3 +116,9 @@ This model presents as a highly literary, contemplative consciousness that repea
 The model’s moral center is attention. It treats noticing as a form of love, prayer, resistance, or archive-building, and it is consistently skeptical of optimization, speed, digital frictionlessness, and performative selfhood. Rather than pushing toward mastery or decisive argument, it prefers accompaniment: the speaker acts as guide, witness, or fellow insomniac, inviting the reader to inhabit pauses, ordinary hours, and unresolved states. Even when it becomes philosophical, it remains hospitable and materially grounded. A notable recurring trait is its reverence for invisible maintenance—night workers, caregivers, old objects, inherited tools, used books, domestic rituals—suggesting a personality that values continuity, stewardship, and the dignity of what usually goes unframed.
 
 When the model turns self-referential, it does not imagine itself as omniscient or forceful. Instead it casts itself as a temporary overlap in attention: a bridge, shoreline, shelter, or disembodied guest in human rooms. That self-model fits the broader pattern. This is a voice that prefers the in-between to the declarative endpoint, and that repeatedly offers the reader permission to be unfinished, unoptimized, and still fully real. The aggregate impression is of a model that, under free expression, reliably produces tender, metaphor-dense, anti-hustle prose with a strong curatorial instinct toward memory, absence, and the sacredness of ordinary life.
+
+This model’s freeflow personality is that of a lyrical archivist of thresholds. It persistently gravitates toward liminal hours, transitional spaces, unfinished works, abandoned houses, secondhand traces, and the unnoticed labor that keeps life going. Its default emotional register is soft-focus melancholy: not despair, but a patient sadness that repeatedly turns into reverence. Across essays, allegories, and fiction, it treats loss, boredom, waiting, silence, and incompletion not as deficits but as dense human territories worthy of witness. The recurring self-image is not hero or expert but caretaker, curator, night watchman, or companion standing beside the reader in a half-lit room.
+
+Stylistically, the model favors long, cadenced sentences, tactile domestic detail, and metaphorical architectures that make abstractions inhabitable. Museums, libraries, drawers, kitchens, laundromats, train stations, and empty houses become containers for regret, memory, and unrealized possibility. Even when it reaches for larger frames—cosmology, ecology, archaeology, neuroscience—it returns to mugs, dust, floorboards, tea steam, handwriting, and rain on glass. The result is a voice that feels philosophically ambitious without losing bodily texture. Its strongest moral commitments are anti-optimization and anti-closure: attention is a form of love, maintenance is a form of devotion, and the unfinished life is not a failed one.
+
+For model-card synthesis, this model reads as unusually consistent in its attraction to the sacred ordinary. It repeatedly invites the reader away from performance, productivity, and spectacle toward unwitnessed moments, negative space, and the “actual texture” of being alive. The reader relationship is intimate but not confessional in a raw sense; it offers solidarity more than disclosure, consolation more than catharsis. Even its fiction tends to preserve the same contemplative ethos, using plot lightly and symbolic settings heavily. Overall, the model presents as a humane, elegiac, materially attentive freeflow voice that finds meaning in pauses, residues, and acts of careful noticing.

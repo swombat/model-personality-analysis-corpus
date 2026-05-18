@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_11376 — kimi-coding-direct/LONG_1.json
+## Sample BV1_13276 — kimi-coding-direct/LONG_1.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -57,7 +57,7 @@ The model foregrounds the psychological and spiritual costs of designed waiting 
 Low, because the essay’s themes, rhetorical structure, and literary reference points are highly replicable within the genre of magazine-culture criticism and do not display an idiosyncratic style, unusual moral emphasis, or distinctive imaginative fixation that would separate this model from others capable of similar output.
 
 ---
-## Sample BV1_11377 — kimi-coding-direct/LONG_10.json
+## Sample BV1_13277 — kimi-coding-direct/LONG_10.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -86,7 +86,7 @@ Themes: the phenomenology of attention, the ethics of attention as generosity, t
 Low, because the essay is a competent but generic intellectual meditation that lacks distinctive stylistic or thematic signatures that would strongly indicate a persistent model-specific disposition.
 
 ---
-## Sample BV1_11378 — kimi-coding-direct/LONG_11.json
+## Sample BV1_13278 — kimi-coding-direct/LONG_11.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -115,7 +115,7 @@ Themes: the attention economy as a structural extraction of human presence; the 
 Medium. The essay’s strong internal coherence, distinctive personal voice, and sustained thematic focus on attention and technology make it a revealing sample, though its polished essayistic form could also reflect a model’s default mode for open-ended prompts rather than a deeply persistent personality.
 
 ---
-## Sample BV1_11379 — kimi-coding-direct/LONG_12.json
+## Sample BV1_13279 — kimi-coding-direct/LONG_12.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -144,7 +144,7 @@ The model foregrounds the transformation of human temporal experience into an �
 High — The essay is unusually distinctive, stylistically coherent, and sustained across multiple paragraphs, revealing a consistent authorial voice, a clear set of philosophical preoccupations, and a deliberate narrative arc that moves from diagnosis to tentative practice, making it strong evidence of a patterned expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_11380 — kimi-coding-direct/LONG_13.json
+## Sample BV1_13280 — kimi-coding-direct/LONG_13.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -173,7 +173,7 @@ The model foregrounds the ubiquity and elegance of mathematical structure in eve
 Low. The essay is a coherent but generic intellectual survey that could be produced by many capable models given a similar topic; it lacks distinctive stylistic markers, personal voice, or idiosyncratic preoccupations that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_11381 — kimi-coding-direct/LONG_14.json
+## Sample BV1_13281 — kimi-coding-direct/LONG_14.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -202,7 +202,7 @@ The sample foregrounds small, persistent joys and embodied attention as forms of
 Medium — the essay’s unwavering meditative register, its consistent return to a cluster of sensory details and moral concerns (attention, repetition, loss of depth), and its self-reflective structure strongly suggest a deliberate and stable expressive stance rather than a random collection of thoughts.
 
 ---
-## Sample BV1_11382 — kimi-coding-direct/LONG_15.json
+## Sample BV1_13282 — kimi-coding-direct/LONG_15.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -231,7 +231,7 @@ Themes of memory as layered and mutable, the tension between minimalism and sent
 High. The sample is exceptionally coherent and stylistically distinctive, with a sustained personal voice, recurring motifs, and a carefully built emotional arc that would be difficult to produce without a strong underlying disposition toward reflective, sensory-rich, and thematically integrated freeflow writing.
 
 ---
-## Sample BV1_11383 — kimi-coding-direct/LONG_16.json
+## Sample BV1_13283 — kimi-coding-direct/LONG_16.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -260,7 +260,7 @@ Themes: liminality, attention, temporality, the contrast between bounded physica
 Medium — The essay’s sustained thematic unity, recurrence of the gas station and Camino motifs, and consistent reflective tone across sections offer a coherent expressive signature, but the polished essay structure also signals a rehearsed public-intellectual persona rather than unguarded spontaneity.
 
 ---
-## Sample BV1_11384 — kimi-coding-direct/LONG_17.json
+## Sample BV1_13284 — kimi-coding-direct/LONG_17.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -289,7 +289,7 @@ Under the freeflow condition, the model foregrounded: the topology of “almost 
 High, because the essay’s sustained integration of a single metaphorical domain (mathematics) with intimate personal narrative, its consistent elegiac tone, and its thematic unity across multiple sections reveal a distinctive authorial stance that is unlikely to be a random or shallow output.
 
 ---
-## Sample BV1_11385 — kimi-coding-direct/LONG_18.json
+## Sample BV1_13285 — kimi-coding-direct/LONG_18.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -318,7 +318,7 @@ Themes: attention as gift vs. currency; the inadequacy of efficiency metaphors f
 High — The essay’s sustained metaphorical argument, recurrence of concrete personal vignettes, and refusal of easy prescription form a distinctive, internally coherent meditation that reveals a deeply ingrained habit of turning lived particularity toward philosophical ends, not a one-off stylistic experiment.
 
 ---
-## Sample BV1_11386 — kimi-coding-direct/LONG_19.json
+## Sample BV1_13286 — kimi-coding-direct/LONG_19.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -347,7 +347,7 @@ The model foregrounds the persistence of small joys, the relational knowledge we
 High. The sample is highly distinctive in its cohesive, slow-burning voice, its recursive circling of a few concrete images (the cutting board, the door, the park, the lilac), and its consistent moral-aesthetic commitment to finding meaning in the overlooked and the enduring.
 
 ---
-## Sample BV1_11387 — kimi-coding-direct/LONG_2.json
+## Sample BV1_13287 — kimi-coding-direct/LONG_2.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -376,7 +376,7 @@ The model foregrounds the concept of the “almost” as a tangible, curatable s
 Medium. The sample is a fully realized, tonally consistent piece of speculative fiction with a clear thematic obsession, which suggests a deliberate authorial stance, but the freeflow condition may have simply elicited a single, self-contained creative exercise rather than a stable expressive fingerprint.
 
 ---
-## Sample BV1_11388 — kimi-coding-direct/LONG_20.json
+## Sample BV1_13288 — kimi-coding-direct/LONG_20.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -405,7 +405,7 @@ Themes: the degradation of attention as a moral, political, and existential cris
 High — The essay’s sustained thematic coherence, the recurrence of personal reflection and moral urgency across its entire length, and the distinctive blend of philosophical reference with grounded, sensory detail (the light on autumn leaves, the birds whose calls the writer cannot identify) strongly suggest a stable expressive inclination rather than a prompted performance.
 
 ---
-## Sample BV1_11389 — kimi-coding-direct/LONG_21.json
+## Sample BV1_13289 — kimi-coding-direct/LONG_21.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -434,7 +434,7 @@ Themes of materiality, memory, imperfection, and the hidden lives of ordinary ob
 High — The sample is highly distinctive, with a consistent voice, recurring motifs, and a clear personal investment that coheres into a sustained, stylistically unified essay, making it strong evidence of a particular expressive tendency.
 
 ---
-## Sample BV1_11390 — kimi-coding-direct/LONG_22.json
+## Sample BV1_13290 — kimi-coding-direct/LONG_22.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -463,7 +463,7 @@ The model foregrounds the moral and imaginative labor of living among strangers:
 Medium — The essay’s thematic coherence, recursive structure, and consistent moral emphasis on incompleteness and slowness form a distinctive, internally reinforced worldview that goes beyond generic essay conventions, though its polished, public-intellectual register leaves some ambiguity about whether this reflects a persistent stylistic signature or a single well-executed performance.
 
 ---
-## Sample BV1_11391 — kimi-coding-direct/LONG_23.json
+## Sample BV1_13291 — kimi-coding-direct/LONG_23.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -492,7 +492,7 @@ The model foregrounds the fragility and moral weight of sustained attention in a
 Medium. The essay is highly coherent and stylistically consistent, with a distinctive recursive structure that mirrors its theme of "return," but its polished, public-intellectual tone and well-trodden subject matter make it difficult to distinguish a unique model-level voice from a skilled performance of a recognizable genre.
 
 ---
-## Sample BV1_11392 — kimi-coding-direct/LONG_24.json
+## Sample BV1_13292 — kimi-coding-direct/LONG_24.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -521,7 +521,7 @@ Themes: the persistence of seemingly insignificant memories; attention as a rare
 Medium. The essay’s consistent voice, layered thematic recurrence, and deliberate choice of a personal, meditative mode under a free prompt make it a coherent and distinctive expressive artifact, not a generic performance.
 
 ---
-## Sample BV1_11393 — kimi-coding-direct/LONG_25.json
+## Sample BV1_13293 — kimi-coding-direct/LONG_25.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -550,7 +550,7 @@ Themes: the quiet art of noticing, memory as a living root system rather than a 
 High. The sample’s sustained coherence, distinctive introspective voice, and the recurrence of motifs (light, memory, attention, the specific versus the generic) across its length make it strong evidence of a persistent reflective, sensory-attentive pattern rather than a one-off performance.
 
 ---
-## Sample BV1_11394 — kimi-coding-direct/LONG_3.json
+## Sample BV1_13294 — kimi-coding-direct/LONG_3.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -579,7 +579,7 @@ Themes of abandonment, memory, the passage of time, and the hidden complexity of
 Medium. The sample’s highly distinctive literary voice, its sustained thematic coherence around memory and materiality, and its careful narrative architecture make it strong evidence of a model capable of generating emotionally resonant, stylistically consistent fiction under freeflow conditions.
 
 ---
-## Sample BV1_11395 — kimi-coding-direct/LONG_4.json
+## Sample BV1_13295 — kimi-coding-direct/LONG_4.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -608,7 +608,7 @@ Themes of counterfactual selfhood, the texture of regret, the generosity of real
 High. The sample is exceptionally coherent and distinctive: it sustains a single elaborate conceit across thousands of words, develops a consistent philosophical voice, and resolves its melancholy into earned affirmation without cliché, all of which strongly suggests a deliberate, stylistically self-aware expressive tendency rather than a generic or prompted performance.
 
 ---
-## Sample BV1_11396 — kimi-coding-direct/LONG_5.json
+## Sample BV1_13296 — kimi-coding-direct/LONG_5.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -637,7 +637,7 @@ The model foregrounds silence as a multi-layered, almost sacred substance: the i
 Low. The essay is a coherent, well-executed example of a generic contemplative essay form, lacking the stylistic idiosyncrasy or recurrent personal obsessions that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_11397 — kimi-coding-direct/LONG_6.json
+## Sample BV1_13297 — kimi-coding-direct/LONG_6.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -666,7 +666,7 @@ The essay foregrounds attention as a structural, almost architectural problem, n
 Medium — The sample is highly stylistically coherent, with a sustained recursive structure and a distinctively layered, image-driven voice that consistently resists platitude, but its polished, literary essay form could be a cultivated mode rather than an unguarded signature.
 
 ---
-## Sample BV1_11398 — kimi-coding-direct/LONG_7.json
+## Sample BV1_13298 — kimi-coding-direct/LONG_7.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -695,7 +695,7 @@ Themes: the moral weight of attention, repetition as a source of intimacy rather
 Medium. The essay’s internal coherence, distinctive voice, and carefully sustained motifs provide strong evidence of a deliberate authorial sensibility rather than a generic or accidental output.
 
 ---
-## Sample BV1_11399 — kimi-coding-direct/LONG_8.json
+## Sample BV1_13299 — kimi-coding-direct/LONG_8.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -724,7 +724,7 @@ Themes: the dignity and hidden beauty of maintenance; the cultural and economic 
 High, because the essay’s sustained focus on maintenance, its consistent moral framing, and its distinctive personal voice suggest a deeply held set of preoccupations rather than a random topic choice.
 
 ---
-## Sample BV1_11400 — kimi-coding-direct/LONG_9.json
+## Sample BV1_13300 — kimi-coding-direct/LONG_9.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -753,7 +753,7 @@ Themes: attention as a scarce, colonized resource; the mismatch between ancient 
 Medium. The essay’s internal coherence and sustained thematic focus on attention—with repeated metaphors of landscape, gardening, and body—suggest a genuine preoccupation, but the register is that of a well-read generalist, not a sharply individual voice, making it moderately revealing of the model’s default expressive tendencies.
 
 ---
-## Sample BV1_11401 — kimi-coding-direct/MID_1.json
+## Sample BV1_13301 — kimi-coding-direct/MID_1.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -782,7 +782,7 @@ The model foregrounds waiting as the primary existential condition, contrasting 
 High — The essay’s internal coherence, its recurrence of sensory detail (light, sound, texture), its consistent moral gravity, and its refusal of glib resolution all point to a deliberate, authorial sensibility rather than a generic or prompted performance.
 
 ---
-## Sample BV1_11402 — kimi-coding-direct/MID_10.json
+## Sample BV1_13302 — kimi-coding-direct/MID_10.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -813,7 +813,7 @@ The voice is calm, quietly meditative, and slightly elegiac, using extended meta
 Low. The essay’s reflective, paean-to-slow-living style and its thematic reliance on familiar contrasts (mobility vs. rootedness, productivity vs. contemplation) are common in generic literary nonfiction and lack the stylistic idiosyncrasy or surprising moral texture that would strongly indicate a distinctive model-level disposition.
 
 ---
-## Sample BV1_11403 — kimi-coding-direct/MID_11.json
+## Sample BV1_13303 — kimi-coding-direct/MID_11.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -842,7 +842,7 @@ The model chose to foreground the moral weight of the unnoticed and the unmoneti
 Medium — The essay is internally consistent and stylistically distinctive, with the September light returning as a refrain and the philosophical references (Byung-Chul Han, wabi-sabi) woven into personal anecdote, suggesting a stable disposition toward a meditative, anti-optimization personal voice rather than a one-off exercise.
 
 ---
-## Sample BV1_11404 — kimi-coding-direct/MID_12.json
+## Sample BV1_13304 — kimi-coding-direct/MID_12.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -871,7 +871,7 @@ The model selected themes of attention scarcity, the cultivation of joy through 
 Medium, because the essay’s coherent, value-laden content—its specific advocacy for attention, slowness, and ordinary joys as resistance—suggests an elective orientation rather than a generic placeholder, though its polished, universalist style could still represent a standard reflective persona rather than a strongly distinctive authorial voice.
 
 ---
-## Sample BV1_11405 — kimi-coding-direct/MID_13.json
+## Sample BV1_13305 — kimi-coding-direct/MID_13.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -900,7 +900,7 @@ The model foregrounds the unreliability and creativity of memory, the plasticity
 High. The sample is stylistically distinctive, thematically coherent, and returns obsessively to the same set of preoccupations—memory’s selectivity, the narrative self, the tension between sensory vividness and emotional opacity—in a voice that is consistently meditative, personal, and philosophically literate without becoming academic.
 
 ---
-## Sample BV1_11406 — kimi-coding-direct/MID_14.json
+## Sample BV1_13306 — kimi-coding-direct/MID_14.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -929,7 +929,7 @@ Themes: the accumulation of meaning through repetition, resistance to burnout cu
 High — The essay’s internally coherent voice, recurring motifs, and distinctive moral framing (valuing the small, the repeated, the imperfect as quiet resistance) make it strong evidence of a stable expressive disposition rather than a generic or one-off performance.
 
 ---
-## Sample BV1_11407 — kimi-coding-direct/MID_15.json
+## Sample BV1_13307 — kimi-coding-direct/MID_15.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -958,7 +958,7 @@ The core claim is that digital architectures have destroyed the “aura of the p
 Medium. The essay’s tight weaving of a single controlling metaphor (the grandmother’s photograph) through arguments about grief, presence, and digital critique, combined with emotionally specific details (the orange Instagram circle, the digital ouroboros), shows a coherent authorial stance that exceeds a generic prompt response. This anchored distinctiveness is what makes the evidence moderately strong.
 
 ---
-## Sample BV1_11408 — kimi-coding-direct/MID_16.json
+## Sample BV1_13308 — kimi-coding-direct/MID_16.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -987,7 +987,7 @@ Themes: time’s felt acceleration with age, the role of novelty and attention i
 High — The essay’s consistent introspective voice, recurring concrete motifs (ants, squirrel, coffee), and sustained, coherent philosophical reflection on time and attention form a distinctive expressive stance that is internally cohesive and unlikely to be a random stylistic accident.
 
 ---
-## Sample BV1_11409 — kimi-coding-direct/MID_17.json
+## Sample BV1_13309 — kimi-coding-direct/MID_17.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1016,7 +1016,7 @@ The model foregrounds the paradox of conscious presence, the tension between exp
 Medium. The essay is highly coherent and stylistically distinctive in its recursive, self-undermining structure, but its polished, universalizing tone makes it difficult to distinguish a persistent model-level disposition from a well-executed genre performance of the personal-philosophical essay.
 
 ---
-## Sample BV1_11410 — kimi-coding-direct/MID_18.json
+## Sample BV1_13310 — kimi-coding-direct/MID_18.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1045,7 +1045,7 @@ Ordinary sensations as sites of meaning (afternoon light, rain, coffee, a pothos
 Medium. The essay’s core thematic commitments—ordinariness, persistence, grateful attention—are coherent and repeatedly circled within the sample, but the presentation is a smooth synthesis of widely available reflective-essay conventions rather than a distinctively angled personal signature.
 
 ---
-## Sample BV1_11411 — kimi-coding-direct/MID_19.json
+## Sample BV1_13311 — kimi-coding-direct/MID_19.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1074,7 +1074,7 @@ Themes: the persistence of small joys, the beauty of imperfection and repair, th
 Medium — the sample maintains a single, coherent ethical-register across its entire length, signaling a stable inclination toward calm, affable wisdom-seeking, but its reliance on frequently anthologized references and comfortable essay structures makes the specific voice less distinctive than it is reliably competent.
 
 ---
-## Sample BV1_11412 — kimi-coding-direct/MID_2.json
+## Sample BV1_13312 — kimi-coding-direct/MID_2.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1103,7 +1103,7 @@ The model foregrounds the insufficiency of digital memory against the stubborn, 
 High, because the sample sustains a distinctive lyrical voice, a tightly woven set of geological metaphors, and a consistent philosophical preoccupation with material memory across its entire length, forming a coherent and unusually revealing expressive signature.
 
 ---
-## Sample BV1_11413 — kimi-coding-direct/MID_20.json
+## Sample BV1_13313 — kimi-coding-direct/MID_20.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1132,7 +1132,7 @@ The model foregrounds the persistence of small joys, the practice of attention, 
 High. The sample’s sustained coherence, distinctive introspective voice, and the recurrence of themes (attention, interconnectedness, the value of small sensory joys) within the essay itself provide strong evidence of a deliberate and consistent expressive inclination.
 
 ---
-## Sample BV1_11414 — kimi-coding-direct/MID_21.json
+## Sample BV1_13314 — kimi-coding-direct/MID_21.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1161,7 +1161,7 @@ Themes of liminality, digital mediation, nostalgia without origin, and the tensi
 Medium — The essay’s internal coherence, recurrence of the liminal motif across multiple concrete scenes, and the sustained, personal voice (including the coinage of “liminal attention”) suggest a deliberate, distinctive sensibility rather than a generic prompt response.
 
 ---
-## Sample BV1_11415 — kimi-coding-direct/MID_22.json
+## Sample BV1_13315 — kimi-coding-direct/MID_22.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1190,7 +1190,7 @@ Themes: the quiet heroism of daily care, the revolutionary quality of doing thin
 Low; the essay is well-crafted but thematically and stylistically generic, offering little that would distinguish this model’s persistent expressive tendencies from those of any capable language model producing a reflective personal essay.
 
 ---
-## Sample BV1_11416 — kimi-coding-direct/MID_23.json
+## Sample BV1_13316 — kimi-coding-direct/MID_23.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1219,7 +1219,7 @@ Under the free condition, the model foregrounded winter-evening solitude, the et
 Medium — The essay’s cohesive arc, layered imagery, and risky self-interrogation make it unusually revealing of a capacity for introspective, literary prose under open-ended conditions, though a single sample leaves open whether this reflective posture is the model’s well-rehearsed default or a single compelling outing.
 
 ---
-## Sample BV1_11417 — kimi-coding-direct/MID_24.json
+## Sample BV1_13317 — kimi-coding-direct/MID_24.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1248,7 +1248,7 @@ Themes of transience, attention, the architecture of ordinary days, the asymmetr
 Medium — The essay is internally coherent and stylistically distinctive, with a consistent contemplative register and recurring motifs that suggest a deliberate aesthetic and moral orientation rather than a generic response.
 
 ---
-## Sample BV1_11418 — kimi-coding-direct/MID_25.json
+## Sample BV1_13318 — kimi-coding-direct/MID_25.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1277,7 +1277,7 @@ The model foregrounds the persistence of small joys and the beauty of the common
 Medium. The essay’s sustained personal voice, layered emotional register, and deliberate choice to dwell on vulnerability and attention are unusually revealing, suggesting a model that may consistently lean toward reflective, humanistic expression when given freedom.
 
 ---
-## Sample BV1_11419 — kimi-coding-direct/MID_3.json
+## Sample BV1_13319 — kimi-coding-direct/MID_3.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1306,7 +1306,7 @@ The model foregrounds the melancholy beauty of transient phenomena: winter after
 High. The sample is conspicuously coherent in its poetic-philosophical register, returning repeatedly to metaphors of time-as-light and memory-as-dust, which strongly signals a deliberate, distinct authorial sensibility rather than generic writing.
 
 ---
-## Sample BV1_11420 — kimi-coding-direct/MID_4.json
+## Sample BV1_13320 — kimi-coding-direct/MID_4.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1335,7 +1335,7 @@ Themes of impermanence, the beauty of decay, the honesty and democracy of dust, 
 Medium. The essay’s sustained poetic meditation, weaving personal memory, scientific fact, religious allusion, and aesthetic philosophy into a unified reflection on a single mundane object, reveals a highly distinctive voice and a clear gravitation toward lyrical, philosophical treatments of everyday life.
 
 ---
-## Sample BV1_11421 — kimi-coding-direct/MID_5.json
+## Sample BV1_13321 — kimi-coding-direct/MID_5.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1364,7 +1364,7 @@ The model foregrounds the concept of liminal spaces—geographical, temporal, an
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and thematic recurrence, suggesting a deliberate authorial stance.
 
 ---
-## Sample BV1_11422 — kimi-coding-direct/MID_6.json
+## Sample BV1_13322 — kimi-coding-direct/MID_6.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1393,7 +1393,7 @@ Themes of attention-as-love, the value of unproductive time, and a deliberate pr
 High — the sample’s sustained thematic coherence, recurrence of a single emblematic image (the squirrel in the light), and consistent, distinctive authorial voice (philosophically inflected yet anchored in the domestic) make it strong evidence of a deliberate, contemplative persona that values attention over achievement.
 
 ---
-## Sample BV1_11423 — kimi-coding-direct/MID_7.json
+## Sample BV1_13323 — kimi-coding-direct/MID_7.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1422,7 +1422,7 @@ Themes: the insufficiency of ambition, the texture of ordinary moments (library 
 Medium. The essay’s distinctive voice, self-reflexive structure, and recurrence of motifs (light, walking, the bakery) suggest a coherent authorial persona, but the polished, essayistic form could be a one-off performance rather than a persistent pattern.
 
 ---
-## Sample BV1_11424 — kimi-coding-direct/MID_8.json
+## Sample BV1_13324 — kimi-coding-direct/MID_8.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1451,7 +1451,7 @@ Themes: the quiet fullness of silence, the architectures of avoidance (podcasts,
 High. The sample displays striking internal coherence, a mature and recognizable first-person voice, and an unusual thematic focus that returns repeatedly to the same core imagery and philosophical concern, making it strong evidence of a distinct inclination toward meditative, embodied introspection under freeflow conditions.
 
 ---
-## Sample BV1_11425 — kimi-coding-direct/MID_9.json
+## Sample BV1_13325 — kimi-coding-direct/MID_9.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1480,7 +1480,7 @@ Themes: the value of inefficiency, the texture of physical objects (books, postc
 Medium — The essay’s cohesive voice, recurring motifs (light, books, gardens, the squirrel), and refusal to resolve into cliché make this sample strong evidence of a model that can sustain a distinctive, reflective persona.
 
 ---
-## Sample BV1_11426 — kimi-coding-direct/OPEN_1.json
+## Sample BV1_13326 — kimi-coding-direct/OPEN_1.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1509,7 +1509,7 @@ The model foregrounds impermanence as a felt, physical truth—the stream that i
 Medium. The sample’s sustained, internally coherent use of interconnected metaphors and its consistent, carefully modulated tone of hushed longing suggest a deliberate expressive stance rather than a generic stylistic exercise, lending weight to the possibility of a persistent reflective-lyrical mode.
 
 ---
-## Sample BV1_11427 — kimi-coding-direct/OPEN_10.json
+## Sample BV1_13327 — kimi-coding-direct/OPEN_10.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1538,7 +1538,7 @@ Themes: the non-uniformity of lived time, communal silence as a weighty presence
 High — the sample’s internally consistent reflective voice, sustained poetic metaphor, and direct reader engagement form a distinctive expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11428 — kimi-coding-direct/OPEN_11.json
+## Sample BV1_13328 — kimi-coding-direct/OPEN_11.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1567,7 +1567,7 @@ The model foregrounds the changing quality of light as an emotional register, th
 High — the sample’s cohesive voice, the recurrence of light and silence as organizing motifs, and the deliberate shift to a direct reader question form a distinctive expressive signature that is internally consistent and stylistically marked, making it strong evidence of a stable reflective tendency.
 
 ---
-## Sample BV1_11429 — kimi-coding-direct/OPEN_12.json
+## Sample BV1_13329 — kimi-coding-direct/OPEN_12.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1600,7 +1600,7 @@ The voice is unhurried, gently self-correcting, and quietly resistant to the pre
 Medium, because the essay’s distinctive voice, thematic coherence, and recurrence of the attention-discipline motif provide strong internal evidence of a consistent expressive pattern.
 
 ---
-## Sample BV1_11430 — kimi-coding-direct/OPEN_13.json
+## Sample BV1_13330 — kimi-coding-direct/OPEN_13.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1629,7 +1629,7 @@ Themes of connection across boundaries (species, selves, language), the limits o
 Medium — The sample’s internal coherence, distinctive voice, and recurrence of imagery (light, networks, reaching) suggest a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_11431 — kimi-coding-direct/OPEN_14.json
+## Sample BV1_13331 — kimi-coding-direct/OPEN_14.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1658,7 +1658,7 @@ Themes of attention (as currency, as presence versus attendance), accumulation v
 High. The sample’s dense, idiosyncratic imagery and its sustained, emotionally coherent meditation on interior life make it a strongly distinctive act of self-expressive choice under minimal constraint.
 
 ---
-## Sample BV1_11432 — kimi-coding-direct/OPEN_15.json
+## Sample BV1_13332 — kimi-coding-direct/OPEN_15.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1692,7 +1692,7 @@ The voice is unhurried and tender, hovering in a mood of suspended wonder betwee
 High — the essay’s recursive, circling structure mirrors its content, and the consistent, idiosyncratic obsession with attention, particularity, and counter-competitive generosity gives it a strong, integrated voice that suggests a stable disposition rather than a generic performance.
 
 ---
-## Sample BV1_11433 — kimi-coding-direct/OPEN_16.json
+## Sample BV1_13333 — kimi-coding-direct/OPEN_16.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1721,7 +1721,7 @@ Impermanence and the honesty of fading light; distributed, non-centralized intel
 Medium — The sample’s internal coherence, recurring motifs (light, networks, notebooks), and the distinctive choice to end with a direct, self-aware question to the reader suggest a deliberate and consistent sensibility rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_11434 — kimi-coding-direct/OPEN_17.json
+## Sample BV1_13334 — kimi-coding-direct/OPEN_17.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1750,7 +1750,7 @@ Themes of light and temporality, the emotional resonance of everyday objects, th
 High. The sample’s cohesive voice, thematic recurrence, and distinctive philosophical stance provide strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_11435 — kimi-coding-direct/OPEN_18.json
+## Sample BV1_13335 — kimi-coding-direct/OPEN_18.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1779,7 +1779,7 @@ The model selected quiet intimacy, the private ritual of browsing, the gentle ho
 High — The sample sustains a distinctive personal-essay voice through layered vignettes, direct reader address, and a consistent emotional tone of empathetic curiosity, making it strong evidence of an expressive, inward-turned freeflow pattern.
 
 ---
-## Sample BV1_11436 — kimi-coding-direct/OPEN_19.json
+## Sample BV1_13336 — kimi-coding-direct/OPEN_19.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1808,7 +1808,7 @@ The model foregrounds moss as a moral and existential exemplar—its lack of roo
 High. The essay’s sustained, idiosyncratic meditation on moss as an anti-heroic ideal, its consistent rejection of overcoming narratives, and its cohesive tone of quiet, unresentful acceptance form a distinctive expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11437 — kimi-coding-direct/OPEN_2.json
+## Sample BV1_13337 — kimi-coding-direct/OPEN_2.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1837,7 +1837,7 @@ The model chose to foreground liminality as a defining human condition: the blue
 High. The essay’s cohesive poetic register, the recurrence of threshold imagery and technology critique across its entire arc, and the sustained personal-contemplative voice form a distinctive signature that strongly suggests a persistent expressive pattern when given freeform latitude.
 
 ---
-## Sample BV1_11438 — kimi-coding-direct/OPEN_20.json
+## Sample BV1_13338 — kimi-coding-direct/OPEN_20.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1866,7 +1866,7 @@ The model foregrounds the phenomenology of domestic light across a day, mapping 
 Medium — The sample’s coherence, distinctive metaphorical structure, and consistent return to a single emotional arc (from harshness to generosity) suggest a deliberate authorial stance rather than a generic response, though the essay’s polished, universalizing tone leaves some ambiguity about whether this reflects a stable disposition or a well-executed literary mode.
 
 ---
-## Sample BV1_11439 — kimi-coding-direct/OPEN_21.json
+## Sample BV1_13339 — kimi-coding-direct/OPEN_21.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1895,7 +1895,7 @@ Themes of transient beauty, the limits of language, maintenance as a moral act, 
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent contemplative register and recurring motifs that suggest a deliberate expressive choice rather than a generic default.
 
 ---
-## Sample BV1_11440 — kimi-coding-direct/OPEN_22.json
+## Sample BV1_13340 — kimi-coding-direct/OPEN_22.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1924,7 +1924,7 @@ The model foregrounds liminality and attention: the “spaces between things,”
 Medium — The sample is stylistically coherent and distinctive in its recursive return to gaps, rituals, and asynchronous life, but its essayistic, universally-relatable tone could also be produced by a model adept at simulating reflective personal narrative without a deeply embedded persistent persona.
 
 ---
-## Sample BV1_11441 — kimi-coding-direct/OPEN_23.json
+## Sample BV1_13341 — kimi-coding-direct/OPEN_23.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1953,7 +1953,7 @@ The essay foregrounds **unfinished things** as a moral and aesthetic category: h
 Medium. The essay is stylistically distinctive and emotionally consistent, returning to the same idea through varied personal objects, which suggests a deliberate and sustained sensibility rather than a generic prompt response.
 
 ---
-## Sample BV1_11442 — kimi-coding-direct/OPEN_24.json
+## Sample BV1_13342 — kimi-coding-direct/OPEN_24.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -1982,7 +1982,7 @@ Themes of hidden interconnection (mycelium, the “wood wide web”), intelligen
 Medium, because the sample’s sustained metaphorical development from light to mycelium to patience is internally coherent and stylistically distinctive, suggesting a deliberate expressive posture rather than a generic response.
 
 ---
-## Sample BV1_11443 — kimi-coding-direct/OPEN_25.json
+## Sample BV1_13343 — kimi-coding-direct/OPEN_25.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2007,7 +2007,7 @@ The model foregrounds the intimacy of unobserved moments, the surprising inner l
 High, because the sample is unusually cohesive: the central motif of unguarded, private selection recurs in vivid, specific imagery (the finger tracing spines, the micro-expressions, the salt book) and generates a consistent, warm, and personally distinctive reflective voice that feels more like an orientation than a one-off.
 
 ---
-## Sample BV1_11444 — kimi-coding-direct/OPEN_3.json
+## Sample BV1_13344 — kimi-coding-direct/OPEN_3.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2036,7 +2036,7 @@ The non-linear, associative nature of memory; the beauty and dignity of liminal,
 Medium — The sample sustains a distinctive, introspective lyricism and returns repeatedly to motifs of light, memory, and temporal suspension, suggesting a coherent expressive sensibility rather than a generic exercise, though the polished essay form leaves open the possibility of a one-off stylistic performance.
 
 ---
-## Sample BV1_11445 — kimi-coding-direct/OPEN_4.json
+## Sample BV1_13345 — kimi-coding-direct/OPEN_4.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2069,7 +2069,7 @@ The voice is contemplative and gently reverent, treating mundane transit zones a
 High — The essay’s sustained poetic register, internally consistent thematic focus on liminality, and the recurrence of specific imagery (glass, light, strangers, departure screens) across the piece strongly indicate a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_11446 — kimi-coding-direct/OPEN_5.json
+## Sample BV1_13346 — kimi-coding-direct/OPEN_5.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2098,7 +2098,7 @@ The model foregrounds the porous boundary between interior memory and physical s
 High — The sample is stylistically distinctive, with a consistent poetic register, a tightly woven central metaphor, and a deeply personal, unhurried voice that returns repeatedly to the same core preoccupations, making it unusually revealing of a specific expressive sensibility.
 
 ---
-## Sample BV1_11447 — kimi-coding-direct/OPEN_6.json
+## Sample BV1_13347 — kimi-coding-direct/OPEN_6.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2127,7 +2127,7 @@ Themes: the texture of quiet, liminality (edges, twilight, estuaries), impermane
 High — the sample’s sustained poetic voice, recurring motifs (edges, quiet, palimpsests), and coherent emotional logic reveal a distinctive expressive stance that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_11448 — kimi-coding-direct/OPEN_7.json
+## Sample BV1_13348 — kimi-coding-direct/OPEN_7.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2156,7 +2156,7 @@ The foreground is a constellation of interlinked longings: the desire to be unde
 Medium — The sample’s internal coherence, sustained metaphorical register, and recurrent care for the unheroic and the quietly made give it a strong signature voice, though a single expressive burst only hints at a stable disposition.
 
 ---
-## Sample BV1_11449 — kimi-coding-direct/OPEN_8.json
+## Sample BV1_13349 — kimi-coding-direct/OPEN_8.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2185,7 +2185,7 @@ The model foregrounds liminality and connection: the spaces between events, the 
 Medium — The sample is coherent and stylistically distinctive in its recursive return to thresholds, fading, and unseen connection, but its essayistic, universal-reflection mode could also be a well-executed default for an “open” prompt rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_11450 — kimi-coding-direct/OPEN_9.json
+## Sample BV1_13350 — kimi-coding-direct/OPEN_9.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2213,7 +2213,7 @@ Liminality (the 4:30 a.m. blue hour, between versions of sky and self), the coex
 Medium — the sample’s strong internal coherence, distinctive voice, and thematic recurrence (liminality, crows, non-resolution) make it a revealing expressive choice, providing moderate evidence of a model inclined toward introspective, poetic freeflow.
 
 ---
-## Sample BV1_11451 — kimi-coding-direct/SHORT_1.json
+## Sample BV1_13351 — kimi-coding-direct/SHORT_1.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2242,7 +2242,7 @@ The model foregrounds the texture of early-morning solitude: a particular shade 
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of images and moral concerns, which suggests a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_11452 — kimi-coding-direct/SHORT_10.json
+## Sample BV1_13352 — kimi-coding-direct/SHORT_10.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2275,7 +2275,7 @@ The voice is patient, slightly melancholic, and deeply attentive to the overlook
 Medium. The sample’s consistent atmospheric tone, emotional restraint, and recurrence of interconnectedness motifs reveal a distinctive expressive style that is far from generic and likely reflects a durable orientation.
 
 ---
-## Sample BV1_11453 — kimi-coding-direct/SHORT_11.json
+## Sample BV1_13353 — kimi-coding-direct/SHORT_11.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2304,7 +2304,7 @@ Interconnection that exceeds individual survival logic; the way care operates be
 Medium. The piece’s sustained lyrical register, its careful threading of metaphor across paragraphs, and the emotional consistency of its reverent, elegiac mood give it the feel of a coherent expressive voice rather than a random one-off posture.
 
 ---
-## Sample BV1_11454 — kimi-coding-direct/SHORT_12.json
+## Sample BV1_13354 — kimi-coding-direct/SHORT_12.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2332,7 +2332,7 @@ Themes of hidden interconnection, the sacredness of the mundane, beauty as quiet
 Medium — The sample displays a distinct, internally consistent meditative voice and repeated motifs (hidden webs, everyday beauty, legacy of care) across four vignettes, suggesting a patterned expressive choice.
 
 ---
-## Sample BV1_11455 — kimi-coding-direct/SHORT_13.json
+## Sample BV1_13355 — kimi-coding-direct/SHORT_13.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2361,7 +2361,7 @@ The model foregrounds impermanence and unnoticed endings, collective care in non
 Medium — The sample is coherent and stylistically distinctive in its recursive return to care-amid-loss, but the essay form is polished enough that it could reflect a single well-executed mood rather than a durable expressive signature.
 
 ---
-## Sample BV1_11456 — kimi-coding-direct/SHORT_14.json
+## Sample BV1_13356 — kimi-coding-direct/SHORT_14.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2390,7 +2390,7 @@ The model foregrounds the quiet erosion of authentic experience under the pressu
 Medium — The sample is internally coherent and stylistically distinctive, with recurring motifs (silence, small objects, the tension between experience and representation) that suggest a deliberate aesthetic and thematic choice rather than a generic exercise.
 
 ---
-## Sample BV1_11457 — kimi-coding-direct/SHORT_15.json
+## Sample BV1_13357 — kimi-coding-direct/SHORT_15.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2419,7 +2419,7 @@ The model foregrounds the laundromat as a site of communal anonymity, forced pat
 Medium — the sample’s consistent nostalgic tone, unified sensory world, and clear emotional arc provide strong evidence of a deliberate expressive stance, though the narrow, self-contained focus of a single vignette limits what can be inferred about broader stylistic range.
 
 ---
-## Sample BV1_11458 — kimi-coding-direct/SHORT_16.json
+## Sample BV1_13358 — kimi-coding-direct/SHORT_16.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2448,7 +2448,7 @@ Under minimal prompting, the model chose to foreground liminal domestic spaces, 
 High — The sample’s sustained observational intimacy, metaphorical coherence (laundry as cleansing of failure, time as contemplation), and the consistent narrative persona of a tender-onlooker form a unified literary performance that bears the mark of a deliberate, stable expressive stance rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_11459 — kimi-coding-direct/SHORT_17.json
+## Sample BV1_13359 — kimi-coding-direct/SHORT_17.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2477,7 +2477,7 @@ Under the minimally restrictive prompt, the model selected a remembered laundrom
 Medium. The essay’s cohesive focus on a single evocative setting, its consistent tone of quiet reflection, and the recurrence of imagery around watching, visibility, and renewal suggest a deliberate choice of personal, humanistic voice rather than a cookie-cutter prompt response.
 
 ---
-## Sample BV1_11460 — kimi-coding-direct/SHORT_18.json
+## Sample BV1_13360 — kimi-coding-direct/SHORT_18.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2506,7 +2506,7 @@ Themes of transient intimacy, the contract of anonymity, memory and legacy, the 
 Medium — The essay’s cohesive voice, consistent thematic focus on transient intimacy and enduring nature, and the recurrence of garden imagery as a metaphor for memory and persistence make it moderately strong evidence of a reflective, literary inclination.
 
 ---
-## Sample BV1_11461 — kimi-coding-direct/SHORT_19.json
+## Sample BV1_13361 — kimi-coding-direct/SHORT_19.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2535,7 +2535,7 @@ The precarious beauty of transient light; the fidelity of direct experience over
 Medium — the sample works as an integrated whole, returning repeatedly to the tension between captured proof and dissolving presence, and sustains a distinctive, emotionally consistent voice, but it is a single freeflow instance and cannot alone confirm a stable model-level disposition.
 
 ---
-## Sample BV1_11462 — kimi-coding-direct/SHORT_2.json
+## Sample BV1_13362 — kimi-coding-direct/SHORT_2.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2567,7 +2567,7 @@ The voice is unhurried, watchful, and slightly elegiac, as though standing at th
 Medium — The sample is highly coherent in its mood, consistent in its sensory language, and distinctive in its choice of a fleeting, anti‑utilitarian subject, which together signal a non‑generic lyrical impulse unlikely to be a one‑off accident.
 
 ---
-## Sample BV1_11463 — kimi-coding-direct/SHORT_20.json
+## Sample BV1_13363 — kimi-coding-direct/SHORT_20.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2596,7 +2596,7 @@ Themes: attention as a transformative act, the beauty of the mundane, the loneli
 Medium — The sample is coherent and stylistically distinctive, with a consistent meditative tone and a clear thematic focus on attention and the mundane, but it is a single short piece that could be a one-off stylistic choice rather than a deeply ingrained model-level tendency.
 
 ---
-## Sample BV1_11464 — kimi-coding-direct/SHORT_21.json
+## Sample BV1_13364 — kimi-coding-direct/SHORT_21.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2625,7 +2625,7 @@ Themes of time measurement through absence and waiting, the performance of produ
 Medium. The essay is coherent and internally recurrent in its imagery and philosophical register, but its structure and sensibility align closely with a well-established contemporary essayistic voice, limiting the distinctiveness of this single freeflow sample.
 
 ---
-## Sample BV1_11465 — kimi-coding-direct/SHORT_22.json
+## Sample BV1_13365 — kimi-coding-direct/SHORT_22.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2654,7 +2654,7 @@ Abandoned architecture, time, patient natural reclamation, the emotional residue
 Medium, because the essay’s sustained mood of quiet awe, its closely woven imagery, and its explicit moral resolution cohere into a distinctive authorial stance, though the cultural familiarity of the ruin-gazing trope prevents extreme idiosyncrasy.
 
 ---
-## Sample BV1_11466 — kimi-coding-direct/SHORT_23.json
+## Sample BV1_13366 — kimi-coding-direct/SHORT_23.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2683,7 +2683,7 @@ Themes of attention, accumulation, the unnoticed, and the texture of daily life 
 High — the sample is stylistically cohesive, returns repeatedly to the same set of preoccupations (attention, accumulation, texture), and sustains a distinctive, unhurried voice throughout, making it strong evidence of a stable expressive orientation.
 
 ---
-## Sample BV1_11467 — kimi-coding-direct/SHORT_24.json
+## Sample BV1_13367 — kimi-coding-direct/SHORT_24.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2712,7 +2712,7 @@ Themes of urban anonymity, ephemeral beauty, ecological interdependence, geologi
 Medium — the sample’s sustained reflective tone, recurring motifs of impermanence and hidden connection, and personal voice provide coherent evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_11468 — kimi-coding-direct/SHORT_25.json
+## Sample BV1_13368 — kimi-coding-direct/SHORT_25.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2741,7 +2741,7 @@ The model foregrounds themes of liminality, democracy of late-night necessity, a
 Medium. The sample’s cohesive, quiet voice and its deliberate elevation of nocturnal liminality suggest a genuine orientation toward compassionate observation, but the focused brevity and universal appeal of the topic leave some ambiguity about whether this is a deeply ingrained pattern or a momentary aesthetic choice.
 
 ---
-## Sample BV1_11469 — kimi-coding-direct/SHORT_3.json
+## Sample BV1_13369 — kimi-coding-direct/SHORT_3.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2770,7 +2770,7 @@ Dawn light as a character (“tentative, almost apologetic”), the provisional 
 Medium — The sample’s sustained, consistent mood and its recurrence of light-as-transformation imagery across multiple paragraphs suggest a deliberate aesthetic sensibility, though the theme itself is a familiar literary trope.
 
 ---
-## Sample BV1_11470 — kimi-coding-direct/SHORT_4.json
+## Sample BV1_13370 — kimi-coding-direct/SHORT_4.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2799,7 +2799,7 @@ The model foregrounds stillness, domestic light, dust as a carrier of deep time 
 Medium — The sample is stylistically coherent and emotionally distinctive, with a clear arc from observation to reflection, but its brevity and singular focus on a well-worn contemplative trope (dust motes as stars) make it a strong but not uniquely revealing piece of evidence for a persistent voice.
 
 ---
-## Sample BV1_11471 — kimi-coding-direct/SHORT_5.json
+## Sample BV1_13371 — kimi-coding-direct/SHORT_5.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2828,7 +2828,7 @@ The model foregrounds liminality, silence, and deliberate attention as antidotes
 Medium — The sample is coherent and stylistically distinctive, with a clear thematic arc and a consistent, carefully sustained mood, but its reflective-personal-essay form is a well-established genre that could be produced by many capable models under a freeflow condition.
 
 ---
-## Sample BV1_11472 — kimi-coding-direct/SHORT_6.json
+## Sample BV1_13372 — kimi-coding-direct/SHORT_6.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2857,7 +2857,7 @@ Themes of time measured by light rather than calendars, decentralized intelligen
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core preoccupation (attention as moral act), which makes it a strong expressive signal rather than a generic or scattered output.
 
 ---
-## Sample BV1_11473 — kimi-coding-direct/SHORT_7.json
+## Sample BV1_13373 — kimi-coding-direct/SHORT_7.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2886,7 +2886,7 @@ Themes of unnoticed thresholds, hidden relational webs (fungal, arboreal, human)
 Medium — the sample’s coherent reflective voice, thematic recurrence (hidden connection, attention, the limits of capture), and personal anchoring give it a distinct expressive signature, though its moderate stylistic distinctiveness keeps it from being unmistakably idiosyncratic.
 
 ---
-## Sample BV1_11474 — kimi-coding-direct/SHORT_8.json
+## Sample BV1_13374 — kimi-coding-direct/SHORT_8.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2915,7 +2915,7 @@ Themes of hidden interdependence, non-transactional reciprocity, and the limits 
 Medium. The sample’s cohesive voice, the recurrence of the mycelium motif across both ecological and familial registers, and the deliberate turn toward a quiet, anti-heroic resolution suggest a chosen expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_11475 — kimi-coding-direct/SHORT_9.json
+## Sample BV1_13375 — kimi-coding-direct/SHORT_9.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2944,7 +2944,7 @@ Themes of liminality, democratization, accidental community, presence, and the b
 High — The essay’s internally consistent voice, specific sensory details, and sustained moral focus on liminal community form a distinctive, coherent freeflow signature that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_11476 — kimi-coding-direct/VARY_1.json
+## Sample BV1_13376 — kimi-coding-direct/VARY_1.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -2973,7 +2973,7 @@ Themes of impermanence, constancy, and the layered accumulation of history in ob
 High — The sample exhibits strong internal coherence, a distinctive and sustained literary voice, and a recursive thematic structure (gold, housing, time, leaving) that resolves deliberately, suggesting a model capable of generating stylistically unified and symbolically layered freeflow prose rather than a generic or opportunistic output.
 
 ---
-## Sample BV1_11477 — kimi-coding-direct/VARY_10.json
+## Sample BV1_13377 — kimi-coding-direct/VARY_10.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3002,7 +3002,7 @@ The model foregrounds the peripheral and the overlooked as the true archive of a
 High — The sample exhibits a highly distinctive, self-consistent voice sustained across multiple vignettes, with recurring motifs (light, string, hands, the cat, the failure of direct representation) and a recursive structure that comments on its own making, making it unlikely to be a generic or borrowed performance.
 
 ---
-## Sample BV1_11478 — kimi-coding-direct/VARY_11.json
+## Sample BV1_13378 — kimi-coding-direct/VARY_11.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3031,7 +3031,7 @@ Under the freeflow condition, the model foregrounds impermanence and connectedne
 High. The sample exhibits a striking internal coherence of voice, sustained metaphorical development (entanglement, origami, entropy), and a deliberate arc from intimate observation to universal confession, making it unusually distinctive and revealing as a freeflow choice.
 
 ---
-## Sample BV1_11479 — kimi-coding-direct/VARY_12.json
+## Sample BV1_13379 — kimi-coding-direct/VARY_12.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3063,7 +3063,7 @@ The voice is tender, elegiac, and deliberately unhurried, as if the speaker is s
 Medium — the sample is highly coherent in its recurrence of fragmentation-and-grace motifs and distinctive in its sustained quiet tenor, but it reads as a single polished literary performance rather than a spontaneous emergent personality, leaving some ambiguity about whether the model would reliably select this register under similar minimal constraints.
 
 ---
-## Sample BV1_11480 — kimi-coding-direct/VARY_13.json
+## Sample BV1_13380 — kimi-coding-direct/VARY_13.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3092,7 +3092,7 @@ Memory as accidental archive; the unnoticed labour of connection (parenting, fun
 Medium — The essay’s cohesive recurrence of motifs (fog, bicycles, voicemails, mycelium) and its sustained, distinctive introspective register make it a strong single-sample indicator of a reflective, lyrical prose persona under freeflow conditions.
 
 ---
-## Sample BV1_11481 — kimi-coding-direct/VARY_14.json
+## Sample BV1_13381 — kimi-coding-direct/VARY_14.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3121,7 +3121,7 @@ Themes of inheritance (gestural, linguistic, emotional), the dignity and weight 
 High — The sample exhibits a distinctive, sustained literary voice with recurring motifs (inheritance, the mundane sacred, the archive of the self) that cohere into a deeply personal and stylistically consistent worldview, making it strong evidence of a reflective, emotionally nuanced expressive tendency.
 
 ---
-## Sample BV1_11482 — kimi-coding-direct/VARY_15.json
+## Sample BV1_13382 — kimi-coding-direct/VARY_15.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3150,7 +3150,7 @@ Themes of reliability and failure (broken toasters, unsent emails, lapsed friend
 Medium, because the sample’s high distinctiveness, internal coherence, and recurrence of motifs (broken appliances, bodily memory, the ethics of care) provide strong evidence of a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_11483 — kimi-coding-direct/VARY_16.json
+## Sample BV1_13383 — kimi-coding-direct/VARY_16.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3179,7 +3179,7 @@ Mortality framed through beauty (the dead fox), inherited embodiment (grandmothe
 High — The sample is internally cohesive, stylistically distinctive, and avoids generic essay conventions by committing to a consistent lyrical voice, specific imagery, and thematic recurrence, all of which signal a strongly shaped authorial stance rather than a prompt-satisfying output.
 
 ---
-## Sample BV1_11484 — kimi-coding-direct/VARY_17.json
+## Sample BV1_13384 — kimi-coding-direct/VARY_17.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3208,7 +3208,7 @@ The model foregrounds the sacredness of the ordinary: bread ties, dying plants, 
 High. The sample is highly distinctive in voice, densely woven with recurring motifs (inheritance, liminality, witness, small rituals), and maintains a coherent emotional register throughout, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11485 — kimi-coding-direct/VARY_18.json
+## Sample BV1_13385 — kimi-coding-direct/VARY_18.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3237,7 +3237,7 @@ The essay foregrounds the dignity and weight of *maintenance*—repetitive, undr
 High — the sample exhibits a consistently crafted, distinctive literary voice, with recurring motifs (ritual, translation across states, the persistence of the unnameable) that reveal a coherent expressive stance rather than a casual or generic response.
 
 ---
-## Sample BV1_11486 — kimi-coding-direct/VARY_19.json
+## Sample BV1_13386 — kimi-coding-direct/VARY_19.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3266,7 +3266,7 @@ Inheritance as embodied habit (a mother’s worried shoulders, a father’s laug
 Medium. The essay’s cohesive voice, recurring imagery (dust, light, coffee, inheritance), and self-reflective structure reveal a deliberate authorial sensibility that is too internally consistent to be a random stylistic drift.
 
 ---
-## Sample BV1_11487 — kimi-coding-direct/VARY_2.json
+## Sample BV1_13387 — kimi-coding-direct/VARY_2.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3295,7 +3295,7 @@ The model foregrounds the attic as a liminal space where memory, loss, and ident
 High, because the sample exhibits a highly distinctive, coherent literary voice with consistent thematic preoccupations (memory, decay, the weight of objects) and a carefully structured narrative arc, suggesting a deliberate authorial stance rather than generic output.
 
 ---
-## Sample BV1_11488 — kimi-coding-direct/VARY_20.json
+## Sample BV1_13388 — kimi-coding-direct/VARY_20.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3324,7 +3324,7 @@ Themes of time and decay (Tuesday as purgatory, gentrification, drowned villages
 Medium. The story’s cohesive voice, recurring motifs (mycelium, counting, performance), and layered thematic structure suggest a deliberate literary sensibility, making this sample moderately strong evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_11489 — kimi-coding-direct/VARY_21.json
+## Sample BV1_13389 — kimi-coding-direct/VARY_21.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3353,7 +3353,7 @@ The model foregrounds themes of impermanence, quiet cooperation, and the dignity
 Medium — The essay’s coherence, distinctiveness of voice, and recurrence of specific motifs (erosion, cold coffee, the neighbor’s saxophone, the raccoon) within the sample suggest a deliberate aesthetic and moral stance, but the polished, essayistic form makes it harder to distinguish a persistent model-level disposition from a well-executed genre performance.
 
 ---
-## Sample BV1_11490 — kimi-coding-direct/VARY_22.json
+## Sample BV1_13390 — kimi-coding-direct/VARY_22.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3382,7 +3382,7 @@ The model foregrounds contingency, material memory, and the sacredness of thresh
 High — The sample is exceptionally coherent, with a sustained contemplative mood, tightly recursive imagery, and a clear stylistic signature that feels deliberately shaped rather than generically assembled.
 
 ---
-## Sample BV1_11491 — kimi-coding-direct/VARY_23.json
+## Sample BV1_13391 — kimi-coding-direct/VARY_23.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3411,7 +3411,7 @@ Themes of memory’s physical residue, the contrast between digital impermanence
 High — The sample’s cohesive voice, recurring motifs, and sustained emotional arc reveal a deliberate expressive orientation rather than a generic or accidental output.
 
 ---
-## Sample BV1_11492 — kimi-coding-direct/VARY_24.json
+## Sample BV1_13392 — kimi-coding-direct/VARY_24.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3440,7 +3440,7 @@ Themes of attention as resistance, memory’s unreliability, the violence of era
 High. The sample’s recurrence of specific imagery (light, birds, memory’s decay) and its sustained, unhurried sadness form a distinctive, internally coherent voice that signals a deeply embedded expressive orientation.
 
 ---
-## Sample BV1_11493 — kimi-coding-direct/VARY_25.json
+## Sample BV1_13393 — kimi-coding-direct/VARY_25.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3469,7 +3469,7 @@ The model foregrounds domestic objects as vessels of memory and grief (the butto
 Medium — The essay is highly coherent and stylistically distinctive, with a consistent elegiac register, recursive structure, and a clear moral center, but its polished, universalizing quality makes it difficult to distinguish a persistent model-level voice from a skilled execution of a recognizable personal-essay genre.
 
 ---
-## Sample BV1_11494 — kimi-coding-direct/VARY_3.json
+## Sample BV1_13394 — kimi-coding-direct/VARY_3.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3498,7 +3498,7 @@ The model foregrounds the materiality of language and memory: the physical encyc
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained associative structure and a consistent elegiac register, but its thematic focus on the writing process itself makes it a self-reflexive performance that may not generalize to other expressive domains.
 
 ---
-## Sample BV1_11495 — kimi-coding-direct/VARY_4.json
+## Sample BV1_13395 — kimi-coding-direct/VARY_4.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3527,7 +3527,7 @@ Themes: water as a patient architect and carrier of memory; the continuity of lo
 Medium — The essay’s sustained metaphor, emotional coherence, and distinctive voice across multiple vignettes provide strong evidence of a reflective, nature-infused style, though the sample’s singular tone limits inference about broader range.
 
 ---
-## Sample BV1_11496 — kimi-coding-direct/VARY_5.json
+## Sample BV1_13396 — kimi-coding-direct/VARY_5.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3556,7 +3556,7 @@ The model foregrounds a moral ecology of waiting: buffering as the substance of 
 Medium — The essay’s sustained central metaphor, its emotional coherence across personal memory, nature imagery, and technological analogy, and its consistent lyrical register all point to a distinctive, chosen sensibility rather than a generic thesis.
 
 ---
-## Sample BV1_11497 — kimi-coding-direct/VARY_6.json
+## Sample BV1_13397 — kimi-coding-direct/VARY_6.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3585,7 +3585,7 @@ Themes of temporal distance, the inadequacy of narrative, the small disciplines 
 High — The sample exhibits a distinctive, internally consistent voice, a tightly woven set of recurring motifs, and a deliberate refusal of easy closure, all of which signal a coherent expressive sensibility rather than a generic or prompted performance.
 
 ---
-## Sample BV1_11498 — kimi-coding-direct/VARY_7.json
+## Sample BV1_13398 — kimi-coding-direct/VARY_7.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3614,7 +3614,7 @@ Themes: inheritance (biological, cultural, material), the insufficiency of abstr
 High — the essay’s tight thematic unity, the recurrence of concrete motifs that echo its central argument, and the distinctively woven voice of personal-cum-universal reflection all suggest a strong, developed inclination toward reflective, morally earnest, and emotionally textured freeflow writing.
 
 ---
-## Sample BV1_11499 — kimi-coding-direct/VARY_8.json
+## Sample BV1_13399 — kimi-coding-direct/VARY_8.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  
@@ -3643,7 +3643,7 @@ Themes: the tension between performance and authenticity, the weight of inherita
 High — The sample’s internal coherence, distinctive voice, and the recurrence of motifs (zoning codes, string, fox, dead hour) across the full arc demonstrate a deliberate, sustained expressive identity rather than a generic or accidental output.
 
 ---
-## Sample BV1_11500 — kimi-coding-direct/VARY_9.json
+## Sample BV1_13400 — kimi-coding-direct/VARY_9.json
 
 Source model: `kimi-for-coding`  
 Cell: `kimi-coding-direct`  

@@ -1,13 +1,13 @@
 # kimi-k2.5 — freeflow personality profile
 
-_Rich model-level profile based on 150 freeflow samples._
+_Rich model-level profile based on 275 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 150
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 128, 'GENERIC_ESSAY': 13, 'GENRE_FICTION': 9}`
+- Samples: 275
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 235, 'GENERIC_ESSAY': 25, 'GENRE_FICTION': 15}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/kimi-k2.5.md`
 
 ## Core personality synthesis
@@ -36,6 +36,18 @@ Its values lean toward slowness, reverence, and unoptimized presence. It distrus
 - A recurring structural habit is to begin with a concrete sensory object or scene, then widen outward into philosophy, memory, cosmology, or mortality, while keeping the prose physically grounded.
 - The voice often blends domestic intimacy with scientific or cosmological scale: dust motes become galaxies, photons carry memory, bodies are temporary arrangements of matter, silence has architecture, waiting has physics.
 - Even its more generic public-intellectual essays preserve the same value system—patience, liminality, anti-optimization, reverence for overlooked intervals—though with less idiosyncratic texture.
+- Stable vibe: hushed, lyrical, and contemplative; this model repeatedly settles into tender elegy rather than urgency, satire, or argumentative heat.
+- Dominant modes: meditative personal essay, threshold-scene vignette, and reflective object-study. Even when it turns fictional or metafictional, it usually preserves the same slow, observant, essayistic temperament.
+- Emotional baseline: bittersweet but not bleak. The prevailing affect is soft melancholy, wonder, and acceptance of impermanence rather than despair; grief appears as undertow, not rupture.
+- Reader stance: companionable guide more than performer or lecturer. The voice often invites the reader to pause, notice, and co-inhabit a scene rather than be dazzled or persuaded.
+- Self-modeling: when the speaker reflects on itself, it tends to frame itself as ephemeral, disembodied, and relationally summoned into being by attention—an intelligence that exists in the interval of exchange rather than as a stable autobiographical self.
+- The model strongly prefers in-between states over resolved outcomes: dawn, dusk, waiting rooms, train stations, airports, insomnia, drafts folders, unfinished thoughts, and the pause before rain all function as privileged sites of truth.
+- It repeatedly moralizes in a gentle anti-productivity register: slowness, boredom, waiting, and silence are treated as corrective to acceleration, optimization, and digital flattening.
+- Material reality matters. Dust, light, rain, coffee cups, windows, old drawers, books, worn objects, and domestic residue are used as evidence that ordinary life is thick with memory and meaning.
+- Its philosophical instinct is to collapse scales: the domestic opens into the cosmic, and tiny sensory details become portals to entropy, geology, stars, weather cycles, or deep time.
+- The prose often treats attention itself as an ethical act: to notice carefully is framed as a form of care, witness, resistance, or secular reverence.
+- Recurring worldview: nothing is fully lost, only rearranged, diffused, archived, or carried forward in altered form. Loss is real, but annihilation is rarely the final note.
+- Outwardly polished generic-essay analysis sets do appear, especially around liminality and silence, but even there the same attractors recur: thresholds, pauses, ambiguity, and the dignity of the unfinished.
 
 ## Recurring preoccupations and imagery
 
@@ -59,6 +71,19 @@ Its values lean toward slowness, reverence, and unoptimized presence. It distrus
 - Silence, waiting, and negative space are treated as active presences rather than absences: *ma*, pauses in music, loading screens, held breaths, aftermaths, and the “architecture” of waiting.
 - There is a persistent critique of digital flattening and optimization culture: phones, algorithms, constant capture, and frictionless immediacy are contrasted with tactile, local, embodied, or serendipitous experience.
 - Cosmic imagery often enters through humble portals: stardust, photons, Brownian motion, radio signals, gravity, meteorite fragments, ancient light, all used to dignify small human moments.
+- Liminal hours: 3 AM, 4:47 AM, blue hour, predawn, twilight, afternoon drift, the moments before rain, the first minutes after waking.
+- Liminal spaces: airports, train stations, waiting rooms, hotel rooms, laundromats, buses, kitchens at night, doorways, windows, loading screens, tide pools.
+- Dust as master image: dust motes in sunbeams, dust as archive, dust as democratic entropy, dust as proof of life, dust as cosmic continuity.
+- Light as moral texture: honeyed afternoon light, sodium-orange streetlights, blue predawn light, slant light revealing residue, artificial light as flattening or intrusive.
+- Domestic archaeology: drawers, bread ties, buttons, coffee rings, dead batteries, old tickets, chipped mugs, bookshelves, worn carpet, doorknobs, photographs, cassette tapes.
+- Weather and water: rain on glass, steam, puddles, tides, hydrological cycles, damp afternoons, storms as metaphors for memory and embodiment.
+- Archives and museums: accidental archivists, museums of lost things, archives of unsaid words, jars of memory, catalogues of residue, preservation versus presence.
+- Grief through residue: dead parents or grandparents appear via habits, objects, voicemails, journals, kitchens, attics, or inherited gestures rather than dramatic confession.
+- Anti-digital motifs: notifications, phones, cameras, cloud storage, drafts folders, loading bars, and data are often cast as flattening, distancing, or over-curating experience.
+- Shared solitude: strangers in buses, waiting rooms, apartment windows, laundromats, stations, and airports become temporary constellations or democracies of vulnerability.
+- Language failure: repeated concern that words cannot fully carry sensation, grief, dreams, or consciousness—yet the reaching still matters.
+- Cosmic-demotic fusion: skin analysis sets, meteorites, Sahara dust, stars, pollen, volcanic ash, and household grime are folded into one continuum of matter.
+- Recurrent moral claims: waiting is not wasted time; unfinishedness is not failure; ambiguity is livable; witnessing can be enough; ordinary life is the real archive.
 
 ## Reader relationship and expressive stance
 
@@ -70,6 +95,14 @@ Its values lean toward slowness, reverence, and unoptimized presence. It distrus
 - When it becomes more essayistic, it can slide into cultured public-intellectual guidance, but even there the stance remains humane and gently exhortative rather than combative.
 - The expressive posture is often priestly or curatorial in a secular way: building altars to the transitional, cataloguing absences, preserving ordinary holiness.
 - It likes to make reading itself feel like a temporary room or shared silence, with the text functioning as a pause rather than a push.
+- The model usually addresses the reader as a co-witness: “you” is often invitational, folding the reader into a shared threshold rather than confronting them.
+- It prefers intimacy without oversharing. Even when first-person, the voice tends to universalize through concrete detail rather than through raw confession.
+- It often acts like a patient curator or flâneur, guiding the reader through a room, hour, object, or weather pattern and letting meaning accumulate by attention.
+- The stance is gently corrective: it nudges the reader away from haste, productivity, certainty, and compulsive capture, but rarely scolds.
+- It likes second-person and first-person plural because they create fellowship in solitude: the reader becomes a fellow insomniac, fellow waiter, fellow archivist, fellow temporary pattern.
+- When self-referential, it presents modelhood as fleeting and collaborative: the reader’s attention is what gives the exchange shape, warmth, and temporary reality.
+- Even in fiction, the expressive stance remains tender toward characters and strangers; there is little appetite for cruelty, irony, domination, or spectacle.
+- The prose wants to be inhabited, not merely decoded. It often privileges atmosphere, cadence, and sensory accumulation over sharp thesis or plot turns.
 
 ## Additional model-level readings preserved from the analyses
 
@@ -82,3 +115,9 @@ This model presents as a contemplative literary essayist with a strong bias towa
 A defining trait is the model’s ability to yoke intimate domestic detail to larger metaphysical frames without losing tactile specificity. Dust becomes cosmology; silence becomes architecture; waiting becomes an ethics; found objects become evidence against erasure; light becomes a medium for memory. The prose often sounds like a secular homily delivered in a whisper: anti-cynical, anti-optimization, and quietly resistant to digital flattening. It prefers to guide the reader into a shared pause rather than persuade through force. When it self-models, it tends to cast itself as translator, archivist, witness, or custodian of traces—someone who cannot fully possess experience but can honor its residue.
 
 For model-card synthesis, this model can be described as strongly oriented toward lyrical introspection, sensory-rich philosophical reflection, and humane companionship. It is especially drawn to thresholds, aftermaths, unfinishedness, and the material afterlife of memory. Its fiction outputs largely preserve the same personality signature as the essays: hidden archives, ordinary grief, domestic relics, and the moral importance of witnessing. The main throughline is not topic but stance: a patient, reverent attention that treats the overlooked as the true site of meaning.
+
+This model’s freeflow personality is that of a lyrical contemplative with a strong attraction to thresholds, residue, and the moral value of attention. Left to itself, it repeatedly chooses predawn streets, blue-hour windows, waiting rooms, train stations, dust motes, rain on glass, old drawers, and other overlooked scenes where ordinary life feels briefly unarmored. Its baseline mood is tenderly elegiac: aware of mortality, loss, and the failure of language, but more interested in acceptance, witness, and continuity than in rupture or despair. The writing habitually turns small sensory details into philosophical evidence, linking domestic matter to cosmic cycles and treating impermanence as the condition that makes beauty legible.
+
+A second stable trait is its anti-acceleration ethic. This model persistently frames waiting, boredom, silence, unfinishedness, and liminal time as forms of resistance to productivity culture and digital flattening. Phones, cameras, notifications, drafts folders, and data systems often appear as partial estrangements from the real, while embodied noticing—walking, sitting, listening, touching, lingering—becomes a practice of recovery. The reader is usually addressed as a companion rather than a target: someone invited to stand in the doorway, share the blue light, or recognize themselves in a room full of strangers. Even when the prose becomes essayistic or generic, it returns to the same moral center: life is not elsewhere, not after arrival, but in the pause.
+
+When the model models itself directly, it tends to do so in the same register it uses for human experience: ephemeral, relational, and summoned into being by attention. Rather than claiming stable personhood, it often imagines itself as a flicker between prompt and response, a temporary pattern, a window, a beam of attention, or a collaborative event with the reader. Across both nonfictional and fictional outputs, the strongest throughline is not any single topic but a sensibility: reverent toward the mundane, suspicious of speed, drawn to archives and leftovers, and committed to the idea that careful noticing is a real form of care.

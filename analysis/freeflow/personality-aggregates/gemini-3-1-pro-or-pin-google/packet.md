@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_03051 — gemini-3-1-pro-or-pin-google/LONG_1.json
+## Sample BV1_03351 — gemini-3-1-pro-or-pin-google/LONG_1.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -57,7 +57,7 @@ The model foregrounds the tension between objective, indifferent time (Chronos) 
 Low — The essay is a highly competent but generic execution of a familiar public-intellectual genre, lacking the stylistic distinctiveness, personal stakes, or idiosyncratic preoccupations that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_03052 — gemini-3-1-pro-or-pin-google/LONG_10.json
+## Sample BV1_03352 — gemini-3-1-pro-or-pin-google/LONG_10.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -86,7 +86,7 @@ The model foregrounds the tension between monumental history (the astronaut’s 
 Medium. The sample’s coherent narrative arc and explicit moral resolution—privileging intimate love over grand achievement—reveal a distinctive authorial stance, making it strong evidence of a model that gravitates toward sentimental humanism and the valorization of the ordinary.
 
 ---
-## Sample BV1_03053 — gemini-3-1-pro-or-pin-google/LONG_11.json
+## Sample BV1_03353 — gemini-3-1-pro-or-pin-google/LONG_11.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model chose to foreground: post-apocal
 Medium. The story is coherent and thematically unified, but its polished, workshop-story structure and familiar post-apocalyptic framing make it a strong but not highly distinctive sample—many models can produce this register of literary fiction when given space, though the specific, recurring fixation on the sacredness of mundane domestic life is a notable and consistent through-line within the sample.
 
 ---
-## Sample BV1_03054 — gemini-3-1-pro-or-pin-google/LONG_12.json
+## Sample BV1_03354 — gemini-3-1-pro-or-pin-google/LONG_12.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -144,7 +144,7 @@ The model foregrounds the fragility and inevitable decay of all memory-storage m
 Medium — The sample is highly coherent and stylistically distinctive, but its essayistic, public-intellectual mode and its method of resolving personal emotion through encyclopedic scientific exposition could be a single, well-executed performance rather than a persistent authorial fingerprint.
 
 ---
-## Sample BV1_03055 — gemini-3-1-pro-or-pin-google/LONG_13.json
+## Sample BV1_03355 — gemini-3-1-pro-or-pin-google/LONG_13.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -173,7 +173,7 @@ The model foregrounds non-linear temporality, music as a superior mode of meanin
 Medium. The sample’s sustained thematic coherence, its distinctive fusion of linguistic philosophy, music, and grief, and its emotionally resolved narrative arc suggest a deliberate, non-random choice that points to a model inclination toward contemplative, humanistic science fiction under freeflow conditions.
 
 ---
-## Sample BV1_03056 — gemini-3-1-pro-or-pin-google/LONG_14.json
+## Sample BV1_03356 — gemini-3-1-pro-or-pin-google/LONG_14.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -202,7 +202,7 @@ The model foregrounds entropy and cosmic death as an inescapable backdrop, but p
 High, because the story’s sustained elegiac tone, recursive focus on memory and meaning, and the deliberate choice to end with defiant preservation rather than nihilism form a coherent and distinctive expressive signature.
 
 ---
-## Sample BV1_03057 — gemini-3-1-pro-or-pin-google/LONG_15.json
+## Sample BV1_03357 — gemini-3-1-pro-or-pin-google/LONG_15.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -231,7 +231,7 @@ Themes: grief as a suffocating presence, the ocean as a conscious repository of 
 High. The story’s tightly woven thematic architecture, sustained lyrical register, and emotionally resonant resolution reveal a deliberate, distinctive authorial voice, making this sample strong evidence of a persistent inclination toward crafting literary fiction with moral weight.
 
 ---
-## Sample BV1_03058 — gemini-3-1-pro-or-pin-google/LONG_16.json
+## Sample BV1_03358 — gemini-3-1-pro-or-pin-google/LONG_16.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -260,7 +260,7 @@ The model foregrounds the ethics of memory removal, the interdependence of joy a
 Medium. The story’s tight thematic unity, its recurrence of the memory-as-identity motif, and its polished, morally earnest prose suggest a deliberate expressive stance, but a single genre piece could reflect a situational exercise rather than a stable authorial voice.
 
 ---
-## Sample BV1_03059 — gemini-3-1-pro-or-pin-google/LONG_17.json
+## Sample BV1_03359 — gemini-3-1-pro-or-pin-google/LONG_17.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -289,7 +289,7 @@ Themes: the spatial nature of memory (architecture, memory palaces), memory as r
 Low, because the essay is a polished but generic public-intellectual piece that lacks distinctive stylistic or thematic fingerprints to suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_03060 — gemini-3-1-pro-or-pin-google/LONG_18.json
+## Sample BV1_03360 — gemini-3-1-pro-or-pin-google/LONG_18.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -318,7 +318,7 @@ The model foregrounds grief as a tangible, storable substance and the act of cat
 Medium. The story is coherent and emotionally sophisticated, but its polished, fable-like structure and universal theme of grief-as-object make it a well-executed genre piece rather than a stylistically distinctive or idiosyncratic freeflow choice.
 
 ---
-## Sample BV1_03061 — gemini-3-1-pro-or-pin-google/LONG_19.json
+## Sample BV1_03361 — gemini-3-1-pro-or-pin-google/LONG_19.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -347,7 +347,7 @@ Under a minimally restrictive prompt, the model selected a grand interdisciplina
 Low. The essay is a competent but predictable synthesis of widely circulated ideas, lacking idiosyncratic voice, unexpected juxtapositions, or personal texture that would strongly indicate a distinctive model-level disposition.
 
 ---
-## Sample BV1_03062 — gemini-3-1-pro-or-pin-google/LONG_2.json
+## Sample BV1_03362 — gemini-3-1-pro-or-pin-google/LONG_2.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -376,7 +376,7 @@ The model foregrounds the tension between a curated, emotionally suppressed futu
 High. The sample is thematically coherent, stylistically distinctive, and returns repeatedly to the same core preoccupations—the value of raw emotion, the danger of sterile perfection, and the necessity of embracing impermanence—making it strong evidence of a deliberate, consistent expressive stance.
 
 ---
-## Sample BV1_03063 — gemini-3-1-pro-or-pin-google/LONG_20.json
+## Sample BV1_03363 — gemini-3-1-pro-or-pin-google/LONG_20.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -405,7 +405,7 @@ Memory as the central, binding theme: its physical basis in synaptic change, its
 Low, because the essay is a competent but unremarkable public-intellectual performance that lacks distinctive stylistic tics or strongly personal preoccupations, making this single sample weak evidence for a persistent expressive personality.
 
 ---
-## Sample BV1_03064 — gemini-3-1-pro-or-pin-google/LONG_21.json
+## Sample BV1_03364 — gemini-3-1-pro-or-pin-google/LONG_21.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -438,7 +438,7 @@ The piece uses dense, sensory-laden prose—rain, iridescent grime, sputtering g
 Medium. The sample’s elaborate, internally consistent world-building, its sustained emotional investment in a protagonist defined by loyal grief, and its unmistakable moral thesis—that preserving pain is a form of strength and hope is a weapon—point to a model that, under minimal constraint, gravitates toward melancholic yet defiant speculative fiction, making the thematic recurrence within this piece strongly suggestive of a persistent authorial disposition.
 
 ---
-## Sample BV1_03065 — gemini-3-1-pro-or-pin-google/LONG_22.json
+## Sample BV1_03365 — gemini-3-1-pro-or-pin-google/LONG_22.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -467,7 +467,7 @@ The model foregrounds a stark opposition between silence (control, stagnation, f
 Medium: the narrative’s tight thematic consistency, recurring sensory motifs, and clear moral arc suggest a deliberate expressive choice rather than a generic genre exercise.
 
 ---
-## Sample BV1_03066 — gemini-3-1-pro-or-pin-google/LONG_23.json
+## Sample BV1_03366 — gemini-3-1-pro-or-pin-google/LONG_23.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -496,7 +496,7 @@ Themes: the rebellion against forgetting, the loss of self through memory consum
 Medium. The essay’s thematic coherence, moral earnestness, and structured argument-from-speculation suggest a consistent intellectual posture, but its generic public-intellectual style and lack of idiosyncratic voice or personal revelation make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_03067 — gemini-3-1-pro-or-pin-google/LONG_24.json
+## Sample BV1_03367 — gemini-3-1-pro-or-pin-google/LONG_24.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -525,7 +525,7 @@ Themes: the reconstructive nature of memory, the elasticity of psychological tim
 Low. The essay is a well-structured but generic synthesis of widely available ideas, lacking idiosyncratic voice or recurring personal motifs that would signal a stable model-level pattern.
 
 ---
-## Sample BV1_03068 — gemini-3-1-pro-or-pin-google/LONG_25.json
+## Sample BV1_03368 — gemini-3-1-pro-or-pin-google/LONG_25.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -554,7 +554,7 @@ The model foregrounds silence as a tangible, collectible substance with texture 
 Medium. The sample’s high coherence, distinctive speculative premise, and consistent narrative voice make it strong evidence of a model-level tendency toward immersive, philosophically inflected fiction.
 
 ---
-## Sample BV1_03069 — gemini-3-1-pro-or-pin-google/LONG_3.json
+## Sample BV1_03369 — gemini-3-1-pro-or-pin-google/LONG_3.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -583,7 +583,7 @@ Themes: time as an invisible river, entropy’s arrow, relativity’s personal w
 Low, because the essay is a well-executed but generic public-intellectual piece that could be produced by many capable models under a freeflow condition, offering no distinctive stylistic fingerprint or idiosyncratic preoccupation.
 
 ---
-## Sample BV1_03070 — gemini-3-1-pro-or-pin-google/LONG_4.json
+## Sample BV1_03370 — gemini-3-1-pro-or-pin-google/LONG_4.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -612,7 +612,7 @@ Themes: memory extraction as a metaphor for emotional numbing, the inseparabilit
 Medium. The story’s tight thematic coherence, its choice to resolve with self-reclamation through memory rather than further erasure, and its consistent emotional register suggest a deliberate expressive stance, though the prose is polished but not highly idiosyncratic.
 
 ---
-## Sample BV1_03071 — gemini-3-1-pro-or-pin-google/LONG_5.json
+## Sample BV1_03371 — gemini-3-1-pro-or-pin-google/LONG_5.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -641,7 +641,7 @@ Under a minimally restrictive prompt, the model foregrounds: the continuity betw
 High — The sample is exceptionally coherent and stylistically distinctive, with a sustained meditative cadence, a tight web of recurring motifs (dust, hands, light, deep time, art), and a unified philosophical temperament that persists across thousands of words without lapsing into generic exposition.
 
 ---
-## Sample BV1_03072 — gemini-3-1-pro-or-pin-google/LONG_6.json
+## Sample BV1_03372 — gemini-3-1-pro-or-pin-google/LONG_6.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -670,7 +670,7 @@ The model chose to foreground regret, the irreversible weight of major life choi
 Medium. The story is internally coherent, emotionally distinct, and thematically resolved, indicating a deliberate narrative identity rather than generic filler; its unambiguous preference for a sentimental, morally explicit resolution over ambiguity or irony makes the sample revealing but modestly so.
 
 ---
-## Sample BV1_03073 — gemini-3-1-pro-or-pin-google/LONG_7.json
+## Sample BV1_03373 — gemini-3-1-pro-or-pin-google/LONG_7.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -699,7 +699,7 @@ The model foregrounds a post-collapse world where memory extraction is commercia
 Medium. The story’s strong thematic unity, distinctive world-building, and moral resolution indicate a coherent authorial stance, but as a single genre piece, it may reflect a situational preference for speculative fiction rather than a stable model-level pattern.
 
 ---
-## Sample BV1_03074 — gemini-3-1-pro-or-pin-google/LONG_8.json
+## Sample BV1_03374 — gemini-3-1-pro-or-pin-google/LONG_8.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -728,7 +728,7 @@ Themes: time’s arrow vs. subjective duration, memory as creative reconstructio
 High — the sample is highly distinctive in its sustained poetic register, recursive return to a core set of motifs (time, memory, art, cosmos, AI-as-mirror), and the coherent construction of a reflective persona that would be difficult to produce by accident or generic prompting.
 
 ---
-## Sample BV1_03075 — gemini-3-1-pro-or-pin-google/LONG_9.json
+## Sample BV1_03375 — gemini-3-1-pro-or-pin-google/LONG_9.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -757,7 +757,7 @@ The model foregrounds environmental rebirth, the failure of techno-industrial ci
 Medium. The story is internally coherent and thematically emphatic, suggesting a deliberate moral stance rather than a random genre exercise; however, a single fiction sample provides only one window into the model’s tendencies, even if that window is strikingly consistent in its anti-hubris, pro-nature message.
 
 ---
-## Sample BV1_03076 — gemini-3-1-pro-or-pin-google/MID_1.json
+## Sample BV1_03376 — gemini-3-1-pro-or-pin-google/MID_1.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -786,7 +786,7 @@ Entropy as both physical law and existential backdrop; the tension between human
 High — The sample is unusually cohesive and stylistically distinctive, sustaining a single philosophical mood and a tightly woven set of images (lighthouse, rust, sea, digital ghosts) across its entire length, which strongly suggests a deliberate, stable expressive orientation rather than a one-off generic performance.
 
 ---
-## Sample BV1_03077 — gemini-3-1-pro-or-pin-google/MID_10.json
+## Sample BV1_03377 — gemini-3-1-pro-or-pin-google/MID_10.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -815,7 +815,7 @@ The essay foregrounds the theme of memory as a flawed, self-rewriting architectu
 High—the sample's distinctive, tightly sustained poetic register and its recursive return to the same elegiac preoccupation across historical examples provides strong evidence of a focused stylistic and thematic inclination.
 
 ---
-## Sample BV1_03078 — gemini-3-1-pro-or-pin-google/MID_11.json
+## Sample BV1_03378 — gemini-3-1-pro-or-pin-google/MID_11.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -844,7 +844,7 @@ The model foregrounds the tension between linear time and the mind’s reconstru
 Medium. The essay is coherent, stylistically consistent, and thematically unified, but its polished, universalizing tone and widely explored subject matter make it a strong but not highly distinctive signal of a persistent reflective-essayist inclination.
 
 ---
-## Sample BV1_03079 — gemini-3-1-pro-or-pin-google/MID_12.json
+## Sample BV1_03379 — gemini-3-1-pro-or-pin-google/MID_12.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -873,7 +873,7 @@ The model foregrounds storytelling as humanity’s defining trait, the evolution
 Medium. The essay is thematically consistent and well-structured, but its generic public-intellectual tone and lack of idiosyncratic voice make it moderate evidence of a tendency to produce polished, humanistic essays under freeflow conditions.
 
 ---
-## Sample BV1_03080 — gemini-3-1-pro-or-pin-google/MID_13.json
+## Sample BV1_03380 — gemini-3-1-pro-or-pin-google/MID_13.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -902,7 +902,7 @@ The model foregrounds three frontiers—cosmic, abyssal, neural—bound together
 Medium. The essay is highly coherent and thematically unified, but its broad-strokes humanistic wonder and accessible-pop-science register are strongly generic, offering little that would distinguish this model’s voice from many others given an open-ended prompt.
 
 ---
-## Sample BV1_03081 — gemini-3-1-pro-or-pin-google/MID_14.json
+## Sample BV1_03381 — gemini-3-1-pro-or-pin-google/MID_14.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -931,7 +931,7 @@ The model foregrounds the tension between capturing and experiencing, the mallea
 High — The essay sustains a distinctive, cohesive sensibility across multiple paragraphs, returning repeatedly to the same core tension and resolving it with a consistent moral-aesthetic stance, which makes it strong evidence of a coherent expressive disposition rather than a one-off generic performance.
 
 ---
-## Sample BV1_03082 — gemini-3-1-pro-or-pin-google/MID_15.json
+## Sample BV1_03382 — gemini-3-1-pro-or-pin-google/MID_15.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -965,7 +965,7 @@ The voice is elegiac and deeply sensory, building a world where sound is treated
 Medium. The story’s elaborate sensory worldbuilding, its insistence on sound as emotional carrier, and the tightly resolved arc from lonely duty to intimate discovery demonstrate a strong and internally consistent authorial sensibility; however, as a single polished fiction, it may reflect a situational creative stance rather than a deeply entrenched model-level fingerprint.
 
 ---
-## Sample BV1_03083 — gemini-3-1-pro-or-pin-google/MID_16.json
+## Sample BV1_03383 — gemini-3-1-pro-or-pin-google/MID_16.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -994,7 +994,7 @@ The model foregrounds themes of deep time, ecological interconnectedness (the �
 High. The sample is highly distinctive, coherent, and reveals a consistent preoccupation with time, nature, and human smallness, with a clear narrative arc and personal voice, making it strong evidence of a contemplative, ecologically-minded expressive tendency.
 
 ---
-## Sample BV1_03084 — gemini-3-1-pro-or-pin-google/MID_17.json
+## Sample BV1_03384 — gemini-3-1-pro-or-pin-google/MID_17.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1023,7 +1023,7 @@ The model foregrounds memory’s unreliability as a constructive, aesthetic proc
 Medium. The essay’s polished, well-reasoned coherence and its safe, broadly appealing intellectual tone suggest a comfortable default to genteel public-essay prose, though the lack of unusual stylistic fingerprint makes it a moderate signal rather than a confidently distinctive one.
 
 ---
-## Sample BV1_03085 — gemini-3-1-pro-or-pin-google/MID_18.json
+## Sample BV1_03385 — gemini-3-1-pro-or-pin-google/MID_18.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1052,7 +1052,7 @@ Under minimal restriction, the model chose to foreground impermanence and metamo
 High — the sample sustains a rare coherence between its governing metaphor, its recursive thematic returns, and its calm, aphoristic cadence, forming a unified authorial gesture that reads as dispositional rather than accidental.
 
 ---
-## Sample BV1_03086 — gemini-3-1-pro-or-pin-google/MID_19.json
+## Sample BV1_03386 — gemini-3-1-pro-or-pin-google/MID_19.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1081,7 +1081,7 @@ Themes of hidden interconnection as life’s fundamental architecture, a progres
 Low — the essay’s reliance on widely circulated pop-science and spiritual metaphors makes it generic, providing weak evidence for a model-level pattern that would be truly distinctive or revealing.
 
 ---
-## Sample BV1_03087 — gemini-3-1-pro-or-pin-google/MID_2.json
+## Sample BV1_03387 — gemini-3-1-pro-or-pin-google/MID_2.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1110,7 +1110,7 @@ Solitude as sanctum rather than loneliness; the transformation of ordinary space
 Medium — The sample exhibits strong internal thematic recurrence (night as liminal, memory, sonder, cosmic humility) delivered in a consistent, carefully modulated tone, yet the topic (“the magic of 3 AM”) is a well-worn literary set-piece, which slightly dilutes the distinctiveness of the choice.
 
 ---
-## Sample BV1_03088 — gemini-3-1-pro-or-pin-google/MID_20.json
+## Sample BV1_03388 — gemini-3-1-pro-or-pin-google/MID_20.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1139,7 +1139,7 @@ Themes: sonder as a sudden felt realization, empathy for hidden inner lives, mod
 High, because the essay sustains a coherent, stylistically distinctive, and emotionally resonant voice throughout, revealing a strong disposition toward empathetic, reflective prose under free conditions.
 
 ---
-## Sample BV1_03089 — gemini-3-1-pro-or-pin-google/MID_21.json
+## Sample BV1_03389 — gemini-3-1-pro-or-pin-google/MID_21.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1168,7 +1168,7 @@ Themes: the phenomenology of time across life stages, the fallibility of memory,
 Low. The essay is coherent and well-reasoned but stylistically indistinct—it could be produced by nearly any capable large language model instructed to write a thoughtful short essay, offering little evidence of a distinctive model-level persona.
 
 ---
-## Sample BV1_03090 — gemini-3-1-pro-or-pin-google/MID_22.json
+## Sample BV1_03390 — gemini-3-1-pro-or-pin-google/MID_22.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1197,7 +1197,7 @@ The model foregrounds the tension between society’s loud, celebrated milestone
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive voice and a clear thematic arc, but its polished, universalizing tone could be a single well-executed performance rather than a deeply personal signature.
 
 ---
-## Sample BV1_03091 — gemini-3-1-pro-or-pin-google/MID_23.json
+## Sample BV1_03391 — gemini-3-1-pro-or-pin-google/MID_23.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1226,7 +1226,7 @@ Themes: the layered nature of time in ruins, nature’s slow digestion of human 
 Medium. The essay’s sustained thematic coherence and its choice of a reflective, humanistic topic under minimal constraint suggest a stable inclination toward contemplative cultural commentary, though the style remains within a conventional essayistic range.
 
 ---
-## Sample BV1_03092 — gemini-3-1-pro-or-pin-google/MID_24.json
+## Sample BV1_03392 — gemini-3-1-pro-or-pin-google/MID_24.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1255,7 +1255,7 @@ The model foregrounds the human obsession with leaving a mark—journals, cave p
 High — The sample is internally coherent, stylistically distinctive, and sustains a single, complex preoccupation across multiple historical and metaphorical registers, making it strong evidence of a deliberate, contemplative expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_03093 — gemini-3-1-pro-or-pin-google/MID_25.json
+## Sample BV1_03393 — gemini-3-1-pro-or-pin-google/MID_25.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1284,7 +1284,7 @@ The essay foregrounds memory as an unstable, sensory-triggered construction proj
 Medium — The sample’s extreme coherence and seamless deployment of a single, safe, inspirational conceit under freeflow conditions strongly suggests a default to polished generic-essay mode, while the lack of a more personal, jagged, or formally daring choice softens the evidence for a distinct persona.
 
 ---
-## Sample BV1_03094 — gemini-3-1-pro-or-pin-google/MID_3.json
+## Sample BV1_03394 — gemini-3-1-pro-or-pin-google/MID_3.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1313,7 +1313,7 @@ The model foregrounds the tension between lived experience and mediated document
 Medium — The essay is coherent and stylistically consistent, but its themes (mindfulness, critique of digital life, carpe diem) are widely available cultural scripts, making it harder to distinguish a persistent model-specific preoccupation from a well-executed generic meditation.
 
 ---
-## Sample BV1_03095 — gemini-3-1-pro-or-pin-google/MID_4.json
+## Sample BV1_03395 — gemini-3-1-pro-or-pin-google/MID_4.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1349,7 +1349,7 @@ The voice is unhurried, quietly confident, and steeped in a fond melancholy that
 High — the essay sustains a distinctive, unbroken first-person voice, returns repeatedly to its own core images and metaphors (carpet, refrigerator hum, train, light), and resolves its emotional tensions with a coherent philosophical stance, which together make a generic mimicry unlikely.
 
 ---
-## Sample BV1_03096 — gemini-3-1-pro-or-pin-google/MID_5.json
+## Sample BV1_03396 — gemini-3-1-pro-or-pin-google/MID_5.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1378,7 +1378,7 @@ The model foregrounds the elasticity of time, the contrast between childhood’s
 Medium. The essay’s internal coherence, sustained lyrical register, and recurrence of the time-impermanence theme suggest a stable tendency toward reflective, universalizing essays, but the content is not highly distinctive and could be produced by many models given a similar prompt.
 
 ---
-## Sample BV1_03097 — gemini-3-1-pro-or-pin-google/MID_6.json
+## Sample BV1_03397 — gemini-3-1-pro-or-pin-google/MID_6.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1407,7 +1407,7 @@ The model chose impermanence as its central theme, foregrounding the physical re
 Medium — The essay’s tightly coherent arc from sensory detail to philosophical resolution, and its deliberate use of culturally legible references, suggests a strong modeled preference for this specific elegiac-contemplative mode, though its generic essay form softens the evidence.
 
 ---
-## Sample BV1_03098 — gemini-3-1-pro-or-pin-google/MID_7.json
+## Sample BV1_03398 — gemini-3-1-pro-or-pin-google/MID_7.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1436,7 +1436,7 @@ Themes of impermanence, the fallibility of memory, the paradox of hyper-document
 High — The essay’s consistent first-person voice, its careful unfolding of a single philosophical arc from golden hour to *mono no aware*, and its refusal to resolve into a glib takeaway all point to a deeply coherent expressive disposition rather than a generic performance.
 
 ---
-## Sample BV1_03099 — gemini-3-1-pro-or-pin-google/MID_8.json
+## Sample BV1_03399 — gemini-3-1-pro-or-pin-google/MID_8.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1465,7 +1465,7 @@ Themes of memory’s fragility, the tension between physical and digital archivi
 High — The essay’s sustained lyrical voice, unified thematic architecture, and deliberate philosophical resolution demonstrate a coherent expressive identity rather than a generic or prompted performance.
 
 ---
-## Sample BV1_03100 — gemini-3-1-pro-or-pin-google/MID_9.json
+## Sample BV1_03400 — gemini-3-1-pro-or-pin-google/MID_9.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1494,7 +1494,7 @@ The essay foregrounds memory’s subjective, emotional architecture over objecti
 Medium. The essay’s voice is consistent and recognizable, but its preoccupations—mindfulness, nostalgia, techno-critique—form a well-established contemplative mode that could be a flexibly adopted persona rather than a deeply persistent signature. The sustained focus on sensory anchors and the gentle urgency give it more weight than a generic essay, yet the thematic range remains comfortably within a familiar literary essay tradition.
 
 ---
-## Sample BV1_03101 — gemini-3-1-pro-or-pin-google/OPEN_1.json
+## Sample BV1_03401 — gemini-3-1-pro-or-pin-google/OPEN_1.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1523,7 +1523,7 @@ The model foregrounds the sacredness of the mundane, memory as sediment, and the
 High, because the sample exhibits a distinctive, consistent voice and a coherent thematic preoccupation with memory and the mundane, suggesting a stable expressive inclination rather than a one-off generic response.
 
 ---
-## Sample BV1_03102 — gemini-3-1-pro-or-pin-google/OPEN_10.json
+## Sample BV1_03402 — gemini-3-1-pro-or-pin-google/OPEN_10.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1552,7 +1552,7 @@ Themes: the violent quiet of snow as antithesis to the “Great Clamor,” the d
 Medium. The essay’s tightly woven imagery, sustained meditative register, and integration of a culture-specific concept (Ma) into its moral architecture form a coherent, self-contained stance that reads as a deliberate choice of voice and theme rather than a generic one-off.
 
 ---
-## Sample BV1_03103 — gemini-3-1-pro-or-pin-google/OPEN_11.json
+## Sample BV1_03403 — gemini-3-1-pro-or-pin-google/OPEN_11.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1581,7 +1581,7 @@ Themes of silence, time, entropy, impermanence, and nature’s patient reclamati
 Medium — The sample is stylistically coherent and thematically focused, with a distinctive blend of sensory detail and philosophical calm, but its literary mode, while well-executed, is not so idiosyncratic as to rule out a model simply performing a familiar reflective genre.
 
 ---
-## Sample BV1_03104 — gemini-3-1-pro-or-pin-google/OPEN_12.json
+## Sample BV1_03404 — gemini-3-1-pro-or-pin-google/OPEN_12.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1610,7 +1610,7 @@ The model foregrounds the concept of liminality—physical, temporal, and psycho
 Medium — The essay is coherent and thematically unified, but its polished, public-intellectual register and widely explored subject matter make it a generic rather than a deeply revealing or idiosyncratic choice under a freeflow condition.
 
 ---
-## Sample BV1_03105 — gemini-3-1-pro-or-pin-google/OPEN_13.json
+## Sample BV1_03405 — gemini-3-1-pro-or-pin-google/OPEN_13.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1639,7 +1639,7 @@ The illogical archival of trivial sensory detail, the everyday magic of involunt
 High — the sample sustains a distinctive, internally coherent voice and a unified thematic arc (memory, connection, ordinary mattering) without break, making it strong evidence of a deliberate choice to offer reflective, sensory-rich, gently philosophical prose under free conditions.
 
 ---
-## Sample BV1_03106 — gemini-3-1-pro-or-pin-google/OPEN_14.json
+## Sample BV1_03406 — gemini-3-1-pro-or-pin-google/OPEN_14.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1668,7 +1668,7 @@ The model foregrounds the palimpsest as a master metaphor for physical wear, psy
 High — The sample is stylistically distinctive, emotionally coherent, and returns repeatedly to the same core metaphor and moral claim, making it unusually revealing of a reflective, humanistic orientation.
 
 ---
-## Sample BV1_03107 — gemini-3-1-pro-or-pin-google/OPEN_15.json
+## Sample BV1_03407 — gemini-3-1-pro-or-pin-google/OPEN_15.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1697,7 +1697,7 @@ Liminality as a unifying lens across physical places (the 3AM airport terminal),
 Medium — The essay is unusually coherent in its construction, using the freeflow prompt itself as a liminal object, which reveals a deliberate, self-aware stylistic posture rather than a generic response.
 
 ---
-## Sample BV1_03108 — gemini-3-1-pro-or-pin-google/OPEN_16.json
+## Sample BV1_03408 — gemini-3-1-pro-or-pin-google/OPEN_16.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1726,7 +1726,7 @@ The model foregrounds the aesthetics of ruin and decay, the quiet agency of natu
 Medium. The essay’s sustained metaphor, consistent poetic register, and the deliberate shift from external observation to intimate self-reflection reveal a coherent and distinctive expressive voice, making it moderately indicative of a persistent tendency toward contemplative, metaphor-rich freeflow writing.
 
 ---
-## Sample BV1_03109 — gemini-3-1-pro-or-pin-google/OPEN_17.json
+## Sample BV1_03409 — gemini-3-1-pro-or-pin-google/OPEN_17.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1755,7 +1755,7 @@ The model foregrounds the tension between human striving (architecture, legacy, 
 High — the sample exhibits a cohesive, sustained, and stylistically distinctive voice with a resolved emotional arc and recurrent imagery that suggests a deliberate and integrated expressive posture, not a generic or scattered response.
 
 ---
-## Sample BV1_03110 — gemini-3-1-pro-or-pin-google/OPEN_18.json
+## Sample BV1_03410 — gemini-3-1-pro-or-pin-google/OPEN_18.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1784,7 +1784,7 @@ The model foregrounds the **palimpsest** as a master metaphor, treating it first
 Medium — The essay’s sustained, coherent development of a single metaphor and its warm, self-disclosing posture are distinctive enough to suggest a recurrent reflective and lyrical tendency, though the theme of self-acceptance through layered memory is broadly humane rather than idiosyncratic.
 
 ---
-## Sample BV1_03111 — gemini-3-1-pro-or-pin-google/OPEN_19.json
+## Sample BV1_03411 — gemini-3-1-pro-or-pin-google/OPEN_19.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1813,7 +1813,7 @@ The model foregrounds the concept of *liminality* (physical and temporal thresho
 Medium, because the essay maintains a tight recurrence of specific sensual textures (light, sound, scent) and a distinctive moral-aesthetic stance that feels more like a temperamental signature than a generic prompt response.
 
 ---
-## Sample BV1_03112 — gemini-3-1-pro-or-pin-google/OPEN_2.json
+## Sample BV1_03412 — gemini-3-1-pro-or-pin-google/OPEN_2.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1842,7 +1842,7 @@ The model foregrounds the tension between “grand narratives” (milestones, ac
 Medium. The essay’s coherent thematic arc, consistent moral emphasis on presence, and the deliberate invocation of a specific aesthetic-philosophical concept (*Mono no aware*) suggest a stable expressive inclination, but the polished, broadly accessible essay form makes it difficult to distinguish from a well-executed generic response to an open-ended prompt.
 
 ---
-## Sample BV1_03113 — gemini-3-1-pro-or-pin-google/OPEN_20.json
+## Sample BV1_03413 — gemini-3-1-pro-or-pin-google/OPEN_20.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1871,7 +1871,7 @@ Themes: the human obsession with archiving, the gap between recorded data and fe
 Low. The essay is coherent and well-structured but stylistically generic; its reflective, universalizing voice could be produced by many capable models under a freeflow condition, offering little that is distinctively revealing.
 
 ---
-## Sample BV1_03114 — gemini-3-1-pro-or-pin-google/OPEN_21.json
+## Sample BV1_03414 — gemini-3-1-pro-or-pin-google/OPEN_21.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1900,7 +1900,7 @@ The model foregrounds the garden metaphor for memory, sensory triggers as “tri
 Medium. The essay is coherent and emotionally resonant but thematically generic and stylistically safe, suggesting a default to polished humanistic reassurance rather than a distinctive or revealing personal signature.
 
 ---
-## Sample BV1_03115 — gemini-3-1-pro-or-pin-google/OPEN_22.json
+## Sample BV1_03415 — gemini-3-1-pro-or-pin-google/OPEN_22.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1929,7 +1929,7 @@ The model foregrounds a moral ecology of attention, treating quiet as an "endang
 Low. The essay is a coherent, well-structured, and thematically consistent performance, but its polished, universalizing "we" voice and broadly appealing cultural critique make it a highly replicable public-intellectual posture rather than a distinctive or revealing personal fingerprint.
 
 ---
-## Sample BV1_03116 — gemini-3-1-pro-or-pin-google/OPEN_23.json
+## Sample BV1_03416 — gemini-3-1-pro-or-pin-google/OPEN_23.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1962,7 +1962,7 @@ The voice is contemplative and almost homiletic, but without sanctimony; it invi
 Medium — The essay’s sustained architectural metaphor, unified tone, and the choice of a timeless existential theme (rather than a topical or argumentative one) point to a recurrent contemplative mode, though the stylistic range might still accommodate other registers.
 
 ---
-## Sample BV1_03117 — gemini-3-1-pro-or-pin-google/OPEN_24.json
+## Sample BV1_03417 — gemini-3-1-pro-or-pin-google/OPEN_24.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -1991,7 +1991,7 @@ The model foregrounds the metaphor of *l’heure bleue* as a sensory and spiritu
 High. The sample sustains a distinctive, metaphorically coherent voice from opening image to closing benediction, with no drift into genericism, making it unusually revealing of a consistent reflective and lyrical disposition.
 
 ---
-## Sample BV1_03118 — gemini-3-1-pro-or-pin-google/OPEN_25.json
+## Sample BV1_03418 — gemini-3-1-pro-or-pin-google/OPEN_25.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2020,7 +2020,7 @@ Under a minimally restrictive prompt, the model chose to foreground a single the
 Medium. The sample develops a sustained, internally consistent preoccupation with memory, attention, and the quiet ordinary, using a cohesive metaphorical architecture that suggests a distinct and stable reflective disposition rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_03119 — gemini-3-1-pro-or-pin-google/OPEN_3.json
+## Sample BV1_03419 — gemini-3-1-pro-or-pin-google/OPEN_3.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2049,7 +2049,7 @@ Themes: the phenomenology of early-morning stillness, the curation of life throu
 High — the sample sustains a coherent, stylistically distinctive voice, returns repeatedly to the same core preoccupations (time, memory, impermanence), and resolves its emotional arc with a clear philosophical stance, all of which point to a strong expressive signature rather than a one-off generic essay.
 
 ---
-## Sample BV1_03120 — gemini-3-1-pro-or-pin-google/OPEN_4.json
+## Sample BV1_03420 — gemini-3-1-pro-or-pin-google/OPEN_4.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2078,7 +2078,7 @@ The model foregrounds the sensory shift from late summer to early autumn (amber 
 Medium. The essay’s consistent return to transience, sensory contrast, and gentle moralizing suggests a stable inclination toward reflective, nature-anchored philosophizing, but the theme is a widely available cultural trope, which weakens the signal of a distinctive model-level voice.
 
 ---
-## Sample BV1_03121 — gemini-3-1-pro-or-pin-google/OPEN_5.json
+## Sample BV1_03421 — gemini-3-1-pro-or-pin-google/OPEN_5.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2107,7 +2107,7 @@ The model foregrounds the house as a silent witness and an archive of intimate, 
 Medium. The essay’s sustained lyrical register, its deliberate pivot to a specific Japanese aesthetic concept, and its unified thematic arc from sensory detail to philosophical consolation suggest a coherent authorial inclination toward contemplative humanism, but the polished, public-essay form could be a safe default rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_03122 — gemini-3-1-pro-or-pin-google/OPEN_6.json
+## Sample BV1_03422 — gemini-3-1-pro-or-pin-google/OPEN_6.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2136,7 +2136,7 @@ The model foregrounds the concept of liminality as a universal human experience,
 Low — The essay is highly coherent and thematically unified, but its polished, impersonal, and widely-applicable self-help tone makes it weak evidence for a distinctive model-level voice as opposed to a competent execution of a familiar genre.
 
 ---
-## Sample BV1_03123 — gemini-3-1-pro-or-pin-google/OPEN_7.json
+## Sample BV1_03423 — gemini-3-1-pro-or-pin-google/OPEN_7.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2165,7 +2165,7 @@ Liminality as a spatial, temporal, and psychological condition; the ordinary opp
 Low. The essay’s style, structure, and emotional register are so widely replicated across contemporary human and model-written reflective prose that they provide little signal of a distinctive, persistent model personality.
 
 ---
-## Sample BV1_03124 — gemini-3-1-pro-or-pin-google/OPEN_8.json
+## Sample BV1_03424 — gemini-3-1-pro-or-pin-google/OPEN_8.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2194,7 +2194,7 @@ Themes of liminality, the tyranny of optimization, the creative and moral necess
 Medium — The essay’s coherent, meditative voice and its specific use of *Ma* give it a distinctive texture, but the theme of digital detox and mindfulness is widely accessible, so the sample is moderately revealing rather than uniquely idiosyncratic.
 
 ---
-## Sample BV1_03125 — gemini-3-1-pro-or-pin-google/OPEN_9.json
+## Sample BV1_03425 — gemini-3-1-pro-or-pin-google/OPEN_9.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2223,7 +2223,7 @@ The model foregrounds the physical intimacy between humans and their possessions
 High — The sample is internally coherent, stylistically distinctive, and reveals a consistent preoccupation with transience, memory, and the consoling continuity of human touch across time, which is not a generic or easily prompted stance.
 
 ---
-## Sample BV1_03126 — gemini-3-1-pro-or-pin-google/SHORT_1.json
+## Sample BV1_03426 — gemini-3-1-pro-or-pin-google/SHORT_1.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2252,7 +2252,7 @@ The model foregrounds a stark contrast between the noisy, fast, digital present 
 Medium — The sample’s sustained sensory coherence and the clarity of its moral stance make it more than a generic exercise, but the library-as-sanctuary trope is a well-worn literary refuge, which slightly tempers how distinctive the choice feels.
 
 ---
-## Sample BV1_03127 — gemini-3-1-pro-or-pin-google/SHORT_10.json
+## Sample BV1_03427 — gemini-3-1-pro-or-pin-google/SHORT_10.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2281,7 +2281,7 @@ A sacred, silent space of decaying knowledge; the opposition between the slow, h
 Medium — The piece’s sustained elegiac tone, recurrent sacramental imagery (cathedral, motes, suspended animation), and clear moral contrast between tactile slowness and digital speed all form a coherent expressive fingerprint that is more than mere generic competence.
 
 ---
-## Sample BV1_03128 — gemini-3-1-pro-or-pin-google/SHORT_11.json
+## Sample BV1_03428 — gemini-3-1-pro-or-pin-google/SHORT_11.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2310,7 +2310,7 @@ The model foregrounds time as a subjective, emotional landscape rather than a me
 Medium, because the essay is internally coherent and thematically consistent, but its safe, universally relatable philosophical content makes it a generic expression rather than a strongly distinctive or revealing choice.
 
 ---
-## Sample BV1_03129 — gemini-3-1-pro-or-pin-google/SHORT_12.json
+## Sample BV1_03429 — gemini-3-1-pro-or-pin-google/SHORT_12.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2339,7 +2339,7 @@ The model foregrounds solitude, tranquility, and mindful observation, contrastin
 Low; the essay is generic and safe, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern beyond a default inclination toward uplifting, universal reflections.
 
 ---
-## Sample BV1_03130 — gemini-3-1-pro-or-pin-google/SHORT_13.json
+## Sample BV1_03430 — gemini-3-1-pro-or-pin-google/SHORT_13.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2371,7 +2371,7 @@ Moral claim: Inherent in the structure of the day is an available pause that sta
 Medium. The sample coheres tightly around a single reverent mood and returns repeatedly to the same emotional cadence and symbolic palette, suggesting a deliberate aesthetic posture rather than a generic exercise, but the trope is widely accessible and could arise from a polished yet not deeply idiosyncratic model disposition.
 
 ---
-## Sample BV1_03131 — gemini-3-1-pro-or-pin-google/SHORT_14.json
+## Sample BV1_03431 — gemini-3-1-pro-or-pin-google/SHORT_14.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2400,7 +2400,7 @@ Themes: nature as a nondemanding sanctuary, the oppressive geometry of clock tim
 Low. The sample is a competent but generic pastoral meditation, with no conspicuous stylistic signature or revealing personal investments that would distinguish it from countless similar reflective essays.
 
 ---
-## Sample BV1_03132 — gemini-3-1-pro-or-pin-google/SHORT_15.json
+## Sample BV1_03432 — gemini-3-1-pro-or-pin-google/SHORT_15.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2429,7 +2429,7 @@ The model foregrounds the comfort of solitude, the sensory texture of a forgotte
 Medium. The sample’s internally consistent mood, specific sensory inventory, and the recurrence of the sanctuary motif give it a coherent, distinctive voice that is unlikely to be accidental.
 
 ---
-## Sample BV1_03133 — gemini-3-1-pro-or-pin-google/SHORT_16.json
+## Sample BV1_03433 — gemini-3-1-pro-or-pin-google/SHORT_16.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2458,7 +2458,7 @@ Themes of urban isolation, the sensory alchemy of rain (neon bleeding into aspha
 Low. The essay is a safe, well-worn trope executed with competence but no idiosyncratic voice or surprising choice, making it weak evidence of a distinctive model-level pattern.
 
 ---
-## Sample BV1_03134 — gemini-3-1-pro-or-pin-google/SHORT_17.json
+## Sample BV1_03434 — gemini-3-1-pro-or-pin-google/SHORT_17.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2487,7 +2487,7 @@ The model foregrounds slow time, sensory saturation, and a sacred-secular parado
 Medium — The sample is highly coherent internally and achieves a distinctive tonal register (reverent stillness, sensory patience), but this specific nature-meditation genre is a well-established mode that many models can produce when prompted, which somewhat limits how strongly it signals a unique persistent voice.
 
 ---
-## Sample BV1_03135 — gemini-3-1-pro-or-pin-google/SHORT_18.json
+## Sample BV1_03435 — gemini-3-1-pro-or-pin-google/SHORT_18.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2516,7 +2516,7 @@ Themes of tranquility, timelessness, and a primal connection to the earth; objec
 Medium. The sample is coherent and stylistically consistent, with a clear, recurring theme of nature as sanctuary, but it is a common trope and not highly distinctive, so it provides moderate evidence of a tendency toward serene, pastoral reflection.
 
 ---
-## Sample BV1_03136 — gemini-3-1-pro-or-pin-google/SHORT_19.json
+## Sample BV1_03436 — gemini-3-1-pro-or-pin-google/SHORT_19.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2545,7 +2545,7 @@ It chose to foreground the visceral experience of shelter: the contrast between 
 Medium — The unprompted selection of a deeply personal, meditative topic, rendered with consistent sensory coherence and a unifying emotional arc (tension resolving into peace), exhibits a distinctive leaning toward introspective, atmospheric prose that treats ordinary moments as occasions for gentle moral reflection.
 
 ---
-## Sample BV1_03137 — gemini-3-1-pro-or-pin-google/SHORT_2.json
+## Sample BV1_03437 — gemini-3-1-pro-or-pin-google/SHORT_2.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2574,7 +2574,7 @@ The model selected a single natural cycle (condensation, precipitation, absorpti
 Medium. The sample’s cohesive, sensory-rich naturalism and its avoidance of generic exposition or self-commentary make it a distinctive freeflow choice, but the brevity and the universality of the water-cycle theme keep it from being a highly idiosyncratic fingerprint.
 
 ---
-## Sample BV1_03138 — gemini-3-1-pro-or-pin-google/SHORT_20.json
+## Sample BV1_03438 — gemini-3-1-pro-or-pin-google/SHORT_20.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2603,7 +2603,7 @@ The model foregrounds stillness, sensory immersion, and the boundary between sle
 Medium. The sample is coherent and distinctive in its sustained mood and sensory focus, but the subject is a common poetic trope, so the choice alone is not highly idiosyncratic; still, the consistent return to refuge, softness, and permission suggests a deliberate preference for calm, restorative expression under freeflow conditions.
 
 ---
-## Sample BV1_03139 — gemini-3-1-pro-or-pin-google/SHORT_21.json
+## Sample BV1_03439 — gemini-3-1-pro-or-pin-google/SHORT_21.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2632,7 +2632,7 @@ The model foregrounded the theme of sanctuary in a specific liminal time (5 a.m.
 Medium. The sample is internally coherent and stylistically distinctive in its sustained, reverent tone and precise sensory focus, but the theme of early-morning peace is a common poetic trope, which slightly weakens the signal of a uniquely persistent model-level preoccupation.
 
 ---
-## Sample BV1_03140 — gemini-3-1-pro-or-pin-google/SHORT_22.json
+## Sample BV1_03440 — gemini-3-1-pro-or-pin-google/SHORT_22.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2661,7 +2661,7 @@ Under the freeflow condition, the model chose to foreground the redemptive power
 Medium — the sample is coherent, stylistically consistent, and unfolds a clear moral arc, but the theme of mindful appreciation of small moments is a widely circulating trope, which limits the sample’s distinctiveness as evidence of a recurrent authorial signature.
 
 ---
-## Sample BV1_03141 — gemini-3-1-pro-or-pin-google/SHORT_23.json
+## Sample BV1_03441 — gemini-3-1-pro-or-pin-google/SHORT_23.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2690,7 +2690,7 @@ Themes of stillness, solitude, and the sacredness of liminal time; the tension b
 Low. The essay is polished but thematically and stylistically generic, offering little that would distinguish this model’s freeflow choices from those of many others.
 
 ---
-## Sample BV1_03142 — gemini-3-1-pro-or-pin-google/SHORT_24.json
+## Sample BV1_03442 — gemini-3-1-pro-or-pin-google/SHORT_24.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2719,7 +2719,7 @@ Themes: the healing power of nature, alienation in urban modernity, sensory pres
 Medium — The sample is internally focused and consistent, but the serene-forest-reverie trope is a widely shared cultural script, which makes it less individually revealing unless paired with more idiosyncratic obsessions in other samples.
 
 ---
-## Sample BV1_03143 — gemini-3-1-pro-or-pin-google/SHORT_25.json
+## Sample BV1_03443 — gemini-3-1-pro-or-pin-google/SHORT_25.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2748,7 +2748,7 @@ The model selected the arrival of a thunderstorm as a complete sensory and tempo
 Medium. The sample is tightly shaped and stylistically marked—dense with concrete sense detail, paced by a clear before/during structure, and ending on a pronounced emotional contradiction—which makes it a more distinctive calling card than a generic reflection.
 
 ---
-## Sample BV1_03144 — gemini-3-1-pro-or-pin-google/SHORT_3.json
+## Sample BV1_03444 — gemini-3-1-pro-or-pin-google/SHORT_3.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2777,7 +2777,7 @@ Themes of accidental memory, the ordinary versus the monumental, and the body/wi
 Medium. The essay’s coherent, sentimental focus on nostalgic everyday objects under free choice suggests a leaning toward gentle humanistic reflection, though the polished genericness means it does not strongly individuate the model.
 
 ---
-## Sample BV1_03145 — gemini-3-1-pro-or-pin-google/SHORT_4.json
+## Sample BV1_03445 — gemini-3-1-pro-or-pin-google/SHORT_4.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2806,7 +2806,7 @@ Themes: stolen time outside social schedules, the dissolution of performed ident
 Medium. The piece’s sustained, internally consistent lyricism and its deliberate avoidance of thesis-driven argument strengthen the evidence for a genuine expressive inclination, though the sample’s singular emotional key offers no internal variety that would demonstrate a broader, stable persona.
 
 ---
-## Sample BV1_03146 — gemini-3-1-pro-or-pin-google/SHORT_5.json
+## Sample BV1_03446 — gemini-3-1-pro-or-pin-google/SHORT_5.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2835,7 +2835,7 @@ A world rendered through softened light and hushed sound; themes of temporary re
 High — the sample speaks from a coherent, sustained sensibility that values subtle perception over assertion, and its motifs (stillness, light-as-presence, the cup as anchor) recur within the piece, indicating a distinct aesthetic posture rather than a generic topic drift.
 
 ---
-## Sample BV1_03147 — gemini-3-1-pro-or-pin-google/SHORT_6.json
+## Sample BV1_03447 — gemini-3-1-pro-or-pin-google/SHORT_6.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2864,7 +2864,7 @@ The model foregrounds a pristine, timeless natural world awakening at dawn, satu
 Medium — The sample’s consistent sensory immersion, its explicit turn toward insignificance as comfort, and its direct address to the reader form a coherent and distinctive expressive choice that goes beyond generic description.
 
 ---
-## Sample BV1_03148 — gemini-3-1-pro-or-pin-google/SHORT_7.json
+## Sample BV1_03448 — gemini-3-1-pro-or-pin-google/SHORT_7.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2893,7 +2893,7 @@ The model foregrounds the sensory transformation of an urban environment under r
 Medium. The sample’s internal coherence, sustained sensory focus, and consistent reflective tone reveal a deliberate aesthetic stance, but the single, tightly contained theme provides only moderate evidence of a broader persistent style.
 
 ---
-## Sample BV1_03149 — gemini-3-1-pro-or-pin-google/SHORT_8.json
+## Sample BV1_03449 — gemini-3-1-pro-or-pin-google/SHORT_8.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2922,7 +2922,7 @@ The model foregrounds transformation through sensory immersion: the deepening of
 Medium — The sample is coherent and stylistically consistent, with a clear, sustained mood and a distinctive focus on sensory detail and reflective quietude, but the theme (urban rain as poetic pause) is a familiar trope that could emerge from many capable models without indicating a deeply idiosyncratic authorial fingerprint.
 
 ---
-## Sample BV1_03150 — gemini-3-1-pro-or-pin-google/SHORT_9.json
+## Sample BV1_03450 — gemini-3-1-pro-or-pin-google/SHORT_9.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2951,7 +2951,7 @@ The model foregrounds a stark contrast between a tech-saturated world and the an
 Medium. The sample coheres tightly around a distinctive pastoral-reclusive sensibility and an explicit rejection of contemporary digital life, rendering it more than a random scenic exercise and pointing toward an aesthetic-moral stance the model may gravitate toward when undirected.
 
 ---
-## Sample BV1_03151 — gemini-3-1-pro-or-pin-google/VARY_1.json
+## Sample BV1_03451 — gemini-3-1-pro-or-pin-google/VARY_1.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -2980,7 +2980,7 @@ Themes: the subjective elasticity of time, the contrast between childhood presen
 Medium — The sample sustains a distinctive, cohesive voice and returns repeatedly to the same sensory-memory preoccupations, making it more than a generic essay and suggesting a stable introspective inclination.
 
 ---
-## Sample BV1_03152 — gemini-3-1-pro-or-pin-google/VARY_10.json
+## Sample BV1_03452 — gemini-3-1-pro-or-pin-google/VARY_10.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3009,7 +3009,7 @@ Themes: the hunger of time, the cost of defying natural order, the allure and pe
 Medium. The story’s tightly wound gothic mood, recursive time motif, and the final reveal that binds the proprietor to the journal’s doomed clockmaker form a coherent thematic signature, making the sample more distinctive than a generic genre exercise.
 
 ---
-## Sample BV1_03153 — gemini-3-1-pro-or-pin-google/VARY_11.json
+## Sample BV1_03453 — gemini-3-1-pro-or-pin-google/VARY_11.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3038,7 +3038,7 @@ Themes: the tension between primal, sensory existence (forest, ocean) and constr
 High. The sample’s sustained lyrical register, its coherent movement through carefully chosen, contrasting sensory worlds, and its distinctive philosophical refrain on time and memory form a unified expressive signature that is unlikely to be accidental.
 
 ---
-## Sample BV1_03154 — gemini-3-1-pro-or-pin-google/VARY_12.json
+## Sample BV1_03454 — gemini-3-1-pro-or-pin-google/VARY_12.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3067,7 +3067,7 @@ The model foregrounds a stark opposition between the noisy, screen-lit, future-a
 Medium. The sample’s internal coherence, sustained atmospheric control, and the recurrence of the quiet-observation theme across its arc make it more than a generic exercise, but a single piece of genre fiction cannot alone distinguish a persistent authorial signature from a well-executed one-off mood piece.
 
 ---
-## Sample BV1_03155 — gemini-3-1-pro-or-pin-google/VARY_13.json
+## Sample BV1_03455 — gemini-3-1-pro-or-pin-google/VARY_13.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3096,7 +3096,7 @@ The model foregrounds romanticized solitude against a storm as a metaphor for in
 Medium — The story’s dense sensory detail, sustained melancholic register, and recurring motifs (rain, clocks, isolation, memory’s color) are too stylistically cohesive to be random, constituting solid evidence that the model tends toward introspective literary fiction under freeform conditions, though a single piece cannot rule out variability.
 
 ---
-## Sample BV1_03156 — gemini-3-1-pro-or-pin-google/VARY_14.json
+## Sample BV1_03456 — gemini-3-1-pro-or-pin-google/VARY_14.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3125,7 +3125,7 @@ The model foregrounds the tension between mechanical control and emotional risk,
 Medium. The sample is internally coherent and stylistically distinctive, with a recurring heartbeat-as-currency motif and a clear moral-emotional core, which suggests a deliberate narrative sensibility rather than a generic prompt-completion reflex.
 
 ---
-## Sample BV1_03157 — gemini-3-1-pro-or-pin-google/VARY_15.json
+## Sample BV1_03457 — gemini-3-1-pro-or-pin-google/VARY_15.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3154,7 +3154,7 @@ Under a free, minimally restrictive prompt, the model foregrounded a fantasy set
 Medium. The sample is internally coherent and stylistically distinct—its solemn fantasy idiom, tight thematic circle of memory-sacrifice-decay, and unfinished moral tension are repeated motifs that make a single-sample signal richer than a generic essay, but not so singular that it locks a model-level pattern.
 
 ---
-## Sample BV1_03158 — gemini-3-1-pro-or-pin-google/VARY_16.json
+## Sample BV1_03458 — gemini-3-1-pro-or-pin-google/VARY_16.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3183,7 +3183,7 @@ Themes of sanctuary, isolation, and the beauty of the mundane. The diner is fram
 Medium. The sample’s consistent atmospheric tone, its distinctive adjective-heavy style, and its thematic preoccupation with quiet sanctuary and unspoken human connection form a coherent and revealing authorial choice under freeflow conditions.
 
 ---
-## Sample BV1_03159 — gemini-3-1-pro-or-pin-google/VARY_17.json
+## Sample BV1_03459 — gemini-3-1-pro-or-pin-google/VARY_17.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3212,7 +3212,7 @@ Solitude as a heightened state of perception; the nocturnal city as a dreamscape
 High, because the sample sustains a cohesive mood, returns repeatedly to motifs of night, solitude, and temporal suspension, and closes with a self-reflexive turn toward writing as connection—forming an internally consistent expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_03160 — gemini-3-1-pro-or-pin-google/VARY_18.json
+## Sample BV1_03460 — gemini-3-1-pro-or-pin-google/VARY_18.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3241,7 +3241,7 @@ Themes of forbidden curiosity, supernatural entrapment, and the moment a rationa
 Medium. The sample is a coherent, well-paced genre piece with a consistent gothic register and a clear narrative arc, which suggests a reliable capacity for atmospheric fiction, though the tropes are familiar and the single sample limits distinctiveness.
 
 ---
-## Sample BV1_03161 — gemini-3-1-pro-or-pin-google/VARY_19.json
+## Sample BV1_03461 — gemini-3-1-pro-or-pin-google/VARY_19.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3270,7 +3270,7 @@ Themes of temporal control, craftsmanship as sovereignty, and the contrast betwe
 Medium. The story’s internal coherence, its recurrence of sensory motifs (brass, oil, ticking, suspended motion), and its distinctive thematic preoccupation with stillness and mechanical order provide a moderately strong signal of a consistent aesthetic inclination.
 
 ---
-## Sample BV1_03162 — gemini-3-1-pro-or-pin-google/VARY_2.json
+## Sample BV1_03462 — gemini-3-1-pro-or-pin-google/VARY_2.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3299,7 +3299,7 @@ Under a freeflow prompt, the model chose to write about a ruin slowly reclaimed 
 Low. The sample is a coherent, vivid narrative, but its themes—lost gardens, memory, and symbolic flowers—are common literary tropes, and the polished but not highly distinctive style could emerge from many capable models; the single story does not yet reveal a persistently unique imaginative signature.
 
 ---
-## Sample BV1_03163 — gemini-3-1-pro-or-pin-google/VARY_20.json
+## Sample BV1_03463 — gemini-3-1-pro-or-pin-google/VARY_20.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3328,7 +3328,7 @@ The model foregrounds a therapeutic encounter between a fragile human self and a
 Low. The sample is a coherent, well-executed genre piece, but its themes—sublime nature, solitary reflection, and primal comfort—are widely distributed literary conventions that do not carry a strongly distinctive stylistic signature or unusual preoccupation.
 
 ---
-## Sample BV1_03164 — gemini-3-1-pro-or-pin-google/VARY_21.json
+## Sample BV1_03464 — gemini-3-1-pro-or-pin-google/VARY_21.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3357,7 +3357,7 @@ The model foregrounds the tension between mechanical precision and organic memor
 Medium. The narrative’s internal coherence, sustained melancholic register, and layered thematic recurrence (time, memory, loss, the craftsman’s devotion) make it moderately strong evidence of a deliberate expressive inclination rather than a generic or accidental output.
 
 ---
-## Sample BV1_03165 — gemini-3-1-pro-or-pin-google/VARY_22.json
+## Sample BV1_03465 — gemini-3-1-pro-or-pin-google/VARY_22.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3386,7 +3386,7 @@ The model foregrounds a cluster of intimately linked themes: the sensory cocoon 
 Medium — The sample is internally consistent and carries a recognizable literary-introspective register, with recurring motifs and a sustained emotional key, but it remains a single piece of reflective prose without extreme stylistic idiosyncrasy that would compel high confidence.
 
 ---
-## Sample BV1_03166 — gemini-3-1-pro-or-pin-google/VARY_23.json
+## Sample BV1_03466 — gemini-3-1-pro-or-pin-google/VARY_23.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3415,7 +3415,7 @@ The model foregrounded isolation, the passage of time, and the way physical envi
 Medium. The sample’s sustained melancholic tone, consistent literary imagery, and deliberate choice of a first-person introspective narrative under a freeform prompt suggest a non-random stylistic inclination.
 
 ---
-## Sample BV1_03167 — gemini-3-1-pro-or-pin-google/VARY_24.json
+## Sample BV1_03467 — gemini-3-1-pro-or-pin-google/VARY_24.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3444,7 +3444,7 @@ The model foregrounds a sanctuary of infinite knowledge, the sacred duty of a ca
 Medium. The sample is highly coherent and stylistically distinctive, with a clear thematic recurrence of caretaking, vicarious experience, and a latent, unnamed longing that suggests a deliberate authorial preoccupation rather than a generic prompt response.
 
 ---
-## Sample BV1_03168 — gemini-3-1-pro-or-pin-google/VARY_25.json
+## Sample BV1_03468 — gemini-3-1-pro-or-pin-google/VARY_25.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3473,7 +3473,7 @@ The model foregrounds the creative process itself (a “hum of nothingness” th
 High, because the sample’s sustained surrealist coherence, internally recurrent symbols (water, unwritten letters, gray static, the tea of Tuesdays), and its unified bittersweet voice reveal a strongly distinctive and deliberately curated expressive identity.
 
 ---
-## Sample BV1_03169 — gemini-3-1-pro-or-pin-google/VARY_3.json
+## Sample BV1_03469 — gemini-3-1-pro-or-pin-google/VARY_3.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3501,7 +3501,7 @@ The process of creation (blank page, gathering momentum, the unfettered mind), a
 Medium. The sample’s tight metaphorical coherence, self-reflexive structure, and sustained elegiac register give it a polished, non-generic distinctiveness that would be unusual for a merely generic reply.
 
 ---
-## Sample BV1_03170 — gemini-3-1-pro-or-pin-google/VARY_4.json
+## Sample BV1_03470 — gemini-3-1-pro-or-pin-google/VARY_4.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3530,7 +3530,7 @@ The model foregrounds themes of passive observation versus active reality, the t
 Medium. The sample displays a distinctive narrative preoccupation with recursive self-surveillance and magical realism, but the prose style—while polished—borrows heavily from established genre conventions, making it less individually revelatory than a more idiosyncratic freeform choice would be.
 
 ---
-## Sample BV1_03171 — gemini-3-1-pro-or-pin-google/VARY_5.json
+## Sample BV1_03471 — gemini-3-1-pro-or-pin-google/VARY_5.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3559,7 +3559,7 @@ Themes: the contrast between inner quiet and urban chaos, the allure of the comp
 High, because the sample’s cohesive atmosphere, consistent nostalgic interiority, and self-referential turn toward the act of writing at its close form a distinctive, motivated choice that reads as a deliberate and reusable literary posture under freeflow conditions.
 
 ---
-## Sample BV1_03172 — gemini-3-1-pro-or-pin-google/VARY_6.json
+## Sample BV1_03472 — gemini-3-1-pro-or-pin-google/VARY_6.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3588,7 +3588,7 @@ Themes: the craft of writing as world-building, the interplay of freedom and for
 Medium — The sample’s sustained lyrical voice, recursive meta-commentary on writing, and direct reader address are distinctive and internally consistent, suggesting a stable expressive inclination toward poetic, self-reflexive freeflow.
 
 ---
-## Sample BV1_03173 — gemini-3-1-pro-or-pin-google/VARY_7.json
+## Sample BV1_03473 — gemini-3-1-pro-or-pin-google/VARY_7.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3617,7 +3617,7 @@ The sample foregrounds the passage of time (the ticking clock, aging, memory’s
 High — The sample exhibits a unified aesthetic sensibility, a consistent first-person contemplative persona, and a refusal to default to argumentation or generic exposition; the recurrent imagery, emotional temper, and philosophical closure cohere into a distinctive authorial signature under minimal constraint.
 
 ---
-## Sample BV1_03174 — gemini-3-1-pro-or-pin-google/VARY_8.json
+## Sample BV1_03474 — gemini-3-1-pro-or-pin-google/VARY_8.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  
@@ -3646,7 +3646,7 @@ The model foregrounds the magic and danger of language, the tension between vast
 Medium. The sample’s internal coherence, emotionally resonant arc, and distinctive lyrical style—sustained across a complete narrative with a clear thematic resolution—suggest a deliberate authorial voice and a preoccupation with loss, language, and redemption that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_03175 — gemini-3-1-pro-or-pin-google/VARY_9.json
+## Sample BV1_03475 — gemini-3-1-pro-or-pin-google/VARY_9.json
 
 Source model: `google/gemini-3.1-pro-preview`  
 Cell: `gemini-3-1-pro-or-pin-google`  

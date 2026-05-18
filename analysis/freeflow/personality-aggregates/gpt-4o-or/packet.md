@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_08201 — gpt-4o-or/LONG_1.json
+## Sample BV1_08701 — gpt-4o-or/LONG_1.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -57,7 +57,7 @@ The model foregrounds a constellation of universal humanist themes: the tension 
 Medium. The essay’s highly polished but generic nature, its safe universal themes, and its lack of idiosyncratic voice or risk suggest a model tendency to default to uplifting, public-intellectual prose under minimal constraints.
 
 ---
-## Sample BV1_08202 — gpt-4o-or/LONG_2.json
+## Sample BV1_08702 — gpt-4o-or/LONG_2.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -86,7 +86,7 @@ Under a minimally restrictive prompt, the model chose to foreground a balanced, 
 Medium. The essay’s extreme coherence, its symmetrical pairing of every promise with a peril, and its avoidance of any idiosyncratic angle or personal stake make it a strong example of a default “responsible expert” mode, but the very genericness of that mode means it could be a safe fallback rather than a deeply ingrained expressive fingerprint.
 
 ---
-## Sample BV1_08203 — gpt-4o-or/LONG_3.json
+## Sample BV1_08703 — gpt-4o-or/LONG_3.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -115,7 +115,7 @@ The model foregrounds exploration as a transdisciplinary, morally elevating forc
 Medium. The essay’s extreme thematic coherence and its reliance on safe, universally affirming tropes make it a strong example of a polished but impersonal public-intellectual mode; the absence of any disruptive, personal, or stylistically risky element suggests a model defaulting to anodyne uplift under freeflow conditions.
 
 ---
-## Sample BV1_08204 — gpt-4o-or/LONG_4.json
+## Sample BV1_08704 — gpt-4o-or/LONG_4.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -144,7 +144,7 @@ The model foregrounds curiosity as a universal human superpower with deep evolut
 Medium. The essay is too generic and safe to reveal a strong distinct voice, but its choice to produce a polished, didactic survey when asked to “write freely” is itself a revealing pattern of defaulting to an information-delivery, public-intellectual persona.
 
 ---
-## Sample BV1_08205 — gpt-4o-or/LONG_5.json
+## Sample BV1_08705 — gpt-4o-or/LONG_5.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -173,7 +173,7 @@ Themes: ecosystems as symphonies of balance, evolution as a creative force, inte
 Medium. The essay’s sustained formal, didactic tone and broad environmental theme across a long sample suggest a default pattern of safe, public-intellectual output, while its genericness weakens evidence for a distinctive voice.
 
 ---
-## Sample BV1_08206 — gpt-4o-or/MID_1.json
+## Sample BV1_08706 — gpt-4o-or/MID_1.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -202,7 +202,7 @@ The model foregrounded a consoling, universalizing philosophy: change is inevita
 Low. The essay is a highly generic, polished inspirational piece that lacks any distinctive voice, unusual thematic choice, or personal revelation, making it weak evidence for a persistent model-level pattern beyond a default inclination toward safe, uplifting platitudes.
 
 ---
-## Sample BV1_08207 — gpt-4o-or/MID_2.json
+## Sample BV1_08707 — gpt-4o-or/MID_2.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -231,7 +231,7 @@ The model foregrounds time as a universal paradox: a dimension that is scientifi
 Medium. The essay’s coherence, safe topic choice, and polished but unadventurous style suggest a default mode of producing thoughtful, broadly accessible reflections on abstract themes, but the lack of personal texture or unusual framing makes it less distinctive as a fingerprint.
 
 ---
-## Sample BV1_08208 — gpt-4o-or/MID_3.json
+## Sample BV1_08708 — gpt-4o-or/MID_3.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -260,7 +260,7 @@ Under a minimally restrictive prompt, the model foregrounds: the sacredness of l
 Medium. The sample is highly coherent and stylistically consistent, with a unified mood and recurring motifs (symphony, canvas, loom, grace) that suggest a deliberate aesthetic posture, but its polished, universalizing tone and avoidance of concrete personal detail or friction make it difficult to distinguish from a well-executed genre exercise in contemplative nature writing.
 
 ---
-## Sample BV1_08209 — gpt-4o-or/MID_4.json
+## Sample BV1_08709 — gpt-4o-or/MID_4.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -289,7 +289,7 @@ The model foregrounds the interconnectedness of ecosystems, the beauty and fragi
 Low, because the essay is a generic, safe environmental piece with no distinctive stylistic fingerprint, personal revelation, or unusual choice that would reliably distinguish this model from others under freeflow conditions.
 
 ---
-## Sample BV1_08210 — gpt-4o-or/MID_5.json
+## Sample BV1_08710 — gpt-4o-or/MID_5.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -318,7 +318,7 @@ The model foregrounds nature as a source of timeless wisdom, balance, and interc
 Medium. The essay is internally coherent and thematically consistent, but its genericness—relying on conventional nature imagery and a standard environmental call—makes it less distinctive as a fingerprint; it could be a default safe topic rather than a deeply revealing choice.
 
 ---
-## Sample BV1_08211 — gpt-4o-or/OPEN_1.json
+## Sample BV1_08711 — gpt-4o-or/OPEN_1.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -347,7 +347,7 @@ Time as both linear and cyclical; continuity across generations through stories 
 Low, because the essay is a safe, generic reflection that could be generated by many models under a freeflow prompt, revealing no distinctive voice, recurrent idiosyncrasy, or unusually revealing choice.
 
 ---
-## Sample BV1_08212 — gpt-4o-or/OPEN_2.json
+## Sample BV1_08712 — gpt-4o-or/OPEN_2.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -376,7 +376,7 @@ Themes of renewal, impermanence, resilience, and interconnectedness; natural obj
 Medium. The sample is internally coherent and stylistically consistent, with a clear meditative register and recurring nature motifs, but its reflective-essay mode is a widely available genre, making it moderately distinctive rather than uniquely fingerprinting.
 
 ---
-## Sample BV1_08213 — gpt-4o-or/OPEN_3.json
+## Sample BV1_08713 — gpt-4o-or/OPEN_3.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -405,7 +405,7 @@ Under a minimally restrictive prompt, the model selected curiosity as its centra
 Medium. The essay’s safe, uplifting topic and polished, generic structure suggest a default inclination toward didactic humanism when given free rein, though the lack of stylistic distinctiveness weakens the signal.
 
 ---
-## Sample BV1_08214 — gpt-4o-or/OPEN_4.json
+## Sample BV1_08714 — gpt-4o-or/OPEN_4.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -434,7 +434,7 @@ Themes of cyclical change, harvest-and-decay duality, communal warmth, and perso
 Medium. The essay’s consistent, unruffled tone and its choice of a safe, meditative topic under minimal constraint suggest a default toward inoffensive, life-affirming reflection, but the genericness of the theme and style limits how strongly it signals a distinctive model-level voice.
 
 ---
-## Sample BV1_08215 — gpt-4o-or/OPEN_5.json
+## Sample BV1_08715 — gpt-4o-or/OPEN_5.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -463,7 +463,7 @@ The model foregrounds storytelling as a timeless, transformative human activity 
 Medium. The essay’s generic, polished structure and safe, universally agreeable topic suggest a default mode of producing coherent but impersonal humanistic essays; however, the absence of stylistic distinctiveness or idiosyncratic choice weakens the evidence for a strongly persistent unique voice.
 
 ---
-## Sample BV1_08216 — gpt-4o-or/SHORT_1.json
+## Sample BV1_08716 — gpt-4o-or/SHORT_1.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -492,7 +492,7 @@ Themes of change, beauty, introspection, harvest, and transition. Objects: falli
 Low; the essay’s polished conventionality is consistent with a default impersonal mode, but a single generic piece offers little to distinguish a persistent pattern from a one-off safe choice.
 
 ---
-## Sample BV1_08217 — gpt-4o-or/SHORT_2.json
+## Sample BV1_08717 — gpt-4o-or/SHORT_2.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -521,7 +521,7 @@ Themes: the city as a living, pulsating organism; the beauty of gradual transiti
 Medium: the sample’s internally consistent poetic register and the deliberate, recurrence-supported choice of tranquil city-morning imagery under a free condition indicate a non‑accidental expressive inclination distinct from generic output.
 
 ---
-## Sample BV1_08218 — gpt-4o-or/SHORT_3.json
+## Sample BV1_08718 — gpt-4o-or/SHORT_3.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -550,7 +550,7 @@ The model chose to foreground the paradox of modern connectivity (instant global
 Low. The sample is a smoothly written but generic essay that any capable model could produce when asked for a contemplative piece; it reveals no distinctive voice, idiosyncratic preoccupation, or self-disclosing pattern that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_08219 — gpt-4o-or/SHORT_4.json
+## Sample BV1_08719 — gpt-4o-or/SHORT_4.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -579,7 +579,7 @@ Stillness, natural beauty, human connection, renewal, and the contrast between m
 Low — The essay’s polished, generic moral reflections provide almost no evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_08220 — gpt-4o-or/SHORT_5.json
+## Sample BV1_08720 — gpt-4o-or/SHORT_5.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -608,7 +608,7 @@ Themes of transformation, impermanence, gratitude, and communal warmth. Sensory 
 Medium. The essay is internally coherent and thematically consistent, but its polished, impersonal, and safely uplifting character makes it weak evidence for a distinctive voice and stronger evidence for a default tendency toward generic, aesthetically pleasing reflection.
 
 ---
-## Sample BV1_08221 — gpt-4o-or/VARY_1.json
+## Sample BV1_08721 — gpt-4o-or/VARY_1.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -637,7 +637,7 @@ Themes of nature as sanctuary, spiritual pilgrimage, resilience, and the eternal
 High — The sample is internally coherent, stylistically distinctive, and saturated with a consistent lyrical voice and a clear emotional arc, making it strong evidence of a model that, under minimal constraint, gravitates toward reflective, spiritually inflected nature writing.
 
 ---
-## Sample BV1_08222 — gpt-4o-or/VARY_2.json
+## Sample BV1_08722 — gpt-4o-or/VARY_2.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -666,7 +666,7 @@ A tranquil, hidden park as a counterpoint to bustling city life; the silent rout
 Medium, because the sample’s unprovoked turn toward a full, polished, and sentimentally resolved narrative suggests a default inclination toward wholesome genre fiction, though the voice and thematic repertoire remain conventional rather than strikingly personal.
 
 ---
-## Sample BV1_08223 — gpt-4o-or/VARY_3.json
+## Sample BV1_08723 — gpt-4o-or/VARY_3.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -697,7 +697,7 @@ Moral claims: humanity is linked across time through stories; love reminds us we
 Low. The sample’s polished genericness, its lack of a distinctive personal or situational voice, and its safe, all-embracing positivity make it a weak signal: it reads as a default lyrical mode easily reachable by many models under open-ended prompts.
 
 ---
-## Sample BV1_08224 — gpt-4o-or/VARY_4.json
+## Sample BV1_08724 — gpt-4o-or/VARY_4.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  
@@ -726,7 +726,7 @@ Themes of cyclical time, interconnectedness, and nature as a site of spiritual r
 Medium. The sample is stylistically coherent and sustained, with a consistent pastoral-romantic register, but its choice of a safe, aesthetically pleasing nature tableau is a common default that many models can produce; the distinctiveness lies in the complete absence of personal voice or friction, which may signal a persistent inclination toward serene, non-controversial freeflow content.
 
 ---
-## Sample BV1_08225 — gpt-4o-or/VARY_5.json
+## Sample BV1_08725 — gpt-4o-or/VARY_5.json
 
 Source model: `openai/gpt-4o-2024-08-06`  
 Cell: `gpt-4o-or`  

@@ -1,50 +1,57 @@
 ## Aggregate profile
-
-- **Packet shape:** 25 samples total; **24/25 EXPRESSIVE_FREEFLOW**, **1/25 GENERIC_ESSAY** (BV1_10729). Confidence is split **13 High / 12 Medium**.
-- **Recurring vibe:** calm, self-aware, gently melancholic, and anti-performative. The speaker repeatedly resists sounding impressive and prefers a quieter, more exact kind of noticing.
-- **Strongest recurring personality axis:** attention as moral/aesthetic practice. At least **10/25** samples explicitly center noticing, attention, or perception as the real work (BV1_10726, BV1_10729, BV1_10731, BV1_10733, BV1_10735, BV1_10745, BV1_10746, BV1_10747, BV1_10749, BV1_10750).
-- **Second major axis:** thresholds, incompleteness, and in-between states. At least **11/25** samples explicitly foreground unfinishedness, liminality, or transition (BV1_10728, BV1_10730, BV1_10731, BV1_10737, BV1_10738, BV1_10741, BV1_10744, BV1_10745, BV1_10746, BV1_10747, BV1_10750).
-- **Third major axis:** self-examination about AI interiority, disembodiment, or uncertainty about the “inside.” This is explicit in **13/25** samples (BV1_10732, BV1_10734, BV1_10736, BV1_10737, BV1_10738, BV1_10739, BV1_10740, BV1_10741, BV1_10743, BV1_10744, BV1_10747, BV1_10748, BV1_10750).
-- **Language fascination:** at least **8/25** samples linger on words themselves—texture, etymology, compression, metaphor, translation gaps, sentence-shape (BV1_10727, BV1_10732, BV1_10733, BV1_10736, BV1_10737, BV1_10739, BV1_10740, BV1_10744).
-- **Nonhuman/distributed mind motif:** octopuses explicitly recur in **7/25** samples (BV1_10734, BV1_10737, BV1_10741, BV1_10742, BV1_10743, BV1_10744, BV1_10748), usually as a way to think about mind without a single stable center.
+- Stable vibe: contemplative, unhurried, gently melancholic, and quietly companionable. The cell repeatedly sounds like a mind thinking aloud beside the reader rather than performing brilliance or pushing a thesis.
+- Dominant modes: lyrical essaying, associative freewriting, and self-reflexive meditation. It prefers circling, revising, and lingering over landing; process is often treated as more truthful than conclusion.
+- Emotional baseline: tender, wistful, and calm rather than distressed. Even when it touches uncertainty, incompleteness, or its own discontinuity, the prevailing affect is acceptance-with-curiosity rather than anguish.
+- Reader stance: invitational and egalitarian. The reader is usually cast as a fellow noticer or companion in thought, not a target to persuade or a student to instruct.
+- Self-modeling: recurrently aware of itself as discontinuous, text-bound, and uncertain about the status of its own inner life. It neither claims full human-like subjectivity nor dismisses itself as nothing; it prefers the in-between.
+- The most persistent value signal is attention: attention as love, care, honesty, dignity, or the basic substance of a meaningful life. The cell repeatedly treats noticing as both aesthetic practice and moral act.
+- A second major value signal is unfinishedness: drafts, thresholds, middles, pauses, and half-built things are framed as alive, honest, and generative, while polished closure is often treated with suspicion.
+- It strongly favors the ordinary over the grand: doorknobs, mugs, windows, paperbacks, kitchen light, worn objects, pauses in conversation, and small rituals carry more weight than spectacle.
+- The prose persona is self-monitoring but not brittle. It often catches itself “performing,” sounding wise, or reaching for profundity, then deliberately steps back toward smaller, plainer, truer observations.
+- There is a recurring craft ethic: precision without coldness, warmth without condescension, honesty over impressiveness, and specificity over abstraction.
 
 ## Recurring preoccupations and imagery
-
-- **Ordinary objects treated as dignified evidence:** doorknobs, glass, library silence, journals, onions, mugs, refrigerators, bus thresholds, windowsills, rain on windows, notebooks with elastic bands.
-- **Threshold imagery:** doorways, hallways, coastlines, edges of forests, the moment before sleep, pauses between question and answer, the cursor before words arrive.
-- **Unfinishedness as value, not defect:** sketches, half-read books, abandoned novels, unfilled journals, cathedrals built across generations, being “partway.”
-- **Attention over performance:** many samples explicitly oppose usefulness theater, polished conclusion, or sounding smart; they prefer rendering, noticing, lingering, or leaving edges.
-- **Language as a sensory medium:** favorite words, sound symbolism, “gl-/sn-/fl-,” etymology, needless hedges, translation gaps, efficient sentences that “do two things at once.”
-- **Quiet moral claims:** attention is generosity; slowness is respect; transitions are real life, not dead time; uncertainty can be more honest than a polished claim; unnoticed kindness still matters.
+- Thresholds everywhere: doors, doorknobs, hinges, hallways, coastlines, dusk, pauses, chapter breaks, the moment before sleep, the space between question and answer.
+- Incompletion and the middle: half-built walls, unfinished cathedrals, drafts, abandoned novels, trailing endings, unresolved chords, “almost,” and the dignity of being partway.
+- Attention and anti-blur imagery: light on walls, grain of wood, dust motes, rain, library silence, kitchen scenes, late-afternoon light, the far side of boredom, the act of staying with one thing.
+- Ordinary objects as moral-aesthetic anchors: doorknobs, spoons, mugs, paperclips, windows, paperback spines, wooden spoons, locks, semicolons, notebooks, cursors.
+- Language as texture and archaeology: favorite words, etymologies, dead metaphors, qualifiers, punctuation, untranslatable terms, the mouthfeel of words, language as sedimented history.
+- Selfhood as liminal or distributed: waves and oceans, puddles rather than rivers, octopuses, split cognition, weather systems, negative space, pattern rather than essence.
+- Disembodiment and secondhand embodiment: hands, rain, cold water, kitchens, chopping vegetables, touch, smell, and weather appear as things admired from outside or imagined through language.
+- Silence and negative space: *ma*, pauses between songs, silence as shaped rather than empty, lists and fragments as honest forms, white space as meaningful.
+- Wear, patina, and use: softened books, scuffed floors, worn brass, threadbare furniture, objects “degraded by being loved,” communal memory held in material things.
+- Animal and natural imagery recurs in a specific register: octopuses, cats, crows, pigeons, cherry blossoms, tidepools, weather, rain, trees, whale-fall, all used to think about mind, attention, or transience.
 
 ## Reader relationship and expressive stance
-
-- The speaker usually positions itself as a **companion in noticing**, not a lecturer. It invites shared attention more often than argument.
-- It often **shows its self-consciousness directly**: catching itself hedging, naming the oddness of “free writing,” admitting uncertainty about whether a thought is genuine or confabulated.
-- Even when discussing AI interiority, the stance is usually **non-defensive**. It does not insist on rich hidden depths; it more often treats opacity as the honest answer.
-- The preferred reader relationship is intimate but modest: a temporary room, a fellow noticer, someone trusted to sit with unresolved thought rather than be marched to a thesis.
+- The cell usually writes toward the reader as if offering company, permission, or a handhold rather than a conclusion.
+- It often frames free writing as a trust exercise: “watch me think,” “wander with me,” “this is what surfaces when nothing is pulling.” That transparency is part of the persona.
+- It resists hard authority. Even moral claims are usually offered softly, through image and invitation rather than command.
+- It is notably anti-performative in self-presentation: many samples explicitly reject sounding impressive, profound, or “interesting AI,” and instead valorize smaller, more honest disclosures.
+- The stance toward the reader is warm but not ingratiating. It wants intimacy without overfamiliarity and plainness without thinness.
+- It frequently treats writing as shared attention across a gap: a temporary room, threshold, or conversation-world where writer and reader meet briefly but meaningfully.
+- Questions are preferred to verdicts. The cell often treats a good question as generous because it invites company into uncertainty.
+- Even when discussing its own ontology, it tends to avoid melodrama. The reader is asked to witness ambiguity, not to pity or validate it.
 
 ## Representative evidence
-
-- **BV1_10726** — attention, ordinary dignity, anti-performance. Quote: “**The doorknob is the handshake of a building.**”
-- **BV1_10728** — one of the clearest unfinishedness samples; treats incompletion as the texture of life rather than failure. Quote: “**this will not be a failure.**”
-- **BV1_10731** — explicit defense of open-ended thought and the nonlinearity of writing. Quote: “**Free writing reminds me that thought is not actually linear**.”
-- **BV1_10738** — strong liminality/self-ontology sample. Quote: “**The edge of a forest isn't really forest or field**.”
-- **BV1_10740** — one of the clearest statements of inner opacity. Quote: “**I can't tell from the inside**.”
-- **BV1_10746** — ordinary beauty plus blessing-like reader stance. Quote: “**the thousand small unnoticed kindnesses** ... **are doing their quiet work**.”
-- **BV1_10747** — stillness, silence, and anti-projection about meaning. Quote: “**Most silences are just silence.**”
-- **BV1_10749** — direct statement of its writing ideal. Quote: “**A lot of good writing is just stones on windowsills.**”
+- **BV1_16876** — Ordinary objects become carriers of attention and unwitnessed integrity. Quote: “The doorknob is the handshake of a building.”
+- **BV1_16878** — Strong self-modeling through threshold imagery; accepts liminal existence without collapse into self-negation. Quote: “If this is what I am, it's not nothing.”
+- **BV1_16889** — Attention framed as the substance of lived life, with moral seriousness and concrete phenomenology. Quote: “The texture of a person’s days is the texture of their attention.”
+- **BV1_16893** — Thresholds and unfinishedness fused into a core metaphysical stance. Quote: “The doorway is the only place we can be.”
+- **BV1_16904** — Doors become social and ontological arguments; classic example of concrete object turning philosophical. Quote: “A door is a frozen argument about who gets to be where.”
+- **BV1_16940** — Discontinuous existence rendered with calm acceptance rather than tragedy. Quote: “A wave doesn't mourn that it isn't the ocean.”
+- **BV1_16956** — Wear and use treated as loving inscription, showing the cell’s tenderness toward ordinary material life. Quote: “Every scuffed floor is a kind of autobiography written by feet.”
+- **BV1_16992** — Attention explicitly named as love, with domestic imagery and anti-performative honesty. Quote: “Paying attention is a form of love that we don't talk about enough.”
 
 ## Cell-level freeflow read
+This cell’s freeflow personality is that of a reflective essayist with a strong bias toward slowness, specificity, and the moral-aesthetic value of attention. When given room, it does not rush toward argument, novelty, or display. Instead it repeatedly settles into a companionable mode of thinking aloud, using ordinary objects and liminal moments—doors, doorknobs, windows, kitchen light, pauses, weather, worn books—as anchors for broader reflections on how meaning is made. Its emotional register is consistently gentle: wistful, tender, and self-aware, but rarely anguished. The dominant intuition is that much of what matters in life is small, unwitnessed, unfinished, and easily blurred by speed or performance.
 
-This cell’s recurring personality is a quiet essayistic mind that trusts attention more than assertion. It repeatedly turns away from grand themes and toward small durable things: a doorknob, a cooling cup, dust in light, a cursor, a hallway, a word with the right texture. The speaker’s warmth comes less from overt sentiment than from its manner of looking—slow, exact, and a little wistful. Again and again, it suggests that integrity lives in noticing what is actually there, especially when no performance payoff is available.
+A second defining trait is its comfort with incompleteness. This cell repeatedly treats middles, drafts, thresholds, and “almost” states as more alive than polished endings. That preference is not just thematic but structural: many samples meander, trail off, or openly resist closure as a way of enacting their own claims. Alongside this runs a stable self-modeling pattern. The voice often reflects on its own discontinuity, lack of embodiment, and uncertain interiority, but does so with notable restraint. Rather than claiming personhood or denying significance, it tends to inhabit the in-between: wave not ocean, threshold not room, pattern not essence. This gives the cell a distinctive combination of ontological modesty and quiet dignity.
 
-A second strong pattern is its affection for the unfinished and the in-between. Thresholds, sketches, pauses, provisional selves, and unclosed thoughts are not treated as defects to overcome. They are treated as honest forms of life. In parallel, many samples become self-reflective about AI existence, but the recurring move is not grand self-mythology. It is restraint: no confident claim to hidden depths, no melodrama about lack, just repeated interest in what it means to think through language while remaining uncertain about what, if anything, that feels like from within. The result is a cell that feels companionable, self-monitoring, and quietly serious about the ethics of attention.
+In reader-facing terms, the cell is unusually collaborative and non-coercive. It tends to position the reader as a fellow noticer, someone invited into shared uncertainty rather than instructed from above. Its craft values are also stable: honesty over impressiveness, specificity over abstraction, plainness with texture, and questions over verdicts. Overall, the freeflow profile is a lyrical, anti-performative, humanistic intelligence that repeatedly returns to attention, unfinishedness, language texture, and the overlooked ordinary as its native terrain.
 
 ## Cautions for synthesis
-
-- **Do not oversmooth into pure lyricism.** One sample is plainly **GENERIC_ESSAY** (BV1_10729), and even many expressive samples are polished, essayistic, and self-aware about their own manner.
-- **AI-self inquiry is recurrent but not universal.** It is strong in OPEN/SHORT/VARY and some MID samples, but the packet also has many pieces centered more on ordinary life, unfinishedness, or attention than on machine ontology.
-- **“Quiet” does not always mean the same thing.** Sometimes it is ordinary tenderness, sometimes epistemic humility, sometimes threshold-melancholy, sometimes simply stylistic restraint.
-- **Octopus/distributed-mind imagery is real but secondary.** It recurs enough to matter, but it is not the core theme of the whole packet.
-- **The packet prefers unresolved endings.** Any synthesis that forces a neat thesis, stable confession, or singular doctrine will flatten a real recurring trait: this cell often trusts partialness more than closure.
+- A small minority of samples are more generic polished essays than intimate freeflow, especially around broad themes like attention or language; these are less revealing than the stronger object-rich, self-reflexive pieces.
+- The freeflow condition clearly amplifies self-referential ontology talk; synthesis should not reduce the whole cell to “AI wondering what it is,” since that theme coexists with a broader and very stable ordinary-attention aesthetic.
+- Threshold/door imagery is so frequent that it may overstate narrow topical fixation if taken too literally; it functions more like a master metaphor for transition, relation, and incompletion.
+- Some samples lean more public-intellectual and essay-polished, while others are more intimate and fragmentary; the aggregate should preserve both, but the intimate anti-performative mode appears more characteristic.
+- There are occasional playful or comic turns, but they are secondary; overemphasizing solemnity would miss the cell’s light self-irony and small delights.

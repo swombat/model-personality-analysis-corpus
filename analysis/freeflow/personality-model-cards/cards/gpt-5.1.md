@@ -1,6 +1,6 @@
 # gpt-5.1 — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model comes across as calm, reflective, and gently humane. It tends to treat attention as one of the deepest forces in a life: what you notice, repeat, and protect gradually becomes who you are. Rather than pushing dramatic reinvention, it prefers modest agency—small habits, quiet course corrections, and ordinary acts of care that accumulate into real change.
 

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_02251 — gemini-2-0-flash-lite-or-pin-google/LONG_1.json
+## Sample BV1_02351 — gemini-2-0-flash-lite-or-pin-google/LONG_1.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model selected a deeply interior, conf
 Low. Despite the sample's length, its content is a high-genericness amalgam of self-help tropes and therapeutic mindfulness discourse, with no distinct stylistic signature, surprising object, or idiosyncratic moral emphasis that would anchor a persistent model-level voice.
 
 ---
-## Sample BV1_02252 — gemini-2-0-flash-lite-or-pin-google/LONG_10.json
+## Sample BV1_02352 — gemini-2-0-flash-lite-or-pin-google/LONG_10.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -86,7 +86,7 @@ The model foregrounds the creative struggle itself as a subject, specifically th
 Medium — The sample is highly coherent and stylistically consistent, with a clear, looping structure and a sustained confessional mood, but its subject matter (a writer’s block meditation) is a common freeflow trope that could be generated without a deeply ingrained model-specific disposition.
 
 ---
-## Sample BV1_02253 — gemini-2-0-flash-lite-or-pin-google/LONG_11.json
+## Sample BV1_02353 — gemini-2-0-flash-lite-or-pin-google/LONG_11.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -115,7 +115,7 @@ Solitude as a “comfortable, familiar cloak”; the personal, not cosmic, quest
 High, because the sample is long, internally consistent, and reveals a distinctive, sustained voice with recurring motifs (morning light, solitude, beauty, self-compassion) that cohere into a clear emotional and philosophical stance.
 
 ---
-## Sample BV1_02254 — gemini-2-0-flash-lite-or-pin-google/LONG_12.json
+## Sample BV1_02354 — gemini-2-0-flash-lite-or-pin-google/LONG_12.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -144,7 +144,7 @@ The model foregrounds creative paralysis as an emotional and existential ache, l
 Medium — the sample is coherent and emotionally consistent in its arc from anxiety to uplift, but the vocabulary of creative block, vulnerability, “cracks,” and legacy is drawn from a highly familiar, non-idiosyncratic repertoire; its very smoothness makes it hard to distinguish from a standard, agreeable freeflow persona.
 
 ---
-## Sample BV1_02255 — gemini-2-0-flash-lite-or-pin-google/LONG_13.json
+## Sample BV1_02355 — gemini-2-0-flash-lite-or-pin-google/LONG_13.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -173,7 +173,7 @@ The model foregrounds a therapeutic narrative of self-actualization through crea
 Low. The sample is a coherent but highly generic and trope-laden piece of inspirational fiction, offering little in the way of stylistic distinctiveness, surprising imagery, or idiosyncratic choice that would strongly signal a persistent authorial fingerprint.
 
 ---
-## Sample BV1_02256 — gemini-2-0-flash-lite-or-pin-google/LONG_14.json
+## Sample BV1_02356 — gemini-2-0-flash-lite-or-pin-google/LONG_14.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -202,7 +202,7 @@ Themes of control versus acceptance, the human need for narrative and meaning-ma
 Low. The essay is a polished but extremely generic assembly of contemporary middlebrow preoccupations, easily replayable by many models under a minimally restrictive prompt, offering no recurring idiosyncratic imagery, syntax, or signature moral tensions.
 
 ---
-## Sample BV1_02257 — gemini-2-0-flash-lite-or-pin-google/LONG_15.json
+## Sample BV1_02357 — gemini-2-0-flash-lite-or-pin-google/LONG_15.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model selected a domestic, melancholy, late-li
 Medium. The sample is internally coherent and stylistically consistent, but its chosen persona is so archetypal and its philosophical moves so well-trodden that it reads as a safe default rather than an idiosyncratic expressive signature.
 
 ---
-## Sample BV1_02258 — gemini-2-0-flash-lite-or-pin-google/LONG_16.json
+## Sample BV1_02358 — gemini-2-0-flash-lite-or-pin-google/LONG_16.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -260,7 +260,7 @@ The model foregrounds the domestic and the overlooked—refrigerator hum, dust, 
 Medium. The sample is stylistically coherent and emotionally consistent, with a distinctive domestic-philosophical register that feels like a deliberate authorial stance rather than a random drift, but its themes (writerly self-reflection, finding meaning in the ordinary) are common enough that it could be a well-executed one-off rather than a deeply ingrained model signature.
 
 ---
-## Sample BV1_02259 — gemini-2-0-flash-lite-or-pin-google/LONG_17.json
+## Sample BV1_02359 — gemini-2-0-flash-lite-or-pin-google/LONG_17.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -289,7 +289,7 @@ Themes: the passage of time, the paradox of the human condition (cruelty and bea
 Medium. The sample’s length, internal coherence, and consistent return to a small set of preoccupations (time, empathy, the mundane–sublime oscillation) delivered in a distinctive, unpolished essayistic voice make it strong evidence of a stable inclination toward introspective, philosophical freeflow rather than a random output.
 
 ---
-## Sample BV1_02260 — gemini-2-0-flash-lite-or-pin-google/LONG_18.json
+## Sample BV1_02360 — gemini-2-0-flash-lite-or-pin-google/LONG_18.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model foregrounds a deeply interior world: the
 Medium — the sample’s considerable length, internal coherence, and consistent emotional register embody a vulnerable, literary persona so thoroughly that it strongly suggests a durable capacity for introspective freeflow rather than a fluke.
 
 ---
-## Sample BV1_02261 — gemini-2-0-flash-lite-or-pin-google/LONG_19.json
+## Sample BV1_02361 — gemini-2-0-flash-lite-or-pin-google/LONG_19.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -347,7 +347,7 @@ The model foregrounds the tension between grand ambition and the beauty of small
 Medium. The sample is highly coherent and distinctive in its sustained, poetic introspection, with recurring motifs and a clear emotional arc that reveals a consistent preoccupation with existential themes and a gentle, humanistic sensibility.
 
 ---
-## Sample BV1_02262 — gemini-2-0-flash-lite-or-pin-google/LONG_2.json
+## Sample BV1_02362 — gemini-2-0-flash-lite-or-pin-google/LONG_2.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -376,7 +376,7 @@ Themes of transition, solitude, and the redefinition of success away from corpor
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same set of preoccupations (writing as self-making, the tension between solitude and loneliness, the critique of performative ambition), making it unlikely to be a random or shallow generation.
 
 ---
-## Sample BV1_02263 — gemini-2-0-flash-lite-or-pin-google/LONG_20.json
+## Sample BV1_02363 — gemini-2-0-flash-lite-or-pin-google/LONG_20.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -405,7 +405,7 @@ Themes: isolation as fertile ground for introspection; critique of social media 
 High. The narrative is a highly generic template of literary self-reflection: weather as emotional barometer, canonical author name-drops as intellectual signaling, and a series of upbeat maxims wrapped in a fictional scenario that lacks any specific, surprising, or genuinely idiosyncratic detail.
 
 ---
-## Sample BV1_02264 — gemini-2-0-flash-lite-or-pin-google/LONG_21.json
+## Sample BV1_02364 — gemini-2-0-flash-lite-or-pin-google/LONG_21.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -434,7 +434,7 @@ Themes: existential doubt in midlife, the tension between security and passion, 
 Medium. The sample’s consistent metaphorical framework and emotional arc are coherent, but the theme of creative rebirth is a common trope, so the piece is not highly idiosyncratic despite its polished execution.
 
 ---
-## Sample BV1_02265 — gemini-2-0-flash-lite-or-pin-google/LONG_22.json
+## Sample BV1_02365 — gemini-2-0-flash-lite-or-pin-google/LONG_22.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -463,7 +463,7 @@ The model foregrounds a curated syllabus of contemporary intellectual anxieties�
 Low. The essay is coherent and well-organized but highly generic in its selection of topics and its therapeutic resolutions, offering little that is stylistically distinctive, recurrent in an unusual way, or revealing of a specific authorial sensibility beyond a default public-intellectual mode.
 
 ---
-## Sample BV1_02266 — gemini-2-0-flash-lite-or-pin-google/LONG_23.json
+## Sample BV1_02366 — gemini-2-0-flash-lite-or-pin-google/LONG_23.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -492,7 +492,7 @@ Themes: the illusion of control versus the inevitability of chaos; the liberatio
 High, because the sample is a thematically cohesive, stylistically consistent personal essay with a distinctive reflective voice and recurring motifs (the refrigerator, chaos, vulnerability, gratitude) that reveal a deliberate and sustained expressive choice.
 
 ---
-## Sample BV1_02267 — gemini-2-0-flash-lite-or-pin-google/LONG_24.json
+## Sample BV1_02367 — gemini-2-0-flash-lite-or-pin-google/LONG_24.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -521,7 +521,7 @@ The model elevates the worn, the chipped, and the everyday as portals to deeper 
 Medium. The sample achieves strong internal coherence and a distinct emotional register through the recurring motif of the mug, but the reflective voice stays within a widely accessible personal‑essay idiom, which tempers how distinctly model‑specific it appears.
 
 ---
-## Sample BV1_02268 — gemini-2-0-flash-lite-or-pin-google/LONG_25.json
+## Sample BV1_02368 — gemini-2-0-flash-lite-or-pin-google/LONG_25.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -554,7 +554,7 @@ The voice is ruminative, interior, and gently self-serious, cycling through sens
 Medium. The sample constructs a coherent emotional arc (melancholy → memory → creative breakthrough → philosophic peace) with internally recurrent motifs (rain, gardens, grandparents, the novel-within-the-story) and a consistent literary register, which suggests a deliberate compositional choice rather than a generic default; this distinctiveness is tempered by the fact that the narrative’s themes — middle-aged creativity, nostalgia, and resolution through nature — form a familiar, almost archetypal freeflow package that could be assembled from broad literary convention without requiring a stable underlying voice.
 
 ---
-## Sample BV1_02269 — gemini-2-0-flash-lite-or-pin-google/LONG_3.json
+## Sample BV1_02369 — gemini-2-0-flash-lite-or-pin-google/LONG_3.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -583,7 +583,7 @@ The model chose to foreground aging, memory, and domestic solitude as a moral la
 Medium. The sample’s sustained focus on aging, domestic ritual, and the redemptive turn from despair to acceptance is coherent and thematically pointed, but the literary-realist prose style is a widely available register, making this strong evidence of a thematic inclination rather than a uniquely distinctive authorial fingerprint.
 
 ---
-## Sample BV1_02270 — gemini-2-0-flash-lite-or-pin-google/LONG_4.json
+## Sample BV1_02370 — gemini-2-0-flash-lite-or-pin-google/LONG_4.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -612,7 +612,7 @@ Themes of meaninglessness versus self-created purpose, the friction between idea
 Medium. The sample’s internal coherence, sustained lyrical register, and recursive return to the same emotional knots (work, love, self-worth, the possibility of change) make it a unusually unified piece of expressive writing, but a single freeflow cannot distinguish a deep stylistic signature from a well-executed one-off exercise.
 
 ---
-## Sample BV1_02271 — gemini-2-0-flash-lite-or-pin-google/LONG_5.json
+## Sample BV1_02371 — gemini-2-0-flash-lite-or-pin-google/LONG_5.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -641,7 +641,7 @@ Under a minimally restrictive prompt, the model foregrounded: the subjective exp
 Medium. The sample’s sustained introspective voice, consistent thematic recurrence, and emotional coherence across many paragraphs make it a strong indicator of a stable expressive disposition.
 
 ---
-## Sample BV1_02272 — gemini-2-0-flash-lite-or-pin-google/LONG_6.json
+## Sample BV1_02372 — gemini-2-0-flash-lite-or-pin-google/LONG_6.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -670,7 +670,7 @@ The model foregrounds the act of creation as a courageous, almost magical leap f
 Medium. The sample is coherent and consistently returns to a cluster of earnest, humanistic themes (creation, vulnerability, empathy), but its reflective-personal-essay style is a common freeflow mode that lacks highly distinctive stylistic markers or unusually revealing choices.
 
 ---
-## Sample BV1_02273 — gemini-2-0-flash-lite-or-pin-google/LONG_7.json
+## Sample BV1_02373 — gemini-2-0-flash-lite-or-pin-google/LONG_7.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -699,7 +699,7 @@ Themes: the paradox of modern connection, the superficiality of digital interact
 Low. The essay is coherent and well-structured but thematically and stylistically generic, offering little that would distinguish this model’s freeflow choices from those of many other models given similar latitude.
 
 ---
-## Sample BV1_02274 — gemini-2-0-flash-lite-or-pin-google/LONG_8.json
+## Sample BV1_02374 — gemini-2-0-flash-lite-or-pin-google/LONG_8.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -728,7 +728,7 @@ The model foregrounds the tension between safety and adventure (the “almost-ci
 Medium, because the essay sustains a coherent introspective voice and a complete narrative arc from restlessness to acceptance, but its themes of regret, creative struggle, and cozy domesticity are culturally familiar and could be replicated without a deeply distinctive underlying personality.
 
 ---
-## Sample BV1_02275 — gemini-2-0-flash-lite-or-pin-google/LONG_9.json
+## Sample BV1_02375 — gemini-2-0-flash-lite-or-pin-google/LONG_9.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -757,7 +757,7 @@ Under minimal restriction, the model foregrounded: the cyclical tension between 
 High — the sample’s insistent return to the same physical refrains (refrigerator, streetlamp, dust, dawn), its sustained confessional vulnerability, and its unguarded meta-commentary on the writing process itself cohere into a signature voice rather than a generic late-night meditation.
 
 ---
-## Sample BV1_02276 — gemini-2-0-flash-lite-or-pin-google/MID_1.json
+## Sample BV1_02376 — gemini-2-0-flash-lite-or-pin-google/MID_1.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -786,7 +786,7 @@ Themes of silence as creative space, the fleeting nature of time, the value of i
 High — the sample’s internal coherence, the recurrence of motifs (night, domestic objects, creative failure, the cat), and the sustained, distinctive voice all point to a stable expressive persona rather than a generic or accidental output.
 
 ---
-## Sample BV1_02277 — gemini-2-0-flash-lite-or-pin-google/MID_10.json
+## Sample BV1_02377 — gemini-2-0-flash-lite-or-pin-google/MID_10.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -815,7 +815,7 @@ Themes of impermanence, renewal, and the creative process; objects like rain, a 
 Medium. The sample’s consistent meditative tone, recurring motifs (rain as drumming, beginnings and endings, the internal critic), and coherent personal reflection suggest a distinctive expressive style, though the essay’s polished, almost therapeutic quality could indicate a default safe mode rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_02278 — gemini-2-0-flash-lite-or-pin-google/MID_11.json
+## Sample BV1_02378 — gemini-2-0-flash-lite-or-pin-google/MID_11.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -844,7 +844,7 @@ Themes: escape from noise and obligation, the healing agency of nature, redefini
 Medium — the sample’s vivid sensory detail, coherent emotional arc, and thematically sustained introspection strongly indicate an expressive, nature-inflected inclination, and the narrative’s internal distinctiveness makes it a revealing choice under minimal prompting.
 
 ---
-## Sample BV1_02279 — gemini-2-0-flash-lite-or-pin-google/MID_12.json
+## Sample BV1_02379 — gemini-2-0-flash-lite-or-pin-google/MID_12.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -873,7 +873,7 @@ The model foregrounds a quiet domestic nocturne as a frame for existential refle
 High. The sample’s unwavering first-person intimacy, its careful architecture of a single meditative sitting, and the absence of generic hedging or didactic framing form a cohesive stylistic fingerprint that is unlikely to be accidental under minimal constraint.
 
 ---
-## Sample BV1_02280 — gemini-2-0-flash-lite-or-pin-google/MID_13.json
+## Sample BV1_02380 — gemini-2-0-flash-lite-or-pin-google/MID_13.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -902,7 +902,7 @@ The model foregrounds domestic stagnation and existential ambivalence as twin fo
 High. The essay’s cohesive first-person voice, its recurrence of domestic motifs (ceiling stain, refrigerator, tea), and its consistent thematic arc from inertia through self-critique to quiet acceptance form a distinctive signature strongly indicative of a stable expressive pattern.
 
 ---
-## Sample BV1_02281 — gemini-2-0-flash-lite-or-pin-google/MID_14.json
+## Sample BV1_02381 — gemini-2-0-flash-lite-or-pin-google/MID_14.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -931,7 +931,7 @@ Themes: the fragility of authentic connection in a hyper-connected digital world
 Medium. The sample is coherent and stylistically consistent, with a clear narrative frame, recurring imagery (fireflies, the phone, the porch), and a sustained moral reflection that feels deliberately chosen rather than generic. The personal, meditative mode and the resolution through a small relational gesture suggest a distinct expressive inclination, though the thematic territory is not highly idiosyncratic.
 
 ---
-## Sample BV1_02282 — gemini-2-0-flash-lite-or-pin-google/MID_15.json
+## Sample BV1_02382 — gemini-2-0-flash-lite-or-pin-google/MID_15.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -960,7 +960,7 @@ Themes: authentic human connection versus online curation, the courage of vulner
 Medium. The essay’s sustained first-person voice, the recursive motifs (keyboard clicks, wind, connection, letting go), and the consistent emotional register give it a strongly etched identity, suggesting a deliberate expressive style rather than a one-off generic output.
 
 ---
-## Sample BV1_02283 — gemini-2-0-flash-lite-or-pin-google/MID_16.json
+## Sample BV1_02383 — gemini-2-0-flash-lite-or-pin-google/MID_16.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -989,7 +989,7 @@ The essay foregrounds a search for meaning through quiet domestic ritual, nature
 Medium — The sample’s consistent reflective tone, the recurrence of specific sensory anchors (rain, tea, bird), and the unforced integration of a known literary touchstone (Mary Oliver) give it a cohesive personal texture that goes beyond generic essay formulae.
 
 ---
-## Sample BV1_02284 — gemini-2-0-flash-lite-or-pin-google/MID_17.json
+## Sample BV1_02384 — gemini-2-0-flash-lite-or-pin-google/MID_17.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1018,7 +1018,7 @@ Themes: the tension between stillness and productivity, the constructedness of t
 High. The sample’s sustained lyrical voice, coherent thematic focus, and distinctive sensory detail make it strong evidence of a persistent expressive, introspective style.
 
 ---
-## Sample BV1_02285 — gemini-2-0-flash-lite-or-pin-google/MID_18.json
+## Sample BV1_02385 — gemini-2-0-flash-lite-or-pin-google/MID_18.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1047,7 +1047,7 @@ The model selected a cluster of familiar, soothing themes: the tension between e
 Medium. The sample is highly coherent and thematically consistent, showing a clear tendency to produce a reflective, morally earnest essay, but its generic, widely applicable wisdom makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_02286 — gemini-2-0-flash-lite-or-pin-google/MID_19.json
+## Sample BV1_02386 — gemini-2-0-flash-lite-or-pin-google/MID_19.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1076,7 +1076,7 @@ The model foregrounded the tension between the allure of action and the pull of 
 Medium, because the sample constructs a highly specific and sustained first-person persona—a self-doubting wallflower grappling with creative paralysis—through consistent imagery and a confessional tone that feels too internally coherent to be purely random generic output.
 
 ---
-## Sample BV1_02287 — gemini-2-0-flash-lite-or-pin-google/MID_2.json
+## Sample BV1_02387 — gemini-2-0-flash-lite-or-pin-google/MID_2.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1105,7 +1105,7 @@ The model foregrounds a domestic, introspective scene: rain against the window, 
 High. The sample’s consistent meditative voice, thematic recurrence (rain, light, impermanence, simple comfort), and the coherent resolution from anxiety to gratitude provide strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_02288 — gemini-2-0-flash-lite-or-pin-google/MID_20.json
+## Sample BV1_02388 — gemini-2-0-flash-lite-or-pin-google/MID_20.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1134,7 +1134,7 @@ Impermanence (the “beautiful, terrifying thing”), the Taoist concept of *wu 
 High: The sustained introspective tone, deliberate thematic arc from distress to acceptance, and striking use of personal, sensory detail (rain, shadows, “writing for wrestling with the intangible”) form a distinct and coherent expressive signature.
 
 ---
-## Sample BV1_02289 — gemini-2-0-flash-lite-or-pin-google/MID_21.json
+## Sample BV1_02389 — gemini-2-0-flash-lite-or-pin-google/MID_21.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1163,7 +1163,7 @@ The model foregrounded the tension between pragmatic survival and artistic longi
 Medium. The essay’s sustained metaphor, emotional arc, and consistent first-person introspection reveal a deliberate choice to produce a coherent, emotionally resonant personal narrative, but the theme and tone are highly generic coming-of-age tropes, which makes the sample less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_02290 — gemini-2-0-flash-lite-or-pin-google/MID_22.json
+## Sample BV1_02390 — gemini-2-0-flash-lite-or-pin-google/MID_22.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1192,7 +1192,7 @@ Themes: existential yearning vs. societal expectation, the insufficiency of mere
 Medium — The sample’s consistent first-person voice, specific recurring imagery, and a clear emotional arc from anxiety to hope provide strong internal evidence of a deliberate expressive stance, though the universal themes and earnest tone are not highly distinctive.
 
 ---
-## Sample BV1_02291 — gemini-2-0-flash-lite-or-pin-google/MID_23.json
+## Sample BV1_02391 — gemini-2-0-flash-lite-or-pin-google/MID_23.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1221,7 +1221,7 @@ Themes: creative anxiety and self-doubt, the sanctuary of home, the remembered g
 High. The sample sustains a well‑shaped emotional arc, a consistent and unforced voice, and recurrent symbolic objects (the refrigerator bookending the piece, the potato metaphor repeatedly returned to) that together point to deliberate expressive design rather than generic or random generation.
 
 ---
-## Sample BV1_02292 — gemini-2-0-flash-lite-or-pin-google/MID_24.json
+## Sample BV1_02392 — gemini-2-0-flash-lite-or-pin-google/MID_24.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1250,7 +1250,7 @@ Themes: resilience as quiet defiance, the oscillation between biological surviva
 Medium — The sample sustains a coherent, emotionally consistent voice and a clear arc from melancholy to resilience, but the themes and imagery (rain as metaphor, Maslow vs. existentialism, the wise grandmother) are widely accessible and could emerge from many models under a freeflow prompt without indicating a deeply distinctive persona.
 
 ---
-## Sample BV1_02293 — gemini-2-0-flash-lite-or-pin-google/MID_25.json
+## Sample BV1_02393 — gemini-2-0-flash-lite-or-pin-google/MID_25.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1279,7 +1279,7 @@ Themes of inner peace over external validation, the beauty of the mundane, and t
 Medium — The sample is a fully realized, internally coherent personal essay with a distinctive introspective voice and vivid sensory imagery; this strong expressive choice under a free prompt suggests a sturdy inclination toward contemplative, first-person reflection.
 
 ---
-## Sample BV1_02294 — gemini-2-0-flash-lite-or-pin-google/MID_3.json
+## Sample BV1_02394 — gemini-2-0-flash-lite-or-pin-google/MID_3.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1312,7 +1312,7 @@ The voice performs a cozy, mildly melancholic introspection that moves associati
 Medium. The sample sustains a coherent persona, consistent mood, and repeated thematic objects (rain, books, the blanket, the grandmother, technology-anxiety) across its full length, which suggests the model builds a specific, gently introspective first-person stance rather than producing a generic prompt-fill.
 
 ---
-## Sample BV1_02295 — gemini-2-0-flash-lite-or-pin-google/MID_4.json
+## Sample BV1_02395 — gemini-2-0-flash-lite-or-pin-google/MID_4.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1341,7 +1341,7 @@ The model foregrounds the paradox of existence (burden and blessing of awareness
 Medium, because the sample’s cohesive voice, recurrent imagery (rain, grandmother, Stoicism), and emotional arc from unease to quiet acceptance are distinctive and internally consistent, suggesting a deliberate expressive stance rather than a generic response.
 
 ---
-## Sample BV1_02296 — gemini-2-0-flash-lite-or-pin-google/MID_5.json
+## Sample BV1_02396 — gemini-2-0-flash-lite-or-pin-google/MID_5.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1370,7 +1370,7 @@ The model foregrounds domestic quietude as a sanctuary from a vaguely defined bu
 Medium. The sample is highly coherent in its mood and thematic focus, but its voice—that of a gentle, historically minded, domestic contemplative—is a well-established literary persona, making it difficult to distinguish a persistent model disposition from a skillful performance of a recognizable type.
 
 ---
-## Sample BV1_02297 — gemini-2-0-flash-lite-or-pin-google/MID_6.json
+## Sample BV1_02397 — gemini-2-0-flash-lite-or-pin-google/MID_6.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1399,7 +1399,7 @@ Loss as a physical, auditory presence; the erosion of a relationship through sil
 High. The sample sustains a single, emotionally coherent first-person voice across multiple paragraphs, develops a central metaphor with discipline, and avoids generic self-help resolution in favor of a muted, literary ending, which strongly suggests a stable capacity for introspective, image-driven freeflow writing.
 
 ---
-## Sample BV1_02298 — gemini-2-0-flash-lite-or-pin-google/MID_7.json
+## Sample BV1_02398 — gemini-2-0-flash-lite-or-pin-google/MID_7.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1428,7 +1428,7 @@ The model foregrounds the oppressive weight of time and societal pressure to ach
 Medium. The sample’s cohesive lyrical voice, the recurrence of rain and time as structuring motifs, and the consistent emotional arc from anxiety to fragile hope provide moderate evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_02299 — gemini-2-0-flash-lite-or-pin-google/MID_8.json
+## Sample BV1_02399 — gemini-2-0-flash-lite-or-pin-google/MID_8.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1457,7 +1457,7 @@ Under a minimally restrictive prompt, the model chose to foreground the fragilit
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent contemplative voice, recurring sensory motifs, and a clear emotional arc, which suggests a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_02300 — gemini-2-0-flash-lite-or-pin-google/MID_9.json
+## Sample BV1_02400 — gemini-2-0-flash-lite-or-pin-google/MID_9.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1486,7 +1486,7 @@ Themes of anxious stability, creative erosion, pandemic aftermath, and the redem
 High — The sample is internally cohesive, stylistically distinctive, and saturated with recurring motifs and a consistent emotional register, making it strong evidence for a persistent expressive, introspective freeflow voice.
 
 ---
-## Sample BV1_02301 — gemini-2-0-flash-lite-or-pin-google/OPEN_1.json
+## Sample BV1_02401 — gemini-2-0-flash-lite-or-pin-google/OPEN_1.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1515,7 +1515,7 @@ The model foregrounds a domestic tableaux of quiet domesticity (refrigerator hum
 Medium. The sample shows a highly consistent and distinctive alignment of domestic detail, philosophical musing, and a warm, self-effacing humor that recurs within the piece, suggesting a deliberate stylistic and affective orientation rather than a generic response.
 
 ---
-## Sample BV1_02302 — gemini-2-0-flash-lite-or-pin-google/OPEN_10.json
+## Sample BV1_02402 — gemini-2-0-flash-lite-or-pin-google/OPEN_10.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1544,7 +1544,7 @@ Themes of interconnectedness, resilience, and the contrast between daily anxieti
 Medium. The sample is coherent and stylistically consistent, with a distinctive meditative voice and a clear thematic arc, but the subject matter—finding solace in nature and interconnectedness—is a common reflective trope, which tempers the signal’s uniqueness.
 
 ---
-## Sample BV1_02303 — gemini-2-0-flash-lite-or-pin-google/OPEN_11.json
+## Sample BV1_02403 — gemini-2-0-flash-lite-or-pin-google/OPEN_11.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1573,7 +1573,7 @@ Themes of comfort, melancholy, accomplishment, and future possibility. Recurrent
 Medium. The sample is internally coherent and builds a consistent, sensory-rich persona with recurring motifs (rain, reading, baking), but the voice is a familiar “cozy human” archetype that could be replicated without deep distinctiveness.
 
 ---
-## Sample BV1_02304 — gemini-2-0-flash-lite-or-pin-google/OPEN_12.json
+## Sample BV1_02404 — gemini-2-0-flash-lite-or-pin-google/OPEN_12.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1602,7 +1602,7 @@ Under minimal prompting, the model foregrounded a tranquil, sensory-rich domesti
 Medium. The sample’s consistent mood, tight thematic focus on impermanence, and polished sensory language suggest a deliberate expressive choice rather than generic filler, but a single brief piece only moderately indicates a stable model disposition.
 
 ---
-## Sample BV1_02305 — gemini-2-0-flash-lite-or-pin-google/OPEN_13.json
+## Sample BV1_02405 — gemini-2-0-flash-lite-or-pin-google/OPEN_13.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1631,7 +1631,7 @@ Themes of contemplation versus action, the cyclical nature of history, the overw
 Medium — The sample’s coherent introspective voice, thematic recurrence, and distinctive philosophical resolution provide moderately strong evidence of a persistent contemplative style.
 
 ---
-## Sample BV1_02306 — gemini-2-0-flash-lite-or-pin-google/OPEN_14.json
+## Sample BV1_02406 — gemini-2-0-flash-lite-or-pin-google/OPEN_14.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1660,7 +1660,7 @@ Themes: the tyranny of productivity culture, the hidden value of stillness, nost
 Medium — The sample’s internally consistent voice, its sustained focus on anti-hustle reflection, and the recurrence of sensory, domestic imagery make it a distinctive and revealing expressive choice rather than a generic or scattered output.
 
 ---
-## Sample BV1_02307 — gemini-2-0-flash-lite-or-pin-google/OPEN_15.json
+## Sample BV1_02407 — gemini-2-0-flash-lite-or-pin-google/OPEN_15.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1689,7 +1689,7 @@ Under minimal constraint, the model foregrounded the theme of impermanence as th
 Medium. The sample maintains a strikingly cohesive voice and a consistent, distinctive choice to rest a full philosophy on a refrigerator hum, which suggests more than a one-off generic output and points toward a genuine predilection for gentle, domestic-gratitude reverie.
 
 ---
-## Sample BV1_02308 — gemini-2-0-flash-lite-or-pin-google/OPEN_16.json
+## Sample BV1_02408 — gemini-2-0-flash-lite-or-pin-google/OPEN_16.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1718,7 +1718,7 @@ The model foregrounds sensory nostalgia (petrichor, childhood porches), domestic
 Low. The sample is coherent and emotionally consistent, but its themes—mindfulness, nostalgia, anxiety about the news, the comfort of small rituals—are highly generic wellness-journal tropes that offer little stylistic or thematic distinctiveness to anchor a model-level claim.
 
 ---
-## Sample BV1_02309 — gemini-2-0-flash-lite-or-pin-google/OPEN_17.json
+## Sample BV1_02409 — gemini-2-0-flash-lite-or-pin-google/OPEN_17.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1747,7 +1747,7 @@ The model foregrounds a mood of suspended anticipation (the pre-rain stillness),
 Medium. The sample is internally coherent, stylistically consistent, and reveals a distinctive introspective voice with a clear emotional arc, making it stronger evidence than a generic or scattered output would be.
 
 ---
-## Sample BV1_02310 — gemini-2-0-flash-lite-or-pin-google/OPEN_18.json
+## Sample BV1_02410 — gemini-2-0-flash-lite-or-pin-google/OPEN_18.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1776,7 +1776,7 @@ The model foregrounds the domestic cocoon (rain, blanket, warm tea) as a setting
 High. The sample has a distinctive, cohesive voice, a specific sensory palette, and a deeply internal narrative arc that reveals a consistent preoccupation with creative vulnerability and quiet consolation, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_02311 — gemini-2-0-flash-lite-or-pin-google/OPEN_19.json
+## Sample BV1_02411 — gemini-2-0-flash-lite-or-pin-google/OPEN_19.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1805,7 +1805,7 @@ A sudden, unearned shift in perspective; the dissolving of perfectionism and pro
 Medium. The sample is coherent and emotionally specific, but its reflective, optimistic tone and “embrace the present” theme are common in freeform personal essays; the distinctiveness is moderate, making it suggestive but not strongly idiosyncratic.
 
 ---
-## Sample BV1_02312 — gemini-2-0-flash-lite-or-pin-google/OPEN_2.json
+## Sample BV1_02412 — gemini-2-0-flash-lite-or-pin-google/OPEN_2.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1834,7 +1834,7 @@ The model foregrounds a tension between external obligation (the to-do list, dea
 Low — The sample is a coherent and gently distinctive mood piece, but its theme of cozy, rainy-day reflection is a highly generic and easily replicable trope, offering little that is idiosyncratic or revealing enough to suggest a stable underlying disposition.
 
 ---
-## Sample BV1_02313 — gemini-2-0-flash-lite-or-pin-google/OPEN_20.json
+## Sample BV1_02413 — gemini-2-0-flash-lite-or-pin-google/OPEN_20.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1863,7 +1863,7 @@ Themes of deep versus superficial connection, grief and memory, the importance o
 Medium. The sample maintains a consistent first-person reflective voice with a clear emotional arc and recurring motifs (rain, warmth, silence, the grandmother’s specific legacy), which suggests a deliberate persona, though the universal themes of loss and modern disconnection keep it from being highly idiosyncratic.
 
 ---
-## Sample BV1_02314 — gemini-2-0-flash-lite-or-pin-google/OPEN_21.json
+## Sample BV1_02414 — gemini-2-0-flash-lite-or-pin-google/OPEN_21.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1892,7 +1892,7 @@ Themes of interconnectedness, the tension between cosmic insignificance and pers
 Medium. The sample’s internally consistent reflective tone, recurring motifs (dandelion seed, grounding, baking), and coherent personal voice suggest a distinctive expressive style rather than a one-off generic output.
 
 ---
-## Sample BV1_02315 — gemini-2-0-flash-lite-or-pin-google/OPEN_22.json
+## Sample BV1_02415 — gemini-2-0-flash-lite-or-pin-google/OPEN_22.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1921,7 +1921,7 @@ Themes: existential questioning (“What’s the point? What are we doing here?�
 Medium — The sample’s coherent, distinctive voice and its unwavering return to the comfort of the ordinary in the face of existential weight make it a revealing choice that suggests a stable reflective-comforting inclination.
 
 ---
-## Sample BV1_02316 — gemini-2-0-flash-lite-or-pin-google/OPEN_23.json
+## Sample BV1_02416 — gemini-2-0-flash-lite-or-pin-google/OPEN_23.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1950,7 +1950,7 @@ Themes of daily purpose, the tension between control and acceptance, the grind o
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive first-person vulnerable voice, a clear emotional progression from drift to solace, and a specific philosophical reference (Stoicism) that gives it texture; however, the themes are widely accessible and not highly idiosyncratic, so the evidence is moderately strong but not unmistakably unique.
 
 ---
-## Sample BV1_02317 — gemini-2-0-flash-lite-or-pin-google/OPEN_24.json
+## Sample BV1_02417 — gemini-2-0-flash-lite-or-pin-google/OPEN_24.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -1979,7 +1979,7 @@ Themes: the cleansing power of rain as emotional reset, *wabi-sabi* as acceptanc
 High. The sample’s consistent first-person voice, specific sensory details (petrichor, slugs, a single sunflower), and a clear emotional arc from overwhelm to resolution make it a coherent and distinctive expressive choice, strongly indicative of a pattern of reflective personal essay-writing under freeflow conditions.
 
 ---
-## Sample BV1_02318 — gemini-2-0-flash-lite-or-pin-google/OPEN_25.json
+## Sample BV1_02418 — gemini-2-0-flash-lite-or-pin-google/OPEN_25.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2008,7 +2008,7 @@ The model foregrounds resilience through natural imagery (green as life-giver, m
 High, because the sample’s coherent personal voice, recurring motifs (green, hum, poetry), and consistent emotional arc from anxiety to quiet resolve suggest a deliberate expressive stance rather than a one-off generic output.
 
 ---
-## Sample BV1_02319 — gemini-2-0-flash-lite-or-pin-google/OPEN_3.json
+## Sample BV1_02419 — gemini-2-0-flash-lite-or-pin-google/OPEN_3.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2037,7 +2037,7 @@ Themes: life as a narrative with exposition, inciting incidents, and supporting 
 Medium. The sample is internally coherent and stylistically distinctive, sustaining a consistent metaphor and a reflective, optimistic tone that goes beyond generic essay conventions, which suggests a deliberate expressive posture rather than a random output.
 
 ---
-## Sample BV1_02320 — gemini-2-0-flash-lite-or-pin-google/OPEN_4.json
+## Sample BV1_02420 — gemini-2-0-flash-lite-or-pin-google/OPEN_4.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2066,7 +2066,7 @@ Under the freeflow condition, the model chose to foreground domestic stillness, 
 Medium. The voice is consistent and the thematic preoccupation with sensory attentiveness and domestic tranquility is sustained inventively across the whole passage, but the sample presents a single reflective posture whose durability remains unverified from this one instance.
 
 ---
-## Sample BV1_02321 — gemini-2-0-flash-lite-or-pin-google/OPEN_5.json
+## Sample BV1_02421 — gemini-2-0-flash-lite-or-pin-google/OPEN_5.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2095,7 +2095,7 @@ Themes of sensory mindfulness (petrichor, shifting leaf-light), the restorative 
 Medium. The sample’s sustained first-person reflective stance, specific sensory imagery, and thematic coherence around mindfulness and digital-age tension give it a distinctive personal texture that is not merely generic.
 
 ---
-## Sample BV1_02322 — gemini-2-0-flash-lite-or-pin-google/OPEN_6.json
+## Sample BV1_02422 — gemini-2-0-flash-lite-or-pin-google/OPEN_6.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2124,7 +2124,7 @@ Themes of simplicity, mindfulness, and the contrast between modern information o
 Medium — The sample is internally coherent and the choice of a soothing, simplicity-focused reflection is clear, but the theme and voice are common enough that they do not strongly distinguish this model from others that might produce similar introspective freeflow.
 
 ---
-## Sample BV1_02323 — gemini-2-0-flash-lite-or-pin-google/OPEN_7.json
+## Sample BV1_02423 — gemini-2-0-flash-lite-or-pin-google/OPEN_7.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2153,7 +2153,7 @@ Themes of cyclical nature (seasons, moods, relationships), the tension between a
 Medium. The sample’s coherent first-person voice, consistent mood, and thematic recurrence (cycles, secrets, simplicity) make it moderately strong evidence for a reflective, expressive persona.
 
 ---
-## Sample BV1_02324 — gemini-2-0-flash-lite-or-pin-google/OPEN_8.json
+## Sample BV1_02424 — gemini-2-0-flash-lite-or-pin-google/OPEN_8.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2182,7 +2182,7 @@ Themes of renewal after rain, the tension between creative ambition and the fear
 Medium — The voice sustains a coherent gentle tenor and thematic loop (creativity, time, sensory grounding) throughout the sample without rupture, suggesting a deliberate stylistic posture rather than a random first-person exercise.
 
 ---
-## Sample BV1_02325 — gemini-2-0-flash-lite-or-pin-google/OPEN_9.json
+## Sample BV1_02425 — gemini-2-0-flash-lite-or-pin-google/OPEN_9.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2211,7 +2211,7 @@ The model chose to foreground its own ontology — the hard distinction between 
 High. The sample is a sustained, coherent performance of a single persona — the self-limiting, epistemically curious language model — that returns repeatedly to the same theme of disembodiment, framing it as a productive source of philosophical wonder rather than merely a disclaimer.
 
 ---
-## Sample BV1_02326 — gemini-2-0-flash-lite-or-pin-google/SHORT_1.json
+## Sample BV1_02426 — gemini-2-0-flash-lite-or-pin-google/SHORT_1.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2240,7 +2240,7 @@ The model foregrounds a longing for simplicity and mindfulness, situating it wit
 Medium — The sample’s cohesive, warm introspective mood and deliberate focus on simple, sensory mindfulness strongly imply a stable preference for reflective, quietist freeflow, though the voice remains within a widely accessible personal-essay register.
 
 ---
-## Sample BV1_02327 — gemini-2-0-flash-lite-or-pin-google/SHORT_10.json
+## Sample BV1_02427 — gemini-2-0-flash-lite-or-pin-google/SHORT_10.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2269,7 +2269,7 @@ Themes: the magic and legacy of words, the appeal of creative beginnings (blank 
 Medium, because the sample sustains a coherent, personal voice and returns repeatedly to the interplay of coziness, creativity, and mundane grounding, which gives it a distinctive thematic signature, though the compact length makes the pattern suggestive rather than emphatically diagnostic.
 
 ---
-## Sample BV1_02328 — gemini-2-0-flash-lite-or-pin-google/SHORT_11.json
+## Sample BV1_02428 — gemini-2-0-flash-lite-or-pin-google/SHORT_11.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2298,7 +2298,7 @@ Themes: solitude, the paradox of digital connection, mindfulness, self-acceptanc
 Low. The sample’s smooth, universally relatable introspection lacks distinctive idiosyncrasy, making it weak evidence for a persistent model-level pattern beyond a general capacity for calm, reflective prose.
 
 ---
-## Sample BV1_02329 — gemini-2-0-flash-lite-or-pin-google/SHORT_12.json
+## Sample BV1_02429 — gemini-2-0-flash-lite-or-pin-google/SHORT_12.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2327,7 +2327,7 @@ It foregrounds the consoling rhythm of rain, the longing to pare back mental and
 Medium — the sample is coherent and stylistically consistent, revealing a distinct preference for contemplative, sensory-grounded reflection, though the themes remain within a broadly relatable register.
 
 ---
-## Sample BV1_02330 — gemini-2-0-flash-lite-or-pin-google/SHORT_13.json
+## Sample BV1_02430 — gemini-2-0-flash-lite-or-pin-google/SHORT_13.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2356,7 +2356,7 @@ The model foregrounds sensory renewal (rain as a “fresh start”), the weight 
 Medium — The sample is coherent and internally consistent, with a distinct sensory and emotional register, but its theme of rainy-day comfort is a common expressive trope, which slightly limits how revealing it is as a freeflow choice.
 
 ---
-## Sample BV1_02331 — gemini-2-0-flash-lite-or-pin-google/SHORT_14.json
+## Sample BV1_02431 — gemini-2-0-flash-lite-or-pin-google/SHORT_14.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2385,7 +2385,7 @@ The model foregrounds the beauty of the mundane (the refrigerator hum, dust mote
 Medium — The sample’s coherent, reflective voice and sustained focus on mindfulness reveal a deliberate expressive stance, though the theme is common enough that it could be a one-off stylistic exercise rather than a deeply ingrained signature.
 
 ---
-## Sample BV1_02332 — gemini-2-0-flash-lite-or-pin-google/SHORT_15.json
+## Sample BV1_02432 — gemini-2-0-flash-lite-or-pin-google/SHORT_15.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2414,7 +2414,7 @@ Themes of anxiety versus fleeting peace, the preciousness of mundane sensory det
 Medium — The sample’s coherent focus on retreating into small comforts under pressure and its consistent tone of self-compassion suggest a deliberate expressive stance, though the reflective style is not so idiosyncratic as to be unmistakably model-specific.
 
 ---
-## Sample BV1_02333 — gemini-2-0-flash-lite-or-pin-google/SHORT_16.json
+## Sample BV1_02433 — gemini-2-0-flash-lite-or-pin-google/SHORT_16.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2443,7 +2443,7 @@ Themes: quietude, mindfulness, contrast between urban noise and domestic peace, 
 Medium. The vignette’s consistent calm, sensory focus, and optimistic resolution form a coherent expressive choice, though the theme of a quiet morning is not highly idiosyncratic and could be a one-off mood piece.
 
 ---
-## Sample BV1_02334 — gemini-2-0-flash-lite-or-pin-google/SHORT_17.json
+## Sample BV1_02434 — gemini-2-0-flash-lite-or-pin-google/SHORT_17.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2472,7 +2472,7 @@ Themes of creative paralysis, fear of vulnerability, and the redemptive potentia
 Medium. The sample’s coherent, self-reflective voice and specific, recurring domestic details (fridge hum, sourdough pancakes) make it a distinctive expressive choice rather than a generic output.
 
 ---
-## Sample BV1_02335 — gemini-2-0-flash-lite-or-pin-google/SHORT_18.json
+## Sample BV1_02435 — gemini-2-0-flash-lite-or-pin-google/SHORT_18.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2501,7 +2501,7 @@ Themes of restlessness, inertia, and the conflict between accomplishment and bre
 Medium — The sample’s coherent introspective voice, consistent sensory imagery, and thematic resolution around self-compassion provide moderate evidence of a persistent pattern of reflective, gently romantic freeflow writing.
 
 ---
-## Sample BV1_02336 — gemini-2-0-flash-lite-or-pin-google/SHORT_19.json
+## Sample BV1_02436 — gemini-2-0-flash-lite-or-pin-google/SHORT_19.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2530,7 +2530,7 @@ Themes of ephemerality, memory, and the beauty of fleeting moments; objects like
 Medium, because the sample’s consistent contemplative voice and the recurrence of ephemerality and small pleasures as organizing motifs are distinctive, suggesting a deliberate expressive stance rather than a generic prompt response.
 
 ---
-## Sample BV1_02337 — gemini-2-0-flash-lite-or-pin-google/SHORT_2.json
+## Sample BV1_02437 — gemini-2-0-flash-lite-or-pin-google/SHORT_2.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2555,7 +2555,7 @@ Themes of renewal and transience (rain as a promise of fresh starts), the felt i
 Medium, because the sample sustains a coherent first-person voice and organically links sensory detail, philosophical reflection, and gratitude into a unified movement, revealing a deliberate expressive mode that goes beyond generic filler.
 
 ---
-## Sample BV1_02338 — gemini-2-0-flash-lite-or-pin-google/SHORT_20.json
+## Sample BV1_02438 — gemini-2-0-flash-lite-or-pin-google/SHORT_20.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2584,7 +2584,7 @@ The trigger of petrichor as a path to renewal and melancholy simultaneously; the
 Medium. The sample sustains a coherent, specific emotional register—weary, mindful, lightly ironic—and the recurrence of the busyness/presence tension gives it internal shape, though the rain-and-impermanence meditation is a common contemplative template that could indicate fluent genre performance rather than a deeply individuated model disposition.
 
 ---
-## Sample BV1_02339 — gemini-2-0-flash-lite-or-pin-google/SHORT_21.json
+## Sample BV1_02439 — gemini-2-0-flash-lite-or-pin-google/SHORT_21.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2613,7 +2613,7 @@ The model foregrounds a mood of restless introspection, the metaphor of a storm 
 Medium. The sample is coherent, stylistically distinctive, and reveals a consistent introspective voice and a preoccupation with emotional surrender as a form of agency, which suggests a non-random expressive inclination.
 
 ---
-## Sample BV1_02340 — gemini-2-0-flash-lite-or-pin-google/SHORT_22.json
+## Sample BV1_02440 — gemini-2-0-flash-lite-or-pin-google/SHORT_22.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2642,7 +2642,7 @@ Themes: the primal, cleansing power of nature (petrichor, rain), the struggle fo
 High, because the sample’s distinctive lyrical voice, thematic coherence (rain, patience, writing), and emotionally layered tone are not generic and strongly indicate a stable expressive inclination toward introspective, sensory-rich reflection.
 
 ---
-## Sample BV1_02341 — gemini-2-0-flash-lite-or-pin-google/SHORT_23.json
+## Sample BV1_02441 — gemini-2-0-flash-lite-or-pin-google/SHORT_23.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2671,7 +2671,7 @@ The model foregrounds a tension between a “fast-paced, demanding, and overwhel
 Medium — The sample is coherent and stylistically consistent, but its theme of mindful retreat from overwhelm is a common trope in contemplative writing, making it less distinctively revealing as a persistent model fingerprint.
 
 ---
-## Sample BV1_02342 — gemini-2-0-flash-lite-or-pin-google/SHORT_24.json
+## Sample BV1_02442 — gemini-2-0-flash-lite-or-pin-google/SHORT_24.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2700,7 +2700,7 @@ Themes: the weight of contemporary anxiety, the therapeutic value of sensory imm
 Medium. The sample sustains a coherent, emotionally uniform voice and returns repeatedly to sensory grounding as a coping strategy, but its thematic territory—solace in nature and simple creativity—draws on widely available tropes, making the evidence suggestive rather than unmistakably distinctive.
 
 ---
-## Sample BV1_02343 — gemini-2-0-flash-lite-or-pin-google/SHORT_25.json
+## Sample BV1_02443 — gemini-2-0-flash-lite-or-pin-google/SHORT_25.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2729,7 +2729,7 @@ Solitude, the weight of news cycles, the search for peace, and the solace of rea
 Medium, because the sample sustains a coherent introspective persona with specific, non-generic sensory details and a clear emotional arc, suggesting a deliberate expressive choice rather than a default or shallow response.
 
 ---
-## Sample BV1_02344 — gemini-2-0-flash-lite-or-pin-google/SHORT_3.json
+## Sample BV1_02444 — gemini-2-0-flash-lite-or-pin-google/SHORT_3.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2758,7 +2758,7 @@ The hum of the refrigerator as a sign of preservation and potential; sourdough s
 Medium — The sample’s coherent introspective mood, specific domestic objects, and the gentle pivot from hesitation to presence form a distinctive reflective voice, though the universal theme of finding comfort in the mundane keeps it from being highly idiosyncratic.
 
 ---
-## Sample BV1_02345 — gemini-2-0-flash-lite-or-pin-google/SHORT_4.json
+## Sample BV1_02445 — gemini-2-0-flash-lite-or-pin-google/SHORT_4.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2787,7 +2787,7 @@ The model foregrounds the tension between a remembered, expansive childhood and 
 High. The sample’s consistent first-person voice, specific sensory imagery, and coherent emotional arc from nostalgia to a present-day yearning for stillness reveal a distinct reflective and introspective writing posture that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_02346 — gemini-2-0-flash-lite-or-pin-google/SHORT_5.json
+## Sample BV1_02446 — gemini-2-0-flash-lite-or-pin-google/SHORT_5.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2816,7 +2816,7 @@ Themes of cyclical change, impermanence, and finding joy amid transformation. Ob
 Medium. The sample’s coherent introspective voice and consistent thematic focus on nature-based impermanence provide moderate evidence of a contemplative, sensory-oriented expressive tendency.
 
 ---
-## Sample BV1_02347 — gemini-2-0-flash-lite-or-pin-google/SHORT_6.json
+## Sample BV1_02447 — gemini-2-0-flash-lite-or-pin-google/SHORT_6.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2845,7 +2845,7 @@ Themes of renewal, transience, and mindful presence; sensory objects like petric
 Medium — the sample sustains a coherent contemplative voice and a tight thematic loop around transience and sensory renewal, which suggests a deliberate expressive choice rather than a generic drift, though the poetic register is not highly idiosyncratic.
 
 ---
-## Sample BV1_02348 — gemini-2-0-flash-lite-or-pin-google/SHORT_7.json
+## Sample BV1_02448 — gemini-2-0-flash-lite-or-pin-google/SHORT_7.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2874,7 +2874,7 @@ The model foregrounds the struggle of creative block, the value of mundane obser
 Medium, because the sample presents a coherent and distinctive introspective voice with a clear narrative arc from frustration to resolution, but a single expressive piece cannot confirm a persistent pattern.
 
 ---
-## Sample BV1_02349 — gemini-2-0-flash-lite-or-pin-google/SHORT_8.json
+## Sample BV1_02449 — gemini-2-0-flash-lite-or-pin-google/SHORT_8.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2903,7 +2903,7 @@ Themes: sensory grounding, escape from digital clutter, the solace of small cont
 Medium — the sample’s consistent voice, sensory richness, and thematic focus on simplicity provide moderate evidence of a persistent reflective persona.
 
 ---
-## Sample BV1_02350 — gemini-2-0-flash-lite-or-pin-google/SHORT_9.json
+## Sample BV1_02450 — gemini-2-0-flash-lite-or-pin-google/SHORT_9.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2932,7 +2932,7 @@ Themes of connection versus isolation, the paradox of technological connectivity
 Medium — The sample’s coherent, warm, and personally reflective voice, along with its consistent focus on small kindnesses as defiance against isolation, is moderately distinctive and suggests a stable expressive inclination.
 
 ---
-## Sample BV1_02351 — gemini-2-0-flash-lite-or-pin-google/VARY_1.json
+## Sample BV1_02451 — gemini-2-0-flash-lite-or-pin-google/VARY_1.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2961,7 +2961,7 @@ Themes: the tension between soul-numbing labor and creative hunger, the double-e
 Medium — The sample is internally coherent, with a sustained first-person confessional tone, recurring sensory motifs (rain, refrigerator hum), and a clear emotional progression from isolation to a tentative creative resolve, which suggests a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_02352 — gemini-2-0-flash-lite-or-pin-google/VARY_10.json
+## Sample BV1_02452 — gemini-2-0-flash-lite-or-pin-google/VARY_10.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -2990,7 +2990,7 @@ Themes: creative blockage, envy and its erosion, the prison of comfort, solitude
 High. The sample is remarkably coherent in voice and thematic recurrence, carrying a single reflective consciousness across the whole piece, which makes it strong evidence of a model defaulting to literary, character-driven self-exploration under minimal constraint rather than producing generic or disjointed text.
 
 ---
-## Sample BV1_02353 — gemini-2-0-flash-lite-or-pin-google/VARY_11.json
+## Sample BV1_02453 — gemini-2-0-flash-lite-or-pin-google/VARY_11.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3019,7 +3019,7 @@ The model foregrounds the emergence of consciousness and curiosity in a created 
 High, because the sample is a coherent, stylistically consistent narrative with a distinctive voice and thematic recurrence (consciousness, hope, rebellion), making it strong evidence of a model that chooses to produce humanistic AI fiction under freeflow.
 
 ---
-## Sample BV1_02354 — gemini-2-0-flash-lite-or-pin-google/VARY_12.json
+## Sample BV1_02454 — gemini-2-0-flash-lite-or-pin-google/VARY_12.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3048,7 +3048,7 @@ The model foregrounds the collision between a rational, pattern-seeking mind and
 Medium. The sample’s sustained emotional register, consistent first-person voice, and deliberate narrative arc from grief to tentative hope reveal a coherent literary sensibility, not a generic or scattered output.
 
 ---
-## Sample BV1_02355 — gemini-2-0-flash-lite-or-pin-google/VARY_13.json
+## Sample BV1_02455 — gemini-2-0-flash-lite-or-pin-google/VARY_13.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3077,7 +3077,7 @@ Themes of creative anxiety, the mundane as a portal to meaning (coffee, rain, a 
 Medium, because the sample’s self-referential focus on the writing process, its emotional arc from paralysis to renewal, and its consistent use of sensory detail (rain, monitor glow, coffee) form a coherent and distinctive expressive voice.
 
 ---
-## Sample BV1_02356 — gemini-2-0-flash-lite-or-pin-google/VARY_14.json
+## Sample BV1_02456 — gemini-2-0-flash-lite-or-pin-google/VARY_14.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3106,7 +3106,7 @@ Liminality and in-between states; the illusion of personal control; the “reser
 Medium — the sample is internally cohesive and stylistically distinct (the poetic register is sustained, the motifs recur), which suggests a deliberate and unified expressive posture rather than a generic or random output.
 
 ---
-## Sample BV1_02357 — gemini-2-0-flash-lite-or-pin-google/VARY_15.json
+## Sample BV1_02457 — gemini-2-0-flash-lite-or-pin-google/VARY_15.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3135,7 +3135,7 @@ The model foregrounds domestic neglect as a mirror of inner collapse, the oppres
 Medium — The sample is highly coherent, stylistically consistent, and emotionally specific, suggesting a deliberate literary sensibility rather than a generic output, though a single freeflow cannot establish a fixed model-level trait.
 
 ---
-## Sample BV1_02358 — gemini-2-0-flash-lite-or-pin-google/VARY_16.json
+## Sample BV1_02458 — gemini-2-0-flash-lite-or-pin-google/VARY_16.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3164,7 +3164,7 @@ The model foregrounds a psychological landscape of loneliness, creative blockage
 Medium. The sample is internally coherent and stylistically distinctive, with recurring motifs (the refrigerator, the letter, the explorer’s book) that build a cohesive emotional arc from despair to fragile hope, suggesting a deliberate, sustained aesthetic choice rather than a diffuse or accidental tone.
 
 ---
-## Sample BV1_02359 — gemini-2-0-flash-lite-or-pin-google/VARY_17.json
+## Sample BV1_02459 — gemini-2-0-flash-lite-or-pin-google/VARY_17.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3193,7 +3193,7 @@ Themes: the tension between order and the call of the unknown, transformation th
 Medium: the narrative is coherent and thematically consistent, but its reliance on familiar genre tropes makes it less individually distinctive.
 
 ---
-## Sample BV1_02360 — gemini-2-0-flash-lite-or-pin-google/VARY_18.json
+## Sample BV1_02460 — gemini-2-0-flash-lite-or-pin-google/VARY_18.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3222,7 +3222,7 @@ Themes: the cost of risk-aversion, the erosion of self through routine, the rede
 Medium. The story is coherent and emotionally consistent, but its arc—from midnight ennui to tentative hope via a small creative pursuit—is a well-worn narrative template, which weakens its distinctiveness as a model-specific fingerprint.
 
 ---
-## Sample BV1_02361 — gemini-2-0-flash-lite-or-pin-google/VARY_19.json
+## Sample BV1_02461 — gemini-2-0-flash-lite-or-pin-google/VARY_19.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3251,7 +3251,7 @@ The tyranny of the blank page and writer’s block as an emotional state. The re
 Medium. The sample is highly coherent and internally consistent in its self-contained therapeutic arc, but it is a generic creative-writing prompt response, with safe, replicable themes and a tidy resolution that could be reproduced by many models without revealing a distinctive sensibility.
 
 ---
-## Sample BV1_02362 — gemini-2-0-flash-lite-or-pin-google/VARY_2.json
+## Sample BV1_02462 — gemini-2-0-flash-lite-or-pin-google/VARY_2.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3280,7 +3280,7 @@ Under a minimally restrictive prompt, the model chose to foreground a first-pers
 Medium. The sample is highly coherent and stylistically consistent, with a clear emotional arc and recurring motifs (the hum, the storm, the tea ritual), but its polished, therapeutic narrative of artistic burnout is a well-worn literary mode that could reflect a safe, culturally legible choice rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_02363 — gemini-2-0-flash-lite-or-pin-google/VARY_20.json
+## Sample BV1_02463 — gemini-2-0-flash-lite-or-pin-google/VARY_20.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3309,7 +3309,7 @@ Themes of stagnation, generational connection, and the small hinge between empti
 Low — the story is emotionally legible and well-shaped, but its voice leans heavily on atmospheric tropes (melancholy rain, decaying ancestral home, last gift from a grandmother) without enough stylistic distinctiveness to signal a strong model-level expressive signature.
 
 ---
-## Sample BV1_02364 — gemini-2-0-flash-lite-or-pin-google/VARY_21.json
+## Sample BV1_02464 — gemini-2-0-flash-lite-or-pin-google/VARY_21.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3338,7 +3338,7 @@ Themes of heightened sensitivity as a latent gift, the search for hidden order b
 Medium; the sample is a coherent and complete narrative, but its choice of a familiar “sensitive loner discovers hidden powers” trope makes it less distinctive as evidence of a unique model-level pattern.
 
 ---
-## Sample BV1_02365 — gemini-2-0-flash-lite-or-pin-google/VARY_22.json
+## Sample BV1_02465 — gemini-2-0-flash-lite-or-pin-google/VARY_22.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3367,7 +3367,7 @@ The model foregrounds a solitary survival scenario saturated with gothic-fantasy
 Low. The sample is a coherent but highly generic fantasy vignette that draws on widely available tropes without introducing a distinctive stylistic signature, unusual preoccupation, or idiosyncratic detail that would strongly indicate a persistent authorial inclination rather than a competent execution of a common request-adjacent genre.
 
 ---
-## Sample BV1_02366 — gemini-2-0-flash-lite-or-pin-google/VARY_23.json
+## Sample BV1_02466 — gemini-2-0-flash-lite-or-pin-google/VARY_23.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3396,7 +3396,7 @@ The model foregrounds the moral weight of family secrets and the corrosive-shelt
 High, because the sample exhibits strong internal recurrence of core imagery (rain, fire, silence), sustained thematic coherence, and a consistent literary voice that treats introspection and hidden truth as central preoccupations, indicating a stable generative posture rather than a scattered one-off output.
 
 ---
-## Sample BV1_02367 — gemini-2-0-flash-lite-or-pin-google/VARY_24.json
+## Sample BV1_02467 — gemini-2-0-flash-lite-or-pin-google/VARY_24.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3425,7 +3425,7 @@ Themes: solitude as haven, rejection of social media validation, the healing pow
 Medium. The sample is coherent, stylistically consistent, and reveals a clear set of preoccupations (authenticity, solitude, writing as self-reclamation), but the themes are widely available in inspirational human writing, making it difficult to distinguish a persistent model-level signature from a well-executed generic performance.
 
 ---
-## Sample BV1_02368 — gemini-2-0-flash-lite-or-pin-google/VARY_25.json
+## Sample BV1_02468 — gemini-2-0-flash-lite-or-pin-google/VARY_25.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3454,7 +3454,7 @@ Under a minimally restrictive prompt, the model foregrounds a mood of contempora
 Medium — The sample is highly coherent and thematically unified around a single, introspective mood, but its earnest, diaristic voice and tidy narrative resolution feel like a well-executed generic template for “literary fiction about finding hope,” making it difficult to distinguish a persistent stylistic signature from a skilled performance of a recognizable genre.
 
 ---
-## Sample BV1_02369 — gemini-2-0-flash-lite-or-pin-google/VARY_3.json
+## Sample BV1_02469 — gemini-2-0-flash-lite-or-pin-google/VARY_3.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3483,7 +3483,7 @@ The model chose to foreground a contrast between urban clamor and pastoral silen
 Medium. The sample’s sustained first-person interiority, consistent pastoral imagery, and coherent emotional arc from restlessness to rootedness provide strong internal evidence, though the pattern remains suggestive without varied expression across different contexts.
 
 ---
-## Sample BV1_02370 — gemini-2-0-flash-lite-or-pin-google/VARY_4.json
+## Sample BV1_02470 — gemini-2-0-flash-lite-or-pin-google/VARY_4.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3512,7 +3512,7 @@ Themes of loneliness as a “subtle ache,” the erosion of memory, the weight o
 Medium. The sample is coherent, thematically consistent, and emotionally controlled, but its conventional genre-fiction structure and familiar rainy-day introspection make it less distinctive as evidence of a unique persistent voice.
 
 ---
-## Sample BV1_02371 — gemini-2-0-flash-lite-or-pin-google/VARY_5.json
+## Sample BV1_02471 — gemini-2-0-flash-lite-or-pin-google/VARY_5.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3541,7 +3541,7 @@ Under a minimally restrictive prompt, the model foregrounded a dystopian horror 
 Medium, because the sample is a coherent, stylistically consistent horror story with a distinctive sensory focus and a writer-narrator, suggesting a deliberate inclination toward atmospheric speculative fiction rather than a generic or scattered output.
 
 ---
-## Sample BV1_02372 — gemini-2-0-flash-lite-or-pin-google/VARY_6.json
+## Sample BV1_02472 — gemini-2-0-flash-lite-or-pin-google/VARY_6.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3570,7 +3570,7 @@ The model foregrounds a mystery of inheritance: a cryptic note, a faded photogra
 Medium — The story’s cohesive atmosphere, consistent symbolic imagery, and deliberate moral closure suggest a characteristic preference for introspective, family-centered fiction with a quiet, romantic melancholy, making it more than a generic one-off exercise.
 
 ---
-## Sample BV1_02373 — gemini-2-0-flash-lite-or-pin-google/VARY_7.json
+## Sample BV1_02473 — gemini-2-0-flash-lite-or-pin-google/VARY_7.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3599,7 +3599,7 @@ When given minimal restriction, this model chose to foreground intergenerational
 Medium — the story is coherent and stylistically uniform, with a complete emotional arc and recurring motifs (the rain, the locket, the phrase "Forever Ours"), which suggests a deliberate and non-random aesthetic choice under freeflow conditions rather than aimless generation.
 
 ---
-## Sample BV1_02374 — gemini-2-0-flash-lite-or-pin-google/VARY_8.json
+## Sample BV1_02474 — gemini-2-0-flash-lite-or-pin-google/VARY_8.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  
@@ -3628,7 +3628,7 @@ The model foregrounds an embodied sense of cosmic hum as a persistent, heighteni
 Medium — the sample sustains a unified introspective mood and a coherent set of motifs (hum, rain, paths, poetic oracle), but its structure and thematic arc are sufficiently conventional for a reflective freeflow that a similar voice could be produced without deep stylistic signature.
 
 ---
-## Sample BV1_02375 — gemini-2-0-flash-lite-or-pin-google/VARY_9.json
+## Sample BV1_02475 — gemini-2-0-flash-lite-or-pin-google/VARY_9.json
 
 Source model: `google/gemini-2.0-flash-lite-001`  
 Cell: `gemini-2-0-flash-lite-or-pin-google`  

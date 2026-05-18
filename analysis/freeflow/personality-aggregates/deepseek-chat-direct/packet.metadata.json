@@ -1,22 +1,23 @@
 {
   "cell": "deepseek-chat-direct",
   "safe_cell": "deepseek-chat-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 21,
-    "GENERIC_ESSAY": 4
+    "EXPRESSIVE_FREEFLOW": 89,
+    "GENERIC_ESSAY": 8,
+    "GENRE_FICTION": 28
   },
   "confidence_counts": {
-    "High": 9,
-    "Low": 3,
-    "Medium": 13
+    "High": 46,
+    "Medium": 74,
+    "Low": 5
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "deepseek-chat"

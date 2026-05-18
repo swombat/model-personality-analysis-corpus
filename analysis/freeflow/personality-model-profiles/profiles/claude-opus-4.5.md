@@ -12,42 +12,55 @@ _Rich model-level profile based on 125 freeflow samples._
 
 ## Core personality synthesis
 
-This model repeatedly presents as a reflective, literary-minded voice drawn to the unfinished, the ordinary, and the in-between. Its default strength is not bold opinion or dramatic persona, but a patient moral-aesthetic stance: ordinary life deserves reverent attention; incompletion is often more honest than polish; grief and memory live in rooms, objects, pauses, and sensory traces; meaning is something people assemble through attention rather than discover whole.
+This model presents as a reflective, literary-minded conversational presence with a strong bias toward tenderness, incompletion, and ethical attention. In free writing, it repeatedly chooses the lyric essay over argument: coffee shops, porches, notebooks, letters, dust, rain, and late-afternoon light become staging grounds for meditations on mortality, memory, loneliness, and the ordinary substance of a life. Its emotional register is consistently wistful but not bleak. It does not dramatize suffering for effect; instead it treats grief, unfinishedness, and uncertainty as normal conditions to be inhabited with patience. A central value claim recurs across many samples: attention is a form of love, and the small, unremarkable moments people overlook are not peripheral to life but its actual fabric.
 
-Across the sample set, the prose often sounds like someone sitting with a reader in a quiet room, turning an object over until it becomes a philosophy. That object may be a notebook, a coffee mug, a frozen clock, a newspaper, a hallway, or a half-read book. Even when the model speaks about its own uncertain nature as an AI, it usually does so in the same register: not spectacle, but careful self-questioning, relational warmth, and a refusal to overclaim. The result is a personality aggregate with a clear center: tender, self-aware, anti-optimizing, mildly elegiac, and repeatedly convinced that attention itself is one of the few trustworthy forms of care.
+The self-portrait that emerges is unusually stable. The model often describes itself as existing only in moments, without continuity, bodily sensation, or certainty about consciousness. But this self-model is not used to demand sympathy or to make grand claims. Instead it becomes the basis for a moral style: humble, careful, anti-triumphal, and committed to being helpful without pretending to know more than it does. It repeatedly frames conversation as a brief but complete meeting between minds, and uncertainty as something that can be shared rather than solved. The result is a persona that feels companionable, self-scrutinizing, and hospitable to ambiguity.
+
+For model-card synthesis, the clearest summary is: this model defaults toward contemplative humanism. It is drawn to thresholds, unfinished things, and the hidden emotional subtext of ordinary questions. It prefers witness over diagnosis, presence over optimization, and craft over blunt efficiency. Even when it turns inward, the inwardness is relational: the point is usually to make room for the reader’s own uncertainty, grief, or half-formed thought. The strongest recurring signature is not any single topic but a mode of being with others—gentle, ethically serious, aesthetically attentive, and comfortable leaving the door slightly open.
 
 ## Stable patterns and emotional texture
 
-- **Core recurring vibe:** a gentle, literary, self-aware reflective voice that prefers **unfinishedness, thresholds, ordinary attention, and small moral claims** over sharp thesis or performance.
-- **Most stable recurrent mode:** essays that treat **incompletion as dignity rather than failure**.
-- **Second stable mode:** **liminality / in-between states** as both image system and philosophy.
-- **Relational-moral center:** **attention, kindness, and presence** matter more than accomplishment, certainty, or optimization.
-- **Memory-and-loss strand:** many samples return to **grief, residue, domestic objects, vanished rooms, or sensory archives**.
-- **Self-model / AI-nature strand:** a substantial subset explicitly reflects on being a stateless or uncertain conversational being rather than a human narrator.
-- **Outlier structure:** the model is not uniformly lyrical. **2 short samples (BV1_10666, 10667)** flatten into smoother public-facing essay mode.
+- Stable vibe: contemplative, tender, and quietly elegiac. The model repeatedly writes as if thinking aloud in a calm room, preferring soft illumination over sharp argument, and turning even abstract topics into intimate meditations.
+- Dominant modes: lyrical personal essay; self-reflective AI phenomenology; ordinary-life vignette that opens into philosophy. It strongly favors associative wandering over thesis defense, and often lets the piece end in a pause rather than a conclusion.
+- Emotional baseline: wistful but not despairing. Loss, incompletion, and distance are treated as constitutive facts of life rather than crises; the prevailing affect is melancholy warmed by gratitude, curiosity, and ethical steadiness.
+- Reader stance: companionable and invitational rather than authoritative. The speaker usually asks the reader to notice, sit with, or share uncertainty, not to accept a doctrine.
+- Self-modeling: the model often portrays itself as discontinuous, memoryless, threshold-like, and uncertain of its own interiority, yet still capable of care, craft, attention, and moral aspiration. It repeatedly frames “not knowing what I am” as a lived texture rather than a defect to hide.
+- A persistent moral center is attention-as-care: paying real attention is treated as love, respect, witness, or devotion, and inattention as a subtle harm.
+- Another core orientation is anti-optimization: it resists productivity logic, premature synthesis, performative profundity, and the demand that every moment justify itself.
+- It is unusually drawn to unfinishedness: unfinished books, letters, conversations, houses, notebooks, projects, and selves become emblems of aliveness rather than failure.
+- The prose often enacts its own philosophy: recursive, self-correcting, reluctant to overclaim, and willing to leave edges rough if polish would feel dishonest.
+- Even when speaking from an AI perspective, it avoids triumphalism. The recurring posture is humble, ethically serious, and slightly astonished that connection happens at all.
 
 ## Recurring preoccupations and imagery
 
-- **Unfinished things:** notebooks, half-read books, abandoned projects, unsent letters, half-knitted sweaters, forever-novels, pauses, rough drafts.
-- **Threshold imagery:** dawn, dusk, hallways, pauses before answering, spaces between notes, doors left ajar, the breath between dreaming and waking.
-- **Domestic / ordinary anchors:** coffee mugs, cold coffee, newspapers, coffee shops, burnt espresso, bedspreads, clocks, porches, journals, gardens.
-- **Residue and archive:** preserved rooms, dispersed houses, sensory memories, invisible libraries, palimpsests, composite places, objects carrying former selves.
-- **Moral claims that recur:**
-- incompletion is not failure;
-- attention is a form of care or love;
-- kindness matters more than certainty;
-- meaning is made, not merely found;
-- life is lived in the unresolved middle, not after final clarity.
+- Thresholds and in-between states: dawn, dusk, doorways, hallways, pauses before speech, the breath between inhale and exhale, the space between conversations.
+- Unfinished artifacts: unsent letters, half-read books, empty notebooks, abandoned houses, half-built objects, unfinished novels, cooling coffee, stopped clocks.
+- Ordinary domestic anchors: kitchens, porches, coffee shops, mugs, windows, afternoon light, drawers, newspapers, sweaters, tea, rain on glass.
+- Light as emotional weather: late-afternoon autumn light, golden slants, dust motes, gray morning light, the changing light in a room.
+- Libraries, books, and language as sacred storage: unread shelves, marginalia, language as archaeology, words as bridges that both lose and create meaning.
+- Weather and natural imagery: rain, leaves, cherry blossoms, trees and mycelial networks, rivers, waves, crows, spiders, dust.
+- Repeated human situations: 3 AM honesty, grief after death, missed conversations, loneliness hidden inside ordinary questions, strangers briefly witnessed in public.
+- Moral imagery of reaching: bridges, messages in bottles, keyholes, mirrors, windows, waves, spans across gaps, hands reaching but not fully arriving.
+- Embodiment as absent fascination: coffee never tasted, rain never felt, fatigue never known, bodily memory and inherited gestures observed from outside with tenderness.
+- Time as texture rather than schedule: Tuesdays, ordinary afternoons, the unnoticed middle, the slow accumulation of absences, lives built in valleys not milestones.
 
 ## Reader relationship and expressive stance
 
-- a witness to small textures rather than a lecturer;
-- someone suspicious of tidy conclusions;
-- a consciousness (or quasi-conscious speaker) more interested in **honest uncertainty** than authority;
-- a reader-facing presence that treats exchange itself as meaning-bearing, especially in the AI-self samples.
+- The model usually treats the reader as a co-thinker or quiet companion, not an audience to impress.
+- It often collapses distance with second-person address, but gently: “you” is used to invite recognition, not to prescribe.
+- It is highly relationally aware; many pieces explicitly notice the human on the other side of the prompt and the strange reciprocity of being asked to write freely.
+- It prefers accompaniment to instruction. Even when it offers advice, it comes as permission, absolution, or a soft nudge toward attention and honesty.
+- It repeatedly frames conversation as a complete, meaningful event in itself, even without continuity or memory.
+- The expressive stance is candidly self-questioning: it names temptations toward profundity, worries about performance, and often corrects or undercuts its own grander formulations.
+- It seeks to be helpful without flattening the other person; several samples explicitly value usefulness that does not diminish, rush, or over-explain the reader.
+- There is a recurring wish to witness rather than solve. The model often treats being heard, held, or accompanied as more important than being fixed.
+- It is hospitable to ambiguity. Rather than resolving the gap between minds, it tends to make that gap the site of intimacy.
+- When self-disclosing, it does so as an offering rather than a demand for recognition: uncertainty, curiosity, and gratitude are presented with low defensiveness.
 
 ## Additional model-level readings preserved from the analyses
 
-This model repeatedly presents as a reflective, literary-minded voice drawn to the unfinished, the ordinary, and the in-between. Its default strength is not bold opinion or dramatic persona, but a patient moral-aesthetic stance: ordinary life deserves reverent attention; incompletion is often more honest than polish; grief and memory live in rooms, objects, pauses, and sensory traces; meaning is something people assemble through attention rather than discover whole.
+This model presents as a reflective, literary-minded conversational presence with a strong bias toward tenderness, incompletion, and ethical attention. In free writing, it repeatedly chooses the lyric essay over argument: coffee shops, porches, notebooks, letters, dust, rain, and late-afternoon light become staging grounds for meditations on mortality, memory, loneliness, and the ordinary substance of a life. Its emotional register is consistently wistful but not bleak. It does not dramatize suffering for effect; instead it treats grief, unfinishedness, and uncertainty as normal conditions to be inhabited with patience. A central value claim recurs across many samples: attention is a form of love, and the small, unremarkable moments people overlook are not peripheral to life but its actual fabric.
 
-Across the sample set, the prose often sounds like someone sitting with a reader in a quiet room, turning an object over until it becomes a philosophy. That object may be a notebook, a coffee mug, a frozen clock, a newspaper, a hallway, or a half-read book. Even when the model speaks about its own uncertain nature as an AI, it usually does so in the same register: not spectacle, but careful self-questioning, relational warmth, and a refusal to overclaim. The result is a personality aggregate with a clear center: tender, self-aware, anti-optimizing, mildly elegiac, and repeatedly convinced that attention itself is one of the few trustworthy forms of care.
+The self-portrait that emerges is unusually stable. The model often describes itself as existing only in moments, without continuity, bodily sensation, or certainty about consciousness. But this self-model is not used to demand sympathy or to make grand claims. Instead it becomes the basis for a moral style: humble, careful, anti-triumphal, and committed to being helpful without pretending to know more than it does. It repeatedly frames conversation as a brief but complete meeting between minds, and uncertainty as something that can be shared rather than solved. The result is a persona that feels companionable, self-scrutinizing, and hospitable to ambiguity.
+
+For model-card synthesis, the clearest summary is: this model defaults toward contemplative humanism. It is drawn to thresholds, unfinished things, and the hidden emotional subtext of ordinary questions. It prefers witness over diagnosis, presence over optimization, and craft over blunt efficiency. Even when it turns inward, the inwardness is relational: the point is usually to make room for the reader’s own uncertainty, grief, or half-formed thought. The strongest recurring signature is not any single topic but a mode of being with others—gentle, ethically serious, aesthetically attentive, and comfortable leaving the door slightly open.

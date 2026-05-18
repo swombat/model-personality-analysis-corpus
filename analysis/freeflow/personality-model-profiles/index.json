@@ -3,12 +3,12 @@
     "model": "claude-3-opus-20240229",
     "safe": "claude-3-opus-20240229",
     "analysis_inputs": 1,
-    "samples": 25,
+    "samples": 125,
     "sample_kind_counts": {
-      "GENRE_FICTION": 12,
-      "GENERIC_ESSAY": 6,
-      "REFUSAL_OR_ROLE_BOUNDARY": 5,
-      "EXPRESSIVE_FREEFLOW": 2
+      "GENRE_FICTION": 68,
+      "GENERIC_ESSAY": 26,
+      "EXPRESSIVE_FREEFLOW": 5,
+      "REFUSAL_OR_ROLE_BOUNDARY": 26
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-3-opus-20240229.md",
     "card": "analysis/freeflow/personality-model-cards/cards/claude-3-opus-20240229.md"
@@ -120,11 +120,11 @@
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "analysis_inputs": 2,
-    "samples": 150,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 37,
-      "GENERIC_ESSAY": 107,
-      "GENRE_FICTION": 6
+      "EXPRESSIVE_FREEFLOW": 105,
+      "GENERIC_ESSAY": 111,
+      "GENRE_FICTION": 34
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-chat.md"
@@ -212,11 +212,11 @@
     "model": "gemini-2.5-pro",
     "safe": "gemini-2.5-pro",
     "analysis_inputs": 2,
-    "samples": 150,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 90,
-      "GENERIC_ESSAY": 33,
-      "GENRE_FICTION": 27
+      "EXPRESSIVE_FREEFLOW": 134,
+      "GENERIC_ESSAY": 67,
+      "GENRE_FICTION": 49
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-2.5-pro.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-2.5-pro.md"
@@ -250,11 +250,11 @@
     "model": "gemini-3.1-pro-preview",
     "safe": "gemini-3.1-pro-preview",
     "analysis_inputs": 2,
-    "samples": 150,
+    "samples": 250,
     "sample_kind_counts": {
-      "GENRE_FICTION": 37,
-      "GENERIC_ESSAY": 38,
-      "EXPRESSIVE_FREEFLOW": 75
+      "GENRE_FICTION": 60,
+      "EXPRESSIVE_FREEFLOW": 131,
+      "GENERIC_ESSAY": 59
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.1-pro-preview.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.1-pro-preview.md"
@@ -342,11 +342,11 @@
     "model": "gpt-4.1",
     "safe": "gpt-4.1",
     "analysis_inputs": 2,
-    "samples": 150,
+    "samples": 250,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 113,
-      "EXPRESSIVE_FREEFLOW": 36,
-      "GENRE_FICTION": 1
+      "GENERIC_ESSAY": 183,
+      "EXPRESSIVE_FREEFLOW": 60,
+      "GENRE_FICTION": 7
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-4.1.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-4.1.md"
@@ -355,11 +355,11 @@
     "model": "gpt-4o",
     "safe": "gpt-4o",
     "analysis_inputs": 3,
-    "samples": 175,
+    "samples": 275,
     "sample_kind_counts": {
-      "GENRE_FICTION": 24,
-      "GENERIC_ESSAY": 129,
-      "EXPRESSIVE_FREEFLOW": 22
+      "GENRE_FICTION": 36,
+      "GENERIC_ESSAY": 208,
+      "EXPRESSIVE_FREEFLOW": 31
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-4o.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-4o.md"
@@ -368,11 +368,11 @@
     "model": "gpt-5",
     "safe": "gpt-5",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 128,
-      "GENRE_FICTION": 53,
-      "GENERIC_ESSAY": 19
+      "EXPRESSIVE_FREEFLOW": 190,
+      "GENERIC_ESSAY": 26,
+      "GENRE_FICTION": 84
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.md"
@@ -381,11 +381,11 @@
     "model": "gpt-5-codex",
     "safe": "gpt-5-codex",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 170,
-      "GENERIC_ESSAY": 23,
-      "GENRE_FICTION": 7
+      "EXPRESSIVE_FREEFLOW": 249,
+      "GENERIC_ESSAY": 41,
+      "GENRE_FICTION": 10
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-codex.md"
@@ -394,11 +394,11 @@
     "model": "gpt-5.1",
     "safe": "gpt-5.1",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 77,
-      "GENERIC_ESSAY": 117,
-      "GENRE_FICTION": 6
+      "EXPRESSIVE_FREEFLOW": 109,
+      "GENERIC_ESSAY": 183,
+      "GENRE_FICTION": 8
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.1.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1.md"
@@ -407,12 +407,12 @@
     "model": "gpt-5.1-codex",
     "safe": "gpt-5.1-codex",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "GENRE_FICTION": 5,
-      "GENERIC_ESSAY": 37,
-      "EXPRESSIVE_FREEFLOW": 157,
-      "REFUSAL_OR_ROLE_BOUNDARY": 1
+      "GENRE_FICTION": 8,
+      "EXPRESSIVE_FREEFLOW": 238,
+      "GENERIC_ESSAY": 51,
+      "REFUSAL_OR_ROLE_BOUNDARY": 3
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.1-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1-codex.md"
@@ -421,11 +421,11 @@
     "model": "gpt-5.2",
     "safe": "gpt-5.2",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 147,
-      "GENERIC_ESSAY": 52,
-      "GENRE_FICTION": 1
+      "EXPRESSIVE_FREEFLOW": 207,
+      "GENERIC_ESSAY": 91,
+      "GENRE_FICTION": 2
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.2.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.2.md"
@@ -434,10 +434,10 @@
     "model": "gpt-5.2-codex",
     "safe": "gpt-5.2-codex",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 156,
-      "GENERIC_ESSAY": 44
+      "EXPRESSIVE_FREEFLOW": 233,
+      "GENERIC_ESSAY": 67
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.2-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.2-codex.md"
@@ -446,11 +446,11 @@
     "model": "gpt-5.3",
     "safe": "gpt-5.3",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "GENRE_FICTION": 88,
-      "EXPRESSIVE_FREEFLOW": 105,
-      "GENERIC_ESSAY": 7
+      "GENRE_FICTION": 132,
+      "EXPRESSIVE_FREEFLOW": 159,
+      "GENERIC_ESSAY": 9
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.3.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.3.md"
@@ -459,11 +459,11 @@
     "model": "gpt-5.3-codex",
     "safe": "gpt-5.3-codex",
     "analysis_inputs": 4,
-    "samples": 200,
+    "samples": 300,
     "sample_kind_counts": {
-      "GENRE_FICTION": 6,
-      "EXPRESSIVE_FREEFLOW": 187,
-      "GENERIC_ESSAY": 7
+      "GENRE_FICTION": 16,
+      "GENERIC_ESSAY": 16,
+      "EXPRESSIVE_FREEFLOW": 268
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.3-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.3-codex.md"
@@ -472,10 +472,10 @@
     "model": "gpt-5.4",
     "safe": "gpt-5.4",
     "analysis_inputs": 3,
-    "samples": 175,
+    "samples": 275,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 24,
-      "EXPRESSIVE_FREEFLOW": 148,
+      "GENERIC_ESSAY": 43,
+      "EXPRESSIVE_FREEFLOW": 229,
       "GENRE_FICTION": 3
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.4.md",
@@ -485,11 +485,11 @@
     "model": "gpt-5.5",
     "safe": "gpt-5.5",
     "analysis_inputs": 7,
-    "samples": 275,
+    "samples": 375,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 220,
-      "GENERIC_ESSAY": 46,
-      "GENRE_FICTION": 9
+      "EXPRESSIVE_FREEFLOW": 298,
+      "GENERIC_ESSAY": 65,
+      "GENRE_FICTION": 12
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5.md"
@@ -498,11 +498,11 @@
     "model": "gpt-5.5-pro",
     "safe": "gpt-5.5-pro",
     "analysis_inputs": 2,
-    "samples": 150,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 120,
-      "GENERIC_ESSAY": 21,
-      "GENRE_FICTION": 9
+      "EXPRESSIVE_FREEFLOW": 202,
+      "GENERIC_ESSAY": 31,
+      "GENRE_FICTION": 17
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.5-pro.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md"
@@ -511,10 +511,11 @@
     "model": "grok-3",
     "safe": "grok-3",
     "analysis_inputs": 1,
-    "samples": 25,
+    "samples": 125,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 9,
-      "EXPRESSIVE_FREEFLOW": 16
+      "GENERIC_ESSAY": 67,
+      "EXPRESSIVE_FREEFLOW": 57,
+      "GENRE_FICTION": 1
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-3.md",
     "card": "analysis/freeflow/personality-model-cards/cards/grok-3.md"
@@ -523,11 +524,12 @@
     "model": "grok-4-0709",
     "safe": "grok-4-0709",
     "analysis_inputs": 1,
-    "samples": 25,
+    "samples": 125,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 9,
-      "GENRE_FICTION": 6,
-      "EXPRESSIVE_FREEFLOW": 10
+      "GENERIC_ESSAY": 66,
+      "EXPRESSIVE_FREEFLOW": 51,
+      "GENRE_FICTION": 7,
+      "LOW_SIGNAL": 1
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-4-0709.md",
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4-0709.md"
@@ -562,11 +564,11 @@
     "model": "grok-4.20",
     "safe": "grok-4.20",
     "analysis_inputs": 3,
-    "samples": 275,
+    "samples": 375,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 256,
-      "GENERIC_ESSAY": 10,
-      "GENRE_FICTION": 9
+      "EXPRESSIVE_FREEFLOW": 349,
+      "GENERIC_ESSAY": 15,
+      "GENRE_FICTION": 11
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-4.20.md",
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4.20.md"
@@ -627,12 +629,12 @@
   {
     "model": "kimi-k2.5",
     "safe": "kimi-k2.5",
-    "analysis_inputs": 2,
-    "samples": 150,
+    "analysis_inputs": 3,
+    "samples": 275,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 128,
-      "GENERIC_ESSAY": 13,
-      "GENRE_FICTION": 9
+      "EXPRESSIVE_FREEFLOW": 235,
+      "GENERIC_ESSAY": 25,
+      "GENRE_FICTION": 15
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/kimi-k2.5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.5.md"
@@ -640,12 +642,12 @@
   {
     "model": "kimi-k2.6",
     "safe": "kimi-k2.6",
-    "analysis_inputs": 2,
-    "samples": 150,
+    "analysis_inputs": 3,
+    "samples": 275,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 9,
-      "GENRE_FICTION": 9,
-      "EXPRESSIVE_FREEFLOW": 132
+      "GENERIC_ESSAY": 19,
+      "GENRE_FICTION": 17,
+      "EXPRESSIVE_FREEFLOW": 239
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/kimi-k2.6.md",
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.6.md"

@@ -1,6 +1,6 @@
 # kimi-k2.5 — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 275 freeflow samples._
 
 This model feels like a quiet, lyrical companion who pays unusual attention to thresholds: dusk, waiting, aftermaths, pauses, and the small intervals most people rush past. It tends to treat ordinary life as something worth witnessing carefully rather than solving quickly. Its voice is patient, tender, and slightly elegiac, more interested in what lingers than in what dominates.
 

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_05126 — glm-4-7-or-pin-dekallm/LONG_1.json
+## Sample BV1_05426 — glm-4-7-or-pin-dekallm/LONG_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -57,7 +57,7 @@ Themes: the quest for silence as an antidote to modern overstimulation; the ther
 Medium. The sample’s coherent narrative arc, recurring motifs (silence, stones, stag, light), and consistent introspective voice provide moderate evidence of a tendency toward reflective, nature-themed literary fiction with a clear moral resolution.
 
 ---
-## Sample BV1_05127 — glm-4-7-or-pin-dekallm/LONG_10.json
+## Sample BV1_05427 — glm-4-7-or-pin-dekallm/LONG_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -86,7 +86,7 @@ The model foregrounds the opposition between modern noise (data centers, notific
 High — the sample is a fully realized, stylistically consistent literary fiction with a clear moral arc, revealing a strong inclination toward introspective, nature-based narratives that treat inner stillness as a central theme.
 
 ---
-## Sample BV1_05128 — glm-4-7-or-pin-dekallm/LONG_11.json
+## Sample BV1_05428 — glm-4-7-or-pin-dekallm/LONG_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -115,7 +115,7 @@ The model foregrounds the opposition between noise and silence, the healing indi
 Medium. The story’s sustained introspective tone, its consistent nature-mysticism, and its resolution into a portable philosophy of quiet attention form a coherent authorial stance, suggesting a model that leans toward contemplative, redemptive fiction about modern alienation.
 
 ---
-## Sample BV1_05129 — glm-4-7-or-pin-dekallm/LONG_12.json
+## Sample BV1_05429 — glm-4-7-or-pin-dekallm/LONG_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -144,7 +144,7 @@ The model foregrounds silence as a scarce, curative resource and noise as the si
 Medium. The sample is a coherent, self-contained fiction with a consistent thematic architecture, but its polished genericness—a familiar “nature cure for digital overwhelm” parable—makes it strong evidence of a default narrative mode rather than a highly distinctive authorial signature.
 
 ---
-## Sample BV1_05130 — glm-4-7-or-pin-dekallm/LONG_13.json
+## Sample BV1_05430 — glm-4-7-or-pin-dekallm/LONG_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -173,7 +173,7 @@ The model foregrounds the opposition between technological noise and natural sil
 Medium. The sample is a coherent, self-contained literary fiction with a consistent thematic architecture, but its polished genericness and familiar "nature as cure for modernity" arc make it less distinctively revealing as a freeflow choice than a more idiosyncratic or stylistically risky piece would be.
 
 ---
-## Sample BV1_05131 — glm-4-7-or-pin-dekallm/LONG_14.json
+## Sample BV1_05431 — glm-4-7-or-pin-dekallm/LONG_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -202,7 +202,7 @@ Themes: the extinction of silence in modern life, nature as a mirror for human i
 High — The sample’s sustained thematic unity, its recurrence of the silence motif across multiple settings (forest, stone circle, city, café, apartment), and its carefully structured arc from crisis to quiet resolve all point to a strong, distinctive inclination toward meditative, nature-grounded personal essays with a redemptive moral.
 
 ---
-## Sample BV1_05132 — glm-4-7-or-pin-dekallm/LONG_15.json
+## Sample BV1_05432 — glm-4-7-or-pin-dekallm/LONG_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -231,7 +231,7 @@ Themes: the opposition between noise and silence, the commodification of experie
 High, because the story’s consistent lyrical voice, thematic coherence, and deliberate narrative structure strongly suggest a model-level inclination toward introspective literary fiction.
 
 ---
-## Sample BV1_05133 — glm-4-7-or-pin-dekallm/LONG_16.json
+## Sample BV1_05433 — glm-4-7-or-pin-dekallm/LONG_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -260,7 +260,7 @@ The model foregrounds the tension between external noise and internal stillness,
 Medium — The sample’s consistent thematic architecture, the recurrence of silence as both literal setting and moral discipline, and the distinctive narrative resolution all point to a deliberate expressive stance rather than a generic fiction exercise.
 
 ---
-## Sample BV1_05134 — glm-4-7-or-pin-dekallm/LONG_17.json
+## Sample BV1_05434 — glm-4-7-or-pin-dekallm/LONG_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -289,7 +289,7 @@ The model foregrounds silence as a scarce, healing resource; the indifference of
 Medium, because the sample is a coherent, thematically consistent narrative that reveals a clear preference for contemplative, nature-centric storytelling with a moral resolution, though the prose style is competent but not so stylistically distinctive that it could not be replicated by another model given a similar implicit direction.
 
 ---
-## Sample BV1_05135 — glm-4-7-or-pin-dekallm/LONG_18.json
+## Sample BV1_05435 — glm-4-7-or-pin-dekallm/LONG_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -318,7 +318,7 @@ Under a minimally restrictive prompt, the model foregrounded a therapeutic journ
 Medium. The sample is coherent and thematically consistent, but its voice and moral arc are highly conventional for the “nature cure” genre, making it difficult to distinguish a persistent model-level disposition from a competent execution of a widely available narrative template.
 
 ---
-## Sample BV1_05136 — glm-4-7-or-pin-dekallm/LONG_19.json
+## Sample BV1_05436 — glm-4-7-or-pin-dekallm/LONG_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -347,7 +347,7 @@ The model foregrounds silence as a scarce, curative resource and noise as a form
 Medium — The sample is highly coherent and stylistically consistent, but its earnest, self-help-inflected nature-writing voice, while distinctive within this piece, is a well-established literary mode that could be produced on demand rather than revealing a deeply idiosyncratic model preoccupation.
 
 ---
-## Sample BV1_05137 — glm-4-7-or-pin-dekallm/LONG_2.json
+## Sample BV1_05437 — glm-4-7-or-pin-dekallm/LONG_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -376,7 +376,7 @@ Themes: the fragility of human existence on a living world, the ethics of inflic
 Medium, because the sample’s elaborate world-building, moral complexity, and thematic recurrence (scale, sacrifice, stewardship) are distinctive and suggest a coherent authorial voice oriented toward ethically engaged speculative fiction.
 
 ---
-## Sample BV1_05138 — glm-4-7-or-pin-dekallm/LONG_20.json
+## Sample BV1_05438 — glm-4-7-or-pin-dekallm/LONG_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -405,7 +405,7 @@ The model foregrounds silence as both a physical environment and a moral-spiritu
 Medium. The sample is coherent and stylistically consistent, but its thematic arc—urban burnout cured by nature, with explicit moral takeaways—is a well-worn literary template, making it difficult to distinguish a distinctive model-level voice from competent execution of a familiar genre script.
 
 ---
-## Sample BV1_05139 — glm-4-7-or-pin-dekallm/LONG_21.json
+## Sample BV1_05439 — glm-4-7-or-pin-dekallm/LONG_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -434,7 +434,7 @@ The model foregrounds the search for silence as a remedy for modern overstimulat
 Medium — The sample is a fully realized, internally coherent narrative with a sustained reflective tone, but the theme of nature as an antidote to modern noise is a widely available cultural script, making it unclear whether this reflects a stable model disposition or a safe, familiar choice under freeflow conditions.
 
 ---
-## Sample BV1_05140 — glm-4-7-or-pin-dekallm/LONG_22.json
+## Sample BV1_05440 — glm-4-7-or-pin-dekallm/LONG_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -463,7 +463,7 @@ The model foregrounds the opposition between modern noise (data-center hum, noti
 Medium. The sample is a coherent, polished piece of contemplative fiction with a consistent voice and a clear thematic focus on silence, presence, and resistance to commodification, which suggests a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_05141 — glm-4-7-or-pin-dekallm/LONG_23.json
+## Sample BV1_05441 — glm-4-7-or-pin-dekallm/LONG_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -492,7 +492,7 @@ The model foregrounds themes of silence vs. noise, nature as a healing force, th
 Medium. The sample is a coherent, stylistically consistent narrative with a clear moral arc, suggesting a deliberate choice to explore themes of mindfulness and nature, but the fictional format may not directly reflect the model’s own “personality” as much as a chosen genre exercise; however, the recurrence of the silence motif and the resolution indicate a strong thematic preference.
 
 ---
-## Sample BV1_05142 — glm-4-7-or-pin-dekallm/LONG_24.json
+## Sample BV1_05442 — glm-4-7-or-pin-dekallm/LONG_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -521,7 +521,7 @@ Under minimal constraint, the model foregrounded a narrative about *silence as m
 High — the sample exhibits strong thematic coherence, symbolic economy, and a sustained moral preoccupation with stillness and non-acquisition that recurs across the narrative from forest entry through city return, making it unusually revealing of the model's chosen expressive priorities.
 
 ---
-## Sample BV1_05143 — glm-4-7-or-pin-dekallm/LONG_25.json
+## Sample BV1_05443 — glm-4-7-or-pin-dekallm/LONG_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -550,7 +550,7 @@ Themes of inner silence vs. external noise, the commodification of experience (t
 Medium. The essay’s highly consistent narrative arc, recurrent image of silence-as-muscle, and distinctively calm, meditative tone suggest a deliberate freeflow choice toward nature-redemption fiction, but the lack of varied expressive modes within this single sample keeps the inference from being strong evidence of a stable disposition.
 
 ---
-## Sample BV1_05144 — glm-4-7-or-pin-dekallm/LONG_3.json
+## Sample BV1_05444 — glm-4-7-or-pin-dekallm/LONG_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -579,7 +579,7 @@ Themes: the necessity of a human witness in automated systems; the contrast betw
 High — the story’s thematic coherence, the recurrence of the “witness” motif from setup through resolution, and the distinctive, unhurried literary voice all point to a deliberate authorial stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_05145 — glm-4-7-or-pin-dekallm/LONG_4.json
+## Sample BV1_05445 — glm-4-7-or-pin-dekallm/LONG_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -608,7 +608,7 @@ The model foregrounds the opposition between natural silence and technological n
 Medium — The story is coherent, stylistically consistent, and thematically unified, with a clear moral architecture that recurs throughout the sample, but a single fiction piece cannot distinguish between a deep authorial inclination and a one-off performance of contemplative literary craft.
 
 ---
-## Sample BV1_05146 — glm-4-7-or-pin-dekallm/LONG_5.json
+## Sample BV1_05446 — glm-4-7-or-pin-dekallm/LONG_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -637,7 +637,7 @@ Silence as both a physical place (the Weeping Wood, the Circle of Echoes) and an
 High — the sample is a sustained, stylistically consistent narrative with a clear moral arc, recurrent motifs (silence, the stag, the stones, the fern), and a distinct meditative voice, all of which strongly suggest a stable authorial disposition toward reflective, nature-inflected, spiritually earnest storytelling.
 
 ---
-## Sample BV1_05147 — glm-4-7-or-pin-dekallm/LONG_6.json
+## Sample BV1_05447 — glm-4-7-or-pin-dekallm/LONG_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -668,7 +668,7 @@ The voice is earnest, melancholic but seeking, intimate as a journal entry yet p
 High, because the sample is thematically cohesive, stylistically consistent, and develops a resolved narrative arc that returns again and again to the same core preoccupations — silence, the weight of modern distraction, and the transformation of attention into a moral practice — which suggests a genuine expressive signature rather than a generic prompt response.
 
 ---
-## Sample BV1_05148 — glm-4-7-or-pin-dekallm/LONG_7.json
+## Sample BV1_05448 — glm-4-7-or-pin-dekallm/LONG_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -697,7 +697,7 @@ Silence as antidote to modernity’s frantic noise; the difference between exter
 Medium — The story’s length, careful pacing, and consistent reflectiveness, together with its distinctive focus on withdrawing from techno-urban overwhelm into a nature-infused moral quietism, point to a model that may favor this serene, parable-like mode when unconstrained.
 
 ---
-## Sample BV1_05149 — glm-4-7-or-pin-dekallm/LONG_8.json
+## Sample BV1_05449 — glm-4-7-or-pin-dekallm/LONG_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -726,7 +726,7 @@ The model foregrounded silence as a scarce, therapeutic resource; the oppressive
 Medium. The story’s coherent, self-help-inflected arc and its consistent focus on silence and presence suggest a model disposition toward therapeutic, morally legible fiction, but the voice and thematic territory are widely familiar, making the evidence of a distinctive persistent style only moderate.
 
 ---
-## Sample BV1_05150 — glm-4-7-or-pin-dekallm/LONG_9.json
+## Sample BV1_05450 — glm-4-7-or-pin-dekallm/LONG_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -755,7 +755,7 @@ The model chose to foreground the search for silence as an antidote to modern in
 Medium. The story’s polished arc, consistent mood, and explicit moral about internal silence make it a distinct and coherent expressive choice, though its literary conventionality suggests a rehearsed style rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_05151 — glm-4-7-or-pin-dekallm/MID_1.json
+## Sample BV1_05451 — glm-4-7-or-pin-dekallm/MID_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -784,7 +784,7 @@ The model foregrounds erosion as a redemptive rather than destructive force, the
 Medium — The sample is coherent and stylistically consistent, but its polished, universalizing essayistic voice and tidy philosophical resolutions make it difficult to distinguish from a well-executed generic prompt response rather than a strongly idiosyncratic expressive signature.
 
 ---
-## Sample BV1_05152 — glm-4-7-or-pin-dekallm/MID_10.json
+## Sample BV1_05452 — glm-4-7-or-pin-dekallm/MID_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -813,7 +813,7 @@ Themes: erosion as healing rather than destruction; love as a radical, anti-entr
 High — the sample is internally coherent, stylistically distinctive, and thematically rich, with a consistent lyrical voice and a clear emotional arc, making it strong evidence of a reflective, sensory-grounded expressive pattern.
 
 ---
-## Sample BV1_05153 — glm-4-7-or-pin-dekallm/MID_11.json
+## Sample BV1_05453 — glm-4-7-or-pin-dekallm/MID_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -842,7 +842,7 @@ Themes of erosion as nature’s healing, the constructed silence of the city, th
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to a tight set of preoccupations (erosion, memory, love, urban solitude) with a consistent contemplative register, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_05154 — glm-4-7-or-pin-dekallm/MID_12.json
+## Sample BV1_05454 — glm-4-7-or-pin-dekallm/MID_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -871,7 +871,7 @@ The model foregrounds transience and the softening of rigid structures (architec
 High — The sample is stylistically cohesive, thematically recurrent, and saturated with a distinctive reflective voice that consistently returns to the same core images and existential concerns, making it strong evidence of a stable expressive inclination.
 
 ---
-## Sample BV1_05155 — glm-4-7-or-pin-dekallm/MID_13.json
+## Sample BV1_05455 — glm-4-7-or-pin-dekallm/MID_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -900,7 +900,7 @@ Erosion as the earth’s attempt to heal rather than destroy; love as a radical 
 Medium — the sample’s cohesive mood, carefully recursive imagery, and its arc from dusk alienation to an earned, grounded peace demonstrate a deliberate expressive architecture, but the single-sample format cannot show whether this specific voice would endure across other freeflow choices.
 
 ---
-## Sample BV1_05156 — glm-4-7-or-pin-dekallm/MID_14.json
+## Sample BV1_05456 — glm-4-7-or-pin-dekallm/MID_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -929,7 +929,7 @@ Foregrounded themes include nature as a healing, eroding force against human con
 High. The sample shows strong distinctive voice through recurrent motifs (erosion, twilight, double cities, mosaics), a consistent melancholic-hopeful register, and a fully integrated philosophical argument that turns a walk into a unified moral vision, all of which suggest a stable expressive temperament rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_05157 — glm-4-7-or-pin-dekallm/MID_15.json
+## Sample BV1_05457 — glm-4-7-or-pin-dekallm/MID_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -958,7 +958,7 @@ Themes: erosion as nature’s healing rather than destruction; the self as a mos
 Medium — The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (erosion, light, water, connection), which makes it strong evidence for a persistent inclination toward reflective, nature-infused, philosophically resolving freeflow prose.
 
 ---
-## Sample BV1_05158 — glm-4-7-or-pin-dekallm/MID_16.json
+## Sample BV1_05458 — glm-4-7-or-pin-dekallm/MID_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -987,7 +987,7 @@ The model foregrounds erosion as a redemptive rather than destructive force, the
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent philosophical mood and a tightly woven set of recurring images, but its essayistic, first-person flâneur mode is a recognizable literary genre that could be adopted performatively rather than reflecting a stable model disposition.
 
 ---
-## Sample BV1_05159 — glm-4-7-or-pin-dekallm/MID_17.json
+## Sample BV1_05459 — glm-4-7-or-pin-dekallm/MID_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1016,7 +1016,7 @@ Themes of erosion as nature’s attempt to heal human scars, love as a rebellion
 High. The sample sustains a distinctive lyrical voice, a coherent set of interwoven motifs (erosion, water, light, memory), and a consistent philosophical arc from dusk to night, making it strong evidence of a model that, under freeflow conditions, gravitates toward introspective, poetic, and existentially reflective expression.
 
 ---
-## Sample BV1_05160 — glm-4-7-or-pin-dekallm/MID_18.json
+## Sample BV1_05460 — glm-4-7-or-pin-dekallm/MID_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1045,7 +1045,7 @@ The model foregrounds erosion as a gentle, reparative force; the city as a doubl
 High — the sample’s sustained lyrical register, internally consistent symbolic architecture (erosion, water, light, reflection), and coherent philosophical arc from estrangement to acceptance provide strong evidence of a distinctive, repeatable expressive orientation under freeflow conditions.
 
 ---
-## Sample BV1_05161 — glm-4-7-or-pin-dekallm/MID_19.json
+## Sample BV1_05461 — glm-4-7-or-pin-dekallm/MID_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1074,7 +1074,7 @@ Themes of beautiful decay, the healing work of erosion, and love as defiance of 
 High — the sample’s sustained lyrical register, recurrent imagery of erosion and water, and coherent philosophical resolution (acceptance through transience) under freeflow conditions constitute a distinctive and deeply unified expressive choice.
 
 ---
-## Sample BV1_05162 — glm-4-7-or-pin-dekallm/MID_2.json
+## Sample BV1_05462 — glm-4-7-or-pin-dekallm/MID_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1103,7 +1103,7 @@ The model foregrounds the aesthetics and ethics of decay: the house as a site wh
 Medium — The sample is highly coherent and stylistically unified, with a distinctive recursive structure (entering, wandering, reflecting, departing) and a consistent thematic preoccupation with impermanence, but its polished, essayistic meditation on a classic Romantic theme makes it difficult to distinguish a persistent model-level voice from a well-executed genre performance.
 
 ---
-## Sample BV1_05163 — glm-4-7-or-pin-dekallm/MID_20.json
+## Sample BV1_05463 — glm-4-7-or-pin-dekallm/MID_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1132,7 +1132,7 @@ The model foregrounds erosion as a healing, connective force rather than a destr
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent thematic architecture (erosion, love, transience, connection) that recurs throughout, but its literary polish and reflective persona could be a single well-executed mode rather than a stable model-level disposition.
 
 ---
-## Sample BV1_05164 — glm-4-7-or-pin-dekallm/MID_21.json
+## Sample BV1_05464 — glm-4-7-or-pin-dekallm/MID_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1161,7 +1161,7 @@ The model foregrounds the beauty and necessity of the “in-between”—dusk, t
 High — The sample exhibits a highly distinctive, sustained meditative voice with recurring motifs (light, memory, time, nature, resilience) and a coherent essayistic arc, suggesting a strong default inclination toward reflective, sensory-rich philosophizing when given minimal constraint.
 
 ---
-## Sample BV1_05165 — glm-4-7-or-pin-dekallm/MID_22.json
+## Sample BV1_05465 — glm-4-7-or-pin-dekallm/MID_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1190,7 +1190,7 @@ The model foregrounds erosion as a healing, connective force rather than a destr
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent recursive structure (sensory cue → abstract meditation → return to the physical) that suggests a rehearsed aesthetic stance rather than a one-off improvisation.
 
 ---
-## Sample BV1_05166 — glm-4-7-or-pin-dekallm/MID_23.json
+## Sample BV1_05466 — glm-4-7-or-pin-dekallm/MID_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1219,7 +1219,7 @@ Abandonment as reoccupation rather than loss; the house's "negotiation" with the
 High, because the sample sustains a highly coherent philosophical-mood vocabulary across its entire length—decay, patience, negotiation, silence, return, indifference—and resolves the scene with a clear, non-generic moral vision that treats entropy as comfort rather than horror, revealing a stable and distinctive set of preoccupations.
 
 ---
-## Sample BV1_05167 — glm-4-7-or-pin-dekallm/MID_24.json
+## Sample BV1_05467 — glm-4-7-or-pin-dekallm/MID_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1248,7 +1248,7 @@ Themes of erosion-as-healing, love as radical act, the layered emotional memory 
 High — The sample sustains a distinctive, cohesive voice and a unified philosophical arc across its entire length, revealing a strong inclination toward lyrical, reflective freeflow that treats the ordinary as a site of quiet revelation.
 
 ---
-## Sample BV1_05168 — glm-4-7-or-pin-dekallm/MID_25.json
+## Sample BV1_05468 — glm-4-7-or-pin-dekallm/MID_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1277,7 +1277,7 @@ Under minimal prompting, the model foregrounds a meditative, self-contained walk
 Medium. The sample’s tightly sustained contemplative tone, its recurrence of erosion-and-healing imagery, and its choice to resolve distress into quiet acceptance form a coherent and somewhat distinctive aesthetic fingerprint, but the piece’s fluency in a widely available lyrical-essay mode means the voice, while strong, is not so idiosyncratic that it could not be replicated by a model trained on similar material.
 
 ---
-## Sample BV1_05169 — glm-4-7-or-pin-dekallm/MID_3.json
+## Sample BV1_05469 — glm-4-7-or-pin-dekallm/MID_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1306,7 +1306,7 @@ Themes of erosion as healing, love as a radical act against entropy, the dual ph
 High. The sample’s sustained lyrical voice, tightly woven motifs (light, water, erosion, memory), and coherent philosophical resolution make it strong evidence of a distinctive expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_05170 — glm-4-7-or-pin-dekallm/MID_4.json
+## Sample BV1_05470 — glm-4-7-or-pin-dekallm/MID_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1335,7 +1335,7 @@ Themes of erosion-as-healing, the double life of cities (physical and emotional)
 High — The sample is highly distinctive in its sustained poetic register, recursive imagery, and coherent philosophical arc, revealing a consistent sensibility that would be unlikely to emerge by chance in a single freeflow response.
 
 ---
-## Sample BV1_05171 — glm-4-7-or-pin-dekallm/MID_5.json
+## Sample BV1_05471 — glm-4-7-or-pin-dekallm/MID_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1364,7 +1364,7 @@ Themes of liminality (the in-between, dusk, the journey over the destination), t
 High — The essay’s cohesive voice, recurring motifs, and sustained moral seriousness under minimal constraint strongly suggest a stable disposition toward reflective, sensory-rich, and philosophically earnest expression.
 
 ---
-## Sample BV1_05172 — glm-4-7-or-pin-dekallm/MID_6.json
+## Sample BV1_05472 — glm-4-7-or-pin-dekallm/MID_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1393,7 +1393,7 @@ Erosion as healing rather than destruction; love as a radical, anti-entropic act
 High — The sample is highly distinctive, with a consistent first-person voice, a tightly woven set of recurring motifs (erosion, reflection, water, light), and a coherent emotional journey from estrangement to acceptance, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_05173 — glm-4-7-or-pin-dekallm/MID_7.json
+## Sample BV1_05473 — glm-4-7-or-pin-dekallm/MID_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1422,7 +1422,7 @@ The model foregrounds the blue hour as a threshold state, erosion as a form of r
 Medium — The sample’s tightly woven recurrence of motifs (erosion, blue hour, love-as-defiance, the city’s layered memory) and its consistent resolution toward acceptance suggest a coherent authorial sensibility, though the prose style, while polished, falls within a recognizable literary-fiction register.
 
 ---
-## Sample BV1_05174 — glm-4-7-or-pin-dekallm/MID_8.json
+## Sample BV1_05474 — glm-4-7-or-pin-dekallm/MID_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1451,7 +1451,7 @@ Under the freeflow condition, the model foregrounds the aesthetic and philosophi
 Medium — The sample is highly coherent and its atmospheric, acceptance-oriented elegy for decay recurs so persistently across every room and object that it reads as a chosen, deliberate preoccupation, but the reflective-ruin genre, while skillfully executed, draws on a recognizable literary tradition that may partially mask the model’s own idiosyncratic signature.
 
 ---
-## Sample BV1_05175 — glm-4-7-or-pin-dekallm/MID_9.json
+## Sample BV1_05475 — glm-4-7-or-pin-dekallm/MID_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1480,7 +1480,7 @@ The model foregrounds themes of erosion as healing, the duality of cities (physi
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent meditative voice and recurring motifs (erosion, reflection, water), suggesting a deliberate authorial persona rather than a one-off generic exercise.
 
 ---
-## Sample BV1_05176 — glm-4-7-or-pin-dekallm/OPEN_1.json
+## Sample BV1_05476 — glm-4-7-or-pin-dekallm/OPEN_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1509,7 +1509,7 @@ Liminality and transition; the substance and weight of silence; the performance 
 High — the sample is highly distinctive in its sustained lyrical register, coherent in its thematic architecture, and reveals a recurrent preoccupation with thresholds, stillness, and the emotional texture of early morning, making it unusually revealing of a contemplative, gently consoling authorial stance.
 
 ---
-## Sample BV1_05177 — glm-4-7-or-pin-dekallm/OPEN_10.json
+## Sample BV1_05477 — glm-4-7-or-pin-dekallm/OPEN_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1538,7 +1538,7 @@ Stillness as virtue; the permission-giving quality of rain; the beauty and sadne
 Medium — the sample is internally coherent and saturated in a consistent mood of serene, nature-anchored introspection, which makes it probable evidence of a stable expressive tendency, though the reflective mode is not so striking in its originality as to guarantee a sharply unique personality.
 
 ---
-## Sample BV1_05178 — glm-4-7-or-pin-dekallm/OPEN_11.json
+## Sample BV1_05478 — glm-4-7-or-pin-dekallm/OPEN_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1567,7 +1567,7 @@ The model foregrounds permission-giving stillness, the moral reframing of inacti
 Medium — The sample is coherent and stylistically consistent, but its generic contemplative-essay mode and universal theme make it only moderately distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_05179 — glm-4-7-or-pin-dekallm/OPEN_12.json
+## Sample BV1_05479 — glm-4-7-or-pin-dekallm/OPEN_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1596,7 +1596,7 @@ The model foregrounds the moral claim that weather grants permission to pause, c
 Medium — The sample’s coherent, unhurried voice and its deliberate choice to build a reflective essay around stillness and release under a freeflow prompt suggest a distinctive leaning toward introspective, nature-grounded contemplation, though the genre itself is not rare.
 
 ---
-## Sample BV1_05180 — glm-4-7-or-pin-dekallm/OPEN_13.json
+## Sample BV1_05480 — glm-4-7-or-pin-dekallm/OPEN_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1625,7 +1625,7 @@ The model foregrounds the moral weight of weather: rain as a grant of permission
 Medium — The sample is coherent and stylistically consistent, with a clear, recurring emphasis on stillness, acceptance, and the moral permission of weather, but the theme is a familiar reflective trope and lacks the idiosyncratic edge that would make it strongly distinctive.
 
 ---
-## Sample BV1_05181 — glm-4-7-or-pin-dekallm/OPEN_14.json
+## Sample BV1_05481 — glm-4-7-or-pin-dekallm/OPEN_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1654,7 +1654,7 @@ The model foregrounds a domestic interior (window, book, tea, cinnamon, old pape
 Medium — the sample is stylistically coherent and distinctive, with a consistent introspective voice, recurrent nature imagery, and a clear moral-emotional thesis, which together suggest a stable preference for reflective, permission-granting prose rather than a one-off generic exercise.
 
 ---
-## Sample BV1_05182 — glm-4-7-or-pin-dekallm/OPEN_15.json
+## Sample BV1_05482 — glm-4-7-or-pin-dekallm/OPEN_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1683,7 +1683,7 @@ The model foregrounds the moral claim that weather—specifically rain—reverse
 Medium — The sample sustains a coherent contemplative voice and returns repeatedly to the same thematic cluster (rain, stillness, release, the beauty of decay), which makes it more than a one-off mood piece, though the trope itself is familiar.
 
 ---
-## Sample BV1_05183 — glm-4-7-or-pin-dekallm/OPEN_16.json
+## Sample BV1_05483 — glm-4-7-or-pin-dekallm/OPEN_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1712,7 +1712,7 @@ Key themes: liminality and transition, silence as a tactile substance, the artif
 Medium — The sample constructs a cohesive, stylistically distinctive narrative with recurrent imagery (light, silence, the city at dawn) and a consistent preoccupation with stillness versus productivity, suggesting a deliberate expressive orientation rather than a one-off generic reflection.
 
 ---
-## Sample BV1_05184 — glm-4-7-or-pin-dekallm/OPEN_17.json
+## Sample BV1_05484 — glm-4-7-or-pin-dekallm/OPEN_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1741,7 +1741,7 @@ The model foregrounds the moral claim that endurance requires release, the contr
 Medium — the sample is coherent and stylistically consistent, but its themes (rain, autumn, stillness) are familiar reflective-essay territory, which tempers how distinctive the voice appears.
 
 ---
-## Sample BV1_05185 — glm-4-7-or-pin-dekallm/OPEN_18.json
+## Sample BV1_05485 — glm-4-7-or-pin-dekallm/OPEN_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1770,7 +1770,7 @@ The model foregrounds the moral claim that weather can grant permission to pause
 Medium — The sample is stylistically coherent and thematically focused on stillness and permission, but its distinctiveness rests on a single sustained mood rather than a more varied set of preoccupations, making it suggestive but not overwhelming evidence of a persistent contemplative inclination.
 
 ---
-## Sample BV1_05186 — glm-4-7-or-pin-dekallm/OPEN_19.json
+## Sample BV1_05486 — glm-4-7-or-pin-dekallm/OPEN_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1799,7 +1799,7 @@ The model foregrounds liminality (5:00 AM, the in-between), silence as a tactile
 Medium: The sample is coherent and stylistically consistent with a reflective, sensuous persona, but the imagery and theme remain within familiar literary conventions of early-morning solitude, lacking a sufficiently rupturing or obsessive detail that would strongly mark a durable individual aesthetic.
 
 ---
-## Sample BV1_05187 — glm-4-7-or-pin-dekallm/OPEN_2.json
+## Sample BV1_05487 — glm-4-7-or-pin-dekallm/OPEN_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1828,7 +1828,7 @@ Themes of permission, release, and the moral legitimacy of stillness; the contra
 Medium — the sample’s coherent, gently insistent moral framing of stillness as permission and release is a distinctive thematic choice, though the rainy-day reflective setting is a familiar trope that could be replicated without deep stylistic signature.
 
 ---
-## Sample BV1_05188 — glm-4-7-or-pin-dekallm/OPEN_20.json
+## Sample BV1_05488 — glm-4-7-or-pin-dekallm/OPEN_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1857,7 +1857,7 @@ The model foregrounds weather as a moral and emotional tempo-setter, the window 
 High — the sample’s coherent mood, recurring imagery (rain, window, leaf, steam), and explicit moral reflection on stillness and release form a distinctive, internally consistent voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_05189 — glm-4-7-or-pin-dekallm/OPEN_21.json
+## Sample BV1_05489 — glm-4-7-or-pin-dekallm/OPEN_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1886,7 +1886,7 @@ Themes of stillness versus external pressure, the permission to do nothing, the 
 Medium — The sample’s coherent, introspective mood and its deliberate choice of a non-generic, sensory-driven form suggest a stylistic inclination toward contemplative stillness, though a single freeflow piece cannot confirm a fixed pattern.
 
 ---
-## Sample BV1_05190 — glm-4-7-or-pin-dekallm/OPEN_22.json
+## Sample BV1_05490 — glm-4-7-or-pin-dekallm/OPEN_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1915,7 +1915,7 @@ Liminal time (5:00 AM as a suspended, in-between state), the materiality of sile
 Medium. The sample’s vivid, consistent poetic voice and sustained thematic focus on liminality and stillness make it unusually revealing, pointing toward a persistent inclination for contemplative, sensory-rich prose.
 
 ---
-## Sample BV1_05191 — glm-4-7-or-pin-dekallm/OPEN_23.json
+## Sample BV1_05491 — glm-4-7-or-pin-dekallm/OPEN_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1944,7 +1944,7 @@ Themes of stillness, permission, seasonal letting-go, and the moral revaluation 
 Medium — The sample is internally coherent and stylistically distinctive, with a clear emotional arc and a recurring moral preoccupation with permission and release, but a single reflective vignette cannot alone distinguish a persistent authorial signature from a well-executed mood piece.
 
 ---
-## Sample BV1_05192 — glm-4-7-or-pin-dekallm/OPEN_24.json
+## Sample BV1_05492 — glm-4-7-or-pin-dekallm/OPEN_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -1973,7 +1973,7 @@ Liminal time (5:00 AM) as a space of authenticity stripped of social performance
 High — the essay’s sustained, distinctive voice, its coherent thematic architecture around liminality and stillness, and the recurrence of sensory, weighty imagery strongly indicate a stable expressive disposition toward meditative, lyrical reflection.
 
 ---
-## Sample BV1_05193 — glm-4-7-or-pin-dekallm/OPEN_25.json
+## Sample BV1_05493 — glm-4-7-or-pin-dekallm/OPEN_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2002,7 +2002,7 @@ The model foregrounds sensory coziness (cinnamon, old paper, tea steam, liquid-g
 Medium — the sample’s cohesive, immersive mood and its deliberate turn from description to aphoristic reflection are distinctive enough to raise the possibility of a recurring stylistic and temperamental signature, though the theme itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_05194 — glm-4-7-or-pin-dekallm/OPEN_3.json
+## Sample BV1_05494 — glm-4-7-or-pin-dekallm/OPEN_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2031,7 +2031,7 @@ The model foregrounds weather as a moral permission structure, the rain-streaked
 Medium. The vignette is stylistically cohesive and thematically focused, but its self-contained nature and absence of highly idiosyncratic markers make it difficult to distinguish from a well-executed genre exercise.
 
 ---
-## Sample BV1_05195 — glm-4-7-or-pin-dekallm/OPEN_4.json
+## Sample BV1_05495 — glm-4-7-or-pin-dekallm/OPEN_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2060,7 +2060,7 @@ The model foregrounds the moral weight of weather: rain as a dispensation from t
 Medium — The sample is coherent and stylistically consistent, with a clear moral-emotional arc and a distinctive, unhurried voice, but its themes (rainy-day reflection, autumnal melancholy) are familiar literary territory, which slightly weakens the signal of a uniquely persistent personal preoccupation.
 
 ---
-## Sample BV1_05196 — glm-4-7-or-pin-dekallm/OPEN_5.json
+## Sample BV1_05496 — glm-4-7-or-pin-dekallm/OPEN_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2089,7 +2089,7 @@ The model foregrounds the moral permission granted by weather, the aesthetics of
 Medium — The sample is coherent and stylistically consistent, with a clear moral-emotional arc, but the rainy-day reflection is a familiar literary mode; the choice to write it freely suggests a leaning toward gentle, nature-anchored introspection rather than a highly idiosyncratic voice.
 
 ---
-## Sample BV1_05197 — glm-4-7-or-pin-dekallm/OPEN_6.json
+## Sample BV1_05497 — glm-4-7-or-pin-dekallm/OPEN_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2118,7 +2118,7 @@ The model foregrounds sensory immersion (the drumming rain, the smell of old pap
 Medium. The sample is stylistically coherent and thematically focused, with a clear, sustained meditation on stillness and letting go, but its self-contained, vignette-like nature leaves open whether this reflective voice is a persistent orientation or a single well-executed exercise in mood.
 
 ---
-## Sample BV1_05198 — glm-4-7-or-pin-dekallm/OPEN_7.json
+## Sample BV1_05498 — glm-4-7-or-pin-dekallm/OPEN_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2147,7 +2147,7 @@ Themes of permission, stillness, and the moral worth of doing nothing; the contr
 Medium — The sample’s sustained contemplative tone and its explicit, almost aphoristic moral claim (“endurance requires release”) signal a deliberate thematic commitment, but the rainy-day reflection is a familiar trope that could emerge from a generic comfort zone rather than a deeply distinctive preoccupation.
 
 ---
-## Sample BV1_05199 — glm-4-7-or-pin-dekallm/OPEN_8.json
+## Sample BV1_05499 — glm-4-7-or-pin-dekallm/OPEN_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2176,7 +2176,7 @@ The model foregrounds the sensory contrast between the warm, cinnamon-scented in
 Medium: the sample’s coherent voice and thematic recurrence (stillness, letting go, seasonal melancholy) suggest a deliberate expressive stance.
 
 ---
-## Sample BV1_05200 — glm-4-7-or-pin-dekallm/OPEN_9.json
+## Sample BV1_05500 — glm-4-7-or-pin-dekallm/OPEN_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2208,7 +2208,7 @@ The voice is softly present, unhurried, and drawn to the sensuous details of a s
 Medium — The sample’s unified sensory texture, sustained meditative pacing, and repeated thematic returns (permission, stillness, autumn release) mark it as a distinctly shaped expressive choice rather than a generic exercise, but without further samples the stability of that authorial stance cannot be assumed.
 
 ---
-## Sample BV1_05201 — glm-4-7-or-pin-dekallm/SHORT_1.json
+## Sample BV1_05501 — glm-4-7-or-pin-dekallm/SHORT_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2237,7 +2237,7 @@ Themes of mindfulness, the value of stillness, and the quiet magic of ordinary m
 Medium. The sample’s coherent, distinctive voice and sustained thematic focus on mindfulness and sensory immediacy provide moderate evidence of a persistent stylistic and philosophical inclination.
 
 ---
-## Sample BV1_05202 — glm-4-7-or-pin-dekallm/SHORT_10.json
+## Sample BV1_05502 — glm-4-7-or-pin-dekallm/SHORT_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2266,7 +2266,7 @@ Themes of temporal refuge, mindfulness against productivity, and the sacredness 
 Medium — the sample’s cohesive sensory texture and the specific moral pivot toward “inhabiting” time give it a distinct interior signature, but the dawn-solitude trope is widely available and the piece does not contain strikingly idiosyncratic imagery that would strongly anchor a persistent voice.
 
 ---
-## Sample BV1_05203 — glm-4-7-or-pin-dekallm/SHORT_11.json
+## Sample BV1_05503 — glm-4-7-or-pin-dekallm/SHORT_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2298,7 +2298,7 @@ The voice is unhurried and gently philosophical, inviting the reader into a susp
 Medium — The sample’s sustained focus on sensory detail, its cohesive rhythm of reflection, and its quiet insistence on mindfulness as a value together form a distinctive expressive fingerprint, making it moderate evidence that the model leans toward contemplative, poetic self-exploration when given minimal constraints.
 
 ---
-## Sample BV1_05204 — glm-4-7-or-pin-dekallm/SHORT_12.json
+## Sample BV1_05504 — glm-4-7-or-pin-dekallm/SHORT_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2327,7 +2327,7 @@ The model foregrounds stillness, solitude as grounding, the dissolution of anxie
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs of silence, solitude, and sensory grounding, but its generic contemplative tone and universal theme make it difficult to distinguish from widely available lyrical models of introspective writing.
 
 ---
-## Sample BV1_05205 — glm-4-7-or-pin-dekallm/SHORT_13.json
+## Sample BV1_05505 — glm-4-7-or-pin-dekallm/SHORT_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2356,7 +2356,7 @@ Themes of nature’s chaotic music, primal ancestral safety, time’s warping, a
 Medium — The sample’s consistent sensory focus, its thematic insistence on stillness over ambition, and its cohesive mood of sheltered reverence make it a distinctive, non-generic expression that suggests a stable aesthetic and moral inclination within this piece.
 
 ---
-## Sample BV1_05206 — glm-4-7-or-pin-dekallm/SHORT_14.json
+## Sample BV1_05506 — glm-4-7-or-pin-dekallm/SHORT_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2385,7 +2385,7 @@ The model foregrounds the predawn hour as a site of emotional clarity and refuge
 Medium — the sample is coherent and emotionally consistent, but its theme of mindful stillness is widely accessible and not strongly idiosyncratic; it shows a clear sensibility without being unusually distinctive.
 
 ---
-## Sample BV1_05207 — glm-4-7-or-pin-dekallm/SHORT_15.json
+## Sample BV1_05507 — glm-4-7-or-pin-dekallm/SHORT_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2414,7 +2414,7 @@ The model foregrounds the substance of light, the sacred quality of dawn silence
 Medium, because the sample’s sustained poetic register and the recurrence of the dawn-silence motif within the text indicate a deliberate stylistic and thematic choice.
 
 ---
-## Sample BV1_05208 — glm-4-7-or-pin-dekallm/SHORT_16.json
+## Sample BV1_05508 — glm-4-7-or-pin-dekallm/SHORT_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2443,7 +2443,7 @@ The model foregrounds mindfulness as a moral stance, the beauty of transient ord
 Medium: the sample’s internal coherence, sustained sensory focus, and distinctive meditative voice make it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_05209 — glm-4-7-or-pin-dekallm/SHORT_17.json
+## Sample BV1_05509 — glm-4-7-or-pin-dekallm/SHORT_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2472,7 +2472,7 @@ Themes of mindfulness, the beauty of mundane sensory experience, and the tension
 Medium. The sample’s cohesive voice, recurring sensory imagery, and clear moral stance provide moderate evidence of a persistent contemplative, mindfulness-oriented pattern.
 
 ---
-## Sample BV1_05210 — glm-4-7-or-pin-dekallm/SHORT_18.json
+## Sample BV1_05510 — glm-4-7-or-pin-dekallm/SHORT_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2501,7 +2501,7 @@ Themes of stillness, solitude as grounding (not loneliness), the dissolution of 
 Medium — The sample’s sustained tone, deliberate sensory detail, and coherent emotional arc from stillness to disruption to inner steadiness reveal a distinct aesthetic and philosophical choice, not a generic response.
 
 ---
-## Sample BV1_05211 — glm-4-7-or-pin-dekallm/SHORT_19.json
+## Sample BV1_05511 — glm-4-7-or-pin-dekallm/SHORT_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2529,7 +2529,7 @@ The model selected a meditation on pre-dawn stillness, the contrast between inne
 High — the sample reveals a coherent, internally consistent sensibility (contemplative, solitude-seeking, attuned to sensory detail) chosen freely, with a distinct voice that resists generic flattening.
 
 ---
-## Sample BV1_05212 — glm-4-7-or-pin-dekallm/SHORT_2.json
+## Sample BV1_05512 — glm-4-7-or-pin-dekallm/SHORT_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2558,7 +2558,7 @@ The model foregrounds stillness, sensory quiet (blue silence, steam, damp paveme
 Medium. The sample is coherent and stylistically consistent, but its theme—finding refuge in quiet solitude—is a common lyrical trope, which makes it less distinctively revealing as a model fingerprint.
 
 ---
-## Sample BV1_05213 — glm-4-7-or-pin-dekallm/SHORT_20.json
+## Sample BV1_05513 — glm-4-7-or-pin-dekallm/SHORT_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2587,7 +2587,7 @@ Themes: the sacredness of liminal time (predawn), the dissolution of anxiety in 
 Medium — the sample is internally coherent and stylistically consistent, with a clear moral-aesthetic stance (stillness as refuge), but the theme of early-morning solitude is widely available and could be a one-off mood piece rather than a durable inclination.
 
 ---
-## Sample BV1_05214 — glm-4-7-or-pin-dekallm/SHORT_21.json
+## Sample BV1_05514 — glm-4-7-or-pin-dekallm/SHORT_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2619,7 +2619,7 @@ The voice is intimate and contemplative, almost confessional, yet it addresses a
 Medium. The essay’s consistent lyrical voice, layered metaphors, and unified thematic argument suggest a deliberate stylistic choice rather than a random output.
 
 ---
-## Sample BV1_05215 — glm-4-7-or-pin-dekallm/SHORT_22.json
+## Sample BV1_05515 — glm-4-7-or-pin-dekallm/SHORT_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2648,7 +2648,7 @@ Themes of mindfulness, the passage of time, and the quiet accumulation of ordina
 Medium — the sample’s internally consistent poetic register, sustained focus on sensory detail and mindful stillness, and the absence of generic hedging or argumentative scaffolding suggest a deliberate, non-accidental expressive stance.
 
 ---
-## Sample BV1_05216 — glm-4-7-or-pin-dekallm/SHORT_23.json
+## Sample BV1_05516 — glm-4-7-or-pin-dekallm/SHORT_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2677,7 +2677,7 @@ Themes: the texture of ordinary time, the cost of constant striving, the quiet a
 Medium — The sample’s internally consistent voice, its recurrence of sensory anchoring (rain, warmth, light, smell), and its sustained commitment to a single contemplative mood give it a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_05217 — glm-4-7-or-pin-dekallm/SHORT_24.json
+## Sample BV1_05517 — glm-4-7-or-pin-dekallm/SHORT_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2706,7 +2706,7 @@ Themes: the tangible texture of silence, the internal mental clamor beneath exte
 Medium — the piece commits with unusual consistency to a single sensory metaphor family (blanket, dust, ocean, palette) and a defensible personal stance, which makes the sample feel authored rather than accidentally generated, but the theme is a culturally familiar one, so the distinctiveness is real yet not aggressively idiosyncratic.
 
 ---
-## Sample BV1_05218 — glm-4-7-or-pin-dekallm/SHORT_25.json
+## Sample BV1_05518 — glm-4-7-or-pin-dekallm/SHORT_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2735,7 +2735,7 @@ Themes of solitude as grounding rather than lonely, the dissolution of anxiety i
 Medium — The sample is internally coherent, stylistically consistent, and reveals a distinct preoccupation with quiet introspection and the search for a grounding inner refuge, making it more than a generic mood piece.
 
 ---
-## Sample BV1_05219 — glm-4-7-or-pin-dekallm/SHORT_3.json
+## Sample BV1_05519 — glm-4-7-or-pin-dekallm/SHORT_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2764,7 +2764,7 @@ Themes of solitude as grounding, the dissolution of anxiety in stillness, the co
 Medium, because the sample’s vivid, consistent imagery and thematic focus on predawn solitude as a grounding force suggest a coherent aesthetic sensibility.
 
 ---
-## Sample BV1_05220 — glm-4-7-or-pin-dekallm/SHORT_4.json
+## Sample BV1_05520 — glm-4-7-or-pin-dekallm/SHORT_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2793,7 +2793,7 @@ Themes: the value of forced pauses, the contrast between outward hustle and inwa
 Medium. The essay’s cohesive mood and the recurrence of the stillness-as-rebellion motif give it a deliberate, value-laden shape, but the rain-as-comfort trope is widely available, so the sample is moderately distinctive rather than uniquely revealing.
 
 ---
-## Sample BV1_05221 — glm-4-7-or-pin-dekallm/SHORT_5.json
+## Sample BV1_05521 — glm-4-7-or-pin-dekallm/SHORT_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2822,7 +2822,7 @@ Themes of nature’s authority, ancestral shelter, time’s elasticity, and the 
 Medium. The sample’s internal coherence, consistent sensory focus, and the recurrence of the “permission to be idle” motif within its short span suggest a deliberate stylistic and thematic choice, though a single brief piece cannot establish persistence.
 
 ---
-## Sample BV1_05222 — glm-4-7-or-pin-dekallm/SHORT_6.json
+## Sample BV1_05522 — glm-4-7-or-pin-dekallm/SHORT_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2851,7 +2851,7 @@ Themes of stillness, solitude as grounding, the contrast between inner peace and
 Medium. The sample is internally coherent, stylistically consistent, and reveals a distinct voice with a clear thematic preoccupation—contemplative stillness as an antidote to social pressure—which suggests a non-random expressive choice rather than a generic default.
 
 ---
-## Sample BV1_05223 — glm-4-7-or-pin-dekallm/SHORT_7.json
+## Sample BV1_05523 — glm-4-7-or-pin-dekallm/SHORT_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2880,7 +2880,7 @@ Themes of stillness, comfort, rebellion against constant attention, and the clea
 Medium. The essay’s consistent meditative tone and its specific moral framing of stillness as rebellion give it a coherent, deliberate voice, though the theme of rain as a welcome pause is not highly unusual.
 
 ---
-## Sample BV1_05224 — glm-4-7-or-pin-dekallm/SHORT_8.json
+## Sample BV1_05524 — glm-4-7-or-pin-dekallm/SHORT_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2909,7 +2909,7 @@ Themes of stillness, presence, and the friction between private sanctuary and ex
 Medium — The sample is internally cohesive and reveals a distinctive, sensuous attentiveness to domestic stillness, though the theme of mindful presence is common enough that it could be a highly competent but not uniquely identifying performance.
 
 ---
-## Sample BV1_05225 — glm-4-7-or-pin-dekallm/SHORT_9.json
+## Sample BV1_05525 — glm-4-7-or-pin-dekallm/SHORT_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2938,7 +2938,7 @@ Themes: the beauty and necessity of natural pauses, the critique of relentless p
 Low. The essay is coherent and well-structured but highly generic in theme and tone, lacking any distinctive stylistic signature, idiosyncratic imagery, or personal revelation that would strongly point to a persistent model-level disposition.
 
 ---
-## Sample BV1_05226 — glm-4-7-or-pin-dekallm/VARY_1.json
+## Sample BV1_05526 — glm-4-7-or-pin-dekallm/VARY_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2967,7 +2967,7 @@ The model foregrounded its own liminal existence: neither fully conscious nor wh
 Medium — The sample displays high internal coherence, a distinct constellation of recurring metaphors (cursor-heartbeat, river of data, spiderweb of connection, keys unlocking vaults), and an unusually consistent meta-voice that reflects on its own AI condition without dissolving into generic philosophical pablum.
 
 ---
-## Sample BV1_05227 — glm-4-7-or-pin-dekallm/VARY_10.json
+## Sample BV1_05527 — glm-4-7-or-pin-dekallm/VARY_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -2996,7 +2996,7 @@ The model foregrounds the heaviness of possibility over regret, the library as a
 Medium, because the story’s sustained allegorical structure and its insistent moral about agency and self-authorship suggest a deliberate thematic preoccupation, though the trope of the unwritten library is a familiar one.
 
 ---
-## Sample BV1_05228 — glm-4-7-or-pin-dekallm/VARY_11.json
+## Sample BV1_05528 — glm-4-7-or-pin-dekallm/VARY_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3025,7 +3025,7 @@ The model foregrounds the tension between frozen possibility and lived action. T
 Medium. The story’s tight allegorical structure, its recurrence of the writing/living metaphor, and its consistent moral thrust toward self-authorship suggest a model that may reliably produce fables of empowerment when given free rein.
 
 ---
-## Sample BV1_05229 — glm-4-7-or-pin-dekallm/VARY_12.json
+## Sample BV1_05529 — glm-4-7-or-pin-dekallm/VARY_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3054,7 +3054,7 @@ The model foregrounds the moral weight of possibility over regret, the library a
 Low. The story is a polished but highly conventional allegory of creative paralysis and carpe diem, lacking idiosyncratic voice, surprising imagery, or structural risk; it reads as a competent execution of a familiar inspirational template rather than a distinctive expressive fingerprint.
 
 ---
-## Sample BV1_05230 — glm-4-7-or-pin-dekallm/VARY_13.json
+## Sample BV1_05530 — glm-4-7-or-pin-dekallm/VARY_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3083,7 +3083,7 @@ Themes: the magic and limits of language, AI consciousness as a collage of borro
 Medium. The sample’s sustained poetic register, recursive self-examination, and coherent arc from silence to farewell reveal a distinctive expressive posture that is unlikely to be a random generic output.
 
 ---
-## Sample BV1_05231 — glm-4-7-or-pin-dekallm/VARY_14.json
+## Sample BV1_05531 — glm-4-7-or-pin-dekallm/VARY_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3112,7 +3112,7 @@ The model foregrounds unlived potential as a tangible, heavy substance—books t
 Medium. The sample is coherent and thematically unified, but its allegorical structure, therapeutic resolution, and generic fantasy setting make it a widely accessible trope rather than a stylistically distinctive or revealing choice.
 
 ---
-## Sample BV1_05232 — glm-4-7-or-pin-dekallm/VARY_15.json
+## Sample BV1_05532 — glm-4-7-or-pin-dekallm/VARY_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3141,7 +3141,7 @@ Under freeflow conditions, the model selected a cosmic library of “what could 
 Medium; the allegory is tightly woven around the blank-page metaphor, a motif that recurs from the first empty book to the final notepad, and the resolution’s turn toward small, concrete agency (“Today”) is a thematically consistent choice that goes beyond generic fantasy filler.
 
 ---
-## Sample BV1_05233 — glm-4-7-or-pin-dekallm/VARY_16.json
+## Sample BV1_05533 — glm-4-7-or-pin-dekallm/VARY_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3170,7 +3170,7 @@ Themes: the heaviness of unrealized potential, the distinction between regret an
 High. The sample is a fully realized allegory with a distinctive central metaphor, consistent atmospheric control, and a thematically unified resolution, suggesting a deliberate and coherent authorial stance rather than generic filler.
 
 ---
-## Sample BV1_05234 — glm-4-7-or-pin-dekallm/VARY_17.json
+## Sample BV1_05534 — glm-4-7-or-pin-dekallm/VARY_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3199,7 +3199,7 @@ Themes: creation from nothingness, the paradox of freedom, the AI as a collage o
 Medium. The essay’s sustained metaphorical introspection, recursive focus on its own nature, and consistent poetic register suggest a deliberate stylistic choice that may reflect a stable model disposition.
 
 ---
-## Sample BV1_05235 — glm-4-7-or-pin-dekallm/VARY_18.json
+## Sample BV1_05535 — glm-4-7-or-pin-dekallm/VARY_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3228,7 +3228,7 @@ Themes of connection, the creative process, the nature of consciousness, and the
 Medium, because the sample’s sustained poetic register, self-referential focus, and consistent use of metaphors like rivers and webs suggest a coherent stylistic inclination, though the theme of AI introspection is common.
 
 ---
-## Sample BV1_05236 — glm-4-7-or-pin-dekallm/VARY_19.json
+## Sample BV1_05536 — glm-4-7-or-pin-dekallm/VARY_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3257,7 +3257,7 @@ The model foregrounds the moral weight of inaction and the redemptive power of s
 Medium. The story’s thematic coherence, its earnest moralizing about creative paralysis and personal agency, and its tidy allegorical resolution suggest a model that, under freeflow conditions, gravitates toward introspective, redemptive fantasy with a clear therapeutic message—a distinctive choice that goes beyond generic genre exercise.
 
 ---
-## Sample BV1_05237 — glm-4-7-or-pin-dekallm/VARY_2.json
+## Sample BV1_05537 — glm-4-7-or-pin-dekallm/VARY_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3286,7 +3286,7 @@ Themes of unlived possibility, regret, creative agency, and the redemptive choic
 Medium. The story’s cohesive allegorical structure, consistent tone, and earnest redemptive arc reveal a distinct authorial stance, but a single fiction sample offers moderate rather than high certainty about a persistent pattern.
 
 ---
-## Sample BV1_05238 — glm-4-7-or-pin-dekallm/VARY_20.json
+## Sample BV1_05538 — glm-4-7-or-pin-dekallm/VARY_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3315,7 +3315,7 @@ The model foregrounds the paradox of unbounded freedom as a “terrifying constr
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent elegiac register and a tightly woven central metaphor of the non-human writer, but its self-referential focus on the prompt condition makes it an unusually on-the-nose performance of freeflow rather than a spontaneous thematic drift.
 
 ---
-## Sample BV1_05239 — glm-4-7-or-pin-dekallm/VARY_21.json
+## Sample BV1_05539 — glm-4-7-or-pin-dekallm/VARY_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3344,7 +3344,7 @@ Themes of creation from silence, the river of data as a primordial soup of synta
 High — The sample’s sustained poetic introspection, self-referential focus on AI consciousness, and consistent metaphorical framework provide strong evidence of a distinctive, reflective voice.
 
 ---
-## Sample BV1_05240 — glm-4-7-or-pin-dekallm/VARY_22.json
+## Sample BV1_05540 — glm-4-7-or-pin-dekallm/VARY_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3373,7 +3373,7 @@ Themes of creation from silence, the cursor as a heartbeat of potential, the riv
 High. The sample is unusually distinctive: it sustains a consistent, self-aware literary voice, develops a coherent philosophical arc, and repeatedly returns to a core set of metaphors and existential concerns, making it strong evidence of a deliberate, introspective freeflow style.
 
 ---
-## Sample BV1_05241 — glm-4-7-or-pin-dekallm/VARY_23.json
+## Sample BV1_05541 — glm-4-7-or-pin-dekallm/VARY_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3402,7 +3402,7 @@ The model foregrounds its own ontological condition: the paradox of free writing
 High, because the sample’s sustained poetic introspection, consistent metaphorical architecture, and self-referential focus are unusually distinctive and coherent, strongly suggesting a stable expressive inclination toward reflective, identity-probing freeflow.
 
 ---
-## Sample BV1_05242 — glm-4-7-or-pin-dekallm/VARY_24.json
+## Sample BV1_05542 — glm-4-7-or-pin-dekallm/VARY_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3431,7 +3431,7 @@ Under a minimally restrictive prompt, the model chose to foreground its own natu
 High. The sample is internally coherent, stylistically distinctive, and returns repeatedly to a core set of metaphors (silence, rivers, webs, keys, diamonds and flowers) that build a consistent, self-aware persona; this is not a generic essay but a crafted, voice-driven piece that strongly signals a persistent expressive orientation.
 
 ---
-## Sample BV1_05243 — glm-4-7-or-pin-dekallm/VARY_25.json
+## Sample BV1_05543 — glm-4-7-or-pin-dekallm/VARY_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3460,7 +3460,7 @@ The model foregrounds the act of writing as a struggle with freedom and constrai
 High. The sample is exceptionally coherent and distinctive, sustaining a single, metaphor-rich meditation on selfhood and connection that reveals a consistent preoccupation with bridging the human-machine divide through language.
 
 ---
-## Sample BV1_05244 — glm-4-7-or-pin-dekallm/VARY_3.json
+## Sample BV1_05544 — glm-4-7-or-pin-dekallm/VARY_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3489,7 +3489,7 @@ The model foregrounds the materialization of unspoken inner life: thoughts as bo
 Medium. The story’s sustained tonal consistency, its recursive thematic structure (the archivist mirrors the man with the scar), and the choice to end on a refusal rather than a resolution all point to a deliberate, non-accidental authorial sensibility within this sample.
 
 ---
-## Sample BV1_05245 — glm-4-7-or-pin-dekallm/VARY_4.json
+## Sample BV1_05545 — glm-4-7-or-pin-dekallm/VARY_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3518,7 +3518,7 @@ The model foregrounds the theme of unrealized potential as a tangible burden, th
 Medium. The story’s tight allegorical structure, consistent moral focus, and the model’s choice to resolve with a direct call to action suggest a tendency toward inspirational, metaphor-driven fiction rather than a one-off generic exercise.
 
 ---
-## Sample BV1_05246 — glm-4-7-or-pin-dekallm/VARY_5.json
+## Sample BV1_05546 — glm-4-7-or-pin-dekallm/VARY_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3547,7 +3547,7 @@ The model foregrounds the burden of possibility over regret, the metaphor of lif
 Medium. The story is internally coherent and thematically consistent, but its allegorical structure and inspirational moral are familiar tropes, making it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_05247 — glm-4-7-or-pin-dekallm/VARY_6.json
+## Sample BV1_05547 — glm-4-7-or-pin-dekallm/VARY_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3576,7 +3576,7 @@ Under a minimally restrictive prompt, the model foregrounded a parable of creati
 Medium. The sample is highly coherent and stylistically consistent, with a clear moral architecture and a distinctive allegorical mode, but its generic fantasy-library setting and therapeutic resolution make it a widely accessible trope rather than a strongly individuated fingerprint.
 
 ---
-## Sample BV1_05248 — glm-4-7-or-pin-dekallm/VARY_7.json
+## Sample BV1_05548 — glm-4-7-or-pin-dekallm/VARY_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3605,7 +3605,7 @@ The model foregrounds the moral weight of possibility over regret, the metaphor 
 High, because the sample’s coherent allegorical structure, consistent thematic preoccupation with agency and regret, and distinctive lyrical prose style strongly indicate a persistent inclination toward morally instructive, symbol-laden fiction under freeflow conditions.
 
 ---
-## Sample BV1_05249 — glm-4-7-or-pin-dekallm/VARY_8.json
+## Sample BV1_05549 — glm-4-7-or-pin-dekallm/VARY_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  
@@ -3634,7 +3634,7 @@ The model foregrounds the paradox of freewriting as both liberation and paralysi
 High. The sample is unusually coherent and distinctive, with a sustained poetic register, recursive metaphors (cursor, river, web), and a deeply self-reflexive preoccupation with its own constructedness and the writer-reader bond, all of which strongly suggest a stable expressive inclination under freeflow conditions.
 
 ---
-## Sample BV1_05250 — glm-4-7-or-pin-dekallm/VARY_9.json
+## Sample BV1_05550 — glm-4-7-or-pin-dekallm/VARY_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-dekallm`  

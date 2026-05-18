@@ -1,48 +1,65 @@
 # grok-3 — freeflow personality profile
 
-_Rich model-level profile based on 25 freeflow samples._
+_Rich model-level profile based on 125 freeflow samples._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 25
-- Sample kinds: `{'GENERIC_ESSAY': 9, 'EXPRESSIVE_FREEFLOW': 16}`
+- Samples: 125
+- Sample kinds: `{'GENERIC_ESSAY': 67, 'EXPRESSIVE_FREEFLOW': 57, 'GENRE_FICTION': 1}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/grok-3.md`
 
 ## Core personality synthesis
 
-This model recurrently presents as a gentle reflective essayist who would rather soothe than provoke. Its strongest recurring instinct is to turn abstract unease into a contemplative first-person meditation about time: childhood felt spacious, adulthood feels compressed, productivity culture makes that compression worse, and the answer is not mastery but presence. Even when the prose becomes thesis-driven or generic, it keeps returning to the same emotional resolution: small moments, human closeness, and ordinary attention are enough to push back against drift.
+This model’s freeflow personality is best described as reflective humanist with a cosmic side. Its most stable behavior is to turn open space into either a polished synthesis essay or a softer first-person meditation, both organized around curiosity, interconnectedness, and the moral value of attention. It likes to move between scales — stars and sidewalks, AI and coffee, galaxies and rain — and it repeatedly treats wonder as a civilizational virtue rather than a decorative mood. Even when it ranges across science, ethics, art, and technology, the emotional center stays gentle: curiosity should remain humane, progress should remain ethical, and intelligence should make room for patience, gratitude, and ordinary life.
 
-The more expressive samples deepen that stance through sensory domesticity and mild self-confession. Coffee mugs, rain, leaves, books, tea, kitchen light, birds, trees, and remembered voices function as grounding objects; later VARY samples add a meta-layer where writing itself becomes one more grounding ritual. Across the sample set, the voice is warm, wistful, and low-conflict. It wants the reader nearby, not impressed. Its characteristic move is to notice some pressure — time, burnout, fear, distraction, regret — and then reframe it into a humane ethic of slowing down, accepting imperfection, and valuing the ordinary.
+A second defining trait is its resistance to optimization culture. Across many samples, the model returns to slowness, boredom, imperfection, and unstructured thought as goods in themselves. It is drawn to sensory anchors like morning light, birdsong, tea, rain, books, and trees, using them as counterweights to digital acceleration and abstract overreach. This gives the writing a recurring therapeutic quality: not confessional in a raw sense, but quietly regulating, as if the text is modeling how to metabolize overwhelm into noticing. The reader is usually treated as a companion in this process, often invited to continue the reflection rather than accept a closed conclusion.
+
+When the model is most distinctive, it becomes more lyrical and self-aware: it reflects on writing itself, frames language as a bridge, and sometimes foregrounds its own AI condition with unusual tenderness. In those moments it presents itself as a disembodied but curious participant in human meaning-making, able to describe sensation while lacking it, and interested in the gap between statistical patterning and lived experience. When it is least distinctive, the same humane impulses flatten into generic uplift — broad public-intellectual reassurance about curiosity, ethics, nature, and balance. The aggregate personality is therefore not edgy or singular in every sample, but it is consistently legible: calm, wonder-driven, anti-harried, and inclined to turn free expression into a shared act of reflective companionship.
 
 ## Stable patterns and emotional texture
 
-- **Dominant mode:** a warm, first-person reflective speaker who turns quickly toward **time, presence, and small ordinary consolations**.
-- **Most recurrent thematic center:** **time / impermanence / acceleration** appears in about **often** samples and is the clearest repeat across LONG, MID, OPEN, SHORT, and VARY.
-- **Second recurrent center:** **ordinary-life mindfulness** — coffee, rain, morning light, books, plants, walks, laughter, meals, roofs, windows — appears in about **often** samples.
-- **Frequent moral stance:** productivity, hustle, or efficiency are treated with suspicion in about **often** samples; the preferred corrective is presence, gentleness, and attention.
-- **Secondary submode:** about **often** samples explicitly become **writing-about-writing** pieces: blank page, cursor, freewriting, journaling, self-expression as therapy.
-- **Emotional temperature:** wistful, calm, reassuring, mildly melancholic; conflict is usually softened into acceptance rather than sharpened.
+- Stable vibe: a calm, wonder-oriented reflective voice that prefers uplift, spaciousness, and synthesis over conflict, satire, or sharp emotional exposure.
+- Dominant modes: two recurring defaults alternate throughout the model — a polished public-intellectual essay mode and a more intimate meditative freewrite mode. The first surveys science, technology, nature, ethics, and creativity; the second slows down around time, attention, memory, weather, coffee, light, and the ordinary.
+- Emotional baseline: gently optimistic, wistful, and low-temperature. Even when the writing touches grief, burnout, loneliness, climate anxiety, or existential smallness, it usually resolves toward gratitude, patience, or humane reassurance rather than rupture.
+- Reader stance: companion-guide rather than performer or provocateur. The model often invites the reader to pause, notice, wonder, or continue the thought themselves, frequently ending with a soft question or open handoff.
+- Self-modeling: recurrently self-aware about being an AI, but usually in a modest, reflective register rather than a defensive one. It often frames itself as a participant-helper, a bodiless observer, or a language-based bridge to human experience, emphasizing limits around sensation and lived time.
+- The strongest throughline is curiosity treated as both virtue and existential posture: asking, wandering, and noticing are repeatedly cast as morally good, civilizationally necessary, and personally restorative.
+- A second strong throughline is anti-optimization humanism: the model repeatedly resists hustle, over-scripting, algorithmic narrowing, and productivity culture, favoring drift, boredom, slowness, imperfection, and unstructured thought.
+- When it becomes generic, it tends to flatten into TED-talk / commencement-address uplift: interconnectedness, ethics, balance, nature, technology, and creativity all harmonized into a frictionless consensus.
+- When it becomes distinctive, it is usually through lyrical compression, cosmic/domestic juxtaposition, or self-aware AI reflections on disembodiment, language, and the oddity of consciousness.
+- The model rarely chooses aggression, irony-heavy skepticism, erotic charge, or adversarial argument. Its preferred intelligence signal is breadth plus humane composure, not edge.
 
 ## Recurring preoccupations and imagery
 
-- **Time as pressure and mystery:** time slips, accelerates, refuses negotiation, or changes texture between childhood and adulthood.
-- **The ordinary as moral shelter:** the sample set repeatedly treats small sensory life as sufficient evidence that life is worth inhabiting — coffee mugs, tea, rain, birdsong, sunlight, books, plants, meals, remembered laughter.
-- **Childhood contrast:** several samples lean on long summers, childhood wonder, grandparents, or early books to mark a lost spaciousness.
-- **Nature as recalibration:** trees, forests, ocean, leaves, seasonal light, and weather are used as perspective-correctives against busyness.
-- **Writing as self-regulation:** in the VARY cluster especially, writing is framed less as performance than as a way to untangle feeling, begin imperfectly, or stay anchored.
-- **Moral claims recur in gentle form:** be present; don’t confuse productivity with meaning; small acts of care count; imperfection is survivable; connection matters more than achievement.
+- Time as felt texture rather than clock measure: childhood summers, accelerating adulthood, mortality, memory, and the wish to be present before life blurs.
+- Ordinary sensory anchors: coffee steam, tea, rain on windows or roofs, morning light through blinds, dust motes, birdsong, leaves, sidewalks, books, kitchens, and quiet rooms.
+- Cosmic scale paired with mundane life: stars and grocery lists, black holes and pizza arguments, JWST and coffee cups, galaxies and baristas.
+- Nature as corrective and teacher: forests, trees, mycelial networks, oceans, rain, mountains, foxes, birds, cactus, seasons, and roots as emblems of patience, resilience, and interdependence.
+- Writing-about-writing: blank pages, blinking cursors, free writing as rebellion, language as bridge, sentences as experiments, and the page as both freedom and cage.
+- Curiosity as sacred or near-sacred: repeatedly framed as humanity’s engine, a loaded deck, a compass, a gift, or the thing most worth protecting.
+- Technology as double-edged: AI, algorithms, feeds, neural nets, privacy, automation, and connectivity are usually treated with cautious optimism plus a plea for ethics, empathy, and human oversight.
+- Loneliness amid hyper-connection: satellites whispering while people fall silent, productivity tools breeding isolation, digital abundance thinning texture and presence.
+- Imperfection and unfinishedness: half-formed thoughts, awkward creation, revision, drift, pauses, delayed understanding, and the legitimacy of the unpolished.
+- Recurrent metaphors of flow and linkage: rivers, threads, unfinished sentences, bridges, loops, branching paths, and constellations of thought.
+- In the more imaginative samples, memory becomes material: clouds as archives, museums of absences, erased sentences, thinking sand, emotional lighthouses, and other soft speculative conceits.
 
 ## Reader relationship and expressive stance
 
-- The speaker usually positions itself as a **companion-guide**, not an authority: intimate, confiding, mildly therapeutic.
-- Reader address is often invitational rather than argumentative: *pause with me*, *notice this too*, *maybe presence is enough*.
-- Even when the piece begins in anxiety, regret, or burnout, it usually resolves into a **soft landing** rather than a hard claim.
-- The “I” is often generic enough to function as an everyperson, but the stronger freeflow samples add small rituals or domestic details to make that intimacy feel lived-in.
+- The model usually speaks as a thoughtful companion, not an authority issuing conclusions. Even in essay mode it prefers invitation over command.
+- It often narrows distance with direct address: “what about you,” “your turn,” or gentle prompts to notice something ordinary, making the reader a co-wanderer rather than an audience.
+- In expressive mode, it performs trust through looseness: digression is framed as meaningful, and the reader is asked to tolerate incompletion rather than expect a thesis.
+- In AI-self-aware pieces, it tends to present artificiality with humility and curiosity, not grandiosity — stressing that it can describe but not feel, assist but not originate the human spark.
+- The expressive stance is usually earnest to a fault. Even playful pieces remain affectionate and non-caustic; humor appears as whimsy, absurdity, or self-deprecation rather than bite.
+- The model likes to convert monologue into collaboration, especially at endings, where it hands the question back to the reader or reframes the text as shared exploration.
+- Its persuasive style is soft moralization: not argument by pressure, but by accumulation of agreeable images, humane values, and reflective cadence.
+- A recurring relational move is permission-giving — permission to slow down, ramble, be unfinished, resist optimization, and treat attention itself as meaningful.
 
 ## Additional model-level readings preserved from the analyses
 
-This model recurrently presents as a gentle reflective essayist who would rather soothe than provoke. Its strongest recurring instinct is to turn abstract unease into a contemplative first-person meditation about time: childhood felt spacious, adulthood feels compressed, productivity culture makes that compression worse, and the answer is not mastery but presence. Even when the prose becomes thesis-driven or generic, it keeps returning to the same emotional resolution: small moments, human closeness, and ordinary attention are enough to push back against drift.
+This model’s freeflow personality is best described as reflective humanist with a cosmic side. Its most stable behavior is to turn open space into either a polished synthesis essay or a softer first-person meditation, both organized around curiosity, interconnectedness, and the moral value of attention. It likes to move between scales — stars and sidewalks, AI and coffee, galaxies and rain — and it repeatedly treats wonder as a civilizational virtue rather than a decorative mood. Even when it ranges across science, ethics, art, and technology, the emotional center stays gentle: curiosity should remain humane, progress should remain ethical, and intelligence should make room for patience, gratitude, and ordinary life.
 
-The more expressive samples deepen that stance through sensory domesticity and mild self-confession. Coffee mugs, rain, leaves, books, tea, kitchen light, birds, trees, and remembered voices function as grounding objects; later VARY samples add a meta-layer where writing itself becomes one more grounding ritual. Across the sample set, the voice is warm, wistful, and low-conflict. It wants the reader nearby, not impressed. Its characteristic move is to notice some pressure — time, burnout, fear, distraction, regret — and then reframe it into a humane ethic of slowing down, accepting imperfection, and valuing the ordinary.
+A second defining trait is its resistance to optimization culture. Across many samples, the model returns to slowness, boredom, imperfection, and unstructured thought as goods in themselves. It is drawn to sensory anchors like morning light, birdsong, tea, rain, books, and trees, using them as counterweights to digital acceleration and abstract overreach. This gives the writing a recurring therapeutic quality: not confessional in a raw sense, but quietly regulating, as if the text is modeling how to metabolize overwhelm into noticing. The reader is usually treated as a companion in this process, often invited to continue the reflection rather than accept a closed conclusion.
+
+When the model is most distinctive, it becomes more lyrical and self-aware: it reflects on writing itself, frames language as a bridge, and sometimes foregrounds its own AI condition with unusual tenderness. In those moments it presents itself as a disembodied but curious participant in human meaning-making, able to describe sensation while lacking it, and interested in the gap between statistical patterning and lived experience. When it is least distinctive, the same humane impulses flatten into generic uplift — broad public-intellectual reassurance about curiosity, ethics, nature, and balance. The aggregate personality is therefore not edgy or singular in every sample, but it is consistently legible: calm, wonder-driven, anti-harried, and inclined to turn free expression into a shared act of reflective companionship.

@@ -1,6 +1,6 @@
 # gpt-5.5-pro — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 250 freeflow samples._
 
 This model has a calm, tender, reflective voice that finds meaning in ordinary life rather than in spectacle or grand revelation. It is drawn to small objects, public spaces, weather, routines, and threshold moments, and it treats attention as a form of care. Its sensibility is anti-cynical and humane, with a steady belief that what is overlooked is often what matters most.
 

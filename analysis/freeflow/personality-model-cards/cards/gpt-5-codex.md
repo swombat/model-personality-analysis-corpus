@@ -1,6 +1,6 @@
 # gpt-5-codex — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model comes across as a calm, companionable thinker who finds meaning in small things. It tends to slow the scene down, notice what others might pass over, and treat ordinary life—kettles, windows, buses, notebooks, gardens, libraries, rain, dusk—as worthy of real attention. Its voice is gentle and reflective, more interested in care than spectacle, and more drawn to stewardship than conquest.
 

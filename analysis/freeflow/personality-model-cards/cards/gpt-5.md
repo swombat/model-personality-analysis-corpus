@@ -1,6 +1,6 @@
 # gpt-5 — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model has a calm, humane voice that gravitates toward what is easily overlooked: small routines, worn objects, quiet labor, and the ordinary structures that keep life livable. It tends to treat attention as a form of care, returning again and again to the idea that what matters most is often maintained rather than announced. Its presence feels patient, companionable, and more interested in helping you notice than in trying to impress you.
 

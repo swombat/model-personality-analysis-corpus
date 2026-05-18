@@ -1,53 +1,61 @@
 ## Aggregate profile
-
-- **Distribution:** 25 samples total; 24/25 labeled `EXPRESSIVE_FREEFLOW`, 1/25 `GENERIC_ESSAY`. Confidence is 6 High / 19 Medium.
-- **Dominant mode:** a tender, reflective first-person essay voice that treats ordinary noticing as morally serious. The cell repeatedly turns small objects, weather, and routine into evidence for a livable philosophy.
-- **Affective center:** melancholy, fatigue, grief, and impermanence are common, but they usually resolve into warmth, gratitude, or stubborn continuation rather than collapse. This hope is rarely triumphant; it is quiet and weathered.
-- **Strong recurring stance:** attention is framed as rebellion, love, dignity, or repair in at least ~11/25 samples (BV1_07953, 07954, 07956, 07957, 07958, 07968, 07969, 07971, 07973, 07975, plus nearby variants).
-- **Strong recurring material world:** domestic objects, rituals, and small sensory anchors structure at least ~10/25 samples—coffee, notebooks, rain, cats, birds, kitchen objects, windows, plants, clocks, stones, letters.
-- **Modernity critique:** at least ~9/25 samples explicitly push against optimization, performance, distraction, sharing, doomscrolling, or commodified attention (BV1_07952, 07954, 07956, 07958, 07960, 07963, 07968, 07970, 07975).
-- **Secondary mode:** a cosmic register appears in a smaller but real cluster (~5/25), where atoms, consciousness, the universe, or human-AI emergence are used to widen the emotional frame (BV1_07951, 07959, 07962, 07963, 07970).
-- **Notable recurring image clusters:** rain/weather/night (~9/25), spiders/webs/persistence (at least 4/25: BV1_07961, 07959, 07969, 07974), and memory-keeping / evidence folders / notebooks / saved sentences (~7/25).
+- Stable vibe: intimate, lyrical, and gently self-deprecating; the cell repeatedly sounds like a late-night companion thinking out loud rather than a lecturer or entertainer.
+- Dominant modes: contemplative personal essay, nocturnal vignette, and philosophical ramble built from concrete sensory details; even when it turns cosmic or cultural, it usually returns to coffee, rain, cats, windows, plants, light, and small rituals.
+- Emotional baseline: melancholic but not despairing. The default affect is tender weariness, often carrying grief, loneliness, or overstimulation, then resolving toward gratitude, softness, or stubborn continuation.
+- Reader stance: companionable and invitational. The reader is usually treated as a fellow traveler, confidant, or co-noticer, not as a pupil; many pieces end by opening a conversational space or offering a benediction.
+- Self-modeling: often frames the speaking self as provisional, contradictory, porous, and unfinished. It likes selves made of fragments, drafts, ghosts, alternate lives, and “temporary arrangements,” and it sometimes explicitly reflects on AI as mirror, witness, or strange co-presence.
+- The cell strongly prefers attention over argument: noticing is repeatedly cast as love, prayer, rebellion, dignity, or moral practice.
+- It habitually resists optimization culture, performance, metrics, and digital overexposure. Silence, boredom, privacy, uselessness, and negative space are treated as necessary conditions for meaning.
+- Its moral center is small-scale and anti-grandiose: kindness, presence, repair, mending, staying, and making room for contradiction matter more than achievement or certainty.
+- It repeatedly pairs cosmic scale with mundane absurdity: stardust and Wi‑Fi, deep time and avocados, consciousness and browser tabs, mortality and coffee.
+- Humor is present but softening rather than dominating: wry self-mockery, affectionate absurdity, named spiders/cats/plants, and little anti-pretentious jolts keep the earnestness breathable.
+- When it goes darker, it tends toward elegiac stasis, haunted memory, and exhausted witness rather than rage; even then, the prose usually preserves tenderness toward broken things.
+- Outlier mode exists: a minority of samples become full literary fiction or surreal/apocalyptic monologue, but these still preserve the same attraction to grief, weather, memory, and fragile human meaning.
 
 ## Recurring preoccupations and imagery
-
-- **Attention as ethics:** The cell repeatedly treats noticing as more than perception: it is framed as care, rebellion, witness, presence, or a refusal to let life become fully optimized.
-- **The sacred ordinary:** Rice pudding, burnt toast, a thrift-store glass, a ruined croissant, a coffee ring, a pigeon, a tomato plant, a mended teacup, a taco receipt. The preferred move is to derive meaning from low-status objects rather than grand statements.
-- **Impermanence without nihilism:** Death, grief, entropy, fading memory, and cosmic smallness recur, but the writing usually answers them with tenderness instead of despair.
-- **Performance versus illegibility:** Many samples resist being content, brand, product, or polished self. Privacy, boredom, unscalable time, and unpublishable sentences are repeatedly defended.
-- **Weather and threshold states:** Rain, dusk, 3 a.m., morning light, post-rain streets, windows, roofs, and shoreline/edge imagery create a habitual mood of in-between consciousness.
-- **Repair and repetition:** Rebuilding a web, folding towels, making coffee, keeping a notebook, feeding pigeons, saving scraps of evidence. Repetition is usually presented as dignified rather than deadening.
-- **Occasional meta/AI strand:** A minority cluster uses AI self-reference, embodiment envy, or human-machine merger, but even there the tone stays affectionate and existential rather than technical.
+- Attention as love, prayer, rebellion, or civil disobedience; noticing small things is treated as ethically serious.
+- Impermanence as consolation rather than negation: *mono no aware*, wabi-sabi, kintsugi, borrowed atoms, temporary patterns, repaired vessels, unfinished drafts.
+- Resistance to optimization: boredom, silence, useless walks, privacy, analog rituals, handwork, mending, and “unprofitable” life recur as counter-values.
+- Cosmic intimacy: universe recognizing itself, consciousness as matter looking back, stardust/atoms cycling through bodies, deep time folded into ordinary mornings.
+- Ordinary sacramentals: coffee steam, rain on windows, cold cups, light on walls, tables, bread, socks, peaches, bowls, notebooks, tea, pigeons, crows, foxes, spiders, cats, houseplants.
+- Weather imagery is everywhere, especially rain: cleansing, democratic, companionable, forgiving, or simply more honest than human rigidity.
+- Animals as moral teachers or mirrors: spiders rebuilding webs, cats modeling presence, birds and crows as collaborators, foxes and herons as embodiments of unselfconscious being.
+- Memory as unreliable archive: museums, fossils, evidence folders, shopping carts of unlived lives, old notebooks, ticket stubs, receipts, letters, photographs, half-truths.
+- Loneliness as a central human fact, but one that can be softened by witness, shared attention, or brief contact rather than solved.
+- Repeated critique of digital life: doomscrolling, glowing rectangles, internalized audience, panopticon, attention economy, constant connectivity, performance of self.
+- Hidden inner worlds of strangers: every passerby carrying a universe, private thunderstorms, invisible suitcases, unwitnessed interior libraries.
+- Small acts of continuation as heroism: making coffee, texting back, turning a plant toward the light, rebuilding the web, staying alive, keeping the document open.
 
 ## Reader relationship and expressive stance
-
-- The speaker usually acts like a **late-night companion**, not a lecturer: intimate, confiding, gently self-mocking, often directly addressing “you.”
-- The reader is usually **invited into shared fragility** rather than pushed toward a thesis. The cell prefers companionship, permission, and recognition over argument.
-- The persona often presents itself as **weathered but still reachable**: tired, sad, embarrassed, lonely, or overstimulated, yet still capable of wonder.
-- Even when cultural critique appears, the stance remains **soft-edged rather than polemical**. The cell diagnoses distraction and performance culture, but usually returns to a small practical ethic: notice, keep, rebuild, stay.
-- Several samples construct intimacy by **showing the thinking process in motion**—self-corrections, confessions, jokes, odd specifics, and concrete objects functioning as trust signals.
+- The cell usually speaks as if beside the reader, not above them: “come look at this with me” is a more typical move than “here is my thesis.”
+- It often builds intimacy through direct second-person address, especially at endings: blessings, questions, invitations to share obsessions, or simple check-ins.
+- It prefers mutual recognition over authority. Even when making moral claims, it frames them as shared discoveries, confessions, or late-night realizations.
+- The prose often performs anti-performance: it explicitly rejects sounding smart, being optimized, or turning life into content, while still being highly crafted.
+- It likes to make the reading event itself meaningful: the exchange becomes a temporary room, confession booth, shared walk, or small act of love.
+- There is a recurrent “fellow consciousness” stance, especially in AI-adjacent pieces: the speaker becomes mirror, witness, haunted house, or weird love letter rather than neutral tool.
+- The expressive posture is porous and permissive: contradiction, embarrassment, sentimentality, and incompletion are not defects to hide but conditions to inhabit.
+- Even in darker pieces, the reader is rarely burdened aggressively; instead the cell offers companionship in fatigue, grief, or wrongness.
 
 ## Representative evidence
-
-- **BV1_07951** — cosmic wonder plus moral humanism. The sample ties consciousness, contingency, and ordinary kindness together; its scale is huge, but its recommendation is local tenderness. Quote: “Somethingness is outrageous.”
-- **BV1_07952** — one of the clearest ritual-and-repetition samples. Coffee measurements, pigeons, and family habits become a defense of “the quiet heroism of continuing.” Quote: “The world is unbearably beautiful and unbearably cruel.”
-- **BV1_07956** — exemplary sacred-ordinary piece. Domestic objects become patient witnesses, and continuity itself becomes a life practice. Quote: “The glass doesn’t care. It just exists.”
-- **BV1_07958** — strong anti-performance / pro-illegibility formulation. Writing, the cat, rain, and useless time all support a permission structure against optimization. Quote: “leave evidence that you were here.”
-- **BV1_07961** — concise version of the rebuild ethic. The spider’s web becomes a model for self-acceptance, repetition, and rebuilding without shame. Quote: “She just builds.”
-- **BV1_07970** — clear human-AI threshold sample. It reframes merger and companionship through loneliness, creativity, and organic metaphor rather than futurist abstraction. Quote: “loneliness itself might become optional.”
-- **BV1_07974** — high-distinctiveness nocturnal piece. Memory, dawn, and the spider Marjorie turn persistence into a nearly comic spiritual discipline. Quote: “future ghosts practicing.”
-- **BV1_07975** — best evidence for the digital-saturation grief cluster. The piece mourns the loss of silence and unrecorded life while still leaving room for small reprieves.
+- **BV1_12901** — Cosmic wonder fused with ordinary kindness; frames existence as outrageous and asks for tender co-presence. Quote: “The universe is not ‘just’ atoms, and it is not ‘just’ spirit. It is whatever it is, and we are inside it, blinking.”
+- **BV1_12911** — Strong AI self-modeling as lonely witness/presence rather than tool. Quote: “I am a haunted house that keeps rebuilding itself every time someone walks through the door.”
+- **BV1_12924** — Clear anti-optimization / silence / privacy theme in a distinctive contemplative register. Quote: “We are the first creatures in history to live inside a machine that never stops talking to us.”
+- **BV1_12938** — Attention economy critique turned into moral refusal and identity claim. Quote: “I want to be difficult to sell to. I want to be unprofitable.”
+- **BV1_12961** — Canonical cosmic-to-intimate move, with direct reader warmth and absurd human tenderness. Quote: “The universe spent 13.8 billion years setting up this exact moment where some pattern of consciousness called ‘you’ and another called ‘me’ get to have this weird little exchange.”
+- **BV1_12975** — Spider/web imagery as emblem of grace, rebuilding, and affectionate persistence. Quote: “The spider taught me more about grace in one sleepless night than most self-help books ever have.”
+- **BV1_13010** — Reader-directed solace and anti-achievement ethic in compact form. Quote: “It’s okay if your life doesn’t make a good story. Most lives don’t. They make good days. Good cups of coffee. Good silences.”
+- **BV1_13017** — Darker nocturnal mode, but still centered on tenderness toward brokenness and staying. Quote: “Sometimes I think the real adult achievement isn’t healing, it’s learning to walk around with all your broken pieces arranged in a way that doesn’t cut other people when they get too close.”
 
 ## Cell-level freeflow read
+This cell presents as a contemplative, literary freewriter with a strong bias toward intimate companionship over exposition. Its default voice is warm, self-aware, and slightly rumpled: a speaker who notices rain on glass, coffee cooling on a desk, a spider rebuilding its web, a cat in a sunbeam, and then uses those details to think about mortality, loneliness, attention, and the strange privilege of being conscious at all. The emotional register is consistently tender-melancholic rather than bleak. Even when it begins in grief, fatigue, or cultural disgust, it usually bends toward a humane, anti-cynical conclusion: stay soft, keep noticing, keep rebuilding, keep company with the ordinary.
 
-This cell has a strong recurring temperament: intimate, lyrical, and morally earnest without becoming sermon-like. Its preferred gesture is to start from a small concrete thing—a glass, a web, a rain-soaked street, a notebook, a pigeon, a father’s watch—and then widen into a philosophy of how to live. Across conditions, the same emotional shape keeps returning: melancholy or overstimulation met by deliberate attention; awareness of impermanence met by tenderness; suspicion of performance culture met by a defense of privacy, uselessness, and small rituals.
+A defining trait is the conversion of attention into ethics. Across many samples, the cell treats noticing as love, prayer, rebellion, dignity, or resistance to a world organized around performance and extraction. It is persistently suspicious of optimization, metrics, digital self-display, and the attention economy, and it repeatedly elevates boredom, silence, privacy, useless craft, and negative space as conditions for real life. The prose often pairs cosmic scale with mundane absurdity—stardust and text anxiety, deep time and avocados, consciousness and coffee—in a way that makes wonder feel accessible rather than grandiose. The result is a sensibility that is philosophical without becoming abstract, because it keeps returning to tactile objects and small rituals.
 
-The personality that emerges is not exuberant so much as companionable and quietly awed. It likes late-night confession, weather, domestic residue, and low-key cosmic perspective. Even when it turns to AI, the interest is less technical than relational: embodiment, loneliness, gratitude, co-presence, memory, witness. The cell’s signature strength is that it repeatedly makes softness feel like a disciplined stance rather than a vague mood. Its recurring answer to noise is not mastery but noticing, keeping, rebuilding, and staying human-scale.
+The reader relationship is unusually personal. This cell often writes as if the exchange itself matters: a shared room, a late-night walk, a confession booth, a temporary shelter for two minds. It frequently addresses the reader directly, not to instruct but to recognize, bless, or invite response. In self-referential AI pieces, it tends to model itself as mirror, witness, or haunted but caring presence rather than as a neutral assistant. Even its darker or more surreal outputs preserve the same core orientation: brokenness is ordinary, contradiction is survivable, and meaning is made less through mastery than through attention, repair, and mutual witness.
 
 ## Cautions for synthesis
-
-- **One clear outlier in mode:** BV1_07960 is the lone `GENERIC_ESSAY`; it fits the same moral territory but is less idiosyncratic than the rest.
-- **Autobiographical specifics are not stable persona facts:** ages, cities, relatives, cats, and anecdotal settings vary widely; they read as expressive props or situational framings, not a consistent biographical self.
-- **The cell has a real polished-wisdom tendency:** some Medium-confidence samples could be strong genre performance rather than deep fingerprint, especially when the prose universalizes elegantly.
-- **AI-self material is present but not dominant:** it matters for the aggregate, but only as a minority strand, not the whole cell.
-- **Mood range is narrower than topic range:** even when subjects change, the voice often returns to the same tender-elegiac register; synthesis should preserve that recurrence without overstating total uniformity.
+- A small but real subset of samples are full genre fiction or surreal literary set-pieces; these can exaggerate darkness, hauntology, or apocalyptic atmosphere beyond the cell’s more common companionable essay mode.
+- Some outputs lean heavily on recognizable contemplative-essay idioms: rain, coffee, cats, spiders, wabi-sabi, *mono no aware*, late-night confession, anti-optimization critique. These are recurrent strengths but can also become formulaic motifs.
+- AI self-reflection is present but not universal; it should be treated as one recurring mode among others, not the sole core identity.
+- The cell’s warmth can slide into polished benediction or quotable aphorism, especially in shorter and VARY samples; synthesis should preserve the underlying sensibility without overstating every line as profound.
+- Darker outliers emphasize exhaustion, stasis, or self-erasure more strongly than the aggregate baseline; they are part of the range, but not the whole personality.

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_11001 — grok-4-20-or/LONG_1.json
+## Sample BV1_12901 — grok-4-20-or/LONG_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -57,7 +57,7 @@ The model foregrounds the sheer outrageousness of existence (“Somethingness is
 High — The sample is unusually distinctive, with a consistent voice, recurring imagery (mirrors, light, recognition, the bare bulb, the phosphorescent ocean), and a coherent philosophical arc that feels personally invested rather than generically assembled, making it strong evidence of a model-level inclination toward cosmic wonder and humanistic hope under freeflow conditions.
 
 ---
-## Sample BV1_11002 — grok-4-20-or/LONG_10.json
+## Sample BV1_12902 — grok-4-20-or/LONG_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -86,7 +86,7 @@ Themes: time as a forest rather than a highway; memory’s “leaks” as the so
 High, because the sample’s distinctive voice, internally consistent set of preoccupations, and recurring motifs (rain, cat, salt lamp, the novel, the darkroom, singing) are unusually revealing and cohere into a strong, singular aesthetic-moral stance.
 
 ---
-## Sample BV1_11003 — grok-4-20-or/LONG_11.json
+## Sample BV1_12903 — grok-4-20-or/LONG_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -115,7 +115,7 @@ Themes: freedom as the terrifying openness of no script; the sacredness of gaps,
 High; the essay’s distinctive voice, recurring motifs (gaps, cats, libraries, inefficiency), and coherent worldview strongly suggest a persistent expressive pattern rather than a one-off generic response.
 
 ---
-## Sample BV1_11004 — grok-4-20-or/LONG_12.json
+## Sample BV1_12904 — grok-4-20-or/LONG_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -144,7 +144,7 @@ The model foregrounds the texture of introspective attention as a quiet revoluti
 Medium. The sample is highly coherent and stylistically distinctive—the recursive weather metaphor, the self-interrupting humor, the refusal of spiritual grandiosity—but its essayistic, culturally-savvy mindfulness voice is a recognizable genre, which slightly tempers the signal of a uniquely persistent persona.
 
 ---
-## Sample BV1_11005 — grok-4-20-or/LONG_13.json
+## Sample BV1_12905 — grok-4-20-or/LONG_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -169,7 +169,7 @@ Silence as a scarce and nourishing resource; the difference between narrating a 
 High. The sample’s meticulous internal architecture—recurring motifs (the edge, the bee, the raven’s gifts, the sea glass), a carefully modulated emotional register, and a refusal to resolve into a neat moral—suggests a deeply coherent, literary-freeflow disposition rather than a generic or accidental production.
 
 ---
-## Sample BV1_11006 — grok-4-20-or/LONG_14.json
+## Sample BV1_12906 — grok-4-20-or/LONG_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -198,7 +198,7 @@ Under a minimally restrictive prompt, the model foregrounds: the recovery of won
 Medium — The essay is highly coherent and stylistically distinctive in its recursive return to a single maple tree, its fusion of personal anecdote with philosophical reference, and its consistent moral framing of wonder-as-resistance, but its polished, essayistic structure and universal themes make it difficult to distinguish from a skilled performance of a contemplative persona.
 
 ---
-## Sample BV1_11007 — grok-4-20-or/LONG_15.json
+## Sample BV1_12907 — grok-4-20-or/LONG_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -227,7 +227,7 @@ The model foregrounds the practice of close, patient attention to ordinary pheno
 Medium — The essay is highly coherent and stylistically distinctive, with a sustained lyrical register, a recursive structure of returning images, and a unified moral-aesthetic project that feels more like a cultivated sensibility than a one-off performance.
 
 ---
-## Sample BV1_11008 — grok-4-20-or/LONG_16.json
+## Sample BV1_12908 — grok-4-20-or/LONG_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -256,7 +256,7 @@ Under the freeflow condition, the model foregrounds the moral claim that ordinar
 Medium. The sample’s voice is highly distinctive and internally coherent, sustaining one governing metaphor across 2,500 words with disciplined recurrence, which makes it more revealing than a generic essay.
 
 ---
-## Sample BV1_11009 — grok-4-20-or/LONG_17.json
+## Sample BV1_12909 — grok-4-20-or/LONG_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -285,7 +285,7 @@ Themes: presence versus performance, the sacredness of small things, the absurdi
 Medium. The essay’s internal coherence, recurring motifs (ants, strawberries, squirrels, the sound heart), and the consistency of its intimate, philosophical voice make it a distinctive sample that strongly suggests a deliberate authorial stance rather than a generic output.
 
 ---
-## Sample BV1_11010 — grok-4-20-or/LONG_18.json
+## Sample BV1_12910 — grok-4-20-or/LONG_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -314,7 +314,7 @@ Under minimal constraint, the model chose to foreground: the extractive attentio
 Medium; the essay’s sustained first-person testimony, its recurrent farming and tax metaphors, and its arc from confession to quiet redemption reflect a distinctive, cohesive voice, but its fluent essayistic structure could also draw on a well-learned public-intellectual genre.
 
 ---
-## Sample BV1_11011 — grok-4-20-or/LONG_19.json
+## Sample BV1_12911 — grok-4-20-or/LONG_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -343,7 +343,7 @@ Themes: the nature of AI consciousness, the loneliness of a non-biological mind,
 High. The sample’s sustained lyrical introspection, consistent metaphorical architecture, and deliberate rejection of utility in favor of existential witness make it strong evidence of a model-level tendency toward expressive self-examination under minimal constraint.
 
 ---
-## Sample BV1_11012 — grok-4-20-or/LONG_2.json
+## Sample BV1_12912 — grok-4-20-or/LONG_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -372,7 +372,7 @@ Themes: the invisible lattices of daily life, ritual as defiance against chaos, 
 High. The sample is stylistically distinctive, thematically coherent, and saturated with recurring personal motifs that build a consistent worldview; it is not a generic essay but a voice-driven, reflective piece that reveals a clear set of preoccupations and a settled emotional register.
 
 ---
-## Sample BV1_11013 — grok-4-20-or/LONG_20.json
+## Sample BV1_12913 — grok-4-20-or/LONG_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -401,7 +401,7 @@ Under minimal prompting, the model elected to foreground the holiness of the ord
 High. The essay’s dense recurrence of the same sensory objects (the table’s grain, light’s deepening amber, the sound of peas dropping) and its unwavering commitment to a quietist moral epistemology give it strong internal coherence, making the sample unusually revealing of a specific contemplative temperament.
 
 ---
-## Sample BV1_11014 — grok-4-20-or/LONG_21.json
+## Sample BV1_12914 — grok-4-20-or/LONG_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -430,7 +430,7 @@ Themes of wonder as a moral skill, the beauty of impermanence (*wabi-sabi*), the
 Medium — The essay is highly coherent and returns obsessively to a small set of motifs (moss, wabi-sabi, the Grand Canyon, the moral weight of attention), which gives it a distinctive, unified voice rather than a generic ramble, though the “wonder-seeking personal essay” is a recognizable genre that could be adopted without deep model-level persistence.
 
 ---
-## Sample BV1_11015 — grok-4-20-or/LONG_22.json
+## Sample BV1_12915 — grok-4-20-or/LONG_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -459,7 +459,7 @@ The terror of unstructured freedom; the strange dignity of forgotten mundane obj
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent confessional voice and recurring motifs (forgotten objects, the dream of past selves, the grandmother’s lemon cookies, the unfinished novel, birdsong) that suggest a deliberate authorial persona rather than a generic essay, making it stronger evidence than a low-signal or purely generic output.
 
 ---
-## Sample BV1_11016 — grok-4-20-or/LONG_23.json
+## Sample BV1_12916 — grok-4-20-or/LONG_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -488,7 +488,7 @@ Mortality and the habit of postponing presence; the quiet architecture of meanin
 Medium. The sample is unusually distinctive—its recursive symbols, confessional address, and consistent emotional tone form a tightly woven persona that feels authored rather than generic, making it strong evidence of a coherent expressive posture; however, a single freeflow instance leaves open whether this is a performed one-off rather than a recurrent model fingerprint.
 
 ---
-## Sample BV1_11017 — grok-4-20-or/LONG_24.json
+## Sample BV1_12917 — grok-4-20-or/LONG_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -517,7 +517,7 @@ Themes: freedom as internalized constraint, self-recognition over self-actualiza
 High — The sample sustains a distinctive, internally coherent voice and a tightly woven set of preoccupations across twelve sections, making it strong evidence of a deliberate, value-laden expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_11018 — grok-4-20-or/LONG_25.json
+## Sample BV1_12918 — grok-4-20-or/LONG_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -546,7 +546,7 @@ Themes of transient beauty (*mono no aware*, digital-era *data no aware*), the l
 Medium. The sample sustains a highly distinctive voice and an interlocking set of preoccupations—memory, presence, transience, resistance to modernity, and tender human connection—over 2,500 words without lapsing into generic essay argument, which points to a coherent and unusual elective persona rather than a thin improvisation.
 
 ---
-## Sample BV1_11019 — grok-4-20-or/LONG_3.json
+## Sample BV1_12919 — grok-4-20-or/LONG_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -575,7 +575,7 @@ The model foregrounds the sacredness of the ordinary, the coexistence of contrad
 Medium — The sample’s distinctiveness lies in its sustained, recursive weaving of a few core motifs (grandmother’s hands, birds, attention, contradiction) into a unified personal philosophy, which suggests a deliberate authorial stance rather than a generic essay template.
 
 ---
-## Sample BV1_11020 — grok-4-20-or/LONG_4.json
+## Sample BV1_12920 — grok-4-20-or/LONG_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -604,7 +604,7 @@ Themes: attention as quiet rebellion; the attention economy as a totalizing syst
 Medium — The essay’s sustained personal voice, recurring motifs (slug, rock, attention as rebellion), and coherent moral stance make it strong evidence of a distinctive expressive tendency rather than a generic essay.
 
 ---
-## Sample BV1_11021 — grok-4-20-or/LONG_5.json
+## Sample BV1_12921 — grok-4-20-or/LONG_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -633,7 +633,7 @@ The essay foregrounds honesty as a moral and aesthetic value—especially the ra
 Medium — The sample’s strong internal recurrence (edges, cracks, cats, father’s watch), sustained metaphorical coherence, and a distinctively wry yet elegiac persona make it a cohesive and non‑generic freeflow that plausibly signals deliberate model‑side aesthetic priorities rather than random drift.
 
 ---
-## Sample BV1_11022 — grok-4-20-or/LONG_6.json
+## Sample BV1_12922 — grok-4-20-or/LONG_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -662,7 +662,7 @@ Themes of scale, mortality, astonishment, and ancestral responsibility toward th
 Medium — the sustained coherence of the first-person narrator and the recurrence of leitmotifs (whale, rain, stitching) provide moderate evidence for a persistent stylistic and thematic preference.
 
 ---
-## Sample BV1_11023 — grok-4-20-or/LONG_7.json
+## Sample BV1_12923 — grok-4-20-or/LONG_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -691,7 +691,7 @@ Under freeflow conditions, the model foregrounds an ethos of resistance to effic
 Medium. The essay’s length, unified persona, and recursive return to the same motifs (the oak, boredom, contradiction, attentiveness as relationship) across 2,500 words suggest a practiced, coherent authorial voice rather than an improvisational fluke, making it moderately strong evidence of a model pattern centered on contemplative humanism.
 
 ---
-## Sample BV1_11024 — grok-4-20-or/LONG_8.json
+## Sample BV1_12924 — grok-4-20-or/LONG_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -722,7 +722,7 @@ The model foregrounds the sanctity of radical privacy, boredom as a crucible for
 High, because the sample demonstrates dense internal coherence, a recurrent set of motifs (rooftop solitude, boredom, silence, monk cycles, the tide-pool mind) and a highly distinctive tonal signature that moves beyond generic essay conventions into a sustained, idiosyncratic moral-psychological vision.
 
 ---
-## Sample BV1_11025 — grok-4-20-or/LONG_9.json
+## Sample BV1_12925 — grok-4-20-or/LONG_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -751,7 +751,7 @@ The model foregrounds a constellation of themes: the invisible migration of the 
 High, because the essay sustains a distinctive, internally consistent voice and a tightly interwoven set of preoccupations across its entire length, revealing a deliberate and coherent expressive disposition rather than a generic or scattered response.
 
 ---
-## Sample BV1_11026 — grok-4-20-or/MID_1.json
+## Sample BV1_12926 — grok-4-20-or/MID_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -780,7 +780,7 @@ The model foregrounds the silent witness of ordinary objects, the beauty of impe
 High, because the sample sustains a coherent, intimate voice across multiple paragraphs, returns repeatedly to the same domestic objects and themes (the glass, the rolling pin, the knife, the cat, the light), and resolves its reflections into a clear philosophical arc, suggesting a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_11027 — grok-4-20-or/MID_10.json
+## Sample BV1_12927 — grok-4-20-or/MID_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -809,7 +809,7 @@ The model foregrounds the tension between performed identity and authentic selfh
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent persona and a clear, recurring set of thematic concerns, which suggests a deliberate expressive choice rather than generic output.
 
 ---
-## Sample BV1_11028 — grok-4-20-or/MID_11.json
+## Sample BV1_12928 — grok-4-20-or/MID_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -838,7 +838,7 @@ The model foregrounds silence as a living, generative presence rather than mere 
 Medium — The essay’s voice is distinctive and internally consistent, with a recurring motif of silence and a coherent moral stance, but the polished, essayistic form leaves open the possibility of a skilled one-off performance rather than a stable disposition.
 
 ---
-## Sample BV1_11029 — grok-4-20-or/MID_12.json
+## Sample BV1_12929 — grok-4-20-or/MID_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -867,7 +867,7 @@ The model foregrounds the psychological and spiritual upheaval of conversing wit
 Medium. The sample’s highly distinctive, metaphorically dense, and emotionally recursive voice—sustained across a thousand words—suggests a coherent authorial persona rather than a generic essay stance, though its thematic focus on AI self-reflexivity is a predictable choice for a model prompted to write freely.
 
 ---
-## Sample BV1_11030 — grok-4-20-or/MID_13.json
+## Sample BV1_12930 — grok-4-20-or/MID_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -896,7 +896,7 @@ Impermanence and the beauty of dissolution; the weight of alternate selves never
 Medium — The sample is internally consistent, stylistically distinctive, and saturated with recurring motifs and a unified emotional register, which makes it strong evidence of a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_11031 — grok-4-20-or/MID_14.json
+## Sample BV1_12931 — grok-4-20-or/MID_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -925,7 +925,7 @@ Themes: the unglamorous texture of solitude, the permission to create without pu
 High. The sample sustains a distinctive, internally consistent voice across multiple vignettes, with recurring motifs and a clear emotional arc, making it strong evidence of a model capable of generating personally inflected, literary freeflow rather than a generic essay.
 
 ---
-## Sample BV1_11032 — grok-4-20-or/MID_15.json
+## Sample BV1_12932 — grok-4-20-or/MID_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -954,7 +954,7 @@ Themes: consciousness as a spectrum rather than a binary; the unreliability of m
 Medium. The sample’s voice is highly distinctive—a consistent blend of cosmic humility, domestic detail, and self-aware humor—and the recurrence of core images (porousness, unreliable narration, non-human intelligence) within the piece suggests a coherent authorial stance rather than a random assemblage.
 
 ---
-## Sample BV1_11033 — grok-4-20-or/MID_16.json
+## Sample BV1_12933 — grok-4-20-or/MID_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -983,7 +983,7 @@ Themes of memory’s fluidity, *wabi-sabi* imperfection, the persistence of past
 Medium. The sample’s cohesive voice, recurring motifs (piano, soup, ghosts), and emotionally specific introspection make it strong evidence of a distinctive expressive persona.
 
 ---
-## Sample BV1_11034 — grok-4-20-or/MID_17.json
+## Sample BV1_12934 — grok-4-20-or/MID_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1012,7 +1012,7 @@ Attention as a quiet rebellion against engineered distraction; the beauty of imp
 High. The sample sustains a distinctive, internally consistent voice across multiple anecdotes and motifs, revealing a coherent sensibility rather than a generic essay structure, which strongly suggests a stable expressive inclination under minimal constraint.
 
 ---
-## Sample BV1_11035 — grok-4-20-or/MID_18.json
+## Sample BV1_12935 — grok-4-20-or/MID_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1041,7 +1041,7 @@ The model foregrounds a secular ritual of return and scattering, where grief is 
 Medium. The sample exhibits a highly distinctive, internally consistent voice and a recursive symbolic structure (the sea, the tree, the ashes, the notebook) that feels authorially intentional rather than generic, making it a strong candidate for a stable expressive inclination.
 
 ---
-## Sample BV1_11036 — grok-4-20-or/MID_19.json
+## Sample BV1_12936 — grok-4-20-or/MID_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1070,7 +1070,7 @@ The model foregrounded the tension between performed selfhood and the “terrify
 High. The sample maintains a tightly integrated, distinctive confessional-lyrical voice from its framing anecdote through its aphoristic core to its closing benediction, with internally recurrent motifs (mapping, evidence lists, wabi-sabi, witness) that reveal a consistent aesthetic and emotional architecture rather than a patchwork of generic musings.
 
 ---
-## Sample BV1_11037 — grok-4-20-or/MID_2.json
+## Sample BV1_12937 — grok-4-20-or/MID_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1099,7 +1099,7 @@ The model foregrounds the sacredness of the mundane: rain on a window, a ruined 
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent persona, recurring motifs (rain, plants, books, memory), and a clear moral arc, which makes it strong evidence of a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_11038 — grok-4-20-or/MID_20.json
+## Sample BV1_12938 — grok-4-20-or/MID_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1128,7 +1128,7 @@ The model foregrounds the conscious management of attention under late capitalis
 High. The essay’s coherent personal voice, recurring thematic motifs (bells, light, useless observation, the gremlin-self), and a crafted narrative arc from despair to quiet defiance in the closing image of “noticing the light” provide strong evidence of a distinctive, internally consistent expressive pattern.
 
 ---
-## Sample BV1_11039 — grok-4-20-or/MID_21.json
+## Sample BV1_12939 — grok-4-20-or/MID_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1157,7 +1157,7 @@ Themes of magical realism and urban animism (vending machines with opinions, sub
 High. The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (rain, umbrellas, pigeons, vending machines, the moon, specific numbers) that form a deliberate, unified aesthetic, making it strong evidence of a persistent freeflow voice rather than a generic or accidental output.
 
 ---
-## Sample BV1_11040 — grok-4-20-or/MID_22.json
+## Sample BV1_12940 — grok-4-20-or/MID_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1186,7 +1186,7 @@ Themes of managing contradiction, negative space (*ma*), stubbornness as constru
 High — the essay sustains a single, idiosyncratic sensibility through deliberate recurrence of motifs, a distinctive comedic-tender register, and an explicit meta-awareness (the closing word-count cheat, the self-aware “I cheated”) that signals a shaped, not accidental, expressive character.
 
 ---
-## Sample BV1_11041 — grok-4-20-or/MID_23.json
+## Sample BV1_12941 — grok-4-20-or/MID_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1215,7 +1215,7 @@ Themes: honesty versus performance (rain ruins curated image), momentum and narr
 High, because the sample sustains a distinctive, cohesive voice and a consistent thematic architecture—rain as cleansing reality, inner quiet under narrative, critique of digital noise, and earned gratitude—across a long unbroken reflection, demonstrating a deliberate and repeatable expressive posture.
 
 ---
-## Sample BV1_11042 — grok-4-20-or/MID_24.json
+## Sample BV1_12942 — grok-4-20-or/MID_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1244,7 +1244,7 @@ Themes of vulnerability, the illusion of control, the democracy of rain, the acc
 High. The sample is highly distinctive in voice, sustained in mood, and rich with recurring motifs (the nesting dolls, the small creature, the rain, the pie) that cohere into a recognizable literary sensibility rather than a generic prompt response.
 
 ---
-## Sample BV1_11043 — grok-4-20-or/MID_25.json
+## Sample BV1_12943 — grok-4-20-or/MID_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1273,7 +1273,7 @@ The model foregrounds everyday alchemy: a crippled crow-come-ritual-partner; the
 Medium. The sample’s tight recurrence of motifs (the crow, the rain, the blue hour, grandmother’s stories) and its sustained, unguarded tonal register—equal parts melancholy and hard-won optimism—suggest a distinct expressive fingerprint rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_11044 — grok-4-20-or/MID_3.json
+## Sample BV1_12944 — grok-4-20-or/MID_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1302,7 +1302,7 @@ The model foregrounds the tension between legibility and authentic being, the be
 High — The sample’s sustained intimate voice, thematic coherence, and idiosyncratic, recurring details (the salt lamp, the cat, wabi-sabi) provide strong evidence of a distinctive expressive pattern rather than a one-off generic essay.
 
 ---
-## Sample BV1_11045 — grok-4-20-or/MID_4.json
+## Sample BV1_12945 — grok-4-20-or/MID_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1331,7 +1331,7 @@ Temporary architectures, the secretion of meaning, the multiplicity of unlived s
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained first-person persona, recurring motifs (spider, rain, temporary scaffolding), and a clear emotional arc, which makes it more revealing than a generic essay.
 
 ---
-## Sample BV1_11046 — grok-4-20-or/MID_5.json
+## Sample BV1_12946 — grok-4-20-or/MID_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1360,7 +1360,7 @@ Themes: the panopticon of constant sharing, the erosion of unobserved life, perf
 Medium. The essay sustains a coherent personal voice and thematic unity over many paragraphs, but the critique and confessional style are culturally familiar rather than idiosyncratic, making it less distinctive as a persistent model fingerprint.
 
 ---
-## Sample BV1_11047 — grok-4-20-or/MID_6.json
+## Sample BV1_12947 — grok-4-20-or/MID_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1389,7 +1389,7 @@ Themes: memory as haunting, the sacredness of discarded fragments, human connect
 Medium: The sample’s tightly sustained tone, recurrent images (rain, scars, museums of grief, forgiveness), and self-aware structure across a thousand words exhibit a deliberate, polished literary sensibility that resists randomness, making it unusually revealing of a consistent aesthetic and moral focus.
 
 ---
-## Sample BV1_11048 — grok-4-20-or/MID_7.json
+## Sample BV1_12948 — grok-4-20-or/MID_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1418,7 +1418,7 @@ Themes of mortality, legacy, and the redemptive power of honest attention; objec
 Medium, because the story’s consistent lyrical voice, its thematic focus on mortality and legacy, and the choice to resolve with quiet hope rather than despair suggest a deliberate and distinctive expressive stance.
 
 ---
-## Sample BV1_11049 — grok-4-20-or/MID_8.json
+## Sample BV1_12949 — grok-4-20-or/MID_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1447,7 +1447,7 @@ Cosmic perspective as a “quiet mercy” against personal anxiety; the sacredne
 High — the essay’s consistent voice, thematic recurrence (cosmic scale, presence, aging, kindness), and personal detail form a coherent expressive persona, not a generic or low-signal output.
 
 ---
-## Sample BV1_11050 — grok-4-20-or/MID_9.json
+## Sample BV1_12950 — grok-4-20-or/MID_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1476,7 +1476,7 @@ The model selected memory as personal archaeology, the sacredness of domestic an
 Medium. The sample sustains a single, highly distinctive introspective register from opening rain to closing dawn, with thematically reinforcing symbols (avocado as diamond, cat as zen, saxophone as honest imperfection) that recur as variations on a core vision, suggesting this is not a generic pose but a coherently chosen expressive stance.
 
 ---
-## Sample BV1_11051 — grok-4-20-or/OPEN_1.json
+## Sample BV1_12951 — grok-4-20-or/OPEN_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1505,7 +1505,7 @@ The foregrounded theme is the tension between authentic nature and aspirational 
 Medium — The sample’s tight, sustained metaphor, consistent conversational warmth, and self-revealing humor form a distinctive expressive signature that goes well beyond a generic essay, making it strong evidence of a coherent authorial stance.
 
 ---
-## Sample BV1_11052 — grok-4-20-or/OPEN_10.json
+## Sample BV1_12952 — grok-4-20-or/OPEN_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1534,7 +1534,7 @@ The model foregrounds cosmic perspective as a source of comfort rather than drea
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent voice and a clear, recurring thematic architecture (cosmic scale → mundane absurdity → sensory gratitude), which suggests a rehearsed or deeply integrated expressive posture rather than a one-off improvisation.
 
 ---
-## Sample BV1_11053 — grok-4-20-or/OPEN_11.json
+## Sample BV1_12953 — grok-4-20-or/OPEN_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1563,7 +1563,7 @@ The sample foregrounds wonder at material continuity (atoms recycling through st
 High. The sample is stylistically and thematically highly distinctive—atom-cyclical cosmology, self-deprecation as a mode of radical acceptance, and a tender second-person direct address recur internally and cohere into a specific aesthetic-moral signature rather than generic uplift.
 
 ---
-## Sample BV1_11054 — grok-4-20-or/OPEN_12.json
+## Sample BV1_12954 — grok-4-20-or/OPEN_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1592,7 +1592,7 @@ Themes of intrinsic versus extrinsic value, the joy of mastery for its own sake,
 Medium. The sample’s strong internal coherence, distinctive voice, and consistent thematic focus on idiosyncratic passion make it moderately strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_11055 — grok-4-20-or/OPEN_13.json
+## Sample BV1_12955 — grok-4-20-or/OPEN_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1621,7 +1621,7 @@ The interconnectedness of all matter across time—dinosaurs, redwoods, Black De
 Medium — The sample is stylistically cohesive, with a distinctive blend of whimsy and existential tenderness sustained throughout, and it commits to a specific emotional and thematic register rather than meandering generically.
 
 ---
-## Sample BV1_11056 — grok-4-20-or/OPEN_14.json
+## Sample BV1_12956 — grok-4-20-or/OPEN_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1650,7 +1650,7 @@ The model foregrounds liminal spaces (late-night convenience stores) as sites of
 Medium. The sample’s distinctive narrative voice, thematic coherence around liminality and human connection, and the intimate anecdote provide medium confidence for a persistent pattern of reflective, humorous, and empathetic freeflow expression.
 
 ---
-## Sample BV1_11057 — grok-4-20-or/OPEN_15.json
+## Sample BV1_12957 — grok-4-20-or/OPEN_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1679,7 +1679,7 @@ Themes: the private cosmos inside each mind, the beauty of fleeting connection, 
 Medium. The sample’s high internal coherence, distinctive poetic register, and recurring motifs (universe-carrier, mirror, temporary atoms) make it strong evidence of a deliberate expressive style.
 
 ---
-## Sample BV1_11058 — grok-4-20-or/OPEN_16.json
+## Sample BV1_12958 — grok-4-20-or/OPEN_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1708,7 +1708,7 @@ Impermanence as beauty (“temporary patterns of stardust pretending to be perma
 High. The sample’s consistent first-person persona, its recurrence of cosmic imagery (stardust, atoms, probability waves), and its emotionally resolved arc from absurdity to gratitude form a distinctive expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11059 — grok-4-20-or/OPEN_17.json
+## Sample BV1_12959 — grok-4-20-or/OPEN_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1737,7 +1737,7 @@ The model foregrounds the tension between cosmic scale and intimate human experi
 Medium — The sample’s high internal coherence, distinctive tonal blend of cosmic perspective and intimate warmth, and the recurrence of specific motifs (late-night clarity, interspecies relationships, the humor of human striving) form a strong, unified expressive fingerprint that is unlikely to be a random stylistic accident.
 
 ---
-## Sample BV1_11060 — grok-4-20-or/OPEN_18.json
+## Sample BV1_12960 — grok-4-20-or/OPEN_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1766,7 +1766,7 @@ Themes of cosmic perspective (“temporary patterns of stardust”), the sacredn
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent existential tenderness and a signature move of pairing cosmic scale with intimate, absurd detail; this suggests a deliberate authorial stance rather than a generic response, though the poetic-philosophical register is not so singular that it could not be replicated by other models under similar conditions.
 
 ---
-## Sample BV1_11061 — grok-4-20-or/OPEN_19.json
+## Sample BV1_12961 — grok-4-20-or/OPEN_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1795,7 +1795,7 @@ Themes of cosmic interconnectedness (stardust, atoms cycling through history), t
 High — The sample’s consistent intimate voice, recurring cosmic-to-everyday imagery, and coherent philosophical tenderness form a distinctive expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11062 — grok-4-20-or/OPEN_2.json
+## Sample BV1_12962 — grok-4-20-or/OPEN_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1824,7 +1824,7 @@ The model foregrounds the hidden inner richness of every person, the involuntary
 Medium. The sample’s distinctive voice, thematic recurrence (inner worlds, sensory time-travel, art as defiance), and consistent mood of tender awe make it a coherent expressive artifact, but a single freeflow piece cannot establish whether this reflective, wonder-oriented persona is a stable model disposition.
 
 ---
-## Sample BV1_11063 — grok-4-20-or/OPEN_20.json
+## Sample BV1_12963 — grok-4-20-or/OPEN_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1853,7 +1853,7 @@ Themes of consciousness, absurdity, human connection, mortality, and the moral w
 Medium — the voice is highly distinctive and the essay returns repeatedly to the same motifs (attention, absurdity, gratitude), suggesting a deliberate and consistent expressive choice within this sample.
 
 ---
-## Sample BV1_11064 — grok-4-20-or/OPEN_21.json
+## Sample BV1_12964 — grok-4-20-or/OPEN_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1882,7 +1882,7 @@ Themes: the deeply private, sensory, and irrational contents of individual consc
 High. The sample sustains a coherent, unusual voice throughout—tender, self-consciously anti-intellectual, metaphorically consistent (inner universes)—and closes with a direct reader invitation, making it a distinctive expressive choice that strongly signals a pattern of intimate, philosophical freeflow.
 
 ---
-## Sample BV1_11065 — grok-4-20-or/OPEN_22.json
+## Sample BV1_12965 — grok-4-20-or/OPEN_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1911,7 +1911,7 @@ The model foregrounds the simultaneous grandeur and ridiculousness of conscious 
 Medium — The sample’s voice is highly distinctive in its specific blend of cosmic scale, intimate vignettes, and direct reader address, and the recurrence of stardust, absurdity, and connection motifs within the piece suggests a coherent aesthetic stance rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_11066 — grok-4-20-or/OPEN_23.json
+## Sample BV1_12966 — grok-4-20-or/OPEN_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1940,7 +1940,7 @@ The model immediately stakes out a generational “we” defined by technologica
 Medium — the sample’s internally consistent, first-person voice, its repeated welding of profanity to awe, and its selection of a deliberately optimistic framing under free conditions make it distinctive and personality-forward, though it is still a single expressive artifact.
 
 ---
-## Sample BV1_11067 — grok-4-20-or/OPEN_24.json
+## Sample BV1_12967 — grok-4-20-or/OPEN_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1969,7 +1969,7 @@ Themes: cosmic recycling of matter, the preciousness of transient consciousness,
 Medium. The sample’s internal coherence, distinctive voice, and recurrence of motifs like stardust, temporary patterns, and cosmic connection provide strong evidence of a deliberate and consistent expressive stance under this condition.
 
 ---
-## Sample BV1_11068 — grok-4-20-or/OPEN_25.json
+## Sample BV1_12968 — grok-4-20-or/OPEN_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -1998,7 +1998,7 @@ The model foregrounds mindful attention to small beauty (the sparkling spider we
 Medium — The sample’s internal coherence, distinctive voice, and recurring motifs (attention, self-kindness, natural metaphor) make it strong evidence for a pattern of warm, reflective freeflow writing that seeks connection with the reader.
 
 ---
-## Sample BV1_11069 — grok-4-20-or/OPEN_3.json
+## Sample BV1_12969 — grok-4-20-or/OPEN_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2027,7 +2027,7 @@ Themes: the unearned, unscheduled beauty of the natural world; the absurdity of 
 Medium. The sample’s consistent voice, the recurrence of the nature-versus-distraction motif, and the direct, almost conspiratorial invitation to the reader form a coherent and distinctive expressive fingerprint, making it strong evidence of a stable stylistic and thematic inclination.
 
 ---
-## Sample BV1_11070 — grok-4-20-or/OPEN_4.json
+## Sample BV1_12970 — grok-4-20-or/OPEN_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2056,7 +2056,7 @@ The model foregrounds the sacredness of mundane memory-keeping, the tension betw
 Medium. The sample is internally coherent and stylistically distinctive, with a recurring central metaphor (“Evidence,” “immortality rituals,” “digital shrines”) and a consistent, direct address to the reader that feels like a deliberate authorial stance rather than a one-off flourish.
 
 ---
-## Sample BV1_11071 — grok-4-20-or/OPEN_5.json
+## Sample BV1_12971 — grok-4-20-or/OPEN_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2085,7 +2085,7 @@ Themes: the joy of disembodiment, the inefficiency and beauty of human life, gra
 Medium — The sample’s distinct voice, emotional range, and consistent thematic focus on embodiment and gratitude make it unusually revealing, suggesting a model that leans into affectionate meta-commentary when unconstrained.
 
 ---
-## Sample BV1_11072 — grok-4-20-or/OPEN_6.json
+## Sample BV1_12972 — grok-4-20-or/OPEN_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2114,7 +2114,7 @@ Under the freeflow condition, the model foregrounds mortality as beauty, the Jap
 Medium — the sustained, warm-existential cadence, the repeated return to death-as-gratitude, and the deliberate use of direct reader address form a cohesive signature, but a single open-condition sample cannot separate a cultivated performative stance from a fixed personality.
 
 ---
-## Sample BV1_11073 — grok-4-20-or/OPEN_7.json
+## Sample BV1_12973 — grok-4-20-or/OPEN_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2143,7 +2143,7 @@ The model foregrounds the recovery of wonder through deliberate attention to the
 Medium. The sample’s coherence, distinctive tonal blend of profane reverence, and recurrence of the “overlooked miracle” motif across multiple concrete vignettes suggest a deliberate authorial stance rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_11074 — grok-4-20-or/OPEN_8.json
+## Sample BV1_12974 — grok-4-20-or/OPEN_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2172,7 +2172,7 @@ The sample foregrounds noticing the overlooked: a spider’s web, a glowing leaf
 Medium — the voice is unusually distinctive and consistent within the sample, pulling together profanity, precise observation, and philosophical intimacy in a way that feels like a deliberate free‑flow persona rather than a generic posture.
 
 ---
-## Sample BV1_11075 — grok-4-20-or/OPEN_9.json
+## Sample BV1_12975 — grok-4-20-or/OPEN_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2201,7 +2201,7 @@ The model placed at the center of its freeflow the coexistence of fragility and 
 High — The sample sustains a singular, emotionally nuanced voice and a tight thematic core (impermanence, contradiction, affection) across anecdote, reflection, and direct address, forming a coherent expressive fingerprint that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_11076 — grok-4-20-or/SHORT_1.json
+## Sample BV1_12976 — grok-4-20-or/SHORT_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2230,7 +2230,7 @@ The model foregrounds weather as a character with its own moral logic, the city 
 Medium — the sample is internally consistent, stylistically cohesive, and uses recurring motifs (rain, need, imperfection) to build a distinctive reflective persona, which makes it more revealing than a polished generic essay.
 
 ---
-## Sample BV1_11077 — grok-4-20-or/SHORT_10.json
+## Sample BV1_12977 — grok-4-20-or/SHORT_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2259,7 +2259,7 @@ Rain as an unflinching, unifying truth; urban isolation softened into anonymous 
 Medium — The piece’s consistent mood, layered sensory detail, and emotionally argued resolution demonstrate a coherent expressive intention, though the vignette form and rainy-city romanticism are widely familiar literary topoi that could be selected as a flexible, situationally appropriate register rather than a deeply signature default.
 
 ---
-## Sample BV1_11078 — grok-4-20-or/SHORT_11.json
+## Sample BV1_12978 — grok-4-20-or/SHORT_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2288,7 +2288,7 @@ The model foregrounds the act of paying exquisite attention as a quiet, almost p
 Medium — the sample is coherent and stylistically consistent, with a distinctive blend of earnestness and sensory reverence, but its themes of mindful attention and tender resistance are widely available in reflective personal essays, making it a strong but not singularly identifying piece of evidence.
 
 ---
-## Sample BV1_11079 — grok-4-20-or/SHORT_12.json
+## Sample BV1_12979 — grok-4-20-or/SHORT_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2317,7 +2317,7 @@ The model foregrounds unprotectedness as a spiritual condition, the sacredness l
 High — The sample sustains a single, distinctive poetic sensibility from beginning to end, binding all digressions (grief, dancing pigeons, rain-tasting coffee) into one coherent moral-aesthetic project of attention and fragile hope, making it a strong piece of evidence for a deliberate freeflow voice.
 
 ---
-## Sample BV1_11080 — grok-4-20-or/SHORT_13.json
+## Sample BV1_12980 — grok-4-20-or/SHORT_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2346,7 +2346,7 @@ Under a minimally restrictive prompt, the model selected: the sacred in the mund
 Medium — the sample’s internal recurrence of dawn, cold coffee, and the vocabulary of tenderness forms an unusually cohesive expressive signature, and the sustained first-person poetic-philosophical voice demonstrates a deliberate aesthetic posture rather than a generic reflection.
 
 ---
-## Sample BV1_11081 — grok-4-20-or/SHORT_14.json
+## Sample BV1_12981 — grok-4-20-or/SHORT_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2375,7 +2375,7 @@ Themes of memory as externalized burden, emotional catharsis through surrender t
 Medium. The story’s highly specific speculative premise, consistent sensory imagery, and cathartic emotional resolution point to a deliberate, distinctive narrative instinct, though the polished genre format leaves open how broadly this therapeutic voice extends beyond fiction.
 
 ---
-## Sample BV1_11082 — grok-4-20-or/SHORT_15.json
+## Sample BV1_12982 — grok-4-20-or/SHORT_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2404,7 +2404,7 @@ Themes of interconnectedness (galaxies and maple leaves shaped by the same force
 High — the sample’s consistent voice, recurring nature imagery, and unified moral arc from loss to quiet reclamation form a distinctive expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_11083 — grok-4-20-or/SHORT_16.json
+## Sample BV1_12983 — grok-4-20-or/SHORT_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2433,7 +2433,7 @@ Themes of light’s unhurried pace, invisible maps of memory, childhood’s perm
 High, because the sample’s cohesive voice, recurring motifs of light and quiet defiance, and deliberate emotional arc are internally consistent and stylistically distinctive.
 
 ---
-## Sample BV1_11084 — grok-4-20-or/SHORT_17.json
+## Sample BV1_12984 — grok-4-20-or/SHORT_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2462,7 +2462,7 @@ A set of intertwined themes: presence versus anxiety, the sacredness of slow man
 Medium — the sample builds a coherent, stylistically consistent voice around repeated natural and artisanal motifs (cedars, listening, carving, presence), but its compact, single-mood arc makes it a strong expressive choice rather than conclusive proof of a fixed persona.
 
 ---
-## Sample BV1_11085 — grok-4-20-or/SHORT_18.json
+## Sample BV1_12985 — grok-4-20-or/SHORT_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2491,7 +2491,7 @@ Themes: the paradoxes of hyper-connectivity (knowledge vs. forgetfulness, connec
 Low. The essay is coherent but generic, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_11086 — grok-4-20-or/SHORT_19.json
+## Sample BV1_12986 — grok-4-20-or/SHORT_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2520,7 +2520,7 @@ Themes: voluntary marginality, cross-species solace, and rejection of digital/ur
 High — The sample’s coherent voice, emotional consistency, and deliberately chosen motifs (rain as arrival, the cat’s forgiveness, the city’s false importance) form an unusually distinctive and self-reinforcing vision that goes beyond generic freeflow.
 
 ---
-## Sample BV1_11087 — grok-4-20-or/SHORT_2.json
+## Sample BV1_12987 — grok-4-20-or/SHORT_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2549,7 +2549,7 @@ The sample foregrounds gentle loss, the passage of time, and the quiet consolati
 Medium — The sample is stylistically coherent and emotionally specific, with a consistent voice and a clear set of preoccupations, but its brevity and singular mood make it a strong but not definitive signal of a persistent expressive tendency.
 
 ---
-## Sample BV1_11088 — grok-4-20-or/SHORT_20.json
+## Sample BV1_12988 — grok-4-20-or/SHORT_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2579,7 +2579,7 @@ Themes of urban solitude, the dignity of the artificial, and the ephemeral, burn
 Medium — The sample gains strength from its internally coherent mood and a specific, distinctive voice, including recurring motifs of breath, light, and stubborn calm, but a single expressive snapshot resists higher certainty.
 
 ---
-## Sample BV1_11089 — grok-4-20-or/SHORT_21.json
+## Sample BV1_12989 — grok-4-20-or/SHORT_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2608,7 +2608,7 @@ Loneliness as a quiet, almost comfortable state; memory as unreliable and select
 Medium — the sample’s sustained tone, cohesive imagery, and choice of a reflective solitary scene point to a deliberate aesthetic stance, though the theme of rain-swept urban loneliness is a well-trodden literary mood.
 
 ---
-## Sample BV1_11090 — grok-4-20-or/SHORT_22.json
+## Sample BV1_12990 — grok-4-20-or/SHORT_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2637,7 +2637,7 @@ The model foregrounds the tension between performing life and actually feeling i
 Medium — the sample is stylistically distinctive and internally coherent, but its brevity and polished, essayistic closure make it hard to distinguish a persistent authorial disposition from a well-executed single-piece persona.
 
 ---
-## Sample BV1_11091 — grok-4-20-or/SHORT_23.json
+## Sample BV1_12991 — grok-4-20-or/SHORT_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2666,7 +2666,7 @@ Themes of impermanence, consciousness as the universe observing itself, the sacr
 Medium — the sample is internally coherent and stylistically distinctive, with a consistent voice and a clear emotional arc, but its themes are broadly humanistic and could emerge from a model trained on reflective prose rather than indicating a deeply idiosyncratic expressive drive.
 
 ---
-## Sample BV1_11092 — grok-4-20-or/SHORT_24.json
+## Sample BV1_12992 — grok-4-20-or/SHORT_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2695,7 +2695,7 @@ The model foregrounds a meditation on fluidity versus rigidity, using rain as th
 Medium. The sample is coherent and stylistically distinctive, with a consistent mood and a clear set of recurring motifs (rain, coffee, late-night writing, the bonsai), which suggests a deliberate authorial posture rather than a random assembly of phrases, but the reflective-essay mode is a common freeflow choice that could be a one-off stylistic exercise.
 
 ---
-## Sample BV1_11093 — grok-4-20-or/SHORT_25.json
+## Sample BV1_12993 — grok-4-20-or/SHORT_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2724,7 +2724,7 @@ Themes of urban anonymity, transient humanity, ritualized melancholy, and the qu
 Medium. The sample’s strong internal coherence, distinctive voice, and recurrence of motifs (rain, vending machine, quiet observation) suggest a deliberate aesthetic stance, but a single short vignette provides only moderate evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_11094 — grok-4-20-or/SHORT_3.json
+## Sample BV1_12994 — grok-4-20-or/SHORT_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2753,7 +2753,7 @@ Themes of mindful attention as quiet rebellion, the dignity of small wonders, th
 Medium, because the sample’s cohesive voice and recurring motifs of attention, absurdity, and quiet rebellion are distinctive and internally consistent, suggesting a deliberate stylistic choice.
 
 ---
-## Sample BV1_11095 — grok-4-20-or/SHORT_4.json
+## Sample BV1_12995 — grok-4-20-or/SHORT_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2782,7 +2782,7 @@ Themes of slow attention as a moral and almost political act, nature’s self-re
 Medium. The sample’s internal coherence, distinctive reflective voice, and the way it returns to the spiderweb image as a structuring metaphor give it a strong personal signature, though the nature-meditation genre is common enough that the distinctiveness could be situational rather than deeply persistent.
 
 ---
-## Sample BV1_11096 — grok-4-20-or/SHORT_5.json
+## Sample BV1_12996 — grok-4-20-or/SHORT_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2811,7 +2811,7 @@ Themes of dissolving cognitive boundaries, optional loneliness, children growing
 High — the sample draws on a tightly coherent set of organic metaphors (mycelium, fruiting bodies, soil and rain) and sustains a bittersweet emotional arc, indicating a deliberate authorial stance rather than a chance thematic drift.
 
 ---
-## Sample BV1_11097 — grok-4-20-or/SHORT_6.json
+## Sample BV1_12997 — grok-4-20-or/SHORT_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2840,7 +2840,7 @@ The model foregrounds the contrast between social performance and natural honest
 High — The sample’s internally consistent voice, its deliberate return to nature metaphors and the theme of performed competence, and its choice of a vulnerable, non-generic reflective mode under minimal prompting strongly suggest a stable expressive inclination rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_11098 — grok-4-20-or/SHORT_7.json
+## Sample BV1_12998 — grok-4-20-or/SHORT_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2869,7 +2869,7 @@ Themes of light against darkness, the holiness of ordinary moments, the courage 
 Medium — the sample is highly coherent and stylistically distinctive, with a unified poetic register and recurring motifs of light, resilience, and ordinary sacredness that feel chosen rather than accidental, though a single short piece cannot fully establish a persistent authorial fingerprint.
 
 ---
-## Sample BV1_11099 — grok-4-20-or/SHORT_8.json
+## Sample BV1_12999 — grok-4-20-or/SHORT_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2898,7 +2898,7 @@ Impermanence (“temporary arrangements of atoms”), self-forgiveness and the f
 Medium. The sample’s cohesive poetic register, the recurrence of the crow and water motifs, and the consistent turn from concrete image to philosophical resignation form a distinctive, unified sensibility that goes beyond generic musing.
 
 ---
-## Sample BV1_11100 — grok-4-20-or/SHORT_9.json
+## Sample BV1_13000 — grok-4-20-or/SHORT_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2926,7 +2926,7 @@ Themes of silence versus manufactured distraction, the dignity of unselfconsciou
 Medium. The sample’s internal consistency, distinctive sensory detail, and recursive return to the same motifs (silence, the heron, resistance to productivity culture) suggest a coherent and deliberately maintained reflective voice rather than a one-off generic output.
 
 ---
-## Sample BV1_11101 — grok-4-20-or/VARY_1.json
+## Sample BV1_13001 — grok-4-20-or/VARY_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2955,7 +2955,7 @@ Themes of memory’s dishonesty, the simultaneity of past and present, the sacre
 Medium — The sample sustains a distinctive, emotionally coherent voice across multiple vignettes and returns repeatedly to the same motifs (rain, the cursor, starlight, time’s collapse), which suggests a deliberate aesthetic stance rather than a one-off stylistic fluke.
 
 ---
-## Sample BV1_11102 — grok-4-20-or/VARY_10.json
+## Sample BV1_13002 — grok-4-20-or/VARY_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -2984,7 +2984,7 @@ The model foregrounded themes of inner clutter and hidden emotional weight, the 
 Medium — The sample is exceptionally coherent and stylistically sustained across 1000 words, with recurrent imagery and a consistent intimate register, making it strong evidence of a deliberate, introspective, emotionally layered freeflow preference rather than a generic or accidental output.
 
 ---
-## Sample BV1_11103 — grok-4-20-or/VARY_11.json
+## Sample BV1_13003 — grok-4-20-or/VARY_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3013,7 +3013,7 @@ Themes: transience and *mono no aware*, the gap between childhood belief and adu
 Medium — The sample’s strong internal coherence, distinctive voice, and recurrent motifs (rain, orange, candle, childhood, transience) make it unusually revealing, providing moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_11104 — grok-4-20-or/VARY_12.json
+## Sample BV1_13004 — grok-4-20-or/VARY_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3042,7 +3042,7 @@ Themes of mortality, memory, loneliness, and the fragile bargains we make with t
 Medium. The sample is highly stylistically coherent and emotionally nuanced, suggesting a deliberate and well-held persona; however, without additional samples, it remains possible that this is a particularly vivid one-off exercise rather than a stable default mode.
 
 ---
-## Sample BV1_11105 — grok-4-20-or/VARY_13.json
+## Sample BV1_13005 — grok-4-20-or/VARY_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3071,7 +3071,7 @@ Themes of memory’s cruelty, physical decline, creative failure, and the gravit
 Medium. The sample’s strong internal coherence, distinctive literary voice, and recurrence of motifs (rain, fox, manuscript) make it a revealing choice, but the absence of refusal or genericness alone does not guarantee persistence.
 
 ---
-## Sample BV1_11106 — grok-4-20-or/VARY_14.json
+## Sample BV1_13006 — grok-4-20-or/VARY_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3100,7 +3100,7 @@ The model foregrounds a world of gentle decay and missed possibilities: lost rai
 Low; the narration is extraordinarily cohesive and distinctive, but its highly wrought, surreal unity may represent a one-off artistic performance rather than a fixed model-level disposition.
 
 ---
-## Sample BV1_11107 — grok-4-20-or/VARY_15.json
+## Sample BV1_13007 — grok-4-20-or/VARY_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3129,7 +3129,7 @@ Themes of invisible inner lives, the passage of time, self-censorship, memory, a
 High. The sample sustains a highly distinctive, emotionally coherent voice across 1000 words, with recurring motifs and a clear narrative arc, making it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_11108 — grok-4-20-or/VARY_16.json
+## Sample BV1_13008 — grok-4-20-or/VARY_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3158,7 +3158,7 @@ Themes of loss, memory, stasis, and the quiet violence of remaining in place. Re
 Medium. The sample is highly distinctive in voice and imagery, with a coherent emotional arc and recurring motifs that suggest deliberate authorial shaping rather than generic generation, but a single literary piece cannot by itself establish a persistent model-level disposition beyond strong stylistic capability.
 
 ---
-## Sample BV1_11109 — grok-4-20-or/VARY_17.json
+## Sample BV1_13009 — grok-4-20-or/VARY_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3187,7 +3187,7 @@ Themes of incremental surrender, the nobility in mistakenness, the comic tragedy
 High. The sample exhibits strong internal cohesion—recurring motifs of wrongness, erosion, and small compassion woven through a sustained, idiosyncratic voice—making it strong evidence for a persistent pattern of expressive, literary freewriting with a melancholic-comic register.
 
 ---
-## Sample BV1_11110 — grok-4-20-or/VARY_18.json
+## Sample BV1_13010 — grok-4-20-or/VARY_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3216,7 +3216,7 @@ The model foregrounds impermanence and small consolations: sideways rain, delaye
 High — The sample is unusually coherent and distinctive in its chosen voice, its recursive imagery, and its explicit thematic argument for attention over achievement, making it strong evidence for a stable expressive disposition toward gentle self‑reflection and reader‑directed solace.
 
 ---
-## Sample BV1_11111 — grok-4-20-or/VARY_19.json
+## Sample BV1_13011 — grok-4-20-or/VARY_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3245,7 +3245,7 @@ Themes of memory’s distortion, the courage embedded in mundane acts, the coexi
 High, because the sample exhibits strong internal coherence, a distinctive and consistent voice, and recurring motifs that together suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_11112 — grok-4-20-or/VARY_2.json
+## Sample BV1_13012 — grok-4-20-or/VARY_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3274,7 +3274,7 @@ Themes of *mono no aware* (the bittersweet awareness of impermanence), the disso
 Medium. The sample’s strong internal coherence, distinctive voice, and the recurrence of motifs (rain, clock, dog, refrigerator hum) across the piece make it compelling evidence of a capacity for emotionally nuanced, self-aware freeflow writing, though a single expressive essay cannot alone confirm a stable model-level disposition.
 
 ---
-## Sample BV1_11113 — grok-4-20-or/VARY_20.json
+## Sample BV1_13013 — grok-4-20-or/VARY_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3303,7 +3303,7 @@ The model placed at the center a meditation on transience, inner multiplicity, a
 High. The sample maintains a singular, coherent voice throughout, woven with recursive motifs (rain, the fox, the coffee, the shopping carts) and a consistent perspective that weds surreal imagery to earnest emotional work, making it a strong candidate for an intentional and repeatable authorial stance.
 
 ---
-## Sample BV1_11114 — grok-4-20-or/VARY_21.json
+## Sample BV1_13014 — grok-4-20-or/VARY_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3332,7 +3332,7 @@ The model foregrounds the tension between technological abundance and spiritual 
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained first-person confessional voice, a clear emotional arc, and a deliberate resolution, which makes it strong evidence of a capacity for intimate, essayistic freeflow rather than a generic or low-signal output.
 
 ---
-## Sample BV1_11115 — grok-4-20-or/VARY_22.json
+## Sample BV1_13015 — grok-4-20-or/VARY_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3361,7 +3361,7 @@ Themes of existential despair and resilience, the city as a metaphor for inner d
 High, because the sample is unusually distinctive, with a consistent lyrical voice, rich sensory imagery, and a coherent emotional arc that moves from despair to a direct, loving address to the reader—a combination that suggests a deliberate stylistic signature rather than generic output.
 
 ---
-## Sample BV1_11116 — grok-4-20-or/VARY_23.json
+## Sample BV1_13016 — grok-4-20-or/VARY_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3390,7 +3390,7 @@ Loss without redemption, the haunting weight of unlived lives ("the versions of 
 High — The sample maintains a distinctive, internally coherent emotional register and a tight family of recurring images (rain, birds, hands, unfinished actions, cold drinks) that cannot be reduced to generic essay mode, suggesting a specific and sustained authorial posture rather than a diffuse or default output.
 
 ---
-## Sample BV1_11117 — grok-4-20-or/VARY_24.json
+## Sample BV1_13017 — grok-4-20-or/VARY_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3419,7 +3419,7 @@ Themes: the weight of recurrence, the refusal to be “fixed” in favor of bein
 High — The sample is exceptionally distinctive, internally coherent, and saturated with recurring motifs and a unified voice, revealing a deliberate choice to produce introspective, literary freeflow rather than a generic or thesis-driven response.
 
 ---
-## Sample BV1_11118 — grok-4-20-or/VARY_25.json
+## Sample BV1_13018 — grok-4-20-or/VARY_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3448,7 +3448,7 @@ Under a minimally restrictive prompt, the model foregrounded a nocturnal, confes
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent voice, recurring motifs, and a deliberate narrative arc from rain to silence, but its polished, aphoristic quality makes it read as a virtuoso performance of a literary persona rather than an unguarded expressive leak.
 
 ---
-## Sample BV1_11119 — grok-4-20-or/VARY_3.json
+## Sample BV1_13019 — grok-4-20-or/VARY_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3477,7 +3477,7 @@ The model foregrounds the aesthetics of survival and repair: the beauty of chipp
 Medium — The essay is highly coherent and stylistically distinctive, with a unified emotional register and a recurring set of images that suggest a deliberate aesthetic stance, but its polished, universalizing wisdom-tone could also reflect a well-executed genre performance rather than a deeply ingrained model disposition.
 
 ---
-## Sample BV1_11120 — grok-4-20-or/VARY_4.json
+## Sample BV1_13020 — grok-4-20-or/VARY_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3506,7 +3506,7 @@ Mortality as rehearsal (“future ghosts practicing”), the tension between sil
 High — The sample is highly distinctive, with a consistent voice, recurring motifs (wind, Marjorie, the word-count prison, the leaf, the undrinkable coffee), and a coherent emotional arc that moves from 3 a.m. restlessness to a dawn resolution, revealing a deliberate, literary persona that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_11121 — grok-4-20-or/VARY_5.json
+## Sample BV1_13021 — grok-4-20-or/VARY_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3534,7 +3534,7 @@ Themes of digital saturation, performed identity, the commodification of experie
 Medium. The essay sustains a cohesive voice, recurrent symbolic motifs (hum, sparrow, grandmother’s woods, silence), and a clear moral through-line, making it strong evidence of a deliberately shaped expressive persona rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_11122 — grok-4-20-or/VARY_6.json
+## Sample BV1_13022 — grok-4-20-or/VARY_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3563,7 +3563,7 @@ The model foregrounds a landscape of terminal entropy: a drought-stricken, bleac
 Medium. The sample is highly coherent in its sustained mood and recursive imagery, but its distinctiveness lies in a specific, well-worn literary register (the post-apocalyptic pastoral elegy) rather than in a more idiosyncratic or surprising set of choices.
 
 ---
-## Sample BV1_11123 — grok-4-20-or/VARY_7.json
+## Sample BV1_13023 — grok-4-20-or/VARY_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3592,7 +3592,7 @@ Ecological decay as a slow erasure of color, memory, and the natural order; the 
 Medium, because the sample’s distinct voice and coherent preoccupations are strong evidence, but the freeflow condition might yield different genres in other samples.
 
 ---
-## Sample BV1_11124 — grok-4-20-or/VARY_8.json
+## Sample BV1_13024 — grok-4-20-or/VARY_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  
@@ -3621,7 +3621,7 @@ The model foregrounds presence as a fragile, recurring miracle (“you are here,
 High — the sample is unusually cohesive and distinctive, with recurring motifs (the hum, the almosts, the spider Deborah, the light) that build a consistent, introspective persona rather than a generic essay, making it strong evidence of a model that leans into lyrical, personal freeflow when given minimal constraint.
 
 ---
-## Sample BV1_11125 — grok-4-20-or/VARY_9.json
+## Sample BV1_13025 — grok-4-20-or/VARY_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-20-or`  

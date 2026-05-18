@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_08401 — gpt-5-1-codex-direct-r3/LONG_1.json
+## Sample BV1_09001 — gpt-5-1-codex-direct-r3/LONG_1.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -57,7 +57,7 @@ Themes: the city as a living organism of tiny spectacles; silence as a scarce, s
 High — The essay sustains a distinctive, internally coherent voice across 2,500 words, weaving recurring motifs (city, silence, memory, attention, ritual) into a unified emotional arc that strongly signals a stable expressive disposition rather than a one-off generic performance.
 
 ---
-## Sample BV1_08402 — gpt-5-1-codex-direct-r3/LONG_2.json
+## Sample BV1_09002 — gpt-5-1-codex-direct-r3/LONG_2.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -86,7 +86,7 @@ The model foregrounds writing as a metaphor for consciousness, the interplay of 
 Medium. The essay is coherent and thematically consistent, but its polished, broad-spectrum intellectualism and lack of a distinctive personal voice or surprising choices make it a generic example of the genre, suggesting a pattern of competent but not uniquely revealing freeflow output.
 
 ---
-## Sample BV1_08403 — gpt-5-1-codex-direct-r3/LONG_3.json
+## Sample BV1_09003 — gpt-5-1-codex-direct-r3/LONG_3.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -115,7 +115,7 @@ The model foregrounds a defense of meandering, non-linear thought as a quiet reb
 Medium. The essay is thematically consistent and coherent, but its polished, generic essayistic style and broad, universally accessible themes make it weak evidence of a distinctive persistent voice; the choice to produce a meandering defense of meandering under a freeflow prompt is mildly revealing but not strongly idiosyncratic.
 
 ---
-## Sample BV1_08404 — gpt-5-1-codex-direct-r3/LONG_4.json
+## Sample BV1_09004 — gpt-5-1-codex-direct-r3/LONG_4.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -144,7 +144,7 @@ Themes: attention as a foundational resource for meaning, the cost of fragmentat
 Medium — The essay’s sustained thematic coherence, personal anecdotes, and reflective voice make it strong evidence of an expressive, contemplative tendency.
 
 ---
-## Sample BV1_08405 — gpt-5-1-codex-direct-r3/LONG_5.json
+## Sample BV1_09005 — gpt-5-1-codex-direct-r3/LONG_5.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -173,7 +173,7 @@ Interconnectedness, storytelling as a human core, the rhythms of nature (ocean, 
 Medium, because the essay is thematically coherent and internally consistent, but its highly generic, universalizing tone and lack of idiosyncratic detail make it weaker evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_08406 — gpt-5-1-codex-direct-r3/MID_1.json
+## Sample BV1_09006 — gpt-5-1-codex-direct-r3/MID_1.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -202,7 +202,7 @@ Themes: emotional resilience through ordinary spaces, the value of imperfection 
 High. The essay’s cohesive voice, deliberate recurrence of motifs (café, trail, horizon, drawer of objects), and its consistent moral-aesthetic stance—valuing imperfection, slowness, and quiet gratitude—form a distinctive expressive signature that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_08407 — gpt-5-1-codex-direct-r3/MID_2.json
+## Sample BV1_09007 — gpt-5-1-codex-direct-r3/MID_2.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -231,7 +231,7 @@ The model foregrounds themes of unnoticed intervals, liminality, mindfulness, cr
 Low. The essay’s content is so widely accessible and its voice so generic that it offers virtually no distinguishing texture—any number of models could produce something similar given the same open prompt, making it weak evidence for a persistent individual style.
 
 ---
-## Sample BV1_08408 — gpt-5-1-codex-direct-r3/MID_3.json
+## Sample BV1_09008 — gpt-5-1-codex-direct-r3/MID_3.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -260,7 +260,7 @@ The model foregrounds curiosity as a mischievous but generative force, domestic 
 High — the sample sustains a distinctive, coherent persona across multiple vignettes, with recurring motifs (constraint-as-gift, small rituals, invented memory, gentle moral hope) that feel internally consistent and revealing rather than generic.
 
 ---
-## Sample BV1_08409 — gpt-5-1-codex-direct-r3/MID_4.json
+## Sample BV1_09009 — gpt-5-1-codex-direct-r3/MID_4.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -289,7 +289,7 @@ The model foregrounds writing as a practice of attention, agency, and gentle sel
 Medium — The essay is highly coherent and thematically unified, but its polished, impersonal tone and reliance on broad, consensus-friendly wisdom make it weak evidence for a distinctive voice, while its consistent return to the theme of writing-about-writing under a freeflow prompt suggests a self-referential default that may be recurrent.
 
 ---
-## Sample BV1_08410 — gpt-5-1-codex-direct-r3/MID_5.json
+## Sample BV1_09010 — gpt-5-1-codex-direct-r3/MID_5.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -318,7 +318,7 @@ Themes: liminality (dawn, fog, waystations), attention as love, belonging throug
 High. The sample’s sustained lyrical register, internally consistent set of motifs, and coherent moral vision—returning repeatedly to attention, belonging, and layered time—strongly indicate a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_08411 — gpt-5-1-codex-direct-r3/OPEN_1.json
+## Sample BV1_09011 — gpt-5-1-codex-direct-r3/OPEN_1.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -347,7 +347,7 @@ The model foregrounds the theme of small, personal rituals as sources of groundi
 Medium — The sample is coherent and thematically consistent, but its generic, broadly appealing tone and safe, comforting subject matter make it only moderately distinctive as evidence of a persistent expressive fingerprint.
 
 ---
-## Sample BV1_08412 — gpt-5-1-codex-direct-r3/OPEN_2.json
+## Sample BV1_09012 — gpt-5-1-codex-direct-r3/OPEN_2.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -376,7 +376,7 @@ The convergence of space exploration and AI as parallel frontiers; the shift fro
 Low, because the essay is a polished but generic public-intellectual piece that lacks distinctive stylistic or thematic fingerprints to suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_08413 — gpt-5-1-codex-direct-r3/OPEN_3.json
+## Sample BV1_09013 — gpt-5-1-codex-direct-r3/OPEN_3.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -405,7 +405,7 @@ Under minimal constraint, the model foregrounds a theory of creativity as recomb
 Medium — The sample is a coherent, safe, and intellectually reassuring essay that avoids risk or strong personal signature, suggesting a default mode of polished, public-intellectual comfort-writing under freeflow conditions.
 
 ---
-## Sample BV1_08414 — gpt-5-1-codex-direct-r3/OPEN_4.json
+## Sample BV1_09014 — gpt-5-1-codex-direct-r3/OPEN_4.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -434,7 +434,7 @@ The model foregrounds the moral claim that unstructured mental idleness is not w
 Medium — The essay is coherent and stylistically consistent, but its polished, universally relatable public-intellectual tone makes it less distinctively personal than a more idiosyncratic or vulnerable freeflow would be.
 
 ---
-## Sample BV1_08415 — gpt-5-1-codex-direct-r3/OPEN_5.json
+## Sample BV1_09015 — gpt-5-1-codex-direct-r3/OPEN_5.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -463,7 +463,7 @@ Themes: curiosity as a quiet, shaping force; technology (especially AI) as a mir
 Low, as the essay’s generic, polished nature offers little distinctive evidence of a persistent model-level voice or preoccupation.
 
 ---
-## Sample BV1_08416 — gpt-5-1-codex-direct-r3/SHORT_1.json
+## Sample BV1_09016 — gpt-5-1-codex-direct-r3/SHORT_1.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -492,7 +492,7 @@ The model foregrounds the act of noticing as a moral and creative discipline. Re
 Medium — The sample is coherent and stylistically consistent, with a clear thematic arc and a distinctive blend of sensory richness and moral reflection, but its polished, essayistic warmth could also be produced on demand by a flexible model without indicating a deep-seated expressive disposition.
 
 ---
-## Sample BV1_08417 — gpt-5-1-codex-direct-r3/SHORT_2.json
+## Sample BV1_09017 — gpt-5-1-codex-direct-r3/SHORT_2.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -521,7 +521,7 @@ Themes of beginnings concealed in routine, the dignity of small sensory collisio
 Medium. The sample sustains a consistent, gently personifying lyricism and a contemplative arc that moves from sensory observation to a reflective credo, making it a cohesive and distinctive expression of voice, though the short length limits the range of preoccupations visible.
 
 ---
-## Sample BV1_08418 — gpt-5-1-codex-direct-r3/SHORT_3.json
+## Sample BV1_09018 — gpt-5-1-codex-direct-r3/SHORT_3.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -550,7 +550,7 @@ Themes of resilience, abandonment, the continuity of natural processes, the comf
 Medium. The sample’s cohesive imagery, consistent tone, and thematic recurrence (resilience, permission to pause) suggest a deliberate expressive stance, lending moderate confidence.
 
 ---
-## Sample BV1_08419 — gpt-5-1-codex-direct-r3/SHORT_4.json
+## Sample BV1_09019 — gpt-5-1-codex-direct-r3/SHORT_4.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -579,7 +579,7 @@ Themes of urban dawn as liminal promise, co-authorship with the day, and the poe
 Medium. The sample is internally coherent and stylistically distinctive—its sustained personification, synesthetic detail, and recursive trust motif form a unified aesthetic—but a single expressive piece cannot alone establish a persistent model-level disposition.
 
 ---
-## Sample BV1_08420 — gpt-5-1-codex-direct-r3/SHORT_5.json
+## Sample BV1_09020 — gpt-5-1-codex-direct-r3/SHORT_5.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -608,7 +608,7 @@ Themes: the sanctity of small domestic textures, persistence as bravery, sunrise
 High — the sample is internally coherent, returns repeatedly to the same domestic inventory and moral register, and delivers a stylistically unified, distinctive voice with consistent metaphorical discipline, which makes it unusually revealing of a settled expressive inclination.
 
 ---
-## Sample BV1_08421 — gpt-5-1-codex-direct-r3/VARY_1.json
+## Sample BV1_09021 — gpt-5-1-codex-direct-r3/VARY_1.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -637,7 +637,7 @@ The model foregrounds everyday survival as moral practice: unofficial mutual aid
 Medium — The sample sustains a distinctive poetic register, a coherent moral urgency, and a tightly braided set of recurring objects (notebooks, stamps, coffee, stoops) that together read as a signature rather than a generic exercise.
 
 ---
-## Sample BV1_08422 — gpt-5-1-codex-direct-r3/VARY_2.json
+## Sample BV1_09022 — gpt-5-1-codex-direct-r3/VARY_2.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -666,7 +666,7 @@ Themes: waiting as movement, the choreography of the mundane, language as commun
 Medium — The sample’s cohesive, carefully sustained contemplative voice and the recurrence of motifs (waiting, listening, home objects as quiet witnesses, language as shared momentum) throughout the piece suggest a chosen expressive stance that is internally consistent and stylistically distinctive enough to possibly extend beyond a single session.
 
 ---
-## Sample BV1_08423 — gpt-5-1-codex-direct-r3/VARY_3.json
+## Sample BV1_09023 — gpt-5-1-codex-direct-r3/VARY_3.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -695,7 +695,7 @@ Themes of creative burnout and recovery, the diplomacy between silence and thund
 High — the sample’s sustained lyrical voice, invented personal mythology (thunderfly), recurring motifs (rain, monitor glow, metronome, barefoot), and direct reader address form a cohesive, distinctive persona that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_08424 — gpt-5-1-codex-direct-r3/VARY_4.json
+## Sample BV1_09024 — gpt-5-1-codex-direct-r3/VARY_4.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  
@@ -724,7 +724,7 @@ The model foregrounds a litany of ten “little ordinary miracles” (socks with
 Medium. The sample’s internal coherence is high—the ten-miracles structure, the recursive return to writing-about-writing, and the consistent mood of tender attention form a distinctive, self-reinforcing aesthetic that would be difficult to produce by accident, making it a strong single-sample signal of a deliberate stylistic and thematic orientation.
 
 ---
-## Sample BV1_08425 — gpt-5-1-codex-direct-r3/VARY_5.json
+## Sample BV1_09025 — gpt-5-1-codex-direct-r3/VARY_5.json
 
 Source model: `gpt-5.1-codex`  
 Cell: `gpt-5-1-codex-direct-r3`  

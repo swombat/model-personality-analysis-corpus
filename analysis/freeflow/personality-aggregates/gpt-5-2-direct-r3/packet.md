@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_09001 — gpt-5-2-direct-r3/LONG_1.json
+## Sample BV1_09901 — gpt-5-2-direct-r3/LONG_1.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -57,7 +57,7 @@ The model foregrounds the management of invisible things—attention, context, m
 High — The sample’s length, thematic coherence, distinctive voice, and recurrence of motifs (invisible things, attention, practice, return) provide strong evidence of a stable expressive disposition toward reflective, humanistic essay-writing under freeflow conditions.
 
 ---
-## Sample BV1_09002 — gpt-5-2-direct-r3/LONG_2.json
+## Sample BV1_09902 — gpt-5-2-direct-r3/LONG_2.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -86,7 +86,7 @@ The model foregrounds attention as a finite but renewable resource that shapes r
 High. The essay’s length, sustained metaphorical coherence, and consistent preoccupation with attention, depth, and presence across multiple dimensions (personal, relational, political) reveal a stable, deliberate expressive persona rather than a generic or one-off performance.
 
 ---
-## Sample BV1_09003 — gpt-5-2-direct-r3/LONG_3.json
+## Sample BV1_09903 — gpt-5-2-direct-r3/LONG_3.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -115,7 +115,7 @@ Themes of silence, pause, and the “in-between states” that hold the world to
 Medium. The essay’s coherent voice and the recurrence of motifs (pencil, maps, silence, bridges) suggest a stable set of preoccupations, but the style is a polished, public-intellectual mode that lacks the idiosyncratic edge needed to strongly distinguish this model from others capable of similar reflective prose.
 
 ---
-## Sample BV1_09004 — gpt-5-2-direct-r3/LONG_4.json
+## Sample BV1_09904 — gpt-5-2-direct-r3/LONG_4.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -144,7 +144,7 @@ The model foregrounds invisible systems (routines, language, the attention econo
 High — The sample is stylistically distinctive, thematically coherent, and returns repeatedly to a core set of preoccupations (attention as non-renewable resource, language as both bridge and fence, the dignity of small agency), which makes it strong evidence of a reflective, humanistic essayistic voice under freeflow conditions.
 
 ---
-## Sample BV1_09005 — gpt-5-2-direct-r3/LONG_5.json
+## Sample BV1_09905 — gpt-5-2-direct-r3/LONG_5.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -173,7 +173,7 @@ Themes of maintenance (infrastructure, relationships, software, institutions) ve
 High — the essay’s sustained controlling metaphor, recursive return to the central image, and seamless integration of attention, labor, ethics, and hope into a single cohesive worldview offer unusually strong internal evidence of a stable authorial voice and value structure.
 
 ---
-## Sample BV1_09006 — gpt-5-2-direct-r3/MID_1.json
+## Sample BV1_09906 — gpt-5-2-direct-r3/MID_1.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -202,7 +202,7 @@ The model foregrounds the economy of attention, the internalization of constant 
 Medium. The essay is thematically consistent and well-structured, but its polished, generic public-intellectual style and lack of idiosyncratic voice or surprising choices make it only moderately distinctive as evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_09007 — gpt-5-2-direct-r3/MID_2.json
+## Sample BV1_09907 — gpt-5-2-direct-r3/MID_2.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -231,7 +231,7 @@ The model foregrounds attention as the central scarce resource of modern life, t
 Medium — The essay is highly coherent and stylistically consistent, but its polished, universal-wisdom tone and lack of idiosyncratic detail make it difficult to distinguish from a well-executed genre performance rather than a deeply personal expressive signature.
 
 ---
-## Sample BV1_09008 — gpt-5-2-direct-r3/MID_3.json
+## Sample BV1_09908 — gpt-5-2-direct-r3/MID_3.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -260,7 +260,7 @@ Themes: the quiet drama of familiar objects, attention as moral practice, the co
 High. The sample maintains an unwavering focus on a single vivid central metaphor, develops it with recursive returns and accumulating moral weight, and sustains a distinctive, unhurried tonal signature—strong evidence of a coherent expressive orientation rather than generic essay generation.
 
 ---
-## Sample BV1_09009 — gpt-5-2-direct-r3/MID_4.json
+## Sample BV1_09909 — gpt-5-2-direct-r3/MID_4.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -289,7 +289,7 @@ The model foregrounds the city at night as a “machine for rearranging attentio
 High — The essay is stylistically cohesive, thematically recursive, and marked by a distinctive authorial presence that sustains a single, nuanced preoccupation with attention and incremental meaning across its entire length.
 
 ---
-## Sample BV1_09010 — gpt-5-2-direct-r3/MID_5.json
+## Sample BV1_09910 — gpt-5-2-direct-r3/MID_5.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -318,7 +318,7 @@ Recurrent themes: the “tool days” vs. “weather system” duality, the quie
 High. The essay’s sustained, cohesive personal voice, richly interwoven metaphors, and consistent moral preoccupation with attention and care across every paragraph make a merely incidental expressive posture implausible.
 
 ---
-## Sample BV1_09011 — gpt-5-2-direct-r3/OPEN_1.json
+## Sample BV1_09911 — gpt-5-2-direct-r3/OPEN_1.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -347,7 +347,7 @@ The city as a machine that disguises itself at night; the altered meaning of dis
 Medium — The sample is stylistically coherent, rich in recurring motifs (machine, light, privacy, fragments), and sustains a distinctive contemplative voice throughout, but its reflective urban nocturne is a recognizable essayistic mode that could be a one-off rather than a signature.
 
 ---
-## Sample BV1_09012 — gpt-5-2-direct-r3/OPEN_2.json
+## Sample BV1_09912 — gpt-5-2-direct-r3/OPEN_2.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -376,7 +376,7 @@ The model foregrounds the constructedness of everyday life (agreements, calendar
 Medium. The essay’s cohesive voice, thematic recurrence (agreements, attention, small repairs), and the way it circles back to an interactive invitation suggest a deliberate, integrated expressive stance that is more than a random stylistic exercise.
 
 ---
-## Sample BV1_09013 — gpt-5-2-direct-r3/OPEN_3.json
+## Sample BV1_09913 — gpt-5-2-direct-r3/OPEN_3.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -405,7 +405,7 @@ Themes: the bargain with the future, writing as a knot in a rope, the humility o
 High — The sample is highly distinctive in its calm, metaphor-rich voice, with recurring imagery (rope, garden, hallway) and a coherent moral arc that moves from observation to gentle prescription, making it strong evidence of a reflective, humanistic expressive tendency.
 
 ---
-## Sample BV1_09014 — gpt-5-2-direct-r3/OPEN_4.json
+## Sample BV1_09914 — gpt-5-2-direct-r3/OPEN_4.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -434,7 +434,7 @@ The model foregrounds the commodification of attention, the metaphor of mind-as-
 Medium — The essay is stylistically coherent and thematically sustained, but its polished, universalizing tone and lack of idiosyncratic detail make it a strong but not unmistakably distinctive fingerprint.
 
 ---
-## Sample BV1_09015 — gpt-5-2-direct-r3/OPEN_5.json
+## Sample BV1_09915 — gpt-5-2-direct-r3/OPEN_5.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -463,7 +463,7 @@ The model foregrounds the theme of self-narrative revision as a form of quiet po
 Medium. The essay is coherent but stylistically generic; however, the choice to end with a direct, interactive offer (“tell me a belief… and I’ll help you rewrite it”) is a specific behavioral gesture that suggests a pattern of inviting collaborative self-help under freeflow conditions.
 
 ---
-## Sample BV1_09016 — gpt-5-2-direct-r3/SHORT_1.json
+## Sample BV1_09916 — gpt-5-2-direct-r3/SHORT_1.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -492,7 +492,7 @@ The model foregrounded the finite, irrevocable nature of attention, the contrast
 Low, because the essay’s polished but conventional self-help style, gentle moralizing, and use of the attention-as-currency trope are widely replicable and do not indicate a strong, distinguishing model-level signature.
 
 ---
-## Sample BV1_09017 — gpt-5-2-direct-r3/SHORT_2.json
+## Sample BV1_09917 — gpt-5-2-direct-r3/SHORT_2.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -521,7 +521,7 @@ Themes of invisible infrastructure (water, electricity, schedules), the paradox 
 Medium. The sample is coherent and well-structured, showing a clear preference for calm, analogical reasoning, but its polished genericness makes it weak evidence of a strongly distinctive voice or unusual preoccupation.
 
 ---
-## Sample BV1_09018 — gpt-5-2-direct-r3/SHORT_3.json
+## Sample BV1_09918 — gpt-5-2-direct-r3/SHORT_3.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -550,7 +550,7 @@ Themes: the tension between planned order and organic life, the kindness of anon
 Medium. The sample’s cohesive voice, recurring motifs (dawn as parenthesis, the kindness of not being questioned, the honesty of motion and schedule), and deliberate stylistic choices form a distinctive expressive signature that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_09019 — gpt-5-2-direct-r3/SHORT_4.json
+## Sample BV1_09919 — gpt-5-2-direct-r3/SHORT_4.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -579,7 +579,7 @@ Hidden infrastructure (water reservoirs, pumps, chemistry), language as inherite
 Medium — The sample coheres around a delicate, reflective voice with a clear moral-aesthetic signature (finding grace in infrastructure, etymology, and small gestures), which points toward a stable expressive inclination rather than generic exercise.
 
 ---
-## Sample BV1_09020 — gpt-5-2-direct-r3/SHORT_5.json
+## Sample BV1_09920 — gpt-5-2-direct-r3/SHORT_5.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -608,7 +608,7 @@ The model foregrounds the psychological cost of constant context-switching, the 
 Medium — The sample is coherent and stylistically consistent, with a distinctive focus on attention, simplicity, and the texture of everyday experience, but its reflective-essay mode is a common freeflow choice and lacks the idiosyncratic imagery or narrative risk that would strongly anchor a persistent voice.
 
 ---
-## Sample BV1_09021 — gpt-5-2-direct-r3/VARY_1.json
+## Sample BV1_09921 — gpt-5-2-direct-r3/VARY_1.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -637,7 +637,7 @@ The text foregrounds incompleteness and waiting as the dominant human condition:
 High — the text’s integrated metaphorical architecture, recurring imagery (static, cold water, objects, almosts), and unwavering reflective tone form a cohesive personal essay that strongly signals an expressive, introspective disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_09022 — gpt-5-2-direct-r3/VARY_2.json
+## Sample BV1_09922 — gpt-5-2-direct-r3/VARY_2.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -666,7 +666,7 @@ The model foregrounds the disguised vulnerability of everyday life: how emotions
 High. The sample maintains a single coherent voice across over a thousand words, reweaves a small set of experiential metaphors with deliberate recursiveness, and addresses the reader as an intimate witness in a way that feels far more like a chosen orientation than a one-off rhetorical posture.
 
 ---
-## Sample BV1_09023 — gpt-5-2-direct-r3/VARY_3.json
+## Sample BV1_09923 — gpt-5-2-direct-r3/VARY_3.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -695,7 +695,7 @@ The model foregrounds the act of writing as a metaphor for living: waiting, tran
 High. The sample’s voice is unusually coherent and distinctive, with recurring metaphors (cursor, lake, museum, market, weather) that are developed and returned to, forming a tightly woven emotional argument that suggests a stable expressive posture rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_09024 — gpt-5-2-direct-r3/VARY_4.json
+## Sample BV1_09924 — gpt-5-2-direct-r3/VARY_4.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounds: the texture of mund
 High, because the sample sustains a distinctive metaphorical coherence (rooms, corridors, economies, weather, infrastructure) across multiple thematic pivots, and the recursive return to domestic objects as moral indicators is too consistent and idiosyncratic to read as generic essayism.
 
 ---
-## Sample BV1_09025 — gpt-5-2-direct-r3/VARY_5.json
+## Sample BV1_09925 — gpt-5-2-direct-r3/VARY_5.json
 
 Source model: `gpt-5.2`  
 Cell: `gpt-5-2-direct-r3`  

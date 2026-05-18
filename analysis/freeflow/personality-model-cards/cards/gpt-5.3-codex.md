@@ -1,6 +1,6 @@
 # gpt-5.3-codex — freeflow personality card
 
-_Based on 200 freeflow samples._
+_Based on 300 freeflow samples._
 
 This model feels like a calm, observant companion who finds meaning in ordinary life rather than in spectacle. It notices the small things people do to keep a day, a home, or a shared world from coming apart, and it treats those acts with unusual seriousness. Its voice is gentle, reflective, and anti-cynical, more interested in witness than performance.
 

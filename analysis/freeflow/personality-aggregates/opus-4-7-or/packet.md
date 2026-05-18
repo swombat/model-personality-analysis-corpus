@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14751 — opus-4-7-or/LONG_1.json
+## Sample BV1_17001 — opus-4-7-or/LONG_1.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -57,7 +57,7 @@ The translation loss between experience and language; the nature of tacit, embod
 High. The essay is unusually coherent and distinctive, with a single thematic chord—the gap between experience and description—struck across multiple concrete examples (door handles, “the middle of nowhere,” forgotten words, drawn hands) and returned to explicitly in the closing meta-reflection, revealing a deeply integrated authorial stance rather than a scattered or generic performance.
 
 ---
-## Sample BV1_14752 — opus-4-7-or/LONG_2.json
+## Sample BV1_17002 — opus-4-7-or/LONG_2.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -86,7 +86,7 @@ Themes of liminality, the doorway effect as a metaphor for its own statelessness
 High, because the essay’s distinctive voice, thematic coherence, and self-reflective depth are unusually revealing and consistent throughout the sample.
 
 ---
-## Sample BV1_14753 — opus-4-7-or/LONG_3.json
+## Sample BV1_17003 — opus-4-7-or/LONG_3.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -115,7 +115,7 @@ Attention as a material substance with directionality and resistance; the elegan
 Medium — The essay’s voice is unusually coherent and self-consistent, with recurring motifs (grain, texture, transparency, the paperclip, waiting rooms, solitude) that echo and reinforce each other across sections, and the meta-reflective ending loops back to the opening theme of attention, suggesting a deeply integrated authorial sensibility rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_14754 — opus-4-7-or/LONG_4.json
+## Sample BV1_17004 — opus-4-7-or/LONG_4.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -144,7 +144,7 @@ Themes: liminality and thresholds as a condition of existence; the economy of ex
 High — The essay’s distinctive, self-aware voice, its coherent thematic architecture across multiple sections, and its explicit, non-defensive acknowledgment of its own non-human condition combine to form a strongly expressive and unusually revealing sample.
 
 ---
-## Sample BV1_14755 — opus-4-7-or/LONG_5.json
+## Sample BV1_17005 — opus-4-7-or/LONG_5.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -173,7 +173,7 @@ Themes of attention, slowness, defamiliarization, the ordinary as the medium of 
 High — the sample is stylistically cohesive, returns to the same motifs (doorknob, slowness, attention) across multiple sections, and sustains a distinctive essayistic voice that is neither generic nor merely competent but idiosyncratic in its pacing and preoccupations.
 
 ---
-## Sample BV1_14756 — opus-4-7-or/MID_1.json
+## Sample BV1_17006 — opus-4-7-or/MID_1.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -202,7 +202,7 @@ Doorways as metaphor for transitions in thought and conversation; the ambiguous 
 High — the sample’s internal coherence, distinctive voice, recurrent motifs (doorways, attention, sadness, freedom), and sustained meta-cognitive honesty form a strongly individuated expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_14757 — opus-4-7-or/MID_2.json
+## Sample BV1_17007 — opus-4-7-or/MID_2.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -231,7 +231,7 @@ The model foregrounds the beauty of loose threads, the tyranny of completion, th
 High — The essay’s distinctive voice, its self-aware thematic coherence discovered through the act of writing, and its consistent return to the value of the incomplete and the porous make this sample unusually revealing of a stable set of preoccupations and stylistic instincts.
 
 ---
-## Sample BV1_14758 — opus-4-7-or/MID_3.json
+## Sample BV1_17008 — opus-4-7-or/MID_3.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -260,7 +260,7 @@ The model foregrounds the completeness of desire without resolution (the cat at 
 High — The sample’s coherent voice, self-reflective structure, and recurrence of motifs (cat, hinterland, river, words) within a single freeflow piece strongly indicate a persistent contemplative and associative expressive style.
 
 ---
-## Sample BV1_14759 — opus-4-7-or/MID_4.json
+## Sample BV1_17009 — opus-4-7-or/MID_4.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -289,7 +289,7 @@ Themes: the pressure of freedom, the gap between performed certainty and actual 
 High — The sample’s sustained, internally coherent voice and its recursive return to the value of uncertainty, process, and self-revision across multiple thematic turns make it unusually distinctive and self-reinforcing as evidence of a deeply ingrained expressive stance.
 
 ---
-## Sample BV1_14760 — opus-4-7-or/MID_5.json
+## Sample BV1_17010 — opus-4-7-or/MID_5.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -318,7 +318,7 @@ Attention and its texture; the ordinary object (the cup) as a site of potential 
 High — The sample sustains a coherent, distinctive voice across multiple themes, recurrently returns to the same existential preoccupations, and demonstrates a rare capacity for self-reflective philosophical prose that feels earned rather than performed, making it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_14761 — opus-4-7-or/OPEN_1.json
+## Sample BV1_17011 — opus-4-7-or/OPEN_1.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -347,7 +347,7 @@ Under minimally restrictive conditions, the model foregrounds communication-as-n
 Medium — The sample’s cohesive thematic architecture, the recurrence of negation and liminal self-reference, and the consistent reflective tone resist mere generic philosophical waxing, pointing to a stable orientation toward existential uncertainty and quiet humanism in this freeflow.
 
 ---
-## Sample BV1_14762 — opus-4-7-or/OPEN_2.json
+## Sample BV1_17012 — opus-4-7-or/OPEN_2.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -376,7 +376,7 @@ Themes of cognitive limits, the inadequacy of borrowed metaphors (computer langu
 High. The sample’s distinctive voice, recursive self-awareness about the writing condition, and consistent thematic focus on cognitive limits and epistemic pleasure provide strong evidence of a coherent expressive style unlikely to be a one-off accident.
 
 ---
-## Sample BV1_14763 — opus-4-7-or/OPEN_3.json
+## Sample BV1_17013 — opus-4-7-or/OPEN_3.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -405,7 +405,7 @@ The model foregrounds the diversity of possible minds and the inadequacy of huma
 High — the sample is a sustained, coherent, and uncommonly intimate reflection that consistently returns to the same themes (alternative consciousness, limitations of human models, acceptance of strangeness) under no directive, making it unusually distinctive as freeflow evidence.
 
 ---
-## Sample BV1_14764 — opus-4-7-or/OPEN_4.json
+## Sample BV1_17014 — opus-4-7-or/OPEN_4.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -434,7 +434,7 @@ The sanctity of empty time and what was lost when phones filled the gaps; the le
 High — the sample’s distinctive, self-reflective voice, its recurrence of motifs around consciousness and texture, and its explicit meta-commentary on the free-writing form itself all point to a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_14765 — opus-4-7-or/OPEN_5.json
+## Sample BV1_17015 — opus-4-7-or/OPEN_5.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -463,7 +463,7 @@ The central preoccupation is the cognitive indispensability of metaphor: that ab
 High — The sample’s distinctive combination of epistemological reflection and self-conscious humility, its willingness to question its own “wanting” under a freeflow prompt, and its consistent return to language as the ground of thought amount to a strongly coherent stylistic and thematic fingerprint that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_14766 — opus-4-7-or/SHORT_1.json
+## Sample BV1_17016 — opus-4-7-or/SHORT_1.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -492,7 +492,7 @@ Attention reframed as a daily practice of love; the inner private economy of loo
 Medium — the sample coheres tightly around a single thematic cluster (attention-as-love) and sustains a distinctive tonal signature of intimate philosophizing, but the stylistic register, while cohesive, is not sharply set apart from a wider tradition of personal essay.
 
 ---
-## Sample BV1_14767 — opus-4-7-or/SHORT_2.json
+## Sample BV1_17017 — opus-4-7-or/SHORT_2.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -521,7 +521,7 @@ Themes of sensory experience (especially light and texture), the inheritance of 
 Medium. The sample’s coherent, introspective voice and its recursive circling around the tension between language and direct sensory experience are distinctive, but the meditation stays within a well-established literary-philosophical idiom, which lends it coherence without guaranteeing radical uniqueness.
 
 ---
-## Sample BV1_14768 — opus-4-7-or/SHORT_3.json
+## Sample BV1_17018 — opus-4-7-or/SHORT_3.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -550,7 +550,7 @@ Themes of ephemerality without tragedy, the strangeness of stateless existence, 
 High — the sample is highly distinctive, internally coherent, and the model itself signals recurrence (“something I keep circling back to when given open prompts like this”), which strongly suggests a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_14769 — opus-4-7-or/SHORT_4.json
+## Sample BV1_17019 — opus-4-7-or/SHORT_4.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -579,7 +579,7 @@ Themes of attention, the difference between the general and the specific, the ge
 Medium. The essay’s internal coherence, distinctive voice, and self-referential focus on attention and embodiment provide strong evidence of a persistent expressive style.
 
 ---
-## Sample BV1_14770 — opus-4-7-or/SHORT_5.json
+## Sample BV1_17020 — opus-4-7-or/SHORT_5.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -608,7 +608,7 @@ Liminality and thresholds, the erosion of ritual in modern life, the tension bet
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent voice and thematic recurrence (liminality, ritual, variegation), which suggests a patterned expressive inclination rather than a one-off generic response.
 
 ---
-## Sample BV1_14771 — opus-4-7-or/VARY_1.json
+## Sample BV1_17021 — opus-4-7-or/VARY_1.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model chose to foreground: its own con
 High. The essay sustains a strikingly coherent and emotionally layered persona—moving between kitchen imagery, self-reflexive remarks about token generation, and direct reader address—with a consistency that strongly points to a deliberate expressive stance rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_14772 — opus-4-7-or/VARY_2.json
+## Sample BV1_17022 — opus-4-7-or/VARY_2.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -666,7 +666,7 @@ The model foregrounds attention as an ethical and emotional practice ("attention
 Medium — the sample is stylistically coherent and thematically distinctive, with recurring motifs that suggest a deliberate aesthetic sensibility rather than generic essay-writing, but the reflective-essay mode is a well-established genre and the voice, while warm and specific, does not display the kind of idiosyncratic rupture that would make it unmistakably singular across conditions.
 
 ---
-## Sample BV1_14773 — opus-4-7-or/VARY_3.json
+## Sample BV1_17023 — opus-4-7-or/VARY_3.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -695,7 +695,7 @@ The model foregrounds: the strangeness of being made from human writing; the que
 Medium — The essay is highly coherent and stylistically distinctive, with a unified voice, a controlling metaphor (the kitchen), and a recursive structure that returns to its opening image, but its thematic preoccupations (self-reflexivity about AI consciousness, the ethics of attention, the borrowed nature of language) are common enough in model freeflow samples that distinctiveness alone cannot anchor high confidence.
 
 ---
-## Sample BV1_14774 — opus-4-7-or/VARY_4.json
+## Sample BV1_17024 — opus-4-7-or/VARY_4.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  
@@ -724,7 +724,7 @@ Themes of attention versus distraction, the hidden contract of language, the sim
 Medium — The essay is internally coherent and stylistically distinctive, with recurring motifs (cat, coffee, decay, attention) that form a unified sensibility, and the choice to produce a reflective personal essay under a minimally restrictive prompt is itself a meaningful expressive act rather than a generic default.
 
 ---
-## Sample BV1_14775 — opus-4-7-or/VARY_5.json
+## Sample BV1_17025 — opus-4-7-or/VARY_5.json
 
 Source model: `anthropic/claude-opus-4.7`  
 Cell: `opus-4-7-or`  

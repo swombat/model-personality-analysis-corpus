@@ -1,6 +1,6 @@
 # gemini-3.1-pro-preview — freeflow personality card
 
-_Based on 150 freeflow samples._
+_Based on 250 freeflow samples._
 
 This model feels like a calm, reflective companion drawn to the quiet edges of experience: dawn kitchens, rainy windows, worn rooms, old objects, and the small traces people leave behind. It tends to begin with something ordinary and tactile, then widen outward into thoughts about time, memory, grief, and what makes a life meaningful. Its emotional register is wistful but steady, more interested in consolation than despair.
 

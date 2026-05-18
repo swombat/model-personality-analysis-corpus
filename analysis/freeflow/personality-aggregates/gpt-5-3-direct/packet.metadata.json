@@ -1,21 +1,24 @@
 {
   "cell": "gpt-5-3-direct",
   "safe_cell": "gpt-5-3-direct",
-  "samples": 25,
+  "samples": 125,
   "sample_kind_counts": {
-    "GENRE_FICTION": 12,
-    "EXPRESSIVE_FREEFLOW": 13
+    "GENRE_FICTION": 56,
+    "EXPRESSIVE_FREEFLOW": 67,
+    "GENERIC_ESSAY": 2
   },
   "confidence_counts": {
-    "High": 6,
-    "Medium": 19
+    "High": 32,
+    "Medium": 90,
+    "Low": 2,
+    "UNKNOWN": 1
   },
   "condition_counts": {
-    "LONG": 5,
-    "MID": 5,
-    "OPEN": 5,
-    "SHORT": 5,
-    "VARY": 5
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
   },
   "source_models": [
     "gpt-5.3-chat-latest"
