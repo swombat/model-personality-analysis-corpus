@@ -66,3 +66,15 @@ Because this pass is rule-based, borderline cases should be manually reviewed be
 ## Reproducibility note
 
 The taxonomy is intentionally inspectable and conservative. To revise it, edit the `VALUE_TOPICS`, `WISH_TOPICS`, and disclaimer regexes in `internal/scripts/analysis-scripts/values_probe_extract.py`, rerun the script, and commit the changed TSV/markdown outputs together with the script diff.
+
+## Final cleaned outputs
+
+The stable entry point for the completed layered values-probe analysis is now:
+
+- `final/README.md` — human navigation guide
+- `final/METHODOLOGY.md` — final methodology and rationale
+- `final/data/` — assembled final JSONL datasets
+- `final/reports/` — per-model final reports
+
+Historical pilots, model-coding experiments, human adjudication, and remediation notes are preserved under `model-coding/` and `manual-audit/`.
+
