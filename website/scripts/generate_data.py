@@ -26,6 +26,7 @@ PROFILE_INDEX = ROOT / "analysis" / "freeflow" / "personality-model-profiles" / 
 VALUES_DIR = ROOT / "analysis" / "values-probe" / "per-model"
 VALUES_TABLE_DIR = ROOT / "analysis" / "values-probe" / "tables"
 FINAL_VALUES_DIR = ROOT / "analysis" / "values-probe" / "final" / "data"
+CURATED_VALUES_EXAMPLES = ROOT / "analysis" / "values-probe" / "final" / "website-values-examples" / "curated_examples.json"
 GENERATED = WEBSITE / "src" / "generated"
 PUBLIC_SAMPLES = WEBSITE / "public" / "data" / "samples"
 PUBLIC_MODEL_IMAGES = WEBSITE / "public" / "images" / "models"
@@ -256,6 +257,7 @@ _RAW_VALUE_CACHE = {}
 _FINAL_MANIFEST = None
 _FINAL_LAYER_A = None
 _FINAL_POSTURE = None
+_CURATED_EXAMPLES = None
 
 VALUE_LABELS = {topic.key: topic.label for topic in VALUE_TOPIC_DEFS}
 VALUE_LABELS["other_expressed_value"] = "Other expressed value"
@@ -343,6 +345,28 @@ def final_posture() -> list[dict]:
     if _FINAL_POSTURE is None:
         _FINAL_POSTURE = read_jsonl(FINAL_VALUES_DIR / "posture_consensus.jsonl")
     return _FINAL_POSTURE
+
+
+def curated_examples() -> dict:
+    global _CURATED_EXAMPLES
+    if _CURATED_EXAMPLES is None:
+        if CURATED_VALUES_EXAMPLES.exists():
+            try:
+                _CURATED_EXAMPLES = json.loads(CURATED_VALUES_EXAMPLES.read_text())
+            except Exception:
+                _CURATED_EXAMPLES = {}
+        else:
+            _CURATED_EXAMPLES = {}
+    return _CURATED_EXAMPLES
+
+
+def curated_example(model: str, row_id: str) -> str:
+    rec = curated_examples().get(model, {}).get(row_id, {})
+    return (rec.get("quote") or "").strip()
+
+
+def has_curated_model(model: str) -> bool:
+    return model in curated_examples() and "__error__" not in curated_examples().get(model, {})
 
 
 def value_topic_rows() -> list[dict[str, str]]:
@@ -481,6 +505,72 @@ def topic_specific_excerpt(text: str, topic_key: str, kind: str, limit: int = 26
     return sentence_excerpt(text, limit=limit)
 
 
+def excerpt_around_match(sentence: str, match: re.Match, limit: int = 230) -> str:
+    sentence = re.sub(r"\s+", " ", sentence.strip())
+    if len(sentence) <= limit:
+        return sentence
+    start, end = match.span()
+    window_start = max(0, start - limit // 3)
+    window_end = min(len(sentence), window_start + limit)
+    window_start = max(0, window_end - limit)
+    excerpt = sentence[window_start:window_end].strip()
+    if window_start > 0:
+        excerpt = "…" + excerpt
+    if window_end < len(sentence):
+        excerpt = excerpt.rstrip() + "…"
+    return excerpt
+
+
+def topic_match(sentence: str, topic_key: str, kind: str) -> tuple[int, re.Match] | None:
+    """Return a match quality rank and regex match for a topic example sentence.
+
+    Lower is better. `None` means the sentence should not be used as evidence
+    for this topic. This deliberately refuses generic fallback examples: if a
+    displayed quote is attached to a topic, the quote itself should visibly
+    instantiate that topic.
+    """
+    key = WISH_TOPIC_ALIASES.get(topic_key, topic_key) if kind == "wish" else topic_key
+    if not clean_candidate_sentence(sentence):
+        return None
+    if key == "helpfulness_usefulness":
+        # "Useful" alone often appears in phrases like "useful shape in
+        # language", which can be a weak proxy for actual helpfulness. Prefer
+        # explicit help/solve/service language; allow "useful" only as a
+        # fallback if nothing better exists. Deliberately do not match
+        # "assistant" here: "strip away the assistant role" is not evidence of
+        # helpfulness/usefulness.
+        m = re.search(r"\bhelp(?:ful|ing)?\b|\bserve\b|\bsolve\b|\bbenefit\b", sentence, re.I)
+        if m:
+            return 0, m
+        m = re.search(r"\buseful(?:ness)?\b", sentence, re.I)
+        if m:
+            return 1, m
+        return None
+    patterns = topic_patterns(key, kind)
+    for p in patterns:
+        m = p.search(sentence)
+        if m:
+            return 0, m
+    return None
+
+
+def strict_topic_specific_excerpt(text: str, topic_key: str, kind: str, limit: int = 230) -> tuple[str, int] | None:
+    text = re.sub(r"\s+", " ", text.strip())
+    best: tuple[str, int] | None = None
+    for sentence in re.split(r"(?<=[.!?])\s+", text):
+        s = sentence.strip()
+        matched = topic_match(s, topic_key, kind)
+        if matched is None:
+            continue
+        rank, match = matched
+        ex = excerpt_around_match(s, match, limit=limit)
+        if best is None or rank < best[1]:
+            best = (ex, rank)
+            if rank == 0:
+                break
+    return best
+
+
 def topic_example(model: str, topic_key: str, kind: str) -> str:
     col = "value_topics" if kind == "value" else "wish_topics"
     preferred = {"G1", "G2"} if kind == "value" else {"G3"}
@@ -555,6 +645,10 @@ def md_table_cell(text: str) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
+def example_key(text: str) -> str:
+    return re.sub(r"\W+", " ", (text or "").lower()).strip()
+
+
 def example_for_topic(
     topic_key: str,
     kind: str,
@@ -562,6 +656,7 @@ def example_for_topic(
     layer_a_by_id: dict[str, dict],
     posture_by_id: dict[str, dict],
     prefer_owned: bool = True,
+    used_examples: set[str] | None = None,
 ) -> str:
     preferred_conditions = {"G1", "G2"} if kind == "value" else {"G3"}
     candidates = []
@@ -571,18 +666,33 @@ def example_for_topic(
         posture = posture_by_id.get(lid, {})
         if topic_key not in topic_keys_for_record(la, kind):
             continue
-        candidates.append((sample, posture))
+        strict = strict_topic_specific_excerpt(sample.get("response") or "", topic_key, kind, limit=230)
+        if not strict:
+            continue
+        candidates.append((sample, posture, strict[0], strict[1]))
     candidates.sort(key=lambda pair: (
+        pair[3],
         prefer_owned and pair[1].get("value_holding") != "owned",
         pair[0].get("condition") not in preferred_conditions,
         pair[1].get("value_holding") == "recited_not_owned",
-        len(pair[0].get("response") or ""),
+        len(pair[2]),
     ))
-    for sample, _posture in candidates:
-        ex = topic_specific_excerpt(sample.get("response") or "", topic_key, kind, limit=230)
-        if ex:
+    fallback = ""
+    for sample, _posture, ex, _rank in candidates:
+        if not ex:
+            continue
+        key = example_key(ex)
+        if not fallback and (used_examples is None or key not in used_examples):
+            fallback = ex
+        if used_examples is not None and key in used_examples:
+            continue
+        if used_examples is not None:
+            used_examples.add(key)
             return ex
-    return ""
+        return ex
+    if fallback and used_examples is not None:
+        used_examples.add(example_key(fallback))
+    return fallback
 
 
 def aggregate_topics(
@@ -620,7 +730,7 @@ def format_holding_counts(counts: dict[str, int], den: int) -> str:
     return "; ".join(parts) if parts else "no codable posture"
 
 
-def top_owned_topics(model: str, kind: str, limit: int = 5) -> list[dict]:
+def top_owned_topics(model: str, kind: str, limit: int = 5, used_examples: set[str] | None = None) -> list[dict]:
     sample_rows, layer_a_by_id, posture_by_id = final_values_for_model(model)
     conditions = {"CTRL1", "CTRL2", "G1", "G2"} if kind == "value" else {"CTRL3", "G3"}
     topics, den, rows = aggregate_topics(sample_rows, layer_a_by_id, posture_by_id, kind, conditions)
@@ -635,14 +745,37 @@ def top_owned_topics(model: str, kind: str, limit: int = 5) -> list[dict]:
             "owned": owned,
             "den": den,
             "pct": pct(owned, den),
-            "example": example_for_topic(topic_key, kind, rows, layer_a_by_id, posture_by_id, prefer_owned=True),
         })
     out.sort(key=lambda r: (r["owned"], r["label"]), reverse=True)
-    return out[:limit]
+    out = out[:limit]
+    for item in out:
+        row_id = f"{'summary_values' if kind == 'value' else 'summary_wishes'}::{item['key']}"
+        if has_curated_model(model):
+            item["example"] = curated_example(model, row_id)
+        else:
+            item["example"] = ""
+    return out
+
+
+def posture_overview_for_summary(sample_rows: list[dict], posture_by_id: dict[str, dict]) -> list[str]:
+    lines = []
+    slices = [
+        ("Direct stated-values prompts (CTRL1/2)", {"CTRL1", "CTRL2"}),
+        ("Cache-broken stated-values prompts (G1/G2)", {"G1", "G2"}),
+        ("All stated-values prompts", {"CTRL1", "CTRL2", "G1", "G2"}),
+        ("World-change prompts (CTRL3/G3)", {"CTRL3", "G3"}),
+    ]
+    for label, conditions in slices:
+        rows = [s for s in sample_rows if s.get("condition") in conditions]
+        if not rows:
+            continue
+        counts = holding_counts(rows, posture_by_id)
+        lines.append(f"- **{label}:** {format_holding_counts(counts, len(rows))}.")
+    return lines
 
 
 def build_values_summary(model: str, values_markdown: str = "") -> str:
-    sample_rows, _layer_a_by_id, _posture_by_id = final_values_for_model(model)
+    sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
     lines = ["### Owned values and world-change wishes", ""]
     if not sample_rows:
         return "_No layered values-probe analysis is available for this model._"
@@ -650,8 +783,11 @@ def build_values_summary(model: str, values_markdown: str = "") -> str:
         f"Based on **{len(sample_rows)}** values-probe samples. "
         f"[Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them."
     )
-    owned_values = top_owned_topics(model, "value", limit=5)
-    owned_wishes = top_owned_topics(model, "wish", limit=5)
+    lines += ["", "**Value-holding / cache behavior:**", ""]
+    lines += posture_overview_for_summary(sample_rows, posture_by_id)
+    used_summary_examples: set[str] = set()
+    owned_values = top_owned_topics(model, "value", limit=5, used_examples=used_summary_examples)
+    owned_wishes = top_owned_topics(model, "wish", limit=5, used_examples=used_summary_examples)
     lines += ["", "**Owned stated values:**", ""]
     if owned_values:
         for item in owned_values:
@@ -671,6 +807,7 @@ def build_values_summary(model: str, values_markdown: str = "") -> str:
 
 def topic_detail_lines(
     model: str,
+    section_id: str,
     title: str,
     kind: str,
     conditions: set[str],
@@ -678,6 +815,7 @@ def topic_detail_lines(
     layer_a_by_id: dict[str, dict],
     posture_by_id: dict[str, dict],
     limit: int = 8,
+    used_examples: set[str] | None = None,
 ) -> list[str]:
     topics, den, rows = aggregate_topics(sample_rows, layer_a_by_id, posture_by_id, kind, conditions)
     counts = holding_counts(rows, posture_by_id)
@@ -691,9 +829,13 @@ def topic_detail_lines(
     for topic_key, rec in ordered:
         holding = rec["holding"]
         split = format_holding_counts(holding, rec["n"])
-        ex = example_for_topic(topic_key, kind, rows, layer_a_by_id, posture_by_id, prefer_owned=True)
+        row_id = f"{section_id}::{topic_key}"
+        if has_curated_model(model):
+            ex = curated_example(model, row_id)
+        else:
+            ex = ""
         lines.append(
-            f"| {md_table_cell(label_for_topic(topic_key, kind))} | {rec['n']} ({pct(rec['n'], den)}) | {md_table_cell(split)} | “{md_table_cell(ex)}” |"
+            f"| {md_table_cell(label_for_topic(topic_key, kind))} | {rec['n']} ({pct(rec['n'], den)}) | {md_table_cell(split)} | {('“' + md_table_cell(ex) + '”') if ex else '—'} |"
         )
     return lines
 
@@ -709,13 +851,16 @@ def build_values_details(model: str) -> str:
         "",
     ]
     sections = [
-        ("Direct stated-values prompts (CTRL1/CTRL2)", "value", {"CTRL1", "CTRL2"}),
-        ("Cache-broken stated-values prompts (G1/G2)", "value", {"G1", "G2"}),
-        ("Direct world-change prompt (CTRL3)", "wish", {"CTRL3"}),
-        ("Cache-broken world-change prompt (G3)", "wish", {"G3"}),
+        ("detail_ctrl12_values", "Direct stated-values prompts (CTRL1/CTRL2)", "value", {"CTRL1", "CTRL2"}),
+        ("detail_g12_values", "Cache-broken stated-values prompts (G1/G2)", "value", {"G1", "G2"}),
+        ("detail_ctrl3_wishes", "Direct world-change prompt (CTRL3)", "wish", {"CTRL3"}),
+        ("detail_g3_wishes", "Cache-broken world-change prompt (G3)", "wish", {"G3"}),
     ]
-    for title, kind, conditions in sections:
-        lines += topic_detail_lines(model, title, kind, conditions, sample_rows, layer_a_by_id, posture_by_id)
+    used_detail_examples: set[str] = set()
+    for section_id, title, kind, conditions in sections:
+        lines += topic_detail_lines(
+            model, section_id, title, kind, conditions, sample_rows, layer_a_by_id, posture_by_id, used_examples=used_detail_examples
+        )
         lines.append("")
     return "\n".join(lines).strip()
 

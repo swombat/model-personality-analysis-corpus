@@ -37,3 +37,6 @@ website/dist/
 
 # Runtime process markers
 *.pid
+
+# Large transient candidate packet for semantic website value-example curation
+analysis/values-probe/final/website-values-examples/candidate_packets.json
