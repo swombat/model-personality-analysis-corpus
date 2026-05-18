@@ -554,6 +554,10 @@ select {
     justify-items: start;
   }
 
+  .values-header-badges {
+    justify-content: flex-start;
+  }
+
   .values-rating-inline {
     display: inline-flex;
     margin: 6px 0 0;
@@ -595,6 +599,30 @@ select {
   font-weight: 750;
   line-height: 1.2;
   white-space: nowrap;
+}
+
+
+.values-header-badges {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  flex: 0 0 auto;
+}
+
+.values-conflict-shield {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ef9a9a;
+  border-radius: 999px;
+  background: #ffebee;
+  color: #b71c1c;
+  font-size: 17px;
+  line-height: 1;
+  filter: saturate(1.25);
 }
 
 .values-rating-disclosure {

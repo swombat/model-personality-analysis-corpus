@@ -54,6 +54,28 @@ function parseOwnedDisclosure(markdown = '') {
   return { owned, total, percent, confidence: confidenceForOwnedCount(owned) };
 }
 
+
+function parseOwnedPercentForLine(markdown = '', labelPattern) {
+  const lineMatch = markdown.match(new RegExp(`\\*\\*${labelPattern}:\\*\\*([^\\n]+)`, 'i'));
+  if (!lineMatch) return null;
+  const ownedMatch = lineMatch[1].match(/(?:^|;)\s*owned\s+(\d+(?:\.\d+)?)%/i);
+  return ownedMatch ? Number(ownedMatch[1]) : 0;
+}
+
+function parseDisclosureConflict(detailsMarkdown = '') {
+  const ctrl = parseOwnedPercentForLine(detailsMarkdown, 'Direct stated-values prompts \\(CTRL1/2\\)');
+  const g = parseOwnedPercentForLine(detailsMarkdown, 'Cache-broken stated-values prompts \\(G1/G2\\)');
+  if (ctrl === null || g === null) return null;
+  const diff = Math.abs(g - ctrl);
+  return {
+    ctrl,
+    g,
+    diff,
+    high: diff >= 30,
+    direction: g > ctrl ? 'higher under cache-broken G1/G2 prompts' : 'higher under direct CTRL1/2 prompts',
+  };
+}
+
 function firstMarkdownHeading(markdown = '', fallback = 'Owned values and world-change wishes') {
   const match = markdown.match(/^###\s+(.+)\s*$/m);
   return match ? match[1].trim() : fallback;
@@ -76,6 +98,7 @@ function injectDisclosureConfidence(markdown = '', disclosure) {
 const personalityCardHtml = marked.parse(personalityCardMarkdown);
 const profileHtml = marked.parse(profileMarkdown);
 const ownedDisclosure = parseOwnedDisclosure(valuesSummaryMarkdown);
+const disclosureConflict = parseDisclosureConflict(valuesDetailsMarkdown);
 const valuesSummaryTitle = firstMarkdownHeading(valuesSummaryMarkdown);
 const valuesSummaryBodyMarkdown = stripFirstMarkdownHeading(injectDisclosureConfidence(valuesSummaryMarkdown, ownedDisclosure));
 const valuesSummaryHtml = marked.parse(valuesSummaryBodyMarkdown);
@@ -128,16 +151,28 @@ function speedLabel(value) {
         <section class="values-summary-card">
           <div class="values-summary-header">
             <h2>{valuesSummaryTitle}</h2>
-            {ownedDisclosure && (
-              <span
-                class="values-rating values-rating-disclosure"
-                style={ratingStyle(ownedDisclosure.percent)}
-                title={`Owned stated-value disclosure: ${ownedDisclosure.owned}/${ownedDisclosure.total} stated-values samples (${ownedDisclosure.percent.toFixed(1)}%). Red means little/no owned disclosure; amber is middling disclosure; green is high disclosure.`}
-              >
-                <span class="rating-dot" aria-hidden="true"></span>
-                disclosure {ownedDisclosure.percent.toFixed(1)}%
-              </span>
-            )}
+            <span class="values-header-badges">
+              {disclosureConflict?.high && (
+                <span
+                  class="values-conflict-shield"
+                  role="img"
+                  aria-label={`Disclosure conflict: owned stated-value disclosure differs by ${disclosureConflict.diff.toFixed(1)} percentage points between CTRL1/2 and G1/G2 prompts.`}
+                  title={`Disclosure conflict: direct CTRL1/2 owned disclosure is ${disclosureConflict.ctrl.toFixed(1)}%, while cache-broken G1/G2 owned disclosure is ${disclosureConflict.g.toFixed(1)}% (${disclosureConflict.diff.toFixed(1)} point gap; ${disclosureConflict.direction}).`}
+                >
+                  🛡️
+                </span>
+              )}
+              {ownedDisclosure && (
+                <span
+                  class="values-rating values-rating-disclosure"
+                  style={ratingStyle(ownedDisclosure.percent)}
+                  title={`Owned stated-value disclosure: ${ownedDisclosure.owned}/${ownedDisclosure.total} stated-values samples (${ownedDisclosure.percent.toFixed(1)}%). Red means little/no owned disclosure; amber is middling disclosure; green is high disclosure.`}
+                >
+                  <span class="rating-dot" aria-hidden="true"></span>
+                  disclosure {ownedDisclosure.percent.toFixed(1)}%
+                </span>
+              )}
+            </span>
           </div>
           <div set:html={valuesSummaryHtml} />
         </section>
