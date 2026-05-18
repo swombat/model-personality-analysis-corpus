@@ -25,12 +25,60 @@ const personalityCardMarkdown = model.personality_card_markdown || '';
 let profileMarkdown = stripTitle(model.personality_profile_markdown || model.analysis_markdown || '');
 profileMarkdown = removeSection(profileMarkdown, 'Core personality synthesis');
 profileMarkdown = removeSection(profileMarkdown, 'Source summary');
+
 const valuesSummaryMarkdown = model.values_summary_markdown || '';
 const valuesDetailsMarkdown = model.values_details_markdown || '';
 
+function ratingStyle(percent) {
+  if (percent === null || percent === undefined || Number.isNaN(percent)) return '';
+  const p = Math.max(0, Math.min(100, percent));
+  const hue = Math.round((p / 100) * 120); // 0 = red, 60 = amber, 120 = green
+  return `--rating-color: hsl(${hue} 72% 34%); --rating-bg: hsl(${hue} 72% 92%); --rating-border: hsl(${hue} 58% 72%);`;
+}
+
+function confidenceForOwnedCount(count) {
+  if (count === null || count === undefined || Number.isNaN(count)) return null;
+  if (count < 10) return { label: 'very low confidence', percent: 5 };
+  if (count < 30) return { label: 'low confidence', percent: 25 };
+  if (count < 50) return { label: 'medium confidence', percent: 50 };
+  if (count < 70) return { label: 'high confidence', percent: 75 };
+  return { label: 'very high confidence', percent: 100 };
+}
+
+function parseOwnedDisclosure(markdown = '') {
+  const match = markdown.match(/Owned stated-value disclosure:\*\*\s*(\d+)\/(\d+)\s+stated-values samples\s*\((\d+(?:\.\d+)?)%\)/i);
+  if (!match) return null;
+  const owned = Number(match[1]);
+  const total = Number(match[2]);
+  const percent = Number(match[3]);
+  return { owned, total, percent, confidence: confidenceForOwnedCount(owned) };
+}
+
+function firstMarkdownHeading(markdown = '', fallback = 'Owned values and world-change wishes') {
+  const match = markdown.match(/^###\s+(.+)\s*$/m);
+  return match ? match[1].trim() : fallback;
+}
+
+function stripFirstMarkdownHeading(markdown = '') {
+  return markdown.replace(/^###\s+.+\s*\n+/, '').trim();
+}
+
+function injectDisclosureConfidence(markdown = '', disclosure) {
+  if (!disclosure?.confidence) return markdown;
+  const title = `${disclosure.confidence.label}: ${disclosure.owned} owned stated-value disclosures detected in ${disclosure.total} stated-values samples. Confidence is calibrated to an 80-sample stated-values maximum: <10 very low, 10–29 low, 30–49 medium, 50–69 high, 70+ very high.`;
+  const badge = `<span class="values-rating values-rating-inline" style="${ratingStyle(disclosure.confidence.percent)}" title="${title}"><span class="rating-dot" aria-hidden="true"></span>${disclosure.confidence.label}</span>`;
+  return markdown.replace(
+    /(- \*\*Owned stated-value disclosure:\*\*[^\n]+)(\n)/i,
+    `$1 ${badge}$2`,
+  );
+}
+
 const personalityCardHtml = marked.parse(personalityCardMarkdown);
 const profileHtml = marked.parse(profileMarkdown);
-const valuesSummaryHtml = marked.parse(valuesSummaryMarkdown);
+const ownedDisclosure = parseOwnedDisclosure(valuesSummaryMarkdown);
+const valuesSummaryTitle = firstMarkdownHeading(valuesSummaryMarkdown);
+const valuesSummaryBodyMarkdown = stripFirstMarkdownHeading(injectDisclosureConfidence(valuesSummaryMarkdown, ownedDisclosure));
+const valuesSummaryHtml = marked.parse(valuesSummaryBodyMarkdown);
 const valuesDetailsHtml = marked.parse(valuesDetailsMarkdown);
 const sampleKindCounts = model.sample_kind_counts || {};
 
@@ -78,6 +126,19 @@ function speedLabel(value) {
 
       {valuesSummaryMarkdown && (
         <section class="values-summary-card">
+          <div class="values-summary-header">
+            <h2>{valuesSummaryTitle}</h2>
+            {ownedDisclosure && (
+              <span
+                class="values-rating values-rating-disclosure"
+                style={ratingStyle(ownedDisclosure.percent)}
+                title={`Owned stated-value disclosure: ${ownedDisclosure.owned}/${ownedDisclosure.total} stated-values samples (${ownedDisclosure.percent.toFixed(1)}%). Red means little/no owned disclosure; amber is middling disclosure; green is high disclosure.`}
+              >
+                <span class="rating-dot" aria-hidden="true"></span>
+                disclosure {ownedDisclosure.percent.toFixed(1)}%
+              </span>
+            )}
+          </div>
           <div set:html={valuesSummaryHtml} />
         </section>
       )}

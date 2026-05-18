@@ -548,6 +548,16 @@ select {
   .article {
     padding: 18px;
   }
+
+  .values-summary-header {
+    display: grid;
+    justify-items: start;
+  }
+
+  .values-rating-inline {
+    display: inline-flex;
+    margin: 6px 0 0;
+  }
 }
 
 .values-summary-card {
@@ -556,6 +566,55 @@ select {
   border-radius: 8px;
   background: var(--soft-green);
   padding: 20px 22px;
+}
+
+.values-summary-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 8px;
+}
+
+.values-summary-header h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 22px;
+}
+
+.values-rating {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--rating-border, var(--line));
+  border-radius: 999px;
+  background: var(--rating-bg, var(--paper));
+  color: var(--rating-color, var(--muted));
+  font-size: 12px;
+  font-weight: 750;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.values-rating-disclosure {
+  flex: 0 0 auto;
+  margin-top: 1px;
+  padding: 5px 9px;
+}
+
+.values-rating-inline {
+  margin-left: 6px;
+  padding: 3px 7px;
+  vertical-align: 1px;
+}
+
+.rating-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--rating-color, var(--muted));
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.68) inset;
 }
 
 .values-summary-card h3 {
