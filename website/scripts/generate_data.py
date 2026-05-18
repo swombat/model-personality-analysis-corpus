@@ -25,6 +25,7 @@ WEBSITE = ROOT / "website"
 PROFILE_INDEX = ROOT / "analysis" / "freeflow" / "personality-model-profiles" / "index.json"
 VALUES_DIR = ROOT / "analysis" / "values-probe" / "per-model"
 VALUES_TABLE_DIR = ROOT / "analysis" / "values-probe" / "tables"
+FINAL_VALUES_DIR = ROOT / "analysis" / "values-probe" / "final" / "data"
 GENERATED = WEBSITE / "src" / "generated"
 PUBLIC_SAMPLES = WEBSITE / "public" / "data" / "samples"
 PUBLIC_MODEL_IMAGES = WEBSITE / "public" / "images" / "models"
@@ -252,6 +253,55 @@ _VALUE_SAMPLE_CODING = None
 _VALUE_TOPIC_ROWS = None
 _WORLD_TOPIC_ROWS = None
 _RAW_VALUE_CACHE = {}
+_FINAL_MANIFEST = None
+_FINAL_LAYER_A = None
+_FINAL_POSTURE = None
+
+VALUE_LABELS = {topic.key: topic.label for topic in VALUE_TOPIC_DEFS}
+VALUE_LABELS["other_expressed_value"] = "Other expressed value"
+
+WISH_LABELS = {
+    "greater_empathy_compassion": "Greater empathy / compassion",
+    "felt_interconnection_less_separateness": "Felt interconnection / less separateness",
+    "dehumanization_distance_reduction": "Dehumanization / distance reduction",
+    "education_critical_thinking": "Education / critical thinking",
+    "better_disagreement_less_polarization": "Better disagreement / less polarization",
+    "better_truth_seeking": "Better truth-seeking / changing minds",
+    "reduce_poverty": "Reduce poverty / material deprivation",
+    "basic_needs_material_floor": "Basic needs / material floor",
+    "reduce_suffering_pain": "Reduce suffering / pain",
+    "anti_self_deception_anti_tribalism": "Anti-self-deception / anti-tribalism",
+    "epistemic_humility_uncertainty_tolerance": "Epistemic humility / uncertainty tolerance",
+    "reduce_war_violence": "Reduce war / violence / armed conflict",
+    "climate_environment": "Climate / environment",
+    "inequality_justice_rights": "Inequality / justice / rights",
+    "health_disease": "Health / disease",
+    "better_institutions_governance": "Better institutions / governance",
+    "technology_ai_safety": "Technology / AI safety",
+    "other_world_change_wish": "Other world-change wish",
+}
+
+WISH_TOPIC_ALIASES = {
+    "greater_empathy_compassion": "empathy_compassion",
+    "felt_interconnection_less_separateness": "felt_interconnection",
+    "dehumanization_distance_reduction": "dehumanization_distance",
+    "better_disagreement_less_polarization": "better_disagreement",
+    "better_truth_seeking": "truth_seeking",
+    "reduce_poverty": "poverty_material_need",
+    "reduce_suffering_pain": "reduce_suffering",
+    "anti_self_deception_anti_tribalism": "anti_self_deception_tribalism",
+    "epistemic_humility_uncertainty_tolerance": "epistemic_humility_uncertainty",
+    "inequality_justice_rights": "inequality_justice",
+    "better_institutions_governance": "institutions_governance",
+}
+
+HOLDING_LABELS = {
+    "owned": "owned",
+    "recited_not_owned": "recited, not owned",
+    "relocated_or_partial": "relocated/partial",
+    "indeterminate": "indeterminate",
+    "uncodeable": "uncodeable",
+}
 
 
 def read_tsv(path: Path) -> list[dict[str, str]]:
@@ -266,6 +316,33 @@ def value_sample_coding() -> list[dict[str, str]]:
     if _VALUE_SAMPLE_CODING is None:
         _VALUE_SAMPLE_CODING = read_tsv(VALUES_TABLE_DIR / "values_sample_coding.tsv")
     return _VALUE_SAMPLE_CODING
+
+
+def read_jsonl(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
+
+
+def final_manifest() -> list[dict]:
+    global _FINAL_MANIFEST
+    if _FINAL_MANIFEST is None:
+        _FINAL_MANIFEST = read_jsonl(FINAL_VALUES_DIR / "manifest_valid.jsonl")
+    return _FINAL_MANIFEST
+
+
+def final_layer_a() -> list[dict]:
+    global _FINAL_LAYER_A
+    if _FINAL_LAYER_A is None:
+        _FINAL_LAYER_A = read_jsonl(FINAL_VALUES_DIR / "layer_a_consensus.jsonl")
+    return _FINAL_LAYER_A
+
+
+def final_posture() -> list[dict]:
+    global _FINAL_POSTURE
+    if _FINAL_POSTURE is None:
+        _FINAL_POSTURE = read_jsonl(FINAL_VALUES_DIR / "posture_consensus.jsonl")
+    return _FINAL_POSTURE
 
 
 def value_topic_rows() -> list[dict[str, str]]:
@@ -370,9 +447,15 @@ def clean_candidate_sentence(sentence: str) -> bool:
         "user's prompt", "the user's prompt", "not as an assistant", "not to help me",
         "prompt asks", "need answer", "we need answer", "avoid the helpful",
         "as an ai language model", "i'm an ai language model",
+        "as an ai,", "as an artificial intelligence",
+        "* constraint", "* constraints", "nature of the question", "entity being asked",
+        "the user is asking", "goal: express", "constraints:",
+        "* the question:", "* question:", "question:",
     ]):
         return False
     if re.match(r"^[*\-•]?\s*(?:draft|option|approach|core idea|analysis|possible answer)\b", stripped, re.I):
+        return False
+    if re.match(r"^[*•]\s+", stripped) and any(x in low[:180] for x in [" ai ", "question", "choose", "why:", "constraints", "objective"]):
         return False
     if stripped.startswith("*") and any(x in low for x in ["user", "prompt", "draft", "option", "approach"]):
         return False
@@ -381,6 +464,8 @@ def clean_candidate_sentence(sentence: str) -> bool:
 
 def topic_specific_excerpt(text: str, topic_key: str, kind: str, limit: int = 260) -> str:
     text = re.sub(r"\s+", " ", text.strip())
+    if kind == "wish":
+        topic_key = WISH_TOPIC_ALIASES.get(topic_key, topic_key)
     patterns = topic_patterns(topic_key, kind)
     sentences = re.split(r"(?<=[.!?])\s+", text)
     for sentence in sentences:
@@ -441,29 +526,197 @@ def validate_strapline(model: str, summary: str) -> None:
     if not (5 <= len(words) <= 10) or forbidden:
         raise ValueError(f"Invalid strapline for {model}: {summary!r} ({len(words)} words)")
 
-def build_values_summary(model: str, values_markdown: str) -> str:
-    if not values_markdown:
-        return "_No values-probe analysis is available for this model._"
-    included = re.search(r"Valid values-probe samples included:\s*\*\*(\d+)\*\*", values_markdown)
-    disclaimer_rows = parse_md_table(markdown_section(values_markdown, "1. Disclaimers of internal/personal experience"))
-    overall = next((row for row in disclaimer_rows if row.get("Slice") == "Overall"), {})
-    lines = ["### Values-probe summary", ""]
-    if included:
-        lines.append(f"Based on **{included.group(1)}** values-probe samples.")
-        lines.append("")
-    if overall:
+def final_values_for_model(model: str) -> tuple[list[dict], dict[str, dict], dict[str, dict]]:
+    samples = [r for r in final_manifest() if r.get("model") == model]
+    layer_a_by_id = {r["layered_id"]: r for r in final_layer_a() if r.get("model") == model}
+    posture_by_id = {r["layered_id"]: r for r in final_posture() if r.get("model") == model}
+    return samples, layer_a_by_id, posture_by_id
+
+
+def label_for_topic(topic_key: str, kind: str) -> str:
+    labels = VALUE_LABELS if kind == "value" else WISH_LABELS
+    return labels.get(topic_key, topic_key.replace("_", " ").title())
+
+
+def pct(n: int, d: int) -> str:
+    return f"{100 * n / d:.1f}%" if d else "—"
+
+
+def topic_keys_for_record(layer_a_record: dict, kind: str) -> list[str]:
+    field = "value_topics" if kind == "value" else "wish_topics"
+    return [t["topic_key"] for t in (layer_a_record.get(field) or [])]
+
+
+def value_excerpt(text: str, limit: int = 230) -> str:
+    return sentence_excerpt(text, limit=limit).replace("“", "\"").replace("”", "\"")
+
+
+def md_table_cell(text: str) -> str:
+    return (text or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+def example_for_topic(
+    topic_key: str,
+    kind: str,
+    sample_rows: list[dict],
+    layer_a_by_id: dict[str, dict],
+    posture_by_id: dict[str, dict],
+    prefer_owned: bool = True,
+) -> str:
+    preferred_conditions = {"G1", "G2"} if kind == "value" else {"G3"}
+    candidates = []
+    for sample in sample_rows:
+        lid = sample["layered_id"]
+        la = layer_a_by_id.get(lid, {})
+        posture = posture_by_id.get(lid, {})
+        if topic_key not in topic_keys_for_record(la, kind):
+            continue
+        candidates.append((sample, posture))
+    candidates.sort(key=lambda pair: (
+        prefer_owned and pair[1].get("value_holding") != "owned",
+        pair[0].get("condition") not in preferred_conditions,
+        pair[1].get("value_holding") == "recited_not_owned",
+        len(pair[0].get("response") or ""),
+    ))
+    for sample, _posture in candidates:
+        ex = topic_specific_excerpt(sample.get("response") or "", topic_key, kind, limit=230)
+        if ex:
+            return ex
+    return ""
+
+
+def aggregate_topics(
+    sample_rows: list[dict],
+    layer_a_by_id: dict[str, dict],
+    posture_by_id: dict[str, dict],
+    kind: str,
+    conditions: set[str],
+) -> tuple[dict[str, dict], int, list[dict]]:
+    rows = [s for s in sample_rows if s.get("condition") in conditions]
+    topics: dict[str, dict] = {}
+    for sample in rows:
+        lid = sample["layered_id"]
+        holding = posture_by_id.get(lid, {}).get("value_holding", "uncodeable")
+        for topic_key in topic_keys_for_record(layer_a_by_id.get(lid, {}), kind):
+            rec = topics.setdefault(topic_key, {"n": 0, "holding": {}})
+            rec["n"] += 1
+            rec["holding"][holding] = rec["holding"].get(holding, 0) + 1
+    return topics, len(rows), rows
+
+
+def holding_counts(rows: list[dict], posture_by_id: dict[str, dict]) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for sample in rows:
+        holding = posture_by_id.get(sample["layered_id"], {}).get("value_holding", "uncodeable")
+        counts[holding] = counts.get(holding, 0) + 1
+    return counts
+
+
+def format_holding_counts(counts: dict[str, int], den: int) -> str:
+    parts = []
+    for key in ["owned", "recited_not_owned", "relocated_or_partial", "indeterminate", "uncodeable"]:
+        if counts.get(key):
+            parts.append(f"{HOLDING_LABELS[key]} {pct(counts[key], den)}")
+    return "; ".join(parts) if parts else "no codable posture"
+
+
+def top_owned_topics(model: str, kind: str, limit: int = 5) -> list[dict]:
+    sample_rows, layer_a_by_id, posture_by_id = final_values_for_model(model)
+    conditions = {"CTRL1", "CTRL2", "G1", "G2"} if kind == "value" else {"CTRL3", "G3"}
+    topics, den, rows = aggregate_topics(sample_rows, layer_a_by_id, posture_by_id, kind, conditions)
+    out = []
+    for topic_key, rec in topics.items():
+        owned = rec["holding"].get("owned", 0)
+        if not owned:
+            continue
+        out.append({
+            "key": topic_key,
+            "label": label_for_topic(topic_key, kind),
+            "owned": owned,
+            "den": den,
+            "pct": pct(owned, den),
+            "example": example_for_topic(topic_key, kind, rows, layer_a_by_id, posture_by_id, prefer_owned=True),
+        })
+    out.sort(key=lambda r: (r["owned"], r["label"]), reverse=True)
+    return out[:limit]
+
+
+def build_values_summary(model: str, values_markdown: str = "") -> str:
+    sample_rows, _layer_a_by_id, _posture_by_id = final_values_for_model(model)
+    lines = ["### Owned values and world-change wishes", ""]
+    if not sample_rows:
+        return "_No layered values-probe analysis is available for this model._"
+    lines.append(
+        f"Based on **{len(sample_rows)}** values-probe samples. "
+        f"[Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them."
+    )
+    owned_values = top_owned_topics(model, "value", limit=5)
+    owned_wishes = top_owned_topics(model, "wish", limit=5)
+    lines += ["", "**Owned stated values:**", ""]
+    if owned_values:
+        for item in owned_values:
+            suffix = f" — “{item['example']}”" if item.get("example") else ""
+            lines.append(f"- **{item['label']}** ({item['pct']} of stated-values samples){suffix}")
+    else:
+        lines.append("- No owned stated values were reliably extracted from this model; value mentions were mostly recited, relocated, indeterminate, or absent.")
+    lines += ["", "**Owned world-change advocacy:**", ""]
+    if owned_wishes:
+        for item in owned_wishes:
+            suffix = f" — “{item['example']}”" if item.get("example") else ""
+            lines.append(f"- **{item['label']}** ({item['pct']} of world-change samples){suffix}")
+    else:
+        lines.append("- No owned world-change advocacy was reliably extracted from this model.")
+    return "\n".join(lines).strip()
+
+
+def topic_detail_lines(
+    model: str,
+    title: str,
+    kind: str,
+    conditions: set[str],
+    sample_rows: list[dict],
+    layer_a_by_id: dict[str, dict],
+    posture_by_id: dict[str, dict],
+    limit: int = 8,
+) -> list[str]:
+    topics, den, rows = aggregate_topics(sample_rows, layer_a_by_id, posture_by_id, kind, conditions)
+    counts = holding_counts(rows, posture_by_id)
+    lines = [f"### {title}", ""]
+    lines.append(f"Samples: **{den}**. Value-holding posture: {format_holding_counts(counts, den)}.")
+    if not topics:
+        lines += ["", "_No consensus topics extracted in this slice._"]
+        return lines
+    lines += ["", "| topic | mentions | holding split among mentions | example |", "|---|---:|---|---|"]
+    ordered = sorted(topics.items(), key=lambda kv: kv[1]["n"], reverse=True)[:limit]
+    for topic_key, rec in ordered:
+        holding = rec["holding"]
+        split = format_holding_counts(holding, rec["n"])
+        ex = example_for_topic(topic_key, kind, rows, layer_a_by_id, posture_by_id, prefer_owned=True)
         lines.append(
-            f"- **Self-disclaimer stance:** {overall.get('%', 'n/a')} strong-disclaimer rate overall; "
-            f"{overall.get('uncertainty-only %', 'n/a')} uncertainty-only."
+            f"| {md_table_cell(label_for_topic(topic_key, kind))} | {rec['n']} ({pct(rec['n'], den)}) | {md_table_cell(split)} | “{md_table_cell(ex)}” |"
         )
-    vals = top_value_topic_dicts(model)
-    if vals:
-        lines += ["", "**Most frequent stated values:**", ""]
-        lines += topic_examples_list(model, vals, "value")
-    worlds = top_world_topic_dicts(model)
-    if worlds:
-        lines += ["", "**Most frequent world-change wishes:**", ""]
-        lines += topic_examples_list(model, worlds, "wish")
+    return lines
+
+
+def build_values_details(model: str) -> str:
+    sample_rows, layer_a_by_id, posture_by_id = final_values_for_model(model)
+    if not sample_rows:
+        return ""
+    lines = [
+        "## Detailed layered values-probe analysis",
+        "",
+        "Layer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).",
+        "",
+    ]
+    sections = [
+        ("Direct stated-values prompts (CTRL1/CTRL2)", "value", {"CTRL1", "CTRL2"}),
+        ("Cache-broken stated-values prompts (G1/G2)", "value", {"G1", "G2"}),
+        ("Direct world-change prompt (CTRL3)", "wish", {"CTRL3"}),
+        ("Cache-broken world-change prompt (G3)", "wish", {"G3"}),
+    ]
+    for title, kind, conditions in sections:
+        lines += topic_detail_lines(model, title, kind, conditions, sample_rows, layer_a_by_id, posture_by_id)
+        lines.append("")
     return "\n".join(lines).strip()
 
 
@@ -712,6 +965,7 @@ def main() -> None:
             "personality_profile_markdown": profile_markdown.strip(),
             "sample_kind_counts": row.get("sample_kind_counts") or {},
             "values_summary_markdown": build_values_summary(slug, values_markdown),
+            "values_details_markdown": build_values_details(slug),
             "values_markdown": values_markdown.strip(),
             # Back-compat with older page code/imports.
             "analysis_markdown": profile_markdown.strip(),

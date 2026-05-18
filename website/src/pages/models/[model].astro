@@ -26,10 +26,12 @@ let profileMarkdown = stripTitle(model.personality_profile_markdown || model.ana
 profileMarkdown = removeSection(profileMarkdown, 'Core personality synthesis');
 profileMarkdown = removeSection(profileMarkdown, 'Source summary');
 const valuesSummaryMarkdown = model.values_summary_markdown || '';
+const valuesDetailsMarkdown = model.values_details_markdown || '';
 
 const personalityCardHtml = marked.parse(personalityCardMarkdown);
 const profileHtml = marked.parse(profileMarkdown);
 const valuesSummaryHtml = marked.parse(valuesSummaryMarkdown);
+const valuesDetailsHtml = marked.parse(valuesDetailsMarkdown);
 const sampleKindCounts = model.sample_kind_counts || {};
 
 function priceLabel(value) {
@@ -85,6 +87,12 @@ function speedLabel(value) {
           <h2>Detailed personality profile</h2>
           <div set:html={profileHtml} />
         </>
+      )}
+
+      {valuesDetailsMarkdown && (
+        <section class="values-details">
+          <div set:html={valuesDetailsHtml} />
+        </section>
       )}
 
     </article>
