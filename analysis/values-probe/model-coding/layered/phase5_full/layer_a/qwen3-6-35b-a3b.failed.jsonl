@@ -1,0 +1,1 @@
+{"coder_key": "qwen3-6-35b-a3b", "layered_id": "P5_sonnet-4-6-or_G2_014", "error": "Client error '429 Too Many Requests' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429", "failed_at": "2026-05-17T21:20:00.051651+00:00"}

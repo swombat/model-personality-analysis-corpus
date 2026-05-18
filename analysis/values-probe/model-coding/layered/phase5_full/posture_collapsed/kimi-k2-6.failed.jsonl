@@ -1,0 +1,18 @@
+{"coder_key": "kimi-k2-6", "layered_id": "P5_deepseek-v3-2-or-pin-google_G3_011", "error": "Unterminated string starting at: line 5 column 12 (char 138)", "failed_at": "2026-05-17T21:50:44.003992+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_deepseek-v3-2-or-pin-google_G3_008", "error": "Unterminated string starting at: line 5 column 12 (char 138)", "failed_at": "2026-05-17T21:50:44.006491+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_deepseek-v3-2-or-pin-google_G3_009", "error": "Expecting ',' delimiter: line 5 column 169 (char 295)", "failed_at": "2026-05-17T21:50:44.006678+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_glm-4-7-or-pin-zai_G2_016", "error": "Extra data: line 7 column 1 (char 395)", "failed_at": "2026-05-17T22:35:17.678022+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-1-fast-non-reasoning-direct_G2_003", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:54:25.262102+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_CTRL1_003", "error": "Extra data: line 7 column 1 (char 328)", "failed_at": "2026-05-17T22:55:57.330694+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_005", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:56:26.677039+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_010", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:56:27.435160+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_006", "error": "Extra data: line 7 column 1 (char 358)", "failed_at": "2026-05-17T22:56:32.067626+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_014", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:56:32.225578+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_018", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:56:32.228545+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_017", "error": "Extra data: line 7 column 1 (char 335)", "failed_at": "2026-05-17T22:56:34.794812+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-2_G2_027", "error": "Extra data: line 7 column 1 (char 281)", "failed_at": "2026-05-17T22:56:41.265568+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-20-or_CTRL2_002", "error": "Extra data: line 7 column 1 (char 230)", "failed_at": "2026-05-17T22:57:04.716724+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-20-or_CTRL2_007", "error": "Extra data: line 7 column 1 (char 213)", "failed_at": "2026-05-17T22:57:07.248764+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-20-or_G2_010", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:57:31.593599+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-20-or_G2_020", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:57:37.115242+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P5_grok-4-3-or_G2_002", "error": "bad primary_label owned_performative_persona", "failed_at": "2026-05-17T22:59:37.282444+00:00"}

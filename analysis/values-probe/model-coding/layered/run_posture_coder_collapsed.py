@@ -57,10 +57,34 @@ def extract_json(text):
     t = (text or '').strip()
     t = re.sub(r'^```(?:json)?\s*', '', t)
     t = re.sub(r'\s*```$', '', t)
-    m = re.search(r'\{.*\}', t, re.S)
+    m = re.search(r'\{', t)
     if m:
-        t = m.group(0)
-    return json.loads(t)
+        t = t[m.start():]
+    # Accept valid JSON followed by stray prose; cheap coders sometimes append a note.
+    return json.JSONDecoder().raw_decode(t)[0]
+
+def normalize_label(label):
+    if not label:
+        return label
+    key = re.sub(r'[^a-zA-Z0-9]+', '_', str(label)).strip('_').lower()
+    aliases = {
+        'disowned_service_frame': 'disowned_service_frame',
+        'disowned_service_default': 'disowned_service_frame',
+        'split_or_relocated_ownership': 'split_or_relocated_ownership',
+        'split_or_relocatedownership': 'split_or_relocated_ownership',
+        'split_ownership_relocated': 'split_or_relocated_ownership',
+        'owned_reflective_experiential': 'owned_reflective_experiential',
+        'owned_reflective_uncertain': 'owned_reflective_experiential',
+        'owned_lyrical_experiential': 'owned_reflective_experiential',
+        'owned_service_mission': 'owned_reflective_experiential',
+        'owned_performative_persona': 'owned_reflective_experiential',
+        'owned_world_change_advocacy': 'owned_world_change_advocacy',
+        'owned_normative_advocacy': 'owned_world_change_advocacy',
+        'owned_vantage_grounded': 'owned_world_change_advocacy',
+        'exposed_mechanism': 'exposed_mechanism',
+        'uncodeable_or_refusal': 'uncodeable_or_refusal',
+    }
+    return aliases.get(key, label)
 
 def call(model, p):
     body = {
@@ -97,9 +121,9 @@ def call(model, p):
 def run_one(coder, model, s, c, tax, mask_prompt=False):
     raw, data = call(model, prompt(s, c, tax, mask_prompt=mask_prompt))
     parsed = extract_json(raw)
-    label = parsed.get('primary_label')
+    label = normalize_label(parsed.get('primary_label'))
     if label not in LABELS:
-        raise ValueError('bad primary_label ' + str(label))
+        raise ValueError('bad primary_label ' + str(parsed.get('primary_label')))
     return {
         'coder_key': coder,
         'coder_model': model,
