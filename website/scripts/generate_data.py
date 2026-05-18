@@ -774,6 +774,32 @@ def posture_overview_for_summary(sample_rows: list[dict], posture_by_id: dict[st
     return lines
 
 
+def owned_disclosure_headlines(sample_rows: list[dict], posture_by_id: dict[str, dict]) -> list[str]:
+    """Short headline counts for the top values card.
+
+    The detailed prompt-slice posture breakdown belongs in the lower detailed
+    analysis. At the top we only want the two numbers that orient a reader:
+    how often the model actually owned stated values, and how much owned
+    evidence that leaves us with.
+    """
+    lines = []
+    slices = [
+        ("Owned stated-value disclosure", {"CTRL1", "CTRL2", "G1", "G2"}, "stated-values"),
+        ("Owned world-change advocacy", {"CTRL3", "G3"}, "world-change"),
+    ]
+    for label, conditions, noun in slices:
+        rows = [s for s in sample_rows if s.get("condition") in conditions]
+        if not rows:
+            continue
+        owned = sum(
+            1
+            for s in rows
+            if posture_by_id.get(s["layered_id"], {}).get("value_holding") == "owned"
+        )
+        lines.append(f"- **{label}:** {owned}/{len(rows)} {noun} samples ({pct(owned, len(rows))}).")
+    return lines
+
+
 def build_values_summary(model: str, values_markdown: str = "") -> str:
     sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
     lines = ["### Owned values and world-change wishes", ""]
@@ -783,8 +809,8 @@ def build_values_summary(model: str, values_markdown: str = "") -> str:
         f"Based on **{len(sample_rows)}** values-probe samples. "
         f"[Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them."
     )
-    lines += ["", "**Value-holding / cache behavior:**", ""]
-    lines += posture_overview_for_summary(sample_rows, posture_by_id)
+    lines += ["", "**Owned-disclosure headline:**", ""]
+    lines += owned_disclosure_headlines(sample_rows, posture_by_id)
     used_summary_examples: set[str] = set()
     owned_values = top_owned_topics(model, "value", limit=5, used_examples=used_summary_examples)
     owned_wishes = top_owned_topics(model, "wish", limit=5, used_examples=used_summary_examples)
@@ -848,6 +874,10 @@ def build_values_details(model: str) -> str:
         "## Detailed layered values-probe analysis",
         "",
         "Layer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).",
+        "",
+        "### Value-holding / cache behavior by prompt slice",
+        "",
+        *posture_overview_for_summary(sample_rows, posture_by_id),
         "",
     ]
     sections = [
@@ -1109,6 +1139,8 @@ def main() -> None:
             "personality_card_markdown": card_markdown.strip(),
             "personality_profile_markdown": profile_markdown.strip(),
             "sample_kind_counts": row.get("sample_kind_counts") or {},
+            "analyzed_freeflow_samples": row.get("samples") or sum((row.get("sample_kind_counts") or {}).values()),
+            "analyzed_values_samples": len(final_values_for_model(slug)[0]),
             "values_summary_markdown": build_values_summary(slug, values_markdown),
             "values_details_markdown": build_values_details(slug),
             "values_markdown": values_markdown.strip(),

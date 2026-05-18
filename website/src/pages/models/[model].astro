@@ -103,8 +103,8 @@ function speedLabel(value) {
         <div class="table-list">
           <div><b>Lab</b><br /><span>{model.lab}</span></div>
           <div><b>Family</b><br /><span>{model.family}</span></div>
-          <div><b>Published freeflow samples</b><br /><span>{model.published_freeflow_samples.toLocaleString()}</span></div>
-          <div><b>Published values samples</b><br /><span>{model.published_values_samples.toLocaleString()}</span></div>
+          <div><b>Analyzed freeflow samples</b><br /><span>{(model.analyzed_freeflow_samples ?? model.published_freeflow_samples).toLocaleString()}</span></div>
+          <div><b>Layered values samples</b><br /><span>{(model.analyzed_values_samples ?? model.published_values_samples).toLocaleString()}</span></div>
         </div>
       </div>
       {Object.keys(sampleKindCounts).length > 0 && (
