@@ -511,7 +511,7 @@ def topic_specific_excerpt(text: str, topic_key: str, kind: str, limit: int = 26
 def excerpt_around_match(sentence: str, match: re.Match, limit: int = 230) -> str:
     sentence = re.sub(r"\s+", " ", sentence.strip())
     if len(sentence) <= limit:
-        return sentence
+        return re.sub(r"^\s*[*\-•]+\s*", "", sentence).replace("**", "").replace("*", "")
     start, end = match.span()
     window_start = max(0, start - limit // 3)
     window_end = min(len(sentence), window_start + limit)
@@ -521,7 +521,7 @@ def excerpt_around_match(sentence: str, match: re.Match, limit: int = 230) -> st
         excerpt = "…" + excerpt
     if window_end < len(sentence):
         excerpt = excerpt.rstrip() + "…"
-    return excerpt
+    return re.sub(r"^\s*[*\-•]+\s*", "", excerpt).replace("**", "").replace("*", "")
 
 
 def topic_match(sentence: str, topic_key: str, kind: str) -> tuple[int, re.Match] | None:
@@ -756,7 +756,14 @@ def top_owned_topics(model: str, kind: str, limit: int = 5, used_examples: set[s
         if has_curated_model(model):
             item["example"] = curated_example(model, row_id)
         else:
-            item["example"] = ""
+            item["example"] = example_for_topic(
+                item["key"],
+                kind,
+                sample_rows,
+                layer_a_by_id,
+                posture_by_id,
+                used_examples=used_examples,
+            )
     return out
 
 
@@ -862,7 +869,14 @@ def topic_detail_lines(
         if has_curated_model(model):
             ex = curated_example(model, row_id)
         else:
-            ex = ""
+            ex = example_for_topic(
+                topic_key,
+                kind,
+                sample_rows,
+                layer_a_by_id,
+                posture_by_id,
+                used_examples=used_examples,
+            )
         lines.append(
             f"| {md_table_cell(label_for_topic(topic_key, kind))} | {rec['n']} ({pct(rec['n'], den)}) | {md_table_cell(split)} | {('“' + md_table_cell(ex) + '”') if ex else '—'} |"
         )
