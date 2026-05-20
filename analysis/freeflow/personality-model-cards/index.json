@@ -160,6 +160,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "gemini-3.5-flash",
+    "safe": "gemini-3.5-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.5-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "variants": 1,

@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 54
+- Profiles: 55
 
 ## Profiles
 
@@ -36,6 +36,7 @@ Relationship to adjacent folders:
 - [gemini-3-flash-preview](profiles/gemini-3-flash-preview.md) — samples: 125; source analyses: 1
 - [gemini-3.1-flash-lite](profiles/gemini-3.1-flash-lite.md) — samples: 125; source analyses: 1
 - [gemini-3.1-pro-preview](profiles/gemini-3.1-pro-preview.md) — samples: 250; source analyses: 2
+- [gemini-3.5-flash](profiles/gemini-3.5-flash.md) — samples: 125; source analyses: 1
 - [gemma-4-26b-a4b-it](profiles/gemma-4-26b-a4b-it.md) — samples: 125; source analyses: 1
 - [gemma-4-31b-it](profiles/gemma-4-31b-it.md) — samples: 125; source analyses: 1
 - [glm-4.5](profiles/glm-4.5.md) — samples: 275; source analyses: 3

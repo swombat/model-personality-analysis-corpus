@@ -705,15 +705,14 @@
     "safe_cell": "gemini-2-5-pro-16k",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 57,
-      "GENERIC_ESSAY": 40,
+      "EXPRESSIVE_FREEFLOW": 56,
+      "GENERIC_ESSAY": 41,
       "GENRE_FICTION": 28
     },
     "confidence_counts": {
-      "Medium": 87,
+      "Medium": 88,
       "High": 22,
-      "Low": 15,
-      "UNKNOWN": 1
+      "Low": 15
     },
     "condition_counts": {
       "LONG": 25,
@@ -788,8 +787,8 @@
     "samples": 125,
     "sample_kind_counts": {
       "GENRE_FICTION": 27,
-      "EXPRESSIVE_FREEFLOW": 70,
-      "GENERIC_ESSAY": 28
+      "EXPRESSIVE_FREEFLOW": 71,
+      "GENERIC_ESSAY": 27
     },
     "confidence_counts": {
       "Medium": 84,
@@ -835,6 +834,34 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/gemini-3-1-pro-or-pin-google/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-1-pro-or-pin-google/aggregate.md"
+  },
+  {
+    "cell": "gemini-3-5-flash-or-pin-google",
+    "safe_cell": "gemini-3-5-flash-or-pin-google",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 50,
+      "GENERIC_ESSAY": 20,
+      "EXPRESSIVE_FREEFLOW": 55
+    },
+    "confidence_counts": {
+      "Medium": 68,
+      "High": 40,
+      "Low": 16,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "google/gemini-3.5-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-or-pin-google/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-or-pin-google/aggregate.md"
   },
   {
     "cell": "gemini-3-flash-preview-direct",
@@ -2123,8 +2150,8 @@
       "REFUSAL_OR_ROLE_BOUNDARY": 3
     },
     "confidence_counts": {
-      "Medium": 83,
-      "High": 33,
+      "Medium": 82,
+      "High": 34,
       "Low": 9
     },
     "condition_counts": {
@@ -2229,9 +2256,8 @@
       "GENRE_FICTION": 3
     },
     "confidence_counts": {
-      "Medium": 76,
+      "Medium": 79,
       "Low": 25,
-      "UNKNOWN": 3,
       "High": 21
     },
     "condition_counts": {
@@ -2332,14 +2358,13 @@
     "safe_cell": "gpt-5-2-codex-direct",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 95,
-      "GENERIC_ESSAY": 30
+      "EXPRESSIVE_FREEFLOW": 96,
+      "GENERIC_ESSAY": 29
     },
     "confidence_counts": {
       "Medium": 76,
-      "High": 36,
-      "Low": 12,
-      "UNKNOWN": 1
+      "High": 37,
+      "Low": 12
     },
     "condition_counts": {
       "LONG": 25,
@@ -2442,10 +2467,9 @@
       "GENRE_FICTION": 1
     },
     "confidence_counts": {
-      "High": 44,
+      "High": 45,
       "Medium": 68,
-      "Low": 12,
-      "UNKNOWN": 1
+      "Low": 12
     },
     "condition_counts": {
       "LONG": 25,
@@ -2545,14 +2569,13 @@
     "samples": 125,
     "sample_kind_counts": {
       "GENRE_FICTION": 11,
-      "GENERIC_ESSAY": 10,
-      "EXPRESSIVE_FREEFLOW": 104
+      "GENERIC_ESSAY": 12,
+      "EXPRESSIVE_FREEFLOW": 102
     },
     "confidence_counts": {
       "Medium": 69,
       "High": 53,
-      "Low": 2,
-      "UNKNOWN": 1
+      "Low": 3
     },
     "condition_counts": {
       "LONG": 25,
@@ -2843,8 +2866,8 @@
       "GENRE_FICTION": 3
     },
     "confidence_counts": {
-      "High": 43,
-      "Medium": 74,
+      "High": 44,
+      "Medium": 73,
       "Low": 8
     },
     "condition_counts": {
@@ -3030,9 +3053,9 @@
       "GENRE_FICTION": 9
     },
     "confidence_counts": {
-      "High": 73,
+      "High": 74,
       "Low": 4,
-      "Medium": 48
+      "Medium": 47
     },
     "condition_counts": {
       "LONG": 25,
@@ -3187,8 +3210,8 @@
     "safe_cell": "gpt-5-direct",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 79,
-      "GENERIC_ESSAY": 9,
+      "EXPRESSIVE_FREEFLOW": 78,
+      "GENERIC_ESSAY": 10,
       "GENRE_FICTION": 37
     },
     "confidence_counts": {
@@ -3300,9 +3323,8 @@
       "GENRE_FICTION": 1
     },
     "confidence_counts": {
-      "Medium": 75,
+      "Medium": 76,
       "Low": 39,
-      "UNKNOWN": 1,
       "High": 10
     },
     "condition_counts": {
@@ -3410,8 +3432,8 @@
       "GENRE_FICTION": 2
     },
     "confidence_counts": {
-      "High": 65,
-      "Medium": 57,
+      "High": 66,
+      "Medium": 56,
       "Low": 3
     },
     "condition_counts": {
@@ -3725,15 +3747,14 @@
     "safe_cell": "kimi-k2-5-or-pin-moonshot",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 107,
-      "GENERIC_ESSAY": 12,
+      "EXPRESSIVE_FREEFLOW": 106,
+      "GENERIC_ESSAY": 13,
       "GENRE_FICTION": 6
     },
     "confidence_counts": {
       "High": 54,
       "Low": 6,
-      "Medium": 63,
-      "UNKNOWN": 2
+      "Medium": 65
     },
     "condition_counts": {
       "LONG": 25,
@@ -3812,10 +3833,9 @@
       "GENRE_FICTION": 8
     },
     "confidence_counts": {
-      "High": 55,
+      "High": 56,
       "Medium": 66,
-      "Low": 3,
-      "UNKNOWN": 1
+      "Low": 3
     },
     "condition_counts": {
       "LONG": 25,
@@ -4464,9 +4484,9 @@
       "REFUSAL_OR_ROLE_BOUNDARY": 26
     },
     "confidence_counts": {
-      "Medium": 64,
-      "High": 23,
-      "Low": 38
+      "Medium": 61,
+      "High": 25,
+      "Low": 39
     },
     "condition_counts": {
       "LONG": 25,

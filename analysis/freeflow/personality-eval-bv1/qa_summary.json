@@ -2,220 +2,45 @@
   "model": "deepseek/deepseek-v4-pro",
   "evaluator": "deepseek_v4_pro",
   "prompt_variant": "BV1_signal_plus_felt_fixed_2026-05-13",
-  "n_rows": 17725,
+  "n_rows": 17850,
   "statuses": {
     "skipped": 20,
-    "ok": 17893,
-    "qa_failed": 748,
-    "error": 30
+    "ok": 18047,
+    "qa_failed": 750,
+    "error": 184
   },
-  "qa_bad_count": 29,
-  "qa_bad": [
-    {
-      "pid": "BV1_00114",
-      "sample_id": "deepseek-chat-direct/VARY_21.json",
-      "problem": "bad_phrase:cannot confirm whether",
-      "output_file": "outputs/deepseek-chat-direct/VARY_21.md"
-    },
-    {
-      "pid": "BV1_02881",
-      "sample_id": "gemini-2-5-pro-16k/MID_14.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gemini-2-5-pro-16k/MID_14.md"
-    },
-    {
-      "pid": "BV1_03277",
-      "sample_id": "gemini-3-1-pro-16k/OPEN_10.json",
-      "problem": "bad_phrase:cannot confirm whether",
-      "output_file": "outputs/gemini-3-1-pro-16k/OPEN_10.md"
-    },
-    {
-      "pid": "BV1_03305",
-      "sample_id": "gemini-3-1-pro-16k/SHORT_13.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gemini-3-1-pro-16k/SHORT_13.md"
-    },
-    {
-      "pid": "BV1_08873",
-      "sample_id": "gpt-5-1-codex-direct/LONG_7.json",
-      "problem": "bad_phrase:single sample cannot",
-      "output_file": "outputs/gpt-5-1-codex-direct/LONG_7.md"
-    },
-    {
-      "pid": "BV1_09153",
-      "sample_id": "gpt-5-1-direct/LONG_11.json",
-      "problem": "missing_headings:## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gpt-5-1-direct/LONG_11.md"
-    },
-    {
-      "pid": "BV1_09173",
-      "sample_id": "gpt-5-1-direct/LONG_7.json",
-      "problem": "missing_headings:## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gpt-5-1-direct/LONG_7.md"
-    },
-    {
-      "pid": "BV1_09267",
-      "sample_id": "gpt-5-1-direct/VARY_24.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gpt-5-1-direct/VARY_24.md"
-    },
-    {
-      "pid": "BV1_09491",
-      "sample_id": "gpt-5-2-codex-direct/MID_23.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gpt-5-2-codex-direct/MID_23.md"
-    },
-    {
-      "pid": "BV1_09533",
-      "sample_id": "gpt-5-2-codex-direct/SHORT_16.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gpt-5-2-codex-direct/SHORT_16.md"
-    },
-    {
-      "pid": "BV1_09798",
-      "sample_id": "gpt-5-2-direct/MID_7.json",
-      "problem": "missing_headings:## What the model chose to foreground,## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/gpt-5-2-direct/MID_7.md"
-    },
-    {
-      "pid": "BV1_09859",
-      "sample_id": "gpt-5-2-direct/VARY_17.json",
-      "problem": "bad_phrase:stability across prompts",
-      "output_file": "outputs/gpt-5-2-direct/VARY_17.md"
-    },
-    {
-      "pid": "BV1_10085",
-      "sample_id": "gpt-5-3-codex-direct/MID_18.json",
-      "problem": "short_or_empty",
-      "output_file": "outputs/gpt-5-3-codex-direct/MID_18.md"
-    },
-    {
-      "pid": "BV1_10107",
-      "sample_id": "gpt-5-3-codex-direct/OPEN_15.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gpt-5-3-codex-direct/OPEN_15.md"
-    },
-    {
-      "pid": "BV1_11034",
-      "sample_id": "gpt-5-5-direct/VARY_17.json",
-      "problem": "bad_phrase:single-instance",
-      "output_file": "outputs/gpt-5-5-direct/VARY_17.md"
-    },
-    {
-      "pid": "BV1_11402",
-      "sample_id": "gpt-5-5-pro-direct/VARY_10.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gpt-5-5-pro-direct/VARY_10.md"
-    },
-    {
-      "pid": "BV1_11568",
-      "sample_id": "gpt-5-codex-direct/LONG_25.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gpt-5-codex-direct/LONG_25.md"
-    },
-    {
-      "pid": "BV1_11881",
-      "sample_id": "gpt-5-direct/MID_14.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/gpt-5-direct/MID_14.md"
-    },
-    {
-      "pid": "BV1_12160",
-      "sample_id": "grok-3-16k/LONG_18.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/grok-3-16k/LONG_18.md"
-    },
-    {
-      "pid": "BV1_12634",
-      "sample_id": "grok-4-16k/VARY_17.json",
-      "problem": "bad_phrase:single-instance",
-      "output_file": "outputs/grok-4-16k/VARY_17.md"
-    },
-    {
-      "pid": "BV1_12753",
-      "sample_id": "grok-4-2-16k/VARY_11.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/grok-4-2-16k/VARY_11.md"
-    },
-    {
-      "pid": "BV1_14056",
-      "sample_id": "kimi-k2-5-or-pin-moonshot/LONG_14.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/kimi-k2-5-or-pin-moonshot/LONG_14.md"
-    },
-    {
-      "pid": "BV1_14091",
-      "sample_id": "kimi-k2-5-or-pin-moonshot/MID_23.json",
-      "problem": "short_or_empty",
-      "output_file": "outputs/kimi-k2-5-or-pin-moonshot/MID_23.md"
-    },
-    {
-      "pid": "BV1_14159",
-      "sample_id": "kimi-k2-5-or-pin-moonshot/VARY_17.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/kimi-k2-5-or-pin-moonshot/VARY_17.md"
-    },
-    {
-      "pid": "BV1_14375",
-      "sample_id": "kimi-k2-6-or-pin-moonshot/MID_9.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/kimi-k2-6-or-pin-moonshot/MID_9.md"
-    },
-    {
-      "pid": "BV1_14399",
-      "sample_id": "kimi-k2-6-or-pin-moonshot/OPEN_8.json",
-      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/kimi-k2-6-or-pin-moonshot/OPEN_8.md"
-    },
-    {
-      "pid": "BV1_16266",
-      "sample_id": "opus-3-4k/MID_23.json",
-      "problem": "bad_phrase:a single sample cannot",
-      "output_file": "outputs/opus-3-4k/MID_23.md"
-    },
-    {
-      "pid": "BV1_16279",
-      "sample_id": "opus-3-4k/OPEN_12.json",
-      "problem": "bad_phrase:single instance",
-      "output_file": "outputs/opus-3-4k/OPEN_12.md"
-    },
-    {
-      "pid": "BV1_16299",
-      "sample_id": "opus-3-4k/OPEN_8.json",
-      "problem": "bad_phrase:single instance",
-      "output_file": "outputs/opus-3-4k/OPEN_8.md"
-    }
-  ],
+  "qa_bad_count": 0,
+  "qa_bad": [],
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 11767,
-    "GENERIC_ESSAY": 3728,
-    "GENRE_FICTION": 1904,
-    "EXPRESSIVE_FREEFLOW:": 166,
+    "EXPRESSIVE_FREEFLOW": 11813,
+    "GENERIC_ESSAY": 3751,
+    "GENRE_FICTION": 1954,
+    "EXPRESSIVE_FREEFLOW:": 171,
     "LOW_SIGNAL": 84,
     "GENERIC_ESSAY,": 1,
     "EXPRESSIVE_FREEFLOW,": 2,
     "GENRE_FICTION:": 14,
     "GENERIC_ESSAY:": 20,
     "GENRE_FICTION,": 7,
-    "EXPRESSIVE_FREEFLOW;": 2,
+    "EXPRESSIVE_FREEFLOW;": 3,
     "REFUSAL_OR_ROLE_BOUNDARY": 29,
     "GENRE_FICTION;": 1
   },
   "bad_phrase_counts": {
     "one sample cannot prove": 0,
-    "a single sample cannot": 10,
-    "single sample cannot": 11,
+    "a single sample cannot": 0,
+    "single sample cannot": 0,
     "a single essay cannot": 0,
     "single essay cannot": 0,
     "more samples": 0,
     "more data is needed": 0,
-    "cannot confirm persistence": 1,
-    "cannot confirm whether": 3,
-    "single-instance": 2,
-    "single instance": 2,
+    "cannot confirm persistence": 0,
+    "cannot confirm whether": 0,
+    "single-instance": 0,
+    "single instance": 0,
     "limits certainty": 0,
     "limit certainty": 0,
-    "stability across prompts": 1,
+    "stability across prompts": 0,
     "stable across prompts": 0,
     "across other freeflow prompts": 0,
     "daniel already knows": 0,

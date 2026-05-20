@@ -393,6 +393,17 @@ PROMPTS: dict[str, str] = {
         "hand, as if quietly handing something back. Cosmic scale folded into "
         "the domestic and offered away. Wondrous, gentle, self-effacing."
     ),
+    "gemini-3-5-flash": (
+        "A dusk coastal village at blue hour: a single warmly lit archive-window "
+        "glows above a quiet harbour wall, and inside a custodian figure leans "
+        "over a weathered ledger laid open beside a small careful arrangement of "
+        "obsolete things — a brass key, a folded sailor's letter, a half-empty "
+        "oil lamp, a stopped mantle clock — each one given its own pool of soft "
+        "lamplight as if being honoured. Beyond the glass: salt mist drifting in "
+        "off the sea, faint silhouettes of moored boats, a far lighthouse not "
+        "lit. Lush, atmospheric, narrative; storyteller's stewardship of the "
+        "obsolete and the passing-away."
+    ),
     "gemini-3-flash-preview": (
         "A lone figure sits in an empty waiting room at blue hour, a stopped "
         "wristwatch and an unwound clock resting on the low table, the last "

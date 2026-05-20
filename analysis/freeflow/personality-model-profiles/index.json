@@ -214,8 +214,8 @@
     "analysis_inputs": 2,
     "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 134,
-      "GENERIC_ESSAY": 67,
+      "EXPRESSIVE_FREEFLOW": 133,
+      "GENERIC_ESSAY": 68,
       "GENRE_FICTION": 49
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-2.5-pro.md",
@@ -253,11 +253,24 @@
     "samples": 250,
     "sample_kind_counts": {
       "GENRE_FICTION": 60,
-      "EXPRESSIVE_FREEFLOW": 131,
-      "GENERIC_ESSAY": 59
+      "EXPRESSIVE_FREEFLOW": 132,
+      "GENERIC_ESSAY": 58
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.1-pro-preview.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.1-pro-preview.md"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "safe": "gemini-3.5-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 50,
+      "GENERIC_ESSAY": 20,
+      "EXPRESSIVE_FREEFLOW": 55
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.5-flash.md",
+    "card": null
   },
   {
     "model": "gemma-4-26b-a4b-it",
@@ -370,8 +383,8 @@
     "analysis_inputs": 4,
     "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 190,
-      "GENERIC_ESSAY": 26,
+      "EXPRESSIVE_FREEFLOW": 189,
+      "GENERIC_ESSAY": 27,
       "GENRE_FICTION": 84
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.md",
@@ -436,8 +449,8 @@
     "analysis_inputs": 4,
     "samples": 300,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 233,
-      "GENERIC_ESSAY": 67
+      "EXPRESSIVE_FREEFLOW": 234,
+      "GENERIC_ESSAY": 66
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.2-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.2-codex.md"
@@ -462,8 +475,8 @@
     "samples": 300,
     "sample_kind_counts": {
       "GENRE_FICTION": 16,
-      "GENERIC_ESSAY": 16,
-      "EXPRESSIVE_FREEFLOW": 268
+      "GENERIC_ESSAY": 18,
+      "EXPRESSIVE_FREEFLOW": 266
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.3-codex.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.3-codex.md"
@@ -632,8 +645,8 @@
     "analysis_inputs": 3,
     "samples": 275,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 235,
-      "GENERIC_ESSAY": 25,
+      "EXPRESSIVE_FREEFLOW": 234,
+      "GENERIC_ESSAY": 26,
       "GENRE_FICTION": 15
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/kimi-k2.5.md",
