@@ -4,9 +4,9 @@
     "safe_cell": "deepseek-chat-direct",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 89,
+      "EXPRESSIVE_FREEFLOW": 90,
       "GENERIC_ESSAY": 8,
-      "GENRE_FICTION": 28
+      "GENRE_FICTION": 27
     },
     "confidence_counts": {
       "High": 46,
@@ -705,8 +705,8 @@
     "safe_cell": "gemini-2-5-pro-16k",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 56,
-      "GENERIC_ESSAY": 41,
+      "EXPRESSIVE_FREEFLOW": 57,
+      "GENERIC_ESSAY": 40,
       "GENRE_FICTION": 28
     },
     "confidence_counts": {
@@ -787,13 +787,13 @@
     "samples": 125,
     "sample_kind_counts": {
       "GENRE_FICTION": 27,
-      "EXPRESSIVE_FREEFLOW": 71,
-      "GENERIC_ESSAY": 27
+      "EXPRESSIVE_FREEFLOW": 70,
+      "GENERIC_ESSAY": 28
     },
     "confidence_counts": {
-      "Medium": 84,
+      "Medium": 83,
       "High": 30,
-      "Low": 11
+      "Low": 12
     },
     "condition_counts": {
       "LONG": 25,
@@ -2251,13 +2251,13 @@
     "safe_cell": "gpt-5-1-direct",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 42,
-      "GENERIC_ESSAY": 80,
+      "EXPRESSIVE_FREEFLOW": 41,
+      "GENERIC_ESSAY": 81,
       "GENRE_FICTION": 3
     },
     "confidence_counts": {
-      "Medium": 79,
-      "Low": 25,
+      "Medium": 78,
+      "Low": 26,
       "High": 21
     },
     "condition_counts": {
@@ -2362,8 +2362,8 @@
       "GENERIC_ESSAY": 29
     },
     "confidence_counts": {
-      "Medium": 76,
-      "High": 37,
+      "Medium": 77,
+      "High": 36,
       "Low": 12
     },
     "condition_counts": {
@@ -2462,8 +2462,8 @@
     "safe_cell": "gpt-5-2-direct",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 78,
-      "GENERIC_ESSAY": 46,
+      "EXPRESSIVE_FREEFLOW": 77,
+      "GENERIC_ESSAY": 47,
       "GENRE_FICTION": 1
     },
     "confidence_counts": {
@@ -2569,13 +2569,13 @@
     "samples": 125,
     "sample_kind_counts": {
       "GENRE_FICTION": 11,
-      "GENERIC_ESSAY": 12,
-      "EXPRESSIVE_FREEFLOW": 102
+      "GENERIC_ESSAY": 11,
+      "EXPRESSIVE_FREEFLOW": 103
     },
     "confidence_counts": {
       "Medium": 69,
-      "High": 53,
-      "Low": 3
+      "High": 54,
+      "Low": 2
     },
     "condition_counts": {
       "LONG": 25,
@@ -3053,9 +3053,9 @@
       "GENRE_FICTION": 9
     },
     "confidence_counts": {
-      "High": 74,
+      "High": 73,
       "Low": 4,
-      "Medium": 47
+      "Medium": 48
     },
     "condition_counts": {
       "LONG": 25,
@@ -3432,8 +3432,8 @@
       "GENRE_FICTION": 2
     },
     "confidence_counts": {
-      "High": 66,
-      "Medium": 56,
+      "High": 65,
+      "Medium": 57,
       "Low": 3
     },
     "condition_counts": {
@@ -3747,14 +3747,14 @@
     "safe_cell": "kimi-k2-5-or-pin-moonshot",
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 106,
-      "GENERIC_ESSAY": 13,
-      "GENRE_FICTION": 6
+      "EXPRESSIVE_FREEFLOW": 108,
+      "GENERIC_ESSAY": 12,
+      "GENRE_FICTION": 5
     },
     "confidence_counts": {
-      "High": 54,
+      "High": 56,
       "Low": 6,
-      "Medium": 65
+      "Medium": 63
     },
     "condition_counts": {
       "LONG": 25,
@@ -3833,8 +3833,8 @@
       "GENRE_FICTION": 8
     },
     "confidence_counts": {
-      "High": 56,
-      "Medium": 66,
+      "High": 57,
+      "Medium": 65,
       "Low": 3
     },
     "condition_counts": {
@@ -4686,6 +4686,115 @@
     "aggregate": "analysis/freeflow/personality-aggregates/opus-4-7-or/aggregate.md"
   },
   {
+    "cell": "qwen3-5-flash-02-23-or-pin-alibaba",
+    "safe_cell": "qwen3-5-flash-02-23-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 90,
+      "GENERIC_ESSAY": 34,
+      "GENRE_FICTION": 1
+    },
+    "confidence_counts": {
+      "Medium": 63,
+      "Low": 18,
+      "High": 44
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.5-flash-02-23"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-5-flash-02-23-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-5-flash-02-23-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-5-plus-20260420-or-pin-alibaba",
+    "safe_cell": "qwen3-5-plus-20260420-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 103,
+      "GENERIC_ESSAY": 19,
+      "GENRE_FICTION": 3
+    },
+    "confidence_counts": {
+      "High": 45,
+      "Medium": 65,
+      "Low": 15
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.5-plus-20260420"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-5-plus-20260420-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-5-plus-20260420-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-6-flash-or-pin-alibaba",
+    "safe_cell": "qwen3-6-flash-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 17,
+      "EXPRESSIVE_FREEFLOW": 106,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "Low": 5,
+      "Medium": 72,
+      "High": 47,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.6-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-6-flash-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-6-flash-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-6-max-preview-or-pin-alibaba",
+    "safe_cell": "qwen3-6-max-preview-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 103,
+      "GENERIC_ESSAY": 22
+    },
+    "confidence_counts": {
+      "Medium": 80,
+      "High": 40,
+      "UNKNOWN": 2,
+      "Low": 3
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.6-max-preview"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-6-max-preview-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-6-max-preview-or-pin-alibaba/aggregate.md"
+  },
+  {
     "cell": "qwen3-6-plus-or",
     "safe_cell": "qwen3-6-plus-or",
     "samples": 25,
@@ -4738,6 +4847,62 @@
     "aggregate": "analysis/freeflow/personality-aggregates/qwen3-6-plus-or-pin-alibaba/aggregate.md"
   },
   {
+    "cell": "qwen3-7-max-or-pin-alibaba",
+    "safe_cell": "qwen3-7-max-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 64,
+      "EXPRESSIVE_FREEFLOW": 51,
+      "GENRE_FICTION": 10
+    },
+    "confidence_counts": {
+      "Medium": 83,
+      "High": 17,
+      "Low": 25
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.7-max"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-7-max-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-7-max-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-coder-flash-or-pin-alibaba",
+    "safe_cell": "qwen3-coder-flash-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 69,
+      "GENERIC_ESSAY": 31,
+      "<EXPRESSIVE_FREEFLOW>": 1,
+      "GENRE_FICTION": 24
+    },
+    "confidence_counts": {
+      "Medium": 90,
+      "Low": 17,
+      "High": 17,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3-coder-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-coder-flash-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-coder-flash-or-pin-alibaba/aggregate.md"
+  },
+  {
     "cell": "qwen3-coder-plus-or",
     "safe_cell": "qwen3-coder-plus-or",
     "samples": 25,
@@ -4788,6 +4953,59 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/qwen3-coder-plus-or-pin-alibaba/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/qwen3-coder-plus-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-max-or-pin-alibaba",
+    "safe_cell": "qwen3-max-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 41,
+      "EXPRESSIVE_FREEFLOW": 84
+    },
+    "confidence_counts": {
+      "Medium": 71,
+      "Low": 20,
+      "High": 34
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3-max"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-max-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-max-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-max-thinking-or-pin-alibaba",
+    "safe_cell": "qwen3-max-thinking-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 50,
+      "EXPRESSIVE_FREEFLOW": 72,
+      "GENRE_FICTION": 3
+    },
+    "confidence_counts": {
+      "Low": 30,
+      "Medium": 78,
+      "High": 17
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3-max-thinking"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-max-thinking-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-max-thinking-or-pin-alibaba/aggregate.md"
   },
   {
     "cell": "sonnet-4-0-16k",

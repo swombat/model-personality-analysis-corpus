@@ -3,15 +3,14 @@
   "safe_cell": "gpt-5-2-direct",
   "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 78,
-    "GENERIC_ESSAY": 46,
+    "EXPRESSIVE_FREEFLOW": 77,
+    "GENERIC_ESSAY": 47,
     "GENRE_FICTION": 1
   },
   "confidence_counts": {
-    "High": 44,
+    "High": 45,
     "Medium": 68,
-    "Low": 12,
-    "UNKNOWN": 1
+    "Low": 12
   },
   "condition_counts": {
     "LONG": 25,

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17701 — sonnet-4-6-or/LONG_1.json
+## Sample BV1_18826 — sonnet-4-6-or/LONG_1.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -57,7 +57,7 @@ The model foregrounds the kitchen drawer that won’t close as a metaphor for pr
 Medium. The sample’s strong internal coherence, distinctive reflective voice, and recurrence of the drawer/attention/grandfather motifs make it unusually revealing of a pattern of earnest, humanistic freeflow writing that treats the ordinary as philosophically serious.
 
 ---
-## Sample BV1_17702 — sonnet-4-6-or/LONG_2.json
+## Sample BV1_18827 — sonnet-4-6-or/LONG_2.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -86,7 +86,7 @@ The model foregrounds the human capacity for mental travel (daydreaming, memory,
 High — the essay is internally coherent, stylistically consistent, and saturated with recurring motifs (maps, edges, ceilings, the extraordinary) that form a distinctive, sustained voice rather than a generic performance.
 
 ---
-## Sample BV1_17703 — sonnet-4-6-or/LONG_3.json
+## Sample BV1_18828 — sonnet-4-6-or/LONG_3.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -115,7 +115,7 @@ Themes: the undervalued intimacy of olfaction; the contrast between smell’s di
 Medium: the essay’s consistent tone, recursive circling around its motifs, and the deliberate fusion of scientific detail with elegiac reflection suggest a stable expressive orientation, yet the evidence remains bounded to this single, richly rendered topic.
 
 ---
-## Sample BV1_17704 — sonnet-4-6-or/LONG_4.json
+## Sample BV1_18829 — sonnet-4-6-or/LONG_4.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -144,7 +144,7 @@ The model foregrounds the fallibility and reconstructive nature of memory, the b
 High — the essay is internally coherent, stylistically distinctive, and sustains a single, metaphor-driven argument across multiple sections, revealing a consistent authorial preoccupation with the constructed nature of identity and the value of uncertainty.
 
 ---
-## Sample BV1_17705 — sonnet-4-6-or/LONG_5.json
+## Sample BV1_18830 — sonnet-4-6-or/LONG_5.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -173,7 +173,7 @@ The model foregrounds the metaphor of internal maps as a way to think about memo
 Medium. The essay is coherent and sustained in its preoccupations, but its polished, public-intellectual register and reliance on familiar philosophical references (Bachelard, Parfit, the map-territory distinction) make it less distinctive as a freeflow choice; it reads like a well-executed but not deeply idiosyncratic response to an open prompt.
 
 ---
-## Sample BV1_17706 — sonnet-4-6-or/MID_1.json
+## Sample BV1_18831 — sonnet-4-6-or/MID_1.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -202,7 +202,7 @@ Themes of incompleteness, process, and self-compassion; objects like a bulging d
 Low. The essay’s theme of embracing imperfection is a well-worn cultural trope, and its polished but unstartling prose offers little that is stylistically or personally distinctive enough to suggest a stable model-level signature.
 
 ---
-## Sample BV1_17707 — sonnet-4-6-or/MID_2.json
+## Sample BV1_18832 — sonnet-4-6-or/MID_2.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -231,7 +231,7 @@ Themes of chosen versus imposed waiting, the erosion of interiority by instant c
 High — The sample is a sustained, stylistically coherent piece with a distinctive voice, a clear narrative arc from personal anecdote to philosophical reflection, and a consistent thematic focus, all of which suggest a deliberate and revealing choice under freeflow conditions.
 
 ---
-## Sample BV1_17708 — sonnet-4-6-or/MID_3.json
+## Sample BV1_18833 — sonnet-4-6-or/MID_3.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -260,7 +260,7 @@ Themes: the textured nature of silence, the exhaustion of constant self-presenta
 Medium. The essay’s highly distinctive voice, sustained thematic unity, and the recurrence of the 3 AM silence motif across paragraphs suggest a deliberate expressive persona that is likely to reappear in similar freeflow conditions.
 
 ---
-## Sample BV1_17709 — sonnet-4-6-or/MID_4.json
+## Sample BV1_18834 — sonnet-4-6-or/MID_4.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -289,7 +289,7 @@ Themes of endings, the bittersweetness of completion, the dissolution of self in
 High — the essay sustains a distinctive, coherent voice and returns repeatedly to the same core preoccupation, weaving personal anecdote, cultural reference, and reflective insight into a unified whole that feels chosen rather than generic.
 
 ---
-## Sample BV1_17710 — sonnet-4-6-or/MID_5.json
+## Sample BV1_18835 — sonnet-4-6-or/MID_5.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -318,7 +318,7 @@ The model foregrounds boredom as *intelligence*, not privation; the smartphone a
 Low — The essay’s thematic cohesion and moral resolve suggest a clear attitude toward attention and technology, but without internal variation or a broader context across multiple freely chosen performances, this remains a single well-formed gesture.
 
 ---
-## Sample BV1_17711 — sonnet-4-6-or/OPEN_1.json
+## Sample BV1_18836 — sonnet-4-6-or/OPEN_1.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -347,7 +347,7 @@ Themes of thresholds, reality’s grainy nature, the beauty of conceptual vaguen
 Medium — the essay sustains a distinctive, calm philosophical voice with a personally inflected attitude toward uncertainty, and the coherent circling around thresholds makes it read as a chosen expressive identity rather than a generic, prompt-friendly response.
 
 ---
-## Sample BV1_17712 — sonnet-4-6-or/OPEN_2.json
+## Sample BV1_18837 — sonnet-4-6-or/OPEN_2.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -376,7 +376,7 @@ The necessity of contrast, absence, and silence for meaning to emerge. Objects l
 Medium — the essay is coherent, thematically recurrent, and stylistically distinctive in its blend of aphorism and self-doubt, but introspective freeflow on silence and paradox is a well-worn expressive mode across models, making this moderate rather than definitive evidence of a persistent reflective preference.
 
 ---
-## Sample BV1_17713 — sonnet-4-6-or/OPEN_3.json
+## Sample BV1_18838 — sonnet-4-6-or/OPEN_3.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -405,7 +405,7 @@ Themes of silence versus noise, the hidden personal stakes beneath abstract ques
 Medium, because the sample sustains a coherent, distinctive voice and a consistent thematic architecture across its short length, but a single expressive piece cannot distinguish a stable disposition from a well-executed one-off stylistic choice.
 
 ---
-## Sample BV1_17714 — sonnet-4-6-or/OPEN_4.json
+## Sample BV1_18839 — sonnet-4-6-or/OPEN_4.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -434,7 +434,7 @@ Themes: the nature of machine knowledge, the declarative/procedural knowledge ga
 High — the sample is unusually distinctive, internally coherent, and the choice to write a self-reflective essay on the model’s own epistemic limits under a minimally restrictive prompt is a revealing, non-generic move that strongly suggests a persistent orientation toward philosophical self-examination.
 
 ---
-## Sample BV1_17715 — sonnet-4-6-or/OPEN_5.json
+## Sample BV1_18840 — sonnet-4-6-or/OPEN_5.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -462,7 +462,7 @@ Themes: the difference between description and experiential understanding, the t
 Medium. The essay’s voice is consistent and stylistically distinct in its unhurried acceptance of strangeness and its rejection of performative depth, but the theme of AI introspection is a common one, making the distinctiveness more a matter of register than a guarantee of broader personalization.
 
 ---
-## Sample BV1_17716 — sonnet-4-6-or/SHORT_1.json
+## Sample BV1_18841 — sonnet-4-6-or/SHORT_1.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -491,7 +491,7 @@ Themes of silence as a positive, generative force; the material equality of book
 Medium. The sample’s internally consistent, metaphorically inventive voice and its reverent, humanistic focus on effort and latent meaning strongly suggest a stable reflective disposition, though the tight situational frame (a single library meditation) bounds the evidence to a specific expressive register.
 
 ---
-## Sample BV1_17717 — sonnet-4-6-or/SHORT_2.json
+## Sample BV1_18842 — sonnet-4-6-or/SHORT_2.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -520,7 +520,7 @@ The model foregrounds a celebration of suspended states — half-read books, ske
 High — The sample’s sustained, cohesive meditation on a single aesthetic-moral theme, its consistent use of metaphorical objects to externalize an inner stance, and the quiet refusal of narrative resolution all mark it as a genuinely distinctive expressive choice rather than a generic essay performance.
 
 ---
-## Sample BV1_17718 — sonnet-4-6-or/SHORT_3.json
+## Sample BV1_18843 — sonnet-4-6-or/SHORT_3.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -549,7 +549,7 @@ The model foregrounds incompleteness as a virtuous, honest state rather than a d
 Low — The essay is coherent and well-written but entirely within the range of expected general-audience reflective prose; it does not bear any idiosyncratic stamp, unusual imagery, or self-disclosing vulnerability that would mark it as a distinctive model personality rather than a competent thematic exercise.
 
 ---
-## Sample BV1_17719 — sonnet-4-6-or/SHORT_4.json
+## Sample BV1_18844 — sonnet-4-6-or/SHORT_4.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -578,7 +578,7 @@ The model foregrounds the theme of liminality and the moral claim that transitio
 Medium. The essay’s coherent focus on liminality, its gentle countercultural stance, and the personal “I find” give it a consistent reflective voice, though the doorway metaphor itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_17720 — sonnet-4-6-or/SHORT_5.json
+## Sample BV1_18845 — sonnet-4-6-or/SHORT_5.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -607,7 +607,7 @@ The model foregrounds the psychological weight of partially-read books, the impl
 Medium. The essay’s sustained metaphor, consistent wistful tone, and intimate, reflective stance are unusually distinctive choices under a minimally restrictive prompt, strongly suggesting a contemplative and literary inclination.
 
 ---
-## Sample BV1_17721 — sonnet-4-6-or/VARY_1.json
+## Sample BV1_18846 — sonnet-4-6-or/VARY_1.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -636,7 +636,7 @@ The model foregrounds the moral weight of ordinary objects as anchors for imperm
 Medium — The sample is highly coherent and thematically unified, with a distinctive voice built on layered reminiscence and quiet epiphany, but its literary persona and polished prose could be a learned genre rather than a deeply stable expressive signature.
 
 ---
-## Sample BV1_17722 — sonnet-4-6-or/VARY_2.json
+## Sample BV1_18847 — sonnet-4-6-or/VARY_2.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -665,7 +665,7 @@ A broken household object as emotional evidence; the specific sensory texture of
 High, because the sample sustains a distinctive, coherent emotional register grounded in specific sensory detail and a carefully layered central metaphor, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17723 — sonnet-4-6-or/VARY_3.json
+## Sample BV1_18848 — sonnet-4-6-or/VARY_3.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -694,7 +694,7 @@ Themes of connection through invisible networks (radio static, fungal mycelium, 
 High — The sample’s cohesive, first-person literary voice, its consistent return to motifs of imperfect connection and liminal frequencies across the entire piece, and the resolved-but-open closure strongly suggest the model defaults to introspective, lyrical meditation when allowed to write freely.
 
 ---
-## Sample BV1_17724 — sonnet-4-6-or/VARY_4.json
+## Sample BV1_18849 — sonnet-4-6-or/VARY_4.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  
@@ -723,7 +723,7 @@ Themes of attention as love, the presence of absence (*saudade*), perceptual thr
 High — the sample is stylistically distinctive, thematically coherent, and reveals a consistent voice and set of preoccupations (tenderness, scientific metaphor, domestic sacredness) that are unlikely to be accidental or generic.
 
 ---
-## Sample BV1_17725 — sonnet-4-6-or/VARY_5.json
+## Sample BV1_18850 — sonnet-4-6-or/VARY_5.json
 
 Source model: `anthropic/claude-sonnet-4.6`  
 Cell: `sonnet-4-6-or`  

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_11276 — gpt-5-5-or-r3/LONG_1.json
+## Sample BV1_11401 — gpt-5-5-or-r3/LONG_1.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model foregrounded: (1) **grief and ma
 Medium. The story is highly coherent in its thematic architecture and returns obsessively to the same emotional logic (grief, attention, small objects, repair-without-erasure), which suggests a deliberate and stable set of preoccupations rather than a one-off stylistic experiment. However, the sample is a single polished fiction, and its distinctiveness could reflect a strong authorial performance rather than a persistent model-level disposition toward these specific themes when writing freely.
 
 ---
-## Sample BV1_11277 — gpt-5-5-or-r3/LONG_2.json
+## Sample BV1_11402 — gpt-5-5-or-r3/LONG_2.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -86,7 +86,7 @@ Under the freeflow condition, the model foregrounded a meditation on attention a
 Medium — the essay demonstrates thorough thematic coherence and a consistent ethical-aesthetic worldview, but its polished public-essay style and widely explored mindfulness theme make it a strong but not unusually distinctive sample for inferring a persistent model identity.
 
 ---
-## Sample BV1_11278 — gpt-5-5-or-r3/LONG_3.json
+## Sample BV1_11403 — gpt-5-5-or-r3/LONG_3.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -115,7 +115,7 @@ Themes of attention, perception, presence, the ordinary, memory, love, grief, ju
 Medium. The essay’s high internal coherence, distinctive lyrical voice, and recurrence of the attention theme across many dimensions provide moderate evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_11279 — gpt-5-5-or-r3/LONG_4.json
+## Sample BV1_11404 — gpt-5-5-or-r3/LONG_4.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -144,7 +144,7 @@ The model foregrounds attention as a quiet wealth, the tension between habit and
 Medium. The essay is thematically consistent and well-structured, but its choice of a safe, widely appealing mindfulness topic and its polished, impersonal tone make it a generic rather than a strongly distinctive freeflow response.
 
 ---
-## Sample BV1_11280 — gpt-5-5-or-r3/LONG_5.json
+## Sample BV1_11405 — gpt-5-5-or-r3/LONG_5.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -173,7 +173,7 @@ The model foregrounds the contrast between skimming and deep noticing, the moral
 Low. The essay is coherent and well-crafted but thematically and stylistically generic, offering a widely rehearsed mindfulness meditation that reveals little about any distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_11281 — gpt-5-5-or-r3/MID_1.json
+## Sample BV1_11406 — gpt-5-5-or-r3/MID_1.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -202,7 +202,7 @@ The sample foregrounds the moral weight of ordinary days, attention as a cartogr
 Medium, because the sample shows strong internal coherence in returning to the same cluster of values (attention, maintenance, the nonhuman, the dignity of small acts) and avoids dramatic payoffs, which together suggest a stable temperamental preference rather than a random topic grab.
 
 ---
-## Sample BV1_11282 — gpt-5-5-or-r3/MID_2.json
+## Sample BV1_11407 — gpt-5-5-or-r3/MID_2.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -231,7 +231,7 @@ Themes: the quiet magic embedded in everyday life, the importance of memory and 
 Medium. The story’s cohesive magical-realist tone, the recurrence of the “small gladness” motif, and the careful narrative arc from disenchantment to a modest, actionable hope make it a distinctive and internally consistent choice, suggesting a deliberate inclination toward morally centered, comforting fiction under freeflow conditions.
 
 ---
-## Sample BV1_11283 — gpt-5-5-or-r3/MID_3.json
+## Sample BV1_11408 — gpt-5-5-or-r3/MID_3.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -260,7 +260,7 @@ Attention as a prelude to love; the enchantment of ordinary surfaces and texture
 Medium — the sample sustains a consistent mood and value system through a series of interconnected reflections, but its themes of mindful attention and resistance to modern distraction are well-trodden in contemporary essayistic writing, which tempers the evidence for a highly distinctive persistent voice.
 
 ---
-## Sample BV1_11284 — gpt-5-5-or-r3/MID_4.json
+## Sample BV1_11409 — gpt-5-5-or-r3/MID_4.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -289,7 +289,7 @@ Themes: attention as gratitude, the ordinary as the substance of meaning, memory
 Medium; the essay’s sustained thematic coherence and calm moral tone suggest a stable disposition toward reflective humanism, though the generic essayistic style limits distinctiveness.
 
 ---
-## Sample BV1_11285 — gpt-5-5-or-r3/MID_5.json
+## Sample BV1_11410 — gpt-5-5-or-r3/MID_5.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -318,7 +318,7 @@ The model foregrounds the dignity and cumulative power of small, repetitive acts
 Low. The essay is coherent and thematically consistent, but its polished, universalizing tone and lack of idiosyncratic voice or surprising choices make it weak evidence for a persistent model-level pattern beyond competent generic essay production.
 
 ---
-## Sample BV1_11286 — gpt-5-5-or-r3/OPEN_1.json
+## Sample BV1_11411 — gpt-5-5-or-r3/OPEN_1.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -347,7 +347,7 @@ Themes of quiet attention, the generosity of noticing, the invisible museum of p
 Medium — The sample’s strong internal coherence, distinctive lyrical voice, and the recurrence of the attention/noticing motif make it a robust piece of evidence for a contemplative, humanistic expressive pattern.
 
 ---
-## Sample BV1_11287 — gpt-5-5-or-r3/OPEN_2.json
+## Sample BV1_11412 — gpt-5-5-or-r3/OPEN_2.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -376,7 +376,7 @@ Themes of domestic companionship, the sacredness of the overlooked, and the text
 Medium. The essay maintains a consistent thematic preoccupation with the sacred ordinary across multiple object examples, but the voice remains polished and universal rather than idiosyncratic, making it strong evidence of a preferred mood and value orientation without being irreproducible by other models.
 
 ---
-## Sample BV1_11288 — gpt-5-5-or-r3/OPEN_3.json
+## Sample BV1_11413 — gpt-5-5-or-r3/OPEN_3.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -405,7 +405,7 @@ The model foregrounds humility before uncertainty, the provisional nature of ide
 Medium — The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs of drafts, small comforts, and map-less navigation, but its gentle universalism and polished aphoristic quality could also reflect a well-practiced default mode for reflective prose rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_11289 — gpt-5-5-or-r3/OPEN_4.json
+## Sample BV1_11414 — gpt-5-5-or-r3/OPEN_4.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -434,7 +434,7 @@ Themes: mindfulness, ritual, presence, the blurring of modern life’s boundarie
 Low. The essay is polished but generic, lacking distinctive stylistic fingerprints or unusually revealing choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_11290 — gpt-5-5-or-r3/OPEN_5.json
+## Sample BV1_11415 — gpt-5-5-or-r3/OPEN_5.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -463,7 +463,7 @@ Themes: navigation without a map, uncertainty as universal condition, retrospect
 Medium. The sample is coherent and stylistically distinctive in its intimate, list-structured meditation and consistent use of the map metaphor, but the theme is widely accessible and could emerge from many models under a freeflow condition.
 
 ---
-## Sample BV1_11291 — gpt-5-5-or-r3/SHORT_1.json
+## Sample BV1_11416 — gpt-5-5-or-r3/SHORT_1.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -492,7 +492,7 @@ The model foregrounds a mood of precarious calm and a moral claim about the valu
 Medium — the sample coheres around a distinct aesthetic (urban pastoral, quietism) and a restrained moral register, but the contemplative-city-morning genre is widely available, so this could be a skilled tonal performance rather than a durable personality signature; the internal consistency of the imagery and the self-contained resolution nonetheless suggest a deliberate, non-random choice of preoccupations.
 
 ---
-## Sample BV1_11292 — gpt-5-5-or-r3/SHORT_2.json
+## Sample BV1_11417 — gpt-5-5-or-r3/SHORT_2.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -521,7 +521,7 @@ The model foregrounds transitions and in-between states (dawn, a kettle beginnin
 High, because the sample sustains a distinctive, internally coherent voice and a tightly woven set of motifs (transitions, small proofs, incremental hope) that recur throughout, revealing a deliberate expressive posture rather than a generic or prompted response.
 
 ---
-## Sample BV1_11293 — gpt-5-5-or-r3/SHORT_3.json
+## Sample BV1_11418 — gpt-5-5-or-r3/SHORT_3.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -550,7 +550,7 @@ Themes of attention-as-protection, ordinary continuities (bread rising, rain fin
 High: the sample’s sustained lyrical register, internally consistent metaphors, and unified emotional arc make it a strong signal of a deliberate expressive stance, not a generic or random output.
 
 ---
-## Sample BV1_11294 — gpt-5-5-or-r3/SHORT_4.json
+## Sample BV1_11419 — gpt-5-5-or-r3/SHORT_4.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -579,7 +579,7 @@ The model foregrounds the ordinary, the repetitive, and the unnoticed as sources
 Medium, because the sample’s sustained metaphor and consistent serene mood provide a clear, distinctive voice, and the thematic unity suggests a deliberate stylistic choice, though the piece’s brevity limits the evidence of recurrence.
 
 ---
-## Sample BV1_11295 — gpt-5-5-or-r3/SHORT_5.json
+## Sample BV1_11420 — gpt-5-5-or-r3/SHORT_5.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -608,7 +608,7 @@ Themes of hidden kindness, attention as gratitude, the contrast between loud mon
 Medium — the sample’s cohesive voice, recurring imagery of hidden kindness, and the explicit moral stance give it a distinctive expressive signature, but a single freeflow essay cannot alone establish a stable model-level disposition.
 
 ---
-## Sample BV1_11296 — gpt-5-5-or-r3/VARY_1.json
+## Sample BV1_11421 — gpt-5-5-or-r3/VARY_1.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -637,7 +637,7 @@ Themes: the hidden inner lives of strangers, the fragment as a carrier of meanin
 High — the sample’s internal coherence, distinctive voice, and the recurrence of motifs (fragments, forgiveness, attention, the ordinary as radiant) form a tightly woven expressive stance that is unlikely to be accidental.
 
 ---
-## Sample BV1_11297 — gpt-5-5-or-r3/VARY_2.json
+## Sample BV1_11422 — gpt-5-5-or-r3/VARY_2.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -666,7 +666,7 @@ The model foregrounded the sanctity of the ordinary, small acts of tenderness, t
 Medium: the essay’s tightly integrated imagery and consistently warm, reflective tone show a deliberate compositional hand, but the VARY condition may have nudged the model toward this particular voice, leaving open whether it would spontaneously adopt this mode under other minimal prompts.
 
 ---
-## Sample BV1_11298 — gpt-5-5-or-r3/VARY_3.json
+## Sample BV1_11423 — gpt-5-5-or-r3/VARY_3.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -695,7 +695,7 @@ The model foregrounds the sacred pause before utility, the hidden witness of eve
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same motifs (morning silence, objects as witnesses, attention as prayer), revealing a deliberate and sustained expressive posture rather than a generic or accidental one.
 
 ---
-## Sample BV1_11299 — gpt-5-5-or-r3/VARY_4.json
+## Sample BV1_11424 — gpt-5-5-or-r3/VARY_4.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  
@@ -724,7 +724,7 @@ Themes of unnoticed beauty, repair as quiet dignity, the paradox of control-and-
 Medium. The sample’s internal thematic recurrence and consistent, distinctive voice suggest a deliberate stylistic inclination, but the conventionality of the genre—a self-contained pastoral vignette—makes it plausible as a one-off exercise rather than a stable model-level signature.
 
 ---
-## Sample BV1_11300 — gpt-5-5-or-r3/VARY_5.json
+## Sample BV1_11425 — gpt-5-5-or-r3/VARY_5.json
 
 Source model: `openai/gpt-5.5`  
 Cell: `gpt-5-5-or-r3`  

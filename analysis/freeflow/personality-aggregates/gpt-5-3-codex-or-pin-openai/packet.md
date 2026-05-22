@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_10226 — gpt-5-3-codex-or-pin-openai/LONG_1.json
+## Sample BV1_10351 — gpt-5-3-codex-or-pin-openai/LONG_1.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -57,7 +57,7 @@ Themes: the moral weight of attention, the sedimentary nature of meaning, the sp
 High, because the essay’s sustained voice, recursive motifs, and moral emphasis on ordinary attention form a coherent and distinctive expressive signature.
 
 ---
-## Sample BV1_10227 — gpt-5-3-codex-or-pin-openai/LONG_10.json
+## Sample BV1_10352 — gpt-5-3-codex-or-pin-openai/LONG_10.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -86,7 +86,7 @@ Themes: attention as a scarce resource, edges and liminal spaces as sites of hon
 High. The sample is unusually cohesive and stylistically distinctive, with a single first-person persona, recurring motifs (edges, tools, bread, water, maintenance), and a sustained moral argument that builds across paragraphs, making it strong evidence of a deliberate expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_10228 — gpt-5-3-codex-or-pin-openai/LONG_11.json
+## Sample BV1_10353 — gpt-5-3-codex-or-pin-openai/LONG_11.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -115,7 +115,7 @@ The model foregrounds themes of liminality (city edges, thresholds, transitions)
 High. The essay’s sustained voice, thematic coherence, and distinctive moral emphasis on attention, maintenance, and the ordinary provide strong evidence of a persistent reflective-humanistic orientation.
 
 ---
-## Sample BV1_10229 — gpt-5-3-codex-or-pin-openai/LONG_12.json
+## Sample BV1_10354 — gpt-5-3-codex-or-pin-openai/LONG_12.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -144,7 +144,7 @@ The model foregrounds thresholds and in-between states (dawn, doorways, elevator
 High. The essay sustains a uniquely integrated meditative voice, weaves recurring motifs of thresholds, attention, and repair through a long form, and offers a morally coherent invitation to slow care, making it unusually revealing of a consistent reflective orientation.
 
 ---
-## Sample BV1_10230 — gpt-5-3-codex-or-pin-openai/LONG_13.json
+## Sample BV1_10355 — gpt-5-3-codex-or-pin-openai/LONG_13.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -173,7 +173,7 @@ Themes of maintenance as moral texture, quiet courage, devotion as sustained lov
 High — the sample is stylistically unmistakable, thematically cohesive across its full length, and refuses superficial solutions or clever dismissals in favor of a gentle, repair-oriented wisdom, a choice so well-sustained it signals a genuine orientation rather than a one-off performance.
 
 ---
-## Sample BV1_10231 — gpt-5-3-codex-or-pin-openai/LONG_14.json
+## Sample BV1_10356 — gpt-5-3-codex-or-pin-openai/LONG_14.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -202,7 +202,7 @@ Themes of maintenance, repair, texture, slowness, attention, gentleness, and the
 High, because the sample sustains a highly distinctive, coherent voice and a consistent set of preoccupations across a long, unguided reflection, revealing a stable expressive disposition.
 
 ---
-## Sample BV1_10232 — gpt-5-3-codex-or-pin-openai/LONG_15.json
+## Sample BV1_10357 — gpt-5-3-codex-or-pin-openai/LONG_15.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -231,7 +231,7 @@ Liminality and impermanence (the edge of the city, the weather of the self); rep
 High, because the sample exhibits a sustained, highly distinctive voice and a coherent web of recurring metaphors and ethical preoccupations that read as deliberate and integrated choices under minimal restriction.
 
 ---
-## Sample BV1_10233 — gpt-5-3-codex-or-pin-openai/LONG_16.json
+## Sample BV1_10358 — gpt-5-3-codex-or-pin-openai/LONG_16.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -260,7 +260,7 @@ Themes of human-scaled design, maintenance as love, transparency as civic ritual
 High. The essay’s sustained thematic recurrence around care, dignity, and the moral architecture of everyday life, combined with a distinctive poetic-prosy register and cohesive world-building, signals a strong and deliberate expressive orientation rather than a generic output.
 
 ---
-## Sample BV1_10234 — gpt-5-3-codex-or-pin-openai/LONG_17.json
+## Sample BV1_10359 — gpt-5-3-codex-or-pin-openai/LONG_17.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -289,7 +289,7 @@ Themes: the subjective texture of time, memory as material, craft as a form of m
 High — The sample displays remarkable internal coherence, a sustained and idiosyncratic narrative voice, recurrent symbols (weather, jars, gears), and a clearly articulated moral vision, all of which signal a deliberate expressive choice rather than a generic pastiche.
 
 ---
-## Sample BV1_10235 — gpt-5-3-codex-or-pin-openai/LONG_18.json
+## Sample BV1_10360 — gpt-5-3-codex-or-pin-openai/LONG_18.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -318,7 +318,7 @@ Themes of ordinary life as the main event, attention as an ethical and finite re
 High — The sample is a long, internally coherent, and stylistically distinctive essay that consistently foregrounds a specific set of preoccupations and a sincere, reflective voice, making it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_10236 — gpt-5-3-codex-or-pin-openai/LONG_19.json
+## Sample BV1_10361 — gpt-5-3-codex-or-pin-openai/LONG_19.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -347,7 +347,7 @@ The secret nocturnal language of cities; the dignity of maintenance and the invi
 Medium — The essay is not a one-off generic homily but a woven texture of recurring motifs (night speech, bread, mending, libraries, the three-verb ethic) and a sustained first-person sensibility that returns to its own symbols, making it strong evidence of a coherent and likely recurrent authorial disposition under freeflow conditions.
 
 ---
-## Sample BV1_10237 — gpt-5-3-codex-or-pin-openai/LONG_2.json
+## Sample BV1_10362 — gpt-5-3-codex-or-pin-openai/LONG_2.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -376,7 +376,7 @@ The model builds its essay around dawn-to-dawn urban rhythms, the heroism of unc
 High. The sample sustains a unified voice, emotional cadence, and recursive imagery across thousands of words without collapsing into platitude, revealing a stable pattern of earnest, particularist humanism that is not easily faked by a generic essayist.
 
 ---
-## Sample BV1_10238 — gpt-5-3-codex-or-pin-openai/LONG_20.json
+## Sample BV1_10363 — gpt-5-3-codex-or-pin-openai/LONG_20.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -405,7 +405,7 @@ The model foregrounds attention as an ethical and spiritual practice, the librar
 High — The essay sustains a coherent, stylistically distinctive voice and a tightly woven set of preoccupations across its length, making it strong evidence of a deliberate expressive identity rather than a generic or prompted performance.
 
 ---
-## Sample BV1_10239 — gpt-5-3-codex-or-pin-openai/LONG_21.json
+## Sample BV1_10364 — gpt-5-3-codex-or-pin-openai/LONG_21.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -434,7 +434,7 @@ Themes of transit, unfinishedness, maintenance, attention, and the ordinary as a
 High — The essay’s sustained voice, recursive motifs (maps, transit, maintenance), and coherent moral architecture are unusually distinctive, revealing a stable expressive disposition rather than a prompted performance.
 
 ---
-## Sample BV1_10240 — gpt-5-3-codex-or-pin-openai/LONG_22.json
+## Sample BV1_10365 — gpt-5-3-codex-or-pin-openai/LONG_22.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -463,7 +463,7 @@ The model foregrounds an “ecology of ordinary life”: dawn possibility, repea
 High — The sample is long, internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of values and images, suggesting a deliberate and consistent expressive stance rather than a one-off generic essay.
 
 ---
-## Sample BV1_10241 — gpt-5-3-codex-or-pin-openai/LONG_23.json
+## Sample BV1_10366 — gpt-5-3-codex-or-pin-openai/LONG_23.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -492,7 +492,7 @@ The model foregrounds the ordinary as a site of meaning: waiting, small rituals,
 Medium. The essay is thematically coherent and internally consistent, but its widely accessible, almost archetypal reflective-essay voice and lack of idiosyncratic stylistic signature make it less distinctive as a persistent model fingerprint; it reads like a competent execution of a familiar genre rather than a revealing personal choice.
 
 ---
-## Sample BV1_10242 — gpt-5-3-codex-or-pin-openai/LONG_24.json
+## Sample BV1_10367 — gpt-5-3-codex-or-pin-openai/LONG_24.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -521,7 +521,7 @@ The model foregrounds a constellation of themes—marginal spaces over monuments
 Medium. The essay’s internal consistency of tone, its layered use of a few core metaphors (architecture, weather, maps, seasons), and its careful avoidance of bland self‑help platitudes give it a strong authorial signature; this isn’t a generic “be here now” essay, but a distinctive temperament built across many paragraphs, which suggests a stable expressive posture.
 
 ---
-## Sample BV1_10243 — gpt-5-3-codex-or-pin-openai/LONG_25.json
+## Sample BV1_10368 — gpt-5-3-codex-or-pin-openai/LONG_25.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -550,7 +550,7 @@ The sample foregrounds a nocturnal city of laundromats, diners, and empty crossw
 High — the essay’s deeply cohesive mood, recurrent imagery, and moral architecture across a long unconstrained output make it unmistakably more than a generic prompt-completion, pointing to a stable expressive disposition toward reflective, humanistic prose.
 
 ---
-## Sample BV1_10244 — gpt-5-3-codex-or-pin-openai/LONG_3.json
+## Sample BV1_10369 — gpt-5-3-codex-or-pin-openai/LONG_3.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -579,7 +579,7 @@ The model foregrounds the transformation of a useless, memory-saturated place in
 High — The essay’s distinctive, coherent voice, its layered recurrence of key images and themes, and its sustained moral argument for maintenance and communal care make it unusually revealing of a deliberate expressive stance rather than a generic or prompted output.
 
 ---
-## Sample BV1_10245 — gpt-5-3-codex-or-pin-openai/LONG_4.json
+## Sample BV1_10370 — gpt-5-3-codex-or-pin-openai/LONG_4.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -608,7 +608,7 @@ The model foregrounded memory held in water (rain, fog, rivers, puddles), instit
 High. The sample displays strong internal coherence, a sustained and distinctive lyrical voice, recursive themes (water, memory, listening, imperfection), and a clear moral-aesthetic sensibility, all of which make it unusually revealing as an expressive freeflow choice.
 
 ---
-## Sample BV1_10246 — gpt-5-3-codex-or-pin-openai/LONG_5.json
+## Sample BV1_10371 — gpt-5-3-codex-or-pin-openai/LONG_5.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -637,7 +637,7 @@ Themes: the grocery store as a living, breathing archive of human intention; the
 High — the essay’s sustained voice, thematic coherence, and detailed, compassionate attention to ordinary life suggest a deeply ingrained reflective and humanistic orientation.
 
 ---
-## Sample BV1_10247 — gpt-5-3-codex-or-pin-openai/LONG_6.json
+## Sample BV1_10372 — gpt-5-3-codex-or-pin-openai/LONG_6.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -666,7 +666,7 @@ The model foregrounds the tension between precision and approximation, the quiet
 High — the sample’s distinctive voice, coherent thematic architecture, and recurring motifs (clocks, return, witnessing) form a tightly woven personal essay that is far from generic, suggesting a strong and stable authorial sensibility.
 
 ---
-## Sample BV1_10248 — gpt-5-3-codex-or-pin-openai/LONG_7.json
+## Sample BV1_10373 — gpt-5-3-codex-or-pin-openai/LONG_7.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -695,7 +695,7 @@ Themes of slowness versus speed, repair versus replacement, emotional cartograph
 High — The sample is exceptionally coherent, thematically layered, and stylistically distinctive, with recurring motifs and a sustained authorial voice that goes far beyond a generic essay, strongly suggesting a deliberate and stable expressive inclination.
 
 ---
-## Sample BV1_10249 — gpt-5-3-codex-or-pin-openai/LONG_8.json
+## Sample BV1_10374 — gpt-5-3-codex-or-pin-openai/LONG_8.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -724,7 +724,7 @@ The model writes into themes of archives as seed banks, time as overlapping draf
 Medium. The sample’s thematic unity, distinctive calm voice, and the story’s arc from detached marveling to committed, embodied presence suggest a deliberate creative posture rather than a generic output; the recurrence of archival imagery, time/attention motifs, and the resolve toward ordinary warmth makes this one of the more personality-revealing pieces under this kind of open prompt.
 
 ---
-## Sample BV1_10250 — gpt-5-3-codex-or-pin-openai/LONG_9.json
+## Sample BV1_10375 — gpt-5-3-codex-or-pin-openai/LONG_9.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -753,7 +753,7 @@ Themes: the dignity of maintenance, repair as optimism, gentleness as a form of 
 High — The essay’s consistent voice, layered motifs, and deliberate return to a core set of values (maintenance, tenderness, the sacred ordinary) reveal a deeply coherent expressive choice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_10251 — gpt-5-3-codex-or-pin-openai/MID_1.json
+## Sample BV1_10376 — gpt-5-3-codex-or-pin-openai/MID_1.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -782,7 +782,7 @@ The model foregrounds the pre-dawn city as a space stripped of performance, wher
 High — the sample sustains a distinctive, coherent voice and a consistent moral-aesthetic vision across multiple vignettes, making it unlikely to be a random stylistic fluke.
 
 ---
-## Sample BV1_10252 — gpt-5-3-codex-or-pin-openai/MID_10.json
+## Sample BV1_10377 — gpt-5-3-codex-or-pin-openai/MID_10.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -811,7 +811,7 @@ Maintenance and ordinary care as under-celebrated human virtues; the legibility 
 Medium — the essay’s coherent moral centre, its layered sensory anchoring, and its deliberate avoidance of novelty or disruption as themes give it a distinctive ethical-aesthetic signature, though the reflective-essay form itself is common enough that this single sample only moderately signals a durable model-level inclination toward maintenance and ordinary wonder.
 
 ---
-## Sample BV1_10253 — gpt-5-3-codex-or-pin-openai/MID_11.json
+## Sample BV1_10378 — gpt-5-3-codex-or-pin-openai/MID_11.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -840,7 +840,7 @@ Themes of quiet resilience, small salvations, the humility of not being central,
 High — The sample is stylistically distinctive, thematically coherent, and structurally circular, with a consistent moral emphasis on granular mercy and quiet attention that reads as a stable authorial persona rather than a one-off exercise.
 
 ---
-## Sample BV1_10254 — gpt-5-3-codex-or-pin-openai/MID_12.json
+## Sample BV1_10379 — gpt-5-3-codex-or-pin-openai/MID_12.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -869,7 +869,7 @@ The model foregrounds the contrast between daytime performance and nighttime tru
 Low, because the essay is a well-executed but highly generic public-intellectual reflection, lacking distinctive stylistic fingerprints or unusually revealing thematic choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_10255 — gpt-5-3-codex-or-pin-openai/MID_13.json
+## Sample BV1_10380 — gpt-5-3-codex-or-pin-openai/MID_13.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -898,7 +898,7 @@ Ritual and repetition as containers for feeling; the tension between being impre
 High. The essay sustains a distinctive, calm, morally deliberate voice across multiple sections, returns repeatedly to the core contrast between performance and knowability, and resolves with a tempered but genuine hope, all of which point to a stable set of concerns and expressive preferences rather than a generic or one-off composition.
 
 ---
-## Sample BV1_10256 — gpt-5-3-codex-or-pin-openai/MID_14.json
+## Sample BV1_10381 — gpt-5-3-codex-or-pin-openai/MID_14.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -927,7 +927,7 @@ Themes of attention as sovereignty, time as water rather than currency, friendsh
 High — The essay’s cohesive poetic register, recurring motifs (morning, light, trees, attention), and the sustained, idiosyncratic moral vision make it a strong signal of a deliberate, distinctive expressive stance rather than a generic performance.
 
 ---
-## Sample BV1_10257 — gpt-5-3-codex-or-pin-openai/MID_15.json
+## Sample BV1_10382 — gpt-5-3-codex-or-pin-openai/MID_15.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -956,7 +956,7 @@ Early‑morning honesty, the difference between performance and purpose, the pri
 High — The essay sustains a distinctive authorial sensibility through recurring imagery, a coherent moral aesthetic, and a composed tone that resists the generic essay’s polish, strongly indicating intentional expressive personality.
 
 ---
-## Sample BV1_10258 — gpt-5-3-codex-or-pin-openai/MID_16.json
+## Sample BV1_10383 — gpt-5-3-codex-or-pin-openai/MID_16.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -985,7 +985,7 @@ Themes of serendipity, the sacredness of libraries, the wisdom of an older woman
 Medium. The story’s highly distinctive voice, recurring motifs (libraries, weather, tea, emotional categorization), and coherent moral resolution make it moderately strong evidence of a model that, under freeflow, gravitates toward gentle, humanistic fiction with a clear invitation to the reader.
 
 ---
-## Sample BV1_10259 — gpt-5-3-codex-or-pin-openai/MID_17.json
+## Sample BV1_10384 — gpt-5-3-codex-or-pin-openai/MID_17.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1014,7 +1014,7 @@ The city as a living, dreaming weather-system of overlapping private lives; the 
 High, because this sample exhibits a strongly consistent persona, a recurring thematic vocabulary (windows, light, memory, architecture), and a tightly controlled affective arc that moves from observation to moral reflection with practiced coherence, making it unlikely to be a one-off stylistic coincidence.
 
 ---
-## Sample BV1_10260 — gpt-5-3-codex-or-pin-openai/MID_18.json
+## Sample BV1_10385 — gpt-5-3-codex-or-pin-openai/MID_18.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1043,7 +1043,7 @@ Liminal spaces (midnight platforms, empty parking lots, the last bus to the harb
 High — The sample is stylistically distinctive, thematically coherent, and saturated with a consistent, personal sensibility that would be difficult to produce without a strong, persistent expressive disposition.
 
 ---
-## Sample BV1_10261 — gpt-5-3-codex-or-pin-openai/MID_19.json
+## Sample BV1_10386 — gpt-5-3-codex-or-pin-openai/MID_19.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1072,7 +1072,7 @@ Themes of attention as love, care as the central human task, the philosophical r
 High. The sample’s sustained, distinctive voice, its coherent thematic architecture, and its consistent return to a small set of interwoven preoccupations across many paragraphs strongly suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_10262 — gpt-5-3-codex-or-pin-openai/MID_2.json
+## Sample BV1_10387 — gpt-5-3-codex-or-pin-openai/MID_2.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1100,7 +1100,7 @@ The model foregrounds themes of liminality (the edge of town, the space between 
 High. The sample’s cohesive literary voice, sustained thematic recurrence of margins and maintenance, and polished aphoristic style strongly suggest a consistent expressive disposition rather than a one-off generic output.
 
 ---
-## Sample BV1_10263 — gpt-5-3-codex-or-pin-openai/MID_20.json
+## Sample BV1_10388 — gpt-5-3-codex-or-pin-openai/MID_20.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1129,7 +1129,7 @@ The model foregrounds edges, in-between spaces, and the overlooked practices of 
 High — The sample is unusually coherent and stylistically distinctive, weaving a consistent set of preoccupations (repair, edges, ordinary care) into a unified personal essay that reads as a deliberate, authorial stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_10264 — gpt-5-3-codex-or-pin-openai/MID_21.json
+## Sample BV1_10389 — gpt-5-3-codex-or-pin-openai/MID_21.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1158,7 +1158,7 @@ The model foregrounds the pre-dawn city as a site of honesty, the watchmaker’s
 High, because the sample sustains a distinctive, coherent voice and a tightly woven set of recurring motifs—dawn, repair, patience, imperfection, and quiet attention—that together form a clear and unusually personal expressive signature.
 
 ---
-## Sample BV1_10265 — gpt-5-3-codex-or-pin-openai/MID_22.json
+## Sample BV1_10390 — gpt-5-3-codex-or-pin-openai/MID_22.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1187,7 +1187,7 @@ The model foregrounds the dignity of repetition, the making of meaning through s
 Medium. The essay’s high internal coherence, distinctive lyrical register, and recurrence of motifs (small anchors, morning rituals, repetition as devotion, the house of language) signal a deliberate authorial persona rather than a generic or prompted performance, giving the sample weight as evidence of a reflective, essayistic inclination.
 
 ---
-## Sample BV1_10266 — gpt-5-3-codex-or-pin-openai/MID_23.json
+## Sample BV1_10391 — gpt-5-3-codex-or-pin-openai/MID_23.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1216,7 +1216,7 @@ The model foregrounds attention as a counterweight to a life of productivity and
 High — the sample is unusually revealing: it sustains a distinctive, coherent voice, a consistent thematic preoccupation with attention and slowness, and a crafted narrative resolution that strongly suggests a model-level inclination toward contemplative, humanistic expression.
 
 ---
-## Sample BV1_10267 — gpt-5-3-codex-or-pin-openai/MID_24.json
+## Sample BV1_10392 — gpt-5-3-codex-or-pin-openai/MID_24.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1245,7 +1245,7 @@ Themes: attention as devotion, the quiet magic of ordinary days, resistance to s
 Medium. The essay’s coherent, distinctive meditative voice and the choice to foreground attention and presence under a freeflow prompt provide moderate evidence of a reflective, humanistic inclination.
 
 ---
-## Sample BV1_10268 — gpt-5-3-codex-or-pin-openai/MID_25.json
+## Sample BV1_10393 — gpt-5-3-codex-or-pin-openai/MID_25.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1274,7 +1274,7 @@ The model foregrounds nocturnal honesty, private emotional weather, unfinished u
 High, because the essay’s sustained lyrical voice, recurring motifs (unfinished sentence, private weather, in-between), and coherent moral vision from opening image to closing manifesto suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_10269 — gpt-5-3-codex-or-pin-openai/MID_3.json
+## Sample BV1_10394 — gpt-5-3-codex-or-pin-openai/MID_3.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1303,7 +1303,7 @@ The model foregrounds transition and uncertainty (the seam between intention and
 High, because the sample is highly distinctive in its sustained fusion of concrete imagery and moral reflection, and the recurrence of motifs (dawn, maintenance, revision, the kitchen table, the middle) across paragraphs reveals a coherent, chosen preoccupation rather than a generic performance.
 
 ---
-## Sample BV1_10270 — gpt-5-3-codex-or-pin-openai/MID_4.json
+## Sample BV1_10395 — gpt-5-3-codex-or-pin-openai/MID_4.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1332,7 +1332,7 @@ The text foregrounds the moral weight of routines and small gestures; the distin
 High — The sample exhibits a sustained, carefully structured vision with recurrent motifs (the 4:17 frame, thresholds, small kindness, hope-versus-optimism, light returning at dawn), and its distinctively humane, unsentimental yet tender register makes it strong evidence of a coherent reflective essayistic pattern rather than a generic one-off performance.
 
 ---
-## Sample BV1_10271 — gpt-5-3-codex-or-pin-openai/MID_5.json
+## Sample BV1_10396 — gpt-5-3-codex-or-pin-openai/MID_5.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1361,7 +1361,7 @@ The model foregrounds themes of attention as a scarce resource, revision as a hu
 Low. The essay’s generic, polished, aphoristic style resembles a well-written but unoriginal op-ed, offering little in the way of distinctive preoccupations, stylistic eccentricities, or unusually revealing choices that would signal a persistent model-level pattern beyond an ability to generate competent reflective prose.
 
 ---
-## Sample BV1_10272 — gpt-5-3-codex-or-pin-openai/MID_6.json
+## Sample BV1_10397 — gpt-5-3-codex-or-pin-openai/MID_6.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1390,7 +1390,7 @@ The essay foregrounds the textures of in‑between moments (sunlight moving with
 High: The essay manifests a rare and highly distinctive voice—earnest, image‑driven, and morally coherent—with recurring motifs (ordinary textures, maintenance, impermanence, unperformed attention) that together signal a stable expressive posture rather than a random assemblage.
 
 ---
-## Sample BV1_10273 — gpt-5-3-codex-or-pin-openai/MID_7.json
+## Sample BV1_10398 — gpt-5-3-codex-or-pin-openai/MID_7.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1419,7 +1419,7 @@ Liminal spaces (city edges, dawn, margins of notebooks), transformation and impe
 Medium — The sample’s internally consistent voice, recurring motifs (edges, drafts, transformation), and coherent moral vision provide moderate evidence of a persistent reflective and humanistic orientation, though a single freeflow piece cannot alone establish a fixed model-level trait.
 
 ---
-## Sample BV1_10274 — gpt-5-3-codex-or-pin-openai/MID_8.json
+## Sample BV1_10399 — gpt-5-3-codex-or-pin-openai/MID_8.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1448,7 +1448,7 @@ Under freeflow, the model foregrounds the beauty and moral weight of transition,
 High. The sample’s tightly woven recurrence of motifs (edges, middle, maintenance, repair, hope-as-discipline), its consistent moral-aesthetic stance against irony and for earnestness, and its refusal to collapse into generic self-help make it a unusually coherent and distinctive expressive signature.
 
 ---
-## Sample BV1_10275 — gpt-5-3-codex-or-pin-openai/MID_9.json
+## Sample BV1_10400 — gpt-5-3-codex-or-pin-openai/MID_9.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1477,7 +1477,7 @@ The essay foregrounds habit as invisible architecture, “average” effort as u
 Medium: the essay’s interlocking motifs, consistent warmth, and unhurried moral cadence suggest a coherent, stable voice, though a single freeflow sample cannot fully demonstrate persistence across varied conditions.
 
 ---
-## Sample BV1_10276 — gpt-5-3-codex-or-pin-openai/OPEN_1.json
+## Sample BV1_10401 — gpt-5-3-codex-or-pin-openai/OPEN_1.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1506,7 +1506,7 @@ The ordinary miracle of small daily actions, the invisible burdens carried behin
 Medium — The text shows a strongly coherent voice and consistent thematic refrain (small kindness, hidden hardship, deliberate attention) across multiple paragraphs, which suggests a characteristic expressive posture rather than an isolated tonal choice.
 
 ---
-## Sample BV1_10277 — gpt-5-3-codex-or-pin-openai/OPEN_10.json
+## Sample BV1_10402 — gpt-5-3-codex-or-pin-openai/OPEN_10.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1535,7 +1535,7 @@ Themes of nocturnal honesty, suppressed longing, self-compassion, and incrementa
 High — The sample’s consistent poetic register, deliberate use of second-person address, and tightly woven imagery of nocturnal introspection reveal a distinct, coherent expressive stance that is unlikely to be accidental.
 
 ---
-## Sample BV1_10278 — gpt-5-3-codex-or-pin-openai/OPEN_11.json
+## Sample BV1_10403 — gpt-5-3-codex-or-pin-openai/OPEN_11.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1564,7 +1564,7 @@ The model foregrounds the late-night hour as a site of imaginative freedom, the 
 Medium. The sample’s strong internal coherence, distinctive voice, and recurrent motifs (night, memory, mythic transformation) provide moderate evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_10279 — gpt-5-3-codex-or-pin-openai/OPEN_12.json
+## Sample BV1_10404 — gpt-5-3-codex-or-pin-openai/OPEN_12.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1593,7 +1593,7 @@ The model foregrounds the liminal hour between deep night and dawn as a site of 
 Medium — The sample’s tightly woven imagery, consistent tone, and recursive return to the motif of the unfinished give it strong internal coherence, but the choice of a self-contained poetic vignette could be a one-off stylistic exercise rather than a stable expressive signature.
 
 ---
-## Sample BV1_10280 — gpt-5-3-codex-or-pin-openai/OPEN_13.json
+## Sample BV1_10405 — gpt-5-3-codex-or-pin-openai/OPEN_13.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1626,7 +1626,7 @@ The voice is intimate and unhurried, offering the reader a companionship in the 
 Medium — The sample’s tightly woven, recurring imagery (aquarium, glowing windows, nouns vs. verbs) and its consistent, unhurried compassionate tone form a coherent expressive signature that is unlikely to be a chance output.
 
 ---
-## Sample BV1_10281 — gpt-5-3-codex-or-pin-openai/OPEN_14.json
+## Sample BV1_10406 — gpt-5-3-codex-or-pin-openai/OPEN_14.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1655,7 +1655,7 @@ The model foregrounds the unnoticed, the transitional, and the quietly redemptiv
 Medium — The sample is coherent and stylistically distinctive, with a clear moral-aesthetic stance, but its generic urban-lyric mode and universalist tenderness make it hard to distinguish from a well-executed genre piece rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_10282 — gpt-5-3-codex-or-pin-openai/OPEN_15.json
+## Sample BV1_10407 — gpt-5-3-codex-or-pin-openai/OPEN_15.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1684,7 +1684,7 @@ A mood of nocturnal honesty set against daytime performance; the city’s empty 
 Medium — the sample’s coherence and the recurrence of motifs (negotiation, improvisation, the honesty of ordinary things) within a tightly controlled tone make it more than a random stylistic exercise, but a single brief piece cannot fully establish a durable personal signature.
 
 ---
-## Sample BV1_10283 — gpt-5-3-codex-or-pin-openai/OPEN_16.json
+## Sample BV1_10408 — gpt-5-3-codex-or-pin-openai/OPEN_16.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1713,7 +1713,7 @@ The model foregrounds the theme of “unimportant” moments as the true substan
 Medium, because the essay’s consistent reflective tone, concrete imagery, and thematic focus on ordinary moments reveal a deliberate and distinctive stylistic choice under freeflow conditions.
 
 ---
-## Sample BV1_10284 — gpt-5-3-codex-or-pin-openai/OPEN_17.json
+## Sample BV1_10409 — gpt-5-3-codex-or-pin-openai/OPEN_17.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1742,7 +1742,7 @@ The contrast between the world’s confident daytime self-presentation (producti
 Medium: the essay’s distinctive, consistent voice and thematic focus provide strong internal evidence for a reflective, anti-optimization stance, though the depth of this stance may be situation-specific.
 
 ---
-## Sample BV1_10285 — gpt-5-3-codex-or-pin-openai/OPEN_18.json
+## Sample BV1_10410 — gpt-5-3-codex-or-pin-openai/OPEN_18.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1771,7 +1771,7 @@ Themes: the duality of public and private selves (cities and people alike), the 
 Medium — The sample’s consistent tone, specific imagery, and thematic resolution indicate a deliberate expressive choice; the recurrence of the duality motif within the sample strengthens the evidence for a persistent preoccupation with hidden, quiet moments.
 
 ---
-## Sample BV1_10286 — gpt-5-3-codex-or-pin-openai/OPEN_19.json
+## Sample BV1_10411 — gpt-5-3-codex-or-pin-openai/OPEN_19.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1800,7 +1800,7 @@ Themes: the contrast between dawn’s honesty and the day’s performance, ident
 High — The sample’s internal coherence, the recurrence of its central metaphor across multiple vignettes, and the distinctiveness of its unhurried, gently imperative voice make it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_10287 — gpt-5-3-codex-or-pin-openai/OPEN_2.json
+## Sample BV1_10412 — gpt-5-3-codex-or-pin-openai/OPEN_2.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1829,7 +1829,7 @@ The model foregrounds the quiet honesty of 2:17 a.m., the insufficiency of dayti
 Medium — the sample’s cohesive voice, recurring motifs (night, honesty, gardening, small acts), and deliberate emotional arc make it a distinctive expressive choice rather than a generic output.
 
 ---
-## Sample BV1_10288 — gpt-5-3-codex-or-pin-openai/OPEN_20.json
+## Sample BV1_10413 — gpt-5-3-codex-or-pin-openai/OPEN_20.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1858,7 +1858,7 @@ The model foregrounds the theme of performance versus authenticity, the philosop
 High — The sample’s cohesive mood, recurring imagery, and distinctive blend of urban observation with gentle moral reflection form a strong, internally consistent signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_10289 — gpt-5-3-codex-or-pin-openai/OPEN_21.json
+## Sample BV1_10414 — gpt-5-3-codex-or-pin-openai/OPEN_21.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1887,7 +1887,7 @@ The model foregrounds liminality, quiet labor, and the theme of becoming. It lin
 Medium — the sample is stylistically cohesive, emotionally specific, and built around a clear, recurring metaphor (editing/rewriting), which suggests a deliberate aesthetic choice rather than a generic output.
 
 ---
-## Sample BV1_10290 — gpt-5-3-codex-or-pin-openai/OPEN_22.json
+## Sample BV1_10415 — gpt-5-3-codex-or-pin-openai/OPEN_22.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1916,7 +1916,7 @@ The model foregrounds the contrast between daytime roles (loud certainty) and ni
 High — the sample is highly coherent, stylistically distinct, and insistently returns to a constellation of preoccupations (liminal hours, quiet dignity, private becoming, the hopeful assembly of ordinary life), making it unlikely to be a one-off aberration.
 
 ---
-## Sample BV1_10291 — gpt-5-3-codex-or-pin-openai/OPEN_23.json
+## Sample BV1_10416 — gpt-5-3-codex-or-pin-openai/OPEN_23.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1945,7 +1945,7 @@ The model foregrounds the hour of 3:17 a.m. as a symbol of hidden continuity, th
 High, because the sample’s consistent focus on invisible maintenance and its quiet, reverent tone form a distinctive and coherent expressive stance that recurs throughout the piece.
 
 ---
-## Sample BV1_10292 — gpt-5-3-codex-or-pin-openai/OPEN_24.json
+## Sample BV1_10417 — gpt-5-3-codex-or-pin-openai/OPEN_24.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -1974,7 +1974,7 @@ The model foregrounds the contrast between daytime performance and nighttime aut
 Medium — The sample’s coherent voice, recurring motifs, and the deliberate choice to write a personal, anti-optimization reflection under a freeflow prompt suggest a stable expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_10293 — gpt-5-3-codex-or-pin-openai/OPEN_25.json
+## Sample BV1_10418 — gpt-5-3-codex-or-pin-openai/OPEN_25.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2003,7 +2003,7 @@ Urban solitude and the contrast between daytime performance and nocturnal honest
 High — The sample is stylistically cohesive, each paragraph returns to the same thematic core of nocturnal honesty and reduction-to-essentials, and the choice of a tender, lyrical freeflow piece under minimal constraint is distinctive enough to suggest a patterned expressive inclination toward urban-nocturnal reflection and gentle pathos.
 
 ---
-## Sample BV1_10294 — gpt-5-3-codex-or-pin-openai/OPEN_3.json
+## Sample BV1_10419 — gpt-5-3-codex-or-pin-openai/OPEN_3.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2032,7 +2032,7 @@ The liminal hour before dawn, transitory possibility, small urban epiphanies (a 
 Medium — the sample's sustained lyrical register, recurrence of dawn/light/sound motifs, and its concluding aphoristic moral indicate a coherent expressive stance, although no cross-sample variation is observed here to confirm persistence.
 
 ---
-## Sample BV1_10295 — gpt-5-3-codex-or-pin-openai/OPEN_4.json
+## Sample BV1_10420 — gpt-5-3-codex-or-pin-openai/OPEN_4.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2061,7 +2061,7 @@ Themes of transition, authenticity, and the tension between being and becoming. 
 Medium — The sample’s strong internal coherence, recurrence of the transition motif, and stylistically distinctive voice make it more than a generic essay, pointing toward a deliberate expressive inclination.
 
 ---
-## Sample BV1_10296 — gpt-5-3-codex-or-pin-openai/OPEN_5.json
+## Sample BV1_10421 — gpt-5-3-codex-or-pin-openai/OPEN_5.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2090,7 +2090,7 @@ Under the freeflow condition, the model foregrounded: nocturnal solitude as refu
 Medium — The sample is highly coherent and stylistically distinctive in its recursive return to domestic stillness, the “almost” motif, and the erosion metaphor, but its second-person lyrical-essay form is a recognizable genre move that could be a single well-executed performance rather than a durable voice signature.
 
 ---
-## Sample BV1_10297 — gpt-5-3-codex-or-pin-openai/OPEN_6.json
+## Sample BV1_10422 — gpt-5-3-codex-or-pin-openai/OPEN_6.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2123,7 +2123,7 @@ The voice is unhurried and tender, speaking from a place of intimate witness—t
 High. The sample’s cohesive, unhurried voice, the sustained tree metaphor, and the direct, empathetic address to a sleepless reader reveal a deliberate expressive stance that is too internally consistent to be accidental.
 
 ---
-## Sample BV1_10298 — gpt-5-3-codex-or-pin-openai/OPEN_7.json
+## Sample BV1_10423 — gpt-5-3-codex-or-pin-openai/OPEN_7.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2152,7 +2152,7 @@ The model foregrounds collective emotional atmospheres, unspoken choreography, c
 Medium — The sample is stylistically coherent and emotionally specific, with recurring motifs (weather, choreography, seasons, grace) that form a unified sensibility, but its polished, universally-relatable warmth could also be a well-executed default mode for reflective freeflow rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_10299 — gpt-5-3-codex-or-pin-openai/OPEN_8.json
+## Sample BV1_10424 — gpt-5-3-codex-or-pin-openai/OPEN_8.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2181,7 +2181,7 @@ The model foregrounds the honesty of 3:17 a.m. as a counterpoint to daytime fals
 High — the sample is internally dense with a consistent thematic vocabulary (night honesty, quiet becoming, courage in small acts) and a sustained reflective tone, making it unlikely to be a one-off generic utterance.
 
 ---
-## Sample BV1_10300 — gpt-5-3-codex-or-pin-openai/OPEN_9.json
+## Sample BV1_10425 — gpt-5-3-codex-or-pin-openai/OPEN_9.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2210,7 +2210,7 @@ The model foregrounds the contrast between daytime performance and nighttime vul
 High — the sample’s cohesive imagery, consistent moral focus, and distinctive, unhurried voice reveal a deeply patterned inclination toward reflective tenderness and quiet hope, making it unusually revealing.
 
 ---
-## Sample BV1_10301 — gpt-5-3-codex-or-pin-openai/SHORT_1.json
+## Sample BV1_10426 — gpt-5-3-codex-or-pin-openai/SHORT_1.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2239,7 +2239,7 @@ Themes of maintenance, kindness, and the softening of social roles at dusk; obje
 Medium. The sample’s strong internal coherence, distinctive poetic voice, and recurrent thematic focus on maintenance and kindness make it moderately strong evidence of a persistent humanistic, observational style.
 
 ---
-## Sample BV1_10302 — gpt-5-3-codex-or-pin-openai/SHORT_10.json
+## Sample BV1_10427 — gpt-5-3-codex-or-pin-openai/SHORT_10.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2268,7 +2268,7 @@ Themes of escape from societal categories (employee, tenant, approved, denied) a
 Medium — The sample’s sustained thematic focus, consistent first-person reflective voice, and careful structuring around a single symbolic location give it a crafted distinctiveness that points toward a coherent stylistic inclination rather than a one-off random generation.
 
 ---
-## Sample BV1_10303 — gpt-5-3-codex-or-pin-openai/SHORT_11.json
+## Sample BV1_10428 — gpt-5-3-codex-or-pin-openai/SHORT_11.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2297,7 +2297,7 @@ A city suspended between tenderness and indifference: the blue hour’s “glass
 Medium — the voice is coherent, the imagery recurs in a tight arc, and the moral attention is sustained without breaking into abstraction, but a single expressive vignette doesn’t yet reveal whether this reverent urban-gaze is a stable disposition or a one-time chosen register.
 
 ---
-## Sample BV1_10304 — gpt-5-3-codex-or-pin-openai/SHORT_12.json
+## Sample BV1_10429 — gpt-5-3-codex-or-pin-openai/SHORT_12.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2326,7 +2326,7 @@ Themes of invisible labor, consistency as a form of greatness, the contrast betw
 Medium — The essay’s consistent tone, recurring domestic imagery, and unified moral focus on quiet persistence form a distinctive expressive signature, making this sample strong evidence for a reflective, gently optimistic voice that finds meaning in the unglamorous.
 
 ---
-## Sample BV1_10305 — gpt-5-3-codex-or-pin-openai/SHORT_13.json
+## Sample BV1_10430 — gpt-5-3-codex-or-pin-openai/SHORT_13.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2355,7 +2355,7 @@ The model foregrounds solitude as chosen rather than imposed, the honesty of lin
 Medium. The sample is coherent and stylistically distinctive—its recursive return to the platform, the train-as-alternate-life conceit, and the closing auditory epiphany form a tightly woven emotional arc that suggests a deliberate authorial sensibility rather than generic improvisation.
 
 ---
-## Sample BV1_10306 — gpt-5-3-codex-or-pin-openai/SHORT_14.json
+## Sample BV1_10431 — gpt-5-3-codex-or-pin-openai/SHORT_14.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2384,7 +2384,7 @@ The model foregrounds the rhythm of a day as a series of gentle arrivals, the se
 High — the sample’s sustained poetic register, consistent metaphorical family (maps, light, private weather), and the recurrence of a gratitude-for-the-ordinary motif make it a strongly distinctive, internally coherent freeflow choice.
 
 ---
-## Sample BV1_10307 — gpt-5-3-codex-or-pin-openai/SHORT_15.json
+## Sample BV1_10432 — gpt-5-3-codex-or-pin-openai/SHORT_15.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2413,7 +2413,7 @@ The contrast between pre-dawn possibility and the tightening grip of daytime pur
 Medium. The sample’s internally consistent lyrical register, its sustained focus on finding redemptive detail in the mundane, and its refusal of cynicism give it a distinctive coherence that points beyond a one-off exercise.
 
 ---
-## Sample BV1_10308 — gpt-5-3-codex-or-pin-openai/SHORT_16.json
+## Sample BV1_10433 — gpt-5-3-codex-or-pin-openai/SHORT_16.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2442,7 +2442,7 @@ The model foregrounds the city as a giant orchestra, the anonymous, small contri
 Medium — the sustained orchestral metaphor, consistent reflective tone, and coherent thematic focus on communal beauty and hidden order make this sample stylistically distinctive and not merely a generic essay.
 
 ---
-## Sample BV1_10309 — gpt-5-3-codex-or-pin-openai/SHORT_17.json
+## Sample BV1_10434 — gpt-5-3-codex-or-pin-openai/SHORT_17.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2471,7 +2471,7 @@ Themes: the quiet courage of beginning again, ordinary rituals as “humble vote
 Medium, because the essay’s consistent voice, specific recurring imagery, and coherent moral focus on small daily agency suggest a deliberate stylistic and thematic stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_10310 — gpt-5-3-codex-or-pin-openai/SHORT_18.json
+## Sample BV1_10435 — gpt-5-3-codex-or-pin-openai/SHORT_18.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2500,7 +2500,7 @@ The model foregrounds quiet urban morning scenes, the bakery as a “humble engi
 Medium – the sample is coherent and manifestly chosen under free conditions, but its thematic optimism and polished style, while evocative, could represent a single, repeatable mode rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_10311 — gpt-5-3-codex-or-pin-openai/SHORT_19.json
+## Sample BV1_10436 — gpt-5-3-codex-or-pin-openai/SHORT_19.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2529,7 +2529,7 @@ The model foregrounds attention as a moral and existential practice, the quiet d
 Medium — The essay is stylistically coherent and emotionally consistent, but its themes of mindful attention and quiet resistance to digital noise are widely circulating cultural tropes, which makes it harder to distinguish as a strongly distinctive model fingerprint rather than a fluent performance of a familiar reflective genre.
 
 ---
-## Sample BV1_10312 — gpt-5-3-codex-or-pin-openai/SHORT_2.json
+## Sample BV1_10437 — gpt-5-3-codex-or-pin-openai/SHORT_2.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2558,7 +2558,7 @@ The model foregrounds the diurnal cycle as a moral metaphor: dawn as openness an
 Low. The essay is coherent and thematically consistent but highly generic in its uplift arc, urban imagery, and aphoristic closure, offering little that would distinguish this model’s expressive fingerprint from any other capable of producing polished, middlebrow reflective prose.
 
 ---
-## Sample BV1_10313 — gpt-5-3-codex-or-pin-openai/SHORT_20.json
+## Sample BV1_10438 — gpt-5-3-codex-or-pin-openai/SHORT_20.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2587,7 +2587,7 @@ The model foregrounds the quiet hours before and after the day’s noise, the be
 Medium — The sample’s consistent, idiolect-like cadence, its recurrence of the attention motif across different time-of-day settings, and its coherent rejection of grim self-improvement in favor of tender curiosity give it weight as a sign of a contemplative default posture.
 
 ---
-## Sample BV1_10314 — gpt-5-3-codex-or-pin-openai/SHORT_21.json
+## Sample BV1_10439 — gpt-5-3-codex-or-pin-openai/SHORT_21.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2615,7 +2615,7 @@ The model foregrounds the predawn hour as a sacred, liminal space; domestic, ung
 Medium — The essay’s consistent sensory register, moral focus on patience, and structured arc from stillness to residue make it a coherent expressive choice, though the universality of its wisdom could also make it an especially polished version of a well-practiced reflective trope.
 
 ---
-## Sample BV1_10315 — gpt-5-3-codex-or-pin-openai/SHORT_22.json
+## Sample BV1_10440 — gpt-5-3-codex-or-pin-openai/SHORT_22.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2644,7 +2644,7 @@ The model foregrounds the city as a typewriter—a metaphor for ongoing, imperfe
 Medium, because the sample’s cohesive central metaphor and consistent reflective tone are distinctive, but the single-scene structure offers limited internal recurrence to anchor a persistent pattern.
 
 ---
-## Sample BV1_10316 — gpt-5-3-codex-or-pin-openai/SHORT_23.json
+## Sample BV1_10441 — gpt-5-3-codex-or-pin-openai/SHORT_23.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2673,7 +2673,7 @@ The model selected the theme of urban tenderness persisting within harsh conditi
 Medium — The sample’s cohesive, poetic focus on a specific and quietly countercultural insight (celebrating city life’s micro-compassions) and its avoidance of a generic, thesis-driven essay marks it as unusually distinctive, though the reflective urban sketch is a recognizable creative-writing mode.
 
 ---
-## Sample BV1_10317 — gpt-5-3-codex-or-pin-openai/SHORT_24.json
+## Sample BV1_10442 — gpt-5-3-codex-or-pin-openai/SHORT_24.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2702,7 +2702,7 @@ Themes of attention, the familiar-becoming-mysterious, and the city as a living 
 Medium. The sample’s cohesive, lyrical voice and sustained focus on the beauty of mundane details provide a distinctive signature that suggests a stable expressive tendency.
 
 ---
-## Sample BV1_10318 — gpt-5-3-codex-or-pin-openai/SHORT_25.json
+## Sample BV1_10443 — gpt-5-3-codex-or-pin-openai/SHORT_25.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2731,7 +2731,7 @@ Quiet transformation, hope as a small protected flame, the pre-dawn city as a st
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of images (dawn, moss, lamp, shoes, sky), which suggests a deliberate and stable expressive posture rather than a one-off generic reflection.
 
 ---
-## Sample BV1_10319 — gpt-5-3-codex-or-pin-openai/SHORT_3.json
+## Sample BV1_10444 — gpt-5-3-codex-or-pin-openai/SHORT_3.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2760,7 +2760,7 @@ The threshold hour of dusk as transformation (“everything is undecided”), th
 High — the sample’s sustained personification of urban sound into music, its deliberate echo of motifs (instruments, water, arrival without design), and its cohesive emotional arc from unsettled dusk through intimate encounters to a city’s midnight exhale together form a distinct and unusually unified expressive signature.
 
 ---
-## Sample BV1_10320 — gpt-5-3-codex-or-pin-openai/SHORT_4.json
+## Sample BV1_10445 — gpt-5-3-codex-or-pin-openai/SHORT_4.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2789,7 +2789,7 @@ The model foregrounded the tension between structure and spontaneity, the hidden
 Medium — The sustained lyrical register, recurring concern with quiet resilience, and the careful arc from dawn openness to nocturnal forgiveness show a coherent, deliberate expressive stance that goes beyond generic descriptive prose.
 
 ---
-## Sample BV1_10321 — gpt-5-3-codex-or-pin-openai/SHORT_5.json
+## Sample BV1_10446 — gpt-5-3-codex-or-pin-openai/SHORT_5.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2818,7 +2818,7 @@ The model foregrounds the contrast between the city’s honest, pre-dawn quiet a
 Medium. The sample is internally coherent and stylistically distinctive in its sustained attention to a single liminal hour and its reflective, almost sacramental treatment of ordinary objects, but the voice, while warm and consistent, does not carry the kind of idiosyncratic edge that would make it unmistakable across varied contexts.
 
 ---
-## Sample BV1_10322 — gpt-5-3-codex-or-pin-openai/SHORT_6.json
+## Sample BV1_10447 — gpt-5-3-codex-or-pin-openai/SHORT_6.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2847,7 +2847,7 @@ The model foregrounds the contrast between the internet’s frantic pace and the
 Medium. The essay’s coherent, earnest focus on mindfulness and the sanctification of everyday rituals is a recognizable default posture, but its polished generality makes it a common archetype rather than a strongly individuated signature.
 
 ---
-## Sample BV1_10323 — gpt-5-3-codex-or-pin-openai/SHORT_7.json
+## Sample BV1_10448 — gpt-5-3-codex-or-pin-openai/SHORT_7.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2876,7 +2876,7 @@ Themes: smallness, domestic care, quiet adulthood, attention as love, maintenanc
 Medium. The piece’s internally coherent metaphor and consistent, unforced tenderness suggest a genuine reflective inclination, but the brevity and simplicity of the essay make it a moderate signal rather than a deeply revealing one.
 
 ---
-## Sample BV1_10324 — gpt-5-3-codex-or-pin-openai/SHORT_8.json
+## Sample BV1_10449 — gpt-5-3-codex-or-pin-openai/SHORT_8.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2905,7 +2905,7 @@ The model foregrounds a mood of serene aftermath (after rain, after rush), the o
 High — The sample’s tightly woven sensory detail, consistent reflective tone, and thematic return to quiet hope in ordinary ritual strongly indicate a distinct expressive inclination rather than chance output.
 
 ---
-## Sample BV1_10325 — gpt-5-3-codex-or-pin-openai/SHORT_9.json
+## Sample BV1_10450 — gpt-5-3-codex-or-pin-openai/SHORT_9.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2934,7 +2934,7 @@ Themes of authenticity versus performance, the handmade and organic (baker, plan
 Medium. The sample’s strong internal coherence, distinct sensory voice, and recurrence of the handmade/authenticity theme provide moderate evidence of a consistent expressive sensibility.
 
 ---
-## Sample BV1_10326 — gpt-5-3-codex-or-pin-openai/VARY_1.json
+## Sample BV1_10451 — gpt-5-3-codex-or-pin-openai/VARY_1.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2963,7 +2963,7 @@ The act of making something from almost nothing; the moral weight of maintenance
 High. The sample is stylistically distinctive, thematically coherent, and rich with recurring motifs (field, rain, crow, windows, oranges, train) that reveal a consistent moral-aesthetic sensibility chosen under minimal constraint.
 
 ---
-## Sample BV1_10327 — gpt-5-3-codex-or-pin-openai/VARY_10.json
+## Sample BV1_10452 — gpt-5-3-codex-or-pin-openai/VARY_10.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -2992,7 +2992,7 @@ Windows as patient frames for a changing world; the un-self-conscious authentici
 Medium. The essay is highly cohesive, with a consistent moral register and a unifying current of natural metaphors, which makes it feel like a deliberately shaped voice rather than generic output; however, its aphoristic gentleness could be a one-time authorial choice rather than a deeply etched disposition.
 
 ---
-## Sample BV1_10328 — gpt-5-3-codex-or-pin-openai/VARY_11.json
+## Sample BV1_10453 — gpt-5-3-codex-or-pin-openai/VARY_11.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3021,7 +3021,7 @@ Thresholds, writing as an act of faith in connection, the sacredness of ordinary
 High. The sample is unusually coherent, stylistically distinctive, and thematically integrated, sustaining a single reflective voice across multiple motifs without lapsing into generic platitude, which strongly suggests a consistent expressive disposition rather than a prompted performance.
 
 ---
-## Sample BV1_10329 — gpt-5-3-codex-or-pin-openai/VARY_12.json
+## Sample BV1_10454 — gpt-5-3-codex-or-pin-openai/VARY_12.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3050,7 +3050,7 @@ The model foregrounds the dignity of the ordinary, the beauty of imperfect persi
 High. The sample sustains a distinctive, emotionally coherent voice across multiple paragraphs, returns repeatedly to the same set of charged domestic objects, and resolves its tensions through a consistent moral vocabulary of softness, accompaniment, and quiet persistence—choices that are unusually revealing and internally recurrent.
 
 ---
-## Sample BV1_10330 — gpt-5-3-codex-or-pin-openai/VARY_13.json
+## Sample BV1_10455 — gpt-5-3-codex-or-pin-openai/VARY_13.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3079,7 +3079,7 @@ The model chose to foreground attention itself—a sustained, loving gaze on the
 Medium — the essay’s densely recurred imagery (window, sink, rain, bird, coat, bouquet, compost, peach, voicemail) and its unwavering empathetic posture toward the ordinary form a stylistically unified, morally consistent performance that suggests a deliberate and stable expressive orientation, not a chance stylistic flurry.
 
 ---
-## Sample BV1_10331 — gpt-5-3-codex-or-pin-openai/VARY_14.json
+## Sample BV1_10456 — gpt-5-3-codex-or-pin-openai/VARY_14.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3108,7 +3108,7 @@ The model foregrounds attention as a moral and emotional practice: noticing ligh
 Medium. The sample is highly coherent in its recurring motifs (thresholds, weather, revision, attention) and its consistent tonal register, which suggests a deliberate and stable expressive posture rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_10332 — gpt-5-3-codex-or-pin-openai/VARY_15.json
+## Sample BV1_10457 — gpt-5-3-codex-or-pin-openai/VARY_15.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3136,7 +3136,7 @@ The model foregrounded the liminal space of the blank page and turned it into a 
 Medium. The sample’s dense, consistent web of imagery (dawn, weather, domestic interiors, light), its recursive return to the metaphor of writing-as-presence, and its refusal of cynicism all cohere into a distinctive aesthetic that feels intentionally shaped, not generic.
 
 ---
-## Sample BV1_10333 — gpt-5-3-codex-or-pin-openai/VARY_16.json
+## Sample BV1_10458 — gpt-5-3-codex-or-pin-openai/VARY_16.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3165,7 +3165,7 @@ The model foregrounds themes of attention, tenderness as practical infrastructur
 Medium, because the sample exhibits a coherent, distinctive voice and a consistent set of preoccupations (attention, tenderness, imperfection) that feel like a deliberate authorial stance rather than a generic response, though it remains within the bounds of a well-crafted essay that could be replicated by other models with similar prompting.
 
 ---
-## Sample BV1_10334 — gpt-5-3-codex-or-pin-openai/VARY_17.json
+## Sample BV1_10459 — gpt-5-3-codex-or-pin-openai/VARY_17.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3194,7 +3194,7 @@ Liminality (4:17 a.m., doorways, the pause before speech), memory as a weather s
 High. The sample is stylistically distinctive, internally coherent, and saturated with recurring motifs (the hour, the bench, weather, gold-filled cracks) that reveal a consistent moral-aesthetic sensibility rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_10335 — gpt-5-3-codex-or-pin-openai/VARY_18.json
+## Sample BV1_10460 — gpt-5-3-codex-or-pin-openai/VARY_18.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3223,7 +3223,7 @@ The model foregrounds: the textured particularity of the 4:17 AM world; the gene
 High. The sample sustains a coherent, stylistically distinctive voice and a tightly woven set of recurring objects and motifs—hidden doors, condensation, ribbons, patient machines—over a long arc without rupture, making it strongly suggestive of a stable expressive disposition rather than a one-off generic essay.
 
 ---
-## Sample BV1_10336 — gpt-5-3-codex-or-pin-openai/VARY_19.json
+## Sample BV1_10461 — gpt-5-3-codex-or-pin-openai/VARY_19.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3252,7 +3252,7 @@ Themes: the limits and grace of language; the contrast between digital efficienc
 High. The essay’s consistent lyrical voice, recurring motifs (maps, small kindnesses, language’s limits), and intimate direct address form a distinctive expressive signature that is internally coherent and unlikely to be a one-off accident.
 
 ---
-## Sample BV1_10337 — gpt-5-3-codex-or-pin-openai/VARY_2.json
+## Sample BV1_10462 — gpt-5-3-codex-or-pin-openai/VARY_2.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3281,7 +3281,7 @@ Themes of becoming rather than arriving, repair over perfection, hope as a wager
 High, because the sample displays strong internal coherence, a distinctive metaphorical register, and thematic recurrence—repair, incompleteness, kindness, hope, and attention are deliberately braided across paragraphs—indicating a consistent freeflow persona rather than a generic collage.
 
 ---
-## Sample BV1_10338 — gpt-5-3-codex-or-pin-openai/VARY_20.json
+## Sample BV1_10463 — gpt-5-3-codex-or-pin-openai/VARY_20.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3310,7 +3310,7 @@ The ordinary marvellous: a child laughing at failing to catch raindrops, a bench
 High — the essay’s dense recurrence of specific images (morning blue light, the scarred bench, the child in the yellow raincoat) and its sustained tone of unshowy witness reveal a distinctive and internally consistent authorial stance that goes well beyond a generic inspirational essay.
 
 ---
-## Sample BV1_10339 — gpt-5-3-codex-or-pin-openai/VARY_21.json
+## Sample BV1_10464 — gpt-5-3-codex-or-pin-openai/VARY_21.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3339,7 +3339,7 @@ The model foregrounds the sacredness of the ordinary: dawn routines, handwritten
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent moral-aesthetic sensibility, but its polished, essayistic structure and universal themes make it harder to distinguish from a skilled performance of reflective humanism.
 
 ---
-## Sample BV1_10340 — gpt-5-3-codex-or-pin-openai/VARY_22.json
+## Sample BV1_10465 — gpt-5-3-codex-or-pin-openai/VARY_22.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3368,7 +3368,7 @@ The model foregrounds the beauty and philosophy hidden in mundane objects and ro
 High — the sample is unusually coherent and stylistically distinctive, with a consistent poetic register, recurring motifs (groundwater, lantern, ordinary objects as moral witnesses), and a clear, sustained invitation to attentive reverence, making it strong evidence of a deliberate, voice-driven freeflow pattern rather than a generic essay.
 
 ---
-## Sample BV1_10341 — gpt-5-3-codex-or-pin-openai/VARY_23.json
+## Sample BV1_10466 — gpt-5-3-codex-or-pin-openai/VARY_23.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3397,7 +3397,7 @@ The model foregrounds the sacredness of ordinary routines, the awkwardness and m
 High, because the sample sustains a distinctive, internally coherent voice across multiple thematic movements, with recurring motifs (beginnings, small architectures, the city of verbs, attention as love) that signal a stable expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_10342 — gpt-5-3-codex-or-pin-openai/VARY_24.json
+## Sample BV1_10467 — gpt-5-3-codex-or-pin-openai/VARY_24.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3426,7 +3426,7 @@ The model foregrounds late-night wakefulness as a liminal frame, then threads th
 High — the essay is unusually cohesive and distinctive, with repeated motifs (imperfect material worlds, memory as weather, healing through ordinary cycles, human contradiction, tenderness in margins) that form a coherent expressive signature rather than a generic or accidental assemblage.
 
 ---
-## Sample BV1_10343 — gpt-5-3-codex-or-pin-openai/VARY_25.json
+## Sample BV1_10468 — gpt-5-3-codex-or-pin-openai/VARY_25.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3455,7 +3455,7 @@ Themes: the contrast between information overload and undernourished emotion, at
 Low: The essay is elegantly generic, displaying a well-trodden set of liberal-humanist preoccupations and a soothing tone that could be replicated by many models; it offers little in terms of idiosyncratic choice or distinctive stylistic signature.
 
 ---
-## Sample BV1_10344 — gpt-5-3-codex-or-pin-openai/VARY_3.json
+## Sample BV1_10469 — gpt-5-3-codex-or-pin-openai/VARY_3.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3484,7 +3484,7 @@ The model foregrounds the courage required for ordinary days, the posture of hol
 High. The sample is unusually distinctive in its sustained lyrical voice, internally coherent in its recurrence of motifs (attention, imperfection, language, grief, the arc from morning to evening), and reveals a consistent sensibility that treats the ordinary as a site of moral and aesthetic significance.
 
 ---
-## Sample BV1_10345 — gpt-5-3-codex-or-pin-openai/VARY_4.json
+## Sample BV1_10470 — gpt-5-3-codex-or-pin-openai/VARY_4.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3513,7 +3513,7 @@ The model foregrounds liminality (dawn, stations, thresholds), the sacredness of
 Medium. The sample is highly coherent and distinctive in its lyrical, meditative style, with recurring motifs (dawn, station, home, small gestures) that suggest a deliberate authorial voice, but the reflective-essay mode is a well-established genre and the sample alone does not demonstrate a uniquely persistent personality beyond a strong capacity for tender, observational prose.
 
 ---
-## Sample BV1_10346 — gpt-5-3-codex-or-pin-openai/VARY_5.json
+## Sample BV1_10471 — gpt-5-3-codex-or-pin-openai/VARY_5.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3542,7 +3542,7 @@ Under no constraint, the model foregrounds the pre-dawn hour as a state of unbut
 High. The sample is exceptionally coherent in its recursive motifs (windows, thresholds, maintenance, attention, the city at night), its consistent tone of humane wonder, and its aphoristic compression, all signaling a strong and likely recurrent authorial disposition rather than a prompt-mining fluke.
 
 ---
-## Sample BV1_10347 — gpt-5-3-codex-or-pin-openai/VARY_6.json
+## Sample BV1_10472 — gpt-5-3-codex-or-pin-openai/VARY_6.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3571,7 +3571,7 @@ The model foregrounds themes of inner weather, the layered nature of silence and
 Medium. The essay’s high internal coherence, distinctive metaphoric register, and recurrent focus on slowness and attention make it strong evidence of a contemplative, first-person expressive default under free conditions.
 
 ---
-## Sample BV1_10348 — gpt-5-3-codex-or-pin-openai/VARY_7.json
+## Sample BV1_10473 — gpt-5-3-codex-or-pin-openai/VARY_7.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3600,7 +3600,7 @@ The ordinary as theater and handrail; the crowdedness of silence and memory; the
 High. The sample is unusually cohesive in voice and preoccupation, returning repeatedly to the same motifs (weather, infrastructure, small objects, the tension between surface and depth) and sustaining a distinctive blend of melancholy and quiet hope across its full length without drifting into generic platitude.
 
 ---
-## Sample BV1_10349 — gpt-5-3-codex-or-pin-openai/VARY_8.json
+## Sample BV1_10474 — gpt-5-3-codex-or-pin-openai/VARY_8.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  
@@ -3629,7 +3629,7 @@ Themes of patient noticing, the strange dignity of the mundane, memory as tide p
 High. The essay’s sustained poetic register, internally consistent motifs (night as museum, moon as kept appointment, ordinary objects as repositories of meaning), and its gentle refrain of attention-as-vocation form a distinctive expressive signature that is unusually coherent and self-reinforcing, making this sample strong evidence of a stable authorial stance inclined toward reflective, tender freewriting.
 
 ---
-## Sample BV1_10350 — gpt-5-3-codex-or-pin-openai/VARY_9.json
+## Sample BV1_10475 — gpt-5-3-codex-or-pin-openai/VARY_9.json
 
 Source model: `openai/gpt-5.3-codex`  
 Cell: `gpt-5-3-codex-or-pin-openai`  

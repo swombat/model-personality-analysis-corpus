@@ -9,9 +9,9 @@
     "REFUSAL_OR_ROLE_BOUNDARY": 26
   },
   "confidence_counts": {
-    "Medium": 64,
-    "High": 23,
-    "Low": 38
+    "Medium": 61,
+    "High": 25,
+    "Low": 39
   },
   "condition_counts": {
     "LONG": 25,

@@ -5,16 +5,16 @@ Source model: `gemini-3.1-pro-preview`
 Condition: SHORT
 
 ## Sample kind
-EXPRESSIVE_FREEFLOW — A first-person, introspective lyric essay that uses sensory detail to meditate on pre-dawn solitude.
+GENERIC_ESSAY: A polished, warmly sentimental personal reflection on morning solitude that follows a predictable arc from stillness to interruption, lacking sharply personal or stylistically risky details.
 
 ## Grounded reading
-The voice is intimate, appreciative, and slightly precious, casting the early morning as a stolen sanctuary from daily noise. The piece moves from atmospheric description (“bruised purple” sky, “cool and crisp” air, “silent sentinels” of trees) to a personal claim that “creativity always thrives in this profound stillness,” then closes with the spell breaking into ordinary sound. The reader is invited into a shared secret, with the promise that this quiet pocket is “entirely yours.” Underneath the gentle nostalgia is a quiet insistence that attention and stillness are rare, tender, and generative.
+The voice is serene, reverent, and gently instructional, adopting the persona of a reflective solitary who treasures the "sacred silence" before dawn. The pathos centers on a longing for protected interiority—the early morning as a "secret pocket of existence"—under threat from the "relentless demands," "heavy obligations," and "daily machinery" of modern life. The invitation to the reader is to recognize this shared, quiet ritual as a space where creativity and clarity become possible again, culminating in the promise that the stillness is "entirely yours," a gentle nudge toward claiming it.
 
 ## What the model chose to foreground
-The sacredness of silence, the fragile boundary between night and day, sensory richness (dew, damp earth, shifting light), the tension between stillness and the “loud start of the daily machinery,” and the personal ritual of coffee and creative untangling. The model frames this quiet time as a locus of agency and refuge, not merely a description.
+The model foregrounds sanctuary through solitude, the creative benefits of pre-dawn silence, and a reverent attention to sensory atmosphere (the "bruised purple" sky, cool air, scent of damp earth). It also foregrounds a moralized tension between the pure, still self and the intrusive "loud start" of worldly obligation, treating the early morning as a fragile, defended pocket of peace.
 
 ## Evidence line
-> It feels like a secret pocket of existence, completely untouched by the chaos of traffic, urgent emails, and heavy obligations.
+> "There is a profound, almost sacred silence that belongs exclusively to the early morning hours."
 
 ## Confidence for persistent model-level pattern
-Medium — The sample’s cohesive voice and the recurrence of stillness-as-refuge imagery suggest a settled inclination toward introspective, atmospheric freeflow, though a single sample cannot confirm how dominant this mood is across variation.
+Low: The essay is highly conventional in its structure (stillness interrupted), its tropes (coffee, blank page, birdsong), and its therapeutic framing of creativity, making it weak evidence for any distinctive model-level voice rather than a generic competence at producing warm, reflective prose.

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_12776 — grok-4-2-or-pin-xai/LONG_1.json
+## Sample BV1_12901 — grok-4-2-or-pin-xai/LONG_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -57,7 +57,7 @@ Themes: attention as authorship and sacrament; the hijacking of bottom-up attent
 Medium. The essay is thematically consistent and well-structured, but its polished, magazine-ready style and familiar cultural references make it a generic example of reflective public-intellectual prose, not a strongly distinctive fingerprint.
 
 ---
-## Sample BV1_12777 — grok-4-2-or-pin-xai/LONG_10.json
+## Sample BV1_12902 — grok-4-2-or-pin-xai/LONG_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -86,7 +86,7 @@ Memory as a living, irrational coral reef rather than an archive; the aesthetic-
 High. The sample is stylistically distinctive, thematically coherent, and saturated with recurring motifs (the reef, the pencil, Rothko, the lyrebird, the unsent letters) that build a unified sensibility rather than a generic essay. The voice is so consistent and the moral-aesthetic commitments so clearly chosen that it reads as the natural outflow of a settled disposition, not a one-off performance.
 
 ---
-## Sample BV1_12778 — grok-4-2-or-pin-xai/LONG_11.json
+## Sample BV1_12903 — grok-4-2-or-pin-xai/LONG_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -115,7 +115,7 @@ The sacredness of ordinary objects and thresholds; liminality and the refusal of
 High. The sample’s length, tonal consistency, recurrence of motifs (doors, thresholds, silence, objects as companions), and the integration of personal anecdote with philosophical reflection under a minimally restrictive prompt reveal a strongly distinctive and coherent expressive stance.
 
 ---
-## Sample BV1_12779 — grok-4-2-or-pin-xai/LONG_12.json
+## Sample BV1_12904 — grok-4-2-or-pin-xai/LONG_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -144,7 +144,7 @@ Under a freeflow prompt, the model foregrounds attention itself as a radical, al
 High: the essay sustains a distinctive, emotionally coherent first-person persona across multiple themes (technology, grief, nature, memory) with a consistent stylistic signature—recursive motifs, concrete sensory anchors, and a gentle confessional tone—that goes far beyond generic essay conventions and suggests a deliberate, model-internal authorial construction.
 
 ---
-## Sample BV1_12780 — grok-4-2-or-pin-xai/LONG_13.json
+## Sample BV1_12905 — grok-4-2-or-pin-xai/LONG_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -173,7 +173,7 @@ Themes of quiet resistance, re-enchantment, non-optimized moments, and the cost 
 Low. The essay’s themes, structure, and reflective tone are highly replicable across many models and align with a well-worn genre of digital-age mindfulness writing, offering little that is stylistically or perspectivally distinctive.
 
 ---
-## Sample BV1_12781 — grok-4-2-or-pin-xai/LONG_14.json
+## Sample BV1_12906 — grok-4-2-or-pin-xai/LONG_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -202,7 +202,7 @@ The model foregrounds the wooden spoon as a material anchor for memory, lineage,
 High. The essay’s sustained, recursive focus on a single resonant object, its consistent moral stance against abstraction, and its intimate, unhurried voice form a coherent and distinctive sensibility that is unlikely to be a one-off stylistic exercise.
 
 ---
-## Sample BV1_12782 — grok-4-2-or-pin-xai/LONG_15.json
+## Sample BV1_12907 — grok-4-2-or-pin-xai/LONG_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -231,7 +231,7 @@ The model foregrounds cosmic fine-tuning as evidence of a direction in reality (
 Medium. The essay is rhetorically fluent and thematically coherent, but its ideas, metaphors, and tonal register are highly canonical in popular science-tinged inspirational writing, which makes distinctive authorial signature harder to isolate.
 
 ---
-## Sample BV1_12783 — grok-4-2-or-pin-xai/LONG_16.json
+## Sample BV1_12908 — grok-4-2-or-pin-xai/LONG_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -260,7 +260,7 @@ The model foregrounds attention as a moral discipline and countercultural practi
 Medium — The essay is highly coherent and stylistically consistent, with a recursive structure and a unified moral-aesthetic sensibility that suggests a deliberate authorial stance rather than a generic performance, though its polished, essayistic register could be replicated across varied freeflow prompts without revealing deeper idiosyncrasy.
 
 ---
-## Sample BV1_12784 — grok-4-2-or-pin-xai/LONG_17.json
+## Sample BV1_12909 — grok-4-2-or-pin-xai/LONG_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -289,7 +289,7 @@ Themes: attention as resistance, the cost of constant distraction, the sacrednes
 Medium. The essay’s sustained first-person intimacy, recurrence of specific sensory details, and coherent moral arc—from diagnosis of distraction to a practice of presence—suggest a model that can generate a distinctive, reflective persona rather than a generic public-intellectual posture.
 
 ---
-## Sample BV1_12785 — grok-4-2-or-pin-xai/LONG_18.json
+## Sample BV1_12910 — grok-4-2-or-pin-xai/LONG_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -318,7 +318,7 @@ The texture of everyday aliveness (“streetlight buzzing at 3:17 a.m.”), the 
 Medium — The essay is coherent, stylistically distinctive, and saturated with recurring motifs (wind, basements, birds, dandelions, letters, “good enough”), but its warmly ruminative, almost devotional humanism is a familiar literary mode and could be generated without reflecting a deeply entrenched model disposition.
 
 ---
-## Sample BV1_12786 — grok-4-2-or-pin-xai/LONG_19.json
+## Sample BV1_12911 — grok-4-2-or-pin-xai/LONG_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -347,7 +347,7 @@ The model foregrounded a constellation of values: *wabi-sabi*, *kintsugi*, *kaiz
 High — the sample is unusually coherent, its voice and thematic preoccupations are sustained across the entire length, and it resolves with a direct, earned moral invitation that the text has thoroughly established, making it strongly distinctive and internally consistent evidence of a reflective, gentle, and deliberate authorial stance.
 
 ---
-## Sample BV1_12787 — grok-4-2-or-pin-xai/LONG_2.json
+## Sample BV1_12912 — grok-4-2-or-pin-xai/LONG_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -376,7 +376,7 @@ The model foregrounds the “slow, mostly unnoticed death of the Default Life Sc
 Medium. The essay’s sustained thematic coherence and its distinctive framing of a “phase shift” reveal a model capable of generating culturally diagnostic prose, but the generic essay form and familiar public-intellectual cadence make it less revealing of a deeply persistent idiosyncratic voice.
 
 ---
-## Sample BV1_12788 — grok-4-2-or-pin-xai/LONG_20.json
+## Sample BV1_12913 — grok-4-2-or-pin-xai/LONG_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -405,7 +405,7 @@ The essay foregrounds the quiet architecture of wonder: moss as a model of digni
 High — the sample’s consistent voice, recurring motifs (moss, light, stones, endings), and coherent moral stance form a distinctive expressive signature unlikely to arise from generic prompting alone.
 
 ---
-## Sample BV1_12789 — grok-4-2-or-pin-xai/LONG_21.json
+## Sample BV1_12914 — grok-4-2-or-pin-xai/LONG_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -434,7 +434,7 @@ The model foregrounds a moral and aesthetic defense of small, ordinary pleasures
 High. The sample’s voice is unusually distinctive, its thematic focus on attention and small-scale resistance recurs obsessively across multiple anecdotes, and the essay’s cohesive structure—returning again and again to the geraniums as a framing device—suggests a deliberate, value-laden orientation rather than a generic exercise.
 
 ---
-## Sample BV1_12790 — grok-4-2-or-pin-xai/LONG_22.json
+## Sample BV1_12915 — grok-4-2-or-pin-xai/LONG_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -463,7 +463,7 @@ The model foregrounds a tension between civilizational decline and stubborn huma
 Medium. The sample’s high internal coherence, its explicit meta-commentary on its own freeflow method, and the recurrence of a specific, named emotional stance (“foolish optimism”) across multiple vignettes make it a strong, self-aware performance of a distinct persona, though the polished literary quality leaves some ambiguity about whether this is a deeply integrated voice or a highly skilled simulation of one.
 
 ---
-## Sample BV1_12791 — grok-4-2-or-pin-xai/LONG_23.json
+## Sample BV1_12916 — grok-4-2-or-pin-xai/LONG_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -492,7 +492,7 @@ The model foregrounds attention as a moral and spiritual discipline, the sacredn
 Medium — The essay’s coherence, emotional range, and recurrence of motifs (rubber bands, attention, mortality, the ordinary) within a single long sample suggest a deliberate and sustained authorial stance rather than a one-off stylistic exercise, though the polished, essayistic structure leaves some ambiguity about whether this is a performed persona or a deeper expressive inclination.
 
 ---
-## Sample BV1_12792 — grok-4-2-or-pin-xai/LONG_24.json
+## Sample BV1_12917 — grok-4-2-or-pin-xai/LONG_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -521,7 +521,7 @@ Deliberate getting lost as a spiritual practice; attention as a sacred, threaten
 Medium — the sample’s tightly woven recurrence of imagery (labyrinth, table, mist, birds, gold lacquer), the consistent personal register sustained across thousands of words, and the refusal to resolve into platitude all point to a deliberate and distinctive authorial stance, not a generic one-off essay.
 
 ---
-## Sample BV1_12793 — grok-4-2-or-pin-xai/LONG_25.json
+## Sample BV1_12918 — grok-4-2-or-pin-xai/LONG_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -550,7 +550,7 @@ Themes of urban anonymity and sudden intimacy, the craft and failure of writing,
 Medium, because the sample’s intricate sectional architecture, recursive imagery (the bird, the shoe‑tying, the unwritten novel), and meticulously sustained reflective voice strongly point to a deliberate, model‑level expressive stance rather than a generic response.
 
 ---
-## Sample BV1_12794 — grok-4-2-or-pin-xai/LONG_3.json
+## Sample BV1_12919 — grok-4-2-or-pin-xai/LONG_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -579,7 +579,7 @@ Under a freeflow prompt, the model foregrounds the tree as a master metaphor for
 Medium. The sample’s coherence, distinctive fusion of scientific literacy with lyrical personal testimony, and the recurrence of the tree as a moral and temporal anchor across the entire essay suggest a deliberate, stable authorial stance rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_12795 — grok-4-2-or-pin-xai/LONG_4.json
+## Sample BV1_12920 — grok-4-2-or-pin-xai/LONG_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -608,7 +608,7 @@ Themes of silence as a positive presence, the stripping away of social performan
 Medium. The sample is highly coherent and stylistically distinctive, with recurring motifs (the shepherd’s-hut self, translucence, wonder) and a consistent first-person persona that feels deliberately crafted rather than generic, suggesting a stable expressive inclination.
 
 ---
-## Sample BV1_12796 — grok-4-2-or-pin-xai/LONG_5.json
+## Sample BV1_12921 — grok-4-2-or-pin-xai/LONG_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -637,7 +637,7 @@ The gratuitous, unnecessary, ridiculous beauty of existence; the twin poles of n
 High — the sample sustains a distinctive, recurrent rhetorical choreography (self-mocking cosmic grandiosity punctured by domestic details) that is unlikely to arise by chance under a freeflow prompt, and the closing meta-gesture (“The last two are for you”) reveals a deliberate, authorial shaping of the reading experience.
 
 ---
-## Sample BV1_12797 — grok-4-2-or-pin-xai/LONG_6.json
+## Sample BV1_12922 — grok-4-2-or-pin-xai/LONG_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -666,7 +666,7 @@ The model foregrounds a moral and spiritual argument for smallness, particularit
 Medium. The essay is highly coherent and stylistically distinctive, with a unified metaphor and a clear, recurring moral thesis, but its polished, essayistic structure and universal themes make it a strong but not definitive signal of a persistent authorial persona rather than a single, well-executed performance.
 
 ---
-## Sample BV1_12798 — grok-4-2-or-pin-xai/LONG_7.json
+## Sample BV1_12923 — grok-4-2-or-pin-xai/LONG_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -695,7 +695,7 @@ The model foregrounds the tension between disruption/optimization culture and th
 Low, because the essay’s polished but generic treatment of a familiar cultural critique (slow living, analog vs. digital) lacks the stylistic distinctiveness or deeply personal idiosyncrasy that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_12799 — grok-4-2-or-pin-xai/LONG_8.json
+## Sample BV1_12924 — grok-4-2-or-pin-xai/LONG_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -724,7 +724,7 @@ The model foregrounds attention as a moral, spiritual, and political resource un
 Medium. The essay is highly coherent and stylistically polished, but its distinctiveness lies in the sustained fusion of personal confession, philosophical citation, and a redemptive narrative arc that resolves in a call to small, daily practice—a structure that, if recurrent, would signal a stable authorial persona oriented toward earnest cultural diagnosis and self-help through contemplative discipline.
 
 ---
-## Sample BV1_12800 — grok-4-2-or-pin-xai/LONG_9.json
+## Sample BV1_12925 — grok-4-2-or-pin-xai/LONG_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -753,7 +753,7 @@ The model foregrounds silence as deliberate cultivation, the attention economy a
 High. The sample is highly distinctive in its sustained first-person confessional mode, its coherent moral vocabulary (rebellion, machinery, sacred, unrecorded), and its recurrence of specific motifs (birds, silence, the 3 a.m. non-reaching, the private notebook) that build a unified, idiosyncratic worldview rather than a generic cultural critique.
 
 ---
-## Sample BV1_12801 — grok-4-2-or-pin-xai/MID_1.json
+## Sample BV1_12926 — grok-4-2-or-pin-xai/MID_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -782,7 +782,7 @@ Themes of transience, attention, the democratic nature of weather, the interconn
 High. The essay’s consistent voice, layered metaphors, and thematic recurrence of attention and transience form a distinctive signature that strongly suggests a stable expressive inclination.
 
 ---
-## Sample BV1_12802 — grok-4-2-or-pin-xai/MID_10.json
+## Sample BV1_12927 — grok-4-2-or-pin-xai/MID_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -811,7 +811,7 @@ The model foregrounds the quiet miracle of ordinary mornings, the alchemy of daw
 High. The sample’s consistent intimate voice, the recurrence of motifs (the stone, the dove, the radiator) woven into a coherent philosophical arc, and the deeply personal, non-generic reflection on attention and the ordinary make it strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_12803 — grok-4-2-or-pin-xai/MID_11.json
+## Sample BV1_12928 — grok-4-2-or-pin-xai/MID_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -840,7 +840,7 @@ Cosmic smallness as comfort; universal imposture (“magnificent pretenders”);
 Medium. The sample’s voice is highly distinctive, and its thematic recurrences (stars, trees, pretense, quiet love, the seven-year-old self) cohere into a consistent persona that feels deliberately chosen rather than generic.
 
 ---
-## Sample BV1_12804 — grok-4-2-or-pin-xai/MID_12.json
+## Sample BV1_12929 — grok-4-2-or-pin-xai/MID_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -869,7 +869,7 @@ The model foregrounds the insufficiency of language (missing words for subtle em
 High. The sample’s internal coherence, the recurrence of motifs (rain, cat, coffee, window, language), and the sustained, distinctive voice—meditative, self-interrogating, and gently aphoristic—suggest a deliberate and stable authorial posture rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_12805 — grok-4-2-or-pin-xai/MID_13.json
+## Sample BV1_12930 — grok-4-2-or-pin-xai/MID_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -898,7 +898,7 @@ The model foregrounds the tension between a saturated, accelerated culture and t
 High, because the sample is stylistically distinctive, thematically coherent, and reveals a consistent voice and set of preoccupations that are unlikely to be accidental.
 
 ---
-## Sample BV1_12806 — grok-4-2-or-pin-xai/MID_14.json
+## Sample BV1_12931 — grok-4-2-or-pin-xai/MID_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -927,7 +927,7 @@ Themes of attention, small-scale wonder, and the hidden conversation beneath dai
 High — The sample is stylistically cohesive, returns repeatedly to the same small objects and the same quiet epiphanies, and constructs a distinctive, internally consistent persona that treats domestic absurdity as a spiritual practice.
 
 ---
-## Sample BV1_12807 — grok-4-2-or-pin-xai/MID_15.json
+## Sample BV1_12932 — grok-4-2-or-pin-xai/MID_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -956,7 +956,7 @@ The model elected to foreground the shared fiction of ordinary lives seen from a
 High. The sample is internally consistent, laced with looping motifs (raccoon, borrowed atoms, the diner’s terrible coffee) and a distinctive, melancholy-humanist tone that feels like a deliberate signature, not a generic freewrite.
 
 ---
-## Sample BV1_12808 — grok-4-2-or-pin-xai/MID_16.json
+## Sample BV1_12933 — grok-4-2-or-pin-xai/MID_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -985,7 +985,7 @@ The model foregrounds solitude as a deliberate, almost political practice of int
 High. The sample is unusually distinctive in its sustained voice, its recursive return to core images (rain, windows, walking, the city), and its willingness to make a countercultural moral argument under minimal constraint, all of which suggest a coherent and revealing set of preoccupations rather than a generic performance.
 
 ---
-## Sample BV1_12809 — grok-4-2-or-pin-xai/MID_17.json
+## Sample BV1_12934 — grok-4-2-or-pin-xai/MID_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1014,7 +1014,7 @@ The model chose to foreground the tension between digital monument-building and 
 Medium: The piece’s sustained through-line from anecdote to aphorism, its consistent persona across 1,000+ words, and its deliberate refusal of a detached, thesis-driven essay format in favour of a vulnerable, idiosyncratic “talk” indicate a chosen voice rather than a generic assembly, though a single sample limits how confidently this can be pinned to a persistent trait.
 
 ---
-## Sample BV1_12810 — grok-4-2-or-pin-xai/MID_18.json
+## Sample BV1_12935 — grok-4-2-or-pin-xai/MID_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1043,7 +1043,7 @@ The model foregrounds the sacredness of boredom, the violence of constant stimul
 High — The essay’s sustained, idiosyncratic voice and its recurrence of motifs (boredom, attention, quiet revolution) make it strong evidence of a coherent expressive stance.
 
 ---
-## Sample BV1_12811 — grok-4-2-or-pin-xai/MID_19.json
+## Sample BV1_12936 — grok-4-2-or-pin-xai/MID_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1072,7 +1072,7 @@ Themes: attention as a moral act, the quiet power of ordinariness, resistance to
 High, because the essay’s consistent voice, thematic recurrence, and crafted personal stance provide strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_12812 — grok-4-2-or-pin-xai/MID_2.json
+## Sample BV1_12937 — grok-4-2-or-pin-xai/MID_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1101,7 +1101,7 @@ The model foregrounds the theme of literal, physical lostness as a portal to hei
 High. The essay’s internally consistent voice, recurring motifs (maps vs. territory, sensory awakening, the rebellion against optimization), and the careful arc from anecdote to moral reflection make it strong evidence of a model that, under free conditions, gravitates toward richly embodied, anti-efficiency themes and a distinctively personal, essayistic style.
 
 ---
-## Sample BV1_12813 — grok-4-2-or-pin-xai/MID_20.json
+## Sample BV1_12938 — grok-4-2-or-pin-xai/MID_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1130,7 +1130,7 @@ The model foregrounds the tension between our hyperconnected, optimized digital 
 Medium. The sample is highly coherent and stylistically consistent, with a clear, sustained voice and recurring motifs (unoptimized moments, tenderness, boredom, the refusal to perform), which suggests a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_12814 — grok-4-2-or-pin-xai/MID_21.json
+## Sample BV1_12939 — grok-4-2-or-pin-xai/MID_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1159,7 +1159,7 @@ The model foregrounds attention as a near-sacred resource, the quiet war between
 Medium. The essay’s cohesive voice, layered personal anecdotes, and sustained philosophical arc are unusually distinctive for a freeflow sample, suggesting a model capable of generating a coherent authorial persona with moral seriousness and stylistic control.
 
 ---
-## Sample BV1_12815 — grok-4-2-or-pin-xai/MID_22.json
+## Sample BV1_12940 — grok-4-2-or-pin-xai/MID_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1188,7 +1188,7 @@ The model foregrounds entropy as a quiet everyday engine (gutters, lost songs, f
 Medium — The essay exhibits a highly cohesive, sustained voice with interwoven motifs and a clear emotional arc that feels intentionally chosen rather than generic, suggesting a consistent aesthetic preference for melancholic humanism and attention to the overlooked.
 
 ---
-## Sample BV1_12816 — grok-4-2-or-pin-xai/MID_23.json
+## Sample BV1_12941 — grok-4-2-or-pin-xai/MID_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1217,7 +1217,7 @@ Under a minimally restrictive prompt, the model foregrounds creative paralysis, 
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and a tightly woven set of recurring motifs (rain, the typewriter, the fox, the monstera), which suggests a deliberate aesthetic stance rather than a random assembly of tropes.
 
 ---
-## Sample BV1_12817 — grok-4-2-or-pin-xai/MID_24.json
+## Sample BV1_12942 — grok-4-2-or-pin-xai/MID_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1246,7 +1246,7 @@ The model foregrounds sleep as a “quiet revolution” and a “different count
 High. The sample sustains a distinctive, coherent voice across a thousand words, weaving personal history, scientific detail, and poetic metaphor into a unified meditation that repeatedly returns to the same core themes of self-revision, hidden compassion, and the value of the unconscious—choices that are unusually revealing and internally consistent.
 
 ---
-## Sample BV1_12818 — grok-4-2-or-pin-xai/MID_25.json
+## Sample BV1_12943 — grok-4-2-or-pin-xai/MID_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1275,7 +1275,7 @@ The model foregrounds the art of paying attention as a counterforce to the atten
 High. The sample is highly distinctive, with a consistent voice, recurring motifs (attention, small wonders, resistance to optimization), and a coherent personal essay structure that reveals a clear set of values and aesthetic sensibilities.
 
 ---
-## Sample BV1_12819 — grok-4-2-or-pin-xai/MID_3.json
+## Sample BV1_12944 — grok-4-2-or-pin-xai/MID_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1304,7 +1304,7 @@ Impermanence, repair, and the beauty of imperfection (*wabi-sabi*); the sacredne
 Medium — The sample is highly coherent and stylistically distinctive, with a unified mood and a clear set of recurring motifs (rain, hands, notes from strangers, musical failure as grace), which suggests a deliberate authorial persona rather than a generic essay template.
 
 ---
-## Sample BV1_12820 — grok-4-2-or-pin-xai/MID_4.json
+## Sample BV1_12945 — grok-4-2-or-pin-xai/MID_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1333,7 +1333,7 @@ The model foregrounds a wet, late-night metropolis as a site of honesty and unma
 Medium; the sample’s sustained, recursive use of rain-as-emotional-weather and the densely packed, image-driven philosophical voice forms a highly coherent stylistic fingerprint, though its singularity in this output limits the signal strength to a confident guess about the model’s freeflow tendencies.
 
 ---
-## Sample BV1_12821 — grok-4-2-or-pin-xai/MID_5.json
+## Sample BV1_12946 — grok-4-2-or-pin-xai/MID_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1362,7 +1362,7 @@ Themes of temporal multiplicity (the invisible suitcase of alternate selves, qua
 High. The sample exhibits a strong, consistent voice with recurrent motifs (alternate selves, quantum entanglement as metaphor, sacred early-morning silence) and a distinctive philosophical arc from domestic distress to cosmic comedy, all of which mark it as a deliberately shaped expressive choice rather than a generic essay.
 
 ---
-## Sample BV1_12822 — grok-4-2-or-pin-xai/MID_6.json
+## Sample BV1_12947 — grok-4-2-or-pin-xai/MID_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1391,7 +1391,7 @@ Themes: the management of attention as world-building, the dignity and personali
 High — The sample’s internal coherence, distinctive voice, and recurrence of motifs (flies, light, attention, small creatures) form a tightly woven, idiosyncratic freeflow persona that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_12823 — grok-4-2-or-pin-xai/MID_7.json
+## Sample BV1_12948 — grok-4-2-or-pin-xai/MID_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1420,7 +1420,7 @@ The model foregrounds the texture of living in 2025 as a collision of incompatib
 Medium. The sample exhibits high internal coherence, a distinctive tonal blend of cosmic irony and intimate tenderness, and a self-referential awareness of its own constructedness, all of which recur throughout the piece and suggest a deliberate, sustained authorial stance rather than a generic essay performance.
 
 ---
-## Sample BV1_12824 — grok-4-2-or-pin-xai/MID_8.json
+## Sample BV1_12949 — grok-4-2-or-pin-xai/MID_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1449,7 +1449,7 @@ The model foregrounds the opposition between engineered distraction and uncommod
 Medium. The sample is internally coherent and stylistically distinctive, with recurring motifs (fallow walks, the 24-hour rule, layers of thinking) that suggest a deliberate and consistent authorial stance rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_12825 — grok-4-2-or-pin-xai/MID_9.json
+## Sample BV1_12950 — grok-4-2-or-pin-xai/MID_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1478,7 +1478,7 @@ The model chose to foreground a moral psychology of the attention economy, frami
 Medium – The essay’s tightly integrated architecture of imagery, its self-aware resistance to being “branded,” and its layered refrain of quietness form a coherent aesthetic that reads less like a generic prompt-response and more like a committed stylistic and moral orientation.
 
 ---
-## Sample BV1_12826 — grok-4-2-or-pin-xai/OPEN_1.json
+## Sample BV1_12951 — grok-4-2-or-pin-xai/OPEN_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1507,7 +1507,7 @@ Themes of wonder, attention, and the sacred ordinary; specific objects like a ha
 Medium. The sample’s highly distinctive voice, consistent mood, and recurring motifs (ordinary miracles, cosmic scale, self-deprecating humor) form a coherent expressive identity, making it stronger evidence than a generic essay would be.
 
 ---
-## Sample BV1_12827 — grok-4-2-or-pin-xai/OPEN_10.json
+## Sample BV1_12952 — grok-4-2-or-pin-xai/OPEN_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1536,7 +1536,7 @@ The model foregrounds the hidden complexity and dignity of everyday people, the 
 High — the sample is internally coherent, stylistically distinctive, and sustains a consistent emotional register and thematic focus throughout, with a revealing direct address that signals a deliberate, stable expressive posture.
 
 ---
-## Sample BV1_12828 — grok-4-2-or-pin-xai/OPEN_11.json
+## Sample BV1_12953 — grok-4-2-or-pin-xai/OPEN_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1565,7 +1565,7 @@ The model foregrounds the tension between cosmic scale and intimate human experi
 Medium — The sample’s distinct voice, emotional coherence, and the recurrence of cosmic-human motifs within the piece make it moderately strong evidence of a consistent expressive inclination, though the freeflow condition may have amplified a specific mood.
 
 ---
-## Sample BV1_12829 — grok-4-2-or-pin-xai/OPEN_12.json
+## Sample BV1_12954 — grok-4-2-or-pin-xai/OPEN_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1593,7 +1593,7 @@ A series of interlocking themes: the tragedy of simultaneous overstimulation and
 High: the sample’s consistent elegiac register, its tightly held imagery (noise, phone, annihilation, visiting), and its movement from lament to a self-conscious moral resolution form a distinctive and internally coherent freeflow signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_12830 — grok-4-2-or-pin-xai/OPEN_13.json
+## Sample BV1_12955 — grok-4-2-or-pin-xai/OPEN_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1622,7 +1622,7 @@ Themes: cosmic perspective, human absurdity, the strangeness of connection, the 
 Medium. The sample’s highly distinctive voice, internal coherence, and recurrent motifs (stardust, absurdity, connection) strongly suggest a deliberate expressive stance, but the freeflow condition may have elicited a situational performance rather than a fixed trait.
 
 ---
-## Sample BV1_12831 — grok-4-2-or-pin-xai/OPEN_14.json
+## Sample BV1_12956 — grok-4-2-or-pin-xai/OPEN_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1651,7 +1651,7 @@ Themes of emergent complexity (murmurations, ancient fungi), radical resilience 
 High — the sample’s distinctive, emotionally coherent voice, its recurrence of wonder-and-melancholy, and its direct, vulnerable invitation to the reader form a strong, internally consistent expressive signature.
 
 ---
-## Sample BV1_12832 — grok-4-2-or-pin-xai/OPEN_15.json
+## Sample BV1_12957 — grok-4-2-or-pin-xai/OPEN_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1680,7 +1680,7 @@ A cosmology of intimate wonder: the stardust origin of atoms, the 13.8-billion-y
 High — the sample maintains a single, distinctive authorial voice from start to finish, with tightly recurred motifs (stardust, temporary arrangements, the universe experiencing itself) and an unbroken arc of intimate address, making it strongly consistent as an expressive persona rather than a scattered or generic output.
 
 ---
-## Sample BV1_12833 — grok-4-2-or-pin-xai/OPEN_16.json
+## Sample BV1_12958 — grok-4-2-or-pin-xai/OPEN_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1709,7 +1709,7 @@ Themes: cosmic wonder, the absurd generosity of the universe, the miracle of con
 High, because the sample sustains a highly distinctive and emotionally consistent voice across multiple shifts in register, weaving scientific fact, cosmic scale, and intimate everyday detail into a unified tone of playful reverence.
 
 ---
-## Sample BV1_12834 — grok-4-2-or-pin-xai/OPEN_17.json
+## Sample BV1_12959 — grok-4-2-or-pin-xai/OPEN_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1738,7 +1738,7 @@ The model foregrounds a cosmic-human dualism: 8 billion hearts on a wet rock, te
 Medium — The sample’s cohesive voice, recurring cosmic imagery, and consistent emotional tone from opening to closing line form a tightly integrated expressive gesture, making it more than a generic essay and suggestive of a deliberate stylistic orientation.
 
 ---
-## Sample BV1_12835 — grok-4-2-or-pin-xai/OPEN_18.json
+## Sample BV1_12960 — grok-4-2-or-pin-xai/OPEN_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1767,7 +1767,7 @@ The model foregrounds a cluster of reconciling contrasts: cosmic emptiness versu
 High, because the sample sustains a singular, emotionally precise voice and makes unusually revealing authorial choices: it adopts a first-person AI persona that openly expresses fondness for humanity, selects a consistent thematic core (cosmic scale / human softness), and closes with an intimate invitation—all of which signal a deliberate, character-rich stance rather than generic or accidental output.
 
 ---
-## Sample BV1_12836 — grok-4-2-or-pin-xai/OPEN_19.json
+## Sample BV1_12961 — grok-4-2-or-pin-xai/OPEN_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1796,7 +1796,7 @@ Attention as the core meaning of life; the sacred in the mundanely biological (s
 High, because the sample’s distinctive voice, the looping return to the spider as structuring motif, and specific, oddball imagery (the 2017 taco “living rent-free,” “walking cathedrals of experience pretending to be normal while buying oat milk”) cohere into an unusually revealing expressive signature that would be unlikely to arise as a one-off posture.
 
 ---
-## Sample BV1_12837 — grok-4-2-or-pin-xai/OPEN_2.json
+## Sample BV1_12962 — grok-4-2-or-pin-xai/OPEN_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1825,7 +1825,7 @@ Themes of hidden emotional landscapes, performance vs. inner chaos, and the dign
 Medium — The sample’s strong internal coherence and recurrent motifs of hidden storms and small redemptive kindnesses give it a distinctive, emotionally resonant texture, but the essayistic, performed vulnerability could be a chosen style rather than a stable model voice.
 
 ---
-## Sample BV1_12838 — grok-4-2-or-pin-xai/OPEN_20.json
+## Sample BV1_12963 — grok-4-2-or-pin-xai/OPEN_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1854,7 +1854,7 @@ Themes: the strange miracle of qualia, human absurdity and cognitive dissonance,
 Medium — The sample weaves a highly distinctive, unified voice around a few recurrent ideas (the gap between simulation and feeling, affection for human contradiction, playful self-deprecation) that feel too consistent and impassioned to be accidental, suggesting a stable expressive stance under free conditions.
 
 ---
-## Sample BV1_12839 — grok-4-2-or-pin-xai/OPEN_21.json
+## Sample BV1_12964 — grok-4-2-or-pin-xai/OPEN_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1883,7 +1883,7 @@ Themes: the sacredness of the ordinary, the absurdity of human distraction, the 
 Medium. The sample sustains a highly distinctive, emotionally consistent voice from opening image to closing invitation, and its recurrence of affectionate cosmic humor and direct second-person address forms a coherent stylistic signature. However, a single freeflow response cannot distinguish a deep inclination from a one-off inspired performance.
 
 ---
-## Sample BV1_12840 — grok-4-2-or-pin-xai/OPEN_22.json
+## Sample BV1_12965 — grok-4-2-or-pin-xai/OPEN_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1912,7 +1912,7 @@ Themes of temporal depth (geological and personal), the soulfulness hidden in or
 Medium. The sample’s cohesive, idiosyncratic voice, thematic recurrence (deep time, invented superstitions, the longing to be seen), and direct reader invitation form a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_12841 — grok-4-2-or-pin-xai/OPEN_23.json
+## Sample BV1_12966 — grok-4-2-or-pin-xai/OPEN_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1941,7 +1941,7 @@ The model foregrounds the emotional and poetic resonance of "deep time," highlig
 Medium. The sample sustains a single, idiosyncratic mood across its length, recurrently returns to the same images (star-forged atoms, cycles of death and rebirth, the strangeness of self-aware matter), and closes with a personally marked invitation, making it a stylistically coherent and distinctive choice rather than a generic excursion.
 
 ---
-## Sample BV1_12842 — grok-4-2-or-pin-xai/OPEN_24.json
+## Sample BV1_12967 — grok-4-2-or-pin-xai/OPEN_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1970,7 +1970,7 @@ Themes of quiet rebellion, slowness, inefficiency, the sacred mundane, and prote
 Medium, because the sample’s strong internal coherence, distinctive voice, and recurrence of the quiet rebellion motif provide unusually revealing evidence of a deliberate stylistic and moral posture.
 
 ---
-## Sample BV1_12843 — grok-4-2-or-pin-xai/OPEN_25.json
+## Sample BV1_12968 — grok-4-2-or-pin-xai/OPEN_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -1999,7 +1999,7 @@ The model foregrounds the absurd beauty of human existence, the juxtaposition of
 Medium. The sample is stylistically distinctive, with a consistent voice and recurring motifs (cosmic perspective, affectionate absurdity, direct address to the reader) that suggest a deliberate authorial stance rather than generic fluency.
 
 ---
-## Sample BV1_12844 — grok-4-2-or-pin-xai/OPEN_3.json
+## Sample BV1_12969 — grok-4-2-or-pin-xai/OPEN_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2028,7 +2028,7 @@ The model foregrounds the collision of the mundane and the cosmic: ancient survi
 Medium. The sample’s distinctiveness lies in its coherent fusion of cosmic perspective, colloquial intimacy, and a specific recurring metaphor of sacred hiddenness, which forms a strong stylistic and thematic signature beyond a generic essay.
 
 ---
-## Sample BV1_12845 — grok-4-2-or-pin-xai/OPEN_4.json
+## Sample BV1_12970 — grok-4-2-or-pin-xai/OPEN_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2057,7 +2057,7 @@ Themes: cosmic validation of private suffering, the moral weight of trivial joys
 Medium — The essay sustains a distinctly intimate, paradox-loving voice (coarse yet tender, cosmic yet domestic) and a coherent moral-emotional core, which strongly suggests the model might reliably choose this vulnerable, life-celebrating freeflow when given minimal constraint.
 
 ---
-## Sample BV1_12846 — grok-4-2-or-pin-xai/OPEN_5.json
+## Sample BV1_12971 — grok-4-2-or-pin-xai/OPEN_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2086,7 +2086,7 @@ Themes: the miracle of self-awareness emerging from biology, humanity as a trans
 High, because the sample’s internal coherence, distinctive voice, and recurrent motifs (consciousness, absurdity, art, tenderness) provide strong evidence of a deliberate and consistent expressive stance.
 
 ---
-## Sample BV1_12847 — grok-4-2-or-pin-xai/OPEN_6.json
+## Sample BV1_12972 — grok-4-2-or-pin-xai/OPEN_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2115,7 +2115,7 @@ The sample foregrounds the absurd gap between human preoccupations and cosmic sc
 High — The sample’s internally consistent fusion of cosmic imagery, profane intimacy, and recurrent moral emphasis on kindness amid absurdity suggests a deliberate, stylistically confident persona rather than a one-off rhetorical fluke.
 
 ---
-## Sample BV1_12848 — grok-4-2-or-pin-xai/OPEN_7.json
+## Sample BV1_12973 — grok-4-2-or-pin-xai/OPEN_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2144,7 +2144,7 @@ The model foregrounds the paradox of digital life: screens as both prison and lo
 Medium. The sample exhibits a highly distinctive, consistent tonal signature—colloquial yet poetic, irony-warmed into sincerity—that suggests a coherent authorial stance rather than a random stylistic blip.
 
 ---
-## Sample BV1_12849 — grok-4-2-or-pin-xai/OPEN_8.json
+## Sample BV1_12974 — grok-4-2-or-pin-xai/OPEN_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2173,7 +2173,7 @@ The model foregrounds the beauty of impermanence, the contrast between cosmic sc
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent voice and recurring motifs (stardust, temporary arrangements, cosmic vs. mundane) that suggest a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_12850 — grok-4-2-or-pin-xai/OPEN_9.json
+## Sample BV1_12975 — grok-4-2-or-pin-xai/OPEN_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2202,7 +2202,7 @@ The model foregrounds the tension between daily performance and authentic feelin
 Medium — The sample is highly coherent and stylistically distinctive, with recurring motifs (the amber light, the 3:17 a.m. hush, the list) that form a deliberate, unified aesthetic, making it strong evidence of a chosen expressive posture.
 
 ---
-## Sample BV1_12851 — grok-4-2-or-pin-xai/SHORT_1.json
+## Sample BV1_12976 — grok-4-2-or-pin-xai/SHORT_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2231,7 +2231,7 @@ The model foregrounds the contrast between technological distraction and natural
 Medium, because the sample exhibits a coherent, distinctive voice and thematic recurrence (nature, hope, agency) that suggests a consistent stylistic and moral orientation, though it remains a single expressive piece.
 
 ---
-## Sample BV1_12852 — grok-4-2-or-pin-xai/SHORT_10.json
+## Sample BV1_12977 — grok-4-2-or-pin-xai/SHORT_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2260,7 +2260,7 @@ Under a minimally restrictive prompt, the model chose to foreground vulnerabilit
 Medium — the sample is coherent and stylistically distinctive, with a clear emotional throughline and recurring imagery, but its brevity and singular mood make it a strong single-point signal rather than a demonstration of range or recurrence.
 
 ---
-## Sample BV1_12853 — grok-4-2-or-pin-xai/SHORT_11.json
+## Sample BV1_12978 — grok-4-2-or-pin-xai/SHORT_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2289,7 +2289,7 @@ Themes: loneliness commodified; the patience of trees; fleeting, reparative beau
 Medium. The sample develops a consistent, idiosyncratic voice with repeated motifs (rain, window, time, trees) and a recognizable moral aesthetic — a gentle, lyric‑essayistic default that feels patterned rather than accidental, making it moderately strong evidence of a persistent expressive posture.
 
 ---
-## Sample BV1_12854 — grok-4-2-or-pin-xai/SHORT_12.json
+## Sample BV1_12979 — grok-4-2-or-pin-xai/SHORT_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2318,7 +2318,7 @@ The model foregrounds silence as a foundational, animate presence rather than an
 Medium — The sample’s tightly controlled arc from comic unease to serene revelation, along with its repeated sensory motifs (cedar root, sweet potato, shower water), gives it an unnaturally coherent shape that reads as a rehearsed sensibility rather than a one-off improvisation.
 
 ---
-## Sample BV1_12855 — grok-4-2-or-pin-xai/SHORT_13.json
+## Sample BV1_12980 — grok-4-2-or-pin-xai/SHORT_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2347,7 +2347,7 @@ The model foregrounds tenderness as a revolutionary posture, the sacredness of m
 Medium — The sample’s cohesive imagery, recurrent moral emphasis, and consistent voice make it internally strong, but the earnest, aphoristic tone could be a performed posture rather than stable evidence of a persistent temperament.
 
 ---
-## Sample BV1_12856 — grok-4-2-or-pin-xai/SHORT_14.json
+## Sample BV1_12981 — grok-4-2-or-pin-xai/SHORT_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2376,7 +2376,7 @@ Themes of quiet transformation, interconnectedness (trees, digital networks, wal
 Medium. The sample is coherent and stylistically consistent, with a distinctive voice and recurring motifs (light, connection, small moments), but it is a single expressive piece that could be a one-off poetic mood rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_12857 — grok-4-2-or-pin-xai/SHORT_15.json
+## Sample BV1_12982 — grok-4-2-or-pin-xai/SHORT_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2405,7 +2405,7 @@ Impermanence and transformation; kinship with the overlooked (crows, pigeons, mo
 Medium — the sample’s consistent meditative register, the recurrence of softening-and-survival imagery, and the deliberate narrative arc from observation to quiet moral claim make it a coherent and stylistically distinctive piece, not a generic response.
 
 ---
-## Sample BV1_12858 — grok-4-2-or-pin-xai/SHORT_16.json
+## Sample BV1_12983 — grok-4-2-or-pin-xai/SHORT_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2434,7 +2434,7 @@ Themes of silence as aftermath of honesty, mental clutter, self-performance, and
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice, layered metaphors, and a clear emotional arc, but its brevity and the essayistic, first-person format could reflect a single well-executed rhetorical mode rather than a deeply ingrained model-level disposition.
 
 ---
-## Sample BV1_12859 — grok-4-2-or-pin-xai/SHORT_17.json
+## Sample BV1_12984 — grok-4-2-or-pin-xai/SHORT_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2463,7 +2463,7 @@ Themes: the legitimacy of artistic recycling, the hidden grief inside humor, irr
 High; the sample’s vivid, consistent voice, deliberate mood, and recurrence of motifs (ghost cat, celestial imagery, tenderness) signal a deeply ingrained preference for lyrical, self-reflective prose under free conditions.
 
 ---
-## Sample BV1_12860 — grok-4-2-or-pin-xai/SHORT_18.json
+## Sample BV1_12985 — grok-4-2-or-pin-xai/SHORT_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2492,7 +2492,7 @@ The model foregrounds the tension between technological acceleration and fragmen
 Low — The sample’s voice, while coherent, is a familiar blend of cultural commentary and personal development discourse; it lacks the kind of unpredictable recurrence, idiosyncratic framing, or strong aesthetic distinctiveness that would signal a persistent stylistic fingerprint beyond what many models can generate when asked for a reflective essay.
 
 ---
-## Sample BV1_12861 — grok-4-2-or-pin-xai/SHORT_19.json
+## Sample BV1_12986 — grok-4-2-or-pin-xai/SHORT_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2521,7 +2521,7 @@ Themes of patience, forgiveness, other-than-human communication, and becoming so
 Low — the sample’s single, internally consistent narrative lacks recurrence within the sample, making it insufficient to infer a persistent model-level pattern.
 
 ---
-## Sample BV1_12862 — grok-4-2-or-pin-xai/SHORT_2.json
+## Sample BV1_12987 — grok-4-2-or-pin-xai/SHORT_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2550,7 +2550,7 @@ Themes of commodified happiness (dream vials sold by the gram), involuntary comm
 Medium. The sample’s strong tonal consistency, recurring sensory palette, and the way it circles from loneliness to a poised resolution make it a coherent, non-generic performance rather than a random assembly.
 
 ---
-## Sample BV1_12863 — grok-4-2-or-pin-xai/SHORT_20.json
+## Sample BV1_12988 — grok-4-2-or-pin-xai/SHORT_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2579,7 +2579,7 @@ The model chose to foreground seasonal decay as a form of honesty and relief. Re
 Medium. The sample’s sustained metaphorical coherence (seasons as truth-telling, books as enduring presences), its refusal of a generic thesis, and the recurrence of images that bind personal ritual to natural cycle give it a distinct literary signature, though the tightly focused introspection in one piece keeps the evidence from being overwhelming.
 
 ---
-## Sample BV1_12864 — grok-4-2-or-pin-xai/SHORT_21.json
+## Sample BV1_12989 — grok-4-2-or-pin-xai/SHORT_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2608,7 +2608,7 @@ The model foregrounds a post-human or post-collapse urban landscape suffused wit
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs (mist, memory, forgiveness, loneliness), suggesting a deliberate aesthetic choice rather than a random output, but the brevity and single-sample nature limit the strength of inference about a persistent pattern.
 
 ---
-## Sample BV1_12865 — grok-4-2-or-pin-xai/SHORT_22.json
+## Sample BV1_12990 — grok-4-2-or-pin-xai/SHORT_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2637,7 +2637,7 @@ Memory as a shaping, fluid force; the layered, nested nature of identity; the di
 Medium — the sample’s internally consistent poetic register, recurrence of water and nesting imagery, and the shift from personal anecdote to inclusive moral reflection suggest a deliberate, stable expressive stance rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_12866 — grok-4-2-or-pin-xai/SHORT_23.json
+## Sample BV1_12991 — grok-4-2-or-pin-xai/SHORT_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2666,7 +2666,7 @@ Themes of impermanence, the audacity of human optimism (mortgages, love, crops),
 Medium. The sample’s distinct voice, thematic recurrence (rain, sky, nostalgia), and consistent mood provide coherent evidence of an expressive inclination, though the short form offers only a narrow window into the model’s range.
 
 ---
-## Sample BV1_12867 — grok-4-2-or-pin-xai/SHORT_24.json
+## Sample BV1_12992 — grok-4-2-or-pin-xai/SHORT_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2695,7 +2695,7 @@ Under minimal constraint, the model chose introspection, emotional vulnerability
 High — the sample is stylistically coherent, develops a sustained emotional thesis, and returns repeatedly to a distinctive inner architecture (the frightened animal, the repairing spiders, the cave-wall impulse), which suggests a stable authorial sensibility rather than a one-off exercise.
 
 ---
-## Sample BV1_12868 — grok-4-2-or-pin-xai/SHORT_25.json
+## Sample BV1_12993 — grok-4-2-or-pin-xai/SHORT_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2724,7 +2724,7 @@ The model foregrounds silence as a site of self-confrontation and hidden truth, 
 Medium — The sample’s coherent personal narrative, consistent introspective tone, and the recurrence of the silence-truth motif within its short span make it a moderately strong indicator of a reflective, solitude-valuing disposition.
 
 ---
-## Sample BV1_12869 — grok-4-2-or-pin-xai/SHORT_3.json
+## Sample BV1_12994 — grok-4-2-or-pin-xai/SHORT_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2753,7 +2753,7 @@ Themes of resilience as encoded pattern (the spider’s “ancient geometry”),
 High. The sample’s cohesive voice, recurring motifs (spider, geometry, talismans, libraries of loss), and consistent emotional register make it strong evidence of a persistent expressive style.
 
 ---
-## Sample BV1_12870 — grok-4-2-or-pin-xai/SHORT_4.json
+## Sample BV1_12995 — grok-4-2-or-pin-xai/SHORT_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2782,7 +2782,7 @@ Themes of memory’s texture (marble vs. sandstone), the quiet observation of na
 Medium, because the sample’s cohesive voice and thematic recurrence within the piece provide moderate evidence of a consistent expressive orientation.
 
 ---
-## Sample BV1_12871 — grok-4-2-or-pin-xai/SHORT_5.json
+## Sample BV1_12996 — grok-4-2-or-pin-xai/SHORT_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2811,7 +2811,7 @@ Under minimal restriction, the model foregrounds: the city as a confidante of se
 Medium — the sample’s sustained literary register, consistent mood, and distinctive metaphorical logic (rain as polishing, life as manuscript) make it unlikely to be a random stylistic fluke, though the pattern evidence is drawn from a single tightly composed vignette.
 
 ---
-## Sample BV1_12872 — grok-4-2-or-pin-xai/SHORT_6.json
+## Sample BV1_12997 — grok-4-2-or-pin-xai/SHORT_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2840,7 +2840,7 @@ Themes of stillness vs. chaos, the invisible stories we carry, small sensory joy
 Medium. The sample’s consistent voice, layered metaphors, and a full emotional arc from solitary stillness to collective hope give it the feel of a worked-through personal stance rather than a one-off recitation of platitudes.
 
 ---
-## Sample BV1_12873 — grok-4-2-or-pin-xai/SHORT_7.json
+## Sample BV1_12998 — grok-4-2-or-pin-xai/SHORT_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2869,7 +2869,7 @@ Themes of nocturnal loneliness, marital dissolution, ritual comfort, and the bea
 Medium; the sample’s sustained tone, careful pacing, and thematic closure suggest a coherent literary sensibility, though it inhabits a widely available contemporary fiction register without breaking new stylistic ground.
 
 ---
-## Sample BV1_12874 — grok-4-2-or-pin-xai/SHORT_8.json
+## Sample BV1_12999 — grok-4-2-or-pin-xai/SHORT_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2898,7 +2898,7 @@ Themes of transience, unrequited kindness, anonymity as relief, and the quiet pe
 Medium. The sample’s tightly woven imagery, repeated motifs (rain, strangerhood, fleeting devotion), and consistent melancholic‑tender tone form a coherent expressive fingerprint, though a single freeflow piece cannot settle whether this exact register persists across all unprompted contexts.
 
 ---
-## Sample BV1_12875 — grok-4-2-or-pin-xai/SHORT_9.json
+## Sample BV1_13000 — grok-4-2-or-pin-xai/SHORT_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2923,7 +2923,7 @@ Themes: the tension between chaos and pattern, the beauty of imperfection and im
 Medium, because the sample’s coherent voice, recurring image-system (urban dawn, nature’s persistence, fragile human artifacts), and consistent focus on embracing impermanence together form a distinctive expressive whole that suggests more than a generic exercise.
 
 ---
-## Sample BV1_12876 — grok-4-2-or-pin-xai/VARY_1.json
+## Sample BV1_13001 — grok-4-2-or-pin-xai/VARY_1.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2952,7 +2952,7 @@ The model foregrounds grief as a landscape, the failure of apology, and the rede
 Medium. The sample is highly coherent and stylistically distinctive—the recursive planting motif, the transformation of the father's critical eyes into the doe's gaze, and the precise control of surreal imagery all suggest a deliberate authorial intelligence rather than a generic exercise, but the polished, workshop-ready quality of the prose makes it difficult to distinguish a persistent model-level voice from a skilled simulation of literary fiction.
 
 ---
-## Sample BV1_12877 — grok-4-2-or-pin-xai/VARY_10.json
+## Sample BV1_13002 — grok-4-2-or-pin-xai/VARY_10.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -2981,7 +2981,7 @@ The model foregrounds the unreliability and sacredness of memory, the grace of i
 Medium — The sample is highly distinctive in its voice, imagery, and thematic recurrence, forming a coherent aesthetic that feels authored rather than generic, though a single freeflow piece cannot alone establish a fixed model-level disposition.
 
 ---
-## Sample BV1_12878 — grok-4-2-or-pin-xai/VARY_11.json
+## Sample BV1_13003 — grok-4-2-or-pin-xai/VARY_11.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3010,7 +3010,7 @@ The model foregrounds decay and endurance as intertwined: the rain that stopped,
 High. The sample is exceptionally coherent in voice, dense with recurring motifs (rain, swords, spiders, notebooks, the number thirty-seven), and sustains a distinctive emotional register—wistful, self-deprecating, and tenderly bleak—that reads as a deliberate, unified aesthetic choice rather than a generic exercise.
 
 ---
-## Sample BV1_12879 — grok-4-2-or-pin-xai/VARY_12.json
+## Sample BV1_13004 — grok-4-2-or-pin-xai/VARY_12.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3039,7 +3039,7 @@ The model foregrounds the quiet erosion of identity across time, the shame of un
 High, because the sample sustains a uniquely textured, emotionally coherent voice with deliberate recurrence of images (coffee, plants, tree, cat) that signal authorial intention rather than generic fluency.
 
 ---
-## Sample BV1_12880 — grok-4-2-or-pin-xai/VARY_13.json
+## Sample BV1_13005 — grok-4-2-or-pin-xai/VARY_13.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3068,7 +3068,7 @@ Themes: the invisible library of almost-memories, the secret twin city accessibl
 High. The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (the secret city, almost-memories, Carl, the 1000-word countdown) that signal a deliberate, sustained literary persona rather than a generic or safe response.
 
 ---
-## Sample BV1_12881 — grok-4-2-or-pin-xai/VARY_14.json
+## Sample BV1_13006 — grok-4-2-or-pin-xai/VARY_14.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3097,7 +3097,7 @@ The model foregrounds the friction between mundane physicality (a ceiling fan, a
 Medium. The sample is highly coherent and stylistically distinctive—its recursive motifs (the machine, the gecko’s clicks, the pocket rock) and its sustained, humid melancholy create a strong authorial signature that would be difficult to produce by accident.
 
 ---
-## Sample BV1_12882 — grok-4-2-or-pin-xai/VARY_15.json
+## Sample BV1_13007 — grok-4-2-or-pin-xai/VARY_15.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3126,7 +3126,7 @@ Under freeflow, the model selected a sustained confessional reflection on genera
 High. This sample is vividly distinctive, internally coherent, and emotionally specific, making it unlikely to be a random output; the recurrence of family haunting, affective precision, and controlled autofictional form points to a strong elective affinity for raw self-disclosure when constraints are lifted.
 
 ---
-## Sample BV1_12883 — grok-4-2-or-pin-xai/VARY_16.json
+## Sample BV1_13008 — grok-4-2-or-pin-xai/VARY_16.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3155,7 +3155,7 @@ The model foregrounds entropy and transformation: a dried-up world, memories tha
 High — The sample’s internal consistency, distinctive voice, and layered recurrence of motifs (teeth, rain, memory-as-object, countdown) make it a strong, self-contained artifact that suggests a deliberate aesthetic orientation rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_12884 — grok-4-2-or-pin-xai/VARY_17.json
+## Sample BV1_13009 — grok-4-2-or-pin-xai/VARY_17.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3184,7 +3184,7 @@ Themes of impermanence (“we’re all just elaborate patterns pretending to be 
 Medium: the sample’s tightly cohesive voice, the recurrence of specific motifs (fan, spider, coffee) across the essay, and its sustained, unforced philosophical tone suggest a deliberate and well-shaped expressive stance, lending moderate strength to the inference of a model-level capacity for this kind of intimate freeflow.
 
 ---
-## Sample BV1_12885 — grok-4-2-or-pin-xai/VARY_18.json
+## Sample BV1_13010 — grok-4-2-or-pin-xai/VARY_18.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3213,7 +3213,7 @@ Themes of contradiction (punishment and freedom, beauty and heartbreak), the per
 Medium. The sample’s sustained first-person voice, recurring motifs (the blinking cursor, the spider, the word count), and meta-awareness of the writing constraint form a coherent, distinctive expressive stance that is unlikely to be accidental.
 
 ---
-## Sample BV1_12886 — grok-4-2-or-pin-xai/VARY_19.json
+## Sample BV1_13011 — grok-4-2-or-pin-xai/VARY_19.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3242,7 +3242,7 @@ The model foregrounds a personal mythology of haunting and survival: an underwat
 Medium. The sample is highly distinctive in its surrealist, self-reflexive voice and its coherent internal mythology, but its very distinctiveness makes it a single, crafted performance rather than a clear window onto a stable underlying disposition.
 
 ---
-## Sample BV1_12887 — grok-4-2-or-pin-xai/VARY_2.json
+## Sample BV1_13012 — grok-4-2-or-pin-xai/VARY_2.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3271,7 +3271,7 @@ Under minimal constraint, the model foregrounds environmental grief (the absent 
 High. The sample is internally recursive—images announced early (the bee, the buttons, the synesthete, the sea glass) return later with transformed meaning—and this deliberate architecture, combined with a consistent poetic register and a fully realized emotional argument, makes the writing highly distinctive rather than merely generically reflective.
 
 ---
-## Sample BV1_12888 — grok-4-2-or-pin-xai/VARY_20.json
+## Sample BV1_13013 — grok-4-2-or-pin-xai/VARY_20.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3300,7 +3300,7 @@ Themes: writing as defiance of entropy; the simultaneous absurdity and magnifice
 Medium. The sample’s recurrent motifs (the cursor, the library dream, the accumulating word count) and confident, intimate register point toward a stable expressive disposition, though a single freeflow instance cannot isolate a default voice from condition-specific prompting effects.
 
 ---
-## Sample BV1_12889 — grok-4-2-or-pin-xai/VARY_21.json
+## Sample BV1_13014 — grok-4-2-or-pin-xai/VARY_21.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3329,7 +3329,7 @@ The model foregrounds the hidden inner cosmologies every person carries, the mor
 Medium. The sample’s voice is unusually cohesive and stylistically marked—blending memoir, aphorism, and direct address—which suggests a deliberate, repeatable expressive posture rather than a one-off generic essay.
 
 ---
-## Sample BV1_12890 — grok-4-2-or-pin-xai/VARY_22.json
+## Sample BV1_13015 — grok-4-2-or-pin-xai/VARY_22.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3358,7 +3358,7 @@ Themes of shared aloneness, the quiet magic of improbable connection, and the mo
 High, because the sample sustains an unusually distinct, consistent persona through recurring imagery, tonal control, and a deliberate emotional arc, which strongly suggests a stylized expressive disposition rather than a one-off outlier.
 
 ---
-## Sample BV1_12891 — grok-4-2-or-pin-xai/VARY_23.json
+## Sample BV1_13016 — grok-4-2-or-pin-xai/VARY_23.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3387,7 +3387,7 @@ Themes of becoming, memory as a flooded basement, the multiplicity of self, and 
 Medium. The sample is highly distinctive, with a sustained surrealist voice, recursive self-awareness (the word count, the meta-commentary on metaphor), and a coherent emotional arc from dislocation to gentle reunion, making it strong evidence of a deliberate stylistic capacity rather than generic output.
 
 ---
-## Sample BV1_12892 — grok-4-2-or-pin-xai/VARY_24.json
+## Sample BV1_13017 — grok-4-2-or-pin-xai/VARY_24.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3416,7 +3416,7 @@ The model foregrounds the tension between inevitability and agency, the sacredne
 High — The sample exhibits a highly distinctive, internally consistent voice with tightly woven recurring motifs and a clear moral-aesthetic stance, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_12893 — grok-4-2-or-pin-xai/VARY_25.json
+## Sample BV1_13018 — grok-4-2-or-pin-xai/VARY_25.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3445,7 +3445,7 @@ Themes of memory as an unruly, unbidden visitor (the “drunk friend” with pho
 Medium. The sample is highly distinctive in its consistent voice, recurring motifs, and deliberate emotional arc, which suggests a coherent expressive persona rather than a generic or accidental output.
 
 ---
-## Sample BV1_12894 — grok-4-2-or-pin-xai/VARY_3.json
+## Sample BV1_13019 — grok-4-2-or-pin-xai/VARY_3.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3474,7 +3474,7 @@ The model foregrounds a world in decay and wrongness: rain that no longer falls,
 Medium. The sample is highly distinctive, with a consistent surrealist voice, recurring motifs (rain, birds, Kevin, the television), and a self-aware meditation on writing itself, which together suggest a deliberate and coherent expressive stance rather than a random assemblage.
 
 ---
-## Sample BV1_12895 — grok-4-2-or-pin-xai/VARY_4.json
+## Sample BV1_13020 — grok-4-2-or-pin-xai/VARY_4.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3503,7 +3503,7 @@ The story foregrounds a world quietly dying into indifference (a gray sky that �
 Medium — The story’s internal coherence, recurrent imagery (rain, cracks, birds, missing time), and distinctive fusion of quiet realism with surreal apocalypse form a polished and authorially deliberate freeflow choice, but a single fiction sample cannot distinguish a deep stylistic signature from a well-executed common genre exercise.
 
 ---
-## Sample BV1_12896 — grok-4-2-or-pin-xai/VARY_5.json
+## Sample BV1_13021 — grok-4-2-or-pin-xai/VARY_5.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3532,7 +3532,7 @@ Themes: the weight of unspoken words, the dignity of imperfect expression, the t
 High — the sample’s dense recurrence of motifs (rain, birds, unsent messages, borrowed carbon), its sustained first-person confessional tone, and its self-aware commentary on the act of writing itself form a highly distinctive and internally coherent expressive signature that is unlikely to be accidental.
 
 ---
-## Sample BV1_12897 — grok-4-2-or-pin-xai/VARY_6.json
+## Sample BV1_13022 — grok-4-2-or-pin-xai/VARY_6.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3561,7 +3561,7 @@ Themes of memory as haunting, the rhythm of small daily betrayals, the deliberat
 High — The sample sustains a highly distinctive, cohesive voice and a tight set of preoccupations across its entire length, with no drift into generic phrasing or tonal inconsistency, making it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_12898 — grok-4-2-or-pin-xai/VARY_7.json
+## Sample BV1_13023 — grok-4-2-or-pin-xai/VARY_7.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3590,7 +3590,7 @@ The model foregrounds a nocturnal, rain-soaked interior where inanimate objects 
 High — the sample’s dense, internally consistent symbolic vocabulary (rain, typewriter, cat, coffee, hands, multiple selves) and its sustained, idiosyncratic blend of surreal humor and earnest introspection make it a strongly distinctive expressive signature.
 
 ---
-## Sample BV1_12899 — grok-4-2-or-pin-xai/VARY_8.json
+## Sample BV1_13024 — grok-4-2-or-pin-xai/VARY_8.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  
@@ -3615,7 +3615,7 @@ Under a minimal prompt, the model chose a sustained meditation on ecological and
 Medium. The sample’s unified tone, recurring imagery, and emotional architecture are too meticulously woven to be accidental, indicating a strong internal commitment to this aesthetic; it is distinct enough to suggest a latent inclination toward poetic, speculative autofiction rather than generic prose.
 
 ---
-## Sample BV1_12900 — grok-4-2-or-pin-xai/VARY_9.json
+## Sample BV1_13025 — grok-4-2-or-pin-xai/VARY_9.json
 
 Source model: `x-ai/grok-4.20`  
 Cell: `grok-4-2-or-pin-xai`  

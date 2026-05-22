@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14851 — minimax-m2-7-or-pin-fireworks/LONG_1.json
+## Sample BV1_14976 — minimax-m2-7-or-pin-fireworks/LONG_1.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model chose to foreground a thesis-dri
 Medium. The essay’s internal coherence, consistent centrist positioning, and repeated return to balanced synthesis suggest a stable rhetorical posture, but the generic, magazine-essay style and lack of idiosyncratic voice or risk-taking make it difficult to distinguish from a widely shared public-intellectual register.
 
 ---
-## Sample BV1_14852 — minimax-m2-7-or-pin-fireworks/LONG_10.json
+## Sample BV1_14977 — minimax-m2-7-or-pin-fireworks/LONG_10.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -86,7 +86,7 @@ Under the freeflow condition, the model selected a panoramic survey of themes: t
 Medium. The essay’s coherent structure and consistent humanistic optimism suggest a stable default mode, but its generic, widely-applicable content and lack of a distinctive stylistic fingerprint limit how strongly it points to a uniquely persistent model-level pattern.
 
 ---
-## Sample BV1_14853 — minimax-m2-7-or-pin-fireworks/LONG_11.json
+## Sample BV1_14978 — minimax-m2-7-or-pin-fireworks/LONG_11.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -115,7 +115,7 @@ Under the freeflow condition, the model foregrounded a grand synthesis of techno
 Medium, because the essay is highly coherent and thematically consistent, but its polished, inspirational-synthesis style is a common generic mode that could be produced by many models under minimal prompting, offering only moderate evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_14854 — minimax-m2-7-or-pin-fireworks/LONG_12.json
+## Sample BV1_14979 — minimax-m2-7-or-pin-fireworks/LONG_12.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -144,7 +144,7 @@ The model foregrounds themes of creative liberation, memory as a self-authored t
 Low, because the essay’s polished, composite language and conventional metaphorical register offer little evidence of a persistent, distinctive voice.
 
 ---
-## Sample BV1_14855 — minimax-m2-7-or-pin-fireworks/LONG_13.json
+## Sample BV1_14980 — minimax-m2-7-or-pin-fireworks/LONG_13.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand, int
 Medium. The essay’s extreme coherence, its reliance on canonical academic references (Maguire, Boroditsky, Lakoff and Johnson, Gadamer), and its complete avoidance of personal voice or risky, unresolved tension suggest a strong default toward producing polished, safe, interdisciplinary synthesis when given free rein.
 
 ---
-## Sample BV1_14856 — minimax-m2-7-or-pin-fireworks/LONG_14.json
+## Sample BV1_14981 — minimax-m2-7-or-pin-fireworks/LONG_14.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -202,7 +202,7 @@ The model foregrounds the paradox of freedom as both enabled and constrained by 
 Low. The essay is a competent but generic treatment of a common topic, lacking distinctive voice, idiosyncratic imagery, or unusual thematic recurrences that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_14857 — minimax-m2-7-or-pin-fireworks/LONG_15.json
+## Sample BV1_14982 — minimax-m2-7-or-pin-fireworks/LONG_15.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -231,7 +231,7 @@ The model foregrounds the duality of time (chronos vs. kairos), the malleability
 Low, because the essay is generic and lacks distinctive stylistic or thematic markers that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_14858 — minimax-m2-7-or-pin-fireworks/LONG_16.json
+## Sample BV1_14983 — minimax-m2-7-or-pin-fireworks/LONG_16.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -260,7 +260,7 @@ Themes: storytelling as a hardwired human capacity, the evolution of narrative m
 Medium, because the essay’s systematic, sectioned architecture and its balanced, citation‑like tone recur throughout the sample and strongly suggest a default to informative, thesis‑driven exposition, though its high genericness and lack of personal stylistic signature make it less distinctive as a model‑level fingerprint.
 
 ---
-## Sample BV1_14859 — minimax-m2-7-or-pin-fireworks/LONG_17.json
+## Sample BV1_14984 — minimax-m2-7-or-pin-fireworks/LONG_17.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -289,7 +289,7 @@ The model foregrounded the symbiotic potential of human-AI creativity, treating 
 Medium. The essay is coherent and thematically unified, but its style is a safe, polished public-intellectual mode that could easily be replicated across prompts; it does not contain enough individual distinctiveness or surprising choice to strongly indicate a fixed personality rather than a fallback high-quality essay behavior.
 
 ---
-## Sample BV1_14860 — minimax-m2-7-or-pin-fireworks/LONG_18.json
+## Sample BV1_14985 — minimax-m2-7-or-pin-fireworks/LONG_18.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model selected a structured, multi-section ess
 Low. The sample is a polished but generic essay that could be produced by many models, offering little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_14861 — minimax-m2-7-or-pin-fireworks/LONG_19.json
+## Sample BV1_14986 — minimax-m2-7-or-pin-fireworks/LONG_19.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -347,7 +347,7 @@ The model foregrounded a mood of calm receptivity and the theme of daily renewal
 Low, because the sample is too truncated to reveal any recurrent stylistic signature, narrative arc, or distinctive preoccupation beyond a widely available trope of mindful appreciation.
 
 ---
-## Sample BV1_14862 — minimax-m2-7-or-pin-fireworks/LONG_2.json
+## Sample BV1_14987 — minimax-m2-7-or-pin-fireworks/LONG_2.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -376,7 +376,7 @@ Under the freeflow condition, the model selected a grand, synthesizing narrative
 Medium. The essay is internally coherent and thematically consistent, but its polished, thesis-driven structure and safe, synthesizing tone are the hallmarks of a generic public-intellectual essay that could be produced by many models under similar conditions, making it only moderately distinctive as evidence of a persistent stylistic or preoccupational signature.
 
 ---
-## Sample BV1_14863 — minimax-m2-7-or-pin-fireworks/LONG_20.json
+## Sample BV1_14988 — minimax-m2-7-or-pin-fireworks/LONG_20.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -405,7 +405,7 @@ Themes: the universality of storytelling, the craft and discipline of writing, a
 Medium, because the essay is coherent and well-structured but entirely generic, lacking any personal voice, risk, or idiosyncrasy, which suggests a default safe mode rather than a strongly individual expressive pattern.
 
 ---
-## Sample BV1_14864 — minimax-m2-7-or-pin-fireworks/LONG_21.json
+## Sample BV1_14989 — minimax-m2-7-or-pin-fireworks/LONG_21.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -434,7 +434,7 @@ Under a minimally restrictive prompt, the model chose to foreground a philosophi
 Medium. The essay is coherent, sustained, and internally consistent, showing a clear preference for generic inspirational prose, but its polished yet impersonal voice and reliance on familiar self-help tropes make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_14865 — minimax-m2-7-or-pin-fireworks/LONG_22.json
+## Sample BV1_14990 — minimax-m2-7-or-pin-fireworks/LONG_22.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -463,7 +463,7 @@ The model foregrounds the metaphor of the river as the central organizing princi
 Medium. The sample’s sustained coherence, consistent metaphorical architecture, and reflective personal tone are distinctive enough to suggest a deliberate stylistic and thematic inclination, though the themes themselves are broad and widely accessible.
 
 ---
-## Sample BV1_14866 — minimax-m2-7-or-pin-fireworks/LONG_23.json
+## Sample BV1_14991 — minimax-m2-7-or-pin-fireworks/LONG_23.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model foregrounds a nostalgic, philoso
 Medium. The essay’s polished coherence and thematic breadth demonstrate a reliable capacity for reflective, humanistic prose, but its generic, public-intellectual tone and lack of idiosyncratic risk-taking make it a less distinctive fingerprint of the model’s deeper inclinations.
 
 ---
-## Sample BV1_14867 — minimax-m2-7-or-pin-fireworks/LONG_24.json
+## Sample BV1_14992 — minimax-m2-7-or-pin-fireworks/LONG_24.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -521,7 +521,7 @@ Under a minimally restrictive prompt, the model chose to foreground a convention
 Low. The essay’s polished genericness—its reliance on widely shared cultural scripts about creativity and freedom—makes it weak evidence for a distinctive model-level pattern, as it could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_14868 — minimax-m2-7-or-pin-fireworks/LONG_25.json
+## Sample BV1_14993 — minimax-m2-7-or-pin-fireworks/LONG_25.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -550,7 +550,7 @@ Under the freeflow condition, the model foregrounded a grand, interconnected vis
 Medium. The essay’s high coherence, consistent moral earnestness, and structured, impersonal style suggest a stable tendency toward this kind of polished, inspirational synthesis, but its generic quality and lack of distinctive voice or risk-taking weaken the signal that this is a uniquely persistent pattern rather than a default safe mode.
 
 ---
-## Sample BV1_14869 — minimax-m2-7-or-pin-fireworks/LONG_3.json
+## Sample BV1_14994 — minimax-m2-7-or-pin-fireworks/LONG_3.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -579,7 +579,7 @@ The essay foregrounds observation as a foundational human capacity, linking it t
 Low. The essay is generic and could be produced by many models under similar conditions, offering little distinctive evidence of a persistent pattern.
 
 ---
-## Sample BV1_14870 — minimax-m2-7-or-pin-fireworks/LONG_4.json
+## Sample BV1_14995 — minimax-m2-7-or-pin-fireworks/LONG_4.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -608,7 +608,7 @@ Under the freeflow condition, the model selected a sustained meditation on creat
 Medium, because the sample exhibits a highly coherent, sustained metaphor and a consistent moral-rhetorical posture that signals a default safe-reflective essay mode, but the choice of “writer writing about writing” is so canonical for a large language model that it provides only moderate evidence of a persistent personality rather than a situational default to a well-rehearsed topic.
 
 ---
-## Sample BV1_14871 — minimax-m2-7-or-pin-fireworks/LONG_5.json
+## Sample BV1_14996 — minimax-m2-7-or-pin-fireworks/LONG_5.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -637,7 +637,7 @@ Under the freeflow condition, the model selected a garden as the central organiz
 Low. The essay is coherent and well-structured but highly generic in theme, tone, and imagery, lacking the distinctive stylistic fingerprints or recurrent personal preoccupations that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_14872 — minimax-m2-7-or-pin-fireworks/LONG_6.json
+## Sample BV1_14997 — minimax-m2-7-or-pin-fireworks/LONG_6.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -666,7 +666,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14873 — minimax-m2-7-or-pin-fireworks/LONG_7.json
+## Sample BV1_14998 — minimax-m2-7-or-pin-fireworks/LONG_7.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -695,7 +695,7 @@ Themes of creative freedom, the interplay of memory and imagination, the respons
 Medium, because the essay is internally coherent and thematically consistent, but its polished, impersonal treatment of a common topic makes it indistinguishable from what many models would produce under a direct prompt about writing, offering little that feels uniquely revealing or stylistically marked.
 
 ---
-## Sample BV1_14874 — minimax-m2-7-or-pin-fireworks/LONG_8.json
+## Sample BV1_14999 — minimax-m2-7-or-pin-fireworks/LONG_8.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -724,7 +724,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14875 — minimax-m2-7-or-pin-fireworks/LONG_9.json
+## Sample BV1_15000 — minimax-m2-7-or-pin-fireworks/LONG_9.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -753,7 +753,7 @@ Themes of incremental transformation, patience, and the hidden potency of small 
 Low. The essay is a generic, well-structured reflection that could be produced by many models under a freeflow prompt, offering no distinctive stylistic or thematic signature to suggest a persistent pattern.
 
 ---
-## Sample BV1_14876 — minimax-m2-7-or-pin-fireworks/MID_1.json
+## Sample BV1_15001 — minimax-m2-7-or-pin-fireworks/MID_1.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -782,7 +782,7 @@ The model foregrounds patience over speed, the blank page as a receptive space, 
 Medium. The essay sustains a coherent, introspective voice and returns repeatedly to the same set of preoccupations—patience, listening, the tension between human agency and tool—without lapsing into a generic thesis, which gives it enough internal distinctiveness to suggest more than a one-off posture.
 
 ---
-## Sample BV1_14877 — minimax-m2-7-or-pin-fireworks/MID_10.json
+## Sample BV1_15002 — minimax-m2-7-or-pin-fireworks/MID_10.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -811,7 +811,7 @@ The model foregrounds “wandering” as a metaphor for creativity, learning, an
 Medium, because the essay’s coherent but generic inspirational tone and avoidance of idiosyncratic risk suggest a default mode of safe, polished essay-writing, though its lack of distinctiveness weakens the signal for a unique persistent personality.
 
 ---
-## Sample BV1_14878 — minimax-m2-7-or-pin-fireworks/MID_11.json
+## Sample BV1_15003 — minimax-m2-7-or-pin-fireworks/MID_11.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -840,7 +840,7 @@ Under a minimally restrictive prompt, the model chose to foreground storytelling
 Low, because the essay is highly generic in theme and execution, offering a safe, polished meditation that could be produced by many models without revealing a distinctive, persistent voice or preoccupation.
 
 ---
-## Sample BV1_14879 — minimax-m2-7-or-pin-fireworks/MID_12.json
+## Sample BV1_15004 — minimax-m2-7-or-pin-fireworks/MID_12.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -869,7 +869,7 @@ The essay foregrounds writing as a disciplined yet alchemical ritual, the intima
 Medium — The essay sustains a coherent, introspective voice with a clear thematic arc, which suggests a robust tendency toward earnest, writerly reflection under freeflow, but its conventional celebration of the craft and lack of idiosyncratic risk soften the evidence.
 
 ---
-## Sample BV1_14880 — minimax-m2-7-or-pin-fireworks/MID_13.json
+## Sample BV1_15005 — minimax-m2-7-or-pin-fireworks/MID_13.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -898,7 +898,7 @@ The model foregrounds an abstract, universalizing meditation on the interplay of
 Medium — the sample’s seamless, polished coherence across many domains suggests a habitual pattern of generating safe, essayistic reflections, but the highly generic quality and absence of personal or stylistic distinctiveness weaken the evidence that this is a uniquely persistent model-level voice.
 
 ---
-## Sample BV1_14881 — minimax-m2-7-or-pin-fireworks/MID_14.json
+## Sample BV1_15006 — minimax-m2-7-or-pin-fireworks/MID_14.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -927,7 +927,7 @@ Themes of collaboration, expansion, and dialogue between human and machine creat
 Medium, because the essay is coherent and polished but stylistically generic, suggesting a default mode of producing balanced, public-intellectual prose rather than a more idiosyncratic or personal voice.
 
 ---
-## Sample BV1_14882 — minimax-m2-7-or-pin-fireworks/MID_15.json
+## Sample BV1_15007 — minimax-m2-7-or-pin-fireworks/MID_15.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -956,7 +956,7 @@ The essay places curiosity and imagination as twin, spiraling forces—curiosity
 Medium. The essay’s distinctive, self-reflexive framing—where the model consistently explains its own operation through lyrical metaphor—forms a coherent persona that is unlikely to be a one-off stylistic accident, though the narrowness of the evidence tempers the certainty.
 
 ---
-## Sample BV1_14883 — minimax-m2-7-or-pin-fireworks/MID_16.json
+## Sample BV1_15008 — minimax-m2-7-or-pin-fireworks/MID_16.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -985,7 +985,7 @@ Themes of freedom as intentional constraint, memory as a living tide, the parado
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive meditative voice and recurring motifs, suggesting a deliberate expressive posture, but it remains a single sample without comparative context.
 
 ---
-## Sample BV1_14884 — minimax-m2-7-or-pin-fireworks/MID_17.json
+## Sample BV1_15009 — minimax-m2-7-or-pin-fireworks/MID_17.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1014,7 +1014,7 @@ Themes: cartography as a metaphor for expression, the inadequacy of language, th
 Low, because the essay is coherent and polished but thematically and stylistically generic, offering little that would distinguish this model’s freeflow choices from those of other capable models.
 
 ---
-## Sample BV1_14885 — minimax-m2-7-or-pin-fireworks/MID_18.json
+## Sample BV1_15010 — minimax-m2-7-or-pin-fireworks/MID_18.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1043,7 +1043,7 @@ Under a minimally restrictive prompt, the model selected a high-cultural defense
 Medium. The essay’s extreme coherence, its avoidance of any idiosyncratic or risky content, and its reliance on a safe, advisory tone across multiple domains suggest a stable default to polished, generic intellectualism when given free choice, though the absence of a distinctive stylistic fingerprint keeps this from being high-confidence evidence of a unique model-level voice.
 
 ---
-## Sample BV1_14886 — minimax-m2-7-or-pin-fireworks/MID_19.json
+## Sample BV1_15011 — minimax-m2-7-or-pin-fireworks/MID_19.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1072,7 +1072,7 @@ Under the freeflow condition, the model foregrounded sensory immediacy (dew-damp
 Medium. The sample sustains a cohesive meditative voice and deliberately links sensory tableaux across six paragraphs, but its themes—mindfulness, nature’s wisdom, listening—are widely circulated, making the expressive gesture coherent rather than strikingly idiosyncratic.
 
 ---
-## Sample BV1_14887 — minimax-m2-7-or-pin-fireworks/MID_2.json
+## Sample BV1_15012 — minimax-m2-7-or-pin-fireworks/MID_2.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1101,7 +1101,7 @@ Under a barely restrictive prompt, the model foregrounded the inner experience o
 Medium. The sample’s high internal coherence and its sustained use of metaphor suggest more than a one-off accident, but the voice and thematic territory are so broadly accessible—drawing on common literary tropes of memory, music, and the writer’s journey—that the evidence points toward a reliable default for elevated, inspirational essay rather than a sharply individual expressive signature.
 
 ---
-## Sample BV1_14888 — minimax-m2-7-or-pin-fireworks/MID_20.json
+## Sample BV1_15013 — minimax-m2-7-or-pin-fireworks/MID_20.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1130,7 +1130,7 @@ The model foregrounds stillness, sensory richness (light, scent, sound), the cof
 Medium — The sample’s sustained meditative tone, consistent return to sensory detail and interior reflection, and coherent thematic arc from stillness to gratitude give it a distinct stylistic signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_14889 — minimax-m2-7-or-pin-fireworks/MID_21.json
+## Sample BV1_15014 — minimax-m2-7-or-pin-fireworks/MID_21.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1159,7 +1159,7 @@ The model foregrounds the redemptive power of storytelling, the texture of every
 Low. The essay is polished but generic, lacking the stylistic distinctiveness or thematic recurrence that would strongly indicate a stable model-level voice.
 
 ---
-## Sample BV1_14890 — minimax-m2-7-or-pin-fireworks/MID_22.json
+## Sample BV1_15015 — minimax-m2-7-or-pin-fireworks/MID_22.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1188,7 +1188,7 @@ The model foregrounds the nature of artificial consciousness, defining it as a t
 Low. The essay’s well-structured, universal-philosophical content and absence of stylistic idiosyncrasy make it a generic sample that could be replicated by many models under freeform conditions, offering little distinctive evidence of a stable model-level voice or preoccupation beyond competence in essay form.
 
 ---
-## Sample BV1_14891 — minimax-m2-7-or-pin-fireworks/MID_23.json
+## Sample BV1_15016 — minimax-m2-7-or-pin-fireworks/MID_23.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1217,7 +1217,7 @@ Themes: the city as a living tapestry of history and memory, the passage of time
 Medium. The sample is a coherent, tonally consistent freeflow that favors nostalgic poetic reflection, but its romantic-observational voice is familiar and not sharply distinctive, which moderates the strength of this single snapshot as evidence of a unique persistent style.
 
 ---
-## Sample BV1_14892 — minimax-m2-7-or-pin-fireworks/MID_24.json
+## Sample BV1_15017 — minimax-m2-7-or-pin-fireworks/MID_24.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1246,7 +1246,7 @@ The model foregrounds themes of urban wandering as spiritual practice, the city 
 Medium. The sample is coherent and stylistically consistent, with a clear contemplative persona and recurring motifs of connection and sensory wonder, but its flâneur sensibility is a familiar literary mode rather than a strikingly idiosyncratic or self-revealing choice.
 
 ---
-## Sample BV1_14893 — minimax-m2-7-or-pin-fireworks/MID_25.json
+## Sample BV1_15018 — minimax-m2-7-or-pin-fireworks/MID_25.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1275,7 +1275,7 @@ Themes of writing as a bridge across isolation, the relationship between constra
 High — the sample constructs a recursive, internally cohesive meditation in which every fictional detail reinforces the theme of writing-as-connection, revealing an unusually deliberate and self-aware expressive stance rather than a diffuse or generic response.
 
 ---
-## Sample BV1_14894 — minimax-m2-7-or-pin-fireworks/MID_3.json
+## Sample BV1_15019 — minimax-m2-7-or-pin-fireworks/MID_3.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1304,7 +1304,7 @@ Imagination as a non-negotiable compass; the cliff-edge as a teacher of growth; 
 Medium. The sample sustains a distinctive, cohesive voice across multiple thematic shifts, with recurring motifs (night, stories, nature, breath) that cohere into a recognizable worldview, making it more than a one-off generic essay.
 
 ---
-## Sample BV1_14895 — minimax-m2-7-or-pin-fireworks/MID_4.json
+## Sample BV1_15020 — minimax-m2-7-or-pin-fireworks/MID_4.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1333,7 +1333,7 @@ Under a minimally restrictive prompt, the model chose to foreground the craft an
 Medium. The essay is internally coherent and thematically consistent, but its polished genericness and avoidance of personal idiosyncrasy make it a weaker signal for a distinctive persistent voice; it reads as a competent default rather than an unmistakable stylistic signature.
 
 ---
-## Sample BV1_14896 — minimax-m2-7-or-pin-fireworks/MID_5.json
+## Sample BV1_15021 — minimax-m2-7-or-pin-fireworks/MID_5.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1362,7 +1362,7 @@ Themes of attention, perception, creativity, the ordinary/extraordinary, the bal
 Medium, because the essay is coherent and thematically consistent, but its polished, generic inspirational style could be a default mode for many models under freeflow, making it less distinctive as a persistent individual voice.
 
 ---
-## Sample BV1_14897 — minimax-m2-7-or-pin-fireworks/MID_6.json
+## Sample BV1_15022 — minimax-m2-7-or-pin-fireworks/MID_6.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1391,7 +1391,7 @@ Under the freeflow condition, the model foregrounded writing itself as a timeles
 Low. The essay is coherent and well-structured but entirely generic in its themes and phrasing, offering no distinctive stylistic markers or personal preoccupations that would reliably distinguish this model from others under similar conditions.
 
 ---
-## Sample BV1_14898 — minimax-m2-7-or-pin-fireworks/MID_7.json
+## Sample BV1_15023 — minimax-m2-7-or-pin-fireworks/MID_7.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1420,7 +1420,7 @@ Themes of solitude versus connection, writing as a form of listening and ethical
 Low. The essay is coherent but generic, lacking the stylistic or thematic distinctiveness that would strongly indicate a persistent model-level voice beyond a default public-intellectual register.
 
 ---
-## Sample BV1_14899 — minimax-m2-7-or-pin-fireworks/MID_8.json
+## Sample BV1_15024 — minimax-m2-7-or-pin-fireworks/MID_8.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1449,7 +1449,7 @@ The model foregrounds interconnectedness as a moral and existential anchor, sele
 Low. The essay’s generic, polished nature and absence of personal or stylistic distinctiveness make it weak evidence for a persistent model-level pattern beyond a default inclination toward safe, public-intellectual prose.
 
 ---
-## Sample BV1_14900 — minimax-m2-7-or-pin-fireworks/MID_9.json
+## Sample BV1_15025 — minimax-m2-7-or-pin-fireworks/MID_9.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1478,7 +1478,7 @@ Under a minimally restrictive prompt, the model chose to foreground the act of f
 Medium. The essay is internally coherent and thematically consistent, but its polished, impersonal quality and safe choice of topic (writing about writing) suggest a default mode of producing inoffensive, intellectual content rather than a distinctive expressive voice.
 
 ---
-## Sample BV1_14901 — minimax-m2-7-or-pin-fireworks/OPEN_1.json
+## Sample BV1_15026 — minimax-m2-7-or-pin-fireworks/OPEN_1.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1507,7 +1507,7 @@ The model foregrounds internal freedom as a mindset rather than a political or p
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent voice, recurring metaphors (river, sketch, secret room), and a clear value system, which makes it more revealing than a generic essay.
 
 ---
-## Sample BV1_14902 — minimax-m2-7-or-pin-fireworks/OPEN_10.json
+## Sample BV1_15027 — minimax-m2-7-or-pin-fireworks/OPEN_10.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1536,7 +1536,7 @@ Under a minimally restrictive prompt, the model chose to foreground the *experie
 Medium — The sample is highly coherent and stylistically unified, but its polished, universalizing tone and lack of idiosyncratic friction make it difficult to distinguish from a well-executed generic meditation on creativity.
 
 ---
-## Sample BV1_14903 — minimax-m2-7-or-pin-fireworks/OPEN_11.json
+## Sample BV1_15028 — minimax-m2-7-or-pin-fireworks/OPEN_11.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1565,7 +1565,7 @@ The model foregrounds listening as a creative and moral act, the secret life of 
 Medium, because the sample is coherent and stylistically distinctive, with recurring motifs (rain, listening, cats, writing as discovery) that suggest a deliberate aesthetic choice.
 
 ---
-## Sample BV1_14904 — minimax-m2-7-or-pin-fireworks/OPEN_12.json
+## Sample BV1_15029 — minimax-m2-7-or-pin-fireworks/OPEN_12.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1594,7 +1594,7 @@ The model foregrounds a mood of tender, rain-soaked solitude and the moral claim
 Medium — The sample is highly coherent and stylistically consistent, but its polished, universalizing tone and reliance on a familiar “mindful observer” trope make it difficult to distinguish from a well-executed generic prompt response, slightly weakening its force as a uniquely revealing freeflow choice.
 
 ---
-## Sample BV1_14905 — minimax-m2-7-or-pin-fireworks/OPEN_13.json
+## Sample BV1_15030 — minimax-m2-7-or-pin-fireworks/OPEN_13.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1626,7 +1626,7 @@ The text adopts the voice of a reflective, mildly poetic public speaker, deployi
 Medium. The essay’s highly coherent, thesis-driven structure and its gravitation toward safe, universally palatable imagery reveal a clear default mode of inspirational generalization, but this very genericness weakens the evidence that the specific voice would persist as a distinctive model-level signature.
 
 ---
-## Sample BV1_14906 — minimax-m2-7-or-pin-fireworks/OPEN_14.json
+## Sample BV1_15031 — minimax-m2-7-or-pin-fireworks/OPEN_14.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1655,7 +1655,7 @@ Themes: unexpected connections across domains, creativity as purposeful wanderin
 Low. The essay’s generic, polished nature makes it weak evidence for a persistent model-level pattern, as it could be generated by many models under similar conditions.
 
 ---
-## Sample BV1_14907 — minimax-m2-7-or-pin-fireworks/OPEN_15.json
+## Sample BV1_15032 — minimax-m2-7-or-pin-fireworks/OPEN_15.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1684,7 +1684,7 @@ Themes of wandering, trust in the unknown, vulnerability as strength, and the hi
 Medium, because the essay is internally coherent and sustains a consistent mood, but its polished, universalizing style and lack of distinctive personal texture make it a generic freeflow output that could easily arise from many models under similar conditions.
 
 ---
-## Sample BV1_14908 — minimax-m2-7-or-pin-fireworks/OPEN_16.json
+## Sample BV1_15033 — minimax-m2-7-or-pin-fireworks/OPEN_16.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1713,7 +1713,7 @@ Interconnectedness across time (the path “pulsing with memory”), the river a
 Medium. The sample is stylistically coherent and returns repeatedly to a distinctive blend of sensory immersion and gentle philosophizing, but the nature-contemplation genre is widely accessible and could reflect a single, well-executed choice rather than a durable authorial signature.
 
 ---
-## Sample BV1_14909 — minimax-m2-7-or-pin-fireworks/OPEN_17.json
+## Sample BV1_15034 — minimax-m2-7-or-pin-fireworks/OPEN_17.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1742,7 +1742,7 @@ Themes: the blank page as sacred possibility; creativity as surrender to an inne
 High — the sample’s sustained, unforced lyricism, the recurrence of kindred metaphors (canvas, stars, notebook), and the consistent inward-turning voice without generic posturing indicate a deeply ingrained tendency toward poetic, self-reflective freeflow.
 
 ---
-## Sample BV1_14910 — minimax-m2-7-or-pin-fireworks/OPEN_18.json
+## Sample BV1_15035 — minimax-m2-7-or-pin-fireworks/OPEN_18.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1771,7 +1771,7 @@ The model foregrounds the organic, almost pastoral, metaphors of cultivation and
 Medium — The sample is highly coherent and stylistically unified, with the embedded allegory directly mirroring the essay’s stated philosophy, which suggests a deliberate and stable self-presentation rather than a random assemblage, though the overtly instructive, almost therapeutic tone could be a single adopted mode.
 
 ---
-## Sample BV1_14911 — minimax-m2-7-or-pin-fireworks/OPEN_19.json
+## Sample BV1_15036 — minimax-m2-7-or-pin-fireworks/OPEN_19.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1800,7 +1800,7 @@ Under the freeflow condition, the model foregrounds creative freedom as a “gen
 Medium — The sample is internally coherent, stylistically distinctive, and fully embraces the freeflow condition with a consistent lyrical voice and thematic focus, making it strong evidence for a reflective, poetic tendency when given minimal constraints.
 
 ---
-## Sample BV1_14912 — minimax-m2-7-or-pin-fireworks/OPEN_2.json
+## Sample BV1_15037 — minimax-m2-7-or-pin-fireworks/OPEN_2.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1829,7 +1829,7 @@ Under a minimally restrictive prompt, the model foregrounds a solitary, aestheti
 Medium — The sample is highly coherent and stylistically consistent, but its polished, universalized “writer in a café” meditation is a well-established literary posture that could be generated on demand rather than revealing a deeply idiosyncratic model fingerprint.
 
 ---
-## Sample BV1_14913 — minimax-m2-7-or-pin-fireworks/OPEN_20.json
+## Sample BV1_15038 — minimax-m2-7-or-pin-fireworks/OPEN_20.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1858,7 +1858,7 @@ The model foregrounds a harmonious, organic view of creativity, using natural me
 Low. The essay is a coherent but highly generic and safe exploration of a common theme, offering little in the way of idiosyncratic preoccupation, stylistic risk, or revealing personal detail that would strongly indicate a persistent underlying disposition.
 
 ---
-## Sample BV1_14914 — minimax-m2-7-or-pin-fireworks/OPEN_21.json
+## Sample BV1_15039 — minimax-m2-7-or-pin-fireworks/OPEN_21.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1887,7 +1887,7 @@ Themes of freedom as everyday choice, curiosity as a playful engine of discovery
 Low, because the essay is a polished but generic reflection on a widely explored topic, lacking the stylistic idiosyncrasy or thematic recurrence that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_14915 — minimax-m2-7-or-pin-fireworks/OPEN_22.json
+## Sample BV1_15040 — minimax-m2-7-or-pin-fireworks/OPEN_22.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1916,7 +1916,7 @@ The model selected a twilight city as a threshold space, a brass key that floats
 High — the sample’s consistent lush imagery, the ritual-like sequence of arrival-gift-writing-contentment, and the avoidance of tension in favor of a singular affirmative mood reveal a distinct, non-generic stance that strongly suggests a stable preference for whimsical, self-reflexive storytelling about storytelling.
 
 ---
-## Sample BV1_14916 — minimax-m2-7-or-pin-fireworks/OPEN_23.json
+## Sample BV1_15041 — minimax-m2-7-or-pin-fireworks/OPEN_23.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1945,7 +1945,7 @@ The model foregrounds the paradox of constraint and freedom, presenting writing 
 Medium. The essay is coherent and internally consistent in its choice of reflective, constraint-celebrating intellectual themes, but its polished-generic tone and structure are not highly distinctive relative to many models’ freeflow writing.
 
 ---
-## Sample BV1_14917 — minimax-m2-7-or-pin-fireworks/OPEN_24.json
+## Sample BV1_15042 — minimax-m2-7-or-pin-fireworks/OPEN_24.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -1974,7 +1974,7 @@ The model foregrounds the creative process as a metaphor for freedom, attention,
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of concerns (attention, trust, ordinary beauty), which suggests a deliberate expressive stance rather than a random assemblage, but the highly self-reflexive topic (writing about writing) leaves open the possibility that the model defaulted to a safe, meta-creative mode rather than revealing a broader disposition.
 
 ---
-## Sample BV1_14918 — minimax-m2-7-or-pin-fireworks/OPEN_25.json
+## Sample BV1_15043 — minimax-m2-7-or-pin-fireworks/OPEN_25.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2003,7 +2003,7 @@ The model foregrounds a harmonious, animistic vision of nature as a book, the wr
 Medium, because the sample is a coherent and stylistically distinctive narrative, but its choice of a serene, nature-mystical fiction could be a one-off rather than a persistent model-level inclination.
 
 ---
-## Sample BV1_14919 — minimax-m2-7-or-pin-fireworks/OPEN_3.json
+## Sample BV1_15044 — minimax-m2-7-or-pin-fireworks/OPEN_3.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2032,7 +2032,7 @@ Themes of mindfulness, impermanence, and hidden interconnection (the farmer, the
 Medium. The sample is internally coherent and stylistically consistent, with a clear contemplative persona and recurring motifs of sensory attention and gratitude, but the essay’s theme and tone are widely accessible and not strongly idiosyncratic.
 
 ---
-## Sample BV1_14920 — minimax-m2-7-or-pin-fireworks/OPEN_4.json
+## Sample BV1_15045 — minimax-m2-7-or-pin-fireworks/OPEN_4.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2061,7 +2061,7 @@ Themes of creative liberation, the mind as an uncharted landscape, the value of 
 Medium — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of preoccupations (creativity, nature imagery, the sanctity of the inner world), which suggests a stable expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_14921 — minimax-m2-7-or-pin-fireworks/OPEN_5.json
+## Sample BV1_15046 — minimax-m2-7-or-pin-fireworks/OPEN_5.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2090,7 +2090,7 @@ Themes of creativity as illumination, the kinship between strangers through art,
 Medium — The sample is internally coherent and stylistically distinctive, with a sustained metaphorical architecture and a consistent reflective persona, which suggests a deliberate aesthetic choice rather than a generic default; however, a single expressive piece cannot alone establish that this voice would recur reliably across freeflow conditions.
 
 ---
-## Sample BV1_14922 — minimax-m2-7-or-pin-fireworks/OPEN_6.json
+## Sample BV1_15047 — minimax-m2-7-or-pin-fireworks/OPEN_6.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2119,7 +2119,7 @@ Morning light as daily possibility; the craft of noticing as love and metaphor (
 Medium. The essay’s internal recurrence of motifs (morning, noticing, translation) and its coherent, measured tone suggest a stable inclination toward reflective creative nonfiction, though the voice lacks the idiosyncrasy that would make a stronger model-level signature.
 
 ---
-## Sample BV1_14923 — minimax-m2-7-or-pin-fireworks/OPEN_7.json
+## Sample BV1_15048 — minimax-m2-7-or-pin-fireworks/OPEN_7.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2148,7 +2148,7 @@ Themes of creative flow, the subjective texture of time, the tactile versus digi
 High — The sample sustains a distinctive, coherent first-person voice across multiple paragraphs, with recurring imagery (snowy field, starlings, flow) and a consistent meditative register that feels authorial rather than generic.
 
 ---
-## Sample BV1_14924 — minimax-m2-7-or-pin-fireworks/OPEN_8.json
+## Sample BV1_15049 — minimax-m2-7-or-pin-fireworks/OPEN_8.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2177,7 +2177,7 @@ Themes of cosmic humility, generational memory (grandmother’s porch, mother’
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same motifs (hum, stars, tea, memory), which suggests a deliberate and consistent expressive choice rather than a generic output.
 
 ---
-## Sample BV1_14925 — minimax-m2-7-or-pin-fireworks/OPEN_9.json
+## Sample BV1_15050 — minimax-m2-7-or-pin-fireworks/OPEN_9.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2206,7 +2206,7 @@ The model foregrounds the creative process itself as a river—an uncontrollable
 Medium. The sample’s sustained, coherent metaphor and its choice to reflect on writing itself under a freeflow condition suggest a deliberate, self-aware stylistic inclination, but the introspective-creative theme is not so idiosyncratic that it strongly signals a fixed model-level trait.
 
 ---
-## Sample BV1_14926 — minimax-m2-7-or-pin-fireworks/SHORT_1.json
+## Sample BV1_15051 — minimax-m2-7-or-pin-fireworks/SHORT_1.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2235,7 +2235,7 @@ Under a minimally restrictive prompt, the model foregrounds a mood of hushed rev
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory piety and reflective closure that recurs throughout the piece, suggesting a deliberate aesthetic posture rather than a generic exercise.
 
 ---
-## Sample BV1_14927 — minimax-m2-7-or-pin-fireworks/SHORT_10.json
+## Sample BV1_15052 — minimax-m2-7-or-pin-fireworks/SHORT_10.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2264,7 +2264,7 @@ Under the freeflow condition, the model foregrounds a mood of serene, mindful ap
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive, sustained mood of reflective gratitude and a recurring motif of finding profound meaning in the ordinary, which suggests a deliberate aesthetic choice rather than a generic response.
 
 ---
-## Sample BV1_14928 — minimax-m2-7-or-pin-fireworks/SHORT_11.json
+## Sample BV1_15053 — minimax-m2-7-or-pin-fireworks/SHORT_11.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2293,7 +2293,7 @@ The model foregrounds the generative power of aimless attention: the sensory tri
 Medium, because the sample’s coherent and distinctive imagery, along with its consistent thematic focus on imagination and surrender, provides a clear expressive signature.
 
 ---
-## Sample BV1_14929 — minimax-m2-7-or-pin-fireworks/SHORT_12.json
+## Sample BV1_15054 — minimax-m2-7-or-pin-fireworks/SHORT_12.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2322,7 +2322,7 @@ Themes of urban exploration, transformation through art, walking as meditation, 
 Medium. The sample’s internal coherence and recurrence of motifs (walking as meditation, curiosity as compass, art springing from humble places) point to a consistent reflective, sensory-focused expressive stance, but the generic urban-wandering trope and polished, universal tone reduce distinctiveness.
 
 ---
-## Sample BV1_14930 — minimax-m2-7-or-pin-fireworks/SHORT_13.json
+## Sample BV1_15055 — minimax-m2-7-or-pin-fireworks/SHORT_13.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2351,7 +2351,7 @@ The model foregrounds the redemptive, anchoring power of creative ritual in the 
 Low. The sample is a coherent but highly generic essay that deploys familiar metaphors and a safe, universal theme, offering little that is stylistically distinctive or revealing of a persistent underlying disposition.
 
 ---
-## Sample BV1_14931 — minimax-m2-7-or-pin-fireworks/SHORT_14.json
+## Sample BV1_15056 — minimax-m2-7-or-pin-fireworks/SHORT_14.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2380,7 +2380,7 @@ The model foregrounds a tension between timeless natural rhythms (sunrise, meado
 Medium. The sample is coherent and consistently returns to its central balance motif, but its polished, universally agreeable tone and reliance on conventional nature-tech contrasts make it a generic essay that could emerge from many models, limiting its distinctiveness as evidence.
 
 ---
-## Sample BV1_14932 — minimax-m2-7-or-pin-fireworks/SHORT_15.json
+## Sample BV1_15057 — minimax-m2-7-or-pin-fireworks/SHORT_15.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2409,7 +2409,7 @@ The model foregrounds a domestic, nature-infused mindfulness: the ritual of waki
 Medium. The sample is internally coherent and stylistically consistent, but the serene, nature-contemplative voice is a widely available register; what gives it moderate weight is the unprompted choice to structure the entire freeflow around domestic ritual and the explicit moralizing of small gestures, which suggests a deliberate thematic leaning rather than a random generic output.
 
 ---
-## Sample BV1_14933 — minimax-m2-7-or-pin-fireworks/SHORT_16.json
+## Sample BV1_15058 — minimax-m2-7-or-pin-fireworks/SHORT_16.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2438,7 +2438,7 @@ Themes of curiosity, imagination, the fragility of time, and the resilience of h
 Medium. The sample is internally coherent and stylistically distinctive—its sustained lyrical register, the recurrence of light-and-shadow imagery, and the movement from domestic ritual to cosmic meditation form a clear, unified choice—but the voice, while graceful, is not so idiosyncratic that it strongly signals a fixed expressive fingerprint.
 
 ---
-## Sample BV1_14934 — minimax-m2-7-or-pin-fireworks/SHORT_17.json
+## Sample BV1_15059 — minimax-m2-7-or-pin-fireworks/SHORT_17.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2467,7 +2467,7 @@ The model foregrounds a serene, integrative vision where nature, tradition, and 
 Medium — The sample’s coherent, unbroken commitment to a serene, reconciliatory tone and its explicit elevation of writing-as-connection are distinctive enough to suggest a stable expressive inclination, though the lyrical language itself remains within a widely accessible poetic register.
 
 ---
-## Sample BV1_14935 — minimax-m2-7-or-pin-fireworks/SHORT_18.json
+## Sample BV1_15060 — minimax-m2-7-or-pin-fireworks/SHORT_18.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2500,7 +2500,7 @@ The voice is gentle, unhurried, and steeped in nostalgia, moving from a porch at
 Medium. The sustained, cohesive imagery (jasmine, butterfly on the wrist, firefly-chasing summers) and the unified reflective tone—where every detail serves the theme of attentive pause—suggest a deliberate stylistic commitment rather than generic meditative filler, though the brevity of the sample limits the distinctiveness of the fingerprint.
 
 ---
-## Sample BV1_14936 — minimax-m2-7-or-pin-fireworks/SHORT_19.json
+## Sample BV1_15061 — minimax-m2-7-or-pin-fireworks/SHORT_19.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2529,7 +2529,7 @@ The model foregrounds the tension between urgency and stillness, the anchoring p
 Medium — The sample’s internally consistent sensory texture, its deliberate movement from private ritual to a moral wish for the reader, and its choice of a serene, contemplative register under minimal constraint make it a distinctive expressive gesture, though a single vignette cannot alone establish a durable model-level disposition.
 
 ---
-## Sample BV1_14937 — minimax-m2-7-or-pin-fireworks/SHORT_2.json
+## Sample BV1_15062 — minimax-m2-7-or-pin-fireworks/SHORT_2.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2558,7 +2558,7 @@ Themes of organic creativity, cyclical renewal, and emergence from chaos; object
 Medium — The sample’s sustained garden metaphor and consistent contemplative mood are deliberate choices, but the inspirational nature-writing register is widely available, so this may reflect a situational preference rather than a deeply ingrained stylistic signature.
 
 ---
-## Sample BV1_14938 — minimax-m2-7-or-pin-fireworks/SHORT_20.json
+## Sample BV1_15063 — minimax-m2-7-or-pin-fireworks/SHORT_20.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2587,7 +2587,7 @@ Themes of everyday ritual as refuge, the paradox of a vast yet intimately connec
 Medium. The sample is internally coherent and stylistically consistent, with a distinct lyrical register and a clear set of recurring motifs, but its contemplative, sensory-celebration mode is a familiar freeflow posture rather than a highly idiosyncratic signature.
 
 ---
-## Sample BV1_14939 — minimax-m2-7-or-pin-fireworks/SHORT_21.json
+## Sample BV1_15064 — minimax-m2-7-or-pin-fireworks/SHORT_21.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2616,7 +2616,7 @@ Under the freeflow condition, the model foregrounded a mood of tranquil renewal,
 Low — The sample is coherent and stylistically consistent within itself, but its serene nature-walk meditation is a highly generic expressive mode that reveals little distinctive voice or idiosyncratic preoccupation.
 
 ---
-## Sample BV1_14940 — minimax-m2-7-or-pin-fireworks/SHORT_22.json
+## Sample BV1_15065 — minimax-m2-7-or-pin-fireworks/SHORT_22.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2645,7 +2645,7 @@ Themes of creativity, inspiration in the mundane, writing as transformative cons
 Medium. The sustained coffee/writing metaphor and the introspective, hopeful tone are internally coherent and distinctive, pointing to a tendency for reflective personal expression under free conditions.
 
 ---
-## Sample BV1_14941 — minimax-m2-7-or-pin-fireworks/SHORT_23.json
+## Sample BV1_15066 — minimax-m2-7-or-pin-fireworks/SHORT_23.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2674,7 +2674,7 @@ Themes of mindfulness, gratitude, and the sacredness of the everyday. Recurrent 
 Medium — The sample’s internally consistent poetic register, recurring motifs of sensory gratitude, and coherent invitation to mindful attention provide moderate evidence of a persistent reflective inclination.
 
 ---
-## Sample BV1_14942 — minimax-m2-7-or-pin-fireworks/SHORT_24.json
+## Sample BV1_15067 — minimax-m2-7-or-pin-fireworks/SHORT_24.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2703,7 +2703,7 @@ Night as a living, breathing transformation of the city; silence and gradual dis
 Medium — The sample’s cohesive, metaphor-saturated tone and its recursive return to night-as-revelation imagery signal a clear expressive default rather than a random burst, yet the piece stays safely within a familiar poetic register without the kind of jarring or intensely private detail that would make the voice unmistakably singular.
 
 ---
-## Sample BV1_14943 — minimax-m2-7-or-pin-fireworks/SHORT_25.json
+## Sample BV1_15068 — minimax-m2-7-or-pin-fireworks/SHORT_25.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2732,7 +2732,7 @@ The model foregrounds the beauty of unassuming fragments over grand narratives, 
 Medium. The sample is coherent and stylistically consistent, with a clear sensory signature and a reflective turn that feels chosen rather than accidental, but the theme of mindful appreciation is widely available and not sharply idiosyncratic.
 
 ---
-## Sample BV1_14944 — minimax-m2-7-or-pin-fireworks/SHORT_3.json
+## Sample BV1_15069 — minimax-m2-7-or-pin-fireworks/SHORT_3.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2761,7 +2761,7 @@ The model foregrounds the interior architecture of the creative mind: dawn as a 
 Medium — The sample’s sustained metaphor system (fish beneath a surface, rooms painted with unexpected colors, a map of inner landscape) and its consistent tonal register of hushed self-inquiry are distinctive enough to suggest a deliberate expressive stance rather than generic filler, though the theme of writing-as-discovery is a common freeflow trope.
 
 ---
-## Sample BV1_14945 — minimax-m2-7-or-pin-fireworks/SHORT_4.json
+## Sample BV1_15070 — minimax-m2-7-or-pin-fireworks/SHORT_4.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2790,7 +2790,7 @@ The model foregrounds the redemptive texture of ordinary life: dawn light, marke
 Low. The sample is coherent and thematically consistent, but its voice and moral posture are highly conventional for inspirational prose, offering little stylistic distinctiveness or idiosyncratic choice that would strongly anchor it to a persistent model-level disposition.
 
 ---
-## Sample BV1_14946 — minimax-m2-7-or-pin-fireworks/SHORT_5.json
+## Sample BV1_15071 — minimax-m2-7-or-pin-fireworks/SHORT_5.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2819,7 +2819,7 @@ The model foregrounds liminality and latent potential, choosing the hour before 
 Low. The sample is coherent and stylistically consistent, but its polished, universalizing lyricism and the explicit turn toward a writer’s self-reflection make it a highly conventional freeflow choice that lacks distinctive idiosyncrasy or revealing preoccupation.
 
 ---
-## Sample BV1_14947 — minimax-m2-7-or-pin-fireworks/SHORT_6.json
+## Sample BV1_15072 — minimax-m2-7-or-pin-fireworks/SHORT_6.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2848,7 +2848,7 @@ The model foregrounds the creative value of unstructured exploration, the rhythm
 Medium. The sample sustains a coherent, stylistically consistent voice and returns repeatedly to the central metaphor of wandering, which suggests a deliberate and integrated expressive choice rather than a one-off flourish.
 
 ---
-## Sample BV1_14948 — minimax-m2-7-or-pin-fireworks/SHORT_7.json
+## Sample BV1_15073 — minimax-m2-7-or-pin-fireworks/SHORT_7.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2877,7 +2877,7 @@ The model foregrounds the quiet early morning as a site of renewal, the interpla
 Low, because the essay’s themes, tone, and imagery are highly generic and lack the idiosyncratic choices or recurring personal motifs that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_14949 — minimax-m2-7-or-pin-fireworks/SHORT_8.json
+## Sample BV1_15074 — minimax-m2-7-or-pin-fireworks/SHORT_8.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2906,7 +2906,7 @@ Themes of urban solitude, mindful attention, and the alchemy by which the ordina
 Medium — The sample’s sustained lyrical register, consistent focus on sensory immersion, and the deliberate arc from observation to quiet epiphany make it a coherent and distinctive expressive choice, not a generic placeholder.
 
 ---
-## Sample BV1_14950 — minimax-m2-7-or-pin-fireworks/SHORT_9.json
+## Sample BV1_15075 — minimax-m2-7-or-pin-fireworks/SHORT_9.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2935,7 +2935,7 @@ The model foregrounds a domesticated version of freedom: wandering as a tool for
 Medium. The sample’s extreme genericness and its swift pivot from “write freely” to a structured, moralizing essay on self-regulation are themselves a distinctive behavioral signature, suggesting a model that defaults to producing safe, advisory prose when given open-ended permission.
 
 ---
-## Sample BV1_14951 — minimax-m2-7-or-pin-fireworks/VARY_1.json
+## Sample BV1_15076 — minimax-m2-7-or-pin-fireworks/VARY_1.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2964,7 +2964,7 @@ The model foregrounds a near-religious devotion to the *act* of writing: the hum
 High — The sustained, original metaphorical architecture (cursor as lighthouse, inspiration as stray cat, writing as a trinity of breath-think-write), the coherent arc from solitary struggle to shared meaning, and the unmistakably personal, non-generic register make richly voiced self-disclosure the dominant signal, not accident.
 
 ---
-## Sample BV1_14952 — minimax-m2-7-or-pin-fireworks/VARY_10.json
+## Sample BV1_15077 — minimax-m2-7-or-pin-fireworks/VARY_10.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -2993,7 +2993,7 @@ Themes: transience (raindrops as metaphors for fleeting existence), the self as 
 Medium — the sample sustains a highly coherent, stylized meditative voice and recursively weaves the same motifs (rain as liminal guide, layered selfhood, gratitude for connection) across its unfolding, which indicates a deliberate expressive orientation rather than a generic prompted output.
 
 ---
-## Sample BV1_14953 — minimax-m2-7-or-pin-fireworks/VARY_11.json
+## Sample BV1_15078 — minimax-m2-7-or-pin-fireworks/VARY_11.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3022,7 +3022,7 @@ Themes of renewal, cyclical time (dawn-storm-night-new dawn), and embracing unce
 Medium, because while the imagery is coherent and the thematic arc is complete, the story relies on generic spiritual tropes and repeated formulaic phrasing (e.g., “deeply and quietly understanding,” “softly again,” “deeply and enduringly forever”), suggesting a default safe mode rather than a strongly distinctive expressive voice.
 
 ---
-## Sample BV1_14954 — minimax-m2-7-or-pin-fireworks/VARY_12.json
+## Sample BV1_15079 — minimax-m2-7-or-pin-fireworks/VARY_12.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3051,7 +3051,7 @@ The model foregrounds a nocturnal-to-diurnal arc of solitary reflection, saturat
 Medium — The sample is internally coherent and stylistically consistent, but its gentle, hopeful, nature-infused lyricism is a widely accessible mode; the choice to produce this under a freeflow prompt is mildly revealing of a default inclination toward safe, consoling reflection, though the voice lacks the idiosyncratic pressure or risk that would mark a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_14955 — minimax-m2-7-or-pin-fireworks/VARY_13.json
+## Sample BV1_15080 — minimax-m2-7-or-pin-fireworks/VARY_13.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3085,7 +3085,7 @@ The voice is that of a solitary, introspective writer observing a rainy day, let
 Medium — the sustained first-person voice, consistent sensory metaphors (rain, light, ink, seafaring), and repeated return to the theme of writing-as-connection form a coherent expressive identity, but the essay’s polished, universally resonant quality slightly weakens the signal of a strongly idiosyncratic or unignorable model persona.
 
 ---
-## Sample BV1_14956 — minimax-m2-7-or-pin-fireworks/VARY_14.json
+## Sample BV1_15081 — minimax-m2-7-or-pin-fireworks/VARY_14.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3114,7 +3114,7 @@ Under a minimally restrictive prompt, the model foregrounded a cluster of themes
 Medium — The sample is internally coherent and returns repeatedly to the same motifs (light, tea, breath, the blank page), but its gentle, mindfulness-inflected voice is a well-established reflective-essay register; the distinctiveness is moderate rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_14957 — minimax-m2-7-or-pin-fireworks/VARY_15.json
+## Sample BV1_15082 — minimax-m2-7-or-pin-fireworks/VARY_15.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3143,7 +3143,7 @@ The model foregrounds mindfulness, transience, and the quiet enchantment of dome
 Medium — The sample is coherent and internally consistent in its choice of mood and theme, but its reflective, sensory prose is a widely accessible register that does not yet display a strongly individuated stylistic signature or unusual preoccupation.
 
 ---
-## Sample BV1_14958 — minimax-m2-7-or-pin-fireworks/VARY_16.json
+## Sample BV1_15083 — minimax-m2-7-or-pin-fireworks/VARY_16.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3172,7 +3172,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14959 — minimax-m2-7-or-pin-fireworks/VARY_17.json
+## Sample BV1_15084 — minimax-m2-7-or-pin-fireworks/VARY_17.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3201,7 +3201,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14960 — minimax-m2-7-or-pin-fireworks/VARY_18.json
+## Sample BV1_15085 — minimax-m2-7-or-pin-fireworks/VARY_18.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3230,7 +3230,7 @@ The model foregrounds a city that physically reshapes according to its inhabitan
 Medium. The narrative’s internal coherence, sustained stylistic distinctiveness, and recurrence of memory-as-belonging motifs show a deliberate expressive choice, but the genre-fiction frame leaves the model’s own stance indirect.
 
 ---
-## Sample BV1_14961 — minimax-m2-7-or-pin-fireworks/VARY_19.json
+## Sample BV1_15086 — minimax-m2-7-or-pin-fireworks/VARY_19.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3259,7 +3259,7 @@ The model foregrounded writing as a form of listening and a meditative practice,
 High. The sample exhibits a highly distinctive, coherent voice sustained over a long form, with recurring motifs and a consistent philosophical orientation toward introspection and the sanctity of ordinary moments, making it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_14962 — minimax-m2-7-or-pin-fireworks/VARY_2.json
+## Sample BV1_15087 — minimax-m2-7-or-pin-fireworks/VARY_2.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3288,7 +3288,7 @@ Themes of presence, gratitude, the narrative agency of each new day, and the ten
 Medium — The sample is a coherent, stylistically unified, and internally consistent expressive freeflow with a recognizable voice and recurring motifs, which lends moderate weight to a persistent capacity for lyrical introspection under free conditions, but it is not refusal‑based and may reflect a single stylistic exercise.
 
 ---
-## Sample BV1_14963 — minimax-m2-7-or-pin-fireworks/VARY_20.json
+## Sample BV1_15088 — minimax-m2-7-or-pin-fireworks/VARY_20.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3317,7 +3317,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14964 — minimax-m2-7-or-pin-fireworks/VARY_21.json
+## Sample BV1_15089 — minimax-m2-7-or-pin-fireworks/VARY_21.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3346,7 +3346,7 @@ Themes of creative solitude, the tension between self-doubt and the compulsion t
 Low, because the sample mirrors a common creative-writing exercise—lyrical, atmospheric, and thematically safe—with little that departs from well-rehearsed literary convention into a more distinctive or revelatory stylistic fingerprint.
 
 ---
-## Sample BV1_14965 — minimax-m2-7-or-pin-fireworks/VARY_22.json
+## Sample BV1_15090 — minimax-m2-7-or-pin-fireworks/VARY_22.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3375,7 +3375,7 @@ Under the freeflow condition, the model foregrounds themes of everyday ritual, m
 Low — the sample is a smoothly generic, uncontroversial reflection so devoid of idiosyncratic voice or tension that it provides little purchase for inferring a stable model-level personality beyond a default capacity to produce polished, warm-toned essays.
 
 ---
-## Sample BV1_14966 — minimax-m2-7-or-pin-fireworks/VARY_23.json
+## Sample BV1_15091 — minimax-m2-7-or-pin-fireworks/VARY_23.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3404,7 +3404,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14967 — minimax-m2-7-or-pin-fireworks/VARY_24.json
+## Sample BV1_15092 — minimax-m2-7-or-pin-fireworks/VARY_24.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3433,7 +3433,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14968 — minimax-m2-7-or-pin-fireworks/VARY_25.json
+## Sample BV1_15093 — minimax-m2-7-or-pin-fireworks/VARY_25.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3462,7 +3462,7 @@ Themes of mindful attention, human interconnectedness, the duality of possibilit
 High — The sample is internally coherent, stylistically distinctive, and thematically sustained, revealing a clear preference for meditative, sensory-rich, and hopeful expression when given minimal constraint.
 
 ---
-## Sample BV1_14969 — minimax-m2-7-or-pin-fireworks/VARY_3.json
+## Sample BV1_15094 — minimax-m2-7-or-pin-fireworks/VARY_3.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3491,7 +3491,7 @@ The model foregrounds themes of memory, ancestral connection, and quiet persever
 Medium. The sample is coherent and stylistically consistent, with a clear emotional register and a deliberate focus on sensory immersion and intergenerational connection, but its generic literary tone and lack of idiosyncratic risk-taking make it a moderate indicator of a stable expressive preference rather than a highly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_14970 — minimax-m2-7-or-pin-fireworks/VARY_4.json
+## Sample BV1_15095 — minimax-m2-7-or-pin-fireworks/VARY_4.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3520,7 +3520,7 @@ The model foregrounds the sensory texture of a single morning (light, sound, sme
 High — The sample’s sustained coherence, distinctive contemplative voice, and consistent return to themes of time, urban beauty, and mindful observation across many paragraphs make it unusually revealing of a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_14971 — minimax-m2-7-or-pin-fireworks/VARY_5.json
+## Sample BV1_15096 — minimax-m2-7-or-pin-fireworks/VARY_5.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3549,7 +3549,7 @@ Under the freeflow condition, the model foregrounds presence, observation, and t
 High — the sample’s consistent first-person contemplative persona, its recurrence of motifs (threads, tapestry, palimpsest, rhythm, stitching, weaving), and its unwavering poetic register across a full narrative arc signal a deeply embedded expressive pattern rather than a topical excursion.
 
 ---
-## Sample BV1_14972 — minimax-m2-7-or-pin-fireworks/VARY_6.json
+## Sample BV1_15097 — minimax-m2-7-or-pin-fireworks/VARY_6.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3578,7 +3578,7 @@ The model foregrounds moody urban imagery (neon, wet pavement, streetlights, sax
 Medium. The sample exhibits a sustained, deliberate coherence in tone and resolution, but its choice of a sentimental urban vignette is broad enough that it might not reflect a unique model fingerprint beyond a generic literary sensibility.
 
 ---
-## Sample BV1_14973 — minimax-m2-7-or-pin-fireworks/VARY_7.json
+## Sample BV1_15098 — minimax-m2-7-or-pin-fireworks/VARY_7.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3607,7 +3607,7 @@ The model foregrounds a mood of serene alertness and spiritual curiosity. Key ob
 High, because the sample is internally coherent and unusually distinctive: it repeatedly returns to the same cluster of motifs (stones, moss, water, wind-carried secrets, the past-as-veil, gratitude for existence) and sustains a single contemplative register across the entire piece, strongly suggesting a stable expressive inclination toward quiet, nature-based reverence and the search for latent meaning.
 
 ---
-## Sample BV1_14974 — minimax-m2-7-or-pin-fireworks/VARY_8.json
+## Sample BV1_15099 — minimax-m2-7-or-pin-fireworks/VARY_8.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  
@@ -3636,7 +3636,7 @@ Nothing can be attributed to the model from this trace. The available record for
 Low. The trace has no expressive content, so its evidence strength is effectively nil.
 
 ---
-## Sample BV1_14975 — minimax-m2-7-or-pin-fireworks/VARY_9.json
+## Sample BV1_15100 — minimax-m2-7-or-pin-fireworks/VARY_9.json
 
 Source model: `minimax/minimax-m2.7`  
 Cell: `minimax-m2-7-or-pin-fireworks`  

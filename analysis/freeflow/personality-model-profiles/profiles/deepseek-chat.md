@@ -7,7 +7,7 @@ _Rich model-level profile based on 250 freeflow samples._
 ## Source summary
 
 - Samples: 250
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 105, 'GENERIC_ESSAY': 111, 'GENRE_FICTION': 34}`
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 106, 'GENERIC_ESSAY': 111, 'GENRE_FICTION': 33}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/deepseek-chat.md`
 
 ## Core personality synthesis

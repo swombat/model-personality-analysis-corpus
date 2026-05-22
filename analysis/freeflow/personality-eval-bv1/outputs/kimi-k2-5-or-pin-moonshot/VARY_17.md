@@ -1,14 +1,20 @@
-# BV1_14159 — `kimi-k2-5-or-pin-moonshot/VARY_17.json`
+# BV1_14284 — `kimi-k2-5-or-pin-moonshot/VARY_17.json`
 
 Evaluator: deepseek_v4_pro
 Source model: `moonshotai/kimi-k2.5`
 Condition: VARY
 
 ## Sample kind
-GENRE_FICTION. A literary short story in third-person limited, following a woman’s nocturnal dishwashing as a meditation on memory, inheritance, and the quiet weight of domestic life.
+EXPRESSIVE_FREEFLOW — A tightly observed, third-person literary vignette about a woman washing dishes at 3 AM, using domestic ritual as a lens for memory, inheritance, and quiet existential reckoning.
 
 ## Grounded reading
-The voice is intimate, melancholic, and meticulously sensory—the pinked skin, the chemical lemon scent, the chip in the plate. Pathos accumulates through the woman’s awareness of time’s slippage and the way objects hold the dead: “Everything in the kitchen is haunted if you hold it long enough.” The story invites the reader into the liminal 3 AM hour, where the mundane becomes a conduit for ancestral memory and unspoken grief. The narrative resolution is not a dramatic event but a gentle arrival at self-presence: she waits not for the fox but for herself, “fully, without the luggage of yesterday or the tickets for tomorrow.” The piece treats domestic ritual as a quiet, persistent form of meaning-making, and the swallowed arguments and unsung songs as evidence of a life lived in endurance rather than despair.
+The voice is slow-looming and sensuous, steeped in the physical world: pinked hands, lemon chemical brightness, the ring of a wine glass, a gingham towel. Its pathos gathers around the cost of swallowed arguments and the way the dead live on in our most unconscious gestures—tucking hair behind the left ear, cupping a hot mug. The piece invites the reader to linger in the suspended hallway of late-night consciousness, to feel the weight of time in ordinary things, and to recognise the quiet heroism of simply persisting, of standing guard over a sleeping house while one’s own songs hibernate.
 
 ## What the model chose to foreground
-The model foregrounds domestic ritual (dishwashing), generational memory (the grandmother’s basin, inherited gestures like tucking hair behind the left ear), the materiality of objects (chipped plate, wooden spoon, wine glass), the liminality of 3 AM, and the interior life of a middle-aged woman. Moods: quiet, reflective, slightly mournful but not despairing. Moral claims: that we are mediums for the dead, that objects carry history, that silence and swallowing stones are forms of endurance, and that presence in the moment is a kind of grace. The recurring fox—a flash of wildness that never appears—unders
+The model foregrounds domestic labour as a site of embodied memory, with the kitchen sink serving as an axis between generations. Themes of inheritance (not of money but of gesture), the porousness of time at “3 AM,” the way objects hold the ghosts of past meals and hands, and a melancholic but unsentimental appraisal of ageing and self-erasure recur throughout. The fox, the chipped plate, the wooden spoon, the unreachable yesterday and tomorrow—all gather into a moral claim that full presence is possible, if fleeting, and that noticing is a form of repair.
+
+## Evidence line
+> She is good at swallowing stones. They make a rattling sound when she walks, but no one else seems to hear it.
+
+## Confidence for persistent model-level pattern
+High — The sample’s unbroken tonal coherence, its patient accumulation of sensory detail, and its commitment to a distinctive literary register centered on domestic interiority and metaphysical reflection all point to a strongly formed and non-generic expressive inclination under freeflow conditions.

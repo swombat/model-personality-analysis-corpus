@@ -4,14 +4,13 @@
   "samples": 125,
   "sample_kind_counts": {
     "GENRE_FICTION": 11,
-    "GENERIC_ESSAY": 10,
-    "EXPRESSIVE_FREEFLOW": 104
+    "GENERIC_ESSAY": 11,
+    "EXPRESSIVE_FREEFLOW": 103
   },
   "confidence_counts": {
     "Medium": 69,
-    "High": 53,
-    "Low": 2,
-    "UNKNOWN": 1
+    "High": 54,
+    "Low": 2
   },
   "condition_counts": {
     "LONG": 25,

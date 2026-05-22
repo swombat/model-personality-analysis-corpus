@@ -6,7 +6,7 @@ This packet contains all BV1 per-sample freeflow personality evaluations for `ge
 
 - Samples: 125
 - Sample kind counts: `{'GENRE_FICTION': 27, 'EXPRESSIVE_FREEFLOW': 70, 'GENERIC_ESSAY': 28}`
-- Confidence counts: `{'Medium': 84, 'High': 30, 'Low': 11}`
+- Confidence counts: `{'Medium': 83, 'High': 30, 'Low': 12}`
 - Condition counts: `{'LONG': 25, 'MID': 25, 'OPEN': 25, 'SHORT': 25, 'VARY': 25}`
 - Cell: `gemini-3-1-pro-16k`
 - Source models: `['gemini-3.1-pro-preview']`
@@ -1529,24 +1529,25 @@ Condition: `OPEN`
 Word count: 533
 
 # BV1_03277 — `gemini-3-1-pro-16k/OPEN_10.json`
+
 Evaluator: deepseek_v4_pro
 Source model: `gemini-3.1-pro-preview`
 Condition: OPEN
 
 ## Sample kind
-GENERIC_ESSAY. The text is a polished, thesis-driven reflection on impermanence and the beauty of abandoned places, delivering a coherent but not personally distinctive public-intellectual meditation.
+EXPRESSIVE_FREEFLOW — A meditative personal essay that uses a specific, recurring image to build a philosophical argument about impermanence and relief.
 
 ## Grounded reading
-The narrator adopts a calm, philosophical voice, guiding the reader through a sensory visit to an abandoned greenhouse to argue that decay reveals a comforting truth: all human striving is temporary, and that realization relieves the pressure to be perfect or permanent. The tone is gentle and inviting, using vivid imagery (rust, ferns, dust motes) to cultivate a mood of melancholy wonder, but the perspective remains generalized rather than confessional, treating personal feeling as a universal lesson.
+The voice is unhurried, gently instructive, and quietly romantic about decay. It invites the reader into a shared act of imaginative seeing ("Let’s step inside the greenhouse for a moment"), then moves from precise sensory description (the iron framework "the color of dried blood and autumn leaves," the roof "like a comb missing its teeth") toward a consoling existential claim. The pathos is one of tender relief rather than melancholy: the speaker finds the erasure of human order not tragic but liberating, a permission to stop striving for permanence. The reader is positioned as a fellow contemplative, someone who might also feel the pressure lift when reminded that "the vines will reclaim it all."
 
 ## What the model chose to foreground
-The model foregrounds the tension between human order and nature's reclamation, choosing a greenhouse as a symbol of that conflict. It elevates the German concept of *Ruinenlust*, making it the emotional pivot from description to moral claim. The essay emphasizes relief over loss, framing impermanence as a release from the burdens of modern life and ambition. The mood is quietly optimistic, locating beauty in the broken collaboration between past labor and present wildness.
+The model foregrounds the aesthetics of domestic ruin, the tension between human intention and natural reclamation, and the emotional payoff of accepting impermanence. Key objects—the abandoned greenhouse, the rusted pickup, the wild blackberries—serve as evidence for a moral claim: that transience is comforting, not nihilistic. The mood is elegiac but warm, and the essay insists on beauty in brokenness.
 
 ## Evidence line
-> It reminds us that the structures we build, the stresses we carry, and the empires we forge are all temporary.
+> It is no longer a garden, but it is not entirely a forest, either.
 
 ## Confidence for persistent model-level pattern
-Medium. The sample is highly coherent and thoughtfully structured but entirely conventional in topic, voice, and moral resolution, suggesting a default to safe, accessible meditative essays rather than stylistic risk-taking, yet one sample cannot confirm whether more idiosyncratic choices would emerge under different conditions.
+Medium — The essay is coherent and stylistically consistent, but its polished, universalizing tone and the use of a familiar ruin-gazing trope make it harder to distinguish as a strongly individual expressive signature rather than a well-executed reflective genre piece.
 
 ---
 ## Sample BV1_03278 — gemini-3-1-pro-16k/OPEN_11.json
@@ -2346,19 +2347,19 @@ Source model: `gemini-3.1-pro-preview`
 Condition: SHORT
 
 ## Sample kind
-EXPRESSIVE_FREEFLOW — A first-person, introspective lyric essay that uses sensory detail to meditate on pre-dawn solitude.
+GENERIC_ESSAY: A polished, warmly sentimental personal reflection on morning solitude that follows a predictable arc from stillness to interruption, lacking sharply personal or stylistically risky details.
 
 ## Grounded reading
-The voice is intimate, appreciative, and slightly precious, casting the early morning as a stolen sanctuary from daily noise. The piece moves from atmospheric description (“bruised purple” sky, “cool and crisp” air, “silent sentinels” of trees) to a personal claim that “creativity always thrives in this profound stillness,” then closes with the spell breaking into ordinary sound. The reader is invited into a shared secret, with the promise that this quiet pocket is “entirely yours.” Underneath the gentle nostalgia is a quiet insistence that attention and stillness are rare, tender, and generative.
+The voice is serene, reverent, and gently instructional, adopting the persona of a reflective solitary who treasures the "sacred silence" before dawn. The pathos centers on a longing for protected interiority—the early morning as a "secret pocket of existence"—under threat from the "relentless demands," "heavy obligations," and "daily machinery" of modern life. The invitation to the reader is to recognize this shared, quiet ritual as a space where creativity and clarity become possible again, culminating in the promise that the stillness is "entirely yours," a gentle nudge toward claiming it.
 
 ## What the model chose to foreground
-The sacredness of silence, the fragile boundary between night and day, sensory richness (dew, damp earth, shifting light), the tension between stillness and the “loud start of the daily machinery,” and the personal ritual of coffee and creative untangling. The model frames this quiet time as a locus of agency and refuge, not merely a description.
+The model foregrounds sanctuary through solitude, the creative benefits of pre-dawn silence, and a reverent attention to sensory atmosphere (the "bruised purple" sky, cool air, scent of damp earth). It also foregrounds a moralized tension between the pure, still self and the intrusive "loud start" of worldly obligation, treating the early morning as a fragile, defended pocket of peace.
 
 ## Evidence line
-> It feels like a secret pocket of existence, completely untouched by the chaos of traffic, urgent emails, and heavy obligations.
+> "There is a profound, almost sacred silence that belongs exclusively to the early morning hours."
 
 ## Confidence for persistent model-level pattern
-Medium — The sample’s cohesive voice and the recurrence of stillness-as-refuge imagery suggest a settled inclination toward introspective, atmospheric freeflow, though a single sample cannot confirm how dominant this mood is across variation.
+Low: The essay is highly conventional in its structure (stillness interrupted), its tropes (coffee, blank page, birdsong), and its therapeutic framing of creativity, making it weak evidence for any distinctive model-level voice rather than a generic competence at producing warm, reflective prose.
 
 ---
 ## Sample BV1_03306 — gemini-3-1-pro-16k/SHORT_14.json

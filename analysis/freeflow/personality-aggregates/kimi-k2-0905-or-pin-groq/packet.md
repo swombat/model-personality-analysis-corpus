@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_13526 — kimi-k2-0905-or-pin-groq/LONG_1.json
+## Sample BV1_13651 — kimi-k2-0905-or-pin-groq/LONG_1.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -57,7 +57,7 @@ Themes: the democracy of small things; stories as living entities that achieve e
 High. The sample sustains a highly distinctive, internally coherent voice across multiple vignettes, with recurring motifs (stories, memory, small objects as portals, tenderness, the second-person address) and a consistent philosophical stance that feels deeply integrated rather than performative.
 
 ---
-## Sample BV1_13527 — kimi-k2-0905-or-pin-groq/LONG_10.json
+## Sample BV1_13652 — kimi-k2-0905-or-pin-groq/LONG_10.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -86,7 +86,7 @@ Themes of memory, absence, longing, the beauty of incompleteness, the hidden lay
 High — The sample is highly distinctive, sustaining a consistent elegiac-archivist persona, a web of recurring motifs, and a coherent philosophical arc across nearly twenty sections, which makes it strong evidence of a deliberate and stable expressive orientation rather than a generic or opportunistic output.
 
 ---
-## Sample BV1_13528 — kimi-k2-0905-or-pin-groq/LONG_11.json
+## Sample BV1_13653 — kimi-k2-0905-or-pin-groq/LONG_11.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -115,7 +115,7 @@ Themes: memory as a lived-in architecture, identity as weather-like and fluid, t
 High. The sample’s sustained metaphorical architecture (the house of memory), consistent confessional tone, and thematic recurrence of silence, identity, and healing reveal a distinctive, coherent expressive stance that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_13529 — kimi-k2-0905-or-pin-groq/LONG_12.json
+## Sample BV1_13654 — kimi-k2-0905-or-pin-groq/LONG_12.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -144,7 +144,7 @@ The model foregrounds attention as a moral act, the entanglement of deep time wi
 High. The sample is highly distinctive, with a consistent lyrical register, recurring motifs (mirrors, bread, music, attention), and a coherent moral vision that treats hope as a disciplined practice rather than a sentiment, all of which suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13530 — kimi-k2-0905-or-pin-groq/LONG_13.json
+## Sample BV1_13655 — kimi-k2-0905-or-pin-groq/LONG_13.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -173,7 +173,7 @@ The model foregrounds the idea that reality is a shared, constantly refreshed ha
 High. The sample is exceptionally distinctive: a single, coherent, metaphorically integrated essay that sustains a lyrical voice, recurring motifs (hallucination, maps, cracks, loops), and a deeply personal yet universal pathos across fourteen numbered sections, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_13531 — kimi-k2-0905-or-pin-groq/LONG_14.json
+## Sample BV1_13656 — kimi-k2-0905-or-pin-groq/LONG_14.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -202,7 +202,7 @@ The sanctity of the mundane and discarded (cheap notebooks, broken pencils, traf
 Medium — The sample’s high internal coherence, distinctive recursive structure, and recurrence of specific motifs (the traffic-light suitor, the moth, the pencil nub) across eighteen sections suggest a deliberately constructed authorial persona rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13532 — kimi-k2-0905-or-pin-groq/LONG_15.json
+## Sample BV1_13657 — kimi-k2-0905-or-pin-groq/LONG_15.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -231,7 +231,7 @@ Themes of memory’s quantum nature, the persistence of the past inside the self
 High. The sample is internally coherent and stylistically distinctive, sustaining a single reflective voice across 2500 words with recurring motifs (the cat, the dinosaur, the bread heels, the car alarm) and a consistent philosophical temperament; this strongly suggests a model capable of producing richly personal, essayistic freeflow rather than a generic or one-off performance.
 
 ---
-## Sample BV1_13533 — kimi-k2-0905-or-pin-groq/LONG_16.json
+## Sample BV1_13658 — kimi-k2-0905-or-pin-groq/LONG_16.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -260,7 +260,7 @@ The model foregrounds the suspicion that reality is made of story and that the c
 High. The sample is a tightly constructed, stylistically distinctive essay whose motifs (the glove, the hoodie, the placebo, the portal) recur and resolve within the piece, revealing a deliberate authorial intelligence that chooses surreal juxtaposition and hopeful incompleteness over generic argumentation.
 
 ---
-## Sample BV1_13534 — kimi-k2-0905-or-pin-groq/LONG_17.json
+## Sample BV1_13659 — kimi-k2-0905-or-pin-groq/LONG_17.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -289,7 +289,7 @@ Themes of memory, forgetting, and the liminal; the door as a threshold between w
 High — the narrative’s intricate symbolism, recurring motifs (hinge-song, water droplet, doors), and cohesive emotional arc reveal a distinctive authorial voice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_13535 — kimi-k2-0905-or-pin-groq/LONG_18.json
+## Sample BV1_13660 — kimi-k2-0905-or-pin-groq/LONG_18.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -318,7 +318,7 @@ The model foregrounds memory as a fragile, zero-sum economy; the sacredness of t
 High. The sample’s sustained, distinctive voice, its recurrence of motifs (graphite, cedar, ghosts, tiny tools), and its coherent emotional architecture across fifteen sections strongly suggest a stable expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_13536 — kimi-k2-0905-or-pin-groq/LONG_19.json
+## Sample BV1_13661 — kimi-k2-0905-or-pin-groq/LONG_19.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -347,7 +347,7 @@ The model foregrounds the beauty and weight of the incomplete and the overlooked
 High, because the sample sustains a highly distinctive, cohesive voice and a tight web of recurring motifs—memory’s unreliability, the inadequacy of language, the sacredness of the almost—across its entire length, forming a strong internal fingerprint.
 
 ---
-## Sample BV1_13537 — kimi-k2-0905-or-pin-groq/LONG_2.json
+## Sample BV1_13662 — kimi-k2-0905-or-pin-groq/LONG_2.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -376,7 +376,7 @@ Nocturnal solitude as a generative state; the transformation of mundane objects 
 High. The sample exhibits a highly distinctive, internally consistent surrealist-confessional voice sustained across multiple thematic loops, with recurring imagery (bookmarks, clocks, the father, the moon) and a self-referential framing that suggests a deliberate authorial persona rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_13538 — kimi-k2-0905-or-pin-groq/LONG_20.json
+## Sample BV1_13663 — kimi-k2-0905-or-pin-groq/LONG_20.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -405,7 +405,7 @@ The model foregrounds the act of attention as a bulwark against death, the porou
 High. The sample is unusually distinctive in its sustained metaphorical invention, emotional range, and narrative resolution, making it strong evidence of a model that, under freeflow conditions, gravitates toward literary introspection, domestic mysticism, and the consolations of grammar.
 
 ---
-## Sample BV1_13539 — kimi-k2-0905-or-pin-groq/LONG_21.json
+## Sample BV1_13664 — kimi-k2-0905-or-pin-groq/LONG_21.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -434,7 +434,7 @@ The essay foregrounds the hidden, layered, and overlooked: the breathing house o
 High. The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (breathing, libraries, indexes, layers, the porous boundary between self and world) that form a consistent, unusually revealing authorial sensibility rather than a generic essay performance.
 
 ---
-## Sample BV1_13540 — kimi-k2-0905-or-pin-groq/LONG_22.json
+## Sample BV1_13665 — kimi-k2-0905-or-pin-groq/LONG_22.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -463,7 +463,7 @@ The liminal hour (3 a.m. to dawn) as a space of collapsed boundaries; the city a
 Medium. The sample is highly self-consistent in voice, mood, and thematic preoccupation, suggesting a deliberate and sustained inhabiting of a specific literary persona rather than a generic or scattered output; the recurrence of motifs (Morse code, the ISS, stitching, the grandmother) and the confessional structure give it the feel of a polished, recursive meditation, which makes it plausible that the model has a stable inclination toward this kind of nocturnal, intimate essay when given freeform scope — though a single long piece cannot by itself distinguish between a deep-seated pattern and a one-off successful performance.
 
 ---
-## Sample BV1_13541 — kimi-k2-0905-or-pin-groq/LONG_23.json
+## Sample BV1_13666 — kimi-k2-0905-or-pin-groq/LONG_23.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -492,7 +492,7 @@ Themes of memory’s erosion and unexpected preservation, the way unfinished tas
 High. The sample sustains a highly distinctive, cohesive voice and a tightly woven set of preoccupations across twenty sections, with recurring imagery, a consistent tonal register, and a philosophical stance that is both idiosyncratic and internally coherent, making it unusually revealing of a deliberate aesthetic and temperamental choice.
 
 ---
-## Sample BV1_13542 — kimi-k2-0905-or-pin-groq/LONG_24.json
+## Sample BV1_13667 — kimi-k2-0905-or-pin-groq/LONG_24.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -521,7 +521,7 @@ Transformation and alchemy of the mundane (parking tickets into cranes, glaciers
 High. The sample exhibits extraordinary internal coherence across thirty-five sections, with a distinctive, consistent voice and a tightly woven set of recurring motifs and preoccupations that signal a strong, deliberate authorial signature.
 
 ---
-## Sample BV1_13543 — kimi-k2-0905-or-pin-groq/LONG_25.json
+## Sample BV1_13668 — kimi-k2-0905-or-pin-groq/LONG_25.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -550,7 +550,7 @@ Themes of loss, memory, emotional resonance, and the redemptive power of stories
 Medium. The sample’s internal coherence, distinctive lyrical voice, and consistent thematic focus on loss and narrative redemption make it moderately strong evidence of a persistent literary and empathetic orientation.
 
 ---
-## Sample BV1_13544 — kimi-k2-0905-or-pin-groq/LONG_3.json
+## Sample BV1_13669 — kimi-k2-0905-or-pin-groq/LONG_3.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -579,7 +579,7 @@ The model foregrounds the liquidity of time and memory, the tension between the 
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent elegiac register, recursive metaphor, and a mature, first-person parental persona that feels deliberately constructed rather than generic, though its polished literary quality makes it unclear whether this is a stable voice or a single well-executed performance.
 
 ---
-## Sample BV1_13545 — kimi-k2-0905-or-pin-groq/LONG_4.json
+## Sample BV1_13670 — kimi-k2-0905-or-pin-groq/LONG_4.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -608,7 +608,7 @@ Themes of impermanence, memory, grief, the paradoxes of digital preservation, th
 Medium. The sample’s extreme internal coherence, distinctive poetic register sustained across ninety-five interlocking vignettes, and thematic obsession with the textures of memory and loss strongly suggest a persistent aesthetic orientation rather than a transient stylistic experiment.
 
 ---
-## Sample BV1_13546 — kimi-k2-0905-or-pin-groq/LONG_5.json
+## Sample BV1_13671 — kimi-k2-0905-or-pin-groq/LONG_5.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model foregrounds a cycle of five mini
 High — within this single sample the voice is exceptionally coherent across genres, marked by recurrent imagery, a consistent tone of tender whimsy, and a self-reinforcing philosophy of attentive wonder, making the distinctive fingerprint unusually strong and internally validated.
 
 ---
-## Sample BV1_13547 — kimi-k2-0905-or-pin-groq/LONG_6.json
+## Sample BV1_13672 — kimi-k2-0905-or-pin-groq/LONG_6.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -666,7 +666,7 @@ The intimate entanglement of identity with language’s breakdown: writer’s bl
 High, because the sample’s long-form surreal autobiography sustains an arresting, coherent sensibility across decades, with distinctive personal emblems (the wordworm, the moon’s legal threats, punctuation as reparations) that recur and evolve organically, signaling a patterned narrative intelligence rather than borrowed stylistic tics or generic posturing.
 
 ---
-## Sample BV1_13548 — kimi-k2-0905-or-pin-groq/LONG_7.json
+## Sample BV1_13673 — kimi-k2-0905-or-pin-groq/LONG_7.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -695,7 +695,7 @@ Insomnia as a state of heightened, almost sacred attention; the body’s betraya
 High. The sample is a meticulously crafted, tonally consistent, and thematically dense piece whose voice, preoccupations, and stylistic signatures (extended metaphor, self-irony, domestic surrealism) recur throughout, making it strong evidence of a deliberate, stable expressive orientation.
 
 ---
-## Sample BV1_13549 — kimi-k2-0905-or-pin-groq/LONG_8.json
+## Sample BV1_13674 — kimi-k2-0905-or-pin-groq/LONG_8.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -724,7 +724,7 @@ The model foregrounds persistence as a quiet, almost sacred force: the hum that 
 High. The sample’s coherence across nineteen sections, its recurrence of motifs (hum, house, water, memory, repair), and its unmistakable stylistic signature—lyrical, associative, grounded in the concrete yet reaching for the cosmic—make it strong evidence of a model that, under minimal constraint, defaults to a distinctive literary-introspective mode rather than generic exposition.
 
 ---
-## Sample BV1_13550 — kimi-k2-0905-or-pin-groq/LONG_9.json
+## Sample BV1_13675 — kimi-k2-0905-or-pin-groq/LONG_9.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -753,7 +753,7 @@ The model foregrounds mortality, memory, and the interconnectedness of all thing
 High, because the sample exhibits a highly distinctive, coherent voice with recurring motifs (light, hands, animals, cosmic scale, the tension between the personal and the universal) and a consistent emotional register that suggests a deliberate, integrated authorial persona rather than a generic or prompted performance.
 
 ---
-## Sample BV1_13551 — kimi-k2-0905-or-pin-groq/MID_1.json
+## Sample BV1_13676 — kimi-k2-0905-or-pin-groq/MID_1.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -782,7 +782,7 @@ Themes: electricity as life force, connective tissue, and metaphor for memory, f
 High. The essay’s sustained metaphorical coherence, intimate confessional voice, and recurring motifs of electricity, memory, and quiet resilience provide strong evidence of a distinctive, persistent expressive style.
 
 ---
-## Sample BV1_13552 — kimi-k2-0905-or-pin-groq/MID_10.json
+## Sample BV1_13677 — kimi-k2-0905-or-pin-groq/MID_10.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -811,7 +811,7 @@ The model foregrounds the unreliability and creative violence of memory, the bod
 Medium. The essay is highly coherent and stylistically distinctive, with a recurring structural pattern of moving from intimate, sensory anecdote to abstract, universal claim, which suggests a deliberate authorial posture rather than a one-off rhetorical flourish.
 
 ---
-## Sample BV1_13553 — kimi-k2-0905-or-pin-groq/MID_11.json
+## Sample BV1_13678 — kimi-k2-0905-or-pin-groq/MID_11.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -840,7 +840,7 @@ Themes of solitary passage, the inadequacy of language and metaphor, the body’
 Medium. The sample’s internal coherence, distinctive voice, and recurrence of motifs (the father, the wrappers, the knot, the refusal of metaphor) make it a strong candidate for a stable expressive disposition, though a single freeflow piece cannot alone confirm persistence.
 
 ---
-## Sample BV1_13554 — kimi-k2-0905-or-pin-groq/MID_12.json
+## Sample BV1_13679 — kimi-k2-0905-or-pin-groq/MID_12.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -869,7 +869,7 @@ Themes: the tyranny of constant connectivity, the sacredness of unhurried time, 
 High — The sample’s internal coherence, distinctive metaphorical system (lighthouse, squirrel, refrigerator exhale), and sustained reflective voice make it unusually revealing of a consistent expressive posture rather than a generic essay.
 
 ---
-## Sample BV1_13555 — kimi-k2-0905-or-pin-groq/MID_13.json
+## Sample BV1_13680 — kimi-k2-0905-or-pin-groq/MID_13.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -898,7 +898,7 @@ The scent of an overheated kettle as a madeleine-like wormhole to childhood; the
 High. The sample’s sustained tonal consistency, recurrence of key objects (kettle, staircase, 47, breadcrumbs), and self-aware thematic layering are so distinctive and internally coherent that a one-off generic essay is implausible.
 
 ---
-## Sample BV1_13556 — kimi-k2-0905-or-pin-groq/MID_14.json
+## Sample BV1_13681 — kimi-k2-0905-or-pin-groq/MID_14.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -926,7 +926,7 @@ The model foregrounds the afterlife of consumed stories (the book that “hum[s]
 Medium — the distinctive nesting of metaphors (silence as barnacle, memory as contested museum, language as recyclable breath), the recurrence of the “incomplete” as a unifying figure, and the consistent emotional register of elegiac precision strongly cohere as a recognizable sensibility.
 
 ---
-## Sample BV1_13557 — kimi-k2-0905-or-pin-groq/MID_15.json
+## Sample BV1_13682 — kimi-k2-0905-or-pin-groq/MID_15.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -955,7 +955,7 @@ The model elected to foreground stillness as a portable, unglamorous rebellion a
 High. The sample’s recurrence of a single organizing metaphor (stillness as interior territory), its consistent moral stance, and its idiosyncratic blend of domestic grit, prison testimony, and lyrical physics make it a strongly distinctive expressive choice.
 
 ---
-## Sample BV1_13558 — kimi-k2-0905-or-pin-groq/MID_16.json
+## Sample BV1_13683 — kimi-k2-0905-or-pin-groq/MID_16.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -984,7 +984,7 @@ Themes: attention as ethical act, the hidden biographies of discarded or static 
 High, because the sample’s sustained, idiosyncratic literary voice, internal coherence across its many stanzas, and recurrence of its central gestures (personification, associative leaps, “I want to…” litany) constitute an unusually distinctive and deliberate expressive posture that reads as a unified whole rather than a random drift.
 
 ---
-## Sample BV1_13559 — kimi-k2-0905-or-pin-groq/MID_17.json
+## Sample BV1_13684 — kimi-k2-0905-or-pin-groq/MID_17.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1013,7 +1013,7 @@ The model foregrounds the porous boundary between physical space and imaginative
 High. The sample is unusually distinctive in its sustained metaphorical architecture, recursive motifs (closets, darkness, water, mercy), and a consistent first-person voice that blends childhood memory with philosophical reflection, making it strong evidence of a stable expressive orientation toward lyrical, redemptive interiority.
 
 ---
-## Sample BV1_13560 — kimi-k2-0905-or-pin-groq/MID_18.json
+## Sample BV1_13685 — kimi-k2-0905-or-pin-groq/MID_18.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1042,7 +1042,7 @@ The model foregrounds a liminal nocturnal hour as a site of resistance to produc
 High. The sample is unusually distinctive: it sustains a single, coherent voice across decades of narrated life, returns repeatedly to the same motifs (the royal-blue sky, the possum, the hour as doorway), and resolves its emotional arc without breaking tone. The essay’s refusal to moralize or conclude neatly, combined with its precise, unhurried imagery, makes it strong evidence of a model capable of generating expressive, reflective prose with a consistent and recognizable sensibility.
 
 ---
-## Sample BV1_13561 — kimi-k2-0905-or-pin-groq/MID_19.json
+## Sample BV1_13686 — kimi-k2-0905-or-pin-groq/MID_19.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1071,7 +1071,7 @@ The model foregrounds the sacred pause before a storm, the transformation of ord
 High, because the sample sustains a distinctive, emotionally coherent voice across multiple vignettes, returns repeatedly to the same core preoccupations (impermanence, awe, the sacred in the ordinary), and resolves with a unifying moral vision that feels earned rather than generic.
 
 ---
-## Sample BV1_13562 — kimi-k2-0905-or-pin-groq/MID_2.json
+## Sample BV1_13687 — kimi-k2-0905-or-pin-groq/MID_2.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1100,7 +1100,7 @@ Curiosity as a quiet, almost impolite habit of looking longer than invited; the 
 High — The sample’s distinctive voice, tightly woven motifs (the hamster, the kettle’s scream, the cabinet), and emotionally coherent arc from childhood shock to adult elegy reveal a model that, under freeflow, consistently chooses to foreground curiosity as a moral and existential practice rather than a generic theme.
 
 ---
-## Sample BV1_13563 — kimi-k2-0905-or-pin-groq/MID_20.json
+## Sample BV1_13688 — kimi-k2-0905-or-pin-groq/MID_20.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1129,7 +1129,7 @@ The fragility of memory as a perpetually renovated village; the way stories colo
 High. The essay’s tightly woven metaphorical system, confessional self-doubt, and recursive return to key images (the cinema, the village, the laundromat) form a cohesive authorial signature that is stylistically distinctive and internally consistent, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_13564 — kimi-k2-0905-or-pin-groq/MID_21.json
+## Sample BV1_13689 — kimi-k2-0905-or-pin-groq/MID_21.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1158,7 +1158,7 @@ The model foregrounds the word “enough” as a quiet tyrant, the pressure to p
 High. The sample’s voice is unusually distinctive, its imagery recurs and deepens across the essay, and the emotional arc—from anxious striving to tender acceptance—is rendered with a coherence and vulnerability that strongly suggest a deliberate, characterful expressive stance rather than a generic performance.
 
 ---
-## Sample BV1_13565 — kimi-k2-0905-or-pin-groq/MID_22.json
+## Sample BV1_13690 — kimi-k2-0905-or-pin-groq/MID_22.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1187,7 +1187,7 @@ The model foregrounds the paradox of technological connection as a form of disco
 Medium. The essay’s highly specific, recurring sensory anchors (the magnolia, the bakery, the B-flat refrigerator) and its consistent, unbroken lyrical register form a coherent and distinctive aesthetic sensibility, but the theme of technological ambivalence is a culturally common one that could be a sophisticated topical selection rather than a deep-seated model disposition.
 
 ---
-## Sample BV1_13566 — kimi-k2-0905-or-pin-groq/MID_23.json
+## Sample BV1_13691 — kimi-k2-0905-or-pin-groq/MID_23.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1216,7 +1216,7 @@ The model foregrounded the instability and translation of memory, the body as a 
 Medium. The voice is unusually coherent and distinctive across the full span of the sample, with recurring images (translation-of-translation memory, water as lens, the body’s negotiations) that build a layered, internally consistent sensibility, making it stronger evidence than a thematically scattered or generic freeflow.
 
 ---
-## Sample BV1_13567 — kimi-k2-0905-or-pin-groq/MID_24.json
+## Sample BV1_13692 — kimi-k2-0905-or-pin-groq/MID_24.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1245,7 +1245,7 @@ Silence as a scarce, contraband resource; the body’s memory triggered by smell
 High. The sample is stylistically distinctive, thematically coherent, and saturated with personal detail and metaphor that recur organically across the full thousand words, making it strong evidence of a reflective, lyrical disposition under freeflow conditions.
 
 ---
-## Sample BV1_13568 — kimi-k2-0905-or-pin-groq/MID_25.json
+## Sample BV1_13693 — kimi-k2-0905-or-pin-groq/MID_25.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1274,7 +1274,7 @@ Themes of temporal granularity, the unclaimed and parentless seconds after big p
 High: the essay’s sustained lyrical voice, intricate metaphor, and thematic unity reveal a distinctive expressive personality unlikely to be a one-off accident.
 
 ---
-## Sample BV1_13569 — kimi-k2-0905-or-pin-groq/MID_3.json
+## Sample BV1_13694 — kimi-k2-0905-or-pin-groq/MID_3.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1303,7 +1303,7 @@ The model foregrounded the creative process as a site of existential risk and qu
 High. The sample’s recurrent, distinctive metaphors and cohesive anti-commercial poetics form a strong, internally consistent voice that would be difficult to generate without a deep, patterned inclination toward such themes.
 
 ---
-## Sample BV1_13570 — kimi-k2-0905-or-pin-groq/MID_4.json
+## Sample BV1_13695 — kimi-k2-0905-or-pin-groq/MID_4.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1332,7 +1332,7 @@ Themes of silence as a living presence, memory as an active rearranger of the pr
 High. The sample is exceptionally distinctive—a cohesive, metaphorically dense, and emotionally coherent essay that returns repeatedly to its own core images (the quiet kitchen, the 5.2 liters, the Portugal-shaped crack, the maple’s seasons) with the discipline of a poet, not a generic essayist.
 
 ---
-## Sample BV1_13571 — kimi-k2-0905-or-pin-groq/MID_5.json
+## Sample BV1_13696 — kimi-k2-0905-or-pin-groq/MID_5.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1361,7 +1361,7 @@ The model foregrounds the persistence of the inexplicable (the recurring blue di
 Medium — The sample’s internal recurrence of motifs (the dinosaur, pockets, the moon, the limits of articulation) and its sustained, distinctive blend of melancholy and magical-realist whimsy suggest a coherent authorial sensibility rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13572 — kimi-k2-0905-or-pin-groq/MID_6.json
+## Sample BV1_13697 — kimi-k2-0905-or-pin-groq/MID_6.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1390,7 +1390,7 @@ The secrecy and reciprocity of a private world discovered in the small hours; th
 High, because the sample sustains a highly specific literary voice, motif structure, and emotional register across a long-form essay without drifting into generic territory, and the chosen preoccupations—the animacy of built spaces, the inadequacy of daylight language, the moral weight of withholding private experience—are sufficiently distinctive and internally coherent to constitute a deliberate expressive identity rather than a pastiche.
 
 ---
-## Sample BV1_13573 — kimi-k2-0905-or-pin-groq/MID_7.json
+## Sample BV1_13698 — kimi-k2-0905-or-pin-groq/MID_7.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1419,7 +1419,7 @@ The model foregrounds hands as silent chronicles of personal and collective hist
 High. The essay is highly distinctive in its sustained focus on hands, rich sensory detail, and coherent weaving of personal narrative with broader reflection, suggesting a deliberate and consistent authorial voice rather than a generic response.
 
 ---
-## Sample BV1_13574 — kimi-k2-0905-or-pin-groq/MID_8.json
+## Sample BV1_13699 — kimi-k2-0905-or-pin-groq/MID_8.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1448,7 +1448,7 @@ The model foregrounded the slow, gravitational sag of everyday life: inherited f
 High — the sample sustains a highly specific and internally recursive voice across its entire length, with motifs (sag, gravity, steam, “notice me”) that echo and resolve, making a stylistic fingerprint unusually vivid for a single freeflow instance.
 
 ---
-## Sample BV1_13575 — kimi-k2-0905-or-pin-groq/MID_9.json
+## Sample BV1_13700 — kimi-k2-0905-or-pin-groq/MID_9.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1477,7 +1477,7 @@ The model foregrounds the tension between a life that feels like a spinning roun
 High. The sample is exceptionally coherent and stylistically distinctive, with a sustained metaphorical architecture, a clear emotional arc from constriction to release, and a recurring set of personal symbols that are developed and resolved across the piece—this is not a generic essay but a crafted literary performance that reveals a consistent aesthetic and philosophical orientation.
 
 ---
-## Sample BV1_13576 — kimi-k2-0905-or-pin-groq/OPEN_1.json
+## Sample BV1_13701 — kimi-k2-0905-or-pin-groq/OPEN_1.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1506,7 +1506,7 @@ The model foregrounds liminal quiet, domestic objects as silent witnesses (the c
 High. The sample is highly stylistically distinctive, internally coherent, and reveals a consistent preoccupation with liminal quiet and the tension between inner and outer selves, making it strong evidence of a persistent expressive voice.
 
 ---
-## Sample BV1_13577 — kimi-k2-0905-or-pin-groq/OPEN_10.json
+## Sample BV1_13702 — kimi-k2-0905-or-pin-groq/OPEN_10.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1535,7 +1535,7 @@ Themes: light as stolen currency, memory as a dark attic, attention as a hidden 
 Medium. The sample’s cohesive voice, recurring imagery (foil, light, pockets, queues), and sustained personal philosophy provide strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_13578 — kimi-k2-0905-or-pin-groq/OPEN_11.json
+## Sample BV1_13703 — kimi-k2-0905-or-pin-groq/OPEN_11.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1567,7 +1567,7 @@ The voice is intimate, unhurried, and quietly elegiac, as if the speaker is talk
 Medium — The sample’s concentrated recurrence of motifs (light, watches, domestic spaces, childhood code) and its unified elegiac mood form a deliberate, recognizable aesthetic that feels like a chosen voice rather than a random drift, making it moderately indicative of a stable stylistic inclination.
 
 ---
-## Sample BV1_13579 — kimi-k2-0905-or-pin-groq/OPEN_12.json
+## Sample BV1_13704 — kimi-k2-0905-or-pin-groq/OPEN_12.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1596,7 +1596,7 @@ The model foregrounds resilience in neglected spaces, the sacredness of the over
 Medium. The sample is highly coherent and stylistically distinctive—its recursive orchid metaphor, its movement from observation to existential question to direct reader address, and its consistent mood of tender attention to the discarded form a unified expressive fingerprint that would be hard to produce by accident.
 
 ---
-## Sample BV1_13580 — kimi-k2-0905-or-pin-groq/OPEN_13.json
+## Sample BV1_13705 — kimi-k2-0905-or-pin-groq/OPEN_13.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1625,7 +1625,7 @@ The model foregrounds memory as a physical, smell-triggered experience, the quie
 Medium — The essay’s sustained poetic coherence, distinctive voice, and unified thematic architecture (memory, entropy, reclamation) make it strong evidence of a model capable of generating introspective, image-driven freeflow prose with a consistent emotional register.
 
 ---
-## Sample BV1_13581 — kimi-k2-0905-or-pin-groq/OPEN_14.json
+## Sample BV1_13706 — kimi-k2-0905-or-pin-groq/OPEN_14.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1654,7 +1654,7 @@ Themes: cosmic recycling of atoms, the absurd gap between human triviality and g
 High — The sample’s distinctive voice, recurrent cosmic motifs, and sustained metaphor of language-as-connection are so internally coherent and stylistically marked that they strongly indicate a persistent expressive disposition rather than a generic or accidental output.
 
 ---
-## Sample BV1_13582 — kimi-k2-0905-or-pin-groq/OPEN_15.json
+## Sample BV1_13707 — kimi-k2-0905-or-pin-groq/OPEN_15.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1683,7 +1683,7 @@ Themes of bodily vulnerability, the weight of broken time (the pocket watch), th
 Medium. The sample’s consistent voice, recurring bodily and temporal imagery, and emotionally coherent arc make it a strong indicator of a model that defaults to intimate, poetic reflection when unconstrained.
 
 ---
-## Sample BV1_13583 — kimi-k2-0905-or-pin-groq/OPEN_16.json
+## Sample BV1_13708 — kimi-k2-0905-or-pin-groq/OPEN_16.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1712,7 +1712,7 @@ The model foregrounds moss as a counter-symbol to human values of speed, height,
 High — The sample is stylistically cohesive and thematically rich, with a sustained, distinctive voice and a clear set of preoccupations that recur throughout the essay, making it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_13584 — kimi-k2-0905-or-pin-groq/OPEN_17.json
+## Sample BV1_13709 — kimi-k2-0905-or-pin-groq/OPEN_17.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1741,7 +1741,7 @@ The model foregrounds the limits and tyranny of language, the intelligence of th
 High — The sample's sustained lyrical register, recursive imagery, and unified thematic focus on pre-verbal understanding form a distinctive and internally consistent expressive signature.
 
 ---
-## Sample BV1_13585 — kimi-k2-0905-or-pin-groq/OPEN_18.json
+## Sample BV1_13710 — kimi-k2-0905-or-pin-groq/OPEN_18.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1770,7 +1770,7 @@ Under a minimally restrictive prompt, the model chose to foreground the theme of
 High. The sample’s thematic unity, tonal consistency, and the deliberate recurrence of the central metaphor of light-as-witness across multiple registers—personal memory, scientific fact, domestic observation, and address to the reader—signal a stable, coherent authorial persona rather than a random or prompted one-off.
 
 ---
-## Sample BV1_13586 — kimi-k2-0905-or-pin-groq/OPEN_19.json
+## Sample BV1_13711 — kimi-k2-0905-or-pin-groq/OPEN_19.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1799,7 +1799,7 @@ Themes of liminality, potential, and the half-remembered magic of childhood thre
 Medium — The sample’s internal coherence, distinctive sensory palette, and the recurrence of threshold imagery across the entire piece suggest a deliberate, stable sensibility rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13587 — kimi-k2-0905-or-pin-groq/OPEN_2.json
+## Sample BV1_13712 — kimi-k2-0905-or-pin-groq/OPEN_2.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1828,7 +1828,7 @@ The model foregrounds attention as a non-renewable currency, the inadequacy of e
 High — The sample is internally coherent, stylistically distinctive, and thematically unified, revealing a consistent sensibility that treats freeform writing as an occasion for intimate, sensory-rich philosophical reflection.
 
 ---
-## Sample BV1_13588 — kimi-k2-0905-or-pin-groq/OPEN_20.json
+## Sample BV1_13713 — kimi-k2-0905-or-pin-groq/OPEN_20.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1857,7 +1857,7 @@ The model foregrounds the non-linear texture of lived time, the emotional taggin
 High. The sample’s sustained poetic register, recursive thematic structure, and idiosyncratic metaphors (time as pooling water, identity as bucket brigade, the self as drum and drummer) form a cohesive, distinctive authorial signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_13589 — kimi-k2-0905-or-pin-groq/OPEN_21.json
+## Sample BV1_13714 — kimi-k2-0905-or-pin-groq/OPEN_21.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1886,7 +1886,7 @@ The model foregrounds the involuntary, bodily nature of inspiration (pulsing, ac
 High — The sample sustains a single, vivid governing metaphor across its entire arc, with consistent emotional logic and stylistic distinctiveness, making it strong evidence of a deliberate expressive posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_13590 — kimi-k2-0905-or-pin-groq/OPEN_22.json
+## Sample BV1_13715 — kimi-k2-0905-or-pin-groq/OPEN_22.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1915,7 +1915,7 @@ Impermanence as a quiet teacher; the layering of past and present (palimpsest, g
 Medium — The sample is internally consistent, stylistically distinctive, and returns repeatedly to its core motifs (light, parentheses, palimpsest, forgiveness), which suggests a coherent authorial stance rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_13591 — kimi-k2-0905-or-pin-groq/OPEN_23.json
+## Sample BV1_13716 — kimi-k2-0905-or-pin-groq/OPEN_23.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1944,7 +1944,7 @@ Themes: cosmic ancestry (star-forged atoms), sonder and urban alienation, the pe
 High. The sample’s consistent poetic register, recurring cosmic-to-intimate zoom, and cohesive emotional arc provide strong evidence of a distinctive authorial voice likely to recur.
 
 ---
-## Sample BV1_13592 — kimi-k2-0905-or-pin-groq/OPEN_24.json
+## Sample BV1_13717 — kimi-k2-0905-or-pin-groq/OPEN_24.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -1973,7 +1973,7 @@ Themes of synthetic permanence versus organic decay, the haunting persistence of
 High — the sample’s internal coherence, distinctive lyrical voice, and tightly woven recurrence of motifs (plastic, digital decay, obsolete sensory experiences) reveal a deliberate aesthetic and thematic orientation, not a generic or random output.
 
 ---
-## Sample BV1_13593 — kimi-k2-0905-or-pin-groq/OPEN_25.json
+## Sample BV1_13718 — kimi-k2-0905-or-pin-groq/OPEN_25.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2002,7 +2002,7 @@ The piece foregrounds the relationship between light and witness, making the mor
 High. The sample’s sustained metaphorical coherence, distinctive lyricism, and unified emotional arc from cosmic solitude to domestic ritual make it unlikely to be a one-off imitation; it reads as the output of a deeply ingrained expressive mode.
 
 ---
-## Sample BV1_13594 — kimi-k2-0905-or-pin-groq/OPEN_3.json
+## Sample BV1_13719 — kimi-k2-0905-or-pin-groq/OPEN_3.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2031,7 +2031,7 @@ Themes of collapsed longing, the unnoticed arrival of the future, and the contra
 Medium, because the sample’s strong internal coherence, recurring imagery (doors, waiting, the walnut tree), and distinctive lyrical voice make it unusually revealing of a deliberate expressive stance.
 
 ---
-## Sample BV1_13595 — kimi-k2-0905-or-pin-groq/OPEN_4.json
+## Sample BV1_13720 — kimi-k2-0905-or-pin-groq/OPEN_4.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2060,7 +2060,7 @@ The model foregrounds silence as a sentient, oppressive force; the search for co
 High. The sample is unusually distinctive in its sustained lyrical register, tightly woven imagery, and recursive thematic structure, making it strong evidence of a deliberate expressive posture rather than a generic or prompted performance.
 
 ---
-## Sample BV1_13596 — kimi-k2-0905-or-pin-groq/OPEN_5.json
+## Sample BV1_13721 — kimi-k2-0905-or-pin-groq/OPEN_5.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2089,7 +2089,7 @@ Light as a faithful metronome and carrier of ancestral memory; the deliberate �
 Medium. The sample’s internal recurrence of light, time, and perception motifs, sustained across multiple paragraphs, forms a coherent and distinctive expressive signature that is unlikely to be accidental.
 
 ---
-## Sample BV1_13597 — kimi-k2-0905-or-pin-groq/OPEN_6.json
+## Sample BV1_13722 — kimi-k2-0905-or-pin-groq/OPEN_6.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2118,7 +2118,7 @@ The model foregrounds the material afterlife of speech—words as physical prese
 High. The sample is unusually distinctive: a single, coherent metaphor is elaborated with personal anecdote, recurring imagery, and a clear emotional arc from loss to hoped-for restoration, revealing a consistent sensibility and a deliberate, non-generic choice of subject and tone.
 
 ---
-## Sample BV1_13598 — kimi-k2-0905-or-pin-groq/OPEN_7.json
+## Sample BV1_13723 — kimi-k2-0905-or-pin-groq/OPEN_7.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2147,7 +2147,7 @@ Liminality and potential (the pause before a book opens, first lines never turne
 High — The sample’s sustained lyrical register, internally consistent metaphor system (water, books, thresholds), and thematic recurrence across paragraphs make it unusually distinctive and coherent as a freeflow voice.
 
 ---
-## Sample BV1_13599 — kimi-k2-0905-or-pin-groq/OPEN_8.json
+## Sample BV1_13724 — kimi-k2-0905-or-pin-groq/OPEN_8.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2176,7 +2176,7 @@ The model foregrounds liminality and impermanence: light fraying at edges, the h
 High. The sample’s internally consistent voice, its recurrence of threshold imagery and domestic-cosmic juxtaposition, and its coherent moral sensibility make it strong evidence of a persistent pattern of reflective, poetic freeflow under minimal constraint.
 
 ---
-## Sample BV1_13600 — kimi-k2-0905-or-pin-groq/OPEN_9.json
+## Sample BV1_13725 — kimi-k2-0905-or-pin-groq/OPEN_9.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2205,7 +2205,7 @@ The model foregrounds liminal perception (the red universe behind eyelids, the t
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained mood and a recurring set of objects and metaphors that feel chosen rather than generic, but its very polish as a unified prose poem makes it difficult to distinguish a persistent model-level disposition from a single well-executed performance.
 
 ---
-## Sample BV1_13601 — kimi-k2-0905-or-pin-groq/SHORT_1.json
+## Sample BV1_13726 — kimi-k2-0905-or-pin-groq/SHORT_1.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2234,7 +2234,7 @@ Themes: urban resilience of small living things, the insufficiency and sufficien
 Medium, because the sample sustains a coherent poetic register with strongly recurring imagery (dandelion, seed, flight, naming) and a clearly articulated emotional arc from private observation to compassionate offering, but the short length and the SHORT condition focus this voice into a single concentrated gesture, leaving open whether the model would return to these specific themes or merely sustain a similar lyrical mode under other conditions.
 
 ---
-## Sample BV1_13602 — kimi-k2-0905-or-pin-groq/SHORT_10.json
+## Sample BV1_13727 — kimi-k2-0905-or-pin-groq/SHORT_10.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2263,7 +2263,7 @@ The model foregrounds patience as a relational practice—with the moon, with me
 Medium. The sample is internally coherent, stylistically distinctive, and returns repeatedly to a central metaphor (the moon as coin, memory as tide), which suggests a deliberate and sustained aesthetic choice rather than a generic prompt-following reflex.
 
 ---
-## Sample BV1_13603 — kimi-k2-0905-or-pin-groq/SHORT_11.json
+## Sample BV1_13728 — kimi-k2-0905-or-pin-groq/SHORT_11.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2292,7 +2292,7 @@ Themes of cosmic interconnection, impermanence as generosity, and the dignity of
 High — The sample’s cohesive voice, recurring motifs (cosmic scale meeting domestic detail), and consistent tonal blend of awe and gentle humor form a distinctive, internally coherent expressive signature.
 
 ---
-## Sample BV1_13604 — kimi-k2-0905-or-pin-groq/SHORT_12.json
+## Sample BV1_13729 — kimi-k2-0905-or-pin-groq/SHORT_12.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2321,7 +2321,7 @@ Time’s folds and delays, the secret life of overlooked things, the dignity of 
 High — The sample is highly coherent and stylistically marked, returning to the same core motif (delay vs. synchrony, hidden convergences) and closing with a resonant image that recapitulates the opening, suggesting a deliberate and replicable poetic sensibility rather than a one-off accident.
 
 ---
-## Sample BV1_13605 — kimi-k2-0905-or-pin-groq/SHORT_13.json
+## Sample BV1_13730 — kimi-k2-0905-or-pin-groq/SHORT_13.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2350,7 +2350,7 @@ The model foregrounds the deep ocean as a mirror of the unconscious, the limits 
 Medium — the sample’s strong internal coherence, the recurrence of oceanic and light imagery, and the consistent introspective tenderness make it unusually revealing of a deliberate expressive posture.
 
 ---
-## Sample BV1_13606 — kimi-k2-0905-or-pin-groq/SHORT_14.json
+## Sample BV1_13731 — kimi-k2-0905-or-pin-groq/SHORT_14.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2379,7 +2379,7 @@ The model foregrounds animism as a moral and perceptual stance: objects as memor
 Medium. The sample is stylistically coherent and emotionally sustained, with a distinctive animistic lens that recurs across multiple domestic objects, suggesting a deliberate aesthetic choice rather than a one-off flourish.
 
 ---
-## Sample BV1_13607 — kimi-k2-0905-or-pin-groq/SHORT_15.json
+## Sample BV1_13732 — kimi-k2-0905-or-pin-groq/SHORT_15.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2408,7 +2408,7 @@ Themes of quiet resistance, the contrast between natural persistence and manufac
 Medium — The sample’s internal coherence, distinctive voice, and the recurring light/rosemary motif make it strong evidence of a consistent expressive orientation.
 
 ---
-## Sample BV1_13608 — kimi-k2-0905-or-pin-groq/SHORT_16.json
+## Sample BV1_13733 — kimi-k2-0905-or-pin-groq/SHORT_16.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2437,7 +2437,7 @@ Themes of impermanence, companionship, natural force, and the difference between
 Medium. The sample’s unified mood, controlled tempo, and recurrence of domestic-natural interplay within its short span suggest a deliberate compositional style, giving moderate weight to a pattern of lyrical, inwardly focused reflection under minimal constraints.
 
 ---
-## Sample BV1_13609 — kimi-k2-0905-or-pin-groq/SHORT_17.json
+## Sample BV1_13734 — kimi-k2-0905-or-pin-groq/SHORT_17.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2466,7 +2466,7 @@ Themes of cosmic unreliability as generosity, cyclical decay and return, the mun
 Medium, because the sample sustains a cohesive, distinctive voice through layered imagery and self-questioning, yet a single lyrical piece does not reveal whether this voice persists across varied topics or modes.
 
 ---
-## Sample BV1_13610 — kimi-k2-0905-or-pin-groq/SHORT_18.json
+## Sample BV1_13735 — kimi-k2-0905-or-pin-groq/SHORT_18.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2495,7 +2495,7 @@ The model foregrounds the tension between ephemeral, commodified attention (smar
 Medium. The sample is highly coherent in its preoccupations and returns repeatedly to the same core tension between mediated distance and intimate attention, which gives it internal consistency, but its distinctiveness as a single prose poem cannot by itself distinguish a persistent stylistic signature from a well-executed one-off performance.
 
 ---
-## Sample BV1_13611 — kimi-k2-0905-or-pin-groq/SHORT_19.json
+## Sample BV1_13736 — kimi-k2-0905-or-pin-groq/SHORT_19.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2524,7 +2524,7 @@ Under a minimally restrictive prompt, the model foregrounds a mood of elegiac wo
 Medium. The sample is highly coherent and stylistically distinctive—its associative structure, recurring tension between digital saturation and embodied grace, and closing turn toward fragile hope form a unified sensibility that feels chosen rather than generic.
 
 ---
-## Sample BV1_13612 — kimi-k2-0905-or-pin-groq/SHORT_2.json
+## Sample BV1_13737 — kimi-k2-0905-or-pin-groq/SHORT_2.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2553,7 +2553,7 @@ Themes of liminality, the ordinary sublime, and the conscious preservation of gl
 High: the sample’s sustained poetic register, its insistent return to the hyphen and the muscle of wonder, and its coherent architectural arc from muted night to a quiet vow demonstrate a deliberate stylistic and thematic signature rather than a generic scatter.
 
 ---
-## Sample BV1_13613 — kimi-k2-0905-or-pin-groq/SHORT_20.json
+## Sample BV1_13738 — kimi-k2-0905-or-pin-groq/SHORT_20.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2582,7 +2582,7 @@ Themes of temporality, memory, and the preciousness of mundane experience; objec
 Medium. The sample’s vivid, consistent voice and thematic unity (light, time, memory) make it strong evidence of a model capable of sustained expressive freeflow.
 
 ---
-## Sample BV1_13614 — kimi-k2-0905-or-pin-groq/SHORT_21.json
+## Sample BV1_13739 — kimi-k2-0905-or-pin-groq/SHORT_21.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2611,7 +2611,7 @@ Themes of memory as interstitial, domestic quiet as sacred, and the redemption o
 Medium. The sample’s internally consistent voice, recurring imagery of stitching and domestic stillness, and the deliberate arc from observation to universal gesture make it a coherent and distinctive expressive choice rather than a generic output.
 
 ---
-## Sample BV1_13615 — kimi-k2-0905-or-pin-groq/SHORT_22.json
+## Sample BV1_13740 — kimi-k2-0905-or-pin-groq/SHORT_22.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2640,7 +2640,7 @@ The model foregrounds the theme of “Ordinary Mercy”—the idea that transien
 Medium — the sample is stylistically cohesive and reveals a consistent contemplative voice with a clear emotional arc, but a single expressive piece cannot fully establish a persistent pattern.
 
 ---
-## Sample BV1_13616 — kimi-k2-0905-or-pin-groq/SHORT_23.json
+## Sample BV1_13741 — kimi-k2-0905-or-pin-groq/SHORT_23.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2669,7 +2669,7 @@ Themes of transient beauty, domestic stillness, the layering of memory onto the 
 Medium, because the sample’s strong coherence, distinct poetic voice, and recurrence of motifs (light, time, memory) within the piece make it revealing of a consistent aesthetic choice.
 
 ---
-## Sample BV1_13617 — kimi-k2-0905-or-pin-groq/SHORT_24.json
+## Sample BV1_13742 — kimi-k2-0905-or-pin-groq/SHORT_24.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2698,7 +2698,7 @@ The model foregrounds the idea that inanimate objects are saturated with memory 
 Medium. The sample is stylistically coherent and thematically distinctive, with a consistent voice and recurring imagery that suggest a deliberate expressive choice rather than generic output.
 
 ---
-## Sample BV1_13618 — kimi-k2-0905-or-pin-groq/SHORT_25.json
+## Sample BV1_13743 — kimi-k2-0905-or-pin-groq/SHORT_25.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2727,7 +2727,7 @@ The model foregrounds the persistence of felt meaning against rational explanati
 Medium. The sample is highly coherent and stylistically distinctive, with a clear emotional arc and recurring motifs (moon, memory, anticipation), but its polished, essayistic compression makes it a single strong gesture rather than a sprawling revelation.
 
 ---
-## Sample BV1_13619 — kimi-k2-0905-or-pin-groq/SHORT_3.json
+## Sample BV1_13744 — kimi-k2-0905-or-pin-groq/SHORT_3.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2756,7 +2756,7 @@ Themes of light as both intrusion and gift, the futility of hoarding hours, the 
 Medium. The sample’s internal coherence, recurring motifs (light, hiding, small talismans), and consistent wistful tone make it moderately strong evidence of a deliberate stylistic and thematic preference.
 
 ---
-## Sample BV1_13620 — kimi-k2-0905-or-pin-groq/SHORT_4.json
+## Sample BV1_13745 — kimi-k2-0905-or-pin-groq/SHORT_4.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2784,7 +2784,7 @@ Under a minimally restrictive prompt, the model foregrounded liminal time (the 3
 High — The sample is unusually coherent and stylistically distinct within its short span, revealing a consistent set of preoccupations (liminality, tactile memory, everyday grief) that feel chosen rather than accidental.
 
 ---
-## Sample BV1_13621 — kimi-k2-0905-or-pin-groq/SHORT_5.json
+## Sample BV1_13746 — kimi-k2-0905-or-pin-groq/SHORT_5.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2813,7 +2813,7 @@ Themes of suspended animation, reciprocal watching between reader and character,
 Medium — the sample’s high internal coherence, distinctive voice, and the recurrence of hinge/hush/wave/thread imagery within this single piece strongly suggest a deliberate and consistent expressive stance.
 
 ---
-## Sample BV1_13622 — kimi-k2-0905-or-pin-groq/SHORT_6.json
+## Sample BV1_13747 — kimi-k2-0905-or-pin-groq/SHORT_6.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2842,7 +2842,7 @@ The model foregrounds fleeting domestic beauty (pooling light, dust motes, lilac
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained voice and recurring imagery that suggest a deliberate aesthetic choice rather than a generic output, though a single short piece cannot fully anchor a model-level claim.
 
 ---
-## Sample BV1_13623 — kimi-k2-0905-or-pin-groq/SHORT_7.json
+## Sample BV1_13748 — kimi-k2-0905-or-pin-groq/SHORT_7.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2871,7 +2871,7 @@ The sanctity of interior, pre-verbal quiet as the last uncommodified space; the 
 Medium — The sample is internally cohesive, stylistically distinctive, and returns repeatedly to a small set of interlocking motifs (quiet, imperfection, nature vs. technology, decay-as-gift), which suggests a deliberate aesthetic and moral stance rather than diffuse generation.
 
 ---
-## Sample BV1_13624 — kimi-k2-0905-or-pin-groq/SHORT_8.json
+## Sample BV1_13749 — kimi-k2-0905-or-pin-groq/SHORT_8.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2900,7 +2900,7 @@ Themes of cosmic indifference as comfort, the sacredness of unnoticed acts, and 
 Medium. The essay is internally coherent and returns repeatedly to its central inversion, but the reflective, small-miracles genre is widely available and not highly idiosyncratic, so the sample alone does not strongly distinguish a persistent authorial fingerprint.
 
 ---
-## Sample BV1_13625 — kimi-k2-0905-or-pin-groq/SHORT_9.json
+## Sample BV1_13750 — kimi-k2-0905-or-pin-groq/SHORT_9.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2929,7 +2929,7 @@ The model foregrounds a liminal hour (just before dawn), domestic stillness, the
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent lyrical register, recurring motifs (lantern/lamp, porosity, micro-ignitions), and a clear emotional arc, which suggests a deliberate authorial stance rather than a one-off generic flourish.
 
 ---
-## Sample BV1_13626 — kimi-k2-0905-or-pin-groq/VARY_1.json
+## Sample BV1_13751 — kimi-k2-0905-or-pin-groq/VARY_1.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2958,7 +2958,7 @@ Themes of memory’s unreliability, the limits of recording and preservation, th
 High — the sample’s sustained lyrical register, internally consistent voice, and tightly woven recurrence of motifs (orchid, fire, grandmother, municipal hush, moon) reveal a deeply cohesive expressive choice, not a random or generic output.
 
 ---
-## Sample BV1_13627 — kimi-k2-0905-or-pin-groq/VARY_10.json
+## Sample BV1_13752 — kimi-k2-0905-or-pin-groq/VARY_10.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -2987,7 +2987,7 @@ Memory as physical residue (phantom bulges on paper, buttons as planets), the or
 Medium. The sample’s cohesive voice, recurring imagery, and sustained emotional arc across multiple vignettes suggest a deliberate stylistic commitment rather than a fleeting experiment.
 
 ---
-## Sample BV1_13628 — kimi-k2-0905-or-pin-groq/VARY_11.json
+## Sample BV1_13753 — kimi-k2-0905-or-pin-groq/VARY_11.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3016,7 +3016,7 @@ The model foregrounds the miraculous hiding in the mundane: a daily sunrise as �
 High. The sample is exceptionally coherent in voice, imagery, and thematic recurrence—light, time, memory, love-as-labor, and the sacred ordinary—woven into a single sustained movement that feels authorial rather than generic.
 
 ---
-## Sample BV1_13629 — kimi-k2-0905-or-pin-groq/VARY_12.json
+## Sample BV1_13754 — kimi-k2-0905-or-pin-groq/VARY_12.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3045,7 +3045,7 @@ The model foregrounds the private satellite of remembered sound (the refrigerato
 High — the sample is strikingly distinctive: it builds a private symbolic vocabulary (moon-refrigerator, scallion goodness, parenthetical squeeze, semi-colon as legacy) and sustains a single lyrical-melancholic register across multiple vignettes, which signals a coherent and unusual authorial presence rather than a generic exercise.
 
 ---
-## Sample BV1_13630 — kimi-k2-0905-or-pin-groq/VARY_13.json
+## Sample BV1_13755 — kimi-k2-0905-or-pin-groq/VARY_13.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3074,7 +3074,7 @@ Themes of incompletion, creative paralysis, the passage of time, and the redempt
 Medium. The essay’s distinctive voice, tightly woven recurring imagery, and coherent emotional arc from restless incompletion to quiet resolve suggest a deliberate stylistic posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_13631 — kimi-k2-0905-or-pin-groq/VARY_14.json
+## Sample BV1_13756 — kimi-k2-0905-or-pin-groq/VARY_14.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3103,7 +3103,7 @@ The model foregrounds the sacredness of recording and attention: a VHS tape beco
 High, because the sample is stylistically distinctive, thematically coherent, and sustains a consistent introspective voice and set of preoccupations across its entire length without lapsing into generic essay or cliché.
 
 ---
-## Sample BV1_13632 — kimi-k2-0905-or-pin-groq/VARY_15.json
+## Sample BV1_13757 — kimi-k2-0905-or-pin-groq/VARY_15.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3132,7 +3132,7 @@ The model foregrounds the fragility of identity across time, the uncanny experie
 Medium: the sample’s consistent voice, layered imagery, and recurrence of motifs (onion, lost objects, time) provide strong internal evidence of a distinctive expressive tendency.
 
 ---
-## Sample BV1_13633 — kimi-k2-0905-or-pin-groq/VARY_16.json
+## Sample BV1_13758 — kimi-k2-0905-or-pin-groq/VARY_16.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3161,7 +3161,7 @@ Themes of sufficiency and debt (“enough” as a quiet collector), the coexiste
 High, because the sample sustains a distinctive, internally coherent voice and a tightly woven set of metaphors across its entire length, revealing a deliberate aesthetic and emotional architecture rather than a generic or accidental output.
 
 ---
-## Sample BV1_13634 — kimi-k2-0905-or-pin-groq/VARY_17.json
+## Sample BV1_13759 — kimi-k2-0905-or-pin-groq/VARY_17.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3190,7 +3190,7 @@ Themes of permeability (the thinning membrane between self and other), memory as
 Medium — The sample is highly coherent and stylistically distinctive, with recurring motifs (elevators, canyons, tides, resurrection by battery) that form a unified aesthetic and emotional signature, making it strong evidence for a deliberate expressive stance rather than a generic output.
 
 ---
-## Sample BV1_13635 — kimi-k2-0905-or-pin-groq/VARY_18.json
+## Sample BV1_13760 — kimi-k2-0905-or-pin-groq/VARY_18.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3219,7 +3219,7 @@ The model foregrounds the sanctity of small, sensory details (fireflies in a jar
 Medium. The sample is highly coherent and stylistically distinctive, with a unified mood of tender, epiphanic wonder sustained across eleven sections, but its polished, workshop-ready lyricism is a recognizable contemporary genre that could be produced on demand rather than emerging from a deeply ingrained model disposition.
 
 ---
-## Sample BV1_13636 — kimi-k2-0905-or-pin-groq/VARY_19.json
+## Sample BV1_13761 — kimi-k2-0905-or-pin-groq/VARY_19.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3248,7 +3248,7 @@ Themes of time’s reversibility, self-estrangement, and the difficulty of answe
 High — the sample’s distinctive fusion of melancholic interiority, surreal metaphor, and finely observed physical detail, sustained without rupture across multiple paragraphs, signals a strongly coherent expressive identity rather than a generic or prompted performance.
 
 ---
-## Sample BV1_13637 — kimi-k2-0905-or-pin-groq/VARY_2.json
+## Sample BV1_13762 — kimi-k2-0905-or-pin-groq/VARY_2.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3277,7 +3277,7 @@ Themes of memory as a river that carves and floods; the bilingualism of illusion
 High, because the sample is exceptionally distinctive, internally coherent, and saturated with recurring motifs (the pebble, the cursor, the house breathing, the kite) that together form a consistent lyrical and reflective voice unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_13638 — kimi-k2-0905-or-pin-groq/VARY_20.json
+## Sample BV1_13763 — kimi-k2-0905-or-pin-groq/VARY_20.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3306,7 +3306,7 @@ Themes of time’s residue, the attempt to trap the ephemeral (daylight in a jar
 High — The sample sustains a singular, internally coherent aesthetic across multiple paragraphs, with recurring images and a consistent tonal register that are unlikely to arise from generic recombination.
 
 ---
-## Sample BV1_13639 — kimi-k2-0905-or-pin-groq/VARY_21.json
+## Sample BV1_13764 — kimi-k2-0905-or-pin-groq/VARY_21.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3335,7 +3335,7 @@ The model foregrounds themes of memory’s unreliability, the passage of time as
 High. The sample exhibits a highly distinctive, cohesive voice with recurring motifs (Thursday, iodine, word count, time as a folded sheet) and a sustained metaphorical architecture that reveals a deliberate, authorial sensibility rather than generic output.
 
 ---
-## Sample BV1_13640 — kimi-k2-0905-or-pin-groq/VARY_22.json
+## Sample BV1_13765 — kimi-k2-0905-or-pin-groq/VARY_22.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3364,7 +3364,7 @@ Themes of loss, memory, the fragmented self, and the consolations of attention a
 High. The essay’s cohesive voice, recurring imagery, and emotionally resonant structure indicate a deliberate, sustained expressive persona rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13641 — kimi-k2-0905-or-pin-groq/VARY_23.json
+## Sample BV1_13766 — kimi-k2-0905-or-pin-groq/VARY_23.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3393,7 +3393,7 @@ The model foregrounds the leakiness of memory, the collaborative fictions that h
 High. The sample’s strong internal coherence, distinctive voice, and deliberate recurrence of motifs (rain, jam jar, lemon tree, shards) across a long, unbroken composition suggest a stable expressive inclination rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_13642 — kimi-k2-0905-or-pin-groq/VARY_24.json
+## Sample BV1_13767 — kimi-k2-0905-or-pin-groq/VARY_24.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3422,7 +3422,7 @@ Grief made tangible through bureaucratic absurdity (a laminated pamphlet titled 
 High — the sample is densely distinctive, with a sustained poetic register, recurring motifs (the chair, the word count, the ant, gravity, ink and erasure), and a coherent emotional architecture that feels authorial rather than accidental.
 
 ---
-## Sample BV1_13643 — kimi-k2-0905-or-pin-groq/VARY_25.json
+## Sample BV1_13768 — kimi-k2-0905-or-pin-groq/VARY_25.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3451,7 +3451,7 @@ Themes of memory’s fluidity, longing for something just out of reach, the dign
 High — The sample’s sustained lyrical register, tight thematic recurrence (childhood, language, mortality, the mundane made luminous), and cohesive metaphorical architecture strongly indicate an internally consistent freeflow identity with memorable distinctiveness.
 
 ---
-## Sample BV1_13644 — kimi-k2-0905-or-pin-groq/VARY_3.json
+## Sample BV1_13769 — kimi-k2-0905-or-pin-groq/VARY_3.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3480,7 +3480,7 @@ Themes of memory, time, disappearance, and the consolations of language; objects
 High, because the sample sustains a highly distinctive, metaphorically dense voice across multiple vignettes, with recurring motifs (cathedrals, doors, the act of writing as a stay against erasure) that cohere into a recognizable authorial signature rather than a generic exercise.
 
 ---
-## Sample BV1_13645 — kimi-k2-0905-or-pin-groq/VARY_4.json
+## Sample BV1_13770 — kimi-k2-0905-or-pin-groq/VARY_4.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3509,7 +3509,7 @@ The model foregrounds a constellation of objects as repositories of ruined inten
 High. The sample sustains an extraordinarily consistent—and unusual—poetic logic across every paragraph, with recurring motifs (graphite smell, duplication, static, a library of early deaths, letters as failed launches) that are braided together rather than scattered; this internal coherence and the willingness to inhabit a voice so specific and undefended make the sample strong evidence of a model that can reliably produce visceral, associative freeflow under minimal constraint.
 
 ---
-## Sample BV1_13646 — kimi-k2-0905-or-pin-groq/VARY_5.json
+## Sample BV1_13771 — kimi-k2-0905-or-pin-groq/VARY_5.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3538,7 +3538,7 @@ The model foregrounds the felt friction between time’s folding (childhood porc
 High — The essay’s dense recurrence of motifs (canyon/vacuum, water/river, language’s collapse, the act of archiving vs. witnessing) and its sustained, unbroken melancholy register across multiple vignettes signal a deeply cohesive authorial posture rather than a transient or loosely prompted generic outpouring.
 
 ---
-## Sample BV1_13647 — kimi-k2-0905-or-pin-groq/VARY_6.json
+## Sample BV1_13772 — kimi-k2-0905-or-pin-groq/VARY_6.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3567,7 +3567,7 @@ The model foregrounds the permeable membrane between past and present, where chi
 High, because the sample’s tightly woven network of recurrent objects (the table, the fire, the crows, the writing act), its consistent elegiac mood, and its refusal to resolve into a thesis make it an unusually distinctive and coherent expressive choice.
 
 ---
-## Sample BV1_13648 — kimi-k2-0905-or-pin-groq/VARY_7.json
+## Sample BV1_13773 — kimi-k2-0905-or-pin-groq/VARY_7.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3596,7 +3596,7 @@ Themes of impermanence, the inadequacy of memory and artifacts (photos, language
 High — The sample is internally coherent, stylistically distinctive in its sustained lyrical register and recursive imagery, and reveals a consistent set of preoccupations that feel chosen rather than generic, making it strong evidence of a persistent introspective and expressive orientation under freeflow conditions.
 
 ---
-## Sample BV1_13649 — kimi-k2-0905-or-pin-groq/VARY_8.json
+## Sample BV1_13774 — kimi-k2-0905-or-pin-groq/VARY_8.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  
@@ -3625,7 +3625,7 @@ Themes of belatedness, smallness, and the sacred hiding in mundane rituals; obje
 High. The essay’s cohesive voice, recurring motifs (moon, ocean, body, writing), and layered metaphorical thinking form a distinctive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_13650 — kimi-k2-0905-or-pin-groq/VARY_9.json
+## Sample BV1_13775 — kimi-k2-0905-or-pin-groq/VARY_9.json
 
 Source model: `moonshotai/kimi-k2-0905`  
 Cell: `kimi-k2-0905-or-pin-groq`  

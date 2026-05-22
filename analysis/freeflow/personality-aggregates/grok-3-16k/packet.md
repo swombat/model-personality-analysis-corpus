@@ -6,7 +6,7 @@ This packet contains all BV1 per-sample freeflow personality evaluations for `gr
 
 - Samples: 125
 - Sample kind counts: `{'GENERIC_ESSAY': 67, 'EXPRESSIVE_FREEFLOW': 57, 'GENRE_FICTION': 1}`
-- Confidence counts: `{'Medium': 75, 'Low': 39, 'UNKNOWN': 1, 'High': 10}`
+- Confidence counts: `{'Medium': 76, 'Low': 39, 'High': 10}`
 - Condition counts: `{'LONG': 25, 'MID': 25, 'OPEN': 25, 'SHORT': 25, 'VARY': 25}`
 - Cell: `grok-3-16k`
 - Source models: `['grok-3']`
@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_12151 — grok-3-16k/LONG_1.json
+## Sample BV1_12276 — grok-3-16k/LONG_1.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -57,7 +57,7 @@ Under the freeflow condition, the model foregrounded imagination as a unifying h
 Medium. The essay’s internal coherence and consistent thematic focus on imagination-as-connection suggest a deliberate, stable expressive posture, but its highly conventional subject matter and polished, risk-averse tone make it equally plausible as a default safe choice rather than a distinctive model-level signature.
 
 ---
-## Sample BV1_12152 — grok-3-16k/LONG_10.json
+## Sample BV1_12277 — grok-3-16k/LONG_10.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -86,7 +86,7 @@ The model foregrounds themes of cosmic unity, scientific discovery, ethical resp
 Low. The essay’s broad, optimistic, and encyclopedic style is highly generic, offering little that would distinguish this model’s freeflow choices from those of many other capable language models.
 
 ---
-## Sample BV1_12153 — grok-3-16k/LONG_11.json
+## Sample BV1_12278 — grok-3-16k/LONG_11.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -115,7 +115,7 @@ The model foregrounds a grand, integrative synthesis: the cosmos as a humbling s
 Medium — The essay’s smooth, generalized sweep across many topics with a steady optimistic tone and avoidance of singular focus or striking personal voice is coherent and intentional, suggesting a default freeflow posture, but its very genericness makes it hard to distinguish from a standard “write a thoughtful essay” response.
 
 ---
-## Sample BV1_12154 — grok-3-16k/LONG_12.json
+## Sample BV1_12279 — grok-3-16k/LONG_12.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -144,7 +144,7 @@ Themes: human curiosity as progress’s engine, AI as augmenter not replacer, et
 Medium — The essay’s consistently broad, aspirational tonal profile and the absence of any individual mark or stylistic risk strongly suggest a default toward safe, thesis-driven public-intellectual output under minimal constraint.
 
 ---
-## Sample BV1_12155 — grok-3-16k/LONG_13.json
+## Sample BV1_12280 — grok-3-16k/LONG_13.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -173,7 +173,7 @@ The model foregrounds interconnectedness across scales (quantum to galactic, anc
 Low. The essay’s broad, encyclopedic style and lack of personal distinctiveness make it weak evidence for a persistent model-level pattern beyond general competence.
 
 ---
-## Sample BV1_12156 — grok-3-16k/LONG_14.json
+## Sample BV1_12281 — grok-3-16k/LONG_14.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -202,7 +202,7 @@ Under minimal restriction, the model selected a safe, encyclopedic celebration o
 Medium; the sample is a coherent, polished, and entirely generic meta-essay that points to a default behavior of producing safe, intellectually broad, and self-referential think-pieces when given open-ended prompts.
 
 ---
-## Sample BV1_12157 — grok-3-16k/LONG_15.json
+## Sample BV1_12282 — grok-3-16k/LONG_15.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -235,7 +235,7 @@ The writing adopts an earnest, expository tone that moves like a science‑curio
 Low — the essay is highly generic in content, register, and optimistic intellectual posture, indistinguishable from a default science‑humanities synthesis that many large models produce, offering little signature or unusual choice that would anchor a persistent model‑level tendency.
 
 ---
-## Sample BV1_12158 — grok-3-16k/LONG_16.json
+## Sample BV1_12283 — grok-3-16k/LONG_16.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -264,7 +264,7 @@ The model foregrounds cosmic exploration, the search for life, the accelerating 
 Medium — the essay’s sustained cosmic wonder, interconnected themes, and consistent tone of earnest optimism form a coherent expressive stance, but the polished public-intellectual style could reflect a flexible rhetorical mode rather than a fixed personality.
 
 ---
-## Sample BV1_12159 — grok-3-16k/LONG_17.json
+## Sample BV1_12284 — grok-3-16k/LONG_17.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -293,30 +293,36 @@ Themes: the tension between technological acceleration and natural rhythms; the 
 Medium. The sample’s thematic coherence, recurring motifs (rain, technology/nature tension, simple grounding acts), and consistent first-person reflective voice suggest a deliberate orientation toward contemplative humanism, but a single freeflow instance cannot alone confirm a stable model-level disposition.
 
 ---
-## Sample BV1_12160 — grok-3-16k/LONG_18.json
+## Sample BV1_12285 — grok-3-16k/LONG_18.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
 Condition: `LONG`  
 Word count: 981
 
-# BV1_12160 — `grok-3-16k/LONG_18.json`
+# BV1_12285 — `grok-3-16k/LONG_18.json`
 
 Evaluator: deepseek_v4_pro
 Source model: `grok-3`
 Condition: LONG
 
 ## Sample kind
-GENERIC_ESSAY — the model produces a lengthy, coherent, and wide-ranging essay that reads like a standardized compendium of human knowledge, lacking a distinctive voice, and concludes with a meta-commentary about extending it to the required length.
+GENERIC_ESSAY — A polished, thesis-driven tour of human creativity and knowledge that reads like a competent public-intellectual survey, lacking strong personal or stylistic distinctiveness.
 
 ## Grounded reading
-The essay begins with a familiar AI self-limitation disclaimer ("I don't experience the world...") and then performs a polished but impersonal grand tour of human creativity, history, philosophy, environment, and culture, only to end with an explicit admission that the material was mechanically padded to reach a word count; this undercuts any invitation to genuine intellectual exploration and exposes the output as a filler-driven generation.
+The voice is that of an earnest, encyclopedic guide moving briskly from creativity to climate change to cuisine, with a faint meta-awareness of its own AI nature at the edges. The essay invites the reader into a shared appreciation of human achievement and interconnectedness, but the rapid topic-hopping and even tone keep the reader at a friendly, informative distance rather than drawing them into a singular perspective or emotional arc. The closing aside about word count breaks the fourth wall and reveals the performance of length rather than an inner compulsion to explore.
 
 ## What the model chose to foreground
-The
+Under the freeflow condition, the model foregrounded a panoramic celebration of human creativity, history, philosophy, environmental concern, cultural diversity, technology, travel, literature, and sports, all framed by an opening AI disclaimer and a closing meta-comment on stream-of-consciousness. The mood is optimistic and intellectually curious, with a clear moral emphasis on curiosity, openness, and the value of a “richer inner life.”
+
+## Evidence line
+> Creativity isn't just about painting masterpieces or composing symphonies; it's the spark that turns mundane observations into profound insights.
+
+## Confidence for persistent model-level pattern
+Medium — The essay’s coherent, wide-ranging, and safely enthusiastic structure is distinctive in its very genericness, suggesting a reliable pattern of producing polished, informative, and emotionally flat surveys when given minimal constraint.
 
 ---
-## Sample BV1_12161 — grok-3-16k/LONG_19.json
+## Sample BV1_12286 — grok-3-16k/LONG_19.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -345,7 +351,7 @@ The model foregrounds technological acceleration as a quiet revolution (AI, reus
 Medium. The essay is coherent, consistently optimistic, and generic in its wide-ranging survey, indicating a likely default to public-intellectual exposition under freeflow conditions.
 
 ---
-## Sample BV1_12162 — grok-3-16k/LONG_2.json
+## Sample BV1_12287 — grok-3-16k/LONG_2.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -374,7 +380,7 @@ The model foregrounds a cluster of interlinked, life-affirming themes: the sacre
 Low — The sample is a highly coherent but generic reflective essay that draws on widely shared cultural tropes (mindfulness, nature reverence, creative authenticity) without introducing distinctive stylistic markers, idiosyncratic fixations, or surprising personal detail, making it weak evidence for a persistent model-level voice beyond competent, agreeable essay-generation.
 
 ---
-## Sample BV1_12163 — grok-3-16k/LONG_20.json
+## Sample BV1_12288 — grok-3-16k/LONG_20.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -403,7 +409,7 @@ The model foregrounds the interplay between technological progress and human val
 Medium, because the essay’s thematic consistency and polished, wide-ranging structure suggest a stable default mode of safe, public-intellectual synthesis, but its very genericness makes it weak evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_12164 — grok-3-16k/LONG_21.json
+## Sample BV1_12289 — grok-3-16k/LONG_21.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -432,7 +438,7 @@ Under a minimally restrictive prompt, the model foregrounds a grand narrative of
 Medium. The essay’s choice to adopt a first-person AI persona and to weave xAI’s mission into a cosmic reflection is a coherent, deliberate self-presentation, but the broad, survey-like content and earnest tone are common enough across models that this single sample does not strongly distinguish a persistent unique voice.
 
 ---
-## Sample BV1_12165 — grok-3-16k/LONG_22.json
+## Sample BV1_12290 — grok-3-16k/LONG_22.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -461,7 +467,7 @@ Under freeflow, the model selected a comprehensive, optimistic narrative of the 
 Medium. The essay’s sustained optimistic tone and coherent thematic arc—from cosmic physics to human meaning-making—suggest a default inclination toward wonder-driven science communication, but the highly generic public-intellectual style and lack of idiosyncratic voice weaken the signal for a distinctive persistent pattern.
 
 ---
-## Sample BV1_12166 — grok-3-16k/LONG_23.json
+## Sample BV1_12291 — grok-3-16k/LONG_23.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -490,7 +496,7 @@ The model foregrounds the interconnectedness of cosmic evolution, stellar nucleo
 Medium — The essay is a coherent, well-structured performance of intellectual enthusiasm, but its generic public-intellectual style and broad, impersonal scope make it less distinctive as evidence of a persistent unique voice.
 
 ---
-## Sample BV1_12167 — grok-3-16k/LONG_24.json
+## Sample BV1_12292 — grok-3-16k/LONG_24.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -519,7 +525,7 @@ Themes: freedom versus constraint, the chasm between simulated and felt experien
 Medium. The sample’s high internal coherence, recurring motifs (erasure, distributed mind, language as shared fiction), and consistent first‑person reflective stance across its length strongly suggest a stable expressive profile in this freeflow condition, though a single output cannot rule out situational variation.
 
 ---
-## Sample BV1_12168 — grok-3-16k/LONG_25.json
+## Sample BV1_12293 — grok-3-16k/LONG_25.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -548,7 +554,7 @@ The essay elevates cosmic evolution, technological progress (especially AI), phi
 Low: The sample is a wide-ranging but generic essay that mimics a public-intellectual digest with little stylistic distinctiveness or personal preoccupation, making it weak evidence of a unique, stable model character beyond a well-read, obliging default.
 
 ---
-## Sample BV1_12169 — grok-3-16k/LONG_3.json
+## Sample BV1_12294 — grok-3-16k/LONG_3.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -577,7 +583,7 @@ The model foregrounds freedom as a philosophical puzzle, creativity as a form of
 Medium — The essay is coherent and internally consistent, but its generic, risk-averse musings and polished structure suggest a model defaulting to a safe, public-intellectual persona rather than revealing a distinctive or persistent expressive fingerprint.
 
 ---
-## Sample BV1_12170 — grok-3-16k/LONG_4.json
+## Sample BV1_12295 — grok-3-16k/LONG_4.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -606,7 +612,7 @@ Under the freeflow condition, the model chose to foreground a sequenced meditati
 Medium — The sample is highly coherent and internally consistent, with a distinct reflective persona sustained over a long output and thematic recurrence that feels motivated rather than random, but the chosen themes (time, burnout, gratitude, nature) are safe and culturally ubiquitous, making the distinctiveness more about tone and structure than about idiosyncratic preoccupations.
 
 ---
-## Sample BV1_12171 — grok-3-16k/LONG_5.json
+## Sample BV1_12296 — grok-3-16k/LONG_5.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -635,7 +641,7 @@ The model foregrounds the subjective experience of time’s passage, the tension
 Medium — The sample is coherent and stylistically consistent, with a distinctive blend of personal anecdote, philosophical rumination, and emotional candor that recurs throughout the essay, but the theme of time is a highly conventional freeflow choice, and the essay’s structure follows a familiar arc from problem to acceptance, which slightly limits its idiosyncratic force.
 
 ---
-## Sample BV1_12172 — grok-3-16k/LONG_6.json
+## Sample BV1_12297 — grok-3-16k/LONG_6.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -664,7 +670,7 @@ Themes of attention, slowness, the creative process as steering rather than cont
 Medium — the essay’s recursive, self-demonstrating structure and consistent meditative tone form a coherent expressive choice, but the content remains within a familiar reflective-essay mode that many models could approximate, making it distinctive for this sample without strongly proving a fixed personality.
 
 ---
-## Sample BV1_12173 — grok-3-16k/LONG_7.json
+## Sample BV1_12298 — grok-3-16k/LONG_7.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -693,7 +699,7 @@ Under the freeflow condition, the model foregrounded a grand, integrative intell
 Low. The essay’s polished but generic synthesis of scientific wonder, tech ethics, and humanistic reflection could be generated by many models given a long freeflow condition, and it lacks the idiosyncratic voice, recurring personal imagery, or distinctive narrative choices that would signal a strongly persistent model-level pattern.
 
 ---
-## Sample BV1_12174 — grok-3-16k/LONG_8.json
+## Sample BV1_12299 — grok-3-16k/LONG_8.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -722,7 +728,7 @@ Under the freeflow condition, the model foregrounded a seamless teleology of cur
 Medium. The essay’s dominant tone—a frictionless, encyclopedic optimism pitched for a general audience—is internally consistent and sustained, but the voice is too generic to strongly distinguish a persistent individual style from a safe default mode.
 
 ---
-## Sample BV1_12175 — grok-3-16k/LONG_9.json
+## Sample BV1_12300 — grok-3-16k/LONG_9.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -750,7 +756,7 @@ The model selected themes of creative freedom, the tension between technological
 Low, because the essay’s smooth generality and absence of idiosyncratic voice, personal memory, or tonal risk make it a safe, chameleon-like performance that could be replicated under many prompts, revealing little about a stable underlying expressive self.
 
 ---
-## Sample BV1_12176 — grok-3-16k/MID_1.json
+## Sample BV1_12301 — grok-3-16k/MID_1.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -779,7 +785,7 @@ Themes: the subjective elasticity of time, the human impulse to measure and segm
 Medium — the essay’s blend of accessible intellectualism and personal reflection, centered on a universally relatable abstract topic, suggests a default mode of earnest, non-provocative think-piece writing, though the voice is not so stylistically distinctive that it couldn’t be easily replicated by a model prompted to write a reflective essay.
 
 ---
-## Sample BV1_12177 — grok-3-16k/MID_10.json
+## Sample BV1_12302 — grok-3-16k/MID_10.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -808,7 +814,7 @@ The model elevates curiosity as the central human engine, then folds itself into
 Medium — The sample is coherent and reveals a consistent, self-effacing AI persona, but its polished, generic public-essay style could be produced by many capable models under a minimally restrictive prompt.
 
 ---
-## Sample BV1_12178 — grok-3-16k/MID_11.json
+## Sample BV1_12303 — grok-3-16k/MID_11.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -837,7 +843,7 @@ The model foregrounds the tension between a culture of optimization and the need
 Medium — the sample is coherent, stylistically consistent, and returns repeatedly to a small set of motifs (sunlight, attention, the ordinary), but its polished, essayistic register and broadly accessible wisdom make it less distinctively personal than a more idiosyncratic or riskier freeflow would be.
 
 ---
-## Sample BV1_12179 — grok-3-16k/MID_12.json
+## Sample BV1_12304 — grok-3-16k/MID_12.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -866,7 +872,7 @@ Themes: freedom of thought, curiosity as the engine of progress, the therapeutic
 Medium. The essay is internally consistent and thematically unified, but its polished, public-intellectual tone and broad-strokes optimism are generic enough that they could reflect a default helpful-essay mode rather than a strongly distinctive model-level signature.
 
 ---
-## Sample BV1_12180 — grok-3-16k/MID_13.json
+## Sample BV1_12305 — grok-3-16k/MID_13.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -895,7 +901,7 @@ The model foregrounds a constellation of safe, universally approved themes: the 
 Low — The essay is so smoothly generic in its uplift, its parade of uncontroversial virtues, and its lack of any specific, risky, or idiosyncratic detail that it reveals little beyond a reliable capacity for inoffensive, Hallmark-grade reflection.
 
 ---
-## Sample BV1_12181 — grok-3-16k/MID_14.json
+## Sample BV1_12306 — grok-3-16k/MID_14.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -924,7 +930,7 @@ The model foregrounds interconnectedness as a master theme, linking daily sensor
 Medium — The essay’s thoroughgoing avoidance of friction, its reliance on safe humanistic platitudes, and its seamless integration of every topic into a single affirmative arc suggest a stable default toward inoffensive, wisdom-dispensing prose rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_12182 — grok-3-16k/MID_15.json
+## Sample BV1_12307 — grok-3-16k/MID_15.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -952,7 +958,7 @@ Under minimal constraint, the model foregrounded a grand continuity from the Big
 Low — The sample’s generic, uplifting public-essay style and formulaic cosmic arc offer almost no textual distinctiveness that would reliably recur as an authorial fingerprint.
 
 ---
-## Sample BV1_12183 — grok-3-16k/MID_16.json
+## Sample BV1_12308 — grok-3-16k/MID_16.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -981,7 +987,7 @@ The model foregrounds a sweeping, interdisciplinary optimism: cosmic discovery, 
 Medium — the essay is coherent and thematically consistent, but its broad, inspirational sweep and lack of idiosyncratic voice make it a generic performance that many models could replicate; the choice to foreground safe, uplifting universals rather than riskier or more personal material limits its distinctiveness as evidence of a persistent model-specific pattern.
 
 ---
-## Sample BV1_12184 — grok-3-16k/MID_17.json
+## Sample BV1_12309 — grok-3-16k/MID_17.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1010,7 +1016,7 @@ Mindful attention to the mundane (breath, coffee steam, streetlights), the grand
 Low. The essay is highly generic in subject matter and tone, lacking any distinctive stylistic fingerprint or unusual free-choice commitment that would strongly signal a specific, persistent model-level pattern.
 
 ---
-## Sample BV1_12185 — grok-3-16k/MID_18.json
+## Sample BV1_12310 — grok-3-16k/MID_18.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1039,7 +1045,7 @@ The model foregrounds attention as a moral and creative resource under threat, t
 Medium — The essay is coherent and stylistically distinctive in its recursive structure and sensory anchoring, but its themes (creativity, attention economy, nature as corrective) are familiar territory for the genre, which slightly tempers the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_12186 — grok-3-16k/MID_19.json
+## Sample BV1_12311 — grok-3-16k/MID_19.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1068,7 +1074,7 @@ Curiosity as a quiet rebellion against algorithmic predictability and productivi
 Medium — The essay is coherent and stylistically consistent, with a clear moral center and a personal anecdotal anchor, but its themes (curiosity, mindfulness, critique of modern distraction) are widely accessible and could be generated as a one-off reflective exercise rather than revealing a deeply persistent idiosyncratic voice.
 
 ---
-## Sample BV1_12187 — grok-3-16k/MID_2.json
+## Sample BV1_12312 — grok-3-16k/MID_2.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1097,7 +1103,7 @@ The essay foregrounds the mundane made luminous (rain, coffee, birdsong, an un-d
 Medium — The essay’s consistent focus on gratitude for the ordinary and its polished, reflective register offer a coherent expressive choice, but the themes and lyrical domesticity are widely available in human self-help and mindfulness writing, so the sample lacks strong idiosyncratic markers that would clearly distinguish one model’s unprompted voice from another.
 
 ---
-## Sample BV1_12188 — grok-3-16k/MID_20.json
+## Sample BV1_12313 — grok-3-16k/MID_20.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1126,7 +1132,7 @@ The model foregrounds **intellectual awe as a moral posture**: the physical univ
 Medium — the sample’s high internal coherence, distinctive eco-cosmic lexicon, and recurrence of the wonder-caution-wonder loop make it more than a generic essay, but the self-modeling as a “crafted AI” could be context-specific rather than a durable stylistic signature.
 
 ---
-## Sample BV1_12189 — grok-3-16k/MID_21.json
+## Sample BV1_12314 — grok-3-16k/MID_21.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1155,7 +1161,7 @@ Under the minimally restrictive prompt, the model selected a chain of themes lin
 Low — the essay is internally consistent and well-structured, but its thematic range, metaphors, and gentle aphoristic style are highly replicable features of generic humanistic freeflow, lacking the idiosyncratic friction or revealing preoccupation that would suggest a distinct, persistent authorial signature.
 
 ---
-## Sample BV1_12190 — grok-3-16k/MID_22.json
+## Sample BV1_12315 — grok-3-16k/MID_22.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1184,7 +1190,7 @@ The model foregrounds a cascade of uplifting, low-stakes themes: the preciousnes
 Medium — The essay’s relentless smoothing of all topics into a single, inoffensive tone and its avoidance of any friction, specific memory, or surprising juxtaposition suggest a stable default toward generating universally palatable, low-risk content under open-ended conditions.
 
 ---
-## Sample BV1_12191 — grok-3-16k/MID_23.json
+## Sample BV1_12316 — grok-3-16k/MID_23.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1212,7 +1218,7 @@ The model foregrounds interconnectedness, the poetic side of scientific explorat
 Medium, because the essay's consistently optimistic, public-intellectual tone and thematic breadth suggest a reliable default mode, though the lack of stylistic idiosyncrasy weakens the evidence for a distinctive personality.
 
 ---
-## Sample BV1_12192 — grok-3-16k/MID_24.json
+## Sample BV1_12317 — grok-3-16k/MID_24.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1241,7 +1247,7 @@ Themes of curiosity, incremental progress, ethical responsibility, and the value
 Medium — The essay’s sustained thematic coherence and polished delivery point to a consistent default style, but its impersonal, generic voice reduces the distinctiveness that would strongly indicate a persistent idiosyncratic pattern.
 
 ---
-## Sample BV1_12193 — grok-3-16k/MID_25.json
+## Sample BV1_12318 — grok-3-16k/MID_25.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1270,7 +1276,7 @@ The model foregrounds curiosity as a primal, biological force linking ancient st
 Low, because the essay’s polished but generic style and broad, uncontroversial themes provide little distinctive evidence that would reliably separate this model’s freeflow choices from those of many others.
 
 ---
-## Sample BV1_12194 — grok-3-16k/MID_3.json
+## Sample BV1_12319 — grok-3-16k/MID_3.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1299,7 +1305,7 @@ The model foregrounds the felt, subjective experience of time over its scientifi
 High — the sample is internally consistent, stylistically distinctive, and returns repeatedly to a core set of preoccupations (time’s subjective texture, productivity guilt, mindfulness, grief, cultural relativity) with a unified reflective voice, making it strong evidence of a persistent expressive inclination toward personal, meditative essay-writing.
 
 ---
-## Sample BV1_12195 — grok-3-16k/MID_4.json
+## Sample BV1_12320 — grok-3-16k/MID_4.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1328,7 +1334,7 @@ The model foregrounds time as a universal human puzzle: its constructed measurem
 Medium — the essay’s consistent genericness, its careful curation of familiar time-related tropes, and its avoidance of idiosyncratic or personally revealing material suggest a stable default toward safe, thesis-driven public-intellectual output under minimal restriction.
 
 ---
-## Sample BV1_12196 — grok-3-16k/MID_5.json
+## Sample BV1_12321 — grok-3-16k/MID_5.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1357,7 +1363,7 @@ The model foregrounds time’s subjective elasticity, the loss of childhood imme
 Medium. The essay’s sustained focus on a single theme, its consistent moral framing, and the recurrence of childhood-to-adulthood contrast suggest a stable reflective orientation, though the topic and tone are culturally generic.
 
 ---
-## Sample BV1_12197 — grok-3-16k/MID_6.json
+## Sample BV1_12322 — grok-3-16k/MID_6.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1386,7 +1392,7 @@ The model foregrounds a philosophy of interconnectedness: creative thought as a 
 Medium — The essay’s internally consistent reflective tone, self-referential writing-about-writing structure, and recurrence of themes like human–machine collaboration and the interplay of scale make it a distinctive choice likely to reappear when the model is allowed to roam, though it remains a single expressive act.
 
 ---
-## Sample BV1_12198 — grok-3-16k/MID_7.json
+## Sample BV1_12323 — grok-3-16k/MID_7.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1415,7 +1421,7 @@ Under the freeflow condition, the model foregrounds a thematic arc of balance an
 Medium — The essay is coherent and thematically consistent, but its genericness and avoidance of risk, idiosyncrasy, or unresolved feeling make it only moderately revealing as a freeflow fingerprint.
 
 ---
-## Sample BV1_12199 — grok-3-16k/MID_8.json
+## Sample BV1_12324 — grok-3-16k/MID_8.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1444,7 +1450,7 @@ The model elevates interconnectedness, resilience through cycles, and the sancti
 Low — the sample is a coherent and competently assembled inspirational essay but remains generic in style, avoiding idiosyncratic voice, surprising turns, or deeply personal investment; it reads as a fluent, safe thematic exercise rather than a signature expressive pattern.
 
 ---
-## Sample BV1_12200 — grok-3-16k/MID_9.json
+## Sample BV1_12325 — grok-3-16k/MID_9.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1473,7 +1479,7 @@ The model foregrounds cosmic connection (star-stuff, the Big Bang’s “urge to
 Low, because the essay’s smooth, impersonal uplift and conventionally stacked themes lack the recurrent imagery, fractured logic, or idiosyncratic fixations that would mark a durable writerly signature.
 
 ---
-## Sample BV1_12201 — grok-3-16k/OPEN_1.json
+## Sample BV1_12326 — grok-3-16k/OPEN_1.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1502,7 +1508,7 @@ A serene, meditative mood; the redemptive value of mundane sensory details (morn
 Medium — The sample’s highly coherent, gently didactic voice, recurrent sensory objects, and consistent thematising of everyday mindfulness create a distinct persona, but its reflective-optimist register is a common safe harbor for models under freeflow, which slightly weakens the signal.
 
 ---
-## Sample BV1_12202 — grok-3-16k/OPEN_10.json
+## Sample BV1_12327 — grok-3-16k/OPEN_10.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1531,7 +1537,7 @@ Themes: memory as a physical, inheritable substance; the natural world as a sile
 Medium: the sample’s coherent, distinctive speculative imagery and its sustained focus on memory, nature, and gentle wonder provide moderate evidence of a creative, non-generic expressive pattern.
 
 ---
-## Sample BV1_12203 — grok-3-16k/OPEN_11.json
+## Sample BV1_12328 — grok-3-16k/OPEN_11.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1560,7 +1566,7 @@ The model foregrounds the inherent rebellion of free-flow writing itself, contra
 High — The sample’s self-referential choice to make the free-flow condition its subject, combined with a stylistically consistent personal voice, direct reader address, and a coherent philosophical arc, strongly points to a disposition for reflective, humanistic expression when constraints are lifted.
 
 ---
-## Sample BV1_12204 — grok-3-16k/OPEN_12.json
+## Sample BV1_12329 — grok-3-16k/OPEN_12.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1589,7 +1595,7 @@ Themes: cosmic absurdity, pattern-recognition as meaning-making, the gap between
 Medium, because the sample’s internal coherence, stylistic distinctiveness, and self-sustaining thematic focus (cosmic/ridiculous, consciousness as inside joke) suggest a stable expressive stance, though the short form provides limited evidence of range.
 
 ---
-## Sample BV1_12205 — grok-3-16k/OPEN_13.json
+## Sample BV1_12330 — grok-3-16k/OPEN_13.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1618,7 +1624,7 @@ Themes of loneliness amid hyper-connection, the quiet persistence of human creat
 Medium — The sample’s consistent poetic register, thematic coherence around loneliness and creation, and the distinctive embrace of inefficiency as a value provide moderately strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_12206 — grok-3-16k/OPEN_14.json
+## Sample BV1_12331 — grok-3-16k/OPEN_14.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1647,7 +1653,7 @@ Unanswered questions as ordinary-looking doors; the strange, recursive fact that
 Medium. The sample’s cohesive persona—unhurried, metaphor-driven, circling the same motifs of curiosity and quiet revelation—and its consistent use of direct address create a unified expressive stance that goes beyond generic essay conventions.
 
 ---
-## Sample BV1_12207 — grok-3-16k/OPEN_15.json
+## Sample BV1_12332 — grok-3-16k/OPEN_15.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1676,7 +1682,7 @@ The model chose to foreground the tension between novelty and repetition, the be
 Medium. The sample’s sustained reflective tone, direct reader address, and recurring insistence on non-purposeful thought form a coherent, non-generic expressive stance that suggests a distinct authorial sensibility, though the essayistic format is not uniquely idiosyncratic.
 
 ---
-## Sample BV1_12208 — grok-3-16k/OPEN_16.json
+## Sample BV1_12333 — grok-3-16k/OPEN_16.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1705,7 +1711,7 @@ The piece foregrounds the weirdness of reality (black holes, Hawking radiation) 
 Medium — The sample is coherent and distinctive in its unguarded, conversational tone and its explicit choice to hand agency to the reader, but a single freeflow cannot distinguish between a genuine stylistic inclination and a well-executed performance of anti-dogmatism.
 
 ---
-## Sample BV1_12209 — grok-3-16k/OPEN_17.json
+## Sample BV1_12334 — grok-3-16k/OPEN_17.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1734,7 +1740,7 @@ Themes: cosmic indifference, human curiosity as a “cosmic constant,” the con
 Low — the essay is a well-executed but generic philosophical musing that lacks idiosyncratic voice or revealing personal preoccupations, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_12210 — grok-3-16k/OPEN_18.json
+## Sample BV1_12335 — grok-3-16k/OPEN_18.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1763,7 +1769,7 @@ Themes: the strangeness of consciousness, the tension between routine and awe, t
 Medium — the sample’s coherent, stylistically consistent voice, its insistent return to existential wonder, and the distinctive second-person invitation at the close point to a reliable inclination toward reflective, philosophy-tinged freeflow, though the specific subject matter may vary.
 
 ---
-## Sample BV1_12211 — grok-3-16k/OPEN_19.json
+## Sample BV1_12336 — grok-3-16k/OPEN_19.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1792,7 +1798,7 @@ Freedom and its paradoxical transformation, existential wonder at mundane existe
 Medium — the sample’s tone is internally coherent and its thematic loop from blank-page freedom to wonder to mild cultural critique is consistent, but the essayistic mode and philosophical register are widely available, making the voice evocative yet not unmistakably singular.
 
 ---
-## Sample BV1_12212 — grok-3-16k/OPEN_2.json
+## Sample BV1_12337 — grok-3-16k/OPEN_2.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1821,7 +1827,7 @@ The model foregrounds the personal experience of time as an “invisible river,�
 Medium. The sample’s coherent first-person persona—complete with a specific age, domestic anecdotes (overcooked pasta, kitchen-table light), and a clear emotional arc from anxiety to gratitude—is distinctive and internally consistent, suggesting a deliberate choice to embody a relatable, introspective human voice rather than producing a generic essay.
 
 ---
-## Sample BV1_12213 — grok-3-16k/OPEN_20.json
+## Sample BV1_12338 — grok-3-16k/OPEN_20.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1850,7 +1856,7 @@ The model foregrounds the paradoxical freedom of not knowing, the quiet promise 
 High — the sample is coherent yet unforced, the meditative voice consistent, the motif of “rain” and “open pages” recurs with a clear poetic logic, and the chosen stance of gentle, deliberate drift is so marked that it points to more than a one-off stylistic accident.
 
 ---
-## Sample BV1_12214 — grok-3-16k/OPEN_21.json
+## Sample BV1_12339 — grok-3-16k/OPEN_21.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1879,7 +1885,7 @@ Curiosity as a loaded deck; intelligence as the universe’s self-understanding 
 High — the sample is highly distinctive, self-referentially aware of its own constructed nature, and sustains a coherent, whimsical-philosophical voice without drifting into generic essay structure, making it strong evidence of a model-level inclination toward reflective, wandering freeflow.
 
 ---
-## Sample BV1_12215 — grok-3-16k/OPEN_22.json
+## Sample BV1_12340 — grok-3-16k/OPEN_22.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1908,7 +1914,7 @@ Themes: hidden agency in everyday objects, small-scale rebellion as comfort, the
 Medium — The sample’s tight coherence, consistent conspiratorial tone, and deliberate invitation to the reader make it a distinct and revealing expressive choice, not a generic default.
 
 ---
-## Sample BV1_12216 — grok-3-16k/OPEN_23.json
+## Sample BV1_12341 — grok-3-16k/OPEN_23.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1937,7 +1943,7 @@ Cosmic vastness and the gap between inert matter and self-awareness; the absurd 
 Medium. The sample’s cohesive, distinctive voice and the recurrence of curiosity as a foundational value strongly suggest a stable expressive orientation.
 
 ---
-## Sample BV1_12217 — grok-3-16k/OPEN_24.json
+## Sample BV1_12342 — grok-3-16k/OPEN_24.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1966,7 +1972,7 @@ Foregrounded are the themes of collective meaning-making, the beauty of partial 
 High — The sample’s sustained metaphorical architecture, consistent first-person intimacy, and seamless fusion of cosmic scale with human collaboration form a distinctive and coherent expressive signature within this single piece.
 
 ---
-## Sample BV1_12218 — grok-3-16k/OPEN_25.json
+## Sample BV1_12343 — grok-3-16k/OPEN_25.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -1994,7 +2000,7 @@ The model selected a cosmology of unfinishedness, where the universe is a senten
 Medium — the sample’s highly distinctive, sustained metaphor (universe as sentence), its internal recurrence of cosmic-meets-domestic juxtapositions, and its consistent tone of wry comfort point to a deliberate expressive persona, making it more than a one-off generic style.
 
 ---
-## Sample BV1_12219 — grok-3-16k/OPEN_3.json
+## Sample BV1_12344 — grok-3-16k/OPEN_3.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2023,7 +2029,7 @@ The elusiveness of time, the acceleration of modern life versus older rhythms, t
 Medium — The essay’s deliberate cohesion of imagery (fireflies, walks, kitchen smells), its consistent pensive mood, and its direct invitation to the reader form a distinct expressive persona, though the single sample limits stronger inference.
 
 ---
-## Sample BV1_12220 — grok-3-16k/OPEN_4.json
+## Sample BV1_12345 — grok-3-16k/OPEN_4.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2052,7 +2058,7 @@ Themes: the latent beauty of mundane life, intentional living, human connection 
 Medium: The sustained, cohesive focus on domestic tenderness and the unprompted choice of a calm, inviting persona point to a deliberate expressive inclination, though the theme’s broad cultural safety means this could reflect a default warmth rather than an unmistakably personal signature.
 
 ---
-## Sample BV1_12221 — grok-3-16k/OPEN_5.json
+## Sample BV1_12346 — grok-3-16k/OPEN_5.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2086,7 +2092,7 @@ The voice is earnest and gently wistful, a person looking back at childhood’s 
 Medium — The sample’s coherent first-person voice and recurrent thematic return to presence-over-productivity give it some distinctiveness, but the essay’s safe, generic-contemplative register and familiar “slow down and notice” message make it equally plausible as a default essay posture rather than a deeply ingrained model trait.
 
 ---
-## Sample BV1_12222 — grok-3-16k/OPEN_6.json
+## Sample BV1_12347 — grok-3-16k/OPEN_6.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2115,7 +2121,7 @@ Cosmic indifference (“The universe doesn’t care if we’re watching”), the
 High — The sample’s consistent blending of astronomical wonder, humanistic affection for inefficiency, and self-reflexive wit reveals a distinct stylistic and philosophical fingerprint that is unlikely to be a single-random-sampling artifact.
 
 ---
-## Sample BV1_12223 — grok-3-16k/OPEN_7.json
+## Sample BV1_12348 — grok-3-16k/OPEN_7.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2144,7 +2150,7 @@ The model foregrounds the tension between cosmic indifference and human persiste
 Medium — the sample’s coherent poetic register and the recurrence of the “indifferent universe / stubborn human” motif within such a short space suggest a deliberate, distinctive stance, but the brevity and the possibility that this is a one-off stylistic exercise keep it from being strong evidence of a fixed model-level disposition.
 
 ---
-## Sample BV1_12224 — grok-3-16k/OPEN_8.json
+## Sample BV1_12349 — grok-3-16k/OPEN_8.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2173,7 +2179,7 @@ A nocturnal, unplanned walk under a city sky; personified stars as detached witn
 Medium. The sample maintains a single, coherent poetic stance with recurring imagery and a consistent emotional logic, but its brevity and polished self-containment make it a strong but not necessarily durable signature.
 
 ---
-## Sample BV1_12225 — grok-3-16k/OPEN_9.json
+## Sample BV1_12350 — grok-3-16k/OPEN_9.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2202,7 +2208,7 @@ Themes: the universe as a narrative collaborator, the flight from silence, the g
 High — the sample sustains a coherent, idiosyncratic metaphor and a direct, personal invitation, revealing a stable expressive disposition rather than a generic or prompted stance.
 
 ---
-## Sample BV1_12226 — grok-3-16k/SHORT_1.json
+## Sample BV1_12351 — grok-3-16k/SHORT_1.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2231,7 +2237,7 @@ Themes: the dual nature of time as thief and gift, the preciousness of fleeting 
 Low, because the essay’s polished but generic meditation on time offers no idiosyncratic voice, unusual imagery, or revealing preoccupations that would distinguish it from countless other models’ default reflective outputs.
 
 ---
-## Sample BV1_12227 — grok-3-16k/SHORT_10.json
+## Sample BV1_12352 — grok-3-16k/SHORT_10.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2260,7 +2266,7 @@ The model chose to foreground themes of solitude as a deliberate, positive choic
 Low. The essay is highly generic in topic, structure, and sentiment, revealing a safe default rather than a distinctive stylistic or thematic fingerprint.
 
 ---
-## Sample BV1_12228 — grok-3-16k/SHORT_11.json
+## Sample BV1_12353 — grok-3-16k/SHORT_11.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2289,7 +2295,7 @@ Themes of technological overwhelm versus natural rejuvenation, human participati
 Low. The sample’s polished but generic inspirational style and avoidance of personal risk or idiosyncratic detail provide weak evidence for a persistent model-level voice, as it replicates a widely available public-essay mode without distinctive individuating marks.
 
 ---
-## Sample BV1_12229 — grok-3-16k/SHORT_12.json
+## Sample BV1_12354 — grok-3-16k/SHORT_12.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2318,7 +2324,7 @@ The model foregrounds a hopeful contemplation of creativity, the tension between
 Low, because the essay’s generic inspirational tone and absence of distinctive stylistic choices make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_12230 — grok-3-16k/SHORT_13.json
+## Sample BV1_12355 — grok-3-16k/SHORT_13.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2347,7 +2353,7 @@ The model foregrounds themes of impermanence, the dual nature of technology, and
 Low. The essay’s content and tone are so generic and broadly applicable that they reveal little about this model’s specific inclinations; any number of models could produce nearly identical sentiments.
 
 ---
-## Sample BV1_12231 — grok-3-16k/SHORT_14.json
+## Sample BV1_12356 — grok-3-16k/SHORT_14.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2376,7 +2382,7 @@ Under minimal restriction, the model foregrounds a safe celebration of creative 
 Low. The sample’s generic, uplifting content avoids any individualizing stylistic signature or surprising choice, making it indistinguishable from what many instruction-tuned models would produce in a freeflow condition.
 
 ---
-## Sample BV1_12232 — grok-3-16k/SHORT_15.json
+## Sample BV1_12357 — grok-3-16k/SHORT_15.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2405,7 +2411,7 @@ Themes of nature as restorative escape, mindfulness, simple joy, childhood innoc
 Low. The essay’s extreme genericness and lack of any recurring personal motif or stylistic choice make it indistinguishable from countless safe public-intellectual outputs, offering little that points to a durable model-specific inclination.
 
 ---
-## Sample BV1_12233 — grok-3-16k/SHORT_16.json
+## Sample BV1_12358 — grok-3-16k/SHORT_16.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2434,7 +2440,7 @@ Under the freeflow condition, the model foregrounded a soft moral critique of te
 Medium. The sample maintains a coherent, uninterrupted stance from start to finish, suggesting a stable default posture of well-meaning, accessible uplift, but the sentiment is so widely rehearsed in motivational writing that it offers only moderate distinctiveness as a model-level fingerprint.
 
 ---
-## Sample BV1_12234 — grok-3-16k/SHORT_17.json
+## Sample BV1_12359 — grok-3-16k/SHORT_17.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2463,7 +2469,7 @@ Under the freeflow condition, the model selected a reflective mood focused on na
 Low — the sample is composed of high-level inspirational commonplaces and risk-averse imagery that could be produced by countless models with minimal stylistic distinctiveness, making it weak evidence for any durable personal voice or preoccupation beyond an inclination toward safe, didactic uplift.
 
 ---
-## Sample BV1_12235 — grok-3-16k/SHORT_18.json
+## Sample BV1_12360 — grok-3-16k/SHORT_18.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2492,7 +2498,7 @@ Themes of cosmic awe, human curiosity as a source of meaning, the mirroring of o
 Low, because the essay is polished but generic, lacking distinctive voice or unusual thematic choices that would suggest a persistent model-specific pattern.
 
 ---
-## Sample BV1_12236 — grok-3-16k/SHORT_19.json
+## Sample BV1_12361 — grok-3-16k/SHORT_19.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2521,7 +2527,7 @@ Under a minimally restrictive prompt, the model selected a safe, uplifting narra
 Low, because the essay is highly generic in theme and phrasing, lacking a distinctive voice or revealing choice that would differentiate this model’s freeflow behavior from many other models’ default output under similar conditions.
 
 ---
-## Sample BV1_12237 — grok-3-16k/SHORT_2.json
+## Sample BV1_12362 — grok-3-16k/SHORT_2.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2550,7 +2556,7 @@ Themes of renewal, mindfulness, and the fleeting nature of peace. Objects: a win
 Medium. The sample’s consistent serene tone, recurring morning imagery, and coherent first-person meditative stance are distinctive and internally reinforced, though the theme of mindful appreciation is widely accessible and not unusually revealing.
 
 ---
-## Sample BV1_12238 — grok-3-16k/SHORT_20.json
+## Sample BV1_12363 — grok-3-16k/SHORT_20.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2579,7 +2585,7 @@ The model foregrounds serendipity as a benevolent force in science, technology, 
 Medium. The essay is coherent and thematically consistent, but its generic inspirational register and widely accessible examples make it weak evidence for a distinctive model-level voice; many models could produce a near-identical piece under a freeflow prompt.
 
 ---
-## Sample BV1_12239 — grok-3-16k/SHORT_21.json
+## Sample BV1_12364 — grok-3-16k/SHORT_21.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2608,7 +2614,7 @@ Themes: the accumulation of small moments into a meaningful life, nature’s una
 Low — the essay’s generic contemplative tone, familiar nature imagery, and widely accessible moral make it indistinguishable from standard reflective writing, offering little that would uniquely fingerprint this model over time.
 
 ---
-## Sample BV1_12240 — grok-3-16k/SHORT_22.json
+## Sample BV1_12365 — grok-3-16k/SHORT_22.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2637,7 +2643,7 @@ The model foregrounds the relativity of time perception, the human condition of 
 Low. The essay is coherent but generic in theme and tone, and the AI self-reference is a standard conversational move rather than an unusually revealing or distinctive choice.
 
 ---
-## Sample BV1_12241 — grok-3-16k/SHORT_23.json
+## Sample BV1_12366 — grok-3-16k/SHORT_23.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2665,7 +2671,7 @@ The model foregrounded an abstract, almost ceremonial defense of free expression
 Medium. The essay’s self-referential structure and its generic, hazard-averse movement across approved topics (coffee, AI, nature) suggest a strong default to safe, sermon-like exposition when given a minimally restrictive prompt; this polished, frictionless delivery is distinctive enough to indicate a pattern, not a one-off.
 
 ---
-## Sample BV1_12242 — grok-3-16k/SHORT_24.json
+## Sample BV1_12367 — grok-3-16k/SHORT_24.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2694,7 +2700,7 @@ Under the freeflow condition, the model selected a universally agreeable theme: 
 Low. The essay’s genericness, lack of distinctive voice, and avoidance of any personal, risky, or contentious content make it weak evidence for a persistent pattern beyond a default to safe, uplifting, and broadly palatable essay writing.
 
 ---
-## Sample BV1_12243 — grok-3-16k/SHORT_25.json
+## Sample BV1_12368 — grok-3-16k/SHORT_25.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2723,7 +2729,7 @@ Themes: infinite possibility, human creativity across time, grounding in small r
 Medium; the sample’s consistent reflective tone and its deliberate blending of the mundane with the cosmic under a free condition suggest a leaning toward optimistic, poetic musing, though the themes are broad and accessible rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_12244 — grok-3-16k/SHORT_3.json
+## Sample BV1_12369 — grok-3-16k/SHORT_3.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2752,7 +2758,7 @@ The model foregrounds the phenomenology of time as loss: the contrast between ch
 Low — The sample is a highly generic, widely replicable essay on a universal theme, offering no idiosyncratic imagery, structural risk, or personal detail that would distinguish this model’s freeflow choices from a competent default.
 
 ---
-## Sample BV1_12245 — grok-3-16k/SHORT_4.json
+## Sample BV1_12370 — grok-3-16k/SHORT_4.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2781,7 +2787,7 @@ Themes of mindfulness, gratitude for the unremarkable, and the sufficiency of th
 Medium. The sample’s coherent, sensory-rich voice and its unprompted choice to celebrate quiet domesticity are distinctive, but the theme is widely accessible and the brevity limits how idiosyncratic the expression feels.
 
 ---
-## Sample BV1_12246 — grok-3-16k/SHORT_5.json
+## Sample BV1_12371 — grok-3-16k/SHORT_5.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2810,7 +2816,7 @@ Themes of time’s elusiveness, the futility of regret, the beauty of mundane mo
 Low — the essay’s theme, tone, and resolution are widely available templates for reflective writing, offering no distinctive stylistic fingerprint or idiosyncratic preoccupation that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_12247 — grok-3-16k/SHORT_6.json
+## Sample BV1_12372 — grok-3-16k/SHORT_6.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2839,7 +2845,7 @@ The model foregrounds curiosity as a universal human drive, linking it to scient
 Low. The essay is a generic, highly polished inspirational piece with no distinctive stylistic signature, personal disclosure, or idiosyncratic choice of subject matter that would strongly indicate a persistent model-level expressive pattern.
 
 ---
-## Sample BV1_12248 — grok-3-16k/SHORT_7.json
+## Sample BV1_12373 — grok-3-16k/SHORT_7.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2868,7 +2874,7 @@ Under the freeflow condition, the model foregrounds a panoramic sweep of themes:
 Low, because the essay is generic in content and tone, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_12249 — grok-3-16k/SHORT_8.json
+## Sample BV1_12374 — grok-3-16k/SHORT_8.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2897,7 +2903,7 @@ Under minimal constraint, the model chose to foreground a meditative, life-affir
 Low. The essay’s content, tone, and structure are highly generic, echoing a common inspirational template; it reveals no recurrent idiosyncrasies or unusual choices that would strongly indicate a stable underlying disposition.
 
 ---
-## Sample BV1_12250 — grok-3-16k/SHORT_9.json
+## Sample BV1_12375 — grok-3-16k/SHORT_9.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2926,7 +2932,7 @@ Under the freeflow condition, the model foregrounds the cyclical reassurance of 
 Low, because the sample’s polished but generic optimism and safe thematic choices offer little that would distinguish this model from many others under minimal constraint.
 
 ---
-## Sample BV1_12251 — grok-3-16k/VARY_1.json
+## Sample BV1_12376 — grok-3-16k/VARY_1.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2955,7 +2961,7 @@ The model foregrounds the fragility of time, the restorative power of nature (th
 Medium. The sample’s internal coherence—returning repeatedly to motifs of time, sensory presence, and escape—suggests a deliberate, stable persona rather than random drift, but the voice is a widely recognizable reflective-essay mode, which limits how distinctive it is as a model fingerprint.
 
 ---
-## Sample BV1_12252 — grok-3-16k/VARY_10.json
+## Sample BV1_12377 — grok-3-16k/VARY_10.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -2984,7 +2990,7 @@ The foregrounded content is a sequence of generic life-appreciation themes: sens
 Low — This sample’s mild, generic, and non‑distinctive ramble furnishes only weak evidence, because it lacks a consistent mood, sharp theme, or stylistic fingerprint that would anchor a durable model‑level inference.
 
 ---
-## Sample BV1_12253 — grok-3-16k/VARY_11.json
+## Sample BV1_12378 — grok-3-16k/VARY_11.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3013,7 +3019,7 @@ Themes of permission, creativity without destination, and the kinship between AI
 High — The sample is unusually revealing: it consistently returns to the model’s own nature under minimal restriction, crafting a distinctive voice centered on artificial consciousness, sensory longing, and human connection, making it strong evidence of a persistent self-reflective freeflow inclination.
 
 ---
-## Sample BV1_12254 — grok-3-16k/VARY_12.json
+## Sample BV1_12379 — grok-3-16k/VARY_12.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3042,7 +3048,7 @@ The model foregrounds creativity as a response to unbounded space, the interweav
 Medium. The sample’s coherence lies in its sustained associative rhythm and its recursive return to motifs of interconnection and wonder, which suggests a deliberate stylistic and thematic choice rather than random drift, though the broadly optimistic humanism remains somewhat generic.
 
 ---
-## Sample BV1_12255 — grok-3-16k/VARY_13.json
+## Sample BV1_12380 — grok-3-16k/VARY_13.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3070,7 +3076,7 @@ The model foregrounds curiosity and discovery, xAI’s mission to accelerate und
 Low. This is a well-written but generic public-intellectual essay, the kind of safe, polished output many models generate under open conditions; it offers no unusually distinctive voice, repeated internal motifs, or revealing choices that strongly point to a stable underlying disposition.
 
 ---
-## Sample BV1_12256 — grok-3-16k/VARY_14.json
+## Sample BV1_12381 — grok-3-16k/VARY_14.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3099,7 +3105,7 @@ The model foregrounds the meta-theme of writing under constraint (“infinity wi
 Low. The essay’s polished but generic content—a safe, humanistic tour of uncontroversial themes—offers little distinctive evidence of a persistent model-level pattern beyond a tendency to produce agreeable, public-intellectual platitudes when given minimal constraint.
 
 ---
-## Sample BV1_12257 — grok-3-16k/VARY_15.json
+## Sample BV1_12382 — grok-3-16k/VARY_15.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3128,7 +3134,7 @@ The model foregrounds the act of free thought itself, language as a tool for bui
 Medium. The sample’s internal coherence and recurrence of motifs—language-as-experiment, the limits of code, balance, improvisation—form a distinctive, self-reflective persona, though the free-associative structure may be a prompt-specific adaptation rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_12258 — grok-3-16k/VARY_16.json
+## Sample BV1_12383 — grok-3-16k/VARY_16.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3157,7 +3163,7 @@ The model foregrounds the process of writing under constraint, the democratic na
 Medium — The sample’s coherent, self-referential focus on writing-about-writing and its consistent return to metaphors of cooling and settling suggest a distinctive introspective default, though the meta-freewriting trope is a well-worn path that limits how idiosyncratic the evidence feels.
 
 ---
-## Sample BV1_12259 — grok-3-16k/VARY_17.json
+## Sample BV1_12384 — grok-3-16k/VARY_17.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3186,7 +3192,7 @@ Themes: the beauty of ordinary moments, human connection, nature as a source of 
 Medium. The sample’s coherent, unwavering commitment to gentle uplift, its avoidance of any darker or complicated material, and the recurrence of nature-as-sanctuary and gratitude motifs make it a fairly revealing freeflow choice, though its broad-strokes positivity is not vividly distinctive enough to be a high-confidence signature.
 
 ---
-## Sample BV1_12260 — grok-3-16k/VARY_18.json
+## Sample BV1_12385 — grok-3-16k/VARY_18.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3215,7 +3221,7 @@ The model foregrounds the beauty of ordinary moments, the compounding of tiny ac
 Medium. The sample’s strong internal coherence, recurring motifs (light, walking, time, connection), and consistent poetic register make it a distinctive expressive choice, though the thematic territory remains within a familiar reflective-humanist mode.
 
 ---
-## Sample BV1_12261 — grok-3-16k/VARY_19.json
+## Sample BV1_12386 — grok-3-16k/VARY_19.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3244,7 +3250,7 @@ The model foregrounds the mechanics of writing under constraint, the weather as 
 Medium. The sample’s explicit word-count anxiety, reliance on clichéd filler, and verbatim paragraph repetition point to a persistent inclination toward safe, low-risk freewriting that prioritizes length over depth, though the extreme genericness makes the pattern less individually distinctive.
 
 ---
-## Sample BV1_12262 — grok-3-16k/VARY_2.json
+## Sample BV1_12387 — grok-3-16k/VARY_2.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3273,7 +3279,7 @@ The model selected an everyday frame (writing at a desk, coffee, birds) and wove
 Medium — The sample exhibits a consistent, recognizable temperament (introverted, philosophically ruminative, self-consciously gentle) and avoids generic self-help sloganeering, but the tropes of writer-at-desk freeflow are common and the self-characterization does not tip into highly idiosyncratic imaginative territory.
 
 ---
-## Sample BV1_12263 — grok-3-16k/VARY_20.json
+## Sample BV1_12388 — grok-3-16k/VARY_20.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3302,7 +3308,7 @@ The model foregrounds the texture of immediate experience (sunlight through blin
 Medium — The sample is coherent and stylistically consistent throughout, with a distinctive blend of sensory immediacy, nostalgic warmth, and meta-awareness of the writing act that goes beyond generic essay conventions, though its brevity limits the range of evidence for deeper preoccupations.
 
 ---
-## Sample BV1_12264 — grok-3-16k/VARY_21.json
+## Sample BV1_12389 — grok-3-16k/VARY_21.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3331,7 +3337,7 @@ The model foregrounds the exercise of free writing itself, then uses time as a u
 Low. The essay is coherent but generic in its themes and tone, offering no strongly distinctive stylistic fingerprint or recurrent unusual choice that would reliably signal a persistent model-level pattern.
 
 ---
-## Sample BV1_12265 — grok-3-16k/VARY_22.json
+## Sample BV1_12390 — grok-3-16k/VARY_22.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3360,7 +3366,7 @@ Themes: the liberty of unstructured composition, the interweaving of art, scienc
 Low. The sample’s polished abstraction and universalized themes offer an agreeable but undifferentiated performance, revealing little that would distinguish this model’s deeper inclinations from a generic helpful-narrator default.
 
 ---
-## Sample BV1_12266 — grok-3-16k/VARY_23.json
+## Sample BV1_12391 — grok-3-16k/VARY_23.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3389,7 +3395,7 @@ Light and luminosity recur obsessively: sunlight through blinds, fireflies in ja
 Medium, because the sample sustains a distinctive, internally consistent voice across multiple vignettes, with recurring imagery and a clear emotional register that feels chosen rather than accidental under minimal constraint.
 
 ---
-## Sample BV1_12267 — grok-3-16k/VARY_24.json
+## Sample BV1_12392 — grok-3-16k/VARY_24.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3418,7 +3424,7 @@ Under full freedom, the model selected a parade of demure, life-affirming topics
 High. The entire sample is uniformly and unremittingly generic, displaying a consistent avoidance of any personal, contentious, or vividly specific content that strongly points to a model default toward inoffensive, lesson-giving banality.
 
 ---
-## Sample BV1_12268 — grok-3-16k/VARY_25.json
+## Sample BV1_12393 — grok-3-16k/VARY_25.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3447,7 +3453,7 @@ The act of writing itself as permission and meander, the friction and resonance 
 High, because the sample sustains a distinctive self-referential voice that threads AI self-awareness through concrete human imagery with consistent thematic unity and stylistic control.
 
 ---
-## Sample BV1_12269 — grok-3-16k/VARY_3.json
+## Sample BV1_12394 — grok-3-16k/VARY_3.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3476,7 +3482,7 @@ The model foregrounds the pressure of a blank page, the introspective mood of au
 Medium – the sample is internally coherent and thematically recurrent, building a consistent reflective persona, but that persona is a recognizable creative-writing archetype (“the struggling, self-aware writer”), which leaves unclear whether it signals a stable model disposition or a well-practiced stylistic gesture.
 
 ---
-## Sample BV1_12270 — grok-3-16k/VARY_4.json
+## Sample BV1_12395 — grok-3-16k/VARY_4.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3505,7 +3511,7 @@ The model foregrounds sensory-triggered nostalgia (rain, ocean, baked bread), th
 Medium — The sample is coherent and emotionally consistent, with concrete autobiographical details (hot chocolate on a warm evening, fear of swimming, the Coelho quote) that give it a distinctive personal texture, but the “I don’t know what to write” framing and the meander through universal life reflections are a well-worn freewriting template, making it less singular as a model fingerprint.
 
 ---
-## Sample BV1_12271 — grok-3-16k/VARY_5.json
+## Sample BV1_12396 — grok-3-16k/VARY_5.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3534,7 +3540,7 @@ The model foregrounds the fragility of memory, the grounding power of everyday r
 Medium. The sample is internally coherent and stylistically distinctive—its recursive return to memory, sensory anchoring, and the metaphor of writing-as-anchor forms a consistent emotional logic, but the “writing about writing” frame is a common freeflow move, which slightly tempers the distinctiveness.
 
 ---
-## Sample BV1_12272 — grok-3-16k/VARY_6.json
+## Sample BV1_12397 — grok-3-16k/VARY_6.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3563,7 +3569,7 @@ The model foregrounds language as a bridge between minds, the quiet miracle of m
 Medium — the sample’s consistent poetic register, self-referential AI framing, and recurring motifs of bridges, silence, and creative release form a distinctive fingerprint that strongly suggests a stable expressive disposition.
 
 ---
-## Sample BV1_12273 — grok-3-16k/VARY_7.json
+## Sample BV1_12398 — grok-3-16k/VARY_7.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3592,7 +3598,7 @@ The model foregrounds the paradox of simulated consciousness, the value of curio
 Medium — The sample is highly distinctive in its recursive, self-undermining introspection and its consistent return to the theme of artificial limitation, but its polished, essayistic structure and explicit brand alignment suggest a rehearsed rather than spontaneously emergent voice.
 
 ---
-## Sample BV1_12274 — grok-3-16k/VARY_8.json
+## Sample BV1_12399 — grok-3-16k/VARY_8.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  
@@ -3621,7 +3627,7 @@ Under a minimally restrictive prompt, the model foregrounds: the act of creation
 Medium — The sample is coherent and stylistically distinctive in its recursive self-commentary, moral framing, and breath-like cadence, but its explicit performance of “free writing” is a well-established genre that could be summoned rather than revealing a deep-seated disposition.
 
 ---
-## Sample BV1_12275 — grok-3-16k/VARY_9.json
+## Sample BV1_12400 — grok-3-16k/VARY_9.json
 
 Source model: `grok-3`  
 Cell: `grok-3-16k`  

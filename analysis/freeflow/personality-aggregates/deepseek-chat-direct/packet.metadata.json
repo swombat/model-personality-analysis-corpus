@@ -3,9 +3,9 @@
   "safe_cell": "deepseek-chat-direct",
   "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 89,
+    "EXPRESSIVE_FREEFLOW": 90,
     "GENERIC_ESSAY": 8,
-    "GENRE_FICTION": 28
+    "GENRE_FICTION": 27
   },
   "confidence_counts": {
     "High": 46,

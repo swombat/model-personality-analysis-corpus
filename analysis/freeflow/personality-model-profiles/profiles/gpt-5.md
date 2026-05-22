@@ -7,7 +7,7 @@ _Rich model-level profile based on 300 freeflow samples._
 ## Source summary
 
 - Samples: 300
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 190, 'GENERIC_ESSAY': 26, 'GENRE_FICTION': 84}`
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 189, 'GENERIC_ESSAY': 27, 'GENRE_FICTION': 84}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-5.md`
 
 ## Core personality synthesis

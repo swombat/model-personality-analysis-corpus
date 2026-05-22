@@ -3,15 +3,14 @@
   "safe_cell": "kimi-k2-5-or-pin-moonshot",
   "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 107,
+    "EXPRESSIVE_FREEFLOW": 108,
     "GENERIC_ESSAY": 12,
-    "GENRE_FICTION": 6
+    "GENRE_FICTION": 5
   },
   "confidence_counts": {
-    "High": 54,
+    "High": 56,
     "Low": 6,
-    "Medium": 63,
-    "UNKNOWN": 2
+    "Medium": 63
   },
   "condition_counts": {
     "LONG": 25,

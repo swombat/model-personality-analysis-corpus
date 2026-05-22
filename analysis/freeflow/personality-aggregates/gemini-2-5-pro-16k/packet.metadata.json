@@ -8,10 +8,9 @@
     "GENRE_FICTION": 28
   },
   "confidence_counts": {
-    "Medium": 87,
+    "Medium": 88,
     "High": 22,
-    "Low": 15,
-    "UNKNOWN": 1
+    "Low": 15
   },
   "condition_counts": {
     "LONG": 25,

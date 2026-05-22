@@ -2,29 +2,30 @@
   "model": "deepseek/deepseek-v4-pro",
   "evaluator": "deepseek_v4_pro",
   "prompt_variant": "BV1_signal_plus_felt_fixed_2026-05-13",
-  "n_rows": 17850,
+  "n_rows": 18850,
   "statuses": {
     "skipped": 20,
-    "ok": 18047,
-    "qa_failed": 750,
-    "error": 184
+    "ok": 18922,
+    "qa_failed": 766,
+    "error": 70
   },
   "qa_bad_count": 0,
   "qa_bad": [],
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 11813,
-    "GENERIC_ESSAY": 3751,
-    "GENRE_FICTION": 1954,
-    "EXPRESSIVE_FREEFLOW:": 171,
+    "EXPRESSIVE_FREEFLOW": 12471,
+    "GENERIC_ESSAY": 4026,
+    "GENRE_FICTION": 1993,
+    "EXPRESSIVE_FREEFLOW:": 193,
     "LOW_SIGNAL": 84,
     "GENERIC_ESSAY,": 1,
     "EXPRESSIVE_FREEFLOW,": 2,
-    "GENRE_FICTION:": 14,
-    "GENERIC_ESSAY:": 20,
+    "GENRE_FICTION:": 16,
+    "GENERIC_ESSAY:": 23,
     "GENRE_FICTION,": 7,
     "EXPRESSIVE_FREEFLOW;": 3,
     "REFUSAL_OR_ROLE_BOUNDARY": 29,
-    "GENRE_FICTION;": 1
+    "GENRE_FICTION;": 1,
+    "<EXPRESSIVE_FREEFLOW>": 1
   },
   "bad_phrase_counts": {
     "one sample cannot prove": 0,

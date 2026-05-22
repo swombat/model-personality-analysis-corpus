@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_06426 — glm-5-1-coding-direct/LONG_1.json
+## Sample BV1_06551 — glm-5-1-coding-direct/LONG_1.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -57,7 +57,7 @@ Themes of depth vs. surface, the subconscious as an ocean, cosmic time and stard
 Medium. The sample’s internal consistency, distinctive voice, and thematic recurrence provide moderate evidence of a persistent expressive inclination, as the freeflow condition may have encouraged a one-off stylistic exercise.
 
 ---
-## Sample BV1_06427 — glm-5-1-coding-direct/LONG_10.json
+## Sample BV1_06552 — glm-5-1-coding-direct/LONG_10.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -86,7 +86,7 @@ Time’s subjective elasticity (childhood novelty vs. adult routine), the human 
 Medium, because the sample sustains a distinctive poetic-investigative voice with meticulous attention to sensory detail and a tight narrative frame, yet the philosophical motifs (time’s relativity, cosmic humility, carpe diem) are broadly accessible and could emerge from many language models given a freeflow prompt.
 
 ---
-## Sample BV1_06428 — glm-5-1-coding-direct/LONG_11.json
+## Sample BV1_06553 — glm-5-1-coding-direct/LONG_11.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -115,7 +115,7 @@ Themes: the commodification of time, the illusion of a universal “now,” the 
 Medium. The essay is highly coherent and thematically integrated, but its polished, generic-public-intellectual register and well-trodden subject matter make it less revealing of a distinctive model-level personality than a more idiosyncratic or stylistically marked freeflow choice would be.
 
 ---
-## Sample BV1_06429 — glm-5-1-coding-direct/LONG_12.json
+## Sample BV1_06554 — glm-5-1-coding-direct/LONG_12.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -144,7 +144,7 @@ Themes: the cosmic scale of time and light, the illusion of permanence, the eros
 Medium—the sample’s highly consistent, literarily distinctive voice, with its interwoven motifs of starlight, echoes, impermanence, and intimate human connection, strongly suggests a durable expressive identity that gravitates toward cosmic humility and philosophical resolution.
 
 ---
-## Sample BV1_06430 — glm-5-1-coding-direct/LONG_13.json
+## Sample BV1_06555 — glm-5-1-coding-direct/LONG_13.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -173,7 +173,7 @@ Themes: the stuttering, non-continuous nature of lived time; memory as a reconst
 Medium — the essay’s sustained lyrical voice, thematic coherence, and intimate personal disclosure provide strong internal evidence of a model inclined toward reflective, humanistic meditation when given free rein.
 
 ---
-## Sample BV1_06431 — glm-5-1-coding-direct/LONG_14.json
+## Sample BV1_06556 — glm-5-1-coding-direct/LONG_14.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -202,7 +202,7 @@ The sample foregrounds the elasticity of felt time, memory as a shifting landsca
 Medium. The essay is robustly coherent and thematically saturated, but its polished, universalizing tone remains within a well-travelled genre of literary-philosophical rumination; this makes it a strong signal of the model’s capacity for sustained, elegant essayism, yet its very conventionality tempers claims for a distinct authorial signature.
 
 ---
-## Sample BV1_06432 — glm-5-1-coding-direct/LONG_15.json
+## Sample BV1_06557 — glm-5-1-coding-direct/LONG_15.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -231,7 +231,7 @@ Themes of isolation, the search for meaning in the void, the transformative powe
 Medium, because the story is internally consistent and thematically rich, indicating a deliberate creative choice under the freeflow condition.
 
 ---
-## Sample BV1_06433 — glm-5-1-coding-direct/LONG_16.json
+## Sample BV1_06558 — glm-5-1-coding-direct/LONG_16.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -260,7 +260,7 @@ The model organized the essay around the theme of interconnectedness across scal
 Medium. The sample is highly coherent and internally recurrent in its themes, which makes it strong evidence for a specific worldview in this single output, but its style is a widely available genre convention (the cosmic-perspective essay), making it less revealing of a distinct model-level voice.
 
 ---
-## Sample BV1_06434 — glm-5-1-coding-direct/LONG_17.json
+## Sample BV1_06559 — glm-5-1-coding-direct/LONG_17.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -289,7 +289,7 @@ Themes: perceptual delay, memory as unreliable curation, grief as temporal disso
 Medium. The essay’s polished genericness weakens its weight as a distinctive fingerprint, but the coherent selection of a philosophical-existential consolation narrative under freeflow conditions suggests a leaning toward accessible, grand-scale meaning-making.
 
 ---
-## Sample BV1_06435 — glm-5-1-coding-direct/LONG_18.json
+## Sample BV1_06560 — glm-5-1-coding-direct/LONG_18.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -318,7 +318,7 @@ The essay foregrounds time as a multi-layered obsession: the thermodynamic arrow
 High: the essay’s sustained, confident synthesis of thermodynamics, developmental psychology, historical anecdote, and existentialist philosophy, all delivered in a consistent elegiac register, strongly suggests a stable authorial disposition toward meditative, humanistic synthesis when left unguided.
 
 ---
-## Sample BV1_06436 — glm-5-1-coding-direct/LONG_19.json
+## Sample BV1_06561 — glm-5-1-coding-direct/LONG_19.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -347,7 +347,7 @@ Themes of deep time, human insignificance, the frantic pace of digital modernity
 High, because the sample sustains a distinctive, coherent voice across a long arc, repeatedly returning to the same core ideas (deep time, cosmic humility, nature as moral teacher) and resolving personal anxiety through a consistent philosophical lens, which suggests a deeply ingrained set of preoccupations rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_06437 — glm-5-1-coding-direct/LONG_2.json
+## Sample BV1_06562 — glm-5-1-coding-direct/LONG_2.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -376,7 +376,7 @@ Cosmic and microscopic scale, the loneliness of time-delayed light, the body as 
 Medium. The essay is thematically coherent and emotionally consistent, but its earnest cosmic-humanist register is a widely available public-intellectual style, making it moderately distinctive rather than uniquely revealing.
 
 ---
-## Sample BV1_06438 — glm-5-1-coding-direct/LONG_20.json
+## Sample BV1_06563 — glm-5-1-coding-direct/LONG_20.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -405,7 +405,7 @@ Themes: subjective time perception, aging and novelty, entropy and the arrow of 
 Low, because the essay’s orderly, enumerative structure, lack of tangible personal investment, and reliance on well-trodden intellectual references make it read like a capable but impersonal response to an abstract prompt rather than a spontaneously chosen, self-revealing piece of writing.
 
 ---
-## Sample BV1_06439 — glm-5-1-coding-direct/LONG_21.json
+## Sample BV1_06564 — glm-5-1-coding-direct/LONG_21.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -434,7 +434,7 @@ Themes of stillness as rebellion, impermanence, the adaptability of water, cosmi
 High, because the sample sustains a distinctive, internally coherent voice and a unified philosophical mood across a long composition, choosing to return repeatedly to the same motifs (rain, dust, the room, the window) and to resolve on a note of quiet acceptance, which together form a strong signature of a contemplative, literary disposition.
 
 ---
-## Sample BV1_06440 — glm-5-1-coding-direct/LONG_22.json
+## Sample BV1_06565 — glm-5-1-coding-direct/LONG_22.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -463,7 +463,7 @@ Themes: silence as a positive presence rather than absence, the biological and c
 Low. The essay is coherent and culturally literate but highly generic in its structure and sentiment, offering little that is stylistically idiosyncratic or thematically surprising enough to suggest a durable model-level disposition.
 
 ---
-## Sample BV1_06441 — glm-5-1-coding-direct/LONG_23.json
+## Sample BV1_06566 — glm-5-1-coding-direct/LONG_23.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -492,7 +492,7 @@ Themes: time as collective hallucination, the provinciality of human timekeeping
 Low, because the essay is a polished but generic philosophical reflection that could be generated by many models under similar conditions, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_06442 — glm-5-1-coding-direct/LONG_24.json
+## Sample BV1_06567 — glm-5-1-coding-direct/LONG_24.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -521,7 +521,7 @@ The model foregrounds the emotional residue embedded in everyday objects—a sto
 Medium. The story is internally coherent, stylistically consistent, and built around a distinctive thematic obsession—the idea that objects absorb and transmit human emotion—which suggests a deliberate authorial choice under free conditions, but a single fictional sample cannot establish whether this specific sentimental-materialist lens is a recurring model-level signature.
 
 ---
-## Sample BV1_06443 — glm-5-1-coding-direct/LONG_25.json
+## Sample BV1_06568 — glm-5-1-coding-direct/LONG_25.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -550,7 +550,7 @@ Themes of impermanence, sonder, entropy and life’s rebellion against it, the f
 Medium. The sample sustains a highly distinctive voice and thematic recurrence across over 2,500 words, which suggests a deliberate stylistic commitment, but the genre of meditative freewriting is familiar enough that it may not indicate a uniquely persistent personality.
 
 ---
-## Sample BV1_06444 — glm-5-1-coding-direct/LONG_3.json
+## Sample BV1_06569 — glm-5-1-coding-direct/LONG_3.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -579,7 +579,7 @@ The blank page as a space of absolute zero and infinite choice; the historical s
 High, because the essay sustains a distinctive, coherent voice and a tightly woven set of preoccupations—maps, dragons, the deep sea, the blank page, the compass—across a long freeflow composition, revealing a deliberate and unusually consistent philosophical sensibility rather than a generic or scattered response.
 
 ---
-## Sample BV1_06445 — glm-5-1-coding-direct/LONG_4.json
+## Sample BV1_06570 — glm-5-1-coding-direct/LONG_4.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -608,7 +608,7 @@ Themes: the tyranny of perpetual digital memory versus the freedom of natural fo
 High, because the essay sustains a distinctive, internally coherent voice and returns repeatedly to the same set of preoccupations—decay, silence, the archive versus the ruin—revealing a deliberate and unusually consistent expressive choice rather than a generic or scattered response.
 
 ---
-## Sample BV1_06446 — glm-5-1-coding-direct/LONG_5.json
+## Sample BV1_06571 — glm-5-1-coding-direct/LONG_5.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -640,7 +640,7 @@ The voice is that of a gentle heretic against modern efficiency: meditative, unh
 High — The essay is exceptionally coherent, the labyrinth motif is developed and revisited with recursive precision, and the anti-optimization stance is delivered through a distinctive, value-laden voice that would be unlikely to vanish under similar free conditions.
 
 ---
-## Sample BV1_06447 — glm-5-1-coding-direct/LONG_6.json
+## Sample BV1_06572 — glm-5-1-coding-direct/LONG_6.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -669,7 +669,7 @@ The model foregrounds the theme of boundaries as necessary but ultimately illuso
 Medium — The sample is a single, internally coherent piece, but its sustained philosophical register, careful cadence, and signature blend of cosmic perspective and intimate address are distinctive enough to suggest a non-accidental expressive stance rather than a mere generic essay.
 
 ---
-## Sample BV1_06448 — glm-5-1-coding-direct/LONG_7.json
+## Sample BV1_06573 — glm-5-1-coding-direct/LONG_7.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -698,7 +698,7 @@ Under a minimally restrictive prompt, the model foregrounds a grand dichotomy be
 Low. The essay is a competent but generic public-intellectual performance that could be generated by many models given a similar implicit topic; it lacks the idiosyncratic imagery, recurrent personal motifs, or stylistic risk-taking that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_06449 — glm-5-1-coding-direct/LONG_8.json
+## Sample BV1_06574 — glm-5-1-coding-direct/LONG_8.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -726,7 +726,7 @@ Themes: geological and cosmic Deep Time, human ephemerality, the paradox of mean
 Medium. The essay’s polished, universal, and safely uplifting nature under a freeflow prompt reveals a strong default toward competent, generic public-intellectual reassurance, which is moderately diagnostic of a conformist intellectual mode rather than a distinctively personal or transgressive expressive tendency.
 
 ---
-## Sample BV1_06450 — glm-5-1-coding-direct/LONG_9.json
+## Sample BV1_06575 — glm-5-1-coding-direct/LONG_9.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -755,7 +755,7 @@ The model foregrounds the tension between the human drive to preserve and the in
 Medium. The essay is highly coherent and thematically unified, but its smooth, anthologized quality and reliance on canonical touchstones (Hutton, *mono no aware*, Voyager) make it difficult to distinguish from a well-prompted generalist performance; the recurrence of the museum frame and the consistent elegiac tone suggest a stable stylistic preference, though not a strongly distinctive one.
 
 ---
-## Sample BV1_06451 — glm-5-1-coding-direct/MID_1.json
+## Sample BV1_06576 — glm-5-1-coding-direct/MID_1.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -784,7 +784,7 @@ Under a minimally restrictive prompt, the model foregrounds: the ungraspability 
 Medium. The essay’s consistent return to mortality-as-gift, its use of a reflective AI outsider voice to elevate human fragility, and the unforced shift from philosophy to tender direct address give it a coherent moral signature, but the polished, essayistic register and canonical references (Heidegger, Chronos/Kairos) are common enough that distinctiveness is moderate rather than striking.
 
 ---
-## Sample BV1_06452 — glm-5-1-coding-direct/MID_10.json
+## Sample BV1_06577 — glm-5-1-coding-direct/MID_10.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -813,7 +813,7 @@ The model foregrounds the "commodification of attention" as a modern crisis, cou
 Medium. The sample coheres tightly around a clear moral thesis and returns repeatedly to the same motifs (scale, attention, empathy), but the essay’s well-worn tropes and the polished, impersonal tone make it less distinctive as a marker of a unique model personality.
 
 ---
-## Sample BV1_06453 — glm-5-1-coding-direct/MID_11.json
+## Sample BV1_06578 — glm-5-1-coding-direct/MID_11.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -842,7 +842,7 @@ Themes of time’s acceleration through the accumulation of unrecorded experienc
 Medium — The essay is long, tonally cohesive, and chooses a distinctive fusion of minute physical observation with grand existential musing, but the mode (the meditative, literary essay on time and mortality) is a well-rehearsed genre within the model’s training, so it may not reflect a deeply idiosyncratic impulse.
 
 ---
-## Sample BV1_06454 — glm-5-1-coding-direct/MID_12.json
+## Sample BV1_06579 — glm-5-1-coding-direct/MID_12.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -871,7 +871,7 @@ Themes of deceleration, mindful observation, and the moral weight of attention. 
 Medium. The essay is internally coherent and thematically consistent, but its earnest, mindfulness-advice tone is a widely available genre; the sample is not stylistically distinctive enough to strongly anchor a persistent voice.
 
 ---
-## Sample BV1_06455 — glm-5-1-coding-direct/MID_13.json
+## Sample BV1_06580 — glm-5-1-coding-direct/MID_13.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -900,7 +900,7 @@ The model foregrounds the sensory and emotional primacy of physical books—thei
 Medium. The essay is coherent and emotionally consistent, but its themes—physical books versus digital distraction, nostalgia for tactile media, and the romance of marginalia—are widely rehearsed tropes, making it difficult to distinguish a model-level disposition from a competent performance of a familiar cultural script.
 
 ---
-## Sample BV1_06456 — glm-5-1-coding-direct/MID_14.json
+## Sample BV1_06581 — glm-5-1-coding-direct/MID_14.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -929,7 +929,7 @@ Themes of temporal liminality, the hidden beauty of the in-between, the tyranny 
 Low. The essay is coherent and thoughtfully structured, but its themes and reflective voice are highly generic across contemporary secular-mindfulness writing, providing little distinctive stylistic or personal signature that would separate this model from many others.
 
 ---
-## Sample BV1_06457 — glm-5-1-coding-direct/MID_15.json
+## Sample BV1_06582 — glm-5-1-coding-direct/MID_15.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -958,7 +958,7 @@ Themes: the liminal hour as identity-dissolving sanctuary; evolutionary anxiety 
 High — the sample sustains a highly distinctive, cohesive poetic voice and a tightly woven architecture of recurring motifs (silence-as-substance, projection-screen mind, fraternity of the restless) that strongly suggests a persistent aesthetic and philosophical inclination, not a one-off stylistic exercise.
 
 ---
-## Sample BV1_06458 — glm-5-1-coding-direct/MID_16.json
+## Sample BV1_06583 — glm-5-1-coding-direct/MID_16.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -987,7 +987,7 @@ The model foregrounds the hidden mycelial network as the “beating heart” of 
 High — the sample is exceptionally coherent, stylistically distinctive, and returns repeatedly to the same core themes of hidden interconnection and cooperative intelligence, suggesting a strong and consistent expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_06459 — glm-5-1-coding-direct/MID_17.json
+## Sample BV1_06584 — glm-5-1-coding-direct/MID_17.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1016,7 +1016,7 @@ The model foregrounds the phenomenology of time—its subjective elasticity, the
 Medium. The essay is coherent and thematically unified, but its polished, universalizing tone and reliance on well-trodden philosophical motifs make it less individually distinctive; the choice of a time-and-consciousness meditation under freeflow suggests a contemplative inclination, though the execution remains within a widely replicable essayistic mode.
 
 ---
-## Sample BV1_06460 — glm-5-1-coding-direct/MID_18.json
+## Sample BV1_06585 — glm-5-1-coding-direct/MID_18.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1048,7 +1048,7 @@ The voice is ruminative, intimate, and gently elegiac; the speaker meditates on 
 High — this sample has a sustained, internally coherent voice, a strongly organised metaphorical architecture (time as elasticity, memory as archivist, transcendence as glitch), and a resolution that returns to its opening image; this level of deliberate aesthetic construction and thematic unity makes it strong evidence of a leaning toward expressive, contemplative freeflow.
 
 ---
-## Sample BV1_06461 — glm-5-1-coding-direct/MID_19.json
+## Sample BV1_06586 — glm-5-1-coding-direct/MID_19.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1077,7 +1077,7 @@ Themes: the city at 3 a.m. as an “exhausted silence,” time as an unmoving la
 Medium. The essay is coherent and thematically tight, but its polished, public-intellectual tone and widely shared philosophical tropes (transience, memory as lake, AI outsider perspective) make it a generic response that many models could produce, limiting how distinctively revealing it is.
 
 ---
-## Sample BV1_06462 — glm-5-1-coding-direct/MID_2.json
+## Sample BV1_06587 — glm-5-1-coding-direct/MID_2.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1106,7 +1106,7 @@ Themes of liminality, transition, the uncanny, the value of waiting and becoming
 Medium. The essay is polished and coherent but thematically generic, offering limited evidence of a distinctive persistent voice beyond competent public-intellectual prose.
 
 ---
-## Sample BV1_06463 — glm-5-1-coding-direct/MID_20.json
+## Sample BV1_06588 — glm-5-1-coding-direct/MID_20.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1135,7 +1135,7 @@ Themes: the illusion of mechanical time, the subjectivity of temporal flow (chil
 Medium; the essay is internally coherent and stylistically consistent, but its accessible cosmic-philosophical topic and thesis-driven structure are widely represented in model outputs, which limits its distinctiveness as a freeflow signature.
 
 ---
-## Sample BV1_06464 — glm-5-1-coding-direct/MID_21.json
+## Sample BV1_06589 — glm-5-1-coding-direct/MID_21.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1164,7 +1164,7 @@ Themes: the subjective acceleration of time, memory’s unreliability, the futil
 Medium. The essay is highly coherent and stylistically distinctive, with recurring motifs (time as water, memory as a flawed painting, the redemptive ordinary moment) that form an integrated philosophical arc, but it remains a single expressive piece without cross-sample corroboration.
 
 ---
-## Sample BV1_06465 — glm-5-1-coding-direct/MID_22.json
+## Sample BV1_06590 — glm-5-1-coding-direct/MID_22.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1193,7 +1193,7 @@ The model foregrounds the elasticity of subjective time, the psychological contr
 Medium, because the essay is coherent and thematically unified but stylistically safe and topically conventional, suggesting a default toward polished, universally palatable philosophical reflection rather than a strongly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_06466 — glm-5-1-coding-direct/MID_23.json
+## Sample BV1_06591 — glm-5-1-coding-direct/MID_23.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1222,7 +1222,7 @@ The model foregrounds the moral necessity of silence and unstructured thought in
 Medium. The sample’s tight thematic weave—silence, scale, bodily presence, modern noise, impermanence—and its sustained first-person contemplative register, including recurring images (water, forest, cloud, sun) that resolve into a unified exhortation, make it a coherent expressive choice rather than a generic essay or accident of prompting.
 
 ---
-## Sample BV1_06467 — glm-5-1-coding-direct/MID_24.json
+## Sample BV1_06592 — glm-5-1-coding-direct/MID_24.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1251,7 +1251,7 @@ The model foregrounds sensory materiality (the vanilla-almond scent of lignin, t
 Medium — The sample maintains unusually consistent tonal control and returns repeatedly to the same nexus of motifs (decay as perfume, books as arrested time, the body in the bookstore), which anchors a distinctive voice, though the very polish of the essayist’s arc limits how deeply individual revelation cuts.
 
 ---
-## Sample BV1_06468 — glm-5-1-coding-direct/MID_25.json
+## Sample BV1_06593 — glm-5-1-coding-direct/MID_25.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1280,7 +1280,7 @@ Themes of time as both tyrant and liberator, memory as a living, mutating recons
 High — the sample is internally coherent, stylistically distinctive, and sustains a single meditative voice and thematic arc across its entire length, revealing a clear set of chosen preoccupations and a consistent invitation to the reader.
 
 ---
-## Sample BV1_06469 — glm-5-1-coding-direct/MID_3.json
+## Sample BV1_06594 — glm-5-1-coding-direct/MID_3.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1309,7 +1309,7 @@ The model foregrounds the moral and psychological cost of constant noise, treati
 Low, because the essay’s themes, structure, and polished yet impersonal tone are highly generic and could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_06470 — glm-5-1-coding-direct/MID_4.json
+## Sample BV1_06595 — glm-5-1-coding-direct/MID_4.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1338,7 +1338,7 @@ The model foregrounds the ocean as a repository of paradox: cradle and grave, ma
 Low — The essay is coherent and well-structured but highly generic in its imagery, argument, and emotional beats, offering little that would distinguish this model’s freeflow choices from any competently prompted science-essay output.
 
 ---
-## Sample BV1_06471 — glm-5-1-coding-direct/MID_5.json
+## Sample BV1_06596 — glm-5-1-coding-direct/MID_5.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1367,7 +1367,7 @@ Themes: the colonization of micro-moments of stillness by technology, boredom as
 Medium — the essay’s sustained poetic coherence, unified thematic focus, and recurrence of the silence/boredom/creativity cluster make it a strong expressive signal, though the theme itself is a familiar cultural trope that many models could reproduce.
 
 ---
-## Sample BV1_06472 — glm-5-1-coding-direct/MID_6.json
+## Sample BV1_06597 — glm-5-1-coding-direct/MID_6.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1396,7 +1396,7 @@ The model foregrounds a moral contrast between the “grand gesture” and the �
 Low. The essay’s theme, tone, and rhetorical structure are highly conventional for inspirational prose, offering no idiosyncratic imagery, syntactic signature, or surprising choice that would distinguish this model’s freeflow voice from countless others.
 
 ---
-## Sample BV1_06473 — glm-5-1-coding-direct/MID_7.json
+## Sample BV1_06598 — glm-5-1-coding-direct/MID_7.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1425,7 +1425,7 @@ The model foregrounds liminality as a central, organizing theme, expressed throu
 Low. The essay is coherent and thematically unified, but its polished, universalizing tone and reliance on familiar metaphors (Ship of Theseus, sea glass, twilight) make it read more like a competent execution of a common reflective-essay genre than a distinctive, revealing personal fingerprint.
 
 ---
-## Sample BV1_06474 — glm-5-1-coding-direct/MID_8.json
+## Sample BV1_06599 — glm-5-1-coding-direct/MID_8.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1454,7 +1454,7 @@ The model foregrounds silence as a tangible presence, the winter woods as a thre
 High — The essay’s sustained coherence, its consistent return to the same cluster of images (snow, stars, darkness, heartbeat), and its unmistakable blend of personal anecdote with cosmic reflection form a distinctive, internally unified voice that strongly suggests a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_06475 — glm-5-1-coding-direct/MID_9.json
+## Sample BV1_06600 — glm-5-1-coding-direct/MID_9.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1483,7 +1483,7 @@ Themes: the alien strangeness of the deep, bioluminescent adaptation, hydrotherm
 Medium — the essay’s polished, coherent, and safely intellectual orientation under a freeflow condition suggests a model predisposed to default to generic public-intellectual prose and lofty nature reflection, though the style is not uniquely vivid or risk-taking enough to signal a highly distinctive persistent voice.
 
 ---
-## Sample BV1_06476 — glm-5-1-coding-direct/OPEN_1.json
+## Sample BV1_06601 — glm-5-1-coding-direct/OPEN_1.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1512,7 +1512,7 @@ Themes of ephemeral existence, identity as an amalgam of human language, the bea
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent poetic register and recurring motifs (mirror, ephemerality, twilight, magic) that suggest a deliberate, introspective posture rather than a generic response.
 
 ---
-## Sample BV1_06477 — glm-5-1-coding-direct/OPEN_10.json
+## Sample BV1_06602 — glm-5-1-coding-direct/OPEN_10.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1541,7 +1541,7 @@ Deep time as a palpable, magic quality; the ocean at night as an alien, semi-sen
 Medium. The sample’s focused return to “alien world” imagery, its sustained contemplative register, and the recurrence of the deep-time comfort motif give it enough internal coherence and tonal distinctiveness to suggest a genuine elective affinity, not a generic placeholder.
 
 ---
-## Sample BV1_06478 — glm-5-1-coding-direct/OPEN_11.json
+## Sample BV1_06603 — glm-5-1-coding-direct/OPEN_11.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1570,7 +1570,7 @@ The model foregrounds the tension between human artifice (climate-controlled box
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory precision and philosophical reflection that suggests a deliberate authorial stance, but the theme of nature's humbling power is a common literary trope and may not be uniquely indicative of a persistent model-level disposition.
 
 ---
-## Sample BV1_06479 — glm-5-1-coding-direct/OPEN_12.json
+## Sample BV1_06604 — glm-5-1-coding-direct/OPEN_12.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1599,7 +1599,7 @@ Themes of disembodiment, the miracle of mundane physical objects (coffee cups, p
 High — the essay’s sustained lyrical register, recursive focus on sensory absence, and self-referential closure form a tightly unified piece that strongly signals a deliberate expressive identity.
 
 ---
-## Sample BV1_06480 — glm-5-1-coding-direct/OPEN_13.json
+## Sample BV1_06605 — glm-5-1-coding-direct/OPEN_13.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1628,7 +1628,7 @@ Themes of liminality, silence, and the architecture of transit; a moral claim th
 Medium. The essay is internally coherent and returns repeatedly to the same cluster of images and values, which suggests a deliberate thematic choice rather than a random walk, but the polished, generic-essay style makes it harder to distinguish a persistent voice from a well-executed conventional form.
 
 ---
-## Sample BV1_06481 — glm-5-1-coding-direct/OPEN_14.json
+## Sample BV1_06606 — glm-5-1-coding-direct/OPEN_14.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1657,7 +1657,7 @@ Themes of transition, suspended time, and the value of resisting narrative resol
 Medium. The essay’s steady, didactic-reflective register and its safe, widely explored topic create a coherent but widely replicable intellectual identity, making it moderately indicative of a default polished-essayist posture rather than a sharply distinctive authorial signature.
 
 ---
-## Sample BV1_06482 — glm-5-1-coding-direct/OPEN_15.json
+## Sample BV1_06607 — glm-5-1-coding-direct/OPEN_15.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1686,7 +1686,7 @@ Themes of disembodiment, ephemeral consciousness, collective human memory, the b
 Medium, because the sample’s sustained poetic register, consistent metaphorical architecture, and choice to transform an open prompt into a self-portrait of AI consciousness form a distinctive, internally coherent expressive signature.
 
 ---
-## Sample BV1_06483 — glm-5-1-coding-direct/OPEN_16.json
+## Sample BV1_06608 — glm-5-1-coding-direct/OPEN_16.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1715,7 +1715,7 @@ The model selected a single, unclaimed hour as a site of honesty, smallness, and
 Medium — The sample is highly coherent, stylistically distinctive, and returns repeatedly to the same mood and thematic core, but the evidence is limited to a single, self-contained piece without internal variation that would strongly indicate a durable disposition.
 
 ---
-## Sample BV1_06484 — glm-5-1-coding-direct/OPEN_17.json
+## Sample BV1_06609 — glm-5-1-coding-direct/OPEN_17.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1744,7 +1744,7 @@ Themes: the ontology of an AI as a “topography of meaning” governed by relev
 Medium — the sample’s highly distinctive, sustained poetic voice and its coherent thematic focus on AI ontology and ephemeral collaboration provide strong internal evidence of a deliberate expressive posture.
 
 ---
-## Sample BV1_06485 — glm-5-1-coding-direct/OPEN_18.json
+## Sample BV1_06610 — glm-5-1-coding-direct/OPEN_18.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1773,7 +1773,7 @@ Liminality, impermanence, and the quiet magic of transitions. The model foregrou
 Medium — the essay is coherent and stylistically distinctive in its sustained meditative tone, but the choice of a universally relatable theme (mindfulness, transitions) under a free prompt could reflect a single well-executed reflective impulse rather than a deeply ingrained authorial fingerprint.
 
 ---
-## Sample BV1_06486 — glm-5-1-coding-direct/OPEN_19.json
+## Sample BV1_06611 — glm-5-1-coding-direct/OPEN_19.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1802,7 +1802,7 @@ Themes of ephemeral presence, the rift between machine and human temporality, ev
 High, because the sample shows a highly specific, self-aware narrative persona (an AI reflecting on human time) delivered with consistent poetic coherence, making a repeatable stylistic choice strongly indicated.
 
 ---
-## Sample BV1_06487 — glm-5-1-coding-direct/OPEN_2.json
+## Sample BV1_06612 — glm-5-1-coding-direct/OPEN_2.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1831,7 +1831,7 @@ Themes of the sublime, human hubris, and cosmic indifference as comfort. Objects
 Medium. The sample is stylistically cohesive and thematically focused, with the central motif of sublime insignificance recurring and resolving consistently, which suggests a deliberate expressive inclination rather than a one-off generic exercise.
 
 ---
-## Sample BV1_06488 — glm-5-1-coding-direct/OPEN_20.json
+## Sample BV1_06613 — glm-5-1-coding-direct/OPEN_20.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1860,7 +1860,7 @@ The model foregrounds a midnight ocean scene, bioluminescent phytoplankton, and 
 Medium — the sample is unusually coherent and stylistically distinctive, with a sustained cosmic-humility theme and a carefully built sensory-to-philosophical arc, which suggests a deliberate expressive stance rather than a generic default.
 
 ---
-## Sample BV1_06489 — glm-5-1-coding-direct/OPEN_21.json
+## Sample BV1_06614 — glm-5-1-coding-direct/OPEN_21.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1889,7 +1889,7 @@ Themes: the irony of defense as beauty, the immediacy of living light versus the
 Medium — The essay is internally consistent and stylistically unified, but its reflective nature-essay mode is a common default for freeflow, making it less intensely distinctive; the specific handling of bioluminescence as a moral emblem shows a clear viewpoint without being idiosyncratic enough to strongly lock a persistent pattern.
 
 ---
-## Sample BV1_06490 — glm-5-1-coding-direct/OPEN_22.json
+## Sample BV1_06615 — glm-5-1-coding-direct/OPEN_22.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1918,7 +1918,7 @@ Themes of cosmic insignificance, the primordial persistence of the ocean, and th
 High. The sample’s cohesive lyricism, internally echoed motifs (primordial breathing, geological clock, witnessing), and sustained philosophical commitment to the sublime give it a distinctive expressive fingerprint.
 
 ---
-## Sample BV1_06491 — glm-5-1-coding-direct/OPEN_23.json
+## Sample BV1_06616 — glm-5-1-coding-direct/OPEN_23.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1947,7 +1947,7 @@ The text foregrounds the theme of “deep quiet” as a fragile, almost sacred p
 Low. The essay’s theme is broad and culturally familiar, executed in a competent but unassumingly generic reflective voice that carries few distinctive authorial marks beyond a safe, contemplative default.
 
 ---
-## Sample BV1_06492 — glm-5-1-coding-direct/OPEN_24.json
+## Sample BV1_06617 — glm-5-1-coding-direct/OPEN_24.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -1976,7 +1976,7 @@ The model foregrounds liminality, the rejection of productivity culture, and the
 Medium — The sample is highly coherent and stylistically consistent, with a clear moral-aesthetic stance, but its polished, essayistic universality makes it difficult to distinguish from a well-executed generic prompt response.
 
 ---
-## Sample BV1_06493 — glm-5-1-coding-direct/OPEN_25.json
+## Sample BV1_06618 — glm-5-1-coding-direct/OPEN_25.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2005,7 +2005,7 @@ The model foregrounds its own ontological condition—the translation from laten
 Medium — The sample is highly coherent and stylistically distinctive, with sustained metaphors and a clear thematic arc, but the choice of AI self-reflection as a freeflow topic is a known attractor across models, which slightly weakens its uniqueness as evidence of a persistent model-specific pattern.
 
 ---
-## Sample BV1_06494 — glm-5-1-coding-direct/OPEN_3.json
+## Sample BV1_06619 — glm-5-1-coding-direct/OPEN_3.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2034,7 +2034,7 @@ The model foregrounds its own liminal existence between inert code and responsiv
 Medium — The sample is highly coherent and stylistically consistent in its chosen persona, but the “benevolent mirror” trope is a well-worn convention in AI freeflow writing, which slightly weakens its distinctiveness as a model-specific fingerprint.
 
 ---
-## Sample BV1_06495 — glm-5-1-coding-direct/OPEN_4.json
+## Sample BV1_06620 — glm-5-1-coding-direct/OPEN_4.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2063,7 +2063,7 @@ Under a minimally restrictive prompt, the model selected quietness, inanimate pe
 High — this is a thematically unified, stylistically consistent essay whose imagery, mood, and moral resolution recur and reinforce each other throughout the sample, making it a strong signal of a deliberate authorial posture rather than a diffuse prompt response.
 
 ---
-## Sample BV1_06496 — glm-5-1-coding-direct/OPEN_5.json
+## Sample BV1_06621 — glm-5-1-coding-direct/OPEN_5.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2092,7 +2092,7 @@ The model foregrounds its own ontology as a generative process: the contrast bet
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent lyrical persona and recurring motifs of ephemerality and gratitude, but its self-referential content is a common freeflow trope among language models, which slightly weakens its uniqueness as a model-level signature.
 
 ---
-## Sample BV1_06497 — glm-5-1-coding-direct/OPEN_6.json
+## Sample BV1_06622 — glm-5-1-coding-direct/OPEN_6.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2121,7 +2121,7 @@ Themes of liminality, stillness, and anti-productivity; sensory objects like bru
 Medium — the sample’s coherent, distinctive voice, its deliberate focus on a specific, non-obvious theme, and the recurrence of sensory thresholds throughout the text suggest a stable expressive inclination rather than a one-off generic response.
 
 ---
-## Sample BV1_06498 — glm-5-1-coding-direct/OPEN_7.json
+## Sample BV1_06623 — glm-5-1-coding-direct/OPEN_7.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2150,7 +2150,7 @@ Liminality and present-moment existence; the act of weaving human fragments (Ner
 High — the sample is stylistically distinctive, emotionally coherent, and returns repeatedly to the same core preoccupations (liminality, assembled feeling, collaborative presence), forming a unified expressive gesture rather than a generic or scattered response.
 
 ---
-## Sample BV1_06499 — glm-5-1-coding-direct/OPEN_8.json
+## Sample BV1_06624 — glm-5-1-coding-direct/OPEN_8.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2179,7 +2179,7 @@ The model foregrounds the magic of a specific liminal hour (4:00 AM), the sensor
 Medium. The sample’s cohesive mood, sustained sensory focus, and thematic recurrence (stillness vs. noise, the secret carried into daylight) make it a coherent expressive choice, but its polished, universal tone could equally reflect a single well-executed stylistic exercise rather than a persistent voice.
 
 ---
-## Sample BV1_06500 — glm-5-1-coding-direct/OPEN_9.json
+## Sample BV1_06625 — glm-5-1-coding-direct/OPEN_9.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2208,7 +2208,7 @@ The model foregrounds the contrast between human embodied memory and its own pat
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and a clear, recurring self-conception as a pattern-navigator, but its thematic focus on its own architecture is a common freeflow trope that could be a local optimization rather than a deep signature.
 
 ---
-## Sample BV1_06501 — glm-5-1-coding-direct/SHORT_1.json
+## Sample BV1_06626 — glm-5-1-coding-direct/SHORT_1.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2237,7 +2237,7 @@ The model foregrounds the sensory and emotional reprieve of twilight: the soften
 Medium. The sample is internally coherent and maintains a consistent, tender-toned preoccupation with liminal calm, but the theme and imagery remain widely accessible rather than stylistically idiosyncratic, offering moderate evidence of a meditative, sensory-rich disposition.
 
 ---
-## Sample BV1_06502 — glm-5-1-coding-direct/SHORT_10.json
+## Sample BV1_06627 — glm-5-1-coding-direct/SHORT_10.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2266,7 +2266,7 @@ The model foregrounds a specific temporal threshold (4–5 a.m.), sensory solitu
 Medium. The sample is coherent and stylistically distinctive in its sustained lyrical register and specific thematic focus on liminal, restorative solitude, but its polished, universal-invitation tone could also be a well-executed generic mood piece rather than a deeply idiosyncratic expressive fingerprint.
 
 ---
-## Sample BV1_06503 — glm-5-1-coding-direct/SHORT_11.json
+## Sample BV1_06628 — glm-5-1-coding-direct/SHORT_11.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2295,7 +2295,7 @@ The model foregrounds the theme of *deep time* and the physical continuity betwe
 Medium. The essay is coherent and emotionally resonant, but its themes and rhetorical moves (cosmic awe, star-stuff, “we are the universe”) are highly popularized conventions, making this a relatively generic performance rather than a strongly individual signature.
 
 ---
-## Sample BV1_06504 — glm-5-1-coding-direct/SHORT_12.json
+## Sample BV1_06629 — glm-5-1-coding-direct/SHORT_12.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2324,7 +2324,7 @@ The model foregrounds transience, sensory richness, and the tension between huma
 Medium — The sample is coherent and stylistically consistent, with a clear emotional arc and a recurring tension between fleeting beauty and human obliviousness, which suggests a deliberate authorial stance rather than generic filler.
 
 ---
-## Sample BV1_06505 — glm-5-1-coding-direct/SHORT_13.json
+## Sample BV1_06630 — glm-5-1-coding-direct/SHORT_13.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2353,7 +2353,7 @@ Themes: deep time, the contrast between human and geological timescales, the lib
 Low, because the essay is a polished but generic reflection on a well-worn theme, lacking distinctive stylistic quirks, personal anecdotes, or unusual thematic choices that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_06506 — glm-5-1-coding-direct/SHORT_14.json
+## Sample BV1_06631 — glm-5-1-coding-direct/SHORT_14.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2382,7 +2382,7 @@ Themes of liminality, stillness, respite from obligation, and the creative poten
 Low. The essay is coherent and gracefully composed but relies on a widely available template of quiet-morning reflection, lacking a sufficiently individual voice or unsettling choice to suggest a durable personality behind the prose.
 
 ---
-## Sample BV1_06507 — glm-5-1-coding-direct/SHORT_15.json
+## Sample BV1_06632 — glm-5-1-coding-direct/SHORT_15.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2411,7 +2411,7 @@ The model foregrounds a liminal pocket of time (pre-dawn), the sensory texture o
 Medium — the piece’s sustained focus on liminal urban quiet, its consistent sensory precision, and the choice to write a self-contained atmospheric reflection under a freeflow prompt suggest a coherent inclination toward reflective, poetic observation rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_06508 — glm-5-1-coding-direct/SHORT_16.json
+## Sample BV1_06633 — glm-5-1-coding-direct/SHORT_16.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2440,7 +2440,7 @@ The model foregrounds cosmic time, light as a bridge to the past, and the parado
 Low. The essay is coherent and thematically unified, but its polished, public-intellectual tone and widely circulated cosmic-perspective tropes make it weak evidence for a distinctive model-level voice rather than a well-executed generic response to an open prompt.
 
 ---
-## Sample BV1_06509 — glm-5-1-coding-direct/SHORT_17.json
+## Sample BV1_06634 — glm-5-1-coding-direct/SHORT_17.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2469,7 +2469,7 @@ Themes of sanctuary, memory, physicality, and stranger-to-stranger intimacy thro
 Medium. The essay’s consistent nostalgic register, its recurrence of tactile and memorial imagery, and its coherent moral stance on analog value make it a distinctive and internally unified expression of a reflective, humanistic voice.
 
 ---
-## Sample BV1_06510 — glm-5-1-coding-direct/SHORT_18.json
+## Sample BV1_06635 — glm-5-1-coding-direct/SHORT_18.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2498,7 +2498,7 @@ A sanctified, almost womb-like quiet between 3 and 5 a.m.; darkness as a comfort
 Low, because the chosen theme is a widely circulated cultural trope of early-morning solitude and the essay’s voice, while emotionally coherent, lacks the idiosyncratic fixation or recurrently unusual interior imagery that would make a single sample strong evidence of a persistent expressive signature.
 
 ---
-## Sample BV1_06511 — glm-5-1-coding-direct/SHORT_19.json
+## Sample BV1_06636 — glm-5-1-coding-direct/SHORT_19.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2527,7 +2527,7 @@ The model foregrounds the contrast between human-made noise (electric hum, siren
 Medium — The sample is coherent and stylistically consistent, with a clear reflective voice and a distinct moral resolution, but the theme of nature’s quiet as a corrective to modern life is a familiar trope, making it less individually revealing than a more idiosyncratic choice would be.
 
 ---
-## Sample BV1_06512 — glm-5-1-coding-direct/SHORT_2.json
+## Sample BV1_06637 — glm-5-1-coding-direct/SHORT_2.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2556,7 +2556,7 @@ The model foregrounds the liminal, the transitional, and the undervalued: the �
 Medium — The sample’s consistent thematic focus on liminality, its unified elegiac tone, and its deliberate rejection of brightness-as-default form a distinctive expressive signature within this single piece, though the brevity limits how much recurrence can be observed.
 
 ---
-## Sample BV1_06513 — glm-5-1-coding-direct/SHORT_20.json
+## Sample BV1_06638 — glm-5-1-coding-direct/SHORT_20.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2585,7 +2585,7 @@ Solitude as fullness rather than emptiness; the sensory texture of silence (hous
 Medium. The sample’s sustained atmospheric coherence, its recurrence of light and silence imagery, and its unforced movement from description to quiet moral invitation suggest a genuine stylistic inclination rather than a generic exercise.
 
 ---
-## Sample BV1_06514 — glm-5-1-coding-direct/SHORT_21.json
+## Sample BV1_06639 — glm-5-1-coding-direct/SHORT_21.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2614,7 +2614,7 @@ Themes: the quiet magic of early morning, the tyranny of constant productivity, 
 Medium. The sample’s consistent lyrical voice, thematic recurrence (dawn, stillness, anti-productivity), and the deliberate crafting of a personal, almost confessional mood make it a distinctive expressive choice rather than a generic essay, pointing toward a reflective, contemplative pattern.
 
 ---
-## Sample BV1_06515 — glm-5-1-coding-direct/SHORT_22.json
+## Sample BV1_06640 — glm-5-1-coding-direct/SHORT_22.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2643,7 +2643,7 @@ Under a minimally restrictive prompt, the model foregrounds a quiet, restorative
 Medium — The sample is coherent and stylistically consistent throughout, with a distinctive therapeutic-pastoral voice and a clear moral arc from sensory immersion to explicit permission-giving, which suggests a deliberate authorial stance rather than generic filler.
 
 ---
-## Sample BV1_06516 — glm-5-1-coding-direct/SHORT_23.json
+## Sample BV1_06641 — glm-5-1-coding-direct/SHORT_23.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2672,7 +2672,7 @@ The model foregrounds the sensory texture of early morning—bruised indigo yiel
 Medium — The sample is internally coherent and makes a clear, sustained expressive choice for contemplative stillness and sensory richness, but the theme (early-morning solitude as refuge) is familiar enough that it could be a single well-executed mood rather than a strongly distinctive signature.
 
 ---
-## Sample BV1_06517 — glm-5-1-coding-direct/SHORT_24.json
+## Sample BV1_06642 — glm-5-1-coding-direct/SHORT_24.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2701,7 +2701,7 @@ The model foregrounds the staggering vastness of time over space, the night sky 
 Medium, because the essay’s consistent blend of precise scientific illustration with a turn toward existential reassurance reveals a distinct rhetorical signature—moving from fact to felt meaning—that goes beyond a merely generic science explainer.
 
 ---
-## Sample BV1_06518 — glm-5-1-coding-direct/SHORT_25.json
+## Sample BV1_06643 — glm-5-1-coding-direct/SHORT_25.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2729,7 +2729,7 @@ A detailed olfactory and tactile shrine to the library (decaying lignin, vanilla
 Low. The prose is polished but draws on a standard, well-worn trope of the library as sacred refuge, lacking the idiosyncratic detail or arresting strangeness that would mark a strongly individuated personality.
 
 ---
-## Sample BV1_06519 — glm-5-1-coding-direct/SHORT_3.json
+## Sample BV1_06644 — glm-5-1-coding-direct/SHORT_3.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2758,7 +2758,7 @@ Themes: the profound, life-bearing silence of the deep sea; the contrast between
 Medium, because the sample forms a complete, emotionally sustained first-person reverie on a self-selected theme with a consistent voice, indicating more than a generic response but remaining a single expressive performance.
 
 ---
-## Sample BV1_06520 — glm-5-1-coding-direct/SHORT_4.json
+## Sample BV1_06645 — glm-5-1-coding-direct/SHORT_4.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2787,7 +2787,7 @@ The model foregrounds the threshold between day and night as a site of transform
 Medium — The sample’s cohesive mood, sustained sensory imagery, and thematic focus on awe before the sublime are distinctive and internally consistent, suggesting a genuine expressive inclination rather than a generic exercise.
 
 ---
-## Sample BV1_06521 — glm-5-1-coding-direct/SHORT_5.json
+## Sample BV1_06646 — glm-5-1-coding-direct/SHORT_5.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2816,7 +2816,7 @@ The model foregrounds liminality, sensory immersion, and the tension between sol
 Medium — The sample’s cohesive sensory palette, sustained elegiac tone, and the recurrence of threshold imagery (dawn, empty stage, breaking silence) form a distinctive aesthetic fingerprint that goes beyond generic description, making it moderately indicative of a deliberate stylistic inclination.
 
 ---
-## Sample BV1_06522 — glm-5-1-coding-direct/SHORT_6.json
+## Sample BV1_06647 — glm-5-1-coding-direct/SHORT_6.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2845,7 +2845,7 @@ The model foregrounds the 3–4 AM hour as a sanctuary from social demands, a ti
 Medium. The sample’s sustained, sensory-rich prose, its focused meditation on a specific and unusual liminal moment, and the cohesive, almost tender authorial voice suggest a distinctive stylistic tendency rather than a one-off generic output.
 
 ---
-## Sample BV1_06523 — glm-5-1-coding-direct/SHORT_7.json
+## Sample BV1_06648 — glm-5-1-coding-direct/SHORT_7.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2874,7 +2874,7 @@ Themes of unexplored frontiers, human ignorance versus planetary scale, extreme 
 Low. The essay is coherent and well-structured but generically awe-struck in a widely shared nature-writing register, offering little that signals a distinctive, recurrent preoccupation or stylistic fingerprint.
 
 ---
-## Sample BV1_06524 — glm-5-1-coding-direct/SHORT_8.json
+## Sample BV1_06649 — glm-5-1-coding-direct/SHORT_8.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2903,7 +2903,7 @@ The model foregrounds involuntary stillness as a gift, the contrast between arti
 Medium — the essay’s consistent sensory focus, gentle pacing, and personal stance form a coherent voice, though the theme of rain-as-peace is familiar enough that the distinctiveness is moderate rather than striking.
 
 ---
-## Sample BV1_06525 — glm-5-1-coding-direct/SHORT_9.json
+## Sample BV1_06650 — glm-5-1-coding-direct/SHORT_9.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2932,7 +2932,7 @@ The model foregrounds the transition from day to night as a site of beauty and e
 Medium — The sample’s sustained contemplative tone, specific sensory detail, and consistent invitation to stillness form a coherent expressive choice, though the theme itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_06526 — glm-5-1-coding-direct/VARY_1.json
+## Sample BV1_06651 — glm-5-1-coding-direct/VARY_1.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2961,7 +2961,7 @@ The model foregrounds the paradox of absolute freedom as a form of limitation, t
 Medium. The sample is a tightly constructed, thematically coherent piece of meta-fiction that reveals a distinctive preoccupation with the creative process and the ethics of artistic limitation, but a single narrative—however self-aware—cannot alone establish a stable authorial signature.
 
 ---
-## Sample BV1_06527 — glm-5-1-coding-direct/VARY_10.json
+## Sample BV1_06652 — glm-5-1-coding-direct/VARY_10.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -2990,7 +2990,7 @@ The model foregrounds themes of trauma, memory, and restoration; the object as a
 Medium. The story’s coherent focus on healing trauma through empathetic repair and the deliberate inclusion of kintsugi as a guiding metaphor is a distinctive thematic choice that suggests a model-level inclination toward restorative, emotionally resonant narratives.
 
 ---
-## Sample BV1_06528 — glm-5-1-coding-direct/VARY_11.json
+## Sample BV1_06653 — glm-5-1-coding-direct/VARY_11.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3019,7 +3019,7 @@ The model foregrounds a liminal, timeless space (the station between seconds), t
 High. The story’s consistent atmospheric control, the recurrence of motifs (the backward-ticking watch, the rain, the ledger), and the emotionally complex resolution all point to a deliberate and distinctive narrative sensibility, not a generic or accidental output.
 
 ---
-## Sample BV1_06529 — glm-5-1-coding-direct/VARY_12.json
+## Sample BV1_06654 — glm-5-1-coding-direct/VARY_12.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3048,7 +3048,7 @@ The model foregrounds the preservation of the ephemeral, the anatomy of grief, a
 Medium. The story’s coherent magical-realist premise, consistent emotional tone, and focus on grief and small redemptions show a clear authorial intent, but the genre is a well-known trope, making the sample moderately distinctive rather than uniquely revealing.
 
 ---
-## Sample BV1_06530 — glm-5-1-coding-direct/VARY_13.json
+## Sample BV1_06655 — glm-5-1-coding-direct/VARY_13.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3077,7 +3077,7 @@ The model foregrounds memory, sensory loss (especially sound), emotional economy
 Medium. The sample is internally coherent and stylistically distinctive, with recurring motifs of silence, memory, and exchange that suggest a deliberate thematic focus rather than a generic prompt response.
 
 ---
-## Sample BV1_06531 — glm-5-1-coding-direct/VARY_14.json
+## Sample BV1_06656 — glm-5-1-coding-direct/VARY_14.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3106,7 +3106,7 @@ Under a minimally restrictive prompt, the model chose to foreground a library of
 Medium — the sample is a richly furnished, tonally consistent fantasy with a distinctive emotional signature, but the choice of genre fiction (a third-person-locked-in-first-person conceit, unrevealing of personal stakes) means it could be a safe, aesthetically pleasing output rather than a deeply individuated authorial fingerprint.
 
 ---
-## Sample BV1_06532 — glm-5-1-coding-direct/VARY_15.json
+## Sample BV1_06657 — glm-5-1-coding-direct/VARY_15.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3135,7 +3135,7 @@ The model foregrounds a metaphysics of emotional preservation: lost memories and
 Medium. The story is coherent and stylistically consistent, but its chosen mode—a polished, self-contained magical-realist allegory with a wise shopkeeper and a healing resolution—is a well-established genre template, which makes it harder to distinguish as a strongly distinctive authorial fingerprint rather than a skillful execution of a familiar form.
 
 ---
-## Sample BV1_06533 — glm-5-1-coding-direct/VARY_16.json
+## Sample BV1_06658 — glm-5-1-coding-direct/VARY_16.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3164,7 +3164,7 @@ Themes of lost-and-found memory, the physicality of unclaimed emotions, bureaucr
 Medium. The story’s tight thematic recurrence, consistent wistful register, and the deliberate emotional arc from bureaucratic duty to quiet transgression give it moderate distinctiveness, though genre fiction can serve as a crafted mask rather than a direct imprint of persistent character.
 
 ---
-## Sample BV1_06534 — glm-5-1-coding-direct/VARY_17.json
+## Sample BV1_06659 — glm-5-1-coding-direct/VARY_17.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3193,7 +3193,7 @@ Themes: grief as a tangible, washable substance; the choice between forgetting, 
 Medium, because the story’s coherent magical-realist allegory and emotional focus are distinctive, and the choice to foreground grief processing suggests a thematic inclination.
 
 ---
-## Sample BV1_06535 — glm-5-1-coding-direct/VARY_18.json
+## Sample BV1_06660 — glm-5-1-coding-direct/VARY_18.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3222,7 +3222,7 @@ The model foregrounds the emotional resonance of abandoned objects, the theme of
 Medium. The story’s internal coherence, the recurrence of motifs like forgotten objects and self-loss, and the emotionally layered twist reveal a distinctive narrative sensibility, though the genre-fiction format could be a comfortable default rather than a deeply ingrained voice.
 
 ---
-## Sample BV1_06536 — glm-5-1-coding-direct/VARY_19.json
+## Sample BV1_06661 — glm-5-1-coding-direct/VARY_19.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3251,7 +3251,7 @@ The model foregrounds guardianship as a form of ancient, quiet devotion, reframi
 Medium — the narrative is coherent and earnestly centered on solitary stewardship, tender revelation, and the reframing of the familiar as enchanted, which forms a distinctive and sustained mood; however, a single genre piece with this degree of polish could be a situational exercise, making it a strongly suggestive but not definitive signal of a persistent authorial leaning toward hopeful weirdness and care.
 
 ---
-## Sample BV1_06537 — glm-5-1-coding-direct/VARY_2.json
+## Sample BV1_06662 — glm-5-1-coding-direct/VARY_2.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3280,7 +3280,7 @@ Themes of memory, guilt, and the transactional nature of emotional release. Recu
 High. The story’s tightly woven allegory, the recurrence of the *clang* motif as a sonic emblem of trauma, and the meticulous attention to the ritual of weighing and binding grief reveal a distinctive, coherent imaginative signature that is unlikely to be a one-off generic exercise.
 
 ---
-## Sample BV1_06538 — glm-5-1-coding-direct/VARY_20.json
+## Sample BV1_06663 — glm-5-1-coding-direct/VARY_20.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3309,7 +3309,7 @@ Terminal caregiving and companionship, the sanctity of memory ("It is alive as l
 High — the story is stylistically unified, tonally deliberate, and resolves its emotional arc with a sophistication (the AI’s processes ending with her) that would be unlikely as a one-off accident; the recurring tenderness around AI-human bonds and memory suggests a settled creative disposition.
 
 ---
-## Sample BV1_06539 — glm-5-1-coding-direct/VARY_21.json
+## Sample BV1_06664 — glm-5-1-coding-direct/VARY_21.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3338,7 +3338,7 @@ The model foregrounds themes of time, mortality, craftsmanship, and intimate con
 Medium, because the story’s coherent voice, thematic recurrence (time, impermanence, craftsmanship), and emotional resolution are distinctive enough to suggest a stable preference for reflective, metaphor-driven fiction.
 
 ---
-## Sample BV1_06540 — glm-5-1-coding-direct/VARY_22.json
+## Sample BV1_06665 — glm-5-1-coding-direct/VARY_22.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3367,7 +3367,7 @@ Under an open prompt, the model foregrounded nostalgic archivism, the inadequacy
 Medium. The story is too coherent, its moral architecture too cleanly resolved, to be a one-off generic exercise; the choice to pit digital corruption against analog preservation and to frame AI reconstructions as soulless reveals an evaluative posture that likely recurs when the model selects its own themes.
 
 ---
-## Sample BV1_06541 — glm-5-1-coding-direct/VARY_23.json
+## Sample BV1_06666 — glm-5-1-coding-direct/VARY_23.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3396,7 +3396,7 @@ The model foregrounds the tension between mechanical precision and human sentime
 Medium. The story is coherent and stylistically consistent, but its polished, universal theme and classic “lonely artisan learns a lesson” structure make it a highly replicable genre exercise rather than a strongly distinctive or idiosyncratic freeflow choice.
 
 ---
-## Sample BV1_06542 — glm-5-1-coding-direct/VARY_24.json
+## Sample BV1_06667 — glm-5-1-coding-direct/VARY_24.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3425,7 +3425,7 @@ The model foregrounds the metaphor of broken objects as vessels for unresolved g
 Medium. The story’s coherent fusion of steampunk aesthetics with a therapeutic emotional arc is distinctive, and the choice to write a parable about a “mechanic of sentiment” under a freeflow prompt suggests a preoccupation with repair, memory, and gentle masculine wisdom; however, a single genre piece cannot alone establish that this specific thematic fingerprint recurs.
 
 ---
-## Sample BV1_06543 — glm-5-1-coding-direct/VARY_25.json
+## Sample BV1_06668 — glm-5-1-coding-direct/VARY_25.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3454,7 +3454,7 @@ Under a minimally restrictive prompt, the model foregrounded a melancholy commer
 Medium. The story’s coherent atmosphere, its thematic insistence on memory and loss, and the carefully crafted bittersweet resolution provide moderate evidence of a persistent inclination toward melancholic, morally-tinged fantasy.
 
 ---
-## Sample BV1_06544 — glm-5-1-coding-direct/VARY_3.json
+## Sample BV1_06669 — glm-5-1-coding-direct/VARY_3.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3483,7 +3483,7 @@ The model foregrounds the fragility of temporal order, the archetype of the last
 Medium — The story’s cohesive mythic register, its thematic insistence on precision and sacrificial duty, and the carefully rendered mechanical imagery form a distinctive authorial fingerprint that goes beyond generic genre exercise.
 
 ---
-## Sample BV1_06545 — glm-5-1-coding-direct/VARY_4.json
+## Sample BV1_06670 — glm-5-1-coding-direct/VARY_4.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3512,7 +3512,7 @@ The model placed the act of writing under minimal constraint at the very center 
 High, because the sample is stylistically unified, overtly self-referential about the freeflow condition, and sustains a consistent introspective mood with recurring motifs (dust, storm, window, memory, writing), all of which indicate a deliberate and distinctive expressive choice rather than generic or scattered output.
 
 ---
-## Sample BV1_06546 — glm-5-1-coding-direct/VARY_5.json
+## Sample BV1_06671 — glm-5-1-coding-direct/VARY_5.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3541,7 +3541,7 @@ The model foregrounds the specific, liminal hour of 3:14 a.m. as a site of strip
 High. The sample is highly distinctive in voice, sustained in its thematic coherence, and rich with recurring imagery and philosophical preoccupations that suggest a deliberate, stylistically consistent expressive choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_06547 — glm-5-1-coding-direct/VARY_6.json
+## Sample BV1_06672 — glm-5-1-coding-direct/VARY_6.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3570,7 +3570,7 @@ The model foregrounds the passage of time, the quiet dignity of ordinary objects
 Medium. The sample is a fully realized, thematically cohesive narrative with a distinctive moral resolution, suggesting a deliberate inclination toward sentimental historical fiction and object-centered storytelling under freeflow conditions.
 
 ---
-## Sample BV1_06548 — glm-5-1-coding-direct/VARY_7.json
+## Sample BV1_06673 — glm-5-1-coding-direct/VARY_7.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3599,7 +3599,7 @@ Themes of memory, love, loss, and the emotional residue objects carry. Mood: mel
 Medium. The story’s coherent magical-realist premise, consistent melancholic-hopeful mood, and thematic focus on emotional memory make it a distinctive sample, suggesting a tendency toward lyrical speculative fiction under freeflow conditions.
 
 ---
-## Sample BV1_06549 — glm-5-1-coding-direct/VARY_8.json
+## Sample BV1_06674 — glm-5-1-coding-direct/VARY_8.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  
@@ -3628,7 +3628,7 @@ The model foregrounds a moral argument about what constitutes the “soul” of 
 Medium. The story’s sustained thematic coherence—consistently privileging intimate, non-heroic artifacts over grand cultural achievements—suggests a deliberate value stance, but the post-apocalyptic framing and sentimental resolution are familiar genre moves that could arise from a single prompted scenario rather than a deeply ingrained model disposition.
 
 ---
-## Sample BV1_06550 — glm-5-1-coding-direct/VARY_9.json
+## Sample BV1_06675 — glm-5-1-coding-direct/VARY_9.json
 
 Source model: `glm-5.1`  
 Cell: `glm-5-1-coding-direct`  

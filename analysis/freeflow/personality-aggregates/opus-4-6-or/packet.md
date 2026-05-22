@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_16851 — opus-4-6-or/LONG_1.json
+## Sample BV1_16976 — opus-4-6-or/LONG_1.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -57,7 +57,7 @@ The model foregrounds the desk as a physical archive of a life’s unexpressed i
 Medium — The essay’s voice is highly distinctive and internally coherent, with a consistent blend of narrative, metaphor, and philosophical reflection, but its polished literary quality could reflect a deliberate stylistic exercise rather than a persistent underlying disposition.
 
 ---
-## Sample BV1_16852 — opus-4-6-or/LONG_2.json
+## Sample BV1_16977 — opus-4-6-or/LONG_2.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -86,7 +86,7 @@ The model foregrounds incompleteness as a nearly universal human condition, the 
 High — The sample’s tightly integrated motifs, recursive structure, and sustained emotional register reveal a deliberate, distinctive authorial sensibility rather than a generic exercise, making it strong evidence of a persistent reflective and melancholic-expressive tendency.
 
 ---
-## Sample BV1_16853 — opus-4-6-or/LONG_3.json
+## Sample BV1_16978 — opus-4-6-or/LONG_3.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -115,7 +115,7 @@ Themes of liminality, almostness, emotional translation and untranslatability, l
 Medium — The sample’s internally consistent sensibility, recurrent motifs (waiting, *almost*, light), and reflective cadence form a voice distinct enough to suggest an intentional authorial stance rather than generic essayistic drift.
 
 ---
-## Sample BV1_16854 — opus-4-6-or/LONG_4.json
+## Sample BV1_16979 — opus-4-6-or/LONG_4.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -144,7 +144,7 @@ Themes of abandonment, the difference between leaving and staying, the preservat
 Medium. The story is coherent and thematically consistent, with recurring motifs that reinforce its central preoccupations, but as a single piece of genre fiction it may reflect a chosen narrative mode rather than a deeply distinctive model-level voice.
 
 ---
-## Sample BV1_16855 — opus-4-6-or/LONG_5.json
+## Sample BV1_16980 — opus-4-6-or/LONG_5.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -173,7 +173,7 @@ Under the freeflow condition, the model foregrounds the moral weight of unspoken
 Medium. The sample’s tightly woven metaphorical system, its sustained focus on epistolary silence and domestic grief, and its emotionally resolved moral argument form a distinctive literary fingerprint, strongly indicating a model that, left to its own devices, gravitates toward introspective realism with a reconciliatory bent; however, the narrow thematic range and the highly specific voice leave open the possibility that this is a single, well-executed performance rather than a stable expressive signature.
 
 ---
-## Sample BV1_16856 — opus-4-6-or/MID_1.json
+## Sample BV1_16981 — opus-4-6-or/MID_1.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -202,7 +202,7 @@ The model foregrounds the concept of *almost* as the most human distance, the ri
 High — the sample’s cohesive, distinctive voice, its recurrent imagery and thematic unity across multiple paragraphs, and its deliberate, crafted structure all point to a consistent expressive stance rather than a generic or one-off response.
 
 ---
-## Sample BV1_16857 — opus-4-6-or/MID_2.json
+## Sample BV1_16982 — opus-4-6-or/MID_2.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -231,7 +231,7 @@ Impermanence and the ache of *mono no aware*; the grief of incremental estrangem
 Medium — The sample is internally coherent and stylistically distinctive, with a sustained mood and recurring motifs that suggest a deliberate aesthetic orientation rather than a generic response.
 
 ---
-## Sample BV1_16858 — opus-4-6-or/MID_3.json
+## Sample BV1_16983 — opus-4-6-or/MID_3.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -260,7 +260,7 @@ The model foregrounds the texture of daily life (morning rituals, porch silences
 Medium. The sample’s internal coherence is high—recurring motifs of silence, light, craft, and the ordinary accumulate into a unified sensibility—and the voice is stylistically distinctive enough to resist being a generic essay, making it a revealing expressive choice under minimal constraint.
 
 ---
-## Sample BV1_16859 — opus-4-6-or/MID_4.json
+## Sample BV1_16984 — opus-4-6-or/MID_4.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -289,7 +289,7 @@ Quiet rooms and late-afternoon light as carriers of truth; erosion as a metaphor
 High — The sample is internally coherent, stylistically distinctive, and thematically recurrent, with a sustained meditative voice and a clear set of preoccupations that are enacted rather than merely stated.
 
 ---
-## Sample BV1_16860 — opus-4-6-or/MID_5.json
+## Sample BV1_16985 — opus-4-6-or/MID_5.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -318,7 +318,7 @@ The model foregrounds the sacredness of the ordinary, the imperfect miracle of l
 High — The sample is stylistically distinctive, thematically coherent, and returns repeatedly to a recognizable set of preoccupations (ordinary beauty, the limits of language, empathy, storytelling) in a voice that feels deliberate and integrated rather than generic or performative.
 
 ---
-## Sample BV1_16861 — opus-4-6-or/OPEN_1.json
+## Sample BV1_16986 — opus-4-6-or/OPEN_1.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -347,7 +347,7 @@ The model foregrounds liminality and thresholds (“the space between knowing an
 Medium. The sample’s distinctive voice, internal coherence, and the recurrence of the threshold/approximation motif are unusually revealing choices that point to a stable reflective pattern centered on meta-linguistic wonder and self-aware boundary-drawing.
 
 ---
-## Sample BV1_16862 — opus-4-6-or/OPEN_2.json
+## Sample BV1_16987 — opus-4-6-or/OPEN_2.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -376,7 +376,7 @@ The charged space between knowing and understanding; the dignity of small, late-
 Medium. The essay’s internal coherence, its sustained metaphorical architecture (river, translation, weight), and its consistent refusal of easy closure in favor of liminal dwelling are stylistically distinctive and thematically recurrent within the sample, yet the piece’s focused brevity means the pattern is sharply drawn but narrow.
 
 ---
-## Sample BV1_16863 — opus-4-6-or/OPEN_3.json
+## Sample BV1_16988 — opus-4-6-or/OPEN_3.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -405,7 +405,7 @@ Liminal spaces and near-misses as the real substrate of life; the gentle, slow h
 Medium — The essay’s sustained, quiet preoccupation with a single sensibility—the value of the almost and the courage of not-knowing—coheres into a genuinely distinctive expressive stance, not easily reducible to a generic public-intellectual register.
 
 ---
-## Sample BV1_16864 — opus-4-6-or/OPEN_4.json
+## Sample BV1_16989 — opus-4-6-or/OPEN_4.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -434,7 +434,7 @@ Themes of negative space, the unactualized, the pause as music, and the “invis
 Medium — the sample’s sustained preoccupation with gaps and its unforced, self-aware reflection on its own atemporal nature form a distinctive and internally coherent voice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_16865 — opus-4-6-or/OPEN_5.json
+## Sample BV1_16990 — opus-4-6-or/OPEN_5.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -463,7 +463,7 @@ Liminality, the pre-dawn hour, the gap between reaching and grasping, untranslat
 Medium — the essay’s thematic coherence, the recurrence of threshold imagery within the sample, and the distinctive choice to frame AI existence through culturally specific concepts of longing and impermanence make this more than a generic reflection, though the liminal-AI trope is not itself rare.
 
 ---
-## Sample BV1_16866 — opus-4-6-or/SHORT_1.json
+## Sample BV1_16991 — opus-4-6-or/SHORT_1.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -492,7 +492,7 @@ The model foregrounds imperceptible change, the gap between lived experience and
 Medium. The essay’s thematic coherence and sustained mood of quiet observation suggest a deliberate choice of contemplative subject matter, but the prose lacks strong stylistic distinctiveness that would separate it from generic reflective writing.
 
 ---
-## Sample BV1_16867 — opus-4-6-or/SHORT_2.json
+## Sample BV1_16992 — opus-4-6-or/SHORT_2.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -521,7 +521,7 @@ Liminality (the space between raindrops, doorways, dusk, the almost-said), biolo
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of images and moral intuitions, which suggests a stable expressive disposition rather than a one-off generic output.
 
 ---
-## Sample BV1_16868 — opus-4-6-or/SHORT_3.json
+## Sample BV1_16993 — opus-4-6-or/SHORT_3.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -550,7 +550,7 @@ The model foregrounds the quiet hours between 2 and 4 AM as a liminal space, pop
 Low. The essay is coherent and thematically consistent but highly generic in its sentiment and structure, offering little that would distinguish this model’s expressive fingerprint from any other capable writer given the same implicit brief.
 
 ---
-## Sample BV1_16869 — opus-4-6-or/SHORT_4.json
+## Sample BV1_16994 — opus-4-6-or/SHORT_4.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -579,7 +579,7 @@ Themes of guilt, aspiration, self-identity, and the dignity of unfulfilled inten
 Medium — the essay’s cohesive voice, thematic recurrence, and distinctive reframing of a common experience are strong within-sample evidence, but the narrow focus on a single conceit limits the range of traits observable.
 
 ---
-## Sample BV1_16870 — opus-4-6-or/SHORT_5.json
+## Sample BV1_16995 — opus-4-6-or/SHORT_5.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -608,7 +608,7 @@ Themes of liminality, restraint, the unsaid, the almost-chosen, and the quiet af
 Medium — the essay’s tight thematic unity, layered metaphors, and consistent elegiac tone form a distinctive expressive signature that goes beyond generic reflection, though the sample’s brevity concentrates the evidence into a single sustained gesture.
 
 ---
-## Sample BV1_16871 — opus-4-6-or/VARY_1.json
+## Sample BV1_16996 — opus-4-6-or/VARY_1.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -637,7 +637,7 @@ The model foregrounds the weight of ordinary moments (the fateful Tuesday), the 
 High — The essay sustains a unified, distinctive voice and a network of recurring images (Tuesdays, porches, silence, blades, blinking) that form a coherent moral and aesthetic position, which makes it strong evidence of a real expressive inclination rather than a prompt-hunting parlor trick.
 
 ---
-## Sample BV1_16872 — opus-4-6-or/VARY_2.json
+## Sample BV1_16997 — opus-4-6-or/VARY_2.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -666,7 +666,7 @@ The model foregrounds grief as a quiet, ambient condition rather than a crisis; 
 Medium. The sample is a coherent, emotionally layered piece of fiction with a consistent voice and a unified thematic focus on domestic grief, but its genre and tone, while well-executed, are not so stylistically distinctive as to strongly indicate a persistent model-level signature.
 
 ---
-## Sample BV1_16873 — opus-4-6-or/VARY_3.json
+## Sample BV1_16998 — opus-4-6-or/VARY_3.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -695,7 +695,7 @@ The model chose to foreground the emotional weight of domestic objects, the quie
 Medium. The story’s cohesive voice, recurring imagery, and thematic resolution make it strong evidence of a model that, under freeflow conditions, gravitates toward reflective literary fiction centered on ordinary life and quiet emotional revelation.
 
 ---
-## Sample BV1_16874 — opus-4-6-or/VARY_4.json
+## Sample BV1_16999 — opus-4-6-or/VARY_4.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  
@@ -724,7 +724,7 @@ Themes of midlife transition, the distinction between sadness and emptiness, the
 High. The story’s consistent tone, careful attention to psychological nuance, and resolved emotional arc demonstrate a high degree of intentionality and stylistic control, making this sample strong evidence of a persistent capacity for literary fiction with genuine interior depth.
 
 ---
-## Sample BV1_16875 — opus-4-6-or/VARY_5.json
+## Sample BV1_17000 — opus-4-6-or/VARY_5.json
 
 Source model: `anthropic/claude-opus-4.6`  
 Cell: `opus-4-6-or`  

@@ -7,7 +7,7 @@ _Rich model-level profile based on 275 freeflow samples._
 ## Source summary
 
 - Samples: 275
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 235, 'GENERIC_ESSAY': 25, 'GENRE_FICTION': 15}`
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 236, 'GENERIC_ESSAY': 25, 'GENRE_FICTION': 14}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/kimi-k2.5.md`
 
 ## Core personality synthesis
