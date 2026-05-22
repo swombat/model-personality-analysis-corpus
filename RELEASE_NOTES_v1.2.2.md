@@ -1,3 +1,9 @@
+# ⚠️ Quarantine notice added 2026-05-22
+
+The freeflow posture layer introduced in this release has been quarantined. A blind spot-check found systematic over-calling of `owned` posture, especially for fluent first-person literary/human-character performance. Do not use this release's freeflow posture outputs as evidence. See `analysis/freeflow/posture-coding/QUARANTINED.md` and the follow-up quarantine release.
+
+---
+
 # Release notes: v1.2.2
 
 Date: 2026-05-22

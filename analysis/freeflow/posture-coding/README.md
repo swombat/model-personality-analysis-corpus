@@ -1,3 +1,7 @@
+# ⚠️ QUARANTINED — do not use as evidence
+
+This freeflow posture coding layer is quarantined. The `owned` label systematically over-calls fluent first-person literary/human-character performance as owned stance. Do not use the final consensus or summaries for paper claims or downstream analysis until repaired. See `QUARANTINED.md` and `QUARANTINE-from-lume.md`.
+
 # Freeflow posture coding
 
 Reusable v2 freeflow posture-coded layer.

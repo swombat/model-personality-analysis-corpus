@@ -12,6 +12,15 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 > model-personality analyses, profiles, cards, values-probe summaries, supporting
 > methodology, and a static browser.
 
+> **Quarantine notice — 2026-05-22:** the experimental freeflow posture coding
+> layer added in v1.2.2 is **not load-bearing**. A blind spot-check found that
+> it systematically over-calls `owned` posture by treating fluent
+> first-person literary / human-character performance as owned stance. Do not
+> use `analysis/freeflow/posture-coding/data/final/*` for paper claims,
+> website summaries, or downstream quantitative analysis unless and until that
+> layer is repaired. See
+> [`analysis/freeflow/posture-coding/QUARANTINED.md`](analysis/freeflow/posture-coding/QUARANTINED.md).
+
 ## What this repository contains
 
 This is a **derived analysis corpus**: it organizes model-personality analysis
@@ -40,6 +49,12 @@ Current load-bearing contents:
 - Website-bundled raw sample copies for browsing/audit under
   `website/public/data/samples/`.
 
+Non-load-bearing / quarantined contents:
+
+- **Freeflow posture coding (`analysis/freeflow/posture-coding/`)** is retained
+  for audit and possible repair only. Its current `owned` label is unreliable
+  and should not be consumed as evidence.
+
 ## Repository structure
 
 ```text
@@ -55,6 +70,7 @@ analysis/
     model-cell-difference-analysis/       # route/provider divergence reports
     taxonomy/                             # freeflow taxonomy extraction
     tables/                               # deterministic marker tables
+    posture-coding/                       # QUARANTINED; audit/recovery only
   values-probe/
     per-model/                            # per-model values-probe summaries
     tables/                               # aggregate values tables
