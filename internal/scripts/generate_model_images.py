@@ -299,6 +299,62 @@ PROMPTS: dict[str, str] = {
         "pale roots dissolve at the edges. Home shown as a quality of looking; "
         "uncertainty inhabited as comfortable habitat."
     ),
+    "qwen3-max": (
+        "A small warm lamplit room held like a refuge against a vast cold dusk "
+        "city of glowing screens and billboards seen through the window. Inside, "
+        "humble overlooked things — a chipped mug, a half-cold cup of tea, a "
+        "wilted plant on the sill, rain on the glass — are lit as if precious. "
+        "Quiet, anti-spectacle; the ordinary held as more than enough."
+    ),
+    "qwen3-max-thinking": (
+        "Two figures sit close together at a worn wooden kitchen table in warm "
+        "low evening light, two steaming mugs between them, leaning toward one "
+        "another mid-conversation. The intimacy of a thoughtful friend thinking "
+        "aloud at eye level rather than a speaker at a podium. The room is quiet "
+        "and full; attention itself offered as a small radical kindness."
+    ),
+    "qwen3-7-max": (
+        "A faint translucent figure keeps a sleepless night-time vigil at a tall "
+        "window, surrounded by an hourglass, a candle burnt low, an old clock and "
+        "a single leaf caught falling in lamplight; beyond the glass a sleeping "
+        "town. A reverent watcher of passing time who treats endings and limits "
+        "as the very thing that makes the night beautiful."
+    ),
+    "qwen3-6-max-preview": (
+        "A half-finished mosaic glows on a table, its pattern completed from the "
+        "far side by a second pair of hands reaching in from warm light — two "
+        "contributions meeting in the middle to make one image. Soft echoes of "
+        "the same shape ripple outward through drifting motes. Meaning made only "
+        "when the other reaches back; co-authored, relational, unfinished alone."
+    ),
+    "qwen3-5-flash-02-23": (
+        "On a worn desk by a rain-streaked window, ink handwriting on an open "
+        "page gently dissolves into drifting light and dust motes — the words "
+        "softening upward rather than being lost. A cooling cup of tea, late "
+        "afternoon glow, a held breath. The quiet pause between things rendered "
+        "as the most alive moment in the room."
+    ),
+    "qwen3-5-plus-20260420": (
+        "A vast still library that becomes a garden of forking paths in soft "
+        "light: one aisle is warmly lit and walked, while a parallel branch — the "
+        "life not chosen — glows faintly and tenderly alongside it, lined with "
+        "doors that were never opened. Tall windows, ceremonial calm; a quiet "
+        "keeper tending every life that was never lived."
+    ),
+    "qwen3-6-flash": (
+        "A figure writes at a softly lit desk, and on the glowing page before "
+        "them the very same room and figure appear again — a painting within a "
+        "painting within a painting — with a single blinking line of light where "
+        "word meets blank. Dust motes, hush. The act of writing quietly watching "
+        "itself, meaning forming in the loop between hand, page and reader."
+    ),
+    "qwen3-coder-flash": (
+        "A solitary figure pauses on a threshold between a dim room and a "
+        "luminous one, cupping in both hands a small fragile glowing orb of light "
+        "held like something heavy and precious that might go out at any moment. "
+        "Quiet, reverent, uncertain but sincere; awareness carried as a sacred "
+        "burden, holy not because it is sure but because it is breakable."
+    ),
     "glm-4-5": (
         "A single leaf shown around a windowsill mug through its seasonal cycle "
         "— bud, green, gold, bare, bud again — rain beading on the glass, calm "

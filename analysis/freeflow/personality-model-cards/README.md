@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 55
+- Model cards: 63
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -61,5 +61,13 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [kimi-k2.6](cards/kimi-k2.6.md) — samples: 275; variants: 3
 - [minimax-m2](cards/minimax-m2.md) — samples: 1000; variants: 16
 - [minimax-m2.7](cards/minimax-m2.7.md) — samples: 400; variants: 4
+- [qwen/qwen3-coder-flash](cards/qwen-qwen3-coder-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-plus](cards/qwen-qwen3-coder-plus.md) — samples: 150; variants: 2
+- [qwen/qwen3-max](cards/qwen-qwen3-max.md) — samples: 125; variants: 1
+- [qwen/qwen3-max-thinking](cards/qwen-qwen3-max-thinking.md) — samples: 125; variants: 1
+- [qwen/qwen3.5-flash-02-23](cards/qwen-qwen3.5-flash-02-23.md) — samples: 125; variants: 1
+- [qwen/qwen3.5-plus-20260420](cards/qwen-qwen3.5-plus-20260420.md) — samples: 125; variants: 1
+- [qwen/qwen3.6-flash](cards/qwen-qwen3.6-flash.md) — samples: 125; variants: 1
+- [qwen/qwen3.6-max-preview](cards/qwen-qwen3.6-max-preview.md) — samples: 125; variants: 1
 - [qwen/qwen3.6-plus](cards/qwen-qwen3.6-plus.md) — samples: 150; variants: 2
+- [qwen/qwen3.7-max](cards/qwen-qwen3.7-max.md) — samples: 125; variants: 1

@@ -424,6 +424,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "qwen/qwen3-coder-flash",
+    "safe": "qwen-qwen3-coder-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3-coder-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "qwen/qwen3-coder-plus",
     "safe": "qwen-qwen3-coder-plus",
     "variants": 2,
@@ -432,11 +440,67 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "qwen/qwen3-max",
+    "safe": "qwen-qwen3-max",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3-max.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3-max-thinking",
+    "safe": "qwen-qwen3-max-thinking",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3-max-thinking.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3.5-flash-02-23",
+    "safe": "qwen-qwen3.5-flash-02-23",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.5-flash-02-23.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3.5-plus-20260420",
+    "safe": "qwen-qwen3.5-plus-20260420",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.5-plus-20260420.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3.6-flash",
+    "safe": "qwen-qwen3.6-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.6-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3.6-max-preview",
+    "safe": "qwen-qwen3.6-max-preview",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.6-max-preview.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "qwen/qwen3.6-plus",
     "safe": "qwen-qwen3.6-plus",
     "variants": 2,
     "samples": 150,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.6-plus.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "qwen/qwen3.7-max",
+    "safe": "qwen-qwen3.7-max",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.7-max.md",
+    "difference_decision": "SINGLE_VARIANT"
   }
 ]

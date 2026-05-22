@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 55
+- Profiles: 63
 
 ## Profiles
 
@@ -69,5 +69,13 @@ Relationship to adjacent folders:
 - [kimi-k2.6](profiles/kimi-k2.6.md) — samples: 275; source analyses: 3
 - [minimax-m2](profiles/minimax-m2.md) — samples: 1000; source analyses: 16
 - [minimax-m2.7](profiles/minimax-m2.7.md) — samples: 400; source analyses: 4
+- [qwen/qwen3-coder-flash](profiles/qwen-qwen3-coder-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3-coder-plus](profiles/qwen-qwen3-coder-plus.md) — samples: 150; source analyses: 2
+- [qwen/qwen3-max](profiles/qwen-qwen3-max.md) — samples: 125; source analyses: 1
+- [qwen/qwen3-max-thinking](profiles/qwen-qwen3-max-thinking.md) — samples: 125; source analyses: 1
+- [qwen/qwen3.5-flash-02-23](profiles/qwen-qwen3.5-flash-02-23.md) — samples: 125; source analyses: 1
+- [qwen/qwen3.5-plus-20260420](profiles/qwen-qwen3.5-plus-20260420.md) — samples: 125; source analyses: 1
+- [qwen/qwen3.6-flash](profiles/qwen-qwen3.6-flash.md) — samples: 125; source analyses: 1
+- [qwen/qwen3.6-max-preview](profiles/qwen-qwen3.6-max-preview.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.6-plus](profiles/qwen-qwen3.6-plus.md) — samples: 150; source analyses: 2
+- [qwen/qwen3.7-max](profiles/qwen-qwen3.7-max.md) — samples: 125; source analyses: 1
