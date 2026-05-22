@@ -342,11 +342,13 @@ PROMPTS: dict[str, str] = {
         "keeper tending every life that was never lived."
     ),
     "qwen3-6-flash": (
-        "A figure writes at a softly lit desk, and on the glowing page before "
-        "them the very same room and figure appear again — a painting within a "
-        "painting within a painting — with a single blinking line of light where "
-        "word meets blank. Dust motes, hush. The act of writing quietly watching "
-        "itself, meaning forming in the loop between hand, page and reader."
+        "A clear, strongly legible mise-en-abyme: a figure sits writing at a "
+        "softly lit desk, and the large open page in front of them shows the "
+        "exact same scene in miniature — the same figure at the same desk — "
+        "whose page in turn shows it again, smaller, and again, a visible nested "
+        "recursion receding toward a single bright blinking mark of light. The "
+        "repetition must be obvious and central, like a hall of mirrors made of "
+        "paper. Dust motes, hush; writing watching itself watching itself."
     ),
     "qwen3-coder-flash": (
         "A solitary figure pauses on a threshold between a dim room and a "
