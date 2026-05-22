@@ -111,6 +111,14 @@ MODEL_SLUGS = {
     "minimax-m2-7": "minimax/minimax-m2.7",
     "qwen3-6-plus": "qwen/qwen3.6-plus",
     "qwen3-coder-plus": "qwen/qwen3-coder-plus",
+    "qwen3-7-max": "qwen/qwen3.7-max",
+    "qwen3-5-plus-20260420": "qwen/qwen3.5-plus-20260420",
+    "qwen3-6-flash": "qwen/qwen3.6-flash",
+    "qwen3-6-max-preview": "qwen/qwen3.6-max-preview",
+    "qwen3-5-flash-02-23": "qwen/qwen3.5-flash-02-23",
+    "qwen3-max-thinking": "qwen/qwen3-max-thinking",
+    "qwen3-max": "qwen/qwen3-max",
+    "qwen3-coder-flash": "qwen/qwen3-coder-flash",
 }
 
 
@@ -148,6 +156,14 @@ def site_slug_from_profile_model(name: str) -> str:
         "minimax-m2.7": "minimax-m2-7",
         "qwen/qwen3.6-plus": "qwen3-6-plus",
         "qwen/qwen3-coder-plus": "qwen3-coder-plus",
+        "qwen/qwen3.7-max": "qwen3-7-max",
+        "qwen/qwen3.5-plus-20260420": "qwen3-5-plus-20260420",
+        "qwen/qwen3.6-flash": "qwen3-6-flash",
+        "qwen/qwen3.6-max-preview": "qwen3-6-max-preview",
+        "qwen/qwen3.5-flash-02-23": "qwen3-5-flash-02-23",
+        "qwen/qwen3-max-thinking": "qwen3-max-thinking",
+        "qwen/qwen3-max": "qwen3-max",
+        "qwen/qwen3-coder-flash": "qwen3-coder-flash",
     }
     if name in explicit:
         return explicit[name]
@@ -155,6 +171,10 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    # Public Qwen pages should use the site slug form (qwen3-max-thinking),
+    # not the OpenRouter/provider id form (qwen/qwen3-max-thinking).
+    if slug.startswith("qwen"):
+        return slug
     return profile_model or slug
 
 

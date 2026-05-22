@@ -204,9 +204,25 @@
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
   },
+  "qwen3-6-max-preview": {
+    "aaii": 52,
+    "url": "https://artificialanalysis.ai/models/qwen3-6-max"
+  },
   "qwen3-6-plus": {
     "aaii": 50,
     "url": "https://artificialanalysis.ai/models/qwen3-6-plus"
+  },
+  "qwen3-7-max": {
+    "aaii": 57,
+    "url": "https://artificialanalysis.ai/models/qwen3-7-max"
+  },
+  "qwen3-max": {
+    "aaii": 31,
+    "url": "https://artificialanalysis.ai/models/qwen3-max"
+  },
+  "qwen3-max-thinking": {
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/qwen3-max-thinking"
   },
   "sonnet-4-0": {
     "aaii": 33,
