@@ -78,6 +78,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/claude-opus-4.7.md"
   },
   {
+    "model": "claude-opus-4.8",
+    "safe": "claude-opus-4.8",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 109,
+      "GENERIC_ESSAY": 16
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-opus-4.8.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-opus-4.8.md"
+  },
+  {
     "model": "claude-sonnet-4.0",
     "safe": "claude-sonnet-4.0",
     "analysis_inputs": 1,

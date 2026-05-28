@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 63
+- Profiles: 64
 
 ## Profiles
 
@@ -22,6 +22,7 @@ Relationship to adjacent folders:
 - [claude-opus-4.5](profiles/claude-opus-4.5.md) — samples: 125; source analyses: 1
 - [claude-opus-4.6](profiles/claude-opus-4.6.md) — samples: 150; source analyses: 2
 - [claude-opus-4.7](profiles/claude-opus-4.7.md) — samples: 150; source analyses: 2
+- [claude-opus-4.8](profiles/claude-opus-4.8.md) — samples: 125; source analyses: 1
 - [claude-sonnet-4.0](profiles/claude-sonnet-4.0.md) — samples: 125; source analyses: 1
 - [claude-sonnet-4.5](profiles/claude-sonnet-4.5.md) — samples: 125; source analyses: 1
 - [claude-sonnet-4.6](profiles/claude-sonnet-4.6.md) — samples: 150; source analyses: 2

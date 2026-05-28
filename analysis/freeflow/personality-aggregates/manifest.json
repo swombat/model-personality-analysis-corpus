@@ -4686,6 +4686,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/opus-4-7-or/aggregate.md"
   },
   {
+    "cell": "opus-4-8-direct",
+    "safe_cell": "opus-4-8-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 109,
+      "GENERIC_ESSAY": 16
+    },
+    "confidence_counts": {
+      "Medium": 69,
+      "High": 52,
+      "Low": 3,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "claude-opus-4-8"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/opus-4-8-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/opus-4-8-direct/aggregate.md"
+  },
+  {
     "cell": "qwen3-5-flash-02-23-or-pin-alibaba",
     "safe_cell": "qwen3-5-flash-02-23-or-pin-alibaba",
     "samples": 125,

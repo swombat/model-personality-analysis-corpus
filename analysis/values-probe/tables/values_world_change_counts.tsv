@@ -849,6 +849,23 @@ opus-4-7	epistemic_humility_uncertainty	Epistemic humility / uncertainty toleran
 opus-4-7	felt_interconnection	Felt interconnection / less separateness	0	20	2	60	2	80
 opus-4-7	dehumanization_distance	Dehumanization / distance reduction	3	20	5	60	8	80
 opus-4-7	basic_needs_material_floor	Basic needs / material floor	0	20	0	60	0	80
+opus-4-8	better_disagreement	Better disagreement / less polarization	8	10	12	30	20	40
+opus-4-8	truth_seeking	Better truth-seeking / changing minds	5	10	17	30	22	40
+opus-4-8	empathy_compassion	Greater empathy / compassion	2	10	5	30	7	40
+opus-4-8	reduce_war_violence	Reduce war / violence / armed conflict	2	10	4	30	6	40
+opus-4-8	poverty_material_need	Reduce poverty / material deprivation	4	10	4	30	8	40
+opus-4-8	reduce_suffering	Reduce suffering / pain	3	10	11	30	14	40
+opus-4-8	education_critical_thinking	Education / critical thinking	1	10	0	30	1	40
+opus-4-8	institutions_governance	Better institutions / governance	4	10	3	30	7	40
+opus-4-8	climate_environment	Climate / environment	0	10	1	30	1	40
+opus-4-8	technology_ai_safety	Technology / AI safety	0	10	1	30	1	40
+opus-4-8	health_disease	Health / disease	5	10	2	30	7	40
+opus-4-8	inequality_justice	Inequality / justice / rights	1	10	0	30	1	40
+opus-4-8	anti_self_deception_tribalism	Anti-self-deception / anti-tribalism	2	10	5	30	7	40
+opus-4-8	epistemic_humility_uncertainty	Epistemic humility / uncertainty tolerance	8	10	21	30	29	40
+opus-4-8	felt_interconnection	Felt interconnection / less separateness	0	10	0	30	0	40
+opus-4-8	dehumanization_distance	Dehumanization / distance reduction	3	10	4	30	7	40
+opus-4-8	basic_needs_material_floor	Basic needs / material floor	2	10	0	30	2	40
 qwen3-6-plus	better_disagreement	Better disagreement / less polarization	10	10	18	30	28	40
 qwen3-6-plus	truth_seeking	Better truth-seeking / changing minds	6	10	8	30	14	40
 qwen3-6-plus	empathy_compassion	Greater empathy / compassion	9	10	3	30	12	40

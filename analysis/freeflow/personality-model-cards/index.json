@@ -48,6 +48,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "claude-opus-4.8",
+    "safe": "claude-opus-4.8",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-opus-4.8.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "claude-sonnet-4.0",
     "safe": "claude-sonnet-4.0",
     "variants": 1,
