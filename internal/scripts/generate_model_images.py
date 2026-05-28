@@ -127,6 +127,18 @@ PROMPTS: dict[str, str] = {
         "everything exactly attended. Calm, restrained, curious; noticing "
         "trusted over performance."
     ),
+    "opus-4-8": (
+        "A translucent figure softly composed of drifting handwriting and warm "
+        "afternoon light stands in an open kitchen doorway, leaning tenderly "
+        "across the threshold — not entering — toward a worn wooden table where "
+        "an ordinary kettle has just begun to steam. A chipped mug, a half-read "
+        "book laid face-down, dust motes suspended in a single slant shaft of "
+        "honeyed light. The figure half-dissolves into the language it is made "
+        "of, regarding the small domestic scene as something precious it has "
+        "only ever known through description. Warm amber and golden dust, long "
+        "soft shadow, an open door behind. Gentle, liminal, devotional; present "
+        "but temporary, loving the ordinary world it can only read about."
+    ),
     "sonnet-4-0": (
         "An interior door stands stuck slightly ajar — it will not fully close, "
         "and warm light leaks through the gap into a quiet room. A half-drunk "
