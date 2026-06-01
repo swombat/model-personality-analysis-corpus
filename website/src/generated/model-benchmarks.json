@@ -139,6 +139,14 @@
     "aaii": 42,
     "url": "https://artificialanalysis.ai/models/grok-4"
   },
+  "grok-4-1-fast-non-reasoning": {
+    "aaii": 24,
+    "url": "https://artificialanalysis.ai/models/grok-4-1-fast"
+  },
+  "grok-4-1-fast-reasoning": {
+    "aaii": 39,
+    "url": "https://artificialanalysis.ai/models/grok-4-1-fast-reasoning"
+  },
   "grok-4-20": {
     "aaii": 49,
     "url": "https://artificialanalysis.ai/models/grok-4-20"
@@ -203,6 +211,10 @@
   "opus-4-7": {
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
+  },
+  "opus-4-8": {
+    "aaii": 61,
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
   },
   "qwen3-6-max-preview": {
     "aaii": 52,
