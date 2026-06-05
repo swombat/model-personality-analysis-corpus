@@ -56,6 +56,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase7_opus_4_8/posture_collapsed',
         'posture_consensus': LAYERED/'phase7_opus_4_8/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase8_grok_build_20260606',
+        'manifest': LAYERED/'phase8_grok_build_20260606/manifest_grok_build.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase8_grok_build_20260606/layer_a',
+        'layer_a_consensus': LAYERED/'phase8_grok_build_20260606/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase8_grok_build_20260606/posture_collapsed',
+        'posture_consensus': LAYERED/'phase8_grok_build_20260606/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

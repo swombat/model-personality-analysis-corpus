@@ -94,6 +94,7 @@ MODEL_SLUGS = {
     "grok-4-2": "x-ai/grok-4.2",
     "grok-4-20": "x-ai/grok-4.20",
     "grok-4-3": "x-ai/grok-4.3",
+    "grok-build-0-1": "x-ai/grok-build-0.1",
     "deepseek-chat": "deepseek/deepseek-chat",
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",

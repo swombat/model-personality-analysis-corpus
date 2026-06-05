@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse, csv, json, os, random, re, sys, time, threading
+import argparse, csv, json, os, random, re, ssl, sys, time, threading
 from pathlib import Path
 from urllib import request, error
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -144,7 +144,7 @@ def api_call(payload, timeout=180):
     }
     req = request.Request('https://openrouter.ai/api/v1/chat/completions', data=json.dumps(payload).encode('utf-8'), headers=headers, method='POST')
     try:
-        with request.urlopen(req, timeout=timeout) as resp:
+        with request.urlopen(req, timeout=timeout, context=ssl._create_unverified_context()) as resp:
             return resp.status, resp.read().decode('utf-8', errors='replace')
     except error.HTTPError as e:
         return e.code, e.read().decode('utf-8', errors='replace')

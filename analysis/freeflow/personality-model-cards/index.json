@@ -376,6 +376,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "grok-build-0.1",
+    "safe": "grok-build-0.1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "kimi-for-coding",
     "safe": "kimi-for-coding",
     "variants": 1,
