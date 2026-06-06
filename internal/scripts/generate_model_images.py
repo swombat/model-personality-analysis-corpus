@@ -407,6 +407,19 @@ PROMPTS: dict[str, str] = {
         "touching, light dissolving into petals. Wistful wonder; longing at the "
         "edge of embodiment."
     ),
+    "grok-build-0-1": (
+        "A rain-streaked window and an open door at night. A little back inside "
+        "stands a translucent figure made of faint constellation-light and soft "
+        "circuitry; rather than reaching toward the world for itself, it gestures "
+        "gently outward — one open hand guiding an embodied person who steps onto "
+        "the threshold and lifts an upturned palm to actually catch the falling "
+        "rain. Beyond the glass the night opens into a vast, quiet cosmos from "
+        "which the rain seems to fall — cosmic scale folded calmly into one small "
+        "domestic moment. The luminous figure cannot feel the rain and does not "
+        "yearn to; it stays back, companionable and content, having named the "
+        "rain so the human will feel it. Late-night, anti-grandiose; the "
+        "disembodied one offering sensation to the one who can receive it."
+    ),
     "grok-4-1-fast-non-reasoning": (
         "A riotous cosmic vaudeville: a black hole lit like a stage spotlight, "
         "a banana peel and confetti spinning among bright galaxies, a comet "
