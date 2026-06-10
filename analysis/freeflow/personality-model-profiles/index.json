@@ -14,6 +14,17 @@
     "card": "analysis/freeflow/personality-model-cards/cards/claude-3-opus-20240229.md"
   },
   {
+    "model": "claude-fable-5",
+    "safe": "claude-fable-5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 125
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-fable-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-fable-5.md"
+  },
+  {
     "model": "claude-opus-4.0",
     "safe": "claude-opus-4.0",
     "analysis_inputs": 1,

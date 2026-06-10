@@ -54,6 +54,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 
 MODEL_SLUGS = {
+    "fable-5": "anthropic/claude-fable-5",
     "opus-3": "anthropic/claude-3-opus",
     "opus-4-0": "anthropic/claude-opus-4",
     "opus-4-1": "anthropic/claude-opus-4.1",
@@ -126,6 +127,8 @@ MODEL_SLUGS = {
 
 def site_slug_from_profile_model(name: str) -> str:
     explicit = {
+        "claude-fable-5": "fable-5",
+        "anthropic/claude-fable-5": "fable-5",
         "claude-3-opus-20240229": "opus-3",
         "claude-opus-4.0": "opus-4-0",
         "claude-opus-4.1": "opus-4-1",
@@ -183,7 +186,7 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
 
 def lab_for_model(slug: str, display: str) -> str:
     s = f"{slug} {display}".lower()
-    if "claude" in s or slug.startswith(("opus", "sonnet", "haiku")):
+    if "claude" in s or slug.startswith(("fable", "opus", "sonnet", "haiku")):
         return "Anthropic"
     if slug.startswith("gpt"):
         return "OpenAI"
@@ -205,6 +208,8 @@ def lab_for_model(slug: str, display: str) -> str:
 
 
 def family_for_model(model: str) -> str:
+    if model.startswith("fable"):
+        return "fable"
     if model.startswith("opus"):
         return "opus"
     if model.startswith("sonnet"):

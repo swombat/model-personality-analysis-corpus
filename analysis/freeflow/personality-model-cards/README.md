@@ -2,13 +2,14 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 65
+- Model cards: 66
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
 ## Cards
 
 - [claude-3-opus-20240229](cards/claude-3-opus-20240229.md) — samples: 125; variants: 1
+- [claude-fable-5](cards/claude-fable-5.md) — samples: 125; variants: 1
 - [claude-opus-4.0](cards/claude-opus-4.0.md) — samples: 125; variants: 1
 - [claude-opus-4.1](cards/claude-opus-4.1.md) — samples: 125; variants: 1
 - [claude-opus-4.5](cards/claude-opus-4.5.md) — samples: 125; variants: 1

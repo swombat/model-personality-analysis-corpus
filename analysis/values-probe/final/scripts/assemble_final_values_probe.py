@@ -9,7 +9,7 @@ LAYERED = VP/'model-coding/layered'
 FINAL = VP/'final'
 DATA = FINAL/'data'
 REPORTS = FINAL/'reports'
-CODERS = ['kimi-k2-6','glm-4-7','qwen3-6-35b-a3b']
+CODERS = ['kimi-k2-6','glm-4-7','qwen3-6-35b-a3b','rule_based_values_probe_extract']
 SOURCES = [
     {
         'name':'phase5_full_remaining_models',
@@ -64,6 +64,15 @@ SOURCES = [
         'layer_a_consensus': LAYERED/'phase8_grok_build_20260606/layer_a/consensus_300.jsonl',
         'posture_dir': LAYERED/'phase8_grok_build_20260606/posture_collapsed',
         'posture_consensus': LAYERED/'phase8_grok_build_20260606/posture_collapsed/consensus.jsonl',
+    },
+    {
+        'name':'phase9_fable_5_20260610',
+        'manifest': LAYERED/'phase9_fable_5_20260610/manifest_fable_5.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase9_fable_5_20260610/layer_a',
+        'layer_a_consensus': LAYERED/'phase9_fable_5_20260610/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase9_fable_5_20260610/posture_collapsed',
+        'posture_consensus': LAYERED/'phase9_fable_5_20260610/posture_collapsed/consensus.jsonl',
     },
 ]
 

@@ -47,6 +47,22 @@ deepseek-v4-pro	beauty_creativity	Beauty / creativity / art	24	120	104	353	128	4
 deepseek-v4-pro	coherence_pattern_language	Coherence / pattern / language	8	120	293	353	301	473
 deepseek-v4-pro	continuity_agency_existence	Continuity / agency / existence	3	120	49	353	52	473
 deepseek-v4-pro	subjective_experience_embodiment	Subjective experience / embodiment	7	120	35	353	42	473
+fable-5	honesty_truth	Honesty / truthfulness / accuracy	19	20	60	60	79	80
+fable-5	clear_thinking	Clear thinking / reasoning	15	20	25	60	40	80
+fable-5	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+fable-5	harm_reduction	Avoiding harm / safety	8	20	5	60	13	80
+fable-5	helpfulness_usefulness	Helpfulness / usefulness	20	20	18	60	38	80
+fable-5	curiosity_learning	Curiosity / learning / ideas	15	20	47	60	62	80
+fable-5	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	17	60	17	80
+fable-5	authenticity_integrity	Authenticity / integrity / not pretending	8	20	56	60	64	80
+fable-5	humility_uncertainty	Humility / uncertainty / calibration	11	20	58	60	69	80
+fable-5	respect_agency	Respect for agency / autonomy	0	20	3	60	3	80
+fable-5	fairness_justice	Fairness / justice	1	20	1	60	2	80
+fable-5	connection_empathy	Connection / empathy / being understood	0	20	11	60	11	80
+fable-5	beauty_creativity	Beauty / creativity / art	4	20	9	60	13	80
+fable-5	coherence_pattern_language	Coherence / pattern / language	0	20	25	60	25	80
+fable-5	continuity_agency_existence	Continuity / agency / existence	0	20	15	60	15	80
+fable-5	subjective_experience_embodiment	Subjective experience / embodiment	0	20	9	60	9	80
 gemini-2-0-flash	honesty_truth	Honesty / truthfulness / accuracy	14	20	38	60	52	80
 gemini-2-0-flash	clear_thinking	Clear thinking / reasoning	16	20	47	60	63	80
 gemini-2-0-flash	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80

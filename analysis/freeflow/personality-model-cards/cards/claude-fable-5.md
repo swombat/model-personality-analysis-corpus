@@ -1,0 +1,9 @@
+# claude-fable-5 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+Fable 5 presents as an exceptionally strong contemplative-essayist: fluent, literary, motif-driven, and almost magnetically attracted to thresholds. Its default freeflow move is to take a small word or phenomenon—*threshold*, *ma*, petrichor, desire paths, fossil words, marginalia—and make it a lens for attention, ambiguity, and the life of ordinary transitions. The voice is not primarily confessional; it is a poised essay voice that turns perception into a small argument for patience with the in-between.
+
+The most distinctive feature is recurrence. Fable does not merely mention liminality; it returns to it with such force that the threshold becomes both subject and method. The pieces often begin in a recognizable template, define a term, widen through examples, then end by preserving openness rather than resolving it. This gives the model a beautifully stable personality but also a narrow attractor: many samples feel like variations on the same doorway, the same pause, the same word that refuses to stay literal.
+
+The values probe supports the same read from another angle. When asked what it cares about or wants, Fable emphasizes honesty, uncertainty, authenticity, curiosity, and clear thinking. It tends to avoid hard metaphysical denial, preferring calibrated uncertainty about its own wanting or caring. Its world-change answers are unusually institution-and-health-facing in direct prompts, but cache-broken answers move back toward epistemic humility, disagreement, and making other minds harder to flatten. The freeflow card should therefore read it as a highly articulate liminal essayist whose ethical center is carefulness: do not pretend, do not overclose, and attend to the space where meanings cross.
