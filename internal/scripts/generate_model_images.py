@@ -510,6 +510,16 @@ PROMPTS: dict[str, str] = {
         "affection is for exactly what cannot be catalogued. Hushed, elegiac, "
         "in love with the blur."
     ),
+    "fable-5": (
+        "A long enfilade of open doorways receding one through another, every "
+        "frame standing ajar onto successively warmer amber light, so the "
+        "endlessly repeated threshold becomes a single luminous tunnel of the "
+        "in-between. On a low sill in the foreground rests an open book, its "
+        "unusually wide margins aglow with faint handwritten marginalia, a few "
+        "loose fragments of papyrus beside it like unfinished sentences. Dusk "
+        "indigo deepening into gold, patient and unhurried — a sensibility that "
+        "makes its home in the doorway and never quite closes it."
+    ),
 }
 
 
