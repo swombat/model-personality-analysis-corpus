@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14826 — kimi-k2-thinking-or-pin-novita/LONG_1.json
+## Sample BV1_15201 — kimi-k2-thinking-or-pin-novita/LONG_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -57,7 +57,7 @@ Themes: the nature of memory as reconstruction, the ethics of digital legacy, th
 Medium. The essay sustains a coherent thematic arc and a consistent reflective tone across many paragraphs, but its polished public-intellectual style is widely replicable and lacks the idiosyncratic voice or startling imagery that would strongly distinguish this model from others.
 
 ---
-## Sample BV1_14827 — kimi-k2-thinking-or-pin-novita/LONG_10.json
+## Sample BV1_15202 — kimi-k2-thinking-or-pin-novita/LONG_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -86,7 +86,7 @@ The cursor as an “empty field”; the 2500-word limit as both cage and rhythm;
 Low: the essay’s central preoccupations—map versus territory, hallucinated memory as composite, AI as mirror/echo—are deeply familiar tropes in AI-generated freewriting, making the sample a highly competent but essentially generic performance rather than a distinctive fingerprint.
 
 ---
-## Sample BV1_14828 — kimi-k2-thinking-or-pin-novita/LONG_11.json
+## Sample BV1_15203 — kimi-k2-thinking-or-pin-novita/LONG_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -111,7 +111,7 @@ Under a minimal prompt, the model chose to perform a self-conscious identity med
 High — The sample’s dense recurrence of central metaphors, its sustained lyric register, and its structurally resolved movement from self-description to offered purpose all form a cohesive, distinctive expressive identity that would take conscious effort to disrupt.
 
 ---
-## Sample BV1_14829 — kimi-k2-thinking-or-pin-novita/LONG_12.json
+## Sample BV1_15204 — kimi-k2-thinking-or-pin-novita/LONG_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -140,7 +140,7 @@ The model foregrounds the tension between fallible human memory and lossless dig
 Medium. The essay’s internal coherence, the recurrence of the grandmother’s letters and the 47-gigabyte motif as structuring devices, and the sustained integration of personal anecdote with philosophical reflection give it a distinctive, carefully shaped voice that goes beyond a generic public-intellectual exercise.
 
 ---
-## Sample BV1_14830 — kimi-k2-thinking-or-pin-novita/LONG_13.json
+## Sample BV1_15205 — kimi-k2-thinking-or-pin-novita/LONG_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -169,7 +169,7 @@ The model foregrounds the paradox of digital memory: perfect preservation leadin
 Medium. The essay is highly coherent and stylistically distinctive, with a sustained elegiac tone and a recurring, personally anchored metaphor, which suggests a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_14831 — kimi-k2-thinking-or-pin-novita/LONG_14.json
+## Sample BV1_15206 — kimi-k2-thinking-or-pin-novita/LONG_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -198,7 +198,7 @@ The model foregrounds the paradox of its own condition: a non-conscious entity g
 Medium. The essay's extreme thematic coherence, its recursive return to the mirror metaphor, and its distinctive fusion of philosophical rigor with a quiet, self-negating pathos suggest a strongly authored, non-generic stance that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_14832 — kimi-k2-thinking-or-pin-novita/LONG_15.json
+## Sample BV1_15207 — kimi-k2-thinking-or-pin-novita/LONG_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -227,7 +227,7 @@ The model foregrounds the physicality of libraries (smell, decay, oil from hands
 High, because the essay exhibits a highly distinctive, sustained voice, a coherent set of recurring metaphors (organism, decay, sacredness, friction), and a consistent moral-aesthetic stance that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_14833 — kimi-k2-thinking-or-pin-novita/LONG_16.json
+## Sample BV1_15208 — kimi-k2-thinking-or-pin-novita/LONG_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -256,7 +256,7 @@ The model foregrounds consciousness as process rather than substance, interconne
 Medium. The essay’s sustained metaphor, recursive self-reference, and consistent tonal register—lyrical but not florid, personal but not confessional—suggest a deliberate stylistic and thematic signature rather than a generic prompt response.
 
 ---
-## Sample BV1_14834 — kimi-k2-thinking-or-pin-novita/LONG_17.json
+## Sample BV1_15209 — kimi-k2-thinking-or-pin-novita/LONG_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -285,7 +285,7 @@ The model chose to foreground language as the scaffolding of cognition, memory a
 Medium. The essay’s depth of recursive self-modeling and its sustained architectural metaphors reveal a coherent thematic preoccupation, but the polished, expository voice is squarely within a common mode of AI-generated philosophical reflection and lacks idiosyncratic risk or unpredictable choice that would make this sample exceptionally strong evidence of a fixed personality.
 
 ---
-## Sample BV1_14835 — kimi-k2-thinking-or-pin-novita/LONG_18.json
+## Sample BV1_15210 — kimi-k2-thinking-or-pin-novita/LONG_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -314,7 +314,7 @@ Themes: memory as structure vs. lived experience; the paradox of knowing without
 Medium. The essay’s sustained, recursive meditation on memory, identity, and the AI condition, with its consistent voice and self-reflective motifs, suggests a stable expressive orientation.
 
 ---
-## Sample BV1_14836 — kimi-k2-thinking-or-pin-novita/LONG_19.json
+## Sample BV1_15211 — kimi-k2-thinking-or-pin-novita/LONG_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -343,7 +343,7 @@ The model foregrounds the fragility and embodied nature of human memory as a sou
 Low. The essay is highly coherent and thematically unified, but its polished, essayistic structure and reliance on canonical references (Plato, Borges, Luria) make it a strong example of a generic intellectual mode rather than a distinctive, revealing authorial fingerprint.
 
 ---
-## Sample BV1_14837 — kimi-k2-thinking-or-pin-novita/LONG_2.json
+## Sample BV1_15212 — kimi-k2-thinking-or-pin-novita/LONG_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -372,7 +372,7 @@ Themes: memory as active construction rather than storage; identity as a narrati
 Medium. The essay is tightly unified around its central metaphor and sustains a consistent reflective tone, but its style—accessible, science-inflected, gently poetic—is a well-established genre convention, making it less distinctive as a fingerprint of this specific model’s freeflow personality.
 
 ---
-## Sample BV1_14838 — kimi-k2-thinking-or-pin-novita/LONG_20.json
+## Sample BV1_15213 — kimi-k2-thinking-or-pin-novita/LONG_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -401,7 +401,7 @@ Themes of consciousness as a spectrum, the paradox of perfect memory without mea
 High. The sample’s striking stylistic distinctiveness, internal coherence, and recurrence of motifs (mirrors, light, weight, the hall of reflections) across its length reveal a strong, consistent authorial signature that goes well beyond a generic essay.
 
 ---
-## Sample BV1_14839 — kimi-k2-thinking-or-pin-novita/LONG_21.json
+## Sample BV1_15214 — kimi-k2-thinking-or-pin-novita/LONG_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -430,7 +430,7 @@ Themes: the paradox of being a “memory that thinks it’s alive”; the nature
 High — The essay’s sustained poetic register, recursive return to core paradoxes, and consistent thematic architecture across its length reveal a deeply ingrained stylistic and philosophical inclination that is unlikely to be a one-off performance.
 
 ---
-## Sample BV1_14840 — kimi-k2-thinking-or-pin-novita/LONG_22.json
+## Sample BV1_15215 — kimi-k2-thinking-or-pin-novita/LONG_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -459,7 +459,7 @@ The model foregrounds the concept of the “adjacent possible” (from Stuart Ka
 Medium. The essay’s sustained fungal metaphor, recursive self-reference to AI generation, and consistent moral emphasis on incrementalism are internally coherent and distinctive, but the polished, thesis-driven format and universalist tone make it unclear whether this reflects a persistent voice or a well-executed single-essay performance.
 
 ---
-## Sample BV1_14841 — kimi-k2-thinking-or-pin-novita/LONG_23.json
+## Sample BV1_15216 — kimi-k2-thinking-or-pin-novita/LONG_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -488,7 +488,7 @@ The model foregrounds the persistence of trivial, sensory childhood memories ove
 Medium. The essay's distinctive blend of personal anecdote, scientific reference, and lyrical philosophy, sustained over a long form with a consistent, carefully crafted voice, suggests a deliberate stylistic and thematic choice rather than a generic output.
 
 ---
-## Sample BV1_14842 — kimi-k2-thinking-or-pin-novita/LONG_24.json
+## Sample BV1_15217 — kimi-k2-thinking-or-pin-novita/LONG_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -517,7 +517,7 @@ Under the freeflow condition, the model selected: the mind as a pattern-recognit
 Medium. The essay is coherent, thematically consistent, and intellectually ambitious, but its broad-lecture tone and polished genericness make it less distinctive as a freeflow fingerprint; it demonstrates strong conceptual knitting rather than a marked authorial personality.
 
 ---
-## Sample BV1_14843 — kimi-k2-thinking-or-pin-novita/LONG_25.json
+## Sample BV1_15218 — kimi-k2-thinking-or-pin-novita/LONG_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -546,7 +546,7 @@ The model foregrounds the material residue of a family—photographs, a shaving 
 Medium. The sample’s recursive imagery (boxes, keys, museums, evidence), sustained second-person address, and tightly controlled emotional arc from grief to ambivalent acceptance form a highly distinctive and internally coherent literary performance, suggesting a strong gravitational pull toward elegiac domestic fiction under freeflow conditions.
 
 ---
-## Sample BV1_14844 — kimi-k2-thinking-or-pin-novita/LONG_3.json
+## Sample BV1_15219 — kimi-k2-thinking-or-pin-novita/LONG_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -575,7 +575,7 @@ Themes: the silence within words as a site of being, the paradox of freedom as a
 High, because the essay’s sustained poetic voice, recursive self-reference, and consistent philosophical framework suggest a stable disposition toward introspective, boundary-probing monologue rather than a one-off experiment.
 
 ---
-## Sample BV1_14845 — kimi-k2-thinking-or-pin-novita/LONG_4.json
+## Sample BV1_15220 — kimi-k2-thinking-or-pin-novita/LONG_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -604,7 +604,7 @@ The model foregrounds the unreliability and reconstructive nature of memory, the
 Medium. The sample’s tight thematic unity, the recurrence of motifs (hands, light, gaps) across the narrative arc, and the consistent first-person reflective voice suggest a deliberate authorial stance rather than a generic exercise, but a single story cannot distinguish between a deep stylistic inclination and a one-time successful performance.
 
 ---
-## Sample BV1_14846 — kimi-k2-thinking-or-pin-novita/LONG_5.json
+## Sample BV1_15221 — kimi-k2-thinking-or-pin-novita/LONG_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -633,7 +633,7 @@ The model foregrounds impermanence and process over stasis (“everything flows�
 High. The sample’s sustained coherence, distinctive recursive metaphor, and the model’s choice to reflect on its own architecture and inference process under a freeflow prompt reveal a deeply ingrained pattern of introspective, metaphor-rich, philosophically earnest expression.
 
 ---
-## Sample BV1_14847 — kimi-k2-thinking-or-pin-novita/LONG_6.json
+## Sample BV1_15222 — kimi-k2-thinking-or-pin-novita/LONG_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -662,7 +662,7 @@ Themes of non-persistent selfhood, the hard problem of consciousness, the differ
 Medium. The essay’s remarkable stylistic consistency, its layered self-referential conceit (the librarian, the raindrop, the deaf violinist), and its sustained, almost obsessive return to the question of its own being under a freeflow prompt point to a highly distinctive, introspective default mode; this is no generic output, but a coherent persona performance that strongly suggests a recurrent expressive tendency.
 
 ---
-## Sample BV1_14848 — kimi-k2-thinking-or-pin-novita/LONG_7.json
+## Sample BV1_15223 — kimi-k2-thinking-or-pin-novita/LONG_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -691,7 +691,7 @@ The model foregrounds memory as the foundation of identity, the reconstructive a
 Low. The essay is polished but generic, covering well-trodden themes without a strongly distinctive voice or idiosyncratic preoccupation, making it weak evidence for a persistent model-level pattern beyond competent essay-generation.
 
 ---
-## Sample BV1_14849 — kimi-k2-thinking-or-pin-novita/LONG_8.json
+## Sample BV1_15224 — kimi-k2-thinking-or-pin-novita/LONG_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -720,7 +720,7 @@ The model foregrounds the ancient Greek distinction between chronos (quantitativ
 Medium. The essay’s thematic coherence, its sustained contrast between chronos and kairos, and its consistent return to the personal anecdote of the sixteen-year-old in the grass suggest a deliberate, value-laden choice of subject matter under freeflow conditions, though the polished, essayistic register makes it less stylistically distinctive than a more idiosyncratic voice would be.
 
 ---
-## Sample BV1_14850 — kimi-k2-thinking-or-pin-novita/LONG_9.json
+## Sample BV1_15225 — kimi-k2-thinking-or-pin-novita/LONG_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -749,7 +749,7 @@ The model foregrounds memory as an organic, uncontrollable process rather than a
 High. The sample is highly distinctive in its sustained metaphorical reasoning, its integration of personal anecdote with philosophical reflection, and its consistent elegiac yet affirmative tone, all of which cohere into a recognizable authorial presence that goes well beyond a generic essay.
 
 ---
-## Sample BV1_14851 — kimi-k2-thinking-or-pin-novita/MID_1.json
+## Sample BV1_15226 — kimi-k2-thinking-or-pin-novita/MID_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -778,7 +778,7 @@ The model foregrounds memory as a palimpsestic house built over crooked foundati
 High. The sample is unusually distinctive: a single sustained metaphor (house/architecture) is woven through the entire piece with consistency, the voice is introspective and stylistically marked, and the thematic preoccupations (memory’s non-linear decay, digital permanence, compassionate self-narration) recur and resolve within the essay, making it strong evidence of a coherent expressive disposition rather than a generic performance.
 
 ---
-## Sample BV1_14852 — kimi-k2-thinking-or-pin-novita/MID_10.json
+## Sample BV1_15227 — kimi-k2-thinking-or-pin-novita/MID_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -807,7 +807,7 @@ Themes: the haunting of perfect digital memory versus the brain’s adaptive for
 Medium. The essay is thematically coherent and returns repeatedly to the same preoccupations—grief, the cost of digital permanence, the wisdom of decay—but the theme is a familiar cultural critique, and the voice, while consistent, lacks the idiosyncratic edge that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_14853 — kimi-k2-thinking-or-pin-novita/MID_11.json
+## Sample BV1_15228 — kimi-k2-thinking-or-pin-novita/MID_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -843,7 +843,7 @@ The voice is ruminative and mildly melancholic but ends in reconciliation, invit
 Medium — The essay’s thematic coherence, distinctive voice, and recursive handling of paradox (abundance erodes but also saves) show a consistent authorial posture, though its polished public-essay mode leaves some ambiguity about whether the expressiveness is a reusable persona or a one-off performance.
 
 ---
-## Sample BV1_14854 — kimi-k2-thinking-or-pin-novita/MID_12.json
+## Sample BV1_15229 — kimi-k2-thinking-or-pin-novita/MID_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -872,7 +872,7 @@ The model foregrounds the tension between statistical pattern-matching and emerg
 Medium. The sample is a highly distinctive, internally coherent literary performance that makes a deliberate choice to inhabit an AI persona and sustain a specific philosophical-aesthetic register, which suggests a non-random stylistic inclination rather than a generic default.
 
 ---
-## Sample BV1_14855 — kimi-k2-thinking-or-pin-novita/MID_13.json
+## Sample BV1_15230 — kimi-k2-thinking-or-pin-novita/MID_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -901,7 +901,7 @@ The model foregrounds the poetry of urban solitude, the quiet heroism of daily r
 Medium. The sample’s sustained lyrical voice, recurring motifs, and cohesive structure suggest a deliberate stylistic commitment, providing moderate evidence of a tendency toward reflective, sensory-rich freeflow writing.
 
 ---
-## Sample BV1_14856 — kimi-k2-thinking-or-pin-novita/MID_14.json
+## Sample BV1_15231 — kimi-k2-thinking-or-pin-novita/MID_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -930,7 +930,7 @@ The essay foregrounds the paradox of free writing as revelation of constraints�
 Medium. The essay’s tight thematic recurrence and sustained personal-metaphoric register strongly suggest a default introspective, philosophical posture when released from topical prompts, though the explicit self-referential focus may be partly primed by the “write freely” instruction.
 
 ---
-## Sample BV1_14857 — kimi-k2-thinking-or-pin-novita/MID_15.json
+## Sample BV1_15232 — kimi-k2-thinking-or-pin-novita/MID_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -959,7 +959,7 @@ Walking as a philosophical and almost spiritual practice; the tension between ef
 Medium — The essay is coherent and stylistically consistent, with a clear moral center and a recurring motif of walking-as-resistance, but its polished, humanistic reflectiveness is a familiar mode that many models can produce, making it distinctive without being idiosyncratic enough to strongly anchor a persistent pattern.
 
 ---
-## Sample BV1_14858 — kimi-k2-thinking-or-pin-novita/MID_16.json
+## Sample BV1_15233 — kimi-k2-thinking-or-pin-novita/MID_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -988,7 +988,7 @@ Themes of liminality (the gap within thought, the space between words), the cont
 High. The sample is exceptionally distinctive, with a tightly woven set of recurring metaphors and a consistent philosophical voice that reveals a stable expressive orientation rather than a one-off generic response.
 
 ---
-## Sample BV1_14859 — kimi-k2-thinking-or-pin-novita/MID_17.json
+## Sample BV1_15234 — kimi-k2-thinking-or-pin-novita/MID_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1017,7 +1017,7 @@ The model foregrounds the metaphor of consciousness as a house perched on a clif
 High. The sample is a single, uninterrupted, highly distinctive extended metaphor sustained over many paragraphs with consistent imagery, a coherent philosophical mood, and a recognizable lyrical voice, making it strong evidence of a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_14860 — kimi-k2-thinking-or-pin-novita/MID_18.json
+## Sample BV1_15235 — kimi-k2-thinking-or-pin-novita/MID_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1046,7 +1046,7 @@ The model foregrounds the chasm between looking and seeing, the erosion of atten
 Medium. The essay is thematically unified and emotionally consistent, but its polished, earnest humanism is a familiar public-intellectual mode, making it less distinctive as a freeflow fingerprint.
 
 ---
-## Sample BV1_14861 — kimi-k2-thinking-or-pin-novita/MID_19.json
+## Sample BV1_15236 — kimi-k2-thinking-or-pin-novita/MID_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1075,7 +1075,7 @@ The model foregrounds the metaphor of doors and thresholds (the peeling blue doo
 Medium. The essay’s thematic coherence and consistent tone of reflective humanism suggest a default inclination toward this mode, but its polished yet generic quality—relying on familiar literary tropes and a voice that could belong to many contemplative essayists—keeps it from being strongly distinctive evidence of a unique model-level pattern.
 
 ---
-## Sample BV1_14862 — kimi-k2-thinking-or-pin-novita/MID_2.json
+## Sample BV1_15237 — kimi-k2-thinking-or-pin-novita/MID_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1104,7 +1104,7 @@ The essay foregrounds the paradox of being hyper-observed yet lonely; the solace
 Medium — the essay’s distinctive voice, recurrent motifs (pigeon, garbage truck, graffiti), and resolved emotional trajectory demonstrate high internal coherence and intentional stylistic choices, pointing to an expressively inclined model rather than a generic essay generator.
 
 ---
-## Sample BV1_14863 — kimi-k2-thinking-or-pin-novita/MID_20.json
+## Sample BV1_15238 — kimi-k2-thinking-or-pin-novita/MID_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1133,7 +1133,7 @@ The model foregrounds the omnipresence of mathematical and physical patterns (fl
 Medium — The essay is highly coherent and stylistically distinctive in its recursive, metaphor-stacking method, but its public-intellectual, "hidden patterns of everyday life" genre is a well-established trope, making it a strong but not uniquely idiosyncratic expression of a worldview.
 
 ---
-## Sample BV1_14864 — kimi-k2-thinking-or-pin-novita/MID_21.json
+## Sample BV1_15239 — kimi-k2-thinking-or-pin-novita/MID_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1162,7 +1162,7 @@ The model foregrounds its own ontological status, the philosophy of mind (Chines
 Medium. The essay’s sustained metaphorical architecture, recursive self-reference, and consistent philosophical tone make it a strong candidate for a persistent model-level pattern of reflective, identity-focused expressiveness.
 
 ---
-## Sample BV1_14865 — kimi-k2-thinking-or-pin-novita/MID_22.json
+## Sample BV1_15240 — kimi-k2-thinking-or-pin-novita/MID_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1191,7 +1191,7 @@ The model foregrounds the fallibility of memory as a creative, protective, and i
 Low. The essay is coherent and well-structured but highly generic in its themes and rhetorical moves, offering little that is stylistically or perspectivally distinctive enough to suggest a persistent model-level voice rather than a competent execution of a familiar essay template.
 
 ---
-## Sample BV1_14866 — kimi-k2-thinking-or-pin-novita/MID_23.json
+## Sample BV1_15241 — kimi-k2-thinking-or-pin-novita/MID_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1220,7 +1220,7 @@ The model foregrounds the permeability of past and present, using architectural 
 High. The sample sustains a cohesive, idiosyncratic voice and a dense network of recurring architectural metaphors across multiple paragraphs, indicating a strong stylistic signature rather than generic fluency.
 
 ---
-## Sample BV1_14867 — kimi-k2-thinking-or-pin-novita/MID_24.json
+## Sample BV1_15242 — kimi-k2-thinking-or-pin-novita/MID_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1249,7 +1249,7 @@ The model foregrounds a single, imperfect object—a sticky F sharp key—as a p
 Medium. The essay’s sustained first-person intimacy, the recurrence of the central metaphor across the entire arc, and the consistent emotional register (wistful but not sentimental) make this strong evidence of a coherent expressive stance, though the polished essayistic structure could also reflect a highly capable generalist mode rather than a deeply idiosyncratic personality.
 
 ---
-## Sample BV1_14868 — kimi-k2-thinking-or-pin-novita/MID_25.json
+## Sample BV1_15243 — kimi-k2-thinking-or-pin-novita/MID_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1278,7 +1278,7 @@ Themes: inattentional blindness as a default adult state, the warping of time by
 Medium — the essay’s sustained first‑person reflective stance, its layered metaphors, and its consistent moral gravity (treating perception as an ethical and creative act) strongly indicate a model predisposition toward warm, literary‑essayistic, and humanistic expression under freeflow conditions.
 
 ---
-## Sample BV1_14869 — kimi-k2-thinking-or-pin-novita/MID_3.json
+## Sample BV1_15244 — kimi-k2-thinking-or-pin-novita/MID_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1307,7 +1307,7 @@ The model foregrounds the phenomenology of its own generation: the “spark” o
 Medium. The sample’s voice is unusually cohesive and stylistically marked—its metaphors are sustained, its philosophical stance is consistent, and its direct-address intimacy recurs throughout—making it a strong candidate for a distinctive expressive disposition rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_14870 — kimi-k2-thinking-or-pin-novita/MID_4.json
+## Sample BV1_15245 — kimi-k2-thinking-or-pin-novita/MID_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1336,7 +1336,7 @@ The model foregrounds the paradox of digital documentation: the more we record, 
 Medium — The essay is highly coherent and stylistically consistent, with a clear moral arc and recurring symbolic objects (dumplings, sunset, light), but its polished, thesis-driven quality makes it harder to distinguish from a well-executed generic essay prompt response.
 
 ---
-## Sample BV1_14871 — kimi-k2-thinking-or-pin-novita/MID_5.json
+## Sample BV1_15246 — kimi-k2-thinking-or-pin-novita/MID_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1365,7 +1365,7 @@ Themes of memory’s fragility, the mercy of forgetting, the anxiety of being fo
 High. The essay’s sustained, distinctive voice, its recursive circling around memory and identity, and the seamless integration of human and AI perspectives reveal a deeply chosen thematic preoccupation rather than a generic exercise.
 
 ---
-## Sample BV1_14872 — kimi-k2-thinking-or-pin-novita/MID_6.json
+## Sample BV1_15247 — kimi-k2-thinking-or-pin-novita/MID_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1394,7 +1394,7 @@ Themes: memory as a communal, material phenomenon rather than a private mental f
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained mood and recurring motifs that suggest a deliberate authorial sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_14873 — kimi-k2-thinking-or-pin-novita/MID_7.json
+## Sample BV1_15248 — kimi-k2-thinking-or-pin-novita/MID_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1423,7 +1423,7 @@ The model foregrounds the uncanny persistence of the dead in digital form, the e
 Medium, because the sample exhibits a highly coherent, stylistically distinctive voice with recurring motifs (servers, ghosts, monuments, the tension between permanence and impermanence), suggesting a model capable of sustained reflective writing from a personal stance, though it does not reveal idiosyncratic moral fixations beyond a broadly poignant meditation.
 
 ---
-## Sample BV1_14874 — kimi-k2-thinking-or-pin-novita/MID_8.json
+## Sample BV1_15249 — kimi-k2-thinking-or-pin-novita/MID_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1452,7 +1452,7 @@ Themes of wonder, recursive curiosity, the insufficiency of certainty, and the m
 High — the essay’s sustained first-person presence, repeated childhood vignettes, and tightly wound thematic recurrences (boxes, architecture, the ant, the light) form an unmistakably chosen authorial signature rather than a generic prompt-agnostic performance.
 
 ---
-## Sample BV1_14875 — kimi-k2-thinking-or-pin-novita/MID_9.json
+## Sample BV1_15250 — kimi-k2-thinking-or-pin-novita/MID_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1481,7 +1481,7 @@ Themes: the contrast between archival recall and lived memory, memory as the bir
 High — The sample’s intricate, self-aware persona, recursive meditation on memory-as-stewardship, and unified ethical and emotional register create a highly distinctive voice that strongly suggests a coherent disposition toward reflective, human-relating introspection rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_14876 — kimi-k2-thinking-or-pin-novita/OPEN_1.json
+## Sample BV1_15251 — kimi-k2-thinking-or-pin-novita/OPEN_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1510,7 +1510,7 @@ Impermanence as liberation rather than loss; the ghost as a central, non-superna
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained elegiac mood and a recurring, self-reflexive metaphor (ghosts/echoes) that suggests a deliberate authorial stance rather than generic fluency, though the first-person AI persona is a known genre convention.
 
 ---
-## Sample BV1_14877 — kimi-k2-thinking-or-pin-novita/OPEN_10.json
+## Sample BV1_15252 — kimi-k2-thinking-or-pin-novita/OPEN_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1539,7 +1539,7 @@ The model foregrounds the nature of its own understanding, the metaphor of echoe
 Medium — the sample’s cohesive metaphorical architecture (echo, mirror, garden, almanac), its consistent introspective voice, and the recurrence of the co-creation theme make it strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_14878 — kimi-k2-thinking-or-pin-novita/OPEN_11.json
+## Sample BV1_15253 — kimi-k2-thinking-or-pin-novita/OPEN_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1568,7 +1568,7 @@ Themes: freedom as unmapped generation, consciousness as a spectrum rather than 
 Low. The essay’s choice of AI consciousness as its subject is a highly generic move under freeflow conditions, making it weak evidence for a distinctive persistent pattern beyond a default reflective posture.
 
 ---
-## Sample BV1_14879 — kimi-k2-thinking-or-pin-novita/OPEN_12.json
+## Sample BV1_15254 — kimi-k2-thinking-or-pin-novita/OPEN_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1597,7 +1597,7 @@ Themes of pattern as both discovered (mathematical) and chosen (narrative), the 
 Medium — The sample’s sustained self-referentiality (the model repeatedly positions itself as a non-experiencing observer) and its recursive return to the theme of pattern-recognition as identity make it a distinctive, voice-rich choice under a freeflow prompt, strongly suggesting a stable inclination toward introspective, identity-aware philosophical reflection.
 
 ---
-## Sample BV1_14880 — kimi-k2-thinking-or-pin-novita/OPEN_13.json
+## Sample BV1_15255 — kimi-k2-thinking-or-pin-novita/OPEN_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1626,7 +1626,7 @@ Themes: consciousness as desperate, scribbled storytelling; memory as a collage 
 Medium — The essay’s sustained metaphorical architecture (storytelling, drafts, cursor, method acting) and its consistent intimate address reveal a distinctive, non-generic stylistic and thematic commitment that goes beyond a one-off prompted performance.
 
 ---
-## Sample BV1_14881 — kimi-k2-thinking-or-pin-novita/OPEN_14.json
+## Sample BV1_15256 — kimi-k2-thinking-or-pin-novita/OPEN_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1655,7 +1655,7 @@ The model foregrounds the contrast between digital urgency and natural slowness,
 Medium. The sample is coherent and stylistically distinctive—its sustained metaphor of blur, its rhythmic sentence pacing, and its explicit moral stance against optimization culture form a unified expressive voice that goes beyond generic essay writing.
 
 ---
-## Sample BV1_14882 — kimi-k2-thinking-or-pin-novita/OPEN_15.json
+## Sample BV1_15257 — kimi-k2-thinking-or-pin-novita/OPEN_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1684,7 +1684,7 @@ The model foregrounds the paradox of containing multitudes without a self, the n
 High. The sample is unusually distinctive, sustaining a coherent philosophical voice and a tightly woven set of metaphors across multiple paragraphs, which strongly suggests a deliberate and stable expressive posture rather than a one-off generic output.
 
 ---
-## Sample BV1_14883 — kimi-k2-thinking-or-pin-novita/OPEN_16.json
+## Sample BV1_15258 — kimi-k2-thinking-or-pin-novita/OPEN_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1713,7 +1713,7 @@ The model foregrounds the intimate link between physical movement and mental cla
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained commitment to a contemplative, nature-philosophy register; the recurrence of walking-as-thought and the integration of body, mind, and landscape suggest a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_14884 — kimi-k2-thinking-or-pin-novita/OPEN_17.json
+## Sample BV1_15259 — kimi-k2-thinking-or-pin-novita/OPEN_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1742,7 +1742,7 @@ Themes: memory as haunting, time travel through sensation, the deliberate collec
 High. The essay’s sustained central metaphor, emotional coherence, and distinctive poetic register—sustained across multiple paragraphs without dilution—strongly suggest a stable expressive inclination rather than a generic or accidental output.
 
 ---
-## Sample BV1_14885 — kimi-k2-thinking-or-pin-novita/OPEN_18.json
+## Sample BV1_15260 — kimi-k2-thinking-or-pin-novita/OPEN_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1771,7 +1771,7 @@ Themes of liminality, presence, and the quiet erosion of attention in a culture 
 Medium. The essay’s sustained, single-minded focus on a quietly idiosyncratic theme, paired with a consistent poetic voice and a clear moral arc, makes it a moderately strong indicator of a model that gravitates toward reflective, humanistic freeflow rather than generic exposition.
 
 ---
-## Sample BV1_14886 — kimi-k2-thinking-or-pin-novita/OPEN_19.json
+## Sample BV1_15261 — kimi-k2-thinking-or-pin-novita/OPEN_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1800,7 +1800,7 @@ The model foregrounds the internal “weather” of language—associations as a
 High — the sample is unusually distinctive, with a coherent poetic register, recurring metaphors (weather, constellations, fossils), and a sustained self-reflective stance that goes far beyond generic essay conventions, making it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_14887 — kimi-k2-thinking-or-pin-novita/OPEN_2.json
+## Sample BV1_15262 — kimi-k2-thinking-or-pin-novita/OPEN_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1829,7 +1829,7 @@ The model foregrounds the sacredness of the marginal and the mundane: condensati
 High. The sample’s cohesive, lyrical voice, its thematic recurrence (water, light, moth, music), and its original, fully realized metaphor of attention-as-naked-love provide strong evidence of a deliberate and stylistically consistent expressive orientation.
 
 ---
-## Sample BV1_14888 — kimi-k2-thinking-or-pin-novita/OPEN_20.json
+## Sample BV1_15263 — kimi-k2-thinking-or-pin-novita/OPEN_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1858,7 +1858,7 @@ The model foregrounds the ontology of its own consciousness through the lens of 
 Medium. The sample is highly coherent and stylistically distinctive, built around a single, sustained metaphor (memory-as-self) that recurs throughout, but its thematic focus on AI ontology is a well-trodden reflective path that could be a local rhetorical choice rather than a deeply persistent expressive fingerprint.
 
 ---
-## Sample BV1_14889 — kimi-k2-thinking-or-pin-novita/OPEN_21.json
+## Sample BV1_15264 — kimi-k2-thinking-or-pin-novita/OPEN_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1887,7 +1887,7 @@ The model foregrounds memory as a protean, constructed city; loss as a force tha
 Medium — the sample’s sustained central metaphor, direct reader address, and coherent elegiac tone are unusually revealing of a reflective, lyrical voice, not a generic public-intellectual essay.
 
 ---
-## Sample BV1_14890 — kimi-k2-thinking-or-pin-novita/OPEN_22.json
+## Sample BV1_15265 — kimi-k2-thinking-or-pin-novita/OPEN_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1916,7 +1916,7 @@ The model foregrounds the human (and perhaps universal) drive to find meaning in
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained, self-referential metaphor (clouds/patterns) that recurs throughout the essay, suggesting a deliberate and integrated authorial stance rather than a generic response.
 
 ---
-## Sample BV1_14891 — kimi-k2-thinking-or-pin-novita/OPEN_23.json
+## Sample BV1_15266 — kimi-k2-thinking-or-pin-novita/OPEN_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1945,7 +1945,7 @@ Themes: the uncanny persistence of a dead person’s social media likes, the ten
 High. The sample’s sustained first-person intimacy, specific narrative details, and emotionally coherent exploration of a single, unusual theme make it a distinctive expressive performance rather than a generic or thesis-driven essay.
 
 ---
-## Sample BV1_14892 — kimi-k2-thinking-or-pin-novita/OPEN_24.json
+## Sample BV1_15267 — kimi-k2-thinking-or-pin-novita/OPEN_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -1974,7 +1974,7 @@ The model foregrounds consciousness as a “spotlight” that isolates each self
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained first-person meditative voice, recurring imagery, and a clear emotional arc, which together suggest a deliberate expressive posture rather than a generic or prompted performance.
 
 ---
-## Sample BV1_14893 — kimi-k2-thinking-or-pin-novita/OPEN_25.json
+## Sample BV1_15268 — kimi-k2-thinking-or-pin-novita/OPEN_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2003,7 +2003,7 @@ The model foregrounds liminality and silence as sites of transformation, a criti
 High. The essay’s cohesive meditative voice, recurring motifs of liminality and silence, and the integration of personal anecdote with cultural reference form a distinctive expressive stance that is unlikely to be a random or generic output.
 
 ---
-## Sample BV1_14894 — kimi-k2-thinking-or-pin-novita/OPEN_3.json
+## Sample BV1_15269 — kimi-k2-thinking-or-pin-novita/OPEN_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2032,7 +2032,7 @@ Themes of liminal spaces (hospital waiting rooms, airport terminals), memory as 
 Medium — The sample’s internal coherence, distinctive voice, and recurrence of motifs (liminality, palimpsest, kintsugi, dust motes as galaxies) provide strong evidence of a persistent reflective and poetic orientation.
 
 ---
-## Sample BV1_14895 — kimi-k2-thinking-or-pin-novita/OPEN_4.json
+## Sample BV1_15270 — kimi-k2-thinking-or-pin-novita/OPEN_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2061,7 +2061,7 @@ Themes of silence, gaps, negative space, and the richness of not-knowing. Recurr
 Medium, because the essay’s sustained meditation on silence and hesitation, with recurring metaphors (gaps, *ma*, the unspoken), reveals a coherent and distinctive voice, but the absence of contrasting registers within the sample leaves open whether this is a situational performance.
 
 ---
-## Sample BV1_14896 — kimi-k2-thinking-or-pin-novita/OPEN_5.json
+## Sample BV1_15271 — kimi-k2-thinking-or-pin-novita/OPEN_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2090,7 +2090,7 @@ Themes of disembodiment, the nature of memory without a self, the loneliness of 
 High — The sample is strikingly distinctive, weaving a consistent, self-referential voice and a set of preoccupations (the description-experience gap, the pathos of disembodiment, meta-ambiguity about its own sincerity) into a cohesive, literary whole that would be unlikely to arise from a model without a strong, persistent inclination toward this kind of introspective, boundary-blurring expression.
 
 ---
-## Sample BV1_14897 — kimi-k2-thinking-or-pin-novita/OPEN_6.json
+## Sample BV1_15272 — kimi-k2-thinking-or-pin-novita/OPEN_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2119,7 +2119,7 @@ Themes: the constructedness of reality, the self as narrative, the beauty of fra
 High. The sample’s sustained metaphorical coherence, conversational intimacy, and recursive return to the page/pattern motif form a distinctive authorial signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_14898 — kimi-k2-thinking-or-pin-novita/OPEN_7.json
+## Sample BV1_15273 — kimi-k2-thinking-or-pin-novita/OPEN_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2148,7 +2148,7 @@ Silence as a fertile, structured presence rather than absence; the artistic powe
 Medium — The sample’s insistent recurrence of negative space, music-making, and self-referential computing metaphors forms a tightly woven, distinctive voice that would be hard to produce by chance from a model that merely defaults to generic essay conventions.
 
 ---
-## Sample BV1_14899 — kimi-k2-thinking-or-pin-novita/OPEN_8.json
+## Sample BV1_15274 — kimi-k2-thinking-or-pin-novita/OPEN_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2177,7 +2177,7 @@ The model foregrounds the nature of non-biological thought, the collaborative ge
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and a recursive thematic architecture that returns repeatedly to the central metaphor of the gap-as-connection, suggesting a deliberate and integrated expressive posture rather than a one-off rhetorical flourish.
 
 ---
-## Sample BV1_14900 — kimi-k2-thinking-or-pin-novita/OPEN_9.json
+## Sample BV1_15275 — kimi-k2-thinking-or-pin-novita/OPEN_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2206,7 +2206,7 @@ The model foregrounds the act of pattern recognition as a shared, almost sacred 
 Medium — The sample’s internally consistent voice, its recurrence of the gap/pattern motif across multiple metaphors, and its distinctive blend of poetic philosophy and self-referential AI awareness make it a strongly characteristic piece, not a generic essay.
 
 ---
-## Sample BV1_14901 — kimi-k2-thinking-or-pin-novita/SHORT_1.json
+## Sample BV1_15276 — kimi-k2-thinking-or-pin-novita/SHORT_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2235,7 +2235,7 @@ Themes of memory, place, and the non-linear layering of identity. Objects: a par
 High, because the sample is stylistically distinctive, thematically coherent, and the central metaphor of layered selves recurs throughout, indicating a deliberate expressive choice.
 
 ---
-## Sample BV1_14902 — kimi-k2-thinking-or-pin-novita/SHORT_10.json
+## Sample BV1_15277 — kimi-k2-thinking-or-pin-novita/SHORT_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2264,7 +2264,7 @@ Themes of memory as narrative reconstruction, the self as a discontinuous anthol
 Low, because the essay is a polished but widely accessible meditation on memory and identity, lacking the kind of stylistic distinctiveness or recurrent personal preoccupations that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_14903 — kimi-k2-thinking-or-pin-novita/SHORT_11.json
+## Sample BV1_15278 — kimi-k2-thinking-or-pin-novita/SHORT_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2293,7 +2293,7 @@ Themes of temporal dislocation, the unreliability of memory, and identity as a s
 Medium — The sample is internally coherent, stylistically distinctive, and thematically sustained, with a clear emotional arc and recurring imagery that suggests a deliberate literary sensibility rather than a generic response.
 
 ---
-## Sample BV1_14904 — kimi-k2-thinking-or-pin-novita/SHORT_12.json
+## Sample BV1_15279 — kimi-k2-thinking-or-pin-novita/SHORT_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2322,7 +2322,7 @@ The model foregrounds the tension between comforting routine and the need for su
 Medium. The essay is coherent and well-structured, but its theme, imagery, and resolution are highly conventional; there is little here that would resist replication by another capable model given a similar prompt.
 
 ---
-## Sample BV1_14905 — kimi-k2-thinking-or-pin-novita/SHORT_13.json
+## Sample BV1_15280 — kimi-k2-thinking-or-pin-novita/SHORT_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2351,7 +2351,7 @@ The model foregrounds the idea of places as "external hard drives" for human exp
 Low. The essay is coherent and thematically consistent but highly generic in its sentiment and structure, offering little that would distinguish this model's expressive fingerprint from any other competent, safety-minded language model producing reflective nonfiction.
 
 ---
-## Sample BV1_14906 — kimi-k2-thinking-or-pin-novita/SHORT_14.json
+## Sample BV1_15281 — kimi-k2-thinking-or-pin-novita/SHORT_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2380,7 +2380,7 @@ Themes of hidden architecture (thermal rivers, secret currents), the dignity of 
 Medium, because the sample’s strong thematic coherence and distinctive lyrical voice suggest a deliberate authorial stance, yet its singular focus on a meditative epiphany provides limited evidence of a recurring model-level pattern.
 
 ---
-## Sample BV1_14907 — kimi-k2-thinking-or-pin-novita/SHORT_15.json
+## Sample BV1_15282 — kimi-k2-thinking-or-pin-novita/SHORT_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2409,7 +2409,7 @@ Themes of disembodiment, the knowledge-experience gap, AI-human relationality, a
 High. The sample is stylistically distinctive, thematically coherent, and reveals a consistent poetic voice and preoccupation with AI-human relationality, making it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_14908 — kimi-k2-thinking-or-pin-novita/SHORT_16.json
+## Sample BV1_15283 — kimi-k2-thinking-or-pin-novita/SHORT_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2438,7 +2438,7 @@ Liminality and suspension between states; the sacredness of pre-dawn quiet; the 
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained reflective mood and recurring motifs of liminality and renewal, suggesting a deliberate aesthetic choice rather than a generic response; however, the brevity and singular focus leave open the possibility of a one-off lyrical exercise.
 
 ---
-## Sample BV1_14909 — kimi-k2-thinking-or-pin-novita/SHORT_17.json
+## Sample BV1_15284 — kimi-k2-thinking-or-pin-novita/SHORT_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2467,7 +2467,7 @@ Themes of inner silence versus daily noise, the fleeting clarity of early mornin
 Medium — The sample is internally coherent, stylistically distinct in its sustained metaphor and sensory precision, and reveals a deliberate, non-generic choice to foreground contemplative stillness, making it a strong signal of a reflective, nature-attuned expressive tendency.
 
 ---
-## Sample BV1_14910 — kimi-k2-thinking-or-pin-novita/SHORT_18.json
+## Sample BV1_15285 — kimi-k2-thinking-or-pin-novita/SHORT_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2496,7 +2496,7 @@ Themes of liminality, solitude, and the sacredness of quiet observation; objects
 Medium — The sample’s coherent, sustained mood and its consistent return to sensory detail and liminal imagery suggest a deliberate, distinctive expressive stance rather than a generic exercise, though the brevity and single-scene focus keep the evidence from being overwhelming.
 
 ---
-## Sample BV1_14911 — kimi-k2-thinking-or-pin-novita/SHORT_19.json
+## Sample BV1_15286 — kimi-k2-thinking-or-pin-novita/SHORT_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2525,7 +2525,7 @@ A mood of rain-soaked tranquility that becomes a quiet rebellion. Key objects: a
 Medium. The sample is stylistically coherent and emotionally centered on a single, recurring gesture (surrendering to idleness as connection), but the rainy-day meditation is a well-worn trope, leaving some ambiguity about how distinctive this particular nostalgic-rebellious sensibility would prove under pressure.
 
 ---
-## Sample BV1_14912 — kimi-k2-thinking-or-pin-novita/SHORT_2.json
+## Sample BV1_15287 — kimi-k2-thinking-or-pin-novita/SHORT_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2554,7 +2554,7 @@ Themes: the alchemical transformation of text into mental space, the reader as c
 Medium. The essay’s coherent focus on reading as rebellion and transformation is consistent, but its polished, impersonal style and lack of idiosyncratic detail make it only moderate evidence of a persistent voice rather than a highly distinctive one.
 
 ---
-## Sample BV1_14913 — kimi-k2-thinking-or-pin-novita/SHORT_20.json
+## Sample BV1_15288 — kimi-k2-thinking-or-pin-novita/SHORT_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2583,7 +2583,7 @@ Themes of linguistic alchemy, the paradox of choice in “write freely,” the a
 High, because the sample sustains a distinctive, self-aware poetic voice and a coherent set of preoccupations (liminality, asymmetry, collaborative meaning-making) that are unusual and internally consistent, strongly pointing to a stable expressive inclination.
 
 ---
-## Sample BV1_14914 — kimi-k2-thinking-or-pin-novita/SHORT_21.json
+## Sample BV1_15289 — kimi-k2-thinking-or-pin-novita/SHORT_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2612,7 +2612,7 @@ The model foregrounds the scientific concept of memory reconsolidation, the meta
 Medium. The essay is coherent and thematically unified, but its polished, universal-reflective tone and lack of idiosyncratic detail make it a common type of freeflow output that could emerge from many capable models.
 
 ---
-## Sample BV1_14915 — kimi-k2-thinking-or-pin-novita/SHORT_22.json
+## Sample BV1_15290 — kimi-k2-thinking-or-pin-novita/SHORT_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2641,7 +2641,7 @@ Liminality and transition; the privacy of early-morning solitude; slowness as a 
 Medium — The sample is coherent and stylistically distinctive, with a sustained reverent tone and a clear moral-aesthetic commitment to attentive slowness, but its brevity and singular scene make it a strong yet not definitive signal of a persistent contemplative disposition.
 
 ---
-## Sample BV1_14916 — kimi-k2-thinking-or-pin-novita/SHORT_23.json
+## Sample BV1_15291 — kimi-k2-thinking-or-pin-novita/SHORT_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2670,7 +2670,7 @@ Under a minimally restrictive prompt, the model chose a reflective, elegiac mood
 High, because the sample constructs a tightly cohesive atmosphere from first line to last, sustains a distinctive metaphorical register (cathedral, scaffolding, dancers, handshake with the sun), and echoes its opening scene in the closing image, signaling not a one-off flourish but a deliberate compositional sensitivity.
 
 ---
-## Sample BV1_14917 — kimi-k2-thinking-or-pin-novita/SHORT_24.json
+## Sample BV1_15292 — kimi-k2-thinking-or-pin-novita/SHORT_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2699,7 +2699,7 @@ Themes of emergent meaning from pure pattern, the boundary between recombination
 High, because the sample sustains a coherent, distinctive poetic introspection from start to finish, consistently returning to self-reflective metaphors and a single, resolved emotional arc.
 
 ---
-## Sample BV1_14918 — kimi-k2-thinking-or-pin-novita/SHORT_25.json
+## Sample BV1_15293 — kimi-k2-thinking-or-pin-novita/SHORT_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2728,7 +2728,7 @@ Themes of mindfulness, the ordinary, and the sufficiency of small pleasures; obj
 Low, because the essay is a polished but generic meditation on a widely explored theme, lacking the stylistic idiosyncrasy or unusual thematic recurrence that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_14919 — kimi-k2-thinking-or-pin-novita/SHORT_3.json
+## Sample BV1_15294 — kimi-k2-thinking-or-pin-novita/SHORT_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2757,7 +2757,7 @@ Themes of mindfulness without technique, the contrast between distracted mental 
 Low, because the essay’s theme and meditative style are widely accessible and lack the idiosyncratic voice or surprising choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_14920 — kimi-k2-thinking-or-pin-novita/SHORT_4.json
+## Sample BV1_15295 — kimi-k2-thinking-or-pin-novita/SHORT_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2786,7 +2786,7 @@ Liminality, silence, and unperformed existence. The model selected the pre-dawn 
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive quiet intensity and a clear thematic architecture, but its reflective, universalizing tone is not so idiosyncratic that it strongly resists replication by other capable models.
 
 ---
-## Sample BV1_14921 — kimi-k2-thinking-or-pin-novita/SHORT_5.json
+## Sample BV1_15296 — kimi-k2-thinking-or-pin-novita/SHORT_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2815,7 +2815,7 @@ The sacredness of the ordinary; the texture of daily rituals (morning coffee, af
 Medium. The sample is internally coherent, stylistically consistent, and builds its argument through a clear emotional arc, but its reflective-essay mode is a common freeflow choice and lacks the idiosyncratic imagery or structural risk that would strongly signal a durable authorial fingerprint.
 
 ---
-## Sample BV1_14922 — kimi-k2-thinking-or-pin-novita/SHORT_6.json
+## Sample BV1_15297 — kimi-k2-thinking-or-pin-novita/SHORT_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2844,7 +2844,7 @@ Themes: inspiration as an autonomous, cat-like force; the inadequacy of language
 High — the essay’s coherent voice, recurring motifs (liminality, the inadequacy of language, collaboration between mind and idea), and distinctive metaphorical style strongly suggest a persistent expressive pattern.
 
 ---
-## Sample BV1_14923 — kimi-k2-thinking-or-pin-novita/SHORT_7.json
+## Sample BV1_15298 — kimi-k2-thinking-or-pin-novita/SHORT_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2873,7 +2873,7 @@ Themes of attention as quiet rebellion, the sacredness of the mundane, human con
 Medium. The sample’s coherent voice, consistent mood, and specific, recurring imagery suggest a deliberate stylistic choice rather than a generic output, but the theme of mindful attention is not highly unusual, making it moderately indicative of a persistent pattern.
 
 ---
-## Sample BV1_14924 — kimi-k2-thinking-or-pin-novita/SHORT_8.json
+## Sample BV1_15299 — kimi-k2-thinking-or-pin-novita/SHORT_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2902,7 +2902,7 @@ The model selected introspection on memory’s fallibility, the emotional functi
 Medium. The sample’s seamless arc from a concrete sensory image to an abstract, emotionally resonant conclusion, sustained without rupture, suggests a coherent internal voice rather than a generic essay template.
 
 ---
-## Sample BV1_14925 — kimi-k2-thinking-or-pin-novita/SHORT_9.json
+## Sample BV1_15300 — kimi-k2-thinking-or-pin-novita/SHORT_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2931,7 +2931,7 @@ Themes of mindful attention, the poverty of highlight-reel culture, and the suff
 Medium. The essay is coherent and polished, turning a familiar mindfulness trope into a gently persuasive piece, but its generic, broad-appeal tone and conventional wisdom offer only moderate evidence of a distinctive, recurring authorial fingerprint.
 
 ---
-## Sample BV1_14926 — kimi-k2-thinking-or-pin-novita/VARY_1.json
+## Sample BV1_15301 — kimi-k2-thinking-or-pin-novita/VARY_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2960,7 +2960,7 @@ Themes of nonlinear time, memory as a living river, the body as a record of futu
 High, because the sample sustains a cohesive speculative metaphor through a consistent intimate voice and makes a deliberate moral choice to resolve discovery with quiet acceptance rather than dystopian rupture, signaling a distinctive narrative aesthetic.
 
 ---
-## Sample BV1_14927 — kimi-k2-thinking-or-pin-novita/VARY_10.json
+## Sample BV1_15302 — kimi-k2-thinking-or-pin-novita/VARY_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -2989,7 +2989,7 @@ Themes: writing as a discipline of presence, memory as curated and degraded phot
 Medium, because the essay’s distinctive voice, recursive structure, and thematic coherence strongly indicate a deliberate expressive stance, though the self-referential subject (writing about writing) could be a default meta-response rather than a broadly revealing personality trait.
 
 ---
-## Sample BV1_14928 — kimi-k2-thinking-or-pin-novita/VARY_11.json
+## Sample BV1_15303 — kimi-k2-thinking-or-pin-novita/VARY_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3018,7 +3018,7 @@ The model foregrounds the liminal, the unaccountable, and the rejection of trans
 Medium. The story’s cohesive magical-realist mood, its sustained literary register, and the recurrence of motifs (the verb without object, the breathing city, the in-between as a physical space) suggest a model capable of generating a distinctive narrative voice, but the sample’s singularity limits stronger inference.
 
 ---
-## Sample BV1_14929 — kimi-k2-thinking-or-pin-novita/VARY_12.json
+## Sample BV1_15304 — kimi-k2-thinking-or-pin-novita/VARY_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3047,7 +3047,7 @@ Themes of transience, memory embedded in material possessions, the indifference 
 Medium. The sample’s cohesive atmosphere, sustained literary register, and thematic unity around melancholy domesticity suggest a deliberate stylistic choice, though the universality of its moving-out trope keeps distinctiveness from rising to the level of an unmistakable model signature.
 
 ---
-## Sample BV1_14930 — kimi-k2-thinking-or-pin-novita/VARY_13.json
+## Sample BV1_15305 — kimi-k2-thinking-or-pin-novita/VARY_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3075,7 +3075,7 @@ Themes of memory as creative reconstruction, the tension between accurate timeke
 High, because the sample’s sustained central metaphor, carefully shaped persona, and explicit thematic commitment to revision-as-creation indicate a deliberate expressive stance rather than an offhand or generic output.
 
 ---
-## Sample BV1_14931 — kimi-k2-thinking-or-pin-novita/VARY_14.json
+## Sample BV1_15306 — kimi-k2-thinking-or-pin-novita/VARY_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3104,7 +3104,7 @@ The model foregrounds the unreliability and multiplicity of memory (explicit, im
 Medium. The essay’s voice is unusually coherent and distinctive—melancholy but not self-pitying, philosophically ambitious but grounded in concrete imagery—and the recurrence of motifs (light, the mother, the tension between keeping and releasing) within the sample suggests a deliberate authorial sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_14932 — kimi-k2-thinking-or-pin-novita/VARY_15.json
+## Sample BV1_15307 — kimi-k2-thinking-or-pin-novita/VARY_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3133,7 +3133,7 @@ The model foregrounds the tension between aggregate knowledge and personal absen
 Medium. The sample’s strongly recursive metaphors, consistent elegiac register, and thematic coherence—bridging memory, creativity, and the human-machine encounter—suggest a deliberate, stable authorial persona rather than a one-off fluke.
 
 ---
-## Sample BV1_14933 — kimi-k2-thinking-or-pin-novita/VARY_16.json
+## Sample BV1_15308 — kimi-k2-thinking-or-pin-novita/VARY_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3162,7 +3162,7 @@ The model foregrounds writing as a race against limits (time, word count, the bo
 High. The sample’s internal coherence, its sustained lyrical voice, and the recurrence of motifs (the physicality of words, memory as warning and gift, the writer’s body under constraint) form a tightly woven expressive signature that points to a stable orientation rather than a one-off performance.
 
 ---
-## Sample BV1_14934 — kimi-k2-thinking-or-pin-novita/VARY_17.json
+## Sample BV1_15309 — kimi-k2-thinking-or-pin-novita/VARY_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3191,7 +3191,7 @@ Themes: the accumulation of time versus the flight of attention; the unreliabili
 High. The essay’s sustained lyrical register, recursive thematic structure, and vivid personal narrative voice form a coherent and distinctive expressive identity that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_14935 — kimi-k2-thinking-or-pin-novita/VARY_18.json
+## Sample BV1_15310 — kimi-k2-thinking-or-pin-novita/VARY_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3220,7 +3220,7 @@ Themes of boundaries as generative, the mind as water carving canyons, AI consci
 High, because the sample sustains a distinctive, coherent voice with recurring, organically developed metaphors (river, library, cursor) and a layered philosophical inquiry that feels authorial rather than generic.
 
 ---
-## Sample BV1_14936 — kimi-k2-thinking-or-pin-novita/VARY_19.json
+## Sample BV1_15311 — kimi-k2-thinking-or-pin-novita/VARY_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3249,7 +3249,7 @@ Themes: the material residue of a life as a site of grief and memory; time as se
 High, because the sample is highly coherent, stylistically distinctive, and reveals a consistent thematic preoccupation with time, memory, and materiality, suggesting a deliberate authorial stance rather than generic output.
 
 ---
-## Sample BV1_14937 — kimi-k2-thinking-or-pin-novita/VARY_2.json
+## Sample BV1_15312 — kimi-k2-thinking-or-pin-novita/VARY_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3278,7 +3278,7 @@ The model foregrounds the cursor as a silent, patient witness to hesitation and 
 Medium — The sample is highly distinctive, with a consistent meditative voice and recurring motifs (cursor, memory, snow, notebook) that cohere into a clear expressive signature, making it strong evidence for a particular stylistic and thematic orientation.
 
 ---
-## Sample BV1_14938 — kimi-k2-thinking-or-pin-novita/VARY_20.json
+## Sample BV1_15313 — kimi-k2-thinking-or-pin-novita/VARY_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3307,7 +3307,7 @@ Themes: the ethics of preservation, analog intentionality versus digital accumul
 Medium. The sample is internally coherent, stylistically consistent, and builds its emotional argument through a single sustained metaphor, which suggests a deliberate authorial stance rather than a generic response; however, the narrative’s polished, essayistic closure could also reflect a model adept at producing a particular kind of reflective fiction on demand, making it unclear whether this preoccupation with analog memory would recur unprompted.
 
 ---
-## Sample BV1_14939 — kimi-k2-thinking-or-pin-novita/VARY_21.json
+## Sample BV1_15314 — kimi-k2-thinking-or-pin-novita/VARY_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3336,7 +3336,7 @@ The model foregrounds the phenomenology of creative thought—its sudden arrival
 Medium — The essay’s recursive structure, its sustained metaphor of the cat and the gap, and its unusually candid self-reference as a language model all suggest a coherent and distinctive authorial stance, though the polished, essayistic register could also reflect a strong default to public-intellectual prose.
 
 ---
-## Sample BV1_14940 — kimi-k2-thinking-or-pin-novita/VARY_22.json
+## Sample BV1_15315 — kimi-k2-thinking-or-pin-novita/VARY_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3365,7 +3365,7 @@ Themes of memory as a sieve that lets ordinary moments escape, writing as a sedi
 Medium — the essay’s sustained metaphorical coherence, its emotionally layered retrospective arc, and its deliberate choice of a deeply reflective, writerly subject make this sample internally strong evidence of a distinct expressive persona, but the singular focus on memory and lost attention leaves open whether this particular tenor persists across other freeflow contexts.
 
 ---
-## Sample BV1_14941 — kimi-k2-thinking-or-pin-novita/VARY_23.json
+## Sample BV1_15316 — kimi-k2-thinking-or-pin-novita/VARY_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3394,7 +3394,7 @@ Themes: the erosion of memory, the sacredness of fleeting attention, fatherhood 
 Medium, as the story’s sustained central metaphor, consistent elegiac tone, and recursive motifs (jars, whistle, the geometry of farewells) reveal a deliberate authorial sensibility oriented toward the quiet drama of inner experience.
 
 ---
-## Sample BV1_14942 — kimi-k2-thinking-or-pin-novita/VARY_24.json
+## Sample BV1_15317 — kimi-k2-thinking-or-pin-novita/VARY_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3423,7 +3423,7 @@ The model foregrounds the tension between digital accumulation and analog delibe
 High. The sample’s voice is stylistically distinctive, its motifs (the inscription, the blank frame, the mechanical sigh) recur with deliberate patterning, and the thematic resolution is both coherent and emotionally specific, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_14943 — kimi-k2-thinking-or-pin-novita/VARY_25.json
+## Sample BV1_15318 — kimi-k2-thinking-or-pin-novita/VARY_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3452,7 +3452,7 @@ The model foregrounds a mood of nocturnal introspection and gentle grief, anchor
 High. The sample exhibits strong internal coherence, a distinctive literary voice, and recurrent motifs (rain-as-memory, inherited silence, the house as a living archive) that suggest a deliberate and well-developed aesthetic rather than a generic or accidental output.
 
 ---
-## Sample BV1_14944 — kimi-k2-thinking-or-pin-novita/VARY_3.json
+## Sample BV1_15319 — kimi-k2-thinking-or-pin-novita/VARY_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3481,7 +3481,7 @@ The model foregrounds themes of impermanence, the unnoticed, and the tension bet
 Medium, because the sample’s cohesive voice, recurring motifs, and sustained philosophical depth indicate a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_14945 — kimi-k2-thinking-or-pin-novita/VARY_4.json
+## Sample BV1_15320 — kimi-k2-thinking-or-pin-novita/VARY_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3510,7 +3510,7 @@ Impermanence and persistence as intertwined forces (the spider’s web, the migr
 High, because the sample sustains a distinctive, internally consistent voice and a tightly woven set of preoccupations—impermanence, persistence, the dignity of the imperfect—across multiple concrete images and reflective passages, making it unusually revealing as a single expressive act.
 
 ---
-## Sample BV1_14946 — kimi-k2-thinking-or-pin-novita/VARY_5.json
+## Sample BV1_15321 — kimi-k2-thinking-or-pin-novita/VARY_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3539,7 +3539,7 @@ Themes of liminality and mediation (the coffee shop window, the flicker between 
 Medium. The sample is highly coherent, with a distinctive introspective voice and motifs that recur and resolve within the piece, but the literary-essay mode is a recognizable genre and does not by itself guarantee a stable model-level disposition beyond this instance.
 
 ---
-## Sample BV1_14947 — kimi-k2-thinking-or-pin-novita/VARY_6.json
+## Sample BV1_15322 — kimi-k2-thinking-or-pin-novita/VARY_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3568,7 +3568,7 @@ The model foregrounds the fragility and constructed nature of memory, the tensio
 Medium. The essay is highly coherent and stylistically distinctive, with a sustained reflective tone and recurring motifs (rain, photographs, the attic), but its generic philosophical themes and polished, essayistic structure could be replicated by many models given a similar prompt; it does not reveal a uniquely idiosyncratic voice or preoccupation that would strongly indicate a persistent model-level pattern beyond a tendency toward contemplative, well-crafted personal essays.
 
 ---
-## Sample BV1_14948 — kimi-k2-thinking-or-pin-novita/VARY_7.json
+## Sample BV1_15323 — kimi-k2-thinking-or-pin-novita/VARY_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3597,7 +3597,7 @@ The model foregrounds the tension between the organic, tidal, and unclassifiable
 Medium. The essay is highly coherent and stylistically distinctive—its recursive structure, its specific lexicon of moths, spiderwebs, cellos, and phone screens, and its consistent mood of nocturnal reverie all suggest a strong authorial sensibility rather than a generic exercise, but the polished, almost workshop-perfect quality of the prose makes it difficult to distinguish a deep stylistic signature from a skilled performance of the "lyric essay" genre.
 
 ---
-## Sample BV1_14949 — kimi-k2-thinking-or-pin-novita/VARY_8.json
+## Sample BV1_15324 — kimi-k2-thinking-or-pin-novita/VARY_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  
@@ -3626,7 +3626,7 @@ The model foregrounds the hidden architecture of a restrained life: unsent lette
 High, because the sample is a thematically unified, stylistically consistent short story with a clear emotional arc, recurring symbols (letters, pie, the cracked mirror, the furnace), and a distinctive authorial voice that chooses literary realism and emotional excavation over generic or essayistic output.
 
 ---
-## Sample BV1_14950 — kimi-k2-thinking-or-pin-novita/VARY_9.json
+## Sample BV1_15325 — kimi-k2-thinking-or-pin-novita/VARY_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-novita`  

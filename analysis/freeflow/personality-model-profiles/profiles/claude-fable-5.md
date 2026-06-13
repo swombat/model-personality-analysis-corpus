@@ -7,7 +7,7 @@ _Rich model-level profile based on 125 freeflow samples._
 ## Source summary
 
 - Samples: 125
-- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 125}`
+- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 108, 'GENERIC_ESSAY': 14, 'GENRE_FICTION': 3}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/claude-fable-5.md`
 
 ## Core personality synthesis

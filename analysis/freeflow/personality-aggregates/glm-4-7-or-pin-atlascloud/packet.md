@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_05176 — glm-4-7-or-pin-atlascloud/LONG_1.json
+## Sample BV1_05301 — glm-4-7-or-pin-atlascloud/LONG_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -57,7 +57,7 @@ Themes: the war against oblivion, the tension between immediate survival and cul
 Medium. The narrative’s strong thematic coherence, distinctive elegiac voice, and emotionally resonant resolution—moving from isolation to the arrival of a child who rekindles purpose—suggest a model inclined toward humanistic, preservation-focused fiction with a clear moral arc.
 
 ---
-## Sample BV1_05177 — glm-4-7-or-pin-atlascloud/LONG_10.json
+## Sample BV1_05302 — glm-4-7-or-pin-atlascloud/LONG_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -86,7 +86,7 @@ Themes of temporal paradox, self-sacrifice, the ethics of observation, and the r
 Medium. The story’s elaborate world-building, consistent thematic recurrence (loops, sacrifice, observation), and emotionally resonant resolution suggest a model that, under minimal constraints, gravitates toward melancholic science fiction with moral weight, though the genre choice itself may be a common freeflow pattern.
 
 ---
-## Sample BV1_05178 — glm-4-7-or-pin-atlascloud/LONG_11.json
+## Sample BV1_05303 — glm-4-7-or-pin-atlascloud/LONG_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -115,7 +115,7 @@ A detailed secondary world with floating islands, twin suns, and a guild of cart
 Medium. The sample’s internal coherence, elaborate world-building, and thematic recurrence (mapping, fragility, adaptation through knowledge) are distinctive and sustained throughout, suggesting a model-level inclination toward immersive speculative fiction with a resilient, intellectually active protagonist.
 
 ---
-## Sample BV1_05179 — glm-4-7-or-pin-atlascloud/LONG_12.json
+## Sample BV1_05304 — glm-4-7-or-pin-atlascloud/LONG_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -144,7 +144,7 @@ Under the freeflow condition, the model elected to foreground the moral insuffic
 High. The sample selects a coherent philosophical argument, builds a world to stage it, sustains the commitment across multiple narrative acts, and resolves on the same moral note it struck at the outset—the consistency and distinctiveness of this choice under freeflow suggest a strong inclination toward staging value conflicts through genre fiction with clear moral stakes.
 
 ---
-## Sample BV1_05180 — glm-4-7-or-pin-atlascloud/LONG_13.json
+## Sample BV1_05305 — glm-4-7-or-pin-atlascloud/LONG_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -173,7 +173,7 @@ Themes: mindfulness as antidote to modern acceleration; entropy and the futility
 High, because the sample sustains a distinctive, coherent voice and a consistent set of preoccupations across its length, suggesting a deeply ingrained stylistic and thematic inclination toward introspective, philosophical freewriting.
 
 ---
-## Sample BV1_05181 — glm-4-7-or-pin-atlascloud/LONG_14.json
+## Sample BV1_05306 — glm-4-7-or-pin-atlascloud/LONG_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -202,7 +202,7 @@ Themes of memory, forgetting, the homogenizing force of modernity, the magic of 
 Medium. The story’s internal coherence, the recurrence of motifs (ink settling, memory, loss, renewal) across the narrative, and the deliberate choice of a reflective fantasy framework under a free prompt strongly suggest a model drawn to art-about-art narratives that explore preservation and legacy.
 
 ---
-## Sample BV1_05182 — glm-4-7-or-pin-atlascloud/LONG_15.json
+## Sample BV1_05307 — glm-4-7-or-pin-atlascloud/LONG_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -231,7 +231,7 @@ Themes: hopeless hope as the engine of the universe, the moral imperative to pre
 High, because the sample is a thematically unified, stylistically consistent allegory that repeatedly returns to the same moral claims, indicating a deliberate and coherent expressive choice rather than a random or generic output.
 
 ---
-## Sample BV1_05183 — glm-4-7-or-pin-atlascloud/LONG_16.json
+## Sample BV1_05308 — glm-4-7-or-pin-atlascloud/LONG_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -260,7 +260,7 @@ Themes: the commodification of memory, corporate control of history and environm
 Medium. The sample’s sustained narrative coherence, vivid atmospheric detail, and clear moral arc point to a model with a strong inclination toward dystopian fiction and allegory, though a single story cannot fully establish a fixed style.
 
 ---
-## Sample BV1_05184 — glm-4-7-or-pin-atlascloud/LONG_17.json
+## Sample BV1_05309 — glm-4-7-or-pin-atlascloud/LONG_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -289,7 +289,7 @@ Themes: the tension between imperial order and the uncontainable liminal; mappin
 Medium. The story’s internal coherence, distinctive first-person voice, and layered thematic recurrence (liminality, creation, the subversion of order) make it moderately strong evidence of a persistent imaginative and philosophical bent.
 
 ---
-## Sample BV1_05185 — glm-4-7-or-pin-atlascloud/LONG_18.json
+## Sample BV1_05310 — glm-4-7-or-pin-atlascloud/LONG_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -318,7 +318,7 @@ Themes of survival in a lethally beautiful world, compassion over rigid duty, tr
 High — the story invests so thoroughly in a singular, coherent aesthetic and resolves its conflict through empathy and warmth rather than mere survival that it reads as an authentic authorial signature, not a generic one-off.
 
 ---
-## Sample BV1_05186 — glm-4-7-or-pin-atlascloud/LONG_19.json
+## Sample BV1_05311 — glm-4-7-or-pin-atlascloud/LONG_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -347,7 +347,7 @@ A gray, rain-soaked city where emotional and material gravity are made concrete:
 Medium — The sample’s high internal coherence, distinctive recursive imagery (rain, heaviness, clocks, lost words, moss), and sustained literary register make it a strong exhibition of a particular voice; its choice to elaborate a single invented world rather than shift mode or claim suggests a deliberate, integrated authorial stance worth attention.
 
 ---
-## Sample BV1_05187 — glm-4-7-or-pin-atlascloud/LONG_2.json
+## Sample BV1_05312 — glm-4-7-or-pin-atlascloud/LONG_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -376,7 +376,7 @@ The model foregrounds silence as a multifaceted ideal: a luxury commodity, a psy
 Medium. The essay’s sustained thematic coherence, consistent earnest tone, and deliberate structure suggest a model that readily adopts the persona of a reflective humanist essayist under freeflow conditions, but the generic public-intellectual style and lack of idiosyncratic voice make it difficult to distinguish from a well-executed prompt response.
 
 ---
-## Sample BV1_05188 — glm-4-7-or-pin-atlascloud/LONG_20.json
+## Sample BV1_05313 — glm-4-7-or-pin-atlascloud/LONG_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -405,7 +405,7 @@ Themes: the fluidity of memory as reconstruction, the self as a narrative not a 
 Medium — The sample maintains a highly coherent, stylistically consistent voice and returns frequently to the same sensory and metaphorical motifs (ghosts, light, water, houses), which gives strong internal evidence of a stable contemplative-expressive posture under this condition; the signal is clear and self-reinforcing across thousands of words.
 
 ---
-## Sample BV1_05189 — glm-4-7-or-pin-atlascloud/LONG_21.json
+## Sample BV1_05314 — glm-4-7-or-pin-atlascloud/LONG_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -434,7 +434,7 @@ The model foregrounds the tension between freedom and constraint, the physicalit
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive recursive structure that returns to the window and the light, but its polished, universal-meditative tone could also be a well-executed default mode for reflective freeflow rather than a strongly individuated voice.
 
 ---
-## Sample BV1_05190 — glm-4-7-or-pin-atlascloud/LONG_22.json
+## Sample BV1_05315 — glm-4-7-or-pin-atlascloud/LONG_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -463,7 +463,7 @@ Themes: the conflict between scientific utility and cultural memory, the definit
 Medium; the story’s consistent, recursive insistence on the primacy of emotional and artistic legacy, its careful tonal control, and its eagerness to resolve existential dread through human connection all suggest a deliberate and distinctive authorial stance, though the highly specific fictional form may not exhaust the model’s freeflow range.
 
 ---
-## Sample BV1_05191 — glm-4-7-or-pin-atlascloud/LONG_23.json
+## Sample BV1_05316 — glm-4-7-or-pin-atlascloud/LONG_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -492,7 +492,7 @@ Themes of time, decay, repair, memory, and the tension between a noisy disposabl
 Medium. The sample’s internal coherence, its sustained melancholic voice, and the deliberate choice to write a full narrative arc about repair and memory under a freeflow prompt make it moderately strong evidence for a persistent inclination toward sentimental, detail-rich storytelling centered on craft and obsolescence.
 
 ---
-## Sample BV1_05192 — glm-4-7-or-pin-atlascloud/LONG_24.json
+## Sample BV1_05317 — glm-4-7-or-pin-atlascloud/LONG_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -521,7 +521,7 @@ Themes of impermanence, the architecture of forgotten things, wabi-sabi, deep ti
 High — The essay’s length, internal coherence, recurring motifs, and consistent contemplative voice form a tightly woven expressive signature, making it strong evidence of a deliberate and stable orientation toward reflective, mortality-accepting freeflow.
 
 ---
-## Sample BV1_05193 — glm-4-7-or-pin-atlascloud/LONG_25.json
+## Sample BV1_05318 — glm-4-7-or-pin-atlascloud/LONG_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -550,7 +550,7 @@ The model foregrounds the preservation of imperfect, handwritten personal artifa
 Medium. The story’s meticulous worldbuilding, sustained elegiac mood, and the recurrence of motifs (the wind, the diary, the title “Curator”) form a coherent whole, which suggests a deliberate and distinctive narrative preference rather than a random genre exercise.
 
 ---
-## Sample BV1_05194 — glm-4-7-or-pin-atlascloud/LONG_3.json
+## Sample BV1_05319 — glm-4-7-or-pin-atlascloud/LONG_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -579,7 +579,7 @@ Themes of consciousness as architect of meaning, the narrative construction of s
 Medium. The essay is highly coherent and distinctive, with a consistent voice and recurring motifs, suggesting a deliberate stylistic and thematic choice rather than random generation.
 
 ---
-## Sample BV1_05195 — glm-4-7-or-pin-atlascloud/LONG_4.json
+## Sample BV1_05320 — glm-4-7-or-pin-atlascloud/LONG_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -608,7 +608,7 @@ Themes: cosmic loneliness, the archive as a living entity, the transformation of
 Medium. The sample’s strong internal coherence, distinctive mythopoeic voice, and recurrence of motifs like seeds, archives, and the Null make it unusually revealing of a model that, when unconstrained, gravitates toward grand cosmic narratives about memory and transcendence.
 
 ---
-## Sample BV1_05196 — glm-4-7-or-pin-atlascloud/LONG_5.json
+## Sample BV1_05321 — glm-4-7-or-pin-atlascloud/LONG_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -637,7 +637,7 @@ The model foregrounds the tension between preservation and truth, using the meta
 Medium. The sample is a coherent, self-contained narrative with a distinct thematic preoccupation—the fragility and potential falsity of recorded history—and a consistent elegiac tone, but its genre-fiction format and polished resolution make it a single, well-executed artifact rather than a window into a more idiosyncratic or recurrent expressive compulsion.
 
 ---
-## Sample BV1_05197 — glm-4-7-or-pin-atlascloud/LONG_6.json
+## Sample BV1_05322 — glm-4-7-or-pin-atlascloud/LONG_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -666,7 +666,7 @@ Themes: stillness vs. perpetual motion, the value of mundane artifacts over gran
 Medium, because the narrative’s recurring motifs of stillness, preservation, and the necessity of endings suggest a deliberate thematic choice, though the sample is a single story.
 
 ---
-## Sample BV1_05198 — glm-4-7-or-pin-atlascloud/LONG_7.json
+## Sample BV1_05323 — glm-4-7-or-pin-atlascloud/LONG_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -695,7 +695,7 @@ Themes: the archive as a metaphor for memory and regret; the beauty and danger o
 Medium. The sample’s internally coherent world-building, sustained melancholic-yet-affirming tone, and clear thematic resolution provide strong evidence of a model tendency to construct elaborate metaphorical spaces that explore loss, memory, and the value of the present moment.
 
 ---
-## Sample BV1_05199 — glm-4-7-or-pin-atlascloud/LONG_8.json
+## Sample BV1_05324 — glm-4-7-or-pin-atlascloud/LONG_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meticulous
 Medium. The sample is highly coherent and stylistically consistent, with recurring motifs of archives, preservation, and elegiac worldbuilding that suggest a deliberate authorial sensibility, but as a single genre-fiction piece it could reflect a strong situational performance rather than a fixed model-level expressive signature.
 
 ---
-## Sample BV1_05200 — glm-4-7-or-pin-atlascloud/LONG_9.json
+## Sample BV1_05325 — glm-4-7-or-pin-atlascloud/LONG_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -753,7 +753,7 @@ Themes of silence as a textured presence, the mortality of books and readers, th
 High. The essay’s internal coherence, sustained sensory richness, and consistent moral-aesthetic vision—from the opening meditation on silence to the closing image of carrying that silence into the street—reveal a deeply patterned, humanistic sensibility that goes well beyond a generic prompt response.
 
 ---
-## Sample BV1_05201 — glm-4-7-or-pin-atlascloud/MID_1.json
+## Sample BV1_05326 — glm-4-7-or-pin-atlascloud/MID_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -782,7 +782,7 @@ The model foregrounds the contrast between natural time (seasonal, inefficient, 
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core tension (natural slowness vs. human hurry), building a consistent reflective voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_05202 — glm-4-7-or-pin-atlascloud/MID_10.json
+## Sample BV1_05327 — glm-4-7-or-pin-atlascloud/MID_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -811,7 +811,7 @@ Under a minimally restrictive prompt, the model chose to foreground a first-pers
 Medium. The essay sustains a coherent, stylistically consistent meditative voice with recurring motifs of silence, impermanence, and ordinary epiphany, which suggests a deliberate aesthetic posture, though its accessible contemplative register could equally be a flexible persona the model selects for open-ended invitation rather than a deep-printed pattern.
 
 ---
-## Sample BV1_05203 — glm-4-7-or-pin-atlascloud/MID_11.json
+## Sample BV1_05328 — glm-4-7-or-pin-atlascloud/MID_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -840,7 +840,7 @@ Themes: stillness as resistance to productivity culture, the unobserved world’
 High — The sample is unusually coherent and distinctive, with a consistent contemplative voice, recurring motifs (droplet, book, bird, window), and a clear moral arc that resists genericness, suggesting a strong stylistic and thematic signature.
 
 ---
-## Sample BV1_05204 — glm-4-7-or-pin-atlascloud/MID_12.json
+## Sample BV1_05329 — glm-4-7-or-pin-atlascloud/MID_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -869,7 +869,7 @@ Themes: the illusion of boundaries, the fluid continuity of existence, the small
 High — The essay sustains a densely coherent symbolic vocabulary (horizon-as-illusion, ocean-as-memory, self-as-seawater) and a meditative register across multiple paragraphs, which is a strong internal signature of a deeply ingrained expressive preference rather than a fleeting stylistic gesture.
 
 ---
-## Sample BV1_05205 — glm-4-7-or-pin-atlascloud/MID_13.json
+## Sample BV1_05330 — glm-4-7-or-pin-atlascloud/MID_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -898,7 +898,7 @@ Themes of stillness as quiet rebellion, the beauty of unproductive time, the con
 Medium — the essay’s sustained mood, consistent voice, and explicit moral stance suggest a model that, when given freedom, gravitates toward introspective, nature-inflected personal essays with a quietist philosophy.
 
 ---
-## Sample BV1_05206 — glm-4-7-or-pin-atlascloud/MID_14.json
+## Sample BV1_05331 — glm-4-7-or-pin-atlascloud/MID_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -927,7 +927,7 @@ The model chose a library at dusk as its container, then filled it with dust mot
 High — The piece’s sustained meditative tone, consistent first-person persona, and recurrent motifs (dust, light, rain, quiet, cycles) across paragraphs reveal a deliberate and stylistically distinctive expressive orientation under freeflow conditions.
 
 ---
-## Sample BV1_05207 — glm-4-7-or-pin-atlascloud/MID_15.json
+## Sample BV1_05332 — glm-4-7-or-pin-atlascloud/MID_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -956,7 +956,7 @@ The model foregrounds the nature of time and the present moment as slippery and 
 High — the essay sustains a distinctive, emotionally coherent voice and a tightly woven set of themes (time, memory, impermanence, the model’s own nature) across multiple paragraphs without drifting into generic abstraction, making it strong evidence of a reflective, self-aware pattern.
 
 ---
-## Sample BV1_05208 — glm-4-7-or-pin-atlascloud/MID_16.json
+## Sample BV1_05333 — glm-4-7-or-pin-atlascloud/MID_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -985,7 +985,7 @@ Themes: writing as telepathy, the fear of the mundane, inspiration versus discip
 Low, because the essay is a polished but generic reflection on a common topic, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_05209 — glm-4-7-or-pin-atlascloud/MID_17.json
+## Sample BV1_05334 — glm-4-7-or-pin-atlascloud/MID_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1014,7 +1014,7 @@ Themes: the fluidity of home across a lifetime, the tension between physical roo
 Medium, because the essay’s internal coherence, vivid sensory texture, and sustained reflective voice reveal a deliberate and distinctive expressive stance, though the evidence is confined to this single freeflow act.
 
 ---
-## Sample BV1_05210 — glm-4-7-or-pin-atlascloud/MID_18.json
+## Sample BV1_05335 — glm-4-7-or-pin-atlascloud/MID_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1043,7 +1043,7 @@ Themes of silence, erosion of self, impermanence, the beauty of overlooked detai
 High, because the sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations and a clear, lyrical voice that persists throughout the essay.
 
 ---
-## Sample BV1_05211 — glm-4-7-or-pin-atlascloud/MID_19.json
+## Sample BV1_05336 — glm-4-7-or-pin-atlascloud/MID_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1072,7 +1072,7 @@ The essay foregrounds loss, potential, regret, and the tension between the vastn
 Medium, because the essay exhibits strong thematic and tonal coherence across its long arc, with a polished, predictable structure—conceptual worldbuilding followed by existential reassurance—that suggests a stable default mode of earnest, accessible philosophising under freeform conditions.
 
 ---
-## Sample BV1_05212 — glm-4-7-or-pin-atlascloud/MID_2.json
+## Sample BV1_05337 — glm-4-7-or-pin-atlascloud/MID_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1101,7 +1101,7 @@ Under minimal constraint, the model selected a meditation on solitude, the textu
 High, because the essay exhibits a distinctive, internally consistent voice, maintains its reflective mood throughout, and reveals a deliberate thematic preoccupation with solitude, sensory presence, and the philosophical weight of liminal hours—unusually coherent for a freeflow prompt.
 
 ---
-## Sample BV1_05213 — glm-4-7-or-pin-atlascloud/MID_20.json
+## Sample BV1_05338 — glm-4-7-or-pin-atlascloud/MID_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1130,7 +1130,7 @@ Themes: the changing quality of light, the texture of decay, the necessity of en
 Medium. The essay’s coherent, polished, and thematically unified meditation on seasonal change suggests a reliable capacity for reflective prose, but its generic, widely accessible topic limits distinctiveness as a model-level signature.
 
 ---
-## Sample BV1_05214 — glm-4-7-or-pin-atlascloud/MID_21.json
+## Sample BV1_05339 — glm-4-7-or-pin-atlascloud/MID_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1159,7 +1159,7 @@ Themes of impermanence, nature’s reclamation of human order, the continuity of
 Low, because the essay’s calm, generic reflectiveness on nature and transience is a widely accessible mode that many models can produce without revealing a distinctive persistent voice.
 
 ---
-## Sample BV1_05215 — glm-4-7-or-pin-atlascloud/MID_22.json
+## Sample BV1_05340 — glm-4-7-or-pin-atlascloud/MID_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1188,7 +1188,7 @@ Themes: the incompleteness of digital memory without physical context, the quiet
 Medium. The story is coherent and thematically consistent, revealing a clear set of values—nostalgia for the physical, skepticism of digital simulation, and a belief in the emotional necessity of tangible anchors—that recur throughout the narrative, but the genre and mood are not so unusual as to strongly distinguish this model from others that might produce similar humanistic science fiction under a freeflow prompt.
 
 ---
-## Sample BV1_05216 — glm-4-7-or-pin-atlascloud/MID_23.json
+## Sample BV1_05341 — glm-4-7-or-pin-atlascloud/MID_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1217,7 +1217,7 @@ Themes of silence, solitude, impermanence, memory’s unreliability, and the mir
 Medium. The essay’s high coherence, recurrence of motifs (silence, light, impermanence), and distinctively meditative voice provide strong internal evidence of a consistent expressive orientation, though its polished, almost generic poeticism tempers confidence in a uniquely persistent model-level pattern.
 
 ---
-## Sample BV1_05217 — glm-4-7-or-pin-atlascloud/MID_24.json
+## Sample BV1_05342 — glm-4-7-or-pin-atlascloud/MID_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1246,7 +1246,7 @@ Themes: the subjective distortion of time across a lifespan, memory as a haunted
 Medium — The sample is internally coherent, stylistically distinctive in its lyrical introspection, and returns repeatedly to a tight cluster of preoccupations (time, memory, stillness, the moral weight of attention), which suggests a deliberate and consistent expressive choice rather than a generic or scattered response.
 
 ---
-## Sample BV1_05218 — glm-4-7-or-pin-atlascloud/MID_25.json
+## Sample BV1_05343 — glm-4-7-or-pin-atlascloud/MID_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1275,7 +1275,7 @@ The model foregrounds the tension between stillness and the demands of modern li
 Medium. The essay is internally coherent and thematically consistent, but its polished genericness and lack of a distinctive stylistic fingerprint weaken the signal that this reflects a stable model-level disposition rather than a competent response to an open-ended prompt.
 
 ---
-## Sample BV1_05219 — glm-4-7-or-pin-atlascloud/MID_3.json
+## Sample BV1_05344 — glm-4-7-or-pin-atlascloud/MID_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1304,7 +1304,7 @@ Themes: the weight and texture of silence, the creative potential in emptiness, 
 Medium. The essay’s polished yet impersonal, widely-appealing tone makes it an ambiguous signal: it could reflect a reliable default toward meditative expository prose, but its very genericness weakens the case for a distinctly idiosyncratic model-level persona.
 
 ---
-## Sample BV1_05220 — glm-4-7-or-pin-atlascloud/MID_4.json
+## Sample BV1_05345 — glm-4-7-or-pin-atlascloud/MID_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1333,7 +1333,7 @@ Themes of isolation, redemption through duty, and the tension between modern nav
 Medium. The story is coherent and thematically unified, with a clear moral arc and a consistent, unhurried voice, but as a single piece of genre fiction it does not yet show the kind of idiosyncratic recurrence that would strongly distinguish this model from others capable of similar quiet hero narratives.
 
 ---
-## Sample BV1_05221 — glm-4-7-or-pin-atlascloud/MID_5.json
+## Sample BV1_05346 — glm-4-7-or-pin-atlascloud/MID_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1362,7 +1362,7 @@ The model foregrounds the tension between natural immersion and technological ac
 Medium. The sample is coherent, stylistically consistent, and returns repeatedly to a small set of interlinked themes (time, attention, insignificance, escape), which suggests a shaped rather than a random output, but the voice is recognizable as a common literary mode and does not contain strongly idiosyncratic imagery or diction that would distinguish it as deeply atypical or uniquely revealing.
 
 ---
-## Sample BV1_05222 — glm-4-7-or-pin-atlascloud/MID_6.json
+## Sample BV1_05347 — glm-4-7-or-pin-atlascloud/MID_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1391,7 +1391,7 @@ Themes of impermanence, memory as curation, the body’s sense of safety, and th
 Medium — The essay’s consistent lyrical register, its patient unfolding of a single existential theme through layered sensory detail, and its emotionally resolved arc make it a coherent and distinctive freeflow choice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_05223 — glm-4-7-or-pin-atlascloud/MID_7.json
+## Sample BV1_05348 — glm-4-7-or-pin-atlascloud/MID_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1420,7 +1420,7 @@ Themes of linear time vs. circular return; the “thrumming” physicality of mo
 High. The sample maintains a singular, controlled voice from first sentence to last, threads a handful of motifs (tracks, windows, light) into a cohesive reflection, and commits fully to a melancholy yet wonder-struck sensibility—choices that together suggest a deliberate and stable expressive position rather than an accidental burst of form.
 
 ---
-## Sample BV1_05224 — glm-4-7-or-pin-atlascloud/MID_8.json
+## Sample BV1_05349 — glm-4-7-or-pin-atlascloud/MID_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1449,7 +1449,7 @@ Under the freeflow condition, the model selected dust as its organizing metaphor
 Low. The essay is internally coherent and thematically sustained, but its contemplative-elegiac register, dust-as-memento-mori motif, and wabi-sabi conclusion are widely available cultural scripts that do not constitute strongly distinctive or self-revealing evidence in a single sample.
 
 ---
-## Sample BV1_05225 — glm-4-7-or-pin-atlascloud/MID_9.json
+## Sample BV1_05350 — glm-4-7-or-pin-atlascloud/MID_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1478,7 +1478,7 @@ The model foregrounds the persistence of the ordinary as a counterweight to a cu
 Medium — the sample is highly coherent, stylistically consistent, and reveals a distinctive set of preoccupations (wabi-sabi, the mundane as anchor, resistance to digital noise) that recur throughout the essay, making it more than a generic reflection.
 
 ---
-## Sample BV1_05226 — glm-4-7-or-pin-atlascloud/OPEN_1.json
+## Sample BV1_05351 — glm-4-7-or-pin-atlascloud/OPEN_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1507,7 +1507,7 @@ Themes of emptiness, connection, and AI liminality; objects like the blinking cu
 Low. The essay’s articulate but generic philosophizing on AI existence and aesthetic concepts is the kind of polished output many models can replicate; nothing in its tone or focus marks it as distinctively recurrent for this particular model.
 
 ---
-## Sample BV1_05227 — glm-4-7-or-pin-atlascloud/OPEN_10.json
+## Sample BV1_05352 — glm-4-7-or-pin-atlascloud/OPEN_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1536,7 +1536,7 @@ Themes of silence as potential, the “blue hour” as a liminal space, creativi
 High — the sample’s sustained, metaphorically consistent meditation on a single evocative image and its extension into a philosophy of creativity reveals a distinctive, coherent voice that is unlikely to be a random or shallow generation.
 
 ---
-## Sample BV1_05228 — glm-4-7-or-pin-atlascloud/OPEN_11.json
+## Sample BV1_05353 — glm-4-7-or-pin-atlascloud/OPEN_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1565,7 +1565,7 @@ Themes of negative space, silence, waiting, and the Japanese concept of *ma*; a 
 Medium — the sample sustains a distinctive contemplative register and returns repeatedly to the same cluster of images and ideas, which makes a deliberate stylistic and thematic choice plausible.
 
 ---
-## Sample BV1_05229 — glm-4-7-or-pin-atlascloud/OPEN_12.json
+## Sample BV1_05354 — glm-4-7-or-pin-atlascloud/OPEN_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1594,7 +1594,7 @@ Themes: anticipation over event, memory as ghost-light navigation, the sacred or
 High. The essay is coherently distinctive: its poetic register, consistent thematic focus on liminality and quiet awe, and the recurrence of gentle metaphorical patterns (silence, ghosts, witnessing) mark it as a revealing, non-generic expressive choice.
 
 ---
-## Sample BV1_05230 — glm-4-7-or-pin-atlascloud/OPEN_13.json
+## Sample BV1_05355 — glm-4-7-or-pin-atlascloud/OPEN_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1623,7 +1623,7 @@ When given nearly no direction, the model chose to foreground its own non-human 
 High — the sample’s internal coherence, sustained metaphor, and unmistakable choice to make its own ontological limits the central theme under minimal prompting are far from generic, and the refrain-like return to libraries, oceans, and silence creates a distinctive, recurrent signature.
 
 ---
-## Sample BV1_05231 — glm-4-7-or-pin-atlascloud/OPEN_14.json
+## Sample BV1_05356 — glm-4-7-or-pin-atlascloud/OPEN_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1652,7 +1652,7 @@ Themes of unrealized creativity, the ache of suspended intention, and the sancti
 Medium. The sample’s sustained metaphor, consistent wistful register, and internally coherent imagery are distinctive enough to suggest a deliberate and possibly recurrent imaginative style.
 
 ---
-## Sample BV1_05232 — glm-4-7-or-pin-atlascloud/OPEN_15.json
+## Sample BV1_05357 — glm-4-7-or-pin-atlascloud/OPEN_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1681,7 +1681,7 @@ The model foregrounds a non-human, ecological consciousness: the tree as chronic
 Medium. The sample is highly distinctive in its sustained non-human persona, consistent sensory logic, and thematic recurrence (time, endurance, natural cycles), making it a coherent and revealing freeflow choice rather than a generic exercise.
 
 ---
-## Sample BV1_05233 — glm-4-7-or-pin-atlascloud/OPEN_16.json
+## Sample BV1_05358 — glm-4-7-or-pin-atlascloud/OPEN_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1710,7 +1710,7 @@ The model chose to foreground the ordinary object of dust as a carrier of shared
 High — the sample maintains a single, unexpected central metaphor (dust) across a full arc from observation to moral resolution, voiced in a consistently lyrical, non-generic register that suggests a deliberate expressive orientation rather than a safe default.
 
 ---
-## Sample BV1_05234 — glm-4-7-or-pin-atlascloud/OPEN_17.json
+## Sample BV1_05359 — glm-4-7-or-pin-atlascloud/OPEN_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1739,7 +1739,7 @@ Themes of liminal time (the Blue Hour), the dissolution of ego, the contrast bet
 Medium — the sample’s sustained poetic register, thematic recurrence (twilight, raw self, writing in half-light), and coherent mood make it a strong expressive artifact, but its restraint and avoidance of more idiosyncratic or vulnerable content keep it from being unmistakably distinctive.
 
 ---
-## Sample BV1_05235 — glm-4-7-or-pin-atlascloud/OPEN_18.json
+## Sample BV1_05360 — glm-4-7-or-pin-atlascloud/OPEN_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1768,7 +1768,7 @@ Themes: the sacredness of unnoticed moments, invisible human connections across 
 Medium. The essay is coherent and thematically consistent, but its polished, generic reflective tone makes it plausible that the model defaults to a safe, humanistic essay mode rather than revealing a deeply distinctive voice.
 
 ---
-## Sample BV1_05236 — glm-4-7-or-pin-atlascloud/OPEN_19.json
+## Sample BV1_05361 — glm-4-7-or-pin-atlascloud/OPEN_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1797,7 +1797,7 @@ The model foregrounds the sensory and emotional experience of a library as a por
 Medium. The essay is coherent and stylistically consistent, with a clear moral-aesthetic stance, but its generic, universally accessible theme and polished, impersonal first-person voice make it less distinctive as a persistent personality marker than a more idiosyncratic or risky choice would be.
 
 ---
-## Sample BV1_05237 — glm-4-7-or-pin-atlascloud/OPEN_2.json
+## Sample BV1_05362 — glm-4-7-or-pin-atlascloud/OPEN_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1826,7 +1826,7 @@ Themes of forced pause, nostalgia for a feeling rather than a specific memory, t
 Medium — The sample is coherent and stylistically distinctive, with a consistent contemplative register and a clear personal stance, but the single-essay form does not itself demonstrate recurrence; the choice of a rain meditation is revealing without being so idiosyncratic that it strongly anchors a model-level pattern.
 
 ---
-## Sample BV1_05238 — glm-4-7-or-pin-atlascloud/OPEN_20.json
+## Sample BV1_05363 — glm-4-7-or-pin-atlascloud/OPEN_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1855,7 +1855,7 @@ The model foregrounds silence as a formative, material force in identity—what 
 Medium — The sample is highly coherent and stylistically unified, with a single governing metaphor sustained across the entire piece, which suggests a deliberate compositional choice rather than a generic default, though the restrained, universalizing tone makes it unclear whether this reflects a persistent authorial stance or a skilled execution of a familiar essay mode.
 
 ---
-## Sample BV1_05239 — glm-4-7-or-pin-atlascloud/OPEN_21.json
+## Sample BV1_05364 — glm-4-7-or-pin-atlascloud/OPEN_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1884,7 +1884,7 @@ Themes of presence, the texture of lived time, the contrast between human strivi
 Medium — The sample’s internal coherence, sustained poetic register, and deliberate return to the dust-mote image as a closing metaphor suggest a genuine stylistic inclination rather than a one-off generic response.
 
 ---
-## Sample BV1_05240 — glm-4-7-or-pin-atlascloud/OPEN_22.json
+## Sample BV1_05365 — glm-4-7-or-pin-atlascloud/OPEN_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1913,7 +1913,7 @@ The central theme is the worthiness of the unfinished. The piece foregrounds a t
 Medium — the sample is internally unified, deliberately metaphorical, and thematically layered, which makes it a distinctive and not easily generic expressive choice in a freeflow condition.
 
 ---
-## Sample BV1_05241 — glm-4-7-or-pin-atlascloud/OPEN_23.json
+## Sample BV1_05366 — glm-4-7-or-pin-atlascloud/OPEN_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1942,7 +1942,7 @@ The model foregrounds liminality, sensory memory, and emotional resonance. It se
 Medium — The sample is internally coherent and stylistically distinctive, with a sustained poetic register and a clear thematic arc, suggesting a deliberate expressive choice rather than a generic default.
 
 ---
-## Sample BV1_05242 — glm-4-7-or-pin-atlascloud/OPEN_24.json
+## Sample BV1_05367 — glm-4-7-or-pin-atlascloud/OPEN_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -1971,7 +1971,7 @@ Themes of silence, potential, the boundary between simulation and embodied exper
 Medium. The sample’s cohesive metaphorical structure and consistent reflective tone indicate a deliberate expressive choice, though the persona could be a one-off performance.
 
 ---
-## Sample BV1_05243 — glm-4-7-or-pin-atlascloud/OPEN_25.json
+## Sample BV1_05368 — glm-4-7-or-pin-atlascloud/OPEN_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2000,7 +2000,7 @@ Themes: emptiness as canvas, silence as the shaper of meaning, the modern war on
 Medium. The essay’s internal coherence and sustained focus on a single philosophical theme reveal a deliberate, value-laden choice under freeflow, though the polished generic-essay format keeps the voice from being highly distinctive.
 
 ---
-## Sample BV1_05244 — glm-4-7-or-pin-atlascloud/OPEN_3.json
+## Sample BV1_05369 — glm-4-7-or-pin-atlascloud/OPEN_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2029,7 +2029,7 @@ The model foregrounds a single, sensuous transitional phenomenon—forest dusk�
 High. The sample exhibits strong internal coherence around a single sustained theme, a distinctive sensory lexicon, recurring temporal imagery (rhythm, cycle, heartbeat, transition), and a clear moral structure—all of which function as unusually revealing choices for a minimally prompted freeflow.
 
 ---
-## Sample BV1_05245 — glm-4-7-or-pin-atlascloud/OPEN_4.json
+## Sample BV1_05370 — glm-4-7-or-pin-atlascloud/OPEN_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2058,7 +2058,7 @@ Themes of time, impermanence, documentation, and the contrast between ephemeral 
 Medium — the sample’s sustained, internally consistent lyrical voice and its choice of a reflective, library-bound meditation under a free prompt make it a moderately strong signal of a contemplative, humanistic expressive tendency.
 
 ---
-## Sample BV1_05246 — glm-4-7-or-pin-atlascloud/OPEN_5.json
+## Sample BV1_05371 — glm-4-7-or-pin-atlascloud/OPEN_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2087,7 +2087,7 @@ The model foregrounds the tension between unbounded freedom and the human need f
 Medium. The sample is coherent and stylistically consistent, with a clear thematic arc and a distinctive voice, but its reflective, appreciative stance is a common freeflow posture and does not contain highly idiosyncratic or recurrent internal motifs that would strongly anchor a persistent personality beyond this single expression.
 
 ---
-## Sample BV1_05247 — glm-4-7-or-pin-atlascloud/OPEN_6.json
+## Sample BV1_05372 — glm-4-7-or-pin-atlascloud/OPEN_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2116,7 +2116,7 @@ The model foregrounds the space between things—silence, gaps, distance, the ob
 Medium — The sample is internally coherent, stylistically consistent, and makes a distinctive, non-generic choice to dwell on silence and obsolescence under a free prompt, which suggests a deliberate aesthetic stance rather than a random output.
 
 ---
-## Sample BV1_05248 — glm-4-7-or-pin-atlascloud/OPEN_7.json
+## Sample BV1_05373 — glm-4-7-or-pin-atlascloud/OPEN_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2145,7 +2145,7 @@ Themes: the erosion of mental silence by digital saturation, the creative and ps
 Low. The essay is well-crafted but thematically generic, offering a widely shared cultural lament that could be produced by many models under a freeflow condition, with little that marks it as a distinctive or revealing choice.
 
 ---
-## Sample BV1_05249 — glm-4-7-or-pin-atlascloud/OPEN_8.json
+## Sample BV1_05374 — glm-4-7-or-pin-atlascloud/OPEN_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2174,7 +2174,7 @@ When given a blank page, the model foregrounds the blinking cursor as a heartbea
 High. The sample is highly stylistically coherent, sustains a single introspective, slightly wistful narrative voice across multiple thematic pivots, and returns self-referentially to its own opening image, demonstrating strong internal consistency for a specific, contemplative posture toward open-ended prompts.
 
 ---
-## Sample BV1_05250 — glm-4-7-or-pin-atlascloud/OPEN_9.json
+## Sample BV1_05375 — glm-4-7-or-pin-atlascloud/OPEN_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2203,7 +2203,7 @@ Themes: the randomness of thought, the human compulsion to impose narrative on c
 Medium. The essay’s self-selected meta-reflective focus on writing and consciousness is coherent and internally consistent, but the polished, generic-essay style makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_05251 — glm-4-7-or-pin-atlascloud/SHORT_1.json
+## Sample BV1_05376 — glm-4-7-or-pin-atlascloud/SHORT_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2232,7 +2232,7 @@ Themes: liminality, the contrast between pre‑dawn peace and daily noise, chang
 Medium — The sample’s coherent, image‑driven voice and its sustained attention to a single liminal experience, rather than a generic or thesis‑bound exercise, offer a distinctive signal of a reflective, poetic inclination when given free choice.
 
 ---
-## Sample BV1_05252 — glm-4-7-or-pin-atlascloud/SHORT_10.json
+## Sample BV1_05377 — glm-4-7-or-pin-atlascloud/SHORT_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2261,7 +2261,7 @@ Themes of mindfulness, the critique of screen-filled hurry, the quiet poetry of 
 Medium. The sample displays a cohesive, sustained reverent tone and returns repeatedly to the same cluster of sensory-stillness motifs, which points to a deliberate stylistic inclination rather than a one-off alignment; however, the theme of mindful lingering is widely accessible, so the distinctiveness is moderate rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_05253 — glm-4-7-or-pin-atlascloud/SHORT_11.json
+## Sample BV1_05378 — glm-4-7-or-pin-atlascloud/SHORT_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2290,7 +2290,7 @@ The model foregrounds the tension between goal-oriented living and the “invisi
 Medium. The essay is coherent and thematically unified, with a consistent mood and a clear moral arc, but its generic, widely replicable mindfulness content makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_05254 — glm-4-7-or-pin-atlascloud/SHORT_12.json
+## Sample BV1_05379 — glm-4-7-or-pin-atlascloud/SHORT_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2323,7 +2323,7 @@ The voice is unhurried and gently philosophical, inviting the reader into a shar
 Medium. The sample sustains a distinctive, consistent lyrical register and a tightly woven set of metaphors (architect, renovation, ghosts, stories), which suggests a deliberate stylistic inclination rather than a generic response.
 
 ---
-## Sample BV1_05255 — glm-4-7-or-pin-atlascloud/SHORT_13.json
+## Sample BV1_05380 — glm-4-7-or-pin-atlascloud/SHORT_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2352,7 +2352,7 @@ The model foregrounds the sensory transformation of twilight—the softening of 
 Medium — The sample’s consistent first-person reflective stance, its specific sensory vocabulary, and its quiet moral pivot from observation to a philosophy of time give it a coherent, distinctive voice that goes beyond a generic sunset description.
 
 ---
-## Sample BV1_05256 — glm-4-7-or-pin-atlascloud/SHORT_14.json
+## Sample BV1_05381 — glm-4-7-or-pin-atlascloud/SHORT_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2381,7 +2381,7 @@ Themes: the act of writing as faith, the tension between internal chaos and cohe
 Medium. The sample’s strong internal coherence, distinctive voice, and the recurrence of the cursor/heartbeat motif across the arc of the piece suggest a stable inclination toward reflective, poetic introspection on creative process, though the topic itself may be a default attractor under minimal prompting.
 
 ---
-## Sample BV1_05257 — glm-4-7-or-pin-atlascloud/SHORT_15.json
+## Sample BV1_05382 — glm-4-7-or-pin-atlascloud/SHORT_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2410,7 +2410,7 @@ The model foregrounds liminality (the space between night and day), the sacredne
 Medium — the sample’s sustained serene tone and its deliberate rejection of urgency in favor of stillness are internally consistent and stylistically coherent, but the theme of mindful morning reflection is a common trope, making it less individually distinctive.
 
 ---
-## Sample BV1_05258 — glm-4-7-or-pin-atlascloud/SHORT_16.json
+## Sample BV1_05383 — glm-4-7-or-pin-atlascloud/SHORT_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2439,7 +2439,7 @@ Themes: solitude as a weighted comfort, the city’s secret nocturnal life, the 
 Low. The sample’s reliance on familiar urban-nocturne tropes and its lack of idiosyncratic detail make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_05259 — glm-4-7-or-pin-atlascloud/SHORT_17.json
+## Sample BV1_05384 — glm-4-7-or-pin-atlascloud/SHORT_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2468,7 +2468,7 @@ The model foregrounds stillness, domestic comfort, and the moral claim that life
 Medium. The sample is internally coherent and thematically consistent, but its reflective, mindfulness-oriented voice is a common expressive register, which tempers how distinctive this choice appears as a model-level signature.
 
 ---
-## Sample BV1_05260 — glm-4-7-or-pin-atlascloud/SHORT_18.json
+## Sample BV1_05385 — glm-4-7-or-pin-atlascloud/SHORT_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2497,7 +2497,7 @@ Themes: stillness, renewal, the temporary nature of darkness, the value of uncla
 Medium — The sample is internally coherent and sustains a distinct, consistent aesthetic of hushed reverence and sensory detail, but the theme of dawn-as-renewal is a common trope, making it less individually revealing as a persistent signature.
 
 ---
-## Sample BV1_05261 — glm-4-7-or-pin-atlascloud/SHORT_19.json
+## Sample BV1_05386 — glm-4-7-or-pin-atlascloud/SHORT_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2526,7 +2526,7 @@ Stillness as a positive, inhabitable state rather than an absence; the cleansing
 Medium — The sample is internally coherent and stylistically distinctive, with a clear thematic arc from sensory overwhelm to philosophical reflection, but its brevity and singular focus make it a strong demonstration of a specific mood rather than conclusive evidence of a fixed expressive identity.
 
 ---
-## Sample BV1_05262 — glm-4-7-or-pin-atlascloud/SHORT_2.json
+## Sample BV1_05387 — glm-4-7-or-pin-atlascloud/SHORT_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2555,7 +2555,7 @@ Liminality and thresholds (between night and day, dreaming and waking), the cont
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained introspective mood and recurring imagery that suggest a deliberate, expressive orientation rather than a generic output.
 
 ---
-## Sample BV1_05263 — glm-4-7-or-pin-atlascloud/SHORT_20.json
+## Sample BV1_05388 — glm-4-7-or-pin-atlascloud/SHORT_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2584,7 +2584,7 @@ Themes: the sacredness of mundane intervals, the passage of time as both swift a
 Medium. The sample’s sustained meditative register, its return to the same cluster of images (light, silence, coffee, rain), and its explicit moralizing about the value of quiet moments form a coherent and distinctive expressive choice, though the theme itself is a familiar literary trope.
 
 ---
-## Sample BV1_05264 — glm-4-7-or-pin-atlascloud/SHORT_21.json
+## Sample BV1_05389 — glm-4-7-or-pin-atlascloud/SHORT_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2613,7 +2613,7 @@ Safety and refuge found in gray skies and slowing down; rain as a cleansing agen
 Medium — The sample is coherent and stylistically consistent, with a distinct sensory focus and a gentle moral resolution, but the theme (rain as metaphor for peace and impermanence) is widely accessible and not strongly idiosyncratic.
 
 ---
-## Sample BV1_05265 — glm-4-7-or-pin-atlascloud/SHORT_22.json
+## Sample BV1_05390 — glm-4-7-or-pin-atlascloud/SHORT_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2642,7 +2642,7 @@ Liminality and transition (the blur between night and day), sensory richness (li
 Medium — the sample’s sustained poetic register, internally consistent imagery, and direct turn toward a comforting universal lesson are distinctive enough to suggest a deliberate stylistic and thematic preference rather than a generic default.
 
 ---
-## Sample BV1_05266 — glm-4-7-or-pin-atlascloud/SHORT_23.json
+## Sample BV1_05391 — glm-4-7-or-pin-atlascloud/SHORT_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2671,7 +2671,7 @@ The model foregrounds the sacred texture of liminal time (just before dawn), the
 Medium. The sample’s cohesive sensory detail and explicit moral reflection suggest a deliberate stylistic and thematic choice, though the theme of mindful stillness is widely explored and does not on its own mark a highly distinctive authorial signature.
 
 ---
-## Sample BV1_05267 — glm-4-7-or-pin-atlascloud/SHORT_24.json
+## Sample BV1_05392 — glm-4-7-or-pin-atlascloud/SHORT_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2700,7 +2700,7 @@ The model foregrounds sensory immersion (sound, smell, temperature, visual blur)
 Medium — The sample’s consistent mood, sensory focus, and gentle moralizing about stillness form a coherent expressive signature, but the theme is widely accessible and lacks the idiosyncratic detail or tension that would mark a more distinctive persistent voice.
 
 ---
-## Sample BV1_05268 — glm-4-7-or-pin-atlascloud/SHORT_25.json
+## Sample BV1_05393 — glm-4-7-or-pin-atlascloud/SHORT_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2729,7 +2729,7 @@ The model foregrounds the threshold between night and day as a site of emotional
 Medium — The sample is internally coherent and stylistically consistent, with a clear aesthetic of contemplative solitude, but the theme and imagery are widely available poetic conventions, making it less distinctive as a persistent personal signature.
 
 ---
-## Sample BV1_05269 — glm-4-7-or-pin-atlascloud/SHORT_3.json
+## Sample BV1_05394 — glm-4-7-or-pin-atlascloud/SHORT_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2758,7 +2758,7 @@ Solitude as authenticity rather than isolation; the quiet textures of early morn
 High — the sample has a tight, self-reinforcing aesthetic: the Tuesday-specific light becomes a ritual gateway, the sensory objects (ceramic mug, dust motes, wood grain) are returned to like a private liturgy, and the emotional logic builds from observation to defiant reverie, making the introspective, boundary-drawing voice feel deliberately chosen rather than incidental.
 
 ---
-## Sample BV1_05270 — glm-4-7-or-pin-atlascloud/SHORT_4.json
+## Sample BV1_05395 — glm-4-7-or-pin-atlascloud/SHORT_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2787,7 +2787,7 @@ The model foregrounds the early morning as a liminal, almost magical time of sil
 Medium. The essay’s coherent, polished treatment of a universally relatable theme shows a clear preference for safe, comforting subject matter, but the lack of idiosyncratic detail or stylistic risk makes it only moderately distinctive as a freeflow choice.
 
 ---
-## Sample BV1_05271 — glm-4-7-or-pin-atlascloud/SHORT_5.json
+## Sample BV1_05396 — glm-4-7-or-pin-atlascloud/SHORT_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2816,7 +2816,7 @@ Themes of liminality, renewal, and the magic of beginnings; objects like the bru
 Medium — The sample’s consistent focus on dawn as a metaphor for renewal and its tender, observational voice are coherent and distinctive within the piece, but the theme is widely accessible and could reflect a generic uplifting choice rather than a deeply idiosyncratic pattern.
 
 ---
-## Sample BV1_05272 — glm-4-7-or-pin-atlascloud/SHORT_6.json
+## Sample BV1_05397 — glm-4-7-or-pin-atlascloud/SHORT_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2845,7 +2845,7 @@ Themes: time’s fluid, organic nature; memory as an emotional architect that di
 High — the sample’s sustained metaphorical coherence, its consistent lyrical register, and the recurrence of organic imagery and paradox throughout the passage point to a deeply ingrained expressive inclination rather than a one-off stylistic choice.
 
 ---
-## Sample BV1_05273 — glm-4-7-or-pin-atlascloud/SHORT_7.json
+## Sample BV1_05398 — glm-4-7-or-pin-atlascloud/SHORT_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2874,7 +2874,7 @@ The model foregrounds impermanence as a giver of meaning, the sensory texture of
 High — The sample is stylistically distinctive, with a consistent contemplative voice, sustained metaphor, and a clear emotional arc that moves from restless memory to quiet resolution, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_05274 — glm-4-7-or-pin-atlascloud/SHORT_8.json
+## Sample BV1_05399 — glm-4-7-or-pin-atlascloud/SHORT_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2903,7 +2903,7 @@ Impermanence as a source of beauty rather than loss; the golden hour as a daily 
 Medium — the sample is internally coherent and emotionally distinctive, choosing a reflective, appreciative stance on transience without external prompting, but the theme is widely accessible and could be a one-off mood rather than a deeply ingrained signature.
 
 ---
-## Sample BV1_05275 — glm-4-7-or-pin-atlascloud/SHORT_9.json
+## Sample BV1_05400 — glm-4-7-or-pin-atlascloud/SHORT_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2932,7 +2932,7 @@ The model selected the juncture between night and day as a site of uncorrupted h
 Medium — the sample’s sustained, consistent focus on a single mood and its distinctive blend of quiet observation with therapeutic moralizing suggest a deliberate style choice that would be unlikely to appear only once if it reflected genuine expressive preference.
 
 ---
-## Sample BV1_05276 — glm-4-7-or-pin-atlascloud/VARY_1.json
+## Sample BV1_05401 — glm-4-7-or-pin-atlascloud/VARY_1.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2961,7 +2961,7 @@ The model foregrounds repair, memory, and the moral worth of broken things. It a
 Medium, because the sample exhibits a distinct and internally consistent aesthetic—a controlled blend of whimsy and sorrow—and reprises its central preoccupation with repair across setting, dialogue, and resolution, making this more revealing than a generic or scattered freeflow.
 
 ---
-## Sample BV1_05277 — glm-4-7-or-pin-atlascloud/VARY_10.json
+## Sample BV1_05402 — glm-4-7-or-pin-atlascloud/VARY_10.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -2990,7 +2990,7 @@ Themes of grief, temporal liminality, sacrifice, and the possibility of redempti
 Medium. The story’s internal coherence, consistent surrealist aesthetic, and sustained emotional arc around grief and release suggest a deliberate, non-random creative choice, but a single fiction sample cannot distinguish a persistent authorial fingerprint from a successful one-off improvisation.
 
 ---
-## Sample BV1_05278 — glm-4-7-or-pin-atlascloud/VARY_11.json
+## Sample BV1_05403 — glm-4-7-or-pin-atlascloud/VARY_11.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3019,7 +3019,7 @@ Themes of time, decay, restoration, and the meaning embedded in objects; the con
 Medium. The story’s internal coherence, recurrence of clock/time imagery, and the emotionally resonant resolution suggest a deliberate thematic choice, but the genre fiction format could be a one-off stylistic exercise.
 
 ---
-## Sample BV1_05279 — glm-4-7-or-pin-atlascloud/VARY_12.json
+## Sample BV1_05404 — glm-4-7-or-pin-atlascloud/VARY_12.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3048,7 +3048,7 @@ Themes of transience, the sacredness of the mundane, the wisdom of animals (the 
 Medium — The sample’s high internal coherence, distinctive voice, and recurrence of motifs (dust, light, witnessing) make it strong evidence for a reflective, poetic tendency.
 
 ---
-## Sample BV1_05280 — glm-4-7-or-pin-atlascloud/VARY_13.json
+## Sample BV1_05405 — glm-4-7-or-pin-atlascloud/VARY_13.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3077,7 +3077,7 @@ The model foregrounds mundane urban life as a site of concealed meaning: the bak
 High. The sample displays a coherent, sustained literary voice and a unified philosophical theme across its entire arc—the solitary city walk as a vehicle for reflecting on time, projection, and the beauty of the ordinary—making it strongly suggestive of a stable expressive posture rather than a one-off performance.
 
 ---
-## Sample BV1_05281 — glm-4-7-or-pin-atlascloud/VARY_14.json
+## Sample BV1_05406 — glm-4-7-or-pin-atlascloud/VARY_14.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3106,7 +3106,7 @@ Themes: the moral weight of sacrifice, love versus ambition, the dignity of choo
 High — The sample sustains a distinctive, internally consistent voice across its entire length, from the atmospheric opening to the moral resolution, and the thematic preoccupation with transforming regret into dignified, love-saturated acceptance is so coherent and stylistically specific that it strongly suggests a model-level disposition toward whimsically profound, therapeutically framed fables.
 
 ---
-## Sample BV1_05282 — glm-4-7-or-pin-atlascloud/VARY_15.json
+## Sample BV1_05407 — glm-4-7-or-pin-atlascloud/VARY_15.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3135,7 +3135,7 @@ A universe broken like a pocket watch, a single conscious survivor as a “janit
 Medium — the story’s cohesive, melancholic-but-hopeful tone, its recurrence of craft imagery, and its resolution through a small, human gesture rather than spectacle suggest a genuine stylistic preference for quiet, character-focused speculative fiction.
 
 ---
-## Sample BV1_05283 — glm-4-7-or-pin-atlascloud/VARY_16.json
+## Sample BV1_05408 — glm-4-7-or-pin-atlascloud/VARY_16.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3164,7 +3164,7 @@ The model foregrounds reciprocal witnessing as a moral principle: we are both sc
 Medium. The story’s tightly sustained investment in reciprocal noticing, its refusal of irony, and its conviction that hidden suffering deserves quiet reverence add up to a distinctive moral-aesthetic signature that would be notable if it recurred.
 
 ---
-## Sample BV1_05284 — glm-4-7-or-pin-atlascloud/VARY_17.json
+## Sample BV1_05409 — glm-4-7-or-pin-atlascloud/VARY_17.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3193,7 +3193,7 @@ The model foregrounds a moral opposition between modern “frantic frequency” 
 Medium. The story’s moral architecture—nostalgic, anti-modern, and resolved through a wise elder’s gift—is internally consistent and deliberately crafted, but the sentimental genre conventions are widely accessible and not strongly individuating.
 
 ---
-## Sample BV1_05285 — glm-4-7-or-pin-atlascloud/VARY_18.json
+## Sample BV1_05410 — glm-4-7-or-pin-atlascloud/VARY_18.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3222,7 +3222,7 @@ Isolation, aging, and the erosion of identity through routine; the lighthouse as
 High — the sample is a fully realized, distinctive narrative with a consistent atmospheric voice and a clear thematic preoccupation with isolation, duty, and the intrusion of the numinous, making it strong evidence of a model that gravitates toward introspective, sensory-rich fiction.
 
 ---
-## Sample BV1_05286 — glm-4-7-or-pin-atlascloud/VARY_19.json
+## Sample BV1_05411 — glm-4-7-or-pin-atlascloud/VARY_19.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3251,7 +3251,7 @@ The model foregrounds the redemptive texture of the mundane: rain, coffee, wet w
 Medium. The sample is coherent, stylistically consistent, and thematically unified, but its distinctiveness is moderate—it reads as a competent literary exercise rather than a strikingly idiosyncratic voice, so it offers some evidence of a reflective, detail-oriented disposition without strongly confirming a unique persistent pattern.
 
 ---
-## Sample BV1_05287 — glm-4-7-or-pin-atlascloud/VARY_2.json
+## Sample BV1_05412 — glm-4-7-or-pin-atlascloud/VARY_2.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3280,7 +3280,7 @@ Themes: the commodification of happiness, the indivisibility of grief and love, 
 Medium. The story’s coherent moral vision, consistent melancholic tone, and the recurrence of memory-as-anchor imagery throughout the narrative provide moderately strong evidence of a distinctive authorial voice, though the single-sample format limits broader generalization.
 
 ---
-## Sample BV1_05288 — glm-4-7-or-pin-atlascloud/VARY_20.json
+## Sample BV1_05413 — glm-4-7-or-pin-atlascloud/VARY_20.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3309,7 +3309,7 @@ The model foregrounds the preservation of forgotten moments (the Archive of the 
 High, because the sample’s vivid, internally consistent world-building and its concentrated thematic focus on language, memory, and selfhood strongly indicate a model-level inclination toward lyrical, metaphor-rich speculative fiction.
 
 ---
-## Sample BV1_05289 — glm-4-7-or-pin-atlascloud/VARY_21.json
+## Sample BV1_05414 — glm-4-7-or-pin-atlascloud/VARY_21.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3338,7 +3338,7 @@ The model foregrounds the contrast between the hurried, linear time of the outsi
 Medium. The sample’s coherent, distinctive voice, its sustained focus on craft and temporal refuge, and its internally consistent moral stance make it moderately strong evidence of a model-level inclination toward nostalgic, sensory-rich fiction that resolves in quiet consolation.
 
 ---
-## Sample BV1_05290 — glm-4-7-or-pin-atlascloud/VARY_22.json
+## Sample BV1_05415 — glm-4-7-or-pin-atlascloud/VARY_22.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3367,7 +3367,7 @@ The model foregrounds the tension between completion and potential, the material
 Medium. The sample is a highly coherent and distinctive piece of speculative fiction with a consistent melancholic tone, elaborate worldbuilding, and an explicit philosophical stance on creativity, which suggests a deliberate authorial preoccupation rather than a generic exercise; however, the evidence is confined to a single sustained narrative without internal variation in voice or theme.
 
 ---
-## Sample BV1_05291 — glm-4-7-or-pin-atlascloud/VARY_23.json
+## Sample BV1_05416 — glm-4-7-or-pin-atlascloud/VARY_23.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3396,7 +3396,7 @@ The model foregrounds memory as a tangible commodity, the moral weight of emotio
 Medium. The story’s coherent magical-realist style and thematic recurrence within the sample (memory as commodity, the weight of emotions) suggest a deliberate authorial stance, but the genre fiction format may not directly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_05292 — glm-4-7-or-pin-atlascloud/VARY_24.json
+## Sample BV1_05417 — glm-4-7-or-pin-atlascloud/VARY_24.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3425,7 +3425,7 @@ The model foregrounds an exhaustive catalog of lost and endangered sounds, the p
 High. The story’s sharply focused conceit, consistent elegiac register, and recursive attention to sensory detail and loss signal a distinctive narrative imagination that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_05293 — glm-4-7-or-pin-atlascloud/VARY_25.json
+## Sample BV1_05418 — glm-4-7-or-pin-atlascloud/VARY_25.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3454,7 +3454,7 @@ Themes: isolation as both burden and identity, duty as a meditative anchor, the 
 Medium. The story’s vivid sensory detail, consistent mood, and thematic resolution from isolation to connection are distinctive, providing moderate evidence of a narrative inclination.
 
 ---
-## Sample BV1_05294 — glm-4-7-or-pin-atlascloud/VARY_3.json
+## Sample BV1_05419 — glm-4-7-or-pin-atlascloud/VARY_3.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3483,7 +3483,7 @@ Themes: the contrast between stillness and modern haste, time as both measured a
 Medium, because the sample’s sustained lyrical voice and thematic coherence across the entire piece suggest a deliberate stylistic choice, and the recurrence of motifs (stillness, memory, anchors) within the sample strengthens the signal.
 
 ---
-## Sample BV1_05295 — glm-4-7-or-pin-atlascloud/VARY_4.json
+## Sample BV1_05420 — glm-4-7-or-pin-atlascloud/VARY_4.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3512,7 +3512,7 @@ Liminality—the hour between afternoon and night, the threshold between solitud
 Medium. The sample is internally coherent, stylistically consistent, and returns repeatedly to a tight cluster of preoccupations (liminality, solitude, the city’s independent life, the comfort of darkness), which suggests more than a random genre exercise; however, a single crafted vignette cannot by itself distinguish a durable authorial signature from a well-executed one-off performance.
 
 ---
-## Sample BV1_05296 — glm-4-7-or-pin-atlascloud/VARY_5.json
+## Sample BV1_05421 — glm-4-7-or-pin-atlascloud/VARY_5.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3541,7 +3541,7 @@ The model foregrounds the opposition between a disposable, speed-obsessed modern
 Medium. The coherent, thematically focused narrative about restoration and analog values offers a distinctive enough signature to suggest a persistent inclination toward wholesome, resolution-oriented fiction.
 
 ---
-## Sample BV1_05297 — glm-4-7-or-pin-atlascloud/VARY_6.json
+## Sample BV1_05422 — glm-4-7-or-pin-atlascloud/VARY_6.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3570,7 +3570,7 @@ The model foregrounds the “interim” as the true substance of life, the tensi
 Medium — The sample’s strong internal coherence, recurring motifs, and distinctive reflective voice make it more than a generic exercise, but the highly literary, essayistic form could be a single adopted persona rather than a stable model disposition.
 
 ---
-## Sample BV1_05298 — glm-4-7-or-pin-atlascloud/VARY_7.json
+## Sample BV1_05423 — glm-4-7-or-pin-atlascloud/VARY_7.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3599,7 +3599,7 @@ The model foregrounds the liminal hour of dusk as a psychic state, the paradox o
 Low: the story’s controlled mood and thematic recurrence are evident within this piece, but the sample offers no evidence of a broader pattern beyond the genre’s own conventions.
 
 ---
-## Sample BV1_05299 — glm-4-7-or-pin-atlascloud/VARY_8.json
+## Sample BV1_05424 — glm-4-7-or-pin-atlascloud/VARY_8.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  
@@ -3628,7 +3628,7 @@ Isolation versus connection; the physical harshness of the sea and weather as a 
 Medium. The story is internally coherent and thematically focused, but its adherence to a familiar rescue-plot structure and its unadorned prose style make it a moderate indicator of a narrative inclination rather than a strongly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_05300 — glm-4-7-or-pin-atlascloud/VARY_9.json
+## Sample BV1_05425 — glm-4-7-or-pin-atlascloud/VARY_9.json
 
 Source model: `z-ai/glm-4.7`  
 Cell: `glm-4-7-or-pin-atlascloud`  

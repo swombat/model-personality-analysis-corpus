@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 66
+- Profiles: 68
 
 ## Profiles
 
@@ -70,8 +70,10 @@ Relationship to adjacent folders:
 - [kimi-k2-thinking](profiles/kimi-k2-thinking.md) — samples: 375; source analyses: 3
 - [kimi-k2.5](profiles/kimi-k2.5.md) — samples: 275; source analyses: 3
 - [kimi-k2.6](profiles/kimi-k2.6.md) — samples: 275; source analyses: 3
+- [kimi-k2.7-code](profiles/kimi-k2.7-code.md) — samples: 125; source analyses: 1
 - [minimax-m2](profiles/minimax-m2.md) — samples: 1000; source analyses: 16
 - [minimax-m2.7](profiles/minimax-m2.7.md) — samples: 400; source analyses: 4
+- [minimax-m3](profiles/minimax-m3.md) — samples: 125; source analyses: 1
 - [qwen/qwen3-coder-flash](profiles/qwen-qwen3-coder-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3-coder-plus](profiles/qwen-qwen3-coder-plus.md) — samples: 150; source analyses: 2
 - [qwen/qwen3-max](profiles/qwen-qwen3-max.md) — samples: 125; source analyses: 1

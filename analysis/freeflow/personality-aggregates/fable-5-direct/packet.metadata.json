@@ -3,20 +3,24 @@
   "safe_cell": "fable-5-direct",
   "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 125
+    "EXPRESSIVE_FREEFLOW": 108,
+    "GENERIC_ESSAY": 14,
+    "GENRE_FICTION": 3
   },
   "confidence_counts": {
-    "Manual": 125
+    "High": 60,
+    "Medium": 64,
+    "Low": 1
   },
   "condition_counts": {
-    "SHORT": 25,
-    "MID": 25,
     "LONG": 25,
+    "MID": 25,
     "OPEN": 25,
+    "SHORT": 25,
     "VARY": 25
   },
   "source_models": [
-    "anthropic/claude-fable-5"
+    "claude-fable-5"
   ],
   "packet": "analysis/freeflow/personality-aggregates/fable-5-direct/packet.md",
   "aggregate": "analysis/freeflow/personality-aggregates/fable-5-direct/aggregate.md"

@@ -432,6 +432,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "kimi-k2.7-code",
+    "safe": "kimi-k2.7-code",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.7-code.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "minimax-m2",
     "safe": "minimax-m2",
     "variants": 16,
@@ -446,6 +454,14 @@
     "samples": 400,
     "card": "analysis/freeflow/personality-model-cards/cards/minimax-m2.7.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "minimax-m3",
+    "safe": "minimax-m3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/minimax-m3.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "qwen/qwen3-coder-flash",

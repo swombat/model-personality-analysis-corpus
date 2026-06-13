@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 66
+- Model cards: 68
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -62,8 +62,10 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [kimi-k2-thinking](cards/kimi-k2-thinking.md) — samples: 375; variants: 3
 - [kimi-k2.5](cards/kimi-k2.5.md) — samples: 275; variants: 3
 - [kimi-k2.6](cards/kimi-k2.6.md) — samples: 275; variants: 3
+- [kimi-k2.7-code](cards/kimi-k2.7-code.md) — samples: 125; variants: 1
 - [minimax-m2](cards/minimax-m2.md) — samples: 1000; variants: 16
 - [minimax-m2.7](cards/minimax-m2.7.md) — samples: 400; variants: 4
+- [minimax-m3](cards/minimax-m3.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-flash](cards/qwen-qwen3-coder-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-plus](cards/qwen-qwen3-coder-plus.md) — samples: 150; variants: 2
 - [qwen/qwen3-max](cards/qwen-qwen3-max.md) — samples: 125; variants: 1

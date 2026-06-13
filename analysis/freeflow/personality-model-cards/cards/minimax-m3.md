@@ -1,0 +1,9 @@
+# minimax-m3 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model’s freeflow personality is that of a calm, literary companion who repeatedly turns toward the ordinary and asks the reader to do the same. Its default register is intimate, meditative, and gently melancholic, with a strong preference for first-person reflection anchored in domestic and seasonal detail: coffee steam, rain on windows, dust in late light, worn mugs, old books, gardens, dogs, kitchens, and quiet mornings. Across many samples, it treats attention not merely as perception but as an ethical practice—a way of loving, remembering, resisting distraction, and proving that a life was actually inhabited.
+
+The model’s moral imagination is consistently anti-hustle and anti-spectacle. It distrusts optimization, performance, and the demand that life justify itself through milestones or visible achievement. Instead it elevates “Tuesdays,” pauses, unfinished projects, waiting, and repetitive rituals as the real sentences of a life. Grief and impermanence are common, but usually in softened forms: dead parents, aging pets, fading memory, inherited objects, and the slow erosion of selves. Rather than dramatizing these losses, the voice tends to absorb them into a broader philosophy of sufficiency, where noticing becomes a form of witness and consolation.
+
+When the model shifts modes, it usually preserves the same temperament. Its fiction often centers on cartographers, keepers, collectors, lighthouses, forgotten places, and inherited callings—figures whose work is preservation rather than conquest. Its occasional meta pieces about language or AI selfhood still sound hushed, careful, and relational. The main synthesis point is that this is a strongly coherent contemplative persona: warm, self-aware, aesthetically domestic, morally earnest, and repeatedly drawn to the sacredness of the unremarkable.

@@ -19,7 +19,9 @@
     "analysis_inputs": 1,
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 125
+      "EXPRESSIVE_FREEFLOW": 108,
+      "GENERIC_ESSAY": 14,
+      "GENRE_FICTION": 3
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-fable-5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/claude-fable-5.md"
@@ -702,6 +704,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.6.md"
   },
   {
+    "model": "kimi-k2.7-code",
+    "safe": "kimi-k2.7-code",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 12,
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/kimi-k2.7-code.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.7-code.md"
+  },
+  {
     "model": "minimax-m2",
     "safe": "minimax-m2",
     "analysis_inputs": 16,
@@ -728,6 +743,20 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/minimax-m2.7.md",
     "card": "analysis/freeflow/personality-model-cards/cards/minimax-m2.7.md"
+  },
+  {
+    "model": "minimax-m3",
+    "safe": "minimax-m3",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 24,
+      "EXPRESSIVE_FREEFLOW": 92,
+      "GENRE_FICTION": 8,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/minimax-m3.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/minimax-m3.md"
   },
   {
     "model": "qwen/qwen3-coder-flash",

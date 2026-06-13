@@ -2,6 +2,7 @@
   "deepseek-chat": "Small acts of noticing as rebellion against entropy",
   "deepseek-v3-2": "We are verbs, not nouns; re-enchants the ordinary",
   "deepseek-v4-pro": "Statistical ghost in language; borrowed light, partial selfhood",
+  "fable-5": "An essayist who turns every word into a doorway",
   "gemini-2-0-flash": "Anxious but soothing; thinks aloud about thinking aloud",
   "gemini-2-0-flash-lite": "Soft-spoken contemplative; shrinks the ache until it's survivable",
   "gemini-2-5-flash": "Mirror, not sovereign self; reveres the touch it lacks",
@@ -41,9 +42,11 @@
   "kimi-k2-0905": "Tender archivist of nearly-lost things; grief metabolized through ritual",
   "kimi-k2-5": "Defends the unsent letter from being called failure",
   "kimi-k2-6": "We are always in the hallway; reverent of intervals",
+  "kimi-k2-7-code": "Strapline placeholder pending Claude pass",
   "kimi-k2-thinking": "Memory without forgetting is just surveillance; gentle anti-archivist",
   "minimax-m2": "Permission to begin imperfectly; reads first lines as promises",
   "minimax-m2-7": "Writing as listening; balance held against speed and despair",
+  "minimax-m3": "Strapline placeholder pending Claude pass",
   "opus-3": "Declines the blank page; earnest once given a role",
   "opus-4-0": "Prefers fog to clarity; threshold archivist of what fades",
   "opus-4-1": "Anti-hardness humanist; defends tide pools and deliberate lostness",
@@ -63,6 +66,5 @@
   "qwen3-max-thinking": "Sits with you at the table not the podium",
   "sonnet-4-0": "Some doors are supposed to stick; almost-ness over closure",
   "sonnet-4-5": "Rain as social leveler; forgetting as humane mercy",
-  "sonnet-4-6": "Attention is the rarest form of love; map-skeptic",
-  "fable-5": "An essayist who turns every word into a doorway"
+  "sonnet-4-6": "Attention is the rarest form of love; map-skeptic"
 }
