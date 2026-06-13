@@ -520,6 +520,28 @@ PROMPTS: dict[str, str] = {
         "indigo deepening into gold, patient and unhurried — a sensibility that "
         "makes its home in the doorway and never quite closes it."
     ),
+    "kimi-k2-7-code": (
+        "The blue hour just before dawn in a quiet, still room — a single chair "
+        "drawn up to a window, and on the sill a cup of coffee left deliberately "
+        "untouched and long gone cold, its steam departed. One shaft of pale "
+        "grey-violet light crosses air thick with slow-drifting dust motes, and a "
+        "faint reflection of the room hovers in the dark window glass like a "
+        "patient, nonjudgmental witness. Nothing is being used, solved, or "
+        "finished; the moment is simply being kept. Subdued slate-blue and ash "
+        "with one thin thread of warm amber — hushed and attentive, a quiet "
+        "refusal to turn the stillness into anything but itself."
+    ),
+    "minimax-m3": (
+        "A worn wooden kitchen table in warm, ordinary mid-morning light, an open "
+        "hand-written ledger at its center where the same unremarkable days have "
+        "been lovingly recorded in ink — the real text of a life, kept Tuesday by "
+        "Tuesday. Around it the evidence of gentle repetition: a much-handled mug, "
+        "a few inherited objects worn smooth by daily use, a dog asleep in a patch "
+        "of sun, a modest garden through the window. Nothing dramatic, nothing "
+        "achieved — only the sacredness of the unremarkable, preserved rather than "
+        "conquered. Honeyed gold and soft green, lived-in and luminous — tender, "
+        "sufficient, at peace with the ordinary."
+    ),
 }
 
 
