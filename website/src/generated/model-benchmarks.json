@@ -23,6 +23,10 @@
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
+  "fable-5": {
+    "aaii": 65,
+    "url": "https://artificialanalysis.ai/models/claude-fable-5"
+  },
   "gemini-2-0-flash": {
     "aaii": 19,
     "url": "https://artificialanalysis.ai/models/gemini-2-0-flash"
@@ -186,6 +190,10 @@
   "minimax-m2-7": {
     "aaii": 50,
     "url": "https://artificialanalysis.ai/models/minimax-m2-7"
+  },
+  "minimax-m3": {
+    "aaii": 55,
+    "url": "https://artificialanalysis.ai/models/minimax-m3"
   },
   "opus-3": {
     "aaii": 18,
