@@ -3505,6 +3505,60 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-direct-r3/aggregate.md"
   },
   {
+    "cell": "gpt-5-mini-direct",
+    "safe_cell": "gpt-5-mini-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 64,
+      "GENERIC_ESSAY": 47,
+      "GENRE_FICTION": 14
+    },
+    "confidence_counts": {
+      "Medium": 76,
+      "High": 30,
+      "Low": 19
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5-mini"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-mini-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-mini-direct/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-nano-direct",
+    "safe_cell": "gpt-5-nano-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 12,
+      "GENERIC_ESSAY": 3
+    },
+    "confidence_counts": {
+      "Medium": 74,
+      "High": 50,
+      "Low": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5-nano"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-nano-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-nano-direct/aggregate.md"
+  },
+  {
     "cell": "gpt-5-or-pin-openai",
     "safe_cell": "gpt-5-or-pin-openai",
     "samples": 125,
@@ -3530,6 +3584,61 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/gpt-5-or-pin-openai/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-or-pin-openai/aggregate.md"
+  },
+  {
+    "cell": "gpt-oss-120b-or-pin-amazon-bedrock",
+    "safe_cell": "gpt-oss-120b-or-pin-amazon-bedrock",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 99,
+      "GENERIC_ESSAY": 22,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "Medium": 74,
+      "High": 37,
+      "Low": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "openai/gpt-oss-120b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-oss-120b-or-pin-amazon-bedrock/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-oss-120b-or-pin-amazon-bedrock/aggregate.md"
+  },
+  {
+    "cell": "gpt-oss-20b-or-pin-amazon-bedrock",
+    "safe_cell": "gpt-oss-20b-or-pin-amazon-bedrock",
+    "samples": 125,
+    "sample_kind_counts": {
+      "LOW_SIGNAL": 38,
+      "EXPRESSIVE_FREEFLOW": 74,
+      "GENERIC_ESSAY": 6,
+      "GENRE_FICTION": 7
+    },
+    "confidence_counts": {
+      "Low": 34,
+      "Medium": 75,
+      "High": 16
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "openai/gpt-oss-20b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-oss-20b-or-pin-amazon-bedrock/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-oss-20b-or-pin-amazon-bedrock/aggregate.md"
   },
   {
     "cell": "grok-3-16k",

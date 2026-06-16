@@ -522,6 +522,32 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-codex.md"
   },
   {
+    "model": "gpt-5-mini",
+    "safe": "gpt-5-mini",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 64,
+      "GENERIC_ESSAY": 47,
+      "GENRE_FICTION": 14
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5-mini.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-mini.md"
+  },
+  {
+    "model": "gpt-5-nano",
+    "safe": "gpt-5-nano",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 12,
+      "GENERIC_ESSAY": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5-nano.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-nano.md"
+  },
+  {
     "model": "gpt-5.1",
     "safe": "gpt-5.1",
     "analysis_inputs": 4,
@@ -637,6 +663,33 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-5.5-pro.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md"
+  },
+  {
+    "model": "gpt-oss-120b",
+    "safe": "gpt-oss-120b",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 99,
+      "GENERIC_ESSAY": 22,
+      "GENRE_FICTION": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-oss-120b.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-oss-120b.md"
+  },
+  {
+    "model": "gpt-oss-20b",
+    "safe": "gpt-oss-20b",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "LOW_SIGNAL": 38,
+      "EXPRESSIVE_FREEFLOW": 74,
+      "GENERIC_ESSAY": 6,
+      "GENRE_FICTION": 7
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-oss-20b.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-oss-20b.md"
   },
   {
     "model": "grok-3",

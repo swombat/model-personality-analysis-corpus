@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 75
+- Profiles: 79
 
 ## Profiles
 
@@ -56,6 +56,8 @@ Relationship to adjacent folders:
 - [gpt-4o-mini](profiles/gpt-4o-mini.md) — samples: 125; source analyses: 1
 - [gpt-5](profiles/gpt-5.md) — samples: 300; source analyses: 4
 - [gpt-5-codex](profiles/gpt-5-codex.md) — samples: 300; source analyses: 4
+- [gpt-5-mini](profiles/gpt-5-mini.md) — samples: 125; source analyses: 1
+- [gpt-5-nano](profiles/gpt-5-nano.md) — samples: 125; source analyses: 1
 - [gpt-5.1](profiles/gpt-5.1.md) — samples: 300; source analyses: 4
 - [gpt-5.1-codex](profiles/gpt-5.1-codex.md) — samples: 300; source analyses: 4
 - [gpt-5.2](profiles/gpt-5.2.md) — samples: 300; source analyses: 4
@@ -65,6 +67,8 @@ Relationship to adjacent folders:
 - [gpt-5.4](profiles/gpt-5.4.md) — samples: 275; source analyses: 3
 - [gpt-5.5](profiles/gpt-5.5.md) — samples: 375; source analyses: 7
 - [gpt-5.5-pro](profiles/gpt-5.5-pro.md) — samples: 250; source analyses: 2
+- [gpt-oss-120b](profiles/gpt-oss-120b.md) — samples: 125; source analyses: 1
+- [gpt-oss-20b](profiles/gpt-oss-20b.md) — samples: 125; source analyses: 1
 - [grok-3](profiles/grok-3.md) — samples: 125; source analyses: 1
 - [grok-4-0709](profiles/grok-4-0709.md) — samples: 125; source analyses: 1
 - [grok-4-1-fast-non-reasoning](profiles/grok-4-1-fast-non-reasoning.md) — samples: 125; source analyses: 1

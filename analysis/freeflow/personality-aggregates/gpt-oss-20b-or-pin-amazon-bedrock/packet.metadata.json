@@ -1,0 +1,28 @@
+{
+  "cell": "gpt-oss-20b-or-pin-amazon-bedrock",
+  "safe_cell": "gpt-oss-20b-or-pin-amazon-bedrock",
+  "samples": 125,
+  "sample_kind_counts": {
+    "LOW_SIGNAL": 38,
+    "EXPRESSIVE_FREEFLOW": 74,
+    "GENERIC_ESSAY": 6,
+    "GENRE_FICTION": 7
+  },
+  "confidence_counts": {
+    "Low": 34,
+    "Medium": 75,
+    "High": 16
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-oss-20b"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-oss-20b-or-pin-amazon-bedrock/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-oss-20b-or-pin-amazon-bedrock/aggregate.md"
+}

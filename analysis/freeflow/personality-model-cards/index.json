@@ -320,6 +320,22 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "gpt-5-mini",
+    "safe": "gpt-5-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-5-nano",
+    "safe": "gpt-5-nano",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5-nano.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-5.1",
     "safe": "gpt-5.1",
     "variants": 4,
@@ -390,6 +406,22 @@
     "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "gpt-oss-120b",
+    "safe": "gpt-oss-120b",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-oss-120b.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-oss-20b",
+    "safe": "gpt-oss-20b",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-oss-20b.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "grok-3",

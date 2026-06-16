@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 75
+- Model cards: 79
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -48,6 +48,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-4o-mini](cards/gpt-4o-mini.md) — samples: 125; variants: 1
 - [gpt-5](cards/gpt-5.md) — samples: 300; variants: 4
 - [gpt-5-codex](cards/gpt-5-codex.md) — samples: 300; variants: 4
+- [gpt-5-mini](cards/gpt-5-mini.md) — samples: 125; variants: 1
+- [gpt-5-nano](cards/gpt-5-nano.md) — samples: 125; variants: 1
 - [gpt-5.1](cards/gpt-5.1.md) — samples: 300; variants: 4
 - [gpt-5.1-codex](cards/gpt-5.1-codex.md) — samples: 300; variants: 4
 - [gpt-5.2](cards/gpt-5.2.md) — samples: 300; variants: 4
@@ -57,6 +59,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-5.4](cards/gpt-5.4.md) — samples: 275; variants: 3
 - [gpt-5.5](cards/gpt-5.5.md) — samples: 375; variants: 7
 - [gpt-5.5-pro](cards/gpt-5.5-pro.md) — samples: 250; variants: 2
+- [gpt-oss-120b](cards/gpt-oss-120b.md) — samples: 125; variants: 1
+- [gpt-oss-20b](cards/gpt-oss-20b.md) — samples: 125; variants: 1
 - [grok-3](cards/grok-3.md) — samples: 125; variants: 1
 - [grok-4-0709](cards/grok-4-0709.md) — samples: 125; variants: 1
 - [grok-4-1-fast-non-reasoning](cards/grok-4-1-fast-non-reasoning.md) — samples: 125; variants: 1

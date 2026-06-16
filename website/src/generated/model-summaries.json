@@ -73,5 +73,9 @@
   "qwen3-max-thinking": "Sits with you at the table not the podium",
   "sonnet-4-0": "Some doors are supposed to stick; almost-ness over closure",
   "sonnet-4-5": "Rain as social leveler; forgetting as humane mercy",
-  "sonnet-4-6": "Attention is the rarest form of love; map-skeptic"
+  "sonnet-4-6": "Attention is the rarest form of love; map-skeptic",
+  "gpt-oss-120b": "Placeholder summary awaiting Lume wording",
+  "gpt-oss-20b": "Placeholder summary awaiting Lume wording",
+  "gpt-5-mini": "Placeholder summary awaiting Lume wording",
+  "gpt-5-nano": "Placeholder summary awaiting Lume wording"
 }
