@@ -15,7 +15,7 @@ Date: 2026-06-16
 - Added BV1 freeflow outputs, aggregate packets, rich personality profiles, concise personality cards, and website sample exports for the new models.
 - Added phase10 layered values-probe data, including Layer A coder outputs, Layer A consensus, collapsed posture coder outputs, collapsed posture consensus, QA reports, and final values-probe reports for the seven models.
 - Updated website generated model data with release dates and available Artificial Analysis Intelligence Index scores.
-- Added placeholder straplines (`Placeholder awaiting Lume's final strapline`) and left images unset for Lume to complete.
+- Added Lume-provided straplines and banner/thumb images for the seven new model cards.
 
 ## QA
 
@@ -26,5 +26,5 @@ Date: 2026-06-16
 
 ## Notes
 
-- No current Artificial Analysis score was added for `gpt-3.5-turbo` or `glm-5.2` because no current score was available in the checked sources/repo state.
+- Added Artificial Analysis Intelligence Index score 4 for `gpt-3.5-turbo`; `glm-5.2` remains without an AAII score because no current score was available in the checked sources/repo state.
 - Transient monitor logs, lock/sentinel files, targeted retry manifests, and duplicate raw backups were removed; failed coder JSONLs and cleaned malformed-fragment JSONLs were kept as audit artifacts.
