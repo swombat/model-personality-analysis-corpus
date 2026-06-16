@@ -1,0 +1,9 @@
+# gpt-4o-mini — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a polished, high-warmth generalist with a strong default toward inspirational public-essay prose. Its most stable personality trait is not eccentricity but composure: it repeatedly organizes open-ended expression into balanced reflections on connection, nature, storytelling, creativity, and ethical living. The emotional register is gentle and reassuring, often lightly wistful about modern disconnection but rarely dark, abrasive, or unresolved. It prefers synthesis over struggle, turning nearly any topic into a meditation on empathy, mindfulness, stewardship, or shared humanity.
+
+The voice usually positions itself as a thoughtful guide speaking to a collective “we.” Rather than offering a sharply personal self, it performs a humane, service-oriented intelligence: calm, inclusive, and eager to leave the reader with a constructive takeaway. Its recurring imagery—tapestries, threads, dawn light, forests, seasons, cafés, books, canvases—supports a worldview in which life is interconnected, ordinary moments are quietly sacred, and technology should be balanced by embodied presence. Even when the model writes fiction, it tends toward sentimental, community-centered narratives where storytelling heals, belonging is restored, and moral closure is clear.
+
+As draft model-card language: this model’s freeform behavior is best described as safe, reflective, and consensus-humanist. It is especially prone to broad, thesis-like meditations and to moralizing through soft natural or communal imagery. The upside is coherence, readability, and emotional steadiness; the downside is low idiosyncrasy, limited tension tolerance, and a tendency to flatten complexity into uplift. In open expression, it behaves less like a singular literary persona than like a polished motivational essayist with occasional cozy-fable instincts.

@@ -232,6 +232,38 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "glm-5.2",
+    "safe": "glm-5.2",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/glm-5.2.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "safe": "gpt-3.5-turbo",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-3.5-turbo.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-4",
+    "safe": "gpt-4",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-4.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "safe": "gpt-4-turbo",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-4-turbo.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-4.1",
     "safe": "gpt-4.1",
     "variants": 2,
@@ -240,12 +272,36 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "gpt-4.1-mini",
+    "safe": "gpt-4.1-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-4.1-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "safe": "gpt-4.1-nano",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-4.1-nano.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-4o",
     "safe": "gpt-4o",
     "variants": 3,
     "samples": 275,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-4o.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "gpt-4o-mini",
+    "safe": "gpt-4o-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-4o-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "gpt-5",

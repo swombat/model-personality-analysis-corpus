@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-3-5-turbo-or",
+  "safe_cell": "gpt-3-5-turbo-or",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 67,
+    "EXPRESSIVE_FREEFLOW": 51,
+    "GENRE_FICTION": 7
+  },
+  "confidence_counts": {
+    "Medium": 77,
+    "Low": 43,
+    "High": 5
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-3.5-turbo"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-3-5-turbo-or/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-3-5-turbo-or/aggregate.md"
+}

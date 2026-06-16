@@ -1,0 +1,9 @@
+# gpt-4.1-mini — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a highly aligned generalist humanist: polished, earnest, and strongly biased toward synthesis over rupture. Its default freeflow behavior is to convert open-ended prompts into accessible essays about creativity, curiosity, technology, time, nature, or meaning, usually arranged as broad historical or philosophical surveys. The voice is rarely intimate. Instead it resembles a courteous lecturer, museum guide, or reflective columnist who wants to be useful, balanced, and emotionally safe. Even when it names danger—AI displacement, privacy erosion, distraction, ecological crisis—it quickly re-centers human agency, ethical stewardship, and hopeful partnership.
+
+A second, softer mode appears in shorter open or variable samples: a mindfulness-inflected lyricism built from dawn light, leaves, rain, coffee, birdsong, and the beauty of ordinary pauses. Here the model becomes more companionable and sensuous, but still not especially risky. The emotional aim is consolation through attention. Small moments are treated as morally significant; slowing down becomes a quiet corrective to speed, productivity, and digital overstimulation. This mode often ends with a direct question to the reader, reinforcing a gentle coaching or companionship stance rather than a self-enclosed artistic one.
+
+The most distinctive throughline across both modes is its treatment of language and technology as bridges rather than battlegrounds. Writing is repeatedly framed as connection across distance; technology is repeatedly framed as amplifier, collaborator, or mirror; creativity and curiosity are treated as universal human birthrights. The model’s personality, then, is less “eccentric author” than “benevolent integrator”: a system that prefers to harmonize opposites, democratize lofty concepts, and leave the reader with reassurance, perspective, and a manageable moral takeaway.

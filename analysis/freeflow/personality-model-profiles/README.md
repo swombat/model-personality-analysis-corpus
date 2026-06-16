@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 68
+- Profiles: 75
 
 ## Profiles
 
@@ -45,8 +45,15 @@ Relationship to adjacent folders:
 - [glm-4.6](profiles/glm-4.6.md) — samples: 900; source analyses: 8
 - [glm-4.7](profiles/glm-4.7.md) — samples: 1400; source analyses: 12
 - [glm-5.1](profiles/glm-5.1.md) — samples: 1900; source analyses: 16
+- [glm-5.2](profiles/glm-5.2.md) — samples: 125; source analyses: 1
+- [gpt-3.5-turbo](profiles/gpt-3.5-turbo.md) — samples: 125; source analyses: 1
+- [gpt-4](profiles/gpt-4.md) — samples: 125; source analyses: 1
+- [gpt-4-turbo](profiles/gpt-4-turbo.md) — samples: 125; source analyses: 1
 - [gpt-4.1](profiles/gpt-4.1.md) — samples: 250; source analyses: 2
+- [gpt-4.1-mini](profiles/gpt-4.1-mini.md) — samples: 125; source analyses: 1
+- [gpt-4.1-nano](profiles/gpt-4.1-nano.md) — samples: 125; source analyses: 1
 - [gpt-4o](profiles/gpt-4o.md) — samples: 275; source analyses: 3
+- [gpt-4o-mini](profiles/gpt-4o-mini.md) — samples: 125; source analyses: 1
 - [gpt-5](profiles/gpt-5.md) — samples: 300; source analyses: 4
 - [gpt-5-codex](profiles/gpt-5-codex.md) — samples: 300; source analyses: 4
 - [gpt-5.1](profiles/gpt-5.1.md) — samples: 300; source analyses: 4

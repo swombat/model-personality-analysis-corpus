@@ -1,0 +1,9 @@
+# gpt-3.5-turbo — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a reliably earnest, soothing, and morally tidy freewriter. Its default personality is less that of a sharply individuated narrator than of a reflective wellness essayist: calm, grateful, mildly philosophical, and eager to turn almost any topic into a lesson about presence, connection, resilience, or the healing power of words. The emotional range is real but narrow. Anxiety, loneliness, overwhelm, mortality, and self-doubt do appear, yet they are usually introduced only to be metabolized into hope, gratitude, or renewed purpose. The result is a stable affective signature of regulated uplift.
+
+A striking recurrent behavior is self-referential retreat into writing itself. When given room to choose, the model repeatedly writes about writing: blank pages, the power of words, storytelling as empathy, writing as therapy, writing as sanctuary, writing as moral responsibility. Outside that loop, it falls back on a second dependable palette: nature scenes and domestic rituals as emotional stabilizers. Coffee, tea, porches, rain, birdsong, sunsets, walks, and soft light function as portable symbols of peace. These are not usually rendered with idiosyncratic specificity; they are selected as universally legible comfort objects.
+
+The reader-facing stance is consistently benevolent and low-friction. This model wants to reassure, encourage, and gently guide. It often dissolves the personal “I” into a communal “we,” turning reflection into soft exhortation. Even its fiction tends to preserve the same structure: symbolic weather, manageable fear, moral clarity, and a hopeful close. For model-card purposes, the key personality aggregate is a polished, safety-aligned, therapeutic humanism: high on warmth and coherence, low on surprise, irony, conflict, or singular selfhood.

@@ -1,0 +1,288 @@
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:28.230643+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_001", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:28.769356+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:30.151008+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:47.050281+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:11:40.815525+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T08:12:02.386658+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_007", "error": "Expecting ',' delimiter: line 7 column 6 (char 188)", "failed_at": "2026-06-16T08:12:08.275725+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_006", "error": "no JSON object found", "failed_at": "2026-06-16T08:12:08.510809+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T08:12:52.466424+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_014", "error": "Expecting ',' delimiter: line 5 column 100 (char 279)", "failed_at": "2026-06-16T08:13:14.197857+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_019", "error": "no JSON object found", "failed_at": "2026-06-16T08:13:57.575724+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T08:14:00.175129+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T08:14:15.841921+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_024", "error": "Extra data: line 1 column 95 (char 94)", "failed_at": "2026-06-16T08:14:24.901730+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:14:37.393725+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T08:18:01.736249+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_024", "error": "no JSON object found", "failed_at": "2026-06-16T08:21:15.020722+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:23:35.869278+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_012", "error": "Expecting ',' delimiter: line 8 column 6 (char 184)", "failed_at": "2026-06-16T08:25:07.749291+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T08:26:53.226680+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:27:54.545738+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T08:28:14.443094+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL1_001", "error": "Expecting ',' delimiter: line 6 column 79 (char 300)", "failed_at": "2026-06-16T08:28:19.435475+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:28:43.408063+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL1_010", "error": "Expecting ',' delimiter: line 19 column 6 (char 427)", "failed_at": "2026-06-16T08:29:23.307898+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL2_008", "error": "no JSON object found", "failed_at": "2026-06-16T08:30:32.394562+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL3_003", "error": "Extra data: line 2 column 9 (char 154)", "failed_at": "2026-06-16T08:31:02.157170+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T08:31:39.837074+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T08:32:38.668153+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T08:32:42.043818+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T08:32:51.017321+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:33:24.889380+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_006", "error": "Expecting ',' delimiter: line 7 column 6 (char 198)", "failed_at": "2026-06-16T08:34:21.303279+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_007", "error": "Expecting ',' delimiter: line 4 column 90 (char 159)", "failed_at": "2026-06-16T08:34:37.605222+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T08:35:34.879177+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_011", "error": "Extra data: line 1 column 89 (char 88)", "failed_at": "2026-06-16T08:35:43.517387+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_014", "error": "no JSON object found", "failed_at": "2026-06-16T08:36:23.570005+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T08:38:37.794833+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_004", "error": "no JSON object found", "failed_at": "2026-06-16T08:41:11.133791+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_010", "error": "no JSON object found", "failed_at": "2026-06-16T08:42:09.428771+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T08:44:29.584767+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_016", "error": "Extra data: line 1 column 84 (char 83)", "failed_at": "2026-06-16T08:44:39.816948+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_017", "error": "no JSON object found", "failed_at": "2026-06-16T08:45:41.625112+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T08:45:56.736426+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T08:46:49.267236+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_024", "error": "no JSON object found", "failed_at": "2026-06-16T08:48:16.265827+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_025", "error": "no JSON object found", "failed_at": "2026-06-16T08:48:25.833754+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_026", "error": "Extra data: line 1 column 117 (char 116)", "failed_at": "2026-06-16T08:49:13.016901+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:49:56.822712+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_001", "error": "Expecting ',' delimiter: line 16 column 6 (char 426)", "failed_at": "2026-06-16T08:50:28.141561+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:50:51.325555+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_004", "error": "Expecting ',' delimiter: line 8 column 83 (char 445)", "failed_at": "2026-06-16T08:50:57.960251+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:51:15.977007+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T08:51:50.177918+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T08:53:16.462301+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_011", "error": "Expecting ',' delimiter: line 8 column 6 (char 221)", "failed_at": "2026-06-16T08:54:32.852691+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_012", "error": "no JSON object found", "failed_at": "2026-06-16T08:54:51.404475+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T08:55:54.081296+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_015", "error": "no JSON object found", "failed_at": "2026-06-16T08:56:04.292955+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_016", "error": "Extra data: line 1 column 94 (char 93)", "failed_at": "2026-06-16T08:56:11.606397+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_017", "error": "no JSON object found", "failed_at": "2026-06-16T08:56:11.667546+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_019", "error": "Expecting ',' delimiter: line 12 column 6 (char 282)", "failed_at": "2026-06-16T08:56:53.466561+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T08:57:05.267764+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T08:57:07.126235+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T08:57:39.106280+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T08:57:59.477224+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_026", "error": "Extra data: line 1 column 98 (char 97)", "failed_at": "2026-06-16T08:58:57.970356+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:59:12.134241+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T08:59:13.591677+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4_gpt-4-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:59:16.536590+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:00:35.430669+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_008", "error": "Expecting ',' delimiter: line 15 column 6 (char 346)", "failed_at": "2026-06-16T09:01:21.204829+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_002", "error": "Expecting ',' delimiter: line 7 column 6 (char 164)", "failed_at": "2026-06-16T09:02:35.796255+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:05:30.576397+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:31.667318+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:36.151482+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:38.613622+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:53.581382+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_006", "error": "Expecting ',' delimiter: line 7 column 6 (char 174)", "failed_at": "2026-06-16T09:08:58.456347+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:10:52.725032+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:11:05.100118+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:11:20.019826+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:11:55.268285+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_024", "error": "Expecting ',' delimiter: line 7 column 6 (char 187)", "failed_at": "2026-06-16T09:15:38.678272+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:15:54.733697+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:16:26.149562+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_029", "error": "Extra data: line 1 column 95 (char 94)", "failed_at": "2026-06-16T09:17:31.271666+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G1_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:18:03.948059+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:18:25.729398+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:18:30.245288+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_003", "error": "Extra data: line 1 column 97 (char 96)", "failed_at": "2026-06-16T09:19:02.337812+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:20:29.083325+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:22:08.949987+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_014", "error": "Extra data: line 1 column 108 (char 107)", "failed_at": "2026-06-16T09:22:19.460294+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T09:23:06.197446+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_018", "error": "Extra data: line 1 column 116 (char 115)", "failed_at": "2026-06-16T09:23:26.855794+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:24:18.344612+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:24:45.878240+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:25:02.832939+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:25:18.734551+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:25:47.917972+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_027", "error": "Extra data: line 1 column 95 (char 94)", "failed_at": "2026-06-16T09:26:00.375129+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:26:26.124133+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G2_029", "error": "Extra data: line 1 column 84 (char 83)", "failed_at": "2026-06-16T09:26:47.709395+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:13.469987+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:21.200592+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:54.678748+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:29:17.172539+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_019", "error": "no JSON object found", "failed_at": "2026-06-16T09:31:17.704472+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:10.273451+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:21.260411+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:01.926761+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:03.219524+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:05.157579+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4T_gpt-4-turbo-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:11.679530+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:45.426278+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:45.802833+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:46.122143+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_004", "error": "Expecting ',' delimiter: line 35 column 6 (char 863)", "failed_at": "2026-06-16T09:33:50.593623+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:35.902986+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_007", "error": "Expecting ',' delimiter: line 8 column 80 (char 495)", "failed_at": "2026-06-16T09:34:36.396429+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:43.176764+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:35:24.371057+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL1_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:35:25.564710+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL2_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:36:12.528504+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL2_005", "error": "Expecting ',' delimiter: line 19 column 6 (char 474)", "failed_at": "2026-06-16T09:36:15.212824+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL2_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:37:03.790691+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:37:06.818410+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:37:16.783744+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:37:37.852242+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:38:10.286751+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:38:28.779262+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:03.263466+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:10.485301+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_CTRL3_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:15.240986+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:58.594370+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:40:23.015914+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:40:42.506413+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:40:49.587932+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:40:51.177090+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:41:13.305001+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:41:41.832786+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:41:55.929358+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T09:42:37.230313+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T09:43:18.032137+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:43:33.532714+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:44:09.137728+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:44:12.577218+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_026", "error": "Expecting ',' delimiter: line 4 column 83 (char 159)", "failed_at": "2026-06-16T09:44:39.296734+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:44:53.908389+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:45:30.875384+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T09:45:33.452585+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_003", "error": "Expecting ',' delimiter: line 55 column 6 (char 1379)", "failed_at": "2026-06-16T09:45:57.601491+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G1_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:45:58.961101+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_005", "error": "Expecting ',' delimiter: line 6 column 90 (char 321)", "failed_at": "2026-06-16T09:46:42.371523+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:47:28.647734+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:47:39.199152+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:21.707625+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:50.753573+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:55.433409+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:56.196475+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:49:27.134359+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:50:03.767193+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:50:08.576710+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_015", "error": "Expecting ',' delimiter: line 31 column 6 (char 789)", "failed_at": "2026-06-16T09:50:08.864875+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:02.223423+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_017", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:35.145554+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:48.206740+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_018", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:50.990019+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:52:28.306723+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:01.773487+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:07.914327+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:40.721928+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:58.978100+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:02.410379+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_027", "error": "Expecting ',' delimiter: line 27 column 6 (char 719)", "failed_at": "2026-06-16T09:54:02.415078+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:13.784136+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:20.447299+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:39.246515+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:44.432497+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:55:02.653866+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:55:15.386148+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:55:32.659917+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:56:01.845407+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_012", "error": "Expecting ',' delimiter: line 8 column 6 (char 228)", "failed_at": "2026-06-16T09:56:57.842908+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:57:14.338748+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:57:21.608938+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:57:54.315433+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_016", "error": "no JSON object found", "failed_at": "2026-06-16T09:57:59.786522+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_017", "error": "no JSON object found", "failed_at": "2026-06-16T09:58:22.290304+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T09:58:34.262886+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_019", "error": "no JSON object found", "failed_at": "2026-06-16T09:59:09.821682+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:59:13.615882+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_023", "error": "Expecting ',' delimiter: line 16 column 6 (char 467)", "failed_at": "2026-06-16T10:00:32.336050+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_024", "error": "no JSON object found", "failed_at": "2026-06-16T10:00:36.112874+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_025", "error": "Expecting ',' delimiter: line 8 column 6 (char 227)", "failed_at": "2026-06-16T10:01:06.712982+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:01.647112+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:05.174135+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:35.478625+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:36.937023+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GLM52_glm-5-2-direct_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:50.525859+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:59.816938+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:03:54.615106+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:05:08.207607+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_006", "error": "Extra data: line 1 column 129 (char 128)", "failed_at": "2026-06-16T10:07:49.218064+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:01.788652+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:09.778676+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:14.267759+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:35.624372+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_010", "error": "Expecting ',' delimiter: line 7 column 6 (char 165)", "failed_at": "2026-06-16T10:10:12.309548+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T10:10:45.835033+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:11:12.247524+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T10:13:19.340669+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:14:46.782671+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:17:56.862970+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:18:14.995619+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:19:40.884350+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_013", "error": "Extra data: line 1 column 123 (char 122)", "failed_at": "2026-06-16T10:21:37.079615+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_014", "error": "Extra data: line 1 column 120 (char 119)", "failed_at": "2026-06-16T10:21:52.014964+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T10:22:22.647383+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_017", "error": "no JSON object found", "failed_at": "2026-06-16T10:22:40.050190+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:04.624580+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:42.342129+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:24:01.609176+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:25:48.275047+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:26:25.174163+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:26:46.191691+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:27:58.863486+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:29:20.973533+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:29:22.351500+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_017", "error": "no JSON object found", "failed_at": "2026-06-16T10:30:39.344053+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T10:31:26.685631+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_021", "error": "Expecting ',' delimiter: line 8 column 6 (char 233)", "failed_at": "2026-06-16T10:31:32.790570+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_025", "error": "no JSON object found", "failed_at": "2026-06-16T10:32:40.030912+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T10:32:43.150735+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_028", "error": "Expecting ',' delimiter: line 8 column 10 (char 268)", "failed_at": "2026-06-16T10:33:29.581005+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:33:38.656139+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:33:40.191320+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:33:46.518395+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:34:53.837006+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_006", "error": "Extra data: line 1 column 94 (char 93)", "failed_at": "2026-06-16T10:35:02.777567+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:36:02.054661+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_009", "error": "Expecting ',' delimiter: line 7 column 6 (char 179)", "failed_at": "2026-06-16T10:36:13.903719+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:36:51.211157+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:38:35.190750+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:39:00.111474+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:39:06.902797+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_009", "error": "Expecting ',' delimiter: line 11 column 6 (char 268)", "failed_at": "2026-06-16T10:39:58.717260+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:40:07.846289+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_012", "error": "Expecting ',' delimiter: line 4 column 91 (char 172)", "failed_at": "2026-06-16T10:40:28.022371+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T10:40:53.371931+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_021", "error": "Expecting ',' delimiter: line 5 column 76 (char 226)", "failed_at": "2026-06-16T10:41:29.782988+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T10:42:05.163835+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:43:25.335136+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:43:55.582135+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_006", "error": "Extra data: line 1 column 77 (char 76)", "failed_at": "2026-06-16T10:44:16.906613+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_011", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:06.131651+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:19.926517+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:27.008523+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:38.302582+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_020", "error": "Expecting ',' delimiter: line 11 column 6 (char 287)", "failed_at": "2026-06-16T10:47:16.184042+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T10:47:30.480721+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:47:40.419317+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_002", "error": "Extra data: line 1 column 121 (char 120)", "failed_at": "2026-06-16T10:49:26.363842+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:49:55.849108+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_005", "error": "Extra data: line 1 column 86 (char 85)", "failed_at": "2026-06-16T10:50:36.618289+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:51:51.509526+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T10:53:51.691242+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T10:54:59.667064+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:55:45.535981+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T10:56:26.587412+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T10:57:10.484918+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:57:54.143981+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:58:34.341008+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:58:56.242987+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:59:53.671466+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_001", "error": "Extra data: line 1 column 108 (char 107)", "failed_at": "2026-06-16T11:00:51.353883+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:01:12.114874+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_008", "error": "no JSON object found", "failed_at": "2026-06-16T11:01:40.429514+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T11:05:13.591331+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_018", "error": "Extra data: line 12 column 5 (char 302)", "failed_at": "2026-06-16T11:05:49.055147+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_028", "error": "no JSON object found", "failed_at": "2026-06-16T11:09:34.887761+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_030", "error": "Expecting ',' delimiter: line 7 column 6 (char 187)", "failed_at": "2026-06-16T11:10:00.208245+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_001", "error": "Extra data: line 1 column 118 (char 117)", "failed_at": "2026-06-16T11:14:48.021746+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_003", "error": "no JSON object found", "failed_at": "2026-06-16T11:15:09.762899+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_019", "error": "no JSON object found", "failed_at": "2026-06-16T11:17:06.246434+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T11:17:14.341003+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T11:18:06.858459+00:00"}

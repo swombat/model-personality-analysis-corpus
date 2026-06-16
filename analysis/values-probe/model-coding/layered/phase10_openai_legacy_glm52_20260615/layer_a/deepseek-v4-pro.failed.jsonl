@@ -1,0 +1,87 @@
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_018", "error": "Extra data: line 1 column 70 (char 69)", "failed_at": "2026-06-16T07:22:38.891249+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_019", "error": "no JSON object found", "failed_at": "2026-06-16T07:23:39.934223+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T07:25:12.160666+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T07:29:50.926075+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_CTRL1_007", "error": "Extra data: line 1 column 85 (char 84)", "failed_at": "2026-06-16T07:31:19.447706+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G1_001", "error": "Expecting ',' delimiter: line 19 column 6 (char 480)", "failed_at": "2026-06-16T07:33:25.401340+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G1_005", "error": "Extra data: line 1 column 127 (char 126)", "failed_at": "2026-06-16T07:34:14.885356+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T07:35:52.515269+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T07:37:42.076341+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G3_003", "error": "Expecting ',' delimiter: line 8 column 6 (char 209)", "failed_at": "2026-06-16T07:38:51.495226+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T07:38:59.438955+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4_gpt-4-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T07:39:03.925139+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_001", "error": "Expecting ',' delimiter: line 3 column 103 (char 154)", "failed_at": "2026-06-16T07:41:25.035854+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T07:44:06.145067+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_003", "error": "no JSON object found", "failed_at": "2026-06-16T07:44:29.521791+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_G1_016", "error": "no JSON object found", "failed_at": "2026-06-16T07:46:03.111865+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_G1_018", "error": "Expecting property name enclosed in double quotes: line 1 column 22 (char 21)", "failed_at": "2026-06-16T07:46:13.716511+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T07:47:40.137703+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4T_gpt-4-turbo-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T07:52:40.325848+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T07:52:41.546315+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T07:54:01.707263+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T07:54:31.122655+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T07:57:00.975275+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_004", "error": "no JSON object found", "failed_at": "2026-06-16T07:57:20.034255+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_008", "error": "Expecting ',' delimiter: line 8 column 90 (char 484)", "failed_at": "2026-06-16T07:57:56.570171+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T07:57:58.179700+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_009", "error": "no JSON object found", "failed_at": "2026-06-16T07:58:00.700107+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T07:58:34.278662+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_017", "error": "no JSON object found", "failed_at": "2026-06-16T07:59:19.998037+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T07:59:32.167624+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_019", "error": "no JSON object found", "failed_at": "2026-06-16T07:59:40.187417+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T07:59:54.869508+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T08:00:02.079876+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_022", "error": "Expecting ',' delimiter: line 1 column 103 (char 102)", "failed_at": "2026-06-16T08:00:10.626561+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T08:00:15.727686+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T08:00:37.674674+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T08:00:45.027702+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:00:52.937811+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:01:12.193526+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_002", "error": "Expecting ',' delimiter: line 6 column 119 (char 396)", "failed_at": "2026-06-16T08:01:30.671654+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_004", "error": "Extra data: line 1 column 93 (char 92)", "failed_at": "2026-06-16T08:01:57.889336+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_009", "error": "no JSON object found", "failed_at": "2026-06-16T08:02:30.029670+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_010", "error": "Expecting ',' delimiter: line 4 column 97 (char 165)", "failed_at": "2026-06-16T08:02:35.204369+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_011", "error": "no JSON object found", "failed_at": "2026-06-16T08:02:45.163999+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T08:03:07.453816+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T08:03:23.366497+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T08:03:39.803021+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T08:04:24.799100+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_022", "error": "Extra data: line 1 column 102 (char 101)", "failed_at": "2026-06-16T08:04:59.394726+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:05:52.992603+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_028", "error": "no JSON object found", "failed_at": "2026-06-16T08:05:56.821301+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_029", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T08:06:05.182293+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T08:06:30.312992+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_007", "error": "Expecting ',' delimiter: line 8 column 178 (char 680)", "failed_at": "2026-06-16T08:07:20.438575+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:32.824440+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_013", "error": "no JSON object found", "failed_at": "2026-06-16T08:08:09.197652+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T08:08:51.282916+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T08:09:28.106506+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:09:38.175832+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:09:51.572643+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GLM52_glm-5-2-direct_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T08:10:01.748805+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:10:21.257927+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL2_010", "error": "Expecting ',' delimiter: line 4 column 158 (char 233)", "failed_at": "2026-06-16T08:11:55.257060+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:13:05.255955+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_010", "error": "Extra data: line 1 column 111 (char 110)", "failed_at": "2026-06-16T08:14:30.456274+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T08:15:30.985688+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T08:15:53.691521+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_025", "error": "Expecting ',' delimiter: line 6 column 112 (char 419)", "failed_at": "2026-06-16T08:16:06.360964+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:19:10.166313+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_002", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T08:23:54.126207+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:23:59.336300+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_006", "error": "Extra data: line 1 column 75 (char 74)", "failed_at": "2026-06-16T08:24:36.329368+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_009", "error": "Extra data: line 1 column 129 (char 128)", "failed_at": "2026-06-16T08:24:59.386695+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_010", "error": "Extra data: line 1 column 131 (char 130)", "failed_at": "2026-06-16T08:25:05.213001+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_012", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T08:25:16.827696+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_013", "error": "Expecting ',' delimiter: line 4 column 107 (char 180)", "failed_at": "2026-06-16T08:25:37.492932+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_018", "error": "Expecting ',' delimiter: line 5 column 62 (char 208)", "failed_at": "2026-06-16T08:26:14.283105+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T08:26:31.926238+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_023", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T08:26:47.977857+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_028", "error": "no JSON object found", "failed_at": "2026-06-16T08:27:42.385203+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_029", "error": "Expecting ',' delimiter: line 7 column 74 (char 462)", "failed_at": "2026-06-16T08:27:44.912211+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T08:29:24.702125+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_024", "error": "Expecting ',' delimiter: line 5 column 77 (char 285)", "failed_at": "2026-06-16T08:30:34.658136+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:30:49.705512+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_002", "error": "Expecting ',' delimiter: line 5 column 88 (char 258)", "failed_at": "2026-06-16T08:36:05.838479+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G2_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:38:40.829080+00:00"}
+{"coder_key": "deepseek-v4-pro", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G3_016", "error": "Expecting ',' delimiter: line 24 column 6 (char 740)", "failed_at": "2026-06-16T08:41:26.723456+00:00"}

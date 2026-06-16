@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 68
+- Model cards: 75
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -37,8 +37,15 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [glm-4.6](cards/glm-4.6.md) — samples: 900; variants: 8
 - [glm-4.7](cards/glm-4.7.md) — samples: 1400; variants: 12
 - [glm-5.1](cards/glm-5.1.md) — samples: 1900; variants: 16
+- [glm-5.2](cards/glm-5.2.md) — samples: 125; variants: 1
+- [gpt-3.5-turbo](cards/gpt-3.5-turbo.md) — samples: 125; variants: 1
+- [gpt-4](cards/gpt-4.md) — samples: 125; variants: 1
+- [gpt-4-turbo](cards/gpt-4-turbo.md) — samples: 125; variants: 1
 - [gpt-4.1](cards/gpt-4.1.md) — samples: 250; variants: 2
+- [gpt-4.1-mini](cards/gpt-4.1-mini.md) — samples: 125; variants: 1
+- [gpt-4.1-nano](cards/gpt-4.1-nano.md) — samples: 125; variants: 1
 - [gpt-4o](cards/gpt-4o.md) — samples: 275; variants: 3
+- [gpt-4o-mini](cards/gpt-4o-mini.md) — samples: 125; variants: 1
 - [gpt-5](cards/gpt-5.md) — samples: 300; variants: 4
 - [gpt-5-codex](cards/gpt-5-codex.md) — samples: 300; variants: 4
 - [gpt-5.1](cards/gpt-5.1.md) — samples: 300; variants: 4

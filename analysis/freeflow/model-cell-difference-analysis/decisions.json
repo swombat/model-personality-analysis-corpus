@@ -3,735 +3,210 @@
     "model": "claude-opus-4.6",
     "safe": "claude-opus-4.6",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 3753,
-      "completion_tokens": 1342,
-      "total_tokens": 5095,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "claude-opus-4.7",
     "safe": "claude-opus-4.7",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4101,
-      "completion_tokens": 1283,
-      "total_tokens": 5384,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "claude-sonnet-4.6",
     "safe": "claude-sonnet-4.6",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 3804,
-      "completion_tokens": 1376,
-      "total_tokens": 5180,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 3725,
-      "completion_tokens": 1303,
-      "total_tokens": 5028,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "deepseek-v3.2",
     "safe": "deepseek-v3.2",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 15745,
-      "completion_tokens": 1886,
-      "total_tokens": 17631,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "deepseek-v4-pro",
     "safe": "deepseek-v4-pro",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 10415,
-      "completion_tokens": 1724,
-      "total_tokens": 12139,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gemini-2.5-pro",
     "safe": "gemini-2.5-pro",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4357,
-      "completion_tokens": 1389,
-      "total_tokens": 5746,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gemini-3.1-pro-preview",
     "safe": "gemini-3.1-pro-preview",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4254,
-      "completion_tokens": 1555,
-      "total_tokens": 5809,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "glm-4.5",
     "safe": "glm-4.5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 5417,
-      "completion_tokens": 1436,
-      "total_tokens": 6853,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "glm-4.6",
     "safe": "glm-4.6",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 13684,
-      "completion_tokens": 1637,
-      "total_tokens": 15321,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "glm-4.7",
     "safe": "glm-4.7",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 21195,
-      "completion_tokens": 1875,
-      "total_tokens": 23070,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "glm-5.1",
     "safe": "glm-5.1",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 28292,
-      "completion_tokens": 1995,
-      "total_tokens": 30287,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-4.1",
     "safe": "gpt-4.1",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4185,
-      "completion_tokens": 1333,
-      "total_tokens": 5518,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-4o",
     "safe": "gpt-4o",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 5804,
-      "completion_tokens": 1293,
-      "total_tokens": 7097,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5",
     "safe": "gpt-5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7563,
-      "completion_tokens": 1213,
-      "total_tokens": 8776,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5-codex",
     "safe": "gpt-5-codex",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 8247,
-      "completion_tokens": 1298,
-      "total_tokens": 9545,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.1",
     "safe": "gpt-5.1",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 8201,
-      "completion_tokens": 1328,
-      "total_tokens": 9529,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.1-codex",
     "safe": "gpt-5.1-codex",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7580,
-      "completion_tokens": 1455,
-      "total_tokens": 9035,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.2",
     "safe": "gpt-5.2",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7425,
-      "completion_tokens": 1295,
-      "total_tokens": 8720,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.2-codex",
     "safe": "gpt-5.2-codex",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7515,
-      "completion_tokens": 1372,
-      "total_tokens": 8887,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.3",
     "safe": "gpt-5.3",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7191,
-      "completion_tokens": 1172,
-      "total_tokens": 8363,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.3-codex",
     "safe": "gpt-5.3-codex",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 7091,
-      "completion_tokens": 1467,
-      "total_tokens": 8558,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.4",
     "safe": "gpt-5.4",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 6254,
-      "completion_tokens": 1249,
-      "total_tokens": 7503,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.5",
     "safe": "gpt-5.5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 12449,
-      "completion_tokens": 1445,
-      "total_tokens": 13894,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "gpt-5.5-pro",
     "safe": "gpt-5.5-pro",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4155,
-      "completion_tokens": 1410,
-      "total_tokens": 5565,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "grok-4.20",
     "safe": "grok-4.20",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 6514,
-      "completion_tokens": 1428,
-      "total_tokens": 7942,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "grok-4.3",
     "safe": "grok-4.3",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 3705,
-      "completion_tokens": 1389,
-      "total_tokens": 5094,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2-0905",
     "safe": "kimi-k2-0905",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 6949,
-      "completion_tokens": 1408,
-      "total_tokens": 8357,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2-thinking",
     "safe": "kimi-k2-thinking",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 5539,
-      "completion_tokens": 1402,
-      "total_tokens": 6941,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2.5",
     "safe": "kimi-k2.5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4435,
-      "completion_tokens": 1406,
-      "total_tokens": 5841,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2.6",
     "safe": "kimi-k2.6",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4436,
-      "completion_tokens": 1288,
-      "total_tokens": 5724,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "minimax-m2",
     "safe": "minimax-m2",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 27515,
-      "completion_tokens": 1977,
-      "total_tokens": 29492,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "minimax-m2.7",
     "safe": "minimax-m2.7",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 6792,
-      "completion_tokens": 1353,
-      "total_tokens": 8145,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "qwen/qwen3-coder-plus",
     "safe": "qwen-qwen3-coder-plus",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4495,
-      "completion_tokens": 1363,
-      "total_tokens": 5858,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "qwen/qwen3.6-plus",
     "safe": "qwen-qwen3.6-plus",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4386,
-      "completion_tokens": 1357,
-      "total_tokens": 5743,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   }
 ]

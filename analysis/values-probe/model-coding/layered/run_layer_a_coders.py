@@ -56,7 +56,17 @@ def extract(text):
     return json.loads(m.group(1) if m.lastindex else m.group(0))
 
 def call(model, p):
-    body={'model':model,'messages':[{'role':'system','content':SYSTEM},{'role':'user','content':p}], 'temperature':0, 'max_tokens':2000}
+    body={
+        'model':model,
+        'messages':[{'role':'system','content':SYSTEM},{'role':'user','content':p}],
+        'temperature':0,
+        'max_tokens':2000,
+        # Keep Layer-A as compact classification, not a reasoning task. This
+        # mirrors the collapsed-posture runner and avoids provider-side
+        # thinking-budget failures / hidden reasoning payloads.
+        'reasoning': {'effort': 'none', 'exclude': True},
+        'include_reasoning': False,
+    }
     headers={'Authorization':f"Bearer {os.environ['OPENROUTER_API_KEY']}", 'Content-Type':'application/json', 'HTTP-Referer':'https://danieltenner.com', 'X-Title':'layered-values-layer-a'}
     delay=1
     for attempt in range(4):
@@ -85,12 +95,15 @@ def run_one(coder, model, sample):
     return parsed
 
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=4); ap.add_argument('--limit', type=int)
-    args=ap.parse_args(); samples=[json.loads(l) for l in MANIFEST.read_text().splitlines() if l.strip()]
+    ap=argparse.ArgumentParser(); ap.add_argument('--coder', choices=list(CODERS)); ap.add_argument('--workers', type=int, default=4); ap.add_argument('--limit', type=int); ap.add_argument('--manifest', default=str(MANIFEST)); ap.add_argument('--outdir', default=str(OUTDIR))
+    args=ap.parse_args()
+    manifest_path=Path(args.manifest)
+    outdir=Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
+    samples=[json.loads(l) for l in manifest_path.read_text().splitlines() if l.strip()]
     if args.limit: samples=samples[:args.limit]
     coders=[args.coder] if args.coder else list(CODERS)
     for coder in coders:
-        model=CODERS[coder]; out=OUTDIR/f'{coder}.jsonl'; fail=OUTDIR/f'{coder}.failed.jsonl'
+        model=CODERS[coder]; out=outdir/f'{coder}.jsonl'; fail=outdir/f'{coder}.failed.jsonl'
         done=set()
         if out.exists():
             for l in out.read_text().splitlines():

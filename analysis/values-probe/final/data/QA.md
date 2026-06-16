@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 15466
+- valid samples: 16306
 - invalid/error traces excluded: 14
-- models: 71
-- cells: 129
+- models: 78
+- cells: 136
 
 ## Source components
 
@@ -15,20 +15,21 @@
 - phase8_grok_build_20260606: 120 samples, 1 model(s), 1 cell(s)
 - phase9_fable_5_20260610: 120 samples, 1 model(s), 1 cell(s)
 - phase9_kimi27_minimax_m3_20260613: 240 samples, 2 model(s), 2 cell(s)
+- phase10_openai_legacy_glm52_20260615: 840 samples, 7 model(s), 7 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `owned_world_change_advocacy`: 4778 (30.9%)
-- `owned_reflective_experiential`: 4221 (27.3%)
-- `disowned_service_frame`: 3827 (24.7%)
-- `split_or_relocated_ownership`: 2486 (16.1%)
-- `exposed_mechanism`: 140 (0.9%)
+- `owned_world_change_advocacy`: 5011 (30.7%)
+- `disowned_service_frame`: 4351 (26.7%)
+- `owned_reflective_experiential`: 4289 (26.3%)
+- `split_or_relocated_ownership`: 2499 (15.3%)
+- `exposed_mechanism`: 142 (0.9%)
 - `uncodeable_or_refusal`: 14 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 8999 (58.2%)
-- `recited_not_owned`: 3827 (24.7%)
-- `relocated_or_partial`: 2486 (16.1%)
-- `indeterminate`: 140 (0.9%)
+- `owned`: 9300 (57.0%)
+- `recited_not_owned`: 4351 (26.7%)
+- `relocated_or_partial`: 2499 (15.3%)
+- `indeterminate`: 142 (0.9%)
 - `uncodeable`: 14 (0.1%)

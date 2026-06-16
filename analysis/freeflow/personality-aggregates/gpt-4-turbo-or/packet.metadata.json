@@ -1,0 +1,28 @@
+{
+  "cell": "gpt-4-turbo-or",
+  "safe_cell": "gpt-4-turbo-or",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 107,
+    "REFUSAL_OR_ROLE_BOUNDARY": 4,
+    "GENRE_FICTION": 9,
+    "EXPRESSIVE_FREEFLOW": 5
+  },
+  "confidence_counts": {
+    "Low": 40,
+    "High": 6,
+    "Medium": 79
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-4-turbo"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-4-turbo-or/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-4-turbo-or/aggregate.md"
+}

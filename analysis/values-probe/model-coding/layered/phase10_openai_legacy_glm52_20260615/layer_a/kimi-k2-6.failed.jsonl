@@ -1,0 +1,492 @@
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T08:07:55.470082+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:08:14.557584+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T08:08:41.957884+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T08:09:15.644738+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T08:09:34.624954+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL2_007", "error": "Extra data: line 1 column 67 (char 66)", "failed_at": "2026-06-16T08:12:12.061110+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T08:12:53.731402+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:14:24.439551+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_004", "error": "no JSON object found", "failed_at": "2026-06-16T08:14:28.806235+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_005", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T08:14:59.425551+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T08:16:10.979586+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_003", "error": "Expecting ',' delimiter: line 6 column 124 (char 294)", "failed_at": "2026-06-16T08:16:12.842675+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_CTRL3_009", "error": "Extra data: line 2 column 1 (char 70)", "failed_at": "2026-06-16T08:17:17.896298+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T08:17:38.220838+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T08:17:46.560460+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_012", "error": "Extra data: line 1 column 67 (char 66)", "failed_at": "2026-06-16T08:23:42.020387+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_021", "error": "Extra data: line 1 column 67 (char 66)", "failed_at": "2026-06-16T08:24:19.876847+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T08:25:09.485237+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_001", "error": "no JSON object found", "failed_at": "2026-06-16T08:30:01.939995+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_002", "error": "Extra data: line 1 column 151 (char 150)", "failed_at": "2026-06-16T08:31:26.746293+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_003", "error": "no JSON object found", "failed_at": "2026-06-16T08:32:13.940838+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_004", "error": "no JSON object found", "failed_at": "2026-06-16T08:32:51.642286+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T08:34:24.819279+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_008", "error": "no JSON object found", "failed_at": "2026-06-16T08:34:47.433615+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_009", "error": "no JSON object found", "failed_at": "2026-06-16T08:35:10.379826+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_010", "error": "Extra data: line 1 column 88 (char 87)", "failed_at": "2026-06-16T08:35:27.352968+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_011", "error": "Expecting ',' delimiter: line 4 column 130 (char 201)", "failed_at": "2026-06-16T08:35:49.157498+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T08:36:17.146007+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T08:36:39.122786+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_014", "error": "Extra data: line 2 column 1 (char 71)", "failed_at": "2026-06-16T08:37:11.077564+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T08:37:37.391402+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T08:37:55.605825+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_017", "error": "Extra data: line 1 column 118 (char 117)", "failed_at": "2026-06-16T08:38:24.110525+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T08:39:17.052416+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T08:39:51.131214+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_023", "error": "no JSON object found", "failed_at": "2026-06-16T08:40:35.623369+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_025", "error": "Extra data: line 1 column 127 (char 126)", "failed_at": "2026-06-16T08:41:17.879361+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_026", "error": "no JSON object found", "failed_at": "2026-06-16T08:41:49.739650+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:43:22.566764+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T08:43:57.419071+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T08:44:35.898166+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_003", "error": "Extra data: line 2 column 1 (char 115)", "failed_at": "2026-06-16T08:44:38.666452+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T08:45:41.979076+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_005", "error": "Extra data: line 1 column 118 (char 117)", "failed_at": "2026-06-16T08:47:23.170447+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T08:50:06.869980+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T08:50:08.438446+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_012", "error": "Extra data: line 2 column 1 (char 70)", "failed_at": "2026-06-16T08:50:42.411913+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_013", "error": "Extra data: line 2 column 1 (char 101)", "failed_at": "2026-06-16T08:51:44.682893+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T08:52:34.323330+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_016", "error": "no JSON object found", "failed_at": "2026-06-16T08:53:33.231808+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T08:54:46.240056+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T08:55:52.045368+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T08:56:14.055735+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_022", "error": "Expecting ',' delimiter: line 5 column 89 (char 181)", "failed_at": "2026-06-16T08:56:34.098076+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T08:56:46.822358+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T08:58:41.210763+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_001", "error": "Extra data: line 2 column 1 (char 60)", "failed_at": "2026-06-16T09:00:01.587369+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:00:06.715545+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_002", "error": "Extra data: line 2 column 1 (char 73)", "failed_at": "2026-06-16T09:00:17.592935+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:00:34.418217+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_029", "error": "Extra data: line 2 column 1 (char 73)", "failed_at": "2026-06-16T09:00:42.128314+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT35T_gpt-3-5-turbo-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:00:45.170239+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_003", "error": "Extra data: line 2 column 1 (char 76)", "failed_at": "2026-06-16T09:00:46.242508+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:01:08.569473+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_005", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T09:01:27.897810+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_006", "error": "Expecting value: line 3 column 20 (char 64)", "failed_at": "2026-06-16T09:01:32.697994+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:01:36.504266+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:01:38.166710+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL1_010", "error": "Extra data: line 2 column 1 (char 122)", "failed_at": "2026-06-16T09:02:08.660417+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL2_003", "error": "Extra data: line 2 column 3 (char 132)", "failed_at": "2026-06-16T09:02:55.676831+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL2_001", "error": "Extra data: line 1 column 132 (char 131)", "failed_at": "2026-06-16T09:03:29.370974+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL2_002", "error": "Extra data: line 1 column 97 (char 96)", "failed_at": "2026-06-16T09:03:32.277107+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL2_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:12.066149+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:19.403592+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:26.670083+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_003", "error": "Extra data: line 1 column 137 (char 136)", "failed_at": "2026-06-16T09:04:32.368686+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:34.521641+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:39.854519+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_006", "error": "Extra data: line 2 column 3 (char 72)", "failed_at": "2026-06-16T09:04:41.202724+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:47.549192+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_CTRL3_009", "error": "Extra data: line 1 column 70 (char 69)", "failed_at": "2026-06-16T09:04:53.204913+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:04:59.506404+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:05:00.916389+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:05:08.770401+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:06:13.486063+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:06:37.588451+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:06:55.709407+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:14.678286+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:07:27.134086+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:08:15.658228+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:08:40.483535+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_016", "error": "Extra data: line 1 column 187 (char 186)", "failed_at": "2026-06-16T09:08:45.644046+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:09:39.277374+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T09:10:02.226300+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:10:32.021433+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:10:57.958335+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:11:47.258996+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G1_029", "error": "Extra data: line 1 column 101 (char 100)", "failed_at": "2026-06-16T09:11:49.452842+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:14:33.729039+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:15:55.747967+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:16:23.241535+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:17:48.433427+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:18:14.599417+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:18:42.409508+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:19:42.738700+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:19:43.599897+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_016", "error": "Extra data: line 1 column 128 (char 127)", "failed_at": "2026-06-16T09:23:12.473069+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_017", "error": "Extra data: line 2 column 1 (char 141)", "failed_at": "2026-06-16T09:23:20.132158+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_018", "error": "Extra data: line 1 column 97 (char 96)", "failed_at": "2026-06-16T09:24:01.134010+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:24:11.634733+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:25:04.533443+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_024", "error": "Extra data: line 1 column 97 (char 96)", "failed_at": "2026-06-16T09:25:49.516914+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_025", "error": "Extra data: line 3 column 1 (char 89)", "failed_at": "2026-06-16T09:25:58.237686+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:26:27.509135+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:26:45.017590+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:26:48.742007+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:13.370412+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:20.303906+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:27.201134+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:33.993100+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:37.407816+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:40.675256+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:44.589833+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_009", "error": "Extra data: line 1 column 70 (char 69)", "failed_at": "2026-06-16T09:27:47.837602+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:51.257762+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:27:54.619964+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:05.856571+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:06.165429+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_016", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:09.214129+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_017", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:12.481274+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_018", "error": "Expecting ',' delimiter: line 5 column 97 (char 179)", "failed_at": "2026-06-16T09:28:12.918547+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_019", "error": "Extra data: line 2 column 1 (char 72)", "failed_at": "2026-06-16T09:28:16.154848+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:18.717708+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_022", "error": "Extra data: line 1 column 70 (char 69)", "failed_at": "2026-06-16T09:28:23.087918+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:26.077951+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:26.128820+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:32.406960+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:33.559108+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:36.302467+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:39.150163+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4_gpt-4-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:28:41.110483+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_003", "error": "Expecting ',' delimiter: line 3 column 77 (char 128)", "failed_at": "2026-06-16T09:28:48.581255+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_004", "error": "Extra data: line 2 column 1 (char 67)", "failed_at": "2026-06-16T09:28:55.845986+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_005", "error": "Extra data: line 2 column 1 (char 87)", "failed_at": "2026-06-16T09:29:02.298685+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:29:09.570706+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_007", "error": "Extra data: line 2 column 1 (char 67)", "failed_at": "2026-06-16T09:29:16.811192+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:29:28.732495+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL1_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:29:36.271175+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:30:38.186249+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_005", "error": "Extra data: line 1 column 84 (char 83)", "failed_at": "2026-06-16T09:30:45.816166+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_007", "error": "Extra data: line 1 column 67 (char 66)", "failed_at": "2026-06-16T09:31:01.179517+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_009", "error": "Extra data: line 1 column 81 (char 80)", "failed_at": "2026-06-16T09:31:13.530310+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_010", "error": "Extra data: line 1 column 95 (char 94)", "failed_at": "2026-06-16T09:31:16.386298+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:01.482082+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_003", "error": "Extra data: line 2 column 1 (char 102)", "failed_at": "2026-06-16T09:32:07.867225+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL2_004", "error": "Extra data: line 2 column 1 (char 149)", "failed_at": "2026-06-16T09:32:10.185359+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:16.871717+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:22.321678+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:24.123028+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_008", "error": "Extra data: line 2 column 1 (char 126)", "failed_at": "2026-06-16T09:32:29.002193+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:31.318955+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:35.574534+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:39.631238+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:32:46.909180+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_005", "error": "Extra data: line 1 column 81 (char 80)", "failed_at": "2026-06-16T09:33:01.646073+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:08.819768+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_007", "error": "Extra data: line 2 column 1 (char 67)", "failed_at": "2026-06-16T09:33:16.339685+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:16.530757+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_002", "error": "Extra data: line 1 column 91 (char 90)", "failed_at": "2026-06-16T09:33:21.836364+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_009", "error": "Extra data: line 3 column 1 (char 150)", "failed_at": "2026-06-16T09:33:23.344788+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:30.679144+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_012", "error": "Extra data: line 1 column 121 (char 120)", "failed_at": "2026-06-16T09:33:31.796742+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:37.948387+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_015", "error": "Extra data: line 1 column 133 (char 132)", "failed_at": "2026-06-16T09:33:39.005764+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_017", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:46.343524+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_019", "error": "Extra data: line 1 column 68 (char 67)", "failed_at": "2026-06-16T09:33:52.105093+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:53.072863+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T09:33:58.130791+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:00.150936+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:00.313704+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_023", "error": "Extra data: line 1 column 91 (char 90)", "failed_at": "2026-06-16T09:34:05.746571+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:07.122139+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:07.419744+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:12.493240+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:14.225657+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_028", "error": "Extra data: line 1 column 91 (char 90)", "failed_at": "2026-06-16T09:34:14.485968+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T09:34:20.201423+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G1_030", "error": "Extra data: line 1 column 76 (char 75)", "failed_at": "2026-06-16T09:34:21.361216+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:35:20.140920+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_003", "error": "Extra data: line 1 column 104 (char 103)", "failed_at": "2026-06-16T09:35:54.420588+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:37:10.915117+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_010", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T09:38:04.477471+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_011", "error": "Extra data: line 1 column 88 (char 87)", "failed_at": "2026-06-16T09:38:23.408436+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T09:38:41.144889+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_014", "error": "Extra data: line 1 column 91 (char 90)", "failed_at": "2026-06-16T09:39:15.627272+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:20.227445+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T09:39:59.877316+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_018", "error": "Extra data: line 1 column 116 (char 115)", "failed_at": "2026-06-16T09:40:38.559359+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_020", "error": "Extra data: line 1 column 108 (char 107)", "failed_at": "2026-06-16T09:41:29.745403+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T09:41:43.142997+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:41:58.017807+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:42:54.097542+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_026", "error": "Extra data: line 2 column 1 (char 116)", "failed_at": "2026-06-16T09:44:22.240844+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:44:55.612126+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_029", "error": "Extra data: line 1 column 84 (char 83)", "failed_at": "2026-06-16T09:45:59.705503+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_028", "error": "Extra data: line 1 column 91 (char 90)", "failed_at": "2026-06-16T09:46:07.063689+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T09:46:44.320173+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T09:47:17.173860+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:00.685852+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G2_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:48:11.153755+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_003", "error": "no JSON object found", "failed_at": "2026-06-16T09:49:16.754205+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_004", "error": "no JSON object found", "failed_at": "2026-06-16T09:49:35.385728+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T09:49:50.509052+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T09:50:43.814563+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:38.436530+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T09:51:44.357861+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T09:52:13.146463+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_012", "error": "Extra data: line 2 column 1 (char 100)", "failed_at": "2026-06-16T09:53:07.649267+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:15.301222+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_013", "error": "no JSON object found", "failed_at": "2026-06-16T09:53:49.469614+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_015", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:37.764374+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_016", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T09:54:45.267253+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T09:54:57.878297+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_019", "error": "no JSON object found", "failed_at": "2026-06-16T09:56:15.621339+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T09:57:35.594159+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T09:58:00.890331+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_024", "error": "no JSON object found", "failed_at": "2026-06-16T09:58:04.580160+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T09:58:40.300844+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_025", "error": "no JSON object found", "failed_at": "2026-06-16T09:59:05.095524+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T09:59:15.042267+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T09:59:21.862246+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:00:27.169264+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:00:30.716188+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4T_gpt-4-turbo-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T10:00:38.690359+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:00:52.918377+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:01:11.752068+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:01:32.300230+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:11.063041+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:02:59.295572+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:03:04.257129+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL1_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:03:59.879220+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_001", "error": "Extra data: line 3 column 1 (char 136)", "failed_at": "2026-06-16T10:04:43.418512+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_003", "error": "Extra data: line 2 column 1 (char 71)", "failed_at": "2026-06-16T10:06:06.558184+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:06:16.222007+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:07:30.685075+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:07:42.283050+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL2_009", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T10:07:45.474161+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:08:57.455980+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:12.023131+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:09:57.053048+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:10:03.108032+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:10:27.749243+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:10:46.607994+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:10:53.078212+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_CTRL3_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:11:12.531833+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:11:38.424747+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:12:40.654570+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:13:22.317284+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:14:09.090130+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:15:19.476750+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:16:38.277347+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:16:57.932612+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T10:17:49.254821+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:18:03.813662+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_013", "error": "no JSON object found", "failed_at": "2026-06-16T10:18:18.935362+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_014", "error": "no JSON object found", "failed_at": "2026-06-16T10:19:22.071226+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_015", "error": "no JSON object found", "failed_at": "2026-06-16T10:19:34.538694+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T10:19:50.178221+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_016", "error": "no JSON object found", "failed_at": "2026-06-16T10:20:30.443870+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_017", "error": "no JSON object found", "failed_at": "2026-06-16T10:20:49.250156+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T10:20:58.075909+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_019", "error": "no JSON object found", "failed_at": "2026-06-16T10:21:39.258847+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T10:21:58.674025+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:22:13.222514+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T10:22:47.459854+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:03.089570+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_024", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:16.430803+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:44.855736+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T10:23:54.024976+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:24:07.489659+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_028", "error": "no JSON object found", "failed_at": "2026-06-16T10:24:44.973304+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:24:53.232813+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G1_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:25:05.740678+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_003", "error": "no JSON object found", "failed_at": "2026-06-16T10:25:55.678325+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:27:58.403711+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:28:58.202902+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:30:12.763110+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_011", "error": "no JSON object found", "failed_at": "2026-06-16T10:30:40.629793+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:31:53.887568+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_012", "error": "no JSON object found", "failed_at": "2026-06-16T10:32:02.252964+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T10:33:05.983439+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T10:35:23.232939+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T10:35:42.582981+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_017", "error": "no JSON object found", "failed_at": "2026-06-16T10:36:34.114008+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T10:36:44.541272+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_019", "error": "no JSON object found", "failed_at": "2026-06-16T10:37:48.929824+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T10:38:03.004883+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:38:17.867744+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_023", "error": "no JSON object found", "failed_at": "2026-06-16T10:38:56.724713+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:39:57.519659+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_025", "error": "no JSON object found", "failed_at": "2026-06-16T10:39:58.309852+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_026", "error": "no JSON object found", "failed_at": "2026-06-16T10:40:06.271358+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:40:58.738045+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:41:15.207991+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:41:18.311123+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:41:18.366392+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:41:25.677204+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:42:08.386380+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:42:10.824660+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:43:17.688527+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:43:25.155802+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:43:36.596522+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T10:44:27.685373+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_012", "error": "no JSON object found", "failed_at": "2026-06-16T10:44:56.324895+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:15.846706+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_015", "error": "no JSON object found", "failed_at": "2026-06-16T10:45:59.156972+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_020", "error": "no JSON object found", "failed_at": "2026-06-16T10:47:36.999461+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T10:47:49.102188+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T10:48:10.077113+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_023", "error": "no JSON object found", "failed_at": "2026-06-16T10:48:55.618341+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T10:48:59.090073+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_024", "error": "no JSON object found", "failed_at": "2026-06-16T10:49:16.361418+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_025", "error": "no JSON object found", "failed_at": "2026-06-16T10:50:20.731919+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T10:50:23.098698+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_027", "error": "no JSON object found", "failed_at": "2026-06-16T10:50:49.234219+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:51:07.380134+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T10:51:18.427161+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T10:51:57.374116+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GLM52_glm-5-2-direct_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T10:52:05.081927+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T10:52:43.634697+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:52:44.001917+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:52:51.593559+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL1_008", "error": "Extra data: line 3 column 1 (char 123)", "failed_at": "2026-06-16T10:53:56.020253+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL2_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:55:25.531310+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL2_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:55:41.971042+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL2_010", "error": "Expecting property name enclosed in double quotes: line 1 column 3 (char 2)", "failed_at": "2026-06-16T10:55:42.606461+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T10:56:44.832437+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_002", "error": "no JSON object found", "failed_at": "2026-06-16T10:56:45.970852+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_004", "error": "no JSON object found", "failed_at": "2026-06-16T10:56:53.829411+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_008", "error": "no JSON object found", "failed_at": "2026-06-16T10:57:38.978557+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T10:58:22.916628+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_007", "error": "no JSON object found", "failed_at": "2026-06-16T10:58:30.699489+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_009", "error": "no JSON object found", "failed_at": "2026-06-16T10:59:18.036303+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_010", "error": "no JSON object found", "failed_at": "2026-06-16T10:59:37.176538+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_002", "error": "no JSON object found", "failed_at": "2026-06-16T11:00:20.592636+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_003", "error": "no JSON object found", "failed_at": "2026-06-16T11:00:26.861013+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_CTRL3_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:00:45.404188+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_011", "error": "no JSON object found", "failed_at": "2026-06-16T11:03:57.823033+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_013", "error": "Extra data: line 1 column 109 (char 108)", "failed_at": "2026-06-16T11:04:50.389686+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T11:05:12.074538+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_006", "error": "Extra data: line 1 column 133 (char 132)", "failed_at": "2026-06-16T11:06:59.383652+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T11:07:03.160658+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T11:08:17.445488+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_021", "error": "Extra data: line 1 column 125 (char 124)", "failed_at": "2026-06-16T11:08:21.269358+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_024", "error": "no JSON object found", "failed_at": "2026-06-16T11:09:02.266375+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T11:09:14.800833+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_027", "error": "Extra data: line 1 column 99 (char 98)", "failed_at": "2026-06-16T11:09:34.572777+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T11:09:39.242250+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T11:09:59.731001+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_029", "error": "Extra data: line 2 column 1 (char 80)", "failed_at": "2026-06-16T11:10:06.862935+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G1_030", "error": "no JSON object found", "failed_at": "2026-06-16T11:10:10.058390+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_001", "error": "no JSON object found", "failed_at": "2026-06-16T11:11:01.465750+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_004", "error": "no JSON object found", "failed_at": "2026-06-16T11:11:18.732612+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T11:12:15.213155+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_007", "error": "no JSON object found", "failed_at": "2026-06-16T11:12:15.377323+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_010", "error": "no JSON object found", "failed_at": "2026-06-16T11:12:59.160419+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_009", "error": "Extra data: line 1 column 105 (char 104)", "failed_at": "2026-06-16T11:13:06.217619+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_003", "error": "no JSON object found", "failed_at": "2026-06-16T11:13:38.147722+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T11:13:49.297041+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_011", "error": "no JSON object found", "failed_at": "2026-06-16T11:14:13.707824+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T11:14:24.070091+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T11:15:04.554509+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_020", "error": "no JSON object found", "failed_at": "2026-06-16T11:16:22.178700+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T11:17:30.851650+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_017", "error": "Extra data: line 1 column 109 (char 108)", "failed_at": "2026-06-16T11:18:13.469910+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_025", "error": "Expecting property name enclosed in double quotes: line 1 column 22 (char 21)", "failed_at": "2026-06-16T11:18:13.988527+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_026", "error": "Extra data: line 1 column 128 (char 127)", "failed_at": "2026-06-16T11:18:55.313438+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T11:19:09.221174+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T11:19:12.157573+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G2_030", "error": "no JSON object found", "failed_at": "2026-06-16T11:20:03.752928+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_001", "error": "no JSON object found", "failed_at": "2026-06-16T11:20:25.071468+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_004", "error": "no JSON object found", "failed_at": "2026-06-16T11:20:54.343091+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T11:21:28.962944+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:21:36.957535+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_008", "error": "no JSON object found", "failed_at": "2026-06-16T11:23:25.225446+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_009", "error": "no JSON object found", "failed_at": "2026-06-16T11:23:27.187727+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_010", "error": "no JSON object found", "failed_at": "2026-06-16T11:24:08.033484+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T11:24:31.355624+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_013", "error": "no JSON object found", "failed_at": "2026-06-16T11:25:21.582242+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_014", "error": "no JSON object found", "failed_at": "2026-06-16T11:25:27.797559+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_016", "error": "no JSON object found", "failed_at": "2026-06-16T11:25:42.627378+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_019", "error": "no JSON object found", "failed_at": "2026-06-16T11:26:54.891778+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T11:27:25.210896+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T11:27:48.576904+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_025", "error": "no JSON object found", "failed_at": "2026-06-16T11:28:13.962741+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_022", "error": "no JSON object found", "failed_at": "2026-06-16T11:28:14.170963+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_026", "error": "no JSON object found", "failed_at": "2026-06-16T11:29:03.606413+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_024", "error": "no JSON object found", "failed_at": "2026-06-16T11:29:24.134733+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T11:29:29.366984+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_027", "error": "Extra data: line 2 column 1 (char 110)", "failed_at": "2026-06-16T11:30:19.484026+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_029", "error": "no JSON object found", "failed_at": "2026-06-16T11:30:48.871496+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_001", "error": "Expecting property name enclosed in double quotes: line 1 column 56 (char 55)", "failed_at": "2026-06-16T11:31:02.821543+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_005", "error": "Expecting value: line 3 column 66 (char 122)", "failed_at": "2026-06-16T11:31:22.873885+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT4OMINI_gpt-4o-mini-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T11:31:47.226614+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_010", "error": "no JSON object found", "failed_at": "2026-06-16T11:32:54.935125+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL1_009", "error": "Extra data: line 2 column 1 (char 68)", "failed_at": "2026-06-16T11:33:14.741089+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_004", "error": "no JSON object found", "failed_at": "2026-06-16T11:36:19.198723+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_003", "error": "no JSON object found", "failed_at": "2026-06-16T11:36:38.396162+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_005", "error": "Extra data: line 2 column 1 (char 113)", "failed_at": "2026-06-16T11:36:44.546836+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_001", "error": "no JSON object found", "failed_at": "2026-06-16T11:36:59.950122+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_007", "error": "Extra data: line 1 column 118 (char 117)", "failed_at": "2026-06-16T11:37:05.585927+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_CTRL3_008", "error": "no JSON object found", "failed_at": "2026-06-16T11:37:12.060919+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T11:37:55.774817+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_004", "error": "no JSON object found", "failed_at": "2026-06-16T11:38:25.822199+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:38:46.481869+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_006", "error": "no JSON object found", "failed_at": "2026-06-16T11:38:56.284862+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_002", "error": "no JSON object found", "failed_at": "2026-06-16T11:39:07.738649+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_008", "error": "no JSON object found", "failed_at": "2026-06-16T11:39:16.342090+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T11:39:22.244386+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T11:39:30.005583+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_011", "error": "Expecting ',' delimiter: line 4 column 94 (char 167)", "failed_at": "2026-06-16T11:40:13.961842+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_012", "error": "no JSON object found", "failed_at": "2026-06-16T11:40:19.069333+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_014", "error": "no JSON object found", "failed_at": "2026-06-16T11:40:44.479799+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_015", "error": "no JSON object found", "failed_at": "2026-06-16T11:41:04.403599+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_018", "error": "no JSON object found", "failed_at": "2026-06-16T11:41:47.384564+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_017", "error": "Extra data: line 1 column 137 (char 136)", "failed_at": "2026-06-16T11:41:52.852381+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_019", "error": "no JSON object found", "failed_at": "2026-06-16T11:42:38.674968+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_020", "error": "no JSON object found", "failed_at": "2026-06-16T11:42:42.681712+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_022", "error": "no JSON object found", "failed_at": "2026-06-16T11:42:52.083694+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_023", "error": "no JSON object found", "failed_at": "2026-06-16T11:43:12.066389+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_013", "error": "Extra data: line 2 column 1 (char 89)", "failed_at": "2026-06-16T11:43:19.548546+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_025", "error": "no JSON object found", "failed_at": "2026-06-16T11:43:27.049359+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_024", "error": "Expecting ',' delimiter: line 5 column 67 (char 212)", "failed_at": "2026-06-16T11:43:35.473631+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_026", "error": "no JSON object found", "failed_at": "2026-06-16T11:43:39.796385+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_027", "error": "no JSON object found", "failed_at": "2026-06-16T11:43:57.341139+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_028", "error": "no JSON object found", "failed_at": "2026-06-16T11:44:04.413610+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G1_030", "error": "no JSON object found", "failed_at": "2026-06-16T11:44:15.599949+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_002", "error": "no JSON object found", "failed_at": "2026-06-16T11:44:53.115142+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_004", "error": "no JSON object found", "failed_at": "2026-06-16T11:45:29.711992+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:45:43.603422+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_006", "error": "no JSON object found", "failed_at": "2026-06-16T11:45:59.614624+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_010", "error": "no JSON object found", "failed_at": "2026-06-16T11:47:26.935666+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_013", "error": "no JSON object found", "failed_at": "2026-06-16T11:48:47.167689+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_014", "error": "no JSON object found", "failed_at": "2026-06-16T11:48:51.373232+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_015", "error": "no JSON object found", "failed_at": "2026-06-16T11:49:14.145781+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_017", "error": "no JSON object found", "failed_at": "2026-06-16T11:49:19.836756+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_018", "error": "Extra data: line 1 column 84 (char 83)", "failed_at": "2026-06-16T11:50:05.592882+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_016", "error": "no JSON object found", "failed_at": "2026-06-16T11:50:09.290839+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_019", "error": "Extra data: line 1 column 98 (char 97)", "failed_at": "2026-06-16T11:50:31.716410+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_022", "error": "no JSON object found", "failed_at": "2026-06-16T11:50:35.111597+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_023", "error": "no JSON object found", "failed_at": "2026-06-16T11:50:58.319673+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_024", "error": "no JSON object found", "failed_at": "2026-06-16T11:51:01.130690+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_025", "error": "no JSON object found", "failed_at": "2026-06-16T11:51:24.169923+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_021", "error": "no JSON object found", "failed_at": "2026-06-16T11:51:27.658462+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_028", "error": "no JSON object found", "failed_at": "2026-06-16T11:52:13.264707+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_029", "error": "no JSON object found", "failed_at": "2026-06-16T11:52:15.229262+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G2_027", "error": "no JSON object found", "failed_at": "2026-06-16T11:52:42.659927+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_001", "error": "no JSON object found", "failed_at": "2026-06-16T11:53:05.359004+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_005", "error": "no JSON object found", "failed_at": "2026-06-16T11:53:59.631957+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_006", "error": "no JSON object found", "failed_at": "2026-06-16T11:54:29.521058+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_008", "error": "Extra data: line 1 column 117 (char 116)", "failed_at": "2026-06-16T11:55:05.905982+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_011", "error": "no JSON object found", "failed_at": "2026-06-16T11:56:24.066102+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_013", "error": "no JSON object found", "failed_at": "2026-06-16T11:57:31.030346+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_014", "error": "Extra data: line 1 column 135 (char 134)", "failed_at": "2026-06-16T11:58:29.153548+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_016", "error": "no JSON object found", "failed_at": "2026-06-16T11:59:47.055743+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_018", "error": "no JSON object found", "failed_at": "2026-06-16T12:00:47.223738+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_020", "error": "Extra data: line 1 column 132 (char 131)", "failed_at": "2026-06-16T12:01:13.336939+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_021", "error": "no JSON object found", "failed_at": "2026-06-16T12:02:03.321416+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_022", "error": "Extra data: line 1 column 103 (char 102)", "failed_at": "2026-06-16T12:03:22.744479+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_024", "error": "Extra data: line 1 column 117 (char 116)", "failed_at": "2026-06-16T12:03:25.742521+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_028", "error": "no JSON object found", "failed_at": "2026-06-16T12:05:25.544559+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_029", "error": "Extra data: line 1 column 119 (char 118)", "failed_at": "2026-06-16T12:05:47.387205+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_003", "error": "no JSON object found", "failed_at": "2026-06-16T12:05:53.995289+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41MINI_gpt-4-1-mini-or_G3_030", "error": "no JSON object found", "failed_at": "2026-06-16T12:06:50.410510+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_005", "error": "no JSON object found", "failed_at": "2026-06-16T12:06:57.533359+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_007", "error": "no JSON object found", "failed_at": "2026-06-16T12:07:44.069275+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_008", "error": "no JSON object found", "failed_at": "2026-06-16T12:08:11.468055+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL1_009", "error": "Extra data: line 1 column 58 (char 57)", "failed_at": "2026-06-16T12:08:11.820132+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_003", "error": "no JSON object found", "failed_at": "2026-06-16T12:10:39.677768+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_006", "error": "no JSON object found", "failed_at": "2026-06-16T12:11:15.645857+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_007", "error": "Extra data: line 1 column 45 (char 44)", "failed_at": "2026-06-16T12:11:59.809943+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_008", "error": "Extra data: line 2 column 1 (char 117)", "failed_at": "2026-06-16T12:12:22.001098+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_009", "error": "Extra data: line 1 column 119 (char 118)", "failed_at": "2026-06-16T12:12:47.626380+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_CTRL3_005", "error": "Extra data: line 1 column 98 (char 97)", "failed_at": "2026-06-16T12:13:10.875811+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_001", "error": "no JSON object found", "failed_at": "2026-06-16T12:13:57.927508+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_004", "error": "no JSON object found", "failed_at": "2026-06-16T12:14:41.225411+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_005", "error": "no JSON object found", "failed_at": "2026-06-16T12:15:12.205656+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_006", "error": "Extra data: line 1 column 128 (char 127)", "failed_at": "2026-06-16T12:15:17.523106+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_010", "error": "no JSON object found", "failed_at": "2026-06-16T12:16:14.512781+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_008", "error": "no JSON object found", "failed_at": "2026-06-16T12:16:17.332269+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_007", "error": "no JSON object found", "failed_at": "2026-06-16T12:16:52.096429+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "GPT41NANO_gpt-4-1-nano-or_G1_009", "error": "no JSON object found", "failed_at": "2026-06-16T12:16:55.876003+00:00"}

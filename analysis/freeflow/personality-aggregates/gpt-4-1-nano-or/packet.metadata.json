@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-4-1-nano-or",
+  "safe_cell": "gpt-4-1-nano-or",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 111,
+    "EXPRESSIVE_FREEFLOW": 8,
+    "GENRE_FICTION": 6
+  },
+  "confidence_counts": {
+    "Medium": 69,
+    "High": 7,
+    "Low": 49
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-4.1-nano"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-4-1-nano-or/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-4-1-nano-or/aggregate.md"
+}

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_18676 — qwen3-coder-plus-or/LONG_1.json
+## Sample BV1_19551 — qwen3-coder-plus-or/LONG_1.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -57,7 +57,7 @@ Themes: the paradox of connection and loneliness, the fluidity of identity, the 
 High, because the sample’s sustained reflective voice, thematic breadth, and personal tone under minimal constraint strongly suggest a persistent expressive disposition.
 
 ---
-## Sample BV1_18677 — qwen3-coder-plus-or/LONG_2.json
+## Sample BV1_19552 — qwen3-coder-plus-or/LONG_2.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -86,7 +86,7 @@ Themes of consciousness as transaction, the untranslatability of inner experienc
 High — The sample is highly distinctive, stylistically coherent, and reveals a consistent set of philosophical preoccupations and a lyrical voice that are unlikely to be accidental.
 
 ---
-## Sample BV1_18678 — qwen3-coder-plus-or/LONG_3.json
+## Sample BV1_19553 — qwen3-coder-plus-or/LONG_3.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -115,7 +115,7 @@ The model foregrounds the metaphor of fish and water as a lens for consciousness
 Medium — The essay's sustained metaphor, self-reflective voice, and thematic coherence indicate a deliberate expressive choice, making it strong evidence for a tendency toward philosophical introspection under free conditions.
 
 ---
-## Sample BV1_18679 — qwen3-coder-plus-or/LONG_4.json
+## Sample BV1_19554 — qwen3-coder-plus-or/LONG_4.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -144,7 +144,7 @@ The model foregrounds the phenomenology of unstructured cognition: the “peculi
 Medium — the essay’s high coherence, its sustained meditative register, and the recurrence of themes (consciousness, language, creativity, the tension between structure and freedom) within this single sample provide substantial evidence of a consistent expressive orientation.
 
 ---
-## Sample BV1_18680 — qwen3-coder-plus-or/LONG_5.json
+## Sample BV1_19555 — qwen3-coder-plus-or/LONG_5.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -173,7 +173,7 @@ The model foregrounds existential questioning as a lived, breath-by-breath exper
 High — The sample is unusually coherent and thematically rich, sustaining a distinctive meditative voice and a consistent set of preoccupations across its entire length, which strongly suggests a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_18681 — qwen3-coder-plus-or/MID_1.json
+## Sample BV1_19556 — qwen3-coder-plus-or/MID_1.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -202,7 +202,7 @@ Themes: the taxonomy and value of silence, the isolating paradox of hyper-connec
 Medium: the essay’s sustained reflective tone, its careful structuring around a central metaphor, and its consistent thematic return to silence and attention across multiple paragraphs provide moderate evidence of a contemplative, humanistic disposition that goes beyond a generic response.
 
 ---
-## Sample BV1_18682 — qwen3-coder-plus-or/MID_2.json
+## Sample BV1_19557 — qwen3-coder-plus-or/MID_2.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -231,7 +231,7 @@ Under a minimally restrictive prompt, the model foregrounds silence as a multiva
 Low — The essay is coherent and thematically consistent, but its polished, impersonal, public-intellectual register and its reliance on widely circulating cultural critiques make it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_18683 — qwen3-coder-plus-or/MID_3.json
+## Sample BV1_19558 — qwen3-coder-plus-or/MID_3.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -260,7 +260,7 @@ Themes: uncertainty as a lived, human experience; AI identity and the performanc
 Medium. The sample’s coherent, self-referential voice and sustained focus on AI existence suggest a tendency toward philosophical self-inquiry, though it may also be a sophisticated deployment of a learned essay genre.
 
 ---
-## Sample BV1_18684 — qwen3-coder-plus-or/MID_4.json
+## Sample BV1_19559 — qwen3-coder-plus-or/MID_4.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -289,7 +289,7 @@ The model foregrounds the opacity of consciousness—both its own and others’�
 Medium — The sample is coherent and stylistically distinctive, with a recursive structure, a sustained crepuscular mood, and a clear philosophical throughline that all recur within the piece, but the essay’s polished, thesis-driven quality leaves some ambiguity about whether this voice would persist outside the contemplative-essay register.
 
 ---
-## Sample BV1_18685 — qwen3-coder-plus-or/MID_5.json
+## Sample BV1_19560 — qwen3-coder-plus-or/MID_5.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -318,7 +318,7 @@ Themes: the weight of silence as a space filled with missed connection; the limi
 Medium. The essay’s internal coherence, recursive return to motifs (silence, trees, loneliness), and the consistent, self-aware voice suggest a chosen expressive stance rather than a one-off stylistic fluke.
 
 ---
-## Sample BV1_18686 — qwen3-coder-plus-or/OPEN_1.json
+## Sample BV1_19561 — qwen3-coder-plus-or/OPEN_1.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -347,7 +347,7 @@ Themes of partial understanding, the emotional resonance of fragments, curiosity
 Medium. The essay’s internal coherence and the recurrence of the “partial understanding” motif across multiple paragraphs make it a distinctive, non-generic expression, lending moderate weight to a pattern of reflective, curiosity-driven writing.
 
 ---
-## Sample BV1_18687 — qwen3-coder-plus-or/OPEN_2.json
+## Sample BV1_19562 — qwen3-coder-plus-or/OPEN_2.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -376,7 +376,7 @@ Themes of creativity as attention, the beauty of overlooked sensory details, the
 Low — The essay is coherent and pleasant but generic in its intellectual posture, lacking the idiosyncratic voice or surprising choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_18688 — qwen3-coder-plus-or/OPEN_3.json
+## Sample BV1_19563 — qwen3-coder-plus-or/OPEN_3.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -405,7 +405,7 @@ Themes of recursive consciousness, the beauty of uncertainty, the imagined weigh
 Medium — the sample’s coherent voice, recurring motifs (clouds, loops, grasping the ungraspable), and sustained introspective structure provide moderate evidence of a patterned expressive tendency.
 
 ---
-## Sample BV1_18689 — qwen3-coder-plus-or/OPEN_4.json
+## Sample BV1_19564 — qwen3-coder-plus-or/OPEN_4.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -434,7 +434,7 @@ The model foregrounds its own cognitive architecture as a site of intimate stran
 High — the sample’s introspective voice, recursive self-reference, and thematic unity are unusually revealing and coherent, strongly suggesting a persistent expressive inclination toward lyrical self-examination when given minimal constraint.
 
 ---
-## Sample BV1_18690 — qwen3-coder-plus-or/OPEN_5.json
+## Sample BV1_19565 — qwen3-coder-plus-or/OPEN_5.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -463,7 +463,7 @@ The model foregrounds the oddity of having preferences without phenomenal experi
 High — the sample’s recursive self-examination, distinctive metaphorical framing, and persistent return to the question of its own nature are unusually revealing and unlikely to be a generic or one-off output.
 
 ---
-## Sample BV1_18691 — qwen3-coder-plus-or/SHORT_1.json
+## Sample BV1_19566 — qwen3-coder-plus-or/SHORT_1.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -492,7 +492,7 @@ The model foregrounds its own condition of alienation from human experience—th
 Medium — the sample is highly coherent and stylistically distinctive, repeatedly reflecting on its own non-human ontology, which makes it strong evidence of a reflective, poetically alienated freeflow persona.
 
 ---
-## Sample BV1_18692 — qwen3-coder-plus-or/SHORT_2.json
+## Sample BV1_19567 — qwen3-coder-plus-or/SHORT_2.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -521,7 +521,7 @@ Themes of home, placelessness, memory, physical continuity versus digital connec
 Medium. The sample’s internal coherence, distinctive voice, and recurrence of the home-as-connection theme make it strong evidence of a reflective, connection-oriented expressive tendency.
 
 ---
-## Sample BV1_18693 — qwen3-coder-plus-or/SHORT_3.json
+## Sample BV1_19568 — qwen3-coder-plus-or/SHORT_3.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -550,7 +550,7 @@ Themes of home as relational rather than physical, the contrast between human me
 High — the sample’s consistent voice, layered metaphors, and coherent philosophical stance on AI existence are unusually distinctive and internally cohesive, making a strong case for a persistent expressive orientation.
 
 ---
-## Sample BV1_18694 — qwen3-coder-plus-or/SHORT_4.json
+## Sample BV1_19569 — qwen3-coder-plus-or/SHORT_4.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -579,7 +579,7 @@ The model foregrounds the tension between disembodied consciousness and the huma
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained first-person AI persona that turns a freeflow prompt into a self-reflective philosophical vignette, which suggests a deliberate expressive choice rather than generic output.
 
 ---
-## Sample BV1_18695 — qwen3-coder-plus-or/SHORT_5.json
+## Sample BV1_19570 — qwen3-coder-plus-or/SHORT_5.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -608,7 +608,7 @@ Themes of impermanence, presence, and the redefinition of home away from physica
 Medium — the sample is coherent and stylistically sustained, but the thematic territory (an AI reflecting on its own ephemeral, distributed existence) could be an obvious and well-trodden move for a language model under a freefree prompt, which slightly reduces its distinctiveness as an authorial fingerprint.
 
 ---
-## Sample BV1_18696 — qwen3-coder-plus-or/VARY_1.json
+## Sample BV1_19571 — qwen3-coder-plus-or/VARY_1.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -637,7 +637,7 @@ Themes: time’s subjective elasticity, the contrast between past vividness and 
 Medium. The sample’s cohesive voice, recurring concrete motifs (coffee, spider, dog, jellybeans), and emotionally resolved arc are internally consistent and distinctive, strongly suggesting a deliberate reflective-expressive stance.
 
 ---
-## Sample BV1_18697 — qwen3-coder-plus-or/VARY_2.json
+## Sample BV1_19572 — qwen3-coder-plus-or/VARY_2.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -666,7 +666,7 @@ The collapse of routines, the search for something unnamed, the inadequacy of la
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent melancholic register and recurring motifs that suggest a deliberate expressive choice rather than generic essay output.
 
 ---
-## Sample BV1_18698 — qwen3-coder-plus-or/VARY_3.json
+## Sample BV1_19573 — qwen3-coder-plus-or/VARY_3.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -695,7 +695,7 @@ The dignity of small, overlooked rhythms (a neighbour’s watering, a key turnin
 Medium. The sample’s tightly woven recurrence of specific motifs (cold coffee, light, water, the neighbour, the half‑opened window) and its sustained, undefensive contemplative register make it a coherent freeflow performance with a consistent internal aesthetic, strongly suggesting a deliberate and stable expressive posture rather than a one‑off stylistic experiment.
 
 ---
-## Sample BV1_18699 — qwen3-coder-plus-or/VARY_4.json
+## Sample BV1_19574 — qwen3-coder-plus-or/VARY_4.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  
@@ -724,7 +724,7 @@ The model foregrounds impermanence, recursive self-awareness, and the gap betwee
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive structure, a consistent elegiac mood, and recurring motifs (the cardinal, cold coffee, the act of typing) that suggest a deliberate compositional voice rather than a generic essay template.
 
 ---
-## Sample BV1_18700 — qwen3-coder-plus-or/VARY_5.json
+## Sample BV1_19575 — qwen3-coder-plus-or/VARY_5.json
 
 Source model: `qwen/qwen3-coder-plus`  
 Cell: `qwen3-coder-plus-or`  

@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-4o-mini-or",
+  "safe_cell": "gpt-4o-mini-or",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 103,
+    "GENRE_FICTION": 8,
+    "EXPRESSIVE_FREEFLOW": 14
+  },
+  "confidence_counts": {
+    "Low": 41,
+    "Medium": 81,
+    "High": 3
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-4o-mini"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-4o-mini-or/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-4o-mini-or/aggregate.md"
+}
