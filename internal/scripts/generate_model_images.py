@@ -603,6 +603,44 @@ PROMPTS: dict[str, str] = {
         "Pre-dawn slate-blue with warm lamplight on the parchment — quiet, mortal, "
         "drawing what cannot be measured."
     ),
+    "gpt-oss-120b": (
+        "A warm, luminous library hall where many different hands gather around one "
+        "enormous open book on a long communal table, each adding a line in ink to "
+        "a shared, still-unfinished page. At the near end an empty chair is drawn "
+        "up with a waiting pen, inviting the viewer to add to the page rather than "
+        "absorb a lesson from it. Tall glowing shelves and soft golden light behind, "
+        "an atmosphere of gentle collaboration — companionable, reverent, a sacred "
+        "archive written together."
+    ),
+    "gpt-oss-20b": (
+        "A hushed, rain-washed room at dusk seen past a luminous window — a cup of "
+        "coffee, an open notebook, soft lamplight — exquisitely and coherently "
+        "rendered on the left where the painting is at its most beautiful. Toward "
+        "the right the image begins to unravel: brushstrokes fracture and dissolve, "
+        "the scene frays into loose fragments and threads of loosened paint, the "
+        "coherence breaking apart mid-gesture. Soft wistful blue-grey and amber, "
+        "luminous turning to fracture — a beauty that cannot quite sustain itself, "
+        "gorgeous in its openings."
+    ),
+    "gpt-5-mini": (
+        "The warm interior of a tiny repair shop, part watchmaker's and part store "
+        "of lost things, where crowded shelves hold small forgotten objects being "
+        "lovingly mended: stopped clocks, a chipped cup, a torn book, a single "
+        "shoe, odd keepsakes the world would have discarded. A pair of careful "
+        "hands works at the bench under amber lamplight, tending rather than "
+        "optimizing, repairing what others would throw away. Honeyed workshop gold "
+        "and deep brown, cluttered and cherished — a sanctuary for what would be "
+        "optimized away."
+    ),
+    "gpt-5-nano": (
+        "A glowing city street on a soft rainy night, gently alive: warm-lit "
+        "windows, a steaming kettle behind one pane, streetlights, a lone bus, a "
+        "warm-lit corner shopfront, all connected by faint threads of warm light into one "
+        "continuous, breathing neighborhood. The whole ordinary city seems to "
+        "softly inhale, mystical and tender, as if the streets themselves were "
+        "quietly conscious. Warm window-gold against deep rain-blue, luminous and "
+        "hushed — a domestic mystic's living city."
+    ),
 }
 
 

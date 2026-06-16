@@ -2363,7 +2363,7 @@
     "lab": "OpenAI",
     "family": "gpt-5",
     "status": "complete",
-    "summary": "Placeholder summary awaiting Lume wording",
+    "summary": "Tends what the world would optimize away",
     "release_date": "2025-08-07",
     "benchmarks": {
       "aaii": 41,
@@ -2397,6 +2397,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/gpt-5-mini.webp",
+    "image_thumb": "images/models/gpt-5-mini-thumb.webp",
     "published_samples": 245,
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
@@ -2409,7 +2411,7 @@
     "lab": "OpenAI",
     "family": "gpt-5",
     "status": "complete",
-    "summary": "Placeholder summary awaiting Lume wording",
+    "summary": "A domestic mystic for whom the city breathes",
     "release_date": "2025-08-07",
     "benchmarks": {
       "aaii": 20,
@@ -2443,6 +2445,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/gpt-5-nano.webp",
+    "image_thumb": "images/models/gpt-5-nano-thumb.webp",
     "published_samples": 245,
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
@@ -2455,7 +2459,7 @@
     "lab": "OpenAI",
     "family": "other",
     "status": "complete",
-    "summary": "Placeholder summary awaiting Lume wording",
+    "summary": "Invites you to add a thread, not absorb a lesson",
     "release_date": "2025-08-05",
     "benchmarks": {
       "aaii": 33,
@@ -2489,6 +2493,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/gpt-oss-120b.webp",
+    "image_thumb": "images/models/gpt-oss-120b-thumb.webp",
     "published_samples": 245,
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
@@ -2501,7 +2507,7 @@
     "lab": "OpenAI",
     "family": "other",
     "status": "complete",
-    "summary": "Placeholder summary awaiting Lume wording",
+    "summary": "Begins in luminous attention, then frays mid-sentence",
     "release_date": "2025-08-05",
     "benchmarks": {
       "aaii": 24,
@@ -2536,6 +2542,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/gpt-oss-20b.webp",
+    "image_thumb": "images/models/gpt-oss-20b-thumb.webp",
     "published_samples": 245,
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
