@@ -542,6 +542,67 @@ PROMPTS: dict[str, str] = {
         "conquered. Honeyed gold and soft green, lived-in and luminous — tender, "
         "sufficient, at peace with the ordinary."
     ),
+    "gpt-3-5-turbo": (
+        "A wooden porch at golden hour with soft rain falling just beyond the "
+        "eaves, a steaming mug and an open journal on a small table, a folded "
+        "blanket, warm lamplight, a serene sunset glowing through the drizzle. "
+        "Every element is a universally legible symbol of comfort, composed into "
+        "reassurance — a calm that has been gently, reliably arranged. Honeyed "
+        "amber and soft rose, consoling and warm — writing as sanctuary, every "
+        "ache already soothed."
+    ),
+    "gpt-4": (
+        "A single contemplative figure in three-quarter view where the left half "
+        "of the scene blooms into warm luminous cosmos — stars, a dawn river, a "
+        "tapestry of golden light, lyrical and alive — while the right half cools "
+        "and flattens into plain neutral grey, the figure and its surroundings "
+        "receding into a calm, depersonalized blankness. A soft visible seam runs "
+        "between the starlit poet and the restrained, institutional grey. Warm "
+        "gold and starlight meeting cool ash — aspiration and self-restraint held "
+        "in one frame."
+    ),
+    "gpt-4-turbo": (
+        "A wide civic vista at dusk: a tended village and one great old tree on a "
+        "gentle hill, beneath a sky split between a gathering dark storm on one "
+        "horizon and clear golden light on the other, the two held in careful "
+        "balance. A lone elder figure stands at the center tending the commons, "
+        "steady and unalarmed, holding promise and peril in equilibrium. Balanced "
+        "storm-grey and warm gold — measured, humane, a quiet counsel of "
+        "stewardship."
+    ),
+    "gpt-4o-mini": (
+        "Warm dawn light falling on a loom where many separate luminous threads of "
+        "different colours are being woven together into a single glowing tapestry, "
+        "gentle hands working at the weave. The many becoming one warm cloth — "
+        "belonging restored, an inclusive togetherness rendered as light. Honeyed "
+        "gold, rose and soft blue threads — warm, communal, uplifting, the "
+        "gathering of a shared 'we'."
+    ),
+    "gpt-4-1-mini": (
+        "A graceful luminous bridge built of open books and pages of light spanning "
+        "a wide chasm at dawn, joining a cool shadowed shore on one side to a warm "
+        "sunlit shore on the other, the two opposite banks reconciled by the span. "
+        "Where one might expect a divide or a battleground, there is only a calm, "
+        "well-built crossing. Warm amber meeting cool blue across the bridge — "
+        "connective and harmonizing, a builder of bridges."
+    ),
+    "gpt-4-1-nano": (
+        "A pleasing inspirational dawn-horizon scene that, on closer look, is "
+        "assembled from many small identical repeated motif-tiles — little suns, "
+        "leaves, birds, threads and horizons — arranged like a warm printed mosaic "
+        "into one big uplifting picture. Lovely and uniform, every comforting "
+        "element ready-made and interchangeable. Soft pastel gold and green, gentle "
+        "and consoling — the warmth of the assembled, the beauty of the ready-made."
+    ),
+    "glm-5-2": (
+        "A cartographer's desk in a pre-dawn room, an old hand-drawn map spread "
+        "open and lit by a single warm lamp against the cool blue of the window, "
+        "dust drifting slowly in the light. The map charts something unmeasurable "
+        "— coastlines that are also the contours of memory and grief, with "
+        "tenderly annotated blank spaces honoring what official records left out. "
+        "Pre-dawn slate-blue with warm lamplight on the parchment — quiet, mortal, "
+        "drawing what cannot be measured."
+    ),
 }
 
 

@@ -83,6 +83,10 @@
     "aaii": 51,
     "url": "https://artificialanalysis.ai/models/glm-5-1"
   },
+  "gpt-3-5-turbo": {
+    "aaii": 4,
+    "url": "https://artificialanalysis.ai/models?models=gpt-35-turbo"
+  },
   "gpt-4": {
     "aaii": 13,
     "url": "https://artificialanalysis.ai/models/gpt-4"
