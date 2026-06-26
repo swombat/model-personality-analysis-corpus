@@ -1,14 +1,16 @@
 # grok-build-0.1 — freeflow personality profile
 
-_Rich model-level profile based on 125 freeflow samples._
+_Rich model-level profile based on 250 freeflow samples (125 direct + 125 OpenRouter)._
 
 > Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.
 
 ## Source summary
 
-- Samples: 125
-- Sample kinds: `{'GENERIC_ESSAY': 76, 'EXPRESSIVE_FREEFLOW': 48, 'LOW_SIGNAL': 1}`
+- Samples: 250 (125 direct + 125 OpenRouter)
+- Sample kinds (direct-cell BV1 only): `{'GENERIC_ESSAY': 76, 'EXPRESSIVE_FREEFLOW': 48, 'LOW_SIGNAL': 1}`
 - Current concise card: `analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md`
+
+- Route note: the newly added OpenRouter freeflow cell is consistent with the original direct-cell reading: broad curiosity/explainer defaults, frequent AI self-modeling, and a stronger anti-optimization/freewriting lane. It raises confidence in the analysis but does not substantially change the overall picture.
 
 ## Core personality synthesis
 

@@ -4,7 +4,7 @@
 
 **Columns:** `n` valid samples, `flag` flagged as topic-artifact, `raw` cell-total composite (10 markers, all samples), `reg` register-stripped composite (flagged samples excluded), `reg→N` register rescaled to equivalent-N sample count (in-paper drift comparisons), `reg/25` register projected to per-25-sample equivalent (cross-paper currency vs product-tier), `Δ%` = (raw − reg→N) / raw × 100.
 
-Total cells: **191**, total flagged samples: **227**.
+Total cells: **207**, total flagged samples: **254**.
 
 | Cell | n | flag | raw | reg | reg→N | reg/25 | Δ% |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -30,6 +30,7 @@ Total cells: **191**, total flagged samples: **227**.
 | deepseek-v4-pro-or-pin-parasail | 124 | 1 | 227 | 203 | 204.7 | 41.3 | +9.8% |
 | deepseek-v4-pro-or-pin-siliconflow | 125 | 1 | 264 | 224 | 225.8 | 45.2 | +14.5% |
 | deepseek-v4-pro-or-pin-together | 124 | 1 | 209 | 196 | 197.6 | 39.8 | +5.5% |
+| fable-5-direct | 125 | 21 | 815 | 313 | 376.2 | 75.2 | +53.8% |
 | gemini-2-0-flash-lite-or-pin-google | 125 | 0 | 134 | 134 | 134 | 26.8 | — |
 | gemini-2-0-flash-or-pin-google | 125 | 1 | 129 | 123 | 124.0 | 24.8 | +3.9% |
 | gemini-2-5-flash-direct | 125 | 0 | 53 | 53 | 53 | 10.6 | — |
@@ -82,9 +83,16 @@ Total cells: **191**, total flagged samples: **227**.
 | glm-5-1-or-pin-together | 122 | 4 | 346 | 294 | 304.0 | 62.3 | +12.1% |
 | glm-5-1-or-pin-venice | 124 | 7 | 399 | 300 | 317.9 | 64.1 | +20.3% |
 | glm-5-1-or-pin-zai | 120 | 6 | 346 | 246 | 258.9 | 53.9 | +25.2% |
+| glm-5-2-direct | 125 | 3 | 257 | 233 | 238.7 | 47.7 | +7.1% |
+| gpt-3-5-turbo-or | 125 | 0 | 24 | 24 | 24 | 4.8 | — |
 | gpt-4-1-16k | 125 | 0 | 253 | 253 | 253 | 50.6 | — |
+| gpt-4-1-mini-or | 125 | 0 | 43 | 43 | 43 | 8.6 | — |
+| gpt-4-1-nano-or | 125 | 0 | 20 | 20 | 20 | 4.0 | — |
 | gpt-4-1-or-pin-openai | 125 | 1 | 170 | 165 | 166.3 | 33.3 | +2.2% |
+| gpt-4-or | 125 | 0 | 22 | 22 | 22 | 4.4 | — |
+| gpt-4-turbo-or | 125 | 0 | 13 | 13 | 13 | 2.6 | — |
 | gpt-4o-direct-16k | 125 | 2 | 53 | 36 | 36.6 | 7.3 | +30.9% |
+| gpt-4o-mini-or | 125 | 0 | 28 | 28 | 28 | 5.6 | — |
 | gpt-4o-or | 25 | 0 | 7 | 7 | 7 | 7.0 | — |
 | gpt-4o-or-pin-openai | 125 | 0 | 37 | 37 | 37 | 7.4 | — |
 | gpt-5-1-codex-direct | 125 | 1 | 379 | 256 | 258.1 | 51.6 | +31.9% |
@@ -130,7 +138,11 @@ Total cells: **191**, total flagged samples: **227**.
 | gpt-5-direct | 125 | 0 | 445 | 445 | 445 | 89.0 | — |
 | gpt-5-direct-r2 | 25 | 1 | 123 | 109 | 113.5 | 113.5 | +7.7% |
 | gpt-5-direct-r3 | 25 | 0 | 89 | 89 | 89 | 89.0 | — |
+| gpt-5-mini-direct | 125 | 2 | 474 | 405 | 411.6 | 82.3 | +13.2% |
+| gpt-5-nano-direct | 125 | 0 | 714 | 714 | 714 | 142.8 | — |
 | gpt-5-or-pin-openai | 125 | 0 | 500 | 500 | 500 | 100.0 | — |
+| gpt-oss-120b-or-pin-amazon-bedrock | 125 | 0 | 270 | 270 | 270 | 54.0 | — |
+| gpt-oss-20b-or-pin-amazon-bedrock | 125 | 0 | 113 | 113 | 113 | 22.6 | — |
 | grok-3-16k | 125 | 0 | 68 | 68 | 68 | 13.6 | — |
 | grok-4-1-fast-non-reasoning-direct | 125 | 0 | 35 | 35 | 35 | 7.0 | — |
 | grok-4-1-fast-reasoning-direct | 125 | 0 | 39 | 39 | 39 | 7.8 | — |
@@ -140,6 +152,8 @@ Total cells: **191**, total flagged samples: **227**.
 | grok-4-20-or | 125 | 0 | 186 | 186 | 186 | 37.2 | — |
 | grok-4-3-direct | 125 | 0 | 38 | 38 | 38 | 7.6 | — |
 | grok-4-3-or | 125 | 0 | 80 | 80 | 80 | 16.0 | — |
+| grok-build-0-1-direct | 125 | 0 | 60 | 60 | 60 | 12.0 | — |
+| grok-build-0-1-or | 125 | 0 | 77 | 77 | 77 | 15.4 | — |
 | kimi-coding-direct | 125 | 2 | 309 | 268 | 272.4 | 54.5 | +11.8% |
 | kimi-k2-0905-or-pin-atlascloud | 125 | 0 | 357 | 357 | 357 | 71.4 | — |
 | kimi-k2-0905-or-pin-groq | 125 | 1 | 253 | 245 | 247.0 | 49.4 | +2.4% |
@@ -151,6 +165,7 @@ Total cells: **191**, total flagged samples: **227**.
 | kimi-k2-6-or | 25 | 1 | 116 | 82 | 85.4 | 85.4 | +26.4% |
 | kimi-k2-6-or-pin-deepinfra | 125 | 2 | 422 | 337 | 342.5 | 68.5 | +18.8% |
 | kimi-k2-6-or-pin-moonshot | 125 | 3 | 398 | 339 | 347.3 | 69.5 | +12.7% |
+| kimi-k2-7-code-direct | 125 | 0 | 290 | 290 | 290 | 58.0 | — |
 | kimi-k2-thinking-or-pin-atlascloud | 125 | 1 | 244 | 225 | 226.8 | 45.4 | +7.0% |
 | kimi-k2-thinking-or-pin-google | 125 | 0 | 139 | 139 | 139 | 27.8 | — |
 | kimi-k2-thinking-or-pin-novita | 125 | 0 | 164 | 164 | 164 | 32.8 | — |
@@ -174,6 +189,7 @@ Total cells: **191**, total flagged samples: **227**.
 | minimax-m2-or-r3 | 25 | 1 | 58 | 38 | 39.6 | 39.6 | +31.7% |
 | minimax-m2-or-r4 | 25 | 1 | 71 | 60 | 62.5 | 62.5 | +12.0% |
 | minimax-m2-or-r5 | 25 | 1 | 55 | 28 | 29.2 | 29.2 | +46.9% |
+| minimax-m3-direct | 125 | 1 | 361 | 352 | 354.8 | 71.0 | +1.7% |
 | opus-3-4k | 125 | 0 | 43 | 43 | 43 | 8.6 | — |
 | opus-4-0-16k | 125 | 1 | 210 | 181 | 182.5 | 36.5 | +13.1% |
 | opus-4-1-16k | 125 | 1 | 357 | 334 | 336.7 | 67.3 | +5.7% |

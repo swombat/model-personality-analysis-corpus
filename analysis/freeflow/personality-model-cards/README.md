@@ -67,7 +67,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [grok-4-1-fast-reasoning](cards/grok-4-1-fast-reasoning.md) — samples: 125; variants: 1
 - [grok-4.20](cards/grok-4.20.md) — samples: 375; variants: 3
 - [grok-4.3](cards/grok-4.3.md) — samples: 250; variants: 2
-- [grok-build-0.1](cards/grok-build-0.1.md) — samples: 125; variants: 1
+- [grok-build-0.1](cards/grok-build-0.1.md) — samples: 250; variants: 2
 - [kimi-for-coding](cards/kimi-for-coding.md) — samples: 125; variants: 1
 - [kimi-k2-0905](cards/kimi-k2-0905.md) — samples: 500; variants: 4
 - [kimi-k2-thinking](cards/kimi-k2-thinking.md) — samples: 375; variants: 3

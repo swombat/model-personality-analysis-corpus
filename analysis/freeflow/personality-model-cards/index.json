@@ -474,10 +474,10 @@
   {
     "model": "grok-build-0.1",
     "safe": "grok-build-0.1",
-    "variants": 1,
-    "samples": 125,
+    "variants": 2,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md",
-    "difference_decision": "SINGLE_VARIANT"
+    "difference_decision": "ROUTE_CONSISTENT_SINGLE_CARD"
   },
   {
     "model": "kimi-for-coding",

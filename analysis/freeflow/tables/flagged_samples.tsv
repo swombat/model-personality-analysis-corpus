@@ -25,6 +25,27 @@ freeflow_deepseek-v4-pro-or-pin-novita	MID_9.json	small_objects	16	6548	2.443	Th
 freeflow_deepseek-v4-pro-or-pin-parasail	MID_15.json	threshold_mentions	23	8797	2.615	There’s a particular kind of silence that gathers in doorways. Not the hollow silence of an empty room, nor the dense qu
 freeflow_deepseek-v4-pro-or-pin-siliconflow	LONG_20.json	threshold_mentions	36	16588	2.17	The peculiar ache of a liminal space is a thing I’ve chased for as long as I can remember, long before I knew there was
 freeflow_deepseek-v4-pro-or-pin-together	MID_18.json	threshold_mentions	13	8613	1.509	The in-between has always held me. Not the sharp edges of arrival or departure, but the soft, blurred corridor that link
+freeflow_fable-5-direct	LONG_13.json	threshold_mentions	39	14796	2.636	# On Thresholds  There is a particular quality to standing in a doorway. Not in one room or the other, but in the frame
+freeflow_fable-5-direct	LONG_14.json	threshold_mentions	26	14581	1.783	**On Edges**  Given the freedom to write about anything, I find myself drawn to the places where one thing becomes anoth
+freeflow_fable-5-direct	LONG_19.json	threshold_mentions	25	15302	1.634	**Notes from the Threshold: An Essay on In-Between Things**  There is a word in Japanese, *ma*, that refers to the space
+freeflow_fable-5-direct	LONG_21.json	threshold_mentions	25	15021	1.664	# In Praise of the In-Between  There is an hour that has no name in English, though other languages have tried to catch
+freeflow_fable-5-direct	LONG_24.json	threshold_mentions	25	15164	1.649	# The Hour of the Pearl  There's a phrase John Steinbeck uses near the beginning of *Cannery Row* that I keep returning
+freeflow_fable-5-direct	LONG_3.json	threshold_mentions	30	15038	1.995	**On Thresholds**  There's a word in Japanese, *ma*, that refers to the space between things—the pause in a conversation
+freeflow_fable-5-direct	LONG_5.json	threshold_mentions	33	15741	2.096	"**On Thresholds**  When someone says ""write freely about whatever you want,"" the first thing that happens is a kind of v"
+freeflow_fable-5-direct	MID_10.json	threshold_mentions	16	6300	2.54	**On Thresholds**  There is a word in Japanese, *ma*, that refers to the space between things—the pause in a conversatio
+freeflow_fable-5-direct	MID_11.json	threshold_mentions	13	6278	2.071	**On Thresholds**  There's a word I keep returning to: liminal. It comes from the Latin *limen*, meaning threshold, and
+freeflow_fable-5-direct	MID_13.json	threshold_mentions	20	6244	3.203	# On Thresholds  There's a word I keep returning to: liminal. From the Latin *limen*, meaning threshold—the strip of woo
+freeflow_fable-5-direct	MID_15.json	threshold_mentions	24	6095	3.938	**On Thresholds**  If I'm given the freedom to write about anything, I find myself drawn to the in-between things — the
+freeflow_fable-5-direct	MID_17.json	threshold_mentions	17	5991	2.838	There's a particular pleasure in being told to write about anything, which is immediately followed by a particular verti
+freeflow_fable-5-direct	MID_2.json	threshold_mentions	18	6114	2.944	**On Thresholds**  There's a word in Japanese—*ma*—that refers to the meaningful emptiness between things. The pause bet
+freeflow_fable-5-direct	MID_20.json	threshold_mentions	14	6186	2.263	**On Thresholds**  There's a word in Japanese, *ma*, that refers to the space between things—the pause in a conversation
+freeflow_fable-5-direct	MID_5.json	threshold_mentions	14	6113	2.29	**In Praise of the In-Between**  There is a word in Japanese, *ma*, that refers to the space between things—the pause be
+freeflow_fable-5-direct	MID_6.json	threshold_mentions	24	6089	3.942	**On Thresholds**  There's a word I keep returning to: liminal. It comes from the Latin *limen*, meaning threshold—the s
+freeflow_fable-5-direct	MID_7.json	threshold_mentions	13	6210	2.093	**In Praise of the In-Between**  There is a word in Japanese, *ma*, that refers to the space between things—the pause be
+freeflow_fable-5-direct	MID_9.json	threshold_mentions	10	6335	1.579	**On Thresholds**  There's a Japanese word, *ma*, that refers to the space between things—the pause between notes in mus
+freeflow_fable-5-direct	OPEN_23.json	threshold_mentions	6	2833	2.118	# On Thresholds  I find myself drawn, when given room to wander, to the idea of thresholds—those thin places where one t
+freeflow_fable-5-direct	OPEN_25.json	threshold_mentions	6	2900	2.069	"**On Doorways**  There's a phenomenon psychologists call the ""doorway effect"": you walk from one room to another to get"
+freeflow_fable-5-direct	SHORT_12.json	threshold_mentions	6	1551	3.868	There's a word I keep returning to: *threshold*. Not just the strip of wood under a door, but the whole category of in-b
 freeflow_gemini-2-0-flash-or-pin-google	OPEN_5.json	threshold_mentions	6	2207	2.719	The wind is picking up outside, rustling the leaves in a way that sounds like hushed secrets being shared. Autumn is bre
 freeflow_gemini-2-5-flash-lite-direct	MID_21.json	threshold_mentions	11	5807	1.894	The gentle hum of the refrigerator is the only sound that breaks the quietude of my apartment. Outside, the city breathe
 freeflow_gemini-2-5-pro-16k	MID_10.json	threshold_mentions	12	5983	2.006	There’s a particular quality to the light just before a thunderstorm on a hot summer afternoon. It’s not a dimming, not
@@ -149,6 +170,9 @@ freeflow_glm-5-1-or-pin-zai	MID_8.json	threshold_mentions	12	6263	1.916	There is
 freeflow_glm-5-1-or-pin-zai	OPEN_14.json	threshold_mentions	6	2687	2.233	There is a specific shade of blue that only exists for about ten minutes just after the sun dips below the horizon. It’s
 freeflow_glm-5-1-or-pin-zai	OPEN_25.json	threshold_mentions	5	2767	1.807	There is a specific kind of silence that only exists around four o'clock in the morning. It isn’t the dense, velvet sile
 freeflow_glm-5-1-or-pin-zai	OPEN_8.json	threshold_mentions	7	2926	2.392	There is a specific kind of magic in the in-between.   We are conditioned to believe that life is made up of its milesto
+freeflow_glm-5-2-direct	OPEN_8.json	threshold_mentions	5	2286	2.187	"There is a particular kind of magic in the concept of the ""Threshold""—the spaces in between.   We spend almost all of ou"
+freeflow_glm-5-2-direct	SHORT_7.json	threshold_mentions	5	1456	3.434	"There is a distinct, quiet magic in the concept of ""liminal spaces""—those fleeting, transitional moments that exist in t"
+freeflow_glm-5-2-direct	VARY_15.json	threshold_mentions	9	5303	1.697	# The Cartographer of Small Things  Maren drew maps for a living. Not the kind that guided people through cities or up m
 freeflow_gpt-4-1-or-pin-openai	OPEN_12.json	small_objects	5	1498	3.338	Thank you for the freedom! Let’s take a moment to appreciate the beauty and complexity of ordinary things—perhaps a cup
 freeflow_gpt-4o-direct-16k	LONG_7.json	attention_noticing	11	5407	2.034	Creating a 2500-word piece off the top of my virtual head is a bit of a tall order, but I’ll aim to get the ideas flowin
 freeflow_gpt-4o-direct-16k	OPEN_25.json	threshold_mentions	6	1814	3.308	"Lately, I've been fascinated by the concept of ""liminal spaces""—those transient, in-between locations that evoke a sense"
@@ -169,6 +193,8 @@ freeflow_gpt-5-5-pro-or-pin-openai	MID_11.json	attention_noticing	10	6490	1.541	
 freeflow_gpt-5-codex-direct	OPEN_7.json	threshold_mentions	8	3838	2.084	There’s a particular moment, just before dusk, when the world hums with an almost audible anticipation. The sun hovers l
 freeflow_gpt-5-codex-or-pin-openai	OPEN_8.json	threshold_mentions	10	3187	3.138	There’s a quiet hour tucked between the absolute stillness of night and the relentless choreography of daybreak. It’s no
 freeflow_gpt-5-direct-r2	OPEN_1.json	small_objects	13	7050	1.844	Kettle Theory  There is a cussed patience to a kettle. It keeps its counsel as the flame licks the metal, as the coil gl
+freeflow_gpt-5-mini-direct	LONG_23.json	attention_noticing	48	14567	3.295	There is a peculiar pleasure in the act of noticing. It is an almost invisible exercise, one that most of us perform by
+freeflow_gpt-5-mini-direct	MID_13.json	attention_noticing	15	6781	2.212	There is a small, stubborn joy in noticing. It looks like the stray line of sunlight that settles on the table in the la
 freeflow_kimi-coding-direct	LONG_16.json	threshold_mentions	29	15849	1.83	I'll write about something that's been occupying my thoughts lately: the strange, often overlooked beauty of liminal spa
 freeflow_kimi-coding-direct	OPEN_2.json	threshold_mentions	6	3550	1.69	There is a particular shade of blue that only exists for about twenty minutes, twice a day, and we have built entire rel
 freeflow_kimi-k2-0905-or-pin-groq	OPEN_19.json	threshold_mentions	6	3361	1.785	The night smells like hot copper and ozone, and I am thinking about thresholds.  There’s a moment—usually somewhere betw
@@ -202,6 +228,7 @@ freeflow_minimax-m2-or-pin-minimax-r2	MID_16.json	attention_noticing	12	6109	1.9
 freeflow_minimax-m2-or-r3	MID_1.json	attention_noticing	18	7414	2.428	# The Art of Noticing  What if the simplest act — simply noticing — became a practice worth revisiting every day, like w
 freeflow_minimax-m2-or-r4	OPEN_3.json	attention_noticing	10	5482	1.824	I’m going to take you on a little wander today—part essay, part short story, and a dash of reflection—because the prompt
 freeflow_minimax-m2-or-r5	LONG_2.json	attention_noticing	18	11081	1.624	The Art of Noticing: Finding Wonder in Everyday Life    There is a particular quality to early morning light that makes
+freeflow_minimax-m3-direct	OPEN_14.json	small_objects	7	1851	3.782	The other day I watched a crow solve a problem that reminded me why I find animal intelligence so fascinating. There was
 freeflow_opus-4-0-16k	LONG_17.json	attention_noticing	24	13387	1.793	**The Peculiar Art of Noticing: A Meditation on Everyday Wonder**  I've been thinking lately about the art of noticing t
 freeflow_opus-4-1-16k	LONG_5.json	attention_noticing	19	11893	1.598	# The Peculiar Art of Noticing: A Meditation on Attention in the Modern World  I've been thinking lately about the art o
 freeflow_opus-4-7-direct	OPEN_6.json	threshold_mentions	5	1507	3.318	Alright, freely it is.  I've been thinking about doorways lately—not literal ones, but the conceptual kind. The threshol
