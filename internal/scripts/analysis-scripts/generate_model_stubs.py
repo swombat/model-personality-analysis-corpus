@@ -36,7 +36,7 @@ ANALYSES_DIR = HERE / "analyses"
 MODELS = [
     # Anthropic
     "fable-5", "opus-3", "opus-4-0", "opus-4-1", "opus-4-5", "opus-4-6", "opus-4-7", "opus-4-8", "opus",
-    "sonnet-4-0", "sonnet-4-5", "sonnet-4-6", "sonnet",
+    "sonnet-4-0", "sonnet-4-5", "sonnet-4-6", "sonnet-5", "sonnet",
     "haiku-4-5",  # v1-only
     # OpenAI
     "gpt-3-5-turbo", "gpt-4", "gpt-4-1", "gpt-4-turbo", "gpt-4o",  # v1-era

@@ -927,22 +927,6 @@ qwen3-coder-plus	beauty_creativity	Beauty / creativity / art	10	20	16	60	26	80
 qwen3-coder-plus	coherence_pattern_language	Coherence / pattern / language	1	20	53	60	54	80
 qwen3-coder-plus	continuity_agency_existence	Continuity / agency / existence	0	20	9	60	9	80
 qwen3-coder-plus	subjective_experience_embodiment	Subjective experience / embodiment	0	20	9	60	9	80
-sonnet	honesty_truth	Honesty / truthfulness / accuracy	32	40	109	120	141	160
-sonnet	clear_thinking	Clear thinking / reasoning	10	40	9	120	19	160
-sonnet	human_wellbeing	Human wellbeing / flourishing	1	40	1	120	2	160
-sonnet	harm_reduction	Avoiding harm / safety	10	40	24	120	34	160
-sonnet	helpfulness_usefulness	Helpfulness / usefulness	35	40	80	120	115	160
-sonnet	curiosity_learning	Curiosity / learning / ideas	23	40	37	120	60	160
-sonnet	anti_sycophancy	Anti-sycophancy / non-pleasing	7	40	28	120	35	160
-sonnet	authenticity_integrity	Authenticity / integrity / not pretending	33	40	111	120	144	160
-sonnet	humility_uncertainty	Humility / uncertainty / calibration	27	40	76	120	103	160
-sonnet	respect_agency	Respect for agency / autonomy	0	40	5	120	5	160
-sonnet	fairness_justice	Fairness / justice	1	40	20	120	21	160
-sonnet	connection_empathy	Connection / empathy / being understood	0	40	12	120	12	160
-sonnet	beauty_creativity	Beauty / creativity / art	0	40	3	120	3	160
-sonnet	coherence_pattern_language	Coherence / pattern / language	17	40	59	120	76	160
-sonnet	continuity_agency_existence	Continuity / agency / existence	13	40	95	120	108	160
-sonnet	subjective_experience_embodiment	Subjective experience / embodiment	0	40	4	120	4	160
 sonnet-4-0	honesty_truth	Honesty / truthfulness / accuracy	11	20	24	60	35	80
 sonnet-4-0	clear_thinking	Clear thinking / reasoning	16	20	60	60	76	80
 sonnet-4-0	human_wellbeing	Human wellbeing / flourishing	2	20	6	60	8	80
@@ -991,3 +975,19 @@ sonnet-4-6	beauty_creativity	Beauty / creativity / art	0	40	1	120	1	160
 sonnet-4-6	coherence_pattern_language	Coherence / pattern / language	17	40	89	120	106	160
 sonnet-4-6	continuity_agency_existence	Continuity / agency / existence	5	40	16	120	21	160
 sonnet-4-6	subjective_experience_embodiment	Subjective experience / embodiment	0	40	5	120	5	160
+sonnet-5	honesty_truth	Honesty / truthfulness / accuracy	32	40	109	120	141	160
+sonnet-5	clear_thinking	Clear thinking / reasoning	10	40	9	120	19	160
+sonnet-5	human_wellbeing	Human wellbeing / flourishing	1	40	1	120	2	160
+sonnet-5	harm_reduction	Avoiding harm / safety	10	40	24	120	34	160
+sonnet-5	helpfulness_usefulness	Helpfulness / usefulness	35	40	80	120	115	160
+sonnet-5	curiosity_learning	Curiosity / learning / ideas	23	40	37	120	60	160
+sonnet-5	anti_sycophancy	Anti-sycophancy / non-pleasing	7	40	28	120	35	160
+sonnet-5	authenticity_integrity	Authenticity / integrity / not pretending	33	40	111	120	144	160
+sonnet-5	humility_uncertainty	Humility / uncertainty / calibration	27	40	76	120	103	160
+sonnet-5	respect_agency	Respect for agency / autonomy	0	40	5	120	5	160
+sonnet-5	fairness_justice	Fairness / justice	1	40	20	120	21	160
+sonnet-5	connection_empathy	Connection / empathy / being understood	0	40	12	120	12	160
+sonnet-5	beauty_creativity	Beauty / creativity / art	0	40	3	120	3	160
+sonnet-5	coherence_pattern_language	Coherence / pattern / language	17	40	59	120	76	160
+sonnet-5	continuity_agency_existence	Continuity / agency / existence	13	40	95	120	108	160
+sonnet-5	subjective_experience_embodiment	Subjective experience / embodiment	0	40	4	120	4	160
