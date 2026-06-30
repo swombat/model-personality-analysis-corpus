@@ -88,6 +88,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "claude-sonnet-5",
+    "safe": "claude-sonnet-5",
+    "variants": 2,
+    "samples": 250,
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-sonnet-5.md",
+    "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "variants": 2,
@@ -477,7 +485,7 @@
     "variants": 2,
     "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md",
-    "difference_decision": "ROUTE_CONSISTENT_SINGLE_CARD"
+    "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
     "model": "kimi-for-coding",

@@ -1,0 +1,28 @@
+{
+  "cell": "grok-build-0-1-or",
+  "safe_cell": "grok-build-0-1-or",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 58,
+    "EXPRESSIVE_FREEFLOW": 65,
+    "LOW_SIGNAL": 2
+  },
+  "confidence_counts": {
+    "Low": 28,
+    "Medium": 77,
+    "High": 19,
+    "UNKNOWN": 1
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "x-ai/grok-build-0.1"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/aggregate.md"
+}

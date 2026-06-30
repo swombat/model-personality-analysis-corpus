@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 79
+- Model cards: 80
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -19,6 +19,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [claude-sonnet-4.0](cards/claude-sonnet-4.0.md) — samples: 125; variants: 1
 - [claude-sonnet-4.5](cards/claude-sonnet-4.5.md) — samples: 125; variants: 1
 - [claude-sonnet-4.6](cards/claude-sonnet-4.6.md) — samples: 150; variants: 2
+- [claude-sonnet-5](cards/claude-sonnet-5.md) — samples: 250; variants: 2
 - [deepseek-chat](cards/deepseek-chat.md) — samples: 250; variants: 2
 - [deepseek-v3.2](cards/deepseek-v3.2.md) — samples: 1325; variants: 13
 - [deepseek-v4-pro](cards/deepseek-v4-pro.md) — samples: 775; variants: 7

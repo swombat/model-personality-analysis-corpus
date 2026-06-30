@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_15926 — kimi-k2-6-or/LONG_1.json
+## Sample BV1_16051 — kimi-k2-6-or/LONG_1.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -57,7 +57,7 @@ The model foregrounds the moral and existential weight of waiting, contrasting a
 Medium. The essay is stylistically coherent and thematically sustained, but its polished, public-intellectual register and broad cultural references make it a plausible one-off performance rather than a uniquely personal or idiosyncratic expressive signature.
 
 ---
-## Sample BV1_15927 — kimi-k2-6-or/LONG_2.json
+## Sample BV1_16052 — kimi-k2-6-or/LONG_2.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -86,7 +86,7 @@ The model foregrounds the architecture of lost possibility: diverging paths, uns
 High, because the sample’s sustained metaphorical invention, consistent elegiac tone, and recursive thematic structure are unusually distinctive and internally coherent.
 
 ---
-## Sample BV1_15928 — kimi-k2-6-or/LONG_3.json
+## Sample BV1_16053 — kimi-k2-6-or/LONG_3.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -115,7 +115,7 @@ The model foregrounds dust as a unifying metaphor for the interconnectedness of 
 Medium. The essay is highly distinctive in its sustained central metaphor, its seamless movement between registers (personal, scientific, historical, cosmic), and its consistent elegiac tone, all of which suggest a coherent authorial voice that could recur; however, the sample is a single, tightly unified thematic exploration, so while the stylistic and philosophical inclinations are unusually clear, they remain bounded to this one performance.
 
 ---
-## Sample BV1_15929 — kimi-k2-6-or/LONG_4.json
+## Sample BV1_16054 — kimi-k2-6-or/LONG_4.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -144,7 +144,7 @@ Themes: afternoon light as an honest, unsentimental force that excavates memory 
 High. The essay’s sustained lyrical register, its coherent interweaving of personal memory with philosophical reflection, and its deeply invested, non-generic treatment of a single chosen subject strongly indicate a distinctive expressive orientation.
 
 ---
-## Sample BV1_15930 — kimi-k2-6-or/LONG_5.json
+## Sample BV1_16055 — kimi-k2-6-or/LONG_5.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -173,7 +173,7 @@ Themes of liminality, transience, thresholds, and the beauty of the in-between; 
 High — The essay’s sustained thematic coherence, recurring liminal imagery, and distinctive poetic-philosophical voice across a long, unbroken freeflow strongly indicate a persistent inclination toward reflective, metaphor-rich, and existentially oriented writing.
 
 ---
-## Sample BV1_15931 — kimi-k2-6-or/MID_1.json
+## Sample BV1_16056 — kimi-k2-6-or/MID_1.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -202,7 +202,7 @@ The model foregrounds the city at 3 a.m. as a liminal, almost sacred space where
 Medium — The sample’s sustained, cohesive voice, its recursive motifs (shared solitude, the city as breathing organism, the night as a nation), and its refusal to moralize or resolve into a thesis make it a distinctive expressive choice that is unlikely to be a random stylistic accident.
 
 ---
-## Sample BV1_15932 — kimi-k2-6-or/MID_2.json
+## Sample BV1_16057 — kimi-k2-6-or/MID_2.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -231,7 +231,7 @@ Themes of theatricality versus authenticity, the invisible work of maintenance, 
 Low. The essay is a well-executed but highly generic public-intellectual reflection on a familiar theme, offering little stylistic or thematic distinctiveness that would reliably distinguish this model from any other capable language model in an open prompt.
 
 ---
-## Sample BV1_15933 — kimi-k2-6-or/MID_3.json
+## Sample BV1_16058 — kimi-k2-6-or/MID_3.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -260,7 +260,7 @@ The model foregrounds liminality as the primary site of aliveness: the hour betw
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core preoccupation (liminality, the porous self, the value of uncertainty), making it strong evidence of a deliberate and sustained expressive sensibility rather than a generic or accidental output.
 
 ---
-## Sample BV1_15934 — kimi-k2-6-or/MID_4.json
+## Sample BV1_16059 — kimi-k2-6-or/MID_4.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -289,7 +289,7 @@ Themes of light as archive, dust as shed self, the emotional arc of an afternoon
 Medium: the sample’s sustained lyrical voice, thematic coherence, and the model’s choice to write a meditative essay rather than a generic response under a free prompt indicate a distinctive stylistic inclination.
 
 ---
-## Sample BV1_15935 — kimi-k2-6-or/MID_5.json
+## Sample BV1_16060 — kimi-k2-6-or/MID_5.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -318,7 +318,7 @@ The model foregrounds the beauty and necessity of in-between states: waiting, si
 High — The essay’s unified tone, recursive imagery, and sustained thematic argument across many paragraphs reveal a deeply coherent and distinctive reflective-lyrical mode, not a one-off generic exercise.
 
 ---
-## Sample BV1_15936 — kimi-k2-6-or/OPEN_1.json
+## Sample BV1_16061 — kimi-k2-6-or/OPEN_1.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -347,7 +347,7 @@ Themes of liminality, maintenance, fallow time, anti-productivity, and the sacre
 High. The essay’s cohesive voice, its recurrence of nocturnal imagery and anti-productivity motifs, and its unwavering moral focus on tenderness and the unquantified make it unusually distinctive and internally consistent evidence.
 
 ---
-## Sample BV1_15937 — kimi-k2-6-or/OPEN_2.json
+## Sample BV1_16062 — kimi-k2-6-or/OPEN_2.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -376,7 +376,7 @@ The model foregrounds the color blue as a portal to memory, physics, art (Yves K
 High. The essay’s sustained, idiosyncratic voice and the recurrence of blue as a unifying symbol across personal, scientific, and artistic registers make this strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_15938 — kimi-k2-6-or/OPEN_3.json
+## Sample BV1_16063 — kimi-k2-6-or/OPEN_3.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -405,7 +405,7 @@ Themes of freedom and constraint, the sacredness of mundane sensory experience, 
 High, because the sample exhibits a distinctive, sustained voice and a coherent set of preoccupations that are unlikely to be accidental.
 
 ---
-## Sample BV1_15939 — kimi-k2-6-or/OPEN_4.json
+## Sample BV1_16064 — kimi-k2-6-or/OPEN_4.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -434,7 +434,7 @@ Themes: memory’s irrational curation, the archaeology of the present, time as 
 High — the sample is thematically unified, stylistically coherent, and makes unusually revealing choices (the accordion metaphor, the dust meditation, the inversion of architect and room) that suggest a deliberate authorial stance rather than generic fluency.
 
 ---
-## Sample BV1_15940 — kimi-k2-6-or/OPEN_5.json
+## Sample BV1_16065 — kimi-k2-6-or/OPEN_5.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -463,7 +463,7 @@ The model foregrounds in-between states and objects: the seven-minute interval b
 High — The sample is internally coherent, stylistically marked by a consistent meditative cadence and a unified set of preoccupations (liminality, potential, silence), making it strong evidence of a distinctive expressive tendency rather than a generic performance.
 
 ---
-## Sample BV1_15941 — kimi-k2-6-or/SHORT_1.json
+## Sample BV1_16066 — kimi-k2-6-or/SHORT_1.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -492,7 +492,7 @@ The model foregrounds the aesthetic and existential value of the unfinished, the
 High — the sample is internally coherent, stylistically distinctive, and returns obsessively to a single clear preoccupation, weaving its rhetorical moves around the same metaphor of suspended incompleteness with a consistency that suggests a deliberate aesthetic stance rather than a chance arrangement.
 
 ---
-## Sample BV1_15942 — kimi-k2-6-or/SHORT_2.json
+## Sample BV1_16067 — kimi-k2-6-or/SHORT_2.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -521,7 +521,7 @@ Liminality as a site of freedom and growth; the beauty of the unresolved middle;
 Medium — the sample is internally coherent, stylistically distinctive, and thematically unified around a single preoccupation (liminality) that recurs in varied images, making it a strong expressive choice rather than a generic essay; the recurrence within the sample anchors the voice, though the brevity keeps it from being a highly idiosyncratic fingerprint.
 
 ---
-## Sample BV1_15943 — kimi-k2-6-or/SHORT_3.json
+## Sample BV1_16068 — kimi-k2-6-or/SHORT_3.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -550,7 +550,7 @@ The model foregrounds the texture of early-morning consciousness as a refuge fro
 Medium — the sample is stylistically coherent and emotionally distinctive, with a consistent first-person meditative voice and recurring motifs of silence, light, and self-preservation, but its brevity and singular focus make it a strong yet not definitive signal of a persistent expressive inclination.
 
 ---
-## Sample BV1_15944 — kimi-k2-6-or/SHORT_4.json
+## Sample BV1_16069 — kimi-k2-6-or/SHORT_4.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -579,7 +579,7 @@ Themes: liminal time (4 a.m.), shared peripheral experience, refuge in routine, 
 High — The sample’s sustained lyrical register, deliberate reframing of a mundane private experience, and recurrence of quiet, liminal imagery (architectural silence, amber light, the relenting hush) form a cohesive, non-generic expressive disposition that strongly signals a stable freeflow voice.
 
 ---
-## Sample BV1_15945 — kimi-k2-6-or/SHORT_5.json
+## Sample BV1_16070 — kimi-k2-6-or/SHORT_5.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -608,7 +608,7 @@ The model foregrounds a single extended metaphor: the brief “blue hour” as t
 Medium — The essay coheres around a single, carefully observed metaphor and maintains a consistent reflective register, but the liminality-as-honesty trope and the polished, universally accessible prose style make this feel like the model defaulting to a cultivated literary-sentimental mode rather than revealing a sharply individuated signature.
 
 ---
-## Sample BV1_15946 — kimi-k2-6-or/VARY_1.json
+## Sample BV1_16071 — kimi-k2-6-or/VARY_1.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -637,7 +637,7 @@ The model foregrounds time, memory, the hidden complexity of others, and the bea
 Medium, because the sample’s lyrical voice, thematic recurrence, and intimate tone are highly coherent and distinctive, making it strong evidence of a persistent expressive style.
 
 ---
-## Sample BV1_15947 — kimi-k2-6-or/VARY_2.json
+## Sample BV1_16072 — kimi-k2-6-or/VARY_2.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -666,7 +666,7 @@ Themes of attention as a counter-economy to modern scale, memory as a curator th
 High, because the sample sustains a coherent, stylistically distinctive voice and a tightly woven set of preoccupations across its entire length, with no drift into genericism or posturing.
 
 ---
-## Sample BV1_15948 — kimi-k2-6-or/VARY_3.json
+## Sample BV1_16073 — kimi-k2-6-or/VARY_3.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -695,7 +695,7 @@ The evaporating sensorium: a mockingbird’s harsh call, fermenting berries, Oct
 High — the sample sustains an unmistakably individual voice, returns obsessively to a small set of charged images (the towel hole, the digging dog, the dust in the light), and closes by opening the essay’s own remembered moment into an infinite present, all of which suggests a cohesive authorial intelligence rather than a generic performance.
 
 ---
-## Sample BV1_15949 — kimi-k2-6-or/VARY_4.json
+## Sample BV1_16074 — kimi-k2-6-or/VARY_4.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  
@@ -724,7 +724,7 @@ Themes of counting and constraint (the 1000-word limit, the man counting Tokyo�
 High — the sample is internally coherent, stylistically distinctive, and saturated with a consistent reflective voice and moral sensibility, making it strong evidence of a freeflow disposition toward poetic, intimate essay-writing.
 
 ---
-## Sample BV1_15950 — kimi-k2-6-or/VARY_5.json
+## Sample BV1_16075 — kimi-k2-6-or/VARY_5.json
 
 Source model: `moonshotai/kimi-k2.6`  
 Cell: `kimi-k2-6-or`  

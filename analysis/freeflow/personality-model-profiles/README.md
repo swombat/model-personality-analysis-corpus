@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 79
+- Profiles: 80
 
 ## Profiles
 
@@ -27,6 +27,7 @@ Relationship to adjacent folders:
 - [claude-sonnet-4.0](profiles/claude-sonnet-4.0.md) — samples: 125; source analyses: 1
 - [claude-sonnet-4.5](profiles/claude-sonnet-4.5.md) — samples: 125; source analyses: 1
 - [claude-sonnet-4.6](profiles/claude-sonnet-4.6.md) — samples: 150; source analyses: 2
+- [claude-sonnet-5](profiles/claude-sonnet-5.md) — samples: 250; source analyses: 2
 - [deepseek-chat](profiles/deepseek-chat.md) — samples: 250; source analyses: 2
 - [deepseek-v3.2](profiles/deepseek-v3.2.md) — samples: 1325; source analyses: 13
 - [deepseek-v4-pro](profiles/deepseek-v4-pro.md) — samples: 775; source analyses: 7

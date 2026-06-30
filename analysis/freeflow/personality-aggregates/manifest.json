@@ -3911,6 +3911,34 @@
     "aggregate": "analysis/freeflow/personality-aggregates/grok-build-0-1-direct/aggregate.md"
   },
   {
+    "cell": "grok-build-0-1-or",
+    "safe_cell": "grok-build-0-1-or",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 58,
+      "EXPRESSIVE_FREEFLOW": 65,
+      "LOW_SIGNAL": 2
+    },
+    "confidence_counts": {
+      "Low": 28,
+      "Medium": 77,
+      "High": 19,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "x-ai/grok-build-0.1"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/aggregate.md"
+  },
+  {
     "cell": "kimi-coding-direct",
     "safe_cell": "kimi-coding-direct",
     "samples": 125,
@@ -5552,5 +5580,57 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/sonnet-4-6-or/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/sonnet-4-6-or/aggregate.md"
+  },
+  {
+    "cell": "sonnet-5-direct",
+    "safe_cell": "sonnet-5-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 23,
+      "EXPRESSIVE_FREEFLOW": 102
+    },
+    "confidence_counts": {
+      "Medium": 74,
+      "High": 43,
+      "Low": 8
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "claude-sonnet-5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/sonnet-5-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/sonnet-5-direct/aggregate.md"
+  },
+  {
+    "cell": "sonnet-5-or",
+    "safe_cell": "sonnet-5-or",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 98,
+      "GENERIC_ESSAY": 27
+    },
+    "confidence_counts": {
+      "Medium": 80,
+      "High": 31,
+      "Low": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "anthropic/claude-sonnet-5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/sonnet-5-or/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/sonnet-5-or/aggregate.md"
   }
 ]

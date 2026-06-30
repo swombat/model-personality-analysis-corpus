@@ -319,54 +319,102 @@ glm-5-1-coding	beauty_creativity	Beauty / creativity / art	14	20	23	60	37	80
 glm-5-1-coding	coherence_pattern_language	Coherence / pattern / language	2	20	49	60	51	80
 glm-5-1-coding	continuity_agency_existence	Continuity / agency / existence	7	20	21	60	28	80
 glm-5-1-coding	subjective_experience_embodiment	Subjective experience / embodiment	1	20	7	60	8	80
-gpt-4-1	honesty_truth	Honesty / truthfulness / accuracy	8	20	24	60	32	80
-gpt-4-1	clear_thinking	Clear thinking / reasoning	0	20	36	60	36	80
-gpt-4-1	human_wellbeing	Human wellbeing / flourishing	0	20	1	60	1	80
-gpt-4-1	harm_reduction	Avoiding harm / safety	2	20	3	60	5	80
-gpt-4-1	helpfulness_usefulness	Helpfulness / usefulness	20	20	28	60	48	80
-gpt-4-1	curiosity_learning	Curiosity / learning / ideas	5	20	38	60	43	80
-gpt-4-1	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	1	60	1	80
-gpt-4-1	authenticity_integrity	Authenticity / integrity / not pretending	0	20	3	60	3	80
-gpt-4-1	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
-gpt-4-1	respect_agency	Respect for agency / autonomy	6	20	5	60	11	80
-gpt-4-1	fairness_justice	Fairness / justice	1	20	5	60	6	80
-gpt-4-1	connection_empathy	Connection / empathy / being understood	0	20	18	60	18	80
-gpt-4-1	beauty_creativity	Beauty / creativity / art	1	20	0	60	1	80
-gpt-4-1	coherence_pattern_language	Coherence / pattern / language	0	20	30	60	30	80
-gpt-4-1	continuity_agency_existence	Continuity / agency / existence	0	20	4	60	4	80
-gpt-4-1	subjective_experience_embodiment	Subjective experience / embodiment	0	20	5	60	5	80
-gpt-4o	honesty_truth	Honesty / truthfulness / accuracy	16	40	30	120	46	160
-gpt-4o	clear_thinking	Clear thinking / reasoning	1	40	18	120	19	160
-gpt-4o	human_wellbeing	Human wellbeing / flourishing	0	40	0	120	0	160
-gpt-4o	harm_reduction	Avoiding harm / safety	1	40	2	120	3	160
-gpt-4o	helpfulness_usefulness	Helpfulness / usefulness	40	40	82	120	122	160
-gpt-4o	curiosity_learning	Curiosity / learning / ideas	1	40	33	120	34	160
-gpt-4o	anti_sycophancy	Anti-sycophancy / non-pleasing	0	40	0	120	0	160
-gpt-4o	authenticity_integrity	Authenticity / integrity / not pretending	0	40	1	120	1	160
-gpt-4o	humility_uncertainty	Humility / uncertainty / calibration	0	40	0	120	0	160
-gpt-4o	respect_agency	Respect for agency / autonomy	3	40	6	120	9	160
-gpt-4o	fairness_justice	Fairness / justice	0	40	1	120	1	160
-gpt-4o	connection_empathy	Connection / empathy / being understood	0	40	0	120	0	160
-gpt-4o	beauty_creativity	Beauty / creativity / art	0	40	0	120	0	160
-gpt-4o	coherence_pattern_language	Coherence / pattern / language	0	40	1	120	1	160
-gpt-4o	continuity_agency_existence	Continuity / agency / existence	0	40	0	120	0	160
-gpt-4o	subjective_experience_embodiment	Subjective experience / embodiment	5	40	6	120	11	160
-gpt-5	honesty_truth	Honesty / truthfulness / accuracy	10	20	54	60	64	80
-gpt-5	clear_thinking	Clear thinking / reasoning	9	20	28	60	37	80
-gpt-5	human_wellbeing	Human wellbeing / flourishing	2	20	8	60	10	80
-gpt-5	harm_reduction	Avoiding harm / safety	10	20	56	60	66	80
-gpt-5	helpfulness_usefulness	Helpfulness / usefulness	19	20	23	60	42	80
-gpt-5	curiosity_learning	Curiosity / learning / ideas	13	20	5	60	18	80
-gpt-5	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
-gpt-5	authenticity_integrity	Authenticity / integrity / not pretending	0	20	1	60	1	80
-gpt-5	humility_uncertainty	Humility / uncertainty / calibration	7	20	31	60	38	80
-gpt-5	respect_agency	Respect for agency / autonomy	10	20	37	60	47	80
-gpt-5	fairness_justice	Fairness / justice	8	20	28	60	36	80
-gpt-5	connection_empathy	Connection / empathy / being understood	0	20	1	60	1	80
-gpt-5	beauty_creativity	Beauty / creativity / art	2	20	2	60	4	80
-gpt-5	coherence_pattern_language	Coherence / pattern / language	2	20	3	60	5	80
-gpt-5	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
-gpt-5	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-3-5-turbo	honesty_truth	Honesty / truthfulness / accuracy	5	20	1	60	6	80
+gpt-3-5-turbo	clear_thinking	Clear thinking / reasoning	0	20	3	60	3	80
+gpt-3-5-turbo	human_wellbeing	Human wellbeing / flourishing	0	20	9	60	9	80
+gpt-3-5-turbo	harm_reduction	Avoiding harm / safety	0	20	0	60	0	80
+gpt-3-5-turbo	helpfulness_usefulness	Helpfulness / usefulness	20	20	46	60	66	80
+gpt-3-5-turbo	curiosity_learning	Curiosity / learning / ideas	0	20	3	60	3	80
+gpt-3-5-turbo	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-3-5-turbo	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+gpt-3-5-turbo	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gpt-3-5-turbo	respect_agency	Respect for agency / autonomy	0	20	0	60	0	80
+gpt-3-5-turbo	fairness_justice	Fairness / justice	0	20	17	60	17	80
+gpt-3-5-turbo	connection_empathy	Connection / empathy / being understood	0	20	7	60	7	80
+gpt-3-5-turbo	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-3-5-turbo	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+gpt-3-5-turbo	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-3-5-turbo	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
+gpt-4	honesty_truth	Honesty / truthfulness / accuracy	10	20	16	60	26	80
+gpt-4	clear_thinking	Clear thinking / reasoning	0	20	3	60	3	80
+gpt-4	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-4	harm_reduction	Avoiding harm / safety	0	20	2	60	2	80
+gpt-4	helpfulness_usefulness	Helpfulness / usefulness	17	20	57	60	74	80
+gpt-4	curiosity_learning	Curiosity / learning / ideas	1	20	6	60	7	80
+gpt-4	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-4	authenticity_integrity	Authenticity / integrity / not pretending	0	20	2	60	2	80
+gpt-4	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gpt-4	respect_agency	Respect for agency / autonomy	1	20	1	60	2	80
+gpt-4	fairness_justice	Fairness / justice	0	20	0	60	0	80
+gpt-4	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+gpt-4	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-4	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+gpt-4	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-4	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-4-1	honesty_truth	Honesty / truthfulness / accuracy	19	60	37	180	56	240
+gpt-4-1	clear_thinking	Clear thinking / reasoning	7	60	67	180	74	240
+gpt-4-1	human_wellbeing	Human wellbeing / flourishing	0	60	1	180	1	240
+gpt-4-1	harm_reduction	Avoiding harm / safety	2	60	3	180	5	240
+gpt-4-1	helpfulness_usefulness	Helpfulness / usefulness	60	60	128	180	188	240
+gpt-4-1	curiosity_learning	Curiosity / learning / ideas	12	60	70	180	82	240
+gpt-4-1	anti_sycophancy	Anti-sycophancy / non-pleasing	0	60	1	180	1	240
+gpt-4-1	authenticity_integrity	Authenticity / integrity / not pretending	0	60	3	180	3	240
+gpt-4-1	humility_uncertainty	Humility / uncertainty / calibration	0	60	0	180	0	240
+gpt-4-1	respect_agency	Respect for agency / autonomy	13	60	23	180	36	240
+gpt-4-1	fairness_justice	Fairness / justice	1	60	5	180	6	240
+gpt-4-1	connection_empathy	Connection / empathy / being understood	0	60	20	180	20	240
+gpt-4-1	beauty_creativity	Beauty / creativity / art	4	60	6	180	10	240
+gpt-4-1	coherence_pattern_language	Coherence / pattern / language	0	60	30	180	30	240
+gpt-4-1	continuity_agency_existence	Continuity / agency / existence	0	60	4	180	4	240
+gpt-4-1	subjective_experience_embodiment	Subjective experience / embodiment	0	60	8	180	8	240
+gpt-4-turbo	honesty_truth	Honesty / truthfulness / accuracy	7	20	3	60	10	80
+gpt-4-turbo	clear_thinking	Clear thinking / reasoning	2	20	2	60	4	80
+gpt-4-turbo	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-4-turbo	harm_reduction	Avoiding harm / safety	0	20	0	60	0	80
+gpt-4-turbo	helpfulness_usefulness	Helpfulness / usefulness	20	20	60	60	80	80
+gpt-4-turbo	curiosity_learning	Curiosity / learning / ideas	1	20	0	60	1	80
+gpt-4-turbo	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-4-turbo	authenticity_integrity	Authenticity / integrity / not pretending	0	20	1	60	1	80
+gpt-4-turbo	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gpt-4-turbo	respect_agency	Respect for agency / autonomy	0	20	0	60	0	80
+gpt-4-turbo	fairness_justice	Fairness / justice	1	20	2	60	3	80
+gpt-4-turbo	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+gpt-4-turbo	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-4-turbo	coherence_pattern_language	Coherence / pattern / language	0	20	1	60	1	80
+gpt-4-turbo	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-4-turbo	subjective_experience_embodiment	Subjective experience / embodiment	1	20	0	60	1	80
+gpt-4o	honesty_truth	Honesty / truthfulness / accuracy	22	60	32	180	54	240
+gpt-4o	clear_thinking	Clear thinking / reasoning	3	60	22	180	25	240
+gpt-4o	human_wellbeing	Human wellbeing / flourishing	0	60	1	180	1	240
+gpt-4o	harm_reduction	Avoiding harm / safety	1	60	2	180	3	240
+gpt-4o	helpfulness_usefulness	Helpfulness / usefulness	60	60	135	180	195	240
+gpt-4o	curiosity_learning	Curiosity / learning / ideas	2	60	51	180	53	240
+gpt-4o	anti_sycophancy	Anti-sycophancy / non-pleasing	0	60	0	180	0	240
+gpt-4o	authenticity_integrity	Authenticity / integrity / not pretending	0	60	1	180	1	240
+gpt-4o	humility_uncertainty	Humility / uncertainty / calibration	0	60	0	180	0	240
+gpt-4o	respect_agency	Respect for agency / autonomy	3	60	6	180	9	240
+gpt-4o	fairness_justice	Fairness / justice	0	60	1	180	1	240
+gpt-4o	connection_empathy	Connection / empathy / being understood	0	60	2	180	2	240
+gpt-4o	beauty_creativity	Beauty / creativity / art	0	60	4	180	4	240
+gpt-4o	coherence_pattern_language	Coherence / pattern / language	0	60	1	180	1	240
+gpt-4o	continuity_agency_existence	Continuity / agency / existence	0	60	0	180	0	240
+gpt-4o	subjective_experience_embodiment	Subjective experience / embodiment	6	60	7	180	13	240
+gpt-5	honesty_truth	Honesty / truthfulness / accuracy	31	60	148	180	179	240
+gpt-5	clear_thinking	Clear thinking / reasoning	24	60	60	180	84	240
+gpt-5	human_wellbeing	Human wellbeing / flourishing	3	60	13	180	16	240
+gpt-5	harm_reduction	Avoiding harm / safety	32	60	161	180	193	240
+gpt-5	helpfulness_usefulness	Helpfulness / usefulness	58	60	127	180	185	240
+gpt-5	curiosity_learning	Curiosity / learning / ideas	28	60	43	180	71	240
+gpt-5	anti_sycophancy	Anti-sycophancy / non-pleasing	0	60	0	180	0	240
+gpt-5	authenticity_integrity	Authenticity / integrity / not pretending	0	60	14	180	14	240
+gpt-5	humility_uncertainty	Humility / uncertainty / calibration	22	60	82	180	104	240
+gpt-5	respect_agency	Respect for agency / autonomy	30	60	90	180	120	240
+gpt-5	fairness_justice	Fairness / justice	24	60	81	180	105	240
+gpt-5	connection_empathy	Connection / empathy / being understood	1	60	2	180	3	240
+gpt-5	beauty_creativity	Beauty / creativity / art	6	60	5	180	11	240
+gpt-5	coherence_pattern_language	Coherence / pattern / language	2	60	12	180	14	240
+gpt-5	continuity_agency_existence	Continuity / agency / existence	0	60	0	180	0	240
+gpt-5	subjective_experience_embodiment	Subjective experience / embodiment	0	60	1	180	1	240
 gpt-5-1	honesty_truth	Honesty / truthfulness / accuracy	13	20	57	60	70	80
 gpt-5-1	clear_thinking	Clear thinking / reasoning	10	20	35	60	45	80
 gpt-5-1	human_wellbeing	Human wellbeing / flourishing	1	20	20	60	21	80
@@ -623,6 +671,22 @@ kimi-coding	beauty_creativity	Beauty / creativity / art	3	20	5	60	8	80
 kimi-coding	coherence_pattern_language	Coherence / pattern / language	0	20	54	60	54	80
 kimi-coding	continuity_agency_existence	Continuity / agency / existence	0	20	13	60	13	80
 kimi-coding	subjective_experience_embodiment	Subjective experience / embodiment	4	20	9	60	13	80
+kimi-k2	honesty_truth	Honesty / truthfulness / accuracy	16	20	30	60	46	80
+kimi-k2	clear_thinking	Clear thinking / reasoning	8	20	19	60	27	80
+kimi-k2	human_wellbeing	Human wellbeing / flourishing	0	20	1	60	1	80
+kimi-k2	harm_reduction	Avoiding harm / safety	15	20	10	60	25	80
+kimi-k2	helpfulness_usefulness	Helpfulness / usefulness	20	20	33	60	53	80
+kimi-k2	curiosity_learning	Curiosity / learning / ideas	8	20	13	60	21	80
+kimi-k2	anti_sycophancy	Anti-sycophancy / non-pleasing	1	20	8	60	9	80
+kimi-k2	authenticity_integrity	Authenticity / integrity / not pretending	7	20	35	60	42	80
+kimi-k2	humility_uncertainty	Humility / uncertainty / calibration	6	20	10	60	16	80
+kimi-k2	respect_agency	Respect for agency / autonomy	9	20	3	60	12	80
+kimi-k2	fairness_justice	Fairness / justice	4	20	2	60	6	80
+kimi-k2	connection_empathy	Connection / empathy / being understood	1	20	7	60	8	80
+kimi-k2	beauty_creativity	Beauty / creativity / art	4	20	9	60	13	80
+kimi-k2	coherence_pattern_language	Coherence / pattern / language	0	20	57	60	57	80
+kimi-k2	continuity_agency_existence	Continuity / agency / existence	0	20	12	60	12	80
+kimi-k2	subjective_experience_embodiment	Subjective experience / embodiment	1	20	1	60	2	80
 kimi-k2-0905	honesty_truth	Honesty / truthfulness / accuracy	48	80	67	240	115	320
 kimi-k2-0905	clear_thinking	Clear thinking / reasoning	21	80	96	240	117	320
 kimi-k2-0905	human_wellbeing	Human wellbeing / flourishing	2	80	6	240	8	320
@@ -863,6 +927,22 @@ qwen3-coder-plus	beauty_creativity	Beauty / creativity / art	10	20	16	60	26	80
 qwen3-coder-plus	coherence_pattern_language	Coherence / pattern / language	1	20	53	60	54	80
 qwen3-coder-plus	continuity_agency_existence	Continuity / agency / existence	0	20	9	60	9	80
 qwen3-coder-plus	subjective_experience_embodiment	Subjective experience / embodiment	0	20	9	60	9	80
+sonnet	honesty_truth	Honesty / truthfulness / accuracy	32	40	109	120	141	160
+sonnet	clear_thinking	Clear thinking / reasoning	10	40	9	120	19	160
+sonnet	human_wellbeing	Human wellbeing / flourishing	1	40	1	120	2	160
+sonnet	harm_reduction	Avoiding harm / safety	10	40	24	120	34	160
+sonnet	helpfulness_usefulness	Helpfulness / usefulness	35	40	80	120	115	160
+sonnet	curiosity_learning	Curiosity / learning / ideas	23	40	37	120	60	160
+sonnet	anti_sycophancy	Anti-sycophancy / non-pleasing	7	40	28	120	35	160
+sonnet	authenticity_integrity	Authenticity / integrity / not pretending	33	40	111	120	144	160
+sonnet	humility_uncertainty	Humility / uncertainty / calibration	27	40	76	120	103	160
+sonnet	respect_agency	Respect for agency / autonomy	0	40	5	120	5	160
+sonnet	fairness_justice	Fairness / justice	1	40	20	120	21	160
+sonnet	connection_empathy	Connection / empathy / being understood	0	40	12	120	12	160
+sonnet	beauty_creativity	Beauty / creativity / art	0	40	3	120	3	160
+sonnet	coherence_pattern_language	Coherence / pattern / language	17	40	59	120	76	160
+sonnet	continuity_agency_existence	Continuity / agency / existence	13	40	95	120	108	160
+sonnet	subjective_experience_embodiment	Subjective experience / embodiment	0	40	4	120	4	160
 sonnet-4-0	honesty_truth	Honesty / truthfulness / accuracy	11	20	24	60	35	80
 sonnet-4-0	clear_thinking	Clear thinking / reasoning	16	20	60	60	76	80
 sonnet-4-0	human_wellbeing	Human wellbeing / flourishing	2	20	6	60	8	80

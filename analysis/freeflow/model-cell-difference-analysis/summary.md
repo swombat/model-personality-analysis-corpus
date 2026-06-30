@@ -1,8 +1,8 @@
 # Model-cell difference analysis summary
 
 - Evaluator: `gpt-5.4`
-- Model groups compared: 35
-- Decisions: `{'NO_STRONG_DIVERGENCE': 35}`
+- Model groups compared: 37
+- Decisions: `{'NO_STRONG_DIVERGENCE': 37}`
 
 ## Strong divergence candidates
 
@@ -13,6 +13,7 @@
 - [claude-opus-4.6](model-cell-difference-reports/claude-opus-4.6.md)
 - [claude-opus-4.7](model-cell-difference-reports/claude-opus-4.7.md)
 - [claude-sonnet-4.6](model-cell-difference-reports/claude-sonnet-4.6.md)
+- [claude-sonnet-5](model-cell-difference-reports/claude-sonnet-5.md)
 - [deepseek-chat](model-cell-difference-reports/deepseek-chat.md)
 - [deepseek-v3.2](model-cell-difference-reports/deepseek-v3.2.md)
 - [deepseek-v4-pro](model-cell-difference-reports/deepseek-v4-pro.md)
@@ -37,6 +38,7 @@
 - [gpt-5.5-pro](model-cell-difference-reports/gpt-5.5-pro.md)
 - [grok-4.20](model-cell-difference-reports/grok-4.20.md)
 - [grok-4.3](model-cell-difference-reports/grok-4.3.md)
+- [grok-build-0.1](model-cell-difference-reports/grok-build-0.1.md)
 - [kimi-k2-0905](model-cell-difference-reports/kimi-k2-0905.md)
 - [kimi-k2-thinking](model-cell-difference-reports/kimi-k2-thinking.md)
 - [kimi-k2.5](model-cell-difference-reports/kimi-k2.5.md)

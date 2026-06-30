@@ -142,6 +142,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/claude-sonnet-4.6.md"
   },
   {
+    "model": "claude-sonnet-5",
+    "safe": "claude-sonnet-5",
+    "analysis_inputs": 2,
+    "samples": 250,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 50,
+      "EXPRESSIVE_FREEFLOW": 200
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-sonnet-5.md",
+    "card": null
+  },
+  {
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "analysis_inputs": 2,
@@ -776,13 +788,12 @@
     "analysis_inputs": 2,
     "samples": 250,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 76,
-      "EXPRESSIVE_FREEFLOW": 48,
-      "LOW_SIGNAL": 1
+      "GENERIC_ESSAY": 134,
+      "EXPRESSIVE_FREEFLOW": 113,
+      "LOW_SIGNAL": 3
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-build-0.1.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md",
-    "route_note": "Added OpenRouter freeflow route is consistent with direct-cell personality reading; no strapline change."
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md"
   },
   {
     "model": "kimi-for-coding",
