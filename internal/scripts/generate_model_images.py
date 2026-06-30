@@ -159,6 +159,12 @@ PROMPTS: dict[str, str] = {
         "Patient, accompanying, map-skeptic; attention itself rendered as the "
         "rarest form of love."
     ),
+    "sonnet-5": (
+        "Two chairs angled toward each other on a quiet porch, one empty, one "
+        "with an open notebook whose pages lift in a breeze. A kettle cooling "
+        "on the railing, afternoon light catching dust. No conclusion written; "
+        "the companionable pause is the whole scene — thinking aloud beside someone."
+    ),
     "deepseek-chat": (
         "A pair of hands carefully steadies a rain-jewelled spider web and "
         "plants a small green sapling on a worn windowsill, while the room "
