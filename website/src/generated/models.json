@@ -541,6 +541,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/sonnet-5.webp",
+    "image_thumb": "images/models/sonnet-5-thumb.webp",
     "published_samples": 490,
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
