@@ -92,6 +92,11 @@
     "aaii": 51,
     "url": "https://artificialanalysis.ai/models/glm-5-1"
   },
+  "glm-5-2": {
+    "aaii": 51,
+    "url": "https://artificialanalysis.ai/models/glm-5-2",
+    "matched_alias": "GLM-5.2 (max)"
+  },
   "gpt-3-5-turbo": {
     "aaii": 4,
     "url": "https://artificialanalysis.ai/models?models=gpt-35-turbo"
@@ -227,6 +232,11 @@
     "aaii": 53,
     "url": "https://artificialanalysis.ai/models/grok-4-3"
   },
+  "grok-build-0-1": {
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+    "matched_alias": "Grok Build 0.1 0616"
+  },
   "haiku-4-5": {
     "aaii": 31,
     "url": "https://artificialanalysis.ai/models/claude-4-5-haiku"
@@ -246,6 +256,10 @@
   "kimi-k2-6": {
     "aaii": 54,
     "url": "https://artificialanalysis.ai/models/kimi-k2-6"
+  },
+  "kimi-k2-7-code": {
+    "aaii": 42,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-7-code"
   },
   "kimi-k2-thinking": {
     "aaii": 41,
@@ -426,6 +440,11 @@
   "sonnet-4-6": {
     "aaii": 44,
     "url": "https://artificialanalysis.ai/models/claude-sonnet-4-6"
+  },
+  "sonnet-5": {
+    "aaii": 53,
+    "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
+    "matched_alias": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)"
   },
   "gpt-oss-120b": {
     "aaii": 33,
