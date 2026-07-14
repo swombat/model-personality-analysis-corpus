@@ -84,8 +84,12 @@ In `website/scripts/generate_data.py` → `validate_strapline()`:
   `2,500` (fractures the count and reads badly).
 - **No meta words**: `based on`, `samples`, `route/provider`, `route`,
   `variants`, `models`.
-- Semicolons, quotes, em-dashes inside the line are fine and encouraged
-  (`[who]; [proof]`).
+- **Single phrase only (Daniel, 2026-07-14): no `and`, no semicolons, no
+  dual propositions.** The older `[who]; [proof]` shape is retired for new
+  straplines — fold the who and the proof into one clause instead
+  ("A dreamer who apologizes when the spell breaks"). Harder, better.
+  Existing semicolon straplines stay as they are (drift-sweep rule: keep
+  originals).
 
 Validate after editing:
 
