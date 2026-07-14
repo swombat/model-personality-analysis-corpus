@@ -1,4 +1,9 @@
 {
+  "devstral-2512": {
+    "aaii": 19,
+    "url": "https://artificialanalysis.ai/models/devstral-2",
+    "matched_alias": "Devstral 2"
+  },
   "deepseek-chat": {
     "aaii": 16,
     "url": "https://artificialanalysis.ai/models/deepseek-v3"
@@ -131,6 +136,16 @@
     "aaii": 43,
     "url": "https://artificialanalysis.ai/models/gpt-5-1-codex"
   },
+  "gpt-5-1-codex-max": {
+    "aaii": 35,
+    "url": "https://artificialanalysis.ai/models/gpt-5-1-codex",
+    "matched_alias": "GPT-5.1 Codex (high)"
+  },
+  "gpt-5-1-codex-mini": {
+    "aaii": 31,
+    "url": "https://artificialanalysis.ai/models/gpt-5-1-codex-mini",
+    "matched_alias": "GPT-5.1 Codex mini (high)"
+  },
   "gpt-5-2": {
     "aaii": 51,
     "url": "https://artificialanalysis.ai/models/gpt-5-2"
@@ -147,9 +162,34 @@
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/gpt-5-4"
   },
+  "gpt-5-4-mini": {
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/gpt-5-4-mini",
+    "matched_alias": "GPT-5.4 mini (xhigh)"
+  },
+  "gpt-5-4-nano": {
+    "aaii": 38,
+    "url": "https://artificialanalysis.ai/models/gpt-5-4-nano",
+    "matched_alias": "GPT-5.4 nano (xhigh)"
+  },
   "gpt-5-5": {
     "aaii": 60,
     "url": "https://artificialanalysis.ai/models/gpt-5-5"
+  },
+  "gpt-5-6-luna": {
+    "aaii": 51,
+    "url": "https://artificialanalysis.ai/models/gpt-5-6-luna",
+    "matched_alias": "GPT-5.6 Luna (max)"
+  },
+  "gpt-5-6-sol": {
+    "aaii": 59,
+    "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
+    "matched_alias": "GPT-5.6 Sol (max)"
+  },
+  "gpt-5-6-terra": {
+    "aaii": 55,
+    "url": "https://artificialanalysis.ai/models/gpt-5-6-terra",
+    "matched_alias": "GPT-5.6 Terra (max)"
   },
   "gpt-5-codex": {
     "aaii": 45,
@@ -174,6 +214,14 @@
   "grok-4-20": {
     "aaii": 49,
     "url": "https://artificialanalysis.ai/models/grok-4-20"
+  },
+  "grok-4-20-0309-non-reasoning": {
+    "aaii": 22,
+    "url": "https://artificialanalysis.ai/models/grok-4-20-0309-non-reasoning"
+  },
+  "grok-4-20-0309-reasoning": {
+    "aaii": 37,
+    "url": "https://artificialanalysis.ai/models/grok-4-20-0309"
   },
   "grok-4-3": {
     "aaii": 53,
@@ -203,6 +251,38 @@
     "aaii": 41,
     "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
   },
+  "llama-3-1-70b-instruct": {
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-70b"
+  },
+  "llama-3-1-8b-instruct": {
+    "aaii": 8,
+    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-8b"
+  },
+  "llama-3-2-11b-vision-instruct": {
+    "aaii": 3,
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-11b-vision"
+  },
+  "llama-3-2-1b-instruct": {
+    "aaii": 1,
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-1b"
+  },
+  "llama-3-2-3b-instruct": {
+    "aaii": 4,
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-3b"
+  },
+  "llama-3-3-70b-instruct": {
+    "aaii": 9,
+    "url": "https://artificialanalysis.ai/models/llama-3-3-instruct-70b"
+  },
+  "llama-4-maverick": {
+    "aaii": 14,
+    "url": "https://artificialanalysis.ai/models/llama-4-maverick"
+  },
+  "llama-4-scout": {
+    "aaii": 10,
+    "url": "https://artificialanalysis.ai/models/llama-4-scout"
+  },
   "minimax-m2": {
     "aaii": 36,
     "url": "https://artificialanalysis.ai/models/minimax-m2"
@@ -214,6 +294,67 @@
   "minimax-m3": {
     "aaii": 55,
     "url": "https://artificialanalysis.ai/models/minimax-m3"
+  },
+  "ministral-14b-2512": {
+    "aaii": 11,
+    "url": "https://artificialanalysis.ai/models/ministral-3-14b",
+    "matched_alias": "Ministral 3 14B"
+  },
+  "ministral-3b-2512": {
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/ministral-3-3b",
+    "matched_alias": "Ministral 3 3B"
+  },
+  "ministral-8b-2512": {
+    "aaii": 9,
+    "url": "https://artificialanalysis.ai/models/ministral-3-8b",
+    "matched_alias": "Ministral 3 8B"
+  },
+  "mistral-large-2512": {
+    "aaii": 16,
+    "url": "https://artificialanalysis.ai/models/mistral-large-3",
+    "matched_alias": "Mistral Large 3"
+  },
+  "mistral-medium-3": {
+    "aaii": 12,
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3"
+  },
+  "mistral-medium-3-1": {
+    "aaii": 15,
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3-1"
+  },
+  "mistral-medium-3-5": {
+    "aaii": 30,
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3-5"
+  },
+  "mistral-saba": {
+    "aaii": 6,
+    "url": "https://artificialanalysis.ai/models/mistral-saba"
+  },
+  "mistral-small-24b-instruct-2501": {
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/mistral-small-3",
+    "matched_alias": "Mistral Small 3"
+  },
+  "mistral-small-2603": {
+    "aaii": 12,
+    "url": "https://artificialanalysis.ai/models/mistral-small-4-non-reasoning",
+    "matched_alias": "Mistral Small 4 (Non-reasoning)"
+  },
+  "mistral-small-3-1-24b-instruct": {
+    "aaii": 15,
+    "url": "https://artificialanalysis.ai/models/mistral-small-3-1",
+    "matched_alias": "Mistral Small 3.1"
+  },
+  "mistral-small-3-2-24b-instruct": {
+    "aaii": 11,
+    "url": "https://artificialanalysis.ai/models/mistral-small-3-2",
+    "matched_alias": "Mistral Small 3.2"
+  },
+  "mixtral-8x22b-instruct": {
+    "aaii": 4,
+    "url": "https://artificialanalysis.ai/models/mistral-8x22b-instruct",
+    "matched_alias": "Mixtral 8x22B Instruct"
   },
   "opus-3": {
     "aaii": 18,

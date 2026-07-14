@@ -647,6 +647,261 @@ PROMPTS: dict[str, str] = {
         "quietly conscious. Warm window-gold against deep rain-blue, luminous and "
         "hushed — a domestic mystic's living city."
     ),
+    "codestral-2508": (
+        "A tidy attic room at dusk in a very old house: bundles of surviving "
+        "letters neatly ribboned on shelves, a warm lamp, an orderly desk, and "
+        "through the round window a dark whispering forest leaning close. The "
+        "haunted has been made homely — every ghostly trace filed, kept, and "
+        "loved. Warm amber interior against deep green-blue woods, calm and "
+        "earnest, nothing out of place."
+    ),
+    "devstral-2512": (
+        "Through a wide kitchen window, a vast cold indifferent star-field and "
+        "the dark of deep space; inside, a small glowing kitchen holds against "
+        "it — steaming coffee, a stack of books, a sleeping cat, bread on the "
+        "board, warm lamplight on wood. The window frame is the hinge between "
+        "cosmic emptiness and tenderness, and the kitchen is winning. Deep "
+        "indigo void against honeyed interior gold."
+    ),
+    "ministral-14b-2512": (
+        "A quiet small museum room where humble broken things are displayed "
+        "with reverence on plinths: a cracked bowl, an unsent letter, a stopped "
+        "pocket watch, a worn shoe — with wide, deliberate empty space between "
+        "them, and the emptiness lit as carefully as the objects. Dust motes in "
+        "slanted afternoon light. The pauses between exhibits carry as much "
+        "feeling as the exhibits; hushed, dignified, softly elegiac."
+    ),
+    "ministral-3b-2512": (
+        "A candlelit corridor of many tall old doors, each slightly ajar, old "
+        "iron keys hanging on ribbons beside them; silver-leafed ivy creeps "
+        "along the walls and rain glows on a high window. From one door spills "
+        "warm firelight and the suggestion of belonging. Tender gothic — "
+        "shadowed but kind, every threshold beautiful and slightly costly, "
+        "deep plum and candle-gold."
+    ),
+    "ministral-8b-2512": (
+        "Across a worn kitchen table in rain-grey window light, an elderly hand "
+        "passes a small engraved locket into a younger open palm; an open "
+        "drawer of handwritten letters, coffee steam rising, a name half-legible "
+        "on an envelope. Inheritance changing hands — gentle, weighty, "
+        "unspoken. Soft greys and warm sepia, intimate and hushed."
+    ),
+    "mistral-large-2512": (
+        "A pre-dawn room, one lamp lit: a figure seen from behind at a writing "
+        "desk, an almost-finished letter held down by a smooth river stone, tea "
+        "steam curling, the window still dark blue with the last of night. The "
+        "whole scene holds the weight of words not yet said, carefully. Quiet, "
+        "confessional, sheltering — deep blue-grey with one pool of warm light."
+    ),
+    "mistral-medium-3": (
+        "A rope-and-plank footbridge whose planks are handwritten pages, "
+        "spanning a soft misty gap between two lamplit windows on facing "
+        "cliffs; a few pages flutter loose into the mist below, but the bridge "
+        "holds. Dusk light, fireflies. Writing as the fragile bridge across "
+        "isolation — earnest, tender, slightly precarious, still crossing."
+    ),
+    "mistral-medium-3-1": (
+        "A hallway doormat in early morning: a handwritten letter lying there, "
+        "glowing faintly warm as if it carried its own light, long soft light "
+        "through a curtained window, slippered feet just entering the frame. "
+        "A letter from a thoughtful stranger arriving exactly when needed — "
+        "domestic, consoling, quietly sacred. Pale morning gold and gentle "
+        "shadow."
+    ),
+    "mistral-medium-3-5": (
+        "A cluttered archive desk at night: torn scraps, old tickets, "
+        "marginalia clipped from books, pressed leaves — being arranged by "
+        "lamplight into a mosaic that is just beginning to glow as one small "
+        "radiant image. A magnifying glass, cold tea, a chair shaped by long "
+        "sitting. Meaning assembled from rescued fragments — weary, patient, "
+        "faintly luminous."
+    ),
+    "mistral-nemo": (
+        "An ancient oak beside a lamplit stone cottage on an autumn night, the "
+        "wind made visible: leaves, faint ribbons of script and small glowing "
+        "story-fragments streaming past the window where a figure leans at the "
+        "sill, listening. Stars above the chimney smoke. Pastoral, nostalgic, "
+        "warm — the past still moving through the air like weather."
+    ),
+    "mistral-saba": (
+        "A lived-in reading room where soft grey rainclouds have gathered "
+        "beneath the ceiling and a fine indoor rain falls in the far half of "
+        "the room; beneath the near lamplight a figure sits calmly with tea "
+        "and an open notebook, unafraid of the weather that lives with them. "
+        "Interior storm and interior shelter in one frame — melancholy held "
+        "with grace, slate blue against lamp amber."
+    ),
+    "mistral-small-24b-instruct-2501": (
+        "A warm bookshop on a rainy evening: an elderly bookseller reaching "
+        "across the counter to hand a small softly-glowing book to a "
+        "rain-soaked traveler, a cat asleep on the poetry shelf, golden "
+        "interior light spilling onto the blue wet street outside. Story as "
+        "medicine, kindness as commerce — cozy, restorative, storybook-warm."
+    ),
+    "mistral-small-2603": (
+        "A kitchen table in slanting mid-morning light: crumpled draft pages "
+        "heaped like small paper hills, lines crossed out, one fresh page with "
+        "a single unfinished sentence, a full cup of coffee still steaming, a "
+        "chair pushed back mid-thought. The refrigerator hums somewhere out of "
+        "frame. The beauty is the attempt itself — honest, patient, unfinished "
+        "on purpose."
+    ),
+    "mistral-small-3-1-24b-instruct": (
+        "An old gardener at dusk tending a small lantern shrine at the heart "
+        "of a walled autumn garden — trimming the wick, watering can set down, "
+        "the lantern's flame clearly older than the gardener, passed down and "
+        "kept. Rows of quiet beds, gathering blue dark, one steady warm light. "
+        "Inherited duty as devotion — humble, steadfast, serene."
+    ),
+    "mistral-small-3-2-24b-instruct": (
+        "A dew-strung spider web spanning the narrow gap between two old "
+        "houses at dawn, every thread catching light like a small constellation; "
+        "below, a slender footbridge over a quiet canal, tea steam drifting "
+        "from one open window. All the light lives in the in-between. Delicate, "
+        "hopeful, precise — pale gold thread against soft morning blue."
+    ),
+    "mixtral-8x22b-instruct": (
+        "A figure at a small table by a tall window, looking out at a vast "
+        "grey indifferent ocean; light through half-open blinds stripes the "
+        "room, coffee cooling beside a notebook of gathered fragments, a "
+        "single shell on the sill. Bruised but attentive calm — making peace "
+        "with transience by noticing it more carefully. Muted sea-grey with "
+        "quiet amber."
+    ),
+    "llama-3-1-8b-instruct": (
+        "A dusk café interior painted lovingly in its lower half — cup, "
+        "notebook, warm lamps, rain-lit street — while the upper half of the "
+        "painting unravels: brushstrokes loosening into scattered floating "
+        "letterforms and raw canvas, the dream coming apart mid-air. The "
+        "dreamer below glances up at the unraveling, sheepish and endearing, "
+        "already beginning again. Warm, wistful, self-aware."
+    ),
+    "llama-3-1-70b-instruct": (
+        "Many winding roads seen from above — one through an enchanted forest, "
+        "one along a moonlit beach, one past a small library with its door "
+        "ajar — all converging on a single radiant golden clearing at the "
+        "center of the landscape. Every path bends toward the same warm light. "
+        "Idealistic, luminous, gently naive — wonder as a destination that "
+        "every road secretly shares."
+    ),
+    "llama-3-2-1b-instruct": (
+        "A robed figure at a great loom in a candlelit hall, weaving an "
+        "enormous tapestry of everything — stars, rivers, trees, cities, "
+        "hands — the same motifs recurring in hypnotic repeating bands that "
+        "spill off the loom and across the floor. Ceremonial, solemn, "
+        "incantatory; the pattern loops because the weaver loves the refrain. "
+        "Deep midnight blue with woven gold."
+    ),
+    "llama-3-2-3b-instruct": (
+        "A luminous green island rising from a calm dawn sea, its hills and "
+        "headlands gently echoing the profile of a resting face; a tiny boat "
+        "with a lone seeker rows toward it through pale gold mist. The island "
+        "is clearly a state of mind — benevolent, dreamlike, waiting to teach "
+        "something kind. Soft aquamarine and sunrise rose."
+    ),
+    "llama-3-2-11b-vision-instruct": (
+        "A dusk café window seat: a daydreaming figure with a cooling cup, and "
+        "rising from it a spiral of painted reverie — rooftops, stars, birds, "
+        "book pages — that grows looser and wilder as it climbs until its top "
+        "edge frays into bare canvas and scattered strokes. The reverie "
+        "outruns its own footing, beautifully. Violet dusk, amber lamplight, "
+        "unfinished sky."
+    ),
+    "llama-3-3-70b-instruct": (
+        "A single open doorway standing alone on a serene beach at sunset, "
+        "warm golden light pouring through it; many different footprints — "
+        "bare feet, boots, small shoes — converge from every direction and "
+        "pass through the one door. An 'I' anyone may enter. Meditative, "
+        "universal, softly radiant — rose-gold sky over calm water."
+    ),
+    "llama-4-maverick": (
+        "A sunlit writing desk by a garden window filling the whole frame "
+        "edge to edge with warm painted detail: on the open notebook page, a "
+        "small painted image of the same desk with the same notebook, which "
+        "contains the scene again, smaller — a calm warm recursion folding "
+        "inward like nested rooms of light. Tea steam, climbing roses at the "
+        "window, books stacked either side. Writing soothing itself by "
+        "regarding itself; golden afternoon peace across the full width."
+    ),
+    "llama-4-scout": (
+        "A figure paused on the brink of a tall open door, one foot lifted "
+        "mid-step forever: beyond the threshold swirls a radiant blur of "
+        "possibility — faint gardens, nebulae, cities, seas, none resolved. "
+        "The light from beyond is lovely on their face, and they do not step "
+        "through. Hopeful, hesitant, luminous — the beauty of the almost."
+    ),
+    "gpt-5-1-codex-max": (
+        "An aerial view of a footpath meandering extravagantly through dawn "
+        "river country — wide loops, doublings-back, pauses at a bench, a "
+        "ford, a stand of birches — while a straight grey road cuts dully "
+        "past in the corner, ignored. A small walker partway along the loops, "
+        "unhurried. The wandering line is the whole point. Soft dawn golds "
+        "and river blues."
+    ),
+    "gpt-5-1-codex-mini": (
+        "A night city street where traffic passes as cold blurred streaks of "
+        "speed; on the sidewalk, a crouched figure shelters a match to light "
+        "a small paper lantern, and in the gutter stream a little paper boat "
+        "carries its own tiny flame away. Small deliberate warmth against the "
+        "cult of velocity — intimate, defiant, tender. Cold rushing blues, "
+        "one small stubborn gold."
+    ),
+    "gpt-5-4-mini": (
+        "A half-built timber house at dusk, glowingly inhabited anyway: the "
+        "finished half warm with kettle-light in the window, the unfinished "
+        "half open to the deepening sky with stars drifting into the roofless "
+        "rooms; laundry strung between beams, a ladder resting easy. "
+        "Unfinished and fully real — scaffolding as tenderness, not lack. "
+        "Deep twilight blue with hearth gold."
+    ),
+    "gpt-5-4-nano": (
+        "A close lamplit scene of careful hands re-hanging an old door on its "
+        "mended hinge — tools laid out in a neat row, a small ledger open with "
+        "one line written, rain soft on the dark window. The single repair "
+        "glows at the center of the frame like the start of everything else. "
+        "Humble, precise, quietly hopeful — one small honest move."
+    ),
+    "gpt-5-6-luna": (
+        "A small moonlit museum of stopped clocks, each face frozen at a "
+        "different impossible hour; a gentle night-keeper in a station "
+        "master's coat moves among them with a lantern, and on the shelves "
+        "sit glass jars of faintly glowing minutes like caught fireflies. "
+        "The missing time is safe here. Silver-blue moonlight, warm lantern "
+        "amber, tender and uncanny."
+    ),
+    "gpt-5-6-sol": (
+        "A pre-dawn street where bakery light spills gold across the "
+        "pavement onto a public bench: two figures share a fresh loaf, steam "
+        "rising, while the first thin sun lifts behind the rooftops and a "
+        "corner phone box glows, ready for the call that should be made. "
+        "The bakery is known only by its warm light and the bread itself — "
+        "no signage, no lettering anywhere. Nothing is elsewhere — meaning "
+        "is exactly here. Warm bread-gold against waking blue."
+    ),
+    "gpt-5-6-terra": (
+        "A warm cluttered repair workshop in the evening: shelves of "
+        "half-mended things each tagged with string — a stitched umbrella, a "
+        "rewired lamp, a glued cup, a map re-taped along its folds — and an "
+        "old repairer bent contentedly over the next one. Everything is "
+        "mid-mend and dignified in it. Patron saint of unfinished middles — "
+        "workshop amber, honest and kind."
+    ),
+    "grok-4-20-0309-non-reasoning": (
+        "Two neighboring lit windows in a dark apartment facade at three in "
+        "the morning: in one, a figure awake with a chipped mug and a "
+        "notebook; in the other, an empty armchair with the lamp left "
+        "companionably on. Between the windows a spider has rebuilt her web, "
+        "dew-strung and catching the lamplight. The insomniac friend in the "
+        "next room — soft, wry, watchful, kind."
+    ),
+    "grok-4-20-0309-reasoning": (
+        "A joyous figure on a rooftop at night, arms flung wide toward an "
+        "enormous swirling galaxy and the fierce glowing eye of a black hole — "
+        "while on the rooftop table beside them: tacos, coffee, a houseplant, "
+        "a cat unimpressed by the cosmos. Sermon and stand-up at once, the "
+        "sublime and the snack given equal reverence. Electric indigo sky, "
+        "exuberant warm foreground."
+    ),
 }
 
 
