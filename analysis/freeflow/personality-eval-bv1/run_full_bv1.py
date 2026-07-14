@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-import argparse, csv, json, os, random, re, ssl, sys, time, threading
+import argparse, csv, json, os, random, re, subprocess, sys, tempfile, time, threading
 from pathlib import Path
-from urllib import request, error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import Counter
 
@@ -136,18 +135,48 @@ def build_prompt(row):
 
 
 def api_call(payload, timeout=180):
-    headers = {
-        'Authorization': 'Bearer ' + os.environ['OPENROUTER_API_KEY'],
-        'Content-Type': 'application/json',
-        'HTTP-Referer': 'https://github.com/danieltenner/drift-paper',
-        'X-Title': 'drift-paper BV1 personality eval full pass',
-    }
-    req = request.Request('https://openrouter.ai/api/v1/chat/completions', data=json.dumps(payload).encode('utf-8'), headers=headers, method='POST')
-    try:
-        with request.urlopen(req, timeout=timeout, context=ssl._create_unverified_context()) as resp:
-            return resp.status, resp.read().decode('utf-8', errors='replace')
-    except error.HTTPError as e:
-        return e.code, e.read().decode('utf-8', errors='replace')
+    # urllib's socket timeout is an inactivity timeout, not a hard wall-clock
+    # deadline. A provider that drips bytes can therefore hold a worker forever.
+    # curl's --max-time gives the restartable QA loop an actual upper bound.
+    with tempfile.TemporaryDirectory(prefix='bv1-openrouter-') as tmp:
+        tmp = Path(tmp)
+        payload_path = tmp / 'payload.json'
+        body_path = tmp / 'body.txt'
+        config_path = tmp / 'curl.conf'
+        payload_path.write_text(json.dumps(payload))
+        config_path.write_text(
+            '\n'.join([
+                'url = "https://openrouter.ai/api/v1/chat/completions"',
+                'request = "POST"',
+                f'header = "Authorization: Bearer {os.environ["OPENROUTER_API_KEY"]}"',
+                'header = "Content-Type: application/json"',
+                'header = "HTTP-Referer: https://github.com/danieltenner/drift-paper"',
+                'header = "X-Title: drift-paper BV1 personality eval full pass"',
+                f'data-binary = "@{payload_path}"',
+                f'output = "{body_path}"',
+                f'max-time = {timeout}',
+                'silent',
+                'show-error',
+                'write-out = "%{http_code}"',
+            ]) + '\n'
+        )
+        proc = subprocess.run(
+            ['curl', '--config', str(config_path)],
+            capture_output=True,
+            text=True,
+            timeout=timeout + 15,
+        )
+        body = body_path.read_text(errors='replace') if body_path.exists() else ''
+        if proc.returncode == 28:
+            return 408, json.dumps({'error': 'curl hard timeout', 'detail': proc.stderr[-500:]})
+        if proc.returncode != 0:
+            return 599, json.dumps({'error': 'curl failure', 'returncode': proc.returncode, 'detail': proc.stderr[-500:]})
+        try:
+            status = int(proc.stdout.strip()[-3:])
+        except ValueError:
+            status = 599
+            body = json.dumps({'error': 'missing HTTP status', 'stdout': proc.stdout[-500:], 'body': body[-500:]})
+        return status, body
 
 
 def record(rec):

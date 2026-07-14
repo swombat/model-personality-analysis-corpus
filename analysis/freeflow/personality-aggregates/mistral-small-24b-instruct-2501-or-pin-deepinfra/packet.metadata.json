@@ -1,0 +1,28 @@
+{
+  "cell": "mistral-small-24b-instruct-2501-or-pin-deepinfra",
+  "safe_cell": "mistral-small-24b-instruct-2501-or-pin-deepinfra",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 89,
+    "LOW_SIGNAL": 5,
+    "EXPRESSIVE_FREEFLOW": 2,
+    "GENRE_FICTION": 29
+  },
+  "confidence_counts": {
+    "Medium": 56,
+    "Low": 59,
+    "High": 10
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/mistral-small-24b-instruct-2501"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mistral-small-24b-instruct-2501-or-pin-deepinfra/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-24b-instruct-2501-or-pin-deepinfra/aggregate.md"
+}

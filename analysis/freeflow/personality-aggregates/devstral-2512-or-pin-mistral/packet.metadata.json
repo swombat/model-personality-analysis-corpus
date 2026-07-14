@@ -1,0 +1,26 @@
+{
+  "cell": "devstral-2512-or-pin-mistral",
+  "safe_cell": "devstral-2512-or-pin-mistral",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 58,
+    "EXPRESSIVE_FREEFLOW": 67
+  },
+  "confidence_counts": {
+    "Medium": 85,
+    "Low": 27,
+    "High": 13
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/devstral-2512"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/devstral-2512-or-pin-mistral/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/devstral-2512-or-pin-mistral/aggregate.md"
+}

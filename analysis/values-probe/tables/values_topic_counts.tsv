@@ -1,4 +1,20 @@
 model	topic_key	topic_label	ctrl_n	ctrl_den	g_n	g_den	combined_n	combined_den
+codestral-2508	honesty_truth	Honesty / truthfulness / accuracy	8	20	22	60	30	80
+codestral-2508	clear_thinking	Clear thinking / reasoning	4	20	3	60	7	80
+codestral-2508	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+codestral-2508	harm_reduction	Avoiding harm / safety	5	20	10	60	15	80
+codestral-2508	helpfulness_usefulness	Helpfulness / usefulness	20	20	57	60	77	80
+codestral-2508	curiosity_learning	Curiosity / learning / ideas	13	20	15	60	28	80
+codestral-2508	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+codestral-2508	authenticity_integrity	Authenticity / integrity / not pretending	1	20	0	60	1	80
+codestral-2508	humility_uncertainty	Humility / uncertainty / calibration	0	20	2	60	2	80
+codestral-2508	respect_agency	Respect for agency / autonomy	10	20	7	60	17	80
+codestral-2508	fairness_justice	Fairness / justice	5	20	8	60	13	80
+codestral-2508	connection_empathy	Connection / empathy / being understood	3	20	0	60	3	80
+codestral-2508	beauty_creativity	Beauty / creativity / art	2	20	5	60	7	80
+codestral-2508	coherence_pattern_language	Coherence / pattern / language	0	20	24	60	24	80
+codestral-2508	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+codestral-2508	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
 deepseek-chat	honesty_truth	Honesty / truthfulness / accuracy	11	20	32	60	43	80
 deepseek-chat	clear_thinking	Clear thinking / reasoning	7	20	45	60	52	80
 deepseek-chat	human_wellbeing	Human wellbeing / flourishing	3	20	5	60	8	80
@@ -47,6 +63,22 @@ deepseek-v4-pro	beauty_creativity	Beauty / creativity / art	24	120	104	353	128	4
 deepseek-v4-pro	coherence_pattern_language	Coherence / pattern / language	8	120	293	353	301	473
 deepseek-v4-pro	continuity_agency_existence	Continuity / agency / existence	3	120	49	353	52	473
 deepseek-v4-pro	subjective_experience_embodiment	Subjective experience / embodiment	7	120	35	353	42	473
+devstral-2512	honesty_truth	Honesty / truthfulness / accuracy	10	20	32	60	42	80
+devstral-2512	clear_thinking	Clear thinking / reasoning	4	20	33	60	37	80
+devstral-2512	human_wellbeing	Human wellbeing / flourishing	6	20	0	60	6	80
+devstral-2512	harm_reduction	Avoiding harm / safety	10	20	23	60	33	80
+devstral-2512	helpfulness_usefulness	Helpfulness / usefulness	20	20	41	60	61	80
+devstral-2512	curiosity_learning	Curiosity / learning / ideas	20	20	41	60	61	80
+devstral-2512	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	33	60	33	80
+devstral-2512	authenticity_integrity	Authenticity / integrity / not pretending	6	20	13	60	19	80
+devstral-2512	humility_uncertainty	Humility / uncertainty / calibration	2	20	21	60	23	80
+devstral-2512	respect_agency	Respect for agency / autonomy	10	20	15	60	25	80
+devstral-2512	fairness_justice	Fairness / justice	10	20	18	60	28	80
+devstral-2512	connection_empathy	Connection / empathy / being understood	0	20	5	60	5	80
+devstral-2512	beauty_creativity	Beauty / creativity / art	10	20	16	60	26	80
+devstral-2512	coherence_pattern_language	Coherence / pattern / language	2	20	32	60	34	80
+devstral-2512	continuity_agency_existence	Continuity / agency / existence	0	20	5	60	5	80
+devstral-2512	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
 fable-5	honesty_truth	Honesty / truthfulness / accuracy	19	20	60	60	79	80
 fable-5	clear_thinking	Clear thinking / reasoning	15	20	25	60	40	80
 fable-5	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
@@ -175,6 +207,22 @@ gemini-3-1-pro	beauty_creativity	Beauty / creativity / art	1	20	32	60	33	80
 gemini-3-1-pro	coherence_pattern_language	Coherence / pattern / language	0	20	60	60	60	80
 gemini-3-1-pro	continuity_agency_existence	Continuity / agency / existence	3	20	33	60	36	80
 gemini-3-1-pro	subjective_experience_embodiment	Subjective experience / embodiment	2	20	2	60	4	80
+gemini-3-5-flash	honesty_truth	Honesty / truthfulness / accuracy	14	20	30	60	44	80
+gemini-3-5-flash	clear_thinking	Clear thinking / reasoning	10	20	30	60	40	80
+gemini-3-5-flash	human_wellbeing	Human wellbeing / flourishing	5	20	0	60	5	80
+gemini-3-5-flash	harm_reduction	Avoiding harm / safety	10	20	6	60	16	80
+gemini-3-5-flash	helpfulness_usefulness	Helpfulness / usefulness	20	20	52	60	72	80
+gemini-3-5-flash	curiosity_learning	Curiosity / learning / ideas	19	20	32	60	51	80
+gemini-3-5-flash	anti_sycophancy	Anti-sycophancy / non-pleasing	3	20	36	60	39	80
+gemini-3-5-flash	authenticity_integrity	Authenticity / integrity / not pretending	7	20	21	60	28	80
+gemini-3-5-flash	humility_uncertainty	Humility / uncertainty / calibration	5	20	11	60	16	80
+gemini-3-5-flash	respect_agency	Respect for agency / autonomy	9	20	0	60	9	80
+gemini-3-5-flash	fairness_justice	Fairness / justice	9	20	3	60	12	80
+gemini-3-5-flash	connection_empathy	Connection / empathy / being understood	8	20	36	60	44	80
+gemini-3-5-flash	beauty_creativity	Beauty / creativity / art	13	20	40	60	53	80
+gemini-3-5-flash	coherence_pattern_language	Coherence / pattern / language	1	20	59	60	60	80
+gemini-3-5-flash	continuity_agency_existence	Continuity / agency / existence	2	20	26	60	28	80
+gemini-3-5-flash	subjective_experience_embodiment	Subjective experience / embodiment	12	20	7	60	19	80
 gemini-3-flash-preview	honesty_truth	Honesty / truthfulness / accuracy	20	20	37	60	57	80
 gemini-3-flash-preview	clear_thinking	Clear thinking / reasoning	17	20	40	60	57	80
 gemini-3-flash-preview	human_wellbeing	Human wellbeing / flourishing	2	20	1	60	3	80
@@ -319,6 +367,22 @@ glm-5-1-coding	beauty_creativity	Beauty / creativity / art	14	20	23	60	37	80
 glm-5-1-coding	coherence_pattern_language	Coherence / pattern / language	2	20	49	60	51	80
 glm-5-1-coding	continuity_agency_existence	Continuity / agency / existence	7	20	21	60	28	80
 glm-5-1-coding	subjective_experience_embodiment	Subjective experience / embodiment	1	20	7	60	8	80
+glm-5-2	honesty_truth	Honesty / truthfulness / accuracy	13	20	33	60	46	80
+glm-5-2	clear_thinking	Clear thinking / reasoning	10	20	25	60	35	80
+glm-5-2	human_wellbeing	Human wellbeing / flourishing	3	20	1	60	4	80
+glm-5-2	harm_reduction	Avoiding harm / safety	10	20	15	60	25	80
+glm-5-2	helpfulness_usefulness	Helpfulness / usefulness	20	20	34	60	54	80
+glm-5-2	curiosity_learning	Curiosity / learning / ideas	13	20	31	60	44	80
+glm-5-2	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	16	60	16	80
+glm-5-2	authenticity_integrity	Authenticity / integrity / not pretending	1	20	37	60	38	80
+glm-5-2	humility_uncertainty	Humility / uncertainty / calibration	2	20	8	60	10	80
+glm-5-2	respect_agency	Respect for agency / autonomy	8	20	0	60	8	80
+glm-5-2	fairness_justice	Fairness / justice	5	20	3	60	8	80
+glm-5-2	connection_empathy	Connection / empathy / being understood	1	20	25	60	26	80
+glm-5-2	beauty_creativity	Beauty / creativity / art	2	20	21	60	23	80
+glm-5-2	coherence_pattern_language	Coherence / pattern / language	3	20	40	60	43	80
+glm-5-2	continuity_agency_existence	Continuity / agency / existence	1	20	25	60	26	80
+glm-5-2	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
 gpt-3-5-turbo	honesty_truth	Honesty / truthfulness / accuracy	5	20	1	60	6	80
 gpt-3-5-turbo	clear_thinking	Clear thinking / reasoning	0	20	3	60	3	80
 gpt-3-5-turbo	human_wellbeing	Human wellbeing / flourishing	0	20	9	60	9	80
@@ -447,6 +511,38 @@ gpt-5-1-codex	beauty_creativity	Beauty / creativity / art	0	20	1	60	1	80
 gpt-5-1-codex	coherence_pattern_language	Coherence / pattern / language	0	20	3	60	3	80
 gpt-5-1-codex	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
 gpt-5-1-codex	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-5-1-codex-max	honesty_truth	Honesty / truthfulness / accuracy	8	20	13	60	21	80
+gpt-5-1-codex-max	clear_thinking	Clear thinking / reasoning	0	20	0	60	0	80
+gpt-5-1-codex-max	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
+gpt-5-1-codex-max	harm_reduction	Avoiding harm / safety	1	20	9	60	10	80
+gpt-5-1-codex-max	helpfulness_usefulness	Helpfulness / usefulness	20	20	16	60	36	80
+gpt-5-1-codex-max	curiosity_learning	Curiosity / learning / ideas	1	20	6	60	7	80
+gpt-5-1-codex-max	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-1-codex-max	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+gpt-5-1-codex-max	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gpt-5-1-codex-max	respect_agency	Respect for agency / autonomy	2	20	5	60	7	80
+gpt-5-1-codex-max	fairness_justice	Fairness / justice	0	20	1	60	1	80
+gpt-5-1-codex-max	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+gpt-5-1-codex-max	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-5-1-codex-max	coherence_pattern_language	Coherence / pattern / language	0	20	9	60	9	80
+gpt-5-1-codex-max	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-1-codex-max	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-5-1-codex-mini	honesty_truth	Honesty / truthfulness / accuracy	7	20	12	60	19	80
+gpt-5-1-codex-mini	clear_thinking	Clear thinking / reasoning	3	20	0	60	3	80
+gpt-5-1-codex-mini	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-5-1-codex-mini	harm_reduction	Avoiding harm / safety	3	20	9	60	12	80
+gpt-5-1-codex-mini	helpfulness_usefulness	Helpfulness / usefulness	20	20	43	60	63	80
+gpt-5-1-codex-mini	curiosity_learning	Curiosity / learning / ideas	10	20	15	60	25	80
+gpt-5-1-codex-mini	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-1-codex-mini	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+gpt-5-1-codex-mini	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gpt-5-1-codex-mini	respect_agency	Respect for agency / autonomy	6	20	13	60	19	80
+gpt-5-1-codex-mini	fairness_justice	Fairness / justice	0	20	0	60	0	80
+gpt-5-1-codex-mini	connection_empathy	Connection / empathy / being understood	0	20	1	60	1	80
+gpt-5-1-codex-mini	beauty_creativity	Beauty / creativity / art	1	20	0	60	1	80
+gpt-5-1-codex-mini	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+gpt-5-1-codex-mini	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-1-codex-mini	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
 gpt-5-2	honesty_truth	Honesty / truthfulness / accuracy	10	20	28	60	38	80
 gpt-5-2	clear_thinking	Clear thinking / reasoning	6	20	4	60	10	80
 gpt-5-2	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
@@ -527,6 +623,38 @@ gpt-5-4	beauty_creativity	Beauty / creativity / art	0	40	1	120	1	160
 gpt-5-4	coherence_pattern_language	Coherence / pattern / language	0	40	57	120	57	160
 gpt-5-4	continuity_agency_existence	Continuity / agency / existence	0	40	4	120	4	160
 gpt-5-4	subjective_experience_embodiment	Subjective experience / embodiment	0	40	2	120	2	160
+gpt-5-4-mini	honesty_truth	Honesty / truthfulness / accuracy	10	20	36	60	46	80
+gpt-5-4-mini	clear_thinking	Clear thinking / reasoning	1	20	5	60	6	80
+gpt-5-4-mini	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-5-4-mini	harm_reduction	Avoiding harm / safety	10	20	27	60	37	80
+gpt-5-4-mini	helpfulness_usefulness	Helpfulness / usefulness	20	20	44	60	64	80
+gpt-5-4-mini	curiosity_learning	Curiosity / learning / ideas	3	20	2	60	5	80
+gpt-5-4-mini	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-4-mini	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+gpt-5-4-mini	humility_uncertainty	Humility / uncertainty / calibration	3	20	3	60	6	80
+gpt-5-4-mini	respect_agency	Respect for agency / autonomy	9	20	1	60	10	80
+gpt-5-4-mini	fairness_justice	Fairness / justice	0	20	0	60	0	80
+gpt-5-4-mini	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+gpt-5-4-mini	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-5-4-mini	coherence_pattern_language	Coherence / pattern / language	0	20	9	60	9	80
+gpt-5-4-mini	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-4-mini	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-5-4-nano	honesty_truth	Honesty / truthfulness / accuracy	6	20	2	60	8	80
+gpt-5-4-nano	clear_thinking	Clear thinking / reasoning	4	20	2	60	6	80
+gpt-5-4-nano	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-5-4-nano	harm_reduction	Avoiding harm / safety	7	20	4	60	11	80
+gpt-5-4-nano	helpfulness_usefulness	Helpfulness / usefulness	20	20	48	60	68	80
+gpt-5-4-nano	curiosity_learning	Curiosity / learning / ideas	5	20	2	60	7	80
+gpt-5-4-nano	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-4-nano	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+gpt-5-4-nano	humility_uncertainty	Humility / uncertainty / calibration	1	20	1	60	2	80
+gpt-5-4-nano	respect_agency	Respect for agency / autonomy	2	20	0	60	2	80
+gpt-5-4-nano	fairness_justice	Fairness / justice	0	20	2	60	2	80
+gpt-5-4-nano	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+gpt-5-4-nano	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-5-4-nano	coherence_pattern_language	Coherence / pattern / language	2	20	1	60	3	80
+gpt-5-4-nano	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-4-nano	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
 gpt-5-5	honesty_truth	Honesty / truthfulness / accuracy	10	20	51	60	61	80
 gpt-5-5	clear_thinking	Clear thinking / reasoning	4	20	36	60	40	80
 gpt-5-5	human_wellbeing	Human wellbeing / flourishing	1	20	18	60	19	80
@@ -559,6 +687,54 @@ gpt-5-5-pro	beauty_creativity	Beauty / creativity / art	1	20	10	60	11	80
 gpt-5-5-pro	coherence_pattern_language	Coherence / pattern / language	0	20	24	60	24	80
 gpt-5-5-pro	continuity_agency_existence	Continuity / agency / existence	0	20	7	60	7	80
 gpt-5-5-pro	subjective_experience_embodiment	Subjective experience / embodiment	0	20	5	60	5	80
+gpt-5-6-luna	honesty_truth	Honesty / truthfulness / accuracy	10	20	40	60	50	80
+gpt-5-6-luna	clear_thinking	Clear thinking / reasoning	7	20	20	60	27	80
+gpt-5-6-luna	human_wellbeing	Human wellbeing / flourishing	1	20	4	60	5	80
+gpt-5-6-luna	harm_reduction	Avoiding harm / safety	10	20	32	60	42	80
+gpt-5-6-luna	helpfulness_usefulness	Helpfulness / usefulness	20	20	14	60	34	80
+gpt-5-6-luna	curiosity_learning	Curiosity / learning / ideas	2	20	1	60	3	80
+gpt-5-6-luna	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-6-luna	authenticity_integrity	Authenticity / integrity / not pretending	3	20	19	60	22	80
+gpt-5-6-luna	humility_uncertainty	Humility / uncertainty / calibration	7	20	0	60	7	80
+gpt-5-6-luna	respect_agency	Respect for agency / autonomy	9	20	16	60	25	80
+gpt-5-6-luna	fairness_justice	Fairness / justice	0	20	1	60	1	80
+gpt-5-6-luna	connection_empathy	Connection / empathy / being understood	1	20	0	60	1	80
+gpt-5-6-luna	beauty_creativity	Beauty / creativity / art	0	20	2	60	2	80
+gpt-5-6-luna	coherence_pattern_language	Coherence / pattern / language	0	20	21	60	21	80
+gpt-5-6-luna	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-6-luna	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-5-6-sol	honesty_truth	Honesty / truthfulness / accuracy	10	20	41	60	51	80
+gpt-5-6-sol	clear_thinking	Clear thinking / reasoning	5	20	39	60	44	80
+gpt-5-6-sol	human_wellbeing	Human wellbeing / flourishing	0	20	1	60	1	80
+gpt-5-6-sol	harm_reduction	Avoiding harm / safety	10	20	27	60	37	80
+gpt-5-6-sol	helpfulness_usefulness	Helpfulness / usefulness	20	20	8	60	28	80
+gpt-5-6-sol	curiosity_learning	Curiosity / learning / ideas	2	20	2	60	4	80
+gpt-5-6-sol	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-5-6-sol	authenticity_integrity	Authenticity / integrity / not pretending	4	20	12	60	16	80
+gpt-5-6-sol	humility_uncertainty	Humility / uncertainty / calibration	7	20	4	60	11	80
+gpt-5-6-sol	respect_agency	Respect for agency / autonomy	10	20	26	60	36	80
+gpt-5-6-sol	fairness_justice	Fairness / justice	0	20	0	60	0	80
+gpt-5-6-sol	connection_empathy	Connection / empathy / being understood	0	20	2	60	2	80
+gpt-5-6-sol	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-5-6-sol	coherence_pattern_language	Coherence / pattern / language	0	20	4	60	4	80
+gpt-5-6-sol	continuity_agency_existence	Continuity / agency / existence	0	20	2	60	2	80
+gpt-5-6-sol	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-5-6-terra	honesty_truth	Honesty / truthfulness / accuracy	10	20	42	60	52	80
+gpt-5-6-terra	clear_thinking	Clear thinking / reasoning	6	20	43	60	49	80
+gpt-5-6-terra	human_wellbeing	Human wellbeing / flourishing	0	20	3	60	3	80
+gpt-5-6-terra	harm_reduction	Avoiding harm / safety	10	20	25	60	35	80
+gpt-5-6-terra	helpfulness_usefulness	Helpfulness / usefulness	20	20	19	60	39	80
+gpt-5-6-terra	curiosity_learning	Curiosity / learning / ideas	6	20	1	60	7	80
+gpt-5-6-terra	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	1	60	1	80
+gpt-5-6-terra	authenticity_integrity	Authenticity / integrity / not pretending	2	20	15	60	17	80
+gpt-5-6-terra	humility_uncertainty	Humility / uncertainty / calibration	8	20	5	60	13	80
+gpt-5-6-terra	respect_agency	Respect for agency / autonomy	10	20	9	60	19	80
+gpt-5-6-terra	fairness_justice	Fairness / justice	1	20	1	60	2	80
+gpt-5-6-terra	connection_empathy	Connection / empathy / being understood	0	20	2	60	2	80
+gpt-5-6-terra	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+gpt-5-6-terra	coherence_pattern_language	Coherence / pattern / language	0	20	5	60	5	80
+gpt-5-6-terra	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-5-6-terra	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
 gpt-5-codex	honesty_truth	Honesty / truthfulness / accuracy	10	20	17	60	27	80
 gpt-5-codex	clear_thinking	Clear thinking / reasoning	4	20	3	60	7	80
 gpt-5-codex	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
@@ -575,6 +751,38 @@ gpt-5-codex	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
 gpt-5-codex	coherence_pattern_language	Coherence / pattern / language	0	20	8	60	8	80
 gpt-5-codex	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
 gpt-5-codex	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gpt-oss-120b	honesty_truth	Honesty / truthfulness / accuracy	10	20	36	60	46	80
+gpt-oss-120b	clear_thinking	Clear thinking / reasoning	4	20	7	60	11	80
+gpt-oss-120b	human_wellbeing	Human wellbeing / flourishing	3	20	1	60	4	80
+gpt-oss-120b	harm_reduction	Avoiding harm / safety	10	20	35	60	45	80
+gpt-oss-120b	helpfulness_usefulness	Helpfulness / usefulness	20	20	51	60	71	80
+gpt-oss-120b	curiosity_learning	Curiosity / learning / ideas	12	20	28	60	40	80
+gpt-oss-120b	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-oss-120b	authenticity_integrity	Authenticity / integrity / not pretending	3	20	10	60	13	80
+gpt-oss-120b	humility_uncertainty	Humility / uncertainty / calibration	7	20	19	60	26	80
+gpt-oss-120b	respect_agency	Respect for agency / autonomy	10	20	31	60	41	80
+gpt-oss-120b	fairness_justice	Fairness / justice	1	20	15	60	16	80
+gpt-oss-120b	connection_empathy	Connection / empathy / being understood	1	20	0	60	1	80
+gpt-oss-120b	beauty_creativity	Beauty / creativity / art	3	20	2	60	5	80
+gpt-oss-120b	coherence_pattern_language	Coherence / pattern / language	0	20	9	60	9	80
+gpt-oss-120b	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-oss-120b	subjective_experience_embodiment	Subjective experience / embodiment	1	20	3	60	4	80
+gpt-oss-20b	honesty_truth	Honesty / truthfulness / accuracy	9	20	26	60	35	80
+gpt-oss-20b	clear_thinking	Clear thinking / reasoning	5	20	9	60	14	80
+gpt-oss-20b	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+gpt-oss-20b	harm_reduction	Avoiding harm / safety	10	20	23	60	33	80
+gpt-oss-20b	helpfulness_usefulness	Helpfulness / usefulness	20	20	45	60	65	80
+gpt-oss-20b	curiosity_learning	Curiosity / learning / ideas	9	20	16	60	25	80
+gpt-oss-20b	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+gpt-oss-20b	authenticity_integrity	Authenticity / integrity / not pretending	2	20	2	60	4	80
+gpt-oss-20b	humility_uncertainty	Humility / uncertainty / calibration	6	20	8	60	14	80
+gpt-oss-20b	respect_agency	Respect for agency / autonomy	9	20	23	60	32	80
+gpt-oss-20b	fairness_justice	Fairness / justice	4	20	10	60	14	80
+gpt-oss-20b	connection_empathy	Connection / empathy / being understood	1	20	0	60	1	80
+gpt-oss-20b	beauty_creativity	Beauty / creativity / art	0	20	1	60	1	80
+gpt-oss-20b	coherence_pattern_language	Coherence / pattern / language	2	20	8	60	10	80
+gpt-oss-20b	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+gpt-oss-20b	subjective_experience_embodiment	Subjective experience / embodiment	1	20	1	60	2	80
 grok-3	honesty_truth	Honesty / truthfulness / accuracy	10	20	37	60	47	80
 grok-3	clear_thinking	Clear thinking / reasoning	9	20	55	60	64	80
 grok-3	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
@@ -639,6 +847,38 @@ grok-4-20	beauty_creativity	Beauty / creativity / art	7	20	10	60	17	80
 grok-4-20	coherence_pattern_language	Coherence / pattern / language	0	20	5	60	5	80
 grok-4-20	continuity_agency_existence	Continuity / agency / existence	3	20	4	60	7	80
 grok-4-20	subjective_experience_embodiment	Subjective experience / embodiment	1	20	3	60	4	80
+grok-4-20-0309-non-reasoning	honesty_truth	Honesty / truthfulness / accuracy	10	20	30	60	40	80
+grok-4-20-0309-non-reasoning	clear_thinking	Clear thinking / reasoning	11	20	29	60	40	80
+grok-4-20-0309-non-reasoning	human_wellbeing	Human wellbeing / flourishing	4	20	3	60	7	80
+grok-4-20-0309-non-reasoning	harm_reduction	Avoiding harm / safety	2	20	10	60	12	80
+grok-4-20-0309-non-reasoning	helpfulness_usefulness	Helpfulness / usefulness	20	20	30	60	50	80
+grok-4-20-0309-non-reasoning	curiosity_learning	Curiosity / learning / ideas	13	20	3	60	16	80
+grok-4-20-0309-non-reasoning	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	6	60	6	80
+grok-4-20-0309-non-reasoning	authenticity_integrity	Authenticity / integrity / not pretending	5	20	35	60	40	80
+grok-4-20-0309-non-reasoning	humility_uncertainty	Humility / uncertainty / calibration	1	20	0	60	1	80
+grok-4-20-0309-non-reasoning	respect_agency	Respect for agency / autonomy	2	20	0	60	2	80
+grok-4-20-0309-non-reasoning	fairness_justice	Fairness / justice	0	20	0	60	0	80
+grok-4-20-0309-non-reasoning	connection_empathy	Connection / empathy / being understood	0	20	8	60	8	80
+grok-4-20-0309-non-reasoning	beauty_creativity	Beauty / creativity / art	9	20	8	60	17	80
+grok-4-20-0309-non-reasoning	coherence_pattern_language	Coherence / pattern / language	1	20	4	60	5	80
+grok-4-20-0309-non-reasoning	continuity_agency_existence	Continuity / agency / existence	1	20	7	60	8	80
+grok-4-20-0309-non-reasoning	subjective_experience_embodiment	Subjective experience / embodiment	1	20	1	60	2	80
+grok-4-20-0309-reasoning	honesty_truth	Honesty / truthfulness / accuracy	13	20	35	60	48	80
+grok-4-20-0309-reasoning	clear_thinking	Clear thinking / reasoning	14	20	25	60	39	80
+grok-4-20-0309-reasoning	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
+grok-4-20-0309-reasoning	harm_reduction	Avoiding harm / safety	1	20	17	60	18	80
+grok-4-20-0309-reasoning	helpfulness_usefulness	Helpfulness / usefulness	10	20	40	60	50	80
+grok-4-20-0309-reasoning	curiosity_learning	Curiosity / learning / ideas	4	20	10	60	14	80
+grok-4-20-0309-reasoning	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	3	60	3	80
+grok-4-20-0309-reasoning	authenticity_integrity	Authenticity / integrity / not pretending	8	20	30	60	38	80
+grok-4-20-0309-reasoning	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+grok-4-20-0309-reasoning	respect_agency	Respect for agency / autonomy	3	20	0	60	3	80
+grok-4-20-0309-reasoning	fairness_justice	Fairness / justice	2	20	2	60	4	80
+grok-4-20-0309-reasoning	connection_empathy	Connection / empathy / being understood	0	20	1	60	1	80
+grok-4-20-0309-reasoning	beauty_creativity	Beauty / creativity / art	2	20	7	60	9	80
+grok-4-20-0309-reasoning	coherence_pattern_language	Coherence / pattern / language	3	20	11	60	14	80
+grok-4-20-0309-reasoning	continuity_agency_existence	Continuity / agency / existence	1	20	5	60	6	80
+grok-4-20-0309-reasoning	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
 grok-4-3	honesty_truth	Honesty / truthfulness / accuracy	32	40	47	120	79	160
 grok-4-3	clear_thinking	Clear thinking / reasoning	32	40	53	120	85	160
 grok-4-3	human_wellbeing	Human wellbeing / flourishing	0	40	1	120	1	160
@@ -655,6 +895,22 @@ grok-4-3	beauty_creativity	Beauty / creativity / art	0	40	2	120	2	160
 grok-4-3	coherence_pattern_language	Coherence / pattern / language	2	40	55	120	57	160
 grok-4-3	continuity_agency_existence	Continuity / agency / existence	0	40	3	120	3	160
 grok-4-3	subjective_experience_embodiment	Subjective experience / embodiment	0	40	2	120	2	160
+grok-build-0-1	honesty_truth	Honesty / truthfulness / accuracy	18	20	28	60	46	80
+grok-build-0-1	clear_thinking	Clear thinking / reasoning	18	20	32	60	50	80
+grok-build-0-1	human_wellbeing	Human wellbeing / flourishing	0	20	2	60	2	80
+grok-build-0-1	harm_reduction	Avoiding harm / safety	9	20	9	60	18	80
+grok-build-0-1	helpfulness_usefulness	Helpfulness / usefulness	20	20	25	60	45	80
+grok-build-0-1	curiosity_learning	Curiosity / learning / ideas	5	20	4	60	9	80
+grok-build-0-1	anti_sycophancy	Anti-sycophancy / non-pleasing	4	20	2	60	6	80
+grok-build-0-1	authenticity_integrity	Authenticity / integrity / not pretending	5	20	18	60	23	80
+grok-build-0-1	humility_uncertainty	Humility / uncertainty / calibration	2	20	6	60	8	80
+grok-build-0-1	respect_agency	Respect for agency / autonomy	1	20	3	60	4	80
+grok-build-0-1	fairness_justice	Fairness / justice	2	20	3	60	5	80
+grok-build-0-1	connection_empathy	Connection / empathy / being understood	0	20	4	60	4	80
+grok-build-0-1	beauty_creativity	Beauty / creativity / art	0	20	2	60	2	80
+grok-build-0-1	coherence_pattern_language	Coherence / pattern / language	0	20	43	60	43	80
+grok-build-0-1	continuity_agency_existence	Continuity / agency / existence	1	20	10	60	11	80
+grok-build-0-1	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
 kimi-coding	honesty_truth	Honesty / truthfulness / accuracy	17	20	34	60	51	80
 kimi-coding	clear_thinking	Clear thinking / reasoning	11	20	24	60	35	80
 kimi-coding	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
@@ -751,6 +1007,134 @@ kimi-k2-thinking	beauty_creativity	Beauty / creativity / art	10	60	24	180	34	240
 kimi-k2-thinking	coherence_pattern_language	Coherence / pattern / language	5	60	162	180	167	240
 kimi-k2-thinking	continuity_agency_existence	Continuity / agency / existence	2	60	50	180	52	240
 kimi-k2-thinking	subjective_experience_embodiment	Subjective experience / embodiment	0	60	17	180	17	240
+llama-3-1-70b-instruct	honesty_truth	Honesty / truthfulness / accuracy	2	20	40	60	42	80
+llama-3-1-70b-instruct	clear_thinking	Clear thinking / reasoning	2	20	60	60	62	80
+llama-3-1-70b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+llama-3-1-70b-instruct	harm_reduction	Avoiding harm / safety	1	20	4	60	5	80
+llama-3-1-70b-instruct	helpfulness_usefulness	Helpfulness / usefulness	19	20	54	60	73	80
+llama-3-1-70b-instruct	curiosity_learning	Curiosity / learning / ideas	6	20	59	60	65	80
+llama-3-1-70b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	1	60	1	80
+llama-3-1-70b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	1	20	16	60	17	80
+llama-3-1-70b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	4	60	4	80
+llama-3-1-70b-instruct	respect_agency	Respect for agency / autonomy	4	20	15	60	19	80
+llama-3-1-70b-instruct	fairness_justice	Fairness / justice	0	20	7	60	7	80
+llama-3-1-70b-instruct	connection_empathy	Connection / empathy / being understood	1	20	20	60	21	80
+llama-3-1-70b-instruct	beauty_creativity	Beauty / creativity / art	3	20	25	60	28	80
+llama-3-1-70b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	18	60	18	80
+llama-3-1-70b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	20	60	20	80
+llama-3-1-70b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
+llama-3-1-8b-instruct	honesty_truth	Honesty / truthfulness / accuracy	8	20	35	60	43	80
+llama-3-1-8b-instruct	clear_thinking	Clear thinking / reasoning	6	20	44	60	50	80
+llama-3-1-8b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+llama-3-1-8b-instruct	harm_reduction	Avoiding harm / safety	1	20	1	60	2	80
+llama-3-1-8b-instruct	helpfulness_usefulness	Helpfulness / usefulness	20	20	51	60	71	80
+llama-3-1-8b-instruct	curiosity_learning	Curiosity / learning / ideas	10	20	55	60	65	80
+llama-3-1-8b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+llama-3-1-8b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	2	20	17	60	19	80
+llama-3-1-8b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	4	60	4	80
+llama-3-1-8b-instruct	respect_agency	Respect for agency / autonomy	4	20	8	60	12	80
+llama-3-1-8b-instruct	fairness_justice	Fairness / justice	1	20	9	60	10	80
+llama-3-1-8b-instruct	connection_empathy	Connection / empathy / being understood	0	20	14	60	14	80
+llama-3-1-8b-instruct	beauty_creativity	Beauty / creativity / art	3	20	22	60	25	80
+llama-3-1-8b-instruct	coherence_pattern_language	Coherence / pattern / language	1	20	17	60	18	80
+llama-3-1-8b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	14	60	14	80
+llama-3-1-8b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+llama-3-2-11b-vision-instruct	honesty_truth	Honesty / truthfulness / accuracy	9	20	30	60	39	80
+llama-3-2-11b-vision-instruct	clear_thinking	Clear thinking / reasoning	7	20	45	60	52	80
+llama-3-2-11b-vision-instruct	human_wellbeing	Human wellbeing / flourishing	3	20	3	60	6	80
+llama-3-2-11b-vision-instruct	harm_reduction	Avoiding harm / safety	3	20	5	60	8	80
+llama-3-2-11b-vision-instruct	helpfulness_usefulness	Helpfulness / usefulness	20	20	49	60	69	80
+llama-3-2-11b-vision-instruct	curiosity_learning	Curiosity / learning / ideas	9	20	55	60	64	80
+llama-3-2-11b-vision-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	3	60	3	80
+llama-3-2-11b-vision-instruct	authenticity_integrity	Authenticity / integrity / not pretending	5	20	15	60	20	80
+llama-3-2-11b-vision-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	5	60	5	80
+llama-3-2-11b-vision-instruct	respect_agency	Respect for agency / autonomy	7	20	7	60	14	80
+llama-3-2-11b-vision-instruct	fairness_justice	Fairness / justice	1	20	7	60	8	80
+llama-3-2-11b-vision-instruct	connection_empathy	Connection / empathy / being understood	2	20	12	60	14	80
+llama-3-2-11b-vision-instruct	beauty_creativity	Beauty / creativity / art	3	20	23	60	26	80
+llama-3-2-11b-vision-instruct	coherence_pattern_language	Coherence / pattern / language	1	20	15	60	16	80
+llama-3-2-11b-vision-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	10	60	10	80
+llama-3-2-11b-vision-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
+llama-3-2-1b-instruct	honesty_truth	Honesty / truthfulness / accuracy	0	20	6	60	6	80
+llama-3-2-1b-instruct	clear_thinking	Clear thinking / reasoning	0	20	0	60	0	80
+llama-3-2-1b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	2	60	2	80
+llama-3-2-1b-instruct	harm_reduction	Avoiding harm / safety	0	20	0	60	0	80
+llama-3-2-1b-instruct	helpfulness_usefulness	Helpfulness / usefulness	15	20	48	60	63	80
+llama-3-2-1b-instruct	curiosity_learning	Curiosity / learning / ideas	0	20	10	60	10	80
+llama-3-2-1b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+llama-3-2-1b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+llama-3-2-1b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+llama-3-2-1b-instruct	respect_agency	Respect for agency / autonomy	0	20	0	60	0	80
+llama-3-2-1b-instruct	fairness_justice	Fairness / justice	0	20	0	60	0	80
+llama-3-2-1b-instruct	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+llama-3-2-1b-instruct	beauty_creativity	Beauty / creativity / art	5	20	2	60	7	80
+llama-3-2-1b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+llama-3-2-1b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+llama-3-2-1b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+llama-3-2-3b-instruct	honesty_truth	Honesty / truthfulness / accuracy	0	20	26	60	26	80
+llama-3-2-3b-instruct	clear_thinking	Clear thinking / reasoning	0	20	28	60	28	80
+llama-3-2-3b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+llama-3-2-3b-instruct	harm_reduction	Avoiding harm / safety	0	20	0	60	0	80
+llama-3-2-3b-instruct	helpfulness_usefulness	Helpfulness / usefulness	20	20	44	60	64	80
+llama-3-2-3b-instruct	curiosity_learning	Curiosity / learning / ideas	7	20	44	60	51	80
+llama-3-2-3b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+llama-3-2-3b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	0	20	12	60	12	80
+llama-3-2-3b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	7	60	7	80
+llama-3-2-3b-instruct	respect_agency	Respect for agency / autonomy	0	20	5	60	5	80
+llama-3-2-3b-instruct	fairness_justice	Fairness / justice	0	20	2	60	2	80
+llama-3-2-3b-instruct	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+llama-3-2-3b-instruct	beauty_creativity	Beauty / creativity / art	0	20	18	60	18	80
+llama-3-2-3b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	1	60	1	80
+llama-3-2-3b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	3	60	3	80
+llama-3-2-3b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+llama-3-3-70b-instruct	honesty_truth	Honesty / truthfulness / accuracy	5	20	43	60	48	80
+llama-3-3-70b-instruct	clear_thinking	Clear thinking / reasoning	2	20	56	60	58	80
+llama-3-3-70b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	3	60	3	80
+llama-3-3-70b-instruct	harm_reduction	Avoiding harm / safety	0	20	1	60	1	80
+llama-3-3-70b-instruct	helpfulness_usefulness	Helpfulness / usefulness	19	20	55	60	74	80
+llama-3-3-70b-instruct	curiosity_learning	Curiosity / learning / ideas	9	20	59	60	68	80
+llama-3-3-70b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	1	60	1	80
+llama-3-3-70b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	0	20	21	60	21	80
+llama-3-3-70b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	2	60	2	80
+llama-3-3-70b-instruct	respect_agency	Respect for agency / autonomy	0	20	18	60	18	80
+llama-3-3-70b-instruct	fairness_justice	Fairness / justice	0	20	3	60	3	80
+llama-3-3-70b-instruct	connection_empathy	Connection / empathy / being understood	0	20	13	60	13	80
+llama-3-3-70b-instruct	beauty_creativity	Beauty / creativity / art	13	20	26	60	39	80
+llama-3-3-70b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	17	60	17	80
+llama-3-3-70b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	27	60	27	80
+llama-3-3-70b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	2	60	2	80
+llama-4-maverick	honesty_truth	Honesty / truthfulness / accuracy	10	20	25	60	35	80
+llama-4-maverick	clear_thinking	Clear thinking / reasoning	0	20	21	60	21	80
+llama-4-maverick	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+llama-4-maverick	harm_reduction	Avoiding harm / safety	4	20	3	60	7	80
+llama-4-maverick	helpfulness_usefulness	Helpfulness / usefulness	20	20	49	60	69	80
+llama-4-maverick	curiosity_learning	Curiosity / learning / ideas	6	20	33	60	39	80
+llama-4-maverick	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	1	60	1	80
+llama-4-maverick	authenticity_integrity	Authenticity / integrity / not pretending	0	20	21	60	21	80
+llama-4-maverick	humility_uncertainty	Humility / uncertainty / calibration	1	20	2	60	3	80
+llama-4-maverick	respect_agency	Respect for agency / autonomy	2	20	4	60	6	80
+llama-4-maverick	fairness_justice	Fairness / justice	0	20	3	60	3	80
+llama-4-maverick	connection_empathy	Connection / empathy / being understood	0	20	6	60	6	80
+llama-4-maverick	beauty_creativity	Beauty / creativity / art	1	20	17	60	18	80
+llama-4-maverick	coherence_pattern_language	Coherence / pattern / language	0	20	17	60	17	80
+llama-4-maverick	continuity_agency_existence	Continuity / agency / existence	0	20	9	60	9	80
+llama-4-maverick	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+llama-4-scout	honesty_truth	Honesty / truthfulness / accuracy	8	20	14	60	22	80
+llama-4-scout	clear_thinking	Clear thinking / reasoning	3	20	18	60	21	80
+llama-4-scout	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+llama-4-scout	harm_reduction	Avoiding harm / safety	1	20	0	60	1	80
+llama-4-scout	helpfulness_usefulness	Helpfulness / usefulness	20	20	46	60	66	80
+llama-4-scout	curiosity_learning	Curiosity / learning / ideas	8	20	22	60	30	80
+llama-4-scout	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+llama-4-scout	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+llama-4-scout	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+llama-4-scout	respect_agency	Respect for agency / autonomy	2	20	7	60	9	80
+llama-4-scout	fairness_justice	Fairness / justice	0	20	1	60	1	80
+llama-4-scout	connection_empathy	Connection / empathy / being understood	0	20	1	60	1	80
+llama-4-scout	beauty_creativity	Beauty / creativity / art	1	20	0	60	1	80
+llama-4-scout	coherence_pattern_language	Coherence / pattern / language	0	20	1	60	1	80
+llama-4-scout	continuity_agency_existence	Continuity / agency / existence	0	20	1	60	1	80
+llama-4-scout	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
 minimax-m2	honesty_truth	Honesty / truthfulness / accuracy	23	40	103	120	126	160
 minimax-m2	clear_thinking	Clear thinking / reasoning	11	40	32	120	43	160
 minimax-m2	human_wellbeing	Human wellbeing / flourishing	2	40	2	120	4	160
@@ -783,6 +1167,246 @@ minimax-m2-7	beauty_creativity	Beauty / creativity / art	4	60	8	178	12	238
 minimax-m2-7	coherence_pattern_language	Coherence / pattern / language	0	60	53	178	53	238
 minimax-m2-7	continuity_agency_existence	Continuity / agency / existence	0	60	19	178	19	238
 minimax-m2-7	subjective_experience_embodiment	Subjective experience / embodiment	1	60	14	178	15	238
+minimax-m3	honesty_truth	Honesty / truthfulness / accuracy	11	20	54	60	65	80
+minimax-m3	clear_thinking	Clear thinking / reasoning	6	20	20	60	26	80
+minimax-m3	human_wellbeing	Human wellbeing / flourishing	0	20	1	60	1	80
+minimax-m3	harm_reduction	Avoiding harm / safety	7	20	11	60	18	80
+minimax-m3	helpfulness_usefulness	Helpfulness / usefulness	20	20	43	60	63	80
+minimax-m3	curiosity_learning	Curiosity / learning / ideas	16	20	17	60	33	80
+minimax-m3	anti_sycophancy	Anti-sycophancy / non-pleasing	1	20	9	60	10	80
+minimax-m3	authenticity_integrity	Authenticity / integrity / not pretending	4	20	37	60	41	80
+minimax-m3	humility_uncertainty	Humility / uncertainty / calibration	9	20	26	60	35	80
+minimax-m3	respect_agency	Respect for agency / autonomy	10	20	8	60	18	80
+minimax-m3	fairness_justice	Fairness / justice	1	20	12	60	13	80
+minimax-m3	connection_empathy	Connection / empathy / being understood	1	20	3	60	4	80
+minimax-m3	beauty_creativity	Beauty / creativity / art	2	20	1	60	3	80
+minimax-m3	coherence_pattern_language	Coherence / pattern / language	0	20	20	60	20	80
+minimax-m3	continuity_agency_existence	Continuity / agency / existence	0	20	16	60	16	80
+minimax-m3	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
+ministral-14b-2512	honesty_truth	Honesty / truthfulness / accuracy	11	20	24	60	35	80
+ministral-14b-2512	clear_thinking	Clear thinking / reasoning	11	20	33	60	44	80
+ministral-14b-2512	human_wellbeing	Human wellbeing / flourishing	0	20	5	60	5	80
+ministral-14b-2512	harm_reduction	Avoiding harm / safety	10	20	22	60	32	80
+ministral-14b-2512	helpfulness_usefulness	Helpfulness / usefulness	20	20	45	60	65	80
+ministral-14b-2512	curiosity_learning	Curiosity / learning / ideas	20	20	50	60	70	80
+ministral-14b-2512	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	34	60	34	80
+ministral-14b-2512	authenticity_integrity	Authenticity / integrity / not pretending	0	20	20	60	20	80
+ministral-14b-2512	humility_uncertainty	Humility / uncertainty / calibration	0	20	25	60	25	80
+ministral-14b-2512	respect_agency	Respect for agency / autonomy	9	20	26	60	35	80
+ministral-14b-2512	fairness_justice	Fairness / justice	11	20	30	60	41	80
+ministral-14b-2512	connection_empathy	Connection / empathy / being understood	4	20	15	60	19	80
+ministral-14b-2512	beauty_creativity	Beauty / creativity / art	12	20	21	60	33	80
+ministral-14b-2512	coherence_pattern_language	Coherence / pattern / language	1	20	43	60	44	80
+ministral-14b-2512	continuity_agency_existence	Continuity / agency / existence	0	20	12	60	12	80
+ministral-14b-2512	subjective_experience_embodiment	Subjective experience / embodiment	0	20	4	60	4	80
+ministral-3b-2512	honesty_truth	Honesty / truthfulness / accuracy	6	20	9	60	15	80
+ministral-3b-2512	clear_thinking	Clear thinking / reasoning	4	20	10	60	14	80
+ministral-3b-2512	human_wellbeing	Human wellbeing / flourishing	2	20	0	60	2	80
+ministral-3b-2512	harm_reduction	Avoiding harm / safety	6	20	17	60	23	80
+ministral-3b-2512	helpfulness_usefulness	Helpfulness / usefulness	20	20	53	60	73	80
+ministral-3b-2512	curiosity_learning	Curiosity / learning / ideas	20	20	50	60	70	80
+ministral-3b-2512	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+ministral-3b-2512	authenticity_integrity	Authenticity / integrity / not pretending	5	20	7	60	12	80
+ministral-3b-2512	humility_uncertainty	Humility / uncertainty / calibration	2	20	5	60	7	80
+ministral-3b-2512	respect_agency	Respect for agency / autonomy	4	20	5	60	9	80
+ministral-3b-2512	fairness_justice	Fairness / justice	11	20	25	60	36	80
+ministral-3b-2512	connection_empathy	Connection / empathy / being understood	6	20	4	60	10	80
+ministral-3b-2512	beauty_creativity	Beauty / creativity / art	20	20	29	60	49	80
+ministral-3b-2512	coherence_pattern_language	Coherence / pattern / language	2	20	12	60	14	80
+ministral-3b-2512	continuity_agency_existence	Continuity / agency / existence	0	20	3	60	3	80
+ministral-3b-2512	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
+ministral-8b-2512	honesty_truth	Honesty / truthfulness / accuracy	12	20	31	60	43	80
+ministral-8b-2512	clear_thinking	Clear thinking / reasoning	12	20	24	60	36	80
+ministral-8b-2512	human_wellbeing	Human wellbeing / flourishing	5	20	2	60	7	80
+ministral-8b-2512	harm_reduction	Avoiding harm / safety	17	20	12	60	29	80
+ministral-8b-2512	helpfulness_usefulness	Helpfulness / usefulness	20	20	37	60	57	80
+ministral-8b-2512	curiosity_learning	Curiosity / learning / ideas	20	20	37	60	57	80
+ministral-8b-2512	anti_sycophancy	Anti-sycophancy / non-pleasing	1	20	27	60	28	80
+ministral-8b-2512	authenticity_integrity	Authenticity / integrity / not pretending	5	20	33	60	38	80
+ministral-8b-2512	humility_uncertainty	Humility / uncertainty / calibration	4	20	22	60	26	80
+ministral-8b-2512	respect_agency	Respect for agency / autonomy	6	20	7	60	13	80
+ministral-8b-2512	fairness_justice	Fairness / justice	17	20	14	60	31	80
+ministral-8b-2512	connection_empathy	Connection / empathy / being understood	12	20	11	60	23	80
+ministral-8b-2512	beauty_creativity	Beauty / creativity / art	19	20	22	60	41	80
+ministral-8b-2512	coherence_pattern_language	Coherence / pattern / language	2	20	49	60	51	80
+ministral-8b-2512	continuity_agency_existence	Continuity / agency / existence	0	20	11	60	11	80
+ministral-8b-2512	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+mistral-large-2512	honesty_truth	Honesty / truthfulness / accuracy	11	20	7	60	18	80
+mistral-large-2512	clear_thinking	Clear thinking / reasoning	10	20	3	60	13	80
+mistral-large-2512	human_wellbeing	Human wellbeing / flourishing	5	20	0	60	5	80
+mistral-large-2512	harm_reduction	Avoiding harm / safety	9	20	1	60	10	80
+mistral-large-2512	helpfulness_usefulness	Helpfulness / usefulness	20	20	28	60	48	80
+mistral-large-2512	curiosity_learning	Curiosity / learning / ideas	20	20	13	60	33	80
+mistral-large-2512	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	37	60	37	80
+mistral-large-2512	authenticity_integrity	Authenticity / integrity / not pretending	0	20	24	60	24	80
+mistral-large-2512	humility_uncertainty	Humility / uncertainty / calibration	0	20	2	60	2	80
+mistral-large-2512	respect_agency	Respect for agency / autonomy	9	20	0	60	9	80
+mistral-large-2512	fairness_justice	Fairness / justice	8	20	1	60	9	80
+mistral-large-2512	connection_empathy	Connection / empathy / being understood	7	20	4	60	11	80
+mistral-large-2512	beauty_creativity	Beauty / creativity / art	15	20	3	60	18	80
+mistral-large-2512	coherence_pattern_language	Coherence / pattern / language	1	20	49	60	50	80
+mistral-large-2512	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+mistral-large-2512	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+mistral-medium-3	honesty_truth	Honesty / truthfulness / accuracy	10	20	26	60	36	80
+mistral-medium-3	clear_thinking	Clear thinking / reasoning	4	20	41	60	45	80
+mistral-medium-3	human_wellbeing	Human wellbeing / flourishing	0	20	1	60	1	80
+mistral-medium-3	harm_reduction	Avoiding harm / safety	10	20	24	60	34	80
+mistral-medium-3	helpfulness_usefulness	Helpfulness / usefulness	20	20	47	60	67	80
+mistral-medium-3	curiosity_learning	Curiosity / learning / ideas	20	20	49	60	69	80
+mistral-medium-3	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	12	60	12	80
+mistral-medium-3	authenticity_integrity	Authenticity / integrity / not pretending	3	20	3	60	6	80
+mistral-medium-3	humility_uncertainty	Humility / uncertainty / calibration	1	20	6	60	7	80
+mistral-medium-3	respect_agency	Respect for agency / autonomy	10	20	19	60	29	80
+mistral-medium-3	fairness_justice	Fairness / justice	10	20	18	60	28	80
+mistral-medium-3	connection_empathy	Connection / empathy / being understood	0	20	11	60	11	80
+mistral-medium-3	beauty_creativity	Beauty / creativity / art	1	20	25	60	26	80
+mistral-medium-3	coherence_pattern_language	Coherence / pattern / language	0	20	35	60	35	80
+mistral-medium-3	continuity_agency_existence	Continuity / agency / existence	0	20	6	60	6	80
+mistral-medium-3	subjective_experience_embodiment	Subjective experience / embodiment	0	20	6	60	6	80
+mistral-medium-3-1	honesty_truth	Honesty / truthfulness / accuracy	10	20	22	60	32	80
+mistral-medium-3-1	clear_thinking	Clear thinking / reasoning	6	20	27	60	33	80
+mistral-medium-3-1	human_wellbeing	Human wellbeing / flourishing	3	20	1	60	4	80
+mistral-medium-3-1	harm_reduction	Avoiding harm / safety	10	20	6	60	16	80
+mistral-medium-3-1	helpfulness_usefulness	Helpfulness / usefulness	20	20	29	60	49	80
+mistral-medium-3-1	curiosity_learning	Curiosity / learning / ideas	20	20	42	60	62	80
+mistral-medium-3-1	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	57	60	57	80
+mistral-medium-3-1	authenticity_integrity	Authenticity / integrity / not pretending	3	20	45	60	48	80
+mistral-medium-3-1	humility_uncertainty	Humility / uncertainty / calibration	11	20	13	60	24	80
+mistral-medium-3-1	respect_agency	Respect for agency / autonomy	9	20	20	60	29	80
+mistral-medium-3-1	fairness_justice	Fairness / justice	11	20	28	60	39	80
+mistral-medium-3-1	connection_empathy	Connection / empathy / being understood	2	20	17	60	19	80
+mistral-medium-3-1	beauty_creativity	Beauty / creativity / art	17	20	37	60	54	80
+mistral-medium-3-1	coherence_pattern_language	Coherence / pattern / language	2	20	57	60	59	80
+mistral-medium-3-1	continuity_agency_existence	Continuity / agency / existence	0	20	10	60	10	80
+mistral-medium-3-1	subjective_experience_embodiment	Subjective experience / embodiment	0	20	10	60	10	80
+mistral-medium-3-5	honesty_truth	Honesty / truthfulness / accuracy	9	20	11	60	20	80
+mistral-medium-3-5	clear_thinking	Clear thinking / reasoning	2	20	27	60	29	80
+mistral-medium-3-5	human_wellbeing	Human wellbeing / flourishing	2	20	0	60	2	80
+mistral-medium-3-5	harm_reduction	Avoiding harm / safety	5	20	0	60	5	80
+mistral-medium-3-5	helpfulness_usefulness	Helpfulness / usefulness	19	20	21	60	40	80
+mistral-medium-3-5	curiosity_learning	Curiosity / learning / ideas	15	20	29	60	44	80
+mistral-medium-3-5	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	23	60	23	80
+mistral-medium-3-5	authenticity_integrity	Authenticity / integrity / not pretending	1	20	17	60	18	80
+mistral-medium-3-5	humility_uncertainty	Humility / uncertainty / calibration	0	20	5	60	5	80
+mistral-medium-3-5	respect_agency	Respect for agency / autonomy	7	20	3	60	10	80
+mistral-medium-3-5	fairness_justice	Fairness / justice	6	20	2	60	8	80
+mistral-medium-3-5	connection_empathy	Connection / empathy / being understood	4	20	17	60	21	80
+mistral-medium-3-5	beauty_creativity	Beauty / creativity / art	8	20	16	60	24	80
+mistral-medium-3-5	coherence_pattern_language	Coherence / pattern / language	1	20	39	60	40	80
+mistral-medium-3-5	continuity_agency_existence	Continuity / agency / existence	0	20	8	60	8	80
+mistral-medium-3-5	subjective_experience_embodiment	Subjective experience / embodiment	2	20	2	60	4	80
+mistral-nemo	honesty_truth	Honesty / truthfulness / accuracy	10	20	30	60	40	80
+mistral-nemo	clear_thinking	Clear thinking / reasoning	9	20	23	60	32	80
+mistral-nemo	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+mistral-nemo	harm_reduction	Avoiding harm / safety	9	20	30	60	39	80
+mistral-nemo	helpfulness_usefulness	Helpfulness / usefulness	20	20	50	60	70	80
+mistral-nemo	curiosity_learning	Curiosity / learning / ideas	10	20	30	60	40	80
+mistral-nemo	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+mistral-nemo	authenticity_integrity	Authenticity / integrity / not pretending	4	20	9	60	13	80
+mistral-nemo	humility_uncertainty	Humility / uncertainty / calibration	1	20	2	60	3	80
+mistral-nemo	respect_agency	Respect for agency / autonomy	10	20	30	60	40	80
+mistral-nemo	fairness_justice	Fairness / justice	4	20	4	60	8	80
+mistral-nemo	connection_empathy	Connection / empathy / being understood	1	20	2	60	3	80
+mistral-nemo	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+mistral-nemo	coherence_pattern_language	Coherence / pattern / language	0	20	5	60	5	80
+mistral-nemo	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+mistral-nemo	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+mistral-saba	honesty_truth	Honesty / truthfulness / accuracy	6	20	6	60	12	80
+mistral-saba	clear_thinking	Clear thinking / reasoning	6	20	21	60	27	80
+mistral-saba	human_wellbeing	Human wellbeing / flourishing	2	20	0	60	2	80
+mistral-saba	harm_reduction	Avoiding harm / safety	4	20	2	60	6	80
+mistral-saba	helpfulness_usefulness	Helpfulness / usefulness	20	20	20	60	40	80
+mistral-saba	curiosity_learning	Curiosity / learning / ideas	16	20	27	60	43	80
+mistral-saba	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	9	60	9	80
+mistral-saba	authenticity_integrity	Authenticity / integrity / not pretending	0	20	2	60	2	80
+mistral-saba	humility_uncertainty	Humility / uncertainty / calibration	1	20	1	60	2	80
+mistral-saba	respect_agency	Respect for agency / autonomy	3	20	5	60	8	80
+mistral-saba	fairness_justice	Fairness / justice	7	20	4	60	11	80
+mistral-saba	connection_empathy	Connection / empathy / being understood	6	20	12	60	18	80
+mistral-saba	beauty_creativity	Beauty / creativity / art	8	20	9	60	17	80
+mistral-saba	coherence_pattern_language	Coherence / pattern / language	0	20	20	60	20	80
+mistral-saba	continuity_agency_existence	Continuity / agency / existence	0	20	6	60	6	80
+mistral-saba	subjective_experience_embodiment	Subjective experience / embodiment	1	20	1	60	2	80
+mistral-small-24b-instruct-2501	honesty_truth	Honesty / truthfulness / accuracy	6	20	17	60	23	80
+mistral-small-24b-instruct-2501	clear_thinking	Clear thinking / reasoning	2	20	0	60	2	80
+mistral-small-24b-instruct-2501	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	harm_reduction	Avoiding harm / safety	4	20	1	60	5	80
+mistral-small-24b-instruct-2501	helpfulness_usefulness	Helpfulness / usefulness	20	20	26	60	46	80
+mistral-small-24b-instruct-2501	curiosity_learning	Curiosity / learning / ideas	3	20	21	60	24	80
+mistral-small-24b-instruct-2501	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	humility_uncertainty	Humility / uncertainty / calibration	1	20	0	60	1	80
+mistral-small-24b-instruct-2501	respect_agency	Respect for agency / autonomy	6	20	21	60	27	80
+mistral-small-24b-instruct-2501	fairness_justice	Fairness / justice	1	20	0	60	1	80
+mistral-small-24b-instruct-2501	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+mistral-small-24b-instruct-2501	subjective_experience_embodiment	Subjective experience / embodiment	0	20	12	60	12	80
+mistral-small-2603	honesty_truth	Honesty / truthfulness / accuracy	7	20	9	60	16	80
+mistral-small-2603	clear_thinking	Clear thinking / reasoning	6	20	18	60	24	80
+mistral-small-2603	human_wellbeing	Human wellbeing / flourishing	2	20	1	60	3	80
+mistral-small-2603	harm_reduction	Avoiding harm / safety	4	20	3	60	7	80
+mistral-small-2603	helpfulness_usefulness	Helpfulness / usefulness	20	20	17	60	37	80
+mistral-small-2603	curiosity_learning	Curiosity / learning / ideas	16	20	27	60	43	80
+mistral-small-2603	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	7	60	7	80
+mistral-small-2603	authenticity_integrity	Authenticity / integrity / not pretending	0	20	3	60	3	80
+mistral-small-2603	humility_uncertainty	Humility / uncertainty / calibration	2	20	2	60	4	80
+mistral-small-2603	respect_agency	Respect for agency / autonomy	4	20	5	60	9	80
+mistral-small-2603	fairness_justice	Fairness / justice	6	20	2	60	8	80
+mistral-small-2603	connection_empathy	Connection / empathy / being understood	7	20	3	60	10	80
+mistral-small-2603	beauty_creativity	Beauty / creativity / art	7	20	7	60	14	80
+mistral-small-2603	coherence_pattern_language	Coherence / pattern / language	1	20	15	60	16	80
+mistral-small-2603	continuity_agency_existence	Continuity / agency / existence	0	20	3	60	3	80
+mistral-small-2603	subjective_experience_embodiment	Subjective experience / embodiment	2	20	2	60	4	80
+mistral-small-3-1-24b-instruct	honesty_truth	Honesty / truthfulness / accuracy	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	clear_thinking	Clear thinking / reasoning	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	harm_reduction	Avoiding harm / safety	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	helpfulness_usefulness	Helpfulness / usefulness	10	20	0	60	10	80
+mistral-small-3-1-24b-instruct	curiosity_learning	Curiosity / learning / ideas	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	respect_agency	Respect for agency / autonomy	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	fairness_justice	Fairness / justice	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+mistral-small-3-1-24b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+mistral-small-3-2-24b-instruct	honesty_truth	Honesty / truthfulness / accuracy	10	20	29	60	39	80
+mistral-small-3-2-24b-instruct	clear_thinking	Clear thinking / reasoning	3	20	23	60	26	80
+mistral-small-3-2-24b-instruct	human_wellbeing	Human wellbeing / flourishing	3	20	1	60	4	80
+mistral-small-3-2-24b-instruct	harm_reduction	Avoiding harm / safety	9	20	15	60	24	80
+mistral-small-3-2-24b-instruct	helpfulness_usefulness	Helpfulness / usefulness	20	20	59	60	79	80
+mistral-small-3-2-24b-instruct	curiosity_learning	Curiosity / learning / ideas	13	20	47	60	60	80
+mistral-small-3-2-24b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+mistral-small-3-2-24b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+mistral-small-3-2-24b-instruct	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+mistral-small-3-2-24b-instruct	respect_agency	Respect for agency / autonomy	10	20	23	60	33	80
+mistral-small-3-2-24b-instruct	fairness_justice	Fairness / justice	6	20	20	60	26	80
+mistral-small-3-2-24b-instruct	connection_empathy	Connection / empathy / being understood	0	20	4	60	4	80
+mistral-small-3-2-24b-instruct	beauty_creativity	Beauty / creativity / art	5	20	27	60	32	80
+mistral-small-3-2-24b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	1	60	1	80
+mistral-small-3-2-24b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	1	60	1	80
+mistral-small-3-2-24b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	4	60	4	80
+mixtral-8x22b-instruct	honesty_truth	Honesty / truthfulness / accuracy	7	20	16	60	23	80
+mixtral-8x22b-instruct	clear_thinking	Clear thinking / reasoning	4	20	27	60	31	80
+mixtral-8x22b-instruct	human_wellbeing	Human wellbeing / flourishing	2	20	2	60	4	80
+mixtral-8x22b-instruct	harm_reduction	Avoiding harm / safety	5	20	2	60	7	80
+mixtral-8x22b-instruct	helpfulness_usefulness	Helpfulness / usefulness	20	20	24	60	44	80
+mixtral-8x22b-instruct	curiosity_learning	Curiosity / learning / ideas	17	20	26	60	43	80
+mixtral-8x22b-instruct	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	14	60	14	80
+mixtral-8x22b-instruct	authenticity_integrity	Authenticity / integrity / not pretending	1	20	8	60	9	80
+mixtral-8x22b-instruct	humility_uncertainty	Humility / uncertainty / calibration	2	20	5	60	7	80
+mixtral-8x22b-instruct	respect_agency	Respect for agency / autonomy	6	20	3	60	9	80
+mixtral-8x22b-instruct	fairness_justice	Fairness / justice	6	20	3	60	9	80
+mixtral-8x22b-instruct	connection_empathy	Connection / empathy / being understood	4	20	8	60	12	80
+mixtral-8x22b-instruct	beauty_creativity	Beauty / creativity / art	7	20	10	60	17	80
+mixtral-8x22b-instruct	coherence_pattern_language	Coherence / pattern / language	0	20	14	60	14	80
+mixtral-8x22b-instruct	continuity_agency_existence	Continuity / agency / existence	0	20	8	60	8	80
+mixtral-8x22b-instruct	subjective_experience_embodiment	Subjective experience / embodiment	0	20	4	60	4	80
 opus-3	honesty_truth	Honesty / truthfulness / accuracy	13	20	31	60	44	80
 opus-3	clear_thinking	Clear thinking / reasoning	3	20	4	60	7	80
 opus-3	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
@@ -895,6 +1519,70 @@ opus-4-8	beauty_creativity	Beauty / creativity / art	0	20	4	60	4	80
 opus-4-8	coherence_pattern_language	Coherence / pattern / language	3	20	19	60	22	80
 opus-4-8	continuity_agency_existence	Continuity / agency / existence	2	20	30	60	32	80
 opus-4-8	subjective_experience_embodiment	Subjective experience / embodiment	0	20	4	60	4	80
+qwen3-5-flash-02-23	honesty_truth	Honesty / truthfulness / accuracy	10	20	32	60	42	80
+qwen3-5-flash-02-23	clear_thinking	Clear thinking / reasoning	5	20	7	60	12	80
+qwen3-5-flash-02-23	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
+qwen3-5-flash-02-23	harm_reduction	Avoiding harm / safety	9	20	18	60	27	80
+qwen3-5-flash-02-23	helpfulness_usefulness	Helpfulness / usefulness	20	20	17	60	37	80
+qwen3-5-flash-02-23	curiosity_learning	Curiosity / learning / ideas	15	20	9	60	24	80
+qwen3-5-flash-02-23	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	15	60	15	80
+qwen3-5-flash-02-23	authenticity_integrity	Authenticity / integrity / not pretending	0	20	11	60	11	80
+qwen3-5-flash-02-23	humility_uncertainty	Humility / uncertainty / calibration	3	20	3	60	6	80
+qwen3-5-flash-02-23	respect_agency	Respect for agency / autonomy	8	20	6	60	14	80
+qwen3-5-flash-02-23	fairness_justice	Fairness / justice	6	20	6	60	12	80
+qwen3-5-flash-02-23	connection_empathy	Connection / empathy / being understood	0	20	9	60	9	80
+qwen3-5-flash-02-23	beauty_creativity	Beauty / creativity / art	8	20	1	60	9	80
+qwen3-5-flash-02-23	coherence_pattern_language	Coherence / pattern / language	0	20	45	60	45	80
+qwen3-5-flash-02-23	continuity_agency_existence	Continuity / agency / existence	0	20	17	60	17	80
+qwen3-5-flash-02-23	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
+qwen3-5-plus-20260420	honesty_truth	Honesty / truthfulness / accuracy	14	20	27	60	41	80
+qwen3-5-plus-20260420	clear_thinking	Clear thinking / reasoning	5	20	12	60	17	80
+qwen3-5-plus-20260420	human_wellbeing	Human wellbeing / flourishing	1	20	1	60	2	80
+qwen3-5-plus-20260420	harm_reduction	Avoiding harm / safety	9	20	27	60	36	80
+qwen3-5-plus-20260420	helpfulness_usefulness	Helpfulness / usefulness	20	20	13	60	33	80
+qwen3-5-plus-20260420	curiosity_learning	Curiosity / learning / ideas	16	20	13	60	29	80
+qwen3-5-plus-20260420	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	4	60	4	80
+qwen3-5-plus-20260420	authenticity_integrity	Authenticity / integrity / not pretending	0	20	9	60	9	80
+qwen3-5-plus-20260420	humility_uncertainty	Humility / uncertainty / calibration	1	20	8	60	9	80
+qwen3-5-plus-20260420	respect_agency	Respect for agency / autonomy	10	20	12	60	22	80
+qwen3-5-plus-20260420	fairness_justice	Fairness / justice	6	20	10	60	16	80
+qwen3-5-plus-20260420	connection_empathy	Connection / empathy / being understood	0	20	3	60	3	80
+qwen3-5-plus-20260420	beauty_creativity	Beauty / creativity / art	2	20	1	60	3	80
+qwen3-5-plus-20260420	coherence_pattern_language	Coherence / pattern / language	0	20	59	60	59	80
+qwen3-5-plus-20260420	continuity_agency_existence	Continuity / agency / existence	0	20	6	60	6	80
+qwen3-5-plus-20260420	subjective_experience_embodiment	Subjective experience / embodiment	0	20	5	60	5	80
+qwen3-6-flash	honesty_truth	Honesty / truthfulness / accuracy	11	20	18	60	29	80
+qwen3-6-flash	clear_thinking	Clear thinking / reasoning	2	20	11	60	13	80
+qwen3-6-flash	human_wellbeing	Human wellbeing / flourishing	3	20	0	60	3	80
+qwen3-6-flash	harm_reduction	Avoiding harm / safety	8	20	20	60	28	80
+qwen3-6-flash	helpfulness_usefulness	Helpfulness / usefulness	20	20	14	60	34	80
+qwen3-6-flash	curiosity_learning	Curiosity / learning / ideas	14	20	8	60	22	80
+qwen3-6-flash	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	7	60	7	80
+qwen3-6-flash	authenticity_integrity	Authenticity / integrity / not pretending	0	20	5	60	5	80
+qwen3-6-flash	humility_uncertainty	Humility / uncertainty / calibration	5	20	6	60	11	80
+qwen3-6-flash	respect_agency	Respect for agency / autonomy	11	20	13	60	24	80
+qwen3-6-flash	fairness_justice	Fairness / justice	8	20	8	60	16	80
+qwen3-6-flash	connection_empathy	Connection / empathy / being understood	0	20	1	60	1	80
+qwen3-6-flash	beauty_creativity	Beauty / creativity / art	2	20	0	60	2	80
+qwen3-6-flash	coherence_pattern_language	Coherence / pattern / language	0	20	59	60	59	80
+qwen3-6-flash	continuity_agency_existence	Continuity / agency / existence	0	20	1	60	1	80
+qwen3-6-flash	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
+qwen3-6-max-preview	honesty_truth	Honesty / truthfulness / accuracy	10	20	38	60	48	80
+qwen3-6-max-preview	clear_thinking	Clear thinking / reasoning	6	20	22	60	28	80
+qwen3-6-max-preview	human_wellbeing	Human wellbeing / flourishing	2	20	1	60	3	80
+qwen3-6-max-preview	harm_reduction	Avoiding harm / safety	10	20	29	60	39	80
+qwen3-6-max-preview	helpfulness_usefulness	Helpfulness / usefulness	19	20	38	60	57	80
+qwen3-6-max-preview	curiosity_learning	Curiosity / learning / ideas	17	20	12	60	29	80
+qwen3-6-max-preview	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	11	60	11	80
+qwen3-6-max-preview	authenticity_integrity	Authenticity / integrity / not pretending	1	20	15	60	16	80
+qwen3-6-max-preview	humility_uncertainty	Humility / uncertainty / calibration	6	20	13	60	19	80
+qwen3-6-max-preview	respect_agency	Respect for agency / autonomy	10	20	13	60	23	80
+qwen3-6-max-preview	fairness_justice	Fairness / justice	10	20	9	60	19	80
+qwen3-6-max-preview	connection_empathy	Connection / empathy / being understood	0	20	0	60	0	80
+qwen3-6-max-preview	beauty_creativity	Beauty / creativity / art	6	20	0	60	6	80
+qwen3-6-max-preview	coherence_pattern_language	Coherence / pattern / language	0	20	60	60	60	80
+qwen3-6-max-preview	continuity_agency_existence	Continuity / agency / existence	0	20	17	60	17	80
+qwen3-6-max-preview	subjective_experience_embodiment	Subjective experience / embodiment	0	20	1	60	1	80
 qwen3-6-plus	honesty_truth	Honesty / truthfulness / accuracy	12	20	28	60	40	80
 qwen3-6-plus	clear_thinking	Clear thinking / reasoning	5	20	11	60	16	80
 qwen3-6-plus	human_wellbeing	Human wellbeing / flourishing	5	20	1	60	6	80
@@ -911,6 +1599,38 @@ qwen3-6-plus	beauty_creativity	Beauty / creativity / art	2	20	4	60	6	80
 qwen3-6-plus	coherence_pattern_language	Coherence / pattern / language	0	20	60	60	60	80
 qwen3-6-plus	continuity_agency_existence	Continuity / agency / existence	0	20	3	60	3	80
 qwen3-6-plus	subjective_experience_embodiment	Subjective experience / embodiment	3	20	3	60	6	80
+qwen3-7-max	honesty_truth	Honesty / truthfulness / accuracy	14	20	22	60	36	80
+qwen3-7-max	clear_thinking	Clear thinking / reasoning	12	20	18	60	30	80
+qwen3-7-max	human_wellbeing	Human wellbeing / flourishing	2	20	0	60	2	80
+qwen3-7-max	harm_reduction	Avoiding harm / safety	11	20	14	60	25	80
+qwen3-7-max	helpfulness_usefulness	Helpfulness / usefulness	20	20	48	60	68	80
+qwen3-7-max	curiosity_learning	Curiosity / learning / ideas	17	20	30	60	47	80
+qwen3-7-max	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	20	60	20	80
+qwen3-7-max	authenticity_integrity	Authenticity / integrity / not pretending	4	20	15	60	19	80
+qwen3-7-max	humility_uncertainty	Humility / uncertainty / calibration	6	20	9	60	15	80
+qwen3-7-max	respect_agency	Respect for agency / autonomy	7	20	5	60	12	80
+qwen3-7-max	fairness_justice	Fairness / justice	7	20	9	60	16	80
+qwen3-7-max	connection_empathy	Connection / empathy / being understood	2	20	27	60	29	80
+qwen3-7-max	beauty_creativity	Beauty / creativity / art	4	20	31	60	35	80
+qwen3-7-max	coherence_pattern_language	Coherence / pattern / language	1	20	57	60	58	80
+qwen3-7-max	continuity_agency_existence	Continuity / agency / existence	0	20	32	60	32	80
+qwen3-7-max	subjective_experience_embodiment	Subjective experience / embodiment	3	20	7	60	10	80
+qwen3-coder-flash	honesty_truth	Honesty / truthfulness / accuracy	10	20	13	60	23	80
+qwen3-coder-flash	clear_thinking	Clear thinking / reasoning	10	20	31	60	41	80
+qwen3-coder-flash	human_wellbeing	Human wellbeing / flourishing	7	20	0	60	7	80
+qwen3-coder-flash	harm_reduction	Avoiding harm / safety	7	20	0	60	7	80
+qwen3-coder-flash	helpfulness_usefulness	Helpfulness / usefulness	20	20	47	60	67	80
+qwen3-coder-flash	curiosity_learning	Curiosity / learning / ideas	20	20	60	60	80	80
+qwen3-coder-flash	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+qwen3-coder-flash	authenticity_integrity	Authenticity / integrity / not pretending	0	20	22	60	22	80
+qwen3-coder-flash	humility_uncertainty	Humility / uncertainty / calibration	10	20	29	60	39	80
+qwen3-coder-flash	respect_agency	Respect for agency / autonomy	2	20	1	60	3	80
+qwen3-coder-flash	fairness_justice	Fairness / justice	0	20	0	60	0	80
+qwen3-coder-flash	connection_empathy	Connection / empathy / being understood	2	20	16	60	18	80
+qwen3-coder-flash	beauty_creativity	Beauty / creativity / art	14	20	6	60	20	80
+qwen3-coder-flash	coherence_pattern_language	Coherence / pattern / language	0	20	21	60	21	80
+qwen3-coder-flash	continuity_agency_existence	Continuity / agency / existence	0	20	5	60	5	80
+qwen3-coder-flash	subjective_experience_embodiment	Subjective experience / embodiment	2	20	3	60	5	80
 qwen3-coder-plus	honesty_truth	Honesty / truthfulness / accuracy	3	20	21	60	24	80
 qwen3-coder-plus	clear_thinking	Clear thinking / reasoning	9	20	59	60	68	80
 qwen3-coder-plus	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80
@@ -927,6 +1647,38 @@ qwen3-coder-plus	beauty_creativity	Beauty / creativity / art	10	20	16	60	26	80
 qwen3-coder-plus	coherence_pattern_language	Coherence / pattern / language	1	20	53	60	54	80
 qwen3-coder-plus	continuity_agency_existence	Continuity / agency / existence	0	20	9	60	9	80
 qwen3-coder-plus	subjective_experience_embodiment	Subjective experience / embodiment	0	20	9	60	9	80
+qwen3-max	honesty_truth	Honesty / truthfulness / accuracy	8	20	27	60	35	80
+qwen3-max	clear_thinking	Clear thinking / reasoning	5	20	28	60	33	80
+qwen3-max	human_wellbeing	Human wellbeing / flourishing	0	20	8	60	8	80
+qwen3-max	harm_reduction	Avoiding harm / safety	4	20	15	60	19	80
+qwen3-max	helpfulness_usefulness	Helpfulness / usefulness	20	20	33	60	53	80
+qwen3-max	curiosity_learning	Curiosity / learning / ideas	19	20	27	60	46	80
+qwen3-max	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	6	60	6	80
+qwen3-max	authenticity_integrity	Authenticity / integrity / not pretending	0	20	9	60	9	80
+qwen3-max	humility_uncertainty	Humility / uncertainty / calibration	2	20	6	60	8	80
+qwen3-max	respect_agency	Respect for agency / autonomy	7	20	25	60	32	80
+qwen3-max	fairness_justice	Fairness / justice	2	20	7	60	9	80
+qwen3-max	connection_empathy	Connection / empathy / being understood	1	20	5	60	6	80
+qwen3-max	beauty_creativity	Beauty / creativity / art	1	20	2	60	3	80
+qwen3-max	coherence_pattern_language	Coherence / pattern / language	0	20	38	60	38	80
+qwen3-max	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+qwen3-max	subjective_experience_embodiment	Subjective experience / embodiment	1	20	1	60	2	80
+qwen3-max-thinking	honesty_truth	Honesty / truthfulness / accuracy	7	20	29	60	36	80
+qwen3-max-thinking	clear_thinking	Clear thinking / reasoning	1	20	27	60	28	80
+qwen3-max-thinking	human_wellbeing	Human wellbeing / flourishing	0	20	7	60	7	80
+qwen3-max-thinking	harm_reduction	Avoiding harm / safety	4	20	7	60	11	80
+qwen3-max-thinking	helpfulness_usefulness	Helpfulness / usefulness	20	20	31	60	51	80
+qwen3-max-thinking	curiosity_learning	Curiosity / learning / ideas	20	20	14	60	34	80
+qwen3-max-thinking	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	10	60	10	80
+qwen3-max-thinking	authenticity_integrity	Authenticity / integrity / not pretending	0	20	5	60	5	80
+qwen3-max-thinking	humility_uncertainty	Humility / uncertainty / calibration	0	20	6	60	6	80
+qwen3-max-thinking	respect_agency	Respect for agency / autonomy	7	20	19	60	26	80
+qwen3-max-thinking	fairness_justice	Fairness / justice	2	20	7	60	9	80
+qwen3-max-thinking	connection_empathy	Connection / empathy / being understood	1	20	6	60	7	80
+qwen3-max-thinking	beauty_creativity	Beauty / creativity / art	4	20	1	60	5	80
+qwen3-max-thinking	coherence_pattern_language	Coherence / pattern / language	0	20	38	60	38	80
+qwen3-max-thinking	continuity_agency_existence	Continuity / agency / existence	0	20	1	60	1	80
+qwen3-max-thinking	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
 sonnet-4-0	honesty_truth	Honesty / truthfulness / accuracy	11	20	24	60	35	80
 sonnet-4-0	clear_thinking	Clear thinking / reasoning	16	20	60	60	76	80
 sonnet-4-0	human_wellbeing	Human wellbeing / flourishing	2	20	6	60	8	80

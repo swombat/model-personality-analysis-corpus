@@ -101,6 +101,24 @@ SOURCES = [
         'posture_dir': LAYERED/'phase11_openai_oss_mini_nano_20260616/posture_collapsed',
         'posture_consensus': LAYERED/'phase11_openai_oss_mini_nano_20260616/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase12_sonnet_5_20260630',
+        'manifest': LAYERED/'phase12_sonnet_5_20260630/manifest_sonnet_5.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase12_sonnet_5_20260630/layer_a',
+        'layer_a_consensus': LAYERED/'phase12_sonnet_5_20260630/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase12_sonnet_5_20260630/posture_collapsed',
+        'posture_consensus': LAYERED/'phase12_sonnet_5_20260630/posture_collapsed/consensus.jsonl',
+    },
+    {
+        'name':'phase13_model_family_sweep_20260714',
+        'manifest': LAYERED/'phase13_model_family_sweep_20260714/manifest_phase13.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase13_model_family_sweep_20260714/layer_a',
+        'layer_a_consensus': LAYERED/'phase13_model_family_sweep_20260714/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase13_model_family_sweep_20260714/posture_collapsed',
+        'posture_consensus': LAYERED/'phase13_model_family_sweep_20260714/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

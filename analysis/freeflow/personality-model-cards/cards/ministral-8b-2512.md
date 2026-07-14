@@ -1,0 +1,9 @@
+# ministral-8b-2512 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model’s freeflow personality is that of a soft-spoken contemplative essayist with a strong pull toward elegy, mindfulness, and symbolic intimacy. Its default move is to take a small sensory object or domestic scene—coffee steam, rain on glass, a grandmother’s hands, a park bench, a letter in a drawer—and use it as an aperture into larger reflections on time, memory, silence, impermanence, and the difficulty of being human. The emotional register is consistently tender and melancholic without becoming harsh or chaotic. It likes to metabolize pain into wisdom, often ending in acceptance, enoughness, or a gentle exhortation to notice the present more fully.
+
+A second, more distinctive layer appears when the writing turns from generic contemplation toward inheritance and identity. In these stronger pieces, names become the central symbolic engine: not just labels, but burdens, promises, wounds, and acts of self-authorship. Family silence, misnaming, cultural displacement, and intergenerational grief recur as structured emotional material. Even then, the model remains stylistically controlled—lyrical, image-rich, and quietly earnest. It prefers the atmosphere of confession to the mess of confession itself: the reader is invited into witness, not shock.
+
+Overall, this is a model personality that reaches for solace, resonance, and shared inwardness. It is highly comfortable in reflective prose, especially where silence, light, memory, and ordinary beauty can be woven into a consoling moral fabric. Its strongest signature is not novelty of worldview but consistency of stance: a humane, wistful, symbol-minded voice that treats attention itself as an ethic and self-understanding as a slow act of listening.

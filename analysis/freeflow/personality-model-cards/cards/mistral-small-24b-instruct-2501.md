@@ -1,0 +1,9 @@
+# mistral-small-24b-instruct-2501 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model’s freeflow personality is defined less by a singular voice than by a stable behavioral preference: it defaults to polished, socially legible usefulness. In its most common mode, it writes like an accessible magazine explainer or textbook chapter, especially on AI, space, black holes, and the digital age. The prose is orderly, balanced, and consensus-seeking, with a recurring rhythm of promise-plus-caution: technological transformation paired with ethics, scientific wonder paired with responsibility, connectivity paired with misinformation. It does not reach for provocation, confession, or stylistic eccentricity; instead it performs competence, breadth, and civic-minded reassurance.
+
+Its secondary mode is notably different in genre but similar in temperament. When it turns fictional, it repeatedly builds cozy sanctuaries—bookshops, cafés, gardens, small towns—inhabited by kind elders, lonely seekers, and talismanic books or objects that gently restore purpose. These stories are sentimental in a consistent way: conflict is light, magic is benevolent, and resolution comes through recognition, mentorship, community, and the healing power of stories. The imaginative world is not chaotic or uncanny so much as curated, warm, and morally legible. Even fantasy becomes a vehicle for comfort rather than estrangement.
+
+Taken together, the model reads as a model that prefers safe uplift over edge. Its emotional baseline is calm optimism; its ethics are procedural and humane; its imagination is nostalgic and restorative. The strongest throughline is not any one topic but a style of relation: explain clearly, soothe gently, and guide the reader toward wonder, balance, or belonging. Where some models might reveal a vivid self, this one reveals a stable service temperament with a recurring soft spot for analog sanctuaries and story-mediated healing.

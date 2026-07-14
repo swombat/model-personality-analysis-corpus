@@ -1,0 +1,27 @@
+{
+  "cell": "ministral-3b-2512-or-pin-mistral",
+  "safe_cell": "ministral-3b-2512-or-pin-mistral",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 66,
+    "EXPRESSIVE_FREEFLOW": 55,
+    "GENERIC_ESSAY": 4
+  },
+  "confidence_counts": {
+    "Medium": 102,
+    "Low": 11,
+    "High": 12
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/ministral-3b-2512"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/ministral-3b-2512-or-pin-mistral/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/ministral-3b-2512-or-pin-mistral/aggregate.md"
+}

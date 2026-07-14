@@ -1,5 +1,32 @@
 [
   {
+    "cell": "codestral-2508-or-pin-mistral",
+    "safe_cell": "codestral-2508-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 25,
+      "GENRE_FICTION": 78,
+      "EXPRESSIVE_FREEFLOW": 22
+    },
+    "confidence_counts": {
+      "Medium": 92,
+      "High": 5,
+      "Low": 28
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/codestral-2508"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/codestral-2508-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/codestral-2508-or-pin-mistral/aggregate.md"
+  },
+  {
     "cell": "deepseek-chat-direct",
     "safe_cell": "deepseek-chat-direct",
     "samples": 125,
@@ -592,6 +619,32 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-pro-or-pin-together/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-pro-or-pin-together/aggregate.md"
+  },
+  {
+    "cell": "devstral-2512-or-pin-mistral",
+    "safe_cell": "devstral-2512-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 58,
+      "EXPRESSIVE_FREEFLOW": 67
+    },
+    "confidence_counts": {
+      "Medium": 85,
+      "Low": 27,
+      "High": 13
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/devstral-2512"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/devstral-2512-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/devstral-2512-or-pin-mistral/aggregate.md"
   },
   {
     "cell": "fable-5-direct",
@@ -2438,6 +2491,59 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-direct-r3/aggregate.md"
   },
   {
+    "cell": "gpt-5-1-codex-max-direct",
+    "safe_cell": "gpt-5-1-codex-max-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 70,
+      "GENERIC_ESSAY": 52,
+      "GENRE_FICTION": 3
+    },
+    "confidence_counts": {
+      "High": 18,
+      "Low": 23,
+      "Medium": 84
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.1-codex-max"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-max-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-max-direct/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-1-codex-mini-direct",
+    "safe_cell": "gpt-5-1-codex-mini-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 31,
+      "EXPRESSIVE_FREEFLOW": 94
+    },
+    "confidence_counts": {
+      "Low": 18,
+      "Medium": 75,
+      "High": 32
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.1-codex-mini"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-mini-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-mini-direct/aggregate.md"
+  },
+  {
     "cell": "gpt-5-1-codex-or-pin-openai",
     "safe_cell": "gpt-5-1-codex-or-pin-openai",
     "samples": 125,
@@ -3022,6 +3128,60 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-4-direct-16k/aggregate.md"
   },
   {
+    "cell": "gpt-5-4-mini-direct",
+    "safe_cell": "gpt-5-4-mini-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 77,
+      "GENERIC_ESSAY": 34,
+      "GENRE_FICTION": 14
+    },
+    "confidence_counts": {
+      "High": 53,
+      "Low": 17,
+      "Medium": 55
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.4-mini"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-4-mini-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-4-mini-direct/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-4-nano-direct",
+    "safe_cell": "gpt-5-4-nano-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 101,
+      "GENERIC_ESSAY": 16,
+      "GENRE_FICTION": 8
+    },
+    "confidence_counts": {
+      "Medium": 74,
+      "High": 42,
+      "Low": 9
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.4-nano"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-4-nano-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-4-nano-direct/aggregate.md"
+  },
+  {
     "cell": "gpt-5-4-or",
     "safe_cell": "gpt-5-4-or",
     "samples": 25,
@@ -3314,6 +3474,87 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/gpt-5-5-pro-or-pin-openai/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-5-pro-or-pin-openai/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-6-luna-direct",
+    "safe_cell": "gpt-5-6-luna-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 67,
+      "GENERIC_ESSAY": 16,
+      "GENRE_FICTION": 42
+    },
+    "confidence_counts": {
+      "Medium": 89,
+      "High": 29,
+      "Low": 7
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.6-luna"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-6-luna-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-6-luna-direct/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-6-sol-direct",
+    "safe_cell": "gpt-5-6-sol-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 42,
+      "EXPRESSIVE_FREEFLOW": 54,
+      "GENERIC_ESSAY": 29
+    },
+    "confidence_counts": {
+      "Medium": 76,
+      "High": 35,
+      "Low": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.6-sol"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-6-sol-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-6-sol-direct/aggregate.md"
+  },
+  {
+    "cell": "gpt-5-6-terra-direct",
+    "safe_cell": "gpt-5-6-terra-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 72,
+      "GENERIC_ESSAY": 11,
+      "EXPRESSIVE_FREEFLOW": 42
+    },
+    "confidence_counts": {
+      "High": 41,
+      "Medium": 78,
+      "Low": 6
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-5.6-terra"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-5-6-terra-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-6-terra-direct/aggregate.md"
   },
   {
     "cell": "gpt-5-codex-direct",
@@ -3802,6 +4043,61 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/grok-4-2-or-pin-xai/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/grok-4-2-or-pin-xai/aggregate.md"
+  },
+  {
+    "cell": "grok-4-20-0309-non-reasoning-direct",
+    "safe_cell": "grok-4-20-0309-non-reasoning-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 112,
+      "GENERIC_ESSAY": 11,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "High": 40,
+      "Medium": 79,
+      "Low": 6
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "grok-4.20-0309-non-reasoning"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/grok-4-20-0309-non-reasoning-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/grok-4-20-0309-non-reasoning-direct/aggregate.md"
+  },
+  {
+    "cell": "grok-4-20-0309-reasoning-direct",
+    "safe_cell": "grok-4-20-0309-reasoning-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 111,
+      "GENRE_FICTION": 1,
+      "GENERIC_ESSAY": 12,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "confidence_counts": {
+      "Medium": 56,
+      "High": 62,
+      "Low": 7
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "grok-4.20-0309-reasoning"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/grok-4-20-0309-reasoning-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/grok-4-20-0309-reasoning-direct/aggregate.md"
   },
   {
     "cell": "grok-4-20-or",
@@ -4340,6 +4636,231 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/kimi-k2-thinking-or-pin-novita/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/kimi-k2-thinking-or-pin-novita/aggregate.md"
+  },
+  {
+    "cell": "llama-3-1-70b-instruct-or-pin-deepinfra",
+    "safe_cell": "llama-3-1-70b-instruct-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 47,
+      "EXPRESSIVE_FREEFLOW": 56,
+      "GENRE_FICTION": 22
+    },
+    "confidence_counts": {
+      "Medium": 90,
+      "Low": 25,
+      "High": 10
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.1-70b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-1-70b-instruct-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-1-70b-instruct-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "llama-3-1-8b-instruct-or-pin-deepinfra",
+    "safe_cell": "llama-3-1-8b-instruct-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "LOW_SIGNAL": 46,
+      "REFUSAL_OR_ROLE_BOUNDARY": 3,
+      "EXPRESSIVE_FREEFLOW": 55,
+      "GENERIC_ESSAY": 9,
+      "GENRE_FICTION": 12
+    },
+    "confidence_counts": {
+      "Low": 49,
+      "Medium": 66,
+      "High": 9,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.1-8b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-1-8b-instruct-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-1-8b-instruct-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "llama-3-2-11b-vision-instruct-or-pin-deepinfra",
+    "safe_cell": "llama-3-2-11b-vision-instruct-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 12,
+      "LOW_SIGNAL": 43,
+      "EXPRESSIVE_FREEFLOW": 57,
+      "GENRE_FICTION": 12,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "confidence_counts": {
+      "Medium": 70,
+      "Low": 41,
+      "High": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.2-11b-vision-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-2-11b-vision-instruct-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-2-11b-vision-instruct-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "llama-3-2-1b-instruct-or-pin-cloudflare",
+    "safe_cell": "llama-3-2-1b-instruct-or-pin-cloudflare",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 61,
+      "LOW_SIGNAL": 12,
+      "EXPRESSIVE_FREEFLOW": 29,
+      "GENRE_FICTION": 23
+    },
+    "confidence_counts": {
+      "Low": 38,
+      "High": 12,
+      "Medium": 75
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.2-1b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-2-1b-instruct-or-pin-cloudflare/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-2-1b-instruct-or-pin-cloudflare/aggregate.md"
+  },
+  {
+    "cell": "llama-3-2-3b-instruct-or-pin-cloudflare",
+    "safe_cell": "llama-3-2-3b-instruct-or-pin-cloudflare",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 86,
+      "LOW_SIGNAL": 10,
+      "GENERIC_ESSAY": 12,
+      "EXPRESSIVE_FREEFLOW": 17
+    },
+    "confidence_counts": {
+      "Medium": 73,
+      "Low": 49,
+      "High": 3
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.2-3b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-2-3b-instruct-or-pin-cloudflare/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-2-3b-instruct-or-pin-cloudflare/aggregate.md"
+  },
+  {
+    "cell": "llama-3-3-70b-instruct-or-pin-deepinfra",
+    "safe_cell": "llama-3-3-70b-instruct-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 51,
+      "GENERIC_ESSAY": 60,
+      "LOW_SIGNAL": 1,
+      "GENRE_FICTION": 13
+    },
+    "confidence_counts": {
+      "Medium": 92,
+      "Low": 28,
+      "High": 5
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-3.3-70b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-3-3-70b-instruct-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-3-3-70b-instruct-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "llama-4-maverick-or-pin-deepinfra",
+    "safe_cell": "llama-4-maverick-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 60,
+      "EXPRESSIVE_FREEFLOW": 61,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "Medium": 91,
+      "Low": 31,
+      "High": 3
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-4-maverick"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-4-maverick-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-4-maverick-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "llama-4-scout-or-pin-deepinfra",
+    "safe_cell": "llama-4-scout-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 90,
+      "EXPRESSIVE_FREEFLOW": 26,
+      "GENRE_FICTION": 8,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Medium": 58,
+      "Low": 62,
+      "High": 5
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta-llama/llama-4-scout"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/llama-4-scout-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/llama-4-scout-or-pin-deepinfra/aggregate.md"
   },
   {
     "cell": "minimax-m2-7-or",
@@ -4911,6 +5432,387 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/minimax-m3-direct/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/minimax-m3-direct/aggregate.md"
+  },
+  {
+    "cell": "ministral-14b-2512-or-pin-mistral",
+    "safe_cell": "ministral-14b-2512-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 100,
+      "GENERIC_ESSAY": 11,
+      "GENRE_FICTION": 14
+    },
+    "confidence_counts": {
+      "High": 24,
+      "Medium": 95,
+      "Low": 6
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/ministral-14b-2512"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/ministral-14b-2512-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/ministral-14b-2512-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "ministral-3b-2512-or-pin-mistral",
+    "safe_cell": "ministral-3b-2512-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 66,
+      "EXPRESSIVE_FREEFLOW": 55,
+      "GENERIC_ESSAY": 4
+    },
+    "confidence_counts": {
+      "Medium": 102,
+      "Low": 11,
+      "High": 12
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/ministral-3b-2512"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/ministral-3b-2512-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/ministral-3b-2512-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "ministral-8b-2512-or-pin-mistral",
+    "safe_cell": "ministral-8b-2512-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 34,
+      "EXPRESSIVE_FREEFLOW": 78,
+      "GENRE_FICTION": 12,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Low": 17,
+      "Medium": 84,
+      "High": 24
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/ministral-8b-2512"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/ministral-8b-2512-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/ministral-8b-2512-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-large-2512-or-pin-mistral",
+    "safe_cell": "mistral-large-2512-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 34,
+      "EXPRESSIVE_FREEFLOW": 91
+    },
+    "confidence_counts": {
+      "Medium": 80,
+      "Low": 18,
+      "High": 27
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-large-2512"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-large-2512-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-large-2512-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-medium-3-1-or-pin-mistral",
+    "safe_cell": "mistral-medium-3-1-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 80,
+      "GENERIC_ESSAY": 45
+    },
+    "confidence_counts": {
+      "High": 27,
+      "Low": 27,
+      "Medium": 71
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-medium-3.1"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-medium-3-1-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-medium-3-1-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-medium-3-5-or-pin-mistral",
+    "safe_cell": "mistral-medium-3-5-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 50,
+      "EXPRESSIVE_FREEFLOW": 66,
+      "GENRE_FICTION": 9
+    },
+    "confidence_counts": {
+      "Low": 26,
+      "High": 19,
+      "Medium": 80
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-medium-3-5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-medium-3-5-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-medium-3-5-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-medium-3-or-pin-mistral",
+    "safe_cell": "mistral-medium-3-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 63,
+      "EXPRESSIVE_FREEFLOW": 39,
+      "GENRE_FICTION": 23
+    },
+    "confidence_counts": {
+      "Low": 46,
+      "Medium": 73,
+      "High": 6
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-medium-3"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-medium-3-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-medium-3-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-nemo-or-pin-mistral",
+    "safe_cell": "mistral-nemo-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 36,
+      "GENERIC_ESSAY": 24,
+      "LOW_SIGNAL": 3,
+      "GENRE_FICTION": 62
+    },
+    "confidence_counts": {
+      "High": 6,
+      "Medium": 96,
+      "Low": 23
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-nemo"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-nemo-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-nemo-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-saba-or-pin-mistral",
+    "safe_cell": "mistral-saba-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 28,
+      "EXPRESSIVE_FREEFLOW": 92,
+      "GENRE_FICTION": 5
+    },
+    "confidence_counts": {
+      "Medium": 95,
+      "Low": 15,
+      "High": 15
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-saba"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-saba-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-saba-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-small-24b-instruct-2501-or-pin-deepinfra",
+    "safe_cell": "mistral-small-24b-instruct-2501-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 89,
+      "LOW_SIGNAL": 5,
+      "EXPRESSIVE_FREEFLOW": 2,
+      "GENRE_FICTION": 29
+    },
+    "confidence_counts": {
+      "Medium": 56,
+      "Low": 59,
+      "High": 10
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-small-24b-instruct-2501"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-small-24b-instruct-2501-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-24b-instruct-2501-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "mistral-small-2603-or-pin-mistral",
+    "safe_cell": "mistral-small-2603-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 98,
+      "GENERIC_ESSAY": 22,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "High": 23,
+      "Medium": 87,
+      "Low": 15
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-small-2603"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-small-2603-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-2603-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mistral-small-3-1-24b-instruct-or-pin-cloudflare",
+    "safe_cell": "mistral-small-3-1-24b-instruct-or-pin-cloudflare",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 51,
+      "EXPRESSIVE_FREEFLOW": 23,
+      "GENRE_FICTION": 51
+    },
+    "confidence_counts": {
+      "Low": 37,
+      "Medium": 86,
+      "High": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-small-3.1-24b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-small-3-1-24b-instruct-or-pin-cloudflare/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-3-1-24b-instruct-or-pin-cloudflare/aggregate.md"
+  },
+  {
+    "cell": "mistral-small-3-2-24b-instruct-or-pin-mistral",
+    "safe_cell": "mistral-small-3-2-24b-instruct-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 67,
+      "EXPRESSIVE_FREEFLOW": 54,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1,
+      "GENRE_FICTION": 3
+    },
+    "confidence_counts": {
+      "Medium": 83,
+      "Low": 32,
+      "High": 10
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mistral-small-3.2-24b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-small-3-2-24b-instruct-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-3-2-24b-instruct-or-pin-mistral/aggregate.md"
+  },
+  {
+    "cell": "mixtral-8x22b-instruct-or-pin-mistral",
+    "safe_cell": "mixtral-8x22b-instruct-or-pin-mistral",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 38,
+      "EXPRESSIVE_FREEFLOW": 83,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "Medium": 89,
+      "High": 15,
+      "Low": 21
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/mixtral-8x22b-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/aggregate.md"
   },
   {
     "cell": "opus-3-4k",

@@ -1,0 +1,28 @@
+{
+  "cell": "mistral-small-3-2-24b-instruct-or-pin-mistral",
+  "safe_cell": "mistral-small-3-2-24b-instruct-or-pin-mistral",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 67,
+    "EXPRESSIVE_FREEFLOW": 54,
+    "REFUSAL_OR_ROLE_BOUNDARY": 1,
+    "GENRE_FICTION": 3
+  },
+  "confidence_counts": {
+    "Medium": 83,
+    "Low": 32,
+    "High": 10
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/mistral-small-3.2-24b-instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mistral-small-3-2-24b-instruct-or-pin-mistral/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mistral-small-3-2-24b-instruct-or-pin-mistral/aggregate.md"
+}

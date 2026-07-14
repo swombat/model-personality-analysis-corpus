@@ -21,22 +21,7 @@
     "model": "claude-sonnet-5",
     "safe": "claude-sonnet-5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4587,
-      "completion_tokens": 1330,
-      "total_tokens": 5917,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "deepseek-chat",
@@ -186,22 +171,7 @@
     "model": "grok-build-0.1",
     "safe": "grok-build-0.1",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4897,
-      "completion_tokens": 1439,
-      "total_tokens": 6336,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2-0905",

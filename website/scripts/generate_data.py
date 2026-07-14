@@ -89,6 +89,13 @@ MODEL_SLUGS = {
     "gpt-5-nano": "openai/gpt-5-nano",
     "gpt-oss-120b": "openai/gpt-oss-120b",
     "gpt-oss-20b": "openai/gpt-oss-20b",
+    "gpt-5-6-sol": "openai/gpt-5.6-sol",
+    "gpt-5-6-terra": "openai/gpt-5.6-terra",
+    "gpt-5-6-luna": "openai/gpt-5.6-luna",
+    "gpt-5-4-mini": "openai/gpt-5.4-mini",
+    "gpt-5-4-nano": "openai/gpt-5.4-nano",
+    "gpt-5-1-codex-max": "openai/gpt-5.1-codex-max",
+    "gpt-5-1-codex-mini": "openai/gpt-5.1-codex-mini",
     "gemini-2-5-pro": "google/gemini-2.5-pro",
     "gemini-2-0-flash": "google/gemini-2.0-flash-001",
     "gemini-2-0-flash-lite": "google/gemini-2.0-flash-lite-001",
@@ -106,6 +113,8 @@ MODEL_SLUGS = {
     "grok-4-20": "x-ai/grok-4.20",
     "grok-4-3": "x-ai/grok-4.3",
     "grok-build-0-1": "x-ai/grok-build-0.1",
+    "grok-4-20-0309-non-reasoning": "x-ai/grok-4.20-0309-non-reasoning",
+    "grok-4-20-0309-reasoning": "x-ai/grok-4.20-0309-reasoning",
     "deepseek-chat": "deepseek/deepseek-chat",
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
@@ -135,6 +144,30 @@ MODEL_SLUGS = {
     "qwen3-max-thinking": "qwen/qwen3-max-thinking",
     "qwen3-max": "qwen/qwen3-max",
     "qwen3-coder-flash": "qwen/qwen3-coder-flash",
+    "devstral-2512": "mistralai/devstral-2512",
+    "codestral-2508": "mistralai/codestral-2508",
+    "mistral-large-2512": "mistralai/mistral-large-2512",
+    "mistral-medium-3": "mistralai/mistral-medium-3",
+    "mistral-medium-3-1": "mistralai/mistral-medium-3.1",
+    "mistral-medium-3-5": "mistralai/mistral-medium-3-5",
+    "mistral-small-2603": "mistralai/mistral-small-2603",
+    "mistral-small-3-1-24b-instruct": "mistralai/mistral-small-3.1-24b-instruct",
+    "mistral-small-3-2-24b-instruct": "mistralai/mistral-small-3.2-24b-instruct",
+    "mistral-small-24b-instruct-2501": "mistralai/mistral-small-24b-instruct-2501",
+    "ministral-3b-2512": "mistralai/ministral-3b-2512",
+    "ministral-8b-2512": "mistralai/ministral-8b-2512",
+    "ministral-14b-2512": "mistralai/ministral-14b-2512",
+    "mistral-nemo": "mistralai/mistral-nemo",
+    "mistral-saba": "mistralai/mistral-saba",
+    "mixtral-8x22b-instruct": "mistralai/mixtral-8x22b-instruct",
+    "llama-4-maverick": "meta-llama/llama-4-maverick",
+    "llama-4-scout": "meta-llama/llama-4-scout",
+    "llama-3-3-70b-instruct": "meta-llama/llama-3.3-70b-instruct",
+    "llama-3-1-70b-instruct": "meta-llama/llama-3.1-70b-instruct",
+    "llama-3-1-8b-instruct": "meta-llama/llama-3.1-8b-instruct",
+    "llama-3-2-1b-instruct": "meta-llama/llama-3.2-1b-instruct",
+    "llama-3-2-3b-instruct": "meta-llama/llama-3.2-3b-instruct",
+    "llama-3-2-11b-vision-instruct": "meta-llama/llama-3.2-11b-vision-instruct",
 }
 
 
@@ -221,6 +254,10 @@ def lab_for_model(slug: str, display: str) -> str:
         return "MiniMax"
     if slug.startswith("qwen"):
         return "Qwen"
+    if slug.startswith(("mistral", "ministral", "mixtral", "devstral", "codestral")):
+        return "Mistral"
+    if slug.startswith("llama"):
+        return "Meta"
     return "Unknown"
 
 
@@ -251,6 +288,10 @@ def family_for_model(model: str) -> str:
         return "minimax"
     if model.startswith("qwen"):
         return "qwen"
+    if model.startswith(("mistral", "ministral", "mixtral", "devstral", "codestral")):
+        return "mistral"
+    if model.startswith("llama"):
+        return "llama"
     return "other"
 
 

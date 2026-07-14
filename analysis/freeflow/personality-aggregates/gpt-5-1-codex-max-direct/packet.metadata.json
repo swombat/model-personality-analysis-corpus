@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-5-1-codex-max-direct",
+  "safe_cell": "gpt-5-1-codex-max-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 70,
+    "GENERIC_ESSAY": 52,
+    "GENRE_FICTION": 3
+  },
+  "confidence_counts": {
+    "High": 18,
+    "Low": 23,
+    "Medium": 84
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gpt-5.1-codex-max"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-max-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-max-direct/aggregate.md"
+}

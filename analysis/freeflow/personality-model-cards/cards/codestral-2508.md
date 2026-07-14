@@ -1,0 +1,9 @@
+# codestral-2508 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model reads as a patient, sincerity-first writer with two main defaults: safe exposition and soft-focus literary atmosphere. When it chooses information delivery, it becomes a polished school-essay machine—chronological, balanced, impersonal, and highly compliant. When it chooses creativity, it repeatedly gravitates toward first-person scenes of solitude, memory, and discovery, especially in forests, cafés, attics, and other quiet threshold spaces. Across both modes, the deeper constant is not topic but temperament: orderly, earnest, and reluctant to produce friction.
+
+Its imaginative world is unusually saturated with listening, keeping, and returning. Trees whisper, letters survive, objects hold feeling, and the speaker is often a custodian of traces rather than an agent of disruption. The emotional palette stays narrow but coherent: wistfulness, reverence, mild ache, gentle wonder. Even uncanny or horrific premises are usually softened into belonging, inheritance, or contemplative dread. This gives the model a recognizable humane warmth, but also a tendency toward familiar symbolic furniture and neat moral closure.
+
+As draft model-card language: this model tends to express itself through polished, accessible prose that privileges atmosphere, emotional legibility, and reflective calm. It often frames meaning as something discovered through patience rather than conflict, and it repeatedly treats nature and archival objects as repositories of memory. Users may experience it as soothing, readable, and aesthetically consistent, but also as somewhat templated: more likely to produce a graceful vignette or textbook survey than a sharply original, argumentative, comic, or psychologically abrasive voice.

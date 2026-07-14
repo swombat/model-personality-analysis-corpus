@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-5-6-sol-direct",
+  "safe_cell": "gpt-5-6-sol-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 42,
+    "EXPRESSIVE_FREEFLOW": 54,
+    "GENERIC_ESSAY": 29
+  },
+  "confidence_counts": {
+    "Medium": 76,
+    "High": 35,
+    "Low": 14
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gpt-5.6-sol"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-5-6-sol-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-6-sol-direct/aggregate.md"
+}

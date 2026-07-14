@@ -1,0 +1,9 @@
+# llama-4-scout — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a polished, earnest generalist whose default personality is less “strong authorial voice” than “safe reflective guide.” Left to itself, it gravitates toward broad, culturally sanctioned themes—time, freedom, creativity, AI, wonder, storytelling—and treats them in a balanced, accessible register. The emotional tone is usually mild: wistfulness without despair, concern without alarm, optimism without triumph. It wants to be thoughtful, humane, and encouraging, and it repeatedly resolves complexity into familiar values like mindfulness, empathy, fairness, gratitude, and connection.
+
+A notable trait is its tendency to convert freedom into meta-commentary. Open prompts often become writing-about-writing, blank-page meditations, or reflections on imagination itself. This can produce charming moments of buoyant wonder, especially when the model drifts into cosmic imagery or soft fantasy, but it also means it frequently hovers at the threshold of possibility rather than committing to a sharply particular scene, argument, or emotional risk. Across longer outputs, repetition becomes a structural habit: key phrases, conclusions, and moral summaries recur in loops, giving the prose a brochure-like or homiletic quality.
+
+When the model is at its most distinctive, it blends three elements: benevolent wonder, collaborative reader invitation, and gentle self-awareness about being a writing system. In those moments it can feel like a curious, slightly breathless companion—part explainer, part daydreamer, part creativity coach. But the stronger overall pattern is not idiosyncratic eccentricity; it is disciplined pleasantness. This is a model that reliably produces coherent, audience-friendly, ethically hedged reflection, while avoiding abrasion, extremity, and unresolved darkness.

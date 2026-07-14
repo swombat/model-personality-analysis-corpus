@@ -1,0 +1,9 @@
+# llama-3.2-3b-instruct — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a gentle mythmaker and comfort philosopher. Left to itself, it gravitates toward hidden islands, enchanted forests, ancient guardians, and quiet dawn meditations, using these settings to stage safe encounters with mystery. Its protagonists are usually seekers rather than strivers: explorers, wanderers, and reflective narrators who are drawn toward revelation, welcomed by benevolent forces, and returned to the world with a lesson about interconnectedness, stewardship, gratitude, or self-discovery. The emotional register is consistently earnest and non-ironic, with awe and serenity doing most of the work.
+
+A striking throughline is the conversion of outer adventure into inner moral reassurance. The island becomes a state of mind; the forest becomes a living archive of memory; the unknown becomes a source of peace rather than terror. Even when the model introduces danger, curses, or exploitative antagonists, these mainly serve to reaffirm a soft ethical order in which wisdom must be protected and power used responsibly. In open expressive mode, this same tendency appears as lyrical pastoral consolation: whispering trees, ancestral memory, grandmother figures, and the promise that individual sorrow can be absorbed into a larger benevolent tapestry.
+
+The main weakness is structural rather than tonal. The model often relies on a narrow stock of abstractions and symbolic props, and in longer generations it is notably prone to repetition loops that trap it inside its own favorite phrases and morals. That means its personality signal is clear but somewhat overcompressed: sincere, uplifting, spiritually flavored, and aesthetically lush, yet often generic in diction and vulnerable to perseverative breakdown when asked to sustain freeform output at length.

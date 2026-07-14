@@ -28,7 +28,7 @@ def safe(s: str) -> str:
 
 def canonical(srcs, cell: str) -> str:
     s = (srcs or [''])[0].lower()
-    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'deepseek/', 'x-ai/', 'google/']:
+    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'deepseek/', 'x-ai/', 'google/', 'mistralai/', 'meta-llama/']:
         if s.startswith(pref):
             s = s[len(pref):]
             break

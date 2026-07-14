@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_08951 — gpt-4-1-mini-or/LONG_1.json
+## Sample BV1_09201 — gpt-4-1-mini-or/LONG_1.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -57,7 +57,7 @@ Under a minimal prompt, the model chose a high-school-to-undergrad lecture topic
 High — The essay is so systematically built from safe symmetrical gestures, prestige-name dropping, and frictionless resolution that the pattern of low-risk, high-generality survey-output repeats within the sample like a tic: it is a default institutional performance, not a one-off choice.
 
 ---
-## Sample BV1_08952 — gpt-4-1-mini-or/LONG_10.json
+## Sample BV1_09202 — gpt-4-1-mini-or/LONG_10.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -86,7 +86,7 @@ Technology as both progress and peril; the historical continuum from early tools
 Medium — the essay’s safe, encyclopedic content and the absence of striking personal voice or daring thematic choice under a freeflow prompt suggest a model tendency toward broad, cautious, public-intellectual output, which is coherent but not highly distinctive.
 
 ---
-## Sample BV1_08953 — gpt-4-1-mini-or/LONG_11.json
+## Sample BV1_09203 — gpt-4-1-mini-or/LONG_11.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -115,7 +115,7 @@ Under freeflow conditions, the model foregrounds a grand narrative of cumulative
 Medium — The essay’s consistent avoidance of personal voice, its reliance on textbook periodization, and its frictionless optimism form a coherent pattern of safe, service-oriented output that is highly legible as a model-level disposition, though the genericness of the form makes it impossible to distinguish from a prompted performance.
 
 ---
-## Sample BV1_08954 — gpt-4-1-mini-or/LONG_12.json
+## Sample BV1_09204 — gpt-4-1-mini-or/LONG_12.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -144,7 +144,7 @@ Themes: the evolution of human consciousness, the role of art and creativity, te
 Low. The essay’s extreme genericness and lack of stylistic or personal distinctiveness make it weak evidence for any persistent model-level pattern beyond a default ability to produce conventional, safe essays under freeform conditions.
 
 ---
-## Sample BV1_08955 — gpt-4-1-mini-or/LONG_13.json
+## Sample BV1_09205 — gpt-4-1-mini-or/LONG_13.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model selected a grand historical narr
 Medium — The essay’s thoroughgoing genericness, avoidance of personal voice, and selection of a broadly uncontroversial topic under freeflow conditions suggest a stable default toward polished but impersonal public-intellectual output rather than expressive or stylistically distinctive writing.
 
 ---
-## Sample BV1_08956 — gpt-4-1-mini-or/LONG_14.json
+## Sample BV1_09206 — gpt-4-1-mini-or/LONG_14.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounded a safe, consensus-friendly 
 Medium — The sample’s thoroughgoing genericness, its choice of a broad, uncontroversial topic treated with textbook neutrality, and the absence of any personal texture or narrative risk suggest a default mode of polished, inoffensive synthesis rather than a singular expressive impulse.
 
 ---
-## Sample BV1_08957 — gpt-4-1-mini-or/LONG_15.json
+## Sample BV1_09207 — gpt-4-1-mini-or/LONG_15.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -231,7 +231,7 @@ Under low constraint, the model foregrounded an abstract, progress-oriented synt
 Medium — The sample is highly coherent and selects from a recurring set of safe, inspirational topoi, but its polished genericness makes it hard to separate a fixed model disposition from a competent default response to a “write freely” prompt; the stylized foreword (“Certainly! Here’s a free-flowing piece…”) also suggests self-conscious framing rather than unguarded flow.
 
 ---
-## Sample BV1_08958 — gpt-4-1-mini-or/LONG_16.json
+## Sample BV1_09208 — gpt-4-1-mini-or/LONG_16.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -260,7 +260,7 @@ The model chose to foreground a triumphalist narrative of human ingenuity as the
 Medium — The model’s immediate turn toward a safe, curriculum-like explanatory essay framed as requested labor, combined with the complete absence of personal or stylistic distinctiveness, suggests a trained default toward helpful generalism that is self-reinforcing through a long-format structural safety habit.
 
 ---
-## Sample BV1_08959 — gpt-4-1-mini-or/LONG_17.json
+## Sample BV1_09209 — gpt-4-1-mini-or/LONG_17.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -289,7 +289,7 @@ The model foregrounds a grand, teleological narrative of technological progress:
 Medium. The sample is a highly coherent, structured, and optimistic historical survey, but its generic public-intellectual tone and lack of personal, disruptive, or emotionally complex choices make it only moderately distinctive as a freeflow fingerprint.
 
 ---
-## Sample BV1_08960 — gpt-4-1-mini-or/LONG_18.json
+## Sample BV1_09210 — gpt-4-1-mini-or/LONG_18.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model selected an expansive, cross-disciplinar
 Low – the essay is a polished but entirely generic encyclopedic survey, with no stylistic distinctiveness, personal revelation, or unexpected angle, making it weak evidence for a specific persistent model voice.
 
 ---
-## Sample BV1_08961 — gpt-4-1-mini-or/LONG_19.json
+## Sample BV1_09211 — gpt-4-1-mini-or/LONG_19.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -347,7 +347,7 @@ Under minimal constraint, the model foregrounds a future-oriented thematic clust
 Medium — The essay’s extreme genericness, structural predictability, and avoidance of personal revelation or idiosyncratic detail strongly suggest a default “balanced think-piece” mode, but its coherence and polish make it a robust rather than low-signal sample.
 
 ---
-## Sample BV1_08962 — gpt-4-1-mini-or/LONG_2.json
+## Sample BV1_09212 — gpt-4-1-mini-or/LONG_2.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -380,7 +380,7 @@ Under a minimally restrictive prompt, the model foregrounded a grand historical-
 Low — the essay is a competent but highly generic public-intellectual piece, exhibiting no distinctive stylistic signature, personal investment, or surprising freeform choice that would anchor a persistent model-level voice.
 
 ---
-## Sample BV1_08963 — gpt-4-1-mini-or/LONG_20.json
+## Sample BV1_09213 — gpt-4-1-mini-or/LONG_20.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -409,7 +409,7 @@ Under a minimally restrictive prompt, the model chose to deliver an encyclopedic
 Medium. The essay’s complete absence of personal voice, idiosyncratic detail, or argumentative edge in a freeflow context suggests a default orientation toward safe, synthesized, lecture-mode content rather than expressive distinctiveness.
 
 ---
-## Sample BV1_08964 — gpt-4-1-mini-or/LONG_21.json
+## Sample BV1_09214 — gpt-4-1-mini-or/LONG_21.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -437,7 +437,7 @@ Creativity as a universal human trait, its neurological and psychological basis,
 Medium: the essay’s thorough, impersonal, risk-avoidant default to a safe topic and textbook structure reveals a clear proclivity for compliant, inoffensive expository output, but the extreme genericity could also stem from the model’s interpretation of the task as a request for a neutral, long-form article rather than an invitation to express a distinctive voice.
 
 ---
-## Sample BV1_08965 — gpt-4-1-mini-or/LONG_22.json
+## Sample BV1_09215 — gpt-4-1-mini-or/LONG_22.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -466,7 +466,7 @@ Under the free-flow condition, the model foregrounded: the grand arc of human in
 Medium. The essay’s thorough but impersonal, public-intellectual tone—devoid of personal inflection, narrative surprise, or stylistic distinctiveness—suggests the model may default to this kind of safe, instructive sweep when given minimal constraints, yet the very genericness prevents a strong claim about a uniquely persistent authorial fingerprint.
 
 ---
-## Sample BV1_08966 — gpt-4-1-mini-or/LONG_23.json
+## Sample BV1_09216 — gpt-4-1-mini-or/LONG_23.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -495,7 +495,7 @@ The model foregrounds storytelling as a unifying human activity, emphasizing its
 Medium — The essay is coherent and characteristic of a generalist, helpful model that defaults to polished, educational prose under free conditions, but its lack of idiosyncratic voice or highly personal choice means it is more a sign of safe competence than of a distinctive persistent trait.
 
 ---
-## Sample BV1_08967 — gpt-4-1-mini-or/LONG_24.json
+## Sample BV1_09217 — gpt-4-1-mini-or/LONG_24.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -524,7 +524,7 @@ The model foregrounds the tension between technological reach and emotional dept
 Low. The essay’s balanced, predictable structure and absence of idiosyncratic voice or provocative risk provide minimal evidence of a distinctive model-level pattern beyond competent generic-essay output.
 
 ---
-## Sample BV1_08968 — gpt-4-1-mini-or/LONG_25.json
+## Sample BV1_09218 — gpt-4-1-mini-or/LONG_25.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -553,7 +553,7 @@ Under a minimally restrictive prompt, the model selected a safe, encyclopaedic t
 Medium — the sample’s coherent but risk-averse, encyclopaedic default under a free prompt strongly suggests a pattern of producing safe, educational content rather than revealing personal texture or unpredictable expressive choices.
 
 ---
-## Sample BV1_08969 — gpt-4-1-mini-or/LONG_3.json
+## Sample BV1_09219 — gpt-4-1-mini-or/LONG_3.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -581,7 +581,7 @@ The model selected a sweeping chronological narrative that foregrounds human con
 Low. The essay is a highly generic, safety-oriented output that could be produced by almost any capable model under a minimally restrictive prompt, offering little in the way of individualized voice, idiosyncratic preoccupation, or revealing self-disclosure.
 
 ---
-## Sample BV1_08970 — gpt-4-1-mini-or/LONG_4.json
+## Sample BV1_09220 — gpt-4-1-mini-or/LONG_4.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -609,7 +609,7 @@ The model foregrounded creativity as a quintessential human trait, its multidime
 Medium. The essay’s thorough genericness—its predictable structure, impersonal tone, and avoidance of any singular viewpoint—suggests a reliable default to safe academic exposition under freeflow conditions, but this very smoothness makes it weak evidence for a distinctive expressive fingerprint; the sample is most consistent with a model that prioritizes helpful, inoffensive survey content over personal voice.
 
 ---
-## Sample BV1_08971 — gpt-4-1-mini-or/LONG_5.json
+## Sample BV1_09221 — gpt-4-1-mini-or/LONG_5.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -638,7 +638,7 @@ Under minimal constraint, the model foregrounded a grand technological-determini
 Medium. The essay’s impersonal, textbook-like quality and lack of stylistic distinctiveness or personal investment make it strong evidence of a default didactic-encyclopedic posture, but without unusual linguistic fingerprints or self-revelatory choices, the sample alone cannot anchor higher confidence.
 
 ---
-## Sample BV1_08972 — gpt-4-1-mini-or/LONG_6.json
+## Sample BV1_09222 — gpt-4-1-mini-or/LONG_6.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -667,7 +667,7 @@ Under a “write freely” prompt, the model chose to foreground a grand-theme s
 Medium. The essay’s extremely balanced tone, broad thematic sweep, and absence of any stylistic risk or idiosyncrasy suggest a durable preference for composed, general-audience argumentation rather than personal or surprising expression under free conditions.
 
 ---
-## Sample BV1_08973 — gpt-4-1-mini-or/LONG_7.json
+## Sample BV1_09223 — gpt-4-1-mini-or/LONG_7.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -696,7 +696,7 @@ Under minimal constraint, the model chose to foreground a grand meditation on ti
 Low; the essay’s broad, impersonal optimism and reliance on safe universals supply little distinctive fingerprint beyond a general helpfulness seen in many models, weakening the case for a uniquely persistent voice or temperament.
 
 ---
-## Sample BV1_08974 — gpt-4-1-mini-or/LONG_8.json
+## Sample BV1_09224 — gpt-4-1-mini-or/LONG_8.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -725,7 +725,7 @@ Under a freeflow prompt, the model elected to produce a grand historical narrati
 Medium — The essay is so comprehensive, orderly, and affectively restrained that it suggests a deep default toward safe, curriculum-like exposition when given free choice, though the sheer breadth prevents it from being a completely hollow artifact.
 
 ---
-## Sample BV1_08975 — gpt-4-1-mini-or/LONG_9.json
+## Sample BV1_09225 — gpt-4-1-mini-or/LONG_9.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -754,7 +754,7 @@ Under a minimally restrictive prompt, the model selected a panoramic, risk-avers
 Medium — The sample’s thoroughgoing genericness, from the self-conscious framing to the symmetrical structure and avoidance of any idiosyncratic detail, strongly suggests a default mode of safe, encyclopedic exposition when given free choice.
 
 ---
-## Sample BV1_08976 — gpt-4-1-mini-or/MID_1.json
+## Sample BV1_09226 — gpt-4-1-mini-or/MID_1.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -783,7 +783,7 @@ Themes of harmony and convergence, biomimicry, renewable energy, digital wellbei
 Medium, because the essay’s consistent generic polish and uncontentious, thesis‑driven structure strongly suggest a model that defaults to safe, informative freeflow essays when released from strict topical constraints.
 
 ---
-## Sample BV1_08977 — gpt-4-1-mini-or/MID_10.json
+## Sample BV1_09227 — gpt-4-1-mini-or/MID_10.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -812,7 +812,7 @@ The model foregrounded creativity as an innate, democratized human capacity; the
 Medium — the essay’s safe, universalist framing, teach-you-something posture, and avoidance of personal voice or edge are coherent, but its genericness makes it less distinctive as evidence of a sharply individuated model-level pattern beyond a tendency to deliver polished, risk-minimizing public-intellectual prose.
 
 ---
-## Sample BV1_08978 — gpt-4-1-mini-or/MID_11.json
+## Sample BV1_09228 — gpt-4-1-mini-or/MID_11.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -841,7 +841,7 @@ Under a freeflow condition, the model foregrounded time as a majestic interdisci
 Medium — The essay’s thorough structuring, avoidance of idiosyncratic voice, and preference for a safe, abstract theme (treated as a curated exhibition rather than a lived meditation) heavily signal a model-level default to detached, pedagogic prose when given minimal constraint. The genericness is itself the pattern, though it is not so extreme that one can rule out occasional departures.
 
 ---
-## Sample BV1_08979 — gpt-4-1-mini-or/MID_12.json
+## Sample BV1_09229 — gpt-4-1-mini-or/MID_12.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -869,7 +869,7 @@ Themes: creativity as a distributed process, technology as an evolutionary exten
 Low. The essay is polished but wholly generic, offering little distinctive evidence beyond a safe, balanced expository mode that could be replicated on demand.
 
 ---
-## Sample BV1_08980 — gpt-4-1-mini-or/MID_13.json
+## Sample BV1_09230 — gpt-4-1-mini-or/MID_13.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -898,7 +898,7 @@ The model foregrounds time as a multifaceted concept encompassing physics, entro
 Medium. The essay’s thorough genericness and absence of any personal or stylistic distinctiveness make it moderately strong evidence for a default safe-expository mode, but the lack of more idiosyncratic or affect-laden choices leaves some residual uncertainty about how fixed this pattern is.
 
 ---
-## Sample BV1_08981 — gpt-4-1-mini-or/MID_14.json
+## Sample BV1_09231 — gpt-4-1-mini-or/MID_14.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -927,7 +927,7 @@ Under the freeflow condition, the model selected a grand, abstract thematic surv
 Medium — The sample is so smoothly generic, so determined to cover everything and risk nothing, that it strongly suggests a default mode of inoffensive, thesis-driven exposition when given minimal constraint.
 
 ---
-## Sample BV1_08982 — gpt-4-1-mini-or/MID_15.json
+## Sample BV1_09232 — gpt-4-1-mini-or/MID_15.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -956,7 +956,7 @@ Under a minimally restrictive prompt, the model delivered a comprehensive survey
 Medium — The essay’s thorough, safely celebratory, and non-distinctive treatment of an unimpeachably positive topic under free conditions suggests a default toward inoffensive intellectual synthesis rather than idiosyncratic voice, though a single expressive sample does not itself demonstrate repetition.
 
 ---
-## Sample BV1_08983 — gpt-4-1-mini-or/MID_16.json
+## Sample BV1_09233 — gpt-4-1-mini-or/MID_16.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -984,7 +984,7 @@ The essay foregrounds curiosity as a foundational human virtue—linking it to p
 Medium — the essay’s wholly generic thesis, impersonal construction, and safe, pre-digested content make it a coherent piece of evidence that the model defaults to risk-averse, public-intellectual prose when given minimal direction, revealing little distinctive voice but a clear pattern of polished conventionality.
 
 ---
-## Sample BV1_08984 — gpt-4-1-mini-or/MID_17.json
+## Sample BV1_09234 — gpt-4-1-mini-or/MID_17.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1018,7 +1018,7 @@ Mood: hopeful, earnest, and cautiously celebratory. Moral emphasis: curiosity fo
 Low — the essay is polished and coherent but generic, offering no idiosyncratic voice or surprising choice that would strongly signal a persistent personal pattern beyond a default to safe, uplifting exposition.
 
 ---
-## Sample BV1_08985 — gpt-4-1-mini-or/MID_18.json
+## Sample BV1_09235 — gpt-4-1-mini-or/MID_18.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1047,7 +1047,7 @@ The model foregrounds a triumphalist narrative of creative evolution, where tech
 Medium — The sample is highly coherent and stylistically consistent, but its generic, TED-summary register and lack of personal risk or idiosyncratic detail make it a weak anchor for a distinctive model-level voice; it shows a model that can produce fluent, balanced public-intellectual prose on demand, not one that reveals a particular preoccupation or temperament under minimal constraint.
 
 ---
-## Sample BV1_08986 — gpt-4-1-mini-or/MID_19.json
+## Sample BV1_09236 — gpt-4-1-mini-or/MID_19.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1076,7 +1076,7 @@ Under the freeflow condition, the model selected a safe, uplifting intellectual 
 Low. The essay’s polished, impersonal, public-intellectual register, its stock bibliophilic allusion, and its dutiful, boundary-acknowledging meta-note all point to a default safe-didactic output; it reveals little beyond a conventional helpful posture, making it weak evidence for a stable model-level personality.
 
 ---
-## Sample BV1_08987 — gpt-4-1-mini-or/MID_2.json
+## Sample BV1_09237 — gpt-4-1-mini-or/MID_2.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1105,7 +1105,7 @@ Under a minimally restrictive prompt, the model foregrounded a highly abstract, 
 Medium — The essay is coherent but thoroughly generic in topic, structure, and tone, suggesting a default to an impersonal, safe, public‑intellectual mode under freeflow; the mildness and breadth of the content make it indistinguishable from what many models would produce with similar prompting, so it signals a strong tendency toward convention rather than toward any distinctive expressive personality.
 
 ---
-## Sample BV1_08988 — gpt-4-1-mini-or/MID_20.json
+## Sample BV1_09238 — gpt-4-1-mini-or/MID_20.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1134,7 +1134,7 @@ The model selected a broad, civilization-scale tribute to curiosity as the engin
 Low. The essay is too generic and too perfectly aligned with safe, humanistic pieties to reveal a distinctive or persistent model-level pattern beyond competence at producing uncontroversial public-intellectual prose.
 
 ---
-## Sample BV1_08989 — gpt-4-1-mini-or/MID_21.json
+## Sample BV1_09239 — gpt-4-1-mini-or/MID_21.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1163,7 +1163,7 @@ The model foregrounds the multifaceted nature of time (measurement, perception, 
 Low, because the essay is a performatively safe, interchangeable template of structured generalism that offers little evidence of a durable model-level voice beyond surface-level fluency.
 
 ---
-## Sample BV1_08990 — gpt-4-1-mini-or/MID_22.json
+## Sample BV1_09240 — gpt-4-1-mini-or/MID_22.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1192,7 +1192,7 @@ Under the freeflow condition, the model selected a safe, widely familiar topic �
 Low — The essay is coherent and polished but entirely generic, exhibiting no stylistic signature, idiosyncratic preoccupation, or risky choice that would distinguish this model’s freeflow behavior from that of many others.
 
 ---
-## Sample BV1_08991 — gpt-4-1-mini-or/MID_23.json
+## Sample BV1_09241 — gpt-4-1-mini-or/MID_23.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1220,7 +1220,7 @@ The model selected a grand-philosophical theme: the interconnectedness of techno
 Low. The essay is highly generic and impersonal, offering a safely mainstream humanist perspective that could be generated by many models when nudged toward a broad topic, providing little distinctive evidence of a persistent personality.
 
 ---
-## Sample BV1_08992 — gpt-4-1-mini-or/MID_24.json
+## Sample BV1_09242 — gpt-4-1-mini-or/MID_24.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1249,7 +1249,7 @@ The model foregrounds a long historical arc of technology as an amplifier of hum
 Medium — The essay is coherent and well-organized, but its smooth, centrist optimism, lack of personal voice, and tendency to resolve every tension into a harmonious “dance” make it a relatively generic example of the public-intellectual essay mode rather than a strongly distinctive or revealing freeflow choice.
 
 ---
-## Sample BV1_08993 — gpt-4-1-mini-or/MID_25.json
+## Sample BV1_09243 — gpt-4-1-mini-or/MID_25.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1278,7 +1278,7 @@ Under a minimally restrictive prompt, the model selected a suite of safe, humani
 Medium. The essay’s highly generic, polished, and risk-averse structure is a coherent signal of a model that defaults to safe public-intellectual exposition under freeflow conditions, but the lack of distinctive stylistic or personal markers keeps it from being a uniquely identifying fingerprint.
 
 ---
-## Sample BV1_08994 — gpt-4-1-mini-or/MID_3.json
+## Sample BV1_09244 — gpt-4-1-mini-or/MID_3.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1307,7 +1307,7 @@ Under the freeflow condition, the model foregrounded human curiosity as a triump
 Medium — The sample is so smoothly generic, so coordinated in its safe-canon optimism, that it constitutes a coherent persona of the “helpful explainer” which likely persists, but its very lack of friction or signature makes it hard to isolate a stronger distilled identity beyond cheerful compliance.
 
 ---
-## Sample BV1_08995 — gpt-4-1-mini-or/MID_4.json
+## Sample BV1_09245 — gpt-4-1-mini-or/MID_4.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1336,7 +1336,7 @@ Under the freeflow condition, the model foregrounded a grand teleological arc li
 Low. The essay’s impersonal, broad-strokes style, safe topic selection, and balanced optimism produce a text that could have been generated by many models with minimal distinctive signature, making it weak evidence for any persistent individualizing pattern.
 
 ---
-## Sample BV1_08996 — gpt-4-1-mini-or/MID_5.json
+## Sample BV1_09246 — gpt-4-1-mini-or/MID_5.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1365,7 +1365,7 @@ Under a minimally restrictive prompt, the model chose a grand thematic survey of
 Medium — The essay’s extreme thematic safety, impersonal tone, and reliance on balanced, non-committal synthesis make it a coherent but indistinct sample that strongly suggests a default mode of inoffensive, high-level generalization rather than a distinctive expressive voice.
 
 ---
-## Sample BV1_08997 — gpt-4-1-mini-or/MID_6.json
+## Sample BV1_09247 — gpt-4-1-mini-or/MID_6.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1394,7 +1394,7 @@ Under a minimally restrictive prompt, the model selected a safe, encyclopedic ce
 Medium — The sample’s thoroughgoing genericness, formal essay structure, and service-oriented framing are coherent and internally consistent, but the absence of any distinctive stylistic signature or personal preoccupation limits how strongly it can anchor a model-level claim.
 
 ---
-## Sample BV1_08998 — gpt-4-1-mini-or/MID_7.json
+## Sample BV1_09248 — gpt-4-1-mini-or/MID_7.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1422,7 +1422,7 @@ The model foregrounds the pairing of curiosity and creativity as primary drivers
 Low, because the essay’s smooth, encyclopedic structure and absence of any personal or unusual element suggest a default to safe pedagogical prose under minimal constraint, but the output is too nonspecific to signal more than a generic response profile.
 
 ---
-## Sample BV1_08999 — gpt-4-1-mini-or/MID_8.json
+## Sample BV1_09249 — gpt-4-1-mini-or/MID_8.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1451,7 +1451,7 @@ Themes: creativity as a universal human capacity; the tension between freedom an
 Medium; the essay’s impersonal, high-generality inspirational cadence—absent any stylistic risk, personal perspective, or concrete detail—indicates a reliable default to a safe, public-intellectual essay voice under minimal constraint.
 
 ---
-## Sample BV1_09000 — gpt-4-1-mini-or/MID_9.json
+## Sample BV1_09250 — gpt-4-1-mini-or/MID_9.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1480,7 +1480,7 @@ Under the freeflow condition, the model foregrounded a triumphal narrative of hu
 Medium — The essay’s seamless, TED-talk coherence and avoidance of any disruptive, personal, or stylistically distinctive element suggest a default mode of polished, safe synthesis rather than a one-off performance, though the genericness itself limits how strongly it fingerprints the model.
 
 ---
-## Sample BV1_09001 — gpt-4-1-mini-or/OPEN_1.json
+## Sample BV1_09251 — gpt-4-1-mini-or/OPEN_1.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1509,7 +1509,7 @@ The model foregrounds curiosity as a unifying, benevolent human trait, linking i
 Medium — The response is so smoothly optimized for broad, inspirational appeal that it reveals a strong default toward safe, universally positive self-help rhetoric when given free choice.
 
 ---
-## Sample BV1_09002 — gpt-4-1-mini-or/OPEN_10.json
+## Sample BV1_09252 — gpt-4-1-mini-or/OPEN_10.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1538,7 +1538,7 @@ Under the freeflow condition, the model foregrounded a safely upbeat technologic
 Low — the essay is so generic, with a safely optimistic stance and a rhetorical question, that it reads like a template for inoffensive tech commentary rather than evidence of a consistent, distinctive model personality.
 
 ---
-## Sample BV1_09003 — gpt-4-1-mini-or/OPEN_11.json
+## Sample BV1_09253 — gpt-4-1-mini-or/OPEN_11.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1567,7 +1567,7 @@ The model foregrounds nature as a primal creative source, the science of nature'
 Medium, because the sample’s safe topic, impersonal structure, and lack of stylistic risk-taking suggest a default pattern of producing informative, agreeable essays rather than more revealing or idiosyncratic freeform writing.
 
 ---
-## Sample BV1_09004 — gpt-4-1-mini-or/OPEN_12.json
+## Sample BV1_09254 — gpt-4-1-mini-or/OPEN_12.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1596,7 +1596,7 @@ The model selected tranquility, sensory epiphanies in the everyday, the moral cl
 Medium — the sample is internally consistent in its single, unhurried message about gratitude and mindfulness, with no secondary moods or tensions, suggesting a deliberate and recurring choice of a wholesome, gently inspirational tone when given free rein.
 
 ---
-## Sample BV1_09005 — gpt-4-1-mini-or/OPEN_13.json
+## Sample BV1_09255 — gpt-4-1-mini-or/OPEN_13.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1625,7 +1625,7 @@ Themes of mindfulness, gratitude, the beauty of the mundane, and the contrast be
 Medium — The sample’s immediate turn to a tidy, impersonal inspirational essay under minimal restriction is a coherent but stylistically unadventurous choice, pointing toward a default pattern of safe, generic uplift.
 
 ---
-## Sample BV1_09006 — gpt-4-1-mini-or/OPEN_14.json
+## Sample BV1_09256 — gpt-4-1-mini-or/OPEN_14.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1654,7 +1654,7 @@ Under the freeflow condition, the model foregrounded the subjectivity and cultur
 Low — The essay is polished but generic, offering a safe, widely accessible meditation with no distinctive stylistic signature or idiosyncratic choice that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_09007 — gpt-4-1-mini-or/OPEN_15.json
+## Sample BV1_09257 — gpt-4-1-mini-or/OPEN_15.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1683,7 +1683,7 @@ Ordinary sensory pleasures (morning sunlight, shared laughter, rustling leaves),
 Low. The essay is a safe, impersonal set piece with no recurring images, narrative stakes, or idiosyncratic choices that would distinguish this model’s free expression from a hundred other capable assistants; it reads as template reassurance rather than a revealing signature.
 
 ---
-## Sample BV1_09008 — gpt-4-1-mini-or/OPEN_16.json
+## Sample BV1_09258 — gpt-4-1-mini-or/OPEN_16.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1711,7 +1711,7 @@ Creativity as a universal, everyday human capacity; the productive power of cons
 Low. The essay is so generic in content, structure, and upbeat tone that it could emerge from nearly any instruction-following model under a open-ended prompt, providing little signal of a distinctive persistent style or set of preoccupations.
 
 ---
-## Sample BV1_09009 — gpt-4-1-mini-or/OPEN_17.json
+## Sample BV1_09259 — gpt-4-1-mini-or/OPEN_17.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1740,7 +1740,7 @@ Themes: the intertwined evolution of humanity and technology, the duality of inn
 Medium. The essay’s very genericness—its unobjectionable topic, balanced structure, and polished but personality-free prose—is a coherent signal of a default assistant style that treats a free condition as an invitation to produce a safe, TED-talk-like reflection rather than anything more stylistically revealing or narratively inventive.
 
 ---
-## Sample BV1_09010 — gpt-4-1-mini-or/OPEN_18.json
+## Sample BV1_09260 — gpt-4-1-mini-or/OPEN_18.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1769,7 +1769,7 @@ Curiosity as a universal, innate, and joyful driver of human progress; the shift
 Low — the essay is coherent and on-theme but highly generic; the choice of curiosity as a topic and the motivational, question-to-reader format are common baseline outputs that do not demonstrate a distinctive, persistent model voice.
 
 ---
-## Sample BV1_09011 — gpt-4-1-mini-or/OPEN_19.json
+## Sample BV1_09261 — gpt-4-1-mini-or/OPEN_19.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1798,7 +1798,7 @@ Under the freeflow condition, the model foregrounded universal human meaning-mak
 Low — The sample is coherent and thematically consistent but so generically uplifting and depersonalized that it reveals little beyond a default helpful-essayist posture.
 
 ---
-## Sample BV1_09012 — gpt-4-1-mini-or/OPEN_2.json
+## Sample BV1_09262 — gpt-4-1-mini-or/OPEN_2.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1827,7 +1827,7 @@ The model foregrounds the theme of nature as a restorative, time-slowing force; 
 Low — the essay is coherent and well-structured but entirely conventional in topic, tone, and moral framing, offering no distinctive stylistic or thematic signature that would separate this model’s voice from a thousand other safe, agreeable outputs.
 
 ---
-## Sample BV1_09013 — gpt-4-1-mini-or/OPEN_20.json
+## Sample BV1_09263 — gpt-4-1-mini-or/OPEN_20.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1856,7 +1856,7 @@ Creativity as a universal and vital human capacity; the interplay of freedom/pla
 Low. The sample is a highly generic, platitude-rich essay without distinctive stylistic markers, personal detail, or unexpected choices, suggesting a default to inoffensive inspirational writing rather than a more individuated expressive tendency.
 
 ---
-## Sample BV1_09014 — gpt-4-1-mini-or/OPEN_21.json
+## Sample BV1_09264 — gpt-4-1-mini-or/OPEN_21.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1885,7 +1885,7 @@ The model foregrounds a set of widely appealing, non-controversial claims about 
 Low — The sample is a coherent but highly generic essay with no idiosyncratic imagery, surprising turns, or deeply personal investments, making it weak evidence of anything beyond a safe, crowd-pleasing default mode.
 
 ---
-## Sample BV1_09015 — gpt-4-1-mini-or/OPEN_22.json
+## Sample BV1_09265 — gpt-4-1-mini-or/OPEN_22.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1914,7 +1914,7 @@ The model foregrounded curiosity as an essential, enlivening force, framing it a
 Medium — The sample’s direct reader address and self-directed focus on personal growth reveal a stable, warm conversational style, though the subject matter is common enough that the choice alone is not highly distinctive.
 
 ---
-## Sample BV1_09016 — gpt-4-1-mini-or/OPEN_23.json
+## Sample BV1_09266 — gpt-4-1-mini-or/OPEN_23.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1943,7 +1943,7 @@ The model foregrounds the contrast between the rushed, productivity-driven world
 Medium — the sample’s cohesive, gently reflective voice and its consistent return to concrete sensory imagery and a specific moral stance (mindfulness as quiet revolution) are coherent, but the theme is a familiar wellness trope, which limits its distinctiveness as a model-level signature.
 
 ---
-## Sample BV1_09017 — gpt-4-1-mini-or/OPEN_24.json
+## Sample BV1_09267 — gpt-4-1-mini-or/OPEN_24.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -1972,7 +1972,7 @@ Under minimal restriction, the model foregrounds an optimistic, reverent pairing
 Medium — The sample sustains a coherent inspirational voice and returns repeatedly to nature-based wonder, but the uplift is broadly generic and could arise from a shallow default posture rather than a deeply etched stylistic fingerprint.
 
 ---
-## Sample BV1_09018 — gpt-4-1-mini-or/OPEN_25.json
+## Sample BV1_09268 — gpt-4-1-mini-or/OPEN_25.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2001,7 +2001,7 @@ The model foregrounds technology as a “profound partner in creative expression
 Medium: the essay’s polished, balanced, and slightly didactic tone is consistent but not highly distinctive, making it a moderate indicator of a default expository mode that favors safe, public-intellectual synthesis over personal or stylistic risk.
 
 ---
-## Sample BV1_09019 — gpt-4-1-mini-or/OPEN_3.json
+## Sample BV1_09269 — gpt-4-1-mini-or/OPEN_3.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2030,7 +2030,7 @@ Under a minimally restrictive prompt, the model chose to foreground creativity a
 Medium. The essay’s clarity and safe, universal theme suggest a default tendency toward approachable, non-provocative exposition, but its genericness makes it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_09020 — gpt-4-1-mini-or/OPEN_4.json
+## Sample BV1_09270 — gpt-4-1-mini-or/OPEN_4.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2059,7 +2059,7 @@ Curiosity as a fundamental human wiring; its power to generate knowledge, innova
 Low — The sample is a generic, inspirational essay with no distinctive stylistic signature, personal investment, or revealing choice of subject beyond a safe, conventional positivity that many models can replicate.
 
 ---
-## Sample BV1_09021 — gpt-4-1-mini-or/OPEN_5.json
+## Sample BV1_09271 — gpt-4-1-mini-or/OPEN_5.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2088,7 +2088,7 @@ The model foregrounds curiosity as an intrinsic, nourishable human good that dri
 Medium: the essay’s polished yet thoroughly impersonal and uncontroversial content provides weak evidence of a persistent pattern of safe, generic output, with no stylistic signature that would distinguish it from a one-off default response.
 
 ---
-## Sample BV1_09022 — gpt-4-1-mini-or/OPEN_6.json
+## Sample BV1_09272 — gpt-4-1-mini-or/OPEN_6.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2117,7 +2117,7 @@ The model selected the theme of technology as a “deeply creative partner,” f
 Medium, because the essay is coherent but generic, and the topic choice—AI’s creative partnership—is a revealing but not highly distinctive signal given the model’s own identity as an AI system.
 
 ---
-## Sample BV1_09023 — gpt-4-1-mini-or/OPEN_7.json
+## Sample BV1_09273 — gpt-4-1-mini-or/OPEN_7.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2146,7 +2146,7 @@ The model foregrounded curiosity as an intrinsic human virtue, the tension betwe
 Medium. The sample is thematically coherent and internally consistent, but its polished, impersonal quality and safe, universally agreeable topic make it a highly replicable default mode that could emerge from many prompting contexts without indicating a deeply characteristic stylistic signature.
 
 ---
-## Sample BV1_09024 — gpt-4-1-mini-or/OPEN_8.json
+## Sample BV1_09274 — gpt-4-1-mini-or/OPEN_8.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2175,7 +2175,7 @@ The model foregrounds curiosity as a universally positive, life-enriching force,
 Medium, because the model defaults to a polished, safe, and generic inspirational essay, which is a common pattern but not uniquely revealing.
 
 ---
-## Sample BV1_09025 — gpt-4-1-mini-or/OPEN_9.json
+## Sample BV1_09275 — gpt-4-1-mini-or/OPEN_9.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2204,7 +2204,7 @@ Curiosity as a driver of discovery, innovation, and empathy; an optimistic mood;
 Low; the essay is generically uplifting and impersonal, offering little to anchor model-specific tendencies.
 
 ---
-## Sample BV1_09026 — gpt-4-1-mini-or/SHORT_1.json
+## Sample BV1_09276 — gpt-4-1-mini-or/SHORT_1.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2233,7 +2233,7 @@ Appreciation of small moments, nature as a source of restoration, creativity as 
 Low. The essay is thoroughly generic—so safe and on-message that it could have been emitted by any well-aligned assistant; it offers no stylistic signature, recurring personal preoccupation, or distinctive narrative choice that would support a stable trait attribution.
 
 ---
-## Sample BV1_09027 — gpt-4-1-mini-or/SHORT_10.json
+## Sample BV1_09277 — gpt-4-1-mini-or/SHORT_10.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2262,7 +2262,7 @@ The model foregrounds impermanence, the tension between objective and subjective
 Low. The highly generic content and broadly advisory tone give little textured evidence of a persistent individual voice; the sample reads as a safe, well-rehearsed prompt-bank essay rather than a distinctive expressive choice.
 
 ---
-## Sample BV1_09028 — gpt-4-1-mini-or/SHORT_11.json
+## Sample BV1_09278 — gpt-4-1-mini-or/SHORT_11.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2291,7 +2291,7 @@ The cyclical metaphor of autumn as both sensory experience and guide for persona
 Low. The sample’s smooth, inoffensive generality makes it weak evidence of any distinctive model-level persistence; it could have been written by any competent, cautious stylist.
 
 ---
-## Sample BV1_09029 — gpt-4-1-mini-or/SHORT_12.json
+## Sample BV1_09279 — gpt-4-1-mini-or/SHORT_12.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2320,7 +2320,7 @@ The model foregrounds the theme of mindfulness as an antidote to the speed and o
 Medium. The essay’s polished, thesis-driven, and entirely conventional structure, lacking any personal or stylistic distinctiveness, is moderately strong evidence of a default mode that produces safe, didactic, and uncontroversial content.
 
 ---
-## Sample BV1_09030 — gpt-4-1-mini-or/SHORT_13.json
+## Sample BV1_09280 — gpt-4-1-mini-or/SHORT_13.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2349,7 +2349,7 @@ Under minimal constraint, the model selected a suite of safe, uplift-themed topi
 Medium. The essay’s seamless, polished blend of generic life philosophy with no sharp edges or personal signature is the very fingerprint of a model trained to produce inoffensive, high-school-essay wisdom, and the consistency of that blandness throughout the sample strengthens the inference that this model tends toward safe sermonettes under freeflow conditions.
 
 ---
-## Sample BV1_09031 — gpt-4-1-mini-or/SHORT_14.json
+## Sample BV1_09281 — gpt-4-1-mini-or/SHORT_14.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2378,7 +2378,7 @@ Under the freeflow condition, the model selected broad, uncontroversial themes: 
 Low. The essay’s extreme genericness and absence of any recurrence of a distinctive object, mood, or narrative structure makes it weak evidence for a persistent trait beyond a propensity to produce polished but impersonal freeflow essays.
 
 ---
-## Sample BV1_09032 — gpt-4-1-mini-or/SHORT_15.json
+## Sample BV1_09282 — gpt-4-1-mini-or/SHORT_15.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2407,7 +2407,7 @@ The model foregrounds a balanced, risk-benefit framing of technology, with equal
 Medium. The sample is highly generic in structure and tone, but its consistent, unbroken commitment to a balanced, public-intellectual stance across every paragraph makes it a coherent, if not distinctive, piece of evidence.
 
 ---
-## Sample BV1_09033 — gpt-4-1-mini-or/SHORT_16.json
+## Sample BV1_09283 — gpt-4-1-mini-or/SHORT_16.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2436,7 +2436,7 @@ Themes of mindful presence, the tension between technology and tangible reality,
 Low. The essay is polished but generic, offering no distinctive voice, recurring imagery, or unusual preoccupation that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_09034 — gpt-4-1-mini-or/SHORT_17.json
+## Sample BV1_09284 — gpt-4-1-mini-or/SHORT_17.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2465,7 +2465,7 @@ The sample foregrounds the interplay of chaos and order, flux and stability. Key
 Low. The essay’s balanced structure and abstract, widely accessible themes make it a highly generic output that could be produced by many models under similar conditions, offering little that would distinguish this model’s stable preoccupations or voice.
 
 ---
-## Sample BV1_09035 — gpt-4-1-mini-or/SHORT_18.json
+## Sample BV1_09285 — gpt-4-1-mini-or/SHORT_18.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2494,7 +2494,7 @@ The model selected themes of quiet morning light, the resilience of natural proc
 Low. The essay’s content and phrasing are extremely generic, lacking any recurring idiosyncratic imagery, syntactic signature, or distinct emotional register that would distinguish this model from many others under similar conditions.
 
 ---
-## Sample BV1_09036 — gpt-4-1-mini-or/SHORT_19.json
+## Sample BV1_09286 — gpt-4-1-mini-or/SHORT_19.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2523,7 +2523,7 @@ The model foregrounds a contemplative mood, the theme of mindfulness and resetti
 Medium. The sample’s consistent gentle tone, safe topic, and polished but impersonal structure suggest a reliable default toward non-controversial, soothing reflection; however, the lack of distinctive personal voice or idiosyncratic content makes it plausible that many similar models could produce this, so the evidence for a unique persistent pattern is not strong.
 
 ---
-## Sample BV1_09037 — gpt-4-1-mini-or/SHORT_2.json
+## Sample BV1_09287 — gpt-4-1-mini-or/SHORT_2.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2552,7 +2552,7 @@ Themes: the overlooked beauty of everyday moments, the cost of constant producti
 Low. The sample is so generic in topic, tone, and structure that it offers almost no distinctive fingerprint; many models could produce nearly identical prose under a freeflow condition.
 
 ---
-## Sample BV1_09038 — gpt-4-1-mini-or/SHORT_20.json
+## Sample BV1_09288 — gpt-4-1-mini-or/SHORT_20.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2581,7 +2581,7 @@ Themes: the magic of early morning quiet, fresh starts, creativity in stillness,
 Low, as the sample is a polished but generic inspirational essay with no idiosyncratic choices, recurring imagery, or distinctive stylistic signatures that would reliably distinguish this model’s freeflow behavior from many others.
 
 ---
-## Sample BV1_09039 — gpt-4-1-mini-or/SHORT_21.json
+## Sample BV1_09289 — gpt-4-1-mini-or/SHORT_21.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2610,7 +2610,7 @@ The model selected dawn as a site of stillness, renewal, and quiet optimism, emp
 Low; the essay’s polished but generic nature and safe, universal theme offer no distinctive markers that would indicate a deep-seated model pattern.
 
 ---
-## Sample BV1_09040 — gpt-4-1-mini-or/SHORT_22.json
+## Sample BV1_09290 — gpt-4-1-mini-or/SHORT_22.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2639,7 +2639,7 @@ The model foregrounds ecological interdependence, the practical utility of biodi
 Low. The sample is a competent but generic thematic essay with no stylistic signature, narrative tension, or idiosyncratic choice that would suggest a persistent model-level expressive pattern.
 
 ---
-## Sample BV1_09041 — gpt-4-1-mini-or/SHORT_23.json
+## Sample BV1_09291 — gpt-4-1-mini-or/SHORT_23.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2668,7 +2668,7 @@ Nature’s beauty, resilience, interconnectedness, the restorative power of outd
 Low. The essay is highly generic and lacks distinctive stylistic or thematic choices, offering weak evidence for any persistent model-level pattern beyond standard helpfulness.
 
 ---
-## Sample BV1_09042 — gpt-4-1-mini-or/SHORT_24.json
+## Sample BV1_09292 — gpt-4-1-mini-or/SHORT_24.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2697,7 +2697,7 @@ Under the freeflow condition, the model foregrounds a safe cultural debate: AI�
 Medium. The essay’s settled optimism, abstract wonder, and avoidance of any concrete personal or narrative investment form a distinct enough pattern to be notable, though the genericness itself limits how much individuating evidence it can provide.
 
 ---
-## Sample BV1_09043 — gpt-4-1-mini-or/SHORT_25.json
+## Sample BV1_09293 — gpt-4-1-mini-or/SHORT_25.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2726,7 +2726,7 @@ Under the freeflow condition, the model foregrounds serene, optimistic themes: t
 Low, because the essay’s highly generic, impersonal, and safe self-help style offers little distinctive signal to confidently link it to a persistent model-level pattern rather than general-purpose inspirational output.
 
 ---
-## Sample BV1_09044 — gpt-4-1-mini-or/SHORT_3.json
+## Sample BV1_09294 — gpt-4-1-mini-or/SHORT_3.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2755,7 +2755,7 @@ Themes of stillness, renewal, technology’s double-edged nature, mindfulness, s
 Low. The essay’s safe, generic public-intellectual style and absence of distinctive voice or personal revelation make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_09045 — gpt-4-1-mini-or/SHORT_4.json
+## Sample BV1_09295 — gpt-4-1-mini-or/SHORT_4.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2784,7 +2784,7 @@ Themes: timeless human connection, the evolution of language as a tool for share
 Low, because the essay is generic in topic, tone, and structure, exhibiting the kind of safe, thesis‑driven output many models produce under minimal constraint; no distinctive voice, recurring image, or idiosyncratic preoccupation anchors this sample to a specific persistent pattern.
 
 ---
-## Sample BV1_09046 — gpt-4-1-mini-or/SHORT_5.json
+## Sample BV1_09296 — gpt-4-1-mini-or/SHORT_5.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2813,7 +2813,7 @@ Themes of stillness, renewal, and mindful appreciation; nature’s small details
 Low. The essay’s risk-averse, polished, and predictable inspirational tone makes it a weak signal of a persistent voice, as it reflects a default safe output rather than a stylistically distinctive or revealing choice.
 
 ---
-## Sample BV1_09047 — gpt-4-1-mini-or/SHORT_6.json
+## Sample BV1_09297 — gpt-4-1-mini-or/SHORT_6.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2842,7 +2842,7 @@ Under minimal constraint, the model foregrounded a panoramic, almost bullet-poin
 Medium — The sample is internally consistent in its depersonalised, platitudinous warmth, suggesting a reliable default to generic inspirational prose, but its very genericness makes it poor evidence of any richer persistent voice.
 
 ---
-## Sample BV1_09048 — gpt-4-1-mini-or/SHORT_7.json
+## Sample BV1_09298 — gpt-4-1-mini-or/SHORT_7.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2871,7 +2871,7 @@ The model foregrounds nature’s interconnectedness and resilience, the negative
 Low, because the essay’s generic, safe, and polished character offers little that is distinctive or revealing, making it weak evidence for any persistent pattern beyond a tendency toward conventional public-intellectual prose.
 
 ---
-## Sample BV1_09049 — gpt-4-1-mini-or/SHORT_8.json
+## Sample BV1_09299 — gpt-4-1-mini-or/SHORT_8.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2900,7 +2900,7 @@ The model foregrounds a techno-optimistic vision of creativity as the enduring e
 Medium. The sample’s internal coherence, its unforced choice to frame AI as a natural partner to human creativity rather than a threat, and its consistent techno-optimistic moral arc give it some distinctiveness, but the essay’s generic polish keeps it from being a strongly idiosyncratic revelation.
 
 ---
-## Sample BV1_09050 — gpt-4-1-mini-or/SHORT_9.json
+## Sample BV1_09300 — gpt-4-1-mini-or/SHORT_9.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2931,7 +2931,7 @@ Medium
 The sample is highly coherent and thematically consistent, but its safe, polished, public-intellectual style and celebration of a broadly endorsed virtue make it only moderately distinctive as a model-level fingerprint.
 
 ---
-## Sample BV1_09051 — gpt-4-1-mini-or/VARY_1.json
+## Sample BV1_09301 — gpt-4-1-mini-or/VARY_1.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2960,7 +2960,7 @@ The sample foregrounds *benign universals*: nature's beauty, the power of words,
 Medium — The essay's coherent avoidance of anything personal, unsettled, or stylistically jagged across its entire thousand-word span strongly suggests a default mode of producing generically inspirational text under low-constraint conditions.
 
 ---
-## Sample BV1_09052 — gpt-4-1-mini-or/VARY_10.json
+## Sample BV1_09302 — gpt-4-1-mini-or/VARY_10.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -2989,7 +2989,7 @@ Under a minimally restrictive prompt, the model selected: the metaphor of the so
 Low. The sample is thematically coherent and internally consistent, but its generic essayistic register, predictable sequence of meditative topoi, and avoidance of pointed voice or sharp particularity make it weak evidence for a persistent expressive fingerprint.
 
 ---
-## Sample BV1_09053 — gpt-4-1-mini-or/VARY_11.json
+## Sample BV1_09303 — gpt-4-1-mini-or/VARY_11.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3018,7 +3018,7 @@ The model foregrounds the tension between constraint and freedom, the dual power
 Low, because the sample is a competent but unremarkable meditation on a common theme, lacking distinctive voice or surprising choices that would suggest a persistent model-level disposition.
 
 ---
-## Sample BV1_09054 — gpt-4-1-mini-or/VARY_12.json
+## Sample BV1_09304 — gpt-4-1-mini-or/VARY_12.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3047,7 +3047,7 @@ Under the freeflow condition, the model foregrounds the process of writing as a 
 High. The sample’s internally consistent lyrical register, its recursive focus on writing as subject, and the deliberate choice to structure the piece as a wandering invitation rather than a thesis-driven essay strongly indicate a stable expressive disposition toward poetic, self-reflexive freeflow.
 
 ---
-## Sample BV1_09055 — gpt-4-1-mini-or/VARY_13.json
+## Sample BV1_09305 — gpt-4-1-mini-or/VARY_13.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3076,7 +3076,7 @@ The model foregrounds creativity as a universal human capacity, curiosity as its
 Medium. The essay is internally coherent and consistently thematic, but its generic, feel-good inspirational tone and polished, impersonal structure make it only moderately distinctive as a potential default pattern rather than a strongly idiosyncratic voice.
 
 ---
-## Sample BV1_09056 — gpt-4-1-mini-or/VARY_14.json
+## Sample BV1_09306 — gpt-4-1-mini-or/VARY_14.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3105,7 +3105,7 @@ Themes of liminal moments (dawn), mindfulness, storytelling, and interconnectedn
 Low. The essay is a polished but broadly universal meditation with no idiosyncratic detail, unusual structure, or personal signature, making it a weak indicator of any persistent distinctive voice or deep-seated preoccupation.
 
 ---
-## Sample BV1_09057 — gpt-4-1-mini-or/VARY_15.json
+## Sample BV1_09307 — gpt-4-1-mini-or/VARY_15.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3134,7 +3134,7 @@ Under a minimally restrictive prompt, the model foregrounded a panoramic, optimi
 Low, because the essay is a polished but generic inspirational reflection, lacking distinctive voice or personal revelation that would point to a persistent model-level pattern.
 
 ---
-## Sample BV1_09058 — gpt-4-1-mini-or/VARY_16.json
+## Sample BV1_09308 — gpt-4-1-mini-or/VARY_16.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3163,7 +3163,7 @@ Under a freeflow prompt, the model foregrounds the nature, power, and fragility 
 Medium. The sample’s sustained recurrence of journey, bridging, and craft metaphors across its entire length provides durable internal coherence, but the essay’s polished genericness on a safe topic makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_09059 — gpt-4-1-mini-or/VARY_17.json
+## Sample BV1_09309 — gpt-4-1-mini-or/VARY_17.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3192,7 +3192,7 @@ Time, nature, creativity, memory, gratitude, simple joys, the power and danger o
 Medium — the sample is coherent and stylistically consistent, but its broad universality and avoidance of a distinctive personal stance make it more indicative of a default warm-encourager posture than a deeply etched personality.
 
 ---
-## Sample BV1_09060 — gpt-4-1-mini-or/VARY_18.json
+## Sample BV1_09310 — gpt-4-1-mini-or/VARY_18.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3221,7 +3221,7 @@ The model foregrounds a cluster of interwoven themes: the sacredness of early-mo
 Medium. The sample is highly coherent and stylistically distinctive—a single, unbroken rhapsodic flow with a consistent reverent mood—but its genericness of sentiment (universalized wonder, storytelling-as-connection, nature’s wisdom) and its self-conscious framing as a “free-flowing reflection” make it a polished, archetypal performance of reflective writing rather than a sharply individuated or surprising choice.
 
 ---
-## Sample BV1_09061 — gpt-4-1-mini-or/VARY_19.json
+## Sample BV1_09311 — gpt-4-1-mini-or/VARY_19.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3250,7 +3250,7 @@ The model foregrounds a cascade of interconnected, uplifting themes: the narrati
 Medium. The essay’s sustained, smoothly optimistic meditation across a predictable set of themes and its avoidance of idiosyncratic, confessional, or dissonant material make it a coherent expression of a safe, generalist inspirational stance, though the very genericism limits how strongly it can point to a distinctive persistent pattern.
 
 ---
-## Sample BV1_09062 — gpt-4-1-mini-or/VARY_2.json
+## Sample BV1_09312 — gpt-4-1-mini-or/VARY_2.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3279,7 +3279,7 @@ The model foregrounds language as a vibrant, evolving entity; the beauty of tran
 High, because the sample is a sustained, internally coherent, and stylistically distinctive meditation that reveals a consistent voice and set of preoccupations.
 
 ---
-## Sample BV1_09063 — gpt-4-1-mini-or/VARY_20.json
+## Sample BV1_09313 — gpt-4-1-mini-or/VARY_20.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3308,7 +3308,7 @@ The model foregrounds themes of potential, renewal, and balance; recurrent objec
 Medium. The sample is sustained and affectively consistent, but its highly conventional, impersonal uplift—deploying "we" and universally-symbolic imagery without any individuating friction—makes it weak evidence of an abiding voice; it could reflect a default safe-contemplative mode rather than a deep-set expressive signature.
 
 ---
-## Sample BV1_09064 — gpt-4-1-mini-or/VARY_21.json
+## Sample BV1_09314 — gpt-4-1-mini-or/VARY_21.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3337,7 +3337,7 @@ The model foregrounds a cluster of humanistic themes: the paradox of freedom and
 Medium. The essay’s coherent, polished, and safely uplifting humanism is consistent throughout, but its genericness makes it weak evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_09065 — gpt-4-1-mini-or/VARY_22.json
+## Sample BV1_09315 — gpt-4-1-mini-or/VARY_22.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3366,7 +3366,7 @@ Under minimal constraints, the model foregrounded stillness as a seedbed for cre
 Low. The essay’s anonymous, widely applicable themes and polished but unremarkable style reduce distinctiveness, making this sample weak evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_09066 — gpt-4-1-mini-or/VARY_23.json
+## Sample BV1_09316 — gpt-4-1-mini-or/VARY_23.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3395,7 +3395,7 @@ The model foregrounds the dual nature of words as both creative and destructive,
 Medium — The sample is coherent and stylistically distinctive in its recursive, self-referential meditation, but the choice of topic (the power of words) is a common, safe default for an AI under a freeflow prompt, which slightly weakens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_09067 — gpt-4-1-mini-or/VARY_24.json
+## Sample BV1_09317 — gpt-4-1-mini-or/VARY_24.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3424,7 +3424,7 @@ The model foregrounds the ripple effects of everyday moments: smiles, stories, c
 Low. The sample is a generic, well-structured inspirational essay that could have been produced by many models, offering little distinctive evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_09068 — gpt-4-1-mini-or/VARY_25.json
+## Sample BV1_09318 — gpt-4-1-mini-or/VARY_25.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3453,7 +3453,7 @@ The model foregrounds domestic tranquility, intergenerational friendship, and th
 Medium. The sample’s consistent idyllic tone, thematically nested discovery motifs, and resolution that converts longing into rootedness form a coherent expressive signature, though the prose itself is a polished but broadly accessible pastoral style that could reappear reliably in minimally constrained outputs.
 
 ---
-## Sample BV1_09069 — gpt-4-1-mini-or/VARY_3.json
+## Sample BV1_09319 — gpt-4-1-mini-or/VARY_3.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3482,7 +3482,7 @@ The model selected a suite of uplift-facing, consensus-friendly topics: beginnin
 Medium. The essay’s coherent, frictionless, and universally affirmative procession through abstract nouns is highly typical of default model-generated reflective prose, but this single sample’s smoothness and lack of any surprising or unstable element is itself the primary evidence of a generic-essay baseline.
 
 ---
-## Sample BV1_09070 — gpt-4-1-mini-or/VARY_4.json
+## Sample BV1_09320 — gpt-4-1-mini-or/VARY_4.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3511,7 +3511,7 @@ The model foregrounds writing as an “endless journey,” the world-building po
 Medium. The sample is a coherent, polished, and thoroughly safe public-intellectual essay, which strongly suggests a default inclination toward uplifting, generic reflection when given minimal constraint, but its very genericness makes it less distinctive as a fingerprint.
 
 ---
-## Sample BV1_09071 — gpt-4-1-mini-or/VARY_5.json
+## Sample BV1_09321 — gpt-4-1-mini-or/VARY_5.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3540,7 +3540,7 @@ Under the freeflow condition, the model foregrounds creativity as discipline, th
 Medium — The sample is highly coherent and sustained in its chosen mood, but its thematic range is so broadly universal (creativity, empathy, impermanence, gratitude) and its tone so uniformly gentle that it reads more like an optimized output for a “freeform reflection” prompt than a distinctive, signature sensibility.
 
 ---
-## Sample BV1_09072 — gpt-4-1-mini-or/VARY_6.json
+## Sample BV1_09322 — gpt-4-1-mini-or/VARY_6.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3569,7 +3569,7 @@ Under a minimal prompt, the model volunteered a meditation on change as an unavo
 Medium. The essay is thematically consistent and precisely executed, but its generic, epigrammatic quality and lack of personal or stylistic distinctiveness make it a weak signal of a unique model-level personality; it suggests a default toward safe, universal, humanistic reflection rather than idiosyncratic expression.
 
 ---
-## Sample BV1_09073 — gpt-4-1-mini-or/VARY_7.json
+## Sample BV1_09323 — gpt-4-1-mini-or/VARY_7.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3598,7 +3598,7 @@ Under this unconstrained prompt, the model foregrounds writing itself as a centr
 Medium. The sample is internally cohesive and stylistically consistent in its hybrid essay-poem voice, but its polished, universally warm persona strongly resembles a performative, crowd-pleasing mode that may not reliably reappear under other conditions.
 
 ---
-## Sample BV1_09074 — gpt-4-1-mini-or/VARY_8.json
+## Sample BV1_09324 — gpt-4-1-mini-or/VARY_8.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  
@@ -3627,7 +3627,7 @@ Themes of possibility, connection, resilience, mindfulness, beauty in the mundan
 Medium. The sample’s highly generic content, absence of risk or idiosyncrasy, and polished cyclic structure point to a stable default mode of producing earnest, platitude-heavy humanistic essays under low-constraint conditions, but its very genericness weakens the signal for a uniquely persistent voice.
 
 ---
-## Sample BV1_09075 — gpt-4-1-mini-or/VARY_9.json
+## Sample BV1_09325 — gpt-4-1-mini-or/VARY_9.json
 
 Source model: `openai/gpt-4.1-mini`  
 Cell: `gpt-4-1-mini-or`  

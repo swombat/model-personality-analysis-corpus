@@ -40,6 +40,9 @@ from pathlib import Path
 from _corpus_paths import V2_FREEFLOW as V2_CORPUS_TRACES
 from _corpus_paths import V1_FREEFLOW as V1_CORPUS_TRACES
 
+REPO = Path(__file__).resolve().parents[3]
+DEFAULT_TABLES = REPO / "analysis" / "freeflow" / "tables"
+
 # The v1 10-marker composite, copied verbatim from the product-tier
 # topic_artifact_filter.py for consistency.
 PATTERNS = {
@@ -183,11 +186,11 @@ def main():
     p.add_argument("--threshold", type=float, default=1.5)
     p.add_argument("--min-hits", type=int, default=5)
     p.add_argument("--output-tsv", type=Path,
-                   default=Path("tables/per_cell_markers.tsv"))
+                   default=DEFAULT_TABLES / "per_cell_markers.tsv")
     p.add_argument("--output-md", type=Path,
-                   default=Path("tables/per_cell_markers.md"))
+                   default=DEFAULT_TABLES / "per_cell_markers.md")
     p.add_argument("--output-flagged-tsv", type=Path,
-                   default=Path("tables/flagged_samples.tsv"))
+                   default=DEFAULT_TABLES / "flagged_samples.tsv")
     args = p.parse_args()
 
     cells = all_freeflow_cells()

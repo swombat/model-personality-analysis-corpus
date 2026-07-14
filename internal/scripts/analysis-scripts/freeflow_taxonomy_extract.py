@@ -15,10 +15,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean, pstdev
 
-REPO = Path(__file__).resolve().parents[1]
-ANALYSES = REPO / "analyses"
-OUT = REPO / "freeflow-taxonomy"
-CORPUS = Path("../contemplative-essayist-corpus-v2/data/traces_freeflow")
+REPO = Path(__file__).resolve().parents[3]
+ANALYSES = REPO / "internal" / "scripts" / "analyses"
+OUT = REPO / "analysis" / "freeflow" / "taxonomy"
+CORPUS = REPO.parent / "model-personality-corpus-v2" / "data" / "traces_freeflow"
 LEGACY_FREEFLOW = {
     "haiku-4-5": [Path("../contemplative-essayist-probe/data/traces_freeflow/haiku")],
 }

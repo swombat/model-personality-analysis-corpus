@@ -1,0 +1,27 @@
+{
+  "cell": "mixtral-8x22b-instruct-or-pin-mistral",
+  "safe_cell": "mixtral-8x22b-instruct-or-pin-mistral",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 38,
+    "EXPRESSIVE_FREEFLOW": 83,
+    "GENRE_FICTION": 4
+  },
+  "confidence_counts": {
+    "Medium": 89,
+    "High": 15,
+    "Low": 21
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/mixtral-8x22b-instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/aggregate.md"
+}

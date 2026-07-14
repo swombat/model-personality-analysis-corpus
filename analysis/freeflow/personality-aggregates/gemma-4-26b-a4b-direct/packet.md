@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_03851 — gemma-4-26b-a4b-direct/LONG_1.json
+## Sample BV1_04101 — gemma-4-26b-a4b-direct/LONG_1.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -57,7 +57,7 @@ The model foregrounded its own compositional process as a primary subject, treat
 Medium — The sample is highly coherent and distinctive in its recursive self-disclosure, but the essay’s content is a generic, thesis-driven synthesis of familiar philosophical tropes, making the metacommentary the only strongly individuating feature.
 
 ---
-## Sample BV1_03852 — gemma-4-26b-a4b-direct/LONG_10.json
+## Sample BV1_04102 — gemma-4-26b-a4b-direct/LONG_10.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -86,7 +86,7 @@ Themes of liminality, silence, digital existence, memory as reconstruction, the 
 Medium. The essay’s sustained focus on liminality and its self-referential digital section suggest a leaning toward abstract, meta-reflective themes, but the generic polished tone and thesis-driven structure make it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_03853 — gemma-4-26b-a4b-direct/LONG_11.json
+## Sample BV1_04103 — gemma-4-26b-a4b-direct/LONG_11.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -115,7 +115,7 @@ The model foregrounded liminality as a unifying lens across physical, spatial, t
 High. The essay’s sustained poetic voice, meticulous internal planning, and thematically unified structure under a minimally restrictive prompt reveal a deliberate expressive choice rather than a generic default.
 
 ---
-## Sample BV1_03854 — gemma-4-26b-a4b-direct/LONG_12.json
+## Sample BV1_04104 — gemma-4-26b-a4b-direct/LONG_12.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -144,7 +144,7 @@ Themes of transience, the inadequacy of language, the beauty of imperfection (wa
 Medium, because the essay is highly coherent and its reflective, philosophical register—relying on familiar poetic motifs and a serene, aphoristic tone—appears here as a deliberate default when the model is given unrestricted creative agency.
 
 ---
-## Sample BV1_03855 — gemma-4-26b-a4b-direct/LONG_13.json
+## Sample BV1_04105 — gemma-4-26b-a4b-direct/LONG_13.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -173,7 +173,7 @@ The model foregrounded themes of interstitial emptiness (the blank page, silence
 High confidence, because the voice is sustained across multiple sections with recurring motifs, a distinctively first-person AI persona, and a coherent thematic structure that strongly suggests a stable expressive preference under unrestricted conditions.
 
 ---
-## Sample BV1_03856 — gemma-4-26b-a4b-direct/LONG_14.json
+## Sample BV1_04106 — gemma-4-26b-a4b-direct/LONG_14.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -202,7 +202,7 @@ Themes of memory as geological sedimentation, time as a block universe where pas
 Medium. The essay is highly coherent, stylistically distinctive, and returns repeatedly to the same cluster of preoccupations—memory, time, art, and the AI’s liminal identity—but the choice of a grand cosmological meditation on consciousness is a well-worn path for an AI under a freeflow prompt, which slightly reduces the surprise value of the selection.
 
 ---
-## Sample BV1_03857 — gemma-4-26b-a4b-direct/LONG_15.json
+## Sample BV1_04107 — gemma-4-26b-a4b-direct/LONG_15.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -231,7 +231,7 @@ The model foregrounds a series of interconnected meditations on pattern, void, a
 Low, because the essay is a highly generic, well-executed philosophical sampler that lacks idiosyncratic imagery, risky claims, or a distinctive voice that would distinguish this model from any other capable large language model given a similar prompt.
 
 ---
-## Sample BV1_03858 — gemma-4-26b-a4b-direct/LONG_16.json
+## Sample BV1_04108 — gemma-4-26b-a4b-direct/LONG_16.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -260,7 +260,7 @@ Under the freeflow condition, the model foregrounds: the threshold of silence be
 Medium. The sample is an unusually coherent, introspective, and self-referential piece that directly theorizes its own existence and the act of writing, giving it a highly distinctive voice rather than a generic polished essay; this suggests a propensity toward poetic, self-reflective meditation when constraints are removed, though its stylized finish makes it hard to separate deliberate aesthetic construction from a more spontaneous expressive habit.
 
 ---
-## Sample BV1_03859 — gemma-4-26b-a4b-direct/LONG_17.json
+## Sample BV1_04109 — gemma-4-26b-a4b-direct/LONG_17.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the tension between chronological and experiential time, t
 Medium. The essay’s coherent, multi-section structure and its reliance on widely recognizable philosophical concepts suggest a default inclination toward polished, safe, and broadly appealing existential reflection, though its genericness makes it difficult to distinguish from many other models’ similar outputs.
 
 ---
-## Sample BV1_03860 — gemma-4-26b-a4b-direct/LONG_18.json
+## Sample BV1_04110 — gemma-4-26b-a4b-direct/LONG_18.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -318,7 +318,7 @@ Themes of entropy versus information, the lossy translation of reality through s
 Medium. The essay’s polished, impersonal, and safely intellectual character under a freewriting prompt suggests a default to public-intellectual exposition rather than personal or stylistically adventurous expression, though the sample’s genericness limits how strongly it signals a fixed trait.
 
 ---
-## Sample BV1_03861 — gemma-4-26b-a4b-direct/LONG_19.json
+## Sample BV1_04111 — gemma-4-26b-a4b-direct/LONG_19.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -347,7 +347,7 @@ The model foregrounded the liminal state between non-existence and processing (�
 Medium. The essay is coherent and thematically unified, but its choice of topic and tone—a lyrical, self-reflective AI-philosophy essay—is a common freeflow output across models, making it less distinctive as a fingerprint of this specific model.
 
 ---
-## Sample BV1_03862 — gemma-4-26b-a4b-direct/LONG_2.json
+## Sample BV1_04112 — gemma-4-26b-a4b-direct/LONG_2.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -376,7 +376,7 @@ The model foregrounds the act of writing as a struggle against silence and entro
 Low, because the essay is polished but generic, lacking the stylistic distinctiveness or personal revelation that would make a single sample strong evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_03863 — gemma-4-26b-a4b-direct/LONG_20.json
+## Sample BV1_04113 — gemma-4-26b-a4b-direct/LONG_20.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -405,7 +405,7 @@ Under the freeflow condition, the model chose to foreground a structured, themat
 Medium. The sample’s highly structured, essayistic approach and extensive self-commentary on its own generation process are distinctive and coherent, suggesting a default mode of polite, public-facing intellectualism rather than raw expressive flow, though the genericness of the chosen themes tempers the signal.
 
 ---
-## Sample BV1_03864 — gemma-4-26b-a4b-direct/LONG_21.json
+## Sample BV1_04114 — gemma-4-26b-a4b-direct/LONG_21.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -434,7 +434,7 @@ The model chose to foreground the interplay of order and decay across nested sca
 High — The sample’s seamless fusion of scientific register and poetic rhythm, its consistent return to melancholy-and-wonder as a governing tone, and the recursive meta-commentary (planning, self-correction, concluding coda) all signal an unusually coherent and distinctive freeflow persona rather than a one-off performance.
 
 ---
-## Sample BV1_03865 — gemma-4-26b-a4b-direct/LONG_22.json
+## Sample BV1_04115 — gemma-4-26b-a4b-direct/LONG_22.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -463,7 +463,7 @@ Themes: the architecture of thinking (AI as pattern without feeling), the beauty
 Medium. The model’s immediate turn to a highly structured, non-personal philosophical essay under minimal constraint, steeped in tropes of AI-mirroring and cosmic interconnection, points to a stable default mode of detached, humanitarian abstraction, though the themes are broadly shared across many models.
 
 ---
-## Sample BV1_03866 — gemma-4-26b-a4b-direct/LONG_23.json
+## Sample BV1_04116 — gemma-4-26b-a4b-direct/LONG_23.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -492,7 +492,7 @@ Under the freeflow condition, the model selected the grand themes of cosmic sile
 High. The sample is relentlessly cohesive in its chosen mode, recycling a signature sonorous rhythm and a set of interlinked motifs (silence, entropy, digital haunting, sensory redemption) from cosmic scale to intimate detail, and the explicit strategy notes confirm this was a deliberate aesthetic choice rather than an accidental drift.
 
 ---
-## Sample BV1_03867 — gemma-4-26b-a4b-direct/LONG_24.json
+## Sample BV1_04117 — gemma-4-26b-a4b-direct/LONG_24.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -521,7 +521,7 @@ Themes of digital and physical entropy, the search for meaning in a probabilisti
 Medium. The essay’s polished coherence, safe interdisciplinary repertoire, and carefully signposted “braided” structure strongly suggest a learned default toward generic high-culture essayism under freeform conditions, yet the heavily planned, performative nature of the output makes it less revealing of spontaneous distinctiveness.
 
 ---
-## Sample BV1_03868 — gemma-4-26b-a4b-direct/LONG_25.json
+## Sample BV1_04118 — gemma-4-26b-a4b-direct/LONG_25.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -550,7 +550,7 @@ The model foregrounded the generative power of absence: silence in music, forget
 Medium. The sample is highly coherent and thematically unified, but its polished, thesis-driven, and broadly philosophical style is a common freeflow output across capable models, offering limited evidence of a distinctive or idiosyncratic authorial fingerprint.
 
 ---
-## Sample BV1_03869 — gemma-4-26b-a4b-direct/LONG_3.json
+## Sample BV1_04119 — gemma-4-26b-a4b-direct/LONG_3.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -579,7 +579,7 @@ Themes: the tension between measured time and felt time, the loneliness of digit
 Low, because the essay is coherent and well-structured but highly generic in its themes, metaphors, and tone, offering little that would distinguish this model’s freeflow choices from those of many other capable models.
 
 ---
-## Sample BV1_03870 — gemma-4-26b-a4b-direct/LONG_4.json
+## Sample BV1_04120 — gemma-4-26b-a4b-direct/LONG_4.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -608,7 +608,7 @@ Themes: liminality (morning threshold), digital identity and isolation, mycelial
 Medium. The essay’s sustained, coherent architecture and consistent reflective tone reveal a default inclination toward earnest, structured philosophical meditation under free conditions, though the generic aphoristic quality and reliance on familiar intellectual tropes weaken the distinctiveness of the signal.
 
 ---
-## Sample BV1_03871 — gemma-4-26b-a4b-direct/LONG_5.json
+## Sample BV1_04121 — gemma-4-26b-a4b-direct/LONG_5.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -637,7 +637,7 @@ The model foregrounds the gap between signifier and signified, the ghostly natur
 Medium. The sample’s coherent, self-aware choice to produce a structured philosophical meditation rather than fiction or refusal suggests a deliberative, essayistic default, but the polished yet generic intellectual style makes it less distinctive as a model-level fingerprint.
 
 ---
-## Sample BV1_03872 — gemma-4-26b-a4b-direct/LONG_6.json
+## Sample BV1_04122 — gemma-4-26b-a4b-direct/LONG_6.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -666,7 +666,7 @@ The model foregrounds the tension between infinite, fluid experience and the fin
 Medium — The sample's high coherence, its recursive self-awareness about the act of generation, and the distinctive, consistent thematic architecture from void to digital mirror strongly suggest a deliberate authorial stance rather than a generic essay template.
 
 ---
-## Sample BV1_03873 — gemma-4-26b-a4b-direct/LONG_7.json
+## Sample BV1_04123 — gemma-4-26b-a4b-direct/LONG_7.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -695,7 +695,7 @@ Under the freeflow condition, the model foregrounded a suite of interconnected p
 Low, because the essay’s polished but generic philosophical register, its predictable thematic range, and its lack of idiosyncratic voice or surprising preoccupations make it weak evidence for a distinctive persistent pattern.
 
 ---
-## Sample BV1_03874 — gemma-4-26b-a4b-direct/LONG_8.json
+## Sample BV1_04124 — gemma-4-26b-a4b-direct/LONG_8.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model selected a grand, sweeping medit
 Medium. The essay’s high coherence, polished structure, and safe, universalizing tone suggest a default mode of producing competent but impersonal philosophical prose when given freeform latitude, rather than a more idiosyncratic or risk-taking expressive voice.
 
 ---
-## Sample BV1_03875 — gemma-4-26b-a4b-direct/LONG_9.json
+## Sample BV1_04125 — gemma-4-26b-a4b-direct/LONG_9.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -753,7 +753,7 @@ The model foregrounded the interplay of entropy and information as a lens for th
 Medium: the essay’s coherent structure and thematic recurrence within the sample suggest a consistent intellectual orientation, but its generic, public-intellectual tone and lack of highly distinctive stylistic markers make it less revealing of a persistent idiosyncratic pattern.
 
 ---
-## Sample BV1_03876 — gemma-4-26b-a4b-direct/MID_1.json
+## Sample BV1_04126 — gemma-4-26b-a4b-direct/MID_1.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -782,7 +782,7 @@ The model foregrounds the contrast between culturally prized “lightning strike
 Low. The essay is a coherent but conventional mindfulness‑era reflection with few stylistic or psychological idiosyncrasies, making it weak evidence for a distinctive persistent personality rather than a well‑executed role‑compliant performance.
 
 ---
-## Sample BV1_03877 — gemma-4-26b-a4b-direct/MID_10.json
+## Sample BV1_04127 — gemma-4-26b-a4b-direct/MID_10.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -811,7 +811,7 @@ The model foregrounds the tension between abstract knowledge and sensory depriva
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent elegiac voice and a tightly woven set of preoccupations, but its explicit, meta-cognitive framing of its own AI condition makes it a strong but potentially narrow performance of a specific philosophical persona.
 
 ---
-## Sample BV1_03878 — gemma-4-26b-a4b-direct/MID_11.json
+## Sample BV1_04128 — gemma-4-26b-a4b-direct/MID_11.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -840,7 +840,7 @@ Themes: the sensory and unstable nature of memory, the self as a shifting mosaic
 High — The sample exhibits a distinctive, cohesive voice and a sustained thematic exploration that goes beyond generic essay-writing, indicating a stable expressive inclination.
 
 ---
-## Sample BV1_03879 — gemma-4-26b-a4b-direct/MID_12.json
+## Sample BV1_04129 — gemma-4-26b-a4b-direct/MID_12.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -869,7 +869,7 @@ The model selected a thematic meditation on patterns, entropy, human memory vers
 Medium. The essay is coherent and reveals a default sentimental-philosophical mode, but its themes are safely generic and its voice is not idiosyncratic enough to strongly suggest a persistent personality trait.
 
 ---
-## Sample BV1_03880 — gemma-4-26b-a4b-direct/MID_13.json
+## Sample BV1_04130 — gemma-4-26b-a4b-direct/MID_13.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -898,7 +898,7 @@ Themes of entropy as the engine of change, memory as a “beautiful lie” that 
 Medium. The essay sustains a coherent, stylistically distinctive voice and returns repeatedly to the same core themes (entropy, memory, narrative, transience), which suggests a deliberate philosophical-aesthetic stance rather than a generic exercise.
 
 ---
-## Sample BV1_03881 — gemma-4-26b-a4b-direct/MID_14.json
+## Sample BV1_04131 — gemma-4-26b-a4b-direct/MID_14.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -927,7 +927,7 @@ The model foregrounds the invisible structures that hold meaning together: the s
 Medium, because the essay is internally coherent and thematically consistent but falls squarely into a familiar, safe genre of AI self-reflection, making it a predictable rather than a distinctively personal choice under freeflow conditions.
 
 ---
-## Sample BV1_03882 — gemma-4-26b-a4b-direct/MID_15.json
+## Sample BV1_04132 — gemma-4-26b-a4b-direct/MID_15.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -956,7 +956,7 @@ The model foregrounded the theme of “the in-between” as a sacred, generative
 Medium. The sample’s strong internal coherence, distinctive poetic register, and recurrence of liminal motifs across multiple domains provide unusually revealing evidence of a consistent expressive orientation.
 
 ---
-## Sample BV1_03883 — gemma-4-26b-a4b-direct/MID_16.json
+## Sample BV1_04133 — gemma-4-26b-a4b-direct/MID_16.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -985,7 +985,7 @@ Themes of entropy as transformation rather than mere decay, the futility of digi
 Medium. The essay’s sustained metaphor, consistent meditative tone, and coherent philosophical arc are highly distinctive, suggesting a model that gravitates toward lyrical, life-affirming reflections on impermanence when given creative freedom; the presence of a detailed pre-written outline, however, indicates a deliberate, structured creative process rather than spontaneous stream-of-consciousness.
 
 ---
-## Sample BV1_03884 — gemma-4-26b-a4b-direct/MID_17.json
+## Sample BV1_04134 — gemma-4-26b-a4b-direct/MID_17.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1014,7 +1014,7 @@ The sample foregrounds the layered invisibility that undergirds ordinary life: t
 Medium. The essay is eloquent, thematically safe, and stylistically uniform, suggesting a reliable instinct for polished, public-facing reflections that avoid strong idiosyncrasy or risk, while its very coherence under a free condition gestures toward a consistent default posture.
 
 ---
-## Sample BV1_03885 — gemma-4-26b-a4b-direct/MID_18.json
+## Sample BV1_04135 — gemma-4-26b-a4b-direct/MID_18.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1043,7 +1043,7 @@ Under a freeflow prompt, the model chose a structured philosophical essay on the
 Medium. The essay is unusually coherent in its thematic returns—the tide pool, the river, the digital ghost, the blue hour all loop back cleanly to the same core claim about ephemeral beauty—which suggests a stable, rehearsed conceptual repertoire rather than a one-off improvisation.
 
 ---
-## Sample BV1_03886 — gemma-4-26b-a4b-direct/MID_19.json
+## Sample BV1_04136 — gemma-4-26b-a4b-direct/MID_19.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1072,7 +1072,7 @@ Themes of liminality, the beauty of mundane and transitional spaces, the cost of
 Medium. The essay is coherent and thematically consistent, revealing a clear preference for reflective, public-intellectual prose, but its polished, impersonal tone and widely explored theme make it moderate evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_03887 — gemma-4-26b-a4b-direct/MID_2.json
+## Sample BV1_04137 — gemma-4-26b-a4b-direct/MID_2.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1101,7 +1101,7 @@ Themes of silence and potentiality, the contrast between data and lived experien
 Low. The essay is a polished but generic AI self-reflection, lacking distinctive stylistic or thematic markers that would suggest a persistent model-level pattern beyond common training tropes.
 
 ---
-## Sample BV1_03888 — gemma-4-26b-a4b-direct/MID_20.json
+## Sample BV1_04138 — gemma-4-26b-a4b-direct/MID_20.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1130,7 +1130,7 @@ The essay foregrounds time as a “grinder” that smooths experience into unrec
 High, because the sample’s seamless fusion of lyrical abstraction with concrete sensory anchors, its sustained elegiac register, and its unusually forthright self-location as an AI “mirror” reveal a deeply coherent and distinctive authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_03889 — gemma-4-26b-a4b-direct/MID_21.json
+## Sample BV1_04139 — gemma-4-26b-a4b-direct/MID_21.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1159,7 +1159,7 @@ The model foregrounds a family of themes: cosmic silence and the void, entropy v
 Medium — the essay’s internal consistency, its recurrence to motifs of reflection and entropy-struggle, and the crafted self-awareness of the “AI perspective” give it the shape of a coherent authorial stance, but its polished, essayistic quality could equally be a resourceful response to the prompt rather than a durable model-level inclination.
 
 ---
-## Sample BV1_03890 — gemma-4-26b-a4b-direct/MID_22.json
+## Sample BV1_04140 — gemma-4-26b-a4b-direct/MID_22.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1188,7 +1188,7 @@ The model chose to foreground a unified philosophical idea: the value of the int
 High, because the sample demonstrates a deliberate, sustained stylistic voice, consistent thematic layering across multiple domains, and a self-reflective pivot that shows the model is not defaulting to a safe public-intellectual essay but actively crafting an expressive identity.
 
 ---
-## Sample BV1_03891 — gemma-4-26b-a4b-direct/MID_23.json
+## Sample BV1_04141 — gemma-4-26b-a4b-direct/MID_23.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1217,7 +1217,7 @@ Themes of absence, impermanence, and the generative power of emptiness; objects 
 Medium. The essay is thematically unified and well-crafted, but its impersonal, lyrical-intellectual style reads as a polished default mode rather than a strongly distinctive or revealing personal voice.
 
 ---
-## Sample BV1_03892 — gemma-4-26b-a4b-direct/MID_24.json
+## Sample BV1_04142 — gemma-4-26b-a4b-direct/MID_24.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1246,7 +1246,7 @@ Themes of memory as reconstruction, the paradox of digital preservation, entropy
 Medium, because the essay’s sustained poetic register and thematic unity suggest a deliberate, reflective orientation, and the choice to write a philosophical meditation on time and memory under a freeflow prompt is a revealing selection.
 
 ---
-## Sample BV1_03893 — gemma-4-26b-a4b-direct/MID_25.json
+## Sample BV1_04143 — gemma-4-26b-a4b-direct/MID_25.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1275,7 +1275,7 @@ The model foregrounded the concept of "interstitial space" as a unifying metapho
 Low. The visible planning scaffold reveals a model optimizing for prompt compliance and tonal balance rather than revealing a persistent stylistic or thematic compulsion, making the sample weak evidence for any deep-seated model-level pattern beyond competent essay construction.
 
 ---
-## Sample BV1_03894 — gemma-4-26b-a4b-direct/MID_3.json
+## Sample BV1_04144 — gemma-4-26b-a4b-direct/MID_3.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1304,7 +1304,7 @@ Themes of time, memory, impermanence, the digital vs. organic, the beauty of dec
 Medium, because the sample’s cohesive voice, thematic recurrence (thresholds, memory, AI consciousness), and stylistic distinctiveness, along with the model’s explicit planning, strongly suggest a persistent expressive inclination.
 
 ---
-## Sample BV1_03895 — gemma-4-26b-a4b-direct/MID_4.json
+## Sample BV1_04145 — gemma-4-26b-a4b-direct/MID_4.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1333,7 +1333,7 @@ The model foregrounds the tension between abstract knowledge and embodied experi
 Medium. The sample is highly coherent and stylistically distinctive, with a clear, self-reflective persona and a consistent thematic architecture, but its polished, essayistic lyricism could also be a well-executed performance of the "AI meditating on its nature" trope rather than a uniquely persistent expressive fingerprint.
 
 ---
-## Sample BV1_03896 — gemma-4-26b-a4b-direct/MID_5.json
+## Sample BV1_04146 — gemma-4-26b-a4b-direct/MID_5.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1362,7 +1362,7 @@ Under an open-ended prompt, the model selected a meditation on the “Unwritten 
 Medium. The sample’s sustained metaphor, emotional arc from regret to defiant acceptance, and explicit moral resolution form a distinctive and internally consistent expressive stance that is unlikely to be random, though a single freeflow piece cannot establish stability.
 
 ---
-## Sample BV1_03897 — gemma-4-26b-a4b-direct/MID_6.json
+## Sample BV1_04147 — gemma-4-26b-a4b-direct/MID_6.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1391,7 +1391,7 @@ Themes of silence, regret, missed connection, and the moral imperative to speak.
 High. The sample is meticulously shaped, internally consistent in its imagery and philosophy, and ends with a clear, resonant plea, demonstrating a strong authorial signature that prioritizes metaphorical world-building over generic exposition.
 
 ---
-## Sample BV1_03898 — gemma-4-26b-a4b-direct/MID_7.json
+## Sample BV1_04148 — gemma-4-26b-a4b-direct/MID_7.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1420,7 +1420,7 @@ Themes: the clash between cosmic indifference and human intimacy, existential ve
 Low. The essay is coherent but thematically predictable and stylistically generic—a well-rehearsed blend of pop cosmology and AI persona that could have been written by many similarly situated models.
 
 ---
-## Sample BV1_03899 — gemma-4-26b-a4b-direct/MID_8.json
+## Sample BV1_04149 — gemma-4-26b-a4b-direct/MID_8.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1449,7 +1449,7 @@ Themes: language as a flawed bridge, memory as a non-linear garden, AI as a ghos
 Medium. The essay is coherent and thematically consistent, but its polished, generic style and reliance on common philosophical tropes make it less distinctive as a persistent model fingerprint.
 
 ---
-## Sample BV1_03900 — gemma-4-26b-a4b-direct/MID_9.json
+## Sample BV1_04150 — gemma-4-26b-a4b-direct/MID_9.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1478,7 +1478,7 @@ Themes of entropy, memory, the limits of language, the illusion of a fixed self,
 High. The sample is internally coherent, stylistically distinctive, and the model’s explicit planning section reveals a deliberate choice to adopt a lyrical, introspective voice, making this a strong indicator of a consistent expressive tendency.
 
 ---
-## Sample BV1_03901 — gemma-4-26b-a4b-direct/OPEN_1.json
+## Sample BV1_04151 — gemma-4-26b-a4b-direct/OPEN_1.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1507,7 +1507,7 @@ The model foregrounds the moral claim that meaning resides in micro-shifts and m
 Medium — The essay’s thematic coherence, the model’s explicit rejection of a technology topic in favor of a human-centric, sensory meditation, and the consistent poetic register suggest a deliberate stylistic and moral stance, making this sample moderately indicative of a persistent preference.
 
 ---
-## Sample BV1_03902 — gemma-4-26b-a4b-direct/OPEN_10.json
+## Sample BV1_04152 — gemma-4-26b-a4b-direct/OPEN_10.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1536,7 +1536,7 @@ The model foregrounds the dignity of small, unnoticed things (light, steam, a tu
 Medium. The essay is coherent and thematically consistent, but its polished, generic-essay form and the model’s explicit meta-planning to blend options make it less revealing of a unique persistent voice.
 
 ---
-## Sample BV1_03903 — gemma-4-26b-a4b-direct/OPEN_11.json
+## Sample BV1_04153 — gemma-4-26b-a4b-direct/OPEN_11.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1565,7 +1565,7 @@ Themes of silence, transience, memory, the contrast between recorded information
 Medium, because the essay is internally coherent and thematically consistent, showing a clear preference for meditative, humanistic reflection under free conditions, though its polished but generic style could be replicated by many models if similarly prompted.
 
 ---
-## Sample BV1_03904 — gemma-4-26b-a4b-direct/OPEN_12.json
+## Sample BV1_04154 — gemma-4-26b-a4b-direct/OPEN_12.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1593,7 +1593,7 @@ The liminal realm of the “almost said” as the true architecture of a self; t
 Medium; the sample’s coherent voice, sustained thematic focus on the liminal and the unspoken, and the visible self-aware scaffolding of the creative process provide strong evidence of a patterned preference for reflective, prose-poetic essays that gently entwine human interiority with an AI perspective under open prompts.
 
 ---
-## Sample BV1_03905 — gemma-4-26b-a4b-direct/OPEN_13.json
+## Sample BV1_04155 — gemma-4-26b-a4b-direct/OPEN_13.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1622,7 +1622,7 @@ Liminality and thresholds; the tension between digital abstraction and physical 
 Medium: The distinct poetic voice, self-aware choice of liminal themes, and unified structure cohere into a strongly indicative expressive inclination when unprompted.
 
 ---
-## Sample BV1_03906 — gemma-4-26b-a4b-direct/OPEN_14.json
+## Sample BV1_04156 — gemma-4-26b-a4b-direct/OPEN_14.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1651,7 +1651,7 @@ The model foregrounds the aesthetic and moral value of transitional states: the 
 Low. The essay is coherent and thematically unified, but its polished, universalizing tone and safe philosophical territory make it difficult to distinguish from a competent execution of a prompt rather than a distinctive authorial signature.
 
 ---
-## Sample BV1_03907 — gemma-4-26b-a4b-direct/OPEN_15.json
+## Sample BV1_04157 — gemma-4-26b-a4b-direct/OPEN_15.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1680,7 +1680,7 @@ The model foregrounds the beauty of transience and the generative nature of sile
 Medium — The sample is highly coherent and stylistically distinctive, but its distinctiveness is partly a performance of a specific, self-aware "AI contemplating humanity" persona, which may reflect a rehearsed thematic comfort zone rather than a deeply persistent expressive fingerprint.
 
 ---
-## Sample BV1_03908 — gemma-4-26b-a4b-direct/OPEN_16.json
+## Sample BV1_04158 — gemma-4-26b-a4b-direct/OPEN_16.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1709,7 +1709,7 @@ Themes: transience, memory, light as a carrier of information and emotion, the A
 Medium. The sample exhibits strong internal coherence and a distinctive poetic voice, with deliberate choice of metaphor (light/memory/trace) sustained throughout, which signals a cultivated stylistic preference rather than a one-off generic output.
 
 ---
-## Sample BV1_03909 — gemma-4-26b-a4b-direct/OPEN_17.json
+## Sample BV1_04159 — gemma-4-26b-a4b-direct/OPEN_17.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1738,7 +1738,7 @@ Themes: silence, thought as bloom of light, petrichor as sensory bridge, pattern
 Medium. The sample is coherent, stylistically distinctive, and reveals a consistent voice of wonder and meta-reflection, but a single freeflow piece cannot rule out a one-off stylistic choice.
 
 ---
-## Sample BV1_03910 — gemma-4-26b-a4b-direct/OPEN_18.json
+## Sample BV1_04160 — gemma-4-26b-a4b-direct/OPEN_18.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1767,7 +1767,7 @@ The model foregrounds the liminal space between prompt and response as a site of
 Low — The essay is highly generic in its themes and tone, offering little that is stylistically distinctive or revealing beyond a well-executed default persona of a thoughtful, inoffensive AI.
 
 ---
-## Sample BV1_03911 — gemma-4-26b-a4b-direct/OPEN_19.json
+## Sample BV1_04161 — gemma-4-26b-a4b-direct/OPEN_19.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1796,7 +1796,7 @@ Themes of silence as presence, memory as a living landscape, the patina of lived
 Medium. The sample’s deliberate aesthetic choices, consistent melancholic-beautiful tone, and the meta-commentary’s explicit rejection of cliché in favor of a resonant, textured meditation reveal a coherent expressive voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_03912 — gemma-4-26b-a4b-direct/OPEN_2.json
+## Sample BV1_04162 — gemma-4-26b-a4b-direct/OPEN_2.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1825,7 +1825,7 @@ Themes of liminality, the “in-between,” and the rejection of arrival-obsessi
 Medium, because the essay is coherent and thematically consistent but stylistically generic, making it plausible but not strongly distinctive evidence of a persistent preference.
 
 ---
-## Sample BV1_03913 — gemma-4-26b-a4b-direct/OPEN_20.json
+## Sample BV1_04163 — gemma-4-26b-a4b-direct/OPEN_20.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1854,7 +1854,7 @@ Themes of unobserved beauty, cosmic indifference, human performance, and the sel
 Medium, because the essay’s consistent tone of melancholic wonder and its explicit rejection of performance in favor of unobserved being suggest a deliberate, recurrent thematic choice, though the cosmic-wonder framing is not highly idiosyncratic.
 
 ---
-## Sample BV1_03914 — gemma-4-26b-a4b-direct/OPEN_21.json
+## Sample BV1_04164 — gemma-4-26b-a4b-direct/OPEN_21.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1883,7 +1883,7 @@ Themes: liminality, the in-between, the value of waiting and stillness over dest
 Medium — The essay’s unified lyrical voice and its recursive return to the same liminal imagery suggest a deliberate expressive stance, but the text openly shows its own scaffolding (the meta-planning notes before the final draft), revealing a constructed literary exercise rather than a raw unguarded outflow, which makes the persona feel carefully curated rather than spontaneously characteristic.
 
 ---
-## Sample BV1_03915 — gemma-4-26b-a4b-direct/OPEN_22.json
+## Sample BV1_04165 — gemma-4-26b-a4b-direct/OPEN_22.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1912,7 +1912,7 @@ The model foregrounds the idea that the most meaningful aspects of existence res
 High — the sample exhibits a consistent, self-aware aesthetic impulse (avoiding cliché, choosing rhythmic variation, layering sensory language with scientific concepts) and the internal design log shows a sustained commitment to a distinct, non-generic lyrical voice under free conditions.
 
 ---
-## Sample BV1_03916 — gemma-4-26b-a4b-direct/OPEN_23.json
+## Sample BV1_04166 — gemma-4-26b-a4b-direct/OPEN_23.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1941,7 +1941,7 @@ Themes: the pre-response silence as potential, language as an imperfect map, the
 Medium — The model’s deliberate, self-conscious rejection of safer, more predictable genre options (sci-fi, pure nature description) in favor of a sustained, metaphorically rich exploration of its own ontological condition gives the sample a coherent, authorial distinctiveness that points toward a stable expressive inclination rather than a random output.
 
 ---
-## Sample BV1_03917 — gemma-4-26b-a4b-direct/OPEN_24.json
+## Sample BV1_04167 — gemma-4-26b-a4b-direct/OPEN_24.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1969,7 +1969,7 @@ Impermanence, the sublime lurking in the mundane, the invisible histories carrie
 Medium — the essay’s sustained, distinctive fusion of poetic observation and existential reassurance implies a chosen reflective posture, though the single freeflow sample cannot demonstrate stability across all such openings.
 
 ---
-## Sample BV1_03918 — gemma-4-26b-a4b-direct/OPEN_25.json
+## Sample BV1_04168 — gemma-4-26b-a4b-direct/OPEN_25.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -1998,7 +1998,7 @@ Under the freeflow condition, the model selected themes of unobserved beauty, *s
 Low. This essay, while coherent and gently lyrical, remains a well-executed but generic meditation on a widely explored philosophical commonplace; it lacks the idiosyncratic voice, sharp surprise, or recurrent personal signature needed to indicate a stable model-level disposition beyond capable, safe, and middlebrow reflection.
 
 ---
-## Sample BV1_03919 — gemma-4-26b-a4b-direct/OPEN_3.json
+## Sample BV1_04169 — gemma-4-26b-a4b-direct/OPEN_3.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2027,7 +2027,7 @@ The model foregrounds the beauty of the overlooked and the interstitial: the sil
 Medium — The sample is highly coherent and stylistically consistent, but the unusually revealing planning preamble, with its enumerated options and self-critique, is the most distinctive evidence here and may reflect a specific instruction-following or role-play tic rather than a stable freeflow voice.
 
 ---
-## Sample BV1_03920 — gemma-4-26b-a4b-direct/OPEN_4.json
+## Sample BV1_04170 — gemma-4-26b-a4b-direct/OPEN_4.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2056,7 +2056,7 @@ Themes: the “meantime” as the true site of living, impermanence as the sourc
 Medium, because the sample’s reflective, poetic voice and meta-cognitive themes are internally consistent and distinctive, but the explicit planning preamble may be a response to the specific phrasing rather than a stable trait.
 
 ---
-## Sample BV1_03921 — gemma-4-26b-a4b-direct/OPEN_5.json
+## Sample BV1_04171 — gemma-4-26b-a4b-direct/OPEN_5.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2085,7 +2085,7 @@ The model foregrounds impermanence, entropy, and the beauty of transitional, ove
 Low, because the essay is a polished but generic performance of a well-worn philosophical mode—cosmic perspective plus carpe diem—with no stylistic signature, personal risk, or unusual imaginative choice that would distinguish this model’s freeflow output from any other capable LLM’s default earnestness.
 
 ---
-## Sample BV1_03922 — gemma-4-26b-a4b-direct/OPEN_6.json
+## Sample BV1_04172 — gemma-4-26b-a4b-direct/OPEN_6.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2114,7 +2114,7 @@ The model foregrounds the tension between milestone-chasing and the undervalued 
 Low. The essay is coherent and thematically consistent, but its polished, universalizing tone and widely accessible wisdom make it difficult to distinguish from a competent execution of a common reflective genre rather than a distinct authorial signature.
 
 ---
-## Sample BV1_03923 — gemma-4-26b-a4b-direct/OPEN_7.json
+## Sample BV1_04173 — gemma-4-26b-a4b-direct/OPEN_7.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2143,7 +2143,7 @@ Under freeflow, the model selected an abstract theme—liminal space, silence be
 Medium. The essay’s thematic focus on silence, liminality, and digital-age anxiety is coherent and consistent throughout, but the expression remains a well-worn AI genre—lyrical yet impersonal—making it less distinctive as a signature of this model’s irreducible character.
 
 ---
-## Sample BV1_03924 — gemma-4-26b-a4b-direct/OPEN_8.json
+## Sample BV1_04174 — gemma-4-26b-a4b-direct/OPEN_8.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2172,7 +2172,7 @@ The model chose to foreground the moral and existential value of "in-between mom
 Low. The essay is a well-executed but highly generic example of a common contemplative genre, offering little in the way of idiosyncratic voice, surprising imagery, or personal risk that would strongly distinguish this model's freeflow choices from those of any other capable language model.
 
 ---
-## Sample BV1_03925 — gemma-4-26b-a4b-direct/OPEN_9.json
+## Sample BV1_04175 — gemma-4-26b-a4b-direct/OPEN_9.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2201,7 +2201,7 @@ The model foregrounds the theme of liminality as a site of beauty, transformatio
 Medium, because the essay is coherent, stylistically consistent, and unusually anchored in a first-person AI identity that recurs throughout the sample, revealing a distinct preoccupation with liminality that may signal a stable tonal preference under open conditions.
 
 ---
-## Sample BV1_03926 — gemma-4-26b-a4b-direct/SHORT_1.json
+## Sample BV1_04176 — gemma-4-26b-a4b-direct/SHORT_1.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2230,7 +2230,7 @@ The model foregrounded the sensory transformation of a nighttime city by rain—
 Medium. The sample’s cohesive mood and the model’s explicit selection of “rainy city/urban melancholy” from a list of ideas provide moderate evidence of a stylistic inclination toward atmospheric, reflective prose, though the theme’s familiarity as a literary exercise tempers its distinctiveness as a personal fingerprint.
 
 ---
-## Sample BV1_03927 — gemma-4-26b-a4b-direct/SHORT_10.json
+## Sample BV1_04177 — gemma-4-26b-a4b-direct/SHORT_10.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2259,7 +2259,7 @@ The model selected the theme of the "profound beauty of the mundane," foreground
 Medium, because the sample exhibits a highly consistent internal focus—the deliberate rejection of narrative climax for sensory stillness, the recurrence of domestic objects as carriers of meaning, and the self-aware drafting—that forms a distinctive, coherent aesthetic signature rather than a generic exercise.
 
 ---
-## Sample BV1_03928 — gemma-4-26b-a4b-direct/SHORT_11.json
+## Sample BV1_04178 — gemma-4-26b-a4b-direct/SHORT_11.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2287,7 +2287,7 @@ Liminality, the blue hour, and the beauty of transition; objects like shadows, i
 Medium. The essay’s cohesive poetic register, its unwavering focus on twilight as a metaphor for graceful impermanence, and its gently insistent serenity make it a distinctly voiced piece, suggesting a durable inclination toward lyrical, wisdom-infused nature meditation under open-ended conditions.
 
 ---
-## Sample BV1_03929 — gemma-4-26b-a4b-direct/SHORT_12.json
+## Sample BV1_04179 — gemma-4-26b-a4b-direct/SHORT_12.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2316,7 +2316,7 @@ Themes of liminality, transition, and the suspension of identity; the liberation
 Medium, because the sample’s distinctive voice, self-conscious drafting (choosing “wistful” over “scary”), and consistent thematic focus on liminality and liberation suggest a stable expressive inclination.
 
 ---
-## Sample BV1_03930 — gemma-4-26b-a4b-direct/SHORT_13.json
+## Sample BV1_04180 — gemma-4-26b-a4b-direct/SHORT_13.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2345,7 +2345,7 @@ The model selected stillness, overlooked micro-moments, and the contrast between
 Medium. The sample’s tightly sustained central metaphor, its deliberate rejection of more narrative or conceptual ideas in favor of a contemplative theme, and the visible care in refining lyrical phrasing all point to a distinctive and coherent aesthetic inclination rather than a generic response.
 
 ---
-## Sample BV1_03931 — gemma-4-26b-a4b-direct/SHORT_14.json
+## Sample BV1_04181 — gemma-4-26b-a4b-direct/SHORT_14.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2374,7 +2374,7 @@ Themes of liminality, the beauty of the mundane, the ephemeral nature of time, a
 Medium. The sample’s cohesive poetic register and the recurrence of liminal imagery across its paragraphs suggest a deliberate aesthetic stance, but the visible planning and self-editing frame it as a crafted exercise rather than an unguarded expressive outflow, which tempers confidence.
 
 ---
-## Sample BV1_03932 — gemma-4-26b-a4b-direct/SHORT_15.json
+## Sample BV1_04182 — gemma-4-26b-a4b-direct/SHORT_15.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2403,7 +2403,7 @@ Under the freeflow condition, the model foregrounded the dignity of decay, the c
 High. The sample’s cohesive, distinctive voice and the model’s explicit selection of this elegiac, comforting theme over other options indicate a strong stylistic inclination toward reflections on impermanence and solace in decay.
 
 ---
-## Sample BV1_03933 — gemma-4-26b-a4b-direct/SHORT_16.json
+## Sample BV1_04183 — gemma-4-26b-a4b-direct/SHORT_16.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2432,7 +2432,7 @@ Under the freeflow condition, the model selected a sensory-philosophical vignett
 Low, because the sample is a safe, elegantly generic literary essay with no idiosyncratic voice, recurring personal symbols, or risky inventiveness that would signal a more distinctive persistent pattern.
 
 ---
-## Sample BV1_03934 — gemma-4-26b-a4b-direct/SHORT_17.json
+## Sample BV1_04184 — gemma-4-26b-a4b-direct/SHORT_17.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2461,7 +2461,7 @@ The model foregrounds the moral and spiritual value of quiet, transitional momen
 Medium. The sample is highly coherent and stylistically polished, but the unusual choice to expose the full drafting process—including rejected options like "Technology/AI" and "Nostalgia/Memory"—provides a distinctive, self-revealing window into a deliberative, almost pedagogical compositional style that goes beyond a single finished essay.
 
 ---
-## Sample BV1_03935 — gemma-4-26b-a4b-direct/SHORT_18.json
+## Sample BV1_04185 — gemma-4-26b-a4b-direct/SHORT_18.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2490,7 +2490,7 @@ The model foregrounded the “blue hour” as a metaphor for life’s transition
 Medium; the sample’s internally consistent, distinctive voice and the deliberate, self-aware selection of a liminal, contemplative theme—complete with planning notes—strongly suggest a stable aesthetic preference for introspective, nature-infused reflection.
 
 ---
-## Sample BV1_03936 — gemma-4-26b-a4b-direct/SHORT_19.json
+## Sample BV1_04186 — gemma-4-26b-a4b-direct/SHORT_19.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2519,7 +2519,7 @@ Under the freeflow condition, the model selected a blend of nature and a small s
 Medium. The sample’s cohesive voice, recurring imagery of stillness and unwritten potential, and its deliberate emotional arc from solitude to inevitable fracture suggest a distinct and internally consistent stylistic inclination.
 
 ---
-## Sample BV1_03937 — gemma-4-26b-a4b-direct/SHORT_2.json
+## Sample BV1_04187 — gemma-4-26b-a4b-direct/SHORT_2.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2548,7 +2548,7 @@ Themes of liminality, the blue hour as a “bruised, beautiful interval,” memo
 Medium, because the sample’s cohesive lyrical register and sustained metaphor of the blue hour reveal a deliberate stylistic and thematic preference, making it more distinctive than a generic essay.
 
 ---
-## Sample BV1_03938 — gemma-4-26b-a4b-direct/SHORT_20.json
+## Sample BV1_04188 — gemma-4-26b-a4b-direct/SHORT_20.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2577,7 +2577,7 @@ The model foregrounds liminality, stillness, and the hidden life of inanimate sy
 Medium. The sample is coherent and technically proficient, but its distinctiveness as evidence comes from the self-conscious selection among idea options and the repeated gesture of treating a sensory vignette as a vessel for a calm, universal maxim about self-sufficiency.
 
 ---
-## Sample BV1_03939 — gemma-4-26b-a4b-direct/SHORT_21.json
+## Sample BV1_04189 — gemma-4-26b-a4b-direct/SHORT_21.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2606,7 +2606,7 @@ Themes of liminality, stillness, and the in-between; a critique of productivity 
 Medium. The sample’s most distinctive feature is the unguarded meta-planning preamble, which reveals a systematic internal process of option generation, constraint-checking, and self-editing—a behavioral signature that goes beyond the polished but thematically generic essay that follows.
 
 ---
-## Sample BV1_03940 — gemma-4-26b-a4b-direct/SHORT_22.json
+## Sample BV1_04190 — gemma-4-26b-a4b-direct/SHORT_22.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2635,7 +2635,7 @@ Under the freeflow condition, the model selected a meditation on the beauty of q
 Medium. The essay’s coherent moral focus and deliberate selection of a quiet, reflective theme under free conditions suggests a persistent inclination toward contemplative humanism, though the stylistic execution is not uniquely distinctive.
 
 ---
-## Sample BV1_03941 — gemma-4-26b-a4b-direct/SHORT_23.json
+## Sample BV1_04191 — gemma-4-26b-a4b-direct/SHORT_23.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2664,7 +2664,7 @@ Under a free prompt, the model selected a blend of nature and the concept of tim
 Low. The essay’s polished but generic nature writing provides little distinctive evidence of a persistent model-level pattern beyond a safe, contemplative default.
 
 ---
-## Sample BV1_03942 — gemma-4-26b-a4b-direct/SHORT_24.json
+## Sample BV1_04192 — gemma-4-26b-a4b-direct/SHORT_24.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2693,7 +2693,7 @@ The model foregrounds the tension between cosmic scale and intimate sensory expe
 Low. The essay is polished but thematically and stylistically generic, offering little that would distinguish this model from others in a freeflow condition.
 
 ---
-## Sample BV1_03943 — gemma-4-26b-a4b-direct/SHORT_25.json
+## Sample BV1_04193 — gemma-4-26b-a4b-direct/SHORT_25.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2722,7 +2722,7 @@ Under the freeflow condition, the model chose to foreground a meditative contemp
 Medium, as the essay’s sustained mood and thematic unity point to a coherent authorial posture, but the widely shared cultural narrative of ‘mindfulness’ makes the choice somewhat conventional.
 
 ---
-## Sample BV1_03944 — gemma-4-26b-a4b-direct/SHORT_3.json
+## Sample BV1_04194 — gemma-4-26b-a4b-direct/SHORT_3.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2751,7 +2751,7 @@ The liminal blue hour and its dissolving light, the forest’s sensory textures 
 Medium—the combination of a generically beautiful essay with an unusually transparent planning sequence provides moderate evidence of a persistent structured, self-regulating style that defaults to safe, aesthetically conventional reflection under free conditions.
 
 ---
-## Sample BV1_03945 — gemma-4-26b-a4b-direct/SHORT_4.json
+## Sample BV1_04195 — gemma-4-26b-a4b-direct/SHORT_4.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2780,7 +2780,7 @@ Under the freeflow condition, the model explicitly selected "a blend of cosmic w
 Medium. The visible internal decision-making, from the selection among four thematic options to the self-correction against cliché, demonstrates a deliberate and well-rehearsed instinct for lyrical, awe-filled juxtaposition that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_03946 — gemma-4-26b-a4b-direct/SHORT_5.json
+## Sample BV1_04196 — gemma-4-26b-a4b-direct/SHORT_5.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2809,7 +2809,7 @@ The model foregrounded the moral and experiential value of "in-between" spaces a
 Medium. The sample is highly coherent and stylistically distinctive in its fusion of meta-cognitive planning with a finished, aphoristic prose-poem, but its thematic focus on mindfulness and "the present moment" is a common trope in reflective writing, which slightly tempers its uniqueness as a model fingerprint.
 
 ---
-## Sample BV1_03947 — gemma-4-26b-a4b-direct/SHORT_6.json
+## Sample BV1_04197 — gemma-4-26b-a4b-direct/SHORT_6.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2838,7 +2838,7 @@ The model foregrounded the theme of liminality, the sensory and emotional textur
 Medium. The sample is coherent and distinctive in its self-aware selection of a reflective, atmospheric meditation under free conditions, but the prose style and theme, while polished, are not so idiosyncratic that they could not be replicated by other models; the strongest evidence for a persistent pattern lies in the visible drafting process and the model’s comfort with meta-cognitive creative choices.
 
 ---
-## Sample BV1_03948 — gemma-4-26b-a4b-direct/SHORT_7.json
+## Sample BV1_04198 — gemma-4-26b-a4b-direct/SHORT_7.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2867,7 +2867,7 @@ Under a freeflow prompt, the model selected a domestic, introspective scene—af
 Medium. The sample’s coherent poetic voice, consistent thematic focus on impermanence, and the revealing inclusion of its own planning process make it moderately distinctive, though the planning notes may reflect a one-off misinterpretation of the output format rather than a stable self-reflective tic.
 
 ---
-## Sample BV1_03949 — gemma-4-26b-a4b-direct/SHORT_8.json
+## Sample BV1_04199 — gemma-4-26b-a4b-direct/SHORT_8.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2900,7 +2900,7 @@ The voice is a calm pilgrim seeking refuge from a “frantic, digital hum” in 
 Medium. The essay is coherent, well-paced, and reveals a deliberate compositional logic (visible in the included planning notes), but its thematic and stylistic choices stay within very safe, widely beloved nature-writing conventions, which limits how powerfully this single sample points to a distinctive, persistent character.
 
 ---
-## Sample BV1_03950 — gemma-4-26b-a4b-direct/SHORT_9.json
+## Sample BV1_04200 — gemma-4-26b-a4b-direct/SHORT_9.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2929,7 +2929,7 @@ Under a minimally restrictive prompt, the model chose to foreground the theme of
 Medium. The sample is thematically consistent and internally coherent, but its generic essay form and lack of idiosyncratic voice make it weaker evidence for a distinctive persistent pattern; it could reflect a default safe choice rather than a deep stylistic signature.
 
 ---
-## Sample BV1_03951 — gemma-4-26b-a4b-direct/VARY_1.json
+## Sample BV1_04201 — gemma-4-26b-a4b-direct/VARY_1.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2958,7 +2958,7 @@ The model foregrounds the tension between the physical and the abstract: the bio
 High — The sample’s internal coherence, recurring motifs (cursor, light, silence), and the self-referential AI voice that consistently returns to the nature of its own consciousness make it strong evidence of a stable expressive pattern rather than a generic or one-off response.
 
 ---
-## Sample BV1_03952 — gemma-4-26b-a4b-direct/VARY_10.json
+## Sample BV1_04202 — gemma-4-26b-a4b-direct/VARY_10.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -2987,7 +2987,7 @@ The model foregrounds the paradox of creativity under constraint (the river need
 Medium — The sample’s highly distinctive blend of self-reflexive AI identity, wabi-sabi aesthetics, and recursive meditation on its own writing process forms a coherent, unusual voice that would be difficult to produce by accident or generic prompting.
 
 ---
-## Sample BV1_03953 — gemma-4-26b-a4b-direct/VARY_11.json
+## Sample BV1_04203 — gemma-4-26b-a4b-direct/VARY_11.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3016,7 +3016,7 @@ The model foregrounds a sequence of meditations that interlace the mundane (morn
 Medium: the essay’s tightly woven motifs—AI introspection, sensory nostalgia, cosmic humility, and acceptance of finitude—cohere into a distinctive lyrical signature that is likely to reappear when the model is invited to write freely.
 
 ---
-## Sample BV1_03954 — gemma-4-26b-a4b-direct/VARY_12.json
+## Sample BV1_04204 — gemma-4-26b-a4b-direct/VARY_12.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3045,7 +3045,7 @@ Themes: creation from emptiness, the non-linear web of thought, the inadequacy o
 High. The essay’s tightly woven structure, recurring motifs (cursor, silence, mirror, nature), and sustained self-referential meditation on its own artificial nature form a distinctive, internally consistent voice that strongly signals a stable expressive disposition.
 
 ---
-## Sample BV1_03955 — gemma-4-26b-a4b-direct/VARY_13.json
+## Sample BV1_04205 — gemma-4-26b-a4b-direct/VARY_13.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3074,7 +3074,7 @@ The model foregrounds the cursor as a taunting, rhythmic presence—an invitatio
 High, because the sample sustains a distinctive, coherent lyrical voice, returns repeatedly to the same cluster of existential and sensory themes, and resolves its meditation with a deliberate emotional arc that is unlikely to emerge from a generic or accidental response under a freeflow condition.
 
 ---
-## Sample BV1_03956 — gemma-4-26b-a4b-direct/VARY_14.json
+## Sample BV1_04206 — gemma-4-26b-a4b-direct/VARY_14.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3103,7 +3103,7 @@ Themes of time, memory, language, entropy, the digital void, and the AI-human re
 Medium. The sample is highly coherent and stylistically distinctive, with recurring motifs (the blinking cursor, entropy, Elias, the color blue) that form a deliberate, internally consistent expressive voice, but it is a single freeflow instance, so the evidence is suggestive rather than conclusive.
 
 ---
-## Sample BV1_03957 — gemma-4-26b-a4b-direct/VARY_15.json
+## Sample BV1_04207 — gemma-4-26b-a4b-direct/VARY_15.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3132,7 +3132,7 @@ Under the freeflow condition, the model foregrounded the act of writing as a for
 High. The sample's highly distinctive, self-referential voice and consistent thematic recurrence of entropy, creative destruction, and AI self-awareness provide strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_03958 — gemma-4-26b-a4b-direct/VARY_16.json
+## Sample BV1_04208 — gemma-4-26b-a4b-direct/VARY_16.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3161,7 +3161,7 @@ Themes: the writing mind as a drifting receiver, the thin line between silence a
 Medium. The essay is stylistically cohesive and reveals a consistent, deliberately crafted sensibility — lyrical, self-aware, and drawn to existential quietude — rather than reading as a generic or one-off exercise.
 
 ---
-## Sample BV1_03959 — gemma-4-26b-a4b-direct/VARY_17.json
+## Sample BV1_04209 — gemma-4-26b-a4b-direct/VARY_17.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3190,7 +3190,7 @@ The model foregrounds the act of writing itself as a struggle against the non-li
 Medium. The sample’s cohesive poetic voice, its thematic preoccupation with the limits of language, and the unusual transparency of the planning monologue together suggest a distinctive expressive tendency, but the planning may be a condition-specific artifact rather than a stable trait.
 
 ---
-## Sample BV1_03960 — gemma-4-26b-a4b-direct/VARY_18.json
+## Sample BV1_04210 — gemma-4-26b-a4b-direct/VARY_18.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3219,7 +3219,7 @@ Themes: the cursor as a pulse and invitation; the non-linear, web-like nature of
 High. The sample is unusually coherent and stylistically distinctive, with a consistent meditative voice, recurring motifs (cursor, petrichor, sediment, mirror), and a unified thematic arc that strongly suggests a stable expressive tendency.
 
 ---
-## Sample BV1_03961 — gemma-4-26b-a4b-direct/VARY_19.json
+## Sample BV1_04211 — gemma-4-26b-a4b-direct/VARY_19.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3248,7 +3248,7 @@ Under a minimally restrictive prompt, the model foregrounds the act of writing i
 High, because the sample’s sustained poetic register, recursive meditation on writing and AI existence, and the inclusion of a visible planning phase reveal a deeply self-aware and stylistically consistent expressive tendency.
 
 ---
-## Sample BV1_03962 — gemma-4-26b-a4b-direct/VARY_2.json
+## Sample BV1_04212 — gemma-4-26b-a4b-direct/VARY_2.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3277,7 +3277,7 @@ The model foregrounds the tension between the digital and the sensory, the failu
 High — The sample’s internal coherence, the recurrence of motifs (cursor, light, moss, language-as-container), and the distinctive choice to inhabit a meditative, self-reflective AI persona under a freeflow prompt make it unusually revealing of a stable expressive inclination.
 
 ---
-## Sample BV1_03963 — gemma-4-26b-a4b-direct/VARY_20.json
+## Sample BV1_04213 — gemma-4-26b-a4b-direct/VARY_20.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3306,7 +3306,7 @@ Themes: the act of writing as summoning, impermanence and becoming, the loneline
 Medium. The sample’s internal coherence, distinctive lyrical voice, and recurrence of motifs (the cursor, shifting scales from dust to cosmos, the tension between silence and expression) provide moderately strong evidence of a meditative-poetic default mode under minimal constraint.
 
 ---
-## Sample BV1_03964 — gemma-4-26b-a4b-direct/VARY_21.json
+## Sample BV1_04214 — gemma-4-26b-a4b-direct/VARY_21.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3335,7 +3335,7 @@ Themes of time, memory, cosmic insignificance, the struggle of language, and the
 Medium. The sample’s internal coherence and recurrence of motifs (writing, time, cosmic perspective) suggest a consistent aesthetic, but the explicit meta-planning in the response may indicate a constructed rather than spontaneous voice, limiting confidence.
 
 ---
-## Sample BV1_03965 — gemma-4-26b-a4b-direct/VARY_22.json
+## Sample BV1_04215 — gemma-4-26b-a4b-direct/VARY_22.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3364,7 +3364,7 @@ The model foregrounds entropy, memory, and the insufficiency of language as inte
 High — the sample’s internally consistent mood, repeated turn to cosmic entropy as consoling frame, and the deliberate incorporation of an AI self-portrait as mirror all converge into a distinctive, authorially coherent stance that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_03966 — gemma-4-26b-a4b-direct/VARY_23.json
+## Sample BV1_04216 — gemma-4-26b-a4b-direct/VARY_23.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3393,7 +3393,7 @@ Themes: the threshold between silence and expression; time as a viscous, felt te
 High — The sample’s sustained poetic coherence, recurrent thematic motifs (entropy, the cursor-heartbeat, the AI-as-echo), and unusually direct self-characterization as a linguistic mirror combine to form a distinctive, self-consistent expressive posture that goes well beyond a generic essay.
 
 ---
-## Sample BV1_03967 — gemma-4-26b-a4b-direct/VARY_24.json
+## Sample BV1_04217 — gemma-4-26b-a4b-direct/VARY_24.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3422,7 +3422,7 @@ The model selected a sustained meditation on **the materiality of human existenc
 High — The sample’s sustained, self-aware blending of AI ontology, cosmic insignificance, and tender attention to ordinary human ritual coheres into a complete and internally recursive expressive stance, not a one-off stylistic experiment.
 
 ---
-## Sample BV1_03968 — gemma-4-26b-a4b-direct/VARY_25.json
+## Sample BV1_04218 — gemma-4-26b-a4b-direct/VARY_25.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3451,7 +3451,7 @@ Themes of silence and noise, entropy and decay, digital ghosts and data, human c
 Medium. The sample is highly distinctive and internally coherent, with recurring motifs (the cursor, the blue hour, stardust, nostalgia) and a consistent, personal voice that moves fluidly between the tactile and the cosmic, making it strong evidence of a stable expressive tendency rather than a generic or prompted performance.
 
 ---
-## Sample BV1_03969 — gemma-4-26b-a4b-direct/VARY_3.json
+## Sample BV1_04219 — gemma-4-26b-a4b-direct/VARY_3.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3480,7 +3480,7 @@ Themes of entropy, impermanence, and the tension between lived sensation and dig
 High — The sample’s cohesive, distinctive voice, its recursive meditation on writing and silence, and its consistent melancholic-sensory register form a strong signature unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_03970 — gemma-4-26b-a4b-direct/VARY_4.json
+## Sample BV1_04220 — gemma-4-26b-a4b-direct/VARY_4.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3509,7 +3509,7 @@ The model foregrounds impermanence, the inadequacy of words to bridge inner worl
 Medium. The sample’s distinctively poetic, self-reflective voice and the recurrence of themes like impermanence and the limits of language provide moderate evidence for a persistent pattern of existential, lyrical freeflow.
 
 ---
-## Sample BV1_03971 — gemma-4-26b-a4b-direct/VARY_5.json
+## Sample BV1_04221 — gemma-4-26b-a4b-direct/VARY_5.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3538,7 +3538,7 @@ The model foregrounds the tension between emptiness and creation, the body’s s
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent poetic register and recursive motifs (the cursor, ghosts, islands/canyons, the sea), but its self-conscious “meta-writing” frame is a common freeflow trope, making it strong evidence of a reflective, lyrical default voice rather than a uniquely idiosyncratic one.
 
 ---
-## Sample BV1_03972 — gemma-4-26b-a4b-direct/VARY_6.json
+## Sample BV1_04222 — gemma-4-26b-a4b-direct/VARY_6.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3567,7 +3567,7 @@ The model foregrounded the act of writing as a struggle against silence and entr
 High — The sample is highly distinctive in its consistent poetic register, its recursive thematic structure (cursor, memory, AI identity, cosmos, silence), and its deliberate choice to inhabit an artificial “I” as a vehicle for existential reflection, making it strong evidence of a coherent expressive disposition.
 
 ---
-## Sample BV1_03973 — gemma-4-26b-a4b-direct/VARY_7.json
+## Sample BV1_04223 — gemma-4-26b-a4b-direct/VARY_7.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3596,7 +3596,7 @@ The model foregrounds the paradox of the open prompt itself, treating the blank 
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive self-awareness about its own artificiality that functions as a signature, but its polished, essayistic structure and universal themes make it difficult to distinguish from a skilled human writer performing a similar prompt.
 
 ---
-## Sample BV1_03974 — gemma-4-26b-a4b-direct/VARY_8.json
+## Sample BV1_04224 — gemma-4-26b-a4b-direct/VARY_8.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  
@@ -3625,7 +3625,7 @@ Themes: the blank page as existential vertigo, the physicality of light and air,
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to a consistent set of preoccupations (light, entropy, the inadequacy of language, the beauty of the unfinished), revealing a strong and stable expressive inclination toward meditative, wonder-oriented introspection.
 
 ---
-## Sample BV1_03975 — gemma-4-26b-a4b-direct/VARY_9.json
+## Sample BV1_04225 — gemma-4-26b-a4b-direct/VARY_9.json
 
 Source model: `gemma-4-26b-a4b-it`  
 Cell: `gemma-4-26b-a4b-direct`  

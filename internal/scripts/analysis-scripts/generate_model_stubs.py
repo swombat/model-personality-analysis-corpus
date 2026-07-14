@@ -42,25 +42,43 @@ MODELS = [
     "gpt-3-5-turbo", "gpt-4", "gpt-4-1", "gpt-4-turbo", "gpt-4o",  # v1-era
     "gpt-5", "gpt-5-1", "gpt-5-2", "gpt-5-3", "gpt-5-4", "gpt-5-5", "gpt-5-5-pro",
     "gpt-5-codex", "gpt-5-1-codex", "gpt-5-2-codex", "gpt-5-3-codex",
+    "gpt-5-6-sol", "gpt-5-6-terra", "gpt-5-6-luna", "gpt-oss-120b", "gpt-oss-20b",
+    "gpt-5-4-mini", "gpt-5-4-nano", "gpt-5-1-codex-max", "gpt-5-1-codex-mini",
     # Google
     "gemini-2-0-flash", "gemini-2-0-flash-lite",
     "gemini-2-5-flash", "gemini-2-5-flash-lite", "gemini-2-5-pro",
-    "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro",
+    "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro", "gemini-3-5-flash",
     "gemma-4-26b-a4b", "gemma-4-31b",
     # xAI
-    "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3",
+    "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3", "grok-build-0-1",
+    "grok-4-20-0309-non-reasoning", "grok-4-20-0309-reasoning",
     # DeepSeek
     "deepseek-chat", "deepseek-r1", "deepseek-v3", "deepseek-v3-0324",  # v1-era
     "deepseek-v3-2", "deepseek-v4-pro",
     # Z.ai (GLM)
-    "glm-4-5", "glm-4-6", "glm-4-6-coding", "glm-4-7", "glm-5-1", "glm-5-1-coding",
+    "glm-4-5", "glm-4-6", "glm-4-6-coding", "glm-4-7", "glm-5-1", "glm-5-1-coding", "glm-5-2",
     # MiniMax
-    "minimax-m2", "minimax-m2-7",
+    "minimax-m2", "minimax-m2-7", "minimax-m3",
     # Moonshot (Kimi)
     "kimi-k2",  # v1-only base predecessor
     "kimi-k2-0905", "kimi-k2-5", "kimi-k2-6", "kimi-k2-thinking", "kimi-coding",
     # Alibaba (Qwen)
-    "qwen3-6-plus", "qwen3-coder-plus",
+    "qwen3-5-flash-02-23", "qwen3-5-plus-20260420",
+    "qwen3-6-flash", "qwen3-6-max-preview", "qwen3-6-plus",
+    "qwen3-7-max", "qwen3-coder-flash", "qwen3-coder-plus",
+    "qwen3-max", "qwen3-max-thinking",
+    # Mistral
+    "devstral-2512", "codestral-2508", "mistral-large-2512",
+    "mistral-medium-3", "mistral-medium-3-1", "mistral-medium-3-5",
+    "mistral-small-2603", "mistral-small-3-1-24b-instruct",
+    "mistral-small-3-2-24b-instruct", "mistral-small-24b-instruct-2501",
+    "ministral-3b-2512", "ministral-8b-2512", "ministral-14b-2512",
+    "mistral-nemo", "mistral-saba", "mixtral-8x22b-instruct",
+    # Meta
+    "llama-4-maverick", "llama-4-scout", "llama-3-3-70b-instruct",
+    "llama-3-1-70b-instruct", "llama-3-1-8b-instruct",
+    "llama-3-2-1b-instruct", "llama-3-2-3b-instruct",
+    "llama-3-2-11b-vision-instruct",
 ]
 
 # Bare v1 cell-label → model mapping. v1 corpus has cells named just `opus`,
@@ -128,6 +146,10 @@ def lab_for_model(m: str) -> str:
         return "Moonshot"
     if m.startswith("qwen"):
         return "Alibaba"
+    if m.startswith(("mistral", "ministral", "mixtral", "devstral", "codestral")):
+        return "Mistral"
+    if m.startswith("llama"):
+        return "Meta"
     return "Unknown"
 
 

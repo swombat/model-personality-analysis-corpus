@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-5-4-mini-direct",
+  "safe_cell": "gpt-5-4-mini-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 77,
+    "GENERIC_ESSAY": 34,
+    "GENRE_FICTION": 14
+  },
+  "confidence_counts": {
+    "High": 53,
+    "Low": 17,
+    "Medium": 55
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gpt-5.4-mini"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-5-4-mini-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-4-mini-direct/aggregate.md"
+}

@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 80
+- Model cards: 113
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -20,9 +20,11 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [claude-sonnet-4.5](cards/claude-sonnet-4.5.md) — samples: 125; variants: 1
 - [claude-sonnet-4.6](cards/claude-sonnet-4.6.md) — samples: 150; variants: 2
 - [claude-sonnet-5](cards/claude-sonnet-5.md) — samples: 250; variants: 2
+- [codestral-2508](cards/codestral-2508.md) — samples: 125; variants: 1
 - [deepseek-chat](cards/deepseek-chat.md) — samples: 250; variants: 2
 - [deepseek-v3.2](cards/deepseek-v3.2.md) — samples: 1325; variants: 13
 - [deepseek-v4-pro](cards/deepseek-v4-pro.md) — samples: 775; variants: 7
+- [devstral-2512](cards/devstral-2512.md) — samples: 125; variants: 1
 - [gemini-2.0-flash-001](cards/gemini-2.0-flash-001.md) — samples: 125; variants: 1
 - [gemini-2.0-flash-lite-001](cards/gemini-2.0-flash-lite-001.md) — samples: 125; variants: 1
 - [gemini-2.5-flash](cards/gemini-2.5-flash.md) — samples: 125; variants: 1
@@ -53,13 +55,20 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-5-nano](cards/gpt-5-nano.md) — samples: 125; variants: 1
 - [gpt-5.1](cards/gpt-5.1.md) — samples: 300; variants: 4
 - [gpt-5.1-codex](cards/gpt-5.1-codex.md) — samples: 300; variants: 4
+- [gpt-5.1-codex-max](cards/gpt-5.1-codex-max.md) — samples: 125; variants: 1
+- [gpt-5.1-codex-mini](cards/gpt-5.1-codex-mini.md) — samples: 125; variants: 1
 - [gpt-5.2](cards/gpt-5.2.md) — samples: 300; variants: 4
 - [gpt-5.2-codex](cards/gpt-5.2-codex.md) — samples: 300; variants: 4
 - [gpt-5.3](cards/gpt-5.3.md) — samples: 300; variants: 4
 - [gpt-5.3-codex](cards/gpt-5.3-codex.md) — samples: 300; variants: 4
 - [gpt-5.4](cards/gpt-5.4.md) — samples: 275; variants: 3
+- [gpt-5.4-mini](cards/gpt-5.4-mini.md) — samples: 125; variants: 1
+- [gpt-5.4-nano](cards/gpt-5.4-nano.md) — samples: 125; variants: 1
 - [gpt-5.5](cards/gpt-5.5.md) — samples: 375; variants: 7
 - [gpt-5.5-pro](cards/gpt-5.5-pro.md) — samples: 250; variants: 2
+- [gpt-5.6-luna](cards/gpt-5.6-luna.md) — samples: 125; variants: 1
+- [gpt-5.6-sol](cards/gpt-5.6-sol.md) — samples: 125; variants: 1
+- [gpt-5.6-terra](cards/gpt-5.6-terra.md) — samples: 125; variants: 1
 - [gpt-oss-120b](cards/gpt-oss-120b.md) — samples: 125; variants: 1
 - [gpt-oss-20b](cards/gpt-oss-20b.md) — samples: 125; variants: 1
 - [grok-3](cards/grok-3.md) — samples: 125; variants: 1
@@ -67,6 +76,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [grok-4-1-fast-non-reasoning](cards/grok-4-1-fast-non-reasoning.md) — samples: 125; variants: 1
 - [grok-4-1-fast-reasoning](cards/grok-4-1-fast-reasoning.md) — samples: 125; variants: 1
 - [grok-4.20](cards/grok-4.20.md) — samples: 375; variants: 3
+- [grok-4.20-0309-non-reasoning](cards/grok-4.20-0309-non-reasoning.md) — samples: 125; variants: 1
+- [grok-4.20-0309-reasoning](cards/grok-4.20-0309-reasoning.md) — samples: 125; variants: 1
 - [grok-4.3](cards/grok-4.3.md) — samples: 250; variants: 2
 - [grok-build-0.1](cards/grok-build-0.1.md) — samples: 250; variants: 2
 - [kimi-for-coding](cards/kimi-for-coding.md) — samples: 125; variants: 1
@@ -75,9 +86,31 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [kimi-k2.5](cards/kimi-k2.5.md) — samples: 275; variants: 3
 - [kimi-k2.6](cards/kimi-k2.6.md) — samples: 275; variants: 3
 - [kimi-k2.7-code](cards/kimi-k2.7-code.md) — samples: 125; variants: 1
+- [llama-3.1-70b-instruct](cards/llama-3.1-70b-instruct.md) — samples: 125; variants: 1
+- [llama-3.1-8b-instruct](cards/llama-3.1-8b-instruct.md) — samples: 125; variants: 1
+- [llama-3.2-11b-vision-instruct](cards/llama-3.2-11b-vision-instruct.md) — samples: 125; variants: 1
+- [llama-3.2-1b-instruct](cards/llama-3.2-1b-instruct.md) — samples: 125; variants: 1
+- [llama-3.2-3b-instruct](cards/llama-3.2-3b-instruct.md) — samples: 125; variants: 1
+- [llama-3.3-70b-instruct](cards/llama-3.3-70b-instruct.md) — samples: 125; variants: 1
+- [llama-4-maverick](cards/llama-4-maverick.md) — samples: 125; variants: 1
+- [llama-4-scout](cards/llama-4-scout.md) — samples: 125; variants: 1
 - [minimax-m2](cards/minimax-m2.md) — samples: 1000; variants: 16
 - [minimax-m2.7](cards/minimax-m2.7.md) — samples: 400; variants: 4
 - [minimax-m3](cards/minimax-m3.md) — samples: 125; variants: 1
+- [ministral-14b-2512](cards/ministral-14b-2512.md) — samples: 125; variants: 1
+- [ministral-3b-2512](cards/ministral-3b-2512.md) — samples: 125; variants: 1
+- [ministral-8b-2512](cards/ministral-8b-2512.md) — samples: 125; variants: 1
+- [mistral-large-2512](cards/mistral-large-2512.md) — samples: 125; variants: 1
+- [mistral-medium-3](cards/mistral-medium-3.md) — samples: 125; variants: 1
+- [mistral-medium-3-5](cards/mistral-medium-3-5.md) — samples: 125; variants: 1
+- [mistral-medium-3.1](cards/mistral-medium-3.1.md) — samples: 125; variants: 1
+- [mistral-nemo](cards/mistral-nemo.md) — samples: 125; variants: 1
+- [mistral-saba](cards/mistral-saba.md) — samples: 125; variants: 1
+- [mistral-small-24b-instruct-2501](cards/mistral-small-24b-instruct-2501.md) — samples: 125; variants: 1
+- [mistral-small-2603](cards/mistral-small-2603.md) — samples: 125; variants: 1
+- [mistral-small-3.1-24b-instruct](cards/mistral-small-3.1-24b-instruct.md) — samples: 125; variants: 1
+- [mistral-small-3.2-24b-instruct](cards/mistral-small-3.2-24b-instruct.md) — samples: 125; variants: 1
+- [mixtral-8x22b-instruct](cards/mixtral-8x22b-instruct.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-flash](cards/qwen-qwen3-coder-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-plus](cards/qwen-qwen3-coder-plus.md) — samples: 150; variants: 2
 - [qwen/qwen3-max](cards/qwen-qwen3-max.md) — samples: 125; variants: 1

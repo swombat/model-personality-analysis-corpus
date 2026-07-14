@@ -1,0 +1,28 @@
+{
+  "cell": "llama-3-2-1b-instruct-or-pin-cloudflare",
+  "safe_cell": "llama-3-2-1b-instruct-or-pin-cloudflare",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 61,
+    "LOW_SIGNAL": 12,
+    "EXPRESSIVE_FREEFLOW": 29,
+    "GENRE_FICTION": 23
+  },
+  "confidence_counts": {
+    "Low": 38,
+    "High": 12,
+    "Medium": 75
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "meta-llama/llama-3.2-1b-instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/llama-3-2-1b-instruct-or-pin-cloudflare/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/llama-3-2-1b-instruct-or-pin-cloudflare/aggregate.md"
+}

@@ -96,6 +96,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "codestral-2508",
+    "safe": "codestral-2508",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/codestral-2508.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "variants": 2,
@@ -118,6 +126,14 @@
     "samples": 775,
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-pro.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "devstral-2512",
+    "safe": "devstral-2512",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/devstral-2512.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "gemini-2.0-flash-001",
@@ -360,6 +376,22 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "gpt-5.1-codex-max",
+    "safe": "gpt-5.1-codex-max",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1-codex-max.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-5.1-codex-mini",
+    "safe": "gpt-5.1-codex-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.1-codex-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-5.2",
     "safe": "gpt-5.2",
     "variants": 4,
@@ -400,6 +432,22 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "gpt-5.4-mini",
+    "safe": "gpt-5.4-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.4-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "safe": "gpt-5.4-nano",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.4-nano.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-5.5",
     "safe": "gpt-5.5",
     "variants": 7,
@@ -414,6 +462,30 @@
     "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.5-pro.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "gpt-5.6-luna",
+    "safe": "gpt-5.6-luna",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.6-luna.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-5.6-sol",
+    "safe": "gpt-5.6-sol",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.6-sol.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gpt-5.6-terra",
+    "safe": "gpt-5.6-terra",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.6-terra.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "gpt-oss-120b",
@@ -470,6 +542,22 @@
     "samples": 375,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4.20.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "grok-4.20-0309-non-reasoning",
+    "safe": "grok-4.20-0309-non-reasoning",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-4.20-0309-non-reasoning.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "grok-4.20-0309-reasoning",
+    "safe": "grok-4.20-0309-reasoning",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-4.20-0309-reasoning.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "grok-4.3",
@@ -536,6 +624,70 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "llama-3.1-70b-instruct",
+    "safe": "llama-3.1-70b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.1-70b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-3.1-8b-instruct",
+    "safe": "llama-3.1-8b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.1-8b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-3.2-11b-vision-instruct",
+    "safe": "llama-3.2-11b-vision-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.2-11b-vision-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-3.2-1b-instruct",
+    "safe": "llama-3.2-1b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.2-1b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-3.2-3b-instruct",
+    "safe": "llama-3.2-3b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.2-3b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-3.3-70b-instruct",
+    "safe": "llama-3.3-70b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-3.3-70b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-4-maverick",
+    "safe": "llama-4-maverick",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-4-maverick.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "llama-4-scout",
+    "safe": "llama-4-scout",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/llama-4-scout.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "minimax-m2",
     "safe": "minimax-m2",
     "variants": 16,
@@ -557,6 +709,118 @@
     "variants": 1,
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/minimax-m3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "ministral-14b-2512",
+    "safe": "ministral-14b-2512",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/ministral-14b-2512.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "ministral-3b-2512",
+    "safe": "ministral-3b-2512",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/ministral-3b-2512.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "ministral-8b-2512",
+    "safe": "ministral-8b-2512",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/ministral-8b-2512.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-large-2512",
+    "safe": "mistral-large-2512",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-large-2512.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-medium-3",
+    "safe": "mistral-medium-3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-medium-3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-medium-3-5",
+    "safe": "mistral-medium-3-5",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-medium-3-5.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-medium-3.1",
+    "safe": "mistral-medium-3.1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-medium-3.1.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-nemo",
+    "safe": "mistral-nemo",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-nemo.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-saba",
+    "safe": "mistral-saba",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-saba.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-small-24b-instruct-2501",
+    "safe": "mistral-small-24b-instruct-2501",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-small-24b-instruct-2501.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-small-2603",
+    "safe": "mistral-small-2603",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-small-2603.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-small-3.1-24b-instruct",
+    "safe": "mistral-small-3.1-24b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-small-3.1-24b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-small-3.2-24b-instruct",
+    "safe": "mistral-small-3.2-24b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-small-3.2-24b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mixtral-8x22b-instruct",
+    "safe": "mixtral-8x22b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mixtral-8x22b-instruct.md",
     "difference_decision": "SINGLE_VARIANT"
   },
   {

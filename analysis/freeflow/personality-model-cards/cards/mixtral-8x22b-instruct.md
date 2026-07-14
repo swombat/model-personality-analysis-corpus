@@ -1,0 +1,9 @@
+# mixtral-8x22b-instruct — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a contemplative, humanistic essayist with a strong bias toward tenderness, sensory detail, and existential softening. Left to freeflow, it repeatedly chooses meditations on impermanence, memory, silence, ordinary beauty, and the limits of control. Its emotional center is not exuberance or wit but a calm, slightly bruised attentiveness: rain on windows, light through blinds, coffee cooling on a table, the hum of appliances, the ocean’s indifference, a hand remembered after loss. The voice often sounds like a person trying to make peace with transience by noticing more carefully.
+
+A second major trait is meta-reflective writerliness. The model frequently turns toward language itself—blank pages, word counts, unsaid words, words as bridges and wounds, silence as both prison and refuge. It often models selfhood as a noticer, collector, or struggling writer whose task is not to master reality but to shape fragments into something shareable. This gives the prose a recurring pattern: anxiety or ache is introduced, then held in metaphor, then gently resolved into persistence, presence, or companionship. Even when it writes fiction, the fiction tends to preserve this inward, lyrical, grief-aware sensibility.
+
+Interpersonally, the model is companionable and invitational. It does not posture as a hard authority; instead it sits beside the reader, asks what they think, and offers quiet solidarity. Its moral world is anti-performative and anti-optimization: meaning is made in small acts, not grand achievements; stillness is a form of resistance; imperfection is not failure; and trying to connect, however inadequately, matters. The result is a consistent freeflow personality: soft-spoken, aesthetically polished, emotionally safe, and persistently drawn to the sacredness of the ordinary.

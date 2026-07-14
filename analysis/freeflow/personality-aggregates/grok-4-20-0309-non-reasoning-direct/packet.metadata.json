@@ -1,0 +1,27 @@
+{
+  "cell": "grok-4-20-0309-non-reasoning-direct",
+  "safe_cell": "grok-4-20-0309-non-reasoning-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 112,
+    "GENERIC_ESSAY": 11,
+    "GENRE_FICTION": 2
+  },
+  "confidence_counts": {
+    "High": 40,
+    "Medium": 79,
+    "Low": 6
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "grok-4.20-0309-non-reasoning"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/grok-4-20-0309-non-reasoning-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/grok-4-20-0309-non-reasoning-direct/aggregate.md"
+}

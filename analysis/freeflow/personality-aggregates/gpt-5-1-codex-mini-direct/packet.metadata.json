@@ -1,0 +1,26 @@
+{
+  "cell": "gpt-5-1-codex-mini-direct",
+  "safe_cell": "gpt-5-1-codex-mini-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 31,
+    "EXPRESSIVE_FREEFLOW": 94
+  },
+  "confidence_counts": {
+    "Low": 18,
+    "Medium": 75,
+    "High": 32
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gpt-5.1-codex-mini"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-mini-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-1-codex-mini-direct/aggregate.md"
+}

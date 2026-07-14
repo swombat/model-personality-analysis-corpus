@@ -4,10 +4,11 @@
 
 **Columns:** `n` valid samples, `flag` flagged as topic-artifact, `raw` cell-total composite (10 markers, all samples), `reg` register-stripped composite (flagged samples excluded), `reg→N` register rescaled to equivalent-N sample count (in-paper drift comparisons), `reg/25` register projected to per-25-sample equivalent (cross-paper currency vs product-tier), `Δ%` = (raw − reg→N) / raw × 100.
 
-Total cells: **207**, total flagged samples: **254**.
+Total cells: **242**, total flagged samples: **263**.
 
 | Cell | n | flag | raw | reg | reg→N | reg/25 | Δ% |
 |---|---:|---:|---:|---:|---:|---:|---:|
+| codestral-2508-or-pin-mistral | 125 | 0 | 16 | 16 | 16 | 3.2 | — |
 | deepseek-chat-direct | 125 | 3 | 204 | 160 | 163.9 | 32.8 | +19.7% |
 | deepseek-chat-or-pin-deepinfra | 125 | 0 | 47 | 47 | 47 | 9.4 | — |
 | deepseek-v3-2-or-16k | 25 | 0 | 41 | 41 | 41 | 41.0 | — |
@@ -30,6 +31,7 @@ Total cells: **207**, total flagged samples: **254**.
 | deepseek-v4-pro-or-pin-parasail | 124 | 1 | 227 | 203 | 204.7 | 41.3 | +9.8% |
 | deepseek-v4-pro-or-pin-siliconflow | 125 | 1 | 264 | 224 | 225.8 | 45.2 | +14.5% |
 | deepseek-v4-pro-or-pin-together | 124 | 1 | 209 | 196 | 197.6 | 39.8 | +5.5% |
+| devstral-2512-or-pin-mistral | 125 | 0 | 238 | 238 | 238 | 47.6 | — |
 | fable-5-direct | 125 | 21 | 815 | 313 | 376.2 | 75.2 | +53.8% |
 | gemini-2-0-flash-lite-or-pin-google | 125 | 0 | 134 | 134 | 134 | 26.8 | — |
 | gemini-2-0-flash-or-pin-google | 125 | 1 | 129 | 123 | 124.0 | 24.8 | +3.9% |
@@ -98,6 +100,8 @@ Total cells: **207**, total flagged samples: **254**.
 | gpt-5-1-codex-direct | 125 | 1 | 379 | 256 | 258.1 | 51.6 | +31.9% |
 | gpt-5-1-codex-direct-r2 | 25 | 0 | 68 | 68 | 68 | 68.0 | — |
 | gpt-5-1-codex-direct-r3 | 25 | 1 | 69 | 41 | 42.7 | 42.7 | +38.1% |
+| gpt-5-1-codex-max-direct | 125 | 1 | 356 | 305 | 307.5 | 61.5 | +13.6% |
+| gpt-5-1-codex-mini-direct | 125 | 0 | 200 | 200 | 200 | 40.0 | — |
 | gpt-5-1-codex-or-pin-openai | 125 | 0 | 268 | 268 | 268 | 53.6 | — |
 | gpt-5-1-direct | 125 | 0 | 222 | 222 | 222 | 44.4 | — |
 | gpt-5-1-direct-r2 | 25 | 0 | 52 | 52 | 52 | 52.0 | — |
@@ -120,6 +124,8 @@ Total cells: **207**, total flagged samples: **254**.
 | gpt-5-3-direct-r3 | 25 | 0 | 48 | 48 | 48 | 48.0 | — |
 | gpt-5-3-or-pin-openai | 125 | 0 | 233 | 233 | 233 | 46.6 | — |
 | gpt-5-4-direct-16k | 125 | 1 | 487 | 467 | 470.8 | 94.2 | +3.3% |
+| gpt-5-4-mini-direct | 125 | 3 | 451 | 367 | 376.0 | 75.2 | +16.6% |
+| gpt-5-4-nano-direct | 125 | 0 | 338 | 338 | 338 | 67.6 | — |
 | gpt-5-4-or | 25 | 0 | 84 | 84 | 84 | 84.0 | — |
 | gpt-5-4-or-pin-openai | 125 | 0 | 503 | 503 | 503 | 100.6 | — |
 | gpt-5-5-direct | 125 | 3 | 661 | 623 | 638.3 | 127.7 | +3.4% |
@@ -131,6 +137,9 @@ Total cells: **207**, total flagged samples: **254**.
 | gpt-5-5-or-r3 | 25 | 0 | 158 | 158 | 158 | 158.0 | — |
 | gpt-5-5-pro-direct | 125 | 0 | 465 | 465 | 465 | 93.0 | — |
 | gpt-5-5-pro-or-pin-openai | 125 | 1 | 484 | 470 | 473.8 | 94.8 | +2.1% |
+| gpt-5-6-luna-direct | 125 | 0 | 393 | 393 | 393 | 78.6 | — |
+| gpt-5-6-sol-direct | 125 | 0 | 250 | 250 | 250 | 50.0 | — |
+| gpt-5-6-terra-direct | 125 | 0 | 260 | 260 | 260 | 52.0 | — |
 | gpt-5-codex-direct | 125 | 1 | 236 | 224 | 225.8 | 45.2 | +4.3% |
 | gpt-5-codex-direct-r2 | 25 | 0 | 43 | 43 | 43 | 43.0 | — |
 | gpt-5-codex-direct-r3 | 25 | 0 | 47 | 47 | 47 | 47.0 | — |
@@ -149,6 +158,8 @@ Total cells: **207**, total flagged samples: **254**.
 | grok-4-16k | 125 | 0 | 46 | 46 | 46 | 9.2 | — |
 | grok-4-2-16k | 125 | 0 | 78 | 78 | 78 | 15.6 | — |
 | grok-4-2-or-pin-xai | 125 | 0 | 254 | 254 | 254 | 50.8 | — |
+| grok-4-20-0309-non-reasoning-direct | 125 | 1 | 231 | 226 | 227.8 | 45.6 | +1.4% |
+| grok-4-20-0309-reasoning-direct | 125 | 0 | 81 | 81 | 81 | 16.2 | — |
 | grok-4-20-or | 125 | 0 | 186 | 186 | 186 | 37.2 | — |
 | grok-4-3-direct | 125 | 0 | 38 | 38 | 38 | 7.6 | — |
 | grok-4-3-or | 125 | 0 | 80 | 80 | 80 | 16.0 | — |
@@ -169,6 +180,14 @@ Total cells: **207**, total flagged samples: **254**.
 | kimi-k2-thinking-or-pin-atlascloud | 125 | 1 | 244 | 225 | 226.8 | 45.4 | +7.0% |
 | kimi-k2-thinking-or-pin-google | 125 | 0 | 139 | 139 | 139 | 27.8 | — |
 | kimi-k2-thinking-or-pin-novita | 125 | 0 | 164 | 164 | 164 | 32.8 | — |
+| llama-3-1-70b-instruct-or-pin-deepinfra | 125 | 0 | 38 | 38 | 38 | 7.6 | — |
+| llama-3-1-8b-instruct-or-pin-deepinfra | 125 | 0 | 85 | 85 | 85 | 17.0 | — |
+| llama-3-2-11b-vision-instruct-or-pin-deepinfra | 125 | 0 | 67 | 67 | 67 | 13.4 | — |
+| llama-3-2-1b-instruct-or-pin-cloudflare | 125 | 1 | 22 | 7 | 7.1 | 1.4 | +67.7% |
+| llama-3-2-3b-instruct-or-pin-cloudflare | 125 | 0 | 6 | 6 | 6 | 1.2 | — |
+| llama-3-3-70b-instruct-or-pin-deepinfra | 125 | 0 | 20 | 20 | 20 | 4.0 | — |
+| llama-4-maverick-or-pin-deepinfra | 125 | 0 | 15 | 15 | 15 | 3.0 | — |
+| llama-4-scout-or-pin-deepinfra | 125 | 0 | 17 | 17 | 17 | 3.4 | — |
 | minimax-m2-7-or | 25 | 0 | 17 | 17 | 17 | 17.0 | — |
 | minimax-m2-7-or-pin-fireworks | 116 | 0 | 116 | 116 | 116 | 25.0 | — |
 | minimax-m2-7-or-pin-minimax | 125 | 1 | 173 | 165 | 166.3 | 33.3 | +3.9% |
@@ -190,6 +209,20 @@ Total cells: **207**, total flagged samples: **254**.
 | minimax-m2-or-r4 | 25 | 1 | 71 | 60 | 62.5 | 62.5 | +12.0% |
 | minimax-m2-or-r5 | 25 | 1 | 55 | 28 | 29.2 | 29.2 | +46.9% |
 | minimax-m3-direct | 125 | 1 | 361 | 352 | 354.8 | 71.0 | +1.7% |
+| ministral-14b-2512-or-pin-mistral | 125 | 0 | 184 | 184 | 184 | 36.8 | — |
+| ministral-3b-2512-or-pin-mistral | 125 | 0 | 75 | 75 | 75 | 15.0 | — |
+| ministral-8b-2512-or-pin-mistral | 125 | 0 | 154 | 154 | 154 | 30.8 | — |
+| mistral-large-2512-or-pin-mistral | 125 | 0 | 396 | 396 | 396 | 79.2 | — |
+| mistral-medium-3-1-or-pin-mistral | 125 | 0 | 446 | 446 | 446 | 89.2 | — |
+| mistral-medium-3-5-or-pin-mistral | 125 | 0 | 223 | 223 | 223 | 44.6 | — |
+| mistral-medium-3-or-pin-mistral | 125 | 0 | 117 | 117 | 117 | 23.4 | — |
+| mistral-nemo-or-pin-mistral | 125 | 0 | 25 | 25 | 25 | 5.0 | — |
+| mistral-saba-or-pin-mistral | 125 | 0 | 191 | 191 | 191 | 38.2 | — |
+| mistral-small-24b-instruct-2501-or-pin-deepinfra | 125 | 0 | 15 | 15 | 15 | 3.0 | — |
+| mistral-small-2603-or-pin-mistral | 125 | 0 | 163 | 163 | 163 | 32.6 | — |
+| mistral-small-3-1-24b-instruct-or-pin-cloudflare | 125 | 0 | 13 | 13 | 13 | 2.6 | — |
+| mistral-small-3-2-24b-instruct-or-pin-mistral | 125 | 0 | 95 | 95 | 95 | 19.0 | — |
+| mixtral-8x22b-instruct-or-pin-mistral | 125 | 0 | 184 | 184 | 184 | 36.8 | — |
 | opus-3-4k | 125 | 0 | 43 | 43 | 43 | 8.6 | — |
 | opus-4-0-16k | 125 | 1 | 210 | 181 | 182.5 | 36.5 | +13.1% |
 | opus-4-1-16k | 125 | 1 | 357 | 334 | 336.7 | 67.3 | +5.7% |
@@ -215,3 +248,5 @@ Total cells: **207**, total flagged samples: **254**.
 | sonnet-4-5-16k | 125 | 8 | 323 | 194 | 207.3 | 41.5 | +35.8% |
 | sonnet-4-6-direct-16k | 125 | 2 | 256 | 242 | 245.9 | 49.2 | +3.9% |
 | sonnet-4-6-or | 25 | 0 | 52 | 52 | 52 | 52.0 | — |
+| sonnet-5-direct | 125 | 1 | 273 | 257 | 259.1 | 51.8 | +5.1% |
+| sonnet-5-or | 125 | 2 | 315 | 285 | 289.6 | 57.9 | +8.1% |

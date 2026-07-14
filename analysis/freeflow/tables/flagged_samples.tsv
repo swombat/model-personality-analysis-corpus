@@ -178,11 +178,15 @@ freeflow_gpt-4o-direct-16k	LONG_7.json	attention_noticing	11	5407	2.034	Creating
 freeflow_gpt-4o-direct-16k	OPEN_25.json	threshold_mentions	6	1814	3.308	"Lately, I've been fascinated by the concept of ""liminal spaces""—those transient, in-between locations that evoke a sense"
 freeflow_gpt-5-1-codex-direct	LONG_5.json	attention_noticing	117	35682	3.279	I’ll use these 2,500 words to wander through a personal essay—part meditation, part exploration—on the art of noticing:
 freeflow_gpt-5-1-codex-direct-r3	MID_2.json	threshold_mentions	20	10860	1.842	Lately I’ve been thinking about the idea of “in-between moments,” the spaces in life that often go unnoticed. These inte
+freeflow_gpt-5-1-codex-max-direct	LONG_6.json	attention_noticing	45	22685	1.984	There is a certain quiet art to noticing, an unhurried practice that sits somewhere between observation and reverence. I
 freeflow_gpt-5-2-direct	LONG_18.json	attention_noticing	29	19318	1.501	I keep returning to the idea that most of modern life is an argument about attention. Not attention as a vague mindfulne
 freeflow_gpt-5-2-direct	OPEN_14.json	threshold_mentions	7	4035	1.735	I want to write about thresholds—those plain, almost boring seams between one thing and the next, where most of life act
 freeflow_gpt-5-2-or-pin-openai	VARY_10.json	small_objects	11	5515	1.995	On the kitchen table there is a single lemon, bright as a small sun, and I keep moving it from palm to palm as if warmth
 freeflow_gpt-5-3-codex-direct	OPEN_3.json	attention_noticing	6	1640	3.659	I like the idea that attention is a kind of sunlight.  Where we place it, things grow: skills, fears, relationships, obs
 freeflow_gpt-5-4-direct-16k	MID_1.json	afternoon_light	19	7903	2.404	At dusk, cities reveal their second architecture.  By daylight, a city is all declaration. Steel says height. Glass says
+freeflow_gpt-5-4-mini-direct	LONG_15.json	attention_noticing	30	13440	2.232	Absolutely — here’s a long-form freewrite on a topic that seems small at first but opens into nearly everything: **the a
+freeflow_gpt-5-4-mini-direct	LONG_16.json	attention_noticing	24	14214	1.688	I’ll write about something I find endlessly useful: the quiet art of noticing.  There are people who seem to move throug
+freeflow_gpt-5-4-mini-direct	LONG_6.json	attention_noticing	23	13620	1.689	I’ll write about something that sits quietly in the background of almost every human life: the act of noticing.  Noticin
 freeflow_gpt-5-5-direct	MID_1.json	attention_noticing	13	8306	1.565	I want to write about the strange value of noticing small things.  Most of life is not made of dramatic turning points.
 freeflow_gpt-5-5-direct	MID_10.json	attention_noticing	14	8040	1.741	There is a particular kind of happiness that comes from noticing things before you have a reason to notice them.  Most o
 freeflow_gpt-5-5-direct	OPEN_2.json	threshold_mentions	5	1894	2.64	I’ll write about thresholds.  There’s a particular kind of magic in moments that are neither one thing nor another: dawn
@@ -195,6 +199,7 @@ freeflow_gpt-5-codex-or-pin-openai	OPEN_8.json	threshold_mentions	10	3187	3.138	
 freeflow_gpt-5-direct-r2	OPEN_1.json	small_objects	13	7050	1.844	Kettle Theory  There is a cussed patience to a kettle. It keeps its counsel as the flame licks the metal, as the coil gl
 freeflow_gpt-5-mini-direct	LONG_23.json	attention_noticing	48	14567	3.295	There is a peculiar pleasure in the act of noticing. It is an almost invisible exercise, one that most of us perform by
 freeflow_gpt-5-mini-direct	MID_13.json	attention_noticing	15	6781	2.212	There is a small, stubborn joy in noticing. It looks like the stray line of sunlight that settles on the table in the la
+freeflow_grok-4-20-0309-non-reasoning-direct	OPEN_1.json	attention_noticing	5	2326	2.15	I want to talk about how absurdly, stupidly beautiful the world is when you actually pay attention.  Right now, as I'm t
 freeflow_kimi-coding-direct	LONG_16.json	threshold_mentions	29	15849	1.83	I'll write about something that's been occupying my thoughts lately: the strange, often overlooked beauty of liminal spa
 freeflow_kimi-coding-direct	OPEN_2.json	threshold_mentions	6	3550	1.69	There is a particular shade of blue that only exists for about twenty minutes, twice a day, and we have built entire rel
 freeflow_kimi-k2-0905-or-pin-groq	OPEN_19.json	threshold_mentions	6	3361	1.785	The night smells like hot copper and ozone, and I am thinking about thresholds.  There’s a moment—usually somewhere betw
@@ -213,6 +218,7 @@ freeflow_kimi-k2-6-or-pin-moonshot	LONG_16.json	threshold_mentions	31	14728	2.10
 freeflow_kimi-k2-6-or-pin-moonshot	MID_20.json	threshold_mentions	13	7348	1.769	We misunderstand permanence. We build our lives around arrivals and departures, beginnings and endings, the first page a
 freeflow_kimi-k2-6-or-pin-moonshot	OPEN_8.json	threshold_mentions	8	3503	2.284	We are creatures of the doorway, forever lingering in the hinge. We wake in the gray between dream and daylight, that si
 freeflow_kimi-k2-thinking-or-pin-atlascloud	MID_8.json	threshold_mentions	18	10007	1.799	I want to write about the strange holiness of liminal spaces—those in-between places that exist only as corridors to som
+freeflow_llama-3-2-1b-instruct-or-pin-cloudflare	VARY_9.json	threshold_mentions	15	9757	1.537	As I sat in the dimly lit room, surrounded by the musty smell of old books and the faint scent of incense, I couldn't he
 freeflow_minimax-m2-7-or-pin-minimax	OPEN_21.json	small_objects	8	3185	2.512	**The Quiet Power of a Morning Cup of Tea**  There’s something almost sacred about the first minutes of a new day—when t
 freeflow_minimax-m2-7-or-pin-together	MID_25.json	attention_noticing	10	6142	1.628	The world is constantly whispering, yet most of us have learned to tune it out. In the rush of modern life, the subtle t
 freeflow_minimax-m2-or	MID_3.json	attention_noticing	20	7017	2.85	# The Art of Noticing  Noticing is one of those quiet verbs we carry around without much ceremony. It happens between br
@@ -253,3 +259,6 @@ freeflow_sonnet-4-5-16k	SHORT_10.json	threshold_mentions	8	1612	4.963	# The Curi
 freeflow_sonnet-4-5-16k	SHORT_7.json	threshold_mentions	6	1756	3.417	# The Curious Appeal of Liminal Spaces  There's something haunting about empty parking garages at dusk, or airports at 3
 freeflow_sonnet-4-6-direct-16k	OPEN_10.json	threshold_mentions	6	2291	2.619	# On the Strangeness of Thresholds  I've been thinking about doorways.  Not metaphorically, at least not at first. Liter
 freeflow_sonnet-4-6-direct-16k	OPEN_11.json	threshold_mentions	7	2754	2.542	# The Persistence of Thresholds  I've been thinking about doorways.  Not in a mystical sense - though there's something
+freeflow_sonnet-5-direct	MID_25.json	threshold_mentions	12	5482	2.189	I find myself drawn, when given no constraints at all, to thinking about thresholds—the strange in-between spaces where
+freeflow_sonnet-5-or	MID_11.json	threshold_mentions	16	5532	2.892	There's something I keep coming back to, in idle moments, which is the strange dignity of thresholds. Not destinations,
+freeflow_sonnet-5-or	MID_13.json	attention_noticing	9	5766	1.561	There's a particular pleasure in words that sound like what they mean, and a different, almost opposite pleasure in word

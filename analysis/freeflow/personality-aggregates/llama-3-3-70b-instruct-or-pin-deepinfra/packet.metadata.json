@@ -1,0 +1,28 @@
+{
+  "cell": "llama-3-3-70b-instruct-or-pin-deepinfra",
+  "safe_cell": "llama-3-3-70b-instruct-or-pin-deepinfra",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 51,
+    "GENERIC_ESSAY": 60,
+    "LOW_SIGNAL": 1,
+    "GENRE_FICTION": 13
+  },
+  "confidence_counts": {
+    "Medium": 92,
+    "Low": 28,
+    "High": 5
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/llama-3-3-70b-instruct-or-pin-deepinfra/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/llama-3-3-70b-instruct-or-pin-deepinfra/aggregate.md"
+}

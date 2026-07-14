@@ -1,0 +1,27 @@
+{
+  "cell": "codestral-2508-or-pin-mistral",
+  "safe_cell": "codestral-2508-or-pin-mistral",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 25,
+    "GENRE_FICTION": 78,
+    "EXPRESSIVE_FREEFLOW": 22
+  },
+  "confidence_counts": {
+    "Medium": 92,
+    "High": 5,
+    "Low": 28
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/codestral-2508"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/codestral-2508-or-pin-mistral/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/codestral-2508-or-pin-mistral/aggregate.md"
+}
