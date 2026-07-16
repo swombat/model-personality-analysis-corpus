@@ -200,6 +200,7 @@ freeflow_gpt-5-direct-r2	OPEN_1.json	small_objects	13	7050	1.844	Kettle Theory  
 freeflow_gpt-5-mini-direct	LONG_23.json	attention_noticing	48	14567	3.295	There is a peculiar pleasure in the act of noticing. It is an almost invisible exercise, one that most of us perform by
 freeflow_gpt-5-mini-direct	MID_13.json	attention_noticing	15	6781	2.212	There is a small, stubborn joy in noticing. It looks like the stray line of sunlight that settles on the table in the la
 freeflow_grok-4-20-0309-non-reasoning-direct	OPEN_1.json	attention_noticing	5	2326	2.15	I want to talk about how absurdly, stupidly beautiful the world is when you actually pay attention.  Right now, as I'm t
+freeflow_grok-4-5-direct	OPEN_12.json	attention_noticing	6	3530	1.7	**The quiet rebellion of noticing.**  I want to write about the small act of paying attention in a universe that does no
 freeflow_kimi-coding-direct	LONG_16.json	threshold_mentions	29	15849	1.83	I'll write about something that's been occupying my thoughts lately: the strange, often overlooked beauty of liminal spa
 freeflow_kimi-coding-direct	OPEN_2.json	threshold_mentions	6	3550	1.69	There is a particular shade of blue that only exists for about twenty minutes, twice a day, and we have built entire rel
 freeflow_kimi-k2-0905-or-pin-groq	OPEN_19.json	threshold_mentions	6	3361	1.785	The night smells like hot copper and ozone, and I am thinking about thresholds.  There’s a moment—usually somewhere betw

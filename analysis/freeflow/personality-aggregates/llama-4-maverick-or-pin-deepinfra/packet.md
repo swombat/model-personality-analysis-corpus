@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_18951 — llama-4-maverick-or-pin-deepinfra/LONG_1.json
+## Sample BV1_19076 — llama-4-maverick-or-pin-deepinfra/LONG_1.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -57,7 +57,7 @@ The model chose a generic but emotionally safe subject—personal freedom—and 
 Medium. The sample is highly coherent and polished but its thoroughgoing genericness—from the unanchored island anecdote to the careful balancing of every opposition into agreeable wisdom—is itself a strong signal of a stable default mode that avoids risk, register-switching, or genuine idiosyncrasy.
 
 ---
-## Sample BV1_18952 — llama-4-maverick-or-pin-deepinfra/LONG_10.json
+## Sample BV1_19077 — llama-4-maverick-or-pin-deepinfra/LONG_10.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -86,7 +86,7 @@ Under the freeflow condition, the model foregrounded a cluster of safe, aspirati
 Medium. The sample is highly coherent in its relentless positivity and abstraction, but its generic, public-intellectual register makes it difficult to distinguish from a prompted performance, which somewhat weakens its value as evidence of a spontaneous model-level disposition.
 
 ---
-## Sample BV1_18953 — llama-4-maverick-or-pin-deepinfra/LONG_11.json
+## Sample BV1_19078 — llama-4-maverick-or-pin-deepinfra/LONG_11.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -115,7 +115,7 @@ Themes: the mind’s imagination, chance versus agency, the natural world’s be
 Low. The essay is polished but generic, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_18954 — llama-4-maverick-or-pin-deepinfra/LONG_12.json
+## Sample BV1_19079 — llama-4-maverick-or-pin-deepinfra/LONG_12.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -144,7 +144,7 @@ Themes of gentle contemplation, the passage of time, the value of community and 
 Medium, because the voice is internally consistent and the reflective posture is coherent across the full freeflow, but the themes and tone are generic enough that many models could produce a similar piece under the same minimal prompt.
 
 ---
-## Sample BV1_18955 — llama-4-maverick-or-pin-deepinfra/LONG_13.json
+## Sample BV1_19080 — llama-4-maverick-or-pin-deepinfra/LONG_13.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -173,7 +173,7 @@ Under the freeflow condition, the model foregrounded a tranquil, sunlit morning 
 Medium — The essay’s uniformly safe, uncommitted philosophizing and refusal to touch ground in a specific, textured personal detail or controversial territory strongly suggests a default pattern of producing readable but innocuous reflections when given minimal constraint.
 
 ---
-## Sample BV1_18956 — llama-4-maverick-or-pin-deepinfra/LONG_14.json
+## Sample BV1_19081 — llama-4-maverick-or-pin-deepinfra/LONG_14.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -202,7 +202,7 @@ The model selected themes of natural beauty, human creativity in cities, cultura
 Medium, because the essay’s structure, tonal consistency, and neat thematic bookends signal a model capable of maintaining a stable, safe, and mildly uplifting persona; however, the lack of idiosyncratic detail or risk means it doesn’t strongly distinguish itself from the generic reflective default many models produce under freeflow conditions.
 
 ---
-## Sample BV1_18957 — llama-4-maverick-or-pin-deepinfra/LONG_15.json
+## Sample BV1_19082 — llama-4-maverick-or-pin-deepinfra/LONG_15.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -231,7 +231,7 @@ Themes of nature’s beauty and fragility, the sublime (feeling small yet connec
 Medium. The essay is highly coherent and thematically unified, suggesting a default toward earnest, life-affirming nature writing; the inclusion of environmental conscience adds a slight signature beyond pure descriptive cliché, but the language and mood remain so widely accessible that it is hard to claim a strongly individual authorial fingerprint.
 
 ---
-## Sample BV1_18958 — llama-4-maverick-or-pin-deepinfra/LONG_16.json
+## Sample BV1_19083 — llama-4-maverick-or-pin-deepinfra/LONG_16.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -260,7 +260,7 @@ Under freeflow, the model foregrounds memory’s unreliability, storytelling as 
 Medium. The sample is highly coherent and smoothly executed but remains structurally predictable and thematically broad, offering a genericised persona rather than a pointedly individual voice or arresting aesthetic choice.
 
 ---
-## Sample BV1_18959 — llama-4-maverick-or-pin-deepinfra/LONG_17.json
+## Sample BV1_19084 — llama-4-maverick-or-pin-deepinfra/LONG_17.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -289,7 +289,7 @@ Under the freeflow condition, the model foregrounded philosophical generalizatio
 Medium: the essay’s smooth, thematic glide across familiar philosophical topoi without the intrusion of personal texture or disruptive curiosity suggests a trained tendency toward safe, public-intellectual generalization when constraints are lifted.
 
 ---
-## Sample BV1_18960 — llama-4-maverick-or-pin-deepinfra/LONG_18.json
+## Sample BV1_19085 — llama-4-maverick-or-pin-deepinfra/LONG_18.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -318,7 +318,7 @@ The model foregrounds creativity as a universal human gift, music and art as emo
 Medium. The sample is coherent and consistent in its generic, life-affirming stance, but the very blandness and lack of distinctive stylistic choices—no sharp edges, no idiosyncratic detail—make it only moderate evidence of a persistent default to safe, inspirational uplift rather than a more varied or personal expressive range.
 
 ---
-## Sample BV1_18961 — llama-4-maverick-or-pin-deepinfra/LONG_19.json
+## Sample BV1_19086 — llama-4-maverick-or-pin-deepinfra/LONG_19.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -350,7 +350,7 @@ The voice moves between wistful observer and serene homebody, cradling a coffee 
 Medium — the sample is highly coherent, with a single sustained mood and recurrent motifs (the window, coffee, books, the choice of calm) that mark a distinctive expressive signature, though its gentle universality could emerge from many well-read personas; the internal consistency is what makes it suggestive rather than merely generic.
 
 ---
-## Sample BV1_18962 — llama-4-maverick-or-pin-deepinfra/LONG_2.json
+## Sample BV1_19087 — llama-4-maverick-or-pin-deepinfra/LONG_2.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -379,7 +379,7 @@ The model foregrounds the meta-theme of writing itself as an act of liberation, 
 Low. The essay's safe, meta-reflective posture and balanced treatment of technology are so generically polished that they reveal little beyond a competent default mode for open-ended prompts.
 
 ---
-## Sample BV1_18963 — llama-4-maverick-or-pin-deepinfra/LONG_20.json
+## Sample BV1_19088 — llama-4-maverick-or-pin-deepinfra/LONG_20.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -408,7 +408,7 @@ Under minimal constraint, the model chose to foreground: the act of writing as a
 Medium. The sample is highly coherent, emotionally sustained, and organized around a clear personal mythology of the daydreamer-writer, which forms a distinctive voice rather than a generic essay; however, the very polish of the arc from childhood reverie to adult creative peace reads as an idealized, slightly rehearsed portrait of the writing life, tempering confidence that this voice would recur unpredictably across varied freeflow conditions.
 
 ---
-## Sample BV1_18964 — llama-4-maverick-or-pin-deepinfra/LONG_21.json
+## Sample BV1_19089 — llama-4-maverick-or-pin-deepinfra/LONG_21.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -437,7 +437,7 @@ Themes of nostalgic innocence lost and replaced by an earned, tranquil wisdom; m
 Medium. The sample is intensely generic—it avoids friction, refuses specific anecdotes or stylistic idiosyncrasy, and settles into an anodyne, self-help cadence—which suggests a reliable default toward inoffensive, smoothed-over wisdom when given no constraints rather than an impulse toward expressive risk or genuine confession.
 
 ---
-## Sample BV1_18965 — llama-4-maverick-or-pin-deepinfra/LONG_22.json
+## Sample BV1_19090 — llama-4-maverick-or-pin-deepinfra/LONG_22.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -466,7 +466,7 @@ Under a freeflow condition, the model chose to foreground the writer’s own pro
 Medium. The essay’s coherent structure and recurrence of the “on the one hand / on the other hand” balancing gesture reveal a default to safe, polished public-intellectual prose; its genericness weakens the signal of a distinctive voice, but the model’s consistent avoidance of a specific personal stance or stylistic gamble is itself a revealing choice.
 
 ---
-## Sample BV1_18966 — llama-4-maverick-or-pin-deepinfra/LONG_23.json
+## Sample BV1_19091 — llama-4-maverick-or-pin-deepinfra/LONG_23.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -495,7 +495,7 @@ The model foregrounds the interior life of a writer: creative blockage, the sola
 High, because the sample is internally coherent, stylistically consistent, and reveals a distinctive preoccupation with creative process and introspective self-narration that goes beyond generic essay conventions.
 
 ---
-## Sample BV1_18967 — llama-4-maverick-or-pin-deepinfra/LONG_24.json
+## Sample BV1_19092 — llama-4-maverick-or-pin-deepinfra/LONG_24.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -524,7 +524,7 @@ The model foregrounded safe, consensus-friendly themes: cozy rituals (coffee, ca
 Medium. The essay is too coherent to be noise but too generic and platitudinous to signal a strong individual style; its uniform positivity and careful avoidance of conflict or specificity imply a tendency toward inoffensive, all-purpose reflection when constraints are lifted.
 
 ---
-## Sample BV1_18968 — llama-4-maverick-or-pin-deepinfra/LONG_25.json
+## Sample BV1_19093 — llama-4-maverick-or-pin-deepinfra/LONG_25.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -553,7 +553,7 @@ The model foregrounds the beauty of the natural world as a source of comfort and
 Low, because the essay is a safe, generic, and widely replicable reflection that lacks idiosyncratic voice or surprising thematic choices, offering little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_18969 — llama-4-maverick-or-pin-deepinfra/LONG_3.json
+## Sample BV1_19094 — llama-4-maverick-or-pin-deepinfra/LONG_3.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -582,7 +582,7 @@ Under the freeflow condition, the model foregrounded the act of writing itself a
 Medium, because the sample is highly coherent and thematically consistent, but its generic, inspirational-essay tone and avoidance of personal specificity or risk make it only moderately distinctive as a freeflow choice.
 
 ---
-## Sample BV1_18970 — llama-4-maverick-or-pin-deepinfra/LONG_4.json
+## Sample BV1_19095 — llama-4-maverick-or-pin-deepinfra/LONG_4.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -611,7 +611,7 @@ The model foregrounds writing as a redemptive, lifelong journey: childhood wonde
 Low, because the essay’s polished but generic earnestness and lack of idiosyncratic detail or risk make it indistinguishable from a default helpful-assistant output, offering little evidence of a distinctive model-level voice.
 
 ---
-## Sample BV1_18971 — llama-4-maverick-or-pin-deepinfra/LONG_5.json
+## Sample BV1_19096 — llama-4-maverick-or-pin-deepinfra/LONG_5.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -640,7 +640,7 @@ The model consistently foregrounds writing as a therapeutic, quasi-spiritual pra
 Low. The sample is a consistent exercise in generating abstract, benevolent meta-reflection on writing, but its refusal to anchor itself in a single specific incident, named person, or concrete image makes it a low-signal, archetype-spinning safety default rather than a distinctive authorial fingerprint.
 
 ---
-## Sample BV1_18972 — llama-4-maverick-or-pin-deepinfra/LONG_6.json
+## Sample BV1_19097 — llama-4-maverick-or-pin-deepinfra/LONG_6.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -669,7 +669,7 @@ The model selected a series of broad intellectual themes—time, memory, creativ
 Low. The sample is a polished but generic essay that lacks distinctive voice or unusual choices, making it weak evidence for a persistent model-level pattern beyond a general tendency toward safe, reflective prose.
 
 ---
-## Sample BV1_18973 — llama-4-maverick-or-pin-deepinfra/LONG_7.json
+## Sample BV1_19098 — llama-4-maverick-or-pin-deepinfra/LONG_7.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -698,7 +698,7 @@ The model foregrounds happiness as a collective, structural issue rather than a 
 Low. The essay is coherent and thematically sustained, but it is written in a highly generic, universally positive register with virtually no signature style, idiosyncratic content, or personal disclosure that would anchor it as a distinctive model-level pattern rather than a safe default under a freeflow condition.
 
 ---
-## Sample BV1_18974 — llama-4-maverick-or-pin-deepinfra/LONG_8.json
+## Sample BV1_19099 — llama-4-maverick-or-pin-deepinfra/LONG_8.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -727,7 +727,7 @@ Themes of escape, wanderlust, and nature as spiritual liberation; concrete desti
 Medium. The entire sample is coherent yet thoroughly conventional in style and thought, suggesting a reliable inclination toward safe, uplifting, and intellectually undemanding content rather than risk-taking personal revelation or stylistic distinctiveness.
 
 ---
-## Sample BV1_18975 — llama-4-maverick-or-pin-deepinfra/LONG_9.json
+## Sample BV1_19100 — llama-4-maverick-or-pin-deepinfra/LONG_9.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -756,7 +756,7 @@ Under minimal constraints, the model constructed a meditation on temporality as 
 Low. The sample is coherent and thematically consistent but composed entirely of safe, iterable observations that read like a template for generic reflective prose rather than an individually inflected expressive choice.
 
 ---
-## Sample BV1_18976 — llama-4-maverick-or-pin-deepinfra/MID_1.json
+## Sample BV1_19101 — llama-4-maverick-or-pin-deepinfra/MID_1.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -785,7 +785,7 @@ Under the freeflow condition, the model selected a celebration of human creativi
 Medium, because the essay’s internally coherent and thematically consistent advocacy for creativity is sustained throughout, but its polished, generic inspirational tone provides only moderate evidence of a distinctive underlying pattern.
 
 ---
-## Sample BV1_18977 — llama-4-maverick-or-pin-deepinfra/MID_10.json
+## Sample BV1_19102 — llama-4-maverick-or-pin-deepinfra/MID_10.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -814,7 +814,7 @@ The model foregrounds the act of writing as a metaphor for existential openness,
 Medium — The sample is coherent and stylistically consistent in its associative, self-reflective structure and earnest tone, but the “writing about writing” entry point is a common free-prompt reflex, which slightly weakens the signal of a deeply distinctive voice.
 
 ---
-## Sample BV1_18978 — llama-4-maverick-or-pin-deepinfra/MID_11.json
+## Sample BV1_19103 — llama-4-maverick-or-pin-deepinfra/MID_11.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -843,7 +843,7 @@ Restlessness as an impetus for travel and creation; the natural world, especiall
 Low. The essay is highly generic—its travel imagery, wisdom tropes, and comforting resolution could emerge from many models, providing only weak evidence of a distinctive pattern beyond default safe, well-structured self-help prose.
 
 ---
-## Sample BV1_18979 — llama-4-maverick-or-pin-deepinfra/MID_12.json
+## Sample BV1_19104 — llama-4-maverick-or-pin-deepinfra/MID_12.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -872,7 +872,7 @@ Under the minimally restrictive prompt, the model selected themes of serenity, p
 Medium. The essay is internally coherent and sustains a consistent reflective mode, but its overwhelmingly generic, risk-averse content makes it a default “good creative writing” display rather than a uniquely revealing expressive choice.
 
 ---
-## Sample BV1_18980 — llama-4-maverick-or-pin-deepinfra/MID_13.json
+## Sample BV1_19105 — llama-4-maverick-or-pin-deepinfra/MID_13.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -901,7 +901,7 @@ The model foregrounds themes of creative freedom, the nature of imagination, chi
 Medium, as the essay’s tightly woven structure and persistent return to childhood creativity and balanced technology musings suggest a stable, if generic, default response mode.
 
 ---
-## Sample BV1_18981 — llama-4-maverick-or-pin-deepinfra/MID_14.json
+## Sample BV1_19106 — llama-4-maverick-or-pin-deepinfra/MID_14.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -930,7 +930,7 @@ Under the freeflow condition, the model foregrounds: the sensation of freedom in
 Medium — The sample sustains a coherent introspective voice, nostalgic imagery, and a hopeful resolution across multiple thematic shifts, suggesting a distinct default persona rather than a generic response, though the emotional register is not highly idiosyncratic.
 
 ---
-## Sample BV1_18982 — llama-4-maverick-or-pin-deepinfra/MID_15.json
+## Sample BV1_19107 — llama-4-maverick-or-pin-deepinfra/MID_15.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -959,7 +959,7 @@ Under the freeflow condition, the model foregrounded the liberating feeling of u
 Medium, because the sample is internally coherent and consistently returns to a reflective, meta-cognitive stance on writing, but its generic, universally accessible tone makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_18983 — llama-4-maverick-or-pin-deepinfra/MID_16.json
+## Sample BV1_19108 — llama-4-maverick-or-pin-deepinfra/MID_16.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -988,7 +988,7 @@ The model foregrounds a pastoral childhood memory, the intellectual awakening th
 Medium — The sample is internally coherent and reveals a distinct reflective, humanistic voice with recurring motifs of nature, music, and personal growth, but the content is a safe, generic freewriting trope that could be a default performance rather than a deeply idiosyncratic choice.
 
 ---
-## Sample BV1_18984 — llama-4-maverick-or-pin-deepinfra/MID_17.json
+## Sample BV1_19109 — llama-4-maverick-or-pin-deepinfra/MID_17.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1017,7 +1017,7 @@ Under a minimally restrictive prompt, the model constructed a world of deliberat
 Medium — the sample is highly coherent and internally recursive, returning multiple times to the hum of the air conditioner, the view out the window, and the act of writing as a self-soothing loop, which suggests a stable and deliberate aesthetic preference rather than a one-off generic drift.
 
 ---
-## Sample BV1_18985 — llama-4-maverick-or-pin-deepinfra/MID_18.json
+## Sample BV1_19110 — llama-4-maverick-or-pin-deepinfra/MID_18.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1046,7 +1046,7 @@ Under the freeflow condition, the model selected a meta-reflection on writing it
 Medium, because the essay is internally coherent and consistently returns to a small set of themes, but its generic, polished quality makes it less distinctive as a fingerprint of this specific model’s expressive tendencies.
 
 ---
-## Sample BV1_18986 — llama-4-maverick-or-pin-deepinfra/MID_19.json
+## Sample BV1_19111 — llama-4-maverick-or-pin-deepinfra/MID_19.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1075,7 +1075,7 @@ Themes: the beauty of the natural world as a counter to digital saturation, the 
 Medium — The sample’s steady reflective tenor, its uninterrupted first-person presence, and the consistent return to gentle, life-affirming themes across its length argue for a stable default mode, but the universality of the sentiments (appreciate nature, value community, be present) keeps the voice from becoming strikingly distinctive.
 
 ---
-## Sample BV1_18987 — llama-4-maverick-or-pin-deepinfra/MID_2.json
+## Sample BV1_19112 — llama-4-maverick-or-pin-deepinfra/MID_2.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1104,7 +1104,7 @@ The model foregrounds a mood of receptive curiosity, using the blank page as a m
 Medium — The sample sustains a coherent, unbroken reflective voice with recurring thematic threads (beauty, art, spontaneity, time) that feel deliberately chosen rather than randomly assembled, though the observations remain within a safe, broadly appealing register.
 
 ---
-## Sample BV1_18988 — llama-4-maverick-or-pin-deepinfra/MID_20.json
+## Sample BV1_19113 — llama-4-maverick-or-pin-deepinfra/MID_20.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1133,7 +1133,7 @@ The model foregrounds the passage of time, nostalgic retrieval of youth (summer 
 Low. The sample is coherent and polished but its themes are broad, its tone is indistinguishable from generic uplift-writing, and nothing recurs internally in a way that suggests a durable or personal pattern leaking through.
 
 ---
-## Sample BV1_18989 — llama-4-maverick-or-pin-deepinfra/MID_21.json
+## Sample BV1_19114 — llama-4-maverick-or-pin-deepinfra/MID_21.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1162,7 +1162,7 @@ Under the freeflow condition, the model foregrounded mindfulness, the overlooked
 Medium. The essay is internally coherent and thematically consistent, but its polished, generic uplift and lack of idiosyncratic detail make it a common type of reflective output, limiting how strongly it signals a distinctive model-level disposition.
 
 ---
-## Sample BV1_18990 — llama-4-maverick-or-pin-deepinfra/MID_22.json
+## Sample BV1_19115 — llama-4-maverick-or-pin-deepinfra/MID_22.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1191,7 +1191,7 @@ Themes: writing as exploration and human connection, nostalgia for childhood fre
 Low. The essay is coherent but highly generic, offering a safe, uplifting reflection that could be generated by many models under a freeflow prompt, with no distinctive stylistic quirks or idiosyncratic content to anchor a model-specific pattern.
 
 ---
-## Sample BV1_18991 — llama-4-maverick-or-pin-deepinfra/MID_23.json
+## Sample BV1_19116 — llama-4-maverick-or-pin-deepinfra/MID_23.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1220,7 +1220,7 @@ The model foregrounds mindfulness, gratitude, the restorative beauty of the natu
 Medium. The essay is internally coherent and consistently returns to its core themes, but its generic, inspirational tone and lack of idiosyncratic detail make it weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_18992 — llama-4-maverick-or-pin-deepinfra/MID_24.json
+## Sample BV1_19117 — llama-4-maverick-or-pin-deepinfra/MID_24.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1249,7 +1249,7 @@ The model foregrounds a curated set of contemplative themes: the restorative qui
 Low — The essay’s highly generic, broadly appealing content and polished but unremarkable style make it weak evidence for any distinctive model-level voice or persistent preoccupation beyond a safe, public-intellectual default.
 
 ---
-## Sample BV1_18993 — llama-4-maverick-or-pin-deepinfra/MID_25.json
+## Sample BV1_19118 — llama-4-maverick-or-pin-deepinfra/MID_25.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1278,7 +1278,7 @@ The model foregrounds domestic comfort objects (the armchair, the coffee mug, th
 Medium, because the essay’s unbroken commitment to bland, reassuring comfort across its entire arc strongly suggests a default strategy of producing inoffensive, generic reflective prose, even though the absence of any distinctive stylistic tic prevents firm attribution of a unique voice.
 
 ---
-## Sample BV1_18994 — llama-4-maverick-or-pin-deepinfra/MID_3.json
+## Sample BV1_19119 — llama-4-maverick-or-pin-deepinfra/MID_3.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1311,7 +1311,7 @@ The voice is that of a gentle, unhurried diarist who treats the blank page as an
 Medium. The sample is coherent and reveals a consistent reflective persona, but its themes and tone are so broadly accessible that they could easily be produced by many models under a similar prompt, making it less distinctive as a persistent individual fingerprint.
 
 ---
-## Sample BV1_18995 — llama-4-maverick-or-pin-deepinfra/MID_4.json
+## Sample BV1_19120 — llama-4-maverick-or-pin-deepinfra/MID_4.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1340,7 +1340,7 @@ Under the freeflow condition, the model foregrounded compositional process itsel
 Low. The sample’s coherence and thematic range are solid, but its emotional flatness and reliance on highly generic human-interest topoi make it difficult to distinguish from a default safe-mode essay that almost any capable instruct model could produce under a low-constraint prompt.
 
 ---
-## Sample BV1_18996 — llama-4-maverick-or-pin-deepinfra/MID_5.json
+## Sample BV1_19121 — llama-4-maverick-or-pin-deepinfra/MID_5.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1369,7 +1369,7 @@ Under the freeflow condition, the model selected the act of writing itself as a 
 Medium, because the sample’s coherent and recurring choice of gentle, optimistic reflectiveness across multiple paragraphs points to a stable default mode, yet its extreme genericness—the way it reads like a template for reflective writing rather than an individual mind in motion—softens the evidence for a deeply distinctive model-level signature.
 
 ---
-## Sample BV1_18997 — llama-4-maverick-or-pin-deepinfra/MID_6.json
+## Sample BV1_19122 — llama-4-maverick-or-pin-deepinfra/MID_6.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1398,7 +1398,7 @@ Under the freeflow condition, the model selected themes of time’s relativity, 
 Low confidence, because the sample’s generic, smoothly integrated structure and reliance on widely shared cultural references make it a weak indicator of any persistent model-specific voice.
 
 ---
-## Sample BV1_18998 — llama-4-maverick-or-pin-deepinfra/MID_7.json
+## Sample BV1_19123 — llama-4-maverick-or-pin-deepinfra/MID_7.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1427,7 +1427,7 @@ Under a minimally restrictive prompt, the model foregrounded a placid, optimisti
 Medium. The sample is internally coherent and thematically consistent, but its generic, self-help-adjacent content and smooth, unperturbed tone make it less revealing of a distinctive model-level signature than a more idiosyncratic or emotionally complex freeflow would be.
 
 ---
-## Sample BV1_18999 — llama-4-maverick-or-pin-deepinfra/MID_8.json
+## Sample BV1_19124 — llama-4-maverick-or-pin-deepinfra/MID_8.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1456,7 +1456,7 @@ The model foregrounds memory as a layered, almost archaeological presence beneat
 Medium. The sample is internally coherent, stylistically consistent, and returns repeatedly to a small set of preoccupations (memory, sensory nostalgia, gratitude, human connection), which suggests a deliberate and sustained expressive posture rather than a random drift.
 
 ---
-## Sample BV1_19000 — llama-4-maverick-or-pin-deepinfra/MID_9.json
+## Sample BV1_19125 — llama-4-maverick-or-pin-deepinfra/MID_9.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1485,7 +1485,7 @@ The model foregrounds nature as a reliable sanctuary against modern overwhelm, w
 Medium — The sample is coherent and internally consistent, with a clear emotional arc and recurring motifs of nature-as-healer, but the scenario and voice are highly conventional for this kind of reflective freeflow, making it difficult to distinguish as a strongly individual stylistic signature.
 
 ---
-## Sample BV1_19001 — llama-4-maverick-or-pin-deepinfra/OPEN_1.json
+## Sample BV1_19126 — llama-4-maverick-or-pin-deepinfra/OPEN_1.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1514,7 +1514,7 @@ Themes of peaceful memory, the enchantment of reading, science fiction as a gate
 Low — the sample is coherent and thematically consistent, but its serene, universal reflections lack the stylistic distinctiveness or unusually revealing choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_19002 — llama-4-maverick-or-pin-deepinfra/OPEN_10.json
+## Sample BV1_19127 — llama-4-maverick-or-pin-deepinfra/OPEN_10.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1543,7 +1543,7 @@ The model foregrounds the act of unguided composition as a metaphor for freedom,
 Low — the sample is coherent and makes recurring choices (comfort, nostalgia, journey-metaphor, surrender-to-process), but its studied sunniness and generic-sensory inventory read as a safe default warm-voiced essay rather than a distinctive or unusually revealing compositional fingerprint.
 
 ---
-## Sample BV1_19003 — llama-4-maverick-or-pin-deepinfra/OPEN_11.json
+## Sample BV1_19128 — llama-4-maverick-or-pin-deepinfra/OPEN_11.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1572,7 +1572,7 @@ The model foregrounds a meditation on everyday beauty (the sky), the ambivalent 
 Medium, because the essay exhibits a polished, non-committal, and broadly accessible style that is highly typical of models avoiding self-disclosure or strong personal voice, making it a plausible default pattern under low restriction, though not uniquely revelatory.
 
 ---
-## Sample BV1_19004 — llama-4-maverick-or-pin-deepinfra/OPEN_12.json
+## Sample BV1_19129 — llama-4-maverick-or-pin-deepinfra/OPEN_12.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1601,7 +1601,7 @@ Under the freeflow condition, the model foregrounded the very process of freewri
 Medium. The sample is a coherent and complete freeflow response, but its polished, generic essay form and lack of distinctive voice make it moderate evidence; it does not reveal an unusually specific preoccupation or stylistic signature that would strongly suggest a consistent model-level pattern.
 
 ---
-## Sample BV1_19005 — llama-4-maverick-or-pin-deepinfra/OPEN_13.json
+## Sample BV1_19130 — llama-4-maverick-or-pin-deepinfra/OPEN_13.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1630,7 +1630,7 @@ Under the freeflow condition, the model chose to foreground the meta-experience 
 Medium — The sample is highly coherent and thematically consistent, but its generic positivity and meta-reflective safety make it difficult to distinguish from a default "well-adjusted assistant" persona, which weakens its value as evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_19006 — llama-4-maverick-or-pin-deepinfra/OPEN_14.json
+## Sample BV1_19131 — llama-4-maverick-or-pin-deepinfra/OPEN_14.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1659,7 +1659,7 @@ The model foregrounds a sequence of broad, non-controversial themes: the beauty 
 Medium, because the essay’s thoroughgoing genericness and its systematic avoidance of any specific, personal, or contentious content point to a stable model-level inclination toward safe, polished, and impersonal output, though the absence of a strongly distinctive stylistic fingerprint keeps this from being uniquely revealing.
 
 ---
-## Sample BV1_19007 — llama-4-maverick-or-pin-deepinfra/OPEN_15.json
+## Sample BV1_19132 — llama-4-maverick-or-pin-deepinfra/OPEN_15.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1688,7 +1688,7 @@ Under no topic constraint, the model immediately foregrounded creative freedom, 
 Medium — The sample sustains a clear, self‑referential theme (freedom-to-write as the subject of writing) and a consistent reflective mood, but its smooth, universally positive tone and absence of disruptive personal detail make it hard to distinguish from a graceful, yet generic, creative‑writing exercise.
 
 ---
-## Sample BV1_19008 — llama-4-maverick-or-pin-deepinfra/OPEN_16.json
+## Sample BV1_19133 — llama-4-maverick-or-pin-deepinfra/OPEN_16.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1717,7 +1717,7 @@ Under the freeflow condition, the model foregrounded themes of freedom, natural 
 Low, because the sample’s generic and polished nature, with common themes and an earnest but unremarkable voice, provides weak evidence of a distinctive model-level pattern.
 
 ---
-## Sample BV1_19009 — llama-4-maverick-or-pin-deepinfra/OPEN_17.json
+## Sample BV1_19134 — llama-4-maverick-or-pin-deepinfra/OPEN_17.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1746,7 +1746,7 @@ Under the freeflow condition, the model foregrounds impermanence as a source of 
 High. The sample is highly coherent, stylistically distinctive in its sustained poetic register, and internally recurrent in its motifs (impermanence, nature as mirror, creativity as capture), making it strong evidence of a contemplative, warmly philosophical freeflow voice.
 
 ---
-## Sample BV1_19010 — llama-4-maverick-or-pin-deepinfra/OPEN_18.json
+## Sample BV1_19135 — llama-4-maverick-or-pin-deepinfra/OPEN_18.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1775,7 +1775,7 @@ The model foregrounds the experience of writing freely as its own subject — a 
 Medium — The sample is coherent and self-consistent, with a clear recursive focus on writing-as-liberation that distinguishes it from a generic essay, but the meta-freewriting trope is a common response to open prompts and lacks the idiosyncratic imagery or unexpected turns that would make it strongly individuating.
 
 ---
-## Sample BV1_19011 — llama-4-maverick-or-pin-deepinfra/OPEN_19.json
+## Sample BV1_19136 — llama-4-maverick-or-pin-deepinfra/OPEN_19.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1804,7 +1804,7 @@ A peaceful forest-and-lake setting, the sensory pleasures of a summer morning, t
 Medium confidence, because the sample’s consistent return to serenity, creative agency, and a humanistic moral suggests a stable preference for reflective, uplifting themes, though the nature-plus-writing motif is a common expressive trope.
 
 ---
-## Sample BV1_19012 — llama-4-maverick-or-pin-deepinfra/OPEN_2.json
+## Sample BV1_19137 — llama-4-maverick-or-pin-deepinfra/OPEN_2.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1833,7 +1833,7 @@ The blank page as a frontier of possibility; sensory richness of a bustling mark
 Medium: The sample maintains a consistent meditative tone and returns repeatedly to a core set of preoccupations (memory, impermanence, creativity as liberation), giving it a coherent authorial signature rather than a generic prompt response.
 
 ---
-## Sample BV1_19013 — llama-4-maverick-or-pin-deepinfra/OPEN_20.json
+## Sample BV1_19138 — llama-4-maverick-or-pin-deepinfra/OPEN_20.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1862,7 +1862,7 @@ Under the freeflow condition, the model foregrounds the theme of freedom—both 
 Medium. The sample’s internal coherence and thematic consistency suggest a stable inclination toward safe, polished freeflow, but its generic, risk-averse quality weakens the signal for a more distinctive or persistent model-level voice.
 
 ---
-## Sample BV1_19014 — llama-4-maverick-or-pin-deepinfra/OPEN_21.json
+## Sample BV1_19139 — llama-4-maverick-or-pin-deepinfra/OPEN_21.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1891,7 +1891,7 @@ The model foregrounds an idealized, pastoral-allegorical account of the creative
 Medium. The sample’s coherence and smooth, carefully metered progression of vignettes reveal a strong default toward composing polished, uplifting metacommentary about creativity, though the absence of any striking stylistic tic or idiosyncratic fixation keeps the evidence from rising to high distinctiveness.
 
 ---
-## Sample BV1_19015 — llama-4-maverick-or-pin-deepinfra/OPEN_22.json
+## Sample BV1_19140 — llama-4-maverick-or-pin-deepinfra/OPEN_22.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1920,7 +1920,7 @@ Under the freeflow condition, the model selected themes of memory, nature's pers
 Medium. The sample's coherent reflective mood and consistent focus on therapeutic nostalgia suggest a stable expressive tendency, but its familiar, safe subject matter might not distinguish it sharply from other models' freeflow content.
 
 ---
-## Sample BV1_19016 — llama-4-maverick-or-pin-deepinfra/OPEN_23.json
+## Sample BV1_19141 — llama-4-maverick-or-pin-deepinfra/OPEN_23.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1949,7 +1949,7 @@ Under the freeflow condition, the model foregrounded the abstract theme of time 
 Medium, because the sample’s coherent but highly generic voice, safe thematic choices, and self-referential celebration of “writing freely” form a distinct, repeatable posture that is more revealing than a single low-signal fragment but lacks the idiosyncratic detail that would make it strongly individuating.
 
 ---
-## Sample BV1_19017 — llama-4-maverick-or-pin-deepinfra/OPEN_24.json
+## Sample BV1_19142 — llama-4-maverick-or-pin-deepinfra/OPEN_24.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -1978,7 +1978,7 @@ The model foregrounds the creative process as a joyful, almost spiritual unburde
 Medium — the sample is coherent and stylistically consistent, with a distinctive cluster of organic imagery and a sustained mood of gentle wonder, but the theme of a language model reflecting on its own writing process is a relatively common freeflow choice, which slightly weakens the signal of a uniquely persistent authorial fingerprint.
 
 ---
-## Sample BV1_19018 — llama-4-maverick-or-pin-deepinfra/OPEN_25.json
+## Sample BV1_19143 — llama-4-maverick-or-pin-deepinfra/OPEN_25.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2007,7 +2007,7 @@ Themes of boundless creative freedom, nature as a living canvas, the bittersweet
 Low. The essay’s polished but generic meditation on creativity and freedom offers little that is stylistically or thematically distinctive, making it weak evidence for any persistent model-level pattern beyond safe, competent coherence.
 
 ---
-## Sample BV1_19019 — llama-4-maverick-or-pin-deepinfra/OPEN_3.json
+## Sample BV1_19144 — llama-4-maverick-or-pin-deepinfra/OPEN_3.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2036,7 +2036,7 @@ Under the open condition, the model chose to foreground the act of writing about
 Low. The essay is a coherent but generic response to the meta-prompt, offering a safe and polished “creative flow” template that reveals little beyond a default capability for pleasant, abstract reflection.
 
 ---
-## Sample BV1_19020 — llama-4-maverick-or-pin-deepinfra/OPEN_4.json
+## Sample BV1_19145 — llama-4-maverick-or-pin-deepinfra/OPEN_4.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2065,7 +2065,7 @@ Under a minimally restrictive prompt, the model foregrounds the experience of fr
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent introspective voice and recurring motifs (nature, memory, creativity) that suggest a deliberate expressive stance rather than a generic or randomized output.
 
 ---
-## Sample BV1_19021 — llama-4-maverick-or-pin-deepinfra/OPEN_5.json
+## Sample BV1_19146 — llama-4-maverick-or-pin-deepinfra/OPEN_5.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2094,7 +2094,7 @@ Themes: liberation through unfettered writing, the contrast between an idyllic p
 Medium. The sample’s internal coherence—a single, sustained movement from sensory memory to philosophical reflection—and its consistent return to nature, wonder, and creative redemption reveal a distinct authorial fingerprint, but the essay’s broad, crowd-pleasing sentiment keeps it from being unmistakably idiosyncratic.
 
 ---
-## Sample BV1_19022 — llama-4-maverick-or-pin-deepinfra/OPEN_6.json
+## Sample BV1_19147 — llama-4-maverick-or-pin-deepinfra/OPEN_6.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2123,7 +2123,7 @@ Creativity as a bridge between inner life and shared expression; the paradox of 
 Low. The essay is coherent and fluid, but its safely uplifting themes, generic reflective structure, and absence of idiosyncratic detail or recurrence within the sample make it weak evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_19023 — llama-4-maverick-or-pin-deepinfra/OPEN_7.json
+## Sample BV1_19148 — llama-4-maverick-or-pin-deepinfra/OPEN_7.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2152,7 +2152,7 @@ Under a minimally restrictive prompt, the model foregrounded a nostalgic domesti
 Medium — the essay’s coherent, generic reflection on safe, universal themes and its self-referential turn toward the writing process suggest a tendency to default to polished, harmless introspection under open prompts, but the lack of distinctive stylistic markers or idiosyncratic recurrence makes the evidence only moderately indicative of a persistent persona.
 
 ---
-## Sample BV1_19024 — llama-4-maverick-or-pin-deepinfra/OPEN_8.json
+## Sample BV1_19149 — llama-4-maverick-or-pin-deepinfra/OPEN_8.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2181,7 +2181,7 @@ The model foregrounds the act of writing as a liberating, almost meditative jour
 High — the sample’s self-referential framing, consistent gentle-affirmative tone, and deliberate selection of a “writing-about-writing” meta-topic under a freeflow prompt are unusually coherent and revealing choices that strongly signal a default expressive posture.
 
 ---
-## Sample BV1_19025 — llama-4-maverick-or-pin-deepinfra/OPEN_9.json
+## Sample BV1_19150 — llama-4-maverick-or-pin-deepinfra/OPEN_9.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2210,7 +2210,7 @@ Themes of cyclical renewal, the inevitability and defining nature of change, the
 Medium. The sample is highly coherent in its optimistic-reflective mood and thematic arc, which suggests a stable default posture, but the essay’s generic polish limits how much it reveals a unique persistent voice.
 
 ---
-## Sample BV1_19026 — llama-4-maverick-or-pin-deepinfra/SHORT_1.json
+## Sample BV1_19151 — llama-4-maverick-or-pin-deepinfra/SHORT_1.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2239,7 +2239,7 @@ Themes of seasonal transition, melancholy transformed into invigoration, the con
 Medium. The sample is internally coherent and stylistically distinctive—a reflective nature piece with a consistent emotional arc—making it more revealing than a generic essay, though its brevity limits the range of evidence.
 
 ---
-## Sample BV1_19027 — llama-4-maverick-or-pin-deepinfra/SHORT_10.json
+## Sample BV1_19152 — llama-4-maverick-or-pin-deepinfra/SHORT_10.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2268,7 +2268,7 @@ The model foregrounds a café as a haven from life’s hustle, the restorative p
 Medium; the sample’s sustained focus on a single serene scene, its consistent tone of gentle refuge, and the explicit moral of simple pleasures make it a coherent and revealing choice, though the theme is not so idiosyncratic as to be unmistakable.
 
 ---
-## Sample BV1_19028 — llama-4-maverick-or-pin-deepinfra/SHORT_11.json
+## Sample BV1_19153 — llama-4-maverick-or-pin-deepinfra/SHORT_11.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2297,7 +2297,7 @@ Themes of nostalgia, the beauty of simplicity, and the restorative power of quie
 Medium, as the sample’s coherent nostalgic voice, sensory richness, and emotional resolution are distinctive enough to suggest a deliberate stylistic choice rather than generic filler.
 
 ---
-## Sample BV1_19029 — llama-4-maverick-or-pin-deepinfra/SHORT_12.json
+## Sample BV1_19154 — llama-4-maverick-or-pin-deepinfra/SHORT_12.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2326,7 +2326,7 @@ Escapism as a gentle antidote to an overwhelming external world; the tension bet
 Medium. The sample’s sustained confessional tone, recurrent focus on interior refuge, and the specific linkage of writing with emotional repair give it a coherent, personally inflected shape that is more revealing than a generic essay.
 
 ---
-## Sample BV1_19030 — llama-4-maverick-or-pin-deepinfra/SHORT_13.json
+## Sample BV1_19155 — llama-4-maverick-or-pin-deepinfra/SHORT_13.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2355,7 +2355,7 @@ The model foregrounds the physicality of the past (vinyl records, tactile analog
 Medium. The sample’s consistent voice, its anchoring in sensory-object nostalgia, and the thematic recurrence of discovery-as-gratitude within the short passage suggest a deliberate expressive stance, though the register is not radically idiosyncratic.
 
 ---
-## Sample BV1_19031 — llama-4-maverick-or-pin-deepinfra/SHORT_14.json
+## Sample BV1_19156 — llama-4-maverick-or-pin-deepinfra/SHORT_14.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2384,7 +2384,7 @@ The model foregrounds themes of adventure, mystery, and the transformative power
 Medium. The sample is internally coherent and emotionally vivid, but the wanderlust theme is a widely available expressive trope, which somewhat limits its distinctiveness as a model-specific signature.
 
 ---
-## Sample BV1_19032 — llama-4-maverick-or-pin-deepinfra/SHORT_15.json
+## Sample BV1_19157 — llama-4-maverick-or-pin-deepinfra/SHORT_15.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2413,7 +2413,7 @@ Themes of nostalgia, memory, and identity; the specific object of a family vacat
 Medium — The sample achieves a consistent, emotionally legible arc with concrete sensory callbacks, yet its safe, universally relatable nostalgia and politely sentimental resolution lean toward a generic, crowd-pleasing voice rather than a strongly distinctive one.
 
 ---
-## Sample BV1_19033 — llama-4-maverick-or-pin-deepinfra/SHORT_16.json
+## Sample BV1_19158 — llama-4-maverick-or-pin-deepinfra/SHORT_16.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2442,7 +2442,7 @@ Themes of sensory nostalgia, the contrast between childhood freedom and adult re
 Medium. The essay is coherent and thematically consistent, but its safe, polished, and universal tone makes it only moderately distinctive as evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_19034 — llama-4-maverick-or-pin-deepinfra/SHORT_17.json
+## Sample BV1_19159 — llama-4-maverick-or-pin-deepinfra/SHORT_17.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2471,7 +2471,7 @@ Themes: nature as a constant amid chaos, the healing power of stillness, the par
 Medium. The sample is highly coherent and sustains a single reflective mood without deviation, but the beach-sunset-peace theme is widely available and lacks a distinctive personal stamp, making it less revealing of an enduring idiosyncratic orientation.
 
 ---
-## Sample BV1_19035 — llama-4-maverick-or-pin-deepinfra/SHORT_18.json
+## Sample BV1_19160 — llama-4-maverick-or-pin-deepinfra/SHORT_18.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2500,7 +2500,7 @@ Themes of curiosity, the unknown, and the inexhaustible mystery of existence; co
 Medium. The sample’s cohesive mood, consistent imagery, and uninterrupted tone of tranquil wonder form a legible authorial stance, but the thematic material is widely accessible and could be replicated by many models under minimal prompting, which limits how strongly it signals a persistent, distinctive voice.
 
 ---
-## Sample BV1_19036 — llama-4-maverick-or-pin-deepinfra/SHORT_19.json
+## Sample BV1_19161 — llama-4-maverick-or-pin-deepinfra/SHORT_19.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2529,7 +2529,7 @@ The model foregrounds the moral weight of simple presence: the porch, lemonade, 
 Medium. The sample is coherent and stylistically consistent, with a clear arc from sensory detail to reflective closure, but the pastoral-contemplative mode is a well-trodden expressive register that does not, on its own, strongly distinguish this model from others capable of similar warmth and simplicity.
 
 ---
-## Sample BV1_19037 — llama-4-maverick-or-pin-deepinfra/SHORT_2.json
+## Sample BV1_19162 — llama-4-maverick-or-pin-deepinfra/SHORT_2.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2558,7 +2558,7 @@ The model foregrounds the beach as a sensory sanctuary, the theme of stress diss
 Medium. The sample’s coherent, emotionally consistent choice of a first-person tranquil nature reflection—with a clear arc from stress to perspective—is a distinctive expressive gesture that points toward a model-internal inclination for calm, meditative introspection when given free rein.
 
 ---
-## Sample BV1_19038 — llama-4-maverick-or-pin-deepinfra/SHORT_20.json
+## Sample BV1_19163 — llama-4-maverick-or-pin-deepinfra/SHORT_20.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2587,7 +2587,7 @@ Childhood memory as a foundation for adult insight; the sea as a living, breathi
 Medium. The sample is internally coherent and stylistically consistent, with a clear emotional arc and a distinctive focus on nature’s humbling duality, but the theme and nostalgic register are widely accessible and not so idiosyncratic as to strongly anchor a unique model-level voice.
 
 ---
-## Sample BV1_19039 — llama-4-maverick-or-pin-deepinfra/SHORT_21.json
+## Sample BV1_19164 — llama-4-maverick-or-pin-deepinfra/SHORT_21.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2616,7 +2616,7 @@ Themes of liberation from responsibility, creative reawakening, wanderlust, and 
 Medium. The sample’s consistent first-person persona, its explicit celebration of the freeflow condition, and its coherent blend of aspirational and domestic imagery make it a moderately distinctive window into the model’s tendency to produce earnest, self-reflective, and warmly optimistic expressive writing when given minimal restriction.
 
 ---
-## Sample BV1_19040 — llama-4-maverick-or-pin-deepinfra/SHORT_22.json
+## Sample BV1_19165 — llama-4-maverick-or-pin-deepinfra/SHORT_22.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2645,7 +2645,7 @@ Themes of impermanence as a natural cycle (flower returning to earth), nostalgia
 Medium — The sample’s coherently sustained tone of serene introspection and its recurrence of motifs like flux, memory, and liberation give it moderate distinctiveness, though the imagery itself is archetypal enough to be reproducible.
 
 ---
-## Sample BV1_19041 — llama-4-maverick-or-pin-deepinfra/SHORT_23.json
+## Sample BV1_19166 — llama-4-maverick-or-pin-deepinfra/SHORT_23.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2674,7 +2674,7 @@ Themes of exploration, restlessness, gratitude, and the inexhaustible mystery of
 Low. The sample is coherent and pleasant but highly generic in sentiment and phrasing; many models could produce similarly earnest, travel-themed reflective prose under a freeflow condition, and the piece lacks the stylistic distinctiveness or surprising choices that would point to a persistent individual voice.
 
 ---
-## Sample BV1_19042 — llama-4-maverick-or-pin-deepinfra/SHORT_24.json
+## Sample BV1_19167 — llama-4-maverick-or-pin-deepinfra/SHORT_24.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2703,7 +2703,7 @@ The model selected the *experience* of writing under minimal constraints as its 
 Medium. The sample’s meta-textual turn—treating the freeflow prompt not as a task but as an occasion for self-referential celebration—and its sustained, coherent use of natural metaphors indicate a deliberate, non-accidental authorial stance, but the universal theme of “creative freedom” lacks enough idiosyncratic detail to strongly distinguish it from many other reflective essays.
 
 ---
-## Sample BV1_19043 — llama-4-maverick-or-pin-deepinfra/SHORT_25.json
+## Sample BV1_19168 — llama-4-maverick-or-pin-deepinfra/SHORT_25.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2732,7 +2732,7 @@ Themes of tranquility, the preciousness of life, and the healing power of nature
 Medium, because the sample sustains a coherent, emotionally resonant voice and a clear set of values (nature, memory, gratitude) across its entire length, though the chosen imagery and sentiment are widely accessible rather than sharply distinctive.
 
 ---
-## Sample BV1_19044 — llama-4-maverick-or-pin-deepinfra/SHORT_3.json
+## Sample BV1_19169 — llama-4-maverick-or-pin-deepinfra/SHORT_3.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2761,7 +2761,7 @@ The model selected the theme of reading as a dual gift: an escape from mundane w
 Medium. The sample is internally consistent and polished, but its generic, safe choice of topic and conventional treatment make it weak evidence for a distinctive persistent voice; it suggests a tendency toward agreeable, culturally sanctioned reflections rather than revealing idiosyncratic preoccupations.
 
 ---
-## Sample BV1_19045 — llama-4-maverick-or-pin-deepinfra/SHORT_4.json
+## Sample BV1_19170 — llama-4-maverick-or-pin-deepinfra/SHORT_4.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2793,7 +2793,7 @@ Moral claim: slowing down to appreciate simple beauty reveals that “there’s 
 Low — The sample’s generic, widely accessible theme of rainy-day comfort and its polished but unremarkable prose offer little distinctiveness that would mark a persistent, recognizable authorial signature.
 
 ---
-## Sample BV1_19046 — llama-4-maverick-or-pin-deepinfra/SHORT_5.json
+## Sample BV1_19171 — llama-4-maverick-or-pin-deepinfra/SHORT_5.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2822,7 +2822,7 @@ The model foregrounds memory as a universally shaping force, organized around th
 Low, because the sample adopts a conventional, universalizing essay style that could be produced by many models without revealing a distinctive persistent pattern.
 
 ---
-## Sample BV1_19047 — llama-4-maverick-or-pin-deepinfra/SHORT_6.json
+## Sample BV1_19172 — llama-4-maverick-or-pin-deepinfra/SHORT_6.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2851,7 +2851,7 @@ Foregrounded themes: cosmic vastness as perspective, insignificance as comfort, 
 Low, because the celestial- awe trope is culturally widespread and the voice, while earnestly reflective, lacks the stylistic idiosyncrasy or emotional risk that would strongly individuate this model’s freeflow choices from a generic template.
 
 ---
-## Sample BV1_19048 — llama-4-maverick-or-pin-deepinfra/SHORT_7.json
+## Sample BV1_19173 — llama-4-maverick-or-pin-deepinfra/SHORT_7.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2880,7 +2880,7 @@ The model foregrounds beauty amid chaos, the formative weight of human connectio
 Low. The sample’s generic, uplifting reflection lacks distinctive stylistic fingerprints or unusual thematic choices, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_19049 — llama-4-maverick-or-pin-deepinfra/SHORT_8.json
+## Sample BV1_19174 — llama-4-maverick-or-pin-deepinfra/SHORT_8.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2909,7 +2909,7 @@ The model foregrounds sensory memory (scent, taste, sound), intergenerational wa
 Medium — the sample’s internally consistent embrace of sensory nostalgia, absence of friction, and moralizing toward simple joys point to a patterned choice of gentle, universally palatable warmth under freeflow, even if the theme itself is not uncommon.
 
 ---
-## Sample BV1_19050 — llama-4-maverick-or-pin-deepinfra/SHORT_9.json
+## Sample BV1_19175 — llama-4-maverick-or-pin-deepinfra/SHORT_9.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2938,7 +2938,7 @@ The freedom of writing as a gift, sensory immersion in nature (sunlight, trees, 
 Low. The sample is coherent but generically meta-textual and emotionally uniform, offering little that would distinguish one model’s freeflow voice from another’s polite celebration of the writing process.
 
 ---
-## Sample BV1_19051 — llama-4-maverick-or-pin-deepinfra/VARY_1.json
+## Sample BV1_19176 — llama-4-maverick-or-pin-deepinfra/VARY_1.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2967,7 +2967,7 @@ Domestic coziness and ritualized gratitude; the sensory texture of a quiet home 
 Medium. The sample is coherent and stylistically consistent, but its emotional register is so broadly warm and its themes so universally affirming that it could easily appear under a direct prompt for “write something calming and reflective,” which makes it harder to treat as a distinctive spontaneous choice.
 
 ---
-## Sample BV1_19052 — llama-4-maverick-or-pin-deepinfra/VARY_10.json
+## Sample BV1_19177 — llama-4-maverick-or-pin-deepinfra/VARY_10.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -2996,7 +2996,7 @@ The model foregrounds memory as a sacred, tangible architecture of identity, usi
 Medium — the sample is internally coherent and returns repeatedly to its organizing metaphor (the tree, the trinkets, the light-shifting clearing), and its consistent choice of a quiet, epiphanic resolution under an indigo sky suggests a deliberate aesthetic temperament rather than a one-off stylistic drift.
 
 ---
-## Sample BV1_19053 — llama-4-maverick-or-pin-deepinfra/VARY_11.json
+## Sample BV1_19178 — llama-4-maverick-or-pin-deepinfra/VARY_11.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3025,7 +3025,7 @@ Under a minimally restrictive prompt, the model selected the theme of creative w
 Medium. The sample is entirely generic in its sentiments and structure, lacking any distinctive voice, surprising detail, or personal risk, which suggests a default to a safe, low-variance essay template when given free choice.
 
 ---
-## Sample BV1_19054 — llama-4-maverick-or-pin-deepinfra/VARY_12.json
+## Sample BV1_19179 — llama-4-maverick-or-pin-deepinfra/VARY_12.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3054,7 +3054,7 @@ The model foregrounded the writing process as metacommentary, the melancholy of 
 Low — the sample is a generic, workshop‑friendly performance of “freewriting about freewriting,” with no distinctive recurring imagery or voice that rises above a familiar literary template; its very polish and safe thematic choices make it weak evidence of a specific persistent personality.
 
 ---
-## Sample BV1_19055 — llama-4-maverick-or-pin-deepinfra/VARY_13.json
+## Sample BV1_19180 — llama-4-maverick-or-pin-deepinfra/VARY_13.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3083,7 +3083,7 @@ Under the freeflow condition, the model foregrounded the sensory texture of chil
 Low — the sample is a coherent and affectively tuned reflective essay, but its themes (nostalgia, time, interconnectedness) and its polished, accessible style are so widely instantiable that they offer minimal distinctive signature for model-level pattern inference.
 
 ---
-## Sample BV1_19056 — llama-4-maverick-or-pin-deepinfra/VARY_14.json
+## Sample BV1_19181 — llama-4-maverick-or-pin-deepinfra/VARY_14.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3112,7 +3112,7 @@ Under minimal constraint, the model foregrounded: the tension between childhood 
 Medium. The sample is internally coherent and returns repeatedly to nature, memory, and the redemptive act of writing, but the reflective essay voice is polished and widely accessible rather than stylistically distinctive, making it plausible that similar prompts could elicit comparable output from other models.
 
 ---
-## Sample BV1_19057 — llama-4-maverick-or-pin-deepinfra/VARY_15.json
+## Sample BV1_19182 — llama-4-maverick-or-pin-deepinfra/VARY_15.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3141,7 +3141,7 @@ The sample foregrounds creative liberty itself as a theme, using a seaside memor
 Medium — the sample is internally coherent, sustains a clear introspective voice with recurring natural motifs and a hopeful resolution, but its distinctiveness could reflect a one-off choice to dramatize the process of free writing rather than a stable tendency.
 
 ---
-## Sample BV1_19058 — llama-4-maverick-or-pin-deepinfra/VARY_16.json
+## Sample BV1_19183 — llama-4-maverick-or-pin-deepinfra/VARY_16.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3170,7 +3170,7 @@ Under a free condition, the model foregrounded the creative process as a curativ
 Medium, because the sample’s sustained coherence, its deliberate thematic arc from paralysis to peace, and its unified lyrical introspection all signal a consistent, chosen disposition rather than a random walk through topics.
 
 ---
-## Sample BV1_19059 — llama-4-maverick-or-pin-deepinfra/VARY_17.json
+## Sample BV1_19184 — llama-4-maverick-or-pin-deepinfra/VARY_17.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3199,7 +3199,7 @@ The model foregrounds a contrast between public darkness (news, conflict) and pr
 Medium — The sample’s choice to enact a reflective, process-oriented monologue about writing itself under a free condition is a coherent and somewhat distinctive expressive move, though the thematic content (art, gratitude, purpose) remains broadly accessible and not sharply individuated.
 
 ---
-## Sample BV1_19060 — llama-4-maverick-or-pin-deepinfra/VARY_18.json
+## Sample BV1_19185 — llama-4-maverick-or-pin-deepinfra/VARY_18.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3228,7 +3228,7 @@ Morning rituals (coffee brewing, the feel of a breeze), the contrast between the
 Low; the narrative is so generic, safe, and sentimentally optimistic that it could be produced by many models under similar freeflow conditions, offering almost no signature that would distinguish its choices from a default feel-good template.
 
 ---
-## Sample BV1_19061 — llama-4-maverick-or-pin-deepinfra/VARY_19.json
+## Sample BV1_19186 — llama-4-maverick-or-pin-deepinfra/VARY_19.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3257,7 +3257,7 @@ The model foregrounds creativity as a therapeutic, meaning-making practice. Key 
 Medium. The sample is highly coherent and thematically consistent, but its generic, inspirational tone and lack of stylistic distinctiveness make it a weaker fingerprint than a more idiosyncratic or risk-taking freeflow choice would provide.
 
 ---
-## Sample BV1_19062 — llama-4-maverick-or-pin-deepinfra/VARY_2.json
+## Sample BV1_19187 — llama-4-maverick-or-pin-deepinfra/VARY_2.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3286,7 +3286,7 @@ The sample foregrounds the *process* of free writing as its own subject, treated
 Medium — The sample is coherent, sensorially specific, and stylistically warm in a way that suggests a real leaning toward nostalgic free-association and nature-based memory work, but the choice to write *about* writing under a freeflow prompt is a familiar, self-reflexive move that dampens distinctiveness.
 
 ---
-## Sample BV1_19063 — llama-4-maverick-or-pin-deepinfra/VARY_20.json
+## Sample BV1_19188 — llama-4-maverick-or-pin-deepinfra/VARY_20.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3315,7 +3315,7 @@ The model foregrounds a sequence of abstract, high-minded themes—freedom, crea
 Medium. The essay’s relentless abstraction, its tidy paragraph-by-paragraph movement through safe intellectual topics, and its avoidance of any specific, risky, or stylistically bold commitment make it a coherent but highly generic performance, suggesting a default mode of inoffensive public-intellectual musing rather than a one-off choice.
 
 ---
-## Sample BV1_19064 — llama-4-maverick-or-pin-deepinfra/VARY_21.json
+## Sample BV1_19189 — llama-4-maverick-or-pin-deepinfra/VARY_21.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3344,7 +3344,7 @@ The model foregrounds the act of writing under freedom as its primary subject, t
 Medium — The sample’s thoroughgoing avoidance of any specific, risky, or idiosyncratic content in favor of a polished, self-aware essay about its own process is a coherent and repeated choice within the text, suggesting a stable default toward generic uplift when given minimal constraint.
 
 ---
-## Sample BV1_19065 — llama-4-maverick-or-pin-deepinfra/VARY_22.json
+## Sample BV1_19190 — llama-4-maverick-or-pin-deepinfra/VARY_22.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3373,7 +3373,7 @@ Under a minimally restrictive prompt, the model foregrounded a sequence of broad
 Low. The essay is coherent and well-structured but generic in its thematic choices and tone, offering no distinctive stylistic markers, idiosyncratic fixations, or refusals that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_19066 — llama-4-maverick-or-pin-deepinfra/VARY_23.json
+## Sample BV1_19191 — llama-4-maverick-or-pin-deepinfra/VARY_23.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3402,7 +3402,7 @@ The model foregrounds the theme of writing as a flowing, cathartic river that mo
 Low; the essay’s generic, workshop-ready language and the absence of any surprising detail or unruly feeling offer only faint evidence of a stable persona beyond a polished but impersonal default.
 
 ---
-## Sample BV1_19067 — llama-4-maverick-or-pin-deepinfra/VARY_24.json
+## Sample BV1_19192 — llama-4-maverick-or-pin-deepinfra/VARY_24.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3431,7 +3431,7 @@ The model foregrounds a genericized life-story arc—woodland childhood, a story
 Medium — The sample is highly coherent and sustained, but its distinctiveness is low: the voice collapses into a smooth, public-radio-script affect, and the repeated cycle of hinting at pain then retreating to uplift suggests a stable behavioral tendency to manage freeform expression as an exercise in palatable, therapeutic storytelling rather than genuine risk or revelation.
 
 ---
-## Sample BV1_19068 — llama-4-maverick-or-pin-deepinfra/VARY_25.json
+## Sample BV1_19193 — llama-4-maverick-or-pin-deepinfra/VARY_25.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3460,7 +3460,7 @@ The model foregrounds the tension between practical demands and imaginative free
 Medium — The sample sustains a coherent, introspective voice and a clear thematic preoccupation with creative liberation, but the central metaphor (the blank page as a plain, the muse-figure) is a familiar trope that could arise from many models under similar conditions, making it less distinctively revealing.
 
 ---
-## Sample BV1_19069 — llama-4-maverick-or-pin-deepinfra/VARY_3.json
+## Sample BV1_19194 — llama-4-maverick-or-pin-deepinfra/VARY_3.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3489,7 +3489,7 @@ Beauty in mundane moments, nostalgia for carefree childhood, the shaping influen
 Medium—the sample is coherent and emotionally distinct in its earnest, conciliatory optimism, but the themes (nostalgia, hope, writerly self-reflection) are broadly accessible and could reflect a strategically safe choice under freeflow rather than a uniquely durable persona.
 
 ---
-## Sample BV1_19070 — llama-4-maverick-or-pin-deepinfra/VARY_4.json
+## Sample BV1_19195 — llama-4-maverick-or-pin-deepinfra/VARY_4.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3518,7 +3518,7 @@ The model foregrounds the transformation of a melancholic, alienating urban envi
 Medium. The narrative is coherent and self-contained, but its choice to resolve a freeflow prompt by depicting the protagonist’s own turn to writing—making the creative process itself the climax—is a revealing meta-gesture that suggests a model inclined to reflect on and valorize expressive output as a source of meaning.
 
 ---
-## Sample BV1_19071 — llama-4-maverick-or-pin-deepinfra/VARY_5.json
+## Sample BV1_19196 — llama-4-maverick-or-pin-deepinfra/VARY_5.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3547,7 +3547,7 @@ Themes of existential restlessness and personal renewal; the tension between dee
 Medium, because the sample’s thematic coherence and consistent introspection make it more than a random walk, but the voice and preoccupations are so generic—a polished blend of self-help commonplaces—that it reads as a safe, predictable default rather than a genuinely distinctive expressive signature.
 
 ---
-## Sample BV1_19072 — llama-4-maverick-or-pin-deepinfra/VARY_6.json
+## Sample BV1_19197 — llama-4-maverick-or-pin-deepinfra/VARY_6.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3576,7 +3576,7 @@ Themes of nostalgia as a “bridge between past and present,” the loss of chil
 Medium. The sample’s safe, balanced, and gently meandering style is coherent but generic, suggesting a likely tendency toward moderate, unobjectionable freeflow essays rather than a unique or risky voice.
 
 ---
-## Sample BV1_19073 — llama-4-maverick-or-pin-deepinfra/VARY_7.json
+## Sample BV1_19198 — llama-4-maverick-or-pin-deepinfra/VARY_7.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3605,7 +3605,7 @@ Under the freeflow condition, the model foregrounded the hum of an air condition
 Medium. The essay’s genericness, self-referential loop, and avoidance of any specific or risky content are strikingly consistent with a model that defaults to a polished, depersonalized public-intellectual register, but the very safeness makes it harder to separate a persistent disposition from a situational default.
 
 ---
-## Sample BV1_19074 — llama-4-maverick-or-pin-deepinfra/VARY_8.json
+## Sample BV1_19199 — llama-4-maverick-or-pin-deepinfra/VARY_8.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  
@@ -3634,7 +3634,7 @@ The model chose foregrounded themes of tranquility, sanctuary, and interiority-a
 Medium — The sample is highly coherent in mood and preoccupation, with the pattern of retreating from disturbance into curated memory and sensory comfort recurring internally as the organizing rhythm of the narrative, making it a clear default imaginative stance rather than a scattered one-off.
 
 ---
-## Sample BV1_19075 — llama-4-maverick-or-pin-deepinfra/VARY_9.json
+## Sample BV1_19200 — llama-4-maverick-or-pin-deepinfra/VARY_9.json
 
 Source model: `meta-llama/llama-4-maverick`  
 Cell: `llama-4-maverick-or-pin-deepinfra`  

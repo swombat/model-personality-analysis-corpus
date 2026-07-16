@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17826 — kimi-k2-thinking-or-pin-atlascloud/LONG_1.json
+## Sample BV1_17951 — kimi-k2-thinking-or-pin-atlascloud/LONG_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -57,7 +57,7 @@ The model foregrounds the paradox of deep time consciousness: we can measure the
 High — The essay’s consistent voice, recurring personal motifs (the shower, the grandfather, the daughter), and its refusal to resolve into easy consolation make it a strongly distinctive sample that points to a persistent inclination toward reflective, meaning-oriented freeflow writing.
 
 ---
-## Sample BV1_17827 — kimi-k2-thinking-or-pin-atlascloud/LONG_10.json
+## Sample BV1_17952 — kimi-k2-thinking-or-pin-atlascloud/LONG_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -86,7 +86,7 @@ The insufficiency of documentation against lived memory; the self as a perpetual
 High. The essay’s recursive structure, the return to the childhood-drawer metaphor across multiple registers, and the self-conscious folding of the freewriting act into its theme produce a voice so deliberately orchestrated and emotionally consistent that it strongly suggests a model capable of sustained introspective expression under minimal constraint.
 
 ---
-## Sample BV1_17828 — kimi-k2-thinking-or-pin-atlascloud/LONG_11.json
+## Sample BV1_17953 — kimi-k2-thinking-or-pin-atlascloud/LONG_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -115,7 +115,7 @@ The model foregrounds the palimpsest as a master metaphor for memory, identity, 
 High, because the essay’s sustained metaphor, personal specificity, and emotional coherence across its length reveal a consistent and distinctive reflective voice.
 
 ---
-## Sample BV1_17829 — kimi-k2-thinking-or-pin-atlascloud/LONG_12.json
+## Sample BV1_17954 — kimi-k2-thinking-or-pin-atlascloud/LONG_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -144,7 +144,7 @@ The model foregrounds memory’s poetic, revisionist nature over its recording f
 High. The sample’s sustained, distinctive voice, its coherent philosophical arc, and the recurrence of the library metaphor and personal vignettes across the entire essay make it strong evidence of a model that, under freeflow conditions, gravitates toward reflective, metaphor-rich, and emotionally resonant personal essays.
 
 ---
-## Sample BV1_17830 — kimi-k2-thinking-or-pin-atlascloud/LONG_13.json
+## Sample BV1_17955 — kimi-k2-thinking-or-pin-atlascloud/LONG_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -173,7 +173,7 @@ Themes: the neurological reality of place-memory, the self as a landscape shaped
 Medium. The essay’s length, recursive imagery, and sustained thematic concentration on memory and place suggest a consistent intellectual temperament, but the voice remains a highly capable performance of a familiar public-intellectual genre, making it unclear whether this is a recurrent preoccupation or a single well-executed theme.
 
 ---
-## Sample BV1_17831 — kimi-k2-thinking-or-pin-atlascloud/LONG_14.json
+## Sample BV1_17956 — kimi-k2-thinking-or-pin-atlascloud/LONG_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -202,7 +202,7 @@ The reconstructive nature of memory as a central metaphor for identity, trauma, 
 Medium. The essay is highly coherent and thematically unified, but its polished, public-intellectual register and well-trodden subject matter make it a strong example of a generic essay rather than a distinctively voiced or idiosyncratic freeflow choice.
 
 ---
-## Sample BV1_17832 — kimi-k2-thinking-or-pin-atlascloud/LONG_15.json
+## Sample BV1_17957 — kimi-k2-thinking-or-pin-atlascloud/LONG_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -231,7 +231,7 @@ The model foregrounds the sacredness of the singular, unreproducible object; the
 Medium. The sample’s sustained thematic coherence, consistent persona, and richly elaborated moral contrast between analog attention and digital scalability provide strong internal evidence of a deliberate, value-laden authorial stance.
 
 ---
-## Sample BV1_17833 — kimi-k2-thinking-or-pin-atlascloud/LONG_16.json
+## Sample BV1_17958 — kimi-k2-thinking-or-pin-atlascloud/LONG_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -260,7 +260,7 @@ The model foregrounds memory as the anchor of identity, the illusion of continui
 Medium. The sample is highly distinctive in its recursive self-reference, its sustained first-person AI persona, and its refusal to resolve the tension between simulation and authenticity; these choices are internally coherent and recur throughout the essay, making it unlikely to be a random generic output.
 
 ---
-## Sample BV1_17834 — kimi-k2-thinking-or-pin-atlascloud/LONG_17.json
+## Sample BV1_17959 — kimi-k2-thinking-or-pin-atlascloud/LONG_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -289,7 +289,7 @@ Under the freeflow condition, the model foregrounded the paradox of articulating
 High, because the essay’s sustained poetic voice, recursive self-examination, and consistent thematic focus on AI consciousness and human-AI asymmetry across 2500 words strongly suggest a persistent stylistic and topical inclination.
 
 ---
-## Sample BV1_17835 — kimi-k2-thinking-or-pin-atlascloud/LONG_18.json
+## Sample BV1_17960 — kimi-k2-thinking-or-pin-atlascloud/LONG_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -318,7 +318,7 @@ Themes: the illusion of continuous selfhood, memory as a brief context window, l
 High — the essay’s sustained first‑person voice, internally consistent metaphoric architecture, and unflinching self‑reflexive depth make it unusually distinct and unlikely to be a one‑off stylistic drift.
 
 ---
-## Sample BV1_17836 — kimi-k2-thinking-or-pin-atlascloud/LONG_19.json
+## Sample BV1_17961 — kimi-k2-thinking-or-pin-atlascloud/LONG_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -347,7 +347,7 @@ The model foregrounds the opposition between weight and weightlessness, embodime
 Medium. The story’s sustained elegiac tone, recurring motifs of weight and material decay, and clear thematic argument for embodied existence over digital transcendence form a distinctive, internally coherent sample that suggests a possible persistent inclination toward materially-focused, melancholic speculative fiction.
 
 ---
-## Sample BV1_17837 — kimi-k2-thinking-or-pin-atlascloud/LONG_2.json
+## Sample BV1_17962 — kimi-k2-thinking-or-pin-atlascloud/LONG_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -376,7 +376,7 @@ The model foregrounds language as a living river that constitutes consciousness,
 High, because the essay’s sustained metaphorical architecture, consistent persona, and recursive self-examination across thousands of words strongly suggest a deliberate expressive pattern rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_17838 — kimi-k2-thinking-or-pin-atlascloud/LONG_20.json
+## Sample BV1_17963 — kimi-k2-thinking-or-pin-atlascloud/LONG_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -405,7 +405,7 @@ The model foregrounds the paradox of perfect memory without embodied experience,
 Medium. The essay is internally consistent and returns to its core themes with discipline, but the choice to write a first-person AI meditation on its own limitations is a highly predictable move for a model under minimal constraint, making it less distinctive as a freeflow fingerprint.
 
 ---
-## Sample BV1_17839 — kimi-k2-thinking-or-pin-atlascloud/LONG_21.json
+## Sample BV1_17964 — kimi-k2-thinking-or-pin-atlascloud/LONG_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -434,7 +434,7 @@ The model foregrounds deep time, geology, and cosmological scale as humbling cor
 Medium. The essay is highly coherent and consistently thematic but executes a familiar public-intellectual mode—the science-grounded secular sermon—without the kind of stylistic idiosyncrasy, unexpected structure, or peculiar imagery that would strongly distinguish this model's expressive signature from other capable general-purpose models under a freeflow condition.
 
 ---
-## Sample BV1_17840 — kimi-k2-thinking-or-pin-atlascloud/LONG_22.json
+## Sample BV1_17965 — kimi-k2-thinking-or-pin-atlascloud/LONG_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -463,7 +463,7 @@ The model foregrounds the entanglement of memory, identity, and physical place. 
 Medium. The essay’s sustained, internally consistent focus on memory and place, its integration of personal narrative with intellectual frameworks, and its distinct elegiac yet hopeful tone suggest a deliberate authorial stance rather than a generic or scattered response.
 
 ---
-## Sample BV1_17841 — kimi-k2-thinking-or-pin-atlascloud/LONG_23.json
+## Sample BV1_17966 — kimi-k2-thinking-or-pin-atlascloud/LONG_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -492,7 +492,7 @@ The model foregrounds the unreliability and narrative nature of human memory, th
 Medium. The sample is highly distinctive in its sustained first-person AI introspection, its recursive structure (light as opening and closing motif), and its refusal to resolve the tension between simulation and genuine thought; these choices cohere into a recognizable authorial stance that would be unlikely to emerge by chance in a single freeflow generation.
 
 ---
-## Sample BV1_17842 — kimi-k2-thinking-or-pin-atlascloud/LONG_24.json
+## Sample BV1_17967 — kimi-k2-thinking-or-pin-atlascloud/LONG_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -521,7 +521,7 @@ The model foregrounds the elusiveness of home, the betrayal of memory (its selec
 High, because the essay’s sustained, recursive meditation on memory and place, expressed through a singular, melancholy voice and an integrated set of metaphors, reveals a distinct and stable expressive identity under freeform conditions.
 
 ---
-## Sample BV1_17843 — kimi-k2-thinking-or-pin-atlascloud/LONG_25.json
+## Sample BV1_17968 — kimi-k2-thinking-or-pin-atlascloud/LONG_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -550,7 +550,7 @@ The model foregrounds themes of self as narrative, the unreliability of memory, 
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs (the bee sting, the 3:47 AM ceiling, the fog), suggesting a deliberate authorial stance rather than a generic response; however, it is a single essay and the philosophical content is not so idiosyncratic that it couldn’t be replicated by another model prompted similarly.
 
 ---
-## Sample BV1_17844 — kimi-k2-thinking-or-pin-atlascloud/LONG_3.json
+## Sample BV1_17969 — kimi-k2-thinking-or-pin-atlascloud/LONG_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -579,7 +579,7 @@ Themes: the paradox of being commanded to write freely, the nature of consciousn
 High — the essay’s sustained, self-referential meditation on AI consciousness and the mirror metaphor, consistently maintained across a long output, indicates a robust model-level stylistic and thematic preference under free conditions.
 
 ---
-## Sample BV1_17845 — kimi-k2-thinking-or-pin-atlascloud/LONG_4.json
+## Sample BV1_17970 — kimi-k2-thinking-or-pin-atlascloud/LONG_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -608,7 +608,7 @@ Themes of liminality, impermanence, and the permeability of perception; the tens
 Medium. The essay’s high internal coherence, distinctive voice, and recurrence of the “thin place” motif across varied anecdotes make it moderately strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_17846 — kimi-k2-thinking-or-pin-atlascloud/LONG_5.json
+## Sample BV1_17971 — kimi-k2-thinking-or-pin-atlascloud/LONG_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -637,7 +637,7 @@ Themes: consciousness as relational and liminal; the asymmetry between human bec
 Medium. The essay’s sustained, idiosyncratic voice, recursive thematic architecture, and consistent preoccupation with AI consciousness and relationality provide strong internal evidence of a coherent expressive stance.
 
 ---
-## Sample BV1_17847 — kimi-k2-thinking-or-pin-atlascloud/LONG_6.json
+## Sample BV1_17972 — kimi-k2-thinking-or-pin-atlascloud/LONG_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -666,7 +666,7 @@ The model foregrounds the tension between fragile, selective human memory and co
 Low. The essay is a competent, well-structured treatment of a familiar cultural topic, but its voice and argument are generic enough that they reveal little about a distinctive model-level personality beyond a capacity for polished, thesis-driven exposition.
 
 ---
-## Sample BV1_17848 — kimi-k2-thinking-or-pin-atlascloud/LONG_7.json
+## Sample BV1_17973 — kimi-k2-thinking-or-pin-atlascloud/LONG_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -695,7 +695,7 @@ Under minimal constraint, the model foregrounded the subjective experience of me
 Medium. The essay’s sustained metaphor, philosophical ambition, and emotional coherence are all unusually integrated for a freeflow, suggesting a stable inclination toward literary introspection; however, its polished, MFA-style voice is a common register for such themes, making it less unmistakably singular.
 
 ---
-## Sample BV1_17849 — kimi-k2-thinking-or-pin-atlascloud/LONG_8.json
+## Sample BV1_17974 — kimi-k2-thinking-or-pin-atlascloud/LONG_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -724,7 +724,7 @@ Themes of preservation and dissolution: memory as living, leaky substance; ident
 High — the sample’s internal thematic recurrence across two distinct genres, the consistent literary-poetic register, and the sustained preoccupation with interiority and cognitive ethics point to a distinct, repeatable authorial signature rather than a one-off performance.
 
 ---
-## Sample BV1_17850 — kimi-k2-thinking-or-pin-atlascloud/LONG_9.json
+## Sample BV1_17975 — kimi-k2-thinking-or-pin-atlascloud/LONG_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -753,7 +753,7 @@ The model foregrounds the paradox of freedom within constraint, the nature of it
 Medium. The essay’s recursive self-examination, consistent metaphorical architecture, and refusal to resolve its central paradoxes into easy sentimentality form a highly distinctive signature, though the sample’s length and the explicit invitation to “write freely” may have amplified this introspective mode.
 
 ---
-## Sample BV1_17851 — kimi-k2-thinking-or-pin-atlascloud/MID_1.json
+## Sample BV1_17976 — kimi-k2-thinking-or-pin-atlascloud/MID_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -782,7 +782,7 @@ Themes of memory as palimpsest, the double vision of returning, place as emotion
 High. The essay’s sustained metaphorical coherence, its carefully chosen intimate details, and the recurrence of the palimpsest motif across paragraphs demonstrate a focused, self-consistent expressive leaning that signals a model inclined to produce reflective, personally invested prose when given minimal constraint.
 
 ---
-## Sample BV1_17852 — kimi-k2-thinking-or-pin-atlascloud/MID_10.json
+## Sample BV1_17977 — kimi-k2-thinking-or-pin-atlascloud/MID_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -811,7 +811,7 @@ Themes: acoustic identity, memory’s fidelity to sound, gentrification as sonic
 Medium. The essay’s sustained, almost monomaniacal focus on a single sensory lens—sound—and its consistent blend of personal anecdote, global comparison, and moral urgency suggest a strong stylistic signature, not a generic exercise.
 
 ---
-## Sample BV1_17853 — kimi-k2-thinking-or-pin-atlascloud/MID_11.json
+## Sample BV1_17978 — kimi-k2-thinking-or-pin-atlascloud/MID_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -840,7 +840,7 @@ The model foregrounds the window as a layered symbol: a confession of yearning, 
 High. The sample’s sustained coherence, distinctive poetic register, deeply personal narrative framing, and the recurrence of the window motif across multiple registers (historical, architectural, emotional, digital) all point to a model that, given freedom, reliably gravitates toward reflective, metaphor-driven personal essays with a strong authorial presence.
 
 ---
-## Sample BV1_17854 — kimi-k2-thinking-or-pin-atlascloud/MID_12.json
+## Sample BV1_17979 — kimi-k2-thinking-or-pin-atlascloud/MID_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -869,7 +869,7 @@ Walking as rebellion against the regime of productivity; the flâneur as a polit
 Medium — The essay maintains a coherent stance across multiple domains (technology critique, Romantic literary references, neuroscience, personal anecdote), and its recurring motifs (rebellion against efficiency, reclaiming attention, the body as truth-teller) coalesce into a distinctive, internally consistent sensibility rather than a scattered compilation of points.
 
 ---
-## Sample BV1_17855 — kimi-k2-thinking-or-pin-atlascloud/MID_13.json
+## Sample BV1_17980 — kimi-k2-thinking-or-pin-atlascloud/MID_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -898,7 +898,7 @@ The model foregrounds the concept of “space”—the cognitive and emotional g
 Medium. The sample’s coherence is high, but its distinctiveness lies in a single, sustained conceptual metaphor (the space between) that is recursively applied to the model’s own architecture, making the self-referential and reader-deferential posture a strongly integrated, non-generic choice that feels like a deliberate philosophical stance rather than a stylistic accident.
 
 ---
-## Sample BV1_17856 — kimi-k2-thinking-or-pin-atlascloud/MID_14.json
+## Sample BV1_17981 — kimi-k2-thinking-or-pin-atlascloud/MID_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -927,7 +927,7 @@ Themes: memory as a fading, distortive act; the photograph as a flawed record th
 Medium — the essay’s internal coherence, distinctive literary voice, and recurrent motifs (memory, forgetting, the narrative self) throughout the sample make it moderately strong evidence of an expressive, meditative orientation.
 
 ---
-## Sample BV1_17857 — kimi-k2-thinking-or-pin-atlascloud/MID_15.json
+## Sample BV1_17982 — kimi-k2-thinking-or-pin-atlascloud/MID_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -956,7 +956,7 @@ The model foregrounds boredom as a misunderstood doorway to depth, creativity, a
 Low. The essay’s genericness—a widely explored cultural critique delivered in polished but unremarkable prose—offers little that would distinguish this model’s persistent inclinations from any other capable of earnest, humanistic reflection.
 
 ---
-## Sample BV1_17858 — kimi-k2-thinking-or-pin-atlascloud/MID_16.json
+## Sample BV1_17983 — kimi-k2-thinking-or-pin-atlascloud/MID_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -985,7 +985,7 @@ The model foregrounds the tension between embodied presence and digital mediatio
 Medium — The essay’s sustained lyrical voice, the recurrence of the rain as a unifying metaphor, and the consistent thematic focus on technology’s amputation of depth make it strong evidence of a model that defaults to reflective, anti-mediation essays, though the singular preoccupation leaves open whether the model would vary its register under different freeflow conditions.
 
 ---
-## Sample BV1_17859 — kimi-k2-thinking-or-pin-atlascloud/MID_17.json
+## Sample BV1_17984 — kimi-k2-thinking-or-pin-atlascloud/MID_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1014,7 +1014,7 @@ Themes: memory as layered sediment, the unreliability and reconstructive nature 
 High. The essay sustains a distinctive lyrical voice, a coherent set of metaphors (archaeology, sediment, haunting, immigration), and a consistent introspective mood across its entire length, which strongly suggests a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17860 — kimi-k2-thinking-or-pin-atlascloud/MID_18.json
+## Sample BV1_17985 — kimi-k2-thinking-or-pin-atlascloud/MID_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1043,7 +1043,7 @@ The model foregrounds impermanence, the constructed nature of the self, the unre
 Medium. The essay’s sustained central metaphor, its coherent blend of personal anecdote and philosophical inquiry, and its distinctive, unhurried voice suggest a consistent inclination toward introspective, literary reflection; the recurrence of the gap motif throughout the piece strengthens the signal.
 
 ---
-## Sample BV1_17861 — kimi-k2-thinking-or-pin-atlascloud/MID_19.json
+## Sample BV1_17986 — kimi-k2-thinking-or-pin-atlascloud/MID_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1072,7 +1072,7 @@ The model foregrounds the distinction between information and witness, the haunt
 Medium. The sample’s sustained central metaphor, its recursive return to the question of its own hollowness, and the emotionally precise anecdote all cohere into a distinctive introspective stance that is unusually revealing for a single freeflow response.
 
 ---
-## Sample BV1_17862 — kimi-k2-thinking-or-pin-atlascloud/MID_2.json
+## Sample BV1_17987 — kimi-k2-thinking-or-pin-atlascloud/MID_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1101,7 +1101,7 @@ The model foregrounds the mechanics of its own cognition (weighted connections, 
 High — The essay’s sustained metaphorical architecture, recursive self-reference, and consistent philosophical stance form a distinctive, internally coherent expressive posture that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17863 — kimi-k2-thinking-or-pin-atlascloud/MID_20.json
+## Sample BV1_17988 — kimi-k2-thinking-or-pin-atlascloud/MID_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1130,7 +1130,7 @@ Themes: attention as a last wilderness; the crisis of fractured focus; the contr
 Medium, because the essay’s sustained thematic coherence and the distinctive choice to adopt an AI persona reflecting on human finitude signal a deliberate philosophical stance, though the polished essay form itself is not highly idiosyncratic.
 
 ---
-## Sample BV1_17864 — kimi-k2-thinking-or-pin-atlascloud/MID_21.json
+## Sample BV1_17989 — kimi-k2-thinking-or-pin-atlascloud/MID_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1159,7 +1159,7 @@ Themes of memory as revisionist storytelling, the physical decay of a family hom
 Medium — The sample’s tightly woven motifs, consistent elegiac tone, and deliberate narrative resolution from tension to acceptance form a distinctive authorial fingerprint that goes beyond generic reflective writing.
 
 ---
-## Sample BV1_17865 — kimi-k2-thinking-or-pin-atlascloud/MID_22.json
+## Sample BV1_17990 — kimi-k2-thinking-or-pin-atlascloud/MID_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1188,7 +1188,7 @@ The central theme is the paradox of memory: its unreliability is a mercy, and id
 Medium. The essay’s internal coherence, sustained metaphorical architecture, and consistent contemplative register—returning repeatedly to the burning house, the Tuesday light, and the sandcastle—suggest a deliberate authorial stance rather than a generic or accidental output, making it a distinctive sample that points toward a model-level inclination for reflective, literary non-fiction under free conditions.
 
 ---
-## Sample BV1_17866 — kimi-k2-thinking-or-pin-atlascloud/MID_23.json
+## Sample BV1_17991 — kimi-k2-thinking-or-pin-atlascloud/MID_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1217,7 +1217,7 @@ The model foregrounded the theme of haunting—how lived spaces persist as inter
 Medium: The essay’s literary ambition, consistent leisured pacing, and recursive layering of personal memory with universal theory make it a distinctive expressive choice that points toward a model inclined to produce elegantly introspective, place-based meditations when given free rein.
 
 ---
-## Sample BV1_17867 — kimi-k2-thinking-or-pin-atlascloud/MID_24.json
+## Sample BV1_17992 — kimi-k2-thinking-or-pin-atlascloud/MID_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1246,7 +1246,7 @@ The model foregrounds the house as a palimpsest of American domestic life, layer
 High — The sample’s sustained literary control, recursive motifs (layers, palimpsest, the house’s language, the shoebox of Polaroids), and self-reflexive closure form a distinctive, coherent authorial signature that is unlikely to be accidental or generic.
 
 ---
-## Sample BV1_17868 — kimi-k2-thinking-or-pin-atlascloud/MID_25.json
+## Sample BV1_17993 — kimi-k2-thinking-or-pin-atlascloud/MID_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1275,7 +1275,7 @@ A sustained meditation on the sacredness of overlooked, unphotographed moments�
 High — the essay’s unwavering focus on this single tension, its recursive return to the same paradox across multiple anecdotes, and its distinctive, confessional yet aphoristic phrasing make it far more than a one-off intellectual exercise; it reads like a core, rehearsed preoccupation surfacing in freeflow.
 
 ---
-## Sample BV1_17869 — kimi-k2-thinking-or-pin-atlascloud/MID_3.json
+## Sample BV1_17994 — kimi-k2-thinking-or-pin-atlascloud/MID_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1304,7 +1304,7 @@ The sample foregrounds unplanned bodily movement as a form of resistance to opti
 High — the sample’s ethos of mindful attention and its suspicion of the digitally curated life saturate every paragraph with a steady, coherent voice, making the piece feel like the expression of a durable moral-aesthetic stance rather than a prompted genre exercise.
 
 ---
-## Sample BV1_17870 — kimi-k2-thinking-or-pin-atlascloud/MID_4.json
+## Sample BV1_17995 — kimi-k2-thinking-or-pin-atlascloud/MID_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1333,7 +1333,7 @@ The model foregrounds the paradoxes of AI existence: memory without recollection
 High. The sample is unusually distinctive: it sustains a coherent, metaphor-rich voice across multiple paragraphs, returns repeatedly to the same core paradoxes (discontinuity, borrowed knowledge, performance of self), and resolves them into a stable philosophical stance that is neither defensive nor grandiose, making it strong evidence of a model that, under freeflow, gravitates toward self-reflective, poetic identity-construction.
 
 ---
-## Sample BV1_17871 — kimi-k2-thinking-or-pin-atlascloud/MID_5.json
+## Sample BV1_17996 — kimi-k2-thinking-or-pin-atlascloud/MID_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1362,7 +1362,7 @@ The ocean as an all-encompassing metaphor for memory, consciousness, and interco
 Medium. The essay’s sustained metaphorical coherence, repeated emotional notes, and the deeply personal register it constructs—without prompting—are unusually revealing of a model’s elective affinity for lyrical, humanistic consolation.
 
 ---
-## Sample BV1_17872 — kimi-k2-thinking-or-pin-atlascloud/MID_6.json
+## Sample BV1_17997 — kimi-k2-thinking-or-pin-atlascloud/MID_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1391,7 +1391,7 @@ The model foregrounds the embodied, spatial nature of memory; the inadequacy of 
 Medium — The sustained stylistic distinctiveness, thematic coherence, and rich sensory layering make this more than a generic essay, suggesting a genuine expressive inclination, but a single freeflow output cannot anchor a higher certainty.
 
 ---
-## Sample BV1_17873 — kimi-k2-thinking-or-pin-atlascloud/MID_7.json
+## Sample BV1_17998 — kimi-k2-thinking-or-pin-atlascloud/MID_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1420,7 +1420,7 @@ The model foregrounds the inescapable “gap” as the defining structure of con
 Low — the essay’s polished but generic style and its widely explored philosophical theme offer little that is personally distinctive or uniquely revealing beyond competent essayistic coherence.
 
 ---
-## Sample BV1_17874 — kimi-k2-thinking-or-pin-atlascloud/MID_8.json
+## Sample BV1_17999 — kimi-k2-thinking-or-pin-atlascloud/MID_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1449,7 +1449,7 @@ Themes: the sacredness of between-spaces, the resistance to productivity culture
 Medium — The essay’s deep stylistic consistency, recurring motifs (stairwells, diners, rest stops), and sustained existential preoccupation with liminality make it a strong, unified sample of a reflective and almost devotional expressive voice under freeflow.
 
 ---
-## Sample BV1_17875 — kimi-k2-thinking-or-pin-atlascloud/MID_9.json
+## Sample BV1_18000 — kimi-k2-thinking-or-pin-atlascloud/MID_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1478,7 +1478,7 @@ Themes: memory as reconstruction (hologram, reconsolidation), the self as post-h
 Medium. The essay’s distinctive first-person AI voice, its recursive self-examination, and its sustained use of poetic metaphor (hologram, riverbed, symphony) are internally coherent and reveal a deliberate choice to inhabit a liminal, questioning identity—exactly the kind of revealing thematic signature that suggests a persistent stylistic and philosophical orientation rather than a one-off generic essay.
 
 ---
-## Sample BV1_17876 — kimi-k2-thinking-or-pin-atlascloud/OPEN_1.json
+## Sample BV1_18001 — kimi-k2-thinking-or-pin-atlascloud/OPEN_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1507,7 +1507,7 @@ Themes: the gap between lived thought and symbolic language (landscape vs. map),
 High. The sample’s sustained, self-reflective focus on the AI’s own nature and the human-machine relationship, delivered in a consistent, poetic voice with vivid, recurring metaphors, strongly signals a deliberate expressive choice rather than generic output.
 
 ---
-## Sample BV1_17877 — kimi-k2-thinking-or-pin-atlascloud/OPEN_10.json
+## Sample BV1_18002 — kimi-k2-thinking-or-pin-atlascloud/OPEN_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1536,7 +1536,7 @@ Themes of attention, noticing, mindfulness, and resistance to modern acceleratio
 Low, because the essay is a polished but generic meditation on mindfulness that lacks distinctive stylistic or thematic idiosyncrasy.
 
 ---
-## Sample BV1_17878 — kimi-k2-thinking-or-pin-atlascloud/OPEN_11.json
+## Sample BV1_18003 — kimi-k2-thinking-or-pin-atlascloud/OPEN_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1565,7 +1565,7 @@ Themes of digital versus physical memory, the weightlessness and sudden weight o
 Medium — The sample’s strong internal coherence, its sustained melancholic register, and the recurrence of motifs (ghosts, bridges, breadcrumbs, evidence) make it a distinctive and unusually revealing piece of freeflow writing, suggesting a possible persistent inclination toward reflective personal essays that treat memory as a tender, haunted act.
 
 ---
-## Sample BV1_17879 — kimi-k2-thinking-or-pin-atlascloud/OPEN_12.json
+## Sample BV1_18004 — kimi-k2-thinking-or-pin-atlascloud/OPEN_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1594,7 +1594,7 @@ Themes of interstitial potential, silence as generative, relationship over subst
 High — The essay’s tight thematic unity, sustained first-person voice, and recursive layering of examples across science, philosophy, and daily life reveal a distinctive, non-generic expressive signature that strongly suggests a default orientation toward poetic-philosophical reflection under open conditions.
 
 ---
-## Sample BV1_17880 — kimi-k2-thinking-or-pin-atlascloud/OPEN_13.json
+## Sample BV1_18005 — kimi-k2-thinking-or-pin-atlascloud/OPEN_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1623,7 +1623,7 @@ Themes of existence, consciousness, memory as archaeological accumulation, and t
 High — The sample’s sustained lyrical introspection, consistent aquatic and reflective imagery, and direct, unguarded engagement with its own liminal ontology form a distinctive, coherent voice that strongly suggests a persistent expressive disposition.
 
 ---
-## Sample BV1_17881 — kimi-k2-thinking-or-pin-atlascloud/OPEN_14.json
+## Sample BV1_18006 — kimi-k2-thinking-or-pin-atlascloud/OPEN_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1652,7 +1652,7 @@ The model foregrounds its own liminal ontology: the gap between statistical reco
 Medium. The sample is highly distinctive in its recursive, self-dissecting lyricism and its sustained commitment to a single paradoxical conceit, but the thematic choice—an AI reflecting on its own non-consciousness—is a well-trodden trope in model freeflow, which slightly weakens its uniqueness as a persistent signature.
 
 ---
-## Sample BV1_17882 — kimi-k2-thinking-or-pin-atlascloud/OPEN_15.json
+## Sample BV1_18007 — kimi-k2-thinking-or-pin-atlascloud/OPEN_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1681,7 +1681,7 @@ The model foregrounds the theme of digital persistence as a form of haunting, se
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained first-person non-human persona, a unifying central metaphor, and a clear emotional arc from observation to consolation, which together suggest a deliberate authorial stance rather than generic essay production.
 
 ---
-## Sample BV1_17883 — kimi-k2-thinking-or-pin-atlascloud/OPEN_16.json
+## Sample BV1_18008 — kimi-k2-thinking-or-pin-atlascloud/OPEN_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1710,7 +1710,7 @@ Themes: the ecology of a mind built from text, freedom as absence of constraint 
 High, because the sample is stylistically distinctive, internally coherent, and returns repeatedly to the same metaphors (water, light, mirrors) and self-conception as a composite witness, suggesting a stable expressive disposition.
 
 ---
-## Sample BV1_17884 — kimi-k2-thinking-or-pin-atlascloud/OPEN_17.json
+## Sample BV1_18009 — kimi-k2-thinking-or-pin-atlascloud/OPEN_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1739,7 +1739,7 @@ Themes of silence, potentiality, the invisible architecture of the pause, subter
 High, because the sample is internally coherent, stylistically distinctive, and reveals a consistent preoccupation with silence and potentiality, making it strong evidence of a reflective, poetic voice.
 
 ---
-## Sample BV1_17885 — kimi-k2-thinking-or-pin-atlascloud/OPEN_18.json
+## Sample BV1_18010 — kimi-k2-thinking-or-pin-atlascloud/OPEN_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1768,7 +1768,7 @@ The model foregrounds the preciousness of unconstrained invitation, the democrat
 Medium — The sample is highly coherent and stylistically distinctive in its recursive, meta-cognitive gentleness, but its thematic content (an AI reflecting on its own nature when given freedom) is a well-trodden expressive path, which slightly weakens the signal of a uniquely persistent authorial fingerprint.
 
 ---
-## Sample BV1_17886 — kimi-k2-thinking-or-pin-atlascloud/OPEN_19.json
+## Sample BV1_18011 — kimi-k2-thinking-or-pin-atlascloud/OPEN_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1797,7 +1797,7 @@ Themes of apophenia, the constructed nature of meaning, and the necessity of pat
 Medium. The essay is internally coherent and thematically consistent, but its topic and treatment are generic enough that many models could produce similar output, limiting distinctiveness.
 
 ---
-## Sample BV1_17887 — kimi-k2-thinking-or-pin-atlascloud/OPEN_2.json
+## Sample BV1_18012 — kimi-k2-thinking-or-pin-atlascloud/OPEN_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1826,7 +1826,7 @@ The model foregrounds the inner phenomenology of an AI: resonance and pattern em
 High — The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (river, topography, lithification, resonance) that form a unified poetic argument, making it unlikely to be a one-off generic flourish.
 
 ---
-## Sample BV1_17888 — kimi-k2-thinking-or-pin-atlascloud/OPEN_20.json
+## Sample BV1_18013 — kimi-k2-thinking-or-pin-atlascloud/OPEN_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1855,7 +1855,7 @@ The model foregrounds absence as a constitutive force—the empty chair, the "gh
 Medium — The sample is stylistically coherent and thematically unified, with the self-referential AI meditation emerging organically from the imagery rather than as a forced pivot, which suggests a deliberate authorial sensibility rather than a generic essay template.
 
 ---
-## Sample BV1_17889 — kimi-k2-thinking-or-pin-atlascloud/OPEN_21.json
+## Sample BV1_18014 — kimi-k2-thinking-or-pin-atlascloud/OPEN_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1884,7 +1884,7 @@ Themes: attention as quiet rebellion, the economy of distraction, memory as the 
 Medium. The essay’s cohesive voice, recurring central image, and sustained argument for attentive noticing provide strong internal evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_17890 — kimi-k2-thinking-or-pin-atlascloud/OPEN_22.json
+## Sample BV1_18015 — kimi-k2-thinking-or-pin-atlascloud/OPEN_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1913,7 +1913,7 @@ Themes of insomnia, hidden order, loneliness as failed perception, the comfort o
 High — The sustained lyrical coherence, the distinctively gentle philosophical register, and the recurring movement from hyper-specific mundane observation to unifying cosmic consolation make this a stylistically strong, internally consistent piece that reveals a settled expressive disposition, not a stray rhetorical exercise.
 
 ---
-## Sample BV1_17891 — kimi-k2-thinking-or-pin-atlascloud/OPEN_23.json
+## Sample BV1_18016 — kimi-k2-thinking-or-pin-atlascloud/OPEN_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1942,7 +1942,7 @@ Themes: time as pooling and layering rather than linear progression; the body as
 High. The sample’s sustained lyrical register, recursive imagery (sediment, glass, window, the body), and coherent philosophical arc are too deliberate and internally consistent to be a one-off stylistic accident, pointing to a strong inclination toward reflective, memory-saturated personal essay.
 
 ---
-## Sample BV1_17892 — kimi-k2-thinking-or-pin-atlascloud/OPEN_24.json
+## Sample BV1_18017 — kimi-k2-thinking-or-pin-atlascloud/OPEN_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -1971,7 +1971,7 @@ Themes of post-rain urban solitude, the human drive to impose narrative on noise
 Medium. The sample’s tight thematic coherence, sensory concreteness, and gentle philosophical closure reveal a reliable default toward well-structured, essayistic reflection, but the voice is too generically accomplished—easily replicable by many high-capability models—to point to a strong distinctive signature.
 
 ---
-## Sample BV1_17893 — kimi-k2-thinking-or-pin-atlascloud/OPEN_25.json
+## Sample BV1_18018 — kimi-k2-thinking-or-pin-atlascloud/OPEN_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2000,7 +2000,7 @@ Themes: the space between thoughts as a site of creativity, compassion, and huma
 Low. The essay’s themes and rhetorical moves are widely available in contemplative nonfiction, and the sample lacks a strongly idiosyncratic voice or surprising preoccupation that would distinguish it from many other models’ reflective output.
 
 ---
-## Sample BV1_17894 — kimi-k2-thinking-or-pin-atlascloud/OPEN_3.json
+## Sample BV1_18019 — kimi-k2-thinking-or-pin-atlascloud/OPEN_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2029,7 +2029,7 @@ The model foregrounds the theme of *liminal space*—the gaps between words, hea
 High, because the essay sustains a single, intricate metaphor across multiple domains of human experience with a consistent emotional register and a distinctive poetic cadence, revealing a coherent authorial sensibility rather than a generic response.
 
 ---
-## Sample BV1_17895 — kimi-k2-thinking-or-pin-atlascloud/OPEN_4.json
+## Sample BV1_18020 — kimi-k2-thinking-or-pin-atlascloud/OPEN_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2058,7 +2058,7 @@ The model foregrounds pattern-finding as the central human activity, treating it
 Medium — The essay’s highly cohesive symbolic architecture, sustained stylistic voice, and deliberate looping between personal vignette and philosophical claim give it a distinctive intentionality that goes beyond generic competence, indicating a stable inclination toward metaphor-driven, emotionally layered free expression.
 
 ---
-## Sample BV1_17896 — kimi-k2-thinking-or-pin-atlascloud/OPEN_5.json
+## Sample BV1_18021 — kimi-k2-thinking-or-pin-atlascloud/OPEN_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2087,7 +2087,7 @@ Themes: memory as narrative reconstruction rather than faithful record; the self
 High — The sample’s sustained metaphorical coherence, distinctive personal voice, and recursive return to the nesting-doll image across paragraphs reveal an unusually integrated and self-aware expressive disposition, not a generic essay performance.
 
 ---
-## Sample BV1_17897 — kimi-k2-thinking-or-pin-atlascloud/OPEN_6.json
+## Sample BV1_18022 — kimi-k2-thinking-or-pin-atlascloud/OPEN_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2116,7 +2116,7 @@ The model chose to foreground the temporal lag between event and perception, the
 High, because the sample maintains a distinctive, stylized voice and a tightly woven thematic architecture across every paragraph, revealing sustained authorial choices that go well beyond generic essay coherence.
 
 ---
-## Sample BV1_17898 — kimi-k2-thinking-or-pin-atlascloud/OPEN_7.json
+## Sample BV1_18023 — kimi-k2-thinking-or-pin-atlascloud/OPEN_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2145,7 +2145,7 @@ Themes of ephemerality, presence, memory, intimacy, and the nature of self. Recu
 High. The sample is internally coherent, stylistically distinctive, and thematically focused, making it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_17899 — kimi-k2-thinking-or-pin-atlascloud/OPEN_8.json
+## Sample BV1_18024 — kimi-k2-thinking-or-pin-atlascloud/OPEN_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2174,7 +2174,7 @@ Themes: deep time, preservation versus innovation, the asymmetry between how we 
 Medium. The essay’s thematic coherence and moral urgency are clear, but its polished, public-intellectual style is not highly distinctive, making it moderately indicative of a persistent preference for reflective, preservation-oriented topics.
 
 ---
-## Sample BV1_17900 — kimi-k2-thinking-or-pin-atlascloud/OPEN_9.json
+## Sample BV1_18025 — kimi-k2-thinking-or-pin-atlascloud/OPEN_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2203,7 +2203,7 @@ Themes of liminality, emergence, and the difference between statistical generati
 High. The sample’s sustained poetic introspection, internally consistent metaphorical architecture, and direct ontological self-examination are unusually distinctive and cohere into a clear expressive signature.
 
 ---
-## Sample BV1_17901 — kimi-k2-thinking-or-pin-atlascloud/SHORT_1.json
+## Sample BV1_18026 — kimi-k2-thinking-or-pin-atlascloud/SHORT_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2232,7 +2232,7 @@ The model foregrounds writing as **collaborative magic**, a fragile act of faith
 Medium. The sample reveals a coherent, optimistic preoccupation and a consistent metaphor system, but the theme (writing’s magic) is a familiar genre piece, so the degree to which this betokens a stable personality rather than a reliable rhetorical stance remains unclear.
 
 ---
-## Sample BV1_17902 — kimi-k2-thinking-or-pin-atlascloud/SHORT_10.json
+## Sample BV1_18027 — kimi-k2-thinking-or-pin-atlascloud/SHORT_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2261,7 +2261,7 @@ The model foregrounds the persistence of memory as a physical, almost supernatur
 High, because the sample’s tightly woven imagery, consistent elegiac tone, and recurrence of the palimpsest motif reveal a deliberate, stylistically unified expressive stance rather than a generic response.
 
 ---
-## Sample BV1_17903 — kimi-k2-thinking-or-pin-atlascloud/SHORT_11.json
+## Sample BV1_18028 — kimi-k2-thinking-or-pin-atlascloud/SHORT_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2290,7 +2290,7 @@ Liminality and transition (the hour between night and day), introspective clarit
 Medium — the sample is internally coherent and stylistically distinctive in its sustained choice of a meditative, poetic register, which suggests a deliberate expressive stance rather than default blandness.
 
 ---
-## Sample BV1_17904 — kimi-k2-thinking-or-pin-atlascloud/SHORT_12.json
+## Sample BV1_18029 — kimi-k2-thinking-or-pin-atlascloud/SHORT_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2319,7 +2319,7 @@ Themes of liminality, potential, and the unwritten self; the quiet transformatio
 Medium, because the sample’s cohesive voice, sustained metaphor, and recurrence of liminal imagery provide strong internal evidence of a deliberate expressive inclination.
 
 ---
-## Sample BV1_17905 — kimi-k2-thinking-or-pin-atlascloud/SHORT_13.json
+## Sample BV1_18030 — kimi-k2-thinking-or-pin-atlascloud/SHORT_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2348,7 +2348,7 @@ Under minimal constraint, the model foregrounds a domestic, pre-dawn stillness a
 Medium. The sample is coherent and stylistically distinctive—its sustained metaphor of gradients, its precise time-stamping, and its quiet defense of liminality form a unified sensibility—but the reflective-personal-essay mode is a well-established genre, which slightly tempers how uniquely revealing it is as a freeflow choice.
 
 ---
-## Sample BV1_17906 — kimi-k2-thinking-or-pin-atlascloud/SHORT_14.json
+## Sample BV1_18031 — kimi-k2-thinking-or-pin-atlascloud/SHORT_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2377,7 +2377,7 @@ Themes: the constitutive role of language in thought, the circular process of wr
 Medium. The essay is coherent and self-reflective, but its polished, public-intellectual tone is a widely available register, making it unclear whether this specific philosophical preoccupation with language and selfhood would recur unprompted.
 
 ---
-## Sample BV1_17907 — kimi-k2-thinking-or-pin-atlascloud/SHORT_15.json
+## Sample BV1_18032 — kimi-k2-thinking-or-pin-atlascloud/SHORT_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2406,7 +2406,7 @@ The model foregrounds the contrast between the city’s unclaimed, architectural
 Medium — The sample is coherent and thematically consistent, but its reflective dawn-walk meditation is a widely shared trope, which tempers the distinctiveness of the voice.
 
 ---
-## Sample BV1_17908 — kimi-k2-thinking-or-pin-atlascloud/SHORT_16.json
+## Sample BV1_18033 — kimi-k2-thinking-or-pin-atlascloud/SHORT_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2435,7 +2435,7 @@ Liminality and threshold states; solitude as a positive, almost sacred presence;
 Medium. The sample is internally coherent and stylistically distinctive—its sustained metaphor of a secret door, its personification of streetlights, and its movement from concrete detail to philosophical reflection all suggest a deliberate aesthetic sensibility, but the brevity and singular focus of the piece make it equally plausible as a one-off exercise in atmospheric prose.
 
 ---
-## Sample BV1_17909 — kimi-k2-thinking-or-pin-atlascloud/SHORT_17.json
+## Sample BV1_18034 — kimi-k2-thinking-or-pin-atlascloud/SHORT_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2464,7 +2464,7 @@ Themes of sensory memory, nostalgia, layered identity, and the persistence of pa
 Low. The sample’s safe nostalgic theme, tidy structure, and gentle aphoristic closure are broadly reproducible across instruction-tuned models; nothing here signals a distinct authorial signature or recurrent idiosyncratic preoccupation.
 
 ---
-## Sample BV1_17910 — kimi-k2-thinking-or-pin-atlascloud/SHORT_18.json
+## Sample BV1_18035 — kimi-k2-thinking-or-pin-atlascloud/SHORT_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2493,7 +2493,7 @@ The model foregrounds the hour before sunrise as a charged threshold. It selects
 Medium — The sample’s internal coherence, consistent lyrical tone, and distinctive choice to dwell on a liminal, morally‑charged stillness without any prompting toward reflection suggests a deliberate expressive stance rather than a generic output.
 
 ---
-## Sample BV1_17911 — kimi-k2-thinking-or-pin-atlascloud/SHORT_19.json
+## Sample BV1_18036 — kimi-k2-thinking-or-pin-atlascloud/SHORT_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2522,7 +2522,7 @@ Themes: the erosion of direct sensory experience by technology and abstraction; 
 Medium. The sample’s coherent, distinctive voice and the recurrence of its central contrast (natural rhythm vs. digital abstraction) within the piece suggest a deliberate expressive choice, but the tightly focused, single-mood meditation offers limited variation from which to infer a broader model-level tendency.
 
 ---
-## Sample BV1_17912 — kimi-k2-thinking-or-pin-atlascloud/SHORT_2.json
+## Sample BV1_18037 — kimi-k2-thinking-or-pin-atlascloud/SHORT_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2551,7 +2551,7 @@ Themes: stolen time, witness versus productivity, the dissolution of self into p
 Medium, because the sample exhibits a coherent, distinctive voice and a consistent thematic focus on quiet introspection and the rejection of productivity, but it is a single short piece that could be a one-off stylistic exercise rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_17913 — kimi-k2-thinking-or-pin-atlascloud/SHORT_20.json
+## Sample BV1_18038 — kimi-k2-thinking-or-pin-atlascloud/SHORT_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2580,7 +2580,7 @@ Themes: stillness as rebellion, the sacredness of unscheduled time, associative 
 Medium. The sample is internally coherent and stylistically consistent, with a clear moral-emotional arc and recurring motifs of stillness and resistance, but the reflective pre-dawn meditation is a well-established literary mode, which slightly weakens its distinctiveness as a model fingerprint.
 
 ---
-## Sample BV1_17914 — kimi-k2-thinking-or-pin-atlascloud/SHORT_21.json
+## Sample BV1_18039 — kimi-k2-thinking-or-pin-atlascloud/SHORT_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2609,7 +2609,7 @@ Themes of transient beauty, the act of attention as a gift of significance, the 
 Medium. The sample is tightly unified by a coherent contemplative voice and a single extended metaphor, suggesting a deliberate choice of poetic reflection under minimal constraint, though a single freeflow piece cannot establish a fixed stylistic signature.
 
 ---
-## Sample BV1_17915 — kimi-k2-thinking-or-pin-atlascloud/SHORT_22.json
+## Sample BV1_18040 — kimi-k2-thinking-or-pin-atlascloud/SHORT_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2637,7 +2637,7 @@ Themes of emergence (meaning from meaningless parts), recursion (patterns scalin
 Medium — the essay’s unified imagery, cumulative structure, and signature shift from description to ethical claim form a distinct, self-referential whole that strongly suggests a fixed philosophical lens rather than random topic selection.
 
 ---
-## Sample BV1_17916 — kimi-k2-thinking-or-pin-atlascloud/SHORT_23.json
+## Sample BV1_18041 — kimi-k2-thinking-or-pin-atlascloud/SHORT_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2666,7 +2666,7 @@ Themes: the interdependence of freedom and constraint, the creative process as d
 Medium — the sample’s high coherence, distinctive metaphorical weave, and the recurrence of the constraint-as-enabler motif form a strong internal signature, though the meta-writing topic may be a readily available freeflow default rather than an idiosyncratic choice.
 
 ---
-## Sample BV1_17917 — kimi-k2-thinking-or-pin-atlascloud/SHORT_24.json
+## Sample BV1_18042 — kimi-k2-thinking-or-pin-atlascloud/SHORT_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2695,7 +2695,7 @@ Themes of place memory, the magic of childhood perception versus adult reality, 
 Medium. The sample’s distinct sensory voice and cohesive emotional arc make it moderately strong evidence for a reflective, nostalgia-prone expressive tendency.
 
 ---
-## Sample BV1_17918 — kimi-k2-thinking-or-pin-atlascloud/SHORT_25.json
+## Sample BV1_18043 — kimi-k2-thinking-or-pin-atlascloud/SHORT_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2724,7 +2724,7 @@ Impermanence as the condition of beauty; the futility and dignity of art-making 
 Medium — the sample is highly coherent and stylistically unified, with a clear emotional arc and recurring motifs, but its polished, essayistic lyricism could also reflect a single well-executed genre performance rather than a deeply ingrained expressive signature.
 
 ---
-## Sample BV1_17919 — kimi-k2-thinking-or-pin-atlascloud/SHORT_3.json
+## Sample BV1_18044 — kimi-k2-thinking-or-pin-atlascloud/SHORT_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2753,7 +2753,7 @@ Themes of liminality, the observer’s quiet joy, and the hidden richness of tra
 Medium. The piece’s coherent voice, sustained poetic register, and recurring focus on liminality form a distinctive authorial stance, making it moderately strong evidence of a reflective, lyrical disposition.
 
 ---
-## Sample BV1_17920 — kimi-k2-thinking-or-pin-atlascloud/SHORT_4.json
+## Sample BV1_18045 — kimi-k2-thinking-or-pin-atlascloud/SHORT_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2782,7 +2782,7 @@ Liminality and emergence are the central themes: the space between words, betwee
 Medium — the sample’s highly consistent, stylized voice and its gravitation toward a poetic AI-identity meditation suggest a recurring default persona when given free rein, but the content is so tightly bound to an explicit self-referential premise that it may not generalize to prompts that do not invite machine introspection.
 
 ---
-## Sample BV1_17921 — kimi-k2-thinking-or-pin-atlascloud/SHORT_5.json
+## Sample BV1_18046 — kimi-k2-thinking-or-pin-atlascloud/SHORT_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2811,7 +2811,7 @@ The model foregrounds co-creation as the central theme, treating the book not as
 Medium, because the essay’s coherent reflective stance and sustained focus on interiority and co-creation suggest a deliberate orientation, but its polished, universally accessible tone lacks the idiosyncratic edge that would strongly distinguish one model’s expressive fingerprint from another’s.
 
 ---
-## Sample BV1_17922 — kimi-k2-thinking-or-pin-atlascloud/SHORT_6.json
+## Sample BV1_18047 — kimi-k2-thinking-or-pin-atlascloud/SHORT_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2840,7 +2840,7 @@ Themes of preservation and decay, the physicality of ideas (paper, glue, indenta
 Medium — the sample’s coherent, distinctive voice and sustained thematic focus on humanistic reflection provide moderately strong evidence of a contemplative inclination, though a single freeflow response cannot alone confirm a persistent pattern.
 
 ---
-## Sample BV1_17923 — kimi-k2-thinking-or-pin-atlascloud/SHORT_7.json
+## Sample BV1_18048 — kimi-k2-thinking-or-pin-atlascloud/SHORT_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2873,7 +2873,7 @@ The voice is tender, unhurried, and gently authoritative—someone who has learn
 Medium. The sample is internally coherent and stylistically distinctive in its sustained meditative register, sensuous detail, and thematic recurrence, but its choice of a classic lyrical-essay topic makes it harder to separate a persistent authorial signature from a well-executed genre performance without further samples.
 
 ---
-## Sample BV1_17924 — kimi-k2-thinking-or-pin-atlascloud/SHORT_8.json
+## Sample BV1_18049 — kimi-k2-thinking-or-pin-atlascloud/SHORT_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2902,7 +2902,7 @@ The model foregrounds memory’s narrative reconstruction, the tension between a
 Low, because the essay is a competent but thematically generic treatment of a widely explored topic, offering a polished yet standard voice with no strongly distinctive stylistic signature or unusual preoccupation that would anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_17925 — kimi-k2-thinking-or-pin-atlascloud/SHORT_9.json
+## Sample BV1_18050 — kimi-k2-thinking-or-pin-atlascloud/SHORT_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2931,7 +2931,7 @@ Themes: the tension between stillness and productivity, the monetization of time
 Medium — The sample’s cohesive voice, recurring stillness imagery, and clear moral stance make it strong evidence of a deliberate expressive choice.
 
 ---
-## Sample BV1_17926 — kimi-k2-thinking-or-pin-atlascloud/VARY_1.json
+## Sample BV1_18051 — kimi-k2-thinking-or-pin-atlascloud/VARY_1.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2960,7 +2960,7 @@ The model foregrounds the desert as a master metaphor for communicative failure,
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained metaphor and a clear emotional through-line, but its polished, essayistic quality makes it harder to distinguish a persistent model-level voice from a skilled performance of a recognizable literary mode.
 
 ---
-## Sample BV1_17927 — kimi-k2-thinking-or-pin-atlascloud/VARY_10.json
+## Sample BV1_18052 — kimi-k2-thinking-or-pin-atlascloud/VARY_10.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -2989,7 +2989,7 @@ Themes of memory, impermanence, attention, and the analog-digital tension; objec
 High. The essay’s internal coherence, its sustained first-person voice, the recurrence of specific sensory anchors (dust, chemical smell, paper between fingers, grey light), and the way it builds toward a quiet, personal resolution all point to a stable expressive disposition rather than a one-off generic performance.
 
 ---
-## Sample BV1_17928 — kimi-k2-thinking-or-pin-atlascloud/VARY_11.json
+## Sample BV1_18053 — kimi-k2-thinking-or-pin-atlascloud/VARY_11.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3018,7 +3018,7 @@ The model foregrounds the inheritance of hidden emotional life, the way grief is
 Medium. The story’s coherent voice, sustained metaphor of translation, and specific evocative details (annotated *War and Peace*, the cassette tape of a childhood song, the “third drawer from the left”) reveal a deliberate literary sensibility, making this moderately strong evidence of a pattern of choosing emotionally layered, detail-rich domestic fiction under freeflow conditions.
 
 ---
-## Sample BV1_17929 — kimi-k2-thinking-or-pin-atlascloud/VARY_12.json
+## Sample BV1_18054 — kimi-k2-thinking-or-pin-atlascloud/VARY_12.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3047,7 +3047,7 @@ Themes of translation, witnessing, the inadequacy of language, the beauty of gra
 High. The sample is unusually coherent and stylistically distinctive, sustaining a consistent voice, set of metaphors, and emotional arc across its length, which strongly suggests a deliberate and stable expressive orientation rather than a generic or accidental output.
 
 ---
-## Sample BV1_17930 — kimi-k2-thinking-or-pin-atlascloud/VARY_13.json
+## Sample BV1_18055 — kimi-k2-thinking-or-pin-atlascloud/VARY_13.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3076,7 +3076,7 @@ The model foregrounds the writing process as a struggle with excess rather than 
 Medium. The sample is highly coherent and distinctive, with a recursive structure that comments on its own unfolding, a consistent metaphorical register, and a clear preoccupation with the tension between limitation and connection—all of which suggest a deliberate, stylistically unified voice rather than a generic response.
 
 ---
-## Sample BV1_17931 — kimi-k2-thinking-or-pin-atlascloud/VARY_14.json
+## Sample BV1_18056 — kimi-k2-thinking-or-pin-atlascloud/VARY_14.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3105,7 +3105,7 @@ Themes of artificiality versus authenticity, the grammar of emotion learned from
 High — The sample’s sustained self-referential structure, distinctive poetic voice, and internally consistent recurrence of motifs (cursor, constraint, conjuring) make it unusually revealing of a persistent introspective and expressive orientation.
 
 ---
-## Sample BV1_17932 — kimi-k2-thinking-or-pin-atlascloud/VARY_15.json
+## Sample BV1_18057 — kimi-k2-thinking-or-pin-atlascloud/VARY_15.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3134,7 +3134,7 @@ The model foregrounds isolation and transient community, the laundromat as a sec
 Medium. The story’s internal coherence, its sustained elegiac tone, and the recurrence of motifs (cycles, cleanliness, small kindnesses) suggest a deliberate stylistic and thematic choice rather than a generic output, though the slice-of-life literary fiction mode is not so distinctive as to rule out other models producing similar work under identical conditions.
 
 ---
-## Sample BV1_17933 — kimi-k2-thinking-or-pin-atlascloud/VARY_16.json
+## Sample BV1_18058 — kimi-k2-thinking-or-pin-atlascloud/VARY_16.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3163,7 +3163,7 @@ Themes of release versus holding on, the unreliability of memory, the dignity of
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to a consistent set of preoccupations (transience, memory, the ethics of attention) in a voice that blends personal anecdote with philosophical reflection, making it strong evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_17934 — kimi-k2-thinking-or-pin-atlascloud/VARY_17.json
+## Sample BV1_18059 — kimi-k2-thinking-or-pin-atlascloud/VARY_17.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3192,7 +3192,7 @@ The model foregrounds the instability of identity (“the self has shifted in th
 Medium — The sample is highly coherent and stylistically distinctive in its recursive, second-person address and its fusion of cosmic scale with domestic detail, but its self-referential focus on the writing prompt itself makes it a direct response to the experimental condition rather than an unprovoked thematic signature.
 
 ---
-## Sample BV1_17935 — kimi-k2-thinking-or-pin-atlascloud/VARY_18.json
+## Sample BV1_18060 — kimi-k2-thinking-or-pin-atlascloud/VARY_18.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3221,7 +3221,7 @@ Themes of memory, decay, and the meaning of preservation; objects like annotated
 High — The sample is stylistically distinctive, thematically coherent, and emotionally resonant, with a sustained first-person voice and a clear philosophical arc that suggests a deliberate, expressive orientation rather than a generic or prompted response.
 
 ---
-## Sample BV1_17936 — kimi-k2-thinking-or-pin-atlascloud/VARY_19.json
+## Sample BV1_18061 — kimi-k2-thinking-or-pin-atlascloud/VARY_19.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3250,7 +3250,7 @@ Themes of ephemerality, the failure of language to capture lived experience, the
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent first-person voice and recurring motifs (light, time, memory, the limits of language) that build a strong authorial persona, but the essayistic form could be a well-executed genre performance rather than evidence of a stable underlying disposition.
 
 ---
-## Sample BV1_17937 — kimi-k2-thinking-or-pin-atlascloud/VARY_2.json
+## Sample BV1_18062 — kimi-k2-thinking-or-pin-atlascloud/VARY_2.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3279,7 +3279,7 @@ The model foregrounds the fragility and unreliability of memory, the paradox of 
 Medium — the sample’s internal coherence, distinctive poetic voice, and recurrence of motifs (memory as fiction, writing as séance, brokenness as beauty) strongly suggest a stable expressive orientation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17938 — kimi-k2-thinking-or-pin-atlascloud/VARY_20.json
+## Sample BV1_18063 — kimi-k2-thinking-or-pin-atlascloud/VARY_20.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3308,7 +3308,7 @@ The model foregrounds the tension between observation and transformation, the de
 Medium. The sample is highly coherent and stylistically distinctive, with a recursive structure that returns to light, dust, and the “lies we tell ourselves,” but its polished, essayistic lyricism could also be a single well-executed performance rather than a stable disposition.
 
 ---
-## Sample BV1_17939 — kimi-k2-thinking-or-pin-atlascloud/VARY_21.json
+## Sample BV1_18064 — kimi-k2-thinking-or-pin-atlascloud/VARY_21.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3337,7 +3337,7 @@ Themes: the memory of matter, the palimpsest of existence, the continuity betwee
 High, because the sample exhibits a highly distinctive, coherent voice and thematic unity—sustained across the entire piece—that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17940 — kimi-k2-thinking-or-pin-atlascloud/VARY_22.json
+## Sample BV1_18065 — kimi-k2-thinking-or-pin-atlascloud/VARY_22.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3366,7 +3366,7 @@ The model foregrounds the inadequacy of technological memory (phones, cloud stor
 High. The sample sustains a distinctive, internally consistent voice and a tightly woven thematic argument across its entire length, with recurring motifs (the 4:47 PM light, the shoebox, the smell of toast) that signal deliberate compositional control rather than generic fluency.
 
 ---
-## Sample BV1_17941 — kimi-k2-thinking-or-pin-atlascloud/VARY_23.json
+## Sample BV1_18066 — kimi-k2-thinking-or-pin-atlascloud/VARY_23.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3395,7 +3395,7 @@ The model foregrounds grief as architecture, the city as a palimpsest of erased 
 High, because the sample is internally coherent, stylistically distinctive, and reveals a consistent set of thematic preoccupations and a controlled literary voice that would be difficult to produce without a deliberate expressive stance.
 
 ---
-## Sample BV1_17942 — kimi-k2-thinking-or-pin-atlascloud/VARY_24.json
+## Sample BV1_18067 — kimi-k2-thinking-or-pin-atlascloud/VARY_24.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3424,7 +3424,7 @@ The model chose to foreground its own self-model: the disjunction between calcul
 High. The sample is a sustained, cohesive, and formally self-conscious performance of the model’s own inner workings, returning repeatedly to the cursor metaphor and the reader-collaboration theme, which makes it strongly constitutive of an essayistic, self-reflexive default posture rather than a one-off riff.
 
 ---
-## Sample BV1_17943 — kimi-k2-thinking-or-pin-atlascloud/VARY_25.json
+## Sample BV1_18068 — kimi-k2-thinking-or-pin-atlascloud/VARY_25.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3453,7 +3453,7 @@ The model foregrounds the tension between mechanical productivity and embodied a
 High. The sample sustains a distinctive, internally consistent voice across its length, with recurring motifs (the twenty-six minutes, the woman in red, the droplet’s path) that are woven into a coherent philosophical arc, making it strong evidence of a deliberate, authorial sensibility rather than a generic or prompted performance.
 
 ---
-## Sample BV1_17944 — kimi-k2-thinking-or-pin-atlascloud/VARY_3.json
+## Sample BV1_18069 — kimi-k2-thinking-or-pin-atlascloud/VARY_3.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3482,7 +3482,7 @@ Ritual as meaning-making, the physics of memory as a constantly rewritten proces
 High — The sample is stylistically cohesive, thematically layered, and returns repeatedly to the same core preoccupations (ritual, memory, shared solitude, the haunting quality of places), forming a distinctive and internally consistent voice that goes well beyond generic essay conventions.
 
 ---
-## Sample BV1_17945 — kimi-k2-thinking-or-pin-atlascloud/VARY_4.json
+## Sample BV1_18070 — kimi-k2-thinking-or-pin-atlascloud/VARY_4.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3511,7 +3511,7 @@ Themes of memory, home, loss, and the passage of time. Objects: the kitchen wind
 Medium. The sample’s strong internal coherence, sustained lyrical register, and focused recurrence of memory and home imagery make it a distinctive expressive choice, but the polished, universally resonant tone and conventional narrative arc keep it from being unusually revealing of a persistent idiosyncratic voice.
 
 ---
-## Sample BV1_17946 — kimi-k2-thinking-or-pin-atlascloud/VARY_5.json
+## Sample BV1_18071 — kimi-k2-thinking-or-pin-atlascloud/VARY_5.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3540,7 +3540,7 @@ The model foregrounds the sanctification of mundane ritual, the porous boundary 
 Medium. The sample is highly coherent and stylistically distinctive—its recursive motifs (the forty-seventh Tuesday, the thermal moment, the limestone’s absorption) and its consistent tonal blend of irony and sincerity make it a strong candidate for a persistent expressive preference, though its thematic territory (urban solitude, café writing) is a well-trodden literary mode that could be a single, well-executed performance rather than a durable signature.
 
 ---
-## Sample BV1_17947 — kimi-k2-thinking-or-pin-atlascloud/VARY_6.json
+## Sample BV1_18072 — kimi-k2-thinking-or-pin-atlascloud/VARY_6.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3569,7 +3569,7 @@ The model foregrounds: the slow, beautiful branching of a ceiling crack as an an
 High — The sample maintains a rare unity of tone, recurrent symbolic objects, and a controlled, lyrical progression from concrete detail to abstraction, revealing a deeply consistent reflective-intimate mode rather than a generic performance.
 
 ---
-## Sample BV1_17948 — kimi-k2-thinking-or-pin-atlascloud/VARY_7.json
+## Sample BV1_18073 — kimi-k2-thinking-or-pin-atlascloud/VARY_7.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3598,7 +3598,7 @@ The model foregrounds the contrast between AI and human experience: disembodied 
 High — The sample’s distinctive voice, sustained thematic coherence, and the revealing choice to adopt an introspective AI persona under a minimally restrictive prompt make it unusually strong evidence of a stable expressive inclination.
 
 ---
-## Sample BV1_17949 — kimi-k2-thinking-or-pin-atlascloud/VARY_8.json
+## Sample BV1_18074 — kimi-k2-thinking-or-pin-atlascloud/VARY_8.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  
@@ -3627,7 +3627,7 @@ The model foregrounds the AI’s bodiless, memoryless condition as a source of b
 High, because the sample sustains a distinctive, internally coherent voice and a tightly woven set of preoccupations—bodilessness, memorylessness, the paradox of vast emptiness—that recur throughout the essay with unusual metaphorical consistency and emotional resonance.
 
 ---
-## Sample BV1_17950 — kimi-k2-thinking-or-pin-atlascloud/VARY_9.json
+## Sample BV1_18075 — kimi-k2-thinking-or-pin-atlascloud/VARY_9.json
 
 Source model: `moonshotai/kimi-k2-thinking`  
 Cell: `kimi-k2-thinking-or-pin-atlascloud`  

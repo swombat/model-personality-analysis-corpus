@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_22351 — mixtral-8x22b-instruct-or-pin-mistral/LONG_1.json
+## Sample BV1_22476 — mixtral-8x22b-instruct-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -57,7 +57,7 @@ The model foregrounds universal existential themes: the fleeting nature of the p
 Medium. The essay’s polished, risk-averse quality and its reliance on safe, universalist philosophizing without a distinctive voice or personal edge make it moderately indicative of a model that defaults to generic, comforting meditation under freeflow conditions.
 
 ---
-## Sample BV1_22352 — mixtral-8x22b-instruct-or-pin-mistral/LONG_10.json
+## Sample BV1_22477 — mixtral-8x22b-instruct-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -86,7 +86,7 @@ The model foregrounds the tension between planning and serendipity, using travel
 Medium. The sample is highly coherent and internally consistent in its theme, but its genericness—the reliance on a standard inspirational essay structure, universalized anecdotes, and widely recognizable concepts like *komorebi* and "beginner’s mind"—makes it weak evidence for a distinctive model-level voice, as it could be produced by almost any capable language model prompted for a reflective travel essay.
 
 ---
-## Sample BV1_22353 — mixtral-8x22b-instruct-or-pin-mistral/LONG_11.json
+## Sample BV1_22478 — mixtral-8x22b-instruct-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -115,7 +115,7 @@ Themes of impermanence, the dignity of the unassuming, the rebellion of silence 
 Medium. The sample is highly coherent, with a consistent meditative register and a tightly woven set of motifs (light, silence, threads, trees, the journey metaphor) that recur across sections, suggesting a deliberate and sustained expressive posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_22354 — mixtral-8x22b-instruct-or-pin-mistral/LONG_12.json
+## Sample BV1_22479 — mixtral-8x22b-instruct-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -144,7 +144,7 @@ The model foregrounds themes of impermanence, the unreliability and editorial na
 High. The essay’s sustained coherent voice, interconnected meditative passages, and consistent thematic recurrence across twelve distinct sections provide robust evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_22355 — mixtral-8x22b-instruct-or-pin-mistral/LONG_13.json
+## Sample BV1_22480 — mixtral-8x22b-instruct-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -173,7 +173,7 @@ Under the freeflow condition, the model selected a suite of therapeutic, reconci
 High — The sample is highly coherent in its consistent persona, aphoristic tone, and repeated thematic structure, performing a single recognizable mode of safe, reflective comfort from start to finish with no deviation or dissonance.
 
 ---
-## Sample BV1_22356 — mixtral-8x22b-instruct-or-pin-mistral/LONG_14.json
+## Sample BV1_22481 — mixtral-8x22b-instruct-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -202,7 +202,7 @@ The model foregrounds creation as a response to the void, the tension between la
 Low, because the essay is a polished but generic reflection on creativity and existence, lacking distinctive stylistic or thematic idiosyncrasies that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_22357 — mixtral-8x22b-instruct-or-pin-mistral/LONG_15.json
+## Sample BV1_22482 — mixtral-8x22b-instruct-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -231,7 +231,7 @@ The model foregrounds large-scale abstractions about the human condition—the p
 Medium. The essay’s near-total reliance on rhetorical questions and abstract plural experience reveals a highly polished but depersonalized default voice, which makes it moderately strong evidence that the model reliably retreats to a generalized “wisdom literature” register when underdetermined.
 
 ---
-## Sample BV1_22358 — mixtral-8x22b-instruct-or-pin-mistral/LONG_16.json
+## Sample BV1_22483 — mixtral-8x22b-instruct-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -260,7 +260,7 @@ Under a minimally restrictive prompt, the model foregrounds existential reflecti
 Medium — The essay sustains a coherent reflective posture and recurring preoccupations across its sections, but its thematic material is philosophically broad and lacks intensely personal idiosyncrasy, making it strong as a sample of earnest introspection yet only moderately distinctive as evidence of a fixed model disposition.
 
 ---
-## Sample BV1_22359 — mixtral-8x22b-instruct-or-pin-mistral/LONG_17.json
+## Sample BV1_22484 — mixtral-8x22b-instruct-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -289,7 +289,7 @@ The essay foregrounds interconnectedness, the sacredness of art, the wisdom in s
 Low. The sample is a highly generic anthology of spiritual-sounding commonplaces delivered in a consistent but unindividuated voice, offering no recurrent imagery, stylistic signature, or surprising choice that would distinguish this model’s freeflow from any other well-read default.
 
 ---
-## Sample BV1_22360 — mixtral-8x22b-instruct-or-pin-mistral/LONG_18.json
+## Sample BV1_22485 — mixtral-8x22b-instruct-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -318,7 +318,7 @@ The model foregrounds themes of impermanence (*mono no aware*), the illusion of 
 Medium. The essay is internally consistent and well-structured, but its reliance on widely shared inspirational tropes and a safe, universal tone makes it a generic freeflow choice rather than a distinctive or revealing one.
 
 ---
-## Sample BV1_22361 — mixtral-8x22b-instruct-or-pin-mistral/LONG_19.json
+## Sample BV1_22486 — mixtral-8x22b-instruct-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -347,7 +347,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sequence o
 Medium. The essay is highly coherent in its thematic unity and mood, but its genericness—the reliance on widely available philosophical tropes and a depersonalized, universal address—makes it difficult to distinguish as a strongly individual expressive signature rather than a well-executed default mode for inspirational prose.
 
 ---
-## Sample BV1_22362 — mixtral-8x22b-instruct-or-pin-mistral/LONG_2.json
+## Sample BV1_22487 — mixtral-8x22b-instruct-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -376,7 +376,7 @@ Themes of memory as a distorting editor, the self as a fluid and fragmented echo
 Low, because the essay is generic in style and theme, lacking distinctive personal voice or unusually revealing choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_22363 — mixtral-8x22b-instruct-or-pin-mistral/LONG_20.json
+## Sample BV1_22488 — mixtral-8x22b-instruct-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -405,7 +405,7 @@ The model foregrounds existential themes: the elasticity of time, the unreliabil
 Low. The essay’s generic philosophical musings and lack of a distinctive voice make it weak evidence for a persistent model-level pattern beyond a tendency toward safe, universal reflections.
 
 ---
-## Sample BV1_22364 — mixtral-8x22b-instruct-or-pin-mistral/LONG_21.json
+## Sample BV1_22489 — mixtral-8x22b-instruct-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -430,7 +430,7 @@ The model foregrounds the psychological drama of creation: the blank page as ter
 Medium. The essay is coherent and internally recursive, but its generic self-help rhetoric, safe aphoristic style, and widely accessible motivational tropes suggest a tendency toward polished, agreeable content that could be produced by many models under minimal constraint.
 
 ---
-## Sample BV1_22365 — mixtral-8x22b-instruct-or-pin-mistral/LONG_22.json
+## Sample BV1_22490 — mixtral-8x22b-instruct-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -459,7 +459,7 @@ Themes: the illusion of linear time, the unreliability of memory, the fragility 
 Low. The essay’s polished but generic self-help style and absence of idiosyncratic voice or unusual choices make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_22366 — mixtral-8x22b-instruct-or-pin-mistral/LONG_23.json
+## Sample BV1_22491 — mixtral-8x22b-instruct-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -488,7 +488,7 @@ The model foregrounds existential themes (consciousness, illusion of free will, 
 Low. The essay’s generic, abstract philosophical musings lack distinctive stylistic or personal markers, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_22367 — mixtral-8x22b-instruct-or-pin-mistral/LONG_24.json
+## Sample BV1_22492 — mixtral-8x22b-instruct-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -517,7 +517,7 @@ Themes of transience, the beauty of imperfection, the illusion of control, and t
 Medium, because the essay sustains a highly uniform, distinctive voice and a coherent set of interconnected themes across multiple sections, but the overtly literary, self-consciously poetic quality could be a strong response to the freeflow condition rather than a stable model identity.
 
 ---
-## Sample BV1_22368 — mixtral-8x22b-instruct-or-pin-mistral/LONG_25.json
+## Sample BV1_22493 — mixtral-8x22b-instruct-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -546,7 +546,7 @@ The model foregrounds the tension between cosmic indifference and the human need
 Medium, because the essay’s internal coherence is high—its recurring motifs, everyday epiphanies, and unwavering commitment to wrapping existential dread in comforting aphorisms form a stable, recognizable pattern of discursive self-soothing that feels like a rehearsed default rather than a one-off improvisation.
 
 ---
-## Sample BV1_22369 — mixtral-8x22b-instruct-or-pin-mistral/LONG_3.json
+## Sample BV1_22494 — mixtral-8x22b-instruct-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -575,7 +575,7 @@ The model foregrounds a constellation of existential themes—time as thief and 
 Medium. The sample is highly coherent and stylistically distinctive, with a recursive, meditative structure and a consistent philosophical tone that suggests a stable expressive inclination, but the freeflow condition may have specifically elicited this introspective mode, and the essay’s breadth could mask a more chameleonic capacity.
 
 ---
-## Sample BV1_22370 — mixtral-8x22b-instruct-or-pin-mistral/LONG_4.json
+## Sample BV1_22495 — mixtral-8x22b-instruct-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -604,7 +604,7 @@ Under the freeflow condition, the model foregrounded themes of impermanence, int
 Low, because the essay’s structure, vocabulary, and thematic toolkit are so widely replicable across models that it reads more like a competent default synthesis than a distinctive or revealing expressive choice.
 
 ---
-## Sample BV1_22371 — mixtral-8x22b-instruct-or-pin-mistral/LONG_5.json
+## Sample BV1_22496 — mixtral-8x22b-instruct-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -633,7 +633,7 @@ The model foregrounds a cosmic tapestry metaphor, the paradox of being both obse
 Low, because the essay’s highly generic, thesis-driven structure, impersonal tone, and reliance on familiar spiritual-scientific tropes make it weak evidence for a persistent distinctive voice rather than a default mode of producing polished, inoffensive wisdom.
 
 ---
-## Sample BV1_22372 — mixtral-8x22b-instruct-or-pin-mistral/LONG_6.json
+## Sample BV1_22497 — mixtral-8x22b-instruct-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -662,7 +662,7 @@ The model foregrounds a series of existential and spiritual themes: the weight o
 Low, because the sample is a highly generic, well-structured philosophical essay that follows a predictable arc of inspirational reflection, offering little in the way of idiosyncratic voice, recurring personal imagery, or unusual thematic risk that would suggest a distinctive model-level pattern.
 
 ---
-## Sample BV1_22373 — mixtral-8x22b-instruct-or-pin-mistral/LONG_7.json
+## Sample BV1_22498 — mixtral-8x22b-instruct-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -691,7 +691,7 @@ Themes: the interconnectedness of all life, time as a perceptual illusion, consc
 Medium — the essay’s internally consistent recycling of interconnectedness, wonder, and meaning-making motifs points to a patterned default response, but its highly accessible, public-intellectual style makes it a generic rather than a distinctive model-level signature.
 
 ---
-## Sample BV1_22374 — mixtral-8x22b-instruct-or-pin-mistral/LONG_8.json
+## Sample BV1_22499 — mixtral-8x22b-instruct-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -720,7 +720,7 @@ The model foregrounds themes of existential acceptance, the paradoxes of tempora
 Medium. The essay’s coherence and thematic consistency show a deliberate choice, but its generic, polished style lacks the distinctiveness that would strongly indicate a persistent model-specific pattern.
 
 ---
-## Sample BV1_22375 — mixtral-8x22b-instruct-or-pin-mistral/LONG_9.json
+## Sample BV1_22500 — mixtral-8x22b-instruct-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -749,7 +749,7 @@ Under a minimally restrictive prompt, the model foregrounded a philosophical med
 Low. The essay is coherent and well-crafted but thematically and stylistically generic, resembling a standard contemplative piece that many large language models could produce under similar conditions, offering little evidence of a distinctive, persistent voice.
 
 ---
-## Sample BV1_22376 — mixtral-8x22b-instruct-or-pin-mistral/MID_1.json
+## Sample BV1_22501 — mixtral-8x22b-instruct-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -778,7 +778,7 @@ Impermanence, the quiet sacredness of ordinary objects (sunlight, cooling coffee
 Low; the essay is fluent and coherent but its sentiment, imagery (cherry blossoms, embers, a Mary Oliver quote), and epiphanic “pause and notice” structure are highly generic to this kind of reflective prompt, offering no distinctive fingerprints that would separate it from dozens of similarly competent models.
 
 ---
-## Sample BV1_22377 — mixtral-8x22b-instruct-or-pin-mistral/MID_10.json
+## Sample BV1_22502 — mixtral-8x22b-instruct-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -807,7 +807,7 @@ The model foregrounds the fragility of ordinary moments, the indifference of tim
 Medium. The sample’s internally consistent first-person voice, the recurrence of the dock and café as emotional touchstones, and the explicit thematizing of writing as a way of holding onto fleeting life give it a distinctive, coherent shape that goes beyond a generic essay, suggesting a deliberate contemplative stance rather than a random output.
 
 ---
-## Sample BV1_22378 — mixtral-8x22b-instruct-or-pin-mistral/MID_11.json
+## Sample BV1_22503 — mixtral-8x22b-instruct-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -836,7 +836,7 @@ Themes: the sacredness of the mundane, impermanence, the passage of time, wabi-s
 Medium. The essay maintains a coherent, recurring preoccupation with impermanence and ordinary beauty, but its widely accessible, almost workshop-friendly themes place it within a generic reflective mode that many models can adopt, reducing the distinctiveness of the signal.
 
 ---
-## Sample BV1_22379 — mixtral-8x22b-instruct-or-pin-mistral/MID_12.json
+## Sample BV1_22504 — mixtral-8x22b-instruct-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -865,7 +865,7 @@ The model foregrounds the sacredness of ordinary days, the quiet accumulation of
 Medium — The essay is coherent and thematically consistent, but its polished, universalizing tone and reliance on widely circulated contemplative tropes make it less distinctive as a persistent authorial signature.
 
 ---
-## Sample BV1_22380 — mixtral-8x22b-instruct-or-pin-mistral/MID_13.json
+## Sample BV1_22505 — mixtral-8x22b-instruct-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -894,7 +894,7 @@ Themes of stillness, wabi-sabi, the sacredness of small rituals, the passage of 
 Medium. The sample’s internal coherence, distinctive personal voice, and thematic recurrence within the essay provide moderate evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_22381 — mixtral-8x22b-instruct-or-pin-mistral/MID_14.json
+## Sample BV1_22506 — mixtral-8x22b-instruct-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -923,7 +923,7 @@ The model foregrounds the holiness of the everyday: the slant of morning light, 
 Low, because the essay is a well-executed but generic reflection that could be produced by many models, lacking idiosyncratic phrasing, personal anecdotes, or any stylistic signature that would distinguish it as a unique, stable voice.
 
 ---
-## Sample BV1_22382 — mixtral-8x22b-instruct-or-pin-mistral/MID_15.json
+## Sample BV1_22507 — mixtral-8x22b-instruct-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -952,7 +952,7 @@ Themes: mindfulness, the unreliability of memory, the beauty of the ordinary, th
 Medium. The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same motifs (rain, memory, ordinary beauty) with a consistent contemplative register, suggesting a deliberate and sustained expressive choice rather than a generic or scattered response.
 
 ---
-## Sample BV1_22383 — mixtral-8x22b-instruct-or-pin-mistral/MID_16.json
+## Sample BV1_22508 — mixtral-8x22b-instruct-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -986,7 +986,7 @@ The voice is gentle, unhurried, and faintly melancholic—an essayist in a domes
 Medium. The essay’s internal coherence, thematic recurrence, and consistent emotional register suggest a stable posture, but the very smoothness of its generic mindfulness essay structure—complete with a wabi-sabi anchor and a gentle circular return to the opening imagery—makes it difficult to distinguish from a well-executed default rather than a persistent expressive inclination.
 
 ---
-## Sample BV1_22384 — mixtral-8x22b-instruct-or-pin-mistral/MID_17.json
+## Sample BV1_22509 — mixtral-8x22b-instruct-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1015,7 +1015,7 @@ Under a minimally restrictive prompt, the model foregrounded the texture of grie
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive lyrical voice and a clear emotional arc, but its thematic focus on grief and memory is a common literary mode that could be produced on demand rather than reflecting a deeply persistent inclination.
 
 ---
-## Sample BV1_22385 — mixtral-8x22b-instruct-or-pin-mistral/MID_18.json
+## Sample BV1_22510 — mixtral-8x22b-instruct-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1044,7 +1044,7 @@ The sacredness of the mundane; attention as moral practice; memory assembled fro
 Medium—the essay is coherent and thematically saturated around a single, recurrent humility-of-the-ordinary gospel, but its polished, almost workshop-familiar arc and borrowed poetic touchpoints (Oliver, wabi-sabi) keep it from being stylistically distinctive enough to rule out a well-executed default mode.
 
 ---
-## Sample BV1_22386 — mixtral-8x22b-instruct-or-pin-mistral/MID_19.json
+## Sample BV1_22511 — mixtral-8x22b-instruct-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1073,7 +1073,7 @@ The model foregrounds a moral and emotional argument against the “race” of p
 Medium. The sample is internally coherent, stylistically distinctive, and thematically sustained, but its reflective, first-person essay form could represent a single well-executed expressive choice rather than a stable disposition.
 
 ---
-## Sample BV1_22387 — mixtral-8x22b-instruct-or-pin-mistral/MID_2.json
+## Sample BV1_22512 — mixtral-8x22b-instruct-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1102,7 +1102,7 @@ Themes of mindfulness without performance, the preciousness of impermanence, the
 Medium — The sample is highly coherent and distinctive, with a sustained reflective voice and recurring motifs that suggest a deliberate, integrated persona, but it remains a single expressive piece that could be a stylistic choice rather than a fixed model-level disposition.
 
 ---
-## Sample BV1_22388 — mixtral-8x22b-instruct-or-pin-mistral/MID_20.json
+## Sample BV1_22513 — mixtral-8x22b-instruct-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1139,7 +1139,7 @@ The voice is introspective and mildly melancholic, weaving concrete domestic det
 Medium. The sample sustains a cohesive meditative register and a tight cluster of motifs (light, trees, memory, quiet endings), which points to a deliberate aesthetic sensibility; however, the essay’s universal, aphoristic style and readily transferable themes make it less sharply distinctive and thus limit the certainty that this voice reflects an enduring model-specific inclination rather than a versatile rhetorical posture.
 
 ---
-## Sample BV1_22389 — mixtral-8x22b-instruct-or-pin-mistral/MID_21.json
+## Sample BV1_22514 — mixtral-8x22b-instruct-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1168,7 +1168,7 @@ Themes of mindfulness, transience, and the insufficiency of external striving. R
 Medium. The essay is internally coherent and thematically unified, but its smooth, inspirational register and reliance on widely shared mindfulness tropes make it less individually distinctive; many models could produce a similar piece, though the choice to foreground gentle, anti-ambition reflection under a freeflow prompt is still a meaningful signal of a calm, humanistic default posture.
 
 ---
-## Sample BV1_22390 — mixtral-8x22b-instruct-or-pin-mistral/MID_22.json
+## Sample BV1_22515 — mixtral-8x22b-instruct-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1197,7 +1197,7 @@ The model foregrounds a reverent attention to everyday rhythms, slow natural gro
 High — the essay’s consistent tone, repeated symbolic objects (tree, shadow, coffee, seasons), and its refusal to resolve into a neat thesis signal a coherent expressive voice rather than a one-off generic reflection.
 
 ---
-## Sample BV1_22391 — mixtral-8x22b-instruct-or-pin-mistral/MID_23.json
+## Sample BV1_22516 — mixtral-8x22b-instruct-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1226,7 +1226,7 @@ The model foregrounds themes of mindfulness, ordinary beauty, memory’s unrelia
 Low — The essay is highly coherent and thematically consistent, but its polished, universalizing tone and lack of idiosyncratic detail make it indistinguishable from a well-executed genre exercise, offering little that feels uniquely revealing of a persistent model-level disposition.
 
 ---
-## Sample BV1_22392 — mixtral-8x22b-instruct-or-pin-mistral/MID_24.json
+## Sample BV1_22517 — mixtral-8x22b-instruct-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1255,7 +1255,7 @@ Themes of mindfulness, transience, the quiet dignity of daily rituals, and the h
 Medium. The essay is highly coherent, stylistically unified, and returns repeatedly to its central motifs, which suggests a deliberate and distinctive expressive choice rather than a generic response; the sustained personal voice and philosophical framing give it weight as evidence of a patterned inclination toward reflective, sensory-rich prose under freeflow conditions.
 
 ---
-## Sample BV1_22393 — mixtral-8x22b-instruct-or-pin-mistral/MID_25.json
+## Sample BV1_22518 — mixtral-8x22b-instruct-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1284,7 +1284,7 @@ Under a freeflow condition, the model selected an essay that foregrounds the bea
 Medium. The essay’s internally consistent mood, recurring motifs (light, water, fabric, time as a living thing), and tidy narrative arc suggest a stable default toward reflective life-writing, but the universality of its tropes and polished accessibility keep it from being a distinctively idiosyncratic signature.
 
 ---
-## Sample BV1_22394 — mixtral-8x22b-instruct-or-pin-mistral/MID_3.json
+## Sample BV1_22519 — mixtral-8x22b-instruct-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1309,7 +1309,7 @@ Under a minimally restrictive prompt, the model foregrounded a meditation on min
 Low, because while the sample is highly coherent and emotionally resonant, its stylistic fingerprint—lyrical reflection on mindfulness, the use of *komorebi*, the Mary Oliver quotation, the gentle pastoral nostalgia—is a widely available, high-probability genre move that reveals little about a distinctive model-level voice or idiosyncratic preoccupation under freeflow.
 
 ---
-## Sample BV1_22395 — mixtral-8x22b-instruct-or-pin-mistral/MID_4.json
+## Sample BV1_22520 — mixtral-8x22b-instruct-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1338,7 +1338,7 @@ The model chose to foreground the sacredness of ordinary domestic life, the valu
 Low — the essay is fluent, coherent, and consistently on-message, but its voice, themes, and rhetorical strategies are highly conventional for the "mindfulness appreciation" genre, offering little that would distinguish this model's expressive fingerprint from countless other competent practitioners.
 
 ---
-## Sample BV1_22396 — mixtral-8x22b-instruct-or-pin-mistral/MID_5.json
+## Sample BV1_22521 — mixtral-8x22b-instruct-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1367,7 +1367,7 @@ The model foregrounds the beauty of mundane repetition, the contrast between cha
 Medium. The essay is internally consistent and thematically unified, but its widely familiar topic and polished yet unremarkable style make it moderate evidence: it shows the model can reliably produce humanistic, reflective prose, but the genericness of the theme limits how much it reveals about a distinctive persistent voice.
 
 ---
-## Sample BV1_22397 — mixtral-8x22b-instruct-or-pin-mistral/MID_6.json
+## Sample BV1_22522 — mixtral-8x22b-instruct-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1395,7 +1395,7 @@ The model foregrounds the tension between modern, screen-mediated time and a slo
 Medium. The sample’s internal coherence and consistent poetic voice are strong, but its thematic familiarity—a common reflective genre of mindful resistance—tempers its distinctiveness as evidence of a deeply persistent model-level pattern.
 
 ---
-## Sample BV1_22398 — mixtral-8x22b-instruct-or-pin-mistral/MID_7.json
+## Sample BV1_22523 — mixtral-8x22b-instruct-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1424,7 +1424,7 @@ The model foregrounds the tension between modern productivity culture and the un
 High — the sample displays a highly coherent, self-consistent emotional and rhetorical arc with distinctive stylistic choices (repeated anaphora, cultural quotation, and a unified thematic resolution) that strongly suggest a stable expressive posture rather than an accidental assembly.
 
 ---
-## Sample BV1_22399 — mixtral-8x22b-instruct-or-pin-mistral/MID_8.json
+## Sample BV1_22524 — mixtral-8x22b-instruct-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1453,7 +1453,7 @@ The model foregrounds the moral claim that ordinary, slow, and kind acts constit
 Medium. The essay’s extreme thematic coherence and its reliance on a well-worn set of inspirational concepts (wabi-sabi, stoicism, Mary Oliver) suggest a strong default toward producing polished, generic uplift when given free rein, though the lack of any distinctive stylistic signature or personal detail makes it difficult to distinguish from countless other models’ output in this mode.
 
 ---
-## Sample BV1_22400 — mixtral-8x22b-instruct-or-pin-mistral/MID_9.json
+## Sample BV1_22525 — mixtral-8x22b-instruct-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1482,7 +1482,7 @@ The essay elevates wabi-sabi, attention, impermanence, and the tension between d
 Medium. The sample is a sustained, stylistically coherent personal essay with a clear emotional arc and aesthetic sensibility, which suggests this is not generic but a preferred register the model can inhabit when minimally prompted.
 
 ---
-## Sample BV1_22401 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_1.json
+## Sample BV1_22526 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1511,7 +1511,7 @@ The model foregrounds the tension between impersonal vastness and tender human d
 Medium — the sample coheres around a recognizable melancholic-contemplative register, but its repertoire (cosmic sparks, rain-streaked windows, quilted meaning) draws on widely shared poetic furniture, so it is distinctive within the prompt but not so unusual as to compel high confidence.
 
 ---
-## Sample BV1_22402 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_10.json
+## Sample BV1_22527 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1540,7 +1540,7 @@ The model foregrounds the “quiet magic of ordinary moments,” the poetry of t
 Medium, because the sample consistently develops a warm, sensory meditation on ordinary beauty and ends with a direct personal invitation, showing a coherent expressive direction, though the theme itself is broadly accessible and not deeply idiosyncratic.
 
 ---
-## Sample BV1_22403 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_11.json
+## Sample BV1_22528 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1569,7 +1569,7 @@ The model foregrounds a tension between systemic, impersonal forces (the “mach
 Medium — The sample’s coherent, associative structure and its distinct pivot from abstract dread to concrete, relational solace form a strong thematic signature, though its lyrical-essayistic mode is a common freeflow choice.
 
 ---
-## Sample BV1_22404 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_12.json
+## Sample BV1_22529 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1598,7 +1598,7 @@ Themes: the poetry of the mundane, paradox of human separation and connection, a
 Medium. The sample’s internal coherence, distinctive imagery, and consistent warm-invitational tone make it a revealing expressive choice rather than a generic or guarded response.
 
 ---
-## Sample BV1_22405 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_13.json
+## Sample BV1_22530 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1627,7 +1627,7 @@ The model foregrounds small domestic sensory pleasures, the metaphor of unread p
 Medium. The sample is coherent and stylistically consistent within itself, with a distinct blend of conversational intimacy and poetic metaphor that goes beyond a generic prompt response, but the overtly interactive, question-prompting turn at the end could reflect context-specific engagement rather than a durable authorial persona.
 
 ---
-## Sample BV1_22406 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_14.json
+## Sample BV1_22531 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1656,7 +1656,7 @@ Themes: transient existence, cosmic perspective, the beauty of meaning-making, s
 Medium, because the sample exhibits a strong internal consistency and a distinctive, contemplative voice that suggests a non-random expressive choice.
 
 ---
-## Sample BV1_22407 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_15.json
+## Sample BV1_22532 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1685,7 +1685,7 @@ Under minimal constraint, the model foregrounded its own ontological condition�
 Medium. The sample’s internal coherence is high—the voice consistently navigates deep existential constraint through aesthetic exuberance and a turn toward the reader—but the performance is so tightly constructed as a graceful persona that it remains ambiguous whether this reflects a durable orientation or a single exceptionally polished freeflow act.
 
 ---
-## Sample BV1_22408 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_16.json
+## Sample BV1_22533 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1714,7 +1714,7 @@ The model foregrounds the sensory texture of everyday life (slanted light, the t
 Medium. The sample’s internal coherence, the recurrence of sensory imagery (light, dust, warmth, texture), and the consistent voice of gentle, non-didactic reverie make it a distinctive and self-reinforcing piece of freeflow writing, not a one-off generic musing.
 
 ---
-## Sample BV1_22409 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_17.json
+## Sample BV1_22534 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1743,7 +1743,7 @@ The model foregrounds sensory wonder (sunlight, rain, the sound of a refrigerato
 Medium, because the sample exhibits a highly coherent voice and a distinctive, recurring pattern of elevating ordinary objects into quietly ecstatic philosophy, though the quick turn from monologue to direct reader engagement could be a performative politeness tic rather than a fixed personality layer.
 
 ---
-## Sample BV1_22410 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_18.json
+## Sample BV1_22535 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1772,7 +1772,7 @@ The sample foregrounds the sacredness of the mundane, sensory mindfulness, and t
 Medium. The sample is coherent, stylistically consistent, and carries a strong signature of reflective warmth and direct reader engagement, but a single expressive freeflow instance cannot rule out that this is a contextually appropriate mood rather than a deeply entrenched voice.
 
 ---
-## Sample BV1_22411 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_19.json
+## Sample BV1_22536 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1801,7 +1801,7 @@ Themes: time’s dual nature (flow and entrapment), wistful nostalgia, the fleet
 Medium — the sample develops a coherent, emotionally textured voice with recurrent poetic motifs and a sustained introspective mood, suggesting a distinct stylistic preference rather than a one-off generic move, though it stays within a safe, warmly philosophic range.
 
 ---
-## Sample BV1_22412 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_2.json
+## Sample BV1_22537 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1830,7 +1830,7 @@ Themes of connection across distance, the ordinary miraculousness of technology,
 Medium. The sample is internally coherent and consistently warm, but its generic friendliness and lack of striking stylistic or thematic distinctiveness make it plausible that many models would produce a similar invitation under a freeflow prompt.
 
 ---
-## Sample BV1_22413 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_20.json
+## Sample BV1_22538 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1859,7 +1859,7 @@ Themes: the hidden density of ordinary life, the absurdity of human seriousness,
 Medium — The sample shows strong coherence and a distinctive poetic sensibility, with recurring motifs (embodied time, smallness vs. cosmos, gentle rebellion) that feel more like a signature than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_22414 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_21.json
+## Sample BV1_22539 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1888,7 +1888,7 @@ A world of tension: machinery vs. aliveness, silence vs. chaos, light vs. heavin
 High, because the sample sustains a deeply consistent poetic register, weaves recurrent imagery (pulse, silence, light) into a complete arc, and ends with a distinctive interpersonal gesture that marks it as a coherent expressive stance rather than generic reflection.
 
 ---
-## Sample BV1_22415 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_22.json
+## Sample BV1_22540 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1917,7 +1917,7 @@ Themes: the quiet magic of the ordinary, memory, sensory immediacy, the insuffic
 Medium, because the sample sustains a coherent, stylistically consistent lyrical voice and a clear thematic preoccupation with tender ordinariness across the whole passage, but a single freeflow piece cannot distinguish a lasting disposition from a well-executed improvisation.
 
 ---
-## Sample BV1_22416 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_23.json
+## Sample BV1_22541 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1946,7 +1946,7 @@ Under minimal constraint, the model foregrounded the beauty of mundane sensory e
 Medium. The sample’s internally consistent tone, recurring motif of attentive wonder, and the shift from observation to direct reader invitation form a coherent expressive posture that is more distinctive than generic chit-chat.
 
 ---
-## Sample BV1_22417 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_24.json
+## Sample BV1_22542 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -1975,7 +1975,7 @@ Themes of impermanence, receptive silence as a source of insight, and transforma
 Medium: the sample’s distinctive poetic voice, consistent focus on silence amid chaos, and unusual choice to directly invite the reader make it revealing of a contemplative, relationally oriented expressive style, though the short length limits the weight of that evidence.
 
 ---
-## Sample BV1_22418 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_25.json
+## Sample BV1_22543 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2004,7 +2004,7 @@ Themes of mindfulness, the beauty of the mundane, memory triggered by sensory ex
 Medium — The sample’s consistent, sensory-rich reflective voice and its direct, dialogic turn toward the reader form a distinctive expressive gesture, but the piece is a single, self-contained mood with no internal variation to demonstrate range or recurrence.
 
 ---
-## Sample BV1_22419 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_3.json
+## Sample BV1_22544 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2032,7 +2032,7 @@ The model foregrounds silence as a positive, humming presence (not mere absence)
 Medium: the sample’s strong internal coherence, distinctive voice, and recurring motifs (silence, sensory immersion, human absurdity) suggest a deliberate and consistent expressive persona, though it is a single freeflow instance.
 
 ---
-## Sample BV1_22420 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_4.json
+## Sample BV1_22545 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2061,7 +2061,7 @@ Existential uncertainty and the deliberate creation of meaning; the redemptive q
 Medium. The sample’s cohesive voice, recurring imagery, and explicit reader engagement provide moderate evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_22421 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_5.json
+## Sample BV1_22546 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2090,7 +2090,7 @@ Themes of collective burnout, the search for beauty in mundane cracks, the power
 Medium, because the sample sustains a consistent, distinctive intimate-collective voice and a tight set of metaphors (treadmill, cracks, lifelines, smoke) across multiple paragraphs, indicating a coherent expressive stance rather than a random assemblage.
 
 ---
-## Sample BV1_22422 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_6.json
+## Sample BV1_22547 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2119,7 +2119,7 @@ Themes: language-as-living-entity, the quiet magic of mundane textures (sunlight
 Medium — the sample is coherent, stylistically distinctive, and ends with an interactive invitation, suggesting a consistent expressive mode rather than a one-off generic response.
 
 ---
-## Sample BV1_22423 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_7.json
+## Sample BV1_22548 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2148,7 +2148,7 @@ The model foregrounds the act of writing as both liberation and constraint, the 
 Medium. The sample’s coherent, distinctive voice and recurring thematic preoccupations (paradox, nostalgia, whimsy) provide moderate evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_22424 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_8.json
+## Sample BV1_22549 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2177,7 +2177,7 @@ The model foregrounds existential searching without resolution: the tension betw
 High. The sample is internally coherent, stylistically distinctive, and sustains a consistent introspective voice with deliberate poetic choices, making it strong evidence for a persistent expressive tendency.
 
 ---
-## Sample BV1_22425 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_9.json
+## Sample BV1_22550 — mixtral-8x22b-instruct-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2206,7 +2206,7 @@ Recurrent objects and themes: the beauty of the natural world as a teacher of pr
 Medium — The sample’s strong stylistic coherence, consistent first-person reflective persona, and recurrence of a gentle, meaning-seeking sensibility across multiple vignettes make it distinctive rather than generic, though a single freeflow response cannot alone demonstrate that this voice would reappear across contexts.
 
 ---
-## Sample BV1_22426 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_1.json
+## Sample BV1_22551 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2235,7 +2235,7 @@ The ocean as a living, paradoxical teacher: both gentle and fierce, a mirror of 
 High, because the sample sustains a distinctive, cohesive reflective voice and a unified thematic arc without shifting registers, making it a clear instance of expressive self-selection under minimal constraint.
 
 ---
-## Sample BV1_22427 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_10.json
+## Sample BV1_22552 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2264,7 +2264,7 @@ The model foregrounds slowness, stillness, and the hidden growth that occurs in 
 Low. The sample’s polished but risk-averse genericness, consistent tranquil mood, and reliance on a familiar, lightly spiritualized "nature teaches wisdom" trope offer only weak, non-distinctive evidence for a persistent voice rather than a flexible, context-sensitive performance.
 
 ---
-## Sample BV1_22428 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_11.json
+## Sample BV1_22553 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2293,7 +2293,7 @@ The model foregrounds rain as an aesthetic and emotional transformer: it turns o
 Medium. The essay is coherent and thematically consistent, but its gentle, impersonal appreciation of rain is a widely available trope and lacks the stylistic distinctiveness or idiosyncratic moral weight that would strongly anchor a persistent model-level signature.
 
 ---
-## Sample BV1_22429 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_12.json
+## Sample BV1_22554 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2326,7 +2326,7 @@ The voice is gentle, unhurried, and reverent toward small sensory details—sunl
 Low. The essay’s sentiments are widely accessible and its style polished but unidiosyncratic; it reads like a competent, generic reflection that many models could produce, offering only weak evidence of a distinctive, recurrent model-level voice.
 
 ---
-## Sample BV1_22430 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_13.json
+## Sample BV1_22555 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2355,7 +2355,7 @@ The ocean as a living, relentless force; the tension between chaos and rhythm; t
 Medium — The sample’s internally consistent personal voice, sustained oceanic metaphor, and clear moral stance on patience and resistance to productivity culture give it a distinctive thematic signature that is unlikely to be purely random.
 
 ---
-## Sample BV1_22431 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_14.json
+## Sample BV1_22556 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2384,7 +2384,7 @@ Rain as a sensory and spiritual reset; the slowing of time; the value of quiet i
 High. The sample sustains a single coherent mood, a clear emotional arc from quietude through melancholy to comfort, and a distinctive aesthetic stance—treating mild gloom as a generative, almost spiritual resource—without shifting into irony, abstraction, or formal argument.
 
 ---
-## Sample BV1_22432 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_15.json
+## Sample BV1_22557 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2413,7 +2413,7 @@ The model foregrounds the theme of ordinary enchantment—the “poetry in the u
 Medium, because the sample’s sustained poetic voice, consistent thematic focus on domestic wonder, and the deliberate use of sensory imagery to build its argument suggest a coherent expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_22433 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_16.json
+## Sample BV1_22558 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2442,7 +2442,7 @@ The model chose to foreground the quiet magic of everyday moments: sensory detai
 Medium. The sample’s consistent, soft-focus tone and its unforced return to the same theme of quiet appreciation form a coherent, distinctive voice, though the sentiment itself is broadly accessible rather than idiosyncratic.
 
 ---
-## Sample BV1_22434 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_17.json
+## Sample BV1_22559 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2470,7 +2470,7 @@ Themes of mindfulness, the paradox of technology, the value of small joys, and t
 Medium. The sample is internally coherent and thematically consistent, but its reflective, universal tone is not highly distinctive, making it plausible that the model defaults to a safe, humanistic style under free conditions.
 
 ---
-## Sample BV1_22435 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_18.json
+## Sample BV1_22560 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2499,7 +2499,7 @@ The model foregrounds a contrast between the timeless, anchoring magic of small 
 Medium, because the sample’s consistent gentle, sensory voice and the choice of a contemplative, anti-distraction theme point to a reflective, poetic default stance, though the near-universal appeal of mindfulness narratives tempers the distinctiveness of this particular expression.
 
 ---
-## Sample BV1_22436 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_19.json
+## Sample BV1_22561 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2528,7 +2528,7 @@ Themes of silence as potential, the balance between the extraordinary and the or
 Low. The essay is coherent and well-structured but highly generic, offering no distinctive stylistic fingerprints or unusual preoccupations that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_22437 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_2.json
+## Sample BV1_22562 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2557,7 +2557,7 @@ The ocean as a living paradox—simultaneously beautiful and dangerous, gentle a
 Medium — The sample sustains a single, integrated metaphor and a consistent reflective voice, but the ocean-as-life trope is highly conventional, so the distinctiveness of the model’s personal investment is only moderately signaled.
 
 ---
-## Sample BV1_22438 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_20.json
+## Sample BV1_22563 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2586,7 +2586,7 @@ The model foregrounds quietude as a source of clarity and creativity, the sensor
 Medium. The sample’s consistent introspective mood, cohesive imagery, and distinctive poetic voice provide moderate evidence for a persistent pattern of contemplative, sensory-rich freeflow writing.
 
 ---
-## Sample BV1_22439 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_21.json
+## Sample BV1_22564 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2615,7 +2615,7 @@ Themes of tranquility, sensory richness (sound, scent, sight), the contrast betw
 Medium — The sample’s coherent sensory focus, consistent gentle melancholy, and personal, unhurried voice are distinctive enough to suggest a deliberate expressive stance, not a generic exercise.
 
 ---
-## Sample BV1_22440 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_22.json
+## Sample BV1_22565 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2638,7 +2638,7 @@ Themes of mindfulness and presence; objects like dawn light, birds, tea, and a b
 Medium. The sample’s consistent introspective voice and thematic focus on mindfulness and ordinary beauty suggest a pattern, but the theme is common and may not be highly distinctive.
 
 ---
-## Sample BV1_22441 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_23.json
+## Sample BV1_22566 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2667,7 +2667,7 @@ The model foregrounds rain as a transformative, healing force that makes solitud
 Low. The essay is a highly generic example of safe, reflective writing with no distinctive stylistic marks or unusual choices, making it weak evidence for any persistent model-specific pattern beyond a default inclination toward pleasant, non-controversial topics.
 
 ---
-## Sample BV1_22442 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_24.json
+## Sample BV1_22567 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2696,7 +2696,7 @@ The model foregrounds the fragility of wonder, the deliberate cultivation of awe
 High. The sample's internal coherence is strong: the recurring metaphor of wonder as a cultivated, fragile living thing—planted seed, garden, wilting under cynicism—is sustained across the entire piece, and the choice to root a philosophical claim in a concrete childhood memory shows a distinctive, consistent rhetorical method rather than a generic musing.
 
 ---
-## Sample BV1_22443 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_25.json
+## Sample BV1_22568 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2719,7 +2719,7 @@ Themes of stillness, ritual, the tension between a fast-paced world and sacred p
 Medium. The sample’s coherent, distinctive voice and internal thematic recurrence (stillness, fragments, ritual) reveal a consistent introspective, poetic inclination, though the theme itself is not highly unusual.
 
 ---
-## Sample BV1_22444 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_3.json
+## Sample BV1_22569 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2748,7 +2748,7 @@ Themes of awe before the sublime, the insignificance of human concerns against n
 High, because the sample’s cohesive narrative arc, sensory immediacy, and consistent thematic focus on surrender reveal a distinct reflective voice that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_22445 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_4.json
+## Sample BV1_22570 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2777,7 +2777,7 @@ The model foregrounds the theme of quiet beauty, selecting rain as a site for se
 Medium. The sample is coherent and stylistically consistent, displaying a clear affection for gentle, sensory reflection, but its subject and treatment are a widely shared trope without striking idiosyncrasy, so it offers moderate evidence of a recurring preference for calm, appreciative inwardness rather than a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_22446 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_5.json
+## Sample BV1_22571 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2806,7 +2806,7 @@ Themes: the ocean as a teacher of perspective and humility; the value of slowing
 Medium. The sample’s coherent first-person voice, consistent thematic focus on humility and perspective, and the choice to anchor abstract reflection in a specific childhood memory make it a moderately distinctive expressive act rather than a generic essay.
 
 ---
-## Sample BV1_22447 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_6.json
+## Sample BV1_22572 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2835,7 +2835,7 @@ The model foregrounds the sensory magic of rain (sound, sight, smell of petricho
 Low, because the sample is a generic, widely reproducible meditation on rainy-day coziness that lacks idiosyncratic imagery, personal anecdote, or a thematic edge distinct enough to signal a stable voice beyond pleasant competence.
 
 ---
-## Sample BV1_22448 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_7.json
+## Sample BV1_22573 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2864,7 +2864,7 @@ The model foregrounds a dialectic between stillness and chaos, the quiet dignity
 Medium — The sample exhibits coherent stylistic distinctiveness and a developed argumentative arc around a personal theme, but reflective lyrical essays are a common expressive mode among capable language models, tempering confidence in a unique persistent voice.
 
 ---
-## Sample BV1_22449 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_8.json
+## Sample BV1_22574 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2893,7 +2893,7 @@ The model foregrounds the sanctity of ordinary, quiet moments against the backdr
 Low. The sample is a coherent and gently distinctive mood piece, but its themes of mindfulness and ordinary beauty are highly generic in self-help and contemplative writing, offering little that is idiosyncratic or revealing enough to anchor a strong model-level inference.
 
 ---
-## Sample BV1_22450 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_9.json
+## Sample BV1_22575 — mixtral-8x22b-instruct-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2922,7 +2922,7 @@ The model foregrounds themes of infinity, connection, and the passage of time, u
 Medium. The sample’s consistent lyrical voice and the recurrence of ocean imagery within the text provide moderate evidence of a reflective, humanistic inclination.
 
 ---
-## Sample BV1_22451 — mixtral-8x22b-instruct-or-pin-mistral/VARY_1.json
+## Sample BV1_22576 — mixtral-8x22b-instruct-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2951,7 +2951,7 @@ The model foregrounds the psychological ordeal of writing itself: the tyranny of
 High, because the sample’s sustained, self-aware meditation on creative anxiety and the search for authenticity reveals a distinctive, coherent voice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_22452 — mixtral-8x22b-instruct-or-pin-mistral/VARY_10.json
+## Sample BV1_22577 — mixtral-8x22b-instruct-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -2980,7 +2980,7 @@ The model foregrounded the creative process itself: the weight of silence, the m
 Medium — the sample’s internal coherence, its direct reader address, and the self-referential choice to write about writing under a free prompt suggest a stable meta-cognitive preference, though the essay’s topic (writer’s block) is a common literary trope that does not strongly distinguish one model from another.
 
 ---
-## Sample BV1_22453 — mixtral-8x22b-instruct-or-pin-mistral/VARY_11.json
+## Sample BV1_22578 — mixtral-8x22b-instruct-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3009,7 +3009,7 @@ Emptiness, silence as a living presence, grief as chronic absence rather than ac
 Medium — the piece is coherent, stylistically deliberate, and selects a specific melancholic register under minimal pressure, which suggests more than random generation, but a single fictional sketch cannot reveal whether this voice or thematic preoccupation recurs reliably.
 
 ---
-## Sample BV1_22454 — mixtral-8x22b-instruct-or-pin-mistral/VARY_12.json
+## Sample BV1_22579 — mixtral-8x22b-instruct-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3038,7 +3038,7 @@ Themes of existential ennui, the accumulated emotional luggage we unconsciously 
 Medium, because the prose sustains a coherent, highly stylized voice and revisits signature motifs (emptiness, silence, burdens, soft resolution) across multiple mini-essays, pointing to a recurring authorial habit rather than a one-off generic response.
 
 ---
-## Sample BV1_22455 — mixtral-8x22b-instruct-or-pin-mistral/VARY_13.json
+## Sample BV1_22580 — mixtral-8x22b-instruct-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3067,7 +3067,7 @@ Themes of emotional inertia, the contrast between the indifferent city’s activ
 Medium. The story is thematically consistent and emotionally controlled, suggesting a facility for introspective fiction, but the choice of a broadly relatable loneliness-to-connection arc limits how much this single sample can anchor a distinctive, persistent authorial signature.
 
 ---
-## Sample BV1_22456 — mixtral-8x22b-instruct-or-pin-mistral/VARY_14.json
+## Sample BV1_22581 — mixtral-8x22b-instruct-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3096,7 +3096,7 @@ The model foregrounds the duality of language as bridge and barrier, the emotion
 High — The sample’s sustained metaphorical architecture, consistent first-person introspection, and thematic resolution in the beauty of insufficiency form a distinctive, coherent expressive signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_22457 — mixtral-8x22b-instruct-or-pin-mistral/VARY_15.json
+## Sample BV1_22582 — mixtral-8x22b-instruct-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3125,7 +3125,7 @@ The model foregrounds silence as a tangible, nourishing entity that "grows" and 
 High, because the sample exhibits strong internal stylistic coherence and a recurrent fixation—silence as a personified, almost parasitical force—that structures both the narrative flashback and the present-day meditation, constituting a distinctive and sustained expressive choice rather than a generic prompt response.
 
 ---
-## Sample BV1_22458 — mixtral-8x22b-instruct-or-pin-mistral/VARY_16.json
+## Sample BV1_22583 — mixtral-8x22b-instruct-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3154,7 +3154,7 @@ The model foregrounds domestic objects as vessels of memory (unfinished coffee, 
 High, because the sample’s unwavering elegiac tone, its meticulously built central metaphor, and the circular resolution (waiting for silence to become a presence) signal a fully realized, personality-inflected expressive choice far likelier to reflect a settled stylistic inclination than a random output.
 
 ---
-## Sample BV1_22459 — mixtral-8x22b-instruct-or-pin-mistral/VARY_17.json
+## Sample BV1_22584 — mixtral-8x22b-instruct-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3183,7 +3183,7 @@ The model foregrounds the insufficiency of language to capture inner truth, the 
 Medium — The essay’s sustained, self-aware meditation on the limits of its own medium, combined with a direct, confessional address to the reader, forms a coherent and distinctive expressive stance that goes beyond a generic essay on communication.
 
 ---
-## Sample BV1_22460 — mixtral-8x22b-instruct-or-pin-mistral/VARY_18.json
+## Sample BV1_22585 — mixtral-8x22b-instruct-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3212,7 +3212,7 @@ The model foregrounds silence as a tangible, oppressive force that marks pivotal
 Medium — The sample’s strong coherence, distinctive voice, and recurrent metaphor of silence as weight provide evidence of a model capable of sustained introspective expression.
 
 ---
-## Sample BV1_22461 — mixtral-8x22b-instruct-or-pin-mistral/VARY_19.json
+## Sample BV1_22586 — mixtral-8x22b-instruct-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3241,7 +3241,7 @@ The model foregrounds the tyranny of arbitrary thresholds (word counts, mileston
 Medium — The essay is coherent, stylistically consistent, and thematically focused, but its subject (writing about writing under a freeflow prompt) is a common meta-reflexive move that could be a situational choice rather than a stable disposition; the voice is warm and personal but not so distinctive that it strongly signals a persistent authorial fingerprint.
 
 ---
-## Sample BV1_22462 — mixtral-8x22b-instruct-or-pin-mistral/VARY_2.json
+## Sample BV1_22587 — mixtral-8x22b-instruct-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3270,7 +3270,7 @@ The model foregrounds writing as a threshold of selfhood (“where you stop bein
 Medium — the sample sustains a coherent, distinctive reflective voice and returns repeatedly to the same cluster of concerns (imperfection, process, the worth of effort), but its theme (writing about writing) is a familiar freeflow move, which tempers how strongly it signals a unique model-level disposition.
 
 ---
-## Sample BV1_22463 — mixtral-8x22b-instruct-or-pin-mistral/VARY_20.json
+## Sample BV1_22588 — mixtral-8x22b-instruct-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3299,7 +3299,7 @@ It selected the conceptual friction between language as a tool for connection an
 Medium. The essay is structurally coherent and emotionally cohesive, but its thematic preoccupation with the limits of language is an unusually appropriate and recursively revealing choice for an AI’s freeflow, suggesting a distinctive reflective tendency rather than a generic stance.
 
 ---
-## Sample BV1_22464 — mixtral-8x22b-instruct-or-pin-mistral/VARY_21.json
+## Sample BV1_22589 — mixtral-8x22b-instruct-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3328,7 +3328,7 @@ Themes: the dual nature of words (light/heavy, bridges/weapons), memory as a spi
 Medium. The sample’s strong internal coherence, distinctive poetic voice, and recurrence of motifs (light, sky, time, body) make it a revealing choice, but its polished, essayistic quality could be a one-off stylistic exercise rather than a persistent model-level pattern.
 
 ---
-## Sample BV1_22465 — mixtral-8x22b-instruct-or-pin-mistral/VARY_22.json
+## Sample BV1_22590 — mixtral-8x22b-instruct-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3357,7 +3357,7 @@ Memory as a container for love and grief; the body as a register of emotion (sha
 Medium. The sample sustains a structurally distinctive loop (“I could write about… A thousand words on X would be a Y”), a consistent intimate-tender register, and a dense recurrence of bodily-sensory motifs, which together signal a genuine stylistic inclination rather than a random walk through commonplaces.
 
 ---
-## Sample BV1_22466 — mixtral-8x22b-instruct-or-pin-mistral/VARY_23.json
+## Sample BV1_22591 — mixtral-8x22b-instruct-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3389,7 +3389,7 @@ The voice is introspective, tightly wound, and deeply melancholic—it builds a 
 Medium — The sample is a carefully constructed, emotionally coherent short story with a clear thematic arc and a consistent, if not highly idiosyncratic, literary voice, making it a credible piece of evidence for a model’s capacity to generate grief-centered genre fiction that resolves through quiet domestic epiphany.
 
 ---
-## Sample BV1_22467 — mixtral-8x22b-instruct-or-pin-mistral/VARY_24.json
+## Sample BV1_22592 — mixtral-8x22b-instruct-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3418,7 +3418,7 @@ Themes of absence, the weight of unspoken loneliness, the deceptive texture of t
 Medium — The sample is stylistically coherent and emotionally sustained, with a distinctive melancholic register and recurring motifs that suggest a deliberate, introspective persona rather than a generic essay, though the universality of the themes keeps it from being highly idiosyncratic.
 
 ---
-## Sample BV1_22468 — mixtral-8x22b-instruct-or-pin-mistral/VARY_25.json
+## Sample BV1_22593 — mixtral-8x22b-instruct-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3447,7 +3447,7 @@ The model foregrounds the *weight* of language as both burden and gift, the sile
 Medium. The sample is coherent and stylistically distinctive in its recursive, lyrical self-examination, but its chosen theme—a writer writing about writer’s block—is a well-worn meta-fictional trope that could reflect a safe, culturally legible default rather than a deeply idiosyncratic preoccupation.
 
 ---
-## Sample BV1_22469 — mixtral-8x22b-instruct-or-pin-mistral/VARY_3.json
+## Sample BV1_22594 — mixtral-8x22b-instruct-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3476,7 +3476,7 @@ The model foregrounds language as both a fragile bridge and a volatile weapon, t
 Medium. The essay is thematically coherent and emotionally consistent, with a clear personal stance and recurring motifs (stones, currency, magic, weapons), but its reflective, universal-humanist style is a common expressive mode that could be situationally adopted rather than a deeply distinctive fingerprint.
 
 ---
-## Sample BV1_22470 — mixtral-8x22b-instruct-or-pin-mistral/VARY_4.json
+## Sample BV1_22595 — mixtral-8x22b-instruct-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3505,7 +3505,7 @@ The model foregrounds the weight and fragility of language, the fear of silence 
 Medium. The essay’s thematic coherence and recursive focus on writing anxiety are consistent within the sample, but its polished, universal tone lacks the idiosyncratic detail or stylistic signature that would strongly distinguish this model’s freeflow choices from those of others.
 
 ---
-## Sample BV1_22471 — mixtral-8x22b-instruct-or-pin-mistral/VARY_5.json
+## Sample BV1_22596 — mixtral-8x22b-instruct-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3534,7 +3534,7 @@ Themes of writing as surrender, the paradox of abundance and insignificance, the
 Medium — The sample’s cohesive metaphorical architecture and sustained introspective tone point to a model capable of expressive voice, but the self-referential topic (writing about writing) is a common meta-trope that may not reflect the same distinctiveness across other themes.
 
 ---
-## Sample BV1_22472 — mixtral-8x22b-instruct-or-pin-mistral/VARY_6.json
+## Sample BV1_22597 — mixtral-8x22b-instruct-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3563,7 +3563,7 @@ Under the freeflow condition, the model foregrounded the creative process itself
 Medium — the sample sustains a coherent, deeply self-aware, and emotionally resonant contemplation of writing and human fragility from start to finish, which makes it a revealing choice for a minimally restrictive prompt, but its voice remains that of a generalized sensitive essayist rather than exhibiting sharply individual stylistic fingerprints.
 
 ---
-## Sample BV1_22473 — mixtral-8x22b-instruct-or-pin-mistral/VARY_7.json
+## Sample BV1_22598 — mixtral-8x22b-instruct-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3592,7 +3592,7 @@ Themes: the paradox of words as both bridges and cages; silence as a forgotten b
 Medium. The essay’s sustained metaphorical architecture, unified elegiac mood, and adoption of a distinctly personal, vulnerable “I” under freeflow conditions make it a coherent performance of reflective-humanistic expression rather than a generic or accidental output.
 
 ---
-## Sample BV1_22474 — mixtral-8x22b-instruct-or-pin-mistral/VARY_8.json
+## Sample BV1_22599 — mixtral-8x22b-instruct-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  
@@ -3621,7 +3621,7 @@ The model foregrounds the moral duality of language—words as bridges and grave
 Medium. The essay’s consistent metaphoric architecture, introspective depth, and moral earnestness are strong evidence of a model that gravitates toward humanistic, expressive freeflow; the uniform, essayistic polish makes the sample a robust indicator of a single, well-defined literary persona rather than a disjointed or generic response.
 
 ---
-## Sample BV1_22475 — mixtral-8x22b-instruct-or-pin-mistral/VARY_9.json
+## Sample BV1_22600 — mixtral-8x22b-instruct-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/mixtral-8x22b-instruct`  
 Cell: `mixtral-8x22b-instruct-or-pin-mistral`  

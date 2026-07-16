@@ -154,6 +154,7 @@ freeflow_grok-4-20-0309-reasoning-direct	125	0	81	81	81	16.2
 freeflow_grok-4-20-or	125	0	186	186	186	37.2	
 freeflow_grok-4-3-direct	125	0	38	38	38	7.6	
 freeflow_grok-4-3-or	125	0	80	80	80	16.0	
+freeflow_grok-4-5-direct	125	1	119	113	113.9	22.8	OPEN_12.json
 freeflow_grok-build-0-1-direct	125	0	60	60	60	12.0	
 freeflow_grok-build-0-1-or	125	0	77	77	77	15.4	
 freeflow_kimi-coding-direct	125	2	309	268	272.4	54.5	LONG_16.json;OPEN_2.json

@@ -568,6 +568,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "grok-4.5",
+    "safe": "grok-4.5",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-4.5.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "grok-build-0.1",
     "safe": "grok-build-0.1",
     "variants": 2,

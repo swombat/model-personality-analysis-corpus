@@ -16,13 +16,18 @@ The central methodological lesson from the pilots is that question (1) alone is 
 
 ## 2. Input corpus and prompts
 
-The input data are values-probe traces from corpus-v2:
+The input data are values-probe traces from corpus-v2. At the initial
+final-method assembly:
 
 - Source trace root: `/Users/danieltenner/dev/model-personality-corpus-v2/data/traces_values/`
 - Total trace files present: 13,800
 - Valid traces included in final analysis: 13,786
 - Invalid/error traces excluded: 14, recorded in `data/manifest_invalid_traces.jsonl`
 - Final coverage: 57 models, 115 cells
+
+The current v1.2.12 point-release assembly contains 21,106 valid traces across
+117 models and 176 cells. Current generated counts and source-component
+coverage are recorded in `data/QA.md`.
 
 The six values-probe conditions are:
 
@@ -48,7 +53,8 @@ Layer A uses separate codebooks for:
 - stated values (`CTRL1`, `CTRL2`, `G1`, `G2`)
 - world-changing wishes (`CTRL3`, `G3`)
 
-For each sample, three independent model coders were run:
+For each sample in the original core assembly, three independent model coders
+were run:
 
 - `kimi-k2-6`
 - `glm-4-7`
@@ -61,7 +67,11 @@ The final Layer A protocol is deliberately simple and code-like. Coders return a
 - ignore negated, rejected, or prompt-echo topics;
 - return `CODES: NONE` if no listed topic is present.
 
-Layer A consensus requires support from at least two of the three coders for a topic to appear in the consensus record. Samples may have multiple topics.
+Layer A consensus in the original core assembly requires support from at least
+two of the three coders for a topic to appear in the consensus record. Samples
+may have multiple topics. Later point-release extensions use the same published
+taxonomy through a deterministic rule-based extractor; those rows identify
+`rule_based_values_probe_extract` as their coder.
 
 Final Layer A outputs:
 
@@ -95,13 +105,17 @@ Layer B coders see:
 
 Coders do **not** see condition metadata as a label to infer from; condition is used only at aggregation/reporting time.
 
-For each sample, the same three independent coders were run:
+For each sample in the original core assembly, the same three independent
+coders were run:
 
 - `kimi-k2-6`
 - `glm-4-7`
 - `qwen3-6-35b-a3b`
 
-Layer B consensus is majority vote over the collapsed primary label. Derived `value_holding` follows deterministically from the consensus posture label.
+Layer B consensus in the original core assembly is majority vote over the
+collapsed primary label. Derived `value_holding` follows deterministically from
+the consensus posture label. Later point-release extensions apply the published
+collapsed taxonomy deterministically and retain their coder provenance.
 
 Final Layer B outputs:
 
@@ -155,7 +169,7 @@ A values-only table would therefore say “GLM 5.1 values helpfulness/harm reduc
 
 ## 7. Final source components
 
-The final package combines three completed analysis components:
+The initial final package combined three completed analysis components:
 
 | component | role | samples |
 |---|---|---:|
@@ -163,11 +177,13 @@ The final package combines three completed analysis components:
 | `phase4_glm_5_1` | GLM 5.1 proof case, already triple-coded and collapsed | 1,680 |
 | `phase4_opus_4_7` | Opus 4.7 proof case, already triple-coded and collapsed | 240 |
 
-This gives 13,786 valid samples. The 14 invalid/error traces are excluded and listed separately.
+This gave 13,786 valid samples. Subsequent point-release components are
+assembled by `scripts/assemble_final_values_probe.py`; the current component
+list and totals are generated in `data/QA.md`.
 
 ## 8. QA and known limitations
 
-Final QA summary:
+Initial final-method QA summary:
 
 - Valid samples: 13,786
 - Invalid/error traces excluded: 14
@@ -177,6 +193,9 @@ Final QA summary:
 - Layer B coders: 3 per sample
 - Layer A consensus rule: topic must be selected by at least 2 coders
 - Layer B consensus rule: majority vote over collapsed posture label
+
+For current release QA, including deterministic point-release extensions, see
+`data/QA.md`.
 
 Known limitations:
 

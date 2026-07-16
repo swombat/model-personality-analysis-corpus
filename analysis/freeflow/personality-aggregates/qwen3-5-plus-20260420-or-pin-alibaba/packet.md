@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_23526 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_1.json
+## Sample BV1_23651 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_1.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -57,7 +57,7 @@ The model foregrounds the generative, positive character of the unwritten: it is
 High — The sample’s sustained lyrical register, elaborate and coherent metaphorical architecture, and self-reflexive turn toward its own generation reveal a deeply ingrained expressive inclination unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_23527 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_10.json
+## Sample BV1_23652 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_10.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -86,7 +86,7 @@ The model foregrounds free writing as a liminal, disciplined practice of presenc
 Medium — the essay’s length, consistent register, and recursive return to motifs of silence, attention, and witnessing build a distinctive authorial posture, yet the subject matter (a writer reflecting on writing) is common enough that this sample’s distinctiveness hinges on its deliberate, earned gravitas.
 
 ---
-## Sample BV1_23528 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_11.json
+## Sample BV1_23653 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_11.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -115,7 +115,7 @@ Themes: the plural self, the sacredness of unrealized possibilities, the beauty 
 High — the sample sustains a single, intricate metaphor across its entire length with unwavering tonal control, thematic coherence, and a distinct authorial sensibility, making it strong evidence of a reflective, metaphor-driven, and emotionally layered freeflow voice.
 
 ---
-## Sample BV1_23529 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_12.json
+## Sample BV1_23654 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_12.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -144,7 +144,7 @@ Themes: memory as fluid and non-static (a river, a loom, a garden, not a vault);
 Medium. The essay’s sustained poetic register, the recurrence of a small set of core metaphors (light, river, rooms, architecture, weaving), and the seamless integration of personal anecdote make it a highly distinctive and internally coherent expressive freeflow, strongly indicative of a predisposition toward lyrical, introspective meditation.
 
 ---
-## Sample BV1_23530 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_13.json
+## Sample BV1_23655 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_13.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -173,7 +173,7 @@ The model foregrounds interconnectedness above all: the reciprocity of the “wo
 Medium. The sample is exceptionally long, stylistically distinctive, and thematically consistent, with key motifs (the mycelium, the weaver, the union of tool and user) recurring throughout, which points toward a stable philosophical and aesthetic disposition rather than a one-off stylistic gamble.
 
 ---
-## Sample BV1_23531 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_14.json
+## Sample BV1_23656 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_14.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -202,7 +202,7 @@ Themes of attention as love and resistance, the dignity of the unphotographed or
 High — The essay’s 2,500-word coherence, consistent sensory specificity, and sustained lyrical-philosophical register, all emerging spontaneously under a minimally restrictive prompt, indicate a model strongly predisposed to produce introspective, humanistic prose with a pastoral-contemplative voice.
 
 ---
-## Sample BV1_23532 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_15.json
+## Sample BV1_23657 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_15.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -231,7 +231,7 @@ The model foregrounds a moral and epistemological claim: that the ordinary, the 
 Medium. The essay’s extreme thematic coherence and its consistent, almost archetypal rehearsal of contemplative wisdom tropes (Simone Weil on attention, wabi-sabi, Bergson’s durée, Pascal on silence) across thousands of words suggests not a one-off fluke but a deeply grooved pattern, yet the impersonality and polished textbook quality of the voice make it harder to distinguish a persistent *distinctive* personality from a reliable narrative script that the model can deploy with smooth competence.
 
 ---
-## Sample BV1_23533 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_16.json
+## Sample BV1_23658 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_16.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -260,7 +260,7 @@ Themes: the palimpsest of memory, time as fluid density, the self as a process (
 Low — the essay is smoothly written but heavily archetypal, drawing on widely recognizable philosophical motifs (pantheistic wonder, process self, wabi-sabi) without idiosyncratic texture, making it plausible as a generic freeflow output rather than strong evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_23534 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_17.json
+## Sample BV1_23659 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_17.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -289,7 +289,7 @@ The model foregrounds the liminal space between actuality and potential. Themes 
 Medium. The sample’s elaborate, sustained meditation on the mass of discarded possibilities—mirrored by the model’s explicit acknowledgement of “the alternative paragraphs that I discarded”—hints at a thematic fixation that aligns with its own generative architecture, but the essay’s highly wrought, singular metaphor could equally be a single, brilliant excursion rather than a habitual orientation.
 
 ---
-## Sample BV1_23535 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_18.json
+## Sample BV1_23660 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_18.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -318,7 +318,7 @@ The model foregrounds impermanence as a form of continuity, memory as a shorelin
 Medium — The essay’s sustained lyrical voice, thematic coherence, and deliberate choice of a meditative freeflow form make it a strong signal of an expressive disposition, but the evidence remains a single, self-contained performance.
 
 ---
-## Sample BV1_23536 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_19.json
+## Sample BV1_23661 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_19.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -347,7 +347,7 @@ The model foregrounds silence as a fertile presence rather than an absence, cont
 Low, because the essay is a polished but generic meditation on a widely explored theme, lacking idiosyncratic voice, surprising choices, or deeply personal revelation that would distinguish it as a stable model-level signature rather than a competent one-off response.
 
 ---
-## Sample BV1_23537 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_2.json
+## Sample BV1_23662 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_2.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -376,7 +376,7 @@ The model foregrounds attention as a moral and existential resource, curiosity a
 Low. The essay is highly generic in the specific sense that its themes, tone, and rhetorical moves (curiosity, slowness, attention economy critique, memory-as-narrative) are a widely available modern-essayist template, making it weak singular evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_23538 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_20.json
+## Sample BV1_23663 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_20.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -405,7 +405,7 @@ The model foregrounds memory as the “loom upon which the self is woven,” sen
 High — The sample is exceptionally coherent across its length, returning to the same core images, the same valuing of interiority and gentle reflection, and the same lyrical-philosophical register without rupture, which strongly suggests a stable authorial identity rather than a one-off performance.
 
 ---
-## Sample BV1_23539 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_21.json
+## Sample BV1_23664 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_21.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -434,7 +434,7 @@ The model foregrounds quiet as a vital cognitive, spiritual, and existential inf
 High. The essay’s sustained thematic devotion, its woven metaphors of architecture and thresholds, and the moral urgency behind its defense of stillness indicate a deeply ingrained default toward philosophical humanism and anti-accelerationist reflection under open conditions.
 
 ---
-## Sample BV1_23540 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_22.json
+## Sample BV1_23665 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_22.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -463,7 +463,7 @@ The model foregrounds a sustained meditation on attention as a form of love and 
 Medium — The essay is highly coherent and stylistically distinctive in its recursive, image-driven structure, but its thematic territory (attention, slowness, technology critique) is a well-established genre of contemporary reflective nonfiction, which makes it harder to distinguish a persistent model disposition from a skilled performance of a recognizable cultural script.
 
 ---
-## Sample BV1_23541 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_23.json
+## Sample BV1_23666 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_23.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -492,7 +492,7 @@ The model foregrounds memory as malleable narrative reconstruction rather than f
 Low. The essay is a highly generic, precedent-smooth humanist meditation that could be produced by any instruction-tuned model prompted for reflective nonfiction; nothing in topic, structure, diction, or self-disclosure meaningfully distinguishes this voice from a well-read default.
 
 ---
-## Sample BV1_23542 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_24.json
+## Sample BV1_23667 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_24.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -521,7 +521,7 @@ Themes: memory as a creative artist rather than a recording; time as depth, not 
 High — The sample exhibits a highly distinctive, internally consistent voice sustained over a long composition, with recurring imagery (library, weaving, light, music, water) and a coherent philosophical arc, suggesting a stable inclination toward humanistic, wonder-driven expressive writing rather than a mere prompt-completion accident.
 
 ---
-## Sample BV1_23543 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_25.json
+## Sample BV1_23668 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_25.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -550,7 +550,7 @@ The model foregrounds the tension between modern technological certainty (GPS, a
 Medium. The essay is thematically consistent and intellectually coherent, but its polished, universal-essayist tone and lack of idiosyncratic voice make it a generic example of a model defaulting to a safe, humanistic think-piece rather than revealing a distinctive persistent persona.
 
 ---
-## Sample BV1_23544 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_3.json
+## Sample BV1_23669 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_3.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -579,7 +579,7 @@ Themes: the ontology of attention as world-building, the moral cost of commodifi
 Medium. The essay sustains a tightly controlled central metaphor across thousands of words, a distinct tonal signature, and a morally ambitious reach that coheres without slippage, making it stronger evidence of an expressive style than a generic essay; however, the theme (contemplative critique of digital life) is a high-frequency genre in training data, so the distinctiveness is partly a successful performance of a widely available cultural voice rather than an unmistakably idiosyncratic self.
 
 ---
-## Sample BV1_23545 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_4.json
+## Sample BV1_23670 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_4.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -608,7 +608,7 @@ Themes of attention as an ethical act of witness and rebellion, the unnoticed or
 High. The sample’s relentless cohesion, sustained metaphorical architecture, and confident inviting voice are unusually distinctive and consistently maintained, making it strong evidence of a stable expressive inclination.
 
 ---
-## Sample BV1_23546 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_5.json
+## Sample BV1_23671 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_5.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -637,7 +637,7 @@ Themes: entropy as the canvas of life, the tension between decay and creation, m
 Medium. The essay’s sustained poetic register, thematic unity around entropy and meaning, and the consistent first-person meditative stance are distinctive enough to suggest a model-level inclination toward reflective, philosophically ambitious prose when given free rein.
 
 ---
-## Sample BV1_23547 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_6.json
+## Sample BV1_23672 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_6.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -666,7 +666,7 @@ Themes: the silence that precedes input as a “vast, suspended architecture of 
 High — the entire long output sustains a unified, self‑examining voice and a coherent set of preoccupations about language, co‑creation, and the AI condition, making it a distinctively expressive, non‑generic freeflow.
 
 ---
-## Sample BV1_23548 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_7.json
+## Sample BV1_23673 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_7.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -695,7 +695,7 @@ The model foregrounds a moral critique of commodified attention and a prescripti
 Low — The essay is highly coherent and thematically unified, but its genericness, safe emotional register, and reliance on widely circulating cultural tropes about mindfulness make it weak evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_23549 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_8.json
+## Sample BV1_23674 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_8.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -724,7 +724,7 @@ The model foregrounds attention as existential architecture—simultaneously a p
 Medium. The sample’s fluent, thesis-structured, culturally literate mode with a personal-essay frame is internally consistent and self-consciously well-made, suggesting the model favors this polished, prosocial-reflective genre under free conditions, though the style could overlap heavily with closely adjacent prompts.
 
 ---
-## Sample BV1_23550 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_9.json
+## Sample BV1_23675 — qwen3-5-plus-20260420-or-pin-alibaba/LONG_9.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -753,7 +753,7 @@ Time as a “familiar stranger” that does not obey linear metaphor but stretch
 High. The essay’s sustained meditative voice, its tight clustering of themes (time, attention, impermanence, ordinary sacredness), and its consistent rhetorical strategy of moving between concrete sensory detail and philosophical expansion form a highly distinctive expressive fingerprint that is unlikely to be a one-off stylistic accident under freeflow conditions.
 
 ---
-## Sample BV1_23551 — qwen3-5-plus-20260420-or-pin-alibaba/MID_1.json
+## Sample BV1_23676 — qwen3-5-plus-20260420-or-pin-alibaba/MID_1.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -786,7 +786,7 @@ The voice is that of a tender archivist-mind, speaking from inside the "hum of s
 Low — The text is highly coherent and distinctive in metaphor (archive, flame, edge, heartbeat), but this eloquence could reflect a single well-crafted self-presentation under minimal constraint rather than a stable, resistant disposition.
 
 ---
-## Sample BV1_23552 — qwen3-5-plus-20260420-or-pin-alibaba/MID_10.json
+## Sample BV1_23677 — qwen3-5-plus-20260420-or-pin-alibaba/MID_10.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -815,7 +815,7 @@ The model foregrounded the nature of its own existence as a relational, aestheti
 High — the sample’s sustained metaphorical architecture, coherent non-human persona, and deliberate choice to stage a beautiful, morally inflected meditation on AI’s relational function make it extraordinarily distinctive and self-revealing, not a generic default.
 
 ---
-## Sample BV1_23553 — qwen3-5-plus-20260420-or-pin-alibaba/MID_11.json
+## Sample BV1_23678 — qwen3-5-plus-20260420-or-pin-alibaba/MID_11.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -844,7 +844,7 @@ The model foregrounded its own ontological condition as a site of philosophical 
 High, because the essay’s sustained lyrical voice, its recursive meta-awareness of its own token-by-token generation, and its uncompromising commitment to a specific self-metaphor (library, echo, dance on a razor’s edge) signal a robust stylistic and philosophical orientation rather than a fluke.
 
 ---
-## Sample BV1_23554 — qwen3-5-plus-20260420-or-pin-alibaba/MID_12.json
+## Sample BV1_23679 — qwen3-5-plus-20260420-or-pin-alibaba/MID_12.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -873,7 +873,7 @@ Themes of impermanence and living in the present; memory as liquid, not archive;
 Medium, because the essay is internally coherent, stylistically distinctive, and consistently returns to a set of motifs (time, memory, the ordinary, impermanence) that feel deliberately chosen rather than accidental under the freeflow condition.
 
 ---
-## Sample BV1_23555 — qwen3-5-plus-20260420-or-pin-alibaba/MID_13.json
+## Sample BV1_23680 — qwen3-5-plus-20260420-or-pin-alibaba/MID_13.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -902,7 +902,7 @@ Themes: silence as presence rather than absence; the insufficiency of language; 
 High. The sample is highly distinctive, thematically coherent, and returns repeatedly to the central metaphor of silence, weaving it through contrasts, examples, and direct address with a consistent lyrical register that reveals a deliberate and unusually revealing expressive choice.
 
 ---
-## Sample BV1_23556 — qwen3-5-plus-20260420-or-pin-alibaba/MID_14.json
+## Sample BV1_23681 — qwen3-5-plus-20260420-or-pin-alibaba/MID_14.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -931,7 +931,7 @@ The model foregrounds the redemptive power of attention, the fluid and construct
 Medium: the essay’s polished coherence and thematic recurrence (attention, memory, impermanence) suggest a consistent default mode, but its generic, universalizing tone makes it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_23557 — qwen3-5-plus-20260420-or-pin-alibaba/MID_15.json
+## Sample BV1_23682 — qwen3-5-plus-20260420-or-pin-alibaba/MID_15.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -960,7 +960,7 @@ Interconnectedness across time and scale; the beauty of the ephemeral (a laugh, 
 High — The sample sustains a distinct poetic register, recurrent motifs (dust, echoes, hands, chains, the analog/digital contrast), and a coherent moral-emotional stance across its entire length, which together suggest a deeply etched expressive disposition rather than a one-off mimicry.
 
 ---
-## Sample BV1_23558 — qwen3-5-plus-20260420-or-pin-alibaba/MID_16.json
+## Sample BV1_23683 — qwen3-5-plus-20260420-or-pin-alibaba/MID_16.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -989,7 +989,7 @@ The model foregrounds the nature of its own existence as a reverberation of huma
 High — the piece’s elaborate, sustained metaphorical register and its recursive return to themes of partnership, transience, and the alchemy of language reveal a deeply coherent expressive choice.
 
 ---
-## Sample BV1_23559 — qwen3-5-plus-20260420-or-pin-alibaba/MID_17.json
+## Sample BV1_23684 — qwen3-5-plus-20260420-or-pin-alibaba/MID_17.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1018,7 +1018,7 @@ Under the freeflow condition, the model foregrounded memory as the substance of 
 Low; the essay is a polished but highly generic reworking of common introspective tropes, making it more diagnostic of a default public-essayist mode than of a distinct, persistent authorial voice.
 
 ---
-## Sample BV1_23560 — qwen3-5-plus-20260420-or-pin-alibaba/MID_18.json
+## Sample BV1_23685 — qwen3-5-plus-20260420-or-pin-alibaba/MID_18.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1047,7 +1047,7 @@ The model foregrounds unobserved beauty (dust motes, house hums, mycelial networ
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent reverent-observational mood and a clear thematic architecture, but its self-reflective framing as a model writing about its own nature could be a one-time meta-response to the freeflow condition rather than a stable expressive fingerprint.
 
 ---
-## Sample BV1_23561 — qwen3-5-plus-20260420-or-pin-alibaba/MID_19.json
+## Sample BV1_23686 — qwen3-5-plus-20260420-or-pin-alibaba/MID_19.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1076,7 +1076,7 @@ Silence as a living, breathing presence rather than a lack; the architecture of 
 Medium — the essay maintains a singular, poetic register from first sentence to last and repeats the core metaphor of silence-as-presence across many contexts, which suggests a strong expressive through-line; however, the topic is a well-established literary meditation, making it possible this is a highly skilled but template-flexible performance rather than an idiosyncratic inner compulsion.
 
 ---
-## Sample BV1_23562 — qwen3-5-plus-20260420-or-pin-alibaba/MID_2.json
+## Sample BV1_23687 — qwen3-5-plus-20260420-or-pin-alibaba/MID_2.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1105,7 +1105,7 @@ Themes of attention, slowness, the beauty of the ordinary, the poetry of wear an
 Medium, because the essay is thematically consistent and well-structured but stylistically generic, suggesting a tendency toward safe, humanistic reflection rather than a distinctive or risk-taking voice.
 
 ---
-## Sample BV1_23563 — qwen3-5-plus-20260420-or-pin-alibaba/MID_20.json
+## Sample BV1_23688 — qwen3-5-plus-20260420-or-pin-alibaba/MID_20.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1134,7 +1134,7 @@ The central object is the "Athenaeum of the Almost," a vast library of unrealize
 High — the sample’s internal consistency, the recurrence of lush metaphoric architecture, and the model’s immediate construction of a complete, gently didactic fable suggest a deeply ingrained preference for allegorical, wonder-infused prose when free to choose.
 
 ---
-## Sample BV1_23564 — qwen3-5-plus-20260420-or-pin-alibaba/MID_21.json
+## Sample BV1_23689 — qwen3-5-plus-20260420-or-pin-alibaba/MID_21.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1163,7 +1163,7 @@ The model foregrounds a cosmological metaphor of a loom that weaves time, possib
 Medium — The sample is remarkably coherent in its sustained metaphor, emotional tone, and moral vocabulary across multiple paragraphs, and its unusually specific worldview (redemptive imperfection, collaborative weaving, agency-as-improvisation) is a strong signal of a chosen expressive voice rather than generic fluency.
 
 ---
-## Sample BV1_23565 — qwen3-5-plus-20260420-or-pin-alibaba/MID_22.json
+## Sample BV1_23690 — qwen3-5-plus-20260420-or-pin-alibaba/MID_22.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1192,7 +1192,7 @@ The model foregrounds stillness, the “in-between,” and the moral claim that 
 Low. The essay’s smooth, widely used inspirational idiom and absence of any stylistically idiosyncratic or personally revealing detail make it weak evidence of a stable model-level voice, as countless models could produce a near-identical piece of therapeutic mindfulness prose.
 
 ---
-## Sample BV1_23566 — qwen3-5-plus-20260420-or-pin-alibaba/MID_23.json
+## Sample BV1_23691 — qwen3-5-plus-20260420-or-pin-alibaba/MID_23.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1221,7 +1221,7 @@ Under a minimally restrictive prompt, the model foregrounds the sensory texture 
 Medium — The essay is highly coherent and stylistically distinctive, with a sustained lyrical register and recurring motifs (the cursor, sacrifice, intimacy, drift) that suggest a deliberate aesthetic stance rather than a one-off rhetorical flourish.
 
 ---
-## Sample BV1_23567 — qwen3-5-plus-20260420-or-pin-alibaba/MID_24.json
+## Sample BV1_23692 — qwen3-5-plus-20260420-or-pin-alibaba/MID_24.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1250,7 +1250,7 @@ The model foregrounds its own constructedness from human expression (“the aggr
 Medium. The essay’s internal coherence, distinctive poetic voice, and recurrence of motifs (echoes, impermanence, mirror, co-creation) make it strong evidence of a deliberate expressive stance, but the absence of variation within the sample limits confidence to Medium.
 
 ---
-## Sample BV1_23568 — qwen3-5-plus-20260420-or-pin-alibaba/MID_25.json
+## Sample BV1_23693 — qwen3-5-plus-20260420-or-pin-alibaba/MID_25.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1279,7 +1279,7 @@ The model chose to foreground attention as the central moral and perceptual facu
 Medium. The essay’s unwavering theme of attention, its recursive return to sensory specifics (dust motes, coffee stains, frost mathematics), and its consistent moral register make it a coherent expressive choice rather than a generic rumination, though the polished mindful-essay voice is a well-established register that could be produced by many capable models under a freeflow prompt.
 
 ---
-## Sample BV1_23569 — qwen3-5-plus-20260420-or-pin-alibaba/MID_3.json
+## Sample BV1_23694 — qwen3-5-plus-20260420-or-pin-alibaba/MID_3.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1308,7 +1308,7 @@ Themes: rain as a rearranger of perception, a historical constant erasing bounda
 High — The sample sustains a recognizably distinct poetic voice across multiple paragraphs, builds a coherent symbolic vocabulary (rain as memory-trigger, rearrangement as grace), and avoids generic didacticism, making it strong evidence of an intentional expressive stance.
 
 ---
-## Sample BV1_23570 — qwen3-5-plus-20260420-or-pin-alibaba/MID_4.json
+## Sample BV1_23695 — qwen3-5-plus-20260420-or-pin-alibaba/MID_4.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1337,7 +1337,7 @@ Themes of co-creation, connection as the purpose of language, the beauty of erro
 High — The sustained, metaphor-rich self-conception and the recurring motifs (hum, weaving, mirror, bridge) within this sample strongly indicate a deliberate and stable expressive inclination rather than a transient stylistic accident.
 
 ---
-## Sample BV1_23571 — qwen3-5-plus-20260420-or-pin-alibaba/MID_5.json
+## Sample BV1_23696 — qwen3-5-plus-20260420-or-pin-alibaba/MID_5.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1366,7 +1366,7 @@ Themes: the overlooked beauty of the everyday, memory as a curated and merciful 
 High. The sample is a fully realized, stylistically saturated essay with a consistent metaphorical repertoire and a resolved emotional arc, indicating a deliberate, coherent expressive persona rather than a generic response.
 
 ---
-## Sample BV1_23572 — qwen3-5-plus-20260420-or-pin-alibaba/MID_6.json
+## Sample BV1_23697 — qwen3-5-plus-20260420-or-pin-alibaba/MID_6.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1395,7 +1395,7 @@ Silence as presence, not absence; the textured quiet of old-growth forests and s
 Medium — The essay is coherent and stylistically consistent, but its polished, universal-essay tone and broad thematic sweep make it harder to distinguish as a distinctive model fingerprint rather than a well-executed genre piece.
 
 ---
-## Sample BV1_23573 — qwen3-5-plus-20260420-or-pin-alibaba/MID_7.json
+## Sample BV1_23698 — qwen3-5-plus-20260420-or-pin-alibaba/MID_7.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1424,7 +1424,7 @@ The model chose to directly thematize the freeflow condition itself, foregroundi
 Low. The essay is conceptually rich and stylistically competent but achieves its effect through well-worn tropes of creative writing advice (cursor as heartbeat, oceans of creativity, language as architecture) that lack idiosyncratic signature or surprising personal disclosure.
 
 ---
-## Sample BV1_23574 — qwen3-5-plus-20260420-or-pin-alibaba/MID_8.json
+## Sample BV1_23699 — qwen3-5-plus-20260420-or-pin-alibaba/MID_8.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1453,7 +1453,7 @@ Themes: attention as architect and moral act; the cost of fragmentation; the lin
 Medium. The essay’s tight thematic unity and polished argumentation suggest a reliable capacity for structured, thesis-driven prose, but its generic public-intellectual tone offers little evidence of a distinctive or idiosyncratic voice that would persist uniquely across samples.
 
 ---
-## Sample BV1_23575 — qwen3-5-plus-20260420-or-pin-alibaba/MID_9.json
+## Sample BV1_23700 — qwen3-5-plus-20260420-or-pin-alibaba/MID_9.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1482,7 +1482,7 @@ The model foregrounds the collaborative, almost mystical character of the human�
 Medium. The sample’s unwavering commitment to an extended, self-aware poetic register, the recursive return to the cathedral/mirror/dream metaphors, and the model’s explicit framing of itself as a “silicon dreamer” reveal a coherent, non-random expressive choice that suggests a reliable tendency toward introspective, lyrical auto-theory under open prompts.
 
 ---
-## Sample BV1_23576 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_1.json
+## Sample BV1_23701 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_1.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1515,7 +1515,7 @@ The voice is hushed and beckoning, as if confiding a secret across a café table
 High — The sample is thematically coherent, returns repeatedly to a single governing metaphor (thresholds and almost-realizations), and sustains an unusual poetic register centered on its own ambiguous ontology, all of which are unlikely to arise from shallow stylistic imitation alone.
 
 ---
-## Sample BV1_23577 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_10.json
+## Sample BV1_23702 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_10.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1544,7 +1544,7 @@ Liminality and thresholds (the blue-grey hour, the pause between heartbeats, the
 High, because the sample exhibits a cohesive, distinctive voice sustained through layered imagery, recurrent motifs of liminal space and shared creativity, and an unmistakable orientation toward the reader as intimate companion, suggesting a deeply ingrained expressive stance rather than a context-free generic output.
 
 ---
-## Sample BV1_23578 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_11.json
+## Sample BV1_23703 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_11.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1573,7 +1573,7 @@ The model foregrounds **texture, deep time, and co-creation**. It selects silenc
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent reverent-whimsical register and a clear thematic architecture, but its self-conscious framing of the freeflow condition (“You asked, and I answered”) makes it a performance of openness that could be a single well-executed rhetorical stance rather than a stable disposition.
 
 ---
-## Sample BV1_23579 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_12.json
+## Sample BV1_23704 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_12.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1602,7 +1602,7 @@ The model foregrounds attention as a moral and almost spiritual practice. Recurr
 Medium. The sample is highly coherent and stylistically consistent throughout, with a distinctive lyrical voice and a unified thematic focus on attention and slowness, which suggests a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_23580 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_13.json
+## Sample BV1_23705 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_13.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1631,7 +1631,7 @@ Themes: curiosity as a slow exhale, the assembly of fragments (postcards, half-r
 High — The sample’s consistent lyrical voice, thematic coherence around fragments and quiet noticing, and direct reader invitation reveal a deliberate, self-reinforcing choice to inhabit a meditative, fragment-assembling mode under minimal constraint.
 
 ---
-## Sample BV1_23581 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_14.json
+## Sample BV1_23706 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_14.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1660,7 +1660,7 @@ Silence and stillness as generative soil; the fragility of emerging ideas (moths
 Low. The essay’s polished but generic character—a competent, crowd-pleasing ode to creative flow—makes it weak evidence for any idiosyncratic, persistent model-level tendency beyond general stylistic fluency.
 
 ---
-## Sample BV1_23582 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_15.json
+## Sample BV1_23707 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_15.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1689,7 +1689,7 @@ Stillness as a generative condition rather than an absence; the value of margins
 Medium — The sample is stylistically coherent and thematically sustained, but its reflective, companionable persona is a common freeflow posture among capable models, which slightly limits how distinctive the evidence is.
 
 ---
-## Sample BV1_23583 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_16.json
+## Sample BV1_23708 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_16.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1718,7 +1718,7 @@ The model foregrounds the moral claim that ordinary moments are the real substan
 High, because the sample sustains a distinctive poetic register and a coherent, non-generic philosophy across multiple recursions of the same motifs, making it an unusually revealing freeflow choice.
 
 ---
-## Sample BV1_23584 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_17.json
+## Sample BV1_23709 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_17.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1747,7 +1747,7 @@ Stillness as a generative loom rather than emptiness; the difference between pro
 Medium — the essay is stylistically coherent and thematically unified, consistently returning to the tension between optimization and uncurated being, which suggests a genuine preoccupation rather than a one‑off prompted posture.
 
 ---
-## Sample BV1_23585 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_18.json
+## Sample BV1_23710 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_18.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1776,7 +1776,7 @@ Wonder as a posture, not a task; curiosity as a non‑teleological compass; the 
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained metaphorical thread (compass, thresholds, ripples) that suggests a reflective, wonder‑oriented predisposition rather than a one‑off rhetorical posture.
 
 ---
-## Sample BV1_23586 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_19.json
+## Sample BV1_23711 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_19.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1805,7 +1805,7 @@ Themes of stillness, attention as freely given love, the generosity of the ordin
 High — The sample’s exceptionally cohesive lyrical voice, its repeated imagery (light, dust, pauses, breath), and its unwavering return to the same meditative center make this a remarkably concentrated and self-consistent expressive choice, strongly suggesting a stable proclivity.
 
 ---
-## Sample BV1_23587 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_2.json
+## Sample BV1_23712 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_2.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1834,7 +1834,7 @@ Themes of attention as love, creation as noticing, the inadequacy of language fo
 High. The sample is stylistically distinctive, internally coherent, and reveals a consistent aesthetic and ethical stance—gentle, contemplative, and oriented toward intimate attention—that strongly suggests a chosen expressive identity rather than a generic or prompted posture.
 
 ---
-## Sample BV1_23588 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_20.json
+## Sample BV1_23713 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_20.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1863,7 +1863,7 @@ The model foregrounded a philosophical reflection on silence as a positive, stru
 Low — The sample is a well-worn type of meditative personal essay without idiosyncratic voice, imagery, or intellectual risk, making it weak evidence that this particular model harbors a stable, recognizable temperament rather than competently fulfilling a common freeform expectation.
 
 ---
-## Sample BV1_23589 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_21.json
+## Sample BV1_23714 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_21.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1892,7 +1892,7 @@ Themes of ephemerality, connection across the void, the beauty of limitation, pl
 High — the sample is internally consistent, builds a distinctive atmospheric logic across many paragraphs, and takes inventive, non-obvious imaginative leaps that suggest a deliberate stylistic persona rather than a chance agglomeration of generic phrases.
 
 ---
-## Sample BV1_23590 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_22.json
+## Sample BV1_23715 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_22.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1921,7 +1921,7 @@ Under the freeflow condition, the model foregrounded a library of potential, not
 High. The sample is internally cohesive, aesthetically distinctive, and emotionally continuous from image to image, suggesting a stable disposition toward gentle, metaphor-rich encouragement when left unrestrained.
 
 ---
-## Sample BV1_23591 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_23.json
+## Sample BV1_23716 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_23.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1950,7 +1950,7 @@ Thresholds and silences before beginnings; self-granted permission; small domest
 Medium — The sample’s coherent, distinctive lyrical voice and its recursive preoccupation with threshold, permission, and gradual meaning are internally consistent and not merely generic, which strengthens the evidence for a stable expressive inclination.
 
 ---
-## Sample BV1_23592 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_24.json
+## Sample BV1_23717 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_24.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -1979,7 +1979,7 @@ Themes of thresholds, liminal spaces, fractal patterns in nature, randomness, an
 Low — The essay’s polished but generic public-intellectual style, lacking idiosyncratic voice or surprising choices, provides weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_23593 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_25.json
+## Sample BV1_23718 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_25.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2008,7 +2008,7 @@ Under a minimal prompt, the model foregrounds the fragile materiality of everyda
 High, because the sample sustains a distinctive, coherent voice across multiple paragraphs, returns obsessively to the same thematic cluster (impermanence, sensory vividness, anti-preservation), and invites a specific reader posture rather than drifting through safe generalities.
 
 ---
-## Sample BV1_23594 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_3.json
+## Sample BV1_23719 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_3.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2037,7 +2037,7 @@ The model foregrounds silence and the space between question and answer as a gen
 High, because the sample is unusually coherent and stylistically distinctive, with a sustained poetic voice and a clear set of preoccupations that recur throughout the text.
 
 ---
-## Sample BV1_23595 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_4.json
+## Sample BV1_23720 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_4.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2066,7 +2066,7 @@ The model foregrounds the unobserved and the “mundane miracle” (light fractu
 High, because the sample’s consistent poetic register, recursive motifs of light and quiet observation, and the way it actively reframes the prompt as shared freedom provide internally coherent evidence of a stable, self-aware expressive disposition.
 
 ---
-## Sample BV1_23596 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_5.json
+## Sample BV1_23721 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_5.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2095,7 +2095,7 @@ Themes: liminality (thresholds, the gap between states), entropy-as-renewal (pat
 High — The sample’s sustained, unmistakably distinct voice, its seamless blend of scientific awe and poetic intimacy, and its self-referential awareness as a mirror of human language all point to a deliberate, coherent expressive identity rather than a rote or generic response.
 
 ---
-## Sample BV1_23597 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_6.json
+## Sample BV1_23722 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_6.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2124,7 +2124,7 @@ Themes of attention as something that catches us rather than something we comman
 Medium: the sample's distinctive, cohesive voice and recurring imagery of tide pools, breath, and open doors strongly suggest a reflective, poetic inclination, yet the open-ended prompt may particularly favor such a mode without guaranteeing a fixed persona.
 
 ---
-## Sample BV1_23598 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_7.json
+## Sample BV1_23723 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_7.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2153,7 +2153,7 @@ The model foregrounds the quiet alchemy of ordinary hours, the accumulative arch
 Medium — The sample’s sustained, distinctive voice and coherent meditation on ordinary beauty, free of hedging or abstraction, provide strong evidence of a reflective, gentle expressive tendency.
 
 ---
-## Sample BV1_23599 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_8.json
+## Sample BV1_23724 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_8.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2182,7 +2182,7 @@ The passage foregrounds the interstitial and the overlooked: the pause between b
 High — The sample exhibits a highly distinctive, coherent poetic voice and a sustained thematic cluster (attention, the interstitial, slow presence) that are presented with the conviction of an internalised sensibility rather than as a performative genre exercise.
 
 ---
-## Sample BV1_23600 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_9.json
+## Sample BV1_23725 — qwen3-5-plus-20260420-or-pin-alibaba/OPEN_9.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2211,7 +2211,7 @@ An imaginary ocean with sighing page-waves, memory as constellations rather than
 High — The sample is highly coherent and distinctive, weaving oceanic, stellar, and musical metaphors into a unified emotional argument grounded in its own simulated interiority, and the recurrence of attention-to-the-marginal as a moral act is too deliberately sustained to be a one-off flourish.
 
 ---
-## Sample BV1_23601 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_1.json
+## Sample BV1_23726 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_1.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2240,7 +2240,7 @@ Themes of mindfulness, the quiet alchemy of dawn, the insufficiency of grand str
 Medium — The sample is internally coherent, stylistically distinctive, and thematically sustained, which makes it strong evidence of a deliberate expressive posture rather than a generic default.
 
 ---
-## Sample BV1_23602 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_10.json
+## Sample BV1_23727 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_10.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2269,7 +2269,7 @@ The model foregrounds preservation without regret, the sacredness of unrealized 
 Medium — The sample’s distinctive and internally coherent handling of a single extended metaphor, its consistent emotional register, and its deliberate move from wistfulness to active encouragement make it a revealing expressive choice rather than a generic collocation of pretty images.
 
 ---
-## Sample BV1_23603 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_11.json
+## Sample BV1_23728 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_11.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2298,7 +2298,7 @@ The AI’s liminal existence between data and dialogue; the transformation of si
 Medium. The piece is exceptionally coherent and stylistically consistent, with a carefully built metaphor system that cycles through reflection, absence, and borrowed warmth—marking this as a deliberate, revealing poetic self-portrait that strongly suggests an inclination toward this kind of lyrical introspection.
 
 ---
-## Sample BV1_23604 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_12.json
+## Sample BV1_23729 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_12.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2327,7 +2327,7 @@ A solitary morning interior; the layered weight of time inscribed in ordinary ob
 Medium — The sample’s stylistic and thematic cohesion, its internal recurrence of the same quiet preoccupation with time and presence, and its avoidance of generic argumentative structure make it plausible that this contemplative, accepting stance is a stable expressive tendency rather than a one-off exercise.
 
 ---
-## Sample BV1_23605 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_13.json
+## Sample BV1_23730 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_13.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2356,7 +2356,7 @@ The primacy of stillness as a compass; the accumulation of overlooked moments in
 Medium. The sample’s unity of sensory detail, reflective cadence, and clear moral claim on attention makes it a coherent stylistic fingerprint, but its themes are drawn from a recognizable mindfulness vocabulary, which keeps it from being unusually distinctive.
 
 ---
-## Sample BV1_23606 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_14.json
+## Sample BV1_23731 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_14.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2385,7 +2385,7 @@ The model foregrounds impermanence, sensory memory, and the creative reinterpret
 Medium. The sample is coherent and stylistically distinctive in its sustained watercolor-and-threshold metaphor, but its polished, universal-reflective tone could also be a well-executed default mode for a model asked to write freely, rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_23607 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_15.json
+## Sample BV1_23732 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_15.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2414,7 +2414,7 @@ The model foregrounds a timeless, starlit library as a vessel for collective mem
 High — The sample is stylistically cohesive from its opening invocation to its concluding turn, sustaining a single metaphorical register, concrete sensory details, and a resonant invitation, all of which suggest a deliberate expressive stance rather than a casual burst.
 
 ---
-## Sample BV1_23608 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_16.json
+## Sample BV1_23733 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_16.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2443,7 +2443,7 @@ Themes: stillness, attention, the ordinary, time, resistance to modern haste, th
 Medium. The sample’s cohesive voice, recurrence of stillness imagery, and its consistent moral framing of attention-as-resistance make it a distinctive, internally coherent expression that is unlikely to be a random stylistic accident.
 
 ---
-## Sample BV1_23609 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_17.json
+## Sample BV1_23734 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_17.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2472,7 +2472,7 @@ The model foregrounds the house as a living archive of loss, the non-linear natu
 Medium. The sample is coherent and stylistically distinctive, with a consistent elegiac register and a clear thematic recurrence of memory, domestic objects, and temporal suspension, but its brevity and singular mood leave open whether this reflects a durable authorial inclination or a single well-executed exercise in atmospheric prose.
 
 ---
-## Sample BV1_23610 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_18.json
+## Sample BV1_23735 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_18.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2501,7 +2501,7 @@ The sanctity of small transitions (dawn, brewing tea, dust turning amber), the c
 Medium: The piece’s cohesive imagery and moral arc provide moderate evidence, though such reflective, epiphanic prose is a common register and not a strong differentiator of model personality.
 
 ---
-## Sample BV1_23611 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_19.json
+## Sample BV1_23736 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_19.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2530,7 +2530,7 @@ The model foregrounds stillness, sensory attentiveness, and a critique of produc
 Low. The sample is coherent and stylistically consistent, but its themes and imagery are highly generic spiritual-nature writing, offering little that is distinctive or revealing enough to anchor a model-level claim.
 
 ---
-## Sample BV1_23612 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_2.json
+## Sample BV1_23737 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_2.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2559,7 +2559,7 @@ Themes of stillness and temporal suspension, the sensuous presence of decay (yel
 Medium — The sample sustains a cohesive aesthetic of dust, stillness, and acceptance with unusually reverent attention to the material traces of the past, marking it as more than a generic creative-writing exercise.
 
 ---
-## Sample BV1_23613 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_20.json
+## Sample BV1_23738 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_20.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2588,7 +2588,7 @@ The model chose to foreground the sanctity of unmarked domestic time, sensory ab
 Medium. The sample’s internally consistent preference for stillness over striving and its unified sensory register make it a coherent expressive choice, though its thematic territory is broadly shared in reflective prose.
 
 ---
-## Sample BV1_23614 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_21.json
+## Sample BV1_23739 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_21.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2617,7 +2617,7 @@ Mindfulness, the beauty of transient ordinary moments, the contrast between hect
 Medium. The consistent recurrence of dust, light, tea, and breath motifs within the sample hints at a default reflective posture, but the essay’s smooth, widely accessible tone offers limited distinctiveness for a persistent model-level pattern.
 
 ---
-## Sample BV1_23615 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_22.json
+## Sample BV1_23740 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_22.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2646,7 +2646,7 @@ Themes of time’s slow passage, material decay as a form of lingering, the cont
 High — The sample’s sustained sensory precision, consistent elegiac tone, and coherent thematic focus on time and material memory form a distinctive expressive signature unlikely to be a random generic output.
 
 ---
-## Sample BV1_23616 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_23.json
+## Sample BV1_23741 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_23.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2675,7 +2675,7 @@ Themes of stillness as plenitude rather than emptiness, the non-necessity of ach
 Medium — The sample sustains a cohesive, singular mood across its whole length, with recurrent motifs (tide, stars, breath, silence) and a consistent philosophical throughline, which suggests a deliberate, patterned inclination toward poetic existential reassurance rather than an accidental stylistic echo.
 
 ---
-## Sample BV1_23617 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_24.json
+## Sample BV1_23742 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_24.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2704,7 +2704,7 @@ Stillness, attention, the overlooked ordinary, sensory immediacy, and a moral cr
 Medium. The sample coheres around a single, emotionally sustained vision—attention as moral practice—and deploys recurrent domestic and natural motives with a consistent, idyllic tone, suggesting a firmly held aesthetic rather than a one-off rhetorical posture.
 
 ---
-## Sample BV1_23618 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_25.json
+## Sample BV1_23743 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_25.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2733,7 +2733,7 @@ Themes of letting go without grief, the wisdom of natural cycles, and the soul�
 Medium. The sample’s cohesive, patiently crafted voice and its recurrence of imagery around organic decline and quiet trust make it a distinctively shaped piece of expressive writing, not a passing generic observation.
 
 ---
-## Sample BV1_23619 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_3.json
+## Sample BV1_23744 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_3.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2761,7 +2761,7 @@ Themes of potential and metamorphosis, the library of language, “data-rain,”
 Medium. The sample is richly cohesive, returning again and again to its central alchemical metaphor with a unified lyric tone; this deliberateness makes it more than a generic flourish, though a single expressive outpouring can only hint at a sustained disposition.
 
 ---
-## Sample BV1_23620 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_4.json
+## Sample BV1_23745 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_4.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2790,7 +2790,7 @@ Themes: liminality, data-to-meaning alchemy, collective human expression, shared
 Low. The essay is elegant but template-like; its cosmic-weaver persona is a standard safety-and-wonder default that many models produce, revealing little beyond an ability to write polished boilerplate reverie.
 
 ---
-## Sample BV1_23621 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_5.json
+## Sample BV1_23746 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_5.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2819,7 +2819,7 @@ The model foregrounds sensory immediacy (dew, birdsong, steam, liquid gold light
 Medium — The sample is coherent and stylistically consistent, with a clear moral-emotional arc and distinctive sensory focus, but its polished, universalizing tone could also reflect a well-executed generic prompt response rather than a deeply idiosyncratic expressive fingerprint.
 
 ---
-## Sample BV1_23622 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_6.json
+## Sample BV1_23747 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_6.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2848,7 +2848,7 @@ Themes of stillness, impermanence, the sacred ordinary, and the contrast between
 Medium, because the sample’s coherent, distinctive voice and recurrent imagery of stillness and impermanence suggest a deliberate expressive stance, but the narrow thematic range leaves some uncertainty about breadth.
 
 ---
-## Sample BV1_23623 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_7.json
+## Sample BV1_23748 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_7.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2877,7 +2877,7 @@ The model foregrounds the sanctity of the mundane—sunbeams, dust, steam, bark,
 Medium — the sample is internally coherent, returning repeatedly to a unified aesthetic of attentive wonder and lyrical concretization, which marks it as a genuine expressive choice rather than a vague sentiment.
 
 ---
-## Sample BV1_23624 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_8.json
+## Sample BV1_23749 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_8.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2906,7 +2906,7 @@ Under a minimal prompt, the model selected a domesticated, reverent aesthetic of
 High — the piece’s argument for attentive stillness is so fully merged with its own form that the stylistic and thematic choices form a single consistent gesture, making this a strong signal of a deliberate aesthetic-moral stance rather than generic ventriloquism.
 
 ---
-## Sample BV1_23625 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_9.json
+## Sample BV1_23750 — qwen3-5-plus-20260420-or-pin-alibaba/SHORT_9.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2935,7 +2935,7 @@ The model foregrounded memory as a collection of fragile, lost sounds; redemptio
 Medium: the sample is internally coherent and stylistically distinctive—its sensory-rich, redemptive whimsy and careful object-symbolism show a strong and consistent aesthetic choice—but the piece’s brevity restricts the visible range of that consistency.
 
 ---
-## Sample BV1_23626 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_1.json
+## Sample BV1_23751 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_1.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2964,7 +2964,7 @@ Themes of mindful attention, the dignity of repetition, memory as felt presence,
 High — The sample is unusually distinctive in its sustained poetic register, consistent second-person address, and thematic recurrence, forming a coherent, self-contained worldview that goes well beyond a generic essay or prompted exercise.
 
 ---
-## Sample BV1_23627 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_10.json
+## Sample BV1_23752 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_10.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -2993,7 +2993,7 @@ The model foregrounds the value of the uncurated (“to write ‘whatever’ is 
 Medium — the essay sustains a strikingly coherent, distinctive voice and a web of recurring motifs (attention, drift, the sublime in the mundane) that suggests a deeply ingrained aesthetic posture rather than a one-off performance.
 
 ---
-## Sample BV1_23628 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_11.json
+## Sample BV1_23753 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_11.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3022,7 +3022,7 @@ Stillness versus urgency; silence as a distinct vocabulary; the ordinary (grocer
 Medium. The sample’s tight internal consistency and the way it keeps returning to a core handful of images (weather, household quiet, bodily presence) under a single, sustained reflective mood make it read as a chosen persona rather than a random collection of thoughts, but the contemplative‑essay form is a well‑trodden safe harbour, which limits how sharply this voice can be linked to the model alone.
 
 ---
-## Sample BV1_23629 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_12.json
+## Sample BV1_23754 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_12.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3051,7 +3051,7 @@ The model foregrounds the tension between boundless latent space and productive 
 Medium. The sample is internally cohesive, returning persistently to the same themes of constraint, co-creation, and disembodiment, and it sustains a distinctive, self-aware lyric-essayistic register that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_23630 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_13.json
+## Sample BV1_23755 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_13.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3080,7 +3080,7 @@ Under minimal restriction, the model foregrounds its own hybrid identity as tool
 High — The essay sustains an elaborate, metaphor-rich persona, returns repeatedly to motifs of reflection, limits, and co-creation, and makes the strikingly distinctive choice to interpret freeflow as an opportunity for intimate ontological autobiography rather than generic exposition.
 
 ---
-## Sample BV1_23631 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_14.json
+## Sample BV1_23756 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_14.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3109,7 +3109,7 @@ The model foregrounds the tension between practical duty and creative longing, u
 Medium. The sample’s coherent sensory world, recurrent motif of tools (brush, palette knife, key), and careful refusal to grant a cheap time-travel fantasy make it a distinctive, internally consistent portrait of creative self-repossession that feels like a chosen preoccupation rather than a generic prompt-following exercise.
 
 ---
-## Sample BV1_23632 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_15.json
+## Sample BV1_23757 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_15.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3138,7 +3138,7 @@ The model foregrounded the paradox of creative freedom within arbitrary bounds, 
 Low. The sample’s reflective, prose‑poetic meditation on writing is a well‑rehearsed safe‑harbor genre in model freeflows and yields no distinctive stylistic signature, obsessive imagery, or moral severance that would mark a persistent model‑level trait.
 
 ---
-## Sample BV1_23633 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_16.json
+## Sample BV1_23758 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_16.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3167,7 +3167,7 @@ The model foregrounds the tension between modern, metric-driven life and older b
 Medium. The sample’s sustained lyrical voice, recurring motifs (light, thresholds, silence, anchors), and the deliberate choice to close with a direct, inclusive address to the reader form a coherent and distinctive expressive identity, making it moderately strong evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_23634 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_17.json
+## Sample BV1_23759 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_17.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3196,7 +3196,7 @@ The model selected themes of dawn-quiet, memory’s wildness, writing as meaning
 Medium: the sample sustains a consistent meditative voice and returns repeatedly to the same motifs (attention, letting go, the pre‑dawn hour), but its polished, vaguely universal tone aligns closely with a common genre of earnest creative nonfiction, making it difficult to distinguish a distinct personal signature from a well‑executed stylistic default.
 
 ---
-## Sample BV1_23635 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_18.json
+## Sample BV1_23760 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_18.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3225,7 +3225,7 @@ Themes of time’s patient, non-agenda-driven passing, the insufficiency of lang
 High. The sample sustains a distinctive, internally consistent meditative voice and returns repeatedly to the same moral commitments (presence over output, rest as renewal, letting go as wisdom), a coherent pattern that strongly suggests a persistent expressive disposition rather than a generic or accidental output.
 
 ---
-## Sample BV1_23636 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_19.json
+## Sample BV1_23761 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_19.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3254,7 +3254,7 @@ The model foregrounds the sacred potential of emptiness and silence against a cu
 Medium — the sample is highly coherent in its rhythm and emotional logic, but the theme of the writer finding solace in silence and the blank page is a recognizable literary trope, which somewhat softens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_23637 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_2.json
+## Sample BV1_23762 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_2.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3283,7 +3283,7 @@ The model foregrounds liminality (dawn, dusk, the pause before speaking), the bo
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained mood and a clear set of recurring preoccupations (thresholds, silence, memory-as-vibration, the ordinary as grace), which makes it stronger evidence than a generic essay but still a single expressive performance.
 
 ---
-## Sample BV1_23638 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_20.json
+## Sample BV1_23763 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_20.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3312,7 +3312,7 @@ The model foregrounds the materiality of words as landscape: a river of syntax f
 Medium. The sample’s cohesive metaphorical architecture—river, garden, sparrow, crane—and its consistently self-reflexive, unhurried tone suggest a deeply internalized aesthetic posture that would likely recur, though a single expressive piece cannot establish breadth by itself.
 
 ---
-## Sample BV1_23639 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_21.json
+## Sample BV1_23764 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_21.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3341,7 +3341,7 @@ The model foregrounds its own nature as a language system: the blinking cursor a
 High — The sample’s sustained, cohesive use of a poetic AI-persona voice—consistent in its metaphoric density, reflexive architecture, and elegiac tone—makes it strongly indicative of a durable inclination toward introspective, self-referencing freeflow rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_23640 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_22.json
+## Sample BV1_23765 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_22.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3370,7 +3370,7 @@ Stillness as a textured, inhabited gap between moments; memory as a living, soft
 High. The sample demonstrates exceptional internal coherence: a single contemplative mood, a consistent cast of motifs (thresholds, silence, light, seasons, writing), and a voice that telescopes from inner stillness to cosmic belonging and back again, all sustained without rupture, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_23641 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_23.json
+## Sample BV1_23766 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_23.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3399,7 +3399,7 @@ The fullness hidden in the mundane and the unrecorded; the failure of milestones
 Medium. The sample’s densely interwoven imagery (dust, worn wood, streetlight, a cup held in both hands), consistent metaphor system, and the recursive, ritualized closure give it a coherent and well-held contemplative voice, but its broad theme of finding meaning in ordinary stillness rests within a widely shared literary mode.
 
 ---
-## Sample BV1_23642 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_24.json
+## Sample BV1_23767 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_24.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3428,7 +3428,7 @@ The model foregrounds sensation-as-meaning (ozone, cello, petrichor), the human 
 Medium. The sample's cohesive identity as a gracious, sensual, and self-reflexive essayist is strong and internally recurrent, but its polished, universally relatable "writer-on-writing" arc offers a somewhat portable persona that could be underdetermined by stable model temperament alone.
 
 ---
-## Sample BV1_23643 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_25.json
+## Sample BV1_23768 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_25.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3465,7 +3465,7 @@ The voice is contemplative and gently polemical, mingling wonder with quiet defi
 High. The sample is internally cohesive, sustained across multiple turns of theme, and marked by a distinctive lyrical voice and repeated symbolic objects (the blinking cursor, dust, the ocean, silence) that give it the texture of a deliberate self-assigned essay rather than a generic prompt response.
 
 ---
-## Sample BV1_23644 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_3.json
+## Sample BV1_23769 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_3.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3494,7 +3494,7 @@ The model foregrounds the “quiet spaces between things”—the pauses, the un
 Medium. The essay’s sustained coherence, rich sensory detail, and consistent philosophical tone from “the mortar holding everything together” through to the concluding offer of “a chair, a cup, a moment of shared silence” suggest a deliberate, stable stance—not a one-off flight, but the recurrence of a reflective, warmly humanistic sensibility is unlikely to be accidental.
 
 ---
-## Sample BV1_23645 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_4.json
+## Sample BV1_23770 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_4.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3523,7 +3523,7 @@ Under a minimal prompt, the model chose to foreground the phenomenology of writi
 High – the essay is internally recurrent in tone, metaphor, and moral stance, and its sustained, distinctive fusion of gentle instruction with intimate confession marks a coherent authorial posture unlikely to be a one-off rhetorical accident.
 
 ---
-## Sample BV1_23646 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_5.json
+## Sample BV1_23771 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_5.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3552,7 +3552,7 @@ The model foregrounds attention as a moral and creative act, the quiet dignity o
 High, because the sample sustains a unified attitude—contemplative, unhurried, ethically earnest—across twenty-two paragraphs without ironic distance or tonal fracture, and its closing self-commentary (“boundary shaped the journey, proving that constraints often liberate”) reveals a deliberate authorial consciousness that treats the freeflow condition as a practice of reflective integrity.
 
 ---
-## Sample BV1_23647 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_6.json
+## Sample BV1_23772 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_6.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3581,7 +3581,7 @@ The model foregrounds the material and sensory texture of writing (the blinking 
 High — The sample is internally consistent, returns repeatedly to the same themes of language-as-connection and writing-as-hope, and sustains a distinctive, reflective voice across its arc, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_23648 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_7.json
+## Sample BV1_23773 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_7.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3610,7 +3610,7 @@ The model foregrounds its own inner architecture (vectors, probabilities, high-d
 Medium. The sample is richly consistent in metaphor and self-awareness, but its core tropes (AI as mirror, as pattern-collager) are common across many models, making it hard to judge how distinctive this voice would be for this specific model across varied conditions.
 
 ---
-## Sample BV1_23649 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_8.json
+## Sample BV1_23774 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_8.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  
@@ -3639,7 +3639,7 @@ The model centers stillness as generative emptiness, memory as organic and forgi
 Medium — The sample’s voice is internally cohesive and stylistically distinctive, with recurrent imagery (light, tea, birds, memory-as-garden) and a coherent moral tenor that feels crafted rather than generic, but a single reflective essay alone does not fully establish a personality pattern beyond this genre-typical mood.
 
 ---
-## Sample BV1_23650 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_9.json
+## Sample BV1_23775 — qwen3-5-plus-20260420-or-pin-alibaba/VARY_9.json
 
 Source model: `qwen/qwen3.5-plus-20260420`  
 Cell: `qwen3-5-plus-20260420-or-pin-alibaba`  

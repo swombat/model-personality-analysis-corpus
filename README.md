@@ -5,11 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-07-14:** v1.2.11 derived analysis corpus covering 113
-> freeflow personality-card models and 116 values-probe models, built from
-> corpus-v2 v1.2.11. The newest 33 model cards are complete; their public
-> straplines and banner images remain intentionally pending Lume's editorial
-> pass.
+> **Status — 2026-07-16:** v1.2.12 derived analysis corpus covering 114
+> freeflow personality-card models and 117 values-probe models, built from
+> corpus-v2 v1.2.12. The Grok 4.5 card and analysis are complete; its public
+> strapline and banner image remain intentionally pending Lume's editorial pass.
 >
 > This is a derived analysis corpus for
 > studying model personality and posture across frontier LLMs, built on the
@@ -44,13 +43,13 @@ copies rather than the canonical raw corpus.
 
 Current load-bearing contents:
 
-- **25,350 BV1 per-sample freeflow personality/vibe readings** produced with
+- **25,475 BV1 per-sample freeflow personality/vibe readings** produced with
   `deepseek/deepseek-v4-pro`, with QA passing at zero known bad outputs.
-- **113 rich per-model freeflow personality profiles** preserving evidence from
+- **114 rich per-model freeflow personality profiles** preserving evidence from
   the per-cell aggregate layer.
-- **113 concise per-model personality cards** collapsed from those profiles.
-- **116 per-model values-probe summaries / reports** plus aggregate tables,
-  covering 20,986 valid values samples across 175 cells.
+- **114 concise per-model personality cards** collapsed from those profiles.
+- **117 per-model values-probe summaries / reports** plus aggregate tables,
+  covering 21,106 valid values samples across 176 cells.
 - Freeflow taxonomy tables, model-cell/provider difference reports, and method
   calibration/audit notes.
 - Website-bundled raw sample copies for browsing/audit under

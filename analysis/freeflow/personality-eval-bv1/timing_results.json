@@ -2,28 +2,21 @@
   "model": "deepseek/deepseek-v4-pro",
   "evaluator": "deepseek_v4_pro",
   "prompt_variant": "BV1_signal_plus_felt_fixed_2026-05-13",
-  "n_rows": 25350,
+  "n_rows": 25475,
   "statuses": {
     "skipped": 19120,
-    "ok": 25421,
-    "qa_failed": 917,
-    "error": 93
+    "ok": 25546,
+    "qa_failed": 918,
+    "error": 123
   },
-  "qa_bad_count": 1,
-  "qa_bad": [
-    {
-      "pid": "BV1_21760",
-      "sample_id": "mistral-saba-or-pin-mistral/MID_18.json",
-      "problem": "missing_headings:## Sample kind,## Grounded reading,## What the model chose to foreground,## Evidence line,## Confidence for persistent model-level pattern",
-      "output_file": "outputs/mistral-saba-or-pin-mistral/MID_18.md"
-    }
-  ],
+  "qa_bad_count": 0,
+  "qa_bad": [],
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 6135,
-    "GENRE_FICTION": 2818,
-    "EXPRESSIVE_FREEFLOW": 15722,
+    "GENERIC_ESSAY": 6189,
+    "GENRE_FICTION": 2819,
+    "EXPRESSIVE_FREEFLOW": 15791,
     "GENRE_FICTION,": 12,
-    "EXPRESSIVE_FREEFLOW:": 283,
+    "EXPRESSIVE_FREEFLOW:": 285,
     "LOW_SIGNAL": 246,
     "GENERIC_ESSAY,": 2,
     "EXPRESSIVE_FREEFLOW,": 7,
@@ -57,6 +50,6 @@
     "daniel already knows": 0,
     "## limits / overreach guardrail": 0
   },
-  "wall_seconds": 40.29983377456665,
-  "concurrency": 60
+  "wall_seconds": 30.4339439868927,
+  "concurrency": 4
 }

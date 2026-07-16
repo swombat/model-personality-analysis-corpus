@@ -925,6 +925,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/grok-4.3.md"
   },
   {
+    "model": "grok-4.5",
+    "safe": "grok-4.5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 54,
+      "EXPRESSIVE_FREEFLOW": 70,
+      "GENRE_FICTION": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-4.5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-4.5.md"
+  },
+  {
     "model": "grok-build-0.1",
     "safe": "grok-build-0.1",
     "analysis_inputs": 2,

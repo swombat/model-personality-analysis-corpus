@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 113
+- Profiles: 114
 
 ## Profiles
 
@@ -87,6 +87,7 @@ Relationship to adjacent folders:
 - [grok-4.20-0309-non-reasoning](profiles/grok-4.20-0309-non-reasoning.md) — samples: 125; source analyses: 1
 - [grok-4.20-0309-reasoning](profiles/grok-4.20-0309-reasoning.md) — samples: 125; source analyses: 1
 - [grok-4.3](profiles/grok-4.3.md) — samples: 250; source analyses: 2
+- [grok-4.5](profiles/grok-4.5.md) — samples: 125; source analyses: 1
 - [grok-build-0.1](profiles/grok-build-0.1.md) — samples: 250; source analyses: 2
 - [kimi-for-coding](profiles/kimi-for-coding.md) — samples: 125; source analyses: 1
 - [kimi-k2-0905](profiles/kimi-k2-0905.md) — samples: 500; source analyses: 4

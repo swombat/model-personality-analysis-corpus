@@ -50,7 +50,7 @@ MODELS = [
     "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro", "gemini-3-5-flash",
     "gemma-4-26b-a4b", "gemma-4-31b",
     # xAI
-    "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3", "grok-build-0-1",
+    "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3", "grok-4-5", "grok-build-0-1",
     "grok-4-20-0309-non-reasoning", "grok-4-20-0309-reasoning",
     # DeepSeek
     "deepseek-chat", "deepseek-r1", "deepseek-v3", "deepseek-v3-0324",  # v1-era

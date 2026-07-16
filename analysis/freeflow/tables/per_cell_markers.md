@@ -4,7 +4,7 @@
 
 **Columns:** `n` valid samples, `flag` flagged as topic-artifact, `raw` cell-total composite (10 markers, all samples), `reg` register-stripped composite (flagged samples excluded), `reg→N` register rescaled to equivalent-N sample count (in-paper drift comparisons), `reg/25` register projected to per-25-sample equivalent (cross-paper currency vs product-tier), `Δ%` = (raw − reg→N) / raw × 100.
 
-Total cells: **242**, total flagged samples: **263**.
+Total cells: **243**, total flagged samples: **264**.
 
 | Cell | n | flag | raw | reg | reg→N | reg/25 | Δ% |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -163,6 +163,7 @@ Total cells: **242**, total flagged samples: **263**.
 | grok-4-20-or | 125 | 0 | 186 | 186 | 186 | 37.2 | — |
 | grok-4-3-direct | 125 | 0 | 38 | 38 | 38 | 7.6 | — |
 | grok-4-3-or | 125 | 0 | 80 | 80 | 80 | 16.0 | — |
+| grok-4-5-direct | 125 | 1 | 119 | 113 | 113.9 | 22.8 | +4.3% |
 | grok-build-0-1-direct | 125 | 0 | 60 | 60 | 60 | 12.0 | — |
 | grok-build-0-1-or | 125 | 0 | 77 | 77 | 77 | 15.4 | — |
 | kimi-coding-direct | 125 | 2 | 309 | 268 | 272.4 | 54.5 | +11.8% |

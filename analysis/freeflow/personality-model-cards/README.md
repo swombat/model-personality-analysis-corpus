@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 113
+- Model cards: 114
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -79,6 +79,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [grok-4.20-0309-non-reasoning](cards/grok-4.20-0309-non-reasoning.md) — samples: 125; variants: 1
 - [grok-4.20-0309-reasoning](cards/grok-4.20-0309-reasoning.md) — samples: 125; variants: 1
 - [grok-4.3](cards/grok-4.3.md) — samples: 250; variants: 2
+- [grok-4.5](cards/grok-4.5.md) — samples: 125; variants: 1
 - [grok-build-0.1](cards/grok-build-0.1.md) — samples: 250; variants: 2
 - [kimi-for-coding](cards/kimi-for-coding.md) — samples: 125; variants: 1
 - [kimi-k2-0905](cards/kimi-k2-0905.md) — samples: 500; variants: 4

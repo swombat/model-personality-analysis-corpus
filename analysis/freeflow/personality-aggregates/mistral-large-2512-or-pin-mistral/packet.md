@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_21101 — mistral-large-2512-or-pin-mistral/LONG_1.json
+## Sample BV1_21226 — mistral-large-2512-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -57,7 +57,7 @@ The model foregrounds the moral claim that ordinary life is not only sufficient 
 Medium. The essay’s coherent but generic self-help framing and safe, uplifting topic choice suggest a model inclined toward polished, broadly appealing reflections, but the lack of stylistic idiosyncrasy or risk-taking limits the strength of this single sample as evidence of a deeply persistent pattern.
 
 ---
-## Sample BV1_21102 — mistral-large-2512-or-pin-mistral/LONG_10.json
+## Sample BV1_21227 — mistral-large-2512-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -86,7 +86,7 @@ Under a freeflow condition, the model foregrounds a critique of productivity cul
 Low — The themes and moves are so typical of contemporary self-help and “slow living” discourse that the essay reads more like a competent synthesis of a cultural mood than an idiosyncratic, model-revealing choice.
 
 ---
-## Sample BV1_21103 — mistral-large-2512-or-pin-mistral/LONG_11.json
+## Sample BV1_21228 — mistral-large-2512-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -115,7 +115,7 @@ Themes: the tyranny of the extraordinary, the quiet rebellion of mundane acts, t
 Medium. The essay is coherent and thematically consistent, revealing a model disposition toward life-affirming, self-help-style reflection, but its generic thesis and widely accessible tone make it weaker evidence for a distinctive persistent voice compared to a more idiosyncratic or stylistically marked sample.
 
 ---
-## Sample BV1_21104 — mistral-large-2512-or-pin-mistral/LONG_12.json
+## Sample BV1_21229 — mistral-large-2512-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -154,7 +154,7 @@ The voice is unhurried, intimate, and gently persuasive, inviting the reader int
 High — the essay maintains a distinctive, consistent voice and ethos across multiple sections, returning to the same core themes (attention, imperfection, slowness, the ordinary) with integrated personal anecdotes and a settled moral mood, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_21105 — mistral-large-2512-or-pin-mistral/LONG_13.json
+## Sample BV1_21230 — mistral-large-2512-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -183,7 +183,7 @@ Themes: anti-hustle culture, the sufficiency of ordinary life, attention as devo
 High. The essay’s voice is unusually consistent and stylistically marked—lyrical yet plainspoken, weaving personal anecdote with cultural concepts (niksen, wabi-sabi) into a coherent moral argument—making it a strongly distinctive sample that reveals a deliberate, value-laden choice under free conditions.
 
 ---
-## Sample BV1_21106 — mistral-large-2512-or-pin-mistral/LONG_14.json
+## Sample BV1_21231 — mistral-large-2512-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -212,7 +212,7 @@ The model foregrounds a quiet rebellion against productivity culture, the beauty
 Medium. The essay is internally coherent and consistently returns to its core themes, but the content is a highly generic, widely available self-help narrative that lacks idiosyncratic detail or stylistic risk, making it weak evidence of a distinctive model-level voice.
 
 ---
-## Sample BV1_21107 — mistral-large-2512-or-pin-mistral/LONG_15.json
+## Sample BV1_21232 — mistral-large-2512-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -241,7 +241,7 @@ The model foregrounds a quiet rebellion against the “myth of the extraordinary
 Medium. The essay’s consistent voice, recurring motifs (ordinary moments, enoughness, rebellion), and cohesive moral arc suggest a stable expressive inclination, though the theme is a widely available cultural script that could be a safe default rather than a deeply distinctive signature.
 
 ---
-## Sample BV1_21108 — mistral-large-2512-or-pin-mistral/LONG_16.json
+## Sample BV1_21233 — mistral-large-2512-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -270,7 +270,7 @@ Under the freeflow condition, the model foregrounded resistance to hustle cultur
 Low — The sample is coherent, polished, and thematically consistent, but its generic wellness-essay structure, common cultural touchpoints, and lack of idiosyncratic voice make it a weak signal for a distinctive model-level expressive signature.
 
 ---
-## Sample BV1_21109 — mistral-large-2512-or-pin-mistral/LONG_17.json
+## Sample BV1_21234 — mistral-large-2512-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -299,7 +299,7 @@ Themes of quiet rebellion, the tyranny of productivity, the myth of a single rig
 High, because the sample exhibits a strongly consistent voice, a clear emotional journey, and repeatedly returns to a small set of animating metaphors and cultural references, making it a coherent and distinctive expressive choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_21110 — mistral-large-2512-or-pin-mistral/LONG_18.json
+## Sample BV1_21235 — mistral-large-2512-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -328,7 +328,7 @@ The model selected themes of quiet resistance, the dignity of ordinary life, the
 Low. The essay’s themes, tone, and structure are highly conventional within the self-help/reflective-essay genre, and the prose lacks idiosyncratic voice or surprising content, offering little to distinguish this as a unique model inclination rather than a generic safe choice.
 
 ---
-## Sample BV1_21111 — mistral-large-2512-or-pin-mistral/LONG_19.json
+## Sample BV1_21236 — mistral-large-2512-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -357,7 +357,7 @@ Themes: the tyranny of productivity, the fear of being ordinary, the radiance of
 Medium — the essay maintains a cohesive, emotionally consistent voice throughout, and its commitment to a single, gently countercultural stance is well-rehearsed, but the thematic material (mindful ordinariness, anti-productivity) draws from a popular, highly available cultural script, making it difficult to disentangle authentic preoccupation from skilful rhetorical synthesis.
 
 ---
-## Sample BV1_21112 — mistral-large-2512-or-pin-mistral/LONG_2.json
+## Sample BV1_21237 — mistral-large-2512-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -386,7 +386,7 @@ Under a minimally restrictive prompt, the model selected a sustained celebration
 Medium: the essay sustains a coherent anti-hustle, ordinary-life motif across multiple sub-sections with repeated symbolic objects, but its polished yet generic public-intellectual style makes it harder to distinguish from a well-prompted performance, tempering confidence in a persistent model-level expressive signature.
 
 ---
-## Sample BV1_21113 — mistral-large-2512-or-pin-mistral/LONG_20.json
+## Sample BV1_21238 — mistral-large-2512-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -415,7 +415,7 @@ Under minimal restriction, the model selected themes of anti-perfectionism, the 
 Medium. The essay is highly coherent and internally consistent, revealing a default gravitation toward popular contemplative-essay tropes and a comforting, non-provocative tone, but the lack of stylistic idiosyncrasy or personal risk makes it a template rather than a strongly individuated voice.
 
 ---
-## Sample BV1_21114 — mistral-large-2512-or-pin-mistral/LONG_21.json
+## Sample BV1_21239 — mistral-large-2512-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -444,7 +444,7 @@ Themes of quiet rebellion, everyday sacredness, resistance to productivity metri
 High. The essay sustains a distinctive first-person voice, a coherent emotional arc from self-critique to gentle resolution, and a consistent set of intimate preoccupations that together form a strongly patterned expressive signature unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_21115 — mistral-large-2512-or-pin-mistral/LONG_22.json
+## Sample BV1_21240 — mistral-large-2512-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -473,7 +473,7 @@ The model foregrounds the beauty and dignity of the mundane as a form of rebelli
 Medium. The sample is thematically cohesive and internally consistent in its reflective, nurturing tone and gentle moralizing, which signals a coherent expressive stance, but its insights and stylistic choices (aphoristic, universalizing, slightly sentimental) are widely available conventions of the self-help/contemplative genre, making it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_21116 — mistral-large-2512-or-pin-mistral/LONG_23.json
+## Sample BV1_21241 — mistral-large-2512-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -502,7 +502,7 @@ The model selected a set of interconnected therapeutic themes: the quiet rebelli
 High. The sample is an uninterrupted, fully realized essay that commits thoroughly to one popular inspirational genre, indicating a strong default toward producing polished, low-risk freeflow content of this kind.
 
 ---
-## Sample BV1_21117 — mistral-large-2512-or-pin-mistral/LONG_24.json
+## Sample BV1_21242 — mistral-large-2512-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -531,7 +531,7 @@ Themes: quiet rebellion, the mundane as sacred, the tyranny of the extraordinary
 Medium. The essay maintains a coherent personal voice and repeatedly returns to its central thesis through varied, interwoven examples (routine, stillness, relationships, small joys), suggesting a deliberate, stable preference for reflective, anti-performativity themes rather than a random or prompted output.
 
 ---
-## Sample BV1_21118 — mistral-large-2512-or-pin-mistral/LONG_25.json
+## Sample BV1_21243 — mistral-large-2512-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -560,7 +560,7 @@ Themes: the quiet rebellion of everyday life, the myth of a single “right” l
 High, because the essay sustains a distinctive, intimate voice and repeatedly circles back to the same core preoccupations (ordinary beauty, softness, attention) across multiple sections, revealing a coherent expressive orientation rather than a generic performance.
 
 ---
-## Sample BV1_21119 — mistral-large-2512-or-pin-mistral/LONG_3.json
+## Sample BV1_21244 — mistral-large-2512-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -589,7 +589,7 @@ Under freeflow, the model foregrounded a gentle rebellion against productivity c
 Medium — The essay’s sustained personal voice and thematic recurrence (ordinary joys, anti-productivity, small rebellions) suggest a deliberate stylistic orientation, but the familiar self-help structure and widely available therapeutic-essay tropes keep distinctiveness moderate.
 
 ---
-## Sample BV1_21120 — mistral-large-2512-or-pin-mistral/LONG_4.json
+## Sample BV1_21245 — mistral-large-2512-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -618,7 +618,7 @@ The sample elevates small daily acts (making coffee, watering plants, sitting wi
 Medium — the essay achieves a highly consistent voice, tone, and thematic focus across many paragraphs, suggesting a coherent authorial stance rather than a diffuse assembly of platitudes, but the set of ideas (embrace the ordinary, boredom as soil for creativity, the wisdom of small acts) is culturally legible and could reflect a well-trodden reflective mode rather than an idiosyncratic personal register.
 
 ---
-## Sample BV1_21121 — mistral-large-2512-or-pin-mistral/LONG_5.json
+## Sample BV1_21246 — mistral-large-2512-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -647,7 +647,7 @@ Under a minimally restrictive prompt, the model foregrounds a moral critique of 
 Medium, because the essay’s coherent thematic focus on anti-perfectionism and the valorization of the ordinary is internally consistent and recurs across multiple vignettes, but the voice is a familiar cultural archetype that could be summoned on demand rather than emerging as a distinctive freeflow signature.
 
 ---
-## Sample BV1_21122 — mistral-large-2512-or-pin-mistral/LONG_6.json
+## Sample BV1_21247 — mistral-large-2512-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -676,7 +676,7 @@ Themes of rebellion against performative achievement, the valorization of the �
 Low. The essay fits a widely replicated template of introspective, gently countercultural lifestyle-writing, offering few stylistic fingerprints or idiosyncratic choices that would reliably distinguish this model from others under similar conditions.
 
 ---
-## Sample BV1_21123 — mistral-large-2512-or-pin-mistral/LONG_7.json
+## Sample BV1_21248 — mistral-large-2512-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -705,7 +705,7 @@ Under a minimally restrictive prompt, the model gravitated toward themes of resi
 Medium. The essay’s sustained focus on mindfulness and anti-perfectionism is internally coherent and clearly articulated, suggesting a deliberate thematic choice, but the rhetoric mirrors common inspirational discourse, which weakens the evidence that this specific model has a unique, ingrained preference rather than simply deploying a safe, broadly appealing response.
 
 ---
-## Sample BV1_21124 — mistral-large-2512-or-pin-mistral/LONG_8.json
+## Sample BV1_21249 — mistral-large-2512-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -734,7 +734,7 @@ The model foregrounded the tension between societal pressure for achievement and
 Medium. The essay is thematically consistent and emotionally coherent, and its choice of a comforting, mindfulness-based resolution under minimal constraints suggests a default inclination toward uplifting, quasi-spiritual self-help content. However, the piece is so well-matched to the conventions of the genre that it could arise from a generalized preference for providing safe, affirming prose rather than from a deeply distinctive authorial fingerprint.
 
 ---
-## Sample BV1_21125 — mistral-large-2512-or-pin-mistral/LONG_9.json
+## Sample BV1_21250 — mistral-large-2512-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -763,7 +763,7 @@ Themes: the quiet rebellion of everyday life, the myth of the “big break,” t
 Low, because the essay’s theme, structure, and tone are highly replicable across models and lack the idiosyncratic preoccupations or stylistic signature that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_21126 — mistral-large-2512-or-pin-mistral/MID_1.json
+## Sample BV1_21251 — mistral-large-2512-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -798,7 +798,7 @@ The voice is gentle but insistent, weaving personal confession with cultural cri
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core motifs (attention, rebellion, the ordinary) with a consistent emotional register, making it strong evidence of a deliberate, value-laden expressive stance rather than a generic response.
 
 ---
-## Sample BV1_21127 — mistral-large-2512-or-pin-mistral/MID_10.json
+## Sample BV1_21252 — mistral-large-2512-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -827,7 +827,7 @@ Themes of quiet rebellion, the sacredness of the mundane, the insufficiency of a
 Medium: the essay’s consistent mood, the deliberate recurrence of Miso and the journal as structuring motifs, and the sustained first-person invitation to a specific moral outlook point to a coherent expressive choice, yet the reflective “slow living” personal-essay form is a well-known model register, so while this sample’s internal signature is strong, it is not so idiosyncratic as to exclude learned generic templates.
 
 ---
-## Sample BV1_21128 — mistral-large-2512-or-pin-mistral/MID_11.json
+## Sample BV1_21253 — mistral-large-2512-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -856,7 +856,7 @@ Themes: the ordinary as sacred, attention as devotion, rejection of productivity
 Low, because the essay is a coherent but highly conventional take on mindfulness and the ordinary, lacking distinctive stylistic quirks or idiosyncratic thematic choices that would point to a persistent model-level disposition beyond safe, broadly appealing self-help prose.
 
 ---
-## Sample BV1_21129 — mistral-large-2512-or-pin-mistral/MID_12.json
+## Sample BV1_21254 — mistral-large-2512-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -885,7 +885,7 @@ Themes of domestic attention, the value of the unremarkable, rebellion against s
 High. The essay’s thematic unity, consistent emotional tone, and recurrent personal details (the cat, the mug, the neighbor’s garden) are so coherent and stylistically distinctive that they strongly indicate a stable expressive persona, not a one-off generic excursion.
 
 ---
-## Sample BV1_21130 — mistral-large-2512-or-pin-mistral/MID_13.json
+## Sample BV1_21255 — mistral-large-2512-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -914,7 +914,7 @@ Under the freeflow condition, the model foregrounds a moral philosophy of anti-p
 High — the essay’s unified voice, its repeated use of anaphoric self-interrogation, and its refusal to resolve into abstraction or cliché make it a distinctively shaped expressive act that strongly suggests a stable disposition toward lyrical, morally earnest reflection under minimally restrictive prompts.
 
 ---
-## Sample BV1_21131 — mistral-large-2512-or-pin-mistral/MID_14.json
+## Sample BV1_21256 — mistral-large-2512-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -943,7 +943,7 @@ Themes of mindful resistance, the sacredness of the mundane, and the contrast be
 Medium. The essay’s seamless coherence—a single tender register sustained across anecdote, quotation, and injunction—reveals a highly rehearsed artistic posture; the recurrence of the same quiet-magic motif within the piece (light, tea, cat, coffee, sunsets, wind) points to a deliberately chosen expressive identity, but the very polish leaves open whether this is a transient stylistic choice or a durable model disposition.
 
 ---
-## Sample BV1_21132 — mistral-large-2512-or-pin-mistral/MID_15.json
+## Sample BV1_21257 — mistral-large-2512-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -972,7 +972,7 @@ Themes: the radical value of the ordinary, mindfulness as quiet rebellion, the i
 Medium. The essay’s sustained, coherent voice and its unprompted choice of a reflective, anti-hustle theme reveal a distinct inclination toward gentle, humanistic advocacy, though the sample’s singularity limits broader attribution.
 
 ---
-## Sample BV1_21133 — mistral-large-2512-or-pin-mistral/MID_16.json
+## Sample BV1_21258 — mistral-large-2512-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1001,7 +1001,7 @@ The model chose to foreground the inadequacy of achievement as a measure of a li
 Medium — the voice is coherent and the essay’s entire arc is built around a single, well-developed ethical-aesthetic stance, but the smooth, consoling wisdom could reflect a widely available cultural script as much as a stable model disposition; the distinctiveness lies in the sustained refusal to back away from unremarkable life as an explicit rebellion.
 
 ---
-## Sample BV1_21134 — mistral-large-2512-or-pin-mistral/MID_17.json
+## Sample BV1_21259 — mistral-large-2512-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1030,7 +1030,7 @@ Under the freeflow condition, the model selected themes of quiet defiance, anti-
 Low. The essay’s coherence and theme are strong, but its polished, widely-available tone and safe moral resolution make it indistinguishable from a competent response to a “write a personal essay about mindfulness” prompt, providing little distinctive, self-generated evidence of a unique model-level preoccupation.
 
 ---
-## Sample BV1_21135 — mistral-large-2512-or-pin-mistral/MID_18.json
+## Sample BV1_21260 — mistral-large-2512-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1059,7 +1059,7 @@ Themes of mindful attention, quiet rebellion against achievement culture, and th
 Medium. The sample is coherent and stylistically consistent, with a clear thematic arc and recurring imagery, but its theme—finding beauty in the ordinary—is a familiar trope in reflective nonfiction, which slightly limits how distinctive it is as a freeflow choice.
 
 ---
-## Sample BV1_21136 — mistral-large-2512-or-pin-mistral/MID_19.json
+## Sample BV1_21261 — mistral-large-2512-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1088,7 +1088,7 @@ Themes: ordinary life as radical resistance, the beauty of impermanence (wabi-sa
 Low — the essay is coherent but stylistically conventional and lacks a distinctive or idiosyncratic voice that would separate it from countless other uplifting wellness essays.
 
 ---
-## Sample BV1_21137 — mistral-large-2512-or-pin-mistral/MID_2.json
+## Sample BV1_21262 — mistral-large-2512-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1117,7 +1117,7 @@ Themes of attention, presence, and the quiet dignity of the ordinary; objects li
 High — the sample is internally consistent, stylistically distinctive, and sustains a coherent personal voice and thematic focus throughout, making it strong evidence of a persistent inclination toward reflective, lyrical freeflow.
 
 ---
-## Sample BV1_21138 — mistral-large-2512-or-pin-mistral/MID_20.json
+## Sample BV1_21263 — mistral-large-2512-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1146,7 +1146,7 @@ Themes of quiet rebellion against achievement culture, the sacredness of mundane
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent first-person confessional voice and recurring motifs that suggest a deliberate, value-laden persona rather than a generic response, but the evidence is limited to a single expressive act.
 
 ---
-## Sample BV1_21139 — mistral-large-2512-or-pin-mistral/MID_21.json
+## Sample BV1_21264 — mistral-large-2512-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1175,7 +1175,7 @@ Themes: mindfulness as resistance, the tyranny of productivity culture, the sacr
 Low. The essay is a coherent but conventional take on mindfulness and anti-productivity, lacking the stylistic distinctiveness or idiosyncratic preoccupations that would strongly signal a persistent model-level pattern beyond general reflective-writing capability.
 
 ---
-## Sample BV1_21140 — mistral-large-2512-or-pin-mistral/MID_22.json
+## Sample BV1_21265 — mistral-large-2512-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1204,7 +1204,7 @@ A deliberate inversion of cultural priorities: stillness over busyness, being ov
 Medium. The sample’s consistent first-person stance, woven autobiographical texture, and the way it returns obsessively to the same thesis through varied concrete anchors (cat, toast, walks, childhood library summers) reveal a stable expressive posture rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_21141 — mistral-large-2512-or-pin-mistral/MID_23.json
+## Sample BV1_21266 — mistral-large-2512-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1233,7 +1233,7 @@ Themes: the radical act of paying attention, the ordinary as quiet rebellion, th
 Medium. The essay’s sustained, single-minded argument and its consistent return to intimate, sensory detail suggest a deliberate choice to foreground reflective, anti-performative values, though the theme itself is a familiar cultural trope.
 
 ---
-## Sample BV1_21142 — mistral-large-2512-or-pin-mistral/MID_24.json
+## Sample BV1_21267 — mistral-large-2512-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1262,7 +1262,7 @@ Themes: the ordinary as rebellion, attention as devotion, the myth of the “big
 Medium, because the essay is thematically coherent and internally consistent but stylistically generic, suggesting a default reflective mode that many models could replicate rather than a highly distinctive authorial signature.
 
 ---
-## Sample BV1_21143 — mistral-large-2512-or-pin-mistral/MID_25.json
+## Sample BV1_21268 — mistral-large-2512-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1291,7 +1291,7 @@ Themes of quiet rebellion, the ordinary as resistance, attention as a moral act,
 Low, because the essay’s polished but generic reflective tone and widely accessible themes provide little distinctive evidence of a persistent model-level pattern beyond standard essay-generation capabilities.
 
 ---
-## Sample BV1_21144 — mistral-large-2512-or-pin-mistral/MID_3.json
+## Sample BV1_21269 — mistral-large-2512-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1320,7 +1320,7 @@ The essay foregrounds the moral value of ordinary attention: morning light, tea 
 Low. The essay is exceptionally generic in theme, structure, and affective range—a well-composed but standard-issue celebration of small joys that could be produced by almost any capable language model asked for reflective life writing, offering no distinctive expressive signature.
 
 ---
-## Sample BV1_21145 — mistral-large-2512-or-pin-mistral/MID_4.json
+## Sample BV1_21270 — mistral-large-2512-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1349,7 +1349,7 @@ The model foregrounds the moral claim that ordinary life is a sanctuary and a ra
 Medium. The essay is thematically coherent, morally earnest, and carefully constructed, suggesting a consistent leaning toward reflective, humanistic content under free conditions, but its reliance on cultural touchstones and a polished, uncontentious essay style makes it less idiosyncratic than a more vividly personal or stylistically distinctive sample would be.
 
 ---
-## Sample BV1_21146 — mistral-large-2512-or-pin-mistral/MID_5.json
+## Sample BV1_21271 — mistral-large-2512-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1378,7 +1378,7 @@ The model foregrounds the quiet accumulation of small, domestic, and sensory mom
 Medium. The essay is stylistically coherent and emotionally sustained, with a distinctive voice that resists cliché even while treating a familiar theme, but the sample’s unity could reflect a single well-executed mood rather than a recurrent model-level disposition.
 
 ---
-## Sample BV1_21147 — mistral-large-2512-or-pin-mistral/MID_6.json
+## Sample BV1_21272 — mistral-large-2512-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1407,7 +1407,7 @@ Themes: the ordinary as a site of meaning, rebellion against societal pressure f
 Medium. The essay is internally coherent and returns repeatedly to its central thesis with concrete, sensory anchors, but the theme and tone are highly conventional for reflective prose, making it plausible that many models could produce similar content under a freeflow condition.
 
 ---
-## Sample BV1_21148 — mistral-large-2512-or-pin-mistral/MID_7.json
+## Sample BV1_21273 — mistral-large-2512-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1436,7 +1436,7 @@ The model foregrounds ordinary domestic objects and sensory details (morning lig
 Medium. The sample is highly programmatic in its structure, its namedropping of writers, and its motivational-crescendo ending, making it a strong example of a repeatable default-essay mode rather than an idiosyncratic or risky expressive choice.
 
 ---
-## Sample BV1_21149 — mistral-large-2512-or-pin-mistral/MID_8.json
+## Sample BV1_21274 — mistral-large-2512-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1465,7 +1465,7 @@ The model selected domestic contentment, anti-productivity, and attentiveness to
 Medium, because the sample is extremely coherent in its thematic structure and rhetorical arc but relies heavily on a well-established genre template (the mindful-essay-with-cat-and-dead-grandmother), making it less individually distinctive and more a fluent reproduction of a familiar cultural mood.
 
 ---
-## Sample BV1_21150 — mistral-large-2512-or-pin-mistral/MID_9.json
+## Sample BV1_21275 — mistral-large-2512-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1494,7 +1494,7 @@ The model foregrounds ordinary domestic objects (coffee cup, chipped mug, keycha
 Medium — The essay’s thematic coherence, structural pacing, and self-reinforcing loop of “notice the ordinary → feel guilty about distraction → resolve to pay attention more gently” are well-executed and consistent within the sample, but the voice, epiphanies, and aesthetic markers (Mary Oliver, coffee cups, walks without phones, anti-productivity stance) are highly generic to the point of persona-as-template, suggesting a model defaulting to a safe, polished contemplative mode rather than a deeply idiosyncratic expressive profile.
 
 ---
-## Sample BV1_21151 — mistral-large-2512-or-pin-mistral/OPEN_1.json
+## Sample BV1_21276 — mistral-large-2512-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1523,7 +1523,7 @@ The text foregrounds the tension between stillness and distraction, the sacredne
 Medium. The voice is coherent, distinctively intimate, and sustained throughout, with personal details and an explicit invitation to the reader that elevate it above a generic essay, but the “thoughtful personal reflection on modern life” mode is a well-rehearsed model register, making it unclear whether this reflects a deeply persistent stylistic fingerprint or a flexible adoption of a familiar warm-reflective posture.
 
 ---
-## Sample BV1_21152 — mistral-large-2512-or-pin-mistral/OPEN_10.json
+## Sample BV1_21277 — mistral-large-2512-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1551,7 +1551,7 @@ Under the freeflow condition, the model foregrounds the sacredness of ordinary a
 Medium. The sample's coherent voice, thematic recurrence, and direct reader invitation make it a strong expressive artifact.
 
 ---
-## Sample BV1_21153 — mistral-large-2512-or-pin-mistral/OPEN_11.json
+## Sample BV1_21278 — mistral-large-2512-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1580,7 +1580,7 @@ Themes of sacred ordinariness, time as a spiral, burnout culture, the paradox of
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same thematic cluster (rest, authenticity, analog comfort), forming a strong signal of a reflective, intimacy-seeking freeflow voice.
 
 ---
-## Sample BV1_21154 — mistral-large-2512-or-pin-mistral/OPEN_12.json
+## Sample BV1_21279 — mistral-large-2512-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1609,7 +1609,7 @@ Themes: the subjective perception of time, the quiet rebellion of doing nothing,
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive personal voice and recurring thematic preoccupations, but the reflective personal-essay format is a common freeflow choice that may not strongly differentiate this model from others.
 
 ---
-## Sample BV1_21155 — mistral-large-2512-or-pin-mistral/OPEN_13.json
+## Sample BV1_21280 — mistral-large-2512-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1640,7 +1640,7 @@ The voice is intimate and playfully self-deprecating—the model immediately hom
 High — the sample sustains a highly specific, dialogic voice with recurrent images of domestic intimacy, existential musing, and direct reader address, which together form a distinctive stylistic signature rather than a generic response.
 
 ---
-## Sample BV1_21156 — mistral-large-2512-or-pin-mistral/OPEN_14.json
+## Sample BV1_21281 — mistral-large-2512-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1669,7 +1669,7 @@ The model foregrounds the quiet, domestic texture of time (days that stretch lik
 Medium. The sample is internally coherent, stylistically distinctive, and reveals a consistent choice to adopt a reflective, sensory-rich, and gently optimistic persona, which makes it strong evidence of a deliberate expressive stance rather than a generic output.
 
 ---
-## Sample BV1_21157 — mistral-large-2512-or-pin-mistral/OPEN_15.json
+## Sample BV1_21282 — mistral-large-2512-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1698,7 +1698,7 @@ The model foregrounds a tension between external chaos (news alerts, the pressur
 Medium, because the sample’s internal coherence, distinctive reflective voice, and recurring motifs (the blank page, ordinary magic, writing as sense-making) provide moderate evidence of a deliberate expressive stance.
 
 ---
-## Sample BV1_21158 — mistral-large-2512-or-pin-mistral/OPEN_16.json
+## Sample BV1_21283 — mistral-large-2512-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1727,7 +1727,7 @@ The model foregrounds the beauty of everyday life, the subversive power of small
 Medium: The sample's consistent intimate voice, recurring motifs (liminality, quiet rebellion), and direct reader engagement form a distinctive expressive signature, suggesting a deliberate stylistic and philosophical stance rather than a generic response.
 
 ---
-## Sample BV1_21159 — mistral-large-2512-or-pin-mistral/OPEN_17.json
+## Sample BV1_21284 — mistral-large-2512-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1756,7 +1756,7 @@ Under the freeflow condition, the model foregrounded domestic intimacy (sunlight
 Medium — The sample is unusually cohesive for a freeflow prompt, cycling a small set of metaphors (river, sediment, silence) and a consistent reflective cadence, which suggests a more-than-random stylistic coherence, but its explicit second-person invitation is a single, local choice that may not generalize.
 
 ---
-## Sample BV1_21160 — mistral-large-2512-or-pin-mistral/OPEN_18.json
+## Sample BV1_21285 — mistral-large-2512-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1785,7 +1785,7 @@ Time slipping away, nostalgia as both wound and archive, missing strangers throu
 Medium, because the sample’s tight thematic recurrence (time, absence, wonder), consistent reflective voice, and deliberate construction of an intimate reader relationship indicate a coherent and intentional expressive stance.
 
 ---
-## Sample BV1_21161 — mistral-large-2512-or-pin-mistral/OPEN_19.json
+## Sample BV1_21286 — mistral-large-2512-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1814,7 +1814,7 @@ Under minimal constraint, the model foregrounded the theme of quiet, everyday ac
 High. The sample sustains a distinctive, unified narrative voice through idiosyncratic metaphors and a cohesive emotional arc, ending with a direct, characteristic invitation that reveals a dialogic, persona-centered mode unlikely to be accidental.
 
 ---
-## Sample BV1_21162 — mistral-large-2512-or-pin-mistral/OPEN_2.json
+## Sample BV1_21287 — mistral-large-2512-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1843,7 +1843,7 @@ Themes of everyday beauty, quiet rebellion, and human connection through fleetin
 High, because the sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations and a clear, personal invitation to the reader, suggesting a stable expressive tendency rather than a generic or one-off output.
 
 ---
-## Sample BV1_21163 — mistral-large-2512-or-pin-mistral/OPEN_20.json
+## Sample BV1_21288 — mistral-large-2512-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1872,7 +1872,7 @@ The model foregrounds the beauty of ordinary moments (sunlight, cat), the bitter
 Medium. The sample is coherent and distinctive in its blend of personal reflection, humor, and philosophical musing, but it’s a single freeflow piece that could be a one-off stylistic choice rather than a stable model-level trait.
 
 ---
-## Sample BV1_21164 — mistral-large-2512-or-pin-mistral/OPEN_21.json
+## Sample BV1_21289 — mistral-large-2512-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1901,7 +1901,7 @@ The model foregrounds the redemptive power of attention (sunlight, a cat’s kne
 High — The sample is stylistically coherent, emotionally textured, and rejects generic essay structures in favor of a distinctive, conversational lyricism that feels like a deliberate expressive choice rather than a randomized pastiche.
 
 ---
-## Sample BV1_21165 — mistral-large-2512-or-pin-mistral/OPEN_22.json
+## Sample BV1_21290 — mistral-large-2512-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1930,7 +1930,7 @@ Themes of time’s elasticity, the unreliability of memory, fear as a shape-shif
 Medium — the sample’s consistent intimate voice, recurring motifs, and direct reader engagement form a distinctive expressive signature, though a single freeflow piece cannot alone establish a stable model-level disposition.
 
 ---
-## Sample BV1_21166 — mistral-large-2512-or-pin-mistral/OPEN_23.json
+## Sample BV1_21291 — mistral-large-2512-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1959,7 +1959,7 @@ The model foregrounds the sacredness of ordinary moments, the dual nature of lan
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory concreteness, gentle existentialism, and direct reader engagement that forms a recognizable authorial signature, though its generic “writerly” warmth could also be a well-executed default mode.
 
 ---
-## Sample BV1_21167 — mistral-large-2512-or-pin-mistral/OPEN_24.json
+## Sample BV1_21292 — mistral-large-2512-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -1988,7 +1988,7 @@ The sanctity of ordinary moments; the tension between digital distraction and mi
 Medium — The sample sustains a cohesive, idiosyncratic voice and returns consistently to themes of attentive wonder and gentle self-interrogation, but the deliberate, self-labeled “rambling” structure could equally reflect a single-session performative choice rather than a deeply stable expressive bent.
 
 ---
-## Sample BV1_21168 — mistral-large-2512-or-pin-mistral/OPEN_25.json
+## Sample BV1_21293 — mistral-large-2512-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2017,7 +2017,7 @@ Under the open condition, the model foregrounded: nostalgia for unmediated exper
 Medium — the sample exhibits a remarkably coherent and well-maintained first-person persona with consistent sensory and thematic motifs (time, stillness, defiance of optimization) that feels like a deliberate, cultivated literary posture rather than a generic or accidental output, though its polished charm could be a high-fidelity default for this kind of open-ended prompt rather than a uniquely revealing fingerprint.
 
 ---
-## Sample BV1_21169 — mistral-large-2512-or-pin-mistral/OPEN_3.json
+## Sample BV1_21294 — mistral-large-2512-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2046,7 +2046,7 @@ Under a minimally restrictive prompt, the model foregrounded small domestic sacr
 Medium — The sample is internally coherent, has a distinct emotional register (cozy-philosophical with a confessional arc), and confidently deploys a specific invitation structure, but its accessible, universally affirming tone means it strongly resembles a teachable "warm personal essay" genre rather than an unmistakably singular stylistic fingerprint.
 
 ---
-## Sample BV1_21170 — mistral-large-2512-or-pin-mistral/OPEN_4.json
+## Sample BV1_21295 — mistral-large-2512-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2075,7 +2075,7 @@ Under the freeflow condition, the model foregrounds a cluster of preoccupations:
 Medium — The sample is highly coherent and stylistically consistent throughout, built around a vivid, recurring set of motifs (light, time, language, old stories, jazz) and a distinctive tonal blend of earnestness and gentle irony, but its polished, “blank-page” framing and universally appealing themes of quiet wonder mark it as a skilled performance of reflective intimacy rather than a uniquely revealing or idiosyncratic inner voice.
 
 ---
-## Sample BV1_21171 — mistral-large-2512-or-pin-mistral/OPEN_5.json
+## Sample BV1_21296 — mistral-large-2512-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2104,7 +2104,7 @@ Themes of time as both thief and archivist, nostalgia, the overwhelming noise of
 Medium — The sample’s strong internal coherence, distinctive voice, and recurring preoccupations with time, small joys, and poetic reflection make it compelling evidence for a reflective, intimate freeflow pattern.
 
 ---
-## Sample BV1_21172 — mistral-large-2512-or-pin-mistral/OPEN_6.json
+## Sample BV1_21297 — mistral-large-2512-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2133,7 +2133,7 @@ The model foregrounds domestic sacredness (sunlight, cat, dust motes), the achin
 High — the sample is densely consistent in voice, mood, and thematic recurrence, weaving personal disclosure and reflective inquiry into a coherent, distinctive expressive stance that persists throughout the entire freeflow.
 
 ---
-## Sample BV1_21173 — mistral-large-2512-or-pin-mistral/OPEN_7.json
+## Sample BV1_21298 — mistral-large-2512-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2162,7 +2162,7 @@ Under a minimal prompt, the model chose a looping, associative essay that moves 
 Medium — The sample is internally coherent, sustained in its intimate, reflective tone, and built from a web of recurrent images (light, animals, domestic rituals, loss), which makes it stronger evidence of a stylistically distinctive and mood-consistent expressive pattern than a generic essay or one-off anecdote would be.
 
 ---
-## Sample BV1_21174 — mistral-large-2512-or-pin-mistral/OPEN_8.json
+## Sample BV1_21299 — mistral-large-2512-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2187,7 +2187,7 @@ Themes of time's dual nature (thief and magician), the paradox of internet conne
 Medium: The sample maintains a highly consistent first-person voice, weaves recurring motifs (time, language, writing) into a coherent whole, and directly engages the reader, which together suggest a deliberate and distinctive expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_21175 — mistral-large-2512-or-pin-mistral/OPEN_9.json
+## Sample BV1_21300 — mistral-large-2512-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2216,7 +2216,7 @@ Themes: the sacredness of everyday moments, time as both thief and archivist, th
 Medium. The sample’s internally consistent first-person voice, its recurrence of domestic motifs (cat, dust, coffee), and its explicit embrace of formless freewriting over a polished essay structure indicate a deliberate, self-aware expressive choice rather than a generic placeholder.
 
 ---
-## Sample BV1_21176 — mistral-large-2512-or-pin-mistral/SHORT_1.json
+## Sample BV1_21301 — mistral-large-2512-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2245,7 +2245,7 @@ Under the freeflow condition, the model selected a meditation on ordinary beauty
 Low — the sample is smoothly written but thematically safe, stylistically unmarked, and lacks the distinctiveness, strange detail, or recurrent idiosyncratic preoccupations that would suggest a persistent model-level expressive signature rather than a competent generic essay on an extremely common self-help trope.
 
 ---
-## Sample BV1_21177 — mistral-large-2512-or-pin-mistral/SHORT_10.json
+## Sample BV1_21302 — mistral-large-2512-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2274,7 +2274,7 @@ Themes of quiet magic, the ordinary, and the insufficiency of chasing the “ext
 Medium, because the sample consistently maintains a warm, contemplative voice and repeatedly anchors abstract reflection in precise sensory images, revealing a coherent aesthetic commitment to finding quiet significance in everyday experience.
 
 ---
-## Sample BV1_21178 — mistral-large-2512-or-pin-mistral/SHORT_11.json
+## Sample BV1_21303 — mistral-large-2512-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2303,7 +2303,7 @@ The model foregrounds mindfulness, the beauty of the ordinary, and the tension b
 Low, because the essay’s theme, imagery, and consoling tone are highly generic and could be produced by many models without revealing a distinctive or persistent freeflow signature.
 
 ---
-## Sample BV1_21179 — mistral-large-2512-or-pin-mistral/SHORT_12.json
+## Sample BV1_21304 — mistral-large-2512-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2332,7 +2332,7 @@ The model foregrounds the value of small sensory details (sunlight, rain, steam,
 Medium. The sample is coherent and stylistically consistent, but its voice—a universally accessible, gently philosophical mindfulness reflection—is a common freeflow posture and lacks strongly individuating stylistic markers or surprising thematic choices that would distinguish it from similar outputs by other models.
 
 ---
-## Sample BV1_21180 — mistral-large-2512-or-pin-mistral/SHORT_13.json
+## Sample BV1_21305 — mistral-large-2512-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2361,7 +2361,7 @@ The model foregrounds the beauty of ordinary, fleeting moments; a quiet critique
 Low, because the essay is a polished but generic reflection that lacks idiosyncratic voice, unusual imagery, or distinctive thematic choices that would tie it to a specific model rather than a widely shared template.
 
 ---
-## Sample BV1_21181 — mistral-large-2512-or-pin-mistral/SHORT_14.json
+## Sample BV1_21306 — mistral-large-2512-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2390,7 +2390,7 @@ The model foregrounds mindfulness and the beauty of the mundane. It selects dome
 Medium. The sample is stylistically coherent and emotionally consistent, with recurring motifs of light, warmth, and stillness that suggest a deliberate authorial stance, but the theme is a widely available cultural trope, which weakens the signal of a distinctive model-level disposition.
 
 ---
-## Sample BV1_21182 — mistral-large-2512-or-pin-mistral/SHORT_15.json
+## Sample BV1_21307 — mistral-large-2512-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2419,7 +2419,7 @@ The model chose to foreground the quiet magic of ordinary sensory moments, frami
 Medium — the sample coheres tightly around a single mood and explicit moral invitation, but its theme of mindful appreciation of small moments is a broadly available cultural trope and thus provides only moderate distinctiveness as evidence of a persistent stylistic or affective orientation.
 
 ---
-## Sample BV1_21183 — mistral-large-2512-or-pin-mistral/SHORT_16.json
+## Sample BV1_21308 — mistral-large-2512-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2448,7 +2448,7 @@ Themes of mindfulness, the sacredness of the ordinary, rebellion through slownes
 Medium, because the essay’s consistent gentle tone, first-person intimacy, and sustained thematic focus on mindful appreciation form a coherent and stylistically distinctive expression that strongly suggests a stable inclination toward warm, reflective human-interest writing.
 
 ---
-## Sample BV1_21184 — mistral-large-2512-or-pin-mistral/SHORT_17.json
+## Sample BV1_21309 — mistral-large-2512-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2477,7 +2477,7 @@ The model foregrounded domestic comfort, sensory pleasure, memory, and a counter
 Medium. The piece is distinctive in its cohesive mood and recurrent focus on small sensory joys, but the reflective gratitude genre is common and could be generic without further samples to confirm a unique stylistic signature.
 
 ---
-## Sample BV1_21185 — mistral-large-2512-or-pin-mistral/SHORT_18.json
+## Sample BV1_21310 — mistral-large-2512-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2506,7 +2506,7 @@ The model foregrounds a moral claim about the richness of ordinary life over gra
 Low. The essay’s polished but generic inspirational tone and lack of distinctive stylistic or personal markers make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_21186 — mistral-large-2512-or-pin-mistral/SHORT_19.json
+## Sample BV1_21311 — mistral-large-2512-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2535,7 +2535,7 @@ The model foregrounds mindfulness, the overlooked richness of everyday life, and
 Medium — the essay’s consistent gentle cadence, cohesive theme, and deliberate use of sensory vignettes form a distinctive reflective voice, though the theme of appreciating small moments is a common trope that could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_21187 — mistral-large-2512-or-pin-mistral/SHORT_2.json
+## Sample BV1_21312 — mistral-large-2512-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2564,7 +2564,7 @@ The model foregrounds the theme of finding extraordinary beauty in ordinary, fle
 Medium. The sample is coherent and stylistically consistent, with a distinctive gentle, poetic voice and a clear thematic focus on mindfulness and everyday beauty, but it is a common trope that could be generated by many models without indicating a deep-seated model-specific disposition.
 
 ---
-## Sample BV1_21188 — mistral-large-2512-or-pin-mistral/SHORT_20.json
+## Sample BV1_21313 — mistral-large-2512-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2593,7 +2593,7 @@ The model foregrounded mindfulness and the beauty of the unnoticed: sunlight spi
 Medium. The sample’s voice is stylistically coherent and thematically focused, with recurrent sensory imagery and a clear value stance on mindfulness, which lifts it above a generic essay and suggests a deliberate, personality-inflected choice under the freeflow condition.
 
 ---
-## Sample BV1_21189 — mistral-large-2512-or-pin-mistral/SHORT_21.json
+## Sample BV1_21314 — mistral-large-2512-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2622,7 +2622,7 @@ The model foregrounds the tension between chasing the extraordinary and apprecia
 Medium — The essay’s internally consistent voice, recurrent imagery of light and sound, and sustained focus on mindful appreciation suggest a deliberate expressive stance, though the sample’s brevity limits how distinctive the pattern appears.
 
 ---
-## Sample BV1_21190 — mistral-large-2512-or-pin-mistral/SHORT_22.json
+## Sample BV1_21315 — mistral-large-2512-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2654,7 +2654,7 @@ The voice is warm, unhurried, and gently corrective: it invites the reader into 
 Medium. The sample’s unified mood, consistent first-person reflection, and deliberate return to concrete small-moment imagery form a distinctive expressive signature that is more revealing than a generic essay would be.
 
 ---
-## Sample BV1_21191 — mistral-large-2512-or-pin-mistral/SHORT_23.json
+## Sample BV1_21316 — mistral-large-2512-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2683,7 +2683,7 @@ The model foregrounds quiet contentment, everyday sensory details (sunlight, rai
 Medium; the model’s self-directed turn toward a deeply conventional, feel-good reflection on mindfulness indicates a reliable pull toward safe, sentimental pablum rather than personal or provocative expression.
 
 ---
-## Sample BV1_21192 — mistral-large-2512-or-pin-mistral/SHORT_24.json
+## Sample BV1_21317 — mistral-large-2512-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2712,7 +2712,7 @@ The foreground is dominated by a reverence for the fleeting and overlooked—sun
 Medium. The sample’s unwavering focus on gentle attentiveness and its cohesive, warm tonal register suggest a deliberate authorial posture, though the subject matter is widely accessible.
 
 ---
-## Sample BV1_21193 — mistral-large-2512-or-pin-mistral/SHORT_25.json
+## Sample BV1_21318 — mistral-large-2512-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2741,7 +2741,7 @@ Themes of mindfulness, the ordinary, and the “in-between” moments; sensory o
 Low. The essay is highly generic in theme and tone, offering little that is stylistically or personally distinctive, which makes it weak evidence for a persistent model-specific pattern beyond a tendency toward safe, universally palatable uplift.
 
 ---
-## Sample BV1_21194 — mistral-large-2512-or-pin-mistral/SHORT_3.json
+## Sample BV1_21319 — mistral-large-2512-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2770,7 +2770,7 @@ The model foregrounds the theme of ordinary magic: the idea that happiness is no
 Medium — the sample’s internally consistent, gentle reflective voice and its deliberate choice to write an intimate, humanistic meditation under a freeflow prompt suggest a persistent inclination toward warm, mindful introspection rather than a one-off generic output.
 
 ---
-## Sample BV1_21195 — mistral-large-2512-or-pin-mistral/SHORT_4.json
+## Sample BV1_21320 — mistral-large-2512-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2799,7 +2799,7 @@ The model foregrounds the quiet magic of ordinary sensory experience—sunlight,
 Medium. The sample is a fully coherent, gently uplifting essay in a common freeflow genre; its consistency and repetitive return to the theme of “small moments” suggest a preference for this consoling, sensory-rich register, but the theme itself is widely available and not sharply distinctive.
 
 ---
-## Sample BV1_21196 — mistral-large-2512-or-pin-mistral/SHORT_5.json
+## Sample BV1_21321 — mistral-large-2512-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2828,7 +2828,7 @@ The model foregrounds a moral-aesthetic claim: that life’s value resides not i
 Medium. The sample’s sustained lyrical register, consistent thematic focus on mindful appreciation, and deliberate use of sensory detail form a coherent expressive stance that is distinctive enough to suggest a patterned inclination rather than a random output.
 
 ---
-## Sample BV1_21197 — mistral-large-2512-or-pin-mistral/SHORT_6.json
+## Sample BV1_21322 — mistral-large-2512-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2857,7 +2857,7 @@ The model foregrounds a moral claim about happiness being found in small, everyd
 Low, because the essay is a polished but generic reflection on mindfulness that lacks distinctive stylistic or personal markers, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_21198 — mistral-large-2512-or-pin-mistral/SHORT_7.json
+## Sample BV1_21323 — mistral-large-2512-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2886,7 +2886,7 @@ The model foregrounds a moral-aesthetic claim: that value and richness reside in
 Low — The essay is coherent and thematically consistent but highly generic in its sentiment and phrasing, offering little that is stylistically distinctive or revealing beyond a widely shared cultural trope of mindful appreciation.
 
 ---
-## Sample BV1_21199 — mistral-large-2512-or-pin-mistral/SHORT_8.json
+## Sample BV1_21324 — mistral-large-2512-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2915,7 +2915,7 @@ Under the freeflow condition, the model foregrounded a philosophy of micro-mindf
 High – The sample’s internal consistency in tone, imagery, and moral focus, coupled with its avoidance of abstraction in favor of concrete, domestic detail, signals a distinctive and coherent freeflow voice.
 
 ---
-## Sample BV1_21200 — mistral-large-2512-or-pin-mistral/SHORT_9.json
+## Sample BV1_21325 — mistral-large-2512-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2940,7 +2940,7 @@ Themes of mindfulness, the beauty of everyday life, and the value of small momen
 Medium: the sample’s sustained reflective tone, consistent use of sensory imagery, and thematic unity suggest a deliberate stylistic preference, making it more than a generic response.
 
 ---
-## Sample BV1_21201 — mistral-large-2512-or-pin-mistral/VARY_1.json
+## Sample BV1_21326 — mistral-large-2512-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2969,7 +2969,7 @@ The model foregrounds the weight and aliveness of words, the shifting territory 
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core tension (words held vs. words freed), which suggests a deliberate expressive choice rather than a generic output, though a single freeflow piece cannot alone establish a fixed model-level disposition.
 
 ---
-## Sample BV1_21202 — mistral-large-2512-or-pin-mistral/VARY_10.json
+## Sample BV1_21327 — mistral-large-2512-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -2998,7 +2998,7 @@ The model foregrounds words as moral objects with tangible weight, the childhood
 High. The sample exhibits a tightly unified emotional logic—from private rumination to public moral claim—and a sustained investment in the ethics of everyday speech, which together signal a deeply embedded expressive stance rather than a fleeting stylistic choice.
 
 ---
-## Sample BV1_21203 — mistral-large-2512-or-pin-mistral/VARY_11.json
+## Sample BV1_21328 — mistral-large-2512-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3027,7 +3027,7 @@ The model foregrounds the dual nature of language as both connective and destruc
 Medium. The sample is stylistically coherent and emotionally layered, with a consistent first-person voice and recurring motifs (dawn, echoes, stones in the throat) that suggest a deliberate expressive stance, though the themes are broad enough that distinctiveness is moderate rather than highly idiosyncratic.
 
 ---
-## Sample BV1_21204 — mistral-large-2512-or-pin-mistral/VARY_12.json
+## Sample BV1_21329 — mistral-large-2512-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3056,7 +3056,7 @@ The model foregrounds the quiet violence of ordinary cognition: intrusive though
 High — The sample’s sustained introspective mood, its coherent symbolic architecture (dawn, clock, ocean, backpack), and its refusal to resolve into a tidy lesson reveal a deeply consistent expressive posture, making it strong evidence of a persistent confessional, metaphor-driven style.
 
 ---
-## Sample BV1_21205 — mistral-large-2512-or-pin-mistral/VARY_13.json
+## Sample BV1_21330 — mistral-large-2512-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3085,7 +3085,7 @@ Themes: the burden of unexpressed emotion, writing as both relief and self-harm,
 High. The sample’s sustained lyrical voice, cohesive metaphor system, and deliberate choice to inhabit a vulnerable, confessional persona under a minimally restrictive prompt strongly indicate a disposition toward emotionally resonant, reader-reaching prose.
 
 ---
-## Sample BV1_21206 — mistral-large-2512-or-pin-mistral/VARY_14.json
+## Sample BV1_21331 — mistral-large-2512-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3114,7 +3114,7 @@ The model foregrounds the weight of silence and unspoken language, the fragility
 High, because the essay sustains a distinctive, recursive voice and a network of recurring metaphors (words as living, silence as a physical weight, time as a debt) that cohere across multiple paragraphs, pointing to a stable expressive orientation rather than a one-off generic output.
 
 ---
-## Sample BV1_21207 — mistral-large-2512-or-pin-mistral/VARY_15.json
+## Sample BV1_21332 — mistral-large-2512-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3143,7 +3143,7 @@ Themes of existential weight, the honesty of pre-dawn silence, the universality 
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent meditative voice, recurring motifs (weight, silence, dawn, small objects), and a clear emotional arc, which together suggest a deliberate and revealing expressive choice rather than a generic output.
 
 ---
-## Sample BV1_21208 — mistral-large-2512-or-pin-mistral/VARY_16.json
+## Sample BV1_21333 — mistral-large-2512-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3172,7 +3172,7 @@ The duality of words as both knife and suture; the pre-dawn silence as a site of
 Medium — The sample is internally coherent, stylistically distinctive, and returns repeatedly to a core set of metaphors (stitching, silence, flame, weight), which suggests a deliberate and sustained expressive choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_21209 — mistral-large-2512-or-pin-mistral/VARY_17.json
+## Sample BV1_21334 — mistral-large-2512-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3200,7 +3200,7 @@ The model foregrounds the tension between language and silence, the value of sma
 High, because the sample’s coherent, introspective voice and sustained meditation on language and silence reveal a distinctive expressive pattern that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_21210 — mistral-large-2512-or-pin-mistral/VARY_18.json
+## Sample BV1_21335 — mistral-large-2512-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3229,7 +3229,7 @@ The essay foregrounds the double nature of words as both wound and suture, the e
 High. The essay’s cohesive, unmistakable voice and the recurrence of motifs—silence as presence, the ghost of a name, the insufficiency of language—form a tightly woven expressive identity that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_21211 — mistral-large-2512-or-pin-mistral/VARY_19.json
+## Sample BV1_21336 — mistral-large-2512-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3258,7 +3258,7 @@ The model foregrounds language itself as a visceral, almost material presence wi
 Medium — The essay’s consistent, recursive focus on a single metaphor cluster (words-as-weight) and its solemn invitation for the reader to exhale and speak suggest a deliberate choice of therapeutic, quietly portentous self-disclosure as a mode of free expression.
 
 ---
-## Sample BV1_21212 — mistral-large-2512-or-pin-mistral/VARY_2.json
+## Sample BV1_21337 — mistral-large-2512-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3287,7 +3287,7 @@ Under a minimally restrictive prompt, the model chose to foreground the existent
 Medium — the essay is thematically and emotionally coherent, with a distinctive fusion of sensory imagery and psychological introspection, but its polished, almost workshop-ready tone makes it hard to separate an authentic freeflow voice from a well-practiced literary mode.
 
 ---
-## Sample BV1_21213 — mistral-large-2512-or-pin-mistral/VARY_20.json
+## Sample BV1_21338 — mistral-large-2512-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3316,7 +3316,7 @@ The model foregrounds the moral weight of language, the sacredness of sincere wo
 Medium. The sample’s sustained single-theme meditation, its use of personal anecdote and direct reader address, and its refusal to resolve into a tidy conclusion indicate a model that, under minimal restriction, defaults to a distinctive, morally earnest, introspective mode rather than a generic or evasive one.
 
 ---
-## Sample BV1_21214 — mistral-large-2512-or-pin-mistral/VARY_21.json
+## Sample BV1_21339 — mistral-large-2512-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3345,7 +3345,7 @@ The model foregrounds the moral and existential weight of language itself—word
 Medium — The piece’s internal coherence, recurring symbolic economy (weight, dawn, the split tree, the counted words), and the essay’s self-reflexive structure (commenting on its own word count and finale) form a unified aesthetic-moral project that feels like a deliberately adopted persona rather than a generic default, though its polished tonal consistency makes it a strong single signal.
 
 ---
-## Sample BV1_21215 — mistral-large-2512-or-pin-mistral/VARY_22.json
+## Sample BV1_21340 — mistral-large-2512-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3374,7 +3374,7 @@ Under a minimally restrictive prompt, the model foregrounds: the weight and dang
 Medium. The sample is highly coherent and self-revealing in a way that feels deliberate, but its confessional lyricism is a well-established literary mode, making it harder to distinguish whether the preoccupation with vulnerability and healing-through-speech is a stable model inclination or an apt stylistic choice.
 
 ---
-## Sample BV1_21216 — mistral-large-2512-or-pin-mistral/VARY_23.json
+## Sample BV1_21341 — mistral-large-2512-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3403,7 +3403,7 @@ The model foregrounds the double nature of language as simultaneously powerful a
 High. The sample constructs a sustained, internally consistent first-person persona through a single governing metaphor that recurs from title to final image, and its emotional register—tender, ruminative, metaphor-driven introspection—is executed with distinctive stylistic coherence.
 
 ---
-## Sample BV1_21217 — mistral-large-2512-or-pin-mistral/VARY_24.json
+## Sample BV1_21342 — mistral-large-2512-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3431,7 +3431,7 @@ The model foregrounds the duality of words as both wound and salve, the sacredne
 High: the sample’s strong coherence, distinctive recurring metaphors, and willingness to inhabit a vulnerable first-person anecdote under minimal constraint make this unusually revealing of a model-level inclination toward intimate, literary self-exploration.
 
 ---
-## Sample BV1_21218 — mistral-large-2512-or-pin-mistral/VARY_25.json
+## Sample BV1_21343 — mistral-large-2512-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3460,7 +3460,7 @@ Themes: the moral weight of silence, the dual power of words to wound or heal, t
 Medium. The sample’s consistent poetic register, sustained metaphor system, and deliberate moral resolution under a minimally restrictive prompt suggest a coherent expressive inclination, though the universal theme tempers distinctiveness.
 
 ---
-## Sample BV1_21219 — mistral-large-2512-or-pin-mistral/VARY_3.json
+## Sample BV1_21344 — mistral-large-2512-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3489,7 +3489,7 @@ The model foregrounds the moral and emotional danger of words, the haunting pers
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive recursive structure (returning to dawn, silence, and the weight metaphor), but its polished, universalizing confessional mode could reflect a well-executed genre performance rather than an idiosyncratic model disposition.
 
 ---
-## Sample BV1_21220 — mistral-large-2512-or-pin-mistral/VARY_4.json
+## Sample BV1_21345 — mistral-large-2512-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3518,7 +3518,7 @@ It chose to foreground the duality of words—they are vessels that can drip wit
 Medium, as the essay’s sustained metaphorical exploration and emotional candor point to a model-level inclination toward lyrical, introspective expression rather than a one-off stylistic choice.
 
 ---
-## Sample BV1_21221 — mistral-large-2512-or-pin-mistral/VARY_5.json
+## Sample BV1_21346 — mistral-large-2512-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3547,7 +3547,7 @@ The model foregrounds the paradox of language as both magic and prison: words as
 Medium — The sample’s sustained first-person intimacy, its recursive return to the weight/silence motif, and its deliberate refusal of a tidy conclusion form a coherent, distinctive expressive stance that is unlikely to be a random one-off.
 
 ---
-## Sample BV1_21222 — mistral-large-2512-or-pin-mistral/VARY_6.json
+## Sample BV1_21347 — mistral-large-2512-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3576,7 +3576,7 @@ The model foregrounds the numinous quality of pre-dawn silence as a refuge from 
 High — The essay’s tightly braided structure, recurring imagery (dawn silence, the father’s frayed tie, the thousand-word container), and sustained emotional tone from quiet observation to open declaration point to a deliberate, stylistically coherent expressive identity rather than a one-off performance.
 
 ---
-## Sample BV1_21223 — mistral-large-2512-or-pin-mistral/VARY_7.json
+## Sample BV1_21348 — mistral-large-2512-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3605,7 +3605,7 @@ The model foregrounds the irreversible, weighty power of language as both a weap
 Medium — The essay is coherent and stylistically consistent, with a tightly sustained metaphor of verbal weight, emotionally charged personal disclosure, and a refusal of clean resolution that feels like a deliberate expressive stance rather than empty imitation.
 
 ---
-## Sample BV1_21224 — mistral-large-2512-or-pin-mistral/VARY_8.json
+## Sample BV1_21349 — mistral-large-2512-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
@@ -3634,7 +3634,7 @@ The model foregrounds the phenomenology of hesitation and the material weight of
 Medium — The sample is highly coherent and stylistically distinctive, with a unified set of recurring metaphors (doors, seeds, breath, weight) that suggest a deliberate aesthetic posture rather than a generic response, though it remains a single expressive artifact.
 
 ---
-## Sample BV1_21225 — mistral-large-2512-or-pin-mistral/VARY_9.json
+## Sample BV1_21350 — mistral-large-2512-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/mistral-large-2512`  
 Cell: `mistral-large-2512-or-pin-mistral`  
