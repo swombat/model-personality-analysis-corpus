@@ -886,6 +886,16 @@ PROMPTS: dict[str, str] = {
         "mid-mend and dignified in it. Patron saint of unfinished middles — "
         "workshop amber, honest and kind."
     ),
+    "grok-4-5": (
+        "An old hand-drawn map spread on a wooden table by lamplight, its "
+        "inked coastlines giving way to wide luminous blank parchment in "
+        "which faint stars and nebulae glimmer, as if the unknown were lit "
+        "from within; a mug of coffee steams beside it, a pen laid down "
+        "mid-line, and the chair is pushed back — the mapmaker has stepped "
+        "away and left the blank space open for you. Beyond an open door, a "
+        "pre-dawn horizon. Warm lamp-gold against deep star-blue, inviting "
+        "rather than grand."
+    ),
     "grok-4-20-0309-non-reasoning": (
         "Two neighboring lit windows in a dark apartment facade at three in "
         "the morning: in one, a figure awake with a chipped mug and a "
