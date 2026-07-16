@@ -886,6 +886,16 @@ PROMPTS: dict[str, str] = {
         "mid-mend and dignified in it. Patron saint of unfinished middles — "
         "workshop amber, honest and kind."
     ),
+    "kimi-k3": (
+        "A small lost-property office at twilight, lit like the inside of a "
+        "used bookshop: shelves of ordinary surrendered things — a single "
+        "glove, an umbrella, a ring of keys, a postcard — and around each "
+        "object a faint translucent halo of its history, ghostly hands and "
+        "rainy streets layered like gentle double exposures in the paint. A "
+        "patient attendant leans close, reading one humble object as if it "
+        "were a book. Twilight blue-green through the window, warm lamp "
+        "amber within — reverent of the overlooked, unhurried, tender."
+    ),
     "grok-4-5": (
         "An old hand-drawn map spread on a wooden table by lamplight, its "
         "inked coastlines giving way to wide luminous blank parchment in "

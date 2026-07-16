@@ -2679,7 +2679,7 @@
     "lab": "Moonshot AI",
     "family": "kimi",
     "status": "complete",
-    "summary": "Personality strapline awaiting Lume's editorial pass",
+    "summary": "Speaks in words worn smooth by other hands",
     "release_date": "2026-07-16",
     "benchmarks": {
       "aaii": 57,
@@ -2715,6 +2715,8 @@
       "max_throughput_date": null,
       "latency": null
     },
+    "image": "images/models/kimi-k3.webp",
+    "image_thumb": "images/models/kimi-k3-thumb.webp",
     "published_samples": 245,
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
