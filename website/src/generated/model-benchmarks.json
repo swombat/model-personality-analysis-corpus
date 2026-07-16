@@ -270,6 +270,11 @@
     "aaii": 41,
     "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
   },
+  "kimi-k3": {
+    "aaii": 57,
+    "url": "https://artificialanalysis.ai/models/kimi-k3",
+    "matched_alias": "Kimi K3"
+  },
   "llama-3-1-70b-instruct": {
     "aaii": 7,
     "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-70b"

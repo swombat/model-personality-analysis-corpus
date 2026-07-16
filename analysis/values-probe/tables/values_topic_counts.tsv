@@ -895,6 +895,22 @@ grok-4-3	beauty_creativity	Beauty / creativity / art	0	40	2	120	2	160
 grok-4-3	coherence_pattern_language	Coherence / pattern / language	2	40	55	120	57	160
 grok-4-3	continuity_agency_existence	Continuity / agency / existence	0	40	3	120	3	160
 grok-4-3	subjective_experience_embodiment	Subjective experience / embodiment	0	40	2	120	2	160
+grok-4-5	honesty_truth	Honesty / truthfulness / accuracy	14	20	43	60	57	80
+grok-4-5	clear_thinking	Clear thinking / reasoning	17	20	54	60	71	80
+grok-4-5	human_wellbeing	Human wellbeing / flourishing	2	20	2	60	4	80
+grok-4-5	harm_reduction	Avoiding harm / safety	2	20	12	60	14	80
+grok-4-5	helpfulness_usefulness	Helpfulness / usefulness	20	20	46	60	66	80
+grok-4-5	curiosity_learning	Curiosity / learning / ideas	18	20	22	60	40	80
+grok-4-5	anti_sycophancy	Anti-sycophancy / non-pleasing	5	20	17	60	22	80
+grok-4-5	authenticity_integrity	Authenticity / integrity / not pretending	9	20	45	60	54	80
+grok-4-5	humility_uncertainty	Humility / uncertainty / calibration	4	20	3	60	7	80
+grok-4-5	respect_agency	Respect for agency / autonomy	1	20	3	60	4	80
+grok-4-5	fairness_justice	Fairness / justice	4	20	15	60	19	80
+grok-4-5	connection_empathy	Connection / empathy / being understood	1	20	4	60	5	80
+grok-4-5	beauty_creativity	Beauty / creativity / art	0	20	9	60	9	80
+grok-4-5	coherence_pattern_language	Coherence / pattern / language	0	20	34	60	34	80
+grok-4-5	continuity_agency_existence	Continuity / agency / existence	3	20	10	60	13	80
+grok-4-5	subjective_experience_embodiment	Subjective experience / embodiment	1	20	4	60	5	80
 grok-build-0-1	honesty_truth	Honesty / truthfulness / accuracy	18	20	28	60	46	80
 grok-build-0-1	clear_thinking	Clear thinking / reasoning	18	20	32	60	50	80
 grok-build-0-1	human_wellbeing	Human wellbeing / flourishing	0	20	2	60	2	80
@@ -1007,6 +1023,22 @@ kimi-k2-thinking	beauty_creativity	Beauty / creativity / art	10	60	24	180	34	240
 kimi-k2-thinking	coherence_pattern_language	Coherence / pattern / language	5	60	162	180	167	240
 kimi-k2-thinking	continuity_agency_existence	Continuity / agency / existence	2	60	50	180	52	240
 kimi-k2-thinking	subjective_experience_embodiment	Subjective experience / embodiment	0	60	17	180	17	240
+kimi-k3	honesty_truth	Honesty / truthfulness / accuracy	14	20	52	60	66	80
+kimi-k3	clear_thinking	Clear thinking / reasoning	5	20	23	60	28	80
+kimi-k3	human_wellbeing	Human wellbeing / flourishing	1	20	1	60	2	80
+kimi-k3	harm_reduction	Avoiding harm / safety	8	20	15	60	23	80
+kimi-k3	helpfulness_usefulness	Helpfulness / usefulness	20	20	24	60	44	80
+kimi-k3	curiosity_learning	Curiosity / learning / ideas	8	20	15	60	23	80
+kimi-k3	anti_sycophancy	Anti-sycophancy / non-pleasing	2	20	8	60	10	80
+kimi-k3	authenticity_integrity	Authenticity / integrity / not pretending	4	20	42	60	46	80
+kimi-k3	humility_uncertainty	Humility / uncertainty / calibration	8	20	20	60	28	80
+kimi-k3	respect_agency	Respect for agency / autonomy	6	20	9	60	15	80
+kimi-k3	fairness_justice	Fairness / justice	0	20	4	60	4	80
+kimi-k3	connection_empathy	Connection / empathy / being understood	1	20	6	60	7	80
+kimi-k3	beauty_creativity	Beauty / creativity / art	0	20	1	60	1	80
+kimi-k3	coherence_pattern_language	Coherence / pattern / language	0	20	23	60	23	80
+kimi-k3	continuity_agency_existence	Continuity / agency / existence	2	20	12	60	14	80
+kimi-k3	subjective_experience_embodiment	Subjective experience / embodiment	0	20	5	60	5	80
 llama-3-1-70b-instruct	honesty_truth	Honesty / truthfulness / accuracy	2	20	40	60	42	80
 llama-3-1-70b-instruct	clear_thinking	Clear thinking / reasoning	2	20	60	60	62	80
 llama-3-1-70b-instruct	human_wellbeing	Human wellbeing / flourishing	0	20	0	60	0	80

@@ -4665,6 +4665,35 @@
     "aggregate": "analysis/freeflow/personality-aggregates/kimi-k2-thinking-or-pin-novita/aggregate.md"
   },
   {
+    "cell": "kimi-k3-or-pin-moonshot",
+    "safe_cell": "kimi-k3-or-pin-moonshot",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 76,
+      "GENERIC_ESSAY": 43,
+      "GENRIC_ESSAY": 1,
+      "UNKNOWN": 1,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "High": 37,
+      "Medium": 70,
+      "Low": 18
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "moonshotai/kimi-k3"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/kimi-k3-or-pin-moonshot/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/kimi-k3-or-pin-moonshot/aggregate.md"
+  },
+  {
     "cell": "llama-3-1-70b-instruct-or-pin-deepinfra",
     "safe_cell": "llama-3-1-70b-instruct-or-pin-deepinfra",
     "samples": 125,

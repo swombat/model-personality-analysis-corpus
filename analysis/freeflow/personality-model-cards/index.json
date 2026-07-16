@@ -632,6 +632,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "kimi-k3",
+    "safe": "kimi-k3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/kimi-k3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "llama-3.1-70b-instruct",
     "safe": "llama-3.1-70b-instruct",
     "variants": 1,

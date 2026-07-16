@@ -130,6 +130,7 @@ MODEL_SLUGS = {
     "kimi-k2-6": "moonshotai/kimi-k2.6",
     "kimi-k2-7-code": "moonshotai/kimi-k2.7-code",
     "kimi-k2-thinking": "moonshotai/kimi-k2-thinking",
+    "kimi-k3": "moonshotai/kimi-k3",
     "kimi-coding": "moonshotai/kimi-coding",
     "minimax-m2": "minimax/minimax-m2",
     "minimax-m2-7": "minimax/minimax-m2.7",

@@ -128,6 +128,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase14_grok_4_5_20260716/posture_collapsed',
         'posture_consensus': LAYERED/'phase14_grok_4_5_20260716/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase15_kimi_k3_20260716',
+        'manifest': LAYERED/'phase15_kimi_k3_20260716/manifest_phase15.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase15_kimi_k3_20260716/layer_a',
+        'layer_a_consensus': LAYERED/'phase15_kimi_k3_20260716/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase15_kimi_k3_20260716/posture_collapsed',
+        'posture_consensus': LAYERED/'phase15_kimi_k3_20260716/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

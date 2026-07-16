@@ -1030,6 +1030,21 @@
     "card": "analysis/freeflow/personality-model-cards/cards/kimi-k2.7-code.md"
   },
   {
+    "model": "kimi-k3",
+    "safe": "kimi-k3",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 76,
+      "GENERIC_ESSAY": 43,
+      "GENRIC_ESSAY": 1,
+      "UNKNOWN": 1,
+      "GENRE_FICTION": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/kimi-k3.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/kimi-k3.md"
+  },
+  {
     "model": "llama-3.1-70b-instruct",
     "safe": "llama-3.1-70b-instruct",
     "analysis_inputs": 1,

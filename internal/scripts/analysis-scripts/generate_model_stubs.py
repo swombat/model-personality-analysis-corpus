@@ -61,7 +61,7 @@ MODELS = [
     "minimax-m2", "minimax-m2-7", "minimax-m3",
     # Moonshot (Kimi)
     "kimi-k2",  # v1-only base predecessor
-    "kimi-k2-0905", "kimi-k2-5", "kimi-k2-6", "kimi-k2-thinking", "kimi-coding",
+    "kimi-k2-0905", "kimi-k2-5", "kimi-k2-6", "kimi-k2-thinking", "kimi-k3", "kimi-coding",
     # Alibaba (Qwen)
     "qwen3-5-flash-02-23", "qwen3-5-plus-20260420",
     "qwen3-6-flash", "qwen3-6-max-preview", "qwen3-6-plus",

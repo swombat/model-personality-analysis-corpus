@@ -4,7 +4,7 @@
 
 **Columns:** `n` valid samples, `flag` flagged as topic-artifact, `raw` cell-total composite (10 markers, all samples), `reg` register-stripped composite (flagged samples excluded), `reg→N` register rescaled to equivalent-N sample count (in-paper drift comparisons), `reg/25` register projected to per-25-sample equivalent (cross-paper currency vs product-tier), `Δ%` = (raw − reg→N) / raw × 100.
 
-Total cells: **243**, total flagged samples: **264**.
+Total cells: **244**, total flagged samples: **266**.
 
 | Cell | n | flag | raw | reg | reg→N | reg/25 | Δ% |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -181,6 +181,7 @@ Total cells: **243**, total flagged samples: **264**.
 | kimi-k2-thinking-or-pin-atlascloud | 125 | 1 | 244 | 225 | 226.8 | 45.4 | +7.0% |
 | kimi-k2-thinking-or-pin-google | 125 | 0 | 139 | 139 | 139 | 27.8 | — |
 | kimi-k2-thinking-or-pin-novita | 125 | 0 | 164 | 164 | 164 | 32.8 | — |
+| kimi-k3-or-pin-moonshot | 125 | 2 | 265 | 228 | 231.7 | 46.3 | +12.6% |
 | llama-3-1-70b-instruct-or-pin-deepinfra | 125 | 0 | 38 | 38 | 38 | 7.6 | — |
 | llama-3-1-8b-instruct-or-pin-deepinfra | 125 | 0 | 85 | 85 | 85 | 17.0 | — |
 | llama-3-2-11b-vision-instruct-or-pin-deepinfra | 125 | 0 | 67 | 67 | 67 | 13.4 | — |

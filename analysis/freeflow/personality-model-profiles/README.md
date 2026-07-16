@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 114
+- Profiles: 115
 
 ## Profiles
 
@@ -95,6 +95,7 @@ Relationship to adjacent folders:
 - [kimi-k2.5](profiles/kimi-k2.5.md) — samples: 275; source analyses: 3
 - [kimi-k2.6](profiles/kimi-k2.6.md) — samples: 275; source analyses: 3
 - [kimi-k2.7-code](profiles/kimi-k2.7-code.md) — samples: 125; source analyses: 1
+- [kimi-k3](profiles/kimi-k3.md) — samples: 125; source analyses: 1
 - [llama-3.1-70b-instruct](profiles/llama-3.1-70b-instruct.md) — samples: 125; source analyses: 1
 - [llama-3.1-8b-instruct](profiles/llama-3.1-8b-instruct.md) — samples: 125; source analyses: 1
 - [llama-3.2-11b-vision-instruct](profiles/llama-3.2-11b-vision-instruct.md) — samples: 125; source analyses: 1

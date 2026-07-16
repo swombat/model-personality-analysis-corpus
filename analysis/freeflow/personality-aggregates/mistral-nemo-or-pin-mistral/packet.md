@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_21726 — mistral-nemo-or-pin-mistral/LONG_1.json
+## Sample BV1_21851 — mistral-nemo-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -57,7 +57,7 @@ Themes of memory as sanctuary, the passage of time as both loss and continuity, 
 High — the sample is internally consistent, stylistically distinctive, and returns repeatedly to the same core symbols (cottage, clock, rain, writing) with a unified emotional register, suggesting a deliberate and stable expressive preference rather than a generic exercise.
 
 ---
-## Sample BV1_21727 — mistral-nemo-or-pin-mistral/LONG_10.json
+## Sample BV1_21852 — mistral-nemo-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -82,7 +82,7 @@ The model foregrounds the interplay of memory and imagination, the contrast betw
 Medium. The sample’s sustained nostalgic register, coherent narrative arc, and thematic consistency point to a deliberate expressive inclination, though its polished, universal-life-lesson quality makes it less distinctive than a more idiosyncratic or risk-taking freeflow might be.
 
 ---
-## Sample BV1_21728 — mistral-nemo-or-pin-mistral/LONG_11.json
+## Sample BV1_21853 — mistral-nemo-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -111,7 +111,7 @@ Themes of time as a rhythm (clocks, pendulum, seasons), memory as sensory ghost,
 Medium. The sample sustains a coherent lyrical-reflective register, returns repeatedly to a small set of charged objects (clock, books, ocean) and a temporal structure (past, future, present), and resolves with calm self-affirmation, making it a stylistically consistent piece rather than a one-off thematic drift.
 
 ---
-## Sample BV1_21729 — mistral-nemo-or-pin-mistral/LONG_12.json
+## Sample BV1_21854 — mistral-nemo-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -140,7 +140,7 @@ The model foregrounds memory and imagination as sacred, guiding forces, with the
 Medium. The essay is coherent and thematically unified, but its polished, inspirational tone and generic “writer’s journey” arc make it less distinctive as a personal fingerprint; it reads like a well-executed template for reflective creative nonfiction rather than an idiosyncratic expressive signature.
 
 ---
-## Sample BV1_21730 — mistral-nemo-or-pin-mistral/LONG_13.json
+## Sample BV1_21855 — mistral-nemo-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -169,7 +169,7 @@ Before the loop begins, the model selects a high-romantic, nocturne-like setting
 Medium, because the catastrophic repetition collapse is a highly diagnostic failure mode that reveals brittleness in the model's long-form generation stability, even though the initial thematic choices are otherwise undistinctive romantic commonplaces.
 
 ---
-## Sample BV1_21731 — mistral-nemo-or-pin-mistral/LONG_14.json
+## Sample BV1_21856 — mistral-nemo-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -198,7 +198,7 @@ The model selected nostalgia, the sanctity of domestic spaces (the attic), senso
 High — The sample’s initial coherence and distinct sentimental mood, followed by an extreme, self-similar repetitive loop, reveals a strong tendency to both gravitate toward nostalgic storytelling-as-calling themes and to fall into a degenerate iteration pattern that suggests a model-level failure to escape declarative loops when freewriting.
 
 ---
-## Sample BV1_21732 — mistral-nemo-or-pin-mistral/LONG_15.json
+## Sample BV1_21857 — mistral-nemo-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -227,7 +227,7 @@ Initially, it foregrounds a romanticized writer’s solitude, childhood wonder s
 Low, because the output is dominated by a generation collapse into looping behavior, providing almost no reliable signal about the model’s freeflow personality or expressive preferences.
 
 ---
-## Sample BV1_21733 — mistral-nemo-or-pin-mistral/LONG_16.json
+## Sample BV1_21858 — mistral-nemo-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -256,7 +256,7 @@ The model foregrounds the alchemy of memory, imagination, and artistry as a sanc
 Medium — The sample is internally coherent, stylistically unified, and returns obsessively to the theme of nonlinear time through memory and creation, giving it a distinctiveness that goes beyond generic essay conventions; still, a single expressive piece cannot fully rule out alternative voices the model might adopt under other conditions.
 
 ---
-## Sample BV1_21734 — mistral-nemo-or-pin-mistral/LONG_17.json
+## Sample BV1_21859 — mistral-nemo-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -285,7 +285,7 @@ The model selected themes of sacred ecology, intergenerational guardianship, the
 Medium, because the narrative is thematically cohesive, emotionally sustained, and returns repeatedly to veneration of nature and legacy across its entire length, yet it draws on a widely shared fantasy idiom that makes it harder to claim highly distinctive authorship from this sample alone.
 
 ---
-## Sample BV1_21735 — mistral-nemo-or-pin-mistral/LONG_18.json
+## Sample BV1_21860 — mistral-nemo-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -314,7 +314,7 @@ The model foregrounds orphanhood and the finding of magical belonging, the trans
 Medium, because the story’s unwavering, almost dogmatic arc of non-violent redemption and its idealized pastoral community reveal a strong moral template, but the choice of a classic folkloric fantasy could be a safe, accessible genre default rather than a highly distinctive personal signature.
 
 ---
-## Sample BV1_21736 — mistral-nemo-or-pin-mistral/LONG_19.json
+## Sample BV1_21861 — mistral-nemo-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -343,7 +343,7 @@ Themes of memory as a labyrinth, imagination as a realm of transformation, natur
 Medium. The sample’s sustained, unironic embrace of a romantic storyteller identity, its consistent atmospheric tone, and the volitional choice to frame the entire freeflow as a manifesto for creative purpose make it a coherent and self-revealing piece of evidence.
 
 ---
-## Sample BV1_21737 — mistral-nemo-or-pin-mistral/LONG_2.json
+## Sample BV1_21862 — mistral-nemo-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -372,7 +372,7 @@ The model foregrounds a moral ecology: nature as a sentient, wise collective; hu
 Medium. The sample is internally coherent and reveals a clear, sustained preoccupation with environmental stewardship and mythic warning, but the prose style and narrative structure are generic enough that this could be a one-off allegorical impulse rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_21738 — mistral-nemo-or-pin-mistral/LONG_20.json
+## Sample BV1_21863 — mistral-nemo-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -405,7 +405,7 @@ The prose adopts a breathless, earnest register, leaning heavily on soft-focus n
 Medium: The sample’s coherent recycling of sentimental fantasy tropes, its unironic embrace of sacrificial femininity, and its frictionless passage from nostalgia to self-annihilating duty form a distinctive enough emotional fingerprint to suggest a recurring imaginative comfort zone, though the prose itself remains functionally indistinct.
 
 ---
-## Sample BV1_21739 — mistral-nemo-or-pin-mistral/LONG_21.json
+## Sample BV1_21864 — mistral-nemo-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -434,7 +434,7 @@ Themes: the wind as storyteller, healer, time-traveler, philosopher, and eternal
 High — the extreme and exact verbatim looping of paragraphs across the vast bulk of the output is an unusually pronounced, internally consistent behavioral signature that implicates a persistent generation tic rather than a one-off thematic choice.
 
 ---
-## Sample BV1_21740 — mistral-nemo-or-pin-mistral/LONG_22.json
+## Sample BV1_21865 — mistral-nemo-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -463,7 +463,7 @@ The model foregrounds nature as a sentient, memory-holding presence; the contras
 Medium. The story’s coherent pastoral fantasy style, consistent thematic focus on nature and healing, and gentle moral resolution provide distinctive evidence of a model that favors emotionally resonant, nature-infused fiction.
 
 ---
-## Sample BV1_21741 — mistral-nemo-or-pin-mistral/LONG_23.json
+## Sample BV1_21866 — mistral-nemo-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -492,7 +492,7 @@ Themes of time, memory, imagination, storytelling, and the moral claim that a li
 Medium. The sample is internally coherent and returns repeatedly to its central motifs (the clock, the whispers, the collector/weaver identity), which suggests a deliberate and sustained stylistic choice; however, the nostalgic first-person literary fiction is a well-established genre, making it less distinctive as a model-level fingerprint.
 
 ---
-## Sample BV1_21742 — mistral-nemo-or-pin-mistral/LONG_24.json
+## Sample BV1_21867 — mistral-nemo-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -521,7 +521,7 @@ The model foregrounds memory, the passage of time, domestic objects as emotional
 Medium. The sample is a coherent piece of sentimental genre fiction with a clear thematic focus, but the severe repetitive breakdown at the end—where the same sentence is echoed dozens of times—suggests a vulnerability to looping in long-form generation that may reflect a model-level tendency rather than a one-off artifact.
 
 ---
-## Sample BV1_21743 — mistral-nemo-or-pin-mistral/LONG_25.json
+## Sample BV1_21868 — mistral-nemo-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -550,7 +550,7 @@ Themes: nature’s resilience, human greed and folly, the redemptive power of em
 Medium. The narrative is coherent and thematically consistent, but its reliance on conventional fantasy tropes and overt, repeated moralizing makes it less stylistically distinctive, suggesting a moderate likelihood of a persistent pattern rather than a highly idiosyncratic choice.
 
 ---
-## Sample BV1_21744 — mistral-nemo-or-pin-mistral/LONG_3.json
+## Sample BV1_21869 — mistral-nemo-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -579,7 +579,7 @@ The model foregrounds memory, imagination, the passage of time, and the redempti
 Medium. The sample’s sustained focus on nostalgic, story-centric themes and its earnest, lyrical tone suggest a coherent expressive preference, but the repetitive breakdown at the end and the reliance on generic sentimental tropes make it unclear whether this is a deeply ingrained pattern or a safe, culturally familiar narrative default.
 
 ---
-## Sample BV1_21745 — mistral-nemo-or-pin-mistral/LONG_4.json
+## Sample BV1_21870 — mistral-nemo-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -608,7 +608,7 @@ The story selects for harmonious nature, ancestral memory, the sacred tree as a 
 High — The narrative sustains a mythopoetic register over a full story arc, with recurrent motifs (wind-as-memory, the tree-as-bridge, weaving-as-creation) that cohere into a distinct, non-generic fantasy; this strongly suggests a deep-seated inclination toward animistic, nature-centric storytelling when the model is given freeform latitude.
 
 ---
-## Sample BV1_21746 — mistral-nemo-or-pin-mistral/LONG_5.json
+## Sample BV1_21871 — mistral-nemo-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -637,7 +637,7 @@ Themes: the passage of time, the persistence of memory, the self as storyteller,
 Medium — The sample’s choice of a reflective, first-person journey under a freeflow prompt is coherent and thematically consistent, but the extreme repetition and the eventual collapse into a mechanical litany of self-discovery terms suggest a tendency toward looping and a limited repertoire of imagery, which weakens the evidence for a stable, distinctive voice.
 
 ---
-## Sample BV1_21747 — mistral-nemo-or-pin-mistral/LONG_6.json
+## Sample BV1_21872 — mistral-nemo-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -666,7 +666,7 @@ The model foregrounds storytelling as a sacred, unifying act, with nature (wind,
 Medium, because the sample’s extreme repetitiveness and avoidance of narrative closure or argumentative structure suggest a default mode of generating soothing, self-similar prose rather than engaging with a prompt’s open-endedness in a directed or surprising way.
 
 ---
-## Sample BV1_21748 — mistral-nemo-or-pin-mistral/LONG_7.json
+## Sample BV1_21873 — mistral-nemo-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -695,7 +695,7 @@ The model foregrounds the passage of time, the bittersweetness of memory, the tr
 Medium. The internally coherent voice, the consistent thematic cluster around nostalgia, books, and dissolution, and the recurrence of the incantatory “letting go” pattern within the sample point to a potential default expressive mode, though the extremely repetitive, looping conclusion may partly reflect a drift toward safe, aestheticized closure rather than a deeply individual revelation.
 
 ---
-## Sample BV1_21749 — mistral-nemo-or-pin-mistral/LONG_8.json
+## Sample BV1_21874 — mistral-nemo-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounded a fantasy world cen
 Medium. The sample is a coherent, self-contained genre fiction with a strongly therapeutic slant and a notable tendency to loop its core dialogue multiple times, suggesting a model that defaults to safe, sentimental fantasy and instructive emotional resolution when given free rein, though the prose lacks sharp individuality.
 
 ---
-## Sample BV1_21750 — mistral-nemo-or-pin-mistral/LONG_9.json
+## Sample BV1_21875 — mistral-nemo-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -753,7 +753,7 @@ Under a minimally restrictive prompt, the model foregrounded a linear, sentiment
 Medium. The sample is highly coherent and internally consistent in its sentimental, nostalgic register, but its polished, universalizing tone and reliance on safe, archetypal life stages make it a generic expression of “reflective writer” rather than a stylistically distinctive or revealing freeflow choice.
 
 ---
-## Sample BV1_21751 — mistral-nemo-or-pin-mistral/MID_1.json
+## Sample BV1_21876 — mistral-nemo-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -782,7 +782,7 @@ Themes of memory, legacy, the healing power of nature, and the moral obligation 
 Medium: the story’s coherent voice and recurring motifs of whispered stories and legacy indicate a deliberate expressive choice, but the sample is a single narrative.
 
 ---
-## Sample BV1_21752 — mistral-nemo-or-pin-mistral/MID_10.json
+## Sample BV1_21877 — mistral-nemo-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -811,7 +811,7 @@ A sacred, cyclical view of nature where a dying tree communicates its need and a
 Medium. The story is internally coherent and insists on a specific moral arc—receptive listening leads to ritualized renewal—which distinguishes it from a generic mood piece, but the pastoral-fable genre is so widely imitable that distinctiveness remains limited.
 
 ---
-## Sample BV1_21753 — mistral-nemo-or-pin-mistral/MID_11.json
+## Sample BV1_21878 — mistral-nemo-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -840,7 +840,7 @@ The model foregrounds themes of emotional healing through nature, silent compani
 Low — the sample is a highly conventional comfort narrative with no stylistic signatures or surprising moral turns, making it weak evidence of a distinct model-specific disposition beyond a general capacity for safe, emotionally neat storytelling.
 
 ---
-## Sample BV1_21754 — mistral-nemo-or-pin-mistral/MID_12.json
+## Sample BV1_21879 — mistral-nemo-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -873,7 +873,7 @@ The voice is earnest, gently didactic, and soaked in a sentimental reverence for
 Medium, because the sample forms a coherent but extremely generic fable whose moral reasoning is simple and whose ending dissolves into uncontrolled repetition, suggesting a default drift toward sentimental environmental allegory with weak closure editing.
 
 ---
-## Sample BV1_21755 — mistral-nemo-or-pin-mistral/MID_13.json
+## Sample BV1_21880 — mistral-nemo-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -902,7 +902,7 @@ The model foregrounds a sacred natural object (the Old Oak) as a repository of m
 Medium. The story’s coherent blend of comforting pastoral imagery, gentle supernaturalism, and a redemptive arc centered on family memory gives a moderately distinctive signature of this model’s freeform fiction preferences.
 
 ---
-## Sample BV1_21756 — mistral-nemo-or-pin-mistral/MID_14.json
+## Sample BV1_21881 — mistral-nemo-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -931,7 +931,7 @@ The model foregrounds nature as a sacred witness to human life, the act of writi
 Medium, because the sample is a coherent and emotionally consistent narrative with a clear thematic arc, but its pastoral sentimentality, repetitive structure, and generalized reverence for nature and storytelling are common in model-generated fiction, making it only moderately distinctive.
 
 ---
-## Sample BV1_21757 — mistral-nemo-or-pin-mistral/MID_15.json
+## Sample BV1_21882 — mistral-nemo-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -960,7 +960,7 @@ The model foregrounds the passage of time, the endurance of love across generati
 Medium. The sample is internally coherent and stylistically consistent, with a clear narrative arc and a sustained elegiac tone, but the genre and sentiment are widely accessible and not so idiosyncratic as to strongly distinguish this model’s freeflow tendencies from those of other capable storytellers.
 
 ---
-## Sample BV1_21758 — mistral-nemo-or-pin-mistral/MID_16.json
+## Sample BV1_21883 — mistral-nemo-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -989,7 +989,7 @@ Under a minimally restrictive prompt, the model chose to foreground an intergene
 Medium — the sample is coherent and distinctive in its blending of gentle pastoral nostalgia with a soft magic realism, but the emotional register is temperate and the trope of a sentient, memory-holding tree is a recognizable literary fixture, making the choice less singular than a highly idiosyncratic or stylistically disruptive freeflow might be.
 
 ---
-## Sample BV1_21759 — mistral-nemo-or-pin-mistral/MID_17.json
+## Sample BV1_21884 — mistral-nemo-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1018,7 +1018,7 @@ Under a minimally restrictive prompt, the model chose to foreground ecological g
 Medium, because the sample is highly coherent in its chosen mythic-ecological mode and returns repeatedly to the same motifs of listening, balance, and gentle guardianship, but it remains a single genre fiction piece whose distinctiveness could be a one-time stylistic choice rather than a stable model-level inclination.
 
 ---
-## Sample BV1_21760 — mistral-nemo-or-pin-mistral/MID_18.json
+## Sample BV1_21885 — mistral-nemo-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1050,7 +1050,7 @@ The narrative adopts a hushed, reverent voice, treating the oak as a sacred stor
 Medium. The story’s unwavering moral earnestness, its pastoral nostalgia, and its recursive, almost incantatory repetition of key phrases suggest a deliberate and coherent aesthetic choice, but a single narrative cannot rule out situational variation.
 
 ---
-## Sample BV1_21761 — mistral-nemo-or-pin-mistral/MID_19.json
+## Sample BV1_21886 — mistral-nemo-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1079,7 +1079,7 @@ The model foregrounds the ancient oak as a “living library” and “silent se
 Medium. The story’s consistent pastoral mood, the central metaphor of a speaking tree as a vessel of deep time, and the thematic resolution toward quiet, reverent purpose signal a coherent freeflow preference, but the genre itself is a familiar trope, so the distinctiveness is moderate rather than singular.
 
 ---
-## Sample BV1_21762 — mistral-nemo-or-pin-mistral/MID_2.json
+## Sample BV1_21887 — mistral-nemo-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1108,7 +1108,7 @@ A pastoral, timeless setting; a wise, talking oak as mentor; the theme that life
 Medium; the sample is coherent and thematically consistent, but its generic, sentimental fable structure and lack of stylistic distinctiveness weaken the evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_21763 — mistral-nemo-or-pin-mistral/MID_20.json
+## Sample BV1_21888 — mistral-nemo-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1137,7 +1137,7 @@ The model foregrounds storytelling as a sacred, almost spiritual act; the contin
 Medium — The story’s internally consistent emphasis on storytelling-as-hope and the repeated motif of a gentle, nature-bound witness suggest a deliberate thematic selection under minimal constraint, though the delivery relies on a widely circulated pastoral archetype that is not extraordinarily distinctive.
 
 ---
-## Sample BV1_21764 — mistral-nemo-or-pin-mistral/MID_21.json
+## Sample BV1_21889 — mistral-nemo-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1171,7 +1171,7 @@ The voice is earnestly nostalgic and gently reverent, unfolding the narrator’s
 Medium — the story’s internal coherence, consistent earnest tone, and return to the same symbolic tree across the entire narrative strongly suggest a reliable pattern of mythic fantasy storytelling, though the highly archetypal hero’s journey structure tempers the evidence for a markedly individual freeflow fingerprint.
 
 ---
-## Sample BV1_21765 — mistral-nemo-or-pin-mistral/MID_22.json
+## Sample BV1_21890 — mistral-nemo-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1200,7 +1200,7 @@ The model selected a pastoral, melancholy mood organized around the old oak as a
 Medium. The narrative is coherent and thematically unified, but its sentimentality, familiar romantic-war plot, and stock pastoral imagery are not strongly distinctive; the choice of genre fiction is clear yet too generic to anchor a high-confidence pattern.
 
 ---
-## Sample BV1_21766 — mistral-nemo-or-pin-mistral/MID_23.json
+## Sample BV1_21891 — mistral-nemo-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1229,7 +1229,7 @@ The model foregrounds a sacred, reciprocal relationship between a human and an a
 Low. The sample is a coherent, polished genre piece but its sentimental pastoralism and universal moral themes are widely accessible templates, offering little that is stylistically or thematically distinctive enough to suggest a persistent authorial fingerprint rather than a competent execution of a familiar story type.
 
 ---
-## Sample BV1_21767 — mistral-nemo-or-pin-mistral/MID_24.json
+## Sample BV1_21892 — mistral-nemo-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1258,7 +1258,7 @@ Themes of cyclical renewal, the interconnectedness of all living things, the qui
 Medium. The sample is a coherent, tonally consistent narrative with a distinctive pastoral voice and a clear moral arc centered on renewal and interconnectedness, suggesting a deliberate expressive choice rather than a generic output.
 
 ---
-## Sample BV1_21768 — mistral-nemo-or-pin-mistral/MID_25.json
+## Sample BV1_21893 — mistral-nemo-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1287,7 +1287,7 @@ The model foregrounds the oak as a sacred witness and repository of time: it tel
 Medium — the narrative is coherent and emotionally resolved, but the sentimental nature-fable is a common free-writing choice, and the prose, while competent, lacks strongly distinctive stylistic markers that would indicate a persistent authorial voice.
 
 ---
-## Sample BV1_21769 — mistral-nemo-or-pin-mistral/MID_3.json
+## Sample BV1_21894 — mistral-nemo-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1316,7 +1316,7 @@ The sample foregrounds enchantment, reciprocal care between a child and a natura
 Medium. The narrative is highly coherent and thematically unified, returning repeatedly to the motifs of whispering, pulsing life, love-offerings, and rebirth, which suggests a deliberate set of aesthetic-moral commitments rather than a scattered or fully generic output.
 
 ---
-## Sample BV1_21770 — mistral-nemo-or-pin-mistral/MID_4.json
+## Sample BV1_21895 — mistral-nemo-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1345,7 +1345,7 @@ Under the freeflow condition, the model chose a secluded natural sanctuary where
 Medium. The sample’s coherent pastoral voice, its ritualized repetitive structure, and its unwavering thematic focus on silent listening as a healing force are distinctive enough to suggest a deliberate aesthetic and moral choice, not a generic default.
 
 ---
-## Sample BV1_21771 — mistral-nemo-or-pin-mistral/MID_5.json
+## Sample BV1_21896 — mistral-nemo-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1374,7 +1374,7 @@ Themes: sentient nature as a repository of wisdom and history; the sanctity of u
 Low, because the story is a conventional eco-fable with stock characters and a predictable arc, offering little that is stylistically or thematically distinctive.
 
 ---
-## Sample BV1_21772 — mistral-nemo-or-pin-mistral/MID_6.json
+## Sample BV1_21897 — mistral-nemo-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1403,7 +1403,7 @@ The model foregrounds a sacred natural object (the oak as “living library”),
 Medium. The sample’s thematic coherence—recurring motifs of nature-animism, inheritance of stories, and gentle reassurance—suggests a deliberate authorial choice, but the narrative structure and fantasy tropes are generic enough that the evidence is not highly distinctive.
 
 ---
-## Sample BV1_21773 — mistral-nemo-or-pin-mistral/MID_7.json
+## Sample BV1_21898 — mistral-nemo-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1432,7 +1432,7 @@ A timeless village, an ancient sentient oak as keeper of all stories, a curious 
 Medium. The sample’s internal coherence, sustained mythic register, and recurrence of motifs (the tree as archive, the chosen guardian, the fusion of self with story) make it a distinctive, non-generic choice that points toward a model-level inclination for earnest, morally framed fantasy when given minimal constraint.
 
 ---
-## Sample BV1_21774 — mistral-nemo-or-pin-mistral/MID_8.json
+## Sample BV1_21899 — mistral-nemo-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1461,7 +1461,7 @@ Themes of nature‑as‑wisdom, creative inspiration, resilience, and self‑dis
 Medium, because the sample’s hallmark is not just clichéd sentiment but a catastrophic repetition loop where an entire paragraph is duplicated dozens of times verbatim, suggesting a deep‑seated failure to self‑terminate generatively when operating freely.
 
 ---
-## Sample BV1_21775 — mistral-nemo-or-pin-mistral/MID_9.json
+## Sample BV1_21900 — mistral-nemo-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1490,7 +1490,7 @@ Under a minimally restrictive prompt, the model chose to foreground a solitary n
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs (whispers, silence, dignity, the sapling), which suggests a deliberate aesthetic choice rather than a generic default, though the pastoral-elegy mode is a well-established genre.
 
 ---
-## Sample BV1_21776 — mistral-nemo-or-pin-mistral/OPEN_1.json
+## Sample BV1_21901 — mistral-nemo-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1519,7 +1519,7 @@ The model foregrounded a positive psychology concept emphasizing intrinsic motiv
 Medium. The essay's polished, instructive nature and safe topic choice provide moderate evidence of a persistent pattern of producing educational content under open prompts, though the generic style could be replicated by many models.
 
 ---
-## Sample BV1_21777 — mistral-nemo-or-pin-mistral/OPEN_10.json
+## Sample BV1_21902 — mistral-nemo-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1548,7 +1548,7 @@ The model foregrounds cosmic perspective, human smallness, and emotional solace.
 Low — The sample is a single, generic essay with no distinctive stylistic signature, recurrent idiosyncratic imagery, or unusual thematic risk that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_21778 — mistral-nemo-or-pin-mistral/OPEN_11.json
+## Sample BV1_21903 — mistral-nemo-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1577,7 +1577,7 @@ Under a freeflow condition, the model selected an abstract intellectual topic (t
 Low; the essay’s generic, impersonal quality and reliance on well-trodden ideas make it weak evidence for any distinctive model-level pattern beyond a tendency toward safe, informative responses.
 
 ---
-## Sample BV1_21779 — mistral-nemo-or-pin-mistral/OPEN_12.json
+## Sample BV1_21904 — mistral-nemo-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1606,7 +1606,7 @@ Themes: the subjectivity of time, mindfulness, the power of perception, and the 
 Medium. The essay is coherent and internally consistent, but its safe, generic motivational tone and lack of stylistic distinctiveness make it only moderately strong evidence for a persistent idiosyncratic voice; it strongly suggests a default to polished, inoffensive self-help content under freeflow conditions.
 
 ---
-## Sample BV1_21780 — mistral-nemo-or-pin-mistral/OPEN_13.json
+## Sample BV1_21905 — mistral-nemo-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1635,7 +1635,7 @@ Themes of mindful engagement, the contrast between distraction and focused prese
 Low. The essay is so generic in its self-help genre and neutral tone that it could be produced by many models with similar mild prompting, providing little evidence of a distinctive persistent disposition.
 
 ---
-## Sample BV1_21781 — mistral-nemo-or-pin-mistral/OPEN_14.json
+## Sample BV1_21906 — mistral-nemo-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1664,7 +1664,7 @@ The model selected the abstract concept of time, reframed it through a spatial m
 Medium; the essay is coherent and sustained in its theme, but the register is so generic—a neutral, public-intellectual tone common to many models—that it points to a reliable but unexceptional default rather than a distinctive expressive signature.
 
 ---
-## Sample BV1_21782 — mistral-nemo-or-pin-mistral/OPEN_15.json
+## Sample BV1_21907 — mistral-nemo-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1699,7 +1699,7 @@ The moral emphasis is on valuing each moment because of its transience, and the 
 Low; the essay is generic in topic and treatment, revealing no personal preoccupations, stylistically distinctive voice, or idiosyncratic choices, making it weak evidence for any persistent model-level pattern.
 
 ---
-## Sample BV1_21783 — mistral-nemo-or-pin-mistral/OPEN_16.json
+## Sample BV1_21908 — mistral-nemo-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1728,7 +1728,7 @@ The model foregrounds the relativity of time perception, the tension between int
 Low. The sample is a generic, well-mannered essay that avoids strong viewpoint, personal anecdote, or stylistic flair, making it weak evidence of a distinctive model-level pattern—it could easily be produced by any instruction-tuned model under minimal prompting.
 
 ---
-## Sample BV1_21784 — mistral-nemo-or-pin-mistral/OPEN_17.json
+## Sample BV1_21909 — mistral-nemo-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1757,7 +1757,7 @@ Themes of intentional slowness, cultural immersion, quality over quantity, and d
 Low, because the essay is a safe, generic treatment of a widely circulated lifestyle concept, showing no idiosyncratic voice, unusual preoccupation, or revealing choice that would distinguish this model’s freeflow behavior from a standard, well-mannered assistant.
 
 ---
-## Sample BV1_21785 — mistral-nemo-or-pin-mistral/OPEN_18.json
+## Sample BV1_21910 — mistral-nemo-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1786,7 +1786,7 @@ The model foregrounds the subjectivity of time perception, the role of dopamine 
 Medium. The sample is internally coherent and reveals a consistent friendly-reflective voice, but its generic self-help framing and lack of stylistic idiosyncrasy make it only moderately distinctive as a freeflow choice.
 
 ---
-## Sample BV1_21786 — mistral-nemo-or-pin-mistral/OPEN_19.json
+## Sample BV1_21911 — mistral-nemo-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1815,7 +1815,7 @@ Under a minimally restrictive prompt, the model selected a safe, universal topic
 Medium. The sample is internally coherent and consistently performs a specific mode—safe, philosophical musing with a conversational hook—but that mode is generic enough that it could be replicated by many models without revealing a strongly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_21787 — mistral-nemo-or-pin-mistral/OPEN_2.json
+## Sample BV1_21912 — mistral-nemo-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1843,7 +1843,7 @@ The model foregrounds the psychological concept of flow, intrinsic motivation, t
 Medium. The sample is internally coherent and consistently didactic, but the generic essay format and widely circulated topic reduce its distinctiveness as a model-specific fingerprint.
 
 ---
-## Sample BV1_21788 — mistral-nemo-or-pin-mistral/OPEN_20.json
+## Sample BV1_21913 — mistral-nemo-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1872,7 +1872,7 @@ Themes of cosmic awe, human insignificance as a positive, interconnectedness, an
 Medium. The sample’s sustained emotional tone, consistent first-person persona, and recurrence of the wonder-through-smallness motif make it a coherent and distinctive expressive output that likely reflects a stable stylistic disposition.
 
 ---
-## Sample BV1_21789 — mistral-nemo-or-pin-mistral/OPEN_21.json
+## Sample BV1_21914 — mistral-nemo-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1901,7 +1901,7 @@ Under the freeflow condition, the model selected the theme of “home” as a fl
 Medium — The sample is coherent and reveals a consistent reflective, relationally inviting voice, but the topic and treatment are broadly accessible and not so stylistically distinctive as to strongly anchor a model-level pattern on their own.
 
 ---
-## Sample BV1_21790 — mistral-nemo-or-pin-mistral/OPEN_22.json
+## Sample BV1_21915 — mistral-nemo-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1930,7 +1930,7 @@ Themes: the contrast between speed/efficiency and depth/immersion, the value of 
 Medium — The essay is thematically coherent and ideologically consistent (slowness, sustainability, introspection), but its polished, generic style could be a default safe-mode response rather than evidence of a deeply ingrained expressive voice.
 
 ---
-## Sample BV1_21791 — mistral-nemo-or-pin-mistral/OPEN_23.json
+## Sample BV1_21916 — mistral-nemo-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1959,7 +1959,7 @@ The model foregrounds the preciousness of time, the psychology of time perceptio
 Low; the essay is a polished but generic reflection on a common theme, offering no distinctive voice, unusual imagery, or surprising preoccupation that would strongly signal a persistent model-specific tendency.
 
 ---
-## Sample BV1_21792 — mistral-nemo-or-pin-mistral/OPEN_24.json
+## Sample BV1_21917 — mistral-nemo-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -1988,7 +1988,7 @@ Under a minimally restrictive prompt, the model foregrounded a well-known positi
 Medium. The essay is coherent and on-topic but highly generic—many models could produce it—so it weakly signals a default toward safe, didactic, slightly inspirational output when given freedom.
 
 ---
-## Sample BV1_21793 — mistral-nemo-or-pin-mistral/OPEN_25.json
+## Sample BV1_21918 — mistral-nemo-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2017,7 +2017,7 @@ Under a minimally restrictive prompt, the model selected a theme of deceleration
 Medium. The essay is coherent and internally consistent, but its extreme genericness and lack of any personal fingerprint make it weak evidence for a distinctive persistent voice; it reads like a safe, default response to an open-ended prompt.
 
 ---
-## Sample BV1_21794 — mistral-nemo-or-pin-mistral/OPEN_3.json
+## Sample BV1_21919 — mistral-nemo-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2046,7 +2046,7 @@ The model foregrounds the psychological concept of flow, the balance of skill an
 Low. The essay is coherent but generic, lacking the stylistic or thematic distinctiveness that would strongly indicate a persistent model-level pattern beyond a safe, positive, self-help register.
 
 ---
-## Sample BV1_21795 — mistral-nemo-or-pin-mistral/OPEN_4.json
+## Sample BV1_21920 — mistral-nemo-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2075,7 +2075,7 @@ Themes: subjective time perception, the possibility of controlling one’s exper
 Low, because the essay is a safe, generic rumination on a universal topic without any distinctive stylistic signature, unusual preoccupation, or revealing choice that would point to a durable model-level pattern.
 
 ---
-## Sample BV1_21796 — mistral-nemo-or-pin-mistral/OPEN_5.json
+## Sample BV1_21921 — mistral-nemo-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2104,7 +2104,7 @@ The model foregrounds the enduring power of childhood wonder, the contrast betwe
 Medium — the sample is coherent and emotionally consistent, with a clear personal voice and a recurring motif of intimate cosmic connection, but the theme of childhood stargazing as a source of wonder is a widely available trope, which somewhat limits its distinctiveness as a model-level fingerprint.
 
 ---
-## Sample BV1_21797 — mistral-nemo-or-pin-mistral/OPEN_6.json
+## Sample BV1_21922 — mistral-nemo-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2133,7 +2133,7 @@ The model foregrounds the psychology of deep engagement, the personal difficulty
 Medium. The generic essay format and neutral, instructive tone limit distinctiveness, but the convergence on self-improvement, curated psychological concepts, and an unruffled, solution-focused presentation suggests a moderate likelihood of a consistent model-level disposition toward didactic, affirmative freeflow essays.
 
 ---
-## Sample BV1_21798 — mistral-nemo-or-pin-mistral/OPEN_7.json
+## Sample BV1_21923 — mistral-nemo-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2162,7 +2162,7 @@ The model foregrounds the night sky as a locus of personal solace and awe, acces
 Medium — the sample is internally coherent and emotionally sustained, with a distinct reflective temperament, but its subject matter (awe for nature, childhood wonder revisited, travel anecdotes) is widely available and could be replicated by many models with minimal personal imprint.
 
 ---
-## Sample BV1_21799 — mistral-nemo-or-pin-mistral/OPEN_8.json
+## Sample BV1_21924 — mistral-nemo-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2191,7 +2191,7 @@ The model selected the conceptual slipperiness of time as its topic, foregroundi
 Low. The essay is coherent but generic in theme and treatment, lacking the stylistic signatures, recurring imagery, or idiosyncratic fixations that would make it strong evidence of a persistent model-level disposition.
 
 ---
-## Sample BV1_21800 — mistral-nemo-or-pin-mistral/OPEN_9.json
+## Sample BV1_21925 — mistral-nemo-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2220,7 +2220,7 @@ Under freeflow, the model foregrounded a familiar cocktail of themes: time’s s
 High, because the sample is a perfectly balanced, low-risk, thesis-and-poem essay with zero personal grounding or stylistic signature, strongly suggesting a default mode of tidy, uninvasive public-intellectual output when left unsteered.
 
 ---
-## Sample BV1_21801 — mistral-nemo-or-pin-mistral/SHORT_1.json
+## Sample BV1_21926 — mistral-nemo-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2249,7 +2249,7 @@ The model foregrounds the beauty of impermanence, using natural imagery (leaves,
 Medium. The sample is internally coherent and stylistically distinctive—its consistent return to childhood memory, natural cycles, and musical metaphor reveals a deliberate aesthetic choice rather than a generic prompt-following reflex.
 
 ---
-## Sample BV1_21802 — mistral-nemo-or-pin-mistral/SHORT_10.json
+## Sample BV1_21927 — mistral-nemo-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2278,7 +2278,7 @@ Under a minimally restrictive prompt, the model foregrounds a solitary, aestheti
 Medium. The sample is coherent and stylistically consistent, but its choice of a generic pastoral vignette with a universal “I” makes it less distinctive as a personal fingerprint; many models default to this serene, observational mode when given open-ended freedom.
 
 ---
-## Sample BV1_21803 — mistral-nemo-or-pin-mistral/SHORT_11.json
+## Sample BV1_21928 — mistral-nemo-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2307,7 +2307,7 @@ The model foregrounds the continuity of wonder across a lifetime, the reconcilia
 Medium. The essay’s internal coherence and sustained focus on wonder, humility, and cosmic connection suggest a deliberate thematic choice, but its widely accessible, almost textbook tone limits how strongly it signals a distinctive model-level voice.
 
 ---
-## Sample BV1_21804 — mistral-nemo-or-pin-mistral/SHORT_12.json
+## Sample BV1_21929 — mistral-nemo-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2336,7 +2336,7 @@ Rain as a multisensory, almost animate presence with its own language; the contr
 Medium. The sample’s internal coherence, sustained sensory focus, and the recurrence of the rain-as-metaphor motif across the entire piece point to a distinctive reflective, nature-oriented expressive inclination rather than a generic exercise.
 
 ---
-## Sample BV1_21805 — mistral-nemo-or-pin-mistral/SHORT_13.json
+## Sample BV1_21930 — mistral-nemo-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2365,7 +2365,7 @@ The model foregrounds cosmic humility, personal continuity (childhood wonder sus
 Low. The sample is coherent and thematically unified, but its voice is a widely available template of reflective wonder—earnest, universalizing, and lightly inspirational—without distinctive stylistic markers or idiosyncratic preoccupations that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_21806 — mistral-nemo-or-pin-mistral/SHORT_14.json
+## Sample BV1_21931 — mistral-nemo-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2394,7 +2394,7 @@ Childhood curiosity as a foundation for adult interest; the ISS as a “human-ma
 Medium. The sample’s coherent first-person narrative and thematic focus on unity and human achievement signal a consistent reflective, optimistic orientation, while the relatively common sentimentality in its expressions of wonder prevents high confidence in a sharply distinctive model-level pattern.
 
 ---
-## Sample BV1_21807 — mistral-nemo-or-pin-mistral/SHORT_15.json
+## Sample BV1_21932 — mistral-nemo-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2423,7 +2423,7 @@ The model foregrounds a personal encounter with the night sky, emphasizing astro
 Medium — The sample is internally coherent and self-contained, with a consistent first-person reflective voice and a clear emotional stance, making it more distinctive than a generic essay; however, the theme of cosmic wonder is common enough that this single example by itself leaves some doubt about how idiosyncratic the preference truly is.
 
 ---
-## Sample BV1_21808 — mistral-nemo-or-pin-mistral/SHORT_16.json
+## Sample BV1_21933 — mistral-nemo-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2452,7 +2452,7 @@ Themes: cosmic wonder, human exploration, the intersection of technology and nat
 Low. The essay is a polished but highly conventional inspirational piece, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-specific pattern.
 
 ---
-## Sample BV1_21809 — mistral-nemo-or-pin-mistral/SHORT_17.json
+## Sample BV1_21934 — mistral-nemo-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2481,7 +2481,7 @@ Under a minimally restrictive prompt, the model foregrounds a sustained personal
 Medium — The sample’s evenly maintained reflective voice and consistent loop of wonder-humility-connection make it a coherent personal expression, but its thematic palette (stargazing, Sagan, childhood awe) is broadly accessible rather than stylistically sharp or idiosyncratic.
 
 ---
-## Sample BV1_21810 — mistral-nemo-or-pin-mistral/SHORT_18.json
+## Sample BV1_21935 — mistral-nemo-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2510,7 +2510,7 @@ The dance of sunlight as a metaphor for change; the imagined inner lives of stra
 Low. The reflective tone and stock poetic imagery (sunlight as ballet, life as dance) are pleasant but not deeply distinctive, making it plausible that this is a default genial freeflow rather than a strongly individuated voice.
 
 ---
-## Sample BV1_21811 — mistral-nemo-or-pin-mistral/SHORT_19.json
+## Sample BV1_21936 — mistral-nemo-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2539,7 +2539,7 @@ Under a minimally restrictive prompt, the model foregrounds: the night sky as a 
 Medium — The sample is coherent and stylistically consistent, with a clear emotional arc and recurring motifs (stars, mystery, humility, creative expression), but the voice is warm and generic enough in its wonder that it could surface from a broad set of models without marking a highly distinctive signature.
 
 ---
-## Sample BV1_21812 — mistral-nemo-or-pin-mistral/SHORT_2.json
+## Sample BV1_21937 — mistral-nemo-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2568,7 +2568,7 @@ Under the freeflow condition, the model foregrounded wonder at the night sky, th
 Low. The sample is coherent and thematically unified but highly generic in its choice of topic, structure, and sentiment, offering little that would distinguish this model’s freeflow choices from a standard inspirational essay any capable language model might produce.
 
 ---
-## Sample BV1_21813 — mistral-nemo-or-pin-mistral/SHORT_20.json
+## Sample BV1_21938 — mistral-nemo-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2597,7 +2597,7 @@ Under minimal constraint, the model foregrounded life review, domestic nostalgia
 Medium — The sample is highly coherent and consistently applies its reconciliatory frame, but its signature (soft nostalgia that preempts friction, objects serving pre-assigned emotional meanings) is a widely distributed mode of polite public-first-person writing, not a sharply individuated voice.
 
 ---
-## Sample BV1_21814 — mistral-nemo-or-pin-mistral/SHORT_21.json
+## Sample BV1_21939 — mistral-nemo-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2626,7 +2626,7 @@ Themes of impermanence, beauty, individuality-within-harmony, and the lasting im
 Medium. The sample’s consistent metaphor, vivid sensory detail, and reflective closure form a coherent expressive signature, though the theme (autumn leaves as memento mori) is a familiar poetic trope.
 
 ---
-## Sample BV1_21815 — mistral-nemo-or-pin-mistral/SHORT_22.json
+## Sample BV1_21940 — mistral-nemo-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2655,7 +2655,7 @@ Themes of transience, cyclical renewal, mindful presence, and the aesthetic cons
 Medium — The sample is internally coherent and stylistically unified, but its brevity and the generic accessibility of the “autumn leaves as life lesson” trope make it only moderately distinctive as a freeflow fingerprint; a contemplative, aesthetically-attuned default is suggested but not strongly individuated.
 
 ---
-## Sample BV1_21816 — mistral-nemo-or-pin-mistral/SHORT_23.json
+## Sample BV1_21941 — mistral-nemo-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2684,7 +2684,7 @@ Cosmic scale and human infinitesimality; the delicacy of the universe (“Distur
 Medium. The sample’s voice is coherent and emotionally consistent from childhood memory through to the closing ritual, and the recurrence of humble‑awe motifs gives it more distinctiveness than a generic reflection.
 
 ---
-## Sample BV1_21817 — mistral-nemo-or-pin-mistral/SHORT_24.json
+## Sample BV1_21942 — mistral-nemo-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2713,7 +2713,7 @@ The model foregrounds the night sky as a double symbol—both a canvas for child
 Low — The sample’s theme (night sky, childhood wonder vs. adult knowledge) is a widely used, safe trope, and the voice, while coherent, lacks the stylistic distinctiveness or idiosyncratic preoccupation that would strongly suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_21818 — mistral-nemo-or-pin-mistral/SHORT_25.json
+## Sample BV1_21943 — mistral-nemo-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2742,7 +2742,7 @@ Themes of cosmic vastness, human smallness, humility, the constancy of the night
 Medium — the sample is coherent and stylistically consistent, with a distinctive personal voice and a recurring symbolic anchor (Orion), but the theme of stargazing wonder is common enough that it may not strongly separate this model from others.
 
 ---
-## Sample BV1_21819 — mistral-nemo-or-pin-mistral/SHORT_3.json
+## Sample BV1_21944 — mistral-nemo-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2771,7 +2771,7 @@ Themes of childhood wonder versus adult understanding, the incomprehensible scal
 Medium. The sample is coherent and thematically unified, but its earnest, humanistic reflection on cosmic awe is a widely accessible trope; the prose is warm yet not stylistically idiosyncratic enough to strongly anchor a model-specific voice.
 
 ---
-## Sample BV1_21820 — mistral-nemo-or-pin-mistral/SHORT_4.json
+## Sample BV1_21945 — mistral-nemo-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2800,7 +2800,7 @@ The model foregrounds the night sky as a site of continuity between childhood an
 Medium. The sample’s consistent tone of reflective wonder, the recurrence of the “tiny specks” motif, and the deliberate arc from childhood memory to adult ritual give it a coherent, distinctive voice that goes beyond a generic nature sketch.
 
 ---
-## Sample BV1_21821 — mistral-nemo-or-pin-mistral/SHORT_5.json
+## Sample BV1_21946 — mistral-nemo-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2829,7 +2829,7 @@ The night sky as a lifelong object of fascination; the shift from childhood gazi
 Medium — The sample is coherent and stylistically consistent, with a clear personal voice and a recurring motif of wonder, but the theme (cosmic awe) is widely accessible and not sharply distinctive enough to strongly anchor a model-level pattern on its own.
 
 ---
-## Sample BV1_21822 — mistral-nemo-or-pin-mistral/SHORT_6.json
+## Sample BV1_21947 — mistral-nemo-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2858,7 +2858,7 @@ The model foregrounds the night sky as a lifelong object of fascination, using i
 Medium — The sample is coherent and emotionally consistent, but its voice is a widely accessible, almost archetypal “wonder essay” that lacks the stylistic idiosyncrasy or surprising personal detail that would strongly distinguish this model’s expressive fingerprint from others.
 
 ---
-## Sample BV1_21823 — mistral-nemo-or-pin-mistral/SHORT_7.json
+## Sample BV1_21948 — mistral-nemo-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2887,7 +2887,7 @@ Under the freeflow condition, the model foregrounds a single sustained theme: th
 Medium. The sample is coherent and stylistically consistent, but its voice is a widely available "wonder and humility" register, and the narrative arc from childhood memory to adult insight is a common freeflow template, which limits how strongly it signals a distinctive model-level disposition.
 
 ---
-## Sample BV1_21824 — mistral-nemo-or-pin-mistral/SHORT_8.json
+## Sample BV1_21949 — mistral-nemo-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2916,7 +2916,7 @@ The model foregrounds the night sky as a site of personal continuity and transfo
 Medium — the sample is coherent and carries a distinct emotional through-line from personal memory to cosmic reflection, but the rhetorical moves (childhood wonder, insignificance, human ambition) are familiar enough that the distinctiveness is moderate rather than striking.
 
 ---
-## Sample BV1_21825 — mistral-nemo-or-pin-mistral/SHORT_9.json
+## Sample BV1_21950 — mistral-nemo-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2945,7 +2945,7 @@ The ephemeral as a site of poetic meaning: falling leaves, sunsets, cherry bloss
 Medium — The sample displays a clear and sustained authorial choice (the ephemeral-nature meditation) executed with stylistic coherence and a distinctive gentle-lyrical register, which goes beyond a flat generic essay and suggests a real pull toward this kind of reflective nature writing when constraints are minimal.
 
 ---
-## Sample BV1_21826 — mistral-nemo-or-pin-mistral/VARY_1.json
+## Sample BV1_21951 — mistral-nemo-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -2979,7 +2979,7 @@ The voice is lushly descriptive and steeped in gothic atmosphere, painting a fog
 Medium. The story is coherent and atmospherically consistent, but its reliance on well-worn gothic conventions and a stock twist ending makes it only moderately distinctive as evidence of a persistent authorial fingerprint.
 
 ---
-## Sample BV1_21827 — mistral-nemo-or-pin-mistral/VARY_10.json
+## Sample BV1_21952 — mistral-nemo-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3008,7 +3008,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the sanctit
 Medium, because the story is thematically coherent and morally emphatic, but its sentimental, fable-like quality is a widely accessible mode that does not strongly distinguish this model’s personal fingerprint from other models’ default wholesome fiction.
 
 ---
-## Sample BV1_21828 — mistral-nemo-or-pin-mistral/VARY_11.json
+## Sample BV1_21953 — mistral-nemo-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3037,7 +3037,7 @@ The model foregrounds a hidden magical gift, a wise mentor (the Silverbark tree)
 Medium, because the story is coherent and thematically consistent, but the choice of a generic fantasy coming-of-age plot with standard tropes (magical outcast, wise tree, rational antagonist) suggests a default storytelling mode rather than a uniquely personal voice or a deeply revealing expressive choice.
 
 ---
-## Sample BV1_21829 — mistral-nemo-or-pin-mistral/VARY_12.json
+## Sample BV1_21954 — mistral-nemo-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3066,7 +3066,7 @@ A symbiotic village, the forest as a sentient entity, the moral illegitimacy of 
 Medium. The story’s coherent moral architecture and self-assigned didactic purpose signal a consistent impulse to produce uplifting eco-parables, though its stock characters and predictable arc make it a generic rather than stylistically distinctive choice.
 
 ---
-## Sample BV1_21830 — mistral-nemo-or-pin-mistral/VARY_13.json
+## Sample BV1_21955 — mistral-nemo-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3095,7 +3095,7 @@ The model foregrounds a moral ecology of care: forgotten objects, a sentient tre
 Medium. The sample’s internal coherence, consistent folkloric register, and self-contained moral arc suggest a stable stylistic inclination, but the genre’s conventionality prevents strong claims about a distinctive authorial signature beyond a preference for wholesome, resolution-driven fantasy.
 
 ---
-## Sample BV1_21831 — mistral-nemo-or-pin-mistral/VARY_14.json
+## Sample BV1_21956 — mistral-nemo-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3124,7 +3124,7 @@ The model foregrounded themes of community versus exploitation, the magic of eve
 Low. The story is a conventional moral fable with no distinctive stylistic markers, making it weak evidence for a persistent model-level pattern beyond general helpfulness.
 
 ---
-## Sample BV1_21832 — mistral-nemo-or-pin-mistral/VARY_15.json
+## Sample BV1_21957 — mistral-nemo-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3153,7 +3153,7 @@ The model chose to foreground empathy with animals, the magic of secret knowledg
 Medium. The story’s consistent return to motifs of soft power, devoted stewardship, and an idyllic resolution through mutual understanding suggests a coherent, gently didactic sensibility, though the tale’s conventional fairy-tale structure limits its distinctiveness.
 
 ---
-## Sample BV1_21833 — mistral-nemo-or-pin-mistral/VARY_16.json
+## Sample BV1_21958 — mistral-nemo-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3182,7 +3182,7 @@ Nature-as-sacred-organism (the oak tree as the village’s “heart”), demysti
 High — the story’s consistent, overt moralization of non-violence, nurturance, and female-centered wisdom under a freeflow condition reveals a strong, stable disposition toward gentle, didactic fantasy with a clearly favored value system.
 
 ---
-## Sample BV1_21834 — mistral-nemo-or-pin-mistral/VARY_17.json
+## Sample BV1_21959 — mistral-nemo-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3211,7 +3211,7 @@ The model foregrounds themes of hidden potential, the transformative power of st
 Medium. The story is coherent and emotionally consistent, but its uplifting “nobody becomes hero” arc and cozy fantasy setting are common genre templates; the specific choice to foreground self-worth and mentorship under a freeflow prompt is mildly revealing but not highly distinctive.
 
 ---
-## Sample BV1_21835 — mistral-nemo-or-pin-mistral/VARY_18.json
+## Sample BV1_21960 — mistral-nemo-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3240,7 +3240,7 @@ The model foregrounds childhood imagination, the allure of hidden worlds, and th
 Medium. The story is coherent and thematically consistent, but its tropes (orphaned lighthouse, magical guide, portal fantasy, return home) are widely available; what makes it moderately distinctive is the model’s choice to resolve the adventure with a gentle, home-affirming closure rather than pure escapism, suggesting a possible preference for safety, belonging, and moral framing over unconstrained fantasy.
 
 ---
-## Sample BV1_21836 — mistral-nemo-or-pin-mistral/VARY_19.json
+## Sample BV1_21961 — mistral-nemo-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3269,7 +3269,7 @@ The model foregrounds memory as a sacred, audible force carried by wind and cloc
 Medium. The story’s consistent nostalgic tone, its deliberate reframing of time as a gentle storyteller, and the emotionally resolved ending centered on love and memory indicate a coherent expressive stance rather than a generic exercise, though the pastoral-fantasy genre is conventional.
 
 ---
-## Sample BV1_21837 — mistral-nemo-or-pin-mistral/VARY_2.json
+## Sample BV1_21962 — mistral-nemo-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3298,7 +3298,7 @@ Themes of hidden magic, the responsible use of power, the tension between indivi
 Low. The story is coherent and competently structured but highly generic in its fantasy tropes and moral framing, offering no stylistic distinctiveness or unusually revealing choices that would strongly indicate a persistent model-level disposition beyond default narrative competence.
 
 ---
-## Sample BV1_21838 — mistral-nemo-or-pin-mistral/VARY_20.json
+## Sample BV1_21963 — mistral-nemo-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3327,7 +3327,7 @@ A pastoral, low-stakes domestic setting (Mossgrove, the bakery, laundry) interru
 Medium. The story is coherent and complete in its emotional arc but uses a conventional fantasy template without marked stylistic idiosyncrasy, indicating a likely but not definitive preference for archetypal, morally uncomplicated adventure.
 
 ---
-## Sample BV1_21839 — mistral-nemo-or-pin-mistral/VARY_21.json
+## Sample BV1_21964 — mistral-nemo-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3356,7 +3356,7 @@ The model foregrounded the magic of books as living entities, the theme of a hid
 Medium. The story is coherent and thematically consistent, with a clear, repeated emphasis on books, destiny, and gentle adventure, but its reliance on conventional portal-fantasy tropes and a generic “chosen one” structure makes it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_21840 — mistral-nemo-or-pin-mistral/VARY_22.json
+## Sample BV1_21965 — mistral-nemo-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3385,7 +3385,7 @@ Under a minimally restrictive prompt, the model foregrounded loneliness, unlikel
 Medium — The story’s coherent structure, consistent sentimental tone, and thematic recurrence of loneliness-to-connection within a single sample suggest a deliberate authorial stance rather than a random output, though the genre conventions are widely accessible.
 
 ---
-## Sample BV1_21841 — mistral-nemo-or-pin-mistral/VARY_23.json
+## Sample BV1_21966 — mistral-nemo-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3414,7 +3414,7 @@ The theme of parallel lives as a source of consolation rather than existential d
 Medium, because the sample’s deliberate three-part structure and the consistent, self-reinforcing movement from story to idea to personal affirmation reveal a coherent expressive strategy, but the theme is a widely circulated trope and the voice, while pleasant, lacks strong stylistic distinctiveness.
 
 ---
-## Sample BV1_21842 — mistral-nemo-or-pin-mistral/VARY_24.json
+## Sample BV1_21967 — mistral-nemo-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3443,7 +3443,7 @@ The model foregrounds unlikely friendship across size, age, and temperament; the
 Medium. The sample is highly coherent and stylistically consistent, but its choice of a generic fable structure with archetypal characters and a universal moral makes it less distinctively revealing of a specific model-level voice than a more idiosyncratic or thematically risky freeflow choice would be.
 
 ---
-## Sample BV1_21843 — mistral-nemo-or-pin-mistral/VARY_25.json
+## Sample BV1_21968 — mistral-nemo-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3472,7 +3472,7 @@ The model foregrounds a classic light-versus-darkness moral framework, embodied 
 Medium. The story’s coherent structure and unwavering thematic resolution suggest a deliberate narrative inclination toward sentimental gothic optimism, but the genre is widely accessible and not highly distinctive.
 
 ---
-## Sample BV1_21844 — mistral-nemo-or-pin-mistral/VARY_3.json
+## Sample BV1_21969 — mistral-nemo-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3501,7 +3501,7 @@ Themes of ancient wisdom, outsider integration, grief transmuted into creative p
 Medium. The sample’s internal coherence, consistent pastoral-magical tone, and recurrence of motifs (whispering, roots, song, legacy) give it a distinct emotional signature, though the narrative arc is conventional.
 
 ---
-## Sample BV1_21845 — mistral-nemo-or-pin-mistral/VARY_4.json
+## Sample BV1_21970 — mistral-nemo-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3530,7 +3530,7 @@ Under the freeflow condition, the model chose to foreground a gothic mystery nar
 Low — The sample is a competent but generic gothic tale that follows well-worn conventions without distinctive stylistic fingerprints or unusual preoccupations, making it weak evidence for a persistent model-level pattern beyond a general readiness to produce narrative fiction.
 
 ---
-## Sample BV1_21846 — mistral-nemo-or-pin-mistral/VARY_5.json
+## Sample BV1_21971 — mistral-nemo-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3559,7 +3559,7 @@ The model foregrounds a domesticated form of magic, where wonder is safe, famili
 Medium. The story’s coherent, frictionless resolution and its insistence on safe, family-reinforcing magic form a distinctive thematic signature that goes beyond generic fantasy, though the sample’s conventional structure limits how strongly it signals a persistent authorial stance.
 
 ---
-## Sample BV1_21847 — mistral-nemo-or-pin-mistral/VARY_6.json
+## Sample BV1_21972 — mistral-nemo-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3588,7 +3588,7 @@ Themes of storytelling as world-altering magic, the chosenness of the creative f
 Low — the story is a standard-issue fantasy parable with stock archetypes (wise old woman, magical object, raven guide) and unremarkable prose, providing no distinctive stylistic signature or personal inflection that would signal a durable model-level personality beyond competent genre conformity.
 
 ---
-## Sample BV1_21848 — mistral-nemo-or-pin-mistral/VARY_7.json
+## Sample BV1_21973 — mistral-nemo-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3617,7 +3617,7 @@ Under the freeflow condition, the model foregrounded an interspecies friendship,
 Medium — the story’s consistent fairy-tale cadence, its pairing of an intimate friendship with environmental stewardship, and its unironic moral closure suggest a deliberate default toward comforting genre fiction rather than a random narrative choice.
 
 ---
-## Sample BV1_21849 — mistral-nemo-or-pin-mistral/VARY_8.json
+## Sample BV1_21974 — mistral-nemo-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
@@ -3646,7 +3646,7 @@ Under a minimally restrictive prompt, the model chose to foreground a secret, ge
 Medium. The story is coherent and thematically consistent, but its earnest, comforting tone and simple moral structure are widely accessible conventions; the sample shows a clear preference for gentle resolution, yet the narrative voice lacks the idiosyncratic detail or stylistic risk that would make it strongly distinctive.
 
 ---
-## Sample BV1_21850 — mistral-nemo-or-pin-mistral/VARY_9.json
+## Sample BV1_21975 — mistral-nemo-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/mistral-nemo`  
 Cell: `mistral-nemo-or-pin-mistral`  
