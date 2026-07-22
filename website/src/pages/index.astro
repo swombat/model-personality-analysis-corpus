@@ -7,7 +7,6 @@ const completeModels = models
   .sort((a, b) => (b.release_date || '').localeCompare(a.release_date || '') || (a.display_name || a.model).localeCompare(b.display_name || b.model));
 const labs = [...new Set(completeModels.map((model) => model.lab))].sort();
 const families = [...new Set(completeModels.map((model) => model.family))].sort();
-const statuses = [...new Set(completeModels.map((model) => model.status))].sort();
 const totalSamples = completeModels.reduce((sum, model) => sum + model.published_samples, 0);
 const base = import.meta.env.BASE_URL;
 
@@ -48,6 +47,27 @@ function ratingStyle(percent) {
 
 function costLabel(model) {
   return `${priceLabel(model.openrouter?.prompt_per_million)} / ${priceLabel(model.openrouter?.completion_per_million)}`;
+}
+
+const familyLabels = {
+  deepseek: 'DeepSeek',
+  fable: 'Fable',
+  gemini: 'Gemini',
+  glm: 'GLM',
+  'gpt-4': 'GPT-4',
+  'gpt-5': 'GPT-5',
+  grok: 'Grok',
+  kimi: 'Kimi',
+  llama: 'Llama',
+  minimax: 'MiniMax',
+  mistral: 'Mistral',
+  opus: 'Opus',
+  qwen: 'Qwen',
+  sonnet: 'Sonnet',
+};
+
+function familyLabel(family) {
+  return familyLabels[family] || family;
 }
 
 const valuePillPalette = {
@@ -115,13 +135,6 @@ function valuePillStyle(label) {
       </select>
     </label>
     <label>
-      Status
-      <select id="statusFilter">
-        <option value="">All statuses</option>
-        {statuses.map((status) => <option value={status}>{status}</option>)}
-      </select>
-    </label>
-    <label>
       Sort
       <select id="sortSelect">
         <option value="release">Newest release</option>
@@ -146,7 +159,6 @@ function valuePillStyle(label) {
         data-model={model.model}
         data-lab={model.lab}
         data-family={model.family}
-        data-status={model.status}
         data-search={`${model.model} ${model.display_name || ''} ${model.lab} ${model.family} ${model.summary}`.toLowerCase()}
         data-release={model.release_date || ''}
         data-price={model.openrouter?.prompt_per_million ?? 999999}
@@ -177,10 +189,14 @@ function valuePillStyle(label) {
             />
           )}
           <div>
-            <div class="card-kicker">
-              <span class="chip">{model.lab}</span>
-              <span class="chip green">{model.family}</span>
-              <span class="chip amber">{model.status}</span>
+            <div class="card-breadcrumb">
+              <span>{model.lab}</span>
+              {model.family !== 'other' && (
+                <>
+                  <span class="breadcrumb-separator" aria-hidden="true">›</span>
+                  <span>{familyLabel(model.family)}</span>
+                </>
+              )}
             </div>
             <h2>{model.display_name || model.model}</h2>
             <p class="summary">{model.summary}</p>
@@ -269,7 +285,6 @@ function valuePillStyle(label) {
     const search = document.getElementById('search');
     const labFilter = document.getElementById('labFilter');
     const familyFilter = document.getElementById('familyFilter');
-    const statusFilter = document.getElementById('statusFilter');
     const sortSelect = document.getElementById('sortSelect');
     const resultCount = document.getElementById('resultCount');
     const emptyState = document.getElementById('emptyState');
@@ -278,15 +293,13 @@ function valuePillStyle(label) {
       const query = search.value.trim().toLowerCase();
       const lab = labFilter.value;
       const family = familyFilter.value;
-      const status = statusFilter.value;
       let visible = 0;
 
       cards.forEach((card) => {
         const matches =
           (!query || card.dataset.search.includes(query)) &&
           (!lab || card.dataset.lab === lab) &&
-          (!family || card.dataset.family === family) &&
-          (!status || card.dataset.status === status);
+          (!family || card.dataset.family === family);
 
         card.classList.toggle('hidden', !matches);
         if (matches) visible += 1;
@@ -307,7 +320,7 @@ function valuePillStyle(label) {
       emptyState.classList.toggle('hidden', visible !== 0);
     }
 
-    [search, labFilter, familyFilter, statusFilter, sortSelect].forEach((el) => {
+    [search, labFilter, familyFilter, sortSelect].forEach((el) => {
       el.addEventListener('input', applyFilters);
       el.addEventListener('change', applyFilters);
     });
