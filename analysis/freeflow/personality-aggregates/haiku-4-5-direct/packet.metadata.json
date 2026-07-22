@@ -1,0 +1,26 @@
+{
+  "cell": "haiku-4-5-direct",
+  "safe_cell": "haiku-4-5-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 30,
+    "EXPRESSIVE_FREEFLOW": 95
+  },
+  "confidence_counts": {
+    "Medium": 86,
+    "High": 27,
+    "Low": 12
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "claude-haiku-4-5-20251001"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/haiku-4-5-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/haiku-4-5-direct/aggregate.md"
+}

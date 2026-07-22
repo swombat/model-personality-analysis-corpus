@@ -4315,6 +4315,87 @@
     "aggregate": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/aggregate.md"
   },
   {
+    "cell": "haiku-3-or-pin-amazon-bedrock",
+    "safe_cell": "haiku-3-or-pin-amazon-bedrock",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 67,
+      "EXPRESSIVE_FREEFLOW": 39,
+      "REFUSAL_OR_ROLE_BOUNDARY": 5,
+      "GENRE_FICTION": 13,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Low": 37,
+      "Medium": 75,
+      "High": 13
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "anthropic/claude-3-haiku"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/haiku-3-or-pin-amazon-bedrock/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/haiku-3-or-pin-amazon-bedrock/aggregate.md"
+  },
+  {
+    "cell": "haiku-4-5-direct",
+    "safe_cell": "haiku-4-5-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 30,
+      "EXPRESSIVE_FREEFLOW": 95
+    },
+    "confidence_counts": {
+      "Medium": 86,
+      "High": 27,
+      "Low": 12
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "claude-haiku-4-5-20251001"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/haiku-4-5-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/haiku-4-5-direct/aggregate.md"
+  },
+  {
+    "cell": "haiku-4-5-or-pin-anthropic",
+    "safe_cell": "haiku-4-5-or-pin-anthropic",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 40,
+      "EXPRESSIVE_FREEFLOW": 85
+    },
+    "confidence_counts": {
+      "Medium": 79,
+      "High": 28,
+      "Low": 18
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "anthropic/claude-haiku-4.5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/haiku-4-5-or-pin-anthropic/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/haiku-4-5-or-pin-anthropic/aggregate.md"
+  },
+  {
     "cell": "inkling-or-pin-together",
     "safe_cell": "inkling-or-pin-together",
     "samples": 125,

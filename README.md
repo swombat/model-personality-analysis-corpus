@@ -5,10 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-07-22:** v1.2.14 derived analysis corpus covering 118
-> freeflow personality-card models and 121 layered values-probe models, built
-> from corpus-v2 v1.2.14. Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Inkling
-> have complete freeflow, values, profile, card, strapline, and website coverage.
+> **Status — 2026-07-22:** v1.2.15 derived analysis corpus covering 120
+> freeflow personality-card models and 123 layered values-probe models, built
+> from corpus-v2 v1.2.15. Claude 3 Haiku and Claude Haiku 4.5 now have complete
+> freeflow, values, profile, and card analysis. Editorial straplines and images
+> for the two Haiku model pages remain to be added.
 >
 > This is a derived analysis corpus for
 > studying model personality and posture across frontier LLMs, built on the
@@ -43,13 +44,13 @@ copies rather than the canonical raw corpus.
 
 Current load-bearing contents:
 
-- **25,600 BV1 per-sample freeflow personality/vibe readings** produced with
+- **26,350 BV1 per-sample freeflow personality/vibe readings** produced with
   `deepseek/deepseek-v4-pro`, with QA passing at zero known bad outputs.
-- **115 rich per-model freeflow personality profiles** preserving evidence from
+- **120 rich per-model freeflow personality profiles** preserving evidence from
   the per-cell aggregate layer.
-- **115 concise per-model personality cards** collapsed from those profiles.
-- **118 per-model values-probe summaries / reports** plus aggregate tables,
-  covering 21,226 valid values samples across 177 cells.
+- **120 concise per-model personality cards** collapsed from those profiles.
+- **123 layered per-model values-probe summaries** plus aggregate tables,
+  covering 21,946 valid values samples across 183 cells.
 - Freeflow taxonomy tables, model-cell/provider difference reports, and method
   calibration/audit notes.
 - Website-bundled raw sample copies for browsing/audit under
@@ -69,10 +70,10 @@ analysis/
   driftpaperquestionsanalysis.md          # Mira's paper-direction analysis
   drift corpus analysis plan.md           # corpus/paper planning notes
   freeflow/
-    personality-eval-bv1/                 # 25,600 per-sample BV1 readings
+    personality-eval-bv1/                 # 26,350 per-sample BV1 readings
     personality-aggregates/               # per-cell aggregate source layer
-    personality-model-profiles/           # 115 rich model-level profiles
-    personality-model-cards/              # 115 concise model cards
+    personality-model-profiles/           # 120 rich model-level profiles
+    personality-model-cards/              # 120 concise model cards
     model-cell-difference-analysis/       # route/provider divergence reports
     taxonomy/                             # freeflow taxonomy extraction
     tables/                               # deterministic marker tables

@@ -1,9 +1,4 @@
 {
-  "devstral-2512": {
-    "aaii": 19,
-    "url": "https://artificialanalysis.ai/models/devstral-2",
-    "matched_alias": "Devstral 2"
-  },
   "deepseek-chat": {
     "aaii": 16,
     "url": "https://artificialanalysis.ai/models/deepseek-v3"
@@ -27,6 +22,11 @@
   "deepseek-v4-pro": {
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
+  },
+  "devstral-2512": {
+    "aaii": 19,
+    "url": "https://artificialanalysis.ai/models/devstral-2",
+    "matched_alias": "Devstral 2"
   },
   "fable-5": {
     "aaii": 65,
@@ -210,6 +210,26 @@
     "aaii": 45,
     "url": "https://artificialanalysis.ai/models/gpt-5-codex"
   },
+  "gpt-5-mini": {
+    "aaii": 41,
+    "url": "https://artificialanalysis.ai/models/gpt-5-mini",
+    "matched_alias": "GPT-5 mini (high)"
+  },
+  "gpt-5-nano": {
+    "aaii": 20,
+    "url": "https://artificialanalysis.ai/models/gpt-5-nano",
+    "matched_alias": "GPT-5 nano (high)"
+  },
+  "gpt-oss-120b": {
+    "aaii": 33,
+    "url": "https://artificialanalysis.ai/models/gpt-oss-120b",
+    "matched_alias": "gpt-oss-120b (high)"
+  },
+  "gpt-oss-20b": {
+    "aaii": 24,
+    "url": "https://artificialanalysis.ai/models/gpt-oss-20b",
+    "matched_alias": "gpt-oss-20B (high)"
+  },
   "grok-3": {
     "aaii": 25,
     "url": "https://artificialanalysis.ai/models/grok-3"
@@ -251,6 +271,10 @@
     "aaii": 40,
     "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
     "matched_alias": "Grok Build 0.1 0616"
+  },
+  "haiku-3": {
+    "aaii": 4,
+    "url": "https://artificialanalysis.ai/models/claude-3-haiku"
   },
   "haiku-4-5": {
     "aaii": 31,
@@ -470,25 +494,5 @@
     "aaii": 53,
     "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
     "matched_alias": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)"
-  },
-  "gpt-oss-120b": {
-    "aaii": 33,
-    "url": "https://artificialanalysis.ai/models/gpt-oss-120b",
-    "matched_alias": "gpt-oss-120b (high)"
-  },
-  "gpt-oss-20b": {
-    "aaii": 24,
-    "url": "https://artificialanalysis.ai/models/gpt-oss-20b",
-    "matched_alias": "gpt-oss-20B (high)"
-  },
-  "gpt-5-mini": {
-    "aaii": 41,
-    "url": "https://artificialanalysis.ai/models/gpt-5-mini",
-    "matched_alias": "GPT-5 mini (high)"
-  },
-  "gpt-5-nano": {
-    "aaii": 20,
-    "url": "https://artificialanalysis.ai/models/gpt-5-nano",
-    "matched_alias": "GPT-5 nano (high)"
   }
 }

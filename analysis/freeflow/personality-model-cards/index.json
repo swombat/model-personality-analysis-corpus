@@ -600,6 +600,22 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "haiku-3",
+    "safe": "haiku-3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/haiku-3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "haiku-4-5",
+    "safe": "haiku-4-5",
+    "variants": 2,
+    "samples": 250,
+    "card": "analysis/freeflow/personality-model-cards/cards/haiku-4-5.md",
+    "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
     "model": "inkling",
     "safe": "inkling",
     "variants": 1,

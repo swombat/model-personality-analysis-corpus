@@ -146,6 +146,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase16_gemini_inkling_20260721/posture_collapsed',
         'posture_consensus': LAYERED/'phase16_gemini_inkling_20260721/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase17_haiku_20260722',
+        'manifest': LAYERED/'phase17_haiku_20260722/manifest_phase17.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase17_haiku_20260722/layer_a',
+        'layer_a_consensus': LAYERED/'phase17_haiku_20260722/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase17_haiku_20260722/posture_collapsed',
+        'posture_consensus': LAYERED/'phase17_haiku_20260722/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

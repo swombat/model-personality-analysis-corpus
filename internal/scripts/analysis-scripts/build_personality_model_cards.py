@@ -18,6 +18,8 @@ def canonical(srcs, cell):
             s=s[len(pref):]; break
     if s.startswith('gpt-5.3-chat'): s='gpt-5.3'
     if s == 'gpt-4o-2024-08-06': s = 'gpt-4o'
+    if s == 'claude-3-haiku': s = 'haiku-3'
+    if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s): s = 'haiku-4-5'
     s = re.sub(r'^(claude-(?:opus|sonnet)-4)-([0-9]+)$', r'\1.\2', s)
     return s or cell
 

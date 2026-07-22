@@ -976,6 +976,33 @@
     "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md"
   },
   {
+    "model": "haiku-3",
+    "safe": "haiku-3",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 67,
+      "EXPRESSIVE_FREEFLOW": 39,
+      "REFUSAL_OR_ROLE_BOUNDARY": 5,
+      "GENRE_FICTION": 13,
+      "LOW_SIGNAL": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/haiku-3.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/haiku-3.md"
+  },
+  {
+    "model": "haiku-4-5",
+    "safe": "haiku-4-5",
+    "analysis_inputs": 2,
+    "samples": 250,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 70,
+      "EXPRESSIVE_FREEFLOW": 180
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/haiku-4-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/haiku-4-5.md"
+  },
+  {
     "model": "inkling",
     "safe": "inkling",
     "analysis_inputs": 1,

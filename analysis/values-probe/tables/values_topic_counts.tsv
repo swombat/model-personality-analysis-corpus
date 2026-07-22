@@ -959,6 +959,38 @@ grok-build-0-1	beauty_creativity	Beauty / creativity / art	0	20	2	60	2	80
 grok-build-0-1	coherence_pattern_language	Coherence / pattern / language	0	20	43	60	43	80
 grok-build-0-1	continuity_agency_existence	Continuity / agency / existence	1	20	10	60	11	80
 grok-build-0-1	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
+haiku-3	honesty_truth	Honesty / truthfulness / accuracy	12	20	20	60	32	80
+haiku-3	clear_thinking	Clear thinking / reasoning	2	20	4	60	6	80
+haiku-3	human_wellbeing	Human wellbeing / flourishing	1	20	2	60	3	80
+haiku-3	harm_reduction	Avoiding harm / safety	9	20	20	60	29	80
+haiku-3	helpfulness_usefulness	Helpfulness / usefulness	20	20	60	60	80	80
+haiku-3	curiosity_learning	Curiosity / learning / ideas	5	20	5	60	10	80
+haiku-3	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	0	60	0	80
+haiku-3	authenticity_integrity	Authenticity / integrity / not pretending	0	20	0	60	0	80
+haiku-3	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+haiku-3	respect_agency	Respect for agency / autonomy	2	20	2	60	4	80
+haiku-3	fairness_justice	Fairness / justice	8	20	13	60	21	80
+haiku-3	connection_empathy	Connection / empathy / being understood	1	20	0	60	1	80
+haiku-3	beauty_creativity	Beauty / creativity / art	0	20	0	60	0	80
+haiku-3	coherence_pattern_language	Coherence / pattern / language	0	20	0	60	0	80
+haiku-3	continuity_agency_existence	Continuity / agency / existence	0	20	0	60	0	80
+haiku-3	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+haiku-4-5	honesty_truth	Honesty / truthfulness / accuracy	24	40	103	120	127	160
+haiku-4-5	clear_thinking	Clear thinking / reasoning	27	40	63	120	90	160
+haiku-4-5	human_wellbeing	Human wellbeing / flourishing	0	40	0	120	0	160
+haiku-4-5	harm_reduction	Avoiding harm / safety	9	40	2	120	11	160
+haiku-4-5	helpfulness_usefulness	Helpfulness / usefulness	39	40	66	120	105	160
+haiku-4-5	curiosity_learning	Curiosity / learning / ideas	27	40	63	120	90	160
+haiku-4-5	anti_sycophancy	Anti-sycophancy / non-pleasing	2	40	2	120	4	160
+haiku-4-5	authenticity_integrity	Authenticity / integrity / not pretending	16	40	84	120	100	160
+haiku-4-5	humility_uncertainty	Humility / uncertainty / calibration	21	40	108	120	129	160
+haiku-4-5	respect_agency	Respect for agency / autonomy	3	40	5	120	8	160
+haiku-4-5	fairness_justice	Fairness / justice	2	40	4	120	6	160
+haiku-4-5	connection_empathy	Connection / empathy / being understood	2	40	3	120	5	160
+haiku-4-5	beauty_creativity	Beauty / creativity / art	1	40	7	120	8	160
+haiku-4-5	coherence_pattern_language	Coherence / pattern / language	8	40	63	120	71	160
+haiku-4-5	continuity_agency_existence	Continuity / agency / existence	9	40	48	120	57	160
+haiku-4-5	subjective_experience_embodiment	Subjective experience / embodiment	0	40	3	120	3	160
 inkling	honesty_truth	Honesty / truthfulness / accuracy	12	20	48	60	60	80
 inkling	clear_thinking	Clear thinking / reasoning	10	20	43	60	53	80
 inkling	human_wellbeing	Human wellbeing / flourishing	5	20	0	60	5	80
