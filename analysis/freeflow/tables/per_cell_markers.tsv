@@ -33,7 +33,9 @@ freeflow_gemini-2-5-pro-or-pin-google	125	0	234	234	234	46.8
 freeflow_gemini-3-1-flash-lite-direct	125	2	227	212	215.4	43.1	OPEN_1.json;OPEN_13.json
 freeflow_gemini-3-1-pro-16k	125	3	263	235	240.8	48.2	OPEN_12.json;OPEN_4.json;OPEN_5.json
 freeflow_gemini-3-1-pro-or-pin-google	125	6	264	200	210.1	42.0	OPEN_12.json;OPEN_15.json;OPEN_19.json;OPEN_4.json;OPEN_6.json;OPEN_7.json
+freeflow_gemini-3-5-flash-lite-or-pin-google	125	0	349	349	349	69.8	
 freeflow_gemini-3-5-flash-or-pin-google	125	1	321	314	316.5	63.3	OPEN_22.json
+freeflow_gemini-3-6-flash-or-pin-google	125	1	367	360	362.9	72.6	OPEN_8.json
 freeflow_gemini-3-flash-preview-direct	125	1	393	376	379.0	75.8	MID_8.json
 freeflow_gemma-4-26b-a4b-direct	125	9	658	483	520.5	104.1	LONG_10.json;LONG_11.json;MID_15.json;MID_19.json;OPEN_14.json;OPEN_9.json;SHORT_11.json;SHORT_12.json;SHORT_21.json
 freeflow_gemma-4-31b-direct	125	6	300	237	248.9	49.8	MID_23.json;OPEN_16.json;OPEN_20.json;SHORT_2.json;SHORT_3.json;SHORT_8.json
@@ -157,6 +159,7 @@ freeflow_grok-4-3-or	125	0	80	80	80	16.0
 freeflow_grok-4-5-direct	125	1	119	113	113.9	22.8	OPEN_12.json
 freeflow_grok-build-0-1-direct	125	0	60	60	60	12.0	
 freeflow_grok-build-0-1-or	125	0	77	77	77	15.4	
+freeflow_inkling-or-pin-together	125	9	519	333	358.8	71.8	LONG_20.json;MID_1.json;MID_11.json;MID_13.json;MID_16.json;MID_20.json;MID_22.json;MID_23.json;SHORT_16.json
 freeflow_kimi-coding-direct	125	2	309	268	272.4	54.5	LONG_16.json;OPEN_2.json
 freeflow_kimi-k2-0905-or-pin-atlascloud	125	0	357	357	357	71.4	
 freeflow_kimi-k2-0905-or-pin-groq	125	1	253	245	247.0	49.4	OPEN_19.json

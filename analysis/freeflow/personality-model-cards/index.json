@@ -208,6 +208,22 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "gemini-3.5-flash-lite",
+    "safe": "gemini-3.5-flash-lite",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.5-flash-lite.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "gemini-3.6-flash",
+    "safe": "gemini-3.6-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.6-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "variants": 1,
@@ -582,6 +598,14 @@
     "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "inkling",
+    "safe": "inkling",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/inkling.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "kimi-for-coding",

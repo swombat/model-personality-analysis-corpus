@@ -104,6 +104,8 @@ MODEL_SLUGS = {
     "gemini-3-flash-preview": "google/gemini-3-flash-preview",
     "gemini-3-1-flash-lite": "google/gemini-3.1-flash-lite",
     "gemini-3-5-flash": "google/gemini-3.5-flash",
+    "gemini-3-5-flash-lite": "google/gemini-3.5-flash-lite",
+    "gemini-3-6-flash": "google/gemini-3.6-flash",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
     "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
     "gemma-4-31b": "google/gemma-4-31b-it",
@@ -112,6 +114,7 @@ MODEL_SLUGS = {
     "grok-4-2": "x-ai/grok-4.2",
     "grok-4-20": "x-ai/grok-4.20",
     "grok-4-3": "x-ai/grok-4.3",
+    "grok-4-5": "x-ai/grok-4.5",
     "grok-build-0-1": "x-ai/grok-build-0.1",
     "grok-4-20-0309-non-reasoning": "x-ai/grok-4.20-0309-non-reasoning",
     "grok-4-20-0309-reasoning": "x-ai/grok-4.20-0309-reasoning",
@@ -169,6 +172,50 @@ MODEL_SLUGS = {
     "llama-3-2-1b-instruct": "meta-llama/llama-3.2-1b-instruct",
     "llama-3-2-3b-instruct": "meta-llama/llama-3.2-3b-instruct",
     "llama-3-2-11b-vision-instruct": "meta-llama/llama-3.2-11b-vision-instruct",
+    "inkling": "thinkingmachines/inkling",
+}
+
+# First-party API prices are authoritative for models sold directly by their
+# labs. OpenRouter endpoint metadata remains useful for routing and throughput,
+# but can temporarily advertise promotional or stale prices (as happened for
+# the GPT-5.6 family in July 2026). Prices are USD per million standard input
+# and output tokens; cached-input discounts are intentionally not displayed.
+FIRST_PARTY_API_PRICING = {
+    # OpenAI API pricing: https://openai.com/api/pricing/
+    "gpt-3-5-turbo": (0.50, 1.50, "OpenAI API"),
+    "gpt-4-1": (2.00, 8.00, "OpenAI API"),
+    "gpt-4-1-mini": (0.40, 1.60, "OpenAI API"),
+    "gpt-4-1-nano": (0.10, 0.40, "OpenAI API"),
+    "gpt-4-turbo": (10.00, 30.00, "OpenAI API"),
+    "gpt-4o": (2.50, 10.00, "OpenAI API"),
+    "gpt-4o-mini": (0.15, 0.60, "OpenAI API"),
+    "gpt-5": (1.25, 10.00, "OpenAI API"),
+    "gpt-5-codex": (1.25, 10.00, "OpenAI API"),
+    "gpt-5-1": (1.25, 10.00, "OpenAI API"),
+    "gpt-5-1-codex": (1.25, 10.00, "OpenAI API"),
+    "gpt-5-1-codex-max": (1.25, 10.00, "OpenAI API"),
+    "gpt-5-1-codex-mini": (0.25, 2.00, "OpenAI API"),
+    "gpt-5-2": (1.75, 14.00, "OpenAI API"),
+    "gpt-5-2-codex": (1.75, 14.00, "OpenAI API"),
+    "gpt-5-3": (1.75, 14.00, "OpenAI API"),
+    "gpt-5-3-codex": (1.75, 14.00, "OpenAI API"),
+    "gpt-5-4": (2.50, 15.00, "OpenAI API"),
+    "gpt-5-4-mini": (0.375, 2.25, "OpenAI API"),
+    "gpt-5-4-nano": (0.10, 0.625, "OpenAI API"),
+    "gpt-5-5": (5.00, 30.00, "OpenAI API"),
+    "gpt-5-5-pro": (30.00, 180.00, "OpenAI API"),
+    "gpt-5-6-sol": (5.00, 30.00, "OpenAI API"),
+    "gpt-5-6-terra": (2.50, 15.00, "OpenAI API"),
+    "gpt-5-6-luna": (1.00, 6.00, "OpenAI API"),
+    "gpt-5-mini": (0.25, 2.00, "OpenAI API"),
+    "gpt-5-nano": (0.05, 0.40, "OpenAI API"),
+    # xAI API pricing: https://docs.x.ai/developers/models
+    "grok-3": (3.00, 15.00, "xAI API"),
+    "grok-4": (3.00, 15.00, "xAI API"),
+    "grok-4-20": (1.25, 2.50, "xAI API"),
+    "grok-4-3": (1.25, 2.50, "xAI API"),
+    "grok-4-5": (2.00, 6.00, "xAI API"),
+    "grok-build-0-1": (1.00, 2.00, "xAI API"),
 }
 
 
@@ -196,6 +243,11 @@ def site_slug_from_profile_model(name: str) -> str:
         "gemini-3.1-flash-lite": "gemini-3-1-flash-lite",
         "gemini-3.5-flash": "gemini-3-5-flash",
         "google/gemini-3.5-flash": "gemini-3-5-flash",
+        "gemini-3.5-flash-lite": "gemini-3-5-flash-lite",
+        "google/gemini-3.5-flash-lite": "gemini-3-5-flash-lite",
+        "gemini-3.6-flash": "gemini-3-6-flash",
+        "google/gemini-3.6-flash": "gemini-3-6-flash",
+        "thinkingmachines/inkling": "inkling",
         "openai/gpt-oss-120b": "gpt-oss-120b",
         "openai/gpt-oss-20b": "gpt-oss-20b",
         "gemma-4-26b-a4b-it": "gemma-4-26b-a4b",
@@ -259,6 +311,8 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Mistral"
     if slug.startswith("llama"):
         return "Meta"
+    if slug == "inkling":
+        return "Thinking Machines Lab"
     return "Unknown"
 
 
@@ -1063,10 +1117,26 @@ def openrouter_for_model(model: str) -> dict | None:
     slug = MODEL_SLUGS.get(model)
     if not slug:
         return None
+
+    def with_first_party_pricing(result: dict) -> dict:
+        pricing = FIRST_PARTY_API_PRICING.get(model)
+        if not pricing:
+            result["pricing_source"] = "OpenRouter"
+            return result
+        prompt, completion, source = pricing
+        result.update(
+            {
+                "prompt_per_million": prompt,
+                "completion_per_million": completion,
+                "pricing_source": source,
+            }
+        )
+        return result
+
     encoded = urllib.parse.quote(slug, safe="/")
     data = fetch_json(f"https://openrouter.ai/api/v1/models/{encoded}/endpoints")
     if not data or "data" not in data:
-        return {"id": slug, "matched": False}
+        return with_first_party_pricing({"id": slug, "matched": False})
     endpoints = data["data"].get("endpoints", [])
     priced = []
     for endpoint in endpoints:
@@ -1080,10 +1150,10 @@ def openrouter_for_model(model: str) -> dict | None:
             continue
         priced.append((prompt + completion, endpoint, prompt, completion))
     if not priced:
-        return {"id": slug, "matched": True}
+        return with_first_party_pricing({"id": slug, "matched": True})
     _, endpoint, prompt, completion = min(priced, key=lambda row: row[0])
     max_throughput = openrouter_max_throughput(endpoint_permaslug(endpoint))
-    return {
+    return with_first_party_pricing({
         "id": slug,
         "matched": True,
         "provider": endpoint.get("provider_name"),
@@ -1093,7 +1163,7 @@ def openrouter_for_model(model: str) -> dict | None:
         "throughput": endpoint.get("throughput_last_30m") or endpoint.get("throughput_last_5m"),
         **max_throughput,
         "latency": endpoint.get("latency_last_30m") or endpoint.get("latency_last_5m"),
-    }
+    })
 
 
 def model_from_cell(cell: str, models: list[str], source: str) -> str | None:

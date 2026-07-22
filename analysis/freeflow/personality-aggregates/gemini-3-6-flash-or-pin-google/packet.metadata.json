@@ -1,0 +1,27 @@
+{
+  "cell": "gemini-3-6-flash-or-pin-google",
+  "safe_cell": "gemini-3-6-flash-or-pin-google",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 41,
+    "EXPRESSIVE_FREEFLOW": 73,
+    "GENERIC_ESSAY": 11
+  },
+  "confidence_counts": {
+    "High": 46,
+    "Medium": 70,
+    "Low": 9
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "google/gemini-3.6-flash"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemini-3-6-flash-or-pin-google/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-6-flash-or-pin-google/aggregate.md"
+}

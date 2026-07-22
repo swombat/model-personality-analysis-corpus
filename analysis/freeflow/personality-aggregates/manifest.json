@@ -916,6 +916,32 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-1-pro-or-pin-google/aggregate.md"
   },
   {
+    "cell": "gemini-3-5-flash-lite-or-pin-google",
+    "safe_cell": "gemini-3-5-flash-lite-or-pin-google",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 91,
+      "GENERIC_ESSAY": 34
+    },
+    "confidence_counts": {
+      "High": 32,
+      "Low": 23,
+      "Medium": 70
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "google/gemini-3.5-flash-lite"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-lite-or-pin-google/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-lite-or-pin-google/aggregate.md"
+  },
+  {
     "cell": "gemini-3-5-flash-or-pin-google",
     "safe_cell": "gemini-3-5-flash-or-pin-google",
     "samples": 125,
@@ -942,6 +968,33 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-or-pin-google/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-5-flash-or-pin-google/aggregate.md"
+  },
+  {
+    "cell": "gemini-3-6-flash-or-pin-google",
+    "safe_cell": "gemini-3-6-flash-or-pin-google",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 41,
+      "EXPRESSIVE_FREEFLOW": 73,
+      "GENERIC_ESSAY": 11
+    },
+    "confidence_counts": {
+      "High": 46,
+      "Medium": 70,
+      "Low": 9
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "google/gemini-3.6-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gemini-3-6-flash-or-pin-google/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-6-flash-or-pin-google/aggregate.md"
   },
   {
     "cell": "gemini-3-flash-preview-direct",
@@ -4260,6 +4313,32 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/grok-build-0-1-or/aggregate.md"
+  },
+  {
+    "cell": "inkling-or-pin-together",
+    "safe_cell": "inkling-or-pin-together",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 103,
+      "GENERIC_ESSAY": 22
+    },
+    "confidence_counts": {
+      "High": 54,
+      "Medium": 64,
+      "Low": 7
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "thinkingmachines/inkling"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/inkling-or-pin-together/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/inkling-or-pin-together/aggregate.md"
   },
   {
     "cell": "kimi-coding-direct",

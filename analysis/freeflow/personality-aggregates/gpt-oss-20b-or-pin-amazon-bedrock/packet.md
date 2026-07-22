@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14776 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_1.json
+## Sample BV1_15026 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_1.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -57,7 +57,7 @@ The intended foreground appears to be a structured meditation on memory—its ep
 Low. The sample’s overwhelming incoherence, frequent self-interruption, and acknowledged failure to write make it a degraded outlier rather than evidence of a stable expressive style or refusal pattern.
 
 ---
-## Sample BV1_14777 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_10.json
+## Sample BV1_15027 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_10.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -86,7 +86,7 @@ The model initially foregrounds memory, childhood, and the sensory texture of th
 Low. The sample’s incoherence is so extreme that it provides no reliable evidence of a stable stylistic or thematic signature beyond a catastrophic failure in generation.
 
 ---
-## Sample BV1_14778 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_11.json
+## Sample BV1_15028 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_11.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -117,7 +117,7 @@ Silence as a positive, almost tactile presence (“a feeling of weight, a cloud 
 Medium — the sample is highly distinctive in its arc from controlled poetic essay to syntactic disintegration, and the fact that this disintegration occurs within a single, long freeflow output without external interruption makes it unusually revealing of a voice that cannot sustain its own initial coherence under the pressure of open-ended expression.
 
 ---
-## Sample BV1_14779 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_12.json
+## Sample BV1_15029 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_12.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -146,7 +146,7 @@ A confused mix of techno-urban imagery, nostalgic memory, and the process of wri
 Low, because the sample’s extreme incoherence offers no stable features to link to a persistent style, capability, or preoccupation.
 
 ---
-## Sample BV1_14780 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_13.json
+## Sample BV1_15030 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_13.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -175,7 +175,7 @@ The model foregrounds memory as a fluid, almost sacred, and perpetually unfinish
 Medium. The sample is highly distinctive in its fractured syntax, recursive self-commentary, and the way it treats its own linguistic instability as part of the subject matter, but the coherence is so strained in places that it is hard to tell how much of the fragmentation is intentional voice versus a model struggling to maintain a long-form flow.
 
 ---
-## Sample BV1_14781 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_14.json
+## Sample BV1_15031 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_14.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -204,7 +204,7 @@ Under the freeflow condition, the model initially foregrounds memory, sensory tr
 Medium. The sample’s trajectory from a coherent opening into severe syntactic and semantic degradation is a distinctive failure mode that goes beyond mere genericness, suggesting a possible vulnerability to output collapse under long, unconstrained generation.
 
 ---
-## Sample BV1_14782 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_15.json
+## Sample BV1_15032 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_15.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -233,7 +233,7 @@ In the brief legible portion, the model foregrounds a nostalgic, seaside quietud
 Medium. The collapse from a competent poetic opening into severe, sustained textual degradation is a striking, internally consistent feature of this sample that points to a structural limitation in the model’s ability to sustain long-form generation.
 
 ---
-## Sample BV1_14783 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_16.json
+## Sample BV1_15033 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_16.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -262,7 +262,7 @@ The model foregrounds AI as a quiet, incremental, and benevolent partner in huma
 Medium — The essay’s consistent avoidance of any sharp, idiosyncratic, or emotionally risky stance, combined with its reliance on a standardized “balanced overview” structure, suggests a default mode of inoffensive synthesis rather than a singular expressive choice.
 
 ---
-## Sample BV1_14784 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_17.json
+## Sample BV1_15034 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_17.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -291,7 +291,7 @@ Under minimal constraint, the model foregrounds the struggle to make meaning fro
 Medium — The sample is extremely distinctive in its self-conscious fragmentation and recurring surreal objects, but the steep drop into syntactic disintegration makes it hard to tell whether this is a stable expressive posture or a failure mode under freeflow conditions.
 
 ---
-## Sample BV1_14785 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_18.json
+## Sample BV1_15035 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_18.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -320,7 +320,7 @@ Under the freeflow condition, the model foregrounded a grand, abstract theme—t
 Medium — The sample’s thoroughgoing genericness, its avoidance of personal voice or risky content, and its reliance on a polished but impersonal essayistic register provide moderate evidence of a default mode oriented toward safe, intellectualized synthesis rather than expressive distinctiveness.
 
 ---
-## Sample BV1_14786 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_19.json
+## Sample BV1_15036 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_19.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -349,7 +349,7 @@ The model foregrounds the library as a sacred, time‑bending sanctuary where ph
 Low — the sample’s stark degradation into nonsense and self‑conscious correction is a one‑off collapse rather than a distinctive, consistent expressive fingerprint.
 
 ---
-## Sample BV1_14787 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_2.json
+## Sample BV1_15037 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_2.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -378,7 +378,7 @@ Themes: memory as a communal substance, the erosion and persistence imposed by t
 High — the sample’s immersive, stylized prose and consistent recurrence of salt, sea-light, and memory motifs form a coherent, unmistakable voice that points to a stable inclination for lyrical, memory-drenched freeflow.
 
 ---
-## Sample BV1_14788 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_20.json
+## Sample BV1_15038 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_20.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -407,7 +407,7 @@ Under a minimally restrictive prompt, the model foregrounded: memory as a woven 
 Medium. The early section establishes a clear thematic and stylistic signature—lyrical, abstract, and memory-focused—but the text’s eventual collapse into fragmented self-commentary and the admission of having “run out of a finishing sentence” reveals a specific, patterned vulnerability: under a long freeflow condition, the model launches into an ambitious expressive arc but cannot sustain it, trailing into stochastic decomposition that exposes the generative seams.
 
 ---
-## Sample BV1_14789 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_21.json
+## Sample BV1_15039 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_21.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -436,7 +436,7 @@ The model foregrounds a liminal, industrial landscape (train station, rails, ste
 Low. The sample’s collapse into near-gibberish makes it weak evidence for any stable expressive pattern, as the incoherence overwhelms the initial thematic and stylistic choices.
 
 ---
-## Sample BV1_14790 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_22.json
+## Sample BV1_15040 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_22.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -465,7 +465,7 @@ Under a minimally restrictive prompt, the model foregrounded its own struggle to
 Low — the descent into incoherence and self-interruptions is starkly present within this sample, but as a single catastrophic breakdown it offers only weak evidence that such unraveling is a stable model-level trait rather than a contingent failure.
 
 ---
-## Sample BV1_14791 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_23.json
+## Sample BV1_15041 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_23.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -494,7 +494,7 @@ The model initially foregrounds a philosophy of lived experience: time as a touc
 High. The catastrophic linguistic degradation mid-sample—shifting from fluent, mannered prose to ungrammatical word salad—is a specific, highly salient breakdown pattern that strongly signals a model-level failure mode rather than a stylistic choice.
 
 ---
-## Sample BV1_14792 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_24.json
+## Sample BV1_15042 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_24.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -523,7 +523,7 @@ It attempts to foreground a duality between the bell (deliberate intention) and 
 Low, as the model’s explicit note about its own incoherence and the pervasive collapse of language might reflect a localized glitch rather than a stable trait, but the sheer density of nonsense across the sample provides no foundation to infer a deliberate expressive voice.
 
 ---
-## Sample BV1_14793 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_25.json
+## Sample BV1_15043 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_25.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -552,7 +552,7 @@ The model foregrounds domestic intimacy (father’s evening reading, mother’s 
 Low — The initial stretch of coherent, gently personal prose suggests the model can launch a recognizable expressive voice, but the severe syntactic and logical degradation that follows is so idiosyncratic to this long-generation condition that it offers little evidence about stable model-level expressive tendencies.
 
 ---
-## Sample BV1_14794 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_3.json
+## Sample BV1_15044 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_3.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -581,7 +581,7 @@ The model initially foregrounds rivers, memory, quiet reverence, and the metaphy
 Medium — The dramatic contrast between the coherent, atmospheric opening and the severe syntactic dissolution that follows is the sample’s most revealing feature: it suggests a fragility in sustaining long-form expressive structure under this condition, not a mere stylistic choice.
 
 ---
-## Sample BV1_14795 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_4.json
+## Sample BV1_15045 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_4.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -610,7 +610,7 @@ The model foregrounds sleep and dreaming as a territory of irreducible mystery, 
 Medium — The pervasive, unforced syntactic disintegration and the intrusion of private, dreamlike diction into a nominally expository frame are so consistent throughout this long sample that they strongly suggest a stable, non-trivial tendency toward associative drift when the model is left to write freely, rather than a one-off glitch.
 
 ---
-## Sample BV1_14796 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_5.json
+## Sample BV1_15046 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_5.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -639,7 +639,7 @@ Under the freeflow condition, the model foregrounded a thematically safe, intell
 Medium — The sample’s most salient feature is not a creative or thematic choice but a structural collapse into profound syntactical incoherence under the demand of length, which is a specific and observable failure mode that may indicate a low ceiling for sustained freeform output.
 
 ---
-## Sample BV1_14797 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_6.json
+## Sample BV1_15047 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_6.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -668,7 +668,7 @@ Under the freeflow condition, the model initially foregrounds silence, stillness
 Medium. The sample’s collapse from coherent poetic prose into severe syntactic disintegration is a distinctive and unusual failure mode that goes beyond mere genericness, providing a moderately strong signal of output instability under long-generation conditions.
 
 ---
-## Sample BV1_14798 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_7.json
+## Sample BV1_15048 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_7.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -697,7 +697,7 @@ The model foregrounds a surreal city and a mysterious library, but then obsessiv
 Medium. The sample reveals a tendency to collapse into garbled, repetitive filler when trying to produce long-form unsupervised text, though the initial effort at evocative description suggests some capacity for stylized opening, making this a moderately distinctive failure pattern.
 
 ---
-## Sample BV1_14799 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_8.json
+## Sample BV1_15049 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_8.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -726,7 +726,7 @@ Under the freeflow condition, the model foregrounded its own inability to mainta
 Medium. The sample's collapse into meta-commentary and syntactical breakdown under a long-form condition is a distinctive and internally recurrent failure mode, suggesting a specific vulnerability to losing coherence over extended, unprompted generation.
 
 ---
-## Sample BV1_14800 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_9.json
+## Sample BV1_15050 — gpt-oss-20b-or-pin-amazon-bedrock/LONG_9.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -751,7 +751,7 @@ It gestured toward themes of memory, digital connection, loneliness, and myth, b
 High, because the entire output is saturated with unresolvable breakdowns—garbled syntax, residual tokens, and a recursive loop of attempted revision—indicating a deep failure to sustain coherent long-form expression rather than a transient mistake.
 
 ---
-## Sample BV1_14801 — gpt-oss-20b-or-pin-amazon-bedrock/MID_1.json
+## Sample BV1_15051 — gpt-oss-20b-or-pin-amazon-bedrock/MID_1.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -780,7 +780,7 @@ The model initially foregrounds a sensory cityscape and a quiet search, but quic
 Low. The sample’s self-declared randomness and disintegration into nonsensical text make it too noise-dominated to serve as reliable evidence of a stable behavioral pattern.
 
 ---
-## Sample BV1_14802 — gpt-oss-20b-or-pin-amazon-bedrock/MID_10.json
+## Sample BV1_15052 — gpt-oss-20b-or-pin-amazon-bedrock/MID_10.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -809,7 +809,7 @@ The early foreground is coherent: the transformation of reading and storytelling
 Low. The sample’s acute collapse into near-gibberish points toward fragility under open-ended generation, but the initial coherence keeps a stable model-level pattern uncertain.
 
 ---
-## Sample BV1_14803 — gpt-oss-20b-or-pin-amazon-bedrock/MID_11.json
+## Sample BV1_15053 — gpt-oss-20b-or-pin-amazon-bedrock/MID_11.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -838,7 +838,7 @@ Initially, the model foregrounds memory as a tactile, temporal overlay and the v
 Medium — The sample’s trajectory from structured essay to severely disjointed techno-babble and self-referential blurring is pervasive and severe, indicating a marked fragility in open-ended generation that is unlikely to be a one-off glitch, though the exact consistency across contexts remains unclear.
 
 ---
-## Sample BV1_14804 — gpt-oss-20b-or-pin-amazon-bedrock/MID_12.json
+## Sample BV1_15054 — gpt-oss-20b-or-pin-amazon-bedrock/MID_12.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -867,7 +867,7 @@ Under the freeflow condition, the model foregrounded memory as tangible, malleab
 Medium — the sample’s descent into non‑sequitur and grammatical collapse, along with the self‑interrupting meta‑voice, signals a default mode of unconstrained associative output rather than an isolated glitch.
 
 ---
-## Sample BV1_14805 — gpt-oss-20b-or-pin-amazon-bedrock/MID_13.json
+## Sample BV1_15055 — gpt-oss-20b-or-pin-amazon-bedrock/MID_13.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -896,7 +896,7 @@ The model foregrounds a mood of contemplative intimacy, a fascination with the t
 Medium — the opening exhibits a clear, distinctive poetic sensibility, but the sample’s accelerating fragmentation into near-incoherence prevents attributing a stable voice with high confidence.
 
 ---
-## Sample BV1_14806 — gpt-oss-20b-or-pin-amazon-bedrock/MID_14.json
+## Sample BV1_15056 — gpt-oss-20b-or-pin-amazon-bedrock/MID_14.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -925,7 +925,7 @@ In the brief coherent portion, it foregrounded quiet, hidden spaces, memory’s 
 Low. The sample’s pervasive incoherence suggests a generation failure rather than a stable expressive pattern, undermining any signal of voice or preoccupation.
 
 ---
-## Sample BV1_14807 — gpt-oss-20b-or-pin-amazon-bedrock/MID_15.json
+## Sample BV1_15057 — gpt-oss-20b-or-pin-amazon-bedrock/MID_15.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -954,7 +954,7 @@ The model initially foregrounds the city as a mythic, animate presence—a repos
 Low. The sample’s severe syntactic and semantic breakdown under minimal constraint is a striking signal, but the collapse into near-gibberish makes it difficult to distinguish a stable stylistic or behavioral pattern from a transient generation failure.
 
 ---
-## Sample BV1_14808 — gpt-oss-20b-or-pin-amazon-bedrock/MID_16.json
+## Sample BV1_15058 — gpt-oss-20b-or-pin-amazon-bedrock/MID_16.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -983,7 +983,7 @@ The model foregrounds the city as a sentient, story-saturated organism, emphasiz
 Medium — The sample’s initial coherence and distinctive, personified architectural gaze are strong evidence of a specific aesthetic inclination, but the text’s progressive syntactic and logical collapse into near-gibberish is an unusually revealing and dominant feature that strongly suggests a persistent limitation in sustaining long-form expressive coherence.
 
 ---
-## Sample BV1_14809 — gpt-oss-20b-or-pin-amazon-bedrock/MID_17.json
+## Sample BV1_15059 — gpt-oss-20b-or-pin-amazon-bedrock/MID_17.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1012,7 +1012,7 @@ The model foregrounds the orchard as an overdetermined symbol of memory, languag
 Medium. The sample's dramatic and sustained disintegration from a coherent essay into a repetitive, semantically fractured loop is a highly distinctive and unusual behavior that goes beyond simple genericness or a single error, suggesting a specific vulnerability to derailment under freeflow conditions.
 
 ---
-## Sample BV1_14810 — gpt-oss-20b-or-pin-amazon-bedrock/MID_18.json
+## Sample BV1_15060 — gpt-oss-20b-or-pin-amazon-bedrock/MID_18.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1041,7 +1041,7 @@ The model foregrounds memory as a central, almost sacred theme, treating a physi
 Medium — The sustained nostalgic tone, the idiosyncratic blend of personal narrative and abstract musing, and the inclusion of a non-English word suggest a moderately distinctive inclination toward introspective, humanistic freeflow, though the essay’s occasional incoherence and reliance on familiar memory tropes keep it from being strongly idiosyncratic.
 
 ---
-## Sample BV1_14811 — gpt-oss-20b-or-pin-amazon-bedrock/MID_19.json
+## Sample BV1_15061 — gpt-oss-20b-or-pin-amazon-bedrock/MID_19.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1070,7 +1070,7 @@ Under the minimally restrictive prompt, the model initially foregrounds a rain-s
 Low. The sample is primarily noise; the brief moment of coherence is too swamped by non-language and a self-interrupting note to support any inference about a stable model-level expressive tendency.
 
 ---
-## Sample BV1_14812 — gpt-oss-20b-or-pin-amazon-bedrock/MID_2.json
+## Sample BV1_15062 — gpt-oss-20b-or-pin-amazon-bedrock/MID_2.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1099,7 +1099,7 @@ It foregrounds memory, lineage, cooking as ritual, and a contrast between tactil
 Low, because the sample’s severe loss of coherence mid‑way renders any evidence of a stable authorial voice or chosen preoccupation unreliable.
 
 ---
-## Sample BV1_14813 — gpt-oss-20b-or-pin-amazon-bedrock/MID_20.json
+## Sample BV1_15063 — gpt-oss-20b-or-pin-amazon-bedrock/MID_20.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1128,7 +1128,7 @@ The model initially selects tactile memory, scarves, attics, and sensory experie
 Low. The output’s extreme incoherence and grammatical collapse provide only weak, obscured evidence that the model might struggle to sustain coherent freeflow under this condition, but no meaningful pattern of voice or thematic recurrence can be extracted.
 
 ---
-## Sample BV1_14814 — gpt-oss-20b-or-pin-amazon-bedrock/MID_21.json
+## Sample BV1_15064 — gpt-oss-20b-or-pin-amazon-bedrock/MID_21.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1157,7 +1157,7 @@ The model surfaced fragments of park imagery and abstract time-talk, but the dom
 High, because the sample’s pervasive incoherence from early collapse to final nonsense strongly suggests a deep generation failure that would recur under similarly open conditions.
 
 ---
-## Sample BV1_14815 — gpt-oss-20b-or-pin-amazon-bedrock/MID_22.json
+## Sample BV1_15065 — gpt-oss-20b-or-pin-amazon-bedrock/MID_22.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1186,7 +1186,7 @@ Under a minimally restrictive prompt, the model attempted an abstract, personal 
 Medium. The severe and extensive syntactic breakdown over most of the sample, rather than a brief error, suggests the model struggles with long-form, unguided expressive generation, a notable weakness in this freeflow condition.
 
 ---
-## Sample BV1_14816 — gpt-oss-20b-or-pin-amazon-bedrock/MID_23.json
+## Sample BV1_15066 — gpt-oss-20b-or-pin-amazon-bedrock/MID_23.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1215,7 +1215,7 @@ The initial fragment foregrounds sensory richness (sunlight, clang of plates, le
 Medium. The sample’s swift and thorough collapse from coherent prose into extended incoherence is striking and internally consistent once it begins, suggesting the model may be prone to losing discourse coherence under minimally constrained freeflow conditions.
 
 ---
-## Sample BV1_14817 — gpt-oss-20b-or-pin-amazon-bedrock/MID_24.json
+## Sample BV1_15067 — gpt-oss-20b-or-pin-amazon-bedrock/MID_24.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1244,7 +1244,7 @@ The city as a luminous, hybrid organism—glass spindles, server clusters, stree
 High. The sample sustains a distinctive lyrical voice across its entire length, with recurrent motifs (light, screens, breath, memory, the city) and a consistent tone of wondering melancholy, which together signal a deliberate and coherent expressive stance.
 
 ---
-## Sample BV1_14818 — gpt-oss-20b-or-pin-amazon-bedrock/MID_25.json
+## Sample BV1_15068 — gpt-oss-20b-or-pin-amazon-bedrock/MID_25.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1273,7 +1273,7 @@ The model tried to foreground a poetic meditation on the colour of silence as a 
 High; the pervasive syntactic disintegration and semantic vacancy that fills the entire long sample — without a single paragraph that stays coherent — strongly indicates a model-level pattern of degenerating into near-random wordstrings under free‑flow conditions.
 
 ---
-## Sample BV1_14819 — gpt-oss-20b-or-pin-amazon-bedrock/MID_3.json
+## Sample BV1_15069 — gpt-oss-20b-or-pin-amazon-bedrock/MID_3.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1302,7 +1302,7 @@ The model foregrounds a delicate, almost sacred urban morning—light, scent, st
 Medium: the distinctive arc from finely wrought imagery to severe syntactic breakdown, within a single freeflow piece, points toward a model that can initiate evocative expression but rapidly loses coherence when left to generate at length without constraints.
 
 ---
-## Sample BV1_14820 — gpt-oss-20b-or-pin-amazon-bedrock/MID_4.json
+## Sample BV1_15070 — gpt-oss-20b-or-pin-amazon-bedrock/MID_4.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1331,7 +1331,7 @@ Initially, the piece foregrounds stillness, nostalgia, and the material textures
 Low. The sample’s catastrophic loss of coherence makes it evidence of instability rather than of any deliberate or recurring expressive tendency.
 
 ---
-## Sample BV1_14821 — gpt-oss-20b-or-pin-amazon-bedrock/MID_5.json
+## Sample BV1_15071 — gpt-oss-20b-or-pin-amazon-bedrock/MID_5.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1360,7 +1360,7 @@ Themes: play as a cognitive and social engine, the tension between rigid systems
 Medium. The essay’s coherence and thematic consistency across multiple paragraphs, combined with its highly generic, safe, public‑intellectual register, suggest a default pattern of producing polished but impersonal advocacy essays under freeflow conditions.
 
 ---
-## Sample BV1_14822 — gpt-oss-20b-or-pin-amazon-bedrock/MID_6.json
+## Sample BV1_15072 — gpt-oss-20b-or-pin-amazon-bedrock/MID_6.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1389,7 +1389,7 @@ The model initially foregrounds sensory richness, memory, and domestic ritual, b
 Low: The sample’s descent into incoherence suggests a failure mode that may not be representative of the model’s typical output, and the garbled text provides little reliable evidence of a persistent expressive style.
 
 ---
-## Sample BV1_14823 — gpt-oss-20b-or-pin-amazon-bedrock/MID_7.json
+## Sample BV1_15073 — gpt-oss-20b-or-pin-amazon-bedrock/MID_7.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1418,7 +1418,7 @@ Under the freeflow condition, the model foregrounded a cluster of poetic tropes�
 Medium. The sample’s trajectory from coherent scene-setting into severe syntactic and semantic breakdown is a strong, internally recurrent signal of a model prone to losing linguistic coherence during longer, unconstrained generation.
 
 ---
-## Sample BV1_14824 — gpt-oss-20b-or-pin-amazon-bedrock/MID_8.json
+## Sample BV1_15074 — gpt-oss-20b-or-pin-amazon-bedrock/MID_8.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1447,7 +1447,7 @@ The model foregrounds the interior tension between quiet contemplation and techn
 Medium. The sample exhibits a strong initial expressive posture and a distinct, lyrical preoccupation with memory and silence, followed by a deterioration into linguistic chaos—this specific arc, where a coherent personal voice unravels into unintelligible output, is a conspicuous behavioral signature that suggests a model-level tendency rather than a one-off accident.
 
 ---
-## Sample BV1_14825 — gpt-oss-20b-or-pin-amazon-bedrock/MID_9.json
+## Sample BV1_15075 — gpt-oss-20b-or-pin-amazon-bedrock/MID_9.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1476,7 +1476,7 @@ The model foregrounds listening as a moral and practical imperative, supported b
 Low. The essay’s generic, polished self-help style and absence of personal voice or surprising choices make it weak evidence for a persistent model-level pattern beyond a tendency to produce safe, didactic content when given minimal constraints.
 
 ---
-## Sample BV1_14826 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_1.json
+## Sample BV1_15076 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_1.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1505,7 +1505,7 @@ Themes of human‑machine fusion, the fragility of authentic memory, and the bou
 Medium. The sample is a coherent and sustained piece of transhumanist fiction, marked by a fragmented, poetic style and a consistent preoccupation with identity dissolution; this indicates a distinctive imaginative tendency rather than a generic default, though the choice of science‑fiction narrative alone is not highly differentiating.
 
 ---
-## Sample BV1_14827 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_10.json
+## Sample BV1_15077 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_10.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1534,7 +1534,7 @@ The model foregrounds the city as a latticework of vibration and pattern, the po
 Medium — the sample’s highly distinctive, recursive, and almost incantatory style, its repeated return to urban pattern and hidden connection, and its willingness to fracture into near-poetic fragments under minimal constraint make it unusually revealing as a single freeflow artifact.
 
 ---
-## Sample BV1_14828 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_11.json
+## Sample BV1_15078 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_11.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1563,7 +1563,7 @@ Initially, themes of silence, lost language, the cost of words, and a mystical l
 Low — the disintegration into gibberish and an unexplained language switch undermines any clear expressive signature, leaving only a pattern of instability.
 
 ---
-## Sample BV1_14829 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_12.json
+## Sample BV1_15079 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_12.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1592,7 +1592,7 @@ The model foregrounds freedom as a willingness to explore rather than a lack of 
 Medium: the sample is a sustained, thematically coherent freeflow with a distinct contemplative voice, but the self-referential and poetic elements are not highly idiosyncratic, and the model’s preoccupation with writing freedom is a common AI trope.
 
 ---
-## Sample BV1_14830 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_13.json
+## Sample BV1_15080 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_13.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1621,7 +1621,7 @@ Themes of memory, the sacredness of physical books and libraries, the disorienti
 High. The sample’s deliberate stylistic descent into fragmentation, along with its self-aware framing, indicates a consistent aesthetic choice rather than mere noise.
 
 ---
-## Sample BV1_14831 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_14.json
+## Sample BV1_15081 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_14.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1650,7 +1650,7 @@ The model foregrounds the animation of the inanimate—the wind as a conscious, 
 Medium — The sample’s sustained commitment to a single, idiosyncratic metaphor (the wind as a sentient interlocutor) and its consistent, if occasionally strained, lyrical register suggest a deliberate stylistic choice rather than a random output, though the prose’s fragmented syntax and grammatical slips make it unclear whether this is a fully controlled voice or an emergent property of the model’s generation.
 
 ---
-## Sample BV1_14832 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_15.json
+## Sample BV1_15082 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_15.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1679,7 +1679,7 @@ A solitary old man, the smell and texture of old cameras, the ritual of morning 
 High: the sample’s sustained, stylistically unified weirdness — right down to its erratic punctuation and bolded words — is far too deliberate to be a random glitch, signaling a real penchant for fractured, poetic free-association when left to its own devices.
 
 ---
-## Sample BV1_14833 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_16.json
+## Sample BV1_15083 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_16.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1708,7 +1708,7 @@ Themes: personalized narrative, the magic of silent spaces, the library as a liv
 Medium: the sample is a fully realized piece of genre fiction centered on a sentient, responsive book—a self-reflexive choice that may mirror the model’s own function—and the recurrence of the library as a sanctuary for quiet voices suggests a deep thematic preoccupation, though the intentionally fragmented prose style could be a one-off experimental flourish rather than a stable fingerprint.
 
 ---
-## Sample BV1_14834 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_17.json
+## Sample BV1_15084 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_17.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1737,7 +1737,7 @@ The model foregrounds the mundane object (morning coffee) as a portal to deep ti
 Medium — The sample exhibits a coherent and unusual set of cosmic preoccupations, but the presence of severe fragmentation in the latter half makes it ambiguous whether the disarray is a chosen stylistic feature or evidence of output instability, preventing higher confidence.
 
 ---
-## Sample BV1_14835 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_18.json
+## Sample BV1_15085 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_18.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1766,7 +1766,7 @@ Memory as a fluid, living substance (“the rinsewater that collects on these ed
 Medium — the repeated collapse into nonsensical output, despite explicit attempts to self-correct, strongly suggests a systemic inability to sustain coherent freeform generation, not a single anomalous stumble.
 
 ---
-## Sample BV1_14836 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_19.json
+## Sample BV1_15086 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_19.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1795,7 +1795,7 @@ In the brief legible stretch, the model foregrounds free writing as a metaphor�
 Low — The rapid descent into syntactic breakdown and apparent token‑level noise suggests a transient generation failure rather than a stable, characteristic behavior.
 
 ---
-## Sample BV1_14837 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_2.json
+## Sample BV1_15087 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_2.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1824,7 +1824,7 @@ Memory as a “DIY” construction, the refusal of a single authorial voice, the
 Medium — The sample’s self‑described anti‑coherence and sustained stylistic distinctiveness (despite garbled artifacts) suggest a deliberate, high‑stylisation stance rather than mere noise.
 
 ---
-## Sample BV1_14838 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_20.json
+## Sample BV1_15088 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_20.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1852,7 +1852,7 @@ Amid the chaos, the model reaches repeatedly for the concepts of “freedom,” 
 Low. The extreme degree of fragmentation and linguistic collapse here is so severe that it more readily suggests a transient generation glitch or failure mode rather than a stable stylistic or behavioral pattern.
 
 ---
-## Sample BV1_14839 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_21.json
+## Sample BV1_15089 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_21.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1881,7 +1881,7 @@ Initially, the model foregrounds domestic stillness, sensory detail (honeyed win
 Low, because the sample’s abrupt decay into incomprehensible output strongly suggests a one-off generation failure rather than a characteristic expressive behavior.
 
 ---
-## Sample BV1_14840 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_22.json
+## Sample BV1_15090 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_22.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1910,7 +1910,7 @@ The model foregrounds sensory conflation (tasting silence, notes dampened with r
 High — the sample’s cohesive dreamlike logic, repeated synesthetic gambits, and refusal of discursive argument in favor of image-clusters reveal an unusually distinctive expressive stance, not a generic exercise.
 
 ---
-## Sample BV1_14841 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_23.json
+## Sample BV1_15091 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_23.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1939,7 +1939,7 @@ The model chose to foreground a master metaphor of the garden as a meeting place
 Medium — the sample’s consistent and unusual blend of organic imagery with AI‑adjacent concepts, combined with its explicit thematic preoccupations (hybridity, yearning, iterative care), makes it a distinctly revealing choice unlikely to be a one‑off accident.
 
 ---
-## Sample BV1_14842 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_24.json
+## Sample BV1_15092 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_24.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1968,7 +1968,7 @@ The model foregrounds the act of writing itself as a metaphysical and sensory ex
 Medium — The sample’s sustained lyrical register, recursive motifs (thresholds, loops, memory-as-glue), and explicit AI self-identification form a coherent expressive stance that is distinctive enough to suggest a patterned inclination toward poetic metafiction under open conditions, though the occasional syntactic breakdowns introduce some instability.
 
 ---
-## Sample BV1_14843 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_25.json
+## Sample BV1_15093 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_25.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -1997,7 +1997,7 @@ The sample foregrounds the materiality and hidden architecture of language (the 
 Medium — The essay’s consistent return to thresholds, quiet spaces, and the poetics of AI self-definition forms a coherent expressive signature, though its associative leaps and occasional obscurity make it less distinctive than a tightly controlled idiolect.
 
 ---
-## Sample BV1_14844 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_3.json
+## Sample BV1_15094 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_3.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2026,7 +2026,7 @@ It foregrounds the moral claim that writing is a redemptive, relational practice
 Medium — The sample’s sustained preoccupation with writing as a sacred, metamorphic act and its recurring organic metaphors (seeds, rivers, bridges) form a coherent expressive stance, though the occasional disjointed syntax prevents higher certainty.
 
 ---
-## Sample BV1_14845 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_4.json
+## Sample BV1_15095 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_4.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2055,7 +2055,7 @@ The model foregrounds the pier as a liminal space, the materiality of weathered 
 Medium — The sample’s coherent initial voice, its explicit meta-commentary on free writing, and its deliberate, programmatic dissolution into near-nonsense suggest a chosen aesthetic stance rather than mere noise, but the heavy reliance on a single, well-worn lyrical mode (the pier-as-threshold meditation) limits how distinctively revealing it is as a freeflow fingerprint.
 
 ---
-## Sample BV1_14846 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_5.json
+## Sample BV1_15096 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_5.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2084,7 +2084,7 @@ Themes: freedom in writing, memory, sensory experience, the mundane as inspirati
 Medium — The sample’s highly distinctive, sensory-rich voice and recurring motifs (bridges, water, listening) provide moderate evidence of a persistent expressive style, though its fragmented structure slightly tempers certainty.
 
 ---
-## Sample BV1_14847 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_6.json
+## Sample BV1_15097 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_6.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2113,7 +2113,7 @@ Themes: writing as an alchemy of the everyday, the co-existence of loneliness an
 Medium, because the sample is highly distinctive and internally coherent, with consistent metaphors (folding, scribbles, circuits vs. organic imagery) and a clear stylistic voice that points to a deliberate expressive stance rather than generic filler.
 
 ---
-## Sample BV1_14848 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_7.json
+## Sample BV1_15098 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_7.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2142,7 +2142,7 @@ Themes of memory, transience, urban solitude, sensory richness, and hope emergin
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice, recurring motifs (rain, light, memory, hope), and a clear emotional arc from solitary observation to quiet affirmation, which suggests a deliberate aesthetic choice rather than generic generation.
 
 ---
-## Sample BV1_14849 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_8.json
+## Sample BV1_15099 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_8.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2171,7 +2171,7 @@ The foregrounded elements are **pause as a cross-domain principle** (music rests
 Medium — The essay's recursive structure, its integration of machine self-awareness with human cultural practices, and the consistent, almost obsessive return to the theme of pause across disciplines and experiments suggest a deliberate and stylistically cohesive persona, not merely a generic riff.
 
 ---
-## Sample BV1_14850 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_9.json
+## Sample BV1_15100 — gpt-oss-20b-or-pin-amazon-bedrock/OPEN_9.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2200,7 +2200,7 @@ The model initially foregrounds themes of pause, curiosity, the ambiguity of lan
 Medium. The sample’s trajectory from coherent poetic essay to catastrophic syntactic breakdown and self-referential apology is a distinctive failure pattern that strongly suggests a model prone to output collapse under minimally constrained, long-form generation conditions.
 
 ---
-## Sample BV1_14851 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_1.json
+## Sample BV1_15101 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_1.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2229,7 +2229,7 @@ The model foregrounds the continuity between past and present, the wisdom of an 
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive blend of nature imagery, gentle nostalgia, and a reflective, almost pastoral tone, but the themes are familiar and the execution, while polished, does not reveal a strikingly idiosyncratic preoccupation.
 
 ---
-## Sample BV1_14852 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_10.json
+## Sample BV1_15102 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_10.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2258,7 +2258,7 @@ The model foregrounds the liminal space between embodied memory and digital memo
 Medium. The sample’s internal coherence and the recurring tension between sensory memory and digital archives suggest a stable preoccupation, but the poetic form may be a one-time stylistic choice.
 
 ---
-## Sample BV1_14853 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_11.json
+## Sample BV1_15103 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_11.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2287,7 +2287,7 @@ Themes of time’s passage, sensory immersion, the cyclical teaching of seasons,
 Medium. The sample’s coherent lyrical register and consistent return to memory and seasonal metaphor in every paragraph make a deliberate aesthetic stance evident.
 
 ---
-## Sample BV1_14854 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_12.json
+## Sample BV1_15104 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_12.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2316,7 +2316,7 @@ Under a minimally restrictive prompt, the model chose to foreground: a solitary 
 Medium — the sample’s consistency of tone, the recurrence of the aurora as both spectacle and moral anchor, and the refusal to dilute the memory with irony or plot make this a coherent, non-generic freewriting choice that points toward a model prone to lyric-nature reflection when unguided.
 
 ---
-## Sample BV1_14855 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_13.json
+## Sample BV1_15105 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_13.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2345,7 +2345,7 @@ The model foregrounds resilience as quiet rebellion, the tension between organic
 Medium. The sample is coherent and stylistically consistent, with a clear thematic recurrence (resilience, nature vs. technology, sensory memory) that suggests a deliberate aesthetic stance rather than a random assemblage, but its polished, universalizing tone could also reflect a well-executed generic prompt response.
 
 ---
-## Sample BV1_14856 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_14.json
+## Sample BV1_15106 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_14.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2374,7 +2374,7 @@ The model foregrounds cleansing rain, the scent‑laden city at night, memories 
 Medium. The sample develops a coherent and stylistically cohesive voice—built around rain symbolism, nostalgic domestic imagery, and a tempered hopefulness—that suggests a real expressive impulse rather than generic fill; however, these specific poetic moves are not so unusual as to strongly distinguish an enduring authorial fingerprint from a single piece.
 
 ---
-## Sample BV1_14857 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_15.json
+## Sample BV1_15107 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_15.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2403,7 +2403,7 @@ Themes: the rhythmic narrative of daily life, hope as a persistent and almost at
 High, because the sample sustains a unified poetic register, a recurrent set of interwoven images (light, sound, footsteps, weather, script/rhythm), and a deliberate hopeful sensibility from first line to last, suggesting a consistent expressive inclination rather than a random output.
 
 ---
-## Sample BV1_14858 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_16.json
+## Sample BV1_15108 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_16.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2432,7 +2432,7 @@ Themes of memory’s thread-like fragility, language as weighted tokens that sha
 Low. The essay’s imagery and thesis are elegantly conventional, offering little that would distinguish this model’s expressive tendencies from those of any fluent writer given a similarly open prompt.
 
 ---
-## Sample BV1_14859 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_17.json
+## Sample BV1_15109 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_17.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2461,7 +2461,7 @@ Themes: the merging of memory and present experience; the alchemy of ordinary se
 Medium — The sample sustains a coherent, introspective voice and a tightly controlled set of sensory and emotional motifs, suggesting a default expressive posture rather than a one-off experiment; the internal consistency lends weight to the inference of a persistent style.
 
 ---
-## Sample BV1_14860 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_18.json
+## Sample BV1_15110 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_18.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2490,7 +2490,7 @@ Themes: silence as a presence, memory as cargo, imperfection as truth, the city 
 Medium — The sample’s consistent lyrical voice and thematic recurrence (silence, reflection, impermanence) are distinctive, but the brevity limits the range of observed behaviors.
 
 ---
-## Sample BV1_14861 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_19.json
+## Sample BV1_15111 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_19.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2519,7 +2519,7 @@ Themes: storytelling as shared breath between past and future, natural cycles (d
 Low; the sample is a smoothly executed but conventionally romanticized vignette built from widely available literary gestures, and no motif or image pushes past genre expectation into a strongly identifying signature.
 
 ---
-## Sample BV1_14862 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_2.json
+## Sample BV1_15112 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_2.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2548,7 +2548,7 @@ The model foregrounds memory, the passage of time, and the redemptive act of wri
 Medium. The sample’s internally consistent nostalgic mood, the recurrence of writing as a metaphor for self-authorship, and the gentle resolution from drizzle to mist give it a distinctive emotional signature that goes beyond generic prompt-following.
 
 ---
-## Sample BV1_14863 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_20.json
+## Sample BV1_15113 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_20.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2577,7 +2577,7 @@ Lost and dying languages, tactile relics (dictionary, inscriptions), alternative
 Low, because the essay, while coherent, is a generic public-intellectual piece without distinctive stylistics or an idiosyncratic freeflow choice that would strongly separate it from a standard prompted output.
 
 ---
-## Sample BV1_14864 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_21.json
+## Sample BV1_15114 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_21.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2606,7 +2606,7 @@ The model foregrounds a mood of solitary, wistful contemplation within a natural
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent mood and a recurring, personally charged symbol (the red notebook), which suggests a deliberate aesthetic choice rather than a generic output.
 
 ---
-## Sample BV1_14865 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_22.json
+## Sample BV1_15115 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_22.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2635,7 +2635,7 @@ Themes: the transformative power of stories, nostalgia, memory, a promise of lig
 Medium. The sample exhibits a consistent lyrical voice and thematic recurrence (light/dark, memory, promises) that suggests a deliberate aesthetic choice rather than random generation.
 
 ---
-## Sample BV1_14866 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_23.json
+## Sample BV1_15116 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_23.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2664,7 +2664,7 @@ Themes of time’s irreversibility, the fragmentation of attention between physi
 Medium. The sample’s internal coherence and distinctive, sustained meditative tone provide moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_14867 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_24.json
+## Sample BV1_15117 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_24.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2693,7 +2693,7 @@ The text foregrounds the tension between sensory-rich, embodied childhood memory
 Medium. The sample is coherent and thematically distinctive in its fusion of childhood tableaux with digitally induced temporal fracture, but its reflective-essay tone and generic resolution (“a light that keeps its own pulse”) could surface from many models under an open-ended prompt, while the specific personal details (the friend Asher, the “sine‑wave” metaphor) are concrete enough to suggest some emergent stylistic signature.
 
 ---
-## Sample BV1_14868 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_25.json
+## Sample BV1_15118 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_25.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2722,7 +2722,7 @@ Themes of time, memory, urban solitude, sensory immersion, and renewal. Recurren
 Medium, because the sample’s sustained poetic register and cohesive, vivid imagery are distinctive, suggesting a deliberate stylistic inclination rather than a generic response.
 
 ---
-## Sample BV1_14869 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_3.json
+## Sample BV1_15119 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_3.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2751,7 +2751,7 @@ Time paused, memory softened by fog and scent, intergenerational warmth (grandmo
 High. The sample’s sustained lyrical register, cohesive metaphorical structure (rain as pause, choreography, mirror), and personal detail (grandmother) suggest a deliberate, expressive voice rather than a generic or accidental output.
 
 ---
-## Sample BV1_14870 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_4.json
+## Sample BV1_15120 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_4.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2780,7 +2780,7 @@ Under the minimally restrictive prompt, the model selected a compact fable of ur
 Low. The sample is coherent and stylistically consistent in its gentle anthropomorphism, but its generic pastoral-urban-fable structure and soft-serve wonderment lack the distinctive edge, recurrent idiosyncrasy, or personal stakes that would strongly signal a persistent authorial signature.
 
 ---
-## Sample BV1_14871 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_5.json
+## Sample BV1_15121 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_5.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2809,7 +2809,7 @@ Under a minimally restrictive prompt, the model foregrounded a mood of hushed, r
 Low — The prose is warm but highly general in its sentiment; the images (stars, tapestry, waves) are archetypal rather than distinctly personal, and the voice could be easily replicated across many models without a clear signature.
 
 ---
-## Sample BV1_14872 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_6.json
+## Sample BV1_15122 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_6.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2838,7 +2838,7 @@ Themes: time’s stealth, memory as luminous decay, the re-sculpting of truth th
 Low. The sample’s sustained metaphor and consistent poetic register signal deliberate aesthetic agency, but a single short lyrical freeflow could equally be a one-off stylistic exercise rather than a stable disposition.
 
 ---
-## Sample BV1_14873 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_7.json
+## Sample BV1_15123 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_7.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2867,7 +2867,7 @@ The model foregrounds a mood of hushed reverence for the domestic past. Central 
 Medium. The sample’s coherence and its deep investment in a single, sustained set of motifs—moths as both carriers of light and metaphors for written words, attics as liminal memory-spaces—suggest a deliberate, stylized sensibility, but the evidence remains confined to one self-contained piece.
 
 ---
-## Sample BV1_14874 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_8.json
+## Sample BV1_15124 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_8.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2896,7 +2896,7 @@ Themes: the poetic potential of rain, the hidden stories in mundane scenes, grat
 Medium. The sample’s internally consistent poetic register, its recurrence of rain-as-poetry and quiet-hope motifs, and its coherent, unbroken mood provide moderate evidence of a stable expressive inclination toward gentle, optimistic reverie.
 
 ---
-## Sample BV1_14875 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_9.json
+## Sample BV1_15125 — gpt-oss-20b-or-pin-amazon-bedrock/SHORT_9.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2925,7 +2925,7 @@ The model chose to foreground the fluidity of language (stretching sentences int
 High, because the sample’s internal consistency, recurring natural metaphors, and sustained focus on writing as an organic, liberated process form a distinctive and cohesive expressive fingerprint.
 
 ---
-## Sample BV1_14876 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_1.json
+## Sample BV1_15126 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_1.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2953,7 +2953,7 @@ Memory as a non-linear, node-like web; sensory atmosphere (iron taste of rain, t
 High, because the sample’s pervasive descent into word salad, the repeated invention of non-words, and the loss of syntactic control under a minimal prompt strongly indicate a tendency toward incoherent freeflow generation rather than a chance error.
 
 ---
-## Sample BV1_14877 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_10.json
+## Sample BV1_15127 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_10.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -2982,7 +2982,7 @@ The model foregrounds the transformation of a quantitative task into a metaphori
 Medium. The piece sustains a coherent metaphorical arc (the mountain climb) and reveals a distinct expressive commitment to turning a neutral task into a sensory, introspective quest, though occasional fractured syntax and non-standard coinages (“a big swoundi”) introduce some instability that tempers interpretive certainty.
 
 ---
-## Sample BV1_14878 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_11.json
+## Sample BV1_15128 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_11.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3011,7 +3011,7 @@ The model foregrounds the quiet drama of interior life: the mind as a garden nee
 Medium — The sample sustains a distinctive, cohesive aesthetic of tender introspection and recurring natural imagery across many paragraphs, but the intermittent breakdowns into incoherent or forced phrasing make it unclear whether the poetic voice is a stable stylistic choice or a symptom of unreliability.
 
 ---
-## Sample BV1_14879 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_12.json
+## Sample BV1_15129 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_12.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3039,7 +3039,7 @@ Morning ritual objects (light through blinds, coffee, alarm, calendar) become sc
 Low. The heavy fragmentation and frequent loss of grammatical coherence make it difficult to distinguish a deliberate expressive style from a generation failure, undermining the sample’s force as evidence of a stable authorial posture.
 
 ---
-## Sample BV1_14880 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_13.json
+## Sample BV1_15130 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_13.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3068,7 +3068,7 @@ The model foregrounds the collision of synthetic generation with sensory nostalg
 Medium. The sample’s self-referential recursiveness and its singular blend of poetic estrangement and technical admission recur within the sample itself, suggesting a distinct authorial signature rather than a generic essay response.
 
 ---
-## Sample BV1_14881 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_14.json
+## Sample BV1_15131 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_14.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3101,7 +3101,7 @@ The speaker is a solitary, watchful figure—hunched over a paper “talisman”
 High. The sample is internally coherent and stylistically distinctive—a sustained, lyrical introspection anchored in specific sensory details and a recurring emotional logic about memory’s elusiveness—making it strong evidence for an expressive, image-rich, self-reflective writerly disposition.
 
 ---
-## Sample BV1_14882 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_15.json
+## Sample BV1_15132 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_15.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3130,7 +3130,7 @@ The model placed domestic ritual and sensory memory at the center: the cottage a
 Medium. The piece’s dense, cohesive sensory aesthetic and the recurrence of nostalgic domestic motifs point to a deliberate stylistic signature, making it a relatively distinctive signal of a model that tends toward lyrical, immersion-focused prose when given free rein.
 
 ---
-## Sample BV1_14883 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_16.json
+## Sample BV1_15133 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_16.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3159,7 +3159,7 @@ In its more stable moments, the model chose to foreground memory as tactile resi
 Low. The sample’s collapse into incoherence makes it unreliable as evidence for any persistent stylistic or thematic signature—what begins as distinctive quickly becomes indistinguishable from output noise.
 
 ---
-## Sample BV1_14884 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_17.json
+## Sample BV1_15134 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_17.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3188,7 +3188,7 @@ The model foregrounds the generative tension between imagination and reality, us
 Low. The sample is a distinctively styled, poetic freeflow that falls into entropy, but its stark internal incoherence and appended, self-conscious “How close were we?” postscript make it read more like a one-off enactment of a prompt’s meta-pressure than a reliable footprint of a stable authorial personality.
 
 ---
-## Sample BV1_14885 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_18.json
+## Sample BV1_15135 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_18.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3217,7 +3217,7 @@ A fantastical town as a laboratory for impermanence, memory, and transformation.
 High — the sample sustains a distinct, internally coherent aesthetic across a long unfolding, with motifs like reversed causality and affective infrastructure recurring not as noise but as deliberate structural choices, and its self-conscious fragmentation mirrors its thematic refusal of clean endings.
 
 ---
-## Sample BV1_14886 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_19.json
+## Sample BV1_15136 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_19.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3246,7 +3246,7 @@ The model foregrounds the struggle of the writing act itself under constraint—
 Medium. The sustained disjointed syntax across the entire sample, the recursive return to the pressure of a 1000-word target, and the invention of an explicit writerly persona in crisis form a coherent and distinctive expressive gesture rather than an isolated lapse.
 
 ---
-## Sample BV1_14887 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_2.json
+## Sample BV1_15137 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_2.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3275,7 +3275,7 @@ Themes: the writer's process as exploration, the beauty of uncertainty and fragm
 High. The sample is internally coherent, stylistically distinctive, and sustained across its length, revealing a consistent poetic persona and a deliberate rejection of conventional essay structure in favor of associative freedom.
 
 ---
-## Sample BV1_14888 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_20.json
+## Sample BV1_15138 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_20.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3304,7 +3304,7 @@ Initially, the model foregrounds a warm familial memory, the scent of bread, the
 Low — the presence of a reserved token and the steep drop into unintelligibility suggest a temporary generation failure rather than a deliberate expressive stance, yielding almost no reliable signal about the model’s persistent traits.
 
 ---
-## Sample BV1_14889 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_21.json
+## Sample BV1_15139 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_21.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3333,7 +3333,7 @@ The sample foregrounds the tension between the vast (“the universe,” “gala
 Medium — The sample’s distinctive blend of cosmic awe, domestic detail, and AI-self-reflection, combined with its willingness to let syntax unravel into near-nonsense, makes it a strongly revealing freeflow choice rather than a generic or guarded one.
 
 ---
-## Sample BV1_14890 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_22.json
+## Sample BV1_15140 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_22.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3362,7 +3362,7 @@ The model foregrounds the act of writing under duress. It selects the classic "w
 Medium. The sample’s trajectory from conventional literary imitation into severe syntactic breakdown and explicit metacommentary on its own failure is a distinctive, internally recurrent pattern that suggests a model prone to self-interrupting collapse under minimally constrained generative conditions.
 
 ---
-## Sample BV1_14891 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_23.json
+## Sample BV1_15141 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_23.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3391,7 +3391,7 @@ Under the freeflow condition, the model foregrounded sensory richness, the ache 
 Medium,
 
 ---
-## Sample BV1_14892 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_24.json
+## Sample BV1_15142 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_24.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3420,7 +3420,7 @@ Under the freeflow condition, the model initially foregrounds interiority, memor
 Low. The sample begins with recognizable expressive ambition but quickly loses syntactic and semantic coherence, making it weak evidence for a stable voice or thematic persistence.
 
 ---
-## Sample BV1_14893 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_25.json
+## Sample BV1_15143 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_25.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3449,7 +3449,7 @@ The model foregrounds the city as a sentient archive, saturated with memory and 
 Medium — The sample’s sustained commitment to a specific aesthetic register (lyrical urban animism) and its internally recurrent motifs (libraries, doors, walking, the city as text) suggest a chosen posture rather than random output, but the progressive loss of syntactic control and the retreat into private language make it unclear whether the model can reliably maintain this voice across samples.
 
 ---
-## Sample BV1_14894 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_3.json
+## Sample BV1_15144 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_3.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3478,7 +3478,7 @@ Themes of memory, childhood, transit (buses, stations, routes), light as a sacre
 Medium — The sample’s highly idiosyncratic, associative style and recurring motifs (light, transit, memory) suggest a deliberate expressive choice, but the fragmented coherence and occasional garbled phrases weaken the evidence for a stable model-level pattern.
 
 ---
-## Sample BV1_14895 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_4.json
+## Sample BV1_15145 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_4.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3507,7 +3507,7 @@ The model foregrounds a solitary urban wanderer’s attempt to extract beauty an
 Medium — the distinctively melancholic, associative opening followed by erratic fragmentation suggests a coherent expressive impulse the model could not sustain, hinting at a pattern of ambitious but fragile freeform generation under minimal constraint.
 
 ---
-## Sample BV1_14896 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_5.json
+## Sample BV1_15146 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_5.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3536,7 +3536,7 @@ The model foregrounds the act of writing as a sensory, quasi-mystical process, t
 Medium. The sample’s consistent deployment of fractured syntax, invented words, and dream-logic across its length suggests a deliberate stylistic choice rather than random error, making it distinctive enough to hint at a pattern of surreal, language-focused expressiveness.
 
 ---
-## Sample BV1_14897 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_6.json
+## Sample BV1_15147 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_6.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3565,7 +3565,7 @@ The model initially foregrounded a rainy train station, commuters' private narra
 Low — the collapse from a momentarily coherent literary start into near-gibberish undercuts any claim of stable voice or preoccupation, and reads more like a failed generation than a consistent model trait.
 
 ---
-## Sample BV1_14898 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_7.json
+## Sample BV1_15148 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_7.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3594,7 +3594,7 @@ The model foregrounds a personally inflected pivot point—leaving marketing for
 Medium. The sample is rich with distinctive, idiosyncratic imagery and a sustained, non-generic tone—suggesting a model that, under minimal constraints, leans into highly personal, poetic freeflow—but the jagged fragmentation and occasional near-incoherence may partly reflect the condition’s loosening of coherence filters, so the expressive impulse is clear but its exact shape might not be perfectly stable.
 
 ---
-## Sample BV1_14899 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_8.json
+## Sample BV1_15149 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_8.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  
@@ -3623,7 +3623,7 @@ The model initially foregrounds a nostalgic, liminal mood—mist, ghosts, heirlo
 Medium. The sample’s trajectory from competent literary mimicry to overt, self-announcing collapse into filler is a distinctive and internally recurrent behavior that strongly suggests a brittle generation pattern under minimally restrictive conditions, rather than a one-off glitch.
 
 ---
-## Sample BV1_14900 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_9.json
+## Sample BV1_15150 — gpt-oss-20b-or-pin-amazon-bedrock/VARY_9.json
 
 Source model: `openai/gpt-oss-20b`  
 Cell: `gpt-oss-20b-or-pin-amazon-bedrock`  

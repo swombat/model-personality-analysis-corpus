@@ -5,10 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-07-16:** v1.2.13 derived analysis corpus covering 115
-> freeflow personality-card models and 118 values-probe models, built from
-> corpus-v2 v1.2.13. The Kimi K3 card and analysis are complete; its public
-> strapline and banner image remain intentionally pending Lume's editorial pass.
+> **Status — 2026-07-22:** v1.2.14 derived analysis corpus covering 118
+> freeflow personality-card models and 121 layered values-probe models, built
+> from corpus-v2 v1.2.14. Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Inkling
+> have complete freeflow, values, profile, card, strapline, and website coverage.
 >
 > This is a derived analysis corpus for
 > studying model personality and posture across frontier LLMs, built on the

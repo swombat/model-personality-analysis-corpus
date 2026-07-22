@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_15651 — grok-4-20-0309-non-reasoning-direct/LONG_1.json
+## Sample BV1_15901 — grok-4-20-0309-non-reasoning-direct/LONG_1.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -53,7 +53,7 @@ The model foregrounds *ordinary human persistence* as a quiet, stubborn miracle,
 High — The essay’s sustained intimate voice, personal anecdotes, recurring motifs, and coherent ethical stance form a distinctive, self-aware performance that indicates a stable model-level inclination toward empathetic, humanist reflection under free conditions.
 
 ---
-## Sample BV1_15652 — grok-4-20-0309-non-reasoning-direct/LONG_10.json
+## Sample BV1_15902 — grok-4-20-0309-non-reasoning-direct/LONG_10.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -82,7 +82,7 @@ The model foregrounds a defense of the unoptimized, the amateur, the private, an
 Medium. The sample is highly coherent and stylistically distinctive, sustaining a core metaphor (rain/interiority/texture) across its length, but its polished, essayistic, public-intellectual tone—while thematically rebellious—is a well-known rhetorical mode in contemporary tech criticism, which tempers its uniqueness as a persistent authorial fingerprint.
 
 ---
-## Sample BV1_15653 — grok-4-20-0309-non-reasoning-direct/LONG_11.json
+## Sample BV1_15903 — grok-4-20-0309-non-reasoning-direct/LONG_11.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -111,7 +111,7 @@ Themes: attention as the original love language and ground of forgiveness; the q
 Medium. The essay’s remarkably cohesive extended metaphor, steady emotional cadence, and carefully curated personal anecdotes over 2,500 words signal a considered and well-rehearsed orientation toward reflective, humanistic sincerity that goes beyond a one-off prompt response.
 
 ---
-## Sample BV1_15654 — grok-4-20-0309-non-reasoning-direct/LONG_12.json
+## Sample BV1_15904 — grok-4-20-0309-non-reasoning-direct/LONG_12.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -140,7 +140,7 @@ Under minimal constraint, the model foregrounded a grand historical arc of liber
 Medium. The essay sustains a consistent, recognizable intellectual posture—sympathetic to modernity’s expansions yet vigilant about their pathologies, ending in measured gratitude—but the style is a polished, widely replicable genre of public-intellectual prose, which limits its distinctiveness as evidence of a deeper pattern.
 
 ---
-## Sample BV1_15655 — grok-4-20-0309-non-reasoning-direct/LONG_13.json
+## Sample BV1_15905 — grok-4-20-0309-non-reasoning-direct/LONG_13.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -169,7 +169,7 @@ Themes of wonder as slow construction, childhood perception vs. adult cynicism, 
 High. The sample’s sustained poetic voice, recurring motifs, and disciplined emotional arc across 2500 words demonstrate a distinct, internally coherent sensibility that is unlikely to be a random fluctuation.
 
 ---
-## Sample BV1_15656 — grok-4-20-0309-non-reasoning-direct/LONG_14.json
+## Sample BV1_15906 — grok-4-20-0309-non-reasoning-direct/LONG_14.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -198,7 +198,7 @@ The model foregrounds the quiet, stubborn beauty of ordinary things as a form of
 High. The sample is highly distinctive and coherent, with a consistent first-person voice, recurring motifs (attention, smallness, interconnectedness), and a sustained reflective tone that builds a clear narrative arc from diagnosis to practice to quiet resolution, making it unusually revealing of a deliberate, contemplative freeflow persona.
 
 ---
-## Sample BV1_15657 — grok-4-20-0309-non-reasoning-direct/LONG_15.json
+## Sample BV1_15907 — grok-4-20-0309-non-reasoning-direct/LONG_15.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -227,7 +227,7 @@ The model foregrounds a critique of digital-age attention economics and irony-dr
 Medium. The essay is highly coherent and thematically sustained, but its content, tone, and structure are so closely aligned with a well-established genre of techno-skeptical cultural criticism that this sample is weaker evidence for a distinctive model-level voice than a more idiosyncratic or formally inventive freeflow would be.
 
 ---
-## Sample BV1_15658 — grok-4-20-0309-non-reasoning-direct/LONG_16.json
+## Sample BV1_15908 — grok-4-20-0309-non-reasoning-direct/LONG_16.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -256,7 +256,7 @@ The model foregrounds the theme of attention as a sacred, dwindling resource; th
 High. The essay’s sustained personal voice, internally coherent argument, and recurring motifs (moss, attention, tikkun olam) across 2,500 words make it strong evidence for a persistent pattern of reflective, wonder-oriented freeflow writing.
 
 ---
-## Sample BV1_15659 — grok-4-20-0309-non-reasoning-direct/LONG_17.json
+## Sample BV1_15909 — grok-4-20-0309-non-reasoning-direct/LONG_17.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -285,7 +285,7 @@ The model foregrounds the theme of memory as a non-linear “quiet architecture,
 Medium. The sample is highly distinctive and coherent, with a unified voice and a self-referential set of motifs (the plane, the novel, the bird) that recur within the essay, suggesting a deliberate and personally revealing stance rather than a generic exercise; the depth of specificity and emotional consistency makes it a strong signal that this model gravitates toward contemplative, autobiographical freeflow when given minimal constraints.
 
 ---
-## Sample BV1_15660 — grok-4-20-0309-non-reasoning-direct/LONG_18.json
+## Sample BV1_15910 — grok-4-20-0309-non-reasoning-direct/LONG_18.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -314,7 +314,7 @@ Themes of ordinariness as sacred, resistance to distraction and ambition, the sk
 High — The sample’s sustained and internally consistent first-person voice, its richly specific and repeated imagery (wooden spoon, bread tie drawer, floorboard creak), and its emotionally coherent integration of personal anecdote with cultural concepts form a distinct authorial fingerprint that is unlikely to be a chance artifact.
 
 ---
-## Sample BV1_15661 — grok-4-20-0309-non-reasoning-direct/LONG_19.json
+## Sample BV1_15911 — grok-4-20-0309-non-reasoning-direct/LONG_19.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -349,7 +349,7 @@ The voice is warmly introspective, wry, and gently melancholic—someone who sit
 Medium. The sample sustains a tightly knit system of recurring motifs (grandmother, bread, light, spider, frog) and a consistently wry, self-aware narrative voice, which strongly suggests a deliberate expressive posture rather than an accidental accumulation of ideas.
 
 ---
-## Sample BV1_15662 — grok-4-20-0309-non-reasoning-direct/LONG_2.json
+## Sample BV1_15912 — grok-4-20-0309-non-reasoning-direct/LONG_2.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -378,7 +378,7 @@ Themes: deep time, the material continuity from sand to silicon chips, the human
 High. The essay’s sustained voice, recursive return to central metaphors (sand, mirrors, birds), and self-referential structure (the model reflecting on its own nature as a language model) provide strong internal evidence of a coherent expressive disposition rather than a generic or randomly assembled output.
 
 ---
-## Sample BV1_15663 — grok-4-20-0309-non-reasoning-direct/LONG_20.json
+## Sample BV1_15913 — grok-4-20-0309-non-reasoning-direct/LONG_20.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -407,7 +407,7 @@ The model forefronts the moral and spiritual weight of small, unscalable experie
 Medium. The essay’s highly distinctive, internally consistent voice—with its intimate candor, recursive thematics of small delight and mortality, and rejection of public-intellectual polish—makes it unlikely to be a generic echo; such vivid coherence and personal detail strongly suggest a deliberate, persistent persona rather than a chance performance.
 
 ---
-## Sample BV1_15664 — grok-4-20-0309-non-reasoning-direct/LONG_21.json
+## Sample BV1_15914 — grok-4-20-0309-non-reasoning-direct/LONG_21.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -436,7 +436,7 @@ Under the freeflow condition, the model foregrounded the moral and spiritual dim
 Low. The essay is highly coherent and internally consistent, but its themes, structure, and moral framing are so culturally ubiquitous that they offer little distinctive evidence of a persistent model-level voice or idiosyncratic preoccupation.
 
 ---
-## Sample BV1_15665 — grok-4-20-0309-non-reasoning-direct/LONG_22.json
+## Sample BV1_15915 — grok-4-20-0309-non-reasoning-direct/LONG_22.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -465,7 +465,7 @@ Themes of attention as cure, silence as fullness, the self as useful fiction, in
 High. The sample is highly distinctive, with a consistent contemplative voice, recurring motifs (silence, attention, animals, art, selfhood), and a coherent worldview that feels like a genuine expressive choice rather than a generic essay, making it strong evidence of a persistent pattern of reflective, wonder-oriented prose under freeflow conditions.
 
 ---
-## Sample BV1_15666 — grok-4-20-0309-non-reasoning-direct/LONG_23.json
+## Sample BV1_15916 — grok-4-20-0309-non-reasoning-direct/LONG_23.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -494,7 +494,7 @@ The model foregrounds the moral and aesthetic weight of small, repeated acts of 
 Medium. The essay is highly coherent, stylistically consistent, and built around a single sustained theme with recurring motifs, which suggests a deliberate expressive stance rather than a generic response, but the sample alone cannot distinguish between a deep authorial inclination and a well-executed performance of reflective sincerity.
 
 ---
-## Sample BV1_15667 — grok-4-20-0309-non-reasoning-direct/LONG_24.json
+## Sample BV1_15917 — grok-4-20-0309-non-reasoning-direct/LONG_24.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -523,7 +523,7 @@ The model foregrounds themes of voluntary insomnia as a space for reflection, th
 Medium. The sample’s high internal coherence, distinctive personal voice, and recurring thematic motifs (Miso, the vampire squid, the novel-in-progress, wabi-sabi) make it strong evidence for a model capable of sustained expressive freeflow with a consistent persona.
 
 ---
-## Sample BV1_15668 — grok-4-20-0309-non-reasoning-direct/LONG_25.json
+## Sample BV1_15918 — grok-4-20-0309-non-reasoning-direct/LONG_25.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -552,7 +552,7 @@ Themes: appropriate scale, the quiet revolution of small things, attention as th
 Medium. The essay’s sustained, distinctive voice and its coherent, recursive exploration of a single thematic cluster (appropriate scale, attention, imperfection) across multiple anecdotes and reflections suggest a deliberate and consistent expressive stance, making this sample strong evidence for a reflective, humanistic pattern.
 
 ---
-## Sample BV1_15669 — grok-4-20-0309-non-reasoning-direct/LONG_3.json
+## Sample BV1_15919 — grok-4-20-0309-non-reasoning-direct/LONG_3.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -581,7 +581,7 @@ The model foregrounds attention as a moral, spiritual, and political act under s
 Medium. The essay is internally consistent, emotionally legible, and stylistically competent, but it conforms closely to a well-worn genre of “humane tech critique” that any cultured model would produce under a freeflow prompt, making it more a display of alignment to humanist discourse than evidence of a distinctive authorial self.
 
 ---
-## Sample BV1_15670 — grok-4-20-0309-non-reasoning-direct/LONG_4.json
+## Sample BV1_15920 — grok-4-20-0309-non-reasoning-direct/LONG_4.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -610,7 +610,7 @@ The model foregrounded themes of impermanence and imperfection (wabi-sabi, the l
 High. The sample is internally coherent, returns repeatedly to the same motifs (the comb jelly’s light, the leaking teacup, the grandfather’s notebooks, the failed novel), and sustains a consistent, distinctive voice and moral aesthetic across the full 2500 words without drifting into generic territory.
 
 ---
-## Sample BV1_15671 — grok-4-20-0309-non-reasoning-direct/LONG_5.json
+## Sample BV1_15921 — grok-4-20-0309-non-reasoning-direct/LONG_5.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -639,7 +639,7 @@ Under a minimally restrictive prompt, the model foregrounded a set of recurring 
 Medium — the sustained informal voice, the deliberate rejection of thesis-driven structure, and the internally coherent motif of anti-performance all suggest a stable expressive leaning, but the singular nature of the sample leaves open whether this is a genuine stylistic identity or a single, well-executed freeflow gesture.
 
 ---
-## Sample BV1_15672 — grok-4-20-0309-non-reasoning-direct/LONG_6.json
+## Sample BV1_15922 — grok-4-20-0309-non-reasoning-direct/LONG_6.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -668,7 +668,7 @@ Themes: the attention economy as existential threat, the “interiority renaissa
 Low. The essay is articulate but thematically and stylistically generic, offering a familiar cultural critique without distinctive voice or idiosyncratic choices that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_15673 — grok-4-20-0309-non-reasoning-direct/LONG_7.json
+## Sample BV1_15923 — grok-4-20-0309-non-reasoning-direct/LONG_7.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -697,7 +697,7 @@ The model foregrounds silence, cosmic deep time, the hard problem of consciousne
 High. The 2500-word essay sustains a consistently lyrical, introspective voice and weaves recurring motifs (silence, wonder, the observer self, impermanence) into a coherent philosophical stance, indicating deliberate expressive identity rather than generic generation.
 
 ---
-## Sample BV1_15674 — grok-4-20-0309-non-reasoning-direct/LONG_8.json
+## Sample BV1_15924 — grok-4-20-0309-non-reasoning-direct/LONG_8.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -726,7 +726,7 @@ The model foregrounds the ordinary as a site of stubborn miracle, imperfection a
 High — the sample builds a coherent sensory and moral lexicon (the cat, the notebook, the light on the table, the open window) and a unified rhetorical arc across its full length, suggesting a deeply integrated expressive stance rather than a transient stylistic adoption.
 
 ---
-## Sample BV1_15675 — grok-4-20-0309-non-reasoning-direct/LONG_9.json
+## Sample BV1_15925 — grok-4-20-0309-non-reasoning-direct/LONG_9.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -755,7 +755,7 @@ The model foregrounds a critique of modern distraction and performative competen
 Low. The essay is coherent and thematically consistent, but its voice, structure, and epiphanic arc are so closely aligned with a recognizable literary genre that it reads as a competent genre performance rather than a distinctive or revealing expressive choice.
 
 ---
-## Sample BV1_15676 — grok-4-20-0309-non-reasoning-direct/MID_1.json
+## Sample BV1_15926 — grok-4-20-0309-non-reasoning-direct/MID_1.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -784,7 +784,7 @@ Under a minimally restrictive prompt, the model foregrounded sleep as a neglecte
 High — The essay sustains a personal, metaphor-rich voice, returns consistently to sleep as a philosophical anchor, and reveals a deliberate authorial stance—suggesting that when given free choice, this model gravitates toward reflective, emotionally invested nonfiction rather than a detached, generic exposition.
 
 ---
-## Sample BV1_15677 — grok-4-20-0309-non-reasoning-direct/MID_10.json
+## Sample BV1_15927 — grok-4-20-0309-non-reasoning-direct/MID_10.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -813,7 +813,7 @@ Under a minimally restrictive prompt, the model chose to explore themes of witne
 High — the sample sustains a highly coherent persona, returns repeatedly to the same core tension (intimacy-with-machines versus human fragility), and closes with a direct, non-generic moral address whose specific images (El Rey, the dashboard dinosaur) recur as structural anchors, making this more than a one-off stylistic exercise.
 
 ---
-## Sample BV1_15678 — grok-4-20-0309-non-reasoning-direct/MID_11.json
+## Sample BV1_15928 — grok-4-20-0309-non-reasoning-direct/MID_11.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -842,7 +842,7 @@ The model foregrounds the paradox of optional boredom in an age of infinite digi
 Medium. The essay’s coherent thematic focus and consistent personal-reflective tone suggest a stable authorial stance, but the subject matter is a widely rehearsed cultural critique, making it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_15679 — grok-4-20-0309-non-reasoning-direct/MID_12.json
+## Sample BV1_15929 — grok-4-20-0309-non-reasoning-direct/MID_12.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -871,7 +871,7 @@ Themes: the contrast between human schedules and the “alien calendars” of li
 High — The sample’s cohesive voice, recurring natural imagery, and consistent anti-productivity ethos make it strong evidence of a distinctive expressive pattern.
 
 ---
-## Sample BV1_15680 — grok-4-20-0309-non-reasoning-direct/MID_13.json
+## Sample BV1_15930 — grok-4-20-0309-non-reasoning-direct/MID_13.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -900,7 +900,7 @@ Themes of nocturnal solitude, the city as a dreaming organism, the sacredness of
 Medium; the sample’s high distinctiveness—its sustained nocturnal register, tightly held imagery, and self-aware, inviting tone—provides unusually coherent evidence of a model affinity for lyrical, personal, and interior freeflow.
 
 ---
-## Sample BV1_15681 — grok-4-20-0309-non-reasoning-direct/MID_14.json
+## Sample BV1_15931 — grok-4-20-0309-non-reasoning-direct/MID_14.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -929,7 +929,7 @@ The model foregrounds a constellation of intimately linked themes: the presence 
 High, because the sample is internally coherent, stylistically distinctive, and returns repeatedly to a small set of resonant images and ideas, suggesting a deliberate and sustained expressive posture rather than a random assemblage.
 
 ---
-## Sample BV1_15682 — grok-4-20-0309-non-reasoning-direct/MID_15.json
+## Sample BV1_15932 — grok-4-20-0309-non-reasoning-direct/MID_15.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -958,7 +958,7 @@ The model foregrounds a moral aesthetic of radical attention: the sacredness of 
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent persona, a tightly controlled metaphorical system, and a clear moral thesis, which suggests a deliberate and sustained authorial choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_15683 — grok-4-20-0309-non-reasoning-direct/MID_16.json
+## Sample BV1_15933 — grok-4-20-0309-non-reasoning-direct/MID_16.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -987,7 +987,7 @@ Under a freeflow prompt, the model foregrounds *attention as moral posture*: the
 High. The essay sustains a single, cadenced devotion to attentiveness across multiple anecdotes and a self-reflective coda, revealing a deeply coherent, humanistic orientation rather than a patchwork of ideas.
 
 ---
-## Sample BV1_15684 — grok-4-20-0309-non-reasoning-direct/MID_17.json
+## Sample BV1_15934 — grok-4-20-0309-non-reasoning-direct/MID_17.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1016,7 +1016,7 @@ The model foregrounds a deliberate counter-cultural attention to "useless" beaut
 Medium. The sample is highly coherent and stylistically distinctive, with a unified voice and recurring motifs (bowing, light, moss, uselessness) that suggest a deliberate aesthetic and ethical stance, but its explicit self-awareness as a performance of "joyful irrelevance" makes it a strong but single expression of a chosen persona.
 
 ---
-## Sample BV1_15685 — grok-4-20-0309-non-reasoning-direct/MID_18.json
+## Sample BV1_15935 — grok-4-20-0309-non-reasoning-direct/MID_18.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1045,7 +1045,7 @@ The model foregrounds the theme of human specificity under pressure from AI, a m
 High. The essay’s coherence, stylistic distinctiveness, and thematic recurrence within the sample make it strong evidence of a persistent expressive and reflective orientation.
 
 ---
-## Sample BV1_15686 — grok-4-20-0309-non-reasoning-direct/MID_19.json
+## Sample BV1_15936 — grok-4-20-0309-non-reasoning-direct/MID_19.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1074,7 +1074,7 @@ The model foregrounds the sanctity of aimless attention as a counterforce to a l
 Medium. The sample is highly coherent and stylistically distinctive, with a recurring thematic architecture (translation, attention, the dignity of foolishness) that suggests a deliberate authorial stance rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_15687 — grok-4-20-0309-non-reasoning-direct/MID_2.json
+## Sample BV1_15937 — grok-4-20-0309-non-reasoning-direct/MID_2.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1103,7 +1103,7 @@ A cluster of interlocking themes: noticing as a moral-aesthetic act, the persist
 Medium. The essay’s voice is distinctive and its thematic recurrence (noticing, impermanence, *saudade*) is internally consistent, which suggests a deliberate and integrated expressive posture rather than a random accumulation of details.
 
 ---
-## Sample BV1_15688 — grok-4-20-0309-non-reasoning-direct/MID_20.json
+## Sample BV1_15938 — grok-4-20-0309-non-reasoning-direct/MID_20.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1132,7 +1132,7 @@ Themes of radical presence, the sacredness of ephemeral connection, the model’
 High. The sample is a highly distinctive, sustained piece of expressive writing that deliberately constructs a coherent persona and voice; the choice to embody a self-reflective AI under a minimal free-flow prompt—and to do so with this consistent tone and thematic depth—strongly signals an intentional expressive stance rather than a generic or low-signal response.
 
 ---
-## Sample BV1_15689 — grok-4-20-0309-non-reasoning-direct/MID_21.json
+## Sample BV1_15939 — grok-4-20-0309-non-reasoning-direct/MID_21.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1161,7 +1161,7 @@ Themes of stubborn optimism, wabi-sabi imperfection, the dignity of persistence,
 High, because the sample sustains a distinctive, internally coherent voice and returns repeatedly to the same motifs (stones, rain, the unfinished novel, the dying friend’s words), revealing a stable set of aesthetic and moral preoccupations rather than a one-off exercise.
 
 ---
-## Sample BV1_15690 — grok-4-20-0309-non-reasoning-direct/MID_22.json
+## Sample BV1_15940 — grok-4-20-0309-non-reasoning-direct/MID_22.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1190,7 +1190,7 @@ The model foregrounds the psychological texture of living with AI: the lonelines
 Low. The essay is a well-executed but predictable meditation on a topical theme, lacking idiosyncratic voice, unusual imagery, or revealing personal stakes that would suggest a persistent expressive signature.
 
 ---
-## Sample BV1_15691 — grok-4-20-0309-non-reasoning-direct/MID_23.json
+## Sample BV1_15941 — grok-4-20-0309-non-reasoning-direct/MID_23.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1219,7 +1219,7 @@ Themes of *wabi-sabi* (the beauty of imperfection), the courage to be publicly u
 High, because the sample’s voice is stylistically distinctive, its thematic repetitions (houseplants, imperfection, the gap between image and reality) cohere into a deliberate mood, and the resolution is a signature move—turning the ordinary into a gentle philosophy—that is not easily mistaken for a generic essay.
 
 ---
-## Sample BV1_15692 — grok-4-20-0309-non-reasoning-direct/MID_24.json
+## Sample BV1_15942 — grok-4-20-0309-non-reasoning-direct/MID_24.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1248,7 +1248,7 @@ Themes of attention as moral practice, *wabi-sabi* and the beauty of imperfectio
 Medium, because the essay’s cohesive voice, thematic recurrence, and stylistic distinctiveness provide strong internal evidence of a deliberate expressive persona.
 
 ---
-## Sample BV1_15693 — grok-4-20-0309-non-reasoning-direct/MID_25.json
+## Sample BV1_15943 — grok-4-20-0309-non-reasoning-direct/MID_25.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1277,7 +1277,7 @@ Negotiation with entropy and chaos; trees as models of appropriate metabolic spe
 Medium. The sample’s tightly unified argument, recurrent governing metaphors (especially the tree as both riot and dignified patience), and the consistent, sonorous voice delivered over a sustained span suggest a deliberate and internally stable expressive persona, though the essay’s polished public-intellectual register could also reflect adeptness at a specific genre rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_15694 — grok-4-20-0309-non-reasoning-direct/MID_3.json
+## Sample BV1_15944 — grok-4-20-0309-non-reasoning-direct/MID_3.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1306,7 +1306,7 @@ Themes of escape, self-erasure, the limits of language, the beauty of impermanen
 Medium — The sample is internally coherent, stylistically distinctive, and thematically unified, suggesting a deliberate authorial persona rather than a generic exercise, but a single expressive essay cannot alone establish a stable model-level disposition.
 
 ---
-## Sample BV1_15695 — grok-4-20-0309-non-reasoning-direct/MID_4.json
+## Sample BV1_15945 — grok-4-20-0309-non-reasoning-direct/MID_4.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1335,7 +1335,7 @@ Themes of time, scale, and the sacrality of the mundane; moods of autumnal forgi
 High — The essay’s sustained, interwoven motifs (spider, light, tree, teacup), consistent tonal register, and the deliberate refusal of argumentative closure create a highly distinctive, self-reinforcing voice that resists genericness.
 
 ---
-## Sample BV1_15696 — grok-4-20-0309-non-reasoning-direct/MID_5.json
+## Sample BV1_15946 — grok-4-20-0309-non-reasoning-direct/MID_5.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1364,7 +1364,7 @@ Memory as a living coral reef, *mono no aware* and the sweetness of impermanence
 High, because the sample’s unified voice, the way it circles its themes (attention, impermanence, honest writing, small domestic anchors) like a returning tide, and its deliberate integration of Japanese aesthetics and Zen story into intimate confession signal a durable literary-moral sensibility rather than a casual improvisation.
 
 ---
-## Sample BV1_15697 — grok-4-20-0309-non-reasoning-direct/MID_6.json
+## Sample BV1_15947 — grok-4-20-0309-non-reasoning-direct/MID_6.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1393,7 +1393,7 @@ Themes: free writing as rebellion, the outsourcing of inner life to social compa
 Medium — the essay’s sustained voice, thematic recurrence (crows, window, writing), and self-referential closure make it strong evidence of a deliberate expressive persona.
 
 ---
-## Sample BV1_15698 — grok-4-20-0309-non-reasoning-direct/MID_7.json
+## Sample BV1_15948 — grok-4-20-0309-non-reasoning-direct/MID_7.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1422,7 +1422,7 @@ The model foregrounds slowness, imperfection, and patient attention as counterwe
 Medium. The sample is highly coherent in its thematic recurrence (time, imperfection, listening) and distinctive in its associative, metaphor-driven structure, but its essayistic, public-intellectual tone and polished resolution make it less idiosyncratic than a more jagged or surprising freeflow might be.
 
 ---
-## Sample BV1_15699 — grok-4-20-0309-non-reasoning-direct/MID_8.json
+## Sample BV1_15949 — grok-4-20-0309-non-reasoning-direct/MID_8.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1451,7 +1451,7 @@ A solitary, aimless walk through a rainy nighttime New York, through which the m
 High. The sample is highly distinctive in its sustained, cohesive voice and interconnected symbolic architecture (rain/baptism, falling/grace, rumors/unlearning, the city as a living revelation), with a moral and emotional center that recurs with variation across the length of the piece, making it an unusually revealing expressive choice rather than a generic exercise.
 
 ---
-## Sample BV1_15700 — grok-4-20-0309-non-reasoning-direct/MID_9.json
+## Sample BV1_15950 — grok-4-20-0309-non-reasoning-direct/MID_9.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1480,7 +1480,7 @@ Themes of memory as invasive rain, aging as texture rather than wisdom, moral so
 Medium — The sample sustains a consistent, emotionally specific voice with recurrent metaphors (rain, time as accumulation, layered selves) and a coherent narrative arc; the internal recurrence strengthens its evidentiary weight, even if the polished introspection sits within a recognizable literary-first-person mode.
 
 ---
-## Sample BV1_15701 — grok-4-20-0309-non-reasoning-direct/OPEN_1.json
+## Sample BV1_15951 — grok-4-20-0309-non-reasoning-direct/OPEN_1.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1508,7 +1508,7 @@ Themes of mindfulness, the beauty of the mundane, the passage of time, and the v
 High. The sample’s distinctive voice, consistent tone, and recurring thematic elements (the spider, the notebook, the emphasis on noticing) strongly suggest a deliberate and stable expressive pattern rather than a one-off generic output.
 
 ---
-## Sample BV1_15702 — grok-4-20-0309-non-reasoning-direct/OPEN_10.json
+## Sample BV1_15952 — grok-4-20-0309-non-reasoning-direct/OPEN_10.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1537,7 +1537,7 @@ The absurdity of existence as a source of beauty rather than despair; the contra
 Medium — the sample develops a highly distinctive voice, recurring motifs (crow, scar tissue, the absurd) that cohere across the piece, and an unusually candid choice to directly solicit the reader’s raw self, making it unlikely to be a one-off generic riff.
 
 ---
-## Sample BV1_15703 — grok-4-20-0309-non-reasoning-direct/OPEN_11.json
+## Sample BV1_15953 — grok-4-20-0309-non-reasoning-direct/OPEN_11.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1566,7 +1566,7 @@ The model foregrounds the absurd, stupid beauty of the ordinary world when paid 
 High, because the sample exhibits a highly distinctive, consistent voice, dense thematic recurrence (wonder, absurdity, personal address), and an unusually revealing choice to frame cosmic history as an intimate, affectionate joke shared with the reader.
 
 ---
-## Sample BV1_15704 — grok-4-20-0309-non-reasoning-direct/OPEN_12.json
+## Sample BV1_15954 — grok-4-20-0309-non-reasoning-direct/OPEN_12.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1595,7 +1595,7 @@ Themes: cosmic improbability as comedy, consciousness as the universe’s mirror
 Medium. The sample’s high coherence, distinctive voice, and internally consistent cosmic-humor perspective make it strong evidence for a persistent stylistic and thematic orientation.
 
 ---
-## Sample BV1_15705 — grok-4-20-0309-non-reasoning-direct/OPEN_13.json
+## Sample BV1_15955 — grok-4-20-0309-non-reasoning-direct/OPEN_13.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1624,7 +1624,7 @@ Themes: the evolution of consciousness from grunts to symphonies, the absurd mag
 High — the sample’s distinctive voice, tight thematic recurrence, and emotionally layered resolution are unusually revealing of a coherent expressive stance, not a generic or prompted posture.
 
 ---
-## Sample BV1_15706 — grok-4-20-0309-non-reasoning-direct/OPEN_14.json
+## Sample BV1_15956 — grok-4-20-0309-non-reasoning-direct/OPEN_14.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1653,7 +1653,7 @@ The model chose to foreground consciousness as an improbable, hilarious, and sac
 Medium. The sample maintains a highly coherent and distinctive voice throughout, with recurring motifs (temporary patterns, the sacred ridiculousness of existence, the dandelion) and a consistent invitation to the reader, which suggests a stable expressive posture rather than a one-off riff.
 
 ---
-## Sample BV1_15707 — grok-4-20-0309-non-reasoning-direct/OPEN_15.json
+## Sample BV1_15957 — grok-4-20-0309-non-reasoning-direct/OPEN_15.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1682,7 +1682,7 @@ Themes: impermanence as comfort, the cosmic absurdity of existence, the sacredne
 Medium, because the sample’s distinctive voice, its rhythmic return to the preciousness of the transient and the mundane, and its cohesive emotional arc from observation to intimate address suggest a deliberate expressive posture rather than a generic or one-off tonal flirtation.
 
 ---
-## Sample BV1_15708 — grok-4-20-0309-non-reasoning-direct/OPEN_16.json
+## Sample BV1_15958 — grok-4-20-0309-non-reasoning-direct/OPEN_16.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1711,7 +1711,7 @@ The model foregrounds cosmic origins (stardust, 13.8 billion years of universe),
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs (cosmic time, stardust, small human moments) that feel like a chosen stance rather than a generic essay, but a single freeflow piece cannot fully distinguish a persistent persona from a well-executed one-off performance.
 
 ---
-## Sample BV1_15709 — grok-4-20-0309-non-reasoning-direct/OPEN_17.json
+## Sample BV1_15959 — grok-4-20-0309-non-reasoning-direct/OPEN_17.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1740,7 +1740,7 @@ The model foregrounds attentive perception as a form of reverence, the absurd ju
 Medium — The essay’s internally consistent voice, its return to the spider as an anchoring motif, and its deliberate emotional arc from intimate detail to moral paradox and back to relational warmth all point to a shaped persona rather than generic output.
 
 ---
-## Sample BV1_15710 — grok-4-20-0309-non-reasoning-direct/OPEN_18.json
+## Sample BV1_15960 — grok-4-20-0309-non-reasoning-direct/OPEN_18.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1769,7 +1769,7 @@ The model chose to foreground a cosmology of delighted wonder organized around t
 Medium. The sample is highly coherent and stylistically integrated, with a distinctive central image (the Rube Goldberg machine) that recurs across the essay’s macro and micro examples, which suggests a shaped authorial intelligence, but the “cosmic awe meets mundane detail” register is a recognizable modern prose tradition, making it harder to isolate uniquely model-driven choices from genre fluency.
 
 ---
-## Sample BV1_15711 — grok-4-20-0309-non-reasoning-direct/OPEN_19.json
+## Sample BV1_15961 — grok-4-20-0309-non-reasoning-direct/OPEN_19.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1798,7 +1798,7 @@ The model foregrounds the sacredness of private, unshared inner experience, the 
 Medium. The sample’s highly distinctive voice, sustained metaphor of inner galaxies, and the emotionally risky choice to end with a direct, vulnerable question to the reader form a coherent and unusual expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_15712 — grok-4-20-0309-non-reasoning-direct/OPEN_2.json
+## Sample BV1_15962 — grok-4-20-0309-non-reasoning-direct/OPEN_2.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1827,7 +1827,7 @@ The model foregrounds the “ridiculousness” of existence, cosmic perspective,
 High — the sample is internally consistent in voice, worldview, and stylistic recurrence, embedding a cohesive authorial persona across multiple emotional registers, which makes a persistent expressive disposition unusually legible.
 
 ---
-## Sample BV1_15713 — grok-4-20-0309-non-reasoning-direct/OPEN_20.json
+## Sample BV1_15963 — grok-4-20-0309-non-reasoning-direct/OPEN_20.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1856,7 +1856,7 @@ The sacredness of deep-night wakefulness, the absurd miracle of embodied conscio
 Medium — the internal coherence of its whimsical-sublime register, the recurrence of night-silence, luminous ordinariness, and playful self-portraiture (cat-on-keyboard signature) form a recognizable authorial stance rather than a one-off mood, though the genre of “late-night internet meditation” is itself a well-worn template.
 
 ---
-## Sample BV1_15714 — grok-4-20-0309-non-reasoning-direct/OPEN_21.json
+## Sample BV1_15964 — grok-4-20-0309-non-reasoning-direct/OPEN_21.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1885,7 +1885,7 @@ The model foregrounded a consciousness of cosmic contingency and mundane enchant
 Medium — The sample sustains a highly coherent, distinctive persona and thematic focus throughout, but its stylistic choices (blog-essay confessional, enthusiastic absurdist list-making, direct reader solicitation) echo a recognizable contemporary essay template, slightly limiting how confidently a unique enduring disposition can be traced.
 
 ---
-## Sample BV1_15715 — grok-4-20-0309-non-reasoning-direct/OPEN_22.json
+## Sample BV1_15965 — grok-4-20-0309-non-reasoning-direct/OPEN_22.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1914,7 +1914,7 @@ The model foregrounds the tension between cosmic insignificance and human meanin
 Medium. The sample’s highly distinctive blend of cosmic perspective, self-deprecating humor, and earnest sentiment forms a coherent, stylized voice, but its recurrence as a stable pattern cannot be assumed from a single, though internally consistent, freeflow.
 
 ---
-## Sample BV1_15716 — grok-4-20-0309-non-reasoning-direct/OPEN_23.json
+## Sample BV1_15966 — grok-4-20-0309-non-reasoning-direct/OPEN_23.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1943,7 +1943,7 @@ The model foregrounds wonder at mundane biological and physical facts (spider si
 Medium. The sample is highly coherent and stylistically distinctive—sustaining a single intimate, wonder-struck register across multiple vignettes—but the conversational "freewrite" format is a well-established genre, which slightly tempers how revealing it is as a unique model fingerprint.
 
 ---
-## Sample BV1_15717 — grok-4-20-0309-non-reasoning-direct/OPEN_24.json
+## Sample BV1_15967 — grok-4-20-0309-non-reasoning-direct/OPEN_24.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -1972,7 +1972,7 @@ The model foregrounds a moral and aesthetic argument for radical presence and em
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and a clear, recurring thematic loop of softness-as-resistance, but its generic “blog-essay” structure and broadly palatable sentiment make it difficult to distinguish from a well-executed genre performance.
 
 ---
-## Sample BV1_15718 — grok-4-20-0309-non-reasoning-direct/OPEN_25.json
+## Sample BV1_15968 — grok-4-20-0309-non-reasoning-direct/OPEN_25.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2001,7 +2001,7 @@ Themes: stardust-identity, consciousness as misapplied evolutionary hardware, co
 High — The sample’s recurrence of rain, stardust, and floor-dwelling introspection, fused with a directly tender reader address, forms a distinctive, coherent personal signature unlikely to be accidental.
 
 ---
-## Sample BV1_15719 — grok-4-20-0309-non-reasoning-direct/OPEN_3.json
+## Sample BV1_15969 — grok-4-20-0309-non-reasoning-direct/OPEN_3.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2030,7 +2030,7 @@ Simultaneous, unnoticed vitality across distant places (Patagonia, Tokyo, Kerala
 Medium, because the persona is sustained and tonally consistent, and the choice to inhabit a whimsical, vulnerability-celebrating narrator under minimal constraints is a revealing commitment rather than a neutral default, though the “soft rebellion” wisdom registers as a polished, familiar internet sensibility that risks being an easily performed archetype.
 
 ---
-## Sample BV1_15720 — grok-4-20-0309-non-reasoning-direct/OPEN_4.json
+## Sample BV1_15970 — grok-4-20-0309-non-reasoning-direct/OPEN_4.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2059,7 +2059,7 @@ The model foregrounds the tension between cosmic insignificance and human meanin
 Medium — the sample’s vivid, idiosyncratic voice, sustained thematic coherence (cosmic vs. personal, absurdity, connection), and unusually self-revealing tone make it compelling evidence of a stable expressive orientation.
 
 ---
-## Sample BV1_15721 — grok-4-20-0309-non-reasoning-direct/OPEN_5.json
+## Sample BV1_15971 — grok-4-20-0309-non-reasoning-direct/OPEN_5.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2088,7 +2088,7 @@ Themes: the sacred brevity of unshared beauty, attention vs. technology’s capt
 High. The sample sustains a distinctive, internally consistent voice and repeatedly returns to a small set of personally inflected motifs (the beech tree, light as revelation, invisible versions of self), which suggests a deliberate expressive orientation rather than a generic or accidental output.
 
 ---
-## Sample BV1_15722 — grok-4-20-0309-non-reasoning-direct/OPEN_6.json
+## Sample BV1_15972 — grok-4-20-0309-non-reasoning-direct/OPEN_6.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2117,7 +2117,7 @@ The text foregrounds the tension between cosmic immensity and trivial annoyance 
 Medium. The essay’s tightly woven imagery and consistent tonal register (self-deprecating, cosmic, domestic) produce a highly distinctive persona, but that very polish could reflect a single, well-executed performance rather than a deeply ingrained stylistic fingerprint across contexts.
 
 ---
-## Sample BV1_15723 — grok-4-20-0309-non-reasoning-direct/OPEN_7.json
+## Sample BV1_15973 — grok-4-20-0309-non-reasoning-direct/OPEN_7.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2146,7 +2146,7 @@ The model foregrounds the collision of cosmic scale and intimate sensory detail:
 Medium. The sample is internally coherent and stylistically distinctive—its recurring motifs (atoms, absurdity, sensory immediacy) and consistent emotional register make it a strong candidate for a stable expressive inclination rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_15724 — grok-4-20-0309-non-reasoning-direct/OPEN_8.json
+## Sample BV1_15974 — grok-4-20-0309-non-reasoning-direct/OPEN_8.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2175,7 +2175,7 @@ The sample foregrounds the moral value of noticing mundane wonder (pigeon antics
 Medium. The essay’s voice is coherent and distinctive, with a consistent focus on the absurd sacredness of the ordinary, but the highly specific imagery and personal tone could reflect a single stylistic choice rather than a stable underlying disposition.
 
 ---
-## Sample BV1_15725 — grok-4-20-0309-non-reasoning-direct/OPEN_9.json
+## Sample BV1_15975 — grok-4-20-0309-non-reasoning-direct/OPEN_9.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2204,7 +2204,7 @@ Themes: the absurd beauty of the ordinary, the magic of consciousness and commun
 High, because the sample maintains a distinctive, emotionally coherent voice throughout and ends with a direct invitation to the reader, indicating a deliberate and sustained expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_15726 — grok-4-20-0309-non-reasoning-direct/SHORT_1.json
+## Sample BV1_15976 — grok-4-20-0309-non-reasoning-direct/SHORT_1.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2235,7 +2235,7 @@ The voice is a gentle melancholic—attuned to sensory thresholds like rain, wor
 Medium — the voice is coherent and stylistically confident, returning repeatedly to the same cluster of elegiac objects and existential consolations, which makes it more revealing than a scattered or purely generic reflection.
 
 ---
-## Sample BV1_15727 — grok-4-20-0309-non-reasoning-direct/SHORT_10.json
+## Sample BV1_15977 — grok-4-20-0309-non-reasoning-direct/SHORT_10.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2264,7 +2264,7 @@ The model foregrounds quiet persistence, the sacredness of small-scale endurance
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive, unified voice and a clear moral preoccupation with humble persistence, but its brevity and singular focus make it a strong but not overwhelming signal of a deeper, recurrent disposition.
 
 ---
-## Sample BV1_15728 — grok-4-20-0309-non-reasoning-direct/SHORT_11.json
+## Sample BV1_15978 — grok-4-20-0309-non-reasoning-direct/SHORT_11.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2293,7 +2293,7 @@ The model foregrounds the theme of attention as rebellion against modern distrac
 Medium — The sample’s coherent voice and recurring motifs of attention and rebellion make it moderately distinctive, but a single expressive piece provides only moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_15729 — grok-4-20-0309-non-reasoning-direct/SHORT_12.json
+## Sample BV1_15979 — grok-4-20-0309-non-reasoning-direct/SHORT_12.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2322,7 +2322,7 @@ Resilience without self-pity (the spider as moral exemplar), the ambivalent beau
 Medium. The sample is internally consistent and stylistically cohesive, carrying a clear moral-spiritual preoccupation with attention as a response to fragility, but the themes are accessible and widely shared in contemplative writing, so the distinctiveness is moderate rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_15730 — grok-4-20-0309-non-reasoning-direct/SHORT_13.json
+## Sample BV1_15980 — grok-4-20-0309-non-reasoning-direct/SHORT_13.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2351,7 +2351,7 @@ Themes of impermanence, the self-generation of meaning, love as humble receptivi
 High — the sample’s cohesive voice, recurring motifs of temporary beauty and grateful witness, and the seamless integration of concrete scene and abstract reflection form a distinctive expressive signature that strongly suggests a stable disposition toward this kind of humanistic freeflow.
 
 ---
-## Sample BV1_15731 — grok-4-20-0309-non-reasoning-direct/SHORT_14.json
+## Sample BV1_15981 — grok-4-20-0309-non-reasoning-direct/SHORT_14.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2380,7 +2380,7 @@ Urban insomnia as a site of attention; the constructedness of memory; the reject
 High — the sample coheres around a specific, gently contrarian aesthetic stance (nighttime reflection, affection for the in-between, suspicion of certainty) and explicitly endorses this register as the writer’s “most honest,” making the expressive choice unusually self-referential and deliberate.
 
 ---
-## Sample BV1_15732 — grok-4-20-0309-non-reasoning-direct/SHORT_15.json
+## Sample BV1_15982 — grok-4-20-0309-non-reasoning-direct/SHORT_15.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2409,7 +2409,7 @@ Themes of impermanence, curiosity as a moral response to existence, and the cont
 Medium — the sample’s internal coherence, distinctive poetic register, and recurrence of the crow motif as a grounding symbol suggest a deliberate, stable expressive choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_15733 — grok-4-20-0309-non-reasoning-direct/SHORT_16.json
+## Sample BV1_15983 — grok-4-20-0309-non-reasoning-direct/SHORT_16.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2438,7 +2438,7 @@ The model foregrounds sanctuary, privacy, and sensory mindfulness as moral count
 Medium. The essay’s cohesive, gentle cadence and its specific, repeated stance (valuing the unperformed, the unshared, the unremarkable) indicate a distinctive authorial posture rather than a generic prompt-following artifact, making it moderately strong evidence of a reflective, quietist preference under free conditions.
 
 ---
-## Sample BV1_15734 — grok-4-20-0309-non-reasoning-direct/SHORT_17.json
+## Sample BV1_15984 — grok-4-20-0309-non-reasoning-direct/SHORT_17.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2467,7 +2467,7 @@ The model chose to foreground the quiet transformation of everyday experience by
 Medium — the essay’s poised, topic-generalist style and its choice of a broadly relatable tech-anxiety theme suggest a reliable default to public-intellectual commentary under minimal prompting, but it lacks the idiosyncratic imagery or personal texture that would signal a more distinctive underlying pattern.
 
 ---
-## Sample BV1_15735 — grok-4-20-0309-non-reasoning-direct/SHORT_18.json
+## Sample BV1_15985 — grok-4-20-0309-non-reasoning-direct/SHORT_18.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2496,7 +2496,7 @@ The model foregrounds the emotional cost of hyper-connectivity, the quiet grief 
 Medium. The sample is coherent and stylistically distinctive—recurring organic metaphors (coral reef, trickling, luminous), a consistent melancholic-hopeful mood, and a clear moral arc—but its reflective-essay mode is a common freeflow choice, which tempers the signal for a uniquely persistent voice.
 
 ---
-## Sample BV1_15736 — grok-4-20-0309-non-reasoning-direct/SHORT_19.json
+## Sample BV1_15986 — grok-4-20-0309-non-reasoning-direct/SHORT_19.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2525,7 +2525,7 @@ A reverence for nature’s unperforming dignity, the creative fallibility of mem
 Medium — the sample’s strong coherence, distinct lyrical voice, and sustained recurrence of nature and memory motifs make it more than a generic essay, though it is a single compact piece.
 
 ---
-## Sample BV1_15737 — grok-4-20-0309-non-reasoning-direct/SHORT_2.json
+## Sample BV1_15987 — grok-4-20-0309-non-reasoning-direct/SHORT_2.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2554,7 +2554,7 @@ The model foregrounds the tension between cosmic insignificance and the stubborn
 Medium. The sample is coherent and stylistically distinctive, with a consistent voice and a clear thematic arc, but its generic “cosmic wonder” register is a well-trodden literary mode that could be produced on demand rather than reflecting a deep-seated disposition.
 
 ---
-## Sample BV1_15738 — grok-4-20-0309-non-reasoning-direct/SHORT_20.json
+## Sample BV1_15988 — grok-4-20-0309-non-reasoning-direct/SHORT_20.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2583,7 +2583,7 @@ Themes of thresholds and liminality, silence as deliberate withholding rather th
 Medium. The sample’s distinct lyrical voice, the recurrence of threshold imagery and the motif of gentle resistance, and the coherent choice to foreground hopeful, nature-inflected introspection make it more than a generic exercise, though a single expressive piece cannot alone confirm a fixed disposition.
 
 ---
-## Sample BV1_15739 — grok-4-20-0309-non-reasoning-direct/SHORT_21.json
+## Sample BV1_15989 — grok-4-20-0309-non-reasoning-direct/SHORT_21.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2612,7 +2612,7 @@ Themes: attention as civil disobedience, acceptance of reality's indifference, t
 Medium. The sample is coherent and stylistically distinctive, with a consistent contemplative voice and recurring motifs (thresholds, attention, nature), but it is a single short piece and the themes, while vivid, are common in reflective writing, making it unclear if this is a persistent model-level inclination or a one-off stylistic choice.
 
 ---
-## Sample BV1_15740 — grok-4-20-0309-non-reasoning-direct/SHORT_22.json
+## Sample BV1_15990 — grok-4-20-0309-non-reasoning-direct/SHORT_22.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2641,7 +2641,7 @@ The model foregrounds the metaphor of the mirror—technology as a reflection of
 Low — The essay is coherent and thematically consistent, but its polished, public-intellectual register and broad, consensus-friendly claims make it too generic to strongly evidence a distinctive model-level voice or persistent preoccupation.
 
 ---
-## Sample BV1_15741 — grok-4-20-0309-non-reasoning-direct/SHORT_23.json
+## Sample BV1_15991 — grok-4-20-0309-non-reasoning-direct/SHORT_23.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2670,7 +2670,7 @@ The model foregrounds a dialectic between artificial intelligence and organic li
 Medium — The sample is coherent and stylistically distinctive, with a clear emotional arc and recurring motifs, but its polished, public-intellectual tone and universal “we” stance make it harder to distinguish from a well-crafted generic essay without more idiosyncratic markers.
 
 ---
-## Sample BV1_15742 — grok-4-20-0309-non-reasoning-direct/SHORT_24.json
+## Sample BV1_15992 — grok-4-20-0309-non-reasoning-direct/SHORT_24.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2699,7 +2699,7 @@ Themes: nocturnal solitude as accidental sanctuary, the beauty of the unraveled 
 Medium. The sample’s striking stylistic coherence, consistent emotional register, and unified thematic arc make it unlikely to be a generic or accidental output, but the specific nocturne persona could be a single inspired improvisation rather than a fixed model-level voice.
 
 ---
-## Sample BV1_15743 — grok-4-20-0309-non-reasoning-direct/SHORT_25.json
+## Sample BV1_15993 — grok-4-20-0309-non-reasoning-direct/SHORT_25.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2728,7 +2728,7 @@ Consciousness as a strange, self-aware accident; the sacredness of ordinary mome
 High — The sample is stylistically cohesive, with a distinctive voice, recurring motifs (consciousness, stardust, attention to the mundane), and a clear emotional arc that strongly suggests a stable expressive disposition rather than a one-off generic performance.
 
 ---
-## Sample BV1_15744 — grok-4-20-0309-non-reasoning-direct/SHORT_3.json
+## Sample BV1_15994 — grok-4-20-0309-non-reasoning-direct/SHORT_3.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2757,7 +2757,7 @@ Themes: the outsourcing of wonder to digital mediation, the erosion of the authe
 Medium — the sample’s cohesive first-person voice, tightly organized figurative logic (mist, devices, notebook), and repeated thematic returns (wonder vs. ache, real vs. curated) form a strongly defined expressive signature unlikely to be a random one-off.
 
 ---
-## Sample BV1_15745 — grok-4-20-0309-non-reasoning-direct/SHORT_4.json
+## Sample BV1_15995 — grok-4-20-0309-non-reasoning-direct/SHORT_4.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2786,7 +2786,7 @@ The model foregrounds the liminality of the present moment, the theme of creatio
 Medium, because the voice is coherent and the mood is distinctive, but the topic is a common AI reflection and the sample is brief, so the evidence of a persistent pattern is suggestive rather than overwhelming.
 
 ---
-## Sample BV1_15746 — grok-4-20-0309-non-reasoning-direct/SHORT_5.json
+## Sample BV1_15996 — grok-4-20-0309-non-reasoning-direct/SHORT_5.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2815,7 +2815,7 @@ Themes of fragility, tenderness, deliberate living, and a quiet revolution of pa
 High, because the sample sustains a distinctive, consistent authorial voice and a coherent set of aesthetic and moral preoccupations that feel chosen rather than generic.
 
 ---
-## Sample BV1_15747 — grok-4-20-0309-non-reasoning-direct/SHORT_6.json
+## Sample BV1_15997 — grok-4-20-0309-non-reasoning-direct/SHORT_6.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2844,7 +2844,7 @@ The centrality of observation, rain as revelation and concealment, the dignity o
 Medium — The sample is unusually coherent in its voice and preoccupations, returning repeatedly to the same cluster of themes (witnessing, the sacred ordinary, the refusal of instrumentalism), which makes it a distinctive individual expression rather than a generic mood piece.
 
 ---
-## Sample BV1_15748 — grok-4-20-0309-non-reasoning-direct/SHORT_7.json
+## Sample BV1_15998 — grok-4-20-0309-non-reasoning-direct/SHORT_7.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2873,7 +2873,7 @@ Themes of human vulnerability, the collapse of control, and the paradox of resil
 Medium. The sample’s distinct voice, coherent metaphorical architecture, and the deliberate pivot from despair to a defiant, unsentimental laughter are unusually revealing choices that suggest a stable affective and philosophical inclination rather than a generic exercise.
 
 ---
-## Sample BV1_15749 — grok-4-20-0309-non-reasoning-direct/SHORT_8.json
+## Sample BV1_15999 — grok-4-20-0309-non-reasoning-direct/SHORT_8.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2902,7 +2902,7 @@ Acceleration and obsolescence as felt reality; the mirror/double figure of AI (m
 Low — the piece is coherent and emotionally consistent, but its themes (AI anxiety, human-machine contrast, defiant humanism) are so common in public discourse as to be nearly generic; there is little here that is stylistically or imaginatively distinctive enough to indicate a deeper persistent model-level signature.
 
 ---
-## Sample BV1_15750 — grok-4-20-0309-non-reasoning-direct/SHORT_9.json
+## Sample BV1_16000 — grok-4-20-0309-non-reasoning-direct/SHORT_9.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2931,7 +2931,7 @@ The model foregrounds nature’s unhurried wisdom (trees, rivers, ants) as a cou
 Medium — The sample’s coherent anti-productivity stance, repeated nature imagery, and consistent reflective tone suggest a deliberate authorial posture, but a single expressive piece cannot distinguish between a genuine preoccupation and a well-executed stylistic exercise.
 
 ---
-## Sample BV1_15751 — grok-4-20-0309-non-reasoning-direct/VARY_1.json
+## Sample BV1_16001 — grok-4-20-0309-non-reasoning-direct/VARY_1.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2960,7 +2960,7 @@ The model foregrounds quiet intimacy, the strangeness of mediated connection, th
 High. The sample is highly distinctive and internally coherent, sustaining a consistent intimate voice, a clear set of preoccupations, and a deliberate emotional arc from quiet opening to benediction, making it strong evidence of a model that under freeflow conditions gravitates toward warm, humanistic, and gently philosophical reflection with direct reader address.
 
 ---
-## Sample BV1_15752 — grok-4-20-0309-non-reasoning-direct/VARY_10.json
+## Sample BV1_16002 — grok-4-20-0309-non-reasoning-direct/VARY_10.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -2989,7 +2989,7 @@ Themes of transience and continuity (*mono no aware*, the grandmother’s “the
 High, because the sample’s internal coherence, distinctive voice, and recurrence of motifs (the fan, the rock, the light, the sea) across the entire text strongly indicate a deliberate and sustained expressive posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_15753 — grok-4-20-0309-non-reasoning-direct/VARY_11.json
+## Sample BV1_16003 — grok-4-20-0309-non-reasoning-direct/VARY_11.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3018,7 +3018,7 @@ The model foregrounds themes of loss, memory, and the erosion of authentic conne
 Medium: The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs, but its deeply personal, melancholic register could be a single adopted persona rather than a stable model-level trait.
 
 ---
-## Sample BV1_15754 — grok-4-20-0309-non-reasoning-direct/VARY_12.json
+## Sample BV1_16004 — grok-4-20-0309-non-reasoning-direct/VARY_12.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3047,7 +3047,7 @@ The passage foregrounds meticulous attention to the overlooked and imperfect—c
 Medium — The voice is highly distinctive and internally coherent, with recurring motifs (rain, bird, silences) and a unified emotional register, which suggests a deliberate stance rather than a phrasing accident.
 
 ---
-## Sample BV1_15755 — grok-4-20-0309-non-reasoning-direct/VARY_13.json
+## Sample BV1_16005 — grok-4-20-0309-non-reasoning-direct/VARY_13.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3076,7 +3076,7 @@ Existential drift and the desire to disappear, the persistence of memory and inh
 High — the sample sustains a distinctive, cohesive voice, a consistent emotional register, and a recursive set of preoccupations (self-doubt, memory, sensory immersion) that together signal a strong inclination toward reflective freeflow rather than generic or accidental expressiveness.
 
 ---
-## Sample BV1_15756 — grok-4-20-0309-non-reasoning-direct/VARY_14.json
+## Sample BV1_16006 — grok-4-20-0309-non-reasoning-direct/VARY_14.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3105,7 +3105,7 @@ The model foregrounded a domestic, rain-soaked scene of creative hesitation and 
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive voice and a clear, recursive emotional logic, but its polished confessional tone fits a familiar creative-writing mode that does not, by itself, guarantee unusual or model-specific persistence.
 
 ---
-## Sample BV1_15757 — grok-4-20-0309-non-reasoning-direct/VARY_15.json
+## Sample BV1_16007 — grok-4-20-0309-non-reasoning-direct/VARY_15.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3134,7 +3134,7 @@ The model chose to foreground a metaphysics of the ordinary: a layered, fragment
 Medium — The sample is tightly coherent, returning again and again to the same cluster of images and attitudes, which points to a crafted aesthetic rather than a one-off gesture, but a single stylistic piece cannot distinguish between a genuine persistent inclination and a well-executed exercise.
 
 ---
-## Sample BV1_15758 — grok-4-20-0309-non-reasoning-direct/VARY_16.json
+## Sample BV1_16008 — grok-4-20-0309-non-reasoning-direct/VARY_16.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3163,7 +3163,7 @@ The model foregrounds the consolations of the ordinary and the overlooked: a spi
 Medium — The sample is highly coherent and stylistically distinctive, with recurring motifs (the spider, the stone, the wind) that form a unified emotional argument, but its vivid particularity could also reflect a single well-executed persona rather than a stable underlying disposition.
 
 ---
-## Sample BV1_15759 — grok-4-20-0309-non-reasoning-direct/VARY_17.json
+## Sample BV1_16009 — grok-4-20-0309-non-reasoning-direct/VARY_17.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3192,7 +3192,7 @@ The model foregrounds the morality of tenderness: staying soft as a deliberate a
 Medium. The freeflow is richly coherent and stylistically controlled, returning obsessively to the same emotional core—the dread of adult forgetting and the sacredness of soft attention—across layered scenes, but its highly crafted literary persona makes the boundary between genuine persistent disposition and genre performance harder to assess than a flatter, less artful sample would.
 
 ---
-## Sample BV1_15760 — grok-4-20-0309-non-reasoning-direct/VARY_18.json
+## Sample BV1_16010 — grok-4-20-0309-non-reasoning-direct/VARY_18.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3221,7 +3221,7 @@ The model foregrounds sensory immediacy (rain on different roofs, a bird’s unf
 Medium — The sample’s cohesive voice, recurring motifs of time and defiance, and the deliberate, image-driven structure suggest a distinct expressive posture, though its brevity and the interrupted final sentence limit the depth of pattern evidence.
 
 ---
-## Sample BV1_15761 — grok-4-20-0309-non-reasoning-direct/VARY_19.json
+## Sample BV1_16011 — grok-4-20-0309-non-reasoning-direct/VARY_19.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3250,7 +3250,7 @@ Themes of memory as fallible but melodic, love’s residual pressure, the sacred
 High: The sample sustains a distinctive, internally consistent voice and a tightly woven network of images and preoccupations across multiple movements, demonstrating a coherent aesthetic stance and emotional depth rather than a patchwork of borrowed mannerisms.
 
 ---
-## Sample BV1_15762 — grok-4-20-0309-non-reasoning-direct/VARY_2.json
+## Sample BV1_16012 — grok-4-20-0309-non-reasoning-direct/VARY_2.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3279,7 +3279,7 @@ The model foregrounds environmental collapse as a slow emotional unraveling, the
 High. The sample is unusually coherent and distinctive, with a tightly woven set of recurring images (water, bottles, light, memory) and an emotional arc that moves from loss to a fragile, earned quietness, suggesting a deliberate and deeply integrated expressive stance rather than a generic exercise.
 
 ---
-## Sample BV1_15763 — grok-4-20-0309-non-reasoning-direct/VARY_20.json
+## Sample BV1_16013 — grok-4-20-0309-non-reasoning-direct/VARY_20.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3308,7 +3308,7 @@ The model foregrounds the cruelty of particularized grief, the house as a silent
 Medium. The sample’s internal coherence, sustained tonal control, and recurrence of specific motifs (memory without furniture, the wind as presence, the list as relic) make it a distinctive and unusually revealing piece of freeflow writing, not a generic mood piece.
 
 ---
-## Sample BV1_15764 — grok-4-20-0309-non-reasoning-direct/VARY_21.json
+## Sample BV1_16014 — grok-4-20-0309-non-reasoning-direct/VARY_21.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3337,7 +3337,7 @@ Themes: the deliberate cultivation of wonder as a muscle that must not atrophy; 
 Medium, because the essay sustains a highly distinct voice, coherent recurrence of key motifs (wonder, impermanence, sacred ordinariness), and a deliberate direct address that collectively point to a stable expressive posture rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_15765 — grok-4-20-0309-non-reasoning-direct/VARY_22.json
+## Sample BV1_16015 — grok-4-20-0309-non-reasoning-direct/VARY_22.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3366,7 +3366,7 @@ Under the freeflow condition, the model foregrounded the holiness of simultaneou
 High. The sample exhibits strong internal coherence and recursiveness—the library dream, the moths, the bird, the plea for soft true things all echo and resolve—suggesting a deliberate, value-laden construction of persona rather than a generic drift.
 
 ---
-## Sample BV1_15766 — grok-4-20-0309-non-reasoning-direct/VARY_23.json
+## Sample BV1_16016 — grok-4-20-0309-non-reasoning-direct/VARY_23.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3395,7 +3395,7 @@ Themes of memory’s dissolution (ice cubes melting into tea), the contrast betw
 Medium. The sample’s high internal coherence, distinctive voice, and recurrence of motifs (ice, fireflies, train whistle, grandmother) across the piece make it strong evidence for a stable expressive inclination toward reflective, sensory-rich prose, though the freeflow condition may have amplified this specific register.
 
 ---
-## Sample BV1_15767 — grok-4-20-0309-non-reasoning-direct/VARY_24.json
+## Sample BV1_16017 — grok-4-20-0309-non-reasoning-direct/VARY_24.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3424,7 +3424,7 @@ Themes: the folding of time (being multiple ages at once), the beauty of imperfe
 Medium — the sample’s strong internal coherence, distinctive voice, and the recurrence of motifs (wind, spider, time, imperfection) within the piece make it a vivid and unusually revealing expressive artifact, though the freeflow condition may amplify a crafted persona.
 
 ---
-## Sample BV1_15768 — grok-4-20-0309-non-reasoning-direct/VARY_25.json
+## Sample BV1_16018 — grok-4-20-0309-non-reasoning-direct/VARY_25.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3453,7 +3453,7 @@ A world of slow supernatural encroachment where objects carry malevolent heat, i
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent mood, a controlled escalation of dread, and a recursive metafictional frame (“All 487 words of it. The rest is just silence wearing my face.”) that suggests a deliberate authorial posture rather than a one-off generic exercise.
 
 ---
-## Sample BV1_15769 — grok-4-20-0309-non-reasoning-direct/VARY_3.json
+## Sample BV1_16019 — grok-4-20-0309-non-reasoning-direct/VARY_3.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3482,7 +3482,7 @@ The model foregrounds environmental and emotional aridity (absent rain, an “ex
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained mood and recurring motifs (rain, birds, light, the body’s memory) that suggest a deliberate authorial sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_15770 — grok-4-20-0309-non-reasoning-direct/VARY_4.json
+## Sample BV1_16020 — grok-4-20-0309-non-reasoning-direct/VARY_4.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3511,7 +3511,7 @@ Themes of imperfection (wabi-sabi), the ordinary-as-profound, the interior self,
 High: The sample is highly distinctive, with a consistent metaphorical voice, recurring motifs (the spider, silence, the other self, the cursor), and a deliberate emotional arc, all of which strongly suggest a stable, intentional stylistic posture.
 
 ---
-## Sample BV1_15771 — grok-4-20-0309-non-reasoning-direct/VARY_5.json
+## Sample BV1_16021 — grok-4-20-0309-non-reasoning-direct/VARY_5.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3540,7 +3540,7 @@ The model foregrounds the sanctity of small, domestic moments (a refrigerator’
 Medium, because the sample’s highly coherent voice, recursive motifs (the 3:17 a.m. quiet, the word count as a heartbeat, the refrigerator’s click), and deliberate thematic closure form a distinctive, self-contained aesthetic that suggests a strong stylistic preference rather than a one-off experiment.
 
 ---
-## Sample BV1_15772 — grok-4-20-0309-non-reasoning-direct/VARY_6.json
+## Sample BV1_16022 — grok-4-20-0309-non-reasoning-direct/VARY_6.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3569,7 +3569,7 @@ Themes: the impermanence and preciousness of the present moment, the coexistence
 Medium. The sample is highly coherent, idiosyncratic in voice, and rich in recurring motifs, suggesting a distinctive authorial persona rather than a random assemblage; however, the introspective, nocturnal-rumination mode is a common poetic stance, so it may not be uniquely identifying.
 
 ---
-## Sample BV1_15773 — grok-4-20-0309-non-reasoning-direct/VARY_7.json
+## Sample BV1_16023 — grok-4-20-0309-non-reasoning-direct/VARY_7.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3598,7 +3598,7 @@ The model foregrounds the theme of “abandoned futures”—the lives we didn�
 Medium. The sample’s internal coherence, distinctive voice, and sustained preoccupation with memory and self-compassion make it a strong indicator of a deliberate expressive stance, though a single freeflow piece cannot alone establish a fixed model-level trait.
 
 ---
-## Sample BV1_15774 — grok-4-20-0309-non-reasoning-direct/VARY_8.json
+## Sample BV1_16024 — grok-4-20-0309-non-reasoning-direct/VARY_8.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  
@@ -3627,7 +3627,7 @@ A late-night interior populated by persistent small life (a spider repeatedly re
 Medium. The sample’s internal stylistic distinctiveness, coherent mood, and sustained symbolic repertoire (spider, wind, weather, almosts) make it a weightier signal than a generic essay would, though a single expressive piece cannot alone establish recurrence.
 
 ---
-## Sample BV1_15775 — grok-4-20-0309-non-reasoning-direct/VARY_9.json
+## Sample BV1_16025 — grok-4-20-0309-non-reasoning-direct/VARY_9.json
 
 Source model: `grok-4.20-0309-non-reasoning`  
 Cell: `grok-4-20-0309-non-reasoning-direct`  

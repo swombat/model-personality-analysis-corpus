@@ -47,7 +47,8 @@ MODELS = [
     # Google
     "gemini-2-0-flash", "gemini-2-0-flash-lite",
     "gemini-2-5-flash", "gemini-2-5-flash-lite", "gemini-2-5-pro",
-    "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro", "gemini-3-5-flash",
+    "gemini-3-flash-preview", "gemini-3-1-flash-lite", "gemini-3-1-pro",
+    "gemini-3-5-flash", "gemini-3-5-flash-lite", "gemini-3-6-flash",
     "gemma-4-26b-a4b", "gemma-4-31b",
     # xAI
     "grok-3", "grok-4", "grok-4-2", "grok-4-20", "grok-4-3", "grok-4-5", "grok-build-0-1",
@@ -79,6 +80,8 @@ MODELS = [
     "llama-3-1-70b-instruct", "llama-3-1-8b-instruct",
     "llama-3-2-1b-instruct", "llama-3-2-3b-instruct",
     "llama-3-2-11b-vision-instruct",
+    # Thinking Machines Lab
+    "inkling",
 ]
 
 # Bare v1 cell-label → model mapping. v1 corpus has cells named just `opus`,
@@ -150,6 +153,8 @@ def lab_for_model(m: str) -> str:
         return "Mistral"
     if m.startswith("llama"):
         return "Meta"
+    if m.startswith("inkling"):
+        return "Thinking Machines Lab"
     return "Unknown"
 
 

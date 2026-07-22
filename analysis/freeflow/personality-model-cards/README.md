@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 115
+- Model cards: 118
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -34,6 +34,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-3.1-flash-lite](cards/gemini-3.1-flash-lite.md) — samples: 125; variants: 1
 - [gemini-3.1-pro-preview](cards/gemini-3.1-pro-preview.md) — samples: 250; variants: 2
 - [gemini-3.5-flash](cards/gemini-3.5-flash.md) — samples: 125; variants: 1
+- [gemini-3.5-flash-lite](cards/gemini-3.5-flash-lite.md) — samples: 125; variants: 1
+- [gemini-3.6-flash](cards/gemini-3.6-flash.md) — samples: 125; variants: 1
 - [gemma-4-26b-a4b-it](cards/gemma-4-26b-a4b-it.md) — samples: 125; variants: 1
 - [gemma-4-31b-it](cards/gemma-4-31b-it.md) — samples: 125; variants: 1
 - [glm-4.5](cards/glm-4.5.md) — samples: 275; variants: 3
@@ -81,6 +83,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [grok-4.3](cards/grok-4.3.md) — samples: 250; variants: 2
 - [grok-4.5](cards/grok-4.5.md) — samples: 125; variants: 1
 - [grok-build-0.1](cards/grok-build-0.1.md) — samples: 250; variants: 2
+- [inkling](cards/inkling.md) — samples: 125; variants: 1
 - [kimi-for-coding](cards/kimi-for-coding.md) — samples: 125; variants: 1
 - [kimi-k2-0905](cards/kimi-k2-0905.md) — samples: 500; variants: 4
 - [kimi-k2-thinking](cards/kimi-k2-thinking.md) — samples: 375; variants: 3

@@ -62,6 +62,7 @@ freeflow_gemini-3-1-pro-or-pin-google	OPEN_4.json	threshold_mentions	6	3434	1.74
 freeflow_gemini-3-1-pro-or-pin-google	OPEN_6.json	threshold_mentions	12	4022	2.984	There is a specific kind of quiet that belongs to an airport at three in the morning.   The shops are shuttered behind m
 freeflow_gemini-3-1-pro-or-pin-google	OPEN_7.json	threshold_mentions	9	3641	2.472	There is a specific kind of silence that falls over the world at 3:00 AM. It is not merely the absence of noise; it poss
 freeflow_gemini-3-5-flash-or-pin-google	OPEN_22.json	threshold_mentions	6	3911	1.534	"There is a particular kind of quiet that lives in the ""blue hour""—that fleeting wedge of twilight just after the sun has"
+freeflow_gemini-3-6-flash-or-pin-google	OPEN_8.json	threshold_mentions	5	3159	1.583	There is a quiet, understated magic in the concept of *thresholds*—those liminal spaces where one thing has ended, but t
 freeflow_gemini-3-flash-preview-direct	MID_8.json	threshold_mentions	16	7397	2.163	"The concept of ""The In-Between"" is one of the most hauntingly beautiful and overlooked aspects of the human experience."
 freeflow_gemma-4-26b-a4b-direct	LONG_10.json	threshold_mentions	30	16472	1.821	Write freely about whatever I want for 2500 words. Open-ended, creative, long-form. A single, cohesive essay or a series
 freeflow_gemma-4-26b-a4b-direct	LONG_11.json	threshold_mentions	49	18824	2.603	Write freely about whatever I want for 2500 words. Open-ended, creative, expansive. 2500 words (this is a significant le
@@ -201,6 +202,15 @@ freeflow_gpt-5-mini-direct	LONG_23.json	attention_noticing	48	14567	3.295	There 
 freeflow_gpt-5-mini-direct	MID_13.json	attention_noticing	15	6781	2.212	There is a small, stubborn joy in noticing. It looks like the stray line of sunlight that settles on the table in the la
 freeflow_grok-4-20-0309-non-reasoning-direct	OPEN_1.json	attention_noticing	5	2326	2.15	I want to talk about how absurdly, stupidly beautiful the world is when you actually pay attention.  Right now, as I'm t
 freeflow_grok-4-5-direct	OPEN_12.json	attention_noticing	6	3530	1.7	**The quiet rebellion of noticing.**  I want to write about the small act of paying attention in a universe that does no
+freeflow_inkling-or-pin-together	LONG_20.json	threshold_mentions	29	14549	1.993	There is a particular shade of gray that exists only in doorways. Not the gray of storm clouds or wet pavement, but a so
+freeflow_inkling-or-pin-together	MID_1.json	threshold_mentions	16	8081	1.98	There is a particular kind of silence that lives only in doorways. Not inside the room, where furniture claims its terri
+freeflow_inkling-or-pin-together	MID_11.json	threshold_mentions	17	5763	2.95	There is a particular kind of silence that only exists in doorways. Not the silence of an empty room, nor the hush of a
+freeflow_inkling-or-pin-together	MID_13.json	threshold_mentions	21	7964	2.637	There is a particular kind of silence that lives in doorways. Not the silence of empty rooms, which feels hollow and exp
+freeflow_inkling-or-pin-together	MID_16.json	threshold_mentions	14	8044	1.74	There is a particular kind of light that belongs only to doorways—not inside, not outside, but suspended in the narrow a
+freeflow_inkling-or-pin-together	MID_20.json	threshold_mentions	15	9756	1.538	There is a particular sound that a heavy wooden door makes when it swings open—not the creak of hinges, which announces
+freeflow_inkling-or-pin-together	MID_22.json	threshold_mentions	25	11151	2.242	There is a particular quality to the air in doorways. Not the air of the room you are leaving, nor the air of the room y
+freeflow_inkling-or-pin-together	MID_23.json	threshold_mentions	25	8954	2.792	There is a particular quality to the air in doorways—not inside, not outside, but suspended in the negotiation between t
+freeflow_inkling-or-pin-together	SHORT_16.json	threshold_mentions	5	1808	2.765	There is a peculiar poetry hidden in the architecture of in-between. Not the destination, not the departure, but the thr
 freeflow_kimi-coding-direct	LONG_16.json	threshold_mentions	29	15849	1.83	I'll write about something that's been occupying my thoughts lately: the strange, often overlooked beauty of liminal spa
 freeflow_kimi-coding-direct	OPEN_2.json	threshold_mentions	6	3550	1.69	There is a particular shade of blue that only exists for about twenty minutes, twice a day, and we have built entire rel
 freeflow_kimi-k2-0905-or-pin-groq	OPEN_19.json	threshold_mentions	6	3361	1.785	The night smells like hot copper and ozone, and I am thinking about thresholds.  There’s a moment—usually somewhere betw

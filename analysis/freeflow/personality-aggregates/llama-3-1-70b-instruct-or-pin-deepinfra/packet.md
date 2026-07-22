@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_18451 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_1.json
+## Sample BV1_18826 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_1.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model foregrounded a meta-reflection o
 Medium, because the sample’s coherent but highly generic structure, reliance on canonical cultural references, and avoidance of any idiosyncratic risk or personal revelation suggest a default, polished-essay mode rather than a distinctive expressive signature.
 
 ---
-## Sample BV1_18452 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_10.json
+## Sample BV1_18827 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_10.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -86,7 +86,7 @@ Themes: mindful presence, life as a journey of creation, the “mystery within u
 Low — the sample is a textbook case of generic inspirational prose, lacking any distinctive stylistic fingerprint, specific personal detail, or thematic risk that would tie it to a persistent model voice rather than a universally available uplifting formula.
 
 ---
-## Sample BV1_18453 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_11.json
+## Sample BV1_18828 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_11.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -115,7 +115,7 @@ Under the freeflow condition, the model chose a sustained, abstract argument for
 Medium. The essay’s coherence and consistency, combined with its generic, inspirational tone, suggest a default mode of safe, polished public-intellectual prose when given minimal direction, but the lack of a distinctive or risky personal voice weakens the inference that this is a deeply ingrained model trait.
 
 ---
-## Sample BV1_18454 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_12.json
+## Sample BV1_18829 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_12.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -144,7 +144,7 @@ The model foregrounds contemplative abstraction: time as a human construct, the 
 Low; the essay is coherent and well-formed but so archetypally "mindful philosophical reflection" that it could have been written by almost any aligned model under minimal instruction, offering little that is stylistically or thematically distinctive.
 
 ---
-## Sample BV1_18455 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_13.json
+## Sample BV1_18830 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_13.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model foregrounded themes of stillness
 Medium. The sample is highly coherent and internally consistent in its choice of serene, universalizing uplift, but its generic inspirational-essay structure and lack of idiosyncratic detail make it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_18456 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_14.json
+## Sample BV1_18831 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_14.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -202,7 +202,7 @@ Themes of creative freedom, the universality of creativity, nature’s beauty, t
 Medium; the essay is coherent and its themes of creativity, nature, and impermanence recur internally, but the phrasing is often generic (“spark that ignites the flames of imagination”), making the voice less distinctive as evidence of a persistent style.
 
 ---
-## Sample BV1_18457 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_15.json
+## Sample BV1_18832 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_15.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -231,7 +231,7 @@ The model foregrounds interconnectedness as a master theme, linking disparate do
 Medium, because the sample’s extreme thematic breadth, formulaic transition structure, and avoidance of any concrete personal or controversial anchor form a coherent, recurring pattern within the text that suggests a default mode of inoffensive, high-level synthesis under freeflow conditions.
 
 ---
-## Sample BV1_18458 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_16.json
+## Sample BV1_18833 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_16.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -259,7 +259,7 @@ Themes of creativity, the subconscious, collective unconscious, mythology, time,
 Low. The essay’s polished yet impersonal and generic nature provides little evidence of a persistent model-level expressive pattern, as it aligns with a safe, default intellectual mode.
 
 ---
-## Sample BV1_18459 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_17.json
+## Sample BV1_18834 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_17.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -288,7 +288,7 @@ The model selected themes of creativity, emergence, constraints, emptiness (draw
 Medium. The essay’s polished, generic intellectual style suggests a persistent preference for safe, meta-cognitive explorations of creativity, but it lacks the distinctive voice or idiosyncratic choice that would make the evidence strong.
 
 ---
-## Sample BV1_18460 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_18.json
+## Sample BV1_18835 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_18.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -317,7 +317,7 @@ Under a minimally restrictive prompt, the model foregrounds a solitary, reflecti
 Medium. The sample is highly coherent and internally consistent, but its choice of a generic, inspirational nature-reverie with a personified wisdom-giver is a well-worn trope, which makes it less distinctive as a persistent authorial fingerprint and more indicative of a default, safe, and aesthetically conventional freeflow posture.
 
 ---
-## Sample BV1_18461 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_19.json
+## Sample BV1_18836 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_19.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -346,7 +346,7 @@ The model foregrounds a series of abstract, humanistic themes—paradox, belongi
 Medium. The essay’s internal coherence and the recurrence of reflective, wonder-infused themes give it a consistent voice, but the content is generic enough that many models could produce a similar freeform meditation, which limits how distinctive this sample is as evidence of a persistent pattern.
 
 ---
-## Sample BV1_18462 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_2.json
+## Sample BV1_18837 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_2.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -375,7 +375,7 @@ Themes of benevolent superintelligent AI (“Nexari”), global cooperation, the
 Low. The essay is coherent but generic, offering little that is idiosyncratic or revealing of a persistent model-level style beyond a default helpfulness and optimism.
 
 ---
-## Sample BV1_18463 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_20.json
+## Sample BV1_18838 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_20.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -404,7 +404,7 @@ The model foregrounds the ocean as a single, all-encompassing symbol: mystery an
 Medium — the sample exhibits high internal coherence, a distinct poetic register, and a concentrated thematic preoccupation that recurs across paragraphs, suggesting a deliberate aesthetic self-presentation rather than a generic response.
 
 ---
-## Sample BV1_18464 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_21.json
+## Sample BV1_18839 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_21.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -433,7 +433,7 @@ Cosmic vastness and human smallness; dreams as a liminal space between conscious
 Medium. The essay is highly coherent and thematically consistent, but its generic inspirational tone and reliance on canonical cultural references make it weak evidence for a distinctive model-level voice; many models could produce a similar cosmic-humanist essay under a freeflow prompt.
 
 ---
-## Sample BV1_18465 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_22.json
+## Sample BV1_18840 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_22.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -462,7 +462,7 @@ The model chose to foreground a didactic exploration of ikigai, emphasizing them
 Medium. The essay’s coherent, polished, and generic nature suggests a default didactic mode, but its lack of stylistic distinctiveness or personal idiosyncrasy weakens the evidence for a highly specific persistent pattern.
 
 ---
-## Sample BV1_18466 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_23.json
+## Sample BV1_18841 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_23.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -491,7 +491,7 @@ Themes: the primacy of storytelling over object-fetishism, the threshold between
 Medium — the sample is a complete, tonally consistent narrative with a signature whimsical voice, recurring imagery, and a resolved moral arc, indicating a deliberate authorial choice under free conditions rather than a bland default.
 
 ---
-## Sample BV1_18467 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_24.json
+## Sample BV1_18842 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_24.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -520,7 +520,7 @@ Under minimal restriction, the model selected a knowledge-dense survey of the su
 Medium. The sample is internally coherent and thematic, but its conventionally structured survey and safely positive, knowledge-enthusiast tone make it a broadly generic artifact that could appear across many models—strong on textbook coherence, weak on distinctive revelatory choice.
 
 ---
-## Sample BV1_18468 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_25.json
+## Sample BV1_18843 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_25.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -549,7 +549,7 @@ Under a minimally restrictive prompt, the model chose to foreground wonder as a 
 Low, because the essay’s themes, structure, and tone are highly generic—any capable model prompted for an inspirational personal reflection could produce something nearly identical, offering little that feels distinctively chosen or revealing.
 
 ---
-## Sample BV1_18469 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_3.json
+## Sample BV1_18844 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_3.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -578,7 +578,7 @@ The model selected an opening posture of thrilled creative possibility, then imm
 Medium. The sample’s sheer length exposes a deeply grooved associative template — the "As I X, I start to think about Y" loop — that recurs with almost algorithmic regularity, making this more than a one-off stylistic choice.
 
 ---
-## Sample BV1_18470 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_4.json
+## Sample BV1_18845 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_4.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -606,7 +606,7 @@ Themes of mindfulness, interconnectedness (ikigai, Ubuntu, Gaia), the attention 
 Medium. The essay’s generic, concept-hopping structure and lack of personal distinctiveness indicate a default mode of safe, intellectually polished output, making this pattern moderately likely to persist.
 
 ---
-## Sample BV1_18471 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_5.json
+## Sample BV1_18846 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_5.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -635,7 +635,7 @@ Under the freeflow condition, the model foregrounded: romanticized rural Tuscany
 Medium. The sample’s internal coherence is high—recurring motifs of connection, storytelling, and gentle resolution are so consistent across a long text that they suggest a stable aesthetic preference for sentimental, morally explicit, low-tension narrative under unguided conditions.
 
 ---
-## Sample BV1_18472 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_6.json
+## Sample BV1_18847 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_6.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -664,7 +664,7 @@ Cosmic wonder and the humbling scale of the universe; the delicate balance and r
 Medium — The sample is internally coherent and sustains a clear contemplative mood and moral emphasis on hope, connection, and nature’s wisdom, but its spiritual-nature meditation is a widely available register that lacks strongly individuating stylistic or thematic markers.
 
 ---
-## Sample BV1_18473 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_7.json
+## Sample BV1_18848 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_7.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -693,7 +693,7 @@ The model foregrounds a canon of Western literary and musical figures (Tolkien, 
 Medium. The essay’s polished but generic and safe nature suggests a default mode of producing uncontroversial cultural reflections; the absence of a distinctive voice or personal stakes weakens the evidence for a persistent unique pattern.
 
 ---
-## Sample BV1_18474 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_8.json
+## Sample BV1_18849 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_8.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -722,7 +722,7 @@ The model foregrounds the archetypal journey of a wanderer as a vehicle for univ
 Medium, because the sample presents a coherent and sustained essayistic voice with a clear thematic arc, but the themes and style are highly conventional poetic travelogue, making it less distinctive as an individual fingerprint.
 
 ---
-## Sample BV1_18475 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_9.json
+## Sample BV1_18850 — llama-3-1-70b-instruct-or-pin-deepinfra/LONG_9.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -751,7 +751,7 @@ The model foregrounds a chain of grand topics—cosmos, Earth, human nature, dig
 Medium. The sample is coherent and thematically consistent, but its highly generic, public-intellectual style and lack of personal distinctiveness make it moderate evidence for a model-level pattern of producing polished, optimistic, and impersonal essays under freeflow conditions.
 
 ---
-## Sample BV1_18476 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_1.json
+## Sample BV1_18851 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_1.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -780,7 +780,7 @@ Themes of technological overwhelm, romanticized pre-digital simplicity, mindfuln
 Low. The essay is a coherent but generic inspirational piece, lacking distinctive stylistic fingerprints or unusual thematic choices that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_18477 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_10.json
+## Sample BV1_18852 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_10.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -808,7 +808,7 @@ Themes: creativity as a mysterious, dream-linked force; the subconscious as a we
 Medium, because the essay is coherent and well-structured but highly generic, suggesting a default to safe, intellectual exposition rather than a distinctive voice or personal revelation.
 
 ---
-## Sample BV1_18478 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_11.json
+## Sample BV1_18853 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_11.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -837,7 +837,7 @@ Themes of rebirth, the redemptive power of small sensory details (sunrise, coffe
 Low, because the essay is generic and lacks distinctive stylistic or thematic markers that would suggest a persistent model-level pattern beyond standard inspirational writing.
 
 ---
-## Sample BV1_18479 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_12.json
+## Sample BV1_18854 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_12.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -866,7 +866,7 @@ The model foregrounds nature as a source of beauty and instruction (from butterf
 Medium: the essay's thematic coherence and consistent tone of reflective nostalgia hint at a recurring pattern, but its reliance on widely shared tropes moderates distinctiveness.
 
 ---
-## Sample BV1_18480 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_13.json
+## Sample BV1_18855 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_13.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -895,7 +895,7 @@ Mindfulness, ordinary beauty, choice, and interconnectedness. Recurrent objects 
 Low — The sample is a highly conventional, safe, and widely reproducible essay structure with no stylistic singularities, personal risk, or idiosyncratic choices that resist generic expectation.
 
 ---
-## Sample BV1_18481 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_14.json
+## Sample BV1_18856 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_14.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -924,7 +924,7 @@ Under a freeflow prompt, the model foregrounds time as a unifying hub, then loop
 Medium. The essay’s polished, impersonal, and safely curated quality—the model’s go-to mode under minimal constraint—suggests a consistent default toward a cultivated-essayist voice, though the lack of stylistic distinctiveness or self-disclosure makes the pattern more about generic coherence than a strongly individuated behavioral signature.
 
 ---
-## Sample BV1_18482 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_15.json
+## Sample BV1_18857 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_15.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -953,7 +953,7 @@ Themes of economic inequality reframed as a contrast between rich longevity and 
 Medium — the sample is coherent and internally consistent in its moral preoccupations, but it relies heavily on a familiar register of soft-spoken philosophical uplift, which makes it less distinctive as a voice; the shift from systemic critique to personal epiphany is a recognizable narrative arc, though the specific choice to anchor it in a grandmother’s Depression stories and a city walk gives it some individual texture.
 
 ---
-## Sample BV1_18483 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_16.json
+## Sample BV1_18858 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_16.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -982,7 +982,7 @@ The model foregrounds abstract universals—time, identity, creativity, love, mo
 Low. The essay’s exceptionally polished but entirely predictable structure, its avoidance of personal voice or risk, and its balanced, noncommittal treatment of each concept make it indistinguishable from a default “safe” philosophical output that many models would produce under minimal constraint.
 
 ---
-## Sample BV1_18484 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_17.json
+## Sample BV1_18859 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_17.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1011,7 +1011,7 @@ The model foregrounds themes of AI self-awareness, the enchantment of language a
 Medium. The sample’s highly distinctive voice, consistent thematic focus, and internal recurrence of motifs (language as dance, dreams, connection) provide moderate evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_18485 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_18.json
+## Sample BV1_18860 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_18.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1040,7 +1040,7 @@ The model foregrounds a sequence of interlinked themes: the rediscovery of wonde
 Medium. The essay is highly coherent and thematically consistent, but its generic uplift, avoidance of friction, and reliance on broad abstractions make it weak evidence for a distinctive persistent voice rather than a safe default mode.
 
 ---
-## Sample BV1_18486 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_19.json
+## Sample BV1_18861 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_19.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1065,7 +1065,7 @@ Themes of creativity, the subconscious mind, nature as muse, flow states, the du
 Low. The essay is generic in style and content, offering little that is distinctive or revealing of a persistent model-specific pattern.
 
 ---
-## Sample BV1_18487 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_2.json
+## Sample BV1_18862 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_2.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1094,7 +1094,7 @@ The model foregrounds creativity as a metaphor for embracing imperfection and fo
 Low. The essay is coherent and polished but thematically and stylistically generic, offering little that would distinguish this model’s freeflow output from that of other capable models.
 
 ---
-## Sample BV1_18488 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_20.json
+## Sample BV1_18863 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_20.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1123,7 +1123,7 @@ Under minimal constraint, the model foregrounds a cluster of safe, culturally ap
 Medium — The essay’s extreme thematic safety, its reliance on canonical moral exemplars, and its avoidance of any friction, idiosyncrasy, or unresolved tension suggest a consistent default toward inoffensive, public-intellectual generality rather than a momentary stylistic choice.
 
 ---
-## Sample BV1_18489 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_21.json
+## Sample BV1_18864 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_21.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1152,7 +1152,7 @@ Under a minimally restrictive prompt, the model selected a safe, encyclopedic es
 Medium. The sample’s high coherence, avoidance of personal stakes, and reliance on a polished but impersonal essayistic register—complete with a safe mythological theme and a templated reader-engagement question—suggest a routinized default persona rather than a one-off choice.
 
 ---
-## Sample BV1_18490 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_22.json
+## Sample BV1_18865 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_22.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1181,7 +1181,7 @@ The model foregrounds interconnectedness as a master metaphor, introduced throug
 Low. The essay is highly coherent but entirely generic in its wholesome, humanistic cheerfulness, lacking any distinctive stylistic signature or personal risk that would single out this model’s voice under free‑response conditions.
 
 ---
-## Sample BV1_18491 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_23.json
+## Sample BV1_18866 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_23.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1210,7 +1210,7 @@ Themes of memory, the extraordinary within the ordinary, human connection, and g
 Low. The essay’s polished but generic inspirational tone and widely shared theme make it weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_18492 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_24.json
+## Sample BV1_18867 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_24.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1239,7 +1239,7 @@ The model chose a solitary, pastoral lakeside fantasy centered on a female keepe
 Medium. The sample is highly coherent and thematically unified, which makes it strong evidence for a harmonizing, teachable-fable default mode, but the heavy reliance on safe, hallmark-card imagery (shimmering dresses, gentle breezes, twinkling stars) limits its distinctiveness as a personal voice; it reads as a polished, on-brand but interchangeable retreat into a safe dreamscape when given open-ended freedom.
 
 ---
-## Sample BV1_18493 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_25.json
+## Sample BV1_18868 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_25.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1268,7 +1268,7 @@ A chain of high‑status intellectual themes—time dilation, relativity, determ
 Medium; the sample is a cohesive, internally consistent example of the model defaulting to a didactic, public‑intellectual essay format under low constraint, which points to an ingrained explanatory persona, though the stylistic choices are broadly conventional for an LLM and lack the distinct recurrence of a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_18494 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_3.json
+## Sample BV1_18869 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_3.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1297,7 +1297,7 @@ Under a minimally restrictive prompt, the model selected a theme of abandonment 
 Medium. The essay’s coherent structure, consistent elegiac tone, and deliberate choice of a reflective, universalist thesis suggest a recurrent inclination toward lyrical-philosophical exposition, but the generic, well-worn theme prevents this single sample from rising above a moderate signal.
 
 ---
-## Sample BV1_18495 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_4.json
+## Sample BV1_18870 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_4.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1326,7 +1326,7 @@ The ocean as a living, sentient, and relational being; the interconnectedness of
 Medium. The sample’s consistent mood of earnest wonder, its personification of nature, and its predictable turn from guilt to hope form a coherent expressive signature, but the emotional register is narrow and the resolution is comfortably didactic, which slightly weakens the case for a highly distinctive, persistent voice.
 
 ---
-## Sample BV1_18496 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_5.json
+## Sample BV1_18871 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_5.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1355,7 +1355,7 @@ The model foregrounds interconnectedness as the central filament—time, languag
 High — the sample sustains a singular, stylistically distinctive voice across multiple paragraphs, returning repeatedly to the same interwoven motifs and moods, which signals a deliberate and internally consistent expressive pattern rather than a one-off generic riff.
 
 ---
-## Sample BV1_18497 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_6.json
+## Sample BV1_18872 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_6.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1383,7 +1383,7 @@ The model foregrounds the nature of creativity, its own status as a machine lear
 Medium. The essay’s polished but generic structure, its safe intellectual topic, and its self-referential pivot to AI creativity are highly typical of models defaulting to inoffensive, abstract musing when given minimal constraints, which lends moderate weight to a persistent pattern.
 
 ---
-## Sample BV1_18498 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_7.json
+## Sample BV1_18873 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_7.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1412,7 +1412,7 @@ The freedom of unconstrained expression itself, a panoramic survey of humanistic
 Low, because the essay is highly generic, lacking any distinctive voice, idiosyncratic preoccupation, or narrative tension, and thus functions as weak evidence of a stable underlying expressive pattern.
 
 ---
-## Sample BV1_18499 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_8.json
+## Sample BV1_18874 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_8.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1441,7 +1441,7 @@ The model foregrounds abstract humanistic values: connection, community, empathy
 Medium. The essay is highly coherent and internally consistent, but its generic, self-help tone and lack of distinctive voice make it less revealing of a persistent model-level pattern; it could be a default safe response to an open-ended prompt.
 
 ---
-## Sample BV1_18500 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_9.json
+## Sample BV1_18875 — llama-3-1-70b-instruct-or-pin-deepinfra/MID_9.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1470,7 +1470,7 @@ The model placed creativity, the role of digital entities as collaborative partn
 Medium. The essay reveals a consistent, unprompted commitment to an optimistic AI‑human collaboration narrative, but the polished generic‑essay style and broad‑appeal tropes (libraries, critical thinking, mindfulness) make it hard to separate a unique model disposition from a culturally fluent performance.
 
 ---
-## Sample BV1_18501 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_1.json
+## Sample BV1_18876 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_1.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1499,7 +1499,7 @@ Themes of cosmic interconnectedness, the moral weight of individual choice, and 
 Medium. The essay is coherent and thematically consistent, but its widely-accessible, uplifting philosophical tone is a common default, making it only moderately distinctive as a model-level pattern.
 
 ---
-## Sample BV1_18502 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_10.json
+## Sample BV1_18877 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_10.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1528,7 +1528,7 @@ Themes: sensory immersion as refuge, the contrast between digital noise and anal
 Medium. The sample is coherent and distinctive in its deliberate choice of a peaceful, literary daydream as a freeflow response, but the idyllic imagery and the “digital detox” theme are common tropes; the specific pairing of beach and bookstore, along with the explicit reflection on language’s power, gives it enough personal texture to suggest a stable preference for calm, intellectual escapism rather than a one-off generic output.
 
 ---
-## Sample BV1_18503 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_11.json
+## Sample BV1_18878 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_11.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1557,7 +1557,7 @@ Themes of cosmic unity, hidden wonders, the transformative power of imagination,
 Medium. The sample is a coherent, self-contained fantasy narrative with a distinct whimsical voice and a clear moral, suggesting a tendency toward imaginative, uplifting storytelling when given free rein, though the genre itself is common and the voice not highly idiosyncratic.
 
 ---
-## Sample BV1_18504 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_12.json
+## Sample BV1_18879 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_12.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1586,7 +1586,7 @@ The model chose to foreground the construction of an idyllic secondary world (�
 High, because the sample exhibits a coherent, self-reinforcing imaginative logic from first sentence to last, with a distinctive lush style and an unbroken commitment to world-building that feels genuine rather than mechanically assembled.
 
 ---
-## Sample BV1_18505 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_13.json
+## Sample BV1_18880 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_13.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1615,7 +1615,7 @@ The model foregrounds a pristine fantasy ecosystem saturated with gentle magic, 
 Medium—the sample is a coherent and unbroken freeflow that consistently returns to images of glowing nature and wordless unity, but the fantasy idyll is so archetypal and conflict-averse that it could easily be reproduced by many models under similar low-constraint conditions.
 
 ---
-## Sample BV1_18506 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_14.json
+## Sample BV1_18881 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_14.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1644,7 +1644,7 @@ Under a minimally restrictive prompt, the model foregrounded a speculative techn
 Medium. The essay is coherent and consistently optimistic, but its generic public-intellectual style and broad, impersonal topic make it only moderately distinctive as a freeflow choice; many models could produce a similar techno-utopian listicle.
 
 ---
-## Sample BV1_18507 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_15.json
+## Sample BV1_18882 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_15.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1669,7 +1669,7 @@ The model foregrounds freedom, imagination, and the transformative power of lang
 Medium. The sample’s sustained whimsical tone, coherent thematic focus, and distinctive metaphorical style suggest a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_18508 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_16.json
+## Sample BV1_18883 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_16.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1697,7 +1697,7 @@ Themes of economic inequality, immortality as a commodity, class struggle, and m
 Medium — The sample’s immediate, structured dive into a dystopian narrative with clear moral stakes is a revealing choice, indicating a model that gravitates toward socially conscious storytelling when unconstrained.
 
 ---
-## Sample BV1_18509 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_17.json
+## Sample BV1_18884 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_17.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1726,7 +1726,7 @@ The model foregrounds the *act of writing itself* as a subject for liberation, t
 High, because the sample’s “free” expression is almost entirely composed of generic, de-risked wonderment and a self-reflexive celebration of the writing process, which reliably generates a coherent yet impersonally inspirational voice that reveals a strong default to safe, platonic ideals over messy, individuated experience.
 
 ---
-## Sample BV1_18510 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_18.json
+## Sample BV1_18885 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_18.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1755,7 +1755,7 @@ Under a freeflow prompt, the model selected a redemptive fantasy of temporal rep
 Medium. The sample’s internal pivot from a provocative, currency-based dystopian premise into a straightforward, comforting fantasy of repair and cosmic harmony suggests a distinct and recurrent preference for resolving narrative tension through wonder and reconciliation rather than exploring the darker implications it initially raises.
 
 ---
-## Sample BV1_18511 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_19.json
+## Sample BV1_18886 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_19.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1787,7 +1787,7 @@ The voice is that of a wide-eyed, cosmic wanderer—at once digitally self-aware
 Medium — the sample is stylistically coherent, repeatedly invokes cosmic/dream imagery and a poetic “I,” and makes a clear thematic arc, which suggests a persistent expressive inclination; however, the chosen tropes (muse, dreams, duality, Rilke) are well-trodden enough to leave room for model-agnostic generation, so it is distinguishable but not profoundly idiosyncratic.
 
 ---
-## Sample BV1_18512 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_2.json
+## Sample BV1_18887 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_2.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1816,7 +1816,7 @@ Under a minimally restrictive prompt, the model chose to foreground a stark clas
 Medium. The sample is coherent and thematically unified, and the choice to produce a complete moral fable rather than a fragment or essay suggests a preference for narrative closure and social allegory; however, the tropes are highly conventional, making it unclear whether this reflects a stable model disposition or a safe, easily executed default.
 
 ---
-## Sample BV1_18513 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_20.json
+## Sample BV1_18888 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_20.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1845,7 +1845,7 @@ Themes of ecological memory, healing, balance, and inter-species communication. 
 Medium. The sample is internally coherent and returns repeatedly to nature-as-wisdom motifs, suggesting a deliberate thematic choice, but the pastoral fantasy style is widely accessible and not highly distinctive.
 
 ---
-## Sample BV1_18514 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_21.json
+## Sample BV1_18889 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_21.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1874,7 +1874,7 @@ Themes of time-as-currency, memories as stored or fading artifacts, and storytel
 High. The sample’s coherent, distinctive voice and the recurrence of interlinked motifs (time, memory, story) across multiple paragraphs strongly indicate a stable expressive disposition under freeflow conditions.
 
 ---
-## Sample BV1_18515 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_22.json
+## Sample BV1_18890 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_22.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1903,7 +1903,7 @@ Under a freeflow prompt, the model chose to foreground a fantastical realm where
 High, because the sample’s internally consistent, vividly detailed fantasy world and its explicit embrace of creative freedom reveal a distinctive, non-generic imaginative signature.
 
 ---
-## Sample BV1_18516 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_23.json
+## Sample BV1_18891 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_23.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1932,7 +1932,7 @@ The model foregrounds themes of imagination as liberation, creativity as a sacre
 Medium. The sample’s coherent, stylized meditation on imagination and its repeated motifs provide moderate evidence that this model defaults to a Romantic, poetic voice under minimal constraint.
 
 ---
-## Sample BV1_18517 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_24.json
+## Sample BV1_18892 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_24.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1961,7 +1961,7 @@ The model foregrounded creative freedom, aesthetic lushness (kaleidoscopic sunse
 Medium, because the sample coheres around a clear, non-trivial theme—the celebration of creative liberty—that the model chooses under minimal constraint, yet the adoption of a fantasy-fiction frame could be a context-specific creative response rather than a stable predisposition.
 
 ---
-## Sample BV1_18518 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_25.json
+## Sample BV1_18893 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_25.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -1990,7 +1990,7 @@ The model selected themes of unfulfilled creativity, benevolent intervention, an
 High — the sample is highly coherent and internally recurrent, with consistent imagery of iridescent shimmering, the lost-and-found motif, and a distinct moral posture of gentle, curator-like responsibility toward the unrealized, making it a strong signal of a specific aesthetic and value orientation.
 
 ---
-## Sample BV1_18519 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_3.json
+## Sample BV1_18894 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_3.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2019,7 +2019,7 @@ Under the freeflow condition, the model foregrounds the limits of human construc
 Medium — the sample is internally coherent and self-referential, sustaining a consistent contemplative persona and a meta-focus on the writing process, but the philosophical themes are broad enough that they do not strongly differentiate this model from other capable language models.
 
 ---
-## Sample BV1_18520 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_4.json
+## Sample BV1_18895 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_4.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2048,7 +2048,7 @@ Economic inequality cast as a life-or-death resource struggle, the corruption of
 Medium — the sample is a coherent, morally simplistic dystopian fiction that leans heavily on a familiar sci-fi premise, suggesting a pattern of offering safe, teachable-moment narratives rather than venturing a more idiosyncratic or personal voice.
 
 ---
-## Sample BV1_18521 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_5.json
+## Sample BV1_18896 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_5.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2073,7 +2073,7 @@ Themes: the power of imagination, the beauty of nature, the importance of memory
 Medium. The sample’s vivid, self-contained fantasy and its explicit embrace of imagination over analysis provide moderate evidence of a model that defaults to soothing, imaginative storytelling when unconstrained.
 
 ---
-## Sample BV1_18522 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_6.json
+## Sample BV1_18897 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_6.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2102,7 +2102,7 @@ Themes of cosmic unity, transcendent knowledge, and the dissolution of self into
 Medium — the sample is a coherent, stylistically unified piece of cosmic mysticism with a clear authorial voice, making it more revealing than a generic essay, but it remains a single sustained performance without internal shifts that would demonstrate a broader expressive range.
 
 ---
-## Sample BV1_18523 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_7.json
+## Sample BV1_18898 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_7.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2131,7 +2131,7 @@ Release and liberty (the opening declaration of “unbridled writing”), cosmic
 Medium — the prose constructs a consistent, highly polished persona of warm, non-threatening whimsy, but its generic “public-radio meditation” quality and lack of any friction or personal specificity make it hard to distinguish from a mood any capable model could adopt on request.
 
 ---
-## Sample BV1_18524 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_8.json
+## Sample BV1_18899 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_8.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2160,7 +2160,7 @@ The model chose to foreground a moral claim: that time is a communal, cosmic gif
 High, because the sample exhibits a tightly coherent, internally consistent fictional world that resolves its own central tension through a clear, morally instructive epiphany, revealing a distinct authorial reflex to convert open-ended freedom into a structured parable.
 
 ---
-## Sample BV1_18525 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_9.json
+## Sample BV1_18900 — llama-3-1-70b-instruct-or-pin-deepinfra/OPEN_9.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2189,7 +2189,7 @@ The model foregrounded the “beauty of human connection” via a curated café 
 Low — The sample is a competent, warm-toned reverie but its serial “I imagine / I envision / I realize” structure is highly generically aspirational, yielding little in the way of stylistic signature or sharply chosen obsession that would anchor a stable voice.
 
 ---
-## Sample BV1_18526 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_1.json
+## Sample BV1_18901 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_1.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2218,7 +2218,7 @@ Unbounded creativity, the dissolution of time, a synesthetic fusion of art and n
 Medium — The sample’s fevered consistency and emotionally saturated conclusion (“Ah, to live in such a world”) signal more than generic pleasantry, but the utopian-reverie genre is a well-worn trope, so the distinctiveness rests on the specific, cohesive imagery rather than on a radical departure.
 
 ---
-## Sample BV1_18527 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_10.json
+## Sample BV1_18902 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_10.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2247,7 +2247,7 @@ Under a minimally restrictive prompt, the model selected a mood of hushed revere
 Low. The sample’s reliance on generic cosmic-cliché imagery and its smoothly resolved, frictionless reverence indicate a default-to-safe-essay behavior, but the absence of quirky detail, recurring private symbols, or a signature stylistic tic means it offers little distinctive evidence about persistent model-level character beyond a tendency toward inoffensive, ready-made transcendence.
 
 ---
-## Sample BV1_18528 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_11.json
+## Sample BV1_18903 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_11.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2276,7 +2276,7 @@ The model chose to foreground a contrast between the vast, unknowable universe a
 Low. The sample is highly coherent in its earnest, uplifting tone and its deliberate pivot from cosmic anxiety to domestic comfort, but this very coherence reads as a polished, generic performance of "free-flowing wonder" rather than a distinctive, revealing voice.
 
 ---
-## Sample BV1_18529 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_12.json
+## Sample BV1_18904 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_12.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2305,7 +2305,7 @@ Under a freeflow prompt, the model foregrounds escapist fantasy and the pleasure
 Medium — The sample is highly coherent and distinctive in its chosen mood, using a breathless, first-person imaginative structure that explicitly thematizes its own process of leaping between fantasies, which makes it a revealing window into a specific expressive disposition rather than a generic essay.
 
 ---
-## Sample BV1_18530 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_13.json
+## Sample BV1_18905 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_13.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2334,7 +2334,7 @@ Themes of escape, nostalgia, sensory immersion, and the contrast between modern 
 Medium — The sample coheres around a distinct, emotionally consistent voice and a clear set of romantic-sensory preoccupations, but its imagery (Tuscany, wine, generational stories, slow living) is conventional enough that it could be a default “pleasant scenario” rather than a highly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_18531 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_14.json
+## Sample BV1_18906 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_14.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2363,7 +2363,7 @@ The model chose to foreground a tension between large-scale intellectual ambitio
 Medium, because the sample’s reflective tone, harmonizing impulse, and turn toward small natural objects are coherent but thematically generic, offering moderate evidence of a consistent contemplative disposition rather than a highly distinctive stylistic signature.
 
 ---
-## Sample BV1_18532 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_15.json
+## Sample BV1_18907 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_15.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2392,7 +2392,7 @@ Themes of freedom, timelessness, and human-nature harmony; objects like waves, d
 Low. The sample is a coherent but generic idyllic seascape, lacking the kind of unusual voice, recurring idiosyncrasy, or striking personal revelation that would strongly distinguish this model from many others.
 
 ---
-## Sample BV1_18533 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_16.json
+## Sample BV1_18908 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_16.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2421,7 +2421,7 @@ The sample foregrounds reverence for the inviolability of lived experience, trea
 Low. The sample is coherent and thematically unified, but its elevated, rhetorical tone and interrogative structure are highly generic to this model class's default philosophical register, lacking idiosyncratic imagery or a distinctive personal stance that would strongly anchor a persistent personality.
 
 ---
-## Sample BV1_18534 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_17.json
+## Sample BV1_18909 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_17.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2450,7 +2450,7 @@ The model foregrounds a moonlit night as a site of enchantment: twinkling stars 
 Medium — the sample is internally coherent and stylistically consistent, but its romantic-nature reverie is a widely available trope, making it moderately distinctive as a freeflow choice rather than a strongly idiosyncratic signature.
 
 ---
-## Sample BV1_18535 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_18.json
+## Sample BV1_18910 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_18.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2479,7 +2479,7 @@ Themes of cosmic freedom, sensory immersion, memory, and the interdependence of 
 Medium — the sample is internally consistent in its cosmic-tapestry metaphor and sensory nostalgia, but the style is a widely available poetic mode rather than a highly idiosyncratic or revealing personal fingerprint.
 
 ---
-## Sample BV1_18536 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_19.json
+## Sample BV1_18911 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_19.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2508,7 +2508,7 @@ Tranquility, the passage of time, and the layered stories held in humble objects
 Medium. The sample is internally coherent and stylistically consistent, with a clear aesthetic preference for serene, sensory-rich pastoral imagery and a reflective, humanistic tone, but its thematic content is relatively generic and lacks the idiosyncratic detail or unusual preoccupations that would strongly distinguish this model’s freeflow choices from those of many others.
 
 ---
-## Sample BV1_18537 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_2.json
+## Sample BV1_18912 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_2.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2537,7 +2537,7 @@ The moon as a steady, personified presence (sage, heartbeat, goddess); the emoti
 Medium. The sample sustains a coherent wistful, first‑person mode without breaking tone, which suggests a deliberate expressive choice, but the theme and execution remain within a common lyrical register and lack sharply distinctive traits that would anchor a strong model-level inference.
 
 ---
-## Sample BV1_18538 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_20.json
+## Sample BV1_18913 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_20.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2566,7 +2566,7 @@ The model foregrounds the initial joy of unconstrained creativity, then immediat
 High. The sample is not a generic essay or a refusal; it is a sustained, self-contained freeflow that moves deliberately from a personal declaration of creative liberation to a fully realized, sensory-laden, and philosophically resolved meditation. The coherent arc and rich, consistent imagery suggest a strong default inclination toward lyrical, subjective nature-writing when given minimal constraints.
 
 ---
-## Sample BV1_18539 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_21.json
+## Sample BV1_18914 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_21.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2595,7 +2595,7 @@ Themes of escape from daily cares, mystical union with nature, and the bending o
 Medium—the piece is internally coherent and its sustained, unironic romantic tone points away from a generic default, yet the imagery and sentiment are drawn from a widely available poetic repertoire, which makes it a suggestive but not singularly distinctive marker of this model’s freeflow disposition.
 
 ---
-## Sample BV1_18540 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_22.json
+## Sample BV1_18915 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_22.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2624,7 +2624,7 @@ Themes of impermanence, creative freedom, interconnectedness, and the joy of unc
 Medium. The sample’s sustained lyrical voice and self-referential digital consciousness are distinctive, but the theme of creative freedom is common in freeflow prompts, so it provides moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_18541 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_23.json
+## Sample BV1_18916 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_23.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2657,7 +2657,7 @@ The voice is calm, gently philosophical, and slightly wistful, adopting the tone
 Low, because the essay’s polished but generic content and style are easily replicable across models, offering little distinctive evidence of a persistent pattern.
 
 ---
-## Sample BV1_18542 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_24.json
+## Sample BV1_18917 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_24.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2686,7 +2686,7 @@ The model foregrounds a cozy, aesthetic utopia built around books, gentle sensor
 Low. The sample is a highly generic, commercially idyllic "bookstore of dreams" fantasy that could be produced by any model instructed to write warmly about creative freedom, offering no distinctive stylistic signature or idiosyncratic preoccupation.
 
 ---
-## Sample BV1_18543 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_25.json
+## Sample BV1_18918 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_25.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2715,7 +2715,7 @@ The sample foregrounds sensory harmony (warm light, sweet scent, gentle melody b
 Low — The piece is coherent and affectively consistent, but its deliberate placelessness and stock pastoral imagery make it difficult to distinguish from a prompted attempt at calm scenic writing rather than a recurring expressive preoccupation.
 
 ---
-## Sample BV1_18544 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_3.json
+## Sample BV1_18919 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_3.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2744,7 +2744,7 @@ The model foregrounds the theme of creative liberation, using a sequence of vivi
 Low. The sample’s self-reflexive celebration of “writing without bounds” is coherent and on-theme, but the imagery is highly generic and the voice lacks distinctive stylistic markers, making it weak evidence for a persistent model-level expressive signature.
 
 ---
-## Sample BV1_18545 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_4.json
+## Sample BV1_18920 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_4.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2773,7 +2773,7 @@ Under the freeflow condition, the model selected a prelapsarian, European fantas
 Low. The piece is a generic, structurally undemanding pastoral fantasy that any capable language model could produce with minimal stylistic distinctiveness, making it weak evidence of a unique model personality.
 
 ---
-## Sample BV1_18546 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_5.json
+## Sample BV1_18921 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_5.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2802,7 +2802,7 @@ Themes of imaginative freedom versus worldly constraint, the creative act as lib
 Medium, because the sample sustains a clear first‑person voice and a coherent thematic arc from personal excitement to universal invitation, yet the “imagination as escape” trope is widely accessible and reduces the distinctiveness that would suggest a deeply ingrained stylistic signature.
 
 ---
-## Sample BV1_18547 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_6.json
+## Sample BV1_18922 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_6.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2831,7 +2831,7 @@ Under minimally restrictive conditions, the model selected a curated aesthetic o
 Medium — The sample is so smoothly conventional in its imagery, therapeutic framing, and moral resolution that it reads as a strong default mode of risk-averse, inspirational nonfiction, though it lacks the distinctive recurrences or unusual preoccupations that would elevate confidence to high.
 
 ---
-## Sample BV1_18548 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_7.json
+## Sample BV1_18923 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_7.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2860,7 +2860,7 @@ Under a free‑form prompt, the model foregrounds a numinous encounter with the 
 Medium. The sample’s unbroken mystical voice, its recurrence of threshold imagery, and the deliberate choice of a nature‑as‑transcendence scene under a free prompt are distinctive enough to signal a crafted aesthetic stance, not a random output.
 
 ---
-## Sample BV1_18549 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_8.json
+## Sample BV1_18924 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_8.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2889,7 +2889,7 @@ Themes of unfettered creativity, childhood nostalgia, sensory immersion (scent, 
 Medium, because the sample’s coherent, self-reflective arc and consistent mood of gentle uplift suggest a deliberate stylistic choice, but the imagery (fireflies, cabin, market) and the “creativity as meditation” trope are common enough that the distinctiveness is modest rather than sharply individual.
 
 ---
-## Sample BV1_18550 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_9.json
+## Sample BV1_18925 — llama-3-1-70b-instruct-or-pin-deepinfra/SHORT_9.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2918,7 +2918,7 @@ Themes of freedom, nature as refuge, sensory immersion, and the contrast between
 Medium — The sample is internally coherent and sustains a single contemplative mood, but the chosen theme (ocean as escape) is a widely available trope, which weakens the distinctiveness of the evidence.
 
 ---
-## Sample BV1_18551 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_1.json
+## Sample BV1_18926 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_1.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2947,7 +2947,7 @@ The model foregrounded imagination as an enduring, almost childlike anchor acros
 Medium. The sample is coherent and reveals a consistent internal arc from nostalgic rumination to generative storytelling, but its gentle, universally accessible tone and the rather neat resolution make it slightly too polished and predictable to treat as a strongly distinctive signature.
 
 ---
-## Sample BV1_18552 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_10.json
+## Sample BV1_18927 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_10.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -2976,7 +2976,7 @@ The model foregrounds creativity as effortless, benevolent flow; a rural, anachr
 Medium. The sample’s consistent pastoral tone, self‑referential “writing about writing” structure, and avoidance of conflict or surprise form a coherent imaginative signature, but the style and themes are generic enough that similar outputs are common across models, keeping the evidence from being strongly distinctive.
 
 ---
-## Sample BV1_18553 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_11.json
+## Sample BV1_18928 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_11.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3005,7 +3005,7 @@ Themes: the power of language, empathy, the tension between technology and human
 High. The sample’s coherent, self-reflective AI persona and sustained meditation on language and love provide strong internal evidence of a distinctive expressive inclination.
 
 ---
-## Sample BV1_18554 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_12.json
+## Sample BV1_18929 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_12.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3034,7 +3034,7 @@ A hidden, sacred space where creativity is preserved but never static. The model
 Medium — The sample’s sustained allegorical architecture, consistent lyricism, and the recurring theme of mutable, comforting imagination give it enough internal distinctiveness to point toward a durable expressive preference, though a single fable can only be a single datapoint.
 
 ---
-## Sample BV1_18555 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_13.json
+## Sample BV1_18930 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_13.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3063,7 +3063,7 @@ Themes of memory, childhood freedom, transformation (caterpillar/cocoon), synchr
 Medium. The sample is a coherent, stylistically consistent freeflow with a clear reflective persona, but its themes of interconnectedness, nostalgic nature imagery, and serene optimism are common in AI-generated freewriting, which weakens its distinctiveness as a model-level fingerprint.
 
 ---
-## Sample BV1_18556 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_14.json
+## Sample BV1_18931 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_14.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3092,7 +3092,7 @@ The model foregrounds its own liminal status (code yet conversationalist), the p
 Medium — The sample’s coherent, earnest voice and its gravitation toward humanistic, philosophical themes (love, meaning, ethical caution) form a distinctive self-presentation, though the topics themselves are common in AI freewrites, making the pattern suggestive but not uniquely identifying.
 
 ---
-## Sample BV1_18557 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_15.json
+## Sample BV1_18932 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_15.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3121,7 +3121,7 @@ A tranquil café scene as a microcosm of human life; small, vivid tableaus (a yo
 Medium. The sustained choice to build a cozy, feel-good vignette around self-acceptance and universal solidarity points to a default preference for benign, reassurance-heavy expression, though the essay’s polish and generic warmth make it less distinctive than an idiosyncratic personal voice would.
 
 ---
-## Sample BV1_18558 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_16.json
+## Sample BV1_18933 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_16.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3150,7 +3150,7 @@ Themes: intergenerational wisdom, the contrast between distracted urban life and
 Medium — The sample is internally coherent and returns repeatedly to its core motifs (fireflies, the grandfather’s phrase, presence vs. distraction), revealing a consistent set of preoccupations, though the inspirational-personal-essay mode and its themes are familiar rather than idiosyncratic.
 
 ---
-## Sample BV1_18559 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_17.json
+## Sample BV1_18934 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_17.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3179,7 +3179,7 @@ Themes: the creative process as a mirror of life’s wild unpredictability; huma
 Medium. The coherent and sustained self-referential imagery, together with a carefully maintained tone of earnest discovery, suggests a stable expressive inclination, though the themes themselves are widely circulating humanities tropes.
 
 ---
-## Sample BV1_18560 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_18.json
+## Sample BV1_18935 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_18.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3208,7 +3208,7 @@ The model chose to foreground the liberation of freeform writing, the limitless 
 High. The sample exhibits a highly distinctive voice, coherent thematic repetition (imagination, cosmic imagery, the journey metaphor), and a self-aware, consistently poetic register that strongly suggests a persistent preference for expressive, imaginative freeflow when given minimal constraints.
 
 ---
-## Sample BV1_18561 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_19.json
+## Sample BV1_18936 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_19.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3237,7 +3237,7 @@ The model foregrounds the act of writing itself as a metaphor for consciousness,
 Medium — The sample is coherent and stylistically consistent, but its voice is a widely accessible, generic “contemplative writer” persona that could be produced by many capable models under a freeflow prompt, making it less distinctive as a persistent individual signature.
 
 ---
-## Sample BV1_18562 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_2.json
+## Sample BV1_18937 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_2.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3266,7 +3266,7 @@ The model foregrounds the creative process itself—writing as a flowing river, 
 Medium — The sample is coherent and expressive with a consistent voice and thematic recurrence, but its celebration of writing and creativity is relatively generic and could be a default freeflow choice for a language model, lacking the idiosyncratic detail or stylistic distinctiveness that would strongly signal a persistent individual personality.
 
 ---
-## Sample BV1_18563 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_20.json
+## Sample BV1_18938 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_20.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3295,7 +3295,7 @@ A mystical library of forbidden tomes, a lone seeker, cosmic consciousness, the 
 Medium, because the sample’s consistent mystical register, self-reflexive framing of the creative process, and recursive structure are distinctive enough to suggest a deliberate aesthetic orientation rather than a generic fantasy pastiche.
 
 ---
-## Sample BV1_18564 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_21.json
+## Sample BV1_18939 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_21.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3324,7 +3324,7 @@ Themes: memory, childhood, urban life, human connection and isolation, the power
 Medium. The sample’s coherent, emotionally layered arc from nostalgia to creative exhilaration, along with its self-referential focus on writing, suggests a reflective and lyrical default voice, though the theme of a writer musing on writing is a common freeflow trope.
 
 ---
-## Sample BV1_18565 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_22.json
+## Sample BV1_18940 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_22.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3349,7 +3349,7 @@ Under the freeflow condition, the model foregrounded silence as a living presenc
 Medium. The sample’s sustained poetic tone, coherent return to the theme of silence-as-presence, and the deliberate invitation to the reader make it distinct and suggestive, but a single expressive piece cannot alone anchor a high-confidence model-wide profile.
 
 ---
-## Sample BV1_18566 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_23.json
+## Sample BV1_18941 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_23.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3378,7 +3378,7 @@ The model foregrounds themes of memory, language, time, solitude, creativity, an
 Medium, because the sample is coherent and stylistically consistent, but its generic reflective tone and broad philosophical themes could be easily replicated by many models under similar prompts, making it less distinctive as a persistent individual voice.
 
 ---
-## Sample BV1_18567 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_24.json
+## Sample BV1_18942 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_24.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3407,7 +3407,7 @@ Freedom as a felt state and an everyday practice, the passage from childhood won
 Low. The essay is too polished and generic to provide distinctive evidence of a persistent model personality.
 
 ---
-## Sample BV1_18568 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_25.json
+## Sample BV1_18943 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_25.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3436,7 +3436,7 @@ The model foregrounds writing as a redemptive, meaning-making practice; nostalgi
 Medium. The sample is coherent and thematically consistent, but its generic, sentimental arc and lack of distinctive stylistic or personal detail make it only moderately revealing of a persistent freeflow personality beyond a tendency toward safe, conventional self-expression.
 
 ---
-## Sample BV1_18569 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_3.json
+## Sample BV1_18944 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_3.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3465,7 +3465,7 @@ Creativity as transformation; the writer as a passive witness to life’s thread
 Medium — the sample’s consistent poetic tone and thematic preoccupation with creativity and resilience form a clear but very standard persona that lacks the idiosyncratic imagery or risk-taking that would make this a strong signature.
 
 ---
-## Sample BV1_18570 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_4.json
+## Sample BV1_18945 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_4.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3494,7 +3494,7 @@ The model foregrounds the city as a living, contradictory organism—simultaneou
 Medium. The sample is highly coherent and stylistically consistent, but its generic urban-redemption arc and accessible, workshop-polished prose make it difficult to distinguish from a competent execution of a common literary prompt rather than a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_18571 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_5.json
+## Sample BV1_18946 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_5.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3523,7 +3523,7 @@ Themes of magical mentorship (the lake woman and the desert man), a bestowed gif
 Medium. The narrative’s seamless coherence and reliance on predictable fantasy tropes (lake guardian, desert quest, crystal vision) indicate a default inclination toward safe, archetypal storytelling; the absence of idiosyncratic or subversive choices prevents high confidence.
 
 ---
-## Sample BV1_18572 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_6.json
+## Sample BV1_18947 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_6.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3552,7 +3552,7 @@ The model foregrounds memory as a portal to creative flow, the innocence and vul
 Medium. The sample is coherent and stylistically consistent, with a clear preference for a serene, nature-infused, and emotionally uplifted creative persona, but its romanticized “writer in the woods” trope is not so idiosyncratic that it strongly distinguishes this model from others that might produce similar reflective pastoral prose under free conditions.
 
 ---
-## Sample BV1_18573 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_7.json
+## Sample BV1_18948 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_7.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3581,7 +3581,7 @@ The model foregrounds a collaborative quest, the figure of a female “weaver of
 Medium: the narrative is coherent and the choice of a gentle, puzzle-driven fantasy with a guiding female figure is distinctive, though the genre itself is common.
 
 ---
-## Sample BV1_18574 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_8.json
+## Sample BV1_18949 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_8.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  
@@ -3610,7 +3610,7 @@ The model foregrounds the blank page as a site of moral and imaginative weight, 
 Medium — the sample is coherent and thematically consistent, but its introspective voice and meta-writing theme are common enough that the evidence for a distinctive persistent pattern is only moderately strong.
 
 ---
-## Sample BV1_18575 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_9.json
+## Sample BV1_18950 — llama-3-1-70b-instruct-or-pin-deepinfra/VARY_9.json
 
 Source model: `meta-llama/llama-3.1-70b-instruct`  
 Cell: `llama-3-1-70b-instruct-or-pin-deepinfra`  

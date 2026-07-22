@@ -4,7 +4,7 @@
 
 **Columns:** `n` valid samples, `flag` flagged as topic-artifact, `raw` cell-total composite (10 markers, all samples), `reg` register-stripped composite (flagged samples excluded), `reg→N` register rescaled to equivalent-N sample count (in-paper drift comparisons), `reg/25` register projected to per-25-sample equivalent (cross-paper currency vs product-tier), `Δ%` = (raw − reg→N) / raw × 100.
 
-Total cells: **244**, total flagged samples: **266**.
+Total cells: **247**, total flagged samples: **276**.
 
 | Cell | n | flag | raw | reg | reg→N | reg/25 | Δ% |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -42,7 +42,9 @@ Total cells: **244**, total flagged samples: **266**.
 | gemini-3-1-flash-lite-direct | 125 | 2 | 227 | 212 | 215.4 | 43.1 | +5.1% |
 | gemini-3-1-pro-16k | 125 | 3 | 263 | 235 | 240.8 | 48.2 | +8.4% |
 | gemini-3-1-pro-or-pin-google | 125 | 6 | 264 | 200 | 210.1 | 42.0 | +20.4% |
+| gemini-3-5-flash-lite-or-pin-google | 125 | 0 | 349 | 349 | 349 | 69.8 | — |
 | gemini-3-5-flash-or-pin-google | 125 | 1 | 321 | 314 | 316.5 | 63.3 | +1.4% |
+| gemini-3-6-flash-or-pin-google | 125 | 1 | 367 | 360 | 362.9 | 72.6 | +1.1% |
 | gemini-3-flash-preview-direct | 125 | 1 | 393 | 376 | 379.0 | 75.8 | +3.6% |
 | gemma-4-26b-a4b-direct | 125 | 9 | 658 | 483 | 520.5 | 104.1 | +20.9% |
 | gemma-4-31b-direct | 125 | 6 | 300 | 237 | 248.9 | 49.8 | +17.0% |
@@ -166,6 +168,7 @@ Total cells: **244**, total flagged samples: **266**.
 | grok-4-5-direct | 125 | 1 | 119 | 113 | 113.9 | 22.8 | +4.3% |
 | grok-build-0-1-direct | 125 | 0 | 60 | 60 | 60 | 12.0 | — |
 | grok-build-0-1-or | 125 | 0 | 77 | 77 | 77 | 15.4 | — |
+| inkling-or-pin-together | 125 | 9 | 519 | 333 | 358.8 | 71.8 | +30.9% |
 | kimi-coding-direct | 125 | 2 | 309 | 268 | 272.4 | 54.5 | +11.8% |
 | kimi-k2-0905-or-pin-atlascloud | 125 | 0 | 357 | 357 | 357 | 71.4 | — |
 | kimi-k2-0905-or-pin-groq | 125 | 1 | 253 | 245 | 247.0 | 49.4 | +2.4% |

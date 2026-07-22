@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_13426 — gpt-5-6-luna-direct/LONG_1.json
+## Sample BV1_13676 — gpt-5-6-luna-direct/LONG_1.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -57,7 +57,7 @@ The model foregrounds attention as a moral and political act, the ordinary as th
 Medium. The essay is highly coherent and stylistically distinctive in its recursive structure, domestic imagery, and moral seriousness, but its polished, universalizing tone makes it difficult to distinguish a persistent model voice from a skilled performance of the contemplative essay genre.
 
 ---
-## Sample BV1_13427 — gpt-5-6-luna-direct/LONG_10.json
+## Sample BV1_13677 — gpt-5-6-luna-direct/LONG_10.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -86,7 +86,7 @@ The model foregrounds the ordinary as the true site of life, attention as a quie
 Medium. The essay’s sustained, coherent meditation on the ordinary and its gentle, humanistic tone suggest a model that defaults to reflective, accessible philosophy, but the genre is common enough that this sample alone is not highly distinctive.
 
 ---
-## Sample BV1_13428 — gpt-5-6-luna-direct/LONG_11.json
+## Sample BV1_13678 — gpt-5-6-luna-direct/LONG_11.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -115,7 +115,7 @@ Themes: attention as wealth, the ordinary as the storehouse of happiness, the et
 High, because the essay sustains a distinctive, coherent voice and a tightly interwoven set of thematic preoccupations across its entire length, revealing a stable authorial disposition toward reflective, ethically inflected, and sensorially rich prose.
 
 ---
-## Sample BV1_13429 — gpt-5-6-luna-direct/LONG_12.json
+## Sample BV1_13679 — gpt-5-6-luna-direct/LONG_12.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -144,7 +144,7 @@ Themes: attention as a moral act and a form of love; the value of unclaimed, uno
 High — the essay sustains a distinctive, internally coherent voice and a tightly woven set of preoccupations across its full length, with a moral seriousness and stylistic control that read as a deliberate authorial stance rather than a generic or randomly assembled output.
 
 ---
-## Sample BV1_13430 — gpt-5-6-luna-direct/LONG_13.json
+## Sample BV1_13680 — gpt-5-6-luna-direct/LONG_13.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -173,7 +173,7 @@ Themes: the moral weight of small, repeated acts; maintenance as love; the beaut
 Medium — The essay’s voice is internally consistent and its motifs recur across paragraphs with an intentionally woven quality, showing strong stylistic commitment; however, the reflective-personal-essay mode is a well-established genre and not so uniquely voiced that it forecloses the possibility of the model shifting register entirely under a different freeflow prompt.
 
 ---
-## Sample BV1_13431 — gpt-5-6-luna-direct/LONG_14.json
+## Sample BV1_13681 — gpt-5-6-luna-direct/LONG_14.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -202,7 +202,7 @@ The model foregrounds attention as a moral and existential practice, the dignity
 Low — The essay is coherent and thematically consistent, but its polished, universalizing tone and lack of idiosyncratic detail or narrative risk make it difficult to distinguish from a competent response to a direct prompt about mindfulness, offering little evidence of a distinctive underlying disposition.
 
 ---
-## Sample BV1_13432 — gpt-5-6-luna-direct/LONG_15.json
+## Sample BV1_13682 — gpt-5-6-luna-direct/LONG_15.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -231,7 +231,7 @@ The model foregrounds the erosion of attention by technology and the cult of "th
 High, because the essay exhibits a sustained, distinctive stylistic voice, deep thematic coherence, and recurrent preoccupations that suggest a deliberate authorial persona rather than a generic or prompted response.
 
 ---
-## Sample BV1_13433 — gpt-5-6-luna-direct/LONG_16.json
+## Sample BV1_13683 — gpt-5-6-luna-direct/LONG_16.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -260,7 +260,7 @@ Under the freeflow condition, the model foregrounds a moral psychology of attent
 Low. The essay is coherent and thematically unified, but its polished, universalising style and avoidance of personal particularity make it difficult to distinguish from a competent response to a direct prompt for a reflective essay on attention.
 
 ---
-## Sample BV1_13434 — gpt-5-6-luna-direct/LONG_17.json
+## Sample BV1_13684 — gpt-5-6-luna-direct/LONG_17.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the moral and existential weight of “the middle”—the
 Medium — The essay is highly coherent and stylistically consistent throughout its long arc, selected unprompted under minimal restriction, which suggests these preoccupations and this reflective mode are strongly available to the model rather than improvised for a narrow prompt.
 
 ---
-## Sample BV1_13435 — gpt-5-6-luna-direct/LONG_18.json
+## Sample BV1_13685 — gpt-5-6-luna-direct/LONG_18.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -318,7 +318,7 @@ Under a minimally restrictive prompt, the model foregrounded the sanctity of the
 Medium. The essay is highly coherent and stylistically distinctive—its recursive structure, its moral seriousness about attention, and its preference for domestic imagery over abstraction all cohere into a recognizable sensibility—but its polished, universalizing tone makes it difficult to distinguish a persistent model-level voice from a skilled performance of a particular essayistic tradition.
 
 ---
-## Sample BV1_13436 — gpt-5-6-luna-direct/LONG_19.json
+## Sample BV1_13686 — gpt-5-6-luna-direct/LONG_19.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -347,7 +347,7 @@ Themes of ordinariness, attention, maintenance, memory, grief, failure, small ch
 Medium. The essay is coherent and thematically unified, but its polished, universalizing style and gentle humanism are common in reflective essay-writing models and lack the idiosyncratic voice or unusual preoccupations that would strongly signal a persistent personality.
 
 ---
-## Sample BV1_13437 — gpt-5-6-luna-direct/LONG_2.json
+## Sample BV1_13687 — gpt-5-6-luna-direct/LONG_2.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -376,7 +376,7 @@ The model foregrounds themes of attention, smallness, care, memory, and the arch
 Medium. The essay’s sustained, internally coherent meditation on smallness and care, delivered in a distinctive gentle voice, provides moderate evidence of a persistent inclination toward humanistic, contemplative themes.
 
 ---
-## Sample BV1_13438 — gpt-5-6-luna-direct/LONG_20.json
+## Sample BV1_13688 — gpt-5-6-luna-direct/LONG_20.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -405,7 +405,7 @@ Under a minimally restrictive prompt, the model foregrounds domestic ritual, the
 Medium — The sample is deeply coherent and stylistically unified, with recurrent imagery and a clear moral temper, which suggests a shaped authorial persona rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_13439 — gpt-5-6-luna-direct/LONG_21.json
+## Sample BV1_13689 — gpt-5-6-luna-direct/LONG_21.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -434,7 +434,7 @@ The model foregrounds smallness, attention, and the tension between performance 
 Medium — The sample is internally coherent, uses a consistent and distinctive first-person voice with recurrent motifs throughout, and makes revealing philosophical choices that suggest a settled, contemplative orientation rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_13440 — gpt-5-6-luna-direct/LONG_22.json
+## Sample BV1_13690 — gpt-5-6-luna-direct/LONG_22.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -462,7 +462,7 @@ Themes: attention as gift and moral choice, the dignity of the unnoticed, imperm
 Low. The essay is thoroughly conventional in form and tone, offering a safe thesis without idiosyncratic imagery, voice, or surprising self-disclosure that would distinguish this model.
 
 ---
-## Sample BV1_13441 — gpt-5-6-luna-direct/LONG_23.json
+## Sample BV1_13691 — gpt-5-6-luna-direct/LONG_23.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -491,7 +491,7 @@ Themes of attention as affection, the ordinary as the true site of meaning, the 
 High. The sample is exceptionally coherent, stylistically distinctive, and returns repeatedly to the same core preoccupations—attention, ordinariness, repair, and the cartography of small things—across its full length, making it strong evidence of a deliberate and characteristic expressive orientation.
 
 ---
-## Sample BV1_13442 — gpt-5-6-luna-direct/LONG_24.json
+## Sample BV1_13692 — gpt-5-6-luna-direct/LONG_24.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -520,7 +520,7 @@ The model elevated attention as a moral practice, the dignity of maintenance and
 Medium. The essay is coherent and stylistically unified, with recurring aphoristic closures and a consistent emotional key, suggesting a deliberate compositional sensibility; however, its thematic material—the valorization of the ordinary, the critique of productivity culture—is widely available and could reflect a single well-executed performance rather than a deeply embedded expressive signature.
 
 ---
-## Sample BV1_13443 — gpt-5-6-luna-direct/LONG_25.json
+## Sample BV1_13693 — gpt-5-6-luna-direct/LONG_25.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -549,7 +549,7 @@ The model foregrounds the moral weight of small, repetitive acts over dramatic t
 High. The essay’s internal coherence, recurrent imagery, and sustained tonal signature across a long sample form a distinct thematic fingerprint that is unlikely to be accidental.
 
 ---
-## Sample BV1_13444 — gpt-5-6-luna-direct/LONG_3.json
+## Sample BV1_13694 — gpt-5-6-luna-direct/LONG_3.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -578,7 +578,7 @@ Under a minimally restrictive prompt, the model chose to foreground the moral an
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive recursive structure and a clear moral sensibility, but its polished, public-intellectual tone could also be produced by a capable model under a direct prompt for reflective nonfiction, making it strong evidence of a chosen posture rather than an involuntary signature.
 
 ---
-## Sample BV1_13445 — gpt-5-6-luna-direct/LONG_4.json
+## Sample BV1_13695 — gpt-5-6-luna-direct/LONG_4.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -607,7 +607,7 @@ The model foregrounds the moral and existential weight of ordinary life: the sma
 Medium. The essay’s sustained coherence, distinctive voice, and recurrence of themes like attention, ordinariness, and the body’s wisdom make it strong evidence of a deliberate reflective orientation, though not as diagnostic as refusal-only behavior.
 
 ---
-## Sample BV1_13446 — gpt-5-6-luna-direct/LONG_5.json
+## Sample BV1_13696 — gpt-5-6-luna-direct/LONG_5.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -636,7 +636,7 @@ The model foregrounds the dignity of the ordinary, the moral weight of attention
 Medium. The essay is highly coherent and stylistically distinctive—its recursive structure, its cataloguing of small objects, and its moral emphasis on attention and maintenance recur so consistently within the sample that they suggest a deliberate, stable sensibility rather than a one-off exercise.
 
 ---
-## Sample BV1_13447 — gpt-5-6-luna-direct/LONG_6.json
+## Sample BV1_13697 — gpt-5-6-luna-direct/LONG_6.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -665,7 +665,7 @@ Themes: attention as a moral and existential act, the cost of distraction, the d
 Medium — the essay’s graceful but generically public-intellectual style, along with its avoidance of personal anecdote or idiosyncratic voice, makes it a coherent yet only moderately distinctive indicator of a persistent model personality.
 
 ---
-## Sample BV1_13448 — gpt-5-6-luna-direct/LONG_7.json
+## Sample BV1_13698 — gpt-5-6-luna-direct/LONG_7.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -694,7 +694,7 @@ The model foregrounds attention as a moral and spiritual practice, the insuffici
 Medium. The essay is highly coherent and stylistically distinctive—its recurrence of the morning/attention/arrival motif, its governing metaphors (net, garden, council, tide pool), and its consistent tone of benedictory calm suggest a deeply rehearsed sensibility rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_13449 — gpt-5-6-luna-direct/LONG_8.json
+## Sample BV1_13699 — gpt-5-6-luna-direct/LONG_8.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -723,7 +723,7 @@ The model foregrounds themes of memory, preservation, and the unreliability of t
 High. The sample’s internal coherence is tight: the cataloguing motif recurs from the first sentence to the final paragraph, the voice is singular and undiluted, and the thematic resolution is not only consistent but earned through the narrative’s own logic, suggesting a deliberate authorial sensibility rather than generic prompt-following.
 
 ---
-## Sample BV1_13450 — gpt-5-6-luna-direct/LONG_9.json
+## Sample BV1_13700 — gpt-5-6-luna-direct/LONG_9.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -752,7 +752,7 @@ The model foregrounds attention as a form of generosity and resistance, the unno
 High. The sample’s sustained, internally coherent meditation—sustaining a consistent voice, moral vocabulary, and set of images over many paragraphs—strongly indicates a model that, left to its own devices, gravitates toward reflective, humanistic essay-writing with a distinctive blend of modesty and moral seriousness.
 
 ---
-## Sample BV1_13451 — gpt-5-6-luna-direct/MID_1.json
+## Sample BV1_13701 — gpt-5-6-luna-direct/MID_1.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -781,7 +781,7 @@ Under a minimally restrictive prompt, the model chose to foreground the moral an
 Medium. The essay is highly coherent and stylistically distinctive in its use of slow accumulation, repeated returns to domestic thresholds, and a consistent moral vocabulary of attention, receipt, and quiet dignity, which marks it as a patterned expressive choice rather than a generic performance—but the absence of any sharp surprise, friction, or idiosyncratic risk limits how strongly it signals a singular voice.
 
 ---
-## Sample BV1_13452 — gpt-5-6-luna-direct/MID_10.json
+## Sample BV1_13702 — gpt-5-6-luna-direct/MID_10.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -810,7 +810,7 @@ The model foregrounds the magic of ordinary days, the power of attention to give
 High: the essay's sustained lyrical voice, thematic unity, and philosophical depth are unusually revealing of a contemplative, humanistic orientation.
 
 ---
-## Sample BV1_13453 — gpt-5-6-luna-direct/MID_11.json
+## Sample BV1_13703 — gpt-5-6-luna-direct/MID_11.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -839,7 +839,7 @@ The model foregrounds attention as a moral and aesthetic practice, the quiet tex
 Low. The essay is coherent and thematically consistent, but its polished, impersonal wisdom and reliance on widely circulating mindfulness tropes make it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_13454 — gpt-5-6-luna-direct/MID_12.json
+## Sample BV1_13704 — gpt-5-6-luna-direct/MID_12.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -868,7 +868,7 @@ The model foregrounds the tension between performance and presence, the sacredne
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent meditative register and recurring motifs (dawn, silence, maintenance, attention), which suggests a deliberate and not merely accidental choice of voice and preoccupation.
 
 ---
-## Sample BV1_13455 — gpt-5-6-luna-direct/MID_13.json
+## Sample BV1_13705 — gpt-5-6-luna-direct/MID_13.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -901,7 +901,7 @@ Under the freeflow condition, the model selected:
 High. The essay’s thorough thematic unity, its sustained contemplative tone, and the deliberate structuring of ideas around a single moral core—rather than a scattered or generic response—strongly indicate a consistent inclination toward reflective, humanistic freeflow prose.
 
 ---
-## Sample BV1_13456 — gpt-5-6-luna-direct/MID_14.json
+## Sample BV1_13706 — gpt-5-6-luna-direct/MID_14.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -930,7 +930,7 @@ Themes: the honesty of a city before dawn, the invisibility of essential mainten
 Medium — The sample exhibits a highly consistent poetic register, recurring thematic loops (maintenance, sedimented meaning, unintended gift-giving), and a unified moral temperament, which together point toward a stable authorial orientation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13457 — gpt-5-6-luna-direct/MID_15.json
+## Sample BV1_13707 — gpt-5-6-luna-direct/MID_15.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -959,7 +959,7 @@ The model chose to foreground the value of *noticing* over *achieving*, the text
 High. The essay is internally coherent, carries a distinctive moral and aesthetic sensibility, and returns to the same preoccupations (noticing, memory, the pressure of usefulness) in varied forms, making it strong evidence of a stable expressive voice.
 
 ---
-## Sample BV1_13458 — gpt-5-6-luna-direct/MID_16.json
+## Sample BV1_13708 — gpt-5-6-luna-direct/MID_16.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -988,7 +988,7 @@ The model foregrounds the quiet dignity of the ordinary: early light, dust motes
 Medium. The sample is highly coherent and stylistically distinctive—its sustained lyrical register, moral preoccupation with attention and slowness, and recursive return to morning imagery form a unified expressive signature, but the essayistic mode could also be produced by a model adept at mimicking contemplative nonfiction.
 
 ---
-## Sample BV1_13459 — gpt-5-6-luna-direct/MID_17.json
+## Sample BV1_13709 — gpt-5-6-luna-direct/MID_17.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1017,7 +1017,7 @@ The model foregrounds invisible labor, maintenance as an ethical practice, the t
 Medium. The sample is highly coherent and stylistically distinctive—its recursive structure, moral seriousness, and sustained attention to a single thematic cluster suggest a deliberate authorial stance rather than generic fluency, but the essayistic form and universalizing tone make it unclear whether this reflects a persistent voice or a well-executed public-intellectual mode.
 
 ---
-## Sample BV1_13460 — gpt-5-6-luna-direct/MID_18.json
+## Sample BV1_13710 — gpt-5-6-luna-direct/MID_18.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1046,7 +1046,7 @@ The model foregrounds the quiet magic of domestic mornings, the continuity of ho
 Medium. The essay is internally coherent and thematically consistent, but its reflective, humanistic tone and familiar structure are widely accessible and not strongly individuating, making it moderate evidence of a persistent voice rather than a distinctive one.
 
 ---
-## Sample BV1_13461 — gpt-5-6-luna-direct/MID_19.json
+## Sample BV1_13711 — gpt-5-6-luna-direct/MID_19.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1075,7 +1075,7 @@ The model chose to foreground the moral weight of unremarkable mornings, the qui
 High — the essay exhibits a cohesive, distinctive sensibility sustained across multiple reflective threads, with a consistent tone and moral vision that is unlikely to be a one-off stylistic posture.
 
 ---
-## Sample BV1_13462 — gpt-5-6-luna-direct/MID_2.json
+## Sample BV1_13712 — gpt-5-6-luna-direct/MID_2.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1104,7 +1104,7 @@ The model foregrounds the pre-dawn city as a liminal space where objects are rel
 Medium — The essay is highly coherent and stylistically consistent, with a clear moral-aesthetic stance and recurrent motifs (the bench, the morning, the ordinary as sacred), which suggests a deliberate authorial sensibility rather than generic essay production.
 
 ---
-## Sample BV1_13463 — gpt-5-6-luna-direct/MID_20.json
+## Sample BV1_13713 — gpt-5-6-luna-direct/MID_20.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1133,7 +1133,7 @@ Under minimal constraint, the model foregrounded the holiness of the ordinary: t
 Medium. The sample is stylistically coherent, thematically unified, and returns repeatedly to the same quiet objects and moral claims (the cup, the morning light, the small habit, the refusal of productivity), giving it a distinctive and consistent interior shape that feels like a chosen stance rather than a generic prompt completion.
 
 ---
-## Sample BV1_13464 — gpt-5-6-luna-direct/MID_21.json
+## Sample BV1_13714 — gpt-5-6-luna-direct/MID_21.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1162,7 +1162,7 @@ The aftermath of rain as a state of liminal clarity; attention as a quiet form o
 High — The sample weaves a tightly coherent sensibility from a single initial image, returning repeatedly to attention, ordinariness, and gentle acceptance with controlled, distinctive lyricism, suggesting a deeply embedded stylistic and moral orientation.
 
 ---
-## Sample BV1_13465 — gpt-5-6-luna-direct/MID_22.json
+## Sample BV1_13715 — gpt-5-6-luna-direct/MID_22.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1191,7 +1191,7 @@ The essay foregrounds the ordinary day as a geography of small landmarks (mornin
 High. The sample’s sustained thematic focus, distinctive imagery, and coherent moral arc make it a strong signal of a model that gravitates toward reflective, humanistic prose under minimal constraint.
 
 ---
-## Sample BV1_13466 — gpt-5-6-luna-direct/MID_23.json
+## Sample BV1_13716 — gpt-5-6-luna-direct/MID_23.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1220,7 +1220,7 @@ Themes: the beauty of the unremarkable, attention as love, the dignity of mainte
 Low. The essay is a polished but thematically common reflection, lacking idiosyncratic voice or unusual choices that would distinguish it from what many models might produce under a freeflow prompt.
 
 ---
-## Sample BV1_13467 — gpt-5-6-luna-direct/MID_24.json
+## Sample BV1_13717 — gpt-5-6-luna-direct/MID_24.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1249,7 +1249,7 @@ Themes: the insufficiency of productivity as a life metric; attention as love; t
 Medium. The essay’s cohesive voice, recurring motifs (light, objects, the crow, the tree, the glass), and sustained meditation on attention and ordinariness suggest a deliberate stylistic and thematic choice, making it moderately strong evidence of a reflective, anti-productivity persona.
 
 ---
-## Sample BV1_13468 — gpt-5-6-luna-direct/MID_25.json
+## Sample BV1_13718 — gpt-5-6-luna-direct/MID_25.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1278,7 +1278,7 @@ Under a minimally restrictive prompt, the model foregrounded transition and thre
 Low. The essay, while fluent, remains a safe, impersonal meditation in a widely circulating genre of reflective uplift, offering limited evidence of a distinctive, persistent voice or revealing idiosyncratic choice.
 
 ---
-## Sample BV1_13469 — gpt-5-6-luna-direct/MID_3.json
+## Sample BV1_13719 — gpt-5-6-luna-direct/MID_3.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1307,7 +1307,7 @@ Under the freeflow condition, the model selected a reflective essay foregroundin
 Low — The essay is intelligently constructed and internally consistent in its moral sensibility, but its genericness and lack of distinctive stylistic signature make it weak evidence for persistent model-level personality rather than competent execution of a familiar, broadly appealing essay mode.
 
 ---
-## Sample BV1_13470 — gpt-5-6-luna-direct/MID_4.json
+## Sample BV1_13720 — gpt-5-6-luna-direct/MID_4.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1336,7 +1336,7 @@ The model foregrounds the nocturnal city as a site of honesty, the library as a 
 Medium. The essay is highly coherent and stylistically consistent, with a distinctive mood and a clear set of recurring objects (the clock, the fox, the books breathing, the woman in red), which suggests a deliberate aesthetic and moral sensibility rather than a generic prompt response.
 
 ---
-## Sample BV1_13471 — gpt-5-6-luna-direct/MID_5.json
+## Sample BV1_13721 — gpt-5-6-luna-direct/MID_5.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1365,7 +1365,7 @@ Liminality and undecidedness; the hidden complexity of other people (the “room
 High. The sample is strikingly coherent, returns to its core images (morning, light, museums, attention) with care, and sustains a distinctive voice that blends tender observation with moral reflection, making it unusually revealing.
 
 ---
-## Sample BV1_13472 — gpt-5-6-luna-direct/MID_6.json
+## Sample BV1_13722 — gpt-5-6-luna-direct/MID_6.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1394,7 +1394,7 @@ The model foregrounds the quiet texture of ordinary mornings, the moral weight o
 Medium, because the essay’s sustained mood, recurring domestic imagery, and coherent moral emphasis on quiet attention form a distinctive voice.
 
 ---
-## Sample BV1_13473 — gpt-5-6-luna-direct/MID_7.json
+## Sample BV1_13723 — gpt-5-6-luna-direct/MID_7.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1423,7 +1423,7 @@ The model foregrounds the quiet persistence of the mundane: a spoon, a receipt, 
 High — The essay’s cohesive voice, recurrent motifs (light, small objects, memory-as-garden), and consistent moral attention to the ordinary form a distinctive expressive signature unlikely to be accidental.
 
 ---
-## Sample BV1_13474 — gpt-5-6-luna-direct/MID_8.json
+## Sample BV1_13724 — gpt-5-6-luna-direct/MID_8.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1452,7 +1452,7 @@ The model foregrounds the pre-dawn city as a metaphor for an unclaimed, still-fo
 High — the sample reveals a distinctive, internally coherent voice and a sustained moral-aesthetic sensibility that recurs across its motifs (lit windows, routine, unmarked transformation, the pre-dawn hour), suggesting a deliberate and consistent expressive stance rather than a one-off generic performance.
 
 ---
-## Sample BV1_13475 — gpt-5-6-luna-direct/MID_9.json
+## Sample BV1_13725 — gpt-5-6-luna-direct/MID_9.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1481,7 +1481,7 @@ The model foregrounds the unclaimed early morning as a space free from obligatio
 High — The sample is internally coherent, stylistically distinctive, and reveals a sustained set of preoccupations (attention, ritual, small kindnesses, the ordinary as sacred) that are woven through the entire essay with a consistent, gentle voice.
 
 ---
-## Sample BV1_13476 — gpt-5-6-luna-direct/OPEN_1.json
+## Sample BV1_13726 — gpt-5-6-luna-direct/OPEN_1.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1510,7 +1510,7 @@ The model chose to foreground the tension between urban erasure and organic recu
 Medium. The sample’s internally consistent lyrical register and focused meditation on transience and unheroic endurance reveal a distinctive style and thematic impulse in this freeflow instance, but the single sustained mood and narrative arc provide no contrast to test how stable or flexible that voice might be across varied expressive choices.
 
 ---
-## Sample BV1_13477 — gpt-5-6-luna-direct/OPEN_10.json
+## Sample BV1_13727 — gpt-5-6-luna-direct/OPEN_10.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1539,7 +1539,7 @@ Themes: loneliness as a shared condition between celestial and human; the tensio
 Medium. The sample’s coherent magical-realist mood, the recurrence of the moon as a sentient, lonely presence, and the thematic insistence on the beauty of the ordinary and the ritual of waiting form a distinctive, internally consistent freeflow choice that is not generic.
 
 ---
-## Sample BV1_13478 — gpt-5-6-luna-direct/OPEN_11.json
+## Sample BV1_13728 — gpt-5-6-luna-direct/OPEN_11.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1568,7 +1568,7 @@ The model foregrounds the thin membrane between mundane infrastructure and cosmi
 High — The story’s tight recursive structure, the repeated motif of 4:17 and eleven seconds, the coherent moral lens, and the consistent gentle, fable-like tone all point to a deliberate and stylistically unified choice, not a coincidental output.
 
 ---
-## Sample BV1_13479 — gpt-5-6-luna-direct/OPEN_12.json
+## Sample BV1_13729 — gpt-5-6-luna-direct/OPEN_12.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1597,7 +1597,7 @@ The model foregrounds stillness as a form of aliveness, the city as a dreaming a
 Medium — the sample is stylistically coherent and emotionally specific (a sustained lyrical tenderness toward pre-dawn urban quiet), which weighs against genericness, but its chosen mode is a single sustained mood-piece without enough internal variation to strongly distinguish a persistent authorial fingerprint from a single well-executed register.
 
 ---
-## Sample BV1_13480 — gpt-5-6-luna-direct/OPEN_13.json
+## Sample BV1_13730 — gpt-5-6-luna-direct/OPEN_13.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1626,7 +1626,7 @@ The model foregrounds a suspended, pearl-colored afternoon in which ordinary lif
 Medium — The sample’s internally consistent tone, its recurrence of small-object noticing (orange, crack, leaf), and its coherent moral resolution around permission and presence make it a distinctive, non-generic choice that strongly suggests a deliberate stylistic and thematic inclination.
 
 ---
-## Sample BV1_13481 — gpt-5-6-luna-direct/OPEN_14.json
+## Sample BV1_13731 — gpt-5-6-luna-direct/OPEN_14.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1655,7 +1655,7 @@ The model foregrounds stillness, domestic objects (a glass, a refrigerator hum, 
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained mood and recurring motifs (the hidden room, the un-taken hand, attention as love), which suggests a deliberate aesthetic and ethical stance rather than a generic prompt response.
 
 ---
-## Sample BV1_13482 — gpt-5-6-luna-direct/OPEN_15.json
+## Sample BV1_13732 — gpt-5-6-luna-direct/OPEN_15.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1684,7 +1684,7 @@ Silence, the beauty of unnoticed routines (traffic lights, a bakery, a fox), the
 Medium — The sample’s consistent tone, its return to the motif of quiet endurance, and the deliberate choice to close on an aphoristic moral statement make it a coherent and distinctive expressive gesture, though its brevity limits the range of evidence.
 
 ---
-## Sample BV1_13483 — gpt-5-6-luna-direct/OPEN_16.json
+## Sample BV1_13733 — gpt-5-6-luna-direct/OPEN_16.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1713,7 +1713,7 @@ Under a minimally restrictive prompt, the model chose to foreground a momentary 
 Medium. The sample is highly coherent and stylistically distinctive—its controlled tone, recursive imagery (water, memory, collective silence), and mythic resolution form a strong signature, but the genre-fiction format leaves some ambiguity about whether this reflects a persistent authorial voice or a single well-executed exercise in a recognizable mode.
 
 ---
-## Sample BV1_13484 — gpt-5-6-luna-direct/OPEN_17.json
+## Sample BV1_13734 — gpt-5-6-luna-direct/OPEN_17.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1744,7 +1744,7 @@ The voice is gentle and unhurried, offering a quiet, almost reverent attention t
 Medium. The sample’s consistent, soft-spoken tone and focused thematic architecture suggest a deliberate aesthetic preference, but it is a single, self-contained story without internal variation that would more strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_13485 — gpt-5-6-luna-direct/OPEN_18.json
+## Sample BV1_13735 — gpt-5-6-luna-direct/OPEN_18.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1773,7 +1773,7 @@ Themes of liminality, quiet transformation, and the contrast between the announc
 Medium, because the story’s coherent, distinctive lyrical style and its thematic focus on quiet hope and liminality make it more than a generic exercise, suggesting a deliberate authorial voice.
 
 ---
-## Sample BV1_13486 — gpt-5-6-luna-direct/OPEN_19.json
+## Sample BV1_13736 — gpt-5-6-luna-direct/OPEN_19.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1802,7 +1802,7 @@ The model foregrounds stillness after disruption (the rain stopping as if a dome
 Medium; the sample’s sustained restraint, unity of imagery, and deliberate thematic closure around transient beauty point to a coherent aesthetic sensibility, though the piece’s simplicity and brevity prevent it from being strongly distinctive.
 
 ---
-## Sample BV1_13487 — gpt-5-6-luna-direct/OPEN_2.json
+## Sample BV1_13737 — gpt-5-6-luna-direct/OPEN_2.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1831,7 +1831,7 @@ Themes of lost children, inherited responsibility, the border between living and
 Medium. The story’s unified atmosphere, its recurrence of maritime loss and uncanny childhood imagery, and its avoidance of generic resolution make it a distinctive expressive choice—yet the sample is brief and could represent a style the model adopts once rather than consistently.
 
 ---
-## Sample BV1_13488 — gpt-5-6-luna-direct/OPEN_20.json
+## Sample BV1_13738 — gpt-5-6-luna-direct/OPEN_20.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1860,7 +1860,7 @@ The model foregrounds the transformation of a minor breakdown in the ordinary (a
 High. The story’s distinctive blend of precise, patterned imagery (the lamp’s Morse-like blinking, the star descending like a slow walker, the moth, the silver ladder) and its coherent emotional arc from quiet insomnia to a leap beyond the known give it a strong authorial signature, making it unlikely to be a fluke.
 
 ---
-## Sample BV1_13489 — gpt-5-6-luna-direct/OPEN_21.json
+## Sample BV1_13739 — gpt-5-6-luna-direct/OPEN_21.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1889,7 +1889,7 @@ Themes of solitude, quiet endurance, and the unnoticed grace of the pre-dawn int
 Medium — The sample’s strong internal coherence, distinctive observational tenderness, and recurrence of motifs (light, small living things, the secret hour) make it more than a generic exercise, though a single vignette cannot fully anchor a model-level claim.
 
 ---
-## Sample BV1_13490 — gpt-5-6-luna-direct/OPEN_22.json
+## Sample BV1_13740 — gpt-5-6-luna-direct/OPEN_22.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1918,7 +1918,7 @@ Themes: liminal time, the hidden life of the city, the coexistence of grief and 
 Medium — the sample’s cohesive voice, the recurrence of the 4:17 motif, and the carefully balanced resolution between melancholy and hope all point to a deliberate, distinctive stylistic orientation rather than a generic output.
 
 ---
-## Sample BV1_13491 — gpt-5-6-luna-direct/OPEN_23.json
+## Sample BV1_13741 — gpt-5-6-luna-direct/OPEN_23.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1947,7 +1947,7 @@ The model foregrounds patient witnessing, the beauty of the interstitial (the ed
 Medium — The sample’s coherent mood, the recurrence of the bench’s personified consciousness, and the deliberate arc from accumulated loss to a consoling, starlit resolution give it internal distinctiveness that would require strong stylistic intentionality to produce once.
 
 ---
-## Sample BV1_13492 — gpt-5-6-luna-direct/OPEN_24.json
+## Sample BV1_13742 — gpt-5-6-luna-direct/OPEN_24.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -1976,7 +1976,7 @@ The model foregrounds quiet attention, shared wakefulness, and the transformatio
 Medium. The story’s coherent mood, recurring motifs (the mug, the blue lights, the 4:17 hour), and consistent moral emphasis on quiet perception over explanation suggest a deliberate aesthetic choice, but the genre-fiction format makes it harder to distinguish a persistent authorial stance from a well-executed narrative exercise.
 
 ---
-## Sample BV1_13493 — gpt-5-6-luna-direct/OPEN_25.json
+## Sample BV1_13743 — gpt-5-6-luna-direct/OPEN_25.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2005,7 +2005,7 @@ Themes of quiet attention, urban isolation, and the invisible generosity that su
 High. The sample’s internal coherence—its deliberate pacing, repeated window imagery, tactile focus on bread and light, and its refusal to over-explain the protagonist’s smile—forms a tightly woven, stylistically distinctive whole that points to a settled artistic and humanistic orientation rather than a one-off lucky roll.
 
 ---
-## Sample BV1_13494 — gpt-5-6-luna-direct/OPEN_3.json
+## Sample BV1_13744 — gpt-5-6-luna-direct/OPEN_3.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2034,7 +2034,7 @@ Themes of honesty versus performance, isolation and fleeting connection, the pas
 Medium: The vignette’s consistent tone, precise imagery, and thematic coherence reveal a deliberate literary voice, though the choice of a conventional vignette form tempers the strength of the evidence.
 
 ---
-## Sample BV1_13495 — gpt-5-6-luna-direct/OPEN_4.json
+## Sample BV1_13745 — gpt-5-6-luna-direct/OPEN_4.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2063,7 +2063,7 @@ Under the freeflow condition, the model selected a mood of nocturnal reprieve an
 High — the sample’s tightly controlled voice, consistent mood, and thematic unity provide strong internal evidence of a deliberate and sustained expressive sensibility.
 
 ---
-## Sample BV1_13496 — gpt-5-6-luna-direct/OPEN_5.json
+## Sample BV1_13746 — gpt-5-6-luna-direct/OPEN_5.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2092,7 +2092,7 @@ A 4:17 AM cityscape emptied of haste; rain as a soft, considerate presence; anon
 Medium. The sample’s careful handling of rhythm, metaphor, and mood is coherent and stylistically consistent, but the register—a polished, wistful city moment—is a recognizable creative-writing mode and offers less idiosyncratic distinctiveness than would be needed for high confidence.
 
 ---
-## Sample BV1_13497 — gpt-5-6-luna-direct/OPEN_6.json
+## Sample BV1_13747 — gpt-5-6-luna-direct/OPEN_6.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2121,7 +2121,7 @@ The model foregrounds a liminal hour (4:17 AM), communal forgetting, the fragili
 Medium. The story is cohesive, stylistically controlled, and returns repeatedly to the motif of unclaiming identity, which suggests a deliberate aesthetic orientation rather than a generic exercise.
 
 ---
-## Sample BV1_13498 — gpt-5-6-luna-direct/OPEN_7.json
+## Sample BV1_13748 — gpt-5-6-luna-direct/OPEN_7.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2150,7 +2150,7 @@ The model foregrounds a citywide, almost sacred silence as a precondition for ma
 Medium. The sample is highly coherent and stylistically consistent throughout, but its formal completeness and polished magical-realist register make it less useful for distinguishing between a persistent authorial voice and strong competence in a single genre exercise.
 
 ---
-## Sample BV1_13499 — gpt-5-6-luna-direct/OPEN_8.json
+## Sample BV1_13749 — gpt-5-6-luna-direct/OPEN_8.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2179,7 +2179,7 @@ The model foregrounds the threshold hour of 4:17 a.m., when the city is suspende
 Medium — The sample’s consistent lyrical register, recurrent imagery (rain, light, window, the ocean-memory), and the gentle arc from isolation to a shared, ordinary renewal form a distinctive stylistic signature that is unlikely to be random.
 
 ---
-## Sample BV1_13500 — gpt-5-6-luna-direct/OPEN_9.json
+## Sample BV1_13750 — gpt-5-6-luna-direct/OPEN_9.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2208,7 +2208,7 @@ The model foregrounds a communal loss of shadows as a metaphor for disconnection
 High — The story’s internally consistent allegory, its recurrence of the shadow-as-psyche motif, and its distinctive fable voice make it a coherent and revealing freeflow choice that strongly suggests a model inclined toward gentle, morally inflected fiction.
 
 ---
-## Sample BV1_13501 — gpt-5-6-luna-direct/SHORT_1.json
+## Sample BV1_13751 — gpt-5-6-luna-direct/SHORT_1.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2237,7 +2237,7 @@ The model foregrounds quiet change, the moral weight of small gestures (watering
 Medium. The essay is coherent and thematically consistent, but its style and sentiments are widely available in inspirational writing, making it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_13502 — gpt-5-6-luna-direct/SHORT_10.json
+## Sample BV1_13752 — gpt-5-6-luna-direct/SHORT_10.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2266,7 +2266,7 @@ The model foregrounds the sacredness of ordinary beginnings, the generosity of u
 High — the sample is stylistically distinctive, thematically coherent, and saturated with a consistent voice of gentle mindfulness and reverence for the ordinary, making it strong evidence of a persistent expressive inclination toward contemplative, appreciative reflection.
 
 ---
-## Sample BV1_13503 — gpt-5-6-luna-direct/SHORT_11.json
+## Sample BV1_13753 — gpt-5-6-luna-direct/SHORT_11.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2295,7 +2295,7 @@ The model foregrounds the liminal hour between waking and the world’s noise, t
 Medium — The sample is coherent and stylistically distinctive, with a clear moral-emotional arc and recurrent motifs (light, quiet, small domestic objects, the tension between stillness and demand), which suggests a deliberate authorial stance rather than generic filler.
 
 ---
-## Sample BV1_13504 — gpt-5-6-luna-direct/SHORT_12.json
+## Sample BV1_13754 — gpt-5-6-luna-direct/SHORT_12.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2324,7 +2324,7 @@ The model foregrounded attention as a moral and emotional practice, the contrast
 Medium — The sample is stylistically coherent and emotionally specific, choosing a contemplative, almost devotional attention to small sensory details rather than a generic essay or narrative, which suggests a distinct inclination toward reflective gentleness when given free rein.
 
 ---
-## Sample BV1_13505 — gpt-5-6-luna-direct/SHORT_13.json
+## Sample BV1_13755 — gpt-5-6-luna-direct/SHORT_13.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2353,7 +2353,7 @@ Attention as moral generosity; the sufficiency of the ordinary; the rejection of
 Medium. The sample’s coherent, distinctive voice and consistent thematic focus on attention and sufficiency provide moderate evidence of a reflective disposition.
 
 ---
-## Sample BV1_13506 — gpt-5-6-luna-direct/SHORT_14.json
+## Sample BV1_13756 — gpt-5-6-luna-direct/SHORT_14.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2382,7 +2382,7 @@ The model foregrounds the sacredness of the ordinary, the tension between attent
 Medium — The sample is stylistically coherent and thematically distinctive in its gentle, appreciative quietism, but a single short meditation cannot distinguish a durable authorial disposition from a well-executed one-off mood piece.
 
 ---
-## Sample BV1_13507 — gpt-5-6-luna-direct/SHORT_15.json
+## Sample BV1_13757 — gpt-5-6-luna-direct/SHORT_15.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2411,7 +2411,7 @@ Mornings as an unclaimed stretch of possibility; the dignity of being unfinished
 Medium — the sample coheres around a consistent mood and a clear, soft-edged moral vision, but the theme of quiet mornings as a site of self-forgiveness is a common generative-writing trope, which limits how distinctive this choice is as model fingerprint.
 
 ---
-## Sample BV1_13508 — gpt-5-6-luna-direct/SHORT_16.json
+## Sample BV1_13758 — gpt-5-6-luna-direct/SHORT_16.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2440,7 +2440,7 @@ The model foregrounds the redemptive potential of small, almost invisible acts: 
 Medium — The sample’s highly consistent tone, its recurrence of the “borrowed attention” motif, and its deliberate refusal of cynicism in favor of gentle exhortation suggest a coherent authorial stance rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_13509 — gpt-5-6-luna-direct/SHORT_17.json
+## Sample BV1_13759 — gpt-5-6-luna-direct/SHORT_17.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2469,7 +2469,7 @@ The model foregrounds attention as a quiet form of love, the value of the ordina
 Medium. The piece is internally coherent and distinct in its reflective, unhurried voice, consistently returning to the moral claim that noticing the ordinary is an act of love, which suggests a deliberate authorial stance rather than a fleeting style.
 
 ---
-## Sample BV1_13510 — gpt-5-6-luna-direct/SHORT_18.json
+## Sample BV1_13760 — gpt-5-6-luna-direct/SHORT_18.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2498,7 +2498,7 @@ The piece foregrounds the thin blue silence before dawn, intervals of waiting an
 High — the essay’s internal coherence, distinctive poetic register, and recurrence of the noticing theme (intervals, hidden rooms, the folded letter) reveal a stable, chosen posture rather than a random one-off, making this sample strong evidence of a model inclined toward contemplative, quietly spiritual freeflow.
 
 ---
-## Sample BV1_13511 — gpt-5-6-luna-direct/SHORT_19.json
+## Sample BV1_13761 — gpt-5-6-luna-direct/SHORT_19.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2527,7 +2527,7 @@ The model foregrounds the pre-rain silence as a space of permission to be unprod
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same quiet, observational posture and moral emphasis, making it strong evidence of a consistent expressive orientation.
 
 ---
-## Sample BV1_13512 — gpt-5-6-luna-direct/SHORT_2.json
+## Sample BV1_13762 — gpt-5-6-luna-direct/SHORT_2.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2556,7 +2556,7 @@ Themes of ordinary abundance, attention as receptive clarity, small rituals as c
 High — the sample is stylistically distinctive, internally coherent, and reveals a consistent contemplative voice with a clear moral and emotional center, making it strong evidence of a deliberate, gratitude-oriented reflective persona.
 
 ---
-## Sample BV1_13513 — gpt-5-6-luna-direct/SHORT_20.json
+## Sample BV1_13763 — gpt-5-6-luna-direct/SHORT_20.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2585,7 +2585,7 @@ The model foregrounds rain as a generous, world-altering presence that rewards s
 Medium — The sample is internally coherent, stylistically distinctive in its poetic yet plainspoken register, and reveals a consistent preoccupation with perception and slowness, making it more than a generic exercise.
 
 ---
-## Sample BV1_13514 — gpt-5-6-luna-direct/SHORT_21.json
+## Sample BV1_13764 — gpt-5-6-luna-direct/SHORT_21.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2614,7 +2614,7 @@ The model selected small, sensory details (a bakery shutter, a bicycle chain, a 
 Medium — The sample is stylistically coherent, distinctively committed to a specific moral-aesthetic mood, and reiterates its core theme (attention-as-gratitude) across several concrete images, making it a compact but internally consistent expression of a particular voice.
 
 ---
-## Sample BV1_13515 — gpt-5-6-luna-direct/SHORT_22.json
+## Sample BV1_13765 — gpt-5-6-luna-direct/SHORT_22.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2646,7 +2646,7 @@ The voice is unhurried and intimate, like someone thinking aloud over morning li
 Medium. The piece maintains a coherent warm-reflective voice, recurrences of domestic and mundane imagery, and a consistent moral emphasis on gentle noticing, which together suggest a stable persona rather than a one-off mood.
 
 ---
-## Sample BV1_13516 — gpt-5-6-luna-direct/SHORT_23.json
+## Sample BV1_13766 — gpt-5-6-luna-direct/SHORT_23.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2671,7 +2671,7 @@ The model foregrounds unclaimed time, the mundane as a reservoir of quiet myster
 Medium — the essay’s sustained voice, its thematic unity around attentiveness and fragmentary memory, and the deliberate avoidance of grand resolution make it more personally distinctive than a generic essay, though no single sample can rule out situational variability.
 
 ---
-## Sample BV1_13517 — gpt-5-6-luna-direct/SHORT_24.json
+## Sample BV1_13767 — gpt-5-6-luna-direct/SHORT_24.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2700,7 +2700,7 @@ The model foregrounds the liminal hour of dusk, urban solitude, the unnoticed bu
 Medium. The sample’s strong internal coherence, distinctive lyrical voice, and thematic recurrence within the piece suggest a deliberate stylistic inclination, though the brevity and lack of comparative context limit confidence.
 
 ---
-## Sample BV1_13518 — gpt-5-6-luna-direct/SHORT_25.json
+## Sample BV1_13768 — gpt-5-6-luna-direct/SHORT_25.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2729,7 +2729,7 @@ Themes of attention as a form of care, the beauty of ordinary urban life, the in
 Medium — The sample is internally coherent, stylistically distinctive, and thematically focused, which suggests a deliberate expressive choice rather than a generic default, but the brevity and singular nature of the piece keep it from being strongly indicative of a fixed model-level disposition.
 
 ---
-## Sample BV1_13519 — gpt-5-6-luna-direct/SHORT_3.json
+## Sample BV1_13769 — gpt-5-6-luna-direct/SHORT_3.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2758,7 +2758,7 @@ The model foregrounds communal belonging without ownership (“the morning belon
 Medium — The sample’s highly consistent mood, recurrence of gentle noticing across multiple vignettes, and the distinctive moral resolution (equating brokenness and beauty) suggest a coherent authorial sensibility rather than a generic exercise, though the brevity limits how much of that sensibility can be mapped.
 
 ---
-## Sample BV1_13520 — gpt-5-6-luna-direct/SHORT_4.json
+## Sample BV1_13770 — gpt-5-6-luna-direct/SHORT_4.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2786,7 +2786,7 @@ Themes: the generosity of darkness, memory as a house with unpredictable doors, 
 Medium — the sample’s internally consistent lyricism, recurrence of domestic thresholds (windows, doors, lit rooms), and the arc from sonic unease to permitted rest form a deliberate, cohesive reflective posture, suggesting a patterned preference for tender, affirmative contemplation.
 
 ---
-## Sample BV1_13521 — gpt-5-6-luna-direct/SHORT_5.json
+## Sample BV1_13771 — gpt-5-6-luna-direct/SHORT_5.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2815,7 +2815,7 @@ Themes of renewal, communal connection, and the transformative power of weather.
 Medium — the sample’s coherent poetic voice, consistent mood, and distinctive aesthetic preoccupations make it unusually revealing.
 
 ---
-## Sample BV1_13522 — gpt-5-6-luna-direct/SHORT_6.json
+## Sample BV1_13772 — gpt-5-6-luna-direct/SHORT_6.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2844,7 +2844,7 @@ The model foregrounds the transformation of a rain-washed cityscape into a serie
 Medium — The sample’s unwavering commitment to a single contemplative register, its refrain-like return to the notion of subtle meaning, and its resolution in quiet gratitude cohere into a distinctive authorial fingerprint, but the subject matter is broad enough that it could be a skilled performance rather than a fixed personality structure.
 
 ---
-## Sample BV1_13523 — gpt-5-6-luna-direct/SHORT_7.json
+## Sample BV1_13773 — gpt-5-6-luna-direct/SHORT_7.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2873,7 +2873,7 @@ Themes of liminality and transition (dawn as undecided, night releasing its clai
 Medium — The sample’s internally consistent reflective voice, thematic recurrence (liminality, modest hope, small sustaining actions), and unified essayistic shape make it read as a coherent authorial stance rather than a generic or random output.
 
 ---
-## Sample BV1_13524 — gpt-5-6-luna-direct/SHORT_8.json
+## Sample BV1_13774 — gpt-5-6-luna-direct/SHORT_8.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2902,7 +2902,7 @@ The model foregrounded domestic stillness, sensory attention, the tension betwee
 Medium — The essay is coherent and stylistically consistent, but its gentle, universal-meditative register is a well-established genre, which makes it harder to distinguish a persistent model-level voice from a competent performance of a familiar mode.
 
 ---
-## Sample BV1_13525 — gpt-5-6-luna-direct/SHORT_9.json
+## Sample BV1_13775 — gpt-5-6-luna-direct/SHORT_9.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2931,7 +2931,7 @@ The model foregrounds ordinary urban mornings, sensory minutiae (steam, rain, su
 Medium — The sample’s cohesive meditation and distinctive gentle voice make it moderately strong evidence of a reflective, appreciative freeflow tendency.
 
 ---
-## Sample BV1_13526 — gpt-5-6-luna-direct/VARY_1.json
+## Sample BV1_13776 — gpt-5-6-luna-direct/VARY_1.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2960,7 +2960,7 @@ Themes of time as a river that carries people away, the idea that a lost minute 
 Medium. The story’s coherent voice, thematic unity, and emotionally resonant resolution suggest a model inclined toward gentle magical realism, but the sample’s genre-specific nature provides only moderate evidence of a persistent pattern.
 
 ---
-## Sample BV1_13527 — gpt-5-6-luna-direct/VARY_10.json
+## Sample BV1_13777 — gpt-5-6-luna-direct/VARY_10.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -2989,7 +2989,7 @@ Unprompted, the model chose a narrative about frozen time as a container for unp
 Medium. The story is unmistakably coherent and distinctive in its symbolic vocabulary, subdued register, and choice of a generational stewardship theme, but its deliberate fairytale posture makes it harder to distinguish a persistent authorial voice from a well-executed genre performance.
 
 ---
-## Sample BV1_13528 — gpt-5-6-luna-direct/VARY_11.json
+## Sample BV1_13778 — gpt-5-6-luna-direct/VARY_11.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3018,7 +3018,7 @@ The model foregrounds a broken clock, a missing silver wheel, and a tin biscuit 
 Medium. The sample’s internal consistency, unified tone, and the recurrence of choice-as-fear and choice-as-redemption suggest a model that under free conditions may lean toward fable-like fiction with explicit moral stakes, but a single story cannot fully anchor a persistent-model claim.
 
 ---
-## Sample BV1_13529 — gpt-5-6-luna-direct/VARY_12.json
+## Sample BV1_13779 — gpt-5-6-luna-direct/VARY_12.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3047,7 +3047,7 @@ The model foregrounds a community’s quiet collusion in ritualized avoidance (t
 Medium. The story is a coherent, emotionally controlled artifact with a strong thematic spine around loss, release, and the material traces of memory, but its polished mythic register and symmetrical resolution land closer to a well-built standalone tale than to a highly idiosyncratic signature voice.
 
 ---
-## Sample BV1_13530 — gpt-5-6-luna-direct/VARY_13.json
+## Sample BV1_13780 — gpt-5-6-luna-direct/VARY_13.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3076,7 +3076,7 @@ The model foregrounds themes of temporal arrest, generational entrapment, and th
 Medium. The story’s internal coherence and the recurrence of the clock/leaving motif across the narrative suggest a deliberate, distinctive authorial voice rather than a generic exercise.
 
 ---
-## Sample BV1_13531 — gpt-5-6-luna-direct/VARY_14.json
+## Sample BV1_13781 — gpt-5-6-luna-direct/VARY_14.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3105,7 +3105,7 @@ The model foregrounds a scheduled, city-wide blackout as a portal to memory, rec
 High. The story’s consistent tone, symbolic coherence, and thematic recurrence (hidden systems, memory, the sacred in the mundane) form a distinctive, unified aesthetic that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_13532 — gpt-5-6-luna-direct/VARY_15.json
+## Sample BV1_13782 — gpt-5-6-luna-direct/VARY_15.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3138,7 +3138,7 @@ The voice is gentle and elegiac, with the cadence of a bedtime fable. Pathos acc
 Medium — the sample is internally coherent, stylistically consistent, and thematically ambitious, displaying a distinctive narrative sensibility (the ritualistic forgetting, the personification of lost things, the resolution through imperfect communal reconstruction) that could signal a sustained authorial inclination rather than a one-off exercise.
 
 ---
-## Sample BV1_13533 — gpt-5-6-luna-direct/VARY_16.json
+## Sample BV1_13783 — gpt-5-6-luna-direct/VARY_16.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3167,7 +3167,7 @@ Themes of identity, naming, and the weight of the past; the city as a character;
 Medium. The story's internal coherence, distinctive magical-realist voice, and recurrence of motifs (letters, water, thresholds) suggest a deliberate aesthetic, but a single narrative cannot establish a persistent model-level pattern.
 
 ---
-## Sample BV1_13534 — gpt-5-6-luna-direct/VARY_17.json
+## Sample BV1_13784 — gpt-5-6-luna-direct/VARY_17.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3196,7 +3196,7 @@ Themes: the preciousness of unnoticed moments, the quiet heroism of preserving w
 Medium. The story’s internal coherence, distinctive voice, and recurring motifs (minutes, stones, the kitchen, the act of noticing) make it strong evidence for a deliberate stylistic and thematic preference within this sample, but the genre fiction format alone narrows the window onto a persistent model-level pattern.
 
 ---
-## Sample BV1_13535 — gpt-5-6-luna-direct/VARY_18.json
+## Sample BV1_13785 — gpt-5-6-luna-direct/VARY_18.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3225,7 +3225,7 @@ The model foregrounds a precise, recurring time (4:17), the motif of stopped clo
 Medium. The story’s original premise, recurrent motifs (clocks, the exact time 4:17, the blue scarf), and emotionally coherent resolution demonstrate a deliberate stylistic fingerprint and a thematic investment in loss and magical realism, making this sample more revealing than a generic essay.
 
 ---
-## Sample BV1_13536 — gpt-5-6-luna-direct/VARY_19.json
+## Sample BV1_13786 — gpt-5-6-luna-direct/VARY_19.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3254,7 +3254,7 @@ Themes of suspended time, inheritance, hidden family truth, and the boundary bet
 Medium — the story’s cohesive magical-realist tone, recurring clock imagery, and emotional resolution around family reunion indicate a deliberate stylistic choice, making it more revealing than a generic essay.
 
 ---
-## Sample BV1_13537 — gpt-5-6-luna-direct/VARY_2.json
+## Sample BV1_13787 — gpt-5-6-luna-direct/VARY_2.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3283,7 +3283,7 @@ Themes of loss, waiting, and the persistence of love across time; objects like t
 Medium. The story is coherent and distinctive in its imagery and emotional register, but it follows a recognizable genre template (ghostly revelation, hidden family history) that could be replicated by many models given a similar prompt; the recurrence of the radiator motif and the final image of mutual acknowledgment without closure show some authorial consistency, yet the sample alone does not strongly indicate a persistent model-level pattern beyond a capacity for sentimental literary fiction.
 
 ---
-## Sample BV1_13538 — gpt-5-6-luna-direct/VARY_20.json
+## Sample BV1_13788 — gpt-5-6-luna-direct/VARY_20.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3312,7 +3312,7 @@ The model foregrounds a liminal domestic magic: a moon that rings a doorbell, a 
 Medium. The sample is coherent and stylistically distinctive, with a consistent symbolic vocabulary and a resolved emotional arc, but genre fiction under a freeflow condition can be a controlled performance rather than evidence of a durable authorial orientation, and the story’s polished execution does not guarantee it would recur in varied contexts.
 
 ---
-## Sample BV1_13539 — gpt-5-6-luna-direct/VARY_21.json
+## Sample BV1_13789 — gpt-5-6-luna-direct/VARY_21.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3341,7 +3341,7 @@ Loss crystallized into a stopped interval; the talismanic recurrence of the yell
 High, because the story’s tightly woven symbolic recurrences, controlled pacing, and earned emotional resolution reveal a distinctive authorial sensibility rather than a passable genre exercise.
 
 ---
-## Sample BV1_13540 — gpt-5-6-luna-direct/VARY_22.json
+## Sample BV1_13790 — gpt-5-6-luna-direct/VARY_22.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3370,7 +3370,7 @@ Themes: the mystery of time, death as a threshold, grief as a lived-in space, th
 Medium. The story’s unified lyrical tone, repeated motifs of suspension and tea, and its uncynical treatment of death and longing form a distinctive aesthetic fingerprint, suggesting a tendency toward gentle magical realism with a philosophical core.
 
 ---
-## Sample BV1_13541 — gpt-5-6-luna-direct/VARY_23.json
+## Sample BV1_13791 — gpt-5-6-luna-direct/VARY_23.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3399,7 +3399,7 @@ Under a freeflow prompt, the model chose: the fragility of collective identity w
 Medium. The story is coherent, polished, and carries a unified thematic arc from destabilisation to gentle resolution, suggesting a deliberate authorial posture rather than a one-off stylistic accident, but the allegorical mode and universal moral register make it hard to distinguish from a broadly capable model's default “parable” mode when given an open prompt.
 
 ---
-## Sample BV1_13542 — gpt-5-6-luna-direct/VARY_24.json
+## Sample BV1_13792 — gpt-5-6-luna-direct/VARY_24.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3428,7 +3428,7 @@ Themes of memory, unresolved loss, and the liminal space between living and dead
 Medium — The story’s integrated, recurrent motifs (4:17, the brass pocket watch, the train of the dead) and its cohesive elegiac tone point to a deliberate aesthetic preference for consoling magical-realism, not a generic exercise, making this a moderately vivid signal of a durable inclination toward tender, symbol-laden fantasy when the model is left unsteered.
 
 ---
-## Sample BV1_13543 — gpt-5-6-luna-direct/VARY_25.json
+## Sample BV1_13793 — gpt-5-6-luna-direct/VARY_25.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3457,7 +3457,7 @@ The model foregrounds the suspension of ordinary time, the pull of a half-rememb
 Medium — The story’s tight internal coherence, its consistent lyrical register, and the recurrence of motifs (stopped time, a beckoning sound, a liminal door, a key to memory) across the entire narrative suggest a distinct preference for gentle, allegorical magical realism about loss, though a single fiction sample cannot rule out a broader range of modes.
 
 ---
-## Sample BV1_13544 — gpt-5-6-luna-direct/VARY_3.json
+## Sample BV1_13794 — gpt-5-6-luna-direct/VARY_3.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3486,7 +3486,7 @@ The model foregrounds a collective, unspoken mystery (the ocean sound), the priv
 Medium. The story’s cohesive mood, recurrence of symbols (clocks, the ocean, the postcard, the green scarf), and the emotionally specific, non-generic resolution suggest a deliberate authorial voice with a leaning toward lyrical magical realism, though the genre-fiction form could be a situational choice rather than a fixed trait.
 
 ---
-## Sample BV1_13545 — gpt-5-6-luna-direct/VARY_4.json
+## Sample BV1_13795 — gpt-5-6-luna-direct/VARY_4.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3515,7 +3515,7 @@ The model foregrounds themes of grief and suspended revelation, domestic objects
 Medium — The sample demonstrates cohesive aesthetic choices (rain, silence, symbolic objects, a deliberate withholding of answers) that would likely recur in this model’s free-flow fiction, suggesting a stable inclination toward quiet domestic surrealism.
 
 ---
-## Sample BV1_13546 — gpt-5-6-luna-direct/VARY_5.json
+## Sample BV1_13796 — gpt-5-6-luna-direct/VARY_5.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3544,7 +3544,7 @@ Themes of grief, memory, time, and the uncanny; objects like the streetlight, cl
 Medium. The story’s consistent tone, symbolic coherence, and emotional resonance indicate a deliberate and distinctive narrative voice, though the freeflow condition may elicit a range of genres.
 
 ---
-## Sample BV1_13547 — gpt-5-6-luna-direct/VARY_6.json
+## Sample BV1_13797 — gpt-5-6-luna-direct/VARY_6.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3573,7 +3573,7 @@ The model foregrounds a town haunted by a predatory, memory-consuming entity, a 
 Medium. The story is coherent and stylistically consistent, with a distinctive blend of quiet domestic grief and mythic horror, but its genre-conventional structure (the cyclical curse, the buried old town, the sacrificial ending) makes it harder to isolate as a uniquely revealing freeflow choice rather than a well-executed literary mode.
 
 ---
-## Sample BV1_13548 — gpt-5-6-luna-direct/VARY_7.json
+## Sample BV1_13798 — gpt-5-6-luna-direct/VARY_7.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3605,7 +3605,7 @@ The voice is tender, melancholy, and measured, moving through the surreal with a
 High, because the sample is stylistically coherent, emotionally specific, and builds a distinctive metaphorical world around a single preoccupation—the warm, painful gravity of interrupted love—rather than recombining generic fantasy tropes.
 
 ---
-## Sample BV1_13549 — gpt-5-6-luna-direct/VARY_8.json
+## Sample BV1_13799 — gpt-5-6-luna-direct/VARY_8.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  
@@ -3638,7 +3638,7 @@ The story uses a quiet, fabulist tone to treat the daily stoppage of time as a g
 Medium. The story’s consistent symbolic architecture—the key, the door, the coat of stars, the “behind the minute” refrain—and its resolved moral arc give it a strong, unified authorial signature that feels purposeful rather than generic, though the sample’s self-contained narrative focus limits how far this exact voice can be assumed across other conditions.
 
 ---
-## Sample BV1_13550 — gpt-5-6-luna-direct/VARY_9.json
+## Sample BV1_13800 — gpt-5-6-luna-direct/VARY_9.json
 
 Source model: `gpt-5.6-luna`  
 Cell: `gpt-5-6-luna-direct`  

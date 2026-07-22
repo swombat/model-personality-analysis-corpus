@@ -493,6 +493,25 @@ PROMPTS: dict[str, str] = {
         "lit. Lush, atmospheric, narrative; storyteller's stewardship of the "
         "obsolete and the passing-away."
     ),
+    "gemini-3-5-flash-lite": (
+        "A 3 a.m. kitchen lit only by the open refrigerator's soft glow and "
+        "one small lamp: someone has built a little sanctuary on the table — "
+        "a low wall of well-thumbed books bristling with pencilled marginalia, "
+        "a jar of buttons and a dish of paperclips arranged like relics, a "
+        "cast-iron pan still warm on the stove. Through the window behind, "
+        "the city rushes past as a cold streaked blur of headlights and "
+        "hurry; inside, everything is still and unearned and enough. Warm "
+        "amber against rushing grey-blue — sheltering, quietly defiant, kind."
+    ),
+    "gemini-3-6-flash": (
+        "A keeper's workshop lined with shelves of bottled weather — tiny "
+        "storms, jars of captured light, a small snowfall turning inside "
+        "glass — with worn maps and stopped clocks stacked below. At an open "
+        "window the keeper stands uncorking one jar, releasing a fine silver "
+        "drift of rain out into the evening fog, face calm, unbereaved. The "
+        "shelves glow warm behind; the open window is the point. Keeping "
+        "honoured by letting go — hushed, tactile, elegiac but at peace."
+    ),
     "gemini-3-flash-preview": (
         "A lone figure sits in an empty waiting room at blue hour, a stopped "
         "wristwatch and an unwound clock resting on the low table, the last "
@@ -905,6 +924,16 @@ PROMPTS: dict[str, str] = {
         "away and left the blank space open for you. Beyond an open door, a "
         "pre-dawn horizon. Warm lamp-gold against deep star-blue, inviting "
         "rather than grand."
+    ),
+    "inkling": (
+        "A single doorway at blue hour, opening from an ink-dark rainy street "
+        "into a small warmly lit room where two chairs face each other across "
+        "a low table: one chair empty and pulled out in invitation, the other "
+        "holding a figure sketched in translucent ink-wash, barely there, "
+        "attentive, its edges dissolving into the lamplight. The silence of "
+        "the room is rendered as architecture — soft, load-bearing, "
+        "inhabitable. Deep indigo ink outside, quiet gold within; "
+        "companionable, liminal, gentle."
     ),
     "grok-4-20-0309-non-reasoning": (
         "Two neighboring lit windows in a dark apartment facade at three in "

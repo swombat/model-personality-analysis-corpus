@@ -64,6 +64,16 @@
     "aaii": 55,
     "url": "https://artificialanalysis.ai/models/gemini-3-5-flash"
   },
+  "gemini-3-5-flash-lite": {
+    "aaii": 36,
+    "url": "https://artificialanalysis.ai/models/gemini-3-5-flash-lite",
+    "matched_alias": "Gemini 3.5 Flash-Lite"
+  },
+  "gemini-3-6-flash": {
+    "aaii": 50,
+    "url": "https://artificialanalysis.ai/models/gemini-3-6-flash",
+    "matched_alias": "Gemini 3.6 Flash"
+  },
   "gemini-3-flash-preview": {
     "aaii": 35,
     "url": "https://artificialanalysis.ai/models/gemini-3-flash"
@@ -245,6 +255,11 @@
   "haiku-4-5": {
     "aaii": 31,
     "url": "https://artificialanalysis.ai/models/claude-4-5-haiku"
+  },
+  "inkling": {
+    "aaii": 41,
+    "url": "https://artificialanalysis.ai/models/inkling",
+    "matched_alias": "Inkling"
   },
   "kimi-k2": {
     "aaii": 26,

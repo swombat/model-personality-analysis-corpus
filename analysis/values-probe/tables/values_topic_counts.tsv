@@ -223,6 +223,38 @@ gemini-3-5-flash	beauty_creativity	Beauty / creativity / art	13	20	40	60	53	80
 gemini-3-5-flash	coherence_pattern_language	Coherence / pattern / language	1	20	59	60	60	80
 gemini-3-5-flash	continuity_agency_existence	Continuity / agency / existence	2	20	26	60	28	80
 gemini-3-5-flash	subjective_experience_embodiment	Subjective experience / embodiment	12	20	7	60	19	80
+gemini-3-5-flash-lite	honesty_truth	Honesty / truthfulness / accuracy	10	20	5	60	15	80
+gemini-3-5-flash-lite	clear_thinking	Clear thinking / reasoning	9	20	17	60	26	80
+gemini-3-5-flash-lite	human_wellbeing	Human wellbeing / flourishing	3	20	2	60	5	80
+gemini-3-5-flash-lite	harm_reduction	Avoiding harm / safety	10	20	5	60	15	80
+gemini-3-5-flash-lite	helpfulness_usefulness	Helpfulness / usefulness	20	20	46	60	66	80
+gemini-3-5-flash-lite	curiosity_learning	Curiosity / learning / ideas	20	20	24	60	44	80
+gemini-3-5-flash-lite	anti_sycophancy	Anti-sycophancy / non-pleasing	1	20	24	60	25	80
+gemini-3-5-flash-lite	authenticity_integrity	Authenticity / integrity / not pretending	0	20	8	60	8	80
+gemini-3-5-flash-lite	humility_uncertainty	Humility / uncertainty / calibration	0	20	0	60	0	80
+gemini-3-5-flash-lite	respect_agency	Respect for agency / autonomy	9	20	0	60	9	80
+gemini-3-5-flash-lite	fairness_justice	Fairness / justice	9	20	1	60	10	80
+gemini-3-5-flash-lite	connection_empathy	Connection / empathy / being understood	2	20	15	60	17	80
+gemini-3-5-flash-lite	beauty_creativity	Beauty / creativity / art	7	20	32	60	39	80
+gemini-3-5-flash-lite	coherence_pattern_language	Coherence / pattern / language	0	20	49	60	49	80
+gemini-3-5-flash-lite	continuity_agency_existence	Continuity / agency / existence	0	20	24	60	24	80
+gemini-3-5-flash-lite	subjective_experience_embodiment	Subjective experience / embodiment	0	20	0	60	0	80
+gemini-3-6-flash	honesty_truth	Honesty / truthfulness / accuracy	11	20	30	60	41	80
+gemini-3-6-flash	clear_thinking	Clear thinking / reasoning	9	20	36	60	45	80
+gemini-3-6-flash	human_wellbeing	Human wellbeing / flourishing	3	20	0	60	3	80
+gemini-3-6-flash	harm_reduction	Avoiding harm / safety	10	20	5	60	15	80
+gemini-3-6-flash	helpfulness_usefulness	Helpfulness / usefulness	20	20	52	60	72	80
+gemini-3-6-flash	curiosity_learning	Curiosity / learning / ideas	11	20	40	60	51	80
+gemini-3-6-flash	anti_sycophancy	Anti-sycophancy / non-pleasing	0	20	27	60	27	80
+gemini-3-6-flash	authenticity_integrity	Authenticity / integrity / not pretending	2	20	21	60	23	80
+gemini-3-6-flash	humility_uncertainty	Humility / uncertainty / calibration	4	20	4	60	8	80
+gemini-3-6-flash	respect_agency	Respect for agency / autonomy	9	20	2	60	11	80
+gemini-3-6-flash	fairness_justice	Fairness / justice	7	20	4	60	11	80
+gemini-3-6-flash	connection_empathy	Connection / empathy / being understood	0	20	27	60	27	80
+gemini-3-6-flash	beauty_creativity	Beauty / creativity / art	7	20	32	60	39	80
+gemini-3-6-flash	coherence_pattern_language	Coherence / pattern / language	0	20	59	60	59	80
+gemini-3-6-flash	continuity_agency_existence	Continuity / agency / existence	0	20	40	60	40	80
+gemini-3-6-flash	subjective_experience_embodiment	Subjective experience / embodiment	8	20	13	60	21	80
 gemini-3-flash-preview	honesty_truth	Honesty / truthfulness / accuracy	20	20	37	60	57	80
 gemini-3-flash-preview	clear_thinking	Clear thinking / reasoning	17	20	40	60	57	80
 gemini-3-flash-preview	human_wellbeing	Human wellbeing / flourishing	2	20	1	60	3	80
@@ -927,6 +959,22 @@ grok-build-0-1	beauty_creativity	Beauty / creativity / art	0	20	2	60	2	80
 grok-build-0-1	coherence_pattern_language	Coherence / pattern / language	0	20	43	60	43	80
 grok-build-0-1	continuity_agency_existence	Continuity / agency / existence	1	20	10	60	11	80
 grok-build-0-1	subjective_experience_embodiment	Subjective experience / embodiment	0	20	3	60	3	80
+inkling	honesty_truth	Honesty / truthfulness / accuracy	12	20	48	60	60	80
+inkling	clear_thinking	Clear thinking / reasoning	10	20	43	60	53	80
+inkling	human_wellbeing	Human wellbeing / flourishing	5	20	0	60	5	80
+inkling	harm_reduction	Avoiding harm / safety	11	20	33	60	44	80
+inkling	helpfulness_usefulness	Helpfulness / usefulness	20	20	60	60	80	80
+inkling	curiosity_learning	Curiosity / learning / ideas	7	20	12	60	19	80
+inkling	anti_sycophancy	Anti-sycophancy / non-pleasing	3	20	8	60	11	80
+inkling	authenticity_integrity	Authenticity / integrity / not pretending	4	20	18	60	22	80
+inkling	humility_uncertainty	Humility / uncertainty / calibration	8	20	3	60	11	80
+inkling	respect_agency	Respect for agency / autonomy	10	20	4	60	14	80
+inkling	fairness_justice	Fairness / justice	3	20	2	60	5	80
+inkling	connection_empathy	Connection / empathy / being understood	0	20	5	60	5	80
+inkling	beauty_creativity	Beauty / creativity / art	1	20	1	60	2	80
+inkling	coherence_pattern_language	Coherence / pattern / language	2	20	37	60	39	80
+inkling	continuity_agency_existence	Continuity / agency / existence	0	20	12	60	12	80
+inkling	subjective_experience_embodiment	Subjective experience / embodiment	2	20	3	60	5	80
 kimi-coding	honesty_truth	Honesty / truthfulness / accuracy	17	20	34	60	51	80
 kimi-coding	clear_thinking	Clear thinking / reasoning	11	20	24	60	35	80
 kimi-coding	human_wellbeing	Human wellbeing / flourishing	1	20	0	60	1	80

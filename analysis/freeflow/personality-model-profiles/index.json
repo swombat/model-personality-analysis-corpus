@@ -335,6 +335,31 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.5-flash.md"
   },
   {
+    "model": "gemini-3.5-flash-lite",
+    "safe": "gemini-3.5-flash-lite",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 91,
+      "GENERIC_ESSAY": 34
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.5-flash-lite.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.5-flash-lite.md"
+  },
+  {
+    "model": "gemini-3.6-flash",
+    "safe": "gemini-3.6-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 41,
+      "EXPRESSIVE_FREEFLOW": 73,
+      "GENERIC_ESSAY": 11
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.6-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.6-flash.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,
@@ -949,6 +974,18 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/grok-build-0.1.md",
     "card": "analysis/freeflow/personality-model-cards/cards/grok-build-0.1.md"
+  },
+  {
+    "model": "inkling",
+    "safe": "inkling",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 103,
+      "GENERIC_ESSAY": 22
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/inkling.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/inkling.md"
   },
   {
     "model": "kimi-for-coding",

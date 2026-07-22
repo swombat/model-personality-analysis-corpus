@@ -13,7 +13,7 @@ def safe(s): return re.sub(r'[^a-zA-Z0-9._-]+','-',s).strip('-')
 
 def canonical(srcs, cell):
     s=(srcs or [''])[0].lower()
-    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/']:
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','thinkingmachines/']:
         if s.startswith(pref):
             s=s[len(pref):]; break
     if s.startswith('gpt-5.3-chat'): s='gpt-5.3'

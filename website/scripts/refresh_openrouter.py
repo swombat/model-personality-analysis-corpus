@@ -52,7 +52,7 @@ def main() -> None:
             model["speed_source"] = "OpenRouter median"
         updated += 1
 
-    models_path.write_text(json.dumps(models, indent=2) + "\n")
+    models_path.write_text(json.dumps(models, indent=2, ensure_ascii=False) + "\n")
     print(f"refreshed OpenRouter data for {updated} models; skipped {skipped}")
 
 
