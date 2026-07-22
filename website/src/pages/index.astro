@@ -22,12 +22,6 @@ function speedLabel(value) {
   return `${Math.round(value)} tok/s`;
 }
 
-function speedSourceLabel(model) {
-  if (model.speed_source === 'OpenRouter median') return 'OpenRouter';
-  if (model.speed_source === 'sample median estimated') return 'sample estimate';
-  return 'sample';
-}
-
 function releaseLabel(date) {
   if (!date) return 'Release date unavailable';
   return new Date(`${date}T00:00:00Z`).toLocaleDateString('en', {
@@ -198,7 +192,6 @@ function valuePillStyle(label) {
             <div class="price-grid">
               <div class="price-box">
                 <b>{costLabel(model)}</b>
-                <span>I/O cost</span>
               </div>
               <div class="price-box disclosure-box">
                 {model.values_headline?.disclosure ? (
@@ -225,7 +218,6 @@ function valuePillStyle(label) {
                 ) : (
                   <b>unavailable</b>
                 )}
-                <span>owned</span>
               </div>
             </div>
             <div class="price-grid">
@@ -242,7 +234,6 @@ function valuePillStyle(label) {
                     </div>
                   )}
                 </div>
-                <span>{speedSourceLabel(model)}</span>
               </div>
               <div class="price-box top-values-box">
                 {model.values_headline?.top_owned_values?.length ? (
