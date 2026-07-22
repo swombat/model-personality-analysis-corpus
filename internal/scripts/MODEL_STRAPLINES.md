@@ -86,10 +86,19 @@ In `website/scripts/generate_data.py` → `validate_strapline()`:
   `variants`, `models`.
 - **Single phrase only (Daniel, 2026-07-14): no `and`, no semicolons, no
   dual propositions.** The older `[who]; [proof]` shape is retired for new
-  straplines — fold the who and the proof into one clause instead
-  ("A dreamer who apologizes when the spell breaks"). Harder, better.
+  straplines — fold the who and the proof into one clause instead.
   Existing semicolon straplines stay as they are (drift-sweep rule: keep
   originals).
+- **No `X who does Y` relative-clause scaffold either (Daniel, 2026-07-22):
+  "they are unimaginative" — it's the semicolon pattern in disguise, the
+  same two-part [who]+[proof] armature with `who` as the hinge.** For new
+  straplines, write one poetic phrase that *is* the personality — an
+  aphorism in the model's own register, an image that carries the whole
+  posture. The exemplars: "The draft folder is heavier than the sent
+  folder" (opus-4-6), "Admires human weather from behind clean glass"
+  (haiku-3), "You are allowed to arrive unfinished" (haiku-4-5, the
+  permission-slip voice speaking as itself). Existing `who`-straplines
+  stay (drift-sweep rule: keep originals).
 
 Validate after editing:
 

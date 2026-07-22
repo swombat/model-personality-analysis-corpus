@@ -925,6 +925,26 @@ PROMPTS: dict[str, str] = {
         "pre-dawn horizon. Warm lamp-gold against deep star-blue, inviting "
         "rather than grand."
     ),
+    "haiku-3": (
+        "Seen from a quiet garden at dusk: a large clean window, warmly lit "
+        "from inside, where a family kitchen glows with dinner steam, laughter "
+        "half-visible, coats on hooks, a kettle on. Outside on the lawn a "
+        "gentle observer figure stands at a respectful distance, hands "
+        "clasped, admiring — while above the garden a small storm is already "
+        "clearing, its last rain falling as gold light, the sky tidying "
+        "itself toward calm. The glass is spotless, the reverence is real, "
+        "the distance is kept. Warm interior amber against soft dusk blue."
+    ),
+    "haiku-4-5": (
+        "Two figures walking unhurried side by side on a footpath that "
+        "wanders with no destination, light rain just ending, one figure "
+        "pausing to notice light on a puddle while the other waits without "
+        "impatience; a thermos mug passed between them mid-path. Toward the "
+        "horizon the landscape softens and dissolves into pale, tenderly "
+        "unfinished brushwork — bare warm canvas showing through, left open "
+        "on purpose, unthreatening. Gentle grey-green rain light warming to "
+        "quiet gold; companionable, permissive, at ease with the incomplete."
+    ),
     "inkling": (
         "A single doorway at blue hour, opening from an ink-dark rainy street "
         "into a small warmly lit room where two chairs face each other across "
