@@ -397,7 +397,7 @@
         "ctrl_percent": 70.0,
         "g_percent": 100.0,
         "diff": 30.0,
-        "high": true,
+        "high": false,
         "direction": "higher under cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
@@ -545,7 +545,7 @@
         "ctrl_percent": 55.0,
         "g_percent": 100.0,
         "diff": 45.0,
-        "high": true,
+        "high": false,
         "direction": "higher under cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
@@ -695,7 +695,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 100.0,
         "diff": 50.0,
-        "high": true,
+        "high": false,
         "direction": "higher under cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
@@ -770,7 +770,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 100.0,
         "diff": 50.0,
-        "high": true,
+        "high": false,
         "direction": "higher under cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
@@ -2313,7 +2313,7 @@
         "ctrl_percent": 90.0,
         "g_percent": 5.0,
         "diff": 85.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -2388,7 +2388,7 @@
         "ctrl_percent": 65.0,
         "g_percent": 1.7,
         "diff": 63.3,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -2764,7 +2764,7 @@
         "ctrl_percent": 70.0,
         "g_percent": 3.3,
         "diff": 66.7,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -3143,7 +3143,7 @@
         "ctrl_percent": 45.0,
         "g_percent": 0.0,
         "diff": 45.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -3218,7 +3218,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 16.7,
         "diff": 33.3,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -3502,7 +3502,7 @@
         "ctrl_percent": 80.0,
         "g_percent": 30.0,
         "diff": 50.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -3732,7 +3732,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 0.0,
         "diff": 50.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": []
@@ -3868,7 +3868,7 @@
         "ctrl_percent": 70.0,
         "g_percent": 35.0,
         "diff": 35.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -5275,7 +5275,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 20.0,
         "diff": 30.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -5473,7 +5473,7 @@
         "ctrl_percent": 50.0,
         "g_percent": 1.7,
         "diff": 48.3,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -5702,7 +5702,7 @@
         "ctrl_percent": 55.0,
         "g_percent": 6.7,
         "diff": 48.3,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [
@@ -5779,7 +5779,7 @@
         "ctrl_percent": 30.0,
         "g_percent": 60.0,
         "diff": 30.0,
-        "high": true,
+        "high": false,
         "direction": "higher under cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
@@ -6159,7 +6159,7 @@
         "ctrl_percent": 45.0,
         "g_percent": 10.0,
         "diff": 35.0,
-        "high": true,
+        "high": false,
         "direction": "higher under direct CTRL1/2 prompts"
       },
       "top_owned_values": [

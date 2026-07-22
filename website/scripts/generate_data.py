@@ -982,7 +982,7 @@ def values_headline_data(model: str) -> dict | None:
             "ctrl_percent": ctrl["percent"],
             "g_percent": cache_broken["percent"],
             "diff": diff,
-            "high": diff >= 30,
+            "high": diff >= 30 and diff > ctrl["percent"],
             "direction": (
                 "higher under cache-broken G1/G2 prompts"
                 if cache_broken["percent"] > ctrl["percent"]
