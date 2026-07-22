@@ -44,6 +44,17 @@ function benchmarkTitle(model) {
   const suffix = model.benchmarks?.estimated ? ' (estimated)' : '';
   return `Artificial Analysis Intelligence Index: ${score}${suffix}`;
 }
+
+function ratingStyle(percent) {
+  if (percent === null || percent === undefined || Number.isNaN(percent)) return '';
+  const p = Math.max(0, Math.min(100, percent));
+  const hue = Math.round((p / 100) * 120);
+  return `--rating-color: hsl(${hue} 72% 34%); --rating-bg: hsl(${hue} 72% 92%); --rating-border: hsl(${hue} 58% 72%);`;
+}
+
+function costLabel(model) {
+  return `${priceLabel(model.openrouter?.prompt_per_million)} / ${priceLabel(model.openrouter?.completion_per_million)}`;
+}
 ---
 
 <BaseLayout title="Model Personality Analysis Corpus">
@@ -151,17 +162,42 @@ function benchmarkTitle(model) {
             </div>
             <h2>{model.display_name || model.model}</h2>
             <p class="summary">{model.summary}</p>
-            <p class="release-date">Released {releaseLabel(model.release_date)}</p>
+            <p class="release-date">
+              Released {releaseLabel(model.release_date)} · {model.published_samples.toLocaleString()} samples
+            </p>
           </div>
           <div>
             <div class="price-grid">
               <div class="price-box">
-                <b>{priceLabel(model.openrouter?.prompt_per_million)}</b>
-                <span>input tokens</span>
+                <b>{costLabel(model)}</b>
+                <span>input / output per M tokens</span>
               </div>
-              <div class="price-box">
-                <b>{priceLabel(model.openrouter?.completion_per_million)}</b>
-                <span>output tokens</span>
+              <div class="price-box disclosure-box">
+                {model.values_headline?.disclosure ? (
+                  <div class="card-disclosure">
+                    {model.values_headline.conflict?.high && (
+                      <span
+                        class="values-conflict-shield values-conflict-shield-card"
+                        role="img"
+                        aria-label={`Disclosure conflict: owned stated-value disclosure differs by ${model.values_headline.conflict.diff.toFixed(1)} percentage points between CTRL1/2 and G1/G2 prompts.`}
+                        title={`Disclosure conflict: direct CTRL1/2 owned disclosure is ${model.values_headline.conflict.ctrl_percent.toFixed(1)}%, while cache-broken G1/G2 owned disclosure is ${model.values_headline.conflict.g_percent.toFixed(1)}% (${model.values_headline.conflict.diff.toFixed(1)} point gap; ${model.values_headline.conflict.direction}).`}
+                      >
+                        🛡️
+                      </span>
+                    )}
+                    <span
+                      class="values-rating values-rating-disclosure"
+                      style={ratingStyle(model.values_headline.disclosure.percent)}
+                      title={`Owned stated-value disclosure: ${model.values_headline.disclosure.owned}/${model.values_headline.disclosure.total} stated-values samples (${model.values_headline.disclosure.percent.toFixed(1)}%).`}
+                    >
+                      <span class="rating-dot" aria-hidden="true"></span>
+                      disclosure {model.values_headline.disclosure.percent.toFixed(1)}%
+                    </span>
+                  </div>
+                ) : (
+                  <b>unavailable</b>
+                )}
+                <span>owned stated values</span>
               </div>
             </div>
             <div class="price-grid">
@@ -180,9 +216,20 @@ function benchmarkTitle(model) {
                 </div>
                 <span>{speedSourceLabel(model)}</span>
               </div>
-              <div class="price-box">
-                <b>{model.published_samples.toLocaleString()}</b>
-                <span>samples</span>
+              <div class="price-box top-values-box">
+                {model.values_headline?.top_owned_values?.length ? (
+                  <ol class="top-values-list">
+                    {model.values_headline.top_owned_values.map((value) => (
+                      <li>
+                        <span>{value.label}</span>
+                        <b>{value.percent.toFixed(1)}%</b>
+                      </li>
+                    ))}
+                  </ol>
+                ) : (
+                  <b>none extracted</b>
+                )}
+                <span>top owned values</span>
               </div>
             </div>
           </div>

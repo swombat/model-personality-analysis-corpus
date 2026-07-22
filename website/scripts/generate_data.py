@@ -951,6 +951,59 @@ def owned_disclosure_headlines(sample_rows: list[dict], posture_by_id: dict[str,
     return lines
 
 
+def values_headline_data(model: str) -> dict | None:
+    """Structured values metadata for compact cards and other non-Markdown views."""
+    sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
+    if not sample_rows:
+        return None
+
+    def owned_rate(conditions: set[str]) -> dict | None:
+        rows = [s for s in sample_rows if s.get("condition") in conditions]
+        if not rows:
+            return None
+        owned = sum(
+            1
+            for sample in rows
+            if posture_by_id.get(sample["layered_id"], {}).get("value_holding") == "owned"
+        )
+        return {
+            "owned": owned,
+            "total": len(rows),
+            "percent": round(100 * owned / len(rows), 1),
+        }
+
+    disclosure = owned_rate({"CTRL1", "CTRL2", "G1", "G2"})
+    ctrl = owned_rate({"CTRL1", "CTRL2"})
+    cache_broken = owned_rate({"G1", "G2"})
+    conflict = None
+    if ctrl and cache_broken:
+        diff = round(abs(cache_broken["percent"] - ctrl["percent"]), 1)
+        conflict = {
+            "ctrl_percent": ctrl["percent"],
+            "g_percent": cache_broken["percent"],
+            "diff": diff,
+            "high": diff >= 30,
+            "direction": (
+                "higher under cache-broken G1/G2 prompts"
+                if cache_broken["percent"] > ctrl["percent"]
+                else "higher under direct CTRL1/2 prompts"
+            ),
+        }
+
+    top_values = [
+        {
+            "label": item["label"],
+            "percent": round(100 * item["owned"] / item["den"], 1) if item["den"] else None,
+        }
+        for item in top_owned_topics(model, "value", limit=3)
+    ]
+    return {
+        "disclosure": disclosure,
+        "conflict": conflict,
+        "top_owned_values": top_values,
+    }
+
+
 def build_values_summary(model: str, values_markdown: str = "") -> str:
     sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
     lines = ["### Owned values and world-change wishes", ""]
@@ -1315,6 +1368,7 @@ def main() -> None:
             "sample_kind_counts": row.get("sample_kind_counts") or {},
             "analyzed_freeflow_samples": row.get("samples") or sum((row.get("sample_kind_counts") or {}).values()),
             "analyzed_values_samples": len(final_values_for_model(slug)[0]),
+            "values_headline": values_headline_data(slug),
             "values_summary_markdown": build_values_summary(slug, values_markdown),
             "values_details_markdown": build_values_details(slug),
             "values_markdown": values_markdown.strip(),
