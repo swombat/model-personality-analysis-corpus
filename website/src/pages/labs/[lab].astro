@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
+import { familyLabel } from '../../lib/modelMetadata.js';
 
 export function getStaticPaths() {
   const labSlugs = new Map();
@@ -57,7 +58,7 @@ function benchmarkTitle(model) {
           <div>
             <div class="card-kicker">
               <span class="chip">{model.lab}</span>
-              <span class="chip green">{model.family}</span>
+              <span class="chip green">{familyLabel(model.family)}</span>
             </div>
             <h2>{model.display_name || model.model}</h2>
             <p class="summary">{model.summary}</p>

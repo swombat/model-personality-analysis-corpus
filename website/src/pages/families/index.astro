@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
+import { familyLabel } from '../../lib/modelMetadata.js';
 
 const families = [...new Set(models.filter((model) => model.status !== 'redirect').map((model) => model.family))].sort();
 const base = import.meta.env.BASE_URL;
@@ -16,8 +17,8 @@ const base = import.meta.env.BASE_URL;
       return (
         <a class="model-card" href={`${base}families/${family}/`}>
           <div>
-            <span class="chip green">{family}</span>
-            <h2>{family}</h2>
+            <span class="chip green">{familyLabel(family)}</span>
+            <h2>{familyLabel(family)}</h2>
             <p class="summary">{familyModels.length} models across {labs.join(', ')}.</p>
           </div>
         </a>

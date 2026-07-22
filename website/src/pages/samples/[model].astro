@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
+import { familyLabel } from '../../lib/modelMetadata.js';
 
 export function getStaticPaths() {
   return models
@@ -19,7 +20,7 @@ const sampleUrl = `${base}data/samples/${model.model}.json`;
     <div>
       <div class="card-kicker">
         <span class="chip">{model.lab}</span>
-        <span class="chip green">{model.family}</span>
+        <span class="chip green">{familyLabel(model.family)}</span>
       </div>
       <h1>{displayName} samples</h1>
       <p class="lede">Freeflow and values samples rendered as readable prose, with filters for condition, corpus type, cell, provider, and text search.</p>

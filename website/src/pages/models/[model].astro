@@ -2,6 +2,7 @@
 import { marked } from 'marked';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
+import { familyLabel } from '../../lib/modelMetadata.js';
 
 export function getStaticPaths() {
   return models
@@ -133,7 +134,7 @@ function speedLabel(value) {
     <article class="article">
       <div class="card-kicker">
         <span class="chip">{model.lab}</span>
-        <span class="chip green">{model.family}</span>
+        <span class="chip green">{familyLabel(model.family)}</span>
         <span class="chip amber">{model.status}</span>
       </div>
       <h1>{displayName}</h1>
@@ -198,7 +199,7 @@ function speedLabel(value) {
         <h2>Model</h2>
         <div class="table-list">
           <div><b>Lab</b><br /><span>{model.lab}</span></div>
-          <div><b>Family</b><br /><span>{model.family}</span></div>
+          <div><b>Family</b><br /><span>{familyLabel(model.family)}</span></div>
           <div><b>Analyzed freeflow samples</b><br /><span>{(model.analyzed_freeflow_samples ?? model.published_freeflow_samples).toLocaleString()}</span></div>
           <div><b>Layered values samples</b><br /><span>{(model.analyzed_values_samples ?? model.published_values_samples).toLocaleString()}</span></div>
         </div>

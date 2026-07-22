@@ -293,7 +293,7 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Anthropic"
     if slug.startswith("gpt"):
         return "OpenAI"
-    if slug.startswith("gemini"):
+    if slug.startswith(("gemini", "gemma")):
         return "Google"
     if slug.startswith("grok"):
         return "xAI"
@@ -318,19 +318,19 @@ def lab_for_model(slug: str, display: str) -> str:
 
 def family_for_model(model: str) -> str:
     if model.startswith("fable"):
-        return "fable"
+        return "claude-fable"
     if model.startswith("opus"):
-        return "opus"
+        return "claude-opus"
     if model.startswith("sonnet"):
-        return "sonnet"
+        return "claude-sonnet"
     if model.startswith("haiku"):
-        return "haiku"
-    if model.startswith("gpt-5"):
-        return "gpt-5"
-    if model.startswith("gpt-4"):
-        return "gpt-4"
+        return "claude-haiku"
+    if model.startswith("gpt"):
+        return "gpt"
     if model.startswith("gemini"):
         return "gemini"
+    if model.startswith("gemma"):
+        return "gemma"
     if model.startswith("grok"):
         return "grok"
     if model.startswith("deepseek"):

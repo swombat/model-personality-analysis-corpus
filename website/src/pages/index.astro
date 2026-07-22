@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import models from '../generated/models.json';
+import { familyLabel } from '../lib/modelMetadata.js';
 
 const completeModels = models
   .filter((model) => model.status !== 'redirect')
@@ -47,27 +48,6 @@ function ratingStyle(percent) {
 
 function costLabel(model) {
   return `${priceLabel(model.openrouter?.prompt_per_million)} / ${priceLabel(model.openrouter?.completion_per_million)}`;
-}
-
-const familyLabels = {
-  deepseek: 'DeepSeek',
-  fable: 'Fable',
-  gemini: 'Gemini',
-  glm: 'GLM',
-  'gpt-4': 'GPT-4',
-  'gpt-5': 'GPT-5',
-  grok: 'Grok',
-  kimi: 'Kimi',
-  llama: 'Llama',
-  minimax: 'MiniMax',
-  mistral: 'Mistral',
-  opus: 'Opus',
-  qwen: 'Qwen',
-  sonnet: 'Sonnet',
-};
-
-function familyLabel(family) {
-  return familyLabels[family] || family;
 }
 
 const valuePillPalette = {
@@ -131,7 +111,7 @@ function valuePillStyle(label) {
       Family
       <select id="familyFilter">
         <option value="">All families</option>
-        {families.map((family) => <option value={family}>{family}</option>)}
+        {families.map((family) => <option value={family}>{familyLabel(family)}</option>)}
       </select>
     </label>
     <label>

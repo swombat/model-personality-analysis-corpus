@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
+import { familyLabel } from '../../lib/modelMetadata.js';
 
 export function getStaticPaths() {
   const families = [...new Set(models.filter((model) => model.status !== 'redirect').map((model) => model.family))].sort();
@@ -8,6 +9,7 @@ export function getStaticPaths() {
 }
 
 const { family } = Astro.props;
+const displayFamily = familyLabel(family);
 const familyModels = models
   .filter((model) => model.family === family && model.status !== 'redirect')
   .sort((a, b) => (b.release_date || '').localeCompare(a.release_date || '') || (a.display_name || a.model).localeCompare(b.display_name || b.model));
@@ -31,9 +33,9 @@ function benchmarkTitle(model) {
 }
 ---
 
-<BaseLayout title={`${family} | Model Personality Browser`}>
-  <h1>{family}</h1>
-  <p class="lede">Models in the {family} family.</p>
+<BaseLayout title={`${displayFamily} | Model Personality Browser`}>
+  <h1>{displayFamily}</h1>
+  <p class="lede">Models in the {displayFamily} family.</p>
   <section class="model-grid">
     {familyModels.map((model) => (
       <article class="model-card">
@@ -53,7 +55,7 @@ function benchmarkTitle(model) {
           <div>
             <div class="card-kicker">
               <span class="chip">{model.lab}</span>
-              <span class="chip green">{model.family}</span>
+              <span class="chip green">{familyLabel(model.family)}</span>
             </div>
             <h2>{model.display_name || model.model}</h2>
             <p class="summary">{model.summary}</p>
