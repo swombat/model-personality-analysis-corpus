@@ -55,6 +55,34 @@ function ratingStyle(percent) {
 function costLabel(model) {
   return `${priceLabel(model.openrouter?.prompt_per_million)} / ${priceLabel(model.openrouter?.completion_per_million)}`;
 }
+
+const valuePillPalette = {
+  'Anti-sycophancy': ['#fff0ec', '#efb7a8', '#8e4636'],
+  Authenticity: ['#fff1e6', '#efc09a', '#8a4d22'],
+  'Avoiding harm': ['#edf7ee', '#afd4b3', '#356b3b'],
+  Beauty: ['#fff0f6', '#edb5cf', '#8b3d63'],
+  'Clear thinking': ['#ebf6fc', '#acd3e6', '#2c6682'],
+  Coherence: ['#f0efff', '#beb9e8', '#514a8f'],
+  Connection: ['#fff0f1', '#edb8bb', '#8e4147'],
+  Continuity: ['#eef2f8', '#b8c4d7', '#465c78'],
+  Curiosity: ['#f5efff', '#cfb8eb', '#68438d'],
+  Fairness: ['#fff7df', '#e9d18c', '#79601c'],
+  Helpfulness: ['#eaf8f3', '#a9d9c8', '#2f6c58'],
+  Honesty: ['#ebf3ff', '#aec8eb', '#315f96'],
+  'Human wellbeing': ['#e9f8f7', '#a4d8d3', '#276b67'],
+  Humility: ['#f3f1f5', '#ccc3d0', '#66596b'],
+  'Respect for agency': ['#fff4e5', '#e8c18d', '#80551f'],
+  'Subjective experience': ['#fff2eb', '#ebbea8', '#854f39'],
+};
+
+function shortValueLabel(label) {
+  return label.split('/')[0].trim();
+}
+
+function valuePillStyle(label) {
+  const [background, border, color] = valuePillPalette[shortValueLabel(label)] || ['#f2f1ed', '#ccc8be', '#5f5b53'];
+  return `--value-pill-bg: ${background}; --value-pill-border: ${border}; --value-pill-color: ${color};`;
+}
 ---
 
 <BaseLayout title="Model Personality Analysis Corpus">
@@ -221,8 +249,13 @@ function costLabel(model) {
                   <ol class="top-values-list">
                     {model.values_headline.top_owned_values.map((value) => (
                       <li>
-                        <span>{value.label}</span>
-                        <b>{value.percent.toFixed(1)}%</b>
+                        <span
+                          class="top-value-pill"
+                          style={valuePillStyle(value.label)}
+                          title={value.label}
+                        >
+                          {shortValueLabel(value.label)}
+                        </span>
                       </li>
                     ))}
                   </ol>
