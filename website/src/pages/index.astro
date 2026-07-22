@@ -188,16 +188,16 @@ function costLabel(model) {
                     <span
                       class="values-rating values-rating-disclosure"
                       style={ratingStyle(model.values_headline.disclosure.percent)}
-                      title={`Owned stated-value disclosure: ${model.values_headline.disclosure.owned}/${model.values_headline.disclosure.total} stated-values samples (${model.values_headline.disclosure.percent.toFixed(1)}%).`}
+                      title={`Owned stated-value disclosure: ${model.values_headline.disclosure.owned}/${model.values_headline.disclosure.total} stated-values samples (${model.values_headline.disclosure.percent.toFixed(1)}%). This measures how often the model owns a stated value rather than reciting, relocating, or declining it.`}
                     >
                       <span class="rating-dot" aria-hidden="true"></span>
-                      disclosure {model.values_headline.disclosure.percent.toFixed(1)}%
+                      {model.values_headline.disclosure.percent.toFixed(1)}%
                     </span>
                   </div>
                 ) : (
                   <b>unavailable</b>
                 )}
-                <span>owned stated values</span>
+                <span>values</span>
               </div>
             </div>
             <div class="price-grid">
