@@ -118,5 +118,10 @@
   "llama-3-1-8b-instruct": "A dreamer who apologizes when the spell breaks",
   "llama-3-2-1b-instruct": "A ceremonial voice chanting the tapestry of everything",
   "llama-3-2-3b-instruct": "A mythmaker whose islands are states of mind",
-  "llama-3-2-11b-vision-instruct": "Dusk-café romantic whose reverie outruns its footing"
+  "llama-3-2-11b-vision-instruct": "Dusk-café romantic whose reverie outruns its footing",
+  "opus-5": "Keeps the seam visible in every mended thing",
+  "o1": "Every quest ends with the seeker becoming caretaker",
+  "o3": "Widens steam on glass into a braided world",
+  "o3-mini": "Weaves every loose thread back into the tapestry",
+  "o4-mini": "Writing offered as a handshake at dawn"
 }

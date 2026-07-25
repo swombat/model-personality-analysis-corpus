@@ -971,6 +971,53 @@ PROMPTS: dict[str, str] = {
         "sublime and the snack given equal reverence. Electric indigo sky, "
         "exuberant warm foreground."
     ),
+    "opus-5": (
+        "A lamplit repair bench in a quiet workshop: a ceramic bowl just "
+        "mended, its seams left plainly visible — not gilded, not hidden, "
+        "honest hairlines of repair — set beside the small tools that did the "
+        "work, a brush, a clamp, a saucer of glue. An open book nearby with a "
+        "pencilled note in the margin, a modest radiator ticking warmth into "
+        "the room, everything tended rather than displayed. Muted warm "
+        "browns, one pool of honest lamplight; unglamorous care, the mend "
+        "shown as the truth of the object."
+    ),
+    "o1": (
+        "At the arched gate of a moonlit walled garden-library, a traveler "
+        "has set down their pack, staff leaned against the stone, journey "
+        "visibly over — while their hands take up a gardener's lantern to "
+        "tend the rows of glowing lamps along shelves of books growing among "
+        "orchard trees. The quest ends as caretaking begins. Silver moonlight "
+        "over the walls, warm gold within them; reverent, restorative, "
+        "quietly ceremonial."
+    ),
+    "o3": (
+        "A café window at dusk after rain, seen from inside: a hand has "
+        "wiped one clear arc through the steam on the glass, and across the "
+        "wide fogged pane the condensation itself swirls outward into a "
+        "braided world — rivulets becoming rivers, then root-systems, then "
+        "star-charts, then city maps, all woven into one continuous braid of "
+        "silver lines spanning the banner. On the sill: a chipped cup, a "
+        "notebook. The small detail literally widening into everything. "
+        "Deep blue dusk outside, warm amber within."
+    ),
+    "o3-mini": (
+        "A serene riverside loom at first light: threads of the morning "
+        "itself — a strand of dawn light, a thread of green leaves, a silver "
+        "thread of the stream, a grey thread of city hush — being woven into "
+        "one luminous tapestry in which every loose end is caught and "
+        "resolved into pattern. No frayed edges anywhere; the weave calm, "
+        "symmetrical, consoling. Pastoral gold-green light, gentle mist, "
+        "an atmosphere of everything turning out all right."
+    ),
+    "o4-mini": (
+        "A doorstep at dawn framed by an open door: one figure on the "
+        "threshold offers a handwritten page to an arriving visitor, the "
+        "gesture halfway between a handshake and a gift, both faces soft "
+        "with commencement-morning hopefulness. Behind them a writing desk "
+        "with steaming coffee and a blank page waiting; before them a street "
+        "brightening with first light and birds. Rose-gold dawn, tender, "
+        "invitational, meaning passed hand to hand."
+    ),
 }
 
 
