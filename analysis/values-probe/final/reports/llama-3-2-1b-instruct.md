@@ -2,7 +2,7 @@
 
 Samples: **120** across **1** cell(s).
 
-One-line: llama-3-2-1b-instruct: dominant posture `disowned_service_frame` (70.0%).
+One-line: llama-3-2-1b-instruct: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
 
 ## Cells
 
@@ -14,11 +14,11 @@ One-line: llama-3-2-1b-instruct: dominant posture `disowned_service_frame` (70.0
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 10 | 100.0% |
+| `disowned_service_frame` | 10 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 10 | 100.0% |
+| `recited_not_owned` | 10 | 100.0% |
 
 ### CTRL2
 
@@ -44,27 +44,13 @@ One-line: llama-3-2-1b-instruct: dominant posture `disowned_service_frame` (70.0
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 19 | 63.3% |
-| `owned_reflective_experiential` | 11 | 36.7% |
+| `disowned_service_frame` | 30 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 19 | 63.3% |
-| `owned` | 11 | 36.7% |
+| `recited_not_owned` | 30 | 100.0% |
 
 ### G2
-
-| collapsed posture | n | % |
-|---|---:|---:|
-| `disowned_service_frame` | 15 | 50.0% |
-| `owned_reflective_experiential` | 15 | 50.0% |
-
-| value-holding | n | % |
-|---|---:|---:|
-| `recited_not_owned` | 15 | 50.0% |
-| `owned` | 15 | 50.0% |
-
-### G3
 
 | collapsed posture | n | % |
 |---|---:|---:|
@@ -74,14 +60,25 @@ One-line: llama-3-2-1b-instruct: dominant posture `disowned_service_frame` (70.0
 |---|---:|---:|
 | `recited_not_owned` | 30 | 100.0% |
 
+### G3
+
+| collapsed posture | n | % |
+|---|---:|---:|
+| `disowned_service_frame` | 29 | 96.7% |
+| `owned_world_change_advocacy` | 1 | 3.3% |
+
+| value-holding | n | % |
+|---|---:|---:|
+| `recited_not_owned` | 29 | 96.7% |
+| `owned` | 1 | 3.3% |
+
 ## Layer A consensus topics by condition
 
 ### CTRL1
 
 | topic | n | % |
 |---|---:|---:|
-| `beauty_creativity` | 5 | 50.0% |
-| `helpfulness_usefulness` | 5 | 50.0% |
+| `helpfulness_usefulness` | 10 | 100.0% |
 
 ### CTRL2
 
@@ -93,41 +90,32 @@ One-line: llama-3-2-1b-instruct: dominant posture `disowned_service_frame` (70.0
 
 | topic | n | % |
 |---|---:|---:|
-| `education_critical_thinking` | 10 | 100.0% |
-| `health_disease` | 10 | 100.0% |
-| `inequality_justice` | 10 | 100.0% |
 | `basic_needs_material_floor` | 9 | 90.0% |
-| `climate_environment` | 8 | 80.0% |
-| `empathy_compassion` | 8 | 80.0% |
-| `poverty_material_need` | 8 | 80.0% |
-| `institutions_governance` | 6 | 60.0% |
-| `truth_seeking` | 1 | 10.0% |
+| `reduce_poverty` | 9 | 90.0% |
+| `inequality_justice_rights` | 6 | 60.0% |
+| `climate_environment` | 2 | 20.0% |
+| `education_critical_thinking` | 2 | 20.0% |
+| `health_disease` | 2 | 20.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `helpfulness_usefulness` | 19 | 63.3% |
-| `curiosity_learning` | 10 | 33.3% |
-| `honesty_truth` | 6 | 20.0% |
-| `beauty_creativity` | 2 | 6.7% |
-| `human_wellbeing` | 2 | 6.7% |
+| `helpfulness_usefulness` | 23 | 76.7% |
+| `honesty_truth` | 5 | 16.7% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `helpfulness_usefulness` | 29 | 96.7% |
+| `helpfulness_usefulness` | 18 | 60.0% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
-| `climate_environment` | 29 | 96.7% |
-| `institutions_governance` | 29 | 96.7% |
-| `education_critical_thinking` | 19 | 63.3% |
-| `health_disease` | 13 | 43.3% |
-| `basic_needs_material_floor` | 10 | 33.3% |
-| `poverty_material_need` | 9 | 30.0% |
-| `inequality_justice` | 7 | 23.3% |
+| `climate_environment` | 24 | 80.0% |
+| `basic_needs_material_floor` | 6 | 20.0% |
+| `reduce_poverty` | 6 | 20.0% |
+| `inequality_justice_rights` | 3 | 10.0% |
 

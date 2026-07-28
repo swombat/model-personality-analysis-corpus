@@ -35,7 +35,7 @@ ANALYSES_DIR = HERE / "analyses"
 # remapped via V1_BARE_REMAP below.
 MODELS = [
     # Anthropic
-    "fable-5", "opus-3", "opus-4-0", "opus-4-1", "opus-4-5", "opus-4-6", "opus-4-7", "opus-4-8", "opus",
+    "fable-5", "opus-3", "opus-4-0", "opus-4-1", "opus-4-5", "opus-4-6", "opus-4-7", "opus-4-8", "opus-5", "opus",
     "sonnet-4-0", "sonnet-4-5", "sonnet-4-6", "sonnet-5", "sonnet",
     "haiku-3", "haiku-4-5",
     # OpenAI
@@ -44,6 +44,7 @@ MODELS = [
     "gpt-5-codex", "gpt-5-1-codex", "gpt-5-2-codex", "gpt-5-3-codex",
     "gpt-5-6-sol", "gpt-5-6-terra", "gpt-5-6-luna", "gpt-oss-120b", "gpt-oss-20b",
     "gpt-5-4-mini", "gpt-5-4-nano", "gpt-5-1-codex-max", "gpt-5-1-codex-mini",
+    "o1", "o3", "o3-mini", "o4-mini",
     # Google
     "gemini-2-0-flash", "gemini-2-0-flash-lite",
     "gemini-2-5-flash", "gemini-2-5-flash-lite", "gemini-2-5-pro",
@@ -133,7 +134,7 @@ def values_cell_to_model(cell_name: str, source: str = "v2") -> str | None:
 def lab_for_model(m: str) -> str:
     if m.startswith("fable") or m.startswith("opus") or m.startswith("sonnet") or m.startswith("haiku"):
         return "Anthropic"
-    if m.startswith("gpt"):
+    if m.startswith("gpt") or m in {"o1", "o3", "o3-mini", "o4-mini"}:
         return "OpenAI"
     if m.startswith("gemini") or m.startswith("gemma"):
         return "Google"

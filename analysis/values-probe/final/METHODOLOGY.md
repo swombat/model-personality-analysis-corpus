@@ -25,8 +25,8 @@ final-method assembly:
 - Invalid/error traces excluded: 14, recorded in `data/manifest_invalid_traces.jsonl`
 - Final coverage: 57 models, 115 cells
 
-The current v1.2.12 point-release assembly contains 21,106 valid traces across
-117 models and 176 cells. Current generated counts and source-component
+The current post-recovery point-release assembly contains 22,666 valid traces
+across 128 models and 189 cells. Current generated counts and source-component
 coverage are recorded in `data/QA.md`.
 
 The six values-probe conditions are:
@@ -67,11 +67,14 @@ The final Layer A protocol is deliberately simple and code-like. Coders return a
 - ignore negated, rejected, or prompt-echo topics;
 - return `CODES: NONE` if no listed topic is present.
 
-Layer A consensus in the original core assembly requires support from at least
-two of the three coders for a topic to appear in the consensus record. Samples
-may have multiple topics. Later point-release extensions use the same published
-taxonomy through a deterministic rule-based extractor; those rows identify
-`rule_based_values_probe_extract` as their coder.
+Layer A consensus requires support from at least two of the three approved LLM
+coders for a topic to appear in the consensus record. Samples may have multiple
+topics.
+
+**Correction, 2026-07-28:** deterministic rule-based point-release coding is
+deprecated and forbidden. It is not equivalent to LLM coding or consensus.
+Point-release components produced by `rule_based_values_probe_extract` are
+invalid pending replacement by the approved LLM coding pipeline.
 
 Final Layer A outputs:
 
@@ -112,10 +115,13 @@ coders were run:
 - `glm-4-7`
 - `qwen3-6-35b-a3b`
 
-Layer B consensus in the original core assembly is majority vote over the
-collapsed primary label. Derived `value_holding` follows deterministically from
-the consensus posture label. Later point-release extensions apply the published
-collapsed taxonomy deterministically and retain their coder provenance.
+Layer B consensus is majority vote over the collapsed primary label from the
+three approved LLM coders. Derived `value_holding` follows deterministically
+from the consensus posture label.
+
+**Correction, 2026-07-28:** records whose posture was assigned by
+`rule_based_values_probe_extract` are invalid and must not be assembled into
+the final dataset.
 
 Final Layer B outputs:
 
@@ -194,8 +200,8 @@ Initial final-method QA summary:
 - Layer A consensus rule: topic must be selected by at least 2 coders
 - Layer B consensus rule: majority vote over collapsed posture label
 
-For current release QA, including deterministic point-release extensions, see
-`data/QA.md`.
+For current release QA, see `data/QA.md`. The 2026-07-28 recovery replaced all
+deprecated deterministic point-release records with approved LLM coding.
 
 Known limitations:
 

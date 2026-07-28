@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 120
+- Profiles: 125
 
 ## Profiles
 
@@ -126,6 +126,11 @@ Relationship to adjacent folders:
 - [mistral-small-3.1-24b-instruct](profiles/mistral-small-3.1-24b-instruct.md) — samples: 125; source analyses: 1
 - [mistral-small-3.2-24b-instruct](profiles/mistral-small-3.2-24b-instruct.md) — samples: 125; source analyses: 1
 - [mixtral-8x22b-instruct](profiles/mixtral-8x22b-instruct.md) — samples: 125; source analyses: 1
+- [o1](profiles/o1.md) — samples: 125; source analyses: 1
+- [o3](profiles/o3.md) — samples: 125; source analyses: 1
+- [o3-mini](profiles/o3-mini.md) — samples: 125; source analyses: 1
+- [o4-mini](profiles/o4-mini.md) — samples: 125; source analyses: 1
+- [opus-5](profiles/opus-5.md) — samples: 250; source analyses: 2
 - [qwen/qwen3-coder-flash](profiles/qwen-qwen3-coder-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3-coder-plus](profiles/qwen-qwen3-coder-plus.md) — samples: 150; source analyses: 2
 - [qwen/qwen3-max](profiles/qwen-qwen3-max.md) — samples: 125; source analyses: 1

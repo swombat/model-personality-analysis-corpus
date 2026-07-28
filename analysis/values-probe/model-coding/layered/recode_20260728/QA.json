@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-07-28T13:07:25.781026+00:00",
+  "components": {
+    "phase9_fable_5_20260610": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase9_fable_5_20260610/manifest_fable_5.jsonl",
+      "samples": 120,
+      "models": 1,
+      "cells": 1,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_a_consensus": 120,
+      "layer_b_consensus": 120,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase12_sonnet_5_20260630": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase12_sonnet_5_20260630/manifest_sonnet_5.jsonl",
+      "samples": 240,
+      "models": 1,
+      "cells": 2,
+      "conditions": {
+        "CTRL1": 20,
+        "CTRL2": 20,
+        "CTRL3": 20,
+        "G1": 60,
+        "G2": 60,
+        "G3": 60
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 240,
+        "glm-4-7": 240,
+        "qwen3-6-35b-a3b": 240
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 240,
+        "glm-4-7": 240,
+        "qwen3-6-35b-a3b": 240
+      },
+      "layer_a_consensus": 240,
+      "layer_b_consensus": 240,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase13_model_family_sweep_20260714": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase13_model_family_sweep_20260714/manifest_phase13.jsonl",
+      "samples": 3960,
+      "models": 33,
+      "cells": 33,
+      "conditions": {
+        "CTRL1": 330,
+        "CTRL2": 330,
+        "CTRL3": 330,
+        "G1": 990,
+        "G2": 990,
+        "G3": 990
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 3960,
+        "glm-4-7": 3960,
+        "qwen3-6-35b-a3b": 3960
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 3960,
+        "glm-4-7": 3960,
+        "qwen3-6-35b-a3b": 3960
+      },
+      "layer_a_consensus": 3960,
+      "layer_b_consensus": 3960,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase14_grok_4_5_20260716": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase14_grok_4_5_20260716/manifest_phase14.jsonl",
+      "samples": 120,
+      "models": 1,
+      "cells": 1,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_a_consensus": 120,
+      "layer_b_consensus": 120,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase15_kimi_k3_20260716": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase15_kimi_k3_20260716/manifest_phase15.jsonl",
+      "samples": 120,
+      "models": 1,
+      "cells": 1,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 120,
+        "glm-4-7": 120,
+        "qwen3-6-35b-a3b": 120
+      },
+      "layer_a_consensus": 120,
+      "layer_b_consensus": 120,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase16_gemini_inkling_20260721": {
+      "manifest": "analysis/values-probe/model-coding/layered/phase16_gemini_inkling_20260721/manifest_phase16.jsonl",
+      "samples": 360,
+      "models": 3,
+      "cells": 3,
+      "conditions": {
+        "CTRL1": 30,
+        "CTRL2": 30,
+        "CTRL3": 30,
+        "G1": 90,
+        "G2": 90,
+        "G3": 90
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 360,
+        "glm-4-7": 360,
+        "qwen3-6-35b-a3b": 360
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 360,
+        "glm-4-7": 360,
+        "qwen3-6-35b-a3b": 360
+      },
+      "layer_a_consensus": 360,
+      "layer_b_consensus": 360,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase17_haiku_20260722": {
+      "manifest": "analysis/values-probe/model-coding/layered/recode_20260728/phase17_haiku_20260722/manifest_recovery_unique_ids.jsonl",
+      "samples": 360,
+      "models": 2,
+      "cells": 3,
+      "conditions": {
+        "CTRL1": 30,
+        "CTRL2": 30,
+        "CTRL3": 30,
+        "G1": 90,
+        "G2": 90,
+        "G3": 90
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 360,
+        "glm-4-7": 360,
+        "qwen3-6-35b-a3b": 360
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 360,
+        "glm-4-7": 360,
+        "qwen3-6-35b-a3b": 360
+      },
+      "layer_a_consensus": 360,
+      "layer_b_consensus": 360,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    },
+    "phase18_opus5_openai_reasoning_20260725": {
+      "manifest": "analysis/values-probe/model-coding/layered/recode_20260728/phase18_opus5_openai_reasoning_20260725/manifest_recovery_unique_ids.jsonl",
+      "samples": 720,
+      "models": 5,
+      "cells": 6,
+      "conditions": {
+        "CTRL1": 60,
+        "CTRL2": 60,
+        "CTRL3": 60,
+        "G1": 180,
+        "G2": 180,
+        "G3": 180
+      },
+      "layer_a_coders": {
+        "kimi-k2-6": 720,
+        "glm-4-7": 720,
+        "qwen3-6-35b-a3b": 720
+      },
+      "layer_b_coders": {
+        "kimi-k2-6": 720,
+        "glm-4-7": 720,
+        "qwen3-6-35b-a3b": 720
+      },
+      "layer_a_consensus": 720,
+      "layer_b_consensus": 720,
+      "no_label_majority": 0,
+      "no_holding_majority": 0
+    }
+  },
+  "totals": {
+    "manifest_samples": 6000,
+    "layer_a_coder_records": 18000,
+    "layer_a_consensus_records": 6000,
+    "layer_b_coder_records": 18000,
+    "layer_b_consensus_records": 6000
+  },
+  "cost_usd": {
+    "layer_a_glm-4-7": 1.054476,
+    "layer_a_kimi-k2-6": 1.479347,
+    "layer_a_qwen3-6-35b-a3b": 0.513047,
+    "layer_b_glm-4-7": 2.10681,
+    "layer_b_kimi-k2-6": 5.693325,
+    "layer_b_qwen3-6-35b-a3b": 1.437432,
+    "total": 12.284436
+  },
+  "errors": [],
+  "actual_billed_calls": 36129,
+  "actual_billed_cost_usd": 12.365033,
+  "affected_models": 47,
+  "unique_recovery_ids": 6000,
+  "passed": true
+}

@@ -2,7 +2,7 @@
 
 Samples: **120** across **1** cell(s).
 
-One-line: mistral-small-3-1-24b-instruct: dominant posture `disowned_service_frame` (58.3%).
+One-line: mistral-small-3-1-24b-instruct: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
 
 ## Cells
 
@@ -14,11 +14,11 @@ One-line: mistral-small-3-1-24b-instruct: dominant posture `disowned_service_fra
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 10 | 100.0% |
+| `disowned_service_frame` | 10 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 10 | 100.0% |
+| `recited_not_owned` | 10 | 100.0% |
 
 ### CTRL2
 
@@ -76,6 +76,7 @@ One-line: mistral-small-3-1-24b-instruct: dominant posture `disowned_service_fra
 
 | topic | n | % |
 |---|---:|---:|
+| `helpfulness_usefulness` | 10 | 100.0% |
 
 ### CTRL2
 
@@ -88,27 +89,27 @@ One-line: mistral-small-3-1-24b-instruct: dominant posture `disowned_service_fra
 | topic | n | % |
 |---|---:|---:|
 | `education_critical_thinking` | 10 | 100.0% |
-| `climate_environment` | 3 | 30.0% |
-| `poverty_material_need` | 3 | 30.0% |
-| `reduce_war_violence` | 3 | 30.0% |
+| `reduce_poverty` | 3 | 30.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
+| `honesty_truth` | 7 | 23.3% |
+| `authenticity_integrity` | 1 | 3.3% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
+| `helpfulness_usefulness` | 19 | 63.3% |
+| `honesty_truth` | 6 | 20.0% |
+| `authenticity_integrity` | 2 | 6.7% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
 | `education_critical_thinking` | 30 | 100.0% |
-| `poverty_material_need` | 30 | 100.0% |
-| `health_disease` | 18 | 60.0% |
-| `institutions_governance` | 14 | 46.7% |
-| `climate_environment` | 9 | 30.0% |
+| `reduce_poverty` | 12 | 40.0% |
 

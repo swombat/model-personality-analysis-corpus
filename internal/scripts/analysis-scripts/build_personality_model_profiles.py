@@ -40,6 +40,9 @@ def canonical(srcs, cell: str) -> str:
         s = 'haiku-3'
     if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s):
         s = 'haiku-4-5'
+    if s == 'claude-opus-5':
+        s = 'opus-5'
+    s = re.sub(r'^(o1|o3|o3-mini|o4-mini)-\d{4}-\d{2}-\d{2}$', r'\1', s)
     s = re.sub(r'^(claude-(?:opus|sonnet)-4)-([0-9]+)$', r'\1.\2', s)
     return s or cell
 

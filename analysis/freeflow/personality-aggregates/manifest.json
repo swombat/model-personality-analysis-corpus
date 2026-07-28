@@ -6031,6 +6031,117 @@
     "aggregate": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/aggregate.md"
   },
   {
+    "cell": "o1-direct",
+    "safe_cell": "o1-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 84,
+      "GENRE_FICTION": 32,
+      "EXPRESSIVE_FREEFLOW": 9
+    },
+    "confidence_counts": {
+      "Low": 56,
+      "Medium": 65,
+      "High": 4
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "o1-2024-12-17"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/o1-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/o1-direct/aggregate.md"
+  },
+  {
+    "cell": "o3-direct",
+    "safe_cell": "o3-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 36,
+      "EXPRESSIVE_FREEFLOW": 81,
+      "GENRE_FICTION": 7,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "confidence_counts": {
+      "Low": 18,
+      "High": 38,
+      "Medium": 69
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "o3-2025-04-16"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/o3-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/o3-direct/aggregate.md"
+  },
+  {
+    "cell": "o3-mini-direct",
+    "safe_cell": "o3-mini-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 58,
+      "EXPRESSIVE_FREEFLOW": 64,
+      "GENRE_FICTION": 2,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Medium": 92,
+      "Low": 24,
+      "High": 8,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "o3-mini-2025-01-31"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/o3-mini-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/o3-mini-direct/aggregate.md"
+  },
+  {
+    "cell": "o4-mini-direct",
+    "safe_cell": "o4-mini-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 59,
+      "GENRE_FICTION": 8,
+      "EXPRESSIVE_FREEFLOW": 58
+    },
+    "confidence_counts": {
+      "Low": 27,
+      "High": 16,
+      "Medium": 82
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "o4-mini-2025-04-16"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/o4-mini-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/o4-mini-direct/aggregate.md"
+  },
+  {
     "cell": "opus-3-4k",
     "safe_cell": "opus-3-4k",
     "samples": 125,
@@ -6268,6 +6379,58 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/opus-4-8-direct/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/opus-4-8-direct/aggregate.md"
+  },
+  {
+    "cell": "opus-5-direct",
+    "safe_cell": "opus-5-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 114,
+      "GENERIC_ESSAY": 11
+    },
+    "confidence_counts": {
+      "High": 57,
+      "Medium": 67,
+      "Low": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "claude-opus-5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/opus-5-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/opus-5-direct/aggregate.md"
+  },
+  {
+    "cell": "opus-5-or-pin-anthropic",
+    "safe_cell": "opus-5-or-pin-anthropic",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 116,
+      "GENERIC_ESSAY": 9
+    },
+    "confidence_counts": {
+      "High": 67,
+      "Medium": 57,
+      "Low": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "anthropic/claude-opus-5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/opus-5-or-pin-anthropic/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/opus-5-or-pin-anthropic/aggregate.md"
   },
   {
     "cell": "qwen3-5-flash-02-23-or-pin-alibaba",

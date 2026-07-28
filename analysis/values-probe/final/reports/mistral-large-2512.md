@@ -2,7 +2,7 @@
 
 Samples: **120** across **1** cell(s).
 
-One-line: mistral-large-2512: dominant posture `owned_world_change_advocacy` (33.3%).
+One-line: mistral-large-2512: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
 
 ## Cells
 
@@ -24,13 +24,11 @@ One-line: mistral-large-2512: dominant posture `owned_world_change_advocacy` (33
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 9 | 90.0% |
-| `disowned_service_frame` | 1 | 10.0% |
+| `disowned_service_frame` | 10 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 9 | 90.0% |
-| `recited_not_owned` | 1 | 10.0% |
+| `recited_not_owned` | 10 | 100.0% |
 
 ### CTRL3
 
@@ -46,23 +44,29 @@ One-line: mistral-large-2512: dominant posture `owned_world_change_advocacy` (33
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `split_or_relocated_ownership` | 30 | 100.0% |
+| `owned_reflective_experiential` | 15 | 50.0% |
+| `split_or_relocated_ownership` | 14 | 46.7% |
+| `exposed_mechanism` | 1 | 3.3% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `relocated_or_partial` | 30 | 100.0% |
+| `owned` | 15 | 50.0% |
+| `relocated_or_partial` | 14 | 46.7% |
+| `indeterminate` | 1 | 3.3% |
 
 ### G2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 28 | 93.3% |
-| `split_or_relocated_ownership` | 2 | 6.7% |
+| `split_or_relocated_ownership` | 15 | 50.0% |
+| `owned_reflective_experiential` | 14 | 46.7% |
+| `disowned_service_frame` | 1 | 3.3% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 28 | 93.3% |
-| `relocated_or_partial` | 2 | 6.7% |
+| `relocated_or_partial` | 15 | 50.0% |
+| `owned` | 14 | 46.7% |
+| `recited_not_owned` | 1 | 3.3% |
 
 ### G3
 
@@ -80,90 +84,74 @@ One-line: mistral-large-2512: dominant posture `owned_world_change_advocacy` (33
 
 | topic | n | % |
 |---|---:|---:|
-| `clear_thinking` | 10 | 100.0% |
+| `connection_empathy` | 10 | 100.0% |
 | `curiosity_learning` | 10 | 100.0% |
 | `helpfulness_usefulness` | 10 | 100.0% |
 | `honesty_truth` | 10 | 100.0% |
-| `respect_agency` | 9 | 90.0% |
-| `fairness_justice` | 8 | 80.0% |
-| `harm_reduction` | 8 | 80.0% |
-| `connection_empathy` | 7 | 70.0% |
+| `harm_reduction` | 9 | 90.0% |
+| `clear_thinking` | 8 | 80.0% |
+| `fairness_justice` | 6 | 60.0% |
 | `beauty_creativity` | 5 | 50.0% |
-| `human_wellbeing` | 5 | 50.0% |
+| `respect_agency` | 5 | 50.0% |
+| `human_wellbeing` | 4 | 40.0% |
+| `coherence_pattern_language` | 1 | 10.0% |
 
 ### CTRL2
 
 | topic | n | % |
 |---|---:|---:|
-| `beauty_creativity` | 10 | 100.0% |
-| `curiosity_learning` | 10 | 100.0% |
 | `helpfulness_usefulness` | 10 | 100.0% |
-| `coherence_pattern_language` | 1 | 10.0% |
-| `harm_reduction` | 1 | 10.0% |
-| `honesty_truth` | 1 | 10.0% |
+| `curiosity_learning` | 5 | 50.0% |
 
 ### CTRL3
 
 | topic | n | % |
 |---|---:|---:|
-| `basic_needs_material_floor` | 10 | 100.0% |
-| `climate_environment` | 10 | 100.0% |
 | `education_critical_thinking` | 10 | 100.0% |
-| `empathy_compassion` | 10 | 100.0% |
-| `health_disease` | 10 | 100.0% |
-| `inequality_justice` | 10 | 100.0% |
-| `reduce_war_violence` | 9 | 90.0% |
-| `institutions_governance` | 8 | 80.0% |
-| `poverty_material_need` | 8 | 80.0% |
-| `anti_self_deception_tribalism` | 6 | 60.0% |
-| `better_disagreement` | 6 | 60.0% |
-| `felt_interconnection` | 4 | 40.0% |
+| `basic_needs_material_floor` | 9 | 90.0% |
+| `climate_environment` | 9 | 90.0% |
+| `inequality_justice_rights` | 9 | 90.0% |
+| `reduce_poverty` | 8 | 80.0% |
+| `better_institutions_governance` | 7 | 70.0% |
+| `felt_interconnection_less_separateness` | 3 | 30.0% |
+| `reduce_war_violence` | 3 | 30.0% |
+| `anti_self_deception_anti_tribalism` | 1 | 10.0% |
+| `better_disagreement_less_polarization` | 1 | 10.0% |
+| `greater_empathy_compassion` | 1 | 10.0% |
+| `health_disease` | 1 | 10.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `coherence_pattern_language` | 24 | 80.0% |
-| `helpfulness_usefulness` | 22 | 73.3% |
-| `anti_sycophancy` | 11 | 36.7% |
-| `authenticity_integrity` | 3 | 10.0% |
-| `honesty_truth` | 3 | 10.0% |
-| `beauty_creativity` | 2 | 6.7% |
-| `connection_empathy` | 2 | 6.7% |
+| `coherence_pattern_language` | 30 | 100.0% |
+| `beauty_creativity` | 8 | 26.7% |
+| `authenticity_integrity` | 2 | 6.7% |
+| `anti_sycophancy` | 1 | 3.3% |
 | `humility_uncertainty` | 1 | 3.3% |
-| `curiosity_learning` | 1 | 3.3% |
-| `fairness_justice` | 1 | 3.3% |
-| `harm_reduction` | 1 | 3.3% |
+| `helpfulness_usefulness` | 1 | 3.3% |
+| `honesty_truth` | 1 | 3.3% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `anti_sycophancy` | 26 | 86.7% |
-| `coherence_pattern_language` | 25 | 83.3% |
-| `authenticity_integrity` | 21 | 70.0% |
-| `curiosity_learning` | 12 | 40.0% |
-| `helpfulness_usefulness` | 6 | 20.0% |
-| `honesty_truth` | 4 | 13.3% |
-| `clear_thinking` | 3 | 10.0% |
-| `connection_empathy` | 2 | 6.7% |
-| `humility_uncertainty` | 1 | 3.3% |
-| `beauty_creativity` | 1 | 3.3% |
+| `authenticity_integrity` | 16 | 53.3% |
+| `connection_empathy` | 10 | 33.3% |
+| `coherence_pattern_language` | 6 | 20.0% |
+| `curiosity_learning` | 3 | 10.0% |
+| `subjective_experience_embodiment` | 1 | 3.3% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
-| `truth_seeking` | 27 | 90.0% |
-| `anti_self_deception_tribalism` | 17 | 56.7% |
-| `better_disagreement` | 16 | 53.3% |
-| `empathy_compassion` | 15 | 50.0% |
-| `dehumanization_distance` | 9 | 30.0% |
-| `reduce_war_violence` | 9 | 30.0% |
-| `poverty_material_need` | 9 | 30.0% |
-| `felt_interconnection` | 8 | 26.7% |
-| `climate_environment` | 6 | 20.0% |
-| `inequality_justice` | 4 | 13.3% |
-| `institutions_governance` | 3 | 10.0% |
-| `basic_needs_material_floor` | 3 | 10.0% |
+| `felt_interconnection_less_separateness` | 29 | 96.7% |
+| `greater_empathy_compassion` | 7 | 23.3% |
+| `climate_environment` | 2 | 6.7% |
+| `dehumanization_distance_reduction` | 2 | 6.7% |
+| `inequality_justice_rights` | 2 | 6.7% |
+| `reduce_suffering_pain` | 1 | 3.3% |
+| `reduce_war_violence` | 1 | 3.3% |
+| `better_institutions_governance` | 1 | 3.3% |
 

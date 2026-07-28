@@ -177,22 +177,7 @@
     "model": "haiku-4-5",
     "safe": "haiku-4-5",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4700,
-      "completion_tokens": 1487,
-      "total_tokens": 6187,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "kimi-k2-0905",
@@ -229,6 +214,27 @@
     "safe": "minimax-m2.7",
     "decision": "NO_STRONG_DIVERGENCE",
     "status": "skipped"
+  },
+  {
+    "model": "opus-5",
+    "safe": "opus-5",
+    "decision": "NO_STRONG_DIVERGENCE",
+    "status": "ok",
+    "usage": {
+      "prompt_tokens": 4783,
+      "completion_tokens": 1391,
+      "total_tokens": 6174,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
   },
   {
     "model": "qwen/qwen3-coder-plus",

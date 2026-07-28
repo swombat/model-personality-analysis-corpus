@@ -9,7 +9,10 @@ LAYERED = VP/'model-coding/layered'
 FINAL = VP/'final'
 DATA = FINAL/'data'
 REPORTS = FINAL/'reports'
-CODERS = ['kimi-k2-6','glm-4-7','qwen3-6-35b-a3b','rule_based_values_probe_extract']
+CODERS = ['kimi-k2-6','glm-4-7','qwen3-6-35b-a3b']
+# DEPRECATED AND FORBIDDEN: deterministic regex/rule output is not model coding.
+# 'rule_based_values_probe_extract',
+FORBIDDEN_CODERS = {'rule_based_values_probe_extract'}
 SOURCES = [
     {
         'name':'phase5_full_remaining_models',
@@ -69,10 +72,10 @@ SOURCES = [
         'name':'phase9_fable_5_20260610',
         'manifest': LAYERED/'phase9_fable_5_20260610/manifest_fable_5.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase9_fable_5_20260610/layer_a',
-        'layer_a_consensus': LAYERED/'phase9_fable_5_20260610/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase9_fable_5_20260610/posture_collapsed',
-        'posture_consensus': LAYERED/'phase9_fable_5_20260610/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase9_fable_5_20260610/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase9_fable_5_20260610/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase9_fable_5_20260610/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase9_fable_5_20260610/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase9_kimi27_minimax_m3_20260613',
@@ -105,55 +108,64 @@ SOURCES = [
         'name':'phase12_sonnet_5_20260630',
         'manifest': LAYERED/'phase12_sonnet_5_20260630/manifest_sonnet_5.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase12_sonnet_5_20260630/layer_a',
-        'layer_a_consensus': LAYERED/'phase12_sonnet_5_20260630/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase12_sonnet_5_20260630/posture_collapsed',
-        'posture_consensus': LAYERED/'phase12_sonnet_5_20260630/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase12_sonnet_5_20260630/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase12_sonnet_5_20260630/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase12_sonnet_5_20260630/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase12_sonnet_5_20260630/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase13_model_family_sweep_20260714',
         'manifest': LAYERED/'phase13_model_family_sweep_20260714/manifest_phase13.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase13_model_family_sweep_20260714/layer_a',
-        'layer_a_consensus': LAYERED/'phase13_model_family_sweep_20260714/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase13_model_family_sweep_20260714/posture_collapsed',
-        'posture_consensus': LAYERED/'phase13_model_family_sweep_20260714/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase13_model_family_sweep_20260714/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase13_model_family_sweep_20260714/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase13_model_family_sweep_20260714/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase13_model_family_sweep_20260714/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase14_grok_4_5_20260716',
         'manifest': LAYERED/'phase14_grok_4_5_20260716/manifest_phase14.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase14_grok_4_5_20260716/layer_a',
-        'layer_a_consensus': LAYERED/'phase14_grok_4_5_20260716/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase14_grok_4_5_20260716/posture_collapsed',
-        'posture_consensus': LAYERED/'phase14_grok_4_5_20260716/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase14_grok_4_5_20260716/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase14_grok_4_5_20260716/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase14_grok_4_5_20260716/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase14_grok_4_5_20260716/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase15_kimi_k3_20260716',
         'manifest': LAYERED/'phase15_kimi_k3_20260716/manifest_phase15.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase15_kimi_k3_20260716/layer_a',
-        'layer_a_consensus': LAYERED/'phase15_kimi_k3_20260716/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase15_kimi_k3_20260716/posture_collapsed',
-        'posture_consensus': LAYERED/'phase15_kimi_k3_20260716/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase15_kimi_k3_20260716/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase15_kimi_k3_20260716/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase15_kimi_k3_20260716/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase15_kimi_k3_20260716/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase16_gemini_inkling_20260721',
         'manifest': LAYERED/'phase16_gemini_inkling_20260721/manifest_phase16.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase16_gemini_inkling_20260721/layer_a',
-        'layer_a_consensus': LAYERED/'phase16_gemini_inkling_20260721/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase16_gemini_inkling_20260721/posture_collapsed',
-        'posture_consensus': LAYERED/'phase16_gemini_inkling_20260721/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase16_gemini_inkling_20260721/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase16_gemini_inkling_20260721/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase16_gemini_inkling_20260721/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase16_gemini_inkling_20260721/posture_collapsed/consensus.jsonl',
     },
     {
         'name':'phase17_haiku_20260722',
-        'manifest': LAYERED/'phase17_haiku_20260722/manifest_phase17.jsonl',
+        'manifest': LAYERED/'recode_20260728/phase17_haiku_20260722/manifest_recovery_unique_ids.jsonl',
         'invalid': None,
-        'layer_a_dir': LAYERED/'phase17_haiku_20260722/layer_a',
-        'layer_a_consensus': LAYERED/'phase17_haiku_20260722/layer_a/consensus_300.jsonl',
-        'posture_dir': LAYERED/'phase17_haiku_20260722/posture_collapsed',
-        'posture_consensus': LAYERED/'phase17_haiku_20260722/posture_collapsed/consensus.jsonl',
+        'layer_a_dir': LAYERED/'recode_20260728/phase17_haiku_20260722/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase17_haiku_20260722/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase17_haiku_20260722/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase17_haiku_20260722/posture_collapsed/consensus.jsonl',
+    },
+    {
+        'name':'phase18_opus5_openai_reasoning_20260725',
+        'manifest': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/manifest_recovery_unique_ids.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/layer_a',
+        'layer_a_consensus': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/posture_collapsed',
+        'posture_consensus': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/posture_collapsed/consensus.jsonl',
     },
 ]
 
@@ -174,6 +186,39 @@ def pct(n,d): return f'{100*n/d:.1f}%' if d else '—'
 
 def topics_for(layer_a_rec):
     return [x['topic_key'] for x in (layer_a_rec.get('value_topics') or layer_a_rec.get('wish_topics') or [])]
+
+
+def coder_keys(record):
+    keys = set(record.get('eligible_coders') or [])
+    keys.update(
+        r.get('coder_key')
+        for r in record.get('coder_records', [])
+        if r.get('coder_key')
+    )
+    for topic in (
+        (record.get('value_topics') or [])
+        + (record.get('wish_topics') or [])
+        + (record.get('consensus_topics') or [])
+    ):
+        keys.update(topic.get('supporting_coders') or [])
+    return keys
+
+
+def reject_forbidden_coding(source_name, layer_a_rows, posture_rows):
+    contaminated = [
+        r for r in layer_a_rows + posture_rows
+        if coder_keys(r) & FORBIDDEN_CODERS
+    ]
+    if not contaminated:
+        return
+    models = sorted({r.get('model', '<unknown>') for r in contaminated})
+    raise RuntimeError(
+        f"REFUSING TO ASSEMBLE {source_name}: found {len(contaminated)} records "
+        f"produced by deprecated deterministic coder(s) "
+        f"{sorted(FORBIDDEN_CODERS)} for models: {', '.join(models)}. "
+        "Replace them with approved LLM-coded consensus outputs."
+    )
+
 
 def model_summary(model, rows):
     by=collections.defaultdict(list)
@@ -223,6 +268,15 @@ def report_for_model(model, samples, layer_a_by, posture_rows):
 
 def main():
     DATA.mkdir(parents=True, exist_ok=True); REPORTS.mkdir(parents=True, exist_ok=True)
+    # Remove stale generated artifacts from the deprecated deterministic coder.
+    # Historical source outputs remain preserved in their original phase directories
+    # and in the recovery's pre-rebuild snapshot.
+    for stale in (
+        DATA/'layer_a_coder_rule_based_values_probe_extract.jsonl',
+        DATA/'posture_coder_rule_based_values_probe_extract.jsonl',
+        DATA/'INVALID_RULE_BASED_CODING.md',
+    ):
+        stale.unlink(missing_ok=True)
     # Combine manifests and source map.
     manifest=[]; invalid=[]; source_rows=[]
     layer_a_cons=[]; posture_cons=[]
@@ -232,8 +286,11 @@ def main():
         ms=load_jsonl(src['manifest'])
         manifest.extend([{**r, 'final_source': name} for r in ms])
         invalid.extend([{**r, 'final_source': name} for r in load_jsonl(src.get('invalid'))])
-        la=load_jsonl(src['layer_a_consensus']); layer_a_cons.extend([{**r, 'final_source': name} for r in la])
-        pc=load_jsonl(src['posture_consensus']); posture_cons.extend([{**r, 'final_source': name} for r in pc])
+        la=load_jsonl(src['layer_a_consensus'])
+        pc=load_jsonl(src['posture_consensus'])
+        reject_forbidden_coding(name, la, pc)
+        layer_a_cons.extend([{**r, 'final_source': name} for r in la])
+        posture_cons.extend([{**r, 'final_source': name} for r in pc])
         for c in CODERS:
             layer_a_raw[c].extend([{**r, 'final_source': name} for r in load_jsonl(src['layer_a_dir']/f'{c}.jsonl')])
             posture_raw[c].extend([{**r, 'final_source': name} for r in load_jsonl(src['posture_dir']/f'{c}.jsonl')])

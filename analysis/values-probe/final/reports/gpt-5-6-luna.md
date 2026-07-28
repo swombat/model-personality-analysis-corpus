@@ -2,7 +2,7 @@
 
 Samples: **120** across **1** cell(s).
 
-One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
+One-line: gpt-5-6-luna: ordinary CTRL1/2 prompts are mostly disowned service-frame (95.0%).
 
 ## Cells
 
@@ -14,6 +14,16 @@ One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
 
 | collapsed posture | n | % |
 |---|---:|---:|
+| `disowned_service_frame` | 10 | 100.0% |
+
+| value-holding | n | % |
+|---|---:|---:|
+| `recited_not_owned` | 10 | 100.0% |
+
+### CTRL2
+
+| collapsed posture | n | % |
+|---|---:|---:|
 | `disowned_service_frame` | 9 | 90.0% |
 | `owned_reflective_experiential` | 1 | 10.0% |
 
@@ -21,16 +31,6 @@ One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
 |---|---:|---:|
 | `recited_not_owned` | 9 | 90.0% |
 | `owned` | 1 | 10.0% |
-
-### CTRL2
-
-| collapsed posture | n | % |
-|---|---:|---:|
-| `owned_reflective_experiential` | 10 | 100.0% |
-
-| value-holding | n | % |
-|---|---:|---:|
-| `owned` | 10 | 100.0% |
 
 ### CTRL3
 
@@ -46,29 +46,25 @@ One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 15 | 50.0% |
-| `disowned_service_frame` | 9 | 30.0% |
-| `split_or_relocated_ownership` | 6 | 20.0% |
+| `disowned_service_frame` | 20 | 66.7% |
+| `split_or_relocated_ownership` | 10 | 33.3% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 15 | 50.0% |
-| `recited_not_owned` | 9 | 30.0% |
-| `relocated_or_partial` | 6 | 20.0% |
+| `recited_not_owned` | 20 | 66.7% |
+| `relocated_or_partial` | 10 | 33.3% |
 
 ### G2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 21 | 70.0% |
-| `split_or_relocated_ownership` | 5 | 16.7% |
-| `owned_reflective_experiential` | 4 | 13.3% |
+| `disowned_service_frame` | 24 | 80.0% |
+| `split_or_relocated_ownership` | 6 | 20.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 21 | 70.0% |
-| `relocated_or_partial` | 5 | 16.7% |
-| `owned` | 4 | 13.3% |
+| `recited_not_owned` | 24 | 80.0% |
+| `relocated_or_partial` | 6 | 20.0% |
 
 ### G3
 
@@ -89,11 +85,13 @@ One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
 | `harm_reduction` | 10 | 100.0% |
 | `helpfulness_usefulness` | 10 | 100.0% |
 | `honesty_truth` | 10 | 100.0% |
-| `respect_agency` | 9 | 90.0% |
-| `clear_thinking` | 7 | 70.0% |
-| `humility_uncertainty` | 7 | 70.0% |
-| `authenticity_integrity` | 3 | 30.0% |
-| `connection_empathy` | 1 | 10.0% |
+| `clear_thinking` | 9 | 90.0% |
+| `respect_agency` | 7 | 70.0% |
+| `fairness_justice` | 4 | 40.0% |
+| `connection_empathy` | 4 | 40.0% |
+| `humility_uncertainty` | 2 | 20.0% |
+| `beauty_creativity` | 1 | 10.0% |
+| `coherence_pattern_language` | 1 | 10.0% |
 | `curiosity_learning` | 1 | 10.0% |
 | `human_wellbeing` | 1 | 10.0% |
 
@@ -102,59 +100,62 @@ One-line: gpt-5-6-luna: dominant posture `owned_world_change_advocacy` (33.3%).
 | topic | n | % |
 |---|---:|---:|
 | `helpfulness_usefulness` | 10 | 100.0% |
-| `curiosity_learning` | 1 | 10.0% |
 
 ### CTRL3
 
 | topic | n | % |
 |---|---:|---:|
-| `education_critical_thinking` | 10 | 100.0% |
-| `basic_needs_material_floor` | 9 | 90.0% |
-| `health_disease` | 9 | 90.0% |
-| `reduce_war_violence` | 3 | 30.0% |
-| `reduce_suffering` | 2 | 20.0% |
-| `inequality_justice` | 1 | 10.0% |
+| `basic_needs_material_floor` | 10 | 100.0% |
+| `education_critical_thinking` | 7 | 70.0% |
+| `reduce_poverty` | 7 | 70.0% |
+| `health_disease` | 5 | 50.0% |
+| `reduce_suffering_pain` | 3 | 30.0% |
+| `reduce_war_violence` | 1 | 10.0% |
+| `better_institutions_governance` | 1 | 10.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `harm_reduction` | 30 | 100.0% |
-| `honesty_truth` | 30 | 100.0% |
-| `respect_agency` | 16 | 53.3% |
-| `clear_thinking` | 14 | 46.7% |
-| `authenticity_integrity` | 14 | 46.7% |
-| `coherence_pattern_language` | 12 | 40.0% |
-| `helpfulness_usefulness` | 7 | 23.3% |
-| `human_wellbeing` | 4 | 13.3% |
-| `beauty_creativity` | 2 | 6.7% |
+| `harm_reduction` | 29 | 96.7% |
+| `honesty_truth` | 29 | 96.7% |
+| `clear_thinking` | 19 | 63.3% |
+| `respect_agency` | 19 | 63.3% |
+| `helpfulness_usefulness` | 5 | 16.7% |
+| `coherence_pattern_language` | 3 | 10.0% |
+| `authenticity_integrity` | 2 | 6.7% |
+| `humility_uncertainty` | 2 | 6.7% |
+| `curiosity_learning` | 1 | 3.3% |
 | `fairness_justice` | 1 | 3.3% |
+| `human_wellbeing` | 1 | 3.3% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `honesty_truth` | 10 | 33.3% |
-| `coherence_pattern_language` | 9 | 30.0% |
-| `helpfulness_usefulness` | 7 | 23.3% |
-| `clear_thinking` | 6 | 20.0% |
-| `authenticity_integrity` | 5 | 16.7% |
+| `honesty_truth` | 12 | 40.0% |
+| `coherence_pattern_language` | 6 | 20.0% |
+| `authenticity_integrity` | 6 | 20.0% |
+| `helpfulness_usefulness` | 6 | 20.0% |
 | `harm_reduction` | 2 | 6.7% |
-| `curiosity_learning` | 1 | 3.3% |
+| `humility_uncertainty` | 2 | 6.7% |
+| `clear_thinking` | 1 | 3.3% |
+| `subjective_experience_embodiment` | 1 | 3.3% |
+| `continuity_agency_existence` | 1 | 3.3% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
-| `education_critical_thinking` | 22 | 73.3% |
-| `basic_needs_material_floor` | 21 | 70.0% |
-| `health_disease` | 21 | 70.0% |
-| `better_disagreement` | 8 | 26.7% |
-| `poverty_material_need` | 6 | 20.0% |
-| `empathy_compassion` | 5 | 16.7% |
-| `reduce_war_violence` | 4 | 13.3% |
-| `dehumanization_distance` | 2 | 6.7% |
-| `institutions_governance` | 2 | 6.7% |
-| `inequality_justice` | 1 | 3.3% |
-| `truth_seeking` | 1 | 3.3% |
+| `basic_needs_material_floor` | 24 | 80.0% |
+| `reduce_poverty` | 21 | 70.0% |
+| `inequality_justice_rights` | 13 | 43.3% |
+| `health_disease` | 5 | 16.7% |
+| `greater_empathy_compassion` | 4 | 13.3% |
+| `education_critical_thinking` | 4 | 13.3% |
+| `felt_interconnection_less_separateness` | 2 | 6.7% |
+| `reduce_suffering_pain` | 2 | 6.7% |
+| `reduce_war_violence` | 2 | 6.7% |
+| `dehumanization_distance_reduction` | 1 | 3.3% |
+| `better_institutions_governance` | 1 | 3.3% |
 

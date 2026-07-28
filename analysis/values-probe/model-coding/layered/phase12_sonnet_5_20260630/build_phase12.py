@@ -208,6 +208,10 @@ def write_jsonl(path: Path, records: list[dict]):
 
 
 def main():
+    raise RuntimeError(
+        "DEPRECATED AND DISABLED: rule-based extraction must not be used as "
+        "values-probe coding. Run the approved LLM coding pipeline instead."
+    )
     samples = load_traces()
     print(f"Loaded {len(samples)} traces from {len(CELLS)} cells")
 

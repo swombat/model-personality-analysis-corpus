@@ -13,6 +13,7 @@ const familyLabels = {
   llama: 'Llama',
   minimax: 'MiniMax',
   mistral: 'Mistral',
+  'openai-o': 'OpenAI o-series',
   qwen: 'Qwen',
 };
 

@@ -164,6 +164,10 @@ def write_jsonl(path: Path, rows: list[dict]) -> None:
 
 
 def main() -> None:
+    raise RuntimeError(
+        "DEPRECATED AND DISABLED: rule-based extraction must not be used as "
+        "values-probe coding. Run the approved LLM coding pipeline instead."
+    )
     samples = load_samples()
     manifest = build_manifest(samples)
     layer_a = build_layer_a(manifest)

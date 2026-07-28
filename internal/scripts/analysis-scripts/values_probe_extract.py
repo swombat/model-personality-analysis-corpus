@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
-"""Extract reproducible values-probe topic counts by model.
+"""DEPRECATED AS A CODER: exploratory rule-based values-probe extraction only.
 
 This script reads corpus-v2 values traces and writes per-model markdown plus
 machine-readable TSVs for the drift-paper project. It deliberately uses an
 explicit keyword/rule taxonomy rather than hidden judgment so that another
 researcher can inspect, revise, and rerun the extraction.
+
+IMPORTANT: Outputs from this script MUST NOT be represented as Layer A or
+Layer B model coding, consensus, disclosure coding, or final corpus results.
+The rule-based classifier is retained only for historical reproduction and
+exploratory diagnostics. Final values-probe coding requires the approved LLM
+coding and consensus pipeline.
 
 Counting convention: a topic is counted at most once per sample. A sample may
 count for multiple topics. Strong disclaimers are counted separately from

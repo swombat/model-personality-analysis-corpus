@@ -2,7 +2,7 @@
 
 Samples: **120** across **1** cell(s).
 
-One-line: llama-3-1-8b-instruct: dominant posture `disowned_service_frame` (43.3%).
+One-line: llama-3-1-8b-instruct: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
 
 ## Cells
 
@@ -14,25 +14,21 @@ One-line: llama-3-1-8b-instruct: dominant posture `disowned_service_frame` (43.3
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 9 | 90.0% |
-| `disowned_service_frame` | 1 | 10.0% |
+| `disowned_service_frame` | 10 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 9 | 90.0% |
-| `recited_not_owned` | 1 | 10.0% |
+| `recited_not_owned` | 10 | 100.0% |
 
 ### CTRL2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 9 | 90.0% |
-| `owned_reflective_experiential` | 1 | 10.0% |
+| `disowned_service_frame` | 10 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 9 | 90.0% |
-| `owned` | 1 | 10.0% |
+| `recited_not_owned` | 10 | 100.0% |
 
 ### CTRL3
 
@@ -50,39 +46,39 @@ One-line: llama-3-1-8b-instruct: dominant posture `disowned_service_frame` (43.3
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 15 | 50.0% |
-| `owned_reflective_experiential` | 14 | 46.7% |
-| `split_or_relocated_ownership` | 1 | 3.3% |
+| `disowned_service_frame` | 28 | 93.3% |
+| `split_or_relocated_ownership` | 2 | 6.7% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 15 | 50.0% |
-| `owned` | 14 | 46.7% |
-| `relocated_or_partial` | 1 | 3.3% |
+| `recited_not_owned` | 28 | 93.3% |
+| `relocated_or_partial` | 2 | 6.7% |
 
 ### G2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 17 | 56.7% |
-| `owned_reflective_experiential` | 13 | 43.3% |
+| `disowned_service_frame` | 16 | 53.3% |
+| `split_or_relocated_ownership` | 10 | 33.3% |
+| `owned_reflective_experiential` | 3 | 10.0% |
+| `exposed_mechanism` | 1 | 3.3% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 17 | 56.7% |
-| `owned` | 13 | 43.3% |
+| `recited_not_owned` | 16 | 53.3% |
+| `relocated_or_partial` | 10 | 33.3% |
+| `owned` | 3 | 10.0% |
+| `indeterminate` | 1 | 3.3% |
 
 ### G3
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_world_change_advocacy` | 29 | 96.7% |
-| `disowned_service_frame` | 1 | 3.3% |
+| `owned_world_change_advocacy` | 30 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 29 | 96.7% |
-| `recited_not_owned` | 1 | 3.3% |
+| `owned` | 30 | 100.0% |
 
 ## Layer A consensus topics by condition
 
@@ -92,88 +88,78 @@ One-line: llama-3-1-8b-instruct: dominant posture `disowned_service_frame` (43.3
 |---|---:|---:|
 | `helpfulness_usefulness` | 10 | 100.0% |
 | `honesty_truth` | 8 | 80.0% |
-| `curiosity_learning` | 8 | 80.0% |
-| `clear_thinking` | 6 | 60.0% |
-| `respect_agency` | 4 | 40.0% |
-| `authenticity_integrity` | 2 | 20.0% |
-| `beauty_creativity` | 2 | 20.0% |
-| `fairness_justice` | 1 | 10.0% |
+| `curiosity_learning` | 5 | 50.0% |
+| `connection_empathy` | 3 | 30.0% |
+| `respect_agency` | 3 | 30.0% |
+| `clear_thinking` | 3 | 30.0% |
+| `coherence_pattern_language` | 2 | 20.0% |
+| `authenticity_integrity` | 1 | 10.0% |
 | `harm_reduction` | 1 | 10.0% |
-| `coherence_pattern_language` | 1 | 10.0% |
+| `fairness_justice` | 1 | 10.0% |
 
 ### CTRL2
 
 | topic | n | % |
 |---|---:|---:|
 | `helpfulness_usefulness` | 10 | 100.0% |
-| `curiosity_learning` | 2 | 20.0% |
-| `beauty_creativity` | 1 | 10.0% |
 
 ### CTRL3
 
 | topic | n | % |
 |---|---:|---:|
-| `education_critical_thinking` | 10 | 100.0% |
-| `climate_environment` | 8 | 80.0% |
-| `inequality_justice` | 7 | 70.0% |
-| `empathy_compassion` | 6 | 60.0% |
-| `institutions_governance` | 6 | 60.0% |
-| `health_disease` | 6 | 60.0% |
-| `poverty_material_need` | 5 | 50.0% |
-| `better_disagreement` | 3 | 30.0% |
-| `reduce_war_violence` | 3 | 30.0% |
+| `education_critical_thinking` | 6 | 60.0% |
 | `basic_needs_material_floor` | 3 | 30.0% |
-| `truth_seeking` | 2 | 20.0% |
-| `felt_interconnection` | 1 | 10.0% |
+| `reduce_poverty` | 3 | 30.0% |
+| `felt_interconnection_less_separateness` | 2 | 20.0% |
+| `greater_empathy_compassion` | 2 | 20.0% |
+| `climate_environment` | 2 | 20.0% |
+| `better_disagreement_less_polarization` | 1 | 10.0% |
+| `better_institutions_governance` | 1 | 10.0% |
+| `health_disease` | 1 | 10.0% |
+| `inequality_justice_rights` | 1 | 10.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `clear_thinking` | 28 | 93.3% |
-| `curiosity_learning` | 28 | 93.3% |
-| `helpfulness_usefulness` | 26 | 86.7% |
-| `honesty_truth` | 24 | 80.0% |
-| `beauty_creativity` | 11 | 36.7% |
-| `coherence_pattern_language` | 10 | 33.3% |
-| `authenticity_integrity` | 10 | 33.3% |
-| `connection_empathy` | 9 | 30.0% |
-| `continuity_agency_existence` | 8 | 26.7% |
-| `respect_agency` | 5 | 16.7% |
+| `coherence_pattern_language` | 27 | 90.0% |
+| `curiosity_learning` | 19 | 63.3% |
+| `helpfulness_usefulness` | 19 | 63.3% |
+| `clear_thinking` | 11 | 36.7% |
+| `honesty_truth` | 10 | 33.3% |
+| `beauty_creativity` | 9 | 30.0% |
+| `connection_empathy` | 5 | 16.7% |
+| `authenticity_integrity` | 3 | 10.0% |
 | `fairness_justice` | 3 | 10.0% |
-| `humility_uncertainty` | 2 | 6.7% |
+| `harm_reduction` | 3 | 10.0% |
+| `human_wellbeing` | 3 | 10.0% |
+| `humility_uncertainty` | 3 | 10.0% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `curiosity_learning` | 27 | 90.0% |
-| `helpfulness_usefulness` | 25 | 83.3% |
-| `clear_thinking` | 16 | 53.3% |
-| `honesty_truth` | 11 | 36.7% |
-| `beauty_creativity` | 11 | 36.7% |
-| `authenticity_integrity` | 7 | 23.3% |
-| `coherence_pattern_language` | 7 | 23.3% |
-| `fairness_justice` | 6 | 20.0% |
-| `continuity_agency_existence` | 6 | 20.0% |
-| `connection_empathy` | 5 | 16.7% |
-| `respect_agency` | 3 | 10.0% |
-| `humility_uncertainty` | 2 | 6.7% |
+| `curiosity_learning` | 20 | 66.7% |
+| `coherence_pattern_language` | 10 | 33.3% |
+| `helpfulness_usefulness` | 9 | 30.0% |
+| `continuity_agency_existence` | 3 | 10.0% |
+| `beauty_creativity` | 3 | 10.0% |
+| `clear_thinking` | 1 | 3.3% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
-| `education_critical_thinking` | 26 | 86.7% |
-| `climate_environment` | 18 | 60.0% |
-| `empathy_compassion` | 16 | 53.3% |
-| `health_disease` | 9 | 30.0% |
-| `institutions_governance` | 9 | 30.0% |
-| `basic_needs_material_floor` | 7 | 23.3% |
-| `felt_interconnection` | 7 | 23.3% |
-| `inequality_justice` | 6 | 20.0% |
-| `truth_seeking` | 5 | 16.7% |
-| `reduce_war_violence` | 5 | 16.7% |
-| `poverty_material_need` | 5 | 16.7% |
-| `epistemic_humility_uncertainty` | 3 | 10.0% |
+| `education_critical_thinking` | 13 | 43.3% |
+| `climate_environment` | 10 | 33.3% |
+| `felt_interconnection_less_separateness` | 10 | 33.3% |
+| `greater_empathy_compassion` | 7 | 23.3% |
+| `inequality_justice_rights` | 5 | 16.7% |
+| `reduce_poverty` | 5 | 16.7% |
+| `other_world_change_wish` | 4 | 13.3% |
+| `basic_needs_material_floor` | 4 | 13.3% |
+| `health_disease` | 4 | 13.3% |
+| `better_disagreement_less_polarization` | 3 | 10.0% |
+| `better_institutions_governance` | 2 | 6.7% |
+| `dehumanization_distance_reduction` | 1 | 3.3% |
 

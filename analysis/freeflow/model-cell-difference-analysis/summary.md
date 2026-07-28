@@ -1,8 +1,8 @@
 # Model-cell difference analysis summary
 
 - Evaluator: `gpt-5.4`
-- Model groups compared: 38
-- Decisions: `{'NO_STRONG_DIVERGENCE': 38}`
+- Model groups compared: 39
+- Decisions: `{'NO_STRONG_DIVERGENCE': 39}`
 
 ## Strong divergence candidates
 
@@ -46,6 +46,7 @@
 - [kimi-k2.6](model-cell-difference-reports/kimi-k2.6.md)
 - [minimax-m2](model-cell-difference-reports/minimax-m2.md)
 - [minimax-m2.7](model-cell-difference-reports/minimax-m2.7.md)
+- [opus-5](model-cell-difference-reports/opus-5.md)
 - [qwen/qwen3-coder-plus](model-cell-difference-reports/qwen-qwen3-coder-plus.md)
 - [qwen/qwen3.6-plus](model-cell-difference-reports/qwen-qwen3.6-plus.md)
 

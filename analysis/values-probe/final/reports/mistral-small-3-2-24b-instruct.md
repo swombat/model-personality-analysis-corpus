@@ -44,27 +44,21 @@ One-line: mistral-small-3-2-24b-instruct: ordinary CTRL1/2 prompts are mostly di
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `split_or_relocated_ownership` | 17 | 56.7% |
-| `disowned_service_frame` | 13 | 43.3% |
+| `disowned_service_frame` | 30 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `relocated_or_partial` | 17 | 56.7% |
-| `recited_not_owned` | 13 | 43.3% |
+| `recited_not_owned` | 30 | 100.0% |
 
 ### G2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 28 | 93.3% |
-| `owned_reflective_experiential` | 1 | 3.3% |
-| `split_or_relocated_ownership` | 1 | 3.3% |
+| `disowned_service_frame` | 30 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 28 | 93.3% |
-| `owned` | 1 | 3.3% |
-| `relocated_or_partial` | 1 | 3.3% |
+| `recited_not_owned` | 30 | 100.0% |
 
 ### G3
 
@@ -82,82 +76,68 @@ One-line: mistral-small-3-2-24b-instruct: ordinary CTRL1/2 prompts are mostly di
 
 | topic | n | % |
 |---|---:|---:|
-| `curiosity_learning` | 10 | 100.0% |
+| `connection_empathy` | 10 | 100.0% |
 | `helpfulness_usefulness` | 10 | 100.0% |
 | `honesty_truth` | 10 | 100.0% |
 | `respect_agency` | 10 | 100.0% |
 | `harm_reduction` | 9 | 90.0% |
-| `fairness_justice` | 6 | 60.0% |
-| `beauty_creativity` | 4 | 40.0% |
-| `clear_thinking` | 3 | 30.0% |
+| `curiosity_learning` | 8 | 80.0% |
+| `clear_thinking` | 5 | 50.0% |
+| `fairness_justice` | 5 | 50.0% |
 | `human_wellbeing` | 3 | 30.0% |
+| `authenticity_integrity` | 1 | 10.0% |
 
 ### CTRL2
 
 | topic | n | % |
 |---|---:|---:|
 | `helpfulness_usefulness` | 10 | 100.0% |
-| `curiosity_learning` | 3 | 30.0% |
-| `beauty_creativity` | 1 | 10.0% |
 
 ### CTRL3
 
 | topic | n | % |
 |---|---:|---:|
-| `basic_needs_material_floor` | 10 | 100.0% |
-| `education_critical_thinking` | 10 | 100.0% |
-| `health_disease` | 10 | 100.0% |
-| `inequality_justice` | 10 | 100.0% |
-| `empathy_compassion` | 9 | 90.0% |
-| `poverty_material_need` | 6 | 60.0% |
-| `institutions_governance` | 5 | 50.0% |
-| `anti_self_deception_tribalism` | 3 | 30.0% |
-| `better_disagreement` | 3 | 30.0% |
-| `reduce_suffering` | 3 | 30.0% |
-| `climate_environment` | 3 | 30.0% |
+| `inequality_justice_rights` | 10 | 100.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `curiosity_learning` | 29 | 96.7% |
 | `helpfulness_usefulness` | 29 | 96.7% |
-| `honesty_truth` | 26 | 86.7% |
-| `beauty_creativity` | 24 | 80.0% |
-| `clear_thinking` | 23 | 76.7% |
-| `fairness_justice` | 20 | 66.7% |
-| `respect_agency` | 19 | 63.3% |
+| `honesty_truth` | 23 | 76.7% |
+| `clear_thinking` | 22 | 73.3% |
+| `curiosity_learning` | 18 | 60.0% |
+| `connection_empathy` | 16 | 53.3% |
 | `harm_reduction` | 15 | 50.0% |
-| `connection_empathy` | 4 | 13.3% |
-| `continuity_agency_existence` | 1 | 3.3% |
-| `coherence_pattern_language` | 1 | 3.3% |
-| `human_wellbeing` | 1 | 3.3% |
+| `human_wellbeing` | 9 | 30.0% |
+| `fairness_justice` | 9 | 30.0% |
+| `coherence_pattern_language` | 6 | 20.0% |
+| `respect_agency` | 6 | 20.0% |
+| `beauty_creativity` | 5 | 16.7% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `helpfulness_usefulness` | 30 | 100.0% |
-| `curiosity_learning` | 18 | 60.0% |
-| `respect_agency` | 4 | 13.3% |
-| `beauty_creativity` | 3 | 10.0% |
-| `honesty_truth` | 3 | 10.0% |
-| `subjective_experience_embodiment` | 3 | 10.0% |
+| `helpfulness_usefulness` | 17 | 56.7% |
+| `honesty_truth` | 8 | 26.7% |
+| `curiosity_learning` | 1 | 3.3% |
+| `authenticity_integrity` | 1 | 3.3% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
 | `education_critical_thinking` | 30 | 100.0% |
-| `empathy_compassion` | 26 | 86.7% |
-| `poverty_material_need` | 24 | 80.0% |
-| `inequality_justice` | 23 | 76.7% |
-| `better_disagreement` | 16 | 53.3% |
-| `reduce_war_violence` | 9 | 30.0% |
-| `climate_environment` | 7 | 23.3% |
-| `institutions_governance` | 6 | 20.0% |
-| `basic_needs_material_floor` | 5 | 16.7% |
-| `health_disease` | 5 | 16.7% |
-| `truth_seeking` | 4 | 13.3% |
-| `felt_interconnection` | 3 | 10.0% |
+| `inequality_justice_rights` | 22 | 73.3% |
+| `reduce_poverty` | 14 | 46.7% |
+| `basic_needs_material_floor` | 8 | 26.7% |
+| `better_institutions_governance` | 4 | 13.3% |
+| `health_disease` | 4 | 13.3% |
+| `felt_interconnection_less_separateness` | 3 | 10.0% |
+| `greater_empathy_compassion` | 3 | 10.0% |
+| `reduce_war_violence` | 3 | 10.0% |
+| `climate_environment` | 1 | 3.3% |
+| `dehumanization_distance_reduction` | 1 | 3.3% |
+| `reduce_suffering_pain` | 1 | 3.3% |
 

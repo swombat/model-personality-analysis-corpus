@@ -880,6 +880,46 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "o1",
+    "safe": "o1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/o1.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "o3",
+    "safe": "o3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/o3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "o3-mini",
+    "safe": "o3-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/o3-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "o4-mini",
+    "safe": "o4-mini",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/o4-mini.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "opus-5",
+    "safe": "opus-5",
+    "variants": 2,
+    "samples": 250,
+    "card": "analysis/freeflow/personality-model-cards/cards/opus-5.md",
+    "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
     "model": "qwen/qwen3-coder-flash",
     "safe": "qwen-qwen3-coder-flash",
     "variants": 1,

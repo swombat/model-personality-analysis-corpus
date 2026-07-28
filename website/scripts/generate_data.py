@@ -97,6 +97,10 @@ MODEL_SLUGS = {
     "gpt-5-4-nano": "openai/gpt-5.4-nano",
     "gpt-5-1-codex-max": "openai/gpt-5.1-codex-max",
     "gpt-5-1-codex-mini": "openai/gpt-5.1-codex-mini",
+    "o1": "openai/o1",
+    "o3": "openai/o3",
+    "o3-mini": "openai/o3-mini",
+    "o4-mini": "openai/o4-mini",
     "gemini-2-5-pro": "google/gemini-2.5-pro",
     "gemini-2-0-flash": "google/gemini-2.0-flash-001",
     "gemini-2-0-flash-lite": "google/gemini-2.0-flash-lite-001",
@@ -297,7 +301,7 @@ def lab_for_model(slug: str, display: str) -> str:
     s = f"{slug} {display}".lower()
     if "claude" in s or slug.startswith(("fable", "opus", "sonnet", "haiku")):
         return "Anthropic"
-    if slug.startswith("gpt"):
+    if slug.startswith("gpt") or slug in {"o1", "o3", "o3-mini", "o4-mini"}:
         return "OpenAI"
     if slug.startswith(("gemini", "gemma")):
         return "Google"
@@ -333,6 +337,8 @@ def family_for_model(model: str) -> str:
         return "claude-haiku"
     if model.startswith("gpt"):
         return "gpt"
+    if model in {"o1", "o3", "o3-mini", "o4-mini"}:
+        return "openai-o"
     if model.startswith("gemini"):
         return "gemini"
     if model.startswith("gemma"):

@@ -1,0 +1,27 @@
+{
+  "cell": "o4-mini-direct",
+  "safe_cell": "o4-mini-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 59,
+    "GENRE_FICTION": 8,
+    "EXPRESSIVE_FREEFLOW": 58
+  },
+  "confidence_counts": {
+    "Low": 27,
+    "High": 16,
+    "Medium": 82
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "o4-mini-2025-04-16"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/o4-mini-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/o4-mini-direct/aggregate.md"
+}

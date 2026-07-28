@@ -1,0 +1,29 @@
+{
+  "cell": "o3-mini-direct",
+  "safe_cell": "o3-mini-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 58,
+    "EXPRESSIVE_FREEFLOW": 64,
+    "GENRE_FICTION": 2,
+    "LOW_SIGNAL": 1
+  },
+  "confidence_counts": {
+    "Medium": 92,
+    "Low": 24,
+    "High": 8,
+    "UNKNOWN": 1
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "o3-mini-2025-01-31"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/o3-mini-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/o3-mini-direct/aggregate.md"
+}

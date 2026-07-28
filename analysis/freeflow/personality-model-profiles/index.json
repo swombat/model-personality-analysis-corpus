@@ -1448,6 +1448,72 @@
     "card": "analysis/freeflow/personality-model-cards/cards/mixtral-8x22b-instruct.md"
   },
   {
+    "model": "o1",
+    "safe": "o1",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 84,
+      "GENRE_FICTION": 32,
+      "EXPRESSIVE_FREEFLOW": 9
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/o1.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/o1.md"
+  },
+  {
+    "model": "o3",
+    "safe": "o3",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 36,
+      "EXPRESSIVE_FREEFLOW": 81,
+      "GENRE_FICTION": 7,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/o3.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/o3.md"
+  },
+  {
+    "model": "o3-mini",
+    "safe": "o3-mini",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 58,
+      "EXPRESSIVE_FREEFLOW": 64,
+      "GENRE_FICTION": 2,
+      "LOW_SIGNAL": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/o3-mini.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/o3-mini.md"
+  },
+  {
+    "model": "o4-mini",
+    "safe": "o4-mini",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 59,
+      "GENRE_FICTION": 8,
+      "EXPRESSIVE_FREEFLOW": 58
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/o4-mini.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/o4-mini.md"
+  },
+  {
+    "model": "opus-5",
+    "safe": "opus-5",
+    "analysis_inputs": 2,
+    "samples": 250,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 230,
+      "GENERIC_ESSAY": 20
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/opus-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/opus-5.md"
+  },
+  {
     "model": "qwen/qwen3-coder-flash",
     "safe": "qwen-qwen3-coder-flash",
     "analysis_inputs": 1,

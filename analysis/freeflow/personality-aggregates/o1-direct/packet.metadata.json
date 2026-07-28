@@ -1,0 +1,27 @@
+{
+  "cell": "o1-direct",
+  "safe_cell": "o1-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 84,
+    "GENRE_FICTION": 32,
+    "EXPRESSIVE_FREEFLOW": 9
+  },
+  "confidence_counts": {
+    "Low": 56,
+    "Medium": 65,
+    "High": 4
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "o1-2024-12-17"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/o1-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/o1-direct/aggregate.md"
+}

@@ -1,0 +1,11 @@
+{
+  "phase": "layer_a_complete",
+  "records": 18000,
+  "cost_usd": 3.04687,
+  "cost_by_coder": {
+    "glm-4-7": 1.054476,
+    "kimi-k2-6": 1.479347,
+    "qwen3-6-35b-a3b": 0.513047
+  },
+  "updated_at": "2026-07-28T11:17:03.825661+00:00"
+}
