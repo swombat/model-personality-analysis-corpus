@@ -106,8 +106,12 @@ const valuesSummaryHtml = marked.parse(valuesSummaryBodyMarkdown);
 const valuesDetailsHtml = marked.parse(valuesDetailsMarkdown);
 const sampleKindCounts = model.sample_kind_counts || {};
 
-function priceLabel(value) {
-  if (value === null || value === undefined) return 'unknown';
+function priceLabel(value, api = {}) {
+  if (value === null || value === undefined) {
+    if (api.availability === 'unavailable') return 'unavailable';
+    if (api.availability === 'subscription') return 'subscription quota';
+    return 'unknown';
+  }
   if (value === 0) return 'free';
   return `$${value.toFixed(value < 0.01 ? 3 : 2)}/M`;
 }
@@ -218,9 +222,12 @@ function speedLabel(value) {
         <h2>API pricing & OpenRouter</h2>
         <div class="table-list">
           <div><b>Matched model</b><br /><span>{model.openrouter?.id || 'No match'}</span></div>
-          <div><b>Input</b><br /><span>{priceLabel(model.openrouter?.prompt_per_million)}</span></div>
-          <div><b>Output</b><br /><span>{priceLabel(model.openrouter?.completion_per_million)}</span></div>
+          <div><b>Input</b><br /><span>{priceLabel(model.openrouter?.prompt_per_million, model.openrouter)}</span></div>
+          <div><b>Output</b><br /><span>{priceLabel(model.openrouter?.completion_per_million, model.openrouter)}</span></div>
           <div><b>Pricing source</b><br /><span>{model.openrouter?.pricing_source || 'OpenRouter'}</span></div>
+          {model.openrouter?.availability_label && (
+            <div><b>API access</b><br /><span>{model.openrouter.availability_label}</span></div>
+          )}
           <div>
             <b>Speed</b><br />
             <span class="speed-stack">

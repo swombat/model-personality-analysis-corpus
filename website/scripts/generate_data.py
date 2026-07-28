@@ -62,6 +62,7 @@ MODEL_SLUGS = {
     "opus-4-6": "anthropic/claude-opus-4.6",
     "opus-4-7": "anthropic/claude-opus-4.7",
     "opus-4-8": "anthropic/claude-opus-4.8",
+    "opus-5": "anthropic/claude-opus-5",
     "sonnet-4-0": "anthropic/claude-sonnet-4",
     "sonnet-4-5": "anthropic/claude-sonnet-4.5",
     "sonnet-4-6": "anthropic/claude-sonnet-4.6",
@@ -69,6 +70,7 @@ MODEL_SLUGS = {
     "haiku-3": "anthropic/claude-3-haiku",
     "haiku-4-5": "anthropic/claude-haiku-4.5",
     "gpt-4-1": "openai/gpt-4.1",
+    "gpt-4": "openai/gpt-4",
     "gpt-4-1-mini": "openai/gpt-4.1-mini",
     "gpt-4-1-nano": "openai/gpt-4.1-nano",
     "gpt-4-turbo": "openai/gpt-4-turbo",
@@ -116,6 +118,8 @@ MODEL_SLUGS = {
     "gemma-4-31b": "google/gemma-4-31b-it",
     "grok-3": "x-ai/grok-3",
     "grok-4": "x-ai/grok-4",
+    "grok-4-1-fast-non-reasoning": "x-ai/grok-4.1-fast",
+    "grok-4-1-fast-reasoning": "x-ai/grok-4.1-fast",
     "grok-4-2": "x-ai/grok-4.2",
     "grok-4-20": "x-ai/grok-4.20",
     "grok-4-3": "x-ai/grok-4.3",
@@ -186,7 +190,10 @@ MODEL_SLUGS = {
 # the GPT-5.6 family in July 2026). Prices are USD per million standard input
 # and output tokens; cached-input discounts are intentionally not displayed.
 FIRST_PARTY_API_PRICING = {
+    # Anthropic API pricing: https://platform.claude.com/docs/en/about-claude/pricing
+    "opus-5": (5.00, 25.00, "Anthropic API"),
     # OpenAI API pricing: https://openai.com/api/pricing/
+    "gpt-4": (30.00, 60.00, "OpenAI API (legacy)"),
     "gpt-3-5-turbo": (0.50, 1.50, "OpenAI API"),
     "gpt-4-1": (2.00, 8.00, "OpenAI API"),
     "gpt-4-1-mini": (0.40, 1.60, "OpenAI API"),
@@ -217,10 +224,32 @@ FIRST_PARTY_API_PRICING = {
     # xAI API pricing: https://docs.x.ai/developers/models
     "grok-3": (3.00, 15.00, "xAI API"),
     "grok-4": (3.00, 15.00, "xAI API"),
+    "grok-4-1-fast-non-reasoning": (0.20, 0.50, "xAI API"),
+    "grok-4-1-fast-reasoning": (0.20, 0.50, "xAI API"),
     "grok-4-20": (1.25, 2.50, "xAI API"),
+    "grok-4-20-0309-non-reasoning": (1.25, 2.50, "xAI API"),
+    "grok-4-20-0309-reasoning": (1.25, 2.50, "xAI API"),
     "grok-4-3": (1.25, 2.50, "xAI API"),
     "grok-4-5": (2.00, 6.00, "xAI API"),
     "grok-build-0-1": (1.00, 2.00, "xAI API"),
+    # Z.ai API pricing: https://docs.z.ai/guides/overview/pricing
+    "glm-5-2": (1.40, 4.40, "Z.ai API"),
+}
+
+# Non-token access states. These make the browser distinguish a retired API
+# from a model that is available through a subscription but has no public
+# per-token API tariff.
+API_ACCESS_OVERRIDES = {
+    "opus-3": {
+        "availability": "unavailable",
+        "availability_label": "Retired from the Anthropic API on January 5, 2026",
+        "pricing_source": "Anthropic model deprecations",
+    },
+    "kimi-coding": {
+        "availability": "subscription",
+        "availability_label": "Available through Kimi Code membership; no public per-token API price",
+        "pricing_source": "Kimi Code membership",
+    },
 }
 
 
@@ -1231,6 +1260,29 @@ def openrouter_for_model(model: str) -> dict | None:
     })
 
 
+def apply_api_metadata(model: str, result: dict | None) -> dict | None:
+    """Apply authoritative pricing/access metadata to cached OpenRouter data."""
+    if result is None and model not in FIRST_PARTY_API_PRICING and model not in API_ACCESS_OVERRIDES:
+        return None
+    merged = dict(result or {})
+    if model in MODEL_SLUGS:
+        merged.setdefault("id", MODEL_SLUGS[model])
+    pricing = FIRST_PARTY_API_PRICING.get(model)
+    if pricing:
+        prompt, completion, source = pricing
+        merged.update(
+            {
+                "prompt_per_million": prompt,
+                "completion_per_million": completion,
+                "pricing_source": source,
+            }
+        )
+    if model not in API_ACCESS_OVERRIDES and merged.get("availability") == "available":
+        merged.pop("availability")
+    merged.update(API_ACCESS_OVERRIDES.get(model, {}))
+    return merged
+
+
 def model_from_cell(cell: str, models: list[str], source: str) -> str | None:
     body = cell
     if body.startswith("freeflow_"):
@@ -1361,7 +1413,7 @@ def main() -> None:
         values_path = VALUES_DIR / f"{slug}.md"
         values_markdown = markdown_without_title(values_path.read_text(errors="ignore")) if values_path.exists() else ""
         old = old_by_slug.get(slug, {})
-        openrouter = old.get("openrouter") or openrouter_for_model(slug)
+        openrouter = apply_api_metadata(slug, old.get("openrouter") or openrouter_for_model(slug))
         if slug not in summaries:
             raise KeyError(f"Missing generated strapline for {slug}")
         model_summary = summaries[slug]

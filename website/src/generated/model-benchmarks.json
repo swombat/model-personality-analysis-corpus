@@ -32,6 +32,10 @@
     "aaii": 65,
     "url": "https://artificialanalysis.ai/models/claude-fable-5"
   },
+  "opus-5": {
+    "aaii": 61,
+    "url": "https://artificialanalysis.ai/models/claude-opus-5"
+  },
   "gemini-2-0-flash": {
     "aaii": 19,
     "url": "https://artificialanalysis.ai/models/gemini-2-0-flash"
