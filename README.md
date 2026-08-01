@@ -5,13 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-08-01:** v1.3.1 derived analysis corpus covering 128
-> freeflow personality-card models and 128 layered values-probe models.
-> This point release adds full freeflow personality coverage, straplines,
-> and banner images for DeepSeek V4 Flash, Inkling Small, and Qwen 3.7
-> Flash. Phase-19 layered values coding for the three new models is
-> recorded in the repository but not yet promoted into the final values
-> dataset. See [`RELEASE_NOTES_v1.3.1.md`](RELEASE_NOTES_v1.3.1.md);
+> **Status — 2026-08-01:** v1.3.2 derived analysis corpus covering 128
+> freeflow personality-card models. This patch completes the DeepSeek V4
+> Flash, Inkling Small, and Qwen 3.7 Flash cards by promoting their Phase-19
+> three-LLM values coding into the final dataset and browser, and adds
+> available intelligence-index metadata. See
+> [`RELEASE_NOTES_v1.3.2.md`](RELEASE_NOTES_v1.3.2.md);
 > for the v1.2.8–v1.2.15 values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
@@ -53,8 +52,8 @@ Current load-bearing contents:
 - **125 rich per-model freeflow personality profiles** preserving evidence from
   the per-cell aggregate layer.
 - **125 concise per-model personality cards** collapsed from those profiles.
-- **128 layered per-model values-probe summaries** plus aggregate tables,
-  covering 22,666 valid values samples across 189 cells.
+- **131 layered per-model values-probe summaries** plus aggregate tables,
+  covering 23,026 valid values samples across 192 cells.
 - Freeflow taxonomy tables, model-cell/provider difference reports, and method
   calibration/audit notes.
 - Website-bundled raw sample copies for browsing/audit under

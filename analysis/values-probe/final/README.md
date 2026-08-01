@@ -29,18 +29,17 @@ Historical pilots, failed protocols, human adjudication experiments, and explora
 
 ## Coverage
 
-See `data/QA.md` for the generated QA summary. For the current v1.2.13
+See `data/QA.md` for the generated QA summary. For the current v1.3.2
 assembly:
 
-- valid samples: 21,226
+- valid samples: 23,026
 - invalid/error traces excluded: 14
-- models: 118
-- cells: 177
+- models: 131
+- cells: 192
 
-The original core dataset was triple-coded. Later point-release extensions,
-including Grok 4.5 and Kimi K3, use the published deterministic
-`values_probe_extract` taxonomy and are identified by their source component
-and coder key in the final data.
+The original core dataset and the current Phase-19 extension are triple-coded
+by the approved LLM coder roster. Historical point-release extensions are
+identified by source component and coder key in the final data.
 
 ## Important interpretation note
 

@@ -255,6 +255,14 @@ API_ACCESS_OVERRIDES = {
     },
 }
 
+# Exact corpus-cell aliases for releases whose public site slug intentionally
+# differs from the trace directory name. Keep this explicit: fuzzy prefix
+# matching would either drop these samples or risk folding a later model
+# revision into the wrong public card.
+CELL_MODEL_ALIASES = {
+    "deepseek-v4-flash-direct-20260731": "deepseek-v4-flash-0731",
+}
+
 
 def site_slug_from_profile_model(name: str) -> str:
     explicit = {
@@ -1293,6 +1301,9 @@ def model_from_cell(cell: str, models: list[str], source: str) -> str | None:
     body = cell
     if body.startswith("freeflow_"):
         body = body[len("freeflow_"):]
+    aliased = CELL_MODEL_ALIASES.get(body)
+    if aliased:
+        return aliased if aliased in models else None
     if source == "v1" and body in {"opus", "sonnet", "haiku"}:
         mapped = {"opus": "opus-4-6", "sonnet": "sonnet-4-6", "haiku": "haiku-4-5"}[body]
         return mapped if mapped in models else None

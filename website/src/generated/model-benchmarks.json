@@ -23,6 +23,11 @@
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
+  "deepseek-v4-flash-0731": {
+    "aaii": 50,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "matched_alias": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)"
+  },
   "devstral-2512": {
     "aaii": 19,
     "url": "https://artificialanalysis.ai/models/devstral-2",
@@ -288,6 +293,11 @@
     "aaii": 41,
     "url": "https://artificialanalysis.ai/models/inkling",
     "matched_alias": "Inkling"
+  },
+  "inkling-small": {
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/inkling-small",
+    "matched_alias": "Inkling Small"
   },
   "kimi-k2": {
     "aaii": 26,

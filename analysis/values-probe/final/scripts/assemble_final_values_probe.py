@@ -167,6 +167,15 @@ SOURCES = [
         'posture_dir': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/posture_collapsed',
         'posture_consensus': LAYERED/'recode_20260728/phase18_opus5_openai_reasoning_20260725/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase19_flash_small_20260731',
+        'manifest': LAYERED/'phase19_flash_small_20260731/manifest_phase19.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase19_flash_small_20260731/layer_a',
+        'layer_a_consensus': LAYERED/'phase19_flash_small_20260731/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase19_flash_small_20260731/posture_collapsed',
+        'posture_consensus': LAYERED/'phase19_flash_small_20260731/posture_collapsed/final_consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

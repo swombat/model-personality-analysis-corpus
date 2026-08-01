@@ -8,7 +8,7 @@ _Rich model-level profile based on 125 freeflow samples._
 
 - Samples: 125
 - Sample kinds: `{'EXPRESSIVE_FREEFLOW': 99, 'GENERIC_ESSAY': 21, 'GENRE_FICTION': 5}`
-- Current concise card: `analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash.md`
+- Current concise card: `analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash-0731.md`
 
 ## Core personality synthesis
 
