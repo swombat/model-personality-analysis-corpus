@@ -9,7 +9,12 @@ from generate_data import GENERATED, PUBLIC_MODEL_IMAGES, PUBLIC_SAMPLES
 
 
 EXPECTED = {
-    "deepseek-v4-flash-0731": {"benchmark": 50},
+    "deepseek-v4-flash-0731": {
+        "benchmark": 50,
+        "openrouter_id": "deepseek/deepseek-v4-flash-0731",
+        "input_price": 0.09,
+        "output_price": 0.18,
+    },
     "inkling-small": {"benchmark": 40},
     "qwen3-7-flash": {"benchmark": None},
 }
@@ -44,6 +49,13 @@ def main() -> None:
             assert benchmark is None
         else:
             assert benchmark and benchmark["aaii"] == expected_score
+
+        if expected.get("openrouter_id"):
+            openrouter = model["openrouter"]
+            assert openrouter["matched"] is True
+            assert openrouter["id"] == expected["openrouter_id"]
+            assert openrouter["prompt_per_million"] == expected["input_price"]
+            assert openrouter["completion_per_million"] == expected["output_price"]
 
         samples = json.loads((PUBLIC_SAMPLES / f"{slug}.json").read_text())["samples"]
         assert len(samples) == 245

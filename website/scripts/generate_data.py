@@ -129,7 +129,7 @@ MODEL_SLUGS = {
     "grok-4-20-0309-reasoning": "x-ai/grok-4.20-0309-reasoning",
     "deepseek-chat": "deepseek/deepseek-chat",
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
-    "deepseek-v4-flash-0731": "deepseek-v4-flash",
+    "deepseek-v4-flash-0731": "deepseek/deepseek-v4-flash-0731",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
     "glm-4-5": "z-ai/glm-4.5",
     "glm-4-6": "z-ai/glm-4.6",
@@ -1430,7 +1430,15 @@ def main() -> None:
         values_path = VALUES_DIR / f"{slug}.md"
         values_markdown = markdown_without_title(values_path.read_text(errors="ignore")) if values_path.exists() else ""
         old = old_by_slug.get(slug, {})
-        openrouter = apply_api_metadata(slug, old.get("openrouter") or openrouter_for_model(slug))
+        cached_openrouter = old.get("openrouter")
+        expected_openrouter_id = MODEL_SLUGS.get(slug)
+        if (
+            cached_openrouter
+            and expected_openrouter_id
+            and cached_openrouter.get("id") != expected_openrouter_id
+        ):
+            cached_openrouter = None
+        openrouter = apply_api_metadata(slug, cached_openrouter or openrouter_for_model(slug))
         if slug not in summaries:
             raise KeyError(f"Missing generated strapline for {slug}")
         model_summary = summaries[slug]
