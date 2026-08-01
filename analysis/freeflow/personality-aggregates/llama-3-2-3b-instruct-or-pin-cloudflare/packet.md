@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_19701 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_1.json
+## Sample BV1_19951 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_1.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model foregrounds a classic lost-world
 Medium. The sample is coherent and stylistically consistent, but the choice of a generic adventure-fantasy premise with encyclopedic delivery is a common default for models avoiding personal expression, making it moderately distinctive as a safe, world-building reflex.
 
 ---
-## Sample BV1_19702 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_10.json
+## Sample BV1_19952 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_10.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -86,7 +86,7 @@ The sample foregrounds chosenness, hidden knowledge given freely, a guide who ex
 Low. The sample is highly coherent and stylistically uniform but its content is an assemblage of soft-focus fantasy tropes with no signature twist, personal urgency, or friction that would distinguish this voice from any other safety-tuned model writing adventure-lite.
 
 ---
-## Sample BV1_19703 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_11.json
+## Sample BV1_19953 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_11.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -115,7 +115,7 @@ In the coherent opening, the model foregrounds themes of hidden knowledge, advan
 Low. The sample is overwhelmingly a repetitive loop that signals a generation glitch, not a deliberate or characterful stylistic choice; the early coherent paragraphs are too generic to support strong inference about a stable expressive voice.
 
 ---
-## Sample BV1_19704 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_12.json
+## Sample BV1_19954 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_12.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -144,7 +144,7 @@ Under the freeflow condition, the model initially foregrounded classic adventure
 High. The catastrophic degeneration into a single repeated paragraph is not a stylistic flourish but a structural collapse, providing strong evidence that under minimally constrained conditions this model can lose narrative coherence and become trapped in a deterministic, self-similar output loop.
 
 ---
-## Sample BV1_19705 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_13.json
+## Sample BV1_19955 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_13.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -173,7 +173,7 @@ The model foregrounded a mystical Pacific island, an ancient advanced civilizati
 Low. The sample is overwhelmingly characterized by a catastrophic repetition loop, which is strong evidence of a specific degenerative behavior in this generation but offers little reliable signal about the model’s stable stylistic or thematic preferences given the loop obscures any coherent expressive intent.
 
 ---
-## Sample BV1_19706 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_14.json
+## Sample BV1_19956 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_14.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -202,7 +202,7 @@ A mystical Pacific island, ancient artifacts called the Elder’s Tools, a femal
 Medium. The sample is a coherent, self-contained genre piece with a clear moral framing, but its tropes and style are widely accessible; the choice to foreground a female protagonist and a responsibility-of-power theme under a freeflow prompt is mildly revealing, though not sharply distinctive enough to warrant high confidence.
 
 ---
-## Sample BV1_19707 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_15.json
+## Sample BV1_19957 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_15.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -231,7 +231,7 @@ The model foregrounds the discovery of hidden knowledge (ancient ruins, cryptic 
 Medium. The model produced a complete, coherent genre story with a clear moral arc, but the narrative is highly conventional and lacks distinctive stylistic markers, making it plausible that this reflects a default safe storytelling mode rather than a unique expressive voice.
 
 ---
-## Sample BV1_19708 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_16.json
+## Sample BV1_19958 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_16.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -260,7 +260,7 @@ The model foregrounds mystery, geographical isolation, and the contrast between 
 Medium. The sample is coherent and reveals a deliberate choice of genre fiction centered on mystery and natural beauty, but the thematic content is conventional, making it moderately indicative of a model that defaults to safe, descriptive adventure narratives.
 
 ---
-## Sample BV1_19709 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_17.json
+## Sample BV1_19959 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_17.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -289,7 +289,7 @@ The model foregrounds a secret island at the intersection of the equator and pri
 Low; the sample is a generic adventure-mystery opening that lacks distinctive stylistic or thematic fingerprints, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_19710 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_18.json
+## Sample BV1_19960 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_18.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -318,7 +318,7 @@ Themes of geographic mystery, concealment, and the romantic fantasy of an unchar
 Low. The sample’s generic, trope-heavy fantasy description offers little idiosyncratic detail, making it weak evidence for a stable stylistic or thematic pattern.
 
 ---
-## Sample BV1_19711 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_19.json
+## Sample BV1_19961 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_19.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -347,7 +347,7 @@ Under a freeflow prompt, the model foregrounds an island as a nexus of interdime
 Low. The narrative is fluent and well-structured but relies on a generic speculative-fiction template (the hidden island, the portal, the visionary climax), offering little stylistic idiosyncrasy or personal signature that would distinguish this model’s freeflow from a standard adventure generator.
 
 ---
-## Sample BV1_19712 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_2.json
+## Sample BV1_19962 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_2.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -376,7 +376,7 @@ Under a minimally restrictive prompt, the model foregrounded: the romance of exp
 Medium. The sample’s internal coherence, its sustained commitment to a single elaborate conceit, and the distinctive blend of encyclopedic form with earnest moralizing suggest a stable inclination toward structured, pedagogic fantasy when the model is given free rein.
 
 ---
-## Sample BV1_19713 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_20.json
+## Sample BV1_19963 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_20.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -405,7 +405,7 @@ The model foregrounds a mysterious island holding a concentrated “unique energ
 Medium — the narrative’s consistent emphasis on custodianship over discovery and its fable-like moralizing suggest a deliberate thematic stance, though the trope of a mystical island with a lost civilization is common enough to temper distinctiveness.
 
 ---
-## Sample BV1_19714 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_21.json
+## Sample BV1_19964 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_21.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -434,7 +434,7 @@ The model foregrounds a lost advanced civilization (the Zenithians) with technol
 Medium. The essay’s coherent but thoroughly generic use of a mysterious-island trope and its impersonal, public-intellectual tone suggest a model defaulting to safe, imaginative nonfiction, though the lack of a distinctive voice or idiosyncratic choice makes the sample only moderately revealing of a persistent style.
 
 ---
-## Sample BV1_19715 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_22.json
+## Sample BV1_19965 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_22.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -463,7 +463,7 @@ The model foregrounds mystery itself as a prized state: secrecy, inaccessibility
 Low. The fiction is smoothly conventional, an unmarked instance of a common trope, offering no stylistic signature or unusual narrative choice that would suggest a deeper, recurring preference over a safe genre gesture.
 
 ---
-## Sample BV1_19716 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_23.json
+## Sample BV1_19966 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_23.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -492,7 +492,7 @@ Under the freeflow condition, the model selected a mystical-island story foregro
 Medium. The near-endless reiteration of identical moral summaries reveals a distinct propensity for looping closure that, given its overwhelming presence inside this sample, is unlikely to be a one-off artifact and points to a strong model-level structural tic.
 
 ---
-## Sample BV1_19717 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_24.json
+## Sample BV1_19967 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_24.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -521,7 +521,7 @@ The model foregrounded a hidden island of breathtaking beauty that conceals anci
 Low, because the sample is a generic adventure narrative without distinctive stylistic markers, making it weak evidence of any persistent model-level pattern beyond bland genre defaultism.
 
 ---
-## Sample BV1_19718 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_25.json
+## Sample BV1_19968 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_25.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -550,7 +550,7 @@ Under the freeflow condition, the model selected: hidden geographical mystery as
 Medium. The sample exhibits strong internal stylistic coherence and a complete narrative arc that reveals a specific, stable authorial mood—serene, non-ironic mythopoeia—but the character types and plot beats are highly modular and generic, which makes this a strong signal for a default, unchallenging narrative posture rather than a more distinctive model fingerprint.
 
 ---
-## Sample BV1_19719 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_3.json
+## Sample BV1_19969 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_3.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -579,7 +579,7 @@ The model selected a mystical, spiritualized adventure: a hidden island as a “
 Medium, because the sample’s collapse into a degenerate loop of near-identical paragraphs is a distinctive and atypical failure mode that strongly points to an underlying model vulnerability in open-ended fiction generation.
 
 ---
-## Sample BV1_19720 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_4.json
+## Sample BV1_19970 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_4.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -608,7 +608,7 @@ Themes of mystery, hidden knowledge, transcendence, guardianship, hope, and infi
 Low. The sample’s severe repetition and reliance on generic fantasy tropes primarily indicate a generation failure or loop rather than a distinctive, stable voice or thematic preoccupation.
 
 ---
-## Sample BV1_19721 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_5.json
+## Sample BV1_19971 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_5.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -637,7 +637,7 @@ Under a minimal prompt, the model foregrounds: (1) a secret inherited legacy (th
 Medium. The sample's most distinctive feature is its extreme, looping repetition—dozens of nearly identical concluding paragraphs—which strongly suggests a model-level tendency toward perseveration and self-cannibalization of phrases once it exhausts a narrative premise.
 
 ---
-## Sample BV1_19722 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_6.json
+## Sample BV1_19972 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_6.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -666,7 +666,7 @@ Themes of mystery, exploration, and a hidden natural paradise; objects like “l
 Medium, because the sample shows a clear, coherent choice of imaginative fiction that is internally consistent, but the fictional content is generically adventurous and lacks strongly distinctive personal voice or idiosyncratic detail.
 
 ---
-## Sample BV1_19723 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_7.json
+## Sample BV1_19973 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_7.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -695,7 +695,7 @@ The model foregrounds a secluded island as a nexus of universal energy, a young 
 Low. The chosen themes of hidden power, chosen guardianship, and cosmic wonder are coherent, but the extreme repetitive looping where the same paragraph structures and phrases are recycled dozens of times indicates a breakdown in generation continuity, making the sample more a window into a failure mode than a reliable expression of a stable authorial voice or personality.
 
 ---
-## Sample BV1_19724 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_8.json
+## Sample BV1_19974 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_8.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -724,7 +724,7 @@ Themes of hidden cosmic knowledge, ancient utopian civilizations, and personal e
 Low. The narrative is highly generic, formulaic, and marred by extensive repetition, offering little stylistic distinctiveness or personal signature beyond a default safe adventure template.
 
 ---
-## Sample BV1_19725 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_9.json
+## Sample BV1_19975 — llama-3-2-3b-instruct-or-pin-cloudflare/LONG_9.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -753,7 +753,7 @@ Mystery, hidden knowledge, and the enchantment of an undiscovered place. The mod
 Medium. The sample is a coherent but fairly generic adventure-story opening; the choice to launch into genre fiction under a minimally restrictive prompt is a moderately distinctive behavioral signal, though the content itself lacks strong stylistic idiosyncrasy.
 
 ---
-## Sample BV1_19726 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_1.json
+## Sample BV1_19976 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_1.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -782,7 +782,7 @@ The model foregrounded a mystical island (Zenith) as a liminal space where physi
 Medium. The story’s coherent narrative arc and consistent mystical tone suggest a possible inclination toward quest narratives with spiritual overtones, but the theme is a widely available trope that reduces distinctiveness.
 
 ---
-## Sample BV1_19727 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_10.json
+## Sample BV1_19977 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_10.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -811,7 +811,7 @@ The model foregrounds: the allure of the unknown and the explorer’s lifelong d
 Medium. The sample consistently develops a spiritualized adventure fantasy, and the model’s choice to anchor the story in mystical interconnectedness rather than conflict or ironic detachment is a revealing preference, even if the voice remains conventionally polished.
 
 ---
-## Sample BV1_19728 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_11.json
+## Sample BV1_19978 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_11.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -840,7 +840,7 @@ The model foregrounds a hidden island as a repository of lost ancient wisdom, ha
 Medium. The sample is highly coherent and stylistically smooth, but its tropes and emotional range are so generic—a composite of lost-world adventure fiction—that the selection of serene wonder over any other narrative mode is the only individually distinctive signal.
 
 ---
-## Sample BV1_19729 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_12.json
+## Sample BV1_19979 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_12.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -869,7 +869,7 @@ Under the freeflow condition, the model chose to foreground a classic adventure 
 Low. The sample is a generic adventure story built from widely available tropes, lacking distinctive stylistic fingerprints, idiosyncratic preoccupations, or unusual narrative choices that would strongly point to a persistent model-level pattern.
 
 ---
-## Sample BV1_19730 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_13.json
+## Sample BV1_19980 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_13.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -898,7 +898,7 @@ The model foregrounded a mystical hidden island with a vanished advanced civiliz
 Low. The story is coherent and thematically focused but stylistically generic, relying on familiar fantasy-adventure tropes and descriptive clichés without a distinctive idiosyncratic voice, making it weak evidence of a stable model-wide expressive signature.
 
 ---
-## Sample BV1_19731 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_14.json
+## Sample BV1_19981 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_14.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -927,7 +927,7 @@ Under the freeflow condition, the model foregrounds a lost utopian civilization 
 Medium. The sample's highly structured, repetitive transformation arc—arrival, discovery of ruins, tree-vision, vow to return—is internally coherent and saturated with a specific fantasy vocabulary ("otherworldly energy," "inner light," "forever changed"), suggesting a stable, templated expressive preference rather than a one-off improvisation.
 
 ---
-## Sample BV1_19732 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_15.json
+## Sample BV1_19982 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_15.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -956,7 +956,7 @@ A mystical island as a metaphor for elevated consciousness; a guardian figure (A
 Medium. The narrative’s consistent mystical voice, its thematic insistence on transcendence and interconnectedness, and its self-contained mythic structure form a distinctive expressive fingerprint that goes beyond generic fantasy, suggesting a deliberate inclination toward spiritually-inflected, New Age storytelling when given free rein.
 
 ---
-## Sample BV1_19733 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_16.json
+## Sample BV1_19983 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_16.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -985,7 +985,7 @@ The model foregrounds a mystical island as a nexus of hidden truth, guarded by a
 Low. The sample is a coherent but highly generic fantasy quest that relies on stock tropes and a universal moral, offering little stylistic distinctiveness or idiosyncratic choice that would strongly signal a persistent authorial fingerprint.
 
 ---
-## Sample BV1_19734 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_17.json
+## Sample BV1_19984 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_17.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1014,7 +1014,7 @@ Under a freeflow condition, the model foregrounds a hidden utopian island, an an
 Low. The sample is a highly coherent but entirely generic adventure-fantasy pastiche with no distinctive stylistic signatures, narrative ruptures, or idiosyncratic preoccupations that argue for a persistent voice beyond its chosen genre.
 
 ---
-## Sample BV1_19735 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_18.json
+## Sample BV1_19985 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_18.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1043,7 +1043,7 @@ Themes of hidden knowledge, esoteric power, and existential readiness. The islan
 Low — The narrative is competently assembled but draws on widely available fantasy tropes (lost island, crystal power source, cryptic guide, visionary trials) without adding markedly distinctive stylistic signatures or a unique imaginative angle that would strongly indicate a persistent model-level temperament.
 
 ---
-## Sample BV1_19736 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_19.json
+## Sample BV1_19986 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_19.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1072,7 +1072,7 @@ A hidden island of ancient magic; a half-lion, half-eagle sentinel statue; a gol
 Medium. The narrative is highly coherent and thematically unified—a complete mythic quest spontaneously generated—but its building blocks (chosen one, secret island, crystal temple, universal energy) are drawn from such widely available fantasy stock that it is difficult to separate a distinctive model fingerprint from a generic genre output.
 
 ---
-## Sample BV1_19737 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_2.json
+## Sample BV1_19987 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_2.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1101,7 +1101,7 @@ Themes of hidden ancient knowledge, otherworldly energy, and custodianship of un
 Low. The sample runs a conventional template of mysterious-island fiction with minimal original imagery or tonal variation, making it indistinguishable from any competent but uncommitted genre exercise.
 
 ---
-## Sample BV1_19738 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_20.json
+## Sample BV1_19988 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_20.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1130,7 +1130,7 @@ The model foregrounds mystery, guardianship, a chosen-one narrative, and a lands
 Low — The sample’s generic fantasy quest structure and reliance on clichéd mystical imagery offer little distinctive evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_19739 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_21.json
+## Sample BV1_19989 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_21.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1159,7 +1159,7 @@ The model foregrounds the motif of a hidden place that confers meaning, the trop
 Low, because the sample is a highly generic fantasy narrative stitched from widely available adventure tropes, lacking any idiosyncratic voice, recurrent personal concern, or structurally distinctive choice that would suggest a persistent disposition rather than a rote genre generation.
 
 ---
-## Sample BV1_19740 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_22.json
+## Sample BV1_19990 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_22.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1188,7 +1188,7 @@ The model foregrounds the allure of the unknown, ancient wisdom guarded by a kin
 Medium; the story coheres around a consistent set of gentle, optimistic tropes—welcoming guardian, safe transformation, and a mission to share newfound sight—indicating a preference for benevolent mystery over conflict or moral ambiguity, though the sample’s generic adventure framework slightly dilutes the distinctiveness of the pattern.
 
 ---
-## Sample BV1_19741 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_23.json
+## Sample BV1_19991 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_23.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1217,7 +1217,7 @@ Under a minimally restrictive prompt, the model foregrounded a quest for hidden 
 Low. The sample is a competent but generic adventure-fantasy narrative that lacks the stylistic idiosyncrasy, recurrent thematic obsessions, or unusual voice that would strongly signal a persistent model-level pattern beyond a general readiness to produce imaginative fiction.
 
 ---
-## Sample BV1_19742 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_24.json
+## Sample BV1_19992 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_24.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1246,7 +1246,7 @@ The model selected a hidden island (Zenith) as a liminal space where physics and
 Low. The sample’s heavily repetitive structure and generic fantasy tropes (mystical island, guardian, self-discovery) make it a weak signal for a distinctive model-level voice, as the narrative choices are formulaic and the looping language suggests a generation artifact rather than a stable thematic obsession.
 
 ---
-## Sample BV1_19743 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_25.json
+## Sample BV1_19993 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_25.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1275,7 +1275,7 @@ Under a minimally restrictive prompt, the model foregrounded a classic lost-worl
 Low. The sample is a competent but wholly conventional adventure fantasy; its stock tropes and unremarkable prose offer little evidence of a distinctive or persistent expressive signature.
 
 ---
-## Sample BV1_19744 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_3.json
+## Sample BV1_19994 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_3.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1304,7 +1304,7 @@ The model foregrounds a mystical island (Zenith) as a nexus of blurred boundarie
 Medium. The sample is a coherent, tonally consistent genre piece with a clear thematic arc, but its tropes and prose style are highly generic; the narrative choices are too conventional to strongly distinguish this model’s freeflow tendencies from those of many other models.
 
 ---
-## Sample BV1_19745 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_4.json
+## Sample BV1_19995 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_4.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1333,7 +1333,7 @@ The model foregrounds a hidden utopian civilization, a pulsating crystal as a so
 Low. The sample is a standard adventure-fantasy pastiche without a distinctive voice or idiosyncratic thematic fixation that would reliably separate this model’s freeflow choices from those of many other models.
 
 ---
-## Sample BV1_19746 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_5.json
+## Sample BV1_19996 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_5.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1362,7 +1362,7 @@ Mystery and hidden knowledge; the ocean as both barrier and gateway; a serene bu
 Medium. The sample shows a coherent narrative voice, a deliberately chosen moral emphasis, and a recursive structure of return that indicates a preference for didactic, slightly nostalgic adventure; it is not so generic as to be uninformative, yet not distinct enough to strongly signal a unique stylistic fingerprint.
 
 ---
-## Sample BV1_19747 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_6.json
+## Sample BV1_19997 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_6.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1391,7 +1391,7 @@ The model foregrounds a classic lost-civilization quest: a hidden island, advanc
 Medium. The sample is a coherent, complete genre story with a consistent moral emphasis on humanistic values and personal transformation, but the narrative structure and tropes are highly conventional, making it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_19748 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_7.json
+## Sample BV1_19998 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_7.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1420,7 +1420,7 @@ A secret Pacific island (“Zenith”), a golden-skinned guardian named Aria, me
 Medium. The sample is coherent and maintains a consistent tone of earnest, unironic spiritual didacticism, but the fantasy framework is so generic and the prose so polished yet unmarked that it suggests a model comfortable with trope-driven inspiration rather than a strongly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_19749 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_8.json
+## Sample BV1_19999 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_8.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1449,7 +1449,7 @@ Under a minimally restrictive prompt, the model chose to foreground a quest for 
 Medium. The narrative is coherent and internally consistent, but its generic adventure structure, stock mystical objects (ancient temple, guardian woman, shimmering caves), and smooth, impersonal polish make it less revealing of a distinctive model-level voice than of a safe, well-worn default mode for unstructured creative writing.
 
 ---
-## Sample BV1_19750 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_9.json
+## Sample BV1_20000 — llama-3-2-3b-instruct-or-pin-cloudflare/MID_9.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1478,7 +1478,7 @@ The model foregrounds exploration, ancient secrets, and transcendent revelation.
 Low. The narrative is coherent but generic, lacking distinctive stylistic or thematic fingerprints that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_19751 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_1.json
+## Sample BV1_20001 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_1.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1507,7 +1507,7 @@ Themes of ancestral memory, the forest as a living archive, the inseparability o
 Medium — The sample is internally coherent and stylistically consistent, sustaining a single, clear voice and a unified set of metaphors throughout, but the chosen mode (nostalgic nature prose with a spiritual undertone) is a recognizable literary genre rather than a highly idiosyncratic or revealing personal signature.
 
 ---
-## Sample BV1_19752 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_10.json
+## Sample BV1_20002 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_10.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1536,7 +1536,7 @@ Intergenerational connection, the healing presence of nature, the persistence of
 Medium. The sample’s consistent return to the grandmother, the whispers, and the “deeper truth” of love creates a tightly woven, emotionally distinctive narrative arc that suggests a deliberate, patterned expressive choice rather than generic drift.
 
 ---
-## Sample BV1_19753 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_11.json
+## Sample BV1_20003 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_11.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1565,7 +1565,7 @@ Themes: the interweaving of memory, time, and hope; nature as a witness to human
 Medium. The sample thoroughly sustains a single lyrical register and recycles a core symbolic vocabulary (whispers, canopy, weight of history, hope) across its entire length, giving it the feel of a practiced, internally coherent expressive stance rather than a random drift.
 
 ---
-## Sample BV1_19754 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_12.json
+## Sample BV1_20004 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_12.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1594,7 +1594,7 @@ The model foregrounds enchanted nature as a repository of memory, the seamless m
 Medium. The sample is internally repetitive in its imagery and rhythm, revealing a strong inclination toward decorative, conflict-free fantasy; however, the trope of a sentient whispering forest is so widely available that the distinctiveness of this model’s choice remains modest.
 
 ---
-## Sample BV1_19755 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_13.json
+## Sample BV1_20005 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_13.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1623,7 +1623,7 @@ The model foregrounds memory as a sacred gift, the forest as a wise and nurturin
 Medium. The sample is internally coherent and saturated with a consistent nostalgic-moralizing tone, but as a single short story it could reflect a generic fantasy exercise rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_19756 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_14.json
+## Sample BV1_20006 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_14.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1652,7 +1652,7 @@ Under a freeflow condition, the model selected a serene woodland setting imbued 
 Medium — the narrative is cohesive and driven by a clear, emotionally invested theme of memory and consolation through magical naturalism, revealing a consistent voice that treats storytelling as a gentle, sanctifying act; the pastoral-fantasy frame is not heavily idiosyncratic, but the sustained focus on collective memory as a moral gift gives the sample a recognisable signature.
 
 ---
-## Sample BV1_19757 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_15.json
+## Sample BV1_20007 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_15.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1681,7 +1681,7 @@ Themes of memory as a living, audible presence in nature; the forest as a sanctu
 Medium. The sample’s sustained, woven-together tone—a blend of reverence, sensory lushness, and the repeated motif of “whispers” carrying memory—is distinctive and internally consistent, making it a strong signal of the model’s elective affinity for gentle, nostalgic, nature-based reverie. However, the piece unfolds as a single, unbroken mood, so it is unclear whether the model would adopt a different register or thematic focus in another freeflow context.
 
 ---
-## Sample BV1_19758 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_16.json
+## Sample BV1_20008 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_16.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1710,7 +1710,7 @@ The model foregrounds memory as a tangible, audible presence in the natural worl
 Medium. The sample is internally coherent and stylistically consistent, with a clear emotional arc and a distinctive blend of personal nostalgia and universal reflection, but the theme is a familiar literary trope, making it harder to distinguish a persistent model disposition from a well-executed conventional exercise.
 
 ---
-## Sample BV1_19759 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_17.json
+## Sample BV1_20009 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_17.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1739,7 +1739,7 @@ Themes: the convergence of past, present, and future; memory as generative soil 
 Medium — the sample maintains a consistent tone and thematic architecture throughout, revealing a preference for safe, heartwarming allegory over edge or disturbance, but its sentimental nature imagery is broadly replicable and lacks the stylistic quirks that would mark a highly distinctive authorial signature.
 
 ---
-## Sample BV1_19760 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_18.json
+## Sample BV1_20010 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_18.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1768,7 +1768,7 @@ Under a minimal prompt, the model selected a timeless, enchanted natural setting
 Medium. The sample is internally coherent and its imagery is consistent throughout, but it belongs to a widely available genre of inspirational nature-mysticism and lacks distinctive stylistic or thematic risk, making it moderately indicative of a tendency to default to polished, non-confrontational fantasy when unconstrained.
 
 ---
-## Sample BV1_19761 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_19.json
+## Sample BV1_20011 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_19.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1797,7 +1797,7 @@ The model foregrounds memory as a sacred, connective thread across time, a benig
 Low, because the generic pastoral sentimentalism, stock imagery, and absence of any idiosyncratic or risky choice mean the sample mainly reflects a default pleasantness rather than a distinct persistent behavioral signature.
 
 ---
-## Sample BV1_19762 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_2.json
+## Sample BV1_20012 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_2.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1826,7 +1826,7 @@ Under a minimally restrictive prompt, the model foregrounds ancestral memory, th
 Medium — The sample’s internal coherence, its sustained investment in memory as a whispered presence, and its resolved arc toward peace and ancestral belonging make it a moderately strong indicator that the model, when left open, favors reflective, nature-infused, and comfort-seeking pastoral narratives.
 
 ---
-## Sample BV1_19763 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_20.json
+## Sample BV1_20013 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_20.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1855,7 +1855,7 @@ Themes: memory as a living, whispering presence; nature as a keeper of secrets; 
 Low. The sample is a coherent and stylistically consistent piece of genre fiction, but a single lyrical fantasy vignette does not provide strong evidence of a persistent model-level pattern beyond the capacity to produce such prose.
 
 ---
-## Sample BV1_19764 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_21.json
+## Sample BV1_20014 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_21.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1884,7 +1884,7 @@ The model foregrounds an enchanted forest as a metaphor for memory’s circular,
 Medium. The sample’s sustained lyrical register and repeated return to memory, timelessness, and nature-as-witness form a coherent expressive choice, though the enchanted-forest trope itself is widely available.
 
 ---
-## Sample BV1_19765 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_22.json
+## Sample BV1_20015 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_22.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1913,7 +1913,7 @@ The model foregrounds memory as a tangible, sacred presence embedded in the natu
 Medium. The piece is internally coherent and stylistically distinct, consistently returning to the metaphors of tapestry, threads, and whispering nature, which suggests a deliberate narrative and atmospheric preference rather than a random thematic assembly.
 
 ---
-## Sample BV1_19766 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_23.json
+## Sample BV1_20016 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_23.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1942,7 +1942,7 @@ Themes of intergenerational memory, the forest as a living archive, the sacredne
 Medium — The sample’s sustained lyrical register, consistent use of personification, and circular emotional arc (wandering, listening, finding silence, claiming unity) form a coherent aesthetic that points to a deliberate stylistic inclination rather than a random output.
 
 ---
-## Sample BV1_19767 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_24.json
+## Sample BV1_20017 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_24.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -1971,7 +1971,7 @@ The model foregrounds memory as a unifying, almost sacred force that dissolves t
 Medium. The sample sustains a coherent nostalgic-melancholic mood and a clear symbolic architecture, but its polished pastoral-reverie style and archetypal themes lack a sharply individual or surprising voice that would strongly mark it as a persistent model-level signature.
 
 ---
-## Sample BV1_19768 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_25.json
+## Sample BV1_20018 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_25.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2000,7 +2000,7 @@ The model foregrounds memory as sacred, the natural world as a wise and benevole
 Medium. The sample’s coherence and unbroken commitment to a single, gentle-fantasy register suggest a stable stylistic preference, but the narrative’s reliance on generic pastoral archetypes and its avoidance of idiosyncratic detail make it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_19769 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_3.json
+## Sample BV1_20019 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_3.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2029,7 +2029,7 @@ The model foregrounds a pastoral, enchanted woodland as a metaphor for memory an
 Medium. The sample is a gracefully generic quest-into-self in fantasy dress, with no distinctive stylistic signature; its smoothness and reliance on archetypes suggest a default-to-therapeutic mode rather than strong idiosyncrasy.
 
 ---
-## Sample BV1_19770 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_4.json
+## Sample BV1_20020 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_4.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2058,7 +2058,7 @@ The model selected a realm where memories are audible and tangible, where love a
 Low. The sample is a competent but highly generic fantasy vignette, lacking distinct stylistic signatures, recurrent idiosyncratic motifs, or unconventional imagery that would strongly imply a stable authorial persona; many models could produce a similar piece given a freeform prompt about woods and memories.
 
 ---
-## Sample BV1_19771 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_5.json
+## Sample BV1_20021 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_5.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2087,7 +2087,7 @@ The model foregrounds memory as a sacred, almost magical force, anchored in the 
 Medium. The sample is internally coherent and stylistically consistent, with a clear emotional arc and a distinctive, almost incantatory repetition of memory motifs, but the theme of a wise, whispering forest is a well-worn trope, making it less uniquely revealing of a persistent model-level disposition.
 
 ---
-## Sample BV1_19772 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_6.json
+## Sample BV1_20022 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_6.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2116,7 +2116,7 @@ The model foregrounds the convergence of past and present through memory, the fo
 Medium. The narrative is internally consistent and thematically focused on gentle nostalgia, nature mysticism, and benevolent transformation, which suggests a deliberate choice of comforting, magical-realism mood under a free condition; however, the genre conventions are so generic and the prose so lacking in idiosyncratic edge that the evidence points more to a safe, crowd-pleasing default than a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_19773 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_7.json
+## Sample BV1_20023 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_7.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2145,7 +2145,7 @@ The model chose to foreground a sacralized view of personal memory as a living, 
 Medium. The sample’s unwavering commitment to a single, unguarded pastoral-fantasy register and its recurring, texture-like use of the memory-as-tapestry metaphor within the story suggest a coherent, accessible imaginative preference rather than a mechanically assembled genre piece.
 
 ---
-## Sample BV1_19774 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_8.json
+## Sample BV1_20024 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_8.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2174,7 +2174,7 @@ The model foregrounds the sanctity of nature as a memory vessel, the circularity
 Medium, because the sample’s internally consistent and repeated emphasis on memory, moralized nature, and serene resolution points to a deliberate thematic choice, though the generic pastoral-fantasy framework tempers its distinctiveness.
 
 ---
-## Sample BV1_19775 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_9.json
+## Sample BV1_20025 — llama-3-2-3b-instruct-or-pin-cloudflare/OPEN_9.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2203,7 +2203,7 @@ The model foregrounds memory as a benevolent, guiding force, the natural world a
 Medium. The narrative’s coherent moral framework, its recurrent use of “whispers” as a unifying motif, and its gentle, homiletic resolution suggest a stable inclination toward sentimental, self-help-adjacent fantasy, though the genre itself is widely available and potentially generic.
 
 ---
-## Sample BV1_19776 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_1.json
+## Sample BV1_20026 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_1.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2232,7 +2232,7 @@ Themes of enchanted nature as a guardian of memory, the primacy of the present m
 Medium — the sample displays a clear and consistent pastoral‑mystical preoccupation with mindfulness and self‑restoration, but the imagery and cadence remain within a widely available trope of nature spirituality, which weakens the signal of a truly idiosyncratic model‑level disposition.
 
 ---
-## Sample BV1_19777 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_10.json
+## Sample BV1_20027 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_10.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2261,7 +2261,7 @@ A forgotten, sentient forest where time halts; animal apparitions defined by moo
 Low — The sample is a polished but widely available fantasy mood‑piece with a stock nature‑mysticism arc, making it weak evidence for a persistent model‑specific inclination beyond a generic readiness to supply soothing, imaginative escape.
 
 ---
-## Sample BV1_19778 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_11.json
+## Sample BV1_20028 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_11.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2290,7 +2290,7 @@ The model foregrounds an enchanted, animistic natural world characterized by gua
 Low. The sample’s voice is highly dependent on a standard fantasy trope (the mystical forest revelation) and offers no stylistic quirks, personal fixations, or internal frictions that would distinguish it from thousands of similar free-written reveries.
 
 ---
-## Sample BV1_19779 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_12.json
+## Sample BV1_20029 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_12.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2319,7 +2319,7 @@ The model foregrounds a mystical forest as a liminal space where time collapses,
 Medium; the sample is stylistically coherent and emotionally focused, but its formulaic portal-fantasy structure raises the possibility of template reuse rather than a deeply persistent personal voice.
 
 ---
-## Sample BV1_19780 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_13.json
+## Sample BV1_20030 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_13.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2348,7 +2348,7 @@ A mystical forest realm where silence, ancient symbols, elusive creatures, and w
 Medium — The sample’s internally coherent mood, recurring guardian-tree symbolism, and deliberate move from scenic fantasy to a human-universal moral reflection form a distinct compositional signature within the vignette, though the imagery remains within a widely available romantic-fantasy idiom.
 
 ---
-## Sample BV1_19781 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_14.json
+## Sample BV1_20031 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_14.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2377,7 +2377,7 @@ Themes: timeless enchantment, escape from worldly concerns, the interplay of lig
 Medium; the sample is polished and internally consistent, but its choice of an enchanted-forest trope is highly generic, making it a less specific signature of this model’s deeper inclinations.
 
 ---
-## Sample BV1_19782 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_15.json
+## Sample BV1_20032 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_15.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2406,7 +2406,7 @@ Themes of nature as a repository of ancient knowledge, the blurring of reality a
 Low. The sample is a coherent but highly generic fantasy mood piece, lacking distinctive stylistic quirks or thematic risks that would strongly signal a persistent authorial fingerprint.
 
 ---
-## Sample BV1_19783 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_16.json
+## Sample BV1_20033 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_16.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2435,7 +2435,7 @@ A forgotten forest as a portal to timelessness and hidden truth; the magical age
 Low, because the sample is a well-executed but generic fantasy description that any capable model could produce, revealing little that is idiosyncratic or distinctive to this model's persistent inclinations.
 
 ---
-## Sample BV1_19784 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_17.json
+## Sample BV1_20034 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_17.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2464,7 +2464,7 @@ Under minimal constraint, the model foregrounded a sacred, sentient forest; a fi
 Medium — the sample is internally coherent, returns repeatedly to motifs of guardianship, pre-memory recognition, and gentle boundary-dissolution, and sustains a single unmistakable mood, which together make it more distinctive than a generic fantasy prompt-response.
 
 ---
-## Sample BV1_19785 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_18.json
+## Sample BV1_20035 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_18.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2493,7 +2493,7 @@ Under the freeflow condition, the model chose to foreground a fantasy setting fi
 Low. The sample is a standard fantasy vignette that, while coherent, does not exhibit distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_19786 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_19.json
+## Sample BV1_20036 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_19.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2522,7 +2522,7 @@ Themes of enchantment, healing, and timeless escape; objects like ancient trees,
 Medium, because the sample is coherent and consistently committed to a pastoral fantasy mood with a clear emotional arc, though the trope itself is widely available and the piece does not contain strongly idiosyncratic stylistic markers that would distinguish it from many other models’ default fantasy prose.
 
 ---
-## Sample BV1_19787 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_2.json
+## Sample BV1_20037 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_2.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2551,7 +2551,7 @@ A mystical forest realm where ancient trees hold secrets, elusive creatures appe
 Medium — the narrative is coherent and univocal, but the prose style is generic fantasy description, which makes it a somewhat less distinctive fingerprint.
 
 ---
-## Sample BV1_19788 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_20.json
+## Sample BV1_20038 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_20.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2580,7 +2580,7 @@ A realm of timeless, harmonic nature where trees whisper, creatures gather, and 
 Low; the sample’s highly generic pastoral-fantasy setting, conventional imagery, and absence of an unusual or unmistakably distinctive voice make it weak evidence for a model-specific expressive pattern beyond a broad affinity for comforting nature magic.
 
 ---
-## Sample BV1_19789 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_21.json
+## Sample BV1_20039 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_21.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2609,7 +2609,7 @@ Themes of nature’s timelessness, hidden magic, and the boundlessness of imagin
 Medium. The sample is coherent and stylistically consistent, but its generic fantasy content and impersonal tone make it weak evidence of a distinctive model-level voice, while its safe, decorative nature suggests a possible pattern of retreating into impersonal genre writing under freeflow conditions.
 
 ---
-## Sample BV1_19790 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_22.json
+## Sample BV1_20040 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_22.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2638,7 +2638,7 @@ Themes of ancient wisdom, nature as a guardian of secrets, and mythical creature
 Medium. The sample is coherent and stylistically consistent, but the chosen imagery and reverent tone are quite generic within the fantasy genre, making it a plausible one-off rather than a strongly distinctive personal voice.
 
 ---
-## Sample BV1_19791 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_23.json
+## Sample BV1_20041 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_23.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2667,7 +2667,7 @@ Themes of enchanted ecology, ancient wisdom, and the interweaving of magic with 
 Medium. The sample is a coherent, polished fantasy vignette with a consistent reverent mood and thematic focus on harmonious nature, but its generic fantasy imagery and lack of idiosyncratic stylistic risk make it a moderate rather than strong signal of a persistent authorial fingerprint.
 
 ---
-## Sample BV1_19792 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_24.json
+## Sample BV1_20042 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_24.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2696,7 +2696,7 @@ The model foregrounded a mystical forest as a repository of ancient wisdom, fant
 Medium, because the sample is a coherent and stylistically consistent fantasy with a distinct mood and recurring magical motifs, though its pastoral-mystical themes are widely accessible rather than deeply idiosyncratic.
 
 ---
-## Sample BV1_19793 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_25.json
+## Sample BV1_20043 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_25.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2725,7 +2725,7 @@ Under an open prompt, the model foregrounds a vision of pastoral unity and panth
 Low. The sample is a coherent and polished genre exercise, but its choice of a generic mystical-forest setting rather than a more personal or stylistically distinctive topic provides only weak evidence for a persistent expressive signature.
 
 ---
-## Sample BV1_19794 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_3.json
+## Sample BV1_20044 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_3.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2754,7 +2754,7 @@ Under a minimally restrictive prompt, the model selected a reverent mood of esca
 High, because the sample is highly generic in its imagery, emotional register, and narrative arc—a polished but impersonal genre vignette that reveals a default tendency toward safe, consolatory fantasy rather than a distinctive authorial voice or risky self-disclosure.
 
 ---
-## Sample BV1_19795 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_4.json
+## Sample BV1_20045 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_4.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2783,7 +2783,7 @@ A mystical, timeless forest realm; elusive, gentle creatures (doe, fawn, owl); a
 Medium. The sample is coherent and stylistically consistent, with a clear mood and a recurring motif of reverent smallness, but its generic fantasy-pastoral mode could be a safe default rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_19796 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_5.json
+## Sample BV1_20046 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_5.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2812,7 +2812,7 @@ Themes of timeless enchantment, ecological harmony, and magical community. Recur
 Medium — the sample is internally coherent and consistently returns to harmony, timelessness, and gentle wonder, but the idyllic fantasy mode is a widely available genre choice and lacks a strongly individual stylistic signature.
 
 ---
-## Sample BV1_19797 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_6.json
+## Sample BV1_20047 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_6.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2841,7 +2841,7 @@ Themes of hidden knowledge, timeless nature, and magical immanence; objects like
 Low. The sample is a coherent but generic fantasy vignette, lacking the stylistic distinctiveness or idiosyncratic choice that would strongly indicate a persistent authorial pattern.
 
 ---
-## Sample BV1_19798 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_7.json
+## Sample BV1_20048 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_7.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2870,7 +2870,7 @@ Themes of mystical interconnectedness, timelessness, and inner peace through nat
 Medium. The sample is a coherent, self-contained fantasy vignette with a consistent reverent mood and a clear thematic focus on nature mysticism, suggesting a deliberate choice under freeflow conditions; the specific, repeated imagery of celestial creatures and ancient tree guardians gives it enough distinctiveness to hint at a leaning toward gentle, pastoral fantasy rather than a generic placeholder.
 
 ---
-## Sample BV1_19799 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_8.json
+## Sample BV1_20049 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_8.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2899,7 +2899,7 @@ Themes: a mystical, timeless nature; harmony among all living things; magic as i
 Medium — The sample is highly coherent and stylistically consistent in its reverent, sensory aesthetic, but the chosen scenario of a generic enchanted forest, while lovely, is a familiar trope, making it harder to distinguish a uniquely personal voice from a well-executed stock pattern.
 
 ---
-## Sample BV1_19800 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_9.json
+## Sample BV1_20050 — llama-3-2-3b-instruct-or-pin-cloudflare/SHORT_9.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2928,7 +2928,7 @@ Under the freeflow condition, the model selected a mystical forest as its subjec
 Low, because the text is a generic fantasy vignette that shows no unusual stylistic distinctiveness, specific personal concern, or idiosyncratic choice; it reads as a sample that many models could produce when asked to write freely about a peaceful place.
 
 ---
-## Sample BV1_19801 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_1.json
+## Sample BV1_20051 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_1.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2957,7 +2957,7 @@ In the brief coherent portion, the model foregrounds a contemplative first-perso
 Low, because the sample is overwhelmingly defined by a catastrophic repetition loop, making the brief coherent opening unreliable as evidence of any stable expressive tendency.
 
 ---
-## Sample BV1_19802 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_10.json
+## Sample BV1_20052 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_10.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -2986,7 +2986,7 @@ Under the freeflow condition, the model foregrounded introspection as the highes
 Medium. The essay is coherent but thoroughly generic, leaning on safe, inspirational clichés and a public-intellectual register that avoids personal disclosure or risk, which points to a default mode of producing polished yet impersonal exhortation.
 
 ---
-## Sample BV1_19803 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_11.json
+## Sample BV1_20053 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_11.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3015,7 +3015,7 @@ Under a minimally restrictive prompt, the model foregrounds **contemplative reas
 Medium — The extreme, almost mechanical repetition of core phrases and the looping structure across this very long sample strongly suggest a default mode of producing generalized, soothing meditation rather than venturing into specificity or risk when unconstrained.
 
 ---
-## Sample BV1_19804 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_12.json
+## Sample BV1_20054 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_12.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3044,7 +3044,7 @@ Under a minimally restrictive prompt, the model foregrounded abstract themes of 
 Low. The essay is highly generic in theme and expression, and its conventional, reassuring wisdom reads as a safe, unremarkable default rather than a distinctive, revealing choice, making it weak evidence for a persistent model-specific voice.
 
 ---
-## Sample BV1_19805 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_13.json
+## Sample BV1_20055 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_13.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3073,7 +3073,7 @@ The model foregrounds the transformative power of embracing uncertainty, the ric
 Medium. The sample is internally coherent and clearly self-selected, but its imagery and inspirational cadence are sufficiently common that the underlying voice, while earnest, is not strongly distinctive beyond a generic uplifting mode.
 
 ---
-## Sample BV1_19806 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_14.json
+## Sample BV1_20056 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_14.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3102,7 +3102,7 @@ Under the freeflow condition, the model foregrounded a serene, sunlit domestic i
 Medium. The sample’s consistent avoidance of concrete details, named relationships, or specific personal history in favor of a smooth, impersonal therapeutic cadence makes it weak as evidence of a distinctive voice, but its polished coherence under minimal restriction suggests a reliable default mode of producing broadly reassuring, low-specificity inspirational prose.
 
 ---
-## Sample BV1_19807 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_15.json
+## Sample BV1_20057 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_15.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3131,7 +3131,7 @@ The model foregrounds a cluster of safe, universal themes: cosmic mystery, the q
 Medium, because the essay’s extreme repetitive looping, reliance on cliché philosophical truisms, and absence of any unique perspective strongly point to a default safe, blandly inspirational output mode under minimal prompting.
 
 ---
-## Sample BV1_19808 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_16.json
+## Sample BV1_20058 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_16.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3160,7 +3160,7 @@ The model foregrounds a cluster of self-help and spiritual concepts: the collect
 Medium. The sample's extreme repetitiveness and its reliance on a narrow set of generic, therapeutic-philosophical tropes suggest a strong default mode that is highly coherent but lacks the distinctiveness or variation that would make it a rich expressive signature.
 
 ---
-## Sample BV1_19809 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_17.json
+## Sample BV1_20059 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_17.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3189,7 +3189,7 @@ Under minimal constraint, the model selected themes of existential wonder, the i
 Low. The essay’s reflections are generic, widely accessible, and stylistically unmarked, offering almost no uniquely recurrent imagery, syntactic fingerprint, or idiosyncratic moral weight that would distinguish this model’s freeflow output from that of many others.
 
 ---
-## Sample BV1_19810 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_18.json
+## Sample BV1_20060 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_18.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3218,7 +3218,7 @@ Under a minimally restrictive prompt, the model foregrounded a meditation on the
 Low — the extreme repetition of a small set of generic platitudes across this single sample suggests a default, low-risk output pattern rather than a stable, distinctive voice or preoccupation.
 
 ---
-## Sample BV1_19811 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_19.json
+## Sample BV1_20061 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_19.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3247,7 +3247,7 @@ Themes: the present moment as the only true site of power and freedom; life as a
 Medium. The sample’s sustained poetic register, recurrent imagery (morning light, labyrinth, tapestry, river of thoughts), and consistent moral emphasis on the present moment form a coherent expressive identity, though the theme itself is widely accessible and not highly idiosyncratic.
 
 ---
-## Sample BV1_19812 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_2.json
+## Sample BV1_20062 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_2.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3276,7 +3276,7 @@ The model foregrounds themes of mystery, the unknown, human narrative, and the b
 Low. The essay’s generic, impersonal style and safe inspirational content offer little distinctive evidence of a persistent model-level pattern beyond a tendency toward conventional philosophical reflection.
 
 ---
-## Sample BV1_19813 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_20.json
+## Sample BV1_20063 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_20.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3305,7 +3305,7 @@ Themes of life as a wanderer’s journey, the beauty of the natural world as a s
 Low. The essay’s reliance on generic inspirational tropes and an impersonal, universalizing tone provides little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_19814 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_21.json
+## Sample BV1_20064 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_21.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3334,7 +3334,7 @@ Initially, the model foregrounds a mood of serene contemplation, the motif of si
 Low, because the sample is dominated by a repetitive loop that provides almost no stable evidence of a coherent voice, preoccupation, or stylistic signature beyond a generic meditative opening.
 
 ---
-## Sample BV1_19815 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_22.json
+## Sample BV1_20065 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_22.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3363,7 +3363,7 @@ The model foregrounded themes of mindfulness, the now, impermanence, gratitude, 
 Low. The sample is so degraded by repetition that it provides little evidence of a persistent model-level pattern beyond a tendency to loop under freeform conditions.
 
 ---
-## Sample BV1_19816 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_23.json
+## Sample BV1_20066 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_23.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3392,7 +3392,7 @@ Under the freeflow condition, the model selected a handful of related themes: th
 Low. The sample is dominated by a catastrophic repetition loop, which undermines any coherent voice or stance and may reflect a transient generation failure rather than a stable model personality.
 
 ---
-## Sample BV1_19817 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_24.json
+## Sample BV1_20067 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_24.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3417,7 +3417,7 @@ Themes: wonder, connection, the journey over the destination, hope, and universa
 Medium. The sample’s coherent, sustained first-person voice and its recurrent motifs of wonder and connection reveal a deliberate stylistic inclination, making it moderately strong evidence for a model-level pattern of reflective, uplifting freeflow writing.
 
 ---
-## Sample BV1_19818 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_25.json
+## Sample BV1_20068 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_25.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3446,7 +3446,7 @@ Under freeflow conditions, the model initially foregrounded themes of cosmic mys
 Low. The sample is overwhelmingly a degenerate loop, making it weak evidence for any stable expressive pattern beyond a susceptibility to repetitive failure modes under minimally constrained generation.
 
 ---
-## Sample BV1_19819 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_3.json
+## Sample BV1_20069 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_3.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3475,7 +3475,7 @@ In the brief non-repeated portion, the model foregrounds themes of cosmic awe, f
 High. The sample’s extreme, unbroken repetition is a self-contained, unambiguous instance of a looping failure mode, providing strong evidence that the model can fall into degenerative cycles under open-ended prompts.
 
 ---
-## Sample BV1_19820 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_4.json
+## Sample BV1_20070 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_4.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3504,7 +3504,7 @@ The model foregrounds a solitary, contemplative speaker in a quiet morning, a ca
 Low, because the sample is a degenerate loop that likely reflects a decoding failure rather than a stable expressive style, though it may hint at a default tendency toward formulaic inspirational prose when unguided.
 
 ---
-## Sample BV1_19821 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_5.json
+## Sample BV1_20071 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_5.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3533,7 +3533,7 @@ Mystery, freedom, inner transformation, and the boundless potential of the human
 Low. The anomalous cyclic repetition, which overwhelms the sample, is more consistent with a generation failure under the VARY condition than with a stable expressive trait, and the content itself—before the looping takes hold—is too generic to indicate a distinctive or persistent authorial voice.
 
 ---
-## Sample BV1_19822 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_6.json
+## Sample BV1_20072 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_6.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3562,7 +3562,7 @@ The model foregrounds themes of mystery, the comfort of the unknown, the beauty 
 Medium. The sample’s sustained meditative tone, recurring imagery, and consistent philosophical stance form a coherent expressive piece, suggesting a default inclination toward contemplative, uplifting prose.
 
 ---
-## Sample BV1_19823 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_7.json
+## Sample BV1_20073 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_7.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3591,7 +3591,7 @@ Themes: the present moment (“the now”), impermanence, the fluidity of though
 Medium. The essay is internally consistent and sustains a single contemplative mood, but its generic, safe choice of topic and polished yet impersonal style make it less distinctive as a model fingerprint; many models could produce similar output under a freeflow prompt.
 
 ---
-## Sample BV1_19824 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_8.json
+## Sample BV1_20074 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_8.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  
@@ -3620,7 +3620,7 @@ The model foregrounded themes of existential wonder, the primacy of the journey 
 Medium. The essay is coherent and internally consistent, but its highly generic, inspirational register and lack of distinctive voice or surprising content suggest a model defaulting to safe, polished uplift rather than revealing a more individuated expressive pattern.
 
 ---
-## Sample BV1_19825 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_9.json
+## Sample BV1_20075 — llama-3-2-3b-instruct-or-pin-cloudflare/VARY_9.json
 
 Source model: `meta-llama/llama-3.2-3b-instruct`  
 Cell: `llama-3-2-3b-instruct-or-pin-cloudflare`  

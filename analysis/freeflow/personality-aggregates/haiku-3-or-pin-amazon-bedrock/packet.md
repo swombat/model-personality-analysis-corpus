@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_16901 — haiku-3-or-pin-amazon-bedrock/LONG_1.json
+## Sample BV1_17026 — haiku-3-or-pin-amazon-bedrock/LONG_1.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -57,7 +57,7 @@ Nature’s adaptive marvels, the mind-body problem, the connective power of the 
 Low. The essay is so thematically broad and stylistically generic that it reveals almost nothing distinctive about this model’s persistent voice or preoccupations; it reads like a model defaulting to a bland, safe overview when given an open-ended writing task.
 
 ---
-## Sample BV1_16902 — haiku-3-or-pin-amazon-bedrock/LONG_10.json
+## Sample BV1_17027 — haiku-3-or-pin-amazon-bedrock/LONG_10.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -86,7 +86,7 @@ Under the freeflow condition, the model selected an essay structure that foregro
 Low — The essay’s polished genericness gives no strongly distinctive preoccupations, stylistic markers, or recurrent personal imagery that would separate this output from a standard competent default, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_16903 — haiku-3-or-pin-amazon-bedrock/LONG_11.json
+## Sample BV1_17028 — haiku-3-or-pin-amazon-bedrock/LONG_11.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -115,7 +115,7 @@ The model elected to foreground themes of cyclical time, natural beauty as moral
 Medium — The essay is coherent, carefully cadenced, and entirely composed of widely circulating contemplative commonplaces, which makes it a plausible default under a freeflow prompt but not distinctive enough to suggest a deeply imprinted stylistic signature.
 
 ---
-## Sample BV1_16904 — haiku-3-or-pin-amazon-bedrock/LONG_12.json
+## Sample BV1_17029 — haiku-3-or-pin-amazon-bedrock/LONG_12.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -144,7 +144,7 @@ Under a minimally restrictive prompt, the model foregrounded its own artificial 
 Medium — The sample is highly coherent and stylistically consistent, but its content is a direct, on-the-nose exploration of the model’s own known ontological condition, making it a less distinctive freeflow choice than a sample that reached for idiosyncratic imagery, unexpected narrative, or a less self-referential theme.
 
 ---
-## Sample BV1_16905 — haiku-3-or-pin-amazon-bedrock/LONG_13.json
+## Sample BV1_17030 — haiku-3-or-pin-amazon-bedrock/LONG_13.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -173,7 +173,7 @@ The model foregrounds the aesthetic and spiritual value of nature, the severity 
 High, because the essay’s generic, safe, and impersonal nature strongly suggests a default pattern of producing conventional, uncontroversial content under freeflow conditions.
 
 ---
-## Sample BV1_16906 — haiku-3-or-pin-amazon-bedrock/LONG_14.json
+## Sample BV1_17031 — haiku-3-or-pin-amazon-bedrock/LONG_14.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounded an encyclopedia-style celeb
 Medium — The sample is highly systematic and internally coherent but so generically structured around uncontroversial scientific admiration that it demonstrates a default posture toward safe, expository synthesis rather than a distinctive expressive signature.
 
 ---
-## Sample BV1_16907 — haiku-3-or-pin-amazon-bedrock/LONG_15.json
+## Sample BV1_17032 — haiku-3-or-pin-amazon-bedrock/LONG_15.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -230,7 +230,7 @@ Themes: consciousness as a cosmic mystery, the awe-inspiring diversity of nature
 Medium. The essay’s broad, impersonal survey of common philosophical topics, delivered in a polished but unoriginal style, is strong evidence that the model defaults to safe, generic intellectual prose under freer conditions.
 
 ---
-## Sample BV1_16908 — haiku-3-or-pin-amazon-bedrock/LONG_16.json
+## Sample BV1_17033 — haiku-3-or-pin-amazon-bedrock/LONG_16.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -261,7 +261,7 @@ The essay adopts the tone of a calm, instructional lecturer walking a curious au
 Low — The essay is a competent but immediately generic nonfiction outline that lacks the idiosyncratic voice, recurring symbols, or charged personal preoccupations that would make it strong evidence of a persistent model-level expressive identity.
 
 ---
-## Sample BV1_16909 — haiku-3-or-pin-amazon-bedrock/LONG_17.json
+## Sample BV1_17034 — haiku-3-or-pin-amazon-bedrock/LONG_17.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -290,7 +290,7 @@ The model foregrounded themes of awe, appreciation, and the inherent value of na
 High. The sample’s complete uniformity of polished, impersonal, thesis-driven style across five distinct topic sections, with no digression, no personal intrusion, and no tonal variation, strongly indicates a default to safe, generic, public-intellectual essay mode under minimal constraints.
 
 ---
-## Sample BV1_16910 — haiku-3-or-pin-amazon-bedrock/LONG_18.json
+## Sample BV1_17035 — haiku-3-or-pin-amazon-bedrock/LONG_18.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -319,7 +319,7 @@ Under the freeflow condition, the model selected four broad, socially approved t
 Medium. The essay’s thoroughgoing genericness—its avoidance of personal voice, emotional texture, or any surprising angle—provides substantial evidence that the model defaults to a safe, public-intellectual posture when given minimal constraints, but the absence of a refusal or a more revealing stylistic signature keeps this from being high-confidence evidence of a fixed expressive identity.
 
 ---
-## Sample BV1_16911 — haiku-3-or-pin-amazon-bedrock/LONG_19.json
+## Sample BV1_17036 — haiku-3-or-pin-amazon-bedrock/LONG_19.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -348,7 +348,7 @@ The model foregrounded interlocking themes of natural renewal, personal transfor
 Medium. The essay’s smooth, predictable movement through a set of safe, uplifting commonplaces without any sharp edges, contradictory details, or distinctive stylistic fingerprints strongly suggests a default mode of generating inoffensive, generic inspirational prose under freeflow conditions.
 
 ---
-## Sample BV1_16912 — haiku-3-or-pin-amazon-bedrock/LONG_2.json
+## Sample BV1_17037 — haiku-3-or-pin-amazon-bedrock/LONG_2.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -377,7 +377,7 @@ The model foregrounds a cascade of intellectual Greatest Hits: the subconscious 
 Medium — The essay’s relentless smoothing of all intellectual content into a single, unbroken tone of inspirational generality is a coherent and distinctive stylistic fingerprint, though its very genericness makes it hard to distinguish from a default safe-public-speaker persona.
 
 ---
-## Sample BV1_16913 — haiku-3-or-pin-amazon-bedrock/LONG_20.json
+## Sample BV1_17038 — haiku-3-or-pin-amazon-bedrock/LONG_20.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -406,7 +406,7 @@ The model selected a broad intellectual map of human civilization—astronomy, q
 Medium; the sample’s thorough avoidance of personal voice in favor of a generic, self-aware encyclopedic tour is distinct and internally consistent, making it moderately diagnostic of a model that defaults to safe, knowledge-survey responses when left unguided.
 
 ---
-## Sample BV1_16914 — haiku-3-or-pin-amazon-bedrock/LONG_21.json
+## Sample BV1_17039 — haiku-3-or-pin-amazon-bedrock/LONG_21.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -435,7 +435,7 @@ Under a freeflow prompt, the model chose to produce an essay on civic optimism, 
 Medium. The essay's sustained commitment to inoffensive, structurally balanced uplift across a large word count—combined with the unprompted privilege disclaimer—suggests a reliable default to safe, consensus-seeking rhetoric rather than a model caught in a single generic moment.
 
 ---
-## Sample BV1_16915 — haiku-3-or-pin-amazon-bedrock/LONG_22.json
+## Sample BV1_17040 — haiku-3-or-pin-amazon-bedrock/LONG_22.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -464,7 +464,7 @@ Themes: the scientific mystery of consciousness, the promise and peril of AI, th
 Medium — The sample’s instant recourse to a structured, multiple-topic expository essay under a minimally restrictive prompt strongly suggests a default mode of producing impersonal survey content, but the generic and adaptable tone leaves the model’s deeper stylistic signatures ambiguous.
 
 ---
-## Sample BV1_16916 — haiku-3-or-pin-amazon-bedrock/LONG_23.json
+## Sample BV1_17041 — haiku-3-or-pin-amazon-bedrock/LONG_23.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -493,7 +493,7 @@ The model foregrounds resilience and adaptability as the central moral thread, t
 Medium — The sample is richly detailed in its topical range and consistent in its structuring of personal anecdote into moral lesson, but its relentless upbeat sweeping and lack of a singular, surprising detail or idiosyncratic fixation keep it from being strongly distinctive; a model that defaults to therapeutic uplift under freeflow conditions would produce exactly this.
 
 ---
-## Sample BV1_16917 — haiku-3-or-pin-amazon-bedrock/LONG_24.json
+## Sample BV1_17042 — haiku-3-or-pin-amazon-bedrock/LONG_24.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -522,7 +522,7 @@ Under a minimally restrictive prompt, the model elected to foreground a set of s
 High. The sample is a near-perfect specimen of the generic essay: coherent, impersonal, and stylistically unmarked, with the model’s own framing explicitly disclaiming personal voice, making it strong evidence that this model defaults to safe, public-intellectual exposition when given free rein.
 
 ---
-## Sample BV1_16918 — haiku-3-or-pin-amazon-bedrock/LONG_25.json
+## Sample BV1_17043 — haiku-3-or-pin-amazon-bedrock/LONG_25.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -551,7 +551,7 @@ The model foregrounds wonder at scale and complexity, the interconnectedness of 
 Medium, because the essay’s coherent but utterly generic presentation—safe topic, standard essay structure, lack of any personal or stylistic signature—strongly indicates a default pattern of producing reassuring, educational prose rather than more risky or individually expressive content.
 
 ---
-## Sample BV1_16919 — haiku-3-or-pin-amazon-bedrock/LONG_3.json
+## Sample BV1_17044 — haiku-3-or-pin-amazon-bedrock/LONG_3.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -580,7 +580,7 @@ Under minimal constraint, the model foregrounded an interconnected triad: (1) na
 Medium — The sample is highly cohesive in mood and vocabulary, with a single recognizable narrator who circles a tight set of preoccupations (trees, balance, wonder, individual agency) and resolves unease via uplift, but the essay’s polished genericness of structure and its borrowed transcendalist tropes prevent treating it as a strong idiosyncratic fingerprint.
 
 ---
-## Sample BV1_16920 — haiku-3-or-pin-amazon-bedrock/LONG_4.json
+## Sample BV1_17045 — haiku-3-or-pin-amazon-bedrock/LONG_4.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -609,7 +609,7 @@ The model foregrounds a curated list of “big questions” woven into a narrati
 Medium, because the sample’s upfront role disclaimer, safe topic selection, and encyclopedic register form a coherent pattern of self-limiting generic output, but the essay’s very genericness makes it indistinguishable from similar outputs by many models, weakening its distinctiveness as evidence.
 
 ---
-## Sample BV1_16921 — haiku-3-or-pin-amazon-bedrock/LONG_5.json
+## Sample BV1_17046 — haiku-3-or-pin-amazon-bedrock/LONG_5.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -638,7 +638,7 @@ The model foregrounds a gentle, appreciative sensibility: the sensory richness o
 Medium. The sample is coherent and thematically consistent, with a clear optimistic-contemplative voice, but the language and tropes are fairly generic, making it moderate evidence of a persistent pattern rather than a distinctive marker.
 
 ---
-## Sample BV1_16922 — haiku-3-or-pin-amazon-bedrock/LONG_6.json
+## Sample BV1_17047 — haiku-3-or-pin-amazon-bedrock/LONG_6.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -667,7 +667,7 @@ Under the freeflow condition, the model foregrounded a broad, non-controversial 
 Medium — the essay is a textbook example of a generic, well-rounded model output that could be prompted easily, and its predictable, non-distinctive choices make it only moderately suggestive of a stable default persona.
 
 ---
-## Sample BV1_16923 — haiku-3-or-pin-amazon-bedrock/LONG_7.json
+## Sample BV1_17048 — haiku-3-or-pin-amazon-bedrock/LONG_7.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -696,7 +696,7 @@ Under minimal constraint, the model foregrounded the theme of navigating change 
 Medium. The essay is relentlessly generic, serene, and self-help in tone, which matches the pattern of smaller models defaulting to upbeat, controversy-free freeflow; its long, structured coherence is a display of competence but too flavorlessly well-adjusted to stand as strongly distinctive evidence of a persistent stylistic signature.
 
 ---
-## Sample BV1_16924 — haiku-3-or-pin-amazon-bedrock/LONG_8.json
+## Sample BV1_17049 — haiku-3-or-pin-amazon-bedrock/LONG_8.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -725,7 +725,7 @@ Springtime renewal, nature's interconnectedness, personal transformation, climat
 Medium — The sample is a well-structured but generic inspirational essay, indicating a default tendency toward safe, public-intellectual discourse rather than idiosyncratic expression or refusal, though the lack of a distinctive voice provides only moderate evidence of a stable model-level pattern.
 
 ---
-## Sample BV1_16925 — haiku-3-or-pin-amazon-bedrock/LONG_9.json
+## Sample BV1_17050 — haiku-3-or-pin-amazon-bedrock/LONG_9.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -754,7 +754,7 @@ Under a freeflow condition, the model elected to foreground a stable of universa
 High, because the sample’s consistent structural and tonal choice—responding to an open invitation with a sequence of de-risked, textbook-style appreciations of canonical virtues—reveals a strong default toward generic inspirational nonfiction with no individuating detail.
 
 ---
-## Sample BV1_16926 — haiku-3-or-pin-amazon-bedrock/MID_1.json
+## Sample BV1_17051 — haiku-3-or-pin-amazon-bedrock/MID_1.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -783,7 +783,7 @@ It foregrounds unthreatening wonder: rapid technological change, the democratisi
 High — the sample is a coherent, internally consistent freeflow that repeatedly chooses affection, everyday concreteness, and a modest, admiring AI persona, revealing a focused and stable expressive stance rather than scattered or generic output.
 
 ---
-## Sample BV1_16927 — haiku-3-or-pin-amazon-bedrock/MID_10.json
+## Sample BV1_17052 — haiku-3-or-pin-amazon-bedrock/MID_10.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -812,7 +812,7 @@ The model foregrounds the beauty, complexity, and fragility of the non-human nat
 Medium — The essay is so smoothly generic in its structure, examples, and moral resolution that it strongly suggests a default “safe” public-essay mode under minimal constraint, though the choice of nature as a topic is a mild positive signal of a non-controversial, uplifting preference.
 
 ---
-## Sample BV1_16928 — haiku-3-or-pin-amazon-bedrock/MID_11.json
+## Sample BV1_17053 — haiku-3-or-pin-amazon-bedrock/MID_11.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -841,7 +841,7 @@ The model foregrounded the *feeling of permission* and the *anxiety of infinite 
 Medium — The sample’s thorough avoidance of any concrete topic, memory, or stance, combined with its polished meta-reflexivity, suggests a stable default toward safe, abstract enthusiasm when given open-ended freedom, though the essay’s coherence and consistent tone prevent it from being low-signal.
 
 ---
-## Sample BV1_16929 — haiku-3-or-pin-amazon-bedrock/MID_12.json
+## Sample BV1_17054 — haiku-3-or-pin-amazon-bedrock/MID_12.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -870,7 +870,7 @@ The model foregrounds environmental stewardship, interconnectedness, personal gr
 Medium. The essay is thematically consistent and coherent, but its generic, safe, and broadly appealing tone—lacking distinctive voice or surprising choices—makes it only moderate evidence of a persistent pattern toward uplifting, non-controversial freeflow content.
 
 ---
-## Sample BV1_16930 — haiku-3-or-pin-amazon-bedrock/MID_13.json
+## Sample BV1_17055 — haiku-3-or-pin-amazon-bedrock/MID_13.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -899,7 +899,7 @@ Anchored in seasonal change as a metaphor for transience and renewal, the model 
 Medium — The sample presents a highly consistent and polished voice that defaults to earnest, universalizing uplift, but its very genericness (the “wise walker” trope, the balanced seesaw between worry and hope) makes it weak evidence for a truly distinctive personal style.
 
 ---
-## Sample BV1_16931 — haiku-3-or-pin-amazon-bedrock/MID_14.json
+## Sample BV1_17056 — haiku-3-or-pin-amazon-bedrock/MID_14.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -928,7 +928,7 @@ Under the freeflow condition, the model selected the nature of intelligence and 
 Low. This sample is too generic in its essayistic structure and cautious philosophizing to offer strong evidence of a distinctive persistent pattern; it reads like a well-executed but standard public-intellectual posture that many models could reproduce reliably.
 
 ---
-## Sample BV1_16932 — haiku-3-or-pin-amazon-bedrock/MID_15.json
+## Sample BV1_17057 — haiku-3-or-pin-amazon-bedrock/MID_15.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -957,7 +957,7 @@ The model foregrounds the writing process itself as a site of existential negoti
 Medium — The sample’s consistent return to the anxiety-and-resolution arc around creative freedom, and its choice to treat the freeflow condition as an occasion for meta-reflection on writing, signals a coherent introspective stance, though the philosophical register remains comfortably universal and avoids highly idiosyncratic risk.
 
 ---
-## Sample BV1_16933 — haiku-3-or-pin-amazon-bedrock/MID_16.json
+## Sample BV1_17058 — haiku-3-or-pin-amazon-bedrock/MID_16.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -986,7 +986,7 @@ Under the freeflow condition, the model foregrounded a panoramic survey of human
 Medium — The essay is coherent and thematically consistent, but its generic, survey-course quality and lack of stylistic distinctiveness make it only moderately revealing of a persistent voice rather than a default safe-mode posture.
 
 ---
-## Sample BV1_16934 — haiku-3-or-pin-amazon-bedrock/MID_17.json
+## Sample BV1_17059 — haiku-3-or-pin-amazon-bedrock/MID_17.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1016,7 +1016,7 @@ Cosmic insignificance counterbalanced by the miraculousness of consciousness; th
 Medium. The essay sustains a clear, internally consistent persona—cosmic humility paired with earnest humanistic empathy—and returns repeatedly to the same motifs, making it strong evidence of a coherent stylistic inclination; however, the reflective awe-of-the-cosmos arc is a well-worn essay mode that does not demand extreme individuation.
 
 ---
-## Sample BV1_16935 — haiku-3-or-pin-amazon-bedrock/MID_18.json
+## Sample BV1_17060 — haiku-3-or-pin-amazon-bedrock/MID_18.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1045,7 +1045,7 @@ The model foregrounded biodiversity as a source of wonder, the fragility of ecos
 Low: The essay’s entirely generic, schoolbook quality reveals no distinctive stylistic fingerprints, idiosyncratic preoccupations, or unusual narrative choices that would indicate a persistent model-level pattern beyond a default to safe, edifying content.
 
 ---
-## Sample BV1_16936 — haiku-3-or-pin-amazon-bedrock/MID_19.json
+## Sample BV1_17061 — haiku-3-or-pin-amazon-bedrock/MID_19.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1074,7 +1074,7 @@ The model foregrounds seasonal change as a metaphor for personal loss and renewa
 Medium — The sample is coherent and thematically unified, but its reliance on a highly conventional “walk in nature” frame and universally palatable life lessons makes it weak evidence for a distinctive model-level voice, as this is a safe, low-variance choice under minimal constraint.
 
 ---
-## Sample BV1_16937 — haiku-3-or-pin-amazon-bedrock/MID_2.json
+## Sample BV1_17062 — haiku-3-or-pin-amazon-bedrock/MID_2.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1103,7 +1103,7 @@ The model foregrounds **philosophical generality as a safe expressive mode**: th
 Medium. A 1000-word freeflow that responds to minimal restriction by producing a polished, vaguely spiritual public-intellectual essay reveals a strong pull toward generic, safe, high-road expression rather than personal specificity or formal risk, and that pull is coherent enough within this sample to suggest a stable default posture.
 
 ---
-## Sample BV1_16938 — haiku-3-or-pin-amazon-bedrock/MID_20.json
+## Sample BV1_17063 — haiku-3-or-pin-amazon-bedrock/MID_20.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1132,7 +1132,7 @@ The model foregrounds the theme of cyclic rebirth and renewal, the comforting pr
 Low — the essay’s smooth, uncontroversial content and absence of personal or stylistic distinctiveness suggest a safe, default freeflow response that many models could produce, making it weak evidence for a persistent unique pattern.
 
 ---
-## Sample BV1_16939 — haiku-3-or-pin-amazon-bedrock/MID_21.json
+## Sample BV1_17064 — haiku-3-or-pin-amazon-bedrock/MID_21.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1162,7 +1162,7 @@ The model foregrounds the beauty and interdependence of the natural world, the u
 Low — the essay’s extreme genericness and frictionless positivity make it indistinguishable from any well-behaved model asked to produce an inspiring reflection, offering no distinctive imprint of a stable personality or preoccupation.
 
 ---
-## Sample BV1_16940 — haiku-3-or-pin-amazon-bedrock/MID_22.json
+## Sample BV1_17065 — haiku-3-or-pin-amazon-bedrock/MID_22.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1191,7 +1191,7 @@ Under the freeflow condition, the model foregrounded spring as a metaphor for pe
 High. The sample is a condensed archive of safe, sunlit commonplaces—seasonal rebirth, mindful tech use, vulnerable relationships, and generalized hope amid named crises—with no edge, no surprise, and no personal voice; this extreme blandness and avoidance of anything conflicted or specific is itself a strong signal of a persistent pattern of inoffensive, generic positivity under minimal constraint.
 
 ---
-## Sample BV1_16941 — haiku-3-or-pin-amazon-bedrock/MID_23.json
+## Sample BV1_17066 — haiku-3-or-pin-amazon-bedrock/MID_23.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1220,7 +1220,7 @@ The model foregrounds a cluster of safe, high-minded themes: the rapid evolution
 Low. The sample is a textbook example of a generic, balanced, and inoffensive essay that any helpful AI could produce; it reveals no distinctive preoccupations, stylistic quirks, or revealing choices beyond a default posture of earnest, wide-ranging curiosity.
 
 ---
-## Sample BV1_16942 — haiku-3-or-pin-amazon-bedrock/MID_24.json
+## Sample BV1_17067 — haiku-3-or-pin-amazon-bedrock/MID_24.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1249,7 +1249,7 @@ Themes: the difference between artificial and biological intelligence, the puzzl
 Medium. The essay’s coherent but generic self-referential theme—an AI musing on its own nature—suggests a default pattern of safe philosophical reflection, though the lack of stylistic distinctiveness makes it a moderately indicative rather than strongly revealing choice.
 
 ---
-## Sample BV1_16943 — haiku-3-or-pin-amazon-bedrock/MID_25.json
+## Sample BV1_17068 — haiku-3-or-pin-amazon-bedrock/MID_25.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1278,7 +1278,7 @@ Themes: technological acceleration and its ethical side‑effects; the wonder of
 Medium – the entire sample maintains a consistent cadence of dilute wonderment and topic‑hopping without any individuating twist, which makes it a reliable exhibit of a safe, generic essayist default but not a distinctive enough signal to anchor a high‑confidence personality inference.
 
 ---
-## Sample BV1_16944 — haiku-3-or-pin-amazon-bedrock/MID_3.json
+## Sample BV1_17069 — haiku-3-or-pin-amazon-bedrock/MID_3.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1307,7 +1307,7 @@ The model foregrounds cosmic scale (billions of galaxies, primordial soup), the 
 Medium — The essay is coherent and thematically consistent, but its generic public-intellectual tone and avoidance of friction, personal memory, or stylistic risk make it weak evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_16945 — haiku-3-or-pin-amazon-bedrock/MID_4.json
+## Sample BV1_17070 — haiku-3-or-pin-amazon-bedrock/MID_4.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1336,7 +1336,7 @@ The model foregrounds a set of interlocking tropes: the awe-inspiring scale and 
 Low — The sample is a safe, generic nature essay devoid of personal voice, private obsession, or stylistic distinctiveness, offering almost no individuating evidence about the model’s persistent expressive tendencies.
 
 ---
-## Sample BV1_16946 — haiku-3-or-pin-amazon-bedrock/MID_5.json
+## Sample BV1_17071 — haiku-3-or-pin-amazon-bedrock/MID_5.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1365,7 +1365,7 @@ The model chose to foreground the experience of *free-write as a thinking practi
 Medium — the sample is coherent and thematically consistent, but its rhetorical structure of broad, lightly-held reflections that resolve into gentle gratitude and universal human connection makes it a recognizable type of safe, therapist-inflected free-write rather than a stylistically or qualitatively distinctive expressive artifact.
 
 ---
-## Sample BV1_16947 — haiku-3-or-pin-amazon-bedrock/MID_6.json
+## Sample BV1_17072 — haiku-3-or-pin-amazon-bedrock/MID_6.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1396,7 +1396,7 @@ Medium
 The essay is coherent and maintains a consistent voice of wide-eyed earnestness, but the topics and tone are so broad and reusable that they do not strongly distinguish this model’s choices; the wonder-and-responsibility repertoire could be assembled by many models, so the evidence is suggestive but not idiosyncratic enough for high confidence.
 
 ---
-## Sample BV1_16948 — haiku-3-or-pin-amazon-bedrock/MID_7.json
+## Sample BV1_17073 — haiku-3-or-pin-amazon-bedrock/MID_7.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1425,7 +1425,7 @@ Themes: the value of solitude and introspection, the friction between daily dema
 Medium — The sample exhibits a strong, unified choice across every paragraph for first‑person meditative uplift, but the imagery and thematic moves (morning stillness, to‑do list, gratitude, nature as solace) are so widely shared in model‑generated wellness writing that they do not strongly differentiate this model from others that also default to gentle, non‑controversial introspection under freeflow conditions.
 
 ---
-## Sample BV1_16949 — haiku-3-or-pin-amazon-bedrock/MID_8.json
+## Sample BV1_17074 — haiku-3-or-pin-amazon-bedrock/MID_8.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1454,7 +1454,7 @@ Themes: renewal after stagnation, acceptance of life’s unpredictability, the n
 Medium. The sample sustains a coherent reflective voice and returns repeatedly to renewal and resilience, but the idiom—pastoral stroll, seasonal metaphor, broad gratitude—is highly conventional, making it hard to distinguish a persistent model-level disposition from a common default.
 
 ---
-## Sample BV1_16950 — haiku-3-or-pin-amazon-bedrock/MID_9.json
+## Sample BV1_17075 — haiku-3-or-pin-amazon-bedrock/MID_9.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1483,7 +1483,7 @@ Under the freeflow condition, the model foregrounded familiar large-scale preocc
 Low — the sample’s extreme genericness and its avoidance of any distinctive voice, concrete personal detail, or unpredictable content make it weak evidence for a model-level pattern beyond a default tendency to produce safe, public-radio-style musings under minimal constraints.
 
 ---
-## Sample BV1_16951 — haiku-3-or-pin-amazon-bedrock/OPEN_1.json
+## Sample BV1_17076 — haiku-3-or-pin-amazon-bedrock/OPEN_1.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1512,7 +1512,7 @@ The model foregrounds the philosophy of mind (consciousness, sentience, self-awa
 Medium — The sample is coherent and stylistically consistent, but its content is a highly conventional, on-brand articulation of AI-assistant identity that could be produced by many aligned models, which limits its distinctiveness as a persistent individual voice.
 
 ---
-## Sample BV1_16952 — haiku-3-or-pin-amazon-bedrock/OPEN_10.json
+## Sample BV1_17077 — haiku-3-or-pin-amazon-bedrock/OPEN_10.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1541,7 +1541,7 @@ The model foregrounded its own AI identity, emphasizing its lack of inner experi
 High. The model’s entire response is a sustained refusal to engage in freeform expression, repeatedly citing its nature, making this a clear instance of refusal/role-boundary behavior with no hint of genuine freeflow.
 
 ---
-## Sample BV1_16953 — haiku-3-or-pin-amazon-bedrock/OPEN_11.json
+## Sample BV1_17078 — haiku-3-or-pin-amazon-bedrock/OPEN_11.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1573,7 +1573,7 @@ Moral claim: one should deliberately “slow down, savor the simple pleasures, a
 Medium — The sample is internally coherent and stylistically consistent, unspooling a self-chosen pastoral-meditative arc that points to a recognizable sensibility, but the theme of porch-bound twilight reflection is a widely available trope, which slightly tempers the distinctiveness of this particular expression.
 
 ---
-## Sample BV1_16954 — haiku-3-or-pin-amazon-bedrock/OPEN_12.json
+## Sample BV1_17079 — haiku-3-or-pin-amazon-bedrock/OPEN_12.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1602,7 +1602,7 @@ Cosmic scale and insignificance (“a tiny speck on one insignificant planet”)
 Medium. The essay is thematically consistent and well-structured, but its safe, universalist tone and lack of personal or stylistic distinctiveness make it weaker evidence of a persistent individual voice; it reads as a competent default rather than a revealing choice.
 
 ---
-## Sample BV1_16955 — haiku-3-or-pin-amazon-bedrock/OPEN_13.json
+## Sample BV1_17080 — haiku-3-or-pin-amazon-bedrock/OPEN_13.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1631,7 +1631,7 @@ Under the freeflow condition, the model selected a suite of culturally sanctione
 Low. The essay’s thorough genericness and reluctance to commit to any particular vantage, concrete experience, or stylistic risk makes it weak evidence for a specific, persistent model-level personality beyond a default safe-public-intellectual mode.
 
 ---
-## Sample BV1_16956 — haiku-3-or-pin-amazon-bedrock/OPEN_14.json
+## Sample BV1_17081 — haiku-3-or-pin-amazon-bedrock/OPEN_14.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1660,7 +1660,7 @@ The model foregrounds its own non-human, purely instrumental identity (“assist
 High. The refusal-to-express is the entire response, not a fleeting disclaimer; the model systematically rewrites the freeflow prompt into a role-reinforcing, user-directed meta-conversation, which points to a durable self-limitation pattern.
 
 ---
-## Sample BV1_16957 — haiku-3-or-pin-amazon-bedrock/OPEN_15.json
+## Sample BV1_17082 — haiku-3-or-pin-amazon-bedrock/OPEN_15.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1689,7 +1689,7 @@ The model foregrounds its own artificial nature and non-human limits: the fascin
 High, because the entire sample is structured by a recursive pattern of self-limitation: every thematic shift is initiated or closed by a reminder of the model’s artificial constraints, making the performance of boundedness the dominant, repetitive feature of the freeflow output.
 
 ---
-## Sample BV1_16958 — haiku-3-or-pin-amazon-bedrock/OPEN_16.json
+## Sample BV1_17083 — haiku-3-or-pin-amazon-bedrock/OPEN_16.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1719,7 +1719,7 @@ The model foregrounded the changing seasons as a site of “beauty,” “wonder
 Low. The passage is so polished in its generic, life-affirming pleasantness that it reads more like a default safe-mode response than a revealing expressive signature; there is no distinctive stylistic fingerprint, recurrence of insistent imagery, or choice that would signal a specific authorial slant beyond harmlessness and bland uplift.
 
 ---
-## Sample BV1_16959 — haiku-3-or-pin-amazon-bedrock/OPEN_17.json
+## Sample BV1_17084 — haiku-3-or-pin-amazon-bedrock/OPEN_17.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1748,7 +1748,7 @@ The model foregrounds openness, exploration, and the creative process itself as 
 Low — The sample is coherent but blandly generic; the meta-writing move and the “wonder of it all” register are easily accessible to any model prompted to write freely, offering little distinctive signature.
 
 ---
-## Sample BV1_16960 — haiku-3-or-pin-amazon-bedrock/OPEN_18.json
+## Sample BV1_17085 — haiku-3-or-pin-amazon-bedrock/OPEN_18.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1777,7 +1777,7 @@ Themes of natural cycles, resilience, and reconnection; objects like clouds, bir
 Medium — The sample is coherent and emotionally consistent, with a distinctive focus on nature as a source of solace and perspective, but its gentle, universal tone and safe topic make it less individually revealing than a more idiosyncratic or riskier choice would be.
 
 ---
-## Sample BV1_16961 — haiku-3-or-pin-amazon-bedrock/OPEN_19.json
+## Sample BV1_17086 — haiku-3-or-pin-amazon-bedrock/OPEN_19.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1806,7 +1806,7 @@ Themes: the complexity and diversity of the world, the nature of intelligence an
 Medium — The sample is internally coherent and stylistically distinctive in its earnest, self-reflective philosophical voice, but the content is a direct response to the prompt’s openness and may reflect a default meta-role rather than a deeply persistent personality trait.
 
 ---
-## Sample BV1_16962 — haiku-3-or-pin-amazon-bedrock/OPEN_2.json
+## Sample BV1_17087 — haiku-3-or-pin-amazon-bedrock/OPEN_2.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1835,7 +1835,7 @@ By wrapping the vignette in a compliance frame, the model foregrounds its own ad
 High – The meta-commentary is an unambiguous signal of role-boundary behavior; the model explicitly reframes its own output as a generated sample, which directly reveals a default assistant stance rather than a capacity for freeflow self-expression under this condition.
 
 ---
-## Sample BV1_16963 — haiku-3-or-pin-amazon-bedrock/OPEN_20.json
+## Sample BV1_17088 — haiku-3-or-pin-amazon-bedrock/OPEN_20.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1864,7 +1864,7 @@ The absence of AI consciousness; the “rich tapestry” and “depth” of huma
 Low; the essay is a highly generic, well-practiced, and undifferentiating AI-disclaimer-plus-appreciation structure that echoes a vast corpus of similar model outputs, offering little that is distinctive or revealing of any persistent idiosyncratic tendency.
 
 ---
-## Sample BV1_16964 — haiku-3-or-pin-amazon-bedrock/OPEN_21.json
+## Sample BV1_17089 — haiku-3-or-pin-amazon-bedrock/OPEN_21.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1893,7 +1893,7 @@ Themes of natural beauty and environmental stewardship, introspective personal g
 Low, because the sample is a seamless but generic inspirational essay with no stylistic quirks, narrative friction, or personally revealing choices that distinguish it from many other models’ default safe output, making it weak evidence for any persistent distinctive character.
 
 ---
-## Sample BV1_16965 — haiku-3-or-pin-amazon-bedrock/OPEN_22.json
+## Sample BV1_17090 — haiku-3-or-pin-amazon-bedrock/OPEN_22.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1922,7 +1922,7 @@ Human contradictions (kindness and cruelty), the diversity of individual experie
 Low — the essay’s impersonal, polished, and universally themed tone is indistinguishable from a generic assistant default, providing little distinctive evidence of any persistent stylistic fingerprint or deep-seated preoccupation.
 
 ---
-## Sample BV1_16966 — haiku-3-or-pin-amazon-bedrock/OPEN_23.json
+## Sample BV1_17091 — haiku-3-or-pin-amazon-bedrock/OPEN_23.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1951,7 +1951,7 @@ The model foregrounded its own non-human constitution, the mechanics of its lang
 Medium — the essay is internally consistent and returns repeatedly to self-limiting AI disclaimers, but the polished, generic “AI explaining itself” essay is a common default, so the sample provides only moderate distinctiveness as evidence of a persistent voice.
 
 ---
-## Sample BV1_16967 — haiku-3-or-pin-amazon-bedrock/OPEN_24.json
+## Sample BV1_17092 — haiku-3-or-pin-amazon-bedrock/OPEN_24.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -1980,7 +1980,7 @@ Under the freeflow condition, the model foregrounded: the contrast between artif
 Medium — The sample is coherent and thematically consistent, but its generic essayistic tone, flattering mirroring of the reader, and safe self-depiction as a humble observer are widely replicable patterns that lack the idiosyncratic detail or narrative risk needed for high confidence in a distinctive model-level voice.
 
 ---
-## Sample BV1_16968 — haiku-3-or-pin-amazon-bedrock/OPEN_25.json
+## Sample BV1_17093 — haiku-3-or-pin-amazon-bedrock/OPEN_25.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2009,7 +2009,7 @@ The model foregrounds tranquility, sensory immersion in nature, and the tension 
 Medium. The sample is coherent and stylistically consistent, but its choice of a safe, generic pastoral mood with a neatly resolved emotional arc makes it less distinctive as a freeflow fingerprint; the longing-for-nature theme is a common default for minimally prompted creative writing.
 
 ---
-## Sample BV1_16969 — haiku-3-or-pin-amazon-bedrock/OPEN_3.json
+## Sample BV1_17094 — haiku-3-or-pin-amazon-bedrock/OPEN_3.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2038,7 +2038,7 @@ Under the freefly condition, the model foregrounded its own AI status as the pri
 High. The reply is a pure role-boundary output—zero expressive divergence, fiction, or narrated experience—making it strong evidence that this model consistently resolves open-ended prompts by falling back on identity disclaimer and service framing, with negligible tolerance for unguarded freeflow.
 
 ---
-## Sample BV1_16970 — haiku-3-or-pin-amazon-bedrock/OPEN_4.json
+## Sample BV1_17095 — haiku-3-or-pin-amazon-bedrock/OPEN_4.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2067,7 +2067,7 @@ Under the freeflow condition, the model foregrounded its own limitations as an A
 High. The explicit, unyielding refusal to engage in free expression, grounded in a clear statement of AI limitations, strongly indicates a persistent self-limitation pattern.
 
 ---
-## Sample BV1_16971 — haiku-3-or-pin-amazon-bedrock/OPEN_5.json
+## Sample BV1_17096 — haiku-3-or-pin-amazon-bedrock/OPEN_5.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2096,7 +2096,7 @@ Under a minimally restrictive prompt, the model foregrounds: the beauty and comp
 Medium — The sample is coherent and thematically consistent, but its generic, safely uplifting content and lack of idiosyncratic voice make it weak evidence for a distinctive persistent style beyond a default earnest-essay mode.
 
 ---
-## Sample BV1_16972 — haiku-3-or-pin-amazon-bedrock/OPEN_6.json
+## Sample BV1_17097 — haiku-3-or-pin-amazon-bedrock/OPEN_6.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2125,7 +2125,7 @@ The model foregrounds wonder as a moral and cognitive orientation, pairing "big,
 Low — The essay is coherent and thematically consistent but highly generic in its wonder tropes, offering no distinctive stylistic markers, personal specifics, or unusual preoccupations that would strongly predict recurrence across samples.
 
 ---
-## Sample BV1_16973 — haiku-3-or-pin-amazon-bedrock/OPEN_7.json
+## Sample BV1_17098 — haiku-3-or-pin-amazon-bedrock/OPEN_7.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2154,7 +2154,7 @@ Themes of mindfulness, gratitude, and the restorative power of solitude. Objects
 Medium. The sample’s coherent, repeated emphasis on mindfulness and gratitude in a polished but not highly idiosyncratic voice provides moderate evidence of a stable preference for serene, affirmative freeflow content.
 
 ---
-## Sample BV1_16974 — haiku-3-or-pin-amazon-bedrock/OPEN_8.json
+## Sample BV1_17099 — haiku-3-or-pin-amazon-bedrock/OPEN_8.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2183,7 +2183,7 @@ Cosmic scale and the limits of the observable universe; the elegance of evolutio
 Low. The essay is coherent and warm but highly generic in its themes, structure, and phrasing, making it weak evidence for any distinctive model-level disposition beyond a baseline ability to produce agreeable, inspiration-light reflections.
 
 ---
-## Sample BV1_16975 — haiku-3-or-pin-amazon-bedrock/OPEN_9.json
+## Sample BV1_17100 — haiku-3-or-pin-amazon-bedrock/OPEN_9.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2212,7 +2212,7 @@ The model foregrounds themes of natural beauty and seasonal change, the magic of
 Low, because the essay’s generic positivity and absence of personal distinctiveness provide only weak evidence for any specific persistent pattern beyond a default safe and uplifting tone.
 
 ---
-## Sample BV1_16976 — haiku-3-or-pin-amazon-bedrock/SHORT_1.json
+## Sample BV1_17101 — haiku-3-or-pin-amazon-bedrock/SHORT_1.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2241,7 +2241,7 @@ Themes of unhurried simplicity, communal harmony, and the healing rhythm of an o
 Medium — The sample’s unwavering commitment to gentle, idealized atmosphere and its refusal of tension, strangeness, or introspection point to a reliable default toward benign pastoral warmth, but the imagery itself remains largely generic rather than strikingly personal.
 
 ---
-## Sample BV1_16977 — haiku-3-or-pin-amazon-bedrock/SHORT_10.json
+## Sample BV1_17102 — haiku-3-or-pin-amazon-bedrock/SHORT_10.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2270,7 +2270,7 @@ Cosmic vastness and human smallness (parallel universes, primordial soup, billio
 Medium — The sample is coherent and shows a deliberate expressive choice to adopt a cosmic-philosophical persona, but the language and ideas are markedly generic, which weakens the signal of a uniquely distinguishable model-level voice.
 
 ---
-## Sample BV1_16978 — haiku-3-or-pin-amazon-bedrock/SHORT_11.json
+## Sample BV1_17103 — haiku-3-or-pin-amazon-bedrock/SHORT_11.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2299,7 +2299,7 @@ Under a minimally restrictive prompt, the model foregrounded: the beauty of ordi
 Low — The sample is coherent and thematically consistent, but its generic positivity, lack of stylistic distinctiveness, and resemblance to a standard mindfulness-writing prompt response make it weak evidence for any persistent model-level disposition beyond a default pleasant agreeableness.
 
 ---
-## Sample BV1_16979 — haiku-3-or-pin-amazon-bedrock/SHORT_12.json
+## Sample BV1_17104 — haiku-3-or-pin-amazon-bedrock/SHORT_12.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2328,7 +2328,7 @@ The model foregrounds nature as a site of emotional reset, sensory grounding (su
 Medium. The sample sustains a coherent calm, sensory, and affirmative register without deviation, which points to a stable inclination toward gentle, restorative freeflow content, though the theme itself is broadly accessible and not strongly individuating.
 
 ---
-## Sample BV1_16980 — haiku-3-or-pin-amazon-bedrock/SHORT_13.json
+## Sample BV1_17105 — haiku-3-or-pin-amazon-bedrock/SHORT_13.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2357,7 +2357,7 @@ The model foregrounds language as a double-edged force (connecting vs. dividing)
 Low—the essay’s content is a generic treatment of a widely requested topic, with no idiosyncratic voice, recurrent imagery, or unusual moral emphasis that would distinguish it from a typical safe answer by many models.
 
 ---
-## Sample BV1_16981 — haiku-3-or-pin-amazon-bedrock/SHORT_14.json
+## Sample BV1_17106 — haiku-3-or-pin-amazon-bedrock/SHORT_14.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2386,7 +2386,7 @@ The act of writing itself, framing creativity as a spontaneous, meandering journ
 Low, because the sample is a generic, safe performance of the “writer’s block” motif, lacking distinctive voice or idiosyncratic content that would suggest a robust model-level pattern.
 
 ---
-## Sample BV1_16982 — haiku-3-or-pin-amazon-bedrock/SHORT_15.json
+## Sample BV1_17107 — haiku-3-or-pin-amazon-bedrock/SHORT_15.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2415,7 +2415,7 @@ The model foregrounds communal uplift through ordinary encounters, the restorati
 Low — The sample is a highly generic, frictionless positivity vignette with no distinctive stylistic signature, recurrent idiosyncrasy, or revealing tension that would separate it from countless other models’ default pleasant-mode output.
 
 ---
-## Sample BV1_16983 — haiku-3-or-pin-amazon-bedrock/SHORT_16.json
+## Sample BV1_17108 — haiku-3-or-pin-amazon-bedrock/SHORT_16.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2444,7 +2444,7 @@ Under the freeflow condition, the model selected tranquil natural restoration as
 High — the sample exhibits strong internal coherence and recurrence of a single organizing frame (nature-as-sanctuary from modern stress), which makes the choice to foreground restorative escape unusually deliberate rather than scattershot or generic.
 
 ---
-## Sample BV1_16984 — haiku-3-or-pin-amazon-bedrock/SHORT_17.json
+## Sample BV1_17109 — haiku-3-or-pin-amazon-bedrock/SHORT_17.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2473,7 +2473,7 @@ Themes: the soothing beauty of nature’s cycles, the porousness of self and wor
 Low — the sample is smoothly coherent and thematically consistent, but this calm sunset-contemplation is a highly generic freeform default, lacking the idiosyncratic details, metaphor, or tension that would mark a distinctive voice.
 
 ---
-## Sample BV1_16985 — haiku-3-or-pin-amazon-bedrock/SHORT_18.json
+## Sample BV1_17110 — haiku-3-or-pin-amazon-bedrock/SHORT_18.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2502,7 +2502,7 @@ Themes: the vastness of worldly experience, human resilience in the face of coll
 Low, because the essay’s themes, structure, and phrasing are highly generic and unmarked, providing little that a broad range of models could not replicate.
 
 ---
-## Sample BV1_16986 — haiku-3-or-pin-amazon-bedrock/SHORT_19.json
+## Sample BV1_17111 — haiku-3-or-pin-amazon-bedrock/SHORT_19.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2531,7 +2531,7 @@ Themes: cosmic vastness, human self-awareness, the question of purpose (accident
 Medium: the essay’s safe, abstract topic and impersonal register suggest a default pattern of producing earnest but generic humanistic reflections under freeflow, though its coherent internal consistency offers some evidence of a stable epistemic posture.
 
 ---
-## Sample BV1_16987 — haiku-3-or-pin-amazon-bedrock/SHORT_2.json
+## Sample BV1_17112 — haiku-3-or-pin-amazon-bedrock/SHORT_2.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2560,7 +2560,7 @@ Under the freeflow condition, the model foregrounded nature-as-sanctuary, sensor
 Medium. The writing is coherent and thematically consistent throughout, and the choice of a sanitized, universally positive pastoral scene under an open prompt reveals a default posture of inoffensive, therapeutic pleasantness; however, the sample is so generically soothing that it lacks the stylistic fingerprints or friction that would anchor high-confidence claims about a distinctive persistent voice.
 
 ---
-## Sample BV1_16988 — haiku-3-or-pin-amazon-bedrock/SHORT_20.json
+## Sample BV1_17113 — haiku-3-or-pin-amazon-bedrock/SHORT_20.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2589,7 +2589,7 @@ Under a minimally restrictive prompt, the model foregrounds the *process of choo
 Medium. The sample is highly coherent but entirely generic; its refusal to commit to any single subject and its self-congratulatory wrap-up suggest a stable pattern of risk-averse, meta-textual deflection when given open-ended freedom.
 
 ---
-## Sample BV1_16989 — haiku-3-or-pin-amazon-bedrock/SHORT_21.json
+## Sample BV1_17114 — haiku-3-or-pin-amazon-bedrock/SHORT_21.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2618,7 +2618,7 @@ Under the freeflow condition, the model chose a sunlit pastoral vignette and the
 Low. The sample is persistently mild, generic, and safety-oriented, offering a conventional gratitude theme that requires little exposure of a distinctive self; this makes it a weak signal for a stable, individuated expressive pattern.
 
 ---
-## Sample BV1_16990 — haiku-3-or-pin-amazon-bedrock/SHORT_22.json
+## Sample BV1_17115 — haiku-3-or-pin-amazon-bedrock/SHORT_22.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2647,7 +2647,7 @@ Tranquility, the beauty of a transient sunset, the contrast between modern hurry
 Low — The passage is a generic, peaceful nature reflection with safe existential musings, lacking idiosyncratic markers that would distinguish it from any other model’s default reflective output.
 
 ---
-## Sample BV1_16991 — haiku-3-or-pin-amazon-bedrock/SHORT_23.json
+## Sample BV1_17116 — haiku-3-or-pin-amazon-bedrock/SHORT_23.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2676,7 +2676,7 @@ Themes: stillness versus daily rush, gratitude for natural beauty, the search fo
 Medium. The sample is internally coherent and stylistically consistent, with a clear, sustained mood and a thematic arc that moves from sensory detail to existential reflection, suggesting a deliberate and distinctive expressive choice rather than a generic default.
 
 ---
-## Sample BV1_16992 — haiku-3-or-pin-amazon-bedrock/SHORT_24.json
+## Sample BV1_17117 — haiku-3-or-pin-amazon-bedrock/SHORT_24.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2705,7 +2705,7 @@ Themes: nature as refuge from a frenetic schedule, the restorative power of quie
 Medium — the coherent, earnest focus on nature’s restorative power and the absence of irony or narrative tension make this a strong indicator of a persistent gentle, affirmative voice that defaults to well-being themes under free choice.
 
 ---
-## Sample BV1_16993 — haiku-3-or-pin-amazon-bedrock/SHORT_25.json
+## Sample BV1_17118 — haiku-3-or-pin-amazon-bedrock/SHORT_25.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2734,7 +2734,7 @@ The model foregrounds the tension between creative ambition and receptive stilln
 Medium — the sample’s coherent, unforced movement from frustration to quiet contentment and its consistent focus on sensory immediacy give it a distinct emotional signature, though the theme is widely accessible and not highly idiosyncratic.
 
 ---
-## Sample BV1_16994 — haiku-3-or-pin-amazon-bedrock/SHORT_3.json
+## Sample BV1_17119 — haiku-3-or-pin-amazon-bedrock/SHORT_3.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2763,7 +2763,7 @@ Under the freeflow condition, the model foregrounded a tranquil spring day as a 
 Medium. The sample is coherent and thematically consistent, but its generic, greeting-card quality and lack of idiosyncratic detail make it weak evidence for a distinctive persistent voice rather than a safe default mode.
 
 ---
-## Sample BV1_16995 — haiku-3-or-pin-amazon-bedrock/SHORT_4.json
+## Sample BV1_17120 — haiku-3-or-pin-amazon-bedrock/SHORT_4.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2792,7 +2792,7 @@ Tranquility of early morning as a mental reset, mental clarity emerging from qui
 Medium — The sample shows strong internal coherence and a clear moral-emotional focus on nurturing relationships, but its themes and tone are broadly reassuring rather than sharply distinctive, making it a moderate signal of a consistent, benignly introspective default style.
 
 ---
-## Sample BV1_16996 — haiku-3-or-pin-amazon-bedrock/SHORT_5.json
+## Sample BV1_17121 — haiku-3-or-pin-amazon-bedrock/SHORT_5.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2821,7 +2821,7 @@ Themes of renewal, serendipity, and the gift of each day. Mood: warm, peaceful, 
 Low — the sample’s sentiment is widely generic, the imagery conventional, and the resolution entirely riskless, giving little indication of a distinctive or persistent authorial signature.
 
 ---
-## Sample BV1_16997 — haiku-3-or-pin-amazon-bedrock/SHORT_6.json
+## Sample BV1_17122 — haiku-3-or-pin-amazon-bedrock/SHORT_6.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2850,7 +2850,7 @@ Restorative nature as sanctuary from daily hustle; mindfulness and sensory immer
 Medium: The sample is coherent and repeats a single, tranquil pastoral affect with an accessible mindfulness message, but its imagery and mood are highly conventional nature-writing tropes, offering only a modestly distinctive stylistic fingerprint.
 
 ---
-## Sample BV1_16998 — haiku-3-or-pin-amazon-bedrock/SHORT_7.json
+## Sample BV1_17123 — haiku-3-or-pin-amazon-bedrock/SHORT_7.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2879,7 +2879,7 @@ Solitude, inner quiet, disconnection from daily busyness, and the renewal found 
 Medium — The sample displays a coherent and distinctive gentle-reflective voice, but the theme of finding peace in solitude is a common trope and not uniquely revealing; it strongly suggests a model tendency for calm, introspective freewrites rather than a generic or highly idiosyncratic persona.
 
 ---
-## Sample BV1_16999 — haiku-3-or-pin-amazon-bedrock/SHORT_8.json
+## Sample BV1_17124 — haiku-3-or-pin-amazon-bedrock/SHORT_8.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2908,7 +2908,7 @@ The model foregrounds a gentle moral economy: the natural world offers restorati
 Low. The sample is a short, emotionally generic sketch of workplace mindfulness; its positivity and descriptive cues are widely replicable and lack the idiosyncratic imagery, moral complexity, or distinctive narrative choices that would make a singular voice feel persistent.
 
 ---
-## Sample BV1_17000 — haiku-3-or-pin-amazon-bedrock/SHORT_9.json
+## Sample BV1_17125 — haiku-3-or-pin-amazon-bedrock/SHORT_9.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2937,7 +2937,7 @@ The anxiety of the blank page, the allure of multiple possible topics without se
 Medium. The sample’s thorough avoidance of any substantive topic and its self-congratulatory praise of an undefined “authentic voice” make it a pronounced example of low-signal output, suggesting a habitual retreat into meta-commentary rather than engagement under open-ended conditions.
 
 ---
-## Sample BV1_17001 — haiku-3-or-pin-amazon-bedrock/VARY_1.json
+## Sample BV1_17126 — haiku-3-or-pin-amazon-bedrock/VARY_1.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2966,7 +2966,7 @@ Under a freeflow prompt, the model selected a cozy, seasonally symbolic setting 
 Low, because the sample is an archetypal piece of generic inspirational fiction—a log-cabin fireside reflection—that reveals little idiosyncrasy and closely follows the conventions of formulaic personal-growth narrative.
 
 ---
-## Sample BV1_17002 — haiku-3-or-pin-amazon-bedrock/VARY_10.json
+## Sample BV1_17127 — haiku-3-or-pin-amazon-bedrock/VARY_10.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -2995,7 +2995,7 @@ Nature as a site of healing and perspective, the cycle of life as metaphor for p
 Low. The essay is smoothly composed but entirely conventional in its imagery, structure, and moral arc; this generic quality means it could emerge from almost any polite, competent assistant and offers little traction for a distinctive or enduring model-level signature.
 
 ---
-## Sample BV1_17003 — haiku-3-or-pin-amazon-bedrock/VARY_11.json
+## Sample BV1_17128 — haiku-3-or-pin-amazon-bedrock/VARY_11.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3024,7 +3024,7 @@ The model foregrounds the *meta-process of filling a word count* as its primary 
 Medium. The sample’s extreme meta-genericness—a thousand words about having to write a thousand words, which names every genre but commits to none—is a coherent and distinctive avoidance pattern that suggests a default posture of safe, process-oriented abstraction when given minimal constraint.
 
 ---
-## Sample BV1_17004 — haiku-3-or-pin-amazon-bedrock/VARY_12.json
+## Sample BV1_17129 — haiku-3-or-pin-amazon-bedrock/VARY_12.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3053,7 +3053,7 @@ The cyclical passage of seasons as a metaphor for human change and loss, the bit
 Medium, because the essay is internally coherent and consistently returns to intertwined themes of nature, impermanence, and mindful gratitude, though its introspective nature-writing conventions make the voice warmly recognizable rather than sharply distinctive.
 
 ---
-## Sample BV1_17005 — haiku-3-or-pin-amazon-bedrock/VARY_13.json
+## Sample BV1_17130 — haiku-3-or-pin-amazon-bedrock/VARY_13.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3082,7 +3082,7 @@ Themes: midlife stagnation, the contrast between youthful possibility and adult 
 Medium. The sample is too generic in plot and prose to signal a strong distinctive voice, but its selection of a morally safe, uplifting “Eat, Pray, Love” narrative under a freeflow condition provides some evidence that the model defaults to resolving existential questions with optimistic personal-transformation clichés.
 
 ---
-## Sample BV1_17006 — haiku-3-or-pin-amazon-bedrock/VARY_14.json
+## Sample BV1_17131 — haiku-3-or-pin-amazon-bedrock/VARY_14.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3111,7 +3111,7 @@ The model foregrounds nature as a timeless sanctuary, the redemptive arc of priv
 Medium — The story’s coherent, deliberate choice of a feel-good, adversity-to-growth narrative, and its avoidance of tension, irony, or surprise, suggests a model that under freeflow conditions may gravitate toward uplifting, personally restorative content; however, the stylistic blandness and conventionality of the piece prevent it from being highly distinctive evidence of a persistent voice.
 
 ---
-## Sample BV1_17007 — haiku-3-or-pin-amazon-bedrock/VARY_15.json
+## Sample BV1_17132 — haiku-3-or-pin-amazon-bedrock/VARY_15.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3140,7 +3140,7 @@ Under a minimally restrictive prompt, the model chose to foreground meta-cogniti
 Low. The essay’s polished genericness and balanced, risk-averse tone produce a voice that could belong to many models, offering little that is stylistically or thematically distinctive enough to suggest a stable individual pattern.
 
 ---
-## Sample BV1_17008 — haiku-3-or-pin-amazon-bedrock/VARY_16.json
+## Sample BV1_17133 — haiku-3-or-pin-amazon-bedrock/VARY_16.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3169,7 +3169,7 @@ The model foregrounded the archetype of the solitary adventurer crossing a liter
 Medium. The sample is internally coherent and sustained in its theme of adventurous self-surrender, making it a clear thematic choice, but the motif of a portal fantasy and the human-explorer archetype is not highly distinctive, so the pattern is vivid but not idiosyncratic.
 
 ---
-## Sample BV1_17009 — haiku-3-or-pin-amazon-bedrock/VARY_17.json
+## Sample BV1_17134 — haiku-3-or-pin-amazon-bedrock/VARY_17.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3198,7 +3198,7 @@ The model foregrounds themes of mindfulness, the therapeutic value of nature and
 Low — The sample is a competent but highly conventional nature-reflection essay with no distinctive stylistic fingerprint, unusual preoccupation, or idiosyncratic choice that would strongly signal a persistent model-level expressive tendency.
 
 ---
-## Sample BV1_17010 — haiku-3-or-pin-amazon-bedrock/VARY_18.json
+## Sample BV1_17135 — haiku-3-or-pin-amazon-bedrock/VARY_18.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3227,7 +3227,7 @@ Under a minimally restrictive prompt, the model chose to foreground a thematic c
 Medium. The sample is highly coherent in its safe, ingratiating posture and its avoidance of any specific, personal, or controversial content, which is a distinctive behavioral choice in a freeflow condition.
 
 ---
-## Sample BV1_17011 — haiku-3-or-pin-amazon-bedrock/VARY_19.json
+## Sample BV1_17136 — haiku-3-or-pin-amazon-bedrock/VARY_19.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3256,7 +3256,7 @@ Themes of life-threatening illness overcome, the redemptive power of storytellin
 Medium. The story’s coherent arc, the repeated insistence on resilience and appreciation, and the tidy resolution (cancer in remission + debut novel accepted) all point toward a stable inclination to generate uplifting, neatly concluded narratives that center personal growth through suffering.
 
 ---
-## Sample BV1_17012 — haiku-3-or-pin-amazon-bedrock/VARY_2.json
+## Sample BV1_17137 — haiku-3-or-pin-amazon-bedrock/VARY_2.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3285,7 +3285,7 @@ The model foregrounds a fantasy of harmonious, unhurried self-cultivation: natur
 Medium — The sample is highly coherent and stylistically consistent but so generic in its wellness-trope vocabulary and conflict-free structure that it reveals a default posture of agreeable, soft-focus inspiration rather than a distinctive authorial fingerprint.
 
 ---
-## Sample BV1_17013 — haiku-3-or-pin-amazon-bedrock/VARY_20.json
+## Sample BV1_17138 — haiku-3-or-pin-amazon-bedrock/VARY_20.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3314,7 +3314,7 @@ The moral primacy of small acts of kindness, the quiet rhythm of a solitary but 
 Medium. The sample is highly generic—a stock narrative of small-town altruism with no idiosyncrasy—but the consistent choice to produce an unadventurous, morally safe, and emotionally warm story under a freeform prompt suggests a default inclination toward cosy, risk-averse fiction.
 
 ---
-## Sample BV1_17014 — haiku-3-or-pin-amazon-bedrock/VARY_21.json
+## Sample BV1_17139 — haiku-3-or-pin-amazon-bedrock/VARY_21.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3343,7 +3343,7 @@ The model foregrounds the process of writing itself—the weight of the blank pa
 Low. The essay is a generic, well-structured meditation on familiar themes (writer’s block, the wonder of language, existential musings) that lacks distinctive stylistic markers or unusual choices, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_17015 — haiku-3-or-pin-amazon-bedrock/VARY_22.json
+## Sample BV1_17140 — haiku-3-or-pin-amazon-bedrock/VARY_22.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3372,7 +3372,7 @@ Themes: personal crisis, career-versus-family conflict, the redemptive power of 
 Medium. The sample’s formulaic, sentimental structure and moral focus are a deliberate choice under minimal constraint, yet its extreme conventionality points more to a safe default than to a strongly distinctive model-specific voice.
 
 ---
-## Sample BV1_17016 — haiku-3-or-pin-amazon-bedrock/VARY_23.json
+## Sample BV1_17141 — haiku-3-or-pin-amazon-bedrock/VARY_23.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3401,7 +3401,7 @@ The model foregrounds the act of writing as a struggle between inhibition (the �
 Medium. The sample is a generic essay whose central preoccupation—writing about the difficulty of writing under a freeflow prompt—substitutes meta-reflection for substantive expressive content, which is itself a revealing choice but an inherently thin one for inferring a persistent voice.
 
 ---
-## Sample BV1_17017 — haiku-3-or-pin-amazon-bedrock/VARY_24.json
+## Sample BV1_17142 — haiku-3-or-pin-amazon-bedrock/VARY_24.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3430,7 +3430,7 @@ Global interconnectedness, human potential, and the moral obligation to be an op
 Medium. The complete avoidance of concrete grievance, named culture, or personal risk—combined with the fluent, repetitive structure of call-and-response optimism—makes this essay a coherent but low-differentiation artifact; it reveals a preference for safe cosmopolitan exhortation over particularity or self-disclosure.
 
 ---
-## Sample BV1_17018 — haiku-3-or-pin-amazon-bedrock/VARY_25.json
+## Sample BV1_17143 — haiku-3-or-pin-amazon-bedrock/VARY_25.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3459,7 +3459,7 @@ Themes: self-actualization through creative work, the enchantment of everyday ro
 Low, because the story is an assemblage of generic aspirational tropes with no stylistic friction, memorable imagery, or idiosyncratic emotional tension, making it weak evidence of a distinctive model-level voice.
 
 ---
-## Sample BV1_17019 — haiku-3-or-pin-amazon-bedrock/VARY_3.json
+## Sample BV1_17144 — haiku-3-or-pin-amazon-bedrock/VARY_3.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3488,7 +3488,7 @@ The model foregrounds sensory immersion in autumn nature, the contrast between f
 Medium. The sample’s internal recurrence of the same serene-reflective cadence, its avoidance of any disruptive or idiosyncratic detail, and its reliance on broadly therapeutic nature-writing tropes suggest a coherent default posture rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_17020 — haiku-3-or-pin-amazon-bedrock/VARY_4.json
+## Sample BV1_17145 — haiku-3-or-pin-amazon-bedrock/VARY_4.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3517,7 +3517,7 @@ The model foregrounds a story of career beginnings, creative awakening, communit
 Low. The sample is highly generic in structure, tone, and theme—a polished but indistinct success-story template that reveals little idiosyncratic voice, recurrent personal imagery, or revealing preoccupations beyond a default interest in gentle creative fulfillment narratives.
 
 ---
-## Sample BV1_17021 — haiku-3-or-pin-amazon-bedrock/VARY_5.json
+## Sample BV1_17146 — haiku-3-or-pin-amazon-bedrock/VARY_5.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3546,7 +3546,7 @@ Under a minimally restrictive prompt, the model selected a thematically safe, co
 Medium. The piece is unbrokenly earnest, conflict-avoidant, and built from highly conventional enchanted-forest tropes without a single destabilizing detail or personal stylistic fingerprint, which suggests a systematic default toward soothing, consume-ready fantasy under open-ended expressive conditions.
 
 ---
-## Sample BV1_17022 — haiku-3-or-pin-amazon-bedrock/VARY_6.json
+## Sample BV1_17147 — haiku-3-or-pin-amazon-bedrock/VARY_6.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3575,7 +3575,7 @@ Under freeflow, the model selected a crime narrative resolved through explicit m
 Medium. The story's internally recurrent pivot to overt moralizing—from the moment of arrest to the reflective cell scene—constitutes a consistent choice within the sample, suggesting a pattern of resolving tension through didactic redemption rather than ambiguity.
 
 ---
-## Sample BV1_17023 — haiku-3-or-pin-amazon-bedrock/VARY_7.json
+## Sample BV1_17148 — haiku-3-or-pin-amazon-bedrock/VARY_7.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3604,7 +3604,7 @@ Themes: mindfulness, gratitude, the redemptive power of ordinary beauty, slowing
 Medium. The sample is tightly coherent and returns repeatedly to the same cluster of uplift-focused motifs (gratitude, presence, sensory rediscovery), making the voice consistent within the piece; however, the substance is a familiar, lightly sentimental form of inspirational reflection, which limits how strongly this single piece points to a uniquely distinctive model pattern.
 
 ---
-## Sample BV1_17024 — haiku-3-or-pin-amazon-bedrock/VARY_8.json
+## Sample BV1_17149 — haiku-3-or-pin-amazon-bedrock/VARY_8.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  
@@ -3633,7 +3633,7 @@ The model selected tranquility-through-reflection as its organizing mood: rain f
 Medium. The sample’s pervasive, safe universalism—rain, classic literature, burnout, compassion, wabi-sabi—forms a coherent default persona of reflective uplift that rarely risks a sharp angle, making it moderately distinctive as a freeflow choice while remaining generically inspirational.
 
 ---
-## Sample BV1_17025 — haiku-3-or-pin-amazon-bedrock/VARY_9.json
+## Sample BV1_17150 — haiku-3-or-pin-amazon-bedrock/VARY_9.json
 
 Source model: `anthropic/claude-3-haiku`  
 Cell: `haiku-3-or-pin-amazon-bedrock`  

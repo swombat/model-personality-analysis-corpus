@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import argparse, json, collections, datetime as dt
 from pathlib import Path
-BASE=Path('/Users/danieltenner/dev/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered')
+BASE=Path(__file__).resolve().parent
 MANIFEST=BASE/'manifest_300.jsonl'
 ap=argparse.ArgumentParser()
 ap.add_argument('--outdir', default='layer_a', help='Output/input dir under layered/ (default: layer_a)')

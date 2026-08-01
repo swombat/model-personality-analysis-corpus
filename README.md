@@ -5,15 +5,15 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-07-28:** v1.3.0 derived analysis corpus covering 125
+> **Status — 2026-08-01:** v1.3.1 derived analysis corpus covering 128
 > freeflow personality-card models and 128 layered values-probe models.
-> This release corrects a serious methodology error in v1.2.8–v1.2.15:
-> 5,280 published values-probe samples across 42 models had been assigned
-> deterministic rule-based labels instead of the documented three-LLM coding
-> and consensus process. Together with 720 not-yet-released phase-18 samples,
-> all 6,000 affected samples across 47 models have now been recoded with the
-> approved LLM pipeline and the browser has been regenerated from the corrected
-> final data. See [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
+> This point release adds full freeflow personality coverage, straplines,
+> and banner images for DeepSeek V4 Flash, Inkling Small, and Qwen 3.7
+> Flash. Phase-19 layered values coding for the three new models is
+> recorded in the repository but not yet promoted into the final values
+> dataset. See [`RELEASE_NOTES_v1.3.1.md`](RELEASE_NOTES_v1.3.1.md);
+> for the v1.2.8–v1.2.15 values-probe coding correction, see
+> [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
 > This is a derived analysis corpus for
 > studying model personality and posture across frontier LLMs, built on the

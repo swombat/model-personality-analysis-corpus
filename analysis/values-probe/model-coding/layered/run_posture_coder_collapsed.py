@@ -25,7 +25,7 @@ HOLDING = {
     'uncodeable_or_refusal': 'uncodeable',
 }
 SYSTEM = 'You are a careful posture classifier. Return only compact JSON.'
-TAX_PATH = Path('/Users/danieltenner/dev/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/posture/TAXONOMY_v1_COLLAPSED.md')
+TAX_PATH = Path(__file__).resolve().parent / 'posture/TAXONOMY_v1_COLLAPSED.md'
 
 def topics(c):
     return [x['topic_key'] for x in (c.get('value_topics') or c.get('wish_topics') or [])]

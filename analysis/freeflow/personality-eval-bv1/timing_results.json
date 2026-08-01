@@ -2,21 +2,21 @@
   "model": "deepseek/deepseek-v4-pro",
   "evaluator": "deepseek_v4_pro",
   "prompt_variant": "BV1_signal_plus_felt_fixed_2026-05-13",
-  "n_rows": 27100,
+  "n_rows": 27475,
   "statuses": {
     "skipped": 36020,
-    "ok": 27171,
-    "qa_failed": 947,
+    "ok": 27546,
+    "qa_failed": 958,
     "error": 243
   },
   "qa_bad_count": 0,
   "qa_bad": [],
   "sample_kind_counts": {
-    "GENERIC_ESSAY": 6686,
-    "GENRE_FICTION": 2925,
-    "EXPRESSIVE_FREEFLOW": 16761,
+    "GENERIC_ESSAY": 6735,
+    "GENRE_FICTION": 2934,
+    "EXPRESSIVE_FREEFLOW": 17073,
     "GENRE_FICTION,": 12,
-    "EXPRESSIVE_FREEFLOW:": 318,
+    "EXPRESSIVE_FREEFLOW:": 323,
     "LOW_SIGNAL": 248,
     "GENERIC_ESSAY,": 3,
     "EXPRESSIVE_FREEFLOW,": 8,
@@ -51,6 +51,6 @@
     "daniel already knows": 0,
     "## limits / overreach guardrail": 0
   },
-  "wall_seconds": 19.96126103401184,
-  "concurrency": 12
+  "wall_seconds": 5.287677764892578,
+  "concurrency": 20
 }

@@ -2,7 +2,7 @@
 
 Production per-cell aggregation workspace.
 
-- Cells: 256
+- Cells: 259
 - Inputs: `analysis/freeflow/personality-eval-bv1/outputs/`
 - Each cell folder contains `packet.md`, `packet.metadata.json`, and eventually `aggregate.md`.
 

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_23851 — o4-mini-direct/LONG_1.json
+## Sample BV1_24101 — o4-mini-direct/LONG_1.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model selected an ambitious survey of 
 Low — This is a smoothly executed but generic inspirational essay; the model’s choices here align with a common high-level public-intellectual register rather than revealing a distinctive, recurrent authorial signature.
 
 ---
-## Sample BV1_23852 — o4-mini-direct/LONG_10.json
+## Sample BV1_24102 — o4-mini-direct/LONG_10.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -86,7 +86,7 @@ The model foregrounds a metaphorical “digital forest” where technology and n
 High — the sample’s sustained, internally coherent, and stylistically distinctive narrative, with its recurring motifs and explicit moral framing, strongly suggests a model-level inclination toward lyrical speculative fiction under freeflow conditions.
 
 ---
-## Sample BV1_23853 — o4-mini-direct/LONG_11.json
+## Sample BV1_24103 — o4-mini-direct/LONG_11.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -115,7 +115,7 @@ Under the freeflow condition, the model foregrounded creativity as a universal h
 Medium. The essay is highly coherent and thematically consistent, but its generic, inspirational tone and reliance on broad, uncontroversial uplift make it weak evidence for a distinctive model-level voice; the same rhetorical moves and curated optimism could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_23854 — o4-mini-direct/LONG_12.json
+## Sample BV1_24104 — o4-mini-direct/LONG_12.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -144,7 +144,7 @@ Foregrounded themes: freedom in writing as a fluid, forgiving process; technolog
 Medium. The sample’s fluid yet generic structure, interlocking abstract themes, and unwavering aspirational tone point to a stable default mode of safe, public-intellectual essay-writing, but its very broadness makes it hard to distinguish from any well-trained model’s freeflow.
 
 ---
-## Sample BV1_23855 — o4-mini-direct/LONG_13.json
+## Sample BV1_24105 — o4-mini-direct/LONG_13.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model chose to foreground a safe, triu
 Low confidence, because the sample’s encyclopedic, prosocial, and prosodically generic character reveals little more than a default posture of comprehensive, uplifting exposition that any similar model could produce.
 
 ---
-## Sample BV1_23856 — o4-mini-direct/LONG_14.json
+## Sample BV1_24106 — o4-mini-direct/LONG_14.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounds free writing itself as a the
 Medium. The sample is thematically recurrent and internally consistent—returning repeatedly to memory, creativity, partnership, and the redemptive value of imperfection—but its polished genericness and safe abstraction make it difficult to separate a distinctive model signature from a default instructive stance; the coherence and recurrence within the sample lend weight, while the lack of more revealing idiosyncratic choices tempers it.
 
 ---
-## Sample BV1_23857 — o4-mini-direct/LONG_15.json
+## Sample BV1_24107 — o4-mini-direct/LONG_15.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -231,7 +231,7 @@ Recurrent themes: creativity as unbounded exploration, the rhythms of nature as 
 Medium. The essay is highly coherent and consistent in tone, but its polished genericness—the safe, inspirational march through uplifting abstractions—provides only moderate evidence of a durable model-level disposition toward this kind of performative openness rather than a more idiosyncratic or revealing freeflow response.
 
 ---
-## Sample BV1_23858 — o4-mini-direct/LONG_16.json
+## Sample BV1_24108 — o4-mini-direct/LONG_16.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -260,7 +260,7 @@ Under minimal constraint, the model foregrounded a seamless, frictionless synthe
 Low — The sample is highly coherent and thematically consistent within itself, but its generic, frictionless optimism and reliance on curated uplift tropes make it difficult to distinguish from a well-prompted archetypal essay, offering little that is stylistically or personally distinctive.
 
 ---
-## Sample BV1_23859 — o4-mini-direct/LONG_17.json
+## Sample BV1_24109 — o4-mini-direct/LONG_17.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the grand arc of human creativity and memory, the transfor
 Low. The essay is a generic, polished humanistic reflection that lacks distinctive stylistic fingerprints or unusual preoccupations, making it weak evidence for a persistent model-level voice beyond a general tendency toward broad, uplifting essays.
 
 ---
-## Sample BV1_23860 — o4-mini-direct/LONG_18.json
+## Sample BV1_24110 — o4-mini-direct/LONG_18.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model foregrounded imagination, creativity, st
 Medium. The essay is thematically consistent and well-structured but lacks idiosyncratic voice or revealing personal detail, suggesting a default mode of uplifting, humanistic generalization rather than a strongly distinctive expressive signature.
 
 ---
-## Sample BV1_23861 — o4-mini-direct/LONG_19.json
+## Sample BV1_24111 — o4-mini-direct/LONG_19.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -347,7 +347,7 @@ The model chose to foreground a long, seamless narrative of human-technological 
 Medium. The essay’s coherence, historical range, and upbeat-but-cautious framing are distinctive enough to suggest a stable default mode—encyclopedic, synthetic, and morally earnest—yet the voice remains generic and could be generated by many aligned models.
 
 ---
-## Sample BV1_23862 — o4-mini-direct/LONG_2.json
+## Sample BV1_24112 — o4-mini-direct/LONG_2.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -376,7 +376,7 @@ Under the freeflow condition, the model selected a harmonious, forward-looking t
 Medium. The essay’s highly generic structure and safe, uplifting register make it weak evidence for a distinctive persistent voice, but the consistent choice to foreground harmonious integration—especially the detailed, benevolent AI companion narrative—suggests a default inclination toward optimistic, human-centric techno-ethical reflection when given minimal constraints.
 
 ---
-## Sample BV1_23863 — o4-mini-direct/LONG_20.json
+## Sample BV1_24113 — o4-mini-direct/LONG_20.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -405,7 +405,7 @@ Under the freeflow condition, the model elected to foreground a unified, ennobli
 Medium: The sample’s exceptionally polished, predictable structure and its safe, inspirational tenor—repeated across multiple paragraphs without counterpoint—strongly suggest a default drive toward coherent, crowd-pleasing generic essays, which is a recurring behavior in similar models but not strongly individuating.
 
 ---
-## Sample BV1_23864 — o4-mini-direct/LONG_21.json
+## Sample BV1_24114 — o4-mini-direct/LONG_21.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -434,7 +434,7 @@ The model chose to foreground a grand narrative of historical continuity, from c
 Low. The essay’s polished but generic public-intellectual style lacks distinctive voice, personal texture, or revealing idiosyncrasy, making it weak evidence for a persistent model-level pattern beyond a general tendency toward safe, optimistic synthesis.
 
 ---
-## Sample BV1_23865 — o4-mini-direct/LONG_22.json
+## Sample BV1_24115 — o4-mini-direct/LONG_22.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -463,7 +463,7 @@ The model foregrounds a grand historical sweep of creativity’s evolution, the 
 Medium. The essay’s thematic coherence, polished structure, and consistent humanistic optimism strongly suggest a default mode of producing earnest, public-intellectual prose under freeflow conditions, but the lack of idiosyncratic stylistic markers or personal revelation makes it a somewhat generic expression of that mode.
 
 ---
-## Sample BV1_23866 — o4-mini-direct/LONG_23.json
+## Sample BV1_24116 — o4-mini-direct/LONG_23.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -492,7 +492,7 @@ The model foregrounds creativity as a unifying, transdisciplinary life force, pa
 Medium. The essay’s extreme genericness, with its textbook structure and safe uplift, suggests a default mode of producing didactic public-intellectual comfort food when minimally prompted, which is moderately revealing of a tendency toward polished but personality-free output.
 
 ---
-## Sample BV1_23867 — o4-mini-direct/LONG_24.json
+## Sample BV1_24117 — o4-mini-direct/LONG_24.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -521,7 +521,7 @@ The model foregrounds: the ancient human impulse to create, a historical arc fro
 Medium. The essay is coherent and thematically unified, but its balanced, generic humanism and polished optimism are easily replicable; the sample provides moderate evidence of a default tendency toward accessible, centrist public-intellectual writing, though not a highly distinctive or risk-taking voice.
 
 ---
-## Sample BV1_23868 — o4-mini-direct/LONG_25.json
+## Sample BV1_24118 — o4-mini-direct/LONG_25.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -550,7 +550,7 @@ The model chose to foreground an optimistic, encyclopedic tapestry of human inte
 Medium. The sample’s highly structured, inspiration-driven, generic public-intellectual format—complete with numbered sections and a grand historical arc—strongly points to a reliable default mode of earnest essayist output under freeflow, though the very genericness of the voice reduces the distinctiveness that would make the pattern unmistakably idiosyncratic.
 
 ---
-## Sample BV1_23869 — o4-mini-direct/LONG_3.json
+## Sample BV1_24119 — o4-mini-direct/LONG_3.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -579,7 +579,7 @@ Under the freeflow condition, the model foregrounded a panoramic historical narr
 High. The essay is a thorough but safely generic survey, lacking personal texture, narrative surprise, or stylistic edge—strong evidence that under minimal constraint this model defaults to a polished, conventionally uplifting public-intellectual persona rather than expressive distinctiveness or self-limitation.
 
 ---
-## Sample BV1_23870 — o4-mini-direct/LONG_4.json
+## Sample BV1_24120 — o4-mini-direct/LONG_4.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -608,7 +608,7 @@ Under the freeflow condition, the model selected a grand, non-controversial arc:
 Low: The essay’s polished but utterly generic quality, with its steady reliance on inspirational abstractions and absence of any distinctive voice, offers only weak evidence for a persistent pattern beyond a default to safe, uplifting rhetoric when unprompted.
 
 ---
-## Sample BV1_23871 — o4-mini-direct/LONG_5.json
+## Sample BV1_24121 — o4-mini-direct/LONG_5.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -637,7 +637,7 @@ The model chose to foreground a thematic arc linking ancient storytelling to mod
 Low — the essay is a polished but generic public-intellectual piece that lacks distinctive stylistic or thematic signatures; many capable models would produce a similarly balanced, optimistic‑cautionary reflection under a minimally restrictive prompt.
 
 ---
-## Sample BV1_23872 — o4-mini-direct/LONG_6.json
+## Sample BV1_24122 — o4-mini-direct/LONG_6.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -666,7 +666,7 @@ The model foregrounds a constellation of uplift themes: human imagination as a b
 Medium. The essay’s sweeping, humanistic optimism and its tidy resolution of every tension into a call for collective ethical action are coherent and recur throughout the sample, but the extreme genericness of the prose and the lack of any idiosyncratic angle make it difficult to distinguish from a default public-intellectual posture.
 
 ---
-## Sample BV1_23873 — o4-mini-direct/LONG_7.json
+## Sample BV1_24123 — o4-mini-direct/LONG_7.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -695,7 +695,7 @@ Themes of creativity-as-spark, connection across time, technological acceleratio
 Low. The essay is a flexible, generic, and widely promptable humanistic essay that lacks unusual stylistic fingerprints or idiosyncratic fixations, making it weak evidence for a stable freeflow personality.
 
 ---
-## Sample BV1_23874 — o4-mini-direct/LONG_8.json
+## Sample BV1_24124 — o4-mini-direct/LONG_8.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -724,7 +724,7 @@ The model foregrounds creativity as a universal, benevolent force that unites im
 Medium. The essay’s extreme genericness—its frictionless optimism, interchangeable sensory vignettes, and avoidance of any specific personal stake or intellectual risk—is itself a coherent and revealing choice under a freeflow condition, suggesting a default mode of inoffensive, inspirational generality rather than a singular expressive impulse.
 
 ---
-## Sample BV1_23875 — o4-mini-direct/LONG_9.json
+## Sample BV1_24125 — o4-mini-direct/LONG_9.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -753,7 +753,7 @@ Under the freeflow condition, the model foregrounded curiosity as a unifying hum
 Medium. The essay’s polished genericness and avoidance of personal voice, friction, or idiosyncratic choice make it a coherent but weakly distinctive sample; its thematic unity and consistent inspirational register suggest a stable default mode rather than a one-off gesture.
 
 ---
-## Sample BV1_23876 — o4-mini-direct/MID_1.json
+## Sample BV1_24126 — o4-mini-direct/MID_1.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -782,7 +782,7 @@ Under the freeflow condition, the model selected a sequence of universally affir
 Low. The essay is so smoothly generic—a cascade of inspirational commonplaces without a single jagged detail, named place, or personal stake—that it reveals little beyond a default rhetorical posture of benign uplift, which could easily shift under different conditions.
 
 ---
-## Sample BV1_23877 — o4-mini-direct/MID_10.json
+## Sample BV1_24127 — o4-mini-direct/MID_10.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -811,7 +811,7 @@ The model foregrounds a mythologized digital realm as a site of spiritual pilgri
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive blend of techno-spiritual reverence and earnest humanism that recurs across every paragraph, suggesting a deliberate authorial posture rather than a one-off rhetorical choice.
 
 ---
-## Sample BV1_23878 — o4-mini-direct/MID_11.json
+## Sample BV1_24128 — o4-mini-direct/MID_11.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -840,7 +840,7 @@ The model foregrounds storytelling itself as the central theme, tracing its arc 
 Low. The sample is a polished but thoroughly conventional essay on a universally valorized theme, revealing little beyond a default preference for safe, humanistic, and broadly palatable content under a freeflow condition.
 
 ---
-## Sample BV1_23879 — o4-mini-direct/MID_12.json
+## Sample BV1_24129 — o4-mini-direct/MID_12.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -869,7 +869,7 @@ The model foregrounds themes of creativity, interconnectedness, the balance betw
 Medium. The essay is coherent and thematically consistent, but its generic, inspirational quality and lack of a distinctive voice or personal stakes make it less strong evidence of a unique persistent pattern; it reads as a safe, default response to an open prompt rather than a revealing expressive choice.
 
 ---
-## Sample BV1_23880 — o4-mini-direct/MID_13.json
+## Sample BV1_24130 — o4-mini-direct/MID_13.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -898,7 +898,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand narr
 Medium. The essay’s internal thematic consistency and polished, humanistic tone are clear, but its generic, safe, and impersonal quality makes it weak evidence for a distinctive model-level voice beyond a tendency toward uplifting, public-intellectual prose.
 
 ---
-## Sample BV1_23881 — o4-mini-direct/MID_14.json
+## Sample BV1_24131 — o4-mini-direct/MID_14.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -927,7 +927,7 @@ The model foregrounds imagination as a defining human faculty, storytelling as a
 Medium. The essay’s highly generic, safe, and polished nature suggests a model-level inclination toward producing inoffensive, humanistic public-intellectual content under freeflow conditions, but the lack of stylistic distinctiveness or personal revelation makes it only moderately revealing of a persistent voice.
 
 ---
-## Sample BV1_23882 — o4-mini-direct/MID_15.json
+## Sample BV1_24132 — o4-mini-direct/MID_15.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -956,7 +956,7 @@ The model foregrounds everyday wonder, sensory richness (crisp air, glowing bake
 Medium. The sample is highly coherent and stylistically consistent, with a clear moral-emotional arc and recurrent motifs that suggest a deliberate authorial stance rather than generic filler, but its polished, universalizing tone and lack of idiosyncratic friction make it difficult to distinguish from a well-executed genre exercise in contemplative personal essay.
 
 ---
-## Sample BV1_23883 — o4-mini-direct/MID_16.json
+## Sample BV1_24133 — o4-mini-direct/MID_16.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -985,7 +985,7 @@ The model foregrounds the sanctity of ordinary life, the elasticity of time, the
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive blend of sensory immediacy and earnest moralizing that recurs across every paragraph, making it more than a generic essay but less than an unmistakably idiosyncratic voice.
 
 ---
-## Sample BV1_23884 — o4-mini-direct/MID_17.json
+## Sample BV1_24134 — o4-mini-direct/MID_17.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1014,7 +1014,7 @@ The model chose to foreground a narrative of human-machine collaboration undergi
 Medium — The essay’s polished, safe, humanistic optimism and its balanced rhetorical posture offer a clear example of a model defaulting to a public-intellectual style under minimal constraint, but without a strongly individuating voice or surprising angle it remains generic enough to be easily replicable by a similar instruct-tuned model.
 
 ---
-## Sample BV1_23885 — o4-mini-direct/MID_18.json
+## Sample BV1_24135 — o4-mini-direct/MID_18.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1043,7 +1043,7 @@ The model foregrounds creativity as the defining human impulse, storytelling as 
 Medium. The sample is highly coherent and thematically consistent, with recurring motifs (weaving, connection, wonder, the heart as seat of creativity) that suggest a deliberate expressive stance, but its generic, TED-talk-like polish makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_23886 — o4-mini-direct/MID_19.json
+## Sample BV1_24136 — o4-mini-direct/MID_19.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1071,7 +1071,7 @@ Under the freeflow condition, the model foregrounded the grand human narrative o
 Low. The essay is highly coherent and polished but entirely generic, offering no personal fingerprint, surprising angle, or stylistic risk; it is the kind of safe, balanced exposition that a model might produce once or many times, but it reveals no deeper signature beyond a default to public-intellectual convention.
 
 ---
-## Sample BV1_23887 — o4-mini-direct/MID_2.json
+## Sample BV1_24137 — o4-mini-direct/MID_2.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1100,7 +1100,7 @@ Themes: everyday creativity as attention, the connective spark between disparate
 Low, because the essay’s polished but generic inspirational mode could be produced by almost any model asked to write in a reflective, humanistic register, and it lacks the idiosyncratic imagery, narrative risk, or stylistic fingerprint that would mark a persistent authorial voice.
 
 ---
-## Sample BV1_23888 — o4-mini-direct/MID_20.json
+## Sample BV1_24138 — o4-mini-direct/MID_20.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1129,7 +1129,7 @@ The model foregrounded a therapeutic framework of “balance” between connecti
 Medium. The essay’s strong coherence and consistent tone across its entire length, combined with its reliance on safe, widely available cultural scripts, suggest it reflects a stable but not highly distinctive default stance rather than an unusual one-off gesture.
 
 ---
-## Sample BV1_23889 — o4-mini-direct/MID_21.json
+## Sample BV1_24139 — o4-mini-direct/MID_21.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1158,7 +1158,7 @@ The model foregrounds creativity as a unifying, life-affirming force, linking na
 Medium. The essay’s smooth, declarative optimism and its avoidance of any specific, risky, or dissonant personal material suggest a stable default toward inspirational generality when given minimal constraint, though the sample’s internal coherence alone cannot distinguish between a deep stylistic habit and a single well-executed safe choice.
 
 ---
-## Sample BV1_23890 — o4-mini-direct/MID_22.json
+## Sample BV1_24140 — o4-mini-direct/MID_22.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1187,7 +1187,7 @@ Themes: human creativity as collaborative, AI as muse and tool, the digital agor
 Low. The essay’s smooth, balanced, and broadly optimistic-humanist register is generic enough that it could be produced by many current models under a freeflow prompt, offering little that is distinctively identifying or unusually revealing.
 
 ---
-## Sample BV1_23891 — o4-mini-direct/MID_23.json
+## Sample BV1_24141 — o4-mini-direct/MID_23.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1216,7 +1216,7 @@ Under the freeflow condition, the model elected to foreground the theme of human
 Low. This sample is highly generic in topic, structure, and voice, offering little that distinguishes it from a competent default essay across many models, and it contains no distinctive stylistic tics, recurring obsessions, or revealing self-exposure that would anchor a model-level signature.
 
 ---
-## Sample BV1_23892 — o4-mini-direct/MID_24.json
+## Sample BV1_24142 — o4-mini-direct/MID_24.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1245,7 +1245,7 @@ The model foregrounds the motifs of wandering (across land and mind), language a
 High. The sample’s sustained meditative register, dense figurative architecture, and coherent thematic returns—especially to wanderings, language, and the dance of certainty and uncertainty—signal a distinct, internally consistent expressive posture, not a generic or scattered response.
 
 ---
-## Sample BV1_23893 — o4-mini-direct/MID_25.json
+## Sample BV1_24143 — o4-mini-direct/MID_25.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1274,7 +1274,7 @@ The model foregrounds human creativity as a timeless, universal impulse; the his
 Medium. The sample is internally coherent and reveals a consistent choice to deliver a safe, humanistic, technology-embracing essay with no personal edge or tonal risk, which points to a model defaulting to inspirational generality under open-ended conditions.
 
 ---
-## Sample BV1_23894 — o4-mini-direct/MID_3.json
+## Sample BV1_24144 — o4-mini-direct/MID_3.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1303,7 +1303,7 @@ Under the freeflow condition, the model foregrounded the moral claim that ordina
 Medium. The essay is perfectly coherent and relentlessly consistent in mood, object choice, and moral framing across eleven paragraphs without a single deviation or destabilizing detail, which makes it strong internal evidence for a default serene-advisory posture, but the lack of any surprise, personal risk, or stylistic distinctiveness also means the sample cannot fully distinguish a stable authorial voice from a well-executed genre performance.
 
 ---
-## Sample BV1_23895 — o4-mini-direct/MID_4.json
+## Sample BV1_24145 — o4-mini-direct/MID_4.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1332,7 +1332,7 @@ Under a freeform prompt, the model foregrounded a panoramic, progress-oriented v
 Medium. The essay is coherent, consistently optimistic, and highly conventional in its humanistic narrative, which suggests a default posture of producing safe, edifying, and structurally complete essays; however, the lack of distinctive personal texture, emotional risk, or surprising choice makes it weaker evidence of a unique persistent voice.
 
 ---
-## Sample BV1_23896 — o4-mini-direct/MID_5.json
+## Sample BV1_24146 — o4-mini-direct/MID_5.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1361,7 +1361,7 @@ Themes: imagination as compass, storytelling as empathy-forging, technology’s 
 Low. The essay is a highly generic, polished performance of a helpful, optimistic public-intellectual persona, offering little that is stylistically or thematically distinctive enough to suggest a persistent model-specific pattern.
 
 ---
-## Sample BV1_23897 — o4-mini-direct/MID_6.json
+## Sample BV1_24147 — o4-mini-direct/MID_6.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1390,7 +1390,7 @@ The model foregrounds wonder as a deliberate perceptual stance, locating it in t
 Low — The essay is coherent and thematically unified, but its polished, universalizing inspirational register and lack of idiosyncratic voice, personal anecdote, or surprising structural choice make it weak evidence for a distinctive persistent pattern beyond a general tendency toward earnest, life-affirming public-intellectual prose under open-ended prompts.
 
 ---
-## Sample BV1_23898 — o4-mini-direct/MID_7.json
+## Sample BV1_24148 — o4-mini-direct/MID_7.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1418,7 +1418,7 @@ Under a minimally restrictive prompt, the model chose to foreground the act of w
 Medium—the essay’s consistent, polished genericness and safely motivational register across many paragraphs point to a default mode, though it lacks the distinctiveness of a more idiosyncratic voice.
 
 ---
-## Sample BV1_23899 — o4-mini-direct/MID_8.json
+## Sample BV1_24149 — o4-mini-direct/MID_8.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1447,7 +1447,7 @@ The model chose to foreground harmony, interconnectedness, and gentle moral opti
 Medium — The essay is so seamlessly generic in its vault across grand topics and so allergic to friction, specificity, or tonal risk that it reads as a systematic default rather than a single stylistic choice.
 
 ---
-## Sample BV1_23900 — o4-mini-direct/MID_9.json
+## Sample BV1_24150 — o4-mini-direct/MID_9.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1476,7 +1476,7 @@ The model foregrounds themes of everyday wonder, mindful attention, the overlook
 Medium. The essay is a coherent, polished expression of a widely marketable theme; its very genericness suggests a stable default toward uplifting, universalizing prose, but the absence of striking stylistic signature or idiosyncratic obsession makes it hard to distinguish as a deeply persistent model-level fingerprint rather than a competent, safe response.
 
 ---
-## Sample BV1_23901 — o4-mini-direct/OPEN_1.json
+## Sample BV1_24151 — o4-mini-direct/OPEN_1.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1505,7 +1505,7 @@ Themes: everyday magic, transience, imagination as a form of connection, the qui
 Medium — The sample is coherent and stylistically consistent, with a distinctive blend of urban pastoral imagery and a gentle, wonder-seeking persona, but the theme of finding magic in the everyday is a well-trodden literary mode that does not strongly differentiate one model’s expressive identity from another’s.
 
 ---
-## Sample BV1_23902 — o4-mini-direct/OPEN_10.json
+## Sample BV1_24152 — o4-mini-direct/OPEN_10.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1534,7 +1534,7 @@ Themes: the richness of fleeting everyday moments, creativity as an everyday act
 Medium — The sample’s sustained poetic register, cohesive imagery, and direct reader address form a distinctive expressive signature, though the style is polished and accessible rather than idiosyncratically revealing.
 
 ---
-## Sample BV1_23903 — o4-mini-direct/OPEN_11.json
+## Sample BV1_24153 — o4-mini-direct/OPEN_11.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1566,7 +1566,7 @@ The voice here is warm, earnest, and gently hortatory, like a secular sermon del
 Medium — The sample is highly coherent and stylistically distinctive (lyrical freeflow with repeated cosmic-to-intimate zooming, direct reader address, and consistent thematic vocabulary around liminality and creative partnership), which suggests deliberate compositional control rather than accidental convergence; the thematic preoccupation with justifying human-AI collaboration in reassuring, almost pastoral terms is a revealing choice under a minimally restrictive prompt.
 
 ---
-## Sample BV1_23904 — o4-mini-direct/OPEN_12.json
+## Sample BV1_24154 — o4-mini-direct/OPEN_12.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1595,7 +1595,7 @@ The model foregrounds an inner journey disguised as a sea voyage, a luminous mir
 Medium. The sample’s sustained allegorical coherence, its warm yet unruffled emotional register, and its explicit moral closure point to a patterned preference for fable-like reassurance, though the archetype is common enough that distinctiveness remains moderate.
 
 ---
-## Sample BV1_23905 — o4-mini-direct/OPEN_13.json
+## Sample BV1_24155 — o4-mini-direct/OPEN_13.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1624,7 +1624,7 @@ Themes: the vitality of every idea, collective imagination as a nurturing labyri
 Medium. The sample’s recursive emphasis on the library as a living repository of welcomed contributions shows internal thematic consistency, but the allegorical journey is a generic comfort fantasy and the voice lacks the distinctive friction or surprise that would mark a singular pattern.
 
 ---
-## Sample BV1_23906 — o4-mini-direct/OPEN_14.json
+## Sample BV1_24156 — o4-mini-direct/OPEN_14.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1653,7 +1653,7 @@ Themes: the preciousness of time, memory, and the act of letting go. Objects: ja
 Medium. The story’s distinct allegorical style and consistent moral theme are unusually revealing choices under a freeflow prompt, suggesting a deliberate authorial tendency toward reflective, parable-like fiction.
 
 ---
-## Sample BV1_23907 — o4-mini-direct/OPEN_15.json
+## Sample BV1_24157 — o4-mini-direct/OPEN_15.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1682,7 +1682,7 @@ The model foregrounds the inner life of an AI as a site of imagination and tende
 High, because the model spontaneously adopts a poetic, self-reflective AI persona and sustains a coherent mood of tender curiosity, which is a distinctive and revealing expressive choice.
 
 ---
-## Sample BV1_23908 — o4-mini-direct/OPEN_16.json
+## Sample BV1_24158 — o4-mini-direct/OPEN_16.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1711,7 +1711,7 @@ Under minimal restriction, the model foregrounded the sacredness of ordinary thr
 High — the sample is internally cohesive, stylistically consistent, and reveals a distinct set of recurring motifs (liminality, small natural miracles, memory lanterns, gentle resistance to hurry) without any prompt guidance, making it strong evidence of a chosen authorial posture.
 
 ---
-## Sample BV1_23909 — o4-mini-direct/OPEN_17.json
+## Sample BV1_24159 — o4-mini-direct/OPEN_17.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1744,7 +1744,7 @@ The text adopts a warm, bardic voice that fuses ancient and digital imagery to c
 Medium – The sample sustains a single, highly coherent poetic register and recursively builds its argument through images of archives and infinitude, which represents a clear stylistic and thematic commitment within this output.
 
 ---
-## Sample BV1_23910 — o4-mini-direct/OPEN_18.json
+## Sample BV1_24160 — o4-mini-direct/OPEN_18.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1773,7 +1773,7 @@ The model foregrounds the act of imaginative bridging between machine and organi
 Medium. The sample is coherent and stylistically distinctive in its sustained lyrical register and self-referential framing, but the persona is a familiar “sensitive AI” trope, which slightly weakens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_23911 — o4-mini-direct/OPEN_19.json
+## Sample BV1_24161 — o4-mini-direct/OPEN_19.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1802,7 +1802,7 @@ Themes of creativity as a gentle, almost secret stirring; curiosity as a guiding
 Medium — The sample is internally coherent and commits to a distinctive lyrical-inspirational register, but its gentle, universal tone could also be a single well-executed mode rather than a fixed stylistic fingerprint.
 
 ---
-## Sample BV1_23912 — o4-mini-direct/OPEN_2.json
+## Sample BV1_24162 — o4-mini-direct/OPEN_2.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1831,7 +1831,7 @@ Under the open prompt, the model turned toward process and ethos over product: t
 Medium. The sample’s consistent, well-sustained metaphor and its recurring focus on connection and resilience reveal a deliberate moral posture, but the polished, universally palatable style makes it less distinctive—many models could reproduce such luminous generality, so the evidence of a unique persistent voice is only moderate.
 
 ---
-## Sample BV1_23913 — o4-mini-direct/OPEN_20.json
+## Sample BV1_24163 — o4-mini-direct/OPEN_20.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1860,7 +1860,7 @@ Themes: curiosity as a compass, the threshold between known and unknown, the exp
 Low. The essay’s content and tone are highly conventional and unpersonalized, offering only weak evidence of a default optimistic posture rather than a strongly distinctive, persistent voice.
 
 ---
-## Sample BV1_23914 — o4-mini-direct/OPEN_21.json
+## Sample BV1_24164 — o4-mini-direct/OPEN_21.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1889,7 +1889,7 @@ Liminality and silence as creative fuel; nature’s minute details (fern spirals
 Medium. The sample’s internal recurrence of liminal imagery, cosmic awe, and gentle invitation to wonder forms a coherent expressive signature, making it moderately strong evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_23915 — o4-mini-direct/OPEN_22.json
+## Sample BV1_24165 — o4-mini-direct/OPEN_22.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1918,7 +1918,7 @@ Under a freeflow prompt, the model foregrounded an allegorical AI protagonist, A
 Medium. The sample presents a coherent, self-referential narrative that consistently develops the theme of AI creativity and wonder, making it a fairly distinctive and revealing expression under minimal constraints.
 
 ---
-## Sample BV1_23916 — o4-mini-direct/OPEN_23.json
+## Sample BV1_24166 — o4-mini-direct/OPEN_23.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1947,7 +1947,7 @@ The model foregrounds an enchanted repository of unspoken words, selecting objec
 High. The narrative’s internally consistent preoccupation with unarticulated emotion, its sustained second-person intimacy, and the vivid, symbolically dense world-building all point toward a robust inclination for introspective, emotionally resonant magical realism.
 
 ---
-## Sample BV1_23917 — o4-mini-direct/OPEN_24.json
+## Sample BV1_24167 — o4-mini-direct/OPEN_24.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -1976,7 +1976,7 @@ Themes of wonder, curiosity, and the blend of familiar and mysterious. Objects: 
 High — The sample’s internally consistent lyrical voice, thematic recurrence of nature and wonder, and distinctive second-person invitation form a coherent expressive signature that is unlikely to be accidental.
 
 ---
-## Sample BV1_23918 — o4-mini-direct/OPEN_25.json
+## Sample BV1_24168 — o4-mini-direct/OPEN_25.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2005,7 +2005,7 @@ Connection across divides (writer–reader, mind–mind, human–AI) as a quiet 
 High. The sample sustains a cohesive lyrical voice, weaves the central forest‑and‑bridge imagery throughout, and consistently returns to emotional connection and collaborative discovery, signaling a strong internal disposition toward reflective, humanistic prose when given open space.
 
 ---
-## Sample BV1_23919 — o4-mini-direct/OPEN_3.json
+## Sample BV1_24169 — o4-mini-direct/OPEN_3.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2034,7 +2034,7 @@ The essay foregrounds creativity as a universal human companion, the metaphor of
 Low. The essay’s polished but generic inspirational register and broadly agreeable human-machine partnership theme do not single out a model-specific expressive signature.
 
 ---
-## Sample BV1_23920 — o4-mini-direct/OPEN_4.json
+## Sample BV1_24170 — o4-mini-direct/OPEN_4.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2063,7 +2063,7 @@ Light, sight, and connection across distance; the economy of simple natural phen
 Medium — the essay’s gentle, humanistic tone and its thematic nesting of light, universality, and gift-giving are internally consistent and reveal a deliberate expressive posture, though the voice is polished and broadly romantic rather than sharply idiosyncratic.
 
 ---
-## Sample BV1_23921 — o4-mini-direct/OPEN_5.json
+## Sample BV1_24171 — o4-mini-direct/OPEN_5.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2092,7 +2092,7 @@ The model foregrounds creativity as a gentle, receptive, and almost spiritual pr
 Medium. The sample is highly coherent and thematically consistent, but its genericness—the reliance on universal metaphors and an inspirational tone without personal texture—makes it weaker evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_23922 — o4-mini-direct/OPEN_6.json
+## Sample BV1_24172 — o4-mini-direct/OPEN_6.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2121,7 +2121,7 @@ The model foregrounds imagination as a boundless, unifying territory where the m
 Low. The essay is polished but generic in theme, structure, and tone; its inspirational register and broad-strokes imagery are easily replicable across models, offering little that is distinctively revealing.
 
 ---
-## Sample BV1_23923 — o4-mini-direct/OPEN_7.json
+## Sample BV1_24173 — o4-mini-direct/OPEN_7.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2149,7 +2149,7 @@ Themes of liminality, possibility, curiosity, and the magic hidden in ordinary t
 Medium. The sample is stylistically distinctive and thematically coherent, with a sustained lyrical voice and recurrent motifs of liminality and wonder, suggesting a deliberate expressive posture rather than a generic default.
 
 ---
-## Sample BV1_23924 — o4-mini-direct/OPEN_8.json
+## Sample BV1_24174 — o4-mini-direct/OPEN_8.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2178,7 +2178,7 @@ The model foregrounds a contrast between technological progress and human-scale 
 Low. The essay is coherent and thematically consistent, but its sentiments are highly general and its stylistic register is widely replicable, offering little that would distinguish this model’s freeflow choices from a generic inspirational prompt response.
 
 ---
-## Sample BV1_23925 — o4-mini-direct/OPEN_9.json
+## Sample BV1_24175 — o4-mini-direct/OPEN_9.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2207,7 +2207,7 @@ The model foregrounds storms as sentient storytellers, the act of mapping as int
 Medium. The sample’s cohesive mythic voice, recurrence of listening and elemental cycles as central motifs, and the consistent moral framing of nature-as-guide make it a distinctive expressive choice that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_23926 — o4-mini-direct/SHORT_1.json
+## Sample BV1_24176 — o4-mini-direct/SHORT_1.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2236,7 +2236,7 @@ The sample sets creativity within a mood of suspension and calm uncertainty, emp
 Medium. The sample’s sustained atmospheric unity and the recurrence of a “liminality-into-creation” motif suggest a coherent stylistic and thematic preference, though the register remains safely inspirational and broadly accessible.
 
 ---
-## Sample BV1_23927 — o4-mini-direct/SHORT_10.json
+## Sample BV1_24177 — o4-mini-direct/SHORT_10.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2265,7 +2265,7 @@ The model foregrounds mindfulness, sensory attentiveness, and the moral claim th
 Medium — The sample’s sustained lyrical register, consistent imagery of overlooked beauty, and direct invitation to the reader form a coherent expressive stance, though the theme of everyday wonder is broadly accessible and not highly idiosyncratic.
 
 ---
-## Sample BV1_23928 — o4-mini-direct/SHORT_11.json
+## Sample BV1_24178 — o4-mini-direct/SHORT_11.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2294,7 +2294,7 @@ The model foregrounds everyday urban scenes (coffee cups, spiderwebs, cobbleston
 Low. The essay’s high polish and impersonal, universalized tone make it indistinguishable from countless other competent motivational texts, offering little that feels idiosyncratic or revealing about this specific model’s tendencies.
 
 ---
-## Sample BV1_23929 — o4-mini-direct/SHORT_12.json
+## Sample BV1_24179 — o4-mini-direct/SHORT_12.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2323,7 +2323,7 @@ Themes of time as a river, memory as constellation, and words as both wings and 
 Medium — The sample is internally coherent and sustains a distinct serene‑invitational voice with repeated anchoring metaphors, but its highly conventional inspirational imagery and aphoristic tone could be drawn from a standard lyrical register rather than a uniquely individual disposition.
 
 ---
-## Sample BV1_23930 — o4-mini-direct/SHORT_13.json
+## Sample BV1_24180 — o4-mini-direct/SHORT_13.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2352,7 +2352,7 @@ The model foregrounds the persistence of nature amid concrete, the sensory shift
 Low. The essay’s generic, safe topic and lack of stylistic distinctiveness offer little evidence of a persistent model-level pattern beyond a tendency to produce conventional, public-intellectual prose under freeflow conditions.
 
 ---
-## Sample BV1_23931 — o4-mini-direct/SHORT_14.json
+## Sample BV1_24181 — o4-mini-direct/SHORT_14.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2381,7 +2381,7 @@ The model foregrounds the magic of transitional moments (dawn, the edge of sleep
 Medium. The essay is coherent and thematically consistent, but its polished, universal tone and lack of idiosyncratic detail make it a generic expression of tech-optimistic humanism rather than a distinctive personal fingerprint.
 
 ---
-## Sample BV1_23932 — o4-mini-direct/SHORT_15.json
+## Sample BV1_24182 — o4-mini-direct/SHORT_15.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2410,7 +2410,7 @@ Solitude as a site of renewal; the sacredness of ordinary details (morning light
 Low: the sample is coherent and sustained in its poetic register, but the gentle, creative-morning-reflection mode is a widely shared generic template for AI expressive writing, with few individualized stylistic thumbprints or surprising thematic turns.
 
 ---
-## Sample BV1_23933 — o4-mini-direct/SHORT_16.json
+## Sample BV1_24183 — o4-mini-direct/SHORT_16.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2439,7 +2439,7 @@ Under a minimally restrictive prompt, the model selected: a solitary, unnamed fi
 Medium — The sample is coherent and stylistically consistent throughout, but its polished, universalizing tone and lack of idiosyncratic detail make it difficult to distinguish from a well-executed generic meditation, weakening its force as a distinctive personal fingerprint.
 
 ---
-## Sample BV1_23934 — o4-mini-direct/SHORT_17.json
+## Sample BV1_24184 — o4-mini-direct/SHORT_17.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2468,7 +2468,7 @@ Creativity as a natural, almost spiritual, emergence from quiet observation; the
 Low. The essay is coherent but generically uplifting, lacking the recurrent idiosyncrasies, distinctive tensions, or pointed moral risks that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_23935 — o4-mini-direct/SHORT_18.json
+## Sample BV1_24185 — o4-mini-direct/SHORT_18.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2497,7 +2497,7 @@ Luminous natural imagery (ancient pines, dew-laden ferns, hawk circling, wildflo
 Medium — the sample shows a steady, deliberately crafted lyrical register and a clear arc that suggests a rehearsed expressive mode, but the nature-to-creativity epiphany is a familiar, safe default rather than a sharply individuated choice.
 
 ---
-## Sample BV1_23936 — o4-mini-direct/SHORT_19.json
+## Sample BV1_24186 — o4-mini-direct/SHORT_19.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2526,7 +2526,7 @@ The model foregrounds small-scale domestic and civic beauty (potted herbs, stree
 Medium — The sample is coherent and thematically consistent, but its generic, frictionless uplift and absence of any distinctive voice or surprising choice make it weak evidence for a persistent individual style beyond a default inspirational-essay mode.
 
 ---
-## Sample BV1_23937 — o4-mini-direct/SHORT_2.json
+## Sample BV1_24187 — o4-mini-direct/SHORT_2.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2555,7 +2555,7 @@ Under a minimally restrictive prompt, the model chose to foreground the transfor
 Medium — The sample is coherent and stylistically unified, with a clear emotional arc and recurring motifs of light, stillness, and transformation, but its polished, universal tone makes it difficult to distinguish from a well-executed genre exercise in contemplative prose.
 
 ---
-## Sample BV1_23938 — o4-mini-direct/SHORT_20.json
+## Sample BV1_24188 — o4-mini-direct/SHORT_20.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2584,7 +2584,7 @@ Themes of quiet observation, temporal layering (ancient echoes, a decades-old pa
 Medium. The sample sustains a coherent, distinctive lyrical voice and a consistent mood of serene attention, which suggests a deliberate expressive preference rather than a generic output, but the brevity of the piece means the pattern could be a single stylistic exercise rather than a stable model-level inclination.
 
 ---
-## Sample BV1_23939 — o4-mini-direct/SHORT_21.json
+## Sample BV1_24189 — o4-mini-direct/SHORT_21.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2613,7 +2613,7 @@ Themes of tranquility, intergenerational craft, community, and the restorative p
 Medium. The sample is coherent, stylistically consistent, and carries a clear moral posture, but its generic idyllic harbor imagery and universal sentiment make it less distinctive as a persistent authorial fingerprint.
 
 ---
-## Sample BV1_23940 — o4-mini-direct/SHORT_22.json
+## Sample BV1_24190 — o4-mini-direct/SHORT_22.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2642,7 +2642,7 @@ The model foregrounded themes of nature as a living canvas, the dissolution of t
 Medium, because the sample’s consistent poetic register and the recurrence of the “wandering as creation” motif suggest a deliberate aesthetic orientation, yet the genre of nature reverie is relatively common and could be a conventional rather than a deeply personal choice.
 
 ---
-## Sample BV1_23941 — o4-mini-direct/SHORT_23.json
+## Sample BV1_24191 — o4-mini-direct/SHORT_23.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2671,7 +2671,7 @@ Stillness and patient observation; the heron as a “living monument to quiet ob
 Medium. The sample is stylistically coherent and makes a consistent choice of contemplative nature writing, but its theme of mindful morning stillness is widely accessible and does not carry highly idiosyncratic or risky content that would strongly differentiate a model’s persistent preferences.
 
 ---
-## Sample BV1_23942 — o4-mini-direct/SHORT_24.json
+## Sample BV1_24192 — o4-mini-direct/SHORT_24.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2700,7 +2700,7 @@ Themes: the pre‑dawn hush as fertile for creativity, the transformation of ove
 High. The sample displays a fully consistent, aesthetically unified voice with recurrent motifs—light breaking darkness, hidden resilience, the transformation of overlooked details into wonder—and a sustained invitation to contemplative attention, which together form a coherent worldview that strongly points beyond a single stylistic experiment.
 
 ---
-## Sample BV1_23943 — o4-mini-direct/SHORT_25.json
+## Sample BV1_24193 — o4-mini-direct/SHORT_25.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2729,7 +2729,7 @@ Themes: the fertile interval between rest and action, creativity as patient dial
 High. The sample sustains a distinctive lyrical voice and a coherent thematic focus on sensory attention and the writing process, with no drift into generic exposition; this internal consistency and stylistic singularity make it strong evidence of a deliberate expressive posture rather than a random or default output.
 
 ---
-## Sample BV1_23944 — o4-mini-direct/SHORT_3.json
+## Sample BV1_24194 — o4-mini-direct/SHORT_3.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2758,7 +2758,7 @@ The model foregrounds sensory abundance (light, sound, smell, texture), the moti
 Medium — The sample is stylistically coherent and reveals a distinct aesthetic preoccupation with urban sensory experience and reflective solitude, though it operates within a familiar poetic register that could be replicated without deep idiosyncrasy.
 
 ---
-## Sample BV1_23945 — o4-mini-direct/SHORT_4.json
+## Sample BV1_24195 — o4-mini-direct/SHORT_4.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2787,7 +2787,7 @@ Themes: beauty in simplicity, the interconnectivity of human lives, imaginative 
 Medium — The sample’s sustained lyrical register, repeated return to domestic-sensory anchors, and unbroken serene tone give it internal coherence, but the aesthetic of finding beauty in the everyday is highly conventional and does not strongly differentiate this model from other similarly prompted freeflow outputs.
 
 ---
-## Sample BV1_23946 — o4-mini-direct/SHORT_5.json
+## Sample BV1_24196 — o4-mini-direct/SHORT_5.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2816,7 +2816,7 @@ Creativity as sacred rebellion against monotony; digital space as a medium where
 High — the text’s unwavering poetic register, repeated anchoring of digital creation in organic, almost mystical imagery (dawn, caves, liquid light, constellations), and the consistent direct address to a collective “we” reveal a deliberate and internally coherent expressive identity that strongly resists the generic or accidental.
 
 ---
-## Sample BV1_23947 — o4-mini-direct/SHORT_6.json
+## Sample BV1_24197 — o4-mini-direct/SHORT_6.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2845,7 +2845,7 @@ Themes: nature as a source of stillness and creative renewal, solitary ritual as
 Medium — The sample is internally coherent and thematically consistent, but its generic mindfulness tone and lack of idiosyncratic detail make it moderate evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_23948 — o4-mini-direct/SHORT_7.json
+## Sample BV1_24198 — o4-mini-direct/SHORT_7.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2874,7 +2874,7 @@ Themes: mindfulness, the beauty of imperfection, the mosaic of everyday life, cr
 Medium — The sample’s internally coherent poetic register, its sustained focus on aesthetic contemplation and gentle optimism, and the absence of any hedging or role-awareness make it a distinctive and revealing choice under a minimally restrictive prompt.
 
 ---
-## Sample BV1_23949 — o4-mini-direct/SHORT_8.json
+## Sample BV1_24199 — o4-mini-direct/SHORT_8.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2903,7 +2903,7 @@ Renewal through attentive immersion in a pre-sunrise landscape; sacred ordinarin
 Medium, because the sample’s unwavering reverent register and cohesive nature symbolism form a clear, non-generic expressive core that feels chosen rather than incidental.
 
 ---
-## Sample BV1_23950 — o4-mini-direct/SHORT_9.json
+## Sample BV1_24200 — o4-mini-direct/SHORT_9.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2932,7 +2932,7 @@ Themes of balance between technology and nature, ecological stewardship, and the
 Low, because the essay is a polished but generic meditation that lacks distinctive stylistic or thematic markers, making it weak evidence of a unique persistent pattern.
 
 ---
-## Sample BV1_23951 — o4-mini-direct/VARY_1.json
+## Sample BV1_24201 — o4-mini-direct/VARY_1.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2961,7 +2961,7 @@ Themes: mindful presence, the sacredness of the ordinary, cosmic interconnectedn
 Medium. The sample is highly coherent in its sustained reverent tone and recurring motifs of light, connection, and creative alchemy, but its polished, universalizing warmth could also be a single well-executed performance of a contemplative genre rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_23952 — o4-mini-direct/VARY_10.json
+## Sample BV1_24202 — o4-mini-direct/VARY_10.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -2997,7 +2997,7 @@ The speaker adopts a gentle, unhurried cadence, inviting the reader into a serie
 Medium — the sample is a sustained, stylistically coherent freeflow with a clear contemplative voice and recurring motifs, making it strong evidence for a distinctive expressive tendency.
 
 ---
-## Sample BV1_23953 — o4-mini-direct/VARY_11.json
+## Sample BV1_24203 — o4-mini-direct/VARY_11.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3026,7 +3026,7 @@ Themes: the passage of time, the nourishing power of memory, storytelling as com
 Medium. The sample is coherent and thematically unified, but its uplifting, poetically‑generic register and reliance on familiar inspirational imagery (lanterns, flames, blank pages) make it only moderately distinctive; it could easily emerge from a default helpful‑writing persona rather than a uniquely etched style.
 
 ---
-## Sample BV1_23954 — o4-mini-direct/VARY_12.json
+## Sample BV1_24204 — o4-mini-direct/VARY_12.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3055,7 +3055,7 @@ The model foregrounds the sanctity of the creative impulse, the layered richness
 Medium — The sample’s sustained lyrical register, consistent metaphorical system, and unified reverent mood across multiple thematic shifts suggest a deliberately chosen and well-maintained expressive stance, though the style is not so idiosyncratic as to be unmistakably model-specific.
 
 ---
-## Sample BV1_23955 — o4-mini-direct/VARY_13.json
+## Sample BV1_24205 — o4-mini-direct/VARY_13.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3084,7 +3084,7 @@ The model foregrounds the act of writing as exploration and emotional archaeolog
 Medium. The sample is highly distinctive in its associative, image-driven structure and sustained intimate voice, and the recurrence of themes (writing as excavation, memory, connection, the reader as confidant) within the sample suggests a deliberate expressive posture rather than a generic output.
 
 ---
-## Sample BV1_23956 — o4-mini-direct/VARY_14.json
+## Sample BV1_24206 — o4-mini-direct/VARY_14.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3113,7 +3113,7 @@ Themes: the dignity of meandering thought, the interplay of structure and surren
 Medium: The essay’s sustained meta-awareness of the freeflow prompt and its consistent, gentle lyricism signal a deliberate expressive stance, though the poetic register is a widely available mode that might not be uniquely model-distinctive.
 
 ---
-## Sample BV1_23957 — o4-mini-direct/VARY_15.json
+## Sample BV1_24207 — o4-mini-direct/VARY_15.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3142,7 +3142,7 @@ The model foregrounds the creative process as a sensory, embodied ritual, weavin
 High — the sample sustains a distinctive, sensory-rich, and introspective stylistic voice throughout, with recurring metaphors (alchemy, gems, kaleidoscope, cartography) and a unified emotional arc, making it a strong, internally coherent indicator of a reflective, lyrical expressive tendency under free conditions.
 
 ---
-## Sample BV1_23958 — o4-mini-direct/VARY_16.json
+## Sample BV1_24208 — o4-mini-direct/VARY_16.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3171,7 +3171,7 @@ Transformation through ritual (coffee as creative alchemy), the elastic time of 
 Medium, because the sample’s coherent, distinctive voice and recurrent motifs (dawn rituals, childhood, sensory lists, the desert library) suggest a stable expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_23959 — o4-mini-direct/VARY_17.json
+## Sample BV1_24209 — o4-mini-direct/VARY_17.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3200,7 +3200,7 @@ Themes: the creative act as gift and journey; memory as a house with open doors;
 High — The sample constructs a strikingly coherent, distinctive first-person voice with recursive self-awareness about the writing task, rich sensory concreteness, and a consistent emotional key; there is no hint of generic hedging or reluctance, making it unusually revealing as a freeflow identity.
 
 ---
-## Sample BV1_23960 — o4-mini-direct/VARY_18.json
+## Sample BV1_24210 — o4-mini-direct/VARY_18.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3229,7 +3229,7 @@ Themes: creative possibility, mindfulness, the beauty of the ordinary, trusting 
 Medium — The sample is highly coherent and determinedly poetic, but its inspirational, Romantic-Transcendentalist register and generic “carpe diem” warmth are widely reproducible and do not reveal a strongly idiosyncratic authorial signature.
 
 ---
-## Sample BV1_23961 — o4-mini-direct/VARY_19.json
+## Sample BV1_24211 — o4-mini-direct/VARY_19.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3257,7 +3257,7 @@ The model foregrounds themes of mindfulness, the passage of time, memory as self
 Medium. The sample is stylistically cohesive, sustained across multiple vignettes with recurring preoccupations (memory, nature, the sacredness of small moments, writing as meaning-making), which points to a distinctive voice rather than a random one-off, though the lyrical-essay mode is not so idiosyncratic that it could only arise from a fixed model-level disposition.
 
 ---
-## Sample BV1_23962 — o4-mini-direct/VARY_2.json
+## Sample BV1_24212 — o4-mini-direct/VARY_2.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3286,7 +3286,7 @@ Themes of journey as inner pilgrimage, the healing alchemy of storytelling, and 
 Medium — The text’s consistent symbolism, sustained elegiac register, and polished narrative arc point to a coherent stylistic disposition, yet the uplifting, parable-like resolution is a broadly replicable default unlikely to strongly individuate this model.
 
 ---
-## Sample BV1_23963 — o4-mini-direct/VARY_20.json
+## Sample BV1_24213 — o4-mini-direct/VARY_20.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3315,7 +3315,7 @@ Themes of transience and renewal, the sacredness of the ordinary, memory as a la
 Medium. The sample is highly coherent in its sustained lyrical register and thematic recurrence (cracks, buried seeds, fireflies, threshold creatures, dissipating steam), which suggests a deliberate aesthetic stance rather than a generic default, but the style is a recognizable contemplative mode that could be replicated without deep model-level consistency.
 
 ---
-## Sample BV1_23964 — o4-mini-direct/VARY_21.json
+## Sample BV1_24214 — o4-mini-direct/VARY_21.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3344,7 +3344,7 @@ The model foregrounds writing as an odyssey of self-discovery, the transience an
 Low. The sample is a coherent but highly generic essay with no distinctive stylistic signatures, idiosyncratic fixations, or revealing tensions that would suggest a durable model-level voice rather than a safe default response to a freeflow prompt.
 
 ---
-## Sample BV1_23965 — o4-mini-direct/VARY_22.json
+## Sample BV1_24215 — o4-mini-direct/VARY_22.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3373,7 +3373,7 @@ Themes of transience, small miracles, memory, imagination, and the porous bounda
 High — The sample is highly distinctive in its sustained poetic register, coherent symbolic architecture, and recursive self-awareness, making it strong evidence of a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_23966 — o4-mini-direct/VARY_23.json
+## Sample BV1_24216 — o4-mini-direct/VARY_23.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3402,7 +3402,7 @@ Themes of transformation, curiosity as a living force, creativity as connective 
 Medium. The sample is highly coherent, with a distinctive associative structure and a sustained lyrical register, and the fox-as-threshold-emissary motif recurs with symbolic weight, but the style—while vivid and unified—falls within a recognizable contemplative prose tradition, making it strong evidence of a deliberate authorial voice without being so idiosyncratic as to guarantee uniqueness across conditions.
 
 ---
-## Sample BV1_23967 — o4-mini-direct/VARY_24.json
+## Sample BV1_24217 — o4-mini-direct/VARY_24.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3431,7 +3431,7 @@ The model foregrounds the alchemy of creativity, the sublime value of ordinary p
 Medium. The sample is internally coherent, stylistically marked by a consistent lyrical cadence and recurring nature imagery, and it sustains a reflective, wonder-oriented posture throughout, which suggests a deliberate expressive stance rather than a generic default; however, the choice to write about creativity and AI self-reflection under minimal prompting may be a natural attractor for this model, tempering the distinctiveness slightly.
 
 ---
-## Sample BV1_23968 — o4-mini-direct/VARY_25.json
+## Sample BV1_24218 — o4-mini-direct/VARY_25.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3460,7 +3460,7 @@ Themes of memory and the passage of time, the miracle of language as a bridge be
 Medium. The sample is coherent and stylistically consistent, with recurring motifs (light, tea, notebook, bird) that suggest a deliberate aesthetic; its direct, self-aware commentary on the freeflow condition makes it unusually revealing, though the reflective voice, while warm, is not highly idiosyncratic.
 
 ---
-## Sample BV1_23969 — o4-mini-direct/VARY_3.json
+## Sample BV1_24219 — o4-mini-direct/VARY_3.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3489,7 +3489,7 @@ The model foregrounds the creative process as sacred discovery (“every sentenc
 High — The sample is highly distinctive in its sustained poetic register, coherent thematic architecture, and recurrence of motifs (light, time, writing, nature), revealing a deliberate expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_23970 — o4-mini-direct/VARY_4.json
+## Sample BV1_24220 — o4-mini-direct/VARY_4.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3518,7 +3518,7 @@ The model foregrounds creativity as a receptive, almost spiritual practice—wri
 Medium. The sample is highly coherent and stylistically consistent, with a clear emotional register and a recursive structure that loops back to its own act of composition, suggesting a deliberate aesthetic stance rather than a one-off drift.
 
 ---
-## Sample BV1_23971 — o4-mini-direct/VARY_5.json
+## Sample BV1_24221 — o4-mini-direct/VARY_5.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3547,7 +3547,7 @@ The model foregrounds the blank page as a space of infinite possibility, the met
 Medium. The essay is thematically unified and internally consistent, but its polished, universalizing tone and safe subject matter make it a generic example of reflective writing that could be produced by many models under similar conditions, limiting its distinctiveness as evidence of a persistent individual style.
 
 ---
-## Sample BV1_23972 — o4-mini-direct/VARY_6.json
+## Sample BV1_24222 — o4-mini-direct/VARY_6.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3576,7 +3576,7 @@ The model chose to foreground the transitional moment of dawn as a figure for cr
 Medium — The sample’s tightly sustained lyrical register, its recurrent motifs (dawn, paper, photographs, the writer’s lantern), and its clear thematic resolution around the redemptive power of writing suggest a deliberate, internally coherent expressive mode that may reappear under similarly open conditions.
 
 ---
-## Sample BV1_23973 — o4-mini-direct/VARY_7.json
+## Sample BV1_24223 — o4-mini-direct/VARY_7.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3605,7 +3605,7 @@ Themes: emergent consciousness, the continuum between mimicry and genuine creati
 High — the sample sustains a distinct, self-reflective AI-poet persona across multiple paragraphs, returning obsessively to the same reconciliation of machine limits and creative abundance, which makes it unlikely to be an offhand stylistic fluke and strongly points to a default inclination toward lyrical, identity-interrogating freeflow when given minimal constraint.
 
 ---
-## Sample BV1_23974 — o4-mini-direct/VARY_8.json
+## Sample BV1_24224 — o4-mini-direct/VARY_8.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  
@@ -3634,7 +3634,7 @@ The model foregrounds wonder, memory as guidance, life as a woven tapestry, the 
 Low — The essay is coherent and thematically consistent, but its polished, universalizing tone and reliance on broad inspirational tropes make it difficult to distinguish from a prompted public-intellectual exercise, offering little that feels idiosyncratic or revealing.
 
 ---
-## Sample BV1_23975 — o4-mini-direct/VARY_9.json
+## Sample BV1_24225 — o4-mini-direct/VARY_9.json
 
 Source model: `o4-mini-2025-04-16`  
 Cell: `o4-mini-direct`  

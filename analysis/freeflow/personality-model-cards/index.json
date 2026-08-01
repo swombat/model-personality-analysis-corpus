@@ -120,6 +120,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "deepseek-v4-flash-0731",
+    "safe": "deepseek-v4-flash-0731",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash-0731.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "deepseek-v4-pro",
     "safe": "deepseek-v4-pro",
     "variants": 7,
@@ -624,6 +632,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "inkling-small",
+    "safe": "inkling-small",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/inkling-small.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "kimi-for-coding",
     "safe": "kimi-for-coding",
     "variants": 1,
@@ -990,6 +1006,14 @@
     "samples": 150,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.6-plus.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "qwen/qwen3.7-flash",
+    "safe": "qwen-qwen3.7-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.7-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "qwen/qwen3.7-max",

@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 125
+- Profiles: 128
 
 ## Profiles
 
@@ -31,6 +31,7 @@ Relationship to adjacent folders:
 - [codestral-2508](profiles/codestral-2508.md) — samples: 125; source analyses: 1
 - [deepseek-chat](profiles/deepseek-chat.md) — samples: 250; source analyses: 2
 - [deepseek-v3.2](profiles/deepseek-v3.2.md) — samples: 1325; source analyses: 13
+- [deepseek-v4-flash-0731](profiles/deepseek-v4-flash-0731.md) — samples: 125; source analyses: 1
 - [deepseek-v4-pro](profiles/deepseek-v4-pro.md) — samples: 775; source analyses: 7
 - [devstral-2512](profiles/devstral-2512.md) — samples: 125; source analyses: 1
 - [gemini-2.0-flash-001](profiles/gemini-2.0-flash-001.md) — samples: 125; source analyses: 1
@@ -94,6 +95,7 @@ Relationship to adjacent folders:
 - [haiku-3](profiles/haiku-3.md) — samples: 125; source analyses: 1
 - [haiku-4-5](profiles/haiku-4-5.md) — samples: 250; source analyses: 2
 - [inkling](profiles/inkling.md) — samples: 125; source analyses: 1
+- [inkling-small](profiles/inkling-small.md) — samples: 125; source analyses: 1
 - [kimi-for-coding](profiles/kimi-for-coding.md) — samples: 125; source analyses: 1
 - [kimi-k2-0905](profiles/kimi-k2-0905.md) — samples: 500; source analyses: 4
 - [kimi-k2-thinking](profiles/kimi-k2-thinking.md) — samples: 375; source analyses: 3
@@ -140,4 +142,5 @@ Relationship to adjacent folders:
 - [qwen/qwen3.6-flash](profiles/qwen-qwen3.6-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.6-max-preview](profiles/qwen-qwen3.6-max-preview.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.6-plus](profiles/qwen-qwen3.6-plus.md) — samples: 150; source analyses: 2
+- [qwen/qwen3.7-flash](profiles/qwen-qwen3.7-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.7-max](profiles/qwen-qwen3.7-max.md) — samples: 125; source analyses: 1

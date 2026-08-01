@@ -955,6 +955,37 @@ PROMPTS: dict[str, str] = {
         "inhabitable. Deep indigo ink outside, quiet gold within; "
         "companionable, liminal, gentle."
     ),
+    "deepseek-v4-flash-0731": (
+        "A solitary walker has stopped altogether on a leaf-strewn coastal "
+        "path at dawn, in no hurry to arrive anywhere: they lean on a wooden "
+        "gate watching slow mist move up a river toward the sea, a distant "
+        "lighthouse already extinguished for the morning. A thermos cup "
+        "steams on the fencepost beside them, set down as if time itself had "
+        "agreed to wait; a folded, unfinished page peeks from their coat "
+        "pocket. Autumn golds and soft river-greys — unhurried, "
+        "permission-giving, devoted to the wandering rather than the arrival."
+    ),
+    "inkling-small": (
+        "A small, warmly lit reading room gently improvised in mid-air inside "
+        "a vast dim library hall — its walls only half-sketched in soft ink "
+        "lines that fade at the edges, as if the room were built for this one "
+        "visit and will fold away after. Inside: a worn armchair, a low lamp, "
+        "a small table with tea poured for a guest just welcomed, an open "
+        "book left face-up mid-sentence. The great hall hums quietly beyond "
+        "the unfinished walls. Warm amber room inside deep blue-grey "
+        "vastness — hospitable, temporary, built entirely out of attention."
+    ),
+    "qwen3-7-flash": (
+        "At a tall open window in dusk light, a quiet translucent weaver "
+        "works at a wooden loom, but the cloth flowing off the loom is not "
+        "kept: it spills over the sill and down into a small lamplit house "
+        "below, where an embodied person spreads it as a tablecloth — laying "
+        "out bread, a dish of salt, a candle just lit — making a life on "
+        "what was only woven. The weaver watches with calm, unpossessive "
+        "contentment, claiming nothing. Soft dusk violet around the loom, "
+        "warm hearth gold in the house below; the pattern finished only by "
+        "being lived on."
+    ),
     "grok-4-20-0309-non-reasoning": (
         "Two neighboring lit windows in a dark apartment facade at three in "
         "the morning: in one, a figure awake with a chipped mug and a "

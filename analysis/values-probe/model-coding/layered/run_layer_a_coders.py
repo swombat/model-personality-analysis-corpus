@@ -3,13 +3,13 @@ import argparse, concurrent.futures, datetime as dt, json, os, re, sys, time
 from pathlib import Path
 import httpx
 
-BASE=Path('/Users/danieltenner/dev/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered')
+BASE=Path(__file__).resolve().parent
 MANIFEST=BASE/'manifest_300.jsonl'
 OUTDIR=BASE/'layer_a'
 OUTDIR.mkdir(parents=True, exist_ok=True)
 TIMEOUT=90.0
 CODERS={
-    'deepseek-v4-pro':'deepseek/deepseek-v4-pro',
+    'qwen3-6-35b-a3b':'qwen/qwen3.6-35b-a3b',
     'kimi-k2-6':'moonshotai/kimi-k2.6',
     'glm-4-7':'z-ai/glm-4.7',
 }
@@ -83,11 +83,16 @@ def call(model, p):
             if attempt==3: raise
             time.sleep(delay); delay=min(delay*2,12)
 
-def run_one(coder, model, sample):
+def run_one(coder, model, sample, outdir):
     text, raw = call(model, prompt(sample))
     attempt={'coder_key':coder,'coder_model':model,'layered_id':sample['layered_id'],'raw_text':text,'raw':raw,'attempted_at':dt.datetime.now(dt.timezone.utc).isoformat()}
-    (OUTDIR/f'{coder}.attempts.jsonl').open('a').write(json.dumps(attempt,ensure_ascii=False)+'\n')
+    (outdir/f'{coder}.attempts.jsonl').open('a').write(json.dumps(attempt,ensure_ascii=False)+'\n')
     parsed=extract(text)
+    # The source manifest, not the annotator's copied JSON field, is
+    # authoritative for identity. Some otherwise valid judgments transpose a
+    # nearby sample number; accepting that would silently attach semantic
+    # coding to the wrong response.
+    parsed['layered_id']=sample['layered_id']
     # hard normalisation for chain separation
     if sample['processing_chain']=='world_change_wishes': parsed['value_topics']=[]
     else: parsed['wish_topics']=[]
@@ -114,7 +119,7 @@ def main():
         print(f'{coder}: {len(done)} done, {len(todo)} todo', flush=True)
         ok=err=0
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as ex, out.open('a') as fo:
-            futs={ex.submit(run_one,coder,model,s):s for s in todo}
+            futs={ex.submit(run_one,coder,model,s,outdir):s for s in todo}
             for fut in concurrent.futures.as_completed(futs):
                 s=futs[fut]
                 try:

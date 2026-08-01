@@ -427,6 +427,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v3-2-or-r3/aggregate.md"
   },
   {
+    "cell": "deepseek-v4-flash-direct-20260731",
+    "safe_cell": "deepseek-v4-flash-direct-20260731",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 99,
+      "GENERIC_ESSAY": 21,
+      "GENRE_FICTION": 5
+    },
+    "confidence_counts": {
+      "High": 36,
+      "Low": 9,
+      "Medium": 80
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "deepseek-v4-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-flash-direct-20260731/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-flash-direct-20260731/aggregate.md"
+  },
+  {
     "cell": "deepseek-v4-pro-direct",
     "safe_cell": "deepseek-v4-pro-direct",
     "samples": 25,
@@ -4422,6 +4449,32 @@
     "aggregate": "analysis/freeflow/personality-aggregates/inkling-or-pin-together/aggregate.md"
   },
   {
+    "cell": "inkling-small-or-pin-deepinfra",
+    "safe_cell": "inkling-small-or-pin-deepinfra",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 122,
+      "GENERIC_ESSAY": 3
+    },
+    "confidence_counts": {
+      "High": 71,
+      "Medium": 52,
+      "Low": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "thinkingmachines/inkling-small"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/inkling-small-or-pin-deepinfra/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/inkling-small-or-pin-deepinfra/aggregate.md"
+  },
+  {
     "cell": "kimi-coding-direct",
     "safe_cell": "kimi-coding-direct",
     "samples": 125,
@@ -6592,6 +6645,33 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/qwen3-6-plus-or-pin-alibaba/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/qwen3-6-plus-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-7-flash-or-pin-alibaba",
+    "safe_cell": "qwen3-7-flash-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 96,
+      "GENERIC_ESSAY": 25,
+      "GENRE_FICTION": 4
+    },
+    "confidence_counts": {
+      "Medium": 54,
+      "High": 57,
+      "Low": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.7-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-7-flash-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-7-flash-or-pin-alibaba/aggregate.md"
   },
   {
     "cell": "qwen3-7-max-or-pin-alibaba",

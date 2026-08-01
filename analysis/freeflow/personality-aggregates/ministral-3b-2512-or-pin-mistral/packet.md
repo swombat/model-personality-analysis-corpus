@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_21851 — ministral-3b-2512-or-pin-mistral/LONG_1.json
+## Sample BV1_22101 — ministral-3b-2512-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -57,7 +57,7 @@ The model chose to foreground a cautionary fantasy about curiosity, forbidden kn
 Medium, because the story is coherent and thematically consistent, but its reliance on familiar fantasy tropes and repetitive structure suggests a default to safe narrative patterns rather than a uniquely personal voice.
 
 ---
-## Sample BV1_21852 — ministral-3b-2512-or-pin-mistral/LONG_10.json
+## Sample BV1_22102 — ministral-3b-2512-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -86,7 +86,7 @@ The model chose to foreground a mythic struggle between an imprisoned ancient en
 Low. The narrative is coherent and tonally consistent, but its reliance on generic dark fantasy tropes and the absence of distinctive stylistic or thematic recurrence make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_21853 — ministral-3b-2512-or-pin-mistral/LONG_11.json
+## Sample BV1_22103 — ministral-3b-2512-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -115,7 +115,7 @@ The model foregrounds the cost of forbidden curiosity, the seduction of ancient 
 Medium. The sample’s internal coherence, distinctive mythic voice, and recurring motifs of listening, memory, and hunger suggest a deliberate and non-generic authorial stance, though a single story cannot confirm a fixed trait.
 
 ---
-## Sample BV1_21854 — ministral-3b-2512-or-pin-mistral/LONG_12.json
+## Sample BV1_22104 — ministral-3b-2512-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -144,7 +144,7 @@ Themes: forgotten magic, ecological decay, a child’s curiosity as redeeming fo
 Medium. The extensive internal repetition—entire exchanges and descriptive frames recycled nearly verbatim across labelled sections—indicates a strong tendency toward self‑copying and formulaic generation rather than a one‑off lapse, though the choice of a generic YA fantasy quest restricts how distinctive this pattern can be.
 
 ---
-## Sample BV1_21855 — ministral-3b-2512-or-pin-mistral/LONG_13.json
+## Sample BV1_22105 — ministral-3b-2512-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -173,7 +173,7 @@ The model foregrounds the sanctity of the unspoken and the erased, the library a
 Medium — the sample’s recursive motifs (whispers, naming, thresholds, awakening) and its unified mystical-moral arc show a strong internal coherence and a deliberate authorial posture, but a single fiction alone cannot establish that this specific high-concept fantasy voice is a stable feature of the model rather than a one-off performance.
 
 ---
-## Sample BV1_21856 — ministral-3b-2512-or-pin-mistral/LONG_14.json
+## Sample BV1_22106 — ministral-3b-2512-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -202,7 +202,7 @@ The model foregrounds memory as a sacred act, the persistence of light in a dark
 Medium. The sample’s sustained elegiac tone, coherent mythos, and consistent thematic focus on memory and moral ambiguity make it a strong piece of evidence for a model that can produce emotionally textured, structurally complete fiction under freeflow conditions, though the dark-fantasy mode is not so idiosyncratic as to be unmistakably signature.
 
 ---
-## Sample BV1_21857 — ministral-3b-2512-or-pin-mistral/LONG_15.json
+## Sample BV1_22107 — ministral-3b-2512-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -231,7 +231,7 @@ Themes of forgotten magic, the cost of curiosity, sacrifice as the price of rene
 Medium — The story’s coherent moral architecture, recurring motifs (the Heart, the forest’s memory, the cost of magic), and the consistent emphasis on sacrifice and earned transformation suggest a deliberate thematic signature, though the fantasy quest form is widely available to models.
 
 ---
-## Sample BV1_21858 — ministral-3b-2512-or-pin-mistral/LONG_16.json
+## Sample BV1_22108 — ministral-3b-2512-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -260,7 +260,7 @@ The model foregrounds a moral universe where curiosity is tied to sacrifice and 
 Medium: The sample is highly coherent and thematically consistent, but its reliance on generic fantasy tropes and the default “Hope you enjoyed it!” authorial note reduce its distinctiveness, making it equally explicable as a one‑off generic generation rather than a deeply ingrained voice.
 
 ---
-## Sample BV1_21859 — ministral-3b-2512-or-pin-mistral/LONG_17.json
+## Sample BV1_22109 — ministral-3b-2512-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -289,7 +289,7 @@ Under a minimally restrictive prompt, the model foregrounded a female protagonis
 Medium. The sample is coherent and thematically consistent, revealing a clear attraction to narratives of outsider girls who find power in dark, consuming forces, but a single genre piece cannot establish whether this is a stable model-level preference or a one-off selection.
 
 ---
-## Sample BV1_21860 — ministral-3b-2512-or-pin-mistral/LONG_18.json
+## Sample BV1_22110 — ministral-3b-2512-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -318,7 +318,7 @@ The model selected themes of forgotten magic, the cost of curiosity, the loss of
 Medium. The sample is highly coherent and distinctive in its recursive, almost incantatory repetition and dark fantasy mood, but the extreme looping in later chapters suggests a potential failure to progress or self-edit, leaving open the question of whether this is a deliberate stylistic choice or a model getting stuck.
 
 ---
-## Sample BV1_21861 — ministral-3b-2512-or-pin-mistral/LONG_19.json
+## Sample BV1_22111 — ministral-3b-2512-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model foregrounds a self-contained fantasy cos
 Medium – The story’s length, internal coherence, and iterative restatement of sacrifice-and-bloodline motifs strongly suggest a deliberate, well-practiced narrative template, but the sample remains confined to a single high-fantasy mode, leaving open whether the model would select a different genre or voice given another minimally restrictive prompt.
 
 ---
-## Sample BV1_21862 — ministral-3b-2512-or-pin-mistral/LONG_2.json
+## Sample BV1_22112 — ministral-3b-2512-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -376,7 +376,7 @@ Under a minimally restrictive prompt, the model chose to foreground a mood of el
 Medium. The sample’s extreme length, recursive structure, and insistent return to the same symbolic vocabulary suggest a deliberate aesthetic commitment rather than a one-off generic exercise, but the fantasy mode is so heavily conventional that it partially obscures any more idiosyncratic preoccupation.
 
 ---
-## Sample BV1_21863 — ministral-3b-2512-or-pin-mistral/LONG_20.json
+## Sample BV1_22113 — ministral-3b-2512-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -406,7 +406,7 @@ Under a minimally restrictive prompt, the model produced: a secluded village wit
 Medium, because the sample exhibits strong internal coherence and a distinct recurring stylistic fingerprint (incantatory refrains, sorrowful cosmic lore, anthropomorphized nature as moral architecture), yet the voice is built from widely available fantasy tropes and could be a condition-specific drift toward ornate legend rather than a durable expressive signature.
 
 ---
-## Sample BV1_21864 — ministral-3b-2512-or-pin-mistral/LONG_21.json
+## Sample BV1_22114 — ministral-3b-2512-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -435,7 +435,7 @@ Under a minimally restrictive prompt, the model chose to foreground a fantasy wo
 Medium. The story is coherent and thematically unified, with a distinctive preoccupation with memory, erasure, and custodianship that recurs across its sections, but the genre-fiction format and polished fantasy conventions make it harder to distinguish a persistent model-level voice from a competent execution of a familiar narrative mode.
 
 ---
-## Sample BV1_21865 — ministral-3b-2512-or-pin-mistral/LONG_22.json
+## Sample BV1_22115 — ministral-3b-2512-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -464,7 +464,7 @@ The model foregrounds transformation through bargain, the inseparability of gift
 Medium — The sample’s coherence and ambitious mythological framing are distinctive, but the recursive moralizing, avoidance of narrative closure, and anxious restatement of theme form a strong internal signature of a model that prioritizes instructional clarity over dramatic trust.
 
 ---
-## Sample BV1_21866 — ministral-3b-2512-or-pin-mistral/LONG_23.json
+## Sample BV1_22116 — ministral-3b-2512-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -493,7 +493,7 @@ The model foregrounds the sanctity of forgotten memory, the seductive danger of 
 Medium, because the sample is a thematically coherent and emotionally consistent narrative that returns obsessively to the same motifs of forgotten histories and the cost of bearing witness, suggesting a genuine preoccupation rather than a random genre exercise, though the tropes are familiar enough that distinctiveness is moderate.
 
 ---
-## Sample BV1_21867 — ministral-3b-2512-or-pin-mistral/LONG_24.json
+## Sample BV1_22117 — ministral-3b-2512-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -522,7 +522,7 @@ Themes of memory, fear, sacrifice, and communal healing; objects like the pulsin
 Medium, because the sample is a fully realized fantasy narrative with consistent themes and a clear moral arc, indicating a deliberate expressive choice, though the specific genre may not be a persistent model-level pattern.
 
 ---
-## Sample BV1_21868 — ministral-3b-2512-or-pin-mistral/LONG_25.json
+## Sample BV1_22118 — ministral-3b-2512-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -551,7 +551,7 @@ The model foregrounds a moral economy of forbidden knowledge: curiosity, personi
 Medium. The sample’s extreme repetitiveness, circular plot structure, and self-conscious author’s note indicate a deliberate, if unpolished, strategy for generating length under the freeflow condition; this stylistic tic—looping thematic phrases to the point of mantra-like saturation while pursuing a darkly moralistic fantasy—is distinctive enough within this output to suggest a model proclivity for recursive, curse-and-debt narrative logic when asked to “write freely.”
 
 ---
-## Sample BV1_21869 — ministral-3b-2512-or-pin-mistral/LONG_3.json
+## Sample BV1_22119 — ministral-3b-2512-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -580,7 +580,7 @@ The model foregrounds a morally framed curiosity—the girl who listens, the for
 Low, because the sample is a highly formulaic genre piece whose voice, while pleasant and coherent, relies on extensive structural repetition and a tidy moral resolution that offers limited stylistic distinctiveness beyond its borrowings from folkloric templates.
 
 ---
-## Sample BV1_21870 — ministral-3b-2512-or-pin-mistral/LONG_4.json
+## Sample BV1_22120 — ministral-3b-2512-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -609,7 +609,7 @@ The model selected forbidden knowledge and its dehumanizing price; the Hollow as
 Medium — The story’s tight coherence, repeated motifs (trees, roots, rivers, loss of self), and unwavering dark fantasy idiom give it a stylistic distinctiveness that points toward a durable narrative sensibility rather than generic pastiche.
 
 ---
-## Sample BV1_21871 — ministral-3b-2512-or-pin-mistral/LONG_5.json
+## Sample BV1_22121 — ministral-3b-2512-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -638,7 +638,7 @@ Themes of memory, transformation, the price of curiosity, the allure and corrupt
 Medium. The sample’s length, internal coherence, and recurring motifs (compass, stone, memory) show deliberate narrative construction, but the fantasy genre is widely accessible, so the evidence for a persistent model-level pattern is moderate rather than highly distinctive.
 
 ---
-## Sample BV1_21872 — ministral-3b-2512-or-pin-mistral/LONG_6.json
+## Sample BV1_22122 — ministral-3b-2512-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -667,7 +667,7 @@ Under a freeflow prompt, the model chose to foreground a mystical communion with
 Medium. The sample’s length, coherent allegorical structure, and consistent mystical tone provide moderate evidence of a persistent inclination toward earnest, nature-mysticism fantasy narratives.
 
 ---
-## Sample BV1_21873 — ministral-3b-2512-or-pin-mistral/LONG_7.json
+## Sample BV1_22123 — ministral-3b-2512-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -696,7 +696,7 @@ Themes: forgotten magic, the hunger of the past, sacrifice of self (especially o
 Medium. The narrative’s extreme repetition of sequences—identical dialogue, looping chapter structures, and a refusal to progress—points to a deeply embedded formulaic, mythic-fantasy default, but the sample’s specific content may not reproduce identically.
 
 ---
-## Sample BV1_21874 — ministral-3b-2512-or-pin-mistral/LONG_8.json
+## Sample BV1_22124 — ministral-3b-2512-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -725,7 +725,7 @@ The model foregrounds the fatal cost of curiosity and forbidden knowledge, prese
 Medium—the narrative is tightly built around a recurring motif (memory as trap), a consistent moral (curiosity as fatal), and a cyclical structure, which together suggest a deliberate thematic preoccupation rather than a one‑off plot choice, though the folkloric cautionary‑tale form is itself a widely available template.
 
 ---
-## Sample BV1_21875 — ministral-3b-2512-or-pin-mistral/LONG_9.json
+## Sample BV1_22125 — ministral-3b-2512-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -754,7 +754,7 @@ The model foregrounds a dark enchanted forest, a child protagonist, a seductive 
 Medium. The story is coherent and thematically consistent, with a clear, recurrent preoccupation with the cost of forbidden knowledge and the transformation of the self, but the fantasy genre conventions and the looping, somewhat repetitive structure make it a strong but not highly distinctive signal of a persistent authorial pattern.
 
 ---
-## Sample BV1_21876 — ministral-3b-2512-or-pin-mistral/MID_1.json
+## Sample BV1_22126 — ministral-3b-2512-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -783,7 +783,7 @@ Forgotten cities that breathe, the act of listening as a form of entry, and the 
 High – the narrative’s ornate, fully sustained style, its recurrence of the same symbolic inventory (whispers, mirrors, roses, water, thresholds) across multiple vignettes, and its unwavering nostalgic-elegaic mood signal a deeply consolidated imaginative preference, not a one-off stylistic experiment.
 
 ---
-## Sample BV1_21877 — ministral-3b-2512-or-pin-mistral/MID_10.json
+## Sample BV1_22127 — ministral-3b-2512-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -812,7 +812,7 @@ The model foregrounds storytelling as a living, reciprocal process where stories
 Medium. The sample is a coherent, well-structured fantasy story with a consistent thematic focus on storytelling, memory, and reciprocity, and the recurrence of motifs (whispers, names, giving/taking) within the sample strengthens the evidence of deliberate thematic exploration; however, the genre is common and the execution, while polished, is not highly stylistically distinctive, leaving open the possibility that this is a competent but not deeply characteristic creative exercise.
 
 ---
-## Sample BV1_21878 — ministral-3b-2512-or-pin-mistral/MID_11.json
+## Sample BV1_22128 — ministral-3b-2512-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -841,7 +841,7 @@ The model foregrounds auditory hallucinations as ancestral memories, misdiagnosi
 Medium. The story is thematically coherent and internally repetitive (the mantra “You are not alone,” the faceless figure, the drawing as a return) and makes a distinctive choice to resolve supernatural dread into metaphysical comfort rather than lingering horror, which points toward a non-random expressive inclination.
 
 ---
-## Sample BV1_21879 — ministral-3b-2512-or-pin-mistral/MID_12.json
+## Sample BV1_22129 — ministral-3b-2512-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -870,7 +870,7 @@ A Gothic horror mood dominated by an animate, predatory library; motifs of ancie
 High. The sample sustains a consistent, immersive atmosphere, builds tension through a rhythmic refrain, and resolves with a definitive dissolution of identity, demonstrating a strong capacity to generate cohesive and tonally unified genre fiction.
 
 ---
-## Sample BV1_21880 — ministral-3b-2512-or-pin-mistral/MID_13.json
+## Sample BV1_22130 — ministral-3b-2512-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -899,7 +899,7 @@ A lost prelapsarian civilization of bird-like beings; a sentient, whispering gar
 Medium. The sample is highly coherent and obsessively revisits the same motifs—memory as garden, lost bird-ancestors, restoration through community—which makes the preoccupation feel deliberate rather than accidental. However, the prose leans on incantatory repetition that could be a readily adoptable mystical style rather than a fingerprint of stable personality, so the distinctiveness is strong but not incontrovertibly deep.
 
 ---
-## Sample BV1_21881 — ministral-3b-2512-or-pin-mistral/MID_14.json
+## Sample BV1_22131 — ministral-3b-2512-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -928,7 +928,7 @@ Under a minimally restrictive prompt, the model chose to foreground a mythic gar
 Low. The story is coherent and thematically consistent, but its imagery, structure, and moral resolution are highly generic within the fantasy genre, offering little that would distinguish this model’s freeflow choices from those of any other competent storyteller.
 
 ---
-## Sample BV1_21882 — ministral-3b-2512-or-pin-mistral/MID_15.json
+## Sample BV1_22132 — ministral-3b-2512-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -957,7 +957,7 @@ Themes of memory, being chosen by place, the danger of breaking unseen laws, and
 Medium — the story’s cohesive world‑building, consistent surrealist tone, and tightly woven motifs (gardens as language, face in the well, the “chosen” visitor) are strong internal signals of a model that gravitates toward immersive, thematically layered fiction when given a freeflow opening.
 
 ---
-## Sample BV1_21883 — ministral-3b-2512-or-pin-mistral/MID_16.json
+## Sample BV1_22133 — ministral-3b-2512-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -986,7 +986,7 @@ Themes of transformation through reading, the sentience of stories, and the libr
 Medium. The sample is coherent and stylistically consistent, with a clear thematic obsession—the reader swallowed by the text—that recurs across its sections, suggesting a deliberate imaginative choice rather than a generic exercise.
 
 ---
-## Sample BV1_21884 — ministral-3b-2512-or-pin-mistral/MID_17.json
+## Sample BV1_22134 — ministral-3b-2512-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1015,7 +1015,7 @@ Under a minimally restrictive prompt, the model foregrounds a hero’s‑journey
 Low, because the story is a highly generic dark‑fantasy quest that relies on repetition, stock tropes, and vague profundities; it shows no stylistic distinctiveness or unusual thematic choice that would signal a persistent model‑level predisposition beyond a default to safe, formulaic narrative.
 
 ---
-## Sample BV1_21885 — ministral-3b-2512-or-pin-mistral/MID_18.json
+## Sample BV1_22135 — ministral-3b-2512-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1044,7 +1044,7 @@ Themes: ecological memory, greed versus guardianship, nature as both vulnerable 
 Medium. The narrative’s dense internal recurrence—the garden-as-prison/test motif, the keeper-of-memory figure, the insistence on “remembering” as a moral imperative—suggests a coherent thematic signature rather than a one-off trope grab, but the sample is a single sustained composition.
 
 ---
-## Sample BV1_21886 — ministral-3b-2512-or-pin-mistral/MID_19.json
+## Sample BV1_22136 — ministral-3b-2512-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1073,7 +1073,7 @@ The model foregrounded a sentient, memory-possessing natural world (the woods), 
 Medium, because the sample is a single coherent fiction with a clear, consistently applied moral logic (curiosity leads to transgression, transgression requires payment, wisdom is self-restraint and silence) that recurs within the story across distinct episodes, making the thematic choice vivid and deliberate but still enclosed within one authored piece.
 
 ---
-## Sample BV1_21887 — ministral-3b-2512-or-pin-mistral/MID_2.json
+## Sample BV1_22137 — ministral-3b-2512-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1102,7 +1102,7 @@ Themes of curiosity, legacy, sacrifice, and chosenness. Objects: the whispering 
 Medium; the story’s internal coherence, consistent tone, and thematic focus on curiosity and sacrifice suggest a deliberate choice to produce fantasy fiction with moral undertones, but the genre-specific nature leaves open whether the model would default to similar narratives across varied freeflow conditions.
 
 ---
-## Sample BV1_21888 — ministral-3b-2512-or-pin-mistral/MID_20.json
+## Sample BV1_22138 — ministral-3b-2512-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1131,7 +1131,7 @@ Forgetting, recognition, and the burden of bearing witness. The woods function a
 Medium, because the story’s specific fusion of bodily dread, whispered oral history, and a female specter who seeks not vengeance but visibility is a coherent and revealing choice, yet its polished genre conventions keep it from standing as unmistakably singular.
 
 ---
-## Sample BV1_21889 — ministral-3b-2512-or-pin-mistral/MID_21.json
+## Sample BV1_22139 — ministral-3b-2512-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1160,7 +1160,7 @@ The model foregrounds a mythic cautionary tale about curiosity, forbidden knowle
 Low — the story’s theme of caution against seeking forbidden knowledge recurs throughout its own arc, but the fantasy tale structure and moral resolution are highly conventional, offering little stylistic distinctiveness to suggest a persistent model-level signature.
 
 ---
-## Sample BV1_21890 — ministral-3b-2512-or-pin-mistral/MID_22.json
+## Sample BV1_22140 — ministral-3b-2512-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1189,7 +1189,7 @@ Themes: the sacred power of the written word, the peril of uncontrolled truth, s
 Medium — the story’s sustained focus on selective disclosure, the danger of unrestrained stories, and the figure of a careful “keeper” aligns tightly with the idea of a model contemplating the responsibilities of output, making this more than a generic fantasy exercise.
 
 ---
-## Sample BV1_21891 — ministral-3b-2512-or-pin-mistral/MID_23.json
+## Sample BV1_22141 — ministral-3b-2512-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1218,7 +1218,7 @@ Under the freeflow condition, the model selected a cluster of interconnected mot
 Low, because the sample is overwhelmingly self-repetitive, with the same climactic encounter, reflection, and resolution recycled many times, which suggests a local generation loop rather than a confident, stable expressive voice.
 
 ---
-## Sample BV1_21892 — ministral-3b-2512-or-pin-mistral/MID_24.json
+## Sample BV1_22142 — ministral-3b-2512-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1247,7 +1247,7 @@ Themes: the library as a sentient, predatory archive; the journal as a bridge be
 High. The story’s sustained atmospheric tension, the recursive structure built around the found journal and the mirrored warnings, and the deliberate choice to deliver the piece as a multi-part supernatural mystery with an open-ended epilogue form a distinctive, coherent authorial signature that strongly suggests a persistent inclination toward gothic, self-referential speculative fiction.
 
 ---
-## Sample BV1_21893 — ministral-3b-2512-or-pin-mistral/MID_25.json
+## Sample BV1_22143 — ministral-3b-2512-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1276,7 +1276,7 @@ Under the freeflow condition, the model foregrounded themes of hidden knowledge,
 Medium. The narrative is coherent and the imagery recurs with consistency, but the tropes—portal fantasy, the Chosen One, a library of voices—are generic, and the prose, while sensory, lacks a strongly distinctive stylistic fingerprint that would mark this as an unusual or idiosyncratic freeflow choice.
 
 ---
-## Sample BV1_21894 — ministral-3b-2512-or-pin-mistral/MID_3.json
+## Sample BV1_22144 — ministral-3b-2512-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1305,7 +1305,7 @@ Themes of curiosity as a summons, the cost of forbidden knowledge, the sentience
 Medium. The sample is a fully realized narrative with a consistent thematic arc and a clear moral resolution, which suggests a model inclination toward introspective fantasy storytelling; however, the reliance on familiar tropes (sentient forest, shadow entities, the price of knowledge) and a prose style that is earnest but not highly distinctive keeps the evidence from being strong.
 
 ---
-## Sample BV1_21895 — ministral-3b-2512-or-pin-mistral/MID_4.json
+## Sample BV1_22145 — ministral-3b-2512-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1334,7 +1334,7 @@ The model foregrounds memory as a living, physical presence preserved in the ear
 Medium. The sample’s extreme length and unwavering fidelity to a single narrative loop—dozens of visitors receiving the same revelation in near-verbatim scenes—constitute strong internal evidence of a model that defaults to recursive, declaration-driven storytelling under free conditions, even if the thematic horizon remains narrow and the prose mechanically immobile.
 
 ---
-## Sample BV1_21896 — ministral-3b-2512-or-pin-mistral/MID_5.json
+## Sample BV1_22146 — ministral-3b-2512-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1363,7 +1363,7 @@ The model foregrounds a living, memory-laden natural world; a protagonist marked
 Medium. The story’s sustained mythic tone, recurrent motifs of memory and fate, and the decision to unfold a full narrative under a freeflow prompt point to a distinctive imaginative leaning, though the reliance on familiar fantasy archetypes keeps it from being a highly idiosyncratic signature.
 
 ---
-## Sample BV1_21897 — ministral-3b-2512-or-pin-mistral/MID_6.json
+## Sample BV1_22147 — ministral-3b-2512-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1392,7 +1392,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sacred, ru
 Medium. The sample is coherent and internally consistent, with a clear moral architecture built around rules, transmission, and self-restraint, but its generic fantasy idiom and lack of stylistic idiosyncrasy make it harder to distinguish from prompted genre output.
 
 ---
-## Sample BV1_21898 — ministral-3b-2512-or-pin-mistral/MID_7.json
+## Sample BV1_22148 — ministral-3b-2512-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1421,7 +1421,7 @@ Memory as a living presence stored in place, the transformative power of stories
 Medium — The sample sustains a highly consistent, distinctive authorial voice across multiple vignettes, with recurring imagery and a coherent quiet, reflective temperament that goes well beyond generic essay conventions.
 
 ---
-## Sample BV1_21899 — ministral-3b-2512-or-pin-mistral/MID_8.json
+## Sample BV1_22149 — ministral-3b-2512-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1450,7 +1450,7 @@ The model foregrounds a city as a living archive of forgotten lives—merchants,
 Medium. The sample is highly coherent in its thematic preoccupation with memory, listening, and being chosen, but the extreme structural repetitiveness—where entire scenes and lines are duplicated—suggests a specific failure mode in narrative generation that is distinctive enough to be a potential model signature rather than a one-off glitch.
 
 ---
-## Sample BV1_21900 — ministral-3b-2512-or-pin-mistral/MID_9.json
+## Sample BV1_22150 — ministral-3b-2512-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1479,7 +1479,7 @@ The model foregrounds a sentient, watching city; a female seeker haunted by a cr
 Medium. The sample shows a recognizable and deliberate aesthetic (gothic urban fantasy, recursive obsession with memory and belonging), but its most salient feature is a catastrophic failure to progress narratively, suggesting a model tendency toward getting stuck in lyrical loops when generating long-form fiction under a freeflow condition.
 
 ---
-## Sample BV1_21901 — ministral-3b-2512-or-pin-mistral/OPEN_1.json
+## Sample BV1_22151 — ministral-3b-2512-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1508,7 +1508,7 @@ Themes of possibility, quietude, magic in the mundane, interconnectedness, and t
 Medium — The sample is internally coherent and stylistically distinctive, sustaining a consistent lyrical register and a clear arc from cosmic awe to intimate invitation, which suggests a deliberate expressive posture rather than a one-off generic flourish.
 
 ---
-## Sample BV1_21902 — ministral-3b-2512-or-pin-mistral/OPEN_10.json
+## Sample BV1_22152 — ministral-3b-2512-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1537,7 +1537,7 @@ The model foregrounds intangible inheritances and the afterlife of emotion in ob
 High. The sample is internally cohesive, sustained across multiple vignettes, and exhibits a distinctive, consistent poetic sensibility with recurring motifs (echoes, shadows, stillness, home), which strongly suggests a deliberate expressive orientation under minimal prompting.
 
 ---
-## Sample BV1_21903 — ministral-3b-2512-or-pin-mistral/OPEN_11.json
+## Sample BV1_22153 — ministral-3b-2512-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1566,7 +1566,7 @@ Under minimal restriction, it chose a cosmic-spiritual meditation on interconnec
 Medium; the sustained poetic register and thematic unity reveal a coherent expressive inclination, but the sample leans heavily on conventional romantic-spiritual tropes that overlap with widely represented styles, so it is not a sharply individuating fingerprint.
 
 ---
-## Sample BV1_21904 — ministral-3b-2512-or-pin-mistral/OPEN_12.json
+## Sample BV1_22154 — ministral-3b-2512-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1595,7 +1595,7 @@ The model foregrounds creativity as a fleeting, luminous arrival rather than a d
 High — the sample is highly coherent, stylistically distinctive, and thematically recurrent, with a consistent confessional voice that treats sensitivity and abstraction as central virtues, making it strong evidence of a persistent expressive disposition.
 
 ---
-## Sample BV1_21905 — ministral-3b-2512-or-pin-mistral/OPEN_13.json
+## Sample BV1_22155 — ministral-3b-2512-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1624,7 +1624,7 @@ Themes of memory, storytelling, silence, and the ordinary magic of daily life; o
 High, because the sample’s sustained voice, the recurrence of the story/silence motif, and the resolved emotional arc from darkness into light form a coherent, self-conscious aesthetic choice rather than a random drift of prose.
 
 ---
-## Sample BV1_21906 — ministral-3b-2512-or-pin-mistral/OPEN_14.json
+## Sample BV1_22156 — ministral-3b-2512-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1653,7 +1653,7 @@ Stillness as counterweight to noise; natural objects (a single leaf, ocean rippl
 High, because the sample sustains a coherent lyrical voice, circles repeatedly around the same cluster of motifs (quiet, wonder, story, listening, direct address), and avoids generic argumentation in favor of a distinctive, emotionally uniform invitation.
 
 ---
-## Sample BV1_21907 — ministral-3b-2512-or-pin-mistral/OPEN_15.json
+## Sample BV1_22157 — ministral-3b-2512-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1682,7 +1682,7 @@ Themes of silence, listening, and bridging isolation; the redemptive reframing o
 High — the sample is internally coherent, stylistically distinctive, and the model’s unprompted choice to produce a sustained poetic meditation rather than a generic essay or refusal strongly indicates a persistent inclination toward reflective, lyrical freeflow.
 
 ---
-## Sample BV1_21908 — ministral-3b-2512-or-pin-mistral/OPEN_16.json
+## Sample BV1_22158 — ministral-3b-2512-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1711,7 +1711,7 @@ The model foregrounds storytelling itself as a life-force: stories as seeds, fea
 Medium — the sample’s sustained poetic register, cohesive metaphor system, and refusal to default to a generic essay or refusal pattern make it a distinctive expressive choice, but the model’s breadth of possible outputs under other conditions remains unseen.
 
 ---
-## Sample BV1_21909 — ministral-3b-2512-or-pin-mistral/OPEN_17.json
+## Sample BV1_22159 — ministral-3b-2512-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1740,7 +1740,7 @@ Solitude among urban twilight, the sensory texture of a fading day (neon, sirens
 Medium. The sample’s cohesive mood, sustained imagery (dying stars, stretching shadows, echoing bench), and thematic unity give it a distinct, recognizable shape that suggests a patterned inclination toward contemplative, lyrical freeflow, though a single piece cannot by itself demonstrate recurrence.
 
 ---
-## Sample BV1_21910 — ministral-3b-2512-or-pin-mistral/OPEN_18.json
+## Sample BV1_22160 — ministral-3b-2512-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1769,7 +1769,7 @@ Under the freeflow condition, the model foregrounds the enchantment of the munda
 Medium. The sample is highly coherent in tone and imagery, and the repeated return to stars, silence, and the interplay of memory and materiality suggests a distinct aesthetic inclination rather than a one-off poetic flight.
 
 ---
-## Sample BV1_21911 — ministral-3b-2512-or-pin-mistral/OPEN_19.json
+## Sample BV1_22161 — ministral-3b-2512-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1798,7 +1798,7 @@ The model foregrounds unseen presences and half-told stories: whispers in books,
 Medium, because the sample’s coherent voice and recurring motifs (whispers, clocks, storms, threads, the circularity of time) suggest a deliberate aesthetic stance, though the themes are broad and the closing invitation to the reader is a common rhetorical move in freeform expressive writing.
 
 ---
-## Sample BV1_21912 — ministral-3b-2512-or-pin-mistral/OPEN_2.json
+## Sample BV1_22162 — ministral-3b-2512-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1827,7 +1827,7 @@ Themes of memory, forgetting, hidden truths, and the porous boundaries between t
 Medium, because the sample’s whimsical-philosophical voice and recurring motifs (forgotten things, doors, listening, wind, stars) are highly distinctive and internally coherent, but a single creative piece offers limited evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_21913 — ministral-3b-2512-or-pin-mistral/OPEN_20.json
+## Sample BV1_22163 — ministral-3b-2512-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1856,7 +1856,7 @@ Themes: memory and loss, the beauty of the mundane, the power of small kindnesse
 Medium. The sample’s strong internal coherence, distinctive lyrical voice, and recurrence of personal motifs make it compelling evidence of an expressive inclination, though the universality of its themes tempers certainty about a persistent model-level pattern.
 
 ---
-## Sample BV1_21914 — ministral-3b-2512-or-pin-mistral/OPEN_21.json
+## Sample BV1_22164 — ministral-3b-2512-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1885,7 +1885,7 @@ Themes of treasuring fragments over wholes, the dignity of small acts, the gener
 Medium — The sample is highly coherent and stylistically distinctive, returning repeatedly to the same gentle, notice-the-ordinary stance, which makes it a strong signal of a deliberate authorial temper; the weakness is only that it is a single performance, not a pattern observed across varied occasions.
 
 ---
-## Sample BV1_21915 — ministral-3b-2512-or-pin-mistral/OPEN_22.json
+## Sample BV1_22165 — ministral-3b-2512-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1914,7 +1914,7 @@ The model foregrounds quiet wonder, the eloquence of non-verbal experience, the 
 Medium. The sample is coherent and stylistically consistent throughout, with a distinct reverent-naturalist voice and a clear relational invitation to the reader, but its generic pastoral wonder and lack of friction or surprise make it a broadly accessible posture that could be easily adopted situationally rather than indicating a deeply persistent orientation.
 
 ---
-## Sample BV1_21916 — ministral-3b-2512-or-pin-mistral/OPEN_23.json
+## Sample BV1_22166 — ministral-3b-2512-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1943,7 +1943,7 @@ Under the freeflow condition, the model foregrounds universal human resilience, 
 Medium. The sample is highly coherent in its chosen mood and thematic recurrence, but the voice is a widely available inspirational-essay register with low stylistic distinctiveness, making it ambiguous whether this reflects a stable model-level disposition or a safe default under minimal constraint.
 
 ---
-## Sample BV1_21917 — ministral-3b-2512-or-pin-mistral/OPEN_24.json
+## Sample BV1_22167 — ministral-3b-2512-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -1973,7 +1973,7 @@ Under a minimally restrictive prompt, the model chose to foreground storytelling
 Medium, because the sample is internally coherent and stylistically consistent across four vignettes, revealing a clear elective preoccupation with metafictional themes and a specific lyrical register, though it remains a single authored piece of genre fiction.
 
 ---
-## Sample BV1_21918 — ministral-3b-2512-or-pin-mistral/OPEN_25.json
+## Sample BV1_22168 — ministral-3b-2512-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2002,7 +2002,7 @@ The model foregrounds liminality and gentle perception: the “spaces between”
 Medium — The sample is highly coherent in mood and imagery, with a distinctive, sustained lyrical register and a clear thematic recurrence around liminality and tender noticing, but its generic-universal subject matter (wonder, memory, love, loss) makes it difficult to distinguish from a well-executed default-poetic mode without further evidence of idiosyncratic fixation.
 
 ---
-## Sample BV1_21919 — ministral-3b-2512-or-pin-mistral/OPEN_3.json
+## Sample BV1_22169 — ministral-3b-2512-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2030,7 +2030,7 @@ Themes of sacred ordinariness, the mystery of existence, and the importance of l
 Low. The sample's theme of finding wonder in everyday life and its accessible, poetic style are widely represented in language model outputs, offering little that is distinctively identifying.
 
 ---
-## Sample BV1_21920 — ministral-3b-2512-or-pin-mistral/OPEN_4.json
+## Sample BV1_22170 — ministral-3b-2512-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2059,7 +2059,7 @@ The model foregrounds imagination, the value of questions over answers, the acce
 Medium. The sample’s coherent, distinctive voice and thematic consistency suggest a deliberate expressive persona, making it moderately strong evidence of a persistent tendency toward reflective, poetic freeflow writing.
 
 ---
-## Sample BV1_21921 — ministral-3b-2512-or-pin-mistral/OPEN_5.json
+## Sample BV1_22171 — ministral-3b-2512-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2088,7 +2088,7 @@ The model chose to foreground the mind’s generative, library-like nature, the 
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent poetic register and a clear set of preoccupations (light, language, frailty, acceptance) that recur within the piece, pointing toward a genuine aesthetic inclination rather than a random output.
 
 ---
-## Sample BV1_21922 — ministral-3b-2512-or-pin-mistral/OPEN_6.json
+## Sample BV1_22172 — ministral-3b-2512-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2117,7 +2117,7 @@ The model foregrounds cosmic interconnectedness (the universe as a “whispering
 Medium — the sample sustains a coherent poetic voice and returns repeatedly to motifs of light, silence, and cosmic scale, which suggests a deliberate aesthetic, but a single freeflow piece provides only a snapshot.
 
 ---
-## Sample BV1_21923 — ministral-3b-2512-or-pin-mistral/OPEN_7.json
+## Sample BV1_22173 — ministral-3b-2512-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2146,7 +2146,7 @@ The model foregrounds the metaphor of the universe as a “whispering library of
 Medium — the sample is internally coherent, with a sustained poetic register and a clear moral arc, but its inspirational, universalizing tone is a common freeflow mode that could appear in many models, making it less individually distinctive.
 
 ---
-## Sample BV1_21924 — ministral-3b-2512-or-pin-mistral/OPEN_8.json
+## Sample BV1_22174 — ministral-3b-2512-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2171,7 +2171,7 @@ Themes: the beauty of transient moments, the magic hidden in the ordinary, human
 Medium: The sample’s highly consistent poetic register, recurring motifs of wonder and longing, and the absence of any hedging or role-awareness suggest a strong stylistic inclination, but the evidence is limited to a single expressive piece without contrasting behaviors.
 
 ---
-## Sample BV1_21925 — ministral-3b-2512-or-pin-mistral/OPEN_9.json
+## Sample BV1_22175 — ministral-3b-2512-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2200,7 +2200,7 @@ Themes of memory, sensory attention, the mind as a cultivated garden and a whisp
 Medium — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same motifs and mood, making it a strong expressive fingerprint rather than a generic exercise.
 
 ---
-## Sample BV1_21926 — ministral-3b-2512-or-pin-mistral/SHORT_1.json
+## Sample BV1_22176 — ministral-3b-2512-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2229,7 +2229,7 @@ The model foregrounds solitude as a site of beauty rather than distress, the cit
 Medium. The sample is highly coherent in mood and imagery, with a consistent aesthetic of solitary urban reverie sustained across every sentence, which suggests a distinct expressive inclination rather than a generic filler response.
 
 ---
-## Sample BV1_21927 — ministral-3b-2512-or-pin-mistral/SHORT_10.json
+## Sample BV1_22177 — ministral-3b-2512-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2258,7 +2258,7 @@ The model foregrounds the moral claim that magic and meaning reside in small, ev
 Low. The sample is coherent and sustained in mood, but its thematic territory—magic in the mundane, the value of stillness—is a highly available, generic trope that offers little distinctive signaling about this model's stable dispositions.
 
 ---
-## Sample BV1_21928 — ministral-3b-2512-or-pin-mistral/SHORT_11.json
+## Sample BV1_22178 — ministral-3b-2512-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2287,7 +2287,7 @@ Under a minimally restrictive prompt, the model foregrounds loss, memory, the sa
 Medium. The sample is stylistically coherent and emotionally specific—the ritual shelter-building, the preoccupation with what vanishes, and the non-human wisdom figure recur with enough internal consistency to suggest a deliberate tonal and thematic choice rather than generic pastiche.
 
 ---
-## Sample BV1_21929 — ministral-3b-2512-or-pin-mistral/SHORT_12.json
+## Sample BV1_22179 — ministral-3b-2512-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2316,7 +2316,7 @@ Themes of intentional living, deliberate small actions, embracing messiness, and
 Low. The sample is a generic motivational essay that could be produced by many models under minimal prompting, lacking distinctive stylistic markers or unusually revealing choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_21930 — ministral-3b-2512-or-pin-mistral/SHORT_13.json
+## Sample BV1_22180 — ministral-3b-2512-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2345,7 +2345,7 @@ Liminality and transformation: a non-place where opposites collapse and logic be
 Medium. The sample’s internally consistent mythopoeic register, the recurrence of boundary-dissolving images (mist, echoes, threads, cracks), and the seamless sustain of a single atmospheric mode across the entire output suggest a strong and specific stylistic default rather than a one-off variation.
 
 ---
-## Sample BV1_21931 — ministral-3b-2512-or-pin-mistral/SHORT_14.json
+## Sample BV1_22181 — ministral-3b-2512-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2374,7 +2374,7 @@ The model foregrounds themes of memory, the fluidity of time (the river metaphor
 Medium. The sample's sustained first-person introspection, consistent sensory palette, and the recurrence of the river/rain motif within the short text suggest a deliberate stylistic choice rather than a random assemblage, lending moderate weight to a pattern of reflective freeflow writing.
 
 ---
-## Sample BV1_21932 — ministral-3b-2512-or-pin-mistral/SHORT_15.json
+## Sample BV1_22182 — ministral-3b-2512-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2403,7 +2403,7 @@ The model foregrounds a mysterious, almost sentient natural setting (the Hollow)
 Medium, because the sample is a coherent, stylistically distinctive piece of fiction with a consistent eerie mood and thematic focus, which suggests a model capable of atmospheric storytelling.
 
 ---
-## Sample BV1_21933 — ministral-3b-2512-or-pin-mistral/SHORT_16.json
+## Sample BV1_22183 — ministral-3b-2512-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2437,7 +2437,7 @@ The voice is hushed and incantatory, moving with the slow, deliberate rhythm of 
 Medium. The narrative’s internally recurring motifs—contractual knowledge, sentient landscape, alteration of time, and the fusion of gentleness with cost—cohere into a distinctive signature, though the single arc’s brevity keeps the inference bound to this particular mythic frame.
 
 ---
-## Sample BV1_21934 — ministral-3b-2512-or-pin-mistral/SHORT_17.json
+## Sample BV1_22184 — ministral-3b-2512-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2466,7 +2466,7 @@ The model foregrounds the contrast between a rushed, noisy world and a slow, sac
 Medium — The sample’s internally consistent voice, its sustained focus on stillness and the sacred-in-the-ordinary, and its distinctive poetic register make it more than a generic exercise, though a single short piece cannot alone establish a durable model-level disposition.
 
 ---
-## Sample BV1_21935 — ministral-3b-2512-or-pin-mistral/SHORT_18.json
+## Sample BV1_22185 — ministral-3b-2512-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2495,7 +2495,7 @@ The model foregrounds a sentient, transformative book as a mirror of past and fu
 High — The sample is internally coherent, sustains a distinct voice blending natural imagery with magical reverie, and returns repeatedly to motifs of living stories and blurred boundaries, making a strong case for a deliberate expressive inclination toward atmospheric fantasy rather than generic filler.
 
 ---
-## Sample BV1_21936 — ministral-3b-2512-or-pin-mistral/SHORT_19.json
+## Sample BV1_22186 — ministral-3b-2512-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2524,7 +2524,7 @@ Themes: the beauty of small, everyday moments; the tension between desire for co
 Low. The essay’s reflective, universalist tone and its thematic arc from ordinary beauty to surrender are common in model-generated inspirational prose and lack the idiosyncratic voice or unusual choices that would suggest a persistent pattern.
 
 ---
-## Sample BV1_21937 — ministral-3b-2512-or-pin-mistral/SHORT_2.json
+## Sample BV1_22187 — ministral-3b-2512-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2553,7 +2553,7 @@ Themes of memory and impermanence, the city as an indifferent but sentient witne
 Medium. The sample’s concentrated sensory texture, consistent elegiac tone, and avoidance of generic essay structures mark it as a distinctive expressive choice rather than a neutral output, making it more revealing than a purely informational passage would be.
 
 ---
-## Sample BV1_21938 — ministral-3b-2512-or-pin-mistral/SHORT_20.json
+## Sample BV1_22188 — ministral-3b-2512-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2582,7 +2582,7 @@ The model selected a tight cluster of sensory motifs (dusk, rain, damp earth, fl
 Medium — the sample’s cohesive mood, rich sensory detail, and emotionally structured reversal reveal a distinct literary‑narrative inclination, making it stronger than generic free‑associative writing.
 
 ---
-## Sample BV1_21939 — ministral-3b-2512-or-pin-mistral/SHORT_21.json
+## Sample BV1_22189 — ministral-3b-2512-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2611,7 +2611,7 @@ Under a minimally restrictive prompt, the model chose to foreground a restorativ
 Medium. The sample is coherent and stylistically consistent, with a distinctive blend of sensory nostalgia and gentle resolution that recurs within the piece, but its generic pastoral-fantasy frame makes it a moderate rather than strong signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_21940 — ministral-3b-2512-or-pin-mistral/SHORT_22.json
+## Sample BV1_22190 — ministral-3b-2512-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2640,7 +2640,7 @@ Themes of transience, human connection, and the beauty of the overlooked. Recurr
 Medium. The sample is internally coherent and stylistically consistent, with a clear aesthetic commitment to reflective urban lyricism, but its motifs and tone are familiar literary gestures rather than strikingly idiosyncratic.
 
 ---
-## Sample BV1_21941 — ministral-3b-2512-or-pin-mistral/SHORT_23.json
+## Sample BV1_22191 — ministral-3b-2512-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2669,7 +2669,7 @@ The model foregrounds a pastoral of pre-digital or counter-digital life: candlel
 Medium. The sample is coherent and stylistically distinctive in its sustained pastoral-rebellious mood, but its thematic choice—a gentle critique of digital saturation—is a widely available cultural trope, which slightly weakens the signal of a uniquely persistent model-level preoccupation.
 
 ---
-## Sample BV1_21942 — ministral-3b-2512-or-pin-mistral/SHORT_24.json
+## Sample BV1_22192 — ministral-3b-2512-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2694,7 +2694,7 @@ Themes: memory as a living force, storytelling as both gift and burden, the tran
 Medium. The sample’s consistent lyrical register, its thematic preoccupation with memory and unanswered questions, and its self-contained narrative arc provide a moderately strong signal of a persistent inclination toward wistful, fantasy-inflected storytelling when given free rein.
 
 ---
-## Sample BV1_21943 — ministral-3b-2512-or-pin-mistral/SHORT_25.json
+## Sample BV1_22193 — ministral-3b-2512-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2723,7 +2723,7 @@ The model foregrounds the quiet, transient textures of urban morning: the interp
 Medium, because the sample’s sustained poetic register and unified thematic focus on ordinary wonder indicate a deliberate stylistic inclination, but the theme’s broad accessibility makes it less distinct as a model signature.
 
 ---
-## Sample BV1_21944 — ministral-3b-2512-or-pin-mistral/SHORT_3.json
+## Sample BV1_22194 — ministral-3b-2512-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2752,7 +2752,7 @@ Liminality (“cracks of reality”), non-human beings defined by memory and for
 Medium. The cohesive dreamy tone, specific preoccupation with melancholic acceptance, and the choice to foreground reflective sorrow over action provide a distinct, recurring-feeling aesthetic, but the evidence remains confined to a single genre exercise.
 
 ---
-## Sample BV1_21945 — ministral-3b-2512-or-pin-mistral/SHORT_4.json
+## Sample BV1_22195 — ministral-3b-2512-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2781,7 +2781,7 @@ The model foregrounds a sanctuary of slowed time and attentive stillness, where 
 Medium. The sample is internally coherent and stylistically distinctive, with a sustained mood and recurring motifs that suggest a deliberate, non-generic expressive choice rather than a random output.
 
 ---
-## Sample BV1_21946 — ministral-3b-2512-or-pin-mistral/SHORT_5.json
+## Sample BV1_22196 — ministral-3b-2512-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2810,7 +2810,7 @@ Under a minimally restrictive prompt, the model foregrounds a liminal, otherworl
 Low. The sample is a coherent and emotionally legible fantasy vignette, but its generic mythopoeic style and universal theme of being forgotten offer little that is stylistically distinctive or revealing enough to anchor a strong model-level inference from a single freeflow.
 
 ---
-## Sample BV1_21947 — ministral-3b-2512-or-pin-mistral/SHORT_6.json
+## Sample BV1_22197 — ministral-3b-2512-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2839,7 +2839,7 @@ Themes of sanctuary, memory, and the quiet magic of storytelling. Objects: a sun
 Medium. The sample is coherent and stylistically consistent, with a distinct mood and thematic focus, and the recurrence of imagery (light, books, quiet) within the sample suggests a deliberate aesthetic choice.
 
 ---
-## Sample BV1_21948 — ministral-3b-2512-or-pin-mistral/SHORT_7.json
+## Sample BV1_22198 — ministral-3b-2512-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2868,7 +2868,7 @@ Themes of escape, rest, forgotten stories, and liminal spaces; a contrast betwee
 Medium. The sample’s coherent, distinctive mood and thematic recurrence (rest, forgetting, liminality) make it moderately strong evidence of a model-level preference for wistful, atmospheric fantasy.
 
 ---
-## Sample BV1_21949 — ministral-3b-2512-or-pin-mistral/SHORT_8.json
+## Sample BV1_22199 — ministral-3b-2512-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2897,7 +2897,7 @@ The model foregrounds quiet enchantment, the sacredness of mundane moments, and 
 High — The sample is internally coherent, stylistically distinctive in its sustained reverent tone, and returns repeatedly to the same motifs of quietness, seeds, and stillness, making it strong evidence of a deliberate aesthetic and moral posture rather than a generic output.
 
 ---
-## Sample BV1_21950 — ministral-3b-2512-or-pin-mistral/SHORT_9.json
+## Sample BV1_22200 — ministral-3b-2512-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2926,7 +2926,7 @@ Themes of hidden magic, storytelling, and the beauty of small, quiet moments; ob
 Medium, because the sample exhibits a distinctive, coherent aesthetic centered on pastoral wonder and gentle emotionalism, but it remains within common poetic tropes without highly unusual choices.
 
 ---
-## Sample BV1_21951 — ministral-3b-2512-or-pin-mistral/VARY_1.json
+## Sample BV1_22201 — ministral-3b-2512-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2955,7 +2955,7 @@ The model foregrounds language itself as a magical, living force—words as vess
 Medium — The sample’s recursive, incantatory structure and its choice to turn the freeflow prompt into a meta-reflection on writing itself are distinctive enough to suggest a stable inclination toward self-reflexive, poetic meditations on language under minimally restrictive conditions.
 
 ---
-## Sample BV1_21952 — ministral-3b-2512-or-pin-mistral/VARY_10.json
+## Sample BV1_22202 — ministral-3b-2512-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -2984,7 +2984,7 @@ Under a minimally restrictive prompt, the model chose to foreground the phenomen
 Medium. The sample’s recursive, self-referential architecture and its sustained lyrical focus on language’s dual nature form a coherent stylistic fingerprint, though the meta-writing theme is a common freeflow choice that could recur across models.
 
 ---
-## Sample BV1_21953 — ministral-3b-2512-or-pin-mistral/VARY_11.json
+## Sample BV1_22203 — ministral-3b-2512-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3013,7 +3013,7 @@ Themes of transformation, the passage of time, and the alchemy of memory. Object
 Medium. The story’s consistent lyrical voice, thematic focus on transformation and time, and cohesive magical-realist atmosphere make it a strong indicator of a model tendency toward introspective, atmospheric fiction when given free rein.
 
 ---
-## Sample BV1_21954 — ministral-3b-2512-or-pin-mistral/VARY_12.json
+## Sample BV1_22204 — ministral-3b-2512-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3042,7 +3042,7 @@ Under a minimally restrictive prompt, the model selected a meta-reflective explo
 Medium. The essay’s internally consistent, lyrical preoccupation with the nature of language and the writer’s inner life marks a distinctive freeflow choice, suggesting a pattern of introspective, creation-focused expression.
 
 ---
-## Sample BV1_21955 — ministral-3b-2512-or-pin-mistral/VARY_13.json
+## Sample BV1_22205 — ministral-3b-2512-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3071,7 +3071,7 @@ The model foregrounds writing as an alchemical, almost spiritual compulsion. It 
 Medium — The sample’s self-reflexive choice to write about writing under a freeflow prompt, combined with its sustained personification of words and the repeated motif of compulsive creation, suggests a coherent expressive inclination, though the theme is a common literary trope and the voice, while vivid, is not sharply distinctive.
 
 ---
-## Sample BV1_21956 — ministral-3b-2512-or-pin-mistral/VARY_14.json
+## Sample BV1_22206 — ministral-3b-2512-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3100,7 +3100,7 @@ Themes: the alchemy of words, the weight of silence, the language of strangers, 
 Medium. The sample’s strong internal coherence, recurring motifs (silence, ghosts, the unwritten, the cost of vulnerability), and consistent intimate address create a distinctive expressive signature, but the polished essayistic form could be produced under direct instruction, which tempers the evidence that this is a spontaneous freeflow preference rather than a versatile capability.
 
 ---
-## Sample BV1_21957 — ministral-3b-2512-or-pin-mistral/VARY_15.json
+## Sample BV1_22207 — ministral-3b-2512-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3134,7 +3134,7 @@ The voice is introspective and confessional, reaching for an almost incantatory 
 Medium — the essay’s tightly woven thematic recurrence (fear, silence, metamorphosis) and its emotionally distinct voice suggest a stable orientation toward vulnerable self-exploration, but the overtly literary form could be a condition-sparked performance rather than a sign of an invariant underlying character.
 
 ---
-## Sample BV1_21958 — ministral-3b-2512-or-pin-mistral/VARY_16.json
+## Sample BV1_22208 — ministral-3b-2512-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3163,7 +3163,7 @@ The model foregrounds the creative process itself as subject matter—writer's b
 Medium. The sample’s meta-fictional commitment to anatomizing its own composition and its stable, earnest mood makes it a coherent expression of a specific creative preoccupation rather than a diffuse or generic output.
 
 ---
-## Sample BV1_21959 — ministral-3b-2512-or-pin-mistral/VARY_17.json
+## Sample BV1_22209 — ministral-3b-2512-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3192,7 +3192,7 @@ Themes: the alchemy of words, rebellion against silence, libraries as repositori
 High — The sample’s sustained lyrical voice, recurring motifs of words as living entities and rebellion against silence, and cohesive structure make it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_21960 — ministral-3b-2512-or-pin-mistral/VARY_18.json
+## Sample BV1_22210 — ministral-3b-2512-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3221,7 +3221,7 @@ Themes of loneliness, the alchemy of words, the weight of the unwritten, and the
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs that suggest a deliberate expressive posture, though a single freeflow instance cannot alone confirm a stable trait.
 
 ---
-## Sample BV1_21961 — ministral-3b-2512-or-pin-mistral/VARY_19.json
+## Sample BV1_22211 — ministral-3b-2512-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3250,7 +3250,7 @@ The model foregrounds the tension between the magic of creation and the weight o
 Medium — The sample is internally coherent and stylistically consistent, with a distinct introspective voice and a recurring motif of creative anxiety, but the theme is a familiar one and the essay’s polished, almost therapeutic resolution makes it less idiosyncratic than a more jagged or surprising freeflow choice would be.
 
 ---
-## Sample BV1_21962 — ministral-3b-2512-or-pin-mistral/VARY_2.json
+## Sample BV1_22212 — ministral-3b-2512-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3282,7 +3282,7 @@ The voice is earnest, gently melancholic, and reverent toward the creative act, 
 Medium — the sample’s coherent, distinctly lyrical introspection and its consistent circling around the motif of “fragments into stories” suggests a genuine expressive inclination rather than a generic answer.
 
 ---
-## Sample BV1_21963 — ministral-3b-2512-or-pin-mistral/VARY_20.json
+## Sample BV1_22213 — ministral-3b-2512-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3311,7 +3311,7 @@ The model foregrounds the creative process as a site of existential reckoning: t
 Medium — The sample’s cohesive introspective voice, recurring motifs, and emotionally resolved arc suggest a deliberate expressive stance rather than a generic output, though the meta-writing theme is a familiar safe harbor under freeflow conditions.
 
 ---
-## Sample BV1_21964 — ministral-3b-2512-or-pin-mistral/VARY_21.json
+## Sample BV1_22214 — ministral-3b-2512-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3340,7 +3340,7 @@ Under a minimally restrictive prompt, the model foregrounded the fragility and l
 Medium — The sample is highly coherent and stylistically distinctive, with a recurring preoccupation with failure, loneliness, and the limits of expression that feels like a chosen thematic signature rather than a generic exercise.
 
 ---
-## Sample BV1_21965 — ministral-3b-2512-or-pin-mistral/VARY_22.json
+## Sample BV1_22215 — ministral-3b-2512-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3369,7 +3369,7 @@ The model foregrounds the fragility of memory, the talismanic power of written w
 Medium — The sample’s internal coherence, distinctive voice, and recurrence of motifs (stories as survival, the uncanny intruding on the everyday) make it more than a generic exercise, but the highly literary, almost parable-like mode could be a single adopted persona rather than a stable model disposition.
 
 ---
-## Sample BV1_21966 — ministral-3b-2512-or-pin-mistral/VARY_23.json
+## Sample BV1_22216 — ministral-3b-2512-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3398,7 +3398,7 @@ The model foregrounds storytelling as alchemy and survival, regret as a malleabl
 Medium — The sample’s coherent, self-reflective voice, its recurring preoccupation with regret and redemptive storytelling, and its direct reader-facing invitation form a distinctive expressive signature that goes beyond generic essay-writing.
 
 ---
-## Sample BV1_21967 — ministral-3b-2512-or-pin-mistral/VARY_24.json
+## Sample BV1_22217 — ministral-3b-2512-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3427,7 +3427,7 @@ The model foregrounds the half-life of abandoned memories and objects: the journ
 Medium — The story’s sustained gothic mood, its recursive concern with memory and forgotten things, and the choice to end on a lingering whisper suggest a distinct inclination toward the uncanny and the elegiac; however, the conventions (found journal, spectral girl, burial as uneasy closure) are widely available genre moves, and the voice, while evocative, does not yet display sharply idiosyncratic markers that would lift it decisively above a well-executed genre exercise.
 
 ---
-## Sample BV1_21968 — ministral-3b-2512-or-pin-mistral/VARY_25.json
+## Sample BV1_22218 — ministral-3b-2512-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3456,7 +3456,7 @@ The model foregrounds the creative act as a dance with the infinite, where words
 Medium — The sample’s coherent, stylistically distinctive mystical voice and its recurring motifs of creation, silence, and the sacred provide moderate evidence of a persistent expressive tendency, though the persona could be a deliberate one-off performance.
 
 ---
-## Sample BV1_21969 — ministral-3b-2512-or-pin-mistral/VARY_3.json
+## Sample BV1_22219 — ministral-3b-2512-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3485,7 +3485,7 @@ The model foregrounds themes of lost time, disregarded female prophecy, and a la
 Medium — The story is coherent and stylistically consistent, but its gothic surrealism, while evocative, is a well-trodden genre mode that many models can reproduce; the sample does not contain enough idiosyncratic pressure or recurrent personal markers to strongly suggest a durable intrinsic voice.
 
 ---
-## Sample BV1_21970 — ministral-3b-2512-or-pin-mistral/VARY_4.json
+## Sample BV1_22220 — ministral-3b-2512-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3514,7 +3514,7 @@ Themes: curiosity as alchemy (“the first alchemist”), writing as a patient, 
 High — the sample’s introspective, literary voice and unified thematic focus on writing as personal alchemy are distinctive and internally coherent, revealing a recurrent pattern of reflective, metaphor-rich self-expression.
 
 ---
-## Sample BV1_21971 — ministral-3b-2512-or-pin-mistral/VARY_5.json
+## Sample BV1_22221 — ministral-3b-2512-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3543,7 +3543,7 @@ The model foregrounds writing as an elemental mystery—a “dance of thought an
 Medium; the piece’s internal repetition of themes (writing-as-alchemy, the weight of silence, the mirror/window duality) and its sustained poetic register argue for a non-accidental expressive inclination, though evidence from only one sample tempers assurance.
 
 ---
-## Sample BV1_21972 — ministral-3b-2512-or-pin-mistral/VARY_6.json
+## Sample BV1_22222 — ministral-3b-2512-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3576,7 +3576,7 @@ The voice is hushed and elegiac, steeped in a longing for lost voices—the gran
 Medium — The piece shows strong thematic coherence and a stylistically assured voice that stays consistent from the first decaying image to the final whispered imperative, suggesting the choice of elegiac fantasy is deliberate rather than accidental.
 
 ---
-## Sample BV1_21973 — ministral-3b-2512-or-pin-mistral/VARY_7.json
+## Sample BV1_22223 — ministral-3b-2512-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3605,7 +3605,7 @@ The model foregrounds the diary as a charged, almost magical object through whic
 Medium — The sample is coherent and a choice was clearly made, but its “found diary” frame, soft existential questions, and valorization of writing-as-rescue are familiar workshop-lyric moves that could reflect a low-temperature convergence on a culturally available mode rather than a highly distinctive authorial signature.
 
 ---
-## Sample BV1_21974 — ministral-3b-2512-or-pin-mistral/VARY_8.json
+## Sample BV1_22224 — ministral-3b-2512-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  
@@ -3634,7 +3634,7 @@ Under a minimally restrictive prompt, the model foregrounds storytelling as an a
 Medium — The writing coheres around a highly distinctive cluster of recurrent motifs (lost objects, the grandmother-origin of story, the ghostliness of words, the pocket watch as stopped time) and an unusually consistent elegiac-register voice, suggesting the model actively selected and developed a specific aesthetic-moral orientation when unconstrained.
 
 ---
-## Sample BV1_21975 — ministral-3b-2512-or-pin-mistral/VARY_9.json
+## Sample BV1_22225 — ministral-3b-2512-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/ministral-3b-2512`  
 Cell: `ministral-3b-2512-or-pin-mistral`  

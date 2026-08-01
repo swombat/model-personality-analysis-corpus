@@ -194,6 +194,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v3.2.md"
   },
   {
+    "model": "deepseek-v4-flash-0731",
+    "safe": "deepseek-v4-flash-0731",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 99,
+      "GENERIC_ESSAY": 21,
+      "GENRE_FICTION": 5
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-v4-flash-0731.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash-0731.md"
+  },
+  {
     "model": "deepseek-v4-pro",
     "safe": "deepseek-v4-pro",
     "analysis_inputs": 7,
@@ -1015,6 +1028,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/inkling.md"
   },
   {
+    "model": "inkling-small",
+    "safe": "inkling-small",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 122,
+      "GENERIC_ESSAY": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/inkling-small.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/inkling-small.md"
+  },
+  {
     "model": "kimi-for-coding",
     "safe": "kimi-for-coding",
     "analysis_inputs": 1,
@@ -1626,6 +1651,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen-qwen3.6-plus.md",
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.6-plus.md"
+  },
+  {
+    "model": "qwen/qwen3.7-flash",
+    "safe": "qwen-qwen3.7-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 96,
+      "GENERIC_ESSAY": 25,
+      "GENRE_FICTION": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen-qwen3.7-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.7-flash.md"
   },
   {
     "model": "qwen/qwen3.7-max",

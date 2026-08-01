@@ -1,0 +1,27 @@
+{
+  "cell": "qwen3-7-flash-or-pin-alibaba",
+  "safe_cell": "qwen3-7-flash-or-pin-alibaba",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 96,
+    "GENERIC_ESSAY": 25,
+    "GENRE_FICTION": 4
+  },
+  "confidence_counts": {
+    "Medium": 54,
+    "High": 57,
+    "Low": 14
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "qwen/qwen3.7-flash"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen3-7-flash-or-pin-alibaba/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen3-7-flash-or-pin-alibaba/aggregate.md"
+}

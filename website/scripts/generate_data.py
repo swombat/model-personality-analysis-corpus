@@ -129,6 +129,7 @@ MODEL_SLUGS = {
     "grok-4-20-0309-reasoning": "x-ai/grok-4.20-0309-reasoning",
     "deepseek-chat": "deepseek/deepseek-chat",
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
+    "deepseek-v4-flash-0731": "deepseek-v4-flash",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
     "glm-4-5": "z-ai/glm-4.5",
     "glm-4-6": "z-ai/glm-4.6",
@@ -150,6 +151,7 @@ MODEL_SLUGS = {
     "qwen3-6-plus": "qwen/qwen3.6-plus",
     "qwen3-coder-plus": "qwen/qwen3-coder-plus",
     "qwen3-7-max": "qwen/qwen3.7-max",
+    "qwen3-7-flash": "qwen/qwen3.7-flash",
     "qwen3-5-plus-20260420": "qwen/qwen3.5-plus-20260420",
     "qwen3-6-flash": "qwen/qwen3.6-flash",
     "qwen3-6-max-preview": "qwen/qwen3.6-max-preview",
@@ -182,6 +184,7 @@ MODEL_SLUGS = {
     "llama-3-2-3b-instruct": "meta-llama/llama-3.2-3b-instruct",
     "llama-3-2-11b-vision-instruct": "meta-llama/llama-3.2-11b-vision-instruct",
     "inkling": "thinkingmachines/inkling",
+    "inkling-small": "thinkingmachines/inkling-small",
 }
 
 # First-party API prices are authoritative for models sold directly by their
@@ -287,6 +290,8 @@ def site_slug_from_profile_model(name: str) -> str:
         "gemini-3.6-flash": "gemini-3-6-flash",
         "google/gemini-3.6-flash": "gemini-3-6-flash",
         "thinkingmachines/inkling": "inkling",
+        "thinkingmachines/inkling-small": "inkling-small",
+        "deepseek-v4-flash-0731": "deepseek-v4-flash-0731",
         "openai/gpt-oss-120b": "gpt-oss-120b",
         "openai/gpt-oss-20b": "gpt-oss-20b",
         "gemma-4-26b-a4b-it": "gemma-4-26b-a4b",
@@ -305,6 +310,7 @@ def site_slug_from_profile_model(name: str) -> str:
         "qwen/qwen3.6-plus": "qwen3-6-plus",
         "qwen/qwen3-coder-plus": "qwen3-coder-plus",
         "qwen/qwen3.7-max": "qwen3-7-max",
+        "qwen/qwen3.7-flash": "qwen3-7-flash",
         "qwen/qwen3.5-plus-20260420": "qwen3-5-plus-20260420",
         "qwen/qwen3.6-flash": "qwen3-6-flash",
         "qwen/qwen3.6-max-preview": "qwen3-6-max-preview",
@@ -350,7 +356,7 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Mistral"
     if slug.startswith("llama"):
         return "Meta"
-    if slug == "inkling":
+    if slug.startswith("inkling"):
         return "Thinking Machines Lab"
     return "Unknown"
 

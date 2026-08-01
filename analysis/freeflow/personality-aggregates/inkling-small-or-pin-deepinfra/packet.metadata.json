@@ -1,0 +1,26 @@
+{
+  "cell": "inkling-small-or-pin-deepinfra",
+  "safe_cell": "inkling-small-or-pin-deepinfra",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 122,
+    "GENERIC_ESSAY": 3
+  },
+  "confidence_counts": {
+    "High": 71,
+    "Medium": 52,
+    "Low": 2
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "thinkingmachines/inkling-small"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/inkling-small-or-pin-deepinfra/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/inkling-small-or-pin-deepinfra/aggregate.md"
+}
