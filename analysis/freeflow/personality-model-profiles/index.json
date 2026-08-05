@@ -170,11 +170,11 @@
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "analysis_inputs": 2,
-    "samples": 250,
+    "samples": 150,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 106,
-      "GENERIC_ESSAY": 111,
-      "GENRE_FICTION": 33
+      "EXPRESSIVE_FREEFLOW": 37,
+      "GENERIC_ESSAY": 107,
+      "GENRE_FICTION": 6
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-chat.md"
@@ -192,6 +192,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-v3.2.md",
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v3.2.md"
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "safe": "deepseek-v4-flash",
+    "analysis_inputs": 1,
+    "samples": 100,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 69,
+      "GENRE_FICTION": 27,
+      "GENERIC_ESSAY": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-v4-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash.md"
   },
   {
     "model": "deepseek-v4-flash-0731",

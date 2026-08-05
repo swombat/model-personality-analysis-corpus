@@ -15,7 +15,9 @@ Prepared 2026-08-05.
 ## Metadata
 
 - Release date: 2026-08-03.
-- Artificial Analysis Intelligence Index: 53.4.
+- Artificial Analysis Intelligence Index: not yet available. The initially
+  entered 53.4 value was removed because it was not an authoritative published
+  score for Qwen 3.8 Max.
 - OpenRouter pricing: $2.00 per million input tokens and $6.00 per million
   output tokens.
 - OpenRouter context window: 1,000,000 tokens; maximum completion:

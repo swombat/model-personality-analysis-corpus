@@ -254,6 +254,11 @@ API_ACCESS_OVERRIDES = {
         "availability_label": "Available through Kimi Code membership; no public per-token API price",
         "pricing_source": "Kimi Code membership",
     },
+    "deepseek-v4-flash": {
+        "availability": "unavailable",
+        "availability_label": "Historical direct-API snapshot collected in May 2026",
+        "pricing_source": "Corpus provenance",
+    },
 }
 
 # Exact corpus-cell aliases for releases whose public site slug intentionally
@@ -1369,7 +1374,20 @@ def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
                     continue
                 record = sample_record(sample_file, sample_type, source, cell_dir.name)
                 if record:
-                    samples_by_model[model].append(record)
+                    destination_model = model
+                    # The direct `deepseek-chat` alias moved during the original
+                    # top-up. Samples 6–25 in each freeflow condition identify
+                    # themselves as the earlier DeepSeek V4 Flash deployment;
+                    # keep those 100 traces separate from DeepSeek Chat.
+                    if (
+                        source == "v2"
+                        and sample_type == "freeflow"
+                        and cell_dir.name == "freeflow_deepseek-chat-direct"
+                        and record.get("model") == "deepseek-v4-flash"
+                    ):
+                        destination_model = "deepseek-v4-flash"
+                    if destination_model in samples_by_model:
+                        samples_by_model[destination_model].append(record)
     PUBLIC_SAMPLES.mkdir(parents=True, exist_ok=True)
     counts = {}
     for model, samples in samples_by_model.items():
@@ -1453,7 +1471,9 @@ def main() -> None:
             "status": "complete",
             "summary": model_summary or old.get("summary") or "Personality summary pending",
             "release_date": release_dates.get(slug) or old.get("release_date"),
-            "benchmarks": benchmarks.get(slug) or old.get("benchmarks"),
+            # Absence is meaningful: some new models have no authoritative
+            # benchmark yet. Do not resurrect a stale cached score.
+            "benchmarks": benchmarks.get(slug),
             "personality_card_markdown": card_markdown.strip(),
             "personality_profile_markdown": profile_markdown.strip(),
             "sample_kind_counts": row.get("sample_kind_counts") or {},

@@ -5,11 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-08-05:** v1.3.3 derived analysis corpus covering 129
-> freeflow personality-card models. This release adds Qwen 3.8 Max with
-> 125 freeflow and 120 values samples, full personality and layered values
-> analyses, model artwork and strapline, and release/benchmark/API metadata.
-> See [`RELEASE_NOTES_v1.3.3.md`](RELEASE_NOTES_v1.3.3.md);
+> **Status — 2026-08-05:** v1.3.4 derived analysis corpus covering 130
+> freeflow personality-card models. This patch restores the earlier DeepSeek
+> V4 Flash from 100 traces hidden inside the moving `deepseek-chat` alias,
+> and removes the unsupported Qwen 3.8 Max Intelligence Index value.
+> See [`RELEASE_NOTES_v1.3.4.md`](RELEASE_NOTES_v1.3.4.md);
 > for the v1.2.8–v1.2.15 values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
@@ -48,9 +48,9 @@ Current load-bearing contents:
 
 - **27,100 BV1 per-sample freeflow personality/vibe readings** produced with
   `deepseek/deepseek-v4-pro`, with QA passing at zero known bad outputs.
-- **125 rich per-model freeflow personality profiles** preserving evidence from
+- **130 rich per-model freeflow personality profiles** preserving evidence from
   the per-cell aggregate layer.
-- **125 concise per-model personality cards** collapsed from those profiles.
+- **130 concise per-model personality cards** collapsed from those profiles.
 - **131 layered per-model values-probe summaries** plus aggregate tables,
   covering 23,026 valid values samples across 192 cells.
 - Freeflow taxonomy tables, model-cell/provider difference reports, and method

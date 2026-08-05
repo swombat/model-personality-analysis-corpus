@@ -19,14 +19,19 @@
     "aaii": 32,
     "url": "https://artificialanalysis.ai/models/deepseek-v3-2"
   },
-  "deepseek-v4-pro": {
-    "aaii": 52,
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
+  "deepseek-v4-flash": {
+    "aaii": 29,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "matched_alias": "DeepSeek V4 Flash (Non-reasoning)"
   },
   "deepseek-v4-flash-0731": {
     "aaii": 50,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
     "matched_alias": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)"
+  },
+  "deepseek-v4-pro": {
+    "aaii": 52,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
   "devstral-2512": {
     "aaii": 19,
@@ -36,10 +41,6 @@
   "fable-5": {
     "aaii": 65,
     "url": "https://artificialanalysis.ai/models/claude-fable-5"
-  },
-  "opus-5": {
-    "aaii": 61,
-    "url": "https://artificialanalysis.ai/models/claude-opus-5"
   },
   "gemini-2-0-flash": {
     "aaii": 19,
@@ -462,6 +463,10 @@
     "aaii": 61,
     "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
   },
+  "opus-5": {
+    "aaii": 61,
+    "url": "https://artificialanalysis.ai/models/claude-opus-5"
+  },
   "qwen3-6-max-preview": {
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/qwen3-6-max"
@@ -473,10 +478,6 @@
   "qwen3-7-max": {
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/qwen3-7-max"
-  },
-  "qwen3-8-max": {
-    "aaii": 53.4,
-    "url": "https://artificialanalysis.ai/models/qwen3-8-max"
   },
   "qwen3-coder-flash": {
     "aaii": 14,

@@ -107,7 +107,7 @@
     "model": "deepseek-chat",
     "safe": "deepseek-chat",
     "variants": 2,
-    "samples": 250,
+    "samples": 150,
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-chat.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
@@ -118,6 +118,14 @@
     "samples": 1325,
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v3.2.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "safe": "deepseek-v4-flash",
+    "variants": 1,
+    "samples": 100,
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "deepseek-v4-flash-0731",
