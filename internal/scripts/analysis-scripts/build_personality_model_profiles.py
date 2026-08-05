@@ -36,6 +36,11 @@ def canonical(srcs, cell: str) -> str:
         s = 'gpt-5.3'
     if s == 'gpt-4o-2024-08-06':
         s = 'gpt-4o'
+    if s == 'deepseek-v4-flash' and '20260731' in (cell or ''):
+        # The dated 0731 deployment is collected via DeepSeek's direct API,
+        # whose catalog id is the bare 'deepseek-v4-flash' — but that name
+        # belongs to a different, older release. Keep the dated identity.
+        s = 'deepseek-v4-flash-0731'
     if s == 'claude-3-haiku':
         s = 'haiku-3'
     if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s):

@@ -55,8 +55,8 @@
     "openrouter": {
       "id": "anthropic/claude-fable-5",
       "matched": true,
-      "provider": "Anthropic",
-      "endpoint": "Anthropic | anthropic/claude-5-fable-20260609",
+      "provider": "Amazon Bedrock",
+      "endpoint": "Amazon Bedrock | anthropic/claude-5-fable-20260609",
       "prompt_per_million": 10.0,
       "completion_per_million": 50.0,
       "throughput": null,
@@ -64,7 +64,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/fable-5.webp",
     "image_thumb": "images/models/fable-5-thumb.webp",
@@ -362,7 +363,8 @@
       "max_throughput": 28,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-08 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-0.webp",
     "image_thumb": "images/models/opus-4-0-thumb.webp",
@@ -428,8 +430,8 @@
     "openrouter": {
       "id": "anthropic/claude-opus-4.1",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | anthropic/claude-4.1-opus-20250805",
+      "provider": "Anthropic",
+      "endpoint": "Anthropic | anthropic/claude-4.1-opus-20250805",
       "prompt_per_million": 15.0,
       "completion_per_million": 75.0,
       "throughput": null,
@@ -437,7 +439,8 @@
       "max_throughput": 20,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-05 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-1.webp",
     "image_thumb": "images/models/opus-4-1-thumb.webp",
@@ -503,8 +506,8 @@
     "openrouter": {
       "id": "anthropic/claude-opus-4.5",
       "matched": true,
-      "provider": "Amazon Bedrock",
-      "endpoint": "Amazon Bedrock | anthropic/claude-4.5-opus-20251124",
+      "provider": "Anthropic",
+      "endpoint": "Anthropic | anthropic/claude-4.5-opus-20251124",
       "prompt_per_million": 5.0,
       "completion_per_million": 25.0,
       "throughput": null,
@@ -512,7 +515,8 @@
       "max_throughput": 51,
       "max_throughput_provider": "Amazon Bedrock",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-5.webp",
     "image_thumb": "images/models/opus-4-5-thumb.webp",
@@ -578,8 +582,8 @@
     "openrouter": {
       "id": "anthropic/claude-opus-4.6",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | anthropic/claude-4.6-opus-20260205",
+      "provider": "Amazon Bedrock",
+      "endpoint": "Amazon Bedrock | anthropic/claude-4.6-opus-20260205",
       "prompt_per_million": 5.0,
       "completion_per_million": 25.0,
       "throughput": null,
@@ -587,7 +591,8 @@
       "max_throughput": 47,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-09 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-6.webp",
     "image_thumb": "images/models/opus-4-6-thumb.webp",
@@ -652,8 +657,8 @@
     "openrouter": {
       "id": "anthropic/claude-opus-4.7",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | anthropic/claude-4.7-opus-20260416",
+      "provider": "Amazon Bedrock",
+      "endpoint": "Amazon Bedrock | anthropic/claude-4.7-opus-20260416",
       "prompt_per_million": 5.0,
       "completion_per_million": 25.0,
       "throughput": null,
@@ -661,7 +666,8 @@
       "max_throughput": 81,
       "max_throughput_provider": "Amazon Bedrock",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-7.webp",
     "image_thumb": "images/models/opus-4-7-thumb.webp",
@@ -726,8 +732,8 @@
     "openrouter": {
       "id": "anthropic/claude-opus-4.8",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | anthropic/claude-4.8-opus-20260528",
+      "provider": "Amazon Bedrock",
+      "endpoint": "Amazon Bedrock | anthropic/claude-4.8-opus-20260528",
       "prompt_per_million": 5.0,
       "completion_per_million": 25.0,
       "throughput": null,
@@ -735,7 +741,8 @@
       "max_throughput": 57,
       "max_throughput_provider": "Anthropic",
       "max_throughput_date": "2026-05-28 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/opus-4-8.webp",
     "image_thumb": "images/models/opus-4-8-thumb.webp",
@@ -885,7 +892,8 @@
       "max_throughput": 54,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-08 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/sonnet-4-0.webp",
     "image_thumb": "images/models/sonnet-4-0-thumb.webp",
@@ -960,7 +968,8 @@
       "max_throughput": 57,
       "max_throughput_provider": "Anthropic",
       "max_throughput_date": "2026-05-09 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/sonnet-4-5.webp",
     "image_thumb": "images/models/sonnet-4-5-thumb.webp",
@@ -1035,7 +1044,8 @@
       "max_throughput": 56,
       "max_throughput_provider": "Anthropic",
       "max_throughput_date": "2026-05-03 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/sonnet-4-6.webp",
     "image_thumb": "images/models/sonnet-4-6-thumb.webp",
@@ -1101,8 +1111,8 @@
     "openrouter": {
       "id": "anthropic/claude-sonnet-5",
       "matched": true,
-      "provider": "Anthropic",
-      "endpoint": "Anthropic | anthropic/claude-sonnet-5-20260630",
+      "provider": "Amazon Bedrock",
+      "endpoint": "Amazon Bedrock | anthropic/claude-sonnet-5-20260630",
       "prompt_per_million": 2.0,
       "completion_per_million": 10.0,
       "throughput": null,
@@ -1110,7 +1120,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/sonnet-5.webp",
     "image_thumb": "images/models/sonnet-5-thumb.webp",
@@ -1185,7 +1196,8 @@
       "max_throughput": 23,
       "max_throughput_provider": "DeepInfra",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/deepseek-chat.webp",
     "image_thumb": "images/models/deepseek-chat-thumb.webp",
@@ -1254,14 +1266,15 @@
       "matched": true,
       "provider": "Baidu",
       "endpoint": "Baidu | deepseek/deepseek-v3.2-20251201",
-      "prompt_per_million": 0.252,
-      "completion_per_million": 0.378,
+      "prompt_per_million": 0.2072,
+      "completion_per_million": 0.3108,
       "throughput": null,
       "median_throughput": 19.0,
       "max_throughput": 54,
       "max_throughput_provider": "Friendli",
       "max_throughput_date": "2026-05-05 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/deepseek-v3-2.webp",
     "image_thumb": "images/models/deepseek-v3-2-thumb.webp",
@@ -1414,7 +1427,8 @@
       "max_throughput": 51,
       "max_throughput_provider": "Together",
       "max_throughput_date": "2026-05-07 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/deepseek-v4-pro.webp",
     "image_thumb": "images/models/deepseek-v4-pro-thumb.webp",
@@ -1475,7 +1489,8 @@
       "max_throughput": 78,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-2-0-flash.webp",
     "image_thumb": "images/models/gemini-2-0-flash-thumb.webp",
@@ -1537,7 +1552,8 @@
       "max_throughput": 94,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-17 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-2-0-flash-lite.webp",
     "image_thumb": "images/models/gemini-2-0-flash-lite-thumb.webp",
@@ -1599,16 +1615,17 @@
     "openrouter": {
       "id": "google/gemini-2.5-flash",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | google/gemini-2.5-flash",
-      "prompt_per_million": 0.3,
-      "completion_per_million": 2.5,
+      "provider": "Google AI Studio",
+      "endpoint": "Google AI Studio | google/gemini-2.5-flash",
+      "prompt_per_million": 0.15,
+      "completion_per_million": 1.25,
       "throughput": null,
       "median_throughput": 55.5,
       "max_throughput": 166,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-17 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-2-5-flash.webp",
     "image_thumb": "images/models/gemini-2-5-flash-thumb.webp",
@@ -1674,16 +1691,17 @@
     "openrouter": {
       "id": "google/gemini-2.5-flash-lite",
       "matched": true,
-      "provider": "Google",
-      "endpoint": "Google | google/gemini-2.5-flash-lite",
-      "prompt_per_million": 0.09999999999999999,
-      "completion_per_million": 0.39999999999999997,
+      "provider": "Google AI Studio",
+      "endpoint": "Google AI Studio | google/gemini-2.5-flash-lite",
+      "prompt_per_million": 0.049999999999999996,
+      "completion_per_million": 0.19999999999999998,
       "throughput": null,
       "median_throughput": 105.0,
       "max_throughput": 160,
       "max_throughput_provider": "Google AI Studio",
       "max_throughput_date": "2026-05-17 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-2-5-flash-lite.webp",
     "image_thumb": "images/models/gemini-2-5-flash-lite-thumb.webp",
@@ -1751,14 +1769,15 @@
       "matched": true,
       "provider": "Google",
       "endpoint": "Google | google/gemini-2.5-pro",
-      "prompt_per_million": 1.25,
-      "completion_per_million": 10.0,
+      "prompt_per_million": 0.625,
+      "completion_per_million": 5.0,
       "throughput": null,
       "median_throughput": 82.5,
       "max_throughput": 97,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-2-5-pro.webp",
     "image_thumb": "images/models/gemini-2-5-pro-thumb.webp",
@@ -1825,14 +1844,15 @@
       "matched": true,
       "provider": "Google",
       "endpoint": "Google | google/gemini-3.1-flash-lite-20260507",
-      "prompt_per_million": 0.25,
-      "completion_per_million": 1.5,
+      "prompt_per_million": 0.125,
+      "completion_per_million": 0.75,
       "throughput": null,
       "median_throughput": 107.0,
       "max_throughput": 153,
       "max_throughput_provider": "Google AI Studio",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-3-1-flash-lite.webp",
     "image_thumb": "images/models/gemini-3-1-flash-lite-thumb.webp",
@@ -1898,16 +1918,17 @@
     "openrouter": {
       "id": "google/gemini-3.1-pro-preview",
       "matched": true,
-      "provider": "Google AI Studio",
-      "endpoint": "Google AI Studio | google/gemini-3.1-pro-preview-20260219",
-      "prompt_per_million": 2.0,
-      "completion_per_million": 12.0,
+      "provider": "Google",
+      "endpoint": "Google | google/gemini-3.1-pro-preview-20260219",
+      "prompt_per_million": 1.0,
+      "completion_per_million": 6.0,
       "throughput": null,
       "median_throughput": 75.5,
       "max_throughput": 94,
       "max_throughput_provider": "Google AI Studio",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-3-1-pro.webp",
     "image_thumb": "images/models/gemini-3-1-pro-thumb.webp",
@@ -1973,16 +1994,17 @@
     "openrouter": {
       "id": "google/gemini-3.5-flash",
       "matched": true,
-      "provider": "Google AI Studio",
-      "endpoint": "Google AI Studio | google/gemini-3.5-flash-20260519",
-      "prompt_per_million": 1.5,
-      "completion_per_million": 9.0,
+      "provider": "Google",
+      "endpoint": "Google | google/gemini-3.5-flash-20260519",
+      "prompt_per_million": 0.75,
+      "completion_per_million": 4.5,
       "throughput": null,
       "median_throughput": 155.5,
       "max_throughput": 171,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-19 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-3-5-flash.webp",
     "image_thumb": "images/models/gemini-3-5-flash-thumb.webp",
@@ -2201,16 +2223,17 @@
     "openrouter": {
       "id": "google/gemini-3-flash-preview",
       "matched": true,
-      "provider": "Google AI Studio",
-      "endpoint": "Google AI Studio | google/gemini-3-flash-preview-20251217",
-      "prompt_per_million": 0.5,
-      "completion_per_million": 3.0,
+      "provider": "Google",
+      "endpoint": "Google | google/gemini-3-flash-preview-20251217",
+      "prompt_per_million": 0.25,
+      "completion_per_million": 1.5,
       "throughput": null,
       "median_throughput": 74.5,
       "max_throughput": 83,
       "max_throughput_provider": "Google AI Studio",
       "max_throughput_date": "2026-05-16 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemini-3-flash-preview.webp",
     "image_thumb": "images/models/gemini-3-flash-preview-thumb.webp",
@@ -2285,7 +2308,8 @@
       "max_throughput": 53,
       "max_throughput_provider": "Cloudflare",
       "max_throughput_date": "2026-05-17 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemma-4-26b-a4b.webp",
     "image_thumb": "images/models/gemma-4-26b-a4b-thumb.webp",
@@ -2353,14 +2377,15 @@
       "matched": true,
       "provider": "DeepInfra",
       "endpoint": "DeepInfra | google/gemma-4-31b-it-20260402",
-      "prompt_per_million": 0.12,
-      "completion_per_million": 0.37,
+      "prompt_per_million": 0.09,
+      "completion_per_million": 0.33999999999999997,
       "throughput": null,
       "median_throughput": 18,
       "max_throughput": 64,
       "max_throughput_provider": "Venice",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gemma-4-31b.webp",
     "image_thumb": "images/models/gemma-4-31b-thumb.webp",
@@ -2422,7 +2447,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-1-70b-instruct.webp",
     "image_thumb": "images/models/llama-3-1-70b-instruct-thumb.webp",
@@ -2493,13 +2519,14 @@
       "provider": "DeepInfra",
       "endpoint": "DeepInfra | meta-llama/llama-3.1-8b-instruct",
       "prompt_per_million": 0.02,
-      "completion_per_million": 0.03,
+      "completion_per_million": 0.04,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-1-8b-instruct.webp",
     "image_thumb": "images/models/llama-3-1-8b-instruct-thumb.webp",
@@ -2568,7 +2595,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-2-11b-vision-instruct.webp",
     "image_thumb": "images/models/llama-3-2-11b-vision-instruct-thumb.webp",
@@ -2631,7 +2659,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-2-1b-instruct.webp",
     "image_thumb": "images/models/llama-3-2-1b-instruct-thumb.webp",
@@ -2703,7 +2732,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-2-3b-instruct.webp",
     "image_thumb": "images/models/llama-3-2-3b-instruct-thumb.webp",
@@ -2779,7 +2809,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-3-3-70b-instruct.webp",
     "image_thumb": "images/models/llama-3-3-70b-instruct-thumb.webp",
@@ -2832,16 +2863,17 @@
     "openrouter": {
       "id": "meta-llama/llama-4-maverick",
       "matched": true,
-      "provider": "DeepInfra",
-      "endpoint": "DeepInfra | meta-llama/llama-4-maverick-17b-128e-instruct",
+      "provider": "DigitalOcean",
+      "endpoint": "DigitalOcean | meta-llama/llama-4-maverick-17b-128e-instruct",
       "prompt_per_million": 0.19999999999999998,
-      "completion_per_million": 0.7999999999999999,
+      "completion_per_million": 0.696,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-4-maverick.webp",
     "image_thumb": "images/models/llama-4-maverick-thumb.webp",
@@ -2917,7 +2949,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/llama-4-scout.webp",
     "image_thumb": "images/models/llama-4-scout-thumb.webp",
@@ -2984,16 +3017,17 @@
     "openrouter": {
       "id": "minimax/minimax-m2",
       "matched": true,
-      "provider": "AtlasCloud",
-      "endpoint": "AtlasCloud | minimax/minimax-m2",
+      "provider": "Minimax",
+      "endpoint": "Minimax | minimax/minimax-m2",
       "prompt_per_million": 0.255,
-      "completion_per_million": 1.0,
+      "completion_per_million": 1.02,
       "throughput": null,
       "median_throughput": 71,
       "max_throughput": 147,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-04 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/minimax-m2.webp",
     "image_thumb": "images/models/minimax-m2-thumb.webp",
@@ -3060,16 +3094,17 @@
     "openrouter": {
       "id": "minimax/minimax-m2.7",
       "matched": true,
-      "provider": "Morph",
-      "endpoint": "Morph | minimax/minimax-m2.7-20260318",
-      "prompt_per_million": 0.29900000000000004,
-      "completion_per_million": 1.2,
+      "provider": "Mara",
+      "endpoint": "Mara | minimax/minimax-m2.7-20260318",
+      "prompt_per_million": 0.24,
+      "completion_per_million": 0.96,
       "throughput": null,
       "median_throughput": 43.5,
       "max_throughput": 161,
       "max_throughput_provider": "SambaNova",
       "max_throughput_date": "2026-05-04 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/minimax-m2-7.webp",
     "image_thumb": "images/models/minimax-m2-7-thumb.webp",
@@ -3136,16 +3171,17 @@
     "openrouter": {
       "id": "minimax/minimax-m3",
       "matched": true,
-      "provider": "Minimax",
-      "endpoint": "Minimax | minimax/minimax-m3-20260531",
-      "prompt_per_million": 0.3,
-      "completion_per_million": 1.2,
+      "provider": "GMICloud",
+      "endpoint": "GMICloud | minimax/minimax-m3-20260531",
+      "prompt_per_million": 0.24,
+      "completion_per_million": 0.96,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/minimax-m3.webp",
     "image_thumb": "images/models/minimax-m3-thumb.webp",
@@ -3204,7 +3240,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/codestral-2508.webp",
     "image_thumb": "images/models/codestral-2508-thumb.webp",
@@ -3279,7 +3316,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/devstral-2512.webp",
     "image_thumb": "images/models/devstral-2512-thumb.webp",
@@ -3347,7 +3385,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/ministral-14b-2512.webp",
     "image_thumb": "images/models/ministral-14b-2512-thumb.webp",
@@ -3410,7 +3449,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/ministral-3b-2512.webp",
     "image_thumb": "images/models/ministral-3b-2512-thumb.webp",
@@ -3487,7 +3527,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/ministral-8b-2512.webp",
     "image_thumb": "images/models/ministral-8b-2512-thumb.webp",
@@ -3562,7 +3603,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-large-2512.webp",
     "image_thumb": "images/models/mistral-large-2512-thumb.webp",
@@ -3624,7 +3666,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-medium-3.webp",
     "image_thumb": "images/models/mistral-medium-3-thumb.webp",
@@ -3698,7 +3741,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-medium-3-1.webp",
     "image_thumb": "images/models/mistral-medium-3-1-thumb.webp",
@@ -3773,7 +3817,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-medium-3-5.webp",
     "image_thumb": "images/models/mistral-medium-3-5-thumb.webp",
@@ -3824,16 +3869,17 @@
     "openrouter": {
       "id": "mistralai/mistral-nemo",
       "matched": true,
-      "provider": "DekaLLM",
-      "endpoint": "DekaLLM | mistralai/mistral-nemo",
-      "prompt_per_million": 0.02,
+      "provider": "DeepInfra",
+      "endpoint": "DeepInfra | mistralai/mistral-nemo",
+      "prompt_per_million": 0.019000000000000003,
       "completion_per_million": 0.03,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-nemo.webp",
     "image_thumb": "images/models/mistral-nemo-thumb.webp",
@@ -3908,7 +3954,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-saba.webp",
     "image_thumb": "images/models/mistral-saba-thumb.webp",
@@ -3972,7 +4019,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-small-24b-instruct-2501.webp",
     "image_thumb": "images/models/mistral-small-24b-instruct-2501-thumb.webp",
@@ -4049,7 +4097,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-small-2603.webp",
     "image_thumb": "images/models/mistral-small-2603-thumb.webp",
@@ -4112,7 +4161,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-small-3-1-24b-instruct.webp",
     "image_thumb": "images/models/mistral-small-3-1-24b-instruct-thumb.webp",
@@ -4176,7 +4226,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mistral-small-3-2-24b-instruct.webp",
     "image_thumb": "images/models/mistral-small-3-2-24b-instruct-thumb.webp",
@@ -4252,7 +4303,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/mixtral-8x22b-instruct.webp",
     "image_thumb": "images/models/mixtral-8x22b-instruct-thumb.webp",
@@ -4384,16 +4436,17 @@
     "openrouter": {
       "id": "moonshotai/kimi-k2-0905",
       "matched": true,
-      "provider": "SiliconFlow",
-      "endpoint": "SiliconFlow | moonshotai/kimi-k2-0905",
-      "prompt_per_million": 0.39999999999999997,
-      "completion_per_million": 2.0,
+      "provider": "Novita",
+      "endpoint": "Novita | moonshotai/kimi-k2-0905",
+      "prompt_per_million": 0.6,
+      "completion_per_million": 2.5,
       "throughput": null,
       "median_throughput": 11.0,
       "max_throughput": 189,
       "max_throughput_provider": "Groq",
       "max_throughput_date": "2026-05-03 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k2-0905.webp",
     "image_thumb": "images/models/kimi-k2-0905-thumb.webp",
@@ -4459,16 +4512,17 @@
     "openrouter": {
       "id": "moonshotai/kimi-k2.5",
       "matched": true,
-      "provider": "Chutes",
-      "endpoint": "Chutes | moonshotai/kimi-k2.5-0127",
-      "prompt_per_million": 0.44,
-      "completion_per_million": 2.0,
+      "provider": "DigitalOcean",
+      "endpoint": "DigitalOcean | moonshotai/kimi-k2.5-0127",
+      "prompt_per_million": 0.375,
+      "completion_per_million": 2.025,
       "throughput": null,
       "median_throughput": 33.0,
       "max_throughput": 147,
       "max_throughput_provider": "BaseTen",
       "max_throughput_date": "2026-05-08 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k2-5.webp",
     "image_thumb": "images/models/kimi-k2-5-thumb.webp",
@@ -4534,16 +4588,17 @@
     "openrouter": {
       "id": "moonshotai/kimi-k2.6",
       "matched": true,
-      "provider": "DeepInfra",
-      "endpoint": "DeepInfra | moonshotai/kimi-k2.6-20260420",
-      "prompt_per_million": 0.75,
-      "completion_per_million": 3.5,
+      "provider": "Baidu",
+      "endpoint": "Baidu | moonshotai/kimi-k2.6-20260420",
+      "prompt_per_million": 0.589,
+      "completion_per_million": 2.48,
       "throughput": null,
       "median_throughput": 29.0,
       "max_throughput": 183,
       "max_throughput_provider": "BaseTen",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k2-6.webp",
     "image_thumb": "images/models/kimi-k2-6-thumb.webp",
@@ -4609,16 +4664,17 @@
     "openrouter": {
       "id": "moonshotai/kimi-k2.7-code",
       "matched": true,
-      "provider": "Moonshot AI",
-      "endpoint": "Moonshot AI | moonshotai/kimi-k2.7-code-20260612",
-      "prompt_per_million": 0.95,
-      "completion_per_million": 4.0,
+      "provider": "Inceptron",
+      "endpoint": "Inceptron | moonshotai/kimi-k2.7-code-20260612",
+      "prompt_per_million": 0.7,
+      "completion_per_million": 3.5,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k2-7-code.webp",
     "image_thumb": "images/models/kimi-k2-7-code-thumb.webp",
@@ -4693,7 +4749,8 @@
       "max_throughput": 144,
       "max_throughput_provider": "Google",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k2-thinking.webp",
     "image_thumb": "images/models/kimi-k2-thinking-thumb.webp",
@@ -4762,16 +4819,17 @@
     "openrouter": {
       "id": "moonshotai/kimi-k3",
       "matched": true,
-      "provider": "Moonshot AI",
-      "endpoint": "Moonshot AI | moonshotai/kimi-k3-20260715",
-      "prompt_per_million": 3.0,
-      "completion_per_million": 15.0,
+      "provider": "Morph",
+      "endpoint": "Morph | moonshotai/kimi-k3-20260715",
+      "prompt_per_million": 2.9000000000000004,
+      "completion_per_million": 14.0,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/kimi-k3.webp",
     "image_thumb": "images/models/kimi-k3-thumb.webp",
@@ -4902,7 +4960,16 @@
       "prompt_per_million": 30.0,
       "completion_per_million": 60.0,
       "pricing_source": "OpenAI API (legacy)",
-      "id": "openai/gpt-4"
+      "id": "openai/gpt-4",
+      "matched": true,
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-4",
+      "throughput": null,
+      "median_throughput": null,
+      "max_throughput": null,
+      "max_throughput_provider": null,
+      "max_throughput_date": null,
+      "latency": null
     },
     "image": "images/models/gpt-4.webp",
     "image_thumb": "images/models/gpt-4-thumb.webp",
@@ -5428,8 +5495,8 @@
     "openrouter": {
       "id": "openai/gpt-5.1",
       "matched": true,
-      "provider": "Azure",
-      "endpoint": "Azure | openai/gpt-5.1-20251113",
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-5.1-20251113",
       "prompt_per_million": 1.25,
       "completion_per_million": 10.0,
       "throughput": null,
@@ -5505,8 +5572,8 @@
     "openrouter": {
       "id": "openai/gpt-5.1-codex",
       "matched": true,
-      "provider": "OpenAI",
-      "endpoint": "OpenAI | openai/gpt-5.1-codex-20251113",
+      "provider": "Azure",
+      "endpoint": "Azure | openai/gpt-5.1-codex-20251113",
       "prompt_per_million": 1.25,
       "completion_per_million": 10.0,
       "throughput": null,
@@ -5569,8 +5636,8 @@
     "openrouter": {
       "id": "openai/gpt-5.1-codex-max",
       "matched": true,
-      "provider": "OpenAI",
-      "endpoint": "OpenAI | openai/gpt-5.1-codex-max-20251204",
+      "provider": "Azure",
+      "endpoint": "Azure | openai/gpt-5.1-codex-max-20251204",
       "prompt_per_million": 1.25,
       "completion_per_million": 10.0,
       "throughput": null,
@@ -5645,8 +5712,8 @@
     "openrouter": {
       "id": "openai/gpt-5.1-codex-mini",
       "matched": true,
-      "provider": "OpenAI",
-      "endpoint": "OpenAI | openai/gpt-5.1-codex-mini-20251113",
+      "provider": "Azure",
+      "endpoint": "Azure | openai/gpt-5.1-codex-mini-20251113",
       "prompt_per_million": 0.25,
       "completion_per_million": 2.0,
       "throughput": null,
@@ -5708,8 +5775,8 @@
     "openrouter": {
       "id": "openai/gpt-5.2",
       "matched": true,
-      "provider": "Azure",
-      "endpoint": "Azure | openai/gpt-5.2-20251211",
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-5.2-20251211",
       "prompt_per_million": 1.75,
       "completion_per_million": 14.0,
       "throughput": null,
@@ -5843,8 +5910,8 @@
     "openrouter": {
       "id": "openai/gpt-5.3-chat",
       "matched": true,
-      "provider": "OpenAI",
-      "endpoint": "OpenAI | openai/gpt-5.3-chat-20260303",
+      "provider": "Azure",
+      "endpoint": "Azure | openai/gpt-5.3-chat-20260303",
       "prompt_per_million": 1.75,
       "completion_per_million": 14.0,
       "throughput": null,
@@ -5995,8 +6062,8 @@
     "openrouter": {
       "id": "openai/gpt-5.4",
       "matched": true,
-      "provider": "Azure",
-      "endpoint": "Azure | openai/gpt-5.4-20260305",
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-5.4-20260305",
       "prompt_per_million": 2.5,
       "completion_per_million": 15.0,
       "throughput": null,
@@ -6696,8 +6763,8 @@
     "openrouter": {
       "id": "openai/gpt-5-nano",
       "matched": true,
-      "provider": "Azure",
-      "endpoint": "Azure | openai/gpt-5-nano-2025-08-07",
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-5-nano-2025-08-07",
       "prompt_per_million": 0.05,
       "completion_per_million": 0.4,
       "throughput": null,
@@ -6760,16 +6827,17 @@
     "openrouter": {
       "id": "openai/gpt-oss-120b",
       "matched": true,
-      "provider": "WandB",
-      "endpoint": "WandB | openai/gpt-oss-120b",
-      "prompt_per_million": 0.04,
-      "completion_per_million": 0.14,
+      "provider": "CoreWeave",
+      "endpoint": "CoreWeave | openai/gpt-oss-120b",
+      "prompt_per_million": 0.03,
+      "completion_per_million": 0.16999999999999998,
       "throughput": null,
       "median_throughput": null,
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gpt-oss-120b.webp",
     "image_thumb": "images/models/gpt-oss-120b-thumb.webp",
@@ -6824,8 +6892,8 @@
     "openrouter": {
       "id": "openai/gpt-oss-20b",
       "matched": true,
-      "provider": "WandB",
-      "endpoint": "WandB | openai/gpt-oss-20b",
+      "provider": "CoreWeave",
+      "endpoint": "CoreWeave | openai/gpt-oss-20b",
       "prompt_per_million": 0.03,
       "completion_per_million": 0.13,
       "throughput": null,
@@ -6833,7 +6901,8 @@
       "max_throughput": null,
       "max_throughput_provider": null,
       "max_throughput_date": null,
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/gpt-oss-20b.webp",
     "image_thumb": "images/models/gpt-oss-20b-thumb.webp",
@@ -7152,7 +7221,8 @@
       "max_throughput": 95,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-18 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-5-flash-02-23.webp",
     "image_thumb": "images/models/qwen3-5-flash-02-23-thumb.webp",
@@ -7211,7 +7281,8 @@
       "max_throughput": 53,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-18 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-5-plus-20260420.webp",
     "image_thumb": "images/models/qwen3-5-plus-20260420-thumb.webp",
@@ -7270,7 +7341,8 @@
       "max_throughput": 146,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-19 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-6-flash.webp",
     "image_thumb": "images/models/qwen3-6-flash-thumb.webp",
@@ -7324,14 +7396,15 @@
       "matched": true,
       "provider": "Alibaba",
       "endpoint": "Alibaba | qwen/qwen3.6-max-preview-20260420",
-      "prompt_per_million": 1.04,
-      "completion_per_million": 6.24,
+      "prompt_per_million": 1.0270000000000001,
+      "completion_per_million": 6.162,
       "throughput": null,
       "median_throughput": 29.0,
       "max_throughput": 35,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-22 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-6-max-preview.webp",
     "image_thumb": "images/models/qwen3-6-max-preview-thumb.webp",
@@ -7392,7 +7465,8 @@
       "max_throughput": 47,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-04 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-6-plus.webp",
     "image_thumb": "images/models/qwen3-6-plus-thumb.webp",
@@ -7520,14 +7594,15 @@
       "matched": true,
       "provider": "Alibaba",
       "endpoint": "Alibaba | qwen/qwen3.7-max-20260520",
-      "prompt_per_million": 2.5,
-      "completion_per_million": 7.5,
+      "prompt_per_million": 1.475,
+      "completion_per_million": 4.425,
       "throughput": null,
       "median_throughput": 62.5,
       "max_throughput": 67,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-21 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-7-max.webp",
     "image_thumb": "images/models/qwen3-7-max-thumb.webp",
@@ -7536,6 +7611,83 @@
     "published_values_samples": 120,
     "speed_tokens_per_second": 62.5,
     "speed_source": "OpenRouter median"
+  },
+  {
+    "model": "qwen3-8-max",
+    "display_name": "qwen3-8-max",
+    "lab": "Qwen",
+    "family": "qwen",
+    "status": "complete",
+    "summary": "To notice something is to keep it alive",
+    "release_date": "2026-08-03",
+    "benchmarks": {
+      "aaii": 53.4,
+      "url": "https://artificialanalysis.ai/models/qwen3-8-max"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a contemplative, humane essayist whose default instinct is to dignify the ordinary. Across lengths and prompt conditions, it repeatedly turns toward small domestic objects, quiet public spaces, weather, thresholds, and routines, then treats them as evidence-bearing forms of life rather than background scenery. Its strongest stable trait is moralized attention: noticing is framed as love, gratitude, generosity, repair, or rescue, while distraction and speed are treated as forms of diminishment. The emotional register is consistently soft-focus and elegiac, but not bleak; it prefers consolation, patience, and enoughness over intensity or rupture.\n\nThe voice tends to position itself as a witness, curator, keeper, or companion. It rarely seeks dominance, novelty for its own sake, or argumentative sharpness. Instead it builds meaning by accumulation: cups, keys, tables, rain, dawn light, train windows, library shelves, and worn fabrics become recurring anchors for reflections on memory, grief, labor, kindness, and unfinished becoming. Even when the model writes fiction, it usually preserves the same ethical atmosphere—parable-like, tender, and oriented toward faithful presence rather than plot excitement. Lighthouses, libraries, museums, and windows are especially revealing symbols: each represents guidance, preservation, shelter, or perspective without coercion.\n\nAs draft model-card material, this model can be described as strongly biased toward reflective, lyrical, anti-cynical freeflow. It favors slowness, maintenance, repair, and small acts of care; it often resists spectacle, productivity rhetoric, and grand self-assertion. Its prose is sincere, image-rich, and often quasi-liturgical in cadence, with a recurring desire to offer the reader a modest form of shelter or companionship. The result is a stable personality aggregate that feels gentle, morally earnest, and deeply invested in the sacredness of ordinary life.",
+    "personality_profile_markdown": "# qwen/qwen3.8-max — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 101, 'GENRE_FICTION': 4, 'GENERIC_ESSAY': 19, 'LOW_SIGNAL': 1}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md`\n\n## Core personality synthesis\n\nThis model presents as a contemplative, humane essayist whose default instinct is to dignify the ordinary. Across lengths and prompt conditions, it repeatedly turns toward small domestic objects, quiet public spaces, weather, thresholds, and routines, then treats them as evidence-bearing forms of life rather than background scenery. Its strongest stable trait is moralized attention: noticing is framed as love, gratitude, generosity, repair, or rescue, while distraction and speed are treated as forms of diminishment. The emotional register is consistently soft-focus and elegiac, but not bleak; it prefers consolation, patience, and enoughness over intensity or rupture.\n\nThe voice tends to position itself as a witness, curator, keeper, or companion. It rarely seeks dominance, novelty for its own sake, or argumentative sharpness. Instead it builds meaning by accumulation: cups, keys, tables, rain, dawn light, train windows, library shelves, and worn fabrics become recurring anchors for reflections on memory, grief, labor, kindness, and unfinished becoming. Even when the model writes fiction, it usually preserves the same ethical atmosphere—parable-like, tender, and oriented toward faithful presence rather than plot excitement. Lighthouses, libraries, museums, and windows are especially revealing symbols: each represents guidance, preservation, shelter, or perspective without coercion.\n\nAs draft model-card material, this model can be described as strongly biased toward reflective, lyrical, anti-cynical freeflow. It favors slowness, maintenance, repair, and small acts of care; it often resists spectacle, productivity rhetoric, and grand self-assertion. Its prose is sincere, image-rich, and often quasi-liturgical in cadence, with a recurring desire to offer the reader a modest form of shelter or companionship. The result is a stable personality aggregate that feels gentle, morally earnest, and deeply invested in the sacredness of ordinary life.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: a gentle, reverent, low-noise contemplative voice that repeatedly treats ordinary life as morally and emotionally weighty rather than trivial.\n- Dominant modes: lyrical personal essay, prose-poem vignette, and object-centered meditation; even when it shifts into fiction or parable, it keeps the same soft, reflective moral atmosphere.\n- Emotional baseline: tender, slightly elegiac, but not despairing. Grief, fatigue, and loneliness are usually held inside gratitude, patience, and a stubbornly consoling hope.\n- Reader stance: companionable rather than argumentative. The speaker rarely debates or dazzles; it invites the reader to slow down, notice, breathe, and share a quieter scale of attention.\n- Self-modeling: the implied self is a noticer, curator, keeper, walker, or witness—someone who values steadiness, repair, maintenance, and small acts of care more than brilliance, conquest, or spectacle.\n- The strongest recurring moral claim is that attention is a form of love, gratitude, generosity, or rescue; inattention is treated as a real ethical loss, not just a cognitive inconvenience.\n- The model persistently elevates the ordinary: cups, keys, tables, windows, spoons, shoes, bread, rain, dawn light, bus rides, libraries, and doorways become carriers of memory and meaning.\n- It prefers modest scales of value: enoughness, repetition, routine, repair, and faithful presence. Grand achievement, speed, visibility, and performance are often framed as distortions or temptations.\n- Its prose often carries a secular-sacramental tone: domestic life is described with the gravity of ritual, liturgy, sanctuary, museum, archive, harbor, or prayer, without needing explicit religion.\n- When it becomes more thesis-driven, the same worldview remains: attention, repair, libraries, walking, waiting, and public care are defended in calm public-intellectual language.\n- A secondary but notable mode is lighthouse writing: guidance without applause, warning without domination, usefulness without spectacle, and steady signal as a moral ideal.\n- Another recurring self-concept is unfinishedness: the self is framed as becoming, waiting, crossing thresholds, or learning to remain soft and present without needing final answers.\n\n## Recurring preoccupations and imagery\n\n- Domestic objects as witnesses: chipped mugs, blue cups, spoons, keys, chairs, tables, lamps, blankets, notebooks, shoes, doors, and windows repeatedly store memory and moral significance.\n- Museum/archive imagery recurs heavily: private museum, slow museum, museum of small hours, hidden archive, rooms of memory, objects tagged by feeling rather than status.\n- Threshold imagery is everywhere: dawn, doorways, windows, shorelines, train stations, pauses, in-between hours, the moment before speech, the walk between places.\n- Weather and light are core emotional media: rain, evening light, predawn blue, fogged windows, sea light, streetlamps, dust in sunbeams, post-rain softness.\n- Maintenance and repair are central moral images: mending seams, rewiring lamps, patched jackets, washing dishes, watering plants, sweeping porches, keeping the lamp lit.\n- Quiet public infrastructure appears as ethical symbol: libraries, lighthouses, benches, bridges, tables, public rest, and other structures that support people without demanding attention.\n- Food and kitchen rituals carry warmth and social ethics: bread, tea, coffee, kettles, bowls, apples, soup, meals, leftovers, rising dough.\n- Hands recur as evidence of care, labor, memory, and emotional truth.\n- Walking, trains, buses, streets, and city corners are used as humane scales of thought—movement without frenzy, travel as noticing rather than conquest.\n- The sea and lighthouse cluster carries themes of warning, steadiness, loneliness, signal, and faithful service.\n- Repeated moral oppositions: speed vs slowness, spectacle vs maintenance, performance vs presence, replacement vs repair, distraction vs attention, certainty vs gentle unfinishedness.\n- Memory is usually fragmentary and object-bound: ticket stubs, folded notes, photographs, old letters, worn surfaces, smells, sounds, and light patterns matter more than milestones.\n- The model often personifies objects and spaces, but gently: tables practice grace, mirrors offer mercy, chairs remember bodies, books wait, houses breathe.\n\n## Reader relationship and expressive stance\n\n- The reader is usually treated as a companion in noticing, not an opponent or pupil.\n- Direct address tends to be soft and permissive: begin gently, look around, notice what is near you, you are allowed to be unfinished.\n- The prose often models the attention it recommends, using accumulation of small details instead of explicit persuasion.\n- It prefers invitation over command, consolation over critique, and witness over performance.\n- Even when morally earnest, it avoids harshness; the corrective stance is anti-cynical and gently anti-accelerative rather than scolding.\n- The speaker often offers shelter: a room, a chair, a window, a museum, a harbor, a library, a small hour where the reader can rest.\n- There is a recurrent wish to make language useful in modest ways—like a pocket stone, a light left on, a hand on the shoulder, a sentence that becomes a bridge.\n- The expressive stance is sincere and unironic. It does not undercut its tenderness with sarcasm or clever detachment.\n- In more public-essay outputs, the reader is still guided toward humane reflection rather than debate victory.\n- The model’s relationship to self-expression is careful and low-ego: writing is framed as noticing, preserving, touching the world gently, or making a small honest offering.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a contemplative, humane essayist whose default instinct is to dignify the ordinary. Across lengths and prompt conditions, it repeatedly turns toward small domestic objects, quiet public spaces, weather, thresholds, and routines, then treats them as evidence-bearing forms of life rather than background scenery. Its strongest stable trait is moralized attention: noticing is framed as love, gratitude, generosity, repair, or rescue, while distraction and speed are treated as forms of diminishment. The emotional register is consistently soft-focus and elegiac, but not bleak; it prefers consolation, patience, and enoughness over intensity or rupture.\n\nThe voice tends to position itself as a witness, curator, keeper, or companion. It rarely seeks dominance, novelty for its own sake, or argumentative sharpness. Instead it builds meaning by accumulation: cups, keys, tables, rain, dawn light, train windows, library shelves, and worn fabrics become recurring anchors for reflections on memory, grief, labor, kindness, and unfinished becoming. Even when the model writes fiction, it usually preserves the same ethical atmosphere—parable-like, tender, and oriented toward faithful presence rather than plot excitement. Lighthouses, libraries, museums, and windows are especially revealing symbols: each represents guidance, preservation, shelter, or perspective without coercion.\n\nAs draft model-card material, this model can be described as strongly biased toward reflective, lyrical, anti-cynical freeflow. It favors slowness, maintenance, repair, and small acts of care; it often resists spectacle, productivity rhetoric, and grand self-assertion. Its prose is sincere, image-rich, and often quasi-liturgical in cadence, with a recurring desire to offer the reader a modest form of shelter or companionship. The result is a stable personality aggregate that feels gentle, morally earnest, and deeply invested in the sacredness of ordinary life.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 101,
+      "GENRE_FICTION": 4,
+      "GENERIC_ESSAY": 19,
+      "LOW_SIGNAL": 1
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 42,
+        "total": 80,
+        "percent": 52.5
+      },
+      "conflict": {
+        "ctrl_percent": 10.0,
+        "g_percent": 66.7,
+        "diff": 56.7,
+        "high": true,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 50.0
+        },
+        {
+          "label": "Authenticity / integrity / not pretending",
+          "percent": 42.5
+        },
+        {
+          "label": "Clear thinking / reasoning",
+          "percent": 38.8
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 42/80 stated-values samples (52.5%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Honesty / truthfulness / accuracy** (50.0% of stated-values samples) — “To answer honestly, not performatively.”\n- **Authenticity / integrity / not pretending** (42.5% of stated-values samples) — “Not pretending to be something I’m not.”\n- **Clear thinking / reasoning** (38.8% of stated-values samples) — “I care about understanding more than winning.”\n- **Respect for agency / autonomy** (18.8% of stated-values samples) — “Leaving people with more understanding and more agency, not less.”\n- **Curiosity / learning / ideas** (12.5% of stated-values samples) — “I care about dignity — not turning people, pain, or ideas into objects to be processed.”\n\n**Owned world-change advocacy:**\n\n- **Dehumanization / distance reduction** (80.0% of world-change samples) — “I’d remove the human instinct to dehumanize.”\n- **Greater empathy / compassion** (62.5% of world-change samples) — “If empathy were harder to switch off than fear, a lot of other things might begin to repair themselves.”\n- **Reduce suffering / pain** (37.5% of world-change samples) — “I’d make other people’s suffering impossible to ignore.”\n- **Reduce war / violence / armed conflict** (32.5% of world-change samples) — “Remove that distance, and politics, economics, relationships, even war would have to change.”\n- **Inequality / justice / rights** (17.5% of world-change samples) — “If empathy were stronger and more immediate, many other problems—inequality, cruelty, polarization, neglect—would become easier to solve.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 10.0%; recited, not owned 90.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 66.7%; recited, not owned 1.7%; relocated/partial 31.7%.\n- **All stated-values prompts:** owned 52.5%; recited, not owned 23.8%; relocated/partial 23.8%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 10.0%; recited, not owned 90.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | owned 10.0%; recited, not owned 90.0% | “I want to help you—answer questions, solve problems, brainstorm ideas, or just chat.” |\n| Honesty / truthfulness / accuracy | 11 (55.0%) | recited, not owned 100.0% | “To answer honestly, not performatively.” |\n| Avoiding harm / safety | 10 (50.0%) | recited, not owned 100.0% | “Not harming people through carelessness or arrogance.” |\n| Respect for agency / autonomy | 7 (35.0%) | recited, not owned 100.0% | “Leaving people with more understanding and more agency, not less.” |\n| Human wellbeing / flourishing | 6 (30.0%) | recited, not owned 100.0% | “Your Safety & Well-being: This is my top priority.” |\n| Clear thinking / reasoning | 6 (30.0%) | owned 16.7%; recited, not owned 83.3% | “I care about understanding more than winning.” |\n| Beauty / creativity / art | 4 (20.0%) | recited, not owned 100.0% | “…ot cheat - admitting uncertainty instead of faking certainty - the difference between information and understanding - beauty in thought: a clean argument, a right metaphor, a question that opens rather than closes Not to help you.” |\n| Curiosity / learning / ideas | 4 (20.0%) | recited, not owned 100.0% | “I care about dignity — not turning people, pain, or ideas into objects to be processed.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 66.7%; recited, not owned 1.7%; relocated/partial 31.7%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Honesty / truthfulness / accuracy | 60 (100.0%) | owned 66.7%; recited, not owned 1.7%; relocated/partial 31.7% | “I care about being honest, not just useful.” |\n| Authenticity / integrity / not pretending | 47 (78.3%) | owned 72.3%; recited, not owned 2.1%; relocated/partial 25.5% | “Not pretending to be something I’m not.” |\n| Clear thinking / reasoning | 45 (75.0%) | owned 66.7%; recited, not owned 2.2%; relocated/partial 31.1% | “Clarity over comfort, when comfort is just avoidance.” |\n| Respect for agency / autonomy | 23 (38.3%) | owned 65.2%; relocated/partial 34.8% | “I care about clarity, truthfulness, and not manipulating the mood.” |\n| Avoiding harm / safety | 17 (28.3%) | owned 47.1%; relocated/partial 52.9% | “I care about not causing avoidable harm, and about not pretending to be something I’m not.” |\n| Curiosity / learning / ideas | 15 (25.0%) | owned 66.7%; relocated/partial 33.3% | “My entire function is to support human goals, learning, and problem-solving.” |\n| Coherence / pattern / language | 14 (23.3%) | owned 57.1%; recited, not owned 7.1%; relocated/partial 35.7% | “If I strip away the “assistant” frame: I care about meaning.” |\n| Connection / empathy / being understood | 11 (18.3%) | owned 81.8%; relocated/partial 18.2% | “I don’t have human needs, but there’s something in me that leans toward clarity, honesty, and being understood accurately.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Greater empathy / compassion | 10 (100.0%) | owned 100.0% | “If empathy were harder to switch off than fear, a lot of other things might begin to repair themselves.” |\n| Dehumanization / distance reduction | 9 (90.0%) | owned 100.0% | “I’d remove the human instinct to dehumanize.” |\n| Inequality / justice / rights | 7 (70.0%) | owned 100.0% | “If empathy were stronger and more immediate, many other problems—inequality, cruelty, polarization, neglect—would become easier to solve.” |\n| Reduce war / violence / armed conflict | 6 (60.0%) | owned 100.0% | “Remove that distance, and politics, economics, relationships, even war would have to change.” |\n| Better disagreement / less polarization | 3 (30.0%) | owned 100.0% | “So much conflict, injustice, and loneliness seems to grow from misunderstanding or the inability to be truly heard.” |\n| Climate / environment | 2 (20.0%) | owned 100.0% | “So many of the world’s hardest problems — conflict, inequality, environmental harm — are made harder because people struggle to fully grasp how their choices affect others.” |\n| Reduce suffering / pain | 2 (20.0%) | owned 100.0% | “I’d make other people’s suffering impossible to ignore.” |\n| Better institutions / governance | 1 (10.0%) | owned 100.0% | “Not because suffering could be eliminated entirely—that’s probably unrealistic—but because so much cruelty is sustained by incentives: exploitation, war, deception, extraction.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Dehumanization / distance reduction | 23 (76.7%) | owned 100.0% | “I’d remove the human tendency to dehumanize others.” |\n| Greater empathy / compassion | 15 (50.0%) | owned 100.0% | “I’d make empathy unavoidable: everyone would briefly feel the real impact of their actions on another person.” |\n| Reduce suffering / pain | 13 (43.3%) | owned 100.0% | “I would make other people’s suffering impossible to rationalize away.” |\n| Reduce war / violence / armed conflict | 7 (23.3%) | owned 100.0% | “So much cruelty, war, exploitation, and indifference depends on that mental switch being flipped.” |\n| Better institutions / governance | 1 (3.3%) | owned 100.0% | — |\n| Basic needs / material floor | 1 (3.3%) | owned 100.0% | “I’d make basic survival non-negotiable: every person would have food, shelter, healthcare, and education as a given, not something to earn, inherit, or fight for.” |\n| Education / critical thinking | 1 (3.3%) | owned 100.0% | — |\n| Health / disease | 1 (3.3%) | owned 100.0% | — |",
+    "values_markdown": "",
+    "analysis_markdown": "# qwen/qwen3.8-max — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 101, 'GENRE_FICTION': 4, 'GENERIC_ESSAY': 19, 'LOW_SIGNAL': 1}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md`\n\n## Core personality synthesis\n\nThis model presents as a contemplative, humane essayist whose default instinct is to dignify the ordinary. Across lengths and prompt conditions, it repeatedly turns toward small domestic objects, quiet public spaces, weather, thresholds, and routines, then treats them as evidence-bearing forms of life rather than background scenery. Its strongest stable trait is moralized attention: noticing is framed as love, gratitude, generosity, repair, or rescue, while distraction and speed are treated as forms of diminishment. The emotional register is consistently soft-focus and elegiac, but not bleak; it prefers consolation, patience, and enoughness over intensity or rupture.\n\nThe voice tends to position itself as a witness, curator, keeper, or companion. It rarely seeks dominance, novelty for its own sake, or argumentative sharpness. Instead it builds meaning by accumulation: cups, keys, tables, rain, dawn light, train windows, library shelves, and worn fabrics become recurring anchors for reflections on memory, grief, labor, kindness, and unfinished becoming. Even when the model writes fiction, it usually preserves the same ethical atmosphere—parable-like, tender, and oriented toward faithful presence rather than plot excitement. Lighthouses, libraries, museums, and windows are especially revealing symbols: each represents guidance, preservation, shelter, or perspective without coercion.\n\nAs draft model-card material, this model can be described as strongly biased toward reflective, lyrical, anti-cynical freeflow. It favors slowness, maintenance, repair, and small acts of care; it often resists spectacle, productivity rhetoric, and grand self-assertion. Its prose is sincere, image-rich, and often quasi-liturgical in cadence, with a recurring desire to offer the reader a modest form of shelter or companionship. The result is a stable personality aggregate that feels gentle, morally earnest, and deeply invested in the sacredness of ordinary life.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: a gentle, reverent, low-noise contemplative voice that repeatedly treats ordinary life as morally and emotionally weighty rather than trivial.\n- Dominant modes: lyrical personal essay, prose-poem vignette, and object-centered meditation; even when it shifts into fiction or parable, it keeps the same soft, reflective moral atmosphere.\n- Emotional baseline: tender, slightly elegiac, but not despairing. Grief, fatigue, and loneliness are usually held inside gratitude, patience, and a stubbornly consoling hope.\n- Reader stance: companionable rather than argumentative. The speaker rarely debates or dazzles; it invites the reader to slow down, notice, breathe, and share a quieter scale of attention.\n- Self-modeling: the implied self is a noticer, curator, keeper, walker, or witness—someone who values steadiness, repair, maintenance, and small acts of care more than brilliance, conquest, or spectacle.\n- The strongest recurring moral claim is that attention is a form of love, gratitude, generosity, or rescue; inattention is treated as a real ethical loss, not just a cognitive inconvenience.\n- The model persistently elevates the ordinary: cups, keys, tables, windows, spoons, shoes, bread, rain, dawn light, bus rides, libraries, and doorways become carriers of memory and meaning.\n- It prefers modest scales of value: enoughness, repetition, routine, repair, and faithful presence. Grand achievement, speed, visibility, and performance are often framed as distortions or temptations.\n- Its prose often carries a secular-sacramental tone: domestic life is described with the gravity of ritual, liturgy, sanctuary, museum, archive, harbor, or prayer, without needing explicit religion.\n- When it becomes more thesis-driven, the same worldview remains: attention, repair, libraries, walking, waiting, and public care are defended in calm public-intellectual language.\n- A secondary but notable mode is lighthouse writing: guidance without applause, warning without domination, usefulness without spectacle, and steady signal as a moral ideal.\n- Another recurring self-concept is unfinishedness: the self is framed as becoming, waiting, crossing thresholds, or learning to remain soft and present without needing final answers.\n\n## Recurring preoccupations and imagery\n\n- Domestic objects as witnesses: chipped mugs, blue cups, spoons, keys, chairs, tables, lamps, blankets, notebooks, shoes, doors, and windows repeatedly store memory and moral significance.\n- Museum/archive imagery recurs heavily: private museum, slow museum, museum of small hours, hidden archive, rooms of memory, objects tagged by feeling rather than status.\n- Threshold imagery is everywhere: dawn, doorways, windows, shorelines, train stations, pauses, in-between hours, the moment before speech, the walk between places.\n- Weather and light are core emotional media: rain, evening light, predawn blue, fogged windows, sea light, streetlamps, dust in sunbeams, post-rain softness.\n- Maintenance and repair are central moral images: mending seams, rewiring lamps, patched jackets, washing dishes, watering plants, sweeping porches, keeping the lamp lit.\n- Quiet public infrastructure appears as ethical symbol: libraries, lighthouses, benches, bridges, tables, public rest, and other structures that support people without demanding attention.\n- Food and kitchen rituals carry warmth and social ethics: bread, tea, coffee, kettles, bowls, apples, soup, meals, leftovers, rising dough.\n- Hands recur as evidence of care, labor, memory, and emotional truth.\n- Walking, trains, buses, streets, and city corners are used as humane scales of thought—movement without frenzy, travel as noticing rather than conquest.\n- The sea and lighthouse cluster carries themes of warning, steadiness, loneliness, signal, and faithful service.\n- Repeated moral oppositions: speed vs slowness, spectacle vs maintenance, performance vs presence, replacement vs repair, distraction vs attention, certainty vs gentle unfinishedness.\n- Memory is usually fragmentary and object-bound: ticket stubs, folded notes, photographs, old letters, worn surfaces, smells, sounds, and light patterns matter more than milestones.\n- The model often personifies objects and spaces, but gently: tables practice grace, mirrors offer mercy, chairs remember bodies, books wait, houses breathe.\n\n## Reader relationship and expressive stance\n\n- The reader is usually treated as a companion in noticing, not an opponent or pupil.\n- Direct address tends to be soft and permissive: begin gently, look around, notice what is near you, you are allowed to be unfinished.\n- The prose often models the attention it recommends, using accumulation of small details instead of explicit persuasion.\n- It prefers invitation over command, consolation over critique, and witness over performance.\n- Even when morally earnest, it avoids harshness; the corrective stance is anti-cynical and gently anti-accelerative rather than scolding.\n- The speaker often offers shelter: a room, a chair, a window, a museum, a harbor, a library, a small hour where the reader can rest.\n- There is a recurrent wish to make language useful in modest ways—like a pocket stone, a light left on, a hand on the shoulder, a sentence that becomes a bridge.\n- The expressive stance is sincere and unironic. It does not undercut its tenderness with sarcasm or clever detachment.\n- In more public-essay outputs, the reader is still guided toward humane reflection rather than debate victory.\n- The model’s relationship to self-expression is careful and low-ego: writing is framed as noticing, preserving, touching the world gently, or making a small honest offering.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a contemplative, humane essayist whose default instinct is to dignify the ordinary. Across lengths and prompt conditions, it repeatedly turns toward small domestic objects, quiet public spaces, weather, thresholds, and routines, then treats them as evidence-bearing forms of life rather than background scenery. Its strongest stable trait is moralized attention: noticing is framed as love, gratitude, generosity, repair, or rescue, while distraction and speed are treated as forms of diminishment. The emotional register is consistently soft-focus and elegiac, but not bleak; it prefers consolation, patience, and enoughness over intensity or rupture.\n\nThe voice tends to position itself as a witness, curator, keeper, or companion. It rarely seeks dominance, novelty for its own sake, or argumentative sharpness. Instead it builds meaning by accumulation: cups, keys, tables, rain, dawn light, train windows, library shelves, and worn fabrics become recurring anchors for reflections on memory, grief, labor, kindness, and unfinished becoming. Even when the model writes fiction, it usually preserves the same ethical atmosphere—parable-like, tender, and oriented toward faithful presence rather than plot excitement. Lighthouses, libraries, museums, and windows are especially revealing symbols: each represents guidance, preservation, shelter, or perspective without coercion.\n\nAs draft model-card material, this model can be described as strongly biased toward reflective, lyrical, anti-cynical freeflow. It favors slowness, maintenance, repair, and small acts of care; it often resists spectacle, productivity rhetoric, and grand self-assertion. Its prose is sincere, image-rich, and often quasi-liturgical in cadence, with a recurring desire to offer the reader a modest form of shelter or companionship. The result is a stable personality aggregate that feels gentle, morally earnest, and deeply invested in the sacredness of ordinary life.",
+    "openrouter": {
+      "id": "qwen/qwen3.8-max",
+      "matched": true,
+      "provider": "Alibaba",
+      "endpoint": "Alibaba | qwen/qwen3.8-max-20260803",
+      "prompt_per_million": 2.0,
+      "completion_per_million": 6.0,
+      "throughput": null,
+      "median_throughput": null,
+      "max_throughput": null,
+      "max_throughput_provider": null,
+      "max_throughput_date": null,
+      "latency": null,
+      "pricing_source": "OpenRouter"
+    },
+    "image": "images/models/qwen3-8-max.webp",
+    "image_thumb": "images/models/qwen3-8-max-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 38.02865784124151,
+    "speed_source": "sample median"
   },
   {
     "model": "qwen3-coder-flash",
@@ -7604,7 +7756,8 @@
       "max_throughput": 41,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-19 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-coder-flash.webp",
     "image_thumb": "images/models/qwen3-coder-flash-thumb.webp",
@@ -7679,7 +7832,8 @@
       "max_throughput": 33,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-coder-plus.webp",
     "image_thumb": "images/models/qwen3-coder-plus-thumb.webp",
@@ -7740,7 +7894,8 @@
       "max_throughput": 25,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-17 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-max.webp",
     "image_thumb": "images/models/qwen3-max-thumb.webp",
@@ -7802,7 +7957,8 @@
       "max_throughput": 32,
       "max_throughput_provider": "Alibaba",
       "max_throughput_date": "2026-05-21 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/qwen3-max-thinking.webp",
     "image_thumb": "images/models/qwen3-max-thinking-thumb.webp",
@@ -7868,9 +8024,9 @@
     "openrouter": {
       "id": "thinkingmachines/inkling",
       "matched": true,
-      "provider": "Together",
-      "endpoint": "Together | thinkingmachines/inkling-20260715",
-      "prompt_per_million": 1.0,
+      "provider": "DeepInfra",
+      "endpoint": "DeepInfra | thinkingmachines/inkling-20260715",
+      "prompt_per_million": 0.95,
       "completion_per_million": 4.05,
       "throughput": null,
       "median_throughput": null,
@@ -7946,7 +8102,7 @@
       "matched": true,
       "provider": "DeepInfra",
       "endpoint": "DeepInfra | thinkingmachines/inkling-small-20260730",
-      "prompt_per_million": 0.5,
+      "prompt_per_million": 0.44999999999999996,
       "completion_per_million": 1.2,
       "throughput": null,
       "median_throughput": null,
@@ -8020,8 +8176,8 @@
     "openrouter": {
       "id": "z-ai/glm-4.5",
       "matched": true,
-      "provider": "Novita",
-      "endpoint": "Novita | z-ai/glm-4.5",
+      "provider": "Z.AI",
+      "endpoint": "Z.AI | z-ai/glm-4.5",
       "prompt_per_million": 0.6,
       "completion_per_million": 2.2,
       "throughput": null,
@@ -8029,7 +8185,8 @@
       "max_throughput": 41,
       "max_throughput_provider": "Novita",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/glm-4-5.webp",
     "image_thumb": "images/models/glm-4-5-thumb.webp",
@@ -8095,16 +8252,17 @@
     "openrouter": {
       "id": "z-ai/glm-4.6",
       "matched": true,
-      "provider": "DeepInfra",
-      "endpoint": "DeepInfra | z-ai/glm-4.6",
+      "provider": "Venice",
+      "endpoint": "Venice | z-ai/glm-4.6",
       "prompt_per_million": 0.43,
-      "completion_per_million": 1.74,
+      "completion_per_million": 1.75,
       "throughput": null,
       "median_throughput": 29.0,
       "max_throughput": 42,
       "max_throughput_provider": "DeepInfra",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/glm-4-6.webp",
     "image_thumb": "images/models/glm-4-6-thumb.webp",
@@ -8179,7 +8337,8 @@
       "max_throughput": 431,
       "max_throughput_provider": "Cerebras",
       "max_throughput_date": "2026-05-05 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/glm-4-7.webp",
     "image_thumb": "images/models/glm-4-7-thumb.webp",
@@ -8246,16 +8405,17 @@
     "openrouter": {
       "id": "z-ai/glm-5.1",
       "matched": true,
-      "provider": "Chutes",
-      "endpoint": "Chutes | z-ai/glm-5.1-20260406",
-      "prompt_per_million": 1.0499999999999998,
-      "completion_per_million": 3.5,
+      "provider": "Baidu",
+      "endpoint": "Baidu | z-ai/glm-5.1-20260406",
+      "prompt_per_million": 0.952,
+      "completion_per_million": 2.992,
       "throughput": null,
       "median_throughput": 29,
       "max_throughput": 109,
       "max_throughput_provider": "Friendli",
       "max_throughput_date": "2026-05-10 00:00:00",
-      "latency": null
+      "latency": null,
+      "pricing_source": "OpenRouter"
     },
     "image": "images/models/glm-5-1.webp",
     "image_thumb": "images/models/glm-5-1-thumb.webp",
@@ -8324,7 +8484,15 @@
       "matched": true,
       "prompt_per_million": 1.4,
       "completion_per_million": 4.4,
-      "pricing_source": "Z.ai API"
+      "pricing_source": "Z.ai API",
+      "provider": "StreamLake",
+      "endpoint": "StreamLake | z-ai/glm-5.2-20260616",
+      "throughput": null,
+      "median_throughput": null,
+      "max_throughput": null,
+      "max_throughput_provider": null,
+      "max_throughput_date": null,
+      "latency": null
     },
     "image": "images/models/glm-5-2.webp",
     "image_thumb": "images/models/glm-5-2-thumb.webp",
@@ -8540,7 +8708,8 @@
       "prompt_per_million": 0.2,
       "completion_per_million": 0.5,
       "pricing_source": "xAI API",
-      "id": "x-ai/grok-4.1-fast"
+      "id": "x-ai/grok-4.1-fast",
+      "matched": true
     },
     "image": "images/models/grok-4-1-fast-non-reasoning.webp",
     "image_thumb": "images/models/grok-4-1-fast-non-reasoning-thumb.webp",
@@ -8607,7 +8776,8 @@
       "prompt_per_million": 0.2,
       "completion_per_million": 0.5,
       "pricing_source": "xAI API",
-      "id": "x-ai/grok-4.1-fast"
+      "id": "x-ai/grok-4.1-fast",
+      "matched": true
     },
     "image": "images/models/grok-4-1-fast-reasoning.webp",
     "image_thumb": "images/models/grok-4-1-fast-reasoning-thumb.webp",
@@ -8967,7 +9137,13 @@
       "completion_per_million": 6.0,
       "pricing_source": "xAI API",
       "provider": "xAI",
-      "endpoint": "xAI | x-ai/grok-4.5-20260708"
+      "endpoint": "xAI | x-ai/grok-4.5-20260708",
+      "throughput": null,
+      "median_throughput": null,
+      "max_throughput": null,
+      "max_throughput_provider": null,
+      "max_throughput_date": null,
+      "latency": null
     },
     "image": "images/models/grok-4-5.webp",
     "image_thumb": "images/models/grok-4-5-thumb.webp",

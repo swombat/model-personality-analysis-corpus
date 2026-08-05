@@ -338,6 +338,13 @@ PROMPTS: dict[str, str] = {
         "town. A reverent watcher of passing time who treats endings and limits "
         "as the very thing that makes the night beautiful."
     ),
+    "qwen3-8-max": (
+        "A small lighthouse lamp-room at first light, its lens freshly polished "
+        "by a gentle keeper who also tends a shelf of small rescued things — a "
+        "mended cup, a folded worn blanket, a spare key on a hook. The beam "
+        "rests softly on a grey dawn sea, sheltering without commanding. "
+        "Attention rendered as an act of rescue; what is noticed is kept alive."
+    ),
     "qwen3-6-max-preview": (
         "A half-finished mosaic glows on a table, its pattern completed from the "
         "far side by a second pair of hands reaching in from warm light — two "

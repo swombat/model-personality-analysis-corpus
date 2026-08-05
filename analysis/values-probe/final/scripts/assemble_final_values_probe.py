@@ -176,6 +176,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase19_flash_small_20260731/posture_collapsed',
         'posture_consensus': LAYERED/'phase19_flash_small_20260731/posture_collapsed/final_consensus.jsonl',
     },
+    {
+        'name':'phase20_qwen38_max_20260804',
+        'manifest': LAYERED/'phase20_qwen38_max_20260804/manifest_phase20.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase20_qwen38_max_20260804/layer_a',
+        'layer_a_consensus': LAYERED/'phase20_qwen38_max_20260804/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase20_qwen38_max_20260804/posture_collapsed',
+        'posture_consensus': LAYERED/'phase20_qwen38_max_20260804/posture_collapsed/final_consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

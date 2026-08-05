@@ -1022,5 +1022,13 @@
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.7-max.md",
     "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen/qwen3.8-max",
+    "safe": "qwen-qwen3.8-max",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md",
+    "difference_decision": "SINGLE_VARIANT"
   }
 ]

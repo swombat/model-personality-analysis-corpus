@@ -5,12 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-08-01:** v1.3.2 derived analysis corpus covering 128
-> freeflow personality-card models. This patch completes the DeepSeek V4
-> Flash, Inkling Small, and Qwen 3.7 Flash cards by promoting their Phase-19
-> three-LLM values coding into the final dataset and browser, and adds
-> available intelligence-index metadata. See
-> [`RELEASE_NOTES_v1.3.2.md`](RELEASE_NOTES_v1.3.2.md);
+> **Status — 2026-08-05:** v1.3.3 derived analysis corpus covering 129
+> freeflow personality-card models. This release adds Qwen 3.8 Max with
+> 125 freeflow and 120 values samples, full personality and layered values
+> analyses, model artwork and strapline, and release/benchmark/API metadata.
+> See [`RELEASE_NOTES_v1.3.3.md`](RELEASE_NOTES_v1.3.3.md);
 > for the v1.2.8–v1.2.15 values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

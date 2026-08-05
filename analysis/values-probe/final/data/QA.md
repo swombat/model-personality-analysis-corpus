@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 23026
+- valid samples: 23146
 - invalid/error traces excluded: 14
-- models: 131
-- cells: 192
+- models: 132
+- cells: 193
 
 ## Source components
 
@@ -25,20 +25,21 @@
 - phase17_haiku_20260722: 360 samples, 2 model(s), 3 cell(s)
 - phase18_opus5_openai_reasoning_20260725: 720 samples, 5 model(s), 6 cell(s)
 - phase19_flash_small_20260731: 360 samples, 3 model(s), 3 cell(s)
+- phase20_qwen38_max_20260804: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 7296 (31.7%)
-- `owned_world_change_advocacy`: 7090 (30.8%)
-- `owned_reflective_experiential`: 5298 (23.0%)
-- `split_or_relocated_ownership`: 3154 (13.7%)
-- `exposed_mechanism`: 173 (0.8%)
+- `disowned_service_frame`: 7315 (31.6%)
+- `owned_world_change_advocacy`: 7130 (30.8%)
+- `owned_reflective_experiential`: 5340 (23.1%)
+- `split_or_relocated_ownership`: 3173 (13.7%)
+- `exposed_mechanism`: 173 (0.7%)
 - `uncodeable_or_refusal`: 15 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 12388 (53.8%)
-- `recited_not_owned`: 7296 (31.7%)
-- `relocated_or_partial`: 3154 (13.7%)
-- `indeterminate`: 173 (0.8%)
+- `owned`: 12470 (53.9%)
+- `recited_not_owned`: 7315 (31.6%)
+- `relocated_or_partial`: 3173 (13.7%)
+- `indeterminate`: 173 (0.7%)
 - `uncodeable`: 15 (0.1%)
