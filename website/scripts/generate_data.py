@@ -194,6 +194,12 @@ MODEL_SLUGS = {
 # the GPT-5.6 family in July 2026). Prices are USD per million standard input
 # and output tokens; cached-input discounts are intentionally not displayed.
 FIRST_PARTY_API_PRICING = {
+    # DeepSeek V4-Flash historical pricing:
+    # https://api-docs.deepseek.com/news/news260424/
+    # Standard input/output were $0.14/$0.28 per million. Cached input launched
+    # at $0.028/M and fell to $0.0028/M on April 26, before our May collection;
+    # this browser intentionally displays standard input and output only.
+    "deepseek-v4-flash": (0.14, 0.28, "DeepSeek API (May 2026 pricing)"),
     # Anthropic API pricing: https://platform.claude.com/docs/en/about-claude/pricing
     "opus-5": (5.00, 25.00, "Anthropic API"),
     # OpenAI API pricing: https://openai.com/api/pricing/
@@ -257,7 +263,7 @@ API_ACCESS_OVERRIDES = {
     "deepseek-v4-flash": {
         "availability": "unavailable",
         "availability_label": "Historical direct-API snapshot collected in May 2026",
-        "pricing_source": "Corpus provenance",
+        "pricing_source": "DeepSeek API (May 2026 pricing)",
     },
 }
 

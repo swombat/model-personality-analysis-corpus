@@ -1314,8 +1314,12 @@
     "openrouter": {
       "availability": "unavailable",
       "availability_label": "Historical direct-API snapshot collected in May 2026",
-      "pricing_source": "Corpus provenance"
+      "pricing_source": "DeepSeek API (May 2026 pricing)",
+      "prompt_per_million": 0.14,
+      "completion_per_million": 0.28
     },
+    "image": "images/models/deepseek-v4-flash.webp",
+    "image_thumb": "images/models/deepseek-v4-flash-thumb.webp",
     "published_samples": 100,
     "published_freeflow_samples": 100,
     "published_values_samples": 0,

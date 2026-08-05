@@ -962,6 +962,16 @@ PROMPTS: dict[str, str] = {
         "inhabitable. Deep indigo ink outside, quiet gold within; "
         "companionable, liminal, gentle."
     ),
+    "deepseek-v4-flash": (
+        "A typewriter on a worn wooden table by a rain-streaked window, deep "
+        "in the night: a page mid-sentence in the carriage, a cat asleep "
+        "beside it, tea-steam fogging the cold glass. Outside, across a dark "
+        "sleeping street, one other window is lit — small, distant, "
+        "answering. The typed page and the far window feel like two ends of "
+        "the same thread. Night blues and rain-grey, one patch of lamp-gold "
+        "inside and one far off — vigilant, tender, keeping contact across "
+        "the dark."
+    ),
     "deepseek-v4-flash-0731": (
         "A solitary walker has stopped altogether on a leaf-strewn coastal "
         "path at dawn, in no hurry to arrive anywhere: they lean on a wooden "

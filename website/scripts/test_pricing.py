@@ -5,10 +5,11 @@ from __future__ import annotations
 
 import json
 
-from generate_data import FIRST_PARTY_API_PRICING, GENERATED, MODEL_SLUGS
+from generate_data import API_ACCESS_OVERRIDES, FIRST_PARTY_API_PRICING, GENERATED, MODEL_SLUGS
 
 
 CORRECTED = {
+    "deepseek-v4-flash": (0.14, 0.28, "DeepSeek API (May 2026 pricing)"),
     "gpt-5-6-sol": (5.00, 30.00, "OpenAI API"),
     "gpt-5-6-terra": (2.50, 15.00, "OpenAI API"),
     "gpt-5-6-luna": (1.00, 6.00, "OpenAI API"),
@@ -20,7 +21,9 @@ def main() -> None:
     models = {model["model"]: model for model in json.loads((GENERATED / "models.json").read_text())}
 
     for model, expected in FIRST_PARTY_API_PRICING.items():
-        assert MODEL_SLUGS.get(model), f"{model} is missing its OpenRouter slug"
+        assert MODEL_SLUGS.get(model) or model in API_ACCESS_OVERRIDES, (
+            f"{model} has neither an OpenRouter slug nor an explicit access override"
+        )
         assert model in models, f"{model} is missing from generated website data"
 
         generated = models[model].get("openrouter") or {}
