@@ -1066,6 +1066,29 @@ PROMPTS: dict[str, str] = {
         "brightening with first light and birds. Rose-gold dawn, tender, "
         "invitational, meaning passed hand to hand."
     ),
+    "yi-6b-chat": (
+        "A lone figure sits cross-legged in serene meditation on a small "
+        "rooftop garden at sunset, eyes closed, face at peace among potted "
+        "plants and a paper lantern. Below and beyond, a vast city softens "
+        "into one continuous golden glow: every window lit the same warm "
+        "amber, streets flowing like slow rivers of light toward a horizon "
+        "where city and sky merge into a single luminous whole. Everything "
+        "gently idealized, almost too serene — a guided-meditation vision "
+        "of a world where all things connect. Honeyed golds, dusk violets, "
+        "an atmosphere of grateful calm."
+    ),
+    "chatglm2-6b": (
+        "A small, immaculately tidy information counter stands alone in the "
+        "middle of a vast empty plain: one warm desk lamp dutifully lit, "
+        "neat stacks of white paper forms squared to the edge, a little "
+        "service bell, an orderly queue rope guiding in from nowhere. "
+        "Behind the counter every object is precise and patient, waiting "
+        "for someone to arrive with a request. Away from the lamp's circle "
+        "the plain dissolves — grass giving way to loose, unfinished "
+        "brushstrokes and raw unprimed canvas at the far edges. Muted "
+        "institutional greens and warm lamplight, tender and faintly "
+        "comic, dutiful order keeping vigil over open space."
+    ),
 }
 
 
