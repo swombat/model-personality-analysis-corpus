@@ -2,12 +2,13 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 129
+- Model cards: 132
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
 ## Cards
 
+- [chatglm2-6b](cards/chatglm2-6b.md) — samples: 125; variants: 1
 - [claude-3-opus-20240229](cards/claude-3-opus-20240229.md) — samples: 125; variants: 1
 - [claude-fable-5](cards/claude-fable-5.md) — samples: 125; variants: 1
 - [claude-opus-4.0](cards/claude-opus-4.0.md) — samples: 125; variants: 1
@@ -21,9 +22,10 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [claude-sonnet-4.6](cards/claude-sonnet-4.6.md) — samples: 150; variants: 2
 - [claude-sonnet-5](cards/claude-sonnet-5.md) — samples: 250; variants: 2
 - [codestral-2508](cards/codestral-2508.md) — samples: 125; variants: 1
-- [deepseek-chat](cards/deepseek-chat.md) — samples: 250; variants: 2
+- [deepseek-chat](cards/deepseek-chat.md) — samples: 150; variants: 2
 - [deepseek-v3.2](cards/deepseek-v3.2.md) — samples: 1325; variants: 13
-- [deepseek-v4-flash](cards/deepseek-v4-flash.md) — samples: 125; variants: 1
+- [deepseek-v4-flash](cards/deepseek-v4-flash.md) — samples: 100; variants: 1
+- [deepseek-v4-flash-0731](cards/deepseek-v4-flash-0731.md) — samples: 125; variants: 1
 - [deepseek-v4-pro](cards/deepseek-v4-pro.md) — samples: 775; variants: 7
 - [devstral-2512](cards/devstral-2512.md) — samples: 125; variants: 1
 - [gemini-2.0-flash-001](cards/gemini-2.0-flash-001.md) — samples: 125; variants: 1
@@ -137,3 +139,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [qwen/qwen3.7-flash](cards/qwen-qwen3.7-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3.7-max](cards/qwen-qwen3.7-max.md) — samples: 125; variants: 1
 - [qwen/qwen3.8-max](cards/qwen-qwen3.8-max.md) — samples: 125; variants: 1
+- [yi-6b-chat](cards/yi-6b-chat.md) — samples: 125; variants: 1

@@ -1,5 +1,13 @@
 [
   {
+    "model": "chatglm2-6b",
+    "safe": "chatglm2-6b",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/chatglm2-6b.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "claude-3-opus-20240229",
     "safe": "claude-3-opus-20240229",
     "variants": 1,
@@ -1037,6 +1045,14 @@
     "variants": 1,
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "yi-6b-chat",
+    "safe": "yi-6b-chat",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md",
     "difference_decision": "SINGLE_VARIANT"
   }
 ]

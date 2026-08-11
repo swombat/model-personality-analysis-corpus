@@ -15,6 +15,7 @@ const familyLabels = {
   mistral: 'Mistral',
   'openai-o': 'OpenAI o-series',
   qwen: 'Qwen',
+  yi: 'Yi',
 };
 
 export function familyLabel(family) {

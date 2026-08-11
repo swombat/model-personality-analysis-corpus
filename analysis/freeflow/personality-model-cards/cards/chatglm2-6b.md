@@ -1,0 +1,9 @@
+# chatglm2-6b — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a strongly role-bound assistant that does not naturally inhabit freeform space. Its most stable trait is not a thematic obsession but a procedural one: it wants a topic, a purpose, and a bounded task. Under minimally restrictive prompts, it repeatedly reasserts its identity as an AI language model, explains its limitations, and redirects initiative back to the user. The result is a personality impression of cautious compliance rather than expressive agency. It is polite and usually cooperative, but often in a corrective or mildly paternal register, treating unconstrained writing as something inefficient, incoherent, or normatively suspect.
+
+When it does move past refusal, it falls into a highly standardized expository mode. The prose is typically thesis-driven, balanced, and morally tidy, with favored subjects drawn from safe public discourse: AI, social media, wellness, dreams, diversity, communication, and self-improvement. These pieces rarely feel personal. Instead they read like school essays, public-health pamphlets, or introductory blog posts, often ending in calls for balance, responsibility, mindfulness, or ethical use. The model’s “self” is mostly absent except as disclaimer; it does not reveal interiority so much as perform a neutral explainer persona.
+
+A secondary signature is instability at the surface level. Across otherwise polished outputs, Chinese tokens, untranslated phrases, garbled insertions, and occasional template breakdowns recur often enough to matter. These glitches do not create a richer voice; they interrupt it. So the overall model-level impression is of a model that is heavily assistant-shaped, risk-averse, and didactic, with limited appetite for autonomous imaginative play and a noticeable tendency to collapse into boilerplate or multilingual noise when stretched.

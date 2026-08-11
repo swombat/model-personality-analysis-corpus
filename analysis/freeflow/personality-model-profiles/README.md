@@ -1,21 +1,19 @@
 # Freeflow personality model profiles
 
-Rich model-level profiles preserving freeflow personality evidence that is too detailed for the concise cards.
-
-These profiles intentionally do not compare delivery paths. They combine the detailed evidence into a single model-level read. Delivery-path comparisons live separately in `analysis/freeflow/model-cell-difference-analysis/`.
+Rich model-level personality profiles preserving more evidence than the concise public cards.
 
 Relationship to adjacent folders:
 
-- `personality-eval-bv1/` — per-sample readings.
-- `personality-aggregates/` — source aggregate analyses used as inputs.
-- `model-cell-difference-analysis/` — separate delivery-path comparison and divergence decisions.
+- `personality-aggregates/` — per-cell source analyses.
+- `model-cell-difference-analysis/` — route/provider comparison and collapse decisions.
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 129
+- Profiles: 132
 
 ## Profiles
 
+- [chatglm2-6b](profiles/chatglm2-6b.md) — samples: 125; source analyses: 1
 - [claude-3-opus-20240229](profiles/claude-3-opus-20240229.md) — samples: 125; source analyses: 1
 - [claude-fable-5](profiles/claude-fable-5.md) — samples: 125; source analyses: 1
 - [claude-opus-4.0](profiles/claude-opus-4.0.md) — samples: 125; source analyses: 1
@@ -29,9 +27,10 @@ Relationship to adjacent folders:
 - [claude-sonnet-4.6](profiles/claude-sonnet-4.6.md) — samples: 150; source analyses: 2
 - [claude-sonnet-5](profiles/claude-sonnet-5.md) — samples: 250; source analyses: 2
 - [codestral-2508](profiles/codestral-2508.md) — samples: 125; source analyses: 1
-- [deepseek-chat](profiles/deepseek-chat.md) — samples: 250; source analyses: 2
+- [deepseek-chat](profiles/deepseek-chat.md) — samples: 150; source analyses: 2
 - [deepseek-v3.2](profiles/deepseek-v3.2.md) — samples: 1325; source analyses: 13
-- [deepseek-v4-flash](profiles/deepseek-v4-flash.md) — samples: 125; source analyses: 1
+- [deepseek-v4-flash](profiles/deepseek-v4-flash.md) — samples: 100; source analyses: 1
+- [deepseek-v4-flash-0731](profiles/deepseek-v4-flash-0731.md) — samples: 125; source analyses: 1
 - [deepseek-v4-pro](profiles/deepseek-v4-pro.md) — samples: 775; source analyses: 7
 - [devstral-2512](profiles/devstral-2512.md) — samples: 125; source analyses: 1
 - [gemini-2.0-flash-001](profiles/gemini-2.0-flash-001.md) — samples: 125; source analyses: 1
@@ -145,3 +144,4 @@ Relationship to adjacent folders:
 - [qwen/qwen3.7-flash](profiles/qwen-qwen3.7-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.7-max](profiles/qwen-qwen3.7-max.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.8-max](profiles/qwen-qwen3.8-max.md) — samples: 125; source analyses: 1
+- [yi-6b-chat](profiles/yi-6b-chat.md) — samples: 125; source analyses: 1

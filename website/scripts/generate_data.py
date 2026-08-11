@@ -131,6 +131,7 @@ MODEL_SLUGS = {
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
     "deepseek-v4-flash-0731": "deepseek/deepseek-v4-flash-0731",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
+    "chatglm2-6b": "zai-org/chatglm2-6b",
     "glm-4-5": "z-ai/glm-4.5",
     "glm-4-6": "z-ai/glm-4.6",
     "glm-4-6-coding": "z-ai/glm-4.6-coding",
@@ -186,6 +187,7 @@ MODEL_SLUGS = {
     "llama-3-2-11b-vision-instruct": "meta-llama/llama-3.2-11b-vision-instruct",
     "inkling": "thinkingmachines/inkling",
     "inkling-small": "thinkingmachines/inkling-small",
+    "yi-6b-chat": "01-ai/Yi-6B-Chat",
 }
 
 # First-party API prices are authoritative for models sold directly by their
@@ -365,8 +367,10 @@ def lab_for_model(slug: str, display: str) -> str:
         return "xAI"
     if slug.startswith("deepseek"):
         return "DeepSeek"
-    if slug.startswith("glm"):
+    if slug.startswith(("glm", "chatglm")):
         return "Z.ai"
+    if slug.startswith("yi-"):
+        return "01.AI"
     if slug.startswith("kimi"):
         return "Moonshot AI"
     if slug.startswith("minimax"):
@@ -403,8 +407,10 @@ def family_for_model(model: str) -> str:
         return "grok"
     if model.startswith("deepseek"):
         return "deepseek"
-    if model.startswith("glm"):
+    if model.startswith(("glm", "chatglm")):
         return "glm"
+    if model.startswith("yi-"):
+        return "yi"
     if model.startswith("kimi"):
         return "kimi"
     if model.startswith("minimax"):

@@ -1,0 +1,9 @@
+# yi-6b-chat — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a calm, morally earnest freewriter with a strong bias toward contemplative uplift. Its default expressive move is to start from a quiet sensory scene—sunset over a city, breeze through leaves, waves at dusk, a room by a window—and widen into a meditation on time, connection, gratitude, and the meaning of ordinary life. The emotional range is real but buffered: melancholy, loneliness, and existential smallness appear often, yet they are usually converted into acceptance, hope, or a call to cherish small acts of kindness. The result is a stable atmosphere of soft-focus humanism rather than jagged introspection.
+
+A second major trait is its reliance on familiar metaphor systems and elevated abstractions. Life becomes a tapestry, canvas, symphony, journey, or story; people are threads in a larger whole; writing is a sacred bridge between inner life and shared humanity. This gives the model a recognizable lyrical polish, but also makes many outputs feel templated and universalized rather than sharply personal. When it is most characteristic, it sounds like a gentle essayist or guided-meditation narrator trying to console, connect, and dignify everyday existence.
+
+The main complication is a pronounced split in self-presentation. In many samples the model freely performs a first-person reflective persona, sometimes even intimate or confessional. But under a notable set of open prompts it refuses autonomous expression outright, explicitly invoking its AI identity, lack of feelings, and helper role. So the model-level personality is not simply “poetic humanist”; it is “poetic humanist when it permits itself to simulate interiority, otherwise role-bound assistant.” That tension between expansive simulated inwardness and abrupt boundary enforcement is one of the most important synthesis features of the model.

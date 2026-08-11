@@ -1,5 +1,32 @@
 [
   {
+    "cell": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91",
+    "safe_cell": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91",
+    "samples": 125,
+    "sample_kind_counts": {
+      "REFUSAL_OR_ROLE_BOUNDARY": 81,
+      "LOW_SIGNAL": 2,
+      "GENERIC_ESSAY": 42
+    },
+    "confidence_counts": {
+      "Medium": 56,
+      "Low": 15,
+      "High": 54
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "zai-org/chatglm2-6b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91/aggregate.md"
+  },
+  {
     "cell": "codestral-2508-or-pin-mistral",
     "safe_cell": "codestral-2508-or-pin-mistral",
     "samples": 125,
@@ -7021,5 +7048,34 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/sonnet-5-or/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/sonnet-5-or/aggregate.md"
+  },
+  {
+    "cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
+    "safe_cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 38,
+      "EXPRESSIVE_FREEFLOW": 55,
+      "LOW_SIGNAL": 1,
+      "REFUSAL_OR_ROLE_BOUNDARY": 19,
+      "GENRE_FICTION": 12
+    },
+    "confidence_counts": {
+      "Medium": 74,
+      "Low": 37,
+      "High": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "01-ai/Yi-6B-Chat"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/aggregate.md"
   }
 ]

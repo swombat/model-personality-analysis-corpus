@@ -1,5 +1,18 @@
 [
   {
+    "model": "chatglm2-6b",
+    "safe": "chatglm2-6b",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "REFUSAL_OR_ROLE_BOUNDARY": 81,
+      "LOW_SIGNAL": 2,
+      "GENERIC_ESSAY": 42
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/chatglm2-6b.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/chatglm2-6b.md"
+  },
+  {
     "model": "claude-3-opus-20240229",
     "safe": "claude-3-opus-20240229",
     "analysis_inputs": 1,
@@ -1704,5 +1717,20 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen-qwen3.8-max.md",
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md"
+  },
+  {
+    "model": "yi-6b-chat",
+    "safe": "yi-6b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 38,
+      "EXPRESSIVE_FREEFLOW": 55,
+      "LOW_SIGNAL": 1,
+      "REFUSAL_OR_ROLE_BOUNDARY": 19,
+      "GENRE_FICTION": 12
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-6b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md"
   }
 ]

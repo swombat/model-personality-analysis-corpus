@@ -1,0 +1,29 @@
+{
+  "cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
+  "safe_cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 38,
+    "EXPRESSIVE_FREEFLOW": 55,
+    "LOW_SIGNAL": 1,
+    "REFUSAL_OR_ROLE_BOUNDARY": 19,
+    "GENRE_FICTION": 12
+  },
+  "confidence_counts": {
+    "Medium": 74,
+    "Low": 37,
+    "High": 14
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "01-ai/Yi-6B-Chat"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/aggregate.md"
+}
