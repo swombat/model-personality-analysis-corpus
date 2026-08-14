@@ -10,12 +10,12 @@ from generate_data import GENERATED, PUBLIC_MODEL_IMAGES, PUBLIC_SAMPLES
 
 EXPECTED = {
     "deepseek-v4-flash-0731": {
-        "benchmark": 50,
+        "benchmark": 52,
         "openrouter_id": "deepseek/deepseek-v4-flash-0731",
         "input_price": 0.09,
         "output_price": 0.18,
     },
-    "inkling-small": {"benchmark": 40},
+    "inkling-small": {"benchmark": 41},
     "qwen3-7-flash": {"benchmark": None},
 }
 

@@ -1,539 +1,783 @@
 {
   "deepseek-chat": {
-    "aaii": 16,
-    "url": "https://artificialanalysis.ai/models/deepseek-v3"
+    "aaii": 14,
+    "url": "https://artificialanalysis.ai/models/deepseek-v3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-r1": {
-    "aaii": 27,
-    "url": "https://artificialanalysis.ai/models/deepseek-r1"
+    "aaii": 20,
+    "url": "https://artificialanalysis.ai/models/deepseek-r1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v3": {
-    "aaii": 16,
-    "url": "https://artificialanalysis.ai/models/deepseek-v3"
+    "aaii": 14,
+    "url": "https://artificialanalysis.ai/models/deepseek-v3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v3-0324": {
-    "aaii": 22,
-    "url": "https://artificialanalysis.ai/models/deepseek-v3-0324"
+    "aaii": 15,
+    "url": "https://artificialanalysis.ai/models/deepseek-v3-0324",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v3-2": {
-    "aaii": 32,
-    "url": "https://artificialanalysis.ai/models/deepseek-v3-2"
+    "aaii": 25,
+    "url": "https://artificialanalysis.ai/models/deepseek-v3-2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v4-flash": {
     "aaii": 29,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "matched_alias": "DeepSeek V4 Flash (Non-reasoning)"
+    "matched_alias": "DeepSeek V4 Flash (Non-reasoning)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v4-flash-0731": {
-    "aaii": 50,
+    "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "matched_alias": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)"
+    "matched_alias": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v4-pro": {
-    "aaii": 52,
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
+    "aaii": 45,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "deepseek-v4-pro-0813": {
     "aaii": 53,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
-    "matched_alias": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)"
+    "matched_alias": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "devstral-2512": {
     "aaii": 19,
     "url": "https://artificialanalysis.ai/models/devstral-2",
-    "matched_alias": "Devstral 2"
+    "matched_alias": "Devstral 2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "fable-5": {
-    "aaii": 65,
-    "url": "https://artificialanalysis.ai/models/claude-fable-5"
+    "aaii": 62,
+    "url": "https://artificialanalysis.ai/models/claude-fable-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-2-0-flash": {
-    "aaii": 19,
-    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash"
+    "aaii": 12,
+    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-2-0-flash-lite": {
-    "aaii": 15,
-    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash-lite-001"
+    "aaii": 9,
+    "url": "https://artificialanalysis.ai/models/gemini-2-0-flash-lite-001",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-2-5-flash": {
-    "aaii": 21,
-    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash"
+    "aaii": 14,
+    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-2-5-flash-lite": {
-    "aaii": 13,
-    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash-lite"
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/gemini-2-5-flash-lite",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-2-5-pro": {
-    "aaii": 35,
-    "url": "https://artificialanalysis.ai/models/gemini-2-5-pro"
+    "aaii": 26,
+    "url": "https://artificialanalysis.ai/models/gemini-2-5-pro",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-1-flash-lite": {
-    "aaii": 34,
-    "url": "https://artificialanalysis.ai/models/gemini-3-1-flash-lite-preview"
+    "aaii": 26,
+    "url": "https://artificialanalysis.ai/models/gemini-3-1-flash-lite-preview",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-1-pro": {
-    "aaii": 57,
-    "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
+    "aaii": 48,
+    "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-5-flash": {
     "aaii": 52,
-    "url": "https://artificialanalysis.ai/models/gemini-3-5-flash"
+    "url": "https://artificialanalysis.ai/models/gemini-3-5-flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-5-flash-lite": {
-    "aaii": 36,
+    "aaii": 37,
     "url": "https://artificialanalysis.ai/models/gemini-3-5-flash-lite",
-    "matched_alias": "Gemini 3.5 Flash-Lite"
+    "matched_alias": "Gemini 3.5 Flash-Lite",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-6-flash": {
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/gemini-3-6-flash",
-    "matched_alias": "Gemini 3.6 Flash"
+    "matched_alias": "Gemini 3.6 Flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-7-flash": {
     "aaii": 56,
-    "url": "https://artificialanalysis.ai/models/gemini-3-7-flash"
+    "url": "https://artificialanalysis.ai/models/gemini-3-7-flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemini-3-flash-preview": {
-    "aaii": 35,
-    "url": "https://artificialanalysis.ai/models/gemini-3-flash"
+    "aaii": 28,
+    "url": "https://artificialanalysis.ai/models/gemini-3-flash",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemma-4-26b-a4b": {
-    "aaii": 31,
-    "url": "https://artificialanalysis.ai/models/gemma-4-26b-a4b"
+    "aaii": 26,
+    "url": "https://artificialanalysis.ai/models/gemma-4-26b-a4b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gemma-4-31b": {
-    "aaii": 39,
-    "url": "https://artificialanalysis.ai/models/gemma-4-31b"
+    "aaii": 30,
+    "url": "https://artificialanalysis.ai/models/gemma-4-31b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "glm-4-5": {
-    "aaii": 19,
-    "url": "https://artificialanalysis.ai/models/glm-4.5"
+    "aaii": 20,
+    "url": "https://artificialanalysis.ai/models/glm-4.5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "glm-4-6": {
-    "aaii": 30,
-    "url": "https://artificialanalysis.ai/models/glm-4-6"
+    "aaii": 23,
+    "url": "https://artificialanalysis.ai/models/glm-4-6",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "glm-4-7": {
-    "aaii": 42,
-    "url": "https://artificialanalysis.ai/models/glm-4-7"
+    "aaii": 34,
+    "url": "https://artificialanalysis.ai/models/glm-4-7",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "glm-5-1": {
-    "aaii": 51,
-    "url": "https://artificialanalysis.ai/models/glm-5-1"
+    "aaii": 41,
+    "url": "https://artificialanalysis.ai/models/glm-5-1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "glm-5-2": {
-    "aaii": 51,
+    "aaii": 53,
     "url": "https://artificialanalysis.ai/models/glm-5-2",
-    "matched_alias": "GLM-5.2 (max)"
-  },
-  "gpt-3-5-turbo": {
-    "aaii": 4,
-    "url": "https://artificialanalysis.ai/models?models=gpt-35-turbo"
+    "matched_alias": "GLM-5.2 (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4": {
-    "aaii": 13,
-    "url": "https://artificialanalysis.ai/models/gpt-4"
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/gpt-4",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4-1": {
-    "aaii": 26,
-    "url": "https://artificialanalysis.ai/models/gpt-4-1"
+    "aaii": 20,
+    "url": "https://artificialanalysis.ai/models/gpt-4-1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4-1-mini": {
-    "aaii": 23,
-    "url": "https://artificialanalysis.ai/models/gpt-4-1-mini"
+    "aaii": 15,
+    "url": "https://artificialanalysis.ai/models/gpt-4-1-mini",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4-1-nano": {
-    "aaii": 13,
-    "url": "https://artificialanalysis.ai/models/gpt-4-1-nano"
+    "aaii": 10,
+    "url": "https://artificialanalysis.ai/models/gpt-4-1-nano",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4-turbo": {
-    "aaii": 14,
-    "url": "https://artificialanalysis.ai/models/gpt-4-turbo"
+    "aaii": 8,
+    "url": "https://artificialanalysis.ai/models/gpt-4-turbo",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4o": {
-    "aaii": 17,
-    "url": "https://artificialanalysis.ai/models/gpt-4o"
+    "aaii": 11,
+    "url": "https://artificialanalysis.ai/models/gpt-4o",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-4o-mini": {
-    "aaii": 13,
-    "url": "https://artificialanalysis.ai/models/gpt-4o-mini"
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/gpt-4o-mini",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5": {
-    "aaii": 45,
-    "url": "https://artificialanalysis.ai/models/gpt-5"
+    "aaii": 35,
+    "url": "https://artificialanalysis.ai/models/gpt-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-1": {
-    "aaii": 48,
-    "url": "https://artificialanalysis.ai/models/gpt-5-1"
+    "aaii": 37,
+    "url": "https://artificialanalysis.ai/models/gpt-5-1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-1-codex": {
-    "aaii": 43,
-    "url": "https://artificialanalysis.ai/models/gpt-5-1-codex"
+    "aaii": 36,
+    "url": "https://artificialanalysis.ai/models/gpt-5-1-codex",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-1-codex-max": {
-    "aaii": 35,
+    "aaii": 36,
     "url": "https://artificialanalysis.ai/models/gpt-5-1-codex",
-    "matched_alias": "GPT-5.1 Codex (high)"
+    "matched_alias": "GPT-5.1 Codex (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-1-codex-mini": {
     "aaii": 31,
     "url": "https://artificialanalysis.ai/models/gpt-5-1-codex-mini",
-    "matched_alias": "GPT-5.1 Codex mini (high)"
+    "matched_alias": "GPT-5.1 Codex mini (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-2": {
-    "aaii": 51,
-    "url": "https://artificialanalysis.ai/models/gpt-5-2"
+    "aaii": 43,
+    "url": "https://artificialanalysis.ai/models/gpt-5-2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-2-codex": {
-    "aaii": 49,
-    "url": "https://artificialanalysis.ai/models/gpt-5-2-codex"
+    "aaii": 41,
+    "url": "https://artificialanalysis.ai/models/gpt-5-2-codex",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-3-codex": {
-    "aaii": 54,
-    "url": "https://artificialanalysis.ai/models/gpt-5-3-codex"
+    "aaii": 46,
+    "url": "https://artificialanalysis.ai/models/gpt-5-3-codex",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-4": {
-    "aaii": 57,
-    "url": "https://artificialanalysis.ai/models/gpt-5-4"
+    "aaii": 53,
+    "url": "https://artificialanalysis.ai/models/gpt-5-4",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-4-mini": {
-    "aaii": 40,
+    "aaii": 41,
     "url": "https://artificialanalysis.ai/models/gpt-5-4-mini",
-    "matched_alias": "GPT-5.4 mini (xhigh)"
+    "matched_alias": "GPT-5.4 mini (xhigh)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-4-nano": {
-    "aaii": 38,
+    "aaii": 40,
     "url": "https://artificialanalysis.ai/models/gpt-5-4-nano",
-    "matched_alias": "GPT-5.4 nano (xhigh)"
+    "matched_alias": "GPT-5.4 nano (xhigh)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-5": {
-    "aaii": 60,
-    "url": "https://artificialanalysis.ai/models/gpt-5-5"
+    "aaii": 56,
+    "url": "https://artificialanalysis.ai/models/gpt-5-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-6-luna": {
-    "aaii": 51,
+    "aaii": 52,
     "url": "https://artificialanalysis.ai/models/gpt-5-6-luna",
-    "matched_alias": "GPT-5.6 Luna (max)"
+    "matched_alias": "GPT-5.6 Luna (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-6-sol": {
-    "aaii": 59,
+    "aaii": 61,
     "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
-    "matched_alias": "GPT-5.6 Sol (max)"
+    "matched_alias": "GPT-5.6 Sol (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-6-terra": {
-    "aaii": 55,
+    "aaii": 57,
     "url": "https://artificialanalysis.ai/models/gpt-5-6-terra",
-    "matched_alias": "GPT-5.6 Terra (max)"
+    "matched_alias": "GPT-5.6 Terra (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-codex": {
-    "aaii": 45,
-    "url": "https://artificialanalysis.ai/models/gpt-5-codex"
+    "aaii": 37,
+    "url": "https://artificialanalysis.ai/models/gpt-5-codex",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-mini": {
-    "aaii": 41,
+    "aaii": 26,
     "url": "https://artificialanalysis.ai/models/gpt-5-mini",
-    "matched_alias": "GPT-5 mini (high)"
+    "matched_alias": "GPT-5 mini (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-5-nano": {
     "aaii": 20,
     "url": "https://artificialanalysis.ai/models/gpt-5-nano",
-    "matched_alias": "GPT-5 nano (high)"
+    "matched_alias": "GPT-5 nano (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-oss-120b": {
-    "aaii": 33,
+    "aaii": 24,
     "url": "https://artificialanalysis.ai/models/gpt-oss-120b",
-    "matched_alias": "gpt-oss-120b (high)"
+    "matched_alias": "gpt-oss-120b (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "gpt-oss-20b": {
-    "aaii": 24,
+    "aaii": 15,
     "url": "https://artificialanalysis.ai/models/gpt-oss-20b",
-    "matched_alias": "gpt-oss-20B (high)"
+    "matched_alias": "gpt-oss-20B (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-3": {
-    "aaii": 25,
-    "url": "https://artificialanalysis.ai/models/grok-3"
+    "aaii": 19,
+    "url": "https://artificialanalysis.ai/models/grok-3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4": {
-    "aaii": 42,
-    "url": "https://artificialanalysis.ai/models/grok-4"
+    "aaii": 34,
+    "url": "https://artificialanalysis.ai/models/grok-4",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-1-fast-non-reasoning": {
-    "aaii": 24,
-    "url": "https://artificialanalysis.ai/models/grok-4-1-fast"
+    "aaii": 17,
+    "url": "https://artificialanalysis.ai/models/grok-4-1-fast",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-1-fast-reasoning": {
-    "aaii": 39,
-    "url": "https://artificialanalysis.ai/models/grok-4-1-fast-reasoning"
+    "aaii": 31,
+    "url": "https://artificialanalysis.ai/models/grok-4-1-fast-reasoning",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-20": {
-    "aaii": 49,
-    "url": "https://artificialanalysis.ai/models/grok-4-20"
+    "aaii": 38,
+    "url": "https://artificialanalysis.ai/models/grok-4-20",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-20-0309-non-reasoning": {
-    "aaii": 22,
-    "url": "https://artificialanalysis.ai/models/grok-4-20-0309-non-reasoning"
+    "aaii": 23,
+    "url": "https://artificialanalysis.ai/models/grok-4-20-0309-non-reasoning",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-20-0309-reasoning": {
     "aaii": 37,
-    "url": "https://artificialanalysis.ai/models/grok-4-20-0309"
+    "url": "https://artificialanalysis.ai/models/grok-4-20-0309",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-3": {
-    "aaii": 53,
-    "url": "https://artificialanalysis.ai/models/grok-4-3"
+    "aaii": 38,
+    "url": "https://artificialanalysis.ai/models/grok-4-3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-5": {
-    "aaii": 54,
+    "aaii": 56,
     "url": "https://artificialanalysis.ai/models/grok-4-5",
-    "matched_alias": "Grok 4.5"
+    "matched_alias": "Grok 4.5 (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-4-6": {
     "aaii": 61,
     "url": "https://artificialanalysis.ai/models/grok-4-6",
-    "matched_alias": "Grok 4.6 (high)"
+    "matched_alias": "Grok 4.6 (high)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "grok-build-0-1": {
-    "aaii": 40,
+    "aaii": 41,
     "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-    "matched_alias": "Grok Build 0.1 0616"
+    "matched_alias": "Grok Build 0.1 0616",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "haiku-3": {
-    "aaii": 4,
-    "url": "https://artificialanalysis.ai/models/claude-3-haiku"
+    "aaii": 3,
+    "url": "https://artificialanalysis.ai/models/claude-3-haiku",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "haiku-4-5": {
-    "aaii": 31,
-    "url": "https://artificialanalysis.ai/models/claude-4-5-haiku"
+    "aaii": 24,
+    "url": "https://artificialanalysis.ai/models/claude-4-5-haiku",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "inkling": {
-    "aaii": 41,
+    "aaii": 42,
     "url": "https://artificialanalysis.ai/models/inkling",
-    "matched_alias": "Inkling"
+    "matched_alias": "Inkling",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "inkling-small": {
-    "aaii": 40,
+    "aaii": 41,
     "url": "https://artificialanalysis.ai/models/inkling-small",
-    "matched_alias": "Inkling Small"
+    "matched_alias": "Inkling Small",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2": {
-    "aaii": 26,
-    "url": "https://artificialanalysis.ai/models/kimi-k2"
+    "aaii": 20,
+    "url": "https://artificialanalysis.ai/models/kimi-k2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2-0905": {
-    "aaii": 31,
-    "url": "https://artificialanalysis.ai/models/kimi-k2-0905"
+    "aaii": 24,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-0905",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2-5": {
-    "aaii": 47,
-    "url": "https://artificialanalysis.ai/models/kimi-k2-5"
+    "aaii": 36,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2-6": {
-    "aaii": 54,
-    "url": "https://artificialanalysis.ai/models/kimi-k2-6"
+    "aaii": 45,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-6",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2-7-code": {
-    "aaii": 42,
-    "url": "https://artificialanalysis.ai/models/kimi-k2-7-code"
+    "aaii": 43,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-7-code",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k2-thinking": {
-    "aaii": 41,
-    "url": "https://artificialanalysis.ai/models/kimi-k2-thinking"
+    "aaii": 33,
+    "url": "https://artificialanalysis.ai/models/kimi-k2-thinking",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "kimi-k3": {
-    "aaii": 57,
+    "aaii": 60,
     "url": "https://artificialanalysis.ai/models/kimi-k3",
-    "matched_alias": "Kimi K3"
+    "matched_alias": "Kimi K3 (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-1-70b-instruct": {
     "aaii": 7,
-    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-70b"
+    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-70b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-1-8b-instruct": {
-    "aaii": 8,
-    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-8b"
+    "aaii": 7,
+    "url": "https://artificialanalysis.ai/models/llama-3-1-instruct-8b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-2-11b-vision-instruct": {
     "aaii": 3,
-    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-11b-vision"
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-11b-vision",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-2-1b-instruct": {
     "aaii": 1,
-    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-1b"
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-1b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-2-3b-instruct": {
     "aaii": 4,
-    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-3b"
+    "url": "https://artificialanalysis.ai/models/llama-3-2-instruct-3b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-3-3-70b-instruct": {
     "aaii": 9,
-    "url": "https://artificialanalysis.ai/models/llama-3-3-instruct-70b"
+    "url": "https://artificialanalysis.ai/models/llama-3-3-instruct-70b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-4-maverick": {
     "aaii": 14,
-    "url": "https://artificialanalysis.ai/models/llama-4-maverick"
+    "url": "https://artificialanalysis.ai/models/llama-4-maverick",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "llama-4-scout": {
     "aaii": 10,
-    "url": "https://artificialanalysis.ai/models/llama-4-scout"
+    "url": "https://artificialanalysis.ai/models/llama-4-scout",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "minimax-m2": {
-    "aaii": 36,
-    "url": "https://artificialanalysis.ai/models/minimax-m2"
+    "aaii": 29,
+    "url": "https://artificialanalysis.ai/models/minimax-m2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "minimax-m2-7": {
-    "aaii": 50,
-    "url": "https://artificialanalysis.ai/models/minimax-m2-7"
+    "aaii": 39,
+    "url": "https://artificialanalysis.ai/models/minimax-m2-7",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "minimax-m3": {
-    "aaii": 55,
-    "url": "https://artificialanalysis.ai/models/minimax-m3"
+    "aaii": 45,
+    "url": "https://artificialanalysis.ai/models/minimax-m3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "ministral-14b-2512": {
     "aaii": 11,
     "url": "https://artificialanalysis.ai/models/ministral-3-14b",
-    "matched_alias": "Ministral 3 14B"
+    "matched_alias": "Ministral 3 14B",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "ministral-3b-2512": {
     "aaii": 7,
     "url": "https://artificialanalysis.ai/models/ministral-3-3b",
-    "matched_alias": "Ministral 3 3B"
+    "matched_alias": "Ministral 3 3B",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "ministral-8b-2512": {
     "aaii": 9,
     "url": "https://artificialanalysis.ai/models/ministral-3-8b",
-    "matched_alias": "Ministral 3 8B"
+    "matched_alias": "Ministral 3 8B",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-large-2512": {
     "aaii": 16,
     "url": "https://artificialanalysis.ai/models/mistral-large-3",
-    "matched_alias": "Mistral Large 3"
+    "matched_alias": "Mistral Large 3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-medium-3": {
     "aaii": 12,
-    "url": "https://artificialanalysis.ai/models/mistral-medium-3"
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-medium-3-1": {
     "aaii": 15,
-    "url": "https://artificialanalysis.ai/models/mistral-medium-3-1"
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3-1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-medium-3-5": {
     "aaii": 30,
-    "url": "https://artificialanalysis.ai/models/mistral-medium-3-5"
+    "url": "https://artificialanalysis.ai/models/mistral-medium-3-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-saba": {
     "aaii": 6,
-    "url": "https://artificialanalysis.ai/models/mistral-saba"
+    "url": "https://artificialanalysis.ai/models/mistral-saba",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-small-24b-instruct-2501": {
     "aaii": 7,
     "url": "https://artificialanalysis.ai/models/mistral-small-3",
-    "matched_alias": "Mistral Small 3"
+    "matched_alias": "Mistral Small 3",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-small-2603": {
     "aaii": 12,
     "url": "https://artificialanalysis.ai/models/mistral-small-4-non-reasoning",
-    "matched_alias": "Mistral Small 4 (Non-reasoning)"
+    "matched_alias": "Mistral Small 4 (Non-reasoning)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-small-3-1-24b-instruct": {
     "aaii": 15,
     "url": "https://artificialanalysis.ai/models/mistral-small-3-1",
-    "matched_alias": "Mistral Small 3.1"
+    "matched_alias": "Mistral Small 3.1",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mistral-small-3-2-24b-instruct": {
     "aaii": 11,
     "url": "https://artificialanalysis.ai/models/mistral-small-3-2",
-    "matched_alias": "Mistral Small 3.2"
+    "matched_alias": "Mistral Small 3.2",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "mixtral-8x22b-instruct": {
     "aaii": 4,
     "url": "https://artificialanalysis.ai/models/mistral-8x22b-instruct",
-    "matched_alias": "Mixtral 8x22B Instruct"
+    "matched_alias": "Mixtral 8x22B Instruct",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-3": {
-    "aaii": 18,
-    "url": "https://artificialanalysis.ai/models/claude-3-opus"
+    "aaii": 12,
+    "url": "https://artificialanalysis.ai/models/claude-3-opus",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-0": {
-    "aaii": 33,
+    "aaii": 26,
     "url": "https://artificialanalysis.ai/models/claude-4-opus",
-    "estimated": true
+    "estimated": true,
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-1": {
-    "aaii": 36,
-    "url": "https://artificialanalysis.ai/models/claude-4-1-opus"
+    "aaii": 29,
+    "url": "https://artificialanalysis.ai/models/claude-4-1-opus",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-5": {
-    "aaii": 43,
-    "url": "https://artificialanalysis.ai/models/claude-opus-4-5"
+    "aaii": 36,
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-6": {
-    "aaii": 46,
-    "url": "https://artificialanalysis.ai/models/claude-opus-4-6"
+    "aaii": 39,
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-6",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-7": {
-    "aaii": 57,
-    "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
+    "aaii": 55,
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-7",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-4-8": {
-    "aaii": 61,
-    "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
+    "aaii": 57,
+    "url": "https://artificialanalysis.ai/models/claude-opus-4-8",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "opus-5": {
-    "aaii": 61,
-    "url": "https://artificialanalysis.ai/models/claude-opus-5"
+    "aaii": 63,
+    "url": "https://artificialanalysis.ai/models/claude-opus-5",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-6-max-preview": {
-    "aaii": 52,
-    "url": "https://artificialanalysis.ai/models/qwen3-6-max"
+    "aaii": 41,
+    "url": "https://artificialanalysis.ai/models/qwen3-6-max",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-6-plus": {
-    "aaii": 50,
-    "url": "https://artificialanalysis.ai/models/qwen3-6-plus"
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/qwen3-6-plus",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-7-max": {
-    "aaii": 57,
-    "url": "https://artificialanalysis.ai/models/qwen3-7-max"
+    "aaii": 47,
+    "url": "https://artificialanalysis.ai/models/qwen3-7-max",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-8-2-4t-a95b": {
     "aaii": 58,
-    "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b"
+    "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-8-max": {
     "aaii": 58,
-    "url": "https://artificialanalysis.ai/models/qwen3-8-max"
+    "url": "https://artificialanalysis.ai/models/qwen3-8-max",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-coder-flash": {
     "aaii": 14,
     "url": "https://artificialanalysis.ai/models/qwen3-coder-30b-a3b-instruct",
-    "matched_alias": "Qwen3 Coder 30B A3B Instruct"
+    "matched_alias": "Qwen3 Coder 30B A3B Instruct",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-coder-plus": {
     "aaii": 18,
     "url": "https://artificialanalysis.ai/models/qwen3-coder-480b-a35b-instruct",
-    "matched_alias": "Qwen3 Coder 480B A35B Instruct"
+    "matched_alias": "Qwen3 Coder 480B A35B Instruct",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-max": {
-    "aaii": 31,
-    "url": "https://artificialanalysis.ai/models/qwen3-max"
+    "aaii": 24,
+    "url": "https://artificialanalysis.ai/models/qwen3-max",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "qwen3-max-thinking": {
-    "aaii": 40,
-    "url": "https://artificialanalysis.ai/models/qwen3-max-thinking"
+    "aaii": 32,
+    "url": "https://artificialanalysis.ai/models/qwen3-max-thinking",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "sonnet-4-0": {
-    "aaii": 33,
-    "url": "https://artificialanalysis.ai/models/claude-4-sonnet"
+    "aaii": 26,
+    "url": "https://artificialanalysis.ai/models/claude-4-sonnet",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "sonnet-4-5": {
-    "aaii": 37,
-    "url": "https://artificialanalysis.ai/models/claude-4-5-sonnet"
+    "aaii": 30,
+    "url": "https://artificialanalysis.ai/models/claude-4-5-sonnet",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "sonnet-4-6": {
-    "aaii": 44,
-    "url": "https://artificialanalysis.ai/models/claude-sonnet-4-6"
+    "aaii": 37,
+    "url": "https://artificialanalysis.ai/models/claude-sonnet-4-6",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   },
   "sonnet-5": {
-    "aaii": 53,
+    "aaii": 55,
     "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
-    "matched_alias": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)"
+    "matched_alias": "Claude Sonnet 5 (max)",
+    "retrieved_date": "2026-08-14",
+    "index_version": "4.1.1"
   }
 }

@@ -1,0 +1,502 @@
+{
+  "audit_date": "2026-08-14",
+  "source": "Artificial Analysis model pages",
+  "intelligence_index_version": "4.1.1",
+  "previous_entries_reviewed": 125,
+  "current_scored_entries": 124,
+  "numerical_updates": 90,
+  "unchanged_entries": 34,
+  "removed_unscored_entries": [
+    {
+      "model": "gpt-3-5-turbo",
+      "previous": 4,
+      "reason": "Artificial Analysis marks the model deprecated and no longer publishes a current Intelligence Index score on its model listing."
+    }
+  ],
+  "shared_url_variant_checks": [
+    {
+      "model": "deepseek-v4-flash",
+      "matched_alias": "DeepSeek V4 Flash (Non-reasoning)",
+      "current_exact": 29.277968146187444,
+      "current_rounded": 29
+    },
+    {
+      "model": "deepseek-v4-flash-0731",
+      "matched_alias": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)",
+      "current_rounded": 52
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "matched_alias": "DeepSeek V4 Pro (Reasoning, Max Effort)",
+      "current_exact": 45.2683460762151,
+      "current_rounded": 45
+    },
+    {
+      "model": "deepseek-v4-pro-0813",
+      "matched_alias": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+      "current_rounded": 53
+    },
+    {
+      "model": "gpt-5-1-codex",
+      "matched_alias": "GPT-5.1 Codex (high)",
+      "current_rounded": 36
+    },
+    {
+      "model": "gpt-5-1-codex-max",
+      "matched_alias": "GPT-5.1 Codex (high)",
+      "current_rounded": 36
+    }
+  ],
+  "changes": [
+    {
+      "model": "deepseek-chat",
+      "previous": 16,
+      "current": 14
+    },
+    {
+      "model": "deepseek-r1",
+      "previous": 27,
+      "current": 20
+    },
+    {
+      "model": "deepseek-v3",
+      "previous": 16,
+      "current": 14
+    },
+    {
+      "model": "deepseek-v3-0324",
+      "previous": 22,
+      "current": 15
+    },
+    {
+      "model": "deepseek-v3-2",
+      "previous": 32,
+      "current": 25
+    },
+    {
+      "model": "deepseek-v4-flash-0731",
+      "previous": 50,
+      "current": 52
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "previous": 52,
+      "current": 45
+    },
+    {
+      "model": "fable-5",
+      "previous": 65,
+      "current": 62
+    },
+    {
+      "model": "gemini-2-0-flash",
+      "previous": 19,
+      "current": 12
+    },
+    {
+      "model": "gemini-2-0-flash-lite",
+      "previous": 15,
+      "current": 9
+    },
+    {
+      "model": "gemini-2-5-flash",
+      "previous": 21,
+      "current": 14
+    },
+    {
+      "model": "gemini-2-5-flash-lite",
+      "previous": 13,
+      "current": 7
+    },
+    {
+      "model": "gemini-2-5-pro",
+      "previous": 35,
+      "current": 26
+    },
+    {
+      "model": "gemini-3-1-flash-lite",
+      "previous": 34,
+      "current": 26
+    },
+    {
+      "model": "gemini-3-1-pro",
+      "previous": 57,
+      "current": 48
+    },
+    {
+      "model": "gemini-3-5-flash-lite",
+      "previous": 36,
+      "current": 37
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "previous": 35,
+      "current": 28
+    },
+    {
+      "model": "gemma-4-26b-a4b",
+      "previous": 31,
+      "current": 26
+    },
+    {
+      "model": "gemma-4-31b",
+      "previous": 39,
+      "current": 30
+    },
+    {
+      "model": "glm-4-5",
+      "previous": 19,
+      "current": 20
+    },
+    {
+      "model": "glm-4-6",
+      "previous": 30,
+      "current": 23
+    },
+    {
+      "model": "glm-4-7",
+      "previous": 42,
+      "current": 34
+    },
+    {
+      "model": "glm-5-1",
+      "previous": 51,
+      "current": 41
+    },
+    {
+      "model": "glm-5-2",
+      "previous": 51,
+      "current": 53
+    },
+    {
+      "model": "gpt-4",
+      "previous": 13,
+      "current": 7
+    },
+    {
+      "model": "gpt-4-1",
+      "previous": 26,
+      "current": 20
+    },
+    {
+      "model": "gpt-4-1-mini",
+      "previous": 23,
+      "current": 15
+    },
+    {
+      "model": "gpt-4-1-nano",
+      "previous": 13,
+      "current": 10
+    },
+    {
+      "model": "gpt-4-turbo",
+      "previous": 14,
+      "current": 8
+    },
+    {
+      "model": "gpt-4o",
+      "previous": 17,
+      "current": 11
+    },
+    {
+      "model": "gpt-4o-mini",
+      "previous": 13,
+      "current": 7
+    },
+    {
+      "model": "gpt-5",
+      "previous": 45,
+      "current": 35
+    },
+    {
+      "model": "gpt-5-1",
+      "previous": 48,
+      "current": 37
+    },
+    {
+      "model": "gpt-5-1-codex",
+      "previous": 43,
+      "current": 36
+    },
+    {
+      "model": "gpt-5-1-codex-max",
+      "previous": 35,
+      "current": 36
+    },
+    {
+      "model": "gpt-5-2",
+      "previous": 51,
+      "current": 43
+    },
+    {
+      "model": "gpt-5-2-codex",
+      "previous": 49,
+      "current": 41
+    },
+    {
+      "model": "gpt-5-3-codex",
+      "previous": 54,
+      "current": 46
+    },
+    {
+      "model": "gpt-5-4",
+      "previous": 57,
+      "current": 53
+    },
+    {
+      "model": "gpt-5-4-mini",
+      "previous": 40,
+      "current": 41
+    },
+    {
+      "model": "gpt-5-4-nano",
+      "previous": 38,
+      "current": 40
+    },
+    {
+      "model": "gpt-5-5",
+      "previous": 60,
+      "current": 56
+    },
+    {
+      "model": "gpt-5-6-luna",
+      "previous": 51,
+      "current": 52
+    },
+    {
+      "model": "gpt-5-6-sol",
+      "previous": 59,
+      "current": 61
+    },
+    {
+      "model": "gpt-5-6-terra",
+      "previous": 55,
+      "current": 57
+    },
+    {
+      "model": "gpt-5-codex",
+      "previous": 45,
+      "current": 37
+    },
+    {
+      "model": "gpt-5-mini",
+      "previous": 41,
+      "current": 26
+    },
+    {
+      "model": "gpt-oss-120b",
+      "previous": 33,
+      "current": 24
+    },
+    {
+      "model": "gpt-oss-20b",
+      "previous": 24,
+      "current": 15
+    },
+    {
+      "model": "grok-3",
+      "previous": 25,
+      "current": 19
+    },
+    {
+      "model": "grok-4",
+      "previous": 42,
+      "current": 34
+    },
+    {
+      "model": "grok-4-1-fast-non-reasoning",
+      "previous": 24,
+      "current": 17
+    },
+    {
+      "model": "grok-4-1-fast-reasoning",
+      "previous": 39,
+      "current": 31
+    },
+    {
+      "model": "grok-4-20",
+      "previous": 49,
+      "current": 38
+    },
+    {
+      "model": "grok-4-20-0309-non-reasoning",
+      "previous": 22,
+      "current": 23
+    },
+    {
+      "model": "grok-4-3",
+      "previous": 53,
+      "current": 38
+    },
+    {
+      "model": "grok-4-5",
+      "previous": 54,
+      "current": 56
+    },
+    {
+      "model": "grok-build-0-1",
+      "previous": 40,
+      "current": 41
+    },
+    {
+      "model": "haiku-3",
+      "previous": 4,
+      "current": 3
+    },
+    {
+      "model": "haiku-4-5",
+      "previous": 31,
+      "current": 24
+    },
+    {
+      "model": "inkling",
+      "previous": 41,
+      "current": 42
+    },
+    {
+      "model": "inkling-small",
+      "previous": 40,
+      "current": 41
+    },
+    {
+      "model": "kimi-k2",
+      "previous": 26,
+      "current": 20
+    },
+    {
+      "model": "kimi-k2-0905",
+      "previous": 31,
+      "current": 24
+    },
+    {
+      "model": "kimi-k2-5",
+      "previous": 47,
+      "current": 36
+    },
+    {
+      "model": "kimi-k2-6",
+      "previous": 54,
+      "current": 45
+    },
+    {
+      "model": "kimi-k2-7-code",
+      "previous": 42,
+      "current": 43
+    },
+    {
+      "model": "kimi-k2-thinking",
+      "previous": 41,
+      "current": 33
+    },
+    {
+      "model": "kimi-k3",
+      "previous": 57,
+      "current": 60
+    },
+    {
+      "model": "llama-3-1-8b-instruct",
+      "previous": 8,
+      "current": 7
+    },
+    {
+      "model": "minimax-m2",
+      "previous": 36,
+      "current": 29
+    },
+    {
+      "model": "minimax-m2-7",
+      "previous": 50,
+      "current": 39
+    },
+    {
+      "model": "minimax-m3",
+      "previous": 55,
+      "current": 45
+    },
+    {
+      "model": "opus-3",
+      "previous": 18,
+      "current": 12
+    },
+    {
+      "model": "opus-4-0",
+      "previous": 33,
+      "current": 26
+    },
+    {
+      "model": "opus-4-1",
+      "previous": 36,
+      "current": 29
+    },
+    {
+      "model": "opus-4-5",
+      "previous": 43,
+      "current": 36
+    },
+    {
+      "model": "opus-4-6",
+      "previous": 46,
+      "current": 39
+    },
+    {
+      "model": "opus-4-7",
+      "previous": 57,
+      "current": 55
+    },
+    {
+      "model": "opus-4-8",
+      "previous": 61,
+      "current": 57
+    },
+    {
+      "model": "opus-5",
+      "previous": 61,
+      "current": 63
+    },
+    {
+      "model": "qwen3-6-max-preview",
+      "previous": 52,
+      "current": 41
+    },
+    {
+      "model": "qwen3-6-plus",
+      "previous": 50,
+      "current": 40
+    },
+    {
+      "model": "qwen3-7-max",
+      "previous": 57,
+      "current": 47
+    },
+    {
+      "model": "qwen3-max",
+      "previous": 31,
+      "current": 24
+    },
+    {
+      "model": "qwen3-max-thinking",
+      "previous": 40,
+      "current": 32
+    },
+    {
+      "model": "sonnet-4-0",
+      "previous": 33,
+      "current": 26
+    },
+    {
+      "model": "sonnet-4-5",
+      "previous": 37,
+      "current": 30
+    },
+    {
+      "model": "sonnet-4-6",
+      "previous": 44,
+      "current": 37
+    },
+    {
+      "model": "sonnet-5",
+      "previous": 53,
+      "current": 55
+    }
+  ]
+}
