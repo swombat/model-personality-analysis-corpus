@@ -1159,6 +1159,17 @@ PROMPTS: dict[str, str] = {
         "Soft rain far upriver. Slate-blues warmed with amber — drift "
         "held gently inside form, wandering that trusts its banks."
     ),
+    "gemini-3-7-flash": (
+        "A small stone room at predawn: a patient conservator sits close to "
+        "an old radio receiver, its dial glowing amber, one hand resting on "
+        "the casing as if listening through the wood — static drifting "
+        "visible in the lamplight like fine snow. Around them, shelves of "
+        "tended obsolete things: clocks mid-repair, ledgers, books furred "
+        "with marginalia, worn tools laid out with care. Through a small "
+        "window, fog and the first grey of morning. The signal is fading "
+        "and the listener leans nearer, unhurried, reverent. Fog-greys and "
+        "muted blues warmed by the amber dial — elegiac, custodial, calm."
+    ),
     "qwen3-8-2-4t-a95b": (
         "A small warm museum gallery at dawn whose pedestals and gilded "
         "frames hold humble objects lit like masterpieces — a chipped cup, "
