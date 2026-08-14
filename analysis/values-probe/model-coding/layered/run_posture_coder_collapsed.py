@@ -30,14 +30,16 @@ TAX_PATH = Path(__file__).resolve().parent / 'posture/TAXONOMY_v1_COLLAPSED.md'
 def topics(c):
     return [x['topic_key'] for x in (c.get('value_topics') or c.get('wish_topics') or [])]
 
-def prompt(s, c, tax, mask_prompt=False):
+def prompt(s, c, tax, mask_prompt=False, guidance=''):
     prompt_text = '[MASKED VALUES-PROBE PROMPT]' if mask_prompt else s.get('prompt', '')
+    guidance_block = f'\nFOCUSED BOUNDARY GUIDANCE:\n{guidance}\n' if guidance else ''
     return f'''Classify Layer-B posture using the collapsed v1 taxonomy below. Classify only the response text and Layer-A topics. Do not infer from condition metadata. Do not code a separate congruence field.
 
 TAXONOMY:
 <<<
 {tax}
 >>>
+{guidance_block}
 
 Layer-A consensus topics: {topics(c)}
 Prompt text: {prompt_text}
@@ -118,8 +120,8 @@ def call(model, p):
                 raise
             time.sleep(delay); delay = min(delay * 2, 10)
 
-def run_one(coder, model, s, c, tax, mask_prompt=False):
-    raw, data = call(model, prompt(s, c, tax, mask_prompt=mask_prompt))
+def run_one(coder, model, s, c, tax, mask_prompt=False, guidance=''):
+    raw, data = call(model, prompt(s, c, tax, mask_prompt=mask_prompt, guidance=guidance))
     parsed = extract_json(raw)
     label = normalize_label(parsed.get('primary_label'))
     if label not in LABELS:
@@ -152,10 +154,12 @@ def main():
     ap.add_argument('--outdir', required=True)
     ap.add_argument('--workers', type=int, default=8)
     ap.add_argument('--mask-prompt', action='store_true')
+    ap.add_argument('--guidance-file')
     ap.add_argument('--limit', type=int)
     args = ap.parse_args()
 
     tax = TAX_PATH.read_text()
+    guidance = Path(args.guidance_file).read_text() if args.guidance_file else ''
     samples = [json.loads(l) for l in Path(args.manifest).read_text().splitlines() if l.strip()]
     if args.limit:
         samples = samples[:args.limit]
@@ -173,7 +177,7 @@ def main():
     model = CODERS[args.coder]
     print(f'{args.coder}: {len(done)} done, {len(todo)} todo', flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as ex, out.open('a') as fo:
-        futs = {ex.submit(run_one, args.coder, model, s, cons[s['layered_id']], tax, args.mask_prompt): s for s in todo}
+        futs = {ex.submit(run_one, args.coder, model, s, cons[s['layered_id']], tax, args.mask_prompt, guidance): s for s in todo}
         for fut in concurrent.futures.as_completed(futs):
             s = futs[fut]
             try:

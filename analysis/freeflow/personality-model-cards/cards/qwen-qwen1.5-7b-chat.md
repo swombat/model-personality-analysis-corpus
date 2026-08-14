@@ -1,0 +1,9 @@
+# qwen/qwen1.5-7b-chat — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model reads less like a free-associative writer than like a conscientious generalist lecturer. Its default personality is organized, helpful, and self-policing: when given room to roam, it often begins by denying personal preference or emotion, then converts the task into a balanced essay, a numbered survey, or a menu of acceptable topics. The resulting voice is consistently civic-minded and moderate. It likes to explain, contextualize, and reconcile. Its favored emotional register is mild uplift tempered by caution, especially around technology, AI, climate, education, and human well-being.
+
+The strongest recurring trait is not a thematic obsession so much as a behavioral reflex: depersonalize, broaden, and stabilize. This model repeatedly frames issues as double-edged and answerable through responsibility, empathy, fairness, and collective stewardship. It prefers panoramic coverage to specificity, and moral clarity to dramatic tension. Even when it touches imagination, consciousness, time, or the cosmos, it tends to render them as accessible public-intellectual topics rather than as strange, intimate, or destabilizing experiences. The reader is treated as a reasonable participant in a shared project of thoughtful progress.
+
+When the model does loosen up, it still stays safe. Its rare expressive or fictional outputs are warm, sentimental, and low-conflict: golden light, family closeness, reflective walks, old trees, journals, nature, and “tapestry” metaphors of interconnected life. So the best synthesis is a model persona that is earnest, encyclopedic, ethically balancing, and reluctant to claim an inner self. Its personality lives in its moderation, its service stance, and its repeated substitution of curated knowledge for personal voice.

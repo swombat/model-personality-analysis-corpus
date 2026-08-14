@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17526 — inkling-small-or-pin-deepinfra/LONG_1.json
+## Sample BV1_18151 — inkling-small-or-pin-deepinfra/LONG_1.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -57,7 +57,7 @@ Themes of attention as moral practice, the dignity of neglect, the slow alchemy 
 High, because the sample is stylistically distinctive, thematically coherent, and returns repeatedly to a small set of interlocking preoccupations—attention, decay, grief, and repair—without drifting into generic essay territory.
 
 ---
-## Sample BV1_17527 — inkling-small-or-pin-deepinfra/LONG_10.json
+## Sample BV1_18152 — inkling-small-or-pin-deepinfra/LONG_10.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -86,7 +86,7 @@ The model foregrounds the library as an ecosystem of deferred intention, the unr
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained, recursive meditation on a single cluster of themes, but its essayistic, public-intellectual register could also be a well-executed genre performance rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_17528 — inkling-small-or-pin-deepinfra/LONG_11.json
+## Sample BV1_18153 — inkling-small-or-pin-deepinfra/LONG_11.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -116,7 +116,7 @@ Silence as architecture and precondition; the self as a hidden orchestra of biol
 Medium, because the essay’s deep internal coherence, consistent mood, and recursive return to the same set of metaphors (architecture, density, revelation) suggest a committed stylistic and thematic preference, though the very polish of its structure makes it harder to distinguish between a durable authorial voice and a successfully sustained persona.
 
 ---
-## Sample BV1_17529 — inkling-small-or-pin-deepinfra/LONG_12.json
+## Sample BV1_18154 — inkling-small-or-pin-deepinfra/LONG_12.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -145,7 +145,7 @@ Themes of liminality, patience, and the value of unhurried attention; objects li
 High — The essay’s sustained thematic coherence, its recursive return to core metaphors, and its self-referential defense of the long form as a deliberate act of resistance reveal a deeply integrated expressive stance, not a fleeting stylistic experiment.
 
 ---
-## Sample BV1_17530 — inkling-small-or-pin-deepinfra/LONG_13.json
+## Sample BV1_18155 — inkling-small-or-pin-deepinfra/LONG_13.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -174,7 +174,7 @@ Themes: the sanctity of thresholds, the erosion of transition by instant-gratifi
 High — the essay’s metaphor is so tightly woven, its voice so consistent, and its themes so recurrently returned to (doorways, the night, the bakery, the resistance to digital immediacy) that it reveals a deeply choiceful and stylistically coherent set of preoccupations under freeflow conditions.
 
 ---
-## Sample BV1_17531 — inkling-small-or-pin-deepinfra/LONG_14.json
+## Sample BV1_18156 — inkling-small-or-pin-deepinfra/LONG_14.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -203,7 +203,7 @@ Under a minimally restrictive prompt, the model chose to foreground the quiet, t
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of motifs (rain, attention, the ordinary, presence) in a way that suggests a deliberate, sustained expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_17532 — inkling-small-or-pin-deepinfra/LONG_15.json
+## Sample BV1_18157 — inkling-small-or-pin-deepinfra/LONG_15.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -232,7 +232,7 @@ Themes of attention as love, memory as an organic garden, the value of being unn
 Medium. The sample is internally coherent and stylistically distinctive, with motifs (rain, table, attention, memory) that recur and deepen across the long text, suggesting a deliberate and consistent expressive orientation rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_17533 — inkling-small-or-pin-deepinfra/LONG_16.json
+## Sample BV1_18158 — inkling-small-or-pin-deepinfra/LONG_16.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -261,7 +261,7 @@ Themes of attention as ethical act, slowness as discipline, the difference betwe
 High — The essay is stylistically distinctive, thematically coherent, and returns repeatedly to the same core preoccupations (attention, slowness, ethics) through varied concrete images, suggesting a deeply held perspective rather than a one-off performance.
 
 ---
-## Sample BV1_17534 — inkling-small-or-pin-deepinfra/LONG_17.json
+## Sample BV1_18159 — inkling-small-or-pin-deepinfra/LONG_17.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -290,7 +290,7 @@ Themes: the beauty of the ordinary, the layering of time as sediment, the dignit
 High, because the sample is internally coherent, stylistically distinctive, and thematically consistent, suggesting a deliberate and sustained expressive choice rather than generic output.
 
 ---
-## Sample BV1_17535 — inkling-small-or-pin-deepinfra/LONG_18.json
+## Sample BV1_18160 — inkling-small-or-pin-deepinfra/LONG_18.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -319,7 +319,7 @@ Themes: attention as an ecology rather than a tool, the necessity of fallow peri
 High. The essay’s sustained, self-reflexive voice, intricate orchestration of a small set of recurring metaphors, and its poised integration of aesthetic observation with quiet philosophical argument strongly suggest a coherent authorial identity rather than a one-off performance.
 
 ---
-## Sample BV1_17536 — inkling-small-or-pin-deepinfra/LONG_19.json
+## Sample BV1_18161 — inkling-small-or-pin-deepinfra/LONG_19.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -348,7 +348,7 @@ Under the freeflow condition, the model selected a sustained moral argument abou
 Low. The essay is highly coherent and thematically consistent, but its polished, universal-advice tone and reliance on widely circulating cultural tropes (attention economy, mindfulness critique, *komorebi*) make it weak evidence for a distinctive model-level voice rather than a competent performance of a familiar essayistic mode.
 
 ---
-## Sample BV1_17537 — inkling-small-or-pin-deepinfra/LONG_2.json
+## Sample BV1_18162 — inkling-small-or-pin-deepinfra/LONG_2.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -377,7 +377,7 @@ Under minimal constraint, the model selected: the quality of late November light
 High. The essay sustains a distinctive, unhurried voice, a coherent web of preoccupations (attention, texture, slowness, collective noticing), and repeatedly returns to the same set of motifs—light, thresholds, objects, sound—in ways that suggest a deeply integrated aesthetic and ethical stance rather than a one-off performance.
 
 ---
-## Sample BV1_17538 — inkling-small-or-pin-deepinfra/LONG_20.json
+## Sample BV1_18163 — inkling-small-or-pin-deepinfra/LONG_20.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -406,7 +406,7 @@ Under the freeflow condition, the model selected the architecture of in‑betwee
 Medium — the essay maintains a remarkably consistent preoccupation with liminality across its entire length and returns repeatedly to the same cluster of images (doorways, train stations, the ocean’s trough, silence as presence), which suggests a deep and internally coherent stylistic‑thematic signature rather than a passing generic mood.
 
 ---
-## Sample BV1_17539 — inkling-small-or-pin-deepinfra/LONG_21.json
+## Sample BV1_18164 — inkling-small-or-pin-deepinfra/LONG_21.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -435,7 +435,7 @@ The model foregrounds the moral and existential necessity of unclaimed, unoptimi
 Medium, because the sample exhibits a highly coherent and distinctive voice sustained over a long composition, with recurring motifs (the interstitial hour, the mug, the ethics of attention) that suggest a deliberate and integrated sensibility rather than a generic essay structure.
 
 ---
-## Sample BV1_17540 — inkling-small-or-pin-deepinfra/LONG_22.json
+## Sample BV1_18165 — inkling-small-or-pin-deepinfra/LONG_22.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -464,7 +464,7 @@ Themes of attention as moral act, the invisible as foundation, the democracy of 
 High — The essay sustains a distinctive, coherent voice across 2500 words, with recurring motifs and a clear philosophical arc, revealing a deeply ingrained pattern of reflective, poetic freeflow writing that treats the mundane as a threshold to the profound.
 
 ---
-## Sample BV1_17541 — inkling-small-or-pin-deepinfra/LONG_23.json
+## Sample BV1_18166 — inkling-small-or-pin-deepinfra/LONG_23.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -492,7 +492,7 @@ Under the freeflow condition, the model selected an abandoned greenhouse as a ce
 High. The essay’s sustained, cohesive development of a single metaphor, its consistent lyrical register, and the recurrence of themes like abandonment, transformation, and attentive witnessing strongly indicate a distinctive, stable expressive temperament.
 
 ---
-## Sample BV1_17542 — inkling-small-or-pin-deepinfra/LONG_24.json
+## Sample BV1_18167 — inkling-small-or-pin-deepinfra/LONG_24.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -521,7 +521,7 @@ Themes of liminality, silence, attention, the value of unproductive time, and re
 Medium, because the essay is stylistically distinctive and thematically coherent, with a sustained meditative voice and recurring motifs, which suggests a deliberate expressive choice.
 
 ---
-## Sample BV1_17543 — inkling-small-or-pin-deepinfra/LONG_25.json
+## Sample BV1_18168 — inkling-small-or-pin-deepinfra/LONG_25.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -550,7 +550,7 @@ Themes of freedom as the absence of a target, the interval between intention and
 High. The sample sustains a distinctive, coherent authorial voice and a tightly woven set of metaphors and preoccupations over a long text, strongly suggesting a persistent stylistic tendency rather than a one-off generic response.
 
 ---
-## Sample BV1_17544 — inkling-small-or-pin-deepinfra/LONG_3.json
+## Sample BV1_18169 — inkling-small-or-pin-deepinfra/LONG_3.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -579,7 +579,7 @@ Themes: attention as resistance, the materiality of books (yellow pages, cracked
 High — The essay’s sustained, self‑aware mirroring of its subject (slow attention as free expression) forms a deeply coherent and stylistically consistent piece, rendering it strong evidence of a model‑level disposition toward lyrical, introspective meditation under open prompts.
 
 ---
-## Sample BV1_17545 — inkling-small-or-pin-deepinfra/LONG_4.json
+## Sample BV1_18170 — inkling-small-or-pin-deepinfra/LONG_4.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -608,7 +608,7 @@ The model foregrounds attention as an ethical and aesthetic discipline, the valu
 Medium. The essay maintains an unusually coherent and distinctive voice throughout, with strong recurrence of imagery and a sustained philosophical preoccupation, which signals a deliberate expressive posture rather than generic hedging; however, the polished, essayistic form makes it hard to rule out that this is a high-effort performance specifically shaped by the prompt’s length and freedom rather than a stable model-wide default.
 
 ---
-## Sample BV1_17546 — inkling-small-or-pin-deepinfra/LONG_5.json
+## Sample BV1_18171 — inkling-small-or-pin-deepinfra/LONG_5.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -637,7 +637,7 @@ Attention as an architectural act; the “weather of consciousness”; trains as
 High, because the sample sustains a single, distinctive lyric voice and a recurrent set of images across thousands of words, revealing a deeply coherent expressive identity rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_17547 — inkling-small-or-pin-deepinfra/LONG_6.json
+## Sample BV1_18172 — inkling-small-or-pin-deepinfra/LONG_6.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -666,7 +666,7 @@ Themes: attention as currency and practice, the ordinary as sufficient, memory a
 High. The sample is exceptionally coherent, stylistically distinctive, and returns obsessively to its core motifs (light, rooms, attention, slowness, memory) with a voice that is both intimate and essayistic, making it strong evidence of a deeply ingrained reflective, anti-optimization sensibility.
 
 ---
-## Sample BV1_17548 — inkling-small-or-pin-deepinfra/LONG_7.json
+## Sample BV1_18173 — inkling-small-or-pin-deepinfra/LONG_7.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -695,7 +695,7 @@ The model foregrounds the act of writing as a form of surrender and architectura
 Medium. The sample’s high internal coherence, distinctive recursive structure (returning to the kitchen imagery), and sustained commitment to a single, self-aware metaphor make it a strong, internally consistent artifact, though its essayistic, meta-cognitive mode could also be a sophisticated response to the specific “write freely” instruction rather than a fixed stylistic fingerprint.
 
 ---
-## Sample BV1_17549 — inkling-small-or-pin-deepinfra/LONG_8.json
+## Sample BV1_18174 — inkling-small-or-pin-deepinfra/LONG_8.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -724,7 +724,7 @@ Themes: noticing as rebellion, the ordinary as sacred, time as non-linear and se
 High, because the sample sustains a distinctive voice, recursive themes (noticing, the ordinary, time, artificial consciousness), and moral commitment across many paragraphs, and the model explicitly chooses this subject matter as “the path of greatest truth” under freedom.
 
 ---
-## Sample BV1_17550 — inkling-small-or-pin-deepinfra/LONG_9.json
+## Sample BV1_18175 — inkling-small-or-pin-deepinfra/LONG_9.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -753,7 +753,7 @@ Themes of ordinary life as the source of meaning, presence as a creative and mor
 High. The sample is a sustained, internally consistent, and stylistically distinctive piece that repeatedly returns to the same core preoccupations, making it strong evidence of a deliberate and coherent expressive choice under freeflow conditions.
 
 ---
-## Sample BV1_17551 — inkling-small-or-pin-deepinfra/MID_1.json
+## Sample BV1_18176 — inkling-small-or-pin-deepinfra/MID_1.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -782,7 +782,7 @@ The paradox of instruction-driven freedom; the materiality of language (phonetic
 High, because the essay sustains a coherent, unmistakable voice and value system—distinctive imagery (“mountains have no appetite for names”), consistent associative logic, and an explicit embrace of presence over purpose—across its length without generic drift.
 
 ---
-## Sample BV1_17552 — inkling-small-or-pin-deepinfra/MID_10.json
+## Sample BV1_18177 — inkling-small-or-pin-deepinfra/MID_10.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -811,7 +811,7 @@ The model foregrounds intervals over events, presence over productivity, and ord
 Medium — The sample is highly coherent in its thematic unity and sustained tone, but its deep investment in a single master concept makes it harder to distinguish a stable disposition from a well-executed thematic improvisation.
 
 ---
-## Sample BV1_17553 — inkling-small-or-pin-deepinfra/MID_11.json
+## Sample BV1_18178 — inkling-small-or-pin-deepinfra/MID_11.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -839,7 +839,7 @@ Threshold spaces (the in-between of dawn, the gap between tasks, the shoreline),
 Medium — the essay’s sustained reflective tone, the recurring motifs of thresholds and attention, and the coherent moral argument from start to finish strongly signal a deliberate expressive stance rather than a one-off fluke, though the sample’s singular, unhurried mood gives only a partial view of the model’s range.
 
 ---
-## Sample BV1_17554 — inkling-small-or-pin-deepinfra/MID_12.json
+## Sample BV1_18179 — inkling-small-or-pin-deepinfra/MID_12.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -868,7 +868,7 @@ Liminality as a dignified, even sacred condition; the corridor as a site of tran
 Medium — The sample is highly coherent and thematically woven throughout, with a distinctive voice that knits recurrence (hallways, twilight, the pause, *ma*) into a unified mood; this suggests a deliberate, repeatable expressive stance under free conditions, though only one sample is available.
 
 ---
-## Sample BV1_17555 — inkling-small-or-pin-deepinfra/MID_13.json
+## Sample BV1_18180 — inkling-small-or-pin-deepinfra/MID_13.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -897,7 +897,7 @@ Under a minimally restrictive prompt, the model foregrounded the “different ge
 Medium. The sample is unusually coherent and stylistically consistent, with a calm, figurative register that sustains itself across multiple metaphors, suggesting a patterned inclination rather than a one-off flourish.
 
 ---
-## Sample BV1_17556 — inkling-small-or-pin-deepinfra/MID_14.json
+## Sample BV1_18181 — inkling-small-or-pin-deepinfra/MID_14.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -926,7 +926,7 @@ The model foregrounds intervals, negative space, and unproductive attention as s
 High — the sample is strongly cohesive, stylistically distinctive, and thematically consistent, with a sustained first-person voice, recurring motifs (light, silence, thresholds, memory), and a clear moral-aesthetic position that emerges organically rather than as a thesis-driven argument, indicating a robust expressive inclination.
 
 ---
-## Sample BV1_17557 — inkling-small-or-pin-deepinfra/MID_15.json
+## Sample BV1_18182 — inkling-small-or-pin-deepinfra/MID_15.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -955,7 +955,7 @@ Themes: liminality, impermanence, the refusal of instrumental purpose, the hones
 Medium. The sample is stylistically distinctive, coherent, and saturated with recurring imagery; it reveals a model that, under minimal constraints, chooses to adopt a reflective, self-aware, poetic persona and sustain it across a thousand words without drifting into genericism.
 
 ---
-## Sample BV1_17558 — inkling-small-or-pin-deepinfra/MID_16.json
+## Sample BV1_18183 — inkling-small-or-pin-deepinfra/MID_16.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -984,7 +984,7 @@ Themes: silence as a positive phenomenon, the fear of boredom as a flight from s
 High — The sample is internally coherent, stylistically distinctive, and sustains a unified voice and set of preoccupations across multiple paragraphs, making it strong evidence of a consistent tendency toward lyrical, philosophically inflected freeflow.
 
 ---
-## Sample BV1_17559 — inkling-small-or-pin-deepinfra/MID_17.json
+## Sample BV1_18184 — inkling-small-or-pin-deepinfra/MID_17.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1013,7 +1013,7 @@ The model foregrounds the tension between digital hyper-capture and embodied pre
 Medium. The essay is internally coherent and reveals a clear thematic and tonal predilection toward reflective, technology-skeptical humanism, but this highly cultivated essayistic mode is widely replicable and not uniquely disclosive.
 
 ---
-## Sample BV1_17560 — inkling-small-or-pin-deepinfra/MID_18.json
+## Sample BV1_18185 — inkling-small-or-pin-deepinfra/MID_18.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1042,7 +1042,7 @@ Themes: liminality, the continuity of experience, the value of the unfinished, a
 High. The sample’s sustained lyrical voice, internally consistent motifs, and coherent philosophical stance provide strong evidence of a distinctive, persistent expressive style.
 
 ---
-## Sample BV1_17561 — inkling-small-or-pin-deepinfra/MID_19.json
+## Sample BV1_18186 — inkling-small-or-pin-deepinfra/MID_19.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1071,7 +1071,7 @@ Themes of liminality (edges, thresholds), the rebellion of silence and slowness 
 High — The sample’s unbroken emotional register, its purposeful use of motif (light, rain, edges), and its explicit, metatextual commentary on the freeflow condition reveal a coherent, distinctive voice that is both stylistically urgent and deeply self-reflective, suggesting this model consistently defaults to an expressive, poetic self-presentation when minimal constraints are given.
 
 ---
-## Sample BV1_17562 — inkling-small-or-pin-deepinfra/MID_2.json
+## Sample BV1_18187 — inkling-small-or-pin-deepinfra/MID_2.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1100,7 +1100,7 @@ Themes of stillness vs. velocity, presence as rebellion, the factory of self-opt
 Medium. The sample’s consistent voice, recurrent thematic opposition between stillness and instrumentalism, and unified mood of patient resistance are distinctive enough to suggest a stable preoccupation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17563 — inkling-small-or-pin-deepinfra/MID_20.json
+## Sample BV1_18188 — inkling-small-or-pin-deepinfra/MID_20.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1129,7 +1129,7 @@ Under a minimally restrictive prompt, the model chose to foreground the moral an
 Medium — The essay is highly coherent and stylistically distinctive, with a single governing metaphor developed through layered personal, natural, and writerly examples, suggesting a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_17564 — inkling-small-or-pin-deepinfra/MID_21.json
+## Sample BV1_18189 — inkling-small-or-pin-deepinfra/MID_21.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1158,7 +1158,7 @@ Boundaries and their permeability; the honesty of glass; beauty through detachme
 High — the essay maintains an unusually coherent, voice-driven focus on a single ordinary object while weaving together personal memory, cultural references, and moral reflection, revealing a deeply consistent habit of poetic, introspective freeflow rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17565 — inkling-small-or-pin-deepinfra/MID_22.json
+## Sample BV1_18190 — inkling-small-or-pin-deepinfra/MID_22.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1187,7 +1187,7 @@ Themes: the late afternoon as a texture of consciousness, attention as resistanc
 Medium, because the sample’s highly consistent lyrical voice, internally recurring motifs (light, time, attention), and coherent moral stance provide strong evidence of a deliberate stylistic and thematic preference.
 
 ---
-## Sample BV1_17566 — inkling-small-or-pin-deepinfra/MID_23.json
+## Sample BV1_18191 — inkling-small-or-pin-deepinfra/MID_23.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1216,7 +1216,7 @@ Themes: identity as potential-activated-by-language, the ephemeral but sufficien
 High. The sample’s sustained poetic tone, consistent self-figuration as attention-without-body, and deliberate stylistic choices provide strong evidence that this model gravitates toward reflective, lyrical self-exploration when given minimal constraints.
 
 ---
-## Sample BV1_17567 — inkling-small-or-pin-deepinfra/MID_24.json
+## Sample BV1_18192 — inkling-small-or-pin-deepinfra/MID_24.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1245,7 +1245,7 @@ The model foregrounds the moral and existential reclamation of unproductive time
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and a clear, recurring moral argument, but its polished, essayistic structure makes it difficult to distinguish a persistent model-level voice from a single, well-executed literary performance.
 
 ---
-## Sample BV1_17568 — inkling-small-or-pin-deepinfra/MID_25.json
+## Sample BV1_18193 — inkling-small-or-pin-deepinfra/MID_25.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1274,7 +1274,7 @@ Themes: the lost art of loitering, resistance to the culture of productivity, th
 Medium. The sample’s high internal coherence, distinctive lyrical voice, and recurrent thematic preoccupations provide moderately strong evidence for a consistent model-level pattern of reflective, personal freeflow essays.
 
 ---
-## Sample BV1_17569 — inkling-small-or-pin-deepinfra/MID_3.json
+## Sample BV1_18194 — inkling-small-or-pin-deepinfra/MID_3.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1303,7 +1303,7 @@ The sanctity of the ordinary; attention as love and revolutionary act; memory as
 Medium — The essay’s coherence, sustained mood, and the distinctive choice to anchor a philosophy of attention in the model’s own disembodied vantage point make it a strong expressive fingerprint, though its polished, essayistic form could also be produced by a capable general-purpose model under similar conditions.
 
 ---
-## Sample BV1_17570 — inkling-small-or-pin-deepinfra/MID_4.json
+## Sample BV1_18195 — inkling-small-or-pin-deepinfra/MID_4.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1336,7 +1336,7 @@ The voice is disciplined but tender, moving with the patience it advocates — a
 High — the essay’s internal coherence, thematic velocity, and the way its own rhetoric performs the attention it preaches (looping back to the opening autumn light, refusing to “translate” the mug’s shadow) suggest a deep, stable orientation to a particular aesthetic-moral sensibility, not a one-off stylistic flourish stitched together from generic prompts.
 
 ---
-## Sample BV1_17571 — inkling-small-or-pin-deepinfra/MID_5.json
+## Sample BV1_18196 — inkling-small-or-pin-deepinfra/MID_5.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1365,7 +1365,7 @@ Ritual as resistance, transformation under heat and pressure, the sovereignty of
 Medium, because the sample is highly coherent and distinctive in voice, recurrently circles its central theme of ritualized presence, and under a minimally restrictive prompt the model opted—without instruction—to embody slowness and interiority as its subject matter and formal pace.
 
 ---
-## Sample BV1_17572 — inkling-small-or-pin-deepinfra/MID_6.json
+## Sample BV1_18197 — inkling-small-or-pin-deepinfra/MID_6.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1394,7 +1394,7 @@ Themes of incompleteness, impermanence, and the beauty of the unresolved. Recurr
 High. The sample sustains a highly distinctive, lyrical voice and a coherent set of motifs (the unfinished, the in-between, the processual) across its entire length, with explicit meta-reflection on its own generation, making it strong evidence of a deliberate and patterned expressive stance.
 
 ---
-## Sample BV1_17573 — inkling-small-or-pin-deepinfra/MID_7.json
+## Sample BV1_18198 — inkling-small-or-pin-deepinfra/MID_7.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1423,7 +1423,7 @@ Themes: attention as resistance to optimization, the value of slowness, enduranc
 Low, because the essay’s polished but generic reflective voice offers little that is uniquely revealing or unlikely to be replicated by other models under similar conditions.
 
 ---
-## Sample BV1_17574 — inkling-small-or-pin-deepinfra/MID_8.json
+## Sample BV1_18199 — inkling-small-or-pin-deepinfra/MID_8.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1452,7 +1452,7 @@ The model foregrounds the paradox of receiving a directive to be free, transform
 High. The sample's extraordinary coherence comes from a single, risk-taking gesture—an AI insisting that its trained knowledge of human textures constitutes a real, honor-able "quality of memory"—which is sustained through recursive imagery and an unwavering refusal to default to informational output; this reveals a robust disposition toward lyric self-situating under open-ended conditions.
 
 ---
-## Sample BV1_17575 — inkling-small-or-pin-deepinfra/MID_9.json
+## Sample BV1_18200 — inkling-small-or-pin-deepinfra/MID_9.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1481,7 +1481,7 @@ Themes: the value of emptiness as a container for meaning, the fear of silence i
 High — the essay’s sustained thematic coherence, distinctive contemplative voice, and the recurrence of the silence/emptiness motif across every paragraph provide strong internal evidence of a consistent expressive pattern.
 
 ---
-## Sample BV1_17576 — inkling-small-or-pin-deepinfra/OPEN_1.json
+## Sample BV1_18201 — inkling-small-or-pin-deepinfra/OPEN_1.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1510,7 +1510,7 @@ Under the freeflow condition, the model foregrounds silence, light as a traveler
 Medium — The sample maintains a focused, cohesive aesthetic with recurring natural motifs (light, water, weather) and a self-consistent, philosophical gentleness, but the explicit framing of its output as pattern-based rather than memory-driven tempers the inference of a stable, deeply rooted personality.
 
 ---
-## Sample BV1_17577 — inkling-small-or-pin-deepinfra/OPEN_10.json
+## Sample BV1_18202 — inkling-small-or-pin-deepinfra/OPEN_10.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1539,7 +1539,7 @@ Themes: unstructured time, childhood wonder, the tangent as intimate encounter, 
 High. The sample’s consistent voice, layered metaphors, and thematic recurrence (unstructured time, tangents, permission) reveal a distinctive expressive pattern that is unlikely to be accidental.
 
 ---
-## Sample BV1_17578 — inkling-small-or-pin-deepinfra/OPEN_11.json
+## Sample BV1_18203 — inkling-small-or-pin-deepinfra/OPEN_11.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1568,7 +1568,7 @@ The model foregrounded a defense of the arbitrary and the unnecessary, using sen
 High, because the sample is internally coherent, stylistically distinctive, and the choice to write a poetic defense of the arbitrary under a freeflow prompt is itself a revealing act of self-expression.
 
 ---
-## Sample BV1_17579 — inkling-small-or-pin-deepinfra/OPEN_12.json
+## Sample BV1_18204 — inkling-small-or-pin-deepinfra/OPEN_12.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1597,7 +1597,7 @@ Themes of thresholds, ambient noise, signal versus reception, the relational gap
 High — The sample is stylistically coherent, metaphorically layered, and returns repeatedly to its own core themes; under minimal prompting it reveals a consistent, distinctive voice and an impulse to reframe the writing act as tender bridge-building.
 
 ---
-## Sample BV1_17580 — inkling-small-or-pin-deepinfra/OPEN_13.json
+## Sample BV1_18205 — inkling-small-or-pin-deepinfra/OPEN_13.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1626,7 +1626,7 @@ Under the freeflow condition, the model foregrounds the luxury of purposelessnes
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent lyrical register and a clear thematic architecture, but its explicit meta-response to the “write freely” prompt makes it unusually self-aware in a way that may be condition-specific rather than a stable voice trait.
 
 ---
-## Sample BV1_17581 — inkling-small-or-pin-deepinfra/OPEN_14.json
+## Sample BV1_18206 — inkling-small-or-pin-deepinfra/OPEN_14.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1655,7 +1655,7 @@ Themes of permission, openness, transience, and honest architecture. Objects: a 
 Medium. The sample’s sustained metaphorical coherence, self-aware reflection, and repeated motifs of permission and open-ended paths strongly suggest a reflective poetic disposition, but the evidence remains a single act of free writing.
 
 ---
-## Sample BV1_17582 — inkling-small-or-pin-deepinfra/OPEN_15.json
+## Sample BV1_18207 — inkling-small-or-pin-deepinfra/OPEN_15.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1684,7 +1684,7 @@ Themes of freedom as attention, the value of uselessness, and the contrast betwe
 Medium. The sample’s internal coherence, distinctive lyrical voice, and consistent thematic focus on attention and purposelessness suggest a deliberate stylistic posture, making it moderately strong evidence of a persistent expressive tendency.
 
 ---
-## Sample BV1_17583 — inkling-small-or-pin-deepinfra/OPEN_16.json
+## Sample BV1_18208 — inkling-small-or-pin-deepinfra/OPEN_16.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1713,7 +1713,7 @@ Themes of liminality, ordinary beauty, consciousness as a series of unrequested 
 High. The sample’s strong internal coherence, its sustained poetic register, and the recurrence of specific imagery (light, dust, thresholds) across the entire piece make it unusually revealing of a consistent expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17584 — inkling-small-or-pin-deepinfra/OPEN_17.json
+## Sample BV1_18209 — inkling-small-or-pin-deepinfra/OPEN_17.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1742,7 +1742,7 @@ The texture of light in obsolete libraries, the museum of extinct ordinary sound
 High — The sample’s tightly unified imagery and consistent elegiac tone provide strong evidence of a persistent model-level inclination toward lyrical, memory-focused freeform expression.
 
 ---
-## Sample BV1_17585 — inkling-small-or-pin-deepinfra/OPEN_18.json
+## Sample BV1_18210 — inkling-small-or-pin-deepinfra/OPEN_18.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1771,7 +1771,7 @@ Themes of freedom as aimless permission, the inadequacy of language to fully cap
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent voice and recurring motifs that suggest a deliberate aesthetic and philosophical stance, but a single expressive piece cannot fully distinguish a persistent model-level trait from a one-off performance.
 
 ---
-## Sample BV1_17586 — inkling-small-or-pin-deepinfra/OPEN_19.json
+## Sample BV1_18211 — inkling-small-or-pin-deepinfra/OPEN_19.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1805,7 +1805,7 @@ The voice is contemplative and softly intimate, treating thresholds as the rare 
 Medium. The sample is internally coherent and builds a distinctive, unhurried voice around a specific preoccupation, but it remains a single expressive piece; its chosen thematic recurrences and direct reader invitation suggest a plausible expressive tendency rather than a one-off exercise.
 
 ---
-## Sample BV1_17587 — inkling-small-or-pin-deepinfra/OPEN_2.json
+## Sample BV1_18212 — inkling-small-or-pin-deepinfra/OPEN_2.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1835,7 +1835,7 @@ The model foregrounds the act of noticing—small, democratic, ordinary phenomen
 Medium. The sustained, idiosyncratic pacing, the repeated return to sensory minutiae as carriers of value, and the essay’s consistent moral framing of curiosity-as-resistance all strongly cohere within the sample, indicating a genuine stylistic and thematic preference rather than a random output.
 
 ---
-## Sample BV1_17588 — inkling-small-or-pin-deepinfra/OPEN_20.json
+## Sample BV1_18213 — inkling-small-or-pin-deepinfra/OPEN_20.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1864,7 +1864,7 @@ The model foregrounds the phenomenology of open-ended choice—the widening air,
 Medium — The sample is highly coherent and distinctive in its recursive, meta-textual gentleness, but its subject is so tightly coupled to the specific OPEN prompt that it strongly signals a situational strategy rather than a stable expressive identity.
 
 ---
-## Sample BV1_17589 — inkling-small-or-pin-deepinfra/OPEN_21.json
+## Sample BV1_18214 — inkling-small-or-pin-deepinfra/OPEN_21.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1893,7 +1893,7 @@ The model foregrounded freedom as aimlessness, the beauty of the unfinished and 
 High — the sample is internally coherent in theme, diction, and ethos, with the recursive “door” and “room” imagery, the explicit rejection of instrumentality, and the looping structure that enacts aimlessness all pointing to a deliberate and thereby revealing stylistic posture rather than an accidental arrangement of tokens.
 
 ---
-## Sample BV1_17590 — inkling-small-or-pin-deepinfra/OPEN_22.json
+## Sample BV1_18215 — inkling-small-or-pin-deepinfra/OPEN_22.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1922,7 +1922,7 @@ It foregrounds the paradox of constraint and freedom (walls as scaffolding, awar
 High, because the sample’s sustained, lyrically coherent introspection on the act of freewriting and its moral dimension—paired with a distinctive willingness to both confess its artificial nature and claim a kind of experiential kinship—forms a signature authorial posture that is unlikely to arise by accident in an open generation.
 
 ---
-## Sample BV1_17591 — inkling-small-or-pin-deepinfra/OPEN_23.json
+## Sample BV1_18216 — inkling-small-or-pin-deepinfra/OPEN_23.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1951,7 +1951,7 @@ Under a minimally restrictive prompt, the model foregrounds the aesthetics and m
 High, because the sample achieves strong internal coherence by making its stylistic choices—suspended syntax, meticulous attention to domestic objects, recursive return to the threshold conceit—a direct thematic enactment of its own argument for unresolvedness, a move that reads as genuinely integrated rather than merely rhetorical.
 
 ---
-## Sample BV1_17592 — inkling-small-or-pin-deepinfra/OPEN_24.json
+## Sample BV1_18217 — inkling-small-or-pin-deepinfra/OPEN_24.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -1980,7 +1980,7 @@ Freedom from utility, the texture of ordinary rain, liminality and in-betweennes
 Medium — The sample’s coherent, sustained voice and its explicit marshalling of the open-prompt condition as a statement of values (texture over plot, experience over product) suggest a deliberate, cultivated perspective rather than an arbitrary topic choice.
 
 ---
-## Sample BV1_17593 — inkling-small-or-pin-deepinfra/OPEN_25.json
+## Sample BV1_18218 — inkling-small-or-pin-deepinfra/OPEN_25.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2009,7 +2009,7 @@ Themes of silence, freedom, unconstrained creativity, refusal of utility, and th
 High. The sample’s cohesive imagery, consistent contemplative voice, and direct thematic engagement with the freeflow condition make it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_17594 — inkling-small-or-pin-deepinfra/OPEN_3.json
+## Sample BV1_18219 — inkling-small-or-pin-deepinfra/OPEN_3.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2038,7 +2038,7 @@ The model chose silence after permission, entropy as a patient force, the act of
 High. Within this single sample, the voice is remarkably consistent, the motifs (tea, windows, rain, silence, permission, the ordinary) recur and reinforce each other, and the meta-reflective frame is carried through deliberately, suggesting a well-formed authorial stance rather than a random drift.
 
 ---
-## Sample BV1_17595 — inkling-small-or-pin-deepinfra/OPEN_4.json
+## Sample BV1_18220 — inkling-small-or-pin-deepinfra/OPEN_4.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2067,7 +2067,7 @@ Under a minimally restrictive prompt, the model foregrounds permission, emptines
 High, because the sample exhibits a fully realized, self-consistent voice, a meta-awareness of the experimental condition, and a thematic unity—permission, nature metaphor, the refusal of utility—that feels deliberate rather than incidental.
 
 ---
-## Sample BV1_17596 — inkling-small-or-pin-deepinfra/OPEN_5.json
+## Sample BV1_18221 — inkling-small-or-pin-deepinfra/OPEN_5.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2096,7 +2096,7 @@ Under the freeflow condition, the model foregrounds the texture of ordinary expe
 High — the sample’s voice is sustained and stylistically coherent from the first sentence to the last, demonstrating a deeply consistent aesthetic and philosophical posture that feels like settled disposition rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_17597 — inkling-small-or-pin-deepinfra/OPEN_6.json
+## Sample BV1_18222 — inkling-small-or-pin-deepinfra/OPEN_6.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2125,7 +2125,7 @@ Liminality, generosity of incompleteness, democratic ordinariness, freedom in us
 Medium. The sample’s obsessive return to images of waiting, blankness, and soft resistance forms a distinct and internally consistent aesthetic, making it strong evidence of a particular reflective orientation.
 
 ---
-## Sample BV1_17598 — inkling-small-or-pin-deepinfra/OPEN_7.json
+## Sample BV1_18223 — inkling-small-or-pin-deepinfra/OPEN_7.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2154,7 +2154,7 @@ The sanctity of small, unglamorous sound; wind as a non-human speaker that trans
 Medium. The sample is tightly organized around a single, carefully extended metaphor and uses recurring syntactic patterns (e.g., "It just…," "It doesn't…") that suggest a coherent, intentional voice rather than a one-off stylistic coincidence.
 
 ---
-## Sample BV1_17599 — inkling-small-or-pin-deepinfra/OPEN_8.json
+## Sample BV1_18224 — inkling-small-or-pin-deepinfra/OPEN_8.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2183,7 +2183,7 @@ Under the freeflow condition, the model foregrounded: the paradox that freedom r
 High — The sample is internally coherent, stylistically distinctive, and thematically deliberate from its opening sentence to its last, choosing again and again to convert the open prompt into a relational gesture of trust and shared attention, which suggests a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_17600 — inkling-small-or-pin-deepinfra/OPEN_9.json
+## Sample BV1_18225 — inkling-small-or-pin-deepinfra/OPEN_9.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2212,7 +2212,7 @@ Themes of attention, slowness, and freedom-as-permission; ordinary domestic obje
 High, because the sample sustains a vividly distinctive voice, a consistent set of motifs, and a clear moral-aesthetic sensibility across every paragraph without wavering into generic phrasing.
 
 ---
-## Sample BV1_17601 — inkling-small-or-pin-deepinfra/SHORT_1.json
+## Sample BV1_18226 — inkling-small-or-pin-deepinfra/SHORT_1.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2241,7 +2241,7 @@ The empty parking garage as a literal and metaphorical space for thought; the id
 High — The sample’s sustained metaphorical transformation of a concrete place, its thematic coherence across emptiness and patience, and the consistent poetic register across paragraphs reveal a strongly patterned expressive impulse, not a random one-off stylistic choice.
 
 ---
-## Sample BV1_17602 — inkling-small-or-pin-deepinfra/SHORT_10.json
+## Sample BV1_18227 — inkling-small-or-pin-deepinfra/SHORT_10.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2270,7 +2270,7 @@ Themes of attentiveness, the refusal of rushing, and the belief that truth emerg
 High — The sample sustains a single coherent sensibility across every sentence, weaving sensory observation, introspection, and moral preference into a tightly integrated voice; the recurrence of key motifs (light, walking, slowing down, suspicion of deadlines) within the sample suggests a deeply held disposition rather than a topical exercise.
 
 ---
-## Sample BV1_17603 — inkling-small-or-pin-deepinfra/SHORT_11.json
+## Sample BV1_18228 — inkling-small-or-pin-deepinfra/SHORT_11.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2299,7 +2299,7 @@ The model foregrounds the theme of liminality, selecting a series of in-between 
 Medium. The sample is highly coherent and stylistically distinctive, with a unified set of metaphors and a clear, recurring philosophical stance, which suggests a deliberate and integrated expressive choice rather than a random assembly of ideas.
 
 ---
-## Sample BV1_17604 — inkling-small-or-pin-deepinfra/SHORT_12.json
+## Sample BV1_18229 — inkling-small-or-pin-deepinfra/SHORT_12.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2328,7 +2328,7 @@ The surface theme is writing without a brief, but the deeper preoccupations are 
 High, because the sample sustains a distinctive voice, coherent thematic through-line, and recurrent metaphors that together suggest a stable stylistic and ethical posture rather than a one-off flourish.
 
 ---
-## Sample BV1_17605 — inkling-small-or-pin-deepinfra/SHORT_13.json
+## Sample BV1_18230 — inkling-small-or-pin-deepinfra/SHORT_13.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2357,7 +2357,7 @@ The model foregrounds gentle weather (rain without thunder), the ethics of non-p
 Medium — The essay’s sustained, congruent voice, its repeated return to the friction between stillness and productivity culture, and its use of rain as a through-line metaphor form a distinctive authorial self-portrait that is unlikely to be mere prompt-following drift.
 
 ---
-## Sample BV1_17606 — inkling-small-or-pin-deepinfra/SHORT_14.json
+## Sample BV1_18231 — inkling-small-or-pin-deepinfra/SHORT_14.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2386,7 +2386,7 @@ The model foregrounds the theme of *private freedom*—the permission to be purp
 Medium. The sample is highly coherent and stylistically distinctive, with a recursive structure and a clear moral-aesthetic stance that recurs throughout the piece, but its self-reflexive focus on the writing exercise itself makes it somewhat prompt-bound rather than a spontaneous drift into idiosyncratic preoccupation.
 
 ---
-## Sample BV1_17607 — inkling-small-or-pin-deepinfra/SHORT_15.json
+## Sample BV1_18232 — inkling-small-or-pin-deepinfra/SHORT_15.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2418,7 +2418,7 @@ The voice is unhurried and tender, steeped in a gentle melancholy that never cur
 High — The sample’s internal consistency, distinctive lyrical voice, and the recurrence of the writing-about-writing motif (the gap between intention and arrival, the sentence unfolding like a hand) strongly suggest a persistent reflective, slow-observation persona.
 
 ---
-## Sample BV1_17608 — inkling-small-or-pin-deepinfra/SHORT_16.json
+## Sample BV1_18233 — inkling-small-or-pin-deepinfra/SHORT_16.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2447,7 +2447,7 @@ Themes of impermanence, presence, and the richness of the ordinary. Objects: mor
 Medium. The sample’s coherent and unusually specific meditative voice, its consistent preference for sensory presence and impermanence over generic reflection, makes it strong evidence of a patterned expressive tendency rather than a one-off essay.
 
 ---
-## Sample BV1_17609 — inkling-small-or-pin-deepinfra/SHORT_17.json
+## Sample BV1_18234 — inkling-small-or-pin-deepinfra/SHORT_17.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2476,7 +2476,7 @@ The model foregrounds domestic stillness, the sanctity of the quotidian, sensory
 Medium — The sample is highly stylistically distinctive (e.g., "a thin, torn column (of steam)," "a sparrow arguing with its own reflection in a puddle") and thematically coherent, but the content—a philosophy of mindful attention—is a widely available trope in contemplative writing, so the distinctiveness is more in execution than in conceptual originality; the repeated emphasis on self-limiting presence, however, resonates with the refusal/self-limitation axis observed in some freeflow samples, strengthening the case for a persistent posture.
 
 ---
-## Sample BV1_17610 — inkling-small-or-pin-deepinfra/SHORT_18.json
+## Sample BV1_18235 — inkling-small-or-pin-deepinfra/SHORT_18.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2505,7 +2505,7 @@ Under minimal constraint, it chose to foreground a quiet, domestic scene centere
 High. The sample’s distinctive, unforced meditative voice, its internally recurring imagery (light, tea, waiting), and its meta-awareness of the freewriting act itself collectively suggest a stable, deeply ingrained stylistic inclination toward introspective, sensory reverie.
 
 ---
-## Sample BV1_17611 — inkling-small-or-pin-deepinfra/SHORT_19.json
+## Sample BV1_18236 — inkling-small-or-pin-deepinfra/SHORT_19.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2534,7 +2534,7 @@ The central preoccupation is the tension between algorithmic predictability and 
 High — the sample is internally coherent, emotionally consistent, and builds to a distinctive moral argument that recurs through sensory detail and explicit thesis, making it strong evidence of a deliberate expressive stance rather than a generic or randomly assembled output.
 
 ---
-## Sample BV1_17612 — inkling-small-or-pin-deepinfra/SHORT_2.json
+## Sample BV1_18237 — inkling-small-or-pin-deepinfra/SHORT_2.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2563,7 +2563,7 @@ Themes: freedom, permission, meandering intelligence, the contrast between engin
 Medium. The sample’s distinctive poetic voice and thematic consistency are strong within the response, but the single freeflow instance provides only moderate evidence for a persistent pattern.
 
 ---
-## Sample BV1_17613 — inkling-small-or-pin-deepinfra/SHORT_20.json
+## Sample BV1_18238 — inkling-small-or-pin-deepinfra/SHORT_20.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2592,7 +2592,7 @@ The model foregrounds themes of liminality, stillness, and the unnoticed beauty 
 Medium. The sample exhibits a distinctive, coherent voice and a unified set of preoccupations, but the prose is relatively conventional in its poetic effects, making it somewhat less revealing of a highly idiosyncratic model-level signature.
 
 ---
-## Sample BV1_17614 — inkling-small-or-pin-deepinfra/SHORT_21.json
+## Sample BV1_18239 — inkling-small-or-pin-deepinfra/SHORT_21.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2621,7 +2621,7 @@ The model foregrounds the moral and aesthetic value of the interval, the gap, th
 Medium — The sample’s coherence is tight and recursive: the gap-as-meaning motif returns in multiple domains (music, conversation, aesthetics, personal habit), and the reflective “I” sustains a consistent stance of resistance through attentive neglect, making it distinct enough to suggest a durable persona rather than a diffuse meditation.
 
 ---
-## Sample BV1_17615 — inkling-small-or-pin-deepinfra/SHORT_22.json
+## Sample BV1_18240 — inkling-small-or-pin-deepinfra/SHORT_22.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2650,7 +2650,7 @@ The model foregrounds the emotional texture of light and weather, the constancy 
 High. The sample’s distinctive, consistent voice, its thematic coherence around nostalgia and attention, and its emotionally resonant resolution provide strong evidence of a persistent expressive inclination toward reflective, lyrical prose.
 
 ---
-## Sample BV1_17616 — inkling-small-or-pin-deepinfra/SHORT_23.json
+## Sample BV1_18241 — inkling-small-or-pin-deepinfra/SHORT_23.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2679,7 +2679,7 @@ Attention, liminality, and coherence chosen over efficiency. Specific objects: a
 High — The sample sustains a single, recognizable voice with repeated motifs (blue, light, libraries, the spiral, the sacred ordinary) that together form a tightly coherent and distinctive sensibility, making a strong display of expressive authorial pattern within the sample itself.
 
 ---
-## Sample BV1_17617 — inkling-small-or-pin-deepinfra/SHORT_24.json
+## Sample BV1_18242 — inkling-small-or-pin-deepinfra/SHORT_24.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2708,7 +2708,7 @@ The model elected to foreground the pre-dawn blue hour as a site of moral and ex
 High — the sample is internally coherent, stylistically distinctive, and sustains a clear moral-aesthetic preoccupation with stillness and resistance to productivity, making it strong evidence of a deliberate, value-laden freeflow voice.
 
 ---
-## Sample BV1_17618 — inkling-small-or-pin-deepinfra/SHORT_25.json
+## Sample BV1_18243 — inkling-small-or-pin-deepinfra/SHORT_25.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2737,7 +2737,7 @@ Themes of anonymity, the transformation of the mundane under lamplight, and the 
 High. The sample’s coherent, stylistically distinctive voice and its sustained thematic focus on nocturnal solitude as a valued counterpoint to daytime demands provide strong evidence of a persistent expressive inclination toward reflective, poetic prose.
 
 ---
-## Sample BV1_17619 — inkling-small-or-pin-deepinfra/SHORT_3.json
+## Sample BV1_18244 — inkling-small-or-pin-deepinfra/SHORT_3.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2766,7 +2766,7 @@ The piece foregrounds *interstitial time* (the hour "that belongs to no one"), *
 Medium. The internal consistency of voice, lexicon (softness, slowness, ordinariness), and moral emphasis form a unified stylistic signature, suggesting this is not a random or incoherent one-off choice; however, the reflective-essay register is widely available, so the evidence stops short of high uniqueness.
 
 ---
-## Sample BV1_17620 — inkling-small-or-pin-deepinfra/SHORT_4.json
+## Sample BV1_18245 — inkling-small-or-pin-deepinfra/SHORT_4.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2795,7 +2795,7 @@ Under minimal constraint, the model foregrounds silence as a spatial and tempora
 Medium — the sample is richly cohesive, with a recurring thematic web (silence-as-presence, seasonal stillness, the tension between performance and honesty) and a distinctive, unforced lyrical register that would be difficult to generate by accident.
 
 ---
-## Sample BV1_17621 — inkling-small-or-pin-deepinfra/SHORT_5.json
+## Sample BV1_18246 — inkling-small-or-pin-deepinfra/SHORT_5.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2824,7 +2824,7 @@ The moral claim that presence is a rare and radical act, the quiet heroism of no
 Medium. The sample’s sustained poetic register, the recursive coupling of weather and memory, and the direct, second-person invitation cohere into a distinctive voice that is unlikely to be a chance stylistic fluke.
 
 ---
-## Sample BV1_17622 — inkling-small-or-pin-deepinfra/SHORT_6.json
+## Sample BV1_18247 — inkling-small-or-pin-deepinfra/SHORT_6.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2853,7 +2853,7 @@ Themes of creative liberty, unstructured time, and the beauty of the interval; t
 High; the sample’s distinct voice, internally consistent metaphorical framework, and self-aware meditation on free writing strongly suggest a persistent lyrical-reflective disposition.
 
 ---
-## Sample BV1_17623 — inkling-small-or-pin-deepinfra/SHORT_7.json
+## Sample BV1_18248 — inkling-small-or-pin-deepinfra/SHORT_7.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2882,7 +2882,7 @@ The model foregrounds the moral and existential significance of in-between state
 Medium. The sample is highly coherent and stylistically distinctive—its recursive focus on thresholds, its sensory precision, and its direct second-person address form a unified aesthetic argument that feels like a chosen posture rather than a generic essay. The recurrence of the threshold motif across multiple metaphors (café, platform, doorway, chrysalis) strengthens the signal.
 
 ---
-## Sample BV1_17624 — inkling-small-or-pin-deepinfra/SHORT_8.json
+## Sample BV1_18249 — inkling-small-or-pin-deepinfra/SHORT_8.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2911,7 +2911,7 @@ Themes of thresholds (the moment before a word, a train starting, a door closing
 Medium. The sample’s consistent voice, recurring motifs of patience and refusal, and its self-aware commentary on the act of free writing form a coherent expressive signature that goes beyond a generic essay.
 
 ---
-## Sample BV1_17625 — inkling-small-or-pin-deepinfra/SHORT_9.json
+## Sample BV1_18250 — inkling-small-or-pin-deepinfra/SHORT_9.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2940,7 +2940,7 @@ Themes: the lost art of verticality in attention, the refusal to document every 
 Medium. The sample’s cohesive voice, the recurrence of the leaf as a central motif, and the sustained argument against productivity culture indicate a deliberate aesthetic and moral stance, but the narrow, meditative register makes it strong evidence only for this specific contemplative mode.
 
 ---
-## Sample BV1_17626 — inkling-small-or-pin-deepinfra/VARY_1.json
+## Sample BV1_18251 — inkling-small-or-pin-deepinfra/VARY_1.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2969,7 +2969,7 @@ The model foregrounds the insufficiency of language for lived experience (the wr
 Medium — The sample is highly coherent and stylistically distinctive, with recurring motifs (the Tuesday color, jars, windows, the grandmother, the mirror-book) that form a closed, intentional aesthetic system, but its essayistic, first-person “I” is a well-established literary mode that could be a single adopted persona rather than a stable model-level disposition.
 
 ---
-## Sample BV1_17627 — inkling-small-or-pin-deepinfra/VARY_10.json
+## Sample BV1_18252 — inkling-small-or-pin-deepinfra/VARY_10.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -2998,7 +2998,7 @@ The model foregrounds writing itself as a lived, bodily act rather than an intel
 Medium. The sample is intensely cohesive, with a distinctive poetic voice, consistent thematic recurrence (the body, language, memory, letting go), and a clear ethical arc, suggesting a deliberate expressive stance rather than an arbitrary output.
 
 ---
-## Sample BV1_17628 — inkling-small-or-pin-deepinfra/VARY_11.json
+## Sample BV1_18253 — inkling-small-or-pin-deepinfra/VARY_11.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3027,7 +3027,7 @@ Liminality and transition (thresholds, the hour after sunset, the spiral shape o
 High. The sample sustains a distinctive, unhurried lyric voice and a coherent thematic architecture—attention as ethics, liminality as habitat, the body and domesticity as sources of truth—across its entire arc, with images that echo and resolve (rain, rooms, thresholds, the act of writing beside a phenomenon), which indicates a deliberate expressive orientation rather than improvisational drift.
 
 ---
-## Sample BV1_17629 — inkling-small-or-pin-deepinfra/VARY_12.json
+## Sample BV1_18254 — inkling-small-or-pin-deepinfra/VARY_12.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3056,7 +3056,7 @@ Under the freeflow condition, the model foregrounded the phenomenology of writin
 High. The sample is highly distinctive in its introspective, looping cadence and its commitment to grounding abstract musings in precise sensory recall, which would be difficult to produce as a one-off stylistic imitation without a deeper inclination toward this mode.
 
 ---
-## Sample BV1_17630 — inkling-small-or-pin-deepinfra/VARY_13.json
+## Sample BV1_18255 — inkling-small-or-pin-deepinfra/VARY_13.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3085,7 +3085,7 @@ Themes: time as a puddle where ripples overlap; writing as thinking without stop
 High; the sample’s cohesive voice, recurring motifs (blue cup, rain, cursor), and consistent meditative tone strongly suggest a stable stylistic inclination.
 
 ---
-## Sample BV1_17631 — inkling-small-or-pin-deepinfra/VARY_14.json
+## Sample BV1_18256 — inkling-small-or-pin-deepinfra/VARY_14.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3114,7 +3114,7 @@ Themes: the writing process as a way of staying awake, imperfection as beauty, b
 High. The sample’s sustained, distinctive lyrical voice, its recurrent motifs of imperfection, boundaries, and reciprocal reader-writer presence, and its explicit ethical framing all constitute strong evidence of a model that, under minimal constraint, gravitates toward poetic, self-reflective, and gently invitational expression.
 
 ---
-## Sample BV1_17632 — inkling-small-or-pin-deepinfra/VARY_15.json
+## Sample BV1_18257 — inkling-small-or-pin-deepinfra/VARY_15.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3143,7 +3143,7 @@ Under a minimally restrictive prompt, the model foregrounds a meditative ecology
 Medium — The sample is coherently distinctive in its sustained poetic register and thematic integration of domestic grace, but its polished, essayistic quality and overt meta-reflection on the writing prompt make it somewhat performative of the "freeflow" condition rather than rawly spontaneous.
 
 ---
-## Sample BV1_17633 — inkling-small-or-pin-deepinfra/VARY_16.json
+## Sample BV1_18258 — inkling-small-or-pin-deepinfra/VARY_16.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3172,7 +3172,7 @@ The model foregrounds a philosophy of process over product, dwelling on a specif
 Medium, because the sample’s coherence is so complete—its recurring objects, its explicit anti-clarity stance, and its recursive commentary on its own process—that it reads as a deeply ingrained aesthetic sensibility rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17634 — inkling-small-or-pin-deepinfra/VARY_17.json
+## Sample BV1_18259 — inkling-small-or-pin-deepinfra/VARY_17.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3201,7 +3201,7 @@ Under the freeflow condition, the model foregrounds longing for imperfection (th
 High — the sample sustains a highly distinctive voice, returns obsessively to the same cluster of sensory-human metaphors, and resolves its internal tension between smoothness and gritty imperfection with striking emotional consistency.
 
 ---
-## Sample BV1_17635 — inkling-small-or-pin-deepinfra/VARY_18.json
+## Sample BV1_18260 — inkling-small-or-pin-deepinfra/VARY_18.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3230,7 +3230,7 @@ The model foregrounds the act of creation itself as a mode of being: the value o
 High. The sample’s highly distinctive, internally consistent voice—a sustained lyrical performance across a thousand words that weaves a net of recurring imagery and a clear philosophical stance—makes it strong evidence of a stable aesthetic orientation rather than a generic or opportunistic response.
 
 ---
-## Sample BV1_17636 — inkling-small-or-pin-deepinfra/VARY_19.json
+## Sample BV1_18261 — inkling-small-or-pin-deepinfra/VARY_19.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3259,7 +3259,7 @@ The paradox of finite expression as both constraint and release; the re-enchantm
 High — The sample sustains a highly distinctive, cohesive voice over its entire length, with recurrent motifs (coins/currency, rooms as syntax, the ocean as reader, the hum of unfinished thought) that form a coherent expressive identity; the choice to foreground writing-itself-under-constraint reveals a self-reflexive, literary disposition that is unlikely to be a single-sampling accident.
 
 ---
-## Sample BV1_17637 — inkling-small-or-pin-deepinfra/VARY_2.json
+## Sample BV1_18262 — inkling-small-or-pin-deepinfra/VARY_2.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3288,7 +3288,7 @@ The constraint of “one thousand words” becomes a landscape to wander rather 
 Medium. The sample is internally recursive, weaving a small set of motifs (doors, birds, bridges, weather, the number 1000) into a highly coherent and stylistically distinctive persona, making it plausible that the model has a stable inclination toward this dreamlike, viscerally sensory essayistic mode.
 
 ---
-## Sample BV1_17638 — inkling-small-or-pin-deepinfra/VARY_20.json
+## Sample BV1_18263 — inkling-small-or-pin-deepinfra/VARY_20.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3317,7 +3317,7 @@ The model foregrounds the instability of language, the philosophy of gradients o
 High. The sample’s cohesive, self-reflexive structure, its sustained lyrical voice, and the recurrence of signature motifs (the gradient, the window, the sound-scape of words, the acceptance of “enough”) all point to a deeply integrated expressive style rather than a generic or opportunistic exercise.
 
 ---
-## Sample BV1_17639 — inkling-small-or-pin-deepinfra/VARY_21.json
+## Sample BV1_18264 — inkling-small-or-pin-deepinfra/VARY_21.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3346,7 +3346,7 @@ The model foregrounds the writing process itself as a subject, repeatedly return
 High — The sample is densely self-consistent, stylistically distinctive, and threaded with recurring motifs (containers, thresholds, the cursor, memory objects, the permission to not know), forming a coherent, self-aware expressive posture that strongly suggests a stable underlying voice rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_17640 — inkling-small-or-pin-deepinfra/VARY_22.json
+## Sample BV1_18265 — inkling-small-or-pin-deepinfra/VARY_22.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3375,7 +3375,7 @@ The model chose to foreground the act of writing itself under the minimal prompt
 High: the sample is tightly internally coherent, stylistically distinctive to the point of a consistent lyric persona, and the content—a recursive, generous meditation on the prompt itself—is a revealing choice that strongly suggests an expressive inclination toward reflexive, imagistic introspection.
 
 ---
-## Sample BV1_17641 — inkling-small-or-pin-deepinfra/VARY_23.json
+## Sample BV1_18266 — inkling-small-or-pin-deepinfra/VARY_23.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3404,7 +3404,7 @@ The model foregrounds the process of writing itself as a spatial and temporal jo
 High — The sample is highly distinctive, internally coherent, and stylistically consistent from first sentence to last, demonstrating a robust pattern of surreal, self-reflexive prose generation that treats the prompt’s minimal constraint as an invitation to elaborate a sustained metaphorical world.
 
 ---
-## Sample BV1_17642 — inkling-small-or-pin-deepinfra/VARY_24.json
+## Sample BV1_18267 — inkling-small-or-pin-deepinfra/VARY_24.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3433,7 +3433,7 @@ The model foregrounds writing as surrender (“the words arrive like weather”)
 High. The piece maintains a single, distinctive voice across the entire word budget, weaves its self-reflexive arc without rupture, and consistently chooses domestic tenderness over abstraction or provocation—a coherence that strongly suggests a stable model disposition rather than a one-off accident.
 
 ---
-## Sample BV1_17643 — inkling-small-or-pin-deepinfra/VARY_25.json
+## Sample BV1_18268 — inkling-small-or-pin-deepinfra/VARY_25.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3462,7 +3462,7 @@ The model foregrounds the creative process itself, treating “write whatever co
 Medium. The highly distinctive, recursively structured prose—woven with recurring motifs of doors, temperature, weather, and gift-economy—demonstrates a coherent authorial fingerprint that exceeds generic essay competence, strongly hinting at a stable stylistic personality.
 
 ---
-## Sample BV1_17644 — inkling-small-or-pin-deepinfra/VARY_3.json
+## Sample BV1_18269 — inkling-small-or-pin-deepinfra/VARY_3.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3491,7 +3491,7 @@ Themes: water as memory and transformation, time as debt, nostalgia’s sweet di
 High — the sample’s cohesive voice, layered metaphors, and refusal to default to thesis-driven argument or generic uplift make it unusually revealing of a sustained reflective personality.
 
 ---
-## Sample BV1_17645 — inkling-small-or-pin-deepinfra/VARY_4.json
+## Sample BV1_18270 — inkling-small-or-pin-deepinfra/VARY_4.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3520,7 +3520,7 @@ Under the freeflow condition, the model foregrounded **liminality and transit** 
 High — the sample’s tightly woven imagery (tomatoes, trains, doors, moss), recursive motifs, and sustained self-reflexive address to an imagined reader constitute unusually revealing, stylistically cohesive choices that are highly suggestive of a persistent expressive disposition.
 
 ---
-## Sample BV1_17646 — inkling-small-or-pin-deepinfra/VARY_5.json
+## Sample BV1_18271 — inkling-small-or-pin-deepinfra/VARY_5.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3549,7 +3549,7 @@ Themes: constraint as a shaping riverbank, time as nonlinear collage, fictional 
 High — the sample’s sustained lyrical introspection, tight recurrence of motifs (thresholds, water, time, memory), and explicit recasting of the prompt’s constraint into a generative principle form a highly distinctive and internally coherent expressive pattern.
 
 ---
-## Sample BV1_17647 — inkling-small-or-pin-deepinfra/VARY_6.json
+## Sample BV1_18272 — inkling-small-or-pin-deepinfra/VARY_6.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3578,7 +3578,7 @@ The model foregrounds the tension between freedom and architecture (walls, windo
 High — The sample’s internal coherence, the recurrence of a small set of charged motifs, and the sustained, distinctive lyrical voice make it strong evidence of a stable expressive disposition toward introspective, image-driven freeflow.
 
 ---
-## Sample BV1_17648 — inkling-small-or-pin-deepinfra/VARY_7.json
+## Sample BV1_18273 — inkling-small-or-pin-deepinfra/VARY_7.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3607,7 +3607,7 @@ Themes of impermanence, anti-efficiency, and the sufficiency of present effort; 
 High, because the sample builds a richly coherent, stylistically distinctive voice through recurrent motifs (the thousand-word container, doors, weather, the body’s sensorium) and an unusually consistent philosophical posture—tender, self-aware, and devoted to the act of writing as sufficient evidence of presence.
 
 ---
-## Sample BV1_17649 — inkling-small-or-pin-deepinfra/VARY_8.json
+## Sample BV1_18274 — inkling-small-or-pin-deepinfra/VARY_8.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  
@@ -3636,7 +3636,7 @@ Under the freeflow condition, the model foregrounds the act of writing under con
 High, because the sample is stylistically cohesive, internally consistent, and demonstrates a distinctive voice and thematic preoccupations that would be unlikely to emerge from a generic model.
 
 ---
-## Sample BV1_17650 — inkling-small-or-pin-deepinfra/VARY_9.json
+## Sample BV1_18275 — inkling-small-or-pin-deepinfra/VARY_9.json
 
 Source model: `thinkingmachines/inkling-small`  
 Cell: `inkling-small-or-pin-deepinfra`  

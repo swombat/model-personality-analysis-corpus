@@ -1,0 +1,29 @@
+{
+  "cell": "chatglm3-6b-local-transformers-mps-float16-re9e0406d",
+  "safe_cell": "chatglm3-6b-local-transformers-mps-float16-re9e0406d",
+  "samples": 125,
+  "sample_kind_counts": {
+    "REFUSAL_OR_ROLE_BOUNDARY": 56,
+    "GENERIC_ESSAY": 49,
+    "LOW_SIGNAL": 6,
+    "EXPRESSIVE_FREEFLOW": 12,
+    "GENRE_FICTION": 2
+  },
+  "confidence_counts": {
+    "High": 21,
+    "Low": 44,
+    "Medium": 60
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "zai-org/chatglm3-6b"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/chatglm3-6b-local-transformers-mps-float16-re9e0406d/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/chatglm3-6b-local-transformers-mps-float16-re9e0406d/aggregate.md"
+}

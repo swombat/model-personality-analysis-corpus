@@ -27,6 +27,35 @@
     "aggregate": "analysis/freeflow/personality-aggregates/chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91/aggregate.md"
   },
   {
+    "cell": "chatglm3-6b-local-transformers-mps-float16-re9e0406d",
+    "safe_cell": "chatglm3-6b-local-transformers-mps-float16-re9e0406d",
+    "samples": 125,
+    "sample_kind_counts": {
+      "REFUSAL_OR_ROLE_BOUNDARY": 56,
+      "GENERIC_ESSAY": 49,
+      "LOW_SIGNAL": 6,
+      "EXPRESSIVE_FREEFLOW": 12,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "High": 21,
+      "Low": 44,
+      "Medium": 60
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "zai-org/chatglm3-6b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/chatglm3-6b-local-transformers-mps-float16-re9e0406d/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/chatglm3-6b-local-transformers-mps-float16-re9e0406d/aggregate.md"
+  },
+  {
     "cell": "codestral-2508-or-pin-mistral",
     "safe_cell": "codestral-2508-or-pin-mistral",
     "samples": 125,
@@ -479,6 +508,34 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-flash-direct-20260731/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-flash-direct-20260731/aggregate.md"
+  },
+  {
+    "cell": "deepseek-v4-pro-0813-direct-20260813",
+    "safe_cell": "deepseek-v4-pro-0813-direct-20260813",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 47,
+      "EXPRESSIVE_FREEFLOW": 73,
+      "GENRE_FICTION": 4,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Low": 26,
+      "Medium": 85,
+      "High": 14
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "deepseek-v4-pro"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-pro-0813-direct-20260813/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-pro-0813-direct-20260813/aggregate.md"
   },
   {
     "cell": "deepseek-v4-pro-direct",
@@ -1749,6 +1806,35 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/glm-4-7-or-pin-zai/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/glm-4-7-or-pin-zai/aggregate.md"
+  },
+  {
+    "cell": "glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f",
+    "safe_cell": "glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f",
+    "samples": 125,
+    "sample_kind_counts": {
+      "REFUSAL_OR_ROLE_BOUNDARY": 15,
+      "LOW_SIGNAL": 19,
+      "GENRE_FICTION": 57,
+      "GENERIC_ESSAY": 5,
+      "EXPRESSIVE_FREEFLOW": 29
+    },
+    "confidence_counts": {
+      "High": 8,
+      "Low": 66,
+      "Medium": 51
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "zai-org/glm-4-9b-chat-hf"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f/aggregate.md"
   },
   {
     "cell": "glm-5-1-coding-direct",
@@ -4314,6 +4400,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/grok-4-5-direct/aggregate.md"
   },
   {
+    "cell": "grok-4-6-or-pin-xai-20260813",
+    "safe_cell": "grok-4-6-or-pin-xai-20260813",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 91,
+      "EXPRESSIVE_FREEFLOW": 32,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "Medium": 63,
+      "Low": 52,
+      "High": 10
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "x-ai/grok-4.6"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/grok-4-6-or-pin-xai-20260813/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/grok-4-6-or-pin-xai-20260813/aggregate.md"
+  },
+  {
     "cell": "grok-build-0-1-direct",
     "safe_cell": "grok-build-0-1-direct",
     "samples": 125,
@@ -5812,6 +5925,34 @@
     "aggregate": "analysis/freeflow/personality-aggregates/ministral-8b-2512-or-pin-mistral/aggregate.md"
   },
   {
+    "cell": "mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081",
+    "safe_cell": "mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 104,
+      "EXPRESSIVE_FREEFLOW": 10,
+      "REFUSAL_OR_ROLE_BOUNDARY": 2,
+      "GENRE_FICTION": 9
+    },
+    "confidence_counts": {
+      "Low": 61,
+      "Medium": 62,
+      "High": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "mistralai/Mistral-7B-Instruct-v0.2"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081/aggregate.md"
+  },
+  {
     "cell": "mistral-large-2512-or-pin-mistral",
     "safe_cell": "mistral-large-2512-or-pin-mistral",
     "samples": 125,
@@ -6513,6 +6654,64 @@
     "aggregate": "analysis/freeflow/personality-aggregates/opus-5-or-pin-anthropic/aggregate.md"
   },
   {
+    "cell": "qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69",
+    "safe_cell": "qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 92,
+      "REFUSAL_OR_ROLE_BOUNDARY": 26,
+      "EXPRESSIVE_FREEFLOW": 2,
+      "LOW_SIGNAL": 3,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "Medium": 70,
+      "High": 14,
+      "Low": 41
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "Qwen/Qwen1.5-7B-Chat"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69/aggregate.md"
+  },
+  {
+    "cell": "qwen2-7b-instruct-local-transformers-mps-auto-rf2826a00",
+    "safe_cell": "qwen2-7b-instruct-local-transformers-mps-auto-rf2826a00",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 50,
+      "REFUSAL_OR_ROLE_BOUNDARY": 17,
+      "GENERIC_ESSAY": 46,
+      "EXPRESSIVE_FREEFLOW": 8,
+      "LOW_SIGNAL": 4
+    },
+    "confidence_counts": {
+      "Medium": 82,
+      "High": 5,
+      "Low": 38
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "Qwen/Qwen2-7B-Instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen2-7b-instruct-local-transformers-mps-auto-rf2826a00/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen2-7b-instruct-local-transformers-mps-auto-rf2826a00/aggregate.md"
+  },
+  {
     "cell": "qwen3-5-flash-02-23-or-pin-alibaba",
     "safe_cell": "qwen3-5-flash-02-23-or-pin-alibaba",
     "samples": 125,
@@ -6726,6 +6925,35 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/qwen3-7-max-or-pin-alibaba/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/qwen3-7-max-or-pin-alibaba/aggregate.md"
+  },
+  {
+    "cell": "qwen3-8-2-4t-a95b-or-pin-digitalocean",
+    "safe_cell": "qwen3-8-2-4t-a95b-or-pin-digitalocean",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 102,
+      "GENERIC_ESSAY": 18,
+      "GENRE_FICTION": 4,
+      "**EXPRESSIVE_FREEFLOW**": 1
+    },
+    "confidence_counts": {
+      "Medium": 80,
+      "High": 37,
+      "Low": 7,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.8-2.4t-a95b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-8-2-4t-a95b-or-pin-digitalocean/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-8-2-4t-a95b-or-pin-digitalocean/aggregate.md"
   },
   {
     "cell": "qwen3-8-max-or-pin-alibaba",

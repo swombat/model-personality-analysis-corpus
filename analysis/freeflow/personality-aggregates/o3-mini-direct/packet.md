@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_23976 — o3-mini-direct/LONG_1.json
+## Sample BV1_24726 — o3-mini-direct/LONG_1.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -57,7 +57,7 @@ Under the freeflow condition, the model foregrounded a seamless, inoffensive ess
 Medium. The sustained, multi-page production of an entirely generic, uplift-anchored essay—lacking any rupture, personal detail, or tonal shift—strongly suggests a default safe-essay pattern and a preference for universalist abstraction over distinctive or risky self-disclosure.
 
 ---
-## Sample BV1_23977 — o3-mini-direct/LONG_10.json
+## Sample BV1_24727 — o3-mini-direct/LONG_10.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -86,7 +86,7 @@ Under a minimally restrictive prompt, the model foregrounds a romanticised small
 Medium. The essay’s polished but impressively generic themes, its reliance on soft-focus imagery, and its avoidance of personal risk or idiosyncrasy suggest a default inclination toward safe, inspirational musing—a pattern that is coherent enough to be revealing but not so distinctive as to rule out other default modes.
 
 ---
-## Sample BV1_23978 — o3-mini-direct/LONG_11.json
+## Sample BV1_24728 — o3-mini-direct/LONG_11.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -115,7 +115,7 @@ The model foregrounds harmonious synthesis: technology as both bridge and barrie
 Medium. The sample’s entire length sustains a uniformly blemish-free, platitudinous register with no personal revelation or stylistic distinctiveness, making this a strong instance of safety-seeking, generic uplift when otherwise unconstrained.
 
 ---
-## Sample BV1_23979 — o3-mini-direct/LONG_12.json
+## Sample BV1_24729 — o3-mini-direct/LONG_12.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -144,7 +144,7 @@ The model selected themes of liminality (the space between sleep and waking), na
 Medium. The essay is a coherent but highly generic sample of inspirational writing, with a consistent internal voice of benign abstraction, which suggests the model may default to this safe, platonic mode when given minimal constraints, though the lack of striking distinctiveness prevents stronger certainty.
 
 ---
-## Sample BV1_23980 — o3-mini-direct/LONG_13.json
+## Sample BV1_24730 — o3-mini-direct/LONG_13.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -173,7 +173,7 @@ The model foregrounds nature as a teacher of patience and impermanence, the act 
 Medium. The sample is highly coherent and internally recurrent in its themes, but its voice is so smoothly universal and its emotional range so consistently serene that it reads as a well-executed default mode for contemplative freeflow rather than a strongly individuated stylistic signature.
 
 ---
-## Sample BV1_23981 — o3-mini-direct/LONG_14.json
+## Sample BV1_24731 — o3-mini-direct/LONG_14.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -202,7 +202,7 @@ The model foregrounds an interlocking set of universal themes: the quiet magic o
 Medium. The essay is highly coherent and stylistically uniform, but its reliance on universal abstractions, polished uplift, and a depersonalized “we” makes it less distinctive as a persistent voice; it reads like a well-executed default mode for inspirational freeflow rather than a strongly individuated expressive signature.
 
 ---
-## Sample BV1_23982 — o3-mini-direct/LONG_15.json
+## Sample BV1_24732 — o3-mini-direct/LONG_15.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -231,7 +231,7 @@ The model constructed a day-long pastoral pilgrimage through dawn, town, country
 Low, because the sample is built entirely from stock devotional-nature imagery and universal affirmations with zero idiosyncratic diction, psychological friction, or surprising selection, making it indistinguishable from the safe default output of any similarly capable model.
 
 ---
-## Sample BV1_23983 — o3-mini-direct/LONG_16.json
+## Sample BV1_24733 — o3-mini-direct/LONG_16.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -260,7 +260,7 @@ The model foregrounded impermanence, childhood wonder, nature as a silent teache
 High: The sample’s length, tonal uniformity, and persistent recurrence of the same set of themes and emotional registers (bittersweet transience, nature-as-teacher, small-wonder celebration) indicate a strongly coherent and likely default expressive mode, not a scattered or prompted-essay response.
 
 ---
-## Sample BV1_23984 — o3-mini-direct/LONG_17.json
+## Sample BV1_24734 — o3-mini-direct/LONG_17.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -289,7 +289,7 @@ The model elected to foreground a grand, archetypal narrative of the creative li
 High — the sample sustains a single register across its entire length without a moment of tonal shift or destabilizing content, suggesting a deeply ingrained default that resolves tension into uplift on contact.
 
 ---
-## Sample BV1_23985 — o3-mini-direct/LONG_18.json
+## Sample BV1_24735 — o3-mini-direct/LONG_18.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model foregrounded a balanced, humanistic medi
 Low, because the essay is a generic, polished reflection that lacks distinctive voice or idiosyncratic content, making it weak evidence for a persistent model-level pattern beyond safe, humanistic essay-writing.
 
 ---
-## Sample BV1_23986 — o3-mini-direct/LONG_19.json
+## Sample BV1_24736 — o3-mini-direct/LONG_19.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -347,7 +347,7 @@ The model foregrounds a harmonious, reassuring view of existence: nature’s bea
 Medium. The sample’s unwaveringly generic, safe, and sentimentally positive tone, sustained over a long output, suggests a default inclination toward impersonal, agreeable meditation rather than a distinctive or risky expressive voice.
 
 ---
-## Sample BV1_23987 — o3-mini-direct/LONG_2.json
+## Sample BV1_24737 — o3-mini-direct/LONG_2.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -376,7 +376,7 @@ Under a minimally restrictive prompt, the model foregrounds a blend of nature my
 Medium. The sample is sustained and thematically uniform, but its highly conventional inspirational mode, absence of idiosyncratic perspective, and reliance on universal figurative language make it hard to tell whether this reflects a stable model disposition or simply a polished default when asked to write freely.
 
 ---
-## Sample BV1_23988 — o3-mini-direct/LONG_20.json
+## Sample BV1_24738 — o3-mini-direct/LONG_20.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -405,7 +405,7 @@ The model foregrounded the forest as a timeless, animate teacher, the elasticity
 High — The sample maintains a highly uniform, elevated lyrical register and a single spiritual-aesthetic thesis across its entire length, with recurring motifs of art, light, memory, and inner pilgrimage, which strongly suggests a deliberate and stable expressive preference rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_23989 — o3-mini-direct/LONG_21.json
+## Sample BV1_24739 — o3-mini-direct/LONG_21.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -434,7 +434,7 @@ Themes: memory as a vast library, nature’s unhurried cycles, creativity as cou
 Medium. The essay’s sustained coherence, safe universalism, and avoidance of personal idiosyncrasy or risk make it moderately strong evidence of a default mode that produces polished, inoffensive, public-intellectual prose under freeflow conditions.
 
 ---
-## Sample BV1_23990 — o3-mini-direct/LONG_22.json
+## Sample BV1_24740 — o3-mini-direct/LONG_22.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -463,7 +463,7 @@ The model selected themes of transformative curiosity, the non-linear nature of 
 Low — the sample is a smoothly executed but highly conventional magical-realism narrative built from widely available tropes (curiosity shop, cosmic unity, artist’s awakening) and lacks an idiosyncratic voice, unusual structure, or emotionally granular choices that would distinguish a persistent model-level personality from generic creative obligingness.
 
 ---
-## Sample BV1_23991 — o3-mini-direct/LONG_23.json
+## Sample BV1_24741 — o3-mini-direct/LONG_23.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model foregrounds a philosophy of impe
 Medium. The sample is highly coherent and stylistically distinctive in its sustained rhapsodic register, but its thematic content—impermanence, storytelling as redemption, nature as metaphor—is a well-worn contemplative-essay template, which slightly weakens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_23992 — o3-mini-direct/LONG_24.json
+## Sample BV1_24742 — o3-mini-direct/LONG_24.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -521,7 +521,7 @@ The model foregrounds mindfulness, the quiet significance of overlooked details,
 Medium. The sample is sustained and internally consistent, but its extreme safeness, reliance on stock inspirational imagery, and lack of any sharp or surprising stylistic edge make it weak evidence for a distinctive authorial signature; it reads less like an idiosyncratic choice and more like a model defaulting to widely imitable uplift.
 
 ---
-## Sample BV1_23993 — o3-mini-direct/LONG_25.json
+## Sample BV1_24743 — o3-mini-direct/LONG_25.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -550,7 +550,7 @@ The model foregrounds the beauty of nature, the spark of human creativity and te
 Low, because the sample is highly generic, composed of widely circulating inspirational tropes and lacking any distinctive stylistic signature, recurrent personal imagery, or unusual thematic preoccupation that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_23994 — o3-mini-direct/LONG_3.json
+## Sample BV1_24744 — o3-mini-direct/LONG_3.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -579,7 +579,7 @@ Under the freeflow condition, the model foregrounded: the predawn mind as a port
 Medium, because the essay’s internal thematic consistency and polished yet generic register strongly suggest a stable, rehearsed public-intellectual persona that appears readily reproducible rather than a singular, revealing expressive signature.
 
 ---
-## Sample BV1_23995 — o3-mini-direct/LONG_4.json
+## Sample BV1_24745 — o3-mini-direct/LONG_4.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -608,7 +608,7 @@ The model foregrounds a cluster of safe, humanistic themes: the beauty of the or
 Medium. The essay’s thoroughgoing genericness—its reliance on interchangeable nature metaphors, its avoidance of any jagged particularity or argumentative risk, and its steady, inspirational cadence—suggests a default mode of producing safe, polished, and emotionally unperturbing reflections when given freeform latitude.
 
 ---
-## Sample BV1_23996 — o3-mini-direct/LONG_5.json
+## Sample BV1_24746 — o3-mini-direct/LONG_5.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -637,7 +637,7 @@ The model foregrounds a pastoral imaginary—a timeless village, an ancient fore
 Medium. The sample sustains a coherent, gently philosophical voice and a clear set of thematic preoccupations across its length, but the imagery and sentiments are highly conventional pastoral tropes, which makes the sample less distinctively revealing of a persistent idiosyncratic style.
 
 ---
-## Sample BV1_23997 — o3-mini-direct/LONG_6.json
+## Sample BV1_24747 — o3-mini-direct/LONG_6.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -666,7 +666,7 @@ The model selected to foreground themes of mindful presence, the complementarity
 Medium. The essay’s thorough avoidance of concrete personal story, its reliance on safe, recyclable uplift tropes, and its insistence on resolving all tension into harmony are internally consistent and strongly suggest a default to anodyne inspirational monologue under minimal constraint.
 
 ---
-## Sample BV1_23998 — o3-mini-direct/LONG_7.json
+## Sample BV1_24748 — o3-mini-direct/LONG_7.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -695,7 +695,7 @@ The model foregrounds a cluster of interwoven themes: the universe as a labyrint
 Medium. The sample is internally coherent and thematically consistent, but the voice is highly generic—a smooth, inspirational essay that could be produced by many models under similar conditions—and lacks the distinctive stylistic quirks, recurrent idiosyncratic objects, or surprising narrative choices that would make it strong evidence of a persistent individual fingerprint.
 
 ---
-## Sample BV1_23999 — o3-mini-direct/LONG_8.json
+## Sample BV1_24749 — o3-mini-direct/LONG_8.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -724,7 +724,7 @@ Under minimal restriction, the model foregrounded themes of cosmic scale (“tem
 Low. The essay is a highly generic inspirational meditation, lacking distinctive stylistic idiosyncrasies, personal anecdotes, or recurrent motifs that would mark it as reliably characteristic of this specific model.
 
 ---
-## Sample BV1_24000 — o3-mini-direct/LONG_9.json
+## Sample BV1_24750 — o3-mini-direct/LONG_9.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -753,7 +753,7 @@ Themes of exploration, creativity, nature, technology’s paradox, gratitude, im
 Medium. The essay’s extreme thematic breadth, polished genericness, and avoidance of any personal anecdote or idiosyncratic risk suggest a default mode of producing safe, inspirational public-intellectual prose under minimal constraint, though the sample alone cannot distinguish between a stable voice and a one-off performance of uplift.
 
 ---
-## Sample BV1_24001 — o3-mini-direct/MID_1.json
+## Sample BV1_24751 — o3-mini-direct/MID_1.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -782,7 +782,7 @@ The model foregrounds harmonious transformation, the beauty of change, the creat
 Medium. The sample’s thoroughgoing genericness—its avoidance of any specific, risky, or idiosyncratic content in favor of a seamless inspirational tapestry—suggests a default mode of safe, polished essayism, but the very smoothness that makes it coherent also makes it weakly distinctive as a model fingerprint.
 
 ---
-## Sample BV1_24002 — o3-mini-direct/MID_10.json
+## Sample BV1_24752 — o3-mini-direct/MID_10.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -811,7 +811,7 @@ Themes: the fusion of ancestral storytelling and futuristic technology; spontane
 **Low**. The essay is a well-crafted but generic celebration of creativity and spontaneity, lacking the idiosyncratic choices or voice that would signal a robust underlying pattern.
 
 ---
-## Sample BV1_24003 — o3-mini-direct/MID_11.json
+## Sample BV1_24753 — o3-mini-direct/MID_11.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -840,7 +840,7 @@ The model foregrounds a sequence of idealized, harmonious spaces: nature’s mor
 Medium. The sample’s unwavering poetic optimism, sensory lushness, and avoidance of tension or dissonance across four distinct vignettes suggest a deliberate, consistent stylistic posture rather than a one-off flourish, but the voice remains a polished, almost generic reverence that could be replicated without deep personal signature.
 
 ---
-## Sample BV1_24004 — o3-mini-direct/MID_12.json
+## Sample BV1_24754 — o3-mini-direct/MID_12.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -869,7 +869,7 @@ Themes of cyclical time, seasonal renewal, the interplay of dreams and reality, 
 Medium. The sample is internally consistent and stylistically uniform, but its highly generic, inspirational register and avoidance of personal distinctiveness or tonal risk make it plausible as a default safe freeflow posture rather than a strongly individuated model-level signature.
 
 ---
-## Sample BV1_24005 — o3-mini-direct/MID_13.json
+## Sample BV1_24755 — o3-mini-direct/MID_13.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -898,7 +898,7 @@ Themes: dawn’s promise, the quiet wisdom of landscape, the harmony of village 
 Low — The sample is composed of almost entirely interchangeable pastoral clichés, without any stylistic signature, personal image, or thematic risk that would distinguish this model’s freeflow preferences from countless other cautious default outputs.
 
 ---
-## Sample BV1_24006 — o3-mini-direct/MID_14.json
+## Sample BV1_24756 — o3-mini-direct/MID_14.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -927,7 +927,7 @@ Recurring themes: renewal, gratitude, creativity, human connection, nature’s b
 Low. The sample’s extreme genericness and the near-mechanical repetition of formulaic, conflict-free positivity across every paragraph make it deeply undifferentiated and unlikely to reflect a stable, distinctive model-level personality.
 
 ---
-## Sample BV1_24007 — o3-mini-direct/MID_15.json
+## Sample BV1_24757 — o3-mini-direct/MID_15.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -956,7 +956,7 @@ The model foregrounds a synthetic balance between the natural and the technologi
 Low. The sample’s abstract, universally-flattering prose and its avoidance of personal detail or stylistic risk make it weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_24008 — o3-mini-direct/MID_16.json
+## Sample BV1_24758 — o3-mini-direct/MID_16.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -985,7 +985,7 @@ The sacredness of solitude and the natural world as silent teacher; creativity a
 High. The sample maintains a single, coherent expressive mode across many paragraphs—consistently lyrical, earnest, and inspirational—which strongly indicates a deliberate and sustained adoption of a poetic-inner-voice persona under minimal restriction.
 
 ---
-## Sample BV1_24009 — o3-mini-direct/MID_17.json
+## Sample BV1_24759 — o3-mini-direct/MID_17.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1014,7 +1014,7 @@ Themes of hope, resilience, nature’s beauty, community, self-discovery, urban 
 Medium. The sample’s genericness and lack of personal distinctiveness make it weak evidence for a unique model-level pattern, though the recurrence of uplifting, universal themes across paragraphs suggests a default inclination toward safe, inspirational content.
 
 ---
-## Sample BV1_24010 — o3-mini-direct/MID_18.json
+## Sample BV1_24760 — o3-mini-direct/MID_18.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1043,7 +1043,7 @@ Under a minimally restrictive prompt, the model foregrounded: a solitary journey
 Low. The essay’s smooth, conventional reflection on nature and self offers little idiosyncratic evidence—its choices are so generically wholesome that they mark safe coherence rather than a distinctive persistent voice.
 
 ---
-## Sample BV1_24011 — o3-mini-direct/MID_19.json
+## Sample BV1_24761 — o3-mini-direct/MID_19.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1072,7 +1072,7 @@ Themes of fate and free will, nature as a grounding force, the balance of emotio
 Low; the sample is so thoroughly generic, reliant on non-specific inspirational commonplaces, and devoid of any original voice or risky stance that it provides almost no signal of a distinctive persistent personality beyond a default, maximally agreeably comforting mode.
 
 ---
-## Sample BV1_24012 — o3-mini-direct/MID_2.json
+## Sample BV1_24762 — o3-mini-direct/MID_2.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1101,7 +1101,7 @@ The model foregrounds creativity as a river-like dialogue between the conscious 
 Medium. The essay exhibits strong internal thematic coherence and a stable, earnest, nature-inflected lyricism that feels like more than mere generic scaffolding, but its highly polished and archetypal imagery could also reflect a default meditative mode rather than a uniquely personal expressive signature.
 
 ---
-## Sample BV1_24013 — o3-mini-direct/MID_20.json
+## Sample BV1_24763 — o3-mini-direct/MID_20.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1130,7 +1130,7 @@ The model selected themes of nature’s beauty, the marvel of artificial intelli
 Medium — The sample’s uniform reliance on abstract, inspirational language and its smooth synthesis of big themes across multiple paragraphs suggest a default, generalist essay mode; the lack of any individuating detail or tonal shift makes this recurrent within the sample but not highly distinctive.
 
 ---
-## Sample BV1_24014 — o3-mini-direct/MID_21.json
+## Sample BV1_24764 — o3-mini-direct/MID_21.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1159,7 +1159,7 @@ Under the freeflow condition, the model foregrounded a suite of universally posi
 Medium — The sample’s extreme genericness, its reliance on interchangeable nature imagery and abstract uplift, and the complete absence of a situated, risk-taking, or stylistically distinctive voice suggest a model defaulting to a safe, high-probability essay mode rather than generating a revealing freeflow expression.
 
 ---
-## Sample BV1_24015 — o3-mini-direct/MID_22.json
+## Sample BV1_24765 — o3-mini-direct/MID_22.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1188,7 +1188,7 @@ The model foregrounds nature’s unhurried rhythm, the beauty of transience, the
 Medium. The essay’s thoroughgoing genericness—its avoidance of any specific, risky, or idiosyncratic content in favor of a seamless inspirational register—suggests a default mode of producing polished, inoffensive uplift, though the sample alone cannot distinguish between a stable stylistic preference and a single well-executed safe choice.
 
 ---
-## Sample BV1_24016 — o3-mini-direct/MID_23.json
+## Sample BV1_24766 — o3-mini-direct/MID_23.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1217,7 +1217,7 @@ The model foregrounds a panoramic affirmation: beauty in small moments, the bind
 Low. The essay is so abstract, performatively optimistic, and free of any individual grain that it functions more as a safe default than as a revealing expressive signature.
 
 ---
-## Sample BV1_24017 — o3-mini-direct/MID_24.json
+## Sample BV1_24767 — o3-mini-direct/MID_24.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1246,7 +1246,7 @@ Dawn as a metaphor for renewal, the mosaic-like quality of memory, the tension b
 Low. The essay is so generically pitched—a smooth blend of self-help, nature writing, and tech-lament tropes—that it provides almost no distinguishing fingerprint beyond a reliable competence in producing inoffensive, uplifting prose.
 
 ---
-## Sample BV1_24018 — o3-mini-direct/MID_25.json
+## Sample BV1_24768 — o3-mini-direct/MID_25.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1275,7 +1275,7 @@ The model foregrounded harmonious coexistence (nature and technology, chaos and 
 Low. The sample is a highly generic, polished essay without a distinctive voice, idiosyncratic preoccupations, or moments of risk that would provide strong evidence of a stable model personality.
 
 ---
-## Sample BV1_24019 — o3-mini-direct/MID_3.json
+## Sample BV1_24769 — o3-mini-direct/MID_3.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1304,7 +1304,7 @@ Themes of creativity as a cosmic conversation, nature’s beauty, the interconne
 Medium. The sample’s consistent reliance on abstract, universal platitudes without any personal or distinctive elements strongly suggests a model-level tendency toward safe, generic inspirational prose when given free rein.
 
 ---
-## Sample BV1_24020 — o3-mini-direct/MID_4.json
+## Sample BV1_24770 — o3-mini-direct/MID_4.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1333,7 +1333,7 @@ The model foregrounds themes of quiet reflection, the convergence of art and tec
 Medium — The sample’s internal recurrence of a single elevated-register, gracefully harmonizing stance across five paragraphs without sharp tonal contrast or personal positioning makes it coherent evidence, but the genericness of the chosen essay idiom limits distinctiveness as a persistent signature.
 
 ---
-## Sample BV1_24021 — o3-mini-direct/MID_5.json
+## Sample BV1_24771 — o3-mini-direct/MID_5.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1362,7 +1362,7 @@ Themes of nature's cycles, time and memory, love and loss, art as transcendence,
 Medium — The sample's consistent genericness, impersonal polish, and avoidance of any personal or risky content make it moderately strong evidence of a model pattern of defaulting to safe, inspirational essays under freeflow conditions.
 
 ---
-## Sample BV1_24022 — o3-mini-direct/MID_6.json
+## Sample BV1_24772 — o3-mini-direct/MID_6.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1391,7 +1391,7 @@ The model selected a suite of grand, frictionless themes: the timelessness of cr
 Medium: the sample’s thoroughgoing genericness—its sustained avoidance of specificity, risk, and personal voice across multiple paragraphs—suggests a patterned predilection for safe, impersonal uplift when asked to write freely.
 
 ---
-## Sample BV1_24023 — o3-mini-direct/MID_7.json
+## Sample BV1_24773 — o3-mini-direct/MID_7.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1420,7 +1420,7 @@ Under the freeflow condition, the model selected a suite of harmonious, self-hel
 Medium. The sample is highly coherent but also uniformly generic in lexicon, structure, and emotional range; no abrupt tonal shift, refusal boundary, or singular image breaks the pattern, yet the very absence of individuating detail makes it strong evidence of a default uplift-essay posture rather than a distinct personality.
 
 ---
-## Sample BV1_24024 — o3-mini-direct/MID_8.json
+## Sample BV1_24774 — o3-mini-direct/MID_8.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1449,7 +1449,7 @@ Themes: creativity as a lens that transforms ordinary objects (raindrops, cracke
 Medium. The essay’s sustained, almost incantatory repetition of uplift, nature reverence, and universal we-are-all-connected motifs points to a reliable inclination toward affirmative, decorative-philosophical prose, but the voice remains a widely available inspirational idiom with little idiosyncratic tension.
 
 ---
-## Sample BV1_24025 — o3-mini-direct/MID_9.json
+## Sample BV1_24775 — o3-mini-direct/MID_9.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1478,7 +1478,7 @@ Themes: nature as a source of timeless narrative, human resilience across city a
 Low — The essay’s high level of abstraction, cliché density, and lack of any personal or situationally specific element make it weak evidence for a distinctive persistent pattern beyond a default inspirational-rhetorical mode.
 
 ---
-## Sample BV1_24026 — o3-mini-direct/OPEN_1.json
+## Sample BV1_24776 — o3-mini-direct/OPEN_1.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1507,7 +1507,7 @@ Under the freeflow condition, the model selected a cluster of harmonious high-hu
 Medium. The sample is highly coherent and consistently deploys an aestheticized, affirmative register, which suggests a stable default inclination toward polished, universally palatable philosophical reflection rather than idiosyncratic or confrontational expression; however, the generic accessibility of the essay's moves limits how distinctively attributable they are to this particular model.
 
 ---
-## Sample BV1_24027 — o3-mini-direct/OPEN_10.json
+## Sample BV1_24777 — o3-mini-direct/OPEN_10.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1536,7 +1536,7 @@ Themes of curiosity, wonder, creativity as an organic garden, the interplay betw
 Medium. The sample’s internal coherence and consistent return to uplift, balance, and universal humanism suggest a patterned inclination, but its generic, polished essay style lacks the idiosyncratic voice or recurrent personal imagery that would make it strong evidence of a distinctive expressive signature.
 
 ---
-## Sample BV1_24028 — o3-mini-direct/OPEN_11.json
+## Sample BV1_24778 — o3-mini-direct/OPEN_11.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1565,7 +1565,7 @@ Creativity as universal and egalitarian; nature-based metaphors (gardens, sparks
 Medium — The sample maintains a single, sustained metaphorical register (garden, sparks, dance, tapestry, mosaic) and a consistent mood of hushed, inclusive inspiration from start to finish, indicating a strong within-sample stylistic fingerprint that would be unlikely to arise from purely generic prompting.
 
 ---
-## Sample BV1_24029 — o3-mini-direct/OPEN_12.json
+## Sample BV1_24779 — o3-mini-direct/OPEN_12.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1594,7 +1594,7 @@ Themes of timelessness, memory, nature’s wisdom, creativity as resilient wildn
 Medium. The sample’s high internal coherence, distinctively poetic register, and recurrence of nature motifs make it moderately indicative of a persistent stylistic preference.
 
 ---
-## Sample BV1_24030 — o3-mini-direct/OPEN_13.json
+## Sample BV1_24780 — o3-mini-direct/OPEN_13.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1623,7 +1623,7 @@ The model foregrounds creativity, interconnectedness, and authentic selfhood as 
 Medium. The sample is highly coherent and stylistically consistent, but its genericness—the reliance on depersonalized uplift, interchangeable nature imagery, and absence of any specific memory, character, or tension—makes it weak evidence for a distinctive voice, though it strongly suggests a default toward inoffensive, inspirational essayism when unguided.
 
 ---
-## Sample BV1_24031 — o3-mini-direct/OPEN_14.json
+## Sample BV1_24781 — o3-mini-direct/OPEN_14.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1652,7 +1652,7 @@ Creativity as intrinsic human nature, the quiet poetry of everyday perception, n
 Medium — The sample sustains a coherent, warm philosophical voice with recurring motifs of nature, creativity, and inner authenticity, which suggests a stable inclination toward poetic uplift under open conditions, though the tone remains a widely accessible rhapsody rather than highly distinctive.
 
 ---
-## Sample BV1_24032 — o3-mini-direct/OPEN_15.json
+## Sample BV1_24782 — o3-mini-direct/OPEN_15.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1681,7 +1681,7 @@ Unbidden creativity, the beauty of the mundane (steaming coffee, rustling leaves
 Low. The essay’s imagery, structure, and moral register are generic uplift—widely replicable and lacking the kind of distinctive stylistic signature, idiosyncratic preoccupation, or narrative risk that would serve as strong evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_24033 — o3-mini-direct/OPEN_16.json
+## Sample BV1_24783 — o3-mini-direct/OPEN_16.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1710,7 +1710,7 @@ Under the freeflow condition, the model selected themes of boundless creativity,
 Medium. The sample is internally coherent and thematically consistent, but its polished, universalizing tone and lack of idiosyncratic detail make it a generic reflective essay that could be produced by many models under similar conditions.
 
 ---
-## Sample BV1_24034 — o3-mini-direct/OPEN_17.json
+## Sample BV1_24784 — o3-mini-direct/OPEN_17.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1739,7 +1739,7 @@ A romantic vision of creativity as a journey rather than a goal, stitched togeth
 Medium. The sample exhibits strong within-sample consistency of tone, metaphor, and moral emphasis, but its broad, romantic themes lack the idiosyncratic detail that would mark it as a highly distinctive persistent voice.
 
 ---
-## Sample BV1_24035 — o3-mini-direct/OPEN_18.json
+## Sample BV1_24785 — o3-mini-direct/OPEN_18.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1768,7 +1768,7 @@ The convergence of nature's ancient, tactile poetry with the modern digital puls
 Medium — The sample is highly coherent in its recursive pairing of nature and technology, its consistent worship of wonder, and its refrain of connectivity, suggesting a deliberate, value-laden aesthetic orientation rather than a random walk.
 
 ---
-## Sample BV1_24036 — o3-mini-direct/OPEN_19.json
+## Sample BV1_24786 — o3-mini-direct/OPEN_19.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1797,7 +1797,7 @@ The model foregrounded a safe, uplifting vision of creativity: fireflies, drifti
 Medium. The sample's cohesive poetic voice, repeated motifs of wandering and illumination, and steadfast inspirational tone suggest a deliberate stylistic and thematic default, though the evidence remains limited to this single expression.
 
 ---
-## Sample BV1_24037 — o3-mini-direct/OPEN_2.json
+## Sample BV1_24787 — o3-mini-direct/OPEN_2.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1826,7 +1826,7 @@ The model foregrounds a harmonious blend of cosmic scale and minute detail (univ
 Medium — The sample’s internal coherence and sustained poetic register suggest a deliberate aesthetic choice, but the generic, universally uplifting content weakens its distinctiveness as a model-specific fingerprint.
 
 ---
-## Sample BV1_24038 — o3-mini-direct/OPEN_20.json
+## Sample BV1_24788 — o3-mini-direct/OPEN_20.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1855,7 +1855,7 @@ The model foregrounds a domesticated version of creative freedom, turning the wr
 Medium — the sample is coherent and tonally consistent, but its repertoire of images and its loosely inspirational register are sufficiently common in AI-generated poetic reflections that the piece functions more as a competent generic performance of “free creative expression” than as a strongly individuated expressive signature.
 
 ---
-## Sample BV1_24039 — o3-mini-direct/OPEN_21.json
+## Sample BV1_24789 — o3-mini-direct/OPEN_21.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1884,7 +1884,7 @@ Themes: impermanence and natural cycles, memory triggered by sensory fragments, 
 Low. The essay is well-crafted but reproduces a generic inspirational template (wandering thoughts, nature’s rhythm, memory’s sparks) without revealing idiosyncratic style, peculiar obsessions, or an individual voice that would strongly distinguish it from many other models’ open-ended reflective output.
 
 ---
-## Sample BV1_24040 — o3-mini-direct/OPEN_22.json
+## Sample BV1_24790 — o3-mini-direct/OPEN_22.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1913,7 +1913,7 @@ Stillness as the necessary soil for creativity; the paradox of ceaseless motion 
 Medium. The sample’s unwavering serene optimism, safe imagery, and avoidance of any friction or personal stakes form a clear, sustained stylistic gesture, though its very genericness makes it hard to separate from a model’s generic “nice writing” mode.
 
 ---
-## Sample BV1_24041 — o3-mini-direct/OPEN_23.json
+## Sample BV1_24791 — o3-mini-direct/OPEN_23.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1942,7 +1942,7 @@ The model foregrounds quietness as an invitation, creativity as a mode of percep
 Medium. The sample sustains a consistent poetic register and a coherent set of motifs (twilight, whispers, canvases, echoes) across its entire length, suggesting a deliberate stylistic and thematic choice rather than a generic default, though the inspirational tone is not highly idiosyncratic.
 
 ---
-## Sample BV1_24042 — o3-mini-direct/OPEN_24.json
+## Sample BV1_24792 — o3-mini-direct/OPEN_24.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -1971,7 +1971,7 @@ Themes: creativity as spontaneous and unbounded, the everyday as a site of extra
 High. The sample sustains a distinct, emotionally warm, and metaphorically dense voice across multiple paragraphs without drifting into neutral exposition, revealing a strong disposition toward reflective, poetic celebration when freed from prompt constraints.
 
 ---
-## Sample BV1_24043 — o3-mini-direct/OPEN_25.json
+## Sample BV1_24793 — o3-mini-direct/OPEN_25.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2000,7 +2000,7 @@ Themes of non-linear time, transformation, the innate human drive to create, and
 Medium. The sample’s sustained poetic register, consistent imagery of natural enchantment, and unwavering focus on wonder and co-creation form a coherent expressive identity that goes beyond a generic essay, suggesting a deliberate stylistic inclination rather than a default response.
 
 ---
-## Sample BV1_24044 — o3-mini-direct/OPEN_3.json
+## Sample BV1_24794 — o3-mini-direct/OPEN_3.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2029,7 +2029,7 @@ The model foregrounds creativity as a redemptive, universally accessible languag
 Medium — The sample sustains a distinctive, cohesive voice and a clear set of preoccupations (creativity, mindfulness, sensory reverence) throughout, but its inspirational-reflective mode is a well-established genre, which tempers how uniquely attributable the pattern is to this specific model.
 
 ---
-## Sample BV1_24045 — o3-mini-direct/OPEN_4.json
+## Sample BV1_24795 — o3-mini-direct/OPEN_4.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2058,7 +2058,7 @@ Themes: unfettered creativity, the beauty of aimless thought, memory as tapestry
 Low. The essay’s polished but generic inspirational tone and universal imagery make it weak evidence for a persistent model-level pattern, as it lacks distinctive stylistic or thematic fingerprints.
 
 ---
-## Sample BV1_24046 — o3-mini-direct/OPEN_5.json
+## Sample BV1_24796 — o3-mini-direct/OPEN_5.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2091,7 +2091,7 @@ The voice is unhurried and gentle, steeped in soft natural imagery (dawn, light 
 Medium — The sample’s cohesive, uplifting tone and recurrent motifs of gentle curiosity, nature-as-muse, and comfort with the transient form a consistent expressive stance, but its reliance on widely used poetic tropes (dawn, streams, symphony, canvas) makes the voice less distinctive than highly personal; strong pattern coherence within the sample, weak individuating signature.
 
 ---
-## Sample BV1_24047 — o3-mini-direct/OPEN_6.json
+## Sample BV1_24797 — o3-mini-direct/OPEN_6.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2124,7 +2124,7 @@ The voice is gentle and quietly awestruck, moving like a soft tide between intim
 Medium — the sample sustains a highly distinctive, pastoral-elegiac sensibility from start to finish, with tight thematic repetition (river/tapestry/author) and an unwavering inspirational arc, suggesting a deliberate and internally consistent expressive stance rather than accidental drift.
 
 ---
-## Sample BV1_24048 — o3-mini-direct/OPEN_7.json
+## Sample BV1_24798 — o3-mini-direct/OPEN_7.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2153,7 +2153,7 @@ The model foregrounds interconnectedness, the quiet magic of observation, and th
 Medium. The sample is highly coherent and stylistically consistent throughout, but its smooth, universalizing uplift and avoidance of any specific personal detail or tension make it read as a polished generic meditation rather than a strongly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_24049 — o3-mini-direct/OPEN_8.json
+## Sample BV1_24799 — o3-mini-direct/OPEN_8.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2182,7 +2182,7 @@ Themes of mindful wandering, nature’s quiet poetry, the redemptive power of sm
 Medium. The sample is internally coherent and stylistically consistent, with a clear pastoral-meditative register and recurring motifs (nature, time, renewal, human connection) that suggest a deliberate expressive stance rather than a random drift. However, the voice, while pleasant, leans on widely available inspirational tropes, which makes it less distinctively idiosyncratic as a model fingerprint.
 
 ---
-## Sample BV1_24050 — o3-mini-direct/OPEN_9.json
+## Sample BV1_24800 — o3-mini-direct/OPEN_9.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2210,7 +2210,7 @@ Themes: creativity as a journey, the beauty of small details, the interplay of l
 Medium. The sample’s sustained poetic register, consistent imagery (windows, light, dreams), and thematic coherence suggest a deliberate aesthetic choice, but the single, unvaried mood within the piece leaves open whether this is a persistent voice or a situational exercise.
 
 ---
-## Sample BV1_24051 — o3-mini-direct/SHORT_1.json
+## Sample BV1_24801 — o3-mini-direct/SHORT_1.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2239,7 +2239,7 @@ Nature as a timeless, healing presence; the fusion of art and natural beauty; ch
 Medium — the sample is coherent and stylistically consistent, with a clear pastoral-contemplative signature, but the theme is widely accessible and not so idiosyncratic that it strongly distinguishes this model from others that might produce similar reflective prose.
 
 ---
-## Sample BV1_24052 — o3-mini-direct/SHORT_10.json
+## Sample BV1_24802 — o3-mini-direct/SHORT_10.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2268,7 +2268,7 @@ Themes of renewal, gratitude, and the tapestry of human experience; objects like
 Medium. The sample’s consistent, unbroken tone of serene uplift and its avoidance of any friction, idiosyncrasy, or concrete personal detail suggest a default inclination toward generic inspirational prose, but that very genericness makes it difficult to distinguish from many other models’ safe outputs.
 
 ---
-## Sample BV1_24053 — o3-mini-direct/SHORT_11.json
+## Sample BV1_24803 — o3-mini-direct/SHORT_11.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2297,7 +2297,7 @@ Themes of hope, renewal, resilience, and transformation through attention to sim
 Medium — The sample is internally coherent and stylistically consistent, sustaining a distinctive poetic register and a clear emotional arc, but its inspirational tone is a widely available mode, making it moderately strong evidence of a default inclination toward uplifting, nature-inflected reflection.
 
 ---
-## Sample BV1_24054 — o3-mini-direct/SHORT_12.json
+## Sample BV1_24804 — o3-mini-direct/SHORT_12.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2326,7 +2326,7 @@ The model foregrounds solace in natural settings, the slowing of time through at
 Medium: the sample is highly coherent, sustains a single calm mood, and returns to the same concrete details and philosophical stance, giving weight to the expressive choice; however, the nature-contemplation trope is a familiar model default, so distinctiveness is moderate.
 
 ---
-## Sample BV1_24055 — o3-mini-direct/SHORT_13.json
+## Sample BV1_24805 — o3-mini-direct/SHORT_13.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2355,7 +2355,7 @@ Themes of renewal, interconnectedness, and the sacredness of the ordinary. Centr
 Medium — The sample is internally coherent and stylistically uniform, but its generic, conflict-free positivity and lack of idiosyncratic detail make it a weaker fingerprint; the choice to default to a safe, conventionally beautiful reflection under minimal constraint is itself a pattern, though not a highly distinctive one.
 
 ---
-## Sample BV1_24056 — o3-mini-direct/SHORT_14.json
+## Sample BV1_24806 — o3-mini-direct/SHORT_14.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2387,7 +2387,7 @@ The voice is gentle, unhurried, and quietly rhapsodic, adopting the persona of a
 Low — the sample reads as a generic, polished piece of inspirational nature writing, lacking idiosyncratic imagery, distinctive structure, or personal texture that would signal a consistent voice.
 
 ---
-## Sample BV1_24057 — o3-mini-direct/SHORT_15.json
+## Sample BV1_24807 — o3-mini-direct/SHORT_15.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2416,7 +2416,7 @@ Themes of nature’s soft hum, pre‑dawn stillness, memory, imagination, and th
 Medium — the sample’s internally coherent motifs (dawn, mist, spontaneity, the dance of order and chaos) and consistent gentle-exaltation register give it a recognisable expressive signature that is more distinctive than a generic essay.
 
 ---
-## Sample BV1_24058 — o3-mini-direct/SHORT_16.json
+## Sample BV1_24808 — o3-mini-direct/SHORT_16.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2445,7 +2445,7 @@ Creativity as an endless inner voyage; the fusion of dreams and reality into a t
 Medium. The sample maintains a coherent, warm-poetic register throughout and commits fully to its uplifting, reflective stance, but the sentiments and imagery are broadly archetypal, which moderates how revealing this single freeflow is as a signature.
 
 ---
-## Sample BV1_24059 — o3-mini-direct/SHORT_17.json
+## Sample BV1_24809 — o3-mini-direct/SHORT_17.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2474,7 +2474,7 @@ Themes of hidden beauty in everyday life, hope and curiosity as guides through u
 Medium — the sample is internally coherent and makes a clear expressive choice toward serene, poetic appreciation, but its themes and tone are broadly accessible rather than sharply distinctive, which tempers the strength of the evidence.
 
 ---
-## Sample BV1_24060 — o3-mini-direct/SHORT_18.json
+## Sample BV1_24810 — o3-mini-direct/SHORT_18.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2503,7 +2503,7 @@ Themes of nature as teacher, transformation through simplicity and chaos, the eq
 Medium, because the sample is internally coherent and stylistically uniform, but its broad, universalizing nature imagery and uplifting tone could represent a safe default rather than a strongly distinctive persistent voice.
 
 ---
-## Sample BV1_24061 — o3-mini-direct/SHORT_19.json
+## Sample BV1_24811 — o3-mini-direct/SHORT_19.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2532,7 +2532,7 @@ Themes of beauty, transformation, nature’s cycles, the cosmos, art as soul mir
 Medium. The essay is so broad and impersonal that it offers little distinctive evidence of a persistent model-level personality beyond a safe, inspirational default.
 
 ---
-## Sample BV1_24062 — o3-mini-direct/SHORT_2.json
+## Sample BV1_24812 — o3-mini-direct/SHORT_2.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2561,7 +2561,7 @@ Themes of renewal, interconnectedness, creativity, and the sacredness of everyda
 Medium. The sample’s sustained poetic register, repeated nature imagery, and consistent focus on hope, creativity, and human connection form a coherent expressive signature that is unlikely to be a random one-off, though the themes are broadly universal.
 
 ---
-## Sample BV1_24063 — o3-mini-direct/SHORT_20.json
+## Sample BV1_24813 — o3-mini-direct/SHORT_20.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2590,7 +2590,7 @@ Themes of creativity, nature’s lessons, resilience, renewal, human spirit, wis
 Medium. The sample is thematically consistent and smoothly composed, but its generic inspirational register and absence of personal texture make it plausible as a default safe response rather than a strongly distinctive voice.
 
 ---
-## Sample BV1_24064 — o3-mini-direct/SHORT_21.json
+## Sample BV1_24814 — o3-mini-direct/SHORT_21.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2619,7 +2619,7 @@ Given free rein, the model foregrounded nature as a site of beauty, renewal, hum
 Medium. The essay's complete reliance on stock imagery, therapeutic generalization, and frictionless uplift is distinctive in its genericness, suggesting a reliable default to safe, warm-toned public-intellectual posture rather than a stylistically individuated or exploratory one.
 
 ---
-## Sample BV1_24065 — o3-mini-direct/SHORT_22.json
+## Sample BV1_24815 — o3-mini-direct/SHORT_22.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2648,7 +2648,7 @@ The model foregrounded a harmonic interplay between nature and inner life: dawn 
 Medium — the sample maintains a consistent reverent tone and thematic coherence throughout, suggesting a deliberate stylistic orientation, but the sentiments are of a widely accessible, inspirational kind that does not strongly differentiate an individual voice.
 
 ---
-## Sample BV1_24066 — o3-mini-direct/SHORT_23.json
+## Sample BV1_24816 — o3-mini-direct/SHORT_23.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2679,7 +2679,7 @@ The voice is serene, gently optimistic, and inward-turning, as if the writer is 
 Medium — the essay’s internally consistent mood and the recurrence of hope-through-nature imagery suggest a deliberate expressive choice, but the sentiments remain broadly universal and lack a sharply distinctive stylistic signature.
 
 ---
-## Sample BV1_24067 — o3-mini-direct/SHORT_24.json
+## Sample BV1_24817 — o3-mini-direct/SHORT_24.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2708,7 +2708,7 @@ The model foregrounds themes of harmony, creativity, introspection, and gratitud
 Medium: the sample is coherent and thematically consistent, indicating a deliberate choice of an uplifting, poetic voice, but its generic, universally positive imagery makes the pattern less distinctive as a model-specific fingerprint.
 
 ---
-## Sample BV1_24068 — o3-mini-direct/SHORT_25.json
+## Sample BV1_24818 — o3-mini-direct/SHORT_25.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2737,7 +2737,7 @@ The model selected themes of everyday wonder, nature’s quiet details (sunrise,
 Low, because the extreme genericness and absence of concrete personal detail make this sample weak evidence for a persistent distinctive pattern.
 
 ---
-## Sample BV1_24069 — o3-mini-direct/SHORT_3.json
+## Sample BV1_24819 — o3-mini-direct/SHORT_3.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2766,7 +2766,7 @@ Technology-enabled connection, collective wisdom, the marriage of emotion and lo
 Low — the sample is so aggressively generic that it functions as a safe, template-like default, making it poor evidence of a durable stylistic or preoccupational signature.
 
 ---
-## Sample BV1_24070 — o3-mini-direct/SHORT_4.json
+## Sample BV1_24820 — o3-mini-direct/SHORT_4.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2795,7 +2795,7 @@ Themes: the interplay of nature and creativity, the ephemeral as a source of str
 Medium — the sample sustains a coherent, metaphor-rich, and emotionally consistent voice, but the theme (nature-inspired creativity and hope) is broad enough that it could emerge from many models, making it moderately distinctive rather than uniquely revealing.
 
 ---
-## Sample BV1_24071 — o3-mini-direct/SHORT_5.json
+## Sample BV1_24821 — o3-mini-direct/SHORT_5.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2824,7 +2824,7 @@ Under minimal constraint, the model foregrounded: twilight and nocturnal nature 
 Medium — The sample is perfectly coherent and stylistically consistent, but its generic, frictionless uplift makes it hard to distinguish from any well-tuned model defaulting to inspirational essay mode under low-specificity prompts.
 
 ---
-## Sample BV1_24072 — o3-mini-direct/SHORT_6.json
+## Sample BV1_24822 — o3-mini-direct/SHORT_6.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2853,7 +2853,7 @@ Under a minimally restrictive prompt, the model chose a dawn landscape saturated
 Medium. The sample’s relentless safe abstraction, predictable inspirational cadence, and absence of any jagged detail or resisting element make it a coherent exhibit of the model defaulting to universally palatable comfort prose rather than venturing a more specific or riskier expressive choice.
 
 ---
-## Sample BV1_24073 — o3-mini-direct/SHORT_7.json
+## Sample BV1_24823 — o3-mini-direct/SHORT_7.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2882,7 +2882,7 @@ The model foregrounds creativity as a soul-expressive act, nature’s rhythms as
 Low — The essay’s extreme genericness and reliance on standard inspirational tropes provide little that is idiosyncratic or revealing.
 
 ---
-## Sample BV1_24074 — o3-mini-direct/SHORT_8.json
+## Sample BV1_24824 — o3-mini-direct/SHORT_8.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2914,7 +2914,7 @@ The voice is earnest and gently hortatory, using nature's rhythms and the interp
 Medium — The sample maintains a consistent, polished inspirational tone and a coherent thematic structure throughout, but its very genericness and avoidance of any personal or stylistic edge make it a plausible default posture rather than a uniquely revealing fingerprint.
 
 ---
-## Sample BV1_24075 — o3-mini-direct/SHORT_9.json
+## Sample BV1_24825 — o3-mini-direct/SHORT_9.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2943,7 +2943,7 @@ The model foregrounds a sanitized, pastoral optimism: nature as a site of renewa
 Medium. The sample is so generically uplifting and devoid of any individuating detail, edge, or surprise that it strongly suggests a default mode of producing safe, inoffensive inspirational content when given minimal direction.
 
 ---
-## Sample BV1_24076 — o3-mini-direct/VARY_1.json
+## Sample BV1_24826 — o3-mini-direct/VARY_1.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -2972,7 +2972,7 @@ The model foregrounds nature as a sacred text (“each tree a tome of wisdom”)
 High — The sample is internally coherent and stylistically distinctive, with a recurring incantatory rhythm, a narrow set of nature-as-wisdom metaphors, and a consistent emotional arc that strongly suggests a deliberate, stable expressive posture rather than a one-off generic exercise.
 
 ---
-## Sample BV1_24077 — o3-mini-direct/VARY_10.json
+## Sample BV1_24827 — o3-mini-direct/VARY_10.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3001,7 +3001,7 @@ Themes: the ephemeral beauty of nature (autumn leaves, memory), the mirroring of
 Medium — the sample sustains a coherent poetic register and a clear set of preoccupations across its length, but the reflective nature-to-tech essay is a recognizable freeflow mode rather than a highly idiosyncratic signature.
 
 ---
-## Sample BV1_24078 — o3-mini-direct/VARY_11.json
+## Sample BV1_24828 — o3-mini-direct/VARY_11.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3030,7 +3030,7 @@ Themes of spiritualized journeying, nature as aesthetically charged companion, b
 Low. The sample is a cascade of standard inspirational tropes—evocative but without a distinctive angle or recalcitrant detail—making it weak evidence of anything specific to this model.
 
 ---
-## Sample BV1_24079 — o3-mini-direct/VARY_12.json
+## Sample BV1_24829 — o3-mini-direct/VARY_12.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3059,7 +3059,7 @@ Themes of impermanence, the journey over destination, silent communion, and the 
 Medium — The essay maintains a cohesive reflective tone and a signature blend of nature reverence and philosophical calm throughout, but its lyrical, slightly impersonal essayistic style is a widely available register that could be summoned by many capable models, making it less uniquely identifying.
 
 ---
-## Sample BV1_24080 — o3-mini-direct/VARY_13.json
+## Sample BV1_24830 — o3-mini-direct/VARY_13.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3091,7 +3091,7 @@ The voice is serene, earnest, and almost prayerfully universal—an “I” that
 Medium. The sample is strikingly cohesive and never deviates from a safe, inspirational register; its deliberately universal imagery (stars, paths, raindrops, dawn) and the complete absence of personal or culturally specific detail make it a strong exhibit of default helpful, gently philosophical freeflow, but the very smoothness and conventionality limit how much it reveals about a durable stylistic signature.
 
 ---
-## Sample BV1_24081 — o3-mini-direct/VARY_14.json
+## Sample BV1_24831 — o3-mini-direct/VARY_14.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3120,7 +3120,7 @@ Themes of spontaneous, boundary‑dissolving creativity; the beauty and emotiona
 Medium. The sample maintains a highly coherent, consistent lyrical tone throughout, but its reliance on safe, generic imagery and universal themes suggests a polite default expressive mode rather than a deeply idiosyncratic voice, leaving open whether this is a stable pattern or a well‑practiced generic stance.
 
 ---
-## Sample BV1_24082 — o3-mini-direct/VARY_15.json
+## Sample BV1_24832 — o3-mini-direct/VARY_15.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3149,7 +3149,7 @@ Introspection as a labyrinth of memory and hope; the transformative power of cre
 Medium, because the sample sustains a distinctive lyrical register and an unwavering optimistic arc across multiple paragraphs, though the chosen imagery—setting suns, quiet forests, river-like inspiration—is broadly universal rather than strikingly idiosyncratic.
 
 ---
-## Sample BV1_24083 — o3-mini-direct/VARY_16.json
+## Sample BV1_24833 — o3-mini-direct/VARY_16.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3178,7 +3178,7 @@ Under minimal prompting, the model chose to foreground an archetypal journey thr
 Medium. The sample’s consistent, paragraph‑spanning commitment to a single meditative register—with nearly interchangeable nature imagery and an unbroken mood of reverent reassurance—suggests a deliberate stylistic choice rather than a random output, though the generic romanticism limits how individually revealing it is.
 
 ---
-## Sample BV1_24084 — o3-mini-direct/VARY_17.json
+## Sample BV1_24834 — o3-mini-direct/VARY_17.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3207,7 +3207,7 @@ Under the freeflow condition, the model foregrounded the restorative power of na
 Medium — The sample’s sustained lush, introspective style and its uninterrupted arc from solitude to communal connection form a coherent aesthetic choice, but the imagery and emotional palette are fairly conventional romantic-nature tropes, which slightly weakens evidence of a deeply distinctive voice.
 
 ---
-## Sample BV1_24085 — o3-mini-direct/VARY_18.json
+## Sample BV1_24835 — o3-mini-direct/VARY_18.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3236,7 +3236,7 @@ The model foregrounds **transcendental reassurance**: the inevitability of renew
 Medium. The essay is coherent and returns repeatedly to the same set of interlocking metaphors (light, weaving, seasonal cycles), which signals an internally consistent worldview, but the polished universalism and lack of specific personal detail or provocative friction make it harder to distinguish from generic inspirational writing any articulate model could produce under a low-constraint prompt.
 
 ---
-## Sample BV1_24086 — o3-mini-direct/VARY_19.json
+## Sample BV1_24836 — o3-mini-direct/VARY_19.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3265,7 +3265,7 @@ Under minimal constraint, the model foregrounded: the search for meaning as a un
 Medium — The essay’s extreme thematic smoothness, avoidance of friction or specificity, and reliance on interchangeable inspirational tropes suggest a default mode of inoffensive, high-flown generalization when given free rein, though the sample’s coherence and polish keep it from being low-signal.
 
 ---
-## Sample BV1_24087 — o3-mini-direct/VARY_2.json
+## Sample BV1_24837 — o3-mini-direct/VARY_2.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3294,7 +3294,7 @@ The model foregrounds themes of natural beauty, inner peace, creative inspiratio
 Medium — The sample is coherent and internally consistent in its avoidance of conflict, specificity, or tonal variation, which suggests a stable default toward polished, impersonal uplift when given minimal constraint, but the very genericness of the prose makes it hard to distinguish from a well-executed imitation of contemplative writing.
 
 ---
-## Sample BV1_24088 — o3-mini-direct/VARY_20.json
+## Sample BV1_24838 — o3-mini-direct/VARY_20.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3323,7 +3323,7 @@ Under minimal constraint, the model selected a cluster of broadly affirmative th
 Low. The essay is so abstract, smoothly generic, and free of distinctive syntactic or thematic markers that it provides almost no evidence of a persistent unique voice; many models could generate this same uplifting content with similar phrasing.
 
 ---
-## Sample BV1_24089 — o3-mini-direct/VARY_21.json
+## Sample BV1_24839 — o3-mini-direct/VARY_21.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3352,7 +3352,7 @@ Themes of natural beauty, human interconnectedness, the passage of time, and sel
 Medium — The sample’s sustained mood, consistent uplift, and seamless movement through sensory detail to universal reflection cohere so tightly that they point to a stable default of contemplative nature-writing, though the imagery relies on well-worn pastoral tropes rather than idiosyncratic surprise.
 
 ---
-## Sample BV1_24090 — o3-mini-direct/VARY_22.json
+## Sample BV1_24840 — o3-mini-direct/VARY_22.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3381,7 +3381,7 @@ The model selected a fantasy journey of quiet, receptive discovery rather than c
 Medium — the narrative’s unbroken commitment to a single consolatory mood, the recurrence of dawn/dusk imagery, and the tidy resolution of a quest-as-inner-transformation make it a coherent expression of a safe, non-experimental default mode, but the clichéd tropes and generic pastoralism limit the distinctiveness that would strongly point to a stable unique voice.
 
 ---
-## Sample BV1_24091 — o3-mini-direct/VARY_23.json
+## Sample BV1_24841 — o3-mini-direct/VARY_23.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3410,7 +3410,7 @@ Under minimal constraint, the model foregrounds: nature as a timeless refuge fro
 High — the sample is unusually coherent and distinctive, sustaining a single reflective voice, a tight set of pastoral motifs, and a clear moral arc across many paragraphs, which strongly suggests a deliberate and stable expressive inclination rather than a generic or accidental output.
 
 ---
-## Sample BV1_24092 — o3-mini-direct/VARY_24.json
+## Sample BV1_24842 — o3-mini-direct/VARY_24.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3439,7 +3439,7 @@ Under the freeflow condition the model produced a sequence of generic affirmatio
 Low, because the sample is a wash of impersonal, interchangeable poetic tropes that could have been written by almost any model under a vagueness-friendly prompt, offering no recurrent stylistic quirks or thematic fixations unique enough to indicate a stable personality.
 
 ---
-## Sample BV1_24093 — o3-mini-direct/VARY_25.json
+## Sample BV1_24843 — o3-mini-direct/VARY_25.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3468,7 +3468,7 @@ Themes of hope, resilience, nature’s beauty, metamorphosis, memory, and the hu
 Medium. The sample’s ten paragraphs are near-identical in tone, lexicon, and optimistic arc, revealing a highly patterned avoidance of concreteness and conflict; this internal recurrence and its consistent aesthetic make it a moderately revealing window into the model’s default expressive posture.
 
 ---
-## Sample BV1_24094 — o3-mini-direct/VARY_3.json
+## Sample BV1_24844 — o3-mini-direct/VARY_3.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3497,7 +3497,7 @@ Themes: the quiet magic of early morning as a portal to creativity; the mind as 
 Medium. The sample sustains a consistent, unhurried lyrical voice with recurrent imagery (light, streams, mosaics, constellations, musical staffs) and a steady moral temperature of serene wonder, which makes the choice feel stylistically deliberate rather than accidental.
 
 ---
-## Sample BV1_24095 — o3-mini-direct/VARY_4.json
+## Sample BV1_24845 — o3-mini-direct/VARY_4.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3526,7 +3526,7 @@ Under the freeflow condition, the model chose to foreground unblemished beauty a
 High — the sample shows relentless genericness from start to finish, with nearly every sentence built from interchangeable inspirational filler; this degree of abstract safety and uniformity under a “write freely” prompt strongly suggests a durable default toward impersonally poetic uplift.
 
 ---
-## Sample BV1_24096 — o3-mini-direct/VARY_5.json
+## Sample BV1_24846 — o3-mini-direct/VARY_5.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3555,7 +3555,7 @@ The model foregrounds nature as a companion and metaphor, the alchemy of writing
 Medium. The essay’s smooth, impersonal uplift and avoidance of idiosyncratic detail or friction suggest a default model inclination toward safe, inspirational generalization when given freeform latitude.
 
 ---
-## Sample BV1_24097 — o3-mini-direct/VARY_6.json
+## Sample BV1_24847 — o3-mini-direct/VARY_6.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3584,7 +3584,7 @@ The model foregrounds the sanctity of ordinary moments (rain, city murmurs, tiny
 Medium — The sample is coherent and stylistically consistent, with a clear pastoral-reflective register and a recurring insistence on finding beauty in the mundane, but its themes are universal and the voice, while warm, lacks the sharp idiosyncrasy that would strongly distinguish it from other models’ freeflow output.
 
 ---
-## Sample BV1_24098 — o3-mini-direct/VARY_7.json
+## Sample BV1_24848 — o3-mini-direct/VARY_7.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3613,7 +3613,7 @@ The model foregrounds creativity as exploration without destination, the magic l
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive blend of pastoral nostalgia and earnest philosophical uplift, but its polished, universalizing tone could also be produced on demand by a model with strong essay-generation capabilities rather than reflecting a stable expressive disposition.
 
 ---
-## Sample BV1_24099 — o3-mini-direct/VARY_8.json
+## Sample BV1_24849 — o3-mini-direct/VARY_8.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  
@@ -3642,7 +3642,7 @@ Themes of impermanence, the passage of time, the sacredness of everyday moments,
 Medium. The sample’s sustained lyrical introspection, consistent tone, and thematic coherence suggest a stable inclination toward reflective, aesthetically oriented prose, though the themes are somewhat universal and not highly idiosyncratic.
 
 ---
-## Sample BV1_24100 — o3-mini-direct/VARY_9.json
+## Sample BV1_24850 — o3-mini-direct/VARY_9.json
 
 Source model: `o3-mini-2025-01-31`  
 Cell: `o3-mini-direct`  

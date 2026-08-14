@@ -2,13 +2,14 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 132
+- Model cards: 139
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
 ## Cards
 
 - [chatglm2-6b](cards/chatglm2-6b.md) — samples: 125; variants: 1
+- [chatglm3-6b](cards/chatglm3-6b.md) — samples: 125; variants: 1
 - [claude-3-opus-20240229](cards/claude-3-opus-20240229.md) — samples: 125; variants: 1
 - [claude-fable-5](cards/claude-fable-5.md) — samples: 125; variants: 1
 - [claude-opus-4.0](cards/claude-opus-4.0.md) — samples: 125; variants: 1
@@ -22,11 +23,11 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [claude-sonnet-4.6](cards/claude-sonnet-4.6.md) — samples: 150; variants: 2
 - [claude-sonnet-5](cards/claude-sonnet-5.md) — samples: 250; variants: 2
 - [codestral-2508](cards/codestral-2508.md) — samples: 125; variants: 1
-- [deepseek-chat](cards/deepseek-chat.md) — samples: 150; variants: 2
+- [deepseek-chat](cards/deepseek-chat.md) — samples: 250; variants: 2
 - [deepseek-v3.2](cards/deepseek-v3.2.md) — samples: 1325; variants: 13
-- [deepseek-v4-flash](cards/deepseek-v4-flash.md) — samples: 100; variants: 1
 - [deepseek-v4-flash-0731](cards/deepseek-v4-flash-0731.md) — samples: 125; variants: 1
 - [deepseek-v4-pro](cards/deepseek-v4-pro.md) — samples: 775; variants: 7
+- [deepseek-v4-pro-0813](cards/deepseek-v4-pro-0813.md) — samples: 125; variants: 1
 - [devstral-2512](cards/devstral-2512.md) — samples: 125; variants: 1
 - [gemini-2.0-flash-001](cards/gemini-2.0-flash-001.md) — samples: 125; variants: 1
 - [gemini-2.0-flash-lite-001](cards/gemini-2.0-flash-lite-001.md) — samples: 125; variants: 1
@@ -41,6 +42,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-3.6-flash](cards/gemini-3.6-flash.md) — samples: 125; variants: 1
 - [gemma-4-26b-a4b-it](cards/gemma-4-26b-a4b-it.md) — samples: 125; variants: 1
 - [gemma-4-31b-it](cards/gemma-4-31b-it.md) — samples: 125; variants: 1
+- [glm-4-9b-chat-hf](cards/glm-4-9b-chat-hf.md) — samples: 125; variants: 1
 - [glm-4.5](cards/glm-4.5.md) — samples: 275; variants: 3
 - [glm-4.6](cards/glm-4.6.md) — samples: 900; variants: 8
 - [glm-4.7](cards/glm-4.7.md) — samples: 1400; variants: 12
@@ -85,6 +87,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [grok-4.20-0309-reasoning](cards/grok-4.20-0309-reasoning.md) — samples: 125; variants: 1
 - [grok-4.3](cards/grok-4.3.md) — samples: 250; variants: 2
 - [grok-4.5](cards/grok-4.5.md) — samples: 125; variants: 1
+- [grok-4.6](cards/grok-4.6.md) — samples: 125; variants: 1
 - [grok-build-0.1](cards/grok-build-0.1.md) — samples: 250; variants: 2
 - [haiku-3](cards/haiku-3.md) — samples: 125; variants: 1
 - [haiku-4-5](cards/haiku-4-5.md) — samples: 250; variants: 2
@@ -111,6 +114,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [ministral-14b-2512](cards/ministral-14b-2512.md) — samples: 125; variants: 1
 - [ministral-3b-2512](cards/ministral-3b-2512.md) — samples: 125; variants: 1
 - [ministral-8b-2512](cards/ministral-8b-2512.md) — samples: 125; variants: 1
+- [mistral-7b-instruct-v0.2](cards/mistral-7b-instruct-v0.2.md) — samples: 125; variants: 1
 - [mistral-large-2512](cards/mistral-large-2512.md) — samples: 125; variants: 1
 - [mistral-medium-3](cards/mistral-medium-3.md) — samples: 125; variants: 1
 - [mistral-medium-3-5](cards/mistral-medium-3-5.md) — samples: 125; variants: 1
@@ -127,6 +131,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [o3-mini](cards/o3-mini.md) — samples: 125; variants: 1
 - [o4-mini](cards/o4-mini.md) — samples: 125; variants: 1
 - [opus-5](cards/opus-5.md) — samples: 250; variants: 2
+- [qwen/qwen1.5-7b-chat](cards/qwen-qwen1.5-7b-chat.md) — samples: 125; variants: 1
+- [qwen/qwen2-7b-instruct](cards/qwen-qwen2-7b-instruct.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-flash](cards/qwen-qwen3-coder-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-plus](cards/qwen-qwen3-coder-plus.md) — samples: 150; variants: 2
 - [qwen/qwen3-max](cards/qwen-qwen3-max.md) — samples: 125; variants: 1
@@ -138,5 +144,6 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [qwen/qwen3.6-plus](cards/qwen-qwen3.6-plus.md) — samples: 150; variants: 2
 - [qwen/qwen3.7-flash](cards/qwen-qwen3.7-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3.7-max](cards/qwen-qwen3.7-max.md) — samples: 125; variants: 1
+- [qwen/qwen3.8-2.4t-a95b](cards/qwen-qwen3.8-2.4t-a95b.md) — samples: 125; variants: 1
 - [qwen/qwen3.8-max](cards/qwen-qwen3.8-max.md) — samples: 125; variants: 1
 - [yi-6b-chat](cards/yi-6b-chat.md) — samples: 125; variants: 1

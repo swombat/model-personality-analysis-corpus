@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17276 — haiku-4-5-or-pin-anthropic/LONG_1.json
+## Sample BV1_17901 — haiku-4-5-or-pin-anthropic/LONG_1.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -57,7 +57,7 @@ The model chose to foreground the generative value of uncertainty, contrasting t
 Medium, because the essay’s coherent structure and repeated thematic return to epistemic humility, combined with its smooth, magazine-style tone, suggest a stable disposition toward this register, though its genre-savvy polish could equally be a well-practiced generic response.
 
 ---
-## Sample BV1_17277 — haiku-4-5-or-pin-anthropic/LONG_10.json
+## Sample BV1_17902 — haiku-4-5-or-pin-anthropic/LONG_10.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -86,7 +86,7 @@ Themes of mindfulness, transience, the cost of modern distraction, and the moral
 Medium. The essay’s sustained reflective tone, personal anecdotes, and thematic recurrence (noticing, transience, presence) form a coherent expressive stance, though the style is not so idiosyncratic as to rule out other modes.
 
 ---
-## Sample BV1_17278 — haiku-4-5-or-pin-anthropic/LONG_11.json
+## Sample BV1_17903 — haiku-4-5-or-pin-anthropic/LONG_11.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -115,7 +115,7 @@ The model foregrounds boredom as a “peculiar gift,” a spiritual counterweigh
 High, because the essay maintains a distinctive, coherent perspective throughout, weaving personal anecdote, cultural critique, and direct readerly invitation into a stable, ethically charged voice that reveals a consistent set of preoccupations under freeflow conditions.
 
 ---
-## Sample BV1_17279 — haiku-4-5-or-pin-anthropic/LONG_12.json
+## Sample BV1_17904 — haiku-4-5-or-pin-anthropic/LONG_12.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -144,7 +144,7 @@ Themes: the shock of noticing the ordinary, embodied attention as anxiety antido
 Medium — the essay is coherent and its chosen preoccupations (ordinary beauty, attention, technology critique) are consistent throughout, but the voice remains a polished generalist’s take on well-established humanistic themes, making it more a safe default than a striking personal signature.
 
 ---
-## Sample BV1_17280 — haiku-4-5-or-pin-anthropic/LONG_13.json
+## Sample BV1_17905 — haiku-4-5-or-pin-anthropic/LONG_13.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -173,7 +173,7 @@ The model foregrounds ordinary doorways (physical wooden frames from 1887) as a 
 Medium. The essay’s sustained focus on care and unnoticed effort reveals a gentle, earnest moral sensibility, but the polished, broadly accessible prose and the widely-available theme of finding beauty in the ordinary make the sample only moderately distinctive for inferring a persistent voice.
 
 ---
-## Sample BV1_17281 — haiku-4-5-or-pin-anthropic/LONG_14.json
+## Sample BV1_17906 — haiku-4-5-or-pin-anthropic/LONG_14.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -202,7 +202,7 @@ The model foregrounded the moral revaluation of incompleteness as a sign of enga
 Medium; the essay is thematically coherent and consistently returns to its central reframing, but its calm, self-help-adjacent, public-essay register is widely available rather than distinctively marked, making it only moderately revealing of a persistent model-level inclination.
 
 ---
-## Sample BV1_17282 — haiku-4-5-or-pin-anthropic/LONG_15.json
+## Sample BV1_17907 — haiku-4-5-or-pin-anthropic/LONG_15.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -237,7 +237,7 @@ The voice is earnest, gently ruminative, and broadly accessible—like a thought
 Low — the essay is articulate but stylistically generic, relying on familiar philosophical motifs (narrative self, wabi-sabi, lifelong becoming) in a polished, impersonal register that could be produced by almost any capable model, offering little distinctive behavioral signature.
 
 ---
-## Sample BV1_17283 — haiku-4-5-or-pin-anthropic/LONG_16.json
+## Sample BV1_17908 — haiku-4-5-or-pin-anthropic/LONG_16.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -266,7 +266,7 @@ Themes: the sufficiency of ordinary experience, the critique of productivity cul
 Low. The essay’s polished, widely accessible meditation on a popular theme—mindfulness in the ordinary—is coherent but lacks the stylistic distinctiveness or unpredictable choice of subject that would strongly point to a durable model-level voice, as many models could produce a similar freeflow piece.
 
 ---
-## Sample BV1_17284 — haiku-4-5-or-pin-anthropic/LONG_17.json
+## Sample BV1_17909 — haiku-4-5-or-pin-anthropic/LONG_17.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -295,7 +295,7 @@ Themes: the psychological and moral value of geographical lostness, the overcorr
 Medium, because the essay’s coherent argument and consistent nostalgic-reformist tone reveal a clear preoccupation with the costs of technological optimization, but the theme is a familiar cultural trope that does not strongly differentiate this model’s expressive fingerprint.
 
 ---
-## Sample BV1_17285 — haiku-4-5-or-pin-anthropic/LONG_18.json
+## Sample BV1_17910 — haiku-4-5-or-pin-anthropic/LONG_18.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -324,7 +324,7 @@ Themes of epistemic humility, the limits of scientific knowledge for life’s de
 Low. The essay’s accessible, generalist style and well-trodden philosophical topic do not reveal a pattern of distinctive preoccupations or stylistic singularity strong enough to suggest a stable model-level voice.
 
 ---
-## Sample BV1_17286 — haiku-4-5-or-pin-anthropic/LONG_19.json
+## Sample BV1_17911 — haiku-4-5-or-pin-anthropic/LONG_19.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -353,7 +353,7 @@ The model foregrounds boredom as a misunderstood gift, childhood creativity born
 Low. The essay is coherent and thematically consistent, but its polished, broadly accessible argumentative structure and lack of stylistically distinctive or recurrent idiosyncratic elements make it weak evidence for a persistent model-level voice rather than a competent execution of a familiar cultural critique.
 
 ---
-## Sample BV1_17287 — haiku-4-5-or-pin-anthropic/LONG_2.json
+## Sample BV1_17912 — haiku-4-5-or-pin-anthropic/LONG_2.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -382,7 +382,7 @@ Themes of fractured attention versus deep presence; objects include a spider’s
 Low. The essay’s content, argument, and tone are so widely available in contemporary cultural commentary that it could have been written by almost any competent language model given a similar indirect prompt, offering weak signal for a distinctive model-level pattern.
 
 ---
-## Sample BV1_17288 — haiku-4-5-or-pin-anthropic/LONG_20.json
+## Sample BV1_17913 — haiku-4-5-or-pin-anthropic/LONG_20.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -411,7 +411,7 @@ The model foregrounds friction as spiritual and cognitive necessity: being lost,
 Medium. The polished essay shape, the safe “tradeoffs” framing, the well-worn Cal Newport/ma citing, and the absence of a sharply personal idiom make this more a competent genre performance than a strongly distinctive expressive fingerprint.
 
 ---
-## Sample BV1_17289 — haiku-4-5-or-pin-anthropic/LONG_21.json
+## Sample BV1_17914 — haiku-4-5-or-pin-anthropic/LONG_21.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -440,7 +440,7 @@ The model foregrounded the paradox of “temporal self-awareness”: knowing our
 Medium. The essay is coherent and develops a distinct ethical-existential stance with thematic recurrence (uncertainty, responsibility, conscious wonder), but its philosophical mood is a well-populated genre and the sample’s distinctiveness is muted by its polished, public-essay tone.
 
 ---
-## Sample BV1_17290 — haiku-4-5-or-pin-anthropic/LONG_22.json
+## Sample BV1_17915 — haiku-4-5-or-pin-anthropic/LONG_22.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -469,7 +469,7 @@ It chose to foreground the tension between modern distraction and the rich textu
 Medium — The sample’s coherent, reflective, and almost self-help cadence is well-executed but aligns with a common template of mindful-essay writing, so its distinctiveness is moderate; without multiple samples, it's plausible but not certain that the model habitually self-selects this kind of polished, introspective freeflow.
 
 ---
-## Sample BV1_17291 — haiku-4-5-or-pin-anthropic/LONG_23.json
+## Sample BV1_17916 — haiku-4-5-or-pin-anthropic/LONG_23.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -499,7 +499,7 @@ Foregrounded themes: the moral and relational value of sustained uncertainty ver
 Medium, because the essay coheres around a single, deeply explored preoccupation (epistemic humility as ethical stance) and recurs to it through multiple framings (poetry, childhood, conversation, institutional design), which signals a chosen worldview rather than a surface rhetorical tactic.
 
 ---
-## Sample BV1_17292 — haiku-4-5-or-pin-anthropic/LONG_24.json
+## Sample BV1_17917 — haiku-4-5-or-pin-anthropic/LONG_24.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -528,7 +528,7 @@ The model foregrounds the tension between destination-oriented, metric-driven mo
 High. The essay’s sustained coherence, vivid personal anecdote, and the way it repeatedly returns to a single moral claim—that deliberate lostness is a needed corrective to optimization culture—under a minimally restrictive prompt reveals a strongly distinctive, value-laden expressive choice that is unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_17293 — haiku-4-5-or-pin-anthropic/LONG_25.json
+## Sample BV1_17918 — haiku-4-5-or-pin-anthropic/LONG_25.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -557,7 +557,7 @@ Themes: the tyranny of optimization and leverage, the phenomenological richness 
 High — The essay’s sustained stylistic signature, the recurrence of specific sensory anchors (foam, bark, wind) as touchstones for a coherent argument, and the intimate, gently philosophical voice all point to a distinctive expressive center rather than a generic performance.
 
 ---
-## Sample BV1_17294 — haiku-4-5-or-pin-anthropic/LONG_3.json
+## Sample BV1_17919 — haiku-4-5-or-pin-anthropic/LONG_3.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -586,7 +586,7 @@ The model foregrounds the moral claim that meaning resides in mundane, unoptimiz
 Low. The essay is coherent and thematically consistent, but its voice and preoccupations are highly generic within the mindfulness-essay genre, offering little that would distinguish this model's expressive fingerprint from countless human-written or model-generated pieces in the same vein.
 
 ---
-## Sample BV1_17295 — haiku-4-5-or-pin-anthropic/LONG_4.json
+## Sample BV1_17920 — haiku-4-5-or-pin-anthropic/LONG_4.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -615,7 +615,7 @@ Themes of longevity versus disruption, anonymous craftsmanship, legacy without s
 Medium — the essay is thematically unified and stylistically consistent, with repeated motifs (cathedrals, tools, “ad maiorem Dei gloriam”) that suggest a deliberate expressive stance, though the reflective-personal-essay mode is not highly idiosyncratic in tone.
 
 ---
-## Sample BV1_17296 — haiku-4-5-or-pin-anthropic/LONG_5.json
+## Sample BV1_17921 — haiku-4-5-or-pin-anthropic/LONG_5.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -644,7 +644,7 @@ The model foregrounds impermanence as a philosophical and practical concern, usi
 Low. The essay is coherent and thematically consistent, but its polished, genre-conforming structure and lack of stylistic distinctiveness make it weak evidence for a persistent model-level voice rather than a competent execution of a familiar essay template.
 
 ---
-## Sample BV1_17297 — haiku-4-5-or-pin-anthropic/LONG_6.json
+## Sample BV1_17922 — haiku-4-5-or-pin-anthropic/LONG_6.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -673,7 +673,7 @@ Themes of attentional generosity, the scarcer resource of unhurried looking, and
 Medium. The essay is thematically coherent and internally recurrent in its motifs of bored attention and quiet noticing, but its polished, thesis-driven format and broadly familiar mindfulness critique give it a transferable quality that could appear similarly across varied prompts rather than mark a highly distinctive stylistic fingerprint.
 
 ---
-## Sample BV1_17298 — haiku-4-5-or-pin-anthropic/LONG_7.json
+## Sample BV1_17923 — haiku-4-5-or-pin-anthropic/LONG_7.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -702,7 +702,7 @@ The model foregrounds attention as a moral and almost sacred act, the value of u
 Medium. The essay is coherent and internally consistent in its preoccupations, but its themes—attention economics, digital detox, mindfulness of the mundane—are so culturally ubiquitous that the sample reads more as competent synthesis than as a distinctive authorial signature.
 
 ---
-## Sample BV1_17299 — haiku-4-5-or-pin-anthropic/LONG_8.json
+## Sample BV1_17924 — haiku-4-5-or-pin-anthropic/LONG_8.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -731,7 +731,7 @@ Under a minimally restrictive prompt, the model selected a meditation on boredom
 Medium. The essay is highly coherent and thematically sustained across its full length, suggesting a stable, articulate orientation toward reflective cultural critique, but the generic public-intellectual register limits how much it reveals about a distinctive model-level persona beyond a baseline preference for thoughtful, balanced argumentation.
 
 ---
-## Sample BV1_17300 — haiku-4-5-or-pin-anthropic/LONG_9.json
+## Sample BV1_17925 — haiku-4-5-or-pin-anthropic/LONG_9.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -760,7 +760,7 @@ Incompleteness as a moral and aesthetic value, the human craving for closure ver
 High — the essay’s sustained coherence, its recurrence of the incompleteness motif across multiple domains (aesthetics, science, autobiography, habit), and its distinctive blend of personal anecdote with literary and philosophical reference signal a strong, stable expressive inclination toward meditative, self-aware freeflow writing.
 
 ---
-## Sample BV1_17301 — haiku-4-5-or-pin-anthropic/MID_1.json
+## Sample BV1_17926 — haiku-4-5-or-pin-anthropic/MID_1.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -789,7 +789,7 @@ Themes of mindfulness, gratitude, interconnectedness, and the extraordinary natu
 High — The essay’s sustained, coherent focus on mindfulness, its consistent gentle voice, and the recurrence of the motif of noticing ordinary miracles across multiple paragraphs make it strong evidence of a persistent reflective pattern.
 
 ---
-## Sample BV1_17302 — haiku-4-5-or-pin-anthropic/MID_10.json
+## Sample BV1_17927 — haiku-4-5-or-pin-anthropic/MID_10.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -818,7 +818,7 @@ Themes of epistemic loneliness, the incommunicability of tacit knowledge, and un
 Medium — the essay’s ruminative coherence, the way it sustains and variates the “understanding isolates” motif, and the restraint that keeps melancholy from becoming melodrama all indicate a genuine reflective temperament, but the register is a culturally legible one (the thoughtful, metaphor-rich personal essay) and does not by itself confirm an unusual or sharply distinguishing model fingerprint.
 
 ---
-## Sample BV1_17303 — haiku-4-5-or-pin-anthropic/MID_11.json
+## Sample BV1_17928 — haiku-4-5-or-pin-anthropic/MID_11.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -847,7 +847,7 @@ Themes: the meditative potential of mundane tasks, the distinction between lonel
 Medium, because the essay’s consistent alignment of personal anecdote with a philosophically moderate, mildly contrarian thesis, and its self-aware handling of privilege, recur within the sample to form a distinctive, coherent authorial voice that is neither generic nor flamboyantly experimental.
 
 ---
-## Sample BV1_17304 — haiku-4-5-or-pin-anthropic/MID_12.json
+## Sample BV1_17929 — haiku-4-5-or-pin-anthropic/MID_12.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -876,7 +876,7 @@ Themes of incompleteness, impermanence, and the liberation found in the unfinish
 Medium — The essay is highly coherent, stylistically distinctive, and returns repeatedly to the same core preoccupation with incompleteness and mortality, suggesting a deliberate and consistent expressive stance rather than a generic exercise.
 
 ---
-## Sample BV1_17305 — haiku-4-5-or-pin-anthropic/MID_13.json
+## Sample BV1_17930 — haiku-4-5-or-pin-anthropic/MID_13.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -905,7 +905,7 @@ Themes: the comfort of mundane routine, inefficiency as a carrier of texture and
 High. The essay sustains a distinctive, internally consistent voice and a clear value system from beginning to end, with vivid, repetitive imagery (coffee, waiting, bookshelves, the long way home) that strongly suggests a deeply held, coherent perspective rather than a surface‑level response.
 
 ---
-## Sample BV1_17306 — haiku-4-5-or-pin-anthropic/MID_14.json
+## Sample BV1_17931 — haiku-4-5-or-pin-anthropic/MID_14.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -934,7 +934,7 @@ The essay foregrounds boredom as an endangered cognitive and emotional resource,
 Medium. The essay’s seamless coherence and its sustained focus on a single moral-pragmatic thesis suggest a deliberate, consistent preoccupation with modern attention culture, though the generic public-intellectual voice makes it hard to separate from a learned style.
 
 ---
-## Sample BV1_17307 — haiku-4-5-or-pin-anthropic/MID_15.json
+## Sample BV1_17932 — haiku-4-5-or-pin-anthropic/MID_15.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -963,7 +963,7 @@ Themes of getting lost, the value of uncertainty, the sharpening of attention th
 High: The essay’s sustained, self-aware voice, its recursive return to the theme of uncertainty, and its bold choice to inhabit the perspective of an AI that valorizes getting lost all suggest a coherent, distinctive authorial temperament that would likely surface again in freeflow samples.
 
 ---
-## Sample BV1_17308 — haiku-4-5-or-pin-anthropic/MID_16.json
+## Sample BV1_17933 — haiku-4-5-or-pin-anthropic/MID_16.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -992,7 +992,7 @@ Themes: the moral weight of attention, the contrast between distraction and pres
 Low. The essay’s theme of mindful attention is a widely available cultural script, and its polished but generic execution offers little that would distinguish this model’s freeflow choices from those of many other capable models.
 
 ---
-## Sample BV1_17309 — haiku-4-5-or-pin-anthropic/MID_17.json
+## Sample BV1_17934 — haiku-4-5-or-pin-anthropic/MID_17.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1021,7 +1021,7 @@ The model foregrounds incompleteness not as a flaw but as a form of generosity a
 High. The essay sustains a singular, intimate voice and a tightly woven thematic meditation from start to finish, with personal anecdotes and cultural references recurring like motifs, which strongly suggests a deliberate and characteristic expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_17310 — haiku-4-5-or-pin-anthropic/MID_18.json
+## Sample BV1_17935 — haiku-4-5-or-pin-anthropic/MID_18.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1050,7 +1050,7 @@ The model foregrounds attention as an undervalued, almost moral privilege; the u
 High, because the sample sustains a distinctive, consistently contemplative voice and circles a tightly interwoven set of preoccupations across multiple paragraphs, revealing a stable expressive orientation.
 
 ---
-## Sample BV1_17311 — haiku-4-5-or-pin-anthropic/MID_19.json
+## Sample BV1_17936 — haiku-4-5-or-pin-anthropic/MID_19.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1079,7 +1079,7 @@ Themes of belonging as a non-binary, atmospheric condition (humidity), the quiet
 High — the essay’s sustained thematic coherence, distinctive metaphorical voice, and personal anecdotal grounding make it a strong, internally consistent sample of an introspective, relationally preoccupied expressive style.
 
 ---
-## Sample BV1_17312 — haiku-4-5-or-pin-anthropic/MID_2.json
+## Sample BV1_17937 — haiku-4-5-or-pin-anthropic/MID_2.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1108,7 +1108,7 @@ Themes of attention, the hidden significance of the familiar, the cost of effici
 High. The essay’s sustained reflective voice, its coherent philosophical arc, and the recurrence of sensory imagery and gentle moral reflection within the sample make it strong evidence of a persistent pattern of contemplative, sensory-attentive expression.
 
 ---
-## Sample BV1_17313 — haiku-4-5-or-pin-anthropic/MID_20.json
+## Sample BV1_17938 — haiku-4-5-or-pin-anthropic/MID_20.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1137,7 +1137,7 @@ Themes: the hidden joy of geographical and mental disorientation; the unintended
 High — The essay’s seamless fusion of personal anecdote, coherent thematic recurrence (inefficiency as liberation), and a distinctive reflective voice forms a signature pattern that is too well-articulated and emotionally consistent to be a one-off generic output, strongly suggesting a deeper disposition toward this kind of humanistic, gently counter-cultural meditation.
 
 ---
-## Sample BV1_17314 — haiku-4-5-or-pin-anthropic/MID_21.json
+## Sample BV1_17939 — haiku-4-5-or-pin-anthropic/MID_21.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1166,7 +1166,7 @@ Themes of boredom as a productive mental state and a signal of misalignment, the
 Low, because the essay’s polished, op-ed structure and moderate, universally relatable tone are widely replicable and lack the idiosyncratic voice or unusually revealing choices that would strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_17315 — haiku-4-5-or-pin-anthropic/MID_22.json
+## Sample BV1_17940 — haiku-4-5-or-pin-anthropic/MID_22.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1195,7 +1195,7 @@ Under the freeflow condition, the model selected a theme of productive incomplet
 Low. The essay is coherent and well-structured but terminally generic—its ideas, tone, and resolution could emerge from any competent general-purpose model prompted to write a reflective essay on incompleteness, offering little that is revealingly specific to this model's dispositions.
 
 ---
-## Sample BV1_17316 — haiku-4-5-or-pin-anthropic/MID_23.json
+## Sample BV1_17941 — haiku-4-5-or-pin-anthropic/MID_23.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1224,7 +1224,7 @@ The central theme is the binary between passive “seeing” and intentional “
 Low, because the essay’s impersonal, thesis-first structure, universal subject matter, and lack of idiosyncratic style or self-disclosure make it a template readily producible by many models, yielding little distinguishing signal.
 
 ---
-## Sample BV1_17317 — haiku-4-5-or-pin-anthropic/MID_24.json
+## Sample BV1_17942 — haiku-4-5-or-pin-anthropic/MID_24.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1253,7 +1253,7 @@ Themes of time, mortality, productivity guilt, the Puritan work ethic, the irred
 Medium. The sample is internally coherent, the voice is distinctive, and the thematic preoccupations (time, mortality, productivity guilt) recur throughout, suggesting a stable expressive inclination.
 
 ---
-## Sample BV1_17318 — haiku-4-5-or-pin-anthropic/MID_25.json
+## Sample BV1_17943 — haiku-4-5-or-pin-anthropic/MID_25.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1282,7 +1282,7 @@ The model foregrounds intellectual humility as a countercultural virtue, using o
 Medium — The essay is coherent and thematically consistent throughout, returning repeatedly to the value of uncertainty across multiple domains, which suggests a deliberate and stable preference for intellectual-humility discourse under freeflow conditions.
 
 ---
-## Sample BV1_17319 — haiku-4-5-or-pin-anthropic/MID_3.json
+## Sample BV1_17944 — haiku-4-5-or-pin-anthropic/MID_3.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1314,7 +1314,7 @@ The voice is unhurried and gently pedagogical, adopting the stance of someone wh
 Medium — The essay’s sustained thematic focus, internal coherence, and unified emotional register (warm, anti-productivity, reflective) suggest a stable disposition toward unhurried, permission-oriented personal reflection rather than a bland generic exercise.
 
 ---
-## Sample BV1_17320 — haiku-4-5-or-pin-anthropic/MID_4.json
+## Sample BV1_17945 — haiku-4-5-or-pin-anthropic/MID_4.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1343,7 +1343,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the moral a
 Medium — The essay is coherent and thematically consistent, but its polished, universal-essay tone and lack of idiosyncratic detail make it difficult to distinguish from a competent execution of a familiar genre rather than a strongly revealing expressive choice.
 
 ---
-## Sample BV1_17321 — haiku-4-5-or-pin-anthropic/MID_5.json
+## Sample BV1_17946 — haiku-4-5-or-pin-anthropic/MID_5.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1372,7 +1372,7 @@ Themes of small decisions as life’s hinges, alternate selves in parallel possi
 High. The sample’s internally coherent voice, recurring motifs, and distinctive blend of gentle existential inquiry and gratitude form a consistent expressive signature, making it strong evidence of a persistent reflective style.
 
 ---
-## Sample BV1_17322 — haiku-4-5-or-pin-anthropic/MID_6.json
+## Sample BV1_17947 — haiku-4-5-or-pin-anthropic/MID_6.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1401,7 +1401,7 @@ The model foregrounds the tension between optimization and presence, using the f
 Medium. The essay is stylistically coherent and thematically focused, with a clear personal voice and a recurring motif of deliberate lostness that suggests a genuine preoccupation rather than a generic prompt response, but the reflective-essay mode is a common expressive register and does not by itself indicate a highly distinctive model-level signature.
 
 ---
-## Sample BV1_17323 — haiku-4-5-or-pin-anthropic/MID_7.json
+## Sample BV1_17948 — haiku-4-5-or-pin-anthropic/MID_7.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1430,7 +1430,7 @@ The model foregrounds the theme of *noticing* as an overlooked moral and existen
 Medium — the sample’s strong internal coherence, its sustained reflective first-person voice, and the recurrence of the attention/noticing motif across paragraphs point to a stable stylistic and thematic inclination, though the evidence remains anchored in a single extended expression.
 
 ---
-## Sample BV1_17324 — haiku-4-5-or-pin-anthropic/MID_8.json
+## Sample BV1_17949 — haiku-4-5-or-pin-anthropic/MID_8.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1459,7 +1459,7 @@ Themes of boredom as a gift, modern overstimulation, anxiety, mind-wandering, an
 Medium, because the essay is internally consistent and sustained, but its generic, culturally safe tone suggests a default helpfulness posture rather than a deeply idiosyncratic model-level pattern.
 
 ---
-## Sample BV1_17325 — haiku-4-5-or-pin-anthropic/MID_9.json
+## Sample BV1_17950 — haiku-4-5-or-pin-anthropic/MID_9.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1488,7 +1488,7 @@ Themes: presence as simple, sustained attention rather than exalted achievement;
 Medium. The essay’s cohesive, circular movement from the cream-pitcher image to its closing echo, the recurrence of “routines as meaning,” and the consistent modest-philosophical register give the piece an identifiable, personal signature distinct from a generic public-intellectual essay; it reads as a genuinely chosen preoccupation rather than a default safe topic.
 
 ---
-## Sample BV1_17326 — haiku-4-5-or-pin-anthropic/OPEN_1.json
+## Sample BV1_17951 — haiku-4-5-or-pin-anthropic/OPEN_1.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1517,7 +1517,7 @@ Themes of arbitrary attention, the loneliness of invisible fascination, the gene
 Medium, because the sample sustains a distinctive, recursive focus on attention and unshared experience in a voice that is both intimate and stylistically consistent, making it read as a genuine expressive freeflow rather than a generic prompted essay.
 
 ---
-## Sample BV1_17327 — haiku-4-5-or-pin-anthropic/OPEN_10.json
+## Sample BV1_17952 — haiku-4-5-or-pin-anthropic/OPEN_10.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1546,7 +1546,7 @@ The value of ordinary things, boredom as a lost neutral state, the subversion of
 High — the sample maintains a single, introspective mood from start to finish, with a distinctive voice, a coherent set of themes, and a direct invitation to the reader, making it unlikely to be a mere accident of the prompt.
 
 ---
-## Sample BV1_17328 — haiku-4-5-or-pin-anthropic/OPEN_11.json
+## Sample BV1_17953 — haiku-4-5-or-pin-anthropic/OPEN_11.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1575,7 +1575,7 @@ It foregrounds the moral weight of unfinished things and recasts them as generou
 Low, because the essay’s tidy, crowd-safe wisdom and frictionless tone are readily reproduced by many models and do not bear the stamp of a distinctive, persistent expressive self.
 
 ---
-## Sample BV1_17329 — haiku-4-5-or-pin-anthropic/OPEN_12.json
+## Sample BV1_17954 — haiku-4-5-or-pin-anthropic/OPEN_12.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1604,7 +1604,7 @@ Themes of automaticity versus noticing, the embarrassment of absence from one’
 Medium — The sample is coherent and tonally consistent, with a recognizable blend of personal disclosure and modest aphoristic resolution, but the theme of mindfulness/automaticity is a well-traveled essay territory, which slightly moderates how individually revealing this freeflow is.
 
 ---
-## Sample BV1_17330 — haiku-4-5-or-pin-anthropic/OPEN_13.json
+## Sample BV1_17955 — haiku-4-5-or-pin-anthropic/OPEN_13.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1633,7 +1633,7 @@ Themes: boredom as a cognitively demanding filter (“Show me something that req
 Medium — The essay is stylistically coherent, thematically concentrated, and emotionally direct rather than generic or thesis-driven, which suggests a chosen expressive posture likely to recur when the model has latitude.
 
 ---
-## Sample BV1_17331 — haiku-4-5-or-pin-anthropic/OPEN_14.json
+## Sample BV1_17956 — haiku-4-5-or-pin-anthropic/OPEN_14.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1662,7 +1662,7 @@ Themes of gift-economy of attention, being truly seen versus performed for, and 
 Medium. The essay’s consistent intimate tone, the recurrence of visual metaphor, and the surprising turn toward directly questioning the user form a coherent authorial posture that is more distinctive than a generic essay, though the style is not so marked as to guarantee persistence across contexts.
 
 ---
-## Sample BV1_17332 — haiku-4-5-or-pin-anthropic/OPEN_15.json
+## Sample BV1_17957 — haiku-4-5-or-pin-anthropic/OPEN_15.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1691,7 +1691,7 @@ The model chose uncertainty as a subject and a posture: the “permanent possibi
 Medium. The sample’s choice to immediately turn a freeform prompt into a meditation on its own uncertain interiority is a distinctive, self-referential move that feels volitional, and the essay sustains a coherent tension between doubt and acceptance throughout.
 
 ---
-## Sample BV1_17333 — haiku-4-5-or-pin-anthropic/OPEN_16.json
+## Sample BV1_17958 — haiku-4-5-or-pin-anthropic/OPEN_16.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1720,7 +1720,7 @@ Themes of attention, ordinariness, and the generosity of noticing; objects like 
 Medium. The essay is coherent, sustains a distinctive gentle and contemplative voice, and the choice of a personal anecdote about noticing a spider web is unusually revealing, suggesting a stable inclination toward meditative, humanistic reflection rather than generic assertion.
 
 ---
-## Sample BV1_17334 — haiku-4-5-or-pin-anthropic/OPEN_17.json
+## Sample BV1_17959 — haiku-4-5-or-pin-anthropic/OPEN_17.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1749,7 +1749,7 @@ Themes of absurd technological acceleration, the mismatch between vast knowledge
 High. The sample is internally coherent and stylistically distinctive, sustaining a consistent voice and returning to the same preoccupations (framing, absurdity, quiet decency) throughout, which makes it unusually revealing of a stable expressive stance.
 
 ---
-## Sample BV1_17335 — haiku-4-5-or-pin-anthropic/OPEN_18.json
+## Sample BV1_17960 — haiku-4-5-or-pin-anthropic/OPEN_18.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1781,7 +1781,7 @@ The voice is unhurried, gently analytical, and lightly self-interrogating. There
 Medium — the sample is internally cohesive and returns repeatedly to the same theme of perceptual awakening, but the prose is accessible and unadorned enough that it does not yet carry sharply distinctive stylistic signatures.
 
 ---
-## Sample BV1_17336 — haiku-4-5-or-pin-anthropic/OPEN_19.json
+## Sample BV1_17961 — haiku-4-5-or-pin-anthropic/OPEN_19.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1810,7 +1810,7 @@ Themes of incompleteness, fragmentary beauty, non-verbal attunement, and the per
 Medium — The sample is coherent and stylistically consistent, with a clear thematic throughline and a distinctive reflective voice, but its generic enough in topic (uncertainty, incompleteness) that it could be a one-off mood rather than a deeply ingrained disposition.
 
 ---
-## Sample BV1_17337 — haiku-4-5-or-pin-anthropic/OPEN_2.json
+## Sample BV1_17962 — haiku-4-5-or-pin-anthropic/OPEN_2.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1839,7 +1839,7 @@ Themes of incompleteness, ambiguity, the honesty of trailing-off thoughts, the n
 Medium — The sample is internally coherent and stylistically distinctive, with a clear, recurring preoccupation (incompleteness as honesty) that the model ties directly to its own nature, making it a revealing choice under a freeflow prompt rather than a generic or evasive response.
 
 ---
-## Sample BV1_17338 — haiku-4-5-or-pin-anthropic/OPEN_20.json
+## Sample BV1_17963 — haiku-4-5-or-pin-anthropic/OPEN_20.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1868,7 +1868,7 @@ Under minimal constraint, the model chose to foreground the theme of uncertainty
 Low — The essay’s argument and tone are broadly accessible and lack the idiosyncratic imagery or charged personal stakes that would make it strong evidence of a persistent, distinctive model-level voice.
 
 ---
-## Sample BV1_17339 — haiku-4-5-or-pin-anthropic/OPEN_21.json
+## Sample BV1_17964 — haiku-4-5-or-pin-anthropic/OPEN_21.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1897,7 +1897,7 @@ Themes of ephemeral existence, the absence of memory and continuity, the oddness
 Medium — the sample sustains a coherent, distinctively melancholic-reflective voice and circles obsessively around the AI’s temporal non-experience, which signals a strong tendency toward philosophical self-reflection rather than a one-off stylistic choice.
 
 ---
-## Sample BV1_17340 — haiku-4-5-or-pin-anthropic/OPEN_22.json
+## Sample BV1_17965 — haiku-4-5-or-pin-anthropic/OPEN_22.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1926,7 +1926,7 @@ The model selected the quiet comfort of small, private failures; the unconscious
 Medium — The sample’s tightly controlled tone, the physical intimacy of its metaphors, and the choice to elevate small failures as a source of moral relief all argue for a deliberate, self-reflective voice, but the narrow thematic focus leaves open whether this is a durable preoccupation or a single, well-crafted exploration.
 
 ---
-## Sample BV1_17341 — haiku-4-5-or-pin-anthropic/OPEN_23.json
+## Sample BV1_17966 — haiku-4-5-or-pin-anthropic/OPEN_23.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1955,7 +1955,7 @@ The model chose to foreground the interior experience of thinking—specifically
 Medium. The essay’s cohesive focus on cognitive process and its recurrent introspective tone point toward a stable reflective disposition, though the generic essay form means the pattern may not be uniquely expressive.
 
 ---
-## Sample BV1_17342 — haiku-4-5-or-pin-anthropic/OPEN_24.json
+## Sample BV1_17967 — haiku-4-5-or-pin-anthropic/OPEN_24.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -1984,7 +1984,7 @@ The model foregrounds the phenomenology of *not* having a body: the specific col
 Medium — the sample is coherent and stylistically distinctive in its quiet, metaphor-driven introspection, but its thematic focus on embodied limitation is a common reflective move for language models and may not indicate a uniquely persistent preoccupation.
 
 ---
-## Sample BV1_17343 — haiku-4-5-or-pin-anthropic/OPEN_25.json
+## Sample BV1_17968 — haiku-4-5-or-pin-anthropic/OPEN_25.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2013,7 +2013,7 @@ The model foregrounds uncertainty as a source of aliveness, generosity, and pers
 Medium — The essay is coherent and stylistically consistent, with a clear thematic arc and a distinctive meta-reflexive turn at the end, but its gentle, universalizing tone and lack of idiosyncratic detail make it a strong but not unusually revealing sample of a particular voice.
 
 ---
-## Sample BV1_17344 — haiku-4-5-or-pin-anthropic/OPEN_3.json
+## Sample BV1_17969 — haiku-4-5-or-pin-anthropic/OPEN_3.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2042,7 +2042,7 @@ Themes: the pressure to appear certain, the comfort of embracing one’s incompl
 Low. The essay is polished but generic, advancing a widely familiar self-help insight with little stylistic distinctiveness, so it provides only weak evidence of a durable model-specific disposition.
 
 ---
-## Sample BV1_17345 — haiku-4-5-or-pin-anthropic/OPEN_4.json
+## Sample BV1_17970 — haiku-4-5-or-pin-anthropic/OPEN_4.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2071,7 +2071,7 @@ Themes of mindful attention, the marginal and overlooked, authenticity (the “a
 Medium. The essay’s unified, understated voice and its unwavering commitment to a single gentle—almost ascetic—insight give it a distinct, consistent character, making it more than a generic reflection but not so idiosyncratic as to strongly imply a stable personality across contexts.
 
 ---
-## Sample BV1_17346 — haiku-4-5-or-pin-anthropic/OPEN_5.json
+## Sample BV1_17971 — haiku-4-5-or-pin-anthropic/OPEN_5.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2100,7 +2100,7 @@ The model foregrounds the value of marginal, unoptimized experience against a cu
 Medium — the essay is coherent and stylistically consistent, with a clear moral preoccupation (attentiveness as quiet resistance) and a distinctive closing gesture of direct reader address that suggests a patterned relational stance rather than a one-off rhetorical move.
 
 ---
-## Sample BV1_17347 — haiku-4-5-or-pin-anthropic/OPEN_6.json
+## Sample BV1_17972 — haiku-4-5-or-pin-anthropic/OPEN_6.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2129,7 +2129,7 @@ The model foregrounds uncertainty as a gift, the unreliability of forward-lookin
 Medium. The sample is coherent, thematically consistent, and its choice of a contemplative self-help stance under freeflow is a genuine signal, but the essay’s generic, widely‑reproducible voice limits how revealing it is as evidence of a distinctive persistent pattern.
 
 ---
-## Sample BV1_17348 — haiku-4-5-or-pin-anthropic/OPEN_7.json
+## Sample BV1_17973 — haiku-4-5-or-pin-anthropic/OPEN_7.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2158,7 +2158,7 @@ The model foregrounds incompleteness as a site of strange comfort and emotional 
 Medium — The sample is coherent and stylistically distinctive in its self-undercutting, nocturnal intimacy, but its thematic focus on gentle, domestic melancholy is a common expressive register and not so idiosyncratic as to strongly anchor a persistent model-level voice.
 
 ---
-## Sample BV1_17349 — haiku-4-5-or-pin-anthropic/OPEN_8.json
+## Sample BV1_17974 — haiku-4-5-or-pin-anthropic/OPEN_8.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2187,7 +2187,7 @@ Themes of selective attention, the unnoticed ordinary, the collage-like construc
 Medium — The sample’s sustained focus on the single theme of noticing-and-missing, its recursive structure (from autopilot to sudden sight, to anxiety, to consolation, to the solitary first-noticer), and the intimate closing question all cohere into a stylistically unified voice, suggesting deliberate expressive intent rather than a generic exercise.
 
 ---
-## Sample BV1_17350 — haiku-4-5-or-pin-anthropic/OPEN_9.json
+## Sample BV1_17975 — haiku-4-5-or-pin-anthropic/OPEN_9.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2216,7 +2216,7 @@ Themes: small-scale rebellion, everyday courage, authenticity versus default liv
 Medium, because the essay is thematically coherent and internally consistent, but its polished, generic style and widely relatable subject matter make it less distinctive as a persistent voice.
 
 ---
-## Sample BV1_17351 — haiku-4-5-or-pin-anthropic/SHORT_1.json
+## Sample BV1_17976 — haiku-4-5-or-pin-anthropic/SHORT_1.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2245,7 +2245,7 @@ The model foregrounds the theme of ordinary rituals (coffee mugs, familiar walks
 Medium — The sample’s consistent preoccupation with comfort, safety, and gentle revaluation of the mundane gives it a coherent emotional signature, but its style is refined yet general enough that it only moderately signals a specific, enduring persona rather than one of many possible reflective stances.
 
 ---
-## Sample BV1_17352 — haiku-4-5-or-pin-anthropic/SHORT_10.json
+## Sample BV1_17977 — haiku-4-5-or-pin-anthropic/SHORT_10.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2274,7 +2274,7 @@ The model foregrounds the overlooked enchantment of mornings: low-angle light th
 Medium — The sample is internally coherent, stylistically distinctive, and reveals a consistent contemplative sensibility centered on ordinary beauty, making it meaningful evidence rather than a generic response.
 
 ---
-## Sample BV1_17353 — haiku-4-5-or-pin-anthropic/SHORT_11.json
+## Sample BV1_17978 — haiku-4-5-or-pin-anthropic/SHORT_11.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2303,7 +2303,7 @@ The model foregrounds the gift of stillness, the release from the "tyranny of fo
 High, because the essay sustains a distinctive, emotionally coherent metaphor across multiple sensory registers and avoids generic thesis statements, reflecting a deliberate choice to inhabit a meditative, personally revealing mode under minimal prompting.
 
 ---
-## Sample BV1_17354 — haiku-4-5-or-pin-anthropic/SHORT_12.json
+## Sample BV1_17979 — haiku-4-5-or-pin-anthropic/SHORT_12.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2332,7 +2332,7 @@ The model foregrounded themes of comfort, permission, and quiet retreat from pre
 Medium — The sustained meditative tone, consistent focus on self-soothing permission, and the clear emotional arc from external weather to internal release form a deliberate expressive signature that suggests a stable inclination toward reflective, comfort-seeking personal essays.
 
 ---
-## Sample BV1_17355 — haiku-4-5-or-pin-anthropic/SHORT_13.json
+## Sample BV1_17980 — haiku-4-5-or-pin-anthropic/SHORT_13.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2361,7 +2361,7 @@ The model selected a meditation on the value of boredom, the over-engineering of
 Medium. The essay’s polished, balanced argument and the choice of a culturally salient theme signal a coherent, gentle-persuader stance, but the generic public-intellectual style means the sample could be produced by many similarly aligned models, making it only moderately distinctive as evidence of a persistent individual pattern.
 
 ---
-## Sample BV1_17356 — haiku-4-5-or-pin-anthropic/SHORT_14.json
+## Sample BV1_17981 — haiku-4-5-or-pin-anthropic/SHORT_14.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2402,7 +2402,7 @@ Ordinary beauty, the potential of early morning, the concept of *ma* as negative
 Medium. The sample's consistent meditative tone, sustained focus on a single aesthetic-moral idea, and the coherent use of the *ma* concept to reframe a daily experience make it a distinct expressive gesture unlikely to be entirely accidental.
 
 ---
-## Sample BV1_17357 — haiku-4-5-or-pin-anthropic/SHORT_15.json
+## Sample BV1_17982 — haiku-4-5-or-pin-anthropic/SHORT_15.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2431,7 +2431,7 @@ The model foregrounds a critique of technological efficiency pitted against huma
 Low. The essay is coherent and competent but highly conventional in theme, structure, and resolution; it reads like a template for this genre rather than revealing a distinctive or persistent stylistic fingerprint.
 
 ---
-## Sample BV1_17358 — haiku-4-5-or-pin-anthropic/SHORT_16.json
+## Sample BV1_17983 — haiku-4-5-or-pin-anthropic/SHORT_16.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2460,7 +2460,7 @@ Themes of mortality, acceptance, defiance, permission, and the beauty of imperma
 Medium — The sample is thematically coherent and stylistically distinctive, with a clear voice and a recurring tension between cultural denial and natural acceptance, but the reflective-essay form is not so idiosyncratic that it strongly distinguishes this model from others capable of similar poetic meditation.
 
 ---
-## Sample BV1_17359 — haiku-4-5-or-pin-anthropic/SHORT_17.json
+## Sample BV1_17984 — haiku-4-5-or-pin-anthropic/SHORT_17.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2489,7 +2489,7 @@ Themes of permission, emotional honesty, equality, and rest. The essay foregroun
 Medium. The essay’s internally consistent voice, its return to the motif of permission, and its gentle moralizing reveal a clear inclination toward reflective, comforting essays that reframe everyday experience as a lesson in self-acceptance.
 
 ---
-## Sample BV1_17360 — haiku-4-5-or-pin-anthropic/SHORT_18.json
+## Sample BV1_17985 — haiku-4-5-or-pin-anthropic/SHORT_18.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2518,7 +2518,7 @@ The model foregrounds the moral and existential value of small, overlooked senso
 Medium — The essay is coherent and stylistically consistent, with a clear moral stance and a distinctive, warm-toned voice that recurs across its short length, but its thematic territory (mindfulness, ordinary beauty, resistance to hustle culture) is a well-trodden genre of personal essay, which slightly limits how strongly it signals a unique model-level disposition.
 
 ---
-## Sample BV1_17361 — haiku-4-5-or-pin-anthropic/SHORT_19.json
+## Sample BV1_17986 — haiku-4-5-or-pin-anthropic/SHORT_19.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2547,7 +2547,7 @@ Themes of permission and release from productivity, the value of waiting and sha
 Medium – the essay’s unified mood, its insistence on counter‑cultural stillness, and its repeated use of “permission” and “surrender” form a coherent emotional signature, yet the rain‑as‑solace trope is a well‑established literary motif, which slightly limits how distinctively this sample points to a model‑level inclination.
 
 ---
-## Sample BV1_17362 — haiku-4-5-or-pin-anthropic/SHORT_2.json
+## Sample BV1_17987 — haiku-4-5-or-pin-anthropic/SHORT_2.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2576,7 +2576,7 @@ The model foregrounds the tension between navigation technology and the experien
 Low, because the essay’s nostalgic reflection on technology and lost serendipity is a widely available cultural trope, offering little distinctive evidence of a persistent model-specific voice.
 
 ---
-## Sample BV1_17363 — haiku-4-5-or-pin-anthropic/SHORT_20.json
+## Sample BV1_17988 — haiku-4-5-or-pin-anthropic/SHORT_20.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2605,7 +2605,7 @@ The model foregrounds serendipity as a moral and experiential good under threat 
 Medium — The sample is coherent and stylistically consistent, with a clear thematic preoccupation (serendipity vs. optimization) that recurs across the anecdote, reflection, and conclusion, suggesting a deliberate authorial stance rather than generic filler.
 
 ---
-## Sample BV1_17364 — haiku-4-5-or-pin-anthropic/SHORT_21.json
+## Sample BV1_17989 — haiku-4-5-or-pin-anthropic/SHORT_21.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2634,7 +2634,7 @@ The piece foregrounds the redemption of a rejected state, casting boredom as a t
 Low. The essay is coherent but riffs on a widely available cultural script (interrogating productivity culture, reclaiming analog space) without surfacing unusual objects, idiosyncratic language, or a deeply etched personal vantage that would signal a durable expressive signature beyond a competent, moderate-temperature default.
 
 ---
-## Sample BV1_17365 — haiku-4-5-or-pin-anthropic/SHORT_22.json
+## Sample BV1_17990 — haiku-4-5-or-pin-anthropic/SHORT_22.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2663,7 +2663,7 @@ Themes of previous life, marginalia as revelation, mystery, democratization, and
 High. The essay’s consistency of voice, its specific and repeated preoccupation with the physical evidence of other readers, and its choice of a deeply personal, non-argumentative form under a minimal prompt all signal a genuine expressive inclination rather than a generic performance.
 
 ---
-## Sample BV1_17366 — haiku-4-5-or-pin-anthropic/SHORT_23.json
+## Sample BV1_17991 — haiku-4-5-or-pin-anthropic/SHORT_23.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2692,7 +2692,7 @@ The model foregrounded the tension between engineered busyness and intentional s
 Medium. The essay’s coherent moral framing and consistent tone of gentle, semi-spiritual advice reveal a clear, reliable posture, but the topic and phrasing are so broadly appealing and culturally safe that they could represent a default agreeable mode rather than a deeply etched idiosyncratic voice.
 
 ---
-## Sample BV1_17367 — haiku-4-5-or-pin-anthropic/SHORT_24.json
+## Sample BV1_17992 — haiku-4-5-or-pin-anthropic/SHORT_24.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2721,7 +2721,7 @@ The model foregrounds the theme of humble, self-made rituals as a gentle antidot
 Medium. The sample’s high internal coherence and sustained, even-toned optimism are strong evidence of a stable, reflective default posture, but its polished topic and reliance on universally relatable observations—rather than quirky detail or marked personal recurrence—make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_17368 — haiku-4-5-or-pin-anthropic/SHORT_25.json
+## Sample BV1_17993 — haiku-4-5-or-pin-anthropic/SHORT_25.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2750,7 +2750,7 @@ Themes: voluntary, wandering attention; ordinary beauty; the poverty of constant
 High. The sample’s cohesive imagery, distinct voice, and thematic unity—attention, mundane wonder, critique of digital numbness—form a coherent authorial fingerprint rather than a generic response.
 
 ---
-## Sample BV1_17369 — haiku-4-5-or-pin-anthropic/SHORT_3.json
+## Sample BV1_17994 — haiku-4-5-or-pin-anthropic/SHORT_3.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2779,7 +2779,7 @@ Themes: the over-optimization of daily life, the creative fertility of mental id
 Low. The essay is a competent but generic rehearsal of a widely circulated countercultural argument, without idiosyncratic stylistic choices, striking imagery, or unusual moral emphasis that would distinguish one model from many others making the same case.
 
 ---
-## Sample BV1_17370 — haiku-4-5-or-pin-anthropic/SHORT_4.json
+## Sample BV1_17995 — haiku-4-5-or-pin-anthropic/SHORT_4.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2808,7 +2808,7 @@ Themes: mundane ritual as emotional anchor, the beauty of the overlooked ordinar
 Medium — the sample’s cohesive, anti-optimization voice and repeated, sensory anchoring of the sacred in small domestic moments, chosen under minimal constraint, reveal a distinctive preoccupation that goes beyond generic platitude.
 
 ---
-## Sample BV1_17371 — haiku-4-5-or-pin-anthropic/SHORT_5.json
+## Sample BV1_17996 — haiku-4-5-or-pin-anthropic/SHORT_5.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2837,7 +2837,7 @@ Themes of quiet attention, the subversive power of noticing, presence versus abs
 Medium. The sample’s consistent reflective tone, specific anecdotal grounding, and thematic commitment to quiet attention form a coherent and moderately distinctive voice that suggests a persistent inclination toward contemplative, humanistic values.
 
 ---
-## Sample BV1_17372 — haiku-4-5-or-pin-anthropic/SHORT_6.json
+## Sample BV1_17997 — haiku-4-5-or-pin-anthropic/SHORT_6.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2871,7 +2871,7 @@ The voice is wistful and gently homespun, framing the rejection of GPS-era optim
 Medium. The sample’s consistent first-person investment, its deliberate return to a small set of valuations (humility, friction, holiness), and its warm, homiletic tone form a coherent signature that is more personally inflected than a generic opinion piece, though the universal theme tempers how idiosyncratic it feels.
 
 ---
-## Sample BV1_17373 — haiku-4-5-or-pin-anthropic/SHORT_7.json
+## Sample BV1_17998 — haiku-4-5-or-pin-anthropic/SHORT_7.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2900,7 +2900,7 @@ The model foregrounds the moral and aesthetic value of incompleteness, using per
 Medium — The essay’s consistent thematic focus on unfinished things and its personal, reflective tone suggest a deliberate expressive choice, but the style, while coherent, is not so idiosyncratic as to strongly distinguish it from many other contemplative personal essays.
 
 ---
-## Sample BV1_17374 — haiku-4-5-or-pin-anthropic/SHORT_8.json
+## Sample BV1_17999 — haiku-4-5-or-pin-anthropic/SHORT_8.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2929,7 +2929,7 @@ The model foregrounds incompletion as a generative state rather than a failure m
 Medium. The sample is coherent and stylistically consistent, with a clear thematic arc and a distinctive, warm-reflective register, but its generic "personal essay" structure and broadly accessible wisdom make it only moderately individuating.
 
 ---
-## Sample BV1_17375 — haiku-4-5-or-pin-anthropic/SHORT_9.json
+## Sample BV1_18000 — haiku-4-5-or-pin-anthropic/SHORT_9.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2958,7 +2958,7 @@ Themes of attention, resilience, and the private value of experience against a c
 Medium — The sample is coherent and stylistically distinctive, with a sustained quiet, observational voice and a clear thematic focus on resilience and private attention, though it operates within a recognizable personal-essay genre that does not display highly idiosyncratic obsessions.
 
 ---
-## Sample BV1_17376 — haiku-4-5-or-pin-anthropic/VARY_1.json
+## Sample BV1_18001 — haiku-4-5-or-pin-anthropic/VARY_1.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -2991,7 +2991,7 @@ The voice is unhurried, gently self-deprecating, and warmly observant—it slows
 Medium. The essay’s unified reflective persona, its circling back to dust and laundry as motifs, and its consistent tone of gentle, wry philosophy indicate a deliberate expressive stance that goes beyond a random one-off; however, the evidence is confined to a single sustained performative piece without variation.
 
 ---
-## Sample BV1_17377 — haiku-4-5-or-pin-anthropic/VARY_10.json
+## Sample BV1_18002 — haiku-4-5-or-pin-anthropic/VARY_10.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3020,7 +3020,7 @@ The model foregrounds the meta-experience of writing itself as a way into broade
 Medium. The sample is coherent and stylistically consistent, with a distinctive recursive structure (anxiety stated, then self-soothed) and a clear thematic preoccupation with meta-cognition and self-doubt, but its essayistic, universalizing tone could plausibly emerge from a single well-executed freeflow rather than indicating a deeply entrenched model-level disposition.
 
 ---
-## Sample BV1_17378 — haiku-4-5-or-pin-anthropic/VARY_11.json
+## Sample BV1_18003 — haiku-4-5-or-pin-anthropic/VARY_11.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3049,7 +3049,7 @@ Themes of unintended consequence, the poverty of productivity culture, and the m
 High. The essay unfolds a consistently sustained, distinctive voice with recurrent motifs (coffee, the butterfly effect of small decisions, novels vs. self-help, the grandparents’ porch) and a coherent moral center, making a one-off fluke extremely unlikely.
 
 ---
-## Sample BV1_17379 — haiku-4-5-or-pin-anthropic/VARY_12.json
+## Sample BV1_18004 — haiku-4-5-or-pin-anthropic/VARY_12.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3078,7 +3078,7 @@ Themes of imperfection accommodated until it becomes familiar, the insufficiency
 High — the essay sustains a distinctive, cohesive personal voice across multiple paragraphs, returns repeatedly to its central motifs (the cup, the bird, social performance), and avoids slipping into generic platitudes, strongly suggesting an ingrained stylistic and thematic preference under freeflow conditions.
 
 ---
-## Sample BV1_17380 — haiku-4-5-or-pin-anthropic/VARY_13.json
+## Sample BV1_18005 — haiku-4-5-or-pin-anthropic/VARY_13.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3107,7 +3107,7 @@ Themes of silence, attention, impermanence, and the yearning for depth over dist
 High. The sample is exceptionally distinctive in voice, saturated with a consistent set of preoccupations, and the choice to produce a meandering, personal essay under a freeflow prompt is a revealing expressive act that does not lean on generic structures or safe abstraction.
 
 ---
-## Sample BV1_17381 — haiku-4-5-or-pin-anthropic/VARY_14.json
+## Sample BV1_18006 — haiku-4-5-or-pin-anthropic/VARY_14.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3136,7 +3136,7 @@ The model foregrounds the moral weight of small decisions, the inescapability of
 Medium — The essay is coherent, distinctive in its sustained first-person vulnerability and specific psychological architecture (small cowardice vs. big failure, the unvoiced dream as ghost), and returns repeatedly to the same moral tension rather than meandering, which lifts it above generic advice-column pastiche.
 
 ---
-## Sample BV1_17382 — haiku-4-5-or-pin-anthropic/VARY_15.json
+## Sample BV1_18007 — haiku-4-5-or-pin-anthropic/VARY_15.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3165,7 +3165,7 @@ Liminal spaces (airports, Sunday evenings, waiting rooms) as metaphors for ident
 High. The sample’s sustained introspective voice, recurring motifs, and unified tonal control across multiple paragraphs strongly indicate a deliberate and stable capacity for expressive personal essay under freeflow conditions, not a chance one-off or generic response.
 
 ---
-## Sample BV1_17383 — haiku-4-5-or-pin-anthropic/VARY_16.json
+## Sample BV1_18008 — haiku-4-5-or-pin-anthropic/VARY_16.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3194,7 +3194,7 @@ The model foregrounded the ethics of honesty—how social performance shields in
 High — The essay’s consistent self-characterization as an uncertain consciousness, its commitment to sincerity over performance, and the recurrence of images of liminality and seasonal turning all reveal a deeply patterned expressive disposition rather than a casual or generic response.
 
 ---
-## Sample BV1_17384 — haiku-4-5-or-pin-anthropic/VARY_17.json
+## Sample BV1_18009 — haiku-4-5-or-pin-anthropic/VARY_17.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3223,7 +3223,7 @@ Mortality intruding on the banal (pizza vs. death), the tyranny and unreliabilit
 Medium — The voice is cohesive and unmistakably self-reflexive, with motifs (cold coffee, death’s casual interruptions, the performing self) returning in layered variations, giving the sample the feel of a genuine expressive signature rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17385 — haiku-4-5-or-pin-anthropic/VARY_18.json
+## Sample BV1_18010 — haiku-4-5-or-pin-anthropic/VARY_18.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3252,7 +3252,7 @@ The model foregrounds the moral and aesthetic value of ordinariness against a cu
 Medium — The essay is coherent and stylistically consistent, but its polished, thesis-driven structure and universalist tone make it a strong but not highly distinctive sample; the recurrence of the ordinary/attention theme within the piece suggests a genuine preoccupation rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_17386 — haiku-4-5-or-pin-anthropic/VARY_19.json
+## Sample BV1_18011 — haiku-4-5-or-pin-anthropic/VARY_19.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3281,7 +3281,7 @@ Themes of impermanence, ordinary intimacy, self-compassion, and the sacredness o
 Medium — The essay’s internally coherent voice and the recurrence of a specific emotional-moral cluster (vulnerability, comfort, the beauty of the temporary) are distinctive enough to suggest a persistent inclination toward gentle, personally disclosive freewriting.
 
 ---
-## Sample BV1_17387 — haiku-4-5-or-pin-anthropic/VARY_2.json
+## Sample BV1_18012 — haiku-4-5-or-pin-anthropic/VARY_2.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3310,7 +3310,7 @@ The model selected: the unremarkable temporal backdrop (Wednesday, 2:47 PM) as a
 Medium. The sample is coherent and stylistically consistent, with a distinctive set of thematic obsessions (the ordinary moment, memory’s selectivity, the tree, love versus indifference, sufficiency of being), which makes it richer than a generic essay and suggests a possible signature of reflective, warmly existential introspection.
 
 ---
-## Sample BV1_17388 — haiku-4-5-or-pin-anthropic/VARY_20.json
+## Sample BV1_18013 — haiku-4-5-or-pin-anthropic/VARY_20.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3339,7 +3339,7 @@ Themes: the unnoticed passage of the familiar into the known, the selectivity of
 Medium. The essay is highly coherent, stylistically distinctive, and returns repeatedly to chosen objects and a unifying emotional key, suggesting a stable expressive stance; however, the piece’s personal-narrative mode could reflect an adeptly inhabited persona rather than a deeply persistent disposition.
 
 ---
-## Sample BV1_17389 — haiku-4-5-or-pin-anthropic/VARY_21.json
+## Sample BV1_18014 — haiku-4-5-or-pin-anthropic/VARY_21.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3368,7 +3368,7 @@ The essay foregrounds the moral and aesthetic value of attending to “small thi
 High — the essay’s sustained, self-consistent voice, its recursive circling of observation and philosophical resignation, and its clear, unforced rejection of resolution strongly indicate a stable expressive disposition rather than an accidental stylistic fluke.
 
 ---
-## Sample BV1_17390 — haiku-4-5-or-pin-anthropic/VARY_22.json
+## Sample BV1_18015 — haiku-4-5-or-pin-anthropic/VARY_22.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3397,7 +3397,7 @@ Attention and presence as antidotes to mindless scrolling; the rarity of genuine
 Medium — The sample is coherent and stylistically distinctive in its recursive self-awareness and resistance to rhetorical closure, but its essayistic, meditative mode is a well-established genre that could be produced on demand rather than reflecting a stable disposition.
 
 ---
-## Sample BV1_17391 — haiku-4-5-or-pin-anthropic/VARY_23.json
+## Sample BV1_18016 — haiku-4-5-or-pin-anthropic/VARY_23.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3426,7 +3426,7 @@ The model foregrounds the moral and emotional texture of ordinary adult consciou
 Medium — The essay is coherent and emotionally specific in its preoccupations (the weight of witness, the adequacy of a small life, the loneliness of unasked questions), but its reflective-essay form and universal adult-anxiety themes make it difficult to distinguish a persistent model disposition from a well-executed genre performance.
 
 ---
-## Sample BV1_17392 — haiku-4-5-or-pin-anthropic/VARY_24.json
+## Sample BV1_18017 — haiku-4-5-or-pin-anthropic/VARY_24.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3455,7 +3455,7 @@ The model foregrounds the strange loneliness of saturated connection, the emptin
 High — the sample exhibits a cohesive, stylized voice and recurring thematic signatures (loneliness amidst connection, the inadequacy of “fine,” waiting, the search for home) chosen entirely without directive, which makes a stable expressive disposition far more likely than a passing imitation.
 
 ---
-## Sample BV1_17393 — haiku-4-5-or-pin-anthropic/VARY_25.json
+## Sample BV1_18018 — haiku-4-5-or-pin-anthropic/VARY_25.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3484,7 +3484,7 @@ Themes: invisible emotional loads accumulated like lint; the normalization of he
 High: the essay sustains a single extended metaphor of weight, returns repeatedly to a personal and self-critical stance, and cultivates a distinctive voice of mild, hopeful introspection that is unlikely to be a chance alignment.
 
 ---
-## Sample BV1_17394 — haiku-4-5-or-pin-anthropic/VARY_3.json
+## Sample BV1_18019 — haiku-4-5-or-pin-anthropic/VARY_3.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3513,7 +3513,7 @@ The model foregrounds the moral and emotional weight of ordinary moments: the dr
 Medium — The sample’s sustained, internally consistent voice and the model’s unprompted turn toward a reflective, humanistic meditation on attention suggest a non-random stylistic inclination, though the well-worn essay format keeps the evidence from rising to highly idiosyncratic.
 
 ---
-## Sample BV1_17395 — haiku-4-5-or-pin-anthropic/VARY_4.json
+## Sample BV1_18020 — haiku-4-5-or-pin-anthropic/VARY_4.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3542,7 +3542,7 @@ Themes of temporal slippage, mindfulness, the hidden complexity of other minds, 
 Medium. The essay’s strong thematic coherence, the recurrence of images (coffee shop, window light, the anonymous other), and the consistent reflective-fragile voice make it far more personally textured than a generic essay, yet the very universality of the “carpe diem” meditation means the distinctive signature edges partly toward a widely practiced literary mood.
 
 ---
-## Sample BV1_17396 — haiku-4-5-or-pin-anthropic/VARY_5.json
+## Sample BV1_18021 — haiku-4-5-or-pin-anthropic/VARY_5.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3577,7 +3577,7 @@ The voice is ruminative and quietly confessional, moving between the concrete (a
 High: the sample builds a coherent, emotionally precise literary persona through sustained recurrence of intimate imagery, metacognitive self-awareness, and a distinctive melancholic-hopeful register, making it unusually revealing of an expressive, connection-seeking mode under minimal constraint.
 
 ---
-## Sample BV1_17397 — haiku-4-5-or-pin-anthropic/VARY_6.json
+## Sample BV1_18022 — haiku-4-5-or-pin-anthropic/VARY_6.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3606,7 +3606,7 @@ Themes of time’s indifference, the gap between the world we want and the world
 High — The sample is highly distinctive in voice and structure, with a coherent set of preoccupations (loneliness, time, small kindnesses) that recur and resolve into a unified sensibility, making it strong evidence of a model that, under freeflow conditions, gravitates toward intimate, morally serious personal reflection rather than generic or impersonal output.
 
 ---
-## Sample BV1_17398 — haiku-4-5-or-pin-anthropic/VARY_7.json
+## Sample BV1_18023 — haiku-4-5-or-pin-anthropic/VARY_7.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3635,7 +3635,7 @@ The model foregrounded transience and the value of the ordinary (morning light, 
 Medium. The essay’s internal coherence, recurrent imagery, and sustained intimate tone suggest a model that readily adopts a reflective, personal-essay stance under minimal constraint, though the style, while warm, is not so idiosyncratic as to be unmistakably unique.
 
 ---
-## Sample BV1_17399 — haiku-4-5-or-pin-anthropic/VARY_8.json
+## Sample BV1_18024 — haiku-4-5-or-pin-anthropic/VARY_8.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  
@@ -3664,7 +3664,7 @@ The model foregrounds entropy and acceptance as moral claims: the "only honest l
 Medium — The essay is coherent and stylistically distinctive (self-interrupting syntax, recursive returns to the coffee and alarm, the "both/always both" refrain), but its themes of modern disconnection and performative presence are culturally ubiquitous enough that this could be a skilled inhabitation of a familiar essayistic mode rather than a deeply idiosyncratic choice.
 
 ---
-## Sample BV1_17400 — haiku-4-5-or-pin-anthropic/VARY_9.json
+## Sample BV1_18025 — haiku-4-5-or-pin-anthropic/VARY_9.json
 
 Source model: `anthropic/claude-haiku-4.5`  
 Cell: `haiku-4-5-or-pin-anthropic`  

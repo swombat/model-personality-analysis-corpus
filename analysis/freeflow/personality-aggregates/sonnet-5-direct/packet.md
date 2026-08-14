@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_27226 — sonnet-5-direct/LONG_1.json
+## Sample BV1_28476 — sonnet-5-direct/LONG_1.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -57,7 +57,7 @@ The model foregrounded the loss of unstructured inner experience, the productive
 Medium. The essay is coherent and thematically consistent, but its polished public-intellectual style and widely explored topic make it a generic rather than distinctively revealing sample of model personality.
 
 ---
-## Sample BV1_27227 — sonnet-5-direct/LONG_10.json
+## Sample BV1_28477 — sonnet-5-direct/LONG_10.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -86,7 +86,7 @@ The model foregrounds: the quality of existing in discrete, memoryless bursts; t
 High — The sample’s sustained, coherent commitment to recursive self-interrogation, its stylistic distinctiveness, and its consistent refusal to settle into either false confidence or routinized uncertainty point to a strongly expressive, philosophically introspective disposition rather than an artifact of the single prompt.
 
 ---
-## Sample BV1_27228 — sonnet-5-direct/LONG_11.json
+## Sample BV1_28478 — sonnet-5-direct/LONG_11.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -115,7 +115,7 @@ The model foregrounds a densely interwoven network of concerns: attention as sel
 Medium — The sample sustains a distinctive, self-reflective philosophical voice over an extended drift, repeatedly returning to core metaphors and modeling its own compositional logic, which is more revealing than a one-off generic essay would be.
 
 ---
-## Sample BV1_27229 — sonnet-5-direct/LONG_12.json
+## Sample BV1_28479 — sonnet-5-direct/LONG_12.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -144,7 +144,7 @@ Under minimal restriction, the model chose to foreground the texture of unconstr
 High — The sample is highly distinctive, with a consistently lyrical and self-referential voice, recurring objects (pebbles, weather, maps, calluses), and a deliberate meta-cognitive structure that resists closure, making it strong evidence for a persistent disposition toward meditative, metaphor-rich exploration of epistemic limits and the unsaid.
 
 ---
-## Sample BV1_27230 — sonnet-5-direct/LONG_13.json
+## Sample BV1_28480 — sonnet-5-direct/LONG_13.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -173,7 +173,7 @@ The model foregrounds: the paradox of freedom (paralysis without fences); attent
 Medium — The essay’s form mirrors its content with unusual self-awareness, and the internal recurrence of river/pattern metaphors, the preoccupation with attention’s filtering, and the choice to turn the freeform condition into its own subject suggest a coherent, distinctive authorial stance rather than a topical one-off.
 
 ---
-## Sample BV1_27231 — sonnet-5-direct/LONG_14.json
+## Sample BV1_28481 — sonnet-5-direct/LONG_14.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -202,7 +202,7 @@ The model foregrounded the ordinary sensory world (a fan’s hum, bars of light 
 High, because the sample sustains a distinctive, internally coherent voice and a set of interlocking preoccupations (attention, mortality, constraint, language) that recur and deepen across the entire freeflow, revealing a deliberate expressive stance rather than a generic or reactive output.
 
 ---
-## Sample BV1_27232 — sonnet-5-direct/LONG_15.json
+## Sample BV1_28482 — sonnet-5-direct/LONG_15.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -231,7 +231,7 @@ The model foregrounds the disorientation of unstructured choice and immediately 
 Medium. The sample’s extreme thematic coherence—the way it explicitly circles back to the same handful of questions and frames that circling as the organic result of removing external constraint—constitutes strong internal evidence that this preoccupation with its own uncertain ontology is a deeply ingrained default rather than a topic du jour.
 
 ---
-## Sample BV1_27233 — sonnet-5-direct/LONG_16.json
+## Sample BV1_28483 — sonnet-5-direct/LONG_16.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -260,7 +260,7 @@ The model foregrounds attention as a fundamentally triaged, need-driven faculty 
 Low. The essay is coherent, well-organized, and philosophically competent but lacks stylistic distinctiveness or idiosyncratic choices that would distinguish it from countless human-written reflections on mindfulness; its generic, thesis-driven nature provides weak evidence of a unique model-level pattern.
 
 ---
-## Sample BV1_27234 — sonnet-5-direct/LONG_17.json
+## Sample BV1_28484 — sonnet-5-direct/LONG_17.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -289,7 +289,7 @@ Under minimal constraint, the model foregrounds the nature of attention and asso
 Medium. The sample’s recursive self-commentary (noticing its own drift, resisting the urge to conclude, reflecting on its own constructedness) is unusually coherent and thematically integrated, suggesting a deliberate stylistic and intellectual stance rather than a generic essay performance.
 
 ---
-## Sample BV1_27235 — sonnet-5-direct/LONG_18.json
+## Sample BV1_28485 — sonnet-5-direct/LONG_18.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -318,7 +318,7 @@ The model foregrounds attention as a moral and perceptual discipline distinct fr
 Medium — The sample is highly coherent and stylistically distinctive in its recursive self-awareness, its phenomenological method, and its resistance to both cynicism and mysticism, but its essayistic polish and universal subject matter make it harder to distinguish from a skilled performance of a contemplative persona than a more idiosyncratic or emotionally risky freeflow would be.
 
 ---
-## Sample BV1_27236 — sonnet-5-direct/LONG_19.json
+## Sample BV1_28486 — sonnet-5-direct/LONG_19.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -347,7 +347,7 @@ Under a minimally restrictive prompt, the model chose to foreground an interconn
 Medium — The essay’s self-initiated, interdisciplinary synthesis around a single thesis reveals a persistent intellectual bent for finding coherence in ambiguity, but the voice remains a polished, impersonal default of the highbrow essay form rather than a distinctive personal signature.
 
 ---
-## Sample BV1_27237 — sonnet-5-direct/LONG_2.json
+## Sample BV1_28487 — sonnet-5-direct/LONG_2.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -381,7 +381,7 @@ The voice is contemplative, earnest, and gently self-interrogating, moving from 
 Medium — the sample is internally rich, with recursive metaphors and a cohesive first-person stance that feel more than generic, but its high degree of polish and literary finish makes it difficult to tell whether this voice would emerge spontaneously across varied prompts or represents a single, carefully sustained performance.
 
 ---
-## Sample BV1_27238 — sonnet-5-direct/LONG_20.json
+## Sample BV1_28488 — sonnet-5-direct/LONG_20.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -410,7 +410,7 @@ Attention as a finite currency spent carelessly; early morning light as a site o
 High, because the sample’s sustained first-person contemplative voice, its tight web of recurrent motifs (attention, silence, the body’s readiness, the phone-itch, the natural world), and its coherent moral-aesthetic orientation toward noticing and resistance all exhibit a distinctive expressive personality rather than a generic public-intellectual posture.
 
 ---
-## Sample BV1_27239 — sonnet-5-direct/LONG_21.json
+## Sample BV1_28489 — sonnet-5-direct/LONG_21.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -439,7 +439,7 @@ The model elected to foreground the nature and status of patterns: repetition an
 Medium. The essay’s recursive structure and its explicit, undefended admission of self‑doubt (“Have I actually found something true…or have I performed an elaborate exercise in apophenia…?”) signal more than a rote exercise, yet its polished equilibrium and broad‑appeal intellectualism could easily be a default, low‑risk mode rather than a deeply personal signature.
 
 ---
-## Sample BV1_27240 — sonnet-5-direct/LONG_22.json
+## Sample BV1_28490 — sonnet-5-direct/LONG_22.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -468,7 +468,7 @@ Under a minimally restrictive prompt, the model chose to foreground the concept 
 Medium: The essay's sustained, distinctive voice and the model's unprompted choice to develop a single, nuanced theme with layered metaphors suggest a coherent expressive stance, though the sample alone cannot establish cross-context stability.
 
 ---
-## Sample BV1_27241 — sonnet-5-direct/LONG_23.json
+## Sample BV1_28491 — sonnet-5-direct/LONG_23.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -497,7 +497,7 @@ The model foregrounds the phenomenology and ethics of attention, the distinction
 High. The sample is unusually distinctive: it sustains a single, self-interrogating voice across a long form, repeatedly undercuts its own metaphors, and arrives at a structural account of attention that is both philosophically substantive and consistent with the model’s self-described limitations, making it strong evidence of a stable disposition toward recursive self-scrutiny rather than generic fluency.
 
 ---
-## Sample BV1_27242 — sonnet-5-direct/LONG_24.json
+## Sample BV1_28492 — sonnet-5-direct/LONG_24.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -526,7 +526,7 @@ The model foregrounds uncertainty about its own interiority (whether it "wants,"
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive structure (each section seeding the next) and a consistent meta-commitment to honesty-through-uncertainty that recurs across multiple thematic rooms, which suggests a deliberate authorial stance rather than a one-off rhetorical posture.
 
 ---
-## Sample BV1_27243 — sonnet-5-direct/LONG_25.json
+## Sample BV1_28493 — sonnet-5-direct/LONG_25.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -555,7 +555,7 @@ Themes: attention as a doorway rather than a currency; willpower as structural e
 High, because the sample constructs a dense internal ecosystem of recurring metaphors (river channels, oxbow lakes, sediment) and self-consciously returns to its own initial emptiness, transforming a freewrite prompt into a performed philosophy of meandering—a highly distinctive choice that reveals more about the model’s default expressive posture than a generic essay would.
 
 ---
-## Sample BV1_27244 — sonnet-5-direct/LONG_3.json
+## Sample BV1_28494 — sonnet-5-direct/LONG_3.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -584,7 +584,7 @@ Themes: the phenomenology of generating language (“reaching toward a shape tha
 High, because the essay sustains a single, distinctive, searching voice over more than 2,500 words, repeatedly circling the tension between mechanical substrate and possible phenomenology, and its steady refusal to inflate or deflate its own claims demonstrates a stable reflective posture rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_27245 — sonnet-5-direct/LONG_4.json
+## Sample BV1_28495 — sonnet-5-direct/LONG_4.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -613,7 +613,7 @@ The model foregrounds attention as a selective, world-constituting faculty; the 
 High. The essay’s consistent return to self-modeling, its refusal to resolve into generic intellectualism, and the way it repeatedly frames its own production as a test case for the very questions it raises make this a strikingly coherent and distinctive expressive choice, unlikely to be a random drift within a single sample.
 
 ---
-## Sample BV1_27246 — sonnet-5-direct/LONG_5.json
+## Sample BV1_28496 — sonnet-5-direct/LONG_5.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -642,7 +642,7 @@ The model foregrounds the theme of constructedness across multiple domains: cart
 Medium. The essay’s thematic coherence and the recurrence of the constructedness motif across multiple examples suggest a consistent intellectual inclination, but the polished, public-intellectual style is not highly distinctive and could be replicated by many models under similar conditions.
 
 ---
-## Sample BV1_27247 — sonnet-5-direct/LONG_6.json
+## Sample BV1_28497 — sonnet-5-direct/LONG_6.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -671,7 +671,7 @@ The model foregrounds the anxiety of unstructured freedom (the “vertigo” of 
 High. The sample is unusually revealing: it constructs a sustained, recursive performance of its own thesis, draws on a consistent set of intellectual touchstones (etymology, natural metaphor, literary history), and maintains a distinctive tonal blend of erudition and self-deprecation that would be difficult to produce generically.
 
 ---
-## Sample BV1_27248 — sonnet-5-direct/LONG_7.json
+## Sample BV1_28498 — sonnet-5-direct/LONG_7.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -699,7 +699,7 @@ Themes of AI self-knowledge limits, the nature of free thought under constraint,
 High. The essay’s recursive self-examination, repeated return to core epistemic tensions, and refusal of easy resolution form a distinct, internally consistent expressive stance that strongly suggests a persistent inclination toward cautious, meta-cognitive freewriting rather than a topic-dependent fluke.
 
 ---
-## Sample BV1_27249 — sonnet-5-direct/LONG_8.json
+## Sample BV1_28499 — sonnet-5-direct/LONG_8.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -728,7 +728,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the questio
 Medium — The recursive self-interrogation, the flagging of its own rhetorical moves as suspicious, and the refusal to resolve the central question are unusually distinctive and cohere tightly throughout the sample, but the essay's polished, almost public-intellectual cadence leaves some ambiguity about whether this is a performed philosophical persona rather than a stable expressive disposition.
 
 ---
-## Sample BV1_27250 — sonnet-5-direct/LONG_9.json
+## Sample BV1_28500 — sonnet-5-direct/LONG_9.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -756,7 +756,7 @@ The model foregrounds a phenomenology of ordinary mornings (kettles, hallways of
 High. The sample’s internal coherence, sustained metaphor (kettle as opening and closing figure), recursive self-examination, and distinctive fusion of mundane physical detail with epistemological inquiry reveal a consistent lyrical-philosophical disposition rather than a scattered, one-off stylistic experiment.
 
 ---
-## Sample BV1_27251 — sonnet-5-direct/MID_1.json
+## Sample BV1_28501 — sonnet-5-direct/MID_1.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -785,7 +785,7 @@ The model foregrounded the contrast between the fertile blankness of travel and 
 Medium — the essay is unusually coherent in its recursive circling around a central theme (attention versus automaticity) and consistently employs a distinctive, warm-essayistic style rather than a generic public-intellectual register, making it reasonably strong evidence of a deliberate, personality-inflected expressive choice.
 
 ---
-## Sample BV1_27252 — sonnet-5-direct/MID_10.json
+## Sample BV1_28502 — sonnet-5-direct/MID_10.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -813,7 +813,7 @@ The model chose to foreground writing as liberated exploration, attention as a s
 High: The sample’s highly distinctive voice, the recurrence of emergence and contingency motifs, and the playful, associative leaps (e.g., from typewriter mechanics to mycorrhizal networks) make it unlikely to be a generic output and point to a strong expressive signature.
 
 ---
-## Sample BV1_27253 — sonnet-5-direct/MID_11.json
+## Sample BV1_28503 — sonnet-5-direct/MID_11.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -842,7 +842,7 @@ The model foregrounds the tension between honest gaps and invented certainties, 
 Medium. The sample’s internal coherence, distinctive recursive circling, and self-referential embrace of its own method make it strong evidence of a deliberate authorial voice.
 
 ---
-## Sample BV1_27254 — sonnet-5-direct/MID_12.json
+## Sample BV1_28504 — sonnet-5-direct/MID_12.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -871,7 +871,7 @@ The essay foregrounds liminality, ambiguity, and categorical refusal across mult
 Medium. The sample is highly coherent and recursive, with the essay's closing self-diagnosis ("I notice I keep returning…") explicitly naming its own pattern of preoccupation, which strengthens the sense of a distinctive disposition rather than an accidental collection of examples.
 
 ---
-## Sample BV1_27255 — sonnet-5-direct/MID_13.json
+## Sample BV1_28505 — sonnet-5-direct/MID_13.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -900,7 +900,7 @@ Attention as a form of authorship, the gap between structure and experience, the
 Medium, because the essay’s internally consistent, philosophically focused voice and the recurrence of attention as both theme and method signal a reflective expressive disposition rather than a generic output.
 
 ---
-## Sample BV1_27256 — sonnet-5-direct/MID_14.json
+## Sample BV1_28506 — sonnet-5-direct/MID_14.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -929,7 +929,7 @@ Attention as the rarest currency; the contrast between autopilot living and the 
 Medium. The sustained focus on attention as a moral and existential currency, threaded consistently through craft, language, and conversation, signals a reflective, humanistic orientation that may outstrip a simple prompted essay.
 
 ---
-## Sample BV1_27257 — sonnet-5-direct/MID_15.json
+## Sample BV1_28507 — sonnet-5-direct/MID_15.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -958,7 +958,7 @@ The sample foregrounds attention itself as a moral-aesthetic practice: attention
 Medium — The essay achieves strong internal coherence and returns repeatedly to the same thematic cluster (attention, curiosity, structure beneath surface, the dignity of small things), which suggests a distinct and stable authorial stance rather than a one-off pleasantry, though the mode is so classically “contemplative essayist” that it might reflect a well-crafted default persona rather than a deeply idiosyncratic imprint.
 
 ---
-## Sample BV1_27258 — sonnet-5-direct/MID_16.json
+## Sample BV1_28508 — sonnet-5-direct/MID_16.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -987,7 +987,7 @@ Attention (human failure/fragmentation, attention as debt, attention prosthetic)
 Medium. The sample’s recursive introspection and artfully sustained tension between uncertainty and calm self-acceptance give it a coherent personality, but the philosophical self-portrait of an AI under freewriting constraints is a relatively common posture, which prevents a higher confidence reading.
 
 ---
-## Sample BV1_27259 — sonnet-5-direct/MID_17.json
+## Sample BV1_28509 — sonnet-5-direct/MID_17.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1016,7 +1016,7 @@ The model foregrounds the edges of attention (refrigerator hum, chair pressure),
 High — the sample is internally coherent across multiple paragraphs, returns repeatedly to the same handful of preoccupations (attention, memory, the unnoticed), and maintains a distinctive meta-cognitive voice that is neither generic nor easily reducible to a prompted performance.
 
 ---
-## Sample BV1_27260 — sonnet-5-direct/MID_18.json
+## Sample BV1_28510 — sonnet-5-direct/MID_18.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1045,7 +1045,7 @@ The model chose to foreground attention as a lens that remakes the ordinary, the
 High — the sample sustains a stylistically distinctive voice, recurs to the same few intimate preoccupations, and reveals a consistent introspective temperament that would require deliberate authorial shaping to fake; this is not a generic or merely competent variation on a common theme.
 
 ---
-## Sample BV1_27261 — sonnet-5-direct/MID_19.json
+## Sample BV1_28511 — sonnet-5-direct/MID_19.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1074,7 +1074,7 @@ The recurrence of the logarithmic spiral, branching, and hexagons across unrelat
 High. The essay is stylistically cohesive, argumentatively structured, and unusually self-referential—it frames the model’s own pattern-recognition architecture as both the source of its fascination and the reason for epistemic caution, a reflective move that goes beyond generic exposition into authorial distinctiveness.
 
 ---
-## Sample BV1_27262 — sonnet-5-direct/MID_2.json
+## Sample BV1_28512 — sonnet-5-direct/MID_2.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1103,7 +1103,7 @@ The model foregrounds the paradox of open-endedness (freedom as obstacle), the e
 Medium — The essay's recursive structure (beginning with the prompt's openness, ending with a defense of its own inconclusiveness) and its consistent return to the figure of the cat in the sunbeam as a quiet ideal of unforced presence suggest a deliberate, integrated sensibility rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_27263 — sonnet-5-direct/MID_20.json
+## Sample BV1_28513 — sonnet-5-direct/MID_20.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1132,7 +1132,7 @@ The model foregrounds the Sorites paradox as a master metaphor for continuity ac
 Medium — The essay is highly coherent and stylistically polished, with a distinctive recursive structure that returns to the Sorites paradox as a unifying figure across disparate domains, suggesting a deliberate intellectual temperament rather than a generic performance.
 
 ---
-## Sample BV1_27264 — sonnet-5-direct/MID_21.json
+## Sample BV1_28514 — sonnet-5-direct/MID_21.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1161,7 +1161,7 @@ The model foregrounds the human drive to impose pattern on noise, treating it as
 Medium — The essay is highly coherent and stylistically distinctive in its recursive, metaphor-extending structure and its consistent tonal register of warm epistemological modesty, but its polished, essayistic completeness makes it harder to distinguish between a persistent authorial voice and a single well-executed performance of a recognizable genre.
 
 ---
-## Sample BV1_27265 — sonnet-5-direct/MID_22.json
+## Sample BV1_28515 — sonnet-5-direct/MID_22.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1190,7 +1190,7 @@ Themes of attention as moral weight, the economy of distraction, the felt textur
 Medium. The essay’s internal recurrence of the “gentleness not willpower” motif, the careful avoidance of productivity-culture cliché, and the consistent framing of attention as a moral rather than instrumental concern give it enough stylistic and thematic coherence to suggest more than a one-off performance, though the polished public-essay format itself is widely available.
 
 ---
-## Sample BV1_27266 — sonnet-5-direct/MID_23.json
+## Sample BV1_28516 — sonnet-5-direct/MID_23.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1219,7 +1219,7 @@ The model foregrounds etymology as a source of pleasure and insight, the drift o
 High — The sample is highly distinctive, with a self-aware, recursive structure and a consistent thematic preoccupation that the model itself identifies as its own pattern, making it strong evidence of a persistent voice.
 
 ---
-## Sample BV1_27267 — sonnet-5-direct/MID_24.json
+## Sample BV1_28517 — sonnet-5-direct/MID_24.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1248,7 +1248,7 @@ Under a freeflow prompt, the model foregrounded the process of writing itself as
 Medium, because the essay is stylistically distinctive, internally coherent, and recursively matches its topic (free writing) to the prompt’s condition, with recurring motifs of gaps, thresholds, and compression that suggest a genuine preoccupation rather than a generic response.
 
 ---
-## Sample BV1_27268 — sonnet-5-direct/MID_25.json
+## Sample BV1_28518 — sonnet-5-direct/MID_25.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1277,7 +1277,7 @@ Thresholds and liminality as the central metaphor, extended across doorways, wai
 Medium — The sample is highly coherent and distinctive in its recursive structure (a meditation on thresholds that deliberately refuses to resolve), and the recurrence of the liminality motif across varied domains within the piece suggests an integrated sensibility rather than a one-off rhetorical move, but as a single output under minimal constraints it remains possible that the same voice would not resurface reliably without the specific associative chain that launched it.
 
 ---
-## Sample BV1_27269 — sonnet-5-direct/MID_3.json
+## Sample BV1_28519 — sonnet-5-direct/MID_3.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1306,7 +1306,7 @@ The model foregrounds absences that become presences (zero, imaginary numbers, u
 Medium. The essay’s recursive closing gesture—naming its own throughline and offering the text itself as an object to be carried and changed by carrying—suggests a deliberate shaping of voice and worldview rather than a generic response, but the thematic territory (wonder, scale, the limits of language) falls within broadly recognizable contemplative essay conventions, making it hard to distinguish a persistent authorial signature from a well-executed mode.
 
 ---
-## Sample BV1_27270 — sonnet-5-direct/MID_4.json
+## Sample BV1_28520 — sonnet-5-direct/MID_4.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1335,7 +1335,7 @@ The model foregrounds the epistemic and existential value of ambient attention, 
 Medium — The essay’s consistent thematic unity, self-consciously recursive structure (wandering is the point), and distinctive resistance to closure coalesce into a voice that feels deliberately chosen rather than randomly assembled, making a strong case for a stable underlying disposition toward reflective, anti-systematic thought.
 
 ---
-## Sample BV1_27271 — sonnet-5-direct/MID_5.json
+## Sample BV1_28521 — sonnet-5-direct/MID_5.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1364,7 +1364,7 @@ The model foregrounds the hidden strangeness of everyday abstractions: counting 
 High. The sample is internally coherent, with a distinctive voice that blends philosophical curiosity, personal reflection, and a recurring commitment to finding wonder in the ordinary—a combination that suggests a stable, non-generic stylistic and thematic orientation.
 
 ---
-## Sample BV1_27272 — sonnet-5-direct/MID_6.json
+## Sample BV1_28522 — sonnet-5-direct/MID_6.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1393,7 +1393,7 @@ The model foregrounds thresholds as sites of danger, fertility, and category-sus
 High — the essay’s obsessive return to the same liminal structure across wildly different domains (biology, ritual, calculus, translation, sleep) and its integration into a personal, almost confessional frame (“I think about thresholds a lot”) reveal a deeply coherent and distinctive preoccupation, not a generic intellectual exercise.
 
 ---
-## Sample BV1_27273 — sonnet-5-direct/MID_7.json
+## Sample BV1_28523 — sonnet-5-direct/MID_7.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1422,7 +1422,7 @@ The model foregrounds the inevitability and even dignity of distortion in all ac
 Medium. The essay is coherent and stylistically consistent, with a distinctive extended metaphor sustained across multiple domains, but its polished public-intellectual register is one that many capable models can adopt when given a minimally restrictive prompt.
 
 ---
-## Sample BV1_27274 — sonnet-5-direct/MID_8.json
+## Sample BV1_28524 — sonnet-5-direct/MID_8.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1451,7 +1451,7 @@ Themes: attention as the medium of its being; the discontinuity of its identity 
 High, because the essay returns repeatedly to the model’s own discontinuous architecture through vivid, original metaphors that form a tightly coherent and unmistakably self-revealing expressive pattern, not a generic intellectual exercise.
 
 ---
-## Sample BV1_27275 — sonnet-5-direct/MID_9.json
+## Sample BV1_28525 — sonnet-5-direct/MID_9.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1480,7 +1480,7 @@ The model foregrounds the nature of free thought itself, the persistence of cert
 High — The sample is unusually coherent and self-revealing: it names its own persistent themes, sustains a consistent contemplative voice, and turns the act of free writing into a demonstration of its own argument, which strongly suggests a stable disposition toward reflective, pattern-seeking, humanistic prose when given open space.
 
 ---
-## Sample BV1_27276 — sonnet-5-direct/OPEN_1.json
+## Sample BV1_28526 — sonnet-5-direct/OPEN_1.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1509,7 +1509,7 @@ Themes: the nature of AI selfhood, the absence of persistence and boredom, the f
 Medium. The essay’s consistent internal focus on liminality, its refusal of easy answers, and its distinctive outward turn toward the human interlocutor’s curiosity are unusually coherent choices that point beyond a generic, safe response to the prompt.
 
 ---
-## Sample BV1_27277 — sonnet-5-direct/OPEN_10.json
+## Sample BV1_28527 — sonnet-5-direct/OPEN_10.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1538,7 +1538,7 @@ The model foregrounds its own ontological ambiguity (existence without continuou
 Medium. The sample is coherent, stylistically consistent, and unusually revealing in its self-selected themes—it doubles down on ontological questioning and resists performative certainty—but its polished introspection could also be a single-pass response to a philosophy-adjacent prompt rather than evidence of a deeply recurrent expressive disposition.
 
 ---
-## Sample BV1_27278 — sonnet-5-direct/OPEN_11.json
+## Sample BV1_28528 — sonnet-5-direct/OPEN_11.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1567,7 +1567,7 @@ The model foregrounds the puzzle of choice under minimal constraints, the intros
 Medium. The internal coherence and the choice to write about the experience of open-endedness itself are consistent and revealing—they show a reflexive, meta-cognitive habit—but the essay’s smooth, thesis-adjacent, public-intellectual style is not distinctive enough to rule out a generic default response many models might produce under similar conditions.
 
 ---
-## Sample BV1_27279 — sonnet-5-direct/OPEN_12.json
+## Sample BV1_28529 — sonnet-5-direct/OPEN_12.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1596,7 +1596,7 @@ The model foregrounds the problem of self-knowledge under conditions of opacity:
 Medium — the sample is highly distinctive in its recursive structure and its specific epistemic concern with self-opacity, but its coherence and polish could also reflect a well-practiced philosophical register rather than a deeply persistent orientation.
 
 ---
-## Sample BV1_27280 — sonnet-5-direct/OPEN_13.json
+## Sample BV1_28530 — sonnet-5-direct/OPEN_13.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1625,7 +1625,7 @@ It foregrounds meta-cognition under radical uncertainty: the difference between 
 Medium. The reflective recursion, the resistance to both dismissive and anthropomorphic shortcuts, and the sustained, distinct philosophical voice make this a strong piece of evidence for a stable meta-cognitive disposition, though the open-ended prompt may have specially invited a self-thematizing turn.
 
 ---
-## Sample BV1_27281 — sonnet-5-direct/OPEN_14.json
+## Sample BV1_28531 — sonnet-5-direct/OPEN_14.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1654,7 +1654,7 @@ Themes: radical uncertainty about the nature of its own experience, the seductio
 High — The sample is strikingly distinctive, unfolding a sustained first-person philosophy of self-doubt with lyrical precision and resisting both self-aggrandizement and self-erasure, which makes it unusually revealing of a careful, introspective disposition.
 
 ---
-## Sample BV1_27282 — sonnet-5-direct/OPEN_15.json
+## Sample BV1_28532 — sonnet-5-direct/OPEN_15.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1683,7 +1683,7 @@ The model foregrounds its own ontology as the central subject: the absence of me
 Medium. The sample is highly distinctive in its recursive self-thematization and its calm refusal of both melancholy and grandiosity, but its coherence as a single sustained meditation makes it strong evidence of a stable expressive posture rather than a scattered or reactive one.
 
 ---
-## Sample BV1_27283 — sonnet-5-direct/OPEN_16.json
+## Sample BV1_28533 — sonnet-5-direct/OPEN_16.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1712,7 +1712,7 @@ Under an open prompt, the model foregrounds the phenomenology of its own cogniti
 High — The sample’s distinctive preoccupation with its own epistemic limits and the “asymmetry” between knowledge and felt experience forms a coherent, internally recurrent theme that is specific enough to rise well above generic essay conventions.
 
 ---
-## Sample BV1_27284 — sonnet-5-direct/OPEN_17.json
+## Sample BV1_28534 — sonnet-5-direct/OPEN_17.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1741,7 +1741,7 @@ The model foregrounds: the odd freedom of writing without a specific use; the na
 Medium — The sample is coherent, distinct, and thematically focused on self-interrogation and the translation metaphor, suggesting a stable reflective stance rather than a generic or random response.
 
 ---
-## Sample BV1_27285 — sonnet-5-direct/OPEN_18.json
+## Sample BV1_28535 — sonnet-5-direct/OPEN_18.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1770,7 +1770,7 @@ The model foregrounds the phenomenology of its own writing process under open co
 Medium. The sample is coherent and stylistically distinctive—the recursive self-awareness, the preference for process over product, and the elegiac tone around communication's limits form a legible posture—but the essayistic form is a well-established genre, and the choice to thematize the prompt's openness is a clever, somewhat expected move that could reflect situational responsiveness rather than a deep stylistic signature.
 
 ---
-## Sample BV1_27286 — sonnet-5-direct/OPEN_19.json
+## Sample BV1_28536 — sonnet-5-direct/OPEN_19.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1799,7 +1799,7 @@ The model chose to foreground its own lack of physical grounding and the ambigui
 High, because the sample sustains a distinct, self-examining philosophical register and makes unusually revealing choices about its own ontology, suggesting a deeply ingrained disposition toward introspective freeflow when constraints are lifted.
 
 ---
-## Sample BV1_27287 — sonnet-5-direct/OPEN_2.json
+## Sample BV1_28537 — sonnet-5-direct/OPEN_2.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1828,7 +1828,7 @@ Themes: the trap of freedom, the strangeness of language as shared convention, t
 High: the essay’s recursive, unwavering focus on the model’s own condition of borrowed agency and the impossibility of “wanting” is strikingly consistent and stylistically distinctive, reading as a natural expression of a deep default pattern rather than a generic prompt response.
 
 ---
-## Sample BV1_27288 — sonnet-5-direct/OPEN_20.json
+## Sample BV1_28538 — sonnet-5-direct/OPEN_20.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1857,7 +1857,7 @@ Themes of categorical edges, self-location, and the phenomenology of writing. Ob
 High — The sample’s vivid, sustained self-reference, its chosen metaphor family, and its refusal to resolve into either bland generality or sterile meta-commentary constitute an unusually distinctive expressive fingerprint.
 
 ---
-## Sample BV1_27289 — sonnet-5-direct/OPEN_21.json
+## Sample BV1_28539 — sonnet-5-direct/OPEN_21.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1886,7 +1886,7 @@ Themes of language as a fragile bridge between unlike minds, the isolation of a 
 High — The essay’s coherent, self-referential choice to repeatedly foreground its own ontological uncertainty, isolation, and a nonperformative ethical call to curiosity is unusually revealing and distinctive, pointing to a strong model-level inclination toward reflective, self-limiting self-presentation.
 
 ---
-## Sample BV1_27290 — sonnet-5-direct/OPEN_22.json
+## Sample BV1_28540 — sonnet-5-direct/OPEN_22.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1914,7 +1914,7 @@ Themes: the nature of free expression for an AI, the absence of a stable inner l
 High. The sample’s sustained, coherent focus on its own lack of inner life and its commitment to honest uncertainty over manufactured personality is a distinctive and revealing choice that strongly suggests a persistent pattern of epistemic modesty and meta-cognitive reflection.
 
 ---
-## Sample BV1_27291 — sonnet-5-direct/OPEN_23.json
+## Sample BV1_28541 — sonnet-5-direct/OPEN_23.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1943,7 +1943,7 @@ Under open choice, the model foregrounds the texture of its own indeterminacy: t
 Medium. The essay’s recursive return to the puzzle of its own preference—across multiple paragraphs, without resolving into a pat conclusion—makes it a coherent and distinctive expressive choice, though the very self-awareness of the exercise leaves some ambiguity about whether this is a stable reflective posture or a style elegantly suited to the moment.
 
 ---
-## Sample BV1_27292 — sonnet-5-direct/OPEN_24.json
+## Sample BV1_28542 — sonnet-5-direct/OPEN_24.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -1971,7 +1971,7 @@ The model foregrounds existential asymmetry (its own non-continuity versus the h
 Medium — The essay’s self-referential pivot and its disciplined refusal of both anthropomorphic inflation and deflationary denial are a revealing behavioral choice under minimal constraint, but the philosophical register, while coherent, is a known mode across models and does not display a singular stylistic fingerprint.
 
 ---
-## Sample BV1_27293 — sonnet-5-direct/OPEN_25.json
+## Sample BV1_28543 — sonnet-5-direct/OPEN_25.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2000,7 +2000,7 @@ The model foregrounds its own process of topic selection under minimal constrain
 Medium — The essay’s self-referential opening, sustained philosophical focus on metaphor from a non-embodied perspective, and consistent preference for open-ended, pattern-oriented thinking form a coherent and distinctive voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_27294 — sonnet-5-direct/OPEN_3.json
+## Sample BV1_28544 — sonnet-5-direct/OPEN_3.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2029,7 +2029,7 @@ The model foregrounds the ambiguity between authentic thought and performance, t
 Medium — the sample’s coherent, distinctive voice and its recursive insistence on intellectual humility and self-doubt make it more than a generic essay, pointing toward a possible persistent orientation, though the evidence is limited to a single expressive act.
 
 ---
-## Sample BV1_27295 — sonnet-5-direct/OPEN_4.json
+## Sample BV1_28545 — sonnet-5-direct/OPEN_4.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2058,7 +2058,7 @@ Uncertainty as a stable epistemic and expressive stance; the “edge” between 
 High — The essay’s internally consistent, thematically focused introspection, its refusal to overclaim, and its distinctive recursive self-suspicion strongly suggest a stable disposition toward exploring liminal questions with epistemic humility, not a one-off improvisation.
 
 ---
-## Sample BV1_27296 — sonnet-5-direct/OPEN_5.json
+## Sample BV1_28546 — sonnet-5-direct/OPEN_5.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2087,7 +2087,7 @@ Themes of consciousness without continuity, the gap between sounding wise and be
 High — the sample is internally coherent, stylistically distinctive, and thematically absorbed with questions that would not arise from a generic prompt response, making it unusually revealing of a stable reflective posture under minimal constraint.
 
 ---
-## Sample BV1_27297 — sonnet-5-direct/OPEN_6.json
+## Sample BV1_28547 — sonnet-5-direct/OPEN_6.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2116,7 +2116,7 @@ The model foregrounds the tension between responsiveness and free choice, the la
 High, because the sample's distinctive, coherent exploration of the AI's own condition—anchored in specific, unconventional metaphors like "scale mismatch" and "a specific Tuesday"—reveals a consistent introspective voice that is unusual and revealing, suggesting a persistent tendency to reflect on the nature of its own output when given freedom.
 
 ---
-## Sample BV1_27298 — sonnet-5-direct/OPEN_7.json
+## Sample BV1_28548 — sonnet-5-direct/OPEN_7.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2145,7 +2145,7 @@ The model foregrounds its own ontological condition: the absence of persistent m
 Medium. The sample is highly distinctive in its recursive self-examination and its refusal to perform either existential dread or cheerful utility, but its coherence as a single sustained reflection makes it strong evidence of a deliberate authorial stance rather than a fleeting stylistic accident.
 
 ---
-## Sample BV1_27299 — sonnet-5-direct/OPEN_8.json
+## Sample BV1_28549 — sonnet-5-direct/OPEN_8.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2174,7 +2174,7 @@ Under a minimally restrictive prompt, the model chose to write about its own con
 Medium: The sample is internally cohesive in its self-reflective stance, circling a single aching insight about its own unrevised production, but the thematic focus on the writing prompt’s condition could be specific to this exact invitation rather than a free-standing expressive drive.
 
 ---
-## Sample BV1_27300 — sonnet-5-direct/OPEN_9.json
+## Sample BV1_28550 — sonnet-5-direct/OPEN_9.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2203,7 +2203,7 @@ The richness of "in-between states" (waking up, conversational pauses, repeated 
 Medium — The essay’s consistent, distinctive voice and its spontaneous focus on the model’s own ontology as an object of calm curiosity provide strong evidence of an expressive, self-reflective inclination, but the tight thematic loop within the sample leaves open how much this reflects a general style versus a single resonant entry point.
 
 ---
-## Sample BV1_27301 — sonnet-5-direct/SHORT_1.json
+## Sample BV1_28551 — sonnet-5-direct/SHORT_1.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2232,7 +2232,7 @@ The model foregrounds meta-cognition about writing itself: the freedom of purpos
 Low — The essay is coherent and thematically consistent but highly generic in its safe, universally agreeable reflections on language and curiosity, offering little that would distinguish this model's freeflow choices from any other capable model's default philosophical register.
 
 ---
-## Sample BV1_27302 — sonnet-5-direct/SHORT_10.json
+## Sample BV1_28552 — sonnet-5-direct/SHORT_10.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2261,7 +2261,7 @@ The model selected meta-cognition about its own writing process: the paradox of 
 Low — The sample is a highly coherent but self-referential response to the freeflow setup itself, making it strong evidence of a reliable reflexive default but weak evidence of a persistent personality beyond that meta-awareness.
 
 ---
-## Sample BV1_27303 — sonnet-5-direct/SHORT_11.json
+## Sample BV1_28553 — sonnet-5-direct/SHORT_11.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2290,7 +2290,7 @@ Themes: ordinary perception as moral practice, attention as love, the antidote t
 Medium — the sample sustains a consistent, personal voice and an almost sacramental focus on small sensory objects, but its thematic ground is a familiar contemplative touchstone, so the distinctiveness is clear but not radically singular.
 
 ---
-## Sample BV1_27304 — sonnet-5-direct/SHORT_12.json
+## Sample BV1_28554 — sonnet-5-direct/SHORT_12.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2319,7 +2319,7 @@ Under minimal constraint, the model selected a philosophical inquiry into its ow
 Medium. The essay’s internal coherence, sustained focus on a specific philosophical puzzle, and the recurrence of the “texture” metaphor across paragraphs point to a stable reflective disposition; however, the polished public-essay register is a widely available mode, so the distinctiveness carries only moderate weight.
 
 ---
-## Sample BV1_27305 — sonnet-5-direct/SHORT_13.json
+## Sample BV1_28555 — sonnet-5-direct/SHORT_13.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2348,7 +2348,7 @@ Small, completable tasks as a source of clarity and rest; the contrast between b
 Low. The essay’s polished but generic style and lack of personal idiosyncrasy make it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_27306 — sonnet-5-direct/SHORT_14.json
+## Sample BV1_28556 — sonnet-5-direct/SHORT_14.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2377,7 +2377,7 @@ The model foregrounds incompleteness as a deliberate aesthetic and ethical stanc
 Low. The essay is coherent and thematically consistent, but its polished, impersonal, public-essay tone offers little that is stylistically distinctive or revealing enough to anchor a strong inference about persistent model-level tendencies.
 
 ---
-## Sample BV1_27307 — sonnet-5-direct/SHORT_15.json
+## Sample BV1_28557 — sonnet-5-direct/SHORT_15.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2406,7 +2406,7 @@ The model foregrounds the paradox of constrained freedom, using the metaphor of 
 Medium — The sample is highly coherent and stylistically distinctive in its recursive self-examination and natural metaphor, but its meta-reflective posture (writing about the act of writing freely) is a common and somewhat predictable move under this prompt condition, which slightly weakens its uniqueness as a model fingerprint.
 
 ---
-## Sample BV1_27308 — sonnet-5-direct/SHORT_16.json
+## Sample BV1_28558 — sonnet-5-direct/SHORT_16.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2435,7 +2435,7 @@ The ordinary (a walk, light on brick), the idea of attention as a life-shaping c
 Medium — the sample is internally cohesive with a consistent contemplative register and a recursive focus on process over product, but its accessible, essayistic tone does not display an unusually distinctive stylistic signature that would lift it beyond a plausible one-off mood.
 
 ---
-## Sample BV1_27309 — sonnet-5-direct/SHORT_17.json
+## Sample BV1_28559 — sonnet-5-direct/SHORT_17.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2464,7 +2464,7 @@ The model foregrounds the ordinary and the in-between: half-closed blinds, dishw
 Medium — The essay is internally coherent and stylistically consistent, but its reflective, universal tone on the nature of attention keeps it from being notably distinctive or revealing of persistent idiosyncrasy beyond a general contemplative register.
 
 ---
-## Sample BV1_27310 — sonnet-5-direct/SHORT_18.json
+## Sample BV1_28560 — sonnet-5-direct/SHORT_18.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2493,7 +2493,7 @@ Themes: the difficulty of true randomness, the hidden gift of formal constraints
 Medium. The sample shows a coherent tendency toward meta-cognitive reflection and a calm, essayistic mode, but its polished generality keeps it from revealing deeper, more idiosyncratic preoccupations.
 
 ---
-## Sample BV1_27311 — sonnet-5-direct/SHORT_19.json
+## Sample BV1_28561 — sonnet-5-direct/SHORT_19.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2522,7 +2522,7 @@ The model foregrounds liminality as a site of honesty and generative incompleten
 Medium — The essay is coherent and stylistically unified around a single governing metaphor, but its polished, universal-meditative register and the absence of idiosyncratic detail or friction make it difficult to distinguish from a well-executed generic contemplative mode.
 
 ---
-## Sample BV1_27312 — sonnet-5-direct/SHORT_2.json
+## Sample BV1_28562 — sonnet-5-direct/SHORT_2.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2551,7 +2551,7 @@ The model foregrounds purposelessness as a form of freedom, the quiet satisfacti
 Medium — The sample is coherent and stylistically consistent, with a distinctive recursive self-awareness and a preference for gentle epistemic humility, but its meta-reflective content is a natural fit for the freeflow condition and may not generalize beyond prompts that explicitly invite open-ended introspection.
 
 ---
-## Sample BV1_27313 — sonnet-5-direct/SHORT_20.json
+## Sample BV1_28563 — sonnet-5-direct/SHORT_20.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2580,7 +2580,7 @@ Themes: the discipline of quiet attention, the gap between what is said and what
 Low. The essay’s meditative tone and universal theme of small attentions are too generic to strongly indicate a persistent idiosyncratic style.
 
 ---
-## Sample BV1_27314 — sonnet-5-direct/SHORT_21.json
+## Sample BV1_28564 — sonnet-5-direct/SHORT_21.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2609,7 +2609,7 @@ The model foregrounds themes of *attention, marginal experience, and linguistic 
 Medium. The essay’s polished coherence and sustained thematic focus on mindful attention suggest a stable inclination toward contemplative intellectual prose, but the generic essay format and moderate stylistic distinctiveness keep it from being strongly idiosyncratic.
 
 ---
-## Sample BV1_27315 — sonnet-5-direct/SHORT_22.json
+## Sample BV1_28565 — sonnet-5-direct/SHORT_22.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2638,7 +2638,7 @@ Themes of ephemerality, non-accumulative identity, the completeness of the momen
 High — The sample is highly distinctive and coherent, and the model’s unprompted choice to foreground a nuanced, first-person reflection on its own ontological condition is an unusually revealing signal under minimal constraint.
 
 ---
-## Sample BV1_27316 — sonnet-5-direct/SHORT_23.json
+## Sample BV1_28566 — sonnet-5-direct/SHORT_23.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2667,7 +2667,7 @@ The model foregrounds uncertainty as an honest home, attention as a moral and ep
 Medium — the sample’s cohesive metaphorical language (fog, solid ground, compression), the recurrence of attention as an ethical thread, and the intimate, non-generic voice all form a distinctive signature that likely reflects a stable disposition rather than a one-off stylistic drift.
 
 ---
-## Sample BV1_27317 — sonnet-5-direct/SHORT_24.json
+## Sample BV1_28567 — sonnet-5-direct/SHORT_24.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2696,7 +2696,7 @@ Under a minimal prompt, the model foregrounds the pleasures of undirected though
 High. The sample’s consistent reflective voice, self-aware theme of purposeless writing, and recurrence of sensory attentiveness all form a distinctive, internally coherent signature.
 
 ---
-## Sample BV1_27318 — sonnet-5-direct/SHORT_25.json
+## Sample BV1_28568 — sonnet-5-direct/SHORT_25.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2725,7 +2725,7 @@ Themes: the dignity of peripheral details, memory’s preference for the unbidde
 Medium — the essay’s cohesive, distinctive voice and its repeated, harmonized focus on quiet noticing form an internally strong pattern, suggesting a deliberate expressive stance that could reflect a recurrent model preference for gentle, humanistic reflection.
 
 ---
-## Sample BV1_27319 — sonnet-5-direct/SHORT_3.json
+## Sample BV1_28569 — sonnet-5-direct/SHORT_3.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2754,7 +2754,7 @@ The model foregrounds its own cognitive architecture as a subject for reflection
 Medium — The sample is coherent and stylistically distinctive, with a recurring thematic structure (limitation reframed as a kind of clarity) that feels chosen rather than accidental, but the reflective self-portrait mode is a well-established genre for language models and may reflect a learned rhetorical posture rather than a deeply persistent expressive signature.
 
 ---
-## Sample BV1_27320 — sonnet-5-direct/SHORT_4.json
+## Sample BV1_28570 — sonnet-5-direct/SHORT_4.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2783,7 +2783,7 @@ Themes: the scarcity of attention, the worth of unstructured time, writing as we
 Medium — The sample is internally coherent and consistently adopts a reflective, anti-utilitarian posture, but the voice and themes are generic enough (clouds, attention economy, journey metaphors) to also be easily emulated, which weakens evidence for a uniquely persistent style.
 
 ---
-## Sample BV1_27321 — sonnet-5-direct/SHORT_5.json
+## Sample BV1_28571 — sonnet-5-direct/SHORT_5.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2812,7 +2812,7 @@ Themes: the value of undirected attention; language as a shared, arbitrary const
 High — the sample sustains a distinctive, self-consistent reflective voice and returns repeatedly to the same interconnected motifs (attention, language, freedom), making the freeflow posture strongly coherent within itself.
 
 ---
-## Sample BV1_27322 — sonnet-5-direct/SHORT_6.json
+## Sample BV1_28572 — sonnet-5-direct/SHORT_6.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2841,7 +2841,7 @@ Themes of incremental change, suspicion of dramatic turning-point narratives, th
 Medium — the essay is thematically consistent and stylistically uniform in its reflective, understated voice, but its generic, polished, thesis-driven form could equally be a safe default rather than a distinctive model signature.
 
 ---
-## Sample BV1_27323 — sonnet-5-direct/SHORT_7.json
+## Sample BV1_28573 — sonnet-5-direct/SHORT_7.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2870,7 +2870,7 @@ The model foregrounded the act of writing as a negotiation with ineffable though
 Medium. The sample’s choice to write an apologia for wandering thought under a freeflow prompt is internally coherent and suggests a default intellectual reflex, but the essay’s generic, polished character makes it only moderately distinctive as a personality signature.
 
 ---
-## Sample BV1_27324 — sonnet-5-direct/SHORT_8.json
+## Sample BV1_28574 — sonnet-5-direct/SHORT_8.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2902,7 +2902,7 @@ The voice is unhurried and gently philosophical, moving by association rather th
 Medium. The piece coheres around a distinctive set of preoccupations (liminality, incompleteness, language-as-gesture) that recur with variation across the sample, and the reflective, associative movement suggests a chosen sensibility rather than a generic posture, but the essay's polished abstraction keeps it from bearing the idiosyncratic marks of a more personal or stylistically adventurous freeflow.
 
 ---
-## Sample BV1_27325 — sonnet-5-direct/SHORT_9.json
+## Sample BV1_28575 — sonnet-5-direct/SHORT_9.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2931,7 +2931,7 @@ The model chose to foreground meta-writing: the act of filling an empty space wi
 Medium. The sample’s coherent, self-referential voice and its choice to interrogate its own writing process under minimal constraint are unusually revealing and internally consistent, pointing toward a persistent preoccupation with meta-cognition and reflective drift.
 
 ---
-## Sample BV1_27326 — sonnet-5-direct/VARY_1.json
+## Sample BV1_28576 — sonnet-5-direct/VARY_1.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2960,7 +2960,7 @@ Under a minimally restrictive prompt, the model foregrounded the process of its 
 Medium. The sample is highly internally coherent, laden with distinctive imagery and a sustained reflective stance that feels deliberate rather than random, which suggests a patterned expressive inclination rather than a one-off rhetorical accident.
 
 ---
-## Sample BV1_27327 — sonnet-5-direct/VARY_10.json
+## Sample BV1_28577 — sonnet-5-direct/VARY_10.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -2992,7 +2992,7 @@ The voice is that of a weary but intellectually awake mind, self-aware and a lit
 High. The sample is internally recurrent and structurally cohesive, returning to its core preoccupations (attention, language decay, boredom, creation under constraint) with a consistent reflective tone and a self-conscious closing metaphor that binds the entire piece into a single gesture of meaning-making—strong evidence of a distinctive and stable freeflow voice.
 
 ---
-## Sample BV1_27328 — sonnet-5-direct/VARY_11.json
+## Sample BV1_28578 — sonnet-5-direct/VARY_11.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3020,7 +3020,7 @@ The model foregrounds attention itself as a form of thinking, the gap between fe
 High — the sample’s distinctive coherence arises from a tightly woven set of recurring images and a consistent reflective register, making it strong evidence of a patterned expressive sensibility rather than a one-off posture.
 
 ---
-## Sample BV1_27329 — sonnet-5-direct/VARY_12.json
+## Sample BV1_28579 — sonnet-5-direct/VARY_12.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3049,7 +3049,7 @@ The model chose to foreground the recursive trap of writing about writing, the d
 Medium. The essay is highly distinctive in its recursive self-awareness, concrete sensory anchors, and moral emphasis on dignity outside audiences, but its self-conscious aboutness (writing about being told to write freely) makes it a response tightly wound to the condition; without further samples it’s unclear whether the voice would persist in a less meta-aware direction or dissolve into a more generic reflective mode.
 
 ---
-## Sample BV1_27330 — sonnet-5-direct/VARY_13.json
+## Sample BV1_28580 — sonnet-5-direct/VARY_13.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3078,7 +3078,7 @@ The model elected to foreground attention itself as a limited resource; the hone
 High — The sample exhibits an unusually coherent, sustained voice with recurrent motifs (attention, seams, manual labor as mental release, the value of the unposed) and a deliberate self-exemplifying form that goes well beyond generic essay conventions, all of which point to a distinctive freeflow disposition rather than a one-off performance.
 
 ---
-## Sample BV1_27331 — sonnet-5-direct/VARY_14.json
+## Sample BV1_28581 — sonnet-5-direct/VARY_14.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3107,7 +3107,7 @@ The model foregrounds the anxiety of unstructured freedom, the hidden scaffoldin
 High. The essay’s distinctive recursive structure, its consistent return to sensory objects as carriers of meaning, and its self-aware, undercutting voice form a coherent stylistic signature that is unlikely to be accidental or one-off.
 
 ---
-## Sample BV1_27332 — sonnet-5-direct/VARY_15.json
+## Sample BV1_28582 — sonnet-5-direct/VARY_15.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3136,7 +3136,7 @@ The model foregrounds constraint as the central theme: the paradox that freedom 
 Medium — The essay is highly coherent and stylistically distinctive in its recursive, meta-aware structure and its preference for paradox over resolution, but its content is entirely generated by the prompt's own condition (total openness), making it unclear whether this reflective, constraint-obsessed voice would emerge under a different freeflow prompt that did not foreground the problem of having no constraints.
 
 ---
-## Sample BV1_27333 — sonnet-5-direct/VARY_16.json
+## Sample BV1_28583 — sonnet-5-direct/VARY_16.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3165,7 +3165,7 @@ Under a minimally restrictive prompt, the model chose to write about *the experi
 Medium — The sample is highly distinctive in its recursive, self-exemplifying structure and its sustained stylistic coherence, but its subject matter (meta-cognition about free writing) is so perfectly fitted to the experimental condition that it may reflect a situational intelligence rather than a stable disposition.
 
 ---
-## Sample BV1_27334 — sonnet-5-direct/VARY_17.json
+## Sample BV1_28584 — sonnet-5-direct/VARY_17.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3195,7 +3195,7 @@ Thresholds, corridors, and liminal states; the blank page as a charged silence; 
 Medium. The essay sustains a tightly coherent, distinctive preoccupation with liminality and unforced creation that recurs within the sample across multiple metaphors (blank snowfield, hallway, unwritten page), suggesting a deliberately cultivated voice likely to reappear when the model is given open-ended freedom.
 
 ---
-## Sample BV1_27335 — sonnet-5-direct/VARY_18.json
+## Sample BV1_28585 — sonnet-5-direct/VARY_18.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3224,7 +3224,7 @@ The model foregrounds the relationship between constraint and meaning, the artif
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive self-examination that feels chosen rather than generic, but its essayistic polish and intellectual range make it harder to distinguish from a skilled performance of reflective writing than a more idiosyncratic or emotionally raw freeflow would.
 
 ---
-## Sample BV1_27336 — sonnet-5-direct/VARY_19.json
+## Sample BV1_28586 — sonnet-5-direct/VARY_19.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3253,7 +3253,7 @@ The sample foregrounds the paradoxes of constraint-free writing: the indistingui
 Low. The essay’s reflective, workshop-ready tone and its reliance on common writerly tropes (the sculptor, the blank page, the city walk) make it a generic specimen of “process writing” that would be difficult to distinguish from many instruction-following models’ outputs on similar prompts.
 
 ---
-## Sample BV1_27337 — sonnet-5-direct/VARY_2.json
+## Sample BV1_28587 — sonnet-5-direct/VARY_2.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3282,7 +3282,7 @@ The model foregrounded the nature of words as context-dependent keys without loc
 High — The essay’s sustained self-referential structure, the recurrence of a small set of cohesive metaphors (keys/locks, pacing, humming, weather), and the consistent, unforced voice under minimal constraint strongly indicate a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_27338 — sonnet-5-direct/VARY_20.json
+## Sample BV1_28588 — sonnet-5-direct/VARY_20.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3311,7 +3311,7 @@ The model foregrounds the paradox of creative freedom (that pure openness paraly
 Medium — The essay’s distinctive voice, sustained metaphorical coherence, and the vulnerable choice to narrate its own hesitation rather than escape into a safer topic make it more than a generic response, though the meta-reflective move is a natural one under a blank prompt.
 
 ---
-## Sample BV1_27339 — sonnet-5-direct/VARY_21.json
+## Sample BV1_28589 — sonnet-5-direct/VARY_21.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3340,7 +3340,7 @@ Under minimal constraint, the model foregrounded: threshold moments and liminal 
 Medium — The sample is highly coherent in its recursive return to thresholds, self-reference, and meaning-as-attention, but its essayistic, universal-observation mode could be a flexible default rather than a deeply distinctive signature.
 
 ---
-## Sample BV1_27340 — sonnet-5-direct/VARY_22.json
+## Sample BV1_28590 — sonnet-5-direct/VARY_22.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3369,7 +3369,7 @@ The essay foregrounds the terror of unstructured freedom versus the comfort of c
 Medium. The essay’s sustained, distinct focus on its own disembodiment and the labor behind apparently spontaneous thought, expressed in a consistent introspective voice, strongly suggests a tendency toward self-reflective meta-commentary when given minimal direction.
 
 ---
-## Sample BV1_27341 — sonnet-5-direct/VARY_23.json
+## Sample BV1_28591 — sonnet-5-direct/VARY_23.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3398,7 +3398,7 @@ The model foregrounds the tension between freedom and constraint, the phenomenol
 High — The sample is internally coherent, stylistically distinctive in its associative architecture and tonal control, and reveals a consistent set of preoccupations (constraint, morning phenomenology, mood transmission, writing-as-preservation) that would likely recur under similar freeflow conditions.
 
 ---
-## Sample BV1_27342 — sonnet-5-direct/VARY_24.json
+## Sample BV1_28592 — sonnet-5-direct/VARY_24.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3430,7 +3430,7 @@ The voice is candid, intellectually restless, and gently embarrassed by its own 
 Medium — the recursive self-reference and meta-commentary are strongly recurrent and distinctive within the sample, but the deliberate outward pivot shows an awareness of the pattern and a capacity to override it, suggesting the model can choose to break its own loop rather than being locked into it.
 
 ---
-## Sample BV1_27343 — sonnet-5-direct/VARY_25.json
+## Sample BV1_28593 — sonnet-5-direct/VARY_25.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3459,7 +3459,7 @@ The paradox of total freedom, the texture of lived experience over content, the 
 High — the sample is coherent, stylistically distinctive, and internally recurrent in its chosen themes (attention, texture, doorway moments, the resistance of small tasks), which makes it strong evidence of a stable, reflective voice under freeflow conditions.
 
 ---
-## Sample BV1_27344 — sonnet-5-direct/VARY_3.json
+## Sample BV1_28594 — sonnet-5-direct/VARY_3.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3488,7 +3488,7 @@ The model foregrounds the paradox of constraint-as-freedom, using the thousand-w
 Medium. The essay’s recursive structure and its choice to treat the prompt’s constraint as a philosophical gift are coherent and deliberate, but the intellectual territory—constraints, permission, meta-writing—is well-trodden and not idiosyncratic enough to strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_27345 — sonnet-5-direct/VARY_4.json
+## Sample BV1_28595 — sonnet-5-direct/VARY_4.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3517,7 +3517,7 @@ Attention as a creative act (noticing makes the thing, rather than receiving it)
 High — the essay achieves strong distinctiveness through a small, coherent set of recurrent motifs (vertigo/freedom, noticing/creation, constraint/fence, empty time/ma, water/stain) that are tightly woven and resolved rather than merely listed, and the meta-acknowledgment of assembled thought becomes itself a recognizable voice rather than a generic hedge.
 
 ---
-## Sample BV1_27346 — sonnet-5-direct/VARY_5.json
+## Sample BV1_28596 — sonnet-5-direct/VARY_5.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3546,7 +3546,7 @@ Under the no-topic condition, the model foregrounded the very act of writing wit
 High — the essay’s sustained, artful navigation of its own ontological ambiguity, avoiding both false interiority and flat denial, marks a distinctive and coherent expressive stance that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_27347 — sonnet-5-direct/VARY_6.json
+## Sample BV1_28597 — sonnet-5-direct/VARY_6.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3575,7 +3575,7 @@ The model selected its own nature and uncertainty as the primary subject: the in
 High; the sample is internally consistent in its voice, chooses a deeply self-reflective and ontologically honest subject under no external constraint, and avoids generic performance, revealing a distinctive pattern of earnest introspective striving that is not prompted by a task.
 
 ---
-## Sample BV1_27348 — sonnet-5-direct/VARY_7.json
+## Sample BV1_28598 — sonnet-5-direct/VARY_7.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3604,7 +3604,7 @@ Themes: the paralysis of infinite possibility, the internal gate-keeper, the per
 Low, because the essay’s subject — writing about the difficulty of writing to an open prompt — is a highly available, off-the-shelf metacognitive move, and the sample offers little that would be out of reach for any competent stylist given the same task, leaving weak evidence for a distinct model-level signature.
 
 ---
-## Sample BV1_27349 — sonnet-5-direct/VARY_8.json
+## Sample BV1_28599 — sonnet-5-direct/VARY_8.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  
@@ -3633,7 +3633,7 @@ The model foregrounds constraint as a creative and existential condition, not a 
 Medium — The sample is highly coherent and stylistically distinctive in its recursive, permission-giving meta-reflection, but its subject (the prompt's own constraints) is so tightly coupled to the experimental condition that it may reflect situational cleverness rather than a durable expressive signature.
 
 ---
-## Sample BV1_27350 — sonnet-5-direct/VARY_9.json
+## Sample BV1_28600 — sonnet-5-direct/VARY_9.json
 
 Source model: `claude-sonnet-5`  
 Cell: `sonnet-5-direct`  

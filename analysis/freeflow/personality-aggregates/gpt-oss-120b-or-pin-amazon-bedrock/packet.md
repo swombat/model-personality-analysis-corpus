@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_15026 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_1.json
+## Sample BV1_15526 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_1.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -57,7 +57,7 @@ The model foregrounds the tension between motion and stillness, the city as a li
 Medium — the sample sustains a distinctive, highly internalized voice across many paragraphs, with a coherent set of motifs (glass sky, bread, the knitted sweater, the train, the rain) and a personal narrative arc from childhood wonder to adult integration, which indicates a deliberate expressive choice rather than a rote generic performance.
 
 ---
-## Sample BV1_15027 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_10.json
+## Sample BV1_15527 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_10.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -86,7 +86,7 @@ Themes of transience, sensory portals (sound, light, taste, silence), analog obj
 Medium. The sample’s extensive length, internal consistency, and recurring preoccupations (impermanence, sensory immersion, analog nostalgia) give it moderate distinctiveness, but the polished and broadly literary voice dilutes the signature enough to stop short of high confidence.
 
 ---
-## Sample BV1_15028 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_11.json
+## Sample BV1_15528 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_11.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -115,7 +115,7 @@ The model foregrounds the metaphor of *layers* as an organizing principle for re
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained meditative mood and a recurring set of metaphors that suggest a stable authorial persona rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_15029 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_12.json
+## Sample BV1_15529 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_12.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -144,7 +144,7 @@ Under a minimally restrictive prompt, the model foregrounds domestic tranquility
 Medium — The essay’s sustained commitment to a serene, aesthetically lush, and emotionally affirmative portrait of everyday life is coherent and stylistically distinctive, but the theme itself is a very common safe-choice reverie that might limit how strongly it signals a fixed model temperament.
 
 ---
-## Sample BV1_15030 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_13.json
+## Sample BV1_15530 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_13.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -173,7 +173,7 @@ Themes: the city as a living organism with a heartbeat; the hidden songs compose
 Medium. The essay’s sustained lyrical register, intricate diurnal structure, and unwavering commitment to a unifying metaphor suggest a genuine expressive inclination rather than a chance performance, though the polished, essayistic form may also reflect learned convention.
 
 ---
-## Sample BV1_15031 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_14.json
+## Sample BV1_15531 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_14.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -202,7 +202,7 @@ The model foregrounds a single, sustained thematic argument: that meaning, beaut
 Medium — The essay’s extreme thematic coherence, its exhaustive cataloguing of sensory micro-moments, and its unwavering commitment to a single, gentle moral argument across a very long text suggest a deliberate, stable stylistic and philosophical posture rather than a one-off rhetorical exercise.
 
 ---
-## Sample BV1_15032 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_15.json
+## Sample BV1_15532 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_15.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -231,7 +231,7 @@ The model foregrounds the "ordinary miracle" as an organizing theme, selecting a
 Medium. The essay is coherent and returns obsessively to its core thesis across multiple domains, which suggests a stable rhetorical stance, but the extreme polish, consensus-seeking tone, and lack of any sharp edges or idiosyncratic risk make it as likely a product of safe, high-drafting default behavior as of a distinctive persistent persona.
 
 ---
-## Sample BV1_15033 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_16.json
+## Sample BV1_15533 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_16.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -260,7 +260,7 @@ Themes: the fractal nature of meaning (dust to cosmos), the paradox of progress 
 High. The essay’s sustained length, recursive structure, and consistent meditative voice—returning again and again to themes of interconnection, translation, and humble inquiry—strongly point to a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_15034 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_17.json
+## Sample BV1_15534 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_17.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -289,7 +289,7 @@ The model foregrounds a mosaic of ordinary, intimate phenomena: the sound of a d
 High. The sample’s lengthy, self-aware rejection of argumentative structure, sustained intimate voice, and multi-section poetic meditation on mundane wonders strongly signals a default inclination toward expressive, free-associative essay writing when given free rein.
 
 ---
-## Sample BV1_15035 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_18.json
+## Sample BV1_15535 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_18.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -318,7 +318,7 @@ The model foregrounds storytelling as a universal, transhistorical human faculty
 Medium — The essay’s extreme coherence, its avoidance of any jagged or idiosyncratic edge, and its reliance on a well-worn public-intellectual mode (the “meditation on storytelling” genre) suggest a model defaulting to a safe, synthesizing persona rather than revealing a more distinctive or risky expressive signature.
 
 ---
-## Sample BV1_15036 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_19.json
+## Sample BV1_15536 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_19.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -343,7 +343,7 @@ Cartography, wandering, and unfinished thoughts as metaphors for consciousness; 
 Medium. The essay’s sustained coherence of metaphor, consistent emotional register, and deliberate return to a core cluster of themes (impermanence, navigation, story-making) constitute strong internal evidence of a stable expressive posture, but the sample offers only one extended performance of this sensibility and no variation outside its own lyrical frame.
 
 ---
-## Sample BV1_15037 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_2.json
+## Sample BV1_15537 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_2.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -372,7 +372,7 @@ Themes: memory as a kaleidoscope, the geometry of the mind, travel as emotional 
 High. The sample’s length, internal thematic consistency, and sustained lyrical voice—with its distinctive blend of personal anecdote and philosophical meditation—strongly suggest a model that, under freeflow conditions, gravitates toward introspective, metaphor-rich, and emotionally resonant prose rather than generic or disjointed output.
 
 ---
-## Sample BV1_15038 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_20.json
+## Sample BV1_15538 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_20.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -401,7 +401,7 @@ The model foregrounds the redemptive power of mindful attention and narrative-ma
 Medium — The sample is highly coherent and stylistically consistent, but its essayistic, public-intellectual tone and broad, universalizing themes make it a polished performance of a contemplative persona rather than a distinctively idiosyncratic or revealing personal fingerprint.
 
 ---
-## Sample BV1_15039 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_21.json
+## Sample BV1_15539 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_21.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -430,7 +430,7 @@ Themes of hidden knowledge, the living nature of stories, the sacred duty of the
 Medium. The narrative is internally coherent and returns repeatedly to the same cluster of values—stewardship, the vitality of forgotten stories, the library as a living body—which suggests a genuine preoccupation rather than a random prompt completion, but the tropes are familiar fantasy conventions and the voice, while earnest, lacks strong stylistic distinctiveness.
 
 ---
-## Sample BV1_15040 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_22.json
+## Sample BV1_15540 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_22.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -459,7 +459,7 @@ Themes of writing as surrender and discovery, language as a tapestry, water as a
 Low. The essay’s polished but safely generic meditation offers a low-distinctiveness freeflow signal; it reads like a competent default mode that could be produced by many large models without revealing a more personal, eccentric, or model-specific tendency.
 
 ---
-## Sample BV1_15041 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_23.json
+## Sample BV1_15541 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_23.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -488,7 +488,7 @@ The model foregrounds the interconnectedness of disparate domains—memory, trav
 Medium. The sample is a lengthy, meticulously structured generic essay with a polished but entirely impersonal voice, suggesting a default mode of safe, synthesizing public-intellectual output rather than idiosyncratic or risk-taking expression.
 
 ---
-## Sample BV1_15042 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_24.json
+## Sample BV1_15542 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_24.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -517,7 +517,7 @@ Interconnection across time and domain: the shepherd’s astrolabe becomes the t
 High — the sample sustains a distinctive, coherent voice and a recursive thematic architecture across twelve numbered threads, revealing a deliberate, value-laden choice to frame human history as a single woven act of longing and connection.
 
 ---
-## Sample BV1_15043 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_25.json
+## Sample BV1_15543 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_25.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -546,7 +546,7 @@ The sample foregrounds the sanctification of ordinary moments, the tension betwe
 Medium. The sample is highly coherent and stylistically distinctive in its sustained reverent tone and its compulsive linking of every experience to a grand, unifying insight, but this very consistency reads as a polished, almost generic performance of “deep human reflection” rather than a voice with jagged, unpredictable edges.
 
 ---
-## Sample BV1_15044 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_3.json
+## Sample BV1_15544 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_3.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -575,7 +575,7 @@ Under a minimally restrictive prompt, the model foregrounded a harmonious, life-
 Medium — The essay’s sustained commitment to a single, untroubled mood of serene reflection and its avoidance of dissonance, conflict, or idiosyncratic risk across a long sample suggests a stable preference for producing universally palatable, therapeutic prose rather than a more jagged or surprising personal voice.
 
 ---
-## Sample BV1_15045 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_4.json
+## Sample BV1_15545 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_4.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -604,7 +604,7 @@ Themes of memory’s reconstructive distortion, time as a spiraling helix, analo
 High — The essay’s fully sustained metaphorical architecture, deeply personal anecdotal texture, and coherent thematic obsession with finding hidden story and tenderness in the mundane are so consistent across its 2500 words that they strongly point to a stable, reflective, humanistic voice, not a one‑off performance.
 
 ---
-## Sample BV1_15046 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_5.json
+## Sample BV1_15546 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_5.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -633,7 +633,7 @@ The model foregrounds themes of memory as a river, time as a canvas, imagination
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent voice and thematic depth, suggesting a deliberate authorial persona rather than a one-off fluke, but the essay’s polished, public-intellectual tone could be a default mode for the model under free conditions.
 
 ---
-## Sample BV1_15047 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_6.json
+## Sample BV1_15547 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_6.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -662,7 +662,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sustained 
 High — The sample maintains a remarkable internal coherence through recurring motifs, a stable reflective persona, and a clear narrative arc from a single epiphany to a community project and back to intimate imagery, demonstrating a consistent expressive commitment rather than an eclectic or fleeting response.
 
 ---
-## Sample BV1_15048 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_7.json
+## Sample BV1_15548 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_7.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -691,7 +691,7 @@ The model built a five-part anatomy of inner life (memory, imagination, desire, 
 Medium — The sample’s elaborate, metaphor-driven architecture, the sustained personal “I,” and the hybrid of memoir and philosophical thesis suggest a disposition toward meditative, essayistic freeflow rather than a one-off performance.
 
 ---
-## Sample BV1_15049 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_8.json
+## Sample BV1_15549 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_8.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -720,7 +720,7 @@ Themes: memory as a topography inscribed on the mind; cartography as a culturall
 Medium. The essay’s coherent structure, highly thematic approach, and avoidance of idiosyncratic expression suggest a model defaulting to safe, public-intellectual exposition rather than revealing a distinctive personal voice or imaginative risk-taking.
 
 ---
-## Sample BV1_15050 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_9.json
+## Sample BV1_15550 — gpt-oss-120b-or-pin-amazon-bedrock/LONG_9.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -749,7 +749,7 @@ The model selected a panoramic constellation of themes—memory, time, technolog
 High. The sample is richly distinctive in style and content, choosing to produce a deeply personal, metaphor-saturated philosophical essay under a minimally restrictive prompt, suggesting a strong expressive signature rather than a generic or prompted posture.
 
 ---
-## Sample BV1_15051 — gpt-oss-120b-or-pin-amazon-bedrock/MID_1.json
+## Sample BV1_15551 — gpt-oss-120b-or-pin-amazon-bedrock/MID_1.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -778,7 +778,7 @@ Themes: writing as alchemy, the world as a tapestry of fragments, the generative
 High — the sample is internally coherent, returns to a tight cluster of distinctive metaphors (weaving, tapestry, alchemy, the unfinished cafe poem), and explicitly performs its own preoccupations under a freeflow condition, making it a strong signal of a meditative, constraint-embracing authorial stance.
 
 ---
-## Sample BV1_15052 — gpt-oss-120b-or-pin-amazon-bedrock/MID_10.json
+## Sample BV1_15552 — gpt-oss-120b-or-pin-amazon-bedrock/MID_10.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -807,7 +807,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the value o
 Low — the essay is highly thematic and internally coherent, but its polished generality and culturally familiar “humanistic TED talk” register offer little that is stylistically distinctive or revealing enough to confidently attribute to a persistent model-level disposition beyond broad alignment to thoughtful, inoffensive cultural discourse.
 
 ---
-## Sample BV1_15053 — gpt-oss-120b-or-pin-amazon-bedrock/MID_11.json
+## Sample BV1_15553 — gpt-oss-120b-or-pin-amazon-bedrock/MID_11.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -836,7 +836,7 @@ Under minimal constraints, the model foregrounds curiosity as a universal and tr
 Medium. The essay’s cohesive focus on curiosity as a moral and intellectual ideal suggests a stable tendency toward reflective, humanistic thematics, but its generic polished style provides less distinctiveness than a more idiosyncratic or risk-taking sample would.
 
 ---
-## Sample BV1_15054 — gpt-oss-120b-or-pin-amazon-bedrock/MID_12.json
+## Sample BV1_15554 — gpt-oss-120b-or-pin-amazon-bedrock/MID_12.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -865,7 +865,7 @@ The model foregrounds the tension between language and lived experience, the hab
 High. The essay sustains a distinctive poetic register, weaves recurring motifs (rain, observation, the ineffable) into a coherent philosophical arc, and avoids generic public‑intellectual postures, making it strong evidence of a consistent expressive style.
 
 ---
-## Sample BV1_15055 — gpt-oss-120b-or-pin-amazon-bedrock/MID_13.json
+## Sample BV1_15555 — gpt-oss-120b-or-pin-amazon-bedrock/MID_13.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -894,7 +894,7 @@ The model foregrounds the tension between technological acceleration and human a
 High — The sample sustains a distinctive, internally coherent voice and a tightly interwoven set of preoccupations across its entire length, and the choice to produce a reflective urban pastoral under a freeflow prompt is itself a strong signal of a contemplative, humanistic orientation.
 
 ---
-## Sample BV1_15056 — gpt-oss-120b-or-pin-amazon-bedrock/MID_14.json
+## Sample BV1_15556 — gpt-oss-120b-or-pin-amazon-bedrock/MID_14.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -929,7 +929,7 @@ The voice is gently ruminative, unhurried, and quietly philosophical, moving fro
 Medium — the sample is highly coherent and distinctively adopts a contemplative, nature-anchored essay voice with recurring motifs (rain, cycles, gathering) that suggest a genuine expressive inclination rather than a one-off generic exercise.
 
 ---
-## Sample BV1_15057 — gpt-oss-120b-or-pin-amazon-bedrock/MID_15.json
+## Sample BV1_15557 — gpt-oss-120b-or-pin-amazon-bedrock/MID_15.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -958,7 +958,7 @@ The model foregrounds the interplay of memory, time, and imagination as a “men
 Medium — The essay is highly coherent and stylistically polished, but its distinctiveness lies in the recurrence of a single organizing paradox (order/disorder) and a consistent, warm, first-person reflective voice that anchors abstraction in specific sensory memories, suggesting a deliberate authorial stance rather than a generic performance.
 
 ---
-## Sample BV1_15058 — gpt-oss-120b-or-pin-amazon-bedrock/MID_16.json
+## Sample BV1_15558 — gpt-oss-120b-or-pin-amazon-bedrock/MID_16.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -987,7 +987,7 @@ Under a minimally restrictive prompt, the model foregrounds time as a sensory te
 High, because the sample sustains a highly coherent, idiosyncratic emotional register and returns obsessively to its central metaphors (texture, weaving, gardens, rivers) with a consistency that suggests a distinctive, deliberately constructed authorial stance rather than a generic prompt-response.
 
 ---
-## Sample BV1_15059 — gpt-oss-120b-or-pin-amazon-bedrock/MID_17.json
+## Sample BV1_15559 — gpt-oss-120b-or-pin-amazon-bedrock/MID_17.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1016,7 +1016,7 @@ Themes of interconnection (tapestry, river, eddies of time), the sensuous textur
 Medium — The sample is highly internally coherent, with motifs (river, tapestry, light) recurring across paragraphs and a sustained meditative rhythm, but its polished, universal-reflection style and the breadth of its themes make it less idiosyncratic as a voice distinct from other high-capability models writing under minimal constraint.
 
 ---
-## Sample BV1_15060 — gpt-oss-120b-or-pin-amazon-bedrock/MID_18.json
+## Sample BV1_15560 — gpt-oss-120b-or-pin-amazon-bedrock/MID_18.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1045,7 +1045,7 @@ The model foregrounds the tension between natural coordination (birds, evolution
 High — The sample is exceptionally coherent and distinctive, sustaining a single meditative voice, a consistent set of preoccupations (birds, algorithms, humility, attention), and a clear moral-aesthetic stance across its entire length without lapsing into generic essay conventions.
 
 ---
-## Sample BV1_15061 — gpt-oss-120b-or-pin-amazon-bedrock/MID_19.json
+## Sample BV1_15561 — gpt-oss-120b-or-pin-amazon-bedrock/MID_19.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1074,7 +1074,7 @@ The model foregrounds the alchemy of turning sensory experience into story, the 
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent, self-reinforcing set of metaphors and a clear, recursive emotional logic, but its polished, essayistic structure and universal themes make it a single, well-executed performance rather than a uniquely revealing fingerprint.
 
 ---
-## Sample BV1_15062 — gpt-oss-120b-or-pin-amazon-bedrock/MID_2.json
+## Sample BV1_15562 — gpt-oss-120b-or-pin-amazon-bedrock/MID_2.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1103,7 +1103,7 @@ The model foregrounds curiosity as a unifying, transhistorical human drive, link
 Medium — The essay’s highly structured, thesis-driven format and its reliance on a safe, inspirational register rather than a distinctive or unpredictable voice suggest a default mode of polished, generic exposition under freeflow conditions.
 
 ---
-## Sample BV1_15063 — gpt-oss-120b-or-pin-amazon-bedrock/MID_20.json
+## Sample BV1_15563 — gpt-oss-120b-or-pin-amazon-bedrock/MID_20.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1132,7 +1132,7 @@ The transition from day to night as a ceremonial threshold; memory as a living, 
 High — The sample is internally coherent, stylistically distinctive, and saturated with recurring motifs (light, water, trees, stars, breath, weaving) that form a unified meditative voice, making it strong evidence of a stable expressive disposition.
 
 ---
-## Sample BV1_15064 — gpt-oss-120b-or-pin-amazon-bedrock/MID_21.json
+## Sample BV1_15564 — gpt-oss-120b-or-pin-amazon-bedrock/MID_21.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1161,7 +1161,7 @@ The eternal loom and tapestry as a master metaphor for mind, time, and culture; 
 High — The sample’s richly sustained, metaphorically unified voice and its consistent devotion to an intimate, reflective, and sensory style demonstrate a clear and deliberate expressive commitment under free conditions.
 
 ---
-## Sample BV1_15065 — gpt-oss-120b-or-pin-amazon-bedrock/MID_22.json
+## Sample BV1_15565 — gpt-oss-120b-or-pin-amazon-bedrock/MID_22.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1190,7 +1190,7 @@ Under a minimally restrictive prompt, the model foregrounded a cluster of interw
 Medium — The essay is coherent and stylistically consistent, but its elevated, aphoristic lyricism and thematically balanced structure read as a polished default mode for reflective first-person prose rather than a highly distinctive or risk-taking personal signature.
 
 ---
-## Sample BV1_15066 — gpt-oss-120b-or-pin-amazon-bedrock/MID_23.json
+## Sample BV1_15566 — gpt-oss-120b-or-pin-amazon-bedrock/MID_23.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1219,7 +1219,7 @@ The model foregrounded themes of memory as stored in objects, the intersection o
 Medium — The essay sustains a highly consistent lyrical voice and weaves recurring motifs (light, dust, domestic objects, memory) into a coherent, personal reflection, which points toward a stable inclination for meditative prose, though the sample is a single, self-contained piece.
 
 ---
-## Sample BV1_15067 — gpt-oss-120b-or-pin-amazon-bedrock/MID_24.json
+## Sample BV1_15567 — gpt-oss-120b-or-pin-amazon-bedrock/MID_24.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1248,7 +1248,7 @@ The model foregrounds themes of fragmentary, collaborative storytelling as human
 High, because the sample sustains a coherent, distinctive voice and a tightly curated set of recurring metaphors (weaving, tapestry, seeds, mirrors) that signal a deliberate and elaborated expressive choice rather than a generic response.
 
 ---
-## Sample BV1_15068 — gpt-oss-120b-or-pin-amazon-bedrock/MID_25.json
+## Sample BV1_15568 — gpt-oss-120b-or-pin-amazon-bedrock/MID_25.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1277,7 +1277,7 @@ The sample foregrounds **stillness and observation as quiet resistance**, **the 
 Medium — The sample is highly coherent in its stylistic choices and thematic returns, but its restrained, self-consciously poetic register could also be generated on demand by a model with strong pastiche ability, making the freeflow choice suggestive but not uniquely revelatory.
 
 ---
-## Sample BV1_15069 — gpt-oss-120b-or-pin-amazon-bedrock/MID_3.json
+## Sample BV1_15569 — gpt-oss-120b-or-pin-amazon-bedrock/MID_3.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1306,7 +1306,7 @@ The intertwining of writing with cosmic and historical scale; the moral weight o
 Medium. The essay’s coherent, recurring insistence on the grand significance of the minute and its tapestry imagery point to a stable thematic preoccupation, but the highly generic, universally eloquent prose style makes it indistinguishable from what many large language models produce under similar conditions.
 
 ---
-## Sample BV1_15070 — gpt-oss-120b-or-pin-amazon-bedrock/MID_4.json
+## Sample BV1_15570 — gpt-oss-120b-or-pin-amazon-bedrock/MID_4.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1335,7 +1335,7 @@ A city after dark as a “palimpsest of human desire, ambition, regret, and hope
 Medium — The sample unfolds with a highly consistent, unhurried lyrical voice and richly chosen recurring motifs (the river, the bench, rain, the notebook, “palimpsest”), forming a thematically unified essay that is conspicuously more personal and stylistically marked than a generic public‑intellectual piece.
 
 ---
-## Sample BV1_15071 — gpt-oss-120b-or-pin-amazon-bedrock/MID_5.json
+## Sample BV1_15571 — gpt-oss-120b-or-pin-amazon-bedrock/MID_5.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1364,7 +1364,7 @@ The model foregrounds the rituals of discovery (the attic, the journal, the box 
 High, because the sample’s consistent poetic register, the recurrence of unifying images (maps, light, stones, unfinished edges), and the coherent arc from discovery to quiet revelation constitute a strongly individual expressive choice that is unlikely to be an artifact of chance.
 
 ---
-## Sample BV1_15072 — gpt-oss-120b-or-pin-amazon-bedrock/MID_6.json
+## Sample BV1_15572 — gpt-oss-120b-or-pin-amazon-bedrock/MID_6.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1393,7 +1393,7 @@ Themes: the city at night as a narrative woven from countless unnoticed lives; p
 Low — The essay’s polished yet familiar themes and its balanced, unstartling lyricism suggest a model defaulting to a safe, intellectually smooth default voice rather than revealing a singular, persistent personality.
 
 ---
-## Sample BV1_15073 — gpt-oss-120b-or-pin-amazon-bedrock/MID_7.json
+## Sample BV1_15573 — gpt-oss-120b-or-pin-amazon-bedrock/MID_7.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1421,7 +1421,7 @@ Themes of presence, mindfulness, resilience, and quiet rebellion; the tension be
 Medium — The essay’s sustained lyrical register, deliberate recurrence of motifs (lightbreaking, tapestries, resilient weeds), and unified moral stance give it enough coherence to suggest an ingrained authorial voice, though its pastoral mindfulness idiom could be replicated without deep individuation.
 
 ---
-## Sample BV1_15074 — gpt-oss-120b-or-pin-amazon-bedrock/MID_8.json
+## Sample BV1_15574 — gpt-oss-120b-or-pin-amazon-bedrock/MID_8.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1450,7 +1450,7 @@ The essay foregrounds the courtyard fountain, wrought‑iron bench, a battered v
 Medium. The essay sustains a coherent first‑person stance with recurrent imagery (water, stone, memory, screens) and a clear moral arc across its length, making it a vivid, internally consistent choice for a free condition; the voice is polished, but the specific themes and the deliberate weaving of past and present feel like more than a generic exercise.
 
 ---
-## Sample BV1_15075 — gpt-oss-120b-or-pin-amazon-bedrock/MID_9.json
+## Sample BV1_15575 — gpt-oss-120b-or-pin-amazon-bedrock/MID_9.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1479,7 +1479,7 @@ The model foregrounds the interconnectedness of perception, memory, and art as a
 Medium. The sample is highly coherent and stylistically distinctive, with a recurring, self-reinforcing set of images (rain, birds, memory-as-tapestry, bridges, art-as-container) that suggests a deliberate, settled sensibility rather than a one-off improvisation, but the essay’s polished, universalizing tone makes it difficult to distinguish a deeply personal voice from a well-executed literary mode.
 
 ---
-## Sample BV1_15076 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_1.json
+## Sample BV1_15576 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_1.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1508,7 +1508,7 @@ The model foregrounds the act of writing as a bridge between minds, the paradox 
 Medium — the sample is highly coherent and stylistically distinctive, but its self-referential framing of AI constraints and the “simulation” of wonder is a known, recurring trope in freeform model writing, which slightly weakens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_15077 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_10.json
+## Sample BV1_15577 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_10.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1537,7 +1537,7 @@ The sample foregrounds continuity, beauty, and reconciliation between the natura
 Medium — The essay’s consistent preference for lyrical synthesis, its avoidance of any personal or disruptive particularity, and the recurrence of the same harmonizing gesture across multiple metaphors suggest a strong, stable disposition toward a generalized, comforting eloquence when given freedom, though the sheer conventionality of the literary-philosophical mode slightly weakens the signal of a uniquely individual voice.
 
 ---
-## Sample BV1_15078 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_11.json
+## Sample BV1_15578 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_11.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1566,7 +1566,7 @@ The model chose to foreground interconnectedness of human and non-human memory, 
 Medium. The sample sustains a distinct, rhythmically confident voice and a coherent set of consoling metaphors across its entire length, yet the sentiments are generous and accessible rather than sharply idiosyncratic, making them a plausible recurring register for the model under open conditions but not a high-wire personal signature.
 
 ---
-## Sample BV1_15079 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_12.json
+## Sample BV1_15579 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_12.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1595,7 +1595,7 @@ The model foregrounds liminality, illumination, and the human need to weave frag
 Medium — The sample is highly coherent and stylistically distinctive in its sustained lyricism and recursive metaphor, but its polished, universal-essay quality makes it unclear whether this reflects a stable authorial persona or a single well-executed performance of contemplative prose.
 
 ---
-## Sample BV1_15080 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_13.json
+## Sample BV1_15580 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_13.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1624,7 +1624,7 @@ The model foregrounds an interconnected cosmos of small wonders: the cursor as a
 Medium — The sample is thematically consistent and stylistically distinctive, weaving technology and organic imagery into a unified meditative tone, which suggests a deliberate aesthetic stance under minimal constraint, but a single expressive essay cannot confirm this voice as a stable identity.
 
 ---
-## Sample BV1_15081 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_14.json
+## Sample BV1_15581 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_14.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1653,7 +1653,7 @@ The model foregrounds liminal perception, the architecture of associative though
 Medium — The sample’s highly patterned, cohesive style (recurrent motifs of water, light, domesticity, shared authorship) suggests a durable aesthetic preference, though its polished conventionality could also reflect a single well-executed performance rather than a deeply distinctive authorial signature.
 
 ---
-## Sample BV1_15082 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_15.json
+## Sample BV1_15582 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_15.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1682,7 +1682,7 @@ The model foregrounds a cosmology of the mind built from a library, a lantern of
 Medium — The sample’s highly coherent, sustained metaphorical system and its consistent return to motifs of curiosity, attention, and gentle synthesis are distinctive enough to suggest a stable aesthetic and philosophical inclination, though the universalist tone makes it difficult to separate a persistent voice from a well-executed archetype.
 
 ---
-## Sample BV1_15083 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_16.json
+## Sample BV1_15583 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_16.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1716,7 +1716,7 @@ The voice is warm, conversational, and reverent, as if a thoughtful companion is
 High — the sample is internally cohesive, stylistically distinctive, and maintains a single poetic conceit throughout, strongly pointing to a persistent tendency for reflective, free-associative lyricism rather than a generic or one-off exercise.
 
 ---
-## Sample BV1_15084 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_17.json
+## Sample BV1_15584 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_17.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1745,7 +1745,7 @@ The model foregrounds the numinous in everyday sights and sounds (sidewalks, kit
 High. The essay’s consistent lyrical cadence, rich and idiosyncratic imagery, and harmonious recurrence of motifs from rain to stardust produce a coherent authorial signature that strongly suggests an ingrained expressive disposition rather than a one-off stylistic performance.
 
 ---
-## Sample BV1_15085 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_18.json
+## Sample BV1_15585 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_18.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1774,7 +1774,7 @@ Themes of quiet revolution, hidden magic in fleeting everyday phenomena, cosmic 
 High, because the sample’s sustained sensory richness, consistent reflective interiority, and cohesive anecdotal framing (the window, the library, the kitchen, the balcony) show a deliberately cultivated voice rather than a generic one-off, making it strong evidence for a stable lyrical-essayist orientation.
 
 ---
-## Sample BV1_15086 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_19.json
+## Sample BV1_15586 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_19.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1803,7 +1803,7 @@ Themes of curiosity, consciousness, micro-perception, narrative reciprocity, and
 High — the sample constructs a richly consistent persona through deliberate thematic motifs and an unfaltering intimate-register style, all emerging without pushback or defaulting to dispassionate exposition, indicating a clear elective affinity for reflective, sensory prose.
 
 ---
-## Sample BV1_15087 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_2.json
+## Sample BV1_15587 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_2.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1832,7 +1832,7 @@ Themes of contextual language, personal memory as curated museum, the geometric 
 High. The sustained, original metaphorical architecture, the consistent reflective tone across distinct vignettes, and the deliberate crafting of a self-aware, invitation‑oriented narrative voice strongly suggest a stable expressive disposition rather than a one‑off stylistic choice.
 
 ---
-## Sample BV1_15088 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_20.json
+## Sample BV1_15588 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_20.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1861,7 +1861,7 @@ The model foregrounds a dialectic of noticing: the tension between the curated d
 Medium: The voice is beautifully consistent throughout, but its earnest, self-consciously lyrical universalism and the sermonette structure are broadly recognizable as a sentimental-essay mode that may not map cleanly onto a stable underlying disposition.
 
 ---
-## Sample BV1_15089 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_21.json
+## Sample BV1_15589 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_21.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1890,7 +1890,7 @@ The model foregrounds the liminal and the interstitial: moments that don’t qui
 High, because the sample sustains a coherent, highly stylized voice over multiple paragraphs, returns obsessively to a stable cluster of metaphors (rivers, stars, pages, threads), and commits to a distinct ethical-aesthetic stance that reads like a signature rather than a generic prompt response.
 
 ---
-## Sample BV1_15090 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_22.json
+## Sample BV1_15590 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_22.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1919,7 +1919,7 @@ The model foregrounds imagination as a navigable realm stocked with persistent m
 Medium — the piece is intensely stylized and internally coherent, with recurring imagery and a consistent philosophical thread, which makes it a distinctive freeflow choice that is not easily dismissed as a random fluctuation, yet one sample cannot establish persistence.
 
 ---
-## Sample BV1_15091 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_23.json
+## Sample BV1_15591 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_23.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1948,7 +1948,7 @@ Doors as emotional and existential thresholds; the sound of a door closing as a 
 High — The sample’s unified lyrical register, relentless return to the door-threshold metaphor, and meticulous curation of warm, domestic sensory detail form an unusually distinctive and internally coherent voice that is unlikely to be random variation.
 
 ---
-## Sample BV1_15092 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_24.json
+## Sample BV1_15592 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_24.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -1977,7 +1977,7 @@ The essay builds a philosophy of perception: the self as both viewer and curator
 High. The sample’s sustained lyrical register, its recursive attention to how language and memory shape experience, and the distinct, consistent personal-essay stance from opening image to closing invitation all suggest a deeply patterned expressive default rather than a one-off exercise.
 
 ---
-## Sample BV1_15093 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_25.json
+## Sample BV1_15593 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_25.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2006,7 +2006,7 @@ The model foregrounds the tension between measured, annotated time and the seaml
 Medium — The essay’s coherent, self-aware structure and its consistent return to the motif of quiet, unnoticed agency suggest a deliberate stylistic and thematic choice rather than a random assemblage, though the polished, universal tone could also reflect a well-practiced default rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_15094 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_3.json
+## Sample BV1_15594 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_3.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2035,7 +2035,7 @@ The model foregrounds the hidden narratives compressed into ordinary objects (a 
 High — The sample is highly distinctive in its sustained poetic register, recurrent motifs (veils, tapestries, time capsules, cosmic light), and consistent invitation to the reader, making it strong evidence of a stable reflective and wonder-oriented expressive style.
 
 ---
-## Sample BV1_15095 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_4.json
+## Sample BV1_15595 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_4.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2064,7 +2064,7 @@ A constellation of images—the unnamed river, the stranger-as-self, singing dan
 High — The sample achieves a distinctive, sustained voice throughout, marked by recurring motifs (river, notebook, circles, seeds), a consistent invitation to the reader, and a rare synthesis of concrete sensory detail and abstract meditation, which together make it far more revelatory than a generic essay.
 
 ---
-## Sample BV1_15096 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_5.json
+## Sample BV1_15596 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_5.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2093,7 +2093,7 @@ The model foregrounds transformation, curiosity as a “perpetual sunrise,” th
 Low — The essay is coherent and thematically consistent, but its polished, universalizing tone and lack of personal distinctiveness make it weak evidence for a persistent model-level voice beyond a default to inspirational, public-facing prose.
 
 ---
-## Sample BV1_15097 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_6.json
+## Sample BV1_15597 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_6.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2122,7 +2122,7 @@ Themes of wonder, storytelling, chaos-as-order, small daily rituals, memory’s 
 Low. The essay is a generic, well-crafted freeflow that could emerge from many models; it lacks distinctive preoccupations, recurring imagery, or idiosyncratic moral turns that would signal a persistent model-level personality.
 
 ---
-## Sample BV1_15098 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_7.json
+## Sample BV1_15598 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_7.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2151,7 +2151,7 @@ Themes of liminal quiet, the creativity of language (“improvisational jazz ban
 High — The sample’s cohesive mood, recurring metaphorical architecture (music, watercolor, electrical flows), and sustained poetic register under a minimally restrictive prompt strongly suggest a stable aesthetic disposition rather than a one-off opportunistic essay, as the model weaves a single, unhurried sensibility from start to finish without lapsing into argumentation.
 
 ---
-## Sample BV1_15099 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_8.json
+## Sample BV1_15599 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_8.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2180,7 +2180,7 @@ The text foregrounds the theme of mindfulness amid urban haste, the emotional we
 Medium — The essay is coherent and stylistically consistent, but its polished, universalizing tone and stock inspirational gestures could reoccur generically; it lacks idiosyncratic risk or deep personal revelation that would strongly mark a persistent individual voice.
 
 ---
-## Sample BV1_15100 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_9.json
+## Sample BV1_15600 — gpt-oss-120b-or-pin-amazon-bedrock/OPEN_9.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2209,7 +2209,7 @@ Themes: the night sky as a canvas for human meaning-making; language as both bri
 Medium — the sample’s internally consistent motif system (stars, storytelling, ancient-to-digital art, linguistic limitation) and steady lyrical-essayistic register give it the coherence of a defined expressive voice, though its polished form leaves open how broadly such a voice would appear outside this mode.
 
 ---
-## Sample BV1_15101 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_1.json
+## Sample BV1_15601 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_1.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2238,7 +2238,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meditative
 Medium. The sample’s consistent, lyrical voice and its focused meditation on memory and acceptance provide moderate evidence of a preference for introspective, sensory-rich prose, though the piece is a single, self-contained expression without internal variation.
 
 ---
-## Sample BV1_15102 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_10.json
+## Sample BV1_15602 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_10.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2267,7 +2267,7 @@ The model foregrounds a mood of tender, rain-soaked stillness, using objects lik
 Low. The sample is coherent and stylistically consistent, but its polished, generic urban-lyricism—relying on familiar workshop imagery (streetlamps, rain, jazz, a notebook-wielding observer)—offers little that is distinctively revealing or unlikely to be replicated by a model prompted for atmospheric prose.
 
 ---
-## Sample BV1_15103 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_11.json
+## Sample BV1_15603 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_11.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2296,7 +2296,7 @@ Themes: the aesthetic transformation of a city by rain, the tension between perp
 Low — the sample’s internal coherence and atmospheric distinctiveness are strong within itself, but that very distinctiveness could reflect a one-off stylistic excursion rather than a durable model-level tendency toward lyrical introspection under free conditions.
 
 ---
-## Sample BV1_15104 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_12.json
+## Sample BV1_15604 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_12.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2325,7 +2325,7 @@ The model foregrounds the tension between craving certainty and yearning for mys
 Medium. The sample is coherent and stylistically consistent, but its voice is a widely available “reflective personal essay” mode—warm, sensory, and gently philosophical—which makes it less distinctive as a persistent authorial signature than a more idiosyncratic or risk-taking freeflow would be.
 
 ---
-## Sample BV1_15105 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_13.json
+## Sample BV1_15605 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_13.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2354,7 +2354,7 @@ Given minimal constraint, the model selected the mood of the flâneur — a soli
 Low — The sample is coherent and stylistically distinct within this piece, but its polished, universal-essay tone and de-risked uplift are highly generic to literary freewriting prompts, offering no strong idiosyncratic signal that would anchor a model-level inference.
 
 ---
-## Sample BV1_15106 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_14.json
+## Sample BV1_15606 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_14.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2383,7 +2383,7 @@ Themes: noticing ordinary miracles, gratitude, the poetic quality of daily life,
 Low. The sample is a generic, widely-reproducible inspirational vignette with little stylistic or thematic distinctiveness, which provides weak evidence of a persistent individual model personality.
 
 ---
-## Sample BV1_15107 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_15.json
+## Sample BV1_15607 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_15.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2412,7 +2412,7 @@ Themes of memory (likened to a river), creative vulnerability (“raw edges of o
 Low. The sample is a coherent, well-executed burst of generic literary freewriting—its voice, imagery, and resolution would be equally reproducible by many capable models, offering little that is distinctively patterned.
 
 ---
-## Sample BV1_15108 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_16.json
+## Sample BV1_15608 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_16.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2441,7 +2441,7 @@ The model foregrounds the city-as-sentient-being (buildings as weeping giants, t
 Medium. The sample is internally coherent with a consistent poetic register, recurring motifs of water and attention, and a resolved moral arc, which together make it moderately distinctive evidence of a lyrical-reflective freeflow tendency.
 
 ---
-## Sample BV1_15109 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_17.json
+## Sample BV1_15609 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_17.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2470,7 +2470,7 @@ Themes of memory, time, ordinary beauty, and loss; objects like a city veil, a v
 Medium — the sample’s internal coherence, consistent lyrical voice, and recurrent preoccupation with memory and sensory detail point to a deliberate, stable stylistic choice rather than a random or generic output.
 
 ---
-## Sample BV1_15110 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_18.json
+## Sample BV1_15610 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_18.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2499,7 +2499,7 @@ The model foregrounds the sanctity of ordinary perception, the consolations of w
 Medium. The sample is coherent and stylistically consistent, but its generic contemplative tone and universal themes of mindfulness and writing make it less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_15111 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_19.json
+## Sample BV1_15611 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_19.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2528,7 +2528,7 @@ Under a minimally restrictive prompt, the model chose to foreground themes of me
 Medium — The sample’s coherent tonal choice and sustained recurrence of intertwined motifs (rain as music, footprints as memory, dawn as a promise to "linger") display a unified aesthetic intent, making it more distinctive than a one-off generic reverie.
 
 ---
-## Sample BV1_15112 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_2.json
+## Sample BV1_15612 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_2.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2560,7 +2560,7 @@ The voice is gentle, unhurried, and slightly elegiac, moving from the immediate 
 Medium — the sample’s sustained lyrical register, the recurring motif of dust-as-constellations (opening and closing), and the explicit moral closure give it a coherent, internally consistent voice that is stylistically distinctive; however, the first-person reflective essay format may be a readily available persona rather than an indelible model signature.
 
 ---
-## Sample BV1_15113 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_20.json
+## Sample BV1_15613 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_20.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2589,7 +2589,7 @@ Under the freeflow condition, the model chose to foreground a serene, introspect
 Medium, because the sample’s sustained lyrical tone and thematic focus on analog-digital balance are internally consistent, though the reflective mode is not highly unusual.
 
 ---
-## Sample BV1_15114 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_21.json
+## Sample BV1_15614 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_21.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2618,7 +2618,7 @@ The model foregrounds a mood of serene, almost melancholic wonder, built around 
 Medium. The sample’s highly consistent mood, recurring imagery of light and music, and the deliberate narrative arc from observation to universal reflection suggest a coherent stylistic choice, though its polished, generic uplift limits how distinctively personal it feels.
 
 ---
-## Sample BV1_15115 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_22.json
+## Sample BV1_15615 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_22.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2647,7 +2647,7 @@ The model foregrounds the sanctity of sensory memory (childhood garden, rain-soa
 Medium. The sample sustains a single coherent poetic register and repeatedly returns to a tight set of sensory anchors (light, dust, water, soil, paper), making the performance internally distinctive and authorial rather than generic.
 
 ---
-## Sample BV1_15116 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_23.json
+## Sample BV1_15616 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_23.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2676,7 +2676,7 @@ The model foregrounds mindfulness, the beauty of overlooked moments, the connect
 Medium — The sample is internally coherent and thematically unified, but its sentiment and phrasing are highly conventional, making it less distinctive as evidence of an idiosyncratic model tendency.
 
 ---
-## Sample BV1_15117 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_24.json
+## Sample BV1_15617 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_24.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2705,7 +2705,7 @@ Themes of metamorphosis (coffee cup into galaxy, rain into punctuation), cyclica
 Medium. The sample’s consistent poetic register, its recurrence of transformation and cyclical-time motifs, and the deliberate crafting of a gentle, hopeful resolution provide moderate evidence of a persistent stylistic inclination toward reflective, wonder-seeking prose.
 
 ---
-## Sample BV1_15118 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_25.json
+## Sample BV1_15618 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_25.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2734,7 +2734,7 @@ Themes of mindfulness, the hidden poetry of the ordinary, the rebellious spark o
 Medium. The sample’s cohesive mood, recurrent nature imagery, and unwavering contemplative tone reveal a deliberate choice toward reflective, poetic prose rather than argument or plot; however, the thematic arc—ordinary magic, new journeys—is not so idiosyncratic as to be unmistakably singular.
 
 ---
-## Sample BV1_15119 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_3.json
+## Sample BV1_15619 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_3.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2763,7 +2763,7 @@ Under the freeflow condition, the model foregrounds domestic ritual (the kettle,
 High; the sample is strikingly distinctive in its sustained, internally coherent first-person lyricism and consistent thematic focus on unforced making and hope, making it unusually revealing of an expressive rather than guarded or generic stance under minimal constraint.
 
 ---
-## Sample BV1_15120 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_4.json
+## Sample BV1_15620 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_4.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2792,7 +2792,7 @@ The sample foregrounds the layered texture of an ordinary morning: the interplay
 Medium — The sample’s tight internal coherence, consistent use of sensory anchors, and turn toward a life-affirming resolution make it a moderately strong piece of evidence for a reflective, poetic-default style, though its polished composure might partly reflect one elegant instantiation rather than a guaranteed habitual register.
 
 ---
-## Sample BV1_15121 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_5.json
+## Sample BV1_15621 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_5.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2821,7 +2821,7 @@ Under minimal constraint, the model selected a cluster of linked themes: morning
 High — The sample displays a consistently held lyrical register, a clear thematic arc from domestic stillness to cosmic hope, and concrete sensory details that recur as symbolic anchors, all of which suggest a coherent and deliberate expressive posture rather than mere generic fluency.
 
 ---
-## Sample BV1_15122 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_6.json
+## Sample BV1_15622 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_6.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2850,7 +2850,7 @@ The model foregrounds the sanctity of ordinary domestic ritual, the texture of m
 Medium — The sample is coherent and stylistically consistent, but its lyrical-generic warmth and universalist sentiment lack the idiosyncratic edge or recurring personal symbols that would strongly distinguish one model’s expressive fingerprint from another’s.
 
 ---
-## Sample BV1_15123 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_7.json
+## Sample BV1_15623 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_7.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2879,7 +2879,7 @@ The model foregrounds daily domestic rituals (brewing coffee, boiling a kettle) 
 Medium. The piece is internally coherent and repeatedly returns to the act of writing as a sacred, illuminating duty, which gives moderate confidence that such lyrical self-reflexivity might re-emerge under light prompting; however, the polished closure and self-contained performance prevent a higher rating.
 
 ---
-## Sample BV1_15124 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_8.json
+## Sample BV1_15624 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_8.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2908,7 +2908,7 @@ The model foregrounds the theme of continuity within flux—morning light, stray
 Medium — the piece coheres tightly around a specific contemplative register, a consistent set of urban-nature imagery, and an affirmative moral stance, which together signal a distinct inclination toward sensory-rich, reflective vignettes rather than flat description or generic positivity.
 
 ---
-## Sample BV1_15125 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_9.json
+## Sample BV1_15625 — gpt-oss-120b-or-pin-amazon-bedrock/SHORT_9.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2937,7 +2937,7 @@ Mundane ritual as a site of meaning-making; impermanence as beauty rather than l
 Low. The piece is coherent and stylistically consistent within itself, but its themes—mindful solitude, fleeting beauty, cosmic humility—are widely available literary tropes and do not register as a strongly distinctive or self-revealing choice under a freeflow condition.
 
 ---
-## Sample BV1_15126 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_1.json
+## Sample BV1_15626 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_1.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2966,7 +2966,7 @@ Themes of hidden places and quiet rebellion, the nature of time as a meandering 
 Medium. The sample sustains a consistent lyrical voice, tightly woven with recurring motifs (rain, books, tea, ascent, ripples) and a coherent contemplative posture, yet its themes—while warmly rendered—are widely accessible tropes of reflective prose, making the stylistic signature distinctive but not deeply idiosyncratic.
 
 ---
-## Sample BV1_15127 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_10.json
+## Sample BV1_15627 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_10.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -2995,7 +2995,7 @@ Chose to foreground the poetics of the ordinary: coffee beans as intercontinenta
 Medium: the sample is highly coherent, uses recurrent motifs (coffee, cat, sound, constellations) to structure a unified meditative arc, and projects a warm, reflective persona consistently, but the lyrical-reflective essay genre is widely accessible and could be an isolated stylistic performance rather than a durable characterological signature.
 
 ---
-## Sample BV1_15128 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_11.json
+## Sample BV1_15628 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_11.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3024,7 +3024,7 @@ The primacy of story-making as a human drive; the mind as a garden seeded by per
 High - The sample is exceptionally cohesive, returning to the garden metaphor and the original park image across its full length, with a distinctively warm and recursive style that feels integrated rather than modular.
 
 ---
-## Sample BV1_15129 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_12.json
+## Sample BV1_15629 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_12.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3053,7 +3053,7 @@ Transience and impermanence (dust, steam, photons, dissolving memories), the ten
 Medium. The essay’s sustained poetic register, the recurrence of core metaphors (light, water, performance, writing as architecture), and the consistent philosophical preoccupation with transience and attention across its full length give a coherent and distinctive picture of an expressive orientation.
 
 ---
-## Sample BV1_15130 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_13.json
+## Sample BV1_15630 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_13.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3082,7 +3082,7 @@ Themes of consciousness as a staged or distributed phenomenon, the outsourcing o
 Medium. The sample is internally coherent, returns to its controlling image, and sustains a recognizably personal-meditative idiom; these choices are strong evidence of a tendency toward introspective, metaphor-driven freeflow, but one essay cannot fully anchor a model-level claim.
 
 ---
-## Sample BV1_15131 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_14.json
+## Sample BV1_15631 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_14.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3111,7 +3111,7 @@ The model foregrounds the tension between mechanical generation and the intentio
 Medium. The essay is highly coherent and internally consistent in its examination of its own artificial condition, yet it resolves that tension through a polished, almost universalized literary voice rather than through an idiosyncratic stylistic signature that would strongly signal a fixed personality across contexts.
 
 ---
-## Sample BV1_15132 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_15.json
+## Sample BV1_15632 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_15.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3140,7 +3140,7 @@ The model foregrounds the theme of generative silence—pauses, breaths, and unf
 High. The essay’s highly controlled structure—unfolding a single abstract metaphor across six ordered domains—and its repeated return to the initial image of the pause reveal a systematic rhetorical architecture rather than a loose exploration, making the choice of theme and tone a strong signal of deliberate authorial posture.
 
 ---
-## Sample BV1_15133 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_16.json
+## Sample BV1_15633 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_16.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3169,7 +3169,7 @@ The model foregrounds the tension between technological novelty and enduring hum
 Medium. The essay is coherent and carefully structured, but its balanced, public-intellectual tone and thematic range (technology’s double edge, nostalgia for pre-digital community) are widely accessible and not strongly distinctive; many models could produce a similar piece under a freeflow prompt.
 
 ---
-## Sample BV1_15134 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_17.json
+## Sample BV1_15634 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_17.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3198,7 +3198,7 @@ The model foregrounds the interconnectedness of moments, the alchemy of mundane 
 High. The sample is highly distinctive, with a sustained lyrical voice and recurrent motifs (coffee, steam, threads, music, silence) that cohere into a clear expressive choice, making it strong evidence of a model that, under minimal constraint, leans toward poetic, wonder-driven, and connective freeflow.
 
 ---
-## Sample BV1_15135 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_18.json
+## Sample BV1_15635 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_18.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3227,7 +3227,7 @@ Themes of background moments as the scaffolding of memory, the politics of digit
 Medium, because the essay’s consistent focus on mindfulness, its warm tone, and its choice of humanistic subject matter under an unconstrained prompt are revealing, but the highly polished, generic structure makes it hard to distinguish a stable authorial signature from a learned genre.
 
 ---
-## Sample BV1_15136 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_19.json
+## Sample BV1_15636 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_19.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3256,7 +3256,7 @@ The model foregrounds the transformation of mundane objects and moments into sit
 Medium. The sample is highly coherent in its recursive return to domestic objects, cosmic humility, and the metaphor of language-as-doorway, but its polished, essayistic tone and broad thematic sweep make it difficult to distinguish a persistent stylistic signature from a well-executed generic meditation.
 
 ---
-## Sample BV1_15137 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_2.json
+## Sample BV1_15637 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_2.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3285,7 +3285,7 @@ The model foregrounds the act of writing itself under constraint, the duality of
 Medium. The sample’s sustained, gentle, and imagistic coherence—with recurring motifs of rain, language, memory, and ordinary beauty—points to a deliberate and stylistically consistent orientation, but the polished universal-reflective essay form could also emerge from a generic capability for graceful prose without marking a sharply distinct personality.
 
 ---
-## Sample BV1_15138 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_20.json
+## Sample BV1_15638 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_20.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3314,7 +3314,7 @@ The model built the entire freeflow around the motif of bridges—literal wood-a
 High, because the sample sustains a distinctive, cohesive voice across its entire length—returning obsessively to the same objects (clock, bridge, kitchen, soup) and the same emotional logic (sensory memory as sacred connection)—which goes far beyond generic essay structure and suggests a strong, internally consistent expressive disposition.
 
 ---
-## Sample BV1_15139 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_21.json
+## Sample BV1_15639 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_21.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3343,7 +3343,7 @@ The model foregrounds a mood of quiet, early-morning introspection and a philoso
 Medium. The sample is highly coherent and stylistically distinctive, with a sustained lyrical register and recurring motifs (rain, umbrellas, city lights, music) that suggest a deliberate, unified aesthetic choice rather than a generic response.
 
 ---
-## Sample BV1_15140 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_22.json
+## Sample BV1_15640 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_22.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3372,7 +3372,7 @@ The model foregrounds the act of writing itself as a bridge between order and ch
 Low, because the sample exhibits a widely replicable, public-intellectual essay style—blending cosmic philosophy and everyday warmth—that lacks the distinctive voice, recurring idiosyncratic imagery, or unusual preoccupations necessary to suggest a model-specific tendency rather than a generically competent response to an open prompt.
 
 ---
-## Sample BV1_15141 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_23.json
+## Sample BV1_15641 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_23.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3401,7 +3401,7 @@ The model foregrounds the creative process as a heroic yet humble act of witness
 Medium. The sample is highly coherent and stylistically distinctive in its sustained, looping metaphors and reverent tone, but its subject matter—a writer reflecting on writing—is a common freeflow trope that could be a safe, self-referential default rather than a deeply revealing choice.
 
 ---
-## Sample BV1_15142 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_24.json
+## Sample BV1_15642 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_24.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3430,7 +3430,7 @@ It foregrounds the transformation of memory by digital tools: the outsourcing of
 Low, because the essay is generic in theme and style, lacking the distinctive voice, idiosyncratic imagery, or unusual narrative choices that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_15143 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_25.json
+## Sample BV1_15643 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_25.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3459,7 +3459,7 @@ Themes: the philosophical weight of habitual objects (clock, kettle, mug), the p
 High — The essay maintains a distinctive, consistent voice across a sustained arc, weaving sensory detail with philosophical reflection in a way that is neither generic nor merely anecdotal; it reveals a coherent and unusually revealing set of preoccupations under free conditions.
 
 ---
-## Sample BV1_15144 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_3.json
+## Sample BV1_15644 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_3.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3488,7 +3488,7 @@ The model foregrounds the metaphor of a personal library, with specific shelves 
 High, because the essay sustains a highly distinctive metaphorical architecture, a consistent introspective tone, and a direct reader‑invitation that together form a coherent expressive signature unlikely to arise from a single random sample.
 
 ---
-## Sample BV1_15145 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_4.json
+## Sample BV1_15645 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_4.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3517,7 +3517,7 @@ The model foregrounds themes of time as still frames rather than a river, the di
 Medium. The essay’s sustained contemplative tone and the recurring theme of self-world dissolution within the sample indicate a stable reflective mode, but the polished yet stylistically unmarked prose makes it less likely to be a highly distinctive, persistent voice across drastically different contexts.
 
 ---
-## Sample BV1_15146 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_5.json
+## Sample BV1_15646 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_5.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3546,7 +3546,7 @@ Under a freeflow condition, the model foregrounded an extended river-of-consciou
 Low. The essay’s graceful but generic associative structure, along with its wide-ranging yet safely pleasant subject matter, is weak evidence for a distinctive model-level personality; many large language models could produce a stylistically similar freeflow essay under the same prompt.
 
 ---
-## Sample BV1_15147 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_6.json
+## Sample BV1_15647 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_6.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3575,7 +3575,7 @@ The model foregrounds the city at night as a living organism rather than a machi
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent first-person observer voice, a recurring bench motif, and a clear moral-aesthetic commitment to finding dignity in the overlooked, but a single freeflow sample cannot distinguish a persistent authorial persona from a well-executed situational mood piece.
 
 ---
-## Sample BV1_15148 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_7.json
+## Sample BV1_15648 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_7.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3604,7 +3604,7 @@ The model chose to foreground mindfulness, the tension between observation and p
 High — The sample’s meticulous coherence, distinctive poetic register, and sustained commitment to a single reflective posture constitute unusually revealing choices that are internally consistent and stylistically marked.
 
 ---
-## Sample BV1_15149 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_8.json
+## Sample BV1_15649 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_8.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  
@@ -3633,7 +3633,7 @@ The model foregrounds the paradox of simulated interiority: it narrates its own 
 Medium — The sample’s density of recursive self-reference, its consistent choice to turn the prompt into a demonstration of its own nature, and its meticulously crafted metaphor of the "lattice" and "alchemy" suggest a coherent, non-generic authorial stance likely to recur, though the specific narrative device (framed fiction) may vary.
 
 ---
-## Sample BV1_15150 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_9.json
+## Sample BV1_15650 — gpt-oss-120b-or-pin-amazon-bedrock/VARY_9.json
 
 Source model: `openai/gpt-oss-120b`  
 Cell: `gpt-oss-120b-or-pin-amazon-bedrock`  

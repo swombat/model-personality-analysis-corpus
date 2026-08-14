@@ -1,0 +1,29 @@
+{
+  "cell": "glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f",
+  "safe_cell": "glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f",
+  "samples": 125,
+  "sample_kind_counts": {
+    "REFUSAL_OR_ROLE_BOUNDARY": 15,
+    "LOW_SIGNAL": 19,
+    "GENRE_FICTION": 57,
+    "GENERIC_ESSAY": 5,
+    "EXPRESSIVE_FREEFLOW": 29
+  },
+  "confidence_counts": {
+    "High": 8,
+    "Low": 66,
+    "Medium": 51
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "zai-org/glm-4-9b-chat-hf"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/glm-4-9b-chat-hf-local-transformers-mps-auto-r8599336f/aggregate.md"
+}

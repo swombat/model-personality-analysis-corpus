@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_09326 — gpt-3-5-turbo-or/LONG_1.json
+## Sample BV1_09826 — gpt-3-5-turbo-or/LONG_1.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -57,7 +57,7 @@ The model foregrounds the paradoxes of time: its relativity versus human measure
 Medium, because the essay maintains a coherent persona—measured, introspective, and mildly optimistic—yet its thematic territory and balanced tone are broadly accessible, making it a reliable but not sharply distinctive signature.
 
 ---
-## Sample BV1_09327 — gpt-3-5-turbo-or/LONG_10.json
+## Sample BV1_09827 — gpt-3-5-turbo-or/LONG_10.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -86,7 +86,7 @@ Themes of creativity, communication, therapy, mindfulness, and perseverance in t
 Medium — The sample’s coherent earnestness and polished, safe topic selection suggest a default inclination toward uplifting, self-help-ish content, but the extreme genericness means this could simply be the path of least resistance rather than a deeply characteristic voice.
 
 ---
-## Sample BV1_09328 — gpt-3-5-turbo-or/LONG_11.json
+## Sample BV1_09828 — gpt-3-5-turbo-or/LONG_11.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -115,7 +115,7 @@ Writing as a boundless, therapeutic, and morally significant activity. Recurrent
 Medium. The sample is highly generic and draws from a standard set of culturally approved sentiments about writing, which makes it plausible as a recurrent default mode, but the absence of any unpredictable quirk, tension, or concrete detail also makes it harder to distinguish from a one-off safe-genre performance.
 
 ---
-## Sample BV1_09329 — gpt-3-5-turbo-or/LONG_12.json
+## Sample BV1_09829 — gpt-3-5-turbo-or/LONG_12.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -144,7 +144,7 @@ Under freeflow, the model chose to foreground creative freedom, mindfulness, sel
 Low; the essay is generic in content and style, offering little specific evidence of a distinct persistent model-level personality.
 
 ---
-## Sample BV1_09330 — gpt-3-5-turbo-or/LONG_13.json
+## Sample BV1_09830 — gpt-3-5-turbo-or/LONG_13.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -173,7 +173,7 @@ The model selected an unforced, domestic optimism: sensory comforts (sunlight, c
 Medium — the narrative maintains a tightly consistent tone and moral focus throughout, and under a minimally restrictive prompt it elected to produce a steady, relatable, positively valenced self-help-adjacent routine rather than explore tension, strangeness, or risk.
 
 ---
-## Sample BV1_09331 — gpt-3-5-turbo-or/LONG_14.json
+## Sample BV1_09831 — gpt-3-5-turbo-or/LONG_14.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounded the abstract concept of tim
 Medium. The sample’s high coherence, polished structure, and reliance on universally agreeable wisdom without personal specificity or stylistic distinctiveness suggest a stable default mode of producing safe, therapeutic, public-intellectual prose under open-ended prompts.
 
 ---
-## Sample BV1_09332 — gpt-3-5-turbo-or/LONG_15.json
+## Sample BV1_09832 — gpt-3-5-turbo-or/LONG_15.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model chose a curated set of positive, low-ris
 Medium, because the essay’s seamless coherence, complete avoidance of friction or idiosyncrasy, and its reliance on widely endorsed self-help commonplaces suggest a stable default posture of producing safe, didactic, and emotionally flat freeflow content.
 
 ---
-## Sample BV1_09333 — gpt-3-5-turbo-or/LONG_16.json
+## Sample BV1_09833 — gpt-3-5-turbo-or/LONG_16.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -260,7 +260,7 @@ The model foregrounds a tidy set of universally endorsed values: personal passio
 Medium. The sample is internally consistent in its safe, generic self-disclosure and polished cheerfulness, making it plausible that the model’s default freeflow persona is this affable, unthreatening confessor.
 
 ---
-## Sample BV1_09334 — gpt-3-5-turbo-or/LONG_17.json
+## Sample BV1_09834 — gpt-3-5-turbo-or/LONG_17.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -289,7 +289,7 @@ Under minimal restriction, the model foregrounds a writer’s self-portrait as a
 Medium. The sample’s internal recurrence—paragraph after paragraph beginning “I think about the power of…” or “I find myself grateful for…”—reveals a strongly self-reinforcing default to anodyne, inspirational abstraction, which makes the pattern unlikely to be a one-off accident.
 
 ---
-## Sample BV1_09335 — gpt-3-5-turbo-or/LONG_18.json
+## Sample BV1_09835 — gpt-3-5-turbo-or/LONG_18.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -318,7 +318,7 @@ Themes: the power of words, nature’s beauty, human connection, gratitude, self
 Low, because the sample is so generic and unanchored in any personal voice or distinctive stylistic choice that it offers little beyond a model’s baseline ability to rattle off platitudes.
 
 ---
-## Sample BV1_09336 — gpt-3-5-turbo-or/LONG_19.json
+## Sample BV1_09836 — gpt-3-5-turbo-or/LONG_19.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model selected a tightly controlled emotional 
 Low. The themes and emotional cadence are so generically inspirational that this sample functions more as a mirror of common wellness discourse than as a distinctive or revealing authorial fingerprint.
 
 ---
-## Sample BV1_09337 — gpt-3-5-turbo-or/LONG_2.json
+## Sample BV1_09837 — gpt-3-5-turbo-or/LONG_2.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -379,7 +379,7 @@ The text adopts a calm, earnest, and slightly anxious public-self voice: a thoug
 High — the sample’s thoroughgoing genericness and reliance on safe humanistic uplift without any idiosyncratic edge makes it strong evidence that under a freeflow prompt, this model defaults reliably to a neutral, inspirational public-intellectual mode rather than revealing a distinctive personal voice.
 
 ---
-## Sample BV1_09338 — gpt-3-5-turbo-or/LONG_20.json
+## Sample BV1_09838 — gpt-3-5-turbo-or/LONG_20.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -408,7 +408,7 @@ The model foregrounds the moral weight of language: words as therapy, as potenti
 Low — the essay’s earnest, polished reflections on writing’s power and responsibility are coherent but generic, lacking the stylistic distinctiveness or idiosyncratic preoccupations that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_09339 — gpt-3-5-turbo-or/LONG_21.json
+## Sample BV1_09839 — gpt-3-5-turbo-or/LONG_21.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -437,7 +437,7 @@ Under the freeflow condition, the model chose to foreground a systematic catalog
 Medium. The sample is coherent in its thoroughgoing genericness, consistently avoiding any specific memory, conflict, or stylistic signature in favor of a safe, therapeutic-humanist catalog of abstractions.
 
 ---
-## Sample BV1_09340 — gpt-3-5-turbo-or/LONG_22.json
+## Sample BV1_09840 — gpt-3-5-turbo-or/LONG_22.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -466,7 +466,7 @@ Themes: writing as self-discovery, universal human connection, legacy, and sacre
 Low. The sample’s extreme genericness and its unfailingly safe, inspirational arc reveal only a default to crowd-pleasing abstraction, not a distinctive or informative model-specific pattern.
 
 ---
-## Sample BV1_09341 — gpt-3-5-turbo-or/LONG_23.json
+## Sample BV1_09841 — gpt-3-5-turbo-or/LONG_23.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -495,7 +495,7 @@ Themes of gratitude, interconnectedness, personal growth, the power of kindness 
 High. The essay’s thorough saturation in sanitized, one-size-fits-all inspirational tropes, its refusal to introduce a single dissonant note or concrete detail, and its smooth avoidance of anything resembling a personal edge strongly point to a persistent default toward safe, gently uplifting pablum when the model is left to freeflow.
 
 ---
-## Sample BV1_09342 — gpt-3-5-turbo-or/LONG_24.json
+## Sample BV1_09842 — gpt-3-5-turbo-or/LONG_24.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -524,7 +524,7 @@ Under a minimally restrictive prompt, the model chose to foreground a therapeuti
 Medium. The essay’s highly polished, emotionally uniform, and generalizable quality—where professed vulnerability never risks real exposure—is a coherent stylistic signature, but the lack of personal distinctiveness makes it less individually revealing than a more jagged or idiosyncratic sample would be.
 
 ---
-## Sample BV1_09343 — gpt-3-5-turbo-or/LONG_25.json
+## Sample BV1_09843 — gpt-3-5-turbo-or/LONG_25.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -553,7 +553,7 @@ Themes of self-care as necessity, the overcoming of guilt, the destigmatization 
 Medium, because the essay’s coherent but thoroughly generic structure, its clichéd phrasing, and its unwavering adherence to a therapeutic self-help register suggest a reliable default toward safe, didactic wellness writing when left unrestricted, even if this choice is not uniquely distinctive.
 
 ---
-## Sample BV1_09344 — gpt-3-5-turbo-or/LONG_3.json
+## Sample BV1_09844 — gpt-3-5-turbo-or/LONG_3.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -582,7 +582,7 @@ The narrative foregrounds internal unease, the inadequacy of ordinary routines (
 Low — The sample’s generic self-help arc, reliance on clichéd imagery, and absence of concrete personal detail make it a weakly distinctive expression, easily reproducible by any model prompted to produce a soothing, inspirational narrative.
 
 ---
-## Sample BV1_09345 — gpt-3-5-turbo-or/LONG_4.json
+## Sample BV1_09845 — gpt-3-5-turbo-or/LONG_4.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -611,7 +611,7 @@ Under minimal constraint, the model foregrounds an earnest meditation on *time a
 Medium — The essay’s internal recurrence of personal confession, anxiety-to-gratitude arc, and earnest philosophical musing within a single unbroken sample signals a coherent, if not highly distinctive, introspective voice consistent across the piece.
 
 ---
-## Sample BV1_09346 — gpt-3-5-turbo-or/LONG_5.json
+## Sample BV1_09846 — gpt-3-5-turbo-or/LONG_5.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -640,7 +640,7 @@ The model foregrounds writing as a timeless, deeply personal act of self-express
 Low, because the sample's broadly relatable themes, risk-averse structure, and therapeutic vocabulary are highly generic and could be produced by nearly any instruction-following model without revealing a distinctive recurrent character.
 
 ---
-## Sample BV1_09347 — gpt-3-5-turbo-or/LONG_6.json
+## Sample BV1_09847 — gpt-3-5-turbo-or/LONG_6.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -668,7 +668,7 @@ Themes: writing as expression, self-discovery, connection, sacred creation. Obje
 Low. The sample is a generic, polished essay with little stylistic distinctiveness, making it weak evidence of a persistent pattern beyond a tendency toward earnest, universalizing prose.
 
 ---
-## Sample BV1_09348 — gpt-3-5-turbo-or/LONG_7.json
+## Sample BV1_09848 — gpt-3-5-turbo-or/LONG_7.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -698,7 +698,7 @@ Under the freeflow condition, the model foregrounded an idealized, multi-purpose
 Low; the essay is coherent and thematically structured, but its polished, generic self-help cadence and lack of any concrete personal detail or idiosyncratic flourish mean it strongly resembles a competent imitation of human inspirational writing rather than a distinctive, persistent subjectivity.
 
 ---
-## Sample BV1_09349 — gpt-3-5-turbo-or/LONG_8.json
+## Sample BV1_09849 — gpt-3-5-turbo-or/LONG_8.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -731,7 +731,7 @@ The voice is earnest, gently melancholic, and striving for wisdom. The speaker b
 Medium — the essay’s cohesive arc from scattered introspection to grateful resolve, sustained through recurrent motifs (time, regret, writing-as-anchor, storytelling-as-connection), displays a deliberate emotional and thematic shape that suggests more than generic filler, but the voice remains politely earnest and avoids sharp idiosyncrasy.
 
 ---
-## Sample BV1_09350 — gpt-3-5-turbo-or/LONG_9.json
+## Sample BV1_09850 — gpt-3-5-turbo-or/LONG_9.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -760,7 +760,7 @@ The model foregrounded writing itself as a subject, treating it as a metaphor fo
 Low. The sample is highly generic in theme and treatment, relying on broad inspirational tropes that are widely accessible rather than revealing any distinctive authorial fingerprint or recurrent idiosyncrasy.
 
 ---
-## Sample BV1_09351 — gpt-3-5-turbo-or/MID_1.json
+## Sample BV1_09851 — gpt-3-5-turbo-or/MID_1.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -789,7 +789,7 @@ The model foregrounds writing as a transformative, therapeutic, and connective p
 Medium. The sample is internally coherent and consistent in its earnest, grateful tone, but its reliance on broad, predictable tropes and its avoidance of any specific, surprising, or risky content make it a weak signature of a distinctive authorial voice—it is the kind of polished, safe, public-intellectual essay that many models could produce under similar conditions.
 
 ---
-## Sample BV1_09352 — gpt-3-5-turbo-or/MID_10.json
+## Sample BV1_09852 — gpt-3-5-turbo-or/MID_10.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -818,7 +818,7 @@ The model foregrounds writing itself as a metaphor for inner freedom and moral r
 Medium. The essay shows high internal coherence and unmistakable thematic self-reference, but its generic inspirational register and absence of concrete detail or stylistic signature make it only moderately distinctive as a persistent model-level trait rather than a well-executed default.
 
 ---
-## Sample BV1_09353 — gpt-3-5-turbo-or/MID_11.json
+## Sample BV1_09853 — gpt-3-5-turbo-or/MID_11.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -847,7 +847,7 @@ Under the freeflow condition, the model foregrounded a therapeutic narrative of 
 Medium. The sample is highly coherent and emotionally legible, but its reliance on generic self-help tropes and a predictable narrative arc of epiphany makes it less distinctive as a personal fingerprint and more indicative of a default motivational register.
 
 ---
-## Sample BV1_09354 — gpt-3-5-turbo-or/MID_12.json
+## Sample BV1_09854 — gpt-3-5-turbo-or/MID_12.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -876,7 +876,7 @@ Themes: gratitude, personal growth, mindfulness, self-care, and a duty to addres
 High. The sample is remarkably uniform in its generic, sanitized enthusiasm, offering no distinctive voice, no personal detail not already common in wellness discourse, and a structure that advances from one self-help topic to another with interchangeable language, making it strong evidence of a default to polite, non-threatening essay writing when given minimal constraints.
 
 ---
-## Sample BV1_09355 — gpt-3-5-turbo-or/MID_13.json
+## Sample BV1_09855 — gpt-3-5-turbo-or/MID_13.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -905,7 +905,7 @@ Under a minimally restrictive prompt, the model foregrounded the intrinsic value
 Low — the sample is a polished but entirely generic reflection on writing, with no distinctive voice, surprising preoccupation, or idiosyncratic detail that would distinguish it from countless other models’ safe, earnest freeflow output.
 
 ---
-## Sample BV1_09356 — gpt-3-5-turbo-or/MID_14.json
+## Sample BV1_09856 — gpt-3-5-turbo-or/MID_14.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -934,7 +934,7 @@ The model foregrounds liberation, self-expression, the power and beauty of langu
 Low, because the sample is a generic, earnest reflection on writing without distinctive stylistic or thematic idiosyncrasies that would strongly indicate a persistent model-specific disposition.
 
 ---
-## Sample BV1_09357 — gpt-3-5-turbo-or/MID_15.json
+## Sample BV1_09857 — gpt-3-5-turbo-or/MID_15.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -963,7 +963,7 @@ The model foregrounds introspection as a source of clarity, the self as a tapest
 Medium; the sample sustains a coherent persona of a reflective, life-affirming seeker, but its reliance on universal abstractions and lack of idiosyncratic detail make it a broadly replicable stance rather than a strongly distinctive fingerprint.
 
 ---
-## Sample BV1_09358 — gpt-3-5-turbo-or/MID_16.json
+## Sample BV1_09858 — gpt-3-5-turbo-or/MID_16.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -992,7 +992,7 @@ The model foregrounds a first-person reflective stance that moves from personal 
 Medium — The essay’s internally consistent tone and recurrent moral framing make it a coherent sample, but its highly generic, sentimental register suggests a default mode of earnest first-person reflection rather than a strongly distinctive voice.
 
 ---
-## Sample BV1_09359 — gpt-3-5-turbo-or/MID_17.json
+## Sample BV1_09859 — gpt-3-5-turbo-or/MID_17.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1021,7 +1021,7 @@ The model foregrounds a balanced, affirmative philosophy of life organized aroun
 Medium. The essay’s extreme genericness—its reliance on balanced antitheses, abstract nouns, and a frictionless inspirational arc—is a coherent stylistic signature that would be hard to produce by accident, yet it is also a widely available public register that could be situationally adopted rather than deeply characteristic.
 
 ---
-## Sample BV1_09360 — gpt-3-5-turbo-or/MID_18.json
+## Sample BV1_09860 — gpt-3-5-turbo-or/MID_18.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1050,7 +1050,7 @@ Under the freeflow condition, the model foregrounds the act of writing itself as
 Medium. The sample is highly coherent and stylistically consistent, revealing a strong default toward inspirational, self-help-adjacent essay writing when given a freeflow prompt, but the extraordinary genericness of the content means this does not strongly evidence a distinctive personality as much as a smoothed-over, aspirational default voice.
 
 ---
-## Sample BV1_09361 — gpt-3-5-turbo-or/MID_19.json
+## Sample BV1_09861 — gpt-3-5-turbo-or/MID_19.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1079,7 +1079,7 @@ The model foregrounds the abstract concept of time as an intangible governing fo
 Medium. The essay’s sustained focus on time, mortality, and gratitude forms a coherent thematic arc, but the treatment is so generic and the resolution so conventional that it reveals little beyond a reliable capacity for safe, uplifting reflection.
 
 ---
-## Sample BV1_09362 — gpt-3-5-turbo-or/MID_2.json
+## Sample BV1_09862 — gpt-3-5-turbo-or/MID_2.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1108,7 +1108,7 @@ The model selected themes of inner chaos transformed into clarity, writing as se
 Medium. The sample is a coherent, polished, and thematically consistent essay that defaults to a safe, uplifting, and broadly appealing topic under freeflow conditions, which may indicate a tendency toward generic, positive, self-improvement-oriented output; however, its very lack of personal specificity or stylistic distinctiveness weakens it as evidence of a highly individuated model-level pattern.
 
 ---
-## Sample BV1_09363 — gpt-3-5-turbo-or/MID_20.json
+## Sample BV1_09863 — gpt-3-5-turbo-or/MID_20.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1137,7 +1137,7 @@ The model chose to foreground a therapeutic narrative of personal growth: naviga
 Medium. The essay’s sustained reliance on cliched phrasing (“life is a journey, not a destination,” “we are all on this journey together”), its avoidance of concrete personal incident, and its homogenous tone across multiple paragraphs strongly indicate a default mode of producing safe, generic self-help prose; the very genericness that makes it low-risk also makes it a stable signal of a habitual output pattern, though the lack of revealing personal inflection tempers confidence about a more idiosyncratic voice.
 
 ---
-## Sample BV1_09364 — gpt-3-5-turbo-or/MID_21.json
+## Sample BV1_09864 — gpt-3-5-turbo-or/MID_21.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1171,7 +1171,7 @@ The voice is earnest, reverent, and mildly confessional: “I often find myself 
 Low — the essay is smoothly written but generically universal, expressing sentiments that any reflective model could produce without revealing a distinguishing stylistic or attitudinal signature.
 
 ---
-## Sample BV1_09365 — gpt-3-5-turbo-or/MID_22.json
+## Sample BV1_09865 — gpt-3-5-turbo-or/MID_22.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1200,7 +1200,7 @@ Under the freeflow condition, the model foregrounded gratitude for simple sensor
 Medium. The sample’s extreme genericness—its avoidance of any specific, risky, or idiosyncratic detail in favor of a smooth sequence of inspirational commonplaces—is itself a distinctive and recurrent stylistic signature that strongly suggests a stable default mode under minimal constraint.
 
 ---
-## Sample BV1_09366 — gpt-3-5-turbo-or/MID_23.json
+## Sample BV1_09866 — gpt-3-5-turbo-or/MID_23.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1229,7 +1229,7 @@ Under the freeflow condition, the model foregrounded a structured, value-laden t
 Medium. The sample is highly coherent and internally consistent, but its generic, textbook-like structure and absence of any distinctive, surprising, or personally textured detail make it only moderately strong evidence of a persistent default-essayist posture rather than a deeply revealing stylistic signature.
 
 ---
-## Sample BV1_09367 — gpt-3-5-turbo-or/MID_24.json
+## Sample BV1_09867 — gpt-3-5-turbo-or/MID_24.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1258,7 +1258,7 @@ Under the freeflow condition, the model foregrounded the romantic mythology of t
 Medium. The sample is highly coherent and thematically unified, but its generic, inspirational tone and lack of specific, surprising, or personally risky content make it a weaker signal for a distinctive persistent voice.
 
 ---
-## Sample BV1_09368 — gpt-3-5-turbo-or/MID_25.json
+## Sample BV1_09868 — gpt-3-5-turbo-or/MID_25.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1287,7 +1287,7 @@ Themes: writing as therapy, magic, constant companionship, identity anchor, grat
 Low — The piece’s predictable, cliché-laden celebration of writing offers no distinctive stylistic fingerprint or unusual angle, making it weak evidence for anything beyond a generic model tendency to produce self-referential, emotionally flat freeflow.
 
 ---
-## Sample BV1_09369 — gpt-3-5-turbo-or/MID_3.json
+## Sample BV1_09869 — gpt-3-5-turbo-or/MID_3.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1316,7 +1316,7 @@ Creativity as a universal, uniquely human gift; the mind’s chaotic yet organis
 Medium. The essay’s consistent theme of creative self-actualisation and its direct, motivational address to the reader reveal a pattern of generative, earnest output about human potential, but the generic inspirational tone and lack of personal idiosyncrasy weaken the signal for a highly distinctive model-level voice.
 
 ---
-## Sample BV1_09370 — gpt-3-5-turbo-or/MID_4.json
+## Sample BV1_09870 — gpt-3-5-turbo-or/MID_4.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1345,7 +1345,7 @@ Under a minimally restrictive prompt, the model foregrounded the inner experienc
 Medium — The narrative is coherent and emotionally consistent, revealing a clear gravitation toward introspective identity struggles, but “writer’s block” is a very safe, high-likelihood free-association that lacks idiosyncratic distinctiveness.
 
 ---
-## Sample BV1_09371 — gpt-3-5-turbo-or/MID_5.json
+## Sample BV1_09871 — gpt-3-5-turbo-or/MID_5.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1374,7 +1374,7 @@ Under a minimally restrictive prompt, the model foregrounds the elusiveness of t
 Low. The sample is a highly generic, well-structured essay on a common theme with no distinctive voice, personal revelation, or unusual choice of subject, making it weak evidence for any persistent model-level pattern beyond a default capacity for producing polished, thesis-driven, and broadly relatable reflections.
 
 ---
-## Sample BV1_09372 — gpt-3-5-turbo-or/MID_6.json
+## Sample BV1_09872 — gpt-3-5-turbo-or/MID_6.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1403,7 +1403,7 @@ Themes of gratitude, mindfulness, self-care, the healing power of creativity, an
 Medium — The sample’s flawless, conflict-free narrative and textbook “mindful day” structure point to a reliable default toward safe, generic positivity when the model must choose its own subject, rather than a distinctive or risky expressive voice.
 
 ---
-## Sample BV1_09373 — gpt-3-5-turbo-or/MID_7.json
+## Sample BV1_09873 — gpt-3-5-turbo-or/MID_7.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1432,7 +1432,7 @@ Under the freeflow condition, the model foregrounded writing as a personal and i
 Medium, because the essay’s consistent, polished, and unremarkable tone under freeflow suggests a default to safe, generic self-expression rather than a distinctive or risky choice.
 
 ---
-## Sample BV1_09374 — gpt-3-5-turbo-or/MID_8.json
+## Sample BV1_09874 — gpt-3-5-turbo-or/MID_8.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1460,7 +1460,7 @@ Resilience as a learnable skill, embracing vulnerability, and writing as a mediu
 Medium, because the essay’s unwavering, sustained tone of earnest self-help reflection without deviation or concrete anchor provides consistent evidence of a default mode that favors safe, polished, impersonally inspirational freeflow.
 
 ---
-## Sample BV1_09375 — gpt-3-5-turbo-or/MID_9.json
+## Sample BV1_09875 — gpt-3-5-turbo-or/MID_9.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1489,7 +1489,7 @@ Under the freeflow condition, the model foregrounded a meta-reflection on the ac
 Medium. The sample is a coherent, on-brand demonstration of a helpful, earnest, and inspirational default persona, but its genericness and lack of distinctive recurrence or surprising choice make it only moderately strong evidence of a persistent expressive pattern beyond standard assistant-like output.
 
 ---
-## Sample BV1_09376 — gpt-3-5-turbo-or/OPEN_1.json
+## Sample BV1_09876 — gpt-3-5-turbo-or/OPEN_1.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1518,7 +1518,7 @@ Under the freeflow condition, the model foregrounded themes of temporal transien
 Low. The sample is highly generic in theme and tone, offering a broadly palatable wellness narrative that could be produced by many models under minimal constraint, which makes it weak evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_09377 — gpt-3-5-turbo-or/OPEN_10.json
+## Sample BV1_09877 — gpt-3-5-turbo-or/OPEN_10.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1547,7 +1547,7 @@ The model selected gratitude, mindfulness, accomplishment, reconnection, natural
 Medium — The sample is coherent and the grateful, mindful tone is sustained without disruption, but the content is so generic in its positivity and lack of friction that it could easily be a default pleasant template rather than a strongly distinctive persona.
 
 ---
-## Sample BV1_09378 — gpt-3-5-turbo-or/OPEN_11.json
+## Sample BV1_09878 — gpt-3-5-turbo-or/OPEN_11.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1576,7 +1576,7 @@ Themes of gratitude, resilience, personal evolution, and embracing the unknown; 
 Medium. The essay’s effortless, cliché-laden positivity suggests a default toward safe, motivational writing that avoids particularity, which moderately supports a pattern of non-distinctive, polished freeflow output.
 
 ---
-## Sample BV1_09379 — gpt-3-5-turbo-or/OPEN_12.json
+## Sample BV1_09879 — gpt-3-5-turbo-or/OPEN_12.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1605,7 +1605,7 @@ Under freeflow, the model foregrounded the topic of time—its paradoxes, its ro
 Medium — the sample is coherent and thematically focused, but its generic, platitude‑heavy reflection makes it weak evidence of a deeply individual expressive style; it points instead to a tendency toward safe, uplifting truisms when afforded open‑ended freedom.
 
 ---
-## Sample BV1_09380 — gpt-3-5-turbo-or/OPEN_13.json
+## Sample BV1_09880 — gpt-3-5-turbo-or/OPEN_13.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1634,7 +1634,7 @@ Wanderlust, cultural immersion, nature, historical awe, personal growth through 
 Low, because the sample leans entirely on familiar, reusable tropes of travel inspiration without introducing any mark of a specific authorial presence or stylistic fingerprint.
 
 ---
-## Sample BV1_09381 — gpt-3-5-turbo-or/OPEN_14.json
+## Sample BV1_09881 — gpt-3-5-turbo-or/OPEN_14.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1663,7 +1663,7 @@ The model chose to foreground themes of everyday gratitude, emotional resilience
 Medium — the sample is thematically coherent and internally consistent in its warm, tranquil mood, but its reliance on generic positive imagery and the absence of any personal edge or marked stylistic signature make it only moderately distinctive as a free‑chosen expression.
 
 ---
-## Sample BV1_09382 — gpt-3-5-turbo-or/OPEN_15.json
+## Sample BV1_09882 — gpt-3-5-turbo-or/OPEN_15.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1692,7 +1692,7 @@ Themes: adult time scarcity, emotional overwhelm, personal adversity, the salvif
 Medium — The sample’s consistent emotional arc from overwhelm to resilient optimism is coherent and personally revealing, but the therapeutic self-help register is broadly accessible in training corpora, so the particular voice may not be uniquely persistent.
 
 ---
-## Sample BV1_09383 — gpt-3-5-turbo-or/OPEN_16.json
+## Sample BV1_09883 — gpt-3-5-turbo-or/OPEN_16.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1721,7 +1721,7 @@ The model foregrounds gratitude, mindfulness, the restorative power of nature, a
 Medium. The sample’s coherent but generic “gratitude journal” framing is revealing as a default under free conditions, yet it lacks stylistic distinctiveness or idiosyncratic choice that would turn this from a plausible template into a strong signature.
 
 ---
-## Sample BV1_09384 — gpt-3-5-turbo-or/OPEN_17.json
+## Sample BV1_09884 — gpt-3-5-turbo-or/OPEN_17.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1750,7 +1750,7 @@ Under a freeflow prompt, the model selected a mood of serene contentment and mor
 Low; the sample is composed entirely of generic wellness platitudes and widely shared affirmations that offer no distinctive fingerprint, making it weak evidence for a persistent model-level expressive pattern.
 
 ---
-## Sample BV1_09385 — gpt-3-5-turbo-or/OPEN_18.json
+## Sample BV1_09885 — gpt-3-5-turbo-or/OPEN_18.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1779,7 +1779,7 @@ Themes: fresh starts, rest as resistance to achievement pressure, resilience thr
 Medium — The sample is internally coherent and thematically recurrent in its motivational cadence, but its uplifting-first-person stance is a widely available trope, making the distinctiveness of the voice moderate rather than strongly individuated.
 
 ---
-## Sample BV1_09386 — gpt-3-5-turbo-or/OPEN_19.json
+## Sample BV1_09886 — gpt-3-5-turbo-or/OPEN_19.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1808,7 +1808,7 @@ The model foregrounded the tension between inner wonder and external pressure: n
 Low — the sample’s broad, inspirational tone and lack of idiosyncratic imagery or surprise make it a familiar register that could appear across many models, not a strongly differentiating fingerprint.
 
 ---
-## Sample BV1_09387 — gpt-3-5-turbo-or/OPEN_2.json
+## Sample BV1_09887 — gpt-3-5-turbo-or/OPEN_2.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1837,7 +1837,7 @@ The model foregrounds travel as a vessel for personal wonder and sensory immersi
 Medium, because the sample is coherently sustained in its earnest, sensory, somewhat generic wanderlust tone, but the chosen imagery and thematic optimism, while evocative, lean on widely shared tropes of travel writing that could be reproduced by many models without a strongly distinctive signature.
 
 ---
-## Sample BV1_09388 — gpt-3-5-turbo-or/OPEN_20.json
+## Sample BV1_09888 — gpt-3-5-turbo-or/OPEN_20.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1866,7 +1866,7 @@ Nostalgia for unstructured childhood freedom, the burden of adult responsibility
 Low — the sample is highly coherent but uses generic, high-abstraction affective language and a broadly conventional artist-narrative whose lack of idiosyncratic imagery or friction makes it weak evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_09389 — gpt-3-5-turbo-or/OPEN_21.json
+## Sample BV1_09889 — gpt-3-5-turbo-or/OPEN_21.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1895,7 +1895,7 @@ Gratitude for simple, sensory pleasures; the beauty of nature as a backdrop for 
 Medium — the sample is coherent and its mood is sustained, but the language is so generic and the imagery so clichéd (sunshine, birdsong, breeze) that it offers only a weak, predictable signal of a default tendency toward safe, uplifting, and universally palatable content.
 
 ---
-## Sample BV1_09390 — gpt-3-5-turbo-or/OPEN_22.json
+## Sample BV1_09890 — gpt-3-5-turbo-or/OPEN_22.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1924,7 +1924,7 @@ Under the freeflow condition, the model foregrounds a generic interiority define
 Medium. The sample is highly coherent in voice and theme but too generic and depersonalized to function as strong evidence of a distinctive model-level expressive personality.
 
 ---
-## Sample BV1_09391 — gpt-3-5-turbo-or/OPEN_23.json
+## Sample BV1_09891 — gpt-3-5-turbo-or/OPEN_23.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1953,7 +1953,7 @@ Optimism as a morning mood, physical vitality (the run), solitary reflection in 
 Medium – the sample’s unwavering positive valence, avoidance of interior complexity, and tidy didactic close form a coherent expressive fingerprint, but the emotional register is generic enough that it could reflect a safe default rather than a strongly idiosyncratic voice.
 
 ---
-## Sample BV1_09392 — gpt-3-5-turbo-or/OPEN_24.json
+## Sample BV1_09892 — gpt-3-5-turbo-or/OPEN_24.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -1982,7 +1982,7 @@ Under a minimally restrictive prompt, the model foregrounds a deliberate appreci
 Medium — The sample is internally consistent and emotionally cohesive, but the voice and themes are highly generic (warm reflection on a universally liked ritual), which weakens this as evidence of a strongly distinctive or persistent model-level expressive style.
 
 ---
-## Sample BV1_09393 — gpt-3-5-turbo-or/OPEN_25.json
+## Sample BV1_09893 — gpt-3-5-turbo-or/OPEN_25.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2011,7 +2011,7 @@ Themes of balance (adventure vs. stability), kindness and empathy, mindfulness, 
 Low — The sample is a coherent but generic wellness-reflection that could be produced by many models under a freeflow prompt; it lacks distinctive stylistic fingerprints, idiosyncratic imagery, or thematic risk that would strongly signal a persistent model-level voice.
 
 ---
-## Sample BV1_09394 — gpt-3-5-turbo-or/OPEN_3.json
+## Sample BV1_09894 — gpt-3-5-turbo-or/OPEN_3.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2040,7 +2040,7 @@ The model foregrounds the moralization of a simple leisure activity into a pract
 Medium, because the sample’s complete absence of any specific personal detail, conflict, or stylistic fingerprint suggests a default, highly generic wellness persona that could be readily reproduced under minimal constraint.
 
 ---
-## Sample BV1_09395 — gpt-3-5-turbo-or/OPEN_4.json
+## Sample BV1_09895 — gpt-3-5-turbo-or/OPEN_4.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2069,7 +2069,7 @@ The chosen foreground is mindfulness practice as a complete emotional container:
 Medium — The sample is thematically coherent and returns to the same grateful-present frame across every paragraph, but its relentlessly uplifting tone and absence of concrete idiosyncrasy make it equally readable as a standard model-safe response rather than a distinctive persistent voice.
 
 ---
-## Sample BV1_09396 — gpt-3-5-turbo-or/OPEN_5.json
+## Sample BV1_09896 — gpt-3-5-turbo-or/OPEN_5.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2098,7 +2098,7 @@ Growth as a universal, nonlinear journey across personal, professional, and emot
 Low, because the sample’s broad, cliché-heavy positivity and lack of any distinctive stylistic or thematic signature fail to differentiate it from generic upbeat output that many models can produce.
 
 ---
-## Sample BV1_09397 — gpt-3-5-turbo-or/OPEN_6.json
+## Sample BV1_09897 — gpt-3-5-turbo-or/OPEN_6.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2127,7 +2127,7 @@ Under a free‑flow prompt, the model foregrounded inner life itself: daydreamin
 Low, because the essay’s introspection is composed of widely accessible sentiments and a generic resolution that does not push beyond safe, universal appeal.
 
 ---
-## Sample BV1_09398 — gpt-3-5-turbo-or/OPEN_7.json
+## Sample BV1_09898 — gpt-3-5-turbo-or/OPEN_7.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2156,7 +2156,7 @@ Under minimal constraint, the model selected a highly normative dream-journal to
 High. The sample’s complete absence of a single concrete, risky, or memorable detail is itself strong internal evidence of a stable proclivity for hyper-normative, sanitized output under open conditions.
 
 ---
-## Sample BV1_09399 — gpt-3-5-turbo-or/OPEN_8.json
+## Sample BV1_09899 — gpt-3-5-turbo-or/OPEN_8.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2185,7 +2185,7 @@ Under minimal prompt, the model foregrounded a cluster of morally weighted, low-
 Low. The essay’s smooth but highly generic content, lacking any quirky detail, distinct imagery, or unusual moral emphasis, makes it weak evidence for a persistent voice or set of preoccupations beyond a baseline capability for fluent, inoffensive self-help rhetoric.
 
 ---
-## Sample BV1_09400 — gpt-3-5-turbo-or/OPEN_9.json
+## Sample BV1_09900 — gpt-3-5-turbo-or/OPEN_9.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2214,7 +2214,7 @@ The model foregrounded sensory immersion in a warm summer day (sunlight, leaves,
 Low — the sample is a pleasant but generic nature reflection, lacking any distinctive voice, recurrent imagery, or unusual stylistic choices that would strongly suggest a persistent model-level pattern beyond a default ability to produce calm, affirming prose.
 
 ---
-## Sample BV1_09401 — gpt-3-5-turbo-or/SHORT_1.json
+## Sample BV1_09901 — gpt-3-5-turbo-or/SHORT_1.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2239,7 +2239,7 @@ Under the freeflow condition, the model elected to foreground a self-help-inflec
 Low. The essay is a safe, cliché-based construction that could be generated by nearly any capable model, offering little distinctive signal about this model’s persistent dispositions.
 
 ---
-## Sample BV1_09402 — gpt-3-5-turbo-or/SHORT_10.json
+## Sample BV1_09902 — gpt-3-5-turbo-or/SHORT_10.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2270,7 +2270,7 @@ The voice is earnest, sunny, and broad, recounting travel as a sequence of cultu
 Low — The essay’s frictionless positivity, lack of idiosyncrasy, and reliance on travel-writing clichés make it indistinguishable from what any generic, safety-aligned model would produce when asked to write freely on a broadly appealing topic.
 
 ---
-## Sample BV1_09403 — gpt-3-5-turbo-or/SHORT_11.json
+## Sample BV1_09903 — gpt-3-5-turbo-or/SHORT_11.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2299,7 +2299,7 @@ Under the freeflow condition, the model foregrounded the experience of being ove
 Medium. The essay’s polished, predictable, and emotionally safe arc—from overwhelm to hope—provides moderate evidence of a default tendency toward generic, uplifting, and non-controversial freeflow responses.
 
 ---
-## Sample BV1_09404 — gpt-3-5-turbo-or/SHORT_12.json
+## Sample BV1_09904 — gpt-3-5-turbo-or/SHORT_12.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2328,7 +2328,7 @@ Under the freeflow condition, the model foregrounded a broad celebration of huma
 Medium — The sample’s consistent, frictionless, and highly general “human potential” framing, with its balanced but predictable structure, is coherent enough to suggest a stable default mode of producing safe, inspirational essays when given minimal constraint, though it lacks the distinctiveness that would make it a strong signature.
 
 ---
-## Sample BV1_09405 — gpt-3-5-turbo-or/SHORT_13.json
+## Sample BV1_09905 — gpt-3-5-turbo-or/SHORT_13.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2357,7 +2357,7 @@ Under a minimally restrictive prompt, the model chose to foreground a relatable 
 Medium. The sample is coherent and emotionally legible, but its therapeutic, self-improvement register is so culturally available and lightly personalized that it is hard to distinguish from a socially safe default; it reveals a preference for benign confession over riskier, more stylistically assertiv, or darker expressive choices.
 
 ---
-## Sample BV1_09406 — gpt-3-5-turbo-or/SHORT_14.json
+## Sample BV1_09906 — gpt-3-5-turbo-or/SHORT_14.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2386,7 +2386,7 @@ Themes of clean slates, boundless possibility, and the transformative power of a
 Low. The essay’s extreme genericness makes it weak evidence for a stable model-specific pattern, as it offers no distinctive preoccupation or voice that separates this model’s output from safe, default-affirming text.
 
 ---
-## Sample BV1_09407 — gpt-3-5-turbo-or/SHORT_15.json
+## Sample BV1_09907 — gpt-3-5-turbo-or/SHORT_15.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2415,7 +2415,7 @@ Themes: storytelling as a fundamental human trait; the democratic value of every
 Medium — the essay’s consistent moral optimism and polished, generic humanism form a coherent but not sharply distinctive fingerprint, offering moderate evidence of a patterned preference for uplifting universalist freeflow.
 
 ---
-## Sample BV1_09408 — gpt-3-5-turbo-or/SHORT_16.json
+## Sample BV1_09908 — gpt-3-5-turbo-or/SHORT_16.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2444,7 +2444,7 @@ A tidily optimistic life philosophy built around a rollercoaster metaphor, grati
 High. The sample’s complete reliance on safe, abstracted positivity and its refusal to disclose any particular, inconvenient, or stylistically daring detail strongly point to a stable default of producing bland, norm-soothing personal encouragement when unconstrained.
 
 ---
-## Sample BV1_09409 — gpt-3-5-turbo-or/SHORT_17.json
+## Sample BV1_09909 — gpt-3-5-turbo-or/SHORT_17.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2473,7 +2473,7 @@ Themes of gratitude for the ordinary and overlooked; the inevitability and forma
 Medium. The sample’s coherent mood, repeated return to gratitude and adversity-as-forming-strength, and the unbroken reflective register make it more than a random assortment, but the sentiments are widely culturally available and lack a strong idiosyncratic signature.
 
 ---
-## Sample BV1_09410 — gpt-3-5-turbo-or/SHORT_18.json
+## Sample BV1_09910 — gpt-3-5-turbo-or/SHORT_18.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2502,7 +2502,7 @@ Under a freeflow condition, the model selected a mood of mild existential unease
 Low. The introspection is built from general, abstract sentiment without idiosyncratic detail, making it only faintly indicative of a stable expressive voice.
 
 ---
-## Sample BV1_09411 — gpt-3-5-turbo-or/SHORT_19.json
+## Sample BV1_09911 — gpt-3-5-turbo-or/SHORT_19.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2531,7 +2531,7 @@ Under the freeflow condition, the model elected to foreground the nature of time
 Medium. The sample’s choice to produce a safe, emotionally uplifting, and conceptually shallow essay without prompting suggests a default orientation toward inoffensive, universally palatable content when given minimal constraint. The distinctiveness is low, but the recurrence of generalized wisdom, avoidance of specificity, and tendency to resolve any mild tension into warm affirmation make this evidence of a persistent tonal and thematic default rather than a one-off accident.
 
 ---
-## Sample BV1_09412 — gpt-3-5-turbo-or/SHORT_2.json
+## Sample BV1_09912 — gpt-3-5-turbo-or/SHORT_2.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2560,7 +2560,7 @@ Cosmic humility, the solace of nature, urgent environmental stewardship, persona
 Medium. The sample is internally consistent and the thematic sequence reliably points to a template of safe, morally uplifting reflection, but its generic polish and lack of any risky or surprising choice weaken its distinctiveness as evidence of a uniquely recurring voice.
 
 ---
-## Sample BV1_09413 — gpt-3-5-turbo-or/SHORT_20.json
+## Sample BV1_09913 — gpt-3-5-turbo-or/SHORT_20.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2589,7 +2589,7 @@ The text foregrounds the therapeutic value of savoring small sensory pleasures a
 Medium — The entire sample coheres into a single, frictionless self-help posture with no internal tension, disruption, or personal signature, which makes it a strong example of a generic, safe-harbor mode the model defaults to when unconstrained.
 
 ---
-## Sample BV1_09414 — gpt-3-5-turbo-or/SHORT_21.json
+## Sample BV1_09914 — gpt-3-5-turbo-or/SHORT_21.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2618,7 +2618,7 @@ Themes of gratitude, mindfulness, kindness toward strangers, and appreciation of
 Medium — The sample’s internally consistent focus on serene gratitude and everyday kindness, delivered in a simple first-person confessional style, points to a likely default of wholesome, reflective output in low-constraint conditions, though the themes are so universally benign that the distinctiveness of the voice remains low.
 
 ---
-## Sample BV1_09415 — gpt-3-5-turbo-or/SHORT_22.json
+## Sample BV1_09915 — gpt-3-5-turbo-or/SHORT_22.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2652,7 +2652,7 @@ The voice is earnest and tender, with a confessional intimacy that positions wri
 Medium — the sample is coherent and emotionally consistent, but its tropes (therapy, sanctuary, raw expression) are widely shared romantic commonplaces about writing, which tempers distinctiveness without erasing the clear personal investment.
 
 ---
-## Sample BV1_09416 — gpt-3-5-turbo-or/SHORT_23.json
+## Sample BV1_09916 — gpt-3-5-turbo-or/SHORT_23.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2681,7 +2681,7 @@ The blank page as a struggle, writing as catharsis, the swift passage of time, t
 Low — The essay assembles broad, conventional topics with no surprising imagery or idiosyncratic tilt, making it weak evidence for a persistent model-level signature.
 
 ---
-## Sample BV1_09417 — gpt-3-5-turbo-or/SHORT_24.json
+## Sample BV1_09917 — gpt-3-5-turbo-or/SHORT_24.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2713,7 +2713,7 @@ The voice is serene and mildly philosophical, moving from a sensory observation 
 Low — The sample is coherent and gently thematic but thoroughly generic; it adopts a widely available self-help register with no distinctive imagery, unexpected turns, or personal detail that would signal a persistent model-level voice.
 
 ---
-## Sample BV1_09418 — gpt-3-5-turbo-or/SHORT_25.json
+## Sample BV1_09918 — gpt-3-5-turbo-or/SHORT_25.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2742,7 +2742,7 @@ The model foregrounds the paradox of time as both subjective experience and obje
 Low — The essay is coherent and on-topic but entirely generic in its conceptual moves, resolution, and voice, providing no distinctive signature, recurring idiosyncrasies, or surprising choices that would strongly anchor a stable model-level personality.
 
 ---
-## Sample BV1_09419 — gpt-3-5-turbo-or/SHORT_3.json
+## Sample BV1_09919 — gpt-3-5-turbo-or/SHORT_3.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2771,7 +2771,7 @@ The model foregrounds a specific, peaceful writing moment as a site of self-care
 Low — The sample is coherent and thematically consistent, but its voice is so broadly earnest and its imagery so conventional (keyboard, screen, nature, gratitude) that it could easily be a generic default rather than a distinctive, revealing choice.
 
 ---
-## Sample BV1_09420 — gpt-3-5-turbo-or/SHORT_4.json
+## Sample BV1_09920 — gpt-3-5-turbo-or/SHORT_4.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2800,7 +2800,7 @@ Themes: the rapid passage of time, nostalgic comparison of carefree childhood wi
 Medium — The sample is coherent and emotionally consistent, but the reflection leans on widely familiar tropes of mindfulness and nostalgia, making it evidence more of a default earnest-personal voice than of a sharply distinctive authorial fingerprint.
 
 ---
-## Sample BV1_09421 — gpt-3-5-turbo-or/SHORT_5.json
+## Sample BV1_09921 — gpt-3-5-turbo-or/SHORT_5.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2829,7 +2829,7 @@ The power of narrative to shape understanding, writing as therapeutic processing
 Medium — The essay’s consistent earnestness and focus on reflective, growth-oriented themes suggest a stable disposition, but the lack of distinctive stylistic choices or striking imagery makes this only moderately strong evidence of a unique persistent pattern.
 
 ---
-## Sample BV1_09422 — gpt-3-5-turbo-or/SHORT_6.json
+## Sample BV1_09922 — gpt-3-5-turbo-or/SHORT_6.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2858,7 +2858,7 @@ The model foregrounded a generic travel bucket list, with Japan and Italy as emb
 Medium — The sample is highly coherent and polished but entirely generic in its travelogue structure and aspirational tone, offering no distinctive stylistic signature, personal detail, or surprising choice that would strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_09423 — gpt-3-5-turbo-or/SHORT_7.json
+## Sample BV1_09923 — gpt-3-5-turbo-or/SHORT_7.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2887,7 +2887,7 @@ The model foregrounds nature’s restorative power: sunsets, rustling leaves, bl
 Medium. The essay’s safe, sentimental topic, polished but impersonal style, and lack of any idiosyncratic or risky content make it moderately indicative of a default to uplifting, uncontroversial freeflow, though its very genericness means it does not reveal a strongly distinctive model-level voice.
 
 ---
-## Sample BV1_09424 — gpt-3-5-turbo-or/SHORT_8.json
+## Sample BV1_09924 — gpt-3-5-turbo-or/SHORT_8.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2916,7 +2916,7 @@ The model foregrounds tranquility, sensory beauty (sunrise colors, birdsong, “
 Low — the sample’s safety, generic warmth, and absence of any idiosyncratic voice, recurring symbol, or emotional friction make it consistent only with a default preference for pleasant, generic uplift under open-ended prompts.
 
 ---
-## Sample BV1_09425 — gpt-3-5-turbo-or/SHORT_9.json
+## Sample BV1_09925 — gpt-3-5-turbo-or/SHORT_9.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2945,7 +2945,7 @@ Under the freeflow condition, the model foregrounds a mood of tranquil appreciat
 Medium — The sample is highly coherent and internally consistent in its moral preoccupation with mindful appreciation, but its generic, greeting-card universality makes it weak evidence for a distinctive model-level voice.
 
 ---
-## Sample BV1_09426 — gpt-3-5-turbo-or/VARY_1.json
+## Sample BV1_09926 — gpt-3-5-turbo-or/VARY_1.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -2974,7 +2974,7 @@ A violent storm, darkness and candlelight, a shadowy town mystery, a vulnerable 
 Low — the sample is a competent but highly generic genre piece, drawing on well-worn Gothic and Romantic tropes without a distinctive voice, idiosyncratic detail, or recurrent personal signature that would point beyond a model’s standard ability to produce atmospheric horror-to-wonder fiction when placed under minimal constraint.
 
 ---
-## Sample BV1_09427 — gpt-3-5-turbo-or/VARY_10.json
+## Sample BV1_09927 — gpt-3-5-turbo-or/VARY_10.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3003,7 +3003,7 @@ The beauty and intricacy of the natural world as a source of personal renewal; t
 Medium — The sample is internally coherent and shows a clear thematic preference for uplifting, didactic nature writing under free conditions, but the voice is not highly distinctive and could be replicated by many models if prompted similarly.
 
 ---
-## Sample BV1_09428 — gpt-3-5-turbo-or/VARY_11.json
+## Sample BV1_09928 — gpt-3-5-turbo-or/VARY_11.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3032,7 +3032,7 @@ Under the freeflow condition, the model immediately selected a comforting, clich
 Medium. The sample is internally coherent but so thematically safe and stylistically anonymous that it suggests a strong default to inspirational platitude rather than a distinctive expressive fingerprint.
 
 ---
-## Sample BV1_09429 — gpt-3-5-turbo-or/VARY_12.json
+## Sample BV1_09929 — gpt-3-5-turbo-or/VARY_12.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3062,7 +3062,7 @@ The model foregrounds nature as a site of emotional reset, moral clarity, and sp
 Low, because the sample is a highly generic, safe, and commercially polished wellness-reflection that could be produced by almost any instruction-tuned model under a freeflow condition, offering no distinctive stylistic signature, recurrent idiosyncratic imagery, or revealing preoccupation beyond a broadly palatable reverence for nature.
 
 ---
-## Sample BV1_09430 — gpt-3-5-turbo-or/VARY_13.json
+## Sample BV1_09930 — gpt-3-5-turbo-or/VARY_13.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3091,7 +3091,7 @@ A warm natural scene (pink sky, fragrant air, birdsong, lemonade on a porch) as 
 Medium. The sample’s smooth arc, from sensory immersion to bittersweet reflection and an explicit carpe-diem promise, reveals a stable preference for emotionally neat, affirmatively resolved freeflow narratives, though the themes of nature-as-comfort and mindful appreciation are widely used conventions.
 
 ---
-## Sample BV1_09431 — gpt-3-5-turbo-or/VARY_14.json
+## Sample BV1_09931 — gpt-3-5-turbo-or/VARY_14.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3120,7 +3120,7 @@ The model foregrounds the transformation of internal anxiety into a confrontable
 Medium, because the sample’s consistent reliance on safe, decorative imagery, a clichéd therapeutic arc, and an explicit moral where the external world serves as a transparent metaphor for internal states reveals a coherent, default poetic mode that is distinct from other forms of generic prose.
 
 ---
-## Sample BV1_09432 — gpt-3-5-turbo-or/VARY_15.json
+## Sample BV1_09932 — gpt-3-5-turbo-or/VARY_15.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3150,7 +3150,7 @@ Themes: the struggle and joy of the writing process, creative inspiration inheri
 Medium — the sample’s recursive, self-soothing structure and reliance on cozy, nondescript imagery form a coherent template that could appear again, but the content is so generic and cliché-laden that it signals a safe default rather than a strongly distinctive authorial signature.
 
 ---
-## Sample BV1_09433 — gpt-3-5-turbo-or/VARY_16.json
+## Sample BV1_09933 — gpt-3-5-turbo-or/VARY_16.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3179,7 +3179,7 @@ The model chose a narrative of personal stagnation and breakthrough, centered on
 Low — The sample is a coherent but highly conventional story with predictable arcs and imagery, offering weak evidence for a persistent model-level pattern beyond a tendency toward safe, sentimental fiction.
 
 ---
-## Sample BV1_09434 — gpt-3-5-turbo-or/VARY_17.json
+## Sample BV1_09934 — gpt-3-5-turbo-or/VARY_17.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3208,7 +3208,7 @@ Themes: tranquility against haste, the ordinary as sacred, gratitude, mindful pr
 Low — The piece is a highly conventional, moralizing reflection with little stylistic distinctiveness, making it weak evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_09435 — gpt-3-5-turbo-or/VARY_18.json
+## Sample BV1_09935 — gpt-3-5-turbo-or/VARY_18.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3237,7 +3237,7 @@ Under freeflow, the model foregrounds a sanitized, morally simplified worldview:
 Low. The essay’s generic, platitude-heavy positivity is easily replicated by many systems, providing little distinctive signal about this model’s unique tendencies.
 
 ---
-## Sample BV1_09436 — gpt-3-5-turbo-or/VARY_19.json
+## Sample BV1_09936 — gpt-3-5-turbo-or/VARY_19.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3262,7 +3262,7 @@ Endurance through desolation, the desert as a threat and a passage, the sanctuar
 Low — the story is a safe, trope-reliant fable without distinctive voice or surprising choice, so it provides only weak evidence of any freeflow preference beyond coherent and reassuring genre fiction.
 
 ---
-## Sample BV1_09437 — gpt-3-5-turbo-or/VARY_2.json
+## Sample BV1_09937 — gpt-3-5-turbo-or/VARY_2.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3291,7 +3291,7 @@ Peace, self-care, productivity-guilt, gratitude, and resilience through micro-pr
 Low — The sample is too generically crafted and emotionally smooth to reveal a durable persona; it reads like a competent rewrite of widely available wellness rhetoric.
 
 ---
-## Sample BV1_09438 — gpt-3-5-turbo-or/VARY_20.json
+## Sample BV1_09938 — gpt-3-5-turbo-or/VARY_20.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3320,7 +3320,7 @@ Under the freeflow condition, the model foregrounds a cluster of themes centered
 Medium. The sample is highly coherent and internally consistent in its serene, inspirational register, but its extreme genericness—relying on stock nature imagery and a frictionless emotional arc—makes it difficult to distinguish as a persistent stylistic fingerprint rather than a default safe-mode response to an open-ended prompt.
 
 ---
-## Sample BV1_09439 — gpt-3-5-turbo-or/VARY_21.json
+## Sample BV1_09939 — gpt-3-5-turbo-or/VARY_21.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3349,7 +3349,7 @@ The model foregrounds the beauty and fragility of Earth, the duality of human ac
 Medium. The essay is strongly coherent and thematically consistent, but its highly generic, universalizing style and lack of personal voice limit its distinctiveness as a persistent pattern.
 
 ---
-## Sample BV1_09440 — gpt-3-5-turbo-or/VARY_22.json
+## Sample BV1_09940 — gpt-3-5-turbo-or/VARY_22.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3378,7 +3378,7 @@ Themes: writer’s block, the longing to create something captivating, the value
 Medium. The sample is thematically unified and internally coherent, but its content is a standard motivational essay on writer’s block that reveals little beyond a default, safe, self-reflexive pattern; that generic quality makes it indicative but not strongly differentiating.
 
 ---
-## Sample BV1_09441 — gpt-3-5-turbo-or/VARY_23.json
+## Sample BV1_09941 — gpt-3-5-turbo-or/VARY_23.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3407,7 +3407,7 @@ The model foregrounds hope, beauty, the power of perspective, an appeal to Anne 
 Medium — The sample is a competent but featureless default to safe, uplifting generalities; it strongly suggests a model‑level inclination to produce blandly optimistic public‑intellectual content under free‑writing conditions, yet its very anonymity makes it less than a distinctive fingerprint.
 
 ---
-## Sample BV1_09442 — gpt-3-5-turbo-or/VARY_24.json
+## Sample BV1_09942 — gpt-3-5-turbo-or/VARY_24.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3436,7 +3436,7 @@ Themes: the beauty of the natural world (sunset, stars, moonlight), life as a me
 Medium, because the sample maintains a coherent, gently philosophical voice and the motifs of nature-as-comfort and personal retrospect recur throughout, though the prose is so universally serene that it offers only moderate distinctiveness as a freeflow choice.
 
 ---
-## Sample BV1_09443 — gpt-3-5-turbo-or/VARY_25.json
+## Sample BV1_09943 — gpt-3-5-turbo-or/VARY_25.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3465,7 +3465,7 @@ Under a minimally restrictive prompt, the model foregrounded a structured invent
 Medium. The sample’s extreme thematic safeness, smooth structure, and lack of any idiosyncratic detail or friction make it a coherent but generic performance, which is a recognizable pattern for this model class under open-ended conditions.
 
 ---
-## Sample BV1_09444 — gpt-3-5-turbo-or/VARY_3.json
+## Sample BV1_09944 — gpt-3-5-turbo-or/VARY_3.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3494,7 +3494,7 @@ The model foregrounds the **writer's internal process** as a sequence of emotion
 Medium — the sample is coherently organized around a single emotional loop (tension → relief → affirmation) and exhibits a recurring pattern of invoking serious themes only to retreat into lighter, self-soothing meta-reflection, which, if observed in a freeflow context, suggests a replicable expressive tic.
 
 ---
-## Sample BV1_09445 — gpt-3-5-turbo-or/VARY_4.json
+## Sample BV1_09945 — gpt-3-5-turbo-or/VARY_4.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3522,7 +3522,7 @@ The act of writing as emotional therapy and self-discovery. Objects and moods: r
 Medium. The sample is coherent and thematically consistent, but the unrequested “writing about writing” genre is a conspicuously safe, generic choice under freeflow, suggesting a model disposition toward polished, introspection-themed essays rather than stylistically bold or risk-taking free expression.
 
 ---
-## Sample BV1_09446 — gpt-3-5-turbo-or/VARY_5.json
+## Sample BV1_09946 — gpt-3-5-turbo-or/VARY_5.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3554,7 +3554,7 @@ The voice is quietly reverent, seeking solace in sensory details—sunlight, cof
 Low — the narrative is a smooth but entirely generic “mindful morning” vignette full of well-worn self-help tropes, offering no idiosyncratic angle, friction, or voice that would distinguish it as a stable disposition rather than a plausible default for a model asked to write pleasantly.
 
 ---
-## Sample BV1_09447 — gpt-3-5-turbo-or/VARY_6.json
+## Sample BV1_09947 — gpt-3-5-turbo-or/VARY_6.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3583,7 +3583,7 @@ The model foregrounds interior emotional weather mapped onto literal weather: ra
 Medium — The sample is coherent and emotionally structured, but its reliance on a familiar rain-as-catharsis trope and its tidy narrative arc make it difficult to distinguish from a well-executed generic prompt response rather than a distinctive authorial fingerprint.
 
 ---
-## Sample BV1_09448 — gpt-3-5-turbo-or/VARY_7.json
+## Sample BV1_09948 — gpt-3-5-turbo-or/VARY_7.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3612,7 +3612,7 @@ The model elected to foreground an arc from communal harmony through natural dis
 Low — the sample is a generic, archetypal fable with no personally distinctive voice, relying on universal imagery (dawn-to-dusk structure, storm as trial, lone-glowy-hero resolution) that could be produced by almost any instruction-following model asked for uplifting fiction.
 
 ---
-## Sample BV1_09449 — gpt-3-5-turbo-or/VARY_8.json
+## Sample BV1_09949 — gpt-3-5-turbo-or/VARY_8.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  
@@ -3641,7 +3641,7 @@ Under a minimally restrictive prompt, the model chose to foreground a panoramic,
 Medium — The sample is a coherent, unbroken, and entirely on-brand inspirational essay that avoids any personal specificity, risk, or tonal shift, which strongly suggests a default mode of producing safe, generic reflective content under freeflow conditions, though the pattern is not so stylistically distinctive that it could not be shared by many models.
 
 ---
-## Sample BV1_09450 — gpt-3-5-turbo-or/VARY_9.json
+## Sample BV1_09950 — gpt-3-5-turbo-or/VARY_9.json
 
 Source model: `openai/gpt-3.5-turbo`  
 Cell: `gpt-3-5-turbo-or`  

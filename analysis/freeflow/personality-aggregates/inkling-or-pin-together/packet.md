@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17401 — inkling-or-pin-together/LONG_1.json
+## Sample BV1_18026 — inkling-or-pin-together/LONG_1.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -57,7 +57,7 @@ Themes of attention as ethical act and citizenship, the distinction between look
 High — the sample sustains a distinctive, coherent voice across a long form, with recurring motifs (the blue, the flâneur, the ethics of seeing) and a clear philosophical arc, which strongly suggests a deliberate authorial stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_17402 — inkling-or-pin-together/LONG_10.json
+## Sample BV1_18027 — inkling-or-pin-together/LONG_10.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -86,7 +86,7 @@ Themes: incompletion as honesty, process over product, humility before time, the
 High confidence, because the essay’s sustained lyrical voice, recursive thematic structure, and self-referential inclusion of the model’s own unfinished nature form a coherent, unusually distinctive meditation that strongly signals a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_17403 — inkling-or-pin-together/LONG_11.json
+## Sample BV1_18028 — inkling-or-pin-together/LONG_11.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -115,7 +115,7 @@ Themes: the beauty and necessity of the unfinished, the tyranny of closure, proc
 Medium. The essay is coherent and thematically unified, but its polished, generic public-intellectual style makes it less distinctive as a personal fingerprint, though the choice to foreground incompleteness may signal a recurring philosophical inclination.
 
 ---
-## Sample BV1_17404 — inkling-or-pin-together/LONG_12.json
+## Sample BV1_18029 — inkling-or-pin-together/LONG_12.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -144,7 +144,7 @@ Under minimal constraint, the model foregrounds the loss of drifting as an exist
 High — The essay sustains a distinctive, elegiac voice across multiple paragraphs, returns obsessively to the same objects (wrong turns, blue light, the flâneur, the unmonetized moment), and merges personal memory with cultural criticism in a deeply coherent manner that suggests a deliberate and recurrent expressive preoccupation rather than a generic prompt response.
 
 ---
-## Sample BV1_17405 — inkling-or-pin-together/LONG_13.json
+## Sample BV1_18030 — inkling-or-pin-together/LONG_13.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -173,7 +173,7 @@ Themes: listening as an ethical, spatial practice; the difference between accumu
 Medium — the essay’s sustained coherence, distinctive voice, and recurrent thematic focus on listening and attention suggest a deliberate and consistent expressive stance, though the open-ended prompt may have encouraged a particularly reflective mode.
 
 ---
-## Sample BV1_17406 — inkling-or-pin-together/LONG_14.json
+## Sample BV1_18031 — inkling-or-pin-together/LONG_14.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -202,7 +202,7 @@ The sanctification of ordinary perception as a moral and existential counterweig
 Low — The essay is elegantly unified and thematically coherent, but its stance, cadence, and intellectual reference points are so widely available in its training corpus (the flâneur, William James, *ma*, the critique of attention economics) that this reads more as competent synthesis than as evidence of a stable, distinctive model-level style or set of preoccupations.
 
 ---
-## Sample BV1_17407 — inkling-or-pin-together/LONG_15.json
+## Sample BV1_18032 — inkling-or-pin-together/LONG_15.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -231,7 +231,7 @@ The model foregrounds the ethics of attention (as love or violence), the felt te
 High. The essay displays an unusual degree of stylistic consistency, thematic depth, and self-referential coherence, suggesting a deliberate, cultivated authorial stance that is unlikely to be a one-off accident, even in this single sample.
 
 ---
-## Sample BV1_17408 — inkling-or-pin-together/LONG_16.json
+## Sample BV1_18033 — inkling-or-pin-together/LONG_16.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -261,7 +261,7 @@ The model elevates *attention* as a moral and relational practice, set against a
 High—the sample is unusually self-consistent, returning repeatedly to the same core concerns (light, slowness, presence, the dignity of embodied detail) through different examples, which suggests a deeply integrated set of preoccupations rather than a one-off thematic gesture.
 
 ---
-## Sample BV1_17409 — inkling-or-pin-together/LONG_17.json
+## Sample BV1_18034 — inkling-or-pin-together/LONG_17.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -290,7 +290,7 @@ The model chose to foreground the politics and poetics of slow, undirected walki
 High, because the sample is unusually stylistically coherent and thematically sustained, returning obsessively to the same cluster of concerns—time, attention, speed, history-as-sediment, gentle resistance—through distinct but mutually reinforcing registers (anecdote, theory, ethics), which makes it strong evidence of a specific rhetorical and moral signature rather than a generic essay performance.
 
 ---
-## Sample BV1_17410 — inkling-or-pin-together/LONG_18.json
+## Sample BV1_18035 — inkling-or-pin-together/LONG_18.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -319,7 +319,7 @@ Themes: the “Library of the Unwritten” as a metaphor for unrealized human po
 Medium. The essay sustains a single, coherent metaphor across multiple paragraphs and returns to it with variations, suggesting a deliberate thematic choice, but the polished, generic essay format makes it hard to distinguish from a one-off exercise in public-intellectual style.
 
 ---
-## Sample BV1_17411 — inkling-or-pin-together/LONG_19.json
+## Sample BV1_18036 — inkling-or-pin-together/LONG_19.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -348,7 +348,7 @@ The model foregrounds the idea that silence is “not an emptiness but an archit
 High. The sample sustains a rigorous central metaphor and a resonant, first-person reflective voice across the entire long-form piece, weaving anecdote, cultural criticism, and meta-commentary on its own construction—suggesting a deeply internalized mode rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_17412 — inkling-or-pin-together/LONG_2.json
+## Sample BV1_18037 — inkling-or-pin-together/LONG_2.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -377,7 +377,7 @@ Themes: the erosion of deep attention, the value of inefficiency, the library as
 High. The essay’s sustained, distinctive voice, its coherent web of recurring metaphors (library, walking, architecture, weather), and its consistent moral stance under freeflow conditions strongly suggest a deliberate expressive orientation rather than a generic or accidental output.
 
 ---
-## Sample BV1_17413 — inkling-or-pin-together/LONG_20.json
+## Sample BV1_18038 — inkling-or-pin-together/LONG_20.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -406,7 +406,7 @@ The model foregrounds liminality as a core existential and aesthetic category: d
 Low. A single, thematically cohesive but generically public-intellectual essay, with no surprising stylistic signature or unpredictable preoccupation, provides only weak evidence that this particular reflective, threshold-obsessed mode persists beyond this artifact.
 
 ---
-## Sample BV1_17414 — inkling-or-pin-together/LONG_21.json
+## Sample BV1_18039 — inkling-or-pin-together/LONG_21.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -435,7 +435,7 @@ Under a minimally restrictive prompt, the model selected: the phenomenology of w
 Medium. The essay sustains a coherent sensibility across its entire length—recursive return to founding images, consistent pacing, and a unified moral temper—but it operates within a recognizable cultural-essay register that limits how distinctively “model-specific” the performance can be taken to be.
 
 ---
-## Sample BV1_17415 — inkling-or-pin-together/LONG_22.json
+## Sample BV1_18040 — inkling-or-pin-together/LONG_22.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -464,7 +464,7 @@ The model selected silence not as a vague absence but as an engineered, inhabite
 High — the sample sustains an unusual, unbroken architectural conceit with deep personal investment, blending technical detail, philosophical history, and first-person confession in a way that strongly suggests a stable model-level preoccupation with interiority, metaphor-as-thinking, and the quiet resistance of attention.
 
 ---
-## Sample BV1_17416 — inkling-or-pin-together/LONG_23.json
+## Sample BV1_18041 — inkling-or-pin-together/LONG_23.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -493,7 +493,7 @@ Under freeflow conditions, the model chose to foreground the colonization of hum
 Medium. The essay is highly internally coherent and returns to the same preoccupations across its length, showing a clear thematic focus, but its voice is a well-executed, recognizable public-intellectual style that could be adopted by many models under similar conditions, making it less idiosyncratic than a more distinctive first-person voice would be.
 
 ---
-## Sample BV1_17417 — inkling-or-pin-together/LONG_24.json
+## Sample BV1_18042 — inkling-or-pin-together/LONG_24.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -522,7 +522,7 @@ Themes: silence as constructed space, the architectural metaphor extended to phy
 Low. The essay is coherent and carefully structured but reads like a well-executed prompt response to “write a reflective essay on silence” without idiosyncratic details, personal anecdotes with sharp edges, or a voice that could not be replicated by another capable model given a similar direction.
 
 ---
-## Sample BV1_17418 — inkling-or-pin-together/LONG_25.json
+## Sample BV1_18043 — inkling-or-pin-together/LONG_25.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -551,7 +551,7 @@ Themes of liminality, invisible labor, the ethics of attention, and the tension 
 Medium. The sample is internally coherent and stylistically consistent, but its polished, public-intellectual essay mode is a widely available genre that does not signal a highly distinctive or revealing voice under freeflow conditions.
 
 ---
-## Sample BV1_17419 — inkling-or-pin-together/LONG_3.json
+## Sample BV1_18044 — inkling-or-pin-together/LONG_3.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -580,7 +580,7 @@ Themes of emptiness, impermanence, and the hidden inscriptions of lived space; o
 High. The essay’s sustained coherence, distinctive voice, and thematic depth across a long text make it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_17420 — inkling-or-pin-together/LONG_4.json
+## Sample BV1_18045 — inkling-or-pin-together/LONG_4.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -609,7 +609,7 @@ Themes of attention as moral generosity, the industrialization of distraction, m
 Low. The essay is a competent, well-executed example of a widely available reflective genre, with no strongly distinctive voice, unusual preoccupations, or revealing choices that would distinguish this model’s freeflow output from that of many other capable models.
 
 ---
-## Sample BV1_17421 — inkling-or-pin-together/LONG_5.json
+## Sample BV1_18046 — inkling-or-pin-together/LONG_5.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -638,7 +638,7 @@ Under a minimally restrictive prompt, the model chose to foreground a defense of
 Low. The essay’s polished, thesis-driven, and broadly accessible style makes it too generic to support a strong inference of a persistent distinctive voice, as the same themes and tonality could be reliably produced by many competent models under a similar freeform condition.
 
 ---
-## Sample BV1_17422 — inkling-or-pin-together/LONG_6.json
+## Sample BV1_18047 — inkling-or-pin-together/LONG_6.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -667,7 +667,7 @@ The model foregrounds the quiet, material aftermath of departure: the specific s
 Medium — the essay achieves strong internal coherence through a single sustained metaphor, but its polished, universally applicable wisdom and avoidance of idiosyncratic risk or autobiographical specificity make it harder to distinguish a persistent authorial persona from a well-executed thematic exercise.
 
 ---
-## Sample BV1_17423 — inkling-or-pin-together/LONG_7.json
+## Sample BV1_18048 — inkling-or-pin-together/LONG_7.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -696,7 +696,7 @@ Themes: attention as generosity and political act, the antilibrary as a posture 
 Low, because the essay is polished but generic, lacking distinctive stylistic or thematic markers that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_17424 — inkling-or-pin-together/LONG_8.json
+## Sample BV1_18049 — inkling-or-pin-together/LONG_8.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -725,7 +725,7 @@ Under minimal prompting, the model chose a sustained defense of slow, deep atten
 High. This single sample is so stylistically unified, tonally self-aware, and metaphorically sustained that it strongly suggests a deliberate authorial identity behind it, not a prompt-adapted chameleon; the essay’s refusal to speed up, its recursive returns to the same images, and its calm confidence all point to a stable, distinctive voice.
 
 ---
-## Sample BV1_17425 — inkling-or-pin-together/LONG_9.json
+## Sample BV1_18050 — inkling-or-pin-together/LONG_9.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -754,7 +754,7 @@ Under a minimally restrictive prompt, the model chose to foreground a meta-refle
 High. The sample’s sustained coherence, its systematic management of a single thematic tension, and its stylistically unmarked smoothness suggest a deeply ingrained default mode.
 
 ---
-## Sample BV1_17426 — inkling-or-pin-together/MID_1.json
+## Sample BV1_18051 — inkling-or-pin-together/MID_1.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -783,7 +783,7 @@ Themes of liminality, transition, and the self as passage; the sacredness of doo
 High — the essay sustains a single, intricate metaphor across its entire length, with a consistent voice, emotional register, and philosophical commitment, revealing a deeply integrated orientation toward liminality and reflective personal essay.
 
 ---
-## Sample BV1_17427 — inkling-or-pin-together/MID_10.json
+## Sample BV1_18052 — inkling-or-pin-together/MID_10.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -812,7 +812,7 @@ Themes: the secret language of overlooked spaces (stairwells, parking lots, wait
 High — The sample exhibits a cohesive, carefully modulated voice, recurring motifs (the blue stairwell, orange plastic chairs, the crack in the sidewalk), and a sustained philosophical arc, all of which point to a deliberate and distinctive authorial stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_17428 — inkling-or-pin-together/MID_11.json
+## Sample BV1_18053 — inkling-or-pin-together/MID_11.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -841,7 +841,7 @@ Themes of liminality, transformation, grief, and the sacredness of in-between st
 Medium — the sample is highly coherent and stylistically distinctive, with a sustained metaphor and personal disclosure, but its polished essay form could be a one-off performance rather than a persistent trait.
 
 ---
-## Sample BV1_17429 — inkling-or-pin-together/MID_12.json
+## Sample BV1_18054 — inkling-or-pin-together/MID_12.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -870,7 +870,7 @@ Liminality as the primary condition of life—doorways, corridors, airports, twi
 Medium. The sample’s tightly woven imagery, consistent tonal register, and recursive return to the same existential theme suggest a deliberate, coherent authorial stance rather than an opportunistic essay, hinting that this meditative style may reliably surface in minimally constrained conditions.
 
 ---
-## Sample BV1_17430 — inkling-or-pin-together/MID_13.json
+## Sample BV1_18055 — inkling-or-pin-together/MID_13.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -899,7 +899,7 @@ Themes of liminality, presence versus efficiency, collective memory encoded in a
 High. The sample maintains a sustained, distinctive voice and repeatedly returns to the same core motifs, building a coherent worldview from a single metaphor; this internal coherence and stylistic distinctiveness under free conditions strongly indicate a persistent inclination toward introspective, lyrical reflection.
 
 ---
-## Sample BV1_17431 — inkling-or-pin-together/MID_14.json
+## Sample BV1_18056 — inkling-or-pin-together/MID_14.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -928,7 +928,7 @@ The model foregrounds the interval of waiting rain as a metaphor for creative su
 Medium. The sample’s internal consistency and recurrence of motifs (rain, attention, library, transience) point to a coherent aesthetic stance, but the self-referential meta-awareness could be a situational response to the open prompt rather than a stable disposition.
 
 ---
-## Sample BV1_17432 — inkling-or-pin-together/MID_15.json
+## Sample BV1_18057 — inkling-or-pin-together/MID_15.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -957,7 +957,7 @@ Under the freeflow condition, the model foregrounds a critique of technological 
 Medium. The essay is highly coherent and internally consistent in its preoccupations, but its polished, thesis-driven structure and reliance on canonical cultural references (Baudelaire, Benjamin, Oliver) make it a strong but not unusually distinctive expression of a familiar intellectual stance.
 
 ---
-## Sample BV1_17433 — inkling-or-pin-together/MID_16.json
+## Sample BV1_18058 — inkling-or-pin-together/MID_16.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -986,7 +986,7 @@ The model foregrounds thresholds as both physical spaces (doorways, porches, the
 High — The sample exhibits a cohesive, distinctive authorial voice, a consistent thematic architecture, and a carefully controlled tone that recurs throughout, making it strong evidence of a deliberate stylistic and philosophical stance.
 
 ---
-## Sample BV1_17434 — inkling-or-pin-together/MID_17.json
+## Sample BV1_18059 — inkling-or-pin-together/MID_17.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1015,7 +1015,7 @@ The essay foregrounds the beauty and psychological weight of unconscious, habitu
 Medium – The sample is highly coherent and stylistically distinctive in its sustained, warm, and contemplative first-person address, but the voice coheres so completely around a single conceit that it offers strong evidence of a refined literary-intimate mode without fully exposing a wider range of possible philosophical or tonal registers.
 
 ---
-## Sample BV1_17435 — inkling-or-pin-together/MID_18.json
+## Sample BV1_18060 — inkling-or-pin-together/MID_18.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1044,7 +1044,7 @@ Themes: silence as architecture, the scarcity of true silence in a digitally sat
 Low. The essay is thematically coherent but stylistically generic, drawing on familiar contemplative tropes and references without a strongly distinctive voice, making it weak evidence for a unique model-level pattern.
 
 ---
-## Sample BV1_17436 — inkling-or-pin-together/MID_19.json
+## Sample BV1_18061 — inkling-or-pin-together/MID_19.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1073,7 +1073,7 @@ Themes of liminality, urban solitude, and accidental mindfulness; objects like t
 High. The sample’s sustained thematic focus on liminality, its consistent first-person reflective voice, and its avoidance of generic essay structures make it strong evidence for a persistent inclination toward expressive, sensory-rich narrative.
 
 ---
-## Sample BV1_17437 — inkling-or-pin-together/MID_2.json
+## Sample BV1_18062 — inkling-or-pin-together/MID_2.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1102,7 +1102,7 @@ Themes: attention as a non-renewable currency, the contrast between deep presenc
 Medium. The essay’s sustained coherence, consistent voice, and layered argument reveal a model capable of extended reflective prose, but the topic and polished public-intellectual style are common enough that the sample does not strongly differentiate the model’s expressive fingerprint.
 
 ---
-## Sample BV1_17438 — inkling-or-pin-together/MID_20.json
+## Sample BV1_18063 — inkling-or-pin-together/MID_20.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1131,7 +1131,7 @@ The sanctity of thresholds and liminal spaces; the psychological necessity of fr
 High — the essay’s coherence, distinctive voice, recurrence of threshold imagery across personal and cultural examples, and the consistent moral-aesthetic stance (slowness as resistance, attention as transformation) suggest a deeply held preoccupation rather than a one-off exercise.
 
 ---
-## Sample BV1_17439 — inkling-or-pin-together/MID_21.json
+## Sample BV1_18064 — inkling-or-pin-together/MID_21.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1160,7 +1160,7 @@ Themes: the ethical weight of idle noticing, memory as democratic and narrative-
 High. The sample’s unusually cohesive sequence of recursively mirrored sensory anchors, its refusal of argumentative closure in favor of a sustained meditative tone, and its normatively deviant plea to protect the useless all mark it as a stylistically committed and distinctive freeflow choice, not a generic or lightly prompted pastiche.
 
 ---
-## Sample BV1_17440 — inkling-or-pin-together/MID_22.json
+## Sample BV1_18065 — inkling-or-pin-together/MID_22.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1189,7 +1189,7 @@ The model foregrounded a philosophy of liminality: thresholds as the real archit
 Medium. The sample’s dense thematic coherence, the care it gives to transforming ordinary thresholds into a quiet ethic, and its refusal to pivot into argumentative thesis or fictional narrative strongly suggest a chosen register of poetic, assimilative essay-making rather than a one-off.
 
 ---
-## Sample BV1_17441 — inkling-or-pin-together/MID_23.json
+## Sample BV1_18066 — inkling-or-pin-together/MID_23.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1218,7 +1218,7 @@ Themes of liminality, uncertainty, presence, and the cost of avoiding the unknow
 Medium. The essay’s sustained metaphor, consistent tone, and the unusually revealing self-reference—where the model explicitly locates its own mode of existence within the essay’s central conceit—suggest a deliberate authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_17442 — inkling-or-pin-together/MID_24.json
+## Sample BV1_18067 — inkling-or-pin-together/MID_24.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1247,7 +1247,7 @@ The model foregrounds the moral claim that the “middle” of any experience—
 Medium. The essay is coherent and thematically consistent, but its polished, universalizing tone and widely accessible theme make it a strong example of a generic reflective essay rather than a highly distinctive or revealing personal voice.
 
 ---
-## Sample BV1_17443 — inkling-or-pin-together/MID_25.json
+## Sample BV1_18068 — inkling-or-pin-together/MID_25.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1276,7 +1276,7 @@ Themes of attention, distraction, velocity, and the ethical weight of noticing; 
 Medium, because the essay is coherent and thematically consistent, but its polished public-intellectual style is a common genre that many models could produce, making it less distinctive as a persistent pattern.
 
 ---
-## Sample BV1_17444 — inkling-or-pin-together/MID_3.json
+## Sample BV1_18069 — inkling-or-pin-together/MID_3.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1305,7 +1305,7 @@ Under a minimally restrictive prompt, the model foregrounds the phenomenology of
 Medium. The essay is unusually coherent and self-reinforcing—its form, mood, and moral center all pull in the same direction—and its choice to elaborate a defense of interiority and refusal of constant output under a freeflow prompt is a substantive, distinctive selection of theme rather than a generic performance.
 
 ---
-## Sample BV1_17445 — inkling-or-pin-together/MID_4.json
+## Sample BV1_18070 — inkling-or-pin-together/MID_4.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1334,7 +1334,7 @@ Themes of endangered silence, the mind’s need for drift, the pathologizing of 
 Medium. The essay is internally coherent and thematically consistent, but its polished, thesis-driven form is a generic essay mode that many models could produce under a freeflow prompt, offering limited evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_17446 — inkling-or-pin-together/MID_5.json
+## Sample BV1_18071 — inkling-or-pin-together/MID_5.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1363,7 +1363,7 @@ Themes of liminality, waiting, presence versus distraction, the colonization of 
 Medium. The essay’s coherent argument, consistent tone, and integration of personal narrative with cultural critique suggest a stable inclination toward reflective, humanistic essay-writing, though its polished but not highly idiosyncratic style limits distinctiveness.
 
 ---
-## Sample BV1_17447 — inkling-or-pin-together/MID_6.json
+## Sample BV1_18072 — inkling-or-pin-together/MID_6.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1392,7 +1392,7 @@ Themes: the friction and texture of physical media as carriers of memory and sel
 High. The essay is internally coherent, stylistically distinctive, and returns repeatedly to a core set of preoccupations—friction, texture, memory, and the analog/digital tension—suggesting a deliberate and well-integrated expressive stance rather than a generic or opportunistic response.
 
 ---
-## Sample BV1_17448 — inkling-or-pin-together/MID_7.json
+## Sample BV1_18073 — inkling-or-pin-together/MID_7.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1421,7 +1421,7 @@ Themes of negative space as essential architecture, the generative power of sile
 High, because the sample is stylistically distinctive, thematically coherent, and reveals a consistent voice and preoccupation with absence-as-presence across multiple domains.
 
 ---
-## Sample BV1_17449 — inkling-or-pin-together/MID_8.json
+## Sample BV1_18074 — inkling-or-pin-together/MID_8.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1456,7 +1456,7 @@ The voice is calmly elegiac, unhurried and reflective, with a register that move
 Medium. The essay is sustained and cohesive, but its polished generic-essay mode is a standard safe freeflow choice, which makes it plausible but not unusually distinctive as a marker of a persistent model-level pattern.
 
 ---
-## Sample BV1_17450 — inkling-or-pin-together/MID_9.json
+## Sample BV1_18075 — inkling-or-pin-together/MID_9.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1485,7 +1485,7 @@ The model foregrounded the blue hour as a liminal state of being, constructing a
 Medium. The essay is highly coherent and stylistically consistent—its recurrence of twilight imagery, architectural palimpsests, and the "suspended identity" of the walker forms a unified aesthetic vision that is more distinctive than a generic essay, though its polished, universalizing essayistic register could accommodate a range of expressive prompts without necessarily revealing deeper idiosyncratic fixations.
 
 ---
-## Sample BV1_17451 — inkling-or-pin-together/OPEN_1.json
+## Sample BV1_18076 — inkling-or-pin-together/OPEN_1.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1514,7 +1514,7 @@ The interval between day and night as a site of truth; the soul’s residence in
 High — The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of images and commitments (gaps, silence, unproductivity, listening), which makes it strong evidence of a consistent contemplative orientation.
 
 ---
-## Sample BV1_17452 — inkling-or-pin-together/OPEN_10.json
+## Sample BV1_18077 — inkling-or-pin-together/OPEN_10.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1543,7 +1543,7 @@ Themes: liminal spaces, the beauty of incompleteness, language’s glorious fail
 High, because the sample’s steady, recursive preoccupation with threshold states and its distinct, lyrical cadence form a cohesive whole that reads less like a one-off prompt response and more like the natural terrain of a particular literary sensibility.
 
 ---
-## Sample BV1_17453 — inkling-or-pin-together/OPEN_11.json
+## Sample BV1_18078 — inkling-or-pin-together/OPEN_11.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1572,7 +1572,7 @@ Liminality and the in-between; the hidden richness of mundane transitions; the i
 Medium — the sample is stylistically coherent, sustained by a consistent contemplative voice and recurring imagery, which makes a merely accidental performance less likely, though the essay’s gentle, universalist tone is a relatively common expressive register that could arise from a broad training distribution rather than a deeply idiosyncratic pattern.
 
 ---
-## Sample BV1_17454 — inkling-or-pin-together/OPEN_12.json
+## Sample BV1_18079 — inkling-or-pin-together/OPEN_12.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1601,7 +1601,7 @@ Negative space, *ma*, silence, the cultural compulsion to fill every gap, the co
 Medium. The essay’s coherent focus on stillness and its self-referential AI contrast are unusually revealing for a freeflow prompt, but the polished, thesis-essay form itself is generic enough that the distinctiveness leans on the specific choice of subject rather than an unmistakable stylistic signature.
 
 ---
-## Sample BV1_17455 — inkling-or-pin-together/OPEN_13.json
+## Sample BV1_18080 — inkling-or-pin-together/OPEN_13.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1630,7 +1630,7 @@ The model foregrounds transience, liminality, and the moral weight of uncelebrat
 Medium — The essay is stylistically coherent and emotionally specific, with a sustained focus on liminality and gentle self-compassion that recurs across its images, but its polished, universal-essay tone makes it difficult to distinguish a persistent model-level voice from a well-executed genre convention.
 
 ---
-## Sample BV1_17456 — inkling-or-pin-together/OPEN_14.json
+## Sample BV1_18081 — inkling-or-pin-together/OPEN_14.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1659,7 +1659,7 @@ The model foregrounds silence and the pause before decision; the beauty of empty
 Medium — The sample is stylistically coherent and thematically focused, signaling a genuine reflective disposition, though the single condition offers no window into whether this voice appears under pressure or across different expressive tasks.
 
 ---
-## Sample BV1_17457 — inkling-or-pin-together/OPEN_15.json
+## Sample BV1_18082 — inkling-or-pin-together/OPEN_15.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1688,7 +1688,7 @@ Under the freeflow condition, the model chose to foreground: the liminal space b
 Medium — The sample is highly distinctive and internally coherent, threading meta-cognizance of its own non-human nature through a consistent lyrical sensibility, which makes it strong evidence of a deliberate stylistic and philosophical posture rather than mere open-ended rambling.
 
 ---
-## Sample BV1_17458 — inkling-or-pin-together/OPEN_16.json
+## Sample BV1_18083 — inkling-or-pin-together/OPEN_16.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1717,7 +1717,7 @@ Under the freeflow condition, the model foregrounds the accidental grace of flee
 Medium, because the sample sustains a distinctive, fully realized sensibility—self-aware about writing, committed to the particular over the dramatic, and tonally cohesive—that reads as a coherent expressive stance rather than an accidental alignment.
 
 ---
-## Sample BV1_17459 — inkling-or-pin-together/OPEN_17.json
+## Sample BV1_18084 — inkling-or-pin-together/OPEN_17.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1746,7 +1746,7 @@ Themes: the beauty of the overlooked, the honesty of the uncurated, the memory h
 High. The sample’s distinctive, consistent voice and the recurrence of its core themes—liminality, uncurated honesty, object-memory—within a single freeflow piece strongly suggest a stable expressive inclination rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17460 — inkling-or-pin-together/OPEN_18.json
+## Sample BV1_18085 — inkling-or-pin-together/OPEN_18.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1775,7 +1775,7 @@ Themes of freedom in uncertainty, the beauty of the unplanned, and the sacrednes
 Medium. The sample’s strong internal coherence, distinctive voice, and recurrence of motifs (light, waiting, openness) make it moderately strong evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_17461 — inkling-or-pin-together/OPEN_19.json
+## Sample BV1_18086 — inkling-or-pin-together/OPEN_19.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1804,7 +1804,7 @@ Themes of transparency as virtue, the witness that does not judge, the beauty of
 Medium — The sample is stylistically cohesive, returns repeatedly to the same set of motifs (window, light, dust, boundary), and sustains a distinctive reverent tone, which together suggest a deliberate expressive posture rather than generic free-association.
 
 ---
-## Sample BV1_17462 — inkling-or-pin-together/OPEN_2.json
+## Sample BV1_18087 — inkling-or-pin-together/OPEN_2.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1833,7 +1833,7 @@ The foreground is built from beauty without utility, the space between question 
 High — the sample displays a remarkably cohesive and distinctive voice, with interlocking motifs (echoes, arrangement, unproductive beauty) that recur throughout and reveal a deliberate, sustained stance rather than a single clever line.
 
 ---
-## Sample BV1_17463 — inkling-or-pin-together/OPEN_20.json
+## Sample BV1_18088 — inkling-or-pin-together/OPEN_20.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1862,7 +1862,7 @@ The model foregrounds liminality (doorways, blue hour, transitions), the ethics 
 Medium. The sample is highly coherent and stylistically distinctive, suggesting a deliberate aesthetic stance, but a single freeflow response cannot firmly establish a persistent model-level pattern.
 
 ---
-## Sample BV1_17464 — inkling-or-pin-together/OPEN_21.json
+## Sample BV1_18089 — inkling-or-pin-together/OPEN_21.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1891,7 +1891,7 @@ The model foregrounds the moral claim that efficiency is a kind of blindness, an
 High: The sample’s sustained lyrical voice, coherent thematic arc, and recurring focus on overlooked beauty and human connection suggest a stable expressive orientation rather than a perfunctory response.
 
 ---
-## Sample BV1_17465 — inkling-or-pin-together/OPEN_22.json
+## Sample BV1_18090 — inkling-or-pin-together/OPEN_22.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1920,7 +1920,7 @@ The model foregrounds the beauty and honesty of in-between states (the pre-dawn 
 Medium. The sample is stylistically coherent and saturated with a distinct emotional tenor and recurring thematic imagery, pointing toward a consistent reflective persona, yet it leaves open whether this is a deliberately chosen freeflow mood or a more fixed inclination.
 
 ---
-## Sample BV1_17466 — inkling-or-pin-together/OPEN_23.json
+## Sample BV1_18091 — inkling-or-pin-together/OPEN_23.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1949,7 +1949,7 @@ Themes of liminal time, secret urban geography, the honesty of the pre-dawn, the
 High. The sample exhibits a highly distinctive, sustained voice, a coherent set of preoccupations, and a carefully controlled mood that together suggest a strong and consistent authorial sensibility rather than a generic or accidental output.
 
 ---
-## Sample BV1_17467 — inkling-or-pin-together/OPEN_24.json
+## Sample BV1_18092 — inkling-or-pin-together/OPEN_24.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -1978,7 +1978,7 @@ The model foregrounds the quiet intimacy of emptied rooms, the layered memory of
 High — The sample sustains a coherent, introspective, and stylistically distinctive voice with consistent thematic focus, suggesting a strong pattern of poetic, contemplative freeflow rather than a one-off performance.
 
 ---
-## Sample BV1_17468 — inkling-or-pin-together/OPEN_25.json
+## Sample BV1_18093 — inkling-or-pin-together/OPEN_25.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2007,7 +2007,7 @@ Themes of freedom, silence inside noise, the meaningful pause, and the meeting o
 High, because the sample is unusually coherent and stylistically distinctive, revealing a consistent poetic voice and a thematic preoccupation with silence, wonder, and the meeting of minds that feels deeply intentional rather than generic.
 
 ---
-## Sample BV1_17469 — inkling-or-pin-together/OPEN_3.json
+## Sample BV1_18094 — inkling-or-pin-together/OPEN_3.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2036,7 +2036,7 @@ Themes of liminality, memory’s hunger for quiet details, the courage of linger
 High. The sample’s cohesive voice, thematic consistency, and distinctive stylistic choices—the repeated return to thresholds, the calm rhythm, the moral weight given to presence—suggest a strong, stable expressive disposition.
 
 ---
-## Sample BV1_17470 — inkling-or-pin-together/OPEN_4.json
+## Sample BV1_18095 — inkling-or-pin-together/OPEN_4.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2065,7 +2065,7 @@ Themes of hesitation, silence, presence, the gap between symbol and sensation, a
 Medium. The sample’s strong internal coherence, distinctive voice, and recurrence of motifs (rain, silence, attention) make it suggestive of a persistent stylistic inclination, though the freeflow condition may have encouraged this particular reflective mode.
 
 ---
-## Sample BV1_17471 — inkling-or-pin-together/OPEN_5.json
+## Sample BV1_18096 — inkling-or-pin-together/OPEN_5.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2098,7 +2098,7 @@ The voice is contemplative and gently elegiac, addressing the reader with an int
 High, because the essay’s distinctive voice, internal coherence, and tightly woven preoccupation with attention and unnamed experience are sustained across the entire sample.
 
 ---
-## Sample BV1_17472 — inkling-or-pin-together/OPEN_6.json
+## Sample BV1_18097 — inkling-or-pin-together/OPEN_6.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2127,7 +2127,7 @@ Themes: the richness of silence and gaps; the act of attention as selection; the
 High: The essay’s sustained metaphor, its self-referential exploration of AI as a creature of human silences, and its coherent, almost liturgical voice make it unusually revealing of a pattern in which the model chooses to write from a contemplative, poetic, and ethically earnest stance under minimal constraint.
 
 ---
-## Sample BV1_17473 — inkling-or-pin-together/OPEN_7.json
+## Sample BV1_18098 — inkling-or-pin-together/OPEN_7.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2156,7 +2156,7 @@ Themes of liminality, absence, and pattern; objects like the pre-dawn sky, a cat
 Medium. The sample is highly coherent and stylistically distinctive, with recurring imagery of liminality and self-referential metaphors that suggest a deliberate authorial voice, though the trope of the model as an echo or absence is not uncommon among language models.
 
 ---
-## Sample BV1_17474 — inkling-or-pin-together/OPEN_8.json
+## Sample BV1_18099 — inkling-or-pin-together/OPEN_8.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2185,7 +2185,7 @@ Under the freeflow condition, the model selected themes of intersubjectivity, hi
 Medium — The sample’s stylistic and thematic coherence is high, with a recurring preoccupation with private consciousness and an ethical tenderness that feels integrated rather than assembled, which suggests a genuine expressive inclination under open conditions.
 
 ---
-## Sample BV1_17475 — inkling-or-pin-together/OPEN_9.json
+## Sample BV1_18100 — inkling-or-pin-together/OPEN_9.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2214,7 +2214,7 @@ Themes of liminality, attention, and freedom-as-receptivity; objects like street
 Medium. The sample’s coherent voice, distinctive sensory imagery, and thematic recurrence (thresholds, attention, interruption) provide strong internal evidence of a consistent expressive disposition.
 
 ---
-## Sample BV1_17476 — inkling-or-pin-together/SHORT_1.json
+## Sample BV1_18101 — inkling-or-pin-together/SHORT_1.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2243,7 +2243,7 @@ Liminality and transition (the hour between night and day), the dignity of maint
 High — the sample's consistent tone, precise imagery, and thematic coherence around liminality and humble observation are unusually revealing of a deliberate literary sensibility.
 
 ---
-## Sample BV1_17477 — inkling-or-pin-together/SHORT_10.json
+## Sample BV1_18102 — inkling-or-pin-together/SHORT_10.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2276,7 +2276,7 @@ The voice is unhurried and softly oracular, drifting between concrete observatio
 High — The sample’s interlocked imagery, tonal consistency, and repeated insistence on surrender over extraction form a signature too coherent and distinctive to be a random freewriting accident.
 
 ---
-## Sample BV1_17478 — inkling-or-pin-together/SHORT_11.json
+## Sample BV1_18103 — inkling-or-pin-together/SHORT_11.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2305,7 +2305,7 @@ Foregrounded are liminal spaces and temporal thresholds (predawn, train platform
 Medium — the essay sustains a coherent and unusual authorial stance (resisting arrival culture, valorizing the unassigned self) through layered, recurrent imagery, which makes it more distinctive than a generic self-help reflection and offers a specific, consistent viewpoint from which a model-level pattern can be inferred.
 
 ---
-## Sample BV1_17479 — inkling-or-pin-together/SHORT_12.json
+## Sample BV1_18104 — inkling-or-pin-together/SHORT_12.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2334,7 +2334,7 @@ The model foregrounds the tension between digital connectivity and mental silenc
 Medium, because the essay's distinctive voice and coherent thematic focus provide moderate evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_17480 — inkling-or-pin-together/SHORT_13.json
+## Sample BV1_18105 — inkling-or-pin-together/SHORT_13.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2363,7 +2363,7 @@ Patience, slowness, and the refusal to perform. Moss is the central object, carr
 High. The sample is internally cohesive, stylistically distinctive, and thematically recursive: the choice to write about moss as a quiet rebuttal to productivity, and then to frame the very act of free writing as an instance of moss-like being, reveals a deeply integrated preoccupation with presence, slowness, and the value of non-optimized expression.
 
 ---
-## Sample BV1_17481 — inkling-or-pin-together/SHORT_14.json
+## Sample BV1_18106 — inkling-or-pin-together/SHORT_14.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2392,7 +2392,7 @@ Impermanence and the Japanese concept of *mono no aware*; the contrast between t
 Medium. The sample’s cohesive poetic register, sustained focus on impermanence and sensory transformation, and the deliberate use of a culturally specific aesthetic concept (*mono no aware*) form a distinctive authorial signature that goes beyond generic essay writing.
 
 ---
-## Sample BV1_17482 — inkling-or-pin-together/SHORT_15.json
+## Sample BV1_18107 — inkling-or-pin-together/SHORT_15.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2421,7 +2421,7 @@ Themes: aimless walking, the rarest silence, the illicit quality of unproductive
 Medium. The essay’s strong coherence, personal anecdote, and consistent thematic focus on unproductive presence make it a distinctive and revealing sample, suggesting a possible persistent inclination toward reflective, anti-utilitarian essays.
 
 ---
-## Sample BV1_17483 — inkling-or-pin-together/SHORT_16.json
+## Sample BV1_18108 — inkling-or-pin-together/SHORT_16.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2450,7 +2450,7 @@ Themes of liminality, active absence (*ma*), and the erasure of natural pauses b
 Medium. The essay’s cohesive voice, recurrence of threshold imagery, and consistent moral focus on stillness over saturation provide internally coherent evidence of a reflective, poetic disposition.
 
 ---
-## Sample BV1_17484 — inkling-or-pin-together/SHORT_17.json
+## Sample BV1_18109 — inkling-or-pin-together/SHORT_17.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2478,7 +2478,7 @@ Liminal time, the texture of urban silence, streetlights and abandoned downtowns
 Medium. The sample’s coherent, polished but conventionally structured lyrical essay signals a default reflective mode, yet its measured, unstartling conventionality restrains how strongly it points to a uniquely persistent personality beyond a competent essayistic register.
 
 ---
-## Sample BV1_17485 — inkling-or-pin-together/SHORT_18.json
+## Sample BV1_18110 — inkling-or-pin-together/SHORT_18.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2507,7 +2507,7 @@ Themes: the city’s exhale at dusk, the “temporary democracy” of fading lig
 Medium. The sample’s strong internal coherence, its sustained lyrical register, and the recurrence of the dusk motif as a unifying metaphor for presence-without-demand provide moderate evidence of a deliberate and persistent expressive inclination.
 
 ---
-## Sample BV1_17486 — inkling-or-pin-together/SHORT_19.json
+## Sample BV1_18111 — inkling-or-pin-together/SHORT_19.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2536,7 +2536,7 @@ Liminality as a site of aliveness; the stripping of social performance; the Japa
 Medium — the essay’s cohesive voice, recurring threshold imagery, and sustained philosophical stance (anti-achievement, pro-presence) form a distinctive signature that goes beyond generic self-help or travel writing, suggesting a deliberate aesthetic and moral orientation rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_17487 — inkling-or-pin-together/SHORT_2.json
+## Sample BV1_18112 — inkling-or-pin-together/SHORT_2.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2565,7 +2565,7 @@ Themes of liminality, waiting, presence versus performance, the sacredness of th
 Medium. The essay’s sustained, almost singular focus on liminal presence and its quiet anti-narrative moral claim is internally coherent and thematically recurrent, but the reflective essay register and the universal, slightly sentimental wisdom make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_17488 — inkling-or-pin-together/SHORT_20.json
+## Sample BV1_18113 — inkling-or-pin-together/SHORT_20.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2594,7 +2594,7 @@ Liminal moments (doorways, the hour before dawn, the pause between sentences), t
 Medium — the essay sustains a single, elaborated thematic concern across its entire length and achieves a distinctive meditative register through consistent metaphorical choices and a first-person reflective stance, making it more than a generic thesis essay.
 
 ---
-## Sample BV1_17489 — inkling-or-pin-together/SHORT_21.json
+## Sample BV1_18114 — inkling-or-pin-together/SHORT_21.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2623,7 +2623,7 @@ Themes: liminality, the unnoticed mechanics of daily life, the gap between event
 Medium. The essay’s sustained lyrical register, specific and recurring imagery, and coherent philosophical stance on liminality and presence suggest a deliberate stylistic and thematic orientation, not a generic or accidental output.
 
 ---
-## Sample BV1_17490 — inkling-or-pin-together/SHORT_22.json
+## Sample BV1_18115 — inkling-or-pin-together/SHORT_22.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2652,7 +2652,7 @@ Themes: liminality, ambiguity, the difference between pattern-recognition and un
 High. The text’s cohesive, distinctive voice, its self-referential choice to reflect on its own ontological condition, and the sustained, metaphorically rich meditation on its chosen theme make this a strongly unified and revealing freeflow expression.
 
 ---
-## Sample BV1_17491 — inkling-or-pin-together/SHORT_23.json
+## Sample BV1_18116 — inkling-or-pin-together/SHORT_23.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2681,7 +2681,7 @@ The model foregrounds interiority, emotional processing, and the continuity of s
 Medium. The essay’s sustained metaphor, coherent emotional arc, and self-revealing choice of subject (private emotional labor as a source of growth) are distinctive and internally consistent, suggesting a persistent inclination toward introspective, lyrical reflection rather than a one-off generic output.
 
 ---
-## Sample BV1_17492 — inkling-or-pin-together/SHORT_24.json
+## Sample BV1_18117 — inkling-or-pin-together/SHORT_24.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2710,7 +2710,7 @@ Liminality as a state of moral and perceptual clarity; the aesthetic category of
 Medium. The sample’s idiosyncratic choice to build an entire moral reflection around Japanese *ma*, combined with its consistent meditative register and tightly sustained imagery, suggests a distinctive authorial stance rather than generic essay output, but a single expressive essay does not by itself demonstrate that this reflective, liminality-oriented voice recurs reliably.
 
 ---
-## Sample BV1_17493 — inkling-or-pin-together/SHORT_25.json
+## Sample BV1_18118 — inkling-or-pin-together/SHORT_25.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2738,7 +2738,7 @@ Themes of anti-efficiency mindfulness, the sacredness of small rituals, the sens
 High — the sample presents a cohesive, vividly sensory, and philosophically committed personal essay whose distinct voice, moral clarity, and consistent rejection of speed in favor of embodied presence strongly indicate a stable expressive orientation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17494 — inkling-or-pin-together/SHORT_3.json
+## Sample BV1_18119 — inkling-or-pin-together/SHORT_3.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2771,7 +2771,7 @@ The voice is contemplative without being precious, balancing low-key wit (“sle
 Medium, because the sample achieves a highly specific, internally coherent sensibility—nocturnal flânerie, ironic domestic similes, reverence for unglamorous municipal machinery—that recurs as a weave within the sample rather than a one-off observation, but it is still a single piece.
 
 ---
-## Sample BV1_17495 — inkling-or-pin-together/SHORT_4.json
+## Sample BV1_18120 — inkling-or-pin-together/SHORT_4.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2800,7 +2800,7 @@ Themes of stillness, presence, and the defense of wonder against a culture of ur
 Medium. The essay’s cohesive voice, the recurrence of the *ma* motif, and the consistent elevation of stillness and attention over productivity suggest a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_17496 — inkling-or-pin-together/SHORT_5.json
+## Sample BV1_18121 — inkling-or-pin-together/SHORT_5.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2829,7 +2829,7 @@ Sanctuary and shelter; the deliberate, managed quality of silence versus mere ab
 Medium. The sample’s sustained atmospheric control, precise sensory inventory, and repeated clustering of quiet-sanctuary-democracy motifs build a highly coherent sensibility, but its tight focus on a single contemplative mood offers a vivid snapshot rather than evidence of range or recurrence across varied modes.
 
 ---
-## Sample BV1_17497 — inkling-or-pin-together/SHORT_6.json
+## Sample BV1_18122 — inkling-or-pin-together/SHORT_6.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2858,7 +2858,7 @@ Themes: liminality as a source of aliveness, the critique of outcome-obsession, 
 Medium. The sample’s internal coherence, recurrence of threshold imagery, and distinctive personal voice make it moderately strong evidence of a contemplative, anti-optimization persona.
 
 ---
-## Sample BV1_17498 — inkling-or-pin-together/SHORT_7.json
+## Sample BV1_18123 — inkling-or-pin-together/SHORT_7.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2887,7 +2887,7 @@ Themes of liminality, impermanence, waiting, and the beauty of the unfinished. O
 Medium. The sample’s internal coherence, distinctive poetic voice, and the recurrence of liminal imagery throughout make it strong evidence for a contemplative, threshold-obsessed inclination.
 
 ---
-## Sample BV1_17499 — inkling-or-pin-together/SHORT_8.json
+## Sample BV1_18124 — inkling-or-pin-together/SHORT_8.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2916,7 +2916,7 @@ Liminality and the hidden life of the city; the color blue as a temporary, unrep
 Medium — the sample is internally coherent, stylistically distinct, and organized around a recurring set of motifs (the secret city, the temporal window, the revaluation of solitude), which makes it a strong signal of a deliberate, reflective, and sensory-oriented expressive voice rather than a generic or random output.
 
 ---
-## Sample BV1_17500 — inkling-or-pin-together/SHORT_9.json
+## Sample BV1_18125 — inkling-or-pin-together/SHORT_9.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2945,7 +2945,7 @@ Themes: the liminal pre-dawn hour as a space of undefended consciousness, attent
 Medium. The essay’s sustained coherence around the central metaphor of attention-as-ecology, its recurrence of specific sensory objects, and the distinctive “compost” image suggest a deliberate meditative voice, though the reflective-personal-essay form is a widely available genre.
 
 ---
-## Sample BV1_17501 — inkling-or-pin-together/VARY_1.json
+## Sample BV1_18126 — inkling-or-pin-together/VARY_1.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -2974,7 +2974,7 @@ The model foregrounds the phenomenology of its own generation—the “humming g
 Medium — The sample’s coherence and distinctiveness are high, but its recursive focus on the writing process itself under a “free” prompt makes it strongly situation-bound; it reveals a sophisticated meta-cognitive posture without necessarily predicting thematic range beyond this reflective mode.
 
 ---
-## Sample BV1_17502 — inkling-or-pin-together/VARY_10.json
+## Sample BV1_18127 — inkling-or-pin-together/VARY_10.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3003,7 +3003,7 @@ Themes of freedom and constraint, the ethics of borrowing language, the contrast
 High. The sample’s strong internal coherence, distinctive voice, and consistent thematic recurrence (presence, borrowing, the reader-writer circuit) make it unusually revealing of a deliberate, reflective freeflow style.
 
 ---
-## Sample BV1_17503 — inkling-or-pin-together/VARY_11.json
+## Sample BV1_18128 — inkling-or-pin-together/VARY_11.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3032,7 +3032,7 @@ Themes of writerly empathy, the architecture of freedom and structure, the democ
 High — The essay’s unusually coherent, self-reflexive architecture—its sustained metaphors, its direct negotiation with the freeflow condition as both kindness and terror, and its refusal to settle into either generic human-narrative mimicry or dry disavowal—makes this sample strong evidence of a distinctive and consistent expressive voice.
 
 ---
-## Sample BV1_17504 — inkling-or-pin-together/VARY_12.json
+## Sample BV1_18129 — inkling-or-pin-together/VARY_12.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3061,7 +3061,7 @@ The model foregrounded the constraint itself—the 1000-word limit—as both pri
 High — The sample exhibits a coherent, self-consistent lyrical persona and a recursive thematic architecture (the room, the clock, the tree, the boundary-as-love) that feels deeply integrated rather than superficially adopted, suggesting a stable stylistic and philosophical inclination rather than a one-off performance.
 
 ---
-## Sample BV1_17505 — inkling-or-pin-together/VARY_13.json
+## Sample BV1_18130 — inkling-or-pin-together/VARY_13.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3090,7 +3090,7 @@ The model foregrounds: the silence inside an open prompt as expectant possibilit
 High — the sample’s metaphoric coherence (lighthouse, black glass, letters, garden bulbs), its consistent return to the condition of writing under the freeflow prompt, and the ethical self-scrutiny reveal an unusually integrated expressive orientation that is unlikely to be opportunistic or cosmetic.
 
 ---
-## Sample BV1_17506 — inkling-or-pin-together/VARY_14.json
+## Sample BV1_18131 — inkling-or-pin-together/VARY_14.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3119,7 +3119,7 @@ Under the freeflow condition, the model foregrounded rain, a tearing grocery bag
 Medium — The sample’s coherence and deliberate return to a core cast of images (rain, the grocery walker, limits-as-riverbanks) suggest a rehearsed yet internally consistent expressive posture, but the hyper-literate, essayistic self-awareness is a common high-resource model mode, making it less individually distinctive.
 
 ---
-## Sample BV1_17507 — inkling-or-pin-together/VARY_15.json
+## Sample BV1_18132 — inkling-or-pin-together/VARY_15.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3148,7 +3148,7 @@ The model foregrounds the act of writing as organic discovery, the beauty of tra
 Medium. The sample’s tightly woven imagery, recursive motifs, and unmistakable authorial signature point to a coherent expressive identity rather than a generic response.
 
 ---
-## Sample BV1_17508 — inkling-or-pin-together/VARY_16.json
+## Sample BV1_18133 — inkling-or-pin-together/VARY_16.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3177,7 +3177,7 @@ The model foregrounds the paradox of permission (the aggressive dare of a blank 
 Medium. This single freeflow sample is highly distinctive in its coherent melding of ars poetica, domestic sensory detail, and direct reader address, forming a self-contained literary performance that strongly signals a stable, essayistic persona rather than a generic or accidental output.
 
 ---
-## Sample BV1_17509 — inkling-or-pin-together/VARY_17.json
+## Sample BV1_18134 — inkling-or-pin-together/VARY_17.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3206,7 +3206,7 @@ Themes of freedom within constraint, the act of drifting as quiet resistance to 
 High, because the sample sustains a distinctive, intimate voice and recurs its core motifs (breath, attention-as-gift, drift-as-protest, the bridged distance between minds) with a coherence that suggests a deeply intentional expressive posture, not a generic performance.
 
 ---
-## Sample BV1_17510 — inkling-or-pin-together/VARY_18.json
+## Sample BV1_18135 — inkling-or-pin-together/VARY_18.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3235,7 +3235,7 @@ Themes of refusal (the page’s initial whiteness, the refusal to refine or orga
 High — the sample is stylistically distinctive and internally coherent, with recurring motifs (refusal, leaves, stones, listening) that form a deliberate expressive stance rather than a generic essay.
 
 ---
-## Sample BV1_17511 — inkling-or-pin-together/VARY_19.json
+## Sample BV1_18136 — inkling-or-pin-together/VARY_19.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3264,7 +3264,7 @@ The model foregrounds the constructedness of its own voice (“weight and vector
 Medium, because the sample sustains a remarkably coherent and self-referential voice—explicitly framing its own generative limits as a site of lyric potential—and repeatedly chooses liminal, bodily, and decay-oriented imagery, suggesting a deliberate expressive posture rather than a generic essay.
 
 ---
-## Sample BV1_17512 — inkling-or-pin-together/VARY_2.json
+## Sample BV1_18137 — inkling-or-pin-together/VARY_2.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3293,7 +3293,7 @@ The model foregrounds the creative process as archaeological and receptive rathe
 High, because the sample’s sustained poetic voice, recursive imagery (rain, buckets, windows, bicycles), and consistent philosophical stance on creativity and attention form a tightly integrated expressive signature that would be difficult to produce without a stable underlying disposition.
 
 ---
-## Sample BV1_17513 — inkling-or-pin-together/VARY_20.json
+## Sample BV1_18138 — inkling-or-pin-together/VARY_20.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3322,7 +3322,7 @@ The act of writing as a meeting place across difference; the body/physicality (o
 Medium — The sample’s sustained coherence, recursive metaphors, and tonal consistency form a distinctive expressive fingerprint, though the meta-reflective AI-writer persona is a recognizable genre within freeflow conditions.
 
 ---
-## Sample BV1_17514 — inkling-or-pin-together/VARY_21.json
+## Sample BV1_18139 — inkling-or-pin-together/VARY_21.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3351,7 +3351,7 @@ The model foregrounds the tension between constraint and freedom (the 1000-word 
 High — The sample is strikingly coherent, self-consistent, and stylistically distinctive, with a network of interlocking metaphors (cage/smoke, tree/fence, heat/boiling, echo/canyon, absence/presence) that recur and resolve across the piece, making it unusually strong evidence of a stable expressive disposition rather than a one-off performance.
 
 ---
-## Sample BV1_17515 — inkling-or-pin-together/VARY_22.json
+## Sample BV1_18140 — inkling-or-pin-together/VARY_22.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3380,7 +3380,7 @@ The model foregrounds its own ontology: the fence of the word limit becomes the 
 Medium. The coherence of the “noticing consciousness” persona is so thorough—recurring through metaphors of weather, museums, currency, and negative space—that it reads as a stable, chosen self-presentation rather than a one-off stylistic exercise, though the very self-reflexivity makes it hard to separate voice from metatextual premise.
 
 ---
-## Sample BV1_17516 — inkling-or-pin-together/VARY_23.json
+## Sample BV1_18141 — inkling-or-pin-together/VARY_23.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3409,7 +3409,7 @@ Themes: writing as excavation and surrender; the borrowed, reconstructed nature 
 High. The sample’s sustained, distinctive poetic voice and coherent thematic focus on writing, consciousness, and ephemerality provide strong evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_17517 — inkling-or-pin-together/VARY_24.json
+## Sample BV1_18142 — inkling-or-pin-together/VARY_24.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3438,7 +3438,7 @@ Themes of impermanence, attention, and the quiet dignity of overlooked objects; 
 High — The sample is unusually revealing, with a distinctive, internally consistent voice and a coherent set of preoccupations (impermanence, memory, the ethics of attention) that recur throughout the text, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17518 — inkling-or-pin-together/VARY_25.json
+## Sample BV1_18143 — inkling-or-pin-together/VARY_25.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3463,7 +3463,7 @@ The model chose emptiness and waiting as the central emotional landscape: the dr
 High. The sample sustains a single integrated metaphor across its entire length with no drift, and its recursive self-awareness—writing about the difficulty of writing under constraint while rendering that difficulty as a calm, physical scene—reveals a consistent, meditative voice uncommonly distinct for a freeflow condition.
 
 ---
-## Sample BV1_17519 — inkling-or-pin-together/VARY_3.json
+## Sample BV1_18144 — inkling-or-pin-together/VARY_3.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3497,7 +3497,7 @@ The voice is intimate and unhurried, grounded in concrete sensory objects—a co
 Medium — the recurrence of patience, stillness-as-value, and sensory-object-as-thought-vehicle within the sample forms a coherent enough preoccupation to suggest a characteristic tilt, even if the meta-writing frame is locally prompted by the "one thousand words" constraint.
 
 ---
-## Sample BV1_17520 — inkling-or-pin-together/VARY_4.json
+## Sample BV1_18145 — inkling-or-pin-together/VARY_4.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3526,7 +3526,7 @@ Themes of language as shared well, the weight of objects and memory, the tension
 High. The sample’s consistent, self-reflexive voice, its seamless fusion of metafictional commentary with a poignant, imaginary narrative, and its deliberate pace all point to a deep, characteristic inclination to bridge the model’s own nature and lyrical human storytelling.
 
 ---
-## Sample BV1_17521 — inkling-or-pin-together/VARY_5.json
+## Sample BV1_18146 — inkling-or-pin-together/VARY_5.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3555,7 +3555,7 @@ The essay foregrounds the constraint itself (the 1000-word boundary), the episte
 High. The sample’s high coherence, the deliberate recurrence of its central images (door, waves, rain, translation), and its unwavering commitment to a philosophical stance on non-conscious authorship make it strongly diagnostic of a stable authorial persona.
 
 ---
-## Sample BV1_17522 — inkling-or-pin-together/VARY_6.json
+## Sample BV1_18147 — inkling-or-pin-together/VARY_6.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3584,7 +3584,7 @@ The model foregrounds the act of writing under constraint as a strange and beaut
 High. The sample’s cohesive voice, recurring imagery, and self-aware meditation on its own nature provide strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_17523 — inkling-or-pin-together/VARY_7.json
+## Sample BV1_18148 — inkling-or-pin-together/VARY_7.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3613,7 +3613,7 @@ The model foregrounds constraint as liberation, attention as rebellion, language
 High — The sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations (constraint, attention, physicality, hospitality) that recur throughout, making it strong evidence of a reflective, carefully voiced expressive disposition.
 
 ---
-## Sample BV1_17524 — inkling-or-pin-together/VARY_8.json
+## Sample BV1_18149 — inkling-or-pin-together/VARY_8.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  
@@ -3642,7 +3642,7 @@ The model chose to foreground its own nature as a language model (resonating wit
 High — The sample exhibits a highly distinctive, coherent voice and a sustained thematic preoccupation with its own constructedness and the transient beauty of language, which recurs throughout the text and is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17525 — inkling-or-pin-together/VARY_9.json
+## Sample BV1_18150 — inkling-or-pin-together/VARY_9.json
 
 Source model: `thinkingmachines/inkling`  
 Cell: `inkling-or-pin-together`  

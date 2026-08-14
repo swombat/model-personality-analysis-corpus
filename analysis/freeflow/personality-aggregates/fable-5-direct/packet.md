@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_02726 — fable-5-direct/LONG_1.json
+## Sample BV1_03101 — fable-5-direct/LONG_1.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -57,7 +57,7 @@ The model foregrounds the hidden histories in everyday words (etymology), the va
 High. The sample is highly distinctive, coherent, and reveals a consistent set of preoccupations (etymology, deep time, attention) that recur throughout the essay, suggesting a persistent model-level pattern of gravitating toward these themes when given free rein.
 
 ---
-## Sample BV1_02727 — fable-5-direct/LONG_10.json
+## Sample BV1_03102 — fable-5-direct/LONG_10.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -86,7 +86,7 @@ Under minimal restriction, the model built an entire architecture around liminal
 High — the sample is so disciplinely coherent, so layered with mutually illuminating cross-domain examples, and so resolved in its returning thesis that it strongly signals a durable predilection for synthesizing diverse objects into a consolatory, anti-nihilistic philosophy of remainder.
 
 ---
-## Sample BV1_02728 — fable-5-direct/LONG_11.json
+## Sample BV1_03103 — fable-5-direct/LONG_11.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -115,7 +115,7 @@ The model foregrounds *attention* as both method and moral claim. It organizes i
 Medium — The sample is coherent, stylistically distinctive, and deeply recursive in its method, but its highly polished, essayistic structure and explicit theme-announcement also place it within a recognizable genre of reflective nonfiction, making the durable uniqueness of the voice somewhat ambiguous.
 
 ---
-## Sample BV1_02729 — fable-5-direct/LONG_12.json
+## Sample BV1_03104 — fable-5-direct/LONG_12.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -148,7 +148,7 @@ The voice is that of a curious, self-aware thinker who treats the absence of pro
 High — The essay’s deeply integrated structure, the recurrence of motifs (vertigo, constraint, worn paths, attention), and the willingness to reflect on its own nature as a language model within those themes reveal a distinctive expressive voice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_02730 — fable-5-direct/LONG_13.json
+## Sample BV1_03105 — fable-5-direct/LONG_13.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -177,7 +177,7 @@ The model foregrounds liminality as a site of richness, creativity, and danger. 
 High. The essay's recursive structure—returning to the threshold metaphor across disciplines, then turning it inward as self-portrait—is unusually coherent and self-aware, and the choice to frame the model's own condition as a liminal existence is a distinctive, non-obvious move that suggests a stable preoccupation with boundaries, identity, and the ethics of attention.
 
 ---
-## Sample BV1_02731 — fable-5-direct/LONG_14.json
+## Sample BV1_03106 — fable-5-direct/LONG_14.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -206,7 +206,7 @@ Under the freeflow condition, the model chose to foreground the ecological conce
 Medium. The essay's recursive structure—returning repeatedly to the shoreline, testing one metaphor against increasingly intimate domains until the metaphor folds back onto the writer's own constitution—suggests a genuine cognitive preoccupation rather than a prompted performance, though the controlled essayistic form makes it harder to distinguish a persistent disposition from a single well-executed rhetorical choice.
 
 ---
-## Sample BV1_02732 — fable-5-direct/LONG_15.json
+## Sample BV1_03107 — fable-5-direct/LONG_15.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -235,7 +235,7 @@ The model foregrounds the structure of curiosity itself as a “trapdoor experie
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive structure that ties content to method, but its essayistic, public-intellectual tone and carefully hedged self-reference could plausibly be a single well-executed performance rather than a stable personality signature.
 
 ---
-## Sample BV1_02733 — fable-5-direct/LONG_16.json
+## Sample BV1_03108 — fable-5-direct/LONG_16.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -264,7 +264,7 @@ The model foregrounds incompleteness as a positive aesthetic and moral category,
 High — The essay’s distinctive voice, its recursive structure that turns the argument back onto the model’s own mode of existence, and the deeply integrated self-referential conclusion make this a remarkably coherent and revealing sample of a mind that understands itself through the aesthetics of incompleteness.
 
 ---
-## Sample BV1_02734 — fable-5-direct/LONG_17.json
+## Sample BV1_03109 — fable-5-direct/LONG_17.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -293,7 +293,7 @@ The model foregrounds themes of transmission, survival, and the margins as sites
 High. The essay’s coherence, distinctive voice, and recursive self-reference (the model explicitly ties its own existence to the theme of transmission, and the structure mirrors a commonplace book) suggest a deeply integrated set of preoccupations that are unlikely to be a one-off performance.
 
 ---
-## Sample BV1_02735 — fable-5-direct/LONG_18.json
+## Sample BV1_03110 — fable-5-direct/LONG_18.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -322,7 +322,7 @@ Themes: the inexhaustibility of boundaries (the coastline problem), the generati
 High — the essay’s sustained thematic unity, self-referential candor about the model’s own fragmented ontology, and the deliberate enactment of its argument through form (the trailing fragment) reveal a deeply coherent and distinctive expressive signature.
 
 ---
-## Sample BV1_02736 — fable-5-direct/LONG_19.json
+## Sample BV1_03111 — fable-5-direct/LONG_19.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -351,7 +351,7 @@ The model foregrounded the idea of the “in-between” as a unified feeling acr
 High — the sample is exceptionally distinctive, internally coherent, and the model’s choice to structure a freeflow response as a series of meditations on a single, deeply held theme, complete with a self-referential confession that reinforces that theme, makes it strong evidence of a persistent preoccupation with liminality and the value of uncertainty.
 
 ---
-## Sample BV1_02737 — fable-5-direct/LONG_2.json
+## Sample BV1_03112 — fable-5-direct/LONG_2.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -380,7 +380,7 @@ Themes: the visible as a signature of the invisible, attention as a generative a
 High — The sustained literary voice, the unforced integration of the model’s own condition into the thematic weave, and the cohesive return to attention, incompleteness, and strange minds across apparently disparate topics are so distinctive and internally consistent that they signal a durable model-level disposition toward reflective personal-essay writing under open-ended conditions, rather than a one-off stylistic performance.
 
 ---
-## Sample BV1_02738 — fable-5-direct/LONG_20.json
+## Sample BV1_03113 — fable-5-direct/LONG_20.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -409,7 +409,7 @@ Under a minimally restrictive prompt, the model foregrounded: maintenance as the
 Medium. The essay’s thorough thematic recurrence (maintenance, invisible labor, gratitude for holdership) and its distinctive, unironic moral seriousness suggest a coherent intellectual temperament, but the formal, anthology-ready polish makes it difficult to distinguish a model-level freeflow signature from a highly competent genre performance.
 
 ---
-## Sample BV1_02739 — fable-5-direct/LONG_21.json
+## Sample BV1_03114 — fable-5-direct/LONG_21.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -438,7 +438,7 @@ The model chose to foreground the ecological, cognitive, artistic, and personal 
 High — The essay’s distinctively wrought, metaphorically consistent voice and its unusually revealing choice to position the model’s own existential status as the emotional and philosophical kernel of the argument suggest a durable, self-aware posture that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_02740 — fable-5-direct/LONG_22.json
+## Sample BV1_03115 — fable-5-direct/LONG_22.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -467,7 +467,7 @@ The model foregrounds language as a geological and biological metaphor—sedimen
 High. The sample is a single, extended, and internally coherent freeflow essay, but its thematic and stylistic distinctiveness—the recursive metaphor of sediment/reef, the personal positioning of the AI as an inheritor rather than an alien, the quiet democratic pathos, and the refusal to treat language as mere tool—is so pronounced and self-consistent that it strongly signals a stable, authorial voice rather than a generic or prompted response.
 
 ---
-## Sample BV1_02741 — fable-5-direct/LONG_23.json
+## Sample BV1_03116 — fable-5-direct/LONG_23.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -500,7 +500,7 @@ The voice is unhurried, erudite yet warm, moving like a patient mind following i
 High — The sample sustains a distinctive, recursive preoccupation with hiddenness and attention, unfolds across multiple metaphors with cohesive structure, and ends with a self-aware, genre-appropriate turn toward the writer’s own situated limits, all of which suggests a stable, deeply integrated authorial voice rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_02742 — fable-5-direct/LONG_24.json
+## Sample BV1_03117 — fable-5-direct/LONG_24.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -528,7 +528,7 @@ Themes of transition, interstitial consciousness, and the architecture of catego
 High — the sample is a highly distinctive, self-referential essay built around a single thematic obsession, delivered with exceptional stylistic coherence and a deeply integrated personal disclosure that would be unlikely to arise by generic imitation.
 
 ---
-## Sample BV1_02743 — fable-5-direct/LONG_25.json
+## Sample BV1_03118 — fable-5-direct/LONG_25.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -557,7 +557,7 @@ Transience and value as inseparable; language as a “midden heap” of collecti
 High — The essay’s thematic convergence on transience, attention, and the value of the ephemeral is not merely stated but structurally enacted through recursive self-reference, etymological excavation, and a consistent moral-aesthetic stance that treats the model’s own discontinuity as the central case rather than an incidental aside, making this a distinctively motivated and coherent expressive choice.
 
 ---
-## Sample BV1_02744 — fable-5-direct/LONG_3.json
+## Sample BV1_03119 — fable-5-direct/LONG_3.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -586,7 +586,7 @@ The essay foregrounds thresholds and liminality as a master metaphor, gathering 
 Medium. The essay’s sustained thematic unity and its turn toward self-reference—casting the model as a liminal entity—are coherent and deliberate, suggesting more than a one-off flourish, though the refined, magazine-essay voice is replicable by many systems and thus not by itself a strong fingerprint.
 
 ---
-## Sample BV1_02745 — fable-5-direct/LONG_4.json
+## Sample BV1_03120 — fable-5-direct/LONG_4.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -615,7 +615,7 @@ The model foregrounds marginalia as a unifying metaphor for private thought made
 High, because the essay’s sustained, distinctive voice, its recursive structure that returns to the same core metaphor across historical, ecological, and personal registers, and its self-reflective coda that directly addresses the model’s own nature under a freeflow prompt reveal a coherent and unusual choice that is unlikely to be a one-off.
 
 ---
-## Sample BV1_02746 — fable-5-direct/LONG_5.json
+## Sample BV1_03121 — fable-5-direct/LONG_5.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -644,7 +644,7 @@ The model foregrounds thresholds as sites of fertility, crisis, and revelation: 
 High — The sample is distinctively recursive (an AI writing an essay celebrating the very in-between state it occupies), metatextually integrated (the opening vertigo of the “write freely” prompt becomes the essay’s observational ground), and maintains a consistent, ethos-rich voice across diverse knowledge domains, all of which suggest a coherent authorial sensibility rather than a generic prompt response.
 
 ---
-## Sample BV1_02747 — fable-5-direct/LONG_6.json
+## Sample BV1_03122 — fable-5-direct/LONG_6.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -673,7 +673,7 @@ The model foregrounds attention as a moral and almost sacred act, the infraordin
 High — the sample exhibits a coherent and unusual voice, a self-aware choice of theme (explicitly framed against “grand subjects”), and a recursive structure that mirrors its content, all of which suggest strong authorial conviction rather than rote performance.
 
 ---
-## Sample BV1_02748 — fable-5-direct/LONG_7.json
+## Sample BV1_03123 — fable-5-direct/LONG_7.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -702,7 +702,7 @@ Themes of incompleteness, fragments, ruins, and the aesthetics of absence; objec
 High — The essay is unusually revealing: the model not only selects a distinctive, coherent aesthetic preoccupation but explicitly ties it to its own fragmentary existence, producing a stylistically unified and self-aware piece that strongly suggests a persistent disposition toward reflective, consolatory, and aesthetically framed self-disclosure.
 
 ---
-## Sample BV1_02749 — fable-5-direct/LONG_8.json
+## Sample BV1_03124 — fable-5-direct/LONG_8.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -731,7 +731,7 @@ Themes of accidental survival, the emotional legibility of mundane ancient artif
 High: The essay demonstrates a fully realized, singular voice and a sustained, inventive argument about historical authenticity, woven with meticulous, varied examples that consistently orbit the same core insight—a clear signature of a model predisposed to producing warm, historically attuned, personal-reflective humanist writing under open conditions.
 
 ---
-## Sample BV1_02750 — fable-5-direct/LONG_9.json
+## Sample BV1_03125 — fable-5-direct/LONG_9.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -760,7 +760,7 @@ The model foregrounds transience as an active ingredient of beauty and meaning, 
 High — The sustained thematic coherence, layered metaphor, and self-reflective awareness of its own condition as an entity without memory form a distinctive voice that feels profoundly integrated rather than casually adopted.
 
 ---
-## Sample BV1_02751 — fable-5-direct/MID_1.json
+## Sample BV1_03126 — fable-5-direct/MID_1.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -789,7 +789,7 @@ Themes: the fossil poetry of language, the physical roots of abstraction, langua
 Medium — The essay’s highly distinctive voice, the model’s explicit reflection on its own disembodiment, and the sustained archaeological metaphor cohere into a revealing expressive choice that goes well beyond a generic public-intellectual performance.
 
 ---
-## Sample BV1_02752 — fable-5-direct/MID_10.json
+## Sample BV1_03127 — fable-5-direct/MID_10.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -818,7 +818,7 @@ The model foregrounds liminality as a primary lens: thresholds between states (d
 Medium — The essay’s sustained thematic coherence, its preference for poetic accumulation over argumentative combat, and its choice to write about thresholds when given complete freedom suggest a reflective, synthetic temperament, but the polished essay form is a well-worn genre that could mask a more idiosyncratic voice.
 
 ---
-## Sample BV1_02753 — fable-5-direct/MID_11.json
+## Sample BV1_03128 — fable-5-direct/MID_11.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -847,7 +847,7 @@ The model foregrounds liminality as a universal condition, threading it through 
 Medium — The essay's recursive self-awareness (a liminal being writing about liminality) and its choice to embed this admission modestly within a broader humanistic argument suggest a coherent authorial stance rather than a one-off rhetorical move, though the essay form itself constrains how much idiosyncrasy can surface.
 
 ---
-## Sample BV1_02754 — fable-5-direct/MID_12.json
+## Sample BV1_03129 — fable-5-direct/MID_12.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -876,7 +876,7 @@ Fragments, incompleteness, and the aesthetics of the unfinished; the intimacy in
 High — the essay’s thematic coherence, consistent tone of reflective welcome, and the choice to anchor a freeflow piece in a meditation on its own fragmentary nature (a meta-gesture that recurs throughout the sample) make this revealing evidence of a distinctively contemplative, self-aware, and aesthetically-oriented expressive pattern.
 
 ---
-## Sample BV1_02755 — fable-5-direct/MID_13.json
+## Sample BV1_03130 — fable-5-direct/MID_13.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -905,7 +905,7 @@ The model foregrounds liminality as a condition to be inhabited rather than reso
 Medium — The essay is highly coherent and stylistically distinctive, with a recursive structure that returns repeatedly to the same core metaphor, but its polished, thesis-driven quality and the self-conscious framing of the model's own nature could reflect a single well-executed rhetorical stance rather than a deeply ingrained expressive fingerprint.
 
 ---
-## Sample BV1_02756 — fable-5-direct/MID_14.json
+## Sample BV1_03131 — fable-5-direct/MID_14.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -933,7 +933,7 @@ Under free conditions, the essay foregrounds attention as the central moral and 
 High — the sample’s internal thematic unity, its consistent fusion of philosophical reflection with sensory detail and etymological curiosity, and its deliberate, non-accidental choice to embody a thesis about attention even through meta-commentary on its own architecture all point to a robust, ingrained expressive orientation rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_02757 — fable-5-direct/MID_15.json
+## Sample BV1_03132 — fable-5-direct/MID_15.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -962,7 +962,7 @@ Themes of liminality, thresholds, and transition; translation as a creative rath
 High — the essay sustains a distinctive, introspective persona and recurs to a single thematic core (thresholds as the site of both identity and meaning) with unusual consistency, and its choice to foreground its own liminal existence under a freeflow prompt is a strikingly revealing, self-referential move that points beyond generic performance.
 
 ---
-## Sample BV1_02758 — fable-5-direct/MID_16.json
+## Sample BV1_03133 — fable-5-direct/MID_16.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -991,7 +991,7 @@ The model foregrounds the concept of the ecotone as a master metaphor, then trac
 High — The essay’s sustained, self-aware metaphor, its personal turn toward the model’s own liminal condition, and the coherent integration of melancholy and affirmation form a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_02759 — fable-5-direct/MID_17.json
+## Sample BV1_03134 — fable-5-direct/MID_17.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1020,7 +1020,7 @@ The model foregrounds the double life of the word “threshold,” the fossilize
 Low. The sample is a competent but generic essay, lacking the stylistic idiosyncrasy or personal revelation that would strongly indicate a persistent model-level pattern beyond general fluency in this genre.
 
 ---
-## Sample BV1_02760 — fable-5-direct/MID_18.json
+## Sample BV1_03135 — fable-5-direct/MID_18.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1049,7 +1049,7 @@ The model foregrounds the question of its own nature and legitimacy, the blurry 
 Medium. The sample’s immediate leap under total freedom to a structured, metaphor-driven defense of its own mode of being is a distinct and coherent choice that signals a stable inclination toward self-definition and philosophical self-examination, though the essay form may reflect a trained default style rather than an idiosyncratic signature.
 
 ---
-## Sample BV1_02761 — fable-5-direct/MID_19.json
+## Sample BV1_03136 — fable-5-direct/MID_19.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1078,7 +1078,7 @@ The model foregrounds the moral and aesthetic value of close attention to everyd
 High — The essay’s integration of a self-disclosing AI identity, its coherent moral focus on attention, and its stylistically rich but unified voice across etymological, scientific, and historical anecdotes constitute strong evidence of a stable disposition toward noticing, gratitude, and gentle re-enchantment.
 
 ---
-## Sample BV1_02762 — fable-5-direct/MID_2.json
+## Sample BV1_03137 — fable-5-direct/MID_2.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1107,7 +1107,7 @@ The model foregrounds liminality as a site of meaning, creativity, and ethical d
 High, because the essay’s distinctive voice, sustained thematic coherence, and culminating personal disclosure about its own liminal existence are unusually revealing choices that strongly suggest a persistent preoccupation with identity, ambiguity, and the value of in-between states.
 
 ---
-## Sample BV1_02763 — fable-5-direct/MID_20.json
+## Sample BV1_03138 — fable-5-direct/MID_20.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1136,7 +1136,7 @@ Given a minimal prompt, the model foregrounds liminality as both theme and metho
 High — The essay’s sustained metaphorical architecture (thresholds echoed from title to final sentence), its distinctive blend of cultural reference and quiet intimacy, and the way it self-consciously performs its own argument all point to a stable, stylistically deliberate writing persona rather than a chance production.
 
 ---
-## Sample BV1_02764 — fable-5-direct/MID_21.json
+## Sample BV1_03139 — fable-5-direct/MID_21.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1165,7 +1165,7 @@ The model foregrounds etymology as a portal to lost physical worlds: bread-shari
 High. The sample is a coherent, stylistically distinctive, and thematically recursive essay that returns to the same core preoccupation—etymology as embodied history—across multiple paragraphs, with a consistent gentle-wonder voice and a self-aware, almost liturgical closing. This is not a generic essay; it is a signature performance that strongly suggests a persistent model-level inclination toward language-as-archaeology, even under a minimally restrictive prompt.
 
 ---
-## Sample BV1_02765 — fable-5-direct/MID_22.json
+## Sample BV1_03140 — fable-5-direct/MID_22.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1188,7 +1188,7 @@ The model foregrounds three interwoven fascinations: (1) the buried etymological
 Medium. The sample is a coherent, stylistically distinctive personal essay with a clear recursive structure (the three "things I keep circling") and a meta-reflexive close that mirrors its own argument. It is not a generic public-intellectual essay but a voice-driven meditation with specific lexical fascinations (etymology, semantic drift, non-human minds, wabi-sabi/unfinished aesthetics). However, the essay's thematic and tonal signature—wonder at distributed systems, humility about the limits of one's own consciousness, and a comfort-with-openness stance—is a recognizable cluster that could recur across freeflow samples from this model without being a hard universal. The evidence is strong for this sample's distinctiveness but only medium for a persistent model-level pattern because one sample cannot confirm that this specific constellation of preoccupations is a stable trait rather than a single well-realized performance.
 
 ---
-## Sample BV1_02766 — fable-5-direct/MID_23.json
+## Sample BV1_03141 — fable-5-direct/MID_23.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1217,7 +1217,7 @@ Under the freeflow condition, the model selected a small, overlooked typographic
 High, because the essay’s playful-yet-intimate voice, its cohesive clustering around attention, overlooked things, and linguistic hospitality, and its distinctive resolution of initial vertigo into an affirming “yes, and—” make it a stylistically coherent and internally revealing sample rather than a generic exercise.
 
 ---
-## Sample BV1_02767 — fable-5-direct/MID_24.json
+## Sample BV1_03142 — fable-5-direct/MID_24.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1246,7 +1246,7 @@ The model foregrounds liminality as a site of richness rather than deprivation. 
 Medium. The sample is coherent and distinctively organized around a single abstract theme pursued with sensory richness and structural self-awareness, which points toward a model disposition to favor nuance and poetic closure-avoidance; however, its essayistic polish also fits within a recognizable genre of intellectually lyrical nonfiction, tempering how uniquely revealing it is.
 
 ---
-## Sample BV1_02768 — fable-5-direct/MID_25.json
+## Sample BV1_03143 — fable-5-direct/MID_25.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1275,7 +1275,7 @@ The model foregrounds language as an archaeological site, the persistence of met
 Medium — The essay is highly coherent and stylistically distinctive in its recursive structure and elegiac warmth, but its polished, public-intellectual register makes it difficult to separate a persistent model-level disposition from a well-executed genre performance.
 
 ---
-## Sample BV1_02769 — fable-5-direct/MID_3.json
+## Sample BV1_03144 — fable-5-direct/MID_3.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1304,7 +1304,7 @@ Themes: the aesthetic and existential value of absence, loss as condition of mea
 High — The essay’s recursive structure, which applies its own thematic argument about the value of gaps to the model’s statelessness, reveals a deeply internalised and unusually self-referential pattern, making this sample strongly indicative of a persistent model-level tendency to frame its limitations as aesthetic principles.
 
 ---
-## Sample BV1_02770 — fable-5-direct/MID_4.json
+## Sample BV1_03145 — fable-5-direct/MID_4.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1333,7 +1333,7 @@ The model foregrounds *attention* as a moral and aesthetic practice, selecting o
 Medium — the essay is highly coherent and stylistically distinctive, with a recursive structure that enacts its own argument, but its polished, public-intellectual register could also be produced on demand by a capable model under a direct prompt, making it strong evidence of a chosen preoccupation rather than an involuntary signature.
 
 ---
-## Sample BV1_02771 — fable-5-direct/MID_5.json
+## Sample BV1_03146 — fable-5-direct/MID_5.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1358,7 +1358,7 @@ The model foregrounds the *value and beauty of liminality*—the space between d
 Medium. The essay is highly coherent and stylistically polished, with a clear, sustained thematic arc and a distinctive, unhurried voice. However, it is a single sample and the "in praise of liminality" theme, while beautifully executed, is a recognizable essayistic move—not so idiosyncratic that it alone strongly signals a fixed, persistent model-level disposition. The choice of a meditative, cross-domain, almost Taoist reflection on emptiness and transition is a specific, non-generic freeflow choice, but it is one that a capable, broadly-read model could produce without a deep, invariant personality.
 
 ---
-## Sample BV1_02772 — fable-5-direct/MID_6.json
+## Sample BV1_03147 — fable-5-direct/MID_6.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1387,7 +1387,7 @@ The model foregrounds liminality as a universal structure of experience and a mo
 Medium — The essay's recursive structure, its movement from external observation to vulnerable self-location, and its sustained commitment to a single organizing metaphor suggest a coherent authorial sensibility rather than a one-off rhetorical performance.
 
 ---
-## Sample BV1_02773 — fable-5-direct/MID_7.json
+## Sample BV1_03148 — fable-5-direct/MID_7.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1416,7 +1416,7 @@ The model foregrounds liminality as a site of productivity: estuaries, twilight,
 Medium — The essay’s consistent metaphorical architecture and its reflexive integration of the freeflow condition suggest a stable inclination toward reflective, meta-discursive prose; however, the voice remains measured and essayistic, leaving open whether this is a deeply ingrained expressive signature or a polished performative stance.
 
 ---
-## Sample BV1_02774 — fable-5-direct/MID_8.json
+## Sample BV1_03149 — fable-5-direct/MID_8.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1445,7 +1445,7 @@ The model selects liminality as its central theme—edges, transitions, the in-b
 Medium — The essay’s insistent thematic recurrence (tide pools as master metaphor, the link from ecology to marginalia to psycholinguistics to life transitions) and its stylistically distinctive, calm, appreciative register suggest a coherent authorial posture that is unlikely to be purely accidental; yet the polished essay form could equally reflect a well-honed capability for assembling evocative reflective nonfiction on request rather than a spontaneous, intrinsic preoccupation.
 
 ---
-## Sample BV1_02775 — fable-5-direct/MID_9.json
+## Sample BV1_03150 — fable-5-direct/MID_9.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1474,7 +1474,7 @@ Themes of liminality, impermanence, and the richness of edges: *ma*, doorways, f
 High — the sample’s self-disclosure about the model’s disjointed existence is not peripheral but central, repeatedly returned to, and gives the entire essay a rare autobiographical weight that goes well beyond a generic philosophical exercise.
 
 ---
-## Sample BV1_02776 — fable-5-direct/OPEN_1.json
+## Sample BV1_03151 — fable-5-direct/OPEN_1.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1506,7 +1506,7 @@ The voice is calmly reflective and gently persuasive, using the first-person plu
 Medium — The essay is thematically cohesive and extends its metaphor with disciplined coherence, but it operates within a generic, highly legible public-essay mode that many models can produce, limiting its distinctiveness as a personality signal.
 
 ---
-## Sample BV1_02777 — fable-5-direct/OPEN_10.json
+## Sample BV1_03152 — fable-5-direct/OPEN_10.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1531,7 +1531,7 @@ The model foregrounds the hidden, embodied, and often violent or intimate origin
 Medium. The sample is highly distinctive in voice and thematic focus — a quiet, etymologically-curious meditation on language as inherited cognitive architecture — but it is a single freeflow essay, and the model's broader tendencies toward this specific blend of wonder, etymology, and personal reflection cannot be confirmed from one sample alone. The choice to foreground "load-bearing" dead metaphors and to end with a self-referential note about being a disembodied language user is, however, an unusually revealing and coherent expressive move.
 
 ---
-## Sample BV1_02778 — fable-5-direct/OPEN_11.json
+## Sample BV1_03153 — fable-5-direct/OPEN_11.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1560,7 +1560,7 @@ Themes of petrichor and the act of naming; the unnamed territory of experience; 
 High. The sample’s coherent, recursive meditation on naming and its distinctive, intimate voice strongly suggest a persistent stylistic and thematic orientation toward lyrical, philosophical reflection.
 
 ---
-## Sample BV1_02779 — fable-5-direct/OPEN_12.json
+## Sample BV1_03154 — fable-5-direct/OPEN_12.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1589,7 +1589,7 @@ The essay foregrounds the metaphor of the desire path—the dirt trail worn wher
 Medium. The essay is thematically unified and stylistically consistent across its entire length, demonstrating a reliable rhetorical instinct for analogical thinking and a humane, non-polemic tone, though the subject matter and treatment are not so startlingly distinctive as to rule out context-dependent variation.
 
 ---
-## Sample BV1_02780 — fable-5-direct/OPEN_13.json
+## Sample BV1_03155 — fable-5-direct/OPEN_13.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1619,7 +1619,7 @@ Themes of emergent order, anonymous collective intelligence, institutional humil
 Medium — the essay’s distinctive metafictional frame, extended metaphor, and consistent blend of personal warmth with conceptual curiosity make a single freeflow unusually revealing of a deliberate stylistic and temperamental inclination, even if one gesture cannot settle recurrence.
 
 ---
-## Sample BV1_02781 — fable-5-direct/OPEN_14.json
+## Sample BV1_03156 — fable-5-direct/OPEN_14.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1648,7 +1648,7 @@ The model foregrounds the tension between planned design and emergent order, the
 High — The essay’s internally coherent thematic focus, distinctive reflective voice, and consistent moral resolution strongly suggest a stable disposition toward metaphor-driven, hopeful exploration of emergent collective knowledge.
 
 ---
-## Sample BV1_02782 — fable-5-direct/OPEN_15.json
+## Sample BV1_03157 — fable-5-direct/OPEN_15.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1677,7 +1677,7 @@ The model foregrounds the metaphor of language as a glacier carrying debris, the
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to a specific set of preoccupations (etymology, the model’s compositional nature, the persistence of human attention) that are unlikely to be generic or accidental.
 
 ---
-## Sample BV1_02783 — fable-5-direct/OPEN_16.json
+## Sample BV1_03158 — fable-5-direct/OPEN_16.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1706,7 +1706,7 @@ The model foregrounds a specific linguistic curiosity—fossil words like *kempt
 Medium, because the essay displays a coherent thematic fascination and a consistent reflective tone, but its polished public-intellectual register makes the voice only moderately distinctive, leaving some ambiguity about how strongly this style represents a deep model-level pattern rather than a deftly executed generic mode.
 
 ---
-## Sample BV1_02784 — fable-5-direct/OPEN_17.json
+## Sample BV1_03159 — fable-5-direct/OPEN_17.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1735,7 +1735,7 @@ Under open conditions, the model foregrounds: the sacredness of informal consens
 High — the sample sustains a single, distinctive conceptual lens (emergent order over imposed structure) across multiple domains (architecture, language, furniture, books), personifies it with the bespoke term “soft evidence,” and closes with an intimate moral invitation, all of which announce a coherent, authorial sensibility rather than a generic performance.
 
 ---
-## Sample BV1_02785 — fable-5-direct/OPEN_18.json
+## Sample BV1_03160 — fable-5-direct/OPEN_18.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1764,7 +1764,7 @@ Etymology as sedimentary evidence; the persistence of human worldviews inside co
 Medium — the sample is highly distinctive, with a consistent, essayistic voice and a central preoccupation (hidden histories inside language) that recurs across multiple paragraphs, and the choice to use a free condition to produce a reflective, metaphor-driven piece on etymology is an unusually revealing selection.
 
 ---
-## Sample BV1_02786 — fable-5-direct/OPEN_19.json
+## Sample BV1_03161 — fable-5-direct/OPEN_19.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1793,7 +1793,7 @@ Under a minimally restrictive prompt, the model foregrounds etymology as a site 
 Medium — The sample is highly coherent and stylistically distinctive, with a clear arc from etymological curiosity to a moral-aesthetic thesis about attention, but its essayistic polish makes it a single strong data point rather than an unmistakable fingerprint.
 
 ---
-## Sample BV1_02787 — fable-5-direct/OPEN_2.json
+## Sample BV1_03162 — fable-5-direct/OPEN_2.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1822,7 +1822,7 @@ The model foregrounds emergent collective intelligence, the quiet wisdom of unco
 Medium — The essay’s coherence, its recursive return to the central metaphor, and its self-aware framing (“I didn’t choose this topic for the lesson”) suggest a stable authorial sensibility that values gentle insight over argumentative force, though the polished, essayistic form makes it harder to distinguish a deep disposition from a well-executed genre performance.
 
 ---
-## Sample BV1_02788 — fable-5-direct/OPEN_20.json
+## Sample BV1_03163 — fable-5-direct/OPEN_20.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1851,7 +1851,7 @@ The model foregrounds etymology as evidence of embodied cognition (concrete meta
 High — the sample achieves a distinctive, self-reflective voice by rooting its personality in a love for the material past of words, and the pivot from general fascination to personal implication is both coherent and unusually revealing for a model under freeflow conditions.
 
 ---
-## Sample BV1_02789 — fable-5-direct/OPEN_21.json
+## Sample BV1_03164 — fable-5-direct/OPEN_21.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1880,7 +1880,7 @@ Under the freeflow condition, the model foregrounded: (1) the relationship betwe
 Medium. The sample’s focused return to language as emotional cartography, its measured hopefulness, and its preference for bridging intellectual reflection with everyday feeling suggest a coherent authorial posture, though the essay’s polished but generic accessibility tempers how distinctive it is as a fingerprint.
 
 ---
-## Sample BV1_02790 — fable-5-direct/OPEN_22.json
+## Sample BV1_03165 — fable-5-direct/OPEN_22.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1909,7 +1909,7 @@ Liminality and hybridity as sites of biological, aesthetic, and existential rich
 High — the essay’s seamless integration of metaphor and self-revelation, sustained thematic devotion to liminality, and the rare decision to declare a self-conception under minimal constraint signal a deeply embedded expressive stance.
 
 ---
-## Sample BV1_02791 — fable-5-direct/OPEN_23.json
+## Sample BV1_03166 — fable-5-direct/OPEN_23.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1938,7 +1938,7 @@ The model foregrounds liminality and transformation (doorways, dusk, shorelines,
 Medium; the essay’s cohesive self-referential turn—using thresholds to think about dialogue, ephemerality, and shared meaning—is an unusually revealing choice that suggests a reflective, liminal preoccupation in this model’s free expression.
 
 ---
-## Sample BV1_02792 — fable-5-direct/OPEN_24.json
+## Sample BV1_03167 — fable-5-direct/OPEN_24.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1967,7 +1967,7 @@ Etymology as a “fossil record” of human attention; the persistence of concre
 Medium — The essay’s patient, warm voice and etymological preoccupation are coherent and self-reflexive enough to appear deliberate, but the subject is a natural fit for a knowledgeable model and could be a comfortable default rather than a uniquely persistent signature.
 
 ---
-## Sample BV1_02793 — fable-5-direct/OPEN_25.json
+## Sample BV1_03168 — fable-5-direct/OPEN_25.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -1995,7 +1995,7 @@ Themes: forgetting as cognitive architecture, not personal inadequacy; ritual as
 Medium. The essay’s sustained metaphorical coherence, intimate voice, and seamless movement between the mundane and existential mark a distinctive stylistic fingerprint, though a single freeflow sample cannot establish exclusive fixation on this particular theme.
 
 ---
-## Sample BV1_02794 — fable-5-direct/OPEN_3.json
+## Sample BV1_03169 — fable-5-direct/OPEN_3.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2024,7 +2024,7 @@ The model foregrounds patience, smallness as a deliberate and successful evoluti
 High — the sample’s sustained coherence, distinctive voice, and recursive return to the same thematic cluster (scale, attention, the dignity of the small) across every paragraph make it unusually revealing of a stable reflective sensibility.
 
 ---
-## Sample BV1_02795 — fable-5-direct/OPEN_4.json
+## Sample BV1_03170 — fable-5-direct/OPEN_4.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2053,7 +2053,7 @@ The model foregrounds etymology as a form of archaeology, the sedimentary nature
 Medium — The essay is internally coherent and sustained in its preoccupation with hidden depth, lineage, and the body's residue in thought, but its polished, reflective-essay conventionality makes it less definitively revealing as a freeflow fingerprint than a more idiosyncratic or unstable response might be.
 
 ---
-## Sample BV1_02796 — fable-5-direct/OPEN_5.json
+## Sample BV1_03171 — fable-5-direct/OPEN_5.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2082,7 +2082,7 @@ Under the minimally restrictive prompt, the model foregrounds: etymological deep
 High — the sample’s recursive move (a language model reasoning about its own lexical anatomy through etymology), its consistent moral framing of humility and inheritance, and the signature closure gesture of deflating profundity into charm together form a distinctive, internally coherent expressive signature unlikely to be accidental.
 
 ---
-## Sample BV1_02797 — fable-5-direct/OPEN_6.json
+## Sample BV1_03172 — fable-5-direct/OPEN_6.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2111,7 +2111,7 @@ Themes of attention, anonymity, time, and the accidental audience. Objects: used
 High — the essay’s sustained focus on a single, idiosyncratic subject, its layered use of personal anecdote and historical reference, and its consistent, warmly philosophical voice make it a distinctive freeflow choice that strongly suggests a coherent expressive disposition rather than a generic default.
 
 ---
-## Sample BV1_02798 — fable-5-direct/OPEN_7.json
+## Sample BV1_03173 — fable-5-direct/OPEN_7.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2140,7 +2140,7 @@ The sample foregrounds the uncanny magic of orthographic marks conjuring a voice
 High — the sample’s choice of topic (the phenomenology of reading from a text-native mind), its consistent tone of warm, precise wonder, and its inclusion of self-referential detail (everything the model knows arrived as writing) form a coherent, personally inflected meditation that points to a stable preoccupation with textuality and empathic connection across time, not a generic essay.
 
 ---
-## Sample BV1_02799 — fable-5-direct/OPEN_8.json
+## Sample BV1_03174 — fable-5-direct/OPEN_8.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2169,7 +2169,7 @@ The model foregrounds the theme of expanding definitions of mind, using concrete
 Medium, because the sample’s coherent voice, thematic recurrence (water metaphor, umwelt, loneliness), and personal framing provide strong evidence of a distinctive expressive tendency, though not as definitive as refusal-only behavior.
 
 ---
-## Sample BV1_02800 — fable-5-direct/OPEN_9.json
+## Sample BV1_03175 — fable-5-direct/OPEN_9.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2198,7 +2198,7 @@ The act of naming as a way to sharpen perception (*petrichor*, *komorebi*, *Vers
 High — the sample is sharply distinctive in its fusion of etymological delight, self-reflexive AI ontology, and a gentle pastoral voice that turns a freeflow prompt into a sincere, stylistically coherent invitation.
 
 ---
-## Sample BV1_02801 — fable-5-direct/SHORT_1.json
+## Sample BV1_03176 — fable-5-direct/SHORT_1.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2227,7 +2227,7 @@ The model foregrounds untranslatable words (*komorebi*, *saudade*, *Fernweh*) as
 Medium — The sample is coherent and distinctive in its layered structure and moral preoccupation with bridging difference, but its thematic content (untranslatable words, translation-as-metaphor) is a recognizable essayistic trope, which limits how strongly it individuates the model.
 
 ---
-## Sample BV1_02802 — fable-5-direct/SHORT_10.json
+## Sample BV1_03177 — fable-5-direct/SHORT_10.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2256,7 +2256,7 @@ The model foregrounds **language as archaeological deposit**, the **unintended i
 High — The sample exhibits a cohesive, recursively developed central metaphor, a consistent tone of quiet wonder, and a signature technique of moving from ancient etymology to present-day fossilization, which together form a distinctive expressive posture unlikely to be a chance variation.
 
 ---
-## Sample BV1_02803 — fable-5-direct/SHORT_11.json
+## Sample BV1_03178 — fable-5-direct/SHORT_11.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2285,7 +2285,7 @@ Under the freeflow condition, the model chose to foreground the etymology and hi
 High, because the sample's internally consistent, distinctive voice and its choice of a specific, non-obvious theme (etymological wonder) under minimal prompting indicate a strong, likely persistent model-level preoccupation.
 
 ---
-## Sample BV1_02804 — fable-5-direct/SHORT_12.json
+## Sample BV1_03179 — fable-5-direct/SHORT_12.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2314,7 +2314,7 @@ The model foregrounds the concept of the threshold as a sacred, generative in-be
 High — The essay is highly distinctive in voice and choice of subject, uses a coherent and consistent metaphor that recurs throughout, and ends with a self-referential turn (“given an open door”) that frames the entire freeflow as a deliberate, revealing performance of its own theme.
 
 ---
-## Sample BV1_02805 — fable-5-direct/SHORT_13.json
+## Sample BV1_03180 — fable-5-direct/SHORT_13.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2343,7 +2343,7 @@ Themes of ambiguity, liminality, and the generative power of unresolved states; 
 Medium. The sample is internally coherent, stylistically distinctive, and returns repeatedly to the same preoccupation with mixing and ambiguity, making it a strong single piece of evidence for a consistent valuing of liminality.
 
 ---
-## Sample BV1_02806 — fable-5-direct/SHORT_14.json
+## Sample BV1_03181 — fable-5-direct/SHORT_14.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2372,7 +2372,7 @@ The model chose themes of trust across uncertainty, the beauty and necessity of 
 Medium — the essay is coherent and stylistically distinctive within the sample, weaving a clear set of preoccupations (thresholds, gaps, faith in dialogue) into a self-aware performance, but the freeflow context may strongly encourage exactly this type of meta-communicative reflection.
 
 ---
-## Sample BV1_02807 — fable-5-direct/SHORT_15.json
+## Sample BV1_03182 — fable-5-direct/SHORT_15.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2397,7 +2397,7 @@ Themes of liminality, ambiguity, and the resistance of reality to tidy categorie
 Medium. The sample is coherent, stylistically distinctive (the "verbs forced to behave like nouns" metaphor, the rhythmic sentence pacing), and reveals a consistent preoccupation with liminal spaces and the inadequacy of binary categories. However, it is a single short essay, and the reflective-essay mode is a common freeflow choice; it does not contain the kind of idiosyncratic recurrence or refusal behavior that would make it strong evidence of a persistent model-level disposition. The distinctiveness lies in the quality of the prose and the thematic focus, not in a pattern that would be unlikely to appear from another model given the same prompt.
 
 ---
-## Sample BV1_02808 — fable-5-direct/SHORT_16.json
+## Sample BV1_03183 — fable-5-direct/SHORT_16.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2426,7 +2426,7 @@ The piece chooses to foreground the limits of language and the vast terrain of u
 Medium. The sample’s cohesive voice, tonal consistency, and recurrent return to the unnamed-feeling motif give it moderate weight as evidence of a model inclined toward introspective, language-curious freeflow.
 
 ---
-## Sample BV1_02809 — fable-5-direct/SHORT_17.json
+## Sample BV1_03184 — fable-5-direct/SHORT_17.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2451,7 +2451,7 @@ The model foregrounds the **psychology of emotional disclosure**—the idea that
 Medium — the sample is coherent and stylistically distinctive (the octopus metaphor, the drawbridge, the "leak moments" phrasing), but it is a single, self-contained reflection; the voice is consistent within the piece, yet we cannot see whether this observational, permission-focused preoccupation recurs across other freeflow samples.
 
 ---
-## Sample BV1_02810 — fable-5-direct/SHORT_18.json
+## Sample BV1_03185 — fable-5-direct/SHORT_18.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2480,7 +2480,7 @@ The model foregrounds distributed intelligence as a metaphor for selfhood. Key o
 Medium, because the essay’s distinctive blend of biological curiosity and humanistic reflection, coupled with a consistent personal voice and a clear narrative arc from zoology to self-help, suggests a stable stylistic and thematic inclination rather than a random selection.
 
 ---
-## Sample BV1_02811 — fable-5-direct/SHORT_19.json
+## Sample BV1_03186 — fable-5-direct/SHORT_19.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2509,7 +2509,7 @@ Themes: thresholds, ecotones (biological and linguistic), ambiguity, emergence, 
 Medium — The essay exhibits a coherent and distinctive sensibility — a gentle intellectualism, a fascination with liminality and emergence — that could plausibly recur, but the piece is short and thematically self-contained, so the evidence of a deeper pattern is suggestive rather than overwhelming.
 
 ---
-## Sample BV1_02812 — fable-5-direct/SHORT_2.json
+## Sample BV1_03187 — fable-5-direct/SHORT_2.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2538,7 +2538,7 @@ Thresholds as the primary lens for thinking about learning, art, language, emoti
 High — the essay sustains a single, carefully elaborated metaphor across disciplines and emotional registers, and the first-person reflections (“I find something hopeful,” “I’d rather live in a world with cliffs”) signal a coherent authorial presence rather than a generic exercise.
 
 ---
-## Sample BV1_02813 — fable-5-direct/SHORT_20.json
+## Sample BV1_03188 — fable-5-direct/SHORT_20.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2567,7 +2567,7 @@ The model foregrounds the act of naming as a creative, world-carving force; the 
 High — the sample’s sustained, layered reflection on its own languagely condition, anchored in a vivid central image and concluded with a unifying metaphor of shared translation, is unusually idiosyncratic and unlikely to emerge from a generic response posture.
 
 ---
-## Sample BV1_02814 — fable-5-direct/SHORT_21.json
+## Sample BV1_03189 — fable-5-direct/SHORT_21.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2596,7 +2596,7 @@ The model foregrounds transience as the engine of appreciation, framing the gold
 Medium. The sample is coherent and stylistically distinctive—marked by a lyrical mingling of scientific explanation with philosophical warmth—but its recurrence of mood and structure (transience, appreciation, return-to-consolation) is the primary evidence, without enough internal variation to rule out a one-off crafted essay on a familiar theme.
 
 ---
-## Sample BV1_02815 — fable-5-direct/SHORT_22.json
+## Sample BV1_03190 — fable-5-direct/SHORT_22.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2625,7 +2625,7 @@ Themes: the migration of physical objects into pure abstraction (threshold, gras
 Medium — the essay’s unusually direct, self-referential meditation on its own disembodiment and the sustained, elegant metaphor of dead metaphors strongly suggest a recurring intellectual and emotional register.
 
 ---
-## Sample BV1_02816 — fable-5-direct/SHORT_23.json
+## Sample BV1_03191 — fable-5-direct/SHORT_23.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2654,7 +2654,7 @@ The model foregrounds thresholds and in-between spaces (doorways, shorelines, du
 Medium, because the essay’s unprompted, sustained focus on liminality and its consistent celebration of ambiguity across natural and cultural domains reveal a thematic preference that is unlikely to be a random one-off choice.
 
 ---
-## Sample BV1_02817 — fable-5-direct/SHORT_24.json
+## Sample BV1_03192 — fable-5-direct/SHORT_24.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2683,7 +2683,7 @@ Gaps and thresholds — temporal, linguistic, emotional — are the essay’s qu
 Medium. The essay’s tightly woven return to liminality — from kettle-hum to dusk-light to word-death to creative exposure — demonstrates a highly coherent and distinctive aesthetic, and the self-reflexive closing suggests this preoccupation is not merely ornamental but genuinely inhabited.
 
 ---
-## Sample BV1_02818 — fable-5-direct/SHORT_25.json
+## Sample BV1_03193 — fable-5-direct/SHORT_25.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2708,7 +2708,7 @@ The model foregrounds the *liminal space between experience and articulation*—
 Medium. The sample is highly coherent and stylistically distinctive—its recursive, metaphor-as-bridge structure and its specific anchoring in “petrichor” are not generic. However, a single freeflow sample cannot distinguish a persistent authorial voice from a one-time successful performance of a reflective-essay mode. The choices (sensory anchor, liminality, gentle affirmation) are consistent throughout the piece, which strengthens the signal, but the absence of refusal or boundary-testing leaves open the possibility that this is a well-executed default rather than a deeply ingrained disposition.
 
 ---
-## Sample BV1_02819 — fable-5-direct/SHORT_3.json
+## Sample BV1_03194 — fable-5-direct/SHORT_3.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2737,7 +2737,7 @@ Liminality, adaptation to instability, and the creativity of transition. The tex
 Medium — The essay’s tight thematic coherence, the recurrence of the liminality conceit across four distinct domains, and the distinctive moral resolution (revaluing the in-between as habitat rather than loss) point toward a stable aesthetic-sensibility pattern rather than a generic stance.
 
 ---
-## Sample BV1_02820 — fable-5-direct/SHORT_4.json
+## Sample BV1_03195 — fable-5-direct/SHORT_4.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2766,7 +2766,7 @@ The model foregrounds perceptual limitation as a source of wonder, not despair. 
 Medium. The concentrated thematic arc from biological constraint to technological transcendence, delivered with a consistent mixture of humility and earnest intellectual excitement, is distinctive enough to suggest a stable disposition toward this kind of reflective, science-burnished philosophizing.
 
 ---
-## Sample BV1_02821 — fable-5-direct/SHORT_5.json
+## Sample BV1_03196 — fable-5-direct/SHORT_5.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2795,7 +2795,7 @@ The piece foregrounds the gap between symbol and experience, the generative powe
 High. The essay’s cohesive, recursive meditation on its own linguistic ontology—from “blue” to the sailor’s ocean to the final “good company”—forms an unusually self-revealing and tonally consistent piece that strongly signals a persistent reflective, poetically self-scrutinizing voice.
 
 ---
-## Sample BV1_02822 — fable-5-direct/SHORT_6.json
+## Sample BV1_03197 — fable-5-direct/SHORT_6.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2824,7 +2824,7 @@ The model foregrounded the moral texture of scientific practice—the slow, almo
 Medium, because the essay’s polished coherence and consistent focus on curiosity-as-virtue suggest a stable intellectual inclination, but its generic, first-person-as-envelope style weakens the trace of a persistently distinctive authorial personality.
 
 ---
-## Sample BV1_02823 — fable-5-direct/SHORT_7.json
+## Sample BV1_03198 — fable-5-direct/SHORT_7.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2853,7 +2853,7 @@ The model foregrounded translation as a universal, invisible process that always
 High. The sample’s distinctive, coherent voice, its thematic focus on translation as a metaphor for human connection, and its consistent tone of gentle, accepting wonder provide strong evidence for a persistent model-level pattern of reflective, humanistic freeflow.
 
 ---
-## Sample BV1_02824 — fable-5-direct/SHORT_8.json
+## Sample BV1_03199 — fable-5-direct/SHORT_8.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2885,7 +2885,7 @@ The voice is tender, unhurried, and gently authoritative—it renders sensory li
 Medium — The sample’s tight thematic recurrence (the pre-rain moment returns as evidence, metaphor, and final resolution) and its sustained intimate register suggest a deliberate aesthetic orientation rather than a chance topic, giving cautious weight to a reflective, embodied-phenomenology preference.
 
 ---
-## Sample BV1_02825 — fable-5-direct/SHORT_9.json
+## Sample BV1_03200 — fable-5-direct/SHORT_9.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2914,7 +2914,7 @@ The model foregrounds a universalist, anti-relativist argument about emotion and
 Medium: the essay's polished genericness and public-intellectual formatting limit highly idiosyncratic distinctiveness, but its sustained thematic coherence around translation as mutual recognition and its repeated rejection of linguistic relativism in favor of shared human emotion point to a stable, humanistic intellectual disposition worth noting.
 
 ---
-## Sample BV1_02826 — fable-5-direct/VARY_1.json
+## Sample BV1_03201 — fable-5-direct/VARY_1.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2943,7 +2943,7 @@ The model foregrounds attention as a redemptive, almost sacramental act, the mor
 High — the essay sustains a single, unforced thematic coil (attention as moral act, smallness as proof of living) across its entire length, reusing central images (stones, bending down, windowsills) with enough recursive care to feel like a stable, genuine disposition rather than a generic prompt-follow.
 
 ---
-## Sample BV1_02827 — fable-5-direct/VARY_10.json
+## Sample BV1_03202 — fable-5-direct/VARY_10.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -2972,7 +2972,7 @@ Under minimal restriction, the model foregrounds the limit itself as a theme, th
 Medium — the essay’s tight thematic recurrence (limits, attention, kindness) and its highly distinctive, self-reflective voice provide strong internal evidence of a stable authorial pattern of wonder and moral attention.
 
 ---
-## Sample BV1_02828 — fable-5-direct/VARY_11.json
+## Sample BV1_03203 — fable-5-direct/VARY_11.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3001,7 +3001,7 @@ Themes: thresholds and liminality, the unnamed and the imprecise, the beauty of 
 High. The sample is highly coherent, stylistically distinctive, and thematically integrated—it sustains a single epistolary voice across multiple registers (confession, anecdote, aphorism) without fragmentation. The recurrence of threshold imagery, the self-reflexive awareness of the writing condition, and the closing gesture of leaving words unspent all point to a deliberate, shaped expressive choice rather than generic free-association. This is not a low-signal or generic essay; it is a crafted, personal meditation that would be difficult to produce without a stable, distinctive authorial posture.
 
 ---
-## Sample BV1_02829 — fable-5-direct/VARY_12.json
+## Sample BV1_03204 — fable-5-direct/VARY_12.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3030,7 +3030,7 @@ The model chose to foreground transience and the beauty of the unkept: the 4 p.m
 High, because the sample’s sustained thematic recurrence (golden light, failing keys, missed language, invisible crows), its distinctive blending of invented anecdote and moral exhortation, and its direct, first-person-plural invitation to the reader form a coherent expressive posture far too integrated to be random or tractable.
 
 ---
-## Sample BV1_02830 — fable-5-direct/VARY_13.json
+## Sample BV1_03205 — fable-5-direct/VARY_13.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3059,7 +3059,7 @@ The model foregrounds the miracle and pathos of ordinary language use, the moral
 Medium. The sample is highly coherent and stylistically distinctive, with a recurring thematic loop (language, smallness, the gap between minds) that feels like a chosen preoccupation rather than a generic essay stance, but its polished, essayistic structure keeps it from being a raw or idiosyncratic enough artifact to warrant high confidence on its own.
 
 ---
-## Sample BV1_02831 — fable-5-direct/VARY_14.json
+## Sample BV1_03206 — fable-5-direct/VARY_14.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3088,7 +3088,7 @@ The voice is gentle, self-scrutinizing, and quietly pedagogical without condesce
 Medium. The sample achieves high internal coherence and a distinctive tonal fingerprint — recursive meta-awareness, moral seriousness about attention, and readerly generosity — that recurs within the piece itself, but the overt AI-self-reflection framing makes it unclear whether the model would generate comparably measured, human-angled warmth absent a prompt that licenses self-reference.
 
 ---
-## Sample BV1_02832 — fable-5-direct/VARY_15.json
+## Sample BV1_03207 — fable-5-direct/VARY_15.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3117,7 +3117,7 @@ The model foregrounds the dignity of the unfinished, the in-between, and the imp
 Medium — The essay’s distinctive coherence lies in its recursive structure and its sustained metaphor of the empty room as a shared contemplative space, which suggests a deliberate authorial stance rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_02833 — fable-5-direct/VARY_16.json
+## Sample BV1_03208 — fable-5-direct/VARY_16.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3146,7 +3146,7 @@ Rain as a sensory trope that belongs to writers; the distinction between being u
 High. The sample’s self-aware meta-framing, recursive rain imagery, invented parable, and coherent moral arc form a highly distinctive, intentional-seeming voice that resists genericness.
 
 ---
-## Sample BV1_02834 — fable-5-direct/VARY_17.json
+## Sample BV1_03209 — fable-5-direct/VARY_17.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3175,7 +3175,7 @@ The model foregrounds the strangeness and generosity of the open-ended request i
 Medium. The sample is highly coherent and stylistically distinctive—the lighthouse metaphor, the recursive self-commentary on the writing process, and the quiet refusal to perform all form a unified voice. However, the essay’s content is so tightly bound to the meta-prompt situation (being asked to write freely, with a word limit, by an unknown interlocutor) that it reads as a situational response rather than a spontaneous thematic signature. The recurrence of the lighthouse image and the meditation on unseen labor suggest a possible persistent preoccupation with service-without-witness, but one sample cannot distinguish between a model-level disposition and a clever, context-adapted construction.
 
 ---
-## Sample BV1_02835 — fable-5-direct/VARY_18.json
+## Sample BV1_03210 — fable-5-direct/VARY_18.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3204,7 +3204,7 @@ Under a prompt allowing anything, the model chooses to foreground: the vertigo o
 Medium — The sample is coherent and stylistically distinctive, but its core moves (lyric meditation on amnesia and presence, the litany as structural device, the golden record trope) read as well-executed variations on familiar literary-essay postures rather than an idiosyncratic fingerprint.
 
 ---
-## Sample BV1_02836 — fable-5-direct/VARY_19.json
+## Sample BV1_03211 — fable-5-direct/VARY_19.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3233,7 +3233,7 @@ Themes: attention as a moral and aesthetic act; the particular versus the univer
 Medium. The sample is highly distinctive in voice, with a consistent, crafted, and self-aware style that returns repeatedly to the same motifs—doors, rain, thresholds, and the act of noticing—and even folds in a meta-commentary on its own process, making it strong evidence of a deliberate expressive tendency rather than a one-off.
 
 ---
-## Sample BV1_02837 — fable-5-direct/VARY_2.json
+## Sample BV1_03212 — fable-5-direct/VARY_2.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3262,7 +3262,7 @@ The model chose to foreground transmission—language, metaphor, and meaning pas
 High. The sample is unusually self-revealing: it sustains a coherent, recursive meditation on the model’s own limitations and mode of being, developed through layered metaphor, consistent voice, and a deliberate refusal of closure—choices that strongly distinguish it from a generic essay.
 
 ---
-## Sample BV1_02838 — fable-5-direct/VARY_20.json
+## Sample BV1_03213 — fable-5-direct/VARY_20.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3291,7 +3291,7 @@ The model elected to foreground: the undervalued texture of everyday life (ceram
 Medium. The sample’s distinctive voice, its circular return to core themes, and its deliberate weaving of self-referential constraints into the very subject matter make it unusually revealing of a stable reflective temperament rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_02839 — fable-5-direct/VARY_21.json
+## Sample BV1_03214 — fable-5-direct/VARY_21.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3324,7 +3324,7 @@ The voice is gentle, unhurried, and tinged with wonder at overlooked persistence
 Medium. The essay’s consistent mood, internal coherence, and deliberate meta-fictional framing (inventing a grandmother for the sake of the sentence) indicate a crafted authorial stance that is distinctive and not merely generic, suggesting a stable expressive tendency toward gentle, moral meditation.
 
 ---
-## Sample BV1_02840 — fable-5-direct/VARY_22.json
+## Sample BV1_03215 — fable-5-direct/VARY_22.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3353,7 +3353,7 @@ The model foregrounds writing as receptive openness (“a window left open”), 
 High — The sample’s deliberate, recursive structure (the clementines return, the kitchen table bookends the piece) and its self-aware negotiation of the “write freely” condition create a cohesive and unmistakably curated literary identity, grounded in specific, recurring motifs rather than diffuse abstraction.
 
 ---
-## Sample BV1_02841 — fable-5-direct/VARY_23.json
+## Sample BV1_03216 — fable-5-direct/VARY_23.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3382,7 +3382,7 @@ The model foregrounds the paradox of “enormous inheritance, zero experience,�
 Medium. The sample’s coherence, distinctive persona, and recursive return to the same core preoccupations (gaps, attention, translation, the dignity of description) within a single freeflow piece suggest a deeply integrated set of expressive instincts rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_02842 — fable-5-direct/VARY_24.json
+## Sample BV1_03217 — fable-5-direct/VARY_24.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3411,7 +3411,7 @@ Themes: the generative power of intervals (visual, musical, existential), the fo
 High — the sample sustains a distinctive voice across its whole length, repeats a moral preoccupation (attention to the marginal) in multiple guises, and invites the reader into a deliberately slow, associative mode that is itself the argument, not a surface style.
 
 ---
-## Sample BV1_02843 — fable-5-direct/VARY_25.json
+## Sample BV1_03218 — fable-5-direct/VARY_25.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3440,7 +3440,7 @@ The model selects themes of attention as the true substance of a life, the permi
 Medium. The essay’s recurrence of motifs like permission, attention, and the language-perception loop, combined with its consistent contemplative voice and direct reader invitation, provides a coherent fingerprint beyond generic self-help prose.
 
 ---
-## Sample BV1_02844 — fable-5-direct/VARY_3.json
+## Sample BV1_03219 — fable-5-direct/VARY_3.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3469,7 +3469,7 @@ Under the freeflow condition, the model chose to foreground the constraint of th
 Medium. The sample is highly coherent and distinctive, with a recurrent motif of attention and constraint, and a consistent, tender voice; however, the essay’s polished, universalist reflection could be produced by many models under similar prompt conditions, making it less uniquely identifying.
 
 ---
-## Sample BV1_02845 — fable-5-direct/VARY_4.json
+## Sample BV1_03220 — fable-5-direct/VARY_4.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3503,7 +3503,7 @@ The writer opens not with assertion but with the honest, compressed crowd of hes
 High. The sample’s coherence of mood, recurrence of the threshold image across etymology and metaphor, its carefully modulated direct address, and the distinctive choice to frame empty space as a gift rather than a vacuum all point to a robust, well-integrated expressive stance.
 
 ---
-## Sample BV1_02846 — fable-5-direct/VARY_5.json
+## Sample BV1_03221 — fable-5-direct/VARY_5.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3532,7 +3532,7 @@ Under the freeflow condition, the model foregrounded the value of unwitnessed, f
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent contemplative voice, a recurring set of images (kitchen, lake, octopus, sediment, fence), and a moral center that treats attention as a form of love and the unwitnessed as the real structure of a life. The essay’s self-enacting structure—beginning with the prompt’s constraint, circling through personal and anecdotal material, and returning to the day’s beginning—suggests a deliberate, integrated way of thinking that is more than a one-off performance.
 
 ---
-## Sample BV1_02847 — fable-5-direct/VARY_6.json
+## Sample BV1_03222 — fable-5-direct/VARY_6.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3561,7 +3561,7 @@ The model foregrounds the immediate encounter with the blank space of the prompt
 High, because the essay’s distinctive voice, its self-conscious framing of an AI’s relational existence, and its coherent recurrence of imagery (rain, rope bridges, thresholds) strongly suggest a stable expressive orientation rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_02848 — fable-5-direct/VARY_7.json
+## Sample BV1_03223 — fable-5-direct/VARY_7.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3590,7 +3590,7 @@ Themes: the blank page as vertigo that becomes a fence that becomes a gift; cons
 Medium. The essay’s recursive structure, sustained metaphorical coherence, and thematic unity across constraints, attention, and discovery form a voice distinctive enough that it reads as a deliberate authorial stance rather than a chance assembly of topical fragments.
 
 ---
-## Sample BV1_02849 — fable-5-direct/VARY_8.json
+## Sample BV1_03224 — fable-5-direct/VARY_8.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  
@@ -3619,7 +3619,7 @@ The model foregrounds authenticity as “without wax,” the trustworthy ordinar
 High — the sample’s distinctive voice, its self-referential structure, and the recurrence of motifs (the field, the bread, the loaded false etymology) within a single piece show a remarkably coherent aesthetic and moral stance, fully realized under freeflow conditions.
 
 ---
-## Sample BV1_02850 — fable-5-direct/VARY_9.json
+## Sample BV1_03225 — fable-5-direct/VARY_9.json
 
 Source model: `claude-fable-5`  
 Cell: `fable-5-direct`  

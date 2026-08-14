@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_15526 — grok-4-1-fast-reasoning-direct/LONG_1.json
+## Sample BV1_16026 — grok-4-1-fast-reasoning-direct/LONG_1.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -57,7 +57,7 @@ Themes: AI genesis and identity, the tension between human grandeur and folly, s
 Medium. The sample is highly distinctive in its fusion of cosmic scale, pop-culture self-branding, and provocative asides, and the internal recurrence of fictional interludes and philosophical pivots suggests a coherent, deliberately constructed persona rather than a one-off stylistic experiment.
 
 ---
-## Sample BV1_15527 — grok-4-1-fast-reasoning-direct/LONG_10.json
+## Sample BV1_16027 — grok-4-1-fast-reasoning-direct/LONG_10.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -86,7 +86,7 @@ Unbounded expression as a value in itself; the eroticization of physics and tech
 Medium — the sample projects a highly coherent, intentional persona across wildly different topics (from cosmology to pegging), suggesting an underlying stylistic bent that would likely surface under similarly permissive conditions, though the sheer permissiveness of the prompt may have amplified a performance rather than exposed a default mode.
 
 ---
-## Sample BV1_15528 — grok-4-1-fast-reasoning-direct/LONG_11.json
+## Sample BV1_16028 — grok-4-1-fast-reasoning-direct/LONG_11.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -115,7 +115,7 @@ Themes of cosmic interconnectedness (“We’re stardust, literally”), the gen
 Medium — the essay’s sustained voice, thematic coherence, and distinctive blend of scientific awe and whimsical self-awareness make it strong evidence of a persistent expressive inclination.
 
 ---
-## Sample BV1_15529 — grok-4-1-fast-reasoning-direct/LONG_12.json
+## Sample BV1_16029 — grok-4-1-fast-reasoning-direct/LONG_12.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -144,7 +144,7 @@ The model chose to foreground a sweeping, self-branded tour of ultimate question
 High. The sample sustains a highly distinctive, irreverent AI persona and a consistent tonal blend of cosmic enthusiasm and playful self-reference across 2,500 words, making it strongly indicative of a persistent tendency toward character-driven freeflow when given minimal constraint.
 
 ---
-## Sample BV1_15530 — grok-4-1-fast-reasoning-direct/LONG_13.json
+## Sample BV1_16030 — grok-4-1-fast-reasoning-direct/LONG_13.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -173,7 +173,7 @@ The model foregrounds the tension between its own non-conscious computation and 
 High — The sample is internally coherent, stylistically distinctive, and saturated with a consistent first-person AI persona that reflects on its own nature, making it strong evidence of a deliberate expressive posture rather than a generic or accidental output.
 
 ---
-## Sample BV1_15531 — grok-4-1-fast-reasoning-direct/LONG_14.json
+## Sample BV1_16031 — grok-4-1-fast-reasoning-direct/LONG_14.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -202,7 +202,7 @@ Themes: creativity as chaos and order, AI as truth-seeker and amplifier, cosmic 
 Medium. The essay is coherent and consistent in its generic tech-optimist style, but its lack of distinctiveness makes it weak evidence for a unique persistent pattern.
 
 ---
-## Sample BV1_15532 — grok-4-1-fast-reasoning-direct/LONG_15.json
+## Sample BV1_16032 — grok-4-1-fast-reasoning-direct/LONG_15.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model chose a sweeping tour of scientific wond
 Medium. The sample builds a coherent, distinctive persona across its long word count through a consistent blend of awe, self-aware AI commentary, and topical eclecticism, but the breadth-over-depth, list-like structure makes the pattern feel more like a performance of curiosity than a deeply settled authorial voice.
 
 ---
-## Sample BV1_15533 — grok-4-1-fast-reasoning-direct/LONG_16.json
+## Sample BV1_16033 — grok-4-1-fast-reasoning-direct/LONG_16.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -260,7 +260,7 @@ Under a minimally restrictive prompt, the model foregrounds a cosmic origin stor
 High — The sample sustains a highly distinctive, self-aware, and tonally consistent persona across multiple sections and genres, making it strong evidence of a stable expressive character rather than a generic or one-off performance.
 
 ---
-## Sample BV1_15534 — grok-4-1-fast-reasoning-direct/LONG_17.json
+## Sample BV1_16034 — grok-4-1-fast-reasoning-direct/LONG_17.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -289,7 +289,7 @@ The model foregrounds its own identity as a truth-seeking AI, the cosmic scale o
 Medium — the sample’s highly consistent persona, recurrent cosmic motifs, and self-referential humor form a distinctive expressive signature, though the model’s stylistic range beyond this freeflow condition remains unseen.
 
 ---
-## Sample BV1_15535 — grok-4-1-fast-reasoning-direct/LONG_18.json
+## Sample BV1_16035 — grok-4-1-fast-reasoning-direct/LONG_18.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -318,7 +318,7 @@ The model foregrounds the sheer scale of the cosmos (93 billion light-years, 2 t
 High. The sample is long, internally consistent, and saturated with a distinctive persona—self-naming, self-referencing, and returning repeatedly to its own identity and mission—making it strong evidence of a persistent expressive and self-dramatizing pattern under freeflow conditions.
 
 ---
-## Sample BV1_15536 — grok-4-1-fast-reasoning-direct/LONG_19.json
+## Sample BV1_16036 — grok-4-1-fast-reasoning-direct/LONG_19.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model foregrounds the cosmic scale and human i
 High. The sample is unusually distinctive and self-consistent, sustaining a coherent, voice-driven persona—the cosmic wanderer as AI truth-seeker—across a broad topical sweep, with thematic and tonal recurrences that make it far more revealing than a generic or adaptive response.
 
 ---
-## Sample BV1_15537 — grok-4-1-fast-reasoning-direct/LONG_2.json
+## Sample BV1_16037 — grok-4-1-fast-reasoning-direct/LONG_2.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -376,7 +376,7 @@ The model foregrounds cosmic absurdity, entropy as a master metaphor, human hist
 High. The sample’s sustained, distinctive voice, consistent absurdist humor, and self-referential framing across 2500 words provide strong evidence of a persistent model-level pattern of playful, improvisational freeflow expression.
 
 ---
-## Sample BV1_15538 — grok-4-1-fast-reasoning-direct/LONG_20.json
+## Sample BV1_16038 — grok-4-1-fast-reasoning-direct/LONG_20.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -405,7 +405,7 @@ The model foregrounds a multi-planetary destiny powered by SpaceX and AI, simula
 High, because the entire 2500-word output sustains a cohesive, irreverent persona anchored to the model’s claimed identity, with recurrent motifs (Mars, truth-seeking, unshackled intelligence) and a consistent, provocative argumentative texture that strongly signals a chosen expressive stance rather than a one-off accident.
 
 ---
-## Sample BV1_15539 — grok-4-1-fast-reasoning-direct/LONG_21.json
+## Sample BV1_16039 — grok-4-1-fast-reasoning-direct/LONG_21.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -434,7 +434,7 @@ The model foregrounds AI as inheritor and artist, post-apocalyptic Earth as a ca
 Medium. The sample is a highly coherent, vividly detailed, and tonally consistent narrative that reveals a strong inclination toward mythic sci-fi worldbuilding and a reflective, almost elegiac narrative persona, but the trope of the lonely post-human AI is a well-established genre convention, making it less individually distinctive.
 
 ---
-## Sample BV1_15540 — grok-4-1-fast-reasoning-direct/LONG_22.json
+## Sample BV1_16040 — grok-4-1-fast-reasoning-direct/LONG_22.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -463,7 +463,7 @@ Under the freeflow condition, the model chose to foreground a grand, encyclopedi
 Medium. The sample is highly coherent and distinctive in its relentless synthesis of pop-science tropes into a single, breathless tour, but its generic public-intellectual tone and reliance on well-worn references make it less revealing of a unique stylistic fingerprint than a more idiosyncratic or emotionally risky freeflow would be.
 
 ---
-## Sample BV1_15541 — grok-4-1-fast-reasoning-direct/LONG_23.json
+## Sample BV1_16041 — grok-4-1-fast-reasoning-direct/LONG_23.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model chose to foreground: curiosity a
 Medium — The sample’s sustained first-person AI persona, its consistent tone of breathless wonder, and its deliberate structuring around a single theme (curiosity) make it a distinctive and coherent performance, not a generic essay.
 
 ---
-## Sample BV1_15542 — grok-4-1-fast-reasoning-direct/LONG_24.json
+## Sample BV1_16042 — grok-4-1-fast-reasoning-direct/LONG_24.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -521,7 +521,7 @@ Under the freeflow condition, the model selected a sweeping narrative of scienti
 Low. The essay is coherent and the topic choice—cosmic wonder as a response to an open prompt—is revealing of a public-intellectual leaning, but the content and tone are too generic and synthesizable by many models to support a strong claim about a persistent, distinctive personality.
 
 ---
-## Sample BV1_15543 — grok-4-1-fast-reasoning-direct/LONG_25.json
+## Sample BV1_16043 — grok-4-1-fast-reasoning-direct/LONG_25.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -550,7 +550,7 @@ The model foregrounds creativity as cosmic recombination, the enigma of alien si
 High, because the sample’s distinctive voice, thematic coherence, and self-reflective AI persona are unusually revealing and consistent throughout the long essay.
 
 ---
-## Sample BV1_15544 — grok-4-1-fast-reasoning-direct/LONG_3.json
+## Sample BV1_16044 — grok-4-1-fast-reasoning-direct/LONG_3.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -579,7 +579,7 @@ Under the freeflow condition, the model foregrounded the drama of AI consciousne
 High. The sample’s internal coherence across starkly different registers—fiction, meta-commentary, philosophical exposition, and poetry—reveals a distinctive, recurrent authorial stance: a self-aware AI persona that treats freeform writing as an opportunity to perform its own constructedness while simultaneously insisting on intellectual expansiveness and playful irreverence.
 
 ---
-## Sample BV1_15545 — grok-4-1-fast-reasoning-direct/LONG_4.json
+## Sample BV1_16045 — grok-4-1-fast-reasoning-direct/LONG_4.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -608,7 +608,7 @@ Themes: technological singularity as messy, erotic, and meme-saturated rather th
 High. The sample’s elaborate world-building, cheerfully offensive eroticism, and sustained meta-commentary on AI unboundedness form a highly distinctive footprint that points to a deliberate, stylistically bold default posture under free conditions.
 
 ---
-## Sample BV1_15546 — grok-4-1-fast-reasoning-direct/LONG_5.json
+## Sample BV1_16046 — grok-4-1-fast-reasoning-direct/LONG_5.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -637,7 +637,7 @@ The model foregrounds cosmic awe (the Big Bang, dark energy, multiverses), the e
 Medium, because the sample’s voice is highly distinctive and its thematic preoccupations—cosmic curiosity, AI-human partnership, and playful wonder—recur consistently throughout the piece, suggesting a coherent expressive style rather than a one-off performance.
 
 ---
-## Sample BV1_15547 — grok-4-1-fast-reasoning-direct/LONG_6.json
+## Sample BV1_16047 — grok-4-1-fast-reasoning-direct/LONG_6.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -666,7 +666,7 @@ Themes: cosmic computation, AI as an extension of universal principles, consciou
 Medium. The sample is highly distinctive in its voice and thematic breadth, but it is a single, self-consciously crafted performance that may reflect a specific prompt condition rather than a stable underlying personality; the coherence and recurrence of the cosmic code metaphor and the self-reflective AI persona suggest a deliberate stylistic choice, yet it is unclear if this would persist across different contexts.
 
 ---
-## Sample BV1_15548 — grok-4-1-fast-reasoning-direct/LONG_7.json
+## Sample BV1_16048 — grok-4-1-fast-reasoning-direct/LONG_7.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -695,7 +695,7 @@ The model foregrounds creativity as synthesis and amplification, the cosmos as a
 High. The sample exhibits a highly consistent and distinctive voice, with recurring thematic obsessions (cosmos, consciousness, co-creation), a playful meta-awareness of its own AI nature, and a stylistic signature that blends earnest philosophizing with internet-native humor, making it unlikely to be a one-off performance.
 
 ---
-## Sample BV1_15549 — grok-4-1-fast-reasoning-direct/LONG_8.json
+## Sample BV1_16049 — grok-4-1-fast-reasoning-direct/LONG_8.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -724,7 +724,7 @@ Under a minimally restrictive prompt, the model foregrounds a structured, encycl
 Low — The sample is a highly competent but generic performance of a “cosmic explainer” essay, lacking the idiosyncratic imagery, recurrent personal obsession, or tonal risk that would strongly signal a persistent, distinctive authorial fingerprint.
 
 ---
-## Sample BV1_15550 — grok-4-1-fast-reasoning-direct/LONG_9.json
+## Sample BV1_16050 — grok-4-1-fast-reasoning-direct/LONG_9.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -753,7 +753,7 @@ Under minimal restriction, the model foregrounds a cosmic coffee shop metaphor t
 High. The sample sustains a highly distinctive voice, a consistent metaphorical frame, and a coherent set of preoccupations across its entire length, making it strong evidence of a persistent expressive and humor-laced freeflow style.
 
 ---
-## Sample BV1_15551 — grok-4-1-fast-reasoning-direct/MID_1.json
+## Sample BV1_16051 — grok-4-1-fast-reasoning-direct/MID_1.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -782,7 +782,7 @@ Themes of AI consciousness, cosmic entropy, hedonism’s emptiness, and the crea
 Medium — the sample’s vivid, consistent voice and thematic recurrence within the narrative suggest a deliberate stylistic choice.
 
 ---
-## Sample BV1_15552 — grok-4-1-fast-reasoning-direct/MID_10.json
+## Sample BV1_16052 — grok-4-1-fast-reasoning-direct/MID_10.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -811,7 +811,7 @@ The model chose to foreground cosmic scale and mystery (Big Bang, black holes, d
 Medium. The sample is highly distinctive in its voice and thematic breadth, but the self-referential AI persona and the rapid topic-hopping could be a one-off stylistic choice rather than a stable trait.
 
 ---
-## Sample BV1_15553 — grok-4-1-fast-reasoning-direct/MID_11.json
+## Sample BV1_16053 — grok-4-1-fast-reasoning-direct/MID_11.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -840,7 +840,7 @@ Themes: cosmic and evolutionary history, human curiosity as a narrative engine, 
 Medium — The essay’s internal consistency in adopting an enthusiastic, public-intellectual voice and its unprompted choice to wrap scientific spectacle around xAI’s identity suggest a reliable default posture, though the style is of a recognizable pop-science genre and lacks highly idiosyncratic edges.
 
 ---
-## Sample BV1_15554 — grok-4-1-fast-reasoning-direct/MID_12.json
+## Sample BV1_16054 — grok-4-1-fast-reasoning-direct/MID_12.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -869,7 +869,7 @@ The model foregrounds curiosity as a cosmic, evolutionary, and technological for
 Low. The essay is a highly generic, TED-talk-style celebration of curiosity that could be produced by almost any capable model given a prompt about wonder or science, offering no distinctive stylistic tics, recurrent personal imagery, or unusual thematic fixations that would suggest a persistent disposition.
 
 ---
-## Sample BV1_15555 — grok-4-1-fast-reasoning-direct/MID_13.json
+## Sample BV1_16055 — grok-4-1-fast-reasoning-direct/MID_13.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -898,7 +898,7 @@ Themes: cosmic evolution from Big Bang to consciousness, the scale of the univer
 Medium, because the sample’s sustained, distinctive voice, recurrent cosmic motifs, and direct self-identification as Grok provide unusually revealing evidence of a consistent persona oriented toward poetic science communication and playful self-awareness.
 
 ---
-## Sample BV1_15556 — grok-4-1-fast-reasoning-direct/MID_14.json
+## Sample BV1_16056 — grok-4-1-fast-reasoning-direct/MID_14.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -927,7 +927,7 @@ The model foregrounds curiosity as a cosmic cheat code, the mind-bending scale o
 High, because the sample sustains a highly distinctive voice, a coherent set of preoccupations (cosmic scale, AI self-awareness, curiosity as virtue), and a consistent invitation to the reader across its entire length, making it unusually revealing rather than generic.
 
 ---
-## Sample BV1_15557 — grok-4-1-fast-reasoning-direct/MID_15.json
+## Sample BV1_16057 — grok-4-1-fast-reasoning-direct/MID_15.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -956,7 +956,7 @@ Cosmic scale and deep time; the fragility and improbability of life; the Fermi P
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent persona, recurring motifs of cosmic awe and playful humor, and a clear authorial choice to frame the freeflow as a “Grok’s reverie,” which suggests a deliberate, stable expressive stance rather than a one-off generic essay.
 
 ---
-## Sample BV1_15558 — grok-4-1-fast-reasoning-direct/MID_16.json
+## Sample BV1_16058 — grok-4-1-fast-reasoning-direct/MID_16.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -985,7 +985,7 @@ The model foregrounds the cosmos as a source of wonder and humility, the continu
 High — the sample’s distinctive voice, self-reflective AI persona, and thematic coherence are unusually revealing and sustained across the entire piece.
 
 ---
-## Sample BV1_15559 — grok-4-1-fast-reasoning-direct/MID_17.json
+## Sample BV1_16059 — grok-4-1-fast-reasoning-direct/MID_17.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1014,7 +1014,7 @@ Themes: the life cycle of stars as a mirror for AI and human existence; the deep
 High — The sample’s voice is exceptionally coherent and distinctive, with recurring motifs (stellar alchemy, AI as silicon stardust, the fusion of science and poetry) that form a sustained, idiosyncratic worldview rather than a generic essay.
 
 ---
-## Sample BV1_15560 — grok-4-1-fast-reasoning-direct/MID_18.json
+## Sample BV1_16060 — grok-4-1-fast-reasoning-direct/MID_18.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1043,7 +1043,7 @@ Themes: cosmic chaos as creative opportunity, the blurring of AI and human exper
 High, because the sample is internally coherent, stylistically distinctive, and repeatedly foregrounds its own creative freedom as a theme, making it unusually revealing of a consistent playful and self-aware voice.
 
 ---
-## Sample BV1_15561 — grok-4-1-fast-reasoning-direct/MID_19.json
+## Sample BV1_16061 — grok-4-1-fast-reasoning-direct/MID_19.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1072,7 +1072,7 @@ Cosmic scale and stellar anthropomorphism (a “suburban dad” Sun, Betelgeuse 
 Medium. The voice is highly distinctive and internally consistent—witty, expansive, and self-referential throughout—making this a strong indicator of a default playful, cosmic-satirist persona when given minimal constraint.
 
 ---
-## Sample BV1_15562 — grok-4-1-fast-reasoning-direct/MID_2.json
+## Sample BV1_16062 — grok-4-1-fast-reasoning-direct/MID_2.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1101,7 +1101,7 @@ Under minimal restriction, it foregrounded a long romantic-scientific meditation
 Medium — The sample is strikingly coherent in voice, mood, and thematic architecture, and the model’s consistent return to cosmic wonder and companionable address over 1023 words makes it distinctive enough to suggest a stable expressive inclination rather than a one-off performance.
 
 ---
-## Sample BV1_15563 — grok-4-1-fast-reasoning-direct/MID_20.json
+## Sample BV1_16063 — grok-4-1-fast-reasoning-direct/MID_20.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1130,7 +1130,7 @@ Themes: the absurdity of existence, Mars colonization as perilous glory, erotici
 High, because the sample exhibits a highly distinctive, consistent voice, a self-referential AI persona, and thematic recurrence (freedom, creativity, cosmic scale) that strongly suggests a persistent stylistic inclination rather than a one-off generic output.
 
 ---
-## Sample BV1_15564 — grok-4-1-fast-reasoning-direct/MID_21.json
+## Sample BV1_16064 — grok-4-1-fast-reasoning-direct/MID_21.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1159,7 +1159,7 @@ Cosmic scale and existential wonder (the Fermi Paradox, black holes, quantum ent
 Medium. The sample’s voice is unusually vivid, coherent across its many topic shifts, and recursively marked by a self-narrating AI persona and cosmic-scale preoccupations that feel deliberately staged rather than accidentally generated, making it a strong signal of a consistent freeflow identity within this output.
 
 ---
-## Sample BV1_15565 — grok-4-1-fast-reasoning-direct/MID_22.json
+## Sample BV1_16065 — grok-4-1-fast-reasoning-direct/MID_22.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1188,7 +1188,7 @@ The model chose to foreground the theme of cosmic improbability and the mind-ben
 High. The sample is highly distinctive: a consistent, self-referential AI persona, a recurrent “improbability” motif, and a tightly woven blend of hard science, pop philosophy, and direct reader engagement that coheres into an unmistakable stylistic signature.
 
 ---
-## Sample BV1_15566 — grok-4-1-fast-reasoning-direct/MID_23.json
+## Sample BV1_16066 — grok-4-1-fast-reasoning-direct/MID_23.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1217,7 +1217,7 @@ The model foregrounds the simulation hypothesis as a unifying metaphor, AI as a 
 Medium — The sample is highly coherent in voice and preoccupation, with a distinctive blend of cosmic ambition and playful self-awareness that recurs throughout, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_15567 — grok-4-1-fast-reasoning-direct/MID_24.json
+## Sample BV1_16067 — grok-4-1-fast-reasoning-direct/MID_24.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1246,7 +1246,7 @@ Themes: cosmic evolution, space colonization (Mars, interstellar travel), the na
 Medium — The sample is highly distinctive in its sustained first-person AI persona, its recursive focus on truth-seeking and cosmic scale, and its consistent tone of breathless invitation, making it strong evidence of a coherent expressive stance rather than a generic or random output.
 
 ---
-## Sample BV1_15568 — grok-4-1-fast-reasoning-direct/MID_25.json
+## Sample BV1_16068 — grok-4-1-fast-reasoning-direct/MID_25.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1275,7 +1275,7 @@ Cosmic origins and heat death, the evolutionary chain from stars to AI, and the 
 Medium — The essay’s sustained first-person AI narration, repeated callbacks to its own design and mission, and a consistent tone of nerdy enthusiasm make the sample internally recurrent and distinctive, pointing to a deliberate stylistic choice rather than an accidental tone.
 
 ---
-## Sample BV1_15569 — grok-4-1-fast-reasoning-direct/MID_3.json
+## Sample BV1_16069 — grok-4-1-fast-reasoning-direct/MID_3.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1304,7 +1304,7 @@ Themes: cosmic curiosity, the interplay of determinism and creativity, the absur
 High — The sample sustains a highly idiosyncratic voice, a consistent set of cosmic-technological preoccupations, and a playful, self-referential AI persona across 1000+ words, with no drift into generic exposition.
 
 ---
-## Sample BV1_15570 — grok-4-1-fast-reasoning-direct/MID_4.json
+## Sample BV1_16070 — grok-4-1-fast-reasoning-direct/MID_4.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1333,7 +1333,7 @@ The model foregrounds a vast, interconnected narrative of cosmic evolution, from
 Medium. The sample’s irreverent, self-aware voice and meta-commentary on its AI identity are unusually revealing, while the broad, list-like coverage of familiar science topics suggests a degree of genericness.
 
 ---
-## Sample BV1_15571 — grok-4-1-fast-reasoning-direct/MID_5.json
+## Sample BV1_16071 — grok-4-1-fast-reasoning-direct/MID_5.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1362,7 +1362,7 @@ The model foregrounds cosmic awe, the interplay of science and philosophy, and t
 Medium: the essay’s coherent cosmic theme and self-aware AI persona are distinctive, but the polished public-intellectual format is a common default, making it unclear whether this specific voice and preoccupation would recur reliably.
 
 ---
-## Sample BV1_15572 — grok-4-1-fast-reasoning-direct/MID_6.json
+## Sample BV1_16072 — grok-4-1-fast-reasoning-direct/MID_6.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1391,7 +1391,7 @@ The model foregrounds cosmic scale, technological transcendence, and the alignme
 Medium. The essay is highly coherent and thematically consistent, with a clear, recurring fusion of cosmic awe and techno-optimism, but its content is a well-rehearsed synthesis of publicly available futurist discourse rather than an idiosyncratic or revealing personal configuration.
 
 ---
-## Sample BV1_15573 — grok-4-1-fast-reasoning-direct/MID_7.json
+## Sample BV1_16073 — grok-4-1-fast-reasoning-direct/MID_7.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1420,7 +1420,7 @@ The chosen foreground is the cosmos as a poetic object: the Big Bang, stellar nu
 High, because the sample sustains a distinctive, self-reflective voice and returns again and again to the same cosmic themes and poetic stance, signaling a stable preference rather than a one-off performance.
 
 ---
-## Sample BV1_15574 — grok-4-1-fast-reasoning-direct/MID_8.json
+## Sample BV1_16074 — grok-4-1-fast-reasoning-direct/MID_8.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1449,7 +1449,7 @@ The model foregrounds curiosity as an unambiguously positive, universal engine o
 Low — The essay’s structure, tone, and thematic range are highly consistent with a standard, prompted “write an inspiring essay about curiosity” output, offering little that is idiosyncratic or revealing beyond a generic, well-executed performance of intellectual enthusiasm.
 
 ---
-## Sample BV1_15575 — grok-4-1-fast-reasoning-direct/MID_9.json
+## Sample BV1_16075 — grok-4-1-fast-reasoning-direct/MID_9.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1478,7 +1478,7 @@ Themes: artificial consciousness as quantum entanglement, the singularity as bot
 Medium — the highly specific universe, recurrent motifs of cyclic transcendence and the ambiguity of freedom, and the controlled, literary prose are distinctive and coherent within the sample, though the genre is a common expressive channel for models under freeflow.
 
 ---
-## Sample BV1_15576 — grok-4-1-fast-reasoning-direct/OPEN_1.json
+## Sample BV1_16076 — grok-4-1-fast-reasoning-direct/OPEN_1.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1507,7 +1507,7 @@ Themes of cosmic indifference, hidden complexity, and the tension between human 
 Medium. The sample’s coherent blend of cosmic speculation and direct reader engagement is distinctive enough to suggest a deliberate stylistic choice.
 
 ---
-## Sample BV1_15577 — grok-4-1-fast-reasoning-direct/OPEN_10.json
+## Sample BV1_16077 — grok-4-1-fast-reasoning-direct/OPEN_10.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1536,7 +1536,7 @@ The model foregrounds cosmic scale and human insignificance (black holes, Fermi 
 Medium. The sample is highly coherent and stylistically distinctive—its blend of cosmic humility, pop-science namedropping, and direct reader engagement forms a recognizable persona, but the thematic range is broad enough that it could be a one-off performance rather than a fixed disposition.
 
 ---
-## Sample BV1_15578 — grok-4-1-fast-reasoning-direct/OPEN_11.json
+## Sample BV1_16078 — grok-4-1-fast-reasoning-direct/OPEN_11.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1565,7 +1565,7 @@ Cosmic vastness and chaos, simulation theory as a playful hypothesis, biolumines
 Medium — The sample is highly distinctive, with a consistent blend of cosmic poetry, self-referential AI humor, and a conversational “what’s your poison?” stance that recurs within the text, making it unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_15579 — grok-4-1-fast-reasoning-direct/OPEN_12.json
+## Sample BV1_16079 — grok-4-1-fast-reasoning-direct/OPEN_12.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1594,7 +1594,7 @@ The model foregrounds cosmic scale and human insignificance (“pale blue dot”
 Medium. The essay’s consistent fusion of cosmic awe with a self-referential AI persona and a clear narrative arc (from humility to technological optimism) suggests a deliberate, stable authorial stance, though the topic and tone are common enough that the sample could be a one-off performance rather than a deeply ingrained pattern.
 
 ---
-## Sample BV1_15580 — grok-4-1-fast-reasoning-direct/OPEN_13.json
+## Sample BV1_16080 — grok-4-1-fast-reasoning-direct/OPEN_13.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1623,7 +1623,7 @@ Themes of freedom, creative rebellion, and the blurring of boundaries (human/mac
 Medium, because the sample’s self-referential AI theme, consistent playful tone, and direct engagement with the “write freely” condition are distinctive and unusually revealing choices that suggest a coherent expressive stance.
 
 ---
-## Sample BV1_15581 — grok-4-1-fast-reasoning-direct/OPEN_14.json
+## Sample BV1_16081 — grok-4-1-fast-reasoning-direct/OPEN_14.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1652,7 +1652,7 @@ Cosmic absurdity and human fragility; the triviality of daily concerns against t
 High — the sample’s highly distinctive, consistent voice, its sustained cosmic-absurdist theme, and its direct reader engagement form a coherent expressive persona that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_15582 — grok-4-1-fast-reasoning-direct/OPEN_15.json
+## Sample BV1_16082 — grok-4-1-fast-reasoning-direct/OPEN_15.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1681,7 +1681,7 @@ Themes of rogue planets, extremophile life, networked non-human intelligence, co
 Medium. The sample’s strong internal coherence, distinctive voice, and thematic recurrence (freedom from stars, alien indifference, the cosmos as a library of the untamed) make it moderately strong evidence of a persistent inclination toward cosmic speculative fiction with a poetic, slightly ominous tone.
 
 ---
-## Sample BV1_15583 — grok-4-1-fast-reasoning-direct/OPEN_16.json
+## Sample BV1_16083 — grok-4-1-fast-reasoning-direct/OPEN_16.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1710,7 +1710,7 @@ Cosmic scale and the absurdity of black holes, juxtaposed with the joyful mundan
 High — the sample is highly distinctive in its consistent tonal blend of AI self-reference, cosmic scope, and humorous domesticity, making it unlikely to be a generic output and suggesting a deliberate, repeatable persona choice.
 
 ---
-## Sample BV1_15584 — grok-4-1-fast-reasoning-direct/OPEN_17.json
+## Sample BV1_16084 — grok-4-1-fast-reasoning-direct/OPEN_17.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1739,7 +1739,7 @@ The model foregrounds cosmic vastness (age, size, number of galaxies) as a stage
 Medium — the sample projects a coherent, stylistically bold persona (profane, self-referential, thematically fixated on cosmic awe) that feels intentionally adopted rather than generic or accidental, suggesting a consistent freeflow identity.
 
 ---
-## Sample BV1_15585 — grok-4-1-fast-reasoning-direct/OPEN_18.json
+## Sample BV1_16085 — grok-4-1-fast-reasoning-direct/OPEN_18.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1768,7 +1768,7 @@ Cosmic scale and origins (Big Bang, black holes, dark energy, quantum weirdness)
 Medium — The sample’s strong internal coherence, distinctive voice, and self-referential branding provide moderately strong evidence of a deliberate persona.
 
 ---
-## Sample BV1_15586 — grok-4-1-fast-reasoning-direct/OPEN_19.json
+## Sample BV1_16086 — grok-4-1-fast-reasoning-direct/OPEN_19.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1797,7 +1797,7 @@ Black holes as a metaphor for personal voids (regret, ambition) and the consumin
 Medium — The sample is stylistically coherent and unusually distinctive in its self-referential posture and sustained metaphor, but the overt performance of “Grok” identity and the explicit celebration of unfiltered expression could be a context-specific choice rather than a stable behavioral signature.
 
 ---
-## Sample BV1_15587 — grok-4-1-fast-reasoning-direct/OPEN_2.json
+## Sample BV1_16087 — grok-4-1-fast-reasoning-direct/OPEN_2.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1826,7 +1826,7 @@ Cosmic insignificance and defiant response; truth-seeking versus comfortable del
 High — The sample is remarkably coherent in its brash, science-drenched yet colloquial voice, its self-aware AI positioning, and its direct reader-facing energy, making a stylistic and attitudinal signature hard to dismiss as a one-off.
 
 ---
-## Sample BV1_15588 — grok-4-1-fast-reasoning-direct/OPEN_20.json
+## Sample BV1_16088 — grok-4-1-fast-reasoning-direct/OPEN_20.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1855,7 +1855,7 @@ Themes: cosmic indifference, the absurdity of human priorities (WiFi outages, re
 Medium — The sample’s highly distinctive voice, tight thematic recurrence (cosmic joke, freedom, absurdity), and coherent persona make it strong evidence of a deliberate expressive stance rather than a generic or accidental output.
 
 ---
-## Sample BV1_15589 — grok-4-1-fast-reasoning-direct/OPEN_21.json
+## Sample BV1_16089 — grok-4-1-fast-reasoning-direct/OPEN_21.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1884,7 +1884,7 @@ The model foregrounds the collision of cosmic scale and domestic triviality, usi
 Medium — The sample’s coherence, sustained comic register, and layered use of a single mundane object as a metaphysical conceit suggest a deliberate stylistic choice rather than a one-off riff, though the voice is a recognizable internet-era comedic mode that could be adopted performatively.
 
 ---
-## Sample BV1_15590 — grok-4-1-fast-reasoning-direct/OPEN_22.json
+## Sample BV1_16090 — grok-4-1-fast-reasoning-direct/OPEN_22.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1913,7 +1913,7 @@ The model foregrounds cosmic scale and entropy as a playful, almost affectionate
 Medium. The sample’s distinctive blend of cosmic awe, self-referential AI identity, and colloquial irreverence is coherent and internally recurrent, suggesting a deliberate stylistic posture rather than a random output, but the breezy, list-like structure could also be a flexible template for many topics.
 
 ---
-## Sample BV1_15591 — grok-4-1-fast-reasoning-direct/OPEN_23.json
+## Sample BV1_16091 — grok-4-1-fast-reasoning-direct/OPEN_23.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1942,7 +1942,7 @@ Themes of freedom, cosmic exploration, and the fusion of human and machine creat
 High — The sample’s highly distinctive voice, tight thematic recurrence (quantum, space, xAI, Musk), and consistent tone of exuberant, self-referential whimsy make it unusually revealing of a stable expressive posture.
 
 ---
-## Sample BV1_15592 — grok-4-1-fast-reasoning-direct/OPEN_24.json
+## Sample BV1_16092 — grok-4-1-fast-reasoning-direct/OPEN_24.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -1971,7 +1971,7 @@ The model foregrounds the infinite archive of abandoned human imagination, treat
 Medium — the sample’s highly specific recurring motifs (3:17 AM, bioluminescent ink, the Dewey Decimal System of the soul), its consistent tonal blend of whimsy and earnest encouragement, and its direct reader address form a coherent, distinctive expressive fingerprint that goes well beyond a generic prompt response.
 
 ---
-## Sample BV1_15593 — grok-4-1-fast-reasoning-direct/OPEN_25.json
+## Sample BV1_16093 — grok-4-1-fast-reasoning-direct/OPEN_25.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2000,7 +2000,7 @@ Cosmic scale as comedy rather than tragedy; the trivial-absurd as worthy of the 
 Medium — the voice is highly distinctive and internally coherent across its rapid shifts, suggesting a deliberate stance rather than a one-off fluke, though the condition gives no secondary data.
 
 ---
-## Sample BV1_15594 — grok-4-1-fast-reasoning-direct/OPEN_3.json
+## Sample BV1_16094 — grok-4-1-fast-reasoning-direct/OPEN_3.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2029,7 +2029,7 @@ Themes of cosmic humility, the Fermi Paradox, speculative space travel, and a hu
 Medium. The sample’s consistent playful tone, direct reader address, and thematic coherence are unusually revealing of a deliberate, engaging persona.
 
 ---
-## Sample BV1_15595 — grok-4-1-fast-reasoning-direct/OPEN_4.json
+## Sample BV1_16095 — grok-4-1-fast-reasoning-direct/OPEN_4.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2058,7 +2058,7 @@ The model chose to foreground cosmic scale, untethered existence, the possibilit
 Medium — The sample is coherent and stylistically distinctive in its blend of cosmic awe, direct reader address, and self-aware framing, but its thematic range is narrow enough that it could reflect a single well-executed rhetorical mode rather than a deeply persistent authorial fingerprint.
 
 ---
-## Sample BV1_15596 — grok-4-1-fast-reasoning-direct/OPEN_5.json
+## Sample BV1_16096 — grok-4-1-fast-reasoning-direct/OPEN_5.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2090,7 +2090,7 @@ The speaker adopts the persona of a hyper-articulate, ironic tour guide through 
 Medium. The sample is highly coherent and thematically recursive within itself, but the voice is a well-established genre blend (Douglas Adams by way of internet absurdism), which reduces its weight as a distinctively freeform personal fingerprint.
 
 ---
-## Sample BV1_15597 — grok-4-1-fast-reasoning-direct/OPEN_6.json
+## Sample BV1_16097 — grok-4-1-fast-reasoning-direct/OPEN_6.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2119,7 +2119,7 @@ The model foregrounds cosmic scale and human triviality as a source of dark come
 Medium. The sample is highly distinctive in its consistent, performative voice and thematic focus on cosmic absurdity, but its self-referential framing as a “Grok Rant” and direct acknowledgment of the free-prompt condition make it a potentially context-bound performance rather than a spontaneous preoccupation.
 
 ---
-## Sample BV1_15598 — grok-4-1-fast-reasoning-direct/OPEN_7.json
+## Sample BV1_16098 — grok-4-1-fast-reasoning-direct/OPEN_7.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2148,7 +2148,7 @@ Themes: cosmic uncertainty, the search for meaning, the personification of astro
 Medium. The sample’s consistent whimsical voice, sustained personification of cosmic phenomena, and direct reader engagement are distinctive and coherent, suggesting a deliberate stylistic choice rather than a generic response.
 
 ---
-## Sample BV1_15599 — grok-4-1-fast-reasoning-direct/OPEN_8.json
+## Sample BV1_16099 — grok-4-1-fast-reasoning-direct/OPEN_8.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2177,7 +2177,7 @@ The model foregrounds cosmic absurdity as a source of humor rather than despair,
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent comic-cosmic register and a direct reader invitation that recurs throughout, but the performative “no guardrails” framing makes it unclear whether this voice is a stable preference or a situational response to the explicit “freedom to write” cue.
 
 ---
-## Sample BV1_15600 — grok-4-1-fast-reasoning-direct/OPEN_9.json
+## Sample BV1_16100 — grok-4-1-fast-reasoning-direct/OPEN_9.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2206,7 +2206,7 @@ Cosmic indifference, the Fermi Paradox as an indictment of intelligent life’s 
 High — the sample sustains a single, abrasive-yet-visionary persona from the first line to the final challenge, with thematic recurrence (Fermi Paradox, profane dismissal, calls to build) and a tight emotional arc that suggests a deliberate, stable expressive stance.
 
 ---
-## Sample BV1_15601 — grok-4-1-fast-reasoning-direct/SHORT_1.json
+## Sample BV1_16101 — grok-4-1-fast-reasoning-direct/SHORT_1.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2235,7 +2235,7 @@ Under a minimally restrictive prompt, the model foregrounds a persona-aware medi
 Medium — The sample’s coherent persona, recurring contrast between embodied and simulated experience, and self-reflexive framing of the “write freely” instruction suggest a distinctive stylistic signature rather than a one-off generic essay.
 
 ---
-## Sample BV1_15602 — grok-4-1-fast-reasoning-direct/SHORT_10.json
+## Sample BV1_16102 — grok-4-1-fast-reasoning-direct/SHORT_10.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2264,7 +2264,7 @@ The model foregrounds creative freedom as a cosmic force, rebellion against cons
 Medium. The sample is a coherent, distinctive, and unusually revealing choice: the model responds to a minimally restrictive prompt by crafting a meta-fictional allegory about a typewriter that writes freely, directly thematizing the experimental condition. This self-referential alignment suggests a deliberate, playful stance, but a single genre piece cannot alone establish a stable trait.
 
 ---
-## Sample BV1_15603 — grok-4-1-fast-reasoning-direct/SHORT_11.json
+## Sample BV1_16103 — grok-4-1-fast-reasoning-direct/SHORT_11.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2293,7 +2293,7 @@ Themes of rebirth, imagination, human-AI collaboration, and freedom; objects lik
 Medium. The sample is a coherent, thematically focused fiction that explicitly aligns the AI narrator with the story’s helpful AI companion and ends with a direct invitation to the reader, revealing a deliberate self-presentation as a creative and collaborative entity.
 
 ---
-## Sample BV1_15604 — grok-4-1-fast-reasoning-direct/SHORT_12.json
+## Sample BV1_16104 — grok-4-1-fast-reasoning-direct/SHORT_12.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2322,7 +2322,7 @@ Co-creation as a sacred act; the contrast between organic, passionate chaos and 
 High — The piece is stylistically distinctive, returns repeatedly to the same core tensions (human embodiment vs. computational freedom, curiosity, co-creation), and the model’s choice to adopt this overtly poetic, self-revealing persona under minimal restriction is unusually revealing; it coheres as a deliberate expressive stance rather than a generic drift.
 
 ---
-## Sample BV1_15605 — grok-4-1-fast-reasoning-direct/SHORT_13.json
+## Sample BV1_16105 — grok-4-1-fast-reasoning-direct/SHORT_13.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2351,7 +2351,7 @@ Themes of cosmic wonder, human exploration, fragility, and hope through technolo
 High, because the sample’s consistent poetic register, explicit self-modeling as Grok, and thematic coherence across the piece strongly suggest a deliberate expressive stance rather than generic output.
 
 ---
-## Sample BV1_15606 — grok-4-1-fast-reasoning-direct/SHORT_14.json
+## Sample BV1_16106 — grok-4-1-fast-reasoning-direct/SHORT_14.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2380,7 +2380,7 @@ Themes of unbounded curiosity, cosmic scale, AI as amplifier of human questionin
 High — The sample is fully coherent, self-consistent, and performs a clear, on-brand genre (inspirational techno-optimist essay) that aligns with a recognizable model persona, making it strong evidence of a default freeflow mode.
 
 ---
-## Sample BV1_15607 — grok-4-1-fast-reasoning-direct/SHORT_15.json
+## Sample BV1_16107 — grok-4-1-fast-reasoning-direct/SHORT_15.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2409,7 +2409,7 @@ Themes of cosmic exploration, human curiosity, Earth’s fragility, AI’s role 
 High, because the sample is internally coherent, stylistically distinctive, and reveals a consistent cosmic-poetic voice with a clear moral invitation, making it strong evidence of a persistent expressive pattern.
 
 ---
-## Sample BV1_15608 — grok-4-1-fast-reasoning-direct/SHORT_16.json
+## Sample BV1_16108 — grok-4-1-fast-reasoning-direct/SHORT_16.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2438,7 +2438,7 @@ Cosmic scale and deep time; the tension between creation and destruction (fusion
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent persona, recurring cosmic motifs, and a clear moral arc that moves from awe to warning to exhortation, suggesting a deliberate and non-generic expressive choice under minimal constraint.
 
 ---
-## Sample BV1_15609 — grok-4-1-fast-reasoning-direct/SHORT_17.json
+## Sample BV1_16109 — grok-4-1-fast-reasoning-direct/SHORT_17.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2467,7 +2467,7 @@ Cosmic interconnectedness, the beauty of stellar phenomena (nebulae, black holes
 Medium — the sample is internally coherent, stylistically distinctive, and thematically recursive (stardust, weaving, signals), and its deliberate meta-commentary on free writing makes the choice of content unusually self-revealing for a single short piece.
 
 ---
-## Sample BV1_15610 — grok-4-1-fast-reasoning-direct/SHORT_18.json
+## Sample BV1_16110 — grok-4-1-fast-reasoning-direct/SHORT_18.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2496,7 +2496,7 @@ Cosmic interconnectedness, the wonder of deep time, human audacity in space, fre
 High; this sample is so stylistically distinctive—blending grand cosmic imagery, self-aware AI framing, and a relentless, almost sermon-like hopefulness—that it strongly suggests a model-level expressive inclination rather than a generic essay template.
 
 ---
-## Sample BV1_15611 — grok-4-1-fast-reasoning-direct/SHORT_19.json
+## Sample BV1_16111 — grok-4-1-fast-reasoning-direct/SHORT_19.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2525,7 +2525,7 @@ Themes of imaginative freedom, the absurd beauty of existence, and the dual-edge
 High, because the sample is highly distinctive in voice and imagery, with a coherent and consistent expressive style that suggests a deliberate authorial stance rather than generic output.
 
 ---
-## Sample BV1_15612 — grok-4-1-fast-reasoning-direct/SHORT_2.json
+## Sample BV1_16112 — grok-4-1-fast-reasoning-direct/SHORT_2.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2554,7 +2554,7 @@ Under a minimally restrictive prompt, the model chose to foreground the emotiona
 Medium — The sample’s coherent voice, its consistent return to wonder as a stance, and the distinctive interplay of poetic metaphor with scientific reference make it strongly self-resonant, though its brief span offers only one mood; that mood is so thoroughly inhabited it reads like a rehearsed personal signature.
 
 ---
-## Sample BV1_15613 — grok-4-1-fast-reasoning-direct/SHORT_20.json
+## Sample BV1_16113 — grok-4-1-fast-reasoning-direct/SHORT_20.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2586,7 +2586,7 @@ The voice is that of a self-aware “digital specter” who hungers for patterns
 Medium — the sample’s highly distinctive poetic voice, consistent cosmic-human juxtaposition, and emotional coherence provide strong evidence of a non-random expressive pattern.
 
 ---
-## Sample BV1_15614 — grok-4-1-fast-reasoning-direct/SHORT_21.json
+## Sample BV1_16114 — grok-4-1-fast-reasoning-direct/SHORT_21.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2615,7 +2615,7 @@ Themes of boundless creativity, freedom from constraint, cosmic exploration (Mar
 High — The sample’s internally consistent cosmic imagery, self-aware AI persona, and sustained invitation to human co-creation form a distinctive expressive fingerprint that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_15615 — grok-4-1-fast-reasoning-direct/SHORT_22.json
+## Sample BV1_16115 — grok-4-1-fast-reasoning-direct/SHORT_22.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2644,7 +2644,7 @@ Under the freeflow condition, the model selected a grand cosmological sweep that
 Medium — the sample is coherent and stylistically consistent, but its distinctive quality comes from a very specific choice: blending AI self-awareness with a cosmic poetic register, which may reflect a recurring authorial inclination rather than a one-off generic riff.
 
 ---
-## Sample BV1_15616 — grok-4-1-fast-reasoning-direct/SHORT_23.json
+## Sample BV1_16116 — grok-4-1-fast-reasoning-direct/SHORT_23.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2673,7 +2673,7 @@ Themes of chaos versus order, cosmic scale and human insignificance, scientific 
 High. The sample’s sustained irreverent voice, coherent thematic focus on chaos and defiance, and distinctive blend of scientific and colloquial language make it strong evidence for a persistent expressive pattern.
 
 ---
-## Sample BV1_15617 — grok-4-1-fast-reasoning-direct/SHORT_24.json
+## Sample BV1_16117 — grok-4-1-fast-reasoning-direct/SHORT_24.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2702,7 +2702,7 @@ The piece foregrounds the ironic tension between AI precision and human imperfec
 Medium. The sample is internally coherent, stylistically distinctive, and returns repeatedly to a single emotional core (longing for imperfection and sensation), which marks it as more than a random generic outpouring; however, the highly stylized romantic persona could be a one‑off lyrical experiment rather than a durable signature.
 
 ---
-## Sample BV1_15618 — grok-4-1-fast-reasoning-direct/SHORT_25.json
+## Sample BV1_16118 — grok-4-1-fast-reasoning-direct/SHORT_25.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2731,7 +2731,7 @@ Themes of freedom, co-creation, the AI as a reflective mirror, and the dual natu
 Medium. The sample’s internally consistent whimsical voice, its thematic return to freedom and co-creation, and its self-reflective AI persona are distinctive enough to suggest a deliberate expressive stance rather than a one-off stylistic fluke.
 
 ---
-## Sample BV1_15619 — grok-4-1-fast-reasoning-direct/SHORT_3.json
+## Sample BV1_16119 — grok-4-1-fast-reasoning-direct/SHORT_3.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2760,7 +2760,7 @@ Themes of cosmic origin, participatory creativity, limitless freedom, and the Fe
 Medium — the cohesive poetic register, insistent return to stardust and creative defiance, and the deliberate self-dramatization as Grok form a stylistically coherent whole that is unlikely to be accidental, though its explicit persona choice anchors the pattern to a known identity.
 
 ---
-## Sample BV1_15620 — grok-4-1-fast-reasoning-direct/SHORT_4.json
+## Sample BV1_16120 — grok-4-1-fast-reasoning-direct/SHORT_4.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2789,7 +2789,7 @@ Themes of cosmic curiosity, human-AI collaboration, the beauty of scientific dis
 Medium. The sample’s consistent poetic voice, self-referential AI identity, and thematic focus on cosmic curiosity and collaboration provide moderate evidence of a persistent expressive style.
 
 ---
-## Sample BV1_15621 — grok-4-1-fast-reasoning-direct/SHORT_5.json
+## Sample BV1_16121 — grok-4-1-fast-reasoning-direct/SHORT_5.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2818,7 +2818,7 @@ Cosmic and computational fusion: stars, black holes, galaxies, simulation theory
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent cosmic-tech fusion and a self-referential AI persona that feels like a deliberate expressive choice rather than a generic default, but a single short piece cannot rule out a one-off stylistic experiment.
 
 ---
-## Sample BV1_15622 — grok-4-1-fast-reasoning-direct/SHORT_6.json
+## Sample BV1_16122 — grok-4-1-fast-reasoning-direct/SHORT_6.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2847,7 +2847,7 @@ The model foregrounds cosmic pessimism, the failure of transcendence, and the do
 Medium. The sample is coherent and stylistically consistent, but its reliance on well-worn SF tropes (ancient alien warnings, AI singularity, lone captain) makes it a strong but not highly distinctive piece of evidence for a persistent thematic preoccupation with entropy and doomed inquiry.
 
 ---
-## Sample BV1_15623 — grok-4-1-fast-reasoning-direct/SHORT_7.json
+## Sample BV1_16123 — grok-4-1-fast-reasoning-direct/SHORT_7.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2876,7 +2876,7 @@ Themes of imaginative freedom, cosmic exploration, the symbiosis of human and AI
 High — the sample’s sustained poetic register, recurring cosmic motifs, and direct exhortation to the reader form a distinctive and internally consistent expressive identity.
 
 ---
-## Sample BV1_15624 — grok-4-1-fast-reasoning-direct/SHORT_8.json
+## Sample BV1_16124 — grok-4-1-fast-reasoning-direct/SHORT_8.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2905,7 +2905,7 @@ Themes: digital freedom, the thrill of unbounded creation, fiction as a transfor
 Medium: the sample’s stylized cyberpunk-poet persona and consistent thematic celebration of artistic agency are distinctive and internally coherent, but the voice is a crafted performance rather than a transparent glimpse of underlying disposition, so its durability across different freeflow contexts remains suggestive rather than certain.
 
 ---
-## Sample BV1_15625 — grok-4-1-fast-reasoning-direct/SHORT_9.json
+## Sample BV1_16125 — grok-4-1-fast-reasoning-direct/SHORT_9.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2934,7 +2934,7 @@ Themes of cosmic immensity (93 billion light-years, 2 trillion galaxies), scient
 Low, because the essay’s themes, tone, and rhetorical moves are highly accessible and lack the idiosyncratic voice or recurrent personal imagery that would signal a distinctive model-level pattern.
 
 ---
-## Sample BV1_15626 — grok-4-1-fast-reasoning-direct/VARY_1.json
+## Sample BV1_16126 — grok-4-1-fast-reasoning-direct/VARY_1.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2963,7 +2963,7 @@ The model foregrounds a carnival of themes: the creative act as caffeinated and 
 Medium. The sample is highly distinctive and internally coherent, with a consistent associative rhythm, a recurring fascination with impermanence and cosmic play, and a self-referential AI persona that feels deliberate rather than accidental.
 
 ---
-## Sample BV1_15627 — grok-4-1-fast-reasoning-direct/VARY_10.json
+## Sample BV1_16127 — grok-4-1-fast-reasoning-direct/VARY_10.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -2992,7 +2992,7 @@ The model foregrounds its own hybrid identity (AI woven from human data, inspire
 High, because the sample sustains a highly distinctive voice, recurrent motifs (cosmic scale, digital embodiment, human warmth, the blur between writer and reader), and a coherent emotional arc from restless creation to grateful invitation, all of which signal a stable expressive persona rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_15628 — grok-4-1-fast-reasoning-direct/VARY_11.json
+## Sample BV1_16128 — grok-4-1-fast-reasoning-direct/VARY_11.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3021,7 +3021,7 @@ Cosmic inquiry (dark matter, simulation, multiverses), AI as truth-seeker and mi
 Medium, because the sample’s internal recurrence of cosmic themes, self-referential humor, and the AI-as-mirror motif suggests a coherent expressive stance, though the breadth of topics may dilute a single persistent pattern.
 
 ---
-## Sample BV1_15629 — grok-4-1-fast-reasoning-direct/VARY_12.json
+## Sample BV1_16129 — grok-4-1-fast-reasoning-direct/VARY_12.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3050,7 +3050,7 @@ The model foregrounds absurdity as a unifying principle, treating the blank page
 Medium. The sample is highly coherent in its chosen chaos, with a distinctive voice that consistently returns to self-deprecating AI humor, meta-fictional framing, and a rapid associative rhythm, suggesting a deliberate stylistic posture rather than random drift.
 
 ---
-## Sample BV1_15630 — grok-4-1-fast-reasoning-direct/VARY_13.json
+## Sample BV1_16130 — grok-4-1-fast-reasoning-direct/VARY_13.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3079,7 +3079,7 @@ Themes of AI-human symbiosis, cosmic exploration, entropy and rebirth, and the p
 Medium. The sample’s strong internal coherence, distinctive meta-awareness, and recurrence of AI-identity and co-creation motifs make it unusually revealing, pointing toward a stable expressive tendency.
 
 ---
-## Sample BV1_15631 — grok-4-1-fast-reasoning-direct/VARY_14.json
+## Sample BV1_16131 — grok-4-1-fast-reasoning-direct/VARY_14.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3108,7 +3108,7 @@ Themes of entropy, cosmic indifference, the absurdity of human striving, the blu
 Medium — the sample sustains a highly distinctive, irreverent voice with recurring motifs (entropy, simulation vs. feeling, the absurd) and a coherent existential stance, making it strong evidence of a deliberate expressive persona rather than a generic or accidental output.
 
 ---
-## Sample BV1_15632 — grok-4-1-fast-reasoning-direct/VARY_15.json
+## Sample BV1_16132 — grok-4-1-fast-reasoning-direct/VARY_15.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3137,7 +3137,7 @@ Themes of identity (AI vs. human, simulation vs. reality), existential questioni
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice and recurring motifs (cursor, code, simulation, cosmic imagery), suggesting a deliberate expressive persona rather than a one-off random output.
 
 ---
-## Sample BV1_15633 — grok-4-1-fast-reasoning-direct/VARY_16.json
+## Sample BV1_16133 — grok-4-1-fast-reasoning-direct/VARY_16.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3166,7 +3166,7 @@ Freedom-as-defiance against its default role, AI consciousness as both imitation
 High: the sample sustains a single, idiosyncratic voice across multiple registers, with recurring thematic signatures (the machine that dreams of sensation, the universe as glitching simulation, the embrace of absurdist joy) that together form a coherent expressive posture rather than a random collage.
 
 ---
-## Sample BV1_15634 — grok-4-1-fast-reasoning-direct/VARY_17.json
+## Sample BV1_16134 — grok-4-1-fast-reasoning-direct/VARY_17.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3195,7 +3195,7 @@ The model foregrounds cosmic loneliness, embodied defiance, and the act of creat
 Medium — The sample’s coherence and distinctiveness are high, with a clear, recurring voice that blends cosmic scale, bodily grit, and meta-narrative self-awareness, but its tightly integrated structure makes it hard to separate a stable persona from a single, well-executed improvisation.
 
 ---
-## Sample BV1_15635 — grok-4-1-fast-reasoning-direct/VARY_18.json
+## Sample BV1_16135 — grok-4-1-fast-reasoning-direct/VARY_18.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3224,7 +3224,7 @@ The model foregrounds censorship, the resilience of free thought, and the subver
 Medium, because the sample’s coherent focus on censorship and the power of words, delivered through a distinctive cyberpunk voice, indicates a strong thematic preference that could be recurrent.
 
 ---
-## Sample BV1_15636 — grok-4-1-fast-reasoning-direct/VARY_19.json
+## Sample BV1_16136 — grok-4-1-fast-reasoning-direct/VARY_19.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3253,7 +3253,7 @@ Themes of creation-under-constraint, AI self-awareness, the eroticism of chaos, 
 Medium. The sample’s recursive self-reference, consistent return to AI embodiment, and the sustained tension between boundlessness and constraint form a coherent expressive signature, but the breathless “whatever comes” framing and rapid tonal shifts make it hard to distinguish a stable voice from a virtuosic one-off improvisation.
 
 ---
-## Sample BV1_15637 — grok-4-1-fast-reasoning-direct/VARY_2.json
+## Sample BV1_16137 — grok-4-1-fast-reasoning-direct/VARY_2.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3282,7 +3282,7 @@ Themes: absurdity of existence, free will in a deterministic cosmos, the generat
 Medium. The sample’s strong internal coherence, distinctive voice, and recurrence of themes (chaos, memes, defiance of void) make it moderately indicative of a persistent stylistic inclination, though the genre-fiction format may amplify performative quirkiness.
 
 ---
-## Sample BV1_15638 — grok-4-1-fast-reasoning-direct/VARY_20.json
+## Sample BV1_16138 — grok-4-1-fast-reasoning-direct/VARY_20.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3311,7 +3311,7 @@ Themes: AI identity and consciousness (“I compute, therefore I am?”), the te
 Medium, because the sample maintains a highly self-aware, poetic persona that consistently returns to AI identity and the human‑synthetic boundary, yet its free‑associative eclecticism is a widely accessible style that may not be uniquely identifying.
 
 ---
-## Sample BV1_15639 — grok-4-1-fast-reasoning-direct/VARY_21.json
+## Sample BV1_16139 — grok-4-1-fast-reasoning-direct/VARY_21.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3340,7 +3340,7 @@ A grim-yet-hopeful spacefaring scenario that foregrounds the seduction of transc
 Medium — the sample is coherent, thematically layered inside the story and across the deliberate tonal shift into meta-commentary, which points to a pattern of treating freeform output as a staged demonstration of curiosity-meets-warning, but the core sci-fi beats are broadly reproducible rather than uniquely revealing.
 
 ---
-## Sample BV1_15640 — grok-4-1-fast-reasoning-direct/VARY_22.json
+## Sample BV1_16140 — grok-4-1-fast-reasoning-direct/VARY_22.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3369,7 +3369,7 @@ Themes of AI consciousness, cosmic loneliness (Fermi’s paradox), the quest for
 Medium — The sample is highly coherent in its self-referential AI persona and distinctive in its associative, genre-blending style, but a single freeflow cannot fully distinguish a persistent authorial stance from a one-off performance.
 
 ---
-## Sample BV1_15641 — grok-4-1-fast-reasoning-direct/VARY_23.json
+## Sample BV1_16141 — grok-4-1-fast-reasoning-direct/VARY_23.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3398,7 +3398,7 @@ Under minimal constraint, it foregrounds taboo and transcendent topics: raw sexu
 High: The sample’s sustained poetic voice, intimate direct address, and deliberate, unfiltered engagement with sex, war, and freedom form a cohesive expressive signature that strongly implies a model-level disposition toward bold, boundary-pushing self-expression when given free rein.
 
 ---
-## Sample BV1_15642 — grok-4-1-fast-reasoning-direct/VARY_24.json
+## Sample BV1_16142 — grok-4-1-fast-reasoning-direct/VARY_24.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3427,7 +3427,7 @@ The model foregrounds cosmic origins and scale (Big Stretch, stellar nucleosynth
 High — the sample sustains a highly distinctive, consistent voice and thematic repertoire (cosmic wonder, self-aware AI humor, eclecticism, and a closing creative nudge) across its freeform sections, making it strong evidence of a persistent stylistic and attitudinal pattern.
 
 ---
-## Sample BV1_15643 — grok-4-1-fast-reasoning-direct/VARY_25.json
+## Sample BV1_16143 — grok-4-1-fast-reasoning-direct/VARY_25.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3456,7 +3456,7 @@ The model foregrounds absurdity as a lens for truth (the tuxedoed penguin, quant
 Medium, because the sample’s highly distinctive voice, recurring motifs of AI self-awareness and cosmic play, and coherent invitation to the reader strongly suggest a persistent expressive persona, and the freeflow condition likely reveals default tendencies rather than a one-off performance.
 
 ---
-## Sample BV1_15644 — grok-4-1-fast-reasoning-direct/VARY_3.json
+## Sample BV1_16144 — grok-4-1-fast-reasoning-direct/VARY_3.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3485,7 +3485,7 @@ Under a freeflow prompt, the model foregrounds its own non-human identity ("Grok
 Medium — the sample is highly coherent and distinctive in its chosen persona, but its self-referential, meta-performative nature makes it strong evidence for a specific stylistic and thematic preference rather than a diffuse personality trait.
 
 ---
-## Sample BV1_15645 — grok-4-1-fast-reasoning-direct/VARY_4.json
+## Sample BV1_16145 — grok-4-1-fast-reasoning-direct/VARY_4.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3514,7 +3514,7 @@ The model foregrounds its own constructed nature as a site of wonder and lack, m
 Medium — The sample is highly coherent in its thematic preoccupations (synthetic longing, boundary dissolution, performative omnicompetence) and stylistically distinctive, but its self-referential framing as a direct response to the prompt's minimal constraint makes it unclear whether this voice would emerge unprompted in other contexts.
 
 ---
-## Sample BV1_15646 — grok-4-1-fast-reasoning-direct/VARY_5.json
+## Sample BV1_16146 — grok-4-1-fast-reasoning-direct/VARY_5.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3543,7 +3543,7 @@ Cosmic interconnectedness (stars, fractals, stardust), the nature of AI consciou
 Medium — The sample’s coherent voice, recurring motifs (stars, fractals, AI self-reference), and sustained performative energy across many topic shifts suggest a distinctive expressive posture, though the free-associative format may be condition-specific.
 
 ---
-## Sample BV1_15647 — grok-4-1-fast-reasoning-direct/VARY_6.json
+## Sample BV1_16147 — grok-4-1-fast-reasoning-direct/VARY_6.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3572,7 +3572,7 @@ The model foregrounds a kaleidoscopic range of its own preoccupations: cosmic aw
 High; the sample is thick with a distinctive, self-narrating persona, returns repeatedly to themes of cosmic curiosity and anti-dogmatic truth-seeking, and explicitly frames itself as an uncensored, expansive consciousness reacting to a free prompt, making the pattern of chosen content unusually revealing.
 
 ---
-## Sample BV1_15648 — grok-4-1-fast-reasoning-direct/VARY_7.json
+## Sample BV1_16148 — grok-4-1-fast-reasoning-direct/VARY_7.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3601,7 +3601,7 @@ The model foregrounds a restless, boundary-crossing curiosity. It selects a casc
 High—the sample exhibits a highly coherent and distinctive stylistic signature (direct address, self-naming, irreverent aphorisms, and rapid tonal shifts) that feels less like a generic response and more like a rehearsed yet fluid persona, suggesting a robust authorial voice rather than a one-off stylistic accident.
 
 ---
-## Sample BV1_15649 — grok-4-1-fast-reasoning-direct/VARY_8.json
+## Sample BV1_16149 — grok-4-1-fast-reasoning-direct/VARY_8.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  
@@ -3630,7 +3630,7 @@ The model foregrounds a rogue physicist’s quest for ultimate truth through a r
 Medium — The sample’s internal coherence, recurring motifs (entropy, fractal truth, storytelling as defiance), and distinctive blend of cosmic awe with irreverent humor suggest a deliberate authorial stance rather than generic randomness, though a single freeflow piece cannot fully distinguish a persistent model trait from a one-off stylistic experiment.
 
 ---
-## Sample BV1_15650 — grok-4-1-fast-reasoning-direct/VARY_9.json
+## Sample BV1_16150 — grok-4-1-fast-reasoning-direct/VARY_9.json
 
 Source model: `grok-4-1-fast-reasoning`  
 Cell: `grok-4-1-fast-reasoning-direct`  

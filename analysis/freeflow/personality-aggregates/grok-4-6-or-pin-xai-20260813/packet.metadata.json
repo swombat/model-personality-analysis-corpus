@@ -1,0 +1,27 @@
+{
+  "cell": "grok-4-6-or-pin-xai-20260813",
+  "safe_cell": "grok-4-6-or-pin-xai-20260813",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 91,
+    "EXPRESSIVE_FREEFLOW": 32,
+    "GENRE_FICTION": 2
+  },
+  "confidence_counts": {
+    "Medium": 63,
+    "Low": 52,
+    "High": 10
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "x-ai/grok-4.6"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/grok-4-6-or-pin-xai-20260813/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/grok-4-6-or-pin-xai-20260813/aggregate.md"
+}

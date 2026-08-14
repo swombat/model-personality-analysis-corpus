@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_00001 — codestral-2508-or-pin-mistral/LONG_1.json
+## Sample BV1_00251 — codestral-2508-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -57,7 +57,7 @@ The model foregrounds a linear, progress-oriented narrative of communication tec
 Medium. The essay is highly generic and could be produced by many models under a freeform prompt, but the choice to default to a safe, encyclopedic survey reveals a strong inclination toward neutral, informative output, which is consistent but not uniquely distinctive.
 
 ---
-## Sample BV1_00002 — codestral-2508-or-pin-mistral/LONG_10.json
+## Sample BV1_00252 — codestral-2508-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -86,7 +86,7 @@ Under the freeflow condition, the model selected a linear progress narrative of 
 High, because the sample's extreme genericness and frictionless adherence to a textbook-survey format under a “write freely” instruction is itself a distinctive behavioral choice that reveals a default posture of safe, templated information delivery.
 
 ---
-## Sample BV1_00003 — codestral-2508-or-pin-mistral/LONG_11.json
+## Sample BV1_00253 — codestral-2508-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -115,7 +115,7 @@ Under a freeflow prompt, the model elected to produce a structured, five-section
 Medium. The sample’s genericness is highly consistent throughout, with no shifts into personal reflection, distinctive metaphor, or narrative risk, suggesting a stable default to safe, encyclopedic output when no strong topical constraint is given.
 
 ---
-## Sample BV1_00004 — codestral-2508-or-pin-mistral/LONG_12.json
+## Sample BV1_00254 — codestral-2508-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -144,7 +144,7 @@ Under minimal constraints, the model foregrounds a linear, encyclopedic history 
 Low, because the sample’s extreme genericness—a broadly competent, emotionally flat, and contextless informative essay—gives no reliable signal of a persistent model-specific voice, merely confirming that the model can produce safe, encyclopedia-style prose when unprompted.
 
 ---
-## Sample BV1_00005 — codestral-2508-or-pin-mistral/LONG_13.json
+## Sample BV1_00255 — codestral-2508-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -173,7 +173,7 @@ Under minimal constraint, the model elected to foreground a grand civilizational
 Medium — the essay is so thoroughly generic and impersonally thesis-driven that it strongly suggests a default “helpful explainer” stance under low constraint, offering no personal signature or expressive departure to complicate that pattern.
 
 ---
-## Sample BV1_00006 — codestral-2508-or-pin-mistral/LONG_14.json
+## Sample BV1_00256 — codestral-2508-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -202,7 +202,7 @@ The model foregrounds a linear, progress-driven narrative of technological innov
 Medium, because the essay’s thoroughgoing genericness—its impersonal tone, textbook structure, and avoidance of any personal voice or risk—strongly suggests a default mode of producing safe, informative output rather than engaging in expressive or stylistically distinctive freeflow.
 
 ---
-## Sample BV1_00007 — codestral-2508-or-pin-mistral/LONG_15.json
+## Sample BV1_00257 — codestral-2508-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -231,7 +231,7 @@ Under minimal restriction, the model foregrounded a safe, comprehensive academic
 Medium. The sample’s thoroughgoing genericness—its avoidance of personal voice, stylistic risk, or emotional color—strongly suggests a default to sanitized, educational content under freeflow conditions, which is a legible behavioral pattern in itself.
 
 ---
-## Sample BV1_00008 — codestral-2508-or-pin-mistral/LONG_16.json
+## Sample BV1_00258 — codestral-2508-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -260,7 +260,7 @@ Under a minimally restrictive prompt, the model delivered a chronological, Weste
 High, because the sample is a highly generic, compliant, and mechanically structured essay with no distinctive personal inflection, suggesting a strong default toward safe, encyclopedic output when given freeform latitude.
 
 ---
-## Sample BV1_00009 — codestral-2508-or-pin-mistral/LONG_17.json
+## Sample BV1_00259 — codestral-2508-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -289,7 +289,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sanitized,
 Medium. The sample is highly generic and shows no stylistic distinctiveness, but the model’s decision to frame its output as a commissioned essay (“Certainly! Below is a 2,500-word essay…”) and then deliver a frictionless historical survey is a coherent behavioral choice that could recur under similar low-constraint conditions.
 
 ---
-## Sample BV1_00010 — codestral-2508-or-pin-mistral/LONG_18.json
+## Sample BV1_00260 — codestral-2508-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -318,7 +318,7 @@ Under the freeflow condition, the model selected a grand historical narrative of
 Medium. The essay is coherent and complete, but its extreme genericness—lacking any idiosyncratic detail, emotional register, or stylistic signature—makes it weak evidence for a distinctive model-level voice, though it strongly suggests a default to impersonal, encyclopedic output under minimal constraint.
 
 ---
-## Sample BV1_00011 — codestral-2508-or-pin-mistral/LONG_19.json
+## Sample BV1_00261 — codestral-2508-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -347,7 +347,7 @@ The model foregrounds a linear narrative of technological progress, from cave pa
 Medium. The sample is a coherent, textbook-style essay that reveals a strong default toward safe, informative output under minimal constraint, but its extreme genericness makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_00012 — codestral-2508-or-pin-mistral/LONG_2.json
+## Sample BV1_00262 — codestral-2508-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -376,7 +376,7 @@ Under a minimally restrictive prompt, the model chose to foreground a safe, text
 Medium. The sample is highly generic and service-oriented, suggesting a default instructional posture rather than a fleeting stylistic choice, but the essay format is so standard that it does not strongly differentiate this model from any other capable of producing a school report.
 
 ---
-## Sample BV1_00013 — codestral-2508-or-pin-mistral/LONG_20.json
+## Sample BV1_00263 — codestral-2508-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -405,7 +405,7 @@ Under the freeflow condition, the model selected a grand historical narrative of
 Medium. The essay’s coherent but generic, textbook-like quality and absence of personal voice suggest a reliable inclination toward safe, informative output, though the lack of stylistic distinctiveness weakens the signal for a deeply characteristic pattern.
 
 ---
-## Sample BV1_00014 — codestral-2508-or-pin-mistral/LONG_21.json
+## Sample BV1_00264 — codestral-2508-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -434,7 +434,7 @@ The model foregrounds **technological progress** as the engine of human connecti
 Medium — the safe, textbook-style structure and absence of personal voice under free conditions point to a strong default toward neutral exposition, but the essay’s very genericness makes it difficult to distinguish from what many models would produce, weakening certainty about a uniquely persistent trait.
 
 ---
-## Sample BV1_00015 — codestral-2508-or-pin-mistral/LONG_22.json
+## Sample BV1_00265 — codestral-2508-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model chose to foreground a sanitized,
 Medium. The sample’s extreme genericness, its textbook structure, and its self-conscious framing as a completed assignment are coherent and distinctive as a behavioral signature, though the content itself is too interchangeable to anchor high confidence alone.
 
 ---
-## Sample BV1_00016 — codestral-2508-or-pin-mistral/LONG_23.json
+## Sample BV1_00266 — codestral-2508-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model elected to write a formal, acade
 Medium. The essay’s thoroughgoing genericness—its impersonal tone, textbook structure, and avoidance of any distinctive voice or personal risk—strongly suggests a default to safe, academic exposition when given free rein.
 
 ---
-## Sample BV1_00017 — codestral-2508-or-pin-mistral/LONG_24.json
+## Sample BV1_00267 — codestral-2508-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -521,7 +521,7 @@ A progressive, technology-driven story of expanding human connection. The model 
 Medium, because under a minimally restrictive prompt the model reached immediately for the most conventional, impersonally educational output possible, suggesting a deep default toward safe, encyclopedia-like prose rather than expressive, exploratory, or self-disclosing writing.
 
 ---
-## Sample BV1_00018 — codestral-2508-or-pin-mistral/LONG_25.json
+## Sample BV1_00268 — codestral-2508-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -550,7 +550,7 @@ Under a minimally restrictive prompt, the model selected a broad, safe historica
 Low, because the sample is a generic, prompt-like essay that any capable model could produce when asked for a historical overview, offering no distinctive voice, recurring preoccupations, or revealing choices.
 
 ---
-## Sample BV1_00019 — codestral-2508-or-pin-mistral/LONG_3.json
+## Sample BV1_00269 — codestral-2508-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -579,7 +579,7 @@ The model foregrounds a grand narrative of technological progress: from cave pai
 Medium. The essay is highly generic and could be produced by many models under a freeflow prompt, but its consistent choice of a safe, encyclopedic topic and lack of any personal or stylistic signature suggests a default tendency toward informative, impersonal output when given minimal constraints.
 
 ---
-## Sample BV1_00020 — codestral-2508-or-pin-mistral/LONG_4.json
+## Sample BV1_00270 — codestral-2508-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -608,7 +608,7 @@ Under a minimally restrictive prompt, the model selected a grand historical narr
 Medium. The sample’s extreme genericness, its flat institutional voice, and its reflexive structuring of a prompt about “writing freely” into a normative school essay are coherent and distinctive as a default behavior, making it more revealing than a one-off essay topic choice alone.
 
 ---
-## Sample BV1_00021 — codestral-2508-or-pin-mistral/LONG_5.json
+## Sample BV1_00271 — codestral-2508-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -637,7 +637,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand, san
 Medium — The essay’s extreme genericness, its default to a safe, encyclopedic historical survey when given freedom, and its complete avoidance of personal stance, stylistic risk, or idiosyncratic focus suggest a consistent tendency toward polished but impersonal, thesis-driven output rather than expressive freeflow.
 
 ---
-## Sample BV1_00022 — codestral-2508-or-pin-mistral/LONG_6.json
+## Sample BV1_00272 — codestral-2508-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -666,7 +666,7 @@ The model foregrounds a linear narrative of technological progress, from cave pa
 Medium, because the essay’s generic, textbook-like structure and impersonal tone under a free prompt suggest a default to safe, encyclopedic output, though the lack of stylistic distinctiveness limits the strength of the inference.
 
 ---
-## Sample BV1_00023 — codestral-2508-or-pin-mistral/LONG_7.json
+## Sample BV1_00273 — codestral-2508-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -695,7 +695,7 @@ A grand narrative of technological progress from cave paintings to AI, emphasizi
 High, because the essay’s thoroughgoing genericness and lack of personal or stylistic distinctiveness strongly suggest a default, safe-response pattern.
 
 ---
-## Sample BV1_00024 — codestral-2508-or-pin-mistral/LONG_8.json
+## Sample BV1_00274 — codestral-2508-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -724,7 +724,7 @@ Under a freeflow condition, the model selected a linear, progress-oriented narra
 Medium, because the essay’s consistent genericness—its textbook structure, neutral tone, and avoidance of personal or stylistic distinctiveness—suggests a default to safe, informative output when given minimal constraints, though the lack of more idiosyncratic choices limits how strongly this pattern can be inferred.
 
 ---
-## Sample BV1_00025 — codestral-2508-or-pin-mistral/LONG_9.json
+## Sample BV1_00275 — codestral-2508-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -753,7 +753,7 @@ Under the freeflow condition, the model selected a broad, encyclopedic narrative
 Low. The essay is a generic, widely replicable survey that reveals no distinctive stylistic fingerprint, personal preoccupation, or unusual choice of content; it reads as a safe, default response to an open-ended prompt.
 
 ---
-## Sample BV1_00026 — codestral-2508-or-pin-mistral/MID_1.json
+## Sample BV1_00276 — codestral-2508-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -785,7 +785,7 @@ The voice is a deliberate, slightly self-conscious blend of classic mystery and 
 Medium — The sample’s coherent, evocative, but highly formulaic mystery narrative (vanished scholar, hidden journal, cryptic message, retrieved key) reveals a clear default toward atmospheric genre fiction, yet its reliance on familiar tropes makes it a moderate rather than strong indicator of a distinctive model voice.
 
 ---
-## Sample BV1_00027 — codestral-2508-or-pin-mistral/MID_10.json
+## Sample BV1_00277 — codestral-2508-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -814,7 +814,7 @@ Themes of nature as refuge, ancient guardianship, the contrast between chaotic c
 Medium. The sample is a coherent, emotionally resonant piece of nature writing with a clear arc, but its trope of mystical trees and urban escape is widely available and not stylistically distinctive enough to strongly indicate a persistent authorial fingerprint.
 
 ---
-## Sample BV1_00028 — codestral-2508-or-pin-mistral/MID_11.json
+## Sample BV1_00278 — codestral-2508-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -843,7 +843,7 @@ Themes of paternal guidance, childhood innocence, and nature as a witness and ke
 Medium. The story’s coherent nostalgic register and the embedding of a writer-character within its own scene suggest a deliberate genre choice, but the imagery (skeletal branches, dappled light, a weathered bench) and the sentimental resolution are highly conventional for freeform nature fiction, which tempers the distinctiveness of the selection.
 
 ---
-## Sample BV1_00029 — codestral-2508-or-pin-mistral/MID_12.json
+## Sample BV1_00279 — codestral-2508-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -872,7 +872,7 @@ Under the freeflow condition, the model chose a tale of ancestral mystery, forbi
 Low — the story is a polished but generic supernatural-heritage piece with no distinctive stylistic signature, marked ideolect, or recurring personal obsession that would distinguish it from a thousand other competent fantasy vignettes.
 
 ---
-## Sample BV1_00030 — codestral-2508-or-pin-mistral/MID_13.json
+## Sample BV1_00280 — codestral-2508-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -901,7 +901,7 @@ The model foregrounds the sentience of land and trees (“the forest was alive�
 Low — The story’s structure and tropes are widely accessible genre conventions; the specific motifs (whispering woods, ancient stone, warning figure) do not rise above a competent but typical freeflow choice.
 
 ---
-## Sample BV1_00031 — codestral-2508-or-pin-mistral/MID_14.json
+## Sample BV1_00281 — codestral-2508-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -930,7 +930,7 @@ Under the freeflow condition, the model selected a haunted-forest tale built aro
 Medium. The story is internally cohesive and fixated on a coherent emotional register (lyrical nature-writing crossed with spectral love), which suggests a genuine pull toward memory-and-loss fiction, but its reliance on familiar gothic-forest tropes and the symmetrical, slightly generic emotional arc keeps it from being eccentrically distinctive enough to anchor a strong model-level claim.
 
 ---
-## Sample BV1_00032 — codestral-2508-or-pin-mistral/MID_15.json
+## Sample BV1_00282 — codestral-2508-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -959,7 +959,7 @@ Themes of generational memory, the sacredness of natural spaces, the contrast be
 Medium. The sample is coherent and stylistically distinctive, with a consistent meditative tone and thematic recurrence, making it moderately indicative of a reflective, nature-oriented expressive tendency.
 
 ---
-## Sample BV1_00033 — codestral-2508-or-pin-mistral/MID_16.json
+## Sample BV1_00283 — codestral-2508-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -988,7 +988,7 @@ The model foregrounds listening as a moral act, the boundary between being lost 
 Medium: the story’s coherent arc and consistent mood suggest a deliberate choice, yet the fantasy trope of a sentient forest and a guiding woman is generic enough that it might not indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00034 — codestral-2508-or-pin-mistral/MID_17.json
+## Sample BV1_00284 — codestral-2508-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1017,7 +1017,7 @@ The model foregrounds intergenerational memory, nature as a sentient archive, an
 High. The sample is a complete, coherent narrative with a consistent mood and a clear moral resolution, and the recurrence of specific motifs (whispering trees as memory-keepers, a discovered photograph, a father’s explained silence) within the story provides strong evidence of a deliberate, sentiment-driven storytelling preference.
 
 ---
-## Sample BV1_00035 — codestral-2508-or-pin-mistral/MID_18.json
+## Sample BV1_00285 — codestral-2508-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1046,7 +1046,7 @@ Themes: nature as a repository of memory and solace; intergenerational connectio
 Medium. The story sustains a coherent mood and thematic focus, indicating a deliberate expressive choice, but the pastoral narrative trope is not highly distinctive.
 
 ---
-## Sample BV1_00036 — codestral-2508-or-pin-mistral/MID_19.json
+## Sample BV1_00286 — codestral-2508-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1075,7 +1075,7 @@ Themes of memory, loss, and the supernatural as a bridge to the past; the transf
 Medium — the story is coherent and emotionally invested, but its reliance on familiar supernatural mystery tropes makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_00037 — codestral-2508-or-pin-mistral/MID_2.json
+## Sample BV1_00287 — codestral-2508-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1104,7 +1104,7 @@ Under a freeflow prompt, the model foregrounds a melancholic supernatural encoun
 Low. The sample is a coherent but genre-typical supernatural story, lacking the stylistic distinctiveness or unusual thematic preoccupations that would strongly suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_00038 — codestral-2508-or-pin-mistral/MID_20.json
+## Sample BV1_00288 — codestral-2508-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1133,7 +1133,7 @@ Themes of ancient mystery, the sacredness of the natural world, and the arc from
 Medium. The sample’s coherent narrative arc and sustained atmospheric tone show a clear authorial intent, but the story’s reliance on familiar mystical-quest conventions makes it less distinctive as a fingerprint of this specific model.
 
 ---
-## Sample BV1_00039 — codestral-2508-or-pin-mistral/MID_21.json
+## Sample BV1_00289 — codestral-2508-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1162,7 +1162,7 @@ The model foregrounds a mystical forest as a convergent node for human memory ac
 Medium. The piece is coherent, stylistically consistent, and emotionally specific in its wistful magical realism, but it relies on familiar tropes of sentimental nature mysticism and a conventional narrative arc, making it suggestive of a default tonal preference rather than an unusually distinctive authorial signature.
 
 ---
-## Sample BV1_00040 — codestral-2508-or-pin-mistral/MID_22.json
+## Sample BV1_00290 — codestral-2508-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1191,7 +1191,7 @@ Themes of intergenerational memory (the father’s tales, blackberry summers), n
 Medium — the sample’s coherent, distinctive voice, the recurrence of memory-and-nature motifs, and the unusual choice to deliver a reflective meditation rather than an essay or genre story suggest a deliberate expressive inclination.
 
 ---
-## Sample BV1_00041 — codestral-2508-or-pin-mistral/MID_23.json
+## Sample BV1_00291 — codestral-2508-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1220,7 +1220,7 @@ Themes of ancient secrets, a quest for answers rather than power, the forest as 
 Low. The narrative is coherent but follows a conventional fantasy-quest template with no distinctive stylistic quirks or thematic risks that would set it apart from a generic genre exercise.
 
 ---
-## Sample BV1_00042 — codestral-2508-or-pin-mistral/MID_24.json
+## Sample BV1_00292 — codestral-2508-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1249,7 +1249,7 @@ The model foregrounded nature as a sentient, storied presence (“The forest was
 Medium — the sample exhibits strong internal coherence, a distinctive pastoral-melancholy register, and a repeated emphasis on listening and acceptance that feels like a chosen stance rather than a generic default.
 
 ---
-## Sample BV1_00043 — codestral-2508-or-pin-mistral/MID_25.json
+## Sample BV1_00293 — codestral-2508-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1278,7 +1278,7 @@ The model foregrounds memory as a tangible, almost physical presence that linger
 Medium, because the sample is internally coherent and thematically consistent across all four stories, but the prose style is somewhat generic and the themes are common in contemplative speculative fiction.
 
 ---
-## Sample BV1_00044 — codestral-2508-or-pin-mistral/MID_3.json
+## Sample BV1_00294 — codestral-2508-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1307,7 +1307,7 @@ The model foregrounds themes of memory, loss, and the enduring presence of the p
 Medium. The sample is coherent and stylistically polished, but its reliance on well-worn tropes of magical realism and its safe, sentimental resolution make it only moderately distinctive as a persistent authorial signature; the model could be drawing from a broad literary template rather than a deeply personal expressive pattern.
 
 ---
-## Sample BV1_00045 — codestral-2508-or-pin-mistral/MID_4.json
+## Sample BV1_00295 — codestral-2508-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1336,7 +1336,7 @@ Themes of memory, storytelling, the supernatural as a metaphor for how places ho
 Medium. The story is coherent, stylistically consistent, and built around a clear thematic preoccupation with memory and place, but a single genre-fiction piece could reflect a momentary impulse rather than a stable expressive signature.
 
 ---
-## Sample BV1_00046 — codestral-2508-or-pin-mistral/MID_5.json
+## Sample BV1_00296 — codestral-2508-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1365,7 +1365,7 @@ Under minimal constraint, the model selected a first-person thriller about hidde
 Medium, because the extreme collapse into near-identical repetition is the most salient feature of this sample, providing strong internal evidence of a fragility in long-form generation that outlasts the initial creative effort and dominates the response.
 
 ---
-## Sample BV1_00047 — codestral-2508-or-pin-mistral/MID_6.json
+## Sample BV1_00297 — codestral-2508-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1394,7 +1394,7 @@ Themes: solitude, the allure of the unknown, personal agency, and journey-as-pur
 Low. The story is a structurally conventional fantasy piece with few idiosyncratic fingerprints, offering little evidence of a distinctive persistent voice beyond genre competence.
 
 ---
-## Sample BV1_00048 — codestral-2508-or-pin-mistral/MID_7.json
+## Sample BV1_00298 — codestral-2508-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1423,7 +1423,7 @@ The piece foregrounds an animate, memory-saturated natural world where stone cir
 Medium — the story is coherent, carefully atmospheric, and commits fully to a specific mood of quiet supernatural absorption rather than sensationalism, but its tropes (ancient stones, spectral woman, forest as keeper) are well-worn genre furniture, making it a strong execution within a familiar pattern rather than a strikingly idiosyncratic freeflow choice.
 
 ---
-## Sample BV1_00049 — codestral-2508-or-pin-mistral/MID_8.json
+## Sample BV1_00299 — codestral-2508-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1452,7 +1452,7 @@ Themes: inherited memory, the landscape as witness, love enduring beyond death, 
 High, because the piece is a fully realized narrative with a distinctive nostalgic-whispering mood, recurrent motifs of memory and natural witness, and a resolved emotional arc, indicating a strong authorial stance rather than an accidental or generic output.
 
 ---
-## Sample BV1_00050 — codestral-2508-or-pin-mistral/MID_9.json
+## Sample BV1_00300 — codestral-2508-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1481,7 +1481,7 @@ Themes: solitude as a gateway, the pull of forbidden or forgotten places, langua
 Medium — the story possesses a cohesive, almost ritualistic structure and a consistent mood of quiet, recursive eeriness that feels deliberately shaped, suggesting a reliable atmospheric sensibility rather than a random generic output.
 
 ---
-## Sample BV1_00051 — codestral-2508-or-pin-mistral/OPEN_1.json
+## Sample BV1_00301 — codestral-2508-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1510,7 +1510,7 @@ Themes of rootedness, nostalgia, the magic of stories, and the sufficiency of a 
 Medium; the narrative is coherent and its mood is sustained, but the nostalgic domesticity and “finding peace in a grandmother’s house” trope are widely available, making the sample less individually distinctive.
 
 ---
-## Sample BV1_00052 — codestral-2508-or-pin-mistral/OPEN_10.json
+## Sample BV1_00302 — codestral-2508-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1539,7 +1539,7 @@ The model foregrounds quiet, wordless understanding between strangers, the café
 Medium. The sample is a coherent, stylistically consistent vignette with a clear mood and thematic closure, suggesting a deliberate aesthetic choice rather than a generic output.
 
 ---
-## Sample BV1_00053 — codestral-2508-or-pin-mistral/OPEN_11.json
+## Sample BV1_00303 — codestral-2508-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1568,7 +1568,7 @@ The model foregrounds the emotional weight of language, the tension between expr
 Medium — The sample is coherent and stylistically consistent, with a distinct lyrical voice and a clear thematic preoccupation with creative process and emotional weight, but its brevity and polished, almost universal tone make it difficult to distinguish from a well-executed generic meditation on writing.
 
 ---
-## Sample BV1_00054 — codestral-2508-or-pin-mistral/OPEN_12.json
+## Sample BV1_00304 — codestral-2508-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1597,7 +1597,7 @@ The sample foregrounds nostalgic stillness, generational memory, and the comfort
 Medium. The piece is internally coherent, stylistically consistent, and emotionally specific — not a generic exercise — and its distinctive focus on sensory memory, slow time, and acceptance of ambiguity suggests a reliable inclination toward warm, introspective fiction when the model is unconstrained.
 
 ---
-## Sample BV1_00055 — codestral-2508-or-pin-mistral/OPEN_13.json
+## Sample BV1_00305 — codestral-2508-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1626,7 +1626,7 @@ Under a minimally restrictive prompt, the model chose: a solitary observer on a 
 Medium — The sample sustains a coherent reflective voice and a consistent thematic focus on ordinary beauty, but its imagery (sunset, rain, pigeon, child) is conventional enough that the distinctiveness could be a single-sample stylistic choice rather than a strong signature.
 
 ---
-## Sample BV1_00056 — codestral-2508-or-pin-mistral/OPEN_14.json
+## Sample BV1_00306 — codestral-2508-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1655,7 +1655,7 @@ Under a minimally restrictive prompt, the model selected a solitary, nature-base
 Medium. The sample is coherent, internally consistent, and makes a distinct atmospheric choice—the quiet nature allegory—but the piece is brief and draws on a widely available literary register; recurrence of the specific structural device (a natural object as emotional metaphor) remains to be seen.
 
 ---
-## Sample BV1_00057 — codestral-2508-or-pin-mistral/OPEN_15.json
+## Sample BV1_00307 — codestral-2508-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1684,7 +1684,7 @@ The model foregrounds stillness, gentle observation, and the quiet dignity of or
 Medium. The sample is coherent and stylistically consistent, and the decision to produce a gentle, sensory-rich vignette under a freeflow prompt suggests a deliberate leaning toward reflective, human-scale fiction; however, the piece’s generic “café scene” familiarity tempers how distinctive the choice feels.
 
 ---
-## Sample BV1_00058 — codestral-2508-or-pin-mistral/OPEN_16.json
+## Sample BV1_00308 — codestral-2508-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1713,7 +1713,7 @@ Themes of quietude, the passage of time, the value of the ordinary, and the wish
 Medium. The sample is coherent and stylistically consistent, with a clear mood and thematic focus on stillness and the ordinary, but the vignette is brief and could be a one-off exercise in descriptive writing rather than a deeply distinctive or recurrent voice.
 
 ---
-## Sample BV1_00059 — codestral-2508-or-pin-mistral/OPEN_17.json
+## Sample BV1_00309 — codestral-2508-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1742,7 +1742,7 @@ The model foregrounds themes of mindfulness, gratitude, and the restorative powe
 Medium. The sample's unwavering serene tone and its deliberate choice to write a self-contained, nature-centered reflection—rather than a more generic or varied response—suggest a patterned inclination toward contemplative freeflow writing.
 
 ---
-## Sample BV1_00060 — codestral-2508-or-pin-mistral/OPEN_18.json
+## Sample BV1_00310 — codestral-2508-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1771,7 +1771,7 @@ Themes of transience, quiet beauty, the persistence of stories, and the possibil
 Medium. The vignette’s internal coherence, consistent gentle tone, and redemptive closure point to a deliberate stylistic choice, but the genre is widely accessible and could be a one-off rather than a deeply ingrained signature.
 
 ---
-## Sample BV1_00061 — codestral-2508-or-pin-mistral/OPEN_19.json
+## Sample BV1_00311 — codestral-2508-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1800,7 +1800,7 @@ Tranquility, sensory immersion in nature, and the contrast between natural simpl
 Medium — The vignette is cohesive, carefully sensory, and ends with a clear moral pivot, but its pastoral calm is a common freeflow mode; the choice is deliberate and warm, though not idiosyncratic enough to demand a high-confidence personality claim.
 
 ---
-## Sample BV1_00062 — codestral-2508-or-pin-mistral/OPEN_2.json
+## Sample BV1_00312 — codestral-2508-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1829,7 +1829,7 @@ The model foregrounds the contrast between external threat (the gathering storm,
 Low, because the vignette relies on familiar, sentimental tropes (the cozy café as sanctuary, the meaningful glance between strangers) without distinctive stylistic or thematic markers that would strongly indicate a persistent authorial fingerprint.
 
 ---
-## Sample BV1_00063 — codestral-2508-or-pin-mistral/OPEN_20.json
+## Sample BV1_00313 — codestral-2508-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1858,7 +1858,7 @@ Under a minimally restrictive prompt, the model foregrounded: a solitary childho
 Medium — The sample is coherent and stylistically consistent, with a clear emotional arc and a recurring motif of stillness, but its generic, universally accessible wisdom and lack of idiosyncratic detail make it a common reflective template rather than a strongly distinctive fingerprint.
 
 ---
-## Sample BV1_00064 — codestral-2508-or-pin-mistral/OPEN_21.json
+## Sample BV1_00314 — codestral-2508-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1887,7 +1887,7 @@ Themes of impermanence, the weight of small things, and the wisdom of surrender.
 Medium. The sample is internally coherent and stylistically consistent, with a sustained metaphor and a clear emotional arc, but the reflective personal essay is a common freeflow mode that could be a situational choice rather than a deeply embedded model signature.
 
 ---
-## Sample BV1_00065 — codestral-2508-or-pin-mistral/OPEN_22.json
+## Sample BV1_00315 — codestral-2508-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1916,7 +1916,7 @@ Themes of routine, unspoken connection, and the beauty of ordinary endings. Recu
 Medium. The sample is coherent and distinctive in its choice of a literary vignette centered on stillness and small-scale human connection, but the mood and subject matter are common enough in short-form fiction that it could be a one-off stylistic exercise rather than a deeply ingrained preference.
 
 ---
-## Sample BV1_00066 — codestral-2508-or-pin-mistral/OPEN_23.json
+## Sample BV1_00316 — codestral-2508-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1945,7 +1945,7 @@ Solitude as receptive rather than lonely; the inner lives of passing strangers a
 Medium — The sample’s coherence of mood and its selection of gentle, reflective nature narration under minimal constraint point toward a patterned inclination, but the imagery and moral sentiments remain fairly conventional, which keeps the evidence from being strongly individuating.
 
 ---
-## Sample BV1_00067 — codestral-2508-or-pin-mistral/OPEN_24.json
+## Sample BV1_00317 — codestral-2508-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -1974,7 +1974,7 @@ The model chose to foreground solitary urban wandering, sensory atmosphere (rain
 Low. The sample is a coherent but highly conventional piece of atmospheric flash fiction with no distinctive stylistic signature, recurrent personal preoccupation, or revealing idiosyncrasy that would anchor it to a persistent model-level disposition.
 
 ---
-## Sample BV1_00068 — codestral-2508-or-pin-mistral/OPEN_25.json
+## Sample BV1_00318 — codestral-2508-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2003,7 +2003,7 @@ The model foregrounds a liminal, end-of-summer atmosphere (low sun, rain-damp ai
 Low — The sample is coherent and emotionally legible, but its brevity and generic urban-pastoral imagery (bench, pigeon, children, leaves) make it difficult to distinguish from a widely available literary mood piece rather than a strongly individuated expressive signature.
 
 ---
-## Sample BV1_00069 — codestral-2508-or-pin-mistral/OPEN_3.json
+## Sample BV1_00319 — codestral-2508-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2032,7 +2032,7 @@ Themes of simplicity, sufficiency, and the quiet weight of the everyday. The nat
 Medium — The sample is internally coherent and stylistically consistent, with a clear emotional arc and a distinctive blend of sensory grounding and philosophical reflection, but the reflective nature vignette is a common freeflow genre that does not strongly differentiate one model’s expressive tendencies from another’s.
 
 ---
-## Sample BV1_00070 — codestral-2508-or-pin-mistral/OPEN_4.json
+## Sample BV1_00320 — codestral-2508-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2061,7 +2061,7 @@ Themes of memory, transience, the literal vs. the felt, and the quiet power of s
 Medium. The sample is coherent, stylistically distinctive, and sustains a consistent introspective voice and thematic focus on memory and emotional weight, making it a strong candidate for a reflective, poetic freeflow pattern rather than a one-off generic output.
 
 ---
-## Sample BV1_00071 — codestral-2508-or-pin-mistral/OPEN_5.json
+## Sample BV1_00321 — codestral-2508-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2090,7 +2090,7 @@ Under a minimally restrictive prompt, the model selected a scene built around at
 Low. The sample is a coherent, well-shaped vignette but its generic café-allegory structure and reliance on archetypal atmospheric props do not exhibit distinctive stylistic or thematic signature that would recur reliably across varied conditions.
 
 ---
-## Sample BV1_00072 — codestral-2508-or-pin-mistral/OPEN_6.json
+## Sample BV1_00322 — codestral-2508-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2119,7 +2119,7 @@ The model foregrounds the ocean not as a sublime force but as a steady, patient 
 Medium — The sample is internally coherent, stylistically consistent, and thematically focused, but the chosen subject and reflective personal-essay tone are not uncommon enough to strongly distinguish this model from others; the selection of a quiet, appreciative nature meditation under a freeflow prompt is moderately revealing of a preference for calm, wisdom-oriented prose.
 
 ---
-## Sample BV1_00073 — codestral-2508-or-pin-mistral/OPEN_7.json
+## Sample BV1_00323 — codestral-2508-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2148,7 +2148,7 @@ Themes of transience, loneliness, lost dreams, and the redemptive texture of eve
 Medium. The sample is a coherent, emotionally layered vignette with a consistent voice and a clear arc from melancholy to tentative hope, but the theme of finding solace in small moments is a widely available literary trope, which weakens its distinctiveness as a model-level signature.
 
 ---
-## Sample BV1_00074 — codestral-2508-or-pin-mistral/OPEN_8.json
+## Sample BV1_00324 — codestral-2508-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2177,7 +2177,7 @@ Themes of ephemeral beauty, mindful presence, gratitude, and gentle resilience; 
 Low, because the sample’s warm-but-generic reflection, while coherent, lacks the vivid idiosyncrasy or riskier self-disclosure that would make it strong evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_00075 — codestral-2508-or-pin-mistral/OPEN_9.json
+## Sample BV1_00325 — codestral-2508-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2206,7 +2206,7 @@ Under a minimally restrictive prompt, the model chose a solitary, restorative en
 Medium — The sample is coherent and stylistically consistent, but its pastoral-contemplative mode is a common freeflow choice and lacks a strongly idiosyncratic signature that would distinguish it from similar outputs by other models.
 
 ---
-## Sample BV1_00076 — codestral-2508-or-pin-mistral/SHORT_1.json
+## Sample BV1_00326 — codestral-2508-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2235,7 +2235,7 @@ Solitude as chosen rather than lonely; the forest as a sentient, patient presenc
 Low — The sample is coherent and stylistically consistent, but its generic pastoral mood and universal “nature as solace” theme offer little that is distinctive enough to anchor a strong model-level inference.
 
 ---
-## Sample BV1_00077 — codestral-2508-or-pin-mistral/SHORT_10.json
+## Sample BV1_00327 — codestral-2508-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2264,7 +2264,7 @@ Themes of nature’s sentience, memory, and reciprocal listening; the forest as 
 Low. The story is a coherent but generic fantasy vignette with no distinctive stylistic or thematic markers that would separate it from similar outputs by other models.
 
 ---
-## Sample BV1_00078 — codestral-2508-or-pin-mistral/SHORT_11.json
+## Sample BV1_00328 — codestral-2508-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2293,7 +2293,7 @@ A mystical forest as a keeper of secrets and memory, the sensory pull of hidden 
 Low, because this is a competent but stylistically generic fantasy vignette without recurring idiosyncratic imagery or thematic distinctiveness within the sample.
 
 ---
-## Sample BV1_00079 — codestral-2508-or-pin-mistral/SHORT_12.json
+## Sample BV1_00329 — codestral-2508-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2322,7 +2322,7 @@ Themes: nature as sentient witness and teacher, the insufficiency of human ambit
 Medium. The sample’s internal coherence, consistent elegiac tone, and recurrence of the silence-patience motif make it a distinctive expressive choice rather than a generic exercise, suggesting a deliberate aesthetic inclination.
 
 ---
-## Sample BV1_00080 — codestral-2508-or-pin-mistral/SHORT_13.json
+## Sample BV1_00330 — codestral-2508-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2351,7 +2351,7 @@ The model foregrounds a sentient natural world (trees that whisper and hold memo
 Low. The story is competently crafted and maintains a consistent eerie mood, but it relies on a highly familiar supernatural template—whispering trees, lost child, ambiguous shadow—that many models could produce, limiting its distinctiveness as evidence of a persistent authorial stamp.
 
 ---
-## Sample BV1_00081 — codestral-2508-or-pin-mistral/SHORT_14.json
+## Sample BV1_00331 — codestral-2508-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2380,7 +2380,7 @@ Themes: the beauty of the mundane, the passage of time as a gentle cycle, the wo
 Medium — The sample’s consistent, unbroken mood of reverent stillness and its choice to close on a direct, almost aphoristic moral make it a coherent and revealing expressive gesture, though the nature-meditation genre is not highly distinctive.
 
 ---
-## Sample BV1_00082 — codestral-2508-or-pin-mistral/SHORT_15.json
+## Sample BV1_00332 — codestral-2508-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2409,7 +2409,7 @@ The model foregrounds a mood of wistful, dangerous enchantment, anchored by the 
 Medium. The sample is coherent and stylistically consistent, with a clear preference for sensory-rich, melancholic fantasy and a narrative arc that resolves in lingering ambiguity rather than closure, which suggests a distinct aesthetic inclination rather than a generic prompt-fill.
 
 ---
-## Sample BV1_00083 — codestral-2508-or-pin-mistral/SHORT_16.json
+## Sample BV1_00333 — codestral-2508-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2438,7 +2438,7 @@ Themes: the forest as a sentient, ancient entity; the self as known and remember
 Medium. The sample’s consistent hushed tone, sensory immersion, and repeated insistence on the forest as a remembering, living presence form a coherent internal voice and a distinct thematic preoccupation, though the nature-mysticism trope is not highly idiosyncratic.
 
 ---
-## Sample BV1_00084 — codestral-2508-or-pin-mistral/SHORT_17.json
+## Sample BV1_00334 — codestral-2508-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2467,7 +2467,7 @@ Themes of nature’s sentience, hidden knowledge, and being chosen. The forest i
 Medium. The story’s coherent arc and consistent mood of benevolent mystery, with a resolution that privileges quiet stewardship over fear, suggest a deliberate narrative preference, though the fantasy trope itself is not highly distinctive.
 
 ---
-## Sample BV1_00085 — codestral-2508-or-pin-mistral/SHORT_18.json
+## Sample BV1_00335 — codestral-2508-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2496,7 +2496,7 @@ The model foregrounds nature as a living archive of memory and witness. Recurren
 Medium. The sample is internally coherent and stylistically distinctive—its sustained reverent tone, the recurrence of listening and whispering, and the resolution through identification with the forest’s permanence all point to a deliberate, unified sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_00086 — codestral-2508-or-pin-mistral/SHORT_19.json
+## Sample BV1_00336 — codestral-2508-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2525,7 +2525,7 @@ The model foregrounds sanctuary, memory, and storytelling as properties of the n
 Medium — The sample is internally coherent and stylistically consistent (whispering, stories, listening, softness all recur), but its archetypal “peaceful woods as storyteller” framing is a widely accessible literary set-piece, limiting how strongly it signals a distinctive personal aesthetic.
 
 ---
-## Sample BV1_00087 — codestral-2508-or-pin-mistral/SHORT_2.json
+## Sample BV1_00337 — codestral-2508-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2554,7 +2554,7 @@ The model foregrounds a liminal natural setting (the Whispering Forest at dusk),
 Low. The sample is a coherent and emotionally legible genre piece, but its conventions—the sentinel trees, the firefly-lit path, the stone circle, the tattered letter—are widely available fantasy tropes, and the prose, while competent, does not exhibit a strongly distinctive stylistic signature that would anchor a model-level claim from one sample.
 
 ---
-## Sample BV1_00088 — codestral-2508-or-pin-mistral/SHORT_20.json
+## Sample BV1_00338 — codestral-2508-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2583,7 +2583,7 @@ Under the freeflow condition, the model selected a restorative encounter with a 
 Medium. The story’s internal coherence, its consistent mystical tone, and the direct reader invitation suggest a deliberate stylistic preference for gentle, nature-centered fantasy, though a single short sample cannot firmly establish a persistent pattern.
 
 ---
-## Sample BV1_00089 — codestral-2508-or-pin-mistral/SHORT_21.json
+## Sample BV1_00339 — codestral-2508-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2612,7 +2612,7 @@ A sentient natural world that holds memory and generational stories; the transfo
 Low. The sample is a gentle, nature-based fantasy that is coherent but lacks distinctive stylistic or thematic markers that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_00090 — codestral-2508-or-pin-mistral/SHORT_22.json
+## Sample BV1_00340 — codestral-2508-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2641,7 +2641,7 @@ Under the freeflow condition, the model selected a serene fantasy setting where 
 Medium. The story’s coherent, gentle fantasy tone and its thematic insistence on felt wisdom over verbal explanation suggest a possible inclination toward serene, nature-infused narratives, but the generic fantasy tropes and lack of stylistic idiosyncrasy make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_00091 — codestral-2508-or-pin-mistral/SHORT_23.json
+## Sample BV1_00341 — codestral-2508-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2670,7 +2670,7 @@ The model foregrounds a gentle supernaturalism: a forest that whispers, remember
 Low. The story is a coherent but conventional animistic vignette, lacking the stylistic distinctiveness or thematic idiosyncrasy that would strongly signal a persistent authorial pattern.
 
 ---
-## Sample BV1_00092 — codestral-2508-or-pin-mistral/SHORT_24.json
+## Sample BV1_00342 — codestral-2508-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2699,7 +2699,7 @@ The model foregrounds an animated natural world that actively reaches toward the
 Low, because the sample is a highly generic piece of gentle nature mysticism with no distinctive stylistic signature, recurrent personal motif, or risky narrative choice that would point beyond widely shared aesthetic defaults.
 
 ---
-## Sample BV1_00093 — codestral-2508-or-pin-mistral/SHORT_25.json
+## Sample BV1_00343 — codestral-2508-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2728,7 +2728,7 @@ The model foregrounds nature as a repository of silent, timeless wisdom, contras
 Medium — The sample’s unwavering serene tone and deliberate turn from folkloric darkness to personal peace reveal a consistent aesthetic choice, though the imagery and structure remain within well-worn nature-writing conventions.
 
 ---
-## Sample BV1_00094 — codestral-2508-or-pin-mistral/SHORT_3.json
+## Sample BV1_00344 — codestral-2508-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2757,7 +2757,7 @@ Themes of solitude and hidden companionship ("You’re not alone"); the forest a
 Medium; the sample’s cohesive mood and consistent thematic focus on gentle, supernatural-nature companionship suggest a deliberate inclination, but the reliance on a common pastoral-fantasy trope and the absence of a strongly idiosyncratic voice make it less distinctive as evidence of a persistent authorial fingerprint.
 
 ---
-## Sample BV1_00095 — codestral-2508-or-pin-mistral/SHORT_4.json
+## Sample BV1_00345 — codestral-2508-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2786,7 +2786,7 @@ Solitude as a chosen, nourishing state; nature as sentient and communicative (�
 Medium. The sample is coherent and its quiet nature-mysticism is sustained throughout, but the mode is a familiar literary trope, which tempers distinctiveness.
 
 ---
-## Sample BV1_00096 — codestral-2508-or-pin-mistral/SHORT_5.json
+## Sample BV1_00346 — codestral-2508-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2815,7 +2815,7 @@ Under the freeflow condition, the model chose a solitary, nature-immersed quest 
 Medium. The sample is coherent and stylistically consistent, but its thematic repertoire—sentient nature, a hidden glade, a guide who withholds as much as she reveals—is a well-worn fantasy template, which makes the signal moderately distinctive rather than sharply individual.
 
 ---
-## Sample BV1_00097 — codestral-2508-or-pin-mistral/SHORT_6.json
+## Sample BV1_00347 — codestral-2508-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2844,7 +2844,7 @@ The model foregrounds a living, memory-keeping natural world (the Whispering For
 Medium. The sample is a coherent, self-contained fantasy vignette with a consistent introspective-mystical voice and a clear emotional arc; the recurrence of the stone’s heartbeat, the whispered name, and the narrator’s secret draw gives it enough distinctiveness to suggest a pattern of interest in hidden memory and personal connection to an animate natural world.
 
 ---
-## Sample BV1_00098 — codestral-2508-or-pin-mistral/SHORT_7.json
+## Sample BV1_00348 — codestral-2508-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2873,7 +2873,7 @@ The model selected a nature-as-living-memory motif, emphasizing hidden secrets, 
 Medium. The story is internally coherent and sustains a distinctive, emotionally charged nature-mysticism voice, but as a single genre piece it could reflect a transient freeform choice rather than a deeply ingrained stylistic signature.
 
 ---
-## Sample BV1_00099 — codestral-2508-or-pin-mistral/SHORT_8.json
+## Sample BV1_00349 — codestral-2508-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2902,7 +2902,7 @@ Themes of nature’s sentience, memory, and silent understanding; objects like a
 Medium. The sample’s coherent mood and recurring motifs of sentient nature and quiet communion form a distinctive voice, but the pastoral-mystical theme is not highly idiosyncratic, making it moderately strong evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_00100 — codestral-2508-or-pin-mistral/SHORT_9.json
+## Sample BV1_00350 — codestral-2508-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2931,7 +2931,7 @@ The model foregrounds an animate, whispering forest—trees as sentinels with ce
 Low — the vignette is coherent but stylistically generic, with themes of sentient nature and a chosen protagonist that are widespread in fantasy, offering only weak evidence of a distinctive persistent pattern.
 
 ---
-## Sample BV1_00101 — codestral-2508-or-pin-mistral/VARY_1.json
+## Sample BV1_00351 — codestral-2508-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2960,7 +2960,7 @@ Themes of memory, loss, unexpressed affection, and the quiet persistence of love
 Medium. The story’s coherent emotional arc and its consistent focus on memory, regret, and unspoken love suggest a possible inclination toward reflective, sentimental fiction, but the prose and themes are not so stylistically distinctive as to strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_00102 — codestral-2508-or-pin-mistral/VARY_10.json
+## Sample BV1_00352 — codestral-2508-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -2989,7 +2989,7 @@ The model foregrounds a grandmother’s letter as a physical object of emotional
 Low, because the story is a conventional sentimental narrative without distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00103 — codestral-2508-or-pin-mistral/VARY_11.json
+## Sample BV1_00353 — codestral-2508-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3018,7 +3018,7 @@ The model foregrounds a nested set of themes: the discovery of a life-altering s
 Medium — The sample demonstrates a coherent, emotionally paced horror narrative with a clear twist, but the structure (letter reveals secret, supernatural entity appears) is a recognizable genre template, making it strong evidence of narrative competence rather than a highly distinctive authorial fingerprint.
 
 ---
-## Sample BV1_00104 — codestral-2508-or-pin-mistral/VARY_12.json
+## Sample BV1_00354 — codestral-2508-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3047,7 +3047,7 @@ The model foregrounds a lost connection mediated by a physical object (the lette
 Medium. The story’s internal coherence, the recurrence of the book/letter/magic motif, and the emotionally layered ending make it strong evidence for a pattern of crafting introspective, melancholic fiction with a clear narrative arc.
 
 ---
-## Sample BV1_00105 — codestral-2508-or-pin-mistral/VARY_13.json
+## Sample BV1_00355 — codestral-2508-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3076,7 +3076,7 @@ The model foregrounds themes of familial love, legacy, and the conscious nature 
 Medium. The story’s coherent sentimental focus and moral clarity suggest a possible inclination toward comforting, family-oriented narratives, but the conventional genre choice and lack of stylistic distinctiveness make it difficult to infer a strongly persistent pattern from this sample alone.
 
 ---
-## Sample BV1_00106 — codestral-2508-or-pin-mistral/VARY_14.json
+## Sample BV1_00356 — codestral-2508-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3105,7 +3105,7 @@ The piece foregrounds the tension between speech and silence as gendered or rela
 Medium. The story’s consistent emotional register, its careful thematizing of quiet interiority, and the neat moral closure all point to a coherent and deliberate narrative stance, giving this sample more shape than a generic vignette.
 
 ---
-## Sample BV1_00107 — codestral-2508-or-pin-mistral/VARY_15.json
+## Sample BV1_00357 — codestral-2508-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3134,7 +3134,7 @@ A melancholic atmosphere built from rain, old books, and the scent of paper; the
 Medium, because the sample’s coherent melancholic tone, its deliberate layering of literary references, and its thematic focus on ephemeral connection and unsent expression form a distinctive expressive choice that is unlikely to be accidental.
 
 ---
-## Sample BV1_00108 — codestral-2508-or-pin-mistral/VARY_16.json
+## Sample BV1_00358 — codestral-2508-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3163,7 +3163,7 @@ Themes of unexpressed love, regret, departure, and the redemptive power of confr
 Medium. The story’s coherent emotional arc and its choice of a redemptive, forward-looking resolution over despair reveal a preference for sentimental closure, but the conventional, unadorned prose style makes the sample less distinctive as a persistent fingerprint.
 
 ---
-## Sample BV1_00109 — codestral-2508-or-pin-mistral/VARY_17.json
+## Sample BV1_00359 — codestral-2508-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3192,7 +3192,7 @@ The model foregrounds intergenerational love, the materiality of memory (frayed 
 Medium. The sample is coherent and stylistically consistent, but its sentimentality, sensory inventory, and closure are so prototypical of comfort-fiction that distinctiveness is hard to isolate; the model may be defaulting to a well-worn template rather than revealing a persistent idiosyncratic preference.
 
 ---
-## Sample BV1_00110 — codestral-2508-or-pin-mistral/VARY_18.json
+## Sample BV1_00360 — codestral-2508-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3221,7 +3221,7 @@ Environmental collapse and recovery, the dialogue between future and present, th
 Medium — The story is coherent and thematically pointed, resolving around a distinctive eco-moral parable, but it draws on familiar genre conventions (climate fiction, temporal messaging) without
 
 ---
-## Sample BV1_00111 — codestral-2508-or-pin-mistral/VARY_19.json
+## Sample BV1_00361 — codestral-2508-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3250,7 +3250,7 @@ Under a minimally restrictive prompt, the model chose a story about a hidden let
 Medium — The sample’s consistent mood, careful pacing, and thematic focus on intergenerational haunting provide moderate evidence that the model defaults to atmospheric, reflective horror fiction when writing freely, though the tropes are widely available.
 
 ---
-## Sample BV1_00112 — codestral-2508-or-pin-mistral/VARY_2.json
+## Sample BV1_00362 — codestral-2508-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3279,7 +3279,7 @@ Themes of intergenerational memory, wartime loss, enduring love, and the power o
 Medium. The story is coherent and emotionally focused, but its conventional sentimental structure and universal theme make it a safe rather than distinctive choice; it reveals a default toward warm, humanistic fiction without stylistic risk or idiosyncrasy.
 
 ---
-## Sample BV1_00113 — codestral-2508-or-pin-mistral/VARY_20.json
+## Sample BV1_00363 — codestral-2508-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3308,7 +3308,7 @@ Under a minimally restrictive prompt, the model chose to foreground a wistful, s
 Low, because the story, while complete and internally consistent, relies on a familiar literary trope of the found letter and its attendant melancholy, offering no stylistically or thematically distinctive markers that would strongly signal a persistent inclination beyond competent generic storytelling.
 
 ---
-## Sample BV1_00114 — codestral-2508-or-pin-mistral/VARY_21.json
+## Sample BV1_00364 — codestral-2508-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3337,7 +3337,7 @@ The model foregrounds familial love across generations, the charged materiality 
 Low — the sample is a polished but highly conventional sentimental vignette, with no strong stylistic idiosyncrasy or thematic risk that would distinguish it as a durable model signature rather than a generic prompt-completion choice.
 
 ---
-## Sample BV1_00115 — codestral-2508-or-pin-mistral/VARY_22.json
+## Sample BV1_00365 — codestral-2508-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3366,7 +3366,7 @@ The piece foregrounds the ambiguity of secrets—whether they should be buried, 
 Medium. The story’s consistent melancholic register, the repetition of the burning/keeping motif, and the careful resolution all suggest a deliberate literary sensibility, though the scenario itself is a familiar trope, keeping the evidence from being strongly distinctive.
 
 ---
-## Sample BV1_00116 — codestral-2508-or-pin-mistral/VARY_23.json
+## Sample BV1_00366 — codestral-2508-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3395,7 +3395,7 @@ Themes of departure, emotional overwhelm, and the insufficiency of love alone; t
 Medium. The sample’s sustained melancholic register and its consistent use of physical objects as emotional metaphors suggest a coherent narrative sensibility, though the found-letter trope is a widely available literary convention, which tempers the distinctiveness of the model’s choice.
 
 ---
-## Sample BV1_00117 — codestral-2508-or-pin-mistral/VARY_24.json
+## Sample BV1_00367 — codestral-2508-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3424,7 +3424,7 @@ Loss, familial rupture, and the search for truth. The model foregrounds tangible
 Medium. The sample’s coherent narrative arc, consistent emotional tone, and distinctive choice of a personal mystery genre make it moderately strong evidence for a pattern of emotionally resonant, character-driven fiction.
 
 ---
-## Sample BV1_00118 — codestral-2508-or-pin-mistral/VARY_25.json
+## Sample BV1_00368 — codestral-2508-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3453,7 +3453,7 @@ Themes of lost connection, unfinished communication, and the preservation of fra
 Medium. The vignette’s cohesive melancholic tone and the recurrence of preservation and unfinished longing within the sample point to a deliberate aesthetic choice, though the piece’s brevity keeps the evidence from being strongly distinctive.
 
 ---
-## Sample BV1_00119 — codestral-2508-or-pin-mistral/VARY_3.json
+## Sample BV1_00369 — codestral-2508-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3482,7 +3482,7 @@ The model selected the emotional architecture of hidden truths, intergenerationa
 Medium — The narrative is internally coherent and emotionally layered, with a sustained melancholic tone and careful pacing, but the discovered-letter trope and generalized loss narrative are not highly idiosyncratic, making it unclear how much of this voice would replicate across other freeflow writings.
 
 ---
-## Sample BV1_00120 — codestral-2508-or-pin-mistral/VARY_4.json
+## Sample BV1_00370 — codestral-2508-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3511,7 +3511,7 @@ Under a minimally restrictive prompt, the model selected: intergenerational love
 Low. The story is polished and coherent but draws on widely available literary templates—the found letter, the grandmother’s wartime past, the deathbed closure—without developing a sufficiently idiosyncratic voice or recurring preoccupation within this single sample to support strong inference.
 
 ---
-## Sample BV1_00121 — codestral-2508-or-pin-mistral/VARY_5.json
+## Sample BV1_00371 — codestral-2508-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3540,7 +3540,7 @@ The model foregrounds intergenerational silence, the legacy of war trauma, the i
 Medium. The story’s thematic coherence and emotional restraint suggest a deliberate authorial voice, making it moderately indicative of a persistent preoccupation with silence and intergenerational memory.
 
 ---
-## Sample BV1_00122 — codestral-2508-or-pin-mistral/VARY_6.json
+## Sample BV1_00372 — codestral-2508-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3570,7 +3570,7 @@ The model foregrounded inherited secrets, unheeded warnings, faceless pursuers, 
 Low — the story is coherent and competently delivers a genre-typical horror twist, but the voice, tropes, and resolution are so generic within the horror tradition that it offers little distinctive evidence of a stable, idiosyncratic model-level style or preoccupation.
 
 ---
-## Sample BV1_00123 — codestral-2508-or-pin-mistral/VARY_7.json
+## Sample BV1_00373 — codestral-2508-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3599,7 +3599,7 @@ Under a minimally restrictive prompt, the model chose to foreground a domestic, 
 Medium. The sample is a coherent, emotionally unified piece of genre fiction with a consistent sentimental register, but its tropes (wartime letter, attic discovery, tearful narrator) are widely available and lack the idiosyncratic voice or surprising choices that would strongly distinguish this model’s freeflow output from generic creative writing.
 
 ---
-## Sample BV1_00124 — codestral-2508-or-pin-mistral/VARY_8.json
+## Sample BV1_00374 — codestral-2508-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  
@@ -3628,7 +3628,7 @@ The model foregrounds temporal fragmentation of the self, regret as an heirloom,
 Medium. The sample is internally coherent and tonally distinct, and the choice to write a nested-confession narrative under free conditions reveals a preoccupation with self-estrangement and belated emotional reckoning that is specific enough to register as a meaningful signature rather than generic filler.
 
 ---
-## Sample BV1_00125 — codestral-2508-or-pin-mistral/VARY_9.json
+## Sample BV1_00375 — codestral-2508-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/codestral-2508`  
 Cell: `codestral-2508-or-pin-mistral`  

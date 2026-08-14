@@ -41,6 +41,8 @@ def canonical(srcs, cell: str) -> str:
         # whose catalog id is the bare 'deepseek-v4-flash' — but that name
         # belongs to a different, older release. Keep the dated identity.
         s = 'deepseek-v4-flash-0731'
+    if s == 'deepseek-v4-pro' and '20260813' in (cell or ''):
+        s = 'deepseek-v4-pro-0813'
     if s == 'claude-3-haiku':
         s = 'haiku-3'
     if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s):

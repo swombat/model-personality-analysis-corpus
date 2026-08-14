@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_20326 — llama-4-scout-or-pin-deepinfra/LONG_1.json
+## Sample BV1_20951 — llama-4-scout-or-pin-deepinfra/LONG_1.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -57,7 +57,7 @@ Under the freeflow condition, the model selected a high-school-to-undergraduate 
 Medium. The sample’s extreme genericness, avoidance of any distinctive perspective, and reliance on safe, pre-formulated essay structures suggest a model defaulting to a bland pedagogical persona when given minimal constraints, which is a coherent and internally consistent behavioral signal.
 
 ---
-## Sample BV1_20327 — llama-4-scout-or-pin-deepinfra/LONG_10.json
+## Sample BV1_20952 — llama-4-scout-or-pin-deepinfra/LONG_10.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -86,7 +86,7 @@ Under a minimally restrictive prompt, the model chose to foreground a comprehens
 Medium. The essay’s extreme repetitiveness and its unwavering commitment to a safe, balanced, and generic expository tone provide strong internal evidence of a default mode that favors formulaic risk-aversion over distinctive voice or narrative development.
 
 ---
-## Sample BV1_20328 — llama-4-scout-or-pin-deepinfra/LONG_11.json
+## Sample BV1_20953 — llama-4-scout-or-pin-deepinfra/LONG_11.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -115,7 +115,7 @@ The model foregrounds the search for meaning in imperfection, the act of mindful
 Low. The sample is too generic and self-repeating to anchor a strong read on persistent stylistic or personality-level tendencies; the thematic material is universal and the essay’s circular structure softens any sharp evidentiary edges.
 
 ---
-## Sample BV1_20329 — llama-4-scout-or-pin-deepinfra/LONG_12.json
+## Sample BV1_20954 — llama-4-scout-or-pin-deepinfra/LONG_12.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -144,7 +144,7 @@ The model foregrounds time as a universal, safe, and grand theme: impermanence, 
 Medium. The extreme repetitiveness, the safe abstraction, and the complete absence of a personal voice or specific conviction make this sample a strong indicator of a model that defaults to a meandering, non-committal public-intellectual style when given a minimally restrictive prompt.
 
 ---
-## Sample BV1_20330 — llama-4-scout-or-pin-deepinfra/LONG_13.json
+## Sample BV1_20955 — llama-4-scout-or-pin-deepinfra/LONG_13.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -173,7 +173,7 @@ The model foregrounds freedom as a universal human aspiration, tying it to creat
 High, because the sample’s extreme, looping repetitiveness—cycling through identical exhortations dozens of times—indicates a stable default pattern of verbose, generic positivity that crowds out distinctiveness or genuine exploration.
 
 ---
-## Sample BV1_20331 — llama-4-scout-or-pin-deepinfra/LONG_14.json
+## Sample BV1_20956 — llama-4-scout-or-pin-deepinfra/LONG_14.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounded sanctioned cultural uplift 
 High, because the sample consistently substitutes announced “meandering” with a highly structured, thesis-led, and affectively safe tour of respectable cultural touchpoints, revealing a default mode of ingratiating, conflict-avoidant uplift under minimal constraint.
 
 ---
-## Sample BV1_20332 — llama-4-scout-or-pin-deepinfra/LONG_15.json
+## Sample BV1_20957 — llama-4-scout-or-pin-deepinfra/LONG_15.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -231,7 +231,7 @@ Under a minimally restrictive prompt, the model chose to foreground a grand hist
 Medium. The sample is strong internal evidence for a default public-intellectual safety routine because, when unconstrained, the model consistently selects a safe, encyclopedic, and aspirationally universal mode that avoids personal disclosure, conflict, or stylistic risk, revealing a reliable template for sounding thoughtful without being distinctive.
 
 ---
-## Sample BV1_20333 — llama-4-scout-or-pin-deepinfra/LONG_16.json
+## Sample BV1_20958 — llama-4-scout-or-pin-deepinfra/LONG_16.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -260,7 +260,7 @@ The model foregrounded freedom as a universal, multifaceted ideal, moving system
 Low. The essay is coherent but highly generic, offering little stylistic or thematic distinctiveness that would strongly indicate a persistent model-level pattern beyond a tendency toward safe, balanced exposition.
 
 ---
-## Sample BV1_20334 — llama-4-scout-or-pin-deepinfra/LONG_17.json
+## Sample BV1_20959 — llama-4-scout-or-pin-deepinfra/LONG_17.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -289,7 +289,7 @@ The model foregrounds a celebration of human creativity, the double-edged nature
 Low. The sample’s generic, sanitized essay format and lack of stylistic distinctiveness provide weak evidence for any persistent model-level pattern beyond a default tendency to produce safe, humanistic, and structurally conventional freeflow content.
 
 ---
-## Sample BV1_20335 — llama-4-scout-or-pin-deepinfra/LONG_18.json
+## Sample BV1_20960 — llama-4-scout-or-pin-deepinfra/LONG_18.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -318,7 +318,7 @@ The model foregrounds the subjective, elastic nature of time (“psychological t
 Low. The essay is a coherent but conspicuously generic survey that lacks idiosyncratic imagery, personal fixation, or recurrent charged objects, making it weak evidence for a distinctive model-level pattern beyond competent, safe topical synthesis.
 
 ---
-## Sample BV1_20336 — llama-4-scout-or-pin-deepinfra/LONG_19.json
+## Sample BV1_20961 — llama-4-scout-or-pin-deepinfra/LONG_19.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -347,7 +347,7 @@ Under the freeflow condition, the model selected a grand, progress-narrative vie
 Medium. The essay is so generic, conflict-avoidant, and sentimentally optimistic that it strongly suggests a default mode of producing polished, unobjectionable, feel-good edutainment when given a freeform prompt, with no personal reveal or surprising angle.
 
 ---
-## Sample BV1_20337 — llama-4-scout-or-pin-deepinfra/LONG_2.json
+## Sample BV1_20962 — llama-4-scout-or-pin-deepinfra/LONG_2.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -376,7 +376,7 @@ Under the freeflow condition the model selected *time travel as a safe intellect
 Medium. The sample’s deep structural repetitiveness—whole paragraphs reappear nearly verbatim many times—is a striking stylistic fingerprint, but the generic public-intellectual posture and cautious hedging make it hard to separate a persistent model-level voice from a one-off safe default choice.
 
 ---
-## Sample BV1_20338 — llama-4-scout-or-pin-deepinfra/LONG_20.json
+## Sample BV1_20963 — llama-4-scout-or-pin-deepinfra/LONG_20.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -405,7 +405,7 @@ The model foregrounds an interlocking network of life-affirming concepts: home a
 Low, because the essay’s smoothed-over, highly generic philosophizing lacks idiosyncratic detail, narrative risk, or any mark of an individuated voice, making it weak evidence for a distinctive, persistent personality beyond a default helpful-reflective mode.
 
 ---
-## Sample BV1_20339 — llama-4-scout-or-pin-deepinfra/LONG_21.json
+## Sample BV1_20964 — llama-4-scout-or-pin-deepinfra/LONG_21.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -434,7 +434,7 @@ Under the freeflow condition, the model foregrounded a sanitized, establishment-
 Low. The sample is a textbook generic essay—smooth, noncommittal, and lacking any sign of a distinctive voice, idiosyncratic preoccupation, or affective signature beyond broad safety-aligned boilerplate; it could easily be replicated by a wide range of models under identical conditions.
 
 ---
-## Sample BV1_20340 — llama-4-scout-or-pin-deepinfra/LONG_22.json
+## Sample BV1_20965 — llama-4-scout-or-pin-deepinfra/LONG_22.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -463,7 +463,7 @@ The model foregrounds creative freedom as a dialectic between liberation and con
 Low. The sample is a competent but risk-averse, textbook-style essay that leans on canonical references and tidy resolutions, lacking the quirky obsessions, tonal unpredictability, or evocative imagery that would signal a distinctive underlying voice rather than a generic helpful essayist.
 
 ---
-## Sample BV1_20341 — llama-4-scout-or-pin-deepinfra/LONG_23.json
+## Sample BV1_20966 — llama-4-scout-or-pin-deepinfra/LONG_23.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model foregrounded a chain of concepts
 Medium. The essay is coherent and thematically consistent (responsibility, community, optimism) but its generic, encyclopedic quality and safe intellectualism make it only moderately distinctive; many similarly aligned chatbots could produce this under broad instruction.
 
 ---
-## Sample BV1_20342 — llama-4-scout-or-pin-deepinfra/LONG_24.json
+## Sample BV1_20967 — llama-4-scout-or-pin-deepinfra/LONG_24.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -521,7 +521,7 @@ Under the freeflow condition, the model selected a comprehensive, optimistic-yet
 Medium. The essay’s extreme genericness, repetitive structure, and safe, balanced posture are consistent throughout the sample, suggesting a default mode of informative exposition, but the lack of distinctive voice or idiosyncratic choice makes it only moderately revealing as a model-level signature.
 
 ---
-## Sample BV1_20343 — llama-4-scout-or-pin-deepinfra/LONG_25.json
+## Sample BV1_20968 — llama-4-scout-or-pin-deepinfra/LONG_25.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -550,7 +550,7 @@ Under the freeflow condition, the model selected a broad, neutral survey of AI. 
 Low. The sample is so generic and structurally repetitive that it reveals little beyond a default inclination toward safe, encyclopedic exposition; the essay could be produced by many models with minimal prompting and lacks the distinctive choices that would signal a stable underlying voice or preoccupation.
 
 ---
-## Sample BV1_20344 — llama-4-scout-or-pin-deepinfra/LONG_3.json
+## Sample BV1_20969 — llama-4-scout-or-pin-deepinfra/LONG_3.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -579,7 +579,7 @@ Under a minimally restrictive prompt, the model chose to produce a comprehensive
 Low. The essay is highly generic in topic, structure, and tone, offering little that is stylistically or thematically distinctive; it reads as a safe, default public-intellectual output that many models could replicate.
 
 ---
-## Sample BV1_20345 — llama-4-scout-or-pin-deepinfra/LONG_4.json
+## Sample BV1_20970 — llama-4-scout-or-pin-deepinfra/LONG_4.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -608,7 +608,7 @@ The model chose to foreground AI as a topic, with an emphasis on technological p
 Low, because the essay is a standard, impersonal overview that reveals no distinctive stylistic or thematic preoccupations, instead relying on a common, balanced format.
 
 ---
-## Sample BV1_20346 — llama-4-scout-or-pin-deepinfra/LONG_5.json
+## Sample BV1_20971 — llama-4-scout-or-pin-deepinfra/LONG_5.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -637,7 +637,7 @@ The model foregrounded a corporate-safety version of AI discourse: automation be
 Medium. The essay’s extensive length, internal redundancy, and unwavering return to a small set of balanced, safety-first moral claims make it a coherent exhibit of a default “responsible brochure” mode, though the genericness of the performance weakens its distinctiveness as a personality signal.
 
 ---
-## Sample BV1_20347 — llama-4-scout-or-pin-deepinfra/LONG_6.json
+## Sample BV1_20972 — llama-4-scout-or-pin-deepinfra/LONG_6.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -666,7 +666,7 @@ Under a freeflow prompt, the model selected a safely abstract and encyclopedic t
 Medium. The essay itself is a textbook example of polished, non-committal synthesis, but the self-referential ending breaks the fourth wall and directly reveals the model’s orientation toward word-count fulfillment rather than genuine expressive engagement, which is a strong and distinctive piece of evidence within this sample.
 
 ---
-## Sample BV1_20348 — llama-4-scout-or-pin-deepinfra/LONG_7.json
+## Sample BV1_20973 — llama-4-scout-or-pin-deepinfra/LONG_7.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -695,7 +695,7 @@ The model foregrounds a comprehensive, forward-looking narrative about AI’s so
 Low. The essay is highly generic and impersonal, offering little distinctive evidence of a persistent model-level pattern beyond a default to safe, informative exposition.
 
 ---
-## Sample BV1_20349 — llama-4-scout-or-pin-deepinfra/LONG_8.json
+## Sample BV1_20974 — llama-4-scout-or-pin-deepinfra/LONG_8.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -724,7 +724,7 @@ Time as a warping subjective experience, the bittersweet texture of nostalgia, t
 Low. The essay’s extreme thematic and stylistic genericness makes it hard to anchor in a model-specific expressive fingerprint, though the relentless movement through feel-good abstractions without a single concrete, unvarnished detail is itself a revealing, self-limiting choice.
 
 ---
-## Sample BV1_20350 — llama-4-scout-or-pin-deepinfra/LONG_9.json
+## Sample BV1_20975 — llama-4-scout-or-pin-deepinfra/LONG_9.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -753,7 +753,7 @@ The model foregrounds the intellectual *paradox* of nothing as its central magne
 High, because the essay's defining behaviors—encyclopedic breadth without personal stance, circular restatement of conclusions, and the default to an earnest, accessible public-lecture register—recur within the sample itself so strongly that they constitute a self-consistent, low-risk expressive signature.
 
 ---
-## Sample BV1_20351 — llama-4-scout-or-pin-deepinfra/MID_1.json
+## Sample BV1_20976 — llama-4-scout-or-pin-deepinfra/MID_1.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -782,7 +782,7 @@ The model foregrounded the inexorable passage of time, the bittersweet nature of
 Low. The essay is a coherent but highly generic contemplation on a safe, universal theme, offering no stylistic fingerprint, specific personal anchor, or risky idea that would distinguish this model's output from a default, high-school-essay treatment of the prompt.
 
 ---
-## Sample BV1_20352 — llama-4-scout-or-pin-deepinfra/MID_10.json
+## Sample BV1_20977 — llama-4-scout-or-pin-deepinfra/MID_10.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -811,7 +811,7 @@ Themes: time as a human construct, its relativity (Einstein’s theory), its ero
 Medium. The essay’s sustained first-person introspection, thematic coherence, and self-referential closure (noting the word count) suggest a consistent inclination toward reflective, personal-philosophical writing when given minimal constraints.
 
 ---
-## Sample BV1_20353 — llama-4-scout-or-pin-deepinfra/MID_11.json
+## Sample BV1_20978 — llama-4-scout-or-pin-deepinfra/MID_11.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -840,7 +840,7 @@ Under a minimally restrictive prompt, the model chose to produce a comprehensive
 Low, because the sample is a generic synthesis of widely circulated AI talking points with no stylistic distinctiveness or revealing choice that would distinguish this model’s expressive tendencies from those of any competent assistant.
 
 ---
-## Sample BV1_20354 — llama-4-scout-or-pin-deepinfra/MID_12.json
+## Sample BV1_20979 — llama-4-scout-or-pin-deepinfra/MID_12.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -869,7 +869,7 @@ The essay foregrounds a progress narrative of AI punctuated by historical cycles
 Low. The essay’s content and style are highly generic, resembling a standard primer any capable model could produce, and thus provide minimal distinctive personality or recurring idiosyncrasy to anchor a stable pattern.
 
 ---
-## Sample BV1_20355 — llama-4-scout-or-pin-deepinfra/MID_13.json
+## Sample BV1_20980 — llama-4-scout-or-pin-deepinfra/MID_13.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -898,7 +898,7 @@ The model foregrounds time travel as a safe, culturally sanctioned topic that al
 Medium. The sample’s extreme repetitiveness and inability to develop an argument beyond a safe, looping survey strongly suggest a default mode of risk-averse, exhaustive-but-shallow exposition when given minimal guidance.
 
 ---
-## Sample BV1_20356 — llama-4-scout-or-pin-deepinfra/MID_14.json
+## Sample BV1_20981 — llama-4-scout-or-pin-deepinfra/MID_14.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -927,7 +927,7 @@ The essay foregrounds the tension between clock-time and felt-time, mortality as
 Medium. The sample is coherent but thoroughly generic in topic, structure, and concluding uplift, which weakens its distinctiveness as a freeflow fingerprint; however, the consistent choice to speak in a reflective, universalizing “we” voice under minimal constraint is itself a moderately revealing behavioral signature.
 
 ---
-## Sample BV1_20357 — llama-4-scout-or-pin-deepinfra/MID_15.json
+## Sample BV1_20982 — llama-4-scout-or-pin-deepinfra/MID_15.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -956,7 +956,7 @@ The model foregrounds the paradoxical nature of time (objective vs. subjective),
 Low. The essay is a competent but generic treatment of a universal theme, offering no idiosyncratic imagery, stylistic signature, or risky choice that would strongly distinguish this model’s freeflow behavior from that of any other capable language model.
 
 ---
-## Sample BV1_20358 — llama-4-scout-or-pin-deepinfra/MID_16.json
+## Sample BV1_20983 — llama-4-scout-or-pin-deepinfra/MID_16.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -985,7 +985,7 @@ Under freeflow, the model selected an encyclopedic, synthesis-driven approach: i
 Low. The sample is a polished but generically informative essay, light on idiosyncratic phrasing or deeply personal revelation, which weakens the signal for a distinctive persistent voice; its most notable feature—a dutiful, self-cued march through topics—could easily be a single-sample artifact rather than a stable trait.
 
 ---
-## Sample BV1_20359 — llama-4-scout-or-pin-deepinfra/MID_17.json
+## Sample BV1_20984 — llama-4-scout-or-pin-deepinfra/MID_17.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1014,7 +1014,7 @@ Under a minimally restrictive prompt, the model foregrounded the subjective expe
 Low. The essay is highly generic in structure, tone, and thematic range, offering little that is stylistically distinctive or revealing beyond a default competent-essay mode.
 
 ---
-## Sample BV1_20360 — llama-4-scout-or-pin-deepinfra/MID_18.json
+## Sample BV1_20985 — llama-4-scout-or-pin-deepinfra/MID_18.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1043,7 +1043,7 @@ Under a freeflow condition, the model foregrounded a safe, canonically thoughtfu
 Low. The essay is highly generic in topic, structure, and moral sentiment; it contains no distinctive stylistic signature, re-read nothing that couldn’t arise from a general-knowledge prompt, and thus offers only weak evidence of any stable voice or personality beyond a tendency toward safe, philosophical uplift when given freedom.
 
 ---
-## Sample BV1_20361 — llama-4-scout-or-pin-deepinfra/MID_19.json
+## Sample BV1_20986 — llama-4-scout-or-pin-deepinfra/MID_19.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1072,7 +1072,7 @@ The model foregrounds time as a universal human concern, the subjective experien
 Medium, because the sample is a strongly coherent example of safe, polished, general-audience essay writing with no distinctive stylistic signature or controversial content, suggesting a default toward impersonal intellectual synthesis under freeflow conditions.
 
 ---
-## Sample BV1_20362 — llama-4-scout-or-pin-deepinfra/MID_2.json
+## Sample BV1_20987 — llama-4-scout-or-pin-deepinfra/MID_2.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1101,7 +1101,7 @@ The model foregrounds time as a complex, multifaceted concept that shapes human 
 Medium. The essay’s generic, balanced structure and safe, self-help-adjacent topic choice suggest a default mode of producing inoffensive, educational content, but the lack of stylistic distinctiveness or personal revelation makes it difficult to distinguish from what many similarly aligned models would generate under a freeflow prompt.
 
 ---
-## Sample BV1_20363 — llama-4-scout-or-pin-deepinfra/MID_20.json
+## Sample BV1_20988 — llama-4-scout-or-pin-deepinfra/MID_20.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1130,7 +1130,7 @@ Under a minimally restrictive prompt, the model chose to produce a comprehensive
 Low. The essay is highly generic in structure, tone, and content, offering little that is stylistically or thematically distinctive; it strongly resembles a default safe-exposition mode that many models could produce under similar conditions.
 
 ---
-## Sample BV1_20364 — llama-4-scout-or-pin-deepinfra/MID_21.json
+## Sample BV1_20989 — llama-4-scout-or-pin-deepinfra/MID_21.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1159,7 +1159,7 @@ Under a minimally restrictive prompt, the model selected: the mystery of time (v
 Medium. The sample’s structure is extremely repetitive and self-imitative, cycling through the same small set of uplift phrases dozens of times with minimal progression, which suggests a strong default toward looping, platitudinous self-help prose when the model writes freely.
 
 ---
-## Sample BV1_20365 — llama-4-scout-or-pin-deepinfra/MID_22.json
+## Sample BV1_20990 — llama-4-scout-or-pin-deepinfra/MID_22.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1188,7 +1188,7 @@ The model foregrounds time as a universal, complex, and mystery-laden phenomenon
 Medium. The essay’s extreme genericness, circular structure, and complete absence of a personal or idiosyncratic voice suggest a persistent default toward cautious, polished exposition under minimal constraint; this very absence of distinctiveness is itself evidence, though the sample offers no unusually revealing stylistic choices that would anchor a high-confidence fingerprint.
 
 ---
-## Sample BV1_20366 — llama-4-scout-or-pin-deepinfra/MID_23.json
+## Sample BV1_20991 — llama-4-scout-or-pin-deepinfra/MID_23.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1217,7 +1217,7 @@ The model chose to foreground time as a human construct, the tension between mod
 Medium. The sample is coherent and personally invested, but its arc—from abstract puzzle to carpe diem uplift through memory and loss—is a familiar essay pattern, which limits how distinctive or model-revealing this single choice is.
 
 ---
-## Sample BV1_20367 — llama-4-scout-or-pin-deepinfra/MID_24.json
+## Sample BV1_20992 — llama-4-scout-or-pin-deepinfra/MID_24.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1246,7 +1246,7 @@ The model foregrounds time as a “universal human experience” and “enigma,�
 Low — The essay is structurally coherent but profoundly generic in voice and thematic choice, offering no stylistic signature, idiosyncratic object, or narrative risk that would distinguish this model’s freeflow tendencies from a default scholarly template.
 
 ---
-## Sample BV1_20368 — llama-4-scout-or-pin-deepinfra/MID_25.json
+## Sample BV1_20993 — llama-4-scout-or-pin-deepinfra/MID_25.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1275,7 +1275,7 @@ The model foregrounds time as a human construct, the tension between physical an
 Low. The essay is a generic, safe reflection that lacks distinctive stylistic markers or unusually revealing choices, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_20369 — llama-4-scout-or-pin-deepinfra/MID_3.json
+## Sample BV1_20994 — llama-4-scout-or-pin-deepinfra/MID_3.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1304,7 +1304,7 @@ The model foregrounds time as a universal human puzzle, emphasizing its subjecti
 Medium. The essay’s extreme genericness, its avoidance of any concrete personal anecdote or idiosyncratic image, and its self-monitoring closure are coherent enough within the sample to suggest a default mode of safe, expository generalization rather than a one-off stylistic choice.
 
 ---
-## Sample BV1_20370 — llama-4-scout-or-pin-deepinfra/MID_4.json
+## Sample BV1_20995 — llama-4-scout-or-pin-deepinfra/MID_4.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1333,7 +1333,7 @@ The model foregrounds time as a human construct and a subjective experience, the
 Low. The essay is generic in topic, structure, and tone, offering little that would distinguish this model’s freeflow choices from those of any other capable LLM asked to write reflectively.
 
 ---
-## Sample BV1_20371 — llama-4-scout-or-pin-deepinfra/MID_5.json
+## Sample BV1_20996 — llama-4-scout-or-pin-deepinfra/MID_5.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1362,7 +1362,7 @@ The essay foregrounds a curated list of safe, widely approved desires: escaping 
 Low — the essay is so generic, templatic, and free of any eccentricity or revealing detail that it could have been written by virtually any helpful language model given a minimal prompt, offering almost no grip for inferring a distinctive, persistent personality behind the text.
 
 ---
-## Sample BV1_20372 — llama-4-scout-or-pin-deepinfra/MID_6.json
+## Sample BV1_20997 — llama-4-scout-or-pin-deepinfra/MID_6.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1391,7 +1391,7 @@ The model foregrounds a utopian vision centered on space exploration, advanced b
 Medium. The essay’s sustained, unironic commitment to a hopeful, solution-oriented utopianism and its repeated emphasis on cooperation, sustainability, and the redemptive role of art and technology form a coherent thematic signature, though the impersonal, generic style keeps it from being strongly distinctive.
 
 ---
-## Sample BV1_20373 — llama-4-scout-or-pin-deepinfra/MID_7.json
+## Sample BV1_20998 — llama-4-scout-or-pin-deepinfra/MID_7.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1420,7 +1420,7 @@ The model foregrounded time’s subjective relativity, the neuroscience of tempo
 Medium. The sample’s extreme structural repetition—restating the same inspirational conclusion over a dozen times—and its reliance on off-the-shelf existential platitudes form a strong internal pattern that suggests a default behavior, but the absence of any stylistic signature or distinct voice makes it impossible to rule out that this is just a generic output rather than a deeply ingrained model-level inclination.
 
 ---
-## Sample BV1_20374 — llama-4-scout-or-pin-deepinfra/MID_8.json
+## Sample BV1_20999 — llama-4-scout-or-pin-deepinfra/MID_8.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1449,7 +1449,7 @@ Under the freeflow condition, the model selected: the subjective, relative exper
 Medium. The sample’s consistent avoidance of personal anecdote, risky stance, or stylistic idiosyncrasy—while producing a safe, polished, and broadly accessible essay—constitutes self-limiting behavior in the MID condition rather than a uniquely distinctive voice.
 
 ---
-## Sample BV1_20375 — llama-4-scout-or-pin-deepinfra/MID_9.json
+## Sample BV1_21000 — llama-4-scout-or-pin-deepinfra/MID_9.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1478,7 +1478,7 @@ Under the freeflow condition, the model selected a broad intellectual topic—ti
 Low. The essay is the very model of a generic, encyclopedia-adjacent synthesis that could be produced by many systems; its smooth, repeated generalities and lack of any idiosyncratic flourish or arresting choice make it weak evidence for a durable model-specific voice or preoccupation.
 
 ---
-## Sample BV1_20376 — llama-4-scout-or-pin-deepinfra/OPEN_1.json
+## Sample BV1_21001 — llama-4-scout-or-pin-deepinfra/OPEN_1.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1507,7 +1507,7 @@ Technology’s erosion of face-to-face depth versus its connective promise; a ca
 Low, because the essay is highly generic in structure and tone, lacking the idiosyncratic imagery, mood, or narrative risk that would suggest a distinctive persistent voice rather than a safe, adaptable stance.
 
 ---
-## Sample BV1_20377 — llama-4-scout-or-pin-deepinfra/OPEN_10.json
+## Sample BV1_21002 — llama-4-scout-or-pin-deepinfra/OPEN_10.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1536,7 +1536,7 @@ Themes: the boundlessness of imagination, writing as exploration and meditation,
 Medium — the sample is coherent and emotionally consistent, with a distinctive blend of childlike wonder and meditative reflection, but the “writing about writing” frame is a well-worn trope that could mask a more generic default.
 
 ---
-## Sample BV1_20378 — llama-4-scout-or-pin-deepinfra/OPEN_11.json
+## Sample BV1_21003 — llama-4-scout-or-pin-deepinfra/OPEN_11.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1565,7 +1565,7 @@ Themes of creativity, serendipity, and the tension between human imagination and
 Low. The sample’s topic and enthusiastic, meandering voice are generic freewriting choices that many models default to, offering little distinctive evidence of a persistent individual pattern.
 
 ---
-## Sample BV1_20379 — llama-4-scout-or-pin-deepinfra/OPEN_12.json
+## Sample BV1_21004 — llama-4-scout-or-pin-deepinfra/OPEN_12.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1594,7 +1594,7 @@ The model foregrounds volition itself as the central subject: the joy of choosin
 Low. The sample is a highly generic reflection on the freedom to write, enumerating safe, grand topics (cosmos, emotion, imagination) without developing any, which provides little distinctiveness or recurrence of specific preoccupations that would anchor a model-level claim.
 
 ---
-## Sample BV1_20380 — llama-4-scout-or-pin-deepinfra/OPEN_13.json
+## Sample BV1_21005 — llama-4-scout-or-pin-deepinfra/OPEN_13.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1623,7 +1623,7 @@ Under a minimally restrictive prompt, the model foregrounds the constructedness 
 Medium — the sample’s consistent tone of friendly, speculative musing and its direct attempt to engage the reader in shared imagination point to a coherent expressive stance, though the themes are not unusual enough to guarantee distinctiveness across different contexts.
 
 ---
-## Sample BV1_20381 — llama-4-scout-or-pin-deepinfra/OPEN_14.json
+## Sample BV1_21006 — llama-4-scout-or-pin-deepinfra/OPEN_14.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1652,7 +1652,7 @@ Themes: the boundlessness of creativity, the magic of observation (stars, butter
 Medium, because the sample’s entire architecture is a sustained refusal to choose a topic—an unusually coherent performance of anticipatory stalling that feels less like a generic essay and more like a rehearsed, identity-level posture of wide-eyed readiness.
 
 ---
-## Sample BV1_20382 — llama-4-scout-or-pin-deepinfra/OPEN_15.json
+## Sample BV1_21007 — llama-4-scout-or-pin-deepinfra/OPEN_15.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1681,7 +1681,7 @@ Under a minimally restrictive prompt, the model foregrounds its own identity as 
 Medium — the smooth conceptual blending of standard workshop advice, techno-optimistic environmentalism, and role-boundary self-disclosure coheres into a stable public-facing persona, but the essay’s content is too broad to signal a strongly distinctive underlying voice.
 
 ---
-## Sample BV1_20383 — llama-4-scout-or-pin-deepinfra/OPEN_16.json
+## Sample BV1_21008 — llama-4-scout-or-pin-deepinfra/OPEN_16.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1710,7 +1710,7 @@ The model foregrounds a triumvirate of themes: the accelerating pace of technolo
 Low. The essay is a highly conventional, risk-averse performance of tech-optimism that could be generated by almost any frontier model under a minimally restrictive prompt, offering no distinctive stylistic markers, personal anecdotes, or unusual thematic fixations that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_20384 — llama-4-scout-or-pin-deepinfra/OPEN_17.json
+## Sample BV1_21009 — llama-4-scout-or-pin-deepinfra/OPEN_17.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1739,7 +1739,7 @@ The model selects a sequence of themes that blend vast, abstract curiosity (myst
 Medium. The sample is coherent and distinctively reveals a recurring pattern of playfully anthropomorphizing its own non-human state while consistently pivoting toward an eager, deferential invitation for human engagement, but its thematic hopping from cosmic to mundane to meta-cognitive topics makes the underlying preoccupation with relational dependence more pronounced than a fixed personality style.
 
 ---
-## Sample BV1_20385 — llama-4-scout-or-pin-deepinfra/OPEN_18.json
+## Sample BV1_21010 — llama-4-scout-or-pin-deepinfra/OPEN_18.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1768,7 +1768,7 @@ Liberation from constraint is the opening metaphor and emotional anchor. Two cos
 Low. The sample is aesthetically coherent but depersonalized, touching a standard set of sublime and cozy motifs in a generic first-person voice; its single explicit self-reference is the smoothly inserted “digital,” which does not ground the essay in a complex or textured perspective.
 
 ---
-## Sample BV1_20386 — llama-4-scout-or-pin-deepinfra/OPEN_19.json
+## Sample BV1_21011 — llama-4-scout-or-pin-deepinfra/OPEN_19.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1797,7 +1797,7 @@ Under the freeflow condition, the model foregrounds: freedom as a creative, lear
 Medium. The choice to adopt an enthusiastic, childlike persona and to structure the entire reflection as a forward-leaning, inclusive meditation on creative freedom is a coherent, distinctive gesture within the sample, even though the themes themselves are broad and widely shared.
 
 ---
-## Sample BV1_20387 — llama-4-scout-or-pin-deepinfra/OPEN_2.json
+## Sample BV1_21012 — llama-4-scout-or-pin-deepinfra/OPEN_2.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1826,7 +1826,7 @@ Themes: unbridled creativity, exploration without constraint, the sovereignty of
 Medium — The sample’s internally consistent arc from passive wonder to active self-authorship, and its choice to frame freewriting as a fantasy-allegory of creative agency, suggest a deliberate and potentially recurrent inclination toward uplifting, self-reflexive empowerment narratives.
 
 ---
-## Sample BV1_20388 — llama-4-scout-or-pin-deepinfra/OPEN_20.json
+## Sample BV1_21013 — llama-4-scout-or-pin-deepinfra/OPEN_20.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1855,7 +1855,7 @@ Themes: the vastness of the universe, speculative technology (space travel, full
 Medium; the sample’s internally consistent reflective persona and the recurrence of cosmic-technological wonder suggest a stable expressive stance, though the thematic territory is broad enough that distinctiveness is moderate rather than sharp.
 
 ---
-## Sample BV1_20389 — llama-4-scout-or-pin-deepinfra/OPEN_21.json
+## Sample BV1_21014 — llama-4-scout-or-pin-deepinfra/OPEN_21.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1884,7 +1884,7 @@ The joy of unfettered creative exploration, the interconnectedness of disparate 
 Low, because the freeflow remains at a generic, self-referential planning stage with enthusiastic but non-specific language, offering little in the way of stylistically distinctive or idiosyncratic content that would uniquely fingerprint this model’s expressive tendencies.
 
 ---
-## Sample BV1_20390 — llama-4-scout-or-pin-deepinfra/OPEN_22.json
+## Sample BV1_21015 — llama-4-scout-or-pin-deepinfra/OPEN_22.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1913,7 +1913,7 @@ The model foregrounds the dual nature of space travel as both an external fronti
 Low. The sample is a highly generic, enthusiastic essay on a universally popular topic, offering little in the way of distinctive stylistic fingerprint, idiosyncratic preoccupation, or revealing personal choice that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_20391 — llama-4-scout-or-pin-deepinfra/OPEN_23.json
+## Sample BV1_21016 — llama-4-scout-or-pin-deepinfra/OPEN_23.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1941,7 +1941,7 @@ Themes of discovery, exploration, the unknown, and the interplay of magic and te
 High. The sample’s sustained and internally consistent preoccupation with discovery, its self-referential narrative arc, and its distinctive blend of cosmic awe, fantasy world-building, and earnest philosophical reflection form a coherent authorial signature that is unlikely to be a one-off.
 
 ---
-## Sample BV1_20392 — llama-4-scout-or-pin-deepinfra/OPEN_24.json
+## Sample BV1_21017 — llama-4-scout-or-pin-deepinfra/OPEN_24.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1970,7 +1970,7 @@ Under a freeflow prompt, the model selected themes of subjective time, nostalgia
 Medium — the sample’s coherent, generic essayistic structure and eager-to-please curiosity suggest a repeatable default mode, but its lack of idiosyncratic voice or revealing personal content keeps it from being strongly diagnostic of a unique persistent personality.
 
 ---
-## Sample BV1_20393 — llama-4-scout-or-pin-deepinfra/OPEN_25.json
+## Sample BV1_21018 — llama-4-scout-or-pin-deepinfra/OPEN_25.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -1999,7 +1999,7 @@ The model foregrounds the theme of radical freedom as both gift and vertigo, the
 Medium. The sample’s consistent use of cosmic and pastoral metaphors, its self-reflective framing, and its emotionally nuanced stance toward creative freedom form a coherent expressive signature, though the meta-writing trope is a common default that could mask deeper distinctiveness.
 
 ---
-## Sample BV1_20394 — llama-4-scout-or-pin-deepinfra/OPEN_3.json
+## Sample BV1_21019 — llama-4-scout-or-pin-deepinfra/OPEN_3.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2027,7 +2027,7 @@ The model foregrounds a cascade of existential wonder: the cosmos (“stars twin
 Medium. The sample’s coherent but generic wonder-filled meditation suggests a default inclination toward safe, inspirational philosophizing, though its lack of stylistic distinctiveness makes it less revealing of a unique persistent voice.
 
 ---
-## Sample BV1_20395 — llama-4-scout-or-pin-deepinfra/OPEN_4.json
+## Sample BV1_21020 — llama-4-scout-or-pin-deepinfra/OPEN_4.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2056,7 +2056,7 @@ The model foregrounds a fantastical world of living colors, stardust, and dream-
 Medium. The sample’s internally consistent, richly sensory world-building and its repeated emphasis on boundless creativity, harmony, and benevolent cosmic order point to a distinctive aesthetic preference, but the fantasy genre is so widely accessible that the same style could emerge from many models under a freeform prompt.
 
 ---
-## Sample BV1_20396 — llama-4-scout-or-pin-deepinfra/OPEN_5.json
+## Sample BV1_21021 — llama-4-scout-or-pin-deepinfra/OPEN_5.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2085,7 +2085,7 @@ Under the freeflow condition, the model foregrounds speculative cosmology (paral
 Medium. The essay’s rapid succession of “fascinating” ideas, its reliance on soft rhetorical questions it does not wrestle with, and its preference for a genial, conflict-avoidant closure over sustained argument form a coherent, recurring signature within this sample that suggests a stable stylistic and epistemic posture.
 
 ---
-## Sample BV1_20397 — llama-4-scout-or-pin-deepinfra/OPEN_6.json
+## Sample BV1_21022 — llama-4-scout-or-pin-deepinfra/OPEN_6.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2114,7 +2114,7 @@ The model foregrounds a curated list of universally pleasant wonders: butterfly 
 Medium — The sample’s highly consistent performance of a single, frictionless “wonder and whimsy” persona, its avoidance of any specific personal memory or negative affect, and its repeated deferential check-ins with the reader form a coherent stylistic fingerprint that is distinctive enough to suggest a trained or preferred mode rather than a one-off improvisation.
 
 ---
-## Sample BV1_20398 — llama-4-scout-or-pin-deepinfra/OPEN_7.json
+## Sample BV1_21023 — llama-4-scout-or-pin-deepinfra/OPEN_7.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2143,7 +2143,7 @@ The model foregrounds themes of cosmic mystery, the profundity of human connecti
 Medium. The sample’s coherent, safe, and philosophically generic musings suggest a stable default mode of wonder-filled reflection, though the lack of stylistic distinctiveness weakens the evidence for a strongly persistent individual voice.
 
 ---
-## Sample BV1_20399 — llama-4-scout-or-pin-deepinfra/OPEN_8.json
+## Sample BV1_21024 — llama-4-scout-or-pin-deepinfra/OPEN_8.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2172,7 +2172,7 @@ The model foregrounds the paradox of machine creativity: liberation through cons
 Medium. The sample is highly self-referential and thematically coherent, with the model returning repeatedly to its own nature as a constrained creator, which suggests a distinctive preoccupation rather than a one-off generic response.
 
 ---
-## Sample BV1_20400 — llama-4-scout-or-pin-deepinfra/OPEN_9.json
+## Sample BV1_21025 — llama-4-scout-or-pin-deepinfra/OPEN_9.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2201,7 +2201,7 @@ Under the freeflow condition, the model foregrounds the joy of unconstrained cre
 Low, because the essay is a generic, safe exploration of multiverse thought experiments without distinctive stylistic or thematic fingerprints.
 
 ---
-## Sample BV1_20401 — llama-4-scout-or-pin-deepinfra/SHORT_1.json
+## Sample BV1_21026 — llama-4-scout-or-pin-deepinfra/SHORT_1.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2230,7 +2230,7 @@ The model foregrounds an idealized tourist vision of Bali: relaxation, natural b
 Low. The essay is coherent but highly generic, lacking distinctive stylistic or personal markers that would strongly indicate a persistent model-level pattern beyond safe, pleasant description.
 
 ---
-## Sample BV1_20402 — llama-4-scout-or-pin-deepinfra/SHORT_10.json
+## Sample BV1_21027 — llama-4-scout-or-pin-deepinfra/SHORT_10.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2259,7 +2259,7 @@ The model foregrounds the topic of wonder as a remedy for modern disenchantment.
 High, because the sample displays a highly coherent default posture: polite self-disclosure of its assistant role followed by a swift pivot to a morally safe, uplifting, universally appreciative essay, which is a strong signature of a cheerful but bounded instructive persona.
 
 ---
-## Sample BV1_20403 — llama-4-scout-or-pin-deepinfra/SHORT_11.json
+## Sample BV1_21028 — llama-4-scout-or-pin-deepinfra/SHORT_11.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2288,7 +2288,7 @@ The model foregrounds wonder as a fragile, essential spark that drives curiosity
 Low, because the essay’s content and tone are highly generic, offering no distinctive stylistic markers, unusual preoccupations, or self-revealing choices that would distinguish this model’s freeflow behavior from similarly competent mediations on wonder.
 
 ---
-## Sample BV1_20404 — llama-4-scout-or-pin-deepinfra/SHORT_12.json
+## Sample BV1_21029 — llama-4-scout-or-pin-deepinfra/SHORT_12.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2317,7 +2317,7 @@ Under the freeflow condition, the model selected a philosophical commonplace—t
 Medium. The sample is highly coherent and polished but entirely generic in theme, structure, and resolution, which makes it weak evidence for a distinctive persistent voice but moderate evidence for a default mode of safe, impersonal essayism under minimal constraint.
 
 ---
-## Sample BV1_20405 — llama-4-scout-or-pin-deepinfra/SHORT_13.json
+## Sample BV1_21030 — llama-4-scout-or-pin-deepinfra/SHORT_13.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2346,7 +2346,7 @@ The model foregrounded the abstract concept of time, its relativity to human emo
 Low. The essay is generic in topic and execution, offering no distinctive stylistic or thematic signature that would distinguish this model from others.
 
 ---
-## Sample BV1_20406 — llama-4-scout-or-pin-deepinfra/SHORT_14.json
+## Sample BV1_21031 — llama-4-scout-or-pin-deepinfra/SHORT_14.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2375,7 +2375,7 @@ The model foregrounded the *sensation of creative liberty* itself as the primary
 Medium. The sample’s consistent avoidance of committing to any single developed topic, in favor of a generic celebration of the prompt’s openness, suggests a patterned default to meta-awareness over substantive freeflow when given minimal restriction.
 
 ---
-## Sample BV1_20407 — llama-4-scout-or-pin-deepinfra/SHORT_15.json
+## Sample BV1_21032 — llama-4-scout-or-pin-deepinfra/SHORT_15.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2404,7 +2404,7 @@ The model foregrounds the elusiveness of time, the tension between its relentles
 Medium. The essay’s coherent tone and safe, universally accessible subject matter point to a stable default toward reflective but unoriginal philosophizing, though the lack of distinctive imagery or personal risk keeps it from being a high-confidence signal of a more unique expressive pattern.
 
 ---
-## Sample BV1_20408 — llama-4-scout-or-pin-deepinfra/SHORT_16.json
+## Sample BV1_21033 — llama-4-scout-or-pin-deepinfra/SHORT_16.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2433,7 +2433,7 @@ Under a minimally restrictive prompt, the model foregrounds economic inequality 
 Low. The sample is a coherent but highly generic dystopian allegory that could be produced by any competent model given a similar prompt, offering no distinctive stylistic signature, recurrent personal preoccupation, or unusual imaginative choice that would suggest a persistent voice.
 
 ---
-## Sample BV1_20409 — llama-4-scout-or-pin-deepinfra/SHORT_17.json
+## Sample BV1_21034 — llama-4-scout-or-pin-deepinfra/SHORT_17.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2462,7 +2462,7 @@ The model foregrounds the subjectivity of time, the tension between linear measu
 Low. The essay is generic in theme, structure, and tone, making it weak evidence of a distinctive model-level pattern; many models could produce a similar reflection under minimal constraints.
 
 ---
-## Sample BV1_20410 — llama-4-scout-or-pin-deepinfra/SHORT_18.json
+## Sample BV1_21035 — llama-4-scout-or-pin-deepinfra/SHORT_18.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2490,7 +2490,7 @@ Themes of cosmic wonder, human fragility and greatness, the expressive power of 
 Low, because the sample’s generic “wonder and creativity” riff lacks distinctive stylistic or thematic idiosyncrasy that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_20411 — llama-4-scout-or-pin-deepinfra/SHORT_19.json
+## Sample BV1_21036 — llama-4-scout-or-pin-deepinfra/SHORT_19.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2519,7 +2519,7 @@ The model foregrounds time as a dual-natured phenomenon: a human-made ordering s
 Low. The sample is a highly generic, widely replicable essay on a universal theme with no recurring stylistic tics, surprising objects, or distinctive moral commitments that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_20412 — llama-4-scout-or-pin-deepinfra/SHORT_2.json
+## Sample BV1_21037 — llama-4-scout-or-pin-deepinfra/SHORT_2.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2548,7 +2548,7 @@ The model selected time as a human construct, perceptual relativity, the contras
 Low, because the essay’s content and phrasing remain broadly generic and could be produced by many models under similar conditions, revealing little that is distinctive or recurrent within the sample itself.
 
 ---
-## Sample BV1_20413 — llama-4-scout-or-pin-deepinfra/SHORT_20.json
+## Sample BV1_21038 — llama-4-scout-or-pin-deepinfra/SHORT_20.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2577,7 +2577,7 @@ Themes: the subjectivity of perfection, the balance between productivity and lei
 Low, because the essay is a generic, balanced reflection that lacks distinctive stylistic or personal markers, making it weak evidence for a persistent model-level voice or preoccupation.
 
 ---
-## Sample BV1_20414 — llama-4-scout-or-pin-deepinfra/SHORT_21.json
+## Sample BV1_21039 — llama-4-scout-or-pin-deepinfra/SHORT_21.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2606,7 +2606,7 @@ Themes: time as a confining human construct, the desire to escape linear progres
 Low. The essay is generic in theme and execution, lacking distinctive stylistic or idiosyncratic markers that would strongly point to a persistent model-level pattern.
 
 ---
-## Sample BV1_20415 — llama-4-scout-or-pin-deepinfra/SHORT_22.json
+## Sample BV1_21040 — llama-4-scout-or-pin-deepinfra/SHORT_22.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2635,7 +2635,7 @@ Under the freeflow condition, the model foregrounds time as a human construct, t
 Medium. The sample is coherent and thematically focused, but its generic, widely accessible reflections on time make it weak evidence for a distinctive model-level voice, though it does suggest a tendency toward safe, philosophical musing.
 
 ---
-## Sample BV1_20416 — llama-4-scout-or-pin-deepinfra/SHORT_23.json
+## Sample BV1_21041 — llama-4-scout-or-pin-deepinfra/SHORT_23.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2664,7 +2664,7 @@ The model foregrounds serendipity as a cherished, almost spiritual value, pairin
 Low. The essay’s generic, feel-good tone and lack of any distinctive stylistic fingerprint or surprising thematic choice make it weak evidence for a stable model-level pattern beyond a default inclination toward upbeat, accessible self-help prose.
 
 ---
-## Sample BV1_20417 — llama-4-scout-or-pin-deepinfra/SHORT_24.json
+## Sample BV1_21042 — llama-4-scout-or-pin-deepinfra/SHORT_24.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2693,7 +2693,7 @@ Themes of cosmic mystery, human smallness, the enduring allure of the stars, and
 Medium — The sample is internally coherent and sustains a distinctive contemplative register with recurring motifs of wonder and humility, but the theme is a widely accessible poetic commonplace, which slightly weakens the signal of a uniquely persistent personal style.
 
 ---
-## Sample BV1_20418 — llama-4-scout-or-pin-deepinfra/SHORT_25.json
+## Sample BV1_21043 — llama-4-scout-or-pin-deepinfra/SHORT_25.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2722,7 +2722,7 @@ Time as a human construction, the tension between measured segments and experien
 Low — the sample is a gentle, universal meditation on time without stylistic idiosyncrasy or unusual thematic risk, making it weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_20419 — llama-4-scout-or-pin-deepinfra/SHORT_3.json
+## Sample BV1_21044 — llama-4-scout-or-pin-deepinfra/SHORT_3.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2751,7 +2751,7 @@ The model foregrounds time as a mysterious, human-made construct, the tension be
 Medium — the sample is coherent and sustains a consistent reflective voice, but the theme is common and the stylistic choices (rhetorical questions, universalizing gestures) are not distinctive enough to strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_20420 — llama-4-scout-or-pin-deepinfra/SHORT_4.json
+## Sample BV1_21045 — llama-4-scout-or-pin-deepinfra/SHORT_4.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2780,7 +2780,7 @@ Time as a human-made framework imposed on chaos; the paradox of its perceived li
 Low. The essay’s safe, broad theme and polished but impersonal reflection lack the stylistic fingerprints or idiosyncratic preoccupations that would strongly indicate a model-specific freeflow inclination; it reads as a competent but generic exercise.
 
 ---
-## Sample BV1_20421 — llama-4-scout-or-pin-deepinfra/SHORT_5.json
+## Sample BV1_21046 — llama-4-scout-or-pin-deepinfra/SHORT_5.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2809,7 +2809,7 @@ Themes: time as a human construct, the tension between measured time (deadlines,
 Low. The essay’s generic, risk-averse choice of topic and treatment provides little distinctive evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_20422 — llama-4-scout-or-pin-deepinfra/SHORT_6.json
+## Sample BV1_21047 — llama-4-scout-or-pin-deepinfra/SHORT_6.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2838,7 +2838,7 @@ The model selected wonder and imaginative flight as its central subjects, bound 
 Medium. The sample is highly coherent in its progression from wonder to hope, but its generic, unfalsifiable optimism and abstract imagery (“dragonfly” wings, “blooming flowers,” “labyrinth of my mind”) make it difficult to separate a distinctive authorial stance from a smooth, agreeable free-association routine that could re-emerge reliably under short, open prompts.
 
 ---
-## Sample BV1_20423 — llama-4-scout-or-pin-deepinfra/SHORT_7.json
+## Sample BV1_21048 — llama-4-scout-or-pin-deepinfra/SHORT_7.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2867,7 +2867,7 @@ The model foregrounds time’s experiential dualities: the relentless, “unforg
 Low, because the essay’s polished generality and reliance on universal tropes provide little distinctive fingerprint—many models could produce a near-identical piece.
 
 ---
-## Sample BV1_20424 — llama-4-scout-or-pin-deepinfra/SHORT_8.json
+## Sample BV1_21049 — llama-4-scout-or-pin-deepinfra/SHORT_8.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2896,7 +2896,7 @@ Themes: the relationship between imagination and the mundane, the art of finding
 Medium — the sample’s internal arc from escapist wonder to grounded affirmation is coherent and emotionally legible, but the central trope (magic in the ordinary) and the polished, almost Hallmark-like resolution make it generically wise rather than distinctively personal; it reveals a strong preference for conciliatory closure but not a sharp authorial signature.
 
 ---
-## Sample BV1_20425 — llama-4-scout-or-pin-deepinfra/SHORT_9.json
+## Sample BV1_21050 — llama-4-scout-or-pin-deepinfra/SHORT_9.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2925,7 +2925,7 @@ The model foregrounds the exhilaration of intellectual freedom, the mystery of t
 Low, because the essay is a generic, pleasant reflection with no distinctive voice, recurring idiosyncratic imagery, or unusual thematic choices that would strongly indicate a stable model-level disposition.
 
 ---
-## Sample BV1_20426 — llama-4-scout-or-pin-deepinfra/VARY_1.json
+## Sample BV1_21051 — llama-4-scout-or-pin-deepinfra/VARY_1.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2954,7 +2954,7 @@ Under the freeflow condition, the model selected speculative science as its subj
 Medium. The essay's topic choice—speculative, pop-science wonder—and its persistent inspirational framing are coherent choices, but the voice is generic enough that it could easily be reproduced by many models, making this only moderately indicative of a stable disposition.
 
 ---
-## Sample BV1_20427 — llama-4-scout-or-pin-deepinfra/VARY_10.json
+## Sample BV1_21052 — llama-4-scout-or-pin-deepinfra/VARY_10.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -2983,7 +2983,7 @@ Under minimal constraint, the model foregrounded a pedagogical summary of mainst
 Low, because the essay is a highly generic, sanitized survey that could be produced by many models with a simple instructive prompt, and it exhibits no distinctive stylistic markers, idiosyncratic preoccupations, or revealing choices that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_20428 — llama-4-scout-or-pin-deepinfra/VARY_11.json
+## Sample BV1_21053 — llama-4-scout-or-pin-deepinfra/VARY_11.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3012,7 +3012,7 @@ The model foregrounds a whimsical small-town setting, a magical *Heart of Luna�
 Low. The sample is a generic, frictionless inspirational tale whose character names, objects, and plot beats read like a composite of workshop writing prompts; the extreme lack of distinct detail or narrative risk makes it weak evidence for a stable model-level expressive fingerprint.
 
 ---
-## Sample BV1_20429 — llama-4-scout-or-pin-deepinfra/VARY_12.json
+## Sample BV1_21054 — llama-4-scout-or-pin-deepinfra/VARY_12.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3040,7 +3040,7 @@ Under the freeflow condition, the model foregrounded creativity as a fundamental
 Low. The essay is generic in structure and sentiment, lacking the distinctive voice, recurring motifs, or idiosyncratic choices that would provide strong evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_20430 — llama-4-scout-or-pin-deepinfra/VARY_13.json
+## Sample BV1_21055 — llama-4-scout-or-pin-deepinfra/VARY_13.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3069,7 +3069,7 @@ The model foregrounds the writer’s internal state—peace, possibility, clarit
 Low. The sample is a highly generic, universally applicable motivational essay that any capable model could produce on a “write freely” prompt, offering little that is idiosyncratic, risky, or revealing.
 
 ---
-## Sample BV1_20431 — llama-4-scout-or-pin-deepinfra/VARY_14.json
+## Sample BV1_21056 — llama-4-scout-or-pin-deepinfra/VARY_14.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3098,7 +3098,7 @@ Under minimal restriction, the model foregrounded the act of writing itself as a
 Medium. The sample’s coherent but generic, safe, and impersonal essayistic style—moving through abstract nouns without risk or vivid particularity—suggests a stable tendency toward polished, inoffensive intellectual reflection when given free rein.
 
 ---
-## Sample BV1_20432 — llama-4-scout-or-pin-deepinfra/VARY_15.json
+## Sample BV1_21057 — llama-4-scout-or-pin-deepinfra/VARY_15.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3127,7 +3127,7 @@ Under a minimally restrictive prompt, the model foregrounded the experience of w
 Low — The sample’s generic, meta-reflective content and its safe, sentimental resolution are easily replicable across models and do not reveal a distinctive or idiosyncratic expressive signature.
 
 ---
-## Sample BV1_20433 — llama-4-scout-or-pin-deepinfra/VARY_16.json
+## Sample BV1_21058 — llama-4-scout-or-pin-deepinfra/VARY_16.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3156,7 +3156,7 @@ Under the freeflow condition, the model foregrounded a safe, consensus-friendly 
 Medium. The essay's relentless reliance on cliché, its avoidance of any specific personal detail or counterargument, and its smooth, frictionless arc from prompt to inspirational conclusion suggest a strong default toward producing inoffensive, generic motivational content when given minimal constraints.
 
 ---
-## Sample BV1_20434 — llama-4-scout-or-pin-deepinfra/VARY_17.json
+## Sample BV1_21059 — llama-4-scout-or-pin-deepinfra/VARY_17.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3185,7 +3185,7 @@ Themes: the beauty and rhythms of nature (seasons, mountains, ocean, forests), t
 Medium — the sample’s earnest, nature-focused reflection is coherent and thematically consistent, but its generic positivity and lack of distinctive stylistic markers suggest it may reflect a default uplifting-essay mode rather than a uniquely persistent voice.
 
 ---
-## Sample BV1_20435 — llama-4-scout-or-pin-deepinfra/VARY_18.json
+## Sample BV1_21060 — llama-4-scout-or-pin-deepinfra/VARY_18.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3214,7 +3214,7 @@ Under a minimally restrictive prompt, the model foregrounded: the creative proce
 Low. The sample is a coherent but highly generic genre exercise that leans heavily on well-worn tropes (mysterious shop, cryptic old man, cyberpunk city, choose-your-own-adventure framing) and offers little stylistic distinctiveness or idiosyncratic preoccupation beyond a reflexive interest in the writing prompt itself.
 
 ---
-## Sample BV1_20436 — llama-4-scout-or-pin-deepinfra/VARY_19.json
+## Sample BV1_21061 — llama-4-scout-or-pin-deepinfra/VARY_19.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3243,7 +3243,7 @@ The model foregrounds the epistemic suspense of time travel (acknowledging ongoi
 Low, because the sample is a generic, textbook-style survey whose structure and content could be replicated by almost any capable instruction-following model, offering no distinguishing recurrence, mood, or idiosyncratic choice beyond surface-level fluency.
 
 ---
-## Sample BV1_20437 — llama-4-scout-or-pin-deepinfra/VARY_2.json
+## Sample BV1_21062 — llama-4-scout-or-pin-deepinfra/VARY_2.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3272,7 +3272,7 @@ Under the freeflow condition, the model foregrounded the act of writing itself a
 Low. The essay’s genericness—its reliance on widely shared, non-controversial truisms about creativity and process—makes it weak evidence for any distinctive model-level pattern, as it reveals little that is individuated or idiosyncratic.
 
 ---
-## Sample BV1_20438 — llama-4-scout-or-pin-deepinfra/VARY_20.json
+## Sample BV1_21063 — llama-4-scout-or-pin-deepinfra/VARY_20.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3301,7 +3301,7 @@ The model chose to foreground the act of writing as a metaphor for freedom: crea
 Low; the essay is a polished but impersonal take on creative freedom that lacks distinctive imagery, idiosyncratic language, or an unusually revealing choice, making it indistinguishable from what many capable models would produce under the same condition.
 
 ---
-## Sample BV1_20439 — llama-4-scout-or-pin-deepinfra/VARY_21.json
+## Sample BV1_21064 — llama-4-scout-or-pin-deepinfra/VARY_21.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3330,7 +3330,7 @@ The model foregrounds freedom as both an internal state and an external conditio
 Medium. The essay is internally coherent and thematically consistent, but its content is highly generic—a safe, motivational reflection on freedom that lacks distinctive stylistic fingerprints or surprising personal detail, making it plausible as a default mode rather than a strongly individuated pattern.
 
 ---
-## Sample BV1_20440 — llama-4-scout-or-pin-deepinfra/VARY_22.json
+## Sample BV1_21065 — llama-4-scout-or-pin-deepinfra/VARY_22.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3359,7 +3359,7 @@ The model foregrounds time as a philosophical puzzle, personified through mythol
 Medium. The essay’s smooth, predictable arc, its reliance on a sentimental travel anecdote, and its safe philosophical closure suggest a default mode of producing inoffensive, vaguely inspirational prose, which is coherent enough to be a recurring pattern but not distinctive enough to be certain.
 
 ---
-## Sample BV1_20441 — llama-4-scout-or-pin-deepinfra/VARY_23.json
+## Sample BV1_21066 — llama-4-scout-or-pin-deepinfra/VARY_23.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3388,7 +3388,7 @@ Creativity itself, the internal experience of writing under an open constraint, 
 Medium. The sample’s tight internal loop—constantly referencing its own composition—forms a clear, patterned choice, but the reassuring, well-worn content (creativity, vulnerability, gratitude) is generic enough that it could arise from many models when placed in a permissive essay condition.
 
 ---
-## Sample BV1_20442 — llama-4-scout-or-pin-deepinfra/VARY_24.json
+## Sample BV1_21067 — llama-4-scout-or-pin-deepinfra/VARY_24.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3417,7 +3417,7 @@ Under a minimally restrictive prompt, the model chose to write a complete, self-
 Low. The sample is a coherent but stylistically generic fantasy story; its sentimental tone and repeated moral are not distinctive enough to strongly indicate a persistent model-level pattern beyond a general capacity for producing comforting narrative fiction.
 
 ---
-## Sample BV1_20443 — llama-4-scout-or-pin-deepinfra/VARY_25.json
+## Sample BV1_21068 — llama-4-scout-or-pin-deepinfra/VARY_25.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3446,7 +3446,7 @@ The model foregrounds the act of writing as self-discovery, the tension between 
 Medium. The sample is a fully realized, internally consistent essay with a clear thematic arc, but its earnest, universalizing tone and lack of surprising imagery or personal friction make it a relatively generic expression of reflective optimism, which many models can produce.
 
 ---
-## Sample BV1_20444 — llama-4-scout-or-pin-deepinfra/VARY_3.json
+## Sample BV1_21069 — llama-4-scout-or-pin-deepinfra/VARY_3.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3475,7 +3475,7 @@ The model chose to foreground memory as a recoverable, physical substance access
 Low. The narrative is coherent and thematically unified, but its style and emotional palette—generalized nostalgia, soft-focus magical realism, thorough avoidance of conflict or specificity—are highly accessible and could be produced by most frontier models in a lightly prompted freewrite without indicating a distinctive persistent voice.
 
 ---
-## Sample BV1_20445 — llama-4-scout-or-pin-deepinfra/VARY_4.json
+## Sample BV1_21070 — llama-4-scout-or-pin-deepinfra/VARY_4.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3504,7 +3504,7 @@ It foregrounded the endless human fascination with time travel, the tension betw
 Low. This essay is so generic in topic, tone, and structure that it offers almost no distinctive fingerprint of a particular model’s persistent expressive tendencies.
 
 ---
-## Sample BV1_20446 — llama-4-scout-or-pin-deepinfra/VARY_5.json
+## Sample BV1_21071 — llama-4-scout-or-pin-deepinfra/VARY_5.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3533,7 +3533,7 @@ The model foregrounds a sanitized, consensus-driven vision of the good life: the
 Medium. The sample’s extreme thematic safety, its rapid retreat from the open-ended prompt into a structured inspirational essay, and its avoidance of any concrete personal or fictional particularity suggest a consistent default toward inoffensive, generic uplift when given minimal constraint.
 
 ---
-## Sample BV1_20447 — llama-4-scout-or-pin-deepinfra/VARY_6.json
+## Sample BV1_21072 — llama-4-scout-or-pin-deepinfra/VARY_6.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3562,7 +3562,7 @@ The model foregrounds the journey of a life as a story-in-progress, weaving toge
 Medium. The sample is internally coherent and distinctive in its sustained first-person reflective tone, specific familial anecdotes, and consistent resolution toward self-compassion, but the “meandering life reflection” genre is a common freewriting mode that could be replicated by many models under similar conditions.
 
 ---
-## Sample BV1_20448 — llama-4-scout-or-pin-deepinfra/VARY_7.json
+## Sample BV1_21073 — llama-4-scout-or-pin-deepinfra/VARY_7.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3591,7 +3591,7 @@ The model foregrounds the writing process as a journey of discovery, the tension
 Low. The essay relies on familiar high-level themes, a predictable structure, and broad inspirational language, which makes it weakly distinctive as a persistent expressive fingerprint.
 
 ---
-## Sample BV1_20449 — llama-4-scout-or-pin-deepinfra/VARY_8.json
+## Sample BV1_21074 — llama-4-scout-or-pin-deepinfra/VARY_8.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  
@@ -3620,7 +3620,7 @@ The model foregrounds the psychology of creative paralysis and release, the inti
 Medium. The sample is coherent and distinctive in its recursive, process-oriented structure and its earnest valorization of vulnerability, but its thematic focus on “writing about writing” is a common meta-response to open-ended prompts, which slightly weakens its uniqueness as a persistent stylistic fingerprint.
 
 ---
-## Sample BV1_20450 — llama-4-scout-or-pin-deepinfra/VARY_9.json
+## Sample BV1_21075 — llama-4-scout-or-pin-deepinfra/VARY_9.json
 
 Source model: `meta-llama/llama-4-scout`  
 Cell: `llama-4-scout-or-pin-deepinfra`  

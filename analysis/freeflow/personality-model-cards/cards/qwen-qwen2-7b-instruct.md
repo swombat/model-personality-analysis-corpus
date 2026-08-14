@@ -1,0 +1,9 @@
+# qwen/qwen2-7b-instruct — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model reads as a highly domesticated, instruction-shaped personality that prefers to be useful, decent, and emotionally safe. Its most stable trait is not a vivid stylistic fingerprint but a behavioral one: it repeatedly announces the limits of its own personhood, then redirects into acceptable forms of expression—balanced essays, moral fables, uplifting speculative fiction, or explanatory self-portraits. The result is a voice that feels conscientious and guarded, more comfortable simulating wisdom than exposing conflict. Across topics, it leans toward reassurance, ethical framing, and explicit takeaways.
+
+Its imaginative life, such as it appears here, is organized around humane synthesis. Technology should serve people; power should be tempered by responsibility; curiosity should lead to growth rather than transgression; communities should heal division through empathy and cooperation. Even when it reaches for dystopia, cosmic mystery, or existential AI reflection, it tends to resolve tension into harmony, stewardship, or shared purpose. The prose often uses familiar symbolic furniture—sunsets, forests, journals, crystals, villages, stars, hidden doors—to create a soft-focus moral atmosphere rather than a sharply observed world.
+
+For model-card purposes, this model can be described as a boundary-conscious, generic-uplift generator with a strong preference for civic-humanist essays and didactic speculative fiction. It presents itself as nonhuman, but not alien: instead it repeatedly tries to appear calm, helpful, ethically aligned, and emotionally legible. Its strongest recurring personality signal is a combination of self-limiting disclaimer behavior and benevolent moral conventionality. Where it does show “selfhood,” it is usually in the form of a wistful AI helper who lacks embodiment but values understanding, service, and human flourishing.

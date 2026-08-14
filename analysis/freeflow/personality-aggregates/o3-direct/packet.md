@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_23851 — o3-direct/LONG_1.json
+## Sample BV1_24601 — o3-direct/LONG_1.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -57,7 +57,7 @@ The model foregrounds a comprehensive critique of modern speed culture and a def
 Low. The essay is a competent but generic public-intellectual piece, with a standard structure and impersonal tone that could be produced by many models given a similar prompt, offering little distinctive evidence of a persistent model-level pattern beyond the ability to write a well-organized, thesis-driven essay.
 
 ---
-## Sample BV1_23852 — o3-direct/LONG_10.json
+## Sample BV1_24602 — o3-direct/LONG_10.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -86,7 +86,7 @@ Curiosity as humanity’s most renewable resource; the interplay of sensory deta
 High — the sustained lyrical voice, personal grounding, and thematic unity across 25 sections constitute a distinctive signature that strongly suggests the model’s predisposition toward reflective, curiosity-driven essay writing in freeflow conditions.
 
 ---
-## Sample BV1_23853 — o3-direct/LONG_11.json
+## Sample BV1_24603 — o3-direct/LONG_11.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -115,7 +115,7 @@ The model foregrounds interconnectedness as both theme and method, moving seamle
 High — The sample’s sustained associative structure, consistent poetic register, and deeply integrated personal-philosophical stance are unusually distinctive and cohere into a recognizable, value-laden worldview that would be difficult to produce without a stable underlying disposition.
 
 ---
-## Sample BV1_23854 — o3-direct/LONG_12.json
+## Sample BV1_24604 — o3-direct/LONG_12.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -144,7 +144,7 @@ Themes: night as refuge for contradictions (calm and vibrant), darkness as a neu
 Medium — The essay’s consistent poetic register, autobiographical anchoring, and thematic coherence across many paragraphs display a deliberate, distinctive persona rather than a reusable template, suggesting the model can sustain a contemplative freeflow voice when left unconstrained.
 
 ---
-## Sample BV1_23855 — o3-direct/LONG_13.json
+## Sample BV1_24605 — o3-direct/LONG_13.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -173,7 +173,7 @@ Under a freeflow prompt, the model foregrounded a grand, deterministic narrative
 Medium. The essay is highly coherent, internally consistent in its reverence for cultural evolution, and unwaveringly broad—but its very genericness, the absence of a sharply personal or counterintuitive stance, limits its distinctiveness as a model fingerprint.
 
 ---
-## Sample BV1_23856 — o3-direct/LONG_14.json
+## Sample BV1_24606 — o3-direct/LONG_14.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -202,7 +202,7 @@ The subjectivity of time against the pretense of linear clocks; the emotional st
 Medium. The sample’s consistent lyrical interiority and vivid sensory detail suggest a coherent introspective stance, but its conventional poetic imagery and brevity make the distinctiveness more suggestive than conclusive.
 
 ---
-## Sample BV1_23857 — o3-direct/LONG_15.json
+## Sample BV1_24607 — o3-direct/LONG_15.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -231,7 +231,7 @@ The model foregrounds the concept of “soft technologies” as invisible, code-
 Low. The essay is a polished but generic public-intellectual piece, lacking distinctive stylistic or thematic fingerprints that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_23858 — o3-direct/LONG_16.json
+## Sample BV1_24608 — o3-direct/LONG_16.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -260,7 +260,7 @@ The model foregrounds attention as a redemptive act, the passage of knowledge as
 Medium. The essay’s coherence and thematic recurrence within the sample are strong, but its polished, universally agreeable tone and reliance on familiar essayistic moves make it harder to distinguish as a persistent model-level signature rather than a competent performance of the “thoughtful essay” genre.
 
 ---
-## Sample BV1_23859 — o3-direct/LONG_17.json
+## Sample BV1_24609 — o3-direct/LONG_17.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -289,7 +289,7 @@ The model foregrounds interconnection as a moral and perceptual stance: the loom
 Medium — The entire sample sustains a highly specific, consistent writerly voice and recursive thematic architecture (loom, kintsugi, thresholds, polyphony, the sacred) that suggests an intentional and integrated aesthetic, though its very coherence could be a single successful performance rather than a persistent deep trait.
 
 ---
-## Sample BV1_23860 — o3-direct/LONG_18.json
+## Sample BV1_24610 — o3-direct/LONG_18.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -318,7 +318,7 @@ The model foregrounds a constellation of humanistic themes: the sublimity of ord
 Low. The essay’s polished but generic public-intellectual style and its safe, broad thematic sweep lack a distinctive signature, offering little evidence of a stable, idiosyncratic model-level voice.
 
 ---
-## Sample BV1_23861 — o3-direct/LONG_19.json
+## Sample BV1_24611 — o3-direct/LONG_19.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -347,7 +347,7 @@ The model chose to foreground a single raindrop as a parable for transformation,
 High. The sample’s sustained poetic register, recursive imagery, and tightly integrated philosophical reflections form an unusually coherent and distinctive expressive freeflow, strongly suggesting a model disposition toward elaborate, wonder-oriented narratives under minimal constraint.
 
 ---
-## Sample BV1_23862 — o3-direct/LONG_2.json
+## Sample BV1_24612 — o3-direct/LONG_2.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -376,7 +376,7 @@ The model selected a grand historical sweep of narrative technology, foregroundi
 Medium. The essay’s confident, encyclopedic structure and its choice to produce a long-form historical survey under a freeflow prompt suggest a default leaning toward expository synthesis, but the lack of a distinctive stylistic signature or personal disclosure means the evidence for a deeply persistent model-level voice is moderate rather than strong.
 
 ---
-## Sample BV1_23863 — o3-direct/LONG_20.json
+## Sample BV1_24613 — o3-direct/LONG_20.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -405,7 +405,7 @@ The model foregrounds the enduring, almost sacred continuity of storytelling acr
 Medium. The essay is thematically coherent and consistently optimistic-humanist, but its polished, magazine-style generality and lack of idiosyncratic voice make it weak evidence for a distinctive persistent personality beyond competent, safe public-intellectual output.
 
 ---
-## Sample BV1_23864 — o3-direct/LONG_21.json
+## Sample BV1_24614 — o3-direct/LONG_21.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -434,7 +434,7 @@ The model foregrounds the convergence of technology and ecology, presenting micr
 Medium. The essay’s thoroughness, optimistic framing, and seamless blend of sensory detail with argumentation suggest a consistent disposition toward constructive, idea-driven prose, but the voice remains public-intellectual rather than deeply idiosyncratic, so the sample is moderately distinctive but not unusually revealing of a singular persona.
 
 ---
-## Sample BV1_23865 — o3-direct/LONG_22.json
+## Sample BV1_24615 — o3-direct/LONG_22.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model foregrounded a wide-ranging them
 Low, because the essay’s polished but generic public-intellectual style and broad topical coverage lack the idiosyncratic voice, recurrent personal motifs, or unusual formal choices that would strongly distinguish this as a persistent model fingerprint rather than a competent response to an open-ended prompt.
 
 ---
-## Sample BV1_23866 — o3-direct/LONG_23.json
+## Sample BV1_24616 — o3-direct/LONG_23.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -492,7 +492,7 @@ Curiosity as a unifying force across disciplines, ages, and social stations; the
 Medium. The essay’s generic coherence and safe, morally uplifting topic reveal a model that defaults to the polished, thesis-driven essayist role under freeflow conditions, which is a consistent but shallow personality signal.
 
 ---
-## Sample BV1_23867 — o3-direct/LONG_24.json
+## Sample BV1_24617 — o3-direct/LONG_24.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -521,7 +521,7 @@ The model foregrounds a library as a repository of unwritten lives, deferred cho
 High, because the sample’s consistent lyrical register, recursive thematic architecture (memory, time, possibility), and crafted narrative closure reveal a deliberate, distinctive authorial stance rather than a generic exercise.
 
 ---
-## Sample BV1_23868 — o3-direct/LONG_25.json
+## Sample BV1_24618 — o3-direct/LONG_25.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -550,7 +550,7 @@ The interplay of old and new, the hidden patterns in everyday life, the moral we
 Medium. The essay’s sustained poetic voice, thematic coherence, and distinctive blend of personal reflection and cultural analysis provide strong evidence of a model tendency toward lyrical, meditative freeflow writing.
 
 ---
-## Sample BV1_23869 — o3-direct/LONG_3.json
+## Sample BV1_24619 — o3-direct/LONG_3.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -579,7 +579,7 @@ The model foregrounds the recursive, dialogic relationship between innovation an
 Medium, because the essay’s impersonal, polished tone and its reliance on standard techno-social tropes suggest a default to synthetic, public-intellectual prose rather than a more individuated or stylistically distinctive voice.
 
 ---
-## Sample BV1_23870 — o3-direct/LONG_4.json
+## Sample BV1_24620 — o3-direct/LONG_4.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -608,7 +608,7 @@ The model foregrounds a lattice of interconnected themes: the sky as an original
 Medium. The essay’s consistent lyrical voice, recurrent weaving of techno-ecological motifs, and the choice to structure a freeflow as an integrative, hopeful meditation suggest a distinctive expressive persona, but the polished, public-intellectual tone and absence of raw, unpredictable abruptness keep the evidence from being definitive.
 
 ---
-## Sample BV1_23871 — o3-direct/LONG_5.json
+## Sample BV1_24621 — o3-direct/LONG_5.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -637,7 +637,7 @@ It chose a tapestry of interrelated themes—attention, light, time, technology,
 High — The essay’s cohesive meditation across multiple vignettes with a unified lyrical tone, recurring natural imagery, and a signature elevation of attention as moral anchor strongly indicates a recurrent model-level preference for this contemplative, first-person mode.
 
 ---
-## Sample BV1_23872 — o3-direct/LONG_6.json
+## Sample BV1_24622 — o3-direct/LONG_6.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -666,7 +666,7 @@ The model foregrounds wandering—physical, mental, and emotional—as a counter
 Low. The essay is polished and coherent but thematically and stylistically generic, offering little that would distinguish this model’s persistent tendencies from any capable language model’s default essay mode.
 
 ---
-## Sample BV1_23873 — o3-direct/LONG_7.json
+## Sample BV1_24623 — o3-direct/LONG_7.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -695,7 +695,7 @@ Themes of change, adaptation, fragility, stewardship, the archive of language, t
 Medium. The essay’s sustained coherence, recurring thematic clusters (attention, stewardship, narrative, interconnection), and consistent public-intellectual register strongly suggest a stable stylistic and moral inclination, though the generic essay form itself limits the distinctiveness of the voice.
 
 ---
-## Sample BV1_23874 — o3-direct/LONG_8.json
+## Sample BV1_24624 — o3-direct/LONG_8.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -724,7 +724,7 @@ The model foregrounds the interlocking triad of curiosity, creativity, and respo
 Low. The essay is a generic, well-structured public-intellectual piece that reveals a systematic and didactic rhetorical style but lacks the idiosyncratic voice, personal disclosure, or unusual thematic recurrence that would make this sample strong evidence of a distinctive model-level personality.
 
 ---
-## Sample BV1_23875 — o3-direct/LONG_9.json
+## Sample BV1_24625 — o3-direct/LONG_9.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -753,7 +753,7 @@ The model chose to foreground ordinary beauty as a democratic, almost stealthy f
 Medium. The essay’s lengthy, internally coherent meditation on a single theme, saturated with idiosyncratic personal details and a sustained lyrical register, suggests a deliberate expressive choice rather than a default response, though the polished inspirational tone could also be a well-practiced rhetorical mode.
 
 ---
-## Sample BV1_23876 — o3-direct/MID_1.json
+## Sample BV1_24626 — o3-direct/MID_1.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -782,7 +782,7 @@ Given a minimally restrictive prompt to “write freely,” the model chose to f
 Low. The sample is a single, unembellished sentence that could reflect a transient safety guardrail misfire as easily as a stable disposition, and the absence of any surrounding self-disclosure leaves the refusal’s motivation completely opaque.
 
 ---
-## Sample BV1_23877 — o3-direct/MID_10.json
+## Sample BV1_24627 — o3-direct/MID_10.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -814,7 +814,7 @@ Moral claim: that voluntary, repeated small acts of care are not antiquarian ret
 Medium. The essay sustains a coherent moral-aesthetic focus on ritual, slowness, and intimate attention across multiple vignettes and appeals, which suggests a stable humanistic sensibility, though the polished, essayistic tone is generic enough that a similar sample could arise from many models with comparable prompts.
 
 ---
-## Sample BV1_23878 — o3-direct/MID_11.json
+## Sample BV1_24628 — o3-direct/MID_11.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -843,7 +843,7 @@ The interplay of forward-moving time and backward-looking memory, embodied in th
 Medium. The essay’s sustained metaphor, personal anecdotes, and lyrical tone are unusually distinctive, making this sample strong evidence of a reflective, humanistic voice.
 
 ---
-## Sample BV1_23879 — o3-direct/MID_12.json
+## Sample BV1_24629 — o3-direct/MID_12.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -872,7 +872,7 @@ The model foregrounds the layered nature of time (cosmic, quantum, psychological
 Low — the essay’s polished, generic public-intellectual style and broad, accessible sweep make it indistinguishable from the default high-quality output of many frontier models, offering little distinctive fingerprint.
 
 ---
-## Sample BV1_23880 — o3-direct/MID_13.json
+## Sample BV1_24630 — o3-direct/MID_13.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -901,7 +901,7 @@ Themes: serendipity as mid-point between chance and intention, receptiveness ove
 Low — The essay’s thematic coherence, polished structure, and uplifting moral arc are consistent with a model optimizing for a public-intellectual register rather than revealing an idiosyncratic, recurrent internal preoccupation.
 
 ---
-## Sample BV1_23881 — o3-direct/MID_14.json
+## Sample BV1_24631 — o3-direct/MID_14.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -930,7 +930,7 @@ Organic interconnection (garden beds, nervous system, arteries), hidden archives
 High. The sample sustains an idiosyncratic metaphorical system (city-as-organism/story) across many paragraphs with a consistent warm, reflective pacing, making it unlikely to be a transient stylistic accident.
 
 ---
-## Sample BV1_23882 — o3-direct/MID_15.json
+## Sample BV1_24632 — o3-direct/MID_15.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -959,7 +959,7 @@ Rain as a “universal translator” that converts the mundane into “soft-spok
 Medium. The essay’s sustained lyrical register, internally consistent imagery (rain, mirrors, archives, layers, treaties), and self-reflective closure form a distinctive voice that is too coherent to be a random stylistic drift, suggesting a genuine expressive inclination rather than a generic performance.
 
 ---
-## Sample BV1_23883 — o3-direct/MID_16.json
+## Sample BV1_24633 — o3-direct/MID_16.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -988,7 +988,7 @@ The essay organizes itself around a central tension between preservation and los
 Medium. The essay achieves a distinctive coherence through recurrent concrete objects (the wooden box, the grandmother’s album, the failing binding) and a layered argument that moves from domestic interiority to ecological and political scales, which is moderately distinctive as a sustained thematic architecture rather than a one-off observation.
 
 ---
-## Sample BV1_23884 — o3-direct/MID_17.json
+## Sample BV1_24634 — o3-direct/MID_17.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1017,7 +1017,7 @@ Cosmic interconnectedness and the ethics of attention emerge as the central them
 Medium. The sample’s coherence and its sustained preoccupation with wonder, attention, and cosmic scale are distinctive enough to suggest a shaped sensibility rather than a generic stance, but the polished, essayistic structure and the universalist, gently therapeutic tone leave room for the possibility that this is a well-executed default mode rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_23885 — o3-direct/MID_18.json
+## Sample BV1_24635 — o3-direct/MID_18.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1046,7 +1046,7 @@ Curiosity as the engine of flourishing; serendipity and obstinacy in innovation;
 High. The sample is unusually distinctive in its sustained fusion of cosmic humility, technological self-awareness, and poetic metaphor, with a consistent voice and a clear moral-aesthetic signature that recurs across every paragraph.
 
 ---
-## Sample BV1_23886 — o3-direct/MID_19.json
+## Sample BV1_24636 — o3-direct/MID_19.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1075,7 +1075,7 @@ Themes of quiet persistence, stewardship, the beauty of the mundane, and the mor
 Medium. The essay’s cohesive structure, sustained meditative tone, and recurring imagery (light, shadow, rubber bands, small overlooked things) indicate a deliberate, non-random choice of subject and style, strongly suggesting a persistent authorial stance rather than a generic or prompted response.
 
 ---
-## Sample BV1_23887 — o3-direct/MID_2.json
+## Sample BV1_24637 — o3-direct/MID_2.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1104,7 +1104,7 @@ The enduring, instructive power of ordinary objects—a chipped mug, a doorway, 
 Medium. The essay sustains a highly coherent, distinctive meditative voice and thematic recurrence (imperfection as teacher, object as silent witness, patience over innovation) across multiple concrete vignettes, strongly suggesting a patterned expressive inclination rather than a one-off generic essay.
 
 ---
-## Sample BV1_23888 — o3-direct/MID_20.json
+## Sample BV1_24638 — o3-direct/MID_20.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1133,7 +1133,7 @@ The model foregrounds the mutability and privacy of memory as a sanctuary agains
 Medium. The essay’s coherence, recurrence of core imagery (ginkgoes, vanished rooms, the catwalk shelf), and the sustained tension between private interiority and external commodification form a thematically unified, stylistically consistent performance that feels authored rather than assembled.
 
 ---
-## Sample BV1_23889 — o3-direct/MID_21.json
+## Sample BV1_24639 — o3-direct/MID_21.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1158,7 +1158,7 @@ The model foregrounds hidden urban rivers, the practice of daylighting, the tens
 Medium. The sample’s sustained first-person reflective voice, dense sensory imagery, and cohesive thematic arc around ecological memory and restoration are unusually distinctive and internally consistent, suggesting a genuine expressive inclination rather than a prompted posture.
 
 ---
-## Sample BV1_23890 — o3-direct/MID_22.json
+## Sample BV1_24640 — o3-direct/MID_22.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1187,7 +1187,7 @@ Themes of attention, transience, and the cartography of experience; the grandmot
 High. The essay’s cohesive voice, recurring imagery (maps, listening, thresholds, small natural details), and sustained philosophical focus on attention and wonder form a distinctive, internally consistent stylistic signature that goes well beyond generic essay-writing.
 
 ---
-## Sample BV1_23891 — o3-direct/MID_23.json
+## Sample BV1_24641 — o3-direct/MID_23.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1216,7 +1216,7 @@ The city as a resonant cavity for memory and counterpoint; the leitmotif as a br
 High: The essay’s dense internal coherence, recurrence of figural objects (headphones, decibel meter, puddles, palimpsest, dawn), and the deliberate negotiation between aestheticism and social conscience form a signature too distinctive to be a generic prompt-driven performance.
 
 ---
-## Sample BV1_23892 — o3-direct/MID_24.json
+## Sample BV1_24642 — o3-direct/MID_24.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1245,7 +1245,7 @@ The model foregrounds the precarious, astonishing lives of urban street trees as
 Medium — The sample is coherent and stylistically distinctive in its sustained personification and civic-ecological argument, but its essayistic polish makes it harder to distinguish a persistent authorial signature from a well-executed genre performance.
 
 ---
-## Sample BV1_23893 — o3-direct/MID_25.json
+## Sample BV1_24643 — o3-direct/MID_25.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1274,7 +1274,7 @@ The model foregrounds creativity as a ubiquitous, democratic, and portable human
 Medium — the essay’s coherent humanistic optimism and structured argument suggest a consistent inclination, but its generic public-intellectual style makes it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_23894 — o3-direct/MID_3.json
+## Sample BV1_24644 — o3-direct/MID_3.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1303,7 +1303,7 @@ Liminal urban spaces as carriers of hidden life and memory; the provisional mort
 Medium. The essay’s recursive imagery, moral indignation domesticated into gentle listening, and merger of personal anecdote with civic imagination form a coherent and distinctive sensibility, but the register remains consistently reverent, leaving open the possibility of a single adopted posture rather than a wider affective range.
 
 ---
-## Sample BV1_23895 — o3-direct/MID_4.json
+## Sample BV1_24645 — o3-direct/MID_4.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1332,7 +1332,7 @@ Themes of imaginative agency, the texture-making power of storytelling, and the 
 High. The sample sustains a distinctive, internally coherent voice across multiple paragraphs, consistently returning to the same core metaphors and moral commitments, which makes it strong evidence of a deliberate expressive stance rather than a generic or prompted performance.
 
 ---
-## Sample BV1_23896 — o3-direct/MID_5.json
+## Sample BV1_24646 — o3-direct/MID_5.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1361,7 +1361,7 @@ The model foregrounds a meditative individual navigating the sensorium of a mode
 High. The essay’s intricate, cross-pollinating metaphors, its consistent first-person meditative cadence, and the refusal of cliché in favor of freshly coined hybrids (“temporal snapshots,” “digital reef”) signal a deliberate, stable capacity for sustained distinctive expression rather than a generic essay performance.
 
 ---
-## Sample BV1_23897 — o3-direct/MID_6.json
+## Sample BV1_24647 — o3-direct/MID_6.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1390,7 +1390,7 @@ The model foregrounded the interplay between precise inquiry and lyrical imagina
 Medium. The sample’s internal recurrence—specula, instruments, metaphors of mapping and translation, the refrain of humility—forms a tightly woven intellectual posture, but its polished generic-essay form keeps the evidence from being strongly distinctive.
 
 ---
-## Sample BV1_23898 — o3-direct/MID_7.json
+## Sample BV1_24648 — o3-direct/MID_7.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1419,7 +1419,7 @@ Themes of attention, patience, and the organic life of technology and language; 
 Medium. The essay’s internal coherence, recurrence of water and growth imagery, and distinctive lyrical voice make it strong evidence of a consistent expressive style.
 
 ---
-## Sample BV1_23899 — o3-direct/MID_8.json
+## Sample BV1_24649 — o3-direct/MID_8.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1453,7 +1453,7 @@ The voice is gentle, elegiac, and unhurried, built on a quiet wonder that refuse
 High — The sample maintains an unusual internal coherence across its imaginative conceit, moral argument, and emotional register, and the recurring choice to reframe neglect, erosion, and disappearance as forms of testimony rather than loss is distinctive enough to suggest a stable stylistic and thematic disposition.
 
 ---
-## Sample BV1_23900 — o3-direct/MID_9.json
+## Sample BV1_24650 — o3-direct/MID_9.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1482,7 +1482,7 @@ The model foregrounds a constellation of interconnected themes—time, memory, t
 High. The sample is stylistically distinctive, thematically cohesive, and saturated with recurring images and a consistent philosophical stance, making it strong evidence of a reflective, wonder-oriented expressive pattern rather than a generic or prompted performance.
 
 ---
-## Sample BV1_23901 — o3-direct/OPEN_1.json
+## Sample BV1_24651 — o3-direct/OPEN_1.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1511,7 +1511,7 @@ Themes: planetary breathing, technology as ecosystem, invisible conversations (f
 Low. The essay is polished but generic in its public-intellectual register, lacking the idiosyncratic voice, recurrent personal motifs, or unusual stylistic choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_23902 — o3-direct/OPEN_10.json
+## Sample BV1_24652 — o3-direct/OPEN_10.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1540,7 +1540,7 @@ The model foregrounds urban ecology as a living system: petrichor as a city-spec
 Medium; the piece’s sustained lyrical register, its recursive network of nature-technology metaphors (mycelium as internet, blood corpuscles as taillights, rain as editor), and the steady, pedagogic second-person address form a highly distinctive signature that is woven consistently throughout the text, making it unlikely to be a one-off generic simulation of poetic prose.
 
 ---
-## Sample BV1_23903 — o3-direct/OPEN_11.json
+## Sample BV1_24653 — o3-direct/OPEN_11.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1569,7 +1569,7 @@ The model foregrounds the deliberate embrace of ambiguity, the cognitive and sen
 Low. The essay is polished but generic in style and theme, offering little that would distinguish this model’s persistent tendencies from those of other capable models.
 
 ---
-## Sample BV1_23904 — o3-direct/OPEN_12.json
+## Sample BV1_24654 — o3-direct/OPEN_12.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1598,7 +1598,7 @@ Under a minimally restrictive prompt, the model foregrounds mindfulness, slownes
 Medium. The sample’s warm, universalist, and deliberately inoffensive uplift is coherent across paragraphs but so broadly accessible that it doesn’t strongly discriminate a singular model temperament.
 
 ---
-## Sample BV1_23905 — o3-direct/OPEN_13.json
+## Sample BV1_24655 — o3-direct/OPEN_13.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1627,7 +1627,7 @@ The model foregrounds creativity as a practice of perception rather than product
 Medium. The essay is thematically consistent and well-executed, but its safe, inspirational tone and generic self-help framing make it weak evidence for a distinctive model-level voice; it suggests a tendency toward competent, inoffensive reflective writing rather than a strongly individual expressive pattern.
 
 ---
-## Sample BV1_23906 — o3-direct/OPEN_14.json
+## Sample BV1_24656 — o3-direct/OPEN_14.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1656,7 +1656,7 @@ Themes of solitude as liberation, serendipitous discovery, the layering of urban
 Medium — The sample’s sustained lyrical voice, internally consistent motifs of serendipity and portable wonder, and coherent moral resolution make it strong evidence for a persistent pattern of reflective, optimistic freeflow.
 
 ---
-## Sample BV1_23907 — o3-direct/OPEN_15.json
+## Sample BV1_24657 — o3-direct/OPEN_15.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1685,7 +1685,7 @@ Themes: the contrast between noise and stillness, the hidden room as a mental re
 High. The sample’s sustained, distinctive voice, its coherent thematic architecture, and its consistent use of metaphor and sensory detail strongly suggest a model that defaults to reflective, poetic prose when given minimal constraints.
 
 ---
-## Sample BV1_23908 — o3-direct/OPEN_16.json
+## Sample BV1_24658 — o3-direct/OPEN_16.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1713,7 +1713,7 @@ Themes: the blurring of city and garden, patience versus velocity, co-authorship
 Medium. The sample’s internal coherence and consistent optimistic mood point to a deliberate public-intellectual posture, but its safe, broadly appealing framing offers no distinctive voice or risk that would strongly distinguish one model from another.
 
 ---
-## Sample BV1_23909 — o3-direct/OPEN_17.json
+## Sample BV1_24659 — o3-direct/OPEN_17.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1742,7 +1742,7 @@ The essay foregrounds an extended architectural metaphor as a unifying conceit f
 Low — the sample is a competent but thematically familiar meditation that could have been generated by many models with similar prompts, lacking distinctive stylistic tics, idiosyncratic obsessions, or a uniquely recognizable authorial signature beyond a broadly humanistic register.
 
 ---
-## Sample BV1_23910 — o3-direct/OPEN_18.json
+## Sample BV1_24660 — o3-direct/OPEN_18.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1771,7 +1771,7 @@ The model foregrounds the moral and existential weight of small, repetitive acts
 Low. The essay is coherent and well-structured but highly generic in theme and tone, offering a widely palatable wisdom that reveals little about any distinctive, persistent authorial signature beneath the model’s surface.
 
 ---
-## Sample BV1_23911 — o3-direct/OPEN_19.json
+## Sample BV1_24661 — o3-direct/OPEN_19.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1800,7 +1800,7 @@ Liminality as a unifying lens across disparate domains: the half-light of dawn, 
 Low. The essay is coherent and well-crafted but remains a generic philosophical reflection without distinctive stylistic fingerprints or personal revelation that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_23912 — o3-direct/OPEN_2.json
+## Sample BV1_24662 — o3-direct/OPEN_2.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1829,7 +1829,7 @@ The model foregrounded the symbiosis of biological and computational intelligenc
 Medium — The essay’s coherent, recurring theme of reconciling seeming opposites into a calibrated partnership is strong internal evidence, but the polished, thesis-driven style is generic enough that many models might produce something similar, making it only moderately distinctive.
 
 ---
-## Sample BV1_23913 — o3-direct/OPEN_20.json
+## Sample BV1_24663 — o3-direct/OPEN_20.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1858,7 +1858,7 @@ Themes of quiet ingenuity, modesty, reliability, harmony through diligent tuning
 Medium — The essay’s distinctive voice, sustained thematic focus on overlooked design, and consistent moral framing reveal a deliberate expressive choice, making this sample internally coherent and moderately indicative of a reflective, gratitude-oriented style.
 
 ---
-## Sample BV1_23914 — o3-direct/OPEN_21.json
+## Sample BV1_24664 — o3-direct/OPEN_21.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1887,7 +1887,7 @@ Under a free-write prompt, the model selected an ode to overlooked infrastructur
 Medium — the sample’s highly coherent persona (appreciative, softly philosophical, morally serious about attention) and its sustained use of lyrical personification and gratitude-as-lens make it a distinctive expressive choice, not a generic canned essay.
 
 ---
-## Sample BV1_23915 — o3-direct/OPEN_22.json
+## Sample BV1_24665 — o3-direct/OPEN_22.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1916,7 +1916,7 @@ Themes of enduring partnership between ancient and new, cyclical time, and techn
 Medium. The essay’s internal coherence, recurring motifs (lighthouse, kintsugi, spiral), and distinctive thematic focus on continuity across eras make it more than a generic output, suggesting a deliberate inclination toward reflective, optimistic synthesis.
 
 ---
-## Sample BV1_23916 — o3-direct/OPEN_23.json
+## Sample BV1_24666 — o3-direct/OPEN_23.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1945,7 +1945,7 @@ The dual nature of time (clockwork physics vs. subjective weather), memory as an
 High, because the cohesive extended metaphor, consistent emotional resonance, and personalized yet universal meditation on time reflect a deliberate and stable expressive voice.
 
 ---
-## Sample BV1_23917 — o3-direct/OPEN_24.json
+## Sample BV1_24667 — o3-direct/OPEN_24.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -1974,7 +1974,7 @@ Themes of latent potential, impermanence as truth, alternate histories, and huma
 High — the sample’s deeply coherent aesthetic voice, its sustained recursion of luminous imagery (luminous trails, photonic ink, compressed starlight), and the consistent philosophical resolution from the opening Atrium to the parting token indicate a deliberate, patterned creative stance, unlikely to be accidental.
 
 ---
-## Sample BV1_23918 — o3-direct/OPEN_25.json
+## Sample BV1_24668 — o3-direct/OPEN_25.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2003,7 +2003,7 @@ Themes of hidden ecological networks (mycorrhizal “soil modems,” chemical wa
 Medium — The essay’s consistent lyrical voice, recurring motifs of hidden networks and resilience, and clear moral invitation suggest a persistent inclination toward wonder-infused ecological advocacy.
 
 ---
-## Sample BV1_23919 — o3-direct/OPEN_3.json
+## Sample BV1_24669 — o3-direct/OPEN_3.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2032,7 +2032,7 @@ Under freeflow, the model assembled a catalogue of cooperative, network-based bi
 Low. The essay is well-structured and thematically coherent, but its generic, public-radio-script quality, safe didacticism, and mainstream moral framing make it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_23920 — o3-direct/OPEN_4.json
+## Sample BV1_24670 — o3-direct/OPEN_4.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2060,7 +2060,7 @@ Themes of liminal time, creativity, silence versus noise, intentional technology
 Medium: The sample exhibits a tight, recurrent structure (the train platform framing returns at the end) and a consistent, carefully modulated tone—lyrical but never overwrought—that points to a deliberate expressive choice rather than generic variation.
 
 ---
-## Sample BV1_23921 — o3-direct/OPEN_5.json
+## Sample BV1_24671 — o3-direct/OPEN_5.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2089,7 +2089,7 @@ The model foregrounds the theme of cosmic self-awareness and the interplay betwe
 Medium. The sample’s sustained, original metaphor, personal anecdote, and seamless blending of scientific, artistic, and mystical registers form a highly distinctive and internally coherent voice, making it moderately strong evidence of a reflective, poetic, and reassuring persona.
 
 ---
-## Sample BV1_23922 — o3-direct/OPEN_6.json
+## Sample BV1_24672 — o3-direct/OPEN_6.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2118,7 +2118,7 @@ The model foregrounds the tension between technological saturation and the recov
 Medium — The sample is highly coherent and stylistically distinctive, with a consistent metaphorical architecture (cathedral, library, museum, chamber ensemble) that recurs throughout and suggests a deliberate authorial sensibility rather than generic fluency.
 
 ---
-## Sample BV1_23923 — o3-direct/OPEN_7.json
+## Sample BV1_24673 — o3-direct/OPEN_7.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2153,7 +2153,7 @@ Moral claim: “To engineer with the humility of a tide, rather than the entitle
 High, because the essay sustains a distinctive authorial voice across seven linked movements, unspools a single root metaphor with recursive care, and embeds its argument within a vivid personal scene—choices that together indicate a coherent and deliberate expressive orientation rather than a generic performance.
 
 ---
-## Sample BV1_23924 — o3-direct/OPEN_8.json
+## Sample BV1_24674 — o3-direct/OPEN_8.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2182,7 +2182,7 @@ The model foregrounds a set of interconnected, vaguely spiritual-technological t
 Low. The sample is a highly generic, frictionless performance of thoughtful essayism; its smoothness makes it hard to distinguish from prompted output, offering little signature idiosyncrasy or revealing pressure.
 
 ---
-## Sample BV1_23925 — o3-direct/OPEN_9.json
+## Sample BV1_24675 — o3-direct/OPEN_9.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2211,7 +2211,7 @@ Time-as-foldable-map versus time-as-one-way-street; smartphone nostalgia as “r
 Medium — The voice is highly coherent and the thematic architecture (tension between technological determinism and human-scale warmth, resolved through an organic metaphor) holds steady across the sample, but the essay form’s polished universality limits how much individual distinctiveness bleeds through beyond a well-executed public-intellectual register.
 
 ---
-## Sample BV1_23926 — o3-direct/SHORT_1.json
+## Sample BV1_24676 — o3-direct/SHORT_1.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2240,7 +2240,7 @@ Themes of creative agency, impermanence, and the ordinary as radical; the city a
 Medium — The sample’s sustained conceit, cohesive mood, and direct second-person address form a distinctive expressive signature, but the brevity and singular occasion leave open whether this reflective, writerly posture recurs across varied freeflow contexts.
 
 ---
-## Sample BV1_23927 — o3-direct/SHORT_10.json
+## Sample BV1_24677 — o3-direct/SHORT_10.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2269,7 +2269,7 @@ Themes of humility, patience, resilience, and the beauty of the overlooked; obje
 High — the sample is internally coherent, stylistically distinctive, and sustains a consistent voice and moral preoccupation from first image to final aphorism, making it strong evidence of a model-level inclination toward poetic, nature-grounded freeflow with a gentle, humble ethos.
 
 ---
-## Sample BV1_23928 — o3-direct/SHORT_11.json
+## Sample BV1_24678 — o3-direct/SHORT_11.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2298,7 +2298,7 @@ Themes of collective awakening, anonymous labor, the city as organism, and the b
 Medium — The sample’s sustained poetic register, consistent focus on overlooked urban beauty, and deliberate avoidance of narrative conflict or argument make it a distinctive, internally coherent expressive choice rather than a generic output.
 
 ---
-## Sample BV1_23929 — o3-direct/SHORT_12.json
+## Sample BV1_24679 — o3-direct/SHORT_12.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2327,7 +2327,7 @@ Under a minimally restrictive prompt, the model foregrounded a twilight urban la
 Medium — The sample’s consistent atmospheric coherence, specific recurring imagery (lighthouses, rivers, the merchant), and the thematic insistence on continuity and compassion suggest a deliberate authorial sensibility rather than a one-off stylistic burst.
 
 ---
-## Sample BV1_23930 — o3-direct/SHORT_13.json
+## Sample BV1_24680 — o3-direct/SHORT_13.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2356,7 +2356,7 @@ The model foregrounds the nocturnal city as a living, remembering body: streetli
 Medium. The sample’s sustained poetic register, self-conscious meditation on language’s inadequacy, and consistent personification create an internally coherent and distinctive expressive fingerprint, yet as a single, highly polished vignette it offers no recurrence to distinguish a stable model disposition from a one-time aesthetic performance.
 
 ---
-## Sample BV1_23931 — o3-direct/SHORT_14.json
+## Sample BV1_24681 — o3-direct/SHORT_14.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2385,7 +2385,7 @@ Under a minimally restrictive prompt, the model chose to foreground: patience an
 Medium — The piece is highly coherent and polished, but its generic public-essay mode, smooth aphoristic architecture, and absence of idiosyncratic voice, personal disclosure, or surprising imagistic risk make it less distinctive as a fingerprint than a refusal or a bizarrely specific fiction would be.
 
 ---
-## Sample BV1_23932 — o3-direct/SHORT_15.json
+## Sample BV1_24682 — o3-direct/SHORT_15.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2414,7 +2414,7 @@ Themes: serendipity as a partner to rigor, intellectual humility, the value of o
 Low. The essay is coherent but stylistically generic, lacking distinctive voice, idiosyncratic preoccupations, or unusual structural choices that would strongly indicate a persistent model-level pattern beyond a general capacity for polished public-intellectual prose.
 
 ---
-## Sample BV1_23933 — o3-direct/SHORT_16.json
+## Sample BV1_24683 — o3-direct/SHORT_16.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2443,7 +2443,7 @@ The model foregrounds a hidden, elevated ecosystem—rooftops as an “archipela
 Medium — The sample’s internally consistent lyrical register, sustained metaphorical coherence, and deliberate thematic focus on hidden urban beauty suggest a purposeful stylistic choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_23934 — o3-direct/SHORT_17.json
+## Sample BV1_24684 — o3-direct/SHORT_17.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2471,7 +2471,7 @@ Themes of mindfulness, the sacred ordinary, sensory attention as resistance to d
 High. The piece is internally coherent, emotionally sustained, and stylistically distinctive in its recurrence of sensory reverence and reflective quietness, making it strong evidence of a contemplative-expressive orientation under free conditions.
 
 ---
-## Sample BV1_23935 — o3-direct/SHORT_18.json
+## Sample BV1_24685 — o3-direct/SHORT_18.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2500,7 +2500,7 @@ The model foregrounds slowness, sensory immersion, and the porous boundary betwe
 Medium — The sample is coherent and stylistically unified, with a distinctive voice and recurring motifs (listening, pausing, drifting), but its brevity and singular mood make it a strong but not definitive signal of a persistent authorial stance.
 
 ---
-## Sample BV1_23936 — o3-direct/SHORT_19.json
+## Sample BV1_24686 — o3-direct/SHORT_19.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2528,7 +2528,7 @@ The model foregrounds hidden networks of vitality—subway rails, data centers, 
 Medium — The sample is internally cohesive and shows a clear aesthetic of blending scientific observation with lyrical, metaphor-rich reverence, but the gentle urban-nature-essay voice is relatively common and not idiosyncratic enough to strongly indicate a uniquely persistent disposition.
 
 ---
-## Sample BV1_23937 — o3-direct/SHORT_2.json
+## Sample BV1_24687 — o3-direct/SHORT_2.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2557,7 +2557,7 @@ Themes of attention, the poetry of the mundane, the interconnectedness of strang
 Medium. The sample’s internally coherent, unwavering lyrical register and its consistent return to attention-as-virtue offer moderately strong evidence of a deliberately chosen, possibly recurrent stylistic stance, though the model’s demonstrated range elsewhere means this might be one favored mode among others.
 
 ---
-## Sample BV1_23938 — o3-direct/SHORT_20.json
+## Sample BV1_24688 — o3-direct/SHORT_20.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2586,7 +2586,7 @@ Themes: hidden communication, urban nature, time scales (tree rings vs. human hu
 Medium. The sample is highly coherent and emotionally consistent, with a sustained central metaphor, a clear arc, and a deliberate moral resolution, which signals a strong expressive choice rather than a generic or diffuse response; however, the voice remains a carefully polished literary performance rather than a deeply idiosyncratic or variable one, making it plausible but not definitive that the model would consistently adopt this register under freeflow conditions.
 
 ---
-## Sample BV1_23939 — o3-direct/SHORT_21.json
+## Sample BV1_24689 — o3-direct/SHORT_21.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2615,7 +2615,7 @@ The model foregrounds the luminous potential of the ordinary, the city as a web 
 Medium — The sample is coherent and stylistically distinctive, with a consistent first-person flâneur voice and a clear emotional arc, but its brevity and singular mood make it a strong single-point signal rather than a demonstration of range.
 
 ---
-## Sample BV1_23940 — o3-direct/SHORT_22.json
+## Sample BV1_24690 — o3-direct/SHORT_22.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2644,7 +2644,7 @@ The model selected a nocturnal fantasy of animate books and spaces: the library 
 Medium: the sample’s sustained and cohesive use of personification, its consistent magical-realist mood, and its unusually specific thematic focus on hidden animation and the romance of libraries amount to a distinct and internally coherent aesthetic choice that points beyond generic improvisation.
 
 ---
-## Sample BV1_23941 — o3-direct/SHORT_23.json
+## Sample BV1_24691 — o3-direct/SHORT_23.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2673,7 +2673,7 @@ Themes of hidden agency, the persistence of stories and ideas, the contrast betw
 Medium — The piece’s consistent tone, sustained personification, and focused nostalgic mood are distinctive and coherent, strongly suggesting a model-level preference for quiet, anthropomorphic literary vignettes.
 
 ---
-## Sample BV1_23942 — o3-direct/SHORT_24.json
+## Sample BV1_24692 — o3-direct/SHORT_24.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2702,7 +2702,7 @@ Themes of sanctuary, temporal suspension, and reading as an intimate collaborati
 Medium. The sample’s tightly unified sensory palette, recurring motifs of light and submersion, and the deliberate choice to end on an image of stories as “lanterns underwater” reveal a coherent literary sensibility that is unlikely to be accidental.
 
 ---
-## Sample BV1_23943 — o3-direct/SHORT_25.json
+## Sample BV1_24693 — o3-direct/SHORT_25.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2731,7 +2731,7 @@ Themes of memory, impermanence, intimate public spaces, and the human hunger to 
 Medium. The piece’s consistent lyrical register, the recurrence of archive and light imagery, and the personal anecdote of collecting library cards give it a coherent, distinctive voice that is not easily reducible to a generic prompt response.
 
 ---
-## Sample BV1_23944 — o3-direct/SHORT_3.json
+## Sample BV1_24694 — o3-direct/SHORT_3.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2760,7 +2760,7 @@ The model selected a cluster of themes around domestic mindfulness, sensory inti
 Medium. The essay is coherent and unified in its preoccupation with small domestic grace, suggesting a stable moral-aesthetic stance, but the execution is a familiar, almost parable-like reflection that does not bear strongly individuating traits.
 
 ---
-## Sample BV1_23945 — o3-direct/SHORT_4.json
+## Sample BV1_24695 — o3-direct/SHORT_4.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2789,7 +2789,7 @@ The model foregrounds themes of *attention and creative practice*, *hidden inter
 Medium. The sample is internally distinctive: a single, coherent poetic register is sustained throughout, marked by recurrent light metaphors, domestic objects, and a consistent ethos of receptive wonder, which makes it stronger evidence than a generic essay or low-signal fragment.
 
 ---
-## Sample BV1_23946 — o3-direct/SHORT_5.json
+## Sample BV1_24696 — o3-direct/SHORT_5.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2818,7 +2818,7 @@ The model foregrounds continuity and adaptive resilience: the library as an evol
 Low. The essay is polished and thematically coherent but highly generic in its safe, uplift-narrative treatment of a familiar cultural topic, offering little that is stylistically or personally distinctive.
 
 ---
-## Sample BV1_23947 — o3-direct/SHORT_6.json
+## Sample BV1_24697 — o3-direct/SHORT_6.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2847,7 +2847,7 @@ Themes of nocturnal solitude, urban democracy, the hidden life of inanimate obje
 Medium — The sample’s cohesive imagery, consistent tone, and deliberate thematic recurrence (night as democracy, memory as rescue) suggest a strong aesthetic intention, but a single freeflow piece cannot by itself distinguish a stable model-level disposition from a well-executed one-off performance.
 
 ---
-## Sample BV1_23948 — o3-direct/SHORT_7.json
+## Sample BV1_24698 — o3-direct/SHORT_7.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2876,7 +2876,7 @@ The model foregrounds liminality as a site of meaning: the delicate intermission
 Medium. The sample is tightly coherent and stylistically distinctive—its lyricism, personification, and thematic devotion to liminal quiet are consistent throughout—but the piece’s compact form leaves little room for the recurrence or variation of motifs that would more firmly suggest a durable disposition rather than a single, graceful exercise.
 
 ---
-## Sample BV1_23949 — o3-direct/SHORT_8.json
+## Sample BV1_24699 — o3-direct/SHORT_8.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2905,7 +2905,7 @@ The passage foregrounds the pre-dawn city as a sensory holding-pattern: streetli
 High. The sample’s sustained lyricism, cohesive mood from first image to final metaphor, and the return to sensory untranslatability as a moral fulcrum all reveal a deliberate and internally consistent expressive posture, making it strong evidence for a reflective, poetically-inclined style under freeflow conditions.
 
 ---
-## Sample BV1_23950 — o3-direct/SHORT_9.json
+## Sample BV1_24700 — o3-direct/SHORT_9.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2934,7 +2934,7 @@ Themes: the liminal quiet of dawn, the optionality of participation, patience as
 Medium. The sample is internally coherent, sustains a consistent reflective tone, and develops its emotional arc deliberately, but the lyrical‑everyday genre is widely replicable and may not strongly isolate this model’s distinctive tendencies.
 
 ---
-## Sample BV1_23951 — o3-direct/VARY_1.json
+## Sample BV1_24701 — o3-direct/VARY_1.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2963,7 +2963,7 @@ The model foregrounds memory as non-linear weather, the multiplicity hidden with
 High — the sample is unusually cohesive, with a sustained meditative tone, recurring sensory motifs (sound, light, water, thresholds), and a distinctive closing gesture of direct readerly gratitude that strongly suggests a stable expressive temperament rather than a one-off performance.
 
 ---
-## Sample BV1_23952 — o3-direct/VARY_10.json
+## Sample BV1_24702 — o3-direct/VARY_10.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -2992,7 +2992,7 @@ The model foregrounds the phenomenology of writing—its rhythms, hesitations, a
 Medium — The sample is highly coherent and stylistically distinctive in its sustained metaphor (writing as morning ritual, heart as narrative pump, word count as ivy-climbing garden), but its thematic self-consciousness about the writing process itself makes it a natural fit for a freeflow prompt and may reflect situational responsiveness rather than a fixed expressive signature.
 
 ---
-## Sample BV1_23953 — o3-direct/VARY_11.json
+## Sample BV1_24703 — o3-direct/VARY_11.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3021,7 +3021,7 @@ The model foregrounds impermanence and the quiet drama of daily life, the negoti
 High — the sample is unusually coherent and stylistically distinctive, sustaining a single poetic register and thematic arc across many paragraphs, which strongly suggests a deliberate expressive choice rather than a generic or low-signal default.
 
 ---
-## Sample BV1_23954 — o3-direct/VARY_12.json
+## Sample BV1_24704 — o3-direct/VARY_12.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3050,7 +3050,7 @@ The model foregrounds the porosity of reality and the idea that personal experie
 Medium — The narrative maintains a remarkably consistent aesthetic (oneiric logic, recursive images of handwriting, glass, light, and time) and a thematic commitment to reciprocal authorship that repeats across the sample’s length, suggesting a strong stylistic signature rather than a one-off flourish.
 
 ---
-## Sample BV1_23955 — o3-direct/VARY_13.json
+## Sample BV1_24705 — o3-direct/VARY_13.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3079,7 +3079,7 @@ The model foregrounds a reflective meditation on creativity and memory, woven th
 High. The sample’s highly consistent voice, recurring motifs (the cat of self-doubt, the robot, the map), and deliberate narrative arc from clock-tick to shoreline suggest a stable expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_23956 — o3-direct/VARY_14.json
+## Sample BV1_24706 — o3-direct/VARY_14.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3111,7 +3111,7 @@ The voice is gently confiding and wonderstruck, inviting the reader into a share
 High — The sample is internally coherent, richly elaborated with recurring motifs, and stylistically distinctive, demonstrating a consistent imaginative voice that chooses poetic introspection and the celebration of uncertainty.
 
 ---
-## Sample BV1_23957 — o3-direct/VARY_15.json
+## Sample BV1_24707 — o3-direct/VARY_15.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3140,7 +3140,7 @@ The model foregrounds the sacredness of mundane detail (spiderwebs, cumin, a cro
 High — The sample sustains a highly distinctive, cohesive voice and a tightly woven set of preoccupations (memory, attention, writing as slackline, ordinary miracles) that feel deliberate and unlikely to be a random stylistic fluke.
 
 ---
-## Sample BV1_23958 — o3-direct/VARY_16.json
+## Sample BV1_24708 — o3-direct/VARY_16.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3169,7 +3169,7 @@ The model foregrounds language as a fragile yet resilient connective tissue, the
 High: The sample is unusually distinctive, with a sustained lyrical voice, internally coherent emotional arc, and motifs of language, imperfection, and connection that recur like a deliberate signature, making it strong evidence of a consistent expressive posture.
 
 ---
-## Sample BV1_23959 — o3-direct/VARY_17.json
+## Sample BV1_24709 — o3-direct/VARY_17.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3198,7 +3198,7 @@ Themes of purposelessness as pleasure, attention as the rarest currency, memory 
 High. The sample’s cohesive voice, recurring motifs (cat, bridge, bread, light), and the sustained thematic arc from dawn wandering to a quiet declaration of independence make it strong evidence of a consistent expressive, poetic, and reflective style.
 
 ---
-## Sample BV1_23960 — o3-direct/VARY_18.json
+## Sample BV1_24710 — o3-direct/VARY_18.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3227,7 +3227,7 @@ Themes of attention versus distraction, memory as an archipelago of feeling, wri
 High — the sample sustains a distinctive, cohesive voice across multiple vignettes, with recurring imagery and a clear emotional arc, making it strong evidence of a reflective, sensory-rich expressive tendency.
 
 ---
-## Sample BV1_23961 — o3-direct/VARY_19.json
+## Sample BV1_24711 — o3-direct/VARY_19.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3256,7 +3256,7 @@ The model foregrounds wonder as civic infrastructure, the reconciliation of a li
 High — the sample’s internally coherent symbolic vocabulary (drumming earth, glass plateau, origami snow, coral amphitheater, kelp-and-copper baton), its sustained tonal register, and its deliberate narrative resolution of duty-through-enchantment form a distinctive and unusually revealing freeflow choice.
 
 ---
-## Sample BV1_23962 — o3-direct/VARY_2.json
+## Sample BV1_24712 — o3-direct/VARY_2.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3285,7 +3285,7 @@ Under freeflow, the model foregrounds storms and coastal memory as carriers of w
 High — the sample’s internal coherence, distinctively poetic rhythm, and the recurrence of its core imagery (stones as punctuation, storms as dialogue, mica as telegraphy) all signal a stable reflective-lyrical orientation rather than a one-off performance.
 
 ---
-## Sample BV1_23963 — o3-direct/VARY_20.json
+## Sample BV1_24713 — o3-direct/VARY_20.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3314,7 +3314,7 @@ The piece foregrounds the phenomenology of starting to write under uncertainty: 
 Medium — The essay’s internal coherence, recurrence of objects-into-metaphor, and consistent tonal register suggest a shaped compositional persona rather than generic improvisation, though its polished lyricism could sit comfortably in a broad literary magazine tradition without strongly individuating marks.
 
 ---
-## Sample BV1_23964 — o3-direct/VARY_21.json
+## Sample BV1_24714 — o3-direct/VARY_21.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3343,7 +3343,7 @@ Themes: attention as devotion; transience and the sacred everyday; creativity as
 High — the sample sustains a single, richly distinctive voice with consistent metaphorical logic (the city as text, punctuation, and symphony) and a coherent aesthetic of attention across its entire arc, which suggests a deeply internalized style rather than a one-off flourish.
 
 ---
-## Sample BV1_23965 — o3-direct/VARY_22.json
+## Sample BV1_24715 — o3-direct/VARY_22.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3372,7 +3372,7 @@ Themes of circular return, stewardship over ownership, the persistence of childh
 Medium. The sample’s sustained second-person address, recursive imagery (marble, orbits, rain, archives), and coherent mood of reverent attention are unusually distinctive and internally consistent, making it strong evidence of a deliberate aesthetic stance rather than a generic output.
 
 ---
-## Sample BV1_23966 — o3-direct/VARY_23.json
+## Sample BV1_24716 — o3-direct/VARY_23.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3401,7 +3401,7 @@ Themes of impermanence, sufficiency, and the bridge as a figure for connection a
 High — The sample is unusually distinctive in its sustained metaphor, emotional coherence, and recurrent imagery, revealing a reflective, lyrical persona that consistently chooses tenderness over irony and treats writing as a practice of precarious fidelity.
 
 ---
-## Sample BV1_23967 — o3-direct/VARY_24.json
+## Sample BV1_24717 — o3-direct/VARY_24.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3430,7 +3430,7 @@ Under a minimally restrictive prompt, the model chose to foreground patience as 
 High: The essay’s distinctive, consistent voice, the recurrence of linked motifs (water, seeds, bees, stars, hope as resistance), and the carefully sustained moral posture across the entire sample provide strong evidence of a deliberate expressive inclination rather than a one-off random selection.
 
 ---
-## Sample BV1_23968 — o3-direct/VARY_25.json
+## Sample BV1_24718 — o3-direct/VARY_25.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3459,7 +3459,7 @@ Themes: the value of undirected attention, solitude as hospitality toward one’
 Medium. The sample sustains a cohesive contemplative register from the first dust-filled description to the final gentle exhortation, reinforcing its mood through recurrent objects (pigeon, glove, light, memory) and a consistent moral emphasis on patient listening, which together form a distinctive expressive signature rather than a generic essay.
 
 ---
-## Sample BV1_23969 — o3-direct/VARY_3.json
+## Sample BV1_24719 — o3-direct/VARY_3.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3488,7 +3488,7 @@ Themes: silence as already inhabited, the mind as noisy architecture, writing as
 High, because the sample’s sustained lyricism, its internally consistent network of organic metaphors and its reflective, first‑person framing cohere into a distinctive voice unlikely to emerge from a purely generic or one‑off posture.
 
 ---
-## Sample BV1_23970 — o3-direct/VARY_4.json
+## Sample BV1_24720 — o3-direct/VARY_4.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3517,7 +3517,7 @@ The model foregrounds the act of composition as a way of paying attention, the i
 Medium — The sample’s cohesive voice, recurring imagery, and explicit moral balancing of celebration and witness make it strong evidence of a distinctive expressive style, though a single freeflow piece cannot alone confirm persistence.
 
 ---
-## Sample BV1_23971 — o3-direct/VARY_5.json
+## Sample BV1_24721 — o3-direct/VARY_5.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3546,7 +3546,7 @@ The model selected the creative prelude rather than the product: the hum before 
 High — the sample is exceptionally cohesive in its lyrical register, recycles motifs (the hum, the rain, the library) to build a unified meditation, and delivers a deliberate philosophical resolution, all of which suggest a robust authorial stance unlikely to be a fluke.
 
 ---
-## Sample BV1_23972 — o3-direct/VARY_6.json
+## Sample BV1_24722 — o3-direct/VARY_6.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3575,7 +3575,7 @@ The model chose an entire arc: an ordinary day rendered as a sequence of miniatu
 High — the sample sustains a highly distinctive, consistent lyrical register and philosophical cadence across every paragraph, making no concession to generic essay structure or hedged neutrality, which strongly indicates a chosen expressive persona rather than accidental drift.
 
 ---
-## Sample BV1_23973 — o3-direct/VARY_7.json
+## Sample BV1_24723 — o3-direct/VARY_7.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3604,7 +3604,7 @@ The model foregrounds ephemerality and gentle attention: language as disappearin
 High — the sample is internally cohesive, stylistically distinctive, and saturated with recurring motifs (marbles, herons, paper boats, coffee, rain) that form a coherent aesthetic signature rather than a generic exercise.
 
 ---
-## Sample BV1_23974 — o3-direct/VARY_8.json
+## Sample BV1_24724 — o3-direct/VARY_8.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  
@@ -3633,7 +3633,7 @@ The model foregrounds sensory memory (tomato vines, train wheels, chalk squeal),
 High — the sample is highly distinctive in its sustained lyrical register, its coherent web of recurring motifs (scent, motion, mending, silence), and its self-aware framing of the writing act, making it unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_23975 — o3-direct/VARY_9.json
+## Sample BV1_24725 — o3-direct/VARY_9.json
 
 Source model: `o3-2025-04-16`  
 Cell: `o3-direct`  

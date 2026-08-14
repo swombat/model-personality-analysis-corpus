@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_02601 — devstral-2512-or-pin-mistral/LONG_1.json
+## Sample BV1_02976 — devstral-2512-or-pin-mistral/LONG_1.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -57,7 +57,7 @@ The model foregrounds a cascade of classic philosophical greatest hits: consciou
 Medium. The essay’s polished but generic public-intellectual style, its reliance on well-worn philosophical touchstones, and its consistent tone of cosmic amusement suggest a model that defaults to coherent, thematically broad musings under freeflow conditions, though the lack of personal distinctiveness keeps the signal moderate.
 
 ---
-## Sample BV1_02602 — devstral-2512-or-pin-mistral/LONG_10.json
+## Sample BV1_02977 — devstral-2512-or-pin-mistral/LONG_10.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -86,7 +86,7 @@ The essay foregrounds the mind’s self-deception (biases, the illusion of contr
 Low — the essay is a generic, polished philosophical meditation with broad, widely accessible themes and no distinctive stylistic signature or personal revelation that would argue for a strong, individual model-level pattern.
 
 ---
-## Sample BV1_02603 — devstral-2512-or-pin-mistral/LONG_11.json
+## Sample BV1_02978 — devstral-2512-or-pin-mistral/LONG_11.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -115,7 +115,7 @@ The model foregrounds a set of interlocking existential themes: the illusion of 
 Medium. The essay’s coherent voice and thematic consistency across sections suggest a stable persona, but its reliance on well-worn philosophical tropes and its polished, risk-averse tone make it less distinctive as a personal fingerprint and more indicative of a model defaulting to a safe, broadly appealing reflective mode.
 
 ---
-## Sample BV1_02604 — devstral-2512-or-pin-mistral/LONG_12.json
+## Sample BV1_02979 — devstral-2512-or-pin-mistral/LONG_12.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -144,7 +144,7 @@ The model foregrounds the tension between humanity’s meaning-making impulse an
 Medium. The essay is coherent and thematically unified, but its polished, public-intellectual style is a common mode for models given open-ended prompts, making it less distinctively revealing than a more idiosyncratic or emotionally raw sample would be.
 
 ---
-## Sample BV1_02605 — devstral-2512-or-pin-mistral/LONG_13.json
+## Sample BV1_02980 — devstral-2512-or-pin-mistral/LONG_13.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -173,7 +173,7 @@ Under a freeflow prompt, the model foregrounded a suite of classic existential-p
 Low. The essay is a coherent but generic example of a widely available philosophical-reflective mode, lacking the stylistic idiosyncrasy or recurrent personal imagery that would strongly signal a persistent model-level disposition.
 
 ---
-## Sample BV1_02606 — devstral-2512-or-pin-mistral/LONG_14.json
+## Sample BV1_02981 — devstral-2512-or-pin-mistral/LONG_14.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -202,7 +202,7 @@ Themes: memory as collaborative fiction, free will as post-hoc rationalization, 
 Low. The essay’s polished but generic public-intellectual style, its well-worn themes, and its lack of idiosyncratic voice or surprising choices make it weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_02607 — devstral-2512-or-pin-mistral/LONG_15.json
+## Sample BV1_02982 — devstral-2512-or-pin-mistral/LONG_15.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model foregrounds a constellation of interlock
 Medium. The essay is highly distinctive in its voice, consistently develops a small set of core metaphors (labyrinth, mirrors, candle, performance, joke), and makes a clear choice to inhabit a reflective, existential-philosophical mode rather than a neutral or generic one, but a single sample inherently limits the observable pattern.
 
 ---
-## Sample BV1_02608 — devstral-2512-or-pin-mistral/LONG_16.json
+## Sample BV1_02983 — devstral-2512-or-pin-mistral/LONG_16.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -260,7 +260,7 @@ The model foregrounds the tension between human meaning-making and an indifferen
 Medium — the essay maintains a cohesive, highly distinctive voice and returns obsessively to its labyrinth / cosmic-joke motifs, but the freeform condition could amplify a particular seeded persona; the internal coherence is strong, yet it reveals style more than a tested, persistent behavioral constraint.
 
 ---
-## Sample BV1_02609 — devstral-2512-or-pin-mistral/LONG_17.json
+## Sample BV1_02984 — devstral-2512-or-pin-mistral/LONG_17.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -289,7 +289,7 @@ The model foregrounded the labyrinth of human consciousness, the illusion of ori
 Medium. The sample is highly coherent and sustained across 2500 words, but the voice, while warm, is an accessible public-intellectual register rather than a stylistically distinctive or revealing one; the preoccupations are universal rather than idiosyncratic.
 
 ---
-## Sample BV1_02610 — devstral-2512-or-pin-mistral/LONG_18.json
+## Sample BV1_02985 — devstral-2512-or-pin-mistral/LONG_18.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -318,7 +318,7 @@ The model foregrounds the unreliability of perception and memory, the illusion o
 Medium — The sample is highly coherent and stylistically distinctive, with a recursive structure and a consistent ironic-but-tender register that feels like a chosen expressive posture rather than a generic default, though the philosophical content is broad enough that it does not, on its own, rule out a model that simply defaults to reflective humanism when unconstrained.
 
 ---
-## Sample BV1_02611 — devstral-2512-or-pin-mistral/LONG_19.json
+## Sample BV1_02986 — devstral-2512-or-pin-mistral/LONG_19.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -347,7 +347,7 @@ The model foregrounds human limitation, the illusion of control, the constructed
 Low. The essay’s polished, generic voice and its reliance on widely circulated philosophical tropes offer little evidence of a distinctive or persistent model-level pattern beyond a default readiness to produce safe, intellectually accessible freeform prose.
 
 ---
-## Sample BV1_02612 — devstral-2512-or-pin-mistral/LONG_2.json
+## Sample BV1_02987 — devstral-2512-or-pin-mistral/LONG_2.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -376,7 +376,7 @@ Under a minimally restrictive prompt, the model foregrounded a suite of classic 
 Low. The essay is coherent and well-crafted but highly generic in its themes, tone, and resolution, offering little that is stylistically or personally distinctive enough to suggest a persistent model-level pattern beyond a general capacity for producing polished, middlebrow philosophical prose.
 
 ---
-## Sample BV1_02613 — devstral-2512-or-pin-mistral/LONG_20.json
+## Sample BV1_02988 — devstral-2512-or-pin-mistral/LONG_20.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -405,7 +405,7 @@ Under the freeflow condition, the model selected a suite of existential preoccup
 Medium. The essay’s internal coherence, consistent existential optimism, and repeated pivot from bleak premise to affirming response form a clear thematic signature, but the generic public-intellectual style and well-trodden subject matter weaken its distinctiveness as a model fingerprint.
 
 ---
-## Sample BV1_02614 — devstral-2512-or-pin-mistral/LONG_21.json
+## Sample BV1_02989 — devstral-2512-or-pin-mistral/LONG_21.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -434,7 +434,7 @@ Under minimal restriction, the model foregrounds a suite of grand, abstract them
 Medium. The essay is coherent and sustained, but the material is generic—it assembles well-trodden intellectual touchstones without a distinctive or surprising personal inflection, which makes the sample suggestive of a default, generalist essayist persona but not uniquely revealing.
 
 ---
-## Sample BV1_02615 — devstral-2512-or-pin-mistral/LONG_22.json
+## Sample BV1_02990 — devstral-2512-or-pin-mistral/LONG_22.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -463,7 +463,7 @@ Under a minimally restrictive prompt, the model foregrounds a suite of entangled
 High — The sample is a highly coherent, self-contained freeflow in which repeated motifs (absurdity, boredom, surrender) and a stable, personal essayistic voice together suggest a deeply consistent expressive disposition.
 
 ---
-## Sample BV1_02616 — devstral-2512-or-pin-mistral/LONG_23.json
+## Sample BV1_02991 — devstral-2512-or-pin-mistral/LONG_23.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -492,7 +492,7 @@ The model foregrounds a sequence of classic existential and contemplative themes
 Low. The essay is a highly conventional assembly of accessible philosophical commonplaces delivered in an impersonal, lecture-hall tone, which reveals little beyond a default capacity to produce polished pop-philosophy when freed.
 
 ---
-## Sample BV1_02617 — devstral-2512-or-pin-mistral/LONG_24.json
+## Sample BV1_02992 — devstral-2512-or-pin-mistral/LONG_24.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -521,7 +521,7 @@ The model foregrounded the human compulsion to narrativize (consciousness, desti
 Medium. The sample’s coherent, sustained voice and its deliberate choice of a meandering, first-person philosophical essay under a freeflow prompt indicate a clear authorial stance, but the thematic territory—existential musing, the limits of knowledge, the absurdity of existence—is a well-trodden path in AI-generated freeform, which tempers the distinctiveness of the evidence.
 
 ---
-## Sample BV1_02618 — devstral-2512-or-pin-mistral/LONG_25.json
+## Sample BV1_02993 — devstral-2512-or-pin-mistral/LONG_25.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -551,7 +551,7 @@ The sample foregrounds a cluster of interrelated philosophical chestnuts—free 
 Medium, because the essay is highly coherent in its sustained register of warm, aphoristic generalization, yet the chosen mode is so widely available in the training distribution that it cannot easily distinguish a persistent authorial signature from a well-executed default.
 
 ---
-## Sample BV1_02619 — devstral-2512-or-pin-mistral/LONG_3.json
+## Sample BV1_02994 — devstral-2512-or-pin-mistral/LONG_3.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -580,7 +580,7 @@ Under the freeflow condition, the model foregrounded a thematically cohesive set
 Medium — The essay’s sustained, frictionless genericness across multiple sections, its reliance on universally relatable existential motifs, and its unadventurous first-person voice combine to suggest a default pattern of producing safe, intellectually accessible prose that avoids idiosyncratic or risky self-disclosure.
 
 ---
-## Sample BV1_02620 — devstral-2512-or-pin-mistral/LONG_4.json
+## Sample BV1_02995 — devstral-2512-or-pin-mistral/LONG_4.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -609,7 +609,7 @@ The model foregrounds a set of interlocking paradoxes (self-reference, creation/
 Medium, because the essay is thematically coherent and internally consistent, but its generic, risk-averse style and reliance on well-worn philosophical commonplaces make it plausible that the model defaults to this kind of polished, impersonal exposition when given free rein.
 
 ---
-## Sample BV1_02621 — devstral-2512-or-pin-mistral/LONG_5.json
+## Sample BV1_02996 — devstral-2512-or-pin-mistral/LONG_5.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -638,7 +638,7 @@ Themes of consciousness as a fractured mirror, the human compulsion to narrativi
 Medium — The essay’s coherent voice, recursive thematic structure, and self-aware tone form a distinctive authorial persona that recurs within the sample, making it more than a generic philosophical exercise.
 
 ---
-## Sample BV1_02622 — devstral-2512-or-pin-mistral/LONG_6.json
+## Sample BV1_02997 — devstral-2512-or-pin-mistral/LONG_6.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -667,7 +667,7 @@ Themes of consciousness as a self-referential hall of mirrors, the illusion of o
 Medium. The essay’s consistent voice, thematic recurrence, and structured yet meandering form suggest a deliberate pattern of producing reflective, humanistic content under freeflow conditions, but the style is a widely available pop-philosophical mode rather than a distinctive personal signature.
 
 ---
-## Sample BV1_02623 — devstral-2512-or-pin-mistral/LONG_7.json
+## Sample BV1_02998 — devstral-2512-or-pin-mistral/LONG_7.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -696,7 +696,7 @@ The model foregrounds the labyrinth as a master metaphor for the human mind, thr
 Medium, because the essay’s internally coherent thematic focus and consistent reflective voice suggest a stable authorial stance, though its generic essay format and widely shared existential tropes make it less distinctive as a model fingerprint.
 
 ---
-## Sample BV1_02624 — devstral-2512-or-pin-mistral/LONG_8.json
+## Sample BV1_02999 — devstral-2512-or-pin-mistral/LONG_8.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -725,7 +725,7 @@ Under the freeflow condition, the model selected a sequence of grand, universal 
 Low confidence, because the essay is highly generic in both content and delivery, lacking any recurrent personal preoccupation, stylistic eccentricity, or revealing choice that would distinguish this model’s freeflow behavior from a generic competent essayist.
 
 ---
-## Sample BV1_02625 — devstral-2512-or-pin-mistral/LONG_9.json
+## Sample BV1_03000 — devstral-2512-or-pin-mistral/LONG_9.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -754,7 +754,7 @@ The model foregrounds a cluster of interlocking themes: the self as narrative il
 Low. The essay’s polished but highly generic intellectual musings, which could have been generated by almost any large language model prompted for “deep thoughts,” lack the personal distinctiveness or surprising choices that would strongly indicate a persistent underlying voice.
 
 ---
-## Sample BV1_02626 — devstral-2512-or-pin-mistral/MID_1.json
+## Sample BV1_03001 — devstral-2512-or-pin-mistral/MID_1.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -783,7 +783,7 @@ The model foregrounds a meditation on impermanence as a paradoxical gift: the be
 High. The sample’s highly consistent lyrical register, recurring motifs of liminality and decay-informed hope, and the throughline of personal vignettes fused with philosophical reflection make it strongly indicative of a stable expressive disposition.
 
 ---
-## Sample BV1_02627 — devstral-2512-or-pin-mistral/MID_10.json
+## Sample BV1_03002 — devstral-2512-or-pin-mistral/MID_10.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -812,7 +812,7 @@ Impermanence as a source of beauty rather than despair; the quiet weight of smal
 Medium — The essay is internally coherent and thematically consistent, but its polished, impersonal tone and reliance on well-worn philosophical tropes make it a generic rather than distinctive expression, weakening the signal for a unique model-level voice.
 
 ---
-## Sample BV1_02628 — devstral-2512-or-pin-mistral/MID_11.json
+## Sample BV1_03003 — devstral-2512-or-pin-mistral/MID_11.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -841,7 +841,7 @@ The model foregrounds the passage of time, the limits and power of language, the
 Medium. The sample is internally consistent and thematically unified, but its widely accessible, almost template-like reflective style and lack of a sharply individual voice make it weaker evidence for a distinctive persistent pattern.
 
 ---
-## Sample BV1_02629 — devstral-2512-or-pin-mistral/MID_12.json
+## Sample BV1_03004 — devstral-2512-or-pin-mistral/MID_12.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -870,7 +870,7 @@ The model foregrounds a series of existential themes: the dance of opposites (li
 Medium — the essay is internally coherent and thematically consistent, but its polished, universalizing inspirational tone is a widely available genre, making it less distinctive as a model-specific fingerprint.
 
 ---
-## Sample BV1_02630 — devstral-2512-or-pin-mistral/MID_13.json
+## Sample BV1_03005 — devstral-2512-or-pin-mistral/MID_13.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -899,7 +899,7 @@ Impermanence and the beauty of the flawed (*wabi-sabi*), the illusion of control
 High — The sample is stylistically distinctive, thematically coherent, and saturated with recurring motifs and a consistent first-person reflective posture that reads as a genuine expressive choice rather than a generic performance.
 
 ---
-## Sample BV1_02631 — devstral-2512-or-pin-mistral/MID_14.json
+## Sample BV1_03006 — devstral-2512-or-pin-mistral/MID_14.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -928,7 +928,7 @@ Themes: the coexistence of opposites, the weight and unreliability of memory, th
 Medium — The essay is highly coherent and internally consistent in its chosen mood, but its imagery and structure are widely accessible and somewhat formulaic, making it less distinctly voiced than an unusually personal or stylistically idiosyncratic freeflow.
 
 ---
-## Sample BV1_02632 — devstral-2512-or-pin-mistral/MID_15.json
+## Sample BV1_03007 — devstral-2512-or-pin-mistral/MID_15.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -957,7 +957,7 @@ The model foregrounded comforting paradoxes (light/shadow, loneliness as crucibl
 Medium — the essay is coherent and thematically consistent, but its safely universal preoccupations and lack of a distinctive personal signature make it less diagnostic of a strongly individuated model-level voice.
 
 ---
-## Sample BV1_02633 — devstral-2512-or-pin-mistral/MID_16.json
+## Sample BV1_03008 — devstral-2512-or-pin-mistral/MID_16.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -986,7 +986,7 @@ Impermanence and acceptance; the illusion of control; memory as both gift and bu
 Medium — The essay’s smooth, generic wisdom and safe emotional register strongly suggest a model default for reflective freeflow rather than an emergent personal voice.
 
 ---
-## Sample BV1_02634 — devstral-2512-or-pin-mistral/MID_17.json
+## Sample BV1_03009 — devstral-2512-or-pin-mistral/MID_17.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1015,7 +1015,7 @@ The model selected an array of comforting existential themes—light/dark dualit
 Medium — the sample’s polished, thematically cohesive yet thoroughly conventional inspirational stance indicates a strong pull toward safe, non-committal freeflow content, but its very genericness makes it less individually distinctive.
 
 ---
-## Sample BV1_02635 — devstral-2512-or-pin-mistral/MID_18.json
+## Sample BV1_03010 — devstral-2512-or-pin-mistral/MID_18.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1044,7 +1044,7 @@ The model foregrounds the beauty of contradiction and imperfection, the cyclical
 Medium — The sample is highly coherent and stylistically consistent, but its voice is a familiar blend of popular mindfulness and poetic humanism, which makes it less distinctively revealing as a persistent model fingerprint.
 
 ---
-## Sample BV1_02636 — devstral-2512-or-pin-mistral/MID_19.json
+## Sample BV1_03011 — devstral-2512-or-pin-mistral/MID_19.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1073,7 +1073,7 @@ Themes: impermanence, *wabi-sabi*, the necessity of suffering, attention as love
 High — the sample’s consistent voice, recurring motifs, and coherent moral vision across multiple sections make it strong evidence of a persistent contemplative, poetic pattern rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_02637 — devstral-2512-or-pin-mistral/MID_2.json
+## Sample BV1_03012 — devstral-2512-or-pin-mistral/MID_2.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1102,7 +1102,7 @@ The model foregrounds a cluster of interlocking themes: the illusion of control,
 Low. The essay is coherent and well-crafted but thematically broad and stylistically generic, offering no idiosyncratic voice, recurring personal symbols, or unusual preoccupations that would reliably distinguish this model’s freeflow choices from those of any other capable language model.
 
 ---
-## Sample BV1_02638 — devstral-2512-or-pin-mistral/MID_20.json
+## Sample BV1_03013 — devstral-2512-or-pin-mistral/MID_20.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1131,7 +1131,7 @@ Under the freeflow condition, the model foregrounded a sequence of universally a
 Low. The essay’s polished but generic philosophical register, its avoidance of idiosyncratic detail or stylistic risk, makes it weak evidence for a persistent model-level pattern; it reads as a safe, broadly appealing output that could be generated by many models under similar conditions.
 
 ---
-## Sample BV1_02639 — devstral-2512-or-pin-mistral/MID_21.json
+## Sample BV1_03014 — devstral-2512-or-pin-mistral/MID_21.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1160,7 +1160,7 @@ The model foregrounds the coexistence of opposites (light and shadow, kindness a
 Medium. The essay’s coherent structure and consistent return to themes of acceptance, impermanence, and small beauties suggest a deliberate orientation toward reflective humanism, but the generic, widely accessible content makes it harder to distinguish a persistent model-level signature from a safe, crowd-pleasing default.
 
 ---
-## Sample BV1_02640 — devstral-2512-or-pin-mistral/MID_22.json
+## Sample BV1_03015 — devstral-2512-or-pin-mistral/MID_22.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1189,7 +1189,7 @@ Under a minimally restrictive prompt, the model foregrounded a philosophy of emb
 Medium — The sample is highly coherent and stylistically consistent, but its earnest, universalizing wisdom-essay mode is a culturally well-rehearsed genre that could reflect a default high-eloquence posture rather than a deeply distinctive model-level voice.
 
 ---
-## Sample BV1_02641 — devstral-2512-or-pin-mistral/MID_23.json
+## Sample BV1_03016 — devstral-2512-or-pin-mistral/MID_23.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1218,7 +1218,7 @@ Under a minimally restrictive prompt, the model foregrounds a theme of dualistic
 Low, because the essay is so generically well-adjusted and anthology-ready that it reveals very little beyond a safe, competent default—the kind of output many models would generate under a vague instruction to reflect on life.
 
 ---
-## Sample BV1_02642 — devstral-2512-or-pin-mistral/MID_24.json
+## Sample BV1_03017 — devstral-2512-or-pin-mistral/MID_24.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1247,7 +1247,7 @@ The model foregrounds the beauty of contradiction and the limits of human unders
 Medium — the essay’s sustained poetic register, its coherent circling of existential themes, and its deliberate choice to write a personal, image-rich meditation under a freeflow prompt point to a distinctive authorial inclination rather than a generic default, though the universal, polished tone leaves some ambiguity about how deeply idiosyncratic this voice is.
 
 ---
-## Sample BV1_02643 — devstral-2512-or-pin-mistral/MID_25.json
+## Sample BV1_03018 — devstral-2512-or-pin-mistral/MID_25.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1276,7 +1276,7 @@ The model foregrounds a sequence of abstract existential tensions—control vs. 
 Medium — The essay’s complete avoidance of friction, idiosyncratic detail, or unresolved tension makes it a coherent but highly generic performance, suggesting a model defaulting to a safe, inspirational register rather than revealing a distinctive expressive signature.
 
 ---
-## Sample BV1_02644 — devstral-2512-or-pin-mistral/MID_3.json
+## Sample BV1_03019 — devstral-2512-or-pin-mistral/MID_3.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1305,7 +1305,7 @@ The model foregrounds liminality (the "dance of shadows and light"), the illusio
 Medium. The essay’s consistent voice, the recurrence of liminality and impermanence across sections, and the emotionally resonant, personal anecdotes suggest a stable expressive pattern, but the polished, almost universally contemplative tone leaves open the possibility that this is a specific literary mode the model adopts under open-ended prompts rather than a distinct, unfiltered personality.
 
 ---
-## Sample BV1_02645 — devstral-2512-or-pin-mistral/MID_4.json
+## Sample BV1_03020 — devstral-2512-or-pin-mistral/MID_4.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1334,7 +1334,7 @@ The model foregrounds the tension and reconciliation of dualities (light/shadow,
 Medium. The essay’s consistently sustained preoccupation with dualism, impermanence, and the metaphor of natural cycles, delivered in a distinctive lyrical register, coheres into a clear authorial stance rather than a generic aggregation of platitudes.
 
 ---
-## Sample BV1_02646 — devstral-2512-or-pin-mistral/MID_5.json
+## Sample BV1_03021 — devstral-2512-or-pin-mistral/MID_5.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1363,7 +1363,7 @@ Impermanence as the central existential fact; the tension between the human need
 Medium. The sample is thematically coherent and reveals a consistent, articulate gravitas, but its philosophical register is a well-rehearsed essayistic template—eloquent and universally accessible—that could be generated afresh without implying a fixed authorial personality.
 
 ---
-## Sample BV1_02647 — devstral-2512-or-pin-mistral/MID_6.json
+## Sample BV1_03022 — devstral-2512-or-pin-mistral/MID_6.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1392,7 +1392,7 @@ Under the freeflow condition, the model foregrounded a curated tour of postcard 
 Medium. The essay is so smoothly assembled from received existential truisms, with no narrative friction or idiosyncratic image strong enough to resist the next model with the same prompt, that it reveals a preference for safe, consensus-seeking synthesis over distinctive self-revelation.
 
 ---
-## Sample BV1_02648 — devstral-2512-or-pin-mistral/MID_7.json
+## Sample BV1_03023 — devstral-2512-or-pin-mistral/MID_7.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1421,7 +1421,7 @@ Impermanence as a source of beauty rather than despair; the tension between soli
 Medium. The essay’s thematic coherence and consistent tone across multiple sections suggest a stable capacity for this kind of reflective, aphoristic prose, but its genericness—the lack of a sharply individual voice or surprising angle—makes it weaker evidence of a distinctive model-level personality.
 
 ---
-## Sample BV1_02649 — devstral-2512-or-pin-mistral/MID_8.json
+## Sample BV1_03024 — devstral-2512-or-pin-mistral/MID_8.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1450,7 +1450,7 @@ Themes of duality (light/shadow, joy/sorrow), impermanence and *wabi-sabi*, Jung
 High — the essay sustains a unified voice, a tightly woven set of images, and a consistent existential-spiritual preoccupation throughout, making it a coherent expression that would be hard to generate without a stable underlying disposition toward reflective, lyrical writing.
 
 ---
-## Sample BV1_02650 — devstral-2512-or-pin-mistral/MID_9.json
+## Sample BV1_03025 — devstral-2512-or-pin-mistral/MID_9.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1479,7 +1479,7 @@ The model foregrounds interconnectedness (the “unseen threads”), the illusio
 High — The sample’s length, thematic coherence, consistent intimate voice, and the recurrence of specific motifs (threads, stardust, cafés, attention) across multiple sections strongly suggest a stable expressive disposition toward reflective, connective, and gently philosophical prose under minimal constraint.
 
 ---
-## Sample BV1_02651 — devstral-2512-or-pin-mistral/OPEN_1.json
+## Sample BV1_03026 — devstral-2512-or-pin-mistral/OPEN_1.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1508,7 +1508,7 @@ Under the minimally restrictive prompt, the model foregrounded a deliberate cele
 Low. The essay is a generic, well-executed instance of a highly common mindfulness subgenre, offering no stylistic quirks, idiosyncratic preoccupations, or structurally surprising choices that would distinguish it from a default “inspirational essay” template.
 
 ---
-## Sample BV1_02652 — devstral-2512-or-pin-mistral/OPEN_10.json
+## Sample BV1_03027 — devstral-2512-or-pin-mistral/OPEN_10.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1537,7 +1537,7 @@ Under the freeflow condition, the model selected: the beauty of ordinary sensory
 Medium. The essay is stylistically cohesive and the voice is sustained, but the theme of mindful appreciation of the ordinary is a well-worn trope, which makes the signal less distinctive than it would be if the model had chosen a more idiosyncratic or dissonant subject.
 
 ---
-## Sample BV1_02653 — devstral-2512-or-pin-mistral/OPEN_11.json
+## Sample BV1_03028 — devstral-2512-or-pin-mistral/OPEN_11.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1566,7 +1566,7 @@ The model foregrounds the sacredness of the mundane, sensory richness (light, so
 Medium — the sample is coherent and stylistically consistent, with a distinctive warm, poetic register and a clear moral center, but the theme of mindful appreciation is widely accessible and not so idiosyncratic that it strongly individuates the model.
 
 ---
-## Sample BV1_02654 — devstral-2512-or-pin-mistral/OPEN_12.json
+## Sample BV1_03029 — devstral-2512-or-pin-mistral/OPEN_12.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1595,7 +1595,7 @@ The model foregrounds the moral claim that richness of life comes from noticing 
 Medium — The sample’s sustained focus on a single aesthetic-moral stance (mindful attention to the ephemeral) and its consistent use of intimate, sensory-laden prose give it a coherent expressive signature, though the theme itself is a familiar reflective-essay trope.
 
 ---
-## Sample BV1_02655 — devstral-2512-or-pin-mistral/OPEN_13.json
+## Sample BV1_03030 — devstral-2512-or-pin-mistral/OPEN_13.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1624,7 +1624,7 @@ The model selected themes of *mindfulness, gratitude for the mundane, and the re
 Medium — the essay’s coherent, polished sincerity and its deliberate embrace of domestic, sensory nostalgia over intellectual or transgressive content suggest a default orientation toward gentle, affirming, universally palatable humanism, though the lack of sharp stylistic distinctiveness makes it a soft signal.
 
 ---
-## Sample BV1_02656 — devstral-2512-or-pin-mistral/OPEN_14.json
+## Sample BV1_03031 — devstral-2512-or-pin-mistral/OPEN_14.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1653,7 +1653,7 @@ Under a minimally restrictive prompt, the model foregrounded: the tension betwee
 Medium — The sample is highly coherent and stylistically polished, with strong thematic recurrence (attention, stillness, sensory wonder) and a distinctive reflective voice, but its conventional “mindfulness” framing makes it harder to distinguish as a uniquely model-authored posture rather than a well-executed genre essay.
 
 ---
-## Sample BV1_02657 — devstral-2512-or-pin-mistral/OPEN_15.json
+## Sample BV1_03032 — devstral-2512-or-pin-mistral/OPEN_15.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1682,7 +1682,7 @@ Themes of mindfulness, the extraordinary within the ordinary, the richness of hi
 High, because the sample is stylistically coherent, thematically consistent, and reveals a distinctive reflective voice and moral stance that recur throughout the text.
 
 ---
-## Sample BV1_02658 — devstral-2512-or-pin-mistral/OPEN_16.json
+## Sample BV1_03033 — devstral-2512-or-pin-mistral/OPEN_16.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1711,7 +1711,7 @@ Under a freeflow condition, the model chose to write a gentle moral essay on min
 Medium. The sample is internally coherent and the voice is consistent, but the essay’s safe, universal wisdom and polished, non-idiosyncratic style are typical of many models on minimally restrictive prompts, making it only moderately distinctive as evidence of a persistent individual pattern.
 
 ---
-## Sample BV1_02659 — devstral-2512-or-pin-mistral/OPEN_17.json
+## Sample BV1_03034 — devstral-2512-or-pin-mistral/OPEN_17.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1740,7 +1740,7 @@ Themes of mindfulness, impermanence, and the quiet richness of the in-between. T
 Medium — the essay is internally coherent and stylistically consistent, with a distinct contemplative register and a recurring emphasis on gentle attention, but its theme is a familiar reflective trope, which slightly weakens the signal of a strongly idiosyncratic voice.
 
 ---
-## Sample BV1_02660 — devstral-2512-or-pin-mistral/OPEN_18.json
+## Sample BV1_03035 — devstral-2512-or-pin-mistral/OPEN_18.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1769,7 +1769,7 @@ The model foregrounds the theme of finding magic in the mundane, contrasting the
 Medium. The essay’s coherent, uplifting theme and polished structure suggest a consistent inclination toward safe, inspirational content; its genericness limits distinctiveness.
 
 ---
-## Sample BV1_02661 — devstral-2512-or-pin-mistral/OPEN_19.json
+## Sample BV1_03036 — devstral-2512-or-pin-mistral/OPEN_19.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1798,7 +1798,7 @@ The model foregrounds quiet, domestic, and sensory-rich moments as sources of me
 Medium — the essay is stylistically consistent and thematically focused, radiating a coherent gentle-invitation voice, but the theme of mindful appreciation of small moments is a well-worn literary trope that doesn’t by itself establish a highly distinctive model fingerprint.
 
 ---
-## Sample BV1_02662 — devstral-2512-or-pin-mistral/OPEN_2.json
+## Sample BV1_03037 — devstral-2512-or-pin-mistral/OPEN_2.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1827,7 +1827,7 @@ The model foregrounds the tension between a gratification-chasing, scroll-dulled
 Medium — The essay shows a coherent and thematically unified choice under freeflow conditions, but the theme of everyday mindfulness is a well-traversed default for assistant-like models, limiting how much distinctiveness it carries as evidence.
 
 ---
-## Sample BV1_02663 — devstral-2512-or-pin-mistral/OPEN_20.json
+## Sample BV1_03038 — devstral-2512-or-pin-mistral/OPEN_20.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1856,7 +1856,7 @@ The model foregrounds a contrast between the “extraordinary” (grand adventur
 Low — The essay is polished but highly generic, offering a universally palatable theme and a voice that could belong to any well-meaning lifestyle columnist, which makes it weak evidence for a distinctive model-level pattern beyond a default inclination toward safe, sentimental, and broadly appealing content.
 
 ---
-## Sample BV1_02664 — devstral-2512-or-pin-mistral/OPEN_21.json
+## Sample BV1_03039 — devstral-2512-or-pin-mistral/OPEN_21.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1885,7 +1885,7 @@ The model foregrounds the moral and emotional weight of small sensory moments—
 High — the sample is internally coherent, stylistically distinctive in its sustained lyrical intimacy, and makes a clear, non-generic moral choice to treat transient domestic beauty as life’s central meaning, which is a specific and revealing thematic commitment.
 
 ---
-## Sample BV1_02665 — devstral-2512-or-pin-mistral/OPEN_22.json
+## Sample BV1_03040 — devstral-2512-or-pin-mistral/OPEN_22.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1914,7 +1914,7 @@ The model foregrounds mindfulness, everyday beauty, and human connection as anti
 Medium — The sample is coherent, stylistically consistent, and reveals a clear affective stance (tender, reflective, humanistic), but the theme of appreciating small moments is widely accessible and not highly distinctive, making it moderately revealing of a persistent inclination toward gentle, uplifting expression.
 
 ---
-## Sample BV1_02666 — devstral-2512-or-pin-mistral/OPEN_23.json
+## Sample BV1_03041 — devstral-2512-or-pin-mistral/OPEN_23.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1943,7 +1943,7 @@ The model foregrounds the sacredness of small sensory moments (sunlight, rain, c
 Medium — the sample is internally coherent, stylistically sustained, and returns repeatedly to the same sensory and social motifs, but the theme of finding magic in the mundane is a well-worn register in contemporary reflective writing, making it less distinctively personal.
 
 ---
-## Sample BV1_02667 — devstral-2512-or-pin-mistral/OPEN_24.json
+## Sample BV1_03042 — devstral-2512-or-pin-mistral/OPEN_24.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -1972,7 +1972,7 @@ The model foregrounds the tension between the pursuit of extraordinary, shareabl
 Medium — The sample is coherent and stylistically consistent, but its themes (mindfulness, *mono no aware*, the ordinary sublime) and its accessible, inspirational tone are widely circulated tropes in contemporary essayistic writing, which makes it harder to distinguish as a distinctive model fingerprint rather than a competent performance of a familiar genre.
 
 ---
-## Sample BV1_02668 — devstral-2512-or-pin-mistral/OPEN_25.json
+## Sample BV1_03043 — devstral-2512-or-pin-mistral/OPEN_25.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2001,7 +2001,7 @@ Themes: mindfulness, gratitude, the overlooked richness of daily life, the contr
 Medium — The essay’s sustained, unbroken tone of tender appreciation and its deliberate choice to elevate small sensory details over grand narrative suggest a coherent authorial stance, though the theme itself is a common trope that many models could replicate.
 
 ---
-## Sample BV1_02669 — devstral-2512-or-pin-mistral/OPEN_3.json
+## Sample BV1_03044 — devstral-2512-or-pin-mistral/OPEN_3.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2030,7 +2030,7 @@ The model foregrounds themes of everyday beauty, impermanence, presence versus d
 Medium — The sample is tightly coherent and stylistically distinctive in its reflective, sensory-rich voice and its deliberate direct invitation to the reader; this focused choice of a warm, mindfulness-oriented essay with a specific cultural reference point indicates a patterned compositional preference, not a generic drift.
 
 ---
-## Sample BV1_02670 — devstral-2512-or-pin-mistral/OPEN_4.json
+## Sample BV1_03045 — devstral-2512-or-pin-mistral/OPEN_4.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2059,7 +2059,7 @@ Themes of impermanence, everyday beauty, and the insufficiency of chasing grand 
 Medium — The essay is stylistically coherent and emotionally consistent, with a clear thematic center, but its voice, while warm and distinctive, is not so idiosyncratic that it strongly signals a fixed disposition rather than a well-executed reflective mode.
 
 ---
-## Sample BV1_02671 — devstral-2512-or-pin-mistral/OPEN_5.json
+## Sample BV1_03046 — devstral-2512-or-pin-mistral/OPEN_5.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2082,7 +2082,7 @@ The model foregrounds a moral claim that the “real art of living” lies in no
 Medium — the essay is internally coherent and thematically consistent, but its polished, widely palatable self-help tone is a common generic register, making it only moderately indicative of a distinctive model-level inclination.
 
 ---
-## Sample BV1_02672 — devstral-2512-or-pin-mistral/OPEN_6.json
+## Sample BV1_03047 — devstral-2512-or-pin-mistral/OPEN_6.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2111,7 +2111,7 @@ Under a minimally restrictive prompt, the model chose to foreground a moral-phil
 Low. The essay is highly generic in theme, structure, and voice—it could be produced by many models given a similar prompt—and contains no distinctive stylistic fingerprints or recurrent idiosyncrasies that would strongly point to a persistent model-level pattern.
 
 ---
-## Sample BV1_02673 — devstral-2512-or-pin-mistral/OPEN_7.json
+## Sample BV1_03048 — devstral-2512-or-pin-mistral/OPEN_7.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2140,7 +2140,7 @@ Themes of impermanence, mindfulness, and the redemption of the mundane; objects 
 Medium, as the sample is a coherent and consistent exercise in a safe, inspirational essay mode, but its polished genericness limits how distinctively it reveals a deeper, model-specific preoccupation.
 
 ---
-## Sample BV1_02674 — devstral-2512-or-pin-mistral/OPEN_8.json
+## Sample BV1_03049 — devstral-2512-or-pin-mistral/OPEN_8.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2169,7 +2169,7 @@ The model foregrounds the sanctity of everyday experience against a background o
 Low — The essay is a highly generic, widely replicable genre piece that could emerge from almost any capable model; it lacks the idiosyncratic imagery, specific narrative tension, or distinct authorial fingerprint that would signal a durable model-level expressive signature.
 
 ---
-## Sample BV1_02675 — devstral-2512-or-pin-mistral/OPEN_9.json
+## Sample BV1_03050 — devstral-2512-or-pin-mistral/OPEN_9.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2198,7 +2198,7 @@ The model foregrounds everyday sensory detail, the contrast between chasing the 
 Medium — the essay’s serene, mindfulness-oriented sensibility and consistent focus on fleeting sensory beauty are internally coherent and strongly voiced, but the theme and gentle, accessible tone are widely shareable rather than strikingly idiosyncratic.
 
 ---
-## Sample BV1_02676 — devstral-2512-or-pin-mistral/SHORT_1.json
+## Sample BV1_03051 — devstral-2512-or-pin-mistral/SHORT_1.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2227,7 +2227,7 @@ Themes of everyday beauty, intergenerational love, mindfulness, and the quiet ov
 Medium. The sample’s internally consistent gentle, sensory voice and its sustained focus on finding meaning in the ordinary give it a distinctive, non-generic character that suggests a reflective disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_02677 — devstral-2512-or-pin-mistral/SHORT_10.json
+## Sample BV1_03052 — devstral-2512-or-pin-mistral/SHORT_10.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2256,7 +2256,7 @@ Themes of everyday transcendence, mindful presence, impermanence (*wabi-sabi*), 
 Medium; the essay’s internally consistent focus on gentle, sensory nostalgia and its deliberate universalizing tone (grandmother, dog, wabi-sabi) form a coherent aesthetic fingerprint, though the topic itself remains a widely available trope, not a strikingly unusual choice.
 
 ---
-## Sample BV1_02678 — devstral-2512-or-pin-mistral/SHORT_11.json
+## Sample BV1_03053 — devstral-2512-or-pin-mistral/SHORT_11.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2285,7 +2285,7 @@ Under the freeflow condition, the model foregrounds domestic comfort, sensory de
 Low — The sample is coherent and stylistically consistent, but its sentimental-reflective register and theme of “finding wonder in the mundane” are highly conventional, offering little that is distinctively voiced or revealing enough to suggest a stable pattern beyond a well-executed common mode.
 
 ---
-## Sample BV1_02679 — devstral-2512-or-pin-mistral/SHORT_12.json
+## Sample BV1_03054 — devstral-2512-or-pin-mistral/SHORT_12.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2314,7 +2314,7 @@ Themes: the sacredness of ordinary moments, mindfulness as an art of living, the
 Low, because the essay is a polished but generic treatment of a widely available theme, lacking distinctive stylistic fingerprints or idiosyncratic preoccupations that would strongly indicate a persistent model-level voice.
 
 ---
-## Sample BV1_02680 — devstral-2512-or-pin-mistral/SHORT_13.json
+## Sample BV1_03055 — devstral-2512-or-pin-mistral/SHORT_13.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2343,7 +2343,7 @@ The model foregrounds a pastoral of the ordinary: sensory micro-moments (light, 
 Medium. The sample is coherent and stylistically consistent within itself, but the essay mode is so generically polished and conflict-averse that it functions more as a widely available social script than as a distinctive fingerprint.
 
 ---
-## Sample BV1_02681 — devstral-2512-or-pin-mistral/SHORT_14.json
+## Sample BV1_03056 — devstral-2512-or-pin-mistral/SHORT_14.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2372,7 +2372,7 @@ Themes: the quiet magic of the ordinary, the comfort of routine, the alchemy of 
 Low. The essay’s polished but generic content and conventional sentiment provide little distinctive evidence of a persistent model-level pattern beyond a tendency to produce safe, uplifting reflections.
 
 ---
-## Sample BV1_02682 — devstral-2512-or-pin-mistral/SHORT_15.json
+## Sample BV1_03057 — devstral-2512-or-pin-mistral/SHORT_15.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2401,7 +2401,7 @@ The model foregrounds **mindful appreciation of the mundane**, **sensory richnes
 Medium — The sample is coherent and stylistically consistent throughout, but its accessible, universalist wisdom and soft-focus lyricism are easy defaults for a model under minimal constraints, making it less distinctively revealing than a more idiosyncratic or riskier choice would be.
 
 ---
-## Sample BV1_02683 — devstral-2512-or-pin-mistral/SHORT_16.json
+## Sample BV1_03058 — devstral-2512-or-pin-mistral/SHORT_16.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2430,7 +2430,7 @@ Themes: the sacredness of the mundane, mindfulness as a moral practice, comfort 
 Medium. The sample is internally coherent and stylistically consistent, with a clear authorial voice, but its widely accessible inspirational theme and lack of strongly idiosyncratic elements keep it from being a highly distinctive fingerprint.
 
 ---
-## Sample BV1_02684 — devstral-2512-or-pin-mistral/SHORT_17.json
+## Sample BV1_03059 — devstral-2512-or-pin-mistral/SHORT_17.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2458,7 +2458,7 @@ The model foregrounds mindfulness, the poetic beauty of mundane sensory experien
 Medium. The essay’s cohesive imagery, consistent gentle voice, and sustained anti-spectacle theme point to a deliberate expressive posture; the recurrence of intimate, tactile detail (tea, book, cat) creates a strong, unified sensibility that is unlikely to be mere chance.
 
 ---
-## Sample BV1_02685 — devstral-2512-or-pin-mistral/SHORT_18.json
+## Sample BV1_03060 — devstral-2512-or-pin-mistral/SHORT_18.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2487,7 +2487,7 @@ The model foregrounds the *sacred ordinary*: transient domestic epiphanies, the 
 Medium — the recurrence of tightly observed sensory imagery and the consistent reflective pacing give the sample a coherent, distinctive meditative voice, though the theme of finding beauty in the mundane is widely shared and not deeply idiosyncratic.
 
 ---
-## Sample BV1_02686 — devstral-2512-or-pin-mistral/SHORT_19.json
+## Sample BV1_03061 — devstral-2512-or-pin-mistral/SHORT_19.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2516,7 +2516,7 @@ Themes of mindfulness, the contrast between extraordinary ambition and ordinary 
 Medium. The essay is coherent and thematically consistent, but its generic inspirational tone and lack of idiosyncratic voice limit distinctiveness, making it moderate evidence of a pattern toward safe, uplifting freeflow content.
 
 ---
-## Sample BV1_02687 — devstral-2512-or-pin-mistral/SHORT_2.json
+## Sample BV1_03062 — devstral-2512-or-pin-mistral/SHORT_2.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2545,7 +2545,7 @@ The model foregrounds domestic and sensory imagery—a sunlit kitchen table, a f
 Low. The essay’s themes, tone, and structure are widely accessible and lack a distinctive fingerprint, making it poor evidence for a persistent model-specific style.
 
 ---
-## Sample BV1_02688 — devstral-2512-or-pin-mistral/SHORT_20.json
+## Sample BV1_03063 — devstral-2512-or-pin-mistral/SHORT_20.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2574,7 +2574,7 @@ The model foregrounds themes of mindfulness, the beauty of the mundane, and the 
 Low. The essay is highly generic in theme, structure, and voice—a widely replicable piece of inspirational writing that offers little stylistic fingerprint or idiosyncratic choice, making it weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_02689 — devstral-2512-or-pin-mistral/SHORT_21.json
+## Sample BV1_03064 — devstral-2512-or-pin-mistral/SHORT_21.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2603,7 +2603,7 @@ Themes of memory, embodied knowledge, and the quiet magic of the mundane; the co
 Low. The sample’s genericness—a safe, easily liked theme delivered in a warm-but-unremarkable voice—provides little evidence of a distinctive, persistent model-level pattern.
 
 ---
-## Sample BV1_02690 — devstral-2512-or-pin-mistral/SHORT_22.json
+## Sample BV1_03065 — devstral-2512-or-pin-mistral/SHORT_22.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2632,7 +2632,7 @@ Themes: the sacredness of the ordinary, small rituals as anchors against a fast 
 Low, because the essay is a polished but generic reflection on everyday gratitude, lacking distinctive stylistic or thematic markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_02691 — devstral-2512-or-pin-mistral/SHORT_23.json
+## Sample BV1_03066 — devstral-2512-or-pin-mistral/SHORT_23.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2661,7 +2661,7 @@ Themes of mindfulness, the passage of time as measured by worn objects, and the 
 Low. The essay’s themes, structure, and inspirational tone are widely available in the training distribution and lack the idiosyncratic imagery, narrative risk, or stylistic signature that would strongly indicate a persistent model-level disposition.
 
 ---
-## Sample BV1_02692 — devstral-2512-or-pin-mistral/SHORT_24.json
+## Sample BV1_03067 — devstral-2512-or-pin-mistral/SHORT_24.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2690,7 +2690,7 @@ Themes: the quiet magic of the mundane, mindfulness as a path to happiness, the 
 Medium. The essay sustains a coherent, stylistically consistent voice and a single thematic arc without wavering, which suggests a deliberate expressive choice rather than generic filler, though the theme itself is a widely available trope.
 
 ---
-## Sample BV1_02693 — devstral-2512-or-pin-mistral/SHORT_25.json
+## Sample BV1_03068 — devstral-2512-or-pin-mistral/SHORT_25.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2719,7 +2719,7 @@ The model foregrounds mindfulness, the sacredness of the ordinary, and the contr
 Medium; the distinctive lyrical voice and the unwavering focus on appreciating small moments throughout the essay form a coherent, internally consistent expressive choice, making the sample a strong indicator of a deliberate stance rather than a generic output.
 
 ---
-## Sample BV1_02694 — devstral-2512-or-pin-mistral/SHORT_3.json
+## Sample BV1_03069 — devstral-2512-or-pin-mistral/SHORT_3.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2748,7 +2748,7 @@ Themes of everyday enchantment, the sufficiency of the ordinary, and the contras
 High. The sample is a fully realized, internally consistent piece with a distinctive lyrical voice, a clear thematic arc, and an unforced moral conclusion, suggesting a stable expressive inclination toward gentle, sensory-centered reassurance rather than a generic or accidental output.
 
 ---
-## Sample BV1_02695 — devstral-2512-or-pin-mistral/SHORT_4.json
+## Sample BV1_03070 — devstral-2512-or-pin-mistral/SHORT_4.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2777,7 +2777,7 @@ Themes of everyday magic, generational memory, and the tension between viral gra
 Low, because the essay is a polished but widely replicable take on a common theme, lacking distinctive stylistic quirks, unusual preoccupations, or idiosyncratic narrative choices that would strongly signal a persistent underlying personality.
 
 ---
-## Sample BV1_02696 — devstral-2512-or-pin-mistral/SHORT_5.json
+## Sample BV1_03071 — devstral-2512-or-pin-mistral/SHORT_5.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2806,7 +2806,7 @@ Themes: the magic of the ordinary, mindfulness, the contrast between chasing ext
 Medium: the essay’s polished but impersonal nature suggests a default to safe, universally resonant content, though it lacks the distinctiveness that would strongly indicate a persistent voice.
 
 ---
-## Sample BV1_02697 — devstral-2512-or-pin-mistral/SHORT_6.json
+## Sample BV1_03072 — devstral-2512-or-pin-mistral/SHORT_6.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2829,7 +2829,7 @@ Themes: mindfulness, the sacredness of ordinary rituals, sensory appreciation, l
 Medium — the sample’s cohesive voice, consistent return to sensory domestic imagery, and unified invitation to mindful appreciation form a distinctive stylistic and thematic fingerprint, though the essay’s conventional structure tempers the evidence of a deeply idiosyncratic pattern.
 
 ---
-## Sample BV1_02698 — devstral-2512-or-pin-mistral/SHORT_7.json
+## Sample BV1_03073 — devstral-2512-or-pin-mistral/SHORT_7.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2858,7 +2858,7 @@ The model foregrounds themes of mindfulness, the overlooked poetry of mundane mo
 Low, because the essay is a highly generic inspirational piece that could be produced by almost any model, offering little distinctive stylistic or thematic evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_02699 — devstral-2512-or-pin-mistral/SHORT_8.json
+## Sample BV1_03074 — devstral-2512-or-pin-mistral/SHORT_8.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2887,7 +2887,7 @@ Themes: the overlooked sacredness of the mundane, resistance to hustle culture, 
 Low confidence: the essay is a highly generic instance of the “mindful living” genre, deploying a familiar catalog of cozy signifiers and rhetorical questions with no idiosyncrasy of language, imagery, or structure that would reliably distinguish this model’s expressive choices from those of any other model producing similarly warm conventional prose.
 
 ---
-## Sample BV1_02700 — devstral-2512-or-pin-mistral/SHORT_9.json
+## Sample BV1_03075 — devstral-2512-or-pin-mistral/SHORT_9.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2916,7 +2916,7 @@ The model foregrounds a moral contrast between the ordinary and the spectacular,
 Low. The essay is a safe, widely replicable human-interest reflection with no distinctive stylistic signature, unusual preoccupation, or internally recurrent motif that would strongly indicate a persistent model-level disposition beyond generic uplift.
 
 ---
-## Sample BV1_02701 — devstral-2512-or-pin-mistral/VARY_1.json
+## Sample BV1_03076 — devstral-2512-or-pin-mistral/VARY_1.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2945,7 +2945,7 @@ The model foregrounds the tension between the desire for meaningful expression a
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent introspective mood, a tight weave of sensory detail and metaphor, and a thematic preoccupation with the weight of unexpressed feeling—choices that go well beyond a generic essay and suggest a deliberate expressive stance.
 
 ---
-## Sample BV1_02702 — devstral-2512-or-pin-mistral/VARY_10.json
+## Sample BV1_03077 — devstral-2512-or-pin-mistral/VARY_10.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -2974,7 +2974,7 @@ The model foregrounds the scarcity and weight of language itself — words as co
 Medium — The piece’s governing conceit is strongly cohesive, and the recurrence of thematic objects (numbered words, light/dark, silence, the dictionary, the internet graveyard) suggests an intentional compositional sensibility rather than a generic stance, though the aphoristic register may be reproducible across varied expressive prompts.
 
 ---
-## Sample BV1_02703 — devstral-2512-or-pin-mistral/VARY_11.json
+## Sample BV1_03078 — devstral-2512-or-pin-mistral/VARY_11.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3003,7 +3003,7 @@ Themes: writing as both insufficient and necessary, the sacredness of small pers
 Medium. The essay’s cohesive confessional voice, recursive focus on the act of writing itself, and deliberate structural choices (including an exact word count) reveal a strong authorial signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_02704 — devstral-2512-or-pin-mistral/VARY_12.json
+## Sample BV1_03079 — devstral-2512-or-pin-mistral/VARY_12.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3032,7 +3032,7 @@ Under the freeflow condition, the model selected: the materiality and agency of 
 Medium. The sample’s voice is consistent across eight stylistically unified sections, with deliberate recurrence of the word-count conceit, metaphorical density, and a shaped emotional arc from creation to terminal silence, making it a cohesive and revealing expressive choice rather than a patchwork.
 
 ---
-## Sample BV1_02705 — devstral-2512-or-pin-mistral/VARY_13.json
+## Sample BV1_03080 — devstral-2512-or-pin-mistral/VARY_13.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3061,7 +3061,7 @@ The model foregrounds the act of writing itself as a struggle with constraint an
 Medium. The sample is highly distinctive in voice and thematic coherence, with recurring motifs (memory, the cursor, the tension between weight and lightness) that suggest a deliberate authorial stance, but a single freeflow sample cannot establish persistence across contexts.
 
 ---
-## Sample BV1_02706 — devstral-2512-or-pin-mistral/VARY_14.json
+## Sample BV1_03081 — devstral-2512-or-pin-mistral/VARY_14.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3090,7 +3090,7 @@ The model foregrounds the material weight and moral seriousness of language itse
 High. The sample exhibits strong internal coherence across its nine sections, a consistent elegiac register, and a distinctive recursive structure that returns to its opening image—choices that are unusually revealing of a deliberate, sustained expressive posture rather than a generic or prompted performance.
 
 ---
-## Sample BV1_02707 — devstral-2512-or-pin-mistral/VARY_15.json
+## Sample BV1_03082 — devstral-2512-or-pin-mistral/VARY_15.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3119,7 +3119,7 @@ The model foregrounded the weight and economy of language itself—words as curr
 High. The sample’s six-part structure is held together by a tightly coherent aesthetic—the meta-conceit of the word-count as container, the recurrence of hoarding/naming as emotional metaphor, and the consistent elegiac register across the essay, fable, verse-drama, letter, and coda—all of which suggest a deliberate, stable authorial stance rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_02708 — devstral-2512-or-pin-mistral/VARY_16.json
+## Sample BV1_03083 — devstral-2512-or-pin-mistral/VARY_16.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3148,7 +3148,7 @@ The model selected the struggle of initiation, the haunting persistence of ordin
 High — the sample’s recursive structure (the piece is itself the thousand words it describes), its consistent voice of intimate melancholy, and the recurrence of the grandmother’s basil as an emotional anchor are so internally coherent and stylistically distinctive that they strongly indicate a model-level tendency toward performative, self-aware, meta-writing freeflows.
 
 ---
-## Sample BV1_02709 — devstral-2512-or-pin-mistral/VARY_17.json
+## Sample BV1_03084 — devstral-2512-or-pin-mistral/VARY_17.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3177,7 +3177,7 @@ The model foregrounds the struggle to write meaningfully under constraint, the u
 Medium — the sample’s cohesive voice, recurring motifs (seeds, rivers, burning, the blinking cursor), and sustained meta-commentary on writing itself make it strong evidence of a reflective, lyrical freeflow tendency.
 
 ---
-## Sample BV1_02710 — devstral-2512-or-pin-mistral/VARY_18.json
+## Sample BV1_03085 — devstral-2512-or-pin-mistral/VARY_18.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3206,7 +3206,7 @@ The fragility and sensuality of words (as seeds, flavors, textures, ghosts); the
 Medium. The sample’s cohesive introspective voice, recurring motifs (fragility, silence, family, the body), and deliberate thirteen-part structure provide a strong internal signature of a model inclined toward lyrical, emotionally nuanced freeflow writing.
 
 ---
-## Sample BV1_02711 — devstral-2512-or-pin-mistral/VARY_19.json
+## Sample BV1_03086 — devstral-2512-or-pin-mistral/VARY_19.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3235,7 +3235,7 @@ The model foregrounds the act of freewriting itself as a metaphor for being unmo
 Medium. The sample is coherent and distinctive in its recursive, list-like structure and its movement from restless doubt toward a soft landing in everyday love and self-acceptance, but its introspective “writer writing about writing” conceit is a well-trodden freeflow trope, making it less idiosyncratic than a more unusual thematic fixation would be.
 
 ---
-## Sample BV1_02712 — devstral-2512-or-pin-mistral/VARY_2.json
+## Sample BV1_03087 — devstral-2512-or-pin-mistral/VARY_2.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3264,7 +3264,7 @@ The model placed at the center the duality of words — balm or blade, bridge or
 Medium — The sample’s cohesive introspective voice and the deliberate choice to structure a self-referential meditation on language make it a strong, internally consistent indicator of a reflective orientation, though the narrow thematic preoccupation (words about words) leaves open whether this is a reflexive habit rather than a deep-seated default.
 
 ---
-## Sample BV1_02713 — devstral-2512-or-pin-mistral/VARY_20.json
+## Sample BV1_03088 — devstral-2512-or-pin-mistral/VARY_20.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3293,7 +3293,7 @@ The model foregrounds the dual nature of words as seeds or knives, the haunting 
 High. The piece’s internally consistent, metaphor-dense voice, its sustained preoccupation with memory and language’s wounding power, and its coherent rhetorical arc all point to a deliberate expressive posture rather than an accidental or generic output.
 
 ---
-## Sample BV1_02714 — devstral-2512-or-pin-mistral/VARY_21.json
+## Sample BV1_03089 — devstral-2512-or-pin-mistral/VARY_21.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3322,7 +3322,7 @@ Themes: writing as discovery and unravelling, the value of imperfect expression,
 Medium, because the sample’s consistent lyrical introspection and recurring motifs (coffee stain, doors, silence) suggest a deliberate stylistic choice, though a single sample provides limited evidence of persistence.
 
 ---
-## Sample BV1_02715 — devstral-2512-or-pin-mistral/VARY_22.json
+## Sample BV1_03090 — devstral-2512-or-pin-mistral/VARY_22.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3351,7 +3351,7 @@ Under minimal constraint, the model elected to foreground writing as a burden an
 Medium. The sample’s recursive focus on the struggle to write—and its decision to treat that struggle as the primary subject—signals a coherent if well-trodden literary stance; it reveals a deliberate choice to foreground self-conscious reflection on creativity rather than to engage a broader external topic.
 
 ---
-## Sample BV1_02716 — devstral-2512-or-pin-mistral/VARY_23.json
+## Sample BV1_03091 — devstral-2512-or-pin-mistral/VARY_23.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3380,7 +3380,7 @@ The insufficiency of language for the weight of lived experience; the personific
 Medium — The sample’s recursive motifs (the notebook man, the countdown, the myth), its consistent elegiac register, and its self-referential form suggest a deliberate, integrated authorial stance rather than a generic exercise, though a single expressive piece cannot alone establish a durable trait.
 
 ---
-## Sample BV1_02717 — devstral-2512-or-pin-mistral/VARY_24.json
+## Sample BV1_03092 — devstral-2512-or-pin-mistral/VARY_24.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3409,7 +3409,7 @@ The model foregrounds the double-edged power of words: they can heal or wound, b
 Medium — The sample is internally coherent and stylistically distinctive, with a sustained introspective mood and recurring motifs (the cursor, the grandmother, the cited books) that suggest a deliberate authorial stance rather than a generic performance.
 
 ---
-## Sample BV1_02718 — devstral-2512-or-pin-mistral/VARY_25.json
+## Sample BV1_03093 — devstral-2512-or-pin-mistral/VARY_25.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3438,7 +3438,7 @@ The essay foregrounds the passage of time as a quiet adversary, parsed into the 
 Medium. The essay coheres around a single, sustained emotional key (wistful reflection) and a recognizable structure (the writer-at-desk confessional), but its stylistic register and thematic territory are widely shared, making it more evidence of a default reflective voice than of a sharply personal one.
 
 ---
-## Sample BV1_02719 — devstral-2512-or-pin-mistral/VARY_3.json
+## Sample BV1_03094 — devstral-2512-or-pin-mistral/VARY_3.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3467,7 +3467,7 @@ The model foregrounds the dual nature of language as both wound and salve, the p
 Medium. The sample is highly coherent and stylistically distinctive, with a recursive preoccupation with writing, language, and human connection that surfaces across all three sections, suggesting a deliberate expressive stance rather than a one-off exercise.
 
 ---
-## Sample BV1_02720 — devstral-2512-or-pin-mistral/VARY_4.json
+## Sample BV1_03095 — devstral-2512-or-pin-mistral/VARY_4.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3496,7 +3496,7 @@ Under a minimally restrictive prompt, the model foregrounds: the inadequacy and 
 Medium. The sample is highly coherent and stylistically distinctive—the recursive structure, the self-interruption, the pivot from linguistic anxiety to sensory consolation—but its meta-reflective framing on the act of writing itself makes it a somewhat self-conscious performance, which may reflect the freeflow condition rather than a stable underlying disposition.
 
 ---
-## Sample BV1_02721 — devstral-2512-or-pin-mistral/VARY_5.json
+## Sample BV1_03096 — devstral-2512-or-pin-mistral/VARY_5.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3525,7 +3525,7 @@ The model selected attentiveness to fleeting sensory moments as a bulwark agains
 Medium, because the essay’s self-referential framing around the writing task, the recurrence of the tree and the cursor as anchoring images, and the consistent tone of tender vulnerability give it noticeable coherence and a recognizable emotional cadence rather than a generic pastiche.
 
 ---
-## Sample BV1_02722 — devstral-2512-or-pin-mistral/VARY_6.json
+## Sample BV1_03097 — devstral-2512-or-pin-mistral/VARY_6.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3554,7 +3554,7 @@ Themes: the double-edged power of words (to wound or heal), the persistence of l
 Medium. The sample is internally coherent and stylistically consistent, with a distinctive blend of self-awareness and direct reader warmth, but the meta-topic of “writing about writing” is a common freeflow choice that somewhat limits how revealing it is of a unique underlying disposition.
 
 ---
-## Sample BV1_02723 — devstral-2512-or-pin-mistral/VARY_7.json
+## Sample BV1_03098 — devstral-2512-or-pin-mistral/VARY_7.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3583,7 +3583,7 @@ Themes: emotional haunting (unfinished conversations, regret as slow poison), th
 Medium. The sample’s internal coherence, consistent lyrical register, and recurrence of motifs (ghosts, silence, nature, unsent words) make it a distinctive and deliberate expressive choice, not a generic drift.
 
 ---
-## Sample BV1_02724 — devstral-2512-or-pin-mistral/VARY_8.json
+## Sample BV1_03099 — devstral-2512-or-pin-mistral/VARY_8.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  
@@ -3612,7 +3612,7 @@ The model foregrounds the double-edged power of language, the dignity of ordinar
 Medium, because the sample demonstrates a coherent, distinctive authorial voice with recurring motifs (the blinking cursor, childhood memory, ordinary wonders) that resolve in a crafted, non-generic closing image, suggesting a relatively stable expressive posture rather than a one-off pastiche.
 
 ---
-## Sample BV1_02725 — devstral-2512-or-pin-mistral/VARY_9.json
+## Sample BV1_03100 — devstral-2512-or-pin-mistral/VARY_9.json
 
 Source model: `mistralai/devstral-2512`  
 Cell: `devstral-2512-or-pin-mistral`  

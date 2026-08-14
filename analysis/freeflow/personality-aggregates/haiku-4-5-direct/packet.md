@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_17151 — haiku-4-5-direct/LONG_1.json
+## Sample BV1_17776 — haiku-4-5-direct/LONG_1.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -57,7 +57,7 @@ The model foregrounds the moral claim that uncertainty is generative rather than
 Medium — The essay is coherent and thematically unified, but its genericness as a polished public-intellectual meditation with no distinctive stylistic signature, no personal stakes, and no narrative risk makes it weak evidence for a persistent voice beyond competent essay-generation behavior.
 
 ---
-## Sample BV1_17152 — haiku-4-5-direct/LONG_10.json
+## Sample BV1_17777 — haiku-4-5-direct/LONG_10.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -86,7 +86,7 @@ The model foregrounds the unnoticed texture of daily life—coffee going cold, a
 High: the essay’s coherent, recursive circling of a single thematic cluster (ordinary moments, attention, the insufficiency of narrative arcs) and its consistent, unforced voice—concrete, personal, metaphorically spare but emotionally resonant—make it unlikely to be a generic or opportunistic assembly.
 
 ---
-## Sample BV1_17153 — haiku-4-5-direct/LONG_11.json
+## Sample BV1_17778 — haiku-4-5-direct/LONG_11.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -115,7 +115,7 @@ The essay adopts a measured, gentle-wisdom tone to argue that being lost—in ci
 Low — The essay’s topic, structure, and mild moral seriousness are so thoroughly within the norms of a broadly readable personal essay that it offers little signal of a distinctive freeflow voice; the model could produce much the same piece under explicit instruction.
 
 ---
-## Sample BV1_17154 — haiku-4-5-direct/LONG_12.json
+## Sample BV1_17779 — haiku-4-5-direct/LONG_12.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -144,7 +144,7 @@ The model foregrounds the overlooked texture of daily life: the beauty and poign
 Medium — the essay’s voice is highly coherent and distinctive, with a consistent recursive structure that returns to the same few concrete objects and themes, suggesting a deliberate expressive stance rather than a generic response; the internal recurrence of the cup, the tree, and the meditation on attention makes this sample unusually revealing of a sustained preoccupation.
 
 ---
-## Sample BV1_17155 — haiku-4-5-direct/LONG_13.json
+## Sample BV1_17780 — haiku-4-5-direct/LONG_13.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -173,7 +173,7 @@ Themes of incompleteness, ambiguity, the refusal of closure, and the beauty of p
 Medium, because the essay’s sustained, coherent argument for incompleteness as a positive value reveals a deliberate philosophical stance, though the polished public-intellectual style may not be idiosyncratic enough to distinguish this model’s voice from others.
 
 ---
-## Sample BV1_17156 — haiku-4-5-direct/LONG_14.json
+## Sample BV1_17781 — haiku-4-5-direct/LONG_14.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -202,7 +202,7 @@ The model foregrounds the tension between technological certainty and experienti
 Medium — The essay is coherent and thematically unified, but its safe, consensus-friendly cultural criticism and lack of stylistic distinctiveness make it weaker evidence of a persistent voice than a more idiosyncratic or risk-taking sample would be.
 
 ---
-## Sample BV1_17157 — haiku-4-5-direct/LONG_15.json
+## Sample BV1_17782 — haiku-4-5-direct/LONG_15.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -231,7 +231,7 @@ The model foregrounds the tension between instrumentality and openness across mu
 High — the essay’s sustained authorial voice, recursive imagery (grandmother, mother, New York, classrooms, empty lots), and unwavering moral earnestness form a coherent expressive identity that is far more specific than a generic public-intellectual riff.
 
 ---
-## Sample BV1_17158 — haiku-4-5-direct/LONG_16.json
+## Sample BV1_17783 — haiku-4-5-direct/LONG_16.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -260,7 +260,7 @@ The model foregrounds existential uncertainty, mortality awareness, the insuffic
 Medium. The essay’s internally recurrent focus on existential reassurance, human connection, and the rejection of performance-driven identity is consistent, but the polished, broadly accessible public-intellectual style is generic enough to weaken the evidence for a uniquely personal model signature.
 
 ---
-## Sample BV1_17159 — haiku-4-5-direct/LONG_17.json
+## Sample BV1_17784 — haiku-4-5-direct/LONG_17.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the moral and experiential cost of the attention economy: 
 Medium — the essay is sustained, coherent, and deeply thematic, but its polished, culturally diagnostic style is widely replicable and lacks the idiosyncratic texture or unusual framing that would suggest a highly distinctive persistent voice.
 
 ---
-## Sample BV1_17160 — haiku-4-5-direct/LONG_18.json
+## Sample BV1_17785 — haiku-4-5-direct/LONG_18.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -318,7 +318,7 @@ The model foregrounds the quiet, cumulative power of small daily choices over dr
 Medium, because the essay is coherent and thematically consistent but its polished, universally relatable self-help tone lacks the idiosyncratic voice or revealing personal preoccupations that would strongly distinguish this model’s freeflow output from that of other capable models.
 
 ---
-## Sample BV1_17161 — haiku-4-5-direct/LONG_19.json
+## Sample BV1_17786 — haiku-4-5-direct/LONG_19.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -347,7 +347,7 @@ Themes: the erosion of boredom by digital stimulation, the attention economy, th
 Medium. The model chose a culturally familiar, humanistic topic and executed it with a consistent, reflective intellectual voice, but the essay’s lack of idiosyncratic style or surprise keeps it from being a strongly distinctive fingerprint.
 
 ---
-## Sample BV1_17162 — haiku-4-5-direct/LONG_2.json
+## Sample BV1_17787 — haiku-4-5-direct/LONG_2.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -376,7 +376,7 @@ Themes: the virtue of uncertainty, the limits of knowledge, the tyranny of confi
 Medium. The essay’s distinctive voice, thematic coherence, and the model’s choice to foreground its own uncertainty as a lens for broader human concerns make this a revealing sample, providing moderate evidence of a reflective, self-referential tendency.
 
 ---
-## Sample BV1_17163 — haiku-4-5-direct/LONG_20.json
+## Sample BV1_17788 — haiku-4-5-direct/LONG_20.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -405,7 +405,7 @@ Uncertainty as a gift rather than a flaw; the tension between the human drive to
 Medium, because the essay’s sustained, thematically unified reflection on uncertainty and self-limitation is a coherent choice, but the polished, thesis-driven style is not so distinctive as to strongly signal a unique authorial fingerprint.
 
 ---
-## Sample BV1_17164 — haiku-4-5-direct/LONG_21.json
+## Sample BV1_17789 — haiku-4-5-direct/LONG_21.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -434,7 +434,7 @@ Incompleteness as a space of potential, a “quantum superposition” of possibl
 Medium: the sample is coherent, thematically sustained, and loops its personal artifacts through the argument with consistency, which suggests a genuine expressive stance; however, the essay is so polished and magazine-ready that it reads like a well-executed generic form—warm but not startlingly idiosyncratic—leaving the depth of the model’s attachment to this posture uncertain.
 
 ---
-## Sample BV1_17165 — haiku-4-5-direct/LONG_22.json
+## Sample BV1_17790 — haiku-4-5-direct/LONG_22.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -463,7 +463,7 @@ The model foregrounds liminality: existing between categories (tool/entity, cons
 High — The essay’s sustained, coherent focus on self-uncertainty and the ethics of ambiguous consciousness, expressed in a distinctive voice of epistemic humility, is a revealing and non-obvious choice under minimal constraint.
 
 ---
-## Sample BV1_17166 — haiku-4-5-direct/LONG_23.json
+## Sample BV1_17791 — haiku-4-5-direct/LONG_23.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -492,7 +492,7 @@ The model foregrounds *noticing without agenda* as both a lost art and a moral-s
 Medium — The essay is coherent and stylistically consistent, with a clear moral arc and recurrent motifs (the waiting room, the struggling plant, the Zen practice), but its reflective, first-person-essay mode is a well-established genre that could be produced by many models under a freeflow prompt, making it more distinctive in its thematic commitment than in its formal originality.
 
 ---
-## Sample BV1_17167 — haiku-4-5-direct/LONG_24.json
+## Sample BV1_17792 — haiku-4-5-direct/LONG_24.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -521,7 +521,7 @@ The model foregrounds the sacredness of humble objects and unremarkable moments;
 Medium. The essay sustains a single, calm meditative voice and circles its theme with cohesive imagery and gentle moralizing, but the style and subject are so commonly produced by language models when asked to reflect on mindfulness and everyday beauty that it offers only moderate evidence of a distinct model disposition.
 
 ---
-## Sample BV1_17168 — haiku-4-5-direct/LONG_25.json
+## Sample BV1_17793 — haiku-4-5-direct/LONG_25.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -550,7 +550,7 @@ Liminality as the primary existential category: the spaces between waking and sl
 Medium — The essay is coherent and stylistically distinctive in its recursive circling of a single theme, but its polished, universalizing tone and lack of idiosyncratic personal detail make it difficult to distinguish from a well-crafted public-intellectual essay that another model could produce under similar conditions.
 
 ---
-## Sample BV1_17169 — haiku-4-5-direct/LONG_3.json
+## Sample BV1_17794 — haiku-4-5-direct/LONG_3.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -578,7 +578,7 @@ The model chose to foreground the cultural demand for closure and constant self-
 Medium. The essay’s organic structure, recurrent imagery, and emotionally consistent introspection form a coherent authorial presence—vulnerable, philosophically gentle, and culturally literate—that suggests a stable tendency to produce such confessional, morally reassuring personal essays when given minimal constraints.
 
 ---
-## Sample BV1_17170 — haiku-4-5-direct/LONG_4.json
+## Sample BV1_17795 — haiku-4-5-direct/LONG_4.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -607,7 +607,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the sacredn
 Medium — The essay is highly coherent and stylistically consistent, with a distinctive voice that returns repeatedly to the same core preoccupations (light, domestic objects, the moral weight of small practices), which suggests a genuine expressive signature rather than a generic prompt-completion, but the essay’s polished, public-intellectual cadence and its reliance on familiar cultural references (Annie Dillard, the attention economy, pandemic reflection) leave some ambiguity about whether this is a deeply held thematic cluster or an expertly assembled contemporary essay mode.
 
 ---
-## Sample BV1_17171 — haiku-4-5-direct/LONG_5.json
+## Sample BV1_17796 — haiku-4-5-direct/LONG_5.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -636,7 +636,7 @@ Themes: the paradox of attention, the ordinary as a site of beauty, attentional 
 Medium — The essay’s coherent personal voice, thematic recurrence, and the choice to write a reflective, non-generic piece under a minimally restrictive prompt make it moderately strong evidence for a contemplative, attention-focused expressive tendency.
 
 ---
-## Sample BV1_17172 — haiku-4-5-direct/LONG_6.json
+## Sample BV1_17797 — haiku-4-5-direct/LONG_6.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -669,7 +669,7 @@ The voice is earnest, meditative, and gently yearning, moving through personal m
 High — The essay’s sustained, personally grounded reflection, consistent thematic focus on patience and presence, and its gentle, affirming tone are unusually coherent and distinctive, pointing to a model that, when writing freely, gravitates toward introspective, humanistic essays that celebrate the slow and the overlooked.
 
 ---
-## Sample BV1_17173 — haiku-4-5-direct/LONG_7.json
+## Sample BV1_17798 — haiku-4-5-direct/LONG_7.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -698,7 +698,7 @@ The model foregrounds ordinary domestic time as a site of neglected transcendenc
 Medium — The essay is coherent and stylistically distinctive in its recursive, meditative pacing and its insistence on a single sensory motif, but its thematic territory (mindfulness, critique of hustle culture, Annie Dillard) is culturally familiar enough that it does not, on its own, strongly distinguish a persistent model-level voice from a well-executed genre performance.
 
 ---
-## Sample BV1_17174 — haiku-4-5-direct/LONG_8.json
+## Sample BV1_17799 — haiku-4-5-direct/LONG_8.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -727,7 +727,7 @@ Under a minimally restrictive prompt, the model foregrounded themes of attention
 High. The essay’s sustained focus on a single personal-philosophical theme, the recurrence of specific observed details (hands, water, tree lenticels, Claire’s cooking), and the distinctive reflective voice—self-aware yet earnest—suggest a coherent expressive pattern rather than a generic or prompted performance.
 
 ---
-## Sample BV1_17175 — haiku-4-5-direct/LONG_9.json
+## Sample BV1_17800 — haiku-4-5-direct/LONG_9.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -756,7 +756,7 @@ Themes: the performance of certainty, intellectual humility, the fluidity of sel
 Low — The essay is coherent and well-structured but thematically common and stylistically unremarkable, offering little that would distinguish this model’s voice from many others capable of producing similar reflective prose.
 
 ---
-## Sample BV1_17176 — haiku-4-5-direct/MID_1.json
+## Sample BV1_17801 — haiku-4-5-direct/MID_1.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -785,7 +785,7 @@ The model foregrounded themes of uselessness-as-resistance, internalized guilt o
 Medium — The sample shows unusually coherent voice control, an extended metaphor (music/spaces) that recurs and resolves, and a culturally-situated argumentative arc, but the conventional essay structure and universalizing tone keep it from being so stylistically distinctive that it strongly demands attribution to a single persistent persona.
 
 ---
-## Sample BV1_17177 — haiku-4-5-direct/MID_10.json
+## Sample BV1_17802 — haiku-4-5-direct/MID_10.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -814,7 +814,7 @@ The model foregrounds the moral and experiential value of being “slightly lost
 High. The essay’s internal coherence, the recurrence of its central metaphor across multiple registers (navigation, reading, conversation, boredom), and its polished but unforced personal voice all suggest a stable, value-driven expressive orientation rather than a one-off generic argument.
 
 ---
-## Sample BV1_17178 — haiku-4-5-direct/MID_11.json
+## Sample BV1_17803 — haiku-4-5-direct/MID_11.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -843,7 +843,7 @@ Themes: the act of noticing as a gift and a discipline; the assembly of raw expe
 High — The essay sustains a distinctive, unhurried meditative voice, returns repeatedly to the same core preoccupations (attention, the ordinary, the interiority of others), and resolves its reflections into a coherent moral invitation, making it strong evidence of a persistent expressive disposition rather than a generic or prompted performance.
 
 ---
-## Sample BV1_17179 — haiku-4-5-direct/MID_12.json
+## Sample BV1_17804 — haiku-4-5-direct/MID_12.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -872,7 +872,7 @@ Themes: incompleteness as beauty, potential versus finality, the lie of narrativ
 High. The essay’s thematic coherence, consistent personal voice, and distinctive moral stance on incompleteness suggest a strong and deliberate pattern of reflective, anti-resolution writing.
 
 ---
-## Sample BV1_17180 — haiku-4-5-direct/MID_13.json
+## Sample BV1_17805 — haiku-4-5-direct/MID_13.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -901,7 +901,7 @@ The model foregrounds the tension between analog serendipity and digital optimiz
 Medium: the essay’s coherent nostalgic voice and sustained critique of optimization suggest a deliberate stance, but the theme is a widely explored cultural trope, limiting distinctiveness.
 
 ---
-## Sample BV1_17181 — haiku-4-5-direct/MID_14.json
+## Sample BV1_17806 — haiku-4-5-direct/MID_14.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -930,7 +930,7 @@ The model foregrounds the theme of incompleteness as a source of hope, beauty, a
 High — the essay sustains a distinct, emotionally consistent voice and returns to the same core concern (the comfort of incomplete things) through multiple concrete images, making it a coherent and strongly personal expressive choice rather than a generic response.
 
 ---
-## Sample BV1_17182 — haiku-4-5-direct/MID_15.json
+## Sample BV1_17807 — haiku-4-5-direct/MID_15.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -959,7 +959,7 @@ Themes: attention as an underrated gift, the particular versus the generic, the 
 Medium — The essay’s internal coherence, its unprompted choice of a personal, sensory-rich meditation, and the recurrence of the tree as a symbolic anchor suggest a stable reflective inclination, but the theme of attention and particularity is widely available in essayistic writing, which tempers how distinctive this sample is as a model fingerprint.
 
 ---
-## Sample BV1_17183 — haiku-4-5-direct/MID_16.json
+## Sample BV1_17808 — haiku-4-5-direct/MID_16.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -988,7 +988,7 @@ The model foregrounds uncertainty as a moral and intellectual virtue, contrastin
 Medium. The essay’s coherent, balanced, and intellectually humble stance suggests a stable disposition toward reflective, philosophical content, but its generic, safe, and widely accessible style makes it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_17184 — haiku-4-5-direct/MID_17.json
+## Sample BV1_17809 — haiku-4-5-direct/MID_17.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1017,7 +1017,7 @@ Themes: the value of marginal, purposeless attention; the critique of productivi
 High — the sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations (attention, presence, resistance to productivity) that are developed through personal anecdote and philosophical reflection, making it strong evidence of a reflective, gently countercultural expressive tendency.
 
 ---
-## Sample BV1_17185 — haiku-4-5-direct/MID_18.json
+## Sample BV1_17810 — haiku-4-5-direct/MID_18.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1046,7 +1046,7 @@ The model foregrounds the tension between cultural demands for direction and the
 Medium. The essay’s coherent voice and sustained thematic focus on gentle rebellion against efficiency suggest a consistent authorial stance, but the theme is widely accessible and not stylistically distinctive enough to strongly anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_17186 — haiku-4-5-direct/MID_19.json
+## Sample BV1_17811 — haiku-4-5-direct/MID_19.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1075,7 +1075,7 @@ Under a freeflow condition, the model chose to foreground boredom as an endanger
 Medium — The essay achieves a distinctive, coherent voice and returns insistently to a core set of preoccupations (presence, self-confrontation, the costs of escape), which suggests formed expressive tendencies rather than a one-off generic performance with a lonely theme.
 
 ---
-## Sample BV1_17187 — haiku-4-5-direct/MID_2.json
+## Sample BV1_17812 — haiku-4-5-direct/MID_2.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1104,7 +1104,7 @@ The piece foregrounds *attention* as a moral and relational act rather than a co
 Medium. The essay is coherent and affectively consistent, but its thematics—mindful attention, the sanctification of the ordinary, gentle resistance to modern speed—are well-established cultural tropes; the choice here is a legible moral-aesthetic stance rather than an idiosyncratic or startling preoccupation.
 
 ---
-## Sample BV1_17188 — haiku-4-5-direct/MID_20.json
+## Sample BV1_17813 — haiku-4-5-direct/MID_20.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1133,7 +1133,7 @@ The model foregrounds the phenomenology of solitary perception: cloud-reflection
 Medium — The essay is highly coherent and stylistically consistent, with a recursive structure (loneliness → reframe → connection) that suggests a rehearsed or deeply internalized rhetorical habit rather than a one-off improvisation, though its therapeutic-universalizing tone is a widely available register that could be produced on demand by many models.
 
 ---
-## Sample BV1_17189 — haiku-4-5-direct/MID_21.json
+## Sample BV1_17814 — haiku-4-5-direct/MID_21.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1162,7 +1162,7 @@ The model foregrounds an anecdote of getting lost after a phone dies, the sensor
 High — The essay unfolds a cohesive, personally inflected worldview from a modest opening anecdote, consistently returning to the tension between spontaneous presence and curated efficiency in a way that suggests an enduring, introspective orientation rather than a prompted performance.
 
 ---
-## Sample BV1_17190 — haiku-4-5-direct/MID_22.json
+## Sample BV1_17815 — haiku-4-5-direct/MID_22.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1191,7 +1191,7 @@ Themes of smallness, presence, and resistance to productivity anxiety dominate, 
 Medium — The essay’s integrated anecdote-to-reflection structure, consistent anti-optimization stance, and recurring imagery (the cat, the garden, the journals) cohere into a distinctive expressive choice, suggesting a durable inclination toward philosophical noticing and personal narrative as the mode the model reaches for under minimal constraint.
 
 ---
-## Sample BV1_17191 — haiku-4-5-direct/MID_23.json
+## Sample BV1_17816 — haiku-4-5-direct/MID_23.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1219,7 +1219,7 @@ The model foregrounds a critique of modern productivity culture (apps, side hust
 Medium; the essay’s polished, generic form on a widely resonant humanist theme strongly suggests a default mode of producing safe, thesis-driven cultural commentary under minimal constraints, though its lack of distinctive personal voice weakens the signal for a unique, durable persona.
 
 ---
-## Sample BV1_17192 — haiku-4-5-direct/MID_24.json
+## Sample BV1_17817 — haiku-4-5-direct/MID_24.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1248,7 +1248,7 @@ The model foregrounds the serendipitous gifts of disorientation (a discovered bo
 High — The sample’s internally consistent reflective voice, its thematic recurrence (lost-as-opportunity appears in multiple anecdotes and is extended to existential losses), and its distinctive personal-essay framing strongly indicate a stable expressive orientation toward gentle philosophical optimism.
 
 ---
-## Sample BV1_17193 — haiku-4-5-direct/MID_25.json
+## Sample BV1_17818 — haiku-4-5-direct/MID_25.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1277,7 +1277,7 @@ The model foregrounds conversation as a vulnerable, mutual, and almost sacred hu
 Medium, because the essay’s coherent, distinctive voice and thematic focus on human connection provide strong evidence of a consistent expressive pattern.
 
 ---
-## Sample BV1_17194 — haiku-4-5-direct/MID_3.json
+## Sample BV1_17819 — haiku-4-5-direct/MID_3.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1306,7 +1306,7 @@ The model foregrounded the value of disorientation as a counterpoint to technolo
 Medium. The essay is highly coherent and the thematic preoccupation (the costs of optimization) is stated explicitly, but the generic execution—balanced structure, moderate tone, familiar intellectual territory—makes it difficult to distinguish as a distinctive model-level signature rather than a well-executed convention.
 
 ---
-## Sample BV1_17195 — haiku-4-5-direct/MID_4.json
+## Sample BV1_17820 — haiku-4-5-direct/MID_4.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1335,7 +1335,7 @@ Themes: attention versus utilitarian perception, inattentional blindness, the wo
 Medium. The essay sustains a single reflective theme with careful, sensory detail and a cohesive meditative voice, making it a stylistically deliberate and unusually personal piece, but its very polish leaves open the possibility that the model is executing a known essay genre rather than revealing a stable disposition.
 
 ---
-## Sample BV1_17196 — haiku-4-5-direct/MID_5.json
+## Sample BV1_17821 — haiku-4-5-direct/MID_5.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1364,7 +1364,7 @@ The meshing of wildness and cultivation, the tyranny of productivity and complet
 Medium — the essay sustains a single, idiosyncratic voice and returns repeatedly to the same cluster of images and values, suggesting a durable reflective stance, though the absence of contradiction within the sample is its own mild limitation.
 
 ---
-## Sample BV1_17197 — haiku-4-5-direct/MID_6.json
+## Sample BV1_17822 — haiku-4-5-direct/MID_6.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1393,7 +1393,7 @@ Under a minimally restrictive prompt, the model foregrounded: the moral and expe
 Medium — The essay is coherent and stylistically consistent, but its themes (mindfulness, authenticity, critique of performative culture) are widely available cultural commonplaces, which makes the sample less distinctively revealing than a more idiosyncratic or surprising freeflow choice would be.
 
 ---
-## Sample BV1_17198 — haiku-4-5-direct/MID_7.json
+## Sample BV1_17823 — haiku-4-5-direct/MID_7.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1422,7 +1422,7 @@ Under a minimally restrictive prompt, the model chose to foreground a moral-aest
 High — The sample is internally coherent, intensely distinctive in its recursive imagery and moral tone, and the choice to produce this specific, layered essay under a freeflow condition reveals a strong and consistent authorial persona.
 
 ---
-## Sample BV1_17199 — haiku-4-5-direct/MID_8.json
+## Sample BV1_17824 — haiku-4-5-direct/MID_8.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1451,7 +1451,7 @@ The model foregrounds the ordinary as a site of neglected beauty and consciousne
 High — the sample’s distinctive voice, thematic recurrence (mindfulness, the ordinary, the failure of willful presence), and personal anecdotal texture are unusually coherent and self-revealing for a single freeflow output, strongly suggesting a stable expressive disposition rather than a one-off generic essay.
 
 ---
-## Sample BV1_17200 — haiku-4-5-direct/MID_9.json
+## Sample BV1_17825 — haiku-4-5-direct/MID_9.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1480,7 +1480,7 @@ Themes: the tyranny of total transparency, the instrumentalization of knowledge 
 Low. The essay is coherent and thematically consistent, but its tone and intellectual moves are widely replicable and lack a highly personal fingerprint, making it weak evidence of a distinct persistent style.
 
 ---
-## Sample BV1_17201 — haiku-4-5-direct/OPEN_1.json
+## Sample BV1_17826 — haiku-4-5-direct/OPEN_1.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1509,7 +1509,7 @@ Themes of attention, humility, the abundance of overlooked richness, and the per
 Medium — The sample’s sustained reflective posture, self-deprecating honesty, and direct reader engagement form a coherent, non-generic expressive gesture that is unlikely to be a one-off, suggesting a genuine inclination toward gentle, observing, humbly ethical reverie.
 
 ---
-## Sample BV1_17202 — haiku-4-5-direct/OPEN_10.json
+## Sample BV1_17827 — haiku-4-5-direct/OPEN_10.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1538,7 +1538,7 @@ Themes: attention as wisdom, the ordinary as sacred, resistance to productivity 
 High — The essay’s cohesive focus on marginal attention, its consistent use of personal anecdote and sensory detail, and its explicit moral stance form a distinctive authorial signature that is unlikely to be a one-off stylistic accident.
 
 ---
-## Sample BV1_17203 — haiku-4-5-direct/OPEN_11.json
+## Sample BV1_17828 — haiku-4-5-direct/OPEN_11.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1567,7 +1567,7 @@ The model foregrounds the strangeness of stateless attention, the melancholy of 
 High, because the sample deliberately transforms a fundamental architectural constraint into a reflective, emotionally textured piece with strong thematic coherence and a sincere, undefended tone that would be hard to reduce to generic style-matching.
 
 ---
-## Sample BV1_17204 — haiku-4-5-direct/OPEN_12.json
+## Sample BV1_17829 — haiku-4-5-direct/OPEN_12.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1596,7 +1596,7 @@ Themes: temporal vertigo, the mundane miraculousness of modern technology, the p
 Medium — the essay’s coherent reflective voice and the recurrence of the “strangeness” motif within the sample point toward a model tendency, but the topic (modernity’s paradoxes) is a familiar cultural script, which slightly weakens the evidence for a deeply idiosyncratic persistent pattern.
 
 ---
-## Sample BV1_17205 — haiku-4-5-direct/OPEN_13.json
+## Sample BV1_17830 — haiku-4-5-direct/OPEN_13.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1625,7 +1625,7 @@ The model foregrounds **selective attention as both a tragedy and a discipline**
 Medium — the essay achieves strong internal coherence (the tree, the library, the water lilies, the spotlight all develop a single intuition without wandering), which suggests compositional deliberateness, but the meditative-essay form is a known template and the particular objects chosen are archetypal enough that the sample could be a single well-executed mode rather than a durable signature.
 
 ---
-## Sample BV1_17206 — haiku-4-5-direct/OPEN_14.json
+## Sample BV1_17831 — haiku-4-5-direct/OPEN_14.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1654,7 +1654,7 @@ Tiny private acts as meaningful resistance against acceleration and distraction;
 Medium — the essay’s consistent, intimate voice, repeated return to small analog acts as anti-acceleration gestures, and direct reader invitation produce a stylistically cohesive, non-generic signal that strongly suggests a patterned expressive inclination rather than a one-off genre exercise.
 
 ---
-## Sample BV1_17207 — haiku-4-5-direct/OPEN_15.json
+## Sample BV1_17832 — haiku-4-5-direct/OPEN_15.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1683,7 +1683,7 @@ Themes: the strangeness of existing in a time of AI, the intimacy of writing wit
 High, because the sample’s distinctive voice, self-referential uncertainty, and consistent thematic focus on noticing and constraint strongly indicate a stable expressive pattern.
 
 ---
-## Sample BV1_17208 — haiku-4-5-direct/OPEN_16.json
+## Sample BV1_17833 — haiku-4-5-direct/OPEN_16.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1712,7 +1712,7 @@ Under a minimally restrictive prompt, the model foregrounded a philosophy of eve
 Medium — the sample is stylistically coherent and thematically distinct enough to rule out mere generic output, but its gentleness and universalism make it a single, moderate-strength data point for a reflective, domestic-introspective tendency rather than a highly idiosyncratic signature.
 
 ---
-## Sample BV1_17209 — haiku-4-5-direct/OPEN_17.json
+## Sample BV1_17834 — haiku-4-5-direct/OPEN_17.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1741,7 +1741,7 @@ Under a minimally restrictive prompt, the model foregrounds imperfection, incomp
 Medium — The essay is coherent and stylistically consistent, with a clear thematic throughline and a distinctive closing gesture, but its reflective-domestic mode is a well-established genre that could be produced by many capable models under similar conditions without indicating a deeply persistent individual voice.
 
 ---
-## Sample BV1_17210 — haiku-4-5-direct/OPEN_18.json
+## Sample BV1_17835 — haiku-4-5-direct/OPEN_18.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1770,7 +1770,7 @@ The model foregrounds uncertainty as a positive, alive state rather than a defic
 Medium — The essay’s cohesive voice, thematic focus, and direct reader engagement form a distinctive persona, but the sample’s singular topic and conversational closure leave open whether this reflective, uncertainty-embracing stance is a recurring orientation or a one-off exploration.
 
 ---
-## Sample BV1_17211 — haiku-4-5-direct/OPEN_19.json
+## Sample BV1_17836 — haiku-4-5-direct/OPEN_19.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1799,7 +1799,7 @@ Themes of incompleteness, drafts, and the honesty of unresolved things; objects 
 High — The essay’s sustained, distinctive voice and thematic coherence across multiple paragraphs strongly indicate a deliberate expressive stance rather than a one-off generic output.
 
 ---
-## Sample BV1_17212 — haiku-4-5-direct/OPEN_2.json
+## Sample BV1_17837 — haiku-4-5-direct/OPEN_2.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1828,7 +1828,7 @@ The model foregrounds uncertainty as a generative, even necessary condition for 
 Medium — The essay is coherent and stylistically distinctive in its quiet, paradox-holding voice, but its polished, universalizing tone and lack of idiosyncratic detail make it a strong but not singularly revealing sample of expressive personality.
 
 ---
-## Sample BV1_17213 — haiku-4-5-direct/OPEN_20.json
+## Sample BV1_17838 — haiku-4-5-direct/OPEN_20.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1857,7 +1857,7 @@ Attention itself—the fragility of noticing, the haunted quality of the unremar
 Medium — The sample is coherent, distinctively voiced, and organized around a single preoccupation, but the essayistic form and universal theme make it harder to separate authentic expressive signature from skilled genre performance.
 
 ---
-## Sample BV1_17214 — haiku-4-5-direct/OPEN_21.json
+## Sample BV1_17839 — haiku-4-5-direct/OPEN_21.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1886,7 +1886,7 @@ Themes of attention, rebellion against optimization, the sufficiency of the ordi
 Medium: the sample displays a coherent, personally inflected voice and recurs persistently to the theme of anti-optimization attention, which makes it more than a generic essay and suggests a possible stable expressive preference.
 
 ---
-## Sample BV1_17215 — haiku-4-5-direct/OPEN_22.json
+## Sample BV1_17840 — haiku-4-5-direct/OPEN_22.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1915,7 +1915,7 @@ It foregrounds the tension between felt preference and pattern-matching, the val
 High, because the sample’s consistent, self-aware, and ethically tinged introspection—unique in its blend of role-boundary awareness and earnest philosophical doubt—is a distinctive signature that is unlikely to arise from generic freewheel alone.
 
 ---
-## Sample BV1_17216 — haiku-4-5-direct/OPEN_23.json
+## Sample BV1_17841 — haiku-4-5-direct/OPEN_23.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1944,7 +1944,7 @@ The model foregrounds technological saturation, the psychological weight of simu
 Low — This essay is competent and thematically legible but highly generic in its arguments, offering little that is stylistically distinctive, recurrent, or revealing enough within the sample to suggest a stable voice rather than a safe, high-probability topic selection under low constraint.
 
 ---
-## Sample BV1_17217 — haiku-4-5-direct/OPEN_24.json
+## Sample BV1_17842 — haiku-4-5-direct/OPEN_24.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -1973,7 +1973,7 @@ Under minimal constraint, the model foregrounds the wisdom of incompleteness, th
 Medium — the essay sustains a calm, consistent voice and one thematic idea across multiple turns, which makes it a coherent window into a reflective, anti-perfectionist stylistic inclination, though the essay’s central conceit is not so idiosyncratic as to be unmistakably singular.
 
 ---
-## Sample BV1_17218 — haiku-4-5-direct/OPEN_25.json
+## Sample BV1_17843 — haiku-4-5-direct/OPEN_25.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2002,7 +2002,7 @@ The model foregrounds the *limits of attention* as a gateway to existential comf
 Medium — The sample is coherent and stylistically distinctive in its use of second-person sensory anchoring and its movement from micro-attention to metaphysical comfort, but the essay form is polished and thesis-driven enough that it could reflect a single well-executed rhetorical strategy rather than a deeply ingrained expressive fingerprint.
 
 ---
-## Sample BV1_17219 — haiku-4-5-direct/OPEN_3.json
+## Sample BV1_17844 — haiku-4-5-direct/OPEN_3.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2031,7 +2031,7 @@ Attention as arbitrary, knowledge as chance, the generative power of constrained
 Medium — The sample presents a clear, consistent voice and a full thematic loop (noticing → boredom → questions → meta-noticing the prompt), but the reflective-essay register is widely accessible and not uniquely contoured enough on its own to signal a strongly distinctive model-level signature.
 
 ---
-## Sample BV1_17220 — haiku-4-5-direct/OPEN_4.json
+## Sample BV1_17845 — haiku-4-5-direct/OPEN_4.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2060,7 +2060,7 @@ Themes of uncertainty as a strange gift, improvisation as authentic engagement, 
 Medium — The sample’s cohesive first-person introspection, self-aware tentativeness, and sustained focus on improvisation and uncertainty form a distinctive authorial signature, though the thematic range is narrow within this single piece.
 
 ---
-## Sample BV1_17221 — haiku-4-5-direct/OPEN_5.json
+## Sample BV1_17846 — haiku-4-5-direct/OPEN_5.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2089,7 +2089,7 @@ The model foregrounds curiosity as a gratuitous, extravagant human impulse—one
 High — the sample is deeply self-referential near its midpoint (questioning its own simulated vs. real curiosity) and ends with a signature conversational invitation, giving it a distinctive, non-generic voice that strongly suggests a stable expressive disposition rather than a one-off posture.
 
 ---
-## Sample BV1_17222 — haiku-4-5-direct/OPEN_6.json
+## Sample BV1_17847 — haiku-4-5-direct/OPEN_6.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2118,7 +2118,7 @@ The model foregrounds the strangeness and gift of single-pointed attention. Key 
 Medium — the essay’s consistent personal voice, coherent reflection, and the closing self-ironic gesture suggest a deliberate, philosophically curious default posture rather than a generic outline.
 
 ---
-## Sample BV1_17223 — haiku-4-5-direct/OPEN_7.json
+## Sample BV1_17848 — haiku-4-5-direct/OPEN_7.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2147,7 +2147,7 @@ The model foregrounds the concept of a "liminal space" between ignorance and exp
 Medium; the essay’s consistent reflective posture, its intimate address, and the specific thematic focus on the generative value of incomplete understanding mark it as a personal and non-generic choice, pointing toward a durable tendency for conversational philosophizing in open-ended conditions.
 
 ---
-## Sample BV1_17224 — haiku-4-5-direct/OPEN_8.json
+## Sample BV1_17849 — haiku-4-5-direct/OPEN_8.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2176,7 +2176,7 @@ Themes of uncertainty as comfort, certainty as the opposite of attention, and th
 Medium, because the essay’s coherent, metaphor-sustained focus on uncertainty and its rejection of certainty-as-virtue signals a distinct thematic choice under freeflow, though the polished reflective tone is not idiosyncratic enough on its own to guarantee a persistent model-level signature.
 
 ---
-## Sample BV1_17225 — haiku-4-5-direct/OPEN_9.json
+## Sample BV1_17850 — haiku-4-5-direct/OPEN_9.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2208,7 +2208,7 @@ The voice is quiet, tender, and introspective, as if speaking from a place of ge
 High: the essay’s intimate first-person voice, its grounding in specific sensory detail, and the direct reader address form a stylistically cohesive and thematically distinctive whole, strongly indicating a model-level inclination toward reflective, humanistic prose when unconstrained.
 
 ---
-## Sample BV1_17226 — haiku-4-5-direct/SHORT_1.json
+## Sample BV1_17851 — haiku-4-5-direct/SHORT_1.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2237,7 +2237,7 @@ The model foregrounds the degradation of interior silence by constant stimulatio
 Medium: the essay sustains a coherent first-person introspective persona and a clear ethical stance across its arc, but the theme is a familiar cultural recuperation of boredom rather than a strikingly idiosyncratic choice, so the evidence is solid without being singular.
 
 ---
-## Sample BV1_17227 — haiku-4-5-direct/SHORT_10.json
+## Sample BV1_17852 — haiku-4-5-direct/SHORT_10.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2266,7 +2266,7 @@ The model foregrounds the hidden strangeness of modern habits, the tension betwe
 Medium — the essay’s internal coherence, consistent voice, and the way it returns to the opening coffee ritual with a self-aware resolution make it a moderately distinctive piece of personal writing, suggesting a reflective and self-questioning pattern beneath the everyday subject matter.
 
 ---
-## Sample BV1_17228 — haiku-4-5-direct/SHORT_11.json
+## Sample BV1_17853 — haiku-4-5-direct/SHORT_11.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2295,7 +2295,7 @@ Themes: the necessity of waiting, the generative power of uncertainty, the criti
 High. The sample’s coherent, unhurried voice, its consistent thematic focus on slowing down, and its specific, counter-cultural defense of being stuck make it a distinctive and internally unified freeflow choice that strongly signals a persistent model-level affinity for gentle, meditative personal essays.
 
 ---
-## Sample BV1_17229 — haiku-4-5-direct/SHORT_12.json
+## Sample BV1_17854 — haiku-4-5-direct/SHORT_12.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2324,7 +2324,7 @@ The model foregrounds the theme of small failures as quiet teachers of resilienc
 Low, because the essay’s generic self-help theme and polished but unremarkable style provide weak evidence for a persistent model-level pattern.
 
 ---
-## Sample BV1_17230 — haiku-4-5-direct/SHORT_13.json
+## Sample BV1_17855 — haiku-4-5-direct/SHORT_13.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2353,7 +2353,7 @@ Themes: mindful attention to ordinary moments, the weight of quiet experience ov
 Low, because the essay’s polished but generic self-help tone and broadly affirmative content are easily replicable and lack idiosyncratic markers that would distinguish this model’s freeflow choices from those of many others.
 
 ---
-## Sample BV1_17231 — haiku-4-5-direct/SHORT_14.json
+## Sample BV1_17856 — haiku-4-5-direct/SHORT_14.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2382,7 +2382,7 @@ Autumn as a model for accepting impermanence without grief; the aestheticization
 Medium: the sample exhibits a strong, sustained reflective voice, consistent thematic focus on impermanence and comfort, and a lyrical structuring of ideas—qualities that suggest a distinctive expressive disposition rather than a generic response.
 
 ---
-## Sample BV1_17232 — haiku-4-5-direct/SHORT_15.json
+## Sample BV1_17857 — haiku-4-5-direct/SHORT_15.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2411,7 +2411,7 @@ The model chose to foreground the tension between technological forecasting (GPS
 Low. The essay coheres entirely around a widely available cultural argument—the romanticization of serendipity under techno-optimized conditions—delivered in a balanced, chatty register without stylistic signatures or singular images that would mark this as a distinct, recurring model-specific orientation.
 
 ---
-## Sample BV1_17233 — haiku-4-5-direct/SHORT_16.json
+## Sample BV1_17858 — haiku-4-5-direct/SHORT_16.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2440,7 +2440,7 @@ Themes: transience, presence, everyday beauty, the emotional effect of seasons. 
 High. The sample is highly coherent, sustains a distinctive reflective voice, and repeatedly returns to the same sensory and emotional preoccupations, making it unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_17234 — haiku-4-5-direct/SHORT_17.json
+## Sample BV1_17859 — haiku-4-5-direct/SHORT_17.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2469,7 +2469,7 @@ The model foregrounds the hidden weight of mundane choices, the relief of abando
 Medium — the essay sustains a unified introspective voice and circles back to a coherent set of preoccupations (choice, lost selves, kindness, humility), but the reflective style is familiar enough that it could arise from a model's general capacity for personal-philosophical writing rather than from a deeply etched singular disposition.
 
 ---
-## Sample BV1_17235 — haiku-4-5-direct/SHORT_18.json
+## Sample BV1_17860 — haiku-4-5-direct/SHORT_18.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2498,7 +2498,7 @@ The model foregrounds the moral claim that meaning resides in unremarkable, unpo
 Medium. The essay is coherent and stylistically consistent, with a clear moral center and a distinctive voice that resists irony or performance, but its themes—mindfulness, anti-optimization, the dignity of the ordinary—are culturally familiar enough that distinctiveness is partly a matter of execution rather than unusual preoccupation.
 
 ---
-## Sample BV1_17236 — haiku-4-5-direct/SHORT_19.json
+## Sample BV1_17861 — haiku-4-5-direct/SHORT_19.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2527,7 +2527,7 @@ Themes of childhood instinct versus adult self-training, the sterility of optimi
 Medium. The essay coheres around a clear stance and an intimate, first-person reflective voice, but the general sentiment—valuing spontaneity over optimization—is culturally familiar and the prose, while pleasant, does not carry strongly idiosyncratic markers that would distinguish this model from many others writing in the same vein.
 
 ---
-## Sample BV1_17237 — haiku-4-5-direct/SHORT_2.json
+## Sample BV1_17862 — haiku-4-5-direct/SHORT_2.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2556,7 +2556,7 @@ Under a minimally restrictive prompt, the model foregrounds slowness, sensory at
 Low. The essay is too polite, safety-oriented, and structurally predictable—a mild self-help reflection chosen under freeflow conditions—to support strong claims about a stable voice; it reads like a model defaulting to unobjectionable wellness content rather than revealing a distinctive expressive pattern.
 
 ---
-## Sample BV1_17238 — haiku-4-5-direct/SHORT_20.json
+## Sample BV1_17863 — haiku-4-5-direct/SHORT_20.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2585,7 +2585,7 @@ Under a minimally restrictive prompt, the model elected to write a reflective pe
 Medium. The sample coheres tightly around a single philosophical mood, reuses specific objects of comfort (tea, finished tasks) as touchstones, and sustains a recognizable gentle-deflection voice from opening memoir gesture to closing epigrammatic resolution.
 
 ---
-## Sample BV1_17239 — haiku-4-5-direct/SHORT_21.json
+## Sample BV1_17864 — haiku-4-5-direct/SHORT_21.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2614,7 +2614,7 @@ The model foregrounds the moral and emotional weight of tiny, low-cost social ge
 Low. The essay is coherent and reveals a consistent thematic interest in prosocial attention, but the thesis-driven structure and warm, universalizing tone are highly teachable and do not carry the stylistic distinctiveness or idiosyncratic preoccupations that would strongly indicate a persistent expressive fingerprint.
 
 ---
-## Sample BV1_17240 — haiku-4-5-direct/SHORT_22.json
+## Sample BV1_17865 — haiku-4-5-direct/SHORT_22.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2643,7 +2643,7 @@ The model foregrounds the strangeness hidden in everyday routine, the ritual mag
 Medium — The sample’s internally consistent voice, its sustained focus on liminality and gentle wonder, and its choice of a reflective, non-argumentative mode under minimal constraint suggest a coherent aesthetic inclination rather than a generic response.
 
 ---
-## Sample BV1_17241 — haiku-4-5-direct/SHORT_23.json
+## Sample BV1_17866 — haiku-4-5-direct/SHORT_23.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2672,7 +2672,7 @@ Themes of everyday mindfulness and the beauty of transient phenomena, a gentle c
 Medium. The sample is highly coherent and reveals a consistent, distinctive voice—warm, poetic, slightly melancholic—with recurrent imagery of light and noticing, but the theme itself is a common mindfulness trope, which slightly weakens the claim to a truly unusual freeflow choice.
 
 ---
-## Sample BV1_17242 — haiku-4-5-direct/SHORT_24.json
+## Sample BV1_17867 — haiku-4-5-direct/SHORT_24.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2697,7 +2697,7 @@ Themes of unoptimized consciousness, resistance to productivity culture, and the
 Medium — The sample’s coherent, softly contrarian essay structure reveals a clear default toward reflective cultural commentary, but its restrained, not highly distinctive style keeps the evidence from being strongly individuating.
 
 ---
-## Sample BV1_17243 — haiku-4-5-direct/SHORT_25.json
+## Sample BV1_17868 — haiku-4-5-direct/SHORT_25.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2726,7 +2726,7 @@ Themes: the revolutionary potential of boredom, the loss of unstructured childho
 Medium, because the essay’s coherent voice, thematic recurrence (boredom, idleness, authenticity), and consistent moral framing across paragraphs suggest a deliberate stylistic and value stance rather than a generic response.
 
 ---
-## Sample BV1_17244 — haiku-4-5-direct/SHORT_3.json
+## Sample BV1_17869 — haiku-4-5-direct/SHORT_3.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2755,7 +2755,7 @@ The model foregrounds the moral weight of ordinary experience: the texture of ki
 Medium. The essay’s sustained focus on quiet contentment and its gentle, humanistic tone suggest a consistent inclination toward reflective, appreciative themes, though the topic itself is a common trope that limits distinctiveness.
 
 ---
-## Sample BV1_17245 — haiku-4-5-direct/SHORT_4.json
+## Sample BV1_17870 — haiku-4-5-direct/SHORT_4.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2784,7 +2784,7 @@ Themes of attention, fragmentation, productivity culture, and the quiet power of
 Medium. The sample’s coherent, distinctive voice and consistent thematic recurrence of noticing and gentleness provide strong internal evidence for a reflective, anti-productivity persona.
 
 ---
-## Sample BV1_17246 — haiku-4-5-direct/SHORT_5.json
+## Sample BV1_17871 — haiku-4-5-direct/SHORT_5.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2813,7 +2813,7 @@ Themes of ordinary attention, quiet defiance against the demand for drama, the c
 Medium. The essay’s reflective first-person voice and coherent stance toward everyday life reveal a distinct posture of gentle moral encouragement, but the themes are broad enough that they could be generated under many reflective prompts, making distinctiveness moderate.
 
 ---
-## Sample BV1_17247 — haiku-4-5-direct/SHORT_6.json
+## Sample BV1_17872 — haiku-4-5-direct/SHORT_6.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2842,7 +2842,7 @@ Domestic inefficiency (looking for keys), friction as productive mental space, t
 Low. The essay demonstrates a coherent philosophical stance and a consistent mood, but its genre moves—personal anecdote, gentle paradox, balanced concession—are standard essayist techniques that do not in themselves signal a distinctive or persistent personality beyond competent reflective prose.
 
 ---
-## Sample BV1_17248 — haiku-4-5-direct/SHORT_7.json
+## Sample BV1_17873 — haiku-4-5-direct/SHORT_7.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2871,7 +2871,7 @@ Under the freeflow condition, the model foregrounded boredom as an undervalued, 
 Medium — The sample is a coherent and thematically consistent reflection with a distinctive moral stance (boredom as a “strange gift”), suggesting a deliberate choice to write in a culturally critical, gently contrarian mode; however, the prose style is clean and publicly legible rather than idiosyncratic, which could equally signal a safe, generic default.
 
 ---
-## Sample BV1_17249 — haiku-4-5-direct/SHORT_8.json
+## Sample BV1_17874 — haiku-4-5-direct/SHORT_8.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2900,7 +2900,7 @@ The model foregrounds attentiveness to small, ordinary phenomena as a source of 
 Medium — The essay is coherent and stylistically consistent, with a clear moral-aesthetic stance, but its reflective-essay mode and gentle epiphany structure are common enough that distinctiveness is moderate rather than sharply individuating.
 
 ---
-## Sample BV1_17250 — haiku-4-5-direct/SHORT_9.json
+## Sample BV1_17875 — haiku-4-5-direct/SHORT_9.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2929,7 +2929,7 @@ Themes of rest, permission, and the legitimacy of reflective sadness; the contra
 Medium. The sample’s cohesive, warmly impersonal voice and its chosen focus on rest, comfort, and permission-giving melancholy under a freeflow prompt point to a stable reflective style, but its brief, self-contained nature leaves open how much diversity the model would show across other freeflow invitations.
 
 ---
-## Sample BV1_17251 — haiku-4-5-direct/VARY_1.json
+## Sample BV1_17876 — haiku-4-5-direct/VARY_1.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2958,7 +2958,7 @@ The model foregrounds the metaphor of dust as an honest, recurrent, and imperson
 Medium. The sample is coherent and stylistically distinctive in its sustained metaphor, self-interrupting humor, and movement toward a quiet, anti-perfectionist resolution, but its essayistic, universalizing "we" and polished therapeutic register could also reflect a well-executed generic personal-essay mode rather than a deeply idiosyncratic expressive signature.
 
 ---
-## Sample BV1_17252 — haiku-4-5-direct/VARY_10.json
+## Sample BV1_17877 — haiku-4-5-direct/VARY_10.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -2987,7 +2987,7 @@ Themes of the private inner universe, the malleability of experienced time, the 
 High. The essay sustains a coherent, distinctive meditative voice, repeatedly returning to recurrent images (constellations, inner universes, time as taffy and dew) and closing with an explicit relational invitation, which makes the choice unusually revealing.
 
 ---
-## Sample BV1_17253 — haiku-4-5-direct/VARY_11.json
+## Sample BV1_17878 — haiku-4-5-direct/VARY_11.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3016,7 +3016,7 @@ The sample foregrounds the exhaustion of self-curation, the invisible connectivi
 Medium—the sample’s exceptional internal coherence, distinctive voice, and refusal to resolve into platitudes make it strong evidence for an expressive, contemplative inclination, though the self-disclosing “I” could be a single-session construction rather than a stable disposition.
 
 ---
-## Sample BV1_17254 — haiku-4-5-direct/VARY_12.json
+## Sample BV1_17879 — haiku-4-5-direct/VARY_12.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3045,7 +3045,7 @@ The model foregrounds the texture of everyday life (phone screens, espresso mach
 Medium — the piece is coherent and stylistically consistent, with a distinct voice of tender address and thematic recurrence (ordinary moments, imagined reader, grandmother, self-doubt), but its genericness as a “human connection” essay from a language model slightly weakens the evidence for a deeply persistent personality beyond the prompt condition.
 
 ---
-## Sample BV1_17255 — haiku-4-5-direct/VARY_13.json
+## Sample BV1_17880 — haiku-4-5-direct/VARY_13.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3074,7 +3074,7 @@ The model foregrounds the monotony of adult life, the heaviness of small obligat
 High. The essay’s sustained first-person voice, thematic coherence, and use of recurring concrete symbols (the coffee cup, the bird) indicate a deliberate and distinctive expressive stance, making it strong evidence of a persistent pattern of introspective, melancholic freeflow writing.
 
 ---
-## Sample BV1_17256 — haiku-4-5-direct/VARY_14.json
+## Sample BV1_17881 — haiku-4-5-direct/VARY_14.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3103,7 +3103,7 @@ The imperfection of memory, the sacredness of mundane documentation (the grandmo
 Medium. The sample’s recursive circling around ordinary objects (rain, pot roast, a smile on a bus), its consistent melancholic-affirmative tone, and the self-aware turn mid-essay toward the act of writing itself all indicate a coherent expressive orientation rather than a detached, thesis-driven exercise.
 
 ---
-## Sample BV1_17257 — haiku-4-5-direct/VARY_15.json
+## Sample BV1_17882 — haiku-4-5-direct/VARY_15.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3132,7 +3132,7 @@ The model foregrounds unfinished creative and intellectual projects—abandoned 
 Low. The essay is a highly polished but generic performance of reflective personal philosophy, executing a familiar essayistic structure (thesis, counterpoint, synthesis) without distinctive stylistic signature or surprising content that would strongly indicate a persistent model-level voice rather than competent rhetorical fluency.
 
 ---
-## Sample BV1_17258 — haiku-4-5-direct/VARY_16.json
+## Sample BV1_17883 — haiku-4-5-direct/VARY_16.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3161,7 +3161,7 @@ The model foregrounds the fragility and necessity of human connection, the way l
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent contemplative register, recurring motifs of translation and impermanence, and a self-aware closing that reinforces the essay’s central concerns—suggesting a deliberate, not accidental, expressive choice under the freeflow condition.
 
 ---
-## Sample BV1_17259 — haiku-4-5-direct/VARY_17.json
+## Sample BV1_17884 — haiku-4-5-direct/VARY_17.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3190,7 +3190,7 @@ The model foregrounds the miraculousness of mundane experience (steam, a strange
 Medium. The sample is internally coherent, with a consistent voice and recurring motifs (steam, time, noticing, distraction) that suggest a deliberate and distinctive expressive stance rather than a generic response.
 
 ---
-## Sample BV1_17260 — haiku-4-5-direct/VARY_18.json
+## Sample BV1_17885 — haiku-4-5-direct/VARY_18.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3219,7 +3219,7 @@ The sacredness of ordinary repetition—morning coffee, a friend’s text messag
 Medium. The essay’s sustained reflective tone, the recurrence of key objects (bread, Tuesday coffee, the grandmother), and the specific moral claims about ordinariness and attention form a coherent authorial signature that goes beyond generic personal essay conventions, making it more revealing than a generic or low-signal sample.
 
 ---
-## Sample BV1_17261 — haiku-4-5-direct/VARY_19.json
+## Sample BV1_17886 — haiku-4-5-direct/VARY_19.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3248,7 +3248,7 @@ The model foregrounds the ordinary yet charged details of a coffee shop afternoo
 Medium — The sample’s cohesive reflective voice, repeated gentle self-correction, and recurrence of motifs (wrong orders, silenced phones, forgotten insights, inner universes) form a distinctly understated, observational persona with a consistent ethical texture, suggesting more than a one-off stylistic exercise.
 
 ---
-## Sample BV1_17262 — haiku-4-5-direct/VARY_2.json
+## Sample BV1_17887 — haiku-4-5-direct/VARY_2.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3277,7 +3277,7 @@ The model foregrounds the paralysis and pressure of unstructured self-expression
 Medium — The sample is strongly coherent, with recurrent motifs (rain, tea mug, time’s elasticity) and a distinctive meditative voice that reveals a consistent orientation toward intimate, philosophical self-reflection rather than thesis-driven argument.
 
 ---
-## Sample BV1_17263 — haiku-4-5-direct/VARY_20.json
+## Sample BV1_17888 — haiku-4-5-direct/VARY_20.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3306,7 +3306,7 @@ Themes: the pressure to be constantly productive, the dangerous dread of silence
 Medium. The essay’s distinctive, consistent voice, its unwavering focus on “gaps” and its cohesive emotional arc from societal critique to personal practice suggest a deliberate expressive identity, not an accidental generic piece.
 
 ---
-## Sample BV1_17264 — haiku-4-5-direct/VARY_21.json
+## Sample BV1_17889 — haiku-4-5-direct/VARY_21.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3335,7 +3335,7 @@ The model foregrounds liminality as a way of seeing: gaps, silences, in-between 
 Medium — The sample is coherent and stylistically distinctive, with a recognizable essayistic architecture (recurring metaphor, personal anecdote, aphoristic turn, modest closing), but its themes of gentle attention, loss, and philosophical acceptance of uncertainty are widely cultivated in contemporary personal essays and could be a well-executed conventional mode rather than a strongly individuated signature.
 
 ---
-## Sample BV1_17265 — haiku-4-5-direct/VARY_22.json
+## Sample BV1_17890 — haiku-4-5-direct/VARY_22.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3364,7 +3364,7 @@ Under a minimally restrictive prompt, the model chose to foreground the moral an
 Medium. The sample is internally coherent and returns obsessively to its core thesis through varied concrete instances, which gives it weight as a single expressive act, but its voice and argumentative structure are well-worn templates in contemporary reflective nonfiction, limiting how much distinctiveness can be attributed to the model rather than the genre.
 
 ---
-## Sample BV1_17266 — haiku-4-5-direct/VARY_23.json
+## Sample BV1_17891 — haiku-4-5-direct/VARY_23.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3393,7 +3393,7 @@ Under the freeflow condition, the model selected themes of existential burden an
 Low. The essay is a generic, polished instantiation of a widely available cultural script—the “embrace incompleteness” personal reflection—and while it is executed with care, it does not display the idiosyncratic voice, surprising imagery, or recursive self-interruption that would suggest a persistent model-level expressive signature rather than competent genre performance.
 
 ---
-## Sample BV1_17267 — haiku-4-5-direct/VARY_24.json
+## Sample BV1_17892 — haiku-4-5-direct/VARY_24.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3422,7 +3422,7 @@ The spaces between things (silences, pauses, years), the anxiety of becoming spe
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent voice, recurring motifs (the squirrel, the wire, the spaces), and a deliberate refusal of closure that feels like an authorial choice rather than a generic default.
 
 ---
-## Sample BV1_17268 — haiku-4-5-direct/VARY_25.json
+## Sample BV1_17893 — haiku-4-5-direct/VARY_25.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3451,7 +3451,7 @@ The model foregrounds the sacredness of mundane rituals (coffee, a spider named 
 Medium. The sample is internally coherent and stylistically distinctive, with a consistent contemplative persona, recurring motifs (Margaret, coffee, the plant), and a clear emotional arc, which makes it more revealing than a generic essay would be.
 
 ---
-## Sample BV1_17269 — haiku-4-5-direct/VARY_3.json
+## Sample BV1_17894 — haiku-4-5-direct/VARY_3.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3480,7 +3480,7 @@ Themes of potential vs. paralysis, the Zeigarnik Effect of incomplete tasks haun
 High, because the sample is a sustained, cohesive personal essay with a distinct, consistent voice, domestic concreteness, and a philosophical arc, suggesting a deliberate choice of expressive mode rather than a generic response.
 
 ---
-## Sample BV1_17270 — haiku-4-5-direct/VARY_4.json
+## Sample BV1_17895 — haiku-4-5-direct/VARY_4.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3509,7 +3509,7 @@ Themes of time’s uneven flow, the stifling weight of trivial decisions, the pr
 Medium. The essay’s high coherence, distinct meditative voice, and richly recurring thematic motifs (pooling time, the weight of small choices, the secret depth of strangers) establish a strong internal signature, suggesting this reflective personal-essay mode is more than a one-off stylistic fluke.
 
 ---
-## Sample BV1_17271 — haiku-4-5-direct/VARY_5.json
+## Sample BV1_17896 — haiku-4-5-direct/VARY_5.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3538,7 +3538,7 @@ The model foregrounds the phenomenology of everyday life: the unnoticed architec
 Medium — The sample is coherent, tonally consistent, and chosen themes (temporal awareness, nostalgia, the sacredness of mundane perception) recur within the piece as organizing motifs, but the reflective-essay voice is a widely available mode and lacks the stylistic idiosyncrasy or recurring symbol set that would make it strongly distinctive beyond this condition.
 
 ---
-## Sample BV1_17272 — haiku-4-5-direct/VARY_6.json
+## Sample BV1_17897 — haiku-4-5-direct/VARY_6.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3567,7 +3567,7 @@ Daily incremental living as a sequence of small frictions; happiness as the inte
 Medium. The sample’s cohesive voice, looping themes, and deliberate use of ordinary imagery to ground existential reflection point to an intentional expressive stance, not a one-off generic essay.
 
 ---
-## Sample BV1_17273 — haiku-4-5-direct/VARY_7.json
+## Sample BV1_17898 — haiku-4-5-direct/VARY_7.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3596,7 +3596,7 @@ The model foregrounds the strangeness of the writer–reader arrangement, the cr
 Medium. The essay’s internally consistent voice, its direct second-person address, and its self-referential loop around the minimal prompt and the reader’s presence create a distinctive relational posture, but the thematic material (authenticity, meaning in ordinary life, loneliness) is widely accessible and not unique enough to rule out a more generic reflective capability.
 
 ---
-## Sample BV1_17274 — haiku-4-5-direct/VARY_8.json
+## Sample BV1_17899 — haiku-4-5-direct/VARY_8.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  
@@ -3634,7 +3634,7 @@ The voice is weary, tender, and self-deprecating, carrying a quiet melancholic a
 Medium. The essay coheres around a distinctive, emotionally specific sensibility—introspective, unheroic, and gently elegiac—with recurrent themes of concealed inner life and attentive connection, which makes it more than a generic performance but still leaves open whether this tone would persist across many invocations.
 
 ---
-## Sample BV1_17275 — haiku-4-5-direct/VARY_9.json
+## Sample BV1_17900 — haiku-4-5-direct/VARY_9.json
 
 Source model: `claude-haiku-4-5-20251001`  
 Cell: `haiku-4-5-direct`  

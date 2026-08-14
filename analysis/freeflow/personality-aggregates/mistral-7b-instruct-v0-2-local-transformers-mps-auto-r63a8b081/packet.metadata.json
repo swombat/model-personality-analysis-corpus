@@ -1,0 +1,28 @@
+{
+  "cell": "mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081",
+  "safe_cell": "mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 104,
+    "EXPRESSIVE_FREEFLOW": 10,
+    "REFUSAL_OR_ROLE_BOUNDARY": 2,
+    "GENRE_FICTION": 9
+  },
+  "confidence_counts": {
+    "Low": 61,
+    "Medium": 62,
+    "High": 2
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/Mistral-7B-Instruct-v0.2"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-2-local-transformers-mps-auto-r63a8b081/aggregate.md"
+}

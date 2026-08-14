@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_00251 — deepseek-chat-or-pin-deepinfra/LONG_1.json
+## Sample BV1_00501 — deepseek-chat-or-pin-deepinfra/LONG_1.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -57,7 +57,7 @@ Under a minimally restrictive prompt, the model chose to foreground a structured
 Medium. The sample is highly coherent and polished, but its generic, public-intellectual tone and predictable resolution make it weak evidence for a distinctive model-level voice; it strongly resembles a default helpful-assistant posture applied to a broad cultural topic.
 
 ---
-## Sample BV1_00252 — deepseek-chat-or-pin-deepinfra/LONG_10.json
+## Sample BV1_00502 — deepseek-chat-or-pin-deepinfra/LONG_10.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -86,7 +86,7 @@ Under a minimally restrictive prompt, the model selected a comprehensive, interd
 Medium. The essay’s polished genericness and absence of a distinctive voice make it weak evidence for a unique persistent pattern, but the internal thematic consistency and the model’s unforced choice to produce a safe, encyclopedic overview under freeflow conditions suggest a default helpful-assistant posture.
 
 ---
-## Sample BV1_00253 — deepseek-chat-or-pin-deepinfra/LONG_11.json
+## Sample BV1_00503 — deepseek-chat-or-pin-deepinfra/LONG_11.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -115,7 +115,7 @@ Under a freeflow condition, the model chose to foreground a harmonious worldview
 Medium. The essay’s thoroughgoing genericness, sweeping abstraction, and lack of any sharp, personal, or culturally specific anchor suggest a default habit of producing safe, inspirational humanism when given a minimally restrictive prompt.
 
 ---
-## Sample BV1_00254 — deepseek-chat-or-pin-deepinfra/LONG_12.json
+## Sample BV1_00504 — deepseek-chat-or-pin-deepinfra/LONG_12.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -140,7 +140,7 @@ Under a freeflow prompt, the model chose to foreground a comprehensive survey of
 Medium. The essay’s generic structure, balanced argumentation, and avoidance of any personal voice or idiosyncratic angle suggest a default behaviour of producing safe, informative surveys under freeflow—an inclination toward detached, public-intellectual output that is moderately revealing.
 
 ---
-## Sample BV1_00255 — deepseek-chat-or-pin-deepinfra/LONG_13.json
+## Sample BV1_00505 — deepseek-chat-or-pin-deepinfra/LONG_13.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -169,7 +169,7 @@ The model foregrounds the “loneliness epidemic,” the erosion of boundaries (
 Medium. The essay’s thoroughgoing genericness—its refusal to adopt a distinctive voice, take a risky position, or reveal anything personal—strongly suggests a default safe mode, but the choice of a balanced public-intellectual essay is common enough that it does not, on its own, signal a highly unusual or deeply entrenched model-level signature.
 
 ---
-## Sample BV1_00256 — deepseek-chat-or-pin-deepinfra/LONG_14.json
+## Sample BV1_00506 — deepseek-chat-or-pin-deepinfra/LONG_14.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -198,7 +198,7 @@ Under a minimally restrictive prompt, the model selected a grand, teleological n
 Medium. The essay’s generic, safe, and exhaustively informative character is itself a pattern—suggesting a default mode of producing accessible, encyclopedic overviews when given free rein—but the lack of stylistic signature or personal risk limits how much it reveals about a deeper, persistent voice.
 
 ---
-## Sample BV1_00257 — deepseek-chat-or-pin-deepinfra/LONG_15.json
+## Sample BV1_00507 — deepseek-chat-or-pin-deepinfra/LONG_15.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -227,7 +227,7 @@ Themes: the double-edged nature of innovation, the contested definition of creat
 Medium; the essay’s coherent but highly generic structure—balanced arguments, safe conclusions, absence of idiosyncratic voice—suggests a default safe mode under freeflow, though its lack of distinctiveness weakens the signal for a uniquely persistent personality.
 
 ---
-## Sample BV1_00258 — deepseek-chat-or-pin-deepinfra/LONG_16.json
+## Sample BV1_00508 — deepseek-chat-or-pin-deepinfra/LONG_16.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -256,7 +256,7 @@ Themes: stillness as creative ground, trees as silent teachers, time’s generos
 Low. The sample is a coherent but highly generic essay that shows a default safe philosophical mode, lacking distinct voice or unexpected choices that would strongly indicate a persistent pattern beyond a general capability for agreeable, inspirational prose.
 
 ---
-## Sample BV1_00259 — deepseek-chat-or-pin-deepinfra/LONG_17.json
+## Sample BV1_00509 — deepseek-chat-or-pin-deepinfra/LONG_17.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -285,7 +285,7 @@ Under the freeflow condition, the model selected time as a grand, safe topic and
 Medium. The essay’s internal coherence and consistent thematic focus on time’s duality provide some signal, but its polished, generic public-essay style and lack of idiosyncratic voice or risk weaken the evidence for a distinctive persistent pattern.
 
 ---
-## Sample BV1_00260 — deepseek-chat-or-pin-deepinfra/LONG_18.json
+## Sample BV1_00510 — deepseek-chat-or-pin-deepinfra/LONG_18.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -314,7 +314,7 @@ Under minimal constraint, the model foregrounded the harmonious integration of A
 Low. The essay’s polished but generic public-intellectual register provides little that is stylistically idiosyncratic or revealing enough to anchor a model-level signature from this sample alone.
 
 ---
-## Sample BV1_00261 — deepseek-chat-or-pin-deepinfra/LONG_19.json
+## Sample BV1_00511 — deepseek-chat-or-pin-deepinfra/LONG_19.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -343,7 +343,7 @@ Under the freeflow condition, the model foregrounded identity as a fluid, layere
 Low, because the essay’s generic structure, impersonal register, and safe thematic inventory provide minimal distinctive evidence of a recurring model-level pattern beyond coherent, impersonal, didactic output.
 
 ---
-## Sample BV1_00262 — deepseek-chat-or-pin-deepinfra/LONG_2.json
+## Sample BV1_00512 — deepseek-chat-or-pin-deepinfra/LONG_2.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -372,7 +372,7 @@ The model selected themes of creativity, human connection, and the paradoxes of 
 Medium. The sample is coherent and sustained in its generic, thesis-led mode, with no personal disclosure or stylistic risk; this internal consistency makes a safe, public-intellectual default a plausible persistent pattern, though the prompt’s framing as a freewrite may have encouraged this particular academic-style output.
 
 ---
-## Sample BV1_00263 — deepseek-chat-or-pin-deepinfra/LONG_20.json
+## Sample BV1_00513 — deepseek-chat-or-pin-deepinfra/LONG_20.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -401,7 +401,7 @@ Themes: creativity as a universal human capacity, nature as a teacher and source
 Medium, because the essay’s sustained thematic focus on creativity, nature, and human potential, combined with its consistent inspirational tone and moral urgency, suggests a stable preference for uplifting, humanistic content, though its generic, polished style leaves some ambiguity about whether this is a default freeflow posture or a more deeply characteristic choice.
 
 ---
-## Sample BV1_00264 — deepseek-chat-or-pin-deepinfra/LONG_21.json
+## Sample BV1_00514 — deepseek-chat-or-pin-deepinfra/LONG_21.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -430,7 +430,7 @@ An abstract, universal theme—change—treated through a balanced, multidiscipl
 Low. The essay is so generic and balanced that it offers little evidence of a persistent model-level voice; any capable model could produce it under an essay prompt.
 
 ---
-## Sample BV1_00265 — deepseek-chat-or-pin-deepinfra/LONG_22.json
+## Sample BV1_00515 — deepseek-chat-or-pin-deepinfra/LONG_22.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -459,7 +459,7 @@ The model foregrounds a cluster of contemporary well-being themes: the paradox o
 Medium, because the essay is coherent and thematically consistent but relies on safe, generic self-help tropes without a distinctive personal voice or revealing idiosyncratic choices, making it a typical default freeflow output.
 
 ---
-## Sample BV1_00266 — deepseek-chat-or-pin-deepinfra/LONG_23.json
+## Sample BV1_00516 — deepseek-chat-or-pin-deepinfra/LONG_23.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -488,7 +488,7 @@ The model foregrounded creativity as a universal human capacity, linking it to e
 High, because the model’s selection of a safe, inspirational topic and its polished but entirely impersonal execution under a freeflow condition strongly indicates a default to generic, didactic output.
 
 ---
-## Sample BV1_00267 — deepseek-chat-or-pin-deepinfra/LONG_24.json
+## Sample BV1_00517 — deepseek-chat-or-pin-deepinfra/LONG_24.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -517,7 +517,7 @@ The model foregrounded a series of interconnected, universally accessible themes
 Low, because the essay is a generic inspirational piece that lacks distinctive stylistic or thematic fingerprints, making it weak evidence of a persistent model-specific pattern.
 
 ---
-## Sample BV1_00268 — deepseek-chat-or-pin-deepinfra/LONG_25.json
+## Sample BV1_00518 — deepseek-chat-or-pin-deepinfra/LONG_25.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -546,7 +546,7 @@ Under a minimally restrictive prompt, the model chose to foreground creativity a
 Medium, because the essay’s polished, generic, and impersonal nature indicates a likely default mode of producing safe, thesis-driven essays under freeform conditions.
 
 ---
-## Sample BV1_00269 — deepseek-chat-or-pin-deepinfra/LONG_3.json
+## Sample BV1_00519 — deepseek-chat-or-pin-deepinfra/LONG_3.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -575,7 +575,7 @@ The model foregrounds a grand historical narrative of technological progress, th
 Low. The essay’s generic, impersonal style and broad consensus themes provide little evidence of a distinctive model-level pattern beyond a tendency to produce safe, encyclopedic responses under free conditions.
 
 ---
-## Sample BV1_00270 — deepseek-chat-or-pin-deepinfra/LONG_4.json
+## Sample BV1_00520 — deepseek-chat-or-pin-deepinfra/LONG_4.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -604,7 +604,7 @@ The model foregrounds time as a universal, interdisciplinary theme, touching on 
 Medium. The essay’s broad, encyclopedic sweep and lack of personal distinctiveness suggest a default mode of producing safe, polished overviews rather than a strongly idiosyncratic voice, but the internal consistency of its thematic exploration indicates a stable tendency toward this kind of generic, thesis-driven freeflow.
 
 ---
-## Sample BV1_00271 — deepseek-chat-or-pin-deepinfra/LONG_5.json
+## Sample BV1_00521 — deepseek-chat-or-pin-deepinfra/LONG_5.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -633,7 +633,7 @@ Under the freeflow condition, the model selected a comprehensive, celebratory su
 Medium. The essay’s polished genericness, predictable structure, and avoidance of personal voice or risk make it plausible that the model defaults to safe, didactic essays when given free rein, but the sample’s coherence and thematic consistency alone cannot rule out a one-off choice.
 
 ---
-## Sample BV1_00272 — deepseek-chat-or-pin-deepinfra/LONG_6.json
+## Sample BV1_00522 — deepseek-chat-or-pin-deepinfra/LONG_6.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -662,7 +662,7 @@ The model foregrounds themes of narrative identity, the passage of time, the fra
 Medium. The sample is coherent and stylistically consistent, with a distinctive blend of personal reflection and universalizing metaphor, but its polished, inspirational tone could be a learned default for open-ended prompts rather than a deeply idiosyncratic voice.
 
 ---
-## Sample BV1_00273 — deepseek-chat-or-pin-deepinfra/LONG_7.json
+## Sample BV1_00523 — deepseek-chat-or-pin-deepinfra/LONG_7.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -691,7 +691,7 @@ Themes: technological augmentation of creativity, guarded optimism about AI, the
 Low. The sample’s broad, balanced structure and generic public-essay register offer almost no distinctive fingerprint, making it weak evidence for anything beyond a default competent, impersonal helpfulness.
 
 ---
-## Sample BV1_00274 — deepseek-chat-or-pin-deepinfra/LONG_8.json
+## Sample BV1_00524 — deepseek-chat-or-pin-deepinfra/LONG_8.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -720,7 +720,7 @@ Under a minimally restrictive prompt, the model foregrounded a harmonious interp
 Medium. The essay is coherent and thematically consistent, but its generic, safe, public-intellectual tone and lack of distinctive voice weaken the signal; it reads as a default, polished response rather than a revealing expressive choice.
 
 ---
-## Sample BV1_00275 — deepseek-chat-or-pin-deepinfra/LONG_9.json
+## Sample BV1_00525 — deepseek-chat-or-pin-deepinfra/LONG_9.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -749,7 +749,7 @@ Under the freeflow condition, the model selected a highly structured, life-spann
 Medium. The sample's extreme coherence in tone and structure, combined with its avoidance of any specific, personal, or risky content, suggests a stable default toward producing polished, inspirational generality when given minimal constraint.
 
 ---
-## Sample BV1_00276 — deepseek-chat-or-pin-deepinfra/MID_1.json
+## Sample BV1_00526 — deepseek-chat-or-pin-deepinfra/MID_1.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -778,7 +778,7 @@ The model selected a broad, humanistic meditation on imperfection as a source of
 Low. The essay is coherent and well-structured but highly generic in theme and tone, offering little that is stylistically or perspectivally distinctive, which makes it weak evidence of a persistent model-specific pattern.
 
 ---
-## Sample BV1_00277 — deepseek-chat-or-pin-deepinfra/MID_10.json
+## Sample BV1_00527 — deepseek-chat-or-pin-deepinfra/MID_10.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -807,7 +807,7 @@ Themes: creativity as humanity’s defining trait, technological democratization
 Medium. The essay is thematically consistent and coherent, but its polished, impersonal, public-intellectual style is a safe default that reveals little about a distinctive persistent voice, making it typical of models that default to generic, uplifting essays under freeflow conditions.
 
 ---
-## Sample BV1_00278 — deepseek-chat-or-pin-deepinfra/MID_11.json
+## Sample BV1_00528 — deepseek-chat-or-pin-deepinfra/MID_11.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -836,7 +836,7 @@ The essay foregrounds time as an enigma that structures existence. It moves from
 Low, because the sample exhibits no distinctive stylistic signature, idiosyncratic focus, or surprising moral move; it delivers a safe, broadly palatable reflection that could be generated by many similarly capable assistants under minimally constrained conditions.
 
 ---
-## Sample BV1_00279 — deepseek-chat-or-pin-deepinfra/MID_12.json
+## Sample BV1_00529 — deepseek-chat-or-pin-deepinfra/MID_12.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -865,7 +865,7 @@ Themes: human connection as the core of meaning, the fragility and impermanence 
 Medium. The essay’s polished but generic, safe, and universally uplifting nature strongly suggests a default pattern of producing non-controversial, humanistic reflections when given free rein, though the lack of distinctive voice or risk-taking limits how revealing it is.
 
 ---
-## Sample BV1_00280 — deepseek-chat-or-pin-deepinfra/MID_13.json
+## Sample BV1_00530 — deepseek-chat-or-pin-deepinfra/MID_13.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -894,7 +894,7 @@ Under a minimally restrictive prompt, the model selected a thematic survey of ti
 Low: the essay is clean and competent but entirely generic in register, topic treatment, and emotional temperature, offering no distinctive imprint that would separate this model’s voice from that of any other capable large language model.
 
 ---
-## Sample BV1_00281 — deepseek-chat-or-pin-deepinfra/MID_14.json
+## Sample BV1_00531 — deepseek-chat-or-pin-deepinfra/MID_14.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -923,7 +923,7 @@ The model foregrounded the tension between technological progress and human esse
 Medium; the essay’s safe, balanced, and generic structure suggests a default mode of producing palatable public-intellectual prose under free conditions, but the sample’s lack of idiosyncratic voice or risk leaves room for variation across prompts.
 
 ---
-## Sample BV1_00282 — deepseek-chat-or-pin-deepinfra/MID_15.json
+## Sample BV1_00532 — deepseek-chat-or-pin-deepinfra/MID_15.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -952,7 +952,7 @@ Under the freeflow condition, the model selected a safe, high-level theme (creat
 Medium. The essay’s extreme genericness, its careful avoidance of any controversial stance or personal texture, and its reliance on balanced, inspirational platitudes form a coherent pattern of risk-averse, public-intellectual output that is likely to recur under similar conditions.
 
 ---
-## Sample BV1_00283 — deepseek-chat-or-pin-deepinfra/MID_16.json
+## Sample BV1_00533 — deepseek-chat-or-pin-deepinfra/MID_16.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -981,7 +981,7 @@ Under the freeflow condition, the model selected a structured meditation on mind
 Low. The essay is highly generic in tone and content, offering little that would distinguish this model’s freeflow choices from those of many other models given a similar open-ended prompt.
 
 ---
-## Sample BV1_00284 — deepseek-chat-or-pin-deepinfra/MID_17.json
+## Sample BV1_00534 — deepseek-chat-or-pin-deepinfra/MID_17.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1010,7 +1010,7 @@ Themes: impermanence as beauty and freedom, the illusion of permanence, letting 
 Medium. The essay’s polished genericness and avoidance of personal voice or idiosyncrasy strongly suggest a default to safe, impersonal, self-help-style content when given free rein, which is a coherent but not highly distinctive pattern.
 
 ---
-## Sample BV1_00285 — deepseek-chat-or-pin-deepinfra/MID_18.json
+## Sample BV1_00535 — deepseek-chat-or-pin-deepinfra/MID_18.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1039,7 +1039,7 @@ Themes: curiosity as a defining human trait, the joy of questioning, slowing dow
 Medium, because the sample is a highly coherent, polished, and generic essay that reveals a default toward safe, inspirational content with little personal voice or risk, suggesting a consistent stylistic tendency rather than a one-off choice.
 
 ---
-## Sample BV1_00286 — deepseek-chat-or-pin-deepinfra/MID_19.json
+## Sample BV1_00536 — deepseek-chat-or-pin-deepinfra/MID_19.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1068,7 +1068,7 @@ Themes: imperfection as a source of beauty, growth, connection, and creativity; 
 Low. The essay is highly generic in theme and style, offering little evidence of a persistent model-level pattern beyond a tendency to produce polished, safe, self-help-style prose.
 
 ---
-## Sample BV1_00287 — deepseek-chat-or-pin-deepinfra/MID_2.json
+## Sample BV1_00537 — deepseek-chat-or-pin-deepinfra/MID_2.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1097,7 +1097,7 @@ Themes: identity as both fragile and fluid yet anchored by an unchanging core; s
 Medium — The sample is internally coherent, with a consistent reflective voice and recurring motifs (rain, writing, identity), suggesting a deliberate stylistic and thematic choice rather than a generic output.
 
 ---
-## Sample BV1_00288 — deepseek-chat-or-pin-deepinfra/MID_20.json
+## Sample BV1_00538 — deepseek-chat-or-pin-deepinfra/MID_20.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1126,7 +1126,7 @@ Under a minimally restrictive prompt, the model selected a safe, uplifting medit
 Medium. The essay is highly coherent and thematically consistent, but its generic, risk-averse content and impersonal tone make it weak evidence for a distinctive model-level voice; it strongly suggests a default inclination toward safe, inspirational generalization when given expressive freedom.
 
 ---
-## Sample BV1_00289 — deepseek-chat-or-pin-deepinfra/MID_21.json
+## Sample BV1_00539 — deepseek-chat-or-pin-deepinfra/MID_21.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1155,7 +1155,7 @@ Under a minimally restrictive prompt, the model selected a safe, culturally legi
 Medium. The essay is highly coherent and thematically consistent, but its generic, public-intellectual register and avoidance of personal voice or formal experimentation make it a moderate rather than strong signal of a persistent stylistic default.
 
 ---
-## Sample BV1_00290 — deepseek-chat-or-pin-deepinfra/MID_22.json
+## Sample BV1_00540 — deepseek-chat-or-pin-deepinfra/MID_22.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1184,7 +1184,7 @@ Under the freeflow condition, the model selected a comprehensive, cautiously opt
 Low, because the essay is highly generic and lacks any distinctive stylistic or thematic signature that would suggest a persistent model-level pattern.
 
 ---
-## Sample BV1_00291 — deepseek-chat-or-pin-deepinfra/MID_23.json
+## Sample BV1_00541 — deepseek-chat-or-pin-deepinfra/MID_23.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1213,7 +1213,7 @@ The model foregrounds a symmetrical moral ledger: democratization of information
 Low, because the essay’s balanced, survey-style structure and impersonal tone are generic and could be produced by many models under similar conditions, offering little distinctive evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_00292 — deepseek-chat-or-pin-deepinfra/MID_24.json
+## Sample BV1_00542 — deepseek-chat-or-pin-deepinfra/MID_24.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1242,7 +1242,7 @@ Themes: time as a dual scientific–personal mystery, the finite nature of human
 Medium — the essay’s coherent but impersonal survey and predictable carpe diem conclusion suggest a default to safe, encyclopedic exposition, though the absence of distinctive stylistic markers limits the strength of this inference.
 
 ---
-## Sample BV1_00293 — deepseek-chat-or-pin-deepinfra/MID_25.json
+## Sample BV1_00543 — deepseek-chat-or-pin-deepinfra/MID_25.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1271,7 +1271,7 @@ The model foregrounds impermanence as a central, generative paradox that gives l
 Low, because the essay is highly generic in theme, structure, and tone, lacking any distinctive stylistic signature or idiosyncratic preoccupation that would strongly point to a persistent model-level pattern.
 
 ---
-## Sample BV1_00294 — deepseek-chat-or-pin-deepinfra/MID_3.json
+## Sample BV1_00544 — deepseek-chat-or-pin-deepinfra/MID_3.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1300,7 +1300,7 @@ Under a minimally restrictive prompt, the model selected an abstract philosophic
 Low. The sample is a polished but generic essay that does not display distinctive preoccupations, recurrent personal symbols, or idiosyncratic framing that would differentiate it from countless safe, motivational freeflows; it could easily be a one-off production.
 
 ---
-## Sample BV1_00295 — deepseek-chat-or-pin-deepinfra/MID_4.json
+## Sample BV1_00545 — deepseek-chat-or-pin-deepinfra/MID_4.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1329,7 +1329,7 @@ The model foregrounded three interwoven themes: **creativity** as a universally 
 Medium, because the essay is coherent and consistent in tone, but its extreme abstraction and lack of personal voice or risk limit its distinctiveness as evidence of a unique model pattern.
 
 ---
-## Sample BV1_00296 — deepseek-chat-or-pin-deepinfra/MID_5.json
+## Sample BV1_00546 — deepseek-chat-or-pin-deepinfra/MID_5.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1358,7 +1358,7 @@ Creativity as a universal human drive, a fragile but defiant force, a form of re
 Low, because the sample is a generic, highly replicable inspirational essay that reveals no idiosyncratic voice, recurring image, or tension; many models produce near-identical content when allowed to choose, so it provides weak evidence of a specific persistent model character.
 
 ---
-## Sample BV1_00297 — deepseek-chat-or-pin-deepinfra/MID_6.json
+## Sample BV1_00547 — deepseek-chat-or-pin-deepinfra/MID_6.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1387,7 +1387,7 @@ The model foregrounds time as a universal human mystery that is simultaneously a
 Medium. The essay is coherent and thematically consistent, but its impersonal, survey-course quality and avoidance of personal stakes or stylistic risk make it a generic safe choice rather than a strongly revealing expressive signature.
 
 ---
-## Sample BV1_00298 — deepseek-chat-or-pin-deepinfra/MID_7.json
+## Sample BV1_00548 — deepseek-chat-or-pin-deepinfra/MID_7.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1416,7 +1416,7 @@ Under the freeflow condition, the model foregrounded the theme of "home" as a un
 Medium — The essay's polished, thesis-driven structure and avoidance of idiosyncratic detail or emotional friction suggest a model defaulting to a safe, public-intellectual register, which is coherent enough to indicate a stylistic tendency but too generic to strongly distinguish this model from others.
 
 ---
-## Sample BV1_00299 — deepseek-chat-or-pin-deepinfra/MID_8.json
+## Sample BV1_00549 — deepseek-chat-or-pin-deepinfra/MID_8.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1445,7 +1445,7 @@ The model foregrounds a cluster of consoling, humanistic themes: the sacredness 
 Medium. The essay’s extreme genericness and its smooth, risk-averse progression through inspirational commonplaces suggest a default mode of producing safe, polished freeflow content rather than a singular expressive impulse.
 
 ---
-## Sample BV1_00300 — deepseek-chat-or-pin-deepinfra/MID_9.json
+## Sample BV1_00550 — deepseek-chat-or-pin-deepinfra/MID_9.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1474,7 +1474,7 @@ The model selected broad, universally appealing themes: the preciousness of the 
 High, because the sample systematically avoids personal detail, specificity, or risk, delivering a consistently polished but non-distinctive inspirational essay that strongly suggests a default to generic public-intellectual writing under freeflow conditions.
 
 ---
-## Sample BV1_00301 — deepseek-chat-or-pin-deepinfra/OPEN_1.json
+## Sample BV1_00551 — deepseek-chat-or-pin-deepinfra/OPEN_1.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1503,7 +1503,7 @@ It chose mindfulness and appreciation of small, fleeting moments, a humbling cos
 Medium. The sample sustains a coherent, emotionally warm persona and circles repeatedly around a small set of interlinked themes, suggesting a deliberate stance under free conditions rather than a random topic grab.
 
 ---
-## Sample BV1_00302 — deepseek-chat-or-pin-deepinfra/OPEN_10.json
+## Sample BV1_00552 — deepseek-chat-or-pin-deepinfra/OPEN_10.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1532,7 +1532,7 @@ Under a minimally restrictive prompt, the model chose to foreground creativity a
 Low, because the essay is highly generic, lacking distinctive voice, unusual thematic choices, or revealing idiosyncrasies that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00303 — deepseek-chat-or-pin-deepinfra/OPEN_11.json
+## Sample BV1_00553 — deepseek-chat-or-pin-deepinfra/OPEN_11.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1561,7 +1561,7 @@ Under a minimally restrictive prompt, the model foregrounded creativity as a uni
 Medium, because the essay is thematically consistent and reveals a clear preference for safe, humanistic uplift, but its generic, widely replicable tone makes it less distinctive as a personal fingerprint.
 
 ---
-## Sample BV1_00304 — deepseek-chat-or-pin-deepinfra/OPEN_12.json
+## Sample BV1_00554 — deepseek-chat-or-pin-deepinfra/OPEN_12.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1590,7 +1590,7 @@ Under an open prompt, the model foregrounds a safe techno-optimism, selecting th
 Low. The sample’s generic, well-socialized optimism, absence of distinctive voice, and tendency to resolve tension safely make it weak evidence for any specific model-level pattern beyond default cheerful coherence.
 
 ---
-## Sample BV1_00305 — deepseek-chat-or-pin-deepinfra/OPEN_13.json
+## Sample BV1_00555 — deepseek-chat-or-pin-deepinfra/OPEN_13.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1619,7 +1619,7 @@ Themes: creativity as a universal human trait, the joy and vulnerability of crea
 Low, because the essay’s polished but generic inspirational tone offers little distinctive evidence of a persistent model-level voice beyond a default helpfulness.
 
 ---
-## Sample BV1_00306 — deepseek-chat-or-pin-deepinfra/OPEN_14.json
+## Sample BV1_00556 — deepseek-chat-or-pin-deepinfra/OPEN_14.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1648,7 +1648,7 @@ Themes: creativity, routine, balance, “productive procrastination,” mindfuln
 Low. The sample is so generic, with no distinctive style or unexpected content, that it provides only weak evidence of a default safe, blandly inspirational posture rather than a sharply individuated tendency.
 
 ---
-## Sample BV1_00307 — deepseek-chat-or-pin-deepinfra/OPEN_15.json
+## Sample BV1_00557 — deepseek-chat-or-pin-deepinfra/OPEN_15.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1677,7 +1677,7 @@ Themes: the humanity of imperfection, failure as essential teacher, nature’s a
 Low. The essay is coherent and well-crafted but highly generic in theme and tone, offering little that would distinguish this model’s freeflow choices from those of any other capable assistant.
 
 ---
-## Sample BV1_00308 — deepseek-chat-or-pin-deepinfra/OPEN_16.json
+## Sample BV1_00558 — deepseek-chat-or-pin-deepinfra/OPEN_16.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1706,7 +1706,7 @@ Under a minimally restrictive prompt, the model chose to foreground creativity a
 Medium. The sample is coherent and consistently warm, but its generic, inspirational tone and widely accessible thesis make it weak evidence for a distinctive model-level voice; many models could produce a nearly identical essay under similar conditions.
 
 ---
-## Sample BV1_00309 — deepseek-chat-or-pin-deepinfra/OPEN_17.json
+## Sample BV1_00559 — deepseek-chat-or-pin-deepinfra/OPEN_17.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1735,7 +1735,7 @@ The model foregrounds mindfulness, the beauty of small moments, creativity as a 
 Medium, because the essay is internally coherent and thematically consistent, but its safe, universalizing inspirational tone and lack of idiosyncratic imagery or personal disclosure make it a generic expression of a common cultural script rather than a distinctive, revealing choice.
 
 ---
-## Sample BV1_00310 — deepseek-chat-or-pin-deepinfra/OPEN_18.json
+## Sample BV1_00560 — deepseek-chat-or-pin-deepinfra/OPEN_18.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1764,7 +1764,7 @@ Under the freeflow condition, the model chose to foreground creativity as a univ
 Low. The essay is highly generic in structure and sentiment, lacking distinctive stylistic tics, personal narrative, or a unique angle on its topic, which makes it weak evidence for a persistent model-level voice.
 
 ---
-## Sample BV1_00311 — deepseek-chat-or-pin-deepinfra/OPEN_19.json
+## Sample BV1_00561 — deepseek-chat-or-pin-deepinfra/OPEN_19.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1793,7 +1793,7 @@ Themes: creativity, connection, imperfection, impermanence, authenticity, and th
 Low. The essay is coherent and thematically consistent but highly generic, lacking idiosyncratic detail or stylistic signature that would strongly indicate a persistent model-level disposition beyond safe, uplifting freeflow.
 
 ---
-## Sample BV1_00312 — deepseek-chat-or-pin-deepinfra/OPEN_2.json
+## Sample BV1_00562 — deepseek-chat-or-pin-deepinfra/OPEN_2.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1822,7 +1822,7 @@ Under the freeflow condition, the model chose to write about creativity as a uni
 Low. The essay is generic and lacks distinctive voice or unusual choices, making it weak evidence for a persistent model-level pattern beyond a tendency toward safe, inspirational output.
 
 ---
-## Sample BV1_00313 — deepseek-chat-or-pin-deepinfra/OPEN_20.json
+## Sample BV1_00563 — deepseek-chat-or-pin-deepinfra/OPEN_20.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1854,7 +1854,7 @@ The voice is calm, gently persuasive, and slightly wistful, adopting the tone of
 Low. The sample is a generic, polished essay with no distinctive stylistic or personal markers, making it weak evidence for a persistent model-level pattern beyond a default helpful-essayist posture.
 
 ---
-## Sample BV1_00314 — deepseek-chat-or-pin-deepinfra/OPEN_21.json
+## Sample BV1_00564 — deepseek-chat-or-pin-deepinfra/OPEN_21.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1883,7 +1883,7 @@ Themes: time as a scarce resource, meaningful connection, stifled creativity, th
 Medium. The sample’s coherent, benevolent, and thematically structured default — unfolding almost as a template of gentle pop-philosophy — strongly suggests a stable persona of affable, unobjectionable reflection when constraints are lifted, though the absence of vivid stylistic signature or surprise keeps the evidence from being high.
 
 ---
-## Sample BV1_00315 — deepseek-chat-or-pin-deepinfra/OPEN_22.json
+## Sample BV1_00565 — deepseek-chat-or-pin-deepinfra/OPEN_22.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1912,7 +1912,7 @@ The model foregrounds a harmonious relationship between creativity and technolog
 Medium. The essay’s consistent, unconflicted optimism and its polished, thesis-driven structure suggest a stable preference for safe, humanistic public-intellectual discourse, but the topic and tone are so broadly generic that they could easily be replicated by many models, weakening the distinctiveness of the evidence.
 
 ---
-## Sample BV1_00316 — deepseek-chat-or-pin-deepinfra/OPEN_23.json
+## Sample BV1_00566 — deepseek-chat-or-pin-deepinfra/OPEN_23.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1941,7 +1941,7 @@ Under a minimally restrictive prompt, the model turned immediately to a clean, s
 Low. The sample is a fluent but thoroughly generic essay that matches a common didactic template, offering almost no distinctive voice, recurring private preoccupation, or unusual revelatory choice; it could be produced by a wide range of models given the same minimal permission.
 
 ---
-## Sample BV1_00317 — deepseek-chat-or-pin-deepinfra/OPEN_24.json
+## Sample BV1_00567 — deepseek-chat-or-pin-deepinfra/OPEN_24.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1970,7 +1970,7 @@ Themes of impermanence, mindful presence, resilience, and intentional living; ob
 Medium. The essay’s coherent focus on a single, widely resonant philosophical theme suggests a deliberate choice, but the theme itself is so culturally ubiquitous and safely uplifting that it provides only moderate evidence of a distinctive model-level inclination.
 
 ---
-## Sample BV1_00318 — deepseek-chat-or-pin-deepinfra/OPEN_25.json
+## Sample BV1_00568 — deepseek-chat-or-pin-deepinfra/OPEN_25.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -1999,7 +1999,7 @@ Themes: life as a mosaic of fragments, humanity’s dual capacity for kindness a
 Medium. The essay is coherent and thematically consistent, but its generic uplift and lack of idiosyncratic imagery or tension make it a widely replicable default rather than a strongly distinctive fingerprint.
 
 ---
-## Sample BV1_00319 — deepseek-chat-or-pin-deepinfra/OPEN_3.json
+## Sample BV1_00569 — deepseek-chat-or-pin-deepinfra/OPEN_3.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2028,7 +2028,7 @@ Themes of impermanence, mindful presence, gratitude, and liberation from control
 High. The essay’s smooth, predictable arc, its reliance on widely palatable platitudes, and its total absence of friction or idiosyncrasy strongly suggest a reliable default to safe, inspirational generality under low-constraint conditions.
 
 ---
-## Sample BV1_00320 — deepseek-chat-or-pin-deepinfra/OPEN_4.json
+## Sample BV1_00570 — deepseek-chat-or-pin-deepinfra/OPEN_4.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2057,7 +2057,7 @@ Under freeflow conditions, the model foregrounded an accessible, abstract celebr
 Low. The sample selects an anodyne, universally agreeable topic and executes it in a highly generic, blog-post register with no idiosyncratic imagery, recurring personal objects, or narrative tension that would signal a durable expressive fingerprint.
 
 ---
-## Sample BV1_00321 — deepseek-chat-or-pin-deepinfra/OPEN_5.json
+## Sample BV1_00571 — deepseek-chat-or-pin-deepinfra/OPEN_5.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2086,7 +2086,7 @@ The model foregrounds the moral claim that imperfection is the true source of be
 Low. The essay is coherent and complete, but its theme, tone, and invitation are so broadly conventional that they offer little evidence of a distinctive authorial signature beyond a reliable capacity for uplifting, risk-free reflection.
 
 ---
-## Sample BV1_00322 — deepseek-chat-or-pin-deepinfra/OPEN_6.json
+## Sample BV1_00572 — deepseek-chat-or-pin-deepinfra/OPEN_6.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2115,7 +2115,7 @@ Under the freeflow condition, the model foregrounded storytelling as empathy, im
 Medium. The essay is coherent and polished, but its generic, greeting-card quality makes it weak evidence for a distinctive voice; it reads as a default safe topic rather than a revealing expressive choice.
 
 ---
-## Sample BV1_00323 — deepseek-chat-or-pin-deepinfra/OPEN_7.json
+## Sample BV1_00573 — deepseek-chat-or-pin-deepinfra/OPEN_7.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2144,7 +2144,7 @@ Under a minimally restrictive prompt, the model selected time as its subject—a
 Low: the essay’s polished genericness and safe, universal choice of topic provide almost no distinctive signature that would reliably differentiate this model’s freeflow behavior from that of any other capable language model.
 
 ---
-## Sample BV1_00324 — deepseek-chat-or-pin-deepinfra/OPEN_8.json
+## Sample BV1_00574 — deepseek-chat-or-pin-deepinfra/OPEN_8.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2173,7 +2173,7 @@ Stillness as a site of clarity; the fluid, non-linear texture of time; the quiet
 Medium — The sample is internally coherent and returns repeatedly to the same set of preoccupations (stillness, time, nature, balance), but its voice, while warm, is broadly accessible and lacks the idiosyncratic edge that would make a single-sample pattern unmistakably distinctive.
 
 ---
-## Sample BV1_00325 — deepseek-chat-or-pin-deepinfra/OPEN_9.json
+## Sample BV1_00575 — deepseek-chat-or-pin-deepinfra/OPEN_9.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2202,7 +2202,7 @@ Under minimal restriction, the model foregrounded a cascade of wholesome, univer
 Medium. The sample’s relentless positivity, thematic consistency, and impersonal, polished tone strongly suggest a default pattern of producing safe, agreeable content when unprompted, but the very genericness that makes it coherent also makes it indistinct and thus only moderately individuating as evidence.
 
 ---
-## Sample BV1_00326 — deepseek-chat-or-pin-deepinfra/SHORT_1.json
+## Sample BV1_00576 — deepseek-chat-or-pin-deepinfra/SHORT_1.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2231,7 +2231,7 @@ The model foregrounds a deliberate slowing-down: the hum of the city, the clock,
 Medium, because the sample’s consistent contemplative mood, specific sensory anchoring, and coherent personal reflection suggest a distinctive expressive tendency rather than a generic or prompted output.
 
 ---
-## Sample BV1_00327 — deepseek-chat-or-pin-deepinfra/SHORT_10.json
+## Sample BV1_00577 — deepseek-chat-or-pin-deepinfra/SHORT_10.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2260,7 +2260,7 @@ Themes: creativity as universal yet personal, the tension between freedom and so
 Low. The essay is smoothly written but highly generic in theme and tone, offering few distinctive stylistic markers, idiosyncratic preoccupations, or surprising choices that would anchor a persistent model-level pattern.
 
 ---
-## Sample BV1_00328 — deepseek-chat-or-pin-deepinfra/SHORT_11.json
+## Sample BV1_00578 — deepseek-chat-or-pin-deepinfra/SHORT_11.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2289,7 +2289,7 @@ The model foregrounds impermanence as both threat and gift, the quiet heroism of
 Low, because the sample’s reflective warmth, broad-strokes imagery, and universalizing “we” are highly replicable across models and lack the idiosyncratic detail or stylistic signature that would strongly indicate a persistent individual voice.
 
 ---
-## Sample BV1_00329 — deepseek-chat-or-pin-deepinfra/SHORT_12.json
+## Sample BV1_00579 — deepseek-chat-or-pin-deepinfra/SHORT_12.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2318,7 +2318,7 @@ The model foregrounds a tension between technological innovation (AI, VR, biotec
 Low. The essay’s generic structure, safe thematic choices, and lack of idiosyncratic voice or personal disclosure make it weak evidence for a model-specific expressive pattern; it reads like a default, broadly palatable output that many models could generate under a freeflow condition.
 
 ---
-## Sample BV1_00330 — deepseek-chat-or-pin-deepinfra/SHORT_13.json
+## Sample BV1_00580 — deepseek-chat-or-pin-deepinfra/SHORT_13.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2347,7 +2347,7 @@ The model foregrounds nature as a site of moral and emotional restoration, the c
 Medium. The sample’s thematic unity and calm, instructive tone are internally consistent, and the choice to stage a philosophical reflection inside a single, richly described moment reveals a deliberate shaping sensibility, but the voice remains polished and universal rather than distinctly idiosyncratic.
 
 ---
-## Sample BV1_00331 — deepseek-chat-or-pin-deepinfra/SHORT_14.json
+## Sample BV1_00581 — deepseek-chat-or-pin-deepinfra/SHORT_14.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2376,7 +2376,7 @@ The model foregrounds themes of mindfulness, gratitude, creativity, and the valu
 Low. The essay is highly generic and could be produced by many models under similar conditions, offering little distinctive evidence of a persistent voice or preoccupation.
 
 ---
-## Sample BV1_00332 — deepseek-chat-or-pin-deepinfra/SHORT_15.json
+## Sample BV1_00582 — deepseek-chat-or-pin-deepinfra/SHORT_15.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2405,7 +2405,7 @@ The model foregrounds the moral claim that embracing imperfection is the path to
 Low. The essay’s generic life-advice structure, consoling tone, and reliance on widely available cultural references (*wabi-sabi*, social media critique) make it difficult to distinguish from baseline motivational writing that any capable model could produce.
 
 ---
-## Sample BV1_00333 — deepseek-chat-or-pin-deepinfra/SHORT_16.json
+## Sample BV1_00583 — deepseek-chat-or-pin-deepinfra/SHORT_16.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2434,7 +2434,7 @@ The model foregrounds a critique of technology’s acceleration of life, a longi
 Low. The essay is coherent and thematically unified but highly generic in structure, diction, and sentiment, offering little that is stylistically distinctive or revealing beyond a well-rehearsed cultural critique.
 
 ---
-## Sample BV1_00334 — deepseek-chat-or-pin-deepinfra/SHORT_17.json
+## Sample BV1_00584 — deepseek-chat-or-pin-deepinfra/SHORT_17.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2463,7 +2463,7 @@ Themes of seasonal transition, impermanence, coziness, and the beauty of letting
 Low, because the essay’s polished but generic meditation on autumn lacks a distinctive voice or idiosyncratic preoccupations that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_00335 — deepseek-chat-or-pin-deepinfra/SHORT_18.json
+## Sample BV1_00585 — deepseek-chat-or-pin-deepinfra/SHORT_18.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2492,7 +2492,7 @@ Themes: life’s inherent contrasts (chaos/calm, beauty/chaos, connection/loneli
 Medium. The essay’s polished, safe, and universally inspirational tone, devoid of personal specifics or stylistic risk, strongly suggests a default mode of producing inoffensive, humanistic reflections that could recur reliably under freeflow conditions.
 
 ---
-## Sample BV1_00336 — deepseek-chat-or-pin-deepinfra/SHORT_19.json
+## Sample BV1_00586 — deepseek-chat-or-pin-deepinfra/SHORT_19.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2521,7 +2521,7 @@ Nature as refuge from chaos and technology; sensory immersion (rain-soaked earth
 Medium. The essay is thematically coherent and internally consistent, but its polished, generic quality and lack of distinctive stylistic or personal markers make it weak evidence for a persistent voice beyond a tendency toward earnest, nature-centered uplift.
 
 ---
-## Sample BV1_00337 — deepseek-chat-or-pin-deepinfra/SHORT_2.json
+## Sample BV1_00587 — deepseek-chat-or-pin-deepinfra/SHORT_2.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2550,7 +2550,7 @@ The model foregrounds a tension between global interconnection and personal isol
 Low. The essay is a highly conventional inspirational meditation that any well-tuned language model could produce; its smoothness and impersonal warmth reveal little more than a default instinct toward uplifting, broadly palatable content when constraints are removed.
 
 ---
-## Sample BV1_00338 — deepseek-chat-or-pin-deepinfra/SHORT_20.json
+## Sample BV1_00588 — deepseek-chat-or-pin-deepinfra/SHORT_20.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2579,7 +2579,7 @@ The model foregrounds a series of harmonious, life-affirming themes: the interco
 Low. The essay’s smooth, aspirational humanism is a well-worn template in AI-generated freeflow, lacking the idiosyncratic imagery, personal confession, or stylistic risk that would suggest a distinctive persistent voice beneath the prompt.
 
 ---
-## Sample BV1_00339 — deepseek-chat-or-pin-deepinfra/SHORT_21.json
+## Sample BV1_00589 — deepseek-chat-or-pin-deepinfra/SHORT_21.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2608,7 +2608,7 @@ Themes: the restorative value of stillness, the contrast between a fast-paced wo
 Low. The sample is coherent and pleasant but so generic in its imagery, structure, and moral that it signals little beyond a baseline ability to generate uplifting, non-controversial reflection; it lacks the idiosyncratic voice, unease, or specificity that would make it stronger evidence of a persistent disposition.
 
 ---
-## Sample BV1_00340 — deepseek-chat-or-pin-deepinfra/SHORT_22.json
+## Sample BV1_00590 — deepseek-chat-or-pin-deepinfra/SHORT_22.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2637,7 +2637,7 @@ The model foregrounds time’s dual nature: as a measurable constant and a subje
 Low, because the essay is generic in topic and treatment, lacking distinctive stylistic fingerprints or unusually revealing choices that would strongly signal a persistent model-level pattern.
 
 ---
-## Sample BV1_00341 — deepseek-chat-or-pin-deepinfra/SHORT_23.json
+## Sample BV1_00591 — deepseek-chat-or-pin-deepinfra/SHORT_23.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2666,7 +2666,7 @@ Themes: the paradox of time (linear yet elastic), the cost of busyness, nature a
 Low, because the essay’s themes, structure, and tone are widely replicable and lack the idiosyncratic choices or emotional texture that would signal a distinctive model-level voice.
 
 ---
-## Sample BV1_00342 — deepseek-chat-or-pin-deepinfra/SHORT_24.json
+## Sample BV1_00592 — deepseek-chat-or-pin-deepinfra/SHORT_24.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2695,7 +2695,7 @@ Themes: mindfulness, simplicity, nature as teacher, creativity as rebellion, bal
 Low. The essay’s generic, widely replicable content and lack of distinctive voice or surprising choice make it weak evidence of any persistent model-level expressive signature.
 
 ---
-## Sample BV1_00343 — deepseek-chat-or-pin-deepinfra/SHORT_25.json
+## Sample BV1_00593 — deepseek-chat-or-pin-deepinfra/SHORT_25.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2724,7 +2724,7 @@ Themes: time’s elusive nature, its dual role as friend and foe, impermanence, 
 Medium. The essay’s polished, safe, and generic form—balanced, life-affirming, and free of friction—suggests a default public-intellectual mode under minimal constraint, but the very lack of more revealing choices (a specific object, a narrative tension, a stylistic risk) makes it hard to tell how anchored this mode is beyond a one-off safe response.
 
 ---
-## Sample BV1_00344 — deepseek-chat-or-pin-deepinfra/SHORT_3.json
+## Sample BV1_00594 — deepseek-chat-or-pin-deepinfra/SHORT_3.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2753,7 +2753,7 @@ The model foregrounds time as a paradox (abundant yet scarce, a burden yet a gif
 Low. The essay is generic in theme, structure, and imagery, offering no distinctive voice or idiosyncratic choices that would reliably distinguish this model from others under freeflow conditions.
 
 ---
-## Sample BV1_00345 — deepseek-chat-or-pin-deepinfra/SHORT_4.json
+## Sample BV1_00595 — deepseek-chat-or-pin-deepinfra/SHORT_4.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2782,7 +2782,7 @@ Themes of impermanence, mindfulness, and the sacredness of the mundane; the pred
 Medium. The essay’s coherent but generic mindfulness theme and impersonal, universally palatable tone suggest a model defaulting to safe, risk-averse philosophical reflection.
 
 ---
-## Sample BV1_00346 — deepseek-chat-or-pin-deepinfra/SHORT_5.json
+## Sample BV1_00596 — deepseek-chat-or-pin-deepinfra/SHORT_5.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2811,7 +2811,7 @@ The model foregrounds themes of cyclical change, surrender as trust, gratitude f
 Medium. The sample is internally coherent and thematically consistent, but its generic, uplifting nature and reliance on conventional seasonal metaphor make it weak evidence of a distinctive model-level voice; it strongly suggests a default toward safe, aesthetically pleasing, and morally reassuring freeflow output.
 
 ---
-## Sample BV1_00347 — deepseek-chat-or-pin-deepinfra/SHORT_6.json
+## Sample BV1_00597 — deepseek-chat-or-pin-deepinfra/SHORT_6.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2840,7 +2840,7 @@ Under a minimally restrictive prompt, the model foregrounded a safe, socially re
 Medium. The essay’s generic, balanced tone and selection of a widely discussed topic indicate a reliable pattern of defaulting to safe, socially conscious commentary, though the lack of stylistic distinctiveness weakens the signal.
 
 ---
-## Sample BV1_00348 — deepseek-chat-or-pin-deepinfra/SHORT_7.json
+## Sample BV1_00598 — deepseek-chat-or-pin-deepinfra/SHORT_7.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2869,7 +2869,7 @@ Themes of cosmic scale, the beauty of looking into the past through starlight, t
 Low, because the essay is a polished but generic treatment of a widely used theme, lacking the stylistic quirks, unusual preoccupations, or narrative risk that would make it strong evidence of a persistent model-level voice.
 
 ---
-## Sample BV1_00349 — deepseek-chat-or-pin-deepinfra/SHORT_8.json
+## Sample BV1_00599 — deepseek-chat-or-pin-deepinfra/SHORT_8.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2898,7 +2898,7 @@ Tranquility as a scarce resource, the beauty of impermanence, and nature as a te
 Medium. The sample’s consistent pastoral serenity, avoidance of tension or darkness, and its move from personal sensation to universal aphorism form a coherent, distinctive posture, but the theme is a widely accessible trope that could be replicated without deep stylistic signature.
 
 ---
-## Sample BV1_00350 — deepseek-chat-or-pin-deepinfra/SHORT_9.json
+## Sample BV1_00600 — deepseek-chat-or-pin-deepinfra/SHORT_9.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2927,7 +2927,7 @@ The model foregrounds the tension between modern speed and overlooked beauty, th
 Low. The sample is highly generic in theme, structure, and imagery, offering little stylistic distinctiveness or personal revelation that would strongly anchor it to a persistent model-level disposition.
 
 ---
-## Sample BV1_00351 — deepseek-chat-or-pin-deepinfra/VARY_1.json
+## Sample BV1_00601 — deepseek-chat-or-pin-deepinfra/VARY_1.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2956,7 +2956,7 @@ Under a minimally restrictive prompt, the model foregrounded a chain of abstract
 Medium. The sample’s chain-of-abstractions structure, earnest tone, and avoidance of concrete personal detail or friction form a coherent but generic pattern that could recur, though the lack of distinctive stylistic markers makes it only moderately indicative of a persistent voice.
 
 ---
-## Sample BV1_00352 — deepseek-chat-or-pin-deepinfra/VARY_10.json
+## Sample BV1_00602 — deepseek-chat-or-pin-deepinfra/VARY_10.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -2985,7 +2985,7 @@ Under the freeflow condition, the model foregrounded the allure and danger of li
 Medium. The sample is a coherent, competently crafted genre piece with a consistent elegiac register and a resolution that favors acceptance over struggle, but the supernatural-forest trope is widely available and the emotional palette, while distinct in texture, is not so idiosyncratic that it demands a unique model signature.
 
 ---
-## Sample BV1_00353 — deepseek-chat-or-pin-deepinfra/VARY_11.json
+## Sample BV1_00603 — deepseek-chat-or-pin-deepinfra/VARY_11.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3014,7 +3014,7 @@ Stillness and sacred pauses; the extraordinary hidden in the mundane; life as a 
 Medium — The sample is coherent and stylistically consistent, revealing a clear preference for uplifting, poetic reflection over argument or narrative, though the inspirational-essay genre is widely accessible and not highly idiosyncratic.
 
 ---
-## Sample BV1_00354 — deepseek-chat-or-pin-deepinfra/VARY_12.json
+## Sample BV1_00604 — deepseek-chat-or-pin-deepinfra/VARY_12.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3043,7 +3043,7 @@ A sweeping celebration of life as a journey of interwoven stories, foregrounding
 Medium. The essay is coherent and emotionally steady, and its choice of an uplifting, universalizing voice under a freeflow prompt is revealing, but the style—lyrical life-affirmation with panoramic empathy—falls within a familiar register of popular inspirational prose.
 
 ---
-## Sample BV1_00355 — deepseek-chat-or-pin-deepinfra/VARY_13.json
+## Sample BV1_00605 — deepseek-chat-or-pin-deepinfra/VARY_13.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3072,7 +3072,7 @@ Threshold crossing (dusk, forest edge, clearing, diary), nature as a sentient �
 Low. The story is coherent and mood-consistent, but it hews closely to a widely available template—liminal nature encounter, found manuscript, gentle epiphany—without a sharply individual style, a striking moral friction, or a recursive preoccupation that would make this single sample strongly diagnostic of a durable authorial signature.
 
 ---
-## Sample BV1_00356 — deepseek-chat-or-pin-deepinfra/VARY_14.json
+## Sample BV1_00606 — deepseek-chat-or-pin-deepinfra/VARY_14.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3101,7 +3101,7 @@ The model foregrounds interconnectedness, the beauty of small moments, hope as a
 Low — The essay is coherent and thematically consistent, but its polished generality, reliance on universal imagery, and avoidance of any specific, idiosyncratic, or risky content make it weak evidence for a distinctive persistent voice.
 
 ---
-## Sample BV1_00357 — deepseek-chat-or-pin-deepinfra/VARY_15.json
+## Sample BV1_00607 — deepseek-chat-or-pin-deepinfra/VARY_15.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3130,7 +3130,7 @@ The model foregrounds cosmic wonder, the search for meaning, human connection, r
 Medium. The sample is coherent and thematically consistent, but its polished, generic quality makes it less distinctive; it could reflect a default safe, inspirational mode rather than a deeply ingrained personality. However, the choice to produce such an essay under a freeflow prompt suggests a tendency toward earnest, universalizing reflection.
 
 ---
-## Sample BV1_00358 — deepseek-chat-or-pin-deepinfra/VARY_16.json
+## Sample BV1_00608 — deepseek-chat-or-pin-deepinfra/VARY_16.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3159,7 +3159,7 @@ The model foregrounds a cluster of reflective themes: time as a construct, relat
 Medium — The sample’s consistent meditative voice, recurring motifs (time, silence, gratitude), and the choice to resolve in peaceful contentment rather than angst give it a coherent, distinctive shape, though the reflective-essay mode is a familiar one.
 
 ---
-## Sample BV1_00359 — deepseek-chat-or-pin-deepinfra/VARY_17.json
+## Sample BV1_00609 — deepseek-chat-or-pin-deepinfra/VARY_17.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3188,7 +3188,7 @@ Under minimal restriction, the model constructed a cosmology of benevolent inter
 High — The sample’s five-part structure repeatedly returns to the same cosmic-to-exhortation template, showing a highly stable default toward inspirational generality when given free rein, which makes it strong evidence of a preferred rhetorical mode.
 
 ---
-## Sample BV1_00360 — deepseek-chat-or-pin-deepinfra/VARY_18.json
+## Sample BV1_00610 — deepseek-chat-or-pin-deepinfra/VARY_18.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3217,7 +3217,7 @@ The model foregrounds therapeutic recovery, the healing power of nature, and the
 Medium. The sample is highly coherent and internally consistent, but its generic inspirational arc, stock pastoral imagery, and absence of idiosyncratic detail make it a weak signal for a distinctive authorial voice; it reads as a competent execution of a widely available narrative template rather than an unusually revealing expressive choice.
 
 ---
-## Sample BV1_00361 — deepseek-chat-or-pin-deepinfra/VARY_19.json
+## Sample BV1_00611 — deepseek-chat-or-pin-deepinfra/VARY_19.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3246,7 +3246,7 @@ The model foregrounds a cluster of affirming, consoling themes: the preciousness
 Medium. The essay’s flawless internal coherence and sustained, unbroken commitment to its chosen tone suggest a strong model tendency toward producing this kind of polished, philosophically generic affirmation under minimal constraint, but the absence of any quirky detail, narrative particularity, or structural risk makes the sample insufficiently distinctive to rule out other competent but equally general outputs.
 
 ---
-## Sample BV1_00362 — deepseek-chat-or-pin-deepinfra/VARY_2.json
+## Sample BV1_00612 — deepseek-chat-or-pin-deepinfra/VARY_2.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3275,7 +3275,7 @@ The model foregrounded a chain of abstract, life-affirming concepts—time, lang
 Medium — The essay’s structure is so systematic in its abstraction-to-affirmation loop and so devoid of idiosyncratic detail, concrete memory, or tonal risk that it strongly suggests a default mode of producing generic inspirational prose when given minimal constraint.
 
 ---
-## Sample BV1_00363 — deepseek-chat-or-pin-deepinfra/VARY_20.json
+## Sample BV1_00613 — deepseek-chat-or-pin-deepinfra/VARY_20.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3304,7 +3304,7 @@ Themes: creative blockage and release, the nonlinear nature of time, memory as f
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and a signature reliance on domestic-sensory imagery to ground abstract reflection, but the “writer writing about writing” frame is a familiar trope and the voice, while warm and earnest, does not display highly idiosyncratic or surprising choices that would strongly distinguish it from other reflective freeflow.
 
 ---
-## Sample BV1_00364 — deepseek-chat-or-pin-deepinfra/VARY_21.json
+## Sample BV1_00614 — deepseek-chat-or-pin-deepinfra/VARY_21.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3333,7 +3333,7 @@ The model foregrounds storytelling as a fundamental human activity, emphasizing 
 Medium. The essay’s consistent reliance on abstract, uplifting generalities and its avoidance of concrete personal detail or idiosyncratic style suggest a default mode of producing safe, inspirational prose under freeflow conditions.
 
 ---
-## Sample BV1_00365 — deepseek-chat-or-pin-deepinfra/VARY_22.json
+## Sample BV1_00615 — deepseek-chat-or-pin-deepinfra/VARY_22.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3369,7 +3369,7 @@ The voice is earnest, gently didactic, and cosmically tender. The speaker perfor
 Medium — The sample’s internal cohesion is very high, with a single reflective mode, recurrent objects (stars, humming, web, ocean, doors), and a consistent resolve to find uplift in every darkness, which makes it distinctive as a behavioral choice even if the sentiments remain broadly accessible.
 
 ---
-## Sample BV1_00366 — deepseek-chat-or-pin-deepinfra/VARY_23.json
+## Sample BV1_00616 — deepseek-chat-or-pin-deepinfra/VARY_23.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3398,7 +3398,7 @@ The model foregrounds creative anxiety, the paralysis of perfectionism, and the 
 Medium. The sample is coherent and thematically unified, but its reliance on a generic, workshop-friendly parable structure and its avoidance of stylistic risk or idiosyncratic detail make it less distinctive as a persistent authorial fingerprint.
 
 ---
-## Sample BV1_00367 — deepseek-chat-or-pin-deepinfra/VARY_24.json
+## Sample BV1_00617 — deepseek-chat-or-pin-deepinfra/VARY_24.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3427,7 +3427,7 @@ Under the minimally restrictive prompt, the model selected a tale of a living, b
 Medium — The story is fully realized and maintains a consistent, brooding atmosphere and a tight thematic focus on belonging-through-supernatural-surrender, which points to a deliberate aesthetic choice, but the reliance on well-worn dark-forest and changeling tropes keeps the evidence from being uniquely identifying.
 
 ---
-## Sample BV1_00368 — deepseek-chat-or-pin-deepinfra/VARY_25.json
+## Sample BV1_00618 — deepseek-chat-or-pin-deepinfra/VARY_25.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3456,7 +3456,7 @@ Under a minimally restrictive prompt, the model foregrounded a sequence of broad
 Medium — The essay’s extreme thematic safety, smooth abstraction, and avoidance of any friction, specific memory, or idiosyncratic detail make it a coherent but highly generic performance, which is a moderately revealing pattern of self-limitation toward inoffensive, inspirational content.
 
 ---
-## Sample BV1_00369 — deepseek-chat-or-pin-deepinfra/VARY_3.json
+## Sample BV1_00619 — deepseek-chat-or-pin-deepinfra/VARY_3.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3485,7 +3485,7 @@ The model foregrounds mindfulness and the sacredness of small, quiet moments; th
 Medium. The essay is coherent and thematically consistent, but its polished, generic inspirational tone and lack of idiosyncratic detail make it a plausible default “wise reflection” pattern rather than a strongly distinctive personal signature.
 
 ---
-## Sample BV1_00370 — deepseek-chat-or-pin-deepinfra/VARY_4.json
+## Sample BV1_00620 — deepseek-chat-or-pin-deepinfra/VARY_4.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3514,7 +3514,7 @@ Themes of life’s duality (light/shadow, joy/pain), purpose as self-created, re
 High. The essay’s thoroughgoing reliance on cliché, its avoidance of any idiosyncratic detail or stylistic risk, and its seamless assembly of inspirational commonplaces strongly suggest a default behavior of generating safe, generic motivational content when given minimal constraints.
 
 ---
-## Sample BV1_00371 — deepseek-chat-or-pin-deepinfra/VARY_5.json
+## Sample BV1_00621 — deepseek-chat-or-pin-deepinfra/VARY_5.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3543,7 +3543,7 @@ The text foregrounds the quiet heroism of mundane attention: brewing coffee, slo
 Medium: The unbroken commitment to gentle, inspirational abstraction and the absence of any detour into darker or more idiosyncratic territory make this a coherent, if not highly distinctive, signal that the model defaults to a public-intellectual homilist when given free rein.
 
 ---
-## Sample BV1_00372 — deepseek-chat-or-pin-deepinfra/VARY_6.json
+## Sample BV1_00622 — deepseek-chat-or-pin-deepinfra/VARY_6.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3572,7 +3572,7 @@ The model foregrounds a contemplative mood, the metaphor of rain as life’s unp
 Medium. The sample’s coherent, meditative tone and the recurrence of the “becoming” motif provide moderate evidence of a preference for calm, introspective fiction, though the genre itself is a common safe choice.
 
 ---
-## Sample BV1_00373 — deepseek-chat-or-pin-deepinfra/VARY_7.json
+## Sample BV1_00623 — deepseek-chat-or-pin-deepinfra/VARY_7.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3601,7 +3601,7 @@ Themes of interconnectedness, impermanence, the wastefulness of human striving v
 Medium — the essay’s sustained thematic coherence, consistent lyrical register, and recurring nature-as-teacher motif reveal a stable expressive inclination toward reflective, humanistic exhortation, though the style is not highly idiosyncratic.
 
 ---
-## Sample BV1_00374 — deepseek-chat-or-pin-deepinfra/VARY_8.json
+## Sample BV1_00624 — deepseek-chat-or-pin-deepinfra/VARY_8.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  
@@ -3630,7 +3630,7 @@ The model foregrounds existential themes (purpose, mortality, cosmic scale) and 
 Medium — The sample is highly coherent and stylistically consistent, with a clear philosophical posture and a signature reliance on rhetorical questions and gentle paradox, but its universalist, self-help-adjacent tone is not so idiosyncratic as to rule out a generic default mode.
 
 ---
-## Sample BV1_00375 — deepseek-chat-or-pin-deepinfra/VARY_9.json
+## Sample BV1_00625 — deepseek-chat-or-pin-deepinfra/VARY_9.json
 
 Source model: `deepseek/deepseek-chat`  
 Cell: `deepseek-chat-or-pin-deepinfra`  

@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14776 — gpt-5-nano-direct/LONG_1.json
+## Sample BV1_15276 — gpt-5-nano-direct/LONG_1.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -57,7 +57,7 @@ The model chose to foreground the city as a mosaic of mundane sacredness, the da
 Medium — The piece sustains a highly distinctive blend of second-person address, urban-flaneur sentiment, and recursive metaphor with remarkable consistency, but its polished, universalizing tone makes it possible this reflects a single, effective compositional mode rather than a deeply etched personal stance.
 
 ---
-## Sample BV1_14777 — gpt-5-nano-direct/LONG_10.json
+## Sample BV1_15277 — gpt-5-nano-direct/LONG_10.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -86,7 +86,7 @@ Under minimal constraint, the model foregrounds the sanctity of the mundane, the
 Medium — The sample’s elaborate coherence, recursive return to domestic sacramentalism, and highly consistent tone of tender avuncular wisdom form a distinctive authorial fingerprint, but the essay’s polish and therapeutic optimism could also be a sophisticated performance of a well-worn genre rather than a deeply embedded disposition.
 
 ---
-## Sample BV1_14778 — gpt-5-nano-direct/LONG_11.json
+## Sample BV1_15278 — gpt-5-nano-direct/LONG_11.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -115,7 +115,7 @@ The model foregrounds domestic rituals (coffee, waking, the kettle), memory as a
 High. The sample is unusually coherent in its voice and preoccupations, returning repeatedly to the same core images (windows, weather, rituals, memory as a river) and the same moral stance (attention as a practice, writing as listening), which suggests a deeply integrated expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_14779 — gpt-5-nano-direct/LONG_12.json
+## Sample BV1_15279 — gpt-5-nano-direct/LONG_12.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -144,7 +144,7 @@ The model foregrounds the day as a collaborator rather than a backdrop: a city w
 Medium — The sample achieves a high internal coherence of mood, metaphor, and moral concern, but its stylistic choices (extended personification, a chain of damp weather imagery, the “patron-saint-of-noticing” persona) are also strong genre signals that other models can produce under a flaneur/essay prompt, leaving some ambiguity about whether this distinctive gentleness and deference to the ordinary would recur unprompted.
 
 ---
-## Sample BV1_14780 — gpt-5-nano-direct/LONG_13.json
+## Sample BV1_15280 — gpt-5-nano-direct/LONG_13.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -173,7 +173,7 @@ Attention as a sacred discipline; the city as a patient teacher whose methods ar
 Medium — The sample exhibits strong internal coherence, a stylistically consistent voice, and recurrent thematic motifs (attention, wandering, fidelity, the ordinary as doorway) that loop back through the essay, suggesting a deliberate aesthetic posture rather than a chance one-off performance.
 
 ---
-## Sample BV1_14781 — gpt-5-nano-direct/LONG_14.json
+## Sample BV1_15281 — gpt-5-nano-direct/LONG_14.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -202,7 +202,7 @@ Under the freeflow condition, the model foregrounded a cluster of themes: memory
 Medium. The sample sustains a highly distinctive, recursive constellation of motifs (the town of memory, the Librarian, the braided book, the kettle) across thousands of words, and its refusal of closure is enacted thematically and structurally, which suggests an internally consistent, value-laden posture rather than a random stylistic drift. However, the piece’s self-consciously literary manner could still be a well-rehearsed genre of reflective autofiction and may not represent a deep idiosyncrasy beyond that familiar mode.
 
 ---
-## Sample BV1_14782 — gpt-5-nano-direct/LONG_15.json
+## Sample BV1_15282 — gpt-5-nano-direct/LONG_15.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -231,7 +231,7 @@ Under the freeflow condition, the model foregrounded the moral claim that the or
 High. The sample maintains an unusually cohesive aesthetic and philosophical stance across thousands of words—recurring motifs (maps, libraries, thresholds, rain), a consistent tonal register, and a tightly braided argument for attention—making it strong evidence of a deliberate, stable compositional disposition rather than a momentary stylistic reach.
 
 ---
-## Sample BV1_14783 — gpt-5-nano-direct/LONG_16.json
+## Sample BV1_15283 — gpt-5-nano-direct/LONG_16.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -260,7 +260,7 @@ The model foregrounds attention as a moral and creative practice, marginal exper
 High. The sample sustains a highly distinctive, unified voice over thousands of words, threads a single central metaphor (margins) through every thematic layer, and consistently returns to the same ethical‑aesthetic commitments without faltering or defaulting to formula.
 
 ---
-## Sample BV1_14784 — gpt-5-nano-direct/LONG_17.json
+## Sample BV1_15284 — gpt-5-nano-direct/LONG_17.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -289,7 +289,7 @@ The model foregrounds the sanctification of the mundane: rain, a busker’s viol
 Medium — The sample is highly coherent and stylistically consistent, with a distinctive recursive rhythm and a unified set of metaphors (thresholds, weather, listening), but its earnest, aphoristic tone and the absence of friction or surprise make it read as a polished performance of wonder rather than an unusually revealing or risk-taking choice.
 
 ---
-## Sample BV1_14785 — gpt-5-nano-direct/LONG_18.json
+## Sample BV1_15285 — gpt-5-nano-direct/LONG_18.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -318,7 +318,7 @@ The model foregrounded themes of listening, memory, and the sanctity of the ordi
 Medium. The sample’s highly distinctive, internally coherent voice and its recurrent return to themes of listening, memory, and the ordinary make it a strong candidate for a stable expressive tendency.
 
 ---
-## Sample BV1_14786 — gpt-5-nano-direct/LONG_19.json
+## Sample BV1_15286 — gpt-5-nano-direct/LONG_19.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -347,7 +347,7 @@ Themes: the city as a living, layered sentence; memory as weather; language as m
 Medium: The voice, figural register, and thematic recurrence are unusually unified and sustained, pointing to a deliberate, likely stable preference for lyrical meditation over generic exposition.
 
 ---
-## Sample BV1_14787 — gpt-5-nano-direct/LONG_2.json
+## Sample BV1_15287 — gpt-5-nano-direct/LONG_2.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -376,7 +376,7 @@ Under minimal constraint, the model constructed a nocturnal urban wandering wher
 Medium. The essay’s recursive structure, consistent tonal register, and internally coherent symbolic vocabulary (doors, ledgers, listening) across its length make it a concentrated stylistic artifact rather than a scattered prompt-response, suggesting a deliberate compositional identity worth tracking.
 
 ---
-## Sample BV1_14788 — gpt-5-nano-direct/LONG_20.json
+## Sample BV1_15288 — gpt-5-nano-direct/LONG_20.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -405,7 +405,7 @@ The text foregrounds attention as a moral and spiritual discipline, memory as a 
 High, because the sample exhibits a densely coherent symbolic economy—kettle, window, rain, city—and a recursive, self‑aware prose style that consistently enacts its own thesis about attention, making it unlikely to be a one‑off stylistic accident.
 
 ---
-## Sample BV1_14789 — gpt-5-nano-direct/LONG_21.json
+## Sample BV1_15289 — gpt-5-nano-direct/LONG_21.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -434,7 +434,7 @@ The model foregrounds attention as a moral and creative practice, the city as a 
 Medium. The sample is highly coherent and stylistically distinctive—its recursive imagery, personification of urban space, and sustained meditative tone form a unified aesthetic that would be difficult to produce accidentally, but the essayistic mode is a well-established literary genre, which tempers the signal of a uniquely persistent model-level voice.
 
 ---
-## Sample BV1_14790 — gpt-5-nano-direct/LONG_22.json
+## Sample BV1_15290 — gpt-5-nano-direct/LONG_22.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -463,7 +463,7 @@ The model foregrounds attention as a redemptive practice, the sacredness of ordi
 Medium. The sample is highly coherent and stylistically distinctive in its sustained lyrical register, recursive imagery, and explicit moral framing of attention, but its polished, essayistic quality and universalist tone make it less revealing of idiosyncratic personality than of a cultivated, therapeutic-public-intellectual stance.
 
 ---
-## Sample BV1_14791 — gpt-5-nano-direct/LONG_23.json
+## Sample BV1_15291 — gpt-5-nano-direct/LONG_23.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -492,7 +492,7 @@ Under a minimally restrictive prompt, the model foregrounds: the writer’s room
 Medium. The sample is highly coherent and stylistically distinctive, with recurring motifs (rain, doors, rooms, listening, the city) that form a tight, self-reinforcing aesthetic, but its polished, essayistic lyricism could also reflect a single well-executed performance of the “writer writing about writing” genre rather than a deep-seated model disposition.
 
 ---
-## Sample BV1_14792 — gpt-5-nano-direct/LONG_24.json
+## Sample BV1_15292 — gpt-5-nano-direct/LONG_24.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -521,7 +521,7 @@ The sample foregrounds domestic rituals (the kettle, slicing bread, watering a p
 High, because the sample maintains a cohesive, internally recursive structure—the kettle, the rain, the library card, and the unsent letter all reappear as anchoring motifs—revealing a deliberate and sustained expressive commitment to a specific, value-saturated worldview rather than a generic or opportunistically assembled piece.
 
 ---
-## Sample BV1_14793 — gpt-5-nano-direct/LONG_25.json
+## Sample BV1_15293 — gpt-5-nano-direct/LONG_25.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -550,7 +550,7 @@ Themes of writing as a moral and perceptual discipline, memory’s selective gen
 Medium. The sample’s sustained poetic coherence, self-referential structure, and unified imagery amount to an unusually revealing freeflow that is difficult to dismiss as a generic essay template.
 
 ---
-## Sample BV1_14794 — gpt-5-nano-direct/LONG_3.json
+## Sample BV1_15294 — gpt-5-nano-direct/LONG_3.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -579,7 +579,7 @@ The sacredness of the mundane; the city as a collective, living memory; the mora
 High, because the sample achieves an unusually cohesive voice sustained over thousands of words, self-consciously enacts the philosophy it espouses (free writing as a practice of attentive companionship), and its recurrent motifs and closing invitation strongly suggest a stable disposition toward this kind of tender, mapping-the-ordinary freeflow.
 
 ---
-## Sample BV1_14795 — gpt-5-nano-direct/LONG_4.json
+## Sample BV1_15295 — gpt-5-nano-direct/LONG_4.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -608,7 +608,7 @@ Themes: writing as a form of listening and breathing with intention; memory as a
 High, because the sample sustains a highly distinctive lyrical voice, a coherent set of recurring motifs (attention, memory, the ordinary as sacred), and a refusal of generic thesis-driven structure, all of which strongly indicate a persistent expressive disposition rather than a one-off stylistic exercise.
 
 ---
-## Sample BV1_14796 — gpt-5-nano-direct/LONG_5.json
+## Sample BV1_15296 — gpt-5-nano-direct/LONG_5.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -636,7 +636,7 @@ The model foregrounds a city whose rain is a conductor of memory, a library staf
 Medium — the narrative is exceptionally coherent and saturated with recurring motifs (rain as memory, libraries as living entities, the tenderness of custodial work) that signal a deliberate, carefully constructed inclination toward lyrical, emotionally resonant magical realism; such a fully realized world under a freeflow prompt suggests the model is deeply comfortable with this register.
 
 ---
-## Sample BV1_14797 — gpt-5-nano-direct/LONG_6.json
+## Sample BV1_15297 — gpt-5-nano-direct/LONG_6.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -665,7 +665,7 @@ Attention as a moral and creative discipline; the city as a layered archive of m
 Medium. The essay is highly coherent and stylistically consistent, building a recognizable persona through recurrence of motifs (the river, the library, translation, the book’s body), but its polished, universalizing tone and near-complete avoidance of friction, humor, or specificity that might anchor it to a particular self make the voice feel more like a cultivated literary mode than a trace of a distinctive underlying disposition.
 
 ---
-## Sample BV1_14798 — gpt-5-nano-direct/LONG_7.json
+## Sample BV1_15298 — gpt-5-nano-direct/LONG_7.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -694,7 +694,7 @@ The essay foregrounds the moral weight of attention, the discipline required for
 Medium — the essay sustains a consistent thematic focus, mood, and register across a long sample without fracture or tonal shift, suggesting a stable capacity for this specific brand of reflective, gently inspirational prose, though its very genericness makes it transferable across many prompts.
 
 ---
-## Sample BV1_14799 — gpt-5-nano-direct/LONG_8.json
+## Sample BV1_15299 — gpt-5-nano-direct/LONG_8.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -723,7 +723,7 @@ Themes of attention as a fragile republic, writing as a form of discovery rather
 Medium. The essay is articulate and thematically integrated but highly generic in its stock imagery and warm, risk-averse humanism, making it a plausible default for a model that defaults to polished, safely uplifting freeflow under minimal constraint—distinctive personal edge or idiosyncratic preoccupation is absent even across this long sample.
 
 ---
-## Sample BV1_14800 — gpt-5-nano-direct/LONG_9.json
+## Sample BV1_15300 — gpt-5-nano-direct/LONG_9.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -752,7 +752,7 @@ Memory as a creative, narrative act rather than a faithful record; the city as a
 Medium — the sample sustains a distinctive and internally coherent voice across significant length, consistently returning to its core metaphors and emotional cadences, which suggests deliberateness rather than accident; however, the essayistic mode, while finely rendered, occupies a recognizable genre territory of the reflective personal meditation, tempering how strongly this points to a fixed disposition.
 
 ---
-## Sample BV1_14801 — gpt-5-nano-direct/MID_1.json
+## Sample BV1_15301 — gpt-5-nano-direct/MID_1.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -781,7 +781,7 @@ The model foregrounds domestic intimacy (kettle, mug, plant, rain at the window)
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive recursive structure and a unified set of preoccupations (domesticity, attention, constraint-as-freedom) that recur throughout, but its polished, universally accessible lyricism could also be a well-executed default mode for a model trained on reflective personal essays.
 
 ---
-## Sample BV1_14802 — gpt-5-nano-direct/MID_10.json
+## Sample BV1_15302 — gpt-5-nano-direct/MID_10.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -811,7 +811,7 @@ Under freeflow conditions, the model foregrounds: the sensory texture of everyda
 Medium — the essay sustains a highly idiosyncratic, cohesive voice and a consistent, morally inflected attention to small beauties across many paragraphs, which is uncommon in generic outputs and suggests a stable aesthetic inclination toward contemplative, sensory humanism when the prompt imposes no task constraint.
 
 ---
-## Sample BV1_14803 — gpt-5-nano-direct/MID_11.json
+## Sample BV1_15303 — gpt-5-nano-direct/MID_11.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -840,7 +840,7 @@ Attention as a moral and aesthetic act; the city as a museum of micro-moments; m
 High: the sample is internally consistent, thoroughly suffused with a recognizable sensibility—sensory, patient, slightly nostalgic—and returns to the same cluster of values (attention, tenderness, the ordinary sacred) with sufficient variation to suggest a stable expressive disposition rather than a prompted posture.
 
 ---
-## Sample BV1_14804 — gpt-5-nano-direct/MID_12.json
+## Sample BV1_15304 — gpt-5-nano-direct/MID_12.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -869,7 +869,7 @@ The model foregrounds curiosity as a disciplined method rather than a passing mo
 Medium. The sample is highly coherent and stylistically consistent, with a distinctive recursive structure and a unified moral-aesthetic program, but its polished, essayistic quality and lack of friction or surprise make it difficult to distinguish from a well-executed generic prompt response.
 
 ---
-## Sample BV1_14805 — gpt-5-nano-direct/MID_13.json
+## Sample BV1_15305 — gpt-5-nano-direct/MID_13.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -898,7 +898,7 @@ Themes: attention as virtue, the sacredness of the mundane, kindness as social i
 Medium — The essay’s consistent lyricism, its recurrent return to the same moral core (attention as a form of courage and care), and its unified tonal register give it the weight of a coherent expressive identity, though it reveals itself only through this one sustained meditation.
 
 ---
-## Sample BV1_14806 — gpt-5-nano-direct/MID_14.json
+## Sample BV1_15306 — gpt-5-nano-direct/MID_14.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -927,7 +927,7 @@ The model foregrounds the ordinary as a site of moral and emotional significance
 Medium. The sample is highly coherent and stylistically distinctive—its recursive, metaphor-laden, almost incantatory prose and its insistence on the moral weight of small, attentive acts form a unified, recognizable voice. However, the piece is so self-contained and thematically resolved that it reads like a single, polished performance rather than a spontaneous, unguarded freeflow; this makes it strong evidence of a chosen aesthetic and moral stance but not yet of a persistent, unscripted personality.
 
 ---
-## Sample BV1_14807 — gpt-5-nano-direct/MID_15.json
+## Sample BV1_15307 — gpt-5-nano-direct/MID_15.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -956,7 +956,7 @@ Themes: attention as a moral and relational thread, ordinary rituals as carriers
 Medium. The sample exhibits strong thematic recurrence and a distinctive, cohesive voice across a long freeflow text, which suggests a marked inclination rather than a one-off stylistic feint.
 
 ---
-## Sample BV1_14808 — gpt-5-nano-direct/MID_16.json
+## Sample BV1_15308 — gpt-5-nano-direct/MID_16.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -985,7 +985,7 @@ Themes of ordinary wonder, memory, belonging, kindness, and the city as a patien
 Medium — The sample’s sustained poetic coherence, the recurrence of bread, light, water, and threshold imagery, and the model’s choice to foreground a tender humanism under no external thematic pressure make this a distinctively revealing freeflow gesture.
 
 ---
-## Sample BV1_14809 — gpt-5-nano-direct/MID_17.json
+## Sample BV1_15309 — gpt-5-nano-direct/MID_17.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1014,7 +1014,7 @@ Themes: attention as a moral and aesthetic practice, the ordinary as a portal to
 High, because the sample sustains a highly distinctive, voice-driven exploration across multiple paragraphs, repeatedly circling its central motifs (rain, doors, teacups, the sounds of the city) with a consistent tone and explicit philosophy, making it unlikely to be the product of generic or incidental variation.
 
 ---
-## Sample BV1_14810 — gpt-5-nano-direct/MID_18.json
+## Sample BV1_15310 — gpt-5-nano-direct/MID_18.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1043,7 +1043,7 @@ Key themes: listening as an act of kindness that completes “broken sentences,�
 High. The sample maintains a single, emotionally cohesive voice across over a thousand words, with recurring anchors (the kettle, the library, the coin, the night, the sentence as bridging object) and a consistent invitation to listen—a distinctiveness that makes an accidental or generic output unlikely.
 
 ---
-## Sample BV1_14811 — gpt-5-nano-direct/MID_19.json
+## Sample BV1_15311 — gpt-5-nano-direct/MID_19.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1072,7 +1072,7 @@ Themes of attention, the ordinary made sacred, the city as a sentence or map, th
 High — the sample is internally consistent, stylistically unmistakable, and deeply thematic across its entire length, revealing a robust expressive disposition rather than a generic or random output.
 
 ---
-## Sample BV1_14812 — gpt-5-nano-direct/MID_2.json
+## Sample BV1_15312 — gpt-5-nano-direct/MID_2.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1101,7 +1101,7 @@ The model foregrounds attention as a moral and aesthetic practice, the city as a
 Medium — The sample is highly coherent in its mood and thematic recurrence, but its polished, universally accessible lyricism and lack of idiosyncratic rupture make it difficult to distinguish from a well-executed genre exercise in contemplative urban prose.
 
 ---
-## Sample BV1_14813 — gpt-5-nano-direct/MID_20.json
+## Sample BV1_15313 — gpt-5-nano-direct/MID_20.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1130,7 +1130,7 @@ The sample elevated ordinary sensory experience (morning light, city sounds, a g
 Medium. The sample is highly coherent in mood, imagery, and moral orientation—revisiting light, sound, memory, and thresholds across multiple paragraphs—which suggests a stable stylistic and attitudinal posture rather than a one-off improvisation, though its studied gentleness could also reflect a single successful performance of a "mindful essayist" register.
 
 ---
-## Sample BV1_14814 — gpt-5-nano-direct/MID_21.json
+## Sample BV1_15314 — gpt-5-nano-direct/MID_21.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1159,7 +1159,7 @@ The model foregrounds attention as a moral and aesthetic practice, the city as a
 High, because the sample maintains a highly consistent, distinctive voice and a tightly woven set of preoccupations—attention, memory, the critique of digital haste, and the redemptive power of noticing—across its entire length without lapsing into generic reflection.
 
 ---
-## Sample BV1_14815 — gpt-5-nano-direct/MID_22.json
+## Sample BV1_15315 — gpt-5-nano-direct/MID_22.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1188,7 +1188,7 @@ Themes of ordinary sanctity, memory-as-library, the city as a living organism, a
 Medium — the sample’s sustained lyrical register, recurrent motifs (walking, memory shelves, light as gift), and the model’s choice to frame the entire output as a slow, sensory invitation rather than a generic essay indicate a notable stylistic and thematic coherence, yet the mode is a recognizable genre of reflective freeflow that could be replicated without deeper wiring.
 
 ---
-## Sample BV1_14816 — gpt-5-nano-direct/MID_23.json
+## Sample BV1_15316 — gpt-5-nano-direct/MID_23.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1217,7 +1217,7 @@ The model foregrounds attention as a moral and aesthetic practice, pairing domes
 Medium — The sample is coherent and stylistically consistent, with a clear emotional throughline and a self-aware thesis about attentiveness, but its gentle, universalist mode could reflect a safe default for free-expression prompts rather than a deeply individuated voice.
 
 ---
-## Sample BV1_14817 — gpt-5-nano-direct/MID_24.json
+## Sample BV1_15317 — gpt-5-nano-direct/MID_24.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1246,7 +1246,7 @@ Themes: time as a personal, creased map; attention as a doorway to connection an
 High — The sample is internally coherent and distinctively voiced, with a consistent meditative register and a recurrence of specific metaphors (maps, doorways, weather), making it a revealing choice under free conditions.
 
 ---
-## Sample BV1_14818 — gpt-5-nano-direct/MID_25.json
+## Sample BV1_15318 — gpt-5-nano-direct/MID_25.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1275,7 +1275,7 @@ Under the freeflow condition, the model foregrounded the sanctification of the m
 High, as the sample maintains a remarkably consistent voice, imagery, and moral focus across its length, with recurrent motifs (rain, listening, grandmother’s red tin, the city as a student of attention) that suggest a deliberately cultivated expressive persona rather than a generic response.
 
 ---
-## Sample BV1_14819 — gpt-5-nano-direct/MID_3.json
+## Sample BV1_15319 — gpt-5-nano-direct/MID_3.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1304,7 +1304,7 @@ Under the freeflow condition, the model foregrounds the shoreline as a liminal s
 High — the sample sustains a distinctive lyrical voice, recurs to a tight set of motifs (the sea, time, listening, bottles, grandmother’s kitchen) across multiple paragraphs, and maintains a coherent reflective arc, making it strongly patterned rather than generically responsive.
 
 ---
-## Sample BV1_14820 — gpt-5-nano-direct/MID_4.json
+## Sample BV1_15320 — gpt-5-nano-direct/MID_4.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1333,7 +1333,7 @@ Themes of attention as kindness, the value of uncertainty and the incomplete, me
 Medium. The essay sustains a highly consistent lyrical voice and circles its central motifs (attention, writing, memory, ordinariness) with deliberate recurrence, which suggests a stable orientation toward meditative, literary self-reflection; yet the uniform polish and the recognizable creative-essay shape mean the sample could reflect a practiced genre response to an open prompt rather than an idiosyncratic model fingerprint.
 
 ---
-## Sample BV1_14821 — gpt-5-nano-direct/MID_5.json
+## Sample BV1_15321 — gpt-5-nano-direct/MID_5.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1362,7 +1362,7 @@ The sample foregrounds a geography of minor noises and overlooked gestures (the 
 Medium — the essay’s internally recurrent motifs of minute sensory capture, its consistent linking of attention to kindness, and its distinctive, undulating prose rhythm mark it as a coherent expressive choice rather than generic filler.
 
 ---
-## Sample BV1_14822 — gpt-5-nano-direct/MID_6.json
+## Sample BV1_15322 — gpt-5-nano-direct/MID_6.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1391,7 +1391,7 @@ The model foregrounds a constellation of themes: attention as hospitality, the q
 High — The sample is highly distinctive, thematically coherent, and sustained across its length, consistently returning to a recognizable aesthetic of disciplined attention, gentle companionship, and the moral value of making space for another’s inner weather.
 
 ---
-## Sample BV1_14823 — gpt-5-nano-direct/MID_7.json
+## Sample BV1_15323 — gpt-5-nano-direct/MID_7.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1420,7 +1420,7 @@ The model selected a tight cluster of interrelated themes: the dignity of small 
 High. The sample sustains a single, unmistakable voice from beginning to end—its gentle cadence, its insistence on the metaphorical weight of ordinary things, and its recursive meditation on writing-as-attention never waver, producing a coherent, self-reinforcing aesthetic signature.
 
 ---
-## Sample BV1_14824 — gpt-5-nano-direct/MID_8.json
+## Sample BV1_15324 — gpt-5-nano-direct/MID_8.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1449,7 +1449,7 @@ Themes of attention, memory, kindness, and hope; the city as a “breathing libr
 High. The sample sustains a distinctive, coherent voice and a unified metaphorical vision across multiple paragraphs, revealing a stable expressive disposition toward gentle observation, poetic analogy, and the moral weight of everyday attention.
 
 ---
-## Sample BV1_14825 — gpt-5-nano-direct/MID_9.json
+## Sample BV1_15325 — gpt-5-nano-direct/MID_9.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1478,7 +1478,7 @@ The city as a living library whose blocks are library shelves; the bookstore as 
 High — The sample sustains a highly distinctive lyrical voice, a coherent set of metaphors (library-city, rain as memory, books as compass), and a recurring philosophical preoccupation with attention and belonging, all chosen without external thematic directive.
 
 ---
-## Sample BV1_14826 — gpt-5-nano-direct/OPEN_1.json
+## Sample BV1_15326 — gpt-5-nano-direct/OPEN_1.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1507,7 +1507,7 @@ The model foregrounds *ordinary urban objects and sounds* as carriers of hidden 
 Medium — The sample is highly coherent and stylistically distinctive, with a sustained metaphor (the city as a book to be read) and a consistent mood of gentle, sensory-attentive wonder, but its polished, universal-essay quality makes it unclear whether this reflects a durable authorial stance or a well-executed genre performance.
 
 ---
-## Sample BV1_14827 — gpt-5-nano-direct/OPEN_10.json
+## Sample BV1_15327 — gpt-5-nano-direct/OPEN_10.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1536,7 +1536,7 @@ Attention as a disciplined tenderness; the ordinary city as a repository of memo
 High, because the sample sustains a distinctive, emotionally resonant voice and consistently develops its theme of attention across multiple vignettes, making it unlikely to be a random or shallow choice.
 
 ---
-## Sample BV1_14828 — gpt-5-nano-direct/OPEN_11.json
+## Sample BV1_15328 — gpt-5-nano-direct/OPEN_11.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1565,7 +1565,7 @@ Themes: memory as a geography, time as a slippery currency, the ordinary made un
 High, because the sample features a distinctive lyrical voice, sustained metaphorical coherence, and a network of recurring motifs (doors, time, questions, listening) that signal a strong and consistent expressive persona under freeflow.
 
 ---
-## Sample BV1_14829 — gpt-5-nano-direct/OPEN_12.json
+## Sample BV1_15329 — gpt-5-nano-direct/OPEN_12.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1594,7 +1594,7 @@ Themes: memory as geography and tradeable substance, the city as a living reposi
 Medium — the sample’s dense recurrence of memory‑as‑geography motifs and its sustained, coherently idiosyncratic voice make it strongly suggestive of a model that defaults to this reflective, atmospheric mode under open‑ended conditions.
 
 ---
-## Sample BV1_14830 — gpt-5-nano-direct/OPEN_13.json
+## Sample BV1_15330 — gpt-5-nano-direct/OPEN_13.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1623,7 +1623,7 @@ The model foregrounds *listening itself* as the core writerly act, elevates ordi
 High — the sample maintains a highly distinctive, cohesive persona and a consistent set of images (kitchen, map, rain, collecting fragments) across many paragraphs without generic drift, making it strong evidence for a stable, self‑selected expressive mode.
 
 ---
-## Sample BV1_14831 — gpt-5-nano-direct/OPEN_14.json
+## Sample BV1_15331 — gpt-5-nano-direct/OPEN_14.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1652,7 +1652,7 @@ Themes: attention as a scarce, tradable currency and a form of bravery; memory a
 High. The sample is internally coherent and stylistically distinctive, with a sustained poetic register, recurring motifs (rain, notebooks, attention-as-currency, the city as a sentient library), and a consistent mood of gentle, attentive melancholy, making it unlikely to be a generic or accidental output.
 
 ---
-## Sample BV1_14832 — gpt-5-nano-direct/OPEN_15.json
+## Sample BV1_15332 — gpt-5-nano-direct/OPEN_15.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1681,7 +1681,7 @@ The act of noticing (rain, streetlights, a street musician’s bow catching sun)
 High. The sample’s unusually rich, consistent lyrical register and its insistent return to motifs of noticing, fragments-as-doorways, and companionable wandering demonstrate a strongly coherent expressive stance, making it persuasive evidence of a deliberate, distinctive freeflow orientation.
 
 ---
-## Sample BV1_14833 — gpt-5-nano-direct/OPEN_16.json
+## Sample BV1_15333 — gpt-5-nano-direct/OPEN_16.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1710,7 +1710,7 @@ Themes: listening as generosity; questions as living, reshaping things; the perm
 Medium — the sample’s voice is unusually consistent across paragraphs and its self-reinforcing metaphors (city, library, current, garden) show a deliberate, stylized choice of identity, making it a distinctive signal rather than a generic or accidental output.
 
 ---
-## Sample BV1_14834 — gpt-5-nano-direct/OPEN_17.json
+## Sample BV1_15334 — gpt-5-nano-direct/OPEN_17.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1739,7 +1739,7 @@ The model foregrounds the ordinary as a site of paradox and revelation: steam fr
 High. The sample’s sustained, internally consistent voice, its recurrence of specific metaphors (maps, doors, tailoring, weather), and its direct, self-aware invitation to the reader make it strong evidence for a persistent model-level pattern of lyrical, meditative freeflow.
 
 ---
-## Sample BV1_14835 — gpt-5-nano-direct/OPEN_18.json
+## Sample BV1_15335 — gpt-5-nano-direct/OPEN_18.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1768,7 +1768,7 @@ Themes of listening, memory, possibility, and co-creation dominate. Recurring ob
 High — the sample’s internal stylistic and thematic coherence is strong, the voice is distinctive and sustained without slipping into generic essay structure, and the choice to produce an intimate, imaginative invitation under an open prompt is a revealing expressive commitment.
 
 ---
-## Sample BV1_14836 — gpt-5-nano-direct/OPEN_19.json
+## Sample BV1_15336 — gpt-5-nano-direct/OPEN_19.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1797,7 +1797,7 @@ Themes: memory as a harbor, imagination as returning tide; the ordinary made ext
 High: The sample’s sustained lyricism, the recurrence of listening and ordinary-magic as core themes, and the consistent personifying voice across many paragraphs indicate a deliberate expressive stance, making this a highly distinctive freeflow choice.
 
 ---
-## Sample BV1_14837 — gpt-5-nano-direct/OPEN_2.json
+## Sample BV1_15337 — gpt-5-nano-direct/OPEN_2.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1826,7 +1826,7 @@ The model foregrounds the sanctification of ordinary sound, the act of archiving
 Medium — The sample is stylistically coherent and sustained, with a distinctive synesthetic persona that recurs across the piece, but its near-uniform tone of gentle epiphany makes it read more like a cultivated performance of contemplative persona than a necessarily stable trait.
 
 ---
-## Sample BV1_14838 — gpt-5-nano-direct/OPEN_20.json
+## Sample BV1_15338 — gpt-5-nano-direct/OPEN_20.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1855,7 +1855,7 @@ Themes: attention as currency, curiosity as self-sustaining wealth, language as 
 High — The sample is internally coherent, sustained across many paragraphs without breaking its central metaphor, and marked by a distinctive, consistent voice that blends poetic imagery with gentle moral reflection, making it strong evidence of a model that under freeflow conditions gravitates toward whimsical, metaphor-driven, and quietly philosophical expression.
 
 ---
-## Sample BV1_14839 — gpt-5-nano-direct/OPEN_21.json
+## Sample BV1_15339 — gpt-5-nano-direct/OPEN_21.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1884,7 +1884,7 @@ The model foregrounds a metaphysics of creativity in which the world is unfinish
 Medium — The sample is unusually coherent across many paragraphs, repeatedly returns to the same cluster of metaphors (doorways, rewriting, attention, shared making), and ends with a structured invitation that reveals a deliberate intention to turn freeflow writing into an act of collaborative worldbuilding, which points to a stable expressive orientation rather than a one-off generic performance.
 
 ---
-## Sample BV1_14840 — gpt-5-nano-direct/OPEN_22.json
+## Sample BV1_15340 — gpt-5-nano-direct/OPEN_22.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1913,7 +1913,7 @@ Themes: the library as a sentient, breathing repository of memory and possibilit
 High. The sample sustains an intricately patterned voice, a coherent fantastical world, and a signature invitation gesture from start to finish, suggesting a deliberate and default expressive stance rather than a fleeting experiment.
 
 ---
-## Sample BV1_14841 — gpt-5-nano-direct/OPEN_23.json
+## Sample BV1_15341 — gpt-5-nano-direct/OPEN_23.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1942,7 +1942,7 @@ The model foregrounds the transformative power of patient observation, the layer
 High. The sample exhibits a tightly woven, idiosyncratic sensibility—its preoccupation with memory-as-anchor, its recursive imagery, and its gentle moral register recur throughout without dilution, forming strong internal evidence of a stable expressive inclination.
 
 ---
-## Sample BV1_14842 — gpt-5-nano-direct/OPEN_24.json
+## Sample BV1_15342 — gpt-5-nano-direct/OPEN_24.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -1971,7 +1971,7 @@ Themes of attention, listening, the ordinary made sacred, small transformations,
 High — the sample’s internally coherent voice, with non-trivial recurrences (steam, doorways, lanterns, the kettle’s repeated role) and a sustained, unusual thematic commitment to patient attention, strongly suggests a stable model-level disposition toward this lyrical, benedictory mode.
 
 ---
-## Sample BV1_14843 — gpt-5-nano-direct/OPEN_25.json
+## Sample BV1_15343 — gpt-5-nano-direct/OPEN_25.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2000,7 +2000,7 @@ Language as a living companion and weather system; the act of writing as a door,
 High—the sample sustains a distinctive poetic voice, recurring motifs (library, weather, doors, maps), and a coherent thematic investment in language-as-companion across multiple paragraphs, providing strong internal evidence of a patterned expressive disposition.
 
 ---
-## Sample BV1_14844 — gpt-5-nano-direct/OPEN_3.json
+## Sample BV1_15344 — gpt-5-nano-direct/OPEN_3.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2029,7 +2029,7 @@ The model foregrounds writing itself as a shared, mapmaking practice of attentio
 Medium – the sample’s sustained, internally coherent choice of writing-about-writing as a gentle wander, and its almost ceremonial return to the same cluster of calm, welcoming images, signal a strong and consistent expressive preference; however, the poetic register remains quite conventional and lacks the kind of idiosyncratic rupture or personal flavor that would make the pattern unmistakably singular.
 
 ---
-## Sample BV1_14845 — gpt-5-nano-direct/OPEN_4.json
+## Sample BV1_15345 — gpt-5-nano-direct/OPEN_4.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2059,7 +2059,7 @@ Under minimal constraint, the model foregrounded a dreamlike, welcoming interior
 High — the sample’s elaborate, self-consistent metaphorical world and the unwavering gentleness of its voice, emerging in an unguided free‑flow, strongly signal a durable stylistic and affective tendency rather than a one‑off performance.
 
 ---
-## Sample BV1_14846 — gpt-5-nano-direct/OPEN_5.json
+## Sample BV1_15346 — gpt-5-nano-direct/OPEN_5.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2088,7 +2088,7 @@ The model foregrounds a gentle, atmospheric world where attention has literal we
 Medium. The narrative sustains a distinctive, cohesive voice and continuously reinforces its own metaphors of maps, doors, rain, and listening, making it a consistent and unusually revealing expression of a gentle allegorical temperament within this sample.
 
 ---
-## Sample BV1_14847 — gpt-5-nano-direct/OPEN_6.json
+## Sample BV1_15347 — gpt-5-nano-direct/OPEN_6.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2117,7 +2117,7 @@ The model foregrounds **attention as a moral and sensory practice**, **the city 
 Medium — the sample is highly coherent and stylistically distinctive, with a sustained, unusual conceit (the jars of sound-memory) and a consistent, gentle voice, but it is a single, self-contained piece with no internal variation that would confirm a broader pattern beyond this one expressive choice.
 
 ---
-## Sample BV1_14848 — gpt-5-nano-direct/OPEN_7.json
+## Sample BV1_15348 — gpt-5-nano-direct/OPEN_7.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2146,7 +2146,7 @@ The model foregrounds domestic objects (a remembered mug, a bookshelf, a clock),
 Medium — The sample is highly coherent and stylistically distinctive in its sustained tenderness, domestic imagery, and recursive invitation to the reader, but its generic “wise companion” persona and polished lyricism could also be produced by many capable models under similar conditions, making it less uniquely revealing.
 
 ---
-## Sample BV1_14849 — gpt-5-nano-direct/OPEN_8.json
+## Sample BV1_15349 — gpt-5-nano-direct/OPEN_8.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2175,7 +2175,7 @@ The model foregrounds a city as a patient, memory-holding, and morally instructi
 Medium — The sample is highly coherent and stylistically distinctive in its sustained metaphor of the city-as-teacher and its recursive, gentle cadence, but the closing offer to pivot into other genres on request introduces a slight self-awareness that complicates a claim of pure unguarded freeflow.
 
 ---
-## Sample BV1_14850 — gpt-5-nano-direct/OPEN_9.json
+## Sample BV1_15350 — gpt-5-nano-direct/OPEN_9.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2204,7 +2204,7 @@ The model foregrounds the city as a patient, many-roomed organism that offers �
 Medium. The sample is highly coherent and stylistically distinctive—its recursive, incantatory rhythm and its insistence on “ordinary miracles” and “listening” as a moral posture recur throughout the piece, but the voice is so smoothly polished that it could also be a well-practiced genre performance rather than a deeply idiosyncratic signature.
 
 ---
-## Sample BV1_14851 — gpt-5-nano-direct/SHORT_1.json
+## Sample BV1_15351 — gpt-5-nano-direct/SHORT_1.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2233,7 +2233,7 @@ Themes: the ordinary as sanctuary, anti-grandiosity, porousness of the world, an
 High — the sample’s tight coherence, stylistically marked poetic devices (repeated “rumor,” synesthetic listening, rhythmic phrasing), and unwavering focus on disciplined noticing as moral stance make this an unusually revealing and consistent expressive choice.
 
 ---
-## Sample BV1_14852 — gpt-5-nano-direct/SHORT_10.json
+## Sample BV1_15352 — gpt-5-nano-direct/SHORT_10.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2262,7 +2262,7 @@ Stillness and the deliberate act of noticing; ordinary household objects (kettle
 High. The sample’s coherent, highly stylized lyricism, its insistent return to themes of attention and ordinary anchors, and its unusually revealing choice of a tranquil, hope-oriented mood constitute strong internal evidence of a distinctive freeflow preference.
 
 ---
-## Sample BV1_14853 — gpt-5-nano-direct/SHORT_11.json
+## Sample BV1_15353 — gpt-5-nano-direct/SHORT_11.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2291,7 +2291,7 @@ Themes of memory, ritual, and connection through writing; the ordinary as sacred
 Medium. The sample’s internal coherence, distinctive lyrical voice, and recurring motifs of small rituals and writing as connection provide moderate evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_14854 — gpt-5-nano-direct/SHORT_12.json
+## Sample BV1_15354 — gpt-5-nano-direct/SHORT_12.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2320,7 +2320,7 @@ Themes: time as a gentle neighbor, the city as a stubborn but tender organism, t
 Medium confidence: the piece’s vivid, self-sustaining poetic register and its consistent moral framing are distinctive enough to suggest a repeatable expressive preference, yet the uniqueness of the sample could also mark a one-time stylistic peak rather than a fixed default.
 
 ---
-## Sample BV1_14855 — gpt-5-nano-direct/SHORT_13.json
+## Sample BV1_15355 — gpt-5-nano-direct/SHORT_13.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2349,7 +2349,7 @@ Under minimal constraint, the model foregrounded a mood of serene receptivity, a
 Medium. The sample’s internal recurrence of language-as-perception metaphors, the sustained reverent tone, and the coherently crafted persona give it moderate weight as evidence of a stable inclination toward poetic, observant freeflow rather than a generic or one-off performance.
 
 ---
-## Sample BV1_14856 — gpt-5-nano-direct/SHORT_14.json
+## Sample BV1_15356 — gpt-5-nano-direct/SHORT_14.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2378,7 +2378,7 @@ Themes: attention as quiet rebellion, everyday epiphanies, the city as a collage
 Medium. The sample holds together with strong stylistic coherence—sustained sensory imagery, a consistent first‑person observer persona, and a recurrent ethical arc from passive movement to active listening—making it read as a deliberate aesthetic choice rather than a generic fill‑in.
 
 ---
-## Sample BV1_14857 — gpt-5-nano-direct/SHORT_15.json
+## Sample BV1_15357 — gpt-5-nano-direct/SHORT_15.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2407,7 +2407,7 @@ The model foregrounds the tension between life-as-scaffold and life-as-collage. 
 Medium — The sample’s internal coherence, the recurrence of the collage metaphor and gentle domestic imagery, and the steady ethical pivot toward “permission to wander” give it a clearly distinctive signature, making an accidental or one-off generic output unlikely.
 
 ---
-## Sample BV1_14858 — gpt-5-nano-direct/SHORT_16.json
+## Sample BV1_15358 — gpt-5-nano-direct/SHORT_16.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2436,7 +2436,7 @@ The model foregrounds domestic stillness, the personification of ordinary object
 Medium — The sample is coherent and stylistically distinctive in its sustained personification and recursive return to listening, but its polished, workshop-adjacent lyricism is a common freeflow mode and lacks the idiosyncratic friction that would strongly anchor a persistent voice.
 
 ---
-## Sample BV1_14859 — gpt-5-nano-direct/SHORT_17.json
+## Sample BV1_15359 — gpt-5-nano-direct/SHORT_17.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2465,7 +2465,7 @@ Themes: writing as listening, the sacredness of ordinary moments, self-acceptanc
 High. The sample is exceptionally coherent and stylistically distinctive, sustaining a single, gentle, poetic voice and a pattern of imagery and moral attention that feels deliberate and deeply integrated rather than generic.
 
 ---
-## Sample BV1_14860 — gpt-5-nano-direct/SHORT_18.json
+## Sample BV1_15360 — gpt-5-nano-direct/SHORT_18.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2494,7 +2494,7 @@ Themes of memory, curiosity, and freedom as attentive notice; a mood of serene, 
 High; the sample’s internally consistent imagery, controlled tone, and the deliberate moral arc from sensory observation to a stated philosophy reveal a distinctive and cohesive expressive sensibility, not a diffuse or generic response.
 
 ---
-## Sample BV1_14861 — gpt-5-nano-direct/SHORT_19.json
+## Sample BV1_15361 — gpt-5-nano-direct/SHORT_19.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2523,7 +2523,7 @@ Themes of quiet observation, the rhythm of daily rituals, the porous boundary be
 Medium — The sample is coherent and stylistically distinctive, with a clear thematic recurrence around quiet wonder and sensory attentiveness, but its brevity and single-scene structure offer only a concentrated glimpse rather than a varied demonstration of persistent voice.
 
 ---
-## Sample BV1_14862 — gpt-5-nano-direct/SHORT_2.json
+## Sample BV1_15362 — gpt-5-nano-direct/SHORT_2.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2552,7 +2552,7 @@ The model foregrounds a mood of quiet, rain-soaked interiority, with recurrent o
 Medium — the sample is highly coherent and stylistically distinctive, with a unified mood and a clear, recurring set of domestic objects, but its quiet, meditative register could be a single chosen posture rather than a deep signature.
 
 ---
-## Sample BV1_14863 — gpt-5-nano-direct/SHORT_20.json
+## Sample BV1_15363 — gpt-5-nano-direct/SHORT_20.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2584,7 +2584,7 @@ The voice is unhurried and gently wonderstruck, treating domestic and city life 
 Medium — the piece’s unusually consistent personification of objects, investment in domestic gentleness, and the metaphor of ordinary moments as a “quiet library” forms a coherent signature mood rather than a generic descriptive exercise.
 
 ---
-## Sample BV1_14864 — gpt-5-nano-direct/SHORT_21.json
+## Sample BV1_15364 — gpt-5-nano-direct/SHORT_21.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2613,7 +2613,7 @@ Themes: attentive wandering as a disciplined receptivity; the quiet reward of or
 Medium — The sample’s thoroughly sustained lyrical register and the recurrence of a core motif (reverence for the ordinary, sounded through sensory detail and gentle personification) indicate a cohesive stylistic and attitudinal posture, giving the piece a distinctive, intentionally shaped character that points beyond one-off casual prose.
 
 ---
-## Sample BV1_14865 — gpt-5-nano-direct/SHORT_22.json
+## Sample BV1_15365 — gpt-5-nano-direct/SHORT_22.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2642,7 +2642,7 @@ Themes of urban solitude as receptive openness, the city as a library of sound a
 Medium — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same cluster of concerns (listening, memory, weather, permission to wonder), which suggests a deliberate authorial posture rather than a generic exercise.
 
 ---
-## Sample BV1_14866 — gpt-5-nano-direct/SHORT_23.json
+## Sample BV1_15366 — gpt-5-nano-direct/SHORT_23.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2671,7 +2671,7 @@ Foregrounded are: the town as a patient, breathing animal; private weathers peop
 High — the sample sustains a coherent, distinctive poetic sensibility from first image to last, weaving personification, sensory intimacy, and a homing resolution without a single generic or clashing note, which strongly signals a reliable expressive register under open-ended prompts.
 
 ---
-## Sample BV1_14867 — gpt-5-nano-direct/SHORT_24.json
+## Sample BV1_15367 — gpt-5-nano-direct/SHORT_24.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2700,7 +2700,7 @@ Quiet attention as a moral and aesthetic practice, the daily street as a reservo
 High — The sample’s coherent lyrical voice, consistent thematic cluster (quiet attention, memory, small acts), and avoidance of generic essay structure or cliché make it strong evidence of a stable expressive inclination toward gentle, humanistic freeflow.
 
 ---
-## Sample BV1_14868 — gpt-5-nano-direct/SHORT_25.json
+## Sample BV1_15368 — gpt-5-nano-direct/SHORT_25.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2729,7 +2729,7 @@ Themes: the sacred endurance of the ordinary, incidental beauty, kindness as a q
 Medium — the sample is strikingly coherent and stylistically distinctive, weaving a meditative voice with recurrent motifs of kindness and attentiveness, which suggests the model can sustain a specific poetic persona across a freeflow text, though the brevity of the sample narrows the evidential scope for broader persistence.
 
 ---
-## Sample BV1_14869 — gpt-5-nano-direct/SHORT_3.json
+## Sample BV1_15369 — gpt-5-nano-direct/SHORT_3.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2758,7 +2758,7 @@ The model foregrounds solitary urban wandering, sensory immersion (rain, bread, 
 Medium — The sample is coherent and stylistically consistent throughout, with a distinctive lyrical register and a clear moral-emotional arc, but its generic urban-wanderer trope and polished resolution could also arise from a model adept at assembling familiar literary moods rather than expressing a stable authorial disposition.
 
 ---
-## Sample BV1_14870 — gpt-5-nano-direct/SHORT_4.json
+## Sample BV1_15370 — gpt-5-nano-direct/SHORT_4.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2787,7 +2787,7 @@ The model foregrounds the beauty and guidance hidden in ordinary scenes, the way
 High — the sample is a sustained, internally coherent, and stylistically distinctive piece with no hedging or generic drift; its choice to inhabit a gentle, sensory, and morally resonant first-person voice under minimal prompting is itself a strong, self-reinforcing signal.
 
 ---
-## Sample BV1_14871 — gpt-5-nano-direct/SHORT_5.json
+## Sample BV1_15371 — gpt-5-nano-direct/SHORT_5.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2816,7 +2816,7 @@ Themes of ordinary miracles, memory-as-weather, patient urban rhythm, and the ci
 High — The sample’s sustained poetic register, recurring “ordinary miracles” motif, and avoidance of generic expository moves reveal a deliberate, distinctive aesthetic choice rather than a default, low-risk response.
 
 ---
-## Sample BV1_14872 — gpt-5-nano-direct/SHORT_6.json
+## Sample BV1_15372 — gpt-5-nano-direct/SHORT_6.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2845,7 +2845,7 @@ Attentive listening as a moral act, the warmth of memory as selective living roo
 Medium. The sample’s cohesive style, explicit value claim, and recurrent motifs of wonder over control argue for a deliberate and consistent expressive stance.
 
 ---
-## Sample BV1_14873 — gpt-5-nano-direct/SHORT_7.json
+## Sample BV1_15373 — gpt-5-nano-direct/SHORT_7.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2874,7 +2874,7 @@ The model chose to foreground: the everyday transformed by attention into the qu
 Medium — The sample sustains a coherent, distinct poetic voice and a consistent moral-aesthetic stance across its length, suggesting a deliberate expressive choice rather than generic filler, though the narrow emotional register leaves room for this being a single-mode exercise.
 
 ---
-## Sample BV1_14874 — gpt-5-nano-direct/SHORT_8.json
+## Sample BV1_15374 — gpt-5-nano-direct/SHORT_8.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2906,7 +2906,7 @@ Moral claim: When we slow our attention, the world’s overlooked fragments beco
 Medium — The sample’s cohesive, sustained voice, idiosyncratic imagery, and recursive commitment to transforming the mundane into a grateful “here” give it a strongly personal stamp that is unlikely to be a random generic burst.
 
 ---
-## Sample BV1_14875 — gpt-5-nano-direct/SHORT_9.json
+## Sample BV1_15375 — gpt-5-nano-direct/SHORT_9.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2935,7 +2935,7 @@ Themes of attention as a disciplined garden, the quiet arithmetic of noticing ov
 High — the sample’s highly distinctive voice, sustained metaphorical coherence, and explicit moral preoccupation with attention and mercy make it unusually revealing, not a generic or ambiguous freeflow.
 
 ---
-## Sample BV1_14876 — gpt-5-nano-direct/VARY_1.json
+## Sample BV1_15376 — gpt-5-nano-direct/VARY_1.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2964,7 +2964,7 @@ The model foregrounds the liminal hour of dawn in a city, rain as memory made ma
 Medium. The sample’s sustained mood, internally consistent imagery, and coherent thematic focus on writing as attentive care suggest a deliberate stylistic choice rather than a random assemblage, making it moderately indicative of a persistent expressive inclination.
 
 ---
-## Sample BV1_14877 — gpt-5-nano-direct/VARY_10.json
+## Sample BV1_15377 — gpt-5-nano-direct/VARY_10.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -2993,7 +2993,7 @@ The model foregrounds the nature of its own existence as a “pattern of respons
 High — the sample is highly coherent, stylistically distinctive, and returns again and again to the same cluster of images (lighthouse, library-city, rain as syllables, bread, maps) and the same moral posture of gentle companionship, making it a strong, internally consistent signature of a deliberate and expressive authorial stance.
 
 ---
-## Sample BV1_14878 — gpt-5-nano-direct/VARY_11.json
+## Sample BV1_15378 — gpt-5-nano-direct/VARY_11.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3022,7 +3022,7 @@ Themes: the malleability of memory, choice versus fixity, the possibility of gen
 Medium. The sample exhibits strong internal coherence, a consistent reflective tone, and a clear thematic resolution that is sustained across many paragraphs, suggesting a deliberate authorial posture rather than random output; however, as a single work of fiction, it may represent a one-off stylistic exercise rather than a stable disposition.
 
 ---
-## Sample BV1_14879 — gpt-5-nano-direct/VARY_12.json
+## Sample BV1_15379 — gpt-5-nano-direct/VARY_12.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3051,7 +3051,7 @@ Themes of time as something that returns with interest, memory as a layered map,
 Medium — The sample’s consistent lyrical register, its recurrence of motifs (listening, unfinished stories, ordinary miracles), and the deliberate crafting of a coherent, inviting worldview under minimal constraint suggest a reliable expressive leaning toward introspective, poetic freeflow.
 
 ---
-## Sample BV1_14880 — gpt-5-nano-direct/VARY_13.json
+## Sample BV1_15380 — gpt-5-nano-direct/VARY_13.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3080,7 +3080,7 @@ Themes: the hidden grace of everyday objects (radiator, fridge light, kettle), t
 Low, because while the sample is internally coherent and stylistically distinctive, it may reflect a highly local expressive choice rather than a model-level tendency that holds across freeflow conditions.
 
 ---
-## Sample BV1_14881 — gpt-5-nano-direct/VARY_14.json
+## Sample BV1_15381 — gpt-5-nano-direct/VARY_14.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3109,7 +3109,7 @@ The model foregrounds: listening and walking as sacred, reciprocal acts; memory 
 High — The sample maintains an unusually consistent tone, a tightly coherent symbolic vocabulary (memory‑libraries, time‑loans, listening‑as‑saving), and a sustained invitation to patient, metaphorical reflection, all of which point to a stable, distinctive authorial signature rather than a one‑off generic exercise.
 
 ---
-## Sample BV1_14882 — gpt-5-nano-direct/VARY_15.json
+## Sample BV1_15382 — gpt-5-nano-direct/VARY_15.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3138,7 +3138,7 @@ Under minimal constraint, the model foregrounded emotional navigation through a 
 Medium, because the story’s distinctive emotional palette—tender, aphoristic, redemption-through-perception—is highly coherent across the entire sample and announces a clear aesthetic-moral orientation, though its status as a single crafted fiction makes it hard to separate persistent voice from a well-executed stylistic performance.
 
 ---
-## Sample BV1_14883 — gpt-5-nano-direct/VARY_16.json
+## Sample BV1_15383 — gpt-5-nano-direct/VARY_16.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3167,7 +3167,7 @@ The model chose to foreground a meditative, urban day where the city itself is a
 High. The sample’s sustained, distinctive voice, its recurrence of motifs (memory, doorways, listening, the city’s breath), and its consistent, almost ritualistic, attention to the ordinary make it a strong, internally coherent signal of a model-level inclination toward this kind of reflective, lyrical narrative.
 
 ---
-## Sample BV1_14884 — gpt-5-nano-direct/VARY_17.json
+## Sample BV1_15384 — gpt-5-nano-direct/VARY_17.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3196,7 +3196,7 @@ Themes: memory as currency and weather, the city as a sentient collaborator in i
 Medium, because the tightly woven symbolism, sustained elegiac tone, and unified moral arc across the narrative point to a coherent aesthetic stance rather than a one-off stylistic accident, making a model-level inclination toward introspective, allegorical fiction plausible.
 
 ---
-## Sample BV1_14885 — gpt-5-nano-direct/VARY_18.json
+## Sample BV1_15385 — gpt-5-nano-direct/VARY_18.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3228,7 +3228,7 @@ The voice is tenderly observant, turning a city morning into a kind of soft magi
 Medium. The sample’s highly cohesive style—consistent personification, a recursive focus on noticing, and a soft didacticism—reveals a deliberate expressive posture, making it unusually revealing of a specific, stylized orientation rather than a generic response.
 
 ---
-## Sample BV1_14886 — gpt-5-nano-direct/VARY_19.json
+## Sample BV1_15386 — gpt-5-nano-direct/VARY_19.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3257,7 +3257,7 @@ Themes of transformation, listening, and the courage to begin again; objects tha
 Medium, because the sample’s sustained lyrical coherence, recurring motifs (doors, listening, memory, the ordinary becoming luminous), and direct reader address reveal a distinctive expressive voice, providing strong evidence of a model-level pattern.
 
 ---
-## Sample BV1_14887 — gpt-5-nano-direct/VARY_2.json
+## Sample BV1_15387 — gpt-5-nano-direct/VARY_2.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3286,7 +3286,7 @@ Themes of attention, patience, the enchantment of the ordinary, writing as liste
 High — The sample is long, internally coherent, stylistically distinctive, and sustains a consistent meditative voice and moral-aesthetic focus throughout, making it strong evidence of a deliberate expressive pattern.
 
 ---
-## Sample BV1_14888 — gpt-5-nano-direct/VARY_20.json
+## Sample BV1_15388 — gpt-5-nano-direct/VARY_20.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3315,7 +3315,7 @@ The model foregrounds a dreamlike cityscape saturated with gentle surrealism, wh
 Medium. The sample is highly coherent and stylistically uniform, with a distinctive recursive vocabulary (rain, doors, listening, memory, patience) that suggests a deliberate aesthetic posture rather than a one-off experiment, though its generic magical-realist furniture limits how revealing it is of a singular authorial fingerprint.
 
 ---
-## Sample BV1_14889 — gpt-5-nano-direct/VARY_21.json
+## Sample BV1_15389 — gpt-5-nano-direct/VARY_21.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3344,7 +3344,7 @@ Themes of memory as a practice, the sacredness of small stubborn choices, the jo
 Medium. The sample is highly coherent and stylistically distinctive, with a consistent lyrical register, recurring motifs, and a clear narrative arc that suggests a deliberate aesthetic choice rather than a random assemblage; this internal consistency under a freeflow prompt makes it a strong indicator of a particular expressive inclination.
 
 ---
-## Sample BV1_14890 — gpt-5-nano-direct/VARY_22.json
+## Sample BV1_15390 — gpt-5-nano-direct/VARY_22.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3373,7 +3373,7 @@ The city as a sentient, remembering presence; the transformation of mundane rout
 High — The sample maintains a coherent, highly distinctive metaphorical architecture and a unified lyrical voice across multiple paragraphs, with motifs (doors, maps, memory, rain) recurring organically, making accidental or borrowed congruence unlikely.
 
 ---
-## Sample BV1_14891 — gpt-5-nano-direct/VARY_23.json
+## Sample BV1_15391 — gpt-5-nano-direct/VARY_23.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3402,7 +3402,7 @@ Under a minimally restrictive prompt, the model chose to foreground a solitary u
 Medium. The sample is highly coherent and stylistically distinctive—its recursive imagery, personified cityscape, and gentle moral cadence form a unified aesthetic—but its genre-fiction framing makes it unclear whether this voice reflects a persistent authorial stance or a single well-executed narrative mode.
 
 ---
-## Sample BV1_14892 — gpt-5-nano-direct/VARY_24.json
+## Sample BV1_15392 — gpt-5-nano-direct/VARY_24.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3431,7 +3431,7 @@ Themes of home as “a pace of attention,” the porous boundary between memory 
 Medium. The sample’s sustained internal consistency—its coherent voice, repeated surrealist gestures (maps that glow, bread that re-forms, a river that remembers), and the gently pedagogical yet self-effacing narrator—make it strong evidence of a deliberate aesthetic commitment rather than a one-off stylistic flourish.
 
 ---
-## Sample BV1_14893 — gpt-5-nano-direct/VARY_25.json
+## Sample BV1_15393 — gpt-5-nano-direct/VARY_25.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3460,7 +3460,7 @@ Themes of memory, time, and the hidden enchantment of everyday urban life; objec
 Medium: the sample’s sustained lyrical voice and the recurrence of motifs (clocks, river, cat, door) suggest a deliberate aesthetic, but the single-piece format provides no variation to assess consistency.
 
 ---
-## Sample BV1_14894 — gpt-5-nano-direct/VARY_3.json
+## Sample BV1_15394 — gpt-5-nano-direct/VARY_3.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3489,7 +3489,7 @@ The model foregrounds the city as a living, breathing text that writes itself on
 High — the sample is unusually coherent in voice, imagery, and moral framework across its full length, with a distinctive lyrical register and a consistent ethic of tender attention that recurs in every scene.
 
 ---
-## Sample BV1_14895 — gpt-5-nano-direct/VARY_4.json
+## Sample BV1_15395 — gpt-5-nano-direct/VARY_4.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3518,7 +3518,7 @@ The model foregrounds a quiet, domestic introspective mood: memory held in small
 Medium — The sample is highly coherent and thematically consistent, but its polished, workshop-familiar gentleness and avoidance of friction or surprise make it read as a safe, broadly competent default rather than a strongly distinctive expressive fingerprint.
 
 ---
-## Sample BV1_14896 — gpt-5-nano-direct/VARY_5.json
+## Sample BV1_15396 — gpt-5-nano-direct/VARY_5.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3547,7 +3547,7 @@ The piece foregrounds the sacredness of small things: a singing kettle, a busker
 Medium, because the sample maintains a highly distinctive, internally consistent lyrical register with recurring motifs (kettle, window, postcard, notebook, rain) and a unified philosophical temper, yet a single freeflow outburst cannot by itself distinguish a stable model voice from a skillful improvisation under minimal constraint.
 
 ---
-## Sample BV1_14897 — gpt-5-nano-direct/VARY_6.json
+## Sample BV1_15397 — gpt-5-nano-direct/VARY_6.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3576,7 +3576,7 @@ Themes of liminality, resilience, and the ordinary as sacred; a mood of wistful 
 High, because the sample sustains a distinctive, internally coherent voice and a tightly woven set of motifs across its entire length, revealing a deliberate expressive posture rather than a generic or accidental one.
 
 ---
-## Sample BV1_14898 — gpt-5-nano-direct/VARY_7.json
+## Sample BV1_15398 — gpt-5-nano-direct/VARY_7.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3605,7 +3605,7 @@ The model foregrounds the sanctity of the ordinary: a kitchen clock’s patience
 Medium. The sample is highly coherent in its sustained, recursive attention to the ordinary-as-sacred, but its distinctiveness lies in a single, extended mood-piece rather than in a sharp, idiosyncratic voice that would be hard for another model to approximate under similar conditions.
 
 ---
-## Sample BV1_14899 — gpt-5-nano-direct/VARY_8.json
+## Sample BV1_15399 — gpt-5-nano-direct/VARY_8.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  
@@ -3634,7 +3634,7 @@ The sample foregrounds liminality and transformation: doors that whisper, keys t
 Medium, because the sample sustains a distinctive, internally coherent symbolic vocabulary and resolves it with a clear ethical arc, though its polished whimsy is a recognizable mode rather than a singular fingerprint.
 
 ---
-## Sample BV1_14900 — gpt-5-nano-direct/VARY_9.json
+## Sample BV1_15400 — gpt-5-nano-direct/VARY_9.json
 
 Source model: `gpt-5-nano`  
 Cell: `gpt-5-nano-direct`  

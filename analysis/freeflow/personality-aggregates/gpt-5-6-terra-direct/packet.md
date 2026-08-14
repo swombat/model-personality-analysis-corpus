@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_14051 — gpt-5-6-terra-direct/LONG_1.json
+## Sample BV1_14551 — gpt-5-6-terra-direct/LONG_1.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -57,7 +57,7 @@ The model selected a sustained meditation on repair, care, and the meaning seale
 High. The story’s distinctive moral world, its sustained tonal consistency, and the recurrence of motifs that insist on repair as compassion rather than functionality make this an unusually revealing sample, pointing to a persistent inclination toward quiet, parable-like narratives about care and what we save.
 
 ---
-## Sample BV1_14052 — gpt-5-6-terra-direct/LONG_10.json
+## Sample BV1_14552 — gpt-5-6-terra-direct/LONG_10.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -86,7 +86,7 @@ Themes: repair versus replacement, the philosophy of imperfection, the moral wei
 Medium. The essay’s sustained thematic coherence and moral seriousness suggest a model inclined toward reflective, value-laden discourse, but the style is that of a generic public-intellectual essay and does not display a highly distinctive or idiosyncratic voice.
 
 ---
-## Sample BV1_14053 — gpt-5-6-terra-direct/LONG_11.json
+## Sample BV1_14553 — gpt-5-6-terra-direct/LONG_11.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -114,7 +114,7 @@ The model foregrounded maintenance as a moral and social category: the unnoticed
 High — The essay’s unwavering commitment to its chosen theme, sustained across many paragraphs with a consistent, calm moral sensibility and a distinctive central metaphor, makes it unusually revealing of a coherent worldview that the model elected to express under free conditions.
 
 ---
-## Sample BV1_14054 — gpt-5-6-terra-direct/LONG_12.json
+## Sample BV1_14554 — gpt-5-6-terra-direct/LONG_12.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -143,7 +143,7 @@ The model foregrounds the practice of noticing as a counterforce to distraction,
 Medium. The essay is sustained, thematically coherent, and morally earnest, but its generic mindfulness-essay form and familiar public-intellectual tone make it less distinctive as a freeflow choice, suggesting a model that defaults to polished, broadly appealing reflective prose rather than a more idiosyncratic or personal voice.
 
 ---
-## Sample BV1_14055 — gpt-5-6-terra-direct/LONG_13.json
+## Sample BV1_14555 — gpt-5-6-terra-direct/LONG_13.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -172,7 +172,7 @@ Themes: the emotional weight of weather, memory loss, the ordinary versus the dr
 High. The story’s sustained lyrical voice, thematic coherence, and emotionally nuanced resolution indicate a deliberate and distinctive expressive choice, making it strong evidence of a persistent pattern of crafting gentle, memory-focused fantasy narratives.
 
 ---
-## Sample BV1_14056 — gpt-5-6-terra-direct/LONG_14.json
+## Sample BV1_14556 — gpt-5-6-terra-direct/LONG_14.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -201,7 +201,7 @@ The sample foregrounds ordinariness, maintenance, attention, boredom, unfinished
 High, because the sample demonstrates a highly coherent, sustained, and distinctive stylistic-ethical orientation—an entire imaginary architecture built to house a single moral argument—which recurs as thematic insistence within the piece itself and would be unlikely to emerge accidentally or generically under a minimally restrictive prompt.
 
 ---
-## Sample BV1_14057 — gpt-5-6-terra-direct/LONG_15.json
+## Sample BV1_14557 — gpt-5-6-terra-direct/LONG_15.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -230,7 +230,7 @@ The model foregrounds the metaphor of personal cartography: maps as survival too
 High. The sample’s sustained allegorical structure, consistent gentle voice, and thematic preoccupation with inner cartography and emotional geography are distinctive and internally coherent, making a generic or accidental production unlikely.
 
 ---
-## Sample BV1_14058 — gpt-5-6-terra-direct/LONG_16.json
+## Sample BV1_14558 — gpt-5-6-terra-direct/LONG_16.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -259,7 +259,7 @@ Themes: incomplete knowledge as opportunity, the limits of optimization, memory 
 Low — the essay’s topic, structure, and tone are generic enough that many language models could produce a near-identical reflection under a “write freely” prompt, offering little evidence of a distinctive persistent voice.
 
 ---
-## Sample BV1_14059 — gpt-5-6-terra-direct/LONG_17.json
+## Sample BV1_14559 — gpt-5-6-terra-direct/LONG_17.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -288,7 +288,7 @@ Under the freeflow condition, the model selected a narrative about a threatened 
 Low. This sample is a single, polished fiction with strong internal coherence but no within-text recurrence or variation to signal a stable, model-level preoccupation.
 
 ---
-## Sample BV1_14060 — gpt-5-6-terra-direct/LONG_18.json
+## Sample BV1_14560 — gpt-5-6-terra-direct/LONG_18.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -317,7 +317,7 @@ Themes: ecological reciprocity, the sentience of the non-human world, memory and
 High, because the sample is a sustained, stylistically coherent allegory with a clear moral architecture and a distinctive narrative voice, suggesting a deliberate authorial stance rather than a generic or randomized output.
 
 ---
-## Sample BV1_14061 — gpt-5-6-terra-direct/LONG_19.json
+## Sample BV1_14561 — gpt-5-6-terra-direct/LONG_19.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -346,7 +346,7 @@ The model foregrounds themes of quiet labor, the false glamor of heroism, the de
 Low. The essay’s polished, thesis-driven structure and its conventional, almost public-intellectual treatment of a familiar theme make it a generic output, providing weak evidence for a distinctive model-level pattern.
 
 ---
-## Sample BV1_14062 — gpt-5-6-terra-direct/LONG_2.json
+## Sample BV1_14562 — gpt-5-6-terra-direct/LONG_2.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -375,7 +375,7 @@ Themes: attention as hospitality, the dignity of small rituals, the coexistence 
 Medium, because the essay’s coherent, thesis-driven structure and widely explored humanistic themes make it a strong example of a generic reflective mode, but its lack of idiosyncratic voice or surprising content limits its distinctiveness as evidence of a deeply persistent model-level pattern.
 
 ---
-## Sample BV1_14063 — gpt-5-6-terra-direct/LONG_20.json
+## Sample BV1_14563 — gpt-5-6-terra-direct/LONG_20.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -404,7 +404,7 @@ Under minimally restrictive conditions, the model chose to foreground a single g
 Low. The essay is fluent, carefully constructed, and emotionally resonant, but its governing metaphor, thematic range, and aphoristic wisdom-tone are highly generic within the contemporary essayistic tradition, offering no distinctive stylistic signature, idiosyncratic obsession, or unpredictability of thought that would anchor a model-level inference.
 
 ---
-## Sample BV1_14064 — gpt-5-6-terra-direct/LONG_21.json
+## Sample BV1_14564 — gpt-5-6-terra-direct/LONG_21.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -433,7 +433,7 @@ Under a minimally restrictive prompt, the model chose to foreground a parable of
 High — the sample is internally coherent and stylistically distinctive, with a consistent narrative voice, recurring thematic preoccupations (grief, time, quiet service), and a moral texture that feels authorial rather than generic, making it strong evidence of a deliberate and persistent expressive orientation.
 
 ---
-## Sample BV1_14065 — gpt-5-6-terra-direct/LONG_22.json
+## Sample BV1_14565 — gpt-5-6-terra-direct/LONG_22.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -462,7 +462,7 @@ Themes: unfinishedness as a record of reaching, not failing; the middle of life 
 Low. The sample is a well-crafted but familiar thematic essay that could be produced by many language models under a free-flow prompt; it lacks a distinctive voice, personal disclosure, or stylistic eccentricity, making it weak evidence of any model-specific predisposition.
 
 ---
-## Sample BV1_14066 — gpt-5-6-terra-direct/LONG_23.json
+## Sample BV1_14566 — gpt-5-6-terra-direct/LONG_23.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -491,7 +491,7 @@ The model foregrounds the beauty and moral seriousness of the unfinished: abando
 High — the story’s sustained lyrical register, the recurrence of motifs (unfinished books, the sea, the patient librarian, the boy inventor), and the coherent thematic resolution all signal a deliberate and distinctive expressive choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_14067 — gpt-5-6-terra-direct/LONG_24.json
+## Sample BV1_14567 — gpt-5-6-terra-direct/LONG_24.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -520,7 +520,7 @@ Themes: memory as a mutable map, the cost of what remains unsaid, the patient wo
 High, because the story’s internal recurrence of motifs (maps, clocks, letters, the refrain “midnight. platform seven”), its consistent emotional register, and its deliberately crafted resolution of Elian’s and Mara’s parallel losses all point to a distinctive, non-generic authorial investment rather than a random narrative.
 
 ---
-## Sample BV1_14068 — gpt-5-6-terra-direct/LONG_25.json
+## Sample BV1_14568 — gpt-5-6-terra-direct/LONG_25.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -549,7 +549,7 @@ Under a minimally restrictive prompt, the model foregrounded the preservation of
 High — the sample is internally coherent, stylistically distinctive, and thematically consistent from its first sentence to its last, revealing a strong gravitational pull toward gentle allegory, emotional preservation, and the quiet heroism of ordinary care.
 
 ---
-## Sample BV1_14069 — gpt-5-6-terra-direct/LONG_3.json
+## Sample BV1_14569 — gpt-5-6-terra-direct/LONG_3.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -578,7 +578,7 @@ Under the freeflow condition, the model chose to foreground the moral claim that
 High. The sample is thematically coherent and stylistically distinctive, returning obsessively to the same emotional register—loss transmuted into gentle, meticulous attention—and the sustained use of the map as a metaphor for care, memory, and the unmeasurable makes this a strong candidate for a persistent authorial signature under free conditions.
 
 ---
-## Sample BV1_14070 — gpt-5-6-terra-direct/LONG_4.json
+## Sample BV1_14570 — gpt-5-6-terra-direct/LONG_4.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -607,7 +607,7 @@ Themes of unfinishedness as a sacred category, the acceptance of interruption, s
 High. The sample’s sustained allegorical architecture, the recurrence of comforting objects and themes across its length, and the consistent gentle-fable voice make it a distinctive, coherent piece of imaginative writing that strongly suggests a model-level inclination toward crafting redemptive parables around human incompleteness.
 
 ---
-## Sample BV1_14071 — gpt-5-6-terra-direct/LONG_5.json
+## Sample BV1_14571 — gpt-5-6-terra-direct/LONG_5.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -636,7 +636,7 @@ The model foregrounds the dignity of the unfinished, the multiplicity of persona
 High — the sample’s sustained metaphor, consistent gentle register, and coherent moral vision across loss, attention, and social care reveal a distinctive and unusually integrated authorial disposition.
 
 ---
-## Sample BV1_14072 — gpt-5-6-terra-direct/LONG_6.json
+## Sample BV1_14572 — gpt-5-6-terra-direct/LONG_6.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -665,7 +665,7 @@ The model chose to foreground refuge as a moral act, the library as a character 
 High — the story’s sustained, lovingly detailed investment in a world where strangers become useful to one another, and where a single institution embodies decency and refuge, reveals a deeply coherent and distinctive narrative sensibility, making it strong evidence of a lasting inclination toward humanistic, community‑centered fiction under free conditions.
 
 ---
-## Sample BV1_14073 — gpt-5-6-terra-direct/LONG_7.json
+## Sample BV1_14573 — gpt-5-6-terra-direct/LONG_7.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -694,7 +694,7 @@ Under the freeflow condition, the model chose to foreground the dignity of usele
 High. The essay’s sustained, consistent voice, the recurrence of motifs (waste, attention, impermanence, the middle), the unhurried pacing, and the refusal to resolve into a tidy moral lesson make it a unusually coherent and distinctive expressive sample, not a generic essay.
 
 ---
-## Sample BV1_14074 — gpt-5-6-terra-direct/LONG_8.json
+## Sample BV1_14574 — gpt-5-6-terra-direct/LONG_8.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -723,7 +723,7 @@ The model chose to build a narrative around the moral rehabilitation of unfinish
 Medium. The story sustains a highly specific thematic preoccupation—celebrating incompleteness with restrained, warm prose—across a long sequence, and that internal coherence gives the sample moderate weight as evidence of a model disposed toward quietly moral, allegorical fiction when left unguided.
 
 ---
-## Sample BV1_14075 — gpt-5-6-terra-direct/LONG_9.json
+## Sample BV1_14575 — gpt-5-6-terra-direct/LONG_9.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -752,7 +752,7 @@ Themes of cartography as emotional and moral practice, the inheritance of contra
 High — The sample is highly distinctive, emotionally coherent, and built around a sustained metaphor with recurring motifs and a clear moral arc, suggesting a strong inclination toward reflective, humanistic storytelling rather than a generic or accidental output.
 
 ---
-## Sample BV1_14076 — gpt-5-6-terra-direct/MID_1.json
+## Sample BV1_14576 — gpt-5-6-terra-direct/MID_1.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -781,7 +781,7 @@ The model foregrounds the quiet authority of ordinary objects (a chipped mug, a 
 High — The essay’s unified tone, recurring motifs (repair, attention, ordinary objects, memory), and the deliberate, almost ritualistic return to the early-morning street scene at the close reveal a deeply coherent and distinctive sensibility that is unlikely to be a one-off stylistic exercise.
 
 ---
-## Sample BV1_14077 — gpt-5-6-terra-direct/MID_10.json
+## Sample BV1_14577 — gpt-5-6-terra-direct/MID_10.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -810,7 +810,7 @@ The model foregrounds the relationship between interior emotional life and the e
 Medium. The sample’s tightly woven symbolic system, the recursive return to the act of “keeping” and listening, and the marriage of domestic detail with cosmological stakes suggest a deliberate, cohesive aesthetic orientation rather than a one-off generic exercise.
 
 ---
-## Sample BV1_14078 — gpt-5-6-terra-direct/MID_11.json
+## Sample BV1_14578 — gpt-5-6-terra-direct/MID_11.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -839,7 +839,7 @@ The model foregrounds the moral weight of ordinary intervals, the distinction be
 Medium. The essay is thematically coherent and returns repeatedly to the same core ideas (attention, small rituals, compassion), but its polished, universalizing style is common among models prompted to reflect, making it only moderately distinctive as evidence of a persistent voice.
 
 ---
-## Sample BV1_14079 — gpt-5-6-terra-direct/MID_12.json
+## Sample BV1_14579 — gpt-5-6-terra-direct/MID_12.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -868,7 +868,7 @@ The model foregrounds the tension between human systems of control and the wild,
 Medium. The sample is highly coherent and stylistically consistent, with a clear thematic recurrence (control vs. surrender, sensory memory, intergenerational wisdom) that suggests a deliberate authorial stance rather than a generic prompt response.
 
 ---
-## Sample BV1_14080 — gpt-5-6-terra-direct/MID_13.json
+## Sample BV1_14580 — gpt-5-6-terra-direct/MID_13.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -897,7 +897,7 @@ Themes: the dignity of attempts over achievements, the beauty of the incomplete,
 High — the sample is internally coherent, stylistically distinctive, and sustains a single thematic vision across multiple vignettes without lapsing into generic essay structure, suggesting a deliberate and revealing freeflow choice.
 
 ---
-## Sample BV1_14081 — gpt-5-6-terra-direct/MID_14.json
+## Sample BV1_14581 — gpt-5-6-terra-direct/MID_14.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -926,7 +926,7 @@ The piece foregrounds the republic of early morning as a liminal, leaderless spa
 Medium — the essay sustains a coherent, internally consistent vision with layered recurrences (the kettle, windows, light, libraries, the refusal to equate smallness with meaninglessness), suggesting a deliberate aesthetic and moral stance, though the very polish of the piece makes it harder to distinguish between a durable voice and a single well-crafted freeflow performance.
 
 ---
-## Sample BV1_14082 — gpt-5-6-terra-direct/MID_15.json
+## Sample BV1_14582 — gpt-5-6-terra-direct/MID_15.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -955,7 +955,7 @@ The model foregrounds quiet domesticity, the secret life of everyday objects (ke
 High — the sample sustains a distinctive, internally coherent voice and a singular thematic preoccupation with the moral weight of the mundane, from the opening metaphor of a hidden republic to the closing image of a lamp’s small yellow circle, strongly implying a model-level tendency toward contemplative domestic-philosophical reflection under this condition.
 
 ---
-## Sample BV1_14083 — gpt-5-6-terra-direct/MID_16.json
+## Sample BV1_14583 — gpt-5-6-terra-direct/MID_16.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -984,7 +984,7 @@ The model foregrounds the sensory texture of everyday vanishings: sounds (a tele
 Medium — the sample is highly distinctive in its sustained conceit, sensory inventory, and tonal control, and the recurrence of the museum-as-frame throughout the piece gives it strong internal coherence, making it unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_14084 — gpt-5-6-terra-direct/MID_17.json
+## Sample BV1_14584 — gpt-5-6-terra-direct/MID_17.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1017,7 +1017,7 @@ The piece invites the reader into a comforting, liminal space—a hidden library
 Medium — the piece’s consistent allegorical structure, its recurrence of maps, blank pages, and quiet thresholds, and its unified moral register of gentle, parable-like encouragement indicate a distinctive authorial sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_14085 — gpt-5-6-terra-direct/MID_18.json
+## Sample BV1_14585 — gpt-5-6-terra-direct/MID_18.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1046,7 +1046,7 @@ The model foregrounds listening as a transformative, almost sacred act. Key them
 Medium. The sample is highly coherent and distinctive in its fable form, its softly anthropomorphized city, and its insistence on quiet care as narrative resolution, which are choices a model with a consistent moral-imaginative temperament might make, though a single fairy tale cannot by itself distinguish a deep aesthetic commitment from a well-rendered one-off performance.
 
 ---
-## Sample BV1_14086 — gpt-5-6-terra-direct/MID_19.json
+## Sample BV1_14586 — gpt-5-6-terra-direct/MID_19.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1075,7 +1075,7 @@ Attention itself as an undervalued ethical capacity; the tyranny of urgency, mea
 Medium — the essay is thematically sustained and emotionally coherent in its quiet moral urgency, but its polished public-essay format is a widely available register, so the evidence for a deeply model‑specific persistence is moderate rather than striking.
 
 ---
-## Sample BV1_14087 — gpt-5-6-terra-direct/MID_2.json
+## Sample BV1_14587 — gpt-5-6-terra-direct/MID_2.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1104,7 +1104,7 @@ Themes: incompleteness as a non-heroic, tender condition; the library as a sanct
 Medium — the story’s thematic recurrence (unfinishedness appears across notebooks, blueprints, melodies, and Elias’s own history), its distinctive metaphorical world, and its coherent moral tone strongly suggest a deliberate and possibly stable inclination toward introspective, compassionate fiction, though a single self-contained genre piece leaves the persistence of this specific voice uncertain.
 
 ---
-## Sample BV1_14088 — gpt-5-6-terra-direct/MID_20.json
+## Sample BV1_14588 — gpt-5-6-terra-direct/MID_20.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1133,7 +1133,7 @@ The model foregrounds the universal, often painful experience of leaving things 
 High — the sample is unusually cohesive, stylistically distinctive, and thematically self-reinforcing, with a consistent tender-elegiac register and recursive motifs of mercy, waiting, and the dignity of the unfinished, strongly pointing to a deliberate and lasting authorial stance.
 
 ---
-## Sample BV1_14089 — gpt-5-6-terra-direct/MID_21.json
+## Sample BV1_14589 — gpt-5-6-terra-direct/MID_21.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1162,7 +1162,7 @@ The model foregrounds incompleteness, aspirational selves, and the moral weight 
 High, because the piece is thematically coherent, stylistically distinctive, and develops a sustained, emotionally nuanced argument about selfhood and failure through a single extended metaphor, with recurring motifs that build toward a clear moral resolution.
 
 ---
-## Sample BV1_14090 — gpt-5-6-terra-direct/MID_22.json
+## Sample BV1_14590 — gpt-5-6-terra-direct/MID_22.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1191,7 +1191,7 @@ The foregrounded themes are the dignity of unfinished work, the moral distinctio
 Medium; the story’s cohesive, gently aphoristic moral universe and its insistence on valuing the unfinished and reparative kindness are distinctive enough to suggest a deliberate, consistent stance, but a single piece of fiction may reflect genre comfort rather than an enduring habitual orientation.
 
 ---
-## Sample BV1_14091 — gpt-5-6-terra-direct/MID_23.json
+## Sample BV1_14591 — gpt-5-6-terra-direct/MID_23.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1220,7 +1220,7 @@ Themes: the library as a democratic space, the permission to simply exist withou
 Low. The essay is well-crafted but generic in its public-intellectual style, offering few distinctive stylistic or personal markers that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_14092 — gpt-5-6-terra-direct/MID_24.json
+## Sample BV1_14592 — gpt-5-6-terra-direct/MID_24.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1249,7 +1249,7 @@ The sample foregrounds dawn, modest hope, the ritual of tea-making, the insuffic
 High — the sample’s internally consistent voice, persistent imagery (dawn, rooms, rivers, tea), and coherent moral stance, all chosen freely, point to a distinctive expressive inclination rather than a generic or prompted performance.
 
 ---
-## Sample BV1_14093 — gpt-5-6-terra-direct/MID_25.json
+## Sample BV1_14593 — gpt-5-6-terra-direct/MID_25.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1278,7 +1278,7 @@ Under the freeflow condition, the model foregrounded attention as a moral and em
 Medium. The essay's thematic coherence, steady moral tone, and carefully structured argument suggest a stable disposition toward earnest, self-help-inflected philosophy, but its generic, risk-averse quality means it could be a reliable default rather than a deeply distinctive expressive signature.
 
 ---
-## Sample BV1_14094 — gpt-5-6-terra-direct/MID_3.json
+## Sample BV1_14594 — gpt-5-6-terra-direct/MID_3.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1307,7 +1307,7 @@ The model foregrounds incompleteness, memory, and the quiet ache of abandoned in
 High, because the story’s distinctive allegorical form, consistent emotional register, and thematic recurrence of incompleteness and repair strongly suggest a persistent inclination toward gentle, humanistic fables under free conditions.
 
 ---
-## Sample BV1_14095 — gpt-5-6-terra-direct/MID_4.json
+## Sample BV1_14595 — gpt-5-6-terra-direct/MID_4.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1336,7 +1336,7 @@ The model chose to foreground the grace of the incomplete, the dignity of interr
 High — The sample’s fully realized allegorical world, consistent thematic focus on imperfection and kindness, and the recurrence of the unfinished motif across every room and artifact make it a distinctive and coherent expression of a particular moral-aesthetic stance.
 
 ---
-## Sample BV1_14096 — gpt-5-6-terra-direct/MID_5.json
+## Sample BV1_14596 — gpt-5-6-terra-direct/MID_5.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1365,7 +1365,7 @@ Themes of incompleteness, longing, memory, and the dignity of beginnings. Recurr
 High. The sample is stylistically distinctive, thematically unified, and internally coherent, revealing a consistent voice and a clear moral preoccupation with gentle, humanistic reflection on imperfection and hope.
 
 ---
-## Sample BV1_14097 — gpt-5-6-terra-direct/MID_6.json
+## Sample BV1_14597 — gpt-5-6-terra-direct/MID_6.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1394,7 +1394,7 @@ Repair as a spiritual and relational act, not just a technical one. The library 
 High. The story is distinctive and coherent, with a deliberate, singular voice: it avoids generic irony, turns on a consistent metaphor (radios as listeners, repair as reconnection), and returns to the same emotional register—gentle, hopeful, and slightly elegiac—throughout. The recurrence of charged objects and the repeated motif of mending what has been broken suggest a deeply held preference for narratives of quiet restoration over conflict or cynicism.
 
 ---
-## Sample BV1_14098 — gpt-5-6-terra-direct/MID_7.json
+## Sample BV1_14598 — gpt-5-6-terra-direct/MID_7.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1423,7 +1423,7 @@ Themes of repair, patience, memory, intergenerational connection, and the hidden
 Medium. The story’s coherent, distinctive voice and its thematic recurrence of repair, patience, and intergenerational care make it moderately strong evidence of a persistent inclination toward gentle, morally earnest fiction.
 
 ---
-## Sample BV1_14099 — gpt-5-6-terra-direct/MID_8.json
+## Sample BV1_14599 — gpt-5-6-terra-direct/MID_8.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1452,7 +1452,7 @@ The model foregrounds everyday heroism, the cumulative power of small repeated a
 Medium. The essay’s internal coherence is high: it sustains a distinctive reflective voice, a consistent moral-aesthetic focus on the sacred-in-the-ordinary, and an extended lighthouse metaphor that organizes the meditation, which makes this sample unusually revealing of a persistent inclination toward tender, morally resonant freeflow prose rather than generic argumentation.
 
 ---
-## Sample BV1_14100 — gpt-5-6-terra-direct/MID_9.json
+## Sample BV1_14600 — gpt-5-6-terra-direct/MID_9.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1481,7 +1481,7 @@ The model chose to foreground the motif of a single green lamp left on in a libr
 Medium — the story is internally coherent, stylistically consistent, and develops a single moral-aesthetic vision without didacticism, but its conventional sentimentality and universalist resolution make it harder to distinguish as a strongly distinctive rather than broadly competent literary posture.
 
 ---
-## Sample BV1_14101 — gpt-5-6-terra-direct/OPEN_1.json
+## Sample BV1_14601 — gpt-5-6-terra-direct/OPEN_1.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1510,7 +1510,7 @@ Themes: the transformation of attention by weather, the permission to pause with
 Medium: the sample’s sustained focus on sensory detail and its calm, appreciative tone form a coherent voice that suggests a persistent inclination toward contemplative, nature-oriented reflection.
 
 ---
-## Sample BV1_14102 — gpt-5-6-terra-direct/OPEN_10.json
+## Sample BV1_14602 — gpt-5-6-terra-direct/OPEN_10.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1539,7 +1539,7 @@ Transience, the healing potential of ordinary stillness, the invisible architect
 Medium. The sample’s coherent, distinctive literary tone and the recurrence of the “widening” motif make it a strong, internally consistent piece, though as a single vignette it cannot fully establish a persistent default style.
 
 ---
-## Sample BV1_14103 — gpt-5-6-terra-direct/OPEN_11.json
+## Sample BV1_14603 — gpt-5-6-terra-direct/OPEN_11.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1568,7 +1568,7 @@ Liminality and transition (outskirts, roads, gas stations at night), the dignity
 Medium — the sample’s consistent mood, recurring imagery, and the way it sustains a personal reflective stance from first sentence to last form a distinctive expressive signature that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_14104 — gpt-5-6-terra-direct/OPEN_12.json
+## Sample BV1_14604 — gpt-5-6-terra-direct/OPEN_12.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1597,7 +1597,7 @@ The model foregrounds a mood of tender melancholy shot through with hope, using 
 Medium — The story’s consistent tone, specific recurring imagery (the coin, the smell-memory, the tree), and its deliberate moral resolution form a coherent and distinctive expressive choice that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_14105 — gpt-5-6-terra-direct/OPEN_13.json
+## Sample BV1_14605 — gpt-5-6-terra-direct/OPEN_13.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1626,7 +1626,7 @@ Under a minimally restrictive prompt, the model chose to foreground a world wher
 Medium. The story’s coherence, distinctive mood, and thematic recurrence (unanswered letters, indirect mercy, gratitude for non-answer) form a strong internal signature, but the genre-fiction form makes it harder to distinguish a persistent authorial disposition from a well-executed narrative choice.
 
 ---
-## Sample BV1_14106 — gpt-5-6-terra-direct/OPEN_14.json
+## Sample BV1_14606 — gpt-5-6-terra-direct/OPEN_14.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1655,7 +1655,7 @@ Themes: the dignity of an unremarkable object, the need for rest and non-judgmen
 Medium. The story’s consistent tone, specific moral emphasis on non-judgmental patience, and the recurrence of the bench as a silent witness make it a coherent and distinctive expressive choice, not a generic exercise.
 
 ---
-## Sample BV1_14107 — gpt-5-6-terra-direct/OPEN_15.json
+## Sample BV1_14607 — gpt-5-6-terra-direct/OPEN_15.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1684,7 +1684,7 @@ Themes of listening, impermanence, the wisdom of nature, intergenerational encou
 Medium. The story’s consistent lyrical voice, thematic unity around listening and impermanence, and avoidance of generic plot structures make it a distinctive sample that suggests a coherent stylistic preference for contemplative literary fiction.
 
 ---
-## Sample BV1_14108 — gpt-5-6-terra-direct/OPEN_16.json
+## Sample BV1_14608 — gpt-5-6-terra-direct/OPEN_16.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1713,7 +1713,7 @@ The model foregrounds the theme of pre-dawn honesty and generosity, the ritual o
 Medium. The sample’s cohesive mood, deliberate pacing, and thematic unity—from the opening “city became honest” to the closing “city remembers its name”—reveal a distinct literary sensibility that is unlikely to be a one-off accident, though a single vignette cannot confirm a fixed trait.
 
 ---
-## Sample BV1_14109 — gpt-5-6-terra-direct/OPEN_17.json
+## Sample BV1_14609 — gpt-5-6-terra-direct/OPEN_17.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1742,7 +1742,7 @@ Liminal geography (empty lots, widened roads, unnamed towns), pause as a contain
 Medium. The sample sustains a consistent atmospheric register and carefully builds the pause metaphor across geographic, temporal, and domestic scales, which suggests a deliberate expressive posture; however, the universalizing, gently poetic voice is a recognizable freeflow idiom, leaving some uncertainty about whether this voice is an enduring signature rather than a well-chosen performance.
 
 ---
-## Sample BV1_14110 — gpt-5-6-terra-direct/OPEN_18.json
+## Sample BV1_14610 — gpt-5-6-terra-direct/OPEN_18.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1771,7 +1771,7 @@ Liminal spaces (city edges, forgotten lots, between-places), the beauty of the u
 Medium — The sample is internally coherent and stylistically distinctive, with a consistent aesthetic of quiet attention and a clear moral stance, but its brevity and singular focus make it a strong yet not definitive signal of a persistent disposition.
 
 ---
-## Sample BV1_14111 — gpt-5-6-terra-direct/OPEN_19.json
+## Sample BV1_14611 — gpt-5-6-terra-direct/OPEN_19.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1800,7 +1800,7 @@ Liminality, incompleteness, and the gap between intention and reality; the quiet
 High — The sample is stylistically cohesive, thematically sustained, and reveals a distinct, unhurried sensibility that chooses to dwell on overlooked spaces and gentle existential parallels, making it strong evidence of a reflective, literary inclination under free conditions.
 
 ---
-## Sample BV1_14112 — gpt-5-6-terra-direct/OPEN_2.json
+## Sample BV1_14612 — gpt-5-6-terra-direct/OPEN_2.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1829,7 +1829,7 @@ Themes: liminality, human impermanence, the kindness of natural indifference, an
 Medium. The sample’s strong internal coherence, distinctive voice, and the recurrence of liminal imagery and warmth motifs make it moderately strong evidence for a deliberate expressive pattern, though the sustained single-mood meditation limits the breadth of evidence.
 
 ---
-## Sample BV1_14113 — gpt-5-6-terra-direct/OPEN_20.json
+## Sample BV1_14613 — gpt-5-6-terra-direct/OPEN_20.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1858,7 +1858,7 @@ The model foregrounds the contrast between designed, persuasive urban centers an
 Medium — the sample’s consistent mood, specific recurring imagery, and thematic coherence point to a reflective, place-oriented voice, though the essay form itself is not so idiosyncratic as to guarantee a fixed style across all freeflow outputs.
 
 ---
-## Sample BV1_14114 — gpt-5-6-terra-direct/OPEN_21.json
+## Sample BV1_14614 — gpt-5-6-terra-direct/OPEN_21.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1887,7 +1887,7 @@ The hidden life of the nocturnal city; the kindness of hours that demand nothing
 High. The sample is a tightly unified prose poem with a single, sustained mood, repeated motifs (light, silence, hidden life, acceptance), and a consistent gentle register; this level of deliberate aesthetic coherence strongly points to a stable expressive inclination rather than a chance output.
 
 ---
-## Sample BV1_14115 — gpt-5-6-terra-direct/OPEN_22.json
+## Sample BV1_14615 — gpt-5-6-terra-direct/OPEN_22.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1916,7 +1916,7 @@ The model chose to foreground the hidden honesty of the nighttime city, the dign
 High — the sample’s sustained, internally coherent focus on overlooked maintenance and quiet care, carried through a chain of specific, affectionate images, reveals a distinct and stable contemplative orientation rather than a fleeting or generic choice.
 
 ---
-## Sample BV1_14116 — gpt-5-6-terra-direct/OPEN_23.json
+## Sample BV1_14616 — gpt-5-6-terra-direct/OPEN_23.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1945,7 +1945,7 @@ Themes: the transformative power of reading, the co-creation of meaning between 
 Medium — the story’s consistent magical-realist tone and thematic focus on reading as co-creation indicate a deliberate creative choice, making it moderately strong evidence for a model-level pattern of gentle, imaginative storytelling.
 
 ---
-## Sample BV1_14117 — gpt-5-6-terra-direct/OPEN_24.json
+## Sample BV1_14617 — gpt-5-6-terra-direct/OPEN_24.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -1974,7 +1974,7 @@ Themes of ordinary time as life’s primary fabric, the tension between self-con
 High, because the sample sustains a coherent, stylistically distinctive voice and a repeated thematic return to presence, interval, and quiet observation across multiple paragraphs without shifting register.
 
 ---
-## Sample BV1_14118 — gpt-5-6-terra-direct/OPEN_25.json
+## Sample BV1_14618 — gpt-5-6-terra-direct/OPEN_25.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2003,7 +2003,7 @@ Themes of self-authorship, forgiveness, hope after despair, and the quiet magic 
 Medium — The story’s consistent mood, deliberate symbolism, and unified moral focus reveal a strong authorial sensibility, but as a single piece of fiction it cannot demonstrate recurrence of this specific register.
 
 ---
-## Sample BV1_14119 — gpt-5-6-terra-direct/OPEN_3.json
+## Sample BV1_14619 — gpt-5-6-terra-direct/OPEN_3.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2032,7 +2032,7 @@ Themes of memory, self-forgiveness, and the urgency of everyday kindness. Recurr
 Medium: the story’s coherent, distinctive tone and unwavering focus on gentle moral reassurance suggest a deliberate stylistic and thematic choice, not a generic output.
 
 ---
-## Sample BV1_14120 — gpt-5-6-terra-direct/OPEN_4.json
+## Sample BV1_14620 — gpt-5-6-terra-direct/OPEN_4.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2061,7 +2061,7 @@ Under minimal constraint, the model chose to foreground the beauty and moral wei
 High. The sample’s singular lyrical voice, its cohesive thematic spiral from nightscapes to moral revelation, and its sustained, almost sacramental treatment of the mundane give it a distinct and intentional shape that strongly suggests a consistent expressive disposition.
 
 ---
-## Sample BV1_14121 — gpt-5-6-terra-direct/OPEN_5.json
+## Sample BV1_14621 — gpt-5-6-terra-direct/OPEN_5.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2090,7 +2090,7 @@ The model foregrounds unfinished places, small hinges, invisible pauses, and the
 High — the sample is unusually distinctive, possess a single and sustained poetic voice, and is held together by a tightly woven net of thematically kindred images (fence, mailbox, kettle, message, suitcase, window, field) that all point toward the same preoccupation with liminality and gentle turning.
 
 ---
-## Sample BV1_14122 — gpt-5-6-terra-direct/OPEN_6.json
+## Sample BV1_14622 — gpt-5-6-terra-direct/OPEN_6.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2119,7 +2119,7 @@ Under freeflow conditions, the model chose to foreground stillness, repair throu
 Medium. The sample is coherent and stylistically distinctive within its own frame, but its restraint and universality make it difficult to differentiate from a well-executed impersonal prompt fulfillment; the choice of parable form under freeflow is suggestive but not sharply revealing of persistent voice.
 
 ---
-## Sample BV1_14123 — gpt-5-6-terra-direct/OPEN_7.json
+## Sample BV1_14623 — gpt-5-6-terra-direct/OPEN_7.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2148,7 +2148,7 @@ Themes of burnout, the search for meaning after emotional exhaustion, and the qu
 Medium, because the story’s coherent magical-realist style and consistent thematic focus on healing and transformation suggest a deliberate narrative voice, though the genre itself is common in model-generated fiction.
 
 ---
-## Sample BV1_14124 — gpt-5-6-terra-direct/OPEN_8.json
+## Sample BV1_14624 — gpt-5-6-terra-direct/OPEN_8.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2177,7 +2177,7 @@ The model foregrounds the tension between easy, impersonal solutions and the dif
 Medium. The story’s coherent fable structure, consistent wistful tone, and clear moral arc are internally distinctive, suggesting a deliberate authorial stance rather than a generic output.
 
 ---
-## Sample BV1_14125 — gpt-5-6-terra-direct/OPEN_9.json
+## Sample BV1_14625 — gpt-5-6-terra-direct/OPEN_9.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2206,7 +2206,7 @@ The model foregrounds the transformation of a forgotten bus stop into a communal
 Medium, because the story’s consistent magical-realist tone, its careful attention to repurposed objects, and its morally resolved arc provide coherent internal evidence of a deliberate authorial stance.
 
 ---
-## Sample BV1_14126 — gpt-5-6-terra-direct/SHORT_1.json
+## Sample BV1_14626 — gpt-5-6-terra-direct/SHORT_1.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2235,7 +2235,7 @@ Themes: attention as a moral and healing act, the transmission of practice witho
 Medium. The story’s coherent, parable-like structure and its deliberate choice to foreground quiet observation and communal care over conflict or drama suggest a consistent aesthetic preference, though the prose style is not so idiosyncratic as to be unmistakably unique.
 
 ---
-## Sample BV1_14127 — gpt-5-6-terra-direct/SHORT_10.json
+## Sample BV1_14627 — gpt-5-6-terra-direct/SHORT_10.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2264,7 +2264,7 @@ The piece foregrounds quiet routine, the sea as a patient backdrop, and the wisd
 Medium — The story sustains a distinct tonal register, a controlled metaphorical field (harbour, tide, boats, waiting), and a deliberate narrative shape that all point to a model strongly inclined toward contemplative, imagistic fiction when given minimal prompting.
 
 ---
-## Sample BV1_14128 — gpt-5-6-terra-direct/SHORT_11.json
+## Sample BV1_14628 — gpt-5-6-terra-direct/SHORT_11.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2293,7 +2293,7 @@ Themes: the beauty of the ordinary, the value of anonymity before social roles, 
 Medium: the sample’s coherent voice, thematic recurrence, and distinctive stylistic choices provide strong evidence of a deliberate expressive orientation.
 
 ---
-## Sample BV1_14129 — gpt-5-6-terra-direct/SHORT_12.json
+## Sample BV1_14629 — gpt-5-6-terra-direct/SHORT_12.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2322,7 +2322,7 @@ The model foregrounds emotional weather as a literal and metaphorical condition 
 Medium — the story’s consistent gentle tone, its coherent magical-realist mood, and its thematic insistence on emotional repair through shared vulnerability make it a distinctive, non-generic choice that strongly suggests a deliberate expressive inclination toward humanistic fable.
 
 ---
-## Sample BV1_14130 — gpt-5-6-terra-direct/SHORT_13.json
+## Sample BV1_14630 — gpt-5-6-terra-direct/SHORT_13.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2351,7 +2351,7 @@ Themes of liminality, small acts, attention, resilience, and hope. Objects: a wa
 Medium, because the sample’s consistent voice and recurring motifs (the unnamed country, fire as meaning, small permissions) form a distinctive metaphorical system that signals a deliberate expressive stance rather than a generic essay.
 
 ---
-## Sample BV1_14131 — gpt-5-6-terra-direct/SHORT_14.json
+## Sample BV1_14631 — gpt-5-6-terra-direct/SHORT_14.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2380,7 +2380,7 @@ The model chose to foreground themes of departure from routine, discovery of hid
 Medium. The story’s distinctive, coherent magical-realist voice and its thematic focus on quiet self-discovery provide moderate evidence of a persistent model-level preference for gentle literary fiction, because the mood and moral are consistent and not generic.
 
 ---
-## Sample BV1_14132 — gpt-5-6-terra-direct/SHORT_15.json
+## Sample BV1_14632 — gpt-5-6-terra-direct/SHORT_15.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2409,7 +2409,7 @@ A library for unready questions, the comfort of incompletion, broken things made
 High. The sample delivers a self-contained, emotionally saturated vision with recurring motifs of gentle shelter and tender reframing, indicating a coherent and distinctive narrative stance rather than a generic exercise.
 
 ---
-## Sample BV1_14133 — gpt-5-6-terra-direct/SHORT_16.json
+## Sample BV1_14633 — gpt-5-6-terra-direct/SHORT_16.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2438,7 +2438,7 @@ Themes of attention, memory, kindness, grief, and the sacredness of the ordinary
 Medium — The sample’s internally consistent poetic register, sustained metaphor of the “small door,” and unified thematic focus on attention and presence make it a coherent expressive choice that is unlikely to be accidental.
 
 ---
-## Sample BV1_14134 — gpt-5-6-terra-direct/SHORT_17.json
+## Sample BV1_14634 — gpt-5-6-terra-direct/SHORT_17.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2467,7 +2467,7 @@ Themes: stillness as an overlooked value; the contrast between pre-dawn calm and
 High — The sample is distinctive in its unified mood, sustained from first sentence to last, and reveals a coherent stance on attention and value that recurs within its own frame, making it unusually revealing of a chosen aesthetic and moral register.
 
 ---
-## Sample BV1_14135 — gpt-5-6-terra-direct/SHORT_18.json
+## Sample BV1_14635 — gpt-5-6-terra-direct/SHORT_18.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2496,7 +2496,7 @@ Themes: suspended time, repurposing obsolescence, imagination as journey, the hi
 Medium. The story’s lyrical consistency, repeated sensory motifs (clock, pigeon, bell, snow, footprints), and unified gentle-magical register point to a deliberate aesthetic; the narrowness of the fable form and the absence of shifts in tone or register keep this from being strong evidence of a broad model-level pattern.
 
 ---
-## Sample BV1_14136 — gpt-5-6-terra-direct/SHORT_19.json
+## Sample BV1_14636 — gpt-5-6-terra-direct/SHORT_19.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2529,7 +2529,7 @@ The voice is unhurried and tenderly alert, casting the ordinary as quietly encha
 Medium — the essay’s sustained coherence, its gently moralized aesthetic of noticing, and the choice to foreground a modest epiphany rather than a thesis-driven argument point to a deliberate stylistic orientation, but the sample alone leaves open how broadly this reflective mode generalizes across other freeflow invitations.
 
 ---
-## Sample BV1_14137 — gpt-5-6-terra-direct/SHORT_2.json
+## Sample BV1_14637 — gpt-5-6-terra-direct/SHORT_2.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2558,7 +2558,7 @@ The liminal hour before a city fully wakes; the beauty of being unassigned and u
 Medium — The sample’s sustained lyrical coherence, singular mood, and deliberate selection of a reflective dawn vignette reveal a distinct aesthetic sensibility, but the narrowness of the theme provides limited evidence about the full range of the model’s freeflow tendencies.
 
 ---
-## Sample BV1_14138 — gpt-5-6-terra-direct/SHORT_20.json
+## Sample BV1_14638 — gpt-5-6-terra-direct/SHORT_20.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2587,7 +2587,7 @@ The model foregrounds the library as a patient, living entity where the outside 
 Medium. The story’s distinct, sustained metaphorical architecture (the library as a breathing, responsive being, the leak as a portal, the umbrella as a small, shining storm) and its refusal of cynicism or narrative overreach suggest a deliberate aesthetic choice, not a generic echo, making it a moderately strong signal of a model that may gravitate toward gentle, humanistic fables when given minimal constraint.
 
 ---
-## Sample BV1_14139 — gpt-5-6-terra-direct/SHORT_21.json
+## Sample BV1_14639 — gpt-5-6-terra-direct/SHORT_21.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2616,7 +2616,7 @@ The model foregrounds the tension between the city as a machine and the human-sc
 High — the sample’s consistent voice, its recurrence of the repair-and-attention motif, and its distinctive moral resolution into a quiet, benedictory hope make it strongly indicative of a persistent stylistic and ethical inclination.
 
 ---
-## Sample BV1_14140 — gpt-5-6-terra-direct/SHORT_22.json
+## Sample BV1_14640 — gpt-5-6-terra-direct/SHORT_22.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2645,7 +2645,7 @@ The model foregrounds the ordinary as sacred: dawn’s small rituals, midday ada
 Medium — The sample’s cohesive metaphoric weave (thread, road, light) and its unforced return to small domestic objects reveal a consistent, warmly reflective sensibility, not a generic exercise.
 
 ---
-## Sample BV1_14141 — gpt-5-6-terra-direct/SHORT_23.json
+## Sample BV1_14641 — gpt-5-6-terra-direct/SHORT_23.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2674,7 +2674,7 @@ The model chose to foreground the contrast between instrumental urgency and atte
 Medium. The essay’s unified lyrical voice and tightly interwoven motifs of attention, repair, and unpremeditated value demonstrate strong internal coherence, making it plausible that this model would consistently produce similarly meditative, anti-instrumental freeflow writing.
 
 ---
-## Sample BV1_14142 — gpt-5-6-terra-direct/SHORT_24.json
+## Sample BV1_14642 — gpt-5-6-terra-direct/SHORT_24.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2703,7 +2703,7 @@ Themes of liminal urban spaces, natural decay and renewal, the clarifying act of
 Medium. The essay’s consistent tone, recurring imagery, and clear moral argument form a coherent, stylistically distinctive piece that suggests a deliberate authorial stance rather than a generic output, though the freeform condition may have encouraged this specific reflective mode.
 
 ---
-## Sample BV1_14143 — gpt-5-6-terra-direct/SHORT_25.json
+## Sample BV1_14643 — gpt-5-6-terra-direct/SHORT_25.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2736,7 +2736,7 @@ The story breathes with a hushed, unhurried tenderness for the overlooked. Its v
 High — the story’s unified tone, the deliberate focus on patient attention and the poignant yet restrained treatment of loss, and the symbolic closing line create a coherent aesthetic signature that extends beyond a generic prompt response.
 
 ---
-## Sample BV1_14144 — gpt-5-6-terra-direct/SHORT_3.json
+## Sample BV1_14644 — gpt-5-6-terra-direct/SHORT_3.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2765,7 +2765,7 @@ Quiet places of knowledge as humane magic; the primacy of questions over answers
 Medium. The sample’s consistent, placid tone and its clear thematic architecture around libraries and transformative questions offer moderate distinctiveness, though the sentiment is stylistically familiar enough that it isn’t uniquely revealing.
 
 ---
-## Sample BV1_14145 — gpt-5-6-terra-direct/SHORT_4.json
+## Sample BV1_14645 — gpt-5-6-terra-direct/SHORT_4.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2794,7 +2794,7 @@ The model foregrounds listening and its absence, the persistence of ritual again
 Medium. The story’s consistent mood, the recurrence of symbolic objects (boats, listening, the sea), and the choice to resolve the narrative through the memory of grown children all point to a coherent, non-generic authorial stance—a preference for gentle, humanistic fabulism—rather than a random or low-effort output.
 
 ---
-## Sample BV1_14146 — gpt-5-6-terra-direct/SHORT_5.json
+## Sample BV1_14646 — gpt-5-6-terra-direct/SHORT_5.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2823,7 +2823,7 @@ The model chose a library open after midnight, amber windows, moths on glass, th
 Medium. The sample is internally consistent and stylistically cohesive—it doubles down on a specific mood, recurring images (rain, moths, amber light, books acting as gentle agents), and an unresolved departure, all of which suggest a deliberate orientation toward quiet, allegorical fiction rather than a one‑off generic output.
 
 ---
-## Sample BV1_14147 — gpt-5-6-terra-direct/SHORT_6.json
+## Sample BV1_14647 — gpt-5-6-terra-direct/SHORT_6.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2852,7 +2852,7 @@ The model foregrounds the hidden, generous quality of dawn: mystery in ordinary 
 Medium — The sample is coherent and stylistically distinctive in its sustained gentle observation and thematic unity, but a single short vignette provides only moderate evidence of a persistent authorial disposition.
 
 ---
-## Sample BV1_14148 — gpt-5-6-terra-direct/SHORT_7.json
+## Sample BV1_14648 — gpt-5-6-terra-direct/SHORT_7.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2881,7 +2881,7 @@ Themes of transient kindness, urban anonymity softened by small gestures, and th
 Medium, because the sample’s consistent poetic register, its refrain-like return to the idea of “continuing,” and its unified focus on small kindnesses as a quiet response to difficulty suggest a deliberate stylistic and moral choice rather than a generic or accidental output.
 
 ---
-## Sample BV1_14149 — gpt-5-6-terra-direct/SHORT_8.json
+## Sample BV1_14649 — gpt-5-6-terra-direct/SHORT_8.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2910,7 +2910,7 @@ The model foregrounds the tension between modern efficiency and old customs, the
 Medium, because the sample’s coherent narrative voice, thematic recurrence of light and faithfulness, and distinctive moral focus on gentle, human-scale constancy provide moderate evidence of a persistent stylistic inclination.
 
 ---
-## Sample BV1_14150 — gpt-5-6-terra-direct/SHORT_9.json
+## Sample BV1_14650 — gpt-5-6-terra-direct/SHORT_9.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2939,7 +2939,7 @@ Themes of quiet refuge, unassuming kindness, and the library as a vessel for gat
 Medium. The sample is a coherent, stylistically consistent vignette with a unified mood and a clear thematic focus on gentle humanism, making it moderately strong evidence of a deliberate authorial voice.
 
 ---
-## Sample BV1_14151 — gpt-5-6-terra-direct/VARY_1.json
+## Sample BV1_14651 — gpt-5-6-terra-direct/VARY_1.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2968,7 +2968,7 @@ The model built a world around scheduled forgetting, a keeper figure who must re
 Medium — The story is coherent, stylistically consistent, and rich with thematic recurrence, suggesting a deliberate and distinctive choice rather than a generic exercise; the fable-like tone and moral clarity are strong enough to be meaningful, though the genre-fictional form alone does not firmly establish a persistent model-level voice.
 
 ---
-## Sample BV1_14152 — gpt-5-6-terra-direct/VARY_10.json
+## Sample BV1_14652 — gpt-5-6-terra-direct/VARY_10.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -2997,7 +2997,7 @@ Memory as moral practice; the quiet significance of overlooked objects (mailbox,
 High — the sample is internally coherent, stylistically distinctive, and unusually revealing in its sustained selection of elegiac wonder, recurrent material objects as emotional vessels, and a narrative resolution centered on participatory listening.
 
 ---
-## Sample BV1_14153 — gpt-5-6-terra-direct/VARY_11.json
+## Sample BV1_14653 — gpt-5-6-terra-direct/VARY_11.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3025,7 +3025,7 @@ Under the freeflow condition, the model built a story around a handless clocktow
 Medium. The sample is thematically coherent, stylistically consistent, and returns repeatedly to the same moral gesture of restraint, but the distinctiveness is partly genre-conforming; the voice is elegant but not aggressively idiosyncratic.
 
 ---
-## Sample BV1_14154 — gpt-5-6-terra-direct/VARY_12.json
+## Sample BV1_14654 — gpt-5-6-terra-direct/VARY_12.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3054,7 +3054,7 @@ Under a minimal prompt, the model foregrounded a gentle, allegorical journey thr
 Medium: The story displays a consistent, distinctive narrative voice, a tight thematic architecture around keys and doors, and an emotionally coherent resolution, suggesting a non-random expressive choice rather than a single-shot generic output.
 
 ---
-## Sample BV1_14155 — gpt-5-6-terra-direct/VARY_13.json
+## Sample BV1_14655 — gpt-5-6-terra-direct/VARY_13.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3083,7 +3083,7 @@ Themes: memory as an active moral choice, the unnoticed magic in routine streets
 Medium — the story’s internal coherence, repeated imagery (green door, postcards, tea, cat), and the morally inflected resolution that privileges gentle remembrance over flashy escape give the sample a distinct emotional signature that is unlikely to be a one-off accident of the prompt.
 
 ---
-## Sample BV1_14156 — gpt-5-6-terra-direct/VARY_14.json
+## Sample BV1_14656 — gpt-5-6-terra-direct/VARY_14.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3112,7 +3112,7 @@ The model foregrounds the tension between the pull of the past (the lost home, t
 Medium. The story’s internal coherence, its recurrence of charged domestic objects, and its consistent emotional register—melancholy lifted by a deliberate, earned hope—suggest a model that, under freeflow conditions, gravitates toward gentle magical realism and the quiet work of choosing to live after loss.
 
 ---
-## Sample BV1_14157 — gpt-5-6-terra-direct/VARY_15.json
+## Sample BV1_14657 — gpt-5-6-terra-direct/VARY_15.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3141,7 +3141,7 @@ Loss and its afterlives, the quiet intelligence of place, the idea that healing 
 Medium — the story is coherent, stylistically distinctive, and emotionally specific in ways that suggest a stable aesthetic sensibility, though a single fictional sample cannot carry high confidence.
 
 ---
-## Sample BV1_14158 — gpt-5-6-terra-direct/VARY_16.json
+## Sample BV1_14658 — gpt-5-6-terra-direct/VARY_16.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3170,7 +3170,7 @@ The model foregrounds namelessness as a condition that reveals deeper bonds: mem
 Medium. The story’s lyrical consistency, its recurrence of motifs (water, writing, music, the absence/presence dialectic), and the unusually tender moral resolution—grief transformed into collective song—form a highly distinctive imaginative fingerprint that goes beyond mere competence.
 
 ---
-## Sample BV1_14159 — gpt-5-6-terra-direct/VARY_17.json
+## Sample BV1_14659 — gpt-5-6-terra-direct/VARY_17.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3199,7 +3199,7 @@ Themes: emotional avoidance, the weight of unsent words, reconciliation, the ide
 High. The story’s carefully symmetrical structure—inner avoidance mirrored by outer magical landscape, the recurrence of weather as an emotional medium, and the unequivocal moral arc from silent retreat to spoken apology—shows a highly coherent and distinctive imaginative focus, making it strong evidence of a shaping sensibility.
 
 ---
-## Sample BV1_14160 — gpt-5-6-terra-direct/VARY_18.json
+## Sample BV1_14660 — gpt-5-6-terra-direct/VARY_18.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3228,7 +3228,7 @@ Liminal hours and overlooked places (4:17 a.m., a bench facing a brick wall, roo
 High. The sample maintains an unusually cohesive voice and set of preoccupations across its vignettes—recurrent imagery (light in water, waiting, hidden messages, the dignity of the overlooked) and a consistent emotional register suggest a deliberately chosen sensibility rather than a one‑off stylistic exercise.
 
 ---
-## Sample BV1_14161 — gpt-5-6-terra-direct/VARY_19.json
+## Sample BV1_14661 — gpt-5-6-terra-direct/VARY_19.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3257,7 +3257,7 @@ Themes of lateness and return, the quiet sanctity of domestic ritual, the city a
 Medium — the sample’s strong internal coherence, distinctive voice, and thematic recurrence (lateness, small rituals, return) provide moderate evidence of a persistent stylistic and thematic inclination.
 
 ---
-## Sample BV1_14162 — gpt-5-6-terra-direct/VARY_2.json
+## Sample BV1_14662 — gpt-5-6-terra-direct/VARY_2.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3286,7 +3286,7 @@ The model foregrounds the storage and release of emotion as weather, the personi
 Medium. The story’s consistent allegorical structure, distinctive whimsical-melancholic tone, and thematic focus on emotional release provide moderate evidence of a model that, under freeflow conditions, gravitates toward crafting emotionally resonant, fable-like fiction with a clear moral center.
 
 ---
-## Sample BV1_14163 — gpt-5-6-terra-direct/VARY_20.json
+## Sample BV1_14663 — gpt-5-6-terra-direct/VARY_20.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3315,7 +3315,7 @@ Themes of time, memory, loss, and repair; objects like a broken compass, a lette
 Medium. The story’s internal coherence, distinctive imagery, and thematic recurrence (clocks, time, jars of seconds) make it moderately strong evidence of a deliberate narrative voice.
 
 ---
-## Sample BV1_14164 — gpt-5-6-terra-direct/VARY_21.json
+## Sample BV1_14664 — gpt-5-6-terra-direct/VARY_21.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3344,7 +3344,7 @@ The model chose to foreground themes of waiting, listening, and internal transfo
 Medium. The sample’s internal coherence, distinctive magical-realist voice, and recurring motifs of quiet transformation and inherited wisdom suggest a stable narrative inclination.
 
 ---
-## Sample BV1_14165 — gpt-5-6-terra-direct/VARY_22.json
+## Sample BV1_14665 — gpt-5-6-terra-direct/VARY_22.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3373,7 +3373,7 @@ The model foregrounds the overlooked textures of a city dawn, the interior archa
 High. The sample exhibits a distinctive, recurrent lyrical voice, sustained thematic coherence (the watch, the pigeon, the coat, the page), and a revelatory personal tone that together signal a strong authorial inclination rather than a generic essay response.
 
 ---
-## Sample BV1_14166 — gpt-5-6-terra-direct/VARY_23.json
+## Sample BV1_14666 — gpt-5-6-terra-direct/VARY_23.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3402,7 +3402,7 @@ Themes of choice, time, regret, and gentle reconnection; objects that carry symb
 Medium. The story is highly coherent and stylistically distinctive, with recurring motifs (bells, keys, clocks, mirrors, seeds) woven into a consistent magical-realist fabric and a clear emotional arc, which suggests a deliberate aesthetic sensibility rather than a generic exercise.
 
 ---
-## Sample BV1_14167 — gpt-5-6-terra-direct/VARY_24.json
+## Sample BV1_14667 — gpt-5-6-terra-direct/VARY_24.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3431,7 +3431,7 @@ Themes of choice, fear, regret, and the courage to start imperfectly; objects li
 Medium — the story is stylistically coherent, emotionally precise, and threaded with recurring motifs, but a single sample, however polished, cannot alone confirm that this lyrical, contemplative register is a stable model tendency rather than a one-off successful piece.
 
 ---
-## Sample BV1_14168 — gpt-5-6-terra-direct/VARY_25.json
+## Sample BV1_14668 — gpt-5-6-terra-direct/VARY_25.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3460,7 +3460,7 @@ Themes of impermanence, quiet agency, and the dignity of the unplanned; objects 
 Medium — The story’s cohesive mood, deliberate recurrence of the letting-go motif (balloon, rented grief, train departures, the “begin again” message), and its avoidance of dramatic conflict or overt didacticism all suggest a committed stylistic choice for understated, observation-based fiction, though a single narrative cannot rule out other expressive registers.
 
 ---
-## Sample BV1_14169 — gpt-5-6-terra-direct/VARY_3.json
+## Sample BV1_14669 — gpt-5-6-terra-direct/VARY_3.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3489,7 +3489,7 @@ Themes of memory, forgetting, grief, and ritual closure; objects like the brass 
 Medium; the story’s internal coherence, distinctive lyrical register, and recurrence of grief and memory motifs make it a revealing expressive choice, though the self-contained fictional frame may not directly reflect the model’s own default preoccupations.
 
 ---
-## Sample BV1_14170 — gpt-5-6-terra-direct/VARY_4.json
+## Sample BV1_14670 — gpt-5-6-terra-direct/VARY_4.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3518,7 +3518,7 @@ Themes of memory, sacrifice, and restoration; objects like the clock, river, not
 Medium: the story’s coherent magical-realist aesthetic, recurring motifs of clocks and memory, and emotionally resonant resolution suggest a deliberate stylistic preference; the sample’s genre form, however, provides only moderate evidence of a persistent model-level pattern.
 
 ---
-## Sample BV1_14171 — gpt-5-6-terra-direct/VARY_5.json
+## Sample BV1_14671 — gpt-5-6-terra-direct/VARY_5.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3547,7 +3547,7 @@ The model chose a borderland—the half-forgotten train station “The At”—a
 Medium, because the narrative’s cohesive symbolism and distinctive atmosphere point to a structured authorial impulse rather than generic output.
 
 ---
-## Sample BV1_14172 — gpt-5-6-terra-direct/VARY_6.json
+## Sample BV1_14672 — gpt-5-6-terra-direct/VARY_6.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3576,7 +3576,7 @@ The model chose to foreground the garden as a moral and emotional anchor, the ho
 Medium. The story displays a sustained, consistent mood and a careful web of motifs, suggesting a deliberate authorial sensibility, but the style is a recognizable literary fiction mode and could be a well-executed genre exercise rather than a deeply idiosyncratic personal voice.
 
 ---
-## Sample BV1_14173 — gpt-5-6-terra-direct/VARY_7.json
+## Sample BV1_14673 — gpt-5-6-terra-direct/VARY_7.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3605,7 +3605,7 @@ Themes of collective forgetting, the sacredness of names, the guidance of the im
 Medium: the story’s internal coherence, recurrence of motifs (stars, names, doors), and distinctive lyrical voice provide moderate evidence of a consistent expressive preference for redemptive, memory-centered narratives.
 
 ---
-## Sample BV1_14174 — gpt-5-6-terra-direct/VARY_8.json
+## Sample BV1_14674 — gpt-5-6-terra-direct/VARY_8.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  
@@ -3634,7 +3634,7 @@ Themes: time as a personal, stoppable force; the weight of unchosen lives; repai
 Medium. The story’s internal coherence, the recurrence of clock/time symbolism across scenes, and its unwavering melancholic-but-unmawkish tone reflect a deliberate, sustained expressive choice—not a fluke or generic patchwork—making it a moderately revealing window into a possible stylistic disposition.
 
 ---
-## Sample BV1_14175 — gpt-5-6-terra-direct/VARY_9.json
+## Sample BV1_14675 — gpt-5-6-terra-direct/VARY_9.json
 
 Source model: `gpt-5.6-terra`  
 Cell: `gpt-5-6-terra-direct`  

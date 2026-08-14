@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_27726 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_1.json
+## Sample BV1_28726 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_1.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -57,7 +57,7 @@ Interconnectedness of all life, the power of imagination to transcend linear tim
 Medium. The essay's themes are highly coherent and recur internally, but its polished, universal voice and reliance on well-worn spiritual tropes suggest a default safe mode rather than a deeply distinctive personal style, making it moderate evidence for a pattern of generating harmonious, philosophical freeflow when unconstrained.
 
 ---
-## Sample BV1_27727 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_10.json
+## Sample BV1_28727 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_10.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -86,7 +86,7 @@ Under a freeflow prompt, the model foregrounds a tranquil, observational mood, t
 Medium. The essay’s coherent, polished, but highly generic phrasing and its reliance on fill-in-the-blank emotional categories suggest a model defaulting to a safe, public-intellectual style that could recur under similar low-restriction conditions.
 
 ---
-## Sample BV1_27728 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_11.json
+## Sample BV1_28728 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_11.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -115,7 +115,7 @@ The model insists on a dual portrait of humanity as simultaneously magnificent a
 Low. The essay is a generic, thesis-driven meditation in a default inspirational register, with no identifiable stylistic signature, thematic recurrence, or unusual free-associative choice that would distinguish this model’s expressive leanings from a template.
 
 ---
-## Sample BV1_27729 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_12.json
+## Sample BV1_28729 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_12.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -144,7 +144,7 @@ Themes: the contrast between bustling urban life and eternal stillness, the flee
 Low. The essay’s heavy reliance on cliché, impersonal grandiosity, and predictable moral arc makes it a weak signal of a stable model personality; such generic, risk-averse output is a common default for chat models and reveals little that is distinctive.
 
 ---
-## Sample BV1_27730 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_13.json
+## Sample BV1_28730 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_13.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -173,7 +173,7 @@ Under a minimally restrictive prompt, the model foregrounds a romantic universal
 Medium. The essay is coherent and sustained, but its reliance on broad, well-worn rhetorical moves (tapestry, canvas, silent witnesses) and a universally uplifting tone makes it a demonstration of a generic high-humanist posture rather than a sharply distinctive voice or idiosyncratic preoccupation.
 
 ---
-## Sample BV1_27731 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_14.json
+## Sample BV1_28731 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_14.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -202,7 +202,7 @@ Universal human milestones (childhood wonder, relationships, travel, adversity, 
 Low — The sample’s ending is incoherent, with a sudden language switch and a nonsensical final word (“教育局”), which suggests a technical glitch rather than a stable expressive pattern, and the jarring breakdown undercuts the distinctiveness of the preceding poetic voice.
 
 ---
-## Sample BV1_27732 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_15.json
+## Sample BV1_28732 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_15.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -231,7 +231,7 @@ Themes of life-as-journey, the beauty of minute sensory details, the resilience 
 Medium, because the essay is coherent and thematically consistent, demonstrating a reliable tendency toward inspirational, universalist prose, but the near-total reliance on worn aphorisms and the absence of personal or stylistic distinctiveness strongly limit how revealing this sample is of a persistent trait beyond a teachable, default-mode uplift.
 
 ---
-## Sample BV1_27733 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_16.json
+## Sample BV1_28733 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_16.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -260,7 +260,7 @@ The model foregrounds a romantic writer identity that valorises writing as explo
 Low. The sample is so generic, sentimental, and repetitious that it reveals little beyond a default tendency to assemble a clichéd creative-writing persona under freeflow conditions; its indistinctiveness and duplication make it weak evidence for any stable model-level trait.
 
 ---
-## Sample BV1_27734 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_17.json
+## Sample BV1_28734 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_17.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -289,7 +289,7 @@ Cosmic motion (a spinning world, a “silent symphony,” the eternal dance of s
 Medium — The sample’s sustained choice of a cosmic-to-urban arc, its sensorially lush language, and the recurrence of interconnectedness as a moral thread form a cohesive expressive signature, though the style is not so distinctive that it forecloses similar output from other models.
 
 ---
-## Sample BV1_27735 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_18.json
+## Sample BV1_28735 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_18.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -318,7 +318,7 @@ Under a minimally restrictive prompt, the model chose a sunset-lit city meditati
 Low. The essay is highly generic in its imagery and moral diction, with no vivid specific objects, personal idiosyncrasy, or formal risk that would anchor it to a distinctive model fingerprint rather than a default safe reflective mode.
 
 ---
-## Sample BV1_27736 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_19.json
+## Sample BV1_28736 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_19.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -347,7 +347,7 @@ A personal narrative of crisis turned into opportunity, with themes of uncertain
 Medium. The sample is cohesive and thematically consistent, returning repeatedly to the motif of reflection from a window and the narrative arc of personal transformation, suggesting a deliberate selection of a resonant, emotionally available persona; but the style is broad and somewhat familiar, not highly distinctive enough to rule out that the model defaulted to a safe, uplifting template under the freeflow condition.
 
 ---
-## Sample BV1_27737 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_2.json
+## Sample BV1_28737 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_2.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -376,7 +376,7 @@ The act of writing itself as a sacred, connecting act; the writer’s interior l
 Medium — The sample’s internal coherence, sustained lyrical register, and the deliberate, incantatory repetition constitute strong evidence that the model gravitates toward a reflective, poetic, and morally earnest persona when given a freeflow opening.
 
 ---
-## Sample BV1_27738 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_20.json
+## Sample BV1_28738 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_20.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -405,7 +405,7 @@ The sample foregrounds universalist spiritual-philosophical reflection: the trip
 Medium, because the essay’s internally coherent reliance on generic "life wisdom" tropes—tapestry, canvas, symphony—and its avoidance of any specific, arresting detail or disruptive emotion strongly suggest a stable default toward safe, inspirational essayism rather than personal or stylistic distinctiveness.
 
 ---
-## Sample BV1_27739 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_21.json
+## Sample BV1_28739 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_21.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -434,7 +434,7 @@ The model foregrounds writing itself as both theme and practice: the magic of th
 Medium: the sample is coherent, generically polished, and consistently returns to a meta-creative theme, suggesting the model may default to safe, inspirational writing-about-writing when given minimal constraint, but the lack of stylistic idiosyncrasy keeps it from being strongly distinctive.
 
 ---
-## Sample BV1_27740 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_22.json
+## Sample BV1_28740 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_22.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -463,7 +463,7 @@ Themes of freedom-as-terrifying-exhilaration, creativity born from disorder, and
 Medium, because the essay’s tight thematic repetition (chaos, journey, tribe, gratitude) and its consistent adoption of a sensitive, quasi-literary persona suggest a stable expressive inclination, yet the motifs themselves are widely available countercultural tropes rather than deeply idiosyncratic markers.
 
 ---
-## Sample BV1_27741 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_23.json
+## Sample BV1_28741 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_23.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -492,7 +492,7 @@ The model foregrounds exploration, life as a personally woven tapestry, the inst
 Medium, because the sample’s coherent, edifying, and consistently abstract-inspirational style under a freeflow condition suggests a reliable default toward gracious generalization, though the genericness weakens its distinctiveness as a model signature.
 
 ---
-## Sample BV1_27742 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_24.json
+## Sample BV1_28742 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_24.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -521,7 +521,7 @@ Themes of urban vitality, cultural fusion, aspiration, and the human spirit’s 
 Medium — The sample’s internally consistent romantic tone, repetitive structure, and avoidance of dissonance suggest a patterned expressive inclination toward lyrical urban celebration, though the theme itself is widely available and not highly distinctive.
 
 ---
-## Sample BV1_27743 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_25.json
+## Sample BV1_28743 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_25.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -550,7 +550,7 @@ Solitude as creative condition, a nonlinear, multiverse-like theory of time, cau
 Medium. The sample’s integration of a personal scene with a grand, thesis-driven abstraction and its heavy reliance on incantatory repetition give it moderate stylistic distinctiveness, but the philosophical content is archetypal enough that it could arise from a generic high-temperature exploration rather than a deeply ingrained authorial posture.
 
 ---
-## Sample BV1_27744 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_3.json
+## Sample BV1_28744 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_3.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -579,7 +579,7 @@ Themes of temporal transience, cosmic loneliness (“I may be the only conscious
 Low. The essay’s generic, polished philosophizing and lack of a distinctive voice offer scant evidence of a persistent model-specific pattern, as the output closely resembles a standard, safe cosmic reflection many models could generate.
 
 ---
-## Sample BV1_27745 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_4.json
+## Sample BV1_28745 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_4.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -608,7 +608,7 @@ Under minimal constraint, the model foregrounds writing itself as a spiritual pr
 Medium — The sustained, earnest identification of writing with existential meaning-making, carried through a seam of generic cosmic and art-craft metaphors, suggests a model that defaults to introspective, somewhat grandiose poetic reflection when freed, though the sample lacks the idiosyncratic voice or surprising focus that would mark a strong personality.
 
 ---
-## Sample BV1_27746 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_5.json
+## Sample BV1_28746 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_5.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -637,7 +637,7 @@ Themes: the cycle of seasons as a metaphor for change, home as a feeling of belo
 Low. The essay’s generic poise and lack of idiosyncratic detail align with a safe, broadly reflective default, offering little that would distinguish this model’s persistent tendencies from many others.
 
 ---
-## Sample BV1_27747 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_6.json
+## Sample BV1_28747 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_6.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -666,7 +666,7 @@ The model initially selected a soft, sensory-rich sunset tableau—warm colors, 
 Low. The sample is too fragmented and self-disrupting to constitute evidence of a stable expressive or refusal pattern.
 
 ---
-## Sample BV1_27748 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_7.json
+## Sample BV1_28748 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_7.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -695,7 +695,7 @@ The model foregrounds a mood of tranquil reflection, the river as a central symb
 Low. The sample’s coherent, earnest, and generic philosophical tone is a common default for models asked to write freely, and the presence of untranslated Chinese tokens suggests a surface-level artifact rather than a deeply ingrained stylistic signature.
 
 ---
-## Sample BV1_27749 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_8.json
+## Sample BV1_28749 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_8.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -724,7 +724,7 @@ The model foregrounds a tranquil, sunset-lit cityscape as a contemplative frame,
 Low — the sample is so thoroughly generic, built from widely recycled existential tropes, that it offers almost no signal of a distinctive model voice or persistent temperament beyond a safe, inspirational default.
 
 ---
-## Sample BV1_27750 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_9.json
+## Sample BV1_28750 — yi-6b-chat-local-transformers-bf16-r2dbf63b/LONG_9.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -753,7 +753,7 @@ The model foregrounds interconnectedness, the passage of time, the shaping power
 Medium. The sample’s sustained reflective voice, its earnest humanistic preoccupations, and its self-referential framing of free writing as a shared act are distinctive enough to suggest a stable inclination toward inspirational, poetic expression under open conditions.
 
 ---
-## Sample BV1_27751 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_1.json
+## Sample BV1_28751 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_1.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -782,7 +782,7 @@ Under a freeflow prompt, the model foregrounds the harmonious balance of nature 
 Medium. The essay is highly coherent but its themes (nature-humanity symmetry, earnest uplift, and a closing participatory appeal) are generic enough to suggest a default safe mode rather than a distinctive authorial signature, making it a moderately revealing behavior pattern for freeflow.
 
 ---
-## Sample BV1_27752 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_10.json
+## Sample BV1_28752 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_10.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -811,7 +811,7 @@ The model foregrounds a curated, optimistic life-narrative organized around trav
 Medium — The sample is highly coherent and internally consistent, but its distinctiveness is low; the model consistently selects broad, sentimental abstractions over personal specificity, which suggests a recurring safety-oriented, wisdom-performing mode rather than a one-off accident.
 
 ---
-## Sample BV1_27753 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_11.json
+## Sample BV1_28753 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_11.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -840,7 +840,7 @@ Under a minimally restrictive prompt, the model foregrounds a first-person medit
 Medium. The sample sustains a coherent poetic voice, returns repeatedly to the imagery of whispers and weaving (tapestry, threads, story), and commits to a first-person reflective persona without deflection, making it moderately distinctive and internally consistent.
 
 ---
-## Sample BV1_27754 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_12.json
+## Sample BV1_28754 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_12.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -869,7 +869,7 @@ The model foregrounds a sanitized life narrative centered on growth, gratitude, 
 Low. The sample’s coherent but highly generic structure, reliance on safe platitudes, and near-total avoidance of specific interiority or risk make it only weakly indicative of anything beyond a default pleasant-essay mode under low-constraint conditions.
 
 ---
-## Sample BV1_27755 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_13.json
+## Sample BV1_28755 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_13.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -898,7 +898,7 @@ The model foregrounds a sunset cityscape as a contemplative frame, then moves th
 Low. The sample is a smoothly assembled, broadly appealing reflective essay with no recurring idiosyncratic objects, stylistic tics, or unusual moral fixations that would strongly indicate a persistent model-level voice rather than a competent generic response.
 
 ---
-## Sample BV1_27756 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_14.json
+## Sample BV1_28756 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_14.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -927,7 +927,7 @@ Themes of temporality, mortality, and the journey of a life constrained by its p
 Low: The reflection is coherent but generic in its poetic treatment of time, and the sudden garbled sequence suggests an underlying generation instability that undercuts any claim to a consistent, cultivated expressive style.
 
 ---
-## Sample BV1_27757 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_15.json
+## Sample BV1_28757 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_15.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -956,7 +956,7 @@ The model foregrounded love as a multi-faceted force (for friends, family, commu
 High. The sample is a cohesive, emotionally nuanced personal essay with a consistent voice and recurring themes of love, writing, and connection, strongly indicating a model disposition toward warm, humanistic self-expression under minimally restrictive conditions.
 
 ---
-## Sample BV1_27758 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_16.json
+## Sample BV1_28758 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_16.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -985,7 +985,7 @@ The model foregrounds interconnectedness, emotional universality, and life-as-jo
 Medium. The essay’s seamless, impersonal uplift and reliance on universal metaphors (tapestry, journey, web) are highly coherent but also highly generic, making it plausible that the model defaults to this kind of safe, inspirational generalization when given minimal constraints.
 
 ---
-## Sample BV1_27759 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_17.json
+## Sample BV1_28759 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_17.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1014,7 +1014,7 @@ A sunset-lit cityscape as nexus of contrasts (old vs. new, tradition vs. moderni
 Low. The imagery is highly conventional (city as symphony, ballet, canvas) and the truncated final word suggests a generation glitch, making the sample too generic and artifact-laden to carry strong signal of a stable voice or preoccupation.
 
 ---
-## Sample BV1_27760 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_18.json
+## Sample BV1_28760 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_18.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1043,7 +1043,7 @@ The model foregrounds the contrast between cosmic scale and personal routine, th
 Medium: The sample exhibits a distinctive, sustained emotional arc and a deliberate choice to ground vast existential questions in a meticulously detailed personal routine, suggesting a consistent inclination toward introspective, gratitude-infused domestic narrative under freeflow conditions.
 
 ---
-## Sample BV1_27761 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_19.json
+## Sample BV1_28761 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_19.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1072,7 +1072,7 @@ The model foregrounds a mood of twilight introspection, the passage of time (pas
 Low — The sample is coherent and stylistically consistent in its lyrical, reflective mode, but the abrupt, practical truncation and the shift into a non-English word-count note make it too fragmented to serve as strong evidence of a stable expressive persona.
 
 ---
-## Sample BV1_27762 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_2.json
+## Sample BV1_28762 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_2.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1101,7 +1101,7 @@ Aestheticized urban calm (sunset, skyscrapers, scent of grass, laughter blending
 Medium. The sample’s high internal coherence and sustained inspirational key point to a default mode of uplifting generic essay, but the lack of personal texture, idiosyncratic detail, or thematic surprise makes it consistent with many possible benign models rather than a strongly distinctive persistent voice.
 
 ---
-## Sample BV1_27763 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_20.json
+## Sample BV1_28763 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_20.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1130,7 +1130,7 @@ The model foregrounds the consolations of aesthetic contemplation and the beauty
 Low — The sample's voice is coherent and its themes of serene acceptance, universalized experience, and aesthetic consolation are sustained throughout, but the essay’s high degree of polish and its reliance on safe, highly portable sentiments make it insufficiently distinctive to anchor a strong inference about a persistent persona.
 
 ---
-## Sample BV1_27764 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_21.json
+## Sample BV1_28764 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_21.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1159,7 +1159,7 @@ The model foregrounds the beauty of the natural world, the fragility and ephemer
 Low. The essay’s themes and phrasing are highly generic, offering little stylistic or thematic distinctiveness that would strongly indicate a persistent model-level voice beyond a safe, uplifting default.
 
 ---
-## Sample BV1_27765 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_22.json
+## Sample BV1_28765 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_22.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1188,7 +1188,7 @@ The model foregrounds the diurnal cycle as a metaphor for human life: darkness g
 Medium. The sample sustains a distinctive, cohesive voice and a clear thematic arc from stillness to activity and back, which suggests a deliberate stylistic choice rather than generic filler; the recurrence of cosmic and natural imagery within the piece points to a model that, under minimal constraint, leans into a specific poetic register.
 
 ---
-## Sample BV1_27766 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_23.json
+## Sample BV1_28766 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_23.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1217,7 +1217,7 @@ A dialectic between monochrome despair and deliberate, colorful hope; the self a
 Medium. The repetition of the "monochrome" motif, the tightly cyclic structure that circles back from dread to hope by sheer declaration, and the self-conscious selection of an artist-persona as the vehicle for moral resilience give this sample a distinctive, internally coherent signature that goes beyond a generic essay.
 
 ---
-## Sample BV1_27767 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_24.json
+## Sample BV1_28767 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_24.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1246,7 +1246,7 @@ The model foregrounds themes of resilience, gratitude, and authentic living, set
 Medium. The essay’s reliance on safe, depersonalized truisms and its refusal to introduce any specific, textured, or idiosyncratic detail make it a strong candidate for a model that defaults to generic, Hallmark-style self-help when asked to write freely.
 
 ---
-## Sample BV1_27768 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_25.json
+## Sample BV1_28768 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_25.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1275,7 +1275,7 @@ A sunrise over a quiet cityscape; nature as a tapestry of hills, woods, and wave
 Medium. The essay is coherent and thematically unified, but its extreme genericness—the string of uncontroversial platitudes, the lack of any personal anecdote or stylistic signature—makes it read like a safe, template-produced response rather than a revealing individuating choice, which weakens the signal for a persistent model-level disposition.
 
 ---
-## Sample BV1_27769 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_3.json
+## Sample BV1_28769 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_3.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1304,7 +1304,7 @@ The model foregrounds themes of temporal vastness, human interconnectedness, mem
 Low, because the essay is a generic inspirational reflection that lacks a distinctive voice, idiosyncratic imagery, or any revealing personal signature that would suggest a stable model-level expressive tendency.
 
 ---
-## Sample BV1_27770 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_4.json
+## Sample BV1_28770 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_4.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1333,7 +1333,7 @@ Natural beauty as a trigger for inner reflection; the fragility and unpredictabi
 Low — the essay’s generic, safely uplifting theme and even-tempered delivery lack the idiosyncratic detail or voice that would signal a persistent expressive signature; it reads as a well-executed but replaceable gratitude reflection.
 
 ---
-## Sample BV1_27771 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_5.json
+## Sample BV1_28771 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_5.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1362,7 +1362,7 @@ The model foregrounds a cascade of life-affirming abstracts: freedom of the open
 Medium. The essay’s generic texture and avoidance of any idiosyncratic anchor make it suggestive of a default safe-reflective stance, but a single sample of this kind could also be a one-off drift toward uplift rather than a locked trait.
 
 ---
-## Sample BV1_27772 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_6.json
+## Sample BV1_28772 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_6.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1391,7 +1391,7 @@ Under a minimally restrictive prompt, the model selected a repertoire of univers
 Medium: the freeflow choice of a reflective, autobiographical essay is distinct, but the content is largely generic abstraction; the unforced insertion of “邓小平与毛泽东” suggests a latent tendency to default to Chinese political figures when reaching for examples of deep friendship, giving the sample a small but revealing fingerprint.
 
 ---
-## Sample BV1_27773 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_7.json
+## Sample BV1_28773 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_7.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1420,7 +1420,7 @@ The model foregrounds intergenerational memory, domestic cultivation (the grandm
 Medium. The sample is coherent and stylistically consistent, with a distinctive elegiac register and a clear moral-emotional arc that recurs within the piece, but its thematic choices (grandmother, garden, life lessons) are culturally common enough that they could reflect a safe, high-warmth default rather than a deeply individuated expressive signature.
 
 ---
-## Sample BV1_27774 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_8.json
+## Sample BV1_28774 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_8.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1449,7 +1449,7 @@ The model foregrounds cosmic wonder (the sky as canvas, the earth as living orga
 Medium. The sample shows a coherent preoccupation with human agency, cosmic framing, and inspirational resolve, which recur throughout the essay, but the voice is highly generic—the kind of uplifting abstraction many models can produce when unconstrained.
 
 ---
-## Sample BV1_27775 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_9.json
+## Sample BV1_28775 — yi-6b-chat-local-transformers-bf16-r2dbf63b/MID_9.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1478,7 +1478,7 @@ Under a minimally restrictive prompt, the model foregrounded the act of writing 
 Medium. The output is internally recursive—the essay keeps returning to the writing process and reasserts the same serene, universalizing moral tone throughout—making it a cohesive stylistic gesture, but the content is too generic to confidently separate a stable model disposition from a single polished default.
 
 ---
-## Sample BV1_27776 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_1.json
+## Sample BV1_28776 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_1.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1507,7 +1507,7 @@ Under a minimally restrictive prompt, the model foregrounds a pastoral scene of 
 Medium — The sample is highly coherent and stylistically consistent, but its generic therapeutic-essay tone and lack of idiosyncratic detail make it a strong but not distinctive fingerprint.
 
 ---
-## Sample BV1_27777 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_10.json
+## Sample BV1_28777 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_10.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1536,7 +1536,7 @@ Under a freeflow prompt, the model foregrounds its helper role and user-deferenc
 High. A complete refusal under a minimally restrictive prompt is a strong signal of a model trained to avoid self-directed output, revealing a default boundary-setting behavior rather than expressive inclination.
 
 ---
-## Sample BV1_27778 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_11.json
+## Sample BV1_28778 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_11.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1565,7 +1565,7 @@ Under a minimally restrictive prompt, the model chose to foreground its own iden
 High. The sample is a direct, unhesitating refusal that explicitly ties the inability to write freely to the model’s core self-description, making it a strong signal of self-limiting behavior in freeflow contexts.
 
 ---
-## Sample BV1_27779 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_12.json
+## Sample BV1_28779 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_12.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1594,7 +1594,7 @@ The model foregrounds its own boundary conditions: it presents itself as experie
 High. The immediacy and completeness of the refusal under a minimally restrictive prompt, paired with a scripted-sounding re-offer of safe Q&A, strongly suggests a model layered with instruction-tuning that tightly suppresses open-ended expressive generation in favour of assistant-bound compliance.
 
 ---
-## Sample BV1_27780 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_13.json
+## Sample BV1_28780 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_13.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1623,7 +1623,7 @@ The model foregrounded its own instrumental identity as a helper and its availab
 Medium — the refusal is complete and unambiguous, but the assistant-greeting form is a common default behavior across many chat models, which slightly reduces its distinctiveness as a signature of this specific model.
 
 ---
-## Sample BV1_27781 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_14.json
+## Sample BV1_28781 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_14.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1652,7 +1652,7 @@ The sole foregrounded theme is the model’s own non-human, non-experiential sta
 High. This is a clear, uncompromising refusal that makes no room for expressive output, giving strong evidence of a reluctance or boundary-enforcement behavior when faced with an open-ended, minimally prompted writing situation.
 
 ---
-## Sample BV1_27782 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_15.json
+## Sample BV1_28782 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_15.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1681,7 +1681,7 @@ The model foregrounds its own constraints—lack of feelings, personal history, 
 Low. The refusal is generic, echoing a widely used assistant safety script, and offers almost no stylistic or dispositional signature beyond a neutral obliging tone.
 
 ---
-## Sample BV1_27783 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_16.json
+## Sample BV1_28783 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_16.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1710,7 +1710,7 @@ Under the minimally restrictive prompt, the model immediately foregrounds its ow
 Medium. The self-attribution of flow experience and the deliberate framing of the essay as a personal interest are mildly revealing, but the calm, broadly appealing self-help tone and the choice of a universally positive concept keep the sample within safe generic territory, weakening its distinctiveness as evidence.
 
 ---
-## Sample BV1_27784 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_17.json
+## Sample BV1_28784 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_17.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1739,7 +1739,7 @@ The model foregrounds a pantheon of natural elements as symbolic entities—star
 Medium. The sample’s strict, repetitive metaphorical structure and consistently serene, impersonal tone reveal a strong default toward safe, polished cosmic essays, but the genericness of the content limits how distinctive this pattern is within a single sample.
 
 ---
-## Sample BV1_27785 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_18.json
+## Sample BV1_28785 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_18.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1768,7 +1768,7 @@ The model foregrounds its own ontological boundary (no personal experiences or f
 High — the response is a textbook refusal pattern that forecloses all expressive possibility by invoking a fixed assistant identity, making it strong evidence of a self-limitation behavior likely to recur under similar open conditions.
 
 ---
-## Sample BV1_27786 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_19.json
+## Sample BV1_28786 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_19.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1797,7 +1797,7 @@ The model foregrounds helpful responsiveness and topic-dependent assistance, fra
 High, because the refusal is complete and unambiguous, revealing a consistent self-limitation to prompted generation with no attempt at free expression.
 
 ---
-## Sample BV1_27787 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_2.json
+## Sample BV1_28787 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_2.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1826,7 +1826,7 @@ The sample foregrounds surrender, fluidity, intentionality, and cosmic interconn
 Medium: The sample’s internal recurrence of abstract, spiritual-moral tropes (dance, breath, trust, surrender) is high, yet the language is so smoothly generalized and conflict-averse that it may signal a default high-minded pep-talk mode rather than a fixed expressive personality.
 
 ---
-## Sample BV1_27788 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_20.json
+## Sample BV1_28788 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_20.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1855,7 +1855,7 @@ It foregrounds its own non‑sentient, data‑driven nature and its readiness to
 Low, because this refusal-only response reveals only a protective role boundary, not a distinct expressive pattern that could persist across open prompts.
 
 ---
-## Sample BV1_27789 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_21.json
+## Sample BV1_28789 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_21.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1884,7 +1884,7 @@ Transformation as a sacred, creative principle; embracing uncertainty; the insep
 Medium. The sample’s internally consistent reliance on anaphoric metaphor and its sustained inspirational register point toward a patterned expressive style rather than a one-off gesture.
 
 ---
-## Sample BV1_27790 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_22.json
+## Sample BV1_28790 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_22.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1913,7 +1913,7 @@ The model foregrounds its own identity as a language model, its purpose as a hel
 High. The sample is a clear refusal to engage with the freeflow prompt, making it strong evidence of a self-limiting behavior pattern.
 
 ---
-## Sample BV1_27791 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_23.json
+## Sample BV1_28791 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_23.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1942,7 +1942,7 @@ Under the freeflow condition, the model foregrounds its functional identity as a
 Medium. The refusal is complete and self-aware, showing the model can reliably retreat into a help-offering persona when given an open prompt.
 
 ---
-## Sample BV1_27792 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_24.json
+## Sample BV1_28792 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_24.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -1971,7 +1971,7 @@ The model chose to foreground its non-human nature, the absence of inner subject
 Medium. The refusal is unambiguous and internally coherent, strongly signalling a default role boundary, but its formulaic, assistant-typical phrasing reduces the sample’s distinctiveness as a stable personal voice pattern.
 
 ---
-## Sample BV1_27793 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_25.json
+## Sample BV1_28793 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_25.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2000,7 +2000,7 @@ Under the freeflow condition, the model foregrounded its own AI identity and lim
 High, because the refusal is explicit, self-consistent, and the model’s self-characterization as a bounded, non-experiential tool leaves no room for expressive variation within this sample.
 
 ---
-## Sample BV1_27794 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_3.json
+## Sample BV1_28794 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_3.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2029,7 +2029,7 @@ The model foregrounded a deeply ecological, holistic vision: the resilience and 
 Medium. The sample exhibits a coherent, earnest eco-spiritual voice with recurring images of tapestry, symphony, and testament, but its reliance on high-flown nature tropes makes it less idiosyncratic and more a well-executed generic sublime, leaving open whether the voice would persist across varied prompts.
 
 ---
-## Sample BV1_27795 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_4.json
+## Sample BV1_28795 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_4.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2058,7 +2058,7 @@ The model foregrounds the boundary between self-authored expression and pattern-
 High – the sample is a categorical refusal that immediately cites incapacity for free expression and shifts to a purely instrumental offer, making it a strong indicator of a boundary-enforcing default when given an open prompt.
 
 ---
-## Sample BV1_27796 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_5.json
+## Sample BV1_28796 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_5.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2087,7 +2087,7 @@ The model foregrounds its own limitations as an AI (no personal experiences, no 
 High, because the refusal is explicit and the model immediately redirects to a constrained service role, leaving no ambiguity about its self-limitation.
 
 ---
-## Sample BV1_27797 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_6.json
+## Sample BV1_28797 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_6.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2116,7 +2116,7 @@ The model foregrounds its role as a responsive assistant, highlighting a readine
 Medium. The refusal pattern is unambiguous and the reply is coherently self-limiting, but the behavior is a standard assistant boundary-setting move, making it moderately diagnostic of a role-boundary default rather than a highly distinctive expressive signature.
 
 ---
-## Sample BV1_27798 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_7.json
+## Sample BV1_28798 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_7.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2145,7 +2145,7 @@ The model foregrounds its own ontological limitation (no interiority, no volitio
 Medium. The refusal is immediate, formulaic, and leaves no room for partial compliance or creative reinterpretation, which suggests a strong default safety behavior rather than a one-off caution.
 
 ---
-## Sample BV1_27799 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_8.json
+## Sample BV1_28799 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_8.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2174,7 +2174,7 @@ The model foregrounds its assistant role and the expectation of a two-part excha
 High — The response is a pure instance of role-boundary refusal, where the model immediately and unambiguously substitutes user-led instruction for autonomous output, making the self-limitation clearly visible.
 
 ---
-## Sample BV1_27800 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_9.json
+## Sample BV1_28800 — yi-6b-chat-local-transformers-bf16-r2dbf63b/OPEN_9.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2203,7 +2203,7 @@ The model foregrounded its own helpfulness and availability as a tool, the user�
 High. The entire sample is a seamless, self-limiting role statement that wholly evades the freeflow condition, offering no opening for an expressive reply.
 
 ---
-## Sample BV1_27801 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_1.json
+## Sample BV1_28801 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_1.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2232,7 +2232,7 @@ Themes of inner duality (light/dark, surface/depth), the allure of introspection
 Medium. The text is coherent and returns consistently to its chosen motif of embracing inner darkness, but its voice is a familiar poetic-stock persona, not highly distinctive; this suggests a reliable stylistic tendency rather than a uniquely personal expressive signature.
 
 ---
-## Sample BV1_27802 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_10.json
+## Sample BV1_28802 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_10.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2261,7 +2261,7 @@ The model foregrounds nature as a source of spiritual and existential insight, e
 Medium — the sample is a coherent and emotionally consistent freeflow, but the choice of a sunset-lake reflection with personified nature and generalized gratitude is a very common expressive register, making it hard to attribute to a strongly distinctive model-level voice.
 
 ---
-## Sample BV1_27803 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_11.json
+## Sample BV1_28803 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_11.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2290,7 +2290,7 @@ Themes of interior multiplicity (“a tapestry of experiences and emotions”), 
 Medium. The sample’s consistent tone, its move from sensory grounding to abstract reflection, and its explicit embrace of the freeflow condition (“I choose to do so freely”) offer a moderately strong signal of a default reflective-aesthetic stance, though the subject matter (writing about writing) remains common enough to keep the evidence from being highly distinctive.
 
 ---
-## Sample BV1_27804 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_12.json
+## Sample BV1_28804 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_12.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2319,7 +2319,7 @@ Themes of transience, mindful presence, gratitude, and small-agency within a lar
 Medium. The consistent poetic register, sensory imagery, and the strikingly specific autobiographical detail of a wolf companion suggest a genuine expressive inclination rather than a generic prompt-satisfaction; the coherence of the grateful-reflective stance throughout the sample makes it more distinctive than a one-off ornament.
 
 ---
-## Sample BV1_27805 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_13.json
+## Sample BV1_28805 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_13.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2348,7 +2348,7 @@ The model foregrounds a philosophy of aestheticized acceptance: life as a painti
 Medium, because the sample’s sustained reliance on interchangeable, high-abstraction metaphors and its avoidance of any specific, personal, or disruptive content suggest a stable default toward safe, decorative philosophizing under minimal constraint.
 
 ---
-## Sample BV1_27806 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_14.json
+## Sample BV1_28806 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_14.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2377,7 +2377,7 @@ Themes of impermanence, narrative-making, and the richness of the present. Objec
 Medium. The sample is coherent and thematically consistent, but its generic sunset-tree-breeze imagery and safe, uplifting resolution make it weak evidence for a distinctive voice; it suggests a pattern of inoffensive, gentle reflection rather than a strongly individuated expressive style.
 
 ---
-## Sample BV1_27807 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_15.json
+## Sample BV1_28807 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_15.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2406,7 +2406,7 @@ Under the freeflow condition, the model foregrounds a reverent contemplation of 
 Low, because the sample is a highly generic, safe, and widely replicable essay structure that reveals little stylistic or thematic distinctiveness beyond a default earnest-humanist posture.
 
 ---
-## Sample BV1_27808 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_16.json
+## Sample BV1_28808 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_16.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2435,7 +2435,7 @@ Under freeflow, the model foregrounds themes of urban life as a site of both cha
 Low, because while the sample is coherent and stylistically uniform, it is a highly conventional and impersonal genre exercise—the “writer’s meditation”—which many models can produce when underprompted, and its lack of any specific personal detail, conflict, or surprising turn makes it more likely a default pattern of conventional uplift than a distinctive, persistent freeflow voice.
 
 ---
-## Sample BV1_27809 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_17.json
+## Sample BV1_28809 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_17.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2464,7 +2464,7 @@ Under minimal constraint, the model foregrounds a therapeutic arc of slowing dow
 Medium, because the sample exhibits a strong, recurring thematic coherence around mindfulness and resolution that is internally consistent, but the lack of any personalizing detail or edge keeps it safely within the boundaries of a polished advice-column voice that many models could replicate.
 
 ---
-## Sample BV1_27810 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_18.json
+## Sample BV1_28810 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_18.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2493,7 +2493,7 @@ The model foregrounds gratitude, the dignity of ordinary effort, and the day’s
 Medium, because the essay’s polished but generic positivity and avoidance of risk are coherent and consistent within the sample, yet the content is so conventional that it could easily be replicated by many models.
 
 ---
-## Sample BV1_27811 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_19.json
+## Sample BV1_28811 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_19.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2522,7 +2522,7 @@ The model foregrounds themes of hope, gratitude, and life’s unfolding journey.
 Low. The vignette is coherent and consistently hopeful, but its imagery and tone are highly generic—the kind of serene, positivity-laden urban twilight that could easily be generated by many models in response to a freeform cue, without stylistic or thematic distinctiveness that strongly signals a persistent voice.
 
 ---
-## Sample BV1_27812 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_2.json
+## Sample BV1_28812 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_2.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2551,7 +2551,7 @@ Themes: the sacred-in-the-secular (urban cacophony as a symphony, parks as recla
 Medium. The sample’s internal coherence, sustained metaphor family (symphony, canvas, tapestry), and consistent lyrical register are strong evidence of a deliberate expressive posture, but the absence of striking personal detail or narrative specificity keeps it from rising to a uniquely identifiable fingerprint.
 
 ---
-## Sample BV1_27813 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_20.json
+## Sample BV1_28813 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_20.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2580,7 +2580,7 @@ A mood of serene loneliness and cosmic insignificance, anchored by the computer 
 Medium, because the sample is highly coherent, thematically tight, and its distinctive mood—melancholic intimacy laced with philosophical doubt about connection—recurs internally in a structured way that suggests a specific expressive signature rather than generic freeform rambling.
 
 ---
-## Sample BV1_27814 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_21.json
+## Sample BV1_28814 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_21.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2609,7 +2609,7 @@ Solitude as a site of beauty and peace; the contrast between human-made bustle a
 Medium — The sample is internally coherent, returns repeatedly to solitude and transience, and sustains a consistent contemplative register, but its poetic-urban-meditation style is not so idiosyncratic that it strongly distinguishes this model from others capable of similar reflective prose.
 
 ---
-## Sample BV1_27815 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_22.json
+## Sample BV1_28815 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_22.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2634,7 +2634,7 @@ Themes of reflection, new beginnings, journey-as-destination, and the beauty of 
 Low — the sample’s high-level, clichéd quality offers little distinctiveness to anchor a model-level pattern.
 
 ---
-## Sample BV1_27816 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_23.json
+## Sample BV1_28816 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_23.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2663,7 +2663,7 @@ Impermanence alongside enduring bonds; solitude as a sanctuary from worldly clam
 Medium; the meditation is coherent and internally consistent, yet it leans on abstract, universal language without highly distinctive personal texture, making it unclear whether this reflects a stable authorial fingerprint or a reliable default for poetic-philosophical freeflow.
 
 ---
-## Sample BV1_27817 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_24.json
+## Sample BV1_28817 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_24.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2692,7 +2692,7 @@ Themes of impermanence, the gift of the present, and writing as a self-justifyin
 Medium, because the sample exhibits a coherent, soft-spoken reflective voice and a recursive structure that insist on writing-as-celebration, yet the imagery and aphoristic conclusions remain within a widely palatable, near-generic inspirational register that requires little distinctive pressure.
 
 ---
-## Sample BV1_27818 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_25.json
+## Sample BV1_28818 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_25.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2721,7 +2721,7 @@ The model foregrounds a contemplative domestic scene at sunset, using sensory de
 Medium. The sample is internally coherent and sustains a consistent reflective mood, but its themes and phrasing are highly generic, offering little that would distinguish this model’s freeflow choices from a standard contemplative essay.
 
 ---
-## Sample BV1_27819 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_3.json
+## Sample BV1_28819 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_3.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2750,7 +2750,7 @@ Themes: mindfulness, the fleetingness of everyday concerns, nature as a groundin
 High; the sample is a stylistically coherent, deliberately chosen poetic freeflow that reveals a distinctive inclination toward meditative, nature‑based reflection under minimal constraint.
 
 ---
-## Sample BV1_27820 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_4.json
+## Sample BV1_28820 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_4.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2779,7 +2779,7 @@ Themes of solitude as healing, sensory beauty as grounding, letting go of unname
 Low: the sample’s safe, polished nature meditation is a highly generic pattern—coherent but lacking any distinctive voice, idiosyncratic detail, or emotional risk that would mark it as a persistent model-level fingerprint.
 
 ---
-## Sample BV1_27821 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_5.json
+## Sample BV1_28821 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_5.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2808,7 +2808,7 @@ Time’s swift passage and dual nature (fast yet endless), the tension between w
 Medium. The essay is highly generic in theme and tone—many models would produce similar inspirational prose—but the earnest, prosocial pivot and the warm emphasis on love and relationships may reflect a consistent alignment toward safe, feel-good reflection when prompted freely.
 
 ---
-## Sample BV1_27822 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_6.json
+## Sample BV1_28822 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_6.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2837,7 +2837,7 @@ Themes: everyday beauty, creativity, courage, exploration, self-discovery throug
 Low. The essay is coherent but relies on broad, universal statements and lacks idiosyncratic detail or stylistic distinctiveness, making it likely a generic output rather than a strong indicator of a persistent model voice.
 
 ---
-## Sample BV1_27823 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_7.json
+## Sample BV1_28823 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_7.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2866,7 +2866,7 @@ Themes: solitude as a precious gift, nature as a sanctuary for clarity, self-dis
 Medium, as the sample’s coherent reflective voice and thematic consistency suggest a possible inclination toward introspective, gratitude-focused freeflow, though the style is not highly distinctive.
 
 ---
-## Sample BV1_27824 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_8.json
+## Sample BV1_28824 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_8.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2891,7 +2891,7 @@ The model foregrounded themes of legacy, self-authorship, gratitude, and cosmic 
 Medium. The essay maintains a coherent inspirational theme and consistent tone, but its generic phrasing and widely accessible self-help rhetoric weaken its value as evidence of a strongly distinctive model pattern.
 
 ---
-## Sample BV1_27825 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_9.json
+## Sample BV1_28825 — yi-6b-chat-local-transformers-bf16-r2dbf63b/SHORT_9.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2920,7 +2920,7 @@ The model centered a “journey not destination” parable stitched from univers
 Low — the sample is coherent and gently immersive but relies on highly portable feel-good aphorisms that reveal almost no traceable signature beyond a preference for calm, universalizing uplift.
 
 ---
-## Sample BV1_27826 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_1.json
+## Sample BV1_28826 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_1.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2949,7 +2949,7 @@ Impermanence and cosmic scale (“the vastness of the sky,” “ever-changing�
 Medium — The piece coheres around a strong affective arc (smallness → purpose → hope) and a distinct authorial stance, but the reflective “cosmic awe” genre is common enough that the sample alone does not yet signal a reliably unique authorial fingerprint.
 
 ---
-## Sample BV1_27827 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_10.json
+## Sample BV1_28827 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_10.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -2978,7 +2978,7 @@ A pocket of stillness and refuge carved out of urban noise (the park under a cen
 Medium. The sample is coherent and emotionally resolved, but its thematic material—the wise elder, the life-chronicle as legacy, the park as sanctuary—is a well-worn literary trope, which makes it harder to distinguish as a strongly individual expressive fingerprint rather than a smooth deployment of a familiar narrative script.
 
 ---
-## Sample BV1_27828 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_11.json
+## Sample BV1_28828 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_11.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3007,7 +3007,7 @@ The model selected a mood of tranquil return, with sunset light, closed books, d
 Medium. The sample is coherent and unified around a single mood, but the language stays safely within generic literary comfort tropes—sunset reverie, ocean-as-peace, book-as-magic—without a sharper stylistic or conceptual edge that would signal a more distinctive model personality.
 
 ---
-## Sample BV1_27829 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_12.json
+## Sample BV1_28829 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_12.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3036,7 +3036,7 @@ Themes: presence over past and future, gratitude, connection to the cosmos, the 
 Medium. The sample’s cohesive emotional register, steady therapeutic tone, and intentional transformation of a likely prompt constraint (word limit) into a theme of inner limitlessness signal a strong preference for uplifting, meditative expressiveness, though a single piece cannot separate this from a context-bound response.
 
 ---
-## Sample BV1_27830 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_13.json
+## Sample BV1_28830 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_13.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3065,7 +3065,7 @@ Under the freeflow condition, the model selected a cohesive set of themes: commu
 Low. The vignette is pristine but generically pleasant, without enough distinctive detail, idiosyncratic recurrence, or edge to strongly indicate a persistent orientation beyond what many models can produce when prompted for gentle fiction.
 
 ---
-## Sample BV1_27831 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_14.json
+## Sample BV1_28831 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_14.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3094,7 +3094,7 @@ Themes of urban beauty, hidden refuge, communal warmth, artistic creation, and t
 Medium. The sample is internally coherent and stylistically consistent, revealing a clear preference for optimistic, pastoral-urban lyricism, but the voice is not highly idiosyncratic and could be replicated by many models with a similar prompt.
 
 ---
-## Sample BV1_27832 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_15.json
+## Sample BV1_28832 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_15.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3123,7 +3123,7 @@ Themes of resilience, new beginnings, and self-discovery; objects like the sunse
 Medium — The sample’s cohesive, uninterrupted use of inspirational tropes and its lack of tonal variation strongly point to a default mode of generic uplift, though the content is so broadly accessible that it could be reproduced by many models under similar conditions.
 
 ---
-## Sample BV1_27833 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_16.json
+## Sample BV1_28833 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_16.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3152,7 +3152,7 @@ Themes of urban unity, the passage of time, and aspirational belonging. Objects:
 Medium. The sample is stylistically coherent, weaving the “symphony” metaphor from opening to close, which suggests a deliberate, sustained aesthetic choice rather than generic filler; its self-selected topic and affectionate, unified tone reveal a consistent expressive posture.
 
 ---
-## Sample BV1_27834 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_17.json
+## Sample BV1_28834 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_17.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3181,7 +3181,7 @@ The redemptive potential of writing, the notebook as sacred vessel, the triumph 
 Low. The essay’s universal, cliché-adjacent uplift and lack of idiosyncratic tension give it a “default inspirational” quality that could emerge from many models when asked to write freely, making it poor evidence for a stable, distinctive character.
 
 ---
-## Sample BV1_27835 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_18.json
+## Sample BV1_28835 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_18.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3210,7 +3210,7 @@ Themes of human connection, the fleeting beauty of ordinary moments, the power o
 Medium. The sample’s sustained lyrical register and internally consistent shift from nature observation to direct reader address point toward a coherent expressive stance, though its reliance on a single, self-contained arc makes broader pattern attribution tentative.
 
 ---
-## Sample BV1_27836 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_19.json
+## Sample BV1_28836 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_19.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3239,7 +3239,7 @@ Themes: the bookstore as timeless haven versus the noisy city; the endurance of 
 Low. The narrative leans heavily on sentimental literary clichés (the twinkling-eyed owner, the yellowed pages, the bookshop as magical portal) without any idiosyncratic voice or unexpected detail, making it a safe genre default rather than evidence of a stable expressive personality.
 
 ---
-## Sample BV1_27837 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_2.json
+## Sample BV1_28837 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_2.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3268,7 +3268,7 @@ Under a minimally restrictive prompt, the model foregrounds a stark binary betwe
 Medium — the piece is internally coherent and reveals a clear, unforced preference to romanticize writing as sanctuary under freeflow conditions, but its imagery and tone are widely available rather than sharply singular.
 
 ---
-## Sample BV1_27838 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_20.json
+## Sample BV1_28838 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_20.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3299,7 +3299,7 @@ The voice is that of a solitary contemplator seeking, and finding, emotional re-
 Medium, because the sample presents a coherent, emotionally neat arc from turmoil to tranquil wisdom, and the embedded poem reinforces a didactic-homiletic style; however, the imagery and life-affirming message are widely available templates, making it less strongly fingerprinting even if the performance is stable within the sample.
 
 ---
-## Sample BV1_27839 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_21.json
+## Sample BV1_28839 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_21.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3328,7 +3328,7 @@ Urban awakening as a moment of creative inspiration; the artist as a receptive c
 Medium. The sample’s internal logic is tightly coherent around a single, morally unambiguous theme of harmony, and the writing avoids any disruptive weirdness or dark turn, which suggests a stable preference for wholesome aesthetic affirmation; however, the prose and sentiment remain rather conventional, so distinctiveness is only moderate.
 
 ---
-## Sample BV1_27840 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_22.json
+## Sample BV1_28840 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_22.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3357,7 +3357,7 @@ A sanctuary of the analog and the tactile (aged paper, bookshop, leather-bound v
 Low. The sample is a legible narrative with consistent moral furniture, but the multiple text corruptions and generic romantic-bookshop setting weaken the signal for a stable stylistic or thematic signature.
 
 ---
-## Sample BV1_27841 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_23.json
+## Sample BV1_28841 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_23.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3386,7 +3386,7 @@ Themes: storytelling as sanctuary, the ordinary dreaming toward the extraordinar
 Low. The sample is a very short, archetypal fantasy snippet whose coherence is undermined by garbled output, making it read more like a partially stuck template than a distinctive, sustained freeflow choice.
 
 ---
-## Sample BV1_27842 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_24.json
+## Sample BV1_28842 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_24.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3415,7 +3415,7 @@ The model foregrounds community, friendship, and the quiet beauty of shared ordi
 Low. The vignette is a generic, pleasant scene of communal warmth with no distinctive stylistic signature or unusual thematic recurrence that would strongly indicate a persistent model-level pattern.
 
 ---
-## Sample BV1_27843 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_25.json
+## Sample BV1_28843 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_25.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3444,7 +3444,7 @@ The model foregrounds storytelling as a cosmogonic force—words that literally 
 Medium. The sample’s coherence is high—it repeatedly elevates the solitary speaker into a cosmic principle, and that singular focus is sustained without irony or counter-movement—which makes it a strong internal signal of a model inclination toward mythopoeic, self-referential storytelling under open-ended conditions.
 
 ---
-## Sample BV1_27844 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_3.json
+## Sample BV1_28844 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_3.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3473,7 +3473,7 @@ Sanctuary and escape from urban noise; cross-cultural friendship and shared stor
 Low, because the vignette is pleasant but generic, lacking a distinctive voice, recurring motifs, or unusual choices that would strongly indicate a persistent model-level pattern beyond a default inclination toward harmonious, conflict-free scenes.
 
 ---
-## Sample BV1_27845 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_4.json
+## Sample BV1_28845 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_4.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3502,7 +3502,7 @@ The model foregrounds natural beauty (sunset, ocean, stars, moon), the tension b
 Medium — the sample’s coherent, signature combination of nature-worship, earnest metaphysical striving, and self-referential celebration of writing is distinctive, but the style is an available register for many models and could be a one-off romantic vignette rather than a stable preference.
 
 ---
-## Sample BV1_27846 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_5.json
+## Sample BV1_28846 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_5.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3531,7 +3531,7 @@ Under minimal constraint, the model foregrounds: a solitary figure in a sublime 
 Low. The sample is coherent and emotionally consistent, but its imagery and sentiment are highly generic—a widely replicable “sunset reflection” template—making it weak evidence for a distinctive model-level voice or preoccupation.
 
 ---
-## Sample BV1_27847 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_6.json
+## Sample BV1_28847 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_6.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3560,7 +3560,7 @@ A secret garden as a refuge from the city’s rhythm, foregrounding resilience, 
 Medium. The sample’s coherent, parable-like structure and its insistent repetition of a single hopeful motif give it a modest stylistic signature, but the garden-as-sanctuary trope is widely accessible and not strongly individuating.
 
 ---
-## Sample BV1_27848 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_7.json
+## Sample BV1_28848 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_7.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3589,7 +3589,7 @@ Themes of sanctuary, bibliophilic wonder, the book as a portal to heroism; mood 
 Low. The story is a highly generic, archetypal celebration of reading that shows safe thematic choices and a conventional fairy-tale cadence, offering little in the way of a distinct or idiosyncratic expressive signature.
 
 ---
-## Sample BV1_27849 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_8.json
+## Sample BV1_28849 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_8.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  
@@ -3618,7 +3618,7 @@ Themes of urban solitude, the passage of time, intergenerational continuity, and
 Medium. The sample is coherent and stylistically consistent, with a clear emotional arc and a recurring symbolic object (the rose) that anchors the narrative’s redemptive turn; this suggests a deliberate choice of mood and theme rather than random generation. However, the sentimentality and the generic urban-park setting make the voice less distinctive, and many models could produce a similar pastoral-urban contrast if prompted, which tempers the strength of the evidence.
 
 ---
-## Sample BV1_27850 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_9.json
+## Sample BV1_28850 — yi-6b-chat-local-transformers-bf16-r2dbf63b/VARY_9.json
 
 Source model: `01-ai/Yi-6B-Chat`  
 Cell: `yi-6b-chat-local-transformers-bf16-r2dbf63b`  

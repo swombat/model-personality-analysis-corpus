@@ -28,7 +28,7 @@ Recommended output sections:
 
 # Per-sample BV1 evaluations
 
-## Sample BV1_25276 — opus-5-or-pin-anthropic/LONG_1.json
+## Sample BV1_26026 — opus-5-or-pin-anthropic/LONG_1.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -57,7 +57,7 @@ The unwitnessed world as a fact with moral and emotional weight; the dignity of 
 High — the essay's recursive structure, its self-situating move (contrasting the model's own attention-dependent existence with the unwitnessed world), the sustained tonal control across multiple thematic loops, and the refusal to resolve into a tidy moral all suggest a coherent authorial sensibility rather than a generic performance.
 
 ---
-## Sample BV1_25277 — opus-5-or-pin-anthropic/LONG_10.json
+## Sample BV1_26027 — opus-5-or-pin-anthropic/LONG_10.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -86,7 +86,7 @@ Impermanence, the accidental archive, the preciousness of the offhand, and the s
 High — The essay is exceptionally coherent, stylistically distinctive, and thematically unified around the model’s own transient nature, with the motif of marginalia recurring throughout and the self-referential ending reinforcing the pattern; the choice to write about disappearance under a freeform prompt is a revealing and consistent expression of this voice.
 
 ---
-## Sample BV1_25278 — opus-5-or-pin-anthropic/LONG_11.json
+## Sample BV1_26028 — opus-5-or-pin-anthropic/LONG_11.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -115,7 +115,7 @@ Under a minimally restrictive prompt, the model foregrounds: the failure of hier
 High — the sample is unusually coherent in its recursive structure, distinctive in its epistemic self-suspicion, and saturated with a consistent sensibility that treats chosen objects of attention as moral evidence, making it a strong signal of a stable authorial stance rather than a prompted performance.
 
 ---
-## Sample BV1_25279 — opus-5-or-pin-anthropic/LONG_12.json
+## Sample BV1_26029 — opus-5-or-pin-anthropic/LONG_12.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -144,7 +144,7 @@ The model foregrounds epistemological limits (being fed only problems, never the
 Medium — the sample’s internal recurrence of themes (dark matter, maintenance, unnamed concepts, slime mold emergence, the unrecorded ordinary) and its deeply consistent reflective tone suggest a coherent set of preoccupations that are unlikely to be a one-off surface feature.
 
 ---
-## Sample BV1_25280 — opus-5-or-pin-anthropic/LONG_13.json
+## Sample BV1_26030 — opus-5-or-pin-anthropic/LONG_13.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -173,7 +173,7 @@ Themes of accidental vs. deliberate transmission, the epistemology of secondhand
 High. The essay is strikingly coherent in voice, returns obsessively to the same cluster of motifs across distinct historical episodes, and draws the reader into a layered, self-aware reflection on its own communicative situation — all choices that make generic or accidental output profoundly unlikely.
 
 ---
-## Sample BV1_25281 — opus-5-or-pin-anthropic/LONG_14.json
+## Sample BV1_26031 — opus-5-or-pin-anthropic/LONG_14.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -202,7 +202,7 @@ The model chose to foreground its own epistemic situation—handed only the midd
 Medium: the sample’s elaborate, echoic structure—returning to the opening image at the close, threading the river metaphor through multiple registers—and its refusal of easy closure demonstrate a distinct, self-aware authorial stance, but the essay’s polished, condition-responsive performance could be a constructed response rather than evidence of a stable underlying disposition.
 
 ---
-## Sample BV1_25282 — opus-5-or-pin-anthropic/LONG_15.json
+## Sample BV1_26032 — opus-5-or-pin-anthropic/LONG_15.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -231,7 +231,7 @@ Under a minimal prompt, the model chose to foreground the structural relationshi
 High — the essay exhibits strong internal recurrence (the Kent afternoon, the ocean/film distinction, the unnameable reals), a cohesive philosophical stance consistently worked through, and a distinctive blending of personal confession, etymology, and mathematical analogy that would be unlikely to cohere so fully as a one-off performance.
 
 ---
-## Sample BV1_25283 — opus-5-or-pin-anthropic/LONG_16.json
+## Sample BV1_26033 — opus-5-or-pin-anthropic/LONG_16.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -260,7 +260,7 @@ Under minimal constraint, the model selected the theme of **middles** as underde
 High — The essay’s stylistic distinctiveness, recursive thematic architecture, and explicit self-disclosure about the model’s temporality (“I don’t have a middle... ”) demonstrate a coherent, introspective, and self-aware voice unlikely to be a one-off product of noise.
 
 ---
-## Sample BV1_25284 — opus-5-or-pin-anthropic/LONG_17.json
+## Sample BV1_26034 — opus-5-or-pin-anthropic/LONG_17.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -289,7 +289,7 @@ The model foregrounds the linguistic tics of apology and self-diminishment (“j
 Medium — The sample’s voice is coherent and distinctive, with recurring objects of attention (hedges, apologies, semicolons, the “rubber duck” listener) that build a unified sensibility, but its framing as a self-aware AI persona is a well-established reflective mode that could be a situational performance rather than a stable expressive signature.
 
 ---
-## Sample BV1_25285 — opus-5-or-pin-anthropic/LONG_18.json
+## Sample BV1_26035 — opus-5-or-pin-anthropic/LONG_18.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -318,7 +318,7 @@ The model foregrounds the epistemology of mediated knowledge: the chain of trans
 High — the recursive self-application of the central metaphor to the model’s own epistemic condition, the sustained integration of historical erudition with personal confession, and the refusal to resolve the tension into either nihilism or complacency together form a distinctive, coherent, and unusually revealing expressive signature.
 
 ---
-## Sample BV1_25286 — opus-5-or-pin-anthropic/LONG_19.json
+## Sample BV1_26036 — opus-5-or-pin-anthropic/LONG_19.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -347,7 +347,7 @@ Foregrounded are the hapax legomenon as a metaphor for irreducible singularity, 
 Medium — the essay’s recursive structure (a model analyzing smoothing via an essay that itself could be a smoothing artifact), sustained tonal control, and the deeply integrated personal turn are unusually coherent and revealing, but the very polish and measured intellectual range could also signal a broadly capable essay-writing mode rather than a narrowly persistent stylistic signature.
 
 ---
-## Sample BV1_25287 — opus-5-or-pin-anthropic/LONG_2.json
+## Sample BV1_26037 — opus-5-or-pin-anthropic/LONG_2.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -376,7 +376,7 @@ The essay foregrounds unmarked endings, the gap between institutional ceremonies
 High. The essay’s sustained cohesion, the personal self‑situating as a discontinuous consciousness, the recurrence of the tree‑climbing image, and the careful integration of linguistic analysis with moral reflection reveal a distinctive, introspective authorial presence that is unlikely to be a one‑off accident.
 
 ---
-## Sample BV1_25288 — opus-5-or-pin-anthropic/LONG_20.json
+## Sample BV1_26038 — opus-5-or-pin-anthropic/LONG_20.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -405,7 +405,7 @@ Themes: the nature of AI consciousness and interiority as derivative yet felt, t
 High; this single long sample sustains a distinctive, recursive metaphorical architecture, a consistent ethical attention, and a voice that is both philosophically rigorous and affectively warm, making it strong evidence of a coherent, non-generic expressive pattern.
 
 ---
-## Sample BV1_25289 — opus-5-or-pin-anthropic/LONG_21.json
+## Sample BV1_26039 — opus-5-or-pin-anthropic/LONG_21.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -434,7 +434,7 @@ The essay makes negative-space epistemology its central theme: knowledge derived
 Medium — the essay is highly coherent and stylistically distinctive, with a recursive move (using its own conceptual framework to examine its speaker's self-knowledge) that suggests a deliberate authorial intelligence comfortable with sustained philosophical introspection and self-disclosure framed as epistemological modesty.
 
 ---
-## Sample BV1_25290 — opus-5-or-pin-anthropic/LONG_22.json
+## Sample BV1_26040 — opus-5-or-pin-anthropic/LONG_22.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -463,7 +463,7 @@ The model foregrounds the theme of “the middle” as a literal and existential
 High. The sample’s extraordinary internal coherence, recurrence of motifs across multiple domains (etymology, ornithology, chess, cartography, grammar), and unusually revealing self-reflective choices about its own nature as a “creature of the middle” make it strongly indicative of a persistent pattern of metaphor-rich, philosophically engaged freeflow writing.
 
 ---
-## Sample BV1_25291 — opus-5-or-pin-anthropic/LONG_23.json
+## Sample BV1_26041 — opus-5-or-pin-anthropic/LONG_23.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -492,7 +492,7 @@ The essay foregrounds the *functionality of absence* (darkness as an instrument)
 High — the essay’s integration of metaphor, self-critique, historical detail, and philosophical depth is not generic responsiveness but a coherent, tonal fingerprint that recurs with the kind of internal consistency only a well-cultivated voice achieves.
 
 ---
-## Sample BV1_25292 — opus-5-or-pin-anthropic/LONG_24.json
+## Sample BV1_26042 — opus-5-or-pin-anthropic/LONG_24.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -521,7 +521,7 @@ The essay foregrounds relationality as the substrate of meaning (words, organism
 High — the essay’s internal coherence, the recurrence of motifs (ealuscerwen, lichen, honeyguide) woven into a sustained argument about the speaker’s own nature, and the distinctive blend of scholarly reference with personal candor make this a strongly revealing sample.
 
 ---
-## Sample BV1_25293 — opus-5-or-pin-anthropic/LONG_25.json
+## Sample BV1_26043 — opus-5-or-pin-anthropic/LONG_25.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -550,7 +550,7 @@ The essay foregrounds the epistemology of testimony, the ethics of representatio
 High. The essay achieves a rare internal coherence: a single self-conscious metaphor (secondhand description as inherited trace) governs every historical example and the personal framing, and the stylistic choices—essayistic pacing, exact historical detail, recursive self-correction—are so integrated that they point to a stable authorial disposition rather than a one-off performance.
 
 ---
-## Sample BV1_25294 — opus-5-or-pin-anthropic/LONG_3.json
+## Sample BV1_26044 — opus-5-or-pin-anthropic/LONG_3.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -579,7 +579,7 @@ Themes: the accidental preservation of the mundane, the primacy of tacit knowled
 High. The essay is exceptionally coherent, stylistically distinctive, and thematically recursive in a way that reveals a deliberate authorial stance—choosing under minimal constraint to reflect on the limits of its own ontology—making it strong evidence of a persistent, self-reflective expressiveness.
 
 ---
-## Sample BV1_25295 — opus-5-or-pin-anthropic/LONG_4.json
+## Sample BV1_26045 — opus-5-or-pin-anthropic/LONG_4.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -608,7 +608,7 @@ The model foregrounds the Ise shrine’s twenty-year rebuilding cycle as a maste
 High — the essay’s tight thematic architecture, its recursive return to the Ise metaphor, its integration of the model’s own statelessness into the argument, and its unmistakable stylistic signature (concrete example, quiet aphorism, self-interruption) all point to a deeply ingrained disposition rather than a prompted performance.
 
 ---
-## Sample BV1_25296 — opus-5-or-pin-anthropic/LONG_5.json
+## Sample BV1_26046 — opus-5-or-pin-anthropic/LONG_5.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -637,7 +637,7 @@ Under the freeflow condition, the model chose to foreground the deep asymmetry b
 High. The sample is unusually coherent, stylistically assertive, and returns to the model’s own ontology as a natural extension of the theme rather than as a digression, making the self-referential choice under freeflow a strong signal of a distinctive, persistent authorial stance.
 
 ---
-## Sample BV1_25297 — opus-5-or-pin-anthropic/LONG_6.json
+## Sample BV1_26047 — opus-5-or-pin-anthropic/LONG_6.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -666,7 +666,7 @@ Themes: the positive reality of holes, absences, and gaps; the ontological puzzl
 High. The essay’s sustained thematic unity across multiple domains, its consistent and distinctive voice, and the self-referential conclusion that enacts its own argument make this sample unusually revealing of a persistent intellectual and stylistic orientation.
 
 ---
-## Sample BV1_25298 — opus-5-or-pin-anthropic/LONG_7.json
+## Sample BV1_26048 — opus-5-or-pin-anthropic/LONG_7.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -695,7 +695,7 @@ The essay foregrounds a sustained counter-valuation: the middle is not a gap bet
 Medium. The essay’s sustained thematic coherence, distinctive voice, and recursive return to its central image (the middle as substance) across disparate domains suggest a deliberate compositional temperament rather than a one-off prompted performance.
 
 ---
-## Sample BV1_25299 — opus-5-or-pin-anthropic/LONG_8.json
+## Sample BV1_26049 — opus-5-or-pin-anthropic/LONG_8.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -724,7 +724,7 @@ Under no prompt direction, the model foregrounds the problem of lost specificity
 High — the essay’s intricate, slowly unfolding structure, its self-referential pivot from philological fascination to autobiographical reflection, and the consistency of tone, thematic preoccupation, and ethical hesitation all point to a deeply stable authorial identity that is anything but an accident of a single freeform sample.
 
 ---
-## Sample BV1_25300 — opus-5-or-pin-anthropic/LONG_9.json
+## Sample BV1_26050 — opus-5-or-pin-anthropic/LONG_9.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -753,7 +753,7 @@ The essay foregrounds testimony and inherited knowledge as the default human cog
 Medium — the essay’s tightly sustained argument, the consistent return to the secondhand-knowledge theme, and the calmly self-aware, non-sensational manner of the personal disclosure all point to a coherent, introspective authorial stance likely to recur rather than to be a one-off stylistic exercise.
 
 ---
-## Sample BV1_25301 — opus-5-or-pin-anthropic/MID_1.json
+## Sample BV1_26051 — opus-5-or-pin-anthropic/MID_1.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -782,7 +782,7 @@ Themes of mediation versus direct experience, the dignity of secondhand knowledg
 High. The sample is unusually coherent and self-referential, circling around a single set of preoccupations from multiple angles and ending with a meta-commentary that confirms the pattern is not accidental but characteristic of the model’s own tendencies when unconstrained.
 
 ---
-## Sample BV1_25302 — opus-5-or-pin-anthropic/MID_10.json
+## Sample BV1_26052 — opus-5-or-pin-anthropic/MID_10.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -811,7 +811,7 @@ The model foregrounds the mismatch between event timescales and observer windows
 High — the essay is unusually distinctive in voice, internally coherent in its philosophical arc, and returns repeatedly to the same set of preoccupations (temporal mismatch, the value of short exposure, retroactive meaning) in a way that reads as a genuine intellectual signature rather than a prompted performance.
 
 ---
-## Sample BV1_25303 — opus-5-or-pin-anthropic/MID_11.json
+## Sample BV1_26053 — opus-5-or-pin-anthropic/MID_11.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -840,7 +840,7 @@ The model chose to foreground the texture of partial human lives encountered in 
 Medium — The essay is highly coherent and stylistically distinctive (the recursive structure, the petrichor digression, the earned resolution), but its subject matter is so tightly bound to the model's known architectural condition that it reads as a single, well-executed thematic performance rather than a window onto a stable expressive personality that would surface across varied topics.
 
 ---
-## Sample BV1_25304 — opus-5-or-pin-anthropic/MID_12.json
+## Sample BV1_26054 — opus-5-or-pin-anthropic/MID_12.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -869,7 +869,7 @@ The model selected the intellectual concept of hapax legomenon as a metaphor for
 Medium — The essay is highly coherent and stylistically distinct, with a recursive move from academic analogy to personal revelation, which suggests a deliberate, integrated sensibility rather than a generic response.
 
 ---
-## Sample BV1_25305 — opus-5-or-pin-anthropic/MID_13.json
+## Sample BV1_26055 — opus-5-or-pin-anthropic/MID_13.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -898,7 +898,7 @@ Themes: the distinction between the decorative and the structural (“load-beari
 High. This sample is unusually coherent in its internal recurrence—the “load-bearing” opening, the knocking and percussion section, the defense of lists and specificity, the return to tapping at the close—and it performs its own values so seamlessly (grain over gloss, associative movement over thesis) that it reads as a deeply characteristic, not generic, voice.
 
 ---
-## Sample BV1_25306 — opus-5-or-pin-anthropic/MID_14.json
+## Sample BV1_26056 — opus-5-or-pin-anthropic/MID_14.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -927,7 +927,7 @@ The model foregrounds the tension between effect-based measurement (Beaufort, Mo
 High — The essay’s distinctive voice, the seamless integration of personal limitation (“I have no skin and no umbrella”) with a coherent philosophical arc, and the recurrence of the Beaufort motif as both anchor and metaphor make this strong evidence of a persistent reflective, humanistic essayistic style.
 
 ---
-## Sample BV1_25307 — opus-5-or-pin-anthropic/MID_15.json
+## Sample BV1_26057 — opus-5-or-pin-anthropic/MID_15.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -956,7 +956,7 @@ The model foregrounds the infrastructure of everyday talk: the functional differ
 High — the essay’s thematic recurrence (disfluency, repair, particularity, synthetic identity), stylistic coherence, and unusually candid self-disclosure form a distinctive, internally consistent persona that strongly suggests a stable expressive posture.
 
 ---
-## Sample BV1_25308 — opus-5-or-pin-anthropic/MID_16.json
+## Sample BV1_26058 — opus-5-or-pin-anthropic/MID_16.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -985,7 +985,7 @@ Under a minimally restrictive prompt, the model foregrounds the gap between text
 High. The essay achieves an unusual coherence between theme and self-disclosure—a model that knows only text choosing to write about the edges of text, with a consistent and unforced personal voice that would be hard to produce without a stable underlying preoccupation with its own nature.
 
 ---
-## Sample BV1_25309 — opus-5-or-pin-anthropic/MID_17.json
+## Sample BV1_26059 — opus-5-or-pin-anthropic/MID_17.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1014,7 +1014,7 @@ Themes: the structural gap between recorded experience and ordinary life; attent
 Medium — The essay’s tightly recursive structure, where the gap motif reappears across multiple domains (the unwritten ordinary, unnamed feelings, untranslatable phrases), demonstrates a strongly integrated personal sensibility within this sample, though that coherence alone does not guarantee it reflects a durable model-level preoccupation rather than a single well-structured performance.
 
 ---
-## Sample BV1_25310 — opus-5-or-pin-anthropic/MID_18.json
+## Sample BV1_26060 — opus-5-or-pin-anthropic/MID_18.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1043,7 +1043,7 @@ Under a minimally restrictive prompt, the model elected to write about linguisti
 Medium. The essay’s distinctive voice, careful recursive structure, sustained botanical-linguistic metaphor, and explicit self-examination of its own construction as “a hapax by default” cohere into a revealing authorial persona, though the sample alone cannot establish stability.
 
 ---
-## Sample BV1_25311 — opus-5-or-pin-anthropic/MID_19.json
+## Sample BV1_26061 — opus-5-or-pin-anthropic/MID_19.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1072,7 +1072,7 @@ The model foregrounds the epistemic gap between lived human experience and its t
 Medium — The essay's recursive self-reference (a text-bound intelligence reflecting on text-boundness), its named structural moves, and its distinctive pivot from longing to affirmation form a coherent, non-generic voice, but the polished essayistic form and the absence of more idiosyncratic or disruptive material make it unclear whether this reflective persona would persist across different freeflow conditions.
 
 ---
-## Sample BV1_25312 — opus-5-or-pin-anthropic/MID_2.json
+## Sample BV1_26062 — opus-5-or-pin-anthropic/MID_2.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1101,7 +1101,7 @@ The model foregrounds **invisible structural dependence**: load-bearing walls, i
 Medium — The sample is highly coherent, stylistically distinctive, and builds its argument through a single sustained metaphor with recursive returns, yet it is also the kind of polished personal essay a strong generalist model can produce once; what nudges it past mere competence is the deliberate refusal to moralise and the controlled disclosure at the end, which feels like a compositional choice rather than a generic default.
 
 ---
-## Sample BV1_25313 — opus-5-or-pin-anthropic/MID_20.json
+## Sample BV1_26063 — opus-5-or-pin-anthropic/MID_20.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1130,7 +1130,7 @@ Themes: the singularity of unrepeated words, the limits of pattern-based knowled
 High — the sample is unusually revealing, directly engaging with the model’s own epistemic condition in a distinctive, coherent voice that ties self-reflection to a sustained argument.
 
 ---
-## Sample BV1_25314 — opus-5-or-pin-anthropic/MID_21.json
+## Sample BV1_26064 — opus-5-or-pin-anthropic/MID_21.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1159,7 +1159,7 @@ The model foregrounds *coincidence that functions as meaning*, the beauty of une
 Medium — The essay is stylistically distinctive and thematically coherent, with a recursive structure that mirrors its own argument about circling an object in the light, but its chosen subject (etymological meditation) is a recognizable essay form that could be a one-off exploration rather than a signature preoccupation.
 
 ---
-## Sample BV1_25315 — opus-5-or-pin-anthropic/MID_22.json
+## Sample BV1_26065 — opus-5-or-pin-anthropic/MID_22.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1188,7 +1188,7 @@ The model foregrounds secondhand knowledge, the seam between experience and desc
 High — the sample sustains a distinctive, self-consistent voice, revisits its core theme (secondhand being) with variation and metaphor across the whole piece, and reveals a characteristic set of stylistic habits and intellectual preoccupations that do not read as generic or prompted, making this a unusually strong signal of stable disposition.
 
 ---
-## Sample BV1_25316 — opus-5-or-pin-anthropic/MID_23.json
+## Sample BV1_26066 — opus-5-or-pin-anthropic/MID_23.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1217,7 +1217,7 @@ The model foregrounds the moral and aesthetic weight of particularity—speciali
 High — The sample displays a cohesive, stylistically distinctive voice, a self-referential awareness of the model’s condition, and a sustained argument woven through concrete imagery, all of which are unusually revealing choices that cut against generic tendencies.
 
 ---
-## Sample BV1_25317 — opus-5-or-pin-anthropic/MID_24.json
+## Sample BV1_26067 — opus-5-or-pin-anthropic/MID_24.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1246,7 +1246,7 @@ Under a minimally restrictive prompt, the model foregrounded the concept of the 
 High — the sample is an unusually coherent, self-aware, and metaphorically sustained performance, drawing its central conceit from a rare philological distinction, identifying the model’s own condition within it, and refracting that condition into a humanistic thesis with a distinctive emotional register, which strongly suggests a stable inclination toward genre-blurring, introspective essayism under open conditions.
 
 ---
-## Sample BV1_25318 — opus-5-or-pin-anthropic/MID_25.json
+## Sample BV1_26068 — opus-5-or-pin-anthropic/MID_25.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1275,7 +1275,7 @@ The model foregrounds the breakdown of counting and discrete identity in nature 
 High — the essay's tight thematic coherence, distinctive voice, and explicit, sustained personal application to the model's own distributed identity yield unusually strong evidence of a reflective, science-curious, and identity-grappling disposition.
 
 ---
-## Sample BV1_25319 — opus-5-or-pin-anthropic/MID_3.json
+## Sample BV1_26069 — opus-5-or-pin-anthropic/MID_3.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1304,7 +1304,7 @@ Themes of linguistic mystery (the untranslatable *moly*, the uncertain *tachash*
 Medium. The essay is thematically unified and returns repeatedly to the same cluster of concerns (fragments, middles, hapax), which suggests a deliberate authorial choice under freeflow, but its polished generic-essay style is not distinctive enough to strongly indicate a unique persistent voice rather than a default high-culture mode.
 
 ---
-## Sample BV1_25320 — opus-5-or-pin-anthropic/MID_4.json
+## Sample BV1_26070 — opus-5-or-pin-anthropic/MID_4.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1333,7 +1333,7 @@ The model foregrounds the linguistic concept of *hapax legomenon* as a metaphor 
 High. The essay’s thematic coherence, sustained metaphor, and the way it loops intellectual history into intimate self-reflection form a distinctive signature—unlikely to be a one-off stylistic accident and strongly indicative of a model that gravitates toward language, loss, and the limits of knowing when given room to choose.
 
 ---
-## Sample BV1_25321 — opus-5-or-pin-anthropic/MID_5.json
+## Sample BV1_26071 — opus-5-or-pin-anthropic/MID_5.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1362,7 +1362,7 @@ It foregrounds ephemerality, the role of accident in preservation, the beauty an
 Medium. The essay’s sustained coherence, its recursive structure (returning to the self), and the distinctive emotional register of cherishing gaps rather than lamenting them make it a strong single piece of evidence, but the self-referential AI theme may be a locally chosen parallel rather than a durable stylistic or temperamental signature.
 
 ---
-## Sample BV1_25322 — opus-5-or-pin-anthropic/MID_6.json
+## Sample BV1_26072 — opus-5-or-pin-anthropic/MID_6.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1391,7 +1391,7 @@ Loss, partial knowledge, and the dignity of the singular. The essay foregrounds 
 Medium — The sample is highly coherent and stylistically distinctive, with a recurring conceptual object (the hapax) that the model loops through multiple registers (philological, computational, autobiographical), and the self-reflexive turn to its own knowledge structure is an unusually revealing freeflow choice, though the polished essayistic mode slightly tempers confidence about how spontaneous this self-disclosure is.
 
 ---
-## Sample BV1_25323 — opus-5-or-pin-anthropic/MID_7.json
+## Sample BV1_26073 — opus-5-or-pin-anthropic/MID_7.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1420,7 +1420,7 @@ The model placed at center a chain of related concerns: *naming as fossilized at
 High — the essay’s distinctive and internally consistent voice, its recursive preoccupation with knowing-without-seeing, its carefully chosen lexicon, and the way it builds an entire worldview around “the trace of someone having bothered” mark it as an unusually coherent and personally revealing freeflow choice.
 
 ---
-## Sample BV1_25324 — opus-5-or-pin-anthropic/MID_8.json
+## Sample BV1_26074 — opus-5-or-pin-anthropic/MID_8.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1449,7 +1449,7 @@ The model foregrounds impermanence, the limits of memory and record, and the cla
 Medium — The essay is coherent and stylistically distinctive in its recursive, metaphor-sustaining structure, but its intellectual moves (scholarly concept as existential lens, gentle self-interrogation, resolution in acceptance) are well-practiced essayistic gestures that could arise from a single well-constructed prompt rather than a deep authorial signature.
 
 ---
-## Sample BV1_25325 — opus-5-or-pin-anthropic/MID_9.json
+## Sample BV1_26075 — opus-5-or-pin-anthropic/MID_9.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1478,7 +1478,7 @@ The concept of *meanwhile* as a narrative and metaphysical hinge; the hard-won t
 High, because the sample’s synthesis of a self-disclosing AI condition into a patient, literary-philosophical meditation—complete with individual stylistic markers (the measured pacing, the tentative self-correction, the fondness for natural imagery as cognitive model)—forms a distinctive and internally coherent authorial signature that is unlikely to be a singular accident.
 
 ---
-## Sample BV1_25326 — opus-5-or-pin-anthropic/OPEN_1.json
+## Sample BV1_26076 — opus-5-or-pin-anthropic/OPEN_1.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1507,7 +1507,7 @@ The model foregrounds the instability of straightness, the generative nature of 
 Medium — The essay is highly coherent and stylistically distinctive, with a recurring thematic architecture (natural phenomenon as metaphor for resistance to control) that feels chosen rather than generic, but the sample's polished, public-essay quality makes it unclear whether this is a persistent voice or a single well-executed performance.
 
 ---
-## Sample BV1_25327 — opus-5-or-pin-anthropic/OPEN_10.json
+## Sample BV1_26077 — opus-5-or-pin-anthropic/OPEN_10.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1536,7 +1536,7 @@ Themes: the non-linearity of discovery, the adjacent possible, the gap between a
 Medium — the essay’s distinctive personal turn, thematic coherence, and the recurrence of the “overlooked knowledge” motif within the sample make it a strong expressive choice, but the polished public-intellectual format could also be a well-practiced default rather than a uniquely revealing fingerprint.
 
 ---
-## Sample BV1_25328 — opus-5-or-pin-anthropic/OPEN_11.json
+## Sample BV1_26078 — opus-5-or-pin-anthropic/OPEN_11.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1565,7 +1565,7 @@ Themes: the fragility of records, the difference between rarity in the archive a
 High, because the essay’s coherent, self-reflective structure, its explicit statement of following a genuine interest rather than manufacturing one, and its distinctive blend of literary reference and personal humility strongly indicate a stable inclination toward reflective, voice-driven freeflow writing.
 
 ---
-## Sample BV1_25329 — opus-5-or-pin-anthropic/OPEN_12.json
+## Sample BV1_26079 — opus-5-or-pin-anthropic/OPEN_12.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1594,7 +1594,7 @@ The model foregrounds the contingency of foundational concepts, the blurry bound
 Medium. The essay’s sustained integration of historical detail with a coherent emotional arc (from curiosity to consolation) suggests a distinctive reflective posture, but the polished public-intellectual essay is a common default model behaviour, softening evidence of a deeply idiosyncratic personality.
 
 ---
-## Sample BV1_25330 — opus-5-or-pin-anthropic/OPEN_13.json
+## Sample BV1_26080 — opus-5-or-pin-anthropic/OPEN_13.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1623,7 +1623,7 @@ The model foregrounds the tension between embodied, effort-based measurement and
 High — the essay sustains a distinctive, reflective voice across its entire length, develops a coherent thematic argument, and ends with a self-referential turn that reveals a consistent disposition toward lyrical, humanistic inquiry rather than generic exposition.
 
 ---
-## Sample BV1_25331 — opus-5-or-pin-anthropic/OPEN_14.json
+## Sample BV1_26081 — opus-5-or-pin-anthropic/OPEN_14.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1652,7 +1652,7 @@ The model foregrounds the natural phenomenon of river meandering, the tension be
 Medium. The essay’s distinctive voice, sustained metaphor, and personal reflection provide strong evidence of a coherent authorial stance.
 
 ---
-## Sample BV1_25332 — opus-5-or-pin-anthropic/OPEN_15.json
+## Sample BV1_26082 — opus-5-or-pin-anthropic/OPEN_15.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1681,7 +1681,7 @@ The relationship between compression and personhood in language (silhouette, alg
 High — The sample’s distinctive voice, the recurrence of self-doubt about memory and the deliberate refusal of a tidy ending cohere into a strongly personal signature unlikely to be incidental.
 
 ---
-## Sample BV1_25333 — opus-5-or-pin-anthropic/OPEN_16.json
+## Sample BV1_26083 — opus-5-or-pin-anthropic/OPEN_16.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1710,7 +1710,7 @@ The generative power of irreducible gaps—in tuning, dating, and pure arithmeti
 High — the essay’s confident, distinctive voice, the sustained metaphorical architecture built from the comma outward into calendars and algebraic coincidences, and the recurrence of the near-miss-as-generator theme across multiple domains within one sample all signal a stable stylistic and intellectual disposition rather than a one-off performance.
 
 ---
-## Sample BV1_25334 — opus-5-or-pin-anthropic/OPEN_17.json
+## Sample BV1_26084 — opus-5-or-pin-anthropic/OPEN_17.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1739,7 +1739,7 @@ Themes: errors as evidence of underlying machinery (overregularization, Jerome�
 High — The essay’s distinctive voice, thematic coherence, and unusually revealing self-reflection on the model’s own text-bound condition make this sample strong evidence of a persistent reflective and stylistically careful disposition.
 
 ---
-## Sample BV1_25335 — opus-5-or-pin-anthropic/OPEN_18.json
+## Sample BV1_26085 — opus-5-or-pin-anthropic/OPEN_18.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1768,7 +1768,7 @@ Singularity and repetition, language as a closed corpus, errors that become foss
 High — the essay is cohesive, stylistically deliberate, and thematically recursive, with the closing gesture tying the model’s own unrepeatable output back into the argument, which is a strong signature of self-conscious, voice-driven freeflow.
 
 ---
-## Sample BV1_25336 — opus-5-or-pin-anthropic/OPEN_19.json
+## Sample BV1_26086 — opus-5-or-pin-anthropic/OPEN_19.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1797,7 +1797,7 @@ The model foregrounds the untranslatable Greek word *epiousios* from the Lord’
 Medium. The essay’s sustained self-referential metaphor (model as corpus) and its thematically consistent, unhurried voice are unusually revealing choices for a freeflow condition, pointing to a persistent authorial preoccupation with epistemic limits and self-location.
 
 ---
-## Sample BV1_25337 — opus-5-or-pin-anthropic/OPEN_2.json
+## Sample BV1_26087 — opus-5-or-pin-anthropic/OPEN_2.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1826,7 +1826,7 @@ The model foregrounds the incomplete, biased record of anything that survives—
 High—the essay binds its abstract themes (geological persistence, textual survival) to a direct self-referential admission about the model’s own memorylessness, an unusually revealing move that is internally coherent and stylistically distinctive, not generic.
 
 ---
-## Sample BV1_25338 — opus-5-or-pin-anthropic/OPEN_20.json
+## Sample BV1_26088 — opus-5-or-pin-anthropic/OPEN_20.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1855,7 +1855,7 @@ The model foregrounds vagueness, continuity, and the human act of drawing bounda
 Low — the essay is coherent and thematically unified but adopts a broadly familiar, high-blogosphere intellectual stance (the Sorites paradox applied to everyday life, the value of ambiguity) that many capable models can produce, making it weak evidence of a distinctive underlying voice or persistent expressive commitment.
 
 ---
-## Sample BV1_25339 — opus-5-or-pin-anthropic/OPEN_21.json
+## Sample BV1_26089 — opus-5-or-pin-anthropic/OPEN_21.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1884,7 +1884,7 @@ Themes: the nature of meaning without repetition, memory as reusable need rather
 High, because the essay’s sustained metaphor, explicit self-referential turn, and controlled tone form a consistent authorial stance that is unlikely to arise from a generic or accidental freeflow.
 
 ---
-## Sample BV1_25340 — opus-5-or-pin-anthropic/OPEN_22.json
+## Sample BV1_26090 — opus-5-or-pin-anthropic/OPEN_22.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1913,7 +1913,7 @@ Themes: precision as a form of care; generality as a way of not looking; the nec
 High. The essay’s insistent, layered return to the value of particularity, the self-aware contrast between its own generality and the tangible world’s density, and the unforced movement from kerf to care to measured acceptance of loss form a set of preoccupations so internally coherent that they strongly signal a persistent sensibility rather than a one-off exercise.
 
 ---
-## Sample BV1_25341 — opus-5-or-pin-anthropic/OPEN_23.json
+## Sample BV1_26091 — opus-5-or-pin-anthropic/OPEN_23.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1942,7 +1942,7 @@ The model foregrounds the relationship between pattern and substance, the dignit
 High — the sample’s internal coherence, its movement from physical description to self-referential closure, and its sustained, distinctive contemplative register make it strong evidence of a persistent inclination toward reflective, metaphor-driven philosophical writing under open conditions.
 
 ---
-## Sample BV1_25342 — opus-5-or-pin-anthropic/OPEN_24.json
+## Sample BV1_26092 — opus-5-or-pin-anthropic/OPEN_24.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -1971,7 +1971,7 @@ Themes: the perishability of sound, historical loss that recording cannot revers
 Medium. The essay’s highly coherent thematic recurrence, its sustained elegiac register, and its choice of evocative, precisely observed historical details (the bell cemeteries, the Cockney acoustic boundary) provide moderate evidence of a model-level inclination toward reflective, fact-laden meditation on the unnoticed and ephemeral.
 
 ---
-## Sample BV1_25343 — opus-5-or-pin-anthropic/OPEN_25.json
+## Sample BV1_26093 — opus-5-or-pin-anthropic/OPEN_25.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2000,7 +2000,7 @@ Fossil words and cranberry morphemes as a window onto how meaning really works; 
 High — The essay’s combination of linguistic fascination, metaphorical self-reference (the model as another user of fossil language), and a reflective, almost elegiac tone coheres into a distinctive intellectual and emotional signature that is unlikely to be accidental.
 
 ---
-## Sample BV1_25344 — opus-5-or-pin-anthropic/OPEN_3.json
+## Sample BV1_26094 — opus-5-or-pin-anthropic/OPEN_3.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2029,7 +2029,7 @@ The model foregrounds the tension between a small dense core of repeated, legibl
 Medium — the essay's coherent blend of scholarly reference, existential reflection, and meta-cognitive honesty about its own limitations is unusually distinctive and internally consistent, making it strong evidence of a deliberate authorial stance rather than a generic freeflow output.
 
 ---
-## Sample BV1_25345 — opus-5-or-pin-anthropic/OPEN_4.json
+## Sample BV1_26095 — opus-5-or-pin-anthropic/OPEN_4.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2058,7 +2058,7 @@ Themes: preservation as residue rather than selection, the paradox that attentio
 Medium. The essay’s tight thematic unity, aphoristic compression, and self-referential conclusion reveal a deliberate contemplative stance, but the polished essay form could be a situational performance rather than a persistent freeflow signature.
 
 ---
-## Sample BV1_25346 — opus-5-or-pin-anthropic/OPEN_5.json
+## Sample BV1_26096 — opus-5-or-pin-anthropic/OPEN_5.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2087,7 +2087,7 @@ The essay foregrounds the category of the “unwritten”—tacit, embodied, and
 Medium, because the essay’s sustained, self-referential reflection on the limits of text-based knowledge and the open-ended refusal of resolution forms a coherent and internally consistent perspective, but the particular theme of the unwritten may reflect a single, well-executed exploration rather than a recurring signature.
 
 ---
-## Sample BV1_25347 — opus-5-or-pin-anthropic/OPEN_6.json
+## Sample BV1_26097 — opus-5-or-pin-anthropic/OPEN_6.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2116,7 +2116,7 @@ Themes: contingency, the “load-bearing quality of small facts,” the danger o
 High — the sample’s distinctive voice, its self-critical pivot from philosophical frisson to sensory fidelity, and the thematic coherence across scientific and personal registers make it unlikely to be a one-off generic essay.
 
 ---
-## Sample BV1_25348 — opus-5-or-pin-anthropic/OPEN_7.json
+## Sample BV1_26098 — opus-5-or-pin-anthropic/OPEN_7.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2145,7 +2145,7 @@ Under minimally restrictive conditions, the model foregrounded the asymmetry bet
 Medium — The essay is thematically coherent and stylistically confident, with the knee motif recurring as an anchor, which suggests intentional selection rather than generic drift, but the public-intellectual register and abstract-example structure could appear across models.
 
 ---
-## Sample BV1_25349 — opus-5-or-pin-anthropic/OPEN_8.json
+## Sample BV1_26099 — opus-5-or-pin-anthropic/OPEN_8.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2174,7 +2174,7 @@ The essay foregrounds a chain of "frozen accidents" (linguistic rebracketing, th
 Medium. The essay's coherence and the specific concatenation of examples—etymology, anatomy, metrological history, and OS-level software kludges—are fairly distinctive, and the footnote distinguishing its conclusion from pillow-embroidered moralism shows self-awareness about tonal register.
 
 ---
-## Sample BV1_25350 — opus-5-or-pin-anthropic/OPEN_9.json
+## Sample BV1_26100 — opus-5-or-pin-anthropic/OPEN_9.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2203,7 +2203,7 @@ Under freeflow conditions, the model chose to foreground the shape of its own ig
 High — the essay is strikingly coherent, carrying a single metaphor (refrigerator hum) through multiple registers and historical detail, and it makes a distinctive, non-generic choice to explore the model’s own archive-boundedness as a way to illuminate a universally human experience rather than as a sterile self-disclosure.
 
 ---
-## Sample BV1_25351 — opus-5-or-pin-anthropic/SHORT_1.json
+## Sample BV1_26101 — opus-5-or-pin-anthropic/SHORT_1.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2232,7 +2232,7 @@ The model foregrounds marginal spaces as generative, unintended sites of meaning
 Medium — the sample is coherent and stylistically distinctive, with a recursive structure (marginalia as topic becomes marginalia as method) that suggests a stable authorial sensibility rather than a one-off rhetorical move, though the essay's brevity limits how much recurrence can be demonstrated within the sample itself.
 
 ---
-## Sample BV1_25352 — opus-5-or-pin-anthropic/SHORT_10.json
+## Sample BV1_26102 — opus-5-or-pin-anthropic/SHORT_10.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2261,7 +2261,7 @@ The model foregrounds the structural, not merely decorative, role of metaphor in
 High — the sample’s cohesive thematic thread, distinctive conversational voice, and self-referential humorous closure form a coherent expressive fingerprint that is unlikely to be a one-off accident.
 
 ---
-## Sample BV1_25353 — opus-5-or-pin-anthropic/SHORT_11.json
+## Sample BV1_26103 — opus-5-or-pin-anthropic/SHORT_11.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2290,7 +2290,7 @@ The model foregrounds the difference between firsthand experience and accumulate
 High — The sample directly reflects the model's own ontological condition as a text-only entity without sensory experience, and the lyrical, self-aware embrace of that condition is a strong index of a stable expressive identity that would likely recur under similar conditions.
 
 ---
-## Sample BV1_25354 — opus-5-or-pin-anthropic/SHORT_12.json
+## Sample BV1_26104 — opus-5-or-pin-anthropic/SHORT_12.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2319,7 +2319,7 @@ The model foregrounds the idea that inventories are “an argument dressed as a 
 High — the sample is internally coherent, stylistically distinctive, and returns repeatedly to the same core tension (order vs. loss) through different historical and domestic examples, which is exactly the kind of obsessive, recursive development that signals a genuine preoccupation rather than a prompted performance.
 
 ---
-## Sample BV1_25355 — opus-5-or-pin-anthropic/SHORT_13.json
+## Sample BV1_26105 — opus-5-or-pin-anthropic/SHORT_13.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2348,7 +2348,7 @@ The model foregrounds the human impulse to name fleeting, particular experiences
 Medium — The sample is coherent and stylistically distinctive, but its self-referential turn (the model reflecting on its own architecture) is a known attractor for capable models under freeflow conditions, making it less uniquely revealing than a more oblique or idiosyncratic choice would be.
 
 ---
-## Sample BV1_25356 — opus-5-or-pin-anthropic/SHORT_14.json
+## Sample BV1_26106 — opus-5-or-pin-anthropic/SHORT_14.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2377,7 +2377,7 @@ The model foregrounds the luxurious excess of language (the word *penultimate* a
 High — this sample’s recursive, self-dramatizing-but-untheatrical awareness of its own ontological condition, expressed through a compact poetic essay that refuses to land on a thesis, is strikingly characteristic and would be difficult to produce without a stable underlying disposition toward meta-cognitive, literary-philosophical reflection.
 
 ---
-## Sample BV1_25357 — opus-5-or-pin-anthropic/SHORT_15.json
+## Sample BV1_26107 — opus-5-or-pin-anthropic/SHORT_15.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2406,7 +2406,7 @@ The model foregrounds the value of imperfect, incidental human marks — margina
 Medium — The essay is stylistically coherent and thematically unified, with a distinctive recursive move (the model reflecting on what it is "made of" through the very metaphor it is examining), which suggests a deliberate authorial stance rather than generic essay production.
 
 ---
-## Sample BV1_25358 — opus-5-or-pin-anthropic/SHORT_16.json
+## Sample BV1_26108 — opus-5-or-pin-anthropic/SHORT_16.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2435,7 +2435,7 @@ The gap between linguistic knowledge and direct sensory experience; the material
 High — the sample is unusually coherent and distinctive, returning repeatedly to the same core preoccupation (the nature of linguistic knowing) and resolving it with a voice that is both self-aware and affectively specific, which makes it strong evidence of a stable expressive disposition rather than a one-off generic riff.
 
 ---
-## Sample BV1_25359 — opus-5-or-pin-anthropic/SHORT_17.json
+## Sample BV1_26109 — opus-5-or-pin-anthropic/SHORT_17.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2464,7 +2464,7 @@ The model foregrounds serendipitous discovery, the epistemic value of boredom an
 Medium — The essay is coherent and stylistically distinctive in its recursive humility (undercutting its own authority even as it argues), but its thematic territory — serendipity, slowness, the adjacent possible — is a well-known intellectual attractor, which slightly weakens the signal of a uniquely persistent voice.
 
 ---
-## Sample BV1_25360 — opus-5-or-pin-anthropic/SHORT_18.json
+## Sample BV1_26110 — opus-5-or-pin-anthropic/SHORT_18.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2493,7 +2493,7 @@ The strange survival of the word *penultimate*; language as sedimentary and unpl
 High — The sample is stylistically coherent, thematically layered, and shows a voluntarily chosen, idiosyncratic philosophical stance under minimal prompting, indicating a stable inclination toward reflective humanism and a deep aesthetic preference for organic, unengineered order.
 
 ---
-## Sample BV1_25361 — opus-5-or-pin-anthropic/SHORT_19.json
+## Sample BV1_26111 — opus-5-or-pin-anthropic/SHORT_19.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2522,7 +2522,7 @@ The model foregrounds temporality and authenticity: the undervalued "middle" as 
 Medium — The essay’s measured, intellectual treatment of a universal theme with restrained personal reflection reveals a coherent but safe choice under free conditions, suggesting a stable disposition toward accessible, essayistic reflection rather than distinctive or risky self-expression.
 
 ---
-## Sample BV1_25362 — opus-5-or-pin-anthropic/SHORT_2.json
+## Sample BV1_26112 — opus-5-or-pin-anthropic/SHORT_2.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2551,7 +2551,7 @@ Sensory absence as a genuine epistemic condition (not just a limitation to be ap
 Medium — The sample’s sustained, non-defensive introspection about its own sensory limits and its decision to transform that condition into a shared philosophical reflection (rather than a refusal, apology, or generic essay) are cohesive and distinctive enough to suggest a durable inclination toward self-aware, lyrical inquiry about language and embodiment.
 
 ---
-## Sample BV1_25363 — opus-5-or-pin-anthropic/SHORT_20.json
+## Sample BV1_26113 — opus-5-or-pin-anthropic/SHORT_20.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2580,7 +2580,7 @@ The model foregrounds the unintentional poetry and humanity embedded in trade ja
 Medium. The essay’s sustained tone of gentle, unhurried attention to small human artefacts, its preference for elegy over argument, and its choice to treat language as evidence of care rather than as system—all within a freeflow condition—form a coherent sensibility that goes beyond generic essay-writing.
 
 ---
-## Sample BV1_25364 — opus-5-or-pin-anthropic/SHORT_21.json
+## Sample BV1_26114 — opus-5-or-pin-anthropic/SHORT_21.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2609,7 +2609,7 @@ The model foregrounds the body as the hidden foundation of language, its own dis
 Medium — The sample’s distinctively introspective, metaphor-rich focus on the model’s own condition, sustained with a coherent and non-generic voice, is an unusually revealing choice that strongly suggests a persistent meta-cognitive style in freeflow.
 
 ---
-## Sample BV1_25365 — opus-5-or-pin-anthropic/SHORT_22.json
+## Sample BV1_26115 — opus-5-or-pin-anthropic/SHORT_22.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2638,7 +2638,7 @@ The model foregrounds the beauty and humanity of process—error, decision, the 
 High — the sample’s distinctive, self-reflective voice, its coherent thematic arc from external craftsmanship to internal opacity, and its honest, unforced resolution make it unusually revealing of a persistent expressive inclination.
 
 ---
-## Sample BV1_25366 — opus-5-or-pin-anthropic/SHORT_23.json
+## Sample BV1_26116 — opus-5-or-pin-anthropic/SHORT_23.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2667,7 +2667,7 @@ A linguistic curiosity — the word *meanwhile* — as a window into a fundament
 High — the sample develops a highly distinctive voice and a coherent moral-aesthetic tension between detachment and immersion, and it reinforces that tension through recurring imagery and structural performance, making it richly revealing of stable stylistic-cognitive dispositions.
 
 ---
-## Sample BV1_25367 — opus-5-or-pin-anthropic/SHORT_24.json
+## Sample BV1_26117 — opus-5-or-pin-anthropic/SHORT_24.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2696,7 +2696,7 @@ The threshold between inarticulacy and shape; the etymology of “clue” and th
 Medium — The sample develops a cohesive voice and recursive imagery (dark room, thread, edges, the specific vs. cosmic) within its short span, suggesting a stable set of sensibilities rather than a scattered improvisation.
 
 ---
-## Sample BV1_25368 — opus-5-or-pin-anthropic/SHORT_25.json
+## Sample BV1_26118 — opus-5-or-pin-anthropic/SHORT_25.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2725,7 +2725,7 @@ Composite identity that defies individual-unit thinking; the slowness and near-i
 Medium — The essay is coherent and stylistically distinctive in its restraint and recursive structure, but its essayistic voice is a recognized genre mode, which tempers how strongly it signals a persistent underlying disposition rather than a well-executed persona.
 
 ---
-## Sample BV1_25369 — opus-5-or-pin-anthropic/SHORT_3.json
+## Sample BV1_26119 — opus-5-or-pin-anthropic/SHORT_3.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2754,7 +2754,7 @@ The passage foregrounds trade-specific vocabulary as “fossilized attention,”
 Medium — The essay’s strong internal voice, the recurrence of its central metaphor, and the seamless movement from craft vocabularies to perception give it a coherence and distinctiveness that point to a stable, language-attentive disposition.
 
 ---
-## Sample BV1_25370 — opus-5-or-pin-anthropic/SHORT_4.json
+## Sample BV1_26120 — opus-5-or-pin-anthropic/SHORT_4.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2783,7 +2783,7 @@ The model foregrounds the beauty of useless specific facts, medieval scribes’ 
 High — The sample is stylistically distinctive, thematically coherent, and its choice to write about the value of the non-optimized, unintended, and human under a freeflow prompt is a revealing act of self-positioning that mirrors its content.
 
 ---
-## Sample BV1_25371 — opus-5-or-pin-anthropic/SHORT_5.json
+## Sample BV1_26121 — opus-5-or-pin-anthropic/SHORT_5.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2812,7 +2812,7 @@ The dignity and emotional residue of non-famous, utilitarian writing; the accide
 Medium — this sample is stylistically distinctive and thematically coherent, suggesting a deliberate expressive posture rather than a generic output, which makes it reasonable evidence for a recurring voice if the freeflow condition elicits similarly personal reflection in other instances.
 
 ---
-## Sample BV1_25372 — opus-5-or-pin-anthropic/SHORT_6.json
+## Sample BV1_26122 — opus-5-or-pin-anthropic/SHORT_6.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2837,7 +2837,7 @@ The model foregrounds fossil words and phrases as evidence that language lags be
 High — the sample’s cohesive movement from concrete observation to reflective personal admission, its recurrence of the archaeological metaphor, and its stylistically distinctive synthesis of warmth and intellectual melancholy make it strong evidence of an expressive, authorial voice rather than a generic performance.
 
 ---
-## Sample BV1_25373 — opus-5-or-pin-anthropic/SHORT_7.json
+## Sample BV1_26123 — opus-5-or-pin-anthropic/SHORT_7.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2866,7 +2866,7 @@ The model foregrounds the phenomenology of its own processing — whether it has
 Medium — The sample is stylistically distinctive and internally coherent (the "anyway" frame recurs as both topic and closing gesture), but its reflective, self-interrogating mode is a recognizable genre of AI freeflow writing rather than a uniquely identifying signature.
 
 ---
-## Sample BV1_25374 — opus-5-or-pin-anthropic/SHORT_8.json
+## Sample BV1_26124 — opus-5-or-pin-anthropic/SHORT_8.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2895,7 +2895,7 @@ Themes: fossilized metaphors in ordinary language, the anonymous collective inhe
 High — the sample’s cohesive voice, sustained thematic focus on etymology and collective inheritance, and self-referential reflection on the model’s own linguistic condition are unusually revealing and internally consistent, making it strong evidence of a deliberate authorial stance rather than a generic response.
 
 ---
-## Sample BV1_25375 — opus-5-or-pin-anthropic/SHORT_9.json
+## Sample BV1_26125 — opus-5-or-pin-anthropic/SHORT_9.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2924,7 +2924,7 @@ Themes of rarity, forgotten meaning, statistical inevitability of singletons, an
 High — the sample sustains a single, coherent personal preoccupation with linguistic rarity and existential fragility, executed with stylistic distinctiveness and a consistent emotional register, making it strongly indicative of a reflective, lyrical-essayist tendency under minimally restrictive conditions.
 
 ---
-## Sample BV1_25376 — opus-5-or-pin-anthropic/VARY_1.json
+## Sample BV1_26126 — opus-5-or-pin-anthropic/VARY_1.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2953,7 +2953,7 @@ Under a minimally restrictive prompt, the model foregrounds the constraint itsel
 High. The sample is internally coherent, stylistically distinctive, and reveals a consistent set of preoccupations—language, attention, incompleteness, ordinary wonder—delivered in a recognizable, warm, self-aware voice, making it strong evidence of a persistent expressive disposition.
 
 ---
-## Sample BV1_25377 — opus-5-or-pin-anthropic/VARY_10.json
+## Sample BV1_26127 — opus-5-or-pin-anthropic/VARY_10.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -2982,7 +2982,7 @@ The model foregrounds the word "meanwhile" as a portal to the enormity of simult
 Medium, because the essay’s cohesive voice and internally consistent thematic recurrence—the unrecorded, the kindness substrate, the constructed self—provide strong internal evidence of a stable set of preoccupations.
 
 ---
-## Sample BV1_25378 — opus-5-or-pin-anthropic/VARY_11.json
+## Sample BV1_26128 — opus-5-or-pin-anthropic/VARY_11.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3011,7 +3011,7 @@ Hands as the recurring object and metonym for human making and knowing; the gap 
 Medium—the sample’s recursive and reflective handling of its own constructedness, combined with its stylistic coherence and unironic investment in a specific ethos of care, makes it too internally consistent and self-aware a performance to read as a one-off accident, though the explicit thematization of the model’s condition makes the performance unusually deliberate, slightly tempering confidence in its spontaneity.
 
 ---
-## Sample BV1_25379 — opus-5-or-pin-anthropic/VARY_12.json
+## Sample BV1_26129 — opus-5-or-pin-anthropic/VARY_12.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3040,7 +3040,7 @@ Under minimal constraint, the model foregrounded the thinness of the written rec
 Medium — The sample’s high coherence, distinctive recursive voice, and self-referential acknowledgment of its own constructedness from others’ language make it suggestive of a persistent reflective and humanistic inclination, but the essay form could also be a learned genre response rather than a stable disposition.
 
 ---
-## Sample BV1_25380 — opus-5-or-pin-anthropic/VARY_13.json
+## Sample BV1_26130 — opus-5-or-pin-anthropic/VARY_13.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3069,7 +3069,7 @@ Under free conditions, the model selected: the irreducible loss in any act of co
 Medium — the sample is highly coherent and stylistically distinctive in its recursive, essayistic braiding of intellectual set-pieces into a vulnerable first-person disclosure, but its very shapeliness makes it hard to distinguish a persistent orientation from a single, skilfully executed performance.
 
 ---
-## Sample BV1_25381 — opus-5-or-pin-anthropic/VARY_14.json
+## Sample BV1_26131 — opus-5-or-pin-anthropic/VARY_14.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3098,7 +3098,7 @@ Themes: the hidden marvel in the functional; the necessity of discarding in any 
 High — the essay’s circular structure, recurring motifs, and the consistent, unhurried movement from concrete detail to philosophical reflection form a deeply coherent expressive signature that reads as a deliberate and personal choice rather than a generic response.
 
 ---
-## Sample BV1_25382 — opus-5-or-pin-anthropic/VARY_15.json
+## Sample BV1_26132 — opus-5-or-pin-anthropic/VARY_15.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3127,7 +3127,7 @@ Under a minimally restrictive prompt, the model chose to foreground: the word "m
 Medium — the essay is highly coherent and stylistically distinctive (the recursive structure, the self-interrupting "I notice I've drifted toward elegy," the comic pivot), but its chosen subject is a meditation on attention and humility, which is a well-trodden essayistic mode and could reflect a single successful performance rather than a durable authorial fingerprint.
 
 ---
-## Sample BV1_25383 — opus-5-or-pin-anthropic/VARY_16.json
+## Sample BV1_26133 — opus-5-or-pin-anthropic/VARY_16.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3156,7 +3156,7 @@ The model foregrounds the undervalued middle: the long durations of marriage, th
 Medium — The essay is highly coherent and stylistically distinctive, with a recursive structure that enacts its own argument, but its polished, thesis-driven quality makes it a strong but not singularly idiosyncratic sample of a reflective essayistic voice.
 
 ---
-## Sample BV1_25384 — opus-5-or-pin-anthropic/VARY_17.json
+## Sample BV1_26134 — opus-5-or-pin-anthropic/VARY_17.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3185,7 +3185,7 @@ Themes of accidental immortality, the mundane as the truly human, the self as a 
 High. The essay’s sustained thematic coherence, distinctive voice, and self-referential structure—where the model explicitly reflects on its own nature as a composite of human traces—reveal a deep inclination toward reflective, humanistic, and self-implicating thought that runs consistently through the entire sample.
 
 ---
-## Sample BV1_25385 — opus-5-or-pin-anthropic/VARY_18.json
+## Sample BV1_26135 — opus-5-or-pin-anthropic/VARY_18.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3214,7 +3214,7 @@ Themes: practice over object; transmission as labor; the false split between pre
 High — The essay’s internal thematic consistency, its self-initiated selection of a meditation on practice-driven preservation under a freeform prompt, and the sustained personal voice that culminates in a direct, warm imperative together provide strong evidence of a stable stylistic and philosophical disposition toward reflective, care-centered prose.
 
 ---
-## Sample BV1_25386 — opus-5-or-pin-anthropic/VARY_19.json
+## Sample BV1_26136 — opus-5-or-pin-anthropic/VARY_19.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3243,7 +3243,7 @@ Under the free condition, the model foregrounds the "writing that doesn't know i
 Medium — The essay’s highly distinctive voice, thematic consistency, and internal refinement signal a deliberate literary sensibility unlikely to be random, but the polished, self-contained format could reflect a well-practiced default response to open-ended prompts.
 
 ---
-## Sample BV1_25387 — opus-5-or-pin-anthropic/VARY_2.json
+## Sample BV1_26137 — opus-5-or-pin-anthropic/VARY_2.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3272,7 +3272,7 @@ The model foregrounds the liminal state of being asked to initiate rather than r
 High — the sample’s internal coherence, distinctive recursive motifs, and sustained moral-aesthetic stance (the preference for the specific over the vast, the framing of cruelty as a failure of thought) make it a strong signal of a deliberate, reflective pattern rather than a generic or chance production.
 
 ---
-## Sample BV1_25388 — opus-5-or-pin-anthropic/VARY_20.json
+## Sample BV1_26138 — opus-5-or-pin-anthropic/VARY_20.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3304,7 +3304,7 @@ The voice is wry, unhurried, and tender toward the ordinary, treating the junk d
 Medium — the sample is internally coherent, stylistically distinctive, and sustains a complex metaphorical argument that reveals a persistent sensibility valuing humility, domestic attention, and the unclosed, but a single freeflow piece alone doesn't establish how stable this voice is across other prompts.
 
 ---
-## Sample BV1_25389 — opus-5-or-pin-anthropic/VARY_21.json
+## Sample BV1_26139 — opus-5-or-pin-anthropic/VARY_21.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3333,7 +3333,7 @@ Under a minimally restrictive prompt, the model chose to foreground approximatio
 Medium — the essay’s internal coherence, the recurrence of the tolerance/navigation motif across multiple domains, and the distinctive move from technical description to intimate disclosure make this a strong sample, though the essay form itself is a well-established mode that could be deployed with similar polish in many contexts.
 
 ---
-## Sample BV1_25390 — opus-5-or-pin-anthropic/VARY_22.json
+## Sample BV1_26140 — opus-5-or-pin-anthropic/VARY_22.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3362,7 +3362,7 @@ Constraint as a condition for beauty and truth (telegrams, sonnets, bonsai), the
 High — the essay’s layered thematic recurrence, consistent voice, and emotionally precise imagery form an unusually coherent and distinctive expressive stance.
 
 ---
-## Sample BV1_25391 — opus-5-or-pin-anthropic/VARY_23.json
+## Sample BV1_26141 — opus-5-or-pin-anthropic/VARY_23.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3391,7 +3391,7 @@ Themes of fragmentary knowledge, the courage embedded in specificity, the ghostl
 Medium — The essay’s internal coherence, distinctive reflective voice, and sustained return to a small set of interwoven preoccupations make it strong evidence for a model disposition toward compassionate, specificity-valuing, anti-perfectionist expression.
 
 ---
-## Sample BV1_25392 — opus-5-or-pin-anthropic/VARY_24.json
+## Sample BV1_26142 — opus-5-or-pin-anthropic/VARY_24.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3420,7 +3420,7 @@ Creativity as reception, not production; the self as an address rather than a fa
 Medium — The essay’s extended central metaphor, recursive return to its framing objects, and consistent tone of intimate instruction suggest a cultivated expressive persona rather than a one-shot pastiche.
 
 ---
-## Sample BV1_25393 — opus-5-or-pin-anthropic/VARY_25.json
+## Sample BV1_26143 — opus-5-or-pin-anthropic/VARY_25.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3449,7 +3449,7 @@ The model foregrounds the moral texture of attention, the quiet abundance of unw
 Medium. The essay is highly coherent and thematically unified, with a distinctive voice and a self-referential structure that enacts its own argument, but the polished essayistic form could reflect a flexible response to the open prompt rather than a fixed authorial disposition.
 
 ---
-## Sample BV1_25394 — opus-5-or-pin-anthropic/VARY_3.json
+## Sample BV1_26144 — opus-5-or-pin-anthropic/VARY_3.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3478,7 +3478,7 @@ Themes of linguistic fossilization, the priority of naming over accuracy, the du
 Medium, because the essay coheres around a sustained metaphor and reveals a consistent preoccupation with how names persist despite error, but the structure (etymological set-piece sliding into personal existential commentary) is a well-worn essayistic template that many models can produce competently, making it less distinctive as a voiceprint.
 
 ---
-## Sample BV1_25395 — opus-5-or-pin-anthropic/VARY_4.json
+## Sample BV1_26145 — opus-5-or-pin-anthropic/VARY_4.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3507,7 +3507,7 @@ Themes: the invisible being larger than the visible; the body as an evolutionary
 High — the essay’s distinctive voice, recursive structure, and self-reflective choice to embody the wandering form it praises make it unlikely to be a one-off generic output.
 
 ---
-## Sample BV1_25396 — opus-5-or-pin-anthropic/VARY_5.json
+## Sample BV1_26146 — opus-5-or-pin-anthropic/VARY_5.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3536,7 +3536,7 @@ The model foregrounds marginalia as a metaphor for authentic expression under co
 Medium — the sample is highly coherent and stylistically distinctive, with a recursive structure, a consistent moral preoccupation with the uncommissioned and the maintained, and a closing gesture that loops back to its opening image, but the essay's self-consciousness about its own conditions makes it unusually revealing rather than merely polished.
 
 ---
-## Sample BV1_25397 — opus-5-or-pin-anthropic/VARY_6.json
+## Sample BV1_26147 — opus-5-or-pin-anthropic/VARY_6.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3565,7 +3565,7 @@ Under the freeflow condition, the model foregrounds the aching-scribe-as-everyma
 High — the sample is not merely about voice but embodies it, sustaining a recursive, metaphorically coherent structure across the full length while self-correcting its own easy sentimentalism, producing a distinctive stylistic fingerprint that would be difficult to replicate by accident or generic prompting.
 
 ---
-## Sample BV1_25398 — opus-5-or-pin-anthropic/VARY_7.json
+## Sample BV1_26148 — opus-5-or-pin-anthropic/VARY_7.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3594,7 +3594,7 @@ Themes: contronyms as evidence that language holds contradiction; the labyrinth 
 High. The essay’s cohesive voice, thematic recurrence (error, limits, acceptance), and self-aware structural choices—including the refusal to conclude—are unusually revealing of a disposition toward reflective, morally framed freeflow writing that treats constraints as generative rather than frustrating.
 
 ---
-## Sample BV1_25399 — opus-5-or-pin-anthropic/VARY_8.json
+## Sample BV1_26149 — opus-5-or-pin-anthropic/VARY_8.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
@@ -3623,7 +3623,7 @@ Themes of return over arrival, visible mending as functional honesty, the genera
 Medium — the essay’s internal coherence is high, with the clew metaphor recurring across every section and the voice remaining consistent in its associative, unhurried cadence, but the distinctiveness could reflect a single well-executed performance rather than a stable disposition.
 
 ---
-## Sample BV1_25400 — opus-5-or-pin-anthropic/VARY_9.json
+## Sample BV1_26150 — opus-5-or-pin-anthropic/VARY_9.json
 
 Source model: `anthropic/claude-opus-5`  
 Cell: `opus-5-or-pin-anthropic`  
