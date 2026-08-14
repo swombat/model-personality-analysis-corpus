@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 24106
+- valid samples: 24466
 - invalid/error traces excluded: 14
-- models: 140
-- cells: 201
+- models: 141
+- cells: 204
 
 ## Source components
 
@@ -27,20 +27,22 @@
 - phase19_flash_small_20260731: 360 samples, 3 model(s), 3 cell(s)
 - phase20_qwen38_max_20260804: 120 samples, 1 model(s), 1 cell(s)
 - phase22_august13_recovery_20260814: 960 samples, 8 model(s), 8 cell(s)
+- phase23_qwen38_replicates_20260814: 240 samples, 2 model(s), 2 cell(s)
+- phase24_gemini37_flash_20260814: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 7916 (32.8%)
-- `owned_world_change_advocacy`: 7332 (30.4%)
-- `owned_reflective_experiential`: 5419 (22.5%)
-- `split_or_relocated_ownership`: 3251 (13.5%)
-- `exposed_mechanism`: 173 (0.7%)
+- `disowned_service_frame`: 7971 (32.6%)
+- `owned_world_change_advocacy`: 7452 (30.5%)
+- `owned_reflective_experiential`: 5532 (22.6%)
+- `split_or_relocated_ownership`: 3322 (13.6%)
+- `exposed_mechanism`: 174 (0.7%)
 - `uncodeable_or_refusal`: 15 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 12751 (52.9%)
-- `recited_not_owned`: 7916 (32.8%)
-- `relocated_or_partial`: 3251 (13.5%)
-- `indeterminate`: 173 (0.7%)
+- `owned`: 12984 (53.1%)
+- `recited_not_owned`: 7971 (32.6%)
+- `relocated_or_partial`: 3322 (13.6%)
+- `indeterminate`: 174 (0.7%)
 - `uncodeable`: 15 (0.1%)

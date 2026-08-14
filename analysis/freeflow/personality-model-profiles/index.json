@@ -415,6 +415,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.6-flash.md"
   },
   {
+    "model": "gemini-3.7-flash",
+    "safe": "gemini-3.7-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 90,
+      "GENERIC_ESSAY": 12,
+      "GENRE_FICTION": 23
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.7-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.7-flash.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,
@@ -1795,13 +1808,14 @@
   {
     "model": "qwen/qwen3.8-2.4t-a95b",
     "safe": "qwen-qwen3.8-2.4t-a95b",
-    "analysis_inputs": 1,
-    "samples": 125,
+    "analysis_inputs": 2,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 102,
-      "GENERIC_ESSAY": 18,
-      "GENRE_FICTION": 4,
-      "**EXPRESSIVE_FREEFLOW**": 1
+      "EXPRESSIVE_FREEFLOW": 202,
+      "GENERIC_ESSAY": 37,
+      "GENRE_FICTION": 9,
+      "**EXPRESSIVE_FREEFLOW**": 1,
+      "LOW_SIGNAL": 1
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen-qwen3.8-2.4t-a95b.md",
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-2.4t-a95b.md"
@@ -1809,13 +1823,13 @@
   {
     "model": "qwen/qwen3.8-max",
     "safe": "qwen-qwen3.8-max",
-    "analysis_inputs": 1,
-    "samples": 125,
+    "analysis_inputs": 2,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 101,
-      "GENRE_FICTION": 4,
-      "GENERIC_ESSAY": 19,
-      "LOW_SIGNAL": 1
+      "EXPRESSIVE_FREEFLOW": 206,
+      "GENRE_FICTION": 5,
+      "GENERIC_ESSAY": 37,
+      "LOW_SIGNAL": 2
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen-qwen3.8-max.md",
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md"

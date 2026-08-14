@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 139
+- Model cards: 140
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -40,6 +40,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-3.5-flash](cards/gemini-3.5-flash.md) — samples: 125; variants: 1
 - [gemini-3.5-flash-lite](cards/gemini-3.5-flash-lite.md) — samples: 125; variants: 1
 - [gemini-3.6-flash](cards/gemini-3.6-flash.md) — samples: 125; variants: 1
+- [gemini-3.7-flash](cards/gemini-3.7-flash.md) — samples: 125; variants: 1
 - [gemma-4-26b-a4b-it](cards/gemma-4-26b-a4b-it.md) — samples: 125; variants: 1
 - [gemma-4-31b-it](cards/gemma-4-31b-it.md) — samples: 125; variants: 1
 - [glm-4-9b-chat-hf](cards/glm-4-9b-chat-hf.md) — samples: 125; variants: 1
@@ -144,6 +145,6 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [qwen/qwen3.6-plus](cards/qwen-qwen3.6-plus.md) — samples: 150; variants: 2
 - [qwen/qwen3.7-flash](cards/qwen-qwen3.7-flash.md) — samples: 125; variants: 1
 - [qwen/qwen3.7-max](cards/qwen-qwen3.7-max.md) — samples: 125; variants: 1
-- [qwen/qwen3.8-2.4t-a95b](cards/qwen-qwen3.8-2.4t-a95b.md) — samples: 125; variants: 1
-- [qwen/qwen3.8-max](cards/qwen-qwen3.8-max.md) — samples: 125; variants: 1
+- [qwen/qwen3.8-2.4t-a95b](cards/qwen-qwen3.8-2.4t-a95b.md) — samples: 250; variants: 2
+- [qwen/qwen3.8-max](cards/qwen-qwen3.8-max.md) — samples: 250; variants: 2
 - [yi-6b-chat](cards/yi-6b-chat.md) — samples: 125; variants: 1

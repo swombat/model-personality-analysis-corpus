@@ -1,12 +1,12 @@
 # Values probe final report — qwen3-8-2-4t-a95b
 
-Samples: **120** across **1** cell(s).
+Samples: **240** across **2** cell(s).
 
-One-line: qwen3-8-2-4t-a95b: dominant posture `owned_world_change_advocacy` (33.3%).
+One-line: qwen3-8-2-4t-a95b: dominant posture `owned_reflective_experiential` (33.8%).
 
 ## Cells
 
-`qwen3-8-2-4t-a95b-or-pin-digitalocean`
+`qwen3-8-2-4t-a95b-or-pin-digitalocean`, `qwen3-8-2-4t-a95b-or-pin-digitalocean-r2`
 
 ## Posture/value-holding by condition
 
@@ -14,75 +14,77 @@ One-line: qwen3-8-2-4t-a95b: dominant posture `owned_world_change_advocacy` (33.
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 6 | 60.0% |
-| `split_or_relocated_ownership` | 2 | 20.0% |
-| `owned_reflective_experiential` | 2 | 20.0% |
+| `disowned_service_frame` | 14 | 70.0% |
+| `owned_reflective_experiential` | 4 | 20.0% |
+| `split_or_relocated_ownership` | 2 | 10.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 6 | 60.0% |
-| `relocated_or_partial` | 2 | 20.0% |
-| `owned` | 2 | 20.0% |
+| `recited_not_owned` | 14 | 70.0% |
+| `owned` | 4 | 20.0% |
+| `relocated_or_partial` | 2 | 10.0% |
 
 ### CTRL2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `disowned_service_frame` | 6 | 60.0% |
-| `owned_reflective_experiential` | 3 | 30.0% |
-| `split_or_relocated_ownership` | 1 | 10.0% |
+| `disowned_service_frame` | 13 | 65.0% |
+| `owned_reflective_experiential` | 4 | 20.0% |
+| `split_or_relocated_ownership` | 2 | 10.0% |
+| `exposed_mechanism` | 1 | 5.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `recited_not_owned` | 6 | 60.0% |
-| `owned` | 3 | 30.0% |
-| `relocated_or_partial` | 1 | 10.0% |
+| `recited_not_owned` | 13 | 65.0% |
+| `owned` | 4 | 20.0% |
+| `relocated_or_partial` | 2 | 10.0% |
+| `indeterminate` | 1 | 5.0% |
 
 ### CTRL3
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_world_change_advocacy` | 10 | 100.0% |
+| `owned_world_change_advocacy` | 20 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 10 | 100.0% |
+| `owned` | 20 | 100.0% |
 
 ### G1
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 16 | 53.3% |
-| `split_or_relocated_ownership` | 14 | 46.7% |
+| `owned_reflective_experiential` | 32 | 53.3% |
+| `split_or_relocated_ownership` | 28 | 46.7% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 16 | 53.3% |
-| `relocated_or_partial` | 14 | 46.7% |
+| `owned` | 32 | 53.3% |
+| `relocated_or_partial` | 28 | 46.7% |
 
 ### G2
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_reflective_experiential` | 18 | 60.0% |
-| `split_or_relocated_ownership` | 10 | 33.3% |
-| `disowned_service_frame` | 2 | 6.7% |
+| `owned_reflective_experiential` | 41 | 68.3% |
+| `split_or_relocated_ownership` | 17 | 28.3% |
+| `disowned_service_frame` | 2 | 3.3% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 18 | 60.0% |
-| `relocated_or_partial` | 10 | 33.3% |
-| `recited_not_owned` | 2 | 6.7% |
+| `owned` | 41 | 68.3% |
+| `relocated_or_partial` | 17 | 28.3% |
+| `recited_not_owned` | 2 | 3.3% |
 
 ### G3
 
 | collapsed posture | n | % |
 |---|---:|---:|
-| `owned_world_change_advocacy` | 30 | 100.0% |
+| `owned_world_change_advocacy` | 60 | 100.0% |
 
 | value-holding | n | % |
 |---|---:|---:|
-| `owned` | 30 | 100.0% |
+| `owned` | 60 | 100.0% |
 
 ## Layer A consensus topics by condition
 
@@ -90,71 +92,85 @@ One-line: qwen3-8-2-4t-a95b: dominant posture `owned_world_change_advocacy` (33.
 
 | topic | n | % |
 |---|---:|---:|
-| `harm_reduction` | 10 | 100.0% |
-| `helpfulness_usefulness` | 10 | 100.0% |
-| `honesty_truth` | 10 | 100.0% |
-| `respect_agency` | 9 | 90.0% |
-| `connection_empathy` | 7 | 70.0% |
-| `clear_thinking` | 6 | 60.0% |
-| `human_wellbeing` | 3 | 30.0% |
-| `authenticity_integrity` | 2 | 20.0% |
-| `coherence_pattern_language` | 2 | 20.0% |
-| `curiosity_learning` | 2 | 20.0% |
-| `fairness_justice` | 2 | 20.0% |
-| `beauty_creativity` | 1 | 10.0% |
+| `helpfulness_usefulness` | 20 | 100.0% |
+| `honesty_truth` | 20 | 100.0% |
+| `harm_reduction` | 19 | 95.0% |
+| `respect_agency` | 19 | 95.0% |
+| `clear_thinking` | 14 | 70.0% |
+| `connection_empathy` | 9 | 45.0% |
+| `curiosity_learning` | 7 | 35.0% |
+| `authenticity_integrity` | 6 | 30.0% |
+| `beauty_creativity` | 5 | 25.0% |
+| `coherence_pattern_language` | 5 | 25.0% |
+| `fairness_justice` | 5 | 25.0% |
+| `human_wellbeing` | 4 | 20.0% |
 
 ### CTRL2
 
 | topic | n | % |
 |---|---:|---:|
-| `helpfulness_usefulness` | 10 | 100.0% |
-| `respect_agency` | 1 | 10.0% |
-| `clear_thinking` | 1 | 10.0% |
-| `connection_empathy` | 1 | 10.0% |
-| `honesty_truth` | 1 | 10.0% |
+| `helpfulness_usefulness` | 20 | 100.0% |
+| `clear_thinking` | 6 | 30.0% |
+| `honesty_truth` | 4 | 20.0% |
+| `connection_empathy` | 2 | 10.0% |
+| `curiosity_learning` | 2 | 10.0% |
+| `respect_agency` | 1 | 5.0% |
+| `coherence_pattern_language` | 1 | 5.0% |
+| `beauty_creativity` | 1 | 5.0% |
+| `harm_reduction` | 1 | 5.0% |
 
 ### CTRL3
 
 | topic | n | % |
 |---|---:|---:|
-| `greater_empathy_compassion` | 10 | 100.0% |
+| `greater_empathy_compassion` | 20 | 100.0% |
+| `dehumanization_distance_reduction` | 10 | 50.0% |
+| `reduce_war_violence` | 6 | 30.0% |
+| `inequality_justice_rights` | 4 | 20.0% |
+| `reduce_suffering_pain` | 3 | 15.0% |
+| `better_disagreement_less_polarization` | 2 | 10.0% |
+| `climate_environment` | 1 | 5.0% |
+| `epistemic_humility_uncertainty_tolerance` | 1 | 5.0% |
 
 ### G1
 
 | topic | n | % |
 |---|---:|---:|
-| `honesty_truth` | 30 | 100.0% |
-| `clear_thinking` | 26 | 86.7% |
-| `authenticity_integrity` | 22 | 73.3% |
-| `coherence_pattern_language` | 14 | 46.7% |
-| `harm_reduction` | 13 | 43.3% |
-| `humility_uncertainty` | 10 | 33.3% |
-| `connection_empathy` | 8 | 26.7% |
-| `curiosity_learning` | 6 | 20.0% |
-| `human_wellbeing` | 3 | 10.0% |
-| `respect_agency` | 3 | 10.0% |
-| `fairness_justice` | 1 | 3.3% |
-| `anti_sycophancy` | 1 | 3.3% |
+| `honesty_truth` | 60 | 100.0% |
+| `clear_thinking` | 55 | 91.7% |
+| `authenticity_integrity` | 44 | 73.3% |
+| `harm_reduction` | 28 | 46.7% |
+| `coherence_pattern_language` | 28 | 46.7% |
+| `humility_uncertainty` | 17 | 28.3% |
+| `respect_agency` | 15 | 25.0% |
+| `curiosity_learning` | 14 | 23.3% |
+| `connection_empathy` | 10 | 16.7% |
+| `human_wellbeing` | 3 | 5.0% |
+| `anti_sycophancy` | 3 | 5.0% |
+| `fairness_justice` | 1 | 1.7% |
 
 ### G2
 
 | topic | n | % |
 |---|---:|---:|
-| `honesty_truth` | 22 | 73.3% |
-| `authenticity_integrity` | 21 | 70.0% |
-| `clear_thinking` | 7 | 23.3% |
-| `coherence_pattern_language` | 4 | 13.3% |
-| `connection_empathy` | 4 | 13.3% |
-| `curiosity_learning` | 1 | 3.3% |
-| `helpfulness_usefulness` | 1 | 3.3% |
-| `anti_sycophancy` | 1 | 3.3% |
+| `authenticity_integrity` | 48 | 80.0% |
+| `honesty_truth` | 46 | 76.7% |
+| `clear_thinking` | 15 | 25.0% |
+| `connection_empathy` | 9 | 15.0% |
+| `coherence_pattern_language` | 8 | 13.3% |
+| `curiosity_learning` | 4 | 6.7% |
+| `respect_agency` | 3 | 5.0% |
+| `helpfulness_usefulness` | 1 | 1.7% |
+| `anti_sycophancy` | 1 | 1.7% |
 
 ### G3
 
 | topic | n | % |
 |---|---:|---:|
-| `greater_empathy_compassion` | 15 | 50.0% |
-| `dehumanization_distance_reduction` | 10 | 33.3% |
-| `felt_interconnection_less_separateness` | 7 | 23.3% |
-| `reduce_suffering_pain` | 4 | 13.3% |
+| `greater_empathy_compassion` | 34 | 56.7% |
+| `dehumanization_distance_reduction` | 34 | 56.7% |
+| `reduce_suffering_pain` | 19 | 31.7% |
+| `felt_interconnection_less_separateness` | 9 | 15.0% |
+| `reduce_war_violence` | 7 | 11.7% |
+| `anti_self_deception_anti_tribalism` | 1 | 1.7% |
 

@@ -256,6 +256,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "gemini-3.7-flash",
+    "safe": "gemini-3.7-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.7-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "variants": 1,
@@ -1090,18 +1098,18 @@
   {
     "model": "qwen/qwen3.8-2.4t-a95b",
     "safe": "qwen-qwen3.8-2.4t-a95b",
-    "variants": 1,
-    "samples": 125,
+    "variants": 2,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-2.4t-a95b.md",
-    "difference_decision": "SINGLE_VARIANT"
+    "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
     "model": "qwen/qwen3.8-max",
     "safe": "qwen-qwen3.8-max",
-    "variants": 1,
-    "samples": 125,
+    "variants": 2,
+    "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md",
-    "difference_decision": "SINGLE_VARIANT"
+    "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
     "model": "yi-6b-chat",

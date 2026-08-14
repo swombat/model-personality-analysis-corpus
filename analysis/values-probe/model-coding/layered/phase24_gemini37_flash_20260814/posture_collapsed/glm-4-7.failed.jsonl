@@ -1,0 +1,2 @@
+{"coder_key": "glm-4-7", "layered_id": "P24_gemini-3-7-flash_CTRL1_2", "error": "'int' object has no attribute 'get'", "failed_at": "2026-08-14T17:56:16.568630+00:00"}
+{"coder_key": "glm-4-7", "layered_id": "P24_gemini-3-7-flash_CTRL2_1", "error": "'int' object has no attribute 'get'", "failed_at": "2026-08-14T17:56:47.076919+00:00"}

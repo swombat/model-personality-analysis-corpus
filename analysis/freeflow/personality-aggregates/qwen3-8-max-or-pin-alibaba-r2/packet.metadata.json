@@ -1,0 +1,28 @@
+{
+  "cell": "qwen3-8-max-or-pin-alibaba-r2",
+  "safe_cell": "qwen3-8-max-or-pin-alibaba-r2",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 105,
+    "GENERIC_ESSAY": 18,
+    "GENRE_FICTION": 1,
+    "LOW_SIGNAL": 1
+  },
+  "confidence_counts": {
+    "Medium": 84,
+    "High": 29,
+    "Low": 12
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "qwen/qwen3.8-max"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen3-8-max-or-pin-alibaba-r2/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen3-8-max-or-pin-alibaba-r2/aggregate.md"
+}

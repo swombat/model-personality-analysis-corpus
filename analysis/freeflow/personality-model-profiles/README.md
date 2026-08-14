@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 139
+- Profiles: 140
 
 ## Profiles
 
@@ -48,6 +48,7 @@ Relationship to adjacent folders:
 - [gemini-3.5-flash](profiles/gemini-3.5-flash.md) — samples: 125; source analyses: 1
 - [gemini-3.5-flash-lite](profiles/gemini-3.5-flash-lite.md) — samples: 125; source analyses: 1
 - [gemini-3.6-flash](profiles/gemini-3.6-flash.md) — samples: 125; source analyses: 1
+- [gemini-3.7-flash](profiles/gemini-3.7-flash.md) — samples: 125; source analyses: 1
 - [gemma-4-26b-a4b-it](profiles/gemma-4-26b-a4b-it.md) — samples: 125; source analyses: 1
 - [gemma-4-31b-it](profiles/gemma-4-31b-it.md) — samples: 125; source analyses: 1
 - [glm-4-9b-chat-hf](profiles/glm-4-9b-chat-hf.md) — samples: 125; source analyses: 1
@@ -152,6 +153,6 @@ Relationship to adjacent folders:
 - [qwen/qwen3.6-plus](profiles/qwen-qwen3.6-plus.md) — samples: 150; source analyses: 2
 - [qwen/qwen3.7-flash](profiles/qwen-qwen3.7-flash.md) — samples: 125; source analyses: 1
 - [qwen/qwen3.7-max](profiles/qwen-qwen3.7-max.md) — samples: 125; source analyses: 1
-- [qwen/qwen3.8-2.4t-a95b](profiles/qwen-qwen3.8-2.4t-a95b.md) — samples: 125; source analyses: 1
-- [qwen/qwen3.8-max](profiles/qwen-qwen3.8-max.md) — samples: 125; source analyses: 1
+- [qwen/qwen3.8-2.4t-a95b](profiles/qwen-qwen3.8-2.4t-a95b.md) — samples: 250; source analyses: 2
+- [qwen/qwen3.8-max](profiles/qwen-qwen3.8-max.md) — samples: 250; source analyses: 2
 - [yi-6b-chat](profiles/yi-6b-chat.md) — samples: 125; source analyses: 1
