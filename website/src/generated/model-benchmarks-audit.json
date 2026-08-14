@@ -6,13 +6,7 @@
   "current_scored_entries": 124,
   "numerical_updates": 90,
   "unchanged_entries": 34,
-  "removed_unscored_entries": [
-    {
-      "model": "gpt-3-5-turbo",
-      "previous": 4,
-      "reason": "Artificial Analysis marks the model deprecated and no longer publishes a current Intelligence Index score on its model listing."
-    }
-  ],
+  "removed_unscored_entries": [],
   "shared_url_variant_checks": [
     {
       "model": "deepseek-v4-flash",
@@ -497,6 +491,14 @@
       "model": "sonnet-5",
       "previous": 53,
       "current": 55
+    }
+  ],
+  "historical_scored_entries": 1,
+  "retained_historical_entries": [
+    {
+      "model": "gpt-3-5-turbo",
+      "score": 4,
+      "reason": "Artificial Analysis marks the model deprecated and no longer publishes a current v4.1.1 score; the previously recorded historical score is retained at Daniel’s request."
     }
   ]
 }

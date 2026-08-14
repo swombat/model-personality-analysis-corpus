@@ -186,6 +186,13 @@
     "retrieved_date": "2026-08-14",
     "index_version": "4.1.1"
   },
+  "gpt-3-5-turbo": {
+    "aaii": 4,
+    "url": "https://artificialanalysis.ai/models?models=gpt-35-turbo",
+    "score_status": "historical",
+    "retrieved_date": "2026-08-14",
+    "index_version": "pre-4.1.1 (exact version not recorded)"
+  },
   "gpt-4": {
     "aaii": 7,
     "url": "https://artificialanalysis.ai/models/gpt-4",
