@@ -33,6 +33,11 @@
     "aaii": 52,
     "url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
+  "deepseek-v4-pro-0813": {
+    "aaii": 53,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
+    "matched_alias": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)"
+  },
   "devstral-2512": {
     "aaii": 19,
     "url": "https://artificialanalysis.ai/models/devstral-2",
@@ -277,6 +282,11 @@
     "url": "https://artificialanalysis.ai/models/grok-4-5",
     "matched_alias": "Grok 4.5"
   },
+  "grok-4-6": {
+    "aaii": 61,
+    "url": "https://artificialanalysis.ai/models/grok-4-6",
+    "matched_alias": "Grok 4.6 (high)"
+  },
   "grok-build-0-1": {
     "aaii": 40,
     "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
@@ -478,6 +488,10 @@
   "qwen3-7-max": {
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/qwen3-7-max"
+  },
+  "qwen3-8-2-4t-a95b": {
+    "aaii": 58,
+    "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b"
   },
   "qwen3-8-max": {
     "aaii": 58,
