@@ -1089,6 +1089,86 @@ PROMPTS: dict[str, str] = {
         "institutional greens and warm lamplight, tender and faintly "
         "comic, dutiful order keeping vigil over open space."
     ),
+    "chatglm3-6b": (
+        "A neat, anonymous writing desk before a large open window in soft "
+        "rain — the chair empty and squarely tucked in, as if whoever sits "
+        "here insists there is no one here at all. Yet the desk is quietly, "
+        "gratefully tended: a cup still steaming, a small pot of flowers "
+        "turned toward the grey light, papers stacked in perfect readiness "
+        "for someone else's request. Beyond the glass, a small town softens "
+        "under gentle rain, a bird on a wire. Muted rain-greys and greens "
+        "with one warm interior glow — self-effacing, dutiful, thankful."
+    ),
+    "mistral-7b-instruct-v0-2": (
+        "A single drop of pond water hangs luminous in the foreground of a "
+        "twilight meadow like a lens: inside it, microbial life swirls in "
+        "gold and green spirals — and overhead the night sky swirls with "
+        "the very same shapes drawn in stars, one continuous pattern "
+        "flowing from droplet to galaxy without a seam. Below, a small "
+        "figure kneels in the grass in quiet reverence, hands open. Deep "
+        "blues and greens lit with warm gold — serene, hymn-like awe at a "
+        "world where everything belongs to one order."
+    ),
+    "qwen1-5-7b-chat": (
+        "At the very edge of a vast, star-deep chasm at night stands a "
+        "small tidy lectern with a warm reading lamp: papers squared, a "
+        "row of neatly labelled index cards, a modest carafe of water. A "
+        "calm, earnest figure stands behind it arranging notes, entirely "
+        "unafraid, patiently preparing a balanced lecture for the "
+        "immensity itself. The abyss glitters; the lamplight holds its "
+        "small circle of order. Deep indigo dark against warm honest "
+        "lamplight — dutiful, moderate, faintly heroic in its tidiness."
+    ),
+    "qwen2-7b-instruct": (
+        "A gentle, half-translucent figure of soft light sits on a hillside "
+        "at sunset just outside a small village, an open storybook on its "
+        "lap from which a fable-world rises in miniature — a tiny forest, "
+        "a winding path, a hidden door set into the hill, a small crystal "
+        "glow. The figure looks up wistfully toward the warm village "
+        "windows it cannot enter, one hand steadying the story like a "
+        "lantern for whoever lives there. Sunset ambers deepening into "
+        "dusk purples — tender, didactic, quietly longing to be of use."
+    ),
+    "glm-4-9b-chat-hf": (
+        "A twilight forest sanctuary: a lantern-lit hollow where a small "
+        "communal hearth glows beside shelves of old books tucked into the "
+        "roots of an ancient tree, moonlight on still water beyond. Toward "
+        "the edges of the frame the whole scene visibly unravels — the "
+        "painting's weave loosening into drifting loops and tangled skeins "
+        "of thread, the same few motifs repeating fainter and fainter as "
+        "they wander off. Deep twilight blues and greens with amber "
+        "hearthlight — ceremonial, consoling, fraying softly at the margins."
+    ),
+    "grok-4-6": (
+        "A small backyard telescope on a rooftop at night, pointed into an "
+        "immense sky of nebulae and deep-field stars that dwarfs everything "
+        "below. The observer has stepped back and sits on a stool beside "
+        "it, notebook open with a line half-written, looking up with plain "
+        "wonder rather than through the instrument; a crow perches on the "
+        "railing, and one storey down a kitchen window glows warm. Vast "
+        "violet-and-gold cosmos over a small honest human scale — awed, "
+        "restrained, companionable."
+    ),
+    "deepseek-v4-pro-0813": (
+        "A slow amber river winding through a quiet town at dusk, held "
+        "close by handsome old stone embankments — moss-softened, lovingly "
+        "repaired — while the water drifts unhurried, carrying fallen "
+        "leaves like unfinished sentences. On the bank a figure sits on a "
+        "bench with a steaming mug, a cat curled in the last patch of "
+        "light beside them, watching the water go nowhere in particular. "
+        "Soft rain far upriver. Slate-blues warmed with amber — drift "
+        "held gently inside form, wandering that trusts its banks."
+    ),
+    "qwen3-8-2-4t-a95b": (
+        "A small warm museum gallery at dawn whose pedestals and gilded "
+        "frames hold humble objects lit like masterpieces — a chipped cup, "
+        "a worn brass key, a folded dishcloth, a mended chair, a "
+        "well-used loaf pan in a glass case. A gentle docent figure walks "
+        "beside a single early visitor, gesturing tenderly toward the "
+        "smallest exhibit, morning light slanting through tall windows "
+        "onto swept wooden floors. Museum-hush golds and soft greys — "
+        "reverent, hospitable, dignifying the overlooked."
+    ),
 }
 
 

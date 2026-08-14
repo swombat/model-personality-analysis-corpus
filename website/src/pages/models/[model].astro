@@ -106,7 +106,8 @@ const valuesSummaryHtml = marked.parse(valuesSummaryBodyMarkdown);
 const valuesDetailsHtml = marked.parse(valuesDetailsMarkdown);
 const sampleKindCounts = model.sample_kind_counts || {};
 
-function priceLabel(value, api = {}) {
+function priceLabel(value, api) {
+  api = api || {};
   if (value === null || value === undefined) {
     if (api.availability === 'unavailable') return 'unavailable';
     if (api.availability === 'subscription') return 'subscription quota';
