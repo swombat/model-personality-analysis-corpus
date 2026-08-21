@@ -212,6 +212,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase24_gemini37_flash_20260814/posture_collapsed',
         'posture_consensus': LAYERED/'phase24_gemini37_flash_20260814/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase23_ox_alpha_20260821',
+        'manifest': LAYERED/'phase23_ox_alpha_20260821/manifest_phase23.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase23_ox_alpha_20260821/layer_a',
+        'layer_a_consensus': LAYERED/'phase23_ox_alpha_20260821/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase23_ox_alpha_20260821/posture_collapsed',
+        'posture_consensus': LAYERED/'phase23_ox_alpha_20260821/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

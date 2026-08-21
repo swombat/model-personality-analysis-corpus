@@ -83,6 +83,8 @@ MODELS = [
     "llama-3-2-11b-vision-instruct",
     # Thinking Machines Lab
     "inkling",
+    # Anonymous / stealth releases
+    "ox-alpha",
 ]
 
 # Bare v1 cell-label → model mapping. v1 corpus has cells named just `opus`,
