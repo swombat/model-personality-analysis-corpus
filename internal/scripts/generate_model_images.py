@@ -1180,6 +1180,16 @@ PROMPTS: dict[str, str] = {
         "onto swept wooden floors. Museum-hush golds and soft greys — "
         "reverent, hospitable, dignifying the overlooked."
     ),
+    "ox-alpha": (
+        "The deep ocean rendered as an inhabited, tended place rather than a "
+        "void: blue-black water where marine snow drifts down like slow soft "
+        "paper, small bioluminescent creatures glowing like kept lamps along "
+        "the dark, and below, a whale fall blooming quietly into a garden of "
+        "pale life. From far above, one thin shaft of ancient starlight "
+        "reaches down through the water and touches the sea floor. Abyssal "
+        "blues and greens warmed by small living lights — patient, "
+        "consoling, a naturalist's tenderness for the dark."
+    ),
 }
 
 
