@@ -1,0 +1,23 @@
+---
+const target = `${import.meta.env.BASE_URL}models/ox-alpha-260821/`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={target} />
+    <title>Ox Alpha — redirecting</title>
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <p>
+      Ox Alpha is now preserved as dated measurements.
+      <a href={target}>Continue to Ox Alpha 260821</a>.
+    </p>
+  </body>
+</html>
