@@ -103,7 +103,8 @@ MODEL_SLUGS = {
     "o3": "openai/o3",
     "o3-mini": "openai/o3-mini",
     "o4-mini": "openai/o4-mini",
-    "ox-alpha": "stealth/ox-alpha",
+    "ox-alpha-260821": "stealth/ox-alpha",
+    "ox-alpha-260825": "stealth/ox-alpha",
     "gemini-2-5-pro": "google/gemini-2.5-pro",
     "gemini-2-0-flash": "google/gemini-2.0-flash-001",
     "gemini-2-0-flash-lite": "google/gemini-2.0-flash-lite-001",
@@ -285,7 +286,7 @@ API_ACCESS_OVERRIDES = {
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
     "deepseek-v4-flash-direct-20260731": "deepseek-v4-flash-0731",
-    "ox-alpha-or-pin-stealth-20260821": "ox-alpha",
+    "ox-alpha-or-pin-stealth-20260821": "ox-alpha-260821",
 }
 
 
@@ -368,8 +369,10 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
     # not the OpenRouter/provider id form (qwen/qwen3-max-thinking).
     if slug.startswith("qwen"):
         return slug
-    if slug == "ox-alpha":
-        return "Ox Alpha"
+    if slug == "ox-alpha-260821":
+        return "Ox Alpha 260821"
+    if slug == "ox-alpha-260825":
+        return "Ox Alpha 260825"
     return profile_model or slug
 
 

@@ -13,7 +13,7 @@ def safe(s): return re.sub(r'[^a-zA-Z0-9._-]+','-',s).strip('-')
 
 def canonical(srcs, cell):
     s=(srcs or [''])[0].lower()
-    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','zai-org/','01-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','thinkingmachines/']:
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','zai-org/','01-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','thinkingmachines/','stealth/']:
         if s.startswith(pref):
             s=s[len(pref):]; break
     if s.startswith('gpt-5.3-chat'): s='gpt-5.3'
@@ -22,6 +22,9 @@ def canonical(srcs, cell):
     # bare 'deepseek-v4-flash' — a different, older release's name. Keep dated.
     if s == 'deepseek-v4-flash' and '20260731' in (cell or ''): s = 'deepseek-v4-flash-0731'
     if s == 'deepseek-v4-pro' and '20260813' in (cell or ''): s = 'deepseek-v4-pro-0813'
+    if s == 'ox-alpha':
+        if '20260821' in (cell or ''): s = 'ox-alpha-260821'
+        elif '260825' in (cell or '') or '20260825' in (cell or ''): s = 'ox-alpha-260825'
     if s == 'claude-3-haiku': s = 'haiku-3'
     if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s): s = 'haiku-4-5'
     if s == 'claude-opus-5': s = 'opus-5'

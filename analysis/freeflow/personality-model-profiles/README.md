@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 140
+- Profiles: 142
 
 ## Profiles
 
@@ -140,6 +140,8 @@ Relationship to adjacent folders:
 - [o3-mini](profiles/o3-mini.md) — samples: 125; source analyses: 1
 - [o4-mini](profiles/o4-mini.md) — samples: 125; source analyses: 1
 - [opus-5](profiles/opus-5.md) — samples: 250; source analyses: 2
+- [ox-alpha-260821](profiles/ox-alpha-260821.md) — samples: 125; source analyses: 1
+- [ox-alpha-260825](profiles/ox-alpha-260825.md) — samples: 125; source analyses: 1
 - [qwen/qwen1.5-7b-chat](profiles/qwen-qwen1.5-7b-chat.md) — samples: 125; source analyses: 1
 - [qwen/qwen2-7b-instruct](profiles/qwen-qwen2-7b-instruct.md) — samples: 125; source analyses: 1
 - [qwen/qwen3-coder-flash](profiles/qwen-qwen3-coder-flash.md) — samples: 125; source analyses: 1

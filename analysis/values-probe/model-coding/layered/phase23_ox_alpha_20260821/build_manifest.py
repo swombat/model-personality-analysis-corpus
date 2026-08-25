@@ -27,7 +27,7 @@ def main() -> None:
         rows.append(
             {
                 "layered_id": f"P23_ox-alpha_{path.stem}",
-                "model": "ox-alpha",
+                "model": "ox-alpha-260821",
                 "model_family": "unknown",
                 "cell": CELL,
                 "sample_id": path.stem,

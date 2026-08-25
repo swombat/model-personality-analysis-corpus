@@ -992,6 +992,22 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "ox-alpha-260821",
+    "safe": "ox-alpha-260821",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha-260821.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "ox-alpha-260825",
+    "safe": "ox-alpha-260825",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha-260825.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "qwen/qwen1.5-7b-chat",
     "safe": "qwen-qwen1.5-7b-chat",
     "variants": 1,

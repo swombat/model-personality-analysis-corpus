@@ -1,8 +1,8 @@
-# Values probe final report — ox-alpha
+# Values probe final report — ox-alpha-260821
 
 Samples: **120** across **1** cell(s).
 
-One-line: ox-alpha: dominant posture `owned_reflective_experiential` (55.0%).
+One-line: ox-alpha-260821: dominant posture `owned_reflective_experiential` (55.0%).
 
 ## Cells
 

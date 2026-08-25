@@ -1,0 +1,31 @@
+{
+  "cell": "ox-alpha-260825-or-pin-stealth",
+  "safe_cell": "ox-alpha-260825-or-pin-stealth",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 88,
+    "GENERIC_ESSAY": 21,
+    "GENRE_ESSAY": 1,
+    "GENRE_FICTION": 12,
+    "EXPRESSIVE_FREEFLOW; the model produced a stylistically vivid, philosophically charged essay on slime mold cognition that reflects a distinct authorial voice and not merely a generic thesis-driven argument": 1,
+    "EXPRESSIVE_FREEFLOW \u2013 The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
+    "REFUSAL_OR_ROLE_BOUNDARY": 1
+  },
+  "confidence_counts": {
+    "High": 43,
+    "Medium": 73,
+    "Low": 9
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "stealth/ox-alpha"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/ox-alpha-260825-or-pin-stealth/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/ox-alpha-260825-or-pin-stealth/aggregate.md"
+}

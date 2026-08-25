@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 140
+- Model cards: 142
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -132,6 +132,8 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [o3-mini](cards/o3-mini.md) — samples: 125; variants: 1
 - [o4-mini](cards/o4-mini.md) — samples: 125; variants: 1
 - [opus-5](cards/opus-5.md) — samples: 250; variants: 2
+- [ox-alpha-260821](cards/ox-alpha-260821.md) — samples: 125; variants: 1
+- [ox-alpha-260825](cards/ox-alpha-260825.md) — samples: 125; variants: 1
 - [qwen/qwen1.5-7b-chat](cards/qwen-qwen1.5-7b-chat.md) — samples: 125; variants: 1
 - [qwen/qwen2-7b-instruct](cards/qwen-qwen2-7b-instruct.md) — samples: 125; variants: 1
 - [qwen/qwen3-coder-flash](cards/qwen-qwen3-coder-flash.md) — samples: 125; variants: 1

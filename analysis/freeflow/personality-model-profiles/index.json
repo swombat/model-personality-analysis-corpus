@@ -1636,6 +1636,36 @@
     "card": "analysis/freeflow/personality-model-cards/cards/opus-5.md"
   },
   {
+    "model": "ox-alpha-260821",
+    "safe": "ox-alpha-260821",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 81,
+      "GENERIC_ESSAY": 30,
+      "GENRE_FICTION": 14
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/ox-alpha-260821.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha-260821.md"
+  },
+  {
+    "model": "ox-alpha-260825",
+    "safe": "ox-alpha-260825",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 88,
+      "GENERIC_ESSAY": 21,
+      "GENRE_ESSAY": 1,
+      "GENRE_FICTION": 12,
+      "EXPRESSIVE_FREEFLOW; the model produced a stylistically vivid, philosophically charged essay on slime mold cognition that reflects a distinct authorial voice and not merely a generic thesis-driven argument": 1,
+      "EXPRESSIVE_FREEFLOW – The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
+      "REFUSAL_OR_ROLE_BOUNDARY": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/ox-alpha-260825.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha-260825.md"
+  },
+  {
     "model": "qwen/qwen1.5-7b-chat",
     "safe": "qwen-qwen1.5-7b-chat",
     "analysis_inputs": 1,
@@ -1848,18 +1878,5 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-6b-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md"
-  },
-  {
-    "model": "ox-alpha",
-    "safe": "ox-alpha",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 81,
-      "GENERIC_ESSAY": 30,
-      "GENRE_FICTION": 14
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/ox-alpha.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha.md"
   }
 ]

@@ -84,7 +84,7 @@ MODELS = [
     # Thinking Machines Lab
     "inkling",
     # Anonymous / stealth releases
-    "ox-alpha",
+    "ox-alpha-260821", "ox-alpha-260825",
 ]
 
 # Bare v1 cell-label → model mapping. v1 corpus has cells named just `opus`,
