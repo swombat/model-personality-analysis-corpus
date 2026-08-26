@@ -27,7 +27,9 @@ def main() -> None:
         rows.append(
             {
                 "layered_id": f"P28_glm-5-3-flash-deepinfra_{path.stem}",
-                "model": "glm-5-3-flash-deepinfra",
+                # This is a provider-replication cell for the same published
+                # model, not a separate model entry.
+                "model": "glm-5-3-flash",
                 "model_family": "glm",
                 "cell": CELL,
                 "sample_id": path.stem,
