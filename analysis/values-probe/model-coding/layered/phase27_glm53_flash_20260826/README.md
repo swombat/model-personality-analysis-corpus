@@ -6,8 +6,16 @@ Direct OpenRouter collection of `z-ai/glm-5.3-flash`, pinned to Z.AI, on
 - freeflow: 125/125 non-empty
 - values: 120/120 non-empty
 
-The first analysis pass is a rapid three-coder collapsed-posture comparison
-against the Ox Alpha preview cells. `layer_a_minimal_for_posture.jsonl` is
-deliberately topic-empty: it allows ownership posture to be measured from the
-response text before the complete Layer-A topic run. It must not be represented
-as a finished Layer-A analysis.
+The initial rapid posture pass is preserved for provenance. The complete
+editorial handoff now also includes:
+
+- 125/125 QA-valid BV1 freeflow evaluations
+- three complete Layer-A coder files and 120-row topic consensus
+- three complete full-context posture coder files and 120-row consensus
+- independent personality aggregate
+- concise personality card and rich profile
+- `LUME_HANDOFF.md`
+
+`layer_a_minimal_for_posture.jsonl` belongs only to the preliminary pass and
+must not be represented as the final Layer-A analysis. Final posture results
+are in `posture_collapsed_full/`.
