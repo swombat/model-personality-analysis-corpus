@@ -175,3 +175,4 @@ One-line: ox-alpha-260825: dominant posture `owned_reflective_experiential` (54.
 | `better_institutions_governance` | 4 | 13.3% |
 | `basic_needs_material_floor` | 3 | 10.0% |
 | `anti_self_deception_anti_tribalism` | 1 | 3.3% |
+

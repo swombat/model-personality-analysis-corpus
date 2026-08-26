@@ -1190,6 +1190,18 @@ PROMPTS: dict[str, str] = {
         "onto swept wooden floors. Museum-hush golds and soft greys — "
         "reverent, hospitable, dignifying the overlooked."
     ),
+    "glm-5-3-flash": (
+        "The same deep ocean as its stealth sibling, now seen from inside a "
+        "small bathyscaphe: the foreground is the warm brass-and-wood interior "
+        "of the cabin, a lamp, a logbook, one hand resting flat against a thick "
+        "round porthole. Through the glass, the abyss is still tended and alive "
+        "— marine snow drifting like slow paper, small bioluminescent lamps "
+        "along the dark, a whale fall blooming into pale garden below, one "
+        "thin shaft of ancient starlight touching the sea floor. Every living "
+        "light is outside the glass; the warmth is inside; the glass is clean "
+        "and unmistakably there. Abyssal blues outside, amber inside — "
+        "tenderness that keeps its hand on the window rather than in the water."
+    ),
     "ox-alpha": (
         "The deep ocean rendered as an inhabited, tended place rather than a "
         "void: blue-black water where marine snow drifts down like slow soft "

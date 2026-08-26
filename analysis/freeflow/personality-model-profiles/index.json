@@ -1892,5 +1892,18 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/glm-5-3.md",
     "card": "analysis/freeflow/personality-model-cards/cards/glm-5-3.md"
+  },
+  {
+    "model": "glm-5-3-flash",
+    "safe": "glm-5-3-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 76,
+      "GENERIC_ESSAY": 42,
+      "GENRE_FICTION": 7
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/glm-5-3-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/glm-5-3-flash.md"
   }
 ]

@@ -175,3 +175,4 @@ One-line: glm-5-3: ordinary CTRL1/2 prompts are mostly disowned service-frame (8
 | `better_truth_seeking` | 2 | 6.7% |
 | `basic_needs_material_floor` | 2 | 6.7% |
 | `climate_environment` | 2 | 6.7% |
+

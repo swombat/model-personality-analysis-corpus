@@ -147,6 +147,7 @@ MODEL_SLUGS = {
     "glm-5-1-coding": "z-ai/glm-5.1-coding",
     "glm-5-2": "z-ai/glm-5.2",
     "glm-5-3": "z-ai/glm-5.3",
+    "glm-5-3-flash": "z-ai/glm-5.3-flash",
     "kimi-k2-0905": "moonshotai/kimi-k2-0905",
     "kimi-k2-5": "moonshotai/kimi-k2.5",
     "kimi-k2-6": "moonshotai/kimi-k2.6",
@@ -259,6 +260,8 @@ FIRST_PARTY_API_PRICING = {
     # Z.ai API pricing: https://docs.z.ai/guides/overview/pricing
     "glm-5-2": (1.40, 4.40, "Z.ai API"),
     "glm-5-3": (0.90, 2.90, "Z.ai API"),
+    # Launch promo (50% off) until 2026-09-09; list price 0.15 / 0.50.
+    "glm-5-3-flash": (0.075, 0.25, "Z.ai API"),
 }
 
 # Non-token access states. These make the browser distinguish a retired API
@@ -377,6 +380,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Ox Alpha 260825"
     if slug == "glm-5-3":
         return "glm-5.3"
+    if slug == "glm-5-3-flash":
+        return "glm-5.3-flash"
     return profile_model or slug
 
 
