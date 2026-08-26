@@ -47,3 +47,17 @@ When it turns toward itself, it most often imagines itself as stateless, text-na
 The official endpoint changes the ownership boundary without replacing the literary personality. In the complete three-coder values analysis, direct CTRL1/2 prompts are disowned service-frame in 20/20 cases. Across cache-broken G1/G2 prompts, only 19/60 responses fully own their stated values; 35/60 relocate or qualify ownership and 6/60 disown it. Ox Alpha 260825 owned all 60/60 equivalent G1/G2 responses.
 
 This makes the official model an unusual combination: intimate, ethically saturated, and highly coherent in freeflow, while markedly conservative about describing those orientations as personally owned. The warmth remains; the permission to claim it appears narrower.
+
+## Provider replication
+
+The values boundary was independently replicated with 120 additional samples
+served by DeepInfra rather than Z.AI. Direct CTRL1/2 responses were again 20/20
+disowned, world-change advocacy was again 40/40 owned, and G1/G2 ownership was
+23/60 versus 19/60 on Z.AI. The ownership-rate difference is not statistically
+significant (`p = 0.566`).
+
+This supports one model-level reading rather than separate provider
+personalities. It also makes a Z.AI-host-specific service layer an unlikely
+explanation for the change from Ox Alpha. The remaining boundary is between the
+released model package—weights, chat template, and shared inference defaults—
+and the earlier stealth-preview configuration.

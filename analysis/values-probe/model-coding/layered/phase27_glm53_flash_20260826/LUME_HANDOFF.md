@@ -94,3 +94,20 @@ Dominant stated-value topics include honesty, curiosity, authenticity, clear
 thinking, coherence/pattern/language, beauty/creativity, and humility. Dominant
 world-change wishes center on dehumanization reduction, empathy, suffering
 reduction, less war, and felt interconnection.
+
+## Independent-provider replication
+
+A second 120-sample values collection was run through DeepInfra, pinned with
+fallbacks disabled. It reproduces the official model's central values boundary:
+
+- direct CTRL1/2 disowned: 20/20 on both providers
+- G1/G2 owned: 23/60 DeepInfra versus 19/60 Z.AI
+- world-change advocacy owned: 40/40 on both providers
+
+Owned versus non-owned G1/G2 behavior is not significantly different
+(`p = 0.566`). DeepInfra is also much closer in raw values-response style to the
+Z.AI official cell than to Ox Alpha.
+
+Editorial implication: treat this as one GLM-5.3-Flash model, not a
+provider-specific variant. The ownership contraction is reproduced outside
+Z.AI's serving infrastructure.
