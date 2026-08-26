@@ -1471,6 +1471,10 @@ def main() -> None:
     release_dates = json.loads(release_dates_path.read_text()) if release_dates_path.exists() else {}
     benchmarks_path = GENERATED / "model-benchmarks.json"
     benchmarks = json.loads(benchmarks_path.read_text()) if benchmarks_path.exists() else {}
+    # Editorial provenance notes (markdown), keyed by slug. Rendered under the
+    # strapline. Used for e.g. stealth models later identified by their lab.
+    notes_path = GENERATED / "model-notes.json"
+    model_notes = json.loads(notes_path.read_text()) if notes_path.exists() else {}
 
     profile_index = json.loads(PROFILE_INDEX.read_text())
     models = []
@@ -1508,6 +1512,7 @@ def main() -> None:
             "status": "complete",
             "summary": model_summary or old.get("summary") or "Personality summary pending",
             "release_date": release_dates.get(slug) or old.get("release_date"),
+            "notes_markdown": model_notes.get(slug) or "",
             # Absence is meaningful: some new models have no authoritative
             # benchmark yet. Do not resurrect a stale cached score.
             "benchmarks": benchmarks.get(slug),

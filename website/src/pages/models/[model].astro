@@ -145,6 +145,9 @@ function speedLabel(value) {
       <h1>{displayName}</h1>
       {displayName !== model.model && <p class="release-date">URL slug: <code>{model.model}</code></p>}
       <p class="lede">{model.summary}</p>
+      {model.notes_markdown && (
+        <div class="model-note" set:html={marked.parse(model.notes_markdown)} />
+      )}
 
       {personalityCardMarkdown && (
         <section class="personality-card">

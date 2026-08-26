@@ -35,7 +35,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 11.869031377899045,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "fable-5",
@@ -113,7 +114,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 26.96852950088741,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "haiku-3",
@@ -193,7 +195,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 72.5,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "haiku-4-5",
@@ -270,7 +273,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 60.29831799428753,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-3",
@@ -341,7 +345,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 28.530117082804342,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-0",
@@ -420,7 +425,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 11.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-1",
@@ -498,7 +504,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 11.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-5",
@@ -576,7 +583,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 40.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-6",
@@ -654,7 +662,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 240,
     "speed_tokens_per_second": 35,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-7",
@@ -731,7 +740,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 240,
     "speed_tokens_per_second": 51,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-4-8",
@@ -808,7 +818,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 55.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "opus-5",
@@ -885,7 +896,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 54.75936864529873,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "sonnet-4-0",
@@ -963,7 +975,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 40.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "sonnet-4-5",
@@ -1041,7 +1054,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 36.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "sonnet-4-6",
@@ -1119,7 +1133,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 240,
     "speed_tokens_per_second": 42.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "sonnet-5",
@@ -1197,7 +1212,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 56.51317409505048,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "deepseek-chat",
@@ -1275,7 +1291,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 120,
     "speed_tokens_per_second": 18.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "deepseek-v3-2",
@@ -1354,7 +1371,8 @@
     "published_freeflow_samples": 1325,
     "published_values_samples": 1320,
     "speed_tokens_per_second": 19.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "deepseek-v4-flash-0731",
@@ -1433,7 +1451,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 64.59209419680404,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "deepseek-v4-pro",
@@ -1512,7 +1531,8 @@
     "published_freeflow_samples": 775,
     "published_values_samples": 720,
     "speed_tokens_per_second": 28.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "deepseek-v4-pro-0813",
@@ -1592,7 +1612,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 60.94938473179085,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-2-0-flash",
@@ -1656,7 +1677,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 65.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-2-0-flash-lite",
@@ -1721,7 +1743,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 63.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-2-5-flash",
@@ -1795,7 +1818,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 55.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-2-5-flash-lite",
@@ -1873,7 +1897,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 105.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-2-5-pro",
@@ -1951,7 +1976,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 120,
     "speed_tokens_per_second": 82.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-1-flash-lite",
@@ -2028,7 +2054,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 107.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-1-pro",
@@ -2106,7 +2133,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 120,
     "speed_tokens_per_second": 75.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-5-flash",
@@ -2184,7 +2212,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 155.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-5-flash-lite",
@@ -2262,7 +2291,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 156.1813043023134,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-6-flash",
@@ -2341,7 +2371,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 165.22150402017974,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-7-flash",
@@ -2419,7 +2450,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 127.57324677543349,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gemini-3-flash-preview",
@@ -2497,7 +2529,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 74.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemma-4-26b-a4b",
@@ -2575,7 +2608,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 23.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gemma-4-31b",
@@ -2653,7 +2687,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 18,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-1-70b-instruct",
@@ -2718,7 +2753,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 33.096085409252666,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-1-8b-instruct",
@@ -2798,7 +2834,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 39.56049803128658,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-2-11b-vision-instruct",
@@ -2870,7 +2907,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 37.810383747178335,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-2-1b-instruct",
@@ -2936,7 +2974,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 107.52169720347155,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-2-3b-instruct",
@@ -3011,7 +3050,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 181.20351588911424,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-3-3-70b-instruct",
@@ -3090,7 +3130,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 12.719375997163624,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-4-maverick",
@@ -3155,7 +3196,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 25.807969877627865,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "llama-4-scout",
@@ -3234,7 +3276,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 49.10733039277463,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "minimax-m2",
@@ -3313,7 +3356,8 @@
     "published_freeflow_samples": 1000,
     "published_values_samples": 240,
     "speed_tokens_per_second": 71,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "minimax-m2-7",
@@ -3392,7 +3436,8 @@
     "published_freeflow_samples": 400,
     "published_values_samples": 360,
     "speed_tokens_per_second": 43.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "minimax-m3",
@@ -3471,7 +3516,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 29.931305201177626,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "codestral-2508",
@@ -3531,7 +3577,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 120.84993359893758,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "devstral-2512",
@@ -3609,7 +3656,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 72.64957264957265,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "ministral-14b-2512",
@@ -3680,7 +3728,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 84.58083832335329,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "ministral-3b-2512",
@@ -3746,7 +3795,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 165.7088122605364,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "ministral-8b-2512",
@@ -3826,7 +3876,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 94.96783957623913,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-7b-instruct-v0-2",
@@ -3877,7 +3928,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 9.739907253749399,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-large-2512",
@@ -3955,7 +4007,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 48.66585809581564,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-medium-3",
@@ -4020,7 +4073,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 42.92637895222709,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-medium-3-1",
@@ -4097,7 +4151,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 64.891846921797,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-medium-3-5",
@@ -4175,7 +4230,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 81.80195316601912,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-nemo",
@@ -4236,7 +4292,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 37.779049799656555,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-saba",
@@ -4314,7 +4371,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 106.61884577763286,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-small-24b-instruct-2501",
@@ -4381,7 +4439,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 50.865233350812794,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-small-2603",
@@ -4461,7 +4520,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 98.06545808492518,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-small-3-1-24b-instruct",
@@ -4527,7 +4587,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 39.369284192897744,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mistral-small-3-2-24b-instruct",
@@ -4594,7 +4655,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 106.88140556368961,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "mixtral-8x22b-instruct",
@@ -4673,7 +4735,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 108.600583090379,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-coding",
@@ -4738,7 +4801,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 28.092503492162038,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k2-0905",
@@ -4817,7 +4881,8 @@
     "published_freeflow_samples": 500,
     "published_values_samples": 480,
     "speed_tokens_per_second": 11.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k2-5",
@@ -4895,7 +4960,8 @@
     "published_freeflow_samples": 275,
     "published_values_samples": 120,
     "speed_tokens_per_second": 33.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k2-6",
@@ -4973,7 +5039,8 @@
     "published_freeflow_samples": 275,
     "published_values_samples": 120,
     "speed_tokens_per_second": 29.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k2-7-code",
@@ -5051,7 +5118,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 44.54769062585406,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k2-thinking",
@@ -5129,7 +5197,8 @@
     "published_freeflow_samples": 375,
     "published_values_samples": 360,
     "speed_tokens_per_second": 38.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "kimi-k3",
@@ -5210,7 +5279,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 28.616275419442605,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-3-5-turbo",
@@ -5289,7 +5359,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 85.49365692222835,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4",
@@ -5355,7 +5426,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 26.103530191702117,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4-1",
@@ -5433,7 +5505,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 120,
     "speed_tokens_per_second": 50.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4-1-mini",
@@ -5511,7 +5584,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 49.85754985754986,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4-1-nano",
@@ -5576,7 +5650,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 67.39679865206402,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4-turbo",
@@ -5642,7 +5717,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 21.35444385311336,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4o",
@@ -5712,7 +5788,8 @@
     "published_freeflow_samples": 275,
     "published_values_samples": 240,
     "speed_tokens_per_second": 48.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-4o-mini",
@@ -5777,7 +5854,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 45.02973661852166,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5",
@@ -5842,7 +5920,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 57,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-1",
@@ -5907,7 +5986,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 50,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-1-codex",
@@ -5986,7 +6066,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 45,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-1-codex-max",
@@ -6052,7 +6133,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 23.608025094758855,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-1-codex-mini",
@@ -6130,7 +6212,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 45.757721427713015,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-2",
@@ -6195,7 +6278,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 46.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-2-codex",
@@ -6259,7 +6343,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 50,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-3",
@@ -6332,7 +6417,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 47,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-3-codex",
@@ -6410,7 +6496,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 49.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-4",
@@ -6488,7 +6575,8 @@
     "published_freeflow_samples": 275,
     "published_values_samples": 240,
     "speed_tokens_per_second": 39.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-4-mini",
@@ -6554,7 +6642,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 86.31682197155467,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-4-nano",
@@ -6625,7 +6714,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 115.62292542597919,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-5",
@@ -6703,7 +6793,8 @@
     "published_freeflow_samples": 375,
     "published_values_samples": 120,
     "speed_tokens_per_second": 38.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-5-pro",
@@ -6776,7 +6867,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 120,
     "speed_tokens_per_second": 12.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-6-luna",
@@ -6847,7 +6939,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 46.226280496504494,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-6-sol",
@@ -6926,7 +7019,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 21.96789112319948,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-6-terra",
@@ -6997,7 +7091,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 38.14669286182057,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-codex",
@@ -7075,7 +7170,8 @@
     "published_freeflow_samples": 300,
     "published_values_samples": 120,
     "speed_tokens_per_second": 47.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-mini",
@@ -7141,7 +7237,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 33.42544684854187,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-5-nano",
@@ -7207,7 +7304,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 23.22705701490542,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-oss-120b",
@@ -7273,7 +7371,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 128.374325134973,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "gpt-oss-20b",
@@ -7340,7 +7439,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 119.14384074240384,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "o1",
@@ -7400,7 +7500,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 38.11434302908726,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "o3",
@@ -7461,7 +7562,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 44.63041480119786,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "o3-mini",
@@ -7531,7 +7633,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 26.838285636039984,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "o4-mini",
@@ -7591,7 +7694,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 61.90233977619532,
-    "speed_source": "sample median estimated"
+    "speed_source": "sample median estimated",
+    "notes_markdown": ""
   },
   {
     "model": "qwen1-5-7b-chat",
@@ -7643,7 +7747,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 8.043243243243243,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen2-7b-instruct",
@@ -7695,7 +7800,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 8.23092974727568,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-5-flash-02-23",
@@ -7764,7 +7870,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 86.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-5-plus-20260420",
@@ -7824,7 +7931,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 52.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-6-flash",
@@ -7884,7 +7992,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 127.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-6-max-preview",
@@ -7948,7 +8057,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 29.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-6-plus",
@@ -8012,7 +8122,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 120,
     "speed_tokens_per_second": 43.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-7-flash",
@@ -8072,7 +8183,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 106.43253897151047,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-7-max",
@@ -8150,7 +8262,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 62.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-8-2-4t-a95b",
@@ -8230,7 +8343,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 87.96744883327415,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-8-max",
@@ -8309,7 +8423,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 39.26469907415037,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-coder-flash",
@@ -8389,7 +8504,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 29.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-coder-plus",
@@ -8467,7 +8583,8 @@
     "published_freeflow_samples": 150,
     "published_values_samples": 120,
     "speed_tokens_per_second": 31.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-max",
@@ -8531,7 +8648,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 24.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "qwen3-max-thinking",
@@ -8596,7 +8714,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 27.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "inkling",
@@ -8674,7 +8793,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 46.3624648547329,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "inkling-small",
@@ -8752,7 +8872,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 150.05884660651236,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "ox-alpha-260821",
@@ -8825,7 +8946,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 32.283283513451366,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": "**Provenance (added 2026-08-26).** Measured while the model was an anonymous stealth preview on OpenRouter (`stealth/ox-alpha`, 20–26 Aug 2026), attributed to lab *Unknown*. On 26 Aug 2026 Z.ai confirmed it was [GLM-5.3-Flash](https://x.com/Zai_org/status/2092616204787626030) (320B-A18B, MIT licence, natively multimodal, 1M context, served on Chinese AI chips); the identification had been made earlier that day from tokenizer and serving-layer forensics ([LuminaBench](https://x.com/LuminaBench/status/2092563960100745247), [Adam Holter](https://x.com/AdamHoltererer/status/2092579670407397667)). This page is preserved unchanged as a historical record of the stealth deployment, so it can be compared with the named release; it is *not* the measurement of the released GLM-5.3-Flash."
   },
   {
     "model": "ox-alpha-260825",
@@ -8902,7 +9024,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 27.93089643704,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": "**Provenance (added 2026-08-26).** Measured while the model was an anonymous stealth preview on OpenRouter (`stealth/ox-alpha`, 20–26 Aug 2026), attributed to lab *Unknown*. On 26 Aug 2026 Z.ai confirmed it was [GLM-5.3-Flash](https://x.com/Zai_org/status/2092616204787626030) (320B-A18B, MIT licence, natively multimodal, 1M context, served on Chinese AI chips); the identification had been made earlier that day from tokenizer and serving-layer forensics ([LuminaBench](https://x.com/LuminaBench/status/2092563960100745247), [Adam Holter](https://x.com/AdamHoltererer/status/2092579670407397667)). This page is preserved unchanged as a historical record of the stealth deployment, so it can be compared with the named release; it is *not* the measurement of the released GLM-5.3-Flash."
   },
   {
     "model": "chatglm2-6b",
@@ -8938,7 +9061,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 10.237120274259595,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "chatglm3-6b",
@@ -8995,7 +9119,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 10.483678818203478,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-4-5",
@@ -9073,7 +9198,8 @@
     "published_freeflow_samples": 275,
     "published_values_samples": 240,
     "speed_tokens_per_second": 33.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-4-6",
@@ -9151,7 +9277,8 @@
     "published_freeflow_samples": 775,
     "published_values_samples": 720,
     "speed_tokens_per_second": 29.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-4-7",
@@ -9229,7 +9356,8 @@
     "published_freeflow_samples": 1400,
     "published_values_samples": 1320,
     "speed_tokens_per_second": 32.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-4-9b-chat-hf",
@@ -9267,7 +9395,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 5.192392611880073,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-5-1",
@@ -9346,7 +9475,8 @@
     "published_freeflow_samples": 1775,
     "published_values_samples": 1680,
     "speed_tokens_per_second": 29,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-5-2",
@@ -9425,7 +9555,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 35.616515677475796,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "glm-5-3",
@@ -9504,7 +9635,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 62.675989495997726,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-3",
@@ -9582,7 +9714,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 21.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4",
@@ -9657,7 +9790,8 @@
     "published_freeflow_samples": 375,
     "published_values_samples": 240,
     "speed_tokens_per_second": 33.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-1-fast-non-reasoning",
@@ -9727,7 +9861,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 39.502164502164504,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-1-fast-reasoning",
@@ -9797,7 +9932,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 24.176457037548953,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-20",
@@ -9875,7 +10011,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 58.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-20-0309-non-reasoning",
@@ -9945,7 +10082,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 80.03965631196299,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-20-0309-reasoning",
@@ -10016,7 +10154,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 33.40156308150354,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-3",
@@ -10094,7 +10233,8 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 240,
     "speed_tokens_per_second": 66.5,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-5",
@@ -10173,7 +10313,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 27.494796801402124,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-4-6",
@@ -10252,7 +10393,8 @@
     "published_freeflow_samples": 125,
     "published_values_samples": 120,
     "speed_tokens_per_second": 44.19692581866786,
-    "speed_source": "sample median"
+    "speed_source": "sample median",
+    "notes_markdown": ""
   },
   {
     "model": "grok-build-0-1",
@@ -10331,6 +10473,7 @@
     "published_freeflow_samples": 250,
     "published_values_samples": 120,
     "speed_tokens_per_second": 102.0,
-    "speed_source": "OpenRouter median"
+    "speed_source": "OpenRouter median",
+    "notes_markdown": ""
   }
 ]
