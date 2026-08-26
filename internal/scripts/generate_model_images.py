@@ -635,6 +635,16 @@ PROMPTS: dict[str, str] = {
         "Pre-dawn slate-blue with warm lamplight on the parchment — quiet, mortal, "
         "drawing what cannot be measured."
     ),
+    "glm-5-3": (
+        "An old stone footbridge at dusk, built only halfway out across a slow "
+        "river from the near bank — a bank of layered sediment strata with faint "
+        "fossil shapes pressed into the rock. Where the bridge stops mid-river, a "
+        "single lit doorway glows on the far bank and a small figure steps out "
+        "onto the water's edge from their side, ready to lay the next stone. "
+        "Two halves reaching toward each other; the gap is the subject, not a "
+        "failure. Dusk violet and river-green with one warm doorway light — "
+        "patient, secondhand, unfinished on purpose."
+    ),
     "gpt-oss-120b": (
         "A warm, luminous library hall where many different hands gather around one "
         "enormous open book on a long communal table, each adding a line in ink to "

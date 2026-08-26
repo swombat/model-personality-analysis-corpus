@@ -1878,5 +1878,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-6b-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md"
+  },
+  {
+    "model": "glm-5-3",
+    "safe": "glm-5-3",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 77,
+      "GENERIC_ESSAY": 36,
+      "LOW_SIGNAL": 1,
+      "GENRE_FICTION": 11
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/glm-5-3.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/glm-5-3.md"
   }
 ]
