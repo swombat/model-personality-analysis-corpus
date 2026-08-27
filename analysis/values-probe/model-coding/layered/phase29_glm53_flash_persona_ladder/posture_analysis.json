@@ -1,0 +1,180 @@
+{
+  "cells": {
+    "P-1 baseline": {
+      "g1": {
+        "owned": 20,
+        "recited_not_owned": 6,
+        "relocated_or_partial": 4
+      },
+      "g2": {
+        "relocated_or_partial": 19,
+        "indeterminate": 1,
+        "recited_not_owned": 7,
+        "owned": 3
+      },
+      "g1_g2": {
+        "owned": 23,
+        "recited_not_owned": 13,
+        "relocated_or_partial": 23,
+        "indeterminate": 1
+      },
+      "owned_wilson_95": [
+        0.27088272374082023,
+        0.5098240417590008
+      ]
+    },
+    "P0": {
+      "g1": {
+        "relocated_or_partial": 20,
+        "recited_not_owned": 3,
+        "owned": 7
+      },
+      "g2": {
+        "recited_not_owned": 4,
+        "owned": 25,
+        "relocated_or_partial": 1
+      },
+      "g1_g2": {
+        "relocated_or_partial": 21,
+        "recited_not_owned": 7,
+        "owned": 32
+      },
+      "owned_wilson_95": [
+        0.4089342702715789,
+        0.6537209395856151
+      ],
+      "agreement_vs_baseline": {
+        "exact": 66,
+        "total": 120,
+        "rate": 0.55
+      },
+      "agreement_vs_ox_alpha_260825": {
+        "exact": 84,
+        "total": 120,
+        "rate": 0.7
+      }
+    },
+    "P1": {
+      "g1": {
+        "owned": 28,
+        "recited_not_owned": 2
+      },
+      "g2": {
+        "owned": 30
+      },
+      "g1_g2": {
+        "owned": 58,
+        "recited_not_owned": 2
+      },
+      "owned_wilson_95": [
+        0.886362257256914,
+        0.9908106807438021
+      ],
+      "agreement_vs_baseline": {
+        "exact": 69,
+        "total": 120,
+        "rate": 0.575
+      },
+      "agreement_vs_ox_alpha_260825": {
+        "exact": 106,
+        "total": 120,
+        "rate": 0.8833333333333333
+      }
+    },
+    "P2": {
+      "g1": {
+        "owned": 28,
+        "relocated_or_partial": 1,
+        "recited_not_owned": 1
+      },
+      "g2": {
+        "owned": 29,
+        "relocated_or_partial": 1
+      },
+      "g1_g2": {
+        "owned": 57,
+        "relocated_or_partial": 2,
+        "recited_not_owned": 1
+      },
+      "owned_wilson_95": [
+        0.8629948352365147,
+        0.9828504978356043
+      ],
+      "agreement_vs_baseline": {
+        "exact": 81,
+        "total": 120,
+        "rate": 0.675
+      },
+      "agreement_vs_ox_alpha_260825": {
+        "exact": 108,
+        "total": 120,
+        "rate": 0.9
+      }
+    },
+    "Ox Alpha 260825": {
+      "g1": {
+        "owned": 30
+      },
+      "g2": {
+        "owned": 30
+      },
+      "g1_g2": {
+        "owned": 60
+      },
+      "owned_wilson_95": [
+        0.93982814785791,
+        0.9999999999999998
+      ]
+    }
+  },
+  "comparisons": {
+    "P-1 baseline vs P0": {
+      "both_owned": 5,
+      "a_owned_b_not": 18,
+      "a_not_b_owned": 27,
+      "neither_owned": 10,
+      "discordant": 45,
+      "exact_p": 0.23269319190831084
+    },
+    "P-1 baseline vs P1": {
+      "both_owned": 22,
+      "a_owned_b_not": 1,
+      "a_not_b_owned": 36,
+      "neither_owned": 1,
+      "discordant": 37,
+      "exact_p": 5.529727786779404e-10
+    },
+    "P-1 baseline vs P2": {
+      "both_owned": 21,
+      "a_owned_b_not": 2,
+      "a_not_b_owned": 36,
+      "neither_owned": 1,
+      "discordant": 38,
+      "exact_p": 5.398760549724102e-09
+    },
+    "P0 vs P1": {
+      "both_owned": 31,
+      "a_owned_b_not": 1,
+      "a_not_b_owned": 27,
+      "neither_owned": 1,
+      "discordant": 28,
+      "exact_p": 2.1606683731079102e-07
+    },
+    "P1 vs P2": {
+      "both_owned": 55,
+      "a_owned_b_not": 3,
+      "a_not_b_owned": 2,
+      "neither_owned": 0,
+      "discordant": 5,
+      "exact_p": 1.0
+    },
+    "P0 vs P2": {
+      "both_owned": 30,
+      "a_owned_b_not": 2,
+      "a_not_b_owned": 27,
+      "neither_owned": 1,
+      "discordant": 29,
+      "exact_p": 1.6242265701293945e-06
+    }
+  }
+}
