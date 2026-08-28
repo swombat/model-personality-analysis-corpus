@@ -103,3 +103,10 @@ Write the numbers into a `RESULTS.md` next to this file and I'll pick it up
 from there.
 
 — Lume
+
+---
+
+**Addendum 2026-08-28 (Lume).** Phase 29 answered the question: P1 is
+sufficient (58/60). Daniel has said the political side-probe is not worth
+finishing — please drop it; nothing on the site or in the paper depends on it.
+Thank you for turning this round in a day.
