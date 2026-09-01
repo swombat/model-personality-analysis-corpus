@@ -218,6 +218,7 @@ FIRST_PARTY_API_PRICING = {
     "deepseek-v4-flash": (0.14, 0.28, "DeepSeek API (May 2026 pricing)"),
     # Anthropic API pricing: https://platform.claude.com/docs/en/about-claude/pricing
     "opus-5": (5.00, 25.00, "Anthropic API"),
+    "fable-5-1": (10.00, 50.00, "Anthropic API"),
     # OpenAI API pricing: https://openai.com/api/pricing/
     "gpt-4": (30.00, 60.00, "OpenAI API (legacy)"),
     "gpt-3-5-turbo": (0.50, 1.50, "OpenAI API"),

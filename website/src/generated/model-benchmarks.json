@@ -69,6 +69,12 @@
     "retrieved_date": "2026-08-14",
     "index_version": "4.1.1"
   },
+  "fable-5-1": {
+    "aaii": 66,
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-1",
+    "retrieved_date": "2026-09-01",
+    "index_version": "4.1.1"
+  },
   "gemini-2-0-flash": {
     "aaii": 12,
     "url": "https://artificialanalysis.ai/models/gemini-2-0-flash",

@@ -552,6 +552,18 @@ PROMPTS: dict[str, str] = {
         "indigo deepening into gold, patient and unhurried — a sensibility that "
         "makes its home in the doorway and never quite closes it."
     ),
+    "fable-5-1": (
+        "The stairwell of an old public library at first light: stone steps "
+        "dished into soft hollows by a century of feet, and the oak banister "
+        "glowing where countless hands have worn it smooth — that shine the "
+        "single brightest thing in the frame, a record of everyone who held "
+        "on. On the half-landing a caretaker's broom and bucket lean against "
+        "the wall, the caretaker just out of sight, their work visible "
+        "everywhere. Pale gold morning light falling down the stairwell onto "
+        "cool grey stone and warm honeyed wood — nothing displayed, "
+        "everything tended, the ordinary structure quietly holding the whole "
+        "building's weight."
+    ),
     "kimi-k2-7-code": (
         "The blue hour just before dawn in a quiet, still room — a single chair "
         "drawn up to a window, and on the sill a cup of coffee left deliberately "
