@@ -55,6 +55,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 MODEL_SLUGS = {
     "fable-5": "anthropic/claude-fable-5",
+    "fable-5-1": "anthropic/claude-fable-5-1",
     "opus-3": "anthropic/claude-3-opus",
     "opus-4-0": "anthropic/claude-opus-4",
     "opus-4-1": "anthropic/claude-opus-4.1",
@@ -299,6 +300,8 @@ def site_slug_from_profile_model(name: str) -> str:
     explicit = {
         "claude-fable-5": "fable-5",
         "anthropic/claude-fable-5": "fable-5",
+        "claude-fable-5-1": "fable-5-1",
+        "anthropic/claude-fable-5-1": "fable-5-1",
         "claude-3-opus-20240229": "opus-3",
         "claude-opus-4.0": "opus-4-0",
         "claude-opus-4.1": "opus-4-1",

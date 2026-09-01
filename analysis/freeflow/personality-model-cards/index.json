@@ -32,6 +32,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "claude-fable-5-1",
+    "safe": "claude-fable-5-1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-fable-5-1.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "claude-opus-4.0",
     "safe": "claude-opus-4.0",
     "variants": 1,

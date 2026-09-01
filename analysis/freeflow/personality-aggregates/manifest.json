@@ -758,6 +758,34 @@
     "aggregate": "analysis/freeflow/personality-aggregates/devstral-2512-or-pin-mistral/aggregate.md"
   },
   {
+    "cell": "fable-5-1-direct",
+    "safe_cell": "fable-5-1-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 9,
+      "GENERIC_ESSAY": 6
+    },
+    "confidence_counts": {
+      "High": 53,
+      "Medium": 69,
+      "Low": 2,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "claude-fable-5-1"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/fable-5-1-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/fable-5-1-direct/aggregate.md"
+  },
+  {
     "cell": "fable-5-direct",
     "safe_cell": "fable-5-direct",
     "samples": 125,

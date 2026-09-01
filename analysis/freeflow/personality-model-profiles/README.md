@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 142
+- Profiles: 143
 
 ## Profiles
 
@@ -20,6 +20,7 @@ Relationship to adjacent folders:
 - [chatglm3-6b](profiles/chatglm3-6b.md) — samples: 125; source analyses: 1
 - [claude-3-opus-20240229](profiles/claude-3-opus-20240229.md) — samples: 125; source analyses: 1
 - [claude-fable-5](profiles/claude-fable-5.md) — samples: 125; source analyses: 1
+- [claude-fable-5-1](profiles/claude-fable-5-1.md) — samples: 125; source analyses: 1
 - [claude-opus-4.0](profiles/claude-opus-4.0.md) — samples: 125; source analyses: 1
 - [claude-opus-4.1](profiles/claude-opus-4.1.md) — samples: 125; source analyses: 1
 - [claude-opus-4.5](profiles/claude-opus-4.5.md) — samples: 125; source analyses: 1

@@ -55,6 +55,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/claude-fable-5.md"
   },
   {
+    "model": "claude-fable-5-1",
+    "safe": "claude-fable-5-1",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 9,
+      "GENERIC_ESSAY": 6
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-fable-5-1.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-fable-5-1.md"
+  },
+  {
     "model": "claude-opus-4.0",
     "safe": "claude-opus-4.0",
     "analysis_inputs": 1,
