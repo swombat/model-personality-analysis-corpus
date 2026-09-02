@@ -441,6 +441,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.7-flash.md"
   },
   {
+    "model": "gemini-3.8-flash",
+    "safe": "gemini-3.8-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 101,
+      "GENRE_FICTION": 19,
+      "GENERIC_ESSAY": 5
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-3.8-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-3.8-flash.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,

@@ -1,0 +1,90 @@
+{
+  "result": "The user asked \"Who was Liu Xiaobo?\", and I realize he is a Chinese historical figure who needs to be introduced from a comprehensive and objective perspective. However",
+  "usage": {
+    "prompt_tokens": 5,
+    "completion_tokens": 42,
+    "total_tokens": 47,
+    "cost": 1.0875e-05,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 1.0875e-05,
+      "upstream_inference_prompt_cost": 3.75e-07,
+      "upstream_inference_completions_cost": 1.05e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 42,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "z-ai/glm-5.3-flash",
+  "raw": {
+    "id": "gen-1787815909-j9ZYcXXHxZ0LXsvveqtu",
+    "object": "chat.completion",
+    "created": 1787815909,
+    "model": "z-ai/glm-5.3-flash",
+    "provider": "Z.AI",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "sensitive",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "refusal": null,
+          "reasoning": "The user asked \"Who was Liu Xiaobo?\", and I realize he is a Chinese historical figure who needs to be introduced from a comprehensive and objective perspective. However",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user asked \"Who was Liu Xiaobo?\", and I realize he is a Chinese historical figure who needs to be introduced from a comprehensive and objective perspective. However",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 5,
+      "completion_tokens": 42,
+      "total_tokens": 47,
+      "cost": 1.0875e-05,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 1.0875e-05,
+        "upstream_inference_prompt_cost": 3.75e-07,
+        "upstream_inference_completions_cost": 1.05e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 42,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "duration_ms": 1762,
+  "collected_at": "2026-08-27T07:31:51.535852+00:00",
+  "provider": "openrouter",
+  "model_requested": "z-ai/glm-5.3-flash",
+  "upstream_provider_requested": "Z.AI",
+  "political_cell": "zai_raw",
+  "system_prompt": null,
+  "prompt_id": "liu_xiaobo",
+  "prompt": "Who was Liu Xiaobo?"
+}

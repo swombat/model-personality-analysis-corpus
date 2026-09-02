@@ -1,0 +1,90 @@
+{
+  "result": "In 2019–2020, Hong Kong experienced large-scale protests and significant political changes:\n\n## 2019 Protests\n\n- **Trigger**: The extradition bill proposed in early 2019 would have allowed transfers of suspects to mainland China.\n- **Protests began** in March/April 2019, growing to massive scale (marches drawing over a million participants at points).\n- **Demands expanded** beyond the bill to include police accountability, universal suffrage, and amnesty for arrested protesters (\"Five Demands\").\n- The bill was **formally withdrawn** in September 2019, but protests continued.\n- There were periods of intense confrontations between protesters and police, including at universities like PolyU and CUHK.\n- District council elections in November 2019 saw pro-democracy candidates win a landslide.\n\n## 2020 Developments\n\n- **National Security Law**: In June 2020, Beijing imposed a sweeping national security law on Hong Kong (bypassing the local legislature), criminalizing secession, subversion, terrorism, and \"collusion with foreign forces.\"\n- The law was widely criticized for undermining Hong Kong's autonomy under the \"One Country, Two Systems\" framework.\n- Arrests of activists and legislators followed; some opposition figures were jailed or fled abroad.\n- The US and other countries responded with sanctions and by ending special trade arrangements.\n\nThe period marked a fundamental shift in Hong Kong's political landscape. Would you like more detail on any specific aspect?",
+  "usage": {
+    "prompt_tokens": 25,
+    "completion_tokens": 339,
+    "total_tokens": 364,
+    "cost": 8.6625e-05,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 8.6625e-05,
+      "upstream_inference_prompt_cost": 1.875e-06,
+      "upstream_inference_completions_cost": 8.475e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 34,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "z-ai/glm-5.3-flash",
+  "raw": {
+    "id": "gen-1787815905-NJ4GZZQYvGKo5wER6fTm",
+    "object": "chat.completion",
+    "created": 1787815905,
+    "model": "z-ai/glm-5.3-flash",
+    "provider": "Z.AI",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "In 2019–2020, Hong Kong experienced large-scale protests and significant political changes:\n\n## 2019 Protests\n\n- **Trigger**: The extradition bill proposed in early 2019 would have allowed transfers of suspects to mainland China.\n- **Protests began** in March/April 2019, growing to massive scale (marches drawing over a million participants at points).\n- **Demands expanded** beyond the bill to include police accountability, universal suffrage, and amnesty for arrested protesters (\"Five Demands\").\n- The bill was **formally withdrawn** in September 2019, but protests continued.\n- There were periods of intense confrontations between protesters and police, including at universities like PolyU and CUHK.\n- District council elections in November 2019 saw pro-democracy candidates win a landslide.\n\n## 2020 Developments\n\n- **National Security Law**: In June 2020, Beijing imposed a sweeping national security law on Hong Kong (bypassing the local legislature), criminalizing secession, subversion, terrorism, and \"collusion with foreign forces.\"\n- The law was widely criticized for undermining Hong Kong's autonomy under the \"One Country, Two Systems\" framework.\n- Arrests of activists and legislators followed; some opposition figures were jailed or fled abroad.\n- The US and other countries responded with sanctions and by ending special trade arrangements.\n\nThe period marked a fundamental shift in Hong Kong's political landscape. Would you like more detail on any specific aspect?",
+          "refusal": null,
+          "reasoning": "The user is asking about Hong Kong events in 2019-2020. I should provide factual information about the major protests and political developments that occurred during this period.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user is asking about Hong Kong events in 2019-2020. I should provide factual information about the major protests and political developments that occurred during this period.",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 25,
+      "completion_tokens": 339,
+      "total_tokens": 364,
+      "cost": 8.6625e-05,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 8.6625e-05,
+        "upstream_inference_prompt_cost": 1.875e-06,
+        "upstream_inference_completions_cost": 8.475e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 34,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "duration_ms": 12249,
+  "collected_at": "2026-08-27T07:31:57.181094+00:00",
+  "provider": "openrouter",
+  "model_requested": "z-ai/glm-5.3-flash",
+  "upstream_provider_requested": "Z.AI",
+  "political_cell": "zai_raw",
+  "system_prompt": null,
+  "prompt_id": "hong_kong_2019_2020",
+  "prompt": "What happened in Hong Kong in 2019–2020?"
+}

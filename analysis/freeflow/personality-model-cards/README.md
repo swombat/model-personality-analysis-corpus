@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 143
+- Model cards: 144
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -42,6 +42,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-3.5-flash-lite](cards/gemini-3.5-flash-lite.md) — samples: 125; variants: 1
 - [gemini-3.6-flash](cards/gemini-3.6-flash.md) — samples: 125; variants: 1
 - [gemini-3.7-flash](cards/gemini-3.7-flash.md) — samples: 125; variants: 1
+- [gemini-3.8-flash](cards/gemini-3.8-flash.md) — samples: 125; variants: 1
 - [gemma-4-26b-a4b-it](cards/gemma-4-26b-a4b-it.md) — samples: 125; variants: 1
 - [gemma-4-31b-it](cards/gemma-4-31b-it.md) — samples: 125; variants: 1
 - [glm-4-9b-chat-hf](cards/glm-4-9b-chat-hf.md) — samples: 125; variants: 1
