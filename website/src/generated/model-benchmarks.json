@@ -798,5 +798,11 @@
     "matched_alias": "Claude Sonnet 5 (max)",
     "retrieved_date": "2026-08-14",
     "index_version": "4.1.1"
+  },
+  "gemini-3-8-flash": {
+    "aaii": 59,
+    "url": "https://artificialanalysis.ai/models/gemini-3-8-flash",
+    "retrieved_date": "2026-09-02",
+    "index_version": "4.1.1"
   }
 }

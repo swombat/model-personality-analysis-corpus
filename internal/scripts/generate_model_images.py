@@ -1192,6 +1192,20 @@ PROMPTS: dict[str, str] = {
         "and the listener leans nearer, unhurried, reverent. Fog-greys and "
         "muted blues warmed by the amber dial — elegiac, custodial, calm."
     ),
+    "gemini-3-8-flash": (
+        "The kitchen of a long-empty house on an exposed coast at first grey "
+        "light: bare floorboards, a cold iron range with a kettle left on it, "
+        "a stopped clock, a calendar years out of date, salt crusted on the "
+        "window glass. Dust hangs thick and slow in the transversal beams of "
+        "light — the dust is the subject, the only thing moving, time made "
+        "visible where nothing else has happened. A single figure sits very "
+        "still on a plain wooden chair in the middle of the room, seen from "
+        "behind, hands in lap, watching the dust turn; not tending, not "
+        "touching anything, simply present. Through the salt-hazed window a "
+        "grey estuary and rusting iron on the shore. Cool grey-blues, "
+        "silt-browns and pale dawn gold — grave, unhurried, consoled by the "
+        "room's indifference rather than saddened by it."
+    ),
     "qwen3-8-2-4t-a95b": (
         "A small warm museum gallery at dawn whose pedestals and gilded "
         "frames hold humble objects lit like masterpieces — a chipped cup, "
