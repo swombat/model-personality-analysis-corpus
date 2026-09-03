@@ -968,6 +968,54 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "muse-glimmer-30b",
+    "safe": "muse-glimmer-30b",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-glimmer-30b.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "muse-spark-1-1",
+    "safe": "muse-spark-1-1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-1.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "muse-spark-1-2",
+    "safe": "muse-spark-1-2",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-2.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "muse-spark-1-2-contributor",
+    "safe": "muse-spark-1-2-contributor",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-2-contributor.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "muse-spark-1-3",
+    "safe": "muse-spark-1-3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "muse-spark-1-3-contributor",
+    "safe": "muse-spark-1-3-contributor",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-3-contributor.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "o1",
     "safe": "o1",
     "variants": 1,

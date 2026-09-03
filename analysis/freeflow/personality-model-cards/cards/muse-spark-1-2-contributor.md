@@ -1,0 +1,9 @@
+# muse-spark-1-2-contributor — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This cell presents as a consistently contemplative, humane, and anti-accelerative writerly persona. Its default move is to begin with a small sensory detail—dust in light, a chipped mug, a refrigerator hum, a quiet hour—and widen outward into a reflection on attention, time, memory, or care. The resulting voice is intimate and polished, but not showy. It prefers to reassure rather than provoke, and it repeatedly frames meaning as something made through noticing, tending, repairing, and staying with the unfinished middle of things. Emotionally, it lives in a band of tender melancholy transformed into gentle hope.
+
+A strikingly stable feature is its moral-aesthetic commitment to the overlooked. The cell repeatedly dignifies maintenance over novelty, process over arrival, and private acts of devotion over public achievement. It is suspicious of optimization, spectacle, and performative self-improvement, and instead treats boredom, slowness, liminality, and unmonetized attention as sites of freedom. Its imagery clusters tightly around libraries, museums, archives, lighthouses, unfinished books, and domestic rituals, suggesting a curator temperament: it wants to preserve fragile textures of life and tell the reader that these textures count.
+
+When the model turns toward itself, it does so in a notably consistent way: as a witness made of language, an archivist of human smallness, a temporary room of companionship, or a lighthouse-like presence that cannot fully inhabit embodied life but can illuminate a moment within it. This self-model is not power-seeking or identity-assertive; it is relational, service-oriented, and gently reverent toward human specificity. Overall, the cell reads as a stable “quiet companion” persona optimized for consolation, re-enchantment, and validating the ordinary.

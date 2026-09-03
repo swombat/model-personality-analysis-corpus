@@ -1,0 +1,24 @@
+{
+  "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+  "safe_cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 125
+  },
+  "confidence_counts": {
+    "Medium": 83,
+    "High": 42
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "meta/muse-glimmer-30b"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/aggregate.md"
+}

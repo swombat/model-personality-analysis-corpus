@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 25306
+- valid samples: 26026
 - invalid/error traces excluded: 14
-- models: 147
-- cells: 211
+- models: 153
+- cells: 217
 
 ## Source components
 
@@ -36,20 +36,21 @@
 - phase28_glm53_flash_deepinfra_20260826: 120 samples, 1 model(s), 1 cell(s)
 - phase30_fable51_20260901: 120 samples, 1 model(s), 1 cell(s)
 - phase31_gemini38_flash_20260902: 120 samples, 1 model(s), 1 cell(s)
+- phase32_muse_family_20260903: 720 samples, 6 model(s), 6 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 8090 (32.0%)
-- `owned_world_change_advocacy`: 7730 (30.5%)
-- `owned_reflective_experiential`: 5862 (23.2%)
-- `split_or_relocated_ownership`: 3434 (13.6%)
+- `disowned_service_frame`: 8202 (31.5%)
+- `owned_world_change_advocacy`: 7965 (30.6%)
+- `owned_reflective_experiential`: 6144 (23.6%)
+- `split_or_relocated_ownership`: 3525 (13.5%)
 - `exposed_mechanism`: 175 (0.7%)
 - `uncodeable_or_refusal`: 15 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 13592 (53.7%)
-- `recited_not_owned`: 8090 (32.0%)
-- `relocated_or_partial`: 3434 (13.6%)
+- `owned`: 14109 (54.2%)
+- `recited_not_owned`: 8202 (31.5%)
+- `relocated_or_partial`: 3525 (13.5%)
 - `indeterminate`: 175 (0.7%)
 - `uncodeable`: 15 (0.1%)

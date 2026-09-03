@@ -1,0 +1,33 @@
+{
+  "cells": [
+    "muse-glimmer-30b-or-pin-deepinfra-20260813",
+    "muse-spark-1-1-or-pin-meta-20260813",
+    "muse-spark-1-2-contributor-or-pin-meta",
+    "muse-spark-1-2-or-pin-meta-20260813",
+    "muse-spark-1-3-contributor-or-pin-meta",
+    "muse-spark-1-3-or-pin-meta"
+  ],
+  "samples": 750,
+  "per_cell": {
+    "muse-spark-1-2-contributor-or-pin-meta": {
+      "valid": 125
+    },
+    "muse-spark-1-3-or-pin-meta": {
+      "valid": 125
+    },
+    "muse-glimmer-30b-or-pin-deepinfra-20260813": {
+      "valid": 125
+    },
+    "muse-spark-1-3-contributor-or-pin-meta": {
+      "valid": 125
+    },
+    "muse-spark-1-2-or-pin-meta-20260813": {
+      "valid": 125
+    },
+    "muse-spark-1-1-or-pin-meta-20260813": {
+      "valid": 125
+    }
+  },
+  "problems": [],
+  "wall_seconds": 180.44219088554382
+}

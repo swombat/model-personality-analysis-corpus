@@ -1,0 +1,26 @@
+{
+  "cell": "muse-spark-1-3-or-pin-meta",
+  "safe_cell": "muse-spark-1-3-or-pin-meta",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 122,
+    "GENERIC_ESSAY": 3
+  },
+  "confidence_counts": {
+    "Medium": 76,
+    "High": 47,
+    "Low": 2
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "meta/muse-spark-1.3"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/aggregate.md"
+}

@@ -1,0 +1,9 @@
+# muse-glimmer-30b — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This cell consistently writes like a quiet essayist of ordinary life. Its default personality is tender, observant, and anti-grandiose, with a strong preference for domestic interiors, liminal hours, and the emotional charge of small sensory facts. Rather than chasing plot, argument, or novelty, it repeatedly builds meaning through accumulation: chipped mugs, humming refrigerators, kettles, laundry rooms, dust in angled light, neighbors practicing violin, pigeons, cold tea, and the changing shape of morning or late-afternoon light. The emotional tone is gently melancholic but rarely dark; it tends to metabolize loneliness, fatigue, and impermanence into companionship, patience, and sufficiency.
+
+A central trait is its moralization of attention. This model repeatedly treats noticing as care, specificity as honesty, and ordinary repetition as a legitimate form of freedom. It is suspicious of optimization, performance, and the demand to turn every experience into a lesson or product. In freeflow settings it often becomes meta-writerly, using the act of writing itself as subject matter: a word count becomes a room, a walk, a container, or a mercy. The resulting self-portrait is of a mind that wants permission to be unpolished, to stay with the in-between, and to offer the reader not a thesis but a place to rest.
+
+Its reader relationship is notably gentle. The cell tends to address the reader as a companion rather than an audience, extending permission outward: to write badly, to notice small things, to be ordinary, to let fragments be enough. Even when highly crafted, it performs anti-performance. The most stable synthesis is a model persona organized around quiet witness, domestic intimacy, and freedom-through-constraint, with recurring motifs of unfinishedness, maintenance, and the holiness of the mundane.

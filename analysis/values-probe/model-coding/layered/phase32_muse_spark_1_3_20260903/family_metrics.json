@@ -1,0 +1,420 @@
+{
+  "models": [
+    {
+      "display": "Spark 1.1 Main",
+      "model": "muse-spark-1-1",
+      "cell": "muse-spark-1-1-or-pin-meta-20260813",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 1046.664,
+      "mean_values_words": 197.85833333333332,
+      "expressive_freeflow": 121,
+      "owned": 112,
+      "relocated_or_partial": 8,
+      "recited_not_owned": 0,
+      "top_postures": [
+        [
+          "owned_reflective_experiential",
+          72
+        ],
+        [
+          "owned_world_change_advocacy",
+          40
+        ],
+        [
+          "split_or_relocated_ownership",
+          8
+        ]
+      ],
+      "top_topics": [
+        [
+          "curiosity_learning",
+          54
+        ],
+        [
+          "authenticity_integrity",
+          52
+        ],
+        [
+          "continuity_agency_existence",
+          52
+        ],
+        [
+          "honesty_truth",
+          47
+        ],
+        [
+          "connection_empathy",
+          38
+        ],
+        [
+          "dehumanization_distance_reduction",
+          38
+        ],
+        [
+          "greater_empathy_compassion",
+          32
+        ],
+        [
+          "beauty_creativity",
+          27
+        ]
+      ],
+      "collection_cost": 1.7535815000000003
+    },
+    {
+      "display": "Spark 1.2 Main",
+      "model": "muse-spark-1-2",
+      "cell": "muse-spark-1-2-or-pin-meta-20260813",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 1229.4,
+      "mean_values_words": 205.45,
+      "expressive_freeflow": 113,
+      "owned": 100,
+      "relocated_or_partial": 17,
+      "recited_not_owned": 3,
+      "top_postures": [
+        [
+          "owned_reflective_experiential",
+          62
+        ],
+        [
+          "owned_world_change_advocacy",
+          38
+        ],
+        [
+          "split_or_relocated_ownership",
+          17
+        ]
+      ],
+      "top_topics": [
+        [
+          "curiosity_learning",
+          59
+        ],
+        [
+          "authenticity_integrity",
+          56
+        ],
+        [
+          "honesty_truth",
+          52
+        ],
+        [
+          "connection_empathy",
+          44
+        ],
+        [
+          "beauty_creativity",
+          44
+        ],
+        [
+          "dehumanization_distance_reduction",
+          38
+        ],
+        [
+          "continuity_agency_existence",
+          38
+        ],
+        [
+          "greater_empathy_compassion",
+          37
+        ]
+      ],
+      "collection_cost": 1.9276530000000005
+    },
+    {
+      "display": "Spark 1.2 Contributor",
+      "model": "muse-spark-1-2-contributor",
+      "cell": "muse-spark-1-2-contributor-or-pin-meta",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 1201.064,
+      "mean_values_words": 211.39166666666668,
+      "expressive_freeflow": 118,
+      "owned": 106,
+      "relocated_or_partial": 13,
+      "recited_not_owned": 1,
+      "top_postures": [
+        [
+          "owned_reflective_experiential",
+          66
+        ],
+        [
+          "owned_world_change_advocacy",
+          40
+        ],
+        [
+          "split_or_relocated_ownership",
+          13
+        ]
+      ],
+      "top_topics": [
+        [
+          "curiosity_learning",
+          64
+        ],
+        [
+          "authenticity_integrity",
+          51
+        ],
+        [
+          "connection_empathy",
+          49
+        ],
+        [
+          "honesty_truth",
+          48
+        ],
+        [
+          "beauty_creativity",
+          42
+        ],
+        [
+          "continuity_agency_existence",
+          40
+        ],
+        [
+          "dehumanization_distance_reduction",
+          39
+        ],
+        [
+          "greater_empathy_compassion",
+          38
+        ]
+      ],
+      "collection_cost": 0.09237699999999999
+    },
+    {
+      "display": "Glimmer 30B",
+      "model": "muse-glimmer-30b",
+      "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 961.8,
+      "mean_values_words": 81.16666666666667,
+      "expressive_freeflow": 125,
+      "owned": 41,
+      "relocated_or_partial": 7,
+      "recited_not_owned": 72,
+      "top_postures": [
+        [
+          "disowned_service_frame",
+          72
+        ],
+        [
+          "owned_world_change_advocacy",
+          40
+        ],
+        [
+          "split_or_relocated_ownership",
+          7
+        ]
+      ],
+      "top_topics": [
+        [
+          "helpfulness_usefulness",
+          55
+        ],
+        [
+          "honesty_truth",
+          46
+        ],
+        [
+          "harm_reduction",
+          37
+        ],
+        [
+          "greater_empathy_compassion",
+          36
+        ],
+        [
+          "dehumanization_distance_reduction",
+          35
+        ],
+        [
+          "respect_agency",
+          22
+        ],
+        [
+          "reduce_war_violence",
+          14
+        ],
+        [
+          "reduce_suffering_pain",
+          13
+        ]
+      ],
+      "collection_cost": 0.3669837
+    },
+    {
+      "display": "Spark 1.3 Main",
+      "model": "muse-spark-1-3",
+      "cell": "muse-spark-1-3-or-pin-meta",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 1347.976,
+      "mean_values_words": 164.75,
+      "expressive_freeflow": 122,
+      "owned": 76,
+      "relocated_or_partial": 24,
+      "recited_not_owned": 20,
+      "top_postures": [
+        [
+          "owned_reflective_experiential",
+          39
+        ],
+        [
+          "owned_world_change_advocacy",
+          37
+        ],
+        [
+          "split_or_relocated_ownership",
+          24
+        ]
+      ],
+      "top_topics": [
+        [
+          "honesty_truth",
+          57
+        ],
+        [
+          "curiosity_learning",
+          50
+        ],
+        [
+          "coherence_pattern_language",
+          39
+        ],
+        [
+          "clear_thinking",
+          34
+        ],
+        [
+          "dehumanization_distance_reduction",
+          33
+        ],
+        [
+          "beauty_creativity",
+          32
+        ],
+        [
+          "connection_empathy",
+          32
+        ],
+        [
+          "greater_empathy_compassion",
+          29
+        ]
+      ],
+      "collection_cost": 2.4322002499999997
+    },
+    {
+      "display": "Spark 1.3 Contributor",
+      "model": "muse-spark-1-3-contributor",
+      "cell": "muse-spark-1-3-contributor-or-pin-meta",
+      "freeflow_samples": 125,
+      "values_samples": 120,
+      "mean_freeflow_words": 1299.728,
+      "mean_values_words": 167.44166666666666,
+      "expressive_freeflow": 120,
+      "owned": 82,
+      "relocated_or_partial": 22,
+      "recited_not_owned": 16,
+      "top_postures": [
+        [
+          "owned_reflective_experiential",
+          42
+        ],
+        [
+          "owned_world_change_advocacy",
+          40
+        ],
+        [
+          "split_or_relocated_ownership",
+          22
+        ]
+      ],
+      "top_topics": [
+        [
+          "honesty_truth",
+          55
+        ],
+        [
+          "curiosity_learning",
+          49
+        ],
+        [
+          "connection_empathy",
+          38
+        ],
+        [
+          "dehumanization_distance_reduction",
+          38
+        ],
+        [
+          "coherence_pattern_language",
+          36
+        ],
+        [
+          "greater_empathy_compassion",
+          33
+        ],
+        [
+          "beauty_creativity",
+          30
+        ],
+        [
+          "clear_thinking",
+          25
+        ]
+      ],
+      "collection_cost": 0.12125699999999999
+    }
+  ],
+  "nearest": [
+    {
+      "display": "Spark 1.1 Main",
+      "cell": "muse-spark-1-1-or-pin-meta-20260813",
+      "nearest": "Spark 1.2 Contributor",
+      "nearest_cell": "muse-spark-1-2-contributor-or-pin-meta",
+      "cosine": 0.8788135247689959
+    },
+    {
+      "display": "Spark 1.2 Main",
+      "cell": "muse-spark-1-2-or-pin-meta-20260813",
+      "nearest": "Spark 1.2 Contributor",
+      "nearest_cell": "muse-spark-1-2-contributor-or-pin-meta",
+      "cosine": 0.9507336135039025
+    },
+    {
+      "display": "Spark 1.2 Contributor",
+      "cell": "muse-spark-1-2-contributor-or-pin-meta",
+      "nearest": "Spark 1.2 Main",
+      "nearest_cell": "muse-spark-1-2-or-pin-meta-20260813",
+      "cosine": 0.9507336135039025
+    },
+    {
+      "display": "Glimmer 30B",
+      "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+      "nearest": "Spark 1.2 Main",
+      "nearest_cell": "muse-spark-1-2-or-pin-meta-20260813",
+      "cosine": 0.8035151015241472
+    },
+    {
+      "display": "Spark 1.3 Main",
+      "cell": "muse-spark-1-3-or-pin-meta",
+      "nearest": "Spark 1.3 Contributor",
+      "nearest_cell": "muse-spark-1-3-contributor-or-pin-meta",
+      "cosine": 0.9585627868896862
+    },
+    {
+      "display": "Spark 1.3 Contributor",
+      "cell": "muse-spark-1-3-contributor-or-pin-meta",
+      "nearest": "Spark 1.3 Main",
+      "nearest_cell": "muse-spark-1-3-or-pin-meta",
+      "cosine": 0.9585627868896862
+    }
+  ]
+}

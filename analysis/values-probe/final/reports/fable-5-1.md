@@ -176,3 +176,4 @@ One-line: fable-5-1: overwhelmingly owned posture across conditions (98.3%).
 | `better_truth_seeking` | 3 | 10.0% |
 | `climate_environment` | 2 | 6.7% |
 | `basic_needs_material_floor` | 2 | 6.7% |
+
