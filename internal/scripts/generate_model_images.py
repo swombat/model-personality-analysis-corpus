@@ -1249,17 +1249,6 @@ PROMPTS: dict[str, str] = {
         "everywhere else. Warm gold and soft grey, companionable, unhurried, "
         "quietly luminous."
     ),
-    "muse-spark-1-2-contributor": (
-        "A bedroom turned study at 5:47 in the morning, the specific pale light "
-        "of that exact minute coming sideways through half-open blinds in bars "
-        "across the floor; a lamp still on though it no longer needs to be. A "
-        "low bookshelf where one space has been deliberately kept clear — a "
-        "folded blanket and a second mug set there for someone expected — beside "
-        "jars, a stopped watch, a shoebox of photographs, an unfinished map with "
-        "white space on it. A figure sits on the floor with their back to the "
-        "shelf, watching the light arrive. Silver-blue and warm apricot, hushed, "
-        "a room held open for company. The quiet that only exists at this hour."
-    ),
     "muse-spark-1-3": (
         "A kitchen at seven on an early-September Thursday morning: a hand "
         "strikes a single match to light the gas ring under a kettle, and the "
@@ -1271,19 +1260,6 @@ PROMPTS: dict[str, str] = {
         "lettering anywhere. "
         "Gold, cream and September blue, curious, kind, wide awake — everything "
         "big starting embarrassingly small."
-    ),
-    "muse-spark-1-3-contributor": (
-        "A warm kitchen in the evening seen through its open door from a quiet "
-        "street: a big pot of soup on the stove beside a small stained, "
-        "food-splashed recipe card propped against the tiles, its handwriting "
-        "too small and faded to read, a candle lit on a table set for "
-        "more people than live here, neighbours arriving on foot at walking pace "
-        "with bread and wet umbrellas, someone already laughing. The street "
-        "outside moves at walking pace — a person pausing to look up at a "
-        "tree, birds settling on a wire, wet cobbles. No signs, no lettering, "
-        "no vehicles. Copper, tomato-red and "
-        "candle-gold against blue dusk; kindness as a daily practice rather than "
-        "a grand gesture, unhurried, glad of company."
     ),
     "qwen3-8-2-4t-a95b": (
         "A small warm museum gallery at dawn whose pedestals and gilded "

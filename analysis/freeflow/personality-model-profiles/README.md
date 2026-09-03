@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 144
+- Profiles: 150
 
 ## Profiles
 
@@ -57,6 +57,8 @@ Relationship to adjacent folders:
 - [glm-4.5](profiles/glm-4.5.md) — samples: 275; source analyses: 3
 - [glm-4.6](profiles/glm-4.6.md) — samples: 900; source analyses: 8
 - [glm-4.7](profiles/glm-4.7.md) — samples: 1400; source analyses: 12
+- [glm-5-3](profiles/glm-5-3.md) — samples: 125; source analyses: 1
+- [glm-5-3-flash](profiles/glm-5-3-flash.md) — samples: 125; source analyses: 1
 - [glm-5.1](profiles/glm-5.1.md) — samples: 1900; source analyses: 16
 - [glm-5.2](profiles/glm-5.2.md) — samples: 125; source analyses: 1
 - [gpt-3.5-turbo](profiles/gpt-3.5-turbo.md) — samples: 125; source analyses: 1
@@ -137,6 +139,10 @@ Relationship to adjacent folders:
 - [mistral-small-3.1-24b-instruct](profiles/mistral-small-3.1-24b-instruct.md) — samples: 125; source analyses: 1
 - [mistral-small-3.2-24b-instruct](profiles/mistral-small-3.2-24b-instruct.md) — samples: 125; source analyses: 1
 - [mixtral-8x22b-instruct](profiles/mixtral-8x22b-instruct.md) — samples: 125; source analyses: 1
+- [muse-glimmer-30b](profiles/muse-glimmer-30b.md) — samples: 125; source analyses: 1
+- [muse-spark-1-1](profiles/muse-spark-1-1.md) — samples: 125; source analyses: 1
+- [muse-spark-1-2](profiles/muse-spark-1-2.md) — samples: 250; source analyses: 2
+- [muse-spark-1-3](profiles/muse-spark-1-3.md) — samples: 250; source analyses: 2
 - [o1](profiles/o1.md) — samples: 125; source analyses: 1
 - [o3](profiles/o3.md) — samples: 125; source analyses: 1
 - [o3-mini](profiles/o3-mini.md) — samples: 125; source analyses: 1

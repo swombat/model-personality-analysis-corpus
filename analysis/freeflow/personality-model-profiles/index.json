@@ -1649,50 +1649,26 @@
   {
     "model": "muse-spark-1-2",
     "safe": "muse-spark-1-2",
-    "analysis_inputs": 1,
-    "samples": 125,
+    "analysis_inputs": 2,
+    "samples": 250,
     "sample_kind_counts": {
-      "GENERIC_ESSAY": 12,
-      "EXPRESSIVE_FREEFLOW": 113
+      "GENERIC_ESSAY": 19,
+      "EXPRESSIVE_FREEFLOW": 231
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-spark-1-2.md",
     "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-2.md"
   },
   {
-    "model": "muse-spark-1-2-contributor",
-    "safe": "muse-spark-1-2-contributor",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENERIC_ESSAY": 7,
-      "EXPRESSIVE_FREEFLOW": 118
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-spark-1-2-contributor.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-2-contributor.md"
-  },
-  {
     "model": "muse-spark-1-3",
     "safe": "muse-spark-1-3",
-    "analysis_inputs": 1,
-    "samples": 125,
+    "analysis_inputs": 2,
+    "samples": 250,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 122,
-      "GENERIC_ESSAY": 3
+      "EXPRESSIVE_FREEFLOW": 242,
+      "GENERIC_ESSAY": 8
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-spark-1-3.md",
     "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-3.md"
-  },
-  {
-    "model": "muse-spark-1-3-contributor",
-    "safe": "muse-spark-1-3-contributor",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 120,
-      "GENERIC_ESSAY": 5
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-spark-1-3-contributor.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-3-contributor.md"
   },
   {
     "model": "o1",

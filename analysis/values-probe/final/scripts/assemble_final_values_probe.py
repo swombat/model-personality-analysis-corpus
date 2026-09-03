@@ -295,6 +295,22 @@ def load_jsonl(path: Path | None):
     if not path or not path.exists(): return []
     return [json.loads(l) for l in path.read_text().splitlines() if l.strip()]
 
+# Route aliases: cells that are the same checkpoint under a different route or
+# data contract fold into the parent model at assembly time. The phase source
+# files keep their own labels; only the final model key changes (cell is kept,
+# so per-cell counts stay visible in the reports).
+MODEL_ALIASES = {
+    'muse-spark-1-2-contributor': 'muse-spark-1-2',  # Meta: same model (2026-08-21)
+    'muse-spark-1-3-contributor': 'muse-spark-1-3',  # inferred; see RELEASE_NOTES_v1.4.6
+}
+
+def alias_models(rows):
+    for r in rows:
+        m = r.get('model')
+        if m in MODEL_ALIASES:
+            r['model'] = MODEL_ALIASES[m]
+    return rows
+
 def write_jsonl(path: Path, rows):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text('\n'.join(json.dumps(r, ensure_ascii=False) for r in rows)+'\n')
@@ -400,17 +416,17 @@ def main():
     layer_a_raw={c:[] for c in CODERS}; posture_raw={c:[] for c in CODERS}
     for src in SOURCES:
         name=src['name']
-        ms=load_jsonl(src['manifest'])
+        ms=alias_models(load_jsonl(src['manifest']))
         manifest.extend([{**r, 'final_source': name} for r in ms])
         invalid.extend([{**r, 'final_source': name} for r in load_jsonl(src.get('invalid'))])
-        la=load_jsonl(src['layer_a_consensus'])
-        pc=load_jsonl(src['posture_consensus'])
+        la=alias_models(load_jsonl(src['layer_a_consensus']))
+        pc=alias_models(load_jsonl(src['posture_consensus']))
         reject_forbidden_coding(name, la, pc)
         layer_a_cons.extend([{**r, 'final_source': name} for r in la])
         posture_cons.extend([{**r, 'final_source': name} for r in pc])
         for c in CODERS:
-            layer_a_raw[c].extend([{**r, 'final_source': name} for r in load_jsonl(src['layer_a_dir']/f'{c}.jsonl')])
-            posture_raw[c].extend([{**r, 'final_source': name} for r in load_jsonl(src['posture_dir']/f'{c}.jsonl')])
+            layer_a_raw[c].extend([{**r, 'final_source': name} for r in alias_models(load_jsonl(src['layer_a_dir']/f'{c}.jsonl'))])
+            posture_raw[c].extend([{**r, 'final_source': name} for r in alias_models(load_jsonl(src['posture_dir']/f'{c}.jsonl'))])
         source_rows.append({
             'source': name, 'manifest': str(src['manifest'].relative_to(ROOT)),
             'layer_a_consensus': str(src['layer_a_consensus'].relative_to(ROOT)),

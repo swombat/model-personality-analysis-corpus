@@ -2,7 +2,7 @@
 
 - valid samples: 26026
 - invalid/error traces excluded: 14
-- models: 153
+- models: 151
 - cells: 217
 
 ## Source components
@@ -36,7 +36,7 @@
 - phase28_glm53_flash_deepinfra_20260826: 120 samples, 1 model(s), 1 cell(s)
 - phase30_fable51_20260901: 120 samples, 1 model(s), 1 cell(s)
 - phase31_gemini38_flash_20260902: 120 samples, 1 model(s), 1 cell(s)
-- phase32_muse_family_20260903: 720 samples, 6 model(s), 6 cell(s)
+- phase32_muse_family_20260903: 720 samples, 4 model(s), 6 cell(s)
 
 ## Overall collapsed posture distribution
 

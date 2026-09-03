@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import json, re, collections
+import json, re, re, collections
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -13,10 +13,15 @@ def safe(s): return re.sub(r'[^a-zA-Z0-9._-]+','-',s).strip('-')
 
 def canonical(srcs, cell):
     s=(srcs or [''])[0].lower()
-    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','zai-org/','01-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','thinkingmachines/','stealth/']:
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','zai-org/','01-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','meta/','thinkingmachines/','stealth/']:
         if s.startswith(pref):
             s=s[len(pref):]; break
     if s.startswith('gpt-5.3-chat'): s='gpt-5.3'
+    # Meta Muse Spark: the Contributor tier is the same checkpoint under
+    # different data terms (Meta, 2026-08-21 for 1.2; inferred for 1.3 —
+    # see RELEASE_NOTES_v1.4.6). Fold it into the parent; keep the dashed
+    # form the phase-32 files already use.
+    s = re.sub(r'^muse-spark-1\.(\d)(?:-contributor)?$', r'muse-spark-1-\1', s)
     if s == 'gpt-4o-2024-08-06': s = 'gpt-4o'
     # Dated 0731 deployment collected via direct API whose catalog id is the
     # bare 'deepseek-v4-flash' — a different, older release's name. Keep dated.

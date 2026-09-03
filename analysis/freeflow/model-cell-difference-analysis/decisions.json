@@ -216,6 +216,18 @@
     "status": "skipped"
   },
   {
+    "model": "muse-spark-1-2",
+    "safe": "muse-spark-1-2",
+    "decision": "NO_STRONG_DIVERGENCE",
+    "status": "skipped"
+  },
+  {
+    "model": "muse-spark-1-3",
+    "safe": "muse-spark-1-3",
+    "decision": "NO_STRONG_DIVERGENCE",
+    "status": "skipped"
+  },
+  {
     "model": "opus-5",
     "safe": "opus-5",
     "decision": "NO_STRONG_DIVERGENCE",
@@ -237,42 +249,12 @@
     "model": "qwen/qwen3.8-2.4t-a95b",
     "safe": "qwen-qwen3.8-2.4t-a95b",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4884,
-      "completion_tokens": 1230,
-      "total_tokens": 6114,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   },
   {
     "model": "qwen/qwen3.8-max",
     "safe": "qwen-qwen3.8-max",
     "decision": "NO_STRONG_DIVERGENCE",
-    "status": "ok",
-    "usage": {
-      "prompt_tokens": 4884,
-      "completion_tokens": 1107,
-      "total_tokens": 5991,
-      "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0
-      },
-      "completion_tokens_details": {
-        "reasoning_tokens": 0,
-        "audio_tokens": 0,
-        "accepted_prediction_tokens": 0,
-        "rejected_prediction_tokens": 0
-      }
-    }
+    "status": "skipped"
   }
 ]
