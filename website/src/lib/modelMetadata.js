@@ -11,6 +11,7 @@ const familyLabels = {
   grok: 'Grok',
   kimi: 'Kimi',
   llama: 'Llama',
+  muse: 'Muse',
   minimax: 'MiniMax',
   mistral: 'Mistral',
   'openai-o': 'OpenAI o-series',

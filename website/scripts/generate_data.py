@@ -194,6 +194,12 @@ MODEL_SLUGS = {
     "mixtral-8x22b-instruct": "mistralai/mixtral-8x22b-instruct",
     "llama-4-maverick": "meta-llama/llama-4-maverick",
     "llama-4-scout": "meta-llama/llama-4-scout",
+    "muse-spark-1-1": "meta/muse-spark-1.1",
+    "muse-spark-1-2": "meta/muse-spark-1.2",
+    "muse-spark-1-2-contributor": "meta/muse-spark-1.2-contributor",
+    "muse-spark-1-3": "meta/muse-spark-1.3",
+    "muse-spark-1-3-contributor": "meta/muse-spark-1.3-contributor",
+    "muse-glimmer-30b": "meta/muse-glimmer-30b",
     "llama-3-3-70b-instruct": "meta-llama/llama-3.3-70b-instruct",
     "llama-3-1-70b-instruct": "meta-llama/llama-3.1-70b-instruct",
     "llama-3-1-8b-instruct": "meta-llama/llama-3.1-8b-instruct",
@@ -389,6 +395,9 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "glm-5.3"
     if slug == "glm-5-3-flash":
         return "glm-5.3-flash"
+    if slug.startswith("muse-spark-"):
+        # muse-spark-1-2-contributor -> muse-spark-1.2-contributor
+        return re.sub(r"^muse-spark-(\d)-(\d)", r"muse-spark-\1.\2", slug)
     return profile_model or slug
 
 
@@ -416,7 +425,7 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Qwen"
     if slug.startswith(("mistral", "ministral", "mixtral", "devstral", "codestral")):
         return "Mistral"
-    if slug.startswith("llama"):
+    if slug.startswith(("llama", "muse")):
         return "Meta"
     if slug.startswith("inkling"):
         return "Thinking Machines Lab"
@@ -458,6 +467,8 @@ def family_for_model(model: str) -> str:
         return "mistral"
     if model.startswith("llama"):
         return "llama"
+    if model.startswith("muse"):
+        return "muse"
     return "other"
 
 

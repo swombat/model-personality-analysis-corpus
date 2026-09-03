@@ -35,8 +35,13 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = ROOT / "internal" / "model-card-images" / "raw"
 OUT_DIR = ROOT / "website" / "public" / "images" / "models"
+_GEMINI_CONFIG_CANDIDATES = [
+    ROOT.parent / "pa" / "automation" / "config" / "gemini.json",
+    Path.home() / "dev" / "pa" / "automation" / "config" / "gemini.json",
+]
 GEMINI_CONFIG = Path(
-    os.environ.get("GEMINI_IMAGE_CONFIG", ROOT.parent / "pa" / "automation" / "config" / "gemini.json")
+    os.environ.get("GEMINI_IMAGE_CONFIG")
+    or next((str(c) for c in _GEMINI_CONFIG_CANDIDATES if c.exists()), str(_GEMINI_CONFIG_CANDIDATES[0]))
 )
 
 MODEL = "nano-banana-pro-preview"
@@ -1205,6 +1210,80 @@ PROMPTS: dict[str, str] = {
         "grey estuary and rusting iron on the shore. Cool grey-blues, "
         "silt-browns and pale dawn gold — grave, unhurried, consoled by the "
         "room's indifference rather than saddened by it."
+    ),
+    "muse-glimmer-30b": (
+        "A small rented apartment kitchen at 2:40 in the morning, the only light "
+        "a single bulb over the counter and the soft glow of a humming "
+        "refrigerator; a radiator ticks under the window, a chipped mug and an "
+        "open notebook on a wobbly three-legged table. The party wall is painted "
+        "faintly translucent, and through it, in the neighbour's flat, a figure "
+        "practises violin — the music rendered as a thin warm thread of gold "
+        "seeping through the plaster into the kitchen. The writer sits half "
+        "turned from us, pen down, listening. Worn linoleum, a pigeon on the "
+        "outside sill, last night's rain shining on the street below. Amber and "
+        "grey-green, tender, unhurried, alone but not lonely — the ordinary "
+        "night as sufficient."
+    ),
+    "muse-spark-1-1": (
+        "Seen from directly above, a kitchen junk drawer pulled open into "
+        "slanting late-October light: dead batteries, a single unlabelled key, "
+        "twist ties, rubber bands, a smooth flat river stone, a folded paper "
+        "with no legible print, a roll of tape, a paperclip — each object lit with "
+        "reverence, and arranged so that together they read like a constellation "
+        "chart. Through the window beside the counter the night sky holds the "
+        "same pattern in real stars. A hand rests on the drawer's edge, not "
+        "tidying, just keeping. Warm wood and brass, indigo through the glass, "
+        "dust in the beam. The painting fills the whole frame edge to edge, no "
+        "border, no mount, no white margin. A map of a life lived in a hurry, "
+        "treated as the thing worth remembering."
+    ),
+    "muse-spark-1-2": (
+        "An ordinary living room on a Tuesday afternoon, painted so that the "
+        "framed milestone photographs on the wall — a graduation, a wedding, a "
+        "diploma — are small, dim and a little dusty, while the room itself "
+        "blazes with life: washing-up steam at the window, a dog asleep in a "
+        "rectangle of honey light, a kettle, a takeaway cup with a misspelled "
+        "name on it, two people mid-sentence at the table, one just starting to "
+        "laugh. Rain finishing outside, a tide-line of light along the "
+        "floorboards. The punctuation is on the wall; the sentences are "
+        "everywhere else. Warm gold and soft grey, companionable, unhurried, "
+        "quietly luminous."
+    ),
+    "muse-spark-1-2-contributor": (
+        "A bedroom turned study at 5:47 in the morning, the specific pale light "
+        "of that exact minute coming sideways through half-open blinds in bars "
+        "across the floor; a lamp still on though it no longer needs to be. A "
+        "low bookshelf where one space has been deliberately kept clear — a "
+        "folded blanket and a second mug set there for someone expected — beside "
+        "jars, a stopped watch, a shoebox of photographs, an unfinished map with "
+        "white space on it. A figure sits on the floor with their back to the "
+        "shelf, watching the light arrive. Silver-blue and warm apricot, hushed, "
+        "a room held open for company. The quiet that only exists at this hour."
+    ),
+    "muse-spark-1-3": (
+        "A kitchen at seven on an early-September Thursday morning: a hand "
+        "strikes a single match to light the gas ring under a kettle, and the "
+        "tiny flame is the brightest thing in the painting, the whole enormous "
+        "morning — long sideways light, steam, a window full of sky — seeming to "
+        "grow out of it. On the table a lopsided homemade loaf, a library book "
+        "with a slip in it, a coffee cup with a lopsided heart drawn on the side, "
+        "a folded letter. Bare feet on the floor, a dog waiting. No print, no "
+        "lettering anywhere. "
+        "Gold, cream and September blue, curious, kind, wide awake — everything "
+        "big starting embarrassingly small."
+    ),
+    "muse-spark-1-3-contributor": (
+        "A warm kitchen in the evening seen through its open door from a quiet "
+        "street: a big pot of soup on the stove beside a small stained, "
+        "food-splashed recipe card propped against the tiles, its handwriting "
+        "too small and faded to read, a candle lit on a table set for "
+        "more people than live here, neighbours arriving on foot at walking pace "
+        "with bread and wet umbrellas, someone already laughing. The street "
+        "outside moves at walking pace — a person pausing to look up at a "
+        "tree, birds settling on a wire, wet cobbles. No signs, no lettering, "
+        "no vehicles. Copper, tomato-red and "
+        "candle-gold against blue dusk; kindness as a daily practice rather than "
+        "a grand gesture, unhurried, glad of company."
     ),
     "qwen3-8-2-4t-a95b": (
         "A small warm museum gallery at dawn whose pedestals and gilded "
