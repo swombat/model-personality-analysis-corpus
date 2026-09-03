@@ -198,6 +198,12 @@
     "retrieved_date": "2026-08-26",
     "index_version": "4.1.1"
   },
+  "glm-5-3-flash": {
+    "aaii": 57,
+    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+    "retrieved_date": "2026-09-03",
+    "index_version": "4.1.1"
+  },
   "gpt-3-5-turbo": {
     "aaii": 4,
     "url": "https://artificialanalysis.ai/models?models=gpt-35-turbo",

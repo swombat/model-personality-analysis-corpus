@@ -6,6 +6,7 @@ import { familyLabel } from '../lib/modelMetadata.js';
 const completeModels = models
   .filter((model) => model.status !== 'redirect')
   .sort((a, b) => (b.release_date || '').localeCompare(a.release_date || '') || (a.display_name || a.model).localeCompare(b.display_name || b.model));
+const defaultVisibleModels = completeModels.filter((model) => !model.model.startsWith('ox-alpha-'));
 const labs = [...new Set(completeModels.map((model) => model.lab))].sort();
 const families = [...new Set(completeModels.map((model) => model.family))].sort();
 const totalSamples = completeModels.reduce((sum, model) => sum + model.published_samples, 0);
@@ -118,6 +119,7 @@ function valuePillStyle(label) {
       Sort
       <select id="sortSelect">
         <option value="release">Newest release</option>
+        <option value="intelligence">Highest intelligence</option>
         <option value="model">Model</option>
         <option value="lab">Lab</option>
         <option value="price">Cheapest input</option>
@@ -125,22 +127,28 @@ function valuePillStyle(label) {
         <option value="samples">Most samples</option>
       </select>
     </label>
+    <label class="checkbox-filter">
+      <input id="includeEphemeral" type="checkbox" />
+      <span>Include ephemeral stealth model probes</span>
+    </label>
   </section>
 
   <div class="section-title">
     <h2>Models</h2>
-    <span id="resultCount" class="chip amber">{completeModels.length} shown</span>
+    <span id="resultCount" class="chip amber">{defaultVisibleModels.length} shown</span>
   </div>
 
   <section id="modelGrid" class="model-grid">
     {completeModels.map((model) => (
       <article
-        class="model-card"
+        class:list={['model-card', { hidden: model.model.startsWith('ox-alpha-') }]}
         data-model={model.model}
         data-lab={model.lab}
         data-family={model.family}
+        data-ephemeral={model.model.startsWith('ox-alpha-') ? 'true' : 'false'}
         data-search={`${model.model} ${model.display_name || ''} ${model.lab} ${model.family} ${model.summary}`.toLowerCase()}
         data-release={model.release_date || ''}
+        data-intelligence={model.benchmarks?.aaii ?? -1}
         data-price={model.openrouter?.prompt_per_million ?? 999999}
         data-speed={model.speed_tokens_per_second ?? -1}
         data-samples={model.published_samples}
@@ -266,6 +274,7 @@ function valuePillStyle(label) {
     const labFilter = document.getElementById('labFilter');
     const familyFilter = document.getElementById('familyFilter');
     const sortSelect = document.getElementById('sortSelect');
+    const includeEphemeral = document.getElementById('includeEphemeral');
     const resultCount = document.getElementById('resultCount');
     const emptyState = document.getElementById('emptyState');
 
@@ -279,7 +288,8 @@ function valuePillStyle(label) {
         const matches =
           (!query || card.dataset.search.includes(query)) &&
           (!lab || card.dataset.lab === lab) &&
-          (!family || card.dataset.family === family);
+          (!family || card.dataset.family === family) &&
+          (includeEphemeral.checked || card.dataset.ephemeral !== 'true');
 
         card.classList.toggle('hidden', !matches);
         if (matches) visible += 1;
@@ -287,6 +297,10 @@ function valuePillStyle(label) {
 
       const sorted = [...cards].sort((a, b) => {
         const sort = sortSelect.value;
+        if (sort === 'intelligence') {
+          return Number(b.dataset.intelligence) - Number(a.dataset.intelligence)
+            || a.dataset.model.localeCompare(b.dataset.model);
+        }
         if (sort === 'price') return Number(a.dataset.price) - Number(b.dataset.price);
         if (sort === 'speed') return Number(b.dataset.speed) - Number(a.dataset.speed);
         if (sort === 'samples') return Number(b.dataset.samples) - Number(a.dataset.samples);
@@ -300,7 +314,7 @@ function valuePillStyle(label) {
       emptyState.classList.toggle('hidden', visible !== 0);
     }
 
-    [search, labFilter, familyFilter, sortSelect].forEach((el) => {
+    [search, labFilter, familyFilter, sortSelect, includeEphemeral].forEach((el) => {
       el.addEventListener('input', applyFilters);
       el.addEventListener('change', applyFilters);
     });
