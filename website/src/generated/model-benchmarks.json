@@ -822,7 +822,7 @@
   "muse-spark-1-2-contributor": {
     "aaii": 57,
     "url": "https://artificialanalysis.ai/models/muse-spark-1-2",
-    "matched_alias": "Muse Spark 1.2 (xhigh) — contributor tier serves the same weights",
+    "matched_alias": "Muse Spark 1.2 (xhigh) — no separate AA entry; Meta states the contributor tier is the same model",
     "retrieved_date": "2026-09-03",
     "index_version": "4.1.1"
   },
@@ -843,7 +843,7 @@
   "muse-spark-1-3-contributor": {
     "aaii": 61,
     "url": "https://artificialanalysis.ai/models/muse-spark-1-3-xhigh",
-    "matched_alias": "Muse Spark 1.3 (xhigh) — contributor tier serves the same weights",
+    "matched_alias": "Muse Spark 1.3 (xhigh) — no separate AA entry; same checkpoint inferred, not stated by Meta (see v1.4.5 notes)",
     "retrieved_date": "2026-09-03",
     "index_version": "4.1.1"
   }

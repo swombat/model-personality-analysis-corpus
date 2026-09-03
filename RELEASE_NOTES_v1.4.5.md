@@ -99,6 +99,22 @@ renders were re-done for legible text ("MENU", "News News", a bus reading
   corpus was collected at each model's default reasoning behaviour (medium
   effort), so the scores are recorded with `matched_alias` naming the
   variant; Contributor tiers carry the standard tier's score with a note.
+  **Correction (2026-09-03, after Daniel asked):** the first draft of these
+  notes said both Contributor tiers "serve the same weights". That is
+  *stated* by Meta only for 1.2 ("Same model, same 1M context and
+  multimodal input", Meta for Developers, 21 Aug 2026; the launch coverage
+  lists "two model IDs for the same weights"). For 1.3 Meta's own
+  announcement does not mention the tier at all; OpenRouter describes it
+  as "the cost-efficient contributor tier of Meta's multimodal reasoning
+  model" and prices it identically to 1.2 Contributor. Our corpus supports
+  the same-checkpoint reading without proving it: char 3–5-gram TF-IDF
+  centroid cosine between the two 1.3 tiers is **0.9798**, between the two
+  1.2 tiers **0.9797**, and every cross-version pair sits at 0.91–0.96 —
+  the 1.3 pair carries exactly the signature of the pair Meta confirms
+  identical. The 1.3 Contributor `matched_alias` now says "inferred, not
+  stated"; the score is kept rather than blanked because the alternative
+  (no score for an endpoint that is, on every available signal, the same
+  model) would mislead more than it protects.
 - Release dates: Meta's announcements (1.1 on 9 Jul; 1.2 and its
   Contributor tier on 5 Aug; Glimmer weights on 10 Aug; 1.3 and its
   Contributor tier on 2 Sep). OpenRouter's `created` stamps agree except
