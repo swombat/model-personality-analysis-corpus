@@ -284,6 +284,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase32_muse_spark_1_3_20260903/posture_collapsed',
         'posture_consensus': LAYERED/'phase32_muse_spark_1_3_20260903/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase33_gpt6_astra_20260904',
+        'manifest': LAYERED/'phase33_gpt6_astra_20260904/manifest_phase33.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase33_gpt6_astra_20260904/layer_a',
+        'layer_a_consensus': LAYERED/'phase33_gpt6_astra_20260904/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase33_gpt6_astra_20260904/posture_collapsed',
+        'posture_consensus': LAYERED/'phase33_gpt6_astra_20260904/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

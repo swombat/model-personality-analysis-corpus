@@ -96,6 +96,7 @@ MODEL_SLUGS = {
     "gpt-5-6-sol": "openai/gpt-5.6-sol",
     "gpt-5-6-terra": "openai/gpt-5.6-terra",
     "gpt-5-6-luna": "openai/gpt-5.6-luna",
+    "gpt-6-astra": "openai/gpt-6-astra",
     "gpt-5-4-mini": "openai/gpt-5.4-mini",
     "gpt-5-4-nano": "openai/gpt-5.4-nano",
     "gpt-5-1-codex-max": "openai/gpt-5.1-codex-max",

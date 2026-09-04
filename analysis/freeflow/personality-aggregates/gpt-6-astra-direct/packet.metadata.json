@@ -1,0 +1,27 @@
+{
+  "cell": "gpt-6-astra-direct",
+  "safe_cell": "gpt-6-astra-direct",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 95,
+    "GENERIC_ESSAY": 9,
+    "EXPRESSIVE_FREEFLOW": 21
+  },
+  "confidence_counts": {
+    "Medium": 90,
+    "High": 31,
+    "Low": 4
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "gpt-6-astra"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-6-astra-direct/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-6-astra-direct/aggregate.md"
+}

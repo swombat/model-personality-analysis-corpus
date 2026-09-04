@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 148
+- Model cards: 149
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -79,6 +79,7 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-5.6-luna](cards/gpt-5.6-luna.md) — samples: 125; variants: 1
 - [gpt-5.6-sol](cards/gpt-5.6-sol.md) — samples: 125; variants: 1
 - [gpt-5.6-terra](cards/gpt-5.6-terra.md) — samples: 125; variants: 1
+- [gpt-6-astra](cards/gpt-6-astra.md) — samples: 125; variants: 1
 - [gpt-oss-120b](cards/gpt-oss-120b.md) — samples: 125; variants: 1
 - [gpt-oss-20b](cards/gpt-oss-20b.md) — samples: 125; variants: 1
 - [grok-3](cards/grok-3.md) — samples: 125; variants: 1

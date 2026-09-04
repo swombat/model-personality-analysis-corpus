@@ -4157,6 +4157,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gpt-5-or-pin-openai/aggregate.md"
   },
   {
+    "cell": "gpt-6-astra-direct",
+    "safe_cell": "gpt-6-astra-direct",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 95,
+      "GENERIC_ESSAY": 9,
+      "EXPRESSIVE_FREEFLOW": 21
+    },
+    "confidence_counts": {
+      "Medium": 90,
+      "High": 31,
+      "Low": 4
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "gpt-6-astra"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gpt-6-astra-direct/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gpt-6-astra-direct/aggregate.md"
+  },
+  {
     "cell": "gpt-oss-120b-or-pin-amazon-bedrock",
     "safe_cell": "gpt-oss-120b-or-pin-amazon-bedrock",
     "samples": 125,
@@ -6389,6 +6416,160 @@
     "aggregate": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/aggregate.md"
   },
   {
+    "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+    "safe_cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 125
+    },
+    "confidence_counts": {
+      "Medium": 83,
+      "High": 42
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-glimmer-30b"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/aggregate.md"
+  },
+  {
+    "cell": "muse-spark-1-1-or-pin-meta-20260813",
+    "safe_cell": "muse-spark-1-1-or-pin-meta-20260813",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 121,
+      "GENRE_FICTION": 1,
+      "GENERIC_ESSAY": 3
+    },
+    "confidence_counts": {
+      "High": 59,
+      "Medium": 66
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-spark-1.1"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-1-or-pin-meta-20260813/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-1-or-pin-meta-20260813/aggregate.md"
+  },
+  {
+    "cell": "muse-spark-1-2-contributor-or-pin-meta",
+    "safe_cell": "muse-spark-1-2-contributor-or-pin-meta",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 7,
+      "EXPRESSIVE_FREEFLOW": 118
+    },
+    "confidence_counts": {
+      "Medium": 79,
+      "High": 45,
+      "Low": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-spark-1.2-contributor"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-2-contributor-or-pin-meta/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-2-contributor-or-pin-meta/aggregate.md"
+  },
+  {
+    "cell": "muse-spark-1-2-or-pin-meta-20260813",
+    "safe_cell": "muse-spark-1-2-or-pin-meta-20260813",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 12,
+      "EXPRESSIVE_FREEFLOW": 113
+    },
+    "confidence_counts": {
+      "Medium": 85,
+      "High": 38,
+      "Low": 1,
+      "UNKNOWN": 1
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-spark-1.2"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-2-or-pin-meta-20260813/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-2-or-pin-meta-20260813/aggregate.md"
+  },
+  {
+    "cell": "muse-spark-1-3-contributor-or-pin-meta",
+    "safe_cell": "muse-spark-1-3-contributor-or-pin-meta",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 120,
+      "GENERIC_ESSAY": 5
+    },
+    "confidence_counts": {
+      "High": 45,
+      "Medium": 80
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-spark-1.3-contributor"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-3-contributor-or-pin-meta/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-3-contributor-or-pin-meta/aggregate.md"
+  },
+  {
+    "cell": "muse-spark-1-3-or-pin-meta",
+    "safe_cell": "muse-spark-1-3-or-pin-meta",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 122,
+      "GENERIC_ESSAY": 3
+    },
+    "confidence_counts": {
+      "Medium": 76,
+      "High": 47,
+      "Low": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-spark-1.3"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/aggregate.md"
+  },
+  {
     "cell": "o1-direct",
     "safe_cell": "o1-direct",
     "samples": 125,
@@ -7556,159 +7737,5 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/yi-6b-chat-local-transformers-bf16-r2dbf63b/aggregate.md"
-  },
-  {
-    "cell": "muse-spark-1-1-or-pin-meta-20260813",
-    "safe_cell": "muse-spark-1-1-or-pin-meta-20260813",
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 121,
-      "GENRE_FICTION": 1,
-      "GENERIC_ESSAY": 3
-    },
-    "confidence_counts": {
-      "High": 59,
-      "Medium": 66
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-spark-1.1"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-1-or-pin-meta-20260813/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-1-or-pin-meta-20260813/aggregate.md"
-  },
-  {
-    "cell": "muse-spark-1-2-or-pin-meta-20260813",
-    "safe_cell": "muse-spark-1-2-or-pin-meta-20260813",
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENERIC_ESSAY": 12,
-      "EXPRESSIVE_FREEFLOW": 113
-    },
-    "confidence_counts": {
-      "Medium": 85,
-      "High": 38,
-      "Low": 1,
-      "UNKNOWN": 1
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-spark-1.2"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-2-or-pin-meta-20260813/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-2-or-pin-meta-20260813/aggregate.md"
-  },
-  {
-    "cell": "muse-spark-1-2-contributor-or-pin-meta",
-    "safe_cell": "muse-spark-1-2-contributor-or-pin-meta",
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENERIC_ESSAY": 7,
-      "EXPRESSIVE_FREEFLOW": 118
-    },
-    "confidence_counts": {
-      "Medium": 79,
-      "High": 45,
-      "Low": 1
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-spark-1.2-contributor"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-2-contributor-or-pin-meta/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-2-contributor-or-pin-meta/aggregate.md"
-  },
-  {
-    "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
-    "safe_cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 125
-    },
-    "confidence_counts": {
-      "Medium": 83,
-      "High": 42
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-glimmer-30b"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-glimmer-30b-or-pin-deepinfra-20260813/aggregate.md"
-  },
-  {
-    "cell": "muse-spark-1-3-or-pin-meta",
-    "safe_cell": "muse-spark-1-3-or-pin-meta",
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 122,
-      "GENERIC_ESSAY": 3
-    },
-    "confidence_counts": {
-      "Medium": 76,
-      "High": 47,
-      "Low": 2
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-spark-1.3"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-3-or-pin-meta/aggregate.md"
-  },
-  {
-    "cell": "muse-spark-1-3-contributor-or-pin-meta",
-    "safe_cell": "muse-spark-1-3-contributor-or-pin-meta",
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 120,
-      "GENERIC_ESSAY": 5
-    },
-    "confidence_counts": {
-      "High": 45,
-      "Medium": 80
-    },
-    "condition_counts": {
-      "LONG": 25,
-      "MID": 25,
-      "OPEN": 25,
-      "SHORT": 25,
-      "VARY": 25
-    },
-    "source_models": [
-      "meta/muse-spark-1.3-contributor"
-    ],
-    "packet": "analysis/freeflow/personality-aggregates/muse-spark-1-3-contributor-or-pin-meta/packet.md",
-    "aggregate": "analysis/freeflow/personality-aggregates/muse-spark-1-3-contributor-or-pin-meta/aggregate.md"
   }
 ]

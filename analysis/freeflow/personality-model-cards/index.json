@@ -568,6 +568,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "gpt-6-astra",
+    "safe": "gpt-6-astra",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-6-astra.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gpt-oss-120b",
     "safe": "gpt-oss-120b",
     "variants": 1,
