@@ -121,6 +121,24 @@ function speedLabel(value) {
   if (!value) return 'unknown';
   return `${Math.round(value)} tok/s`;
 }
+
+// Capability display has three tiers, never blended: a ladder score (Epoch
+// AI), an Artificial Analysis Intelligence Index (AAII) fallback for models
+// the ladder hasn't scored yet, or "not yet scored" when neither exists.
+// See /methodology/capability-ladder/ ("Two sources, for now").
+function capabilityDisplay(model) {
+  const cap = model.capability;
+  if (cap && cap.ladder !== null && cap.ladder !== undefined) {
+    return { kind: 'ladder', cap };
+  }
+  const aaii = model.benchmarks?.aaii;
+  if (aaii !== null && aaii !== undefined) {
+    return { kind: 'aaii', aaii, indexVersion: model.benchmarks?.index_version || null };
+  }
+  return { kind: 'none' };
+}
+
+const capabilityDisplayValue = capabilityDisplay(model);
 ---
 
 <BaseLayout title={`${displayName} | Model Personality Browser`} description={model.summary}>
@@ -207,25 +225,43 @@ function speedLabel(value) {
         <div class="panel">
           <h2>Capability</h2>
           <div class="table-list">
-            <div>
-              <b>Ladder score</b><br />
-              {model.capability.ladder !== null && model.capability.ladder !== undefined ? (
-                <span>
+            {capabilityDisplayValue.kind === 'ladder' && (
+              <>
+                <div>
+                  <b>Ladder score</b><br />
                   <a href={`${base}methodology/capability-ladder/`}>
-                    {model.capability.ladder} / {model.capability.ladder_max}
+                    {capabilityDisplayValue.cap.ladder} / {capabilityDisplayValue.cap.ladder_max}
                   </a>
                   <br />
                   <span class="capability-caption">
-                    measured {model.capability.measured_rungs}/{model.capability.n_rungs} rungs
+                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs
                   </span>
-                </span>
-              ) : (
-                <span>
-                  <a class="capability-not-scored" href={`${base}methodology/capability-ladder/`}>not yet scored</a>
-                </span>
-              )}
-            </div>
-            <div><b>Source</b><br /><span>Epoch AI Capabilities Index (CC BY 4.0)</span></div>
+                </div>
+                <div><b>Source</b><br /><span>Epoch AI Capabilities Index (CC BY 4.0)</span></div>
+              </>
+            )}
+            {capabilityDisplayValue.kind === 'aaii' && (
+              <>
+                <div>
+                  <b>Ladder score</b><br />
+                  <a class="capability-aaii-link" href={`${base}methodology/capability-ladder/`}>
+                    AAII {capabilityDisplayValue.aaii}
+                    {capabilityDisplayValue.indexVersion && ` · v${capabilityDisplayValue.indexVersion}`}
+                  </a>
+                  <br />
+                  <span class="capability-caption">
+                    not yet scored by the capability ladder; legacy index shown as a fallback
+                  </span>
+                </div>
+                <div><b>Source</b><br /><span>Artificial Analysis Intelligence Index (legacy fallback)</span></div>
+              </>
+            )}
+            {capabilityDisplayValue.kind === 'none' && (
+              <div>
+                <b>Ladder score</b><br />
+                <a class="capability-not-scored" href={`${base}methodology/capability-ladder/`}>not yet scored</a>
+              </div>
+            )}
           </div>
         </div>
       )}

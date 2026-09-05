@@ -26,14 +26,14 @@ Prepared 2026-09-05.
   measured_rungs, n_rungs, status, epoch_model, match_confidence,
   point_variant) onto `models.json` alongside the existing `benchmarks`
   field.
-- **Coverage: 113 of 151 site models scored, 38 not yet scored.** The 38
-  are models with no exact/snapshot/family alias to an Epoch entry —
+- **Coverage: 113 of 151 site models get a ladder score.** Of the
+  remaining 38, no exact/snapshot/family alias to an Epoch entry exists —
   mostly small unreleased-benchmark open-weight models (Qwen 1.5/2 7B,
   ChatGLM2/3, GLM-4-9B), OpenAI's codex-suffixed variants, several
   Mistral/Ministral SKUs, the two stealth Ox Alpha probes, and a few very
-  recent releases (GPT-5.3, Kimi K2-0905, both Grok 4.1 Fast variants).
-  Unscored models render "not scored" (muted) instead of a number and
-  sort last on the intelligence sort.
+  recent releases (GPT-5.3, Kimi K2-0905, both Grok 4.1 Fast variants). Of
+  those 38, 28 have a recorded AAII figure and fall back to it (see below);
+  the other 10 show "not yet scored".
 - Top 5 by ladder score: GPT-6 Astra (506.4/590), Claude Fable 5.1
   (451.9/590), Claude Fable 5 (449.9/590), Claude Opus 5 (444.2/590), GPT-5.6
   Sol (441.1/590).
@@ -44,6 +44,30 @@ Prepared 2026-09-05.
   split reasoning/non-reasoning the way this site's samples do. And
   `mistral-7b-instruct-v0-2` aliases to Epoch's "Mistral 7B v0.1" (a
   different point release, family-matched on model size only).
-- Build verified clean (`npm run build`, 341 pages) with no remaining
-  `aaii` or "Artificial Analysis Intelligence" references anywhere in the
-  generated site.
+
+## Site: AAII kept as an explicit fallback (Daniel: keep it "for now")
+
+- Every capability display (home cards, lab/family cards, the model-page
+  Capability panel, the intelligence sort) now has three tiers that are
+  never blended: a **ladder score** where Epoch has one; otherwise the
+  last recorded **AAII fallback** (`benchmarks.aaii`), labelled distinctly
+  — muted styling, prefixed "AAII" and suffixed with its index version
+  (e.g. "AAII 46 · v4.1.1") — and linking to the same
+  `/methodology/capability-ladder/` page; otherwise "not yet scored".
+  Ladder-scored models never show an AAII figure alongside the ladder
+  number.
+- **Coverage with the fallback: 113 ladder-scored, 28 AAII-fallback, 10
+  with neither** (codestral-2508, kimi-coding, gpt-5-3, qwen1-5-7b-chat,
+  qwen2-7b-instruct, qwen3-5-plus-20260420, both ox-alpha stealth probes,
+  chatglm3-6b, glm-4-9b-chat-hf).
+- Sort-by-intelligence never interleaves the two scales: every
+  ladder-scored model outranks every AAII-fallback model, which outranks
+  every unscored model. Implemented as a single synthetic sort key
+  (`1,000,000 + ladder` / `500,000 + aaii` / `-1`) so the existing
+  descending-numeric sort needs no changes.
+- Methodology page: new "Two sources, for now" section explains the
+  migration is not yet complete, that AAII versions aren't comparable
+  with each other or with the ladder, and that the fallback is expected
+  to shrink and disappear as Epoch's coverage grows. Credits and links
+  Artificial Analysis.
+- Build verified clean (`npm run build`, 341 pages).

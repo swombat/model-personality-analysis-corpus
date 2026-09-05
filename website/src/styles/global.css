@@ -294,6 +294,26 @@ select {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
 }
 
+.capability-score-aaii {
+  font-size: 14px;
+  font-weight: 650;
+  opacity: 0.72;
+}
+
+.model-card .capability-score-aaii {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+}
+
+.capability-score-version {
+  font-size: 10px;
+  font-weight: 600;
+  opacity: 0.75;
+}
+
+.capability-aaii-link {
+  opacity: 0.8;
+}
+
 .chip {
   display: inline-flex;
   align-items: center;

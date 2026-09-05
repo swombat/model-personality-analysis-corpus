@@ -28,17 +28,40 @@ function releaseLabel(date) {
   });
 }
 
-function capabilityTitle(model) {
+// Capability display has three tiers, never blended: a ladder score (Epoch
+// AI), an Artificial Analysis Intelligence Index (AAII) fallback for models
+// the ladder hasn't scored yet, or "not yet scored" when neither exists.
+// See /methodology/capability-ladder/ ("Two sources, for now").
+function capabilityDisplay(model) {
   const cap = model.capability;
-  if (!cap) return '';
-  if (cap.ladder === null || cap.ladder === undefined) {
-    return 'Not yet scored on the capability ladder — no Epoch AI benchmark match for this model.';
+  if (cap && cap.ladder !== null && cap.ladder !== undefined) {
+    return { kind: 'ladder', cap };
   }
-  return (
-    `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
-    `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs; ${cap.match_confidence} match to ${cap.epoch_model}). ` +
-    `Source: Epoch AI Capabilities Index, CC BY 4.0.`
-  );
+  const aaii = model.benchmarks?.aaii;
+  if (aaii !== null && aaii !== undefined) {
+    return { kind: 'aaii', aaii, indexVersion: model.benchmarks?.index_version || null };
+  }
+  return { kind: 'none' };
+}
+
+function capabilityTitle(display) {
+  if (display.kind === 'ladder') {
+    const cap = display.cap;
+    return (
+      `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
+      `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs; ${cap.match_confidence} match to ${cap.epoch_model}). ` +
+      `Source: Epoch AI Capabilities Index, CC BY 4.0.`
+    );
+  }
+  if (display.kind === 'aaii') {
+    return (
+      `Artificial Analysis Intelligence Index: ${display.aaii}` +
+      `${display.indexVersion ? ` (index version ${display.indexVersion})` : ''}. ` +
+      `Shown as a fallback because this model has not yet been scored by the Epoch AI capability ladder; ` +
+      `AAII versions are not comparable with each other or with the ladder.`
+    );
+  }
+  return 'Not yet scored on the capability ladder, and no Artificial Analysis Intelligence Index on file for this model.';
 }
 ---
 
@@ -46,28 +69,43 @@ function capabilityTitle(model) {
   <h1>{lab}</h1>
   <p class="lede">Models from {lab}, with personality summaries and sample links.</p>
   <section class="model-grid">
-    {labModels.map((model) => (
+    {labModels.map((model) => {
+      const capabilityDisplayValue = capabilityDisplay(model);
+      const capabilityTitleValue = capabilityTitle(capabilityDisplayValue);
+      return (
       <article class="model-card">
-        {model.capability && (
-          model.capability.ladder !== null && model.capability.ladder !== undefined ? (
-            <a
-              class="benchmark-score capability-score"
-              href={`${base}methodology/capability-ladder/`}
-              title={capabilityTitle(model)}
-              aria-label={capabilityTitle(model)}
-            >
-              {model.capability.ladder}<span class="capability-score-max">/{model.capability.ladder_max}</span>
-            </a>
-          ) : (
-            <a
-              class="benchmark-score capability-score capability-score-unscored"
-              href={`${base}methodology/capability-ladder/`}
-              title={capabilityTitle(model)}
-              aria-label={capabilityTitle(model)}
-            >
-              not scored
-            </a>
-          )
+        {capabilityDisplayValue.kind === 'ladder' && (
+          <a
+            class="benchmark-score capability-score"
+            href={`${base}methodology/capability-ladder/`}
+            title={capabilityTitleValue}
+            aria-label={capabilityTitleValue}
+          >
+            {capabilityDisplayValue.cap.ladder}<span class="capability-score-max">/{capabilityDisplayValue.cap.ladder_max}</span>
+          </a>
+        )}
+        {capabilityDisplayValue.kind === 'aaii' && (
+          <a
+            class="benchmark-score capability-score capability-score-aaii"
+            href={`${base}methodology/capability-ladder/`}
+            title={capabilityTitleValue}
+            aria-label={capabilityTitleValue}
+          >
+            AAII {capabilityDisplayValue.aaii}
+            {capabilityDisplayValue.indexVersion && (
+              <span class="capability-score-version"> · v{capabilityDisplayValue.indexVersion}</span>
+            )}
+          </a>
+        )}
+        {capabilityDisplayValue.kind === 'none' && (
+          <a
+            class="benchmark-score capability-score capability-score-unscored"
+            href={`${base}methodology/capability-ladder/`}
+            title={capabilityTitleValue}
+            aria-label={capabilityTitleValue}
+          >
+            not yet scored
+          </a>
         )}
         <a class="card-link" href={`${base}models/${model.model}/`}>
           <div>
@@ -81,6 +119,7 @@ function capabilityTitle(model) {
           </div>
         </a>
       </article>
-    ))}
+      );
+    })}
   </section>
 </BaseLayout>
