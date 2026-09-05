@@ -71,3 +71,55 @@ Prepared 2026-09-05.
   to shrink and disappear as Epoch's coverage grows. Credits and links
   Artificial Analysis.
 - Build verified clean (`npm run build`, 341 pages).
+
+## Site: capability ladder switched to the Artificial Analysis substrate
+
+Supersedes the Epoch-based ladder above (the "Coverage: 113 of 151..."
+and "Top 5..." figures from the first section are stale — see below).
+Daniel wants the number Artificial Analysis's own published per-benchmark
+data supports, not Epoch's, as the site's displayed ladder.
+
+- `refresh_capability_ladder.py` gets a `--substrate aa|epoch` flag
+  (default `aa`); each substrate has its own default `ladder.json` path
+  and source label, overridable with `CAPABILITY_LADDER_JSON`. The `aa`
+  substrate reads `/Users/danieltenner/dev/model-capability-aa/pipeline/data/ladder.json`
+  — 19 rungs, max **190** — built the same way as the Epoch ladder
+  (chance-corrected, item-response fit, median thinking budget, 3-rung
+  floor) but entirely over Artificial Analysis's own per-benchmark model
+  pages.
+- Alias resolution for the `aa` substrate matches `aliases.tsv`'s
+  `aa_slug` column against each Combined entry's `link_slug` (the base
+  slug with any reasoning-effort suffix already stripped by the pipeline,
+  e.g. `claude-fable-5-1`, not `claude-fable-5-1-high`). Where an
+  aa_slug was recorded against a specific effort/reasoning-mode variant
+  (an artifact of the older AAII-era alias table) and no exact link_slug
+  match exists, both sides are normalized by stripping known
+  effort/reasoning-mode suffixes and matched again (tagged
+  `family-match`) — this is what resolves e.g. `grok-4-6`'s old
+  `-xhigh`-suffixed alias onto the Combined median-effort entry. An alias
+  that resolves to a Combined entry marked `insufficient_measurements`
+  (below the 3-rung floor) is treated as unscored, not scored-at-zero.
+  Per-model fields are now `matched_model` (was `epoch_model`) and a new
+  `source` string, so the site no longer hardcodes "Epoch AI..." in any
+  title/caption text.
+- **Coverage: 136 of 151 site models get a ladder score** (up from 113
+  under Epoch). Of the other 15, one (`gpt-5-1-codex-max`) has a recorded
+  AAII figure and falls back to it; the remaining 14 show "not yet
+  scored" (chatglm2-6b, chatglm3-6b, codestral-2508, glm-4-9b-chat-hf,
+  gpt-5-3, gpt-5-5-pro, mistral-nemo, both ox-alpha stealth probes,
+  qwen1-5-7b-chat, qwen2-7b-instruct, qwen3-5-plus-20260420,
+  qwen3-7-flash, yi-6b-chat).
+- Top 5 by ladder score: Claude Fable 5.1 (147.4/190), GPT-6 Astra
+  (146.1/190), Claude Opus 5 (144.4/190), Muse Spark 1.3 (142.8/190),
+  Claude Fable 5 (140.8/190).
+- Methodology page rewritten: Artificial Analysis credited prominently at
+  the top with a link and an explicit non-endorsement sentence
+  ("Artificial Analysis has not endorsed this site or this method"); a
+  paragraph on why this replaces the AA Intelligence Index number the
+  site used to show; a sentence noting Epoch AI's CC BY data was used as
+  an independent cross-check (the two publishers' fits place shared rungs
+  at closely matching difficulties); links to
+  `model-capability.danieltenner.com` and
+  `internal/capability-ladder/DESIGN.md`. The "Two sources, for now" AAII
+  fallback section is kept, reworded for the new substrate.
+- Build verified clean (`npm run build`, 341 pages).

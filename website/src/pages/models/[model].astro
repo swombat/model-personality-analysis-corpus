@@ -234,10 +234,10 @@ const capabilityDisplayValue = capabilityDisplay(model);
                   </a>
                   <br />
                   <span class="capability-caption">
-                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs
+                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs, median thinking budget
                   </span>
                 </div>
-                <div><b>Source</b><br /><span>Epoch AI Capabilities Index (CC BY 4.0)</span></div>
+                <div><b>Source</b><br /><span>{capabilityDisplayValue.cap.source}</span></div>
               </>
             )}
             {capabilityDisplayValue.kind === 'aaii' && (

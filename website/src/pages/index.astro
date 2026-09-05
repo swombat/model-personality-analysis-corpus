@@ -54,8 +54,9 @@ function capabilityTitle(display) {
     const cap = display.cap;
     return (
       `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
-      `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs; ${cap.match_confidence} match to ${cap.epoch_model}). ` +
-      `Source: Epoch AI Capabilities Index, CC BY 4.0.`
+      `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs, median thinking budget; ` +
+      `${cap.match_confidence} match to ${cap.matched_model}). ` +
+      `Source: ${cap.source}.`
     );
   }
   if (display.kind === 'aaii') {

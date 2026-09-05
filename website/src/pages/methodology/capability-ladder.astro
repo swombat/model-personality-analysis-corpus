@@ -4,14 +4,23 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const methodology = `# Capability ladder methodology
 
-Every model page shows one capability number: a **ladder score**. This
-page explains what it is, whose measurements it rests on, and what it
-deliberately does not do.
+Every model page shows one capability number: a **ladder score out of
+190**. This page explains what it is, whose measurements it rests on, and
+what it deliberately does not do.
+
+**Source and attribution.** The benchmark scores underneath this number
+are per-benchmark results published on
+[Artificial Analysis](https://artificialanalysis.ai)'s public model pages.
+Permission to use this data was requested from Artificial Analysis on
+2026-09-05. **Artificial Analysis has not endorsed this site or this
+method** — the ladder is this site's own computation over their published
+numbers, not a number Artificial Analysis itself publishes or has
+reviewed.
 
 ## What the number is
 
-The ladder is cumulative and open-ended. Every public benchmark the corpus
-tracks is a **rung**, worth a fixed 10 points times the model's
+The ladder is cumulative and open-ended. Every public benchmark this
+pipeline tracks is a **rung**, worth a fixed 10 points times the model's
 chance-corrected score on it (a model at the multiple-choice guessing
 floor scores 0 on that rung, not a share of 10). A model's ladder score is
 the sum of its points across every rung:
@@ -21,55 +30,44 @@ ladder score = Σ (10 × chance-corrected score) over all rungs
 \`\`\`
 
 Rungs are never retired and never re-normalised. A new, harder benchmark
-becomes a new rung with its own 10 points; points already earned on older
+becomes a new rung worth its own 10 points; points already earned on older
 rungs don't move. That's the property this design optimizes for: a 2023
 model and a 2026 model sit on the same ruler, and neither model's score
-changes when the frontier moves. The scale has no fixed ceiling — currently
-${'`'}10 × (number of rungs)${'`'} — and grows as benchmarks are added.
+changes when the frontier moves. The scale has no fixed ceiling — 19
+rungs today, for a maximum of **190**, growing by 10 with every new rung.
 
-## Whose measurements
+## Why this replaces the old Intelligence Index number
 
-No benchmark here was run by this site. The scores come from Epoch AI's
-**Capabilities Index** (their AI Benchmarking Hub data, released under CC
-BY 4.0) — an independent research organization that runs the same
-published benchmarks across a large panel of models and publishes both the
-raw per-benchmark results and a fitted per-model ability estimate. Credit
-and full data: [epoch.ai/benchmarks](https://epoch.ai/benchmarks).
-
-This replaces an earlier version of the site, which displayed Artificial
-Analysis's Intelligence Index. That index is re-normalised to 0–100 on
-every version release, and old benchmarks are dropped once the frontier
-saturates them — which erases exactly the benchmarks that used to
-distinguish older, weaker models from each other. A renormalised index and
-a longitudinal corpus want different things from a number.
-
-## Two sources, for now
-
-The site is mid-migration, not fully switched over. Where Epoch's data
-hasn't scored a model yet, its card falls back to the last **Artificial
-Analysis Intelligence Index (AAII)** figure this site recorded for it,
-labelled with its index version (e.g. "AAII 46 · v4.1.1") so it's never
-mistaken for a ladder score. The two numbers are never combined onto one
-scale: AAII versions aren't comparable with each other, and no AAII figure
-is comparable with the ladder, so a card shows one or the other, never
-both, and sorting always ranks every ladder-scored model above every
-AAII-fallback model. This fallback exists only so a still-informative
-number stays visible while Epoch's coverage catches up to new releases
-and extends to older, more obscure ones; expect it to shrink and
-eventually disappear. Credit for the fallback figures:
-[Artificial Analysis](https://artificialanalysis.ai/).
+An earlier version of this site displayed Artificial Analysis's own
+Intelligence Index. That index is re-normalised to 0–100 on every version
+release, and old benchmarks are dropped once the frontier saturates them
+— which erases exactly the benchmarks that used to distinguish older,
+weaker models from each other, the models this corpus spends the most
+effort characterizing. Comparable numbers only exist within one index
+version. The ladder is built from the same publisher's underlying
+per-benchmark results, but sums them cumulatively instead of
+re-normalising, so a model's score is stable across time and comparable
+across the whole corpus, from 2023's smallest open-weight releases to
+this week's frontier.
 
 ## How missing cells are handled
 
-Not every model has been run on every benchmark. Epoch treats this as an
-item-response measurement problem rather than a gap: each benchmark has an
-estimated difficulty, each model has one latent ability fit from every
-cell that *does* exist, and a missing cell is filled in as the score that
-ability predicts at that difficulty. An old, easy benchmark a model was
-never run on fills in near-ceiling; a new, hard one fills in near zero.
-Both are estimates, and the page says so — each model's card shows
-**"measured k of n rungs"**, so you can see how much of the score is an
-observed result versus a fitted one.
+Not every model has been run on every benchmark. This pipeline treats
+that as an item-response measurement problem rather than a gap: each
+benchmark has an estimated difficulty, each model has one latent ability
+fit from every cell that *does* exist, and a missing cell is filled in as
+the score that ability predicts at that difficulty. An old, easy
+benchmark a model was never run on fills in near-ceiling; a new, hard one
+fills in near zero. Both are estimates, and the page says so — each
+model's card shows **"measured k of n rungs"**, so you can see how much
+of the score is an observed result versus a fitted one.
+
+As an independent check on that fit, the same method was also run over
+[Epoch AI](https://epoch.ai/benchmarks)'s Capabilities Index data (CC BY
+4.0) — a different publisher's benchmark measurements — and the two fits
+place shared rungs at closely matching difficulties, which is evidence
+the underlying item-response model is measuring something real rather
+than overfitting to one publisher's quirks.
 
 ## Why the median-effort row
 
@@ -90,27 +88,41 @@ extreme ability" — so it shows as **not yet scored** rather than a number
 that would look precise but isn't. This mostly affects small, early
 open-weight 2023 releases that few benchmark trackers ever ran.
 
+## Two sources, for now
+
+Not every model on this site has enough published Artificial Analysis
+data to clear the 3-rung floor. Where that's the case, the card falls
+back to the last **Artificial Analysis Intelligence Index (AAII)** figure
+this site recorded for it, labelled with its index version (e.g. "AAII 46
+· v4.1.1") so it's never mistaken for a ladder score. The two numbers are
+never combined onto one scale: AAII versions aren't comparable with each
+other, and no AAII figure is comparable with the ladder, so a card shows
+one or the other, never both, and sorting always ranks every ladder-
+scored model above every AAII-fallback model above every unscored one.
+Expect the fallback to shrink over time as more benchmark history becomes
+available for these models.
+
 ## Limitations
 
 - **Fitted-heavy for very old models.** The 2023 tail (6B–7B chat models,
   early GPT-3.5-era releases) has only a handful of measured rungs; most
   of the score is extrapolation. "Measured k of n" is there so that's
   never hidden.
-- **Evaluator lag for very new models.** Epoch's pipeline takes time to
-  run a freshly released model against the full panel; a model released
-  in the last few days may show fewer measured rungs, or none yet.
+- **Evaluator lag for very new models.** A model released within the last
+  few days may show fewer measured rungs than it eventually will, or may
+  not clear the 3-rung floor yet.
 - **No benchmark, no number.** A handful of small open-weight releases
-  nobody has publicly benchmarked show "not yet scored" — a true gap, not
-  a hidden zero.
+  with no public Artificial Analysis page show "not yet scored" (or the
+  AAII fallback, above) rather than a hidden zero.
 
 ## Data and code
 
 The full scoring pipeline (chance-correction, the item-response fit, the
-rung list, per-model provenance) lives alongside Epoch's underlying data
-at [model-capability.danieltenner.com](https://model-capability.danieltenner.com)
+rung list, per-model provenance) lives at
+[model-capability.danieltenner.com](https://model-capability.danieltenner.com)
 (may not be live yet; the link stays here regardless). The alias map from
-this corpus's model slugs to Epoch's identifiers, and the design note this
-scheme was built from, are in this repository at
+this corpus's model slugs to Artificial Analysis's model identifiers, and
+the design note this scheme was built from, are in this repository at
 [\`internal/capability-ladder/DESIGN.md\`](https://github.com/swombat/model-personality-analysis-corpus/tree/main/internal/capability-ladder/DESIGN.md).
 `;
 ---
