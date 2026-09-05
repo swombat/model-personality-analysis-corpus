@@ -1197,6 +1197,23 @@ PROMPTS: dict[str, str] = {
         "and the listener leans nearer, unhurried, reverent. Fog-greys and "
         "muted blues warmed by the amber dial — elegiac, custodial, calm."
     ),
+    "gpt-6-astra": (
+        "The front counter of a small municipal lost-property office at first "
+        "light: cream-and-council-green paint, a brass bell, a wall of wooden "
+        "pigeonholes and index-card drawers with blank paper tags on string — "
+        "no lettering anywhere — each holding one humble thing with great care: "
+        "a single mitten, a clock with no hands, a soft pear, a folded note, a "
+        "cardigan, an umbrella, a small round tin of loose screws, an iron key "
+        "the length of a forearm. A clerk in a worn cardigan, seen whole from the "
+        "waist up with head and face fully inside the frame, stands behind the "
+        "counter, unhurried, sliding a cup of tea across the wood toward a visitor we "
+        "only see as a coat at the frame's edge; a wooden stamp rests beside a "
+        "blank card; no writing on the tin, the tags, the card or the walls. "
+        "Through the rain-streaked window, a public bench under a "
+        "streetlamp on a wet empty square as the sky goes pale. Municipal "
+        "green, cream, brass and lamplight amber — tender, dry-humoured, "
+        "custodial: a department that houses what nobody else would file."
+    ),
     "gemini-3-8-flash": (
         "The kitchen of a long-empty house on an exposed coast at first grey "
         "light: bare floorboards, a cold iron range with a kettle left on it, "

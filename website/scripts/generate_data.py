@@ -252,6 +252,7 @@ FIRST_PARTY_API_PRICING = {
     "gpt-5-6-sol": (5.00, 30.00, "OpenAI API"),
     "gpt-5-6-terra": (2.50, 15.00, "OpenAI API"),
     "gpt-5-6-luna": (1.00, 6.00, "OpenAI API"),
+    "gpt-6-astra": (10.00, 50.00, "OpenAI API"),
     "gpt-5-mini": (0.25, 2.00, "OpenAI API"),
     "gpt-5-nano": (0.05, 0.40, "OpenAI API"),
     # xAI API pricing: https://docs.x.ai/developers/models

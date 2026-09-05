@@ -838,5 +838,12 @@
     "matched_alias": "Muse Spark 1.3 (xhigh); the limited-preview max variant scores 62",
     "retrieved_date": "2026-09-03",
     "index_version": "4.1.1"
+  },
+  "gpt-6-astra": {
+    "aaii": 55,
+    "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+    "matched_alias": "GPT-6 Astra (max)",
+    "retrieved_date": "2026-09-05",
+    "index_version": "4.2"
   }
 }
