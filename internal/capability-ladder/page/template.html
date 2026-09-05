@@ -1,0 +1,375 @@
+<title>The Capability Ladder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F6F7F4; --bg-2:#EEF0EB; --ink:#1B2024; --ink-2:#4A5157; --ink-3:#7A8288; --rule:#D5D9D3; --rule-2:#E4E7E1;
+  --aaii:#2E6FB7; --epoch:#C2601F; --ladder:#1F8F68;
+  --aaii-soft:rgba(46,111,183,.16); --epoch-soft:rgba(194,96,31,.16); --ladder-soft:rgba(31,143,104,.16);
+  --ladder-fit:rgba(31,143,104,.34); --prov:rgba(194,96,31,.55);
+  --warn:#9A6A00; --warn-soft:rgba(154,106,0,.12);
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --mono:"IBM Plex Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15191C; --bg-2:#1D2226; --ink:#E6E9E4; --ink-2:#B4BAB6; --ink-3:#7F878C; --rule:#343B40; --rule-2:#262C31;
+    --aaii:#5B93D6; --epoch:#CC7233; --ladder:#3AA582;
+    --aaii-soft:rgba(91,147,214,.2); --epoch-soft:rgba(204,114,51,.2); --ladder-soft:rgba(58,165,130,.2);
+    --ladder-fit:rgba(58,165,130,.36); --prov:rgba(204,114,51,.6);
+    --warn:#E0B24A; --warn-soft:rgba(224,178,74,.14);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15191C; --bg-2:#1D2226; --ink:#E6E9E4; --ink-2:#B4BAB6; --ink-3:#7F878C; --rule:#343B40; --rule-2:#262C31;
+  --aaii:#5B93D6; --epoch:#CC7233; --ladder:#3AA582;
+  --aaii-soft:rgba(91,147,214,.2); --epoch-soft:rgba(204,114,51,.2); --ladder-soft:rgba(58,165,130,.2);
+  --ladder-fit:rgba(58,165,130,.36); --prov:rgba(204,114,51,.6);
+  --warn:#E0B24A; --warn-soft:rgba(224,178,74,.14);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+.col{max-width:66ch}
+header.top{padding:56px 0 28px;border-bottom:1px solid var(--rule)}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(40px,6vw,64px);line-height:1.02;letter-spacing:-.01em;margin:14px 0 18px;text-wrap:balance;font-variation-settings:"opsz" 144}
+.stand{font-size:20px;line-height:1.45;color:var(--ink-2);max-width:60ch;text-wrap:pretty}
+h2{font-family:var(--display);font-weight:500;font-size:32px;line-height:1.15;margin:0 0 14px;text-wrap:balance;font-variation-settings:"opsz" 60}
+h3{font-family:var(--body);font-weight:600;font-size:16px;margin:0 0 6px}
+section{padding:44px 0;border-bottom:1px solid var(--rule-2)}
+section:last-of-type{border-bottom:0}
+p{margin:0 0 14px;text-wrap:pretty}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.k-aaii{color:var(--aaii)} .k-epoch{color:var(--epoch)} .k-ladder{color:var(--ladder)}
+.swatch{display:inline-block;width:.7em;height:.7em;border-radius:2px;vertical-align:-.02em;margin-right:.35em}
+.sw-aaii{background:var(--aaii)} .sw-epoch{background:var(--epoch)} .sw-ladder{background:var(--ladder)}
+
+/* the erased bottom */
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0 6px}
+.tile{border-top:2px solid var(--rule);padding:12px 0 4px}
+.tile .name{font-weight:600;margin-bottom:8px}
+.tile dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:0;font-size:14px}
+.tile dt{color:var(--ink-3)} .tile dd{margin:0;text-align:right}
+.est{font-family:var(--mono);font-size:11px;color:var(--warn);background:var(--warn-soft);padding:1px 5px;border-radius:3px;margin-left:4px}
+
+/* three rulers */
+.rulers{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--rule);margin-top:22px}
+.ruler{padding:18px 20px;border-right:1px solid var(--rule)}
+.ruler:last-child{border-right:0}
+.ruler h3{font-size:18px;margin-bottom:12px;padding-bottom:10px;border-bottom:2px solid currentColor}
+.ruler dl{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;margin:0;font-size:14px}
+.ruler dt{color:var(--ink-3)} .ruler dd{margin:0}
+.ruler .verdict{margin-top:14px;font-size:14px;color:var(--ink-2);border-top:1px solid var(--rule-2);padding-top:10px}
+
+/* figures */
+figure{margin:24px 0 0}
+figcaption{font-size:13px;color:var(--ink-3);margin-top:10px;max-width:80ch;text-wrap:pretty}
+.fig-scroll{overflow-x:auto}
+svg text{font-family:var(--body);fill:var(--ink-2);font-size:12px;paint-order:stroke;stroke:var(--bg);stroke-width:3px;stroke-linejoin:round}
+svg .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+svg .axis{stroke:var(--rule);stroke-width:1}
+svg .grid{stroke:var(--rule-2);stroke-width:1}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);font-size:12.5px;line-height:1.4;padding:8px 10px;border-radius:4px;max-width:280px;z-index:10;opacity:0;transition:opacity .08s}
+.tip.on{opacity:1}
+.tip .num{color:inherit}
+.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:18px 0 0;font-size:13px}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:4px;overflow:hidden}
+.seg button{background:transparent;border:0;color:var(--ink-2);font:inherit;font-size:13px;padding:5px 10px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.seg button:focus-visible,th button:focus-visible,input:focus-visible{outline:2px solid var(--aaii);outline-offset:1px}
+
+/* table */
+.tbl-wrap{overflow-x:auto;margin-top:18px;border-top:1px solid var(--rule)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{padding:7px 10px;border-bottom:1px solid var(--rule-2);vertical-align:middle;white-space:nowrap}
+th{position:sticky;top:0;background:var(--bg);text-align:left;font-weight:500;color:var(--ink-3);font-size:12px;letter-spacing:.04em;text-transform:uppercase;z-index:1}
+th button{background:none;border:0;color:inherit;font:inherit;letter-spacing:inherit;text-transform:inherit;cursor:pointer;padding:0}
+th button[data-dir]::after{content:" ▾";color:var(--ink)}
+th button[data-dir="asc"]::after{content:" ▴"}
+td.r,th.r{text-align:right}
+td.name{font-weight:500;white-space:normal;min-width:180px}
+td .lab{color:var(--ink-3);font-size:12px;margin-left:6px}
+.rk{color:var(--ink-3);font-size:11.5px;margin-left:5px}
+.ci{color:var(--ink-3);font-size:11.5px}
+.strip{display:inline-grid;grid-template-columns:repeat(15,7px);gap:2px;align-items:end;height:18px;vertical-align:middle}
+.strip i{display:block;width:7px;background:var(--ladder);border-radius:1px 1px 0 0;min-height:1px}
+.strip i.f{background:var(--ladder-fit)} .strip i.p{background:var(--prov)}
+.src{font-family:var(--mono);font-size:11px;padding:1px 6px;border-radius:3px}
+.src-e{background:var(--ladder-soft);color:var(--ladder)} .src-p{background:var(--epoch-soft);color:var(--epoch)} .src-n{color:var(--ink-3)}
+tr.dim td{color:var(--ink-3)}
+.filter{font:inherit;font-size:13px;padding:5px 8px;border:1px solid var(--rule);border-radius:4px;background:var(--bg);color:var(--ink);min-width:220px}
+
+/* disagreements */
+.dis{display:grid;grid-template-columns:1fr 1fr;gap:12px 28px;margin-top:18px}
+.dis div{border-top:1px solid var(--rule);padding-top:10px;font-size:14px}
+.dis b{font-weight:600}
+.dis .why{color:var(--ink-2);margin-top:3px}
+
+.legend{display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--ink-2);margin-top:10px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:50%}
+ul.src-list{padding-left:18px;margin:0;font-size:14px}
+ul.src-list li{margin-bottom:6px}
+footer{padding:28px 0 56px;font-size:13px;color:var(--ink-3)}
+@media (max-width:900px){.tiles{grid-template-columns:repeat(2,1fr)}.rulers{grid-template-columns:1fr}.ruler{border-right:0;border-bottom:1px solid var(--rule)}.ruler:last-child{border-bottom:0}.dis{grid-template-columns:1fr}}
+@media (prefers-reduced-motion: reduce){.tip{transition:none}}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="eyebrow">Model Personality Corpus · methods note · 5 September 2026</div>
+  <h1>The Capability Ladder</h1>
+  <p class="stand">Three rulers for the same 149 models. Artificial Analysis re-cuts its index every few months and drops the rungs the frontier has climbed past. Epoch AI fits one ability per model across sixty benchmarks and never throws a rung away. The ladder is Daniel's sum-of-rungs, computed on Epoch's fitted parameters — open at the top, and with the bottom still on the ruler.</p>
+</header>
+
+<section>
+  <div class="col">
+    <h2>What broke on 4 September</h2>
+    <p>The site carries one capability number per model so a reader can place a personality against rough cognitive power. That number was the Artificial Analysis Intelligence Index. On 4 September AA released v4.2: GPQA Diamond removed as saturated, two private-set evaluations added, 40% of the weight now on held-out tests. Every model was re-scored, and the frontier deflated by about nine points.</p>
+    <p>That is not the problem. The problem is what each version does to the models that were never near the frontier. AA scores a model on the <em>current</em> set. A 2023 model that was never run on Terminal-Bench or CritPt gets an "estimated" index near zero — and the benchmarks on which it <em>was</em> distinguishable (MMLU, GPQA, MATH-500, HumanEval) have been retired one by one. The bottom of the scale is erased with each release.</p>
+  </div>
+  <div class="tiles" id="tiles"></div>
+  <p class="col" style="font-size:13px;color:var(--ink-3);margin-top:10px"><span class="est">est.</span> is AA's own flag: the model was not run on the current set, the index is inferred. The ladder column is what this page proposes instead.</p>
+</section>
+
+<section>
+  <div class="col">
+    <h2>Three rulers</h2>
+    <p>Each is a defensible instrument for its own purpose. The question is which one measures what a personality corpus needs: a stable, longitudinal ordering that still reaches GPT-3.5 and a 6-billion-parameter chat model from 2023.</p>
+  </div>
+  <div class="rulers">
+    <div class="ruler k-aaii">
+      <h3><span class="swatch sw-aaii"></span>Artificial Analysis Index v4.2</h3>
+      <dl>
+        <dt>Measures</dt><dd>Weighted composite of 10 current evaluations; 30% agentic, 40% private sets</dd>
+        <dt>Scale</dt><dd>0–100, renormalised each version</dd>
+        <dt>Who runs it</dt><dd>AA, own harness, max-reasoning variant</dd>
+        <dt>Old models</dt><dd>Not re-run; index "estimated" ≈ 1–2</dd>
+        <dt>Refresh</dt><dd>Same-day for new releases</dd>
+        <dt>Our coverage</dt><dd><span class="num" id="cov-aaii"></span> of 149</dd>
+      </dl>
+      <div class="verdict">Best for "which model should I buy this quarter". Versions are not comparable, and the bottom half of our corpus lives in the noise floor.</div>
+    </div>
+    <div class="ruler k-epoch">
+      <h3><span class="swatch sw-epoch"></span>Epoch Capabilities Index</h3>
+      <dl>
+        <dt>Measures</dt><dd>One latent ability per model, fitted across 59 benchmarks (item-response model)</dd>
+        <dt>Scale</dt><dd>Open-ended; anchored Claude 3.5 Sonnet = 130, GPT-5 = 150</dd>
+        <dt>Who runs it</dt><dd>Epoch AI; own runs + curated external results; bootstrap CIs; CC-BY</dd>
+        <dt>Old models</dt><dd>Kept on the same ruler: ChatGLM2-6B 98, GPT-3.5 113, GPT-4 126</dd>
+        <dt>Refresh</dt><dd>Days to weeks after release</dd>
+        <dt>Our coverage</dt><dd><span class="num" id="cov-eci"></span> of 149</dd>
+      </dl>
+      <div class="verdict">The right statistical object: a benchmark's difficulty and a model's ability on one axis, missing cells inferred rather than assumed. Its units mean nothing to a reader.</div>
+    </div>
+    <div class="ruler k-ladder">
+      <h3><span class="swatch sw-ladder"></span>The ladder</h3>
+      <dl>
+        <dt>Measures</dt><dd>Σ over 15 rungs of 10 × chance-corrected score; measured where Epoch or AA ran the test, else fitted from Epoch's parameters</dd>
+        <dt>Scale</dt><dd>0–150 today; grows by 10 per rung added, old points never removed</dd>
+        <dt>Who runs it</dt><dd>Nobody — a script over published tables; every cell tagged measured / fitted / provisional</dd>
+        <dt>Old models</dt><dd>GPT-3.5 22.5, GPT-4 37.9, GPT-4o 41.6 — stable forever</dd>
+        <dt>Refresh</dt><dd>Release-day via a provisional estimate from AA's per-benchmark row; replaced when Epoch scores it</dd>
+        <dt>Our coverage</dt><dd><span class="num" id="cov-ladder"></span> of 149</dd>
+      </dl>
+      <div class="verdict">Readable units ("mastered 4 of 15 yardsticks"), open at the top, honest at the bottom, reproducible by anyone with the two CSVs.</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <h2>The ladder, drawn to scale</h2>
+    <p>Each rung is a benchmark placed at the difficulty Epoch fitted for it — the ability at which a model is expected to score 50% after chance correction. A model sits on the rail at its ability. Its expected score on any rung is a logistic in the distance between the two, so rungs far below a model are credited near-fully and rungs far above it near-zero, without anyone deciding what "saturated" means. Where a real run exists the measured score is used instead.</p>
+  </div>
+  <figure>
+    <div class="fig-scroll"><svg id="ladderfig" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-label="Fifteen benchmark rungs placed on Epoch's difficulty axis, with six models placed at their fitted ability"></svg></div>
+    <figcaption>Rung positions are Epoch's fitted difficulties; model positions are Epoch's fitted abilities with 90% bootstrap intervals. The ladder score beside each model is the sum over the 15 rungs. A rung with a shallow slope (Remote Labor Index, GDPval) discriminates over a wide band; a steep one (AIME, FrontierMath) flips within a few points.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <div class="col">
+    <h2>How the orderings compare</h2>
+    <p>Where Artificial Analysis and Epoch both have a confident measurement, they agree: the rank correlation between AA's index and the ladder is <span class="num" id="rho-live"></span> on AA's live v4.2 figures and <span class="num" id="rho-site"></span> on the v4.1.1 column the site stored. The ladder does not overturn the frontier ordering. What it changes is visible at the left of the chart: the models AA marks "estimated" collapse onto its floor while the ladder still separates them.</p>
+  </div>
+  <div class="controls">
+    <span>AA index shown:</span>
+    <div class="seg" role="group" aria-label="Which AA index to plot"><button id="btn-live" aria-pressed="true">v4.2 live (5 Sep)</button><button id="btn-site" aria-pressed="false">v4.1.1 as stored on the site</button></div>
+  </div>
+  <figure>
+    <div class="fig-scroll"><svg id="scatter" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-label="Scatter of ladder score against Artificial Analysis index for every model that has both"></svg></div>
+    <div class="legend"><span><i style="background:var(--ladder)"></i>AA ran the model on its current set</span><span><i style="border:2px solid var(--ladder);background:transparent"></i>AA index "estimated" (model not run)</span><span><i style="background:var(--prov)"></i>ladder provisional (Epoch has not scored it; θ from AA's per-benchmark row)</span></div>
+    <figcaption id="scatter-cap"></figcaption>
+  </figure>
+</section>
+
+<section>
+  <div class="col">
+    <h2>Every model, three ways</h2>
+    <p>Sort any column. Ranks are within the models that have that number. The rung strip shows the 15 rungs left to right from easiest to hardest — solid where a measured run exists (Epoch's, or Artificial Analysis's on the three rungs both run: GPQA, HLE, CritPt), pale where the score is fitted from ability, rust where the ability itself is provisional. "Measured" counts the solid rungs; a provisional model can still have three.</p>
+  </div>
+  <div class="controls"><input class="filter" id="filter" type="search" placeholder="Filter by model or lab…" aria-label="Filter table"><span id="count" class="num" style="color:var(--ink-3)"></span></div>
+  <div class="tbl-wrap"><table id="tbl">
+    <thead><tr>
+      <th><button data-key="name">Model</button></th>
+      <th><button data-key="date">Released</button></th>
+      <th class="r"><button data-key="aaii_site"><span class="swatch sw-aaii"></span>AAII site</button></th>
+      <th class="r"><button data-key="aaii_live"><span class="swatch sw-aaii"></span>AAII v4.2</button></th>
+      <th class="r"><button data-key="eci"><span class="swatch sw-epoch"></span>Epoch ECI</button></th>
+      <th class="r"><button data-key="ladder" data-dir="desc"><span class="swatch sw-ladder"></span>Ladder</button></th>
+      <th class="r"><button data-key="measured">Measured</button></th>
+      <th>Rungs</th>
+      <th>Source</th>
+    </tr></thead>
+    <tbody id="tbody"></tbody>
+  </table></div>
+</section>
+
+<section>
+  <div class="col">
+    <h2>Where they disagree, and why</h2>
+    <p>The largest rank gaps between AA's live index and the ladder, among models both have measured. Three causes account for nearly all of them.</p>
+  </div>
+  <div class="dis" id="dis"></div>
+</section>
+
+<section>
+  <div class="col">
+    <h2>What it costs, and what it rests on</h2>
+    <p><strong>Fitted, not measured, at the bottom.</strong> GPT-3.5 Turbo has three of fifteen rungs measured; the other twelve are inferred from its ability. That is the design — a 2023 model cannot be run on a 2026 benchmark it would score zero on — but the site must show the measured fraction beside every number.</p>
+    <p><strong>Epoch lags.</strong> Gemini 3.8 Flash and Muse Spark 1.3 are three days old and not yet in Epoch's table. For those the ladder estimates ability from AA's live per-benchmark row (using AA's benchmarks as extra items calibrated on the 107 models both sources cover), then fits the twelve rungs AA didn't run and uses AA's measured GPQA, HLE and CritPt for the three it did. The calibration is its own check: AA's GPQA fits at difficulty 135 against Epoch's 135.8, HLE 160 against 160.0, CritPt 169 against 167.</p>
+    <p><strong>The sources disagree at the very top.</strong> AA's v4.2 puts Claude Fable 5.1 at 57 and GPT-6 Astra at 55; Epoch puts Astra ten points clear. AA's index is 40% private tests; Epoch's is public runs. Both are honest. The methodology page should say so rather than pick.</p>
+    <p><strong>Variant collapse.</strong> Epoch has one "Grok 4.20"; the corpus has three routes of it. The ladder cannot split what Epoch does not.</p>
+    <p><strong>Eleven blanks.</strong> The stealth Ox Alpha routes (excluded here), the 2023 Qwen and ChatGLM3 tail, Codestral 2508, and GPT-5.3 non-codex, which neither index lists. A blank is the honest cell.</p>
+    <h3 style="margin-top:22px">Sources</h3>
+    <ul class="src-list">
+      <li>Epoch AI, <em>AI Benchmarking Hub</em> — Capabilities Index (267 models, 59 benchmarks, bootstrap CIs) and per-benchmark runs. CC BY 4.0. epoch.ai/benchmarks</li>
+      <li>Artificial Analysis — live per-benchmark table (643 models, 5 Sep 2026) from model pages; retired benchmarks recovered from 14 Wayback Machine snapshots, Jan 2024 – Jul 2025.</li>
+      <li>Rung choice and ladder arithmetic: <span class="num">internal/capability-ladder/ladder.py</span> in the corpus repository; design note alongside it.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>Prepared by Lume for Daniel Tenner · Model Personality Corpus · data retrieved 5 September 2026. Ox Alpha routes omitted at the reader's request.</footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+const D=JSON.parse(document.getElementById('data').textContent);
+const M=D.models;
+const fmt=(v,d=1)=>v==null?'—':Number(v).toFixed(d);
+const by=s=>M.find(m=>m.slug===s);
+const tip=document.getElementById('tip');
+function showTip(html,x,y){tip.innerHTML=html;tip.classList.add('on');const w=tip.offsetWidth,h=tip.offsetHeight;tip.style.left=Math.min(x+14,window.innerWidth-w-8)+'px';tip.style.top=Math.max(8,y-h-12)+'px';}
+function hideTip(){tip.classList.remove('on');}
+
+/* ---- tiles: the erased bottom ---- */
+const tiles=document.getElementById('tiles');
+['gpt-3-5-turbo','gpt-4','gpt-4-turbo','gpt-4o'].forEach(s=>{const m=by(s);if(!m)return;
+  tiles.insertAdjacentHTML('beforeend',`<div class="tile"><div class="name">${m.name}</div><dl>
+  <dt>AAII, site (${m.aaii_site_ver&&m.aaii_site_ver.startsWith('pre')?'older':m.aaii_site_ver||'—'})</dt><dd class="num k-aaii">${fmt(m.aaii_site,0)}</dd>
+  <dt>AAII v4.2 live</dt><dd class="num k-aaii">${fmt(m.aaii_live)}${m.aaii_live_est?'<span class="est">est.</span>':''}</dd>
+  <dt>Epoch ECI</dt><dd class="num k-epoch">${fmt(m.eci)}</dd>
+  <dt>Ladder / 150</dt><dd class="num k-ladder">${fmt(m.ladder)}</dd></dl></div>`);});
+
+/* ---- coverage ---- */
+document.getElementById('cov-aaii').textContent=M.filter(m=>m.aaii_live!=null&&!m.aaii_live_est).length+' measured, '+M.filter(m=>m.aaii_live!=null&&m.aaii_live_est).length+' estimated';
+document.getElementById('cov-eci').textContent=M.filter(m=>m.eci!=null&&!m.ladder_src.startsWith('prov')).length;
+document.getElementById('cov-ladder').textContent=M.filter(m=>m.ladder!=null).length+' ('+M.filter(m=>m.ladder_src.startsWith('prov')).length+' provisional)';
+
+/* ---- ladder figure ---- */
+(function(){
+  const svg=document.getElementById('ladderfig');const W=1120,H=360,L=40,R=40,railY=200;
+  const x=v=>L+(v-80)/(185-80)*(W-L-R);
+  let s='';
+  for(let t=80;t<=180;t+=10){s+=`<line class="grid" x1="${x(t)}" y1="${railY-150}" x2="${x(t)}" y2="${railY+12}"/><text class="mono" x="${x(t)}" y="${railY+28}" text-anchor="middle" style="fill:var(--ink-3)">${t}</text>`;}
+  s+=`<text x="${W-R}" y="${railY+46}" text-anchor="end" style="fill:var(--ink-3)">Epoch ability / difficulty scale →</text>`;
+  s+=`<line class="axis" x1="${L}" y1="${railY}" x2="${W-R}" y2="${railY}" style="stroke:var(--ink-3);stroke-width:2"/>`;
+  const order=D.rungs.map((r,i)=>i).sort((a,b)=>D.rung_edi[a]-D.rung_edi[b]);
+  const short={'HellaSwag':'HellaSwag','GSM8K':'GSM8K','MMLU':'MMLU','MATH level 5':'MATH L5','GPQA diamond':'GPQA','SWE-Bench verified':'SWE-bench','OTIS Mock AIME 2024-2025':'AIME','Aider polyglot':'Aider','Terminal Bench':'Terminal-Bench','FrontierMath-Tiers-1-3-v2-Private':'FrontierMath','ARC-AGI-2':'ARC-AGI-2','GDPval':'GDPval','HLE':'HLE','CritPt':'CritPt','Remote Labor Index':'Remote Labor'};
+  const tiers=[];
+  order.forEach((i,k)=>{const e=D.rung_edi[i],xx=x(e);let t=0;while(tiers[t]!=null&&xx-tiers[t]<62)t++;tiers[t]=xx;const ty=railY-22-t*30;
+    s+=`<line x1="${xx}" y1="${railY-8}" x2="${xx}" y2="${railY+8}" style="stroke:var(--ladder);stroke-width:2"/>`;
+    s+=`<line class="grid" x1="${xx}" y1="${railY-8}" x2="${xx}" y2="${ty+4}" style="stroke:var(--ladder-fit)"/>`;
+    s+=`<text x="${xx}" y="${ty}" text-anchor="middle" style="fill:var(--ink)">${short[D.rungs[i]]}</text><text class="mono" x="${xx}" y="${ty+13}" text-anchor="middle" style="fill:var(--ink-3);font-size:10.5px">${e.toFixed(0)}</text>`;});
+  const picks=['chatglm2-6b','gpt-3-5-turbo','gpt-4o','gpt-5','fable-5-1','gpt-6-astra'];
+  picks.forEach((p,k)=>{const m=by(p);if(!m||m.eci==null)return;const xx=x(m.eci),y=railY+70+(k%2)*40;
+    if(m.eci_lo!=null)s+=`<line x1="${x(m.eci_lo)}" y1="${y}" x2="${x(m.eci_hi)}" y2="${y}" style="stroke:var(--epoch);stroke-width:2;opacity:.5"/>`;
+    s+=`<line class="grid" x1="${xx}" y1="${railY+2}" x2="${xx}" y2="${y}" style="stroke:var(--epoch-soft)"/>`;
+    s+=`<circle cx="${xx}" cy="${y}" r="5" style="fill:var(--epoch);stroke:var(--bg);stroke-width:2"/>`;
+    s+=`<text x="${xx+9}" y="${y+4}" style="fill:var(--ink)">${m.name}</text><text class="mono" x="${xx+9}" y="${y+18}" style="fill:var(--ladder);font-size:11.5px">ladder ${fmt(m.ladder)}</text>`;});
+  svg.innerHTML=s;
+})();
+
+/* ---- scatter ---- */
+let mode='live';
+function spearman(pairs){const n=pairs.length;const rk=a=>{const idx=a.map((v,i)=>i).sort((p,q)=>a[p]-a[q]);const r=[];idx.forEach((i,k)=>r[i]=k);return r;};const ra=rk(pairs.map(p=>p[0])),rb=rk(pairs.map(p=>p[1]));let d2=0;for(let i=0;i<n;i++)d2+=(ra[i]-rb[i])**2;return 1-6*d2/(n*(n*n-1));}
+function drawScatter(){
+  const svg=document.getElementById('scatter');const W=1120,H=520,L=64,R=30,T=20,B=56;
+  const pts=M.filter(m=>m.ladder!=null&&(mode==='live'?m.aaii_live!=null:(m.aaii_site!=null&&m.aaii_site_ver==='4.1.1')));
+  const ymax=mode==='live'?65:70;
+  const x=v=>L+v/150*(W-L-R), y=v=>T+(1-v/ymax)*(H-T-B);
+  let s='';
+  for(let t=0;t<=150;t+=25){s+=`<line class="grid" x1="${x(t)}" y1="${T}" x2="${x(t)}" y2="${H-B}"/><text class="mono" x="${x(t)}" y="${H-B+18}" text-anchor="middle" style="fill:var(--ink-3)">${t}</text>`;}
+  for(let t=0;t<=ymax;t+=10){s+=`<line class="grid" x1="${L}" y1="${y(t)}" x2="${W-R}" y2="${y(t)}"/><text class="mono" x="${L-8}" y="${y(t)+4}" text-anchor="end" style="fill:var(--ink-3)">${t}</text>`;}
+  s+=`<line class="axis" x1="${L}" y1="${H-B}" x2="${W-R}" y2="${H-B}"/><line class="axis" x1="${L}" y1="${T}" x2="${L}" y2="${H-B}"/>`;
+  s+=`<text x="${W-R}" y="${H-B+40}" text-anchor="end">Ladder score (of 150) →</text>`;
+  s+=`<text transform="translate(16 ${T+8}) rotate(-90)" text-anchor="end">↑ Artificial Analysis index ${mode==='live'?'v4.2, live':'v4.1.1, site column'}</text>`;
+  const labels=new Set(['gpt-3-5-turbo','gpt-4','gpt-4o','gpt-4-1','gpt-5','o3','fable-5-1','gpt-6-astra','gpt-5-6-sol','muse-spark-1-3','opus-4-6','grok-4-20-0309-non-reasoning']);
+  pts.forEach(m=>{const a=mode==='live'?m.aaii_live:m.aaii_site;const cx=x(m.ladder),cy=y(a);const prov=m.ladder_src.startsWith('prov');const est=mode==='live'&&m.aaii_live_est;
+    const fill=prov?'var(--prov)':(est?'var(--bg)':'var(--ladder)');const stroke=est?'var(--ladder)':'var(--bg)';
+    s+=`<circle data-i="${M.indexOf(m)}" cx="${cx}" cy="${cy}" r="${est?5:5.5}" style="fill:${fill};stroke:${stroke};stroke-width:${est?2:1.5};cursor:default"/>`;
+    if(labels.has(m.slug)){const below=['gpt-4','gpt-6-astra','gpt-5-6-sol','opus-4-6'].includes(m.slug);s+=`<text x="${cx+8}" y="${below?cy+15:cy-6}" style="fill:var(--ink-2);font-size:11.5px">${m.name}</text>`;}});
+  svg.innerHTML=s;
+  svg.querySelectorAll('circle').forEach(c=>{c.addEventListener('mousemove',ev=>{const m=M[+c.dataset.i];showTip(`<b>${m.name}</b> · ${m.lab}<br>Ladder <span class="num">${fmt(m.ladder)}</span>${m.ladder_lo!=null?` <span class="num">(${fmt(m.ladder_lo)}–${fmt(m.ladder_hi)})</span>`:''} · ${m.measured} rungs measured${m.ladder_src.startsWith('prov')?' · provisional':''}<br>AAII v4.2 <span class="num">${fmt(m.aaii_live)}</span>${m.aaii_live_est?' est.':''} · AAII site <span class="num">${fmt(m.aaii_site,0)}</span> (${m.aaii_site_ver||'—'})<br>Epoch ECI <span class="num">${m.eci!=null?fmt(m.eci):'— (θ est. '+fmt(m.theta_est)+')'}</span>`,ev.clientX,ev.clientY);});c.addEventListener('mouseleave',hideTip);});
+  const pairs=pts.map(m=>[m.ladder,mode==='live'?m.aaii_live:m.aaii_site]);
+  const confident=pts.filter(m=>!(mode==='live'&&m.aaii_live_est)).map(m=>[m.ladder,mode==='live'?m.aaii_live:m.aaii_site]);
+  document.getElementById('scatter-cap').textContent=`${pts.length} models plotted. Spearman rank correlation with the ladder: ${spearman(pairs).toFixed(3)} over all ${pts.length}; ${spearman(confident).toFixed(3)} over the ${confident.length} AA has actually run on its current set. Hover a mark for all three numbers.`;
+  return {all:spearman(pairs),conf:spearman(confident)};
+}
+const rl=drawScatter();document.getElementById('rho-live').textContent=rl.conf.toFixed(3);
+mode='site';const rs=drawScatter();document.getElementById('rho-site').textContent=rs.all.toFixed(3);mode='live';drawScatter();
+document.getElementById('btn-live').onclick=()=>{mode='live';drawScatter();setSeg('btn-live');};
+document.getElementById('btn-site').onclick=()=>{mode='site';drawScatter();setSeg('btn-site');};
+function setSeg(id){['btn-live','btn-site'].forEach(b=>document.getElementById(b).setAttribute('aria-pressed',b===id));}
+
+/* ---- ranks ---- */
+function rank(key,pred){const arr=M.filter(m=>m[key]!=null&&(!pred||pred(m))).sort((a,b)=>b[key]-a[key]);arr.forEach((m,i)=>m['rk_'+key]=i+1);}
+rank('aaii_live',m=>!m.aaii_live_est);rank('aaii_site',m=>m.aaii_site_ver==='4.1.1');rank('eci');rank('ladder');
+
+/* ---- table ---- */
+let sortKey='ladder',sortDir='desc',q='';
+const tbody=document.getElementById('tbody');
+function strip(m){if(!m.rungs)return'';return `<span class="strip" title="15 rungs, easiest to hardest">${m.rungs.map((v,i)=>`<i class="${m.how[i]==='m'||m.how[i]==='a'?'':m.how[i]==='p'?'p':'f'}" style="height:${Math.max(1,v/10*18)}px"></i>`).join('')}</span>`;}
+function srcBadge(m){if(m.ladder_src.startsWith('epoch'))return`<span class="src src-e">epoch</span>`;if(m.ladder_src.startsWith('prov'))return`<span class="src src-p">provisional</span>`;return`<span class="src src-n">—</span>`;}
+function render(){
+  const rows=M.filter(m=>!q||(m.name+' '+m.lab).toLowerCase().includes(q)).sort((a,b)=>{let va=a[sortKey],vb=b[sortKey];const na=va==null,nb=vb==null;if(na&&nb)return 0;if(na)return 1;if(nb)return -1;if(typeof va==='string'){va=va.toLowerCase();vb=vb.toLowerCase();return sortDir==='asc'?(va<vb?-1:va>vb?1:0):(va<vb?1:va>vb?-1:0);}return sortDir==='asc'?va-vb:vb-va;});
+  tbody.innerHTML=rows.map(m=>`<tr class="${m.ladder==null?'dim':''}">
+    <td class="name">${m.name}<span class="lab">${m.lab}</span></td>
+    <td class="num" style="color:var(--ink-3)">${m.date||'—'}</td>
+    <td class="r num">${fmt(m.aaii_site,0)}${m.aaii_site!=null?`<span class="rk">${m.aaii_site_ver==='4.1.1'?'#'+m.rk_aaii_site:(m.aaii_site_ver||'').startsWith('4.2')?'v4.2':'old'}</span>`:''}</td>
+    <td class="r num">${fmt(m.aaii_live)}${m.aaii_live_est?'<span class="est">est.</span>':(m.rk_aaii_live?`<span class="rk">#${m.rk_aaii_live}</span>`:'')}</td>
+    <td class="r num">${m.eci!=null?fmt(m.eci)+(m.eci_lo!=null?` <span class="ci">${fmt(m.eci_lo,0)}–${fmt(m.eci_hi,0)}</span>`:'')+(m.rk_eci?`<span class="rk">#${m.rk_eci}</span>`:''):(m.theta_est!=null?`<span class="ci">— (θ est. ${fmt(m.theta_est)})</span>`:'—')}</td>
+    <td class="r num"><b>${fmt(m.ladder)}</b>${m.ladder_lo!=null?` <span class="ci">${fmt(m.ladder_lo,0)}–${fmt(m.ladder_hi,0)}</span>`:''}${m.rk_ladder?`<span class="rk">#${m.rk_ladder}</span>`:''}</td>
+    <td class="r num">${m.measured==null?'—':m.measured+'/15'}</td>
+    <td>${strip(m)}</td>
+    <td>${srcBadge(m)}</td></tr>`).join('');
+  document.getElementById('count').textContent=rows.length+' of '+M.length;
+}
+document.querySelectorAll('th button').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.key;if(sortKey===k){sortDir=sortDir==='asc'?'desc':'asc';}else{sortKey=k;sortDir=(k==='name'||k==='date')?'asc':'desc';}document.querySelectorAll('th button').forEach(x=>x.removeAttribute('data-dir'));b.dataset.dir=sortDir;render();}));
+document.getElementById('filter').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
+render();
+
+/* ---- disagreements ---- */
+const why={'grok-4-20-0309-non-reasoning':'Variant collapse: Epoch scores one "Grok 4.20"; AA scored the non-reasoning route separately and much lower.','grok-4-20-0309-reasoning':'Same Epoch entry as the other Grok 4.20 routes.','grok-4-20':'Same Epoch entry as the other Grok 4.20 routes.','opus-4-6':'AA\'s row for Opus 4.6 looks stale or low-effort; Epoch places it with Opus 4.5–4.7.','gemini-3-flash-preview':'AA\'s preview row was scored early; Epoch has the later measurement.','glm-5-3':'Genuine evaluator disagreement: AA\'s private-set-heavy index rates GLM-5.3 higher than Epoch\'s public runs.','glm-5-3-flash':'Genuine evaluator disagreement, as for GLM-5.3.','minimax-m3':'AA rates MiniMax higher than Epoch\'s public runs.','minimax-m2-7':'AA rates MiniMax higher than Epoch\'s public runs.','gemini-3-5-flash-lite':'AA rates it higher; Epoch has fewer cells (wide interval).','gemini-2-5-flash-lite':'AA\'s current set floors it; the ladder credits its 2025-era rungs.','gpt-5-3-codex':'Codex variants score well on Epoch\'s coding-heavy set.'};
+const both=M.filter(m=>m.rk_aaii_live&&m.rk_ladder&&!m.ladder_src.startsWith('prov'));
+both.sort((a,b)=>Math.abs(b.rk_ladder-b.rk_aaii_live)-Math.abs(a.rk_ladder-a.rk_aaii_live));
+document.getElementById('dis').innerHTML=both.slice(0,8).map(m=>`<div><b>${m.name}</b> — AAII v4.2 <span class="num k-aaii">${fmt(m.aaii_live)}</span> (#${m.rk_aaii_live}) · ladder <span class="num k-ladder">${fmt(m.ladder)}</span> (#${m.rk_ladder})<div class="why">${why[m.slug]||'Not yet examined.'}</div></div>`).join('');
+})();
+</script>

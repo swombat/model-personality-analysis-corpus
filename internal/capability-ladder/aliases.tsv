@@ -1,0 +1,152 @@
+site_slug	display_name	site_release_date	epoch_model	epoch_confidence	aa_slug	aa_confidence	notes
+yi-6b-chat	yi-6b-chat	2023-11-23	Yi 6B	exact		none	No AA entry for any 01.AI/Yi model. Epoch's 'Yi 6B' (2023-11-22) is presumably the base model; site's is chat-tuned, but it's the only size-matching candidate.
+fable-5	claude-fable-5	2026-06-07	Claude Fable 5	exact	claude-fable-5	exact	Only reasoning variant (max effort).
+fable-5-1	claude-fable-5-1	2026-09-01	Claude Fable 5.1	exact	claude-fable-5-1	exact	AA offers max/high/medium/low/xhigh; picked max (top).
+haiku-3	haiku-3	2024-03-13	Claude 3 Haiku	exact	claude-3-haiku	exact	
+haiku-4-5	haiku-4-5	2025-10-15	Claude Haiku 4.5	exact	claude-4-5-haiku-reasoning	exact	AA splits reasoning/non-reasoning (no effort labels); picked reasoning variant.
+opus-3	claude-3-opus-20240229	2024-03-04	Claude 3 Opus	exact	claude-3-opus	exact	
+opus-4-0	claude-opus-4.0	2025-05-22	Claude Opus 4	exact	claude-4-opus-thinking	exact	Picked reasoning (thinking) variant over non-reasoning.
+opus-4-1	claude-opus-4.1	2025-08-05	Claude Opus 4.1	exact	claude-4-1-opus-thinking	exact	Picked reasoning (thinking) variant.
+opus-4-5	claude-opus-4.5	2025-11-24	Claude Opus 4.5	exact	claude-opus-4-5-thinking	exact	Picked reasoning (thinking) variant.
+opus-4-6	claude-opus-4.6	2026-02-04	Claude Opus 4.6	exact	claude-opus-4-6-adaptive	exact	Picked adaptive/max-effort variant over high-effort non-reasoning.
+opus-4-7	claude-opus-4.7	2026-04-16	Claude Opus 4.7	exact	claude-opus-4-7	exact	Base slug is the max-effort adaptive-reasoning variant; '-non-reasoning' is a separate (high-effort) row.
+opus-4-8	claude-opus-4.8	2026-05-28	Claude Opus 4.8	exact	claude-opus-4-8	exact	Only max-effort variant present in AA.
+opus-5	opus-5	2026-07-24	Claude Opus 5	exact	claude-opus-5	exact	AA offers max/high/medium/low/xhigh; picked max.
+sonnet-4-0	claude-sonnet-4.0	2025-05-22	Claude Sonnet 4	exact	claude-4-sonnet-thinking	exact	Picked reasoning (thinking) variant.
+sonnet-4-5	claude-sonnet-4.5	2025-09-29	Claude Sonnet 4.5	exact	claude-4-5-sonnet-thinking	exact	Picked reasoning (thinking) variant.
+sonnet-4-6	claude-sonnet-4.6	2026-02-17	Claude Sonnet 4.6	exact	claude-sonnet-4-6-adaptive	exact	Picked adaptive/max-effort variant.
+sonnet-5	claude-sonnet-5	2026-06-30	Claude Sonnet 5	exact	claude-sonnet-5	exact	AA offers max/high/medium/low/xhigh/non-reasoning; picked max.
+deepseek-chat	deepseek-chat	2024-12-26	DeepSeek-V3	exact	deepseek-v3	exact	
+deepseek-v3-2	deepseek-v3.2	2025-12-01	DeepSeek-V3.2	exact	deepseek-v3-2-reasoning	family-match	AA has both 'deepseek-v3-2-reasoning' and 'deepseek-v3-2-speciale' at the same date with no effort label distinguishing them; picked the plain reasoning row as the closer name match.
+deepseek-v4-flash-0731	deepseek-v4-flash-0731	2026-07-31	DeepSeek V4 Flash 0731	exact	deepseek-v4-flash	exact	AA top effort is max.
+deepseek-v4-pro	deepseek-v4-pro	2026-04-24	DeepSeek-V4-Pro	exact	deepseek-v4-pro-0424	exact	AA top effort is max.
+deepseek-v4-pro-0813	deepseek-v4-pro-0813	2026-08-13	DeepSeek V4 Pro 0813	exact	deepseek-v4-pro	exact	AA top effort is max.
+gemini-2-0-flash	gemini-2.0-flash-001	2025-02-05	Gemini 2.0 Flash (Feb 2025)	exact	gemini-2-0-flash	exact	
+gemini-2-0-flash-lite	gemini-2.0-flash-lite-001	2025-02-25		none	gemini-2-0-flash-lite-001	exact	No Epoch entry for the Flash-Lite variant.
+gemini-2-5-flash	gemini-2.5-flash	2025-05-20	Gemini 2.5 Flash (May 2025)	exact	gemini-2-5-flash-reasoning	exact	AA splits reasoning/non-reasoning at same date; picked reasoning.
+gemini-2-5-flash-lite	gemini-2.5-flash-lite	2025-06-17	Gemini 2.5 Flash-Lite (Jun 2025)	exact	gemini-2-5-flash-lite-reasoning	exact	AA splits reasoning/non-reasoning at same date; picked reasoning.
+gemini-2-5-pro	gemini-2.5-pro	2025-03-25	Gemini 2.5 Pro (Mar 2025)	exact	gemini-2-5-pro-03-25	exact	Site release 2025-03-25 matches the Mar-2025 dated preview in both indexes (also has May/Jun 2025 dated snapshots, not used here).
+gemini-3-1-flash-lite	gemini-3.1-flash-lite	2026-03-03	Gemini 3.1 Flash-Lite	exact	gemini-3-1-flash-lite-preview	exact	
+gemini-3-1-pro	gemini-3.1-pro-preview	2026-02-19	Gemini 3.1 Pro	exact	gemini-3-1-pro-preview	exact	
+gemini-3-5-flash	gemini-3.5-flash	2026-05-19	Gemini 3.5 Flash	exact	gemini-3-5-flash	exact	AA top effort is high (medium/minimal also exist).
+gemini-3-5-flash-lite	gemini-3.5-flash-lite	2026-07-21	Gemini 3.5 Flash-Lite	exact	gemini-3-5-flash-lite	exact	
+gemini-3-6-flash	gemini-3.6-flash	2026-07-21	Gemini 3.6 Flash	exact	gemini-3-6-flash	exact	
+gemini-3-7-flash	gemini-3.7-flash	2026-08-13	Gemini 3.7 Flash	exact	gemini-3-7-flash	exact	AA top effort is high (low/medium also exist).
+gemini-3-8-flash	gemini-3.8-flash	2026-09-02		none	gemini-3-8-flash	exact	No Epoch entry yet for 3.8 Flash (very recent release); AA top effort is high.
+gemini-3-flash-preview	gemini-3-flash-preview	2025-12-17	Gemini 3 Flash	exact	gemini-3-flash-reasoning	exact	AA splits reasoning/non-reasoning at same date; picked reasoning.
+gemma-4-26b-a4b	gemma-4-26b-a4b-it	2026-04-02	Gemma 4 26B A4B	exact	gemma-4-26b-a4b	exact	AA splits reasoning/non-reasoning; picked reasoning.
+gemma-4-31b	gemma-4-31b-it	2026-04-02	Gemma 4 31B IT	exact	gemma-4-31b	exact	AA splits reasoning/non-reasoning; picked reasoning.
+llama-3-1-70b-instruct	llama-3.1-70b-instruct	2024-07-23	Llama 3.1-70B	exact	llama-3-1-instruct-70b	exact	
+llama-3-1-8b-instruct	llama-3.1-8b-instruct	2024-07-23	Llama 3.1-8B	exact	llama-3-1-instruct-8b	exact	
+llama-3-2-11b-vision-instruct	llama-3.2-11b-vision-instruct	2024-09-25		none	llama-3-2-instruct-11b-vision	exact	No Epoch entry for the 11B vision variant.
+llama-3-2-1b-instruct	llama-3.2-1b-instruct	2024-09-25	Llama 3.2 1B	exact	llama-3-2-instruct-1b	exact	
+llama-3-2-3b-instruct	llama-3.2-3b-instruct	2024-09-25		none	llama-3-2-instruct-3b	exact	No Epoch entry for the 3B variant.
+llama-3-3-70b-instruct	llama-3.3-70b-instruct	2024-12-06	Llama 3.3 70B	exact	llama-3-3-instruct-70b	exact	
+llama-4-maverick	llama-4-maverick	2025-04-05	Llama 4 Maverick	exact	llama-4-maverick	exact	
+llama-4-scout	llama-4-scout	2025-04-05	Llama 4 Scout	exact	llama-4-scout	exact	
+muse-glimmer-30b	muse-glimmer-30b	2026-08-10		none	muse-glimmer	exact	No Epoch entry yet for Muse Glimmer.
+muse-spark-1-1	muse-spark-1.1	2026-07-09	Muse Spark 1.1	exact	muse-spark-1-1	exact	AA top effort is xhigh.
+muse-spark-1-2	muse-spark-1.2	2026-08-05	Muse Spark 1.2	exact	muse-spark-1-2	exact	AA top effort is xhigh.
+muse-spark-1-3	muse-spark-1.3	2026-09-02		none	muse-spark-1-3	exact	No Epoch entry yet for Muse Spark 1.3; AA top effort is max (vs xhigh).
+minimax-m2	minimax-m2	2025-10-23		none	minimax-m2	exact	No Epoch entry for the original (Oct 2025) MiniMax-M2; nearest Epoch family entry is M2.5 (2026-02-12, different generation).
+minimax-m2-7	minimax-m2.7	2026-03-18	MiniMax-M2.7	exact	minimax-m2-7	exact	
+minimax-m3	minimax-m3	2026-05-31	MiniMax-M3	exact	minimax-m3	exact	
+codestral-2508	codestral-2508	2025-07-30		none		none	No entry for Codestral in either index.
+devstral-2512	devstral-2512	2025-12-10		none	devstral-2	snapshot-match	AA 'Devstral 2' is dated 2025-12-09 vs site 2025-12-10 (1-day gap); no Epoch entry for any Devstral release.
+ministral-14b-2512	ministral-14b-2512	2025-12-02		none	ministral-3-14b	exact	No Epoch entry (only an older, different-generation 'Ministral 3B' from Oct 2024 exists).
+ministral-3b-2512	ministral-3b-2512	2025-12-02		none	ministral-3-3b	exact	Epoch's only Ministral entry ('Ministral 3B', 2024-10-16) is a different generation a year earlier; not used.
+ministral-8b-2512	ministral-8b-2512	2025-12-02		none	ministral-3-8b	exact	No matching-generation Epoch entry.
+mistral-7b-instruct-v0-2	mistral-7b-instruct-v0.2	2023-12-11	Mistral 7B v0.1	family-match	mistral-7b-instruct	family-match	Neither index distinguishes v0.1/v0.2/v0.3 point releases explicitly as 'v0.2'. Epoch's nearest dated variant to the site's 2023-12-11 release is v0.1 (2023-09-27, ~75d) vs v0.3 (2024-05-27, ~168d). AA has a single undated 'Mistral 7B Instruct' (2023-09-27).
+mistral-large-2512	mistral-large-2512	2025-12-02		none	mistral-large-3	exact	No Epoch entry for Mistral Large 3/2512 (Epoch's Mistral Large coverage stops at the 2024 'Large 2' releases).
+mistral-medium-3	mistral-medium-3	2025-05-07	Mistral Medium 3	exact	mistral-medium-3	exact	
+mistral-medium-3-1	mistral-medium-3.1	2025-08-12	Mistral Medium 3.1	exact	mistral-medium-3-1	exact	
+mistral-medium-3-5	mistral-medium-3-5	2026-04-30	Mistral Medium 3.5	exact	mistral-medium-3-5	exact	Only effort variant in AA is high.
+mistral-nemo	mistral-nemo	2024-07-18	Mistral NeMo	exact		none	No AA entry for Mistral NeMo.
+mistral-saba	mistral-saba	2025-02-17		none	mistral-saba	exact	No Epoch entry for Mistral Saba.
+mistral-small-24b-instruct-2501	mistral-small-24b-instruct-2501	2025-01-30	Mistral Small 3	exact	mistral-small-3	exact	
+mistral-small-2603	mistral-small-2603	2026-03-16		none	mistral-small-4	exact	No Epoch entry for Mistral Small 4/2603; AA splits reasoning/non-reasoning, picked reasoning.
+mistral-small-3-1-24b-instruct	mistral-small-3.1-24b-instruct	2025-03-17	Mistral Small 3.1	exact	mistral-small-3-1	exact	
+mistral-small-3-2-24b-instruct	mistral-small-3.2-24b-instruct	2025-06-20	Mistral Small 3.2	exact	mistral-small-3-2	exact	
+mixtral-8x22b-instruct	mixtral-8x22b-instruct	2024-04-17	Mixtral 8x22B	exact	mistral-8x22b-instruct	exact	
+kimi-coding	kimi-for-coding	2026-01-27		none	kimi-k2-5	snapshot-match	Site's 'Kimi for Coding' shares its exact release date (2026-01-27) with Kimi K2.5 in both indexes but is marketed under a different name; likely a coding-specific endpoint of K2.5, not confirmed. No distinct Epoch entry for 'Kimi for Coding'.
+kimi-k2-0905	kimi-k2-0905	2025-09-04		none	kimi-k2-0905	exact	No Epoch entry for the 0905 dated snapshot; nearest Epoch family entry is 'Kimi K2 (Jul 2025)' (~2mo earlier, not used).
+kimi-k2-5	kimi-k2.5	2026-01-27	Kimi K2.5	exact	kimi-k2-5	exact	AA splits reasoning/non-reasoning; picked reasoning.
+kimi-k2-6	kimi-k2.6	2026-04-20	Kimi K2.6	exact	kimi-k2-6	exact	
+kimi-k2-7-code	kimi-k2.7-code	2026-06-12	Kimi K2.7 Code	exact	kimi-k2-7-code	exact	
+kimi-k2-thinking	kimi-k2-thinking	2025-11-06	Kimi K2 Thinking	exact	kimi-k2-thinking	exact	
+kimi-k3	kimi-k3	2026-07-16	Kimi K3	exact	kimi-k3	exact	AA top effort is max.
+gpt-3-5-turbo	gpt-3.5-turbo	2023-03-01	GPT-3.5 Turbo (Jun 2023)	snapshot-match	gpt-35-turbo	snapshot-match	Site release 2023-03-01 predates all dated variants in both indexes; Epoch's nearest of 3 dated snapshots is Jun 2023 (~3.5mo gap); AA's only base (undated) entry is 2022-11-30 (~3mo gap, other side).
+gpt-4	gpt-4	2023-03-14	GPT-4 (Mar 2023)	exact	gpt-4	exact	
+gpt-4-1	gpt-4.1	2025-04-14	GPT-4.1	exact	gpt-4-1	exact	
+gpt-4-1-mini	gpt-4.1-mini	2025-04-14	GPT-4.1 mini	exact	gpt-4-1-mini	exact	
+gpt-4-1-nano	gpt-4.1-nano	2025-04-14	GPT-4.1 nano	exact	gpt-4-1-nano	exact	
+gpt-4-turbo	gpt-4-turbo	2024-04-09	GPT-4 Turbo (Apr 2024)	exact	gpt-4-turbo	family-match	AA's single 'GPT-4 Turbo' entry is dated 2023-11-06 (the earlier preview), not the Apr-2024 GA snapshot Epoch and the site track; AA does not split Turbo dated variants.
+gpt-4o	gpt-4o	2024-05-13	GPT-4o (May 2024)	exact	gpt-4o-2024-05-13	exact	AA has 3 dated GPT-4o snapshots; site's release date matches the May 2024 one exactly.
+gpt-4o-mini	gpt-4o-mini	2024-07-18	GPT-4o mini	exact	gpt-4o-mini	exact	
+gpt-5	gpt-5	2025-08-07	GPT-5	exact	gpt-5	exact	AA's highest available effort for GPT-5 is 'high' (no max/xhigh tier exists for this model).
+gpt-5-1	gpt-5.1	2025-11-13	GPT-5.1	exact	gpt-5-1	exact	Only reasoning effort tier available in AA is 'high'.
+gpt-5-1-codex	gpt-5.1-codex	2025-11-13		none	gpt-5-1-codex	exact	No Epoch entry for any GPT-5.1 Codex variant.
+gpt-5-1-codex-max	gpt-5.1-codex-max	2025-11-19		none		none	No entry in either index for Codex Max.
+gpt-5-1-codex-mini	gpt-5.1-codex-mini	2025-11-13		none	gpt-5-1-codex-mini	exact	No Epoch entry for GPT-5.1 Codex mini.
+gpt-5-2	gpt-5.2	2025-12-10	GPT-5.2	exact	gpt-5-2	exact	AA top effort is xhigh.
+gpt-5-2-codex	gpt-5.2-codex	2026-01-14		none	gpt-5-2-codex	snapshot-match	AA's only 'gpt-5-2-codex' row is dated 2025-12-11 (same as base GPT-5.2), vs site's 2026-01-14; no Epoch entry.
+gpt-5-3	gpt-5.3	2026-03-03		none		none	Neither index has a plain (non-Codex) GPT-5.3 chat entry.
+gpt-5-3-codex	gpt-5.3-codex	2026-02-24	GPT-5.3 Codex	exact	gpt-5-3-codex	exact	Both Epoch and AA independently date this snapshot 2026-02-05 (site/OpenRouter list 2026-02-24); the cross-source agreement supports treating it as the same model despite the public-listing-date gap.
+gpt-5-4	gpt-5.4	2026-03-05	GPT-5.4	exact	gpt-5-4	exact	AA top effort is xhigh.
+gpt-5-4-mini	gpt-5.4-mini	2026-03-17	GPT-5.4 Mini	exact	gpt-5-4-mini	exact	AA top effort is xhigh.
+gpt-5-4-nano	gpt-5.4-nano	2026-03-17	GPT-5.4 Nano	exact	gpt-5-4-nano	exact	AA top effort is xhigh.
+gpt-5-5	gpt-5.5	2026-04-24	GPT-5.5	exact	gpt-5-5	exact	AA top effort is xhigh.
+gpt-5-5-pro	gpt-5.5-pro	2026-04-24	GPT-5.5 Pro	exact	gpt-5-5-pro	exact	Only xhigh effort variant in AA.
+gpt-5-6-luna	gpt-5.6-luna	2026-07-09	GPT-5.6 Luna	exact	gpt-5-6-luna	exact	AA top effort is max.
+gpt-5-6-sol	gpt-5.6-sol	2026-07-09	GPT-5.6 Sol	exact	gpt-5-6-sol	exact	AA top effort is max.
+gpt-5-6-terra	gpt-5.6-terra	2026-07-09	GPT-5.6 Terra	exact	gpt-5-6-terra	exact	AA top effort is max.
+gpt-5-codex	gpt-5-codex	2025-09-23		none	gpt-5-codex	exact	No Epoch entry for GPT-5 Codex (only 5.3 Codex is indexed).
+gpt-5-mini	gpt-5-mini	2025-08-07	GPT-5 mini	exact	gpt-5-mini	exact	AA top effort is high (minimal/medium also exist).
+gpt-5-nano	gpt-5-nano	2025-08-07	GPT-5 nano	exact	gpt-5-nano	exact	AA top effort is high.
+gpt-6-astra	gpt-6-astra	2026-09-03	GPT-6 Astra	exact	gpt-6-astra	exact	AA top effort is max.
+gpt-oss-120b	gpt-oss-120b	2025-08-05	gpt-oss-120b	exact	gpt-oss-120b	exact	AA top effort is high (vs low).
+gpt-oss-20b	gpt-oss-20b	2025-08-05	gpt-oss-20b	exact	gpt-oss-20b	exact	AA top effort is high (vs low).
+o1	o1	2024-12-17	o1	exact	o1	exact	AA date 2024-12-05 vs Epoch/site 2024-12-17 (~12d gap), only candidate.
+o3	o3	2025-04-16	o3	exact	o3	exact	
+o3-mini	o3-mini	2025-01-31	o3-mini	exact	o3-mini-high	exact	Picked the explicit 'high' effort AA row over the undifferentiated base 'o3-mini' row.
+o4-mini	o4-mini	2025-04-16	o4-mini	exact	o4-mini	exact	AA's only o4-mini row is labelled high effort.
+qwen1-5-7b-chat	qwen1-5-7b-chat	2024-02-04		none		none	No Qwen1.5-7B entry in either index.
+qwen2-7b-instruct	qwen2-7b-instruct	2024-06-07		none		none	Epoch's only same-date entry ('Qwen2-72B', 2024-06-07) is a different size; AA has no plain Qwen2-7B-Instruct row.
+qwen3-5-flash-02-23	qwen3-5-flash-02-23	2026-02-23	Qwen 3.5 Flash (hosted 35B-A3B)	exact	qwen3-5-35b-a3b	exact	Epoch explicitly labels the 35B-A3B snapshot as the 'Flash' variant, confirming the size/branding match used for the AA pick too; AA splits reasoning/non-reasoning, picked reasoning.
+qwen3-5-plus-20260420	qwen3-5-plus-20260420	2026-04-20		none		none	Both indexes' closest-dated Alibaba 'Plus' entry is labelled generation 3.6 ('Qwen 3.6 Plus', Epoch 2026-03-31 / AA 2026-04-02), conflicting with the site's 3.5 generation label (release 2026-04-20); left unmatched rather than guess across the label conflict.
+qwen3-6-flash	qwen3-6-flash	2026-04-27	Qwen 3.6 Flash	exact	qwen3-6-35b-a3b	family-match	Epoch's 'Qwen 3.6 Flash' matches site's date exactly (2026-04-27), confirming existence, but AA has no identically-dated 'Flash' row; inferred AA's 35B-A3B (Reasoning, 2026-04-16) as the likely Flash-tier equivalent by analogy with the confirmed 3.5 Flash=35B-A3B pattern (~11d gap).
+qwen3-6-max-preview	qwen3-6-max-preview	2026-04-27	Qwen 3.6 Max (Preview)	exact	qwen3-6-max	exact	
+qwen3-6-plus	qwen3-6-plus	2026-04-02	Qwen 3.6 Plus	exact	qwen3-6-plus	exact	
+qwen3-7-flash	qwen3-7-flash	2026-07-31	Qwen3.7 Flash	exact		none	No AA entry near this date for a 'Flash'-tier Qwen3.7 model.
+qwen3-7-max	qwen3-7-max	2026-05-21	Qwen3.7-Max	exact	qwen3-7-max	exact	
+qwen3-8-2-4t-a95b	qwen3-8-2-4t-a95b	2026-08-12		none	qwen3-8-2-4t-a95b	exact	No Epoch entry for this specific size/date.
+qwen3-8-max	qwen3-8-max	2026-08-03	Qwen 3.8 Max	exact	qwen3-8-max	exact	
+qwen3-coder-flash	qwen3-coder-flash	2025-09-17		none	qwen3-coder-30b-a3b-instruct	exact	'Qwen3-Coder-Flash' is Alibaba's public branding for the 30B-A3B coder model (AA date 2025-07-31 vs site 2025-09-17, ~6.5wk gap). No Epoch entry for any Qwen3-Coder release (only older Qwen2.5-Coder rows).
+qwen3-coder-plus	qwen3-coder-plus	2025-09-23		none	qwen3-coder-480b-a35b-instruct	exact	'Qwen3-Coder-Plus' is Alibaba's public branding for the 480B-A35B coder model (AA date 2025-07-22 vs site 2025-09-23, ~2mo gap). No Epoch entry for any Qwen3-Coder release.
+qwen3-max	qwen3-max	2025-09-23	Qwen3-Max	exact	qwen3-max	exact	
+qwen3-max-thinking	qwen3-max-thinking	2026-02-09		none	qwen3-max-thinking	exact	No Epoch entry for Qwen3-Max-Thinking; AA date 2026-01-26 vs site 2026-02-09 (~2wk gap).
+inkling	inkling	2026-07-15	Inkling	exact	inkling	exact	AA's only effort variant is xhigh.
+inkling-small	inkling-small	2026-07-31	Inkling-Small	snapshot-match	inkling-small	exact	Epoch lists 'Inkling-Small' at the same date as base Inkling (2026-07-15), 16 days before site/AA's 2026-07-31/07-30 date; likely a stale date in Epoch's row.
+ox-alpha-260821	Ox Alpha 260821	2026-08-20		none		none	Stealth/anonymous OpenRouter model; no identifiable match in either index.
+ox-alpha-260825	Ox Alpha 260825	2026-08-20		none		none	Stealth/anonymous OpenRouter model; no identifiable match in either index.
+chatglm2-6b	chatglm2-6b	2023-06-25	chatglm2-6b	exact		none	No AA entry for ChatGLM2.
+chatglm3-6b	chatglm3-6b	2023-10-27		none		none	No entry for ChatGLM3 in either index.
+glm-4-5	glm-4.5	2025-07-28		none	glm-4.5	exact	No Epoch entry for GLM-4.5 (Epoch's GLM coverage starts at 4.6); AA slug literally contains a dot ('glm-4.5'). Picked AA's reasoning variant.
+glm-4-6	glm-4.6	2025-09-30	GLM-4.6	exact	glm-4-6-reasoning	exact	AA splits reasoning/non-reasoning; picked reasoning.
+glm-4-7	glm-4.7	2025-12-22	GLM-4.7	exact	glm-4-7	exact	AA's base slug is the reasoning variant ('-non-reasoning' is separate).
+glm-4-9b-chat-hf	glm-4-9b-chat-hf	2024-06-05		none		none	No entry for this older, smaller GLM-4 chat model in either index.
+glm-5-1	glm-5.1	2026-04-07	GLM-5.1	exact	glm-5-1	exact	AA base slug is the reasoning variant.
+glm-5-2	glm-5.2	2026-06-13	GLM-5.2	exact	glm-5-2	exact	AA top effort is max.
+glm-5-3	glm-5.3	2026-08-14	GLM-5.3	exact	glm-5-3	exact	AA top effort is max.
+glm-5-3-flash	glm-5.3-flash	2026-08-26	GLM-5.3-Flash	exact	glm-5-3-flash	exact	AA's only effort listed is max.
+grok-3	grok-3	2025-06-10	Grok 3	snapshot-match	grok-3	snapshot-match	Both indexes date the base 'Grok 3' to Feb/Apr 2025 (initial announce), while the site lists 2025-06-10 (likely a later GA/listing date); only candidate in each index, so treated as the same model despite the gap.
+grok-4	grok-4-0709	2025-07-09	Grok 4	exact	grok-4	exact	
+grok-4-1-fast-non-reasoning	grok-4-1-fast-non-reasoning	2025-11-19		none	grok-4-1-fast	exact	No Epoch entry for the 4.1 Fast line.
+grok-4-1-fast-reasoning	grok-4-1-fast-reasoning	2025-11-19		none	grok-4-1-fast-reasoning	exact	No Epoch entry for the 4.1 Fast line.
+grok-4-20	grok-4.20	2026-03-31	Grok 4.20	snapshot-match	grok-4-20	snapshot-match	Ambiguous: site's endpoint snapshot date (0309) matches AA's 'grok-4-20-0309' (2026-03-10) most literally, but site's release_date (2026-03-31) sits closer to AA's later 'v2' row also slugged 'grok-4-20' (2026-04-07), which was picked here. Epoch has a single undifferentiated 'Grok 4.20' entry (2026-02-17, ~6wk gap from site) used for all three grok-4-20* site rows.
+grok-4-20-0309-non-reasoning	grok-4.20-0309-non-reasoning	2026-03-10	Grok 4.20	family-match	grok-4-20-0309-non-reasoning	exact	Epoch does not split this dated sub-variant from the general 'Grok 4.20' entry (2026-02-17, ~3wk gap); AA matches exactly by date and reasoning flag.
+grok-4-20-0309-reasoning	grok-4.20-0309-reasoning	2026-03-10	Grok 4.20	family-match	grok-4-20-0309	exact	Epoch does not split this dated sub-variant from the general 'Grok 4.20' entry (2026-02-17, ~3wk gap); AA's reasoning row for 0309 is slugged 'grok-4-20-0309' (no '-reasoning' suffix) and matches exactly by date.
+grok-4-3	grok-4.3	2026-04-30	Grok 4.3 Beta	exact	grok-4-3	exact	AA top effort is high (no max/xhigh tier for this model); Epoch labels it 'Beta'.
+grok-4-5	grok-4.5	2026-07-15	Grok 4.5	exact	grok-4-5	exact	AA's only effort variant is high.
+grok-4-6	grok-4.6	2026-08-12	Grok 4.6	exact	grok-4-6-xhigh	exact	AA top effort is xhigh.
+grok-build-0-1	grok-build-0.1	2026-06-05		none	grok-build-0-1-06-16	family-match	AA's only 'Grok Build 0.1' row is dated 2026-06-16, vs site's release 2026-06-05 / endpoint snapshot 20260520 (name matches, date does not); no Epoch entry for this beta line.
