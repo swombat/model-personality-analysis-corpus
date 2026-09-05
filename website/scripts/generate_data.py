@@ -1494,6 +1494,14 @@ def main() -> None:
     release_dates = json.loads(release_dates_path.read_text()) if release_dates_path.exists() else {}
     benchmarks_path = GENERATED / "model-benchmarks.json"
     benchmarks = json.loads(benchmarks_path.read_text()) if benchmarks_path.exists() else {}
+    # Capability ladder (Epoch AI Capabilities Index, CC BY 4.0) — replaces
+    # the Artificial Analysis Intelligence Index as the displayed capability
+    # number. See website/scripts/refresh_capability_ladder.py. `benchmarks`
+    # (above) is kept in the data for audit/back-compat but is no longer
+    # rendered on the site.
+    capability_path = GENERATED / "capability-ladder.json"
+    capability_data = json.loads(capability_path.read_text()) if capability_path.exists() else {}
+    capability_models = capability_data.get("models", {})
     # Editorial provenance notes (markdown), keyed by slug. Rendered under the
     # strapline. Used for e.g. stealth models later identified by their lab.
     notes_path = GENERATED / "model-notes.json"
@@ -1539,6 +1547,7 @@ def main() -> None:
             # Absence is meaningful: some new models have no authoritative
             # benchmark yet. Do not resurrect a stale cached score.
             "benchmarks": benchmarks.get(slug),
+            "capability": capability_models.get(slug),
             "personality_card_markdown": card_markdown.strip(),
             "personality_profile_markdown": profile_markdown.strip(),
             "sample_kind_counts": row.get("sample_kind_counts") or {},

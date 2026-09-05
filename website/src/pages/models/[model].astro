@@ -203,6 +203,32 @@ function speedLabel(value) {
     </article>
 
     <aside class="side-panel" aria-label="Model metadata">
+      {model.capability && (
+        <div class="panel">
+          <h2>Capability</h2>
+          <div class="table-list">
+            <div>
+              <b>Ladder score</b><br />
+              {model.capability.ladder !== null && model.capability.ladder !== undefined ? (
+                <span>
+                  <a href={`${base}methodology/capability-ladder/`}>
+                    {model.capability.ladder} / {model.capability.ladder_max}
+                  </a>
+                  <br />
+                  <span class="capability-caption">
+                    measured {model.capability.measured_rungs}/{model.capability.n_rungs} rungs
+                  </span>
+                </span>
+              ) : (
+                <span>
+                  <a class="capability-not-scored" href={`${base}methodology/capability-ladder/`}>not yet scored</a>
+                </span>
+              )}
+            </div>
+            <div><b>Source</b><br /><span>Epoch AI Capabilities Index (CC BY 4.0)</span></div>
+          </div>
+        </div>
+      )}
       <div class="panel">
         <h2>Model</h2>
         <div class="table-list">

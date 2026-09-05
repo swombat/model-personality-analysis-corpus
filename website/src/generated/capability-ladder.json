@@ -1,0 +1,1518 @@
+{
+  "generated": "2026-09-05T12:53:23Z",
+  "ladder_max": 590,
+  "models": {
+    "chatglm2-6b": {
+      "epoch_model": "chatglm2-6b",
+      "ladder": 56.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 7,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "chatglm3-6b": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "codestral-2508": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "deepseek-chat": {
+      "epoch_model": "DeepSeek-V3",
+      "ladder": 173.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "deepseek-v3-2": {
+      "epoch_model": "DeepSeek-V3.2",
+      "ladder": 265.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "deepseek-v4-flash-0731": {
+      "epoch_model": "DeepSeek V4 Flash 0731",
+      "ladder": 353.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "deepseek-v4-pro": {
+      "epoch_model": "DeepSeek-V4-Pro",
+      "ladder": 295.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "deepseek-v4-pro-0813": {
+      "epoch_model": "DeepSeek V4 Pro 0813",
+      "ladder": 368.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "devstral-2512": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "fable-5": {
+      "epoch_model": "Claude Fable 5",
+      "ladder": 449.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 23,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "fable-5-1": {
+      "epoch_model": "Claude Fable 5.1",
+      "ladder": 451.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-2-0-flash": {
+      "epoch_model": "Gemini 2.0 Flash (Feb 2025)",
+      "ladder": 176.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-2-0-flash-lite": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gemini-2-5-flash": {
+      "epoch_model": "Gemini 2.5 Flash (May 2025)",
+      "ladder": 228.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 8,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-2-5-flash-lite": {
+      "epoch_model": "Gemini 2.5 Flash-Lite (Jun 2025)",
+      "ladder": 176.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 4,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-2-5-pro": {
+      "epoch_model": "Gemini 2.5 Pro (Mar 2025)",
+      "ladder": 253.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-1-flash-lite": {
+      "epoch_model": "Gemini 3.1 Flash-Lite",
+      "ladder": 251.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-1-pro": {
+      "epoch_model": "Gemini 3.1 Pro",
+      "ladder": 365.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 30,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-5-flash": {
+      "epoch_model": "Gemini 3.5 Flash",
+      "ladder": 362.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 19,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-5-flash-lite": {
+      "epoch_model": "Gemini 3.5 Flash-Lite",
+      "ladder": 257.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 13,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-6-flash": {
+      "epoch_model": "Gemini 3.6 Flash",
+      "ladder": 356.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-7-flash": {
+      "epoch_model": "Gemini 3.7 Flash",
+      "ladder": 392.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemini-3-8-flash": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gemini-3-flash-preview": {
+      "epoch_model": "Gemini 3 Flash",
+      "ladder": 330.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 22,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemma-4-26b-a4b": {
+      "epoch_model": "Gemma 4 26B A4B",
+      "ladder": 227.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 7,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gemma-4-31b": {
+      "epoch_model": "Gemma 4 31B IT",
+      "ladder": 236.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 9,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-4-5": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "glm-4-6": {
+      "epoch_model": "GLM-4.6",
+      "ladder": 214.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 5,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-4-7": {
+      "epoch_model": "GLM-4.7",
+      "ladder": 241.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 13,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-4-9b-chat-hf": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "glm-5-1": {
+      "epoch_model": "GLM-5.1",
+      "ladder": 298.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-5-2": {
+      "epoch_model": "GLM-5.2",
+      "ladder": 329.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 22,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-5-3": {
+      "epoch_model": "GLM-5.3",
+      "ladder": 366.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "glm-5-3-flash": {
+      "epoch_model": "GLM-5.3-Flash",
+      "ladder": 320.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-3-5-turbo": {
+      "epoch_model": "GPT-3.5 Turbo (Jun 2023)",
+      "ladder": 110.7,
+      "ladder_max": 590,
+      "match_confidence": "snapshot-match",
+      "measured_rungs": 4,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4": {
+      "epoch_model": "GPT-4 (Mar 2023)",
+      "ladder": 144.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 7,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4-1": {
+      "epoch_model": "GPT-4.1",
+      "ladder": 190.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 19,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4-1-mini": {
+      "epoch_model": "GPT-4.1 mini",
+      "ladder": 177.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4-1-nano": {
+      "epoch_model": "GPT-4.1 nano",
+      "ladder": 144.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 13,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4-turbo": {
+      "epoch_model": "GPT-4 Turbo (Apr 2024)",
+      "ladder": 137.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 9,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4o": {
+      "epoch_model": "GPT-4o (May 2024)",
+      "ladder": 149.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 8,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-4o-mini": {
+      "epoch_model": "GPT-4o mini",
+      "ladder": 137.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 20,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5": {
+      "epoch_model": "GPT-5",
+      "ladder": 308.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 32,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-1": {
+      "epoch_model": "GPT-5.1",
+      "ladder": 305.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 23,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-1-codex": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-1-codex-max": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-1-codex-mini": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-2": {
+      "epoch_model": "GPT-5.2",
+      "ladder": 345.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 26,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-2-codex": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-3": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-3-codex": {
+      "epoch_model": "GPT-5.3 Codex",
+      "ladder": 373.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 5,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-4": {
+      "epoch_model": "GPT-5.4",
+      "ladder": 382.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 27,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-4-mini": {
+      "epoch_model": "GPT-5.4 Mini",
+      "ladder": 292.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 17,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-4-nano": {
+      "epoch_model": "GPT-5.4 Nano",
+      "ladder": 266.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-5": {
+      "epoch_model": "GPT-5.5",
+      "ladder": 413.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 30,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-5-pro": {
+      "epoch_model": "GPT-5.5 Pro",
+      "ladder": 435.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-6-luna": {
+      "epoch_model": "GPT-5.6 Luna",
+      "ladder": 374.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 18,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-6-sol": {
+      "epoch_model": "GPT-5.6 Sol",
+      "ladder": 441.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 23,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-6-terra": {
+      "epoch_model": "GPT-5.6 Terra",
+      "ladder": 408.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 18,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-codex": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "gpt-5-mini": {
+      "epoch_model": "GPT-5 mini",
+      "ladder": 260.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 21,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-5-nano": {
+      "epoch_model": "GPT-5 nano",
+      "ladder": 209.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 17,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-6-astra": {
+      "epoch_model": "GPT-6 Astra",
+      "ladder": 506.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 9,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-oss-120b": {
+      "epoch_model": "gpt-oss-120b",
+      "ladder": 213.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "gpt-oss-20b": {
+      "epoch_model": "gpt-oss-20b",
+      "ladder": 196.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 8,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-3": {
+      "epoch_model": "Grok 3",
+      "ladder": 201.8,
+      "ladder_max": 590,
+      "match_confidence": "snapshot-match",
+      "measured_rungs": 14,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4": {
+      "epoch_model": "Grok 4",
+      "ladder": 266.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 20,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-1-fast-non-reasoning": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "grok-4-1-fast-reasoning": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "grok-4-20": {
+      "epoch_model": "Grok 4.20",
+      "ladder": 323.6,
+      "ladder_max": 590,
+      "match_confidence": "snapshot-match",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-20-0309-non-reasoning": {
+      "epoch_model": "Grok 4.20",
+      "ladder": 323.6,
+      "ladder_max": 590,
+      "match_confidence": "family-match",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-20-0309-reasoning": {
+      "epoch_model": "Grok 4.20",
+      "ladder": 323.6,
+      "ladder_max": 590,
+      "match_confidence": "family-match",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-3": {
+      "epoch_model": "Grok 4.3 Beta",
+      "ladder": 294.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-5": {
+      "epoch_model": "Grok 4.5",
+      "ladder": 352.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 19,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-4-6": {
+      "epoch_model": "Grok 4.6",
+      "ladder": 381.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 19,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "grok-build-0-1": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "haiku-3": {
+      "epoch_model": "Claude 3 Haiku",
+      "ladder": 108.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "haiku-4-5": {
+      "epoch_model": "Claude Haiku 4.5",
+      "ladder": 231.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 18,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "inkling": {
+      "epoch_model": "Inkling",
+      "ladder": 286.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 15,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "inkling-small": {
+      "epoch_model": "Inkling-Small",
+      "ladder": 306.2,
+      "ladder_max": 590,
+      "match_confidence": "snapshot-match",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "kimi-coding": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "kimi-k2-0905": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "kimi-k2-5": {
+      "epoch_model": "Kimi K2.5",
+      "ladder": 282.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 19,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "kimi-k2-6": {
+      "epoch_model": "Kimi K2.6",
+      "ladder": 314.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 17,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "kimi-k2-7-code": {
+      "epoch_model": "Kimi K2.7 Code",
+      "ladder": 305.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 13,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "kimi-k2-thinking": {
+      "epoch_model": "Kimi K2 Thinking",
+      "ladder": 260.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "kimi-k3": {
+      "epoch_model": "Kimi K3",
+      "ladder": 394.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 20,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-3-1-70b-instruct": {
+      "epoch_model": "Llama 3.1-70B",
+      "ladder": 131.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 9,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-3-1-8b-instruct": {
+      "epoch_model": "Llama 3.1-8B",
+      "ladder": 107.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-3-2-11b-vision-instruct": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "llama-3-2-1b-instruct": {
+      "epoch_model": "Llama 3.2 1B",
+      "ladder": 60.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 4,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-3-2-3b-instruct": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "llama-3-3-70b-instruct": {
+      "epoch_model": "Llama 3.3 70B",
+      "ladder": 137.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-4-maverick": {
+      "epoch_model": "Llama 4 Maverick",
+      "ladder": 161.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 16,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "llama-4-scout": {
+      "epoch_model": "Llama 4 Scout",
+      "ladder": 146.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "minimax-m2": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "minimax-m2-7": {
+      "epoch_model": "MiniMax-M2.7",
+      "ladder": 251.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 5,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "minimax-m3": {
+      "epoch_model": "MiniMax-M3",
+      "ladder": 275.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "ministral-14b-2512": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "ministral-3b-2512": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "ministral-8b-2512": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "mistral-7b-instruct-v0-2": {
+      "epoch_model": "Mistral 7B v0.1",
+      "ladder": 107.3,
+      "ladder_max": 590,
+      "match_confidence": "family-match",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-large-2512": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "mistral-medium-3": {
+      "epoch_model": "Mistral Medium 3",
+      "ladder": 172.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 7,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-medium-3-1": {
+      "epoch_model": "Mistral Medium 3.1",
+      "ladder": 190.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 4,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-medium-3-5": {
+      "epoch_model": "Mistral Medium 3.5",
+      "ladder": 232.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 7,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-nemo": {
+      "epoch_model": "Mistral NeMo",
+      "ladder": 109.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 6,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-saba": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "mistral-small-24b-instruct-2501": {
+      "epoch_model": "Mistral Small 3",
+      "ladder": 134.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 4,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-small-2603": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "mistral-small-3-1-24b-instruct": {
+      "epoch_model": "Mistral Small 3.1",
+      "ladder": 134.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 6,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mistral-small-3-2-24b-instruct": {
+      "epoch_model": "Mistral Small 3.2",
+      "ladder": 158.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 5,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "mixtral-8x22b-instruct": {
+      "epoch_model": "Mixtral 8x22B",
+      "ladder": 117.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 6,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "muse-glimmer-30b": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "muse-spark-1-1": {
+      "epoch_model": "Muse Spark 1.1",
+      "ladder": 363.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 8,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "muse-spark-1-2": {
+      "epoch_model": "Muse Spark 1.2",
+      "ladder": 369.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 8,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "muse-spark-1-3": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "o1": {
+      "epoch_model": "o1",
+      "ladder": 228.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 20,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "o3": {
+      "epoch_model": "o3",
+      "ladder": 275.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 30,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "o3-mini": {
+      "epoch_model": "o3-mini",
+      "ladder": 211.7,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 21,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "o4-mini": {
+      "epoch_model": "o4-mini",
+      "ladder": 257.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 25,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-3": {
+      "epoch_model": "Claude 3 Opus",
+      "ladder": 138.1,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 13,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-0": {
+      "epoch_model": "Claude Opus 4",
+      "ladder": 237.4,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 23,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-1": {
+      "epoch_model": "Claude Opus 4.1",
+      "ladder": 249.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 20,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-5": {
+      "epoch_model": "Claude Opus 4.5",
+      "ladder": 313.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 30,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-6": {
+      "epoch_model": "Claude Opus 4.6",
+      "ladder": 366.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 27,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-7": {
+      "epoch_model": "Claude Opus 4.7",
+      "ladder": 378.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 26,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-4-8": {
+      "epoch_model": "Claude Opus 4.8",
+      "ladder": 403.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 25,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "opus-5": {
+      "epoch_model": "Claude Opus 5",
+      "ladder": 444.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 21,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "ox-alpha-260821": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "ox-alpha-260825": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen1-5-7b-chat": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen2-7b-instruct": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen3-5-flash-02-23": {
+      "epoch_model": "Qwen 3.5 Flash (hosted 35B-A3B)",
+      "ladder": 247.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 9,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-5-plus-20260420": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen3-6-flash": {
+      "epoch_model": "Qwen 3.6 Flash",
+      "ladder": 241.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 10,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-6-max-preview": {
+      "epoch_model": "Qwen 3.6 Max (Preview)",
+      "ladder": 300.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-6-plus": {
+      "epoch_model": "Qwen 3.6 Plus",
+      "ladder": 277.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-7-flash": {
+      "epoch_model": "Qwen3.7 Flash",
+      "ladder": 247.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 5,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-7-max": {
+      "epoch_model": "Qwen3.7-Max",
+      "ladder": 350.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 14,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-8-2-4t-a95b": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen3-8-max": {
+      "epoch_model": "Qwen 3.8 Max",
+      "ladder": 382.6,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 12,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-coder-flash": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen3-coder-plus": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "qwen3-max": {
+      "epoch_model": "Qwen3-Max",
+      "ladder": 229.3,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 11,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "qwen3-max-thinking": {
+      "epoch_model": null,
+      "ladder": null,
+      "ladder_max": 590,
+      "match_confidence": "none",
+      "measured_rungs": 0,
+      "n_rungs": 59,
+      "point_variant": null,
+      "status": "not_scored"
+    },
+    "sonnet-4-0": {
+      "epoch_model": "Claude Sonnet 4",
+      "ladder": 224.8,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 25,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "sonnet-4-5": {
+      "epoch_model": "Claude Sonnet 4.5",
+      "ladder": 273.0,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 28,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "sonnet-4-6": {
+      "epoch_model": "Claude Sonnet 4.6",
+      "ladder": 327.2,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 23,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "sonnet-5": {
+      "epoch_model": "Claude Sonnet 5",
+      "ladder": 374.5,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 18,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    },
+    "yi-6b-chat": {
+      "epoch_model": "Yi 6B",
+      "ladder": 78.9,
+      "ladder_max": 590,
+      "match_confidence": "exact",
+      "measured_rungs": 6,
+      "n_rungs": 59,
+      "point_variant": "default",
+      "status": "scored"
+    }
+  },
+  "n_rungs": 59,
+  "source": "Epoch AI Capabilities Index, CC BY 4.0"
+}

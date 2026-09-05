@@ -33,11 +33,17 @@ function releaseLabel(date) {
   });
 }
 
-function benchmarkTitle(model) {
-  const score = model.benchmarks?.aaii;
-  if (score === null || score === undefined) return '';
-  const suffix = model.benchmarks?.estimated ? ' (estimated)' : '';
-  return `Artificial Analysis Intelligence Index: ${score}${suffix}`;
+function capabilityTitle(model) {
+  const cap = model.capability;
+  if (!cap) return '';
+  if (cap.ladder === null || cap.ladder === undefined) {
+    return 'Not yet scored on the capability ladder — no Epoch AI benchmark match for this model.';
+  }
+  return (
+    `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
+    `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs; ${cap.match_confidence} match to ${cap.epoch_model}). ` +
+    `Source: Epoch AI Capabilities Index, CC BY 4.0.`
+  );
 }
 
 function ratingStyle(percent) {
@@ -148,22 +154,31 @@ function valuePillStyle(label) {
         data-ephemeral={model.model.startsWith('ox-alpha-') ? 'true' : 'false'}
         data-search={`${model.model} ${model.display_name || ''} ${model.lab} ${model.family} ${model.summary}`.toLowerCase()}
         data-release={model.release_date || ''}
-        data-intelligence={model.benchmarks?.aaii ?? -1}
+        data-intelligence={model.capability?.ladder ?? -1}
         data-price={model.openrouter?.prompt_per_million ?? 999999}
         data-speed={model.speed_tokens_per_second ?? -1}
         data-samples={model.published_samples}
       >
-        {model.benchmarks?.aaii !== undefined && (
-          <a
-            class="benchmark-score"
-            href={model.benchmarks.url}
-            title={benchmarkTitle(model)}
-            aria-label={benchmarkTitle(model)}
-            target="_blank"
-            rel="noreferrer"
-          >
-            {model.benchmarks.aaii}
-          </a>
+        {model.capability && (
+          model.capability.ladder !== null && model.capability.ladder !== undefined ? (
+            <a
+              class="benchmark-score capability-score"
+              href={`${base}methodology/capability-ladder/`}
+              title={capabilityTitle(model)}
+              aria-label={capabilityTitle(model)}
+            >
+              {model.capability.ladder}<span class="capability-score-max">/{model.capability.ladder_max}</span>
+            </a>
+          ) : (
+            <a
+              class="benchmark-score capability-score capability-score-unscored"
+              href={`${base}methodology/capability-ladder/`}
+              title={capabilityTitle(model)}
+              aria-label={capabilityTitle(model)}
+            >
+              not scored
+            </a>
+          )
         )}
         <a class="card-link" href={`${base}models/${model.model}/`}>
           {model.image_thumb && (

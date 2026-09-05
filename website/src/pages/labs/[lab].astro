@@ -28,11 +28,17 @@ function releaseLabel(date) {
   });
 }
 
-function benchmarkTitle(model) {
-  const score = model.benchmarks?.aaii;
-  if (score === null || score === undefined) return '';
-  const suffix = model.benchmarks?.estimated ? ' (estimated)' : '';
-  return `Artificial Analysis Intelligence Index: ${score}${suffix}`;
+function capabilityTitle(model) {
+  const cap = model.capability;
+  if (!cap) return '';
+  if (cap.ladder === null || cap.ladder === undefined) {
+    return 'Not yet scored on the capability ladder — no Epoch AI benchmark match for this model.';
+  }
+  return (
+    `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
+    `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs; ${cap.match_confidence} match to ${cap.epoch_model}). ` +
+    `Source: Epoch AI Capabilities Index, CC BY 4.0.`
+  );
 }
 ---
 
@@ -42,17 +48,26 @@ function benchmarkTitle(model) {
   <section class="model-grid">
     {labModels.map((model) => (
       <article class="model-card">
-        {model.benchmarks?.aaii !== undefined && (
-          <a
-            class="benchmark-score"
-            href={model.benchmarks.url}
-            title={benchmarkTitle(model)}
-            aria-label={benchmarkTitle(model)}
-            target="_blank"
-            rel="noreferrer"
-          >
-            {model.benchmarks.aaii}
-          </a>
+        {model.capability && (
+          model.capability.ladder !== null && model.capability.ladder !== undefined ? (
+            <a
+              class="benchmark-score capability-score"
+              href={`${base}methodology/capability-ladder/`}
+              title={capabilityTitle(model)}
+              aria-label={capabilityTitle(model)}
+            >
+              {model.capability.ladder}<span class="capability-score-max">/{model.capability.ladder_max}</span>
+            </a>
+          ) : (
+            <a
+              class="benchmark-score capability-score capability-score-unscored"
+              href={`${base}methodology/capability-ladder/`}
+              title={capabilityTitle(model)}
+              aria-label={capabilityTitle(model)}
+            >
+              not scored
+            </a>
+          )
         )}
         <a class="card-link" href={`${base}models/${model.model}/`}>
           <div>

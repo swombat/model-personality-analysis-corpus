@@ -275,6 +275,25 @@ select {
   text-decoration: none;
 }
 
+.capability-score-max {
+  font-size: 11px;
+  font-weight: 600;
+  opacity: 0.65;
+  margin-left: 1px;
+}
+
+.capability-score-unscored {
+  font-size: 12px;
+  font-weight: 600;
+  font-style: italic;
+  opacity: 0.6;
+  text-transform: lowercase;
+}
+
+.model-card .capability-score-unscored {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+}
+
 .chip {
   display: inline-flex;
   align-items: center;
@@ -435,6 +454,16 @@ select {
 .table-list {
   display: grid;
   gap: 8px;
+}
+
+.capability-caption {
+  color: var(--muted, #918c82);
+  font-size: 12px;
+}
+
+.capability-not-scored {
+  color: var(--muted, #918c82);
+  font-style: italic;
 }
 
 .list-row {
