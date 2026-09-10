@@ -138,6 +138,8 @@ MODEL_SLUGS = {
     "deepseek-v3-2": "deepseek/deepseek-v3.2",
     "deepseek-v4-flash-0731": "deepseek/deepseek-v4-flash-0731",
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
+    "deepseek-v4-1-flash": "deepseek/deepseek-v4.1-flash",
+    "mercury-2-5": "inception/mercury-2.5",
     "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
     "chatglm2-6b": "zai-org/chatglm2-6b",
     "chatglm3-6b": "zai-org/chatglm3-6b",
@@ -391,6 +393,10 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Ox Alpha 260821"
     if slug == "ox-alpha-260825":
         return "Ox Alpha 260825"
+    if slug == "deepseek-v4-1-flash":
+        return "DeepSeek V4.1 Flash"
+    if slug == "mercury-2-5":
+        return "Mercury 2.5"
     if slug == "glm-5-3":
         return "glm-5.3"
     if slug == "glm-5-3-flash":
@@ -411,6 +417,8 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Google"
     if slug.startswith("grok"):
         return "xAI"
+    if slug.startswith("mercury"):
+        return "Inception"
     if slug.startswith("deepseek"):
         return "DeepSeek"
     if slug.startswith(("glm", "chatglm")):

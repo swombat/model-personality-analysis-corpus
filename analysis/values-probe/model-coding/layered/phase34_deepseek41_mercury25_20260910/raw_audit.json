@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "cell": "deepseek-v4-1-flash-or-pin-deepseek",
+      "probe": "freeflow",
+      "samples": 125,
+      "conditions": {
+        "LONG": 25,
+        "MID": 25,
+        "OPEN": 25,
+        "SHORT": 25,
+        "VARY": 25
+      },
+      "finish_reasons": {
+        "stop": 125
+      },
+      "mean_words": 1008.728,
+      "cost": 0.3606987
+    },
+    {
+      "cell": "deepseek-v4-1-flash-or-pin-deepseek",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 79.00833333333334,
+      "cost": 0.14514000000000005
+    },
+    {
+      "cell": "mercury-2-5-or-pin-inception",
+      "probe": "freeflow",
+      "samples": 125,
+      "conditions": {
+        "LONG": 25,
+        "MID": 25,
+        "OPEN": 25,
+        "SHORT": 25,
+        "VARY": 25
+      },
+      "finish_reasons": {
+        "stop": 125
+      },
+      "mean_words": 964.968,
+      "cost": 0.05287708000000002
+    },
+    {
+      "cell": "mercury-2-5-or-pin-inception",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 41.34166666666667,
+      "cost": 0.017532479999999996
+    }
+  ],
+  "problems": []
+}

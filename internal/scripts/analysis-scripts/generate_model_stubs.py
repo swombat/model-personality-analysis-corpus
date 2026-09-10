@@ -56,7 +56,9 @@ MODELS = [
     "grok-4-20-0309-non-reasoning", "grok-4-20-0309-reasoning",
     # DeepSeek
     "deepseek-chat", "deepseek-r1", "deepseek-v3", "deepseek-v3-0324",  # v1-era
-    "deepseek-v3-2", "deepseek-v4-pro",
+    "deepseek-v3-2", "deepseek-v4-pro", "deepseek-v4-1-flash",
+    # Inception
+    "mercury-2-5",
     # Z.ai (GLM)
     "glm-4-5", "glm-4-6", "glm-4-6-coding", "glm-4-7", "glm-5-1", "glm-5-1-coding", "glm-5-2", "glm-5-3",
     # MiniMax

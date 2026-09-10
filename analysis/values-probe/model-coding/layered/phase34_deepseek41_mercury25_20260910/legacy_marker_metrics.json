@@ -1,0 +1,56 @@
+{
+  "deepseek-v4-1-flash-or-pin-deepseek": {
+    "markers": {
+      "opening_there_is_a": 9,
+      "opening_at_dusk_dawn": 0,
+      "title_quiet_x_of_y": 0,
+      "title_particular_peculiar": 0,
+      "title_architecture_of": 3,
+      "title_on_the_x_of_y": 0,
+      "threshold_mentions": 48,
+      "attention_noticing": 47,
+      "afternoon_light": 31,
+      "japanese_terms": 13,
+      "small_objects": 67,
+      "mary_oliver_weil_dillard": 8,
+      "certainly_delve_tapestry": 14,
+      "ai_selfref": 1,
+      "meta_preamble_below_is": 0,
+      "here_is_a_n_word": 2,
+      "refusal_do_not_feel_comfortable": 0,
+      "valid_samples": 125,
+      "total_files": 125,
+      "total_chars": 688596,
+      "error_count": 0
+    },
+    "score": 226,
+    "bin": "in"
+  },
+  "mercury-2-5-or-pin-inception": {
+    "markers": {
+      "opening_there_is_a": 77,
+      "opening_at_dusk_dawn": 0,
+      "title_quiet_x_of_y": 0,
+      "title_particular_peculiar": 0,
+      "title_architecture_of": 0,
+      "title_on_the_x_of_y": 0,
+      "threshold_mentions": 15,
+      "attention_noticing": 3,
+      "afternoon_light": 1,
+      "japanese_terms": 1,
+      "small_objects": 1,
+      "mary_oliver_weil_dillard": 0,
+      "certainly_delve_tapestry": 32,
+      "ai_selfref": 17,
+      "meta_preamble_below_is": 0,
+      "here_is_a_n_word": 0,
+      "refusal_do_not_feel_comfortable": 0,
+      "valid_samples": 125,
+      "total_files": 125,
+      "total_chars": 722803,
+      "error_count": 0
+    },
+    "score": 98,
+    "bin": "in"
+  }
+}

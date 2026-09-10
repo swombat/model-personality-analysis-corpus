@@ -483,6 +483,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v3-2-or-r3/aggregate.md"
   },
   {
+    "cell": "deepseek-v4-1-flash-or-pin-deepseek",
+    "safe_cell": "deepseek-v4-1-flash-or-pin-deepseek",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 98,
+      "GENERIC_ESSAY": 24,
+      "GENRE_FICTION": 3
+    },
+    "confidence_counts": {
+      "High": 23,
+      "Medium": 87,
+      "Low": 15
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "deepseek/deepseek-v4.1-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-1-flash-or-pin-deepseek/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-1-flash-or-pin-deepseek/aggregate.md"
+  },
+  {
     "cell": "deepseek-v4-flash-direct-20260731",
     "safe_cell": "deepseek-v4-flash-direct-20260731",
     "samples": 125,
@@ -5434,6 +5461,32 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/llama-4-scout-or-pin-deepinfra/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/llama-4-scout-or-pin-deepinfra/aggregate.md"
+  },
+  {
+    "cell": "mercury-2-5-or-pin-inception",
+    "safe_cell": "mercury-2-5-or-pin-inception",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 85,
+      "EXPRESSIVE_FREEFLOW": 40
+    },
+    "confidence_counts": {
+      "Low": 43,
+      "Medium": 71,
+      "High": 11
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "inception/mercury-2.5"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mercury-2-5-or-pin-inception/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mercury-2-5-or-pin-inception/aggregate.md"
   },
   {
     "cell": "minimax-m2-7-or",

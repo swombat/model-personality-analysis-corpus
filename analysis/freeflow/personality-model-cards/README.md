@@ -2,7 +2,7 @@
 
 Clean model-level personality cards collapsed from the freeflow personality analysis.
 
-- Model cards: 149
+- Model cards: 151
 - Source aggregates: `analysis/freeflow/personality-aggregates/`
 - Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`
 
@@ -157,3 +157,5 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [qwen/qwen3.8-2.4t-a95b](cards/qwen-qwen3.8-2.4t-a95b.md) — samples: 250; variants: 2
 - [qwen/qwen3.8-max](cards/qwen-qwen3.8-max.md) — samples: 250; variants: 2
 - [yi-6b-chat](cards/yi-6b-chat.md) — samples: 125; variants: 1
+- [deepseek-v4-1-flash](cards/deepseek-v4-1-flash.md) — samples: 125
+- [mercury-2-5](cards/mercury-2-5.md) — samples: 125

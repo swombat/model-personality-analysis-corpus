@@ -235,6 +235,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v3.2.md"
   },
   {
+    "model": "deepseek-v4-1-flash",
+    "safe": "deepseek-v4-1-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 98,
+      "GENERIC_ESSAY": 24,
+      "GENRE_FICTION": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-v4-1-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-1-flash.md"
+  },
+  {
     "model": "deepseek-v4-flash-0731",
     "safe": "deepseek-v4-flash-0731",
     "analysis_inputs": 1,
@@ -1393,6 +1406,18 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/llama-4-scout.md",
     "card": "analysis/freeflow/personality-model-cards/cards/llama-4-scout.md"
+  },
+  {
+    "model": "mercury-2-5",
+    "safe": "mercury-2-5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 85,
+      "EXPRESSIVE_FREEFLOW": 40
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/mercury-2-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/mercury-2-5.md"
   },
   {
     "model": "minimax-m2",

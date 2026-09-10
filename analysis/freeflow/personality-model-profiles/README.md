@@ -12,7 +12,7 @@ Relationship to adjacent folders:
 - `personality-model-profiles/` — this folder: rich per-model profiles.
 - `personality-model-cards/` — concise 2–3 paragraph cards for display/synthesis.
 
-- Profiles: 150
+- Profiles: 153
 
 ## Profiles
 
@@ -167,3 +167,5 @@ Relationship to adjacent folders:
 - [qwen/qwen3.8-2.4t-a95b](profiles/qwen-qwen3.8-2.4t-a95b.md) — samples: 250; source analyses: 2
 - [qwen/qwen3.8-max](profiles/qwen-qwen3.8-max.md) — samples: 250; source analyses: 2
 - [yi-6b-chat](profiles/yi-6b-chat.md) — samples: 125; source analyses: 1
+- [deepseek-v4-1-flash](profiles/deepseek-v4-1-flash.md) — samples: 125
+- [mercury-2-5](profiles/mercury-2-5.md) — samples: 125

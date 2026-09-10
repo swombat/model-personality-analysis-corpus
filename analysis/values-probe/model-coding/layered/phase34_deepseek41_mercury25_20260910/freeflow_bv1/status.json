@@ -1,0 +1,17 @@
+{
+  "cells": [
+    "deepseek-v4-1-flash-or-pin-deepseek",
+    "mercury-2-5-or-pin-inception"
+  ],
+  "samples": 250,
+  "per_cell": {
+    "deepseek-v4-1-flash-or-pin-deepseek": {
+      "valid": 125
+    },
+    "mercury-2-5-or-pin-inception": {
+      "valid": 125
+    }
+  },
+  "problems": [],
+  "wall_seconds": 17.74410605430603
+}

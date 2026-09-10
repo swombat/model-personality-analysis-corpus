@@ -28,10 +28,11 @@ def safe(s: str) -> str:
 
 def canonical(srcs, cell: str) -> str:
     s = (srcs or [''])[0].lower()
-    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'zai-org/', '01-ai/', 'deepseek/', 'x-ai/', 'google/', 'mistralai/', 'meta-llama/','meta/', 'thinkingmachines/', 'stealth/']:
+    for pref in ['openai/', 'anthropic/', 'minimax/', 'moonshotai/', 'z-ai/', 'zai-org/', '01-ai/', 'deepseek/', 'x-ai/', 'google/', 'mistralai/', 'meta-llama/','meta/', 'thinkingmachines/', 'stealth/', 'inception/']:
         if s.startswith(pref):
             s = s[len(pref):]
             break
+    s = {'deepseek-v4.1-flash': 'deepseek-v4-1-flash', 'mercury-2.5': 'mercury-2-5'}.get(s, s)
     if s.startswith('gpt-5.3-chat'):
         s = 'gpt-5.3'
     # Meta Muse Spark: the Contributor tier is the same checkpoint under
