@@ -150,3 +150,5 @@ grok-4-3	grok-4.3	2026-04-30	Grok 4.3 Beta	exact	grok-4-3	exact	AA top effort is
 grok-4-5	grok-4.5	2026-07-15	Grok 4.5	exact	grok-4-5	exact	AA's only effort variant is high.
 grok-4-6	grok-4.6	2026-08-12	Grok 4.6	exact	grok-4-6-xhigh	exact	AA top effort is xhigh.
 grok-build-0-1	grok-build-0.1	2026-06-05		none	grok-build-0-1-06-16	family-match	AA's only 'Grok Build 0.1' row is dated 2026-06-16, vs site's release 2026-06-05 / endpoint snapshot 20260520 (name matches, date does not); no Epoch entry for this beta line.
+deepseek-v4-1-flash	DeepSeek V4.1 Flash	2026-09-10		none		none	Released 2026-09-10, after the 2026-09-05 AA ladder build; AA page exists (AAII 40, v4.3, max effort) — set aa_slug=deepseek-v4-1-flash on the next ladder refresh.
+mercury-2-5	Mercury 2.5	2026-09-08		none		none	Inception diffusion LM. No AA or Epoch entry as of 2026-09-13 (AA has only Mercury 2).

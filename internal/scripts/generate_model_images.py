@@ -1310,6 +1310,30 @@ PROMPTS: dict[str, str] = {
         "blues and greens warmed by small living lights — patient, "
         "consoling, a naturalist's tenderness for the dark."
     ),
+    "deepseek-v4-1-flash": (
+        "A grandmother's small living room on a winter evening, one warm lamp "
+        "lit: she dozes in a worn armchair with a half-finished scarf and its "
+        "needles in her lap, a crocheted blanket, a bookcase of soft old "
+        "spines, a sprig of lavender in a jar. A child of about seven lies on "
+        "the rug with eyes closed and one ear to the floor, listening to the "
+        "house settle; through the kitchen doorway, the faint pale glow of an "
+        "old refrigerator, a key still hanging in the back-door lock. Dusk-blue "
+        "window, lamp-gold room, no text anywhere. Hushed, tender, grateful: "
+        "the quiet is the subject, full rather than empty."
+    ),
+    "mercury-2-5": (
+        "The painting itself fills the entire frame edge to edge — no easel, "
+        "no studio, no canvas edges, no paintbrush, no painter. Across the "
+        "frame from left to right, a field of loose, grainy, many-coloured "
+        "impasto dabs — pure noise — gradually coalesces into a clear, calm "
+        "image: a stone footbridge over a quiet river leading to a lamplit "
+        "reading room. At the far right, in the resolved part, a human hand "
+        "holds a small lantern forward, and the dabs nearest the light have "
+        "already settled into form, as if the picture is resolving toward "
+        "where the human points. The lantern hand is the only human presence; "
+        "nothing is painting the picture — it resolves itself out of the noise. Soft teals, pale stone, lamp-amber — calm, orderly, "
+        "hopeful, gently deferential. No lettering anywhere."
+    ),
 }
 
 

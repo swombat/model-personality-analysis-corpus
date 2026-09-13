@@ -845,5 +845,12 @@
     "matched_alias": "GPT-6 Astra (max)",
     "retrieved_date": "2026-09-05",
     "index_version": "4.2"
+  },
+  "deepseek-v4-1-flash": {
+    "aaii": 40,
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+    "matched_alias": "DeepSeek V4.1 Flash (Reasoning, Max Effort)",
+    "retrieved_date": "2026-09-13",
+    "index_version": "4.3"
   }
 }

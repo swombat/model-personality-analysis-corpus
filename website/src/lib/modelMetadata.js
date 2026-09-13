@@ -11,6 +11,7 @@ const familyLabels = {
   grok: 'Grok',
   kimi: 'Kimi',
   llama: 'Llama',
+  mercury: 'Mercury',
   muse: 'Muse',
   minimax: 'MiniMax',
   mistral: 'Mistral',

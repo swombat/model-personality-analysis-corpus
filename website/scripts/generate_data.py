@@ -459,6 +459,8 @@ def family_for_model(model: str) -> str:
         return "gemma"
     if model.startswith("grok"):
         return "grok"
+    if model.startswith("mercury"):
+        return "mercury"
     if model.startswith("deepseek"):
         return "deepseek"
     if model.startswith(("glm", "chatglm")):
