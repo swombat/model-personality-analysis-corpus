@@ -145,6 +145,7 @@ def resolve_aa(row: dict[str, str], by_link: dict[str, dict], by_link_normalized
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--substrate", choices=["aa", "epoch"], default="aa")
+    parser.add_argument("--models", nargs="+", help="Refresh only these site slugs; preserve other ratings and their calibration snapshot.")
     args = parser.parse_args()
     substrate = args.substrate
 
@@ -182,6 +183,12 @@ def main() -> None:
         by_name = {}
 
     aliases = load_aliases()
+    if args.models:
+        wanted = set(args.models)
+        missing = wanted - {row["site_slug"] for row in aliases}
+        if missing:
+            raise ValueError(f"Unknown model aliases: {sorted(missing)}")
+        aliases = [row for row in aliases if row["site_slug"] in wanted]
     models: dict[str, dict] = {}
     scored = 0
     not_scored = 0
@@ -238,6 +245,16 @@ def main() -> None:
         "n_rungs": n_rungs,
         "models": models,
     }
+
+    if args.models:
+        existing = json.loads(OUT_PATH.read_text())
+        if existing.get("substrate") != substrate or existing["ladder_max"] != ladder_max or existing["n_rungs"] != n_rungs:
+            raise ValueError("Partial refresh requires the same substrate and rung scale")
+        for record in models.values():
+            record["generated"] = ladder.get("generated")
+        existing["models"].update(models)
+        existing["last_partial_refresh"] = ladder.get("generated")
+        output = existing
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(output, indent=2, sort_keys=True) + "\n")

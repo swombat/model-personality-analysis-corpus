@@ -1,6 +1,7 @@
 {
   "generated": "2026-09-05T12:51:30Z",
   "ladder_max": 190,
+  "last_partial_refresh": "2026-09-13T17:12:33Z",
   "models": {
     "chatglm2-6b": {
       "ladder": null,
@@ -54,6 +55,18 @@
       "measured_rungs": 13,
       "n_rungs": 19,
       "point_variant": "reasoning-default",
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "deepseek-v4-1-flash": {
+      "generated": "2026-09-13T17:12:33Z",
+      "ladder": 136.0,
+      "ladder_max": 190,
+      "match_confidence": "exact",
+      "matched_model": "DeepSeek V4.1 Flash",
+      "measured_rungs": 6,
+      "n_rungs": 19,
+      "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
     },
@@ -1046,6 +1059,18 @@
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
+    },
+    "mercury-2-5": {
+      "generated": "2026-09-13T17:12:33Z",
+      "ladder": null,
+      "ladder_max": 190,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 19,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
     },
     "minimax-m2": {
       "ladder": 109.0,
