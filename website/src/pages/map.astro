@@ -134,12 +134,18 @@ const pct = (x) => Math.round(x * 100);
       if (three) { t.type = 'scatter3d'; t.z = idx.map(i => coords(i)[2]); } else t.type = 'scattergl';
       traces.push(t);
     }
-    const ax = { showgrid: true, gridcolor: line, zeroline: false, showticklabels: false, title: '', backgroundcolor: paper, showspikes: false };
+    // Fixed axis ranges over ALL models for this projection, so hiding labs or scrubbing time never rescales the scene.
+    const key = state.method + state.dims;
+    const ext = [0, 1, 2].slice(0, state.dims).map(a => { let lo = Infinity, hi = -Infinity; for (const m of M) { const v = m.coords[key][a]; if (v < lo) lo = v; if (v > hi) hi = v; } const pad = (hi - lo) * 0.06; return [lo - pad, hi + pad]; });
+    const ax = { showgrid: true, gridcolor: line, zeroline: false, showticklabels: false, title: '', backgroundcolor: paper, showspikes: false, autorange: false };
     const layout = { paper_bgcolor: paper, plot_bgcolor: paper, font: { family: 'Inter, ui-sans-serif, system-ui, sans-serif', color: muted, size: 12 }, margin: { l: 8, r: 8, t: 8, b: 8 },
       legend: { orientation: 'h', y: -0.02, x: 0, font: { size: 11, color: muted }, bgcolor: 'rgba(0,0,0,0)', itemsizing: 'constant' },
       hoverlabel: { bgcolor: paper, bordercolor: line, font: { color: ink, size: 12, family: 'Inter, ui-sans-serif, system-ui, sans-serif' } },
-      scene: { xaxis: ax, yaxis: ax, zaxis: ax, bgcolor: paper, camera: { eye: { x: 0.95, y: 0.85, z: 0.6 } }, aspectmode: 'data', dragmode: 'orbit' },
-      xaxis: ax, yaxis: Object.assign({}, ax, { scaleanchor: 'x' }), dragmode: three ? 'orbit' : 'pan' };
+      // uirevision keeps the user's camera / pan / zoom across every update; it changes only when the projection changes (a real reset).
+      uirevision: key,
+      scene: { uirevision: key, xaxis: Object.assign({}, ax, { range: ext[0] }), yaxis: Object.assign({}, ax, { range: ext[1] }), zaxis: Object.assign({}, ax, { range: three ? ext[2] : undefined }),
+        bgcolor: paper, camera: { eye: { x: 0.95, y: 0.85, z: 0.6 } }, aspectmode: 'cube', dragmode: 'orbit' },
+      xaxis: Object.assign({}, ax, { range: ext[0], uirevision: key }), yaxis: Object.assign({}, ax, { range: ext[1], uirevision: key }), dragmode: three ? 'orbit' : 'pan' };
     Plotly.react('plot', traces, layout, { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['select2d', 'lasso2d', 'toImage'] });
     const plot = document.getElementById('plot');
     if (!plot.__wired) { plot.__wired = true;
