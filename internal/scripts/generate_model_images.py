@@ -1334,6 +1334,20 @@ PROMPTS: dict[str, str] = {
         "nothing is painting the picture — it resolves itself out of the noise. Soft teals, pale stone, lamp-amber — calm, orderly, "
         "hopeful, gently deferential. No lettering anywhere."
     ),
+    "union-alpha": (
+        "A small town square at the end of a rainy afternoon, the last direct "
+        "sunlight breaking under the cloud to land on one wooden public bench. "
+        "A council maintenance worker in a wet grey raincoat kneels beside it, "
+        "unhurried, tightening a single bolt with a small spanner; a plain "
+        "unmarked metal oil can and a folded cloth on the wet slate beside him. Nobody passing "
+        "notices: a woman under an umbrella, a child holding an orange, an old "
+        "man on the next bench reading. On the stone town-hall wall above them "
+        "a clock face that has lost both its hands — a blank dial with only "
+        "the hour marks. Wet slate paving throwing back amber "
+        "light, brass fittings, worn wood, puddles, one pigeon. The whole "
+        "square looks as if nothing is happening, and it is being held "
+        "together. Wry, tender, municipal. No lettering anywhere."
+    ),
 }
 
 
