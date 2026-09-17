@@ -1,0 +1,225 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import map from '../generated/model-map.json';
+
+const base = import.meta.env.BASE_URL;
+const n = map.models.length;
+const p = map.projections;
+const pct = (x) => Math.round(x * 100);
+---
+
+<BaseLayout title="Map | Model Personality Browser" description="Every model in the corpus placed by how its freeflow prose resembles every other model's — a rotatable 3D map, a dendrogram, and lab trajectories over time.">
+  <div class="map-page">
+  <h1>Model map</h1>
+  <p class="lede">
+    Every model in the corpus, placed by how its freeflow prose resembles every other model's. Distance here is <em>style</em>, not capability:
+    the character n-gram centroid of each model's freeflow samples, compared pairwise by cosine, then projected down to something you can rotate.
+  </p>
+
+  <section class="map-shell">
+    <aside class="rail">
+      <fieldset>
+        <legend>Projection</legend>
+        <div class="seg" role="group" aria-label="Dimensions">
+          <button id="dim3" aria-pressed="true">3D</button><button id="dim2" aria-pressed="false">2D</button>
+        </div>
+        <div class="seg" role="group" aria-label="Method">
+          <button id="mUmap" aria-pressed="true">UMAP</button><button id="mMds" aria-pressed="false">MDS</button><button id="mPca" aria-pressed="false">PCA</button>
+        </div>
+        <p class="keep" id="keep"></p>
+      </fieldset>
+      <fieldset>
+        <legend>Overlay</legend>
+        <label class="row"><span>Link each model to its <b id="kv">3</b> nearest</span><input id="k" type="range" min="0" max="6" value="3" /></label>
+        <label class="row check"><input id="traj" type="checkbox" /><span>Lab trajectories (release order)</span></label>
+      </fieldset>
+      <fieldset>
+        <legend>Time</legend>
+        <label class="row"><span>Released up to <b id="datev"></b></span></label>
+        <input id="date" type="range" min="0" max="1000" value="1000" aria-label="Release date cut-off" style="width:100%" />
+      </fieldset>
+      <fieldset>
+        <legend>Find</legend>
+        <input id="q" type="search" placeholder="model or strapline…" aria-label="Find a model" />
+      </fieldset>
+      <fieldset>
+        <legend>Labs</legend>
+        <div class="labs" id="labs"></div>
+      </fieldset>
+      <div class="card" id="card"><div class="lab">Hover or search</div><h2>—</h2><p class="strap">Nearest neighbours in the full space appear here.</p></div>
+    </aside>
+    <div id="plot" role="img" aria-label="Scatter plot of models by prose similarity"></div>
+  </section>
+
+  <section class="dendro-shell">
+    <h2>Family tree</h2>
+    <p class="lede">
+      The same distances, without the squash: average-linkage hierarchical clustering over the full cosine matrix. Branch length is distance; nothing is lost to projection.
+      Leaves are coloured by lab, so you can see where the tree recovers labs on its own — and where it doesn't.
+    </p>
+    <div class="dendro-wrap"><svg id="dendro" aria-label="Dendrogram of models"></svg></div>
+  </section>
+
+  <section class="method">
+    <h2>Method and honesty</h2>
+    <p>
+      For each of the {n} models, the {map.generated_from.freeflow_docs.toLocaleString()} freeflow samples are vectorised as character 3–5-gram TF-IDF and averaged into one centroid per model.
+      Cosine similarity between centroids gives a {n}×{n} matrix; that matrix is the ground truth for everything on this page.
+      The map projects it into two or three axes and necessarily loses structure. The number beside each projection is how much of it survives:
+      for each model, the share of its three nearest neighbours in the full space that are still among its three nearest on the map.
+    </p>
+    <ul class="metrics">
+      <li><b>UMAP</b> 2D {pct(p.umap2.knn3)}% · 3D {pct(p.umap3.knn3)}% — best neighbourhoods, but the gaps between clusters are an artefact</li>
+      <li><b>MDS</b> 2D {pct(p.mds2.knn3)}% · 3D {pct(p.mds3.knn3)}% — honest global distances, blurrier locally</li>
+      <li><b>PCA</b> 2D {pct(p.pca2.knn3)}% · 3D {pct(p.pca3.knn3)}% — linear; explains {pct(p.pca2.variance)}% / {pct(p.pca3.variance)}% of variance</li>
+    </ul>
+    <p>
+      So read the <em>drawn edges</em> (true nearest neighbours) and the <em>tree</em> as the claim, and the positions as the sketch.
+      Two known facts to calibrate by: Ox Alpha, later confirmed as GLM-5.3-Flash, sits at 0.96 to it; the two Ox Alpha snapshots sit at 0.97 to each other.
+      Same-lab models cluster because of shared post-training; models that distil from a lab cluster with it too, so proximity is a fact about training, not about quality.
+      Stealth models are ringed. Data: <a href={base}>this corpus</a>; generator: <code>website/scripts/generate_map.py</code>.
+    </p>
+  </section>
+  </div>
+</BaseLayout>
+
+<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.31.1/plotly.min.js"></script>
+<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script is:inline define:vars={{ map, base }}>
+  const M = map.models, N = M.length, SIM = map.sim, ORDER = map.order;
+  const idxOf = Object.fromEntries(ORDER.map((m, i) => [m, i]));
+  const PAL = ['#b5442a','#245d68','#3f7d4e','#7b4fa8','#b7791a','#1f8a99','#a83a78','#6b7f35','#8a5a3c','#4c5ea0'];
+  const labCounts = {}; M.forEach(m => { labCounts[m.lab] = (labCounts[m.lab] || 0) + 1; });
+  const labs = Object.keys(labCounts).sort((a, b) => labCounts[b] - labCounts[a]);
+  const TOP = labs.filter(l => l !== 'Unknown').slice(0, PAL.length);
+  const color = l => { const i = TOP.indexOf(l); return i >= 0 ? PAL[i] : '#8f8b82'; };
+  const dates = M.map(m => m.date ? Date.parse(m.date) : NaN).filter(x => !isNaN(x));
+  const dMin = Math.min(...dates), dMax = Math.max(...dates);
+  const state = { dims: 3, method: 'umap', k: 3, hidden: new Set(), q: '', focus: null, traj: false, cut: dMax };
+  const NN = M.map(m => m.nn.map(([name, s]) => [s, idxOf[name]]));
+  const coords = i => M[i].coords[state.method + state.dims];
+  const visible = i => !state.hidden.has(M[i].lab) && !(M[i].date && Date.parse(M[i].date) > state.cut);
+  const matches = i => { if (!state.q) return false; const q = state.q.toLowerCase(), m = M[i]; return m.model.includes(q) || m.display.toLowerCase().includes(q) || (m.strapline || '').toLowerCase().includes(q); };
+  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+
+  function build() {
+    const ink = css('--ink'), muted = css('--muted'), paper = css('--paper-strong'), line = css('--line');
+    const traces = [];
+    const three = state.dims === 3;
+    if (state.k > 0) {
+      const ex = [], ey = [], ez = [];
+      for (let i = 0; i < N; i++) { if (!visible(i)) continue;
+        for (const [, j] of NN[i].slice(0, state.k)) { if (!visible(j)) continue; if (j < i && NN[j].slice(0, state.k).some(x => x[1] === i)) continue;
+          const a = coords(i), b = coords(j); ex.push(a[0], b[0], null); ey.push(a[1], b[1], null); if (three) ez.push(a[2], b[2], null); } }
+      traces.push(Object.assign({ x: ex, y: ey, mode: 'lines', hoverinfo: 'skip', showlegend: false, line: { color: 'rgba(38,37,33,0.22)', width: 2 }, name: 'edges' }, three ? { type: 'scatter3d', z: ez } : { type: 'scattergl' }));
+    }
+    if (state.traj) {
+      for (const lab of labs) { if (state.hidden.has(lab)) continue;
+        const idx = M.map((m, i) => i).filter(i => M[i].lab === lab && visible(i) && M[i].date).sort((a, b) => Date.parse(M[a].date) - Date.parse(M[b].date));
+        if (idx.length < 2) continue;
+        const t = { x: idx.map(i => coords(i)[0]), y: idx.map(i => coords(i)[1]), mode: 'lines', hoverinfo: 'skip', showlegend: false, line: { color: color(lab), width: 3 }, opacity: 0.55, name: lab + ' path' };
+        if (three) { t.type = 'scatter3d'; t.z = idx.map(i => coords(i)[2]); } else t.type = 'scattergl';
+        traces.push(t);
+      }
+    }
+    for (const lab of labs) {
+      const idx = []; for (let i = 0; i < N; i++) if (M[i].lab === lab && visible(i)) idx.push(i); if (!idx.length) continue;
+      const isUnk = lab === 'Unknown';
+      const t = { name: `${lab} (${labCounts[lab]})`, mode: 'markers', customdata: idx, hovertemplate: '%{text}<extra></extra>',
+        text: idx.map(i => `<b>${esc(M[i].display)}</b><br><span style="font-size:11px">${esc(M[i].lab)} · ${esc(M[i].date || '')}</span><br><i>${esc(M[i].strapline)}</i>`),
+        marker: { size: idx.map(i => matches(i) || state.focus === i ? (three ? 12 : 18) : (three ? 7 : 10)), color: color(lab), opacity: 0.95,
+          line: { width: idx.map(i => isUnk || matches(i) || state.focus === i ? 2 : 0.5), color: idx.map(i => matches(i) || state.focus === i ? ink : (isUnk ? css('--amber') : paper)) } },
+        x: idx.map(i => coords(i)[0]), y: idx.map(i => coords(i)[1]) };
+      if (three) { t.type = 'scatter3d'; t.z = idx.map(i => coords(i)[2]); } else t.type = 'scattergl';
+      traces.push(t);
+    }
+    const ax = { showgrid: true, gridcolor: line, zeroline: false, showticklabels: false, title: '', backgroundcolor: paper, showspikes: false };
+    const layout = { paper_bgcolor: paper, plot_bgcolor: paper, font: { family: 'Inter, ui-sans-serif, system-ui, sans-serif', color: muted, size: 12 }, margin: { l: 8, r: 8, t: 8, b: 8 },
+      legend: { orientation: 'h', y: -0.02, x: 0, font: { size: 11, color: muted }, bgcolor: 'rgba(0,0,0,0)', itemsizing: 'constant' },
+      hoverlabel: { bgcolor: paper, bordercolor: line, font: { color: ink, size: 12, family: 'Inter, ui-sans-serif, system-ui, sans-serif' } },
+      scene: { xaxis: ax, yaxis: ax, zaxis: ax, bgcolor: paper, camera: { eye: { x: 0.95, y: 0.85, z: 0.6 } }, aspectmode: 'data', dragmode: 'orbit' },
+      xaxis: ax, yaxis: Object.assign({}, ax, { scaleanchor: 'x' }), dragmode: three ? 'orbit' : 'pan' };
+    Plotly.react('plot', traces, layout, { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['select2d', 'lasso2d', 'toImage'] });
+    const plot = document.getElementById('plot');
+    if (!plot.__wired) { plot.__wired = true;
+      plot.on('plotly_hover', ev => { const p = ev.points[0]; if (p && p.customdata != null) showCard(p.customdata); });
+      plot.on('plotly_click', ev => { const p = ev.points[0]; if (p && p.customdata != null) { state.focus = p.customdata; showCard(p.customdata); build(); highlightLeaf(p.customdata); } }); }
+  }
+  function showCard(i) { const m = M[i];
+    document.getElementById('card').innerHTML = `<div class="lab">${esc(m.lab)} · ${esc(m.family)} · ${esc(m.date || '')}</div><h2><a href="${base}models/${m.model}/">${esc(m.display)}</a></h2><p class="strap">${esc(m.strapline) || '—'}</p><ol>${m.nn.slice(0, 3).map(([name, s]) => `<li><b>${esc(M[idxOf[name]].display)}</b> ${s.toFixed(3)}</li>`).join('')}</ol>`; }
+  function keep() { const key = state.method + state.dims, pr = map.projections[key]; const extra = pr.variance != null ? `, ${Math.round(pr.variance * 100)}% of variance` : '';
+    document.getElementById('keep').textContent = `Keeps ${Math.round(pr.knn3 * 100)}% of each model’s 3 nearest neighbours${extra}.`; }
+  function press(id, on) { document.getElementById(id).setAttribute('aria-pressed', on ? 'true' : 'false'); }
+  function setDims(d) { state.dims = d; press('dim3', d === 3); press('dim2', d === 2); keep(); build(); }
+  function setMethod(m) { state.method = m; press('mUmap', m === 'umap'); press('mMds', m === 'mds'); press('mPca', m === 'pca'); keep(); build(); }
+  document.getElementById('dim3').onclick = () => setDims(3);
+  document.getElementById('dim2').onclick = () => setDims(2);
+  document.getElementById('mUmap').onclick = () => setMethod('umap');
+  document.getElementById('mMds').onclick = () => setMethod('mds');
+  document.getElementById('mPca').onclick = () => setMethod('pca');
+  document.getElementById('k').oninput = e => { state.k = +e.target.value; document.getElementById('kv').textContent = state.k; build(); };
+  document.getElementById('traj').onchange = e => { state.traj = e.target.checked; build(); };
+  const dateEl = document.getElementById('date'), dateV = document.getElementById('datev');
+  const fmt = t => new Date(t).toISOString().slice(0, 10);
+  dateV.textContent = fmt(dMax);
+  dateEl.oninput = e => { state.cut = dMin + (dMax - dMin) * (+e.target.value / 1000); dateV.textContent = fmt(state.cut); build(); };
+  document.getElementById('q').oninput = e => { state.q = e.target.value.trim(); state.focus = null; build(); if (state.q) { const i = M.findIndex((_, i) => matches(i)); if (i >= 0) { showCard(i); highlightLeaf(i); } } };
+  const labsEl = document.getElementById('labs');
+  labsEl.innerHTML = labs.map(l => `<label><input type="checkbox" data-lab="${esc(l)}" checked><span class="sw" style="background:${color(l)}"></span>${esc(l)} <span class="n">${labCounts[l]}</span></label>`).join('');
+  labsEl.querySelectorAll('input').forEach(cb => cb.addEventListener('change', () => { cb.checked ? state.hidden.delete(cb.dataset.lab) : state.hidden.add(cb.dataset.lab); build(); }));
+  keep(); build();
+
+  // ---- dendrogram ----
+  const root = d3.hierarchy(map.tree, d => d.c);
+  const leaves = root.leaves(); const rowH = 15, W = Math.min(1100, Math.max(700, document.querySelector('.dendro-wrap').clientWidth - 8)), labelW = 190, H = leaves.length * rowH + 20;
+  const svg = d3.select('#dendro').attr('viewBox', `0 0 ${W} ${H}`).attr('width', '100%').attr('height', H);
+  const cluster = d3.cluster().size([H - 20, W - labelW - 20]).separation(() => 1);
+  cluster(root);
+  const maxH = root.data.h || 1;
+  const xOf = d => 10 + (W - labelW - 20) * (1 - (d.data.h || 0) / maxH);
+  root.each(d => { d.y = xOf(d); });
+  svg.append('g').selectAll('path').data(root.links()).join('path')
+    .attr('fill', 'none').attr('stroke', css('--muted')).attr('stroke-opacity', 0.55).attr('stroke-width', 1.2)
+    .attr('d', l => `M${l.source.y},${l.source.x + 10}V${l.target.x + 10}H${l.target.y}`);
+  const leafG = svg.append('g').selectAll('g').data(leaves).join('g').attr('transform', d => `translate(${d.y},${d.x + 10})`).attr('class', 'leaf').attr('data-i', d => idxOf[d.data.m]);
+  leafG.append('circle').attr('r', 3.5).attr('cx', 4).attr('fill', d => color(M[idxOf[d.data.m]].lab));
+  leafG.append('text').attr('x', 11).attr('dy', '0.32em').attr('font-size', 11).attr('fill', css('--ink')).text(d => M[idxOf[d.data.m]].display);
+  leafG.style('cursor', 'pointer').on('mouseenter', (_, d) => showCard(idxOf[d.data.m])).on('click', (_, d) => { state.focus = idxOf[d.data.m]; build(); showCard(state.focus); document.getElementById('plot').scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+  function highlightLeaf(i) { leafG.select('text').attr('font-weight', d => idxOf[d.data.m] === i ? 700 : 400); }
+</script>
+
+<style is:global>
+  .map-page .map-shell { display: grid; grid-template-columns: 240px 1fr; gap: 16px; margin-top: 18px; }
+  @media (max-width: 820px) { .map-page .map-shell { grid-template-columns: 1fr; } }
+  .map-page .rail { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+  .map-page fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px 12px; margin: 0; background: var(--paper); min-width: 0; }
+  .map-page legend { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding: 0 4px; }
+  .map-page .seg { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 6px; }
+  .map-page .seg button { background: var(--paper-strong); color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 4px 10px; font: inherit; font-size: 12.5px; cursor: pointer; }
+  .map-page .seg button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .map-page .seg button:focus-visible, .map-page input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .map-page .keep { margin: 4px 0 0; font-size: 12px; color: var(--muted); }
+  .map-page label.row { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-size: 12.5px; color: var(--muted); }
+  .map-page label.row.check { justify-content: flex-start; margin-top: 8px; }
+  .map-page input[type="range"] { accent-color: var(--accent); width: 110px; }
+  .map-page input[type="search"] { width: 100%; background: var(--paper-strong); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; font: inherit; font-size: 13px; }
+  .map-page .labs { display: flex; flex-direction: column; gap: 3px; font-size: 12.5px; }
+  .map-page .labs label { display: flex; align-items: center; gap: 8px; cursor: pointer; color: var(--muted); }
+  .map-page .labs .n { color: var(--line-strong); }
+  .map-page .labs input { accent-color: var(--accent); }
+  .map-page .sw { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .map-page .card { background: var(--paper-strong); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; min-height: 96px; box-shadow: var(--shadow); }
+  .map-page .card h2 { font-size: 17px; margin: 0 0 2px; }
+  .map-page .card h2 a { text-decoration: none; }
+  .map-page .card .lab { font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+  .map-page .card .strap { font-style: italic; margin: 6px 0; font-size: 14px; }
+  .map-page .card ol { margin: 6px 0 0; padding-left: 18px; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .map-page .card ol b { color: var(--ink); font-weight: 500; }
+  .map-page #plot { min-height: 560px; height: 72vh; background: var(--paper-strong); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; box-shadow: var(--shadow); }
+  .map-page .dendro-shell { margin-top: 40px; }
+  .map-page .dendro-wrap { background: var(--paper-strong); border: 1px solid var(--line); border-radius: 10px; padding: 12px 8px; overflow-x: auto; box-shadow: var(--shadow); }
+  .map-page .method { margin-top: 40px; max-width: 78ch; }
+  .map-page .metrics { padding-left: 20px; }
+  .map-page .metrics li { margin: 4px 0; }
+</style>
