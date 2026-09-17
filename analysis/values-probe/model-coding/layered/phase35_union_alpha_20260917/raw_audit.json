@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "probe": "freeflow",
+      "samples": 125,
+      "conditions": {
+        "LONG": 25,
+        "MID": 25,
+        "OPEN": 25,
+        "SHORT": 25,
+        "VARY": 25
+      },
+      "finish_reasons": {
+        "stop": 125
+      },
+      "mean_words": 982.304,
+      "cost": 0
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 70.10833333333333,
+      "cost": 0
+    }
+  ],
+  "problems": []
+}

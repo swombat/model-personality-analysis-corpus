@@ -5,11 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-08-11:** v1.3.5 derived analysis corpus covering 132
-> freeflow personality-card models. This patch adds complete freeflow analyses
-> for the historical full-precision Yi-6B-Chat and ChatGLM2-6B local captures.
-> See [`RELEASE_NOTES_v1.3.5.md`](RELEASE_NOTES_v1.3.5.md);
-> for the v1.2.8–v1.2.15 values-probe coding correction, see
+> **Status — 2026-09-17:** Union Alpha mapping is complete and prepared for
+> v1.4.10; website editorial publication is pending. See
+> [`RELEASE_NOTES_v1.4.10.md`](RELEASE_NOTES_v1.4.10.md).
+> For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
 > This is a derived analysis corpus for

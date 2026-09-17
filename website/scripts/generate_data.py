@@ -140,6 +140,7 @@ MODEL_SLUGS = {
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
     "deepseek-v4-1-flash": "deepseek/deepseek-v4.1-flash",
     "mercury-2-5": "inception/mercury-2.5",
+    "union-alpha": "stealth/union-alpha",
     "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
     "chatglm2-6b": "zai-org/chatglm2-6b",
     "chatglm3-6b": "zai-org/chatglm3-6b",
@@ -397,6 +398,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "DeepSeek V4.1 Flash"
     if slug == "mercury-2-5":
         return "Mercury 2.5"
+    if slug == "union-alpha":
+        return "Union Alpha"
     if slug == "glm-5-3":
         return "glm-5.3"
     if slug == "glm-5-3-flash":

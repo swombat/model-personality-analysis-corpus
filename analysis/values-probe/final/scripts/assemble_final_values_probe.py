@@ -302,6 +302,15 @@ SOURCES = [
         'posture_dir': LAYERED/'phase34_deepseek41_mercury25_20260910/posture_collapsed',
         'posture_consensus': LAYERED/'phase34_deepseek41_mercury25_20260910/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase35_union_alpha_20260917',
+        'manifest': LAYERED/'phase35_union_alpha_20260917/manifest_phase35.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase35_union_alpha_20260917/layer_a',
+        'layer_a_consensus': LAYERED/'phase35_union_alpha_20260917/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase35_union_alpha_20260917/posture_collapsed',
+        'posture_consensus': LAYERED/'phase35_union_alpha_20260917/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']

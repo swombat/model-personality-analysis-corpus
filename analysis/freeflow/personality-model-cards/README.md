@@ -159,3 +159,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [yi-6b-chat](cards/yi-6b-chat.md) — samples: 125; variants: 1
 - [deepseek-v4-1-flash](cards/deepseek-v4-1-flash.md) — samples: 125
 - [mercury-2-5](cards/mercury-2-5.md) — samples: 125
+- [union-alpha](cards/union-alpha.md) — samples: 125

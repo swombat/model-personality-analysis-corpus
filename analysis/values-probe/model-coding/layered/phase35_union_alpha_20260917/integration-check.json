@@ -1,0 +1,38 @@
+{
+  "posture_consensus.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "layer_a_consensus.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "posture_coder_kimi-k2-6.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "posture_coder_qwen3-6-35b-a3b.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "layer_a_coder_qwen3-6-35b-a3b.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "layer_a_coder_glm-4-7.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "posture_coder_glm-4-7.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "manifest_valid.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  },
+  "layer_a_coder_kimi-k2-6.jsonl": {
+    "lost_or_changed": 0,
+    "added": 120
+  }
+}

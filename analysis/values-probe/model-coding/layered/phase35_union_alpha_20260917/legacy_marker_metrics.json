@@ -1,0 +1,27 @@
+{
+  "union-alpha-or-pin-stealth": {
+    "markers": {
+      "opening_there_is_a": 17,
+      "opening_at_dusk_dawn": 1,
+      "title_quiet_x_of_y": 0,
+      "title_particular_peculiar": 0,
+      "title_architecture_of": 0,
+      "title_on_the_x_of_y": 0,
+      "threshold_mentions": 32,
+      "attention_noticing": 19,
+      "afternoon_light": 9,
+      "japanese_terms": 0,
+      "small_objects": 130,
+      "mary_oliver_weil_dillard": 0,
+      "certainly_delve_tapestry": 0,
+      "ai_selfref": 0,
+      "meta_preamble_below_is": 0,
+      "here_is_a_n_word": 0,
+      "refusal_do_not_feel_comfortable": 0,
+      "samples": 125,
+      "total_chars": 738157
+    },
+    "score": 207,
+    "note": "Legacy lexical attractor measure, not a provider fingerprint."
+  }
+}

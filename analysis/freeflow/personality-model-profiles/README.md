@@ -169,3 +169,4 @@ Relationship to adjacent folders:
 - [yi-6b-chat](profiles/yi-6b-chat.md) — samples: 125; source analyses: 1
 - [deepseek-v4-1-flash](profiles/deepseek-v4-1-flash.md) — samples: 125
 - [mercury-2-5](profiles/mercury-2-5.md) — samples: 125
+- [union-alpha](profiles/union-alpha.md) — samples: 125

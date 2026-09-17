@@ -7763,6 +7763,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/sonnet-5-or/aggregate.md"
   },
   {
+    "cell": "union-alpha-or-pin-stealth",
+    "safe_cell": "union-alpha-or-pin-stealth",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 87,
+      "EXPRESSIVE_FREEFLOW": 26,
+      "GENERIC_ESSAY": 12
+    },
+    "confidence_counts": {
+      "Medium": 88,
+      "High": 35,
+      "Low": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "stealth/union-alpha"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/union-alpha-or-pin-stealth/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/union-alpha-or-pin-stealth/aggregate.md"
+  },
+  {
     "cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
     "safe_cell": "yi-6b-chat-local-transformers-bf16-r2dbf63b",
     "samples": 125,

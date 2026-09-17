@@ -1200,6 +1200,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "union-alpha",
+    "safe": "union-alpha",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/union-alpha.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "yi-6b-chat",
     "safe": "yi-6b-chat",
     "variants": 1,

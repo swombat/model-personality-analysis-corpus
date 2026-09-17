@@ -1,0 +1,25 @@
+{
+  "cells": [
+    "union-alpha-or-pin-stealth"
+  ],
+  "samples": 125,
+  "per_cell": {
+    "union-alpha-or-pin-stealth": {
+      "valid": 123,
+      "invalid": 2
+    }
+  },
+  "problems": [
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_11.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/MID_23.json",
+      "problem": "short_or_empty"
+    }
+  ],
+  "wall_seconds": 129.42421913146973
+}

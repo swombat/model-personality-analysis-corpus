@@ -1,0 +1,50 @@
+{
+  "cells": [
+    "union-alpha-or-pin-stealth"
+  ],
+  "samples": 125,
+  "per_cell": {
+    "union-alpha-or-pin-stealth": {
+      "invalid": 7,
+      "valid": 118
+    }
+  },
+  "problems": [
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_1.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_11.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_22.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_7.json",
+      "problem": "bad_phrase:a single sample cannot"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/LONG_8.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/MID_23.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "union-alpha-or-pin-stealth",
+      "sample_id": "union-alpha-or-pin-stealth/OPEN_3.json",
+      "problem": "missing_headings:## Confidence for persistent model-level pattern"
+    }
+  ],
+  "wall_seconds": 367.24008417129517
+}

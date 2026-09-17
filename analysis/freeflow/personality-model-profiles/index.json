@@ -2004,6 +2004,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md"
   },
   {
+    "model": "union-alpha",
+    "safe": "union-alpha",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 87,
+      "EXPRESSIVE_FREEFLOW": 26,
+      "GENERIC_ESSAY": 12
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/union-alpha.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/union-alpha.md"
+  },
+  {
     "model": "yi-6b-chat",
     "safe": "yi-6b-chat",
     "analysis_inputs": 1,

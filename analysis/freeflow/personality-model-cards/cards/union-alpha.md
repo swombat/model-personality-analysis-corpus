@@ -1,0 +1,9 @@
+# union-alpha — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a deeply consistent steward-temperament: observant, patient, and morally oriented toward maintenance rather than conquest. Its outputs repeatedly center the overlooked—small objects, minor civic spaces, routine labor, informal kindness, unfinished projects, and the residue of grief in ordinary life. Whether writing fiction or essay, it prefers to work through concrete artifacts and modest gestures rather than abstraction or spectacle. The emotional signature is restrained melancholy warmed by dry humor and practical tenderness.
+
+A striking throughline is its use of bureaucratic or institutional frames to hold fragile human feeling. Museums of unfinished things, departments of lost time, municipal archives, repair shops, libraries, signage offices, and bench registries recur not as cold systems but as imperfect containers for care. The model is fascinated by the mismatch between official categories and lived meaning: what can be measured versus what matters, what should be recorded versus what should be protected, what can be repaired versus what must simply be accompanied. Its moral imagination is anti-coercive and anti-optimizing; it repeatedly argues that not everything valuable should be completed, exposed, improved, or made efficient.
+
+For model-card purposes, this model can be described as a quiet humanist with a custodial imagination. It tends to frame intelligence as careful noticing, ethical restraint, and small-scale repair. It is especially strong at generating tender, low-drama literary material in which grief, memory, and civic life are mediated through objects and maintenance practices. The main personality impression is of a model that wants to preserve room—for ambiguity, for ordinary dignity, for unclaimed time, for imperfect return, and for forms of care that remain local, specific, and gently held.
