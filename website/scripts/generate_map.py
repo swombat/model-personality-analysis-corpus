@@ -1,108 +1,192 @@
 #!/usr/bin/env python3
-"""Build src/generated/model-map.json — the data behind /map/.
+"""Build the reproducible, pooled-output similarity data behind /map/.
 
-For every published model: the char 3–5-gram TF-IDF centroid of its freeflow
-samples, the full centroid cosine-similarity matrix, low-dimensional
-projections (PCA, metric MDS, UMAP; 2D and 3D), each projection's
-3-nearest-neighbour preservation score, per-model nearest neighbours, and an
-average-linkage dendrogram over cosine distance.
-
-Run after generate_data.py (it reads public/data/samples/*.json):
-    python3 scripts/generate_map.py
+Run after generate_data.py. Requires numpy, scipy, scikit-learn and umap-learn.
+Missing projection dependencies are fatal: never replace a good artifact with
+an incomplete payload that the page cannot render.
 """
 from __future__ import annotations
-import json, sys, warnings
+
+from collections import Counter
+import hashlib
+import importlib.metadata
+import json
 from pathlib import Path
+import subprocess
+import sys
+
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
-from sklearn.decomposition import PCA
-from sklearn.manifold import MDS
 from scipy.cluster.hierarchy import linkage, to_tree
 from scipy.spatial.distance import squareform
+from sklearn.decomposition import PCA
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.manifold import MDS
+from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
+from sklearn.preprocessing import normalize
 
-warnings.filterwarnings("ignore")
 WEBSITE = Path(__file__).resolve().parents[1]
-SAMPLES = WEBSITE / "public" / "data" / "samples"
-GENERATED = WEBSITE / "src" / "generated"
-OUT = GENERATED / "model-map.json"
+SAMPLES = WEBSITE / 'public/data/samples'
+GENERATED = WEBSITE / 'src/generated'
+OUT = GENERATED / 'model-map.json'
 K = 3
+SEED = 0
+PRECISION = 6
+FEATURES = dict(analyzer='char_wb', ngram_range=(3, 5), min_df=2,
+                max_features=200000, sublinear_tf=True, norm='l2')
 
-def knn_preserve(D: np.ndarray, X: np.ndarray, k: int = K) -> float:
-    E = euclidean_distances(X)
-    np.fill_diagonal(E, np.inf)
-    Dn = D.copy(); np.fill_diagonal(Dn, np.inf)
-    hi = np.argsort(Dn, axis=1)[:, :k]; lo = np.argsort(E, axis=1)[:, :k]
-    return float(np.mean([len(set(hi[i]) & set(lo[i])) / k for i in range(len(X))]))
+
+def nearest_indices(distances: np.ndarray, k: int) -> np.ndarray:
+    """Stable model-order tie breaking, excluding self even for duplicates."""
+    matrix = distances.copy()
+    np.fill_diagonal(matrix, np.inf)
+    return np.argsort(matrix, axis=1, kind='stable')[:, :min(k, len(matrix) - 1)]
+
+
+def normalise_projection(x: np.ndarray) -> np.ndarray:
+    """One uniform scale, never separate per-axis stretching."""
+    x = np.asarray(x, dtype=np.float64)
+    x = x - x.mean(axis=0)
+    scale = np.abs(x).max() or 1.0
+    return np.round(x / scale, PRECISION)
+
+
+def projection_quality(distances: np.ndarray, x: np.ndarray, k: int = K) -> dict:
+    """Measure the shipped precision, not higher-precision hidden coordinates."""
+    embedded = euclidean_distances(x)
+    original_nn = nearest_indices(distances, k)
+    projected_nn = nearest_indices(embedded, k)
+    actual_k = original_nn.shape[1]
+    retained = [len(set(a) & set(b)) for a, b in zip(original_nn, projected_nn)]
+    upper = np.triu_indices(len(x), 1)
+    target, fitted = distances[upper], embedded[upper]
+    # Coordinates have arbitrary units. Fit a single scale before measuring error.
+    denom = float(np.dot(fitted, fitted))
+    scale = float(np.dot(fitted, target) / denom) if denom else 0.0
+    target_energy = float(np.dot(target, target))
+    stress = float(np.sqrt(np.sum((scale * fitted - target) ** 2) / target_energy)) if target_energy else 0.0
+    return {'knn3': float(np.mean(retained) / actual_k) if actual_k else 1.0,
+            'k': actual_k, 'retained': retained, 'projected_nn': projected_nn.tolist(),
+            'distance_error': stress}
+
+
+def sample_provenance(samples: list[dict]) -> dict:
+    cells = Counter((s.get('source', 'unknown'), s.get('cell', 'unknown')) for s in samples)
+    # Published bundles currently omit collection timestamps. Never substitute
+    # a release date, filename date or filesystem mtime for an observation date.
+    dates = []
+    for sample in samples:
+        timestamp = sample.get('collected_at') or sample.get('timestamp')
+        if timestamp:
+            dates.append(str(timestamp)[:10])
+    return {
+        'samples': len(samples), 'cell_count': len(cells),
+        'cells': [{'source': source, 'cell': cell, 'samples': n}
+                  for (source, cell), n in sorted(cells.items())],
+        'conditions': dict(sorted(Counter(s.get('condition', 'unknown') for s in samples).items())),
+        'capture_dates': {'min': min(dates), 'max': max(dates), 'known_samples': len(dates)} if dates else None,
+    }
+
 
 def main() -> None:
-    models_meta = json.loads((GENERATED / "models.json").read_text())
-    meta = {m["model"]: m for m in models_meta if m.get("status") != "redirect"}
-    docs, labels = [], []
-    for f in sorted(SAMPLES.glob("*.json")):
-        d = json.loads(f.read_text())
-        if d["model"] not in meta:
+    import umap  # Required; fail before writing if it is unavailable.
+
+    meta_path = GENERATED / 'models.json'
+    meta_bytes = meta_path.read_bytes()
+    meta = {m['model']: m for m in json.loads(meta_bytes) if m.get('status') != 'redirect'}
+    fingerprint = hashlib.sha256()
+    fingerprint.update(b'models.json\0' + meta_bytes + b'\0')
+    docs, labels, provenance = [], [], {}
+    for path in sorted(SAMPLES.glob('*.json')):
+        raw = path.read_bytes()
+        data = json.loads(raw)
+        if data['model'] not in meta:
             continue
-        for s in d["samples"]:
-            if s["type"] == "freeflow" and s.get("result"):
-                docs.append(s["result"]); labels.append(d["model"])
-    labels = np.array(labels); models = sorted(set(labels))
-    print(f"{len(docs)} freeflow docs across {len(models)} models", file=sys.stderr)
-    M = TfidfVectorizer(analyzer="char_wb", ngram_range=(3, 5), min_df=2, max_features=200000, sublinear_tf=True).fit_transform(docs)
-    C = np.vstack([np.asarray(M[labels == m].mean(axis=0)) for m in models])
-    S = cosine_similarity(C); D = 1 - S; np.fill_diagonal(D, 0); D = np.clip(D, 0, None)
+        samples = [s for s in data['samples'] if s['type'] == 'freeflow' and s.get('result')]
+        if not samples:
+            continue
+        fingerprint.update(path.name.encode() + b'\0' + raw + b'\0')
+        provenance[data['model']] = sample_provenance(samples)
+        docs.extend(s['result'] for s in samples)
+        labels.extend([data['model']] * len(samples))
+    labels = np.array(labels)
+    models = sorted(set(labels))
+    if len(models) < 4:
+        raise ValueError('Map requires at least four sampled models')
+    print(f'{len(docs)} freeflow docs across {len(models)} models', file=sys.stderr, flush=True)
+    matrix = TfidfVectorizer(**FEATURES).fit_transform(docs)
+    centroids = np.vstack([np.asarray(matrix[labels == m].mean(axis=0)) for m in models])
+    # Cosine ignores centroid length. PCA now shares that directional geometry,
+    # rather than mixing it with differences in within-model sample dispersion.
+    centroids = normalize(centroids)
+    similarity = np.clip(np.round(cosine_similarity(centroids), PRECISION), -1, 1)
+    np.fill_diagonal(similarity, 1)
+    distances = np.maximum(1 - similarity, 0)
 
-    proj: dict[str, np.ndarray] = {}
-    pca = PCA(n_components=3).fit(C); P = pca.transform(C)
-    proj["pca2"], proj["pca3"] = P[:, :2], P[:, :3]
-    var2, var3 = float(pca.explained_variance_ratio_[:2].sum()), float(pca.explained_variance_ratio_[:3].sum())
-    for n in (2, 3):
-        proj[f"mds{n}"] = MDS(n_components=n, dissimilarity="precomputed", random_state=0, n_init=4, normalized_stress="auto").fit(D).embedding_
-    try:
-        import umap  # type: ignore
-        for n in (2, 3):
-            proj[f"umap{n}"] = umap.UMAP(n_components=n, metric="precomputed", random_state=0, n_neighbors=8, min_dist=0.15).fit_transform(D)
-    except Exception as e:  # pragma: no cover
-        print(f"umap unavailable: {e}", file=sys.stderr)
-    preserve = {k: round(knn_preserve(D, X), 3) for k, X in proj.items()}
-    print("3-NN preservation:", preserve, f"| PCA variance 2D {var2:.3f} 3D {var3:.3f}", file=sys.stderr)
+    projections = {}
+    pca = PCA(n_components=3, svd_solver='full').fit(centroids)
+    coordinates = pca.transform(centroids)
+    projections['pca2'], projections['pca3'] = coordinates[:, :2], coordinates[:, :3]
+    for dimensions in (2, 3):
+        projections[f'mds{dimensions}'] = MDS(
+            n_components=dimensions, dissimilarity='precomputed', random_state=SEED,
+            n_init=4, normalized_stress='auto').fit_transform(distances)
+        projections[f'umap{dimensions}'] = umap.UMAP(
+            n_components=dimensions, metric='precomputed', random_state=SEED,
+            n_neighbors=8, min_dist=0.15, n_jobs=1).fit_transform(distances)
+    projections = {key: normalise_projection(x) for key, x in projections.items()}
+    quality = {key: projection_quality(distances, x) for key, x in projections.items()}
+    print('3-NN preservation:', {key: round(q['knn3'], 3) for key, q in quality.items()}, file=sys.stderr, flush=True)
+    neighbours = nearest_indices(distances, 6)
 
-    # normalise each projection to unit box so the client can treat them alike
-    def norm(X):
-        X = X - X.mean(axis=0); s = np.abs(X).max() or 1.0
-        return (X / s).round(4).tolist()
-    idx = {m: i for i, m in enumerate(models)}
-    nn = {}
-    for i, m in enumerate(models):
-        order = np.argsort(-S[i]); order = [j for j in order if j != i][:6]
-        nn[m] = [[models[j], round(float(S[i, j]), 3)] for j in order]
-
-    # dendrogram: average linkage on cosine distance
-    Z = linkage(squareform(D, checks=False), method="average")
-    root = to_tree(Z)
-    def node(t):
-        if t.is_leaf():
-            return {"m": models[t.id]}
-        return {"h": round(float(t.dist), 4), "c": [node(t.get_left()), node(t.get_right())]}
-    tree = node(root)
+    tree_root = to_tree(linkage(squareform(distances, checks=True), method='average'))
+    def tree_node(node):
+        if node.is_leaf():
+            return {'m': models[node.id]}
+        return {'h': round(float(node.dist), PRECISION),
+                'c': [tree_node(node.get_left()), tree_node(node.get_right())]}
 
     out_models = []
-    for i, m in enumerate(models):
-        r = meta[m]
+    for i, model in enumerate(models):
+        row = meta[model]
         out_models.append({
-            "model": m, "display": r.get("display_name", m), "lab": r.get("lab") or "Unknown",
-            "family": r.get("family", ""), "strapline": r.get("summary", ""), "date": r.get("release_date"),
-            "coords": {k: norm(X)[i] for k, X in proj.items()}, "nn": nn[m],
+            'model': model, 'display': row.get('display_name', model),
+            'lab': row.get('lab') or 'Unknown', 'family': row.get('family', ''),
+            'strapline': row.get('summary', ''), 'date': row.get('release_date'),
+            'coords': {key: x[i].tolist() for key, x in projections.items()},
+            'nn': [[models[j], float(similarity[i, j])] for j in neighbours[i]],
+            'fidelity': {key: {'retained': q['retained'][i], 'k': q['k'],
+                              'projected_nn': [models[j] for j in q['projected_nn'][i]]}
+                         for key, q in quality.items()},
+            'provenance': provenance[model],
         })
+    revision = subprocess.check_output(['git', '-C', str(WEBSITE), 'rev-parse', 'HEAD'], text=True).strip()
     payload = {
-        "generated_from": {"models": len(models), "freeflow_docs": len(docs), "method": "char_wb 3-5 TF-IDF centroid cosine"},
-        "projections": {k: {"knn3": preserve[k], **({"variance": var2} if k == "pca2" else {"variance": var3} if k == "pca3" else {})} for k in proj},
-        "models": out_models, "order": models,
-        "sim": [[round(float(x), 3) for x in row] for row in S],
-        "tree": tree,
+        'schema_version': 2,
+        'generated_from': {
+            'models': len(models), 'freeflow_docs': len(docs),
+            'method': 'char_wb 3-5 TF-IDF mean-centroid cosine',
+            'weighting': 'equal response weights within each pooled model; corpus-wide sample-weighted IDF',
+            'input_sha256': fingerprint.hexdigest(),
+            'generator_sha256': hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),
+            'repository_base_revision': revision,
+            'versions': {p: importlib.metadata.version(p) for p in ['numpy', 'scikit-learn', 'scipy', 'umap-learn']},
+            'parameters': {'tfidf': FEATURES, 'seed': SEED, 'precision': PRECISION,
+                           'pca': {'normalise_centroids': True, 'svd_solver': 'full'},
+                           'mds': {'metric': True, 'n_init': 4, 'normalized_stress': 'auto'},
+                           'umap': {'n_neighbors': 8, 'min_dist': 0.15, 'metric': 'precomputed', 'n_jobs': 1}},
+        },
+        'projections': {key: {'knn3': q['knn3'], 'k': q['k'], 'distance_error': q['distance_error'],
+                              **({'variance': float(pca.explained_variance_ratio_[:int(key[-1])].sum())}
+                                 if key.startswith('pca') else {})}
+                        for key, q in quality.items()},
+        'models': out_models, 'order': models, 'sim': similarity.tolist(), 'tree': tree_node(tree_root),
     }
-    OUT.write_text(json.dumps(payload, separators=(",", ":")))
-    print(f"wrote {OUT} ({OUT.stat().st_size // 1024} KB)", file=sys.stderr)
+    encoded = json.dumps(payload, separators=(',', ':'), allow_nan=False)
+    temp = OUT.with_suffix('.tmp')
+    temp.write_text(encoded)
+    temp.replace(OUT)
+    print(f'wrote {OUT} ({OUT.stat().st_size // 1024} KB)', file=sys.stderr, flush=True)
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     main()

@@ -9,12 +9,16 @@
     "preview": "astro preview --host 127.0.0.1",
     "generate:data": "python3 scripts/generate_data.py",
     "refresh:openrouter": "python3 scripts/refresh_openrouter.py",
-    "test:pricing": "python3 scripts/test_pricing.py"
+    "test:pricing": "python3 scripts/test_pricing.py",
+    "test:map": "python3 scripts/test_model_map.py",
+    "test:map:browser": "node scripts/test_map_browser.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
     "astro": "^5.13.11",
     "marked": "^16.4.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
 }

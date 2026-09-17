@@ -12,7 +12,7 @@ const pct = (x) => Math.round(x * 100);
   <div class="map-page">
   <h1>Model map</h1>
   <p class="lede">
-    Every model in the corpus, placed by how its freeflow prose resembles every other model's. Distance here is <em>style</em>, not capability:
+    Every model in the corpus, placed by how its freeflow prose resembles every other model's. Distance here reflects <em>wording, topics and style</em>, not capability or ancestry:
     the character n-gram centroid of each model's freeflow samples, compared pairwise by cosine, then projected down to something you can rotate.
   </p>
 
@@ -29,56 +29,92 @@ const pct = (x) => Math.round(x * 100);
         <p class="keep" id="keep"></p>
       </fieldset>
       <fieldset>
-        <legend>Overlay</legend>
-        <label class="row"><span>Link each model to its <b id="kv">3</b> nearest</span><input id="k" type="range" min="0" max="6" value="3" /></label>
-        <label class="row check"><input id="traj" type="checkbox" /><span>Lab trajectories (release order)</span></label>
-      </fieldset>
-      <fieldset>
-        <legend>Time</legend>
-        <label class="row"><span>Released up to <b id="datev"></b></span></label>
-        <input id="date" type="range" min="0" max="1000" value="1000" aria-label="Release date cut-off" style="width:100%" />
-      </fieldset>
-      <fieldset>
         <legend>Find</legend>
         <input id="q" type="search" placeholder="model or strapline…" aria-label="Find a model" />
       </fieldset>
-      <fieldset>
-        <legend>Labs</legend>
-        <div class="labs" id="labs"></div>
-      </fieldset>
+      <details class="advanced" id="advanced" open>
+        <summary>Filters &amp; release sequences</summary>
+        <fieldset>
+          <legend>Overlay</legend>
+          <label class="row"><span>Link each model to its <b id="kv">3</b> nearest</span><input id="k" aria-label="Number of full-space neighbour links" type="range" min="0" max="6" value="3" /></label>
+          <label class="row check"><input id="traj" type="checkbox" /><span>Release sequences</span></label>
+          <label class="row"><span>Group by</span><select id="pathgroup" aria-label="Release sequence grouping"><option value="lab">Lab</option><option value="family">Model family</option></select></label>
+          <p class="hint">Chronology in the current embedding, not ancestry. Same-day order is arbitrary.</p>
+        </fieldset>
+        <fieldset>
+          <legend>Time</legend>
+          <label class="row"><span>Released up to <b id="datev"></b></span></label>
+          <input id="date" type="range" min="0" max="1000" value="1000" aria-label="Release date cut-off" style="width:100%" />
+          <p class="hint">Hides later releases; does not reconstruct a historical map.</p>
+        </fieldset>
+        <fieldset>
+          <legend>Labs</legend>
+          <div class="labs" id="labs"></div>
+        </fieldset>
+      </details>
       <div class="card" id="card"><div class="lab">Hover or search</div><h2>—</h2><p class="strap">Nearest neighbours in the full space appear here.</p></div>
     </aside>
     <div id="plot" role="img" aria-label="Scatter plot of models by prose similarity"></div>
   </section>
 
   <section class="dendro-shell">
-    <h2>Family tree</h2>
+    <h2>Similarity tree</h2>
     <p class="lede">
-      The same distances, without the squash: average-linkage hierarchical clustering over the full cosine matrix. Branch length is distance; nothing is lost to projection.
+      A hierarchical summary of the full-space distances. Merge heights reflect average-linkage distances between clusters; this tree does not preserve every pairwise distance or establish model ancestry.
       Leaves are coloured by lab, so you can see where the tree recovers labs on its own — and where it doesn't.
     </p>
-    <div class="dendro-wrap"><svg id="dendro" aria-label="Dendrogram of models"></svg></div>
+    <div class="dendro-wrap"><svg id="dendro" aria-label="Similarity tree; tab to a model and press Enter or Space to show its details"></svg></div>
   </section>
 
   <section class="method">
     <h2>Method and honesty</h2>
     <p>
-      For each of the {n} models, the {map.generated_from.freeflow_docs.toLocaleString()} freeflow samples are vectorised as character 3–5-gram TF-IDF and averaged into one centroid per model.
-      Cosine similarity between centroids gives a {n}×{n} matrix; that matrix is the ground truth for everything on this page.
-      The map projects it into two or three axes and necessarily loses structure. The number beside each projection is how much of it survives:
-      for each model, the share of its three nearest neighbours in the full space that are still among its three nearest on the map.
+      Across {n} model identities, {map.generated_from.freeflow_docs.toLocaleString()} freeflow responses are vectorised as
+      within-word character 3–5-gram TF-IDF and averaged into one centroid per model. Each response has equal weight within
+      its pooled model; routes and conditions with more responses therefore contribute more. The vocabulary and IDF weights
+      are fitted across all responses. Cards show sample counts and collection cells; these are not equally precise estimates.
+      A model label may pool multiple routes or captures, and a router may expose different backends to different prompts.
+    </p>
+    <p>
+      Cosine similarity between centroids gives the {n}×{n} reference matrix for this visualisation—not ground truth about
+      personality or training. The map necessarily loses structure. Its retention score is the <em>average</em> fraction of
+      original top-three neighbours retained in projected coordinates. Individual models can retain anywhere from none to all
+      three; the selected card shows its own count. Scores are calculated at the precision of the shipped data, with stable
+      model-order tie breaking. Axes use equal units; perspective can still alter apparent distances on a 3D screen.
     </p>
     <ul class="metrics">
-      <li><b>UMAP</b> 2D {pct(p.umap2.knn3)}% · 3D {pct(p.umap3.knn3)}% — best neighbourhoods, but the gaps between clusters are an artefact</li>
-      <li><b>MDS</b> 2D {pct(p.mds2.knn3)}% · 3D {pct(p.mds3.knn3)}% — honest global distances, blurrier locally</li>
-      <li><b>PCA</b> 2D {pct(p.pca2.knn3)}% · 3D {pct(p.pca3.knn3)}% — linear; explains {pct(p.pca2.variance)}% / {pct(p.pca3.variance)}% of variance</li>
+      <li><b>UMAP</b> 2D {pct(p.umap2.knn3)}% · 3D {pct(p.umap3.knn3)}% — prioritises local neighbourhoods; cluster gaps are not original distances</li>
+      <li><b>MDS</b> 2D {pct(p.mds2.knn3)}% · 3D {pct(p.mds3.knn3)}% — approximates global distances; relative distance error {p.mds2.distance_error.toFixed(3)} / {p.mds3.distance_error.toFixed(3)}</li>
+      <li><b>PCA</b> 2D {pct(p.pca2.knn3)}% · 3D {pct(p.pca3.knn3)}% — linear projection of unit-normalised centroids; explains {pct(p.pca2.variance)}% / {pct(p.pca3.variance)}% of their feature variance, not of pairwise distances</li>
     </ul>
     <p>
-      So read the <em>drawn edges</em> (true nearest neighbours) and the <em>tree</em> as the claim, and the positions as the sketch.
-      Two known facts to calibrate by: Ox Alpha, later confirmed as GLM-5.3-Flash, sits at 0.96 to it; the two Ox Alpha snapshots sit at 0.97 to each other.
-      Same-lab models cluster because of shared post-training; models that distil from a lab cluster with it too, so proximity is a fact about training, not about quality.
-      Stealth models are ringed. Data: <a href={base}>this corpus</a>; generator: <code>website/scripts/generate_map.py</code>.
+      Relative distance error is the root-sum-squared pairwise residual divided by the root-sum-squared original distances,
+      after fitting one uniform scale. Lower is better. It complements neighbour retention, rather than making MDS lossless.
+      Read the drawn neighbour edges and card similarities as measurements in the full feature space, the tree as a hierarchical
+      summary, and the map positions as an approximation. These are exploratory estimates; no bootstrap confidence intervals
+      or cross-seed stability guarantees are claimed.
     </p>
+    <p>
+      Proximity describes similar output distributions under these collection conditions. Shared training, post-training,
+      distillation, prompting, vocabulary, topic choices and routing are possible explanations—not conclusions established by
+      this plot. It does not establish developer identity, ancestry, capability or subjective experience. Lab labels only colour
+      the result; they do not determine the embedding. Models with an unknown lab are ringed.
+    </p>
+    <p>
+      Release sequences connect a lab's or family's models in release-date order, not a lineage. Same-day ordering is arbitrary.
+      Time filtering uses this single present-day embedding, including the influence of later models; it is not a reconstruction
+      of what the map would have looked like then. Release dates are not capture dates.
+    </p>
+    <details class="repro">
+      <summary>Reproducibility and collection scope</summary>
+      <p>Generator: <code>website/scripts/generate_map.py</code>. Seed {map.generated_from.parameters.seed};
+        UMAP neighbours {map.generated_from.parameters.umap.n_neighbors}, minimum distance {map.generated_from.parameters.umap.min_dist}.
+        PCA uses unit-normalised centroids. Missing UMAP dependencies stop generation rather than publish incomplete data.</p>
+      <p>Versions: {Object.entries(map.generated_from.versions).map(([name, version]) => `${name} ${version}`).join(' · ')}.</p>
+      <p>Input fingerprint: <code>{map.generated_from.input_sha256}</code><br />Generator fingerprint: <code>{map.generated_from.generator_sha256}</code><br />Repository base revision: <code>{map.generated_from.repository_base_revision}</code>.</p>
+      <p>Sample/cell counts describe the responses pooled in each centroid. Capture dates are shown only when explicitly present
+        in the published samples; missing dates are not inferred from release dates or file modification times. Data: <a href={base}>this corpus</a>.</p>
+    </details>
   </section>
   </div>
 </BaseLayout>
@@ -97,15 +133,19 @@ const pct = (x) => Math.round(x * 100);
   const tint = (h, f) => { const [r, g, b] = hexRgb(h); const m = c => Math.round(c + (255 - c) * f); return `rgb(${m(r)},${m(g)},${m(b)})`; }; // f=0 full colour, f=1 white
   const dates = M.map(m => m.date ? Date.parse(m.date) : NaN).filter(x => !isNaN(x));
   const dMin = Math.min(...dates), dMax = Math.max(...dates);
-  const state = { dims: 3, method: 'umap', k: 3, hidden: new Set(), q: '', focus: null, traj: false, cut: dMax };
+  const state = { dims: 3, method: 'umap', k: 3, hidden: new Set(), q: '', focus: null, card: null, traj: false, pathgroup: 'lab', cut: dMax };
+  const cameras = {}; let renderedKey = null;
+  const clone = value => JSON.parse(JSON.stringify(value));
   const NN = M.map(m => m.nn.map(([name, s]) => [s, idxOf[name]]));
   const coords = i => M[i].coords[state.method + state.dims];
   const visible = i => !state.hidden.has(M[i].lab) && !(M[i].date && Date.parse(M[i].date) > state.cut);
   const matches = i => { if (!state.q) return false; const q = state.q.toLowerCase(), m = M[i]; return m.model.includes(q) || m.display.toLowerCase().includes(q) || (m.strapline || '').toLowerCase().includes(q); };
-  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  const esc = s => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 
   function build() {
+    const plotElement = document.getElementById('plot');
+    if (renderedKey?.endsWith('3') && plotElement._fullLayout?.scene?.camera) cameras[renderedKey] = clone(plotElement._fullLayout.scene.camera);
     const ink = css('--ink'), muted = css('--muted'), paper = css('--paper-strong'), line = css('--line');
     const traces = [];
     const three = state.dims === 3;
@@ -117,13 +157,16 @@ const pct = (x) => Math.round(x * 100);
       traces.push(Object.assign({ x: ex, y: ey, mode: 'lines', hoverinfo: 'skip', showlegend: false, line: { color: 'rgba(38,37,33,0.22)', width: 2 }, name: 'edges' }, three ? { type: 'scatter3d', z: ez } : { type: 'scattergl' }));
     }
     if (state.traj) {
-      for (const lab of labs) { if (state.hidden.has(lab)) continue;
-        const idx = M.map((m, i) => i).filter(i => M[i].lab === lab && visible(i) && M[i].date).sort((a, b) => Date.parse(M[a].date) - Date.parse(M[b].date));
+      const groups = new Map();
+      M.forEach((m, i) => { if (!visible(i) || !m.date) return; const key = state.pathgroup === 'family' ? `${m.lab} · ${m.family || m.model}` : m.lab; if (!groups.has(key)) groups.set(key, []); groups.get(key).push(i); });
+      for (const [group, members] of groups) {
+        const idx = members.sort((a, b) => Date.parse(M[a].date) - Date.parse(M[b].date) || M[a].model.localeCompare(M[b].model));
+        const lab = M[idx[0]].lab;
         if (idx.length < 2) continue;
         const base = color(lab), n = idx.length;
         const shade = k => tint(base, 0.75 * (1 - k / (n - 1)));   // first release pale, latest full colour
         if (three) {
-          traces.push({ type: 'scatter3d', mode: 'lines', hoverinfo: 'skip', showlegend: false, legendgroup: lab, name: lab + ' path',
+          traces.push({ type: 'scatter3d', mode: 'lines', hoverinfo: 'skip', showlegend: false, legendgroup: lab, name: group + ' release sequence',
             x: idx.map(i => coords(i)[0]), y: idx.map(i => coords(i)[1]), z: idx.map(i => coords(i)[2]),
             line: { width: 6, color: idx.map((_, k) => k), colorscale: [[0, tint(base, 0.75)], [1, base]], cmin: 0, cmax: n - 1 }, opacity: 0.85 });
         } else {
@@ -144,19 +187,22 @@ const pct = (x) => Math.round(x * 100);
       if (three) { t.type = 'scatter3d'; t.z = idx.map(i => coords(i)[2]); } else t.type = 'scattergl';
       traces.push(t);
     }
-    // Fixed axis ranges over ALL models for this projection, so hiding labs or scrubbing time never rescales the scene.
+    // One common numerical range gives equal units on all axes, across all filters.
     const key = state.method + state.dims;
-    const ext = [0, 1, 2].slice(0, state.dims).map(a => { let lo = Infinity, hi = -Infinity; for (const m of M) { const v = m.coords[key][a]; if (v < lo) lo = v; if (v > hi) hi = v; } const pad = (hi - lo) * 0.06; return [lo - pad, hi + pad]; });
+    const radius = Math.max(...M.flatMap(m => m.coords[key].map(Math.abs))) * 1.06 || 1;
+    const range = [-radius, radius];
     const ax = { showgrid: true, gridcolor: line, zeroline: false, showticklabels: false, title: '', backgroundcolor: paper, showspikes: false, autorange: false };
     const layout = { paper_bgcolor: paper, plot_bgcolor: paper, font: { family: 'Inter, ui-sans-serif, system-ui, sans-serif', color: muted, size: 12 }, margin: { l: 8, r: 8, t: 8, b: 8 },
       legend: { orientation: 'h', y: -0.02, x: 0, font: { size: 11, color: muted }, bgcolor: 'rgba(0,0,0,0)', itemsizing: 'constant' },
       hoverlabel: { bgcolor: paper, bordercolor: line, font: { color: ink, size: 12, family: 'Inter, ui-sans-serif, system-ui, sans-serif' } },
       // uirevision keeps the user's camera / pan / zoom across every update; it changes only when the projection changes (a real reset).
       uirevision: key,
-      scene: { uirevision: key, xaxis: Object.assign({}, ax, { range: ext[0] }), yaxis: Object.assign({}, ax, { range: ext[1] }), zaxis: Object.assign({}, ax, { range: three ? ext[2] : undefined }),
-        bgcolor: paper, camera: { eye: { x: 0.95, y: 0.85, z: 0.6 } }, aspectmode: 'cube', dragmode: 'orbit' },
-      xaxis: Object.assign({}, ax, { range: ext[0], uirevision: key }), yaxis: Object.assign({}, ax, { range: ext[1], uirevision: key }), dragmode: three ? 'orbit' : 'pan' };
+      scene: { uirevision: key, xaxis: Object.assign({}, ax, { range }), yaxis: Object.assign({}, ax, { range }), zaxis: Object.assign({}, ax, { range: three ? range : undefined }),
+        bgcolor: paper, camera: cameras[key] || { eye: { x: 0.95, y: 0.85, z: 0.6 }, up: { x: 0, y: 0, z: 1 }, center: { x: 0, y: 0, z: 0 }, projection: { type: 'perspective' } }, aspectmode: 'cube', dragmode: 'orbit' },
+      xaxis: Object.assign({}, ax, { range, uirevision: key, constrain: 'domain' }), yaxis: Object.assign({}, ax, { range, uirevision: key, scaleanchor: 'x', scaleratio: 1, constrain: 'domain' }), dragmode: three ? 'orbit' : 'pan' };
     Plotly.react('plot', traces, layout, { responsive: true, displaylogo: false, modeBarButtonsToRemove: ['select2d', 'lasso2d', 'toImage'] });
+    renderedKey = key;
+    if (state.card != null) showCard(state.card);
     const plot = document.getElementById('plot');
     if (!plot.__wired) { plot.__wired = true;
       plot.on('plotly_hover', ev => { const p = ev.points[0]; if (p && p.customdata != null) showCard(p.customdata); });
@@ -165,12 +211,29 @@ const pct = (x) => Math.round(x * 100);
         const cb = document.querySelector(`.labs input[data-lab="${CSS.escape(lab)}"]`); if (cb) cb.checked = !state.hidden.has(lab);
         build(); return false; });
       plot.on('plotly_legenddoubleclick', () => false);
-      plot.on('plotly_click', ev => { const p = ev.points[0]; if (p && p.customdata != null) { state.focus = p.customdata; showCard(p.customdata); build(); highlightLeaf(p.customdata); } }); }
+      // Plotly can emit click again while its GL renderer redraws. Avoid renderer
+      // re-entry and ignore a repeated selection before scheduling another frame.
+      plot.on('plotly_click', ev => { const p = ev.points[0]; if (p && p.customdata != null && state.focus !== p.customdata) {
+        state.focus = p.customdata; showCard(p.customdata); highlightLeaf(p.customdata);
+        requestAnimationFrame(() => build());
+      } }); }
   }
-  function showCard(i) { const m = M[i];
-    document.getElementById('card').innerHTML = `<div class="lab">${esc(m.lab)} · ${esc(m.family)} · ${esc(m.date || '')}</div><h2><a href="${base}models/${m.model}/">${esc(m.display)}</a></h2><p class="strap">${esc(m.strapline) || '—'}</p><ol>${m.nn.slice(0, 3).map(([name, s]) => `<li><b>${esc(M[idxOf[name]].display)}</b> ${s.toFixed(3)}</li>`).join('')}</ol>`; }
-  function keep() { const key = state.method + state.dims, pr = map.projections[key]; const extra = pr.variance != null ? `, ${Math.round(pr.variance * 100)}% of variance` : '';
-    document.getElementById('keep').textContent = `Keeps ${Math.round(pr.knn3 * 100)}% of each model’s 3 nearest neighbours${extra}.`; }
+  function showCard(i) {
+    state.card = i;
+    const m = M[i], pr = m.provenance, f = m.fidelity[state.method + state.dims], hidden = !visible(i);
+    const dates = pr.capture_dates;
+    const capture = dates ? `${esc(dates.min)}–${esc(dates.max)} (${dates.known_samples}/${pr.samples} samples dated)` : 'Capture dates unavailable in published samples.';
+    document.getElementById('card').innerHTML = `<div class="lab">${esc(m.lab)} · ${esc(m.family)} · released ${esc(m.date || 'date unknown')}</div>
+      <h2><a href="${base}models/${encodeURIComponent(m.model)}/">${esc(m.display)}</a></h2><p class="strap">${esc(m.strapline) || '—'}</p>
+      ${hidden ? '<p class="hidden-note">Hidden by current filters. <button type="button" data-reveal>Reveal on map</button></p>' : ''}
+      <p class="fidelity"><b>${f.retained}/${f.k}</b> original top-three neighbours retained in ${state.method.toUpperCase()} ${state.dims}D.</p>
+      <p class="scope"><b>${pr.samples.toLocaleString()}</b> responses · <b>${pr.cell_count}</b> collection cell${pr.cell_count === 1 ? '' : 's'}</p>
+      <h3>Nearest in the full corpus</h3><ol>${m.nn.slice(0, 3).map(([name, s]) => `<li><button type="button" data-model="${esc(name)}">${esc(M[idxOf[name]].display)}</button> ${s.toFixed(3)}${f.projected_nn.includes(name) ? ' <span title="Also a top-three neighbour in this projection">●</span>' : ''}</li>`).join('')}</ol>
+      <details class="sample-scope"><summary>Collection scope</summary><p>${Object.entries(pr.conditions).map(([c, n]) => `${esc(c)}: ${n}`).join(' · ')}</p><p>${capture}</p><ul>${pr.cells.map(c => `<li>${esc(c.source)} / ${esc(c.cell)}: ${c.samples}</li>`).join('')}</ul><p>Equal response weights; pooling is not a route-balanced estimate.</p></details>`;
+  }
+  function selectModel(i) { state.focus = i; showCard(i); build(); highlightLeaf(i); }
+  function keep() { const key = state.method + state.dims, pr = map.projections[key]; const extra = pr.variance != null ? ` · ${Math.round(pr.variance * 100)}% of normalised-centroid feature variance` : '';
+    document.getElementById('keep').textContent = `Preserves an average of ${Math.round(pr.knn3 * 100)}% of original top-three neighbours${extra}.` + (state.method === 'mds' ? ` Relative distance error: ${pr.distance_error.toFixed(3)}.` : ''); }
   function press(id, on) { document.getElementById(id).setAttribute('aria-pressed', on ? 'true' : 'false'); }
   function setDims(d) { state.dims = d; press('dim3', d === 3); press('dim2', d === 2); keep(); build(); }
   function setMethod(m) { state.method = m; press('mUmap', m === 'umap'); press('mMds', m === 'mds'); press('mPca', m === 'pca'); keep(); build(); }
@@ -180,15 +243,30 @@ const pct = (x) => Math.round(x * 100);
   document.getElementById('mMds').onclick = () => setMethod('mds');
   document.getElementById('mPca').onclick = () => setMethod('pca');
   document.getElementById('k').oninput = e => { state.k = +e.target.value; document.getElementById('kv').textContent = state.k; build(); };
+  document.getElementById('pathgroup').onchange = e => { state.pathgroup = e.target.value; build(); };
   document.getElementById('traj').onchange = e => { state.traj = e.target.checked; build(); };
   const dateEl = document.getElementById('date'), dateV = document.getElementById('datev');
   const fmt = t => new Date(t).toISOString().slice(0, 10);
   dateV.textContent = fmt(dMax);
   dateEl.oninput = e => { state.cut = dMin + (dMax - dMin) * (+e.target.value / 1000); dateV.textContent = fmt(state.cut); build(); };
-  document.getElementById('q').oninput = e => { state.q = e.target.value.trim(); state.focus = null; build(); if (state.q) { const i = M.findIndex((_, i) => matches(i)); if (i >= 0) { showCard(i); highlightLeaf(i); } } };
+  document.getElementById('q').oninput = e => { state.q = e.target.value.trim(); state.focus = null; build(); if (state.q) { const found = M.map((_, i) => i).filter(matches); const i = found.find(visible) ?? found[0]; if (i != null) { showCard(i); highlightLeaf(i); } else { state.card = null; document.getElementById('card').innerHTML = '<p>No matching models. Try a different name or strapline.</p>'; } } };
   const labsEl = document.getElementById('labs');
   labsEl.innerHTML = labs.map(l => `<label><input type="checkbox" data-lab="${esc(l)}" checked><span class="sw" style="background:${color(l)}"></span>${esc(l)} <span class="n">${labCounts[l]}</span></label>`).join('');
   labsEl.querySelectorAll('input').forEach(cb => cb.addEventListener('change', () => { cb.checked ? state.hidden.delete(cb.dataset.lab) : state.hidden.add(cb.dataset.lab); build(); }));
+  document.getElementById('card').addEventListener('click', e => {
+    const neighbour = e.target.closest('[data-model]');
+    if (neighbour) { selectModel(idxOf[neighbour.dataset.model]); return; }
+    if (e.target.closest('[data-reveal]') && state.card != null) {
+      const m = M[state.card]; state.hidden.delete(m.lab);
+      const cb = labsEl.querySelector(`input[data-lab="${CSS.escape(m.lab)}"]`); if (cb) cb.checked = true;
+      if (m.date && Date.parse(m.date) > state.cut) {
+        state.cut = Date.parse(m.date); dateEl.value = String(Math.ceil(1000 * (state.cut - dMin) / (dMax - dMin))); dateV.textContent = fmt(state.cut);
+      }
+      build();
+    }
+  });
+  const narrow = matchMedia('(max-width: 820px)'), advanced = document.getElementById('advanced');
+  const setAdvanced = () => { advanced.open = !narrow.matches; }; setAdvanced(); narrow.addEventListener('change', setAdvanced);
   keep(); build();
 
   // ---- dendrogram ----
@@ -203,10 +281,11 @@ const pct = (x) => Math.round(x * 100);
   svg.append('g').selectAll('path').data(root.links()).join('path')
     .attr('fill', 'none').attr('stroke', css('--muted')).attr('stroke-opacity', 0.55).attr('stroke-width', 1.2)
     .attr('d', l => `M${l.source.y},${l.source.x + 10}V${l.target.x + 10}H${l.target.y}`);
-  const leafG = svg.append('g').selectAll('g').data(leaves).join('g').attr('transform', d => `translate(${d.y},${d.x + 10})`).attr('class', 'leaf').attr('data-i', d => idxOf[d.data.m]);
+  const leafG = svg.append('g').selectAll('g').data(leaves).join('g').attr('transform', d => `translate(${d.y},${d.x + 10})`).attr('class', 'leaf').attr('data-i', d => idxOf[d.data.m]).attr('role', 'button').attr('tabindex', 0).attr('aria-label', d => `Show ${M[idxOf[d.data.m]].display} on the map`);
   leafG.append('circle').attr('r', 3.5).attr('cx', 4).attr('fill', d => color(M[idxOf[d.data.m]].lab));
   leafG.append('text').attr('x', 11).attr('dy', '0.32em').attr('font-size', 11).attr('fill', css('--ink')).text(d => M[idxOf[d.data.m]].display);
-  leafG.style('cursor', 'pointer').on('mouseenter', (_, d) => showCard(idxOf[d.data.m])).on('click', (_, d) => { state.focus = idxOf[d.data.m]; build(); showCard(state.focus); document.getElementById('plot').scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+  const chooseLeaf = d => { selectModel(idxOf[d.data.m]); document.getElementById('plot').scrollIntoView({ behavior: 'smooth', block: 'center' }); };
+  leafG.style('cursor', 'pointer').on('mouseenter', (_, d) => showCard(idxOf[d.data.m])).on('click', (_, d) => chooseLeaf(d)).on('keydown', (event, d) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); chooseLeaf(d); } });
   function highlightLeaf(i) { leafG.select('text').attr('font-weight', d => idxOf[d.data.m] === i ? 700 : 400); }
 </script>
 
@@ -243,4 +322,20 @@ const pct = (x) => Math.round(x * 100);
   .map-page .method { margin-top: 40px; max-width: 78ch; }
   .map-page .metrics { padding-left: 20px; }
   .map-page .metrics li { margin: 4px 0; }
+  .map-page .advanced { display: grid; gap: 12px; }
+  .map-page .advanced summary, .map-page .sample-scope summary, .map-page .repro summary { cursor: pointer; font-size: 13px; }
+  .map-page .advanced[open] > fieldset { margin-top: 12px; }
+  .map-page .hint, .map-page .scope, .map-page .fidelity, .map-page .hidden-note { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
+  .map-page .card h3 { font-size: 12px; font-weight: 500; color: var(--muted); margin: 10px 0 0; }
+  .map-page .card button { background: none; border: 0; color: var(--accent); font: inherit; padding: 0; text-decoration: underline; cursor: pointer; text-align: left; }
+  .map-page .sample-scope { margin-top: 10px; font-size: 11px; overflow-wrap: anywhere; }
+  .map-page .sample-scope ul { padding-left: 16px; }
+  .map-page .repro { overflow-wrap: anywhere; }
+  .map-page .leaf:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .map-page select { max-width: 120px; background: var(--paper); color: var(--ink); border: 1px solid var(--line); border-radius: 4px; }
+  @media (max-width: 820px) {
+    .map-page .rail { gap: 8px; }
+    .map-page .rail > .card { min-height: 0; }
+    .map-page #plot { height: 60vh; min-height: 400px; }
+  }
 </style>
