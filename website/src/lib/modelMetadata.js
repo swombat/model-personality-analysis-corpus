@@ -23,3 +23,8 @@ const familyLabels = {
 export function familyLabel(family) {
   return familyLabels[family] || family;
 }
+
+// Historical stealth deployments stay accessible through the opt-in filter.
+export function isEphemeralProbe(slug) {
+  return slug.startsWith('ox-alpha-') || slug === 'union-alpha';
+}

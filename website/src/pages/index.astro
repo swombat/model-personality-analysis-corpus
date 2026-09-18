@@ -1,12 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import models from '../generated/models.json';
-import { familyLabel } from '../lib/modelMetadata.js';
+import { familyLabel, isEphemeralProbe } from '../lib/modelMetadata.js';
 
 const completeModels = models
   .filter((model) => model.status !== 'redirect')
   .sort((a, b) => (b.release_date || '').localeCompare(a.release_date || '') || (a.display_name || a.model).localeCompare(b.display_name || b.model));
-const defaultVisibleModels = completeModels.filter((model) => !model.model.startsWith('ox-alpha-'));
+const defaultVisibleModels = completeModels.filter((model) => !isEphemeralProbe(model.model));
 const labs = [...new Set(completeModels.map((model) => model.lab))].sort();
 const families = [...new Set(completeModels.map((model) => model.family))].sort();
 const totalSamples = completeModels.reduce((sum, model) => sum + model.published_samples, 0);
@@ -182,11 +182,11 @@ function valuePillStyle(label) {
       const capabilityTitleValue = capabilityTitle(capabilityDisplayValue);
       return (
       <article
-        class:list={['model-card', { hidden: model.model.startsWith('ox-alpha-') }]}
+        class:list={['model-card', { hidden: isEphemeralProbe(model.model) }]}
         data-model={model.model}
         data-lab={model.lab}
         data-family={model.family}
-        data-ephemeral={model.model.startsWith('ox-alpha-') ? 'true' : 'false'}
+        data-ephemeral={isEphemeralProbe(model.model) ? 'true' : 'false'}
         data-search={`${model.model} ${model.display_name || ''} ${model.lab} ${model.family} ${model.summary}`.toLowerCase()}
         data-release={model.release_date || ''}
         data-intelligence={intelligenceSortValue(capabilityDisplayValue)}
