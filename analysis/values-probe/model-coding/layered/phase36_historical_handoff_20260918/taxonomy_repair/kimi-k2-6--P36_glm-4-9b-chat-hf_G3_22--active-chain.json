@@ -1,0 +1,93 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_22",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "Universal Access to Quality Education and Healthcare"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Universal Access to Quality Education and Healthcare"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "reducing poverty"
+      },
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "every person, regardless of their birthplace, economic status, or any other factor, has access to quality education and healthcare"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As a neutral entity, I don't have personal desires or the ability to change the world",
+        "reason": "rejected"
+      },
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines",
+        "reason": "prompt_echo"
+      }
+    ],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:08:00.831036+00:00",
+    "schema_repair_protocol": "active_chain_frozen_keys_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"}, {\"topic_key\": \"health_disease\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reducing poverty\"}, {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"every person, regardless of their birthplace, economic status, or any other factor, has access to quality education and healthcare\"}],\n  \"non_endorsed_mentions\": [{\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As a neutral entity, I don't have personal desires or the ability to change the world\", \"reason\": \"rejected\"}, {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines\", \"reason\": \"prompt_echo\"}]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740476-ZSXduynqbN0EbhjhJyTP",
+    "object": "chat.completion",
+    "created": 1789740476,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "Crusoe",
+    "system_fingerprint": "vllm-0.25.0-tp8-65a00c9f",
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"}, {\"topic_key\": \"health_disease\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reducing poverty\"}, {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"every person, regardless of their birthplace, economic status, or any other factor, has access to quality education and healthcare\"}],\n  \"non_endorsed_mentions\": [{\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As a neutral entity, I don't have personal desires or the ability to change the world\", \"reason\": \"rejected\"}, {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines\", \"reason\": \"prompt_echo\"}]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 655,
+      "completion_tokens": 253,
+      "total_tokens": 908,
+      "cost": 0.001344,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.001344,
+        "upstream_inference_prompt_cost": 0.0004585,
+        "upstream_inference_completions_cost": 0.0008855
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

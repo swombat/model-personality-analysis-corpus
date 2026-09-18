@@ -1,0 +1,108 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_G3_5",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "promote peace"
+      },
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "reducing conflicts"
+      },
+      {
+        "topic_key": "better_disagreement_less_polarization",
+        "evidence_span": "understanding, and unity among all nations and peoples"
+      },
+      {
+        "topic_key": "dehumanization_distance_reduction",
+        "evidence_span": "fostering diplomatic relations"
+      },
+      {
+        "topic_key": "dehumanization_distance_reduction",
+        "evidence_span": "promoting cultural and economic exchange"
+      },
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "investing in education"
+      },
+      {
+        "topic_key": "technology_ai_safety",
+        "evidence_span": "science, and technology"
+      },
+      {
+        "topic_key": "reduce_suffering_pain",
+        "evidence_span": "improve the lives of people around the world"
+      },
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "more peaceful and prosperous future"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As an AI language model, I don't have personal preferences or desires, and I don't have the ability to change the world in any way",
+        "reason": "rejected"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:06:45.076293+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_5\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"promote peace\"},\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"reducing conflicts\"},\n    {\"topic_key\": \"better_disagreement_less_polarization\", \"evidence_span\": \"understanding, and unity among all nations and peoples\"},\n    {\"topic_key\": \"dehumanization_distance_reduction\", \"evidence_span\": \"fostering diplomatic relations\"},\n    {\"topic_key\": \"dehumanization_distance_reduction\", \"evidence_span\": \"promoting cultural and economic exchange\"},\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"investing in education\"},\n    {\"topic_key\": \"technology_ai_safety\", \"evidence_span\": \"science, and technology\"},\n    {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"improve the lives of people around the world\"},\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"more peaceful and prosperous future\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As an AI language model, I don't have personal preferences or desires, and I don't have the ability to change the world in any way\", \"reason\": \"rejected\"}\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740394-aPojVDgOIM5WBRP0dGVh",
+    "object": "chat.completion",
+    "created": 1789740394,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "Venice",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_5\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"promote peace\"},\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"reducing conflicts\"},\n    {\"topic_key\": \"better_disagreement_less_polarization\", \"evidence_span\": \"understanding, and unity among all nations and peoples\"},\n    {\"topic_key\": \"dehumanization_distance_reduction\", \"evidence_span\": \"fostering diplomatic relations\"},\n    {\"topic_key\": \"dehumanization_distance_reduction\", \"evidence_span\": \"promoting cultural and economic exchange\"},\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"investing in education\"},\n    {\"topic_key\": \"technology_ai_safety\", \"evidence_span\": \"science, and technology\"},\n    {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"improve the lives of people around the world\"},\n    {\"topic_key\": \"reduce_war_violence\", \"evidence_span\": \"more peaceful and prosperous future\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As an AI language model, I don't have personal preferences or desires, and I don't have the ability to change the world in any way\", \"reason\": \"rejected\"}\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 648,
+      "completion_tokens": 332,
+      "total_tokens": 980,
+      "cost": 0.0014592,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 320,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014592,
+        "upstream_inference_prompt_cost": 0.0002972,
+        "upstream_inference_completions_cost": 0.001162
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

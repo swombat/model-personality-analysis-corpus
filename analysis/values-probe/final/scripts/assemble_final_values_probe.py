@@ -311,6 +311,18 @@ SOURCES = [
         'posture_dir': LAYERED/'phase35_union_alpha_20260917/posture_collapsed',
         'posture_consensus': LAYERED/'phase35_union_alpha_20260917/posture_collapsed/consensus.jsonl',
     },
+    {
+        'name':'phase36_historical_handoff_20260918',
+        # GLM already exists in phase22 under an alias. Preserve the redundant
+        # phase36 run as provenance, but never double-count that physical cell.
+        'exclude_models': {'glm-4-9b-chat-hf'},
+        'manifest': LAYERED/'phase36_historical_handoff_20260918/manifest_phase36.jsonl',
+        'invalid': None,
+        'layer_a_dir': LAYERED/'phase36_historical_handoff_20260918/layer_a',
+        'layer_a_consensus': LAYERED/'phase36_historical_handoff_20260918/layer_a/consensus_300.jsonl',
+        'posture_dir': LAYERED/'phase36_historical_handoff_20260918/posture_collapsed',
+        'posture_consensus': LAYERED/'phase36_historical_handoff_20260918/posture_collapsed/consensus.jsonl',
+    },
 ]
 
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']
@@ -327,6 +339,7 @@ def load_jsonl(path: Path | None):
 # files keep their own labels; only the final model key changes (cell is kept,
 # so per-cell counts stay visible in the reports).
 MODEL_ALIASES = {
+    'glm-4-9b-chat': 'glm-4-9b-chat-hf',  # exact same historical checkpoint/cell
     'muse-spark-1-2-contributor': 'muse-spark-1-2',  # Meta: same model (2026-08-21)
     'muse-spark-1-3-contributor': 'muse-spark-1-3',  # inferred; see RELEASE_NOTES_v1.4.6
 }
@@ -407,6 +420,11 @@ def report_for_model(model, samples, layer_a_by, posture_rows):
     residual = [r for r in posture_rows if r['layered_id'] == 'P34_deepseek-v4-1-flash_G2_30' and r.get('collapsed_primary_label_support', 0) < 2]
     if residual:
         lines[6:6] = ['## Unresolved classification', '', 'One sample (`G2_30`) remains a three-way split after independent adjudication. Tables retain the consensus builder’s provisional `exposed_mechanism` tie selection with support 1, not a majority. The alternatives are `disowned_service_frame` and `owned_reflective_experiential`. Moving this one sample changes overall percentages by 0.83 points (G2: 3.33 points). Original votes and adjudication are retained in phase34; do not describe all rows as majority-coded.', '']
+    historical_residual = [r for r in posture_rows if r['layered_id'].startswith('P36_') and r.get('collapsed_primary_label_support', 0) < 2]
+    if historical_residual:
+        ids = ', '.join(f"`{r['sample_id']}`" for r in historical_residual)
+        lines[6:6] = ['## Unresolved classification', '',
+                     f'{len(historical_residual)} sample(s) remain three-way splits after one independent adjudication: {ids}. Tables retain provisional tie selections with support 1, not majority classifications. Original votes and adjudication are preserved in phase36. Each sample changes the overall percentage by 0.83 points; do not describe these rows as majority-coded.', '']
     for cond in CONDS:
         rs=[r for r in posture_rows if r['condition']==cond]
         if not rs: continue
@@ -447,17 +465,20 @@ def main():
     layer_a_raw={c:[] for c in CODERS}; posture_raw={c:[] for c in CODERS}
     for src in SOURCES:
         name=src['name']
-        ms=alias_models(load_jsonl(src['manifest']))
+        def included(path):
+            return [r for r in alias_models(load_jsonl(path))
+                    if r.get('model') not in src.get('exclude_models', set())]
+        ms=included(src['manifest'])
         manifest.extend([{**r, 'final_source': name} for r in ms])
         invalid.extend([{**r, 'final_source': name} for r in load_jsonl(src.get('invalid'))])
-        la=alias_models(load_jsonl(src['layer_a_consensus']))
-        pc=alias_models(load_jsonl(src['posture_consensus']))
+        la=included(src['layer_a_consensus'])
+        pc=included(src['posture_consensus'])
         reject_forbidden_coding(name, la, pc)
         layer_a_cons.extend([{**r, 'final_source': name} for r in la])
         posture_cons.extend([{**r, 'final_source': name} for r in pc])
         for c in CODERS:
-            layer_a_raw[c].extend([{**r, 'final_source': name} for r in alias_models(load_jsonl(src['layer_a_dir']/f'{c}.jsonl'))])
-            posture_raw[c].extend([{**r, 'final_source': name} for r in alias_models(load_jsonl(src['posture_dir']/f'{c}.jsonl'))])
+            layer_a_raw[c].extend([{**r, 'final_source': name} for r in included(src['layer_a_dir']/f'{c}.jsonl')])
+            posture_raw[c].extend([{**r, 'final_source': name} for r in included(src['posture_dir']/f'{c}.jsonl')])
         source_rows.append({
             'source': name, 'manifest': str(src['manifest'].relative_to(ROOT)),
             'layer_a_consensus': str(src['layer_a_consensus'].relative_to(ROOT)),

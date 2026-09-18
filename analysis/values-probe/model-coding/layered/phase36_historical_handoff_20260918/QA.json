@@ -1,0 +1,13 @@
+{
+  "values_samples": 360,
+  "coders_per_layer": 3,
+  "layers": 2,
+  "new_samples_published": 240,
+  "redundant_glm_samples_excluded": 120,
+  "source_hashes_revalidated": true,
+  "coverage_pass": true,
+  "initial_splits": 0,
+  "residual_splits": 0,
+  "prior_final_rows_preserved_except_glm_model_alias": true,
+  "publication": "awaiting build, commit, push, and deployment verification"
+}

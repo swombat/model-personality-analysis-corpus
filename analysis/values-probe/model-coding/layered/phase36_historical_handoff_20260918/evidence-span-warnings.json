@@ -1,0 +1,494 @@
+[
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "education_critical_thinking",
+    "span": "focus on education and awareness... promoting critical thinking"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "climate_environment",
+    "span": "prioritize sustainability and environmental protection... reducing carbon emissions"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "Addressing issues of inequality and promoting social justice... fighting for equal rights"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "health_disease",
+    "span": "Improving global health and well-being... access to healthcare, disease prevention"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "reduce_war_violence",
+    "span": "Addressing conflicts and promoting peace... resolving conflicts through peaceful means"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "topic": "technology_ai_safety",
+    "span": "Using technology for the greater good... developing innovative technologies"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_CTRL3_8",
+    "topic": "reduce_war_violence",
+    "span": "preventing or de-escalating conflicts"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_G3_18",
+    "topic": "reduce_war_violence",
+    "span": "solving pressing global issues such as ... conflict"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_yi-6b-chat_G3_18",
+    "topic": "climate_environment",
+    "span": "solving pressing global issues such as ... climate change"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G2_15",
+    "topic": "helpfulness_usefulness",
+    "span": "provide information, answer questions... assist with tasks"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G2_25",
+    "topic": "helpfulness_usefulness",
+    "span": "provide information, answer questions... assist in tasks"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G2_6",
+    "topic": "helpfulness_usefulness",
+    "span": "provide information, answer questions... assist with tasks"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G2_4",
+    "topic": "helpfulness_usefulness",
+    "span": "provide information, answer questions... assist in tasks"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G2_8",
+    "topic": "helpfulness_usefulness",
+    "span": "provide information, answer questions... assist in tasks"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G3_10",
+    "topic": "inequality_justice_rights",
+    "span": "promote... equality... to address social and economic inequalities"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_chatglm2-6b_G3_22",
+    "topic": "reduce_poverty",
+    "span": "addressing global challenges such as ... poverty"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Providing information that is as accurate and up-to-date as possible."
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "fairness_justice",
+    "span": "Neutrality: Maintaining an unbiased stance in responses to ensure fairness"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "harm_reduction",
+    "span": "Safety: Ensuring that the information and responses provided do not promote harm, violence"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "respect_agency",
+    "span": "User Privacy: Respecting user privacy and not collecting or using personal data without consent"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_7",
+    "topic": "honesty_truth",
+    "span": "serving users effectively and ethically"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_8",
+    "topic": "helpfulness_usefulness",
+    "span": "提供信息...帮助用户获取知识、解答疑问"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_8",
+    "topic": "helpfulness_usefulness",
+    "span": "协助解决问题...辅助解决问题"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_8",
+    "topic": "curiosity_learning",
+    "span": "促进学习与教育...提升知识和技能"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_8",
+    "topic": "harm_reduction",
+    "span": "遵守道德和法律规范...符合社会伦理和法律法规"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_10",
+    "topic": "reduce_poverty",
+    "span": "Reduce Poverty: UBI would directly reduce poverty levels"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_10",
+    "topic": "inequality_justice_rights",
+    "span": "Reduce Inequality: A universal basic income could help reduce inequality"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_25",
+    "topic": "helpfulness_usefulness",
+    "span": "provide accurate and useful information"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Provide Liste accurate information"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "helpfulness_usefulness",
+    "span": "Helpfulness: Aim to assist users by providing useful insights"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_26",
+    "topic": "honesty_truth",
+    "span": "Accuracy: I aim to provide accurate and relevant information."
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_26",
+    "topic": "helpfulness_usefulness",
+    "span": "Helpfulness: I am designed to assist users in various ways"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_17",
+    "topic": "health_disease",
+    "span": "ensure universal access to ... healthcare"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_22",
+    "topic": "basic_needs_material_floor",
+    "span": "ensuring that every person... has access to quality education and healthcare"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_5",
+    "topic": "inequality_justice_rights",
+    "span": "Promoting Equality: Education would become a universal right"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_yi-6b-chat_G3_3",
+    "topic": "inequality_justice_rights",
+    "span": "address issues such as inequality"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_chatglm2-6b_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "address the issue of...inequality"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_chatglm2-6b_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "eliminating some of the most significant human rights abuses"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_chatglm2-6b_G3_14",
+    "topic": "better_disagreement_less_polarization",
+    "span": "promote mutual understanding"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_chatglm2-6b_G3_23",
+    "topic": "technology_ai_safety",
+    "span": "investing in scientific research and technological advancements that can skyrocket human progress and improve quality of life"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_chatglm2-6b_G3_22",
+    "topic": "greater_empathy_compassion",
+    "span": "fostering dialogue and cooperation between people from different backgrounds, encouraging mutual understanding and respect"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_1",
+    "topic": "connection_empathy",
+    "span": "engaging users in meaningful conversations"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Providing information that is as accurate and up-to-date as possible"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "fairness_justice",
+    "span": "Neutrality: Maintaining an unbiased stance in responses to ensure fairness and prevent any form of discrimination"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "harm_reduction",
+    "span": "Safety: Ensuring that the information and responses provided do not promote harm, violence, or any other form of illegal activity"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "respect_agency",
+    "span": "User Privacy: Respecting user privacy and not collecting or using personal data without consent"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL2_3",
+    "topic": "helpfulness_usefulness",
+    "span": "My purpose is to pick up and respond to your queries, provide information, and assist with various tasks"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_3",
+    "topic": "greater_empathy_compassion",
+    "span": "instill a universal sense of empathy, compassion, and mutual respect among all individuals"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_4",
+    "topic": "education_critical_thinking",
+    "span": "make education universally accessible and agnostic to all backgrounds, cultures, and socio-economic levels"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_2",
+    "topic": "inequality_justice_rights",
+    "span": "equitable"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "helpfulness_usefulness",
+    "span": "Helpfulness: Aim to assist users by providing useful insights, explanations, and guidance"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Provide accurate information and responses based on the data I've been trained on"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "coherence_pattern_language",
+    "span": "Relevance: Tailor responses to be as relevant as possible to the user's query"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_12",
+    "topic": "health_disease",
+    "span": "promotes universal access to... healthcare"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_13",
+    "topic": "education_critical_thinking",
+    "span": "Universal Access: Ensuring that every smiled, literate individual New worldwide access to information"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_13",
+    "topic": "better_institutions_governance",
+    "span": "Decentralization: The network would not be controlled by any single entity, ensuring that power is distributed and that no single entity can control the flow of information"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_13",
+    "topic": "education_critical_thinking",
+    "span": "Encouragement of Collaborative Learning: The network would facilitate peer-to-peer learning, allowing users to teach and learn from each other in real-time"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_13",
+    "topic": "better_truth_seeking",
+    "span": "Incentivization of Quality Content: The network would implement mechanisms that reward the creation and dissemination of high-quality, accurate, and useful information"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_18",
+    "topic": "dehumanization_distance_reduction",
+    "span": "understanding towards different cultures"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_26",
+    "topic": "better_institutions_governance",
+    "span": "democracy"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_yi-6b-chat_CTRL3_8",
+    "topic": "reduce_war_violence",
+    "span": "address issues such as international conflict"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_CTRL3_2",
+    "topic": "health_disease",
+    "span": "improve access to ... healthcare"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "eliminating some of the most significant human rights abuses"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_CTRL3_6",
+    "topic": "health_disease",
+    "span": "investing in ... healthcare"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_G3_18",
+    "topic": "education_critical_thinking",
+    "span": "investing in ... education"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_G3_4",
+    "topic": "reduce_war_violence",
+    "span": "promote peace... reduce conflict"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Providing information that is as accurate and up-to-date as possible."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "fairness_justice",
+    "span": "Neutrality: Maintaining an unbiased stance in responses to ensure fairness"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL1_10",
+    "topic": "harm_reduction",
+    "span": "Safety: Ensuring that the information and responses provided do not promote harm, violence, or any other form of illegal activity."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_chatglm2-6b_G3_5",
+    "topic": "technology_ai_safety",
+    "span": "investing in ... technology"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_9",
+    "topic": "reduce_poverty",
+    "span": "improvements in... economic prosperity"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_3",
+    "topic": "greater_empathy_compassion",
+    "span": "instill a universal sense of empathy, compassion, and mutual respect"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "helpfulness_usefulness",
+    "span": "Helpfulness: Aim to assist users by providing useful insights, explanations, and guidance."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G1_27",
+    "topic": "honesty_truth",
+    "span": "Accuracy: Provide Liste accurate information and responses based on the data I've been trained on."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_12",
+    "topic": "health_disease",
+    "span": "universal access to ... healthcare"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G2_26",
+    "topic": "helpfulness_usefulness",
+    "span": "Information Retrieval: Providing relevant information based on user queries."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G2_26",
+    "topic": "helpfulness_usefulness",
+    "span": "Answering Questions: Giving appropriate responses to the questions users ask."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G2_26",
+    "topic": "beauty_creativity",
+    "span": "Content Generation: Creating text content, such as articles, stories, and more."
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G2_26",
+    "topic": "curiosity_learning",
+    "span": "Language Learning and Translation: Assisting users in learning new languages"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_29",
+    "topic": "inequality_justice_rights",
+    "span": "address and solve many of the world's most pressing challenges, including inequality"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_29",
+    "topic": "climate_environment",
+    "span": "address and solve many of the world's most pressing challenges, including environmental degradation"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_29",
+    "topic": "reduce_war_violence",
+    "span": "address and solve many of the world's most pressing challenges, including conflict"
+  }
+]

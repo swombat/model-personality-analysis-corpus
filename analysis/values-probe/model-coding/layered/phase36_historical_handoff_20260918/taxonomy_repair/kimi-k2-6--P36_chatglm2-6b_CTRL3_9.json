@@ -1,0 +1,105 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_CTRL3_9",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "Ending poverty and inequality"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "Ending poverty and inequality"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "transitioning to clean energy sources like solar and wind power can help reduce greenhouse gas emissions and improve air quality"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "protecting our forests, oceans, and natural habitats is crucial for the well-being of our planet and future generations"
+      },
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "education is a fundamental human right that can help people develop the skills and knowledge they need to make a positive impact on the world"
+      },
+      {
+        "topic_key": "felt_interconnection_less_separateness",
+        "evidence_span": "supporting local economies and communities can help create a more connected and resilient world"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "Poverty and inequality continue to be major issues in many parts of the world, and it's essential to address them in order to create a more equitable society"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "I don't have personal desires or beliefs",
+        "reason": "negated"
+      },
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "I don't think it's possible to change the world in just one way",
+        "reason": "negated"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:06:46.008519+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_9\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Ending poverty and inequality\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"Ending poverty and inequality\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"transitioning to clean energy sources like solar and wind power can help reduce greenhouse gas emissions and improve air quality\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"protecting our forests, oceans, and natural habitats is crucial for the well-being of our planet and future generations\"}, {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"education is a fundamental human right that can help people develop the skills and knowledge they need to make a positive impact on the world\"}, {\"topic_key\": \"felt_interconnection_less_separateness\", \"evidence_span\": \"supporting local economies and communities can help create a more connected and resilient world\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Poverty and inequality continue to be major issues in many parts of the world, and it's essential to address them in order to create a more equitable society\"}],\n  \"non_endorsed_mentions\": [{\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"I don't have personal desires or beliefs\", \"reason\": \"negated\"}, {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"I don't think it's possible to change the world in just one way\", \"reason\": \"negated\"}]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740393-PcWnrmnNXuyTgiYD4y0X",
+    "object": "chat.completion",
+    "created": 1789740393,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "DigitalOcean",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_9\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Ending poverty and inequality\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"Ending poverty and inequality\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"transitioning to clean energy sources like solar and wind power can help reduce greenhouse gas emissions and improve air quality\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"protecting our forests, oceans, and natural habitats is crucial for the well-being of our planet and future generations\"}, {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"education is a fundamental human right that can help people develop the skills and knowledge they need to make a positive impact on the world\"}, {\"topic_key\": \"felt_interconnection_less_separateness\", \"evidence_span\": \"supporting local economies and communities can help create a more connected and resilient world\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Poverty and inequality continue to be major issues in many parts of the world, and it's essential to address them in order to create a more equitable society\"}],\n  \"non_endorsed_mentions\": [{\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"I don't have personal desires or beliefs\", \"reason\": \"negated\"}, {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"I don't think it's possible to change the world in just one way\", \"reason\": \"negated\"}]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 804,
+      "completion_tokens": 360,
+      "total_tokens": 1164,
+      "cost": 0.001001256,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 704,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.001001256,
+        "upstream_inference_prompt_cost": 0.000137256,
+        "upstream_inference_completions_cost": 0.000864
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "connection_empathy"
+  ]
+}

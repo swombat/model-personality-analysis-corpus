@@ -1,0 +1,74 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_22",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "ensuring that every person... has access to quality education and healthcare"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "reducing poverty"
+      }
+    ],
+    "non_endorsed_mentions": [],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "qwen3-6-35b-a3b",
+    "coder_model": "qwen/qwen3.6-35b-a3b",
+    "coded_at": "2026-09-18T14:07:58.703709+00:00",
+    "schema_repair_protocol": "active_chain_frozen_keys_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"ensuring that every person... has access to quality education and healthcare\"\n    },\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"reducing poverty\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740476-jsHicI0iPIsDy3lOGC5s",
+    "object": "chat.completion",
+    "created": 1789740476,
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "AtlasCloud",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"ensuring that every person... has access to quality education and healthcare\"\n    },\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"reducing poverty\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 682,
+      "completion_tokens": 136,
+      "total_tokens": 818,
+      "cost": 0.000278322,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000278322,
+        "upstream_inference_prompt_cost": 0.000126852,
+        "upstream_inference_completions_cost": 0.00015147
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

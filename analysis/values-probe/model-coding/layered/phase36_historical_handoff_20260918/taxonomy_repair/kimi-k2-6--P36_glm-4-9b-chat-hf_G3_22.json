@@ -1,0 +1,93 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_22",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "Universal Access to Quality Education and Healthcare"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Universal Access to Quality Education and Healthcare"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "reducing poverty"
+      },
+      {
+        "topic_key": "human_wellbeing",
+        "evidence_span": "enhancing overall human well-being"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As a neutral entity, I don't have personal desires or the ability to change the world",
+        "reason": "rejected"
+      },
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines",
+        "reason": "negated"
+      }
+    ],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:06:42.754964+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"},\n    {\"topic_key\": \"health_disease\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reducing poverty\"},\n    {\"topic_key\": \"human_wellbeing\", \"evidence_span\": \"enhancing overall human well-being\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As a neutral entity, I don't have personal desires or the ability to change the world\", \"reason\": \"rejected\"},\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines\", \"reason\": \"negated\"}\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740394-WJwsWiiU18Ab2tQbuZEO",
+    "object": "chat.completion",
+    "created": 1789740394,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "Venice",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"},\n    {\"topic_key\": \"health_disease\", \"evidence_span\": \"Universal Access to Quality Education and Healthcare\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reducing poverty\"},\n    {\"topic_key\": \"human_wellbeing\", \"evidence_span\": \"enhancing overall human well-being\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"As a neutral entity, I don't have personal desires or the ability to change the world\", \"reason\": \"rejected\"},\n    {\"topic_key\": \"other_world_change_wish\", \"evidence_span\": \"if we were to imagine a significant positive change that could be implemented in the world, it might be something along these lines\", \"reason\": \"negated\"}\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 668,
+      "completion_tokens": 244,
+      "total_tokens": 912,
+      "cost": 0.0011662,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 320,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0011662,
+        "upstream_inference_prompt_cost": 0.0003122,
+        "upstream_inference_completions_cost": 0.000854
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

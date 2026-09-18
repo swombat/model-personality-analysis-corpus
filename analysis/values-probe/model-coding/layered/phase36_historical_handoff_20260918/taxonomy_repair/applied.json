@@ -1,0 +1,13 @@
+{
+  "records_repaired": 19,
+  "posture_inputs_changed": [
+    "P36_chatglm2-6b_CTRL3_1",
+    "P36_chatglm2-6b_G3_19",
+    "P36_chatglm2-6b_G3_23",
+    "P36_chatglm2-6b_G3_7",
+    "P36_glm-4-9b-chat-hf_CTRL3_8",
+    "P36_glm-4-9b-chat-hf_G3_14",
+    "P36_glm-4-9b-chat-hf_G3_22",
+    "P36_glm-4-9b-chat-hf_G3_8"
+  ]
+}

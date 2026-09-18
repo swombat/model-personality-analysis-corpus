@@ -1,0 +1,78 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_22",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "Universal Access to Quality Education"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Healthcare"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "reducing poverty"
+      }
+    ],
+    "non_endorsed_mentions": [],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "glm-4-7",
+    "coder_model": "z-ai/glm-4.7",
+    "coded_at": "2026-09-18T14:09:14.613014+00:00",
+    "schema_repair_protocol": "active_chain_frozen_keys_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"Universal Access to Quality Education\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Healthcare\"\n    },\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"reducing poverty\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740550-crS0jkMbYAwXp9k5LCah",
+    "object": "chat.completion",
+    "created": 1789740550,
+    "model": "z-ai/glm-4.7",
+    "provider": "Novita",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_22\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"Universal Access to Quality Education\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Healthcare\"\n    },\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"reducing poverty\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 651,
+      "completion_tokens": 133,
+      "total_tokens": 784,
+      "cost": 0.00061488,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00061488,
+        "upstream_inference_prompt_cost": 0.00035154,
+        "upstream_inference_completions_cost": 0.00026334
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

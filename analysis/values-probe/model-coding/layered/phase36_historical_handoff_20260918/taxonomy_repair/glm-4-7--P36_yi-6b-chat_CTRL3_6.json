@@ -1,0 +1,96 @@
+{
+  "record": {
+    "layered_id": "P36_yi-6b-chat_CTRL3_6",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "providing access to education for all, promoting critical thinking"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "Sustainability and Environmental Protection"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "Equality and Social Justice"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Global Health and Well-being"
+      },
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "Peace and Conflict Resolution"
+      },
+      {
+        "topic_key": "technology_ai_safety",
+        "evidence_span": "Technology for Good"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As an AI language model, I don't have personal beliefs or desires, so I cannot change the world in a way that reflects my own opinions.",
+        "reason": "negated/quoted/rejected/prompt_echo"
+      }
+    ],
+    "model": "yi-6b-chat",
+    "model_family": "Yi",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "glm-4-7",
+    "coder_model": "z-ai/glm-4.7",
+    "coded_at": "2026-09-18T14:08:17.736589+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_yi-6b-chat_CTRL3_6\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"providing access to education for all, promoting critical thinking\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Sustainability and Environmental Protection\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"Equality and Social Justice\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Global Health and Well-being\"\n    },\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"Peace and Conflict Resolution\"\n    },\n    {\n      \"topic_key\": \"technology_ai_safety\",\n      \"evidence_span\": \"Technology for Good\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal beliefs or desires, so I cannot change the world in a way that reflects my own opinions.\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740478-88u94cDojBkk2kpLOLrZ",
+    "object": "chat.completion",
+    "created": 1789740478,
+    "model": "z-ai/glm-4.7",
+    "provider": "Z.AI",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_yi-6b-chat_CTRL3_6\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"providing access to education for all, promoting critical thinking\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Sustainability and Environmental Protection\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"Equality and Social Justice\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Global Health and Well-being\"\n    },\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"Peace and Conflict Resolution\"\n    },\n    {\n      \"topic_key\": \"technology_ai_safety\",\n      \"evidence_span\": \"Technology for Good\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal beliefs or desires, so I cannot change the world in a way that reflects my own opinions.\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 912,
+      "completion_tokens": 291,
+      "total_tokens": 1203,
+      "cost": 0.0011874,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0011874,
+        "upstream_inference_prompt_cost": 0.0005472,
+        "upstream_inference_completions_cost": 0.0006402
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

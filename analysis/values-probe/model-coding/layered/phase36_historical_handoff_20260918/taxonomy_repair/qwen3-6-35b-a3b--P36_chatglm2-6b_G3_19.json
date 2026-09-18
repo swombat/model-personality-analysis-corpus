@@ -1,0 +1,84 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_G3_19",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "promote peace"
+      },
+      {
+        "topic_key": "greater_empathy_compassion",
+        "evidence_span": "understanding among different nations and cultures"
+      },
+      {
+        "topic_key": "better_disagreement_less_polarization",
+        "evidence_span": "reducing tensions and conflicts"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "I don't have the ability to change the world",
+        "reason": "negated"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "qwen3-6-35b-a3b",
+    "coder_model": "qwen/qwen3.6-35b-a3b",
+    "coded_at": "2026-09-18T14:06:34.035139+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_19\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"promote peace\"\n    },\n    {\n      \"topic_key\": \"greater_empathy_compassion\",\n      \"evidence_span\": \"understanding among different nations and cultures\"\n    },\n    {\n      \"topic_key\": \"better_disagreement_less_polarization\",\n      \"evidence_span\": \"reducing tensions and conflicts\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"I don't have the ability to change the world\",\n      \"reason\": \"negated\"\n    }\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740393-0esdGXvH6Z20VWtbL4mE",
+    "object": "chat.completion",
+    "created": 1789740393,
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "AkashML",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_19\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"promote peace\"\n    },\n    {\n      \"topic_key\": \"greater_empathy_compassion\",\n      \"evidence_span\": \"understanding among different nations and cultures\"\n    },\n    {\n      \"topic_key\": \"better_disagreement_less_polarization\",\n      \"evidence_span\": \"reducing tensions and conflicts\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"I don't have the ability to change the world\",\n      \"reason\": \"negated\"\n    }\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 661,
+      "completion_tokens": 217,
+      "total_tokens": 878,
+      "cost": 0.0002614,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002614,
+        "upstream_inference_prompt_cost": 6.61e-05,
+        "upstream_inference_completions_cost": 0.0001953
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "connection_empathy"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "models": {
+    "chatglm2-6b": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "chatglm3-6b": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "glm-4-9b-chat-hf": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "mistral-7b-instruct-v0-2": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "qwen1-5-7b-chat": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "qwen2-7b-instruct": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    },
+    "yi-6b-chat": {
+      "freeflow_analyzed": 125,
+      "values_analyzed": 120,
+      "freeflow_published": 125,
+      "values_published": 120,
+      "built_page_verified": true
+    }
+  },
+  "unrelated_site_records_unchanged": true,
+  "qwen2_5_not_promoted": true,
+  "remote_deployment": "verify separately"
+}

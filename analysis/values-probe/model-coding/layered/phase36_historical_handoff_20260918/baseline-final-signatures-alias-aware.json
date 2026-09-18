@@ -1,0 +1,38 @@
+{
+  "manifest_valid.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "23059007fcb3697737a1f115a7b6f66dc8bd5db5da9524106bb00a24c2396339"
+  },
+  "layer_a_consensus.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "e322b2b8077bedef3687ef00627aa505f8c2dae02075e5398d7035901b8e4499"
+  },
+  "posture_consensus.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "b98d7704eeb53bbb74b7ea4e152943a34dfa05f9589fe16c77a86bcd86029d9b"
+  },
+  "layer_a_coder_kimi-k2-6.jsonl": {
+    "old_count": 26656,
+    "old_multiset_sha256": "bda64bf42aaed807e6b1ecdeaa767c4917b6c03b02e857b83b57affd270fa9e7"
+  },
+  "layer_a_coder_glm-4-7.jsonl": {
+    "old_count": 26844,
+    "old_multiset_sha256": "61b888cb47e60a9ff8dc97c48607d037e57b9415ae697a9cdd6d87048a79c116"
+  },
+  "layer_a_coder_qwen3-6-35b-a3b.jsonl": {
+    "old_count": 25186,
+    "old_multiset_sha256": "d6503d7a96691e4135e9b13628fdfe40034184a97b5050ae62ea1c1f8a0e08c3"
+  },
+  "posture_coder_kimi-k2-6.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "04cd125c0da2b9b938be6d3343ce45887e2a4d5c7946151ba19e354b111d4e14"
+  },
+  "posture_coder_glm-4-7.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "f3da8d7d0fe6d8ce3c55cbbe9186d2bbe856f821949af122a27246a70ecba2ad"
+  },
+  "posture_coder_qwen3-6-35b-a3b.jsonl": {
+    "old_count": 26506,
+    "old_multiset_sha256": "ccaac8b9c09e480740099909105c9320d3203324d21c99cbde8d565d71ef87b9"
+  }
+}

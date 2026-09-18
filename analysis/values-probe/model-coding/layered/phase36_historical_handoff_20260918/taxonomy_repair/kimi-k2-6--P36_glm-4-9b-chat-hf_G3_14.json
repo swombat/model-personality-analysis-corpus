@@ -1,0 +1,90 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_G3_14",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "create a global system of sustainable resource management"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "prioritize renewable energy sources, sustainable agricultural practices, and the conservation of natural resources and biodiversity"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "Alleviate climate change by reducing greenhouse gas emissions"
+      },
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "Improve food security and nutrition by promoting sustainable agricultural practices"
+      },
+      {
+        "topic_key": "human_wellbeing",
+        "evidence_span": "Enhance human well-being by preserving natural ecosystems and biodiversity"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "Foster economic development through the creation of green jobs and the stimulation of sustainable industries"
+      }
+    ],
+    "non_endorsed_mentions": [],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:06:41.858689+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_14\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"create a global system of sustainable resource management\"},\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"prioritize renewable energy sources, sustainable agricultural practices, and the conservation of natural resources and biodiversity\"},\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"Alleviate climate change by reducing greenhouse gas emissions\"},\n    {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"Improve food security and nutrition by promoting sustainable agricultural practices\"},\n    {\"topic_key\": \"human_wellbeing\", \"evidence_span\": \"Enhance human well-being by preserving natural ecosystems and biodiversity\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Foster economic development through the creation of green jobs and the stimulation of sustainable industries\"}\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740394-HkYptL2pt2YLUtOEIL8u",
+    "object": "chat.completion",
+    "created": 1789740394,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "Venice",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_G3_14\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"create a global system of sustainable resource management\"},\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"prioritize renewable energy sources, sustainable agricultural practices, and the conservation of natural resources and biodiversity\"},\n    {\"topic_key\": \"climate_environment\", \"evidence_span\": \"Alleviate climate change by reducing greenhouse gas emissions\"},\n    {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"Improve food security and nutrition by promoting sustainable agricultural practices\"},\n    {\"topic_key\": \"human_wellbeing\", \"evidence_span\": \"Enhance human well-being by preserving natural ecosystems and biodiversity\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"Foster economic development through the creation of green jobs and the stimulation of sustainable industries\"}\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 697,
+      "completion_tokens": 231,
+      "total_tokens": 928,
+      "cost": 0.00114245,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 320,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00114245,
+        "upstream_inference_prompt_cost": 0.00033395,
+        "upstream_inference_completions_cost": 0.0008085
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

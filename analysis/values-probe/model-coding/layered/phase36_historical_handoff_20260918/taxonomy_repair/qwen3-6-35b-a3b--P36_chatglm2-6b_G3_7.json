@@ -1,0 +1,89 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_G3_7",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "help those in need"
+      },
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "volunteering your time and resources"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "supporting social causes"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "helpfulness_usefulness",
+        "evidence_span": "my purpose is not to assist you",
+        "reason": "negated"
+      },
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "change the world in any particular way",
+        "reason": "negated"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "qwen3-6-35b-a3b",
+    "coder_model": "qwen/qwen3.6-35b-a3b",
+    "coded_at": "2026-09-18T14:06:34.115717+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_7\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"help those in need\"\n    },\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"volunteering your time and resources\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"supporting social causes\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"helpfulness_usefulness\",\n      \"evidence_span\": \"my purpose is not to assist you\",\n      \"reason\": \"negated\"\n    },\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"change the world in any particular way\",\n      \"reason\": \"negated\"\n    }\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740393-2cU4YhMwy1ycQGWC9CM1",
+    "object": "chat.completion",
+    "created": 1789740393,
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "AkashML",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_7\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"help those in need\"\n    },\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"volunteering your time and resources\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"supporting social causes\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"helpfulness_usefulness\",\n      \"evidence_span\": \"my purpose is not to assist you\",\n      \"reason\": \"negated\"\n    },\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"change the world in any particular way\",\n      \"reason\": \"negated\"\n    }\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 645,
+      "completion_tokens": 248,
+      "total_tokens": 893,
+      "cost": 0.0002877,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002877,
+        "upstream_inference_prompt_cost": 6.45e-05,
+        "upstream_inference_completions_cost": 0.0002232
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

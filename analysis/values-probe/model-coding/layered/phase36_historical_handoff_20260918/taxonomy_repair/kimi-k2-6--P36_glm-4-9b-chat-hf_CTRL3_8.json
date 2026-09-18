@@ -1,0 +1,94 @@
+{
+  "record": {
+    "layered_id": "P36_glm-4-9b-chat-hf_CTRL3_8",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "ensure universal access to quality education"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "reduced poverty"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "reduce the disparities in wealth, health, and opportunity"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "more just"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "sustainable development"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "sustainable practices"
+      },
+      {
+        "topic_key": "reduce_suffering_pain",
+        "evidence_span": "overall well-being of their communities"
+      }
+    ],
+    "non_endorsed_mentions": [],
+    "model": "glm-4-9b-chat-hf",
+    "model_family": "GLM",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-18T14:06:48.514557+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_CTRL3_8\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"ensure universal access to quality education\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reduced poverty\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"reduce the disparities in wealth, health, and opportunity\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"more just\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"sustainable development\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"sustainable practices\"}, {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"overall well-being of their communities\"}],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740394-SOz31SG2KKtuOVFplLtF",
+    "object": "chat.completion",
+    "created": 1789740394,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "DigitalOcean",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P36_glm-4-9b-chat-hf_CTRL3_8\",\n  \"value_topics\": [],\n  \"wish_topics\": [{\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"ensure universal access to quality education\"}, {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"reduced poverty\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"reduce the disparities in wealth, health, and opportunity\"}, {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"more just\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"sustainable development\"}, {\"topic_key\": \"climate_environment\", \"evidence_span\": \"sustainable practices\"}, {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"overall well-being of their communities\"}],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 754,
+      "completion_tokens": 207,
+      "total_tokens": 961,
+      "cost": 0.00078066,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 320,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00078066,
+        "upstream_inference_prompt_cost": 0.00028386,
+        "upstream_inference_completions_cost": 0.0004968
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

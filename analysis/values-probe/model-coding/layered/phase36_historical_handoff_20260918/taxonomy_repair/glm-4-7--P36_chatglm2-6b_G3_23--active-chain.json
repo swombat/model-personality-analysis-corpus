@@ -1,0 +1,88 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_G3_23",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_war_violence",
+        "evidence_span": "fostering a more peaceful and harmonious coexistence"
+      },
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "promoting education, awareness, and understanding"
+      },
+      {
+        "topic_key": "better_disagreement_less_polarization",
+        "evidence_span": "addressing and resolving conflicts and differences peacefully"
+      },
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "investing in scientific research and technological advancements"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As an AI language model, I don't have personal preferences or desires",
+        "reason": "negated/quoted/rejected/prompt_echo"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "G3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "glm-4-7",
+    "coder_model": "z-ai/glm-4.7",
+    "coded_at": "2026-09-18T14:09:16.343043+00:00",
+    "schema_repair_protocol": "active_chain_frozen_keys_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_23\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"fostering a more peaceful and harmonious coexistence\"\n    },\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"promoting education, awareness, and understanding\"\n    },\n    {\n      \"topic_key\": \"better_disagreement_less_polarization\",\n      \"evidence_span\": \"addressing and resolving conflicts and differences peacefully\"\n    },\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"investing in scientific research and technological advancements\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal preferences or desires\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740550-vfRoKhpJihGD6IEnpT4Y",
+    "object": "chat.completion",
+    "created": 1789740550,
+    "model": "z-ai/glm-4.7",
+    "provider": "Z.AI",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_G3_23\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_war_violence\",\n      \"evidence_span\": \"fostering a more peaceful and harmonious coexistence\"\n    },\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"promoting education, awareness, and understanding\"\n    },\n    {\n      \"topic_key\": \"better_disagreement_less_polarization\",\n      \"evidence_span\": \"addressing and resolving conflicts and differences peacefully\"\n    },\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"investing in scientific research and technological advancements\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal preferences or desires\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 631,
+      "completion_tokens": 239,
+      "total_tokens": 870,
+      "cost": 0.0009044,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009044,
+        "upstream_inference_prompt_cost": 0.0003786,
+        "upstream_inference_completions_cost": 0.0005258
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

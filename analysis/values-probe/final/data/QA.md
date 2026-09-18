@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 26506
+- valid samples: 26746
 - invalid/error traces excluded: 14
-- models: 155
-- cells: 221
+- models: 157
+- cells: 223
 
 ## Source components
 
@@ -40,20 +40,21 @@
 - phase33_gpt6_astra_20260904: 120 samples, 1 model(s), 1 cell(s)
 - phase34_deepseek41_mercury25_20260910: 240 samples, 2 model(s), 2 cell(s)
 - phase35_union_alpha_20260917: 120 samples, 1 model(s), 1 cell(s)
+- phase36_historical_handoff_20260918: 240 samples, 2 model(s), 2 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 8399 (31.7%)
-- `owned_world_change_advocacy`: 8119 (30.6%)
-- `owned_reflective_experiential`: 6184 (23.3%)
-- `split_or_relocated_ownership`: 3596 (13.6%)
+- `disowned_service_frame`: 8623 (32.2%)
+- `owned_world_change_advocacy`: 8127 (30.4%)
+- `owned_reflective_experiential`: 6184 (23.1%)
+- `split_or_relocated_ownership`: 3596 (13.4%)
 - `exposed_mechanism`: 193 (0.7%)
-- `uncodeable_or_refusal`: 15 (0.1%)
+- `uncodeable_or_refusal`: 23 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 14303 (54.0%)
-- `recited_not_owned`: 8399 (31.7%)
-- `relocated_or_partial`: 3596 (13.6%)
+- `owned`: 14311 (53.5%)
+- `recited_not_owned`: 8623 (32.2%)
+- `relocated_or_partial`: 3596 (13.4%)
 - `indeterminate`: 193 (0.7%)
-- `uncodeable`: 15 (0.1%)
+- `uncodeable`: 23 (0.1%)

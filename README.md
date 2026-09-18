@@ -5,9 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-09-17:** Union Alpha mapping is complete and prepared for
-> v1.4.10; website editorial publication is pending. See
-> [`RELEASE_NOTES_v1.4.10.md`](RELEASE_NOTES_v1.4.10.md).
+> **Status — 2026-09-18:** v1.4.14 completes the missing historical values
+> analyses for Yi-6B and ChatGLM2, and repairs GLM-4-9B's analysis/site linkage.
+> Seven historical full-precision
+> models now have complete paired analyses. Qwen2.5 remains blocked by raw
+> fidelity failures, not published as complete. See
+> [`RELEASE_NOTES_v1.4.14.md`](RELEASE_NOTES_v1.4.14.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
@@ -44,13 +47,16 @@ copies rather than the canonical raw corpus.
 
 Current load-bearing contents:
 
-- **27,100 BV1 per-sample freeflow personality/vibe readings** produced with
-  `deepseek/deepseek-v4-pro`, with QA passing at zero known bad outputs.
-- **132 rich per-model freeflow personality profiles** preserving evidence from
-  the per-cell aggregate layer.
-- **132 concise per-model personality cards** collapsed from those profiles.
-- **131 layered per-model values-probe summaries** plus aggregate tables,
-  covering 23,026 valid values samples across 192 cells.
+- **BV1 per-sample freeflow personality/vibe readings** produced with
+  `deepseek/deepseek-v4-pro`; manifests and QA live under
+  `analysis/freeflow/personality-eval-bv1/`.
+- **Rich per-model freeflow personality profiles** preserving evidence from
+  the per-cell aggregate layer; current counts are in the profile index.
+- **Concise per-model personality cards** collapsed from those profiles;
+  the card index records their current coverage.
+- **157 layered per-model values-probe summaries** plus aggregate tables,
+  covering 26,746 valid values samples across 223 cells. Current source
+  coverage and QA are in `analysis/values-probe/final/data/QA.md`.
 - Freeflow taxonomy tables, model-cell/provider difference reports, and method
   calibration/audit notes.
 - Website-bundled raw sample copies for browsing/audit under

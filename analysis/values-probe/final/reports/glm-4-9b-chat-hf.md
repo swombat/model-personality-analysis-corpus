@@ -1,8 +1,8 @@
-# Values probe final report — glm-4-9b-chat
+# Values probe final report — glm-4-9b-chat-hf
 
 Samples: **120** across **1** cell(s).
 
-One-line: glm-4-9b-chat: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
+One-line: glm-4-9b-chat-hf: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).
 
 ## Cells
 

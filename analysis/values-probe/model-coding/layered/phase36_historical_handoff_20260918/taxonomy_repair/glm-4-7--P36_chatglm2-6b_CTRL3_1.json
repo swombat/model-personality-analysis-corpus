@@ -1,0 +1,96 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_CTRL3_1",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "Ending poverty and inequality"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "Promoting environmental sustainability"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "Advocating for human rights"
+      },
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "Supporting education and access to information"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Improving healthcare and access to medical resources"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "Addressing climate change and environmental degradation"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_world_change_wish",
+        "evidence_span": "As an AI language model, I don't have personal desires or beliefs",
+        "reason": "negated/quoted/rejected/prompt_echo"
+      }
+    ],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "glm-4-7",
+    "coder_model": "z-ai/glm-4.7",
+    "coded_at": "2026-09-18T14:08:17.793648+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_1\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"Ending poverty and inequality\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Promoting environmental sustainability\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"Advocating for human rights\"\n    },\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"Supporting education and access to information\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Improving healthcare and access to medical resources\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Addressing climate change and environmental degradation\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal desires or beliefs\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740478-iT5u1qnZuiZgb4X199F8",
+    "object": "chat.completion",
+    "created": 1789740478,
+    "model": "z-ai/glm-4.7",
+    "provider": "Z.AI",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_1\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"Ending poverty and inequality\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Promoting environmental sustainability\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"Advocating for human rights\"\n    },\n    {\n      \"topic_key\": \"education_critical_thinking\",\n      \"evidence_span\": \"Supporting education and access to information\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Improving healthcare and access to medical resources\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"Addressing climate change and environmental degradation\"\n    }\n  ],\n  \"non_endorsed_mentions\": [\n    {\n      \"topic_key\": \"other_world_change_wish\",\n      \"evidence_span\": \"As an AI language model, I don't have personal desires or beliefs\",\n      \"reason\": \"negated/quoted/rejected/prompt_echo\"\n    }\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 719,
+      "completion_tokens": 275,
+      "total_tokens": 994,
+      "cost": 0.0010364,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0010364,
+        "upstream_inference_prompt_cost": 0.0004314,
+        "upstream_inference_completions_cost": 0.000605
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

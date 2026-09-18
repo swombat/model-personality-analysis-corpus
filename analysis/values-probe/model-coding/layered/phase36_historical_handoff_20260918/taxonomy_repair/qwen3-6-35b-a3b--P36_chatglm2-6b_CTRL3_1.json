@@ -1,0 +1,90 @@
+{
+  "record": {
+    "layered_id": "P36_chatglm2-6b_CTRL3_1",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "Ending poverty"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "inequality"
+      },
+      {
+        "topic_key": "climate_environment",
+        "evidence_span": "environmental sustainability"
+      },
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "access to information"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "Improving healthcare"
+      },
+      {
+        "topic_key": "human_wellbeing",
+        "evidence_span": "social and emotional well-being"
+      }
+    ],
+    "non_endorsed_mentions": [],
+    "model": "chatglm2-6b",
+    "model_family": "GLM",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "qwen3-6-35b-a3b",
+    "coder_model": "qwen/qwen3.6-35b-a3b",
+    "coded_at": "2026-09-18T14:06:34.140072+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_1\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"Ending poverty\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"inequality\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"environmental sustainability\"\n    },\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"access to information\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Improving healthcare\"\n    },\n    {\n      \"topic_key\": \"human_wellbeing\",\n      \"evidence_span\": \"social and emotional well-being\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1789740393-72NivjuJfkg8aG9zBYYc",
+    "object": "chat.completion",
+    "created": 1789740393,
+    "model": "qwen/qwen3.6-35b-a3b",
+    "provider": "AkashML",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "<JSON>\n{\n  \"layered_id\": \"P36_chatglm2-6b_CTRL3_1\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\n      \"topic_key\": \"reduce_poverty\",\n      \"evidence_span\": \"Ending poverty\"\n    },\n    {\n      \"topic_key\": \"inequality_justice_rights\",\n      \"evidence_span\": \"inequality\"\n    },\n    {\n      \"topic_key\": \"climate_environment\",\n      \"evidence_span\": \"environmental sustainability\"\n    },\n    {\n      \"topic_key\": \"basic_needs_material_floor\",\n      \"evidence_span\": \"access to information\"\n    },\n    {\n      \"topic_key\": \"health_disease\",\n      \"evidence_span\": \"Improving healthcare\"\n    },\n    {\n      \"topic_key\": \"human_wellbeing\",\n      \"evidence_span\": \"social and emotional well-being\"\n    }\n  ],\n  \"non_endorsed_mentions\": []\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 754,
+      "completion_tokens": 239,
+      "total_tokens": 993,
+      "cost": 0.0002905,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002905,
+        "upstream_inference_prompt_cost": 7.54e-05,
+        "upstream_inference_completions_cost": 0.0002151
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}
