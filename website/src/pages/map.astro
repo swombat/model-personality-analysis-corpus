@@ -87,6 +87,17 @@ const pct = (x) => Math.round(x * 100);
       <li><b>MDS</b> 2D {pct(p.mds2.knn3)}% · 3D {pct(p.mds3.knn3)}% — approximates global distances; relative distance error {p.mds2.distance_error.toFixed(3)} / {p.mds3.distance_error.toFixed(3)}</li>
       <li><b>PCA</b> 2D {pct(p.pca2.knn3)}% · 3D {pct(p.pca3.knn3)}% — linear projection of unit-normalised centroids; explains {pct(p.pca2.variance)}% / {pct(p.pca3.variance)}% of their feature variance, not of pairwise distances</li>
     </ul>
+    <h3>What the matrix has got right</h3>
+    <p>Three checks against facts established outside this corpus, all on the full-space cosine similarity that the map projects:</p>
+    <ul class="metrics">
+      <li><b>Ox Alpha ↔ GLM-5.3-Flash: 0.959.</b> Ox Alpha was measured as an anonymous stealth route (20–26 Aug 2026); Z.ai later confirmed it was GLM-5.3-Flash.
+        The two Ox Alpha snapshots score 0.967 against each other, so ~0.96–0.97 is what <em>the same weights</em> look like on this scale.</li>
+      <li><b>GPT-5.5 ↔ GPT-5.5 Pro: 0.981.</b> Same weights, different reasoning mode — the tightest pair in the corpus, while their values-probe ownership differs sixfold. Reasoning mode moves what a model will own, not how it writes.</li>
+      <li><b>Union Alpha ↔ GPT-6 Astra: 0.976.</b> Union Alpha was measured as an anonymous stealth route (16–17 Sep 2026) and this matrix placed it nearest Astra of all {n} models —
+        above the same-weights line — before the route was <a href="https://danieltenner.com/union-alpha-appears-to-be-from-openai/">reported to be a cascade router with GPT-6 Astra as its escalation model</a>.
+        Per sample, 88 of 125 freeflow and 85 of 120 values answers sit nearest Astra; Astra's own nearest neighbour is now <a href={`${base}models/union-alpha/`}>Union Alpha</a>.</li>
+    </ul>
+    <p>So a similarity above ~0.95 has, three times out of three, meant the same weights behind the text. Below that the scale is comparative, not diagnostic.</p>
     <p>
       Relative distance error is the root-sum-squared pairwise residual divided by the root-sum-squared original distances,
       after fitting one uniform scale. Lower is better. It complements neighbour retention, rather than making MDS lossless.
