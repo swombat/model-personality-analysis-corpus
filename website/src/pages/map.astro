@@ -98,6 +98,12 @@ const pct = (x) => Math.round(x * 100);
         Per sample, 88 of 125 freeflow and 85 of 120 values answers sit nearest Astra; Astra's own nearest neighbour is now <a href={`${base}models/union-alpha/`}>Union Alpha</a>.</li>
     </ul>
     <p>So a similarity above ~0.95 has, three times out of three, meant the same weights behind the text. Below that the scale is comparative, not diagnostic.</p>
+    <h3>Stability between releases</h3>
+    <p>
+      Each release's layouts are aligned to the previous release's coordinates (an orthogonal Procrustes fit — rotation, reflection and one uniform scale, never a distortion), and UMAP starts from the previous layout rather than a random one.
+      Measured by removing one model and regenerating: PCA then moves the others by under 1% of the map's width, MDS by 1–3% (keeping 90% of on-map neighbours in 3D), UMAP by about 7% while still rearranging roughly a quarter of its on-map neighbourhoods — the optimiser, not the orientation.
+      For a picture that holds still from month to month, use PCA or 3D MDS; for the best neighbourhoods on any given day, UMAP.
+    </p>
     <p>
       Relative distance error is the root-sum-squared pairwise residual divided by the root-sum-squared original distances,
       after fitting one uniform scale. Lower is better. It complements neighbour retention, rather than making MDS lossless.

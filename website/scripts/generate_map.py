@@ -23,6 +23,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.manifold import MDS
 from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
 from sklearn.preprocessing import normalize
+from scipy.linalg import orthogonal_procrustes
 
 WEBSITE = Path(__file__).resolve().parents[1]
 SAMPLES = WEBSITE / 'public/data/samples'
@@ -48,6 +49,59 @@ def normalise_projection(x: np.ndarray) -> np.ndarray:
     x = x - x.mean(axis=0)
     scale = np.abs(x).max() or 1.0
     return np.round(x / scale, PRECISION)
+
+
+def load_previous_coords() -> tuple[dict, str | None]:
+    """Previous release's per-projection coordinates, used only to keep the map's orientation stable."""
+    if not OUT.exists():
+        return {}, None
+    try:
+        previous = json.loads(OUT.read_text())
+    except json.JSONDecodeError:
+        return {}, None
+    coords = {}
+    for m in previous.get('models', []):
+        for key, xy in (m.get('coords') or {}).items():
+            coords.setdefault(key, {})[m['model']] = np.asarray(xy, dtype=np.float64)
+    return coords, (previous.get('generated_from') or {}).get('repository_base_revision')
+
+
+def align_to_previous(x: np.ndarray, models: list[str], previous: dict, min_common: int = 8) -> tuple[np.ndarray, dict | None]:
+    """Rotate/reflect/scale/translate x so models present last release land where they were.
+
+    Orthogonal Procrustes on the common models; applied to every row. It never
+    distorts the layout (no shear, no per-axis scaling) - it only removes the
+    arbitrary orientation that MDS and UMAP are free to choose on each run.
+    """
+    common = [i for i, m in enumerate(models) if m in previous]
+    if len(common) < min_common:
+        return x, None
+    a = x[common]
+    b = np.vstack([previous[models[i]] for i in common])
+    mean_a, mean_b = a.mean(axis=0), b.mean(axis=0)
+    a0, b0 = a - mean_a, b - mean_b
+    rotation, _ = orthogonal_procrustes(a0, b0)
+    scale = float(np.sum(b0 * (a0 @ rotation)) / max(np.sum(a0 * a0), 1e-12))
+    aligned = scale * (x - mean_a) @ rotation + mean_b
+    residual = aligned[common] - b
+    disparity = float(np.sum(residual ** 2) / max(np.sum(b0 ** 2), 1e-12))
+    return aligned, {'common_models': len(common), 'disparity': round(disparity, 4)}
+
+
+def umap_init_from_previous(models: list[str], previous: dict, similarity: np.ndarray, dimensions: int):
+    """Start UMAP from last release's layout; new models start at the mean of their nearest previous neighbours."""
+    known = [i for i, m in enumerate(models) if m in previous]
+    if len(known) < max(8, len(models) // 2):
+        return 'spectral'
+    init = np.zeros((len(models), dimensions))
+    known_set = set(known)
+    for i, m in enumerate(models):
+        if i in known_set:
+            init[i] = previous[m][:dimensions]
+        else:
+            order = [j for j in np.argsort(-similarity[i]) if j != i and j in known_set][:5]
+            init[i] = np.mean([previous[models[j]][:dimensions] for j in order], axis=0)
+    return init
 
 
 def projection_quality(distances: np.ndarray, x: np.ndarray, k: int = K) -> dict:
@@ -122,6 +176,7 @@ def main() -> None:
     np.fill_diagonal(similarity, 1)
     distances = np.maximum(1 - similarity, 0)
 
+    previous_coords, previous_revision = load_previous_coords()
     projections = {}
     pca = PCA(n_components=3, svd_solver='full').fit(centroids)
     coordinates = pca.transform(centroids)
@@ -132,8 +187,15 @@ def main() -> None:
             n_init=4, normalized_stress='auto').fit_transform(distances)
         projections[f'umap{dimensions}'] = umap.UMAP(
             n_components=dimensions, metric='precomputed', random_state=SEED,
-            n_neighbors=8, min_dist=0.15, n_jobs=1).fit_transform(distances)
+            n_neighbors=8, min_dist=0.15, n_jobs=1,
+            init=umap_init_from_previous(models, previous_coords.get(f'umap{dimensions}', {}), similarity, dimensions)
+        ).fit_transform(distances)
+    # Stability across releases: orient every projection to last release's layout.
+    alignment = {}
+    for key in list(projections):
+        projections[key], alignment[key] = align_to_previous(projections[key], models, previous_coords.get(key, {}))
     projections = {key: normalise_projection(x) for key, x in projections.items()}
+    print('alignment to previous release:', alignment, file=sys.stderr, flush=True)
     quality = {key: projection_quality(distances, x) for key, x in projections.items()}
     print('3-NN preservation:', {key: round(q['knn3'], 3) for key, q in quality.items()}, file=sys.stderr, flush=True)
     neighbours = nearest_indices(distances, 6)
@@ -169,6 +231,8 @@ def main() -> None:
             'input_sha256': fingerprint.hexdigest(),
             'generator_sha256': hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),
             'repository_base_revision': revision,
+            'alignment': {'reference_revision': previous_revision, 'method': 'orthogonal Procrustes to previous coordinates; UMAP initialised from them',
+                          'projections': alignment},
             'versions': {p: importlib.metadata.version(p) for p in ['numpy', 'scikit-learn', 'scipy', 'umap-learn']},
             'parameters': {'tfidf': FEATURES, 'seed': SEED, 'precision': PRECISION,
                            'pca': {'normalise_centroids': True, 'svd_solver': 'full'},
