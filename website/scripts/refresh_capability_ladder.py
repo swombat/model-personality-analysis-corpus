@@ -7,7 +7,8 @@ chance-corrected score; missing cells are filled in with an item-response
 fit; rungs are never retired) over two different benchmark substrates:
 
 - ``aa`` (default): Artificial Analysis's own per-benchmark results
-  (public model pages), median-thinking-budget variant. 19 rungs, max 190.
+  (public model pages), median-thinking-budget variant. 22 rungs, max 220
+  (19/190 until 2026-09-22; see the site's methodology page for rung changes).
   This is the ladder the site displays.
 - ``epoch``: Epoch AI's Capabilities Index (CC BY 4.0), used as an
   independent cross-check that the fit lands rungs at the same

@@ -5,12 +5,13 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-09-22:** v1.4.15 adds six freeflow models — Xiaomi MiMo-V2.6
-> Flash / Pro / Pro-UltraSpeed, xAI Grok 4.7, Z.ai GLM-5.3-FlashX and
-> Qwen2.5-7B-Instruct — with straplines and banners, refreshes the capability
-> ladder, and extends the similarity map with layouts aligned to v1.4.14.
-> Values analyses for the six are in progress and not yet published. See
-> [`RELEASE_NOTES_v1.4.15.md`](RELEASE_NOTES_v1.4.15.md).
+> **Status — 2026-09-22:** v1.4.16 adds three capability-ladder rungs (AA-Briefcase,
+> AutomationBench, MLCR; max 190 → 220) after Grok 4.7 exposed rung-set drift, and
+> renumbers every score. v1.4.15 (same day) added six freeflow models — MiMo-V2.6
+> Flash / Pro / Pro-UltraSpeed, Grok 4.7, GLM-5.3-FlashX, Qwen2.5-7B-Instruct — whose
+> values analyses were integrated the same afternoon. See
+> [\`RELEASE_NOTES_v1.4.16.md\`](RELEASE_NOTES_v1.4.16.md) and
+> [\`RELEASE_NOTES_v1.4.15.md\`](RELEASE_NOTES_v1.4.15.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

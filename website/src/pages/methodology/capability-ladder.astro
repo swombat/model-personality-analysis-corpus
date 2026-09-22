@@ -5,7 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 const methodology = `# Capability ladder methodology
 
 Every model page shows one capability number: a **ladder score out of
-190**. This page explains what it is, whose measurements it rests on, and
+220**. This page explains what it is, whose measurements it rests on, and
 what it deliberately does not do.
 
 **Source and attribution.** The benchmark scores underneath this number
@@ -33,8 +33,66 @@ Rungs are never retired and never re-normalised. A new, harder benchmark
 becomes a new rung worth its own 10 points; points already earned on older
 rungs don't move. That's the property this design optimizes for: a 2023
 model and a 2026 model sit on the same ruler, and neither model's score
-changes when the frontier moves. The scale has no fixed ceiling — 19
-rungs today, for a maximum of **190**, growing by 10 with every new rung.
+changes when the frontier moves. The scale has no fixed ceiling — 22
+rungs today, for a maximum of **220**, growing by 10 with every new rung.
+
+## The rungs
+
+| rung (easiest → hardest by fitted difficulty) | chance floor | models measured | rung since |
+|---|---|---|---|
+| MMLU | 0.25 | 115 | 2026-09-05 |
+| HumanEval | 0 | 185 | 2026-09-05 |
+| MATH-500 | 0 | 197 | 2026-09-05 |
+| MMLU-Pro | 0.1 | 151 | 2026-09-05 |
+| AIME 2024 | 0 | 150 | 2026-09-05 |
+| GPQA Diamond | 0.25 | 672 | 2026-09-05 |
+| AIME 2025 | 0 | 271 | 2026-09-05 |
+| LiveCodeBench | 0 | 361 | 2026-09-05 |
+| τ²-Telecom | 0 | 446 | 2026-09-05 |
+| IFBench | 0 | 457 | 2026-09-05 |
+| AA-LCR | 0 | 558 | 2026-09-05 |
+| Terminal-Bench 2.1 | 0 | 238 | 2026-09-05 |
+| SciCode | 0 | 637 | 2026-09-05 |
+| Terminal-Bench Hard | 0 | 438 | 2026-09-05 |
+| Omniscience acc. | 0 | 526 | 2026-09-05 |
+| AutomationBench | 0 | 174 | 2026-09-22 |
+| HLE | 0.048 | 644 | 2026-09-05 |
+| AA-Briefcase (rubric pass) | 0 | 175 | 2026-09-22 |
+| τ³-Banking | 0 | 236 | 2026-09-05 |
+| MLCR | 0 | 88 | 2026-09-22 |
+| CritPt | 0 | 539 | 2026-09-05 |
+| GDP.pdf | 0 | 172 | 2026-09-05 |
+
+"Models measured" counts every Artificial Analysis row with a published
+result on that rung (all effort variants and providers), not only the
+models on this site. A rung with few measured models still has a fitted
+difficulty, but that difficulty is less certain.
+
+## When rungs are added
+
+A rung is added when Artificial Analysis starts publishing a new
+accuracy-shaped benchmark at frontier scale. Elo-style scores (GDPval,
+the AA-Briefcase Elo sub-metrics) and composite indices are not rungs:
+they have no chance floor and no ceiling, so they cannot be worth "10
+points times the score". Adding a rung raises every model's maximum by
+10 and re-runs the item-response fit, so every score moves a little; the
+site records each change here.
+
+- **2026-09-22 — three rungs added: AA-Briefcase (rubric pass-rate),
+  AutomationBench, MLCR** (19 → 22 rungs, max 190 → 220). Artificial
+  Analysis retired GPQA Diamond from its own index on 2026-09-04 and
+  stopped publishing Terminal-Bench 2.1 results for new models, while
+  these three had been live since Intelligence Index v4.2 and were being
+  ignored by the pipeline. Without them, every model released from
+  September 2026 onward would be *fitted* on the discriminating rungs
+  that older models were *measured* on. The case that exposed it: Grok
+  4.7 sat below Grok 4.6 (137.8 vs 139.4) on the old rung set despite
+  beating it on every benchmark the two shared and on Artificial
+  Analysis's own index; with the three rungs it sits above (155.7 vs
+  153.2), by a margin the fit cannot certify. Across the 139 scored
+  models on this site the change moved scores by a median of +3.0
+  points (range -2.2 to +17.9); 12 models moved five or more
+  rank places, and the top three are unchanged.
 
 ## Why this replaces the old Intelligence Index number
 

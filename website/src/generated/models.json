@@ -11,11 +11,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -79,12 +79,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 141.1,
-      "ladder_max": 190,
+      "ladder": 157.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Fable 5",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -172,12 +172,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 147.4,
-      "ladder_max": 190,
+      "ladder": 161.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Fable 5.1",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -265,12 +265,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 37.0,
-      "ladder_max": 190,
+      "ladder": 36.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 3 Haiku",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -360,12 +360,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 100.9,
-      "ladder_max": 190,
+      "ladder": 102.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4.5 Haiku",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 17,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -452,12 +452,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 48.0,
-      "ladder_max": 190,
+      "ladder": 48.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 3 Opus",
       "measured_rungs": 7,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -536,12 +536,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 98.1,
-      "ladder_max": 190,
+      "ladder": 99.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4 Opus",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -626,12 +626,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 105.6,
-      "ladder_max": 190,
+      "ladder": 108.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4.1 Opus",
       "measured_rungs": 10,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -719,12 +719,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.5,
-      "ladder_max": 190,
+      "ladder": 131.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.5",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -812,12 +812,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 128.7,
-      "ladder_max": 190,
+      "ladder": 136.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.6",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -905,12 +905,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.1,
-      "ladder_max": 190,
+      "ladder": 141.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.7",
-      "measured_rungs": 11,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -997,12 +997,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 135.8,
-      "ladder_max": 190,
+      "ladder": 148.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.8",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1089,12 +1089,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 144.8,
-      "ladder_max": 190,
+      "ladder": 160.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 5",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1181,12 +1181,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 102.6,
-      "ladder_max": 190,
+      "ladder": 103.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4 Sonnet",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1274,12 +1274,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 113.2,
-      "ladder_max": 190,
+      "ladder": 115.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4.5 Sonnet",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1367,12 +1367,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.5,
-      "ladder_max": 190,
+      "ladder": 132.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Sonnet 4.6",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1461,12 +1461,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 131.8,
-      "ladder_max": 190,
+      "ladder": 138.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Sonnet 5",
-      "measured_rungs": 6,
-      "n_rungs": 19,
+      "measured_rungs": 8,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1553,12 +1553,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 64.8,
-      "ladder_max": 190,
+      "ladder": 65.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V3 (Dec '24)",
-      "measured_rungs": 17,
-      "n_rungs": 19,
+      "measured_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1646,12 +1646,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 116.3,
-      "ladder_max": 190,
+      "ladder": 119.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V3.2",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1741,12 +1741,12 @@
       "index_version": "4.3"
     },
     "capability": {
-      "ladder": 136.0,
-      "ladder_max": 190,
+      "ladder": 150.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4.1 Flash",
-      "measured_rungs": 6,
-      "n_rungs": 19,
+      "measured_rungs": 9,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1822,12 +1822,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.3,
-      "ladder_max": 190,
+      "ladder": 136.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Flash 0731",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -1915,12 +1915,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 128.4,
-      "ladder_max": 190,
+      "ladder": 134.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Pro 0424",
       "measured_rungs": 10,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2010,12 +2010,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.3,
-      "ladder_max": 190,
+      "ladder": 140.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Pro 0813",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2104,12 +2104,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 63.9,
-      "ladder_max": 190,
+      "ladder": 65.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.0 Flash (Feb '25)",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2180,12 +2180,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.0,
-      "ladder_max": 190,
+      "ladder": 55.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.0 Flash-Lite (Feb '25)",
       "measured_rungs": 8,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2257,12 +2257,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 91.9,
-      "ladder_max": 190,
+      "ladder": 95.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Flash",
-      "measured_rungs": 15,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2346,12 +2346,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 76.3,
-      "ladder_max": 190,
+      "ladder": 78.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Flash-Lite",
-      "measured_rungs": 15,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2439,12 +2439,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 104.9,
-      "ladder_max": 190,
+      "ladder": 108.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Pro Preview (Mar' 25)",
       "measured_rungs": 8,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2533,11 +2533,11 @@
     },
     "capability": {
       "ladder": 105.4,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.1 Flash-Lite",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2624,12 +2624,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.0,
-      "ladder_max": 190,
+      "ladder": 141.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.1 Pro Preview",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2717,12 +2717,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.2,
-      "ladder_max": 190,
+      "ladder": 139.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.5 Flash",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 10,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2811,12 +2811,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 118.6,
-      "ladder_max": 190,
+      "ladder": 122.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.5 Flash-Lite",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2904,12 +2904,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 135.6,
-      "ladder_max": 190,
+      "ladder": 143.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.6 Flash",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -2997,12 +2997,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 137.7,
-      "ladder_max": 190,
+      "ladder": 147.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.7 Flash",
       "measured_rungs": 8,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3090,12 +3090,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 140.7,
-      "ladder_max": 190,
+      "ladder": 153.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.8 Flash",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3183,12 +3183,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 127.1,
-      "ladder_max": 190,
+      "ladder": 133.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3 Flash Preview",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 13,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3276,12 +3276,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 102.6,
-      "ladder_max": 190,
+      "ladder": 101.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemma 4 26B A4B",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3369,12 +3369,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 112.5,
-      "ladder_max": 190,
+      "ladder": 112.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemma 4 31B",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3458,11 +3458,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -3536,12 +3536,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 45.6,
-      "ladder_max": 190,
+      "ladder": 45.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.1 Instruct 70B",
       "measured_rungs": 16,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3616,12 +3616,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 32.9,
-      "ladder_max": 190,
+      "ladder": 33.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.1 Instruct 8B",
       "measured_rungs": 18,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3711,12 +3711,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 32.3,
-      "ladder_max": 190,
+      "ladder": 32.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.2 Instruct 11B (Vision)",
       "measured_rungs": 16,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3796,11 +3796,11 @@
     },
     "capability": {
       "ladder": 11.1,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.2 Instruct 1B",
       "measured_rungs": 16,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3876,12 +3876,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 25.9,
-      "ladder_max": 190,
+      "ladder": 25.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.2 Instruct 3B",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -3966,12 +3966,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.2,
-      "ladder_max": 190,
+      "ladder": 55.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.3 Instruct 70B",
       "measured_rungs": 18,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4060,12 +4060,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 67.5,
-      "ladder_max": 190,
+      "ladder": 68.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 4 Maverick",
-      "measured_rungs": 18,
-      "n_rungs": 19,
+      "measured_rungs": 21,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4140,12 +4140,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.5,
-      "ladder_max": 190,
+      "ladder": 56.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 4 Scout",
-      "measured_rungs": 18,
-      "n_rungs": 19,
+      "measured_rungs": 20,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4235,12 +4235,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 120.9,
-      "ladder_max": 190,
+      "ladder": 121.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Glimmer",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4327,12 +4327,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.9,
-      "ladder_max": 190,
+      "ladder": 140.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.1",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4421,12 +4421,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 137.8,
-      "ladder_max": 190,
+      "ladder": 148.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.2",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4514,12 +4514,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 143.3,
-      "ladder_max": 190,
+      "ladder": 156.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.3",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4606,12 +4606,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 108.6,
-      "ladder_max": 190,
+      "ladder": 111.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M2",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4700,12 +4700,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 119.3,
-      "ladder_max": 190,
+      "ladder": 120.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M2.7",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4794,12 +4794,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.4,
-      "ladder_max": 190,
+      "ladder": 129.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M3",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -4884,11 +4884,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -4964,12 +4964,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 73.8,
-      "ladder_max": 190,
+      "ladder": 75.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Devstral 2",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5057,12 +5057,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 61.6,
-      "ladder_max": 190,
+      "ladder": 62.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 14B",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5143,12 +5143,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 45.4,
-      "ladder_max": 190,
+      "ladder": 46.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 3B",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5224,12 +5224,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 56.4,
-      "ladder_max": 190,
+      "ladder": 57.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 8B",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5314,11 +5314,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": 11.1,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral 7B Instruct",
       "measured_rungs": 14,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5382,12 +5382,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 74.0,
-      "ladder_max": 190,
+      "ladder": 74.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Large 3",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5471,12 +5471,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 64.7,
-      "ladder_max": 190,
+      "ladder": 66.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3",
       "measured_rungs": 15,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5551,12 +5551,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 71.3,
-      "ladder_max": 190,
+      "ladder": 72.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3.1",
-      "measured_rungs": 14,
-      "n_rungs": 19,
+      "measured_rungs": 16,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5643,12 +5643,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 112.9,
-      "ladder_max": 190,
+      "ladder": 114.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3.5",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5732,11 +5732,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -5812,12 +5812,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 45.0,
-      "ladder_max": 190,
+      "ladder": 44.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Saba",
       "measured_rungs": 7,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5907,11 +5907,11 @@
     },
     "capability": {
       "ladder": 44.4,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -5988,12 +5988,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 92.0,
-      "ladder_max": 190,
+      "ladder": 89.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 4",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6083,12 +6083,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 51.0,
-      "ladder_max": 190,
+      "ladder": 52.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3.1",
-      "measured_rungs": 18,
-      "n_rungs": 19,
+      "measured_rungs": 20,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6164,12 +6164,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 57.8,
-      "ladder_max": 190,
+      "ladder": 58.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3.2",
-      "measured_rungs": 18,
-      "n_rungs": 19,
+      "measured_rungs": 20,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6246,12 +6246,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 35.3,
-      "ladder_max": 190,
+      "ladder": 34.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mixtral 8x22B Instruct",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6334,12 +6334,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 120.4,
-      "ladder_max": 190,
+      "ladder": 123.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.5",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6416,12 +6416,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 93.1,
-      "ladder_max": 190,
+      "ladder": 94.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2 0905",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6510,12 +6510,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 120.4,
-      "ladder_max": 190,
+      "ladder": 123.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.5",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6603,12 +6603,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 128.2,
-      "ladder_max": 190,
+      "ladder": 132.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.6",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6696,12 +6696,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.1,
-      "ladder_max": 190,
+      "ladder": 130.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.7 Code",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6789,12 +6789,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 117.9,
-      "ladder_max": 190,
+      "ladder": 122.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2 Thinking",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6883,12 +6883,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.6,
-      "ladder_max": 190,
+      "ladder": 141.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K3",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "low",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -6979,12 +6979,12 @@
       "index_version": "pre-4.1.1 (exact version not recorded)"
     },
     "capability": {
-      "ladder": 29.1,
-      "ladder_max": 190,
+      "ladder": 27.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-3.5 Turbo",
       "measured_rungs": 5,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7072,12 +7072,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 49.4,
-      "ladder_max": 190,
+      "ladder": 48.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4",
       "measured_rungs": 5,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7153,12 +7153,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 80.7,
-      "ladder_max": 190,
+      "ladder": 81.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7246,12 +7246,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 80.1,
-      "ladder_max": 190,
+      "ladder": 79.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1 mini",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7339,12 +7339,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.0,
-      "ladder_max": 190,
+      "ladder": 55.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1 nano",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7419,12 +7419,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 52.7,
-      "ladder_max": 190,
+      "ladder": 52.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4 Turbo",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7500,12 +7500,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 59.6,
-      "ladder_max": 190,
+      "ladder": 59.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4o (May '24)",
       "measured_rungs": 7,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7585,12 +7585,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 48.2,
-      "ladder_max": 190,
+      "ladder": 47.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4o mini",
-      "measured_rungs": 11,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7665,12 +7665,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 118.1,
-      "ladder_max": 190,
+      "ladder": 122.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7745,12 +7745,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 121.3,
-      "ladder_max": 190,
+      "ladder": 125.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7825,12 +7825,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 119.5,
-      "ladder_max": 190,
+      "ladder": 124.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1 Codex",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -7921,11 +7921,11 @@
     },
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -8001,12 +8001,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 110.2,
-      "ladder_max": 190,
+      "ladder": 112.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1 Codex mini",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8093,12 +8093,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 120.4,
-      "ladder_max": 190,
+      "ladder": 125.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.2",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8173,12 +8173,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.3,
-      "ladder_max": 190,
+      "ladder": 136.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.2 Codex",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8248,11 +8248,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -8337,12 +8337,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 135.1,
-      "ladder_max": 190,
+      "ladder": 141.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.3 Codex",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 10,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8430,12 +8430,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 123.8,
-      "ladder_max": 190,
+      "ladder": 129.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "low",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8524,12 +8524,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 106.7,
-      "ladder_max": 190,
+      "ladder": 107.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4 mini",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8605,12 +8605,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 104.2,
-      "ladder_max": 190,
+      "ladder": 104.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4 nano",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8690,12 +8690,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.2,
-      "ladder_max": 190,
+      "ladder": 143.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.5",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8779,11 +8779,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -8872,12 +8872,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.8,
-      "ladder_max": 190,
+      "ladder": 136.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Luna",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -8958,12 +8958,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.9,
-      "ladder_max": 190,
+      "ladder": 149.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Sol",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9052,12 +9052,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 131.3,
-      "ladder_max": 190,
+      "ladder": 138.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Terra",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9137,12 +9137,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 121.7,
-      "ladder_max": 190,
+      "ladder": 126.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 Codex",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9228,12 +9228,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 107.8,
-      "ladder_max": 190,
+      "ladder": 110.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 mini",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9309,12 +9309,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 89.9,
-      "ladder_max": 190,
+      "ladder": 90.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 nano",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9390,12 +9390,12 @@
       "index_version": "4.2"
     },
     "capability": {
-      "ladder": 146.3,
-      "ladder_max": 190,
+      "ladder": 161.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-6 Astra",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9484,12 +9484,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 87.2,
-      "ladder_max": 190,
+      "ladder": 86.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "gpt-oss-120b",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "low",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9565,12 +9565,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 83.5,
-      "ladder_max": 190,
+      "ladder": 83.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "gpt-oss-20b",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "low",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9641,12 +9641,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 98.1,
-      "ladder_max": 190,
+      "ladder": 99.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "o1",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9716,12 +9716,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 114.4,
-      "ladder_max": 190,
+      "ladder": 119.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "o3",
       "measured_rungs": 15,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9792,12 +9792,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 88.8,
-      "ladder_max": 190,
+      "ladder": 88.9,
+      "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "o3-mini",
-      "measured_rungs": 16,
-      "n_rungs": 19,
+      "measured_rungs": 18,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9877,12 +9877,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 103.3,
-      "ladder_max": 190,
+      "ladder": 106.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "o4-mini",
       "measured_rungs": 15,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -9953,11 +9953,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -10017,11 +10017,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -10069,11 +10069,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -10132,12 +10132,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 102.5,
-      "ladder_max": 190,
+      "ladder": 102.4,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.5 35B A3B",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "non-reasoning",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10217,11 +10217,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -10291,12 +10291,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 113.5,
-      "ladder_max": 190,
+      "ladder": 114.2,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.6 35B A3B",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10371,12 +10371,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 126.9,
-      "ladder_max": 190,
+      "ladder": 133.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.6 Max Preview",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10450,12 +10450,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.9,
-      "ladder_max": 190,
+      "ladder": 126.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.6 Plus",
-      "measured_rungs": 11,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10525,11 +10525,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -10604,12 +10604,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 128.9,
-      "ladder_max": 190,
+      "ladder": 134.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.7 Max",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10697,12 +10697,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.3,
-      "ladder_max": 190,
+      "ladder": 147.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.8 2.4T A95B",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10792,12 +10792,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.8,
-      "ladder_max": 190,
+      "ladder": 149.0,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.8 Max (0902)",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10887,12 +10887,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 64.2,
-      "ladder_max": 190,
+      "ladder": 65.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Coder 30B A3B Instruct",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -10982,12 +10982,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 78.1,
-      "ladder_max": 190,
+      "ladder": 78.9,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Coder 480B A35B Instruct",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11074,12 +11074,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 99.8,
-      "ladder_max": 190,
+      "ladder": 101.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Max",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11153,12 +11153,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 116.9,
-      "ladder_max": 190,
+      "ladder": 119.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Max Thinking",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11234,12 +11234,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.7,
-      "ladder_max": 190,
+      "ladder": 123.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Inkling",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "xhigh",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11327,12 +11327,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.8,
-      "ladder_max": 190,
+      "ladder": 125.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Inkling Small",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11415,11 +11415,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -11500,11 +11500,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -11664,11 +11664,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -11751,12 +11751,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 143.2,
-      "ladder_max": 190,
+      "ladder": 158.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiMo-V2.6-Pro",
-      "measured_rungs": 5,
-      "n_rungs": 19,
+      "measured_rungs": 7,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -11840,11 +11840,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -11928,11 +11928,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -11990,11 +11990,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -12063,12 +12063,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 93.9,
-      "ladder_max": 190,
+      "ladder": 94.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-4.5",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12156,12 +12156,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 104.1,
-      "ladder_max": 190,
+      "ladder": 105.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-4.6",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12249,12 +12249,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 117.3,
-      "ladder_max": 190,
+      "ladder": 120.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-4.7",
       "measured_rungs": 13,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12338,11 +12338,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -12406,12 +12406,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 121.7,
-      "ladder_max": 190,
+      "ladder": 125.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.1",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 14,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12501,12 +12501,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 131.4,
-      "ladder_max": 190,
+      "ladder": 137.6,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.2",
-      "measured_rungs": 12,
-      "n_rungs": 19,
+      "measured_rungs": 15,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12594,12 +12594,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.6,
-      "ladder_max": 190,
+      "ladder": 154.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.3",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12688,12 +12688,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.1,
-      "ladder_max": 190,
+      "ladder": 151.3,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM 5.3 Flash",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "max",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12777,11 +12777,11 @@
     "benchmarks": null,
     "capability": {
       "ladder": null,
-      "ladder_max": 190,
+      "ladder_max": 220,
       "match_confidence": "none",
       "matched_model": null,
       "measured_rungs": 0,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
@@ -12869,12 +12869,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 76.2,
-      "ladder_max": 190,
+      "ladder": 77.8,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 3",
       "measured_rungs": 15,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -12959,12 +12959,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 117.0,
-      "ladder_max": 190,
+      "ladder": 121.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13046,12 +13046,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 113.1,
-      "ladder_max": 190,
+      "ladder": 116.5,
+      "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.1 Fast",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13128,12 +13128,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 113.1,
-      "ladder_max": 190,
+      "ladder": 116.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.1 Fast",
       "measured_rungs": 11,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13210,12 +13210,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.0,
-      "ladder_max": 190,
+      "ladder": 128.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.20 0309 v2",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13303,12 +13303,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.4,
-      "ladder_max": 190,
+      "ladder": 129.5,
+      "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.20 0309",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13385,12 +13385,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.4,
-      "ladder_max": 190,
+      "ladder": 129.5,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.20 0309",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "reasoning-default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13468,12 +13468,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.6,
-      "ladder_max": 190,
+      "ladder": 126.1,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.3",
       "measured_rungs": 9,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13562,12 +13562,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.3,
-      "ladder_max": 190,
+      "ladder": 145.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.5",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 12,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13656,12 +13656,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 139.4,
-      "ladder_max": 190,
+      "ladder": 153.2,
+      "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.6",
-      "measured_rungs": 9,
-      "n_rungs": 19,
+      "measured_rungs": 11,
+      "n_rungs": 22,
       "point_variant": "medium",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13744,12 +13744,12 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 137.8,
-      "ladder_max": 190,
+      "ladder": 155.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.7",
-      "measured_rungs": 5,
-      "n_rungs": 19,
+      "measured_rungs": 7,
+      "n_rungs": 22,
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
@@ -13838,12 +13838,12 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.4,
-      "ladder_max": 190,
+      "ladder": 127.7,
+      "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok Build 0.1 0616",
       "measured_rungs": 8,
-      "n_rungs": 19,
+      "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
