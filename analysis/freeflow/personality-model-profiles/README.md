@@ -176,3 +176,7 @@ Relationship to adjacent folders:
 - [mimo-v2-6-flash](profiles/mimo-v2-6-flash.md) — samples: 125
 - [glm-5-3-flashx](profiles/glm-5-3-flashx.md) — samples: 125
 - [mimo-v2-6-pro](profiles/mimo-v2-6-pro.md) — samples: 125
+- [mimo-v2-5](profiles/mimo-v2-5.md) — samples: 125
+- [gpt-6-sol](profiles/gpt-6-sol.md) — samples: 125
+- [gpt-6-luna](profiles/gpt-6-luna.md) — samples: 125
+- [claude-opus-5-5](profiles/claude-opus-5-5.md) — samples: 125

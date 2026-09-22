@@ -158,3 +158,7 @@ mimo-v2-6-flash	mimo-v2.6-flash	2026-09-21		none		none	2026-09-22: no AA or Epoc
 mimo-v2-6-pro	mimo-v2.6-pro	2026-09-21		none	mimo-v2-6-pro	exact	2026-09-22: exact AA base-slug match; five measured rungs on day two. No Epoch entry yet.
 mimo-v2-6-pro-ultraspeed	mimo-v2.6-pro-ultraspeed	2026-09-21		none		none	2026-09-22: no AA or Epoch entry. UltraSpeed is a faster serving of MiMo-V2.6-Pro; do NOT borrow the Pro score until AA measures this endpoint.
 qwen2-5-7b-instruct	qwen2.5-7b-instruct	2024-09-19		none		none	2026-09-22: local Transformers/MPS cell of the official checkpoint. AA has no Qwen2.5 7B row; Epoch not checked for a 2024 7B instruct model.
+opus-5-5	claude-opus-5.5	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (check next capture for claude-opus-5-5).
+gpt-6-luna	gpt-6-luna	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (AA has gpt-5-6-luna only).
+gpt-6-sol	gpt-6-sol	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (AA has gpt-5-6-sol only).
+mimo-v2-5	mimo-v2.5	2026-04-22		none	mimo-v2-5-0424	exact	2026-09-22: AA base slug carries the 0424 date suffix; 14 measured rungs.

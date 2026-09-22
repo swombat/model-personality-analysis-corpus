@@ -5,13 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-09-22:** v1.4.16 adds three capability-ladder rungs (AA-Briefcase,
-> AutomationBench, MLCR; max 190 → 220) after Grok 4.7 exposed rung-set drift, and
-> renumbers every score. v1.4.15 (same day) added six freeflow models — MiMo-V2.6
-> Flash / Pro / Pro-UltraSpeed, Grok 4.7, GLM-5.3-FlashX, Qwen2.5-7B-Instruct — whose
-> values analyses were integrated the same afternoon. See
-> [\`RELEASE_NOTES_v1.4.16.md\`](RELEASE_NOTES_v1.4.16.md) and
-> [\`RELEASE_NOTES_v1.4.15.md\`](RELEASE_NOTES_v1.4.15.md).
+> **Status — 2026-09-22 (evening):** v1.4.17 adds Claude Opus 5.5, GPT-6 Luna, GPT-6 Sol
+> and MiMo-V2.5 (freeflow + values), and fixes three sample-matching folds — one of
+> which had Grok 4 (0709) publishing Grok 4.2's samples. Earlier today: v1.4.16 added
+> three capability-ladder rungs (max 190 → 220); v1.4.15 added six freeflow models.
+> See [`RELEASE_NOTES_v1.4.17.md`](RELEASE_NOTES_v1.4.17.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

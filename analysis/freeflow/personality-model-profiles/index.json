@@ -144,6 +144,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/claude-opus-4.8.md"
   },
   {
+    "model": "claude-opus-5-5",
+    "safe": "claude-opus-5-5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 82,
+      "GENERIC_ESSAY": 23,
+      "GENRE_FICTION": 20
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/claude-opus-5-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/claude-opus-5-5.md"
+  },
+  {
     "model": "claude-sonnet-4.0",
     "safe": "claude-sonnet-4.0",
     "analysis_inputs": 1,
@@ -992,6 +1005,33 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-6-astra.md"
   },
   {
+    "model": "gpt-6-luna",
+    "safe": "gpt-6-luna",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 37,
+      "EXPRESSIVE_FREEFLOW": 60,
+      "GENERIC_ESSAY": 27,
+      "GENRIC_ESSAY": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-6-luna.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-6-luna.md"
+  },
+  {
+    "model": "gpt-6-sol",
+    "safe": "gpt-6-sol",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 49,
+      "GENERIC_ESSAY": 3,
+      "GENRE_FICTION": 73
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-6-sol.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-6-sol.md"
+  },
+  {
     "model": "gpt-oss-120b",
     "safe": "gpt-oss-120b",
     "analysis_inputs": 1,
@@ -1444,6 +1484,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/mercury-2-5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/mercury-2-5.md"
+  },
+  {
+    "model": "mimo-v2-5",
+    "safe": "mimo-v2-5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 80,
+      "GENERIC_ESSAY": 43,
+      "GENRE_FICTION": 2
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/mimo-v2-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-5.md"
   },
   {
     "model": "mimo-v2-6-flash",

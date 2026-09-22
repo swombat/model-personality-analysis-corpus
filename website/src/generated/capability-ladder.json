@@ -717,6 +717,28 @@
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
     },
+    "gpt-6-luna": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
+    },
+    "gpt-6-sol": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
+    },
     "gpt-oss-120b": {
       "ladder": 86.9,
       "ladder_max": 220,
@@ -1090,6 +1112,17 @@
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
+    },
+    "mimo-v2-5": {
+      "ladder": 119.8,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "MiMo-V2.5",
+      "measured_rungs": 14,
+      "n_rungs": 22,
+      "point_variant": "default",
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "scored"
     },
     "mimo-v2-6-flash": {
       "ladder": null,
@@ -1497,6 +1530,17 @@
       "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
+    },
+    "opus-5-5": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
     },
     "ox-alpha-260821": {
       "ladder": null,

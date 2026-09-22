@@ -65,6 +65,7 @@ MODEL_SLUGS = {
     "opus-4-7": "anthropic/claude-opus-4.7",
     "opus-4-8": "anthropic/claude-opus-4.8",
     "opus-5": "anthropic/claude-opus-5",
+    "opus-5-5": "anthropic/claude-opus-5.5",
     "sonnet-4-0": "anthropic/claude-sonnet-4",
     "sonnet-4-5": "anthropic/claude-sonnet-4.5",
     "sonnet-4-6": "anthropic/claude-sonnet-4.6",
@@ -98,6 +99,8 @@ MODEL_SLUGS = {
     "gpt-5-6-terra": "openai/gpt-5.6-terra",
     "gpt-5-6-luna": "openai/gpt-5.6-luna",
     "gpt-6-astra": "openai/gpt-6-astra",
+    "gpt-6-luna": "openai/gpt-6-luna",
+    "gpt-6-sol": "openai/gpt-6-sol",
     "gpt-5-4-mini": "openai/gpt-5.4-mini",
     "gpt-5-4-nano": "openai/gpt-5.4-nano",
     "gpt-5-1-codex-max": "openai/gpt-5.1-codex-max",
@@ -157,6 +160,7 @@ MODEL_SLUGS = {
     "glm-5-3": "z-ai/glm-5.3",
     "glm-5-3-flash": "z-ai/glm-5.3-flash",
     "glm-5-3-flashx": "z-ai/glm-5.3-flashx",
+    "mimo-v2-5": "xiaomi/mimo-v2.5",
     "mimo-v2-6-flash": "xiaomi/mimo-v2.6-flash",
     "mimo-v2-6-pro": "xiaomi/mimo-v2.6-pro",
     "mimo-v2-6-pro-ultraspeed": "xiaomi/mimo-v2.6-pro-ultraspeed",
@@ -236,6 +240,7 @@ FIRST_PARTY_API_PRICING = {
     "deepseek-v4-flash": (0.14, 0.28, "DeepSeek API (May 2026 pricing)"),
     # Anthropic API pricing: https://platform.claude.com/docs/en/about-claude/pricing
     "opus-5": (5.00, 25.00, "Anthropic API"),
+    "opus-5-5": (4.00, 20.00, "Anthropic API"),
     "fable-5-1": (10.00, 50.00, "Anthropic API"),
     # OpenAI API pricing: https://openai.com/api/pricing/
     "gpt-4": (30.00, 60.00, "OpenAI API (legacy)"),
@@ -265,6 +270,10 @@ FIRST_PARTY_API_PRICING = {
     "gpt-5-6-terra": (2.50, 15.00, "OpenAI API"),
     "gpt-5-6-luna": (1.00, 6.00, "OpenAI API"),
     "gpt-6-astra": (10.00, 50.00, "OpenAI API"),
+    # OpenAI list 2026-09-22 (developers.openai.com/api/docs/pricing); OpenRouter's cheapest
+    # endpoint for both is the :batch variant, which is not the interactive price.
+    "gpt-6-sol": (2.00, 10.00, "OpenAI API"),
+    "gpt-6-luna": (0.10, 0.50, "OpenAI API"),
     "gpt-5-mini": (0.25, 2.00, "OpenAI API"),
     "gpt-5-nano": (0.05, 0.40, "OpenAI API"),
     # xAI API pricing: https://docs.x.ai/developers/models
@@ -323,6 +332,18 @@ API_ACCESS_OVERRIDES = {
 CELL_MODEL_ALIASES = {
     "deepseek-v4-flash-direct-20260731": "deepseek-v4-flash-0731",
     "ox-alpha-or-pin-stealth-20260821": "ox-alpha-260821",
+    # 2026-09-22: the Opus 5.5 cells carry the corpus name "claude-opus-5-5"; the
+    # site slug follows the other Claude rows ("opus-5-5").
+    "claude-opus-5-5-or-pin-anthropic": "opus-5-5",
+    # MiMo-V2.5-Pro is collected but not on the site; without this row the prefix
+    # matcher folds its cells into mimo-v2-5 (250 samples where there are 125).
+    "mimo-v2-5-pro-or-pin-xiaomi": "mimo-v2-5-pro",
+    # Grok 4.2 is collected but has no card; until it does, its cells must not fold
+    # into grok-4 (0709) — they did until 2026-09-22: the Grok 4 page showed 375
+    # freeflow samples and its map position was a 4 / 4.2 mixture.
+    "grok-4-2-16k": "grok-4-2",
+    "grok-4-2-or-pin-xai": "grok-4-2",
+    "grok-4-2": "grok-4-2",
 }
 
 
@@ -339,6 +360,9 @@ def site_slug_from_profile_model(name: str) -> str:
         "claude-opus-4.6": "opus-4-6",
         "claude-opus-4.7": "opus-4-7",
         "claude-opus-4.8": "opus-4-8",
+        "claude-opus-5-5": "opus-5-5",
+        "claude-opus-5.5": "opus-5-5",
+        "anthropic/claude-opus-5.5": "opus-5-5",
         "claude-sonnet-4.0": "sonnet-4-0",
         "claude-sonnet-4.5": "sonnet-4-5",
         "claude-sonnet-4.6": "sonnet-4-6",
@@ -918,7 +942,17 @@ def validate_strapline(model: str, summary: str) -> None:
     if not (5 <= len(words) <= 10) or forbidden:
         raise ValueError(f"Invalid strapline for {model}: {summary!r} ({len(words)} words)")
 
+# Site slug -> model name used in the final values-probe data, where the two
+# differ. Added 2026-09-22: the Opus 5.5 values cell was coded under its
+# corpus name "claude-opus-5-5" while every other Claude row uses the site
+# slug; aliasing here beats rewriting nine JSONL files in the final dataset.
+FINAL_VALUES_MODEL_ALIASES = {
+    "opus-5-5": "claude-opus-5-5",
+}
+
+
 def final_values_for_model(model: str) -> tuple[list[dict], dict[str, dict], dict[str, dict]]:
+    model = FINAL_VALUES_MODEL_ALIASES.get(model, model)
     samples = [r for r in final_manifest() if r.get("model") == model]
     layer_a_by_id = {r["layered_id"]: r for r in final_layer_a() if r.get("model") == model}
     posture_by_id = {r["layered_id"]: r for r in final_posture() if r.get("model") == model}

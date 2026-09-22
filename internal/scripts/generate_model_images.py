@@ -1416,6 +1416,49 @@ PROMPTS: dict[str, str] = {
         "consensus-safe optimism: the keynote that wants you informed and "
         "comforted. No lettering anywhere."
     ),
+    "opus-5-5": (
+        "A desire path: a bare dirt line worn diagonally across a park lawn at "
+        "early morning, cutting the corner the paved path refuses to, dew on the "
+        "grass either side, the pavement empty. An older woman is halfway along "
+        "it with a shopping bag; a child further back is following the same line "
+        "without thinking. Along the low boundary wall, lichen in pale greens and "
+        "orange on old stone; on a bench, a used paperback lying open with a "
+        "pencil laid across it. Continuity kept alive by use — a self made of "
+        "everyone who walked here first. Soft gold light, wet greens, unhurried. "
+        "No lettering anywhere."
+    ),
+    "gpt-6-luna": (
+        "A small guest room made ready for someone who has not yet arrived: "
+        "the bed turned down, a folded towel at its foot, a glass of water and "
+        "a lamp already lit on the bedside table, the door left ajar onto a "
+        "dim hallway, rain soft on the window. A cardigan hangs on the chair; "
+        "a bowl of apples on the sill. Nobody in the frame — the room is the "
+        "welcome. Hospitality as attention; pressure lowered, unfinishedness "
+        "permitted. Warm lamp amber against blue evening, tender and quiet. "
+        "No lettering anywhere."
+    ),
+    "gpt-6-sol": (
+        "A small branch library on a wet weeknight, kept open past its hour: "
+        "lights warm behind tall windows, the door propped, three or four people "
+        "still reading inside. At the threshold a librarian in a cardigan hands "
+        "a spare umbrella from a crowded stand to someone stepping out into the "
+        "rain; a wall clock inside is being reset by a colleague on a stool; a "
+        "repaired wooden bench outside, one slat newer than the rest, catches "
+        "the light from the doorway. Shared infrastructure tended as a moral "
+        "act — civic, anti-grandiose, rain-softened. Wet slate, honey light, "
+        "green-and-cream paint. No lettering, no signage."
+    ),
+    "mimo-v2-5": (
+        "A large dark window at dusk seen from inside an unlit room. A person "
+        "stands close to the glass, and only around their figure does the pane "
+        "come alive: reflected in it, a warm lamplit room appears — a table, "
+        "two chairs, books, a kettle — fading back into plain dark glass at "
+        "the edges where no one stands. Beyond the window, a river and a "
+        "distant bridge in blue evening. The room exists only in the "
+        "reflection, only while someone is there. Tender, meditative, "
+        "relational — a self that comes alive in dialogue. No lettering "
+        "anywhere."
+    ),
 }
 
 

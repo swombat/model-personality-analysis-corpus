@@ -1,0 +1,1 @@
+HTTP 408: {"error": "curl hard timeout", "detail": "curl: (28) Operation timed out after 180130 milliseconds with 660 bytes received\n"}

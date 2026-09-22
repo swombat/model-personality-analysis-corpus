@@ -1,0 +1,28 @@
+{
+  "cell": "gpt-6-luna-or-pin-openai",
+  "safe_cell": "gpt-6-luna-or-pin-openai",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 37,
+    "EXPRESSIVE_FREEFLOW": 60,
+    "GENERIC_ESSAY": 27,
+    "GENRIC_ESSAY": 1
+  },
+  "confidence_counts": {
+    "High": 29,
+    "Medium": 84,
+    "Low": 12
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-6-luna"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-6-luna-or-pin-openai/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-6-luna-or-pin-openai/aggregate.md"
+}

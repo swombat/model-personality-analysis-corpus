@@ -4,5 +4,10 @@
   "mimo-v2-6-pro-ultraspeed": "Daniel identified these as the September 21 releases (2026-09-22 conversation); Xiaomi dated endpoint Xiaomi | xiaomi/mimo-v2.6-pro-ultraspeed-20260921; https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
   "grok-4-7": "OpenRouter model record created 2026-09-21 (x-ai/grok-4.7, https://openrouter.ai/x-ai/grok-4.7); matches xAI's 21 September 2026 launch as reported by third-party coverage. Recorded 2026-09-22.",
   "glm-5-3-flashx": "OpenRouter model record created 2026-09-18 (z-ai/glm-5.3-flashx, https://openrouter.ai/z-ai/glm-5.3-flashx); Z.ai lists FlashX beside GLM-5.3-Flash as its 200 tokens/s variant (https://docs.z.ai/guides/vlm/glm-5.3-flash). Recorded 2026-09-22.",
-  "qwen2-5-7b-instruct": "Qwen2.5 family release (Qwen blog 'Qwen2.5: A Party of Foundation Models!', 2024-09-19); the measured cell is the official Qwen/Qwen2.5-7B-Instruct checkpoint at revision a09a3545, run locally in BF16 via Transformers/MPS. Recorded 2026-09-22."
+  "qwen2-5-7b-instruct": "Qwen2.5 family release (Qwen blog 'Qwen2.5: A Party of Foundation Models!', 2024-09-19); the measured cell is the official Qwen/Qwen2.5-7B-Instruct checkpoint at revision a09a3545, run locally in BF16 via Transformers/MPS. Recorded 2026-09-22.",
+  "claude-opus-5-5": "https://www.anthropic.com/news/claude-opus-5-5",
+  "gpt-6-luna": "OpenRouter model record created 2026-09-22 (openai/gpt-6-luna; a gpt-6-luna-pro variant was listed the same day and is not this cell). Recorded 2026-09-22.",
+  "gpt-6-sol": "OpenRouter model record created 2026-09-22 (openai/gpt-6-sol; a gpt-6-sol-pro variant was listed the same day and is not this cell). Recorded 2026-09-22.",
+  "opus-5-5": "OpenRouter model record created 2026-09-22 (anthropic/claude-opus-5.5); collected the same day. Recorded 2026-09-22.",
+  "mimo-v2-5": "OpenRouter model record created 2026-04-22 (xiaomi/mimo-v2.5); matches Artificial Analysis's MiMo-V2.5 (mimo-v2-5-0424) release. Recorded 2026-09-22."
 }
