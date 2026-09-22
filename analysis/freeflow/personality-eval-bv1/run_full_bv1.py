@@ -218,7 +218,18 @@ def process(row, force=False, max_attempts=6):
             except Exception:
                 data = {'raw': body[:1000]}
             if status == 200:
-                content = data['choices'][0]['message']['content'].strip()
+                choice = (data.get('choices') or [{}])[0]
+                value = choice.get('message', {}).get('content')
+                content = value.strip() if isinstance(value, str) else ''
+                # Retain provider response evidence (including null content and
+                # finish reason), rather than losing it in a .strip() exception.
+                evidence = OUT / 'attempt_responses' / row['pid']
+                evidence.mkdir(parents=True, exist_ok=True)
+                (evidence / f'{time.time_ns()}.json').write_text(json.dumps({
+                    'http_status': status, 'response': data,
+                    'max_tokens': payload['max_tokens'],
+                    'prompt_variant': PROMPT_VARIANT,
+                }, ensure_ascii=False) + '\n')
                 ok, reason = valid_output(content)
                 outpath.write_text(content + '\n')
                 if ok:

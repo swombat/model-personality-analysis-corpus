@@ -160,5 +160,8 @@
   "muse-spark-1-3": "2026-09-02",
   "deepseek-v4-1-flash": "2026-09-10",
   "mercury-2-5": "2026-09-08",
-  "union-alpha": "2026-09-16"
+  "union-alpha": "2026-09-16",
+  "mimo-v2-6-flash": "2026-09-21",
+  "mimo-v2-6-pro": "2026-09-21",
+  "mimo-v2-6-pro-ultraspeed": "2026-09-21"
 }
