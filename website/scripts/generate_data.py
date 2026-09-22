@@ -285,6 +285,9 @@ FIRST_PARTY_API_PRICING = {
     "glm-5-3-flash": (0.075, 0.25, "Z.ai API"),
     # Z.ai list price 2026-09-22 (FlashX: same weights as Flash on a faster stack).
     "glm-5-3-flashx": (0.37, 1.25, "Z.ai API"),
+    # Public hosted price for the same checkpoint (OpenRouter, qwen/qwen-2.5-7b-instruct);
+    # the measured cell itself ran locally — see API_ACCESS_OVERRIDES.
+    "qwen2-5-7b-instruct": (0.10, 0.20, "OpenRouter list for qwen/qwen-2.5-7b-instruct"),
 }
 
 # Non-token access states. These make the browser distinguish a retired API
@@ -308,7 +311,7 @@ API_ACCESS_OVERRIDES = {
     },
     "qwen2-5-7b-instruct": {
         "availability_label": "Measured as a local BF16 Transformers/MPS run of the official Qwen/Qwen2.5-7B-Instruct checkpoint (revision a09a3545), not a hosted endpoint; OpenRouter lists qwen/qwen-2.5-7b-instruct separately",
-        "pricing_source": "Local checkpoint (no per-token price)",
+        "pricing_source": "OpenRouter list for qwen/qwen-2.5-7b-instruct (hosted); measured cell ran locally",
     },
 }
 
