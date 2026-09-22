@@ -7,7 +7,7 @@ import json
 import sys
 from pathlib import Path
 
-from generate_data import MODEL_SLUGS, GENERATED, openrouter_for_model
+from generate_data import MODEL_SLUGS, GENERATED, openrouter_for_model, openrouter_speed_label
 
 
 THROUGHPUT_FIELDS = {
@@ -33,6 +33,7 @@ def main() -> None:
     models = json.loads(models_path.read_text())
     updated = 0
     skipped = 0
+    fresh_throughput = 0
 
     for model in models:
         model_id = model.get("model")
@@ -49,11 +50,16 @@ def main() -> None:
         openrouter_median = model["openrouter"].get("median_throughput")
         if openrouter_median:
             model["speed_tokens_per_second"] = openrouter_median
-            model["speed_source"] = "OpenRouter median"
+            model["speed_source"] = openrouter_speed_label(model["openrouter"])
+        if fresh.get("median_throughput"):
+            fresh_throughput += 1
         updated += 1
 
     models_path.write_text(json.dumps(models, indent=2, ensure_ascii=False) + "\n")
-    print(f"refreshed OpenRouter data for {updated} models; skipped {skipped}")
+    print(f"refreshed OpenRouter data for {updated} models; skipped {skipped}; fresh throughput for {fresh_throughput}/{updated}")
+    if updated and not fresh_throughput:
+        print("ERROR: no model returned fresh throughput — the OpenRouter page format has probably changed; "
+              "speeds on the site are now stale (their labels carry the last observation date)", file=sys.stderr)
 
 
 if __name__ == "__main__":

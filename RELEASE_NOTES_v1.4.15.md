@@ -38,3 +38,20 @@ Added to the FlashX and UltraSpeed pages (same-weights relationship, measured si
 ## Not included
 
 The in-flight repair of GLM-5.3's LONG_2 / LONG_5 traces and their BV1 re-evaluation; today's new values captures; BV1 outputs for MiMo-V2.5, Qwen3.8 27B and Ternary Bonsai (not on the site). The six cells' raw traces are still uncommitted in the sibling raw-corpus repository.
+
+## Post-release fix, same day: the OpenRouter throughput feed had been dead since 31 May
+
+Daniel read 133 tok/s off the MiMo-V2.6-Pro-UltraSpeed page on OpenRouter while the site said
+"unknown". The cause was not the model's age: OpenRouter's frontend stats routes
+(`/api/frontend/stats/endpoint`, `/stats/throughput-comparison`) have returned 404 since
+2026-05-31, and `refresh_openrouter.py` preserved existing throughput whenever the fresh value was
+None — so 61 models kept showing 31 May numbers labelled "OpenRouter median" for four months, and
+every model added since June got a sample-median or nothing. A guard built on absence has no alarm
+state; this one ran on every deploy and never said a word.
+
+- Throughput is now read from the model page's embedded per-endpoint stats (`p50_throughput`,
+  request count, 30-minute window) — median across endpoints with traffic as the speed, best endpoint
+  as the max. **The window is 30 minutes, not the old 30 days**, so figures are noisier and are dated.
+- Every speed label now carries its observation date (`OpenRouter p50, 3 endpoints, 30-min window
+  (2026-09-22)`); anything still on the old feed reads `OpenRouter daily median (stale, last 2026-05-31)`.
+- `refresh_openrouter.py` prints how many models returned fresh throughput and an ERROR when none do.

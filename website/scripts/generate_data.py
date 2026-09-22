@@ -11,6 +11,7 @@ The website now uses the current analysis stack:
 from __future__ import annotations
 
 import json
+from datetime import datetime, timezone
 import math
 import re
 import csv
@@ -1291,35 +1292,80 @@ def median(values: list[float]) -> float | None:
     return (ordered[mid - 1] + ordered[mid]) / 2
 
 
-def openrouter_max_throughput(permaslug: str | None) -> dict:
-    if not permaslug:
-        return {"median_throughput": None, "max_throughput": None, "max_throughput_provider": None}
-    encoded = urllib.parse.quote(permaslug, safe="")
-    endpoint_data = fetch_json(
-        f"https://openrouter.ai/api/frontend/stats/endpoint?permaslug={encoded}&variant=standard"
-    )
-    id_to_provider = {}
-    for endpoint in (endpoint_data or {}).get("data", []):
-        endpoint_id = endpoint.get("id")
-        if endpoint_id:
-            id_to_provider[endpoint_id] = endpoint.get("provider_name")
-    throughput_data = fetch_json(
-        f"https://openrouter.ai/api/frontend/stats/throughput-comparison?permaslug={encoded}"
-    )
-    best = None
-    values = []
-    for row in (throughput_data or {}).get("data", []):
-        for endpoint_id, value in (row.get("y") or {}).items():
-            if value is None:
-                continue
-            values.append(value)
-            if best is None or value > best["value"]:
-                best = {"value": value, "provider": id_to_provider.get(endpoint_id), "date": row.get("x")}
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"
+)
+
+
+def fetch_text(url: str, user_agent: str = BROWSER_UA) -> str | None:
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": user_agent, "Accept": "text/html"})
+        context = ssl._create_unverified_context()
+        with urllib.request.urlopen(req, timeout=30, context=context) as response:
+            return response.read().decode("utf-8", errors="replace")
+    except Exception as exc:
+        print(f"warn: failed to fetch {url}: {exc}", file=sys.stderr)
+        return None
+
+
+def openrouter_page_throughput(slug: str | None) -> dict:
+    """Per-endpoint p50 throughput, read from the OpenRouter model page.
+
+    History: until 2026-05-31 this came from OpenRouter's frontend stats API
+    (`/api/frontend/stats/endpoint` + `/stats/throughput-comparison`, a daily
+    series per endpoint). Both routes have returned 404 since; because
+    refresh_openrouter.py preserved existing throughput when the fresh value was
+    None, the site kept showing 31 May numbers as "OpenRouter median" for four
+    months and every model added since June got no OpenRouter speed at all.
+    Caught 2026-09-22 when Daniel read 133 tok/s off the UltraSpeed page while
+    the site said "unknown".
+
+    The model page still ships every endpoint's rolling stats client-side
+    (react-query cache in the Next.js payload): `"stats":{"endpoint_id":…,
+    "p50_throughput":…, "throughput_request_count":…, "window_minutes":30}`.
+    We take the median p50 across endpoints with traffic as `median_throughput`
+    (the field the site's speed reads) and the best endpoint as
+    `max_throughput`. Note the window is 30 minutes, not the old 30 days.
+    """
+    empty = {"median_throughput": None, "max_throughput": None, "max_throughput_provider": None,
+             "max_throughput_date": None, "throughput_endpoints": 0, "throughput_window_minutes": None,
+             "throughput_source": None}
+    if not slug:
+        return empty
+    page = fetch_text(f"https://openrouter.ai/{slug}")
+    if not page:
+        return empty
+    text = page.replace('\\"', '"')
+    seen: dict[str, dict] = {}
+    for match in re.finditer(r'"stats":\{"endpoint_id":"([0-9a-f-]+)"(.*?)\}', text):
+        endpoint_id, body = match.group(1), match.group(2)
+        p50 = re.search(r'"p50_throughput":([0-9.]+)', body)
+        count = re.search(r'"throughput_request_count":(\d+)', body)
+        window = re.search(r'"window_minutes":(\d+)', body)
+        if not p50 or not count or int(count.group(1)) <= 0:
+            continue
+        context = text[max(0, match.start() - 6000):match.start()]
+        providers = re.findall(r'"provider_name":"([^"]+)"', context)
+        seen[endpoint_id] = {
+            "provider": providers[-1] if providers else None,
+            "p50": float(p50.group(1)),
+            "count": int(count.group(1)),
+            "window": int(window.group(1)) if window else None,
+        }
+    if not seen:
+        return empty
+    values = [row["p50"] for row in seen.values()]
+    best = max(seen.values(), key=lambda row: row["p50"])
+    fetched = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return {
         "median_throughput": median(values),
-        "max_throughput": best["value"] if best else None,
-        "max_throughput_provider": best["provider"] if best else None,
-        "max_throughput_date": best["date"] if best else None,
+        "max_throughput": best["p50"],
+        "max_throughput_provider": best["provider"],
+        "max_throughput_date": fetched,
+        "throughput_endpoints": len(seen),
+        "throughput_window_minutes": best["window"],
+        "throughput_source": f"OpenRouter model page, per-endpoint p50 over a {best['window']}-minute window",
     }
 
 
@@ -1362,7 +1408,7 @@ def openrouter_for_model(model: str) -> dict | None:
     if not priced:
         return with_first_party_pricing({"id": slug, "matched": True})
     _, endpoint, prompt, completion = min(priced, key=lambda row: row[0])
-    max_throughput = openrouter_max_throughput(endpoint_permaslug(endpoint))
+    max_throughput = openrouter_page_throughput(slug)
     return with_first_party_pricing({
         "id": slug,
         "matched": True,
@@ -1374,6 +1420,22 @@ def openrouter_for_model(model: str) -> dict | None:
         **max_throughput,
         "latency": endpoint.get("latency_last_30m") or endpoint.get("latency_last_5m"),
     })
+
+
+
+def openrouter_speed_label(openrouter: dict) -> str:
+    """Speed-source label that always names the observation date.
+
+    A dateless "OpenRouter median" hid a four-month-dead feed (see
+    openrouter_page_throughput). The date is the alarm state.
+    """
+    date = (openrouter.get("max_throughput_date") or "")[:10]
+    endpoints = openrouter.get("throughput_endpoints")
+    window = openrouter.get("throughput_window_minutes")
+    if window and endpoints:
+        noun = "endpoint" if endpoints == 1 else "endpoints"
+        return f"OpenRouter p50, {endpoints} {noun}, {window}-min window ({date})"
+    return f"OpenRouter daily median (stale, last {date or 'unknown'})"
 
 
 def apply_api_metadata(model: str, result: dict | None) -> dict | None:
@@ -1608,7 +1670,7 @@ def main() -> None:
         openrouter_median = (model.get("openrouter") or {}).get("median_throughput")
         model["speed_tokens_per_second"] = openrouter_median or sample_speed
         if openrouter_median:
-            model["speed_source"] = "OpenRouter median"
+            model["speed_source"] = openrouter_speed_label(model.get("openrouter") or {})
         elif sample_speed and model_counts.get("speed_is_estimated"):
             model["speed_source"] = "sample median estimated"
         elif sample_speed:
