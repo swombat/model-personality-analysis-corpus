@@ -126,9 +126,10 @@ print('all straplines valid')"
 5. Check siblings in `model-summaries.json` — versions of one family converge;
    the "who" must differentiate (don't reuse archetype nouns: one archivist,
    one harmonizer, one elegist).
-6. Validate, get a human review (straplines are editorial), then
-   `cd website && python3 scripts/generate_data.py && npm run build`, commit,
-   push.
+6. Validate, then `cd website && python3 scripts/generate_data.py && npm run
+   build`, commit, push. **The pre-deploy human review was retired by Daniel on
+   2026-09-22** ("your straplines have been fine for some time now"): list the
+   new lines in the release notes and deploy; he reads them there.
 
 ## Drift sweep after a corpus refresh
 
