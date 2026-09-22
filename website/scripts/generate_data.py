@@ -131,6 +131,7 @@ MODEL_SLUGS = {
     "grok-4-3": "x-ai/grok-4.3",
     "grok-4-5": "x-ai/grok-4.5",
     "grok-4-6": "x-ai/grok-4.6",
+    "grok-4-7": "x-ai/grok-4.7",
     "grok-build-0-1": "x-ai/grok-build-0.1",
     "grok-4-20-0309-non-reasoning": "x-ai/grok-4.20-0309-non-reasoning",
     "grok-4-20-0309-reasoning": "x-ai/grok-4.20-0309-reasoning",
@@ -154,6 +155,10 @@ MODEL_SLUGS = {
     "glm-5-2": "z-ai/glm-5.2",
     "glm-5-3": "z-ai/glm-5.3",
     "glm-5-3-flash": "z-ai/glm-5.3-flash",
+    "glm-5-3-flashx": "z-ai/glm-5.3-flashx",
+    "mimo-v2-6-flash": "xiaomi/mimo-v2.6-flash",
+    "mimo-v2-6-pro": "xiaomi/mimo-v2.6-pro",
+    "mimo-v2-6-pro-ultraspeed": "xiaomi/mimo-v2.6-pro-ultraspeed",
     "kimi-k2-0905": "moonshotai/kimi-k2-0905",
     "kimi-k2-5": "moonshotai/kimi-k2.5",
     "kimi-k2-6": "moonshotai/kimi-k2.6",
@@ -178,6 +183,9 @@ MODEL_SLUGS = {
     "qwen3-coder-flash": "qwen/qwen3-coder-flash",
     "qwen1-5-7b-chat": "qwen/qwen1.5-7b-chat",
     "qwen2-7b-instruct": "qwen/qwen2-7b-instruct",
+    # Local BF16 Transformers/MPS cell of the official checkpoint (HF id, not an
+    # OpenRouter endpoint) — same convention as the other historical local cells.
+    "qwen2-5-7b-instruct": "Qwen/Qwen2.5-7B-Instruct",
     "qwen3-8-2-4t-a95b": "qwen/qwen3.8-2.4t-a95b",
     "devstral-2512": "mistralai/devstral-2512",
     "codestral-2508": "mistralai/codestral-2508",
@@ -268,12 +276,15 @@ FIRST_PARTY_API_PRICING = {
     "grok-4-20-0309-reasoning": (1.25, 2.50, "xAI API"),
     "grok-4-3": (1.25, 2.50, "xAI API"),
     "grok-4-5": (2.00, 6.00, "xAI API"),
+    "grok-4-7": (2.00, 6.00, "xAI API"),
     "grok-build-0-1": (1.00, 2.00, "xAI API"),
     # Z.ai API pricing: https://docs.z.ai/guides/overview/pricing
     "glm-5-2": (1.40, 4.40, "Z.ai API"),
     "glm-5-3": (0.90, 2.90, "Z.ai API"),
     # Launch promo (50% off) until 2026-09-09; list price 0.15 / 0.50.
     "glm-5-3-flash": (0.075, 0.25, "Z.ai API"),
+    # Z.ai list price 2026-09-22 (FlashX: same weights as Flash on a faster stack).
+    "glm-5-3-flashx": (0.37, 1.25, "Z.ai API"),
 }
 
 # Non-token access states. These make the browser distinguish a retired API
@@ -294,6 +305,10 @@ API_ACCESS_OVERRIDES = {
         "availability": "unavailable",
         "availability_label": "Historical direct-API snapshot collected in May 2026",
         "pricing_source": "DeepSeek API (May 2026 pricing)",
+    },
+    "qwen2-5-7b-instruct": {
+        "availability_label": "Measured as a local BF16 Transformers/MPS run of the official Qwen/Qwen2.5-7B-Instruct checkpoint (revision a09a3545), not a hosted endpoint; OpenRouter lists qwen/qwen-2.5-7b-instruct separately",
+        "pricing_source": "Local checkpoint (no per-token price)",
     },
 }
 

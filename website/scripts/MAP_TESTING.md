@@ -42,3 +42,10 @@ reference revision, common-model count and per-projection disparity). Leave-one-
 PCA 0.2 / 0.6, MDS 0.9 / 3.1, UMAP 7.3 / 7.4 (2D / 3D); on-map 3-NN kept — PCA 96 / 92 %, MDS 71 / 90 %,
 UMAP 71 / 71 %. Without alignment the same test gave MDS 17 / 38 % and UMAP 20 / 22 % shifts.
 To reset the frame deliberately (e.g. after a method change), delete the JSON before regenerating.
+
+**Rerun noise floor (measured 2026-09-22).** Regenerating with the same 160 models after two repaired
+GLM-5.3 samples (2 of 31,570 documents) moved PCA and MDS by ≤0.9 % of map width (3-NN kept 99–100 %)
+but UMAP by a median 13.8 % / 12.0 % (2D / 3D; 3-NN kept 72 / 76 %) — the same order as adding six new
+models (6.6 % / 9.8 %). Seeding UMAP from the previous coordinates fixes orientation, not the optimiser's
+path, so UMAP differences below ~15 % of map width between releases are rerun noise, not data. Read
+month-to-month change off PCA or 3D MDS.
