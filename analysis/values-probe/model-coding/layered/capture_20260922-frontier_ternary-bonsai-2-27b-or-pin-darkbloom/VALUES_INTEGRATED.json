@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "ternary-bonsai-2-27b",
+  "samples": 120,
+  "source": "capture_20260922-frontier_ternary-bonsai-2-27b-or-pin-darkbloom",
+  "site_entry_present": false,
+  "publication_complete": false
+}

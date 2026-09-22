@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "qwen3-8-27b",
+  "samples": 120,
+  "source": "capture_20260922-frontier_qwen3-8-27b-or-pin-deepinfra",
+  "site_entry_present": false,
+  "publication_complete": false
+}

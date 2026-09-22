@@ -1,0 +1,7 @@
+{
+  "initial_splits": [
+    "P37_qwen3-8-27b_G2_25"
+  ],
+  "residual_splits": [],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

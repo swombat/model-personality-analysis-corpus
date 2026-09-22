@@ -1,0 +1,8 @@
+{
+  "initial_splits": [
+    "P37_ternary-bonsai-2-27b_G2_27",
+    "P37_ternary-bonsai-2-27b_G2_8"
+  ],
+  "residual_splits": [],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

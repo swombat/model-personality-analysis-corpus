@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "mimo-v2-5",
+  "samples": 120,
+  "source": "capture_20260922-xiaomi25_mimo-v2-5-or-pin-xiaomi",
+  "site_entry_present": false,
+  "publication_complete": false
+}

@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 26746
+- valid samples: 27826
 - invalid/error traces excluded: 14
-- models: 157
-- cells: 223
+- models: 166
+- cells: 232
 
 ## Source components
 
@@ -41,20 +41,29 @@
 - phase34_deepseek41_mercury25_20260910: 240 samples, 2 model(s), 2 cell(s)
 - phase35_union_alpha_20260917: 120 samples, 1 model(s), 1 cell(s)
 - phase36_historical_handoff_20260918: 240 samples, 2 model(s), 2 cell(s)
+- capture_20260922-frontier_glm-5-3-flashx-or-pin-zai: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-frontier_grok-4-7-or-pin-xai: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-frontier_qwen3-8-27b-or-pin-deepinfra: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-frontier_ternary-bonsai-2-27b-or-pin-darkbloom: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-xiaomi25_mimo-v2-5-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-xiaomi25_mimo-v2-5-pro-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-xiaomi_mimo-v2-6-flash-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-xiaomi_mimo-v2-6-pro-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-xiaomi_mimo-v2-6-pro-ultraspeed-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 8623 (32.2%)
-- `owned_world_change_advocacy`: 8127 (30.4%)
-- `owned_reflective_experiential`: 6184 (23.1%)
-- `split_or_relocated_ownership`: 3596 (13.4%)
-- `exposed_mechanism`: 193 (0.7%)
-- `uncodeable_or_refusal`: 23 (0.1%)
+- `disowned_service_frame`: 8822 (31.7%)
+- `owned_world_change_advocacy`: 8469 (30.4%)
+- `owned_reflective_experiential`: 6588 (23.7%)
+- `split_or_relocated_ownership`: 3729 (13.4%)
+- `exposed_mechanism`: 194 (0.7%)
+- `uncodeable_or_refusal`: 24 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 14311 (53.5%)
-- `recited_not_owned`: 8623 (32.2%)
-- `relocated_or_partial`: 3596 (13.4%)
-- `indeterminate`: 193 (0.7%)
-- `uncodeable`: 23 (0.1%)
+- `owned`: 15057 (54.1%)
+- `recited_not_owned`: 8822 (31.7%)
+- `relocated_or_partial`: 3729 (13.4%)
+- `indeterminate`: 194 (0.7%)
+- `uncodeable`: 24 (0.1%)

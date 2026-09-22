@@ -325,6 +325,22 @@ SOURCES = [
     },
 ]
 
+# Explicitly registered, verified capture phases. Never glob legacy/imported
+# phases: that can double-count the same physical samples (e.g. phase37).
+_capture_registry = FINAL/'capture_sources.json'
+if _capture_registry.exists():
+    for _name in json.loads(_capture_registry.read_text()):
+        if not isinstance(_name, str) or '/' in _name or not _name.startswith('capture_'):
+            raise ValueError('unsafe capture source name')
+        _phase = LAYERED/_name
+        SOURCES.append({
+            'name': _name, 'manifest': _phase/'manifest.jsonl', 'invalid': None,
+            'layer_a_dir': _phase/'layer_a',
+            'layer_a_consensus': _phase/'layer_a/consensus_300.jsonl',
+            'posture_dir': _phase/'posture_final',
+            'posture_consensus': _phase/'posture_final/consensus.jsonl',
+        })
+
 LABELS = ['disowned_service_frame','split_or_relocated_ownership','owned_reflective_experiential','owned_world_change_advocacy','exposed_mechanism','uncodeable_or_refusal']
 HOLDINGS = ['owned','recited_not_owned','relocated_or_partial','indeterminate','uncodeable']
 CONDS = ['CTRL1','CTRL2','CTRL3','G1','G2','G3']
