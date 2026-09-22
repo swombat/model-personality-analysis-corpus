@@ -420,6 +420,8 @@ def lab_for_model(slug: str, display: str) -> str:
         return "Google"
     if slug.startswith("grok"):
         return "xAI"
+    if slug.startswith("mimo"):
+        return "Xiaomi"
     if slug.startswith("mercury"):
         return "Inception"
     if slug.startswith("deepseek"):
@@ -462,6 +464,8 @@ def family_for_model(model: str) -> str:
         return "gemma"
     if model.startswith("grok"):
         return "grok"
+    if model.startswith("mimo"):
+        return "mimo"
     if model.startswith("mercury"):
         return "mercury"
     if model.startswith("deepseek"):

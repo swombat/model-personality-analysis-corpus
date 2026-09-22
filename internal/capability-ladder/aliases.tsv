@@ -152,3 +152,9 @@ grok-4-6	grok-4.6	2026-08-12	Grok 4.6	exact	grok-4-6-xhigh	exact	AA top effort i
 grok-build-0-1	grok-build-0.1	2026-06-05		none	grok-build-0-1-06-16	family-match	AA's only 'Grok Build 0.1' row is dated 2026-06-16, vs site's release 2026-06-05 / endpoint snapshot 20260520 (name matches, date does not); no Epoch entry for this beta line.
 deepseek-v4-1-flash	DeepSeek V4.1 Flash	2026-09-10		none	deepseek-v4-1-flash	exact	2026-09-13: exact AA release match, max effort (sole measured variant); six measured ladder rungs.
 mercury-2-5	Mercury 2.5	2026-09-08		none		none	Inception diffusion LM. No AA or Epoch entry as of 2026-09-13 (AA has only Mercury 2).
+grok-4-7	grok-4.7	2026-09-21		none	grok-4-7	exact	2026-09-22: exact AA base-slug match (Combined median effort = high); five measured rungs on day two. No Epoch entry yet.
+glm-5-3-flashx	glm-5.3-flashx	2026-09-18		none		none	2026-09-22: no AA or Epoch entry. Z.ai serves FlashX as a faster (quantised) serving of GLM-5.3-Flash; do NOT borrow glm-5-3-flash's score — the quantised stack is unmeasured.
+mimo-v2-6-flash	mimo-v2.6-flash	2026-09-21		none		none	2026-09-22: no AA or Epoch entry as of day two (AA has MiMo-V2.6-Pro only).
+mimo-v2-6-pro	mimo-v2.6-pro	2026-09-21		none	mimo-v2-6-pro	exact	2026-09-22: exact AA base-slug match; five measured rungs on day two. No Epoch entry yet.
+mimo-v2-6-pro-ultraspeed	mimo-v2.6-pro-ultraspeed	2026-09-21		none		none	2026-09-22: no AA or Epoch entry. UltraSpeed is a faster serving of MiMo-V2.6-Pro; do NOT borrow the Pro score until AA measures this endpoint.
+qwen2-5-7b-instruct	qwen2.5-7b-instruct	2024-09-19		none		none	2026-09-22: local Transformers/MPS cell of the official checkpoint. AA has no Qwen2.5 7B row; Epoch not checked for a 2024 7B instruct model.

@@ -163,5 +163,8 @@
   "union-alpha": "2026-09-16",
   "mimo-v2-6-flash": "2026-09-21",
   "mimo-v2-6-pro": "2026-09-21",
-  "mimo-v2-6-pro-ultraspeed": "2026-09-21"
+  "mimo-v2-6-pro-ultraspeed": "2026-09-21",
+  "grok-4-7": "2026-09-21",
+  "glm-5-3-flashx": "2026-09-18",
+  "qwen2-5-7b-instruct": "2024-09-19"
 }

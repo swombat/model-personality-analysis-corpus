@@ -88,3 +88,6 @@ image fields survive deploys.
 - Keep prompts kind and personality-faithful — these are portraits of a
   sensibility, not robots or logos.
 - Last full run: 2026-05-15, all 46 then-current models.
+- 2026-09-22: six banners rendered; two re-rolled (one for a subject
+  drinking from the cup instead of examining it, one for lettering on a
+  shop sign — check every render for baked-in text before wiring).

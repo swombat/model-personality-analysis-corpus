@@ -1,0 +1,27 @@
+{
+  "cell": "mimo-v2-6-pro-ultraspeed-or-pin-xiaomi",
+  "safe_cell": "mimo-v2-6-pro-ultraspeed-or-pin-xiaomi",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 30,
+    "EXPRESSIVE_FREEFLOW": 93,
+    "GENRE_FICTION": 2
+  },
+  "confidence_counts": {
+    "Medium": 70,
+    "High": 43,
+    "Low": 12
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "xiaomi/mimo-v2.6-pro-ultraspeed"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-ultraspeed-or-pin-xiaomi/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-ultraspeed-or-pin-xiaomi/aggregate.md"
+}

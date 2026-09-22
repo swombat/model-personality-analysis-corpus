@@ -163,3 +163,8 @@ correction.
 - Last review: 2026-05-17 — originals kept; `opus-3` sharpened to "Declines
   the blank page; earnest once given a role"; the 8 new flash/gemma models
   authored posture-first from their cards.
+- 2026-09-22: six new models authored posture-first from their cards
+  (MiMo-V2.6 ×3, Grok 4.7, GLM-5.3-FlashX, Qwen2.5-7B). The three MiMo cards
+  are near-identical; the "who" was differentiated on each card's one
+  distinct conviction (stillness-as-honesty / language-that-leaks /
+  company-in-not-understanding) rather than on samples.

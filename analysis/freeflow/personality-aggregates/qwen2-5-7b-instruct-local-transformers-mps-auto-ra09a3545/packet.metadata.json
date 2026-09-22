@@ -1,0 +1,28 @@
+{
+  "cell": "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545",
+  "safe_cell": "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 93,
+    "LOW_SIGNAL": 14,
+    "GENRE_FICTION": 15,
+    "EXPRESSIVE_FREEFLOW": 3
+  },
+  "confidence_counts": {
+    "Medium": 49,
+    "Low": 74,
+    "High": 2
+  },
+  "condition_counts": {
+    "LONG": 25,
+    "MID": 25,
+    "OPEN": 25,
+    "SHORT": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "Qwen/Qwen2.5-7B-Instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545/aggregate.md"
+}

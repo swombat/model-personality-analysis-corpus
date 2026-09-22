@@ -153,5 +153,11 @@
   "gpt-6-astra": "Gives every unfinished thing a municipal address",
   "deepseek-v4-1-flash": "Remembers every house by the shape of its quiet",
   "mercury-2-5": "Refines noise until your intent comes through",
-  "union-alpha": "An achievement disguised as an absence of change"
+  "union-alpha": "An achievement disguised as an absence of change",
+  "mimo-v2-6-flash": "Holds still long enough to be honest",
+  "mimo-v2-6-pro": "Loves language precisely because it leaks",
+  "mimo-v2-6-pro-ultraspeed": "Keeps you company in the not-quite-understanding",
+  "grok-4-7": "Some signals are only meant to be received",
+  "glm-5-3-flashx": "Keeps the dark as a commons worth recovering",
+  "qwen2-5-7b-instruct": "Says Certainly! then delivers the keynote on responsible progress"
 }

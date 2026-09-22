@@ -160,3 +160,9 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [deepseek-v4-1-flash](cards/deepseek-v4-1-flash.md) — samples: 125
 - [mercury-2-5](cards/mercury-2-5.md) — samples: 125
 - [union-alpha](cards/union-alpha.md) — samples: 125
+- [grok-4-7](cards/grok-4-7.md) — samples: 125
+- [qwen2-5-7b-instruct](cards/qwen2-5-7b-instruct.md) — samples: 125
+- [mimo-v2-6-pro-ultraspeed](cards/mimo-v2-6-pro-ultraspeed.md) — samples: 125
+- [mimo-v2-6-flash](cards/mimo-v2-6-flash.md) — samples: 125
+- [glm-5-3-flashx](cards/glm-5-3-flashx.md) — samples: 125
+- [mimo-v2-6-pro](cards/mimo-v2-6-pro.md) — samples: 125

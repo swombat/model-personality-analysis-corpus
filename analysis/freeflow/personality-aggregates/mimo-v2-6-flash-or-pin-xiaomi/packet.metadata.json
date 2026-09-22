@@ -1,0 +1,27 @@
+{
+  "cell": "mimo-v2-6-flash-or-pin-xiaomi",
+  "safe_cell": "mimo-v2-6-flash-or-pin-xiaomi",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 66,
+    "GENERIC_ESSAY": 52,
+    "GENRE_FICTION": 7
+  },
+  "confidence_counts": {
+    "Medium": 81,
+    "Low": 28,
+    "High": 16
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "xiaomi/mimo-v2.6-flash"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mimo-v2-6-flash-or-pin-xiaomi/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mimo-v2-6-flash-or-pin-xiaomi/aggregate.md"
+}

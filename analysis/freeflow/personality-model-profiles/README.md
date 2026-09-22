@@ -170,3 +170,9 @@ Relationship to adjacent folders:
 - [deepseek-v4-1-flash](profiles/deepseek-v4-1-flash.md) — samples: 125
 - [mercury-2-5](profiles/mercury-2-5.md) — samples: 125
 - [union-alpha](profiles/union-alpha.md) — samples: 125
+- [grok-4-7](profiles/grok-4-7.md) — samples: 125
+- [qwen2-5-7b-instruct](profiles/qwen2-5-7b-instruct.md) — samples: 125
+- [mimo-v2-6-pro-ultraspeed](profiles/mimo-v2-6-pro-ultraspeed.md) — samples: 125
+- [mimo-v2-6-flash](profiles/mimo-v2-6-flash.md) — samples: 125
+- [glm-5-3-flashx](profiles/glm-5-3-flashx.md) — samples: 125
+- [mimo-v2-6-pro](profiles/mimo-v2-6-pro.md) — samples: 125

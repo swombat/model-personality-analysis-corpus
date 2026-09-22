@@ -2441,6 +2441,32 @@
     "aggregate": "analysis/freeflow/personality-aggregates/glm-5-3-flash-or-pin-z-ai-20260826/aggregate.md"
   },
   {
+    "cell": "glm-5-3-flashx-or-pin-zai",
+    "safe_cell": "glm-5-3-flashx-or-pin-zai",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 100,
+      "GENERIC_ESSAY": 14,
+      "GENRE_FICTION": 11
+    },
+    "confidence_counts": {
+      "Medium": 81,
+      "High": 44
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "z-ai/glm-5.3-flashx"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/glm-5-3-flashx-or-pin-zai/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/glm-5-3-flashx-or-pin-zai/aggregate.md"
+  },
+  {
     "cell": "glm-5-3-or-pin-z-ai-20260825",
     "safe_cell": "glm-5-3-or-pin-z-ai-20260825",
     "samples": 125,
@@ -4618,6 +4644,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/grok-4-6-or-pin-xai-20260813/aggregate.md"
   },
   {
+    "cell": "grok-4-7-or-pin-xai",
+    "safe_cell": "grok-4-7-or-pin-xai",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 38,
+      "GENRE_FICTION": 30,
+      "EXPRESSIVE_FREEFLOW": 57
+    },
+    "confidence_counts": {
+      "Low": 18,
+      "Medium": 87,
+      "High": 20
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "x-ai/grok-4.7"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/grok-4-7-or-pin-xai/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/grok-4-7-or-pin-xai/aggregate.md"
+  },
+  {
     "cell": "grok-build-0-1-direct",
     "safe_cell": "grok-build-0-1-direct",
     "samples": 125,
@@ -5487,6 +5540,87 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/mercury-2-5-or-pin-inception/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/mercury-2-5-or-pin-inception/aggregate.md"
+  },
+  {
+    "cell": "mimo-v2-6-flash-or-pin-xiaomi",
+    "safe_cell": "mimo-v2-6-flash-or-pin-xiaomi",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 66,
+      "GENERIC_ESSAY": 52,
+      "GENRE_FICTION": 7
+    },
+    "confidence_counts": {
+      "Medium": 81,
+      "Low": 28,
+      "High": 16
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "xiaomi/mimo-v2.6-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mimo-v2-6-flash-or-pin-xiaomi/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mimo-v2-6-flash-or-pin-xiaomi/aggregate.md"
+  },
+  {
+    "cell": "mimo-v2-6-pro-or-pin-xiaomi",
+    "safe_cell": "mimo-v2-6-pro-or-pin-xiaomi",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 95,
+      "GENERIC_ESSAY": 29,
+      "GENRE_FICTION": 1
+    },
+    "confidence_counts": {
+      "Medium": 66,
+      "Low": 15,
+      "High": 44
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "xiaomi/mimo-v2.6-pro"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-or-pin-xiaomi/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-or-pin-xiaomi/aggregate.md"
+  },
+  {
+    "cell": "mimo-v2-6-pro-ultraspeed-or-pin-xiaomi",
+    "safe_cell": "mimo-v2-6-pro-ultraspeed-or-pin-xiaomi",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 30,
+      "EXPRESSIVE_FREEFLOW": 93,
+      "GENRE_FICTION": 2
+    },
+    "confidence_counts": {
+      "Medium": 70,
+      "High": 43,
+      "Low": 12
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "xiaomi/mimo-v2.6-pro-ultraspeed"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-ultraspeed-or-pin-xiaomi/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/mimo-v2-6-pro-ultraspeed-or-pin-xiaomi/aggregate.md"
   },
   {
     "cell": "minimax-m2-7-or",
@@ -7110,6 +7244,34 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/qwen1-5-7b-chat-local-transformers-mps-auto-r5f4f5e69/aggregate.md"
+  },
+  {
+    "cell": "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545",
+    "safe_cell": "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 93,
+      "LOW_SIGNAL": 14,
+      "GENRE_FICTION": 15,
+      "EXPRESSIVE_FREEFLOW": 3
+    },
+    "confidence_counts": {
+      "Medium": 49,
+      "Low": 74,
+      "High": 2
+    },
+    "condition_counts": {
+      "LONG": 25,
+      "MID": 25,
+      "OPEN": 25,
+      "SHORT": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "Qwen/Qwen2.5-7B-Instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545/aggregate.md"
   },
   {
     "cell": "qwen2-7b-instruct-local-transformers-mps-auto-rf2826a00",

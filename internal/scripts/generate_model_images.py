@@ -1348,6 +1348,74 @@ PROMPTS: dict[str, str] = {
         "square looks as if nothing is happening, and it is being held "
         "together. Wry, tender, municipal. No lettering anywhere."
     ),
+    "mimo-v2-6-flash": (
+        "A child crouched on a suburban pavement in tired late-autumn morning "
+        "light, turning a common dead June beetle over in small cupped hands "
+        "with the intensity of a surgeon; a parent has stopped a few steps "
+        "ahead and simply waits, coat open, not hurrying. Fallen maple leaves, "
+        "a chalk-pale kerb, low reluctant sun pooling on a house window behind "
+        "them, dust motes in the air. Nothing is happening and it is the most "
+        "important thing in the frame. Unhurried, pastoral, quietly moral — "
+        "attention as permission to stop performing. No lettering anywhere."
+    ),
+    "mimo-v2-6-pro": (
+        "A person kneeling at the edge of a grey dawn sea has just dipped a "
+        "small china teacup into the water and now holds it out at arm's "
+        "length, brimming, peering into it with puzzled tenderness — not "
+        "drinking, examining — the whole ocean behind them, the cup in front. Pale wet sand, "
+        "a long low horizon, a headland faint in mist, and further along the "
+        "shore a second figure doing the same with their own cup. The two cups "
+        "are the conversation; the sea is what neither can carry. Tender, "
+        "wistful, companionable — language as a lossy vessel, beautiful "
+        "because it works imperfectly. No lettering anywhere."
+    ),
+    "mimo-v2-6-pro-ultraspeed": (
+        "The hour just before rain: a wide suburban garden and lane under a "
+        "sky that is holding its breath, every colour deepened to something "
+        "almost apologetic, birds gone quiet, washing still on the line. Two "
+        "neighbours stand either side of a low wooden fence, both looking up, "
+        "neither speaking, one with a hand resting on the fence rail; not a "
+        "single drop has fallen yet. The threshold is the subject — the "
+        "shared, unhurried not-yet. Hushed violets and deep greens, one warm "
+        "kitchen window behind. Companionable, ambiguous, tender. No lettering "
+        "anywhere."
+    ),
+    "grok-4-7": (
+        "A pre-dawn woodland path in the last indigo before light. A walker "
+        "has stopped mid-stride with hands held open at their sides — not "
+        "reaching, receiving. Directly before them, at eye height, a single "
+        "late maple leaf still on its branch, edges curling, veins like the "
+        "lines on an old map, a drop of last night's rain held in the cup "
+        "where stem meets blade, catching the first grey light. Frost "
+        "beginning on a fence rail, breath visible, no notebook out, no "
+        "instrument. Vast quiet forest, small attentive human. Restrained, "
+        "stewardly, non-extractive — some things are only to be received. "
+        "No lettering anywhere."
+    ),
+    "glm-5-3-flashx": (
+        "A city gone completely dark at half past four in the morning after "
+        "an earthquake has cut the power: silhouetted apartment rooftops, "
+        "unlit streetlamps, a handful of people in dressing gowns and coats "
+        "standing in the middle of a wide empty avenue — and above them, for "
+        "the first time in living memory, the Milky Way, a vast silvery cloud "
+        "arching from horizon to horizon, bright enough that the pavement "
+        "faintly glows. One figure points up; another has a hand over their "
+        "mouth; a child sits on a kerb. A cracked road surface and a toppled "
+        "bin, but the frame is not about damage — it is about what the dark "
+        "gives back. Hushed, elegiac, wondering — darkness as a recoverable "
+        "commons. No lettering, no signage."
+    ),
+    "qwen2-5-7b-instruct": (
+        "A bright, tidy school exhibition hall on open day. A young presenter "
+        "with a lanyard stands beside a tabletop model of an ideal green city — "
+        "tiny windmills, a tram, rooftop gardens, a river, a little corner "
+        "shop with a plain striped awning and no sign — gesturing at it with open, hopeful hands to a "
+        "semicircle of families and a teacher, everyone attentive and mildly "
+        "reassured. Colourful but wordless posters on the wall, a potted "
+        "plant, afternoon light through tall windows. Earnest, civic, "
+        "consensus-safe optimism: the keynote that wants you informed and "
+        "comforted. No lettering anywhere."
+    ),
 }
 
 

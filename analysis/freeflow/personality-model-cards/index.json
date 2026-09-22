@@ -336,6 +336,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "glm-5-3-flashx",
+    "safe": "glm-5-3-flashx",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/glm-5-3-flashx.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "glm-5.1",
     "safe": "glm-5.1",
     "variants": 16,
@@ -632,6 +640,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "grok-4-7",
+    "safe": "grok-4-7",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/grok-4-7.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "grok-4.20",
     "safe": "grok-4.20",
     "variants": 3,
@@ -845,6 +861,30 @@
     "variants": 1,
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/mercury-2-5.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mimo-v2-6-flash",
+    "safe": "mimo-v2-6-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-6-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mimo-v2-6-pro",
+    "safe": "mimo-v2-6-pro",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-6-pro.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mimo-v2-6-pro-ultraspeed",
+    "safe": "mimo-v2-6-pro-ultraspeed",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-6-pro-ultraspeed.md",
     "difference_decision": "SINGLE_VARIANT"
   },
   {
@@ -1198,6 +1238,14 @@
     "samples": 250,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md",
     "difference_decision": "NO_STRONG_DIVERGENCE"
+  },
+  {
+    "model": "qwen2-5-7b-instruct",
+    "safe": "qwen2-5-7b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-7b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
   },
   {
     "model": "union-alpha",
