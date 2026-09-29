@@ -41,7 +41,7 @@ Each of these stopped before a card, at the evaluator or the capture, and is lef
 - **MiMo-V2.5-Pro** — 123 of 125 BV1 readings (MID_18, LONG_2 returned nothing from the legacy evaluator).
 - **Qwen3.8-27B, medium reasoning** — 122 of 125 (MID_20, MID_23, VARY_5). Values integrated.
 - **Ternary Bonsai 2 27B, medium reasoning** — 124 of 125 (VARY_23). Values integrated.
-- **Ternary Bonsai 2 27B** — 111 of 125: fourteen LONG freeflow samples were never captured (provider failures on Darkbloom).
+- **Ternary Bonsai 2 27B** — 111 of 125: fourteen of its 25 LONG freeflow samples ended at the token cap (thirteen with no result at all), so they have no reading. *Corrected 2026-09-29: this line first said the samples were never captured.*
 
 Filling two or three readings with BV1-Luna while the rest are legacy DeepSeek would mix evaluators inside one card; v1.4.18 re-read all 125 Sonnet samples to avoid exactly that.
 
