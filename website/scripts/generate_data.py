@@ -147,6 +147,7 @@ MODEL_SLUGS = {
     "deepseek-v4-1-flash": "deepseek/deepseek-v4.1-flash",
     "mercury-2-5": "inception/mercury-2.5",
     "union-alpha": "stealth/union-alpha",
+    "space-bunny-alpha": "stealth/space-bunny-alpha",
     "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
     "chatglm2-6b": "zai-org/chatglm2-6b",
     "chatglm3-6b": "zai-org/chatglm3-6b",
@@ -193,6 +194,7 @@ MODEL_SLUGS = {
     # OpenRouter endpoint) — same convention as the other historical local cells.
     "qwen2-5-7b-instruct": "Qwen/Qwen2.5-7B-Instruct",
     "qwen3-8-2-4t-a95b": "qwen/qwen3.8-2.4t-a95b",
+    "qwen3-8-27b": "qwen/qwen3.8-27b",
     "devstral-2512": "mistralai/devstral-2512",
     "codestral-2508": "mistralai/codestral-2508",
     "mistral-large-2512": "mistralai/mistral-large-2512",
@@ -345,6 +347,10 @@ CELL_MODEL_ALIASES = {
     "grok-4-2-16k": "grok-4-2",
     "grok-4-2-or-pin-xai": "grok-4-2",
     "grok-4-2": "grok-4-2",
+    # 2026-09-29: the medium-reasoning condition of Qwen3.8-27B is collected and
+    # values-coded but has no card; without this row its cells fold into
+    # qwen3-8-27b (250 / 240 samples where there are 125 / 120).
+    "qwen3-8-27b-or-pin-deepinfra-medium": "qwen3-8-27b-medium",
 }
 
 
@@ -444,6 +450,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Mercury 2.5"
     if slug == "union-alpha":
         return "Union Alpha"
+    if slug == "space-bunny-alpha":
+        return "Space Bunny Alpha"
     if slug == "glm-5-3":
         return "glm-5.3"
     if slug == "glm-5-3-flash":

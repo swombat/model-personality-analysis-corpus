@@ -1,0 +1,27 @@
+{
+  "cell": "space-bunny-alpha-or-pin-stealth",
+  "safe_cell": "space-bunny-alpha-or-pin-stealth",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 34,
+    "GENRE_FICTION": 77,
+    "GENERIC_ESSAY": 14
+  },
+  "confidence_counts": {
+    "Medium": 89,
+    "Low": 7,
+    "High": 29
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "stealth/space-bunny-alpha"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/space-bunny-alpha-or-pin-stealth/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/space-bunny-alpha-or-pin-stealth/aggregate.md"
+}

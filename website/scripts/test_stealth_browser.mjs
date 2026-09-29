@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict';
 import { chromium } from 'playwright';
 import { isEphemeralProbe } from '../src/lib/modelMetadata.js';
-for (const slug of ['union-alpha', 'ox-alpha-260821', 'ox-alpha-260825']) assert.equal(isEphemeralProbe(slug), true);
+for (const slug of ['union-alpha', 'space-bunny-alpha', 'ox-alpha-260821', 'ox-alpha-260825']) assert.equal(isEphemeralProbe(slug), true);
 for (const slug of ['gpt-6-astra', 'glm-5-3-flash']) assert.equal(isEphemeralProbe(slug), false);
 const browser = await chromium.launch({ headless: true, ...(process.env.PLAYWRIGHT_CHANNEL ? { channel: process.env.PLAYWRIGHT_CHANNEL } : {}) });
 const url = process.env.BROWSER_TEST_URL || 'http://127.0.0.1:4324/';
@@ -24,8 +24,8 @@ try {
     if (javaScriptEnabled) {
       await page.locator('#includeEphemeral').check();
       assert.equal(await union.isVisible(), true);
-      assert.equal(await count(), initialCount + 3);
-      assert.equal(await page.locator('#resultCount').innerText(), `${initialCount + 3} shown`);
+      assert.equal(await count(), initialCount + 4);
+      assert.equal(await page.locator('#resultCount').innerText(), `${initialCount + 4} shown`);
       await page.locator('#search').fill('union alpha');
       assert.equal(await count(), 1);
       await page.locator('#includeEphemeral').uncheck();

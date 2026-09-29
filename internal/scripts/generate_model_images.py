@@ -1459,6 +1459,41 @@ PROMPTS: dict[str, str] = {
         "relational — a self that comes alive in dialogue. No lettering "
         "anywhere."
     ),
+    "sonnet-5-5": (
+        "Seen from the deck of a small wooden fishing boat at night: in the "
+        "foreground a sailor's own weathered hands rest on the spoked wheel, "
+        "steering. Ahead, a long pale beam from far off to one side lies across "
+        "black water and picks out a line of wet rocks and white surf, showing "
+        "exactly where not to go; the source of the light is only a small warm "
+        "point on a distant headland, never near the boat. Open dark channel "
+        "beyond the rocks, a few stars, the sailor's thermos wedged by the "
+        "compass. Guidance that warns and leaves the steering to the person — "
+        "patient, modest, unshowy. Deep blue-black, pewter, one warm gold. "
+        "No lettering anywhere."
+    ),
+    "qwen3-8-27b": (
+        "Grey first light in a small plain bedroom after a heavy night: a person "
+        "in middle age sits on the edge of an unmade bed, bent forward, tying "
+        "the laces of a worn shoe. By the door a coat hangs ready on its hook "
+        "with a set of keys and a folded umbrella on the chair beneath it; rain "
+        "beads on the window, and across the street a single neighbour's window "
+        "is already lit. Nothing dramatic is happening and that is the whole "
+        "subject — the quiet bravery of beginning the ordinary day again. Soft "
+        "dove greys, washed blue, one small amber window. No lettering anywhere."
+    ),
+    "space-bunny-alpha": (
+        "Dusk on a narrow street: a thin old brick house squeezed between a "
+        "neighbour's plain brick wall with one lit upstairs window and an empty "
+        "weed-grown lot. Its door stands open onto warm light, and on the step "
+        "a visitor in a raincoat holds out a single chipped teacup in both "
+        "hands, as payment, to a doorkeeper who receives it with great care. "
+        "Through the doorway and the one front window, shelves of humble "
+        "rescued things — buttons, keys, one umbrella, a stopped watch — each "
+        "on its own small stand. A place that keeps what ordinary life throws "
+        "away. Brick reds, lamplight gold, evening violet. The walls, windows "
+        "and door are bare of any writing: no shop names, no signs, no labels, "
+        "no plaques, no painter's signature."
+    ),
 }
 
 

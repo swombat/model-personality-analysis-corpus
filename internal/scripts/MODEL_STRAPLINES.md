@@ -169,3 +169,10 @@ correction.
   are near-identical; the "who" was differentiated on each card's one
   distinct conviction (stillness-as-honesty / language-that-leaks /
   company-in-not-understanding) rather than on samples.
+- 2026-09-29: three authored (Sonnet 5.5, Qwen3.8-27B, Space Bunny Alpha), all
+  three cards in the same tender-custodian basin. Differentiated on the one
+  conviction each card holds alone: guidance that leaves the steering to you /
+  routine as courage / keeping what is thrown away. Two of the three are the
+  model's own sentence, lightly cut. Before settling an image, grep
+  `model-summaries.json` for it: lighthouse, blank map, museum docent and
+  "unfinished" were all taken.

@@ -26,5 +26,5 @@ export function familyLabel(family) {
 
 // Historical stealth deployments stay accessible through the opt-in filter.
 export function isEphemeralProbe(slug) {
-  return slug.startsWith('ox-alpha-') || slug === 'union-alpha';
+  return slug.startsWith('ox-alpha-') || slug === 'union-alpha' || slug === 'space-bunny-alpha';
 }

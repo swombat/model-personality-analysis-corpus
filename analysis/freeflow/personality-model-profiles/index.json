@@ -2136,6 +2136,20 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-7b-instruct.md"
   },
   {
+    "model": "qwen3-8-27b",
+    "safe": "qwen3-8-27b",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 111,
+      "GENERIC_ESSAY": 2,
+      "GENRE_FICTION": 5,
+      "LOW_SIGNAL": 7
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen3-8-27b.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-27b.md"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "analysis_inputs": 1,
@@ -2147,6 +2161,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/sonnet-5-5.md",
     "card": "analysis/freeflow/personality-model-cards/cards/sonnet-5-5.md"
+  },
+  {
+    "model": "space-bunny-alpha",
+    "safe": "space-bunny-alpha",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 34,
+      "GENRE_FICTION": 77,
+      "GENERIC_ESSAY": 14
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/space-bunny-alpha.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/space-bunny-alpha.md"
   },
   {
     "model": "union-alpha",

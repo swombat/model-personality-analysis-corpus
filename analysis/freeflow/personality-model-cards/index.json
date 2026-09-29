@@ -1280,11 +1280,27 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "qwen3-8-27b",
+    "safe": "qwen3-8-27b",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-27b.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "variants": 1,
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/sonnet-5-5.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "space-bunny-alpha",
+    "safe": "space-bunny-alpha",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/space-bunny-alpha.md",
     "difference_decision": "SINGLE_VARIANT"
   },
   {

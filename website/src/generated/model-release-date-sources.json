@@ -10,5 +10,7 @@
   "gpt-6-sol": "OpenRouter model record created 2026-09-22 (openai/gpt-6-sol; a gpt-6-sol-pro variant was listed the same day and is not this cell). Recorded 2026-09-22.",
   "opus-5-5": "OpenRouter model record created 2026-09-22 (anthropic/claude-opus-5.5); collected the same day. Recorded 2026-09-22.",
   "mimo-v2-5": "OpenRouter model record created 2026-04-22 (xiaomi/mimo-v2.5); matches Artificial Analysis's MiMo-V2.5 (mimo-v2-5-0424) release. Recorded 2026-09-22.",
-  "sonnet-5-5": "https://x.com/claudeai/status/2104633140409192757"
+  "sonnet-5-5": "https://x.com/claudeai/status/2104633140409192757",
+  "qwen3-8-27b": "OpenRouter model record created 2026-08-14 (qwen/qwen3.8-27b), from the endpoint snapshot saved with the capture. Recorded 2026-09-29.",
+  "space-bunny-alpha": "OpenRouter model record created 2026-09-22 (stealth/space-bunny-alpha), from the endpoint snapshot saved with the capture. This is the date the anonymous route appeared, not a lab release date. Recorded 2026-09-29."
 }

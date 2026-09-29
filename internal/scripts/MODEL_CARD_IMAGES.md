@@ -91,3 +91,8 @@ image fields survive deploys.
 - 2026-09-22: six banners rendered; two re-rolled (one for a subject
   drinking from the cup instead of examining it, one for lettering on a
   shop sign — check every render for baked-in text before wiring).
+- 2026-09-29: three banners; one took three renders. Naming a shop in the
+  prompt ("bakery", then "baker's shop") produced a lettered shop window both
+  times, whatever the no-lettering instruction said. Removing the shop from the
+  scene fixed it. If a named business is in the prompt, expect its name in the
+  paint.

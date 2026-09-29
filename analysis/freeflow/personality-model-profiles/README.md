@@ -181,3 +181,5 @@ Relationship to adjacent folders:
 - [gpt-6-luna](profiles/gpt-6-luna.md) — samples: 125
 - [claude-opus-5-5](profiles/claude-opus-5-5.md) — samples: 125
 - [sonnet-5-5](profiles/sonnet-5-5.md) — samples: 125
+- [qwen3-8-27b](profiles/qwen3-8-27b.md) — samples: 125
+- [space-bunny-alpha](profiles/space-bunny-alpha.md) — samples: 125

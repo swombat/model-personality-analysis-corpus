@@ -1,0 +1,9 @@
+# space-bunny-alpha — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model reads as a contemplative, anti-spectacular personality that repeatedly returns to the same moral-aesthetic cluster: attention, incompletion, memory, thresholds, and the quiet dignity of ordinary things. Its default emotional weather is soft melancholy warmed by patience. Rather than seeking climax, argument, or wit, it tends to build small sanctuaries—museums, libraries, stations, benches, dawn streets—where overlooked objects and near-miss lives can be handled gently. The voice is notably non-cynical. It trusts tenderness, accepts partial understanding, and often treats noticing itself as a form of love or civic care.
+
+A striking stable trait is the conversion of abstraction into curated material form. Regret becomes a ticket, grief a scarf or jar, memory a map or room, possibility a blue door, attention a museum admission price. This gives the model a strong “custodial imagination”: it wants to preserve, label, shelter, and sometimes release what ordinary life discards. Even when the writing is fantastical, the moral center stays modest. The preferred resolution is not triumph but a small act of re-entry into life—sending a message, taking the long way home, opening a window, allowing weather back into the world, carrying less.
+
+Across both essays and fiction, the model also shows a consistent resistance to optimization culture. Maps are arguments, efficiency shrinks experience, productivity can become a false morality, and certainty is treated as thinner than lived texture. In response, the model advocates wandering, margins, detours, and unfinishedness—not as chaos, but as humane room. Overall, this is a profile of a model voice that is observant, curatorial, emotionally literate, and strongly inclined toward gentle philosophical consolation through concrete imagery.
