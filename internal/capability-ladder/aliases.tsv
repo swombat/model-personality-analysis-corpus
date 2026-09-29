@@ -61,7 +61,7 @@ mistral-large-2512	mistral-large-2512	2025-12-02		none	mistral-large-3	exact	No 
 mistral-medium-3	mistral-medium-3	2025-05-07	Mistral Medium 3	exact	mistral-medium-3	exact	
 mistral-medium-3-1	mistral-medium-3.1	2025-08-12	Mistral Medium 3.1	exact	mistral-medium-3-1	exact	
 mistral-medium-3-5	mistral-medium-3-5	2026-04-30	Mistral Medium 3.5	exact	mistral-medium-3-5	exact	Only effort variant in AA is high.
-mistral-nemo	mistral-nemo	2024-07-18	Mistral NeMo	exact		none	No AA entry for Mistral NeMo.
+mistral-nemo	mistral-nemo	2024-07-18	Mistral NeMo	exact	mistral-nemo	exact	2026-09-29: corrected. AA does carry Mistral NeMo (release 2024-07-18, same date as the site row; 9 measured rungs); the earlier note saying AA had no entry was wrong. Epoch column left as it was.
 mistral-saba	mistral-saba	2025-02-17		none	mistral-saba	exact	No Epoch entry for Mistral Saba.
 mistral-small-24b-instruct-2501	mistral-small-24b-instruct-2501	2025-01-30	Mistral Small 3	exact	mistral-small-3	exact	
 mistral-small-2603	mistral-small-2603	2026-03-16		none	mistral-small-4	exact	No Epoch entry for Mistral Small 4/2603; AA splits reasoning/non-reasoning, picked reasoning.
@@ -151,14 +151,18 @@ grok-4-5	grok-4.5	2026-07-15	Grok 4.5	exact	grok-4-5	exact	AA's only effort vari
 grok-4-6	grok-4.6	2026-08-12	Grok 4.6	exact	grok-4-6-xhigh	exact	AA top effort is xhigh.
 grok-build-0-1	grok-build-0.1	2026-06-05		none	grok-build-0-1-06-16	family-match	AA's only 'Grok Build 0.1' row is dated 2026-06-16, vs site's release 2026-06-05 / endpoint snapshot 20260520 (name matches, date does not); no Epoch entry for this beta line.
 deepseek-v4-1-flash	DeepSeek V4.1 Flash	2026-09-10		none	deepseek-v4-1-flash	exact	2026-09-13: exact AA release match, max effort (sole measured variant); six measured ladder rungs.
-mercury-2-5	Mercury 2.5	2026-09-08		none		none	Inception diffusion LM. No AA or Epoch entry as of 2026-09-13 (AA has only Mercury 2).
+mercury-2-5	Mercury 2.5	2026-09-08		none	mercury-2-5	exact	2026-09-29: AA row appeared (release 2026-09-08 matches); single variant, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
 grok-4-7	grok-4.7	2026-09-21		none	grok-4-7	exact	2026-09-22: exact AA base-slug match (Combined median effort = high); five measured rungs on day two. No Epoch entry yet.
 glm-5-3-flashx	glm-5.3-flashx	2026-09-18		none		none	2026-09-22: no AA or Epoch entry. Z.ai serves FlashX as a faster (quantised) serving of GLM-5.3-Flash; do NOT borrow glm-5-3-flash's score — the quantised stack is unmeasured.
-mimo-v2-6-flash	mimo-v2.6-flash	2026-09-21		none		none	2026-09-22: no AA or Epoch entry as of day two (AA has MiMo-V2.6-Pro only).
+mimo-v2-6-flash	mimo-v2.6-flash	2026-09-21		none	mimo-v2-6-flash	exact	2026-09-29: AA row appeared; single variant, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
 mimo-v2-6-pro	mimo-v2.6-pro	2026-09-21		none	mimo-v2-6-pro	exact	2026-09-22: exact AA base-slug match; five measured rungs on day two. No Epoch entry yet.
 mimo-v2-6-pro-ultraspeed	mimo-v2.6-pro-ultraspeed	2026-09-21		none		none	2026-09-22: no AA or Epoch entry. UltraSpeed is a faster serving of MiMo-V2.6-Pro; do NOT borrow the Pro score until AA measures this endpoint.
 qwen2-5-7b-instruct	qwen2.5-7b-instruct	2024-09-19		none		none	2026-09-22: local Transformers/MPS cell of the official checkpoint. AA has no Qwen2.5 7B row; Epoch not checked for a 2024 7B instruct model.
-opus-5-5	claude-opus-5.5	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (check next capture for claude-opus-5-5).
-gpt-6-luna	gpt-6-luna	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (AA has gpt-5-6-luna only).
-gpt-6-sol	gpt-6-sol	2026-09-22		none		none	2026-09-22: released today; no AA or Epoch row yet (AA has gpt-5-6-sol only).
+opus-5-5	claude-opus-5.5	2026-09-22		none	claude-opus-5-5	exact	2026-09-29: AA row appeared (AA capture 2026-09-29); Combined point = high effort, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
+gpt-6-luna	gpt-6-luna	2026-09-22		none	gpt-6-luna	exact	2026-09-29: AA row appeared; Combined point = high effort, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
+gpt-6-sol	gpt-6-sol	2026-09-22		none	gpt-6-sol	exact	2026-09-29: AA row appeared; Combined point = high effort, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
 mimo-v2-5	mimo-v2.5	2026-04-22		none	mimo-v2-5-0424	exact	2026-09-22: AA base slug carries the 0424 date suffix; 14 measured rungs.
+sonnet-5-5	sonnet-5-5	2026-09-28		none	claude-sonnet-5-5	exact	2026-09-29: AA row present the day after release; Combined point = high effort, 7 measured rungs. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
+qwen3-8-27b	qwen3-8-27b	2026-08-14		none	qwen3-8-27b	exact	2026-09-29: AA Combined point = medium effort (median of low, medium, xhigh), 11 measured rungs. The site cell is the default-reasoning DeepInfra endpoint. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
+space-bunny-alpha	Space Bunny Alpha	2026-09-22		none		none	Stealth/anonymous OpenRouter model; no identifiable match in either index. Map resemblance to OpenAI models is not a basis for borrowing a score.
+union-alpha	Union Alpha	2026-09-16		none		none	Stealth/anonymous OpenRouter route, reported to be a cascade router; no entry in either index and no score borrowed from GPT-6 Astra.

@@ -1,0 +1,7 @@
+{
+  "initial_splits": [
+    "CAP_20260922-sol-luna-opus_gpt-6-sol_G2_22"
+  ],
+  "residual_splits": [],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

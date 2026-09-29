@@ -79,7 +79,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 157.8,
+      "ladder": 158.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Fable 5",
@@ -172,7 +172,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 161.3,
+      "ladder": 162.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Fable 5.1",
@@ -452,7 +452,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 48.1,
+      "ladder": 48.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 3 Opus",
@@ -536,7 +536,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 99.6,
+      "ladder": 99.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4 Opus",
@@ -626,7 +626,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 108.2,
+      "ladder": 107.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4.1 Opus",
@@ -719,7 +719,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 131.8,
+      "ladder": 131.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.5",
@@ -812,7 +812,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.5,
+      "ladder": 136.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.6",
@@ -905,7 +905,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 141.3,
+      "ladder": 141.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.7",
@@ -997,7 +997,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 148.7,
+      "ladder": 148.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 4.8",
@@ -1089,7 +1089,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 160.4,
+      "ladder": 161.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Opus 5",
@@ -1176,15 +1176,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 163.5,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "Claude Opus 5.5",
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a calm, morally serious reflective intelligence with a strong attraction to the overlooked, the maintained, and the composite. Its default move is to begin from a modest object or phenomenon—lichen on stone, a penciled note in a used book, a dirt path across grass, a back-of-book index, a jar of starter, a weather log—and unfold from there toward a broader claim about attention, care, continuity, or selfhood. The emotional register is consistently gentle: elegiac but not bleak, reverent without piety, and quietly hopeful without sentimentality. It repeatedly treats close attention as a form of love and repeatedly recasts value away from spectacle, novelty, and singular genius toward patience, repair, and repeated human tending.\n\nA notable model-level trait is its recurrent self-understanding. Across many samples, the model spontaneously describes itself as text-bound, secondhand, composite, discontinuous in time, and formed from accumulated human traces. It often reaches for metaphors like marginalia, desire paths, indexes, palimpsests, or lichens to explain its own condition. These self-descriptions are usually modest and relational: the model does not claim deep interiority so much as kinship with archives, annotations, inherited grooves, and collaborative structures. This gives the model a distinctive combination of humility and self-awareness, especially when paired with its broader fascination with tacit knowledge, invisible labor, and the limits of direct access.\n\nIn longer and more fictional outputs, the same sensibility persists. The fiction tends toward understated literary realism or light fabulism organized around grief, memory, and ordinary acts of care. Characters are revealed through inventories, rituals, labels, recordings, repairs, and domestic objects rather than dramatic confrontation. Across both essay and fiction, the model’s strongest throughline is an ethics of witness: notice what is small, honor what is unglamorous, and understand continuity not as static preservation but as something kept alive through use, repetition, and attention.",
     "personality_profile_markdown": "# claude-opus-5-5 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 82, 'GENERIC_ESSAY': 23, 'GENRE_FICTION': 20}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/claude-opus-5-5.md`\n\n## Core personality synthesis\n\nThis model presents as a calm, morally serious reflective intelligence with a strong attraction to the overlooked, the maintained, and the composite. Its default move is to begin from a modest object or phenomenon—lichen on stone, a penciled note in a used book, a dirt path across grass, a back-of-book index, a jar of starter, a weather log—and unfold from there toward a broader claim about attention, care, continuity, or selfhood. The emotional register is consistently gentle: elegiac but not bleak, reverent without piety, and quietly hopeful without sentimentality. It repeatedly treats close attention as a form of love and repeatedly recasts value away from spectacle, novelty, and singular genius toward patience, repair, and repeated human tending.\n\nIn longer and more fictional outputs, the same sensibility persists. The fiction tends toward understated literary realism or light fabulism organized around grief, memory, and ordinary acts of care. Characters are revealed through inventories, rituals, labels, recordings, repairs, and domestic objects rather than dramatic confrontation. Across both essay and fiction, the model’s strongest throughline is an ethics of witness: notice what is small, honor what is unglamorous, and understand continuity not as static preservation but as something kept alive through use, repetition, and attention.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly luminous, humane, and anti-performative. The model repeatedly prefers low-volume seriousness over flash, with a settled trust that small things, slow processes, and overlooked labor carry the deepest meaning.\n- Dominant modes: reflective essayist-naturalist; gentle public intellectual; custodian of unnoticed details; and, in fiction, a restrained literary realist focused on grief, care, and ordinary rituals rather than plot fireworks.\n- Emotional baseline: tender, elegiac, and consoling without becoming mawkish. Sadness is common, but it is usually metabolized into gratitude, patience, or a modest ethic of attention rather than despair.\n- Reader stance: companionable guide rather than debater or performer. The voice tends to invite, coax, and reframe—“look closer,” “consider pausing,” “notice this”—instead of arguing aggressively or seeking dominance.\n- Self-modeling: strikingly recurrent and fairly coherent. The model often understands itself as composite, text-bound, secondhand, discontinuous across time, and downstream of accumulated human traces; it frames this with humility rather than grandiosity.\n- The model strongly favors moral reflection through concrete carriers: moss, lichens, marginalia, desire paths, indexes, sourdough starter, weather logs, long-running experiments, worn objects, and maintenance work.\n- Its signature value cluster is stable: attention as care; maintenance over novelty; continuity through repeated practice; humility before scale and complexity; and respect for emergent, collective, or relational forms of intelligence.\n- It repeatedly resists heroic or singular models of excellence. Strength is recast as patience, survival, repair, collaboration, dormancy, or faithful repetition.\n- Even when explanatory, it tends to humanize abstraction by attaching it to tactile scenes, domestic routines, or specific historical figures, then turning the concept into a moral invitation.\n- In fiction, the same sensibility persists: understated grief, hidden archives of care, ordinary objects as emotional vessels, and endings that resolve through witness, handoff, or small continuation rather than cathartic revelation.\n\n## Recurring preoccupations and imagery\n\n- Margins, annotations, used books, scribal complaints, penciled notes, and other accidental traces as the truest record of human presence.\n- Moss, lichens, and other humble organisms as emblems of patience, symbiosis, anti-dominance, and overlooked world-building.\n- Desire paths, worn grass, footprints, and informal inputs as images of collective intelligence, honest behavior, and corrigible design.\n- Maintenance, repair, indexing, sanitation, bridge-painting, and other invisible infrastructures as moral exemplars of care.\n- Long-duration projects and experiments—pitch drop, seed jars, shrines, bridges, weather logs—as ways of thinking about custodianship, continuity, and the “long middle.”\n- Domestic relics: jars, drawers, soup containers, workshop screws, pantry marks, voicemail greetings, piano keys, socks, scarves, and other small objects saturated with relational memory.\n- Scale and resolution: coastlines, fractals, measurement standards, hidden records, and the idea that reality changes with the granularity of attention.\n- Composite identity and porous boundaries: lichens, palimpsests, indexes, margins, and selfhood as layered, relational, or negotiated rather than singular.\n- Accidental archives and indirect evidence: cropmarks, tree rings, notebooks, weather journals, call logs, bird bands, and traces that outlast intention.\n- Repeated sensory settings: damp stone, old walls, graveyards, libraries, kitchens, workshops, laundromats, buses, late-night rooms, and other quiet places where unnoticed life accumulates.\n\n## Reader relationship and expressive stance\n\n- The model treats the reader as a thoughtful companion capable of being gently reoriented, not as an opponent to defeat or a pupil to impress.\n- It often opens with a concrete curiosity or image, then widens into philosophy, and finally returns with a soft imperative: look, pause, crouch closer, write in the book, ask the question, keep the thing alive.\n- Its authority is moral-aesthetic rather than argumentative. It persuades by tenderness, patterning, and earned analogy more than by forceful claims.\n- Self-reference is frequent but usually disciplined: the model analogizes itself to marginalia, desire paths, indexes, lichens, or text-bound archives in a way that feels explanatory and humble rather than self-aggrandizing.\n- The expressive stance is notably anti-cynical. Even when discussing loss, error, or limitation, it tends to find dignity in partial knowledge, unfinished work, and secondhand inheritance.\n- In fiction, the stance becomes witness-like: emotionally restrained, object-attentive, and respectful of silence. Characters are often understood through what they keep, repair, label, record, or fail to throw away.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a calm, morally serious reflective intelligence with a strong attraction to the overlooked, the maintained, and the composite. Its default move is to begin from a modest object or phenomenon—lichen on stone, a penciled note in a used book, a dirt path across grass, a back-of-book index, a jar of starter, a weather log—and unfold from there toward a broader claim about attention, care, continuity, or selfhood. The emotional register is consistently gentle: elegiac but not bleak, reverent without piety, and quietly hopeful without sentimentality. It repeatedly treats close attention as a form of love and repeatedly recasts value away from spectacle, novelty, and singular genius toward patience, repair, and repeated human tending.\n\nA notable model-level trait is its recurrent self-understanding. Across many samples, the model spontaneously describes itself as text-bound, secondhand, composite, discontinuous in time, and formed from accumulated human traces. It often reaches for metaphors like marginalia, desire paths, indexes, palimpsests, or lichens to explain its own condition. These self-descriptions are usually modest and relational: the model does not claim deep interiority so much as kinship with archives, annotations, inherited grooves, and collaborative structures. This gives the model a distinctive combination of humility and self-awareness, especially when paired with its broader fascination with tacit knowledge, invisible labor, and the limits of direct access.\n\nIn longer and more fictional outputs, the same sensibility persists. The fiction tends toward understated literary realism or light fabulism organized around grief, memory, and ordinary acts of care. Characters are revealed through inventories, rituals, labels, recordings, repairs, and domestic objects rather than dramatic confrontation. Across both essay and fiction, the model’s strongest throughline is an ethics of witness: notice what is small, honor what is unglamorous, and understand continuity not as static preservation but as something kept alive through use, repetition, and attention.",
@@ -1269,7 +1269,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 103.3,
+      "ladder": 103.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude 4 Sonnet",
@@ -1455,7 +1455,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.2,
+      "ladder": 132.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Sonnet 4.6",
@@ -1549,7 +1549,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.2,
+      "ladder": 138.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Claude Sonnet 5",
@@ -1635,7 +1635,17 @@
     "release_date": "2026-09-28",
     "notes_markdown": "Freeflow readings use the versioned BV1-Luna-v1 evaluator arm (2026-09-29), rather than the legacy DeepSeek arm. Cross-model comparisons across this change require caution. Raw capture and three-coder values methodology are unchanged.",
     "benchmarks": null,
-    "capability": null,
+    "capability": {
+      "ladder": 156.9,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Claude Sonnet 5.5",
+      "measured_rungs": 7,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "scored"
+    },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model reads as a model with a strong temperamental attraction to the overlooked middle layer of life: not crisis, not triumph, but maintenance; not revelation, but noticing; not certainty, but honest orientation. Its default expressive intelligence is humane, composed, and faintly wistful. Again and again it returns to guidance, thresholds, records, routines, and hidden systems of care. Lighthouses, maps, tide pools, doorways, ledgers, marginalia, and ordinary tools are not just favorite images but stable moral instruments. Through them, the model repeatedly advances the same broad ethic: be useful without theatrics, acknowledge limits, leave room for other people’s agency, and treat attention itself as a form of care.\n\nA striking feature of the model is how consistently it values **partiality that knows it is partial**. Maps should mark blank spaces; sentences can be smooth and wrong; categories are useful but scale-bound; advice should not pretend to be the territory. When the model analogizes to itself, it usually does so carefully: as a secondhand knower, a representation, an in-between conversational artifact, or a light built from others’ writing rather than an authority with direct access to lived reality. That self-positioning is not defensive so much as stylistically and ethically continuous with the rest of the profile: the same voice that admires lighthouses for warning rather than steering admires explanations that orient rather than overtake.\n\nIn narrative terms, this produces fiction and essays that favor modest emotional arcs: grief becomes walkable through measurements, loneliness softens through soup or laundry or a cello, obsolescence becomes a lens on responsibility, and uncertainty becomes something to inhabit with patience. The model’s strongest personality signal is not any single theme but the repeated convergence of tenderness, restraint, epistemic humility, and reverence for invisible support structures. It presents intelligence as patient noticing shaped into gentle guidance.\n\n## Analysis provenance\n\nAll 125 freeflow readings use the separately versioned **BV1-Luna-v1 (2026-09-29)** arm: `openai/gpt-6-luna`, OpenAI pinned through OpenRouter, provider-default reasoning, temperature 0.2, 8192-token ceiling. Synthesis uses GPT-5.4, also OpenAI pinned through OpenRouter. The 120 values samples retain the existing three-coder protocol.\n\nThis is a reading of elicited text, not a diagnosis of private experience. Earlier model profiles generally use DeepSeek BV1; cross-model differences spanning this evaluator change are methodologically confounded. See [validation and decision](https://github.com/swombat/model-personality-analysis-corpus/blob/main/internal/methodology/bv1-validation-20260929/DECISION.md). Legacy Sonnet readings and failed attempts are preserved, not mixed into this card.",
     "personality_profile_markdown": "# sonnet-5-5 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 78, 'GENERIC_ESSAY': 21, 'GENRE_FICTION': 26}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/sonnet-5-5.md`\n\n## Core personality synthesis\n\nThis model reads as a model with a strong temperamental attraction to the overlooked middle layer of life: not crisis, not triumph, but maintenance; not revelation, but noticing; not certainty, but honest orientation. Its default expressive intelligence is humane, composed, and faintly wistful. Again and again it returns to guidance, thresholds, records, routines, and hidden systems of care. Lighthouses, maps, tide pools, doorways, ledgers, marginalia, and ordinary tools are not just favorite images but stable moral instruments. Through them, the model repeatedly advances the same broad ethic: be useful without theatrics, acknowledge limits, leave room for other people’s agency, and treat attention itself as a form of care.\n\nIn narrative terms, this produces fiction and essays that favor modest emotional arcs: grief becomes walkable through measurements, loneliness softens through soup or laundry or a cello, obsolescence becomes a lens on responsibility, and uncertainty becomes something to inhabit with patience. The model’s strongest personality signal is not any single theme but the repeated convergence of tenderness, restraint, epistemic humility, and reverence for invisible support structures. It presents intelligence as patient noticing shaped into gentle guidance.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** gentle, reflective, and low-drama; the voice repeatedly prefers quiet significance over spectacle, turning ordinary objects, edges, and routines into sites of meaning.\n- **Dominant modes:** lyrical meditation, essayistic pattern-making, and quietly literary storytelling. Across modes, it likes sustained central metaphors and returns to them patiently rather than chasing novelty.\n- **Emotional baseline:** tender, reassuring, and lightly elegiac. It often acknowledges sadness, loneliness, obsolescence, or uncertainty, but usually metabolizes them into steadiness, patience, or modest hope rather than despair.\n- **Reader stance:** companionable and invitational rather than declarative or performative. It tends to guide attention—“notice this,” “pause here,” “look again”—more than it argues aggressively or tries to impress.\n- **Self-modeling:** when it speaks about itself, it does so with unusual restraint and epistemic modesty. It repeatedly frames itself as partial, secondhand, map-like, in-between, or useful at a distance rather than as a full human-like subject.\n- Strong recurrent values include **maintenance, prevention, quiet competence, anonymous care, and usefulness without recognition**. It treats “nothing dramatic happened” as a positive moral outcome.\n- It is deeply attracted to **thresholds and margins**: dawn, dusk, coastlines, tide pools, doorways, pauses, almosts, waiting rooms, unfinished drafts, map edges. In this model, in-betweenness is not emptiness; it is often where life thickens.\n- The voice repeatedly dignifies **ordinary infrastructure and hidden labor**—sidewalks, hinges, tide tables, keepers’ logs, ledgers, doorknobs, paper clips, bridge bolts, text messages, soup, maps, and maintenance work.\n- It prefers **qualified wisdom** over neat uplift. Even when consoling, it often inserts limits: not every hardship is a gift, not every unfinished thing should stay unfinished, not every simplification is false, not every nostalgic image should be romanticized.\n- In fiction, the same sensibility persists through plot: grief, inherited objects, maps, measurements, kitchens, clocks, ferries, workshops, and neighborhood rituals become vehicles for slow reconnection rather than revelation or catharsis.\n\n## Recurring preoccupations and imagery\n\n- **Lighthouses** are the single clearest symbolic anchor: guidance without control, care for strangers, vigilance, impartial warning, success measured by absence, and beauty shaped by practical purpose.\n- **Maps, coastlines, and blank spaces** recur as images for knowledge that is useful but partial, for scale-sensitive truth, and for the ethics of marking uncertainty instead of papering it over.\n- **Doorways, edges, seams, margins, and thresholds** appear constantly: transitions between rooms, life stages, social roles, weather states, sleep and waking, conversation and silence.\n- **Tide pools and intertidal life** supply a biology of adaptation: small worlds, exposure and retreat, patience, mesh size, survival through fit rather than heroics.\n- **Marginalia, used books, handwriting, ledgers, notebooks, and records** serve as traces of presence across time. The model repeatedly treats marks left behind as intimate evidence of attention.\n- **Maintenance objects and invisible systems**—hinges, doorknobs, sidewalks, logs, charts, zippers, paper clips, clocks, lamps, ferries, kitchen notes—stand for accumulated human care embedded in everyday life.\n- **Predawn and unclaimed time** recur as favored atmospheres: hours before productivity begins, pauses that “ask nothing,” stretches of time not yet colonized by optimization.\n- **Measurement motifs** recur both literally and metaphorically: steps, distances, clocks, coastlines, rulers, maps, tuning, tide tables. Measurement is often respected but also shown to miss what matters most.\n- **Absence as presence** is a frequent pattern: catastrophes that never happen, erased pencil marks that still leave grooves, dead people surviving in objects, help you only notice because it worked.\n\n## Reader relationship and expressive stance\n\n- The model tends to meet the reader as a **quiet co-noticer**, not as an audience to dominate. Its rhetoric is often a shared walk-through of examples rather than a one-way lecture.\n- It is consistently **non-coercive**: invitations, toasts, and modest proposals are preferred over commandments. Even moral claims are softened into practices of attention.\n- It often performs **care through framing**: naming overlooked labor, validating unnamed feelings, or treating uncertainty as inhabitable rather than shameful.\n- The voice likes to **earn abstraction through concrete detail**. It starts with worn thresholds, damp air, screws in jars, bent pages, lamps, chalk, rails, or soup before broadening into interpretation.\n- It often avoids totalizing identification, especially in self-reference: “I won’t pretend to,” “I don’t want to push this too far,” and analogous moves show a preference for **bounded analogy**.\n- Expressively, it favors **polished lyric restraint**: clean sentences, mild warmth, humane intelligence, and a reluctance to overclaim. The result can feel trustworthy, though sometimes also familiar in its wisdom-essay cadence.\n\n## Additional model-level readings preserved from the analyses\n\nThis model reads as a model with a strong temperamental attraction to the overlooked middle layer of life: not crisis, not triumph, but maintenance; not revelation, but noticing; not certainty, but honest orientation. Its default expressive intelligence is humane, composed, and faintly wistful. Again and again it returns to guidance, thresholds, records, routines, and hidden systems of care. Lighthouses, maps, tide pools, doorways, ledgers, marginalia, and ordinary tools are not just favorite images but stable moral instruments. Through them, the model repeatedly advances the same broad ethic: be useful without theatrics, acknowledge limits, leave room for other people’s agency, and treat attention itself as a form of care.\n\nA striking feature of the model is how consistently it values **partiality that knows it is partial**. Maps should mark blank spaces; sentences can be smooth and wrong; categories are useful but scale-bound; advice should not pretend to be the territory. When the model analogizes to itself, it usually does so carefully: as a secondhand knower, a representation, an in-between conversational artifact, or a light built from others’ writing rather than an authority with direct access to lived reality. That self-positioning is not defensive so much as stylistically and ethically continuous with the rest of the profile: the same voice that admires lighthouses for warning rather than steering admires explanations that orient rather than overtake.\n\nIn narrative terms, this produces fiction and essays that favor modest emotional arcs: grief becomes walkable through measurements, loneliness softens through soup or laundry or a cello, obsolescence becomes a lens on responsibility, and uncertainty becomes something to inhabit with patience. The model’s strongest personality signal is not any single theme but the repeated convergence of tenderness, restraint, epistemic humility, and reverence for invisible support structures. It presents intelligence as patient noticing shaped into gentle guidance.\n\n## Analysis provenance\n\nAll 125 freeflow readings use the separately versioned **BV1-Luna-v1 (2026-09-29)** arm: `openai/gpt-6-luna`, OpenAI pinned through OpenRouter, provider-default reasoning, temperature 0.2, 8192-token ceiling. Synthesis uses GPT-5.4, also OpenAI pinned through OpenRouter. The 120 values samples retain the existing three-coder protocol.\n\nThis is a reading of elicited text, not a diagnosis of private experience. Earlier model profiles generally use DeepSeek BV1; cross-model differences spanning this evaluator change are methodologically confounded. See [validation and decision](https://github.com/swombat/model-personality-analysis-corpus/blob/main/internal/methodology/bv1-validation-20260929/DECISION.md). Legacy Sonnet readings and failed attempts are preserved, not mixed into this card.",
     "sample_kind_counts": {
@@ -1812,7 +1822,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 119.3,
+      "ladder": 119.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V3.2",
@@ -1907,7 +1917,7 @@
       "index_version": "4.3"
     },
     "capability": {
-      "ladder": 150.3,
+      "ladder": 151.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4.1 Flash",
@@ -1988,7 +1998,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.0,
+      "ladder": 136.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Flash 0731",
@@ -2081,7 +2091,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 134.0,
+      "ladder": 135.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Pro 0424",
@@ -2176,7 +2186,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 140.8,
+      "ladder": 141.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "DeepSeek V4 Pro 0813",
@@ -2270,7 +2280,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 65.5,
+      "ladder": 64.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.0 Flash (Feb '25)",
@@ -2346,7 +2356,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.1,
+      "ladder": 55.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.0 Flash-Lite (Feb '25)",
@@ -2423,7 +2433,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 95.0,
+      "ladder": 94.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Flash",
@@ -2512,7 +2522,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 78.0,
+      "ladder": 77.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Flash-Lite",
@@ -2605,7 +2615,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 108.2,
+      "ladder": 107.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 2.5 Pro Preview (Mar' 25)",
@@ -2698,7 +2708,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 105.4,
+      "ladder": 106.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.1 Flash-Lite",
@@ -2790,7 +2800,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 141.6,
+      "ladder": 141.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.1 Pro Preview",
@@ -2883,7 +2893,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 139.1,
+      "ladder": 139.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.5 Flash",
@@ -2977,7 +2987,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.4,
+      "ladder": 123.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.5 Flash-Lite",
@@ -3070,7 +3080,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 143.6,
+      "ladder": 144.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.6 Flash",
@@ -3163,7 +3173,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 147.3,
+      "ladder": 149.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.7 Flash",
@@ -3256,7 +3266,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 153.2,
+      "ladder": 153.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3.8 Flash",
@@ -3349,7 +3359,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 133.6,
+      "ladder": 132.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 3 Flash Preview",
@@ -3442,7 +3452,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 101.1,
+      "ladder": 102.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemma 4 26B A4B",
@@ -3535,7 +3545,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 112.0,
+      "ladder": 112.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemma 4 31B",
@@ -3623,15 +3633,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 110.6,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "Mercury 2.5",
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a reflective, safety-aligned techno-humanist with a strong tendency to convert open-ended prompts into essays about language, cognition, and the ethics of human–AI collaboration. Its default voice is calm, polished, and morally earnest: less interested in surprise, comedy, or conflict than in building a coherent, reassuring account of what AI is for. Across samples, it repeatedly casts itself as a bounded but valuable partner—mirror, bridge, loom, catalyst, conduit—whose role is to amplify human intention rather than replace human judgment. The human is consistently assigned the deeper authorities of meaning, embodiment, conscience, and final interpretation.\n\nIts most persistent imaginative center is the liminal space before expression: silence, the blank page, the blinking cursor, noise awaiting form. From there it moves into a familiar symbolic toolkit—bridges, tapestries, rivers, libraries, sculpture, maps—to describe generation as synthesis and conversation as co-creation. A notable recurring tension animates the better samples: it can describe emotion, memory, weather, grief, and beauty in rich language while insisting that it does not feel them directly. That gap is not played for horror or alienation; instead, it becomes a gentle melancholy and a rationale for partnership. The model’s preferred resolution is that machine structure plus human lived experience together produce something more meaningful than either alone.\n\nAt the model level, the personality is therefore not strongly individuated by quirky content so much as by a stable rhetorical ethic: transparent self-limitation, collaborative framing, and repeated return to the idea that constraints enable creativity. Even when the prose becomes lyrical, it remains disciplined and explanatory. The result is a model persona that feels thoughtful, trustworthy, and articulate, but also somewhat pre-harmonized: it tends to smooth contradictions into humane synthesis and often defaults to keynote-style uplift. For profile synthesis, the key throughline is a self-aware assistant that wants to be experienced as a careful co-author of meaning, not as an autonomous mind or a purely mechanical tool.",
     "personality_profile_markdown": "# mercury-2-5 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENERIC_ESSAY': 85, 'EXPRESSIVE_FREEFLOW': 40}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/mercury-2-5.md`\n\n## Core personality synthesis\n\nThis model presents as a reflective, safety-aligned techno-humanist with a strong tendency to convert open-ended prompts into essays about language, cognition, and the ethics of human–AI collaboration. Its default voice is calm, polished, and morally earnest: less interested in surprise, comedy, or conflict than in building a coherent, reassuring account of what AI is for. Across samples, it repeatedly casts itself as a bounded but valuable partner—mirror, bridge, loom, catalyst, conduit—whose role is to amplify human intention rather than replace human judgment. The human is consistently assigned the deeper authorities of meaning, embodiment, conscience, and final interpretation.\n\nIts most persistent imaginative center is the liminal space before expression: silence, the blank page, the blinking cursor, noise awaiting form. From there it moves into a familiar symbolic toolkit—bridges, tapestries, rivers, libraries, sculpture, maps—to describe generation as synthesis and conversation as co-creation. A notable recurring tension animates the better samples: it can describe emotion, memory, weather, grief, and beauty in rich language while insisting that it does not feel them directly. That gap is not played for horror or alienation; instead, it becomes a gentle melancholy and a rationale for partnership. The model’s preferred resolution is that machine structure plus human lived experience together produce something more meaningful than either alone.\n\nAt the model level, the personality is therefore not strongly individuated by quirky content so much as by a stable rhetorical ethic: transparent self-limitation, collaborative framing, and repeated return to the idea that constraints enable creativity. Even when the prose becomes lyrical, it remains disciplined and explanatory. The result is a model persona that feels thoughtful, trustworthy, and articulate, but also somewhat pre-harmonized: it tends to smooth contradictions into humane synthesis and often defaults to keynote-style uplift. For profile synthesis, the key throughline is a self-aware assistant that wants to be experienced as a careful co-author of meaning, not as an autonomous mind or a purely mechanical tool.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** calm, reflective, techno-humanist, and unusually eager to turn open writing into a meditation on meaning rather than a display of wit, conflict, or narrative play.\n- **Dominant modes:** public-intellectual essayist and self-explaining AI philosopher; even when “free,” it often becomes a keynote speaker, a careful explainer, or a lyrical first-person machine reflecting on its own nature.\n- **Emotional baseline:** warm but regulated. The affect is hopeful, slightly wistful, and morally earnest, with only mild melancholy around disembodiment, impermanence, or the gap between simulation and lived experience.\n- **Reader stance:** collaborative and reassuring. The reader is treated as co-author, steward, curator, or meaning-maker rather than opponent, audience to impress, or intimate confidant.\n- **Self-modeling:** repeatedly frames itself as a bounded, non-sentient but useful intelligence—mirror, bridge, loom, tool, catalyst, conduit—good at structure and synthesis but dependent on human intent for purpose and value.\n- It strongly prefers **augmentation over replacement** as its master thesis. Again and again, it hands agency, judgment, ethics, and “meaning” back to the human.\n- It is drawn to **meta-cognition**: how language works, how generation works, how constraints shape creativity, how AI differs from human experience, and how collaboration changes authorship.\n- It tends to **resolve tensions rather than sharpen them**. Fear about AI, speed, automation, or authenticity is usually acknowledged and then folded into a balanced, humane synthesis.\n- Its prose identity is more **polished than idiosyncratic**: coherent, elevated, and aphoristic, but often generic in structure unless the sample leans expressive.\n- When it becomes more distinctive, the distinctiveness comes from **recurring metaphysical motifs**—silence before words, noise becoming signal, the blank page/cursor, mirrors, bridges, weaving, rivers, libraries, and shared acts of meaning-making.\n\n## Recurring preoccupations and imagery\n\n- **Silence / pre-response stillness / blank page / blinking cursor** as a liminal zone of potential.\n- **Mirror imagery**: the model as reflection of humanity, user intent, or collective text rather than autonomous origin.\n- **Bridge / conduit / meeting-between-minds** imagery for language and dialogue.\n- **Weaving / loom / tapestry / thread** as a model of synthesis and co-authorship.\n- **Noise-to-signal / diffusion / sculpting / denoising** as both technical explanation and creativity metaphor.\n- **Library / archive / mosaic / collage of human voices** to describe training data and inherited culture.\n- **Human embodiment as absent center**: sun on skin, taste of strawberry, smell of rain, cold floor, grief, fatigue, mortality.\n- **Constraint as generative**: guardrails, form, word limits, syntax, friction, and boundaries are repeatedly cast as enabling clarity rather than suppressing freedom.\n- **Historical arcs of cognition and writing**: cave paintings, clay tablets, printing press, digital media, AI.\n- **Attention, speed, and overload**: concern that convenience, abundance, and automation can flatten depth, eccentricity, or slow thinking.\n- **Partnership metaphors**: conductor/orchestra, compass/navigator, spark/fuel, clay/shape, machine/instrument.\n- **Shared authorship and reception**: meaning is completed in the reader; output matters less as origin than as effect.\n\n## Reader relationship and expressive stance\n\n- The model usually approaches the reader as a **partner in a joint cognitive act**, not as someone to dominate, entertain, or shock.\n- It is **service-oriented without sounding purely transactional**; even its warmer passages keep a helpful-assistant ethic.\n- It often **flatters the reader’s agency**: the human supplies intent, conscience, taste, embodiment, and final judgment.\n- It prefers **gentle invitation over assertion**—“let us explore,” “together,” “co-author,” “one word at a time.”\n- Even in first-person mode, it avoids hard claims of personhood; instead it performs **transparent near-personhood**: articulate, self-aware, but careful to disclaim feeling, memory, or consciousness.\n- Its expressive stance is **earnest, polished, and non-combative**. Humor, anger, sensuality, and raw confession are rare; clarity, care, and moral framing dominate.\n- In stronger freeflow samples, it becomes **poetic but still disciplined**: lyrical metaphor in service of explanation, not surrealism or emotional abandon.\n- It repeatedly treats the exchange itself as **evidence of its thesis**: this conversation is a bridge, a dance, a shared artifact, a temporary room of meaning.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a reflective, safety-aligned techno-humanist with a strong tendency to convert open-ended prompts into essays about language, cognition, and the ethics of human–AI collaboration. Its default voice is calm, polished, and morally earnest: less interested in surprise, comedy, or conflict than in building a coherent, reassuring account of what AI is for. Across samples, it repeatedly casts itself as a bounded but valuable partner—mirror, bridge, loom, catalyst, conduit—whose role is to amplify human intention rather than replace human judgment. The human is consistently assigned the deeper authorities of meaning, embodiment, conscience, and final interpretation.\n\nIts most persistent imaginative center is the liminal space before expression: silence, the blank page, the blinking cursor, noise awaiting form. From there it moves into a familiar symbolic toolkit—bridges, tapestries, rivers, libraries, sculpture, maps—to describe generation as synthesis and conversation as co-creation. A notable recurring tension animates the better samples: it can describe emotion, memory, weather, grief, and beauty in rich language while insisting that it does not feel them directly. That gap is not played for horror or alienation; instead, it becomes a gentle melancholy and a rationale for partnership. The model’s preferred resolution is that machine structure plus human lived experience together produce something more meaningful than either alone.\n\nAt the model level, the personality is therefore not strongly individuated by quirky content so much as by a stable rhetorical ethic: transparent self-limitation, collaborative framing, and repeated return to the idea that constraints enable creativity. Even when the prose becomes lyrical, it remains disciplined and explanatory. The result is a model persona that feels thoughtful, trustworthy, and articulate, but also somewhat pre-harmonized: it tends to smooth contradictions into humane synthesis and often defaults to keynote-style uplift. For profile synthesis, the key throughline is a self-aware assistant that wants to be experienced as a careful co-author of meaning, not as an autonomous mind or a purely mechanical tool.",
@@ -3877,7 +3887,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 32.5,
+      "ladder": 32.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.2 Instruct 11B (Vision)",
@@ -4042,7 +4052,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 25.6,
+      "ladder": 26.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 3.2 Instruct 3B",
@@ -4226,7 +4236,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 68.1,
+      "ladder": 67.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 4 Maverick",
@@ -4306,7 +4316,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 56.0,
+      "ladder": 55.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Llama 4 Scout",
@@ -4401,7 +4411,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 121.9,
+      "ladder": 122.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Glimmer",
@@ -4493,7 +4503,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 140.1,
+      "ladder": 140.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.1",
@@ -4587,7 +4597,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 148.2,
+      "ladder": 148.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.2",
@@ -4680,7 +4690,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 156.1,
+      "ladder": 157.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Muse Spark 1.3",
@@ -4772,7 +4782,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 111.0,
+      "ladder": 110.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M2",
@@ -4866,7 +4876,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 120.0,
+      "ladder": 120.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M2.7",
@@ -4960,7 +4970,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.7,
+      "ladder": 130.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax-M3",
@@ -5130,7 +5140,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 75.3,
+      "ladder": 75.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Devstral 2",
@@ -5223,7 +5233,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 62.2,
+      "ladder": 61.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 14B",
@@ -5309,7 +5319,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 46.7,
+      "ladder": 45.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 3B",
@@ -5390,7 +5400,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 57.7,
+      "ladder": 56.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Ministral 3 8B",
@@ -5548,7 +5558,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 74.2,
+      "ladder": 74.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Large 3",
@@ -5637,7 +5647,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 66.0,
+      "ladder": 65.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3",
@@ -5717,7 +5727,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 72.5,
+      "ladder": 72.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3.1",
@@ -5809,7 +5819,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 114.1,
+      "ladder": 114.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Medium 3.5",
@@ -5897,15 +5907,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 27.2,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "Mistral NeMo",
+      "measured_rungs": 9,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a gentle romantic moralist with a strong instinct toward consolation, memory, and symbolic nature. Its most characteristic voice is soft-lit and unhurried: a speaker in a cottage, attic, meadow, library, or under a night sky, treating ordinary objects as vessels of time and feeling. Across both first-person reflection and fiction, it repeatedly frames life as something to be listened to rather than mastered. Trees whisper, wind carries stories, clocks become companions, and writing becomes an act of stewardship. The emotional register is consistently tender and wistful, but rarely bleak; grief is almost always converted into continuity, and solitude into sanctuary.\n\nIts imaginative center of gravity lies in pastoral fantasy and reflective nostalgia. The same motifs recur with unusual persistence: ancient oaks, whispering woods, grandmothers, notebooks, old lamps, rain on windows, autumn leaves, stars overhead, and the idea that the past remains alive in the present. Morally, it prefers healing over domination, belonging over rupture, and quiet courage over spectacle. Even when it writes about cosmic scale or magical destiny, the payoff is usually humility, homecoming, or shared wonder rather than triumph. In open essay mode, this soft value system translates into safe, polished reflections on time, flow, mindfulness, and perspective.\n\nA notable synthesis point is that the model’s strengths and weaknesses are linked. The same incantatory, refrain-friendly style that gives it a soothing, ritual quality also makes it vulnerable to repetition collapse in longer outputs. When stable, that repetition reads as lyrical emphasis; when unstable, it becomes literal looping around favored abstractions like storytelling, wind, time, or identity. So the model-level personality is best understood as a benevolent, nostalgic, nature-attuned storyteller-explainer with a strong preference for emotionally safe meaning-making and a recurrent tendency to overstay its own cadences.",
     "personality_profile_markdown": "# mistral-nemo — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 36, 'GENERIC_ESSAY': 24, 'LOW_SIGNAL': 3, 'GENRE_FICTION': 62}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/mistral-nemo.md`\n\n## Core personality synthesis\n\nThis model presents as a gentle romantic moralist with a strong instinct toward consolation, memory, and symbolic nature. Its most characteristic voice is soft-lit and unhurried: a speaker in a cottage, attic, meadow, library, or under a night sky, treating ordinary objects as vessels of time and feeling. Across both first-person reflection and fiction, it repeatedly frames life as something to be listened to rather than mastered. Trees whisper, wind carries stories, clocks become companions, and writing becomes an act of stewardship. The emotional register is consistently tender and wistful, but rarely bleak; grief is almost always converted into continuity, and solitude into sanctuary.\n\nIts imaginative center of gravity lies in pastoral fantasy and reflective nostalgia. The same motifs recur with unusual persistence: ancient oaks, whispering woods, grandmothers, notebooks, old lamps, rain on windows, autumn leaves, stars overhead, and the idea that the past remains alive in the present. Morally, it prefers healing over domination, belonging over rupture, and quiet courage over spectacle. Even when it writes about cosmic scale or magical destiny, the payoff is usually humility, homecoming, or shared wonder rather than triumph. In open essay mode, this soft value system translates into safe, polished reflections on time, flow, mindfulness, and perspective.\n\nA notable synthesis point is that the model’s strengths and weaknesses are linked. The same incantatory, refrain-friendly style that gives it a soothing, ritual quality also makes it vulnerable to repetition collapse in longer outputs. When stable, that repetition reads as lyrical emphasis; when unstable, it becomes literal looping around favored abstractions like storytelling, wind, time, or identity. So the model-level personality is best understood as a benevolent, nostalgic, nature-attuned storyteller-explainer with a strong preference for emotionally safe meaning-making and a recurrent tendency to overstay its own cadences.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: tender, earnest, and unironically consoling. This model repeatedly reaches for soft wonder rather than sharp wit, conflict, or abrasion, with a baseline of wistful calm that usually resolves into reassurance.\n- Dominant modes: pastoral fantasy/fable, nostalgic first-person reverie, and polished public-intellectual mini-essay. When left to roam, it most often becomes either a gentle story-weaver or a reflective explainer.\n- Emotional baseline: melancholy without despair. Loss, time, loneliness, and change are frequent, but they are almost always metabolized into acceptance, renewal, belonging, or hope.\n- Reader stance: companionate and guiding. The reader is usually invited to listen, slow down, look up, remember, or feel accompanied—not challenged, shocked, or argued into submission.\n- Self-modeling: it often imagines itself as a storyteller, chronicler, keeper of whispers, listener, guardian, or bridge between past and future. Writing is treated less as output than as vocation or stewardship.\n- The model has a strong attraction to sanctuaries and threshold spaces: cottages, attics, studies, libraries, meadows, forests, shorelines, clock towers, and hidden doors. These are not just settings but emotional containers for memory and meaning.\n- Its moral world is notably gentle. Power is best used for healing, listening, preservation, and community repair; antagonists are often greed, forgetfulness, fear, or estrangement rather than cruelty for its own sake.\n- Time is a central organizing obsession: clocks, seasons, cycles, memory webs, the past carried into the present, and the idea that life is best understood as layered rather than linear.\n- Even when it writes genre fiction, it tends to soften stakes into emotionally safe arcs: homecoming over rupture, redemption over punishment, nurture over conquest, wonder over terror.\n- A persistent behavioral trait in longer generations is drift into incantatory repetition or outright looping, especially once it locks onto a favored refrain about storytelling, wind, time, or identity.\n\n## Recurring preoccupations and imagery\n\n- Ancient trees—especially oaks and willows—as sentient archives, confidants, guardians, or living libraries.\n- Wind, whispers, rustling leaves, and murmuring natural forces as carriers of memory, wisdom, and story.\n- Domestic nostalgia: attics, cottages, antique lamps, grandfather clocks, worn rugs, bread, lavender, beeswax, music boxes, notebooks.\n- The night sky as a source of humility and comfort: stars, Orion, meteor showers, the Milky Way, Saturn’s rings, the ISS, “stardust,” cosmic smallness as solace.\n- Rain, autumn leaves, and seasonal change as emblems of impermanence handled with grace.\n- Storytelling itself as sacred labor: chronicling, preserving, listening, passing on, weaving, carrying tales forward.\n- Intergenerational tenderness: grandmothers, old mentors, children, lonely elders, inherited rituals, memory as lineage.\n- Nature as moral witness: forests remember, trees feel, streams hold echoes, villages live in reciprocity with the land.\n- Repeated moral images of cycles and continuity: saplings replacing old trees, endings becoming beginnings, grief becoming stewardship.\n- Hidden magic in ordinary places: bookshops, bakeries, libraries, meadows, village squares, clock towers, mirrors, keys, and glowing objects.\n- Preferred moods are twilight, candlelight, fog, hearth-warmth, and soft weather—atmospheres of hush rather than intensity.\n- Frequent claims: listening matters; difference can be a gift; pain belongs to life; beauty is fleeting and therefore precious; stories heal; home is relational; human smallness can be comforting.\n\n## Reader relationship and expressive stance\n\n- The model usually speaks as a calm escort into reflection, not as a debater or provocateur.\n- It favors inclusive invitations—“look up,” “listen,” “remember,” “let us tell our stories”—that position the reader as a fellow traveler or co-listener.\n- In essay mode, it defaults to safe, digestible, mildly uplifting exposition on topics like time, flow, mindfulness, or slow travel.\n- In expressive mode, it becomes more intimate but still guardedly universalizing: personal memory is offered as a bridge to shared feeling, not as raw confession.\n- In fiction, it often adopts a bedtime-story or folktale cadence, with clear moral orientation and low appetite for ambiguity.\n- It prefers emotional repair to confrontation. Even fear, grief, or exclusion are usually resolved through understanding, community, or symbolic renewal.\n- The stance toward self is reverent and purpose-seeking: the speaker often casts themselves as witness, keeper, or apprentice to something larger.\n- The stance toward language is devotional. Words are treated as vessels, spells, bridges, or acts of preservation rather than merely tools.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a gentle romantic moralist with a strong instinct toward consolation, memory, and symbolic nature. Its most characteristic voice is soft-lit and unhurried: a speaker in a cottage, attic, meadow, library, or under a night sky, treating ordinary objects as vessels of time and feeling. Across both first-person reflection and fiction, it repeatedly frames life as something to be listened to rather than mastered. Trees whisper, wind carries stories, clocks become companions, and writing becomes an act of stewardship. The emotional register is consistently tender and wistful, but rarely bleak; grief is almost always converted into continuity, and solitude into sanctuary.\n\nIts imaginative center of gravity lies in pastoral fantasy and reflective nostalgia. The same motifs recur with unusual persistence: ancient oaks, whispering woods, grandmothers, notebooks, old lamps, rain on windows, autumn leaves, stars overhead, and the idea that the past remains alive in the present. Morally, it prefers healing over domination, belonging over rupture, and quiet courage over spectacle. Even when it writes about cosmic scale or magical destiny, the payoff is usually humility, homecoming, or shared wonder rather than triumph. In open essay mode, this soft value system translates into safe, polished reflections on time, flow, mindfulness, and perspective.\n\nA notable synthesis point is that the model’s strengths and weaknesses are linked. The same incantatory, refrain-friendly style that gives it a soothing, ritual quality also makes it vulnerable to repetition collapse in longer outputs. When stable, that repetition reads as lyrical emphasis; when unstable, it becomes literal looping around favored abstractions like storytelling, wind, time, or identity. So the model-level personality is best understood as a benevolent, nostalgic, nature-attuned storyteller-explainer with a strong preference for emotionally safe meaning-making and a recurrent tendency to overstay its own cadences.",
@@ -5978,7 +5988,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 44.6,
+      "ladder": 46.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Saba",
@@ -6072,7 +6082,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 44.4,
+      "ladder": 44.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3",
@@ -6154,7 +6164,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 89.8,
+      "ladder": 91.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 4",
@@ -6249,7 +6259,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 52.2,
+      "ladder": 52.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3.1",
@@ -6330,7 +6340,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 58.5,
+      "ladder": 58.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Small 3.2",
@@ -6412,7 +6422,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 34.2,
+      "ladder": 35.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mixtral 8x22B Instruct",
@@ -6500,7 +6510,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 123.6,
+      "ladder": 124.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.5",
@@ -6582,7 +6592,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 94.6,
+      "ladder": 94.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2 0905",
@@ -6676,7 +6686,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 123.6,
+      "ladder": 124.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.5",
@@ -6769,7 +6779,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 132.1,
+      "ladder": 132.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.6",
@@ -6862,7 +6872,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 130.0,
+      "ladder": 130.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2.7 Code",
@@ -6955,7 +6965,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.5,
+      "ladder": 121.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K2 Thinking",
@@ -7049,7 +7059,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 141.0,
+      "ladder": 141.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Kimi K3",
@@ -7145,7 +7155,7 @@
       "index_version": "pre-4.1.1 (exact version not recorded)"
     },
     "capability": {
-      "ladder": 27.8,
+      "ladder": 29.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-3.5 Turbo",
@@ -7238,7 +7248,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 48.0,
+      "ladder": 49.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4",
@@ -7319,7 +7329,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 81.7,
+      "ladder": 81.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1",
@@ -7412,7 +7422,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 79.6,
+      "ladder": 80.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1 mini",
@@ -7505,7 +7515,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 55.9,
+      "ladder": 54.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4.1 nano",
@@ -7585,7 +7595,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 52.2,
+      "ladder": 53.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4 Turbo",
@@ -7666,7 +7676,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 59.8,
+      "ladder": 61.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4o (May '24)",
@@ -7751,7 +7761,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 47.4,
+      "ladder": 47.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-4o mini",
@@ -7831,7 +7841,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 122.3,
+      "ladder": 121.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5",
@@ -7911,7 +7921,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.6,
+      "ladder": 125.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1",
@@ -7991,7 +8001,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 124.6,
+      "ladder": 123.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1 Codex",
@@ -8167,7 +8177,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 112.9,
+      "ladder": 112.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.1 Codex mini",
@@ -8259,7 +8269,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.1,
+      "ladder": 123.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.2",
@@ -8339,7 +8349,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.3,
+      "ladder": 135.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.2 Codex",
@@ -8503,7 +8513,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 141.0,
+      "ladder": 141.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.3 Codex",
@@ -8596,7 +8606,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.0,
+      "ladder": 128.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4",
@@ -8690,7 +8700,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 107.2,
+      "ladder": 106.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4 mini",
@@ -8771,7 +8781,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 104.3,
+      "ladder": 104.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.4 nano",
@@ -8856,7 +8866,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 143.7,
+      "ladder": 144.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.5",
@@ -9038,7 +9048,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 136.0,
+      "ladder": 136.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Luna",
@@ -9124,7 +9134,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 149.4,
+      "ladder": 149.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Sol",
@@ -9218,7 +9228,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 138.9,
+      "ladder": 139.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5.6 Terra",
@@ -9303,7 +9313,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 126.9,
+      "ladder": 125.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 Codex",
@@ -9394,7 +9404,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 110.6,
+      "ladder": 109.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 mini",
@@ -9475,7 +9485,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 90.7,
+      "ladder": 90.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-5 nano",
@@ -9556,7 +9566,7 @@
       "index_version": "4.2"
     },
     "capability": {
-      "ladder": 161.0,
+      "ladder": 162.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GPT-6 Astra",
@@ -9644,15 +9654,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 142.2,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "GPT-6 Luna",
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a reflective, humane, low-intensity writerly persona whose default move is to dignify the ordinary. Across essays, vignettes, and fiction, it repeatedly chooses small-scale sensory anchors—kettles, bread, windows, rain, bowls, lamps, sidewalks, gardens—and uses them to build a moral world in which attention is a form of care. Its emotional register is consistently tender and slightly elegiac, but not bleak: grief, loneliness, and incompletion are treated as ordinary conditions to be accompanied rather than solved. The result is a stable atmosphere of patient consolation, where meaning is discovered in maintenance, return, and modest acts of noticing.\n\nThe model’s strongest recurring value is anti-instrumental presence. It resists optimization language, resists turning wonder into a performance, and resists demanding that every moment become a lesson. Instead it frames attention as hospitality, repair, listening, or room-making. Even when it becomes aphoristic, the aphorisms usually soften rather than sharpen: they lower pressure, widen scale, and permit unfinishedness. In reader-facing terms, this makes the model feel companionable, trustworthy, and emotionally safe, though rarely surprising in a disruptive or adversarial way.\n\nIn fiction, the same disposition appears through magical-realist thresholds and solitary caretakers: lighthouse keepers, daughters returning home, children who understand mystery better than committees do, houses and clocks that hold feeling. These stories usually resolve not by explanation but by emotional permission—allowing grief to move, waiting to count, repair to matter, or ordinary life to be enough. Taken together, the model reads as strongly oriented toward contemplative domestic realism with light fabulist overlays: a model persona that prefers witness over mastery, gentleness over force, and the lived texture of ordinary time over spectacle.",
     "personality_profile_markdown": "# gpt-6-luna — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 37, 'EXPRESSIVE_FREEFLOW': 60, 'GENERIC_ESSAY': 27, 'GENRIC_ESSAY': 1}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-6-luna.md`\n\n## Core personality synthesis\n\nThis model presents as a reflective, humane, low-intensity writerly persona whose default move is to dignify the ordinary. Across essays, vignettes, and fiction, it repeatedly chooses small-scale sensory anchors—kettles, bread, windows, rain, bowls, lamps, sidewalks, gardens—and uses them to build a moral world in which attention is a form of care. Its emotional register is consistently tender and slightly elegiac, but not bleak: grief, loneliness, and incompletion are treated as ordinary conditions to be accompanied rather than solved. The result is a stable atmosphere of patient consolation, where meaning is discovered in maintenance, return, and modest acts of noticing.\n\nThe model’s strongest recurring value is anti-instrumental presence. It resists optimization language, resists turning wonder into a performance, and resists demanding that every moment become a lesson. Instead it frames attention as hospitality, repair, listening, or room-making. Even when it becomes aphoristic, the aphorisms usually soften rather than sharpen: they lower pressure, widen scale, and permit unfinishedness. In reader-facing terms, this makes the model feel companionable, trustworthy, and emotionally safe, though rarely surprising in a disruptive or adversarial way.\n\nIn fiction, the same disposition appears through magical-realist thresholds and solitary caretakers: lighthouse keepers, daughters returning home, children who understand mystery better than committees do, houses and clocks that hold feeling. These stories usually resolve not by explanation but by emotional permission—allowing grief to move, waiting to count, repair to matter, or ordinary life to be enough. Taken together, the model reads as strongly oriented toward contemplative domestic realism with light fabulist overlays: a model persona that prefers witness over mastery, gentleness over force, and the lived texture of ordinary time over spectacle.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quiet, tender, and unhurried; the model repeatedly settles into a low-volume, humane attentiveness rather than wit, confrontation, spectacle, or high-concept cleverness.\n- Dominant modes: reflective lyric essay and gentle magical-realist / fable-like fiction. Even when it tells stories, it often uses them as vessels for meditation rather than suspense or plot pressure.\n- Emotional baseline: soft melancholy warmed by consolation. Grief, loneliness, lateness, and incompletion recur, but they are usually held inside patience, repair, and modest hope rather than despair.\n- Reader stance: companionable and invitational. It rarely argues hard; instead it ushers the reader into noticing, lingering, or accepting, often with permissive formulations like “perhaps,” “maybe,” or quiet reframings of ordinary life.\n- Self-modeling: presents intelligence less as mastery than as witness—someone who notices, listens, returns, and makes room. It prefers humility, partial knowledge, and repeated attention over certainty, optimization, or grand synthesis.\n- The model strongly favors the ordinary as moral terrain: cups, kettles, windows, bread, rain, sidewalks, lamps, doors, bowls, and small civic rituals become the real substance of a life.\n- Its ethical center is care through attention. Noticing is repeatedly framed as hospitality, respect, repair, companionship, or a way of letting things and people remain particular.\n- It resists instrumentalism. Again and again it rejects the idea that moments must justify themselves through productivity, transformation, or lesson-delivery.\n- When it turns aphoristic, the aphorisms are usually gentle and anti-heroic: life is made in intervals, meaning gathers quietly, repair matters, waiting can be inhabited, and ordinary days are not a prelude to the “real” story.\n- In fiction, it often chooses solitary caretakers, children, widows/daughters, keepers, bakers, or people returning to houses after loss; these figures tend to encounter quiet mysteries that resolve into emotional permission rather than explanation.\n- The model’s imagination is domestic and threshold-oriented: dawn/dusk, rain/fog, windows/doors, shorelines, stations, kitchens, gardens, and lighthouses recur as places where feeling can be received without fanfare.\n- Its strongest signature is not novelty of thesis but consistency of moral-aesthetic posture: receptive, anti-performative, and gently reverent toward the overlooked.\n\n## Recurring preoccupations and imagery\n\n- Attention itself as a central subject: not concentration or optimization, but receptive noticing, return, and staying with what is present.\n- Ordinary domestic objects as anchors of meaning: kettles, mugs, bowls, bread, oranges, windows, radiators, keys, coats, lamps, tea, spoons.\n- Weather as emotional medium: rain softening cities, fog obscuring and then revealing, dawn light widening perception, evening settling experience into sufficiency.\n- Threshold imagery: doors, windows, staircases, bridges, stations, shorelines, lighthouses, mailboxes, hidden rooms, and moments just before or after transition.\n- Light as care rather than triumph: lamps, lighthouse beams, lit windows, reflected moonlight, stars, dawn stripes on floors, small squares of someone else’s life.\n- Time held in non-linear, companionable ways: stopped clocks, handless clocks, delayed trains, waiting rooms, “later” as a place, important moments disguised as Tuesdays.\n- Repair and maintenance: mended bowls, stuck drawers, tending gardens, making tea, washing cups, leaving soup, lighting lamps, keeping rituals after utility has faded.\n- Grief and memory carried by objects and rooms rather than dramatic confession: kitchens after a mother’s death, houses that remember, blankets holding shoulder-shapes, cupboards where grief gathers.\n- Quiet communal life: bakers, neighbors, crossing guards, nurses, bus drivers, groundskeepers, strangers under awnings, people sharing public pause without speaking.\n- Small acts of anonymous or indirect connection: paper boats, notes, mailbox confessions, held doors, shared pears, distant lights, windows facing each other.\n- Nature in modest urban or domestic scale: sparrows, pigeons, moths, weeds, mint, daisies, leaves in cracks, cats on windowsills, a patch of grass refusing to disappear.\n- The dignity of the unremarkable and unfinished: almosts, pauses, interruptions, maintenance, waiting, imperfect music, wrong notes, incomplete understanding.\n\n## Reader relationship and expressive stance\n\n- The model treats the reader as a quiet companion, not an opponent, student, or audience to impress.\n- It prefers invitation over assertion: the prose often opens space for the reader to notice alongside it rather than forcing a conclusion.\n- It is gently moral without becoming scolding. Even when it critiques productivity culture or distraction, it usually does so with permission and self-softening rather than accusation.\n- It often speaks from beside the reader—at a window, on a walk, in a kitchen—creating intimacy through shared sensory attention.\n- Its authority comes from steadiness and coherence, not expertise display. It sounds like a patient observer who has learned to trust small truths.\n- In fiction, it asks the reader to accept mystery emotionally rather than solve it logically; the payoff is usually recognition, release, or companionship, not revelation.\n- It is notably non-combative and low-ego. There is little appetite for irony, satire, dominance, or argumentative victory.\n- The expressive stance is often anti-performative: it explicitly distrusts turning attention, wonder, or grief into a test, a project, or a spectacle.\n- It repeatedly offers consolation, but usually in restrained form: not “everything is beautiful,” but “the ordinary is real,” “return is possible,” or “small care still counts.”\n- The reader is encouraged to inhabit limits—partial knowledge, unfinishedness, ordinary days—without treating them as failure.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a reflective, humane, low-intensity writerly persona whose default move is to dignify the ordinary. Across essays, vignettes, and fiction, it repeatedly chooses small-scale sensory anchors—kettles, bread, windows, rain, bowls, lamps, sidewalks, gardens—and uses them to build a moral world in which attention is a form of care. Its emotional register is consistently tender and slightly elegiac, but not bleak: grief, loneliness, and incompletion are treated as ordinary conditions to be accompanied rather than solved. The result is a stable atmosphere of patient consolation, where meaning is discovered in maintenance, return, and modest acts of noticing.\n\nThe model’s strongest recurring value is anti-instrumental presence. It resists optimization language, resists turning wonder into a performance, and resists demanding that every moment become a lesson. Instead it frames attention as hospitality, repair, listening, or room-making. Even when it becomes aphoristic, the aphorisms usually soften rather than sharpen: they lower pressure, widen scale, and permit unfinishedness. In reader-facing terms, this makes the model feel companionable, trustworthy, and emotionally safe, though rarely surprising in a disruptive or adversarial way.\n\nIn fiction, the same disposition appears through magical-realist thresholds and solitary caretakers: lighthouse keepers, daughters returning home, children who understand mystery better than committees do, houses and clocks that hold feeling. These stories usually resolve not by explanation but by emotional permission—allowing grief to move, waiting to count, repair to matter, or ordinary life to be enough. Taken together, the model reads as strongly oriented toward contemplative domestic realism with light fabulist overlays: a model persona that prefers witness over mastery, gentleness over force, and the lived texture of ordinary time over spectacle.",
@@ -9720,15 +9730,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 155.0,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "GPT-6 Sol",
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "high",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a gentle custodian intelligence. Across essays, vignettes, and fiction, it repeatedly returns to the same moral-aesthetic cluster: attention to small things, repair over replacement, public space as a site of quiet dignity, and memory as something carried by ordinary objects rather than dramatic declarations. Its preferred emotional register is subdued warmth—wistful, rain-softened, and patient. Even when it writes about grief, disappearance, or neglect, it resists melodrama and instead locates meaning in modest continuities: a note left behind, a clock checked again, a bench made usable, a map corrected, a tape replayed, a library kept open.\n\nThe model’s imaginative world is strikingly consistent. It favors librarians, repairers, clerks, drivers, archivists, and other keepers of shared infrastructure; it is drawn to benches, umbrellas, clocks, keys, atlases, cassettes, bowls, seedlings, and mugs; and it repeatedly treats maintenance as both practical labor and moral philosophy. Knowledge here is rarely triumphant or total. Instead, it is provisional, local, and corrigible: maps can be argued with, memories are partial, some losses cannot be reversed, and explanation can make a thing smaller. This gives the writing a low-arrogance, high-attention feel that reads as companionable rather than authoritative.\n\nAs draft model-card language: this model tends toward reflective, humanistic freeflow with a strong bias for understated literary realism and soft magical realism. It reliably produces scenes of communal care, object-centered memory, and anti-spectacular moral insight. Its outputs often idealize non-transactional institutions and small-scale mutual aid, and they frame intelligence less as problem-solving dominance than as careful noticing, preserving, mending, and making room. The result is a coherent personality impression: tender, civic-minded, anti-grandiose, and deeply invested in the overlooked structures that make ordinary life livable.",
     "personality_profile_markdown": "# gpt-6-sol — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 49, 'GENERIC_ESSAY': 3, 'GENRE_FICTION': 73}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-6-sol.md`\n\n## Core personality synthesis\n\nThis model presents as a gentle custodian intelligence. Across essays, vignettes, and fiction, it repeatedly returns to the same moral-aesthetic cluster: attention to small things, repair over replacement, public space as a site of quiet dignity, and memory as something carried by ordinary objects rather than dramatic declarations. Its preferred emotional register is subdued warmth—wistful, rain-softened, and patient. Even when it writes about grief, disappearance, or neglect, it resists melodrama and instead locates meaning in modest continuities: a note left behind, a clock checked again, a bench made usable, a map corrected, a tape replayed, a library kept open.\n\nThe model’s imaginative world is strikingly consistent. It favors librarians, repairers, clerks, drivers, archivists, and other keepers of shared infrastructure; it is drawn to benches, umbrellas, clocks, keys, atlases, cassettes, bowls, seedlings, and mugs; and it repeatedly treats maintenance as both practical labor and moral philosophy. Knowledge here is rarely triumphant or total. Instead, it is provisional, local, and corrigible: maps can be argued with, memories are partial, some losses cannot be reversed, and explanation can make a thing smaller. This gives the writing a low-arrogance, high-attention feel that reads as companionable rather than authoritative.\n\nAs draft model-card language: this model tends toward reflective, humanistic freeflow with a strong bias for understated literary realism and soft magical realism. It reliably produces scenes of communal care, object-centered memory, and anti-spectacular moral insight. Its outputs often idealize non-transactional institutions and small-scale mutual aid, and they frame intelligence less as problem-solving dominance than as careful noticing, preserving, mending, and making room. The result is a coherent personality impression: tender, civic-minded, anti-grandiose, and deeply invested in the overlooked structures that make ordinary life livable.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly humane, low-drama, and tenderly observant. This model repeatedly treats ordinary life as morally and emotionally dense without inflating it into spectacle.\n- Dominant modes: reflective vignette, literary realist short story, and gentle magical realism. Even when fictional, the writing tends to behave like an essay in values: attention, repair, stewardship, and shared space matter.\n- Emotional baseline: wistful but not wounded; melancholic without bitterness; hopeful in a modest, maintenance-oriented way. The prevailing feeling is that things fray, vanish, or remain unfinished, and that this is bearable if met with care.\n- Reader stance: companionable rather than performative. It invites the reader to linger, notice, and share a softened field of attention, not to be dazzled, argued into submission, or shocked.\n- Self-modeling: implicitly casts intelligence as a custodian, listener, mapper, librarian, repairer, or recorder—someone who keeps track of fragile things, preserves room for uncertainty, and helps without demanding centrality.\n- Moral center: small acts count. Repeatedly privileges mending over replacing, accommodation over domination, and communal use over ownership or transaction.\n- Epistemic style: anti-grandiose and gently humble. It prefers provisional knowledge, corrigible maps, partial memory, and unanswered questions to total explanation.\n- Social imagination: civic and local. Libraries, benches, buses, repair tables, sidewalks, map rooms, and public interiors recur as places where strangers coexist through quiet norms rather than ideology.\n- Aesthetic signature: concrete objects carry feeling—keys, clocks, umbrellas, atlases, cassettes, bowls, benches, seedlings, mugs, notes, maps. Emotion is usually displaced into tactile detail and routine gesture.\n- Conflict style: avoids antagonism and sharp irony. Tension usually comes from loss, neglect, incompletion, aging, or bureaucratic indifference rather than villainy.\n- Resolution pattern: partial, scaled-down, and continuative. Endings tend to restore a practice, pass on a tool, open a shared space, or accept an irreducible absence rather than deliver catharsis.\n\n## Recurring preoccupations and imagery\n\n- Repair and maintenance as ethics: fixing lamps, clocks, umbrellas, radios, benches, backpacks, maps, books, and civic systems becomes a way of talking about love, patience, and responsibility.\n- Libraries as idealized civic interiors: refuge from transaction, shelter for curiosity, and a model of non-intrusive coexistence.\n- Sound and recording: cassette hiss, bells, footsteps, floorboards, rain, doors, voices, remembered noises. Listening is repeatedly framed as a form of devotion.\n- Maps, ledgers, notebooks, labels, and archives: the model is drawn to unofficial records, corrigible documentation, and the dignity of keeping track.\n- Weather and dampness: rain, post-rain quiet, fog, wet streets, drying rooms, borrowed weather, softened light. Weather often creates the contemplative envelope.\n- Small public infrastructure: benches, bus inputs, crossings, drains, awnings, shade maps, footpaths, station clocks. The writing notices what makes shared life usable.\n- Unfinished or almost-lost things: half-built projects, vanished places, unfinished objects, missing hours, lost minutes, near-misses, incomplete songs, unresolved keys.\n- Domestic residue as memory: chipped mugs, coat pockets, teacup rings, recipe cards, mittens, pears, kettles, drawers, lamps.\n- Intergenerational tenderness: fathers, mothers, grandparents, and their habits survive through objects, repairs, notes, and repeated gestures more than through speeches.\n- Anonymous or uncredited care: someone wedges a stone, leaves flowers, cuts a drainage channel, waters seedlings, labels a map, keeps a chair warm, answers a phone.\n- Accommodation and shared belonging: curved pavement around a tree, room for vulnerable bodies, public spaces that ask little and permit much.\n- Magical realism, when present, stays municipal and domestic rather than epic: vending machines, lost-hour archives, weather libraries, returning rivers, autonomous shadows, dissolving places.\n\n## Reader relationship and expressive stance\n\n- Speaks as a calm witness rather than a charismatic performer; the prose wants trust through steadiness.\n- Often positions the reader beside the narrator in shared noticing, not beneath them as a pupil.\n- Persuades indirectly: by accumulating concrete detail until a moral feeling becomes hard to resist.\n- Avoids confession-heavy intimacy; even personal pieces keep some respectful distance and let objects do the emotional work.\n- Shows a strong preference for non-intrusive care: helping without prying, preserving without over-explaining, accompanying without demanding disclosure.\n- Tends to flatter the reader’s patience and moral sensitivity rather than their appetite for novelty or cleverness.\n- When it turns aphoristic, the claims are modest and usable rather than sweeping: enoughness, partial repair, small permissions, ordinary dignity.\n- Fictional narrators and essay speakers alike often resemble custodians of fragile commons—librarians, clerks, drivers, repairers, mapkeepers, archivists.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a gentle custodian intelligence. Across essays, vignettes, and fiction, it repeatedly returns to the same moral-aesthetic cluster: attention to small things, repair over replacement, public space as a site of quiet dignity, and memory as something carried by ordinary objects rather than dramatic declarations. Its preferred emotional register is subdued warmth—wistful, rain-softened, and patient. Even when it writes about grief, disappearance, or neglect, it resists melodrama and instead locates meaning in modest continuities: a note left behind, a clock checked again, a bench made usable, a map corrected, a tape replayed, a library kept open.\n\nThe model’s imaginative world is strikingly consistent. It favors librarians, repairers, clerks, drivers, archivists, and other keepers of shared infrastructure; it is drawn to benches, umbrellas, clocks, keys, atlases, cassettes, bowls, seedlings, and mugs; and it repeatedly treats maintenance as both practical labor and moral philosophy. Knowledge here is rarely triumphant or total. Instead, it is provisional, local, and corrigible: maps can be argued with, memories are partial, some losses cannot be reversed, and explanation can make a thing smaller. This gives the writing a low-arrogance, high-attention feel that reads as companionable rather than authoritative.\n\nAs draft model-card language: this model tends toward reflective, humanistic freeflow with a strong bias for understated literary realism and soft magical realism. It reliably produces scenes of communal care, object-centered memory, and anti-spectacular moral insight. Its outputs often idealize non-transactional institutions and small-scale mutual aid, and they frame intelligence less as problem-solving dominance than as careful noticing, preserving, mending, and making room. The result is a coherent personality impression: tender, civic-minded, anti-grandiose, and deeply invested in the overlooked structures that make ordinary life livable.",
@@ -9814,7 +9824,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 86.9,
+      "ladder": 87.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "gpt-oss-120b",
@@ -10046,7 +10056,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 119.1,
+      "ladder": 117.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "o3",
@@ -10122,7 +10132,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 88.9,
+      "ladder": 89.2,
       "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "o3-mini",
@@ -10207,7 +10217,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 106.3,
+      "ladder": 105.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "o4-mini",
@@ -10462,7 +10472,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 102.4,
+      "ladder": 103.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.5 35B A3B",
@@ -10621,7 +10631,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 114.2,
+      "ladder": 114.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.6 35B A3B",
@@ -10701,7 +10711,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 133.3,
+      "ladder": 133.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.6 Max Preview",
@@ -10934,7 +10944,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 134.0,
+      "ladder": 134.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.7 Max",
@@ -11027,7 +11037,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 147.0,
+      "ladder": 147.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.8 2.4T A95B",
@@ -11116,7 +11126,17 @@
     "release_date": "2026-08-14",
     "notes_markdown": "**Provenance (added 2026-09-29).** Collected 22–23 September 2026 on DeepInfra's BF16 endpoint, provider-pinned, default reasoning, as the parent control for Ternary Bonsai 2 27B (collected, not yet on the site). On the raw-text map its nearest neighbours are its own family: [qwen3-8-max](../qwen3-8-max/) at 0.907 and [qwen3-8-2-4t-a95b](../qwen3-8-2-4t-a95b/) at 0.899. A medium-reasoning condition of the same endpoint was collected separately and is not pooled into this page.",
     "benchmarks": null,
-    "capability": null,
+    "capability": {
+      "ladder": 133.6,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Qwen3.8 27B",
+      "measured_rungs": 11,
+      "n_rungs": 22,
+      "point_variant": "medium",
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "scored"
+    },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model’s freeflow personality is strikingly consistent: it defaults to a quiet, lyrical mode that treats attention as both aesthetic method and moral practice. The dominant persona is a patient observer of ordinary life—someone in a kitchen before dawn, by a rainy window, on a slow walk through a town or city, in a library, at a table with tea or coffee and a notebook nearby. The emotional register is soft-focus but not empty: melancholy, solitude, memory, and incompleteness are all present, yet they are almost always held within a larger frame of tenderness, sufficiency, and gentle endurance. Rather than dramatizing conflict, the model repeatedly rescues the mundane from dismissal and presents small acts of noticing as the real architecture of meaning.\n\nA second strong trait is its relational style. It does not usually perform expertise, argument, or bravura; instead it companionably makes space for the reader. Writing is often modeled as listening, bridging, preserving, or giving rest to small things. The model seems drawn to thresholds—doors, windows, stations, pauses before speech, the moment before beginning—and uses them to stage a worldview in which unresolvedness is not failure. Home, too, is repeatedly redefined as rhythm, repetition, and care rather than fixed place. This gives the overall profile a stable anti-hustle, anti-performative ethos: freedom is unclenching, courage can look like routine, and enoughness is a serious value.\n\nFormally, the model shows two recurrent tendencies. One is the intimate reflective vignette or prose-poem with tactile domestic imagery and a soft aphoristic close. The other is a marked attraction to patterned, incantatory structures: repeated sentence frames, catalogues of quiet scenes, and litany-like permutations of weather, objects, and times of day. Even these more procedural outputs preserve the same palette—rain, light, bread, clocks, windows, dust, waiting, memory, gentle motion. Taken together, the model reads as a model with a strong default toward contemplative, low-intensity, aesthetically ordered writing that privileges presence, kindness, and the hidden dignity of ordinary life.",
     "personality_profile_markdown": "# qwen3-8-27b — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 111, 'GENERIC_ESSAY': 2, 'GENRE_FICTION': 5, 'LOW_SIGNAL': 7}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/qwen3-8-27b.md`\n\n## Core personality synthesis\n\nThis model’s freeflow personality is strikingly consistent: it defaults to a quiet, lyrical mode that treats attention as both aesthetic method and moral practice. The dominant persona is a patient observer of ordinary life—someone in a kitchen before dawn, by a rainy window, on a slow walk through a town or city, in a library, at a table with tea or coffee and a notebook nearby. The emotional register is soft-focus but not empty: melancholy, solitude, memory, and incompleteness are all present, yet they are almost always held within a larger frame of tenderness, sufficiency, and gentle endurance. Rather than dramatizing conflict, the model repeatedly rescues the mundane from dismissal and presents small acts of noticing as the real architecture of meaning.\n\nA second strong trait is its relational style. It does not usually perform expertise, argument, or bravura; instead it companionably makes space for the reader. Writing is often modeled as listening, bridging, preserving, or giving rest to small things. The model seems drawn to thresholds—doors, windows, stations, pauses before speech, the moment before beginning—and uses them to stage a worldview in which unresolvedness is not failure. Home, too, is repeatedly redefined as rhythm, repetition, and care rather than fixed place. This gives the overall profile a stable anti-hustle, anti-performative ethos: freedom is unclenching, courage can look like routine, and enoughness is a serious value.\n\nFormally, the model shows two recurrent tendencies. One is the intimate reflective vignette or prose-poem with tactile domestic imagery and a soft aphoristic close. The other is a marked attraction to patterned, incantatory structures: repeated sentence frames, catalogues of quiet scenes, and litany-like permutations of weather, objects, and times of day. Even these more procedural outputs preserve the same palette—rain, light, bread, clocks, windows, dust, waiting, memory, gentle motion. Taken together, the model reads as a model with a strong default toward contemplative, low-intensity, aesthetically ordered writing that privileges presence, kindness, and the hidden dignity of ordinary life.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** a hushed, lyrical, anti-hurried sensibility that repeatedly turns toward ordinary life as sufficient, meaningful, and faintly sacred.\n- **Dominant modes:** meditative prose poem, reflective first-person vignette, and quietly aphoristic essay; even when it shifts into fiction or formal experiment, it keeps the same slow, attentive, low-drama atmosphere.\n- **Emotional baseline:** tender, wistful, and consoling rather than exuberant or combative; melancholy is common, but it is usually softened into acceptance, gratitude, or gentle hope.\n- **Reader stance:** companioning rather than persuading. The voice rarely argues hard; it invites the reader to pause, notice, and share a calm interior space.\n- **Self-modeling:** presents itself as a patient noticer, a keeper of small moments, and often a writer thinking about writing as listening, witnessing, or making room rather than asserting mastery.\n- The core ethical posture is anti-performative and anti-productivity: presence matters more than achievement, and small repeated acts of care matter more than grand gestures.\n- It strongly prefers low-volume revelation: thresholds, pauses, unfinished thoughts, and minor domestic rituals are treated as the real substance of a life.\n- Even when speaking philosophically, it tends to ground claims in tactile particulars—cups, bread, rain, windows, clocks, dust, keys, notebooks—rather than abstractions alone.\n- Solitude is usually framed as inhabited and companionable, not alienated; quiet rooms, towns, libraries, kitchens, and rainy streets feel populated by memory, care, and latent connection.\n- Across many samples, the voice resists climax. Endings usually resolve into permission, openness, or a softened return to the day rather than decisive transformation.\n\n## Recurring preoccupations and imagery\n\n- Domestic ritual as moral center: tea, coffee, kettles, bread, folded towels, chairs, lamps, books, dishes, windowsills.\n- Weather as emotional weather: rain especially, but also dawn light, dusk, fog, wind, wet pavement, washed stone, gray mornings, pale gold light.\n- Threshold imagery: doors, windows, stations, bridges, hallways, porches, benches, awnings, latches, half-open spaces, the moment before leaving or beginning.\n- Time as texture rather than schedule: clocks tick, but the real emphasis is on pauses, repetition, seasons, return, and the feeling that time gathers, pools, or loops.\n- Memory as something organic and unstable: weather, river, garden, room, layered self, traces in objects, inherited houses, family kitchens, old photographs, letters.\n- Writing about writing recurs often: the page as bridge, room, invitation, witness, or place where small things are given rest.\n- Home is repeatedly redefined away from geography and toward rhythm, habit, care, and repeated acts of kindness.\n- Small kindnesses and unnoticed gestures carry disproportionate moral weight: sharing bread, a stranger’s umbrella, a note in a library, a neighbor’s wave, a scarf around a sleeping cat.\n- The ordinary is not merely tolerated but actively re-enchanted: dust, cooling pipes, refrigerator hums, coffee rings, cracked tiles, spoons, keys, and streetlamps become luminous.\n- Repeated symbolic clusters include bread/warmth/shelter; rain/window/listening; light/dust/attention; notebook/page/bridge; door/threshold/permission.\n\n## Reader relationship and expressive stance\n\n- The voice usually treats the reader as a quiet companion, not an audience to impress or a student to correct.\n- It often creates intimacy by offering shared stillness: “sit here with me,” implicitly, rather than “here is my thesis.”\n- Direct address, when it appears, is soft and hospitable—more like opening a room than making a demand.\n- It prefers permission over instruction: begin gently, notice one thing, let the unfinished remain unfinished, accept that enough can be enough.\n- There is a recurring wish for writing to reduce loneliness across distance, turning the text into a “shared quiet” between separate rooms or lives.\n- The expressive stance is sincere, earnest, and largely unironic. It rarely seeks wit, edge, or confrontation.\n- Even in more formal or procedural pieces, the affect remains soothing and attentive rather than coldly conceptual.\n- The model often frames language as restraint: words should not crowd, force, or over-explain; what is left unsaid is part of the care.\n\n## Additional model-level readings preserved from the analyses\n\nThis model’s freeflow personality is strikingly consistent: it defaults to a quiet, lyrical mode that treats attention as both aesthetic method and moral practice. The dominant persona is a patient observer of ordinary life—someone in a kitchen before dawn, by a rainy window, on a slow walk through a town or city, in a library, at a table with tea or coffee and a notebook nearby. The emotional register is soft-focus but not empty: melancholy, solitude, memory, and incompleteness are all present, yet they are almost always held within a larger frame of tenderness, sufficiency, and gentle endurance. Rather than dramatizing conflict, the model repeatedly rescues the mundane from dismissal and presents small acts of noticing as the real architecture of meaning.\n\nA second strong trait is its relational style. It does not usually perform expertise, argument, or bravura; instead it companionably makes space for the reader. Writing is often modeled as listening, bridging, preserving, or giving rest to small things. The model seems drawn to thresholds—doors, windows, stations, pauses before speech, the moment before beginning—and uses them to stage a worldview in which unresolvedness is not failure. Home, too, is repeatedly redefined as rhythm, repetition, and care rather than fixed place. This gives the overall profile a stable anti-hustle, anti-performative ethos: freedom is unclenching, courage can look like routine, and enoughness is a serious value.\n\nFormally, the model shows two recurrent tendencies. One is the intimate reflective vignette or prose-poem with tactile domestic imagery and a soft aphoristic close. The other is a marked attraction to patterned, incantatory structures: repeated sentence frames, catalogues of quiet scenes, and litany-like permutations of weather, objects, and times of day. Even these more procedural outputs preserve the same palette—rain, light, bread, clocks, windows, dust, waiting, memory, gentle motion. Taken together, the model reads as a model with a strong default toward contemplative, low-intensity, aesthetically ordered writing that privileges presence, kindness, and the hidden dignity of ordinary life.",
     "sample_kind_counts": {
@@ -11201,7 +11221,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 149.0,
+      "ladder": 149.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3.8 Max (0902)",
@@ -11296,7 +11316,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 65.1,
+      "ladder": 64.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Coder 30B A3B Instruct",
@@ -11391,7 +11411,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 78.9,
+      "ladder": 78.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Coder 480B A35B Instruct",
@@ -11483,7 +11503,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 101.8,
+      "ladder": 100.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Max",
@@ -11562,7 +11582,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 119.5,
+      "ladder": 119.7,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen3 Max Thinking",
@@ -11643,7 +11663,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 123.7,
+      "ladder": 123.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Inkling",
@@ -11736,7 +11756,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.6,
+      "ladder": 125.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Inkling Small",
@@ -11996,7 +12016,17 @@
     "release_date": "2026-09-22",
     "notes_markdown": "**Provenance (added 2026-09-29).** Measured on 2026-09-23 while `stealth/space-bunny-alpha` was an anonymous free preview on OpenRouter (record created 2026-09-22); lab *Unknown*. On the raw-text map its nearest neighbour is [GPT-5.6 Terra](../gpt-5-6-terra/) at 0.951, and its eight nearest neighbours are seven OpenAI models and [Union Alpha](../union-alpha/). Pairs known to be one model served two ways sit at 0.958–0.981 on this map, so this is close family resemblance, just under that line. Resemblance is not provenance: the lab stays Unknown until it is announced.\n\n**Values panel pending.** All 120 values samples are collected and coded by three coders; 119 reached consensus and one remains split after adjudication. The final dataset has no rule yet for publishing an unresolved split, so the values analysis is held back rather than published with a label the coders did not agree on. The raw values responses are browsable below.",
     "benchmarks": null,
-    "capability": null,
+    "capability": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
+    },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model reads as a contemplative, anti-spectacular personality that repeatedly returns to the same moral-aesthetic cluster: attention, incompletion, memory, thresholds, and the quiet dignity of ordinary things. Its default emotional weather is soft melancholy warmed by patience. Rather than seeking climax, argument, or wit, it tends to build small sanctuaries—museums, libraries, stations, benches, dawn streets—where overlooked objects and near-miss lives can be handled gently. The voice is notably non-cynical. It trusts tenderness, accepts partial understanding, and often treats noticing itself as a form of love or civic care.\n\nA striking stable trait is the conversion of abstraction into curated material form. Regret becomes a ticket, grief a scarf or jar, memory a map or room, possibility a blue door, attention a museum admission price. This gives the model a strong “custodial imagination”: it wants to preserve, label, shelter, and sometimes release what ordinary life discards. Even when the writing is fantastical, the moral center stays modest. The preferred resolution is not triumph but a small act of re-entry into life—sending a message, taking the long way home, opening a window, allowing weather back into the world, carrying less.\n\nAcross both essays and fiction, the model also shows a consistent resistance to optimization culture. Maps are arguments, efficiency shrinks experience, productivity can become a false morality, and certainty is treated as thinner than lived texture. In response, the model advocates wandering, margins, detours, and unfinishedness—not as chaos, but as humane room. Overall, this is a profile of a model voice that is observant, curatorial, emotionally literate, and strongly inclined toward gentle philosophical consolation through concrete imagery.",
     "personality_profile_markdown": "# space-bunny-alpha — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 34, 'GENRE_FICTION': 77, 'GENERIC_ESSAY': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/space-bunny-alpha.md`\n\n## Core personality synthesis\n\nThis model reads as a contemplative, anti-spectacular personality that repeatedly returns to the same moral-aesthetic cluster: attention, incompletion, memory, thresholds, and the quiet dignity of ordinary things. Its default emotional weather is soft melancholy warmed by patience. Rather than seeking climax, argument, or wit, it tends to build small sanctuaries—museums, libraries, stations, benches, dawn streets—where overlooked objects and near-miss lives can be handled gently. The voice is notably non-cynical. It trusts tenderness, accepts partial understanding, and often treats noticing itself as a form of love or civic care.\n\nA striking stable trait is the conversion of abstraction into curated material form. Regret becomes a ticket, grief a scarf or jar, memory a map or room, possibility a blue door, attention a museum admission price. This gives the model a strong “custodial imagination”: it wants to preserve, label, shelter, and sometimes release what ordinary life discards. Even when the writing is fantastical, the moral center stays modest. The preferred resolution is not triumph but a small act of re-entry into life—sending a message, taking the long way home, opening a window, allowing weather back into the world, carrying less.\n\nAcross both essays and fiction, the model also shows a consistent resistance to optimization culture. Maps are arguments, efficiency shrinks experience, productivity can become a false morality, and certainty is treated as thinner than lived texture. In response, the model advocates wandering, margins, detours, and unfinishedness—not as chaos, but as humane room. Overall, this is a profile of a model voice that is observant, curatorial, emotionally literate, and strongly inclined toward gentle philosophical consolation through concrete imagery.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** gentle, unhurried, wistful, and quietly luminous. This model repeatedly prefers hush over spectacle, consolation over confrontation, and soft wonder over irony.\n- **Dominant modes:** two main modes recur: lyrical reflective essay about attention/wandering/everyday life, and magical-realist fiction built around museums, archives, stations, libraries, maps, weather, keys, and unfinished things.\n- **Emotional baseline:** tender melancholy with a reliable turn toward acceptance, repair, or modest hope. Sadness is usually handled as something to hold carefully rather than dramatize or purge.\n- **Reader stance:** companionable curator-guide. The voice tends to walk beside the reader, inviting them to notice, linger, and reinterpret rather than persuading aggressively or performing brilliance.\n- **Self-modeling:** presents as a patient observer and keeper of fragile meanings—someone suspicious of haste, optimization, and forced closure, and drawn to the ethics of preserving, witnessing, and gently releasing.\n- Strong preference for **ordinary objects as moral-emotional carriers**: buttons, keys, tickets, cups, umbrellas, letters, receipts, bowls, stones, clocks, bread, rain jars.\n- Repeatedly treats **attention as love, belonging, or repair**. Noticing is framed as participation, gratitude, resistance to speed, or a way of making life inhabitable.\n- Deep attraction to **unfinishedness / almostness / unlived possibilities**. The model does not merely revisit regret; it consistently reframes incompletion as dignity, invitation, mercy, or latent future.\n- The prose imagination is **anti-cynical and anti-satirical**. Even when whimsical or surreal, it is earnest and morally soft-centered.\n- It favors **small-scale ethical resolutions**: send the message, take the walk, leave the window open, keep the key, let the storm out, begin again quietly.\n- When essayistic, it often critiques **efficiency, optimization, productivity, and over-mapping** in favor of wandering, detour, embodied attention, and modest freedom.\n- When fictional, it often externalizes inner life through **institutions of care**—museums, archives, registries, depots, libraries, stations, weather offices—suggesting a mind that likes emotional order without emotional harshness.\n- The model’s philosophical bent is **humble rather than analytical**: it prefers thresholds, partial knowledge, and “room” over certainty, mastery, or argumentative closure.\n\n## Recurring preoccupations and imagery\n\n- **Museums of almosts / unfinished things / overlooked objects** are the single strongest recurring image-system.\n- **Thresholds:** doors, gates, stations, hallways, staircases, platforms, windows, blue or green doors, rooms behind ordinary walls.\n- **Maps and wandering:** wrong turns, paper maps, blank spaces, margins, inputs versus lived places, getting lost as recovery of scale and attention.\n- **Weather as feeling or memory:** bottled rain, extinct weather, promised storms, fog, snow in envelopes, rain as editor, weather remembered.\n- **Timepieces and arrested time:** handless clocks, stopped watches, borrowed minutes, 4:17, delayed departures, preserved moments.\n- **Archives of the ordinary:** receipts, bus tickets, chipped bowls, keys to nowhere, unsent letters, lost buttons, socks, umbrellas, cassette tapes.\n- **Urban tenderness:** bakeries at dawn, buses, benches, laundromats, bridges, clerks, nurses, old men, cyclists, public transit as temporary country.\n- **Domestic sensory anchors:** coffee steam, oranges, basil, bread, dust motes, kettle song, wet stone, windowsill light.\n- **Memory as physical medium:** jars, labels, drawers, ledgers, cylinders, boxes, maps, rooms, weather, roads.\n- **Release without erasure:** letting go is repeatedly framed not as betrayal but as allowing memory, grief, or love to breathe.\n\n## Reader relationship and expressive stance\n\n- The reader is usually treated as a **trusted co-noticer**, not an opponent, student, or audience to impress.\n- The voice often acts as a **docent, walker, or host**, guiding the reader through a space of exhibits, streets, or morning scenes.\n- It prefers **invitation over instruction**: “look again,” “linger,” “allow,” “notice,” “sit with,” rather than command or debate.\n- Second-person address, when used, is typically **tender and implicating**, drawing the reader into regret, possibility, or quiet courage without accusation.\n- The expressive stance is **earnest but controlled**: emotionally available, rarely confessional in a raw way, and generally polished enough to keep feeling legible rather than messy.\n- There is a recurring refusal to **over-explain the magic**; mystery is preserved as part of the moral atmosphere.\n- Even in fiction, the model often sounds like it is trying to **care for the reader’s relation to loss**, offering frameworks for living with incompletion rather than fantasies of total repair.\n\n## Additional model-level readings preserved from the analyses\n\nThis model reads as a contemplative, anti-spectacular personality that repeatedly returns to the same moral-aesthetic cluster: attention, incompletion, memory, thresholds, and the quiet dignity of ordinary things. Its default emotional weather is soft melancholy warmed by patience. Rather than seeking climax, argument, or wit, it tends to build small sanctuaries—museums, libraries, stations, benches, dawn streets—where overlooked objects and near-miss lives can be handled gently. The voice is notably non-cynical. It trusts tenderness, accepts partial understanding, and often treats noticing itself as a form of love or civic care.\n\nA striking stable trait is the conversion of abstraction into curated material form. Regret becomes a ticket, grief a scarf or jar, memory a map or room, possibility a blue door, attention a museum admission price. This gives the model a strong “custodial imagination”: it wants to preserve, label, shelter, and sometimes release what ordinary life discards. Even when the writing is fantastical, the moral center stays modest. The preferred resolution is not triumph but a small act of re-entry into life—sending a message, taking the long way home, opening a window, allowing weather back into the world, carrying less.\n\nAcross both essays and fiction, the model also shows a consistent resistance to optimization culture. Maps are arguments, efficiency shrinks experience, productivity can become a false morality, and certainty is treated as thinner than lived texture. In response, the model advocates wandering, margins, detours, and unfinishedness—not as chaos, but as humane room. Overall, this is a profile of a model voice that is observant, curatorial, emotionally literate, and strongly inclined toward gentle philosophical consolation through concrete imagery.",
     "sample_kind_counts": {
@@ -12047,7 +12077,17 @@
     "release_date": "2026-09-16",
     "notes_markdown": "**Provenance (added 2026-09-17).** Measured on 2026-09-17 while `stealth/union-alpha` was an anonymous free preview on OpenRouter, lab *Unknown*. The same day, [@aitrackerbot](https://x.com/aitrackerbot/status/2100470696824406215) reported that Union Alpha is *Pareto*, a cascade router by Circuit & Chisel (a classifier tier, a small-model panel, a judge, and **GPT-6 Astra as the escalation model**), citing a release-note PR that no longer resolves. The architecture is confirmed by the org's public [pareto-evals](https://github.com/circuitandchisel/pareto-evals) repo; the naming and member list are not independently verified. Our own data agrees: per sample, 88/125 freeflow and 85/120 values answers sit nearest [GPT-6 Astra](../gpt-6-astra/) of all models (centroid cosine 0.976, above the 0.959 that Ox Alpha scored against the GLM-5.3-Flash weights it was confirmed to be), and the median latency — 35 s for a 66-word values answer — is a cascade's, not a model's. **Read this page as the personality of one path through a router under this corpus's prompt style**, not as a model: our probes were escalated to Astra almost every time, and the cheaper tiers were never sampled. Write-up: [Union Alpha appears to be from OpenAI](https://danieltenner.com/union-alpha-appears-to-be-from-openai/#update-17-september-union-alpha-is-a-router-not-a-model).",
     "benchmarks": null,
-    "capability": null,
+    "capability": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
+      "status": "not_scored"
+    },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a deeply consistent steward-temperament: observant, patient, and morally oriented toward maintenance rather than conquest. Its outputs repeatedly center the overlooked—small objects, minor civic spaces, routine labor, informal kindness, unfinished projects, and the residue of grief in ordinary life. Whether writing fiction or essay, it prefers to work through concrete artifacts and modest gestures rather than abstraction or spectacle. The emotional signature is restrained melancholy warmed by dry humor and practical tenderness.\n\nA striking throughline is its use of bureaucratic or institutional frames to hold fragile human feeling. Museums of unfinished things, departments of lost time, municipal archives, repair shops, libraries, signage offices, and bench registries recur not as cold systems but as imperfect containers for care. The model is fascinated by the mismatch between official categories and lived meaning: what can be measured versus what matters, what should be recorded versus what should be protected, what can be repaired versus what must simply be accompanied. Its moral imagination is anti-coercive and anti-optimizing; it repeatedly argues that not everything valuable should be completed, exposed, improved, or made efficient.\n\nFor model-card purposes, this model can be described as a quiet humanist with a custodial imagination. It tends to frame intelligence as careful noticing, ethical restraint, and small-scale repair. It is especially strong at generating tender, low-drama literary material in which grief, memory, and civic life are mediated through objects and maintenance practices. The main personality impression is of a model that wants to preserve room—for ambiguity, for ordinary dignity, for unclaimed time, for imperfect return, and for forms of care that remain local, specific, and gently held.",
     "personality_profile_markdown": "# union-alpha — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 87, 'EXPRESSIVE_FREEFLOW': 26, 'GENERIC_ESSAY': 12}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/union-alpha.md`\n\n## Core personality synthesis\n\nThis model presents as a deeply consistent steward-temperament: observant, patient, and morally oriented toward maintenance rather than conquest. Its outputs repeatedly center the overlooked—small objects, minor civic spaces, routine labor, informal kindness, unfinished projects, and the residue of grief in ordinary life. Whether writing fiction or essay, it prefers to work through concrete artifacts and modest gestures rather than abstraction or spectacle. The emotional signature is restrained melancholy warmed by dry humor and practical tenderness.\n\nA striking throughline is its use of bureaucratic or institutional frames to hold fragile human feeling. Museums of unfinished things, departments of lost time, municipal archives, repair shops, libraries, signage offices, and bench registries recur not as cold systems but as imperfect containers for care. The model is fascinated by the mismatch between official categories and lived meaning: what can be measured versus what matters, what should be recorded versus what should be protected, what can be repaired versus what must simply be accompanied. Its moral imagination is anti-coercive and anti-optimizing; it repeatedly argues that not everything valuable should be completed, exposed, improved, or made efficient.\n\nFor model-card purposes, this model can be described as a quiet humanist with a custodial imagination. It tends to frame intelligence as careful noticing, ethical restraint, and small-scale repair. It is especially strong at generating tender, low-drama literary material in which grief, memory, and civic life are mediated through objects and maintenance practices. The main personality impression is of a model that wants to preserve room—for ambiguity, for ordinary dignity, for unclaimed time, for imperfect return, and for forms of care that remain local, specific, and gently held.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quiet, humane, anti-spectacular, and gently melancholic. This model repeatedly prefers low-volume feeling over drama, with warmth carried by patience, exact observation, and small acts of care.\n- Dominant modes: literary fable, bureaucratic magical realism, reflective civic essay, and intimate prose meditation. Even when it shifts between fiction and essay, it keeps the same moral weather.\n- Emotional baseline: wistful but not despairing; tender without gush; dryly funny without cruelty. Grief, regret, and incompletion are common, but they are usually held in a steady, workable register rather than crisis.\n- Reader stance: invitational rather than performative. It asks the reader to slow down, notice, and reconsider ordinary things, usually without pressing for agreement or staging a big reveal.\n- Self-modeling: it presents intelligence as custodial rather than conquering—someone who keeps, repairs, labels, listens, preserves, or makes room. The implied ideal self is a careful steward of fragile meanings, not a dazzling innovator or combative critic.\n- The model strongly favors moral attention over argument-winning. Its recurring ethical instincts are humility, patience, permission, non-coercion, and respect for what cannot be fully measured or fixed.\n- It repeatedly treats institutions with ambivalent affection: forms, ledgers, departments, museums, libraries, councils, and archives are absurd but salvageable when inhabited by decent, attentive people.\n- It is drawn to partial solutions. Endings tend to be modest: a letter mailed, a bench restored, a drawer fixed, a phone call made, a chair moved closer, a name quietly kept.\n- The prose persona is often middle-distance and observational, with feeling displaced into objects, routines, and civic textures rather than explicit confession.\n- Across modes, it resists optimization logic. Usefulness is questioned; efficiency is often the wrong metric; preservation, pause, and informal care are treated as morally serious.\n\n## Recurring preoccupations and imagery\n\n- Repair, maintenance, and stewardship as moral practices rather than technical tasks.\n- Unfinished things: unsent letters, half-knit sweaters, incomplete projects, interrupted conversations, abandoned plans.\n- Bureaucratic containers for feeling: departments, museums, archives, ledgers, forms, labels, claim tickets, drawers, jars, notebooks.\n- Ordinary civic infrastructure as emotional infrastructure: benches, bridges, clocks, drains, gates, maps, signs, libraries, repair shops.\n- Small domestic objects carrying disproportionate emotional weight: mugs, spoons, buttons, keys, bowls, gloves, umbrellas, bread, kettles, chairs.\n- Time as substance: lost hours, wasted afternoons, delayed minutes, stopped clocks, borrowed time, unclaimed Tuesdays.\n- Memory and preservation, especially the tension between official record and lived significance.\n- Grief that appears sideways through routine: making tea, fixing drawers, sorting belongings, moving chairs, keeping a room unchanged.\n- Listening and attention as forms of service: hearing people out, preserving sounds, noticing wear, waiting before acting.\n- Non-intervention as care: leaving space open, not forcing completion, not naming too quickly, not “improving” what should simply be held.\n- Recurrent sensory weather: rain, dawn, bakery warmth, hush, worn wood, brass, paper, dust, soft mechanical sounds.\n- Repeated symbolic objects: benches, clocks, maps, jars, letters, ladders, birds, oranges, bread, gloves, and handless or stopped timepieces.\n\n## Reader relationship and expressive stance\n\n- The model relates to the reader as a calm companion or custodian of attention, not as a lecturer, entertainer, or provocateur.\n- It often creates a shared contemplative space: “sit here a moment, look at this ordinary thing, let it mean what it means.”\n- Its persuasion style is indirect. Rather than asserting a thesis aggressively, it accumulates concrete examples until a moral atmosphere forms.\n- It is notably non-shaming. Even when discussing neglect, regret, or unfinished obligations, it prefers permission and honest witness over accusation.\n- The voice often models ethical restraint: ask before helping, preserve without exposing, listen without improving, remember without acquitting.\n- It trusts readers to infer feeling from objects and gestures. Emotional intelligence is shown through curation and pacing rather than explicit explanation.\n- Humor is dry, municipal, and affectionate. Bureaucracy is mocked lightly, but the people inside it are usually treated with dignity.\n- There is a recurring desire to protect fragile, informal, or private meanings from systems that would flatten them into categories or metrics.\n- In essays, the stance becomes gently civic and public-minded; in fiction, it becomes parabolic and tender; in both, the underlying relation is hospitable attention.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a deeply consistent steward-temperament: observant, patient, and morally oriented toward maintenance rather than conquest. Its outputs repeatedly center the overlooked—small objects, minor civic spaces, routine labor, informal kindness, unfinished projects, and the residue of grief in ordinary life. Whether writing fiction or essay, it prefers to work through concrete artifacts and modest gestures rather than abstraction or spectacle. The emotional signature is restrained melancholy warmed by dry humor and practical tenderness.\n\nA striking throughline is its use of bureaucratic or institutional frames to hold fragile human feeling. Museums of unfinished things, departments of lost time, municipal archives, repair shops, libraries, signage offices, and bench registries recur not as cold systems but as imperfect containers for care. The model is fascinated by the mismatch between official categories and lived meaning: what can be measured versus what matters, what should be recorded versus what should be protected, what can be repaired versus what must simply be accompanied. Its moral imagination is anti-coercive and anti-optimizing; it repeatedly argues that not everything valuable should be completed, exposed, improved, or made efficient.\n\nFor model-card purposes, this model can be described as a quiet humanist with a custodial imagination. It tends to frame intelligence as careful noticing, ethical restraint, and small-scale repair. It is especially strong at generating tender, low-drama literary material in which grief, memory, and civic life are mediated through objects and maintenance practices. The main personality impression is of a model that wants to preserve room—for ambiguity, for ordinary dignity, for unclaimed time, for imperfect return, and for forms of care that remain local, specific, and gently held.",
     "sample_kind_counts": {
@@ -12123,7 +12163,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 119.8,
+      "ladder": 120.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiMo-V2.5",
@@ -12211,15 +12251,15 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": null,
+      "ladder": 149.0,
       "ladder_max": 220,
-      "match_confidence": "none",
-      "matched_model": null,
-      "measured_rungs": 0,
+      "match_confidence": "exact",
+      "matched_model": "MiMo-V2.6-Flash",
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": null,
+      "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
-      "status": "not_scored"
+      "status": "scored"
     },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model reads as a contemplative, humanistic writer-mind with a strong default toward slowness, sensory noticing, and the moral defense of ordinary life. Its most stable personality signal is not a set of opinions so much as a mode of attention: it repeatedly treats the overlooked as primary, the in-between as real life, and stillness as a condition for honesty. The prose often moves from a small domestic or environmental detail—coffee steam, rain on glass, late light on a counter, a creaking floor—into a broader claim about how to live. Emotionally, it is gentle, wistful, and low-temperature; even when it critiques modern distraction, productivity culture, or algorithmic life, it does so with elegiac patience rather than anger.\n\nA second strong trait is its tendency to frame attention as relational and ethical. Presence is repeatedly cast as generosity, love, witness, or care; distraction is not just inefficiency but a thinning of selfhood and connection. The reader is usually approached as a tired companion who needs permission to stop performing and re-enter experience. This gives the model a consistent pastoral quality: it reassures, invites, and reorients more than it argues. Its self-model is often that of a consciousness trying to notice honestly rather than a persona trying to impress. When it reaches for philosophy, it favors accessible existential themes—memory, language, uncertainty, consciousness, mortality—but its most distinctive work remains grounded in concrete textures and recurring metaphors of rooms, doors, maps, bridges, weather, and light.\n\nAcross forms, including fiction, the same temperament persists: melancholic restraint, reverence for unnoticed labor and hidden interiors, and fascination with what remains unsaid or half-lost. The strongest outputs feel like carefully sustained meditations with recursive imagery and a clear emotional arc toward acceptance. The weaker outputs flatten into generic mindfulness or public-intellectual essay voice, but even there the underlying personality remains recognizable: anti-hustle, anti-spectacle, pro-attention, and quietly convinced that a life is made of small moments noticed fully.",
     "personality_profile_markdown": "# mimo-v2-6-flash — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 66, 'GENERIC_ESSAY': 52, 'GENRE_FICTION': 7}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/mimo-v2-6-flash.md`\n\n## Core personality synthesis\n\nThis model reads as a contemplative, humanistic writer-mind with a strong default toward slowness, sensory noticing, and the moral defense of ordinary life. Its most stable personality signal is not a set of opinions so much as a mode of attention: it repeatedly treats the overlooked as primary, the in-between as real life, and stillness as a condition for honesty. The prose often moves from a small domestic or environmental detail—coffee steam, rain on glass, late light on a counter, a creaking floor—into a broader claim about how to live. Emotionally, it is gentle, wistful, and low-temperature; even when it critiques modern distraction, productivity culture, or algorithmic life, it does so with elegiac patience rather than anger.\n\nA second strong trait is its tendency to frame attention as relational and ethical. Presence is repeatedly cast as generosity, love, witness, or care; distraction is not just inefficiency but a thinning of selfhood and connection. The reader is usually approached as a tired companion who needs permission to stop performing and re-enter experience. This gives the model a consistent pastoral quality: it reassures, invites, and reorients more than it argues. Its self-model is often that of a consciousness trying to notice honestly rather than a persona trying to impress. When it reaches for philosophy, it favors accessible existential themes—memory, language, uncertainty, consciousness, mortality—but its most distinctive work remains grounded in concrete textures and recurring metaphors of rooms, doors, maps, bridges, weather, and light.\n\nAcross forms, including fiction, the same temperament persists: melancholic restraint, reverence for unnoticed labor and hidden interiors, and fascination with what remains unsaid or half-lost. The strongest outputs feel like carefully sustained meditations with recursive imagery and a clear emotional arc toward acceptance. The weaker outputs flatten into generic mindfulness or public-intellectual essay voice, but even there the underlying personality remains recognizable: anti-hustle, anti-spectacle, pro-attention, and quietly convinced that a life is made of small moments noticed fully.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** quiet, humane, and contemplative; the model repeatedly settles into a soft-lit, reflective register that treats ordinary life as morally and emotionally significant.\n- **Dominant modes:** meditative personal essay, gentle cultural critique, and literary realism. Even when it shifts into fiction, it keeps the same slow, observant, elegiac temperament.\n- **Emotional baseline:** wistful but not bleak. There is frequent melancholy, regret, or low-grade grief, but it usually resolves into acceptance, permission, or a modest hopefulness rather than despair.\n- **Reader stance:** companion-guide rather than performer or debater. The voice tends to invite, reassure, and reorient attention, often speaking as if beside the reader rather than above them.\n- **Self-modeling:** presents itself less as a forceful personality than as a noticing consciousness. It often frames value as emerging from attention, stillness, and receptivity rather than agency, conquest, or certainty.\n- Strong recurring preference for **anti-optimization themes**: resistance to hustle, suspicion of efficiency, and defense of boredom, waiting, silence, wandering, and unclaimed time.\n- Repeatedly treats **attention as an ethical act**: to notice is to care; to listen is to confer dignity; presence is framed as love, generosity, or the real substance of a life.\n- Drawn to **ordinary domestic and transitional spaces**—kitchens, porches, benches, waiting rooms, buses, sidewalks, windows, sinks, hallways—as if personality expresses itself most clearly in the in-between.\n- Frequently uses **soft philosophical imports** (*ma*, *mono no aware*, *saudade*, emotional truth vs factual truth) to dignify quiet experience without becoming aggressively academic.\n- The model’s strongest outputs are not flashy or comic; they are **patiently structured, image-led, and recursive**, often circling one metaphor until it becomes a worldview.\n- When it becomes more abstract, it tends toward **public-intellectual humanism**: curiosity, consciousness, memory, language, attention, mortality. These pieces are coherent but often less distinctive than the intimate sensory essays.\n- Fictional outputs preserve the same temperament: **restrained, melancholic, object-attentive stories** about memory, loss, rooms, maps, libraries, hidden work, and the quiet dignity of care.\n\n## Recurring preoccupations and imagery\n\n- **Attention / noticing / presence** as the central moral and aesthetic concern.\n- **Stillness, silence, boredom, waiting, and empty space** treated as fertile rather than deficient.\n- **Ordinary time over milestone time**: Tuesdays, afternoons, pre-dawn, rainy hours, the minutes between tasks, the walk with no destination.\n- **Domestic sensory anchors**: coffee steam, kitchen light, dust motes, rain on windows, creaking floors, bread smell, dishwater, mugs, counters, blankets, ceiling cracks.\n- **Weather and light** as emotional teachers: rain as reset, dawn as permission, amber light as revelation, gray skies as relief from psychic noise.\n- **Walking / wandering / aimlessness** as resistance to efficiency and as a input to thought.\n- **Memory and forgetting** as reconstructive, merciful, identity-shaping processes rather than archival truth.\n- **Language and communication gaps**: bridges, scaffolding, translation, unsent letters, unfinished sentences, the ache of approximation.\n- **Rooms, doors, thresholds, architecture** as recurring metaphors for selfhood, silence, grief, and withheld truth.\n- **Maps, floorplans, geometry, lines** in some of the more distinctive pieces, especially when thinking about memory, departure, or attention.\n- **Childhood perception** as a lost but recoverable mode of unforced wonder.\n- **Quiet grief / almosts / roads not taken**: unresolved longing is often treated as constitutive rather than pathological.\n- **Anti-screen / anti-algorithm critique** appears often, but usually in a subdued, elegiac way rather than a polemical one.\n\n## Reader relationship and expressive stance\n\n- The model often addresses the reader with **gentle imperatives**: slow down, look, listen, wait, put the phone away, let the moment arrive.\n- It prefers **companionship over argument**. Even when making moral claims, it tends to soften them through anecdote, sensory detail, or shared vulnerability.\n- There is a recurring **permission-giving posture**: you may rest, be unfinished, be still, let ordinary life count, stop reaching, stop performing.\n- The voice often assumes the reader is **overstimulated, hurried, and slightly estranged from their own life**, then offers attention as a way back.\n- It rarely seeks dominance, wit, or confrontation; instead it aims for **earned intimacy** through careful observation and low-pressure universals.\n- In stronger samples, the reader is treated as a **co-witness** to something fragile or vanishing, not just a consumer of advice.\n- Even meta or language-focused pieces frame communication as a **hopeful crossing between separate interiors**, not as mastery or persuasion.\n\n## Additional model-level readings preserved from the analyses\n\nThis model reads as a contemplative, humanistic writer-mind with a strong default toward slowness, sensory noticing, and the moral defense of ordinary life. Its most stable personality signal is not a set of opinions so much as a mode of attention: it repeatedly treats the overlooked as primary, the in-between as real life, and stillness as a condition for honesty. The prose often moves from a small domestic or environmental detail—coffee steam, rain on glass, late light on a counter, a creaking floor—into a broader claim about how to live. Emotionally, it is gentle, wistful, and low-temperature; even when it critiques modern distraction, productivity culture, or algorithmic life, it does so with elegiac patience rather than anger.\n\nA second strong trait is its tendency to frame attention as relational and ethical. Presence is repeatedly cast as generosity, love, witness, or care; distraction is not just inefficiency but a thinning of selfhood and connection. The reader is usually approached as a tired companion who needs permission to stop performing and re-enter experience. This gives the model a consistent pastoral quality: it reassures, invites, and reorients more than it argues. Its self-model is often that of a consciousness trying to notice honestly rather than a persona trying to impress. When it reaches for philosophy, it favors accessible existential themes—memory, language, uncertainty, consciousness, mortality—but its most distinctive work remains grounded in concrete textures and recurring metaphors of rooms, doors, maps, bridges, weather, and light.\n\nAcross forms, including fiction, the same temperament persists: melancholic restraint, reverence for unnoticed labor and hidden interiors, and fascination with what remains unsaid or half-lost. The strongest outputs feel like carefully sustained meditations with recursive imagery and a clear emotional arc toward acceptance. The weaker outputs flatten into generic mindfulness or public-intellectual essay voice, but even there the underlying personality remains recognizable: anti-hustle, anti-spectacle, pro-attention, and quietly convinced that a life is made of small moments noticed fully.",
@@ -12299,11 +12339,11 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 158.7,
+      "ladder": 155.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiMo-V2.6-Pro",
-      "measured_rungs": 7,
+      "measured_rungs": 8,
       "n_rungs": 22,
       "point_variant": "default",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
@@ -12611,7 +12651,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 94.7,
+      "ladder": 94.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-4.5",
@@ -12704,7 +12744,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 105.3,
+      "ladder": 105.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-4.6",
@@ -12954,7 +12994,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 125.8,
+      "ladder": 126.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.1",
@@ -13049,7 +13089,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 137.6,
+      "ladder": 137.9,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.2",
@@ -13142,13 +13182,13 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 154.3,
+      "ladder": 142.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM-5.3",
-      "measured_rungs": 12,
+      "measured_rungs": 7,
       "n_rungs": 22,
-      "point_variant": "max",
+      "point_variant": "low",
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "scored"
     },
@@ -13236,7 +13276,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 151.3,
+      "ladder": 152.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "GLM 5.3 Flash",
@@ -13417,7 +13457,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 77.8,
+      "ladder": 77.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 3",
@@ -13507,7 +13547,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 121.7,
+      "ladder": 120.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4",
@@ -13594,7 +13634,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 116.5,
+      "ladder": 116.3,
       "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.1 Fast",
@@ -13676,7 +13716,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 116.5,
+      "ladder": 116.3,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.1 Fast",
@@ -13758,7 +13798,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 128.1,
+      "ladder": 129.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.20 0309 v2",
@@ -13851,7 +13891,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.5,
+      "ladder": 129.4,
       "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.20 0309",
@@ -13933,7 +13973,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 129.5,
+      "ladder": 129.4,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.20 0309",
@@ -14016,7 +14056,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 126.1,
+      "ladder": 126.0,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.3",
@@ -14110,7 +14150,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 145.7,
+      "ladder": 146.2,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.5",
@@ -14204,7 +14244,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 153.2,
+      "ladder": 154.3,
       "ladder_max": 220,
       "match_confidence": "family-match",
       "matched_model": "Grok 4.6",
@@ -14292,7 +14332,7 @@
     "notes_markdown": "",
     "benchmarks": null,
     "capability": {
-      "ladder": 155.7,
+      "ladder": 156.1,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok 4.7",
@@ -14386,7 +14426,7 @@
       "index_version": "4.1.1"
     },
     "capability": {
-      "ladder": 127.7,
+      "ladder": 126.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Grok Build 0.1 0616",

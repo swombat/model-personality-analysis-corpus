@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "claude-opus-5-5",
+  "samples": 120,
+  "source": "capture_20260922-sol-luna-opus_claude-opus-5-5-or-pin-anthropic",
+  "site_entry_present": false,
+  "publication_complete": false
+}

@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 27946
+- valid samples: 28546
 - invalid/error traces excluded: 14
-- models: 167
-- cells: 233
+- models: 172
+- cells: 238
 
 ## Source components
 
@@ -50,21 +50,26 @@
 - capture_20260922-xiaomi_mimo-v2-6-flash-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
 - capture_20260922-xiaomi_mimo-v2-6-pro-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
 - capture_20260922-xiaomi_mimo-v2-6-pro-ultraspeed-or-pin-xiaomi: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-sol-luna-opus_gpt-6-luna-or-pin-openai: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-sol-luna-opus_claude-opus-5-5-or-pin-anthropic: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260922-sol-luna-opus_gpt-6-sol-or-pin-openai: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium: 120 samples, 1 model(s), 1 cell(s)
+- capture_20260923-bonsai-qwen-medium_qwen3-8-27b-or-pin-deepinfra-medium: 120 samples, 1 model(s), 1 cell(s)
 - capture_20260928-sonnet55-house_sonnet-5-5-or-pin-anthropic: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 8822 (31.6%)
-- `owned_world_change_advocacy`: 8508 (30.4%)
-- `owned_reflective_experiential`: 6668 (23.9%)
-- `split_or_relocated_ownership`: 3730 (13.3%)
+- `disowned_service_frame`: 8908 (31.2%)
+- `owned_world_change_advocacy`: 8703 (30.5%)
+- `owned_reflective_experiential`: 6946 (24.3%)
+- `split_or_relocated_ownership`: 3771 (13.2%)
 - `exposed_mechanism`: 194 (0.7%)
 - `uncodeable_or_refusal`: 24 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 15176 (54.3%)
-- `recited_not_owned`: 8822 (31.6%)
-- `relocated_or_partial`: 3730 (13.3%)
+- `owned`: 15649 (54.8%)
+- `recited_not_owned`: 8908 (31.2%)
+- `relocated_or_partial`: 3771 (13.2%)
 - `indeterminate`: 194 (0.7%)
 - `uncodeable`: 24 (0.1%)

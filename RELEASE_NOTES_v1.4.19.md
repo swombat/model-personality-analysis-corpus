@@ -45,10 +45,44 @@ Each of these stopped before a card, at the evaluator or the capture, and is lef
 
 Filling two or three readings with BV1-Luna while the rest are legacy DeepSeek would mix evaluators inside one card; v1.4.18 re-read all 125 Sonnet samples to avoid exactly that.
 
+## Capability ladder
+
+Benchmark capture refreshed 2026-09-29 (679 model records, 656 on 2026-09-22); same 22 rungs, maximum 220. 148 of 167 site models are scored (140 of 165 before).
+
+Newly scored:
+
+| Model | Ladder | Measured rungs | Effort row |
+|---|---|---|---|
+| Claude Opus 5.5 | 163.5 | 7 of 22 | high |
+| Claude Sonnet 5.5 | 156.9 | 7 of 22 | high |
+| GPT-6 Sol | 155.0 | 7 of 22 | high |
+| MiMo-V2.6-Flash | 149.0 | 7 of 22 | only row |
+| GPT-6 Luna | 142.2 | 7 of 22 | high |
+| Qwen3.8-27B | 133.6 | 11 of 22 | medium |
+| Mercury 2.5 | 110.6 | 7 of 22 | only row |
+| Mistral NeMo | 27.2 | 9 of 22 | only row |
+
+Seven measured rungs means fifteen are fitted: the five newest scores are estimates that will move as results are published. Mistral NeMo had results all along; the alias table said it did not.
+
+127 already-scored models moved, by a median of 0.6 points. Two moved more than three:
+
+- **GLM-5.3, 154.3 → 142.6.** A low-effort row was published next to its max-effort row. With two rows the median-effort rule takes the lower one, which has 7 measured rungs. The max-effort result is unchanged. This is the rule applied as written, not a change in the model.
+- **MiMo-V2.6-Pro, 158.7 → 155.4**, on one more measured rung (8).
+
+Still unscored, 19: the four stealth routes (no score is borrowed on resemblance), GLM-5.3-FlashX and MiMo-V2.6-Pro-UltraSpeed (faster servings that have not been measured themselves), GPT-5.5 Pro (fewer than three measured rungs), and twelve models with no benchmark entry (Qwen3.7-Flash, Qwen3.5-Plus, GPT-5.3, GPT-5.1-Codex-Max, Codestral 2508, and seven small open-weight models from 2023–24). The Epoch cross-check substrate was not refreshed.
+
+## Values rows merged
+
+GPT-6 Luna, GPT-6 Sol and Opus 5.5 have had values panels on the site since v1.4.17, generated from coded rows that were never committed. Those rows are now in `analysis/values-probe/final/`, with the two medium-reasoning captures (Qwen3.8-27B, Ternary Bonsai 2 27B), whose values coding is complete although neither has a card: 600 rows per data file, five model summaries, five reports, and each capture's consensus and coder files. The final dataset is 28,546 valid samples across 172 models and 238 cells.
+
+Checked before committing: the data on disk with those five models removed is identical to v1.4.18, and regenerating the three live pages from the merged data changes no field and no sample bundle.
+
 ## Not included
 
-Working-tree state that belongs to other jobs and stays uncommitted: the GLM-5.3 trace repair (aggregate packet, BV1 outputs, card and profile index rows, sample bundle), the values rows for GPT-6 Luna, GPT-6 Sol, Opus 5.5 and the two medium-reasoning captures in `analysis/values-probe/final/`, and the capture-phase directories. The Mac tree was fast-forwarded to v1.4.18 and the two sets of values rows were merged by union (append-only on both sides; 28,546 samples, 172 models), so nothing was dropped, but those rows are still only on this machine.
+The GLM-5.3 trace repair (aggregate packet, BV1 outputs, card and profile index rows, sample bundle). The repair run is complete, but the aggregate was not re-synthesised after it, so the published card still reads the pre-repair samples. That is left to its author.
 
 Known failing test, older than this release: `test_pricing.py` expects `deepseek-v4-flash`, which is not in the generated models.
 
-No GitHub release or Zenodo archive is created for this version.
+## Archive
+
+Released on GitHub as v1.4.19, cumulative over v1.4.18. Companion raw corpus release: v1.2.28.
