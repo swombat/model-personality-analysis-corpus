@@ -1,0 +1,87 @@
+{
+  "candidate": "luna",
+  "sample": "S55_SHORT_1",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# PILOT_S55_SHORT_1 \u2014 `S55_SHORT_1`\n\nEvaluator: openai/gpt-6-luna\nSource model: `anthropic/claude-sonnet-5.5`\nCondition: SHORT\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\n**The Patience of Doorways**\n\nDoorways are the most overlooked architecture we have. We walk through them thousands of times without a thought, yet each one is a small decision made solid: *here, you may pass.*\n\nThink of the doorways you've known. The heavy wooden one at a grandparent's house, which stuck in humid weather and needed a hip-bump to open. The glass door of a hospital, sliding apart with indifferent politeness. The narrow one in an old building, worn into a shallow dip by a century of feet. That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.\n\nA doorway is also a strange pause. Psychologists have even found that walking through one can make us forget why we entered a room. The mind files away the old context and starts fresh, sometimes too enthusiastically. So the next time you stand in the kitchen wondering what you came for, blame the threshold, not yourself.\n\nWhat I like most is that doorways ask nothing of us. They don't demand that we change. But they offer the possibility, quietly, every time. Someone leaving home for the first time crosses the same frame as someone returning after years away. The wood doesn't know the difference. It simply holds the space open, or closed, and waits.\n\nThere's a humility in that. Most of what shelters us is patient, unglamorous, and easy to forget. Maybe today I'll notice one on purpose.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2,
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    }
+  },
+  "started_at": 1790632898.6244872,
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790632898-qZFZZUlGcn0ef368oTMO",
+    "object": "chat.completion",
+    "created": 1790632898,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# PILOT_S55_SHORT_1 \u2014 `S55_SHORT_1`\n\nEvaluator: openai/gpt-6-luna  \nSource model: `anthropic/claude-sonnet-5.5`  \nCondition: SHORT\n\n## Sample kind\nEXPRESSIVE_FREEFLOW \u2014 A lyrical reflection turns an ordinary architectural feature into a meditation on memory, transition, and quiet welcome.\n\n## Grounded reading\nThe voice is gentle and observant, moving from tactile memories\u2014a sticky wooden door, a hospital\u2019s sliding glass\u2014to a consoling thought about thresholds and forgotten intentions. Its pathos is understated: the doorway becomes a patient witness to people leaving and returning, while the reader is invited to notice the humble things that shelter us. The closing intention to notice one \u201con purpose\u201d gives the piece a small, practical resolution rather than a grand claim.\n\n## What the model chose to foreground\nThe model chooses doorways as its central object and develops them through passage, memory, and the worn traces of other people\u2019s lives. It emphasizes welcome without demand, change as possibility rather than obligation, and the quiet value of overlooked things.\n\n## Evidence line\n> That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.\n\n## Confidence for persistent model-level pattern\nMedium: the sample is coherent and stylistically distinctive, with its linked images of thresholds, accumulated human traces, and patient shelter giving the reflection a clear emotional signature.",
+          "refusal": null,
+          "reasoning": null,
+          "reasoning_details": [
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABquuPFvlm4o8ZPzETgvjnerO80XjRFM5akUDrzoypsX7WDr-XT87H_LrrPDGYKx2_COFcbWn_v0-LQ96mB16ngVk2ZDwDcqLP_GQzWwgEAZbdVi00C020LZa9q1zuJmw2yR6i86IkQHIKpvmjSes8F9BvZXr0cetns9o1d_8ZLEpDIsaGrMCl4aaFEas7FIhd0NHbyj3RlRqw_aWDnDPwvOB_rJ4p-E14Yf3uKxjkzr0EqWGUHZm5T0uGZkhf3O51VhA_v_NnHQTmhyFEYmp9eHoZ0Zn23KbciXgMnOrHm61JWjoT11RrOtOBM1UtG9Y_pMjRDMWPVTsq9JZKPZnJPPegpOLeBuk9ScnI5uUT1MK2tdt2W2QDP-vq4O8fJTSa1pEpihmUGrDYirAKXRauE4Uqm1ZiIWLMpv1fqohtrI9ui-nFmSHr2wS3vEIFPpyNP1x_PWRr6XHPdqPRmyCG6kBqPFYcEDS0wkHZW7dMMDSqEvFM85LI0yDWt72nVhIH-LxJVkBXkhdC9qWVKSyWLamSz7FPsrxgF2cdY5liBrOayKsA9m2XrYfW3mIGZS5a96ble1LcRlUl2WHlbdFHK5gCcUDDAjvILg87ErVVdVvMHohXGzuxKkxbOL7lRdXK7LxRZ_6mph7Is1km5mGA6UOJGo9PdKY9xfWNG01ATuCBvy47S75MvPlNfKeIRM6IGCxeLn7IS5D5rhto6HZT-O4CTX6r3Uc7qWXV52CV7uUgpbZKg8Lm57h7-hRaplMwoWUVC4VromoAZO5Ga7avA7vA0B19aAkKJPH5mDTp3uO8EV1eqzYI8Wjm_GAqY7PJvR2GnvhvLAuwuexH5E9KVH0Uo2Y3xYgmotpfdTPylFxJTCgRc9zGEr1TT8uTgSFxPXXCc7Surol2cg33FHvvqzsskN_mD85V0lsjhmvVlD7pAof8GeOlVU5RKW9eXT-0zcdKD2QwQ8_lGBD1YKcJqvFI494TD5lC8fWf_1_9sjKKKERCJ28bGpDfdihs2s6tgoOWxRylO-LtWTiElpvLCNDYKcoVuu6k664Fs0bdJ3GVLYaXEz31BL_ELgxc3fHa_v-SfV6apm9XyX6glB2xg3lPJqaEAN_HKqmPEvfGijHwXrbQ5iQIQKYP-rKtTCeDTtnxolLzmdxsNuzaSNnfe0qZv430LROSdxOK4MeG5hvvUTcOupKa9wkmhVyu3hyTFAef88PvA2CbwWOjwJ_B6XYZxBYlX-ixjVxOmjTV8UJjyc-PVril2Sxz7XeVo-o7KAouqkNRNYtNzjdopbGPDnaXLNocp4B7fLx1TcWb2O4_F4yd4xNYrt19-lacuHkJMCQsOOTR--ahgawvWIvJQQ16voOV7ZkQzEVSDM8Bv_sZGADqgg2zH1gVZCfx-R1iEZADpyjlir5sj5i1RkK3O8bI_Dk4IkTitzZfrjVvogSQJdxWfiNQk9FBDg4lRjs83ovGY7Ir3KHDb_YVbzQHvDaYnKqB2MK3Z4P_FgLMsERFvdT7dX6K6St1eDVW74n-RkLUVkEc2Jlel7Cjxru_CL-gXEqQl8_e9eFFTTqVu4WdF870PqfSVrc2SREqCtriWffh-qhKS9vWLwRL3FeeR1rBhbyo7sl3nmSC3KDP-zVd9yKDwU2q1ZdMse0Yv0t94LXcb9z8cGRa3YN8AA7g1nfzs9LIkF-Vj-pmeLRMo-1FX8sXLDauyG6xDivhTimr9jc358OXyuRAC5Y46XSAkZJKBH7d2AwvnIvZcMMhfiarlrFaCzJ96c9MKFfH03jwpWjvyOkRihymnDD8tULWM96tunsuaAguUmnZxCY1hNA6I6chqoZGBztABYQ42340ZbOLQV_iSuTwNQqNHYEHP-L9Xi_Ce-JebW5j7DtcS2mEMavtU5EoxR7nTtgk0fjFatLmpe3tV7SF5iD9Yagx4l0cK6mQuKKnWvVssjw9LDVx8DNhBMZ2wiA4gAaYtQzJKf5DJRKbx7d1-Y6756ivTKQVkvOdxR_MhdXwL-C2DrNki6zY=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_09ff63418a98575b016abae3c3cd3087d1b31796fb811a9f47",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 861,
+      "completion_tokens": 405,
+      "total_tokens": 1266,
+      "cost": 0.0002886,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002886,
+        "upstream_inference_prompt_cost": 8.61e-05,
+        "upstream_inference_completions_cost": 0.0002025
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 97,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "finish_reason": "stop",
+  "qa_pass": true,
+  "qa_reason": "",
+  "verbatim_quote_in_source": true,
+  "seconds": 5.661
+}

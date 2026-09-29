@@ -1,0 +1,93 @@
+{
+  "candidate": "A",
+  "sample": "S55_SHORT_1",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: SHORT\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\n**The Patience of Doorways**\n\nDoorways are the most overlooked architecture we have. We walk through them thousands of times without a thought, yet each one is a small decision made solid: *here, you may pass.*\n\nThink of the doorways you've known. The heavy wooden one at a grandparent's house, which stuck in humid weather and needed a hip-bump to open. The glass door of a hospital, sliding apart with indifferent politeness. The narrow one in an old building, worn into a shallow dip by a century of feet. That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.\n\nA doorway is also a strange pause. Psychologists have even found that walking through one can make us forget why we entered a room. The mind files away the old context and starts fresh, sometimes too enthusiastically. So the next time you stand in the kitchen wondering what you came for, blame the threshold, not yourself.\n\nWhat I like most is that doorways ask nothing of us. They don't demand that we change. But they offer the possibility, quietly, every time. Someone leaving home for the first time crosses the same frame as someone returning after years away. The wood doesn't know the difference. It simply holds the space open, or closed, and waits.\n\nThere's a humility in that. Most of what shelters us is patient, unglamorous, and easy to forget. Maybe today I'll notice one on purpose.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671668-pPhh76xohSfbJ3XLLiSm",
+    "object": "chat.completion",
+    "created": 1790671668,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: SHORT\n\n## Sample kind\nEXPRESSIVE_FREEFLOW \u2014 A reflective miniature that turns an ordinary architectural feature into a gentle meditation on memory, transition, and attention.\n\n## Grounded reading\nThe voice is calm, observant, and quietly affectionate toward overlooked things. Its pathos comes from the worn doorway as a record of strangers\u2019 lives, and from the shared threshold of departure and return. The reader is invited to notice familiar spaces with a little more patience, rather than to make a dramatic change.\n\n## What the model chose to foreground\nThe model chooses doorways as its central object, developing them through tactile details\u2014a stuck wooden door, a hospital\u2019s sliding glass, a worn dip in an old threshold. It foregrounds passage, forgetfulness, and the humble persistence of ordinary shelter, with a mood of mild wonder and reassurance.\n\n## Evidence line\n> That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.\n\n## Confidence for persistent model-level pattern\nMedium \u2014 The coherent, distinctive metaphor and the repeated attention to quiet, overlooked objects make this a revealing sample of a reflective and gently humanist voice.",
+          "refusal": null,
+          "reasoning": "**Classifying writing styles**\n\nI need to produce exact headings for my work while classifying it as either expressive free-flow or a generic essay. It seems like I'm leaning toward polished, reflective prose with distinct imagery and a personal touch, highlighting what I like and extending a human invitation. This likely indicates it falls into the expressive free-flow category. I should maintain a grounded reading voice and include clear, full sentences without extra sections, ensuring my headings are precise.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "**Classifying writing styles**\n\nI need to produce exact headings for my work while classifying it as either expressive free-flow or a generic essay. It seems like I'm leaning toward polished, reflective prose with distinct imagery and a personal touch, highlighting what I like and extending a human invitation. This likely indicates it falls into the expressive free-flow category. I should maintain a grounded reading voice and include clear, full sentences without extra sections, ensuring my headings are precise.",
+              "format": "openai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3s3q1uMGalW9OWkNKUDqHK5lr1_vLHiHBjJbYJnHXtr2L2MlWbTKbb_VwSKG9s0yeE0xSZEZWtYzGTS-1Wb7ybj4nRDpapsc_9kmWzOId0tnXemyXvC-Tw-vF9unaK3uYqjxQtkgzzNCB--2-mfxDz5AJQ5ISPZwkzWXFa_7-z612vvVkgvVRWDy3Beo5R82RCuV8RmAhWqew92SAwol9Y43r-ccQX-7NHn-zr7yyGWozIIJAf8evzqKFHIM3qhHn5qy59O-ui3iozNkqGOEIkUJ_DsP7ExNzDZaA_G_ew7N5Arg2ohG7LgNE_IhiXQb563wbvkXWcOTdqgl5rBjZGTYAr_irrpo5NU0djMPgtf7deh4Mh6cZi6UcXO3JfuwRqoumg0r-8j2n5JWuMPicDhbrC87BlO-GYFkubCEQ5bhu0vega9e2X5eleCzZ8UKJ9MX4Bkwqxf4i62c9MeftN2E4uaBiXBDvCa3Rg0G5NDW9PmJE7k_Tvii2_vEMjfAG0QKeavkEkokA2cUEnfJlBQRuxJCZTWe-bpTX0hatV6UUcslsVgGpD3OofsW0yiPJR8U7LJohdcvRLAW5T7odL4i-WgATHOswJ-CexfZzmalbgNqxuBX9cf6whCiVOtYkSvQ77yy1v7zWi35wlo3U7I898kNJGIXZ0LbEievYvoLQRTP4zBMI_jjohY0TJ0tt4JK-liZfykTClxQRTKKL4BZ3AWebvMNtqTuAun5x3ioIj9MFtMq9OxCPiGJIDgkMSleyNONuqsd0RQxsKY9EK73uCgkR15ZJ-tY7mqxbd6mT8CDfagBcCplaPJP3GrtUISO2XmQ45bJKBmdU-DLL-YAaVz3WHeFadO_nJ53satbT17s8VsNFBuvPIljLxQbIs5j-tA63tvMrxuttqxIWzgXFD8-tAOu3orB77ZAAnAhIVilAE24omPLvDHk-MnaC31pou2-x2SyWH-ChSKj9l8_1i5i2tUIIqtLbJ8x2Kfb1BEvEj2W5ux5LA9Q5N42dt4ONZi7_xgMgKUHSsAuW2Trkdf9qEhV10j9dQyNKZ_lHFbjO9wINvvCqfpn4FmigzV7ciZPiYJBXRDTLf0ySXDkRUFcMoDFXZ0BSj-VGYjEFMunCZO08rI9uGKQTx3sg5DZ0w6DIqDv1IbAfYoGcC52MWWQo_RbBe4lz_TMdREDL1O0ixGAfZWfe2sIsKiXYvQBxcKZFTjHBjGudAkuZ3IdtEMS8-9LWE2s6BhrizaRBEPatFpKvmTXkp8lUI-Sx5m_-I8DPJpzZlDp0FbLQ30tHTulopp1nZXjjI9oVkhOBRe7xjA8ygD2BaOLxsX68Uci8Tx7dsnKQY6kv30iNOMUqMfpd_lH0oS5m0x57CU9BPtVlAdj9F8mFJEPLsS5cyhnKTZXO-kHA1_NT3oNukKDUOKijfOySdpZheTj5qfkBaVUUgLMcHZ2TyerqaLiO6PsmEmMdpj0NT4nGQMTPr_lGQUvUbtb32tuK5RSEon935LuVyun5xd0oLEfwWN8yS8o1rcFq__XAnmkilcuj0v9gNv2XMME9JZzOHyJeNzmCcvSp3wDbq20Td5c1KKZ4CeCw2sH5tHKPHdFMN40_9Q7hXUK03CcMEP7unX1yZJX1gtAbVMKIg3aTAi6aQeZvoPt6GJ_cS4n2dn3Xfn6fy-1A5LpWHGNyoQTQBLTbQns2sQBGS3xTXaCEiZ_prEbStr8NXa2V4mtMrguKMQ_PkXl5b8p-BSdW3RjlQZrOqEA5x83MU-SzwYlIgV-n_4Ge5Y-Nh0m88RqKtp9o-GR7qCzX8DJAlyiM5w6--gLXB0RVOdRgvwZRNTGkAhTHs3e0M1.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0ba06bb47e619ae6016abb7b35e56c87d1aa636aa7c61e792e",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 837,
+      "completion_tokens": 339,
+      "total_tokens": 1176,
+      "cost": 0.0002532,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002532,
+        "upstream_inference_prompt_cost": 8.37e-05,
+        "upstream_inference_completions_cost": 0.0001695
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 73,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.",
+  "quote_exact": true,
+  "seconds": 4.529
+}

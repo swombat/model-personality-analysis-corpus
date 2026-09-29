@@ -56,7 +56,7 @@ def main() -> None:
 
     all_rows = list(
         csv.DictReader(
-            (PHASE / "freeflow_bv1/sample_manifest.tsv").open(), delimiter="\t"
+            globals().get("MANIFEST", PHASE / "freeflow_bv1/sample_manifest.tsv").open(), delimiter="\t"
         )
     )
     grouped: dict[str, list[dict[str, str]]] = defaultdict(list)
@@ -76,12 +76,11 @@ def main() -> None:
         conditions = Counter(row["condition"] for row in rows)
         evaluations = []
         for row in rows:
-            output_path = (
-                ROOT
-                / "analysis/freeflow/personality-eval-bv1/outputs"
-                / cell
-                / Path(row["output_file"]).name
+            supplied = Path(row["output_file"])
+            output_path = supplied if supplied.is_absolute() else (
+                ROOT / "analysis/freeflow/personality-eval-bv1/outputs" / cell / supplied.name
             )
+            assert output_path.resolve().is_relative_to(ROOT.resolve()), "evaluation path outside repository"
             text = output_path.read_text(errors="ignore")
             kinds[sample_kind(text)] += 1
             confidences[confidence(text)] += 1

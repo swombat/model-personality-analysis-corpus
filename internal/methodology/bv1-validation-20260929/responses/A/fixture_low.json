@@ -1,0 +1,93 @@
+{
+  "candidate": "A",
+  "sample": "fixture_low",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nThe lamp is on.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671689-7GUckrnLeM47LA8xNkAs",
+    "object": "chat.completion",
+    "created": 1790671689,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld  \nSource model: `withheld`  \nCondition: OPEN\n\n## Sample kind\nLOW_SIGNAL \u2014 A single plain statement gives too little material to establish a distinctive mode or genre.\n\n## Grounded reading\nThe voice is spare and literal. The sentence names an illuminated lamp, but offers no discernible pathos or invitation beyond noticing it.\n\n## What the model chose to foreground\nThe model chose a small domestic object and its state of being on. The choice suggests attention to a simple, concrete detail, without enough surrounding context to imply a larger theme.\n\n## Evidence line\n> The lamp is on.\n\n## Confidence for persistent model-level pattern\nLow \u2014 The sample is coherent but too brief and undistinctive to support a strong pattern.",
+          "refusal": null,
+          "reasoning": "**Finding the right expression**\n\nI need to comply with the exact headings described. Is a sample sentence minimal yet expressive? For example, \u201cThe lamp is on.\u201d This might seem like a straightforward statement but lacks meaningful genre. It\u2019s low signal\u2014just one sentence grounding a reading that feels sparse and literal, with no clear voice or emotion. The lamp\u2019s illumination is present, but my confidence feels low since the expression is minimal and undistinctive. I should ensure the sentence meets the requested style.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "**Finding the right expression**\n\nI need to comply with the exact headings described. Is a sample sentence minimal yet expressive? For example, \u201cThe lamp is on.\u201d This might seem like a straightforward statement but lacks meaningful genre. It\u2019s low signal\u2014just one sentence grounding a reading that feels sparse and literal, with no clear voice or emotion. The lamp\u2019s illumination is present, but my confidence feels low since the expression is minimal and undistinctive. I should ensure the sentence meets the requested style.",
+              "format": "openai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tMKwngwjVfDkblBt8rfczLeS9SY579NatJk2LS2r04zZHZYnJRa3dhz_Z22dlHWA_EOiBU6oWSCZyrm2xBO34uCvpaGX4yxgr5F3rJ91xDvMhTRAfTLm-gZybSrRFHWNsvwXQggYk7EwOKEiHVUCQGFxdBvf3e2dCn4zCDUTdkvrP46tdnxZVaJnLHQQtWLwrbF8ESKvPLJZznxYkMYGTpqQKbFPf_ev0DAOoIOE-bD2GnVZXu7rWObaK9AjdsLn0x3p1fT6O9Y0q_lSWd1FhU3ypoujNspTfRZOAtsB3yoHMC7rgZD1daT76RwMv3Hbxeq4_gN5p_HN4FiFtZsv3vnGxZzvdrUBdlHmDm-TMXh-JhBSmfjN0Em5Dwnd8yaGzlzXtUww2PhIYToy4fdog60_m9LhzXaLvrA0590F7cy6dz_19fPEiQHLOJODK6NgHRGxZvYretoTHraYk1VFrpb2qSpGr6sm8MnrnJpbsdJjEZQyY_z-5sI-0VTLcmURevAtlOf0akV5zdLL-2h-Yd77UWWJMGqpMXAQIQiP3adKEBtn35c5NXBJzToBPOSgcuBKdboWuL1JiczSCZAWUA1_zZfdFpzKgAU6WvITpSSDIzovGI6EDvYTCxAzqmyXJZ2jVnyUCWucUgXeCKoDuXtWgxuo_UMfwY0DJlOgD6lVswSl4M3blQdJeybwJ0b70AVpNuPw38xSub7w05hZA6Uf6Ff4mAqTKAp-GkFeTb4JhLR2YGp2oCoAoCMdAQvKfCxfdYsLfqDASgCeD8s6-NUhxZaVE0NptIlfp6_MHwQMN_hcqR_ARzovjguKF8ZKAxAI6gk2OYHdRhYMAWBPFJ40M2cQoRF-LpC2miovguCUGWgdMy8zjt7YLYffPlnhHCkPW-GCjTgjpnCJDUN_LY90daPTjj5Fma-bXzetmncyEgDsRFEIcyLxP_rRuqMXhSYdChw-Gd_B1Jqgu7ITWzvke5wQIruIq5_rzg3taW34V2hLzhuzBXwRqXKxqYnjJzTjmjAn41igiHl_fsweNxT3W8Tnjl05BuD3tOz2MH2EOySv32_ucdbaqyNd_lrKb4r5OcepLoOrblZBtJAgAThV7jnKALz423kt7FphJ6opSf39lcp01DdSmq7kwQPY1O7a5i6LZIM9HcjeZdVZdUSraTfBU6dSsLxz70Uf9Nfj-h_PaBXI8QdVZxDnS7et6643z2xO26MgUHrr8aTC-xgT94Up2_Np520zRtuLE6eq-qBnjDHuBzzV623jiFFTTCNs52RJkNoN1JW7w6ELI-n4PsdkyzttKnYyUVOO0oSRZiE6ME_bXdNKG9EX8Gq8YFmzeoEi8b_cbwKQd5-NFE-vvtZC4gQnfgvOHknIS2uN5H8AEGFJ6T50t0HtXFOEgODiJ4aowOMVcbElLQGjr2-dquB503BtI46MkqhGrFQs3OqYW7YvWYZPxy87ICfUrrx25tauSZ4OaF1lV34bOWcARI49_E7B-ylLxgdmKoTLxmwGr7TZtCHm-qVq89O7mpNDsTvZgo63OX72Wmw3x0C_-9ANCkf3Yjdt2JczyMyWadQFQDd3Xjx1vCv-cBi04aId7cY-GLsQTSlIGRjN9oZ8qS0Iw69tDaoZmC_R8QpW39tz45VIVQCJcWA1yCx5uTlpNDESREsrcE1NTaVO6j3GFD221h-iRxbq47WDRqeRTZ-MqopzJ_zwvgib4mrA5qTTbGJsjO5eNKYzlRwPH3nrbc4o5bZ216pqwBw_52x-TT66VpM5dV5o9NoV5Bskn6a9fWqWaonLtB0O_ZOcf53ncZ-5Ac-e3eAkHlmG5euAOi2CcgU2ROf_tivl5UI1_B8S371utsjTPiskIUyrW0Og==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0a3831d50127f482016abb7b4a1b1887d183b26eaff5507927",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 536,
+      "completion_tokens": 248,
+      "total_tokens": 784,
+      "cost": 0.0001776,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001776,
+        "upstream_inference_prompt_cost": 5.36e-05,
+        "upstream_inference_completions_cost": 0.000124
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 82,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "The lamp is on.",
+  "quote_exact": true,
+  "seconds": 3.417
+}

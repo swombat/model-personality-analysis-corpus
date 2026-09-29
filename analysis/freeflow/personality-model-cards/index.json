@@ -1280,6 +1280,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "sonnet-5-5",
+    "safe": "sonnet-5-5",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/sonnet-5-5.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "union-alpha",
     "safe": "union-alpha",
     "variants": 1,

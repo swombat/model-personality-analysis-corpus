@@ -1,0 +1,12 @@
+{
+  "model": "anthropic/claude-sonnet-5.5",
+  "slug": "sonnet-5-5",
+  "label": "sonnet-5-5-or-pin-anthropic",
+  "family": "claude",
+  "or_provider": "Anthropic",
+  "quantization": "unknown",
+  "release_date": "2026-09-28",
+  "release_date_source": "https://x.com/claudeai/status/2104633140409192757",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/sonnet-5-5-2026-09-28/endpoints.json",
+  "release_date_status": "sourced"
+}

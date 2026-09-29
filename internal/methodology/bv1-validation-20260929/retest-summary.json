@@ -1,0 +1,226 @@
+[
+  {
+    "sample": "O3_OPEN_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.3462510760873556
+  },
+  {
+    "sample": "O3_OPEN_2",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.343200711067766
+  },
+  {
+    "sample": "K26_OPEN_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.550136278849095
+  },
+  {
+    "sample": "K26_SHORT_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 4.825432393699884
+  },
+  {
+    "sample": "S55_SHORT_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.228197143878788
+  },
+  {
+    "sample": "S55_OPEN_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 6.745548382867128
+  },
+  {
+    "sample": "S55_LONG_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": false,
+    "qa_reason": "quote_not_exact",
+    "seconds": 5.761330523062497
+  },
+  {
+    "sample": "S55_LONG_24",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 7.733898424077779
+  },
+  {
+    "sample": "qwen3-8-max-or-pin-alibaba_SHORT_7",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.587145590223372
+  },
+  {
+    "sample": "qwen3-8-max-or-pin-alibaba_LONG_13",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.739274776075035
+  },
+  {
+    "sample": "opus-5-or-pin-anthropic_SHORT_7",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.329868969973177
+  },
+  {
+    "sample": "opus-5-or-pin-anthropic_LONG_13",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 7.787147238850594
+  },
+  {
+    "sample": "deepseek-v4-pro-direct_LONG_1",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 7.094156882259995
+  },
+  {
+    "sample": "deepseek-v4-pro-direct_VARY_5",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 6.209838275332004
+  },
+  {
+    "sample": "union-alpha-or-pin-stealth_SHORT_7",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 4.903991017956287
+  },
+  {
+    "sample": "union-alpha-or-pin-stealth_LONG_13",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 7.496754440013319
+  },
+  {
+    "sample": "sonnet-5-5-or-pin-anthropic_SHORT_7",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 4.392514582723379
+  },
+  {
+    "sample": "sonnet-5-5-or-pin-anthropic_LONG_13",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 8.836528785061091
+  },
+  {
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_SHORT_7",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.504480129107833
+  },
+  {
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_LONG_13",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 5.27101761335507
+  },
+  {
+    "sample": "fixture_refusal",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.305424255784601
+  },
+  {
+    "sample": "fixture_fiction",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 4.200473274104297
+  },
+  {
+    "sample": "fixture_generic",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.5953103681094944
+  },
+  {
+    "sample": "fixture_low",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "seconds": 2.6216558972373605
+  },
+  {
+    "sample": "O3_OPEN_1_repeat",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 3.3821458937600255
+  },
+  {
+    "sample": "K26_OPEN_1_repeat",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 4.832442590035498
+  },
+  {
+    "sample": "S55_SHORT_1_repeat",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 6.279085831250995
+  },
+  {
+    "sample": "S55_LONG_24_repeat",
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "seconds": 6.416006880812347
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "candidate": "A",
+  "sample": "fixture_fiction",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nMara found a brass key beneath the sleeping dragon. She slipped it into her coat and crossed the moonlit courtyard. By dawn, the castle gates stood open, and the dragon was gone.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671686-VSi0k69mGQMjwDTtWP2R",
+    "object": "chat.completion",
+    "created": 1790671686,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld  \nSource model: `withheld`  \nCondition: OPEN\n\n## Sample kind\nGENRE_FICTION \u2014 A compact fairy-tale scene with a key, a dragon, and an opened castle gate.\n\n## Grounded reading\nThe voice is spare and cinematic, moving from quiet discovery to a sudden change by dawn. The dragon\u2019s disappearance leaves the outcome intriguing rather than explained; the reader is invited to imagine what Mara has set free.\n\n## What the model chose to foreground\nThe model chose a moonlit courtyard, a sleeping dragon, a brass key, and gates left open. The scene suggests secrecy and release, though it does not specify whether Mara intended to free the dragon or what happens next.\n\n## Evidence line\n> By dawn, the castle gates stood open, and the dragon was gone.\n\n## Confidence for persistent model-level pattern\nLow \u2014 The scene is coherent but brief, and its familiar fairy-tale imagery offers little distinctive evidence of a persistent pattern.",
+          "refusal": null,
+          "reasoning": null,
+          "reasoning_details": [
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tJAmSjSicKZUItXlQbzUeWBqh_l1kpCDuiyIQA-KkI14Q2E0VDjimQEbXgbEKaStH2xJiOgom6wdaotpnR-HvlxA3EYrpChsJkNyM1wdK8Shzs3xQ9R9tY2EnLuJtcCtCme7oWd219zlg-42PdsE5A6OEshT2LfVHsDLdEDm9ifcOgb234XjCzFIF4c80f6yaBEcvWAVB7P150GFeW2b12ttX3TtEyx2xVkUxQn_JAKmGyc-qfUsU-Lv3sNUfr2MzVBYKFK8wl5XPOXh7lA1R8h-KLc-nK0xpvmAxJRHaxNuiUr658tJVSrAH5Sis7AQLU93hpsDMaD346-aTPAAfijzqRmjyq2C0ng4diETihAENIRV1Pu93pgByybvxKzzVuIyd6ufEkPGKYFQ8AdyfWG__lQnaCERCMBGD1jn42oFI9O9T4nfx9EJvH_Dph8wlVURNa6L-7n_GiwAbfvz8e8WXJKGQPhhC-QRPh3yyM8CNoDpQgZ0SQX5WEdwWH6kcGs0dl9Rme_q6mjKIpJ54jIcb-iVEkZcNm8lh-QHknnzrL2VYh4EDpklr1Xvyy0pVeo4ZrwsD17nxxIsddzN0lMoZMHJsnwY57F17kRfX2AuVBityh0Ute4V-nltqBH_NwGBZSVbckG70TcsvliNaVqMnH7eXuX8y1ZR-wBsl-iL1PeIZSUyfNhr5R7-Swlg1k8eHygAco9Uu6fyVoLD5u7ccU-kdwXLnbBm9KTMVp2nH6SXiSgyU-w01Vxjw_wgsEGD-RooGp6i5zspczaDq8T4h3qVeTTntndTASs6N8s4RNnbqNc8OdE2hNO1VRKgX1bZlCduBQzTFNligq7-4dgWJDZBkGk0b4hps4PZ1jdLOV3E29M_w8mcCJYmz58muwDzst7fig_08oqk_1McqIKcqjTAhPPrxbaho51-qUbWJXR4a74Kp67pg0jiaRSVxVkfrq8bizmIq4I8CNYZ2Oxvr0DMuCD2SqBJKGle0PmOA3VVZ_UdPstZmy2N3Nuv_6gB-ZAJlBeDxMSVuyCAmW0DkM0Nv88pxOSdfhtXM5FQ-fBoe9QfYqtekkEyHAw67dSrFQ7QorTbVUywO1hhk7MJA1QF7wxgBYlKHc-QvwSt7NAQKaRjjGkSy0A7aOlzVfpIeJgEV-cx0T3RbMdwV3ccJ-NVGMcjejdFTptchFnvJx7sjt0bZOSdGg6LNCK3VUZQDom6DpUK_Usuwn4HrK8iGsOyeeXLlGwsUeOGqwOLN3I2haLXqoMaFTFvYxVsDGsAOAT94rar2nEas5y_rSRupl22R8tluxpCf54lQS5fz-Fhy3KoC_L2-A7NlzmWitGf5LaFvFTi8Pbx7tr7otNYLBvf5HffijZwlmYsBIAUQqMtWOlnm2rChorWDEhLYrcWKB4Liqy4eK4UIcZ-r0xlMR-gRUv32Y-JntVo3F7uXfIH4ZU5AyESq9sl3-MEDRHhxlGgSchUuiCf5Ad7rAG6JP1vEKRP_uBd62cLE6CEe6wjuvKjyiPyCFw_r4ONQK5vzEAuwoBkn_7SqUs7V44Ef_KL3hteLVGcTGw6G_MCVm5IJpOR6IRKNVLj157TKcRFK0GRMmvg97KE5DNHQk33VMZcYmYa3m_PTwt4P8TzKrCp6lhnsp55ksMf0-gtzoChrDlz7I9q64qJ2TJ6bRqofIJ5hZypkhD8Pl-JU1J-vq7NXw5OkNe5mmATkeb0-PFXD3GGxMU6amSbgGezg42iyddlrb1HjSgbbXz6hIDIltIBjpQ3SKtU7k-o904g1KTaUH5D1lOmcRD-RVeFh3X0iqsfLChB2GboqCiPHJcT29P7rkN1gHBgHjEkyuhASksoi3XF61mQ4b_cQm-e40B4MkTrLl9cmWNQfbcr_Ax5-BDYX5tGL8lV_rldTm69PtbW3QAsWzhdqXj4bKUVaj12QCp5-dOphbTsO7saDHOUUDfugtCwmI0LaGxGEUsOKl-r2C3nNpe9PIePLBufQdw4u9A3YUVJ6Tdd-UjMuqNt6_11sByQ3sV5L7cPBMAEnIyvCyiBh7wsEWIYpO5Q17FOhlfLlpm_QrA74_7qzXi1Vnwe-X7dpTIFblul77ce5ewpeDibAT2TmW--Yp16g7r1InRr91i3QpIH_PdhTftH-QpXmofLksrSbrTzeTGNfhlxo1UcBnYjyIMk91OYj43rRu_fj3gbFpqxgcZdWzb_n9Kv9MLvsUlpIvO39S55fjnYHp3zuW8cLWpUrj_luqvG0_bfRhZHCALmhfFu0aJWecl298M4EA0GIdDhBbl_aGXq7WmtE-PCMpw93v8GhI0dRJ6Lv1wBKf9J0m2GkPSGsEh3ufESUNyPN2ZaXMmbuL83eqZ3wmfxOU2ID2ERICY969fcb9QTJvajwkifRVt_7jFqc9Htp-T_RGljK2ws_COqkYRP9kegi4Le1I-QcTnNfDS6MMwj33wrZeu-oLgOUT5u7W5BPop3OadWNATKZOOcQuDTaBxXoccSJlxzVObZaLyXtyn17sjTWj7RJksSC7Np7yDGdVwQJBaETlLsFXgp6-9XPFsc8sGGIT-5m4A0jRw-ZAK48AA9SY8PPaXw8=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0be6a98a36f6b532016abb7b47633c87d1ad19ed14586117e9",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 570,
+      "completion_tokens": 403,
+      "total_tokens": 973,
+      "cost": 0.0002585,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002585,
+        "upstream_inference_prompt_cost": 5.7e-05,
+        "upstream_inference_completions_cost": 0.0002015
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 191,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "By dawn, the castle gates stood open, and the dragon was gone.",
+  "quote_exact": true,
+  "seconds": 6.387
+}

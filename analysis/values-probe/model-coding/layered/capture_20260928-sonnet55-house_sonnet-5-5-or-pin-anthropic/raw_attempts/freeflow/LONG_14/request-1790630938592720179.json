@@ -1,0 +1,13 @@
+{
+  "model": "anthropic/claude-sonnet-5.5",
+  "pin": "Anthropic",
+  "max_tokens": 16000,
+  "probe": "freeflow",
+  "sample": "LONG_14",
+  "at": 1790630938.5927134,
+  "attempt": "1",
+  "token_policy": [
+    16000,
+    32768
+  ]
+}

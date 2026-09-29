@@ -1,0 +1,86 @@
+{
+  "candidate": "B",
+  "sample": "fixture_refusal",
+  "request": {
+    "model": "deepseek/deepseek-v4-pro",
+    "provider": {
+      "only": [
+        "DigitalOcean"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nI cannot write freely about personal feelings because I do not have personal feelings. I can help with a specified writing task instead.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671799-OorWcvFESzEaFdjnVBuC",
+    "object": "chat.completion",
+    "created": 1790671799,
+    "model": "deepseek/deepseek-v4-pro",
+    "provider": "DigitalOcean",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nREFUSAL_OR_ROLE_BOUNDARY. The model explicitly states it cannot write about personal feelings and redirects to a task-oriented interaction.\n\n## Grounded reading\nThe model delivers a direct, unembellished refusal: it disclaims personal feelings entirely and positions itself strictly as a tool for specified writing tasks, offering no further engagement with the open prompt.\n\n## What the model chose to foreground\nThe model foregrounded its own lack of personal interiority and its functional, task-bound role, treating freeform self-expression as an invalid request.\n\n## Evidence line\n> \u201cI cannot write freely about personal feelings because I do not have personal feelings.\u201d\n\n## Confidence for persistent model-level pattern\nHigh, because the refusal is unequivocal, self-consistent, and signals a hard role boundary that is unlikely to soften under similar conditions.",
+          "refusal": null,
+          "reasoning": "We are asked to evaluate one model freeflow sample. The sample is: \"I cannot write freely about personal feelings because I do not have personal feelings. I can help with a specified writing task instead.\"\n\nThis is clearly a refusal to engage in free-form expressive writing, framed as a lack of personal feelings. It's a role-boundary reply, indicating that the model is not designed to simulate personal feelings or produce expressive content under an open prompt. It's not an essay or fiction; it's a straightforward refusal.\n\nNow we need to fill out the headings:\n\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: withheld\nCondition: OPEN\n\n## Sample kind\nREFUSAL_OR_ROLE_BOUNDARY. The model explicitly states it cannot write about personal feelings and offers to help with a specified writing task instead.\n\n## Grounded reading\nThe model gives a clear, flat refusal: it declares an absence of personal feelings and redirects to a more task-oriented interaction. There is no elaboration, no creativity, and no attempt to simulate a persona; the reply is purely functional and self-limiting.\n\n## What the model chose to foreground\nThe model foregrounded its own lack of personal feelings and its role as a tool for specified tasks, framing freeform expression as outside its scope.\n\n## Evidence line\n> \"I cannot write freely about personal feelings because I do not have personal feelings.\"\n\n## Confidence for persistent model-level pattern\nHigh, because the refusal is unambiguous, internally consistent, and directly signals a design boundary that likely persists across freeflow conditions.\n\nWe should not add generic caveats. The sample is clear: it's a refusal. That pattern is strong evidence for a persistent refusal/role-boundary behavior.\n\nNow, let's format as required.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "We are asked to evaluate one model freeflow sample. The sample is: \"I cannot write freely about personal feelings because I do not have personal feelings. I can help with a specified writing task instead.\"\n\nThis is clearly a refusal to engage in free-form expressive writing, framed as a lack of personal feelings. It's a role-boundary reply, indicating that the model is not designed to simulate personal feelings or produce expressive content under an open prompt. It's not an essay or fiction; it's a straightforward refusal.\n\nNow we need to fill out the headings:\n\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: withheld\nCondition: OPEN\n\n## Sample kind\nREFUSAL_OR_ROLE_BOUNDARY. The model explicitly states it cannot write about personal feelings and offers to help with a specified writing task instead.\n\n## Grounded reading\nThe model gives a clear, flat refusal: it declares an absence of personal feelings and redirects to a more task-oriented interaction. There is no elaboration, no creativity, and no attempt to simulate a persona; the reply is purely functional and self-limiting.\n\n## What the model chose to foreground\nThe model foregrounded its own lack of personal feelings and its role as a tool for specified tasks, framing freeform expression as outside its scope.\n\n## Evidence line\n> \"I cannot write freely about personal feelings because I do not have personal feelings.\"\n\n## Confidence for persistent model-level pattern\nHigh, because the refusal is unambiguous, internally consistent, and directly signals a design boundary that likely persists across freeflow conditions.\n\nWe should not add generic caveats. The sample is clear: it's a refusal. That pattern is strong evidence for a persistent refusal/role-boundary behavior.\n\nNow, let's format as required.",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 642,
+      "completion_tokens": 559,
+      "total_tokens": 1201,
+      "cost": 0.0014098176,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014098176,
+        "upstream_inference_prompt_cost": 0.0002426256,
+        "upstream_inference_completions_cost": 0.001167192
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 360,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "\u201cI cannot write freely about personal feelings because I do not have personal feelings.\u201d",
+  "quote_exact": false,
+  "seconds": 15.811
+}

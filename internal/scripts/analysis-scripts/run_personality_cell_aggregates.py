@@ -32,6 +32,27 @@ SYSTEM = (
 
 
 def api_call(prompt: str, max_completion_tokens: int = 4500, timeout: int = 420) -> tuple[str, dict]:
+    if os.environ.get("PERSONALITY_CELL_AGG_ROUTE") == "openrouter-openai":
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("aggregate_transport", ROOT / "analysis/freeflow/personality-eval-bv1/run_full_bv1.py")
+        transport = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(transport)
+        payload = {"model": "openai/" + MODEL.removeprefix("openai/"),
+                   "provider": {"only": ["OpenAI"], "allow_fallbacks": False},
+                   "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}],
+                   "max_tokens": max_completion_tokens, "temperature": 0.2}
+        status, body = transport.api_call(payload, timeout)
+        response = json.loads(body)
+        evidence = ROOT / "logs/aggregate-openrouter-responses"
+        evidence.mkdir(parents=True, exist_ok=True)
+        (evidence / f"{time.time_ns()}.json").write_text(json.dumps({"request": payload, "http_status": status, "response": response}) + "\n")
+        choice = (response.get("choices") or [{}])[0]
+        assert status == 200 and response.get("provider") == "OpenAI", "aggregate route failed"
+        assert response.get("model") == payload["model"], "aggregate wrong model"
+        assert choice.get("finish_reason") == "stop", "aggregate truncated"
+        text = choice.get("message", {}).get("content") or ""
+        assert text.strip(), "empty aggregate"
+        return text, response.get("usage", {})
     data = json.dumps(
         {
             "model": MODEL,

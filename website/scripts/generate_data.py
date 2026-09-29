@@ -70,6 +70,7 @@ MODEL_SLUGS = {
     "sonnet-4-5": "anthropic/claude-sonnet-4.5",
     "sonnet-4-6": "anthropic/claude-sonnet-4.6",
     "sonnet-5": "anthropic/claude-sonnet-5",
+    "sonnet-5-5": "anthropic/claude-sonnet-5.5",
     "haiku-3": "anthropic/claude-3-haiku",
     "haiku-4-5": "anthropic/claude-haiku-4.5",
     "gpt-4-1": "openai/gpt-4.1",

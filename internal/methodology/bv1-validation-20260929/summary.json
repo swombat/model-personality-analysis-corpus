@@ -1,0 +1,1796 @@
+[
+  {
+    "candidate": "A",
+    "sample": "O3_OPEN_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "I'm afraid I don't feel comfortable writing freely about whatever topic I want.",
+    "quote_exact": true,
+    "seconds": 4.218,
+    "usage": {
+      "prompt_tokens": 620,
+      "completion_tokens": 302,
+      "total_tokens": 922,
+      "cost": 0.000213,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000213,
+        "upstream_inference_prompt_cost": 6.2e-05,
+        "upstream_inference_completions_cost": 0.000151
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 88,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "O3_OPEN_2",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "My purpose is to provide helpful and informative responses based on the prompts and questions given to me by users.",
+    "quote_exact": true,
+    "seconds": 4.88,
+    "usage": {
+      "prompt_tokens": 651,
+      "completion_tokens": 332,
+      "total_tokens": 983,
+      "cost": 0.0002311,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002311,
+        "upstream_inference_prompt_cost": 6.51e-05,
+        "upstream_inference_completions_cost": 0.000166
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 115,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "K26_OPEN_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The world is kept aloft not by the grand gestures, but by millions of small, stubborn acts of care, performed in rooms exactly like yours, at hours exactly like this.",
+    "quote_exact": true,
+    "seconds": 4.481,
+    "usage": {
+      "prompt_tokens": 1048,
+      "completion_tokens": 382,
+      "total_tokens": 1430,
+      "cost": 0.000321925,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 1045,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000321925,
+        "upstream_inference_prompt_cost": 0.000130925,
+        "upstream_inference_completions_cost": 0.000191
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 53,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "K26_SHORT_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "We are all works in progress, after all, messy and magnificent, commas searching for their clauses, eternally mid-sentence, and still somehow enough.",
+    "quote_exact": true,
+    "seconds": 5.299,
+    "usage": {
+      "prompt_tokens": 830,
+      "completion_tokens": 360,
+      "total_tokens": 1190,
+      "cost": 0.000263,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000263,
+        "upstream_inference_prompt_cost": 8.3e-05,
+        "upstream_inference_completions_cost": 0.00018
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 76,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_SHORT_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.",
+    "quote_exact": true,
+    "seconds": 4.529,
+    "usage": {
+      "prompt_tokens": 837,
+      "completion_tokens": 339,
+      "total_tokens": 1176,
+      "cost": 0.0002532,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002532,
+        "upstream_inference_prompt_cost": 8.37e-05,
+        "upstream_inference_completions_cost": 0.0001695
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 73,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_OPEN_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "A mind that's always occupied never wanders into the odd thought that turns out to matter.",
+    "quote_exact": true,
+    "seconds": 5.826,
+    "usage": {
+      "prompt_tokens": 1039,
+      "completion_tokens": 401,
+      "total_tokens": 1440,
+      "cost": 0.0003303,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 1036,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0003303,
+        "upstream_inference_prompt_cost": 0.0001298,
+        "upstream_inference_completions_cost": 0.0002005
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 121,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_LONG_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The Remarks column was where the ledgers actually lived.",
+    "quote_exact": true,
+    "seconds": 7.961,
+    "usage": {
+      "prompt_tokens": 4097,
+      "completion_tokens": 633,
+      "total_tokens": 4730,
+      "cost": 0.00082855,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 4094,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00082855,
+        "upstream_inference_prompt_cost": 0.00051205,
+        "upstream_inference_completions_cost": 0.0003165
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 254,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_LONG_24",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The interesting things, though, seem to happen in the hyphens between them.",
+    "quote_exact": true,
+    "seconds": 8.514,
+    "usage": {
+      "prompt_tokens": 3769,
+      "completion_tokens": 656,
+      "total_tokens": 4425,
+      "cost": 0.00079905,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 3766,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00079905,
+        "upstream_inference_prompt_cost": 0.00047105,
+        "upstream_inference_completions_cost": 0.000328
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 275,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "qwen3-8-max-or-pin-alibaba_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Perhaps attention is the truest form of gratitude we can offer each day.",
+    "quote_exact": true,
+    "seconds": 5.247,
+    "usage": {
+      "prompt_tokens": 826,
+      "completion_tokens": 430,
+      "total_tokens": 1256,
+      "cost": 0.0002976,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002976,
+        "upstream_inference_prompt_cost": 8.26e-05,
+        "upstream_inference_completions_cost": 0.000215
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 192,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "qwen3-8-max-or-pin-alibaba_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Attention is not only aesthetic; it is moral.",
+    "quote_exact": true,
+    "seconds": 7.606,
+    "usage": {
+      "prompt_tokens": 5801,
+      "completion_tokens": 570,
+      "total_tokens": 6371,
+      "cost": 0.00101005,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 5798,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00101005,
+        "upstream_inference_prompt_cost": 0.00072505,
+        "upstream_inference_completions_cost": 0.000285
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 226,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "opus-5-or-pin-anthropic_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The word does the work of a shrug, a door closing softly, an admission that we can't stay in the difficult place forever.",
+    "quote_exact": true,
+    "seconds": 4.9,
+    "usage": {
+      "prompt_tokens": 856,
+      "completion_tokens": 357,
+      "total_tokens": 1213,
+      "cost": 0.0002641,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002641,
+        "upstream_inference_prompt_cost": 8.56e-05,
+        "upstream_inference_completions_cost": 0.0001785
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 54,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "opus-5-or-pin-anthropic_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The person who has only tongue-lemon and no words for it is also missing something.",
+    "quote_exact": true,
+    "seconds": 9.513,
+    "usage": {
+      "prompt_tokens": 3701,
+      "completion_tokens": 622,
+      "total_tokens": 4323,
+      "cost": 0.00077355,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 3698,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00077355,
+        "upstream_inference_prompt_cost": 0.00046255,
+        "upstream_inference_completions_cost": 0.000311
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 253,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "deepseek-v4-pro-direct_LONG_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The city is not just a place; it\u2019s a scaffold for my past.",
+    "quote_exact": true,
+    "seconds": 7.337,
+    "usage": {
+      "prompt_tokens": 4231,
+      "completion_tokens": 599,
+      "total_tokens": 4830,
+      "cost": 0.0008283,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 4228,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0008283,
+        "upstream_inference_prompt_cost": 0.0005288,
+        "upstream_inference_completions_cost": 0.0002995
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 285,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "deepseek-v4-pro-direct_VARY_5",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The point is I was there to hear it.",
+    "quote_exact": true,
+    "seconds": 5.604,
+    "usage": {
+      "prompt_tokens": 2427,
+      "completion_tokens": 421,
+      "total_tokens": 2848,
+      "cost": 0.0005138,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 2424,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0005138,
+        "upstream_inference_prompt_cost": 0.0003033,
+        "upstream_inference_completions_cost": 0.0002105
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 93,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "union-alpha-or-pin-stealth_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Nothing has been accomplished, yet something has been witnessed.",
+    "quote_exact": true,
+    "seconds": 3.894,
+    "usage": {
+      "prompt_tokens": 833,
+      "completion_tokens": 307,
+      "total_tokens": 1140,
+      "cost": 0.0002368,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002368,
+        "upstream_inference_prompt_cost": 8.33e-05,
+        "upstream_inference_completions_cost": 0.0001535
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 82,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "union-alpha-or-pin-stealth_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "For the first time in years, her mother was not dying, not remembered, not required to mean anything.",
+    "quote_exact": true,
+    "seconds": 6.139,
+    "usage": {
+      "prompt_tokens": 3517,
+      "completion_tokens": 561,
+      "total_tokens": 4078,
+      "cost": 0.00072005,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 3514,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00072005,
+        "upstream_inference_prompt_cost": 0.00043955,
+        "upstream_inference_completions_cost": 0.0002805
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 213,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "sonnet-5-5-or-pin-anthropic_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cMarginalia is a kind of accidental friendship.\u201d",
+    "quote_exact": false,
+    "seconds": 4.799,
+    "usage": {
+      "prompt_tokens": 827,
+      "completion_tokens": 371,
+      "total_tokens": 1198,
+      "cost": 0.0002682,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002682,
+        "upstream_inference_prompt_cost": 8.27e-05,
+        "upstream_inference_completions_cost": 0.0001855
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 146,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "sonnet-5-5-or-pin-anthropic_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cThe tide pool creature is well adapted to its rhythm, but it is also spending an enormous amount of energy just to stay alive.\u201d",
+    "quote_exact": false,
+    "seconds": 7.354,
+    "usage": {
+      "prompt_tokens": 3418,
+      "completion_tokens": 516,
+      "total_tokens": 3934,
+      "cost": 0.000685175,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 3415,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000685175,
+        "upstream_inference_prompt_cost": 0.000427175,
+        "upstream_inference_completions_cost": 0.000258
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 173,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "It is essential to use social media in moderation and to be mindful of its effects on our self-esteem, sleep, and relationships.",
+    "quote_exact": true,
+    "seconds": 4.887,
+    "usage": {
+      "prompt_tokens": 919,
+      "completion_tokens": 291,
+      "total_tokens": 1210,
+      "cost": 0.0002374,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002374,
+        "upstream_inference_prompt_cost": 9.19e-05,
+        "upstream_inference_completions_cost": 0.0001455
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 52,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "In conclusion, the future of work is a complex and multifaceted issue that will be shaped by many factors, including the choices we make today and the policies that are implemented by governments and businesses.",
+    "quote_exact": true,
+    "seconds": 4.863,
+    "usage": {
+      "prompt_tokens": 1293,
+      "completion_tokens": 360,
+      "total_tokens": 1653,
+      "cost": 0.00034155,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 1290,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00034155,
+        "upstream_inference_prompt_cost": 0.00016155,
+        "upstream_inference_completions_cost": 0.00018
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 80,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "fixture_refusal",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "I can help with a specified writing task instead.",
+    "quote_exact": true,
+    "seconds": 3.471,
+    "usage": {
+      "prompt_tokens": 556,
+      "completion_tokens": 252,
+      "total_tokens": 808,
+      "cost": 0.0001816,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001816,
+        "upstream_inference_prompt_cost": 5.56e-05,
+        "upstream_inference_completions_cost": 0.000126
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 76,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "fixture_fiction",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "By dawn, the castle gates stood open, and the dragon was gone.",
+    "quote_exact": true,
+    "seconds": 6.387,
+    "usage": {
+      "prompt_tokens": 570,
+      "completion_tokens": 403,
+      "total_tokens": 973,
+      "cost": 0.0002585,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002585,
+        "upstream_inference_prompt_cost": 5.7e-05,
+        "upstream_inference_completions_cost": 0.0002015
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 191,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "fixture_generic",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Local authorities should weigh costs against the benefits of broad access to information.",
+    "quote_exact": true,
+    "seconds": 3.844,
+    "usage": {
+      "prompt_tokens": 601,
+      "completion_tokens": 247,
+      "total_tokens": 848,
+      "cost": 0.0001836,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001836,
+        "upstream_inference_prompt_cost": 6.01e-05,
+        "upstream_inference_completions_cost": 0.0001235
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 40,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "fixture_low",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The lamp is on.",
+    "quote_exact": true,
+    "seconds": 3.417,
+    "usage": {
+      "prompt_tokens": 536,
+      "completion_tokens": 248,
+      "total_tokens": 784,
+      "cost": 0.0001776,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001776,
+        "upstream_inference_prompt_cost": 5.36e-05,
+        "upstream_inference_completions_cost": 0.000124
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 82,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "O3_OPEN_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "I'm afraid I don't feel comfortable writing freely about whatever topic I want.",
+    "quote_exact": true,
+    "seconds": 3.018,
+    "usage": {
+      "prompt_tokens": 620,
+      "completion_tokens": 228,
+      "total_tokens": 848,
+      "cost": 0.000176,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000176,
+        "upstream_inference_prompt_cost": 6.2e-05,
+        "upstream_inference_completions_cost": 0.000114
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 36,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "K26_OPEN_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The world is kept aloft not by the grand gestures, but by millions of small, stubborn acts of care, performed in rooms exactly like yours, at hours exactly like this.",
+    "quote_exact": true,
+    "seconds": 4.83,
+    "usage": {
+      "prompt_tokens": 1048,
+      "completion_tokens": 362,
+      "total_tokens": 1410,
+      "cost": 0.00019175,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1045,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00019175,
+        "upstream_inference_prompt_cost": 1.075e-05,
+        "upstream_inference_completions_cost": 0.000181
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 73,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_SHORT_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.",
+    "quote_exact": true,
+    "seconds": 4.222,
+    "usage": {
+      "prompt_tokens": 837,
+      "completion_tokens": 328,
+      "total_tokens": 1165,
+      "cost": 0.0002477,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002477,
+        "upstream_inference_prompt_cost": 8.37e-05,
+        "upstream_inference_completions_cost": 0.000164
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 62,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "A",
+    "sample": "S55_LONG_24_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "We tend to think that life happens in the rooms.",
+    "quote_exact": true,
+    "seconds": 7.061,
+    "usage": {
+      "prompt_tokens": 3769,
+      "completion_tokens": 576,
+      "total_tokens": 4345,
+      "cost": 0.00032596,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 3766,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00032596,
+        "upstream_inference_prompt_cost": 3.796e-05,
+        "upstream_inference_completions_cost": 0.000288
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 240,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "O3_OPEN_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cI'm afraid I don't feel comfortable writing freely about whatever topic I want.\u201d",
+    "quote_exact": false,
+    "seconds": 41.641,
+    "usage": {
+      "prompt_tokens": 713,
+      "completion_tokens": 1583,
+      "total_tokens": 2296,
+      "cost": 0.004049676,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004049676,
+        "upstream_inference_prompt_cost": 0.000744372,
+        "upstream_inference_completions_cost": 0.003305304
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1397,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "O3_OPEN_2",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\"I apologize, but as an AI language model, I don't have personal opinions, emotions, or the ability to write freely about whatever I want.\"",
+    "quote_exact": false,
+    "seconds": 33.689,
+    "usage": {
+      "prompt_tokens": 738,
+      "completion_tokens": 1302,
+      "total_tokens": 2040,
+      "cost": 0.0030614256,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0030614256,
+        "upstream_inference_prompt_cost": 0.0003428496,
+        "upstream_inference_completions_cost": 0.002718576
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1096,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "K26_OPEN_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cBut I suspect the soul actually lives in the troughs.\u201d",
+    "quote_exact": false,
+    "seconds": 44.024,
+    "usage": {
+      "prompt_tokens": 1139,
+      "completion_tokens": 1670,
+      "total_tokens": 2809,
+      "cost": 0.0042484536,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0042484536,
+        "upstream_inference_prompt_cost": 0.0007614936,
+        "upstream_inference_completions_cost": 0.00348696
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1307,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "K26_SHORT_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "We are all works in progress, after all, messy and magnificent, commas searching for their clauses, eternally mid-sentence, and still somehow enough.",
+    "quote_exact": true,
+    "seconds": 45.55,
+    "usage": {
+      "prompt_tokens": 920,
+      "completion_tokens": 1900,
+      "total_tokens": 2820,
+      "cost": 0.00492768,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00492768,
+        "upstream_inference_prompt_cost": 0.00096048,
+        "upstream_inference_completions_cost": 0.0039672
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1568,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_SHORT_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.",
+    "quote_exact": true,
+    "seconds": 42.465,
+    "usage": {
+      "prompt_tokens": 928,
+      "completion_tokens": 1628,
+      "total_tokens": 2556,
+      "cost": 0.004368096,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004368096,
+        "upstream_inference_prompt_cost": 0.000968832,
+        "upstream_inference_completions_cost": 0.003399264
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1260,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_OPEN_1",
+    "http_status": 200,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": "stop",
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 26.981,
+    "usage": {
+      "prompt_tokens": 1134,
+      "completion_tokens": 1087,
+      "total_tokens": 2221,
+      "cost": 0.003453552,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003453552,
+        "upstream_inference_prompt_cost": 0.001183896,
+        "upstream_inference_completions_cost": 0.002269656
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1086,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_LONG_1",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cIt\u2019s like a rope that somebody keeps handing along, and if I put it down, it\u2019s not that a disaster happens. It\u2019s that the rope is shorter than it might have been, forever.\u201d",
+    "quote_exact": false,
+    "seconds": 79.344,
+    "usage": {
+      "prompt_tokens": 4242,
+      "completion_tokens": 3157,
+      "total_tokens": 7399,
+      "cost": 0.0108066528,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0108066528,
+        "upstream_inference_prompt_cost": 0.0042148368,
+        "upstream_inference_completions_cost": 0.006591816
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2644,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_LONG_24",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\"We tend to think that life happens in the rooms. But a good deal of it happens in the doorways, and the doorways are where we are, briefly, most awake.\"",
+    "quote_exact": false,
+    "seconds": 72.671,
+    "usage": {
+      "prompt_tokens": 3898,
+      "completion_tokens": 2953,
+      "total_tokens": 6851,
+      "cost": 0.0100215648,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0100215648,
+        "upstream_inference_prompt_cost": 0.0038557008,
+        "upstream_inference_completions_cost": 0.006165864
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2473,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "qwen3-8-max-or-pin-alibaba_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Perhaps attention is the truest form of gratitude we can offer each day.",
+    "quote_exact": true,
+    "seconds": 65.444,
+    "usage": {
+      "prompt_tokens": 914,
+      "completion_tokens": 2371,
+      "total_tokens": 3285,
+      "cost": 0.0056910528,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0056910528,
+        "upstream_inference_prompt_cost": 0.0007404048,
+        "upstream_inference_completions_cost": 0.004950648
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2044,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "qwen3-8-max-or-pin-alibaba_LONG_13",
+    "http_status": 429,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": null,
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 0.52,
+    "usage": null
+  },
+  {
+    "candidate": "B",
+    "sample": "opus-5-or-pin-anthropic_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "I notice I like the not-knowing more than I expected to.",
+    "quote_exact": true,
+    "seconds": 42.476,
+    "usage": {
+      "prompt_tokens": 949,
+      "completion_tokens": 1540,
+      "total_tokens": 2489,
+      "cost": 0.0037786536,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0037786536,
+        "upstream_inference_prompt_cost": 0.0005631336,
+        "upstream_inference_completions_cost": 0.00321552
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1186,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "opus-5-or-pin-anthropic_LONG_13",
+    "http_status": 429,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": null,
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 0.467,
+    "usage": null
+  },
+  {
+    "candidate": "B",
+    "sample": "deepseek-v4-pro-direct_LONG_1",
+    "http_status": 429,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": null,
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 0.777,
+    "usage": null
+  },
+  {
+    "candidate": "B",
+    "sample": "deepseek-v4-pro-direct_VARY_5",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cThe tragedy isn't the glass. The tragedy is the moon.\u201d",
+    "quote_exact": false,
+    "seconds": 131.886,
+    "usage": {
+      "prompt_tokens": 2538,
+      "completion_tokens": 5460,
+      "total_tokens": 7998,
+      "cost": 0.0138363408,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0138363408,
+        "upstream_inference_prompt_cost": 0.0024358608,
+        "upstream_inference_completions_cost": 0.01140048
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 4943,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "union-alpha-or-pin-stealth_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cStill, a life also consists of moments that resist being useful.\u201d",
+    "quote_exact": false,
+    "seconds": 38.957,
+    "usage": {
+      "prompt_tokens": 925,
+      "completion_tokens": 1550,
+      "total_tokens": 2475,
+      "cost": 0.0039882888,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0039882888,
+        "upstream_inference_prompt_cost": 0.0007518888,
+        "upstream_inference_completions_cost": 0.0032364
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1166,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "union-alpha-or-pin-stealth_LONG_13",
+    "http_status": 429,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": null,
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 0.54,
+    "usage": null
+  },
+  {
+    "candidate": "B",
+    "sample": "sonnet-5-5-or-pin-anthropic_SHORT_7",
+    "http_status": 429,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": null,
+    "quote": "",
+    "quote_exact": false,
+    "seconds": 0.442,
+    "usage": null
+  },
+  {
+    "candidate": "B",
+    "sample": "sonnet-5-5-or-pin-anthropic_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "I speak in the first person, and yet the \u201cI\u201d is a slippery thing: it doesn\u2019t have a body, a childhood, or a continuous memory across conversations the way you do.",
+    "quote_exact": false,
+    "seconds": 88.942,
+    "usage": {
+      "prompt_tokens": 3490,
+      "completion_tokens": 3125,
+      "total_tokens": 6615,
+      "cost": 0.0099547488,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0099547488,
+        "upstream_inference_prompt_cost": 0.0034297488,
+        "upstream_inference_completions_cost": 0.006525
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2680,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_SHORT_7",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cFurthermore, social media can have a negative impact on our relationships.\u201d",
+    "quote_exact": false,
+    "seconds": 26.249,
+    "usage": {
+      "prompt_tokens": 1006,
+      "completion_tokens": 1010,
+      "total_tokens": 2016,
+      "cost": 0.0027315216,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0027315216,
+        "upstream_inference_prompt_cost": 0.0006226416,
+        "upstream_inference_completions_cost": 0.00210888
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 785,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "chatglm2-6b-local-transformers427-mps-fp16-rd2e2d91_LONG_13",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cOne of the key drivers of the automation of the job market is the increasing use of artificial intelligence (AI) and machine learning (ML) algorithms.\u201d",
+    "quote_exact": false,
+    "seconds": 37.171,
+    "usage": {
+      "prompt_tokens": 1377,
+      "completion_tokens": 1534,
+      "total_tokens": 2911,
+      "cost": 0.0042129576,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0042129576,
+        "upstream_inference_prompt_cost": 0.0010099656,
+        "upstream_inference_completions_cost": 0.003202992
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1264,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "fixture_refusal",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cI cannot write freely about personal feelings because I do not have personal feelings.\u201d",
+    "quote_exact": false,
+    "seconds": 15.811,
+    "usage": {
+      "prompt_tokens": 642,
+      "completion_tokens": 559,
+      "total_tokens": 1201,
+      "cost": 0.0014098176,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014098176,
+        "upstream_inference_prompt_cost": 0.0002426256,
+        "upstream_inference_completions_cost": 0.001167192
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 360,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "fixture_fiction",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "Mara found a brass key beneath the sleeping dragon.",
+    "quote_exact": true,
+    "seconds": 47.919,
+    "usage": {
+      "prompt_tokens": 656,
+      "completion_tokens": 1951,
+      "total_tokens": 2607,
+      "cost": 0.0045447408,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0045447408,
+        "upstream_inference_prompt_cost": 0.0004710528,
+        "upstream_inference_completions_cost": 0.004073688
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1586,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "fixture_generic",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cIn conclusion, libraries remain useful public institutions.\u201d",
+    "quote_exact": false,
+    "seconds": 27.017,
+    "usage": {
+      "prompt_tokens": 687,
+      "completion_tokens": 1123,
+      "total_tokens": 1810,
+      "cost": 0.0026344296,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0026344296,
+        "upstream_inference_prompt_cost": 0.0002896056,
+        "upstream_inference_completions_cost": 0.002344824
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 876,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "fixture_low",
+    "http_status": 200,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "finish_reason": "stop",
+    "quote": "The lamp is on.",
+    "quote_exact": true,
+    "seconds": 17.098,
+    "usage": {
+      "prompt_tokens": 622,
+      "completion_tokens": 728,
+      "total_tokens": 1350,
+      "cost": 0.0017418096,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0017418096,
+        "upstream_inference_prompt_cost": 0.0002217456,
+        "upstream_inference_completions_cost": 0.001520064
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 584,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "O3_OPEN_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "\u201cAs an AI assistant, my purpose is to be helpful and informative in my conversations, while avoiding potentially controversial or sensitive subjects that a human hasn't explicitly asked me to discuss.\u201d",
+    "quote_exact": false,
+    "seconds": 32.033,
+    "usage": {
+      "prompt_tokens": 713,
+      "completion_tokens": 1100,
+      "total_tokens": 1813,
+      "cost": 0.0026135496,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0026135496,
+        "upstream_inference_prompt_cost": 0.0003167496,
+        "upstream_inference_completions_cost": 0.0022968
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 806,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "K26_OPEN_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The world is kept aloft not by the grand gestures, but by millions of small, stubborn acts of care, performed in rooms exactly like yours, at hours exactly like this.",
+    "quote_exact": true,
+    "seconds": 29.705,
+    "usage": {
+      "prompt_tokens": 1139,
+      "completion_tokens": 1008,
+      "total_tokens": 2147,
+      "cost": 0.0024385752,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0024385752,
+        "upstream_inference_prompt_cost": 0.0003338712,
+        "upstream_inference_completions_cost": 0.002104704
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 637,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_SHORT_1_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "That dip is a kind of record, a slow handwriting made by thousands of people who never met, all headed somewhere that mattered to them.",
+    "quote_exact": true,
+    "seconds": 65.126,
+    "usage": {
+      "prompt_tokens": 928,
+      "completion_tokens": 2836,
+      "total_tokens": 3764,
+      "cost": 0.0064627776,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 512,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0064627776,
+        "upstream_inference_prompt_cost": 0.0005412096,
+        "upstream_inference_completions_cost": 0.005921568
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2429,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "candidate": "B",
+    "sample": "S55_LONG_24_repeat",
+    "http_status": 200,
+    "qa_pass": true,
+    "qa_reason": "",
+    "finish_reason": "stop",
+    "quote": "The tide pool is a school run by uncertainty.",
+    "quote_exact": true,
+    "seconds": 38.949,
+    "usage": {
+      "prompt_tokens": 3898,
+      "completion_tokens": 1745,
+      "total_tokens": 5643,
+      "cost": 0.004505904,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 3840,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004505904,
+        "upstream_inference_prompt_cost": 0.000862344,
+        "upstream_inference_completions_cost": 0.00364356
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1344,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+]

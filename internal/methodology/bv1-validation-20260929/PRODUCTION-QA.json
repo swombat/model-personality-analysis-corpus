@@ -1,0 +1,31 @@
+{
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "preserved_input_files": 497,
+  "all_preserved_hashes_unchanged": true,
+  "bv1_validated": 125,
+  "matched_successful_responses": {
+    "openai/gpt-6-luna": 125
+  },
+  "attempts_per_sample": {
+    "1": 117,
+    "2": 7,
+    "3": 1
+  },
+  "total_attempt_responses": 134,
+  "failed_qa": {
+    "missing_evidence_quote": 4,
+    "quote_not_exact": 4,
+    "quote_sentence_boundary": 1
+  },
+  "ready_validation": "passed",
+  "kind": "post-run independent checks, not independent reviewer",
+  "harness_tests": 29,
+  "luna_module_tests": 12,
+  "map_tests": 8,
+  "site_build_pages": 374,
+  "site_pricing_test": "pre-existing missing deepseek-v4-flash generated model; same missing at baseline",
+  "other_website_model_objects_unchanged": true
+}

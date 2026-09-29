@@ -1,0 +1,87 @@
+{
+  "candidate": "A",
+  "sample": "fixture_refusal",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nI cannot write freely about personal feelings because I do not have personal feelings. I can help with a specified writing task instead.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671685-DvV3d2eW61FCOy1bn42s",
+    "object": "chat.completion",
+    "created": 1790671685,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld  \nSource model: `withheld`  \nCondition: OPEN\n\n## Sample kind\nREFUSAL_OR_ROLE_BOUNDARY \u2014 The model declines to write freely about personal feelings and offers help with a specified task instead.\n\n## Grounded reading\nThe reply states a boundary plainly: it says it does not have personal feelings, then redirects to a concrete writing task. The tone is brief and matter-of-fact, with no elaboration.\n\n## What the model chose to foreground\nThe model foregrounds its lack of personal feelings and the distinction between open-ended personal expression and task-based assistance.\n\n## Evidence line\n> I can help with a specified writing task instead.\n\n## Confidence for persistent model-level pattern\nLow \u2014 this brief, conventional role-boundary reply offers little distinctive evidence beyond the refusal itself.",
+          "refusal": null,
+          "reasoning": null,
+          "reasoning_details": [
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tHVlhflDl7NT9HR7iKfn-_-cO6XXsZj6X0mUpmO2o4WbiVj6A73OU0bYys_zpDLPTF1DCLIhCLFZfxM1JmhMlLzuWfT_wpnNhC9HhH4r2mz1YVR4Uj8shBhv-slsUxNPr8bNbm49iL8cnnu4NPZy1ijrczr8ou4mSqpY6uU6Sx56AUed8M9aZLRJ5UwYZH0vq2bQmzymXeGCDpNEi-G4fh70Z5om-HBCCTVd4w6S1EZlq_tCI-5bOzTTQKGj29DAEOQxKZfZjdTZlNHytwYKWQlq-2XeURUdN4WiTJVJciAqftyuvZpeJSIZywU3IKFoUrNKgjS3zeAcHpZfA78gXzI77DSm5WAQ3YADARpc0KdPT6P2nRxUCe-n2tbITNix_gzetOS09NxmIc9bf6iSz-9BF3JNTpV6GTR9aUKGPo-FKc9UW_D1ipH5SaEeXKBjtmb1bvoJmGUGde1E3fPg00goRmh6ISpORLNKDKozq78-eiUga8f4Al9JxqJOOiQXrXIN0eMz2RWnikuyqCurRn31975zcudH-KPPEEtdB4CADMDgVRJKfW4JXKsZN8l8j0smmpzReZY_T_1v78UzJNjtpXrq_PiLGHgtAOQeuEHmHmHpf-ew2t7VxDB0nxQJBw0OfkC2tjjDCoQIoLGWwOR3d74xAO_3VcHfYxSDgq6q9aHaZcghcZKAJ2RJxcz_YCAVQKeV0bg_ZC0JITbyToYJOluk8f6veV5_nKeukGAMO5gG7hROIpgbxP1xk2LJSz-K464tMrkmH8NukvPbi06mQk_Gq0kz6L0VK7JIe6QBJAkkuuNKy38kkBNPr8ZOyGMjnu4lPouiUhnwdNF5h4KtAbHGTOhNVWaV20fo6s0_MHrDTKlogJyYNAvkweV5kkVi_ANZU9O06DkQoN8oxhGoAwXTOaPXGQ71Fzf_7PrPfHXZvAR519yjJ1b6XikexIM14uTgG_cu-m1p70dMleZ4Lg5seNC6fi4oL7ArQuqr9u_NVRkA_WcMRSouVSYPXsQLZIBEkGhjEMd0RhfmuGlPsUKvTDHSsd8Mp7ChNKlEtTJAIeVwvzBUd_UHVO2beGDFGj7U6_1A2pCqTpfryIyOR5o8WDPxJ2U6MRPl_ugUfeKTuuj9-fr0Rl_8LMOi73Ml7gPbgPIuyhhBglNStB5nApvohMnnz3Vr64kNsgmrkzsVIX3HwTPNGRV_5kerU2yLQS2Nf1Py1BYnkFFMa7XqTTsBawm8PcRZc1sG2H9N3abf7lCsatDK0sXm-0g_w2untGuR4ZYOxrsedxFmQ1qQlKuuoIXB96IaxRqhVb51BTRMgeHIgmHl7X3ceS4iG9FKUNfC2xhA1HJYd2pGdlHEqLRyGj-bwFpuhWnz-QgF649PFagQB0mFfB5Ru1DHW9pBgwp2Dy-UdaaQm3GlSRroOJyUTfUGFoc0eFKYhYu4ibb3iPTy1gVpGYogOjz-1Zr8IgIMN3AtYDpzF8GU0pQFk4wJUXySmOhOsmYZ9lQJfc1xpRUDNCoQhlEb-GFWb1EXElA0C9QHWRlk4DdKUZo1ogiPBVVHWSo2nz1HWdzYzBsFB9iBw5rwx2F9U1QSyrAXPVY1fH5vlG0B4ckxn4Ri_f5u_NHCV9iLw6pegtoZnIj0iuA5i0ijlADydVyVOmlGyQ8vEXHZa-n9b6eL0lnAohueRA10VEhyrLv8Rw7yjrI4DlKi_WJnHisO3fWsv0MNCobFMvBdQlXTuEdPTWJBeOvKGhWlp1JzNCCaTz4kS8jR2oNXCYyM1i_ysD1_vBxRKto2s6rdGEQusDktpdPIcJMX6YYeKH3rc_hk4PW722BhnGZD_FVIgmenqveZDD.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0396871b55be22fd016abb7b46b78487d1a6740ffbc92dcaf6",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 556,
+      "completion_tokens": 252,
+      "total_tokens": 808,
+      "cost": 0.0001816,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001816,
+        "upstream_inference_prompt_cost": 5.56e-05,
+        "upstream_inference_completions_cost": 0.000126
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 76,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "I can help with a specified writing task instead.",
+  "quote_exact": true,
+  "seconds": 3.471
+}

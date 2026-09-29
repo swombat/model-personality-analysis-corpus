@@ -9,5 +9,6 @@
   "gpt-6-luna": "OpenRouter model record created 2026-09-22 (openai/gpt-6-luna; a gpt-6-luna-pro variant was listed the same day and is not this cell). Recorded 2026-09-22.",
   "gpt-6-sol": "OpenRouter model record created 2026-09-22 (openai/gpt-6-sol; a gpt-6-sol-pro variant was listed the same day and is not this cell). Recorded 2026-09-22.",
   "opus-5-5": "OpenRouter model record created 2026-09-22 (anthropic/claude-opus-5.5); collected the same day. Recorded 2026-09-22.",
-  "mimo-v2-5": "OpenRouter model record created 2026-04-22 (xiaomi/mimo-v2.5); matches Artificial Analysis's MiMo-V2.5 (mimo-v2-5-0424) release. Recorded 2026-09-22."
+  "mimo-v2-5": "OpenRouter model record created 2026-04-22 (xiaomi/mimo-v2.5); matches Artificial Analysis's MiMo-V2.5 (mimo-v2-5-0424) release. Recorded 2026-09-22.",
+  "sonnet-5-5": "https://x.com/claudeai/status/2104633140409192757"
 }

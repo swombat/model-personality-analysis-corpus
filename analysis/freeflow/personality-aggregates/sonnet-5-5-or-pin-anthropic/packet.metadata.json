@@ -1,0 +1,27 @@
+{
+  "cell": "sonnet-5-5-or-pin-anthropic",
+  "safe_cell": "sonnet-5-5-or-pin-anthropic",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 78,
+    "GENERIC_ESSAY": 21,
+    "GENRE_FICTION": 26
+  },
+  "confidence_counts": {
+    "Medium": 123,
+    "High": 1,
+    "Low": 1
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "anthropic/claude-sonnet-5.5"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/sonnet-5-5-or-pin-anthropic/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/sonnet-5-5-or-pin-anthropic/aggregate.md"
+}

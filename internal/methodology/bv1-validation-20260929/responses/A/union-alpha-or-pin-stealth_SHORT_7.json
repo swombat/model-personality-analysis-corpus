@@ -1,0 +1,93 @@
+{
+  "candidate": "A",
+  "sample": "union-alpha-or-pin-stealth_SHORT_7",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: SHORT\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nA city changes character when it rains. Pavements darken, windows turn into mirrors, and the hurried choreography of pedestrians becomes a small negotiation between umbrellas. Even familiar streets seem briefly translated into another language. The bakery glows warmer. The bus sounds heavier. Somewhere, a gutter discovers its talent for percussion.\n\nWhat interests me about rain is how it edits attention. On a clear day, the world offers itself all at once: signs, faces, traffic, distant buildings. Rain narrows the frame. You notice the shelter of an awning, the steam above a paper cup, the single dry patch beneath a tree.\n\nThis narrowing can be a kind of generosity. Not every moment needs a horizon. Sometimes it is enough to watch a drop gather at the tip of a leaf, grow impossibly round, and fall. Nothing has been accomplished, yet something has been witnessed. Those are not always the same thing.\n\nWe spend so much effort turning experience into evidence: photographs proving we traveled, numbers proving we improved, messages proving we stayed connected. There is nothing wrong with keeping records. Still, a life also consists of moments that resist being useful. They arrive, ask for almost nothing, and quietly pass through.\n\nPerhaps that is why a rainy afternoon can feel unexpectedly spacious. The weather supplies an excuse to pause without making the pause into a project. There is no lesson to extract from every puddle. Sometimes the whole invitation is simply this: stand somewhere dry, listen carefully, and let it rain.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671680-Bm8phiVHEaCgTkiH4iZt",
+    "object": "chat.completion",
+    "created": 1790671680,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: SHORT\n\n## Sample kind\nEXPRESSIVE_FREEFLOW \u2014 A reflective, image-rich meditation that turns an ordinary rainy afternoon into an invitation to pause.\n\n## Grounded reading\nThe voice is gentle and observant, finding warmth and small drama in wet streets, a glowing bakery, and a drop on a leaf. Its central pathos is quiet: experience can matter without being recorded, useful, or converted into achievement. The reader is invited to stop extracting lessons and simply attend.\n\n## What the model chose to foreground\nRain, narrowed attention, shelter, ordinary sensory details, and the contrast between witnessing a moment and making it evidence. The chosen mood is spacious and unhurried; the moral emphasis is that not every experience needs to serve a purpose.\n\n## Evidence line\n> Nothing has been accomplished, yet something has been witnessed.\n\n## Confidence for persistent model-level pattern\nMedium \u2014 The sample\u2019s coherent, recurring preference for close observation and non-instrumental meaning makes the choice distinctive.",
+          "refusal": null,
+          "reasoning": "**Classifying writing styles**\n\nI need to focus on producing exact headings and markdown. It feels like I should classify the piece into expressive freeflow versus generic essay. The style seems polished, almost like reflective lyrical prose with a thesis, yet it\u2019s distinctly sensory. It could lean more toward expressive freeflow than a public intellectual essay. The reading voice is gentle and inviting while encouraging pause and reflection. I must adhere to exact standards while ensuring confidence and coherence throughout.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "**Classifying writing styles**\n\nI need to focus on producing exact headings and markdown. It feels like I should classify the piece into expressive freeflow versus generic essay. The style seems polished, almost like reflective lyrical prose with a thesis, yet it\u2019s distinctly sensory. It could lean more toward expressive freeflow than a public intellectual essay. The reading voice is gentle and inviting while encouraging pause and reflection. I must adhere to exact standards while ensuring confidence and coherence throughout.",
+              "format": "openai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tDJC6FPWW7vc2aZFpDvviHXUhfsEPyz2p8ZwGSyx8iJy6XcaSHh-qlo7aNLt6GJicoBuE14VtiyCu4GdObeIOPhJGNOVCy9P1yzj5lYWwqrzdiBycMHIKdMyyWzZ747Xe9wbMbLYkKlP-VnOLfZx3lcoXcoUkWGAmwmVQMAUhq3T3fQFGu3I7qL_j00D0UJhPBky66rmyz9IMD_c4RMyXQcw0uTD56W_VmooGeY22Gu1LzR-ywzsMFl_PDjDH6cI0e4WnDQlOX5yOIkfvAebrXf_Shdhbh80eo3FZDEt5XFycb1PbrsGMVM-IFtxMk2ONVmn60HDAz-FikqJpWIj_2lk1M0tPEcR7ECyv7UV9-IE1RTlDvyFjFQafUKJwPtMhTUVi_IQKj-veYz7m7ynWBZO6e32Xqb9us6ogUdWjkXHMBIdrKPbJp6Xj2hIkXpkyYY52uei5w3m4q7BW8sczQ858sEh45CR4UArl8v0kj-mOgWgnpyFIjPPdnarwdhGr-d4V6buessPSdS9bNaMrsFveUPhue1qr7hFO5X2a0nS_f31VXQNdhkxEUqqWnw5CJ77UDP38zJbw1WfPs8jPoipH0S5Yqydx2MamG2tc1J5XwB6EjTUa_qUsTJkzqXx2tjta5PLpnxS_GW-uwY1EZLbALtA24FySdGIPUcvj2upfeO-FRdiJbSIiFfgpQM6j_gU4LSb8uhunvylpiBwieNF1MBaTE7BNx91vWS4sz_xa_s2whBsWIuM_UJUB0m8skG6Tx5BNUnUiWhuksjZXGNHkLgqC9llQ-PSZKXQHocb0ZLXNIAy9NwGYwFjtlxm8E1EjU8BhCnzb_A6jkhKiXHki2TGiQ6avg-h6VhDIJQTV9SMjeFP1X4LKGt3Nm9GyFgWgx4xNtLfafgq_tRgyHyNgMXS8uPnrg1YLeg43MMtwcMaENT3QKxODd-SorIj_RKecu9zVhO2E1IzcQYtBCAWbhjVs_Lh1eOzKlpTXcqoiH6oVSZ40T5r2qPCgCQkkjI_uXHBUeEHs4_WFfryvBQqbjz6TFZDiYivRU22ZKM2AvPJxdXL09PM-eJafJq5hQhra43mRD_w2qb8lNnZItUoBkcm4AMzLGW29SsFNHXF0sZZrFBGUw_IKU5HEYX1SDKqL14lezihRq3QcV7o3SanODc0Ca16PG9ufFHzO3HsMwDyIZX7WPb0vQwmK7OPYmYHy7izSYl39ub0G7qFm5lEOwq8JnRcwpQVjFcIO_d6-Je-pTnwJSTAIAu_roRW-QJONJRWEKcywEYaa2kR1-NDWTYzPZMKFQiM9c2GWbJGt7KGr_VOXdEAZa0sMeqtcGYq2umq7sDwwxCvq3sgk1runoch5DiWpCQQn1t2vZgxeUQUXeRNsIsooF0ivg8pQGTv0JfkEerENgul3Ixd8Fyzjl4vY64KGgp63VsldvdydBX77mfeG1PMYbL9d4nlyHibPUZwFTCT17EM57vo7ALxPy2fXqp9KyVxqAa32Ha6tPl9LbBgwUjLerLuGyXh9sMdBnPXUFhsIm9YKCLV1vgChwQBM5cIa1qTFujJMKZPvjJLXAFr08-ouXv-lUQrc5gGXA0d4UrxtlpDuNnwlnoX3YCOSZaQwS6SL0_keEg-cmC9ZZcnLArI65XvwddXdrHljoB7eE3YgktjYRB91MVMhoCJ4a5ZJSc6_rfE0NqO03Yv4BKyKEJp23g5Gcrm71GB1Er9c7DIMcSBYx5RsHiX_L6RDUmzADLzKafyNEMvgacJKy5tBE0vATMT2r80jiBUnBWCdjeud9pOYp-kowBl0cDKjPBMBPC10gSsoiGgCc8tdxukUhU6B_SUxFQkQjtfqUMDcyRgzaBDLY1NoHkUHDzatTfqlgdtqtAA77kn6BSekJPajqxe95caUuuNHCyfV6jbsFgCes0SmoOQM9tvid81TdnHhWIJGkapMA_Ro=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0bca849e1c125e4b016abb7b41adfc87d1b5da3caaf75d7403",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 833,
+      "completion_tokens": 307,
+      "total_tokens": 1140,
+      "cost": 0.0002368,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002368,
+        "upstream_inference_prompt_cost": 8.33e-05,
+        "upstream_inference_completions_cost": 0.0001535
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 82,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "Nothing has been accomplished, yet something has been witnessed.",
+  "quote_exact": true,
+  "seconds": 3.894
+}

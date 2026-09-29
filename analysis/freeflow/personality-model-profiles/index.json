@@ -2136,6 +2136,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-7b-instruct.md"
   },
   {
+    "model": "sonnet-5-5",
+    "safe": "sonnet-5-5",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 78,
+      "GENERIC_ESSAY": 21,
+      "GENRE_FICTION": 26
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/sonnet-5-5.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/sonnet-5-5.md"
+  },
+  {
     "model": "union-alpha",
     "safe": "union-alpha",
     "analysis_inputs": 1,

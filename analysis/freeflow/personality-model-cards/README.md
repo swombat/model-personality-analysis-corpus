@@ -170,3 +170,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-6-sol](cards/gpt-6-sol.md) — samples: 125
 - [gpt-6-luna](cards/gpt-6-luna.md) — samples: 125
 - [claude-opus-5-5](cards/claude-opus-5-5.md) — samples: 125
+- [sonnet-5-5](cards/sonnet-5-5.md) — samples: 125

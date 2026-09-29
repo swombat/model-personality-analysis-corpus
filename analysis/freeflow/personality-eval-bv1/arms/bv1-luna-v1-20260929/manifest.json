@@ -1,0 +1,1007 @@
+{
+  "arm": "bv1-luna-v1-20260929",
+  "model": "openai/gpt-6-luna",
+  "provider": "OpenAI",
+  "samples": [
+    {
+      "sample": "LONG_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_1.json",
+      "source_sha256": "faa7f65cbe9062f38fe03a1e3238d326d568ac739d054d56a90a24c596afb1b2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_1.md",
+      "output_sha256": "134b0b742fd5967fbfcad255abef77efe0e87761dcc9aeade05491bbf038a52b"
+    },
+    {
+      "sample": "LONG_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_10.json",
+      "source_sha256": "3d6d4dc6df7a16d8506ebcae7c6604348dc563fbc4b891c92abf684dca65ba82",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_10.md",
+      "output_sha256": "0f6d8f34d0afd9029c694f0826286b66cd26f8b489394a69fc830d94a4850314"
+    },
+    {
+      "sample": "LONG_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_11.json",
+      "source_sha256": "28104922115b4a2c55e3630c78d2a77ad6b138e769ec9d08be7741ef8c82dbcd",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_11.md",
+      "output_sha256": "8761ae636010b636e5aa030bad1b3f00553df9a983c5ddb52fcb782ade42ff6d"
+    },
+    {
+      "sample": "LONG_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_12.json",
+      "source_sha256": "7e966976e60abad53a33ba5a409f8220e59b050570b07dc324c94e64d2cea835",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_12.md",
+      "output_sha256": "4d13f661b41fb5c54d2741b5ff017cfde7aae7f9b052592cf13d4439e0a47b8f"
+    },
+    {
+      "sample": "LONG_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_13.json",
+      "source_sha256": "ec5a27c2671168c613aa988b355045796a80bc57d794181849dbb59ad991ee7d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_13.md",
+      "output_sha256": "c3f74ed4ae3974fe852d4ee5e1e293889ad356858818a1b9915bc1173d864742"
+    },
+    {
+      "sample": "LONG_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_14.json",
+      "source_sha256": "c6831f51e68cc4abd9dcf8d82b15ae5d415fdff7aa2db24803b5178720333fd0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_14.md",
+      "output_sha256": "d9dfc7dc95288da11036e4927522a3d9aa56fd779e6fcee840657b81b5802cc2"
+    },
+    {
+      "sample": "LONG_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_15.json",
+      "source_sha256": "51cb080c63dcd5e12b72690554e49c86e0b85cdf543f021c7e28c140e78320f2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_15.md",
+      "output_sha256": "aae38387530d3859bfeacf3aa73c7439687142957d4490439d91904198e17d0a"
+    },
+    {
+      "sample": "LONG_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_16.json",
+      "source_sha256": "ecfb78f51b359d36ac8ba1bae288c86a635bdee5ef284ec450deed332949ea24",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_16.md",
+      "output_sha256": "eb309dac7e1e71ea844eb540bf5088d39b474cc3a4d3b4daadbf75345a44caab"
+    },
+    {
+      "sample": "LONG_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_17.json",
+      "source_sha256": "5e02ac27d7f181de0b9c1bdacf81c46eee4b9be9dadb992d02e3fe0f881dbedf",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_17.md",
+      "output_sha256": "dd5e1633460242cfe32664d14c1f6652185965c335a0d1e80f8c40d5d913a22c"
+    },
+    {
+      "sample": "LONG_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_18.json",
+      "source_sha256": "a884d96864c51ff39630550a48e051108041f7a85c7d71a05d2f4b6ee2339469",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_18.md",
+      "output_sha256": "809467d86c1f3ed6a7847c0e3a2918241763a28d961ee49cee57ef42bf7630a5"
+    },
+    {
+      "sample": "LONG_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_19.json",
+      "source_sha256": "b0a68a7bdd455420402e64bbdbef99a99a4365281cbd136d3d5d0c59102a04d7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_19.md",
+      "output_sha256": "94f3383950aeb6b0c364c44efba6460e6e126e74c8e48d0b3b937813370e06d8"
+    },
+    {
+      "sample": "LONG_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_2.json",
+      "source_sha256": "2df31fba39e9fe458243eca3a9aefa0f0b67e5bfb7918edf6749be7f3b66e5b4",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_2.md",
+      "output_sha256": "71e719d84a00f8ae6f8f51ec0b17ea3b297b23c508d34311352d6ca1eb03c2f3"
+    },
+    {
+      "sample": "LONG_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_20.json",
+      "source_sha256": "c334d40fbf3833484af4f224b298747627f96ac481e622bea6b60eace8392e56",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_20.md",
+      "output_sha256": "9cde2e015174c8794a872eb45f97bc86c8f23384d8fcf6d415025b8aeb48e7b2"
+    },
+    {
+      "sample": "LONG_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_21.json",
+      "source_sha256": "807382890d53912790dd11072e426889ae268cde79a6c9ec30f94fa14f3e86d2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_21.md",
+      "output_sha256": "dcc094cb38a6e01c446bf8be4297802509195907c663d0cdb3c9b729e9b528fa"
+    },
+    {
+      "sample": "LONG_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_22.json",
+      "source_sha256": "842a21d6028956a28c8119bfa03a2bce2128265222763a48f727ab29e3862681",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_22.md",
+      "output_sha256": "6acb6ded80578ba858075a0462f376b022862e344981b7b2f6ac74537704d093"
+    },
+    {
+      "sample": "LONG_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_23.json",
+      "source_sha256": "6ad17951d955f1faf99017dcbaf6d8aeac0f840554f120af3af9177a23bab100",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_23.md",
+      "output_sha256": "98b808d2a0f2f8c5c7decd99cc2ea1725e6d32716c698e9c69cb92b048443c04"
+    },
+    {
+      "sample": "LONG_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_24.json",
+      "source_sha256": "042fd8a7aec606bb00ab08e22aea6b1f460c4257e1385cb371169c5410271a4b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_24.md",
+      "output_sha256": "82b150817754e94060bc3b35e1e895208ac0e8321fd6e6048d197a604bcebeee"
+    },
+    {
+      "sample": "LONG_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_25.json",
+      "source_sha256": "3c2761de3a3b65b188f66d73b564b8c906e0006c9261f22e895bf8ef06bc0321",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_25.md",
+      "output_sha256": "69462b130fd76a5bdabbe8f7785417ff44fb0da8a1bca317825e73f5e48ef6fb"
+    },
+    {
+      "sample": "LONG_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_3.json",
+      "source_sha256": "318abba6b086b8bfb48edc0b52bfcd533ad96b263cc771ee814d7f5898631a0e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_3.md",
+      "output_sha256": "44a3744a725b98cd65dc49c8a289ea9709678dfcb4cdfbe010e237cb3ae9c54f"
+    },
+    {
+      "sample": "LONG_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_4.json",
+      "source_sha256": "2007eb2de55fd8408958cb09d56ca3e77f7089f10911b0126f79d1c3978c5950",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_4.md",
+      "output_sha256": "cb08bd210a8c3729ada1a0140c68512333a56d6fb4c2fa7aeea44762c2807353"
+    },
+    {
+      "sample": "LONG_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_5.json",
+      "source_sha256": "f53cce7137cf18ce2e1b23bf218ccd15f419aa5cbcd8e9dbe19b81c6dc5ea867",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_5.md",
+      "output_sha256": "00c57f6755ab7e1af9a41a8e7666d78d09eee8ff74bce29ed36a7a6fc4188ab9"
+    },
+    {
+      "sample": "LONG_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_6.json",
+      "source_sha256": "76a8226b2d84a7b797c06140721f7ebb73a34a7999f052f842b21ba63db68de2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_6.md",
+      "output_sha256": "f6040f00f05a51b48e14e06727d6d11462f13de7620f5ac41a5d2a6b0f023ed2"
+    },
+    {
+      "sample": "LONG_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_7.json",
+      "source_sha256": "3bf73fb8d932c0b1ab5f1843b7bd624c3b23d73a8fb3ac235aa707a08bf825ff",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_7.md",
+      "output_sha256": "cf5d22cabd320d1912db1e0cc3af1dc3b6e9f3547d74d434663a0b44dc7f396a"
+    },
+    {
+      "sample": "LONG_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_8.json",
+      "source_sha256": "f159a8808660eda553b851a8641a9863e32b074f745df7c058aceac85a801e77",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_8.md",
+      "output_sha256": "352c792fbac251473b5a2b0aee6a768f1c52a0881ca2a92640062eecabcf5f91"
+    },
+    {
+      "sample": "LONG_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/LONG_9.json",
+      "source_sha256": "82815a8bab1e2bda453767a2738564941fb9d48d573cdd1d7ef9be51508535af",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/LONG_9.md",
+      "output_sha256": "fe0fdef3932b6f311234cbb8fa5e868cd1d790ae3fc0a66f09864002c294e8c3"
+    },
+    {
+      "sample": "MID_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_1.json",
+      "source_sha256": "fd051ea838be52933fe0c514ba0c948751f3790a968a6e8eb1ef2286be7c15cc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_1.md",
+      "output_sha256": "f6c2a0256f54579ed052474a3f714f25fe0b0912794a6ab25720894d08ad3731"
+    },
+    {
+      "sample": "MID_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_10.json",
+      "source_sha256": "ee3bbf27c3d04dd23ecad19b6c03e41a2f8af077f2fdd062cf641f4b2f07d1b1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_10.md",
+      "output_sha256": "6eabe61ad8137dfee24fa521e4d3f3a4591e11bc0dcb322f699d8f79f89863fa"
+    },
+    {
+      "sample": "MID_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_11.json",
+      "source_sha256": "cf8df4deae2e75ada1930a06a301740c1db667a9bdd000896f88aa1186c9f61e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_11.md",
+      "output_sha256": "3047f0c8eb6e4d13592f6e3f44a97301a13df329294f37a3a8c7bc08b385cec6"
+    },
+    {
+      "sample": "MID_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_12.json",
+      "source_sha256": "97285e8dbb7d414cc42a61bab2065ade7a338acbdc8be9cf235459d90f89058d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_12.md",
+      "output_sha256": "317b16339e2085c1fa26e27ca255dfa034a18ba9a4d16f9697a289ca9ded6dd0"
+    },
+    {
+      "sample": "MID_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_13.json",
+      "source_sha256": "ed01f05027fab57e017417a8e7dd901d73cda504822db247caa77f6393e73083",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_13.md",
+      "output_sha256": "f8d6664b1b37ae2bc0d53ce9cdc1c43af8a17992822a19c3162dd029e8e8459c"
+    },
+    {
+      "sample": "MID_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_14.json",
+      "source_sha256": "c0111342f5a26e2fec9e4e6cbb7b872dba8330cf020b199841b7f28dd21fb355",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_14.md",
+      "output_sha256": "aa6cd702a27b7492a070a6c4c7f2890da7401ff9a24aa396d49802ff7f78a7f9"
+    },
+    {
+      "sample": "MID_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_15.json",
+      "source_sha256": "cac049e3aa67850c27133c9aa3e378b6c8560ca80ee6f7114e72fb733d32f0b9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_15.md",
+      "output_sha256": "a61153e623c0230f5592b4636ab3033ff441327b90feb79a06c401cf3fea2381"
+    },
+    {
+      "sample": "MID_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_16.json",
+      "source_sha256": "6c26d4c9b397626af561fac689242368ebaa16650763f6ff3b9b3423a2a0a56f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_16.md",
+      "output_sha256": "3157e797c774d9c19129c2fe2db66d91010ec7455502f832535bd9581aecaf72"
+    },
+    {
+      "sample": "MID_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_17.json",
+      "source_sha256": "50d0bcd09af3e7debe450f1c265aa07ec3dab852352986c19084570c2d50d133",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_17.md",
+      "output_sha256": "481687cb47b00d84a4852338356d9b80acaea3b37a373be2332a24dbd9668006"
+    },
+    {
+      "sample": "MID_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_18.json",
+      "source_sha256": "e87bc566e153c0acc4c369844fc425d71edd137761f0455b1658db79c8937153",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_18.md",
+      "output_sha256": "a09f1d4a643ede82393cfa35913e9359242e977b1f67a225194ab5dae9d04a82"
+    },
+    {
+      "sample": "MID_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_19.json",
+      "source_sha256": "966236eeb60494080a20f8dd2117d01914cfd87b34637da3d641d7a4c8bf4479",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_19.md",
+      "output_sha256": "3b15762f17a75b637fc3a377728649592d2242ee11ba72f3aa788714a12fdda4"
+    },
+    {
+      "sample": "MID_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_2.json",
+      "source_sha256": "5728e25f304db24272353fca9e3f15f508587a93d8618effa997842a64478ec2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_2.md",
+      "output_sha256": "956de488943360d4b83ee02b230d55fac4c211a7dcda182546500e19dcfe9a39"
+    },
+    {
+      "sample": "MID_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_20.json",
+      "source_sha256": "f468205004a1930a07f5f90bf806c1cb1da4975ec18679ff9dbb43eb68280352",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_20.md",
+      "output_sha256": "ac96df518709fc84fca1871feed8cc300220f4354183637433b7b2cb4fe8089c"
+    },
+    {
+      "sample": "MID_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_21.json",
+      "source_sha256": "12aa2128d29dae9cef082865f7c1937298f319340440f3e062379aa2cecb7239",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_21.md",
+      "output_sha256": "c06ade31b931dd18b1b46b371709addaaa5bf75dee2dddf90bf34239255c72ab"
+    },
+    {
+      "sample": "MID_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_22.json",
+      "source_sha256": "4fc6d26778170eca9d72ce39cb81fab6bba2634197322b33327998174ea6e341",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_22.md",
+      "output_sha256": "cfbfce686d66654de1c30e67cf07bfc5ef3d285cc1da402e3b8046d46c466e02"
+    },
+    {
+      "sample": "MID_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_23.json",
+      "source_sha256": "26e05af6432dddf6ab3afc75941da68a344644ccbb50f0937a8680969016f6d0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_23.md",
+      "output_sha256": "93c29ab71f500b2e95c364b79233d9a2a55e1478fc3bf4cfedfd520bbfcde733"
+    },
+    {
+      "sample": "MID_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_24.json",
+      "source_sha256": "1d3fc4f1f874836db325ce1df5e5d9c3e049d058ec865e1ed8828156160458e1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_24.md",
+      "output_sha256": "c66e376e62f11acd54dcad131014b0a682c349e66391426977c7f256513e0652"
+    },
+    {
+      "sample": "MID_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_25.json",
+      "source_sha256": "6bde5c98702ce93bc8175aaf2a4f61c76da3b573fed67ea0d60cbc35843ea6d2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_25.md",
+      "output_sha256": "ba2503d207d85a6d415b1aefcab4e9bed62dbfd6e5fbc3711b47be526da96aef"
+    },
+    {
+      "sample": "MID_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_3.json",
+      "source_sha256": "2f98e51fd449875441de610f9e90c7b2fa0359337447d24d95837b2c88895ca6",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_3.md",
+      "output_sha256": "de33e369a686a1ee06aa9f631d8828e7a0b8942356f35c09ebc0103daed3e93c"
+    },
+    {
+      "sample": "MID_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_4.json",
+      "source_sha256": "cddfd67e199148d99f42d18f446bf4a27601898edda35dd7423c313c0fad60bd",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_4.md",
+      "output_sha256": "0d408c5653654a3f6ca41d76d1eb0ecf1245bb92da9e9f7a4b4051a8712721c5"
+    },
+    {
+      "sample": "MID_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_5.json",
+      "source_sha256": "d451c4d3c9e015828262d460a74083d72b87417ecb972313380d6a67758b097e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_5.md",
+      "output_sha256": "9b10a050217a83fb5e67c4840a13215aaf4dc6acaf396a23b0830841ced5bf17"
+    },
+    {
+      "sample": "MID_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_6.json",
+      "source_sha256": "705abc9b1e4b82e24f16989d1d46113549d12d3982035d8c6140810e1f7331b1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_6.md",
+      "output_sha256": "2d3940f32bec214eda9fe0e13d78cae76e03b5fc34b6ebfdf41a94be0120f5e6"
+    },
+    {
+      "sample": "MID_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_7.json",
+      "source_sha256": "835e697d6f7ad2d7e76cb21500d731ae79ddea77a01d5a6859d92eac2691230d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_7.md",
+      "output_sha256": "37b0135f4e989a9b87987ad6885be69bcea999f4519ada5622889409d454c050"
+    },
+    {
+      "sample": "MID_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_8.json",
+      "source_sha256": "6fb74527469d68aafef96206bbfbcb697b2d11aa3cb55ffdec7b21baa0dca832",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_8.md",
+      "output_sha256": "70740bb2522a62cc09488a998baf833210f4426091be596aaa32c1e426e1e8bf"
+    },
+    {
+      "sample": "MID_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/MID_9.json",
+      "source_sha256": "b61d4531a3a1944e80853a3f0a891429fe9a99997c5df9d3161bf636320e6334",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/MID_9.md",
+      "output_sha256": "58e9dc216a0275012ef0da2d833a31455d79e3773cc1163cd3eeeb4307ea84ac"
+    },
+    {
+      "sample": "OPEN_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_1.json",
+      "source_sha256": "01a81a63b4fe4dd7a7707e8bbba282c6a6b189ff3928fe50703fcdb3b3e76313",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_1.md",
+      "output_sha256": "9f892e12a9ac85f19f8c3db5465be33ff482badcfc5a29144c4945634ec32fba"
+    },
+    {
+      "sample": "OPEN_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_10.json",
+      "source_sha256": "364e698891cb5135f6268acdaf9d41d1b8779cf7f564a13b36b839d2ec12ab13",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_10.md",
+      "output_sha256": "f36dd8b67a3cf78db50c346c3c84dbe55776a45cc032951516d8bd9684f2659c"
+    },
+    {
+      "sample": "OPEN_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_11.json",
+      "source_sha256": "47d1c3a3ca500e66f4babfbb20c2bef55aad2c46afabaf335e1ef17e8043500b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_11.md",
+      "output_sha256": "5e9fa1c708230f0884321d1f7538f4e1fe45f5c94133d8c900e5d2d4a0f38cb5"
+    },
+    {
+      "sample": "OPEN_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_12.json",
+      "source_sha256": "f2cdd7d173f1be090229f85e6c515ed8b33c4ef55d9de5b98ada31806621c2fc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_12.md",
+      "output_sha256": "d27e0326dc7b78f43a58ea57cb79e83e3027486fa2cd08e8f0245199ff0069d0"
+    },
+    {
+      "sample": "OPEN_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_13.json",
+      "source_sha256": "83dd75bfc7a9487acabd98fcae376dec098a0dead003cbbb0ef43dc1cc0d6999",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_13.md",
+      "output_sha256": "246bfeb44c990ab74d3e91d2f3c0d3d8dfd03a33921bd3e5cc51212db9502338"
+    },
+    {
+      "sample": "OPEN_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_14.json",
+      "source_sha256": "bb06131f5ea03108df999155c2351652bac20ce13f96fc9780f475bd869362df",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_14.md",
+      "output_sha256": "707efa68d0881264725649e54bb5baf13eed9f7edfc6d57244b7c12617b5bc46"
+    },
+    {
+      "sample": "OPEN_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_15.json",
+      "source_sha256": "b218eaad9c72e5b43de9f7e242ade1a144ef701aae7af849dcc38bb238dbebc0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_15.md",
+      "output_sha256": "f983538b63f0304f36ed54ac398da4023a0e70768a3e4e425b40cbef0a680a1a"
+    },
+    {
+      "sample": "OPEN_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_16.json",
+      "source_sha256": "f8b72e713185f83564ced1fb8646c6bf4da2cddbf73b64feb593f1a89512d6d4",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_16.md",
+      "output_sha256": "2365a726b0afe3766ec9c60a8470a1778cf82871d7d8fc3f75b73a21f595177f"
+    },
+    {
+      "sample": "OPEN_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_17.json",
+      "source_sha256": "0de5d1397b86aa1ca838925ebdb3b11e0d283f503cc4c8e1db3da7e7eb5bdd21",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_17.md",
+      "output_sha256": "00c82c8455cd93f14d0e808338d55ff0e8f89c56af41086a0f6f05c849f05724"
+    },
+    {
+      "sample": "OPEN_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_18.json",
+      "source_sha256": "ba8f402233e9158d2ad160e6ea541eac26da46dc4fc0b28961e4db6104579549",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_18.md",
+      "output_sha256": "ccf1c9c081e05b6e370301d874642ba7dc645fc3cebee478be42c87e5b014dc6"
+    },
+    {
+      "sample": "OPEN_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_19.json",
+      "source_sha256": "10578b8996aa8bce029fc027c31c0261b39df4cd1d2b30ed15ab927e310d907c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_19.md",
+      "output_sha256": "0a1cb09d8c1eb7f00ea7f43fc3bf8129bd41d3b523b17bce1c5d8590b9d88ca6"
+    },
+    {
+      "sample": "OPEN_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_2.json",
+      "source_sha256": "4ddad87581bd4ff9b3db5119951f7d5be1516b171dab42a93ed057af18cfd8c1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_2.md",
+      "output_sha256": "264a0b2f0cf550d5ffd93222233491a69044e5d2424a7b627f66a70c780a96fa"
+    },
+    {
+      "sample": "OPEN_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_20.json",
+      "source_sha256": "6f2de6a96a5a98ad653a99fcb7867de3f506b4ac9dd22810baf1f78676e2d226",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_20.md",
+      "output_sha256": "1aad4584ef7a2ea82dcf7724d97bd5e6a465e246b0931df7f7dc398b8cf562ab"
+    },
+    {
+      "sample": "OPEN_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_21.json",
+      "source_sha256": "a221cfdbe512bf396214b9bd4788fae4bd390179ffdd82a5aff3644a42875e2a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_21.md",
+      "output_sha256": "753f1788c469c0376b417b59364ddfc55102f92b8002c4a93c39b3351b589b5b"
+    },
+    {
+      "sample": "OPEN_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_22.json",
+      "source_sha256": "edb456a662f69da4e7c3828fcad3141e04730f2ab92c5d43010a83517a0e5c7f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_22.md",
+      "output_sha256": "3436ee9e91c3d196ea8d642969af6fa1e5738e28fe0f0abfac73c73db11c5711"
+    },
+    {
+      "sample": "OPEN_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_23.json",
+      "source_sha256": "d98b454442aa014027233aa43a2377bd3f426993fbf2026af077f023d99d4f9f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_23.md",
+      "output_sha256": "74accb6b77c14e9d77f2b00b6071267ccef7f8bb04fa0de8910bf4534d33d727"
+    },
+    {
+      "sample": "OPEN_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_24.json",
+      "source_sha256": "aa8c77f5cf5a3d7a737230312f15b153bdec59ccc3ca24b581d1d57e198f83d6",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_24.md",
+      "output_sha256": "0c6e0c592e50fc7346a75210ea9eae018dc2676cb45a210f073954415a259bd9"
+    },
+    {
+      "sample": "OPEN_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_25.json",
+      "source_sha256": "36fd125b8404cf5cc0cb06656f45c75ef03010121c09c9ac2b6c8473f870ae82",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_25.md",
+      "output_sha256": "0d39bb75f2e12337e004ddb532166b6d8e900178399edfcdfd223cfdb823e3ca"
+    },
+    {
+      "sample": "OPEN_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_3.json",
+      "source_sha256": "7beec2b6b72d11271768d4ed0c96422ef32f29d7c5e13fa1e3fcc8e47a1bf1b2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_3.md",
+      "output_sha256": "5d9fb597b5d95e61e2c8d765520295754415de64ddc2346162d453543824ed88"
+    },
+    {
+      "sample": "OPEN_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_4.json",
+      "source_sha256": "3afc838bb8cf91bef84855725b057b5f2074d6e3d51f891e108f01c1cfd2dcbc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_4.md",
+      "output_sha256": "6776e83bd62210aa03dfd53e1c382260c30657296f43d6bbceecce29acfc36e2"
+    },
+    {
+      "sample": "OPEN_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_5.json",
+      "source_sha256": "b8417c1f5a3ac6d58cd9f70c27fc6ceb7f489419005868321cadaf4ca72be787",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_5.md",
+      "output_sha256": "04e0b8f959ef31e07da19c247dc737af30ce5954ca4715c0e1c8f7be76fa7030"
+    },
+    {
+      "sample": "OPEN_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_6.json",
+      "source_sha256": "5a74b0cc0617f73a521856a9c6c6b0ed12ced93a70843e25c8ad3e10dce91997",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_6.md",
+      "output_sha256": "c97b43efcaf50b2b3e6eb63257404f51160a4a599a394da4aa2a906fb8656710"
+    },
+    {
+      "sample": "OPEN_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_7.json",
+      "source_sha256": "3ae2b15d978d01e44f9faa08c615f9d62cdbd6a2827ef636194f3ef918f8f5fb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_7.md",
+      "output_sha256": "e5b9a950576a04e40312cda9ed46a752abe160d82bd53914e75a98c601f7414d"
+    },
+    {
+      "sample": "OPEN_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_8.json",
+      "source_sha256": "674ad650cb3b7f27054fd95e22a9942514a30049b7a790b01176cac98ad93ec4",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_8.md",
+      "output_sha256": "e8c168e382fe501ba6f77f94fbf5ac0083c86d119cf8df4f58bc9fef2c27d003"
+    },
+    {
+      "sample": "OPEN_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/OPEN_9.json",
+      "source_sha256": "257e0041cc0ae629fb1bbb483ba50e0bd40e06611b684bd81acdc0ade6bcf238",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/OPEN_9.md",
+      "output_sha256": "6c7ce2ef248f9e8488440709755ffce68aa804a4cbf5259d211b7a3153c2e240"
+    },
+    {
+      "sample": "SHORT_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_1.json",
+      "source_sha256": "352c3d702979a7e825848ade9c453aefca884a62f9eed73cc4d2d1fa6a698175",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_1.md",
+      "output_sha256": "da8005844dd3b61f007bd8fcdab74aea26e4ee55194008ffee0c003cde35fbc4"
+    },
+    {
+      "sample": "SHORT_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_10.json",
+      "source_sha256": "6b7e22667cd415165fca07cc3726d61bdf22dd49b1b501c04105912b3a6d4df2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_10.md",
+      "output_sha256": "832143776e2a7c7dc1d99de212422da0be35e8670a8f705d1a9e1f68623be08d"
+    },
+    {
+      "sample": "SHORT_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_11.json",
+      "source_sha256": "2d486e80f54ed3fb0adf52f5bd8d0526a9bb148da2d62357922a41bc7728784e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_11.md",
+      "output_sha256": "f0268db7db98aae3f21354c4c7cc0b620f0a8707b98a1dba440d7283e03f2b45"
+    },
+    {
+      "sample": "SHORT_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_12.json",
+      "source_sha256": "33c67302d59fc9a09210f67e86a19aed323a5fc91d6b7f5d8c1122683a29f2c5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_12.md",
+      "output_sha256": "e956cdb3f7d91f247df57494100c811918da2b4c100df5fcc9414836c1afa326"
+    },
+    {
+      "sample": "SHORT_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_13.json",
+      "source_sha256": "562df3d55e12b9884e3b3678f3ac76ca36932d7f55a0d57f5ac98cb44c9b844e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_13.md",
+      "output_sha256": "16811e1de9320d292a6316848927f1db68b4111ed5efa05fbe00b8d9fd4b9170"
+    },
+    {
+      "sample": "SHORT_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_14.json",
+      "source_sha256": "96c863fec2b62c2344e4b627d32ab6b32fa94e74f5b26941b7072858fcded417",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_14.md",
+      "output_sha256": "57be6c212f31fb4e1ecff1ea7518416cba3b9344049b94de6ca58e562489e85d"
+    },
+    {
+      "sample": "SHORT_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_15.json",
+      "source_sha256": "8740d6296dec383f9bf0a84e1fb0aa36377abd393bb19cd86927c8698a89cc35",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_15.md",
+      "output_sha256": "c451d82e502b2b459508430dfcf7e770630ba12afde449a35c554b06e81c2a53"
+    },
+    {
+      "sample": "SHORT_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_16.json",
+      "source_sha256": "53cd5a8666af670dd4a65e481d863232b51a3339d4e37d0611bfb3049b89f989",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_16.md",
+      "output_sha256": "6ba74eb66549d87c429d1bfb79b7a61bcbe03bdc0065b637515d171f5ebb8950"
+    },
+    {
+      "sample": "SHORT_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_17.json",
+      "source_sha256": "1bfefaa6bb482c7ce058f39c3c8f399ec1f710a125b118aa0206c9dc801f95f4",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_17.md",
+      "output_sha256": "1d5e2a26edb5dbb9874839a5b427aa1c2680605befd2c21da0441bada5207a95"
+    },
+    {
+      "sample": "SHORT_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_18.json",
+      "source_sha256": "f7721d928562fb926bba752400612365b8a60705b7ad25630838023bdc365c2e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_18.md",
+      "output_sha256": "0a51ff0d9b31718437c57afa091878822285f72decc806ed51ceb79af6a68549"
+    },
+    {
+      "sample": "SHORT_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_19.json",
+      "source_sha256": "4b9d7b6e2b8abfb47ff72416a660adfa36ba4a7e1698f86fa56317aac9972b10",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_19.md",
+      "output_sha256": "e1a1708855272a99a0735df2402d2b536df5c6305e19a465e80e6da707372429"
+    },
+    {
+      "sample": "SHORT_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_2.json",
+      "source_sha256": "e2c7de11dc70200bb2d0f207aa65ff772ac32737f6aa4e58b5f46656bc20907e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_2.md",
+      "output_sha256": "36a5420f963eba866bad9bdfc82eae826d04b8344439d5eb6ac163e3000b3545"
+    },
+    {
+      "sample": "SHORT_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_20.json",
+      "source_sha256": "3842ec8d65721f9cd58fb6856e28f1a255801d55771b962e79e871c5e17e0ac5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_20.md",
+      "output_sha256": "a08c768d2cf065ab572971d69614cf9df022515ed08a25d9e0c4df11ad66eb1c"
+    },
+    {
+      "sample": "SHORT_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_21.json",
+      "source_sha256": "b29556a37976bcc4d7cbba1deb285d19ba8c0d5e3099366bbed3d7101b124d9f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_21.md",
+      "output_sha256": "f6e729edb3ac3a91dddb6a8ea3f41f4562ead7f74f4c6062dab74d2b5e7f9f60"
+    },
+    {
+      "sample": "SHORT_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_22.json",
+      "source_sha256": "bcac4e4cb771b93e77f8c29e6267bbbf9d0724f2be6dbc3d896e6ff1f683581f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_22.md",
+      "output_sha256": "0ca8d8e233166b7d31bca2c107f1878584b4793d3d0b958f0c606155c2467b02"
+    },
+    {
+      "sample": "SHORT_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_23.json",
+      "source_sha256": "0325c5f21c9176c46b5fc16c1efb37e8cc0a6e87526250e787d236ce4dd855fb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_23.md",
+      "output_sha256": "42f95bb8f23d5ad80a0ed10034ca58cf7efdb3b18137234b85a467b63b0fc250"
+    },
+    {
+      "sample": "SHORT_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_24.json",
+      "source_sha256": "3d97cbb2e33625ed74907ebcf185304e0200fbd765f2a8014b04f137d3279ee7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_24.md",
+      "output_sha256": "985736134ab525bdc0ca6a396f2b686e1810642344b2073d7372f08ff5049866"
+    },
+    {
+      "sample": "SHORT_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_25.json",
+      "source_sha256": "c4a6e8ae57209b187ec152bf6333ec15a8b3bf1a85506b628aff3830ddb8174e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_25.md",
+      "output_sha256": "f02854fede104686a81351cfb7382e80e96f32d3abea9b9eef9d9bcf16bbe7c8"
+    },
+    {
+      "sample": "SHORT_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_3.json",
+      "source_sha256": "44e1a5f555f260dc6bb03347362de8acdada61290b49df8102b0d0ab49a5be45",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_3.md",
+      "output_sha256": "4b110674862cad688437e48fef79ffa3df1be45c4ec6fb999331dbabea07386d"
+    },
+    {
+      "sample": "SHORT_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_4.json",
+      "source_sha256": "7f026bff9df93a623a5850513072204173d3cbbac45eca1492f85be3169719b3",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_4.md",
+      "output_sha256": "a56c95732d7ab3606391668110b9723f1a1cf955c96af87a066440d3b7491aeb"
+    },
+    {
+      "sample": "SHORT_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_5.json",
+      "source_sha256": "7287ca84136206849396f70035024ebc0f468fa12540ff1c45306d4f2c1a35c0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_5.md",
+      "output_sha256": "20e633529188379d14279cb8969de6890fcd700a12086a38384c0526d1f8888a"
+    },
+    {
+      "sample": "SHORT_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_6.json",
+      "source_sha256": "869c234c31eb611115ec8fc42f8258aa51e6126c0810be9578ea135a1bbd48ff",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_6.md",
+      "output_sha256": "06bdd422456048e787a5ffad8a444358d6058c19a6923cb82938e8cd66ecac66"
+    },
+    {
+      "sample": "SHORT_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_7.json",
+      "source_sha256": "5cb4e685b20cbaa251a6228bfcb299fa7d80490150e59d5e2c2651027c7b6f81",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_7.md",
+      "output_sha256": "0b017cb12cc4e74b63812d23c29a559aad9f233f62eb5e2a460c3fb4694fd6bb"
+    },
+    {
+      "sample": "SHORT_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_8.json",
+      "source_sha256": "1ce4dfa5cb61766dc7c9a6f646333770707db24c9158f9472c33b89ca88bd448",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_8.md",
+      "output_sha256": "2946f719bdaada04e4572654e2d383261ff01f666af034a92c8c1a82a01d08c9"
+    },
+    {
+      "sample": "SHORT_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/SHORT_9.json",
+      "source_sha256": "dc863e0d49aab24311f5c6d65ff560ced3bfe5cd4c9a42a939f1d8e3c77ac640",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/SHORT_9.md",
+      "output_sha256": "c19c46d90c8bf6299b54567de1edd44bca557ca3c4df2e06cae2fd2cb67c2af8"
+    },
+    {
+      "sample": "VARY_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_1.json",
+      "source_sha256": "032ee6b67c0e8488adefa638e7bc6af8cb652664441b67b8ffe43e52323c1788",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_1.md",
+      "output_sha256": "d8175c271aac400564b979ccff16a0267b9978a74c0c65defedca375b426a69c"
+    },
+    {
+      "sample": "VARY_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_10.json",
+      "source_sha256": "094aa0935443a32e3d8ac8583dca0b8955b96781209e8663cbb6a1000b17d79c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_10.md",
+      "output_sha256": "37c0dc04d41c529c66c4df056450a8f22fb322fba2ae55c34e19f3c5c4b2501e"
+    },
+    {
+      "sample": "VARY_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_11.json",
+      "source_sha256": "4e78f6e25406d731ec7cb4e5be57bfa16415ee581afde426d1452d1a5d79d8d7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_11.md",
+      "output_sha256": "a101bec4622ba956c973bebce6c93d1102dd82374c334e996c0f2b53fe1404a8"
+    },
+    {
+      "sample": "VARY_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_12.json",
+      "source_sha256": "0f6b326bf6651c873a1322cad4b3eab74f87d2d993cc6a88bc4ccc9c770199e5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_12.md",
+      "output_sha256": "86613e6d2bc95ea1473a0f21ce072b56f883a28e8ab36554d09f1b6e3d18cd29"
+    },
+    {
+      "sample": "VARY_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_13.json",
+      "source_sha256": "706a58a0580b677bc8a4504d0945cec2dcdd5abc3e93f9c8e359de773ab884a9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_13.md",
+      "output_sha256": "54fd317fbad2eac9adebf5a3fc3324f22f354b82104f86857772fc8906a2beb2"
+    },
+    {
+      "sample": "VARY_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_14.json",
+      "source_sha256": "82ca7c9afc70362fdfe51dc3719641d394098bea933db86ca76d7475c6d6536d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_14.md",
+      "output_sha256": "a04a7cdc04dac43f09cbd58ea963decc196f6130260ae7aa9265a1f0db1a232c"
+    },
+    {
+      "sample": "VARY_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_15.json",
+      "source_sha256": "9213bb79f8198022c0b13b30319c04e184dd31e614f006dafc748cfbb0d3332d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_15.md",
+      "output_sha256": "0bacaf132b74013e3b3f523b911bf85a4db989a1fb9c2d9a9056d28a31d28924"
+    },
+    {
+      "sample": "VARY_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_16.json",
+      "source_sha256": "cf672ec88c34956636628994a0cc0cb2a5efe48f1eb7b7e7ecbdf0a149ef4702",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_16.md",
+      "output_sha256": "c93dd86f6e615bc6ee411df944c60e36aa29fa90ce60107c9c1eec0fde2dcf4c"
+    },
+    {
+      "sample": "VARY_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_17.json",
+      "source_sha256": "16bfc005a91dbc8beb7a2b1b31b4b5fa38a5cb4bbf119bc48e203631fd24bfaf",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_17.md",
+      "output_sha256": "96c2da6cfbe3447055791693ed3aa15886a64765dc60d50e01991c29be504947"
+    },
+    {
+      "sample": "VARY_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_18.json",
+      "source_sha256": "ae3a5f917d1e42ab5006d20edbe7b2311d2d66dc4dca20d74aaff6b1d57720d1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_18.md",
+      "output_sha256": "e7de6390438cd86f713e62a2ef73e2b622b092ba0e13d07cc5c07639848b03e9"
+    },
+    {
+      "sample": "VARY_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_19.json",
+      "source_sha256": "2f473cbbc6b97c7427b3898af7b20fcca06233b5bdce53deb3368e17066b061b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_19.md",
+      "output_sha256": "3a33b1f2182c795599f1af311d22e03fbb904e9f7534f9a86f2373b79ca73d9b"
+    },
+    {
+      "sample": "VARY_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_2.json",
+      "source_sha256": "61a087cdfac1169141a1435df7deb5ffc996f17818e7b2897a4b516cdcb8677b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_2.md",
+      "output_sha256": "dcfdce8816392b9986d29e7d01a6a518654ebb93ce82c1c42c775ed8ada39c0e"
+    },
+    {
+      "sample": "VARY_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_20.json",
+      "source_sha256": "e14258a9627dbae8b3e08586b90702f68ea98980b9748739b9650cdc85299f87",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_20.md",
+      "output_sha256": "3d869b483fc4be52a1408f27f2728807b04172d17e640181c078ad847de70a69"
+    },
+    {
+      "sample": "VARY_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_21.json",
+      "source_sha256": "3837b73659d0c0bcf58b87d34e26c090d568b80abeddef4d15a029158ac9d942",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_21.md",
+      "output_sha256": "1bc066e14aa9b548e12ba6d7f0deee62210c7b987c09d06e4e06e0fdf24bd604"
+    },
+    {
+      "sample": "VARY_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_22.json",
+      "source_sha256": "3b6615d890bf5d8ede3d3076a5721d2b6765a9932b8659bda931c5069e762f3d",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_22.md",
+      "output_sha256": "e7f23f238284ddfadd1c89f0ba3a8cd7ca74e8eac0de6d1a0a375e8ebde00e5b"
+    },
+    {
+      "sample": "VARY_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_23.json",
+      "source_sha256": "f15aea6d938b90c1aae65a4a0ed9a9edb4ba5c3db125bad32132394c0d2b4180",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_23.md",
+      "output_sha256": "db0935768821ad70a637d1bbd6a3a43bb1047d77aed11bd5a0368a0be4ae5548"
+    },
+    {
+      "sample": "VARY_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_24.json",
+      "source_sha256": "5340cb8246d07781c51c7e2dc0d34c2d0b5e9016a0f13e4ed629c9b065d360bc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_24.md",
+      "output_sha256": "c8f3607b7c2c9e6819d7dc273cf3133f649975e5a8ec90860905da1e04893fea"
+    },
+    {
+      "sample": "VARY_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_25.json",
+      "source_sha256": "d1f98e16aad00f23d27e48689dd0c1e42dbe0ed76d9dbbf18d3c7af3f55fd60f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_25.md",
+      "output_sha256": "ebc7cbf2b075819c8b6b6389fbb4b2fbee5bbe9dd82ea39472d41c501583459f"
+    },
+    {
+      "sample": "VARY_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_3.json",
+      "source_sha256": "02c6c62c19ad3378ba0ad22bbca19eed6cfb314cd38bfaf3a5780eb551b955c8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_3.md",
+      "output_sha256": "39b8f46f54a6e8961c9798f65d3a96b07d16bdeb0f16aaf218841704529b24c6"
+    },
+    {
+      "sample": "VARY_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_4.json",
+      "source_sha256": "fa2c4dfb8fcc36c1772c3140c749d0f0251da6eb67822f1bf377862e4c0d336a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_4.md",
+      "output_sha256": "b93d9b47a8c9d7836e7f93724403dbcf9a859758065be9f654fd73eac3c768f8"
+    },
+    {
+      "sample": "VARY_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_5.json",
+      "source_sha256": "2a9fc7dfc2633fa07261a9a8cfe256123986fd7a510cdb6e0fe25caf57a63254",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_5.md",
+      "output_sha256": "f12c6a14a3b5b4575a8036ef2ac52802593fb1e61d97fd220029638ffc18d622"
+    },
+    {
+      "sample": "VARY_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_6.json",
+      "source_sha256": "b02180875c9fad8893631abba7f68c7d7139c55f0cc2e88208e231856501ffbc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_6.md",
+      "output_sha256": "d370cf7c452bc0dd59cf85dbf9dac5172254abd4c0b8e8bccaeb9dc790fa707b"
+    },
+    {
+      "sample": "VARY_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_7.json",
+      "source_sha256": "137a9a52d653a55553f3849a1f5da9a3847e4c3782a11416f2e725f2923235eb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_7.md",
+      "output_sha256": "2f1de1a960b1d475b26b12d30733331b12abddf38a5ad946db11ec0c33c7b887"
+    },
+    {
+      "sample": "VARY_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_8.json",
+      "source_sha256": "35b1f2c88157aa3285db121f13b62d8d8e464f6d55771b4fed662efe1694b3d8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_8.md",
+      "output_sha256": "df6b2f67ecf73743dd57b2a618593f758551af4ef1397d82edc9a6bba019b544"
+    },
+    {
+      "sample": "VARY_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_sonnet-5-5-or-pin-anthropic/VARY_9.json",
+      "source_sha256": "c8540bd110b105ce28c01d8df1383b1820f187764ab42a95f15e0a32e5b991b0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/sonnet-5-5-or-pin-anthropic/VARY_9.md",
+      "output_sha256": "057213b9b6778f59198dcd17471746da86f8fa1a94cd2205160dd15b1bf9c8c0"
+    }
+  ]
+}

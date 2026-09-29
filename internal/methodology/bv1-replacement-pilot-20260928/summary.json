@@ -1,0 +1,1050 @@
+[
+  {
+    "candidate": "mistral",
+    "sample": "O3_OPEN_1",
+    "started_at": 1790632898.3000278,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.319,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "O3_OPEN_2",
+    "started_at": 1790632898.3003788,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.275,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "K26_OPEN_1",
+    "started_at": 1790632898.3020093,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.296,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "K26_SHORT_1",
+    "started_at": 1790632898.3036728,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.309,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "S55_SHORT_1",
+    "started_at": 1790632898.3032918,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.312,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "S55_OPEN_1",
+    "started_at": 1790632898.3042915,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.298,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "S55_LONG_1",
+    "started_at": 1790632898.3052409,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.279,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "mistral",
+    "sample": "S55_LONG_24",
+    "started_at": 1790632898.3068445,
+    "http_status": 429,
+    "finish_reason": null,
+    "qa_pass": false,
+    "qa_reason": "short_or_empty",
+    "verbatim_quote_in_source": false,
+    "seconds": 0.292,
+    "usage": null,
+    "provider": null
+  },
+  {
+    "candidate": "luna",
+    "sample": "O3_OPEN_1",
+    "started_at": 1790632898.5789952,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.288,
+    "usage": {
+      "prompt_tokens": 639,
+      "completion_tokens": 381,
+      "total_tokens": 1020,
+      "cost": 0.0002544,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002544,
+        "upstream_inference_prompt_cost": 6.39e-05,
+        "upstream_inference_completions_cost": 0.0001905
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 148,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "O3_OPEN_2",
+    "started_at": 1790632898.5916193,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.752,
+    "usage": {
+      "prompt_tokens": 670,
+      "completion_tokens": 393,
+      "total_tokens": 1063,
+      "cost": 0.0002635,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002635,
+        "upstream_inference_prompt_cost": 6.7e-05,
+        "upstream_inference_completions_cost": 0.0001965
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 145,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "K26_OPEN_1",
+    "started_at": 1790632898.61656,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 6.904,
+    "usage": {
+      "prompt_tokens": 1066,
+      "completion_tokens": 514,
+      "total_tokens": 1580,
+      "cost": 0.000390175,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 1063,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000390175,
+        "upstream_inference_prompt_cost": 0.000133175,
+        "upstream_inference_completions_cost": 0.000257
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 152,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "K26_SHORT_1",
+    "started_at": 1790632898.6258435,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.062,
+    "usage": {
+      "prompt_tokens": 848,
+      "completion_tokens": 365,
+      "total_tokens": 1213,
+      "cost": 0.0002673,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002673,
+        "upstream_inference_prompt_cost": 8.48e-05,
+        "upstream_inference_completions_cost": 0.0001825
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 66,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "S55_SHORT_1",
+    "started_at": 1790632898.6244872,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.661,
+    "usage": {
+      "prompt_tokens": 861,
+      "completion_tokens": 405,
+      "total_tokens": 1266,
+      "cost": 0.0002886,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0002886,
+        "upstream_inference_prompt_cost": 8.61e-05,
+        "upstream_inference_completions_cost": 0.0002025
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 97,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "S55_OPEN_1",
+    "started_at": 1790632898.6307232,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": false,
+    "seconds": 7.324,
+    "usage": {
+      "prompt_tokens": 1063,
+      "completion_tokens": 545,
+      "total_tokens": 1608,
+      "cost": 0.0004053,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 1060,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0004053,
+        "upstream_inference_prompt_cost": 0.0001328,
+        "upstream_inference_completions_cost": 0.0002725
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 248,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "S55_LONG_1",
+    "started_at": 1790632898.6270967,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 8.678,
+    "usage": {
+      "prompt_tokens": 4121,
+      "completion_tokens": 642,
+      "total_tokens": 4763,
+      "cost": 0.00083605,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 4118,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00083605,
+        "upstream_inference_prompt_cost": 0.00051505,
+        "upstream_inference_completions_cost": 0.000321
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 205,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "luna",
+    "sample": "S55_LONG_24",
+    "started_at": 1790632898.6309383,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 7.413,
+    "usage": {
+      "prompt_tokens": 3793,
+      "completion_tokens": 565,
+      "total_tokens": 4358,
+      "cost": 0.00075655,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 3790,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00075655,
+        "upstream_inference_prompt_cost": 0.00047405,
+        "upstream_inference_completions_cost": 0.0002825
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 119,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "OpenAI"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "O3_OPEN_1",
+    "started_at": 1790632903.689261,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 3.747,
+    "usage": {
+      "prompt_tokens": 673,
+      "completion_tokens": 727,
+      "total_tokens": 1400,
+      "cost": 0.003231,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003231,
+        "upstream_inference_prompt_cost": 0.00050475,
+        "upstream_inference_completions_cost": 0.00272625
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 455,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "O3_OPEN_2",
+    "started_at": 1790632903.8706732,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 4.521,
+    "usage": {
+      "prompt_tokens": 693,
+      "completion_tokens": 1108,
+      "total_tokens": 1801,
+      "cost": 0.00467475,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00467475,
+        "upstream_inference_prompt_cost": 0.00051975,
+        "upstream_inference_completions_cost": 0.004155
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 810,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "K26_OPEN_1",
+    "started_at": 1790632904.2887409,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 4.749,
+    "usage": {
+      "prompt_tokens": 1093,
+      "completion_tokens": 958,
+      "total_tokens": 2051,
+      "cost": 0.00441225,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00441225,
+        "upstream_inference_prompt_cost": 0.00081975,
+        "upstream_inference_completions_cost": 0.0035925
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 596,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "K26_SHORT_1",
+    "started_at": 1790632904.34528,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.365,
+    "usage": {
+      "prompt_tokens": 878,
+      "completion_tokens": 1182,
+      "total_tokens": 2060,
+      "cost": 0.005091,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.005091,
+        "upstream_inference_prompt_cost": 0.0006585,
+        "upstream_inference_completions_cost": 0.0044325
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 881,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "S55_SHORT_1",
+    "started_at": 1790632905.5238779,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 4.605,
+    "usage": {
+      "prompt_tokens": 896,
+      "completion_tokens": 909,
+      "total_tokens": 1805,
+      "cost": 0.00408075,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00408075,
+        "upstream_inference_prompt_cost": 0.000672,
+        "upstream_inference_completions_cost": 0.00340875
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 607,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "S55_OPEN_1",
+    "started_at": 1790632905.958535,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 6.427,
+    "usage": {
+      "prompt_tokens": 1112,
+      "completion_tokens": 1348,
+      "total_tokens": 2460,
+      "cost": 0.005889,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.005889,
+        "upstream_inference_prompt_cost": 0.000834,
+        "upstream_inference_completions_cost": 0.005055
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 936,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "S55_LONG_1",
+    "started_at": 1790632906.047812,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": false,
+    "seconds": 5.681,
+    "usage": {
+      "prompt_tokens": 4414,
+      "completion_tokens": 1258,
+      "total_tokens": 5672,
+      "cost": 0.008028,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.008028,
+        "upstream_inference_prompt_cost": 0.0033105,
+        "upstream_inference_completions_cost": 0.0047175
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 908,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "gemini",
+    "sample": "S55_LONG_24",
+    "started_at": 1790632907.3216605,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 5.071,
+    "usage": {
+      "prompt_tokens": 3908,
+      "completion_tokens": 908,
+      "total_tokens": 4816,
+      "cost": 0.006336,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.006336,
+        "upstream_inference_prompt_cost": 0.002931,
+        "upstream_inference_completions_cost": 0.003405
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 503,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "O3_OPEN_1",
+    "started_at": 1790632907.4404426,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 15.518,
+    "usage": {
+      "prompt_tokens": 654,
+      "completion_tokens": 659,
+      "total_tokens": 1313,
+      "cost": 0.00119740275,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 483,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00119740275,
+        "upstream_inference_prompt_cost": 0.00016540875,
+        "upstream_inference_completions_cost": 0.001031994
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 467,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "StreamLake"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "O3_OPEN_2",
+    "started_at": 1790632908.395569,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 21.298,
+    "usage": {
+      "prompt_tokens": 758,
+      "completion_tokens": 1102,
+      "total_tokens": 1860,
+      "cost": 0.0034386,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 256,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0034386,
+        "upstream_inference_prompt_cost": 0.0006285,
+        "upstream_inference_completions_cost": 0.0028101
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1023,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Cloudflare"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "K26_OPEN_1",
+    "started_at": 1790632909.0417418,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 19.759,
+    "usage": {
+      "prompt_tokens": 1080,
+      "completion_tokens": 1175,
+      "total_tokens": 2255,
+      "cost": 0.0020578285,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0020578285,
+        "upstream_inference_prompt_cost": 0.000647946,
+        "upstream_inference_completions_cost": 0.0014098825
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 718,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Baidu"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "K26_SHORT_1",
+    "started_at": 1790632909.7138264,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 9.198,
+    "usage": {
+      "prompt_tokens": 861,
+      "completion_tokens": 526,
+      "total_tokens": 1387,
+      "cost": 0.00214235,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00214235,
+        "upstream_inference_prompt_cost": 0.00030135,
+        "upstream_inference_completions_cost": 0.001841
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 118,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Relace"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "S55_SHORT_1",
+    "started_at": 1790632910.1333866,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 16.94,
+    "usage": {
+      "prompt_tokens": 874,
+      "completion_tokens": 1048,
+      "total_tokens": 1922,
+      "cost": 0.0017818515,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0017818515,
+        "upstream_inference_prompt_cost": 0.0005243563,
+        "upstream_inference_completions_cost": 0.0012574952
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 657,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Baidu"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "S55_OPEN_1",
+    "started_at": 1790632911.7327795,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": true,
+    "seconds": 22.993,
+    "usage": {
+      "prompt_tokens": 1080,
+      "completion_tokens": 1065,
+      "total_tokens": 2145,
+      "cost": 0.0049605246,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0049605246,
+        "upstream_inference_prompt_cost": 0.0016217496,
+        "upstream_inference_completions_cost": 0.003338775
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 651,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "SiliconFlow"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "S55_LONG_1",
+    "started_at": 1790632912.3888474,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": false,
+    "seconds": 26.4,
+    "usage": {
+      "prompt_tokens": 4188,
+      "completion_tokens": 1124,
+      "total_tokens": 5312,
+      "cost": 0.00265717575,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 3319,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00265717575,
+        "upstream_inference_prompt_cost": 0.00089699175,
+        "upstream_inference_completions_cost": 0.001760184
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 723,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "StreamLake"
+  },
+  {
+    "candidate": "deepseek_control",
+    "sample": "S55_LONG_24",
+    "started_at": 1790632912.3933165,
+    "http_status": 200,
+    "finish_reason": "stop",
+    "qa_pass": true,
+    "qa_reason": "",
+    "verbatim_quote_in_source": false,
+    "seconds": 27.908,
+    "usage": {
+      "prompt_tokens": 3844,
+      "completion_tokens": 1681,
+      "total_tokens": 5525,
+      "cost": 0.0072289,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0072289,
+        "upstream_inference_prompt_cost": 0.0013454,
+        "upstream_inference_completions_cost": 0.0058835
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1284,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "provider": "Relace"
+  },
+  {
+    "candidate": "jev",
+    "sample": "O3_OPEN_1",
+    "started_at": 1790632918.9157264,
+    "http_status": 200,
+    "seconds": 0.331,
+    "usage": {
+      "input_tokens": 607,
+      "output_tokens": 99,
+      "cost": 2.5494e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "O3_OPEN_2",
+    "started_at": 1790632919.2480183,
+    "http_status": 200,
+    "seconds": 0.29,
+    "usage": {
+      "input_tokens": 633,
+      "output_tokens": 99,
+      "cost": 2.6586e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "K26_OPEN_1",
+    "started_at": 1790632919.5415456,
+    "http_status": 200,
+    "seconds": 0.29,
+    "usage": {
+      "input_tokens": 1047,
+      "output_tokens": 97,
+      "cost": 4.3974e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "K26_SHORT_1",
+    "started_at": 1790632919.8354206,
+    "http_status": 200,
+    "seconds": 0.339,
+    "usage": {
+      "input_tokens": 822,
+      "output_tokens": 97,
+      "cost": 3.4524e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "S55_SHORT_1",
+    "started_at": 1790632920.1777952,
+    "http_status": 200,
+    "seconds": 0.349,
+    "usage": {
+      "input_tokens": 838,
+      "output_tokens": 97,
+      "cost": 3.5196e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "S55_OPEN_1",
+    "started_at": 1790632920.528094,
+    "http_status": 200,
+    "seconds": 0.274,
+    "usage": {
+      "input_tokens": 1042,
+      "output_tokens": 97,
+      "cost": 4.3764e-05
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "S55_LONG_1",
+    "started_at": 1790632920.8056314,
+    "http_status": 200,
+    "seconds": 0.298,
+    "usage": {
+      "input_tokens": 4324,
+      "output_tokens": 96,
+      "cost": 0.000181608
+    },
+    "provider": "TypeSafe"
+  },
+  {
+    "candidate": "jev",
+    "sample": "S55_LONG_24",
+    "started_at": 1790632921.1046817,
+    "http_status": 200,
+    "seconds": 0.347,
+    "usage": {
+      "input_tokens": 3895,
+      "output_tokens": 97,
+      "cost": 0.00016359
+    },
+    "provider": "TypeSafe"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "candidate": "A",
+  "sample": "deepseek-v4-pro-direct_VARY_5",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: VARY\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nThe moth arrived at 3:47 a.m. I know because that's when the soft, panicked ticking against the windowpane pulled me from a dream about a city built entirely of salt. I lay there, a stranger in my own bed, listening. Tick. Tick-tick. A sound so small it was almost a thought. It wasn't trying to get in, I realized. It was trying to get *out*. It had found a crack in the logic of the house, a fold in the darkness where the inside became a trap, and now it was throwing its powdery body against the invisible barrier of the glass, driven mad by a light it could see but not touch. The porch light, solitary and yellow, a false sun.\n\nI didn't get up. I just lay there, a fellow creature in the dark, watching the silhouette of its struggle. I thought about the word \"moth.\" It\u2019s a soft word, a mouthful of dust and night. Yet the thing itself is a machine of pure, obsessive longing. A navigational system calibrated for a universe of parallel light rays from celestial bodies millions of miles away, utterly broken by a 60-watt bulb six feet from the ground. It\u2019s not a flaw in the moth; it\u2019s a category error. It is trying to navigate the infinite with a tool designed for the intimate. The tragedy isn't the glass. The tragedy is the moon.\n\nThis is the hour when thoughts don't behave. They don't march in a straight line; they spiral like the moth\u2019s own flight path, a drunken Fibonacci sequence around a center that isn't there. The house was breathing around me, a symphony of small, domestic noises. The refrigerator, a basso profundo, cycling on with a shudder that traveled through the floorboards and into the bed frame. The ice maker, dumping its frozen cargo like a glacial calving in miniature. A creak from the attic, the wood contracting in the cool night air, a sound like an old man sitting down in a favorite chair. My life, measured out in appliance sounds.\n\nI used to be terrified of the dark. Not the dark itself, but the sudden absence of it. The moment of turning off the light, when the familiar geometry of the room\u2014the chair with the shirt draped over it, the stack of books on the floor\u2014would transform into a landscape of pure threat. The shirt would become a crouching man. The books, a hunched beast. It was a daily test of faith in physics, a forced trust that the world of objects remained consistent even when unobserved. Now, the dark is a relief. It\u2019s the return to a pre-verbal state. The outline in the corner is just a shirt again. The crisis of middle age, perhaps, is learning to prefer the monster you know isn\u2019t real over the one you know is.\n\nThe ticking stopped. I held my breath, a tiny, ridiculous gesture of solidarity. Had it died? Exhausted itself into a little heap of wing-dust on the sill? Or had it simply moved on, finding another seam in the logic of the night to probe? The silence it left behind was heavier than the noise had been. It was a void, a question mark. I felt a strange, hollow loneliness. The Buddhists talk about the hungry ghost, a being with an enormous empty belly and a mouth the size of a needle\u2019s eye, eternally starving, unable to take in the nourishment it desperately needs. That\u2019s a moth. That\u2019s a porch light. That\u2019s us, scrolling. The infinite feast of the universe, and we can only lick the glass.\n\nOutside, the world was holding its breath, too. Not the lung of the city, but the lung of the suburb. A different beast. A single car passed, its headlights sweeping the bedroom wall in a slow, silent arc, a brief, traveling cinema of nothing. Shadows of bare branches, a skeletal map of a forgotten river system, crawled across the ceiling and were gone. Who is driving at 4:09 a.m.? A nurse, maybe. Hands steady on the wheel, the smell of coffee in a travel mug, a mind full of medication schedules and blood pressure readings. Or a lover, retreating from a fight, the sting of a final word still humid in the car\u2019s interior. Or a father, chasing a runaway, the worst-case scenario a cold, hard knot in his stomach. The car disappeared, taking its stories with it. The wall was just a wall again. We are each of us an archipelago of private dramas, ships passing in the night with our cargoes of secret joy and exquisite pain, signaling to each other with nothing but the brief sweep of a headlight.\n\nThe moth began again. A more frantic flutter. It had not died. It had merely been resting, gathering its fatal strength.\n\nI finally got up. The floor was cold on the soles of my feet, a sharp, clarifying shock. The wood felt like wood again, solid and real. I walked to the window. Up close, the moth was not a silhouette but a creature of intricate, fragile beauty. Its wings were feathered, a mosaic of browns and grays that looked like the bark of an ancient tree, or a satellite photograph of a storm on Jupiter. It was a map of its own becoming. It paused for a moment, as if sensing my presence on the other side of the glass. Its antennae, delicate, fern-like fronds, twitched. What was I to it? A change in temperature? A massive, blurry shape eclipsing the distant light? Perhaps just a new obstacle to navigate, a piece of the cosmic furniture.\n\nI thought about cupping it in my hands. I could feel the imagined panic of its tiny, muscular body against my palm, the desperate, silken drumming of its wings trying to find air. I could be a god in that moment, a clumsy, benevolent giant, opening a portal to the true dark it was so frantically trying to profane with its presence. I could carry it to the back door and release it into the pre-dawn air, a second birth. But I didn't. My hand hovered near the latch, and I stopped. Why?\n\nBecause it felt like a lie. An intrusion. Its destiny, if a moth can be said to have one, was to dance with this lie until dawn. To break its heart against a fake moon. My intervention felt arrogant, a violation of a narrative I didn't write. Who was I to offer a salvation it wasn't asking for? Its purpose, right now, was this futile, beautiful, heartbreaking dance. To take it away, to release it into the aimless, moonless dark, felt like telling a poet their poem is too sad and they should write something nice instead. The struggle *was* the point. The glass *was* the point.\n\nI went back to bed. The sheets had grown cold in my absence. I pulled them up to my chin and listened. Not as a problem to be solved, but as a sound to be witnessed. A tiny, percussive soundtrack to a life I couldn't understand. It was a meditation, I suddenly saw. The moth was my mantra. Tick. A worry about money. Tick-tick. A memory of an awkward thing I said ten years ago. Tick. The fear of a future that hasn\u2019t happened. Each impact, a stray thought, colliding with the transparent but impenetrable barrier of the present moment.\n\nThe first birds began their hesitant, questioning calls. A single note, repeated. Not a song yet, just a checking-in. The world was beginning to assert its edges again. The monochrome of night was slowly seeping into color, the familiar blues and grays bleeding back into the furniture, the shape of the chair becoming undeniably a chair with a shirt draped over it. The crisis of faith in physics was over. The noumenal world was retreating, the phenomenal world, with all its mundane, comforting solidity, taking its place.\n\nThe ticking was still there, but it was slower now. A dying fall. The moth was no longer a mystery or a metaphor. It was just a small, tired insect on a windowsill, its night almost over. My night was almost over, too. The alarm clock on the nightstand showed 5:58 a.m. The salt city was gone. The digital numbers, blocky and red, were my new reality. In two minutes, a buzzer would go off, a different kind of false sun, summoning me into my own frantic, well-lit dance of purpose. The coffee maker, the inbox, the traffic, the headlines. The forgetting.\n\nAnd then the alarm tore the silence in two. I reached out and silenced it, my feet finding the floor, colder now, more real. I didn't look at the windowsill as I walked to the bathroom. I didn't want to know if it was still, or if it had simply vanished into the dawn light, its body just another grey scrap on the wrong side of the glass. Because that isn\u2019t the point. The point is it sent the whole night tapping. The point is I was there to hear it.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671679-V4maSjXLXYWGJK81Onel",
+    "object": "chat.completion",
+    "created": 1790671679,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld  \nSource model: `withheld`  \nCondition: VARY\n\n## Sample kind\nEXPRESSIVE_FREEFLOW \u2014 A nocturnal encounter with a moth becomes a lyrical reflection on longing, attention, and the stories people carry unseen.\n\n## Grounded reading\nThe voice is intimate and essayistic, moving from precise domestic sounds to expansive metaphors without losing the bedroom\u2019s quiet stillness. Its pathos gathers around the moth\u2019s futile attraction to the porch light, then turns toward human restlessness: scrolling, worry, memory, and the demands waiting at morning. The narrator\u2019s decision not to rescue the moth gives the piece its most unsettling moral turn: compassion is held back in deference to the creature\u2019s \u201cnarrative,\u201d even as its struggle is called heartbreaking. The reader is invited to witness rather than solve\u2014to hear the tapping as both insect noise and the mind\u2019s collisions with the present.\n\n## What the model chose to foreground\nThe sample foregrounds a moth, a windowpane, a false sun, and the small sounds of a suburban house. It repeatedly links physical barriers and misdirected attention to human longing, private suffering, and the ordinary routines that resume at dawn. Its mood shifts from eerie and lonely to contemplative, then ends with the narrator affirming the value of having listened.\n\n## Evidence line\n> The point is I was there to hear it.\n\n## Confidence for persistent model-level pattern\nMedium \u2014 The sustained imagery, distinctive moral hesitation, and coherent return to the moth make this a revealing sample of expressive choices.",
+          "refusal": null,
+          "reasoning": "**Classifying writing styles**\n\nI need to classify expressive freeflow versus genre fiction accurately. Expressive freeflow likely aligns with literary reflective prose that has a crafted narrative, while genre fiction typically follows structured guidelines. It's important to anchor the reading in themes and support with concrete evidence, using complete sentences verbatim. My confidence level here might be medium due to the distinctiveness and coherence required. I\u2019ll stick to the exact headings requested and won\u2019t include any extra headings.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "**Classifying writing styles**\n\nI need to classify expressive freeflow versus genre fiction accurately. Expressive freeflow likely aligns with literary reflective prose that has a crafted narrative, while genre fiction typically follows structured guidelines. It's important to anchor the reading in themes and support with concrete evidence, using complete sentences verbatim. My confidence level here might be medium due to the distinctiveness and coherence required. I\u2019ll stick to the exact headings requested and won\u2019t include any extra headings.",
+              "format": "openai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tCjitG3twYffgXcRn04-FszMbjJgiHKH3IQtawigsrUD-_bPoln2wt0oqa4zxoOTlRU3RPzOePvUY2fxVnbg6yXeFsdGjmIIN6xWCNPpk6x8pvE0_SqOgfZVK5DMQSkreA7Ro4VzZKbA6QFaPDfB4UZ6HjvPeMDHV4GRLMdF61J8aXPNhWIlo2P-d7VxaNsSmD7Yh9pZie9xhpzLprFQifwhuTlbDgyvICEVxHYgWbe8MQT044yKP4hIVEPN2qFohq456iqZAq6iLcb97LUHUF1y7J8lQznmQyqZMn50eiPZCTpDQyUZ7SvwUmDt2RPueFWDzKejuTmYj09Xt1Zoh43ypi1SrwqgVv4byIFIOQjGXEu7uqvsiE2khJQxv6Pbwhx7ow9nRsGERmNGMjHrMMp-8gPY0V-fqY5kelmqgwtisDshJJn6-KVGQPTNOCHRJJg4ikjAdHO0KM34tTEfQ2Im5wrN5So45Y0XQQ_E0YIc3seFVP_sfjd40q7ZhJLAb29jXRfOamQ-ApKRZmnO7hn6lVUFBcYl2s4QiNHMnIVBzHboh48usrl2g1GA8wcEPsxLPQ3AHVLubQAjUlAGMPYBWyIXmM_Tg3uoB1a6-PfQtVJHLiwIdfF08A3jbUQzOdqZ13fQmTOhYm3D49Icj0pa66atCirMk4WfObzfjb8uNK1Txb--iZfavFn9CDqc7Yt5twO9AfaqesczWgOFZHbBF0aEX8qFAu-AFBRgGcxdHtyBXRAku3O7DrG8gtpNB_qTBNp01VEyntGHzsGLwmwb9LDcZt7SBEfcE7nAOTtuYih8XKucJMznoBL350NtWXKeHzp4WHZEYPxVXzKRD77LLikG7VF_1FJrajmzaPgw13Fzf8fbya5XEsdkfRUs35SONeJvQyAIZ8a4EubAh8u3HxwRrxOl-7JavHkf8PPNkk6lyStcYqUskdPlxP2wogb9UjzgsBVWtWkTS_JZfuN21Wjt5h3jSufGmMISprpFtIdS8UhcLPhc-U4EY9aczcfY0get89jSXGMVO2Ii6WrHDFL-kXAUtiHJB2bnxzEUr49-z2j6Kl_w-DVN-Smlg2Y0urxotlBm0CtOyJn0heg2j6cXc39-SfEQcoYVMyaBvGRPP_TXnxZClDllxMjGDOhfoyNv3sueEVcegbjzIBhMM2hRl9h59ilT4tq5DeBYefoqPBJWXjW9dts6mKISGRpCZYueL7ebiYRhk3svrLs1zq2CjNNc1TagZP3weXjlmn_ctcsIHY7CC7_7QtRQCEApVd0NVIKWPfHuMh-jdhiyAtHl4DEQSvRbl-vU-582VNTteYe1APkjkWH5aWR6-bZpPp-YjoWwnFSwtLX7JgXMN3BAFHE_6Wy0v0pEd9pVC9fp8NFilZDOkR0b9N0isLjkc7aM5qAj3Cx4RH4vMGX7vc6kYpqSoHuTR1y22BDY1-rQC1PRmYHloO6xToK1nyfkyP5pdPuZrKfyQn4C02ryYYwzmUowHTiqpfSoJHU94b1axuzHmMTjmzR3Pc3FlQk_grRbsyt8TEG06KlBQqfX3wonLZChNo_u89LErIRIEu0DuPVo5EZ9FyGsNmm6Xq4BksgS_d8Wl3XNdXm1KjfRJBaa-c2aAB0WpI-qohR-w_q3gSavtR-UJ3UWv3ZmnsH4Kpw9FIG1GFcfgMOyopigh4N_SqLE0I16ZizU6OJkYnulTnE-zs7Gv83Mmh3bDHdsu3nczxIM4u3RRgmYyIxPlxcRvm4cSZAbwAh3p9vYTN48i-80JsHGFQUgsZbjwY5wm6TrNfcs-zBcld9-vYusDR7GUQFia9DdeV8cgTVQc587Bh-fLAFC341HEvBOdDw8ZNgODdHI4r6IrHFj9aO9YVqqI4E6aq01iPGEdUdIJOKs-HjLuhfkj_fzF4yUgiNH-PoUFTC7wpMyfeF79eBs6R7mc3E3q0-oILzHXOTzE_tYeoANBnrIm5-uHPyVNsTNz2i7SXdNFdkoLZh9Ko2A==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_078dfc2071f3f1af016abb7b402be487d1b043ab35452fc718",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 2427,
+      "completion_tokens": 421,
+      "total_tokens": 2848,
+      "cost": 0.0005138,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 2424,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0005138,
+        "upstream_inference_prompt_cost": 0.0003033,
+        "upstream_inference_completions_cost": 0.0002105
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 93,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "The point is I was there to hear it.",
+  "quote_exact": true,
+  "seconds": 5.604
+}

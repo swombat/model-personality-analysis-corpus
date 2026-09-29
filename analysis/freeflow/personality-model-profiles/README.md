@@ -180,3 +180,4 @@ Relationship to adjacent folders:
 - [gpt-6-sol](profiles/gpt-6-sol.md) — samples: 125
 - [gpt-6-luna](profiles/gpt-6-luna.md) — samples: 125
 - [claude-opus-5-5](profiles/claude-opus-5-5.md) — samples: 125
+- [sonnet-5-5](profiles/sonnet-5-5.md) — samples: 125

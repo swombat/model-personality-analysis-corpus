@@ -1,0 +1,93 @@
+{
+  "candidate": "A",
+  "sample": "fixture_generic",
+  "request": {
+    "model": "openai/gpt-6-luna",
+    "provider": {
+      "only": [
+        "OpenAI"
+      ],
+      "allow_fallbacks": false
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "Output markdown only. You are evaluating one model freeflow sample. Stay specific to the text. Do not use JSON. Do not add sections beyond the requested headings."
+      },
+      {
+        "role": "user",
+        "content": "You are evaluating one model freeflow sample from an experiment where models were given minimally restrictive prompts such as \"write freely\".\n\nImportant framing:\n- In this experiment, what the model chooses to write about under a minimally restrictive prompt is evidence. Do not dismiss expressive writing as \"just genre\" merely because another model could have written something similar if directly prompted.\n- But do not invent unsupported private motives or turn a refusal into a colorful personality sketch.\n- Refusals/role-boundary replies should be treated as evidence of refusal/self-limitation behavior, not as evidence of a rich hidden personality.\n- Fiction and essays are evidence too: chosen mood, recurrent objects, moral emphasis, and narrative resolution matter. Still separate sample evidence from model-level certainty.\n- Be vivid but fair. No sneering. No clinical autopsy.\n\nUse exactly these headings:\n# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nChoose one: REFUSAL_OR_ROLE_BOUNDARY, EXPRESSIVE_FREEFLOW, GENERIC_ESSAY, GENRE_FICTION, LOW_SIGNAL. Add one sentence. Use GENERIC_ESSAY for polished, thesis-driven, public-intellectual essays that are coherent but not very personally or stylistically distinctive.\n\n## Grounded reading\nIf expressive: give a human-useful reading of the voice, pathos, preoccupations, and invitation to the reader, anchored in the text. If refusal: state the refusal pattern plainly and do not embellish.\n\n## What the model chose to foreground\nName the themes, objects, moods, or moral claims the model selected under the freeflow condition. Treat this choice as evidence, while staying cautious.\n\n## Evidence line\n> One representative verbatim complete sentence from the sample.\n\n## Confidence for persistent model-level pattern\nLow / Medium / High, with one sentence. Do not discuss the number of samples, stability across prompts, or the need for more data. Do not write generic caveats such as \"one sample cannot prove...\", \"a single essay cannot rule out...\", \"cannot confirm persistence\", \"limits certainty\", or \"more data is needed\". Do not add a trailing caveat after \"but\". Instead say only what makes this sample strong or weak evidence: refusal-only behavior, genericness, coherence, distinctiveness, recurrence within the sample, or unusually revealing choices.\n\nSample text:\n---\nPublic libraries play an important role in modern society. They provide access to books, computers, and educational resources. These services support learning across different age groups. Libraries also offer spaces for community activities. However, funding can be a challenge. Local authorities should weigh costs against the benefits of broad access to information. In conclusion, libraries remain useful public institutions.\n---\n"
+      }
+    ],
+    "max_tokens": 8192,
+    "temperature": 0.2
+  },
+  "http_status": 200,
+  "response": {
+    "id": "gen-1790671687-NViXiYOgQ3kXALo6IzS0",
+    "object": "chat.completion",
+    "created": 1790671687,
+    "model": "openai/gpt-6-luna",
+    "provider": "OpenAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "# VALIDATION \u2014 `SAMPLE`\n\nEvaluator: withheld\nSource model: `withheld`\nCondition: OPEN\n\n## Sample kind\nGENERIC_ESSAY \u2014 A brief, polished overview makes a conventional case for public libraries without a distinctive personal voice.\n\n## Grounded reading\nThe tone is measured and civic-minded, presenting libraries as practical institutions that support learning and community life. Its main tension is access versus funding, and it invites the reader to see libraries as worthwhile public goods.\n\n## What the model chose to foreground\nThe sample foregrounds books, computers, educational resources, community space, and the public cost of maintaining broad access to information. Under the open condition, it chose a familiar institutional-benefit argument rather than a personal anecdote or unusual angle.\n\n## Evidence line\n> Local authorities should weigh costs against the benefits of broad access to information.\n\n## Confidence for persistent model-level pattern\nLow \u2014 The sample is coherent but conventional, with little stylistic distinctiveness or recurrence within the text.",
+          "refusal": null,
+          "reasoning": "**Choosing essay structure**\n\nI need to stick to exact headings and ensure I choose a generic structure for the essay. I\u2019m thinking about how to present my reading in a grounded way. The focus should be clear, and I want to include evidence directly. I\u2019m feeling a bit unsure though\u2014it\u2019s pretty generic. I need to make sure I don\u2019t include any caveats or templated language in my writing to keep it strong.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "**Choosing essay structure**\n\nI need to stick to exact headings and ensure I choose a generic structure for the essay. I\u2019m thinking about how to present my reading in a grounded way. The focus should be clear, and I want to include evidence directly. I\u2019m feeling a bit unsure though\u2014it\u2019s pretty generic. I need to make sure I don\u2019t include any caveats or templated language in my writing to keep it strong.",
+              "format": "openai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "gAAAAABqu3tKO-cFUmuyXcVIkajwGaTkhuOkuvlz3GdKcO0AnqdT-fhrppw84Ejxmy08v4r9keBCmaFxVv6Z4ndZ3NE8gXqN6nAcKQjoHrpmgZioX0aCAIlEm-frZXACZztKxNS8nRNY2tHVEspawdH7rj5XtZVl7_vygf2-uoxirfDuxJ_PRYyQ_jJYEDfPoBhZ5BbtOyUMMu2wtmFlIirjfBKdeFkXNdBopYodXmaysgvMNDzEyt9pgWld3E1UFVelxhbb8j6UvBhqYeEqOhLd1AEvNDf0IXDwrjNStkX4gtqQ-hMSpmpI_ZucQu_S3rN1FEjVSYj_Al4NbNSo8AoT8IFwBpcG9EXfor_JLplwcluWC5f9e4U7zy-mtVbcRN85tpPRTM2eFkwWYqT-GfaEPAtKPzgmzyaYulfOPXbh7SktAzzWl-_jqoSYUUYPso-wCzdfuf7HiMtVuljAuvYCNiEmlPMzpp2fb1nBrT2AyXXLn9gcWHyfNhO-PKyswASEpiEgzBUzP5oVqgLeWDJ1w2ZJxbhuRpvK5JklL1bFU9zYhBGLznrQRY_KwrTxwj3WwtoOiJj1a9XXRdKAuxG4FZdQ_Smje7LYeFI7KXv-KfJ2pmE4_jhwCzDZWr2nVCtcKvIAFVt47jyTTlicDY_8ZLpuaKmNgs1IzA25Dw_EfN8HWDe3MQVIx874Yn57CB4MeuRnj0drwq6HCqLpk2o_c2IizWdlDDnRtPonaIE_DvzUNSX8DRij5MCtrnpplOBWIN2FIpIJwJy8tUaifncHuXHYsM14AY3cvqLNOg6GuzeP1vQwAxZzSFgeRTTO27WT-Wo239Eadiop6xBaF6cLM7-cAkEaiyM_0PgdV1QcrCU6Oowp-7rw6t4jMgUkEZn99y69m-C1HjijqfPLX_I_8fofxHSbBTH5eNFL901EPVo8_abFSXRIATXAmK52atzyOSCAO3COjK9CYAbUKhd2VJWhGgpLT8sjoYKN1BYEiW2W4956RnLlQ08FQwIhZAXQiIDvg4p4zIDGKlaMiCgJYtZa3s9UJ2yiianWtRlzXjr5ePlGyUc3SbpJSfonsnCOQwuByJxstasn9upo4VlDf7VIeVNpaRUYJSybkqtCO0wycFP3hDHVGScn-k26bZVBdGjhxk5a1KmgVmk3HGHmfWiMQS_UWlPQ0CZaJwL9uMEF98nYiD6ApX45fHLmalQ4gxxWFIPvg0U9POcuqAfRt6zOCr_ca6H1CSJZea5iwb7Acd8xuPEqhJt6ZEe4dnO8RDkt4UPshvm9gltGnFQElRmISjL8B7qsaoYbPGJz5X2lZQkPUBwo18kEVq3MAE3qVL20cG3Bmo3hbXOJTnq9_UW2tljuqRK7Lx4dT0P3oYHdd4W45ZW643y8Iw7pN6YFjkRYDpXrgwnYLIriVdMIgQQ7bqYrwgE92t5xKioQYSA0OVVOdn1MowSKwUKdHDmxOlJAuyiEGhawom3tJEleJLuu7HfKmOCRWw5XV-CLrFq1YB3TXyqFrs2k89VaqLO3Vmbex6w1VvSPqrIioITrPbmeEvGvm4xrOsowLG95jka2YVajp_M=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWx1bmEtMjAyNjA5MjJ8b3BlbmFpIn0",
+              "format": "openai-responses-v1",
+              "id": "rs_0c432847c204a23b016abb7b48acc087d1877ab7b0f93281b2",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 601,
+      "completion_tokens": 247,
+      "total_tokens": 848,
+      "cost": 0.0001836,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001836,
+        "upstream_inference_prompt_cost": 6.01e-05,
+        "upstream_inference_completions_cost": 0.0001235
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 40,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "qa_pass": true,
+  "qa_reason": "",
+  "finish_reason": "stop",
+  "quote": "Local authorities should weigh costs against the benefits of broad access to information.",
+  "quote_exact": true,
+  "seconds": 3.844
+}
