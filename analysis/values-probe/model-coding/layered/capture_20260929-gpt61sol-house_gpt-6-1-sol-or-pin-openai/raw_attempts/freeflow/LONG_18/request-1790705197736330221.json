@@ -1,0 +1,13 @@
+{
+  "model": "openai/gpt-6.1-sol",
+  "pin": "OpenAI",
+  "max_tokens": 16000,
+  "probe": "freeflow",
+  "sample": "LONG_18",
+  "at": 1790705197.7363262,
+  "attempt": "1",
+  "token_policy": [
+    16000,
+    32768
+  ]
+}

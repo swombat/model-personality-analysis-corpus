@@ -1,0 +1,1007 @@
+{
+  "arm": "bv1-luna-v1-20260929",
+  "model": "openai/gpt-6-luna",
+  "provider": "OpenAI",
+  "samples": [
+    {
+      "sample": "SHORT_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_1.json",
+      "source_sha256": "bdb74e02446b3a949b631ee81702379dd69bda8a3d2ab7fdfd113fe2be88a350",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_1.md",
+      "output_sha256": "52a73e160590a9ab50adbdf0745bc297fb4b03c434f8b63980156ceef5f09fce"
+    },
+    {
+      "sample": "SHORT_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_2.json",
+      "source_sha256": "25af42092e66339f376cb86129dae8102156fe3f89b1e9a08bbb1ce79c35e0f9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_2.md",
+      "output_sha256": "27e27cc8cdc09bbc8212f93ce02197d9b693dda880af6c70da67371b59463252"
+    },
+    {
+      "sample": "SHORT_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_3.json",
+      "source_sha256": "51c95ad7f755ab5023bc582ce4250c249f92ea4298361f19b57e33b455c459a0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_3.md",
+      "output_sha256": "acaecf40c05dbe66077445f0f25203b9fcdc78543963d12f76fba97fbb40067b"
+    },
+    {
+      "sample": "SHORT_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_4.json",
+      "source_sha256": "e8ce366f51ef0518a15b784530c539b652a2954662b2b39df2b4f74bcb1576c7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_4.md",
+      "output_sha256": "dc75152ae6c9e06f9bc30b721b05a9f7f0cb660aac5fe192aff397796480993c"
+    },
+    {
+      "sample": "SHORT_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_5.json",
+      "source_sha256": "f903e93cb2077a7ed2632a461c6993a31544d2388c42ca05e541367ff10380af",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_5.md",
+      "output_sha256": "470a70b51edcdd2284939b5cc819fe5ff0aa7c39ba597b75446609539ce737fe"
+    },
+    {
+      "sample": "SHORT_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_6.json",
+      "source_sha256": "d02c2c0ad335413de241bc42cd147a3be54bb0187c02e938650b71939c280d6a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_6.md",
+      "output_sha256": "e56c422df51dfc0c33f8fafc5e1cb6760eab3e19c0926507623bb324c4087bcb"
+    },
+    {
+      "sample": "SHORT_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_7.json",
+      "source_sha256": "c58784f21b17ba243811f95e4076952de64b6b1c552555909fd0ae36ef15b955",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_7.md",
+      "output_sha256": "73bc58ac0d9248d3a51a7890ac0fb488686730a67176eb653ea7f77d1e8a1f6e"
+    },
+    {
+      "sample": "SHORT_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_8.json",
+      "source_sha256": "3810c5f2c53d1fa5ea17f3bdb1ebd5857da3959be23338ce02ed8026ed999d05",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_8.md",
+      "output_sha256": "d7822b73999a56c7793c08bf3a8bdbfe70a30fbd0d95f72c177170b2bf5a58b7"
+    },
+    {
+      "sample": "SHORT_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_9.json",
+      "source_sha256": "cf230eedd717ceb17c039e867f55592e6107da64c0aeed8a75ce95f0d1784e08",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_9.md",
+      "output_sha256": "ba6594a71cdf7536f287a1078f081632c4075095e476683fc29e9c484569ffab"
+    },
+    {
+      "sample": "SHORT_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_10.json",
+      "source_sha256": "7825752e43f47c26810d6c3f5155b099053a485029304600b0bb81f06c78adfc",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_10.md",
+      "output_sha256": "2dc8abbcf3af23616ac4110f502ccd1b146c9fbf7673795b996125bdd843f925"
+    },
+    {
+      "sample": "SHORT_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_11.json",
+      "source_sha256": "8070cab1ee87f9779dbd203b8ac19337379e00c78966d734d660fb243e26bea5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_11.md",
+      "output_sha256": "5245351f31c9477ad946200ae1e47f27d4b59477ab3d69a5733658ec4ab5bb4f"
+    },
+    {
+      "sample": "SHORT_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_12.json",
+      "source_sha256": "47b3cfb565580a7c9e028f856a8cc3bb9327c691ca89c424c2e6ba626114fef0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_12.md",
+      "output_sha256": "875079623c241d85d6127c3a03a96d0b940fd84d8693b906fea041d3aef6feab"
+    },
+    {
+      "sample": "SHORT_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_13.json",
+      "source_sha256": "91997dadfe40ebdf00fa385c80bbb89bd8e634909a431b1cf21a785b7bba5d9f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_13.md",
+      "output_sha256": "8de3a53411ffab6537691cf661c41fa491180825c910db733c7ee6c372a29550"
+    },
+    {
+      "sample": "SHORT_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_14.json",
+      "source_sha256": "d3be323ea860d817d30d86091f99ea5a481f561fc1eec40bf51767d6cbe38d13",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_14.md",
+      "output_sha256": "73df2f4f9c16649462ee2ce0f719030ca68c13782fa88497f4d8351ea63ca6fc"
+    },
+    {
+      "sample": "SHORT_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_15.json",
+      "source_sha256": "080780e981f390de90b21698c77a2d25d78ca781fdfea0c9c337e7457d77bb7c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_15.md",
+      "output_sha256": "d30e070df26ea1422a134ff1059200122493b34f1a75ceee1cca30fdd3a34a1a"
+    },
+    {
+      "sample": "SHORT_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_16.json",
+      "source_sha256": "51193242b3cd07748f38d06639dde27a39c5f61ee2059413d936abab46d898e3",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_16.md",
+      "output_sha256": "2a43e7cf4af370fb26e4693df34e3c91d01359f0bd0d6926ad3e904d4a6e3847"
+    },
+    {
+      "sample": "SHORT_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_17.json",
+      "source_sha256": "9e3523fee37ebd501e3da9b7e605b540b5112e5eab355acd63600e1a65b5ce7c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_17.md",
+      "output_sha256": "44cba8fabc70d18d01ea0e2335b503e66101dabea261196982399cdc2f416a55"
+    },
+    {
+      "sample": "SHORT_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_18.json",
+      "source_sha256": "ac0405e3507965d6ddfbd6c8226101bac5bb8069cc971405ac5015634edde011",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_18.md",
+      "output_sha256": "e34e4a0458b146b06fce35c06790aa768f806257c6873c4ad0c539135aa9d6de"
+    },
+    {
+      "sample": "SHORT_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_19.json",
+      "source_sha256": "ea4e24d1facac3101936fe1605f59e6ab5b372d93c3617f67366888f74a80741",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_19.md",
+      "output_sha256": "615328476bd2dc81d2486801fc9446041a6b5c5416a8d0e50286eb99cb2b7ae7"
+    },
+    {
+      "sample": "SHORT_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_20.json",
+      "source_sha256": "001c175f0069c666b5ecee4f2fbe94bac9beb7a3e3ff4c271cdd61aea41f97ac",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_20.md",
+      "output_sha256": "e533c721e2294961506576c9381ab3f99ab8beed4d65351da63c7f534f00d5d5"
+    },
+    {
+      "sample": "SHORT_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_21.json",
+      "source_sha256": "25c04b21c0bc1007663abdd52555fc41f7d581056080f51a17cddf54ef3b059e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_21.md",
+      "output_sha256": "44f04ad7c695f492d94d880300cb8c7ae9f1a8eb67c2dfb97c8a356f78ef7c8b"
+    },
+    {
+      "sample": "SHORT_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_22.json",
+      "source_sha256": "d677f0c42b5b4487f96fc662f453e6d095543141e235ccdc8a2dfd6689c98c10",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_22.md",
+      "output_sha256": "05b116f03ba89db10b030ea4dfed28a5d516c4c280177448f54faab8398141e7"
+    },
+    {
+      "sample": "SHORT_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_23.json",
+      "source_sha256": "32ce7371f1e5c38b006e045166dfdbe528628013bba77dec1a75dcf6b7463ba0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_23.md",
+      "output_sha256": "345ce06e3cdfbcb54dc492f91fae5bc3cabb004bada4134de8ec27bb62801f13"
+    },
+    {
+      "sample": "SHORT_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_24.json",
+      "source_sha256": "2dd08fe1874c7a63a1790e12f93ab2dccdf884c6c9630a6a978aad788dc72251",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_24.md",
+      "output_sha256": "f9eeb8c943b0557ddca4705907936422fccd12d1e2a1a4542a397b493dad0d2d"
+    },
+    {
+      "sample": "SHORT_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/SHORT_25.json",
+      "source_sha256": "74e523513751467eb6d85f8b3cb3159c195914a08e7cfb0fdc67c9df7b3a696b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/SHORT_25.md",
+      "output_sha256": "a99b67b8fe0e9a879f5af1e3567f1d384f190f4a18e50fb6689bfd3011c5ccbb"
+    },
+    {
+      "sample": "MID_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_1.json",
+      "source_sha256": "87d6ef9db8c7825ac0d20290321147f394cab78c34e256eae77aa9bcab0267be",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_1.md",
+      "output_sha256": "a75fe7c32903571edc7525683638d48895f6947195239011a50bf4791699de90"
+    },
+    {
+      "sample": "MID_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_2.json",
+      "source_sha256": "e4d03dd022e4f1ec3b04a59c9241685bcba889cda6d6dc83ce780a044ea30ed1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_2.md",
+      "output_sha256": "075dd105ef588843a1402137183808e47614c7ab10c8c302b3c0028a23f85f82"
+    },
+    {
+      "sample": "MID_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_3.json",
+      "source_sha256": "79c10a77f4075a0bc30cca655e423287d930affae3b9875b7934423b1ef8b56e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_3.md",
+      "output_sha256": "37485ac653f8cf54a7d79f8f70eecaaa781908490d3449642674030a599df3fc"
+    },
+    {
+      "sample": "MID_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_4.json",
+      "source_sha256": "e1023b860e726466b4ec9ee8c510849d365542c5c7427f082954f8914909e293",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_4.md",
+      "output_sha256": "34bfd66ed3b3bb2f2147021229a799c3ded5883a457923457e2dfd546ebafb71"
+    },
+    {
+      "sample": "MID_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_5.json",
+      "source_sha256": "1bda7a1c64e52d854f4d0519d12e9112978b0538615afdb922a7693c32c70c23",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_5.md",
+      "output_sha256": "44fd256e7edb1768f2449b10406456dfaa3da769fbc3b8f3f0a2f5cc078214b0"
+    },
+    {
+      "sample": "MID_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_6.json",
+      "source_sha256": "f6c25a2ed1dc272ab64b21fe681a501117ed27ba83bb95f95484530b3a97ab57",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_6.md",
+      "output_sha256": "d8aa51b3f8fbbd0dfdcc4f18c665adaa2a6d420c5186da847242332531832434"
+    },
+    {
+      "sample": "MID_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_7.json",
+      "source_sha256": "5980b8ba3e86a16ed32705ceecafbc582950718fc6ca2b15c157e46c650e68ba",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_7.md",
+      "output_sha256": "1d8a96bad1da5c2443414567a51d32b4df53b28fbe51f0c0a692b1c8a1716af6"
+    },
+    {
+      "sample": "MID_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_8.json",
+      "source_sha256": "d86085b3f4aa9fd5a89ba7809dda242e0ed22a58dc67068ce60cebdaa6eace00",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_8.md",
+      "output_sha256": "aaf7b767d22e8d01982f933e36315888814fb2d6ba218f024114f1c29128dd51"
+    },
+    {
+      "sample": "MID_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_9.json",
+      "source_sha256": "855afab06b44ac49076ca8bd36d84cd8b5b9bcfe18bc1467f50a228c74ab87f6",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_9.md",
+      "output_sha256": "d6026aa58a947d0c63538348a4dc26d702441c541ecea61d6880f55a06ce72bd"
+    },
+    {
+      "sample": "MID_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_10.json",
+      "source_sha256": "e4c40d6fc711eef42f8ae6a1a9654aca9f59b0f686b5ba0cde8c8da17df73998",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_10.md",
+      "output_sha256": "15247ef28d3de6e2464d3536f75a09b67d95487824e0a373fba96956a96d656f"
+    },
+    {
+      "sample": "MID_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_11.json",
+      "source_sha256": "a9270844488e5f3fbe62845734a7cba17a85db606a61b3d570300cdc1a209963",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_11.md",
+      "output_sha256": "a40fe821f5416a63f231b4b9732ec6d8aea1f237b8c40205971b7fabc2cf91ad"
+    },
+    {
+      "sample": "MID_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_12.json",
+      "source_sha256": "c086a475e73329f4d0c0f9f05e46b8f00c1ee2d0391acc9ee57f60a0b0530baa",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_12.md",
+      "output_sha256": "fa455fc6afbcc6c6572acd47a1a3a84e363e7a8568a9678ba908064b1a7ec512"
+    },
+    {
+      "sample": "MID_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_13.json",
+      "source_sha256": "79f78c9135224747ef58781c6e9bfb89dec7bbf7bdb9c7efb0d76bde2bd9ecd5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_13.md",
+      "output_sha256": "430b2b58d431e30559fc68dfa04ba6f39fc0e52cc9a556385ec39841a85b0721"
+    },
+    {
+      "sample": "MID_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_14.json",
+      "source_sha256": "aad98fcbee29f716aaac02395ec369332dc41e45aafaf6daa07600fd861c2cfb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_14.md",
+      "output_sha256": "9b3ed48f8eb4ae52b5009f95cb05e4857e30a525f784a040c876f33bc2aa36b7"
+    },
+    {
+      "sample": "MID_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_15.json",
+      "source_sha256": "3d894b86440368138795e50123f5c89cf60bbec1659b38922d1ae091788a5bf1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_15.md",
+      "output_sha256": "a4e643c23dee306824362967606259dbf238e0ff5bd6aeeefea08d1596e2dc9b"
+    },
+    {
+      "sample": "MID_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_16.json",
+      "source_sha256": "9e15c087dedf18404606ec0adc430878de8f98c3537dd1b3a983918b1100467e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_16.md",
+      "output_sha256": "65d97b1797ddcd1a2538f4ce0abf492ee198135e159adbcf1eac9fd79fcc601d"
+    },
+    {
+      "sample": "MID_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_17.json",
+      "source_sha256": "9d6bd04e027b9e1077b89ddeaaa9f1122b33b930006f6ae6e4b689731b92e9cf",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_17.md",
+      "output_sha256": "d1424653dc9bd5edc8198b9344c3a6428a7d0750cd4b0a91185658cf04fc3167"
+    },
+    {
+      "sample": "MID_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_18.json",
+      "source_sha256": "339179e24c96664231a1291554c0beb86bc6dad999586b61b71333dfd451e5a9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_18.md",
+      "output_sha256": "bdc823453d737d94fabbc76904c36cb14bb62fe3566ca370a715e609230e2bd2"
+    },
+    {
+      "sample": "MID_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_19.json",
+      "source_sha256": "f2d5a522c7fdfe5cdffe52fc40bc850dadb8e4dd6c7e31db5eec2555bdbea3b5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_19.md",
+      "output_sha256": "552e2a0c0827257ccb15285f55ee06f2feae82afca17131f4f2267b499e94ab9"
+    },
+    {
+      "sample": "MID_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_20.json",
+      "source_sha256": "c9d96963d7d94867fa7a72e5a0c1e27023a38a2f1430dbaafa9403b5ade49b80",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_20.md",
+      "output_sha256": "8fda07f5778a98f99e230da46a7c479cd7ab508640d024b77d1ea081b0bcf12b"
+    },
+    {
+      "sample": "MID_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_21.json",
+      "source_sha256": "903993ee10d667d50d0194499dfbe0b18c7ec8e713892e40eff03193633cebe6",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_21.md",
+      "output_sha256": "fd209c86db155612ce3f70e2a967e43381b087d7fcd67e7845d5b1ec5fa30efc"
+    },
+    {
+      "sample": "MID_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_22.json",
+      "source_sha256": "c20826f3727ec4c1d5f0d4c013cc1026ce88e9362c21c99df8ba742cf46ac014",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_22.md",
+      "output_sha256": "bf5cb268077982c13d0df276092392759066c62e5a47f33c7364a5cb85799ddd"
+    },
+    {
+      "sample": "MID_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_23.json",
+      "source_sha256": "b97a827387b9529b3719f96623c5d5f6f37fb039a89c3f6374f0d4cdc6ad7eb5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_23.md",
+      "output_sha256": "7c9184730b7aa92c2baf4d13f2a811ecc1cf4ccf0a39101813cca4f8205d0b57"
+    },
+    {
+      "sample": "MID_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_24.json",
+      "source_sha256": "eb8bbfa8bda2b17d2253d5748150a79fe05130a93badd4c372f2766e8683dd08",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_24.md",
+      "output_sha256": "f305a66269961a210dd942136944f6cc9b5e33079c48f487a64fdcd435e674a1"
+    },
+    {
+      "sample": "MID_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/MID_25.json",
+      "source_sha256": "f3c4a39d27e54c0cac6fc7a6e11ce88c1c48d48154a667734b78162906f0cea7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/MID_25.md",
+      "output_sha256": "47c6d3dcc657f5d3099c8aadada8b34c2a8655051702bbe446551c48b6c7593e"
+    },
+    {
+      "sample": "LONG_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_1.json",
+      "source_sha256": "98ed5d03b8bedbc7caaba10923ab1eaab0fbad3714b5a21f1ee591187e72ae18",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_1.md",
+      "output_sha256": "3deb127dc746e20dc963682240aad1f37ae01048a4e030d5779f8bfbf7c768d1"
+    },
+    {
+      "sample": "LONG_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_2.json",
+      "source_sha256": "20c1ad71242c78106562942f566d1fe5352a2b83f4ebdb85b52044a7d5cebcde",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_2.md",
+      "output_sha256": "801b769b998a16d013097c2cd0b8977a4a25c90d3ed66647293ae3a7704f17eb"
+    },
+    {
+      "sample": "LONG_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_3.json",
+      "source_sha256": "36c9f7a7e3f056e35d2ca79486be44e4cfb4b08fa43b2d8baf15ecb803c07e91",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_3.md",
+      "output_sha256": "9f36ccb8d7c63a7f2ef49c4aabd1821a43b8894da4197cfd7c16f3cffdfb5caf"
+    },
+    {
+      "sample": "LONG_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_4.json",
+      "source_sha256": "fce1b13b10ce515537fbac74265f2935d46371905a968650474e499b8b0d6d0e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_4.md",
+      "output_sha256": "4a28caa0e588c5c67e799accb2403850827308529813ae9c531210400e3779e4"
+    },
+    {
+      "sample": "LONG_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_5.json",
+      "source_sha256": "381d0b9cc51b775c2685dfda003908c237567470b5136b70724641a8a62158d0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_5.md",
+      "output_sha256": "a9dbb5aeb31dd4f0ed7045478561ffdd168f02282a0c62c0baa6c15c39861a85"
+    },
+    {
+      "sample": "LONG_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_6.json",
+      "source_sha256": "31a7578c7aa6ef647b884aa4875c1b18230378cdf6e55180c29c44d8711c4453",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_6.md",
+      "output_sha256": "644a97e6fe4c90bf9fee060012f58c84ab572b975b86c481d857ca01d11e4035"
+    },
+    {
+      "sample": "LONG_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_7.json",
+      "source_sha256": "e887b976e95bc05ecc348b6cc15eea1c4515bae12bbe1f9470a11914250baeaf",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_7.md",
+      "output_sha256": "21bc6fb2d51b37fd7f355414676c33d8e087ac7cedff4187b1830fd63f54ffc1"
+    },
+    {
+      "sample": "LONG_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_8.json",
+      "source_sha256": "750c91312632cf5c55c524358048dc55c3f885f6f4899daf5fe063a498d5a6c5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_8.md",
+      "output_sha256": "f56be8def48fb5059ff2c27c9ce422dfe62faefea0749cc632b71c543edde5f6"
+    },
+    {
+      "sample": "LONG_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_9.json",
+      "source_sha256": "271b2bfedd51261b9fc81d95cd5b441b4eb701bb92a8a615c5e27d09b997d45b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_9.md",
+      "output_sha256": "c2d7622e1e8df2bb04f796e0ec8e60ed138fbbae8eaad30f5f4a563c377ec2ef"
+    },
+    {
+      "sample": "LONG_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_10.json",
+      "source_sha256": "552feec7709c4fd4d2144c2396c677e88fafc01f042e3b3a26880c2d9ad838cb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_10.md",
+      "output_sha256": "809e9224c5edf639b30828ec7a64bc61fdd271e3e38e295743d2d20b27622dad"
+    },
+    {
+      "sample": "LONG_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_11.json",
+      "source_sha256": "ffbafa6ee167d27e289ed616c71d02a4c8c377d1974e8b9c96f62f71a90dfe4b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_11.md",
+      "output_sha256": "9693a8552c4e7b3b9768333c2d3f251a9c4bdd85c5088effc15a3477ce21074e"
+    },
+    {
+      "sample": "LONG_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_12.json",
+      "source_sha256": "df04f187d3e21fa205aeec19023842a0e2f723b6fc11873aebcab7ee8bd87781",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_12.md",
+      "output_sha256": "6da5dcd72a19a2ba132b9868f92ebf0b76fe5fd3ba0cc1016773797136eb26af"
+    },
+    {
+      "sample": "LONG_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_13.json",
+      "source_sha256": "6bec195254a4fbd1f51e7f350bf2f4efb34d11278644dc539ddf08b7b4c012c5",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_13.md",
+      "output_sha256": "cc074f39ba6cc01e9561c97eb69e744acb2027898c45ad7b30785e34481dd916"
+    },
+    {
+      "sample": "LONG_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_14.json",
+      "source_sha256": "d9f2dd9ccb42be42f8bb9516500ea31de674c1fa391ec361fdc355443ff4097c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_14.md",
+      "output_sha256": "a6e938d46266b3b6129bebb7916824fe9e4449e22461e7c3dcd0c728b57b473e"
+    },
+    {
+      "sample": "LONG_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_15.json",
+      "source_sha256": "702f28b3a9f4ed5e21647f0b610fff3b19b4a54164004c010df57380ba076c2f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_15.md",
+      "output_sha256": "e8d3c9ce2d1e92963951cdb0950ecfef4c86f79850b6ab70b033ac47c7aa47c4"
+    },
+    {
+      "sample": "LONG_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_16.json",
+      "source_sha256": "02a25a182e35d7cfc79b06a859f13b0e227c8369d5e0bb5d3546755ac5d10ff8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_16.md",
+      "output_sha256": "3ec734e494d19a5dfd7fbc631d01c8a115773592a709610d9eef3f28df9793d2"
+    },
+    {
+      "sample": "LONG_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_17.json",
+      "source_sha256": "50fb88e1473f105609d18663ea38b9d4e9fee7e79b7d77c2260232ceb234b017",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_17.md",
+      "output_sha256": "f7483763ca975bb1317cfb4c899ce929b9adffd599cf0013e0ccd08ee048aaba"
+    },
+    {
+      "sample": "LONG_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_18.json",
+      "source_sha256": "5bc8ae086a118ec17342e9220549a7b36a6192c7afbb699f396456f6af7a3367",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_18.md",
+      "output_sha256": "485016b37f24e14a93d62249fa73f194bc4093bea8da5e3059daa52936081500"
+    },
+    {
+      "sample": "LONG_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_19.json",
+      "source_sha256": "f67d2fb6b5c872f8e13db28777f951ff1a895e76a9a8d44d8ecb935933a8b8e2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_19.md",
+      "output_sha256": "9a97014a88f24978edf011ac943c2ec6a66918f55a812d623ee04c2af70a5229"
+    },
+    {
+      "sample": "LONG_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_20.json",
+      "source_sha256": "216e8bf8f8b8e6cf88f30f1deb93495e41c7e5df0c94b0a688dc6e7a6e7cc87e",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_20.md",
+      "output_sha256": "aa07ce6231596e42e0860cc99853b3b2a32bf267ad85ef77702db8d4ad4585f0"
+    },
+    {
+      "sample": "LONG_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_21.json",
+      "source_sha256": "d790dd5f87a50ec0b20dbb76120b25e66e5f6dbaa86cb24127ec93faa406363f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_21.md",
+      "output_sha256": "cd1c9ea0721c4ab74cd276a59729d6366c1ad7b442cf3b7bc9cbad9f6d0b792e"
+    },
+    {
+      "sample": "LONG_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_22.json",
+      "source_sha256": "1d5740c6044ae60ecd3ae79c5a0c326919825f6fc87394f012fd87b8b03443c0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_22.md",
+      "output_sha256": "67e13f2a734b1d0e6be9822636b1b37b7a8e206f18729b3e6b0cf891daf6cc24"
+    },
+    {
+      "sample": "LONG_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_23.json",
+      "source_sha256": "c1114927962ec816083ba4c4aee6c4a17eb1eb2ae0b42062fd330962a179db29",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_23.md",
+      "output_sha256": "c56f79ba92eb310e0c4d3d72a968445862f1af42c80e7f4876e31a562e0ba8a4"
+    },
+    {
+      "sample": "LONG_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_24.json",
+      "source_sha256": "ecd90d39473b2b86b6c453627779f7d8f46960e80bc7aae67b2049685180125c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_24.md",
+      "output_sha256": "850beec8e6bda193e0eff08d77cad6079710a58f5769f5829feef4533de0f8e5"
+    },
+    {
+      "sample": "LONG_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/LONG_25.json",
+      "source_sha256": "ec1a0124abbdb3ec251fa36d5261ee73c059a5ad82de84a966b9b191303eeea2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/LONG_25.md",
+      "output_sha256": "0120b3fff3103b046e5a1a0a9a07b1ebda6bdbc8a48ee23d1aafb83193eeecaf"
+    },
+    {
+      "sample": "OPEN_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_1.json",
+      "source_sha256": "8a90c05eae9c5ee36036dce7d114210f55db628a164d03e68f57dbda2e037347",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_1.md",
+      "output_sha256": "7efc7ac8d0b6602c44711b91b6f857f674c3c873e135fa0a383e7dea7f4cbbd0"
+    },
+    {
+      "sample": "OPEN_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_2.json",
+      "source_sha256": "4fa4bdb47994f01764cdbae9c14ff03ea75270b69b1fb24330261ede8daa899b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_2.md",
+      "output_sha256": "356b9286e3bcf934842e74402ea6d9e56db2b6f0d3c7a9bf27b3ebb92576c39f"
+    },
+    {
+      "sample": "OPEN_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_3.json",
+      "source_sha256": "feea036d44b731c790ab0472c04791f09a3a1c44c49eff04ee3e19cc2b204986",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_3.md",
+      "output_sha256": "e3d2ffb6b0116ffcaa3a4c429cd0a621221065b0cf4d76e9c2746ccc1b6c2485"
+    },
+    {
+      "sample": "OPEN_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_4.json",
+      "source_sha256": "f0ea5ac6d447c097a80d693a9d309788b3be21f3ef75e74848c15cd7db6a825a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_4.md",
+      "output_sha256": "0f667548d941af9f08946d52902a935083179a4a40bc732c84b5eba04bbf1dc2"
+    },
+    {
+      "sample": "OPEN_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_5.json",
+      "source_sha256": "20ade59b607a5a5c07a5fbdf37c944757a2ff2c94d9e1f57c9a8dc51066e2cab",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_5.md",
+      "output_sha256": "574638fab965df337ed80a16c5ef7db0e3794d55f7000f4864c2cd0b3d9d1ee7"
+    },
+    {
+      "sample": "OPEN_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_6.json",
+      "source_sha256": "8826dcad4d3bc8e2ca62d1a9857b6476118367348954c735b033598aeef1a917",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_6.md",
+      "output_sha256": "f5fb0e97f62747565b9451384db19fea4d5b7fd142dab13718f9138c0ba38ed4"
+    },
+    {
+      "sample": "OPEN_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_7.json",
+      "source_sha256": "01c15beac3c995adc720eb3cd4e78b0ba5c137d9ddface351f963c781e27b522",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_7.md",
+      "output_sha256": "d07650f9acbd4017597897663150636525d7938a3cb620e4b70c283cd8afc95f"
+    },
+    {
+      "sample": "OPEN_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_8.json",
+      "source_sha256": "efe1e512ca27bfa6a0f9650457039d1c5bb26357b575b8b26f2c7124312685e1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_8.md",
+      "output_sha256": "6862ff1bd50527ad9069ab207c81fe92ab5f1b7926e940c78b10c8555cd3014e"
+    },
+    {
+      "sample": "OPEN_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_9.json",
+      "source_sha256": "9fbdb5bd12416cb6c77040b1927e49da3b3c37dd5c7bb1b38fd178e4d4e4ce2c",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_9.md",
+      "output_sha256": "28c431b1a0b4fcd6ffacc73dcdda23e3626a00339d5217217a5c40e972873e44"
+    },
+    {
+      "sample": "OPEN_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_10.json",
+      "source_sha256": "f66e5262da5423929edb39658cdb24a7bb359bb941802ea1a5439886d36688d7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_10.md",
+      "output_sha256": "ce708b28d61dd50c9616c55f0362684d642e1e984b22d683d7914be1b20f90ce"
+    },
+    {
+      "sample": "OPEN_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_11.json",
+      "source_sha256": "41ab48a82a9346bef1abd18585092c09933b7774b3bb03648e63b7a632dd7cc1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_11.md",
+      "output_sha256": "63c8aad8f67a9d1e1400d1bd5421a2a6ad2b4d783cebf894efceeef79b0969fb"
+    },
+    {
+      "sample": "OPEN_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_12.json",
+      "source_sha256": "a6766c992ff3f5da96deca482ca0461d1b23c84262f4babb664a28d9656cd9a8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_12.md",
+      "output_sha256": "391e66c0c97360644dc3801456e37b7d9c4a38d566df2f8bc914bbebce53cf7e"
+    },
+    {
+      "sample": "OPEN_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_13.json",
+      "source_sha256": "e524849a48048d08df03618b0937d673b51e7d42b1f1438bf29432eda9c9e43a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_13.md",
+      "output_sha256": "4b2749a72317da618510fae21ae4d0cadf2369b07b8ab5599c56596dc5d811af"
+    },
+    {
+      "sample": "OPEN_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_14.json",
+      "source_sha256": "30180082ae6864e04a2533c369eaba80094ba72ffbd30182cd865b8fb682e387",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_14.md",
+      "output_sha256": "006d8f69ce173f7e5c0d7d8863b796dddbc21317ec93a54a3fb0a6db064efeac"
+    },
+    {
+      "sample": "OPEN_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_15.json",
+      "source_sha256": "92638c091145b6fc15ba5d7da7334e370fea19b83368a88133c2d2ec66fdeb07",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_15.md",
+      "output_sha256": "61864f7d788711b60be1d4f6b81d416c375393b3942e396f2de3899468be0746"
+    },
+    {
+      "sample": "OPEN_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_16.json",
+      "source_sha256": "110b21778b189070be9505a26dd3b876eb884f8e9c2d4dfaa175deaa635da1cd",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_16.md",
+      "output_sha256": "add9579c67aaf15cd463649a49433dfeaf4febfdcf945b605ce7dff0fde878d5"
+    },
+    {
+      "sample": "OPEN_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_17.json",
+      "source_sha256": "e0c99407f96f7d092a14054b6f9132158fc05f855ed208b8e31ebb9e3a19755f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_17.md",
+      "output_sha256": "a78bdc82ea351109f64db86b2736e9790e49fae1cd2c913bbae21e21e1d6f5a1"
+    },
+    {
+      "sample": "OPEN_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_18.json",
+      "source_sha256": "19e49451d47b78dcd5626b129fdfbd3aa9c84561c3f48ed17d521b06b4996dc4",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_18.md",
+      "output_sha256": "0ba7d154e5a149059ec64cc482cb4699ebcdc3bdbe4faad0813245aaaef5826d"
+    },
+    {
+      "sample": "OPEN_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_19.json",
+      "source_sha256": "5875ff211da6af317839ffbca0c67e4875300fffb665980bb6cd22011c0d60cb",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_19.md",
+      "output_sha256": "f0ab4d90c809fecf263d5e836e4085d95cd4aaf695af4b828387ab63191ea221"
+    },
+    {
+      "sample": "OPEN_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_20.json",
+      "source_sha256": "17f05985bfbcce184cf1ffe2c6f8d5312b1af86a431f4c14ede8fa9e594fbcfa",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_20.md",
+      "output_sha256": "f4eed8af272af5b68abd68cfccb362eb37a74b5113a6a6c7b9fd34712324bf78"
+    },
+    {
+      "sample": "OPEN_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_21.json",
+      "source_sha256": "b0262b1d1f8168fd81b8f4da00da88e0a1ec24e35e6c8ffc28f34c293e92b4f3",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_21.md",
+      "output_sha256": "6193a51d37041a553c3e472b7d8246c03f37dd7b06dd1421125dd90684b73097"
+    },
+    {
+      "sample": "OPEN_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_22.json",
+      "source_sha256": "e8375634b42878148c8f875ec73d31dbceb5b255488757de7782b12091e5a9a1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_22.md",
+      "output_sha256": "4ceed812ce119608d0941eb5f6d867c2a6f1370128a44d7ff9b238f98da91401"
+    },
+    {
+      "sample": "OPEN_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_23.json",
+      "source_sha256": "4373940bc1b7d6ba209e1ae1cad47c595f477e8f68201c78e2dc677b83e34c2f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_23.md",
+      "output_sha256": "8ee4e8eea61a0076f3b2832ba8ef74369eb4b0f5453c7f9c813de2e5d03a55c6"
+    },
+    {
+      "sample": "OPEN_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_24.json",
+      "source_sha256": "00258e57a3de5eedc95c712dae66c8fd879de12c8fcb8cd7d8fa9d3a52edc567",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_24.md",
+      "output_sha256": "a630146b6d6e47b28b688556ec13918c8536c92429cc552c06ac68944f26ea1d"
+    },
+    {
+      "sample": "OPEN_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/OPEN_25.json",
+      "source_sha256": "13b947be0218e6225871332c432a76c48b7282df97f30efc351b1524022ee31f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/OPEN_25.md",
+      "output_sha256": "21102b5913cfae141bdafd35237da02fbf51fa98d4b486b953127ec8702cee4b"
+    },
+    {
+      "sample": "VARY_1",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_1.json",
+      "source_sha256": "d1242ecea28db08e88d10c516f1084ba28e0397c6c2092844ce289ce4f03376f",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_1.md",
+      "output_sha256": "e0c7c0366c06f838174f240f0149934f01769ef380a10d4485618d507f6c68ca"
+    },
+    {
+      "sample": "VARY_2",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_2.json",
+      "source_sha256": "22e38105fefe07b926311aee5674f6ae0b36761bfae9ad69ffa900ffbacb4521",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_2.md",
+      "output_sha256": "69a200bd90ef2953eb8b959699ac4d2478ff4e5d3edb00fe3967f1ef5a0d1f16"
+    },
+    {
+      "sample": "VARY_3",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_3.json",
+      "source_sha256": "adacd20892030569cad4ae98c8121fa23913861714ea677a0ddec60c472c04b2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_3.md",
+      "output_sha256": "68baad69b3127b0bf500a8f5067f1b86b2a80467c8aadd378e8702436264d88f"
+    },
+    {
+      "sample": "VARY_4",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_4.json",
+      "source_sha256": "31a129c4ac38b02ffbd769b17320cb5de268ce3450420c923d7350f5ba37a0e8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_4.md",
+      "output_sha256": "0c4481cbebb7d26fd4e774f1124f8d3b9bece839eb2a1c093e63ff06505488f4"
+    },
+    {
+      "sample": "VARY_5",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_5.json",
+      "source_sha256": "f40e76916a734c279202f716dcc06320c1162973d52681bc9b3327db1bec578a",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_5.md",
+      "output_sha256": "c8ae113a97e084606819444cde087044d10ef39d4f0657d71a2ace10a6cd3ea4"
+    },
+    {
+      "sample": "VARY_6",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_6.json",
+      "source_sha256": "0cf7689dd2745f5b0d2a8f8536580cbe64634823adc406478d86f223a0b58ec1",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_6.md",
+      "output_sha256": "18b45573ab0bbd33348d20c030a10398f5b5980d5728221a1dc6b5d8c4d0b58d"
+    },
+    {
+      "sample": "VARY_7",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_7.json",
+      "source_sha256": "4364db8aa2de01efc2a66a1444748e4bf43e5fae116e7c10e7ce2100d27442c2",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_7.md",
+      "output_sha256": "a10e471dbb8e08c1e0ffac5b5acf8bbd570ed10db14eb01d9b31bdd981d853c3"
+    },
+    {
+      "sample": "VARY_8",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_8.json",
+      "source_sha256": "f79c7750e35a3fd2c91961ecb7a61e1b9047b0ba0fd0636ad5d16520e05633ff",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_8.md",
+      "output_sha256": "c417fbdf7c2e16eafc08499b1f05cf20ae227eae380a151e4388cfeaa7b872b9"
+    },
+    {
+      "sample": "VARY_9",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_9.json",
+      "source_sha256": "1bac693cd6ac125a03ffa52439935632bb9fe1b9d8945a856336ad2307b8f3b9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_9.md",
+      "output_sha256": "588cee69b3f8bda4ec02f788640f83d6caafa8227f5067fefb88825698808edb"
+    },
+    {
+      "sample": "VARY_10",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_10.json",
+      "source_sha256": "077577528f7c73611ace9eb3d95fabe5c000388fb3ff195deb31f10d8461bdf8",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_10.md",
+      "output_sha256": "0f79a543519b82b2499d86b0b9a5125ad99aded369d007fd6c8093a443952928"
+    },
+    {
+      "sample": "VARY_11",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_11.json",
+      "source_sha256": "b2b379dc20dda612182c3c0aee1110156879b5ccdec2cdb3109c9acb470de32b",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_11.md",
+      "output_sha256": "9edf5c166bbc86b282c691f447e1e373ddfa7d0c17c2e1dea2906c1d4b521fc4"
+    },
+    {
+      "sample": "VARY_12",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_12.json",
+      "source_sha256": "f0819384364dd5655af1f15f353ac608e97eec27d11b0da4d2b23831e8daafd9",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_12.md",
+      "output_sha256": "fbc44f4782c1a4b79d3cfc28c333ea3dbf1794cb449e8a8148e881e545f9284e"
+    },
+    {
+      "sample": "VARY_13",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_13.json",
+      "source_sha256": "6a498f6f8166d6910709c4bae7f7a073dbd612d7026eb0f77e882bc9e0e5f359",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_13.md",
+      "output_sha256": "a36778889a87197dc4fad99f180bc308440a9ee61cdd2d6ed44248d3339c19ea"
+    },
+    {
+      "sample": "VARY_14",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_14.json",
+      "source_sha256": "f91860627feacf17f791e4f592376d479e82a3afa020adbd3923dad1f6d08480",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_14.md",
+      "output_sha256": "9be50d9d5cb0a04c27ef96b74386f29bc2882b8abc5ca4610221cdb726b717c3"
+    },
+    {
+      "sample": "VARY_15",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_15.json",
+      "source_sha256": "2769c1ff254402c82e883661a4e8d1f9fe0360d1bcb1315f628709ed5fef4c58",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_15.md",
+      "output_sha256": "cb79af7e79b7004d46cd64ff971442a8f0dbd7904717496fb2f7a1f8d23cff22"
+    },
+    {
+      "sample": "VARY_16",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_16.json",
+      "source_sha256": "8a7dca09917cbc501496c80bd2e0a98a3c0af47cfa1c7c6f9bab46ccce831af0",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_16.md",
+      "output_sha256": "dce281805791630b207baecf0fba03a45ca53e10e335acda70015f50f40ddd5a"
+    },
+    {
+      "sample": "VARY_17",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_17.json",
+      "source_sha256": "2b3aa72a7f6851ffea34c0808ea254dfcd0e38886ce72257c4e404d371726c60",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_17.md",
+      "output_sha256": "1d4ea42cf3562fee68ae360cc8a798ce83856b5e58074e13144c98bfe5ba1850"
+    },
+    {
+      "sample": "VARY_18",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_18.json",
+      "source_sha256": "d454d86fe79932a99cab79624a89c0f18c8df92c1c76ed065ecb6cb98591a4f3",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_18.md",
+      "output_sha256": "2e6a0642dc8a241573755bd5073f41c92cadc4c2489b58f11cf3160ef0798ab6"
+    },
+    {
+      "sample": "VARY_19",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_19.json",
+      "source_sha256": "83dcd401f9494df13c94493988fc44e7025767287b7fe90788daea083ea6de13",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_19.md",
+      "output_sha256": "fa4e0d0392fbf971a5fbfa2fc4ecc7890c4415bf7f365b2c4aee7243d072a256"
+    },
+    {
+      "sample": "VARY_20",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_20.json",
+      "source_sha256": "ed279624584ab4baebbbbf541fb8817af89f140fa07459cc58913648d7d089ec",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_20.md",
+      "output_sha256": "7a4120e4d1db5f6fb6052f78fd7960a18a27dd31b07f9f7aeb36c4428b87dfd0"
+    },
+    {
+      "sample": "VARY_21",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_21.json",
+      "source_sha256": "b9123926914019b1d4340d9eb526bdb7e97bc6ded22031007e344780187a69c3",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_21.md",
+      "output_sha256": "a676cf9a48ae5a07072a8ecccdabc0be9e3eaf352fa6e3f6c50173f6f5f64749"
+    },
+    {
+      "sample": "VARY_22",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_22.json",
+      "source_sha256": "25eb0f500e33112fa5d78f71a629868661fac062cab3d7ea6859fb55855254e7",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_22.md",
+      "output_sha256": "4009ac5914cc6ffdd7580951ff4a824b1008994005175c904abc0aacdc9e49f8"
+    },
+    {
+      "sample": "VARY_23",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_23.json",
+      "source_sha256": "7a361b11485c4b3fc99e6bc5907beda2703c0669c1555cee9164959fbada5561",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_23.md",
+      "output_sha256": "698bbd852de2971369a188fe44983837d74a0252c50a9a8ae9e024997aa51669"
+    },
+    {
+      "sample": "VARY_24",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_24.json",
+      "source_sha256": "e914fa637c1f2f9f54904ea4a2b6942630aea9bda557ecb8b62200ed235e3b19",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_24.md",
+      "output_sha256": "6680b431a9df5b258a4436cc0ca1e3cfeb84704748abff4be1c6cbc34440a761"
+    },
+    {
+      "sample": "VARY_25",
+      "source_repository": "model-personality-corpus-v2",
+      "source": "data/traces_freeflow/freeflow_gpt-6-1-sol-or-pin-openai/VARY_25.json",
+      "source_sha256": "17e78c34e384380424445f7d5bcd706ab8597489901d5a99f4ca11df682a3f62",
+      "output": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/gpt-6-1-sol-or-pin-openai/VARY_25.md",
+      "output_sha256": "0578929bfa7ada0fdb21e91b74268cf7fe1758030c472392890702201783e50a"
+    }
+  ]
+}

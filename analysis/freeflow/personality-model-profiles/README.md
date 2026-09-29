@@ -183,3 +183,4 @@ Relationship to adjacent folders:
 - [sonnet-5-5](profiles/sonnet-5-5.md) — samples: 125
 - [qwen3-8-27b](profiles/qwen3-8-27b.md) — samples: 125
 - [space-bunny-alpha](profiles/space-bunny-alpha.md) — samples: 125
+- [gpt-6-1-sol](profiles/gpt-6-1-sol.md) — samples: 125

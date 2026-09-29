@@ -1,0 +1,17 @@
+{
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "task_count": 1337,
+  "output_hashes_verified": 1352,
+  "bv1": 125,
+  "bv1_calls_per_sample": {
+    "1": 117,
+    "3": 1,
+    "2": 6,
+    "4": 1
+  },
+  "local_recovery": "LONG_18: earliest preserved response after dialogue-boundary correction; original attempts remain 4",
+  "portable_manifest": "analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/manifest-gpt-6-1-sol-or-pin-openai.json"
+}

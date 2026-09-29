@@ -992,6 +992,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gpt-5.6-terra.md"
   },
   {
+    "model": "gpt-6-1-sol",
+    "safe": "gpt-6-1-sol",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 29,
+      "GENRE_FICTION": 82,
+      "GENERIC_ESSAY": 14
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gpt-6-1-sol.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gpt-6-1-sol.md"
+  },
+  {
     "model": "gpt-6-astra",
     "safe": "gpt-6-astra",
     "analysis_inputs": 1,

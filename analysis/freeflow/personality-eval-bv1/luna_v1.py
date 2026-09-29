@@ -24,6 +24,17 @@ def quote_problem(text,source):
   terminal=bool(re.search(r'[.!?][\"”’\'*_]*$',quote))
   after_ok=not right or right[0].isspace() or right[0] in '\"”’\'*_'
   if start and terminal and after_ok:return ''
+ # A whole direct-speech utterance is also a sentence: she said, “Hello.”
+ # Require paired marks around the entire utterance; a comma alone must
+ # never admit a clause. Exact source-substring matching above still applies.
+ # Like the original gate, this is syntactic, not grammatical proof.
+ if quote[0].isupper() and re.search(r'[.!?]$',quote):
+  for match in re.finditer(re.escape(quote),source):
+   left=source[:match.start()];right=source[match.end():]
+   opening=re.search(r',\s+(["“])$',left)
+   if opening:
+    close={'“':'”','"':'"'}[opening.group(1)]
+    if right.startswith(close) and (len(right)==1 or right[1].isspace()):return ''
  return 'quote_sentence_boundary'
 def valid_output(text,source=None):
  ok,reason=BV.valid_output(text)

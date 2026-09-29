@@ -1,0 +1,40 @@
+{
+  "state": "analysis_complete_awaiting_publication",
+  "model": "gpt-6-1-sol",
+  "cell": "gpt-6-1-sol-or-pin-openai",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "bv1_evaluator_arm": "bv1-luna-v1-20260929",
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [
+      "CAP_20260929-gpt61sol-house_gpt-6-1-sol_G2_15",
+      "CAP_20260929-gpt61sol-house_gpt-6-1-sol_G2_22"
+    ],
+    "residual_splits": [],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "values_integrated": true,
+  "combined_card": "/home/agent/work/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260929-gpt61sol-house_gpt-6-1-sol-or-pin-openai/CARD_READY.json",
+  "phase": "/home/agent/work/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260929-gpt61sol-house_gpt-6-1-sol-or-pin-openai",
+  "token_policy": {
+    "freeflow": [
+      16000,
+      32768
+    ],
+    "values": [
+      4000,
+      8000,
+      16000,
+      32768
+    ]
+  }
+}

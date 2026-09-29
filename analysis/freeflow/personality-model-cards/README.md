@@ -173,3 +173,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [sonnet-5-5](cards/sonnet-5-5.md) — samples: 125
 - [qwen3-8-27b](cards/qwen3-8-27b.md) — samples: 125
 - [space-bunny-alpha](cards/space-bunny-alpha.md) — samples: 125
+- [gpt-6-1-sol](cards/gpt-6-1-sol.md) — samples: 125

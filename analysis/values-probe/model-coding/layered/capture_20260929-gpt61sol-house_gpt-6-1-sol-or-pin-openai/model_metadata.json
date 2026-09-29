@@ -1,0 +1,12 @@
+{
+  "model": "openai/gpt-6.1-sol",
+  "slug": "gpt-6-1-sol",
+  "label": "gpt-6-1-sol-or-pin-openai",
+  "family": "gpt",
+  "or_provider": "OpenAI",
+  "quantization": "unknown",
+  "release_date": "2026-09-29",
+  "release_date_source": "https://x.com/OpenAI/status/2104986136745767160",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/gpt-6-1-sol-2026-09-29/endpoints.json",
+  "release_date_status": "sourced"
+}
