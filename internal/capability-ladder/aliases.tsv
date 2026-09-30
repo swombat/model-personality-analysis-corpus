@@ -166,3 +166,4 @@ sonnet-5-5	sonnet-5-5	2026-09-28		none	claude-sonnet-5-5	exact	2026-09-29: AA ro
 qwen3-8-27b	qwen3-8-27b	2026-08-14		none	qwen3-8-27b	exact	2026-09-29: AA Combined point = medium effort (median of low, medium, xhigh), 11 measured rungs. The site cell is the default-reasoning DeepInfra endpoint. Epoch not re-checked on 2026-09-29 (local Epoch clone is from 2026-09-05).
 space-bunny-alpha	Space Bunny Alpha	2026-09-22		none		none	Stealth/anonymous OpenRouter model; no identifiable match in either index. Map resemblance to OpenAI models is not a basis for borrowing a score.
 union-alpha	Union Alpha	2026-09-16		none		none	Stealth/anonymous OpenRouter route, reported to be a cascade router; no entry in either index and no score borrowed from GPT-6 Astra.
+gpt-6-1-sol	GPT-6.1 Sol	2026-09-29		none		none	2026-09-30: released 2026-09-29; no row in the 2026-09-29 AA capture. Check the next capture for gpt-6-1-sol.

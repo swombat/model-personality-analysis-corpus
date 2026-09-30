@@ -1494,6 +1494,16 @@ PROMPTS: dict[str, str] = {
         "and door are bare of any writing: no shop names, no signs, no labels, "
         "no plaques, no painter's signature."
     ),
+    "gpt-6-1-sol": (
+        "A shared tenement stairwell at first light: a woman in a cardigan "
+        "stands on a short stepladder fitting a new bulb into the landing "
+        "light while a neighbour in slippers steadies the ladder. On the step "
+        "below, a mop bucket and a folded doormat; one flat's door stands ajar "
+        "with a kettle steaming on the stove inside. Nothing heroic is "
+        "happening — the building is being kept usable for everyone in it. "
+        "Grey dawn through the landing window, stair-paint green, warm ochre "
+        "from the open door. No lettering anywhere."
+    ),
 }
 
 

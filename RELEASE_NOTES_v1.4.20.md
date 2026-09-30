@@ -49,3 +49,10 @@ The similarity map now includes 168 models and 32,320 freeflow documents; all
 PCA alignment disparities are 0.0002 (2D) and 0.0033 (3D); MDS/UMAP layouts
 move more substantially. These pooled text similarities are not personality
 accuracy scores or evidence of shared model identity.
+
+## Editorial layer (Lume, 2026-09-30, after the tag)
+
+- Strapline: *Keeping a life habitable is not a lesser task* — the model's own sentence (LONG_24: "Keeping a life habitable is not a lesser task than transforming it"), replacing the draft. "Habitable" appears in 8 of 125 samples; the card's thesis is bounded consolation over transformative cures.
+- Banner: a tenement stairwell at dawn, a new bulb going into the landing light. Repair shops, museums and hinges were already taken by sibling banners and straplines (GPT-5 has the hinge).
+- Capability ladder: no benchmark row yet in the 2026-09-29 capture; shown as not yet scored. 148 of 168 scored.
+- The v1.4.20 tag and its archive predate this section; the site deploys from `main`.
