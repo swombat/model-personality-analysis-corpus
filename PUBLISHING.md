@@ -5,7 +5,19 @@ Zenodo watches the repo and, when a GitHub *Release* is created, archives that
 release and mints a DOI. The release metadata is taken from `.zenodo.json` in
 the repo root.
 
-## State of readiness
+## Subsequent releases
+
+The integration is already configured. For a new release, fetch current tags,
+update `CITATION.cff`, `.zenodo.json`, the README status and matching release
+notes. Validate the scoped site data, build, push `main`, and verify the Pages
+deployment. Create the matching GitHub release only from the verified pushed
+commit. Do not claim a newly minted Zenodo DOI until its archive is observed.
+The site follows `main`; a tagged archive does not include later editorial commits.
+
+Raw captures belong in the companion raw repository and should be pushed before
+the dependent analysis release. Preserve provenance and incomplete-cell caveats.
+
+## Historical initial-release checklist (v1.0.0)
 
 Repository-side artifacts are in place and consistent:
 

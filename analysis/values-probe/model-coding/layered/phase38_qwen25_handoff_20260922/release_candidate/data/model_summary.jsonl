@@ -1,0 +1,1 @@
+{"model": "qwen2-5-7b-instruct", "samples": 120, "cells": 1, "one_line_summary": "qwen2-5-7b-instruct: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).", "posture_counts": {"disowned_service_frame": 104, "owned_world_change_advocacy": 16}, "value_holding_counts": {"recited_not_owned": 104, "owned": 16}, "report": "reports/qwen2-5-7b-instruct.md"}

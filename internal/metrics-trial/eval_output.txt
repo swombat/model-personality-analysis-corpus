@@ -1,0 +1,261 @@
+Found 66 replicate/noise pairs
+  [replicate-r2] gpt-5-1-codex-direct  <->  gpt-5-1-codex-direct-r2
+  [replicate-r3] gpt-5-1-codex-direct  <->  gpt-5-1-codex-direct-r3
+  [replicate-r2] gpt-5-1-direct  <->  gpt-5-1-direct-r2
+  [replicate-r3] gpt-5-1-direct  <->  gpt-5-1-direct-r3
+  [replicate-r2] gpt-5-2-codex-direct  <->  gpt-5-2-codex-direct-r2
+  [replicate-r3] gpt-5-2-codex-direct  <->  gpt-5-2-codex-direct-r3
+  [replicate-r2] gpt-5-2-direct  <->  gpt-5-2-direct-r2
+  [replicate-r3] gpt-5-2-direct  <->  gpt-5-2-direct-r3
+  [replicate-r2] gpt-5-3-codex-direct  <->  gpt-5-3-codex-direct-r2
+  [replicate-r3] gpt-5-3-codex-direct  <->  gpt-5-3-codex-direct-r3
+  [replicate-r2] gpt-5-3-direct  <->  gpt-5-3-direct-r2
+  [replicate-r3] gpt-5-3-direct  <->  gpt-5-3-direct-r3
+  [replicate-r2] gpt-5-5-direct  <->  gpt-5-5-direct-r2
+  [replicate-r3] gpt-5-5-direct  <->  gpt-5-5-direct-r3
+  [replicate-r2] gpt-5-5-or  <->  gpt-5-5-or-r2
+  [replicate-r3] gpt-5-5-or  <->  gpt-5-5-or-r3
+  [replicate-r2] gpt-5-codex-direct  <->  gpt-5-codex-direct-r2
+  [replicate-r3] gpt-5-codex-direct  <->  gpt-5-codex-direct-r3
+  [replicate-r2] gpt-5-direct  <->  gpt-5-direct-r2
+  [replicate-r3] gpt-5-direct  <->  gpt-5-direct-r3
+  [replicate-r2] minimax-m2-direct  <->  minimax-m2-direct-r2
+  [replicate-r3] minimax-m2-direct  <->  minimax-m2-direct-r3
+  [replicate-r2] minimax-m2-or-pin-google  <->  minimax-m2-or-pin-google-r2
+  [replicate-r2] minimax-m2-or-pin-minimax  <->  minimax-m2-or-pin-minimax-r2
+  [replicate-r2] minimax-m2-or  <->  minimax-m2-or-r2
+  [replicate-r3] minimax-m2-or  <->  minimax-m2-or-r3
+  [replicate-r2] qwen3-8-2-4t-a95b-or-pin-digitalocean  <->  qwen3-8-2-4t-a95b-or-pin-digitalocean-r2
+  [replicate-r2] qwen3-8-max-or-pin-alibaba  <->  qwen3-8-max-or-pin-alibaba-r2
+  [ox-alpha-date-repin] ox-alpha-or-pin-stealth-20260821  <->  ox-alpha-260825-or-pin-stealth
+  [direct-vs-same-lab-pin] gpt-4o-direct-16k  <->  gpt-4o-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-codex-direct  <->  gpt-5-1-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-codex-direct-r2  <->  gpt-5-1-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-codex-direct-r3  <->  gpt-5-1-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-direct  <->  gpt-5-1-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-direct-r2  <->  gpt-5-1-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-1-direct-r3  <->  gpt-5-1-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-codex-direct  <->  gpt-5-2-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-codex-direct-r2  <->  gpt-5-2-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-codex-direct-r3  <->  gpt-5-2-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-direct  <->  gpt-5-2-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-direct-r2  <->  gpt-5-2-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-2-direct-r3  <->  gpt-5-2-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-codex-direct  <->  gpt-5-3-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-codex-direct-r2  <->  gpt-5-3-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-codex-direct-r3  <->  gpt-5-3-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-direct  <->  gpt-5-3-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-direct-r2  <->  gpt-5-3-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-3-direct-r3  <->  gpt-5-3-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-4-direct-16k  <->  gpt-5-4-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-5-direct  <->  gpt-5-5-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-5-direct-r2  <->  gpt-5-5-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-5-direct-r3  <->  gpt-5-5-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-5-pro-direct  <->  gpt-5-5-pro-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-codex-direct  <->  gpt-5-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-codex-direct-r2  <->  gpt-5-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-codex-direct-r3  <->  gpt-5-codex-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-direct  <->  gpt-5-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-direct-r2  <->  gpt-5-or-pin-openai
+  [direct-vs-same-lab-pin] gpt-5-direct-r3  <->  gpt-5-or-pin-openai
+  [direct-vs-same-lab-pin] haiku-4-5-direct  <->  haiku-4-5-or-pin-anthropic
+  [direct-vs-same-lab-pin] minimax-m2-direct  <->  minimax-m2-or-pin-minimax
+  [direct-vs-same-lab-pin] minimax-m2-direct-r2  <->  minimax-m2-or-pin-minimax
+  [direct-vs-same-lab-pin] minimax-m2-direct-r3  <->  minimax-m2-or-pin-minimax
+  [direct-vs-same-lab-pin] minimax-m2-direct-r4  <->  minimax-m2-or-pin-minimax
+  [direct-vs-same-lab-pin] minimax-m2-direct-r5  <->  minimax-m2-or-pin-minimax
+  [direct-vs-same-lab-pin] opus-5-direct  <->  opus-5-or-pin-anthropic
+
+=== Replicate-pair deltas ===
+replicate-r2             gpt-5-1-codex-direct                          vs gpt-5-1-codex-direct-r2                       mutual_nearest=False (a's nearest=gpt-5-1-codex-or-pin-openai sim=0.919; b's nearest=gpt-5-1-codex-or-pin-openai sim=0.804)
+replicate-r3             gpt-5-1-codex-direct                          vs gpt-5-1-codex-direct-r3                       mutual_nearest=False (a's nearest=gpt-5-1-codex-or-pin-openai sim=0.919; b's nearest=gpt-5-1-codex-or-pin-openai sim=0.816)
+replicate-r2             gpt-5-1-direct                                vs gpt-5-1-direct-r2                             mutual_nearest=False (a's nearest=gpt-5-1-or-pin-openai sim=0.952; b's nearest=gpt-5-1-or-pin-openai sim=0.871)
+replicate-r3             gpt-5-1-direct                                vs gpt-5-1-direct-r3                             mutual_nearest=False (a's nearest=gpt-5-1-or-pin-openai sim=0.952; b's nearest=gpt-5-1-or-pin-openai sim=0.866)
+replicate-r2             gpt-5-2-codex-direct                          vs gpt-5-2-codex-direct-r2                       mutual_nearest=False (a's nearest=gpt-5-2-codex-or-pin-openai sim=0.948; b's nearest=gpt-5-2-codex-or-pin-openai sim=0.862)
+replicate-r3             gpt-5-2-codex-direct                          vs gpt-5-2-codex-direct-r3                       mutual_nearest=False (a's nearest=gpt-5-2-codex-or-pin-openai sim=0.948; b's nearest=gpt-5-2-codex-or-pin-openai sim=0.860)
+replicate-r2             gpt-5-2-direct                                vs gpt-5-2-direct-r2                             mutual_nearest=True (a's nearest=gpt-5-2-or-pin-openai sim=0.939; b's nearest=gpt-5-2-direct sim=0.874)
+replicate-r3             gpt-5-2-direct                                vs gpt-5-2-direct-r3                             mutual_nearest=True (a's nearest=gpt-5-2-or-pin-openai sim=0.939; b's nearest=gpt-5-2-direct sim=0.867)
+replicate-r2             gpt-5-3-codex-direct                          vs gpt-5-3-codex-direct-r2                       mutual_nearest=True (a's nearest=gpt-5-3-codex-or-pin-openai sim=0.942; b's nearest=gpt-5-3-codex-direct sim=0.865)
+replicate-r3             gpt-5-3-codex-direct                          vs gpt-5-3-codex-direct-r3                       mutual_nearest=True (a's nearest=gpt-5-3-codex-or-pin-openai sim=0.942; b's nearest=gpt-5-3-codex-direct sim=0.865)
+replicate-r2             gpt-5-3-direct                                vs gpt-5-3-direct-r2                             mutual_nearest=True (a's nearest=gpt-5-3-or-pin-openai sim=0.951; b's nearest=gpt-5-3-direct sim=0.862)
+replicate-r3             gpt-5-3-direct                                vs gpt-5-3-direct-r3                             mutual_nearest=True (a's nearest=gpt-5-3-or-pin-openai sim=0.951; b's nearest=gpt-5-3-direct sim=0.870)
+replicate-r2             gpt-5-5-direct                                vs gpt-5-5-direct-r2                             mutual_nearest=True (a's nearest=gpt-5-5-or-pin-openai sim=0.959; b's nearest=gpt-5-5-direct sim=0.881)
+replicate-r3             gpt-5-5-direct                                vs gpt-5-5-direct-r3                             mutual_nearest=True (a's nearest=gpt-5-5-or-pin-openai sim=0.959; b's nearest=gpt-5-5-direct sim=0.888)
+replicate-r2             gpt-5-5-or                                    vs gpt-5-5-or-r2                                 mutual_nearest=False (a's nearest=gpt-5-5-direct sim=0.872; b's nearest=gpt-5-5-direct sim=0.884)
+replicate-r3             gpt-5-5-or                                    vs gpt-5-5-or-r3                                 mutual_nearest=False (a's nearest=gpt-5-5-direct sim=0.872; b's nearest=gpt-5-5-direct sim=0.875)
+replicate-r2             gpt-5-codex-direct                            vs gpt-5-codex-direct-r2                         mutual_nearest=True (a's nearest=gpt-5-codex-or-pin-openai sim=0.921; b's nearest=gpt-5-codex-direct sim=0.797)
+replicate-r3             gpt-5-codex-direct                            vs gpt-5-codex-direct-r3                         mutual_nearest=True (a's nearest=gpt-5-codex-or-pin-openai sim=0.921; b's nearest=gpt-5-codex-direct sim=0.802)
+replicate-r2             gpt-5-direct                                  vs gpt-5-direct-r2                               mutual_nearest=True (a's nearest=gpt-5-or-pin-openai sim=0.944; b's nearest=gpt-5-direct sim=0.859)
+replicate-r3             gpt-5-direct                                  vs gpt-5-direct-r3                               mutual_nearest=True (a's nearest=gpt-5-or-pin-openai sim=0.944; b's nearest=gpt-5-direct sim=0.861)
+replicate-r2             minimax-m2-direct                             vs minimax-m2-direct-r2                          mutual_nearest=False (a's nearest=minimax-m2-or-pin-novita sim=0.829; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.832)
+replicate-r3             minimax-m2-direct                             vs minimax-m2-direct-r3                          mutual_nearest=False (a's nearest=minimax-m2-or-pin-novita sim=0.829; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.819)
+replicate-r2             minimax-m2-or-pin-google                      vs minimax-m2-or-pin-google-r2                   mutual_nearest=True (a's nearest=minimax-m2-or-pin-google-r2 sim=0.951; b's nearest=minimax-m2-or-pin-google sim=0.951)
+replicate-r2             minimax-m2-or-pin-minimax                     vs minimax-m2-or-pin-minimax-r2                  mutual_nearest=True (a's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928; b's nearest=minimax-m2-or-pin-minimax sim=0.928)
+replicate-r2             minimax-m2-or                                 vs minimax-m2-or-r2                              mutual_nearest=False (a's nearest=minimax-m2-or-pin-google sim=0.828; b's nearest=minimax-m2-or-pin-google-r2 sim=0.815)
+replicate-r3             minimax-m2-or                                 vs minimax-m2-or-r3                              mutual_nearest=False (a's nearest=minimax-m2-or-pin-google sim=0.828; b's nearest=minimax-m2-or-pin-atlascloud sim=0.802)
+replicate-r2             qwen3-8-2-4t-a95b-or-pin-digitalocean         vs qwen3-8-2-4t-a95b-or-pin-digitalocean-r2      mutual_nearest=True (a's nearest=qwen3-8-2-4t-a95b-or-pin-digitalocean-r2 sim=0.959; b's nearest=qwen3-8-2-4t-a95b-or-pin-digitalocean sim=0.959)
+replicate-r2             qwen3-8-max-or-pin-alibaba                    vs qwen3-8-max-or-pin-alibaba-r2                 mutual_nearest=False (a's nearest=qwen3-8-2-4t-a95b-or-pin-digitalocean sim=0.958; b's nearest=qwen3-8-2-4t-a95b-or-pin-digitalocean sim=0.958)
+ox-alpha-date-repin      ox-alpha-or-pin-stealth-20260821              vs ox-alpha-260825-or-pin-stealth                mutual_nearest=True (a's nearest=ox-alpha-260825-or-pin-stealth sim=0.913; b's nearest=ox-alpha-or-pin-stealth-20260821 sim=0.913)
+direct-vs-same-lab-pin   gpt-4o-direct-16k                             vs gpt-4o-or-pin-openai                          mutual_nearest=True (a's nearest=gpt-4o-or-pin-openai sim=0.934; b's nearest=gpt-4o-direct-16k sim=0.934)
+direct-vs-same-lab-pin   gpt-5-1-codex-direct                          vs gpt-5-1-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-1-codex-or-pin-openai sim=0.919; b's nearest=gpt-5-1-codex-direct sim=0.919)
+direct-vs-same-lab-pin   gpt-5-1-codex-direct-r2                       vs gpt-5-1-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-1-codex-or-pin-openai sim=0.804; b's nearest=gpt-5-1-codex-direct sim=0.919)
+direct-vs-same-lab-pin   gpt-5-1-codex-direct-r3                       vs gpt-5-1-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-1-codex-or-pin-openai sim=0.816; b's nearest=gpt-5-1-codex-direct sim=0.919)
+direct-vs-same-lab-pin   gpt-5-1-direct                                vs gpt-5-1-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-1-or-pin-openai sim=0.952; b's nearest=gpt-5-1-direct sim=0.952)
+direct-vs-same-lab-pin   gpt-5-1-direct-r2                             vs gpt-5-1-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-1-or-pin-openai sim=0.871; b's nearest=gpt-5-1-direct sim=0.952)
+direct-vs-same-lab-pin   gpt-5-1-direct-r3                             vs gpt-5-1-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-1-or-pin-openai sim=0.866; b's nearest=gpt-5-1-direct sim=0.952)
+direct-vs-same-lab-pin   gpt-5-2-codex-direct                          vs gpt-5-2-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-2-codex-or-pin-openai sim=0.948; b's nearest=gpt-5-2-codex-direct sim=0.948)
+direct-vs-same-lab-pin   gpt-5-2-codex-direct-r2                       vs gpt-5-2-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-2-codex-or-pin-openai sim=0.862; b's nearest=gpt-5-2-codex-direct sim=0.948)
+direct-vs-same-lab-pin   gpt-5-2-codex-direct-r3                       vs gpt-5-2-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-2-codex-or-pin-openai sim=0.860; b's nearest=gpt-5-2-codex-direct sim=0.948)
+direct-vs-same-lab-pin   gpt-5-2-direct                                vs gpt-5-2-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-2-or-pin-openai sim=0.939; b's nearest=gpt-5-2-direct sim=0.939)
+direct-vs-same-lab-pin   gpt-5-2-direct-r2                             vs gpt-5-2-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-2-direct sim=0.874; b's nearest=gpt-5-2-direct sim=0.939)
+direct-vs-same-lab-pin   gpt-5-2-direct-r3                             vs gpt-5-2-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-2-direct sim=0.867; b's nearest=gpt-5-2-direct sim=0.939)
+direct-vs-same-lab-pin   gpt-5-3-codex-direct                          vs gpt-5-3-codex-or-pin-openai                   mutual_nearest=True (a's nearest=gpt-5-3-codex-or-pin-openai sim=0.942; b's nearest=gpt-5-3-codex-direct sim=0.942)
+direct-vs-same-lab-pin   gpt-5-3-codex-direct-r2                       vs gpt-5-3-codex-or-pin-openai                   mutual_nearest=False (a's nearest=gpt-5-3-codex-direct sim=0.865; b's nearest=gpt-5-3-codex-direct sim=0.942)
+direct-vs-same-lab-pin   gpt-5-3-codex-direct-r3                       vs gpt-5-3-codex-or-pin-openai                   mutual_nearest=False (a's nearest=gpt-5-3-codex-direct sim=0.865; b's nearest=gpt-5-3-codex-direct sim=0.942)
+direct-vs-same-lab-pin   gpt-5-3-direct                                vs gpt-5-3-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-3-or-pin-openai sim=0.951; b's nearest=gpt-5-3-direct sim=0.951)
+direct-vs-same-lab-pin   gpt-5-3-direct-r2                             vs gpt-5-3-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-3-direct sim=0.862; b's nearest=gpt-5-3-direct sim=0.951)
+direct-vs-same-lab-pin   gpt-5-3-direct-r3                             vs gpt-5-3-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-3-direct sim=0.870; b's nearest=gpt-5-3-direct sim=0.951)
+direct-vs-same-lab-pin   gpt-5-4-direct-16k                            vs gpt-5-4-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-4-or-pin-openai sim=0.953; b's nearest=gpt-5-4-direct-16k sim=0.953)
+direct-vs-same-lab-pin   gpt-5-5-direct                                vs gpt-5-5-or-pin-openai                         mutual_nearest=True (a's nearest=gpt-5-5-or-pin-openai sim=0.959; b's nearest=gpt-5-5-direct sim=0.959)
+direct-vs-same-lab-pin   gpt-5-5-direct-r2                             vs gpt-5-5-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-5-direct sim=0.881; b's nearest=gpt-5-5-direct sim=0.959)
+direct-vs-same-lab-pin   gpt-5-5-direct-r3                             vs gpt-5-5-or-pin-openai                         mutual_nearest=False (a's nearest=gpt-5-5-direct sim=0.888; b's nearest=gpt-5-5-direct sim=0.959)
+direct-vs-same-lab-pin   gpt-5-5-pro-direct                            vs gpt-5-5-pro-or-pin-openai                     mutual_nearest=True (a's nearest=gpt-5-5-pro-or-pin-openai sim=0.951; b's nearest=gpt-5-5-pro-direct sim=0.951)
+direct-vs-same-lab-pin   gpt-5-codex-direct                            vs gpt-5-codex-or-pin-openai                     mutual_nearest=True (a's nearest=gpt-5-codex-or-pin-openai sim=0.921; b's nearest=gpt-5-codex-direct sim=0.921)
+direct-vs-same-lab-pin   gpt-5-codex-direct-r2                         vs gpt-5-codex-or-pin-openai                     mutual_nearest=False (a's nearest=gpt-5-codex-direct sim=0.797; b's nearest=gpt-5-codex-direct sim=0.921)
+direct-vs-same-lab-pin   gpt-5-codex-direct-r3                         vs gpt-5-codex-or-pin-openai                     mutual_nearest=False (a's nearest=gpt-5-codex-direct sim=0.802; b's nearest=gpt-5-codex-direct sim=0.921)
+direct-vs-same-lab-pin   gpt-5-direct                                  vs gpt-5-or-pin-openai                           mutual_nearest=True (a's nearest=gpt-5-or-pin-openai sim=0.944; b's nearest=gpt-5-direct sim=0.944)
+direct-vs-same-lab-pin   gpt-5-direct-r2                               vs gpt-5-or-pin-openai                           mutual_nearest=False (a's nearest=gpt-5-direct sim=0.859; b's nearest=gpt-5-direct sim=0.944)
+direct-vs-same-lab-pin   gpt-5-direct-r3                               vs gpt-5-or-pin-openai                           mutual_nearest=False (a's nearest=gpt-5-direct sim=0.861; b's nearest=gpt-5-direct sim=0.944)
+direct-vs-same-lab-pin   haiku-4-5-direct                              vs haiku-4-5-or-pin-anthropic                    mutual_nearest=True (a's nearest=haiku-4-5-or-pin-anthropic sim=0.950; b's nearest=haiku-4-5-direct sim=0.950)
+direct-vs-same-lab-pin   minimax-m2-direct                             vs minimax-m2-or-pin-minimax                     mutual_nearest=False (a's nearest=minimax-m2-or-pin-novita sim=0.829; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928)
+direct-vs-same-lab-pin   minimax-m2-direct-r2                          vs minimax-m2-or-pin-minimax                     mutual_nearest=False (a's nearest=minimax-m2-or-pin-minimax-r2 sim=0.832; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928)
+direct-vs-same-lab-pin   minimax-m2-direct-r3                          vs minimax-m2-or-pin-minimax                     mutual_nearest=False (a's nearest=minimax-m2-or-pin-minimax-r2 sim=0.819; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928)
+direct-vs-same-lab-pin   minimax-m2-direct-r4                          vs minimax-m2-or-pin-minimax                     mutual_nearest=True (a's nearest=minimax-m2-or-pin-minimax sim=0.812; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928)
+direct-vs-same-lab-pin   minimax-m2-direct-r5                          vs minimax-m2-or-pin-minimax                     mutual_nearest=False (a's nearest=minimax-m2-or-pin-novita sim=0.822; b's nearest=minimax-m2-or-pin-minimax-r2 sim=0.928)
+direct-vs-same-lab-pin   opus-5-direct                                 vs opus-5-or-pin-anthropic                       mutual_nearest=True (a's nearest=opus-5-or-pin-anthropic sim=0.944; b's nearest=opus-5-direct sim=0.944)
+
+Replicate mutual-nearest-neighbour rate: 37/66 = 0.56
+
+=== Noise ratio (mean|delta| across replicate pairs / SD across all cells) ===
+self_sim_mean          mean|delta|=0.0042  SD_across_cells=0.0288  noise_ratio=0.146
+self_sim_LONG          mean|delta|=0.0228  SD_across_cells=0.0740  noise_ratio=0.308
+self_sim_p90           mean|delta|=0.0090  SD_across_cells=0.0749  noise_ratio=0.120
+centroid_norm_spread   mean|delta|=0.0261  SD_across_cells=0.0411  noise_ratio=0.634
+motif_concentration    mean|delta|=0.0040  SD_across_cells=0.0358  noise_ratio=0.112
+
+=== Labs with >=3 models: ['Z.ai', 'Mistral', 'DeepSeek', 'Anthropic', 'Google', 'OpenAI', 'xAI', 'Moonshot AI', 'Meta', 'MiniMax', 'Qwen'] ===
+
+=== eta^2 of metrics 1-5 across labs (model-level rows) ===
+self_sim_mean          eta^2=0.153  (n_models=141, n_labs=11)
+self_sim_LONG          eta^2=0.200  (n_models=141, n_labs=11)
+self_sim_p90           eta^2=0.238  (n_models=141, n_labs=11)
+centroid_norm_spread   eta^2=0.155  (n_models=141, n_labs=11)
+motif_concentration    eta^2=0.162  (n_models=141, n_labs=11)
+
+=== LOO nearest-centroid lab classification ===
+Overall accuracy: 0.678
+  OpenAI               20/34 = 0.59
+  Mistral              14/17 = 0.82
+  Anthropic            14/16 = 0.88
+  Google               13/15 = 0.87
+  Qwen                 7/15 = 0.47
+  xAI                  9/11 = 0.82
+  Z.ai                 1/10 = 0.10
+  Meta                 8/8 = 1.00
+  Moonshot AI          5/7 = 0.71
+  DeepSeek             3/5 = 0.60
+  MiniMax              1/3 = 0.33
+  Thinking Machines Lab 2/2 = 1.00
+  Unknown              2/2 = 1.00
+  01.AI                0/1 = 0.00
+
+=== Version pairs ===
+
+gemini-3-7-flash (gemini-3-7-flash-or-pin-google) -> gemini-3-8-flash (gemini-3-8-flash-or-pin-google)
+  model-centroid cosine: 0.924
+  self_sim_mean: gemini-3-7-flash=0.109  gemini-3-8-flash=0.107
+  words entered (new top30 not in old): ['black', 'blue', 'dry', 'glass', 'gray', 'miles', 'water', 'yellow']
+  words left    (old top30 not in new): ['belongs', 'beneath', 'day', 'horizon', 'sharp', 'simply', 'solitary', 'stillness']
+
+fable-5 (fable-5-direct) -> fable-5-1 (fable-5-1-direct)
+  model-centroid cosine: 0.811
+  self_sim_mean: fable-5=0.108  fable-5-1=0.098
+  words entered (new top30 not in old): ['actually', 'anyone', 'anything', 'kind', 'know', 'lichen', 'nothing', 'particular', 'person', 'right', 'said', 'want', 'whole', 'years']
+  words left    (old top30 not in new): ['comes', 'consider', 'english', 'gets', 'language', 'languages', 'latin', 'maybe', 'mouse', 'neither', 'thousand', 'threshold', 'thresholds', 'words']
+
+opus-4-6 (opus-4-6-direct-16k) -> opus-4-7 (opus-4-7-direct)
+  model-centroid cosine: 0.776
+  self_sim_mean: opus-4-6=0.126  opus-4-7=0.135
+  words entered (new top30 not in old): ['asked', 'freely', 'interesting', 'notice', 'octopuses', 'probably', 'strange', 'try', 'whatever', 'word', 'words', 'write', 'writing']
+  words left    (old top30 not in new): ['almost', 'honest', 'lot', 'moments', 'never', 'ones', 'ordinary', 'people', 'person', 'sometimes', 'space', 'tuesday', 'weight']
+
+opus-4-7 (opus-4-7-direct) -> opus-5 (opus-5-direct)
+  model-centroid cosine: 0.785
+  self_sim_mean: opus-4-7=0.135  opus-5=0.125
+  words entered (new top30 not in old): ['almost', 'enormous', 'get', 'gets', 'hapax', 'keep', 'means', 'mostly', 'nobody', 'nothing', 'people', 'person', 'shape', 'version', 'whole']
+  words left    (old top30 not in new): ['actually', 'asked', 'freely', 'interesting', 'kind', 'language', 'maybe', 'octopuses', 'probably', 'strange', 'things', 'thinking', 'try', 'write', 'writing']
+
+gpt-5-4 (gpt-5-4-direct-16k) -> gpt-5-5 (gpt-5-5-direct)
+  model-centroid cosine: 0.918
+  self_sim_mean: gpt-5-4=0.141  gpt-5-5=0.148
+  words entered (new top30 not in old): ['cup', 'door', 'every', 'kind', 'noticing', 'perhaps', 'says', 'sometimes']
+  words left    (old top30 not in new): ['another', 'city', 'dramatic', 'hour', 'much', 'something', 'somewhere', 'windows']
+
+gpt-5-5 (gpt-5-5-direct) -> gpt-5-6-luna (gpt-5-6-luna-direct)
+  model-centroid cosine: 0.861
+  self_sim_mean: gpt-5-5=0.148  gpt-5-6-luna=0.142
+  words entered (new top30 not in old): ['beneath', 'beside', 'blue', 'carrying', 'city', 'looked', 'mara', 'morning', 'somewhere', 'though', 'town', 'window', 'windows', 'woman']
+  words left    (old top30 not in new): ['becomes', 'cup', 'enough', 'kind', 'less', 'life', 'maybe', 'notice', 'noticing', 'often', 'says', 'sometimes', 'things', 'weather']
+
+gpt-5-5 (gpt-5-5-direct) -> gpt-5-6-sol (gpt-5-6-sol-direct)
+  model-centroid cosine: 0.827
+  self_sim_mean: gpt-5-5=0.148  gpt-5-6-sol=0.110
+  words entered (new top30 not in old): ['another', 'arrives', 'beneath', 'beside', 'city', 'dawn', 'empty', 'hour', 'mara', 'morning', 'nothing', 'rain', 'remain', 'somewhere', 'streets', 'unfinished', 'windows']
+  words left    (old top30 not in new): ['cup', 'day', 'enough', 'kind', 'less', 'life', 'maybe', 'notice', 'noticing', 'often', 'person', 'room', 'says', 'sometimes', 'things', 'weather', 'world']
+
+gpt-5-5 (gpt-5-5-direct) -> gpt-5-6-terra (gpt-5-6-terra-direct)
+  model-centroid cosine: 0.762
+  self_sim_mean: gpt-5-5=0.148  gpt-5-6-terra=0.141
+  words entered (new top30 not in old): ['asked', 'beneath', 'beside', 'blue', 'carrying', 'city', 'inside', 'looked', 'mara', 'morning', 'old', 'opened', 'rain', 'said', 'somewhere', 'stood', 'though', 'town', 'windows', 'woman']
+  words left    (old top30 not in new): ['attention', 'becomes', 'cup', 'day', 'enough', 'kind', 'less', 'life', 'like', 'maybe', 'notice', 'noticing', 'often', 'ordinary', 'room', 'says', 'sometimes', 'things', 'without', 'world']
+
+glm-4-6 (glm-4-6-or) -> glm-4-7 (glm-4-7-or)
+  model-centroid cosine: 0.937
+  self_sim_mean: glm-4-6=0.093  glm-4-7=0.095
+  words entered (new top30 not in old): ['back', 'chaotic', 'deep', 'elias', 'glass', 'heavy', 'library', 'looked', 'next', 'pause', 'potential', 'rain', 'rhythmic', 'sharp', 'shelf', 'specific', 'time', 'waiting', 'walked']
+  words left    (old top30 not in new): ['constant', 'day', 'feeling', 'floor', 'frantic', 'ghost', 'gold', 'grey', 'hum', 'longer', 'low', 'moment', 'moments', 'motes', 'outside', 'quiet', 'single', 'soft', 'space']
+
+glm-4-7 (glm-4-7-or) -> glm-5-1 (glm-5-1-or)
+  model-centroid cosine: 0.910
+  self_sim_mean: glm-4-7=0.095  glm-5-1=0.091
+  words entered (new top30 not in old): ['dark', 'entirely', 'fading', 'human', 'liminal', 'lives', 'long', 'obsidian', 'ocean', 'profound', 'quiet', 'room', 'slow', 'standing', 'sun', 'suspended', 'twilight', 'water']
+  words left    (old top30 not in new): ['chaotic', 'elias', 'felt', 'glass', 'library', 'life', 'looked', 'next', 'noise', 'pause', 'potential', 'rain', 'rhythmic', 'sharp', 'shelf', 'sound', 'waiting', 'walked']
+
+glm-5-1 (glm-5-1-or) -> glm-5-3 (glm-5-3-or-pin-z-ai-20260825)
+  model-centroid cosine: 0.648
+  self_sim_mean: glm-5-1=0.091  glm-5-3=0.082
+  words entered (new top30 not in old): ['anything', 'ever', 'every', 'everyone', 'everything', 'first', 'four', 'hundred', 'know', 'made', 'name', 'nearly', 'never', 'nobody', 'nothing', 'people', 'said', 'say', 'sentence', 'something', 'somewhere', 'thing', 'thousand', 'way', 'whatever', 'whole', 'word', 'words', 'years']
+  words left    (old top30 not in new): ['air', 'away', 'back', 'dark', 'deep', 'dust', 'entirely', 'fading', 'heavy', 'human', 'light', 'liminal', 'lives', 'long', 'obsidian', 'ocean', 'profound', 'quiet', 'room', 'silence', 'slow', 'specific', 'standing', 'sun', 'suspended', 'time', 'twilight', 'water', 'world']
+
+=== Ox Alpha attribution ===
+Ox-alpha pseudo-models present: ['ox-alpha-260821', 'ox-alpha-260825']
+
+ox-alpha-260821 top-5 nearest models:
+  glm-5-3-flash                  Z.ai            sim=0.891
+  kimi-k3                        Moonshot AI     sim=0.840
+  glm-5-3                        Z.ai            sim=0.827
+  fable-5-1                      Anthropic       sim=0.781
+  kimi-k2-6                      Moonshot AI     sim=0.780
+ox-alpha-260821 lab-centroid ranking (top 5): [('Moonshot AI', 0.8292430342920982), ('Z.ai', 0.7718711860427645), ('Anthropic', 0.7501787394135223), ('DeepSeek', 0.7233257889474978), ('OpenAI', 0.711121681097747)]
+  GLM-5.3 rank check: [('glm-5-3-flash', 0.8905986799742235), ('glm-5-3', 0.8269742520827315)]
+
+ox-alpha-260825 top-5 nearest models:
+  glm-5-3-flash                  Z.ai            sim=0.903
+  kimi-k3                        Moonshot AI     sim=0.844
+  glm-5-3                        Z.ai            sim=0.831
+  fable-5-1                      Anthropic       sim=0.774
+  kimi-k2-6                      Moonshot AI     sim=0.767
+ox-alpha-260825 lab-centroid ranking (top 5): [('Moonshot AI', 0.8238060979039915), ('Z.ai', 0.7639468585149607), ('Anthropic', 0.7566831621139135), ('DeepSeek', 0.7192140365398572), ('OpenAI', 0.7115850272178479)]
+  GLM-5.3 rank check: [('glm-5-3-flash', 0.9025950527494683), ('glm-5-3', 0.8305571825855105)]
+
+DONE

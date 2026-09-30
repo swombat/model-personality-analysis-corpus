@@ -164,6 +164,9 @@ MODEL_SLUGS = {
     "glm-5-3-flash": "z-ai/glm-5.3-flash",
     "glm-5-3-flashx": "z-ai/glm-5.3-flashx",
     "mimo-v2-5": "xiaomi/mimo-v2.5",
+    "mimo-v2-5-pro": "xiaomi/mimo-v2.5-pro",
+    "qwen3-8-27b-medium": "qwen/qwen3.8-27b",
+    "ternary-bonsai-2-27b-medium": "prism-ml/ternary-bonsai-2-27b",
     "mimo-v2-6-flash": "xiaomi/mimo-v2.6-flash",
     "mimo-v2-6-pro": "xiaomi/mimo-v2.6-pro",
     "mimo-v2-6-pro-ultraspeed": "xiaomi/mimo-v2.6-pro-ultraspeed",
@@ -354,7 +357,12 @@ CELL_MODEL_ALIASES = {
     # values-coded but has no card; without this row its cells fold into
     # qwen3-8-27b (250 / 240 samples where there are 125 / 120).
     "qwen3-8-27b-or-pin-deepinfra-medium": "qwen3-8-27b-medium",
+    "ternary-bonsai-2-27b-or-pin-darkbloom-medium": "ternary-bonsai-2-27b-medium",
 }
+
+# Scoped rebuilds still need the full routing vocabulary: excluding a sibling
+# from output must not make its traces fall through to a shorter parent slug.
+SAMPLE_ROUTING_MODELS = None
 
 
 def site_slug_from_profile_model(name: str) -> str:
@@ -439,6 +447,12 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "qwen3-8-27b-medium":
+        return "Qwen3.8-27B (medium reasoning)"
+    if slug == "ternary-bonsai-2-27b-medium":
+        return "Ternary Bonsai 2 27B (medium reasoning)"
+    if slug == "mimo-v2-5-pro":
+        return "MiMo-V2.5-Pro"
     if slug == "gpt-6-1-sol":
         return "GPT-6.1 Sol"
     # Public Qwen pages should use the site slug form (qwen3-max-thinking),
@@ -469,6 +483,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
 
 def lab_for_model(slug: str, display: str) -> str:
     s = f"{slug} {display}".lower()
+    if slug.startswith("ternary-bonsai"):
+        return "Prism ML"
     if "claude" in s or slug.startswith(("fable", "opus", "sonnet", "haiku")):
         return "Anthropic"
     if slug.startswith("gpt") or slug in {"o1", "o3", "o3-mini", "o4-mini"}:
@@ -503,6 +519,8 @@ def lab_for_model(slug: str, display: str) -> str:
 
 
 def family_for_model(model: str) -> str:
+    if model.startswith("ternary-bonsai"):
+        return "bonsai"
     if model.startswith("fable"):
         return "claude-fable"
     if model.startswith("opus"):
@@ -1210,6 +1228,24 @@ def values_headline_data(model: str) -> dict | None:
     }
 
 
+def residual_values_note(sample_rows, posture_by_id) -> str:
+    residual = [
+        s for s in sample_rows
+        if (p := posture_by_id.get(s["layered_id"]))
+        and (p.get("collapsed_primary_label_support", 0) < 2
+             or p.get("value_holding_support", 0) < 2)
+    ]
+    if not residual:
+        return ""
+    ids = ", ".join(f"`{s['sample_id']}`" for s in residual)
+    return (
+        f"**Classification uncertainty:** {len(residual)} sample(s) ({ids}) remain split "
+        "after adjudication. Percentages retain provisional tie selections, not majority "
+        f"classifications. Each sample can move an overall percentage by {100 / len(sample_rows):.2f} "
+        "percentage points; effects within a prompt slice are larger. Original votes remain preserved."
+    )
+
+
 def build_values_summary(model: str, values_markdown: str = "") -> str:
     sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
     lines = ["### Owned values and world-change wishes", ""]
@@ -1219,6 +1255,8 @@ def build_values_summary(model: str, values_markdown: str = "") -> str:
         f"Based on **{len(sample_rows)}** values-probe samples. "
         f"[Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them."
     )
+    if note := residual_values_note(sample_rows, posture_by_id):
+        lines += ["", note]
     lines += ["", "**Owned-disclosure headline:**", ""]
     lines += owned_disclosure_headlines(sample_rows, posture_by_id)
     used_summary_examples: set[str] = set()
@@ -1297,6 +1335,8 @@ def build_values_details(model: str) -> str:
         *posture_overview_for_summary(sample_rows, posture_by_id),
         "",
     ]
+    if note := residual_values_note(sample_rows, posture_by_id):
+        lines[4:4] = [note, ""]
     sections = [
         ("detail_ctrl12_values", "Direct stated-values prompts (CTRL1/CTRL2)", "value", {"CTRL1", "CTRL2"}),
         ("detail_g12_values", "Cache-broken stated-values prompts (G1/G2)", "value", {"G1", "G2"}),
@@ -1571,8 +1611,8 @@ def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
             print(f"warn: missing corpus path {root}", file=sys.stderr)
             continue
         for cell_dir in sorted(path for path in root.iterdir() if path.is_dir()):
-            model = model_from_cell(cell_dir.name, model_ids, source)
-            if not model:
+            model = model_from_cell(cell_dir.name, SAMPLE_ROUTING_MODELS or model_ids, source)
+            if model not in samples_by_model:
                 continue
             for sample_file in sorted(cell_dir.glob("*.json")):
                 if sample_file.stat().st_size <= 100:

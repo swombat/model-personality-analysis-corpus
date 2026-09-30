@@ -1,0 +1,12 @@
+{
+  "model": "xiaomi/mimo-v2.6-flash",
+  "slug": "mimo-v2-6-flash",
+  "label": "mimo-v2-6-flash-or-pin-xiaomi",
+  "family": "mimo",
+  "or_provider": "Xiaomi",
+  "quantization": "fp8",
+  "release_date": "2026-09-21",
+  "release_date_source": "Daniel identified these as the September 21 releases (2026-09-22 conversation); Xiaomi dated endpoint Xiaomi | xiaomi/mimo-v2.6-flash-20260921; https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260922-xiaomi/catalog/mimo-v2.6-flash-endpoints.json",
+  "release_date_status": "sourced"
+}

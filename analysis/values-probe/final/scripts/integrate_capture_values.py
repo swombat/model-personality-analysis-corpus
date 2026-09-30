@@ -42,6 +42,27 @@ def canonical(row):
     return json.dumps(row, sort_keys=True, ensure_ascii=False)
 
 
+def check_residual_policy(phase, adjudication, posture):
+    """A documented exception preserves uncertainty; it never changes a vote."""
+    residual = sorted(adjudication["residual_splits"])
+    actual = sorted(
+        r["layered_id"] for r in posture
+        if r.get("collapsed_primary_label_support", 0) < 2
+        or r.get("value_holding_support", 0) < 2
+    )
+    assert actual == residual, "adjudication/residual posture mismatch"
+    if not residual:
+        return
+    policy_path = phase / "residual_publication_policy.json"
+    assert policy_path.exists(), "unresolved split needs explicit publication policy"
+    policy = json.loads(policy_path.read_text())
+    assert policy["policy"] == "preserve-provisional-ties-with-disclosure-v1"
+    assert sorted(policy["residual_splits"]) == residual, "policy scope changed"
+    assert policy["adjudication_sha256"] == sha(phase / "adjudication.json")
+    assert policy["posture_sha256"] == sha(phase / "posture_final/consensus.jsonl")
+    assert policy["authorization"] and policy["method_note"]
+
+
 def sha(p):
     return hashlib.sha256(p.read_bytes()).hexdigest() if p.exists() else None
 
@@ -100,8 +121,8 @@ def integrate(phases, validate=False):
             assert len(ids) == 120
             models[model] = phase
             adjudication = json.loads((phase / "adjudication.json").read_text())
-            assert not adjudication["residual_splits"], (
-                "unresolved split needs explicit publication policy"
+            check_residual_policy(
+                phase, adjudication, read_rows(phase / "posture_final/consensus.jsonl")
             )
             # Raw sources must still match their frozen verified manifests.
             raw = ROOT.parent / "model-personality-corpus-v2"

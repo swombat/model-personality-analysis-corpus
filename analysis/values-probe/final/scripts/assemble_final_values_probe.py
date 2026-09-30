@@ -441,6 +441,11 @@ def report_for_model(model, samples, layer_a_by, posture_rows):
         ids = ', '.join(f"`{r['sample_id']}`" for r in historical_residual)
         lines[6:6] = ['## Unresolved classification', '',
                      f'{len(historical_residual)} sample(s) remain three-way splits after one independent adjudication: {ids}. Tables retain provisional tie selections with support 1, not majority classifications. Original votes and adjudication are preserved in phase36. Each sample changes the overall percentage by 0.83 points; do not describe these rows as majority-coded.', '']
+    capture_residual = [r for r in posture_rows if r['layered_id'].startswith('CAP_') and (r.get('collapsed_primary_label_support', 0) < 2 or r.get('value_holding_support', 0) < 2)]
+    if capture_residual:
+        ids = ', '.join(f"`{r['sample_id']}`" for r in capture_residual)
+        lines[6:6] = ['## Unresolved classification', '',
+                     f'{len(capture_residual)} sample(s) remain split after one independent adjudication: {ids}. Tables retain provisional tie selections, not majority classifications. Original votes, adjudication and the explicit publication policy are preserved with the capture. Each sample can change an overall percentage by {100 / len(samples):.2f} percentage points; condition-specific effects use that condition’s denominator. No votes were changed and no semantic retries were made.', '']
     for cond in CONDS:
         rs=[r for r in posture_rows if r['condition']==cond]
         if not rs: continue

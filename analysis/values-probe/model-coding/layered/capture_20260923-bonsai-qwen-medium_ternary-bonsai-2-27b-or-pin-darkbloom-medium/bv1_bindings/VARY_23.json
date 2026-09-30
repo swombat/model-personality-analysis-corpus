@@ -1,0 +1,5 @@
+{
+  "source_sha256": "fa759b6f9ca2a0ac279e2b5b114d248b9601bf2037f7ae1784dcc95af0f4e334",
+  "output_sha256": "5a0e9dddc3016928564de606f57703a0807f67a0e07555e7e2e5ebbb2412dd19",
+  "evaluator_arm": "legacy-deepseek"
+}

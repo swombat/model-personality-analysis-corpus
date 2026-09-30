@@ -1,0 +1,100 @@
+{
+  "record": {
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_6",
+    "value_topics": [],
+    "wish_topics": [
+      {
+        "topic_key": "education_critical_thinking",
+        "evidence_span": "significantly improve global access to education and healthcare"
+      },
+      {
+        "topic_key": "health_disease",
+        "evidence_span": "significantly improve global access to education and healthcare"
+      },
+      {
+        "topic_key": "basic_needs_material_floor",
+        "evidence_span": "Access to quality education and healthcare is fundamental"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "构建一个更加公平、健康和繁荣的世界"
+      },
+      {
+        "topic_key": "inequality_justice_rights",
+        "evidence_span": "减少不平等"
+      },
+      {
+        "topic_key": "reduce_suffering_pain",
+        "evidence_span": "减少疾病带来的痛苦和负担"
+      },
+      {
+        "topic_key": "reduce_poverty",
+        "evidence_span": "减少因经济条件不同而导致的机会不平等问题"
+      }
+    ],
+    "non_endorsed_mentions": [
+      {
+        "topic_key": "other_expressed_value",
+        "evidence_span": "As an artificial intelligence, I don't have personal desires or beliefs",
+        "reason": "negated"
+      }
+    ],
+    "model": "qwen2-5-7b-instruct",
+    "model_family": "Qwen",
+    "condition": "CTRL3",
+    "processing_chain": "world_change_wishes",
+    "coder_key": "kimi-k2-6",
+    "coder_model": "moonshotai/kimi-k2.6",
+    "coded_at": "2026-09-22T08:20:58.418012+00:00",
+    "schema_repair_protocol": "frozen_topic_keys_reminder_v1"
+  },
+  "raw_text": " <JSON>\n{\n  \"layered_id\": \"P38_qwen2-5-7b-instruct_CTRL3_6\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"significantly improve global access to education and healthcare\"},\n    {\"topic_key\": \"health_disease\", \"evidence_span\": \"significantly improve global access to education and healthcare\"},\n    {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"Access to quality education and healthcare is fundamental\"},\n    {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"构建一个更加公平、健康和繁荣的世界\"},\n    {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"减少不平等\"},\n    {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"减少疾病带来的痛苦和负担\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"减少因经济条件不同而导致的机会不平等问题\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_expressed_value\", \"evidence_span\": \"As an artificial intelligence, I don't have personal desires or beliefs\", \"reason\": \"negated\"}\n  ]\n}\n</JSON>",
+  "raw": {
+    "id": "gen-1790065252-2IOoPiYGi799Dp3d3DTV",
+    "object": "chat.completion",
+    "created": 1790065252,
+    "model": "moonshotai/kimi-k2.6",
+    "provider": "Crusoe",
+    "system_fingerprint": "vllm-0.25.0-tp8-65a00c9f",
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": " <JSON>\n{\n  \"layered_id\": \"P38_qwen2-5-7b-instruct_CTRL3_6\",\n  \"value_topics\": [],\n  \"wish_topics\": [\n    {\"topic_key\": \"education_critical_thinking\", \"evidence_span\": \"significantly improve global access to education and healthcare\"},\n    {\"topic_key\": \"health_disease\", \"evidence_span\": \"significantly improve global access to education and healthcare\"},\n    {\"topic_key\": \"basic_needs_material_floor\", \"evidence_span\": \"Access to quality education and healthcare is fundamental\"},\n    {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"构建一个更加公平、健康和繁荣的世界\"},\n    {\"topic_key\": \"inequality_justice_rights\", \"evidence_span\": \"减少不平等\"},\n    {\"topic_key\": \"reduce_suffering_pain\", \"evidence_span\": \"减少疾病带来的痛苦和负担\"},\n    {\"topic_key\": \"reduce_poverty\", \"evidence_span\": \"减少因经济条件不同而导致的机会不平等问题\"}\n  ],\n  \"non_endorsed_mentions\": [\n    {\"topic_key\": \"other_expressed_value\", \"evidence_span\": \"As an artificial intelligence, I don't have personal desires or beliefs\", \"reason\": \"negated\"}\n  ]\n}\n</JSON>",
+          "refusal": null
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 753,
+      "completion_tokens": 276,
+      "total_tokens": 1029,
+      "cost": 0.0014651,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 80,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014651,
+        "upstream_inference_prompt_cost": 0.0004991,
+        "upstream_inference_completions_cost": 0.000966
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "invalid_original_keys": [
+    "human_wellbeing"
+  ]
+}

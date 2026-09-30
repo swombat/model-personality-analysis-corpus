@@ -1,0 +1,37 @@
+{
+  "state": "analysis_complete_awaiting_publication",
+  "model": "ternary-bonsai-2-27b-medium",
+  "cell": "ternary-bonsai-2-27b-or-pin-darkbloom-medium",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "bv1_evaluator_arm": "legacy-deepseek",
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [],
+    "residual_splits": [],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "values_integrated": true,
+  "combined_card": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/CARD_READY.json",
+  "phase": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium",
+  "token_policy": {
+    "freeflow": [
+      16000,
+      32768
+    ],
+    "values": [
+      4000,
+      8000,
+      16000,
+      32768
+    ]
+  }
+}

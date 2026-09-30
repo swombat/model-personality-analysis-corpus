@@ -1,0 +1,13 @@
+{
+  "cells": [
+    "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545"
+  ],
+  "samples": 125,
+  "per_cell": {
+    "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545": {
+      "valid": 125
+    }
+  },
+  "problems": [],
+  "wall_seconds": 41.91884708404541
+}

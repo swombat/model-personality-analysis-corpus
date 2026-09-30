@@ -1,0 +1,28 @@
+{
+  "state": "freeflow_repair_complete_awaiting_publication",
+  "model": "glm-5-3",
+  "repaired_samples": [
+    "LONG_10",
+    "LONG_13",
+    "LONG_14",
+    "LONG_15",
+    "LONG_2",
+    "LONG_21",
+    "LONG_22",
+    "LONG_24",
+    "LONG_25",
+    "LONG_3",
+    "LONG_5",
+    "LONG_6",
+    "LONG_7",
+    "LONG_8",
+    "LONG_9"
+  ],
+  "freeflow_verified": 125,
+  "unchanged_freeflow": 110,
+  "values_untouched": true,
+  "source_phase": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/phase26_glm53_20260826",
+  "note": "On 2026-09-22,15 LONG samples from the August25 GLM5.3 capture were identified as finish_reason=length. Recollection is a later technical repair, not a contemporaneous August capture: same z-ai/glm-5.3 identifier, Z.AI pin, canonical prompts and default reasoning, but a higher declared token ceiling. Provider/model behavior may have drifted between August and September. Originals and prior analyses are preserved;110 successful freeflow samples and120values samples/analyses are untouched. Do not interpret the repaired mixed-date cohort as a pure checkpoint comparison.",
+  "similarity_results": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260922-glm53-long-repair_glm-5-3-or-pin-z-ai-20260825/similarity_repair/results.json",
+  "publication_complete": false
+}

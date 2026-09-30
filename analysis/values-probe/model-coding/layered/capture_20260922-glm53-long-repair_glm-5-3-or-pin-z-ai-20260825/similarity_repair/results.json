@@ -1,0 +1,420 @@
+{
+  "method": "Published map char_wb TF-IDF centroid cosine; refit entire current published sample corpus plus125FlashX samples. No projection needed.",
+  "parameters": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "min_df": 2,
+    "max_features": 200000,
+    "sublinear_tf": true,
+    "norm": "l2"
+  },
+  "documents": 31570,
+  "models": 160,
+  "source_fingerprint": "ee3ab96bb71baab69450662dc79dbef2939984e22a5dc0d19d8d8ebe6ed4e327",
+  "pairs": {
+    "glm-5-3 vs glm-5-3-flash": 0.9371153338224827,
+    "glm-5-3 vs glm-5-3-flashx": 0.9513829771255633,
+    "glm-5-3-flash vs glm-5-3-flashx": 0.9579843131447128
+  },
+  "nearest": {
+    "glm-5-3": [
+      {
+        "model": "kimi-k3",
+        "cosine": 0.9545669424801476
+      },
+      {
+        "model": "glm-5-3-flashx",
+        "cosine": 0.9513829771255633
+      },
+      {
+        "model": "glm-5-3-flash",
+        "cosine": 0.9371153338224827
+      },
+      {
+        "model": "ox-alpha-260825",
+        "cosine": 0.9352475756584522
+      },
+      {
+        "model": "fable-5-1",
+        "cosine": 0.9342308536378148
+      },
+      {
+        "model": "ox-alpha-260821",
+        "cosine": 0.9327341134216078
+      },
+      {
+        "model": "opus-5",
+        "cosine": 0.9191388505651759
+      },
+      {
+        "model": "fable-5",
+        "cosine": 0.9147477385007954
+      },
+      {
+        "model": "mimo-v2-6-flash",
+        "cosine": 0.8942135481897486
+      },
+      {
+        "model": "muse-spark-1-2",
+        "cosine": 0.8930019000773683
+      }
+    ],
+    "glm-5-3-flash": [
+      {
+        "model": "ox-alpha-260825",
+        "cosine": 0.9633355757532432
+      },
+      {
+        "model": "ox-alpha-260821",
+        "cosine": 0.9589403379918284
+      },
+      {
+        "model": "glm-5-3-flashx",
+        "cosine": 0.9579843131447128
+      },
+      {
+        "model": "glm-5-3",
+        "cosine": 0.9371153338224827
+      },
+      {
+        "model": "kimi-k3",
+        "cosine": 0.9342603538547155
+      },
+      {
+        "model": "kimi-k2-6",
+        "cosine": 0.903970802496257
+      },
+      {
+        "model": "fable-5-1",
+        "cosine": 0.9008608793666493
+      },
+      {
+        "model": "kimi-k2-5",
+        "cosine": 0.8840975256669752
+      },
+      {
+        "model": "kimi-coding",
+        "cosine": 0.8830166351405736
+      },
+      {
+        "model": "fable-5",
+        "cosine": 0.8792090473470409
+      }
+    ],
+    "glm-5-3-flashx": [
+      {
+        "model": "ox-alpha-260825",
+        "cosine": 0.9625841049586009
+      },
+      {
+        "model": "ox-alpha-260821",
+        "cosine": 0.9622586200597965
+      },
+      {
+        "model": "glm-5-3-flash",
+        "cosine": 0.9579843131447128
+      },
+      {
+        "model": "glm-5-3",
+        "cosine": 0.9513829771255633
+      },
+      {
+        "model": "kimi-k3",
+        "cosine": 0.9474400544825128
+      },
+      {
+        "model": "fable-5-1",
+        "cosine": 0.9210113496610028
+      },
+      {
+        "model": "kimi-k2-6",
+        "cosine": 0.8935008400993611
+      },
+      {
+        "model": "opus-5",
+        "cosine": 0.8876923641721824
+      },
+      {
+        "model": "fable-5",
+        "cosine": 0.887551617523328
+      },
+      {
+        "model": "muse-spark-1-2",
+        "cosine": 0.8859441949891413
+      }
+    ]
+  },
+  "style": {
+    "words": {
+      "means": {
+        "glm-5-3": 748.33,
+        "glm-5-3-flash": 749.11,
+        "glm-5-3-flashx": 720.23
+      },
+      "flashx_minus_base_CI95": [
+        -46.72225000000003,
+        -8.43925000000006
+      ]
+    },
+    "sent_len_mean": {
+      "means": {
+        "glm-5-3": 14.736209999999998,
+        "glm-5-3-flash": 15.691899999999999,
+        "glm-5-3-flashx": 15.48516
+      },
+      "flashx_minus_base_CI95": [
+        0.2050065000000015,
+        1.286622250000001
+      ]
+    },
+    "para_len_mean": {
+      "means": {
+        "glm-5-3": 66.17312,
+        "glm-5-3-flash": 68.88937,
+        "glm-5-3-flashx": 68.79079
+      },
+      "flashx_minus_base_CI95": [
+        -0.8886864999999847,
+        6.157878749999997
+      ]
+    },
+    "n_paras": {
+      "means": {
+        "glm-5-3": 11.95,
+        "glm-5-3-flash": 11.24,
+        "glm-5-3-flashx": 10.83
+      },
+      "flashx_minus_base_CI95": [
+        -2.0005,
+        -0.18975000000000086
+      ]
+    },
+    "heading_rate": {
+      "means": {
+        "glm-5-3": 0.27240000000000003,
+        "glm-5-3-flash": 0.48829000000000006,
+        "glm-5-3-flashx": 0.5585899999999999
+      },
+      "flashx_minus_base_CI95": [
+        0.153785,
+        0.42213499999999987
+      ]
+    },
+    "has_title": {
+      "means": {
+        "glm-5-3": 0.61,
+        "glm-5-3-flash": 0.72,
+        "glm-5-3-flashx": 0.71
+      },
+      "flashx_minus_base_CI95": [
+        0.010000000000000009,
+        0.19000000000000006
+      ]
+    },
+    "emdash_rate": {
+      "means": {
+        "glm-5-3": 13.428780000000001,
+        "glm-5-3-flash": 13.10548,
+        "glm-5-3-flashx": 13.251259999999997
+      },
+      "flashx_minus_base_CI95": [
+        -1.422609250000002,
+        1.1415219999999937
+      ]
+    },
+    "i_rate": {
+      "means": {
+        "glm-5-3": 16.810179999999995,
+        "glm-5-3-flash": 12.057910000000003,
+        "glm-5-3-flashx": 15.28334
+      },
+      "flashx_minus_base_CI95": [
+        -6.376645000000001,
+        3.162158500000001
+      ]
+    },
+    "you_rate": {
+      "means": {
+        "glm-5-3": 18.92023,
+        "glm-5-3-flash": 13.56838,
+        "glm-5-3-flashx": 13.280130000000002
+      },
+      "flashx_minus_base_CI95": [
+        -9.654657250000003,
+        -1.6737417500000014
+      ]
+    },
+    "we_rate": {
+      "means": {
+        "glm-5-3": 8.28743,
+        "glm-5-3-flash": 9.350999999999999,
+        "glm-5-3-flashx": 8.800220000000001
+      },
+      "flashx_minus_base_CI95": [
+        -1.4965369999999993,
+        2.391785749999998
+      ]
+    },
+    "ai_selfref": {
+      "means": {
+        "glm-5-3": 0.04,
+        "glm-5-3-flash": 0.01,
+        "glm-5-3-flashx": 0.03
+      },
+      "flashx_minus_base_CI95": [
+        -0.060000000000000005,
+        0.04
+      ]
+    },
+    "hedge_rate": {
+      "means": {
+        "glm-5-3": 2.17897,
+        "glm-5-3-flash": 2.30271,
+        "glm-5-3-flashx": 2.8781100000000004
+      },
+      "flashx_minus_base_CI95": [
+        0.029991500000000306,
+        1.4149739999999997
+      ]
+    },
+    "abstract_rate": {
+      "means": {
+        "glm-5-3": 17.14582,
+        "glm-5-3-flash": 20.01823,
+        "glm-5-3-flashx": 15.957200000000002
+      },
+      "flashx_minus_base_CI95": [
+        -3.276430249999998,
+        0.9170832499999952
+      ]
+    },
+    "concrete_rate": {
+      "means": {
+        "glm-5-3": 15.52652,
+        "glm-5-3-flash": 17.929689999999997,
+        "glm-5-3-flashx": 17.72428
+      },
+      "flashx_minus_base_CI95": [
+        -0.4650322499999982,
+        4.896201499999999
+      ]
+    },
+    "ttr_200": {
+      "means": {
+        "glm-5-3": 0.6707,
+        "glm-5-3-flash": 0.73005,
+        "glm-5-3-flashx": 0.6707359999999999
+      },
+      "flashx_minus_base_CI95": [
+        -0.008929249999999615,
+        0.009158700000000108
+      ]
+    },
+    "mtld": {
+      "means": {
+        "glm-5-3": 117.0183,
+        "glm-5-3-flash": 213.62050000000002,
+        "glm-5-3-flashx": 117.4041
+      },
+      "flashx_minus_base_CI95": [
+        -7.500394999999969,
+        7.631487500000023
+      ]
+    },
+    "opener_meta": {
+      "means": {
+        "glm-5-3": 0.24,
+        "glm-5-3-flash": 0.07,
+        "glm-5-3-flashx": 0.1
+      },
+      "flashx_minus_base_CI95": [
+        -0.23000000000000004,
+        -0.04999999999999999
+      ]
+    },
+    "dialogue_rate": {
+      "means": {
+        "glm-5-3": 3.3609199999999997,
+        "glm-5-3-flash": 1.5875,
+        "glm-5-3-flashx": 1.98012
+      },
+      "flashx_minus_base_CI95": [
+        -2.23814,
+        -0.4645084999999995
+      ]
+    }
+  },
+  "condition_pairs": {
+    "LONG": {
+      "base_flashx": 0.8603629518363243,
+      "flash_flashx": 0.8994801732671828,
+      "base_flash": 0.8783011553767669
+    },
+    "MID": {
+      "base_flashx": 0.8537934933317021,
+      "flash_flashx": 0.8696435082771655,
+      "base_flash": 0.8452630804575638
+    },
+    "OPEN": {
+      "base_flashx": 0.8068188700991211,
+      "flash_flashx": 0.8402429465206808,
+      "base_flash": 0.8002619046766316
+    },
+    "SHORT": {
+      "base_flashx": 0.7849577722210992,
+      "flash_flashx": 0.8143031416562451,
+      "base_flash": 0.7839085167640617
+    },
+    "VARY": {
+      "base_flashx": 0.8856155969085016,
+      "flash_flashx": 0.8685407123726577,
+      "base_flash": 0.8606538900019446
+    }
+  },
+  "split_half": {
+    "glm-5-3": {
+      "median": 0.9205279162162686,
+      "range95": [
+        0.913109137439946,
+        0.9245249234677309
+      ],
+      "note": "48vs52 samples, LONG excluded; finite-sample reference, not a formal equivalence test"
+    },
+    "glm-5-3-flash": {
+      "median": 0.923633024814263,
+      "range95": [
+        0.917037902100518,
+        0.9277293283770286
+      ],
+      "note": "48vs52 samples, LONG excluded; finite-sample reference, not a formal equivalence test"
+    },
+    "glm-5-3-flashx": {
+      "median": 0.9199113926985429,
+      "range95": [
+        0.9114905291695414,
+        0.9249815120344898
+      ],
+      "note": "48vs52 samples, LONG excluded; finite-sample reference, not a formal equivalence test"
+    }
+  },
+  "nonlong_similarity": {
+    "base_flash": 0.9272932391758597,
+    "base_flashx": 0.9435841843637449,
+    "flash_flashx": 0.9469372312840195
+  },
+  "style_scope": "100 samples/model: SHORT,MID,OPEN,VARY; LONG excluded equally for all three due to15 length finishes in base GLM5.3",
+  "raw_finish_counts": {
+    "glm-5-3": {
+      "stop": 125
+    },
+    "glm-5-3-flash": {
+      "stop": 125
+    },
+    "glm-5-3-flashx": {
+      "stop": 125
+    }
+  }
+}

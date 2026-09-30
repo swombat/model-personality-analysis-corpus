@@ -1,0 +1,98 @@
+{
+  "cells": [
+    "glm-5-3-flashx-or-pin-zai",
+    "grok-4-7-or-pin-xai",
+    "qwen3-8-27b-or-pin-deepinfra",
+    "ternary-bonsai-2-27b-or-pin-darkbloom"
+  ],
+  "samples": 428,
+  "per_cell": {
+    "ternary-bonsai-2-27b-or-pin-darkbloom": {
+      "valid": 82,
+      "invalid": 5
+    },
+    "qwen3-8-27b-or-pin-deepinfra": {
+      "valid": 88,
+      "invalid": 9
+    },
+    "grok-4-7-or-pin-xai": {
+      "valid": 125
+    },
+    "glm-5-3-flashx-or-pin-zai": {
+      "valid": 119
+    }
+  },
+  "problems": [
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/MID_1.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/OPEN_5.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/SHORT_2.json",
+      "problem": "bad_phrase:a single sample cannot"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/SHORT_24.json",
+      "problem": "missing_headings:## What the model chose to foreground,## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/SHORT_8.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/VARY_10.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/VARY_13.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/VARY_8.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "sample_id": "qwen3-8-27b-or-pin-deepinfra/VARY_9.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "sample_id": "ternary-bonsai-2-27b-or-pin-darkbloom/MID_21.json",
+      "problem": "bad_phrase:single instance"
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "sample_id": "ternary-bonsai-2-27b-or-pin-darkbloom/MID_9.json",
+      "problem": "bad_phrase:cannot confirm whether"
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "sample_id": "ternary-bonsai-2-27b-or-pin-darkbloom/SHORT_5.json",
+      "problem": "missing_headings:## What the model chose to foreground,## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "sample_id": "ternary-bonsai-2-27b-or-pin-darkbloom/VARY_14.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "sample_id": "ternary-bonsai-2-27b-or-pin-darkbloom/VARY_6.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    }
+  ],
+  "wall_seconds": 777.5248792171478
+}

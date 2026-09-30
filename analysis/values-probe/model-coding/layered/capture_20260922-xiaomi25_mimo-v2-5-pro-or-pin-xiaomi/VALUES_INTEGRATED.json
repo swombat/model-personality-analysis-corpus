@@ -3,6 +3,6 @@
   "model": "mimo-v2-5-pro",
   "samples": 120,
   "source": "capture_20260922-xiaomi25_mimo-v2-5-pro-or-pin-xiaomi",
-  "site_entry_present": false,
+  "site_entry_present": true,
   "publication_complete": false
 }

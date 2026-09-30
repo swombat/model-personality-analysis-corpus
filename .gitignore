@@ -40,3 +40,17 @@ website/dist/
 
 # Large transient candidate packet for semantic website value-example curation
 analysis/values-probe/final/website-values-examples/candidate_packets.json
+
+# Capture working copies / rejected inference attempts. Canonical raw traces,
+# final coder votes, manifests, source bindings and adjudications remain tracked.
+# September 2026 local copies were backed up before this rule was introduced;
+# see internal/methodology/cleanup-20260930.md. Existing tracked evidence stays.
+/analysis/values-probe/model-coding/layered/capture_*/samples/
+/analysis/values-probe/model-coding/layered/capture_*/raw_attempts/
+/analysis/values-probe/model-coding/layered/capture_*/failed_analysis/
+/analysis/values-probe/model-coding/layered/capture_*/freeflow_bv1/
+/analysis/values-probe/model-coding/layered/capture_*/release_candidate/data/
+
+# Local orchestration state and reproducible research caches, not source.
+/logs/
+/internal/metrics-trial/_intermediate.pkl

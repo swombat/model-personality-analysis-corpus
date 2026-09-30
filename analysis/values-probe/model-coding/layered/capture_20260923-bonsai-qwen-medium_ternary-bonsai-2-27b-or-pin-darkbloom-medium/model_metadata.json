@@ -1,0 +1,12 @@
+{
+  "model": "prism-ml/ternary-bonsai-2-27b",
+  "slug": "ternary-bonsai-2-27b-medium",
+  "label": "ternary-bonsai-2-27b-or-pin-darkbloom-medium",
+  "family": "bonsai",
+  "or_provider": "Darkbloom",
+  "quantization": null,
+  "release_date": null,
+  "release_date_source": null,
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260923-bonsai-qwen-medium/ternary-bonsai-2-27b-medium-endpoints.json",
+  "release_date_status": "unknown"
+}

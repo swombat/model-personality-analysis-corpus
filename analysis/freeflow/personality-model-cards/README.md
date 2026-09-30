@@ -166,11 +166,15 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [mimo-v2-6-flash](cards/mimo-v2-6-flash.md) — samples: 125
 - [glm-5-3-flashx](cards/glm-5-3-flashx.md) — samples: 125
 - [mimo-v2-6-pro](cards/mimo-v2-6-pro.md) — samples: 125
+- [glm-5-3](cards/glm-5-3.md) — samples: 125
 - [mimo-v2-5](cards/mimo-v2-5.md) — samples: 125
 - [gpt-6-sol](cards/gpt-6-sol.md) — samples: 125
 - [gpt-6-luna](cards/gpt-6-luna.md) — samples: 125
 - [claude-opus-5-5](cards/claude-opus-5-5.md) — samples: 125
-- [sonnet-5-5](cards/sonnet-5-5.md) — samples: 125
 - [qwen3-8-27b](cards/qwen3-8-27b.md) — samples: 125
+- [sonnet-5-5](cards/sonnet-5-5.md) — samples: 125
 - [space-bunny-alpha](cards/space-bunny-alpha.md) — samples: 125
 - [gpt-6-1-sol](cards/gpt-6-1-sol.md) — samples: 125
+- [mimo-v2-5-pro](cards/mimo-v2-5-pro.md) — samples: 125
+- [ternary-bonsai-2-27b-medium](cards/ternary-bonsai-2-27b-medium.md) — samples: 125
+- [qwen3-8-27b-medium](cards/qwen3-8-27b-medium.md) — samples: 125

@@ -1,0 +1,12 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "slug": "qwen3-8-27b-medium",
+  "label": "qwen3-8-27b-or-pin-deepinfra-medium",
+  "family": "qwen",
+  "or_provider": "DeepInfra",
+  "quantization": null,
+  "release_date": null,
+  "release_date_source": null,
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260923-bonsai-qwen-medium/qwen3-8-27b-medium-endpoints.json",
+  "release_date_status": "unknown"
+}

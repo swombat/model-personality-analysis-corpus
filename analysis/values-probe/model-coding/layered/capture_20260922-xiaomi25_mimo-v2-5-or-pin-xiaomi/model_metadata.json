@@ -1,0 +1,12 @@
+{
+  "model": "xiaomi/mimo-v2.5",
+  "slug": "mimo-v2-5",
+  "label": "mimo-v2-5-or-pin-xiaomi",
+  "family": "mimo",
+  "or_provider": "Xiaomi",
+  "quantization": "fp8",
+  "release_date": null,
+  "release_date_source": null,
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260922-xiaomi25/catalog/mimo-v2.5-endpoints.json",
+  "release_date_status": "unknown"
+}

@@ -1,0 +1,10 @@
+{
+  "policy": "preserve-provisional-ties-with-disclosure-v1",
+  "authorization": "Daniel request 2026-09-30; Mira applies existing phase34/phase36 disclosure precedent",
+  "residual_splits": [
+    "CAP_20260923-space-bunny_space-bunny-alpha_G2_22"
+  ],
+  "adjudication_sha256": "a15969b1d13d7e4dc592576ad8e3902e8750166a2e0e793c79b99daeacc111a7",
+  "posture_sha256": "d7413f1634bf47f99dbdd0ab30a22cdb02140ddab2be779afd9b0bbe7e6b4967",
+  "method_note": "internal/methodology/residual-values-publication-20260930.md"
+}

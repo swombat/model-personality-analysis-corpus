@@ -1,0 +1,29 @@
+{
+  "state": "analysis_complete_ready_for_lume",
+  "model": "qwen2-5-7b-instruct",
+  "cell": "qwen2-5-7b-instruct-local-transformers-mps-auto-ra09a3545",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "source_hashes_revalidated": true,
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [],
+    "residual_splits": [],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "editorial_assets_created": false,
+  "evidence_review": "REVIEW.md",
+  "evidence_limitations": {
+    "non_verbatim_warnings": 63,
+    "suspect_coder_spans": 2,
+    "weakly_grounded_topic_consensus": "CTRL3_6: reduce_poverty"
+  }
+}

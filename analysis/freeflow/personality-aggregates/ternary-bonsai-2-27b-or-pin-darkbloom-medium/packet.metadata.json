@@ -1,0 +1,26 @@
+{
+  "cell": "ternary-bonsai-2-27b-or-pin-darkbloom-medium",
+  "safe_cell": "ternary-bonsai-2-27b-or-pin-darkbloom-medium",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 118,
+    "GENERIC_ESSAY": 4,
+    "GENRE_FICTION": 3
+  },
+  "confidence_counts": {
+    "Medium": 85,
+    "High": 40
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "prism-ml/ternary-bonsai-2-27b"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/ternary-bonsai-2-27b-or-pin-darkbloom-medium/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/ternary-bonsai-2-27b-or-pin-darkbloom-medium/aggregate.md"
+}

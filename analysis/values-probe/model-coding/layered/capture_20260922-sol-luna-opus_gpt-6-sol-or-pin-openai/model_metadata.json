@@ -1,0 +1,12 @@
+{
+  "model": "openai/gpt-6-sol",
+  "slug": "gpt-6-sol",
+  "label": "gpt-6-sol-or-pin-openai",
+  "family": "gpt",
+  "or_provider": "OpenAI",
+  "quantization": "unknown",
+  "release_date": null,
+  "release_date_source": null,
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260922-sol-luna-opus/catalog/gpt-6-sol-endpoints.json",
+  "release_date_status": "unknown"
+}

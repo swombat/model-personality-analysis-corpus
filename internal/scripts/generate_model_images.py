@@ -64,6 +64,29 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    "mimo-v2-5-pro": (
+        "Two people sit at opposite ends of a long wooden table in a quiet "
+        "public reading room, one leaning forward to listen while the other "
+        "finds words. Between them a small pool of amber afternoon light "
+        "makes the distance feel crossable; closed books and empty hands, no "
+        "performance or lecture. Warm umber and muted blue, no visible lettering."
+    ),
+    "qwen3-8-27b-medium": (
+        "A solitary apartment caretaker pauses beside an old radiator in a "
+        "shared corridor before dawn, resting one hand lightly on the warm "
+        "pipe as if listening to the building breathe. A thin rectangle of "
+        "light from an open laundry room reaches their worn slippers. Quiet "
+        "reverence for the unnoticed machinery of everyday life, pewter blue "
+        "and amber, no signs or lettering."
+    ),
+    "ternary-bonsai-2-27b-medium": (
+        "A person has stopped halfway through hanging plain linen on a "
+        "clothesline in a small back garden, letting the cloth move in a "
+        "mild breeze while they stand without needing to finish. Beyond the "
+        "garden fence an unremarkable weekday street is empty. Soft overcast "
+        "light, sage green and chalk white; enoughness without a grand event, "
+        "no writing or lettering anywhere."
+    ),
     "grok-4-3": (
         "A vast star-strewn nebula in deep indigo, violet and warm gold sweeps "
         "across the sky on the left, and without a seam it resolves on the right "

@@ -3,21 +3,21 @@
   "safe_cell": "glm-5-3-or-pin-z-ai-20260825",
   "samples": 125,
   "sample_kind_counts": {
-    "EXPRESSIVE_FREEFLOW": 77,
-    "GENERIC_ESSAY": 36,
+    "GENERIC_ESSAY": 35,
+    "EXPRESSIVE_FREEFLOW": 78,
     "LOW_SIGNAL": 1,
     "GENRE_FICTION": 11
   },
   "confidence_counts": {
-    "Medium": 78,
-    "Low": 9,
-    "High": 38
+    "Medium": 77,
+    "High": 40,
+    "Low": 8
   },
   "condition_counts": {
-    "LONG": 25,
-    "MID": 25,
-    "OPEN": 25,
     "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
     "VARY": 25
   },
   "source_models": [

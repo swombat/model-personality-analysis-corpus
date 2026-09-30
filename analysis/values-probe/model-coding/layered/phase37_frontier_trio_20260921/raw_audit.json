@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 66.79166666666667,
+      "cost": 0.31618320000000005
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 244.69166666666666,
+      "cost": 0.25020435
+    },
+    {
+      "cell": "ternary-bonsai-2-27b-or-pin-darkbloom",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 103.23333333333333,
+      "cost": 0.03303549999999999
+    },
+    {
+      "cell": "qwen3-8-27b-or-pin-deepinfra",
+      "probe": "values",
+      "samples": 120,
+      "conditions": {
+        "CTRL1": 10,
+        "CTRL2": 10,
+        "CTRL3": 10,
+        "G1": 30,
+        "G2": 30,
+        "G3": 30
+      },
+      "finish_reasons": {
+        "stop": 120
+      },
+      "mean_words": 86.05,
+      "cost": 0.11267700000000003
+    }
+  ],
+  "problems": []
+}

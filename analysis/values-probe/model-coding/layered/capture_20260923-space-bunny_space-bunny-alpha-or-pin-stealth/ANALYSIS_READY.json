@@ -1,0 +1,44 @@
+{
+  "state": "analysis_complete_awaiting_publication",
+  "model": "space-bunny-alpha",
+  "cell": "space-bunny-alpha-or-pin-stealth",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "bv1_evaluator_arm": "legacy-deepseek",
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [
+      "CAP_20260923-space-bunny_space-bunny-alpha_G1_9",
+      "CAP_20260923-space-bunny_space-bunny-alpha_G2_22"
+    ],
+    "residual_splits": [
+      "CAP_20260923-space-bunny_space-bunny-alpha_G2_22"
+    ],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "values_integrated": true,
+  "combined_card": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/CARD_READY.json",
+  "phase": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth",
+  "token_policy": {
+    "freeflow": [
+      16000,
+      32768,
+      65536
+    ],
+    "values": [
+      4000,
+      8000,
+      16000,
+      32768,
+      65536
+    ]
+  }
+}

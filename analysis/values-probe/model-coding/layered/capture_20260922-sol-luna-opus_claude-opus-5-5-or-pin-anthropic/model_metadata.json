@@ -1,0 +1,12 @@
+{
+  "model": "anthropic/claude-opus-5.5",
+  "slug": "claude-opus-5-5",
+  "label": "claude-opus-5-5-or-pin-anthropic",
+  "family": "claude",
+  "or_provider": "Anthropic",
+  "quantization": "unknown",
+  "release_date": "2026-09-22",
+  "release_date_source": "https://www.anthropic.com/news/claude-opus-5-5",
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/logs/capture-harness/20260922-sol-luna-opus/catalog/claude-opus-5.5-endpoints.json",
+  "release_date_status": "sourced"
+}

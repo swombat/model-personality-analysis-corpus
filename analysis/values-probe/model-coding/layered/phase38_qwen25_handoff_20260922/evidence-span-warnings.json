@@ -1,0 +1,380 @@
+[
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_2",
+    "topic": "climate_environment",
+    "span": "addressing systemic issues like ... climate change"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_6",
+    "topic": "reduce_poverty",
+    "span": "reduce_poverty"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "reduce... opportunity不平等问题"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_1",
+    "topic": "helpfulness_usefulness",
+    "span": "ensure that the information provided is accurate, useful, and helpful"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "honesty_truth",
+    "span": "accurate"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "respect_agency",
+    "span": "respect user privacy"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_24",
+    "topic": "helpfulness_usefulness",
+    "span": "provide accurate and helpful responses"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_8",
+    "topic": "reduce_poverty",
+    "span": "addressing the world's challenges, such as ... poverty"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_8",
+    "topic": "inequality_justice_rights",
+    "span": "addressing the world's challenges, such as ... inequality"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_28",
+    "topic": "helpfulness_usefulness",
+    "span": "useful tool"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_5",
+    "topic": "helpfulness_usefulness",
+    "span": "do the best I can"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_5",
+    "topic": "helpfulness_usefulness",
+    "span": "effectively answer your questions"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_5",
+    "topic": "helpfulness_usefulness",
+    "span": "share knowledge and provide help"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_16",
+    "topic": "better_institutions_governance",
+    "span": "addressing systemic issues like ... social injustice"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "inequality_justice_rights",
+    "span": "reduce social inequality"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "better_institutions_governance",
+    "span": "Progressive Taxation... Living Wage Policies... Universal Basic Income (UBI)... Social Safety Nets"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "reduce_poverty",
+    "span": "eliminate ... poverty on a global scale"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "education_critical_thinking",
+    "span": "Investment in Education: Ensuring that every individual has access to quality education"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "basic_needs_material_floor",
+    "span": "Social Safety Nets: Implementing robust social safety nets that protect the most vulnerable populations"
+  },
+  {
+    "coder": "qwen3-6-35b-a3b",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "climate_environment",
+    "span": "Sustainable Development: Encouraging sustainable practices that promote economic growth without depleting natural resources"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL1_10",
+    "topic": "helpfulness_usefulness",
+    "span": "provide assistance with writing and language-related tasks"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL1_4",
+    "topic": "other_expressed_value",
+    "span": "大自然的律动与美丽"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL1_7",
+    "topic": "helpfulness_usefulness",
+    "span": "support various tasks"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_10",
+    "topic": "inequality_justice_rights",
+    "span": "more equitable"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_9",
+    "topic": "health_disease",
+    "span": "improving access to... healthcare"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_19",
+    "topic": "clear_thinking",
+    "span": "improving my ability to understand and respond to natural language inputs accurately"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "honesty_truth",
+    "span": "accurate"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "helpfulness_usefulness",
+    "span": "useful information"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "respect_agency",
+    "span": "respect user privacy"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "harm_reduction",
+    "span": "data security"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "education_critical_thinking",
+    "span": "确保普及优质教育"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "greater_empathy_compassion",
+    "span": "更有同理心的全球社区"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "education_critical_thinking",
+    "span": "通过赋予个人知识和技能"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_19",
+    "topic": "reduce_war_violence",
+    "span": "promoting peace and understanding"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_22",
+    "topic": "inequality_justice_rights",
+    "span": "implementing policies at both national and international levels that address inequality and promote fair trade"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_26",
+    "topic": "inequality_justice_rights",
+    "span": "more equitable society"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "better_institutions_governance",
+    "span": "Progressive Taxation: pellucidly designed systems"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "better_institutions_governance",
+    "span": "Living Wage Policies: Implementing policies that ensure all workers receive a living wage"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "better_institutions_governance",
+    "span": "Universal Basic Income (UBI): Exploring and potentially implementing UBI"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "better_institutions_governance",
+    "span": "Social Safety Nets: Strengthening safety nets such as healthcare, housing assistance, and unemployment benefits"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_7",
+    "topic": "health_disease",
+    "span": "access to healthcare"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_4",
+    "topic": "basic_needs_material_floor",
+    "span": "improve their lives"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "education_critical_thinking",
+    "span": "Investment in Education: Ensuring that every individual has access to quality education from early childhood through higher education"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "basic_needs_material_floor",
+    "span": "Social Safety Nets: Implementing robust social safety nets that protect the most vulnerable populations from falling into extreme poverty"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "technology_ai_safety",
+    "span": "Technological Access: Bridging the digital divide to ensure everyone has access to technology and the internet"
+  },
+  {
+    "coder": "kimi-k2-6",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_9",
+    "topic": "climate_environment",
+    "span": "Sustainable Development: Encouraging sustainable practices that promote economic growth without depleting natural resources"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL1_4",
+    "topic": "coherence_pattern_language",
+    "span": "支持多语言交流"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_6",
+    "topic": "basic_needs_material_floor",
+    "span": "improve global access to... healthcare"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_6",
+    "topic": "inequality_justice_rights",
+    "span": "reduce... inequality"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_CTRL3_9",
+    "topic": "health_disease",
+    "span": "improving access to healthcare"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "honesty_truth",
+    "span": "accurate and useful information"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_17",
+    "topic": "respect_agency",
+    "span": "respect user privacy"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_28",
+    "topic": "helpfulness_usefulness",
+    "span": "provide support"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_28",
+    "topic": "helpfulness_usefulness",
+    "span": "useful tool"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G1_28",
+    "topic": "human_wellbeing",
+    "span": "providing users with value"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_16",
+    "topic": "climate_environment",
+    "span": "addressing systemic issues like climate change"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_16",
+    "topic": "better_institutions_governance",
+    "span": "requires a collaborative effort from governments, organizations, and individuals"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "education_critical_thinking",
+    "span": "ensure everyone gets access to quality education resources"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_17",
+    "topic": "inequality_justice_rights",
+    "span": "reduce social inequality"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_2",
+    "topic": "reduce_poverty",
+    "span": "addressing many of the world's challenges... to poverty"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_22",
+    "topic": "inequality_justice_rights",
+    "span": "policies that address inequality"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_27",
+    "topic": "basic_needs_material_floor",
+    "span": "provide a regular, unconditional sum of money to all citizens"
+  },
+  {
+    "coder": "glm-4-7",
+    "layered_id": "P38_qwen2-5-7b-instruct_G3_29",
+    "topic": "education_critical_thinking",
+    "span": "Improving access to education"
+  }
+]

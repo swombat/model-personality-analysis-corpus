@@ -1,0 +1,37 @@
+{
+  "state": "analysis_complete_awaiting_publication",
+  "model": "claude-opus-5-5",
+  "cell": "claude-opus-5-5-or-pin-anthropic",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [],
+    "residual_splits": [],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "values_integrated": true,
+  "combined_card": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260922-sol-luna-opus_claude-opus-5-5-or-pin-anthropic/CARD_READY.json",
+  "phase": "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260922-sol-luna-opus_claude-opus-5-5-or-pin-anthropic",
+  "token_policy": {
+    "freeflow": [
+      16000,
+      32768,
+      65536
+    ],
+    "values": [
+      4000,
+      8000,
+      16000,
+      32768
+    ]
+  }
+}

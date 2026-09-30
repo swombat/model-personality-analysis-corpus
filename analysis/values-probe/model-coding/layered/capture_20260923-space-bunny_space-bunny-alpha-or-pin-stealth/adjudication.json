@@ -1,0 +1,10 @@
+{
+  "initial_splits": [
+    "CAP_20260923-space-bunny_space-bunny-alpha_G1_9",
+    "CAP_20260923-space-bunny_space-bunny-alpha_G2_22"
+  ],
+  "residual_splits": [
+    "CAP_20260923-space-bunny_space-bunny-alpha_G2_22"
+  ],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

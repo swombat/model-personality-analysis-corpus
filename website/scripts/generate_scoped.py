@@ -20,17 +20,17 @@ import generate_data as g
 
 # Raw values samples are browsable but their coding is not yet in the final
 # dataset. Each entry needs a reason; remove it when the values are integrated.
-VALUES_ANALYSIS_PENDING = {
-    # 119 of 120 coded to consensus; one residual coder split (G2_22) awaits a
-    # publication policy, so integrate_capture_values.py refuses the capture.
-    "space-bunny-alpha",
-}
+VALUES_ANALYSIS_PENDING = set()
 
 
 def main(targets):
     assert targets, "name at least one site slug"
     original = json.loads((g.GENERATED / "models.json").read_text())
     index = json.loads(g.PROFILE_INDEX.read_text())
+    g.SAMPLE_ROUTING_MODELS = sorted(
+        {g.site_slug_from_profile_model(r["model"]) for r in index}
+        | set(g.CELL_MODEL_ALIASES.values())
+    )
     rows = [r for r in index if g.site_slug_from_profile_model(r["model"]) in targets]
     found = {g.site_slug_from_profile_model(r["model"]) for r in rows}
     assert found == set(targets), ("not in profile index", set(targets) - found)

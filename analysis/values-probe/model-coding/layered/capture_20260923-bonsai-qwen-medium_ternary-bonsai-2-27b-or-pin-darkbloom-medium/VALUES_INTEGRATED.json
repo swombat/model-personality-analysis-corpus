@@ -3,6 +3,6 @@
   "model": "ternary-bonsai-2-27b-medium",
   "samples": 120,
   "source": "capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium",
-  "site_entry_present": false,
+  "site_entry_present": true,
   "publication_complete": false
 }

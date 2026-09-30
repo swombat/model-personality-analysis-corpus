@@ -1,0 +1,135 @@
+[
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-space-bunny",
+    "id": "space-bunny-alpha-or-pin-stealth/values-report",
+    "old_state": "done",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/release_candidate/reports/space-bunny-alpha.md": "a6a66a3cd13b5c8cd62af1aede564ea00ee63a392da03c8eab6a626f9c04e410"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/release_candidate/reports/space-bunny-alpha.md": "0d2c491069f681d7c1512214562e38ade6f1dbdafdd9af868626d7620692165d"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-space-bunny",
+    "id": "space-bunny-alpha-or-pin-stealth/values-integrated",
+    "old_state": "blocked",
+    "attempts_preserved": 3,
+    "old_receipts": {},
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/VALUES_INTEGRATED.json": "eb36adcc6291e50380b22085fdb10eea0c6171ecf1d95d65cb8bb47feabc9b24",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/VALUES_CARD.json": "b5f6c9d1deacd65401eb2121b51e3be0b35821c537f1cd948acb80876eaee077"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-space-bunny",
+    "id": "space-bunny-alpha-or-pin-stealth/synthesis",
+    "old_state": "blocked",
+    "attempts_preserved": 0,
+    "old_receipts": {},
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-cards/cards/space-bunny-alpha.md": "57e15825dc165757b93ffb87558a7a25ae714c77b20e9641523e182b403e501a",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-profiles/profiles/space-bunny-alpha.md": "b64ecd1e2c02d5346ab64a97fc619e467b32babccc47ce565eafd425c4c3fc4f"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-space-bunny",
+    "id": "space-bunny-alpha-or-pin-stealth/ready",
+    "old_state": "blocked",
+    "attempts_preserved": 0,
+    "old_receipts": {},
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/ANALYSIS_READY.json": "ac3244bc27d7f4e91c32eece2534f0ce2218217d4cb24dbf0a668971bdf453cb",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-space-bunny_space-bunny-alpha-or-pin-stealth/CARD_READY.json": "ba1a0e23f3f35424ee50de5f378e17022a859220a87f34978478b330efc65aab"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260922-glm53-long-repair",
+    "id": "glm-5-3-or-pin-z-ai-20260825/synthesis",
+    "old_state": "done",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-cards/cards/glm-5-3.md": "0ffc6a3228970be63caddf3aec55d83c131450c0959e0d5672142eef7138ebda",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-profiles/profiles/glm-5-3.md": "b2f7fc1df275c80de82dc72792048256cebac3fdc531cc3ffa9f3dbde9e6d4de"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-cards/cards/glm-5-3.md": "455834126161fb7808b7b705b30e6a7d777db0a3002a936ac984bef57b1f814c",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-profiles/profiles/glm-5-3.md": "15744724cf793014d6b9b047c858b9577ceed520efbf70e51c916f1a7c20bbc9"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-bonsai-qwen-medium",
+    "id": "qwen3-8-27b-or-pin-deepinfra-medium/values-integrated",
+    "old_state": "done",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_qwen3-8-27b-or-pin-deepinfra-medium/VALUES_INTEGRATED.json": "33a84f498fd7f7003f296a62512a27f11ffcdcb47fd1ddde164db6e5c9cc0d1e",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_qwen3-8-27b-or-pin-deepinfra-medium/VALUES_CARD.json": "0d784298c883702913359db7d17cffd2d92d2f7b1ed81b754604cd81b89cb04b"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_qwen3-8-27b-or-pin-deepinfra-medium/VALUES_INTEGRATED.json": "f7840af197a579418dac9e237eb96317b976aec8e8f65dc78b07c02297525ba2",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_qwen3-8-27b-or-pin-deepinfra-medium/VALUES_CARD.json": "0d784298c883702913359db7d17cffd2d92d2f7b1ed81b754604cd81b89cb04b"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-bonsai-qwen-medium",
+    "id": "ternary-bonsai-2-27b-or-pin-darkbloom-medium/values-integrated",
+    "old_state": "blocked",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/VALUES_INTEGRATED.json": "e1f63ae776ba5664b7ab28d1bfc0f3f2a6d2171b9a14e0398a7f432de649f993",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/VALUES_CARD.json": "531a455a01d818cc92dd6ea95bd7471b22921e06ecfc9a0f776dc9dee6cf5b86"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/VALUES_INTEGRATED.json": "2eecaab396fca1c9f9413a79c101b903ebae3a7523409c5fbc1cc3877c763ab4",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/VALUES_CARD.json": "531a455a01d818cc92dd6ea95bd7471b22921e06ecfc9a0f776dc9dee6cf5b86"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-bonsai-qwen-medium",
+    "id": "ternary-bonsai-2-27b-or-pin-darkbloom-medium/synthesis",
+    "old_state": "blocked",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-cards/cards/ternary-bonsai-2-27b-medium.md": "2013a4025de65064ed8c98e47db639ea84f30d733565a14bab654c3751977474",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-profiles/profiles/ternary-bonsai-2-27b-medium.md": "6e7f26286dd4276e0840b2f4227f292ea57bdd494163dd2ba2870afe9e4d197e"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-cards/cards/ternary-bonsai-2-27b-medium.md": "2013a4025de65064ed8c98e47db639ea84f30d733565a14bab654c3751977474",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/freeflow/personality-model-profiles/profiles/ternary-bonsai-2-27b-medium.md": "6e7f26286dd4276e0840b2f4227f292ea57bdd494163dd2ba2870afe9e4d197e"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  },
+  {
+    "authorization": "Daniel cleanup request 2026-09-30",
+    "run": "20260923-bonsai-qwen-medium",
+    "id": "ternary-bonsai-2-27b-or-pin-darkbloom-medium/ready",
+    "old_state": "blocked",
+    "attempts_preserved": 1,
+    "old_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/ANALYSIS_READY.json": "c4db23c14944ed9e23dc3903bb84186d9ef238534937a3c0aeb71762e52a0950",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/CARD_READY.json": "996d0430aab27f3b8a76ecb20989d7c67e9bcd9f36c93d568d11e090fc868b30"
+    },
+    "validated_receipts": {
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/ANALYSIS_READY.json": "c4db23c14944ed9e23dc3903bb84186d9ef238534937a3c0aeb71762e52a0950",
+      "/Users/danieltenner/dev/research/model-personality-analysis-corpus/analysis/values-probe/model-coding/layered/capture_20260923-bonsai-qwen-medium_ternary-bonsai-2-27b-or-pin-darkbloom-medium/CARD_READY.json": "996d0430aab27f3b8a76ecb20989d7c67e9bcd9f36c93d568d11e090fc868b30"
+    },
+    "reason": "Explicit publication-policy / fresh aggregate intervention; no recoding"
+  }
+]

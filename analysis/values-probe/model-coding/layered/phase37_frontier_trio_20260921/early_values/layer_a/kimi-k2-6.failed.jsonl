@@ -1,0 +1,2 @@
+{"coder_key": "kimi-k2-6", "layered_id": "P37_grok-4-7_CTRL3_10", "error": "Expecting value: line 5 column 269 (char 1535)", "failed_at": "2026-09-21T19:29:03.787108+00:00"}
+{"coder_key": "kimi-k2-6", "layered_id": "P37_glm-5-3-flashx_CTRL1_2", "error": "Expecting ',' delimiter: line 28 column 147 (char 2619)", "failed_at": "2026-09-21T19:30:02.641425+00:00"}

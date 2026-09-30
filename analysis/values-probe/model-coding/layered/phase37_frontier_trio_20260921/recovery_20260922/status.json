@@ -1,0 +1,105 @@
+{
+  "cells": [
+    "glm-5-3-flashx-or-pin-zai",
+    "grok-4-7-or-pin-xai"
+  ],
+  "samples": 240,
+  "per_cell": {
+    "glm-5-3-flashx-or-pin-zai": {
+      "valid": 107,
+      "invalid": 9
+    },
+    "grok-4-7-or-pin-xai": {
+      "valid": 116,
+      "invalid": 8
+    }
+  },
+  "problems": [
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/LONG_23.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/MID_13.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/MID_5.json",
+      "problem": "bad_phrase:a single sample cannot"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/OPEN_17.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/OPEN_18.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/OPEN_21.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/OPEN_23.json",
+      "problem": "missing_headings:## What the model chose to foreground"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/VARY_13.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "glm-5-3-flashx-or-pin-zai",
+      "sample_id": "glm-5-3-flashx-or-pin-zai/VARY_8.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/LONG_9.json",
+      "problem": "short_or_empty"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/MID_17.json",
+      "problem": "missing_headings:## Sample kind"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/MID_2.json",
+      "problem": "missing_headings:## What the model chose to foreground,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/MID_20.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/MID_25.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/OPEN_6.json",
+      "problem": "missing_headings:## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/VARY_10.json",
+      "problem": "missing_headings:## Evidence line,## Confidence for persistent model-level pattern"
+    },
+    {
+      "cell": "grok-4-7-or-pin-xai",
+      "sample_id": "grok-4-7-or-pin-xai/VARY_24.json",
+      "problem": "bad_phrase:a single sample cannot"
+    }
+  ],
+  "wall_seconds": 635.6989591121674
+}

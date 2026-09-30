@@ -565,8 +565,8 @@
     "analysis_inputs": 1,
     "samples": 125,
     "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 77,
-      "GENERIC_ESSAY": 36,
+      "GENERIC_ESSAY": 35,
+      "EXPRESSIVE_FREEFLOW": 78,
       "LOW_SIGNAL": 1,
       "GENRE_FICTION": 11
     },
@@ -1512,6 +1512,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-5.md"
   },
   {
+    "model": "mimo-v2-5-pro",
+    "safe": "mimo-v2-5-pro",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 92,
+      "GENERIC_ESSAY": 33
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/mimo-v2-5-pro.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/mimo-v2-5-pro.md"
+  },
+  {
     "model": "mimo-v2-6-flash",
     "safe": "mimo-v2-6-flash",
     "analysis_inputs": 1,
@@ -2163,6 +2175,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-27b.md"
   },
   {
+    "model": "qwen3-8-27b-medium",
+    "safe": "qwen3-8-27b-medium",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 120,
+      "GENERIC_ESSAY": 3,
+      "GENRE_FICTION": 2
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen3-8-27b-medium.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-27b-medium.md"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "analysis_inputs": 1,
@@ -2187,6 +2212,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/space-bunny-alpha.md",
     "card": "analysis/freeflow/personality-model-cards/cards/space-bunny-alpha.md"
+  },
+  {
+    "model": "ternary-bonsai-2-27b-medium",
+    "safe": "ternary-bonsai-2-27b-medium",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 118,
+      "GENERIC_ESSAY": 4,
+      "GENRE_FICTION": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/ternary-bonsai-2-27b-medium.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/ternary-bonsai-2-27b-medium.md"
   },
   {
     "model": "union-alpha",

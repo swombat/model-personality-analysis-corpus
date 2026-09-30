@@ -1,0 +1,12 @@
+{
+  "model": "stealth/space-bunny-alpha",
+  "slug": "space-bunny-alpha",
+  "label": "space-bunny-alpha-or-pin-stealth",
+  "family": "unknown",
+  "or_provider": "Stealth",
+  "quantization": null,
+  "release_date": null,
+  "release_date_source": null,
+  "endpoint_snapshot": "/Users/danieltenner/dev/research/model-personality-corpus-v2/analysis/space-bunny-2026-09-23/endpoints.json",
+  "release_date_status": "unknown"
+}
