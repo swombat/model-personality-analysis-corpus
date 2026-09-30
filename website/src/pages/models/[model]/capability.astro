@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import models from '../../../generated/models.json';
+
+// One page per scored model: the ladder number broken into its 22 rungs.
+// Borrowed scores (capability.borrowed_from) get a page too, showing the
+// root's rungs and saying so.
+export function getStaticPaths() {
+  return models
+    .filter((model) => model.status !== 'redirect')
+    .filter((model) => model.capability?.status === 'scored' && Array.isArray(model.capability.rungs))
+    .map((model) => ({ params: { model: model.model }, props: { model } }));
+}
+
+const { model } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const displayName = model.display_name || model.model;
+const cap = model.capability;
+const borrowedFromModel = cap.borrowed_from ? models.find((m) => m.model === cap.borrowed_from) : null;
+const borrowedFromName = borrowedFromModel?.display_name || cap.borrowed_from_display || cap.borrowed_from;
+const rungTotal = cap.rungs.reduce((sum, rung) => sum + rung.points, 0);
+const measuredCount = cap.rungs.filter((rung) => rung.how === 'measured').length;
+const methodologyHref = `${base}methodology/capability-ladder/`;
+---
+
+<BaseLayout
+  title={`${displayName} capability breakdown | Model Personality Browser`}
+  description={`${displayName}: capability ladder score ${cap.ladder} / ${cap.ladder_max}, broken down by benchmark rung.`}
+>
+  <article class="article capability-breakdown">
+    <p class="release-date"><a href={`${base}models/${model.model}/`}>← {displayName}</a></p>
+    <h1>{displayName}: capability breakdown</h1>
+    <p class="capability-breakdown-score">
+      <strong>{cap.ladder}</strong> / {cap.ladder_max}
+    </p>
+    <p class="capability-caption">
+      measured {measuredCount} of {cap.n_rungs} rungs · effort row: {cap.point_variant || 'default'} (the median of its published effort settings)
+    </p>
+    {cap.borrowed_from && (
+      <div class="model-note">
+        <p>
+          Borrowed score: this is <a href={`${base}models/${cap.borrowed_from}/`}>{borrowedFromName}</a>'s
+          ladder, same weights on a faster stack. This endpoint has not been measured separately; every row
+          below is {borrowedFromName}'s.
+        </p>
+      </div>
+    )}
+    <p>
+      This page shows where the number comes from. Each rung is one public benchmark, worth up to 10 points
+      times the model's chance-corrected score on it; the score is the sum of all {cap.n_rungs} rungs.
+      <a href={methodologyHref}>How the capability ladder works</a> explains the rungs, the fit and its limits.
+    </p>
+
+    <table class="capability-rungs">
+      <thead>
+        <tr>
+          <th>Rung (easiest → hardest)</th>
+          <th class="num">Points / 10</th>
+          <th>How</th>
+          <th>Source date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {cap.rungs.map((rung) => (
+          <tr class={rung.how === 'measured' ? 'rung-measured' : 'rung-fitted'}>
+            <td>{rung.name}</td>
+            <td class="num">{rung.points.toFixed(2)}</td>
+            <td>{rung.how === 'measured' ? 'measured' : <span class="rung-fitted-tag">fitted</span>}</td>
+            <td>{rung.how === 'measured' ? rung.source_date || '' : ''}</td>
+          </tr>
+        ))}
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Total</td>
+          <td class="num">{rungTotal.toFixed(2)}</td>
+          <td colspan="2">= {cap.ladder} / {cap.ladder_max}</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <p class="capability-caption">
+      <strong>Measured</strong> rows are the model's own published result on that benchmark.
+      <span class="rung-fitted-tag">fitted</span> rows are an item-response estimate: what a model with this
+      ability would be expected to score on a benchmark it has no published result for
+      (<a href={methodologyHref}>see the methodology</a>).
+    </p>
+    <p class="capability-caption">
+      Per-benchmark results are Artificial Analysis's (public model pages); fitted values are this site's
+      estimates. Permission to republish requested 2026-09-05.
+    </p>
+  </article>
+</BaseLayout>

@@ -56,6 +56,9 @@ function capabilityTitle(display) {
       `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
       `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs, median thinking budget; ` +
       `${cap.match_confidence} match to ${cap.matched_model}). ` +
+      (cap.borrowed_from
+        ? `Borrowed: this is ${cap.borrowed_from_display}'s score (same weights, faster serving; not measured separately). `
+        : '') +
       `Source: ${cap.source}.`
     );
   }
@@ -197,7 +200,7 @@ function valuePillStyle(label) {
         {capabilityDisplayValue.kind === 'ladder' && (
           <a
             class="benchmark-score capability-score"
-            href={`${base}methodology/capability-ladder/`}
+            href={`${base}models/${model.model}/capability/`}
             title={capabilityTitleValue}
             aria-label={capabilityTitleValue}
           >

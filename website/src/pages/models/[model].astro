@@ -139,6 +139,9 @@ function capabilityDisplay(model) {
 }
 
 const capabilityDisplayValue = capabilityDisplay(model);
+const borrowedFromSlug = model.capability?.borrowed_from || null;
+const borrowedFromModel = borrowedFromSlug ? models.find((m) => m.model === borrowedFromSlug) : null;
+const borrowedFromName = borrowedFromModel?.display_name || model.capability?.borrowed_from_display || borrowedFromSlug;
 ---
 
 <BaseLayout title={`${displayName} | Model Personality Browser`} description={model.summary}>
@@ -229,12 +232,18 @@ const capabilityDisplayValue = capabilityDisplay(model);
               <>
                 <div>
                   <b>Ladder score</b><br />
-                  <a href={`${base}methodology/capability-ladder/`}>
+                  <a href={`${base}models/${model.model}/capability/`}>
                     {capabilityDisplayValue.cap.ladder} / {capabilityDisplayValue.cap.ladder_max}
                   </a>
                   <br />
+                  {borrowedFromSlug && (
+                    <span class="capability-caption">
+                      score of <a href={`${base}models/${borrowedFromSlug}/`}>{borrowedFromName}</a>, same weights on a faster stack; not measured separately
+                      <br />
+                    </span>
+                  )}
                   <span class="capability-caption">
-                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs, median thinking budget
+                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs{borrowedFromSlug && ` (on ${borrowedFromName})`}, median thinking budget
                   </span>
                 </div>
                 <div><b>Source</b><br /><span>{capabilityDisplayValue.cap.source}</span></div>

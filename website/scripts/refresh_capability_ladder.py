@@ -40,6 +40,13 @@ Every site model gets a ladder score, a not_scored entry (if
 ``benchmarks.aaii`` should be tried as a fallback — handled downstream in
 generate_data.py, not here), or nothing.
 
+A site model listed in ``BORROWED_SCORES`` (same weights as another site
+model, faster serving, not measured itself) carries its root's entry,
+marked with ``borrowed_from`` so the site never shows it as measured.
+
+Each scored entry also carries ``rungs``: its per-rung points in difficulty
+order, for the site's per-model breakdown pages.
+
 Usage:
     python3 website/scripts/refresh_capability_ladder.py [--substrate aa|epoch]
 
@@ -94,6 +101,39 @@ EFFORT_SUFFIXES = [
     "-thinking",
     "-adaptive",
 ]
+
+
+# Site models that carry another site model's score instead of their own.
+# Same weights as the root, served on a faster stack; Artificial Analysis
+# has not measured these endpoints themselves. Daniel's decision,
+# 2026-09-30: show the root's score, always labelled as borrowed
+# (``borrowed_from``), never as if it were measured on this endpoint.
+BORROWED_SCORES = {
+    "mimo-v2-6-pro-ultraspeed": "mimo-v2-6-pro",
+    "glm-5-3-flashx": "glm-5-3-flash",
+}
+
+
+def rung_breakdown(entry: dict, rung_meta: list[dict]) -> list[dict]:
+    """Per-rung points for one combined entry, in the ladder's difficulty order.
+
+    Points keep the pipeline's two decimals: at one decimal the 22 rows can
+    drift up to 0.4 from the (one-decimal) ladder score they sum to.
+    """
+    rows = []
+    for rung in rung_meta:
+        cell = entry["rungs"][rung["key"]]
+        rows.append(
+            {
+                "key": rung["key"],
+                "name": rung["name"],
+                "points": round(cell["score"], 2),
+                "max": rung["max"],
+                "how": cell["how"],
+                "source_date": cell.get("source_date"),
+            }
+        )
+    return rows
 
 
 def strip_effort_suffix(slug: str) -> str:
@@ -157,6 +197,18 @@ def main() -> None:
     ladder_max = points_per_rung * n_rungs
     if ladder_max == int(ladder_max):
         ladder_max = int(ladder_max)
+    rung_max = int(points_per_rung) if points_per_rung == int(points_per_rung) else points_per_rung
+    # The pipeline lists rungs easiest-first by fitted difficulty.
+    rung_meta = [
+        {
+            "key": rung["id"],
+            "name": rung["label"],
+            "difficulty": rung["difficulty"],
+            "chance": rung["chance"],
+            "max": rung_max,
+        }
+        for rung in sorted(ladder["rungs"], key=lambda r: r["difficulty"])
+    ]
 
     if substrate == "epoch":
         # Epoch model name -> combined entry. No two combined entries
@@ -184,6 +236,7 @@ def main() -> None:
         by_name = {}
 
     aliases = load_aliases()
+    aliases_by_slug = {row["site_slug"]: row for row in aliases}
     if args.models:
         wanted = set(args.models)
         missing = wanted - {row["site_slug"] for row in aliases}
@@ -194,8 +247,7 @@ def main() -> None:
     scored = 0
     not_scored = 0
 
-    for row in aliases:
-        site_slug = row["site_slug"]
+    def resolve(row: dict[str, str]) -> tuple[dict | None, str, str | None]:
         if substrate == "epoch":
             entry, confidence = resolve_epoch(row, by_name)
             matched_model = (row.get("epoch_model") or "").strip() or None
@@ -210,6 +262,18 @@ def main() -> None:
         # unscored.
         if entry is not None and entry.get("ladder") is None:
             entry = None
+        return entry, confidence, matched_model
+
+    for row in aliases:
+        site_slug = row["site_slug"]
+        entry, confidence, matched_model = resolve(row)
+        borrowed_from = None
+        if entry is None and site_slug in BORROWED_SCORES:
+            root_slug = BORROWED_SCORES[site_slug]
+            root_entry, root_confidence, root_matched = resolve(aliases_by_slug[root_slug])
+            if root_entry is not None:
+                entry, confidence, matched_model = root_entry, root_confidence, root_matched
+                borrowed_from = root_slug
 
         if entry is not None:
             models[site_slug] = {
@@ -222,7 +286,11 @@ def main() -> None:
                 "match_confidence": confidence,
                 "point_variant": entry.get("point_variant"),
                 "source": SOURCE_LABEL[substrate],
+                "rungs": rung_breakdown(entry, rung_meta),
             }
+            if borrowed_from is not None:
+                models[site_slug]["borrowed_from"] = borrowed_from
+                models[site_slug]["borrowed_from_display"] = aliases_by_slug[borrowed_from]["display_name"]
             scored += 1
         else:
             models[site_slug] = {
@@ -244,6 +312,7 @@ def main() -> None:
         "source": SOURCE_LABEL[substrate],
         "ladder_max": ladder_max,
         "n_rungs": n_rungs,
+        "rungs": rung_meta,
         "models": models,
     }
 
@@ -253,6 +322,7 @@ def main() -> None:
             raise ValueError("Partial refresh requires the same substrate and rung scale")
         for record in models.values():
             record["generated"] = ladder.get("generated")
+        existing["rungs"] = rung_meta
         existing["models"].update(models)
         existing["last_partial_refresh"] = ladder.get("generated")
         output = existing

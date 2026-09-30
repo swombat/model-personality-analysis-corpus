@@ -481,6 +481,37 @@ select {
   font-size: 12px;
 }
 
+.capability-breakdown-score {
+  margin: 0;
+  font-size: 32px;
+}
+
+.capability-rungs {
+  margin: 18px 0;
+}
+
+.capability-rungs .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.capability-rungs .rung-measured td {
+  font-weight: 600;
+}
+
+.capability-rungs .rung-fitted td {
+  color: var(--muted, #918c82);
+}
+
+.capability-rungs tfoot td {
+  border-top: 2px solid var(--line-strong);
+  font-weight: 700;
+}
+
+.rung-fitted-tag {
+  font-style: italic;
+}
+
 .capability-not-scored {
   color: var(--muted, #918c82);
   font-style: italic;
