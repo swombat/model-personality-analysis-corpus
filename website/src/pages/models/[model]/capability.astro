@@ -45,6 +45,11 @@ const methodologyHref = `${base}methodology/capability-ladder/`;
         </p>
       </div>
     )}
+    {cap.provisional_note && (
+      <div class="model-note">
+        <p>{cap.provisional_note}</p>
+      </div>
+    )}
     <p>
       This page shows where the number comes from. Each rung is one public benchmark, worth up to 10 points
       times the model's chance-corrected score on it; the score is the sum of all {cap.n_rungs} rungs.

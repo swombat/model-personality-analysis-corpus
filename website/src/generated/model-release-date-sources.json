@@ -13,5 +13,8 @@
   "sonnet-5-5": "https://x.com/claudeai/status/2104633140409192757",
   "qwen3-8-27b": "OpenRouter model record created 2026-08-14 (qwen/qwen3.8-27b), from the endpoint snapshot saved with the capture. Recorded 2026-09-29.",
   "space-bunny-alpha": "OpenRouter model record created 2026-09-22 (stealth/space-bunny-alpha), from the endpoint snapshot saved with the capture. This is the date the anonymous route appeared, not a lab release date. Recorded 2026-09-29.",
-  "gpt-6-1-sol": "https://x.com/OpenAI/status/2104986136745767160"
+  "gpt-6-1-sol": "https://x.com/OpenAI/status/2104986136745767160",
+  "mimo-v2-5-pro": "OpenRouter model record created 2026-04-22 (xiaomi/mimo-v2.5-pro, canonical xiaomi/mimo-v2.5-pro-20260422); matches Artificial Analysis's MiMo-V2.5-Pro release date. Recorded 2026-10-04.",
+  "qwen3-8-27b-medium": "Same weights as qwen3-8-27b: OpenRouter model record created 2026-08-14 (qwen/qwen3.8-27b). The medium-reasoning capture is a separate condition, not a separate release. Recorded 2026-10-04.",
+  "ternary-bonsai-2-27b-medium": "OpenRouter model record created 2026-09-18 (prism-ml/ternary-bonsai-2-27b, canonical prism-ml/ternary-bonsai-2-27b-20260918). This is the date the route appeared on OpenRouter; no lab announcement checked. Recorded 2026-10-04."
 }
