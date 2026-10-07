@@ -1,0 +1,26 @@
+{
+  "cell": "haiku-5-5-or-pin-anthropic",
+  "safe_cell": "haiku-5-5-or-pin-anthropic",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 97,
+    "GENERIC_ESSAY": 15,
+    "GENRE_FICTION": 13
+  },
+  "confidence_counts": {
+    "Medium": 124,
+    "Low": 1
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "anthropic/claude-haiku-5.5"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/haiku-5-5-or-pin-anthropic/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/haiku-5-5-or-pin-anthropic/aggregate.md"
+}

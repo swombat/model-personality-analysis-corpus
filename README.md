@@ -5,11 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-07:** v1.4.23 adds Mistral Large 4 (card, profile, values,
-> map position, banner and a provisional capability-ladder score; 41 raw samples
-> went through the repair lane after launch-day rate limits, disclosed). It also
-> carries the untagged v1.4.22 ladder updates. The browser now contains 172 models.
-> See [`RELEASE_NOTES_v1.4.23.md`](RELEASE_NOTES_v1.4.23.md).
+> **Status — 2026-10-07:** v1.4.24 adds Claude Haiku 5.5, collected on its
+> release day (card, profile, values, map position and banner; no capability
+> score yet, as Artificial Analysis had not measured it). v1.4.23 added Mistral
+> Large 4 earlier the same day. The browser now contains 173 models.
+> See [`RELEASE_NOTES_v1.4.24.md`](RELEASE_NOTES_v1.4.24.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

@@ -1,0 +1,12 @@
+{
+  "model": "anthropic/claude-haiku-5.5",
+  "slug": "haiku-5-5",
+  "label": "haiku-5-5-or-pin-anthropic",
+  "family": "claude",
+  "or_provider": "Anthropic",
+  "quantization": "unknown",
+  "release_date": "2026-10-07",
+  "release_date_source": "https://www.anthropic.com/claude-haiku-5-5",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/haiku-5-5-2026-10-07/endpoints.json",
+  "release_date_status": "sourced"
+}

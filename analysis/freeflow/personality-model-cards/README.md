@@ -179,3 +179,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [ternary-bonsai-2-27b-medium](cards/ternary-bonsai-2-27b-medium.md) — samples: 125
 - [qwen3-8-27b-medium](cards/qwen3-8-27b-medium.md) — samples: 125
 - [mistral-large-4-0](cards/mistral-large-4-0.md) — samples: 125
+- [haiku-5-5](cards/haiku-5-5.md) — samples: 125

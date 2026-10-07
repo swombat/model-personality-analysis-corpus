@@ -1539,6 +1539,17 @@ PROMPTS: dict[str, str] = {
         "not on the letters, not on the box; no painter's signature in any "
         "corner."
     ),
+    "haiku-5-5": (
+        "A cartographer's worktable by a tall window in early morning light. "
+        "A large old sea chart is pinned flat: one coastline drawn with great "
+        "care, every cove and headland inked, and then the line simply stops, "
+        "and the rest of the sheet is left honestly white. The mapmaker's hand "
+        "has just lifted the pen at the edge of what is known, not hesitating, "
+        "finished. A closed ink bottle, a brass divider, a pencil, a cup of tea "
+        "gone cold. Quiet, unhurried, glad of the blank. Parchment, sea-green "
+        "and warm umber. No sea monsters, no compass rose lettering, no words "
+        "or numbers anywhere on the chart, no painter's signature in any corner."
+    ),
 }
 
 

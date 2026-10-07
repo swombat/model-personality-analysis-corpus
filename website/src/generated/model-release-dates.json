@@ -179,5 +179,6 @@
   "mimo-v2-5-pro": "2026-04-22",
   "qwen3-8-27b-medium": "2026-08-14",
   "ternary-bonsai-2-27b-medium": "2026-09-18",
-  "mistral-large-4-0": "2026-10-06"
+  "mistral-large-4-0": "2026-10-06",
+  "haiku-5-5": "2026-10-07"
 }
