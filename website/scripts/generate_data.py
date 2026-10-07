@@ -202,6 +202,7 @@ MODEL_SLUGS = {
     "devstral-2512": "mistralai/devstral-2512",
     "codestral-2508": "mistralai/codestral-2508",
     "mistral-large-2512": "mistralai/mistral-large-2512",
+    "mistral-large-4-0": "mistralai/mistral-large-4-0",
     "mistral-medium-3": "mistralai/mistral-medium-3",
     "mistral-medium-3-1": "mistralai/mistral-medium-3.1",
     "mistral-medium-3-5": "mistralai/mistral-medium-3-5",
@@ -455,6 +456,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "MiMo-V2.5-Pro"
     if slug == "gpt-6-1-sol":
         return "GPT-6.1 Sol"
+    if slug == "mistral-large-4-0":
+        return "Mistral Large 4"
     # Public Qwen pages should use the site slug form (qwen3-max-thinking),
     # not the OpenRouter/provider id form (qwen/qwen3-max-thinking).
     if slug.startswith("qwen"):

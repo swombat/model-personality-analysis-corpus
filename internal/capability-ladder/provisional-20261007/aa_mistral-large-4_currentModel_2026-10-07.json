@@ -1,0 +1,317 @@
+{
+ "id": "34fc646a-0174-470e-9e62-d8df452210b3",
+ "slug": "mistral-large-4",
+ "name": "Mistral Large 4 Preview",
+ "shortName": "Mistral Large 4 Preview",
+ "suffix": null,
+ "chartDefaultSelected": true,
+ "chartHighlighted": false,
+ "releaseDate": "2026-10-06",
+ "knowledgeCutoffDate": null,
+ "isReasoning": true,
+ "reasoningTokens": 2000,
+ "release": {
+  "slug": "mistral-large-4",
+  "name": "Mistral Large 4 Preview",
+  "deprecatedTo": null
+ },
+ "deprecated": false,
+ "isOpenWeights": false,
+ "openSourceCategorization": "proprietary",
+ "parameters": 1000,
+ "inferenceParametersActiveBillions": 49,
+ "sizeClass": "large",
+ "contextWindowTokens": 524288,
+ "licenseName": null,
+ "licenseUrl": null,
+ "modelWeightsSourceUrl": null,
+ "microevalsEnabled": false,
+ "intelligenceIndex": 38.3770408917494,
+ "intelligenceIndexIsEstimated": false,
+ "capabilities": {
+  "financeAndAccounting": 38.262600132251,
+  "strategyAndOps": 42.2092826635119,
+  "legal": 36.9687229783312,
+  "engineering": 37.5808314171772,
+  "economics": 43.5568947713933
+ },
+ "omniscience": -5.3,
+ "omniscienceAccuracy": 0.25816666666666666,
+ "omniscienceHallucinationRate": 0.4194563019546169,
+ "gdpPdfAllPass": 0.186,
+ "gdpval": 1423.91,
+ "gdpvalNormalized": 0.46195500000000006,
+ "itBenchSre": null,
+ "tau2": null,
+ "tauBanking": null,
+ "terminalbenchHard": null,
+ "terminalBench21": null,
+ "terminalBench40": 0.267676767676768,
+ "terminalBenchScience": null,
+ "scicode": 0.541666666666667,
+ "lcr": 0.813333333333333,
+ "ifbench": null,
+ "hle": 0.35032437442076,
+ "gpqa": null,
+ "critpt": 0.105714285714286,
+ "apexAgents": null,
+ "mmmuPro": 0.764161849710983,
+ "livecodebench": null,
+ "aime25": null,
+ "analystAgent": null,
+ "automationBenchPartialScore": 0.5990136246808686,
+ "price1mInputTokens": 1.36,
+ "price1mOutputTokens": 4.18,
+ "cacheHitPrice": 0.14,
+ "cacheHitDiscountPercent": 0.8970588235294118,
+ "cacheWritePrice": 1.36,
+ "pricePer1k1mpImages": null,
+ "price1mBlended0To3To1": 2.065,
+ "price1mBlended7To2To1": 0.788,
+ "price1mBlended0To1To1": 2.77,
+ "price1mBlended100To1To1": 0.19156862745098038,
+ "price1mBlended0To100To1": 1.387920792079208,
+ "intelligenceIndexTimePerTask": 506.9495035338055,
+ "intelligenceIndexCost": {
+  "total": 1601.9687491590362,
+  "input": 766.7884889590364,
+  "nonCacheInput": 33.32859792,
+  "cacheRead": 479.0383258833893,
+  "cacheWrite": 254.42156515564702,
+  "output": 835.1802601999999,
+  "reasoning": 742.4503083799999,
+  "answer": 92.72995182
+ },
+ "intelligenceIndexCostPerTask": {
+  "cost": {
+   "total": 1.1317590533008346,
+   "input": 0.8419598076676681,
+   "nonCacheInput": 0.024438710791923564,
+   "cacheRead": 0.5737175470549178,
+   "cacheWrite": 0.24380354982082658,
+   "output": 0.2897992456331666,
+   "reasoning": 0.2174042863268516,
+   "answer": 0.07239495930631494
+  },
+  "evaluations": [
+   {
+    "slug": "aa-briefcase",
+    "weightedCostPerTask": 0.35693828287698676
+   },
+   {
+    "slug": "gdpval-aa",
+    "weightedCostPerTask": 0.08504432751503783
+   },
+   {
+    "slug": "automationbench-aa",
+    "weightedCostPerTask": 0.01563262702648857
+   },
+   {
+    "slug": "terminalbench-4-0",
+    "weightedCostPerTask": 0.5810090019381636
+   },
+   {
+    "slug": "scicode",
+    "weightedCostPerTask": 0.006695450937500001
+   },
+   {
+    "slug": "humanitys-last-exam",
+    "weightedCostPerTask": 0.0199366336218721
+   },
+   {
+    "slug": "gdp-pdf",
+    "weightedCostPerTask": 0.021647267239999997
+   },
+   {
+    "slug": "critpt",
+    "weightedCostPerTask": 0.03544726451428571
+   },
+   {
+    "slug": "omniscience",
+    "weightedCostPerTask": 0.0024909950004999995
+   },
+   {
+    "slug": "artificial-analysis-long-context-reasoning",
+    "weightedCostPerTask": 0.006917202630000001
+   }
+  ]
+ },
+ "canonicalIntelligenceIndexTokenCount": {
+  "input": 3633283330,
+  "output": 199803890,
+  "answer": 22184199,
+  "reasoning": 177619691
+ },
+ "intelligenceIndexOutputTokensPerTask": {
+  "reasoning": 52010.59481503627,
+  "answer": 17319.36825509927,
+  "output": 69329.96307013553
+ },
+ "intelligenceIndexEvaluations": [
+  {
+   "slug": "aa-briefcase",
+   "score": 1392.53,
+   "outputTokensPerTask": 122769.36263736263,
+   "costPerTask": 2.379588552513245,
+   "timePerTask": 897.7051866479674
+  },
+  {
+   "slug": "gdpval-aa",
+   "score": 1423.91,
+   "outputTokensPerTask": 66133.34090909091,
+   "costPerTask": 0.8504432751503783,
+   "timePerTask": 483.5753959219583
+  },
+  {
+   "slug": "automationbench-aa",
+   "score": 0.5990136246808686,
+   "outputTokensPerTask": 28625.639269406394,
+   "costPerTask": 0.31265254052977137,
+   "timePerTask": 209.31431336957448
+  },
+  {
+   "slug": "terminalbench-4-0",
+   "score": 0.267676767676768,
+   "outputTokensPerTask": 264354.6818181818,
+   "costPerTask": 5.810090019381637,
+   "timePerTask": 1932.9950395183787
+  },
+  {
+   "slug": "scicode",
+   "score": 0.541666666666667,
+   "outputTokensPerTask": 15288.760416666666,
+   "costPerTask": 0.066954509375,
+   "timePerTask": 111.79335974888339
+  },
+  {
+   "slug": "humanitys-last-exam",
+   "score": 0.35032437442076,
+   "outputTokensPerTask": 47593.665430954585,
+   "costPerTask": 0.19936633621872105,
+   "timePerTask": 348.01093197134014
+  },
+  {
+   "slug": "gdp-pdf",
+   "score": 0.186,
+   "outputTokensPerTask": 10883.98,
+   "costPerTask": 0.21647267239999998,
+   "timePerTask": 79.58504538492437
+  },
+  {
+   "slug": "critpt",
+   "score": 0.105714285714286,
+   "outputTokensPerTask": 83755.5142857143,
+   "costPerTask": 0.3544726451428571,
+   "timePerTask": 612.4309678689463
+  },
+  {
+   "slug": "omniscience",
+   "score": -5.3,
+   "outputTokensPerTask": 3930.166166666667,
+   "costPerTask": 0.016606633336666666,
+   "timePerTask": 28.73787463266755
+  },
+  {
+   "slug": "artificial-analysis-long-context-reasoning",
+   "score": 0.813333333333333,
+   "outputTokensPerTask": 1855.15,
+   "costPerTask": 0.13834405260000002,
+   "timePerTask": 13.565092635767657
+  }
+ ],
+ "briefcaseBreakdown": {
+  "overall": {
+   "elo": 1392.53,
+   "lower95ci": 1382.9,
+   "upper95ci": 1402.17
+  },
+  "rubricPassRate": 0.45151515151515154,
+  "analyticalQuality": {
+   "elo": 1515.38,
+   "lower95ci": 1497.61,
+   "upper95ci": 1533.15
+  },
+  "presentation": {
+   "elo": 1354.54,
+   "lower95ci": 1337.13,
+   "upper95ci": 1371.96
+  }
+ },
+ "briefcaseTotalCost": 216.5425582787053,
+ "timescaleData": {
+  "medianOutputSpeed": 116.080085205733,
+  "medianTimeToFirstChunk": 1.463365106
+ },
+ "outputSpeedVariance": {
+  "p05": 113.31900346542,
+  "q25": 114.546150905559,
+  "median": 116.080085205733,
+  "q75": 128.368748197439,
+  "p95": 138.199678590805
+ },
+ "timeToFirstChunkVariance": {
+  "p05": 1.45687378669998,
+  "q25": 1.45975881749999,
+  "median": 1.463365106,
+  "q75": 1.96342434349999,
+  "p95": 2.36347173349999
+ },
+ "performanceByPromptType": {
+  "medium": {
+   "medianOutputSpeed": 106.094453413903,
+   "medianTimeToFirstChunk": 0.970743282000001,
+   "medianTimeToFirstAnswerToken": 19.821870137778806,
+   "medianEndToEndResponseTime": 24.534651851723506
+  },
+  "long": {
+   "medianOutputSpeed": 116.080085205733,
+   "medianTimeToFirstChunk": 1.463365106,
+   "medianTimeToFirstAnswerToken": 18.692849357801908,
+   "medianEndToEndResponseTime": 23.00022042075238
+  },
+  "hundredK": {
+   "medianOutputSpeed": 111.23750793265,
+   "medianTimeToFirstChunk": 10.405516429,
+   "medianTimeToFirstAnswerToken": 28.38506341067926,
+   "medianEndToEndResponseTime": 32.87995015609907
+  },
+  "mediumParallel": {
+   "medianOutputSpeed": 96.2648950377269,
+   "medianTimeToFirstChunk": 0.887550908999998,
+   "medianTimeToFirstAnswerToken": 21.663556525753496,
+   "medianEndToEndResponseTime": 26.85755792994187
+  }
+ },
+ "endToEndResponseTime": {
+  "input": 1.463365106,
+  "reasoning": 17.229484251801907,
+  "answer": 4.307371062950477,
+  "total": 23.00022042075238
+ },
+ "timeToFirstAnswerToken": {
+  "input": 1.463365106,
+  "reasoning": 17.229484251801907,
+  "total": 18.692849357801908
+ },
+ "performanceDataSource": {
+  "type": "firstParty",
+  "providerName": "Mistral"
+ },
+ "hostModelCount": 2,
+ "creator": {
+  "id": "b5c0639a-cc9c-443b-a07e-bae6b7088933",
+  "slug": "mistral",
+  "name": "Mistral",
+  "logo": "/img/logos/mistral.svg",
+  "color": "#f32e02",
+  "country": "fr"
+ },
+ "inputModalityText": true,
+ "inputModalityImage": true,
+ "inputModalitySpeech": false,
+ "inputModalityVideo": false,
+ "outputModalityText": true,
+ "outputModalityImage": false,
+ "outputModalitySpeech": false,
+ "outputModalityVideo": false
+}
