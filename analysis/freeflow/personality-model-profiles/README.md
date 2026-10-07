@@ -187,3 +187,4 @@ Relationship to adjacent folders:
 - [mimo-v2-5-pro](profiles/mimo-v2-5-pro.md) — samples: 125
 - [ternary-bonsai-2-27b-medium](profiles/ternary-bonsai-2-27b-medium.md) — samples: 125
 - [qwen3-8-27b-medium](profiles/qwen3-8-27b-medium.md) — samples: 125
+- [mistral-large-4-0](profiles/mistral-large-4-0.md) — samples: 125

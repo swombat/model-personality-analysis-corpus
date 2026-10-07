@@ -1671,6 +1671,17 @@
     "card": "analysis/freeflow/personality-model-cards/cards/mistral-large-2512.md"
   },
   {
+    "model": "mistral-large-4-0",
+    "safe": "mistral-large-4-0",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 125
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/mistral-large-4-0.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-large-4-0.md"
+  },
+  {
     "model": "mistral-medium-3",
     "safe": "mistral-medium-3",
     "analysis_inputs": 1,

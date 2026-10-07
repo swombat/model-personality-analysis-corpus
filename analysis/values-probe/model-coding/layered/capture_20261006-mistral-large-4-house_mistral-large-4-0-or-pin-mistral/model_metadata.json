@@ -1,0 +1,12 @@
+{
+  "model": "mistralai/mistral-large-4-0",
+  "slug": "mistral-large-4-0",
+  "label": "mistral-large-4-0-or-pin-mistral",
+  "family": "mistral",
+  "or_provider": "Mistral",
+  "quantization": "unknown",
+  "release_date": "2026-10-06",
+  "release_date_source": "https://mistral.ai/news/mistral-large-4/",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/mistral-large-4-0-2026-10-06/endpoints.json",
+  "release_date_status": "sourced"
+}

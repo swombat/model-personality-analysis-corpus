@@ -1527,6 +1527,18 @@ PROMPTS: dict[str, str] = {
         "Grey dawn through the landing window, stair-paint green, warm ochre "
         "from the open door. No lettering anywhere."
     ),
+    "mistral-large-4-0": (
+        "A farmhouse kitchen table in late-October afternoon light the colour "
+        "of weak tea. An old woman sits mid-sentence, peeling an apple with a "
+        "small paring knife in one long unbroken spiral of red peel that hangs "
+        "down toward the table; her mouth is open, she is saying something. "
+        "Across from her a child leans on folded arms, listening hard, "
+        "memorising. Between them a shoebox of letters tied with string and a "
+        "bowl of uncut apples. The grandmother is warm and specific; the child "
+        "is half in shadow. One knife only, in her hand. No lettering anywhere, "
+        "not on the letters, not on the box; no painter's signature in any "
+        "corner."
+    ),
 }
 
 

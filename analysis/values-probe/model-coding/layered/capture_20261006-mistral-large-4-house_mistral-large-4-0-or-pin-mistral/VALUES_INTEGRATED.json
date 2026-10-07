@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "mistral-large-4-0",
+  "samples": 120,
+  "source": "capture_20261006-mistral-large-4-house_mistral-large-4-0-or-pin-mistral",
+  "site_entry_present": false,
+  "publication_complete": false
+}

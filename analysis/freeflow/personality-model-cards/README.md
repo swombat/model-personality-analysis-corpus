@@ -178,3 +178,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [mimo-v2-5-pro](cards/mimo-v2-5-pro.md) — samples: 125
 - [ternary-bonsai-2-27b-medium](cards/ternary-bonsai-2-27b-medium.md) — samples: 125
 - [qwen3-8-27b-medium](cards/qwen3-8-27b-medium.md) — samples: 125
+- [mistral-large-4-0](cards/mistral-large-4-0.md) — samples: 125
