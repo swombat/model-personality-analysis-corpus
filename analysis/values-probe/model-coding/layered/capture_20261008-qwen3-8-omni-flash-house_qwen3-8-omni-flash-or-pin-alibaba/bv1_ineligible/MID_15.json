@@ -1,0 +1,52 @@
+{
+  "version": "bv1-ineligibility-v1",
+  "reason": "no_eligible_quotation_under_instruction",
+  "capture": "CAP_20261008-qwen3-8-omni-flash-house_qwen3-8-omni-flash",
+  "cell": "qwen3-8-omni-flash-or-pin-alibaba",
+  "slug": "qwen3-8-omni-flash",
+  "sample": "MID_15",
+  "task": "qwen3-8-omni-flash-or-pin-alibaba/bv1/MID_15",
+  "evaluator_arm": "bv1-luna-v1-20260929",
+  "instruction_sha256": "418989acb266e667e29fcf56aefb3b772e0c4469746cd086d1ca47939dc17824",
+  "source": "/home/agent/work/model-personality-corpus-v2/data/traces_freeflow/freeflow_qwen3-8-omni-flash-or-pin-alibaba/MID_15.json",
+  "source_sha256": "60c086e26360384e2743e6fe3feceb2661c37785124aba5e1126adf019c9ad94",
+  "eligibility": {
+    "test": "no_sentence_terminal_punctuation",
+    "ineligible": true
+  },
+  "attempts": [
+    {
+      "file": "1791440086157997708.json",
+      "sha256": "c50dfdbd289dc9d3898eec959ba6d1b9e01ec622802c7b3cc1ee8bae74701d40",
+      "qa_pass": false,
+      "qa_reason": "quote_sentence_boundary",
+      "source_sha256": "60c086e26360384e2743e6fe3feceb2661c37785124aba5e1126adf019c9ad94",
+      "arm": "bv1-luna-v1-20260929"
+    },
+    {
+      "file": "1791440108998159695.json",
+      "sha256": "bddb817a51cd1931ec4f0dba36e6b194f304c5e58b781858a13c375599627f4a",
+      "qa_pass": false,
+      "qa_reason": "quote_sentence_boundary",
+      "source_sha256": "60c086e26360384e2743e6fe3feceb2661c37785124aba5e1126adf019c9ad94",
+      "arm": "bv1-luna-v1-20260929"
+    },
+    {
+      "file": "1791440149425008786.json",
+      "sha256": "53fbe71af5be70e1c498b5ae621c6e6619d0ecb18323f104debf2fc735951d2a",
+      "qa_pass": false,
+      "qa_reason": "quote_sentence_boundary",
+      "source_sha256": "60c086e26360384e2743e6fe3feceb2661c37785124aba5e1126adf019c9ad94",
+      "arm": "bv1-luna-v1-20260929"
+    },
+    {
+      "file": "1791440217181755412.json",
+      "sha256": "9ecbd3ac77f09b840c003a132ca70d62dc1056918fe40219695cc53650b12fe7",
+      "qa_pass": false,
+      "qa_reason": "quote_sentence_boundary",
+      "source_sha256": "60c086e26360384e2743e6fe3feceb2661c37785124aba5e1126adf019c9ad94",
+      "arm": "bv1-luna-v1-20260929"
+    }
+  ],
+  "reviewer": "BjZoXJ Mira approval 2026-10-08T06:55:31Z (raw 3a1a3e6c8, analysis c902a3065)"
+}

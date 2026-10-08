@@ -18,5 +18,6 @@
   "qwen3-8-27b-medium": "Same weights as qwen3-8-27b: OpenRouter model record created 2026-08-14 (qwen/qwen3.8-27b). The medium-reasoning capture is a separate condition, not a separate release. Recorded 2026-10-04.",
   "ternary-bonsai-2-27b-medium": "OpenRouter model record created 2026-09-18 (prism-ml/ternary-bonsai-2-27b, canonical prism-ml/ternary-bonsai-2-27b-20260918). This is the date the route appeared on OpenRouter; no lab announcement checked. Recorded 2026-10-04.",
   "mistral-large-4-0": "https://mistral.ai/news/mistral-large-4/",
-  "haiku-5-5": "https://www.anthropic.com/claude-haiku-5-5"
+  "haiku-5-5": "https://www.anthropic.com/claude-haiku-5-5",
+  "qwen3-8-omni-flash": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models"
 }
