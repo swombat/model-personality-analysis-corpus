@@ -69,8 +69,14 @@ def main() -> None:
         if cell not in active_cells:
             continue
         rows = grouped[cell]
-        if len(rows) != 125:
-            raise RuntimeError(f"expected 125 rows for {cell}, found {len(rows)}")
+        # bv1-ineligibility-v1: a capture may supply COVERAGE when some samples
+        # had no eligible quotation; packets then cover exactly the evaluated set.
+        coverage = globals().get("COVERAGE")
+        expected = coverage["evaluated"] if coverage else 125
+        if len(rows) != expected:
+            raise RuntimeError(f"expected {expected} rows for {cell}, found {len(rows)}")
+        if coverage and sorted(Path(r["sample_id"]).stem for r in rows) != coverage["evaluated_ids"]:
+            raise RuntimeError(f"evaluated sample ids differ from coverage for {cell}")
         kinds: Counter[str] = Counter()
         confidences: Counter[str] = Counter()
         conditions = Counter(row["condition"] for row in rows)
@@ -91,7 +97,11 @@ def main() -> None:
         parts = [
             f"# Aggregation packet: {cell}",
             "",
-            f"This packet contains all BV1 per-sample freeflow personality evaluations for `{cell}`.",
+            (
+                f"This packet contains all BV1 per-sample freeflow personality evaluations for `{cell}`."
+                if not coverage
+                else f"This packet contains the BV1 per-sample freeflow personality evaluations for `{cell}`. {coverage['disclosure']}"
+            ),
             "",
             "## Aggregate counts from source files",
             "",
@@ -134,6 +144,10 @@ def main() -> None:
             "packet": str(packet.relative_to(ROOT)),
             "aggregate": str((out / "aggregate.md").relative_to(ROOT)),
         }
+        if coverage:
+            metadata["bv1_expected"] = coverage["expected"]
+            metadata["bv1_ineligible"] = coverage["ineligible"]
+            metadata["bv1_disclosure"] = coverage["disclosure"]
         (out / "packet.metadata.json").write_text(
             json.dumps(metadata, indent=2, ensure_ascii=False) + "\n"
         )

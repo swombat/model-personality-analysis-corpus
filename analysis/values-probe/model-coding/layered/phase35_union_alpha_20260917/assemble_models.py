@@ -19,20 +19,29 @@ def main():
     agg=module('phase35_aggregate',ROOT/'internal/scripts/analysis-scripts/run_personality_cell_aggregates.py')
     metas=[];cardrows=[];profilerows=[]
     for cell,model in CELLS.items():
-        meta=json.loads((agg.AGG/cell/'packet.metadata.json').read_text());assert meta['samples']==125
+        cov=globals().get('COVERAGE');n=cov['evaluated'] if cov else 125
+        meta=json.loads((agg.AGG/cell/'packet.metadata.json').read_text());assert meta['samples']==n
         result=agg.process(meta,False);print(json.dumps(result),flush=True)
         text=(ROOT/meta['aggregate']).read_text();body=cards.clean_card_text(cards.section(text,'Cell-level freeflow read'))
         assert body;cards.assert_public_card_clean(model,body)
         path=cards.CARDS/f'{model}.md';path.parent.mkdir(parents=True,exist_ok=True)
-        path.write_text(f'# {model} — freeflow personality card\n\n_Based on 125 freeflow samples._\n\n{body}\n')
-        cardrows.append(dict(model=model,safe=model,variants=1,samples=125,card=str(path.relative_to(ROOT)),difference_decision='SINGLE_VARIANT'))
-        txt,row=profiles.build_profile(model,[meta]);(profiles.PROFILES/f'{model}.md').write_text(txt);profilerows.append(row);metas.append(meta)
+        note=f"_{cov['disclosure']}_" if cov else '_Based on 125 freeflow samples._'
+        path.write_text(f'# {model} — freeflow personality card\n\n{note}\n\n{body}\n')
+        cardrows.append(dict(model=model,safe=model,variants=1,samples=n,card=str(path.relative_to(ROOT)),difference_decision='SINGLE_VARIANT',**({'bv1_expected':cov['expected'],'bv1_ineligible':[i['sample'] for i in cov['ineligible']]} if cov else {})))
+        txt,row=profiles.build_profile(model,[meta])
+        if cov:
+            # Name the BV1 subset, never a bare sample count (bv1-ineligibility-v1).
+            for old,new in [(f'_Rich model-level profile based on {n} freeflow samples._',f"_Rich model-level profile. {cov['disclosure']}_"),(f'- Samples: {n}\n',f"- BV1 samples evaluated: {n}/{cov['expected']}\n")]:
+                assert txt.count(old)==1,old;txt=txt.replace(old,new)
+            row=dict(row,bv1_expected=cov['expected'])
+        (profiles.PROFILES/f'{model}.md').write_text(txt);profilerows.append(row);metas.append(meta)
     merge_index(agg.AGG/'manifest.json',metas,'cell')
     merge_index(cards.OUT/'index.json',cardrows,'model');merge_index(profiles.OUT/'index.json',profilerows,'model')
     for out,rows,folder in [(cards.OUT,cardrows,'cards'),(profiles.OUT,profilerows,'profiles')]:
         f=out/'README.md';s=f.read_text()
         for row in rows:
-            if f']({folder}/{row["safe"]}.md)' not in s:s+=f'- [{row["model"]}]({folder}/{row["safe"]}.md) — samples: 125\n'
+            label=f"BV1 samples evaluated: {row['samples']}/{row['bv1_expected']}" if 'bv1_expected' in row else 'samples: 125'
+            if f']({folder}/{row["safe"]}.md)' not in s:s+=f'- [{row["model"]}]({folder}/{row["safe"]}.md) — {label}\n'
         f.write_text(s)
     print('Isolated profiles and cards assembled',flush=True)
 if __name__=='__main__':main()
