@@ -35,7 +35,20 @@ def quote_problem(text,source):
    if opening:
     close={'“':'”','"':'"'}[opening.group(1)]
     if right.startswith(close) and (len(right)==1 or right[1].isspace()):return ''
+ # 2026-10-08 (Qwen3.8 Omni Flash MID_15): a source written as capitalised
+ # lines with no sentence-terminal punctuation anywhere has no sentence a quote
+ # could end on; there a whole line is the unit. A newline alone is never a
+ # boundary: the fallback is off if the source has any . ! ? or …, fewer than
+ # eight non-empty lines, or any non-empty line not starting with a capital
+ # (hard-wrapped prose fails here). The quote must be exactly one entire line.
+ if line_structured_unpunctuated(source) and quote[0].isupper() and '\r' not in quote:
+  lines=[line[:-1] if line.endswith('\r') else line for line in source.split('\n')]
+  if quote in lines:return ''
  return 'quote_sentence_boundary'
+def line_structured_unpunctuated(source):
+ if re.search(r'[.!?\u2026]',source):return False
+ lines=[line.strip() for line in source.split('\n') if line.strip()]
+ return len(lines)>=8 and all(line[0].isupper() for line in lines)
 def valid_output(text,source=None):
  ok,reason=BV.valid_output(text)
  if not ok:return ok,reason

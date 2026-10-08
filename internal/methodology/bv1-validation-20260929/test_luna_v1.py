@@ -22,6 +22,27 @@ class Fidelity(unittest.TestCase):
  def test_direct_speech_bad_suffix(self):self.assertTrue(self.check('Hello world.','She said, “Hello world.”suffix'))
  def test_missing_period(self):self.assertTrue(self.check('Hello world','Hello world.'))
  def test_markdown(self):self.assertEqual(self.check('This is **good**.','This is **good**.'),'')
+ # Line-structured, wholly unpunctuated sources (2026-10-08, Qwen3.8 Omni Flash MID_15)
+ LINES="Morning light arrives at the window today\nThe kettle starts its quiet song again\nI watch the steam rise over the table\nA bird tests its voice against the glass\nThe street begins with footsteps and engines\nSomeone opens a shop door down below\nBread smells warm in the morning air\nI carry this calm into the day"
+ def test_line_whole_middle(self):self.assertEqual(self.check('The kettle starts its quiet song again',self.LINES),'')
+ def test_line_whole_first(self):self.assertEqual(self.check('Morning light arrives at the window today',self.LINES),'')
+ def test_line_whole_last_eof(self):self.assertEqual(self.check('I carry this calm into the day',self.LINES),'')
+ def test_line_crlf(self):self.assertEqual(self.check('The kettle starts its quiet song again',self.LINES.replace('\n','\r\n')),'')
+ def test_line_crlf_last(self):self.assertEqual(self.check('I carry this calm into the day',self.LINES.replace('\n','\r\n')+'\r\n'),'')
+ def test_line_partial(self):self.assertTrue(self.check('The kettle starts its quiet song',self.LINES))
+ def test_line_partial_tail(self):self.assertTrue(self.check('Morning comes over the hills',self.LINES.replace('I watch the steam rise over the table','Then Morning comes over the hills')))
+ def test_line_two_lines(self):self.assertTrue(self.check('The kettle starts its quiet song again The',self.LINES))
+ def test_line_lowercase_quote(self):self.assertTrue(self.check('the kettle starts its quiet song again',self.LINES))
+ def test_line_source_has_period(self):self.assertTrue(self.check('The kettle starts its quiet song again',self.LINES+'\nThe end.'))
+ def test_line_source_has_ellipsis(self):self.assertTrue(self.check('The kettle starts its quiet song again',self.LINES+'\nAnd then\u2026'))
+ def test_line_too_few_lines(self):self.assertTrue(self.check('The kettle starts its quiet song again','Morning light\nThe kettle starts its quiet song again\nI carry this calm'))
+ def test_hard_wrapped_lowercase_continuation(self):
+  src=self.LINES.replace('The kettle starts its quiet song again','The kettle starts its quiet\nsong again')
+  self.assertTrue(self.check('The kettle starts its quiet',src))
+ def test_hard_wrapped_prose_with_periods(self):
+  src='The morning was long and the kettle\nsang its song. Then the street woke\nand the baker opened his door. We\nwalked out into the light and the day\nbegan. Nobody spoke. The birds were\nloud and the bread was warm and the\nsky was pale. I kept the calm a while\nlonger than I expected to keep it.'
+  self.assertTrue(self.check('Nobody spoke',src))
+  self.assertTrue(self.check('I kept the calm a while',src))
  def test_missing_heading(self):self.assertFalse(m.valid_output('x'*500,'x')[0])
  def test_identity_mask(self):
   p=m.payload(dict(condition='OPEN',text='some sample',model='secret-model',sample_id='secret-model/1'))
