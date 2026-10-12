@@ -1,0 +1,129 @@
+{
+ "published_method": "provisional-20261004 (original v1.4.22 shortcut, recovered)",
+ "ladder": 141.0,
+ "rows": [
+  [
+   "humaneval",
+   "fitted",
+   9.93
+  ],
+  [
+   "mmlu",
+   "fitted",
+   9.72
+  ],
+  [
+   "math_500",
+   "fitted",
+   9.88
+  ],
+  [
+   "mmlu_pro",
+   "fitted",
+   9.41
+  ],
+  [
+   "aime24",
+   "fitted",
+   9.99
+  ],
+  [
+   "aime25",
+   "fitted",
+   9.8
+  ],
+  [
+   "livecodebench",
+   "fitted",
+   9.22
+  ],
+  [
+   "gpqa_diamond",
+   "fitted",
+   9.0
+  ],
+  [
+   "ifbench",
+   "fitted",
+   6.94
+  ],
+  [
+   "tau2_telecom",
+   "fitted",
+   9.21
+  ],
+  [
+   "aa_lcr",
+   "measured",
+   7.73
+  ],
+  [
+   "terminalbench_v21",
+   "fitted",
+   7.35
+  ],
+  [
+   "scicode",
+   "measured",
+   4.87
+  ],
+  [
+   "terminalbench_hard",
+   "fitted",
+   4.87
+  ],
+  [
+   "automationbench",
+   "measured",
+   3.37
+  ],
+  [
+   "briefcase_rubric",
+   "measured",
+   4.7
+  ],
+  [
+   "hle",
+   "measured",
+   3.41
+  ],
+  [
+   "mlcr",
+   "fitted",
+   1.6
+  ],
+  [
+   "tau3_banking",
+   "fitted",
+   2.91
+  ],
+  [
+   "omniscience_accuracy",
+   "measured",
+   3.48
+  ],
+  [
+   "critpt",
+   "measured",
+   1.86
+  ],
+  [
+   "gdp_pdf",
+   "measured",
+   1.72
+  ]
+ ],
+ "raw": {
+  "aa_lcr": 0.773333333333333,
+  "scicode": 0.487268518518519,
+  "automationbench": 0.3372685311767238,
+  "briefcase_rubric": 0.4696969696969697,
+  "hle": 0.3725671918443,
+  "omniscience_accuracy": 0.3478333333333333,
+  "critpt": 0.185714285714286,
+  "gdp_pdf": 0.172
+ },
+ "aa_variant": "claude-haiku-5-5-high",
+ "intelligence_index": 37.8240211671094,
+ "alt_oct7_rebuild_ladder": 139.6
+}

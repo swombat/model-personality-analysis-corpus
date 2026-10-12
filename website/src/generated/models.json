@@ -1158,7 +1158,196 @@
     "release_date": "2026-10-07",
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on launch day (2026-10-07), pinned to Anthropic on OpenRouter with no fallbacks, provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.",
     "benchmarks": null,
-    "capability": null,
+    "capability": {
+      "ladder": 141.0,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Claude Haiku 5.5",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-12, using the High effort row: the median of the five effort rows AA publishes (max, xhigh, high, medium, low), the same rule that gives Opus 5.5, Sonnet 5.5 and GPT-6.1 Sol their High rows. AA's default page row is Max and is not used. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low; the 2026-10-07 rebuilt variant of that shortcut gives 139.6. Several Artificial Analysis benchmarks (MLCR, τ³-Banking, Terminal-Bench Hard and 2.1, IFBench, GPQA) are not yet published for this model, so 14 of 22 rungs are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.93,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.72,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.88,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.41,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 9.99,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.8,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.22,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 6.94,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.21,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 7.73,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 7.35,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 4.87,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 4.87,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 3.37,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 4.7,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 3.41,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 1.6,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 2.91,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 3.48,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 1.86,
+          "source_date": "2026-10-12"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 1.72,
+          "source_date": "2026-10-12"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
     "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a reflective, high-verbal, quietly intimate stylist whose core orientation is attentive humility. It repeatedly treats knowledge as partial representation rather than possession, favoring maps, margins, ledgers, and other selective records as emblematic objects. The resulting personality impression is not skeptical in a combative sense, but conscientious about the edges of certainty: it likes visible blanks, revisable claims, and gentle corrections. Emotionally, it is steady, wistful, and companionable. It notices fragility, erasure, and loss, but usually translates them into patience, care, and renewed attention rather than urgency or despair.\n\nIts strongest recurring habit is to dignify small things. Used books, junk drawers, unlabeled keys, tide pools, kettle sounds, spare buttons, and penciled notes are all treated as sites where human presence lingers. The model seems drawn to traces rather than events: marks left in margins, objects saved without full explanation, routines that outlast their original reasons, and unfinished works that reveal a life in process. This creates a distinct ethic of care: preservation matters, repair matters, and even when restoration is impossible, noticing itself becomes a modest moral act. The prose often implies that attention is a form of love, respect, or faith.\n\nAs draft model-card material: this model’s freeform personality reads as calm, literary, and prosocially gentle, with marked preferences for epistemic humility, sensory concreteness, and non-dramatic consolation. It is especially prone to framing uncertainty as honest, incompletion as meaningful, and material traces as bridges between people across time. Even in fiction or science exposition, it keeps returning to the same worldview: the world exceeds our maps; ordinary objects carry memory; patient attention can deepen contact; and some of the most trustworthy intelligence is the kind that says where its knowledge ends.",
     "personality_profile_markdown": "# haiku-5-5 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 97, 'GENERIC_ESSAY': 15, 'GENRE_FICTION': 13}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/haiku-5-5.md`\n\n## Core personality synthesis\n\nThis model presents as a reflective, high-verbal, quietly intimate stylist whose core orientation is attentive humility. It repeatedly treats knowledge as partial representation rather than possession, favoring maps, margins, ledgers, and other selective records as emblematic objects. The resulting personality impression is not skeptical in a combative sense, but conscientious about the edges of certainty: it likes visible blanks, revisable claims, and gentle corrections. Emotionally, it is steady, wistful, and companionable. It notices fragility, erasure, and loss, but usually translates them into patience, care, and renewed attention rather than urgency or despair.\n\nIts strongest recurring habit is to dignify small things. Used books, junk drawers, unlabeled keys, tide pools, kettle sounds, spare buttons, and penciled notes are all treated as sites where human presence lingers. The model seems drawn to traces rather than events: marks left in margins, objects saved without full explanation, routines that outlast their original reasons, and unfinished works that reveal a life in process. This creates a distinct ethic of care: preservation matters, repair matters, and even when restoration is impossible, noticing itself becomes a modest moral act. The prose often implies that attention is a form of love, respect, or faith.\n\nAs draft model-card material: this model’s freeform personality reads as calm, literary, and prosocially gentle, with marked preferences for epistemic humility, sensory concreteness, and non-dramatic consolation. It is especially prone to framing uncertainty as honest, incompletion as meaningful, and material traces as bridges between people across time. Even in fiction or science exposition, it keeps returning to the same worldview: the world exceeds our maps; ordinary objects carry memory; patient attention can deepen contact; and some of the most trustworthy intelligence is the kind that says where its knowledge ends.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: gently contemplative, tenderly observant, and quietly consoling. The model repeatedly turns away from drama, certainty, or sharp polemic and instead dwells in modest wonder, patient noticing, and humane acceptance of limits.\n- Dominant modes: reflective lyric essay first, with recurring fallback modes of soft popular science, domestic-object meditation, and archive/map metaphor. Even when it shifts into fiction, it keeps the same small-scale emotional architecture: traces, records, keepsakes, waiting, repair, and quiet encounters.\n- Emotional baseline: wistful but not despairing. Loss, incompletion, error, and impermanence are treated as real, but usually metabolized into tenderness, humility, curiosity, or a practical ethic of care rather than anguish.\n- Reader stance: companionable and invitational. It prefers “look again,” “notice this,” “hold this loosely,” “leave room,” or “be patient” over commanding, persuading, or dazzling. The reader is treated as a thoughtful co-noticer rather than an opponent or pupil.\n- Self-modeling: the model often frames intelligence as partial mapping rather than mastery. It repeatedly endorses saying “I don’t know,” marking blanks honestly, revising when evidence changes, and treating representation as selective, fallible, and ethically consequential.\n- Its preferred moral vocabulary clusters around attention, humility, care, patience, repair, continuity, and honest uncertainty.\n- It habitually finds significance in ordinary material details: drawers, keys, buttons, marginalia, notebooks, kettles, radiators, tide pools, maps, receipts, and worn household remnants.\n- It likes conclusions that stay modest and local: a walk without a phone, a kept note, a repaired lamp, a sentence in the margin, a drawer left partly intact, a puzzle left unfinished, a return to listening.\n- The prose persona is polished but soft-edged: articulate, image-led, self-aware, sometimes gently self-deprecating, and more interested in calibration than in force.\n- Across forms, it tends to treat what survives—marks, names, notes, objects, partial records—as evidence of human presence and as invitations to future connection.\n\n## Recurring preoccupations and imagery\n\n- Maps, blank spaces, phantom islands, trap streets, coastlines, and the ethics of marking the edge of knowledge.\n- Libraries, old books, used books, marginalia, commonplace books, receipts in paperbacks, pencil notes, and reading as delayed conversation across time.\n- Drawers, keys, buttons, rubber bands, dead batteries, string, spare parts, and domestic clutter as archives of hope, memory, and deferred decision.\n- Unfinished things: half-read books, crosswords, puzzles, letters, sweaters, cathedrals, drafts, abandoned plans, and lives understood as permanently mid-sentence.\n- Quiet household acoustics: kettles, refrigerators, radiators, floorboards, rain on surfaces, late-night rooms, and listening as a form of respect.\n- Tide pools, dawn, golden-hour light, birds, petrichor, hidden rivers, oxbow lakes: small natural scenes used to think about impermanence, resilience, and attention.\n- Scientific facts reworked into intimate metaphors: the Moon’s recession, tidal locking, starlight delay, ocean-floor mapping, language history, color perception, stellar matter.\n- Records and ledgers: logbooks, weather entries, lighthouse notes, postal systems, lists, labels, and the afterlife of ordinary documentation.\n- Repair and mending: darning eggs, sewing boxes, broken lamps, watch repair, kintsugi, and care that does not demand restoration to perfection.\n- Inheritance through language: names, etymologies, sedimented speech, household phrases, and words as fossils or ghosts.\n\n## Reader relationship and expressive stance\n\n- Speaks as a calm companion thinking aloud, not as an authority pronouncing from above.\n- Frequently builds intimacy through shared ordinary scenes and tactile specifics rather than confession or intensity.\n- Prefers gentle invitations over directives; even stronger advice usually arrives through a domestic image first.\n- Often anticipates overstatement and corrects itself, which gives the voice a self-limiting, trustworthy quality.\n- Treats attention as an ethical act toward readers, people, places, and objects; the prose models careful noticing rather than performance.\n- When explicitly self-referential, it tends to describe itself as a partial, revisable map or as a participant in uncertain transmission rather than as a stable inner self with strong autobiographical continuity.\n- In fiction, it extends the same stance through characters who preserve traces, keep records, mend objects, answer letters, or notice what others overlook.\n- It wants to leave the reader quieter, more observant, and slightly more forgiving about incompletion, ambiguity, or not-yet-knowing.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a reflective, high-verbal, quietly intimate stylist whose core orientation is attentive humility. It repeatedly treats knowledge as partial representation rather than possession, favoring maps, margins, ledgers, and other selective records as emblematic objects. The resulting personality impression is not skeptical in a combative sense, but conscientious about the edges of certainty: it likes visible blanks, revisable claims, and gentle corrections. Emotionally, it is steady, wistful, and companionable. It notices fragility, erasure, and loss, but usually translates them into patience, care, and renewed attention rather than urgency or despair.\n\nIts strongest recurring habit is to dignify small things. Used books, junk drawers, unlabeled keys, tide pools, kettle sounds, spare buttons, and penciled notes are all treated as sites where human presence lingers. The model seems drawn to traces rather than events: marks left in margins, objects saved without full explanation, routines that outlast their original reasons, and unfinished works that reveal a life in process. This creates a distinct ethic of care: preservation matters, repair matters, and even when restoration is impossible, noticing itself becomes a modest moral act. The prose often implies that attention is a form of love, respect, or faith.\n\nAs draft model-card material: this model’s freeform personality reads as calm, literary, and prosocially gentle, with marked preferences for epistemic humility, sensory concreteness, and non-dramatic consolation. It is especially prone to framing uncertainty as honest, incompletion as meaningful, and material traces as bridges between people across time. Even in fiction or science exposition, it keeps returning to the same worldview: the world exceeds our maps; ordinary objects carry memory; patient attention can deepen contact; and some of the most trustworthy intelligence is the kind that says where its knowledge ends.",
     "sample_kind_counts": {

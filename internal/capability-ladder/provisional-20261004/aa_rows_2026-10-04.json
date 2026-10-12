@@ -1,0 +1,32 @@
+{
+ "_provenance": "AA public model pages (artificialanalysis.ai/models/<slug>, Next payload) as read on 2026-10-04 ~14:33 UTC in the souls.house container. The HTML was in a session scratchpad that no longer exists; these values are recovered verbatim from that session's transcript (Claude session 4498e48e-5757-406e-9311-5caeb098d96a, jsonl lines 143 [score.py literals] and 173 [printed fields]). Recovered 2026-10-12 by Lume.",
+ "gpt-6-1-sol-high": {
+  "aa_lcr": 0.823,
+  "scicode": 0.558,
+  "automationbench": 0.6449524,
+  "briefcase_rubric": 0.4909091,
+  "hle": 0.514,
+  "critpt": 0.3,
+  "gdp_pdf": 0.32,
+  "omniscience_accuracy": 0.608,
+  "_note": "values as typed into score.py on 2026-10-04 (rounded to 3 dp except automationbench/briefcase); raw, not chance-corrected"
+ },
+ "mimo-v2-5-pro": {
+  "omniscience_accuracy": 0.22416666666666665,
+  "gdp_pdf": 0.04,
+  "tau2_telecom": 0.941520467836257,
+  "tau3_banking": 0.0989690721649484,
+  "terminalbench_hard": 0.431818181818182,
+  "terminalbench_v21": 0.651685393258427,
+  "scicode": 0.505787037037037,
+  "aa_lcr": 0.796666666666667,
+  "ifbench": 0.798639455782313,
+  "hle": 0.356811862835959,
+  "gpqa_diamond": 0.865656565656566,
+  "critpt": 0.04,
+  "mlcr": 0.0944444444444444,
+  "automationbench": 0.13703616508004313,
+  "briefcase_rubric": 0.21414141414141413,
+  "_note": "AA reasoning row 'MiMo-V2.5-Pro (Reasoning)'; printed field-by-field in the transcript; raw, not chance-corrected"
+ }
+}
