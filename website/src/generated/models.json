@@ -16767,21 +16767,21 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Launch-day rate limits (HTTP 429) exhausted the retry budget on 41 raw samples; they were re-run through the harness repair lane (two extra attempts each, original attempts kept) and all succeeded on the first extra attempt. This is a logged intervention. Raw collection settings and the three-coder values methodology are unchanged.",
     "benchmarks": null,
     "capability": {
-      "ladder": 143.3,
+      "ladder": 146.5,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Mistral Large 4 Preview",
       "measured_rungs": 8,
       "n_rungs": 22,
       "point_variant": "default",
-      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-07, where the model is listed as Mistral Large 4 Preview (released 2026-10-06, one reasoning row), and fitted against rung slopes and intercepts recovered from the 2026-09-29 ladder's published fitted cells, without the full refit. That shortcut reproduces the published ladder to within 1.1 points on average across 149 scored models, and tends to read about 1 point low. Several Artificial Analysis benchmarks (MLCR, τ³-Banking, Terminal-Bench Hard and 2.1, IFBench, GPQA) are not yet published for this model, so 14 of 22 rungs are fitted. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-07, where the model is listed as Mistral Large 4 Preview (released 2026-10-06, one reasoning row), and fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Until v1.4.26 this model showed 143.3, from the 2026-10-07 rebuilt variant of that shortcut; the change to 146.5 is method reconciliation on the same inputs, not new benchmark evidence. Several Artificial Analysis benchmarks (MLCR, τ³-Banking, Terminal-Bench Hard and 2.1, IFBench, GPQA) are not yet published for this model, so 14 of 22 rungs are fitted. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
           "key": "humaneval",
           "max": 10,
           "name": "HumanEval",
-          "points": 9.94,
+          "points": 9.95,
           "source_date": null
         },
         {
@@ -16789,7 +16789,7 @@
           "key": "mmlu",
           "max": 10,
           "name": "MMLU",
-          "points": 9.73,
+          "points": 9.77,
           "source_date": null
         },
         {
@@ -16797,7 +16797,7 @@
           "key": "math_500",
           "max": 10,
           "name": "MATH-500",
-          "points": 9.89,
+          "points": 9.91,
           "source_date": null
         },
         {
@@ -16805,7 +16805,7 @@
           "key": "mmlu_pro",
           "max": 10,
           "name": "MMLU-Pro",
-          "points": 9.43,
+          "points": 9.51,
           "source_date": null
         },
         {
@@ -16821,7 +16821,7 @@
           "key": "aime25",
           "max": 10,
           "name": "AIME 2025",
-          "points": 9.81,
+          "points": 9.87,
           "source_date": null
         },
         {
@@ -16829,7 +16829,7 @@
           "key": "livecodebench",
           "max": 10,
           "name": "LiveCodeBench",
-          "points": 9.26,
+          "points": 9.4,
           "source_date": null
         },
         {
@@ -16837,7 +16837,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.04,
+          "points": 9.22,
           "source_date": null
         },
         {
@@ -16845,7 +16845,7 @@
           "key": "ifbench",
           "max": 10,
           "name": "IFBench",
-          "points": 6.99,
+          "points": 7.19,
           "source_date": null
         },
         {
@@ -16853,7 +16853,7 @@
           "key": "tau2_telecom",
           "max": 10,
           "name": "τ²-Telecom",
-          "points": 9.26,
+          "points": 9.44,
           "source_date": null
         },
         {
@@ -16869,7 +16869,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 7.49,
+          "points": 8.0,
           "source_date": null
         },
         {
@@ -16885,7 +16885,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 5.01,
+          "points": 5.58,
           "source_date": null
         },
         {
@@ -16917,7 +16917,7 @@
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 1.74,
+          "points": 2.44,
           "source_date": null
         },
         {
@@ -16925,7 +16925,7 @@
           "key": "tau3_banking",
           "max": 10,
           "name": "τ³-Banking",
-          "points": 3.03,
+          "points": 3.52,
           "source_date": null
         },
         {

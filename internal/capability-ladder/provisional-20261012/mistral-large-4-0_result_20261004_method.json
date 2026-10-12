@@ -1,0 +1,194 @@
+{
+ "published_method": "provisional-20261004 (original v1.4.22 shortcut, recovered)",
+ "ladder": 146.5,
+ "raw": {
+  "aa_lcr": 0.813333333333333,
+  "scicode": 0.541666666666667,
+  "automationbench": 0.5990136246808686,
+  "briefcase_rubric": 0.45151515151515154,
+  "hle": 0.35032437442076,
+  "omniscience_accuracy": 0.25816666666666666,
+  "critpt": 0.105714285714286,
+  "gdp_pdf": 0.186
+ },
+ "previous_published": 143.3,
+ "previous_method": "provisional-20261007 rebuild (v1.4.23)",
+ "rows": [
+  {
+   "how": "fitted",
+   "key": "humaneval",
+   "max": 10,
+   "name": "HumanEval",
+   "points": 9.95,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "mmlu",
+   "max": 10,
+   "name": "MMLU",
+   "points": 9.77,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "math_500",
+   "max": 10,
+   "name": "MATH-500",
+   "points": 9.91,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "mmlu_pro",
+   "max": 10,
+   "name": "MMLU-Pro",
+   "points": 9.51,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "aime24",
+   "max": 10,
+   "name": "AIME 2024",
+   "points": 9.99,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "aime25",
+   "max": 10,
+   "name": "AIME 2025",
+   "points": 9.87,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "livecodebench",
+   "max": 10,
+   "name": "LiveCodeBench",
+   "points": 9.4,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "gpqa_diamond",
+   "max": 10,
+   "name": "GPQA Diamond",
+   "points": 9.22,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "ifbench",
+   "max": 10,
+   "name": "IFBench",
+   "points": 7.19,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "tau2_telecom",
+   "max": 10,
+   "name": "\u03c4\u00b2-Telecom",
+   "points": 9.44,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "aa_lcr",
+   "max": 10,
+   "name": "AA-LCR",
+   "points": 8.13,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "fitted",
+   "key": "terminalbench_v21",
+   "max": 10,
+   "name": "Terminal-Bench 2.1",
+   "points": 8.0,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "scicode",
+   "max": 10,
+   "name": "SciCode",
+   "points": 5.42,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "fitted",
+   "key": "terminalbench_hard",
+   "max": 10,
+   "name": "Terminal-Bench Hard",
+   "points": 5.58,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "automationbench",
+   "max": 10,
+   "name": "AutomationBench",
+   "points": 5.99,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "measured",
+   "key": "briefcase_rubric",
+   "max": 10,
+   "name": "AA-Briefcase (rubric pass)",
+   "points": 4.52,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "measured",
+   "key": "hle",
+   "max": 10,
+   "name": "HLE",
+   "points": 3.18,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "fitted",
+   "key": "mlcr",
+   "max": 10,
+   "name": "MLCR",
+   "points": 2.44,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "tau3_banking",
+   "max": 10,
+   "name": "\u03c4\u00b3-Banking",
+   "points": 3.52,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "omniscience_accuracy",
+   "max": 10,
+   "name": "Omniscience acc.",
+   "points": 2.58,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "measured",
+   "key": "critpt",
+   "max": 10,
+   "name": "CritPt",
+   "points": 1.06,
+   "source_date": "2026-10-07"
+  },
+  {
+   "how": "measured",
+   "key": "gdp_pdf",
+   "max": 10,
+   "name": "GDP.pdf",
+   "points": 1.86,
+   "source_date": "2026-10-07"
+  }
+ ]
+}

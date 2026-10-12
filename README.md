@@ -5,11 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-12:** v1.4.25 gives Claude Haiku 5.5 a provisional
-> capability score (141.0 / 220, AA's median High row), restores the v1.4.22
-> ladder shortcut with a reproduction check, and sets Haiku 5.5's display name.
-> v1.4.24 added Claude Haiku 5.5 on its release day. The browser contains 173 models.
-> See [`RELEASE_NOTES_v1.4.25.md`](RELEASE_NOTES_v1.4.25.md).
+> **Status — 2026-10-12:** v1.4.26 moves Mistral Large 4's provisional
+> capability score from 143.3 to 146.5 / 220: the same inputs, now fitted with the
+> recovered 2026-10-04 method used for every other provisional score (method
+> reconciliation, not new benchmark evidence). v1.4.25 scored Claude Haiku 5.5
+> (141.0) and restored that method. The browser contains 173 models.
+> See [`RELEASE_NOTES_v1.4.26.md`](RELEASE_NOTES_v1.4.26.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
