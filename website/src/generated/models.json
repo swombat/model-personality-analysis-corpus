@@ -1150,7 +1150,7 @@
   },
   {
     "model": "haiku-5-5",
-    "display_name": "haiku-5-5",
+    "display_name": "Claude Haiku 5.5",
     "lab": "Anthropic",
     "family": "claude-haiku",
     "status": "complete",

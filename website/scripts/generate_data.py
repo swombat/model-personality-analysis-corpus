@@ -462,6 +462,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "GPT-6.1 Sol"
     if slug == "mistral-large-4-0":
         return "Mistral Large 4"
+    if slug == "haiku-5-5":
+        return "Claude Haiku 5.5"
     # Public Qwen pages should use the site slug form (qwen3-max-thinking),
     # not the OpenRouter/provider id form (qwen/qwen3-max-thinking).
     if slug.startswith("qwen"):
