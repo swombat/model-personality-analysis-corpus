@@ -1876,6 +1876,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-1-3.md"
   },
   {
+    "model": "muse-wonder",
+    "safe": "muse-wonder",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 110,
+      "GENRE_FICTION": 11,
+      "GENERIC_ESSAY": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-wonder.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-wonder.md"
+  },
+  {
     "model": "o1",
     "safe": "o1",
     "analysis_inputs": 1,

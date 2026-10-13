@@ -1,0 +1,27 @@
+{
+  "cell": "muse-wonder-or-pin-meta",
+  "safe_cell": "muse-wonder-or-pin-meta",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 110,
+    "GENRE_FICTION": 11,
+    "GENERIC_ESSAY": 4
+  },
+  "confidence_counts": {
+    "Medium": 122,
+    "High": 2,
+    "Low": 1
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "meta/muse-wonder"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/muse-wonder-or-pin-meta/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/muse-wonder-or-pin-meta/aggregate.md"
+}

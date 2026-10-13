@@ -1550,6 +1550,18 @@ PROMPTS: dict[str, str] = {
         "and warm umber. No sea monsters, no compass rose lettering, no words "
         "or numbers anywhere on the chart, no painter's signature in any corner."
     ),
+    "muse-wonder": (
+        "A small city kitchen in the blue hour before the rest of the world "
+        "wakes. A woman in a cardigan, her whole figure and head within the frame, "
+        "stands at the stove with arms loosely folded and a soft, easy face, "
+        "simply watching a dented kettle just beginning to steam, a chipped mug "
+        "and a heel of bread waiting on the counter, rain drying on the window "
+        "and one amber streetlamp outside. Through an open doorway, in the dim "
+        "next room, a phone lies face down on an armchair, dark and forgotten. "
+        "Unhurried, tender, nothing happening and that being the point. Slate "
+        "blue and warm amber. The phone's screen is black; no words or numbers "
+        "anywhere, no painter's signature in any corner."
+    ),
 }
 
 

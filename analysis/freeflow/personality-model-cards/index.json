@@ -1136,6 +1136,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "muse-wonder",
+    "safe": "muse-wonder",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-wonder.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "o1",
     "safe": "o1",
     "variants": 1,

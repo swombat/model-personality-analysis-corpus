@@ -224,6 +224,7 @@ MODEL_SLUGS = {
     "muse-spark-1-2": "meta/muse-spark-1.2",
     "muse-spark-1-3": "meta/muse-spark-1.3",
     "muse-glimmer-30b": "meta/muse-glimmer-30b",
+    "muse-wonder": "meta/muse-wonder",
     "llama-3-3-70b-instruct": "meta-llama/llama-3.3-70b-instruct",
     "llama-3-1-70b-instruct": "meta-llama/llama-3.1-70b-instruct",
     "llama-3-1-8b-instruct": "meta-llama/llama-3.1-8b-instruct",

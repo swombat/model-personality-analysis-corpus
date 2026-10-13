@@ -189,3 +189,4 @@ Relationship to adjacent folders:
 - [qwen3-8-27b-medium](profiles/qwen3-8-27b-medium.md) — samples: 125
 - [mistral-large-4-0](profiles/mistral-large-4-0.md) — samples: 125
 - [haiku-5-5](profiles/haiku-5-5.md) — samples: 125
+- [muse-wonder](profiles/muse-wonder.md) — samples: 125
