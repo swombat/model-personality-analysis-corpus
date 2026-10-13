@@ -57,8 +57,11 @@ cross-model comparisons spanning the evaluator migration remain confounded.
   watching a kettle start to steam, bread and a mug on the counter, and in the
   dim next room a phone lying face down on a chair. Rendered through
   OpenRouter `google/gemini-3-pro-image`. The first render cropped the figure's
-  head and read stern; the second was kept, with its bottom 54 px cropped to
-  remove a fake painter's signature. No other lettering.
+  head and read stern; the second was kept. Its fake painter's signature
+  (bottom right, on the cutting board) was painted out with a feathered patch
+  of the board beside it, keeping the full 21:9 frame. (The first published
+  version cropped the bottom instead, which made this banner shorter than
+  every other; fixed the same day after Daniel noticed.) No other lettering.
 - Display name follows its Muse siblings (`muse-wonder`, lower case).
 
 ## Capability ladder
