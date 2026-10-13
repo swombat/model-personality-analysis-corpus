@@ -5,11 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-13:** v1.4.27 adds Muse Wonder (card, profile, values, map
-> position, banner and a provisional capability score of 162.2 / 220 from
-> Artificial Analysis's Max row). v1.4.26 moved Mistral Large 4's provisional
-> score onto the recovered 2026-10-04 method. The browser contains 174 models.
-> See [`RELEASE_NOTES_v1.4.27.md`](RELEASE_NOTES_v1.4.27.md).
+> **Status — 2026-10-13:** v1.4.28 adds Gemini 4 Argon on its release day
+> (card, profile, values, map position, banner and a provisional capability score
+> of 165.8 / 220 from Artificial Analysis's High row, the highest on the site).
+> v1.4.27 added Muse Wonder. The browser contains 175 models.
+> See [`RELEASE_NOTES_v1.4.28.md`](RELEASE_NOTES_v1.4.28.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

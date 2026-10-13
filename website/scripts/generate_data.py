@@ -126,6 +126,7 @@ MODEL_SLUGS = {
     "gemini-3-6-flash": "google/gemini-3.6-flash",
     "gemini-3-7-flash": "google/gemini-3.7-flash",
     "gemini-3-8-flash": "google/gemini-3.8-flash",
+    "gemini-4-argon": "google/gemini-4-argon",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
     "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
     "gemma-4-31b": "google/gemma-4-31b-it",
@@ -252,6 +253,11 @@ FIRST_PARTY_API_PRICING = {
     "opus-5": (5.00, 25.00, "Anthropic API"),
     "opus-5-5": (4.00, 20.00, "Anthropic API"),
     "fable-5-1": (10.00, 50.00, "Anthropic API"),
+    # Gemini API pricing: https://ai.google.dev/gemini-api/docs/pricing (Standard
+    # paid tier, read 2026-10-13). OpenRouter's cheapest endpoint is Flex at half
+    # price, so the interactive rate is pinned here. Launch price runs through
+    # 2026-11-30; $4/$20 from 2026-12-01.
+    "gemini-4-argon": (2.00, 10.00, "Gemini API (launch price to 2026-11-30)"),
     # OpenAI API pricing: https://openai.com/api/pricing/
     "gpt-4": (30.00, 60.00, "OpenAI API (legacy)"),
     "gpt-3-5-turbo": (0.50, 1.50, "OpenAI API"),

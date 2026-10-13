@@ -1,0 +1,12 @@
+{
+  "model": "google/gemini-4-argon",
+  "slug": "gemini-4-argon",
+  "label": "gemini-4-argon-or-pin-google",
+  "family": "gemini",
+  "or_provider": "Google",
+  "quantization": "unknown",
+  "release_date": "2026-10-13",
+  "release_date_source": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/gemini-4-argon-2026-10-13/endpoints.json",
+  "release_date_status": "sourced"
+}

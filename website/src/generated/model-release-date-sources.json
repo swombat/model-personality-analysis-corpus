@@ -19,5 +19,6 @@
   "ternary-bonsai-2-27b-medium": "OpenRouter model record created 2026-09-18 (prism-ml/ternary-bonsai-2-27b, canonical prism-ml/ternary-bonsai-2-27b-20260918). This is the date the route appeared on OpenRouter; no lab announcement checked. Recorded 2026-10-04.",
   "mistral-large-4-0": "https://mistral.ai/news/mistral-large-4/",
   "haiku-5-5": "https://www.anthropic.com/claude-haiku-5-5",
-  "muse-wonder": "https://about.fb.com/news/2026/10/introducing-muse-wonder/"
+  "muse-wonder": "https://about.fb.com/news/2026/10/introducing-muse-wonder/",
+  "gemini-4-argon": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
 }

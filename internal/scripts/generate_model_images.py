@@ -1562,6 +1562,20 @@ PROMPTS: dict[str, str] = {
         "blue and warm amber. The phone's screen is black; no words or numbers "
         "anywhere, no painter's signature in any corner."
     ),
+    "gemini-4-argon": (
+        "A narrow old city street at the blue hour, seen from the pavement. A "
+        "tall apartment block fills most of the frame, a dozen windows lit "
+        "amber, each one a small separate life: a man ironing a shirt, two "
+        "people laughing over a steaming pot, a child bent over homework, an "
+        "old woman watering a geranium, someone asleep in the glow of a dim "
+        "television. Below, one passerby in a long coat has stopped on the "
+        "rain-damp pavement and looks up at the windows, whole figure in "
+        "frame, face tilted and softened, as if just realising every one of "
+        "them is as real as she is. Slate blue dusk, amber windows reflected "
+        "in wet cobbles. Tender and curious, nothing dramatic. No signs, no "
+        "shopfront lettering, no house numbers, no painter's signature in any "
+        "corner."
+    ),
 }
 
 

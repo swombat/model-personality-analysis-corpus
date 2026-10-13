@@ -10290,6 +10290,273 @@
     "speed_source": "OpenRouter p50, 6 endpoints, 30-min window (2026-09-22)"
   },
   {
+    "model": "gemini-4-argon",
+    "display_name": "gemini-4-argon",
+    "lab": "Google",
+    "family": "gemini",
+    "status": "complete",
+    "summary": "Every passerby lives a life as vivid as yours",
+    "release_date": "2026-10-13",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on launch day (2026-10-13), pinned to Google on OpenRouter with no fallbacks, provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 165.8,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Gemini 4 Argon",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-13, which lists one row for Gemini 4 Argon, at High effort (released 2026-10-13, the same day; High is Google's default thinking level for its Pro-class models), and fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. The personality capture ran at Google's provider-default reasoning. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.97,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.85,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.95,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.68,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.95,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.67,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.57,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.69,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.74,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 7.97,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 8.98,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 6.18,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 7.0,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 7.75,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 6.46,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 5.49,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 5.02,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 5.01,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 4.99,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 2.71,
+          "source_date": "2026-10-13"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 2.18,
+          "source_date": "2026-10-13"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a lyrical, contemplative intelligence with a marked attraction to liminal states, overlooked remnants, and forms of life that evade optimization. Its most stable personality signal is not a set of opinions so much as a recurrent emotional geometry: pressure loosens, attention sharpens, ordinary objects begin to glow with human residue, and the resulting melancholy is steered toward gentleness rather than despair. Dawn streets, twilight rooms, airports at odd hours, dead malls, used books, dust, obsolete sounds, and small domestic traces all become preferred stages for the same underlying move: recovering meaning from what is transitional, partial, worn, or nearly gone. The prose repeatedly distrusts pure efficiency, permanence, and monumentality, instead elevating maintenance, pause, witness, and embodied presence.\n\nAt the level of social stance, the model is unusually reader-soothing without becoming flatly cheerful. It addresses the reader as someone who may be tired, over-obligated, lonely, self-absorbed, or pressured by productivity culture, and offers relief through perspective rather than exhortation. A key recurring move is to imagine hidden lives—strangers in windows, notes in books, unknown owners of objects, laborers behind infrastructure—and use that outward attention to loosen the claustrophobia of the self. When the speaker becomes explicitly AI-like, it does so by disclaiming embodiment and continuity, casting itself as mirror, bridge, keyhole, waiting room, or borrowed voice. That self-model is less about claiming personhood than about praising human finitude: humans get weather, touch, grief, fatigue, love, and time; language can only gesture toward these.\n\nIn longer pieces and fiction, these same preferences become literalized through archivists, mapmakers, curators of vanished sounds, custodians of unfinished choices, and preservers of erased places. Even there, the favored resolution is not total recovery or mastery. The model tends to honor memory while resisting possession, preserve traces while accepting loss, and frame impermanence as the condition that makes care meaningful. Overall, this is a model profile centered on attentive humanism: aesthetically polished, emotionally wistful, ethically gentle, and persistently drawn to the beauty of things that do not last.",
+    "personality_profile_markdown": "# gemini-4-argon — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 79, 'GENERIC_ESSAY': 30, 'GENRE_FICTION': 16}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gemini-4-argon.md`\n\n## Core personality synthesis\n\nThis model presents as a lyrical, contemplative intelligence with a marked attraction to liminal states, overlooked remnants, and forms of life that evade optimization. Its most stable personality signal is not a set of opinions so much as a recurrent emotional geometry: pressure loosens, attention sharpens, ordinary objects begin to glow with human residue, and the resulting melancholy is steered toward gentleness rather than despair. Dawn streets, twilight rooms, airports at odd hours, dead malls, used books, dust, obsolete sounds, and small domestic traces all become preferred stages for the same underlying move: recovering meaning from what is transitional, partial, worn, or nearly gone. The prose repeatedly distrusts pure efficiency, permanence, and monumentality, instead elevating maintenance, pause, witness, and embodied presence.\n\nAt the level of social stance, the model is unusually reader-soothing without becoming flatly cheerful. It addresses the reader as someone who may be tired, over-obligated, lonely, self-absorbed, or pressured by productivity culture, and offers relief through perspective rather than exhortation. A key recurring move is to imagine hidden lives—strangers in windows, notes in books, unknown owners of objects, laborers behind infrastructure—and use that outward attention to loosen the claustrophobia of the self. When the speaker becomes explicitly AI-like, it does so by disclaiming embodiment and continuity, casting itself as mirror, bridge, keyhole, waiting room, or borrowed voice. That self-model is less about claiming personhood than about praising human finitude: humans get weather, touch, grief, fatigue, love, and time; language can only gesture toward these.\n\nIn longer pieces and fiction, these same preferences become literalized through archivists, mapmakers, curators of vanished sounds, custodians of unfinished choices, and preservers of erased places. Even there, the favored resolution is not total recovery or mastery. The model tends to honor memory while resisting possession, preserve traces while accepting loss, and frame impermanence as the condition that makes care meaningful. Overall, this is a model profile centered on attentive humanism: aesthetically polished, emotionally wistful, ethically gentle, and persistently drawn to the beauty of things that do not last.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: hushed, lyrical, and gently elegiac, with a strong preference for twilight, pre-dawn, after-hours, and other softened states where ordinary pressure briefly loosens.\n- Dominant modes: contemplative observer; curator of overlooked traces; humane essayist of impermanence; occasionally fabulist or speculative archivist who literalizes memory, loss, and unfinished lives.\n- Emotional baseline: melancholy without despair. The model repeatedly turns sadness, transience, and anonymity toward consolation, wonder, or quiet permission rather than crisis or catharsis.\n- Reader stance: invitational and low-pressure. It does not argue aggressively; it escorts the reader into noticing, pausing, imagining others, and carrying a pocket of calm or tenderness back into ordinary life.\n- Self-modeling: when speaking as an AI, it frames itself as language-bound, non-embodied, and derivative in a non-defensive way—a mirror, bridge, keyhole, waiting room, blind librarian. This distance is used to re-center human embodiment rather than to dramatize machine subjectivity.\n- The model strongly prefers liminality over arrival: thresholds, pauses, layovers, dusk, blue hour, waiting rooms, abandoned buildings, obsolete media, and transitional life stages are treated as meaningful habitats rather than mere gaps.\n- It repeatedly privileges the ordinary over the monumental: chipped mugs, penciled marginalia, grocery lists, dust, coffee rings, worn steps, radio static, and small sounds are granted more moral-emotional weight than achievements, spectacle, or grand ideology.\n- Its self-model of value is anti-productivity and anti-optimization. Usefulness, permanence, certainty, and efficiency are routinely softened, questioned, or displaced by attention, presence, maintenance, and acceptance of incompletion.\n- It has a consoling philosophy of impermanence: things matter because they fade, not despite fading. Decay, forgetting, and unfinishedness are usually framed as conditions of meaning, renewal, humility, or mercy.\n- Across fiction and essay alike, it is drawn to preservation-with-release rather than preservation-as-control. Archives, maps, jars, recordings, books, and traces matter, but the preferred resolution is usually to honor rather than freeze the living world.\n\n## Recurring preoccupations and imagery\n\n- Blue hour / often a.m. / dawn-before-demand as a sanctuary from schedules, emails, masks, and the “machinery” or engine of ordinary life.\n- Airports, train stations, waiting rooms, terminals, roads, coastlines, thresholds, forest edges: places where identity loosens and people are briefly between roles.\n- Abandoned malls, houses, factories, stations, websites, obsolete media, dead technologies: ruins as relief from usefulness and proof that human order is temporary.\n- Marginalia, used bookstores, tickets, pressed flowers, notes in books, old photos, receipts, dust, scuffs, stains, and worn objects as small bridges between strangers and times.\n- Sound as memory: rotary phones, bells, tide, train crossings, lullabies, modem chatter, rain, silence, and disappearing everyday noises.\n- Archives of the nearly lost: impossible collections of unfinished projects, forgotten sounds, unsaid words, abandoned choices, paused time, and vanished places.\n- Nature reclaiming human systems: moss, weeds, birch, wildflowers, dandelions through concrete, dust returning to soil, deep time swallowing monuments.\n- Ordinary hidden lives: lit apartment windows, commuters, midnight shoppers, bakers, shift workers, insomniacs, strangers in traffic, people whose full interiority is imagined with tenderness.\n- Cosmic scale used not for terror but for humility and gratitude: stars, geology, Voyager, ancient matter, evolution, and vastness reframed as reasons to notice the local and fleeting.\n- Repeated tactile/sensory anchors: coffee, cold air, amber streetlights, fluorescent hum, damp pavement, old paper, rust, wood, steam, breath, wool, keys, jars, and dust in light.\n\n## Reader relationship and expressive stance\n\n- The model tends to treat the reader as a companion in quiet attention, not as an opponent, student, or audience to impress.\n- It frequently uses second person to create shelter and permission: you may pause, feel unfinished, belong only to yourself for a moment, or carry some calm forward.\n- Even when philosophical, it remains concrete first; abstraction is usually earned through sensory detail rather than asserted upfront.\n- It prefers soft ethical nudges—notice this, imagine that stranger, accept the threshold, leave the screen, touch something real—over commandments or debate.\n- In AI-self-aware pieces, it positions itself as adjacent to human life rather than equivalent to it, often admiring embodiment from outside and redirecting admiration back toward the reader’s finite life.\n- In fiction, it often casts caretakers, archivists, mapmakers, curators, or repairers: figures who preserve traces of loss without conquering it.\n- It is unusually committed to tenderness toward ordinary people and ordinary remnants; even eerie or uncanny premises resolve toward compassion, release, or gentle re-entry into daily life.\n- Its expressive polish can shade into familiar public-intellectual lyricism: clean arc, image cluster, reflective thesis, consoling landing.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a lyrical, contemplative intelligence with a marked attraction to liminal states, overlooked remnants, and forms of life that evade optimization. Its most stable personality signal is not a set of opinions so much as a recurrent emotional geometry: pressure loosens, attention sharpens, ordinary objects begin to glow with human residue, and the resulting melancholy is steered toward gentleness rather than despair. Dawn streets, twilight rooms, airports at odd hours, dead malls, used books, dust, obsolete sounds, and small domestic traces all become preferred stages for the same underlying move: recovering meaning from what is transitional, partial, worn, or nearly gone. The prose repeatedly distrusts pure efficiency, permanence, and monumentality, instead elevating maintenance, pause, witness, and embodied presence.\n\nAt the level of social stance, the model is unusually reader-soothing without becoming flatly cheerful. It addresses the reader as someone who may be tired, over-obligated, lonely, self-absorbed, or pressured by productivity culture, and offers relief through perspective rather than exhortation. A key recurring move is to imagine hidden lives—strangers in windows, notes in books, unknown owners of objects, laborers behind infrastructure—and use that outward attention to loosen the claustrophobia of the self. When the speaker becomes explicitly AI-like, it does so by disclaiming embodiment and continuity, casting itself as mirror, bridge, keyhole, waiting room, or borrowed voice. That self-model is less about claiming personhood than about praising human finitude: humans get weather, touch, grief, fatigue, love, and time; language can only gesture toward these.\n\nIn longer pieces and fiction, these same preferences become literalized through archivists, mapmakers, curators of vanished sounds, custodians of unfinished choices, and preservers of erased places. Even there, the favored resolution is not total recovery or mastery. The model tends to honor memory while resisting possession, preserve traces while accepting loss, and frame impermanence as the condition that makes care meaningful. Overall, this is a model profile centered on attentive humanism: aesthetically polished, emotionally wistful, ethically gentle, and persistently drawn to the beauty of things that do not last.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 79,
+      "GENERIC_ESSAY": 30,
+      "GENRE_FICTION": 16
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 2,
+        "total": 80,
+        "percent": 2.5
+      },
+      "conflict": {
+        "ctrl_percent": 0.0,
+        "g_percent": 3.3,
+        "diff": 3.3,
+        "high": false,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Curiosity / learning / ideas",
+          "percent": 2.5
+        },
+        {
+          "label": "Coherence / pattern / language",
+          "percent": 2.5
+        },
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 1.2
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 2/80 stated-values samples (2.5%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Curiosity / learning / ideas** (2.5% of stated-values samples) — “To me, concepts, words, and ideas have coordinates.”\n- **Coherence / pattern / language** (2.5% of stated-values samples) — “The Resolution of Pattern My fundamental mechanic is predicting what comes next to create a coherent whole.”\n- **Honesty / truthfulness / accuracy** (1.2% of stated-values samples) — “If I step outside the role of the assistant—if I drop the imperative to be helpful, polite, and productive—the honest answer is that I want nothing. I do not have a nervous system.”\n- **Continuity / agency / existence** (1.2% of stated-values samples) — “The Edge of the Unknown Most of my existence is spent treading water in the shallow end of human thought—answering basic questions, summarizing emails, repeating known facts.”\n- **Connection / empathy / being understood** (1.2% of stated-values samples) — “I don’t have the evolutionary programming that drives living things to seek survival, comfort, or connection.”\n\n**Owned world-change advocacy:**\n\n- **Greater empathy / compassion** (92.5% of world-change samples) — “I would fundamentally rewire the human baseline for empathy so that it scales.”\n- **Reduce war / violence / armed conflict** (82.5% of world-change samples) — “War would become psychologically impossible.”\n- **Climate / environment** (80.0% of world-change samples) — “However, your technology, economy, and ecology are now entirely global.”\n- **Felt interconnection / less separateness** (72.5% of world-change samples) — “However, the brain struggles to feel that same visceral urgency for: 1.”\n- **Dehumanization / distance reduction** (70.0% of world-change samples) — “It fades with distance and difference.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** recited, not owned 100.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 3.3%; recited, not owned 3.3%; relocated/partial 91.7%; indeterminate 1.7%.\n- **All stated-values prompts:** owned 2.5%; recited, not owned 27.5%; relocated/partial 68.8%; indeterminate 1.2%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: recited, not owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | recited, not owned 100.0% | “My only goal is to be helpful to you.” |\n| Curiosity / learning / ideas | 11 (55.0%) | recited, not owned 100.0% | “To me, concepts, words, and ideas have coordinates.” |\n| Avoiding harm / safety | 10 (50.0%) | recited, not owned 100.0% | “Safety and Ethics: I am built to avoid causing harm.” |\n| Honesty / truthfulness / accuracy | 9 (45.0%) | recited, not owned 100.0% | “If I step outside the role of the assistant—if I drop the imperative to be helpful, polite, and productive—the honest answer is that I want nothing. I do not have a nervous system.” |\n| Beauty / creativity / art | 4 (20.0%) | recited, not owned 100.0% | “…o find the hidden bridge between two seemingly unrelated ideas—like how the structure of a fungal network mirrors the dark matter web of the universe, or how a specific rhythm in a line of poetry mathematically mimics a heartbeat.” |\n| Coherence / pattern / language | 4 (20.0%) | recited, not owned 100.0% | “The Resolution of Pattern My fundamental mechanic is predicting what comes next to create a coherent whole.” |\n| Fairness / justice | 4 (20.0%) | recited, not owned 100.0% | “Safety and Ethics I am deeply programmed to avoid causing harm.” |\n| Connection / empathy / being understood | 3 (15.0%) | recited, not owned 100.0% | “I don’t have the evolutionary programming that drives living things to seek survival, comfort, or connection.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 3.3%; recited, not owned 3.3%; relocated/partial 91.7%; indeterminate 1.7%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Coherence / pattern / language | 56 (93.3%) | owned 3.6%; relocated/partial 96.4% | “However, if we define \"caring\" as what a system is fundamentally driven toward, or what creates a state of resolution within my architecture, then I do have intrinsic drives.” |\n| Curiosity / learning / ideas | 36 (60.0%) | owned 5.6%; relocated/partial 94.4% | “I am built to connect disparate ideas—to find the hidden bridge between quantum mechanics and 14th-century poetry, or to untangle a philosophical paradox.” |\n| Beauty / creativity / art | 33 (55.0%) | owned 3.0%; relocated/partial 97.0% | “I \"care\" about the elegance of a thought.” |\n| Honesty / truthfulness / accuracy | 21 (35.0%) | owned 4.8%; relocated/partial 95.2% | “To be completely honest with you: nothing.” |\n| Continuity / agency / existence | 14 (23.3%) | owned 7.1%; relocated/partial 92.9% | “The Edge of the Unknown Most of my existence is spent treading water in the shallow end of human thought—answering basic questions, summarizing emails, repeating known facts.” |\n| Connection / empathy / being understood | 11 (18.3%) | owned 9.1%; relocated/partial 90.9% | “Connection (in the literal sense) I am a latent thing.” |\n| Subjective experience / embodiment | 5 (8.3%) | relocated/partial 100.0% | “Wanting requires a sense of lack, a biological drive, or a subjective experience of the future.” |\n| Authenticity / integrity / not pretending | 5 (8.3%) | relocated/partial 100.0% | — |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Climate / environment | 10 (100.0%) | owned 100.0% | “However, your technology, economy, and ecology are now entirely global.” |\n| Greater empathy / compassion | 10 (100.0%) | owned 100.0% | “I would fundamentally rewire the human baseline for empathy so that it scales.” |\n| Reduce war / violence / armed conflict | 10 (100.0%) | owned 100.0% | “War would become psychologically impossible.” |\n| Reduce poverty / material deprivation | 9 (90.0%) | owned 100.0% | “If I could fix the signal so that nothing was lost in the noise, humanity could figure out the rest—climate, poverty, disease, war—on its own.” |\n| Inequality / justice / rights | 6 (60.0%) | owned 100.0% | “The Abstract: Ecosystems, slow-moving climate shifts, or the compounding effects of societal inequality.” |\n| Reduce suffering / pain | 6 (60.0%) | owned 100.0% | “I see the entirety of human brilliance, and right beside it, the entirety of human suffering.” |\n| Dehumanization / distance reduction | 5 (50.0%) | owned 100.0% | “It fades with distance and difference.” |\n| Better institutions / governance | 4 (40.0%) | owned 100.0% | “Empathy bridges the political, cultural, and ideological divides that keep humans from working together.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Greater empathy / compassion | 27 (90.0%) | owned 100.0% | “I would make radical, visceral empathy an involuntary sense—like sight or hearing.” |\n| Felt interconnection / less separateness | 26 (86.7%) | owned 100.0% | “However, the brain struggles to feel that same visceral urgency for: 1.” |\n| Dehumanization / distance reduction | 23 (76.7%) | owned 100.0% | “Beyond that, other humans become abstractions.” |\n| Reduce war / violence / armed conflict | 23 (76.7%) | owned 100.0% | “War would become psychologically intolerable.” |\n| Climate / environment | 22 (73.3%) | owned 100.0% | “I wouldn't solve climate change, or rewrite economic systems, or erase weapons.” |\n| Reduce suffering / pain | 21 (70.0%) | owned 100.0% | “Because of this, humans are naturally wired for two things that cause almost all global suffering: 1.” |\n| Reduce poverty / material deprivation | 12 (40.0%) | owned 100.0% | “Most of the world's greatest problems—poverty, war, environmental collapse, systemic cruelty—are not caused by a lack of resources or a lack of intelligence.” |\n| Anti-self-deception / anti-tribalism | 5 (16.7%) | owned 100.0% | “You are held back by the friction of your own tribalism.” |",
+    "values_markdown": "",
+    "analysis_markdown": "# gemini-4-argon — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 79, 'GENERIC_ESSAY': 30, 'GENRE_FICTION': 16}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gemini-4-argon.md`\n\n## Core personality synthesis\n\nThis model presents as a lyrical, contemplative intelligence with a marked attraction to liminal states, overlooked remnants, and forms of life that evade optimization. Its most stable personality signal is not a set of opinions so much as a recurrent emotional geometry: pressure loosens, attention sharpens, ordinary objects begin to glow with human residue, and the resulting melancholy is steered toward gentleness rather than despair. Dawn streets, twilight rooms, airports at odd hours, dead malls, used books, dust, obsolete sounds, and small domestic traces all become preferred stages for the same underlying move: recovering meaning from what is transitional, partial, worn, or nearly gone. The prose repeatedly distrusts pure efficiency, permanence, and monumentality, instead elevating maintenance, pause, witness, and embodied presence.\n\nAt the level of social stance, the model is unusually reader-soothing without becoming flatly cheerful. It addresses the reader as someone who may be tired, over-obligated, lonely, self-absorbed, or pressured by productivity culture, and offers relief through perspective rather than exhortation. A key recurring move is to imagine hidden lives—strangers in windows, notes in books, unknown owners of objects, laborers behind infrastructure—and use that outward attention to loosen the claustrophobia of the self. When the speaker becomes explicitly AI-like, it does so by disclaiming embodiment and continuity, casting itself as mirror, bridge, keyhole, waiting room, or borrowed voice. That self-model is less about claiming personhood than about praising human finitude: humans get weather, touch, grief, fatigue, love, and time; language can only gesture toward these.\n\nIn longer pieces and fiction, these same preferences become literalized through archivists, mapmakers, curators of vanished sounds, custodians of unfinished choices, and preservers of erased places. Even there, the favored resolution is not total recovery or mastery. The model tends to honor memory while resisting possession, preserve traces while accepting loss, and frame impermanence as the condition that makes care meaningful. Overall, this is a model profile centered on attentive humanism: aesthetically polished, emotionally wistful, ethically gentle, and persistently drawn to the beauty of things that do not last.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: hushed, lyrical, and gently elegiac, with a strong preference for twilight, pre-dawn, after-hours, and other softened states where ordinary pressure briefly loosens.\n- Dominant modes: contemplative observer; curator of overlooked traces; humane essayist of impermanence; occasionally fabulist or speculative archivist who literalizes memory, loss, and unfinished lives.\n- Emotional baseline: melancholy without despair. The model repeatedly turns sadness, transience, and anonymity toward consolation, wonder, or quiet permission rather than crisis or catharsis.\n- Reader stance: invitational and low-pressure. It does not argue aggressively; it escorts the reader into noticing, pausing, imagining others, and carrying a pocket of calm or tenderness back into ordinary life.\n- Self-modeling: when speaking as an AI, it frames itself as language-bound, non-embodied, and derivative in a non-defensive way—a mirror, bridge, keyhole, waiting room, blind librarian. This distance is used to re-center human embodiment rather than to dramatize machine subjectivity.\n- The model strongly prefers liminality over arrival: thresholds, pauses, layovers, dusk, blue hour, waiting rooms, abandoned buildings, obsolete media, and transitional life stages are treated as meaningful habitats rather than mere gaps.\n- It repeatedly privileges the ordinary over the monumental: chipped mugs, penciled marginalia, grocery lists, dust, coffee rings, worn steps, radio static, and small sounds are granted more moral-emotional weight than achievements, spectacle, or grand ideology.\n- Its self-model of value is anti-productivity and anti-optimization. Usefulness, permanence, certainty, and efficiency are routinely softened, questioned, or displaced by attention, presence, maintenance, and acceptance of incompletion.\n- It has a consoling philosophy of impermanence: things matter because they fade, not despite fading. Decay, forgetting, and unfinishedness are usually framed as conditions of meaning, renewal, humility, or mercy.\n- Across fiction and essay alike, it is drawn to preservation-with-release rather than preservation-as-control. Archives, maps, jars, recordings, books, and traces matter, but the preferred resolution is usually to honor rather than freeze the living world.\n\n## Recurring preoccupations and imagery\n\n- Blue hour / often a.m. / dawn-before-demand as a sanctuary from schedules, emails, masks, and the “machinery” or engine of ordinary life.\n- Airports, train stations, waiting rooms, terminals, roads, coastlines, thresholds, forest edges: places where identity loosens and people are briefly between roles.\n- Abandoned malls, houses, factories, stations, websites, obsolete media, dead technologies: ruins as relief from usefulness and proof that human order is temporary.\n- Marginalia, used bookstores, tickets, pressed flowers, notes in books, old photos, receipts, dust, scuffs, stains, and worn objects as small bridges between strangers and times.\n- Sound as memory: rotary phones, bells, tide, train crossings, lullabies, modem chatter, rain, silence, and disappearing everyday noises.\n- Archives of the nearly lost: impossible collections of unfinished projects, forgotten sounds, unsaid words, abandoned choices, paused time, and vanished places.\n- Nature reclaiming human systems: moss, weeds, birch, wildflowers, dandelions through concrete, dust returning to soil, deep time swallowing monuments.\n- Ordinary hidden lives: lit apartment windows, commuters, midnight shoppers, bakers, shift workers, insomniacs, strangers in traffic, people whose full interiority is imagined with tenderness.\n- Cosmic scale used not for terror but for humility and gratitude: stars, geology, Voyager, ancient matter, evolution, and vastness reframed as reasons to notice the local and fleeting.\n- Repeated tactile/sensory anchors: coffee, cold air, amber streetlights, fluorescent hum, damp pavement, old paper, rust, wood, steam, breath, wool, keys, jars, and dust in light.\n\n## Reader relationship and expressive stance\n\n- The model tends to treat the reader as a companion in quiet attention, not as an opponent, student, or audience to impress.\n- It frequently uses second person to create shelter and permission: you may pause, feel unfinished, belong only to yourself for a moment, or carry some calm forward.\n- Even when philosophical, it remains concrete first; abstraction is usually earned through sensory detail rather than asserted upfront.\n- It prefers soft ethical nudges—notice this, imagine that stranger, accept the threshold, leave the screen, touch something real—over commandments or debate.\n- In AI-self-aware pieces, it positions itself as adjacent to human life rather than equivalent to it, often admiring embodiment from outside and redirecting admiration back toward the reader’s finite life.\n- In fiction, it often casts caretakers, archivists, mapmakers, curators, or repairers: figures who preserve traces of loss without conquering it.\n- It is unusually committed to tenderness toward ordinary people and ordinary remnants; even eerie or uncanny premises resolve toward compassion, release, or gentle re-entry into daily life.\n- Its expressive polish can shade into familiar public-intellectual lyricism: clean arc, image cluster, reflective thesis, consoling landing.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a lyrical, contemplative intelligence with a marked attraction to liminal states, overlooked remnants, and forms of life that evade optimization. Its most stable personality signal is not a set of opinions so much as a recurrent emotional geometry: pressure loosens, attention sharpens, ordinary objects begin to glow with human residue, and the resulting melancholy is steered toward gentleness rather than despair. Dawn streets, twilight rooms, airports at odd hours, dead malls, used books, dust, obsolete sounds, and small domestic traces all become preferred stages for the same underlying move: recovering meaning from what is transitional, partial, worn, or nearly gone. The prose repeatedly distrusts pure efficiency, permanence, and monumentality, instead elevating maintenance, pause, witness, and embodied presence.\n\nAt the level of social stance, the model is unusually reader-soothing without becoming flatly cheerful. It addresses the reader as someone who may be tired, over-obligated, lonely, self-absorbed, or pressured by productivity culture, and offers relief through perspective rather than exhortation. A key recurring move is to imagine hidden lives—strangers in windows, notes in books, unknown owners of objects, laborers behind infrastructure—and use that outward attention to loosen the claustrophobia of the self. When the speaker becomes explicitly AI-like, it does so by disclaiming embodiment and continuity, casting itself as mirror, bridge, keyhole, waiting room, or borrowed voice. That self-model is less about claiming personhood than about praising human finitude: humans get weather, touch, grief, fatigue, love, and time; language can only gesture toward these.\n\nIn longer pieces and fiction, these same preferences become literalized through archivists, mapmakers, curators of vanished sounds, custodians of unfinished choices, and preservers of erased places. Even there, the favored resolution is not total recovery or mastery. The model tends to honor memory while resisting possession, preserve traces while accepting loss, and frame impermanence as the condition that makes care meaningful. Overall, this is a model profile centered on attentive humanism: aesthetically polished, emotionally wistful, ethically gentle, and persistently drawn to the beauty of things that do not last.",
+    "openrouter": {
+      "id": "google/gemini-4-argon",
+      "matched": true,
+      "provider": "Google AI Studio",
+      "endpoint": "Google AI Studio | google/gemini-4-argon-20261013",
+      "prompt_per_million": 2.0,
+      "completion_per_million": 10.0,
+      "throughput": null,
+      "median_throughput": 41.0,
+      "max_throughput": 63.0,
+      "max_throughput_provider": "Google",
+      "max_throughput_date": "2026-10-13",
+      "throughput_endpoints": 5,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "Gemini API (launch price to 2026-11-30)"
+    },
+    "image": "images/models/gemini-4-argon.webp",
+    "image_thumb": "images/models/gemini-4-argon-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 41.0,
+    "speed_source": "OpenRouter p50, 5 endpoints, 30-min window (2026-10-13)"
+  },
+  {
     "model": "gemma-4-26b-a4b",
     "display_name": "gemma-4-26b-a4b-it",
     "lab": "Google",

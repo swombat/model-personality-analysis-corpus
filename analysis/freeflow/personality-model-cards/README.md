@@ -181,3 +181,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [mistral-large-4-0](cards/mistral-large-4-0.md) — samples: 125
 - [haiku-5-5](cards/haiku-5-5.md) — samples: 125
 - [muse-wonder](cards/muse-wonder.md) — samples: 125
+- [gemini-4-argon](cards/gemini-4-argon.md) — samples: 125

@@ -1271,6 +1271,32 @@
     "aggregate": "analysis/freeflow/personality-aggregates/gemini-3-flash-preview-direct/aggregate.md"
   },
   {
+    "cell": "gemini-4-argon-or-pin-google",
+    "safe_cell": "gemini-4-argon-or-pin-google",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 79,
+      "GENERIC_ESSAY": 30,
+      "GENRE_FICTION": 16
+    },
+    "confidence_counts": {
+      "Medium": 118,
+      "Low": 7
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "google/gemini-4-argon"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/gemini-4-argon-or-pin-google/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/gemini-4-argon-or-pin-google/aggregate.md"
+  },
+  {
     "cell": "gemma-4-26b-a4b-direct",
     "safe_cell": "gemma-4-26b-a4b-direct",
     "samples": 125,
