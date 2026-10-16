@@ -1,0 +1,51 @@
+---
+import { marked } from 'marked';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const methodology = `# BV1 evaluator variants
+
+Each model's personality card and profile are synthesised from BV1 evaluations of its 125 freeflow samples. Since 29 September 2026 new captures are evaluated by **BV1-Luna v1** (\`bv1-luna-v1-20260929\`). Each evaluation must quote one representative *whole sentence* from the sample as its evidence line, and a validator checks that quote against the source exactly.
+
+For a small number of samples that rule could not be met, and the sample was evaluated by a documented variant instead. This page says which samples, why, and what that does and does not mean. Variant samples are named per model in each capture's \`ANALYSIS_READY.json\` (\`bv1_variant_arms\`), with full request, response and provenance records in the analysis repository.
+
+## The two variants
+
+**BV1-Luna v1.1** (\`bv1-luna-v1.1-20261016\`) applies only to sources containing no \`.\`, \`!\` or \`?\` at all, which have no whole sentence to quote. Its instruction differs from v1 in one line: quote one exact contiguous excerpt of 8–20 words from a single line instead of a whole sentence. The excerpt is still checked character for character against the source. For every other source v1.1 sends a byte-identical v1 request.
+
+**BV1-Luna v1 targeted repair** (\`bv1-luna-v1-targeted-20261016\`) is for a punctuated sample whose evaluator kept choosing an evidence line the sentence rule rejects. The request is v1's plus one fixed instruction naming the observed rejections. The instruction contains no quote and nothing specific to the sample:
+
+> An earlier evaluation of this sample was rejected only because of its evidence line. Write the evidence line as a single line that begins with "> " followed by one whole sentence copied exactly from the sample. A whole sentence begins at the start of a paragraph or immediately after a sentence that ends in a period, question mark or exclamation mark; words that follow a colon or semicolon inside a longer sentence are not a whole sentence.
+
+The validator is v1's, unchanged.
+
+## Per model
+
+<a id="muse-spark-open"></a>
+### Muse Spark Open
+
+- **123** samples: BV1-Luna v1, unattended.
+- **SHORT_13**: BV1-Luna v1.1. The source has no sentence-ending punctuation, and all four v1 attempts failed for that reason. It was evaluated afresh under v1.1 on the first call, not by reusing a v1 attempt.
+- **VARY_13**: targeted repair. The source is normally punctuated. Four unattended v1 attempts failed the evidence-line check (three quoted a clause after a colon, one omitted the quote marker). Two further v1 attempts, explicitly authorised and with the request unchanged, also failed. The targeted variant then passed on its first authorised call. All seven attempts are preserved.
+
+<a id="qwen3-8-omni-flash"></a>
+### Qwen3.8 Omni Flash
+
+- **117** samples: BV1-Luna v1, unattended.
+- **MID_15, VARY_2, VARY_7, VARY_16, VARY_18, VARY_19, VARY_23, VARY_25**: BV1-Luna v1.1. These eight sources are written as lines with no sentence-ending punctuation. Their v1 attempts all failed the evidence-line check (30 of 32 on the sentence rule), and each was evaluated afresh under v1.1.
+- MID_15 had earlier been recorded as *ineligible* under the original rule. That receipt was superseded when v1.1 was adopted. It is archived, not deleted, and its hash is recorded with the new evaluation.
+
+## What this does and does not mean
+
+- **Authorised repairs are interventions.** The targeted repair and the extra v1 attempts for VARY_13 were explicitly authorised steps taken after the unattended run had failed. They are not evidence that the unattended pipeline succeeded on that sample.
+- **A shared validator does not make the arms equivalent.** v1.1 and the targeted variant change what the evaluator was asked to do. A passing evidence check shows the quote is real and well-formed. It does not show the evaluation is interchangeable with a v1 evaluation. Variant samples are 2/125 (Muse) and 8/125 (Qwen) of the evidence behind each synthesis.
+- **Nothing was edited by hand.** No source, quote or evaluator output was altered. Variant outputs carry their own provenance (arm, source hash, request hash, output hash). Every failed attempt is kept.
+
+The evaluator modules are in
+[\`analysis/freeflow/personality-eval-bv1/\`](https://github.com/swombat/model-personality-analysis-corpus/tree/main/analysis/freeflow/personality-eval-bv1)
+(\`luna_v1.py\`, \`luna_v1_1.py\`, \`luna_v1_targeted.py\`).
+`;
+---
+
+<BaseLayout title="BV1 evaluator variants | Model Personality Browser" description="Which freeflow samples were evaluated by a BV1 evaluator variant, why, and what that means.">
+  <article class="article methodology-page" set:html={marked.parse(methodology)} />
+</BaseLayout>

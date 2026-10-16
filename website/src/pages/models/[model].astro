@@ -3,6 +3,7 @@ import { marked } from 'marked';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import models from '../../generated/models.json';
 import { familyLabel } from '../../lib/modelMetadata.js';
+import { bv1Variants } from '../../lib/bv1Variants.js';
 
 export function getStaticPaths() {
   return models
@@ -13,6 +14,8 @@ export function getStaticPaths() {
 const { model } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const displayName = model.display_name || model.model;
+const bv1Variant = bv1Variants[model.model];
+const bv1VariantHref = bv1Variant ? `${base}methodology/bv1-evaluator-variants/#${bv1Variant.anchor}` : null;
 
 function stripTitle(markdown = '') {
   return markdown.replace(/^# .+?\n+/, '').trim();
@@ -173,6 +176,12 @@ const borrowedFromName = borrowedFromModel?.display_name || model.capability?.bo
       {personalityCardMarkdown && (
         <section class="personality-card">
           <h2>Personality card</h2>
+          {bv1Variant && (
+            <p class="model-note bv1-variant-note">
+              <strong>BV1 evaluation note:</strong> {bv1Variant.summary}{' '}
+              <a href={bv1VariantHref}>How these samples were evaluated, and what it means</a>.
+            </p>
+          )}
           <div set:html={personalityCardHtml} />
         </section>
       )}
@@ -211,6 +220,12 @@ const borrowedFromName = borrowedFromModel?.display_name || model.capability?.bo
       {profileMarkdown && (
         <>
           <h2>Detailed personality profile</h2>
+          {bv1Variant && (
+            <p class="model-note bv1-variant-note">
+              This profile draws on the same BV1 evaluations, including the variant samples described in the{' '}
+              <a href={bv1VariantHref}>BV1 evaluator variants note</a>.
+            </p>
+          )}
           <div set:html={profileHtml} />
         </>
       )}
