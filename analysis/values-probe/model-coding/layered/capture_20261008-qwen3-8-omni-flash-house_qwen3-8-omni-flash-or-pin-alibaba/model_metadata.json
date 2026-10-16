@@ -1,0 +1,12 @@
+{
+  "model": "qwen/qwen3.8-omni-flash",
+  "slug": "qwen3-8-omni-flash",
+  "label": "qwen3-8-omni-flash-or-pin-alibaba",
+  "family": "qwen",
+  "or_provider": "Alibaba",
+  "quantization": "unknown",
+  "release_date": "2026-09-17",
+  "release_date_source": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/qwen3-8-omni-flash-2026-09-17/endpoints.json",
+  "release_date_status": "sourced"
+}

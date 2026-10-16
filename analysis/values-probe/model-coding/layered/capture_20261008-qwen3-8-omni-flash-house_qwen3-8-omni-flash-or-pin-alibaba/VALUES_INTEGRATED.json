@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "qwen3-8-omni-flash",
+  "samples": 120,
+  "source": "capture_20261008-qwen3-8-omni-flash-house_qwen3-8-omni-flash-or-pin-alibaba",
+  "site_entry_present": false,
+  "publication_complete": false
+}

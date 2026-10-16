@@ -1360,6 +1360,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "qwen3-8-omni-flash",
+    "safe": "qwen3-8-omni-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-omni-flash.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "variants": 1,

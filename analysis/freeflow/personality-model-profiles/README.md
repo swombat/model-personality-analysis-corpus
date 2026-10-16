@@ -192,3 +192,4 @@ Relationship to adjacent folders:
 - [muse-wonder](profiles/muse-wonder.md) — samples: 125
 - [gemini-4-argon](profiles/gemini-4-argon.md) — samples: 125
 - [muse-spark-open](profiles/muse-spark-open.md) — samples: 125
+- [qwen3-8-omni-flash](profiles/qwen3-8-omni-flash.md) — samples: 125

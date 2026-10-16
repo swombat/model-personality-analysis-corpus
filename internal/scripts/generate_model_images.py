@@ -1576,6 +1576,18 @@ PROMPTS: dict[str, str] = {
         "shopfront lettering, no house numbers, no painter's signature in any "
         "corner."
     ),
+    # Rendered 2026-10-08 while the model was held; prompt recorded in the raw
+    # repo hold note (notes/qwen3-8-omni-flash-2026-09-17/BV1-COVERAGE-HOLD.md).
+    "qwen3-8-omni-flash": (
+        'Early morning at an old kitchen window just after rain. On the wet '
+        'stone sill outside, a small brown bird, beak barely open, tries its '
+        'first notes against the glass, as if remembering how. Inside, steam '
+        'curls from a single cup on a plain wooden table and pale gold light '
+        'slips between thin curtains. Beyond the window, the street below '
+        'still glistens from the rain. Unhurried, attentive, ordinary and '
+        'grateful. Soft gold, slate blue and rain-grey. No text, no lettering '
+        "anywhere, no painter's signature in any corner."
+    ),
     "muse-spark-open": (
         "A small public library in the last hour before dawn, one green-shaded "
         "reading lamp still on. Its shelves hold unfinished things instead of "

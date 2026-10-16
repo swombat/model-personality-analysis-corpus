@@ -7976,6 +7976,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/qwen3-8-max-or-pin-alibaba-r2/aggregate.md"
   },
   {
+    "cell": "qwen3-8-omni-flash-or-pin-alibaba",
+    "safe_cell": "qwen3-8-omni-flash-or-pin-alibaba",
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 86,
+      "GENERIC_ESSAY": 28,
+      "GENRE_FICTION": 6,
+      "LOW_SIGNAL": 5
+    },
+    "confidence_counts": {
+      "Medium": 108,
+      "Low": 17
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "qwen/qwen3.8-omni-flash"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/qwen3-8-omni-flash-or-pin-alibaba/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/qwen3-8-omni-flash-or-pin-alibaba/aggregate.md"
+  },
+  {
     "cell": "qwen3-coder-flash-or-pin-alibaba",
     "safe_cell": "qwen3-coder-flash-or-pin-alibaba",
     "samples": 125,
