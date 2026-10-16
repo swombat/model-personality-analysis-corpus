@@ -2212,6 +2212,20 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-27b-medium.md"
   },
   {
+    "model": "qwen3-8-omni-flash",
+    "safe": "qwen3-8-omni-flash",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 86,
+      "GENERIC_ESSAY": 28,
+      "GENRE_FICTION": 6,
+      "LOW_SIGNAL": 5
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen3-8-omni-flash.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-omni-flash.md"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "analysis_inputs": 1,

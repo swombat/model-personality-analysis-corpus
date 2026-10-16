@@ -180,3 +180,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [qwen3-8-27b-medium](cards/qwen3-8-27b-medium.md) — samples: 125
 - [mistral-large-4-0](cards/mistral-large-4-0.md) — samples: 125
 - [haiku-5-5](cards/haiku-5-5.md) — samples: 125
+- [qwen3-8-omni-flash](cards/qwen3-8-omni-flash.md) — samples: 125
