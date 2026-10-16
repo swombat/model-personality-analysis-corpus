@@ -9,6 +9,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[4]
 FINAL = ROOT / "analysis/values-probe/final"
 REGISTRY = FINAL / "capture_sources.json"
+# The raw corpus checkout whose traces the manifests were verified against.
+# The capture harness sets this to its own raw root, so a held model run from a
+# dedicated worktree is checked against the traces it actually used.
+RAW = ROOT.parent / "model-personality-corpus-v2"
 CODERS = ["kimi-k2-6", "glm-4-7", "qwen3-6-35b-a3b"]
 VALUE_FIELDS = {
     "analyzed_values_samples",
@@ -125,9 +129,8 @@ def integrate(phases, validate=False):
                 phase, adjudication, read_rows(phase / "posture_final/consensus.jsonl")
             )
             # Raw sources must still match their frozen verified manifests.
-            raw = ROOT.parent / "model-personality-corpus-v2"
             for row in manifest:
-                assert sha(raw / row["trace_path"]) == row["source_sha256"]
+                assert sha(RAW / row["trace_path"]) == row["source_sha256"]
             files = {
                 "manifest_valid.jsonl": phase / "manifest.jsonl",
                 "layer_a_consensus.jsonl": phase / "layer_a/consensus_300.jsonl",

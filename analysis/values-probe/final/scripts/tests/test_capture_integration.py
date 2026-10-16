@@ -68,3 +68,17 @@ class ResidualPolicyTests(unittest.TestCase):
         self.policy()
         with self.assertRaises(AssertionError):
             check_residual_policy(self.phase, {"residual_splits": []}, self.rows)
+
+
+class RawRootTests(unittest.TestCase):
+    def test_default_raw_root_is_the_sibling_corpus_checkout(self):
+        import integrate_capture_values as I
+        self.assertEqual(I.RAW, I.ROOT.parent / "model-personality-corpus-v2")
+
+    def test_trace_check_reads_the_module_raw_root(self):
+        # The verified-trace check must use RAW (settable by the harness), not a
+        # path recomputed inside integrate().
+        import inspect, integrate_capture_values as I
+        src = inspect.getsource(I.integrate)
+        self.assertIn('sha(RAW / row["trace_path"])', src)
+        self.assertNotIn('"model-personality-corpus-v2"', src)
