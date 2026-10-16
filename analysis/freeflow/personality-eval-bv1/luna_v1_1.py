@@ -38,16 +38,32 @@ EXTRA_UNPUNCTUATED=V1.EXTRA.replace(V1_SENTENCE_RULE,EXCERPT_RULE,1)
 def unpunctuated(source):
  return not re.search(r'[.!?]',source)
 
+# Word convention for the excerpt path: a word is a maximal run of
+# non-whitespace characters (the same unit str.split() counts). An excerpt must
+# therefore begin and end at whitespace or at the edge of the source, so a
+# contraction/hyphen/underscore fragment ("t keep" from "can't keep") can never
+# count as starting on a whole word.
+def _whole_tokens(source,start,end):
+ return (start==0 or source[start-1].isspace()) and (end==len(source) or source[end].isspace())
+
+def _evidence_section(text):
+ m=re.search(r'^## Evidence line([ \t]*\r?\n.*?)(?=^## |\Z)',text,re.M|re.S)
+ return None if m is None else m.group(1)
+
 def excerpt_problem(text,source):
- match=re.search(r'## Evidence line\s*\n>\s*([^\n]+)',text)
- if not match:return 'missing_quote'
- quote=match.group(1).strip()
+ section=_evidence_section(text)
+ if section is None:return 'missing_quote'
+ if '\r' in section:return 'excerpt_line_break'
+ lines=[l for l in section.split('\n')[1:] if l.strip()]
+ # Exactly one evidence excerpt: one blockquote line and nothing else in the section.
+ if not lines or not re.match(r'>\s*\S',lines[0]):return 'missing_quote'
+ if len(lines)!=1:return 'excerpt_extra_content'
+ quote=re.sub(r'^>\s*','',lines[0]).strip()
  if not quote or quote not in source:return 'quote_not_exact'
  words=len(quote.split())
  if words<MIN_WORDS or words>MAX_WORDS:return 'excerpt_length'
  for m in re.finditer(re.escape(quote),source):
-  before=source[m.start()-1:m.start()];after=source[m.end():m.end()+1]
-  if not (before and before.isalnum()) and not (after and after.isalnum()):return ''
+  if _whole_tokens(source,m.start(),m.end()):return ''
  return 'excerpt_word_boundary'
 
 def quote_problem(text,source):
@@ -72,9 +88,24 @@ def payload(row):
 
 transport_valid=V1.transport_valid
 
+def provenance_path(out):
+ return Path(str(out)+'.provenance.json')
+
+def provenance_ok(out,row):
+ """An existing output counts only if v1.1 itself wrote it for this exact source and request."""
+ p=provenance_path(out)
+ if not p.exists():return False
+ d=json.loads(p.read_text())
+ return (d.get('arm')==ARM and d.get('source_sha256')==hashlib.sha256(Path(row['source']).read_bytes()).hexdigest()
+  and d.get('request_sha256')==hashlib.sha256(json.dumps(payload(row),sort_keys=True).encode()).hexdigest()
+  and d.get('output_sha256')==hashlib.sha256(Path(out).read_bytes()).hexdigest())
+
 def process(row,outdir):
  out=Path(row['outpath']);out.parent.mkdir(parents=True,exist_ok=True)
- if out.exists() and valid_output(out.read_text(),row['text'])[0]:return
+ if out.exists():
+  if provenance_ok(out,row) and valid_output(out.read_text(),row['text'])[0]:return
+  # Never let an earlier arm's answer stand in for a fresh v1.1 evaluation, and never overwrite it.
+  raise RuntimeError('BV1-Luna-v1.1: output exists without v1.1 provenance: '+str(out))
  request=payload(row);status,body=BV.api_call(request,180)
  try:response=json.loads(body)
  except ValueError:response={'invalid_json':body}
@@ -84,6 +115,9 @@ def process(row,outdir):
  if not transport_valid(status,response):reason='transport_finish_provider_or_model'
  evidence=Path(outdir)/'attempt_responses'/row['pid'];evidence.mkdir(parents=True,exist_ok=True)
  record={'arm':ARM,'evidence_rule':'excerpt' if unpunctuated(row['text']) else 'sentence','sample_id':row['sample_id'],'source_sha256':hashlib.sha256(Path(row['source']).read_bytes()).hexdigest(),'http_status':status,'request':request,'response':response,'qa_pass':ok,'qa_reason':reason}
- (evidence/f'{time.time_ns()}.json').write_text(json.dumps(record,ensure_ascii=False)+'\n')
+ attempt=evidence/f'{time.time_ns()}.json';attempt.write_text(json.dumps(record,ensure_ascii=False)+'\n')
  if not ok:raise RuntimeError('BV1-Luna-v1.1 QA: '+reason)
  out.write_text(text.rstrip()+'\n')
+ provenance_path(out).write_text(json.dumps({'arm':ARM,'evidence_rule':record['evidence_rule'],'sample_id':row['sample_id'],
+  'source_sha256':record['source_sha256'],'request_sha256':hashlib.sha256(json.dumps(request,sort_keys=True).encode()).hexdigest(),
+  'output_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'attempt_record':row['pid']+'/'+attempt.name},ensure_ascii=False)+'\n')
