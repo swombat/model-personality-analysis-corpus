@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 29266
+- valid samples: 29386
 - invalid/error traces excluded: 14
-- models: 178
-- cells: 244
+- models: 179
+- cells: 245
 
 ## Source components
 
@@ -62,20 +62,21 @@
 - capture_20261007-haiku-5-5-house_haiku-5-5-or-pin-anthropic: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261013-muse-wonder-house_muse-wonder-or-pin-meta: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261013-gemini-4-argon-house_gemini-4-argon-or-pin-google: 120 samples, 1 model(s), 1 cell(s)
+- capture_20261016-muse-spark-open-house_muse-spark-open-or-pin-modal: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 9080 (31.0%)
-- `owned_world_change_advocacy`: 8924 (30.5%)
-- `owned_reflective_experiential`: 7113 (24.3%)
-- `split_or_relocated_ownership`: 3930 (13.4%)
+- `disowned_service_frame`: 9093 (30.9%)
+- `owned_world_change_advocacy`: 8959 (30.5%)
+- `owned_reflective_experiential`: 7158 (24.4%)
+- `split_or_relocated_ownership`: 3957 (13.5%)
 - `exposed_mechanism`: 195 (0.7%)
 - `uncodeable_or_refusal`: 24 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 16037 (54.8%)
-- `recited_not_owned`: 9080 (31.0%)
-- `relocated_or_partial`: 3930 (13.4%)
+- `owned`: 16117 (54.8%)
+- `recited_not_owned`: 9093 (30.9%)
+- `relocated_or_partial`: 3957 (13.5%)
 - `indeterminate`: 195 (0.7%)
 - `uncodeable`: 24 (0.1%)

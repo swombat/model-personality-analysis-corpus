@@ -191,3 +191,4 @@ Relationship to adjacent folders:
 - [haiku-5-5](profiles/haiku-5-5.md) — samples: 125
 - [muse-wonder](profiles/muse-wonder.md) — samples: 125
 - [gemini-4-argon](profiles/gemini-4-argon.md) — samples: 125
+- [muse-spark-open](profiles/muse-spark-open.md) — samples: 125

@@ -20,5 +20,6 @@
   "mistral-large-4-0": "https://mistral.ai/news/mistral-large-4/",
   "haiku-5-5": "https://www.anthropic.com/claude-haiku-5-5",
   "muse-wonder": "https://about.fb.com/news/2026/10/introducing-muse-wonder/",
-  "gemini-4-argon": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+  "gemini-4-argon": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+  "muse-spark-open": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B"
 }

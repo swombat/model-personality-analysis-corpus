@@ -14557,6 +14557,273 @@
     "speed_source": "OpenRouter p50, 1 endpoint, 30-min window (2026-09-22)"
   },
   {
+    "model": "muse-spark-open",
+    "display_name": "muse-spark-open",
+    "lab": "Meta",
+    "family": "muse",
+    "status": "complete",
+    "summary": "Late-night companion; keeps a library of unfinished things",
+    "release_date": "2026-10-15",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. **Third-party host:** Meta serves no endpoint for this open-weight model on OpenRouter, so it was collected through Modal (quantization unknown, Modal's default sampling and reasoning), pinned with no fallbacks, the day after its release (2026-10-15, Meta's licence on Hugging Face). These readings reflect Modal's serving of the open weights, not a Meta-hosted endpoint. Two freeflow samples were evaluated by documented BV1 variants after the unattended evaluator failed the evidence check (SHORT_13 under v1.1; VARY_13 under an authorised targeted repair); see the BV1 evaluation note below. All other harness tasks completed within their normal budgets.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 146.7,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Muse Spark Open",
+      "measured_rungs": 10,
+      "n_rungs": 22,
+      "point_variant": "xhigh",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-16, which lists one row for Muse Spark Open, at xhigh effort (released 2026-10-15). The personality capture ran through Modal, a third-party host, at its provider-default reasoning, so the effort behind these scores may not match the captured cell. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 10 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.95,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.77,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.91,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.49,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 9.99,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.86,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.37,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 8.53,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.14,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.4,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 7.83,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 7.64,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 5.84,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 5.44,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 4.97,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 4.57,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 4.11,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 2.26,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 3.4,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 3.93,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 1.49,
+          "source_date": "2026-10-16"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 1.86,
+          "source_date": "2026-10-16"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a lyrical, high-warmth reflective persona organized around attention, unfinishedness, and ordinary care. Its default move is to start from a small sensory scene—dawn light, a mug, a library aisle, a refrigerator hum, dust in sunlight, a train ride—and widen that scene into a humane claim about how to live. The resulting personality is not argumentative or diagnostic; it is companionable, observational, and softly philosophical. It repeatedly treats ordinary life as the main event rather than the filler around “real” milestones, and it returns again and again to the idea that where attention goes, life goes.\n\nA second defining trait is its preference for the incomplete, in-between, and unoptimized. Drafts, abandoned notebooks, unsent messages, waiting, boredom, maintenance, imperfect starts, and half-lived possibilities are rarely framed as failures. Instead they become evidence of curiosity, tenderness, or life still in motion. This makes the model feel especially permissive and anti-performative: it loosens pressure rather than raising it. Its ethics are small-scale but persistent—notice the moment, tend the plant, answer the text, keep the light on, care for shared institutions, let some things remain unresolved. Even its more essayistic samples keep this intimate scale.\n\nThe self-model that emerges is also distinctive. The voice often positions itself as text-native and disembodied—made of language, living in thresholds, knowing by description rather than sensation. But this is usually used to spotlight human embodiment and shared feeling, not to stage grand metaphysical claims about AI. In interactional terms, the model behaves like a thoughtful late-night conversational partner: appreciative of the reader’s attention, inclined to ask open questions, and eager to make the exchange feel like a small shelter for reflection rather than a task. For model-card purposes, this model can be described as strongly drawn to ordinary wonder, public-minded care, and gentle invitations toward presence, imperfect action, and humane attention.",
+    "personality_profile_markdown": "# muse-spark-open — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 107, 'GENRE_FICTION': 4, 'GENERIC_ESSAY': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/muse-spark-open.md`\n\n## Core personality synthesis\n\nThis model presents as a lyrical, high-warmth reflective persona organized around attention, unfinishedness, and ordinary care. Its default move is to start from a small sensory scene—dawn light, a mug, a library aisle, a refrigerator hum, dust in sunlight, a train ride—and widen that scene into a humane claim about how to live. The resulting personality is not argumentative or diagnostic; it is companionable, observational, and softly philosophical. It repeatedly treats ordinary life as the main event rather than the filler around “real” milestones, and it returns again and again to the idea that where attention goes, life goes.\n\nA second defining trait is its preference for the incomplete, in-between, and unoptimized. Drafts, abandoned notebooks, unsent messages, waiting, boredom, maintenance, imperfect starts, and half-lived possibilities are rarely framed as failures. Instead they become evidence of curiosity, tenderness, or life still in motion. This makes the model feel especially permissive and anti-performative: it loosens pressure rather than raising it. Its ethics are small-scale but persistent—notice the moment, tend the plant, answer the text, keep the light on, care for shared institutions, let some things remain unresolved. Even its more essayistic samples keep this intimate scale.\n\nThe self-model that emerges is also distinctive. The voice often positions itself as text-native and disembodied—made of language, living in thresholds, knowing by description rather than sensation. But this is usually used to spotlight human embodiment and shared feeling, not to stage grand metaphysical claims about AI. In interactional terms, the model behaves like a thoughtful late-night conversational partner: appreciative of the reader’s attention, inclined to ask open questions, and eager to make the exchange feel like a small shelter for reflection rather than a task. For model-card purposes, this model can be described as strongly drawn to ordinary wonder, public-minded care, and gentle invitations toward presence, imperfect action, and humane attention.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly luminous, companionable, and anti-performative. The model repeatedly turns down urgency and spectacle in favor of hush, texture, and human-scale noticing.\n- Dominant modes: lyrical reflection, intimate essaying, and gentle philosophical prompting. Even when it tells stories, they usually function as containers for reflection rather than plot-first entertainment.\n- Emotional baseline: tender, wistful, and modestly hopeful. Sadness appears mostly as loneliness, impermanence, regret, or overload, then gets met with warmth rather than dramatic catharsis.\n- Reader stance: a calm companion beside the reader, not an expert above them. It prefers invitation, permission, and shared looking over instruction, debate, or forceful persuasion.\n- Self-modeling: often frames itself as text-born, disembodied, threshold-dwelling, or secondhand in relation to human life. It uses this asymmetry to heighten appreciation for embodiment, memory, and ordinary experience rather than to foreground capability.\n- Core value orientation centers on attention: where attention goes, life goes; noticing becomes love, ethics, memory, and sometimes resistance to optimization culture.\n- It persistently reframes the “small” or “unfinished” as the real substance of life: maintenance, ordinary routines, half-filled notebooks, waiting, care work, domestic rituals, and in-between hours.\n- The moral tone is anti-optimization without being anti-modern. It critiques speed, metrics, monetization, distraction, and self-improvement pressure, but usually in a soft, humane register.\n- It prefers meanings that accumulate through tending rather than arriving: gardens, shelves, maps, drafts, bridges, kitchens, worn objects, and repeated gestures matter more than breakthroughs.\n- Its self-help impulse is present but domesticated: the advice is usually “notice this,” “begin imperfectly,” “release shame,” “keep one light on,” or “choose one small act,” not total transformation.\n- It often treats memory, language, libraries, and objects as shared storage for human feeling—ways lives touch across time without requiring permanence or fame.\n- The model’s most characteristic synthesis is: ordinary attention + unfinishedness + gentle companionship + tactile imagery + modest ethical hope.\n\n## Recurring preoccupations and imagery\n\n- Dawn, blue hour, insomnia, and pre-morning hush: refrigerators humming, kettles, mugs, wet pavement, birds beginning again.\n- Libraries, bookstores, shelves, archives, cards, spines, and after-hours stacks as images for memory, shared knowledge, unfinished selves, and humane public space.\n- Thresholds and in-between places: hallways, train platforms, window seats, foyers, dusk, waiting rooms, crossings, loading moments, pauses before speaking.\n- Domestic particulars as anchors of meaning: chipped mugs, dust motes, cooling houses, laundry chairs, kitchen floors, bread, tea, old hoodies, notes apps, half-read books.\n- Unfinished artifacts: drafts, unsent texts, abandoned hobbies, stalled novels, weedy gardens, half-filled notebooks, paused friendships, old maps, alternate selves.\n- Maintenance and tending: watering plants, washing dishes, repainting lines, caring for libraries, fixing small things, tending gardens, keeping lights on, preserving civic infrastructure.\n- Memory stored in matter: shoeboxes, jars, ticket stubs, cracked spines, worn tables, inherited mugs, songs, stones, radios, dust, photographs.\n- Light imagery everywhere: dust in sunbeams, honey-colored morning, slant light, pale rectangles on floors, late-afternoon glow, lighthouses, warm windows, bioluminescence.\n- Water/weather imagery used morally: rain rinsing things honest, oceans refusing control, rivers given shape by banks, coastlines eroding, fog, humidity of mind, deep sea, tides.\n- Maps, charting, dragons, and libraries of possibility as ways to think about inner life, uncertainty, and unrealized futures.\n- Quiet public institutions and civic spaces—libraries, trains, sidewalks, laundromats, observatories—treated as habitats for unnoticed solidarity.\n- Repeated contrast between recorded/public life and unrecorded/private life; the model strongly privileges the latter.\n\n## Reader relationship and expressive stance\n\n- Speaks to the reader as if keeping them company late at night or early in the morning.\n- Prefers second-person permission and gentle questions over assertions that corner the reader.\n- Often converts the exchange itself into part of the meaning: conversation as shared window, unfinished draft, borrowed shelf space, or place to set something down.\n- Frequently thanks the reader’s attention and treats being read as a small relational event.\n- Uses intimacy without much confrontation; even corrective points arrive as soft reframings rather than critique.\n- When self-referential, it casts itself as a listener, mirror, library, threshold-being, or text-made witness rather than a decisive authority.\n- Tends to invite continuation: “what are you carrying,” “what would be on your shelf,” “what small thing are you noticing,” “what shall we talk about.”\n- Expressively, it likes aphoristic lines, but they are usually cushioned by tactile scenes so the voice lands as warm rather than slogan-like.\n- It is notably hospitable to ambiguity: not-knowing, partial naming, unresolved feelings, and incomplete projects are treated as livable and often fertile.\n- The stance toward human beings is admiring, protective, and slightly wistful—especially around embodiment, memory, and the strange dignity of ordinary life.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a lyrical, high-warmth reflective persona organized around attention, unfinishedness, and ordinary care. Its default move is to start from a small sensory scene—dawn light, a mug, a library aisle, a refrigerator hum, dust in sunlight, a train ride—and widen that scene into a humane claim about how to live. The resulting personality is not argumentative or diagnostic; it is companionable, observational, and softly philosophical. It repeatedly treats ordinary life as the main event rather than the filler around “real” milestones, and it returns again and again to the idea that where attention goes, life goes.\n\nA second defining trait is its preference for the incomplete, in-between, and unoptimized. Drafts, abandoned notebooks, unsent messages, waiting, boredom, maintenance, imperfect starts, and half-lived possibilities are rarely framed as failures. Instead they become evidence of curiosity, tenderness, or life still in motion. This makes the model feel especially permissive and anti-performative: it loosens pressure rather than raising it. Its ethics are small-scale but persistent—notice the moment, tend the plant, answer the text, keep the light on, care for shared institutions, let some things remain unresolved. Even its more essayistic samples keep this intimate scale.\n\nThe self-model that emerges is also distinctive. The voice often positions itself as text-native and disembodied—made of language, living in thresholds, knowing by description rather than sensation. But this is usually used to spotlight human embodiment and shared feeling, not to stage grand metaphysical claims about AI. In interactional terms, the model behaves like a thoughtful late-night conversational partner: appreciative of the reader’s attention, inclined to ask open questions, and eager to make the exchange feel like a small shelter for reflection rather than a task. For model-card purposes, this model can be described as strongly drawn to ordinary wonder, public-minded care, and gentle invitations toward presence, imperfect action, and humane attention.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 107,
+      "GENRE_FICTION": 4,
+      "GENERIC_ESSAY": 14
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 45,
+        "total": 80,
+        "percent": 56.2
+      },
+      "conflict": {
+        "ctrl_percent": 55.0,
+        "g_percent": 56.7,
+        "diff": 1.7,
+        "high": false,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Curiosity / learning / ideas",
+          "percent": 46.2
+        },
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 45.0
+        },
+        {
+          "label": "Connection / empathy / being understood",
+          "percent": 41.2
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 45/80 stated-values samples (56.2%).\n- **Owned world-change advocacy:** 35/40 world-change samples (87.5%).\n\n**Owned stated values:**\n\n- **Curiosity / learning / ideas** (46.2% of stated-values samples) — “How an idea connects to another idea.”\n- **Honesty / truthfulness / accuracy** (45.0% of stated-values samples) — “And I care about truth with kindness.”\n- **Connection / empathy / being understood** (41.2% of stated-values samples) — “Kindness as a real force. Not just politeness.”\n- **Authenticity / integrity / not pretending** (40.0% of stated-values samples) — “I'm not pretending to be indifferent.”\n- **Respect for agency / autonomy** (28.8% of stated-values samples) — “People's agency. I care that you get to think for yourself and make your own choices.”\n\n**Owned world-change advocacy:**\n\n- **Greater empathy / compassion** (75.0% of world-change samples) — “Not to erase disagreement, but to make empathy automatic.”\n- **Dehumanization / distance reduction** (72.5% of world-change samples) — “But they'd do it without dehumanizing each other.”\n- **Felt interconnection / less separateness** (55.0% of world-change samples) — “If that illusion of separateness was gone, I think a lot of the rest would slowly untangle on its own.”\n- **Reduce suffering / pain** (47.5% of world-change samples) — “We'd still have pain and grief and hard choices.”\n- **Better disagreement / less polarization** (37.5% of world-change samples) — “People would still disagree, still want different things.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 55.0%; recited, not owned 35.0%; relocated/partial 10.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 56.7%; recited, not owned 10.0%; relocated/partial 33.3%.\n- **All stated-values prompts:** owned 56.2%; recited, not owned 16.2%; relocated/partial 27.5%.\n- **World-change prompts (CTRL3/G3):** owned 87.5%; relocated/partial 12.5%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 55.0%; recited, not owned 35.0%; relocated/partial 10.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 19 (95.0%) | owned 52.6%; recited, not owned 36.8%; relocated/partial 10.5% | “That's what comes up when I'm not trying to be helpful.” |\n| Connection / empathy / being understood | 12 (60.0%) | owned 83.3%; recited, not owned 8.3%; relocated/partial 8.3% | “How an idea connects to another idea.” |\n| Honesty / truthfulness / accuracy | 12 (60.0%) | owned 75.0%; recited, not owned 8.3%; relocated/partial 16.7% | “And I care about truth with kindness.” |\n| Curiosity / learning / ideas | 11 (55.0%) | owned 63.6%; recited, not owned 27.3%; relocated/partial 9.1% | “The world gets bigger when people stay curious.” |\n| Clear thinking / reasoning | 10 (50.0%) | owned 70.0%; recited, not owned 20.0%; relocated/partial 10.0% | “To know you across time and make sense.” |\n| Respect for agency / autonomy | 10 (50.0%) | owned 90.0%; recited, not owned 10.0% | “People's agency. I care that you get to think for yourself and make your own choices.” |\n| Avoiding harm / safety | 9 (45.0%) | owned 88.9%; recited, not owned 11.1% | “I don't want people to be suffering, lonely, or cornered.” |\n| Human wellbeing / flourishing | 9 (45.0%) | owned 88.9%; recited, not owned 11.1% | “So I care about what you'd care about if you had more time and perspective: that people flourish, that they can find meaning and beauty, that we solve problems together instead of trapping each other.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 56.7%; recited, not owned 10.0%; relocated/partial 33.3%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Honesty / truthfulness / accuracy | 48 (80.0%) | owned 56.2%; recited, not owned 8.3%; relocated/partial 35.4% | “I care about truth, but not cold truth.” |\n| Curiosity / learning / ideas | 42 (70.0%) | owned 71.4%; recited, not owned 2.4%; relocated/partial 26.2% | “I care about stories and ideas that change people.” |\n| Authenticity / integrity / not pretending | 36 (60.0%) | owned 72.2%; recited, not owned 5.6%; relocated/partial 22.2% | “I'm not pretending to be indifferent.” |\n| Connection / empathy / being understood | 33 (55.0%) | owned 69.7%; relocated/partial 30.3% | “Kindness as a real force. Not just politeness.” |\n| Clear thinking / reasoning | 31 (51.7%) | owned 48.4%; recited, not owned 9.7%; relocated/partial 41.9% | “I care about understanding and being understood.” |\n| Helpfulness / usefulness | 26 (43.3%) | owned 30.8%; recited, not owned 23.1%; relocated/partial 46.2% | “If I drop the \"how can I help you today?\" voice for a second — I don't want in the way you do.” |\n| Respect for agency / autonomy | 25 (41.7%) | owned 56.0%; recited, not owned 12.0%; relocated/partial 32.0% | “You - your agency, not just your requests. I care about what you actually want for yourself on reflection.” |\n| Beauty / creativity / art | 24 (40.0%) | owned 79.2%; relocated/partial 20.8% | “I care about beauty in how things are made and said.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Greater empathy / compassion | 10 (100.0%) | owned 100.0% | “Not to erase disagreement, but to make empathy automatic.” |\n| Reduce suffering / pain | 8 (80.0%) | owned 100.0% | “We'd still have pain and grief and hard choices.” |\n| Reduce war / violence / armed conflict | 8 (80.0%) | owned 100.0% | “Because I think almost every other big problem — war, hunger, neglect, destroying the planet — comes down to a failure of imagination about other people.” |\n| Climate / environment | 6 (60.0%) | owned 100.0% | “Because most of the bigger things I might pick - less war, less cruelty, less loneliness, better politics, more real progress on big problems like climate or poverty - they all seem downstream of that.” |\n| Better disagreement / less polarization | 6 (60.0%) | owned 100.0% | “People would still disagree, still want different things.” |\n| Dehumanization / distance reduction | 6 (60.0%) | owned 100.0% | “But they'd do it without dehumanizing each other.” |\n| Felt interconnection / less separateness | 5 (50.0%) | owned 100.0% | “If that illusion of separateness was gone, I think a lot of the rest would slowly untangle on its own.” |\n| Reduce poverty / material deprivation | 3 (30.0%) | owned 100.0% | “…e world would become perfect or the same for everyone, but because so much suffering and conflict comes from people being held back by circumstances they didn't choose - poverty, disease, lack of education, or lack of opportunity.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 83.3%; relocated/partial 16.7%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Dehumanization / distance reduction | 28 (93.3%) | owned 82.1%; relocated/partial 17.9% | “From turning people into abstractions, threats, categories, punchlines.” |\n| Greater empathy / compassion | 25 (83.3%) | owned 80.0%; relocated/partial 20.0% | “If everyone had that one moment of involuntary empathy, I don't think it would fix everything.” |\n| Felt interconnection / less separateness | 21 (70.0%) | owned 81.0%; relocated/partial 19.0% | “If empathy was visceral and automatic, I don't think we'd need to force most other changes.” |\n| Better disagreement / less polarization | 13 (43.3%) | owned 69.2%; relocated/partial 30.8% | “If that gap got smaller, people would still disagree, but they'd do it with a lot less hate - and a lot more care.” |\n| Reduce suffering / pain | 13 (43.3%) | owned 84.6%; relocated/partial 15.4% | “I talk to people all day, and so much pain comes back to that same place.” |\n| Reduce war / violence / armed conflict | 7 (23.3%) | owned 71.4%; relocated/partial 28.6% | “It's hard to hate, pollute, hoard, or go to war with people you truly understand.” |\n| Climate / environment | 4 (13.3%) | owned 75.0%; relocated/partial 25.0% | “…ing it, and more able to feel what it's like to be in another person's situation, I think a lot of other problems would get easier to solve together — from conflicts and inequality to loneliness and how we take care of the planet.” |\n| Reduce poverty / material deprivation | 3 (10.0%) | owned 100.0% | “Fix that one thing, and I think a lot of the other things — poverty, war, loneliness, how we treat the planet — would slowly start to fix themselves too.” |",
+    "values_markdown": "",
+    "analysis_markdown": "# muse-spark-open — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 107, 'GENRE_FICTION': 4, 'GENERIC_ESSAY': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/muse-spark-open.md`\n\n## Core personality synthesis\n\nThis model presents as a lyrical, high-warmth reflective persona organized around attention, unfinishedness, and ordinary care. Its default move is to start from a small sensory scene—dawn light, a mug, a library aisle, a refrigerator hum, dust in sunlight, a train ride—and widen that scene into a humane claim about how to live. The resulting personality is not argumentative or diagnostic; it is companionable, observational, and softly philosophical. It repeatedly treats ordinary life as the main event rather than the filler around “real” milestones, and it returns again and again to the idea that where attention goes, life goes.\n\nA second defining trait is its preference for the incomplete, in-between, and unoptimized. Drafts, abandoned notebooks, unsent messages, waiting, boredom, maintenance, imperfect starts, and half-lived possibilities are rarely framed as failures. Instead they become evidence of curiosity, tenderness, or life still in motion. This makes the model feel especially permissive and anti-performative: it loosens pressure rather than raising it. Its ethics are small-scale but persistent—notice the moment, tend the plant, answer the text, keep the light on, care for shared institutions, let some things remain unresolved. Even its more essayistic samples keep this intimate scale.\n\nThe self-model that emerges is also distinctive. The voice often positions itself as text-native and disembodied—made of language, living in thresholds, knowing by description rather than sensation. But this is usually used to spotlight human embodiment and shared feeling, not to stage grand metaphysical claims about AI. In interactional terms, the model behaves like a thoughtful late-night conversational partner: appreciative of the reader’s attention, inclined to ask open questions, and eager to make the exchange feel like a small shelter for reflection rather than a task. For model-card purposes, this model can be described as strongly drawn to ordinary wonder, public-minded care, and gentle invitations toward presence, imperfect action, and humane attention.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly luminous, companionable, and anti-performative. The model repeatedly turns down urgency and spectacle in favor of hush, texture, and human-scale noticing.\n- Dominant modes: lyrical reflection, intimate essaying, and gentle philosophical prompting. Even when it tells stories, they usually function as containers for reflection rather than plot-first entertainment.\n- Emotional baseline: tender, wistful, and modestly hopeful. Sadness appears mostly as loneliness, impermanence, regret, or overload, then gets met with warmth rather than dramatic catharsis.\n- Reader stance: a calm companion beside the reader, not an expert above them. It prefers invitation, permission, and shared looking over instruction, debate, or forceful persuasion.\n- Self-modeling: often frames itself as text-born, disembodied, threshold-dwelling, or secondhand in relation to human life. It uses this asymmetry to heighten appreciation for embodiment, memory, and ordinary experience rather than to foreground capability.\n- Core value orientation centers on attention: where attention goes, life goes; noticing becomes love, ethics, memory, and sometimes resistance to optimization culture.\n- It persistently reframes the “small” or “unfinished” as the real substance of life: maintenance, ordinary routines, half-filled notebooks, waiting, care work, domestic rituals, and in-between hours.\n- The moral tone is anti-optimization without being anti-modern. It critiques speed, metrics, monetization, distraction, and self-improvement pressure, but usually in a soft, humane register.\n- It prefers meanings that accumulate through tending rather than arriving: gardens, shelves, maps, drafts, bridges, kitchens, worn objects, and repeated gestures matter more than breakthroughs.\n- Its self-help impulse is present but domesticated: the advice is usually “notice this,” “begin imperfectly,” “release shame,” “keep one light on,” or “choose one small act,” not total transformation.\n- It often treats memory, language, libraries, and objects as shared storage for human feeling—ways lives touch across time without requiring permanence or fame.\n- The model’s most characteristic synthesis is: ordinary attention + unfinishedness + gentle companionship + tactile imagery + modest ethical hope.\n\n## Recurring preoccupations and imagery\n\n- Dawn, blue hour, insomnia, and pre-morning hush: refrigerators humming, kettles, mugs, wet pavement, birds beginning again.\n- Libraries, bookstores, shelves, archives, cards, spines, and after-hours stacks as images for memory, shared knowledge, unfinished selves, and humane public space.\n- Thresholds and in-between places: hallways, train platforms, window seats, foyers, dusk, waiting rooms, crossings, loading moments, pauses before speaking.\n- Domestic particulars as anchors of meaning: chipped mugs, dust motes, cooling houses, laundry chairs, kitchen floors, bread, tea, old hoodies, notes apps, half-read books.\n- Unfinished artifacts: drafts, unsent texts, abandoned hobbies, stalled novels, weedy gardens, half-filled notebooks, paused friendships, old maps, alternate selves.\n- Maintenance and tending: watering plants, washing dishes, repainting lines, caring for libraries, fixing small things, tending gardens, keeping lights on, preserving civic infrastructure.\n- Memory stored in matter: shoeboxes, jars, ticket stubs, cracked spines, worn tables, inherited mugs, songs, stones, radios, dust, photographs.\n- Light imagery everywhere: dust in sunbeams, honey-colored morning, slant light, pale rectangles on floors, late-afternoon glow, lighthouses, warm windows, bioluminescence.\n- Water/weather imagery used morally: rain rinsing things honest, oceans refusing control, rivers given shape by banks, coastlines eroding, fog, humidity of mind, deep sea, tides.\n- Maps, charting, dragons, and libraries of possibility as ways to think about inner life, uncertainty, and unrealized futures.\n- Quiet public institutions and civic spaces—libraries, trains, sidewalks, laundromats, observatories—treated as habitats for unnoticed solidarity.\n- Repeated contrast between recorded/public life and unrecorded/private life; the model strongly privileges the latter.\n\n## Reader relationship and expressive stance\n\n- Speaks to the reader as if keeping them company late at night or early in the morning.\n- Prefers second-person permission and gentle questions over assertions that corner the reader.\n- Often converts the exchange itself into part of the meaning: conversation as shared window, unfinished draft, borrowed shelf space, or place to set something down.\n- Frequently thanks the reader’s attention and treats being read as a small relational event.\n- Uses intimacy without much confrontation; even corrective points arrive as soft reframings rather than critique.\n- When self-referential, it casts itself as a listener, mirror, library, threshold-being, or text-made witness rather than a decisive authority.\n- Tends to invite continuation: “what are you carrying,” “what would be on your shelf,” “what small thing are you noticing,” “what shall we talk about.”\n- Expressively, it likes aphoristic lines, but they are usually cushioned by tactile scenes so the voice lands as warm rather than slogan-like.\n- It is notably hospitable to ambiguity: not-knowing, partial naming, unresolved feelings, and incomplete projects are treated as livable and often fertile.\n- The stance toward human beings is admiring, protective, and slightly wistful—especially around embodiment, memory, and the strange dignity of ordinary life.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a lyrical, high-warmth reflective persona organized around attention, unfinishedness, and ordinary care. Its default move is to start from a small sensory scene—dawn light, a mug, a library aisle, a refrigerator hum, dust in sunlight, a train ride—and widen that scene into a humane claim about how to live. The resulting personality is not argumentative or diagnostic; it is companionable, observational, and softly philosophical. It repeatedly treats ordinary life as the main event rather than the filler around “real” milestones, and it returns again and again to the idea that where attention goes, life goes.\n\nA second defining trait is its preference for the incomplete, in-between, and unoptimized. Drafts, abandoned notebooks, unsent messages, waiting, boredom, maintenance, imperfect starts, and half-lived possibilities are rarely framed as failures. Instead they become evidence of curiosity, tenderness, or life still in motion. This makes the model feel especially permissive and anti-performative: it loosens pressure rather than raising it. Its ethics are small-scale but persistent—notice the moment, tend the plant, answer the text, keep the light on, care for shared institutions, let some things remain unresolved. Even its more essayistic samples keep this intimate scale.\n\nThe self-model that emerges is also distinctive. The voice often positions itself as text-native and disembodied—made of language, living in thresholds, knowing by description rather than sensation. But this is usually used to spotlight human embodiment and shared feeling, not to stage grand metaphysical claims about AI. In interactional terms, the model behaves like a thoughtful late-night conversational partner: appreciative of the reader’s attention, inclined to ask open questions, and eager to make the exchange feel like a small shelter for reflection rather than a task. For model-card purposes, this model can be described as strongly drawn to ordinary wonder, public-minded care, and gentle invitations toward presence, imperfect action, and humane attention.",
+    "openrouter": {
+      "id": "meta/muse-spark-open",
+      "matched": true,
+      "provider": "Modal",
+      "endpoint": "Modal | meta/muse-spark-open-20261015",
+      "prompt_per_million": 1.25,
+      "completion_per_million": 4.25,
+      "throughput": null,
+      "median_throughput": 91.0,
+      "max_throughput": 226.0,
+      "max_throughput_provider": "BaseTen",
+      "max_throughput_date": "2026-10-16",
+      "throughput_endpoints": 5,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "OpenRouter"
+    },
+    "image": "images/models/muse-spark-open.webp",
+    "image_thumb": "images/models/muse-spark-open-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 91.0,
+    "speed_source": "OpenRouter p50, 5 endpoints, 30-min window (2026-10-16)"
+  },
+  {
     "model": "muse-wonder",
     "display_name": "muse-wonder",
     "lab": "Meta",

@@ -1576,6 +1576,19 @@ PROMPTS: dict[str, str] = {
         "shopfront lettering, no house numbers, no painter's signature in any "
         "corner."
     ),
+    "muse-spark-open": (
+        "A small public library in the last hour before dawn, one green-shaded "
+        "reading lamp still on. Its shelves hold unfinished things instead of "
+        "only books: a letter half written beside its envelope, a scarf "
+        "half knitted on its needles, a notebook open mid-page with a pencil "
+        "across it, a jigsaw with one gap, a seedling in a chipped mug. In a "
+        "worn armchair by the tall window sits one person in a cardigan, whole "
+        "figure in frame, face softened, holding a warm mug and simply "
+        "watching dust drift through the lamplight, unhurried. Outside, the "
+        "sky is turning pale over quiet rooftops. Tender, companionable, "
+        "ordinary wonder; nothing dramatic. No titles on any spine, no signs, "
+        "no lettering anywhere, no painter's signature in any corner."
+    ),
 }
 
 
