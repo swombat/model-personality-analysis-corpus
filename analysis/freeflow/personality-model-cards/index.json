@@ -1144,6 +1144,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "muse-spark-open",
+    "safe": "muse-spark-open",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-spark-open.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "muse-wonder",
     "safe": "muse-wonder",
     "variants": 1,
