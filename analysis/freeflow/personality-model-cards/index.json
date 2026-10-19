@@ -160,6 +160,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "deepseek-v4-1-flash-1017",
+    "safe": "deepseek-v4-1-flash-1017",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-1-flash-1017.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "deepseek-v4-flash-0731",
     "safe": "deepseek-v4-flash-0731",
     "variants": 1,

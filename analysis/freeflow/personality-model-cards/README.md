@@ -184,3 +184,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-4-argon](cards/gemini-4-argon.md) — samples: 125
 - [muse-spark-open](cards/muse-spark-open.md) — samples: 125
 - [qwen3-8-omni-flash](cards/qwen3-8-omni-flash.md) — samples: 125
+- [deepseek-v4-1-flash-1017](cards/deepseek-v4-1-flash-1017.md) — samples: 125

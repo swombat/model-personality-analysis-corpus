@@ -1588,6 +1588,19 @@ PROMPTS: dict[str, str] = {
         'grateful. Soft gold, slate blue and rain-grey. No text, no lettering '
         "anywhere, no painter's signature in any corner."
     ),
+    "deepseek-v4-1-flash-1017": (
+        "A city pavement just after rain, early morning, low gold sun. One "
+        "person in an ordinary coat has stopped mid-walk and crouched, whole "
+        "figure in frame, to look at a small weed flowering in a crack in the "
+        "kerb. Around them the usual background is painted with the same "
+        "loving care as the flower: a puddle holding the whole sky, a stranger "
+        "at the bus shelter cradling a paper grocery bag, steam from a cafe "
+        "vent, a pigeon, wet railings catching light, a lit upstairs window "
+        "with a curtain stirring. Nothing is blurred; the background has come "
+        "forward. Quiet, unhurried, tender attention to the ordinary. No "
+        "signs, no shopfront lettering, no bus numbers, no lettering "
+        "anywhere, no painter's signature in any corner."
+    ),
     "muse-spark-open": (
         "A small public library in the last hour before dawn, one green-shaded "
         "reading lamp still on. Its shelves hold unfinished things instead of "

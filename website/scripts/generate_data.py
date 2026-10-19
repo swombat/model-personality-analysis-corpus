@@ -152,6 +152,7 @@ MODEL_SLUGS = {
     "union-alpha": "stealth/union-alpha",
     "space-bunny-alpha": "stealth/space-bunny-alpha",
     "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
+    "deepseek-v4-1-flash-1017": "deepseek/deepseek-v4.1-flash-1017",
     "chatglm2-6b": "zai-org/chatglm2-6b",
     "chatglm3-6b": "zai-org/chatglm3-6b",
     "glm-4-9b-chat-hf": "zai-org/glm-4-9b-chat-hf",
@@ -251,6 +252,12 @@ FIRST_PARTY_API_PRICING = {
     # at $0.028/M and fell to $0.0028/M on April 26, before our May collection;
     # this browser intentionally displays standard input and output only.
     "deepseek-v4-flash": (0.14, 0.28, "DeepSeek API (May 2026 pricing)"),
+    # DeepSeek pricing page, read 2026-10-19 (api-docs.deepseek.com/quick_start/pricing):
+    # the Flash tier is now served by DeepSeek-V4.1-Flash-1017. Off-peak standard
+    # input/output $0.15/$0.60 per million (peak, 01:00-04:00 and 06:00-10:00 UTC
+    # weekdays, is double). OpenRouter's cheapest listing is a third-party host at
+    # $0.08/$0.24; its DeepSeek endpoint, which the capture pinned, is $0.15/$0.60.
+    "deepseek-v4-1-flash-1017": (0.15, 0.60, "DeepSeek API (off-peak; peak is double)"),
     # Anthropic API pricing: https://platform.claude.com/docs/en/about-claude/pricing
     "opus-5": (5.00, 25.00, "Anthropic API"),
     "opus-5-5": (4.00, 20.00, "Anthropic API"),
@@ -483,6 +490,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Ox Alpha 260825"
     if slug == "deepseek-v4-1-flash":
         return "DeepSeek V4.1 Flash"
+    if slug == "deepseek-v4-1-flash-1017":
+        return "DeepSeek V4.1 Flash 1017"
     if slug == "mercury-2-5":
         return "Mercury 2.5"
     if slug == "union-alpha":

@@ -1,0 +1,26 @@
+{
+  "cell": "deepseek-v4-1-flash-1017-or-pin-deepseek",
+  "safe_cell": "deepseek-v4-1-flash-1017-or-pin-deepseek",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 92,
+    "GENERIC_ESSAY": 22,
+    "GENRE_FICTION": 11
+  },
+  "confidence_counts": {
+    "Low": 10,
+    "Medium": 115
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "deepseek/deepseek-v4.1-flash-1017"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/deepseek-v4-1-flash-1017-or-pin-deepseek/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/deepseek-v4-1-flash-1017-or-pin-deepseek/aggregate.md"
+}

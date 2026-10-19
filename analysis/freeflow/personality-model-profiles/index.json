@@ -261,6 +261,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-1-flash.md"
   },
   {
+    "model": "deepseek-v4-1-flash-1017",
+    "safe": "deepseek-v4-1-flash-1017",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 92,
+      "GENERIC_ESSAY": 22,
+      "GENRE_FICTION": 11
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/deepseek-v4-1-flash-1017.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/deepseek-v4-1-flash-1017.md"
+  },
+  {
     "model": "deepseek-v4-flash-0731",
     "safe": "deepseek-v4-flash-0731",
     "analysis_inputs": 1,

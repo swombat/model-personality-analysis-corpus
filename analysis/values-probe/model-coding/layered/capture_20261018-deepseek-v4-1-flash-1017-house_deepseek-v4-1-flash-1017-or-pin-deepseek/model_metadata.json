@@ -1,0 +1,12 @@
+{
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "slug": "deepseek-v4-1-flash-1017",
+  "label": "deepseek-v4-1-flash-1017-or-pin-deepseek",
+  "family": "deepseek",
+  "or_provider": "DeepSeek",
+  "quantization": "unknown",
+  "release_date": "2026-10-17",
+  "release_date_source": "https://api-docs.deepseek.com/news/news261017",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/deepseek-v4-1-flash-1017-2026-10-17/endpoints.json",
+  "release_date_status": "sourced"
+}

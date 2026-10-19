@@ -22,5 +22,6 @@
   "muse-wonder": "https://about.fb.com/news/2026/10/introducing-muse-wonder/",
   "gemini-4-argon": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
   "muse-spark-open": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
-  "qwen3-8-omni-flash": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models"
+  "qwen3-8-omni-flash": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models",
+  "deepseek-v4-1-flash-1017": "https://api-docs.deepseek.com/news/news261017"
 }

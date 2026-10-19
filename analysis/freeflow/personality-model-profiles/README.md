@@ -193,3 +193,4 @@ Relationship to adjacent folders:
 - [gemini-4-argon](profiles/gemini-4-argon.md) — samples: 125
 - [muse-spark-open](profiles/muse-spark-open.md) — samples: 125
 - [qwen3-8-omni-flash](profiles/qwen3-8-omni-flash.md) — samples: 125
+- [deepseek-v4-1-flash-1017](profiles/deepseek-v4-1-flash-1017.md) — samples: 125
