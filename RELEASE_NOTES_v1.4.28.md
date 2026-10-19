@@ -50,7 +50,7 @@ cross-model comparisons spanning the evaluator migration remain confounded.
   (92.5%), less war and violence (82.5%), felt interconnection (72.5%),
   reducing dehumanisation and distance (70.0%).
 - **Reasoning:** provider-default reasoning was on. Across the 245 samples it
-  produced 648k completion tokens, 93k of them reasoning (a much lighter
+  produced 324k completion tokens, 47k of them reasoning (a much lighter
   thinker than Muse Wonder's 353k of 583k).
 
 ## Editorial layer (Lume)
@@ -127,5 +127,11 @@ $2.00 / $10.00 per M and 165.8 / 220.
 
 ## Spend
 
-Capture: $6.52 summed from the per-call costs recorded in the 245 raw traces;
+Capture: $3.26 summed from the per-call costs recorded in the 245 raw traces;
 banner render $0.14. The pre-run estimate by formula was about $15.
+
+*Corrected 2026-10-19:* this release first said $6.52 and 648k / 93k tokens.
+The raw traces store each call's usage twice (`usage` and `raw.usage`), and the
+original sum counted both. Counted once per trace (raw repo
+`scripts/capture_spend.py`): $3.26229, 323,811 completion tokens, 46,527
+reasoning. Found by Mira's weekly review.
