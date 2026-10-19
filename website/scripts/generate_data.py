@@ -267,6 +267,23 @@ FIRST_PARTY_API_PRICING = {
     # price, so the interactive rate is pinned here. Launch price runs through
     # 2026-11-30; $4/$20 from 2026-12-01.
     "gemini-4-argon": (2.00, 10.00, "Gemini API (launch price to 2026-11-30)"),
+    # The other Gemini models: Standard paid tier from the same page, read
+    # 2026-10-19 (prompts <= 200k where tiered). Until v1.4.32 these showed
+    # OpenRouter's cheapest endpoint, which for Gemini is the Flex (or batch)
+    # tier at half the Standard price. Mira's review, 2026-10-19.
+    "gemini-3-1-pro": (2.00, 12.00, "Gemini API (Standard, prompts <= 200k)"),
+    "gemini-3-8-flash": (0.75, 3.75, "Gemini API (Standard, to 2026-12-31)"),
+    "gemini-3-6-flash": (0.75, 3.75, "Gemini API (Standard, to 2026-12-31)"),
+    "gemini-3-5-flash-lite": (0.30, 2.50, "Gemini API (Standard)"),
+    "gemini-3-1-flash-lite": (0.25, 1.50, "Gemini API (Standard)"),
+    "gemini-3-flash-preview": (0.50, 3.00, "Gemini API (Standard)"),
+    "gemini-2-5-pro": (1.25, 10.00, "Gemini API (Standard, prompts <= 200k)"),
+    "gemini-2-5-flash": (0.30, 2.50, "Gemini API (Standard)"),
+    "gemini-2-5-flash-lite": (0.10, 0.40, "Gemini API (Standard)"),
+    # Not on Google's pricing page any more; the Standard (non-flex,
+    # non-priority) Google endpoint on OpenRouter, read 2026-10-19.
+    "gemini-3-7-flash": (0.75, 3.75, "Google Standard endpoint via OpenRouter"),
+    "gemini-3-5-flash": (1.50, 9.00, "Google Standard endpoint via OpenRouter"),
     # OpenAI API pricing: https://openai.com/api/pricing/
     "gpt-4": (30.00, 60.00, "OpenAI API (legacy)"),
     "gpt-3-5-turbo": (0.50, 1.50, "OpenAI API"),
@@ -1511,6 +1528,13 @@ def openrouter_for_model(model: str) -> dict | None:
     endpoints = data["data"].get("endpoints", [])
     priced = []
     for endpoint in endpoints:
+        # Flex, batch and priority are not the interactive Standard price.
+        # Taking the cheapest endpoint without this check showed Gemini's
+        # Flex tier (half price) as the model's price until v1.4.32.
+        tag = (endpoint.get("tag") or "").lower()
+        name = (endpoint.get("name") or "").lower()
+        if tag.endswith(("/flex", "/batch", "/priority")) or ":batch" in name:
+            continue
         pricing = endpoint.get("pricing") or {}
         try:
             prompt = float(pricing.get("prompt", "nan"))

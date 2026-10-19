@@ -5,11 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-19:** v1.4.31 adds DeepSeek V4.1 Flash 1017 (card, profile,
-> values, map position, provisional capability score, banner), the new-weights
-> snapshot DeepSeek released on 17 October. v1.4.30 added Qwen3.8 Omni Flash,
-> held until BV1-Luna v1.1 could read its 8 unpunctuated samples. The browser
-> contains 178 models. See [`RELEASE_NOTES_v1.4.31.md`](RELEASE_NOTES_v1.4.31.md).
+> **Status — 2026-10-19:** v1.4.32 corrects the prices shown for 11 Gemini
+> models, which had been OpenRouter's Flex tier (half price) and now show
+> Google's Standard paid tier. v1.4.31 added DeepSeek V4.1 Flash 1017. The browser
+> contains 178 models. See [`RELEASE_NOTES_v1.4.32.md`](RELEASE_NOTES_v1.4.32.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
