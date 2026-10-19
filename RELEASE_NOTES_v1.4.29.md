@@ -9,8 +9,8 @@ note on BV1 evaluator variants. Raw companion: v1.2.35.
 `meta/muse-spark-open`, pinned to **Modal** through OpenRouter, no fallbacks;
 provider-default reasoning and sampling. **Third-party host:** Muse Spark Open is
 an open-weight Meta model (816B total / 42B active). Meta serves no endpoint for
-it on OpenRouter, and at capture time the only route was Modal (quantization
-reported as "unknown"). Daniel approved capturing it there on condition that the
+it on OpenRouter; the capture was pinned to Modal (quantization reported as
+"unknown"; see the 2026-10-19 correction under Pricing). Daniel approved capturing it there on condition that the
 cell is clearly marked (`-or-pin-modal`, souls.house wJVbwJ). The readings
 describe Modal's serving of the open weights, not a Meta-hosted endpoint.
 Released 2026-10-15 (Muse Model License on Meta's Hugging Face model page). Run
@@ -92,6 +92,14 @@ The site shows OpenRouter's Modal price, $1.25 / $4.25 per M. There is no
 first-party API, so there is no FIRST_PARTY_API_PRICING row. By publication time
 OpenRouter lists further third-party hosts for this model. The capture used
 Modal only.
+
+*Corrected 2026-10-19 (Mira's weekly review):* these notes first said Modal was
+the only route at capture time. The endpoint snapshot saved with the capture
+(raw repo, `notes/muse-spark-open-2026-10-15/endpoints.json`) lists five hosts:
+Modal, Together, Nebius fp4, Fireworks and BaseTen fp4, none of them Meta. When
+Daniel was asked on the morning of 2026-10-16, OpenRouter showed only Modal. The
+snapshot's retrieval time isn't recorded. What holds: there was no Meta endpoint,
+and every call was pinned to Modal with no fallbacks.
 
 ## Capability ladder
 

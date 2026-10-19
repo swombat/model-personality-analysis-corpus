@@ -334,7 +334,7 @@ const borrowedFromName = borrowedFromModel?.display_name || model.capability?.bo
             </span>
           </div>
           <div><b>Speed source</b><br /><span>{model.speed_source || 'unknown'}</span></div>
-          <div><b>Provider</b><br /><span>{model.openrouter?.provider || 'unknown'}</span></div>
+          <div><b>Cheapest OpenRouter host</b><br /><span>{model.openrouter?.provider || 'unknown'}</span><br /><small>Where the cheapest listing was at the last fetch. Not necessarily where the price above comes from, nor the host the samples were captured through.</small></div>
         </div>
       </div>
       <a class="button-link" href={`${base}samples/${model.model}/`}>Browse samples</a>
