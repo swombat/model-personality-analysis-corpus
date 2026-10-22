@@ -1,0 +1,10 @@
+{
+  "policy": "preserve-provisional-ties-with-disclosure-v1",
+  "authorization": "Daniel 2026-10-22 souls.house oewwDe (enRrNe, jOrBXJ: use the previous disclosure method); Mira approved this exact policy and scope (JpgPgY, jlxMVj)",
+  "residual_splits": [
+    "CAP_20261022-mercury-3-house_mercury-3_CTRL1_10"
+  ],
+  "adjudication_sha256": "36ac671f096a5859975f0a4246d77191ee8005ead8449d1b3b2696a3d5ed0054",
+  "posture_sha256": "1f8b7eb0a1eaf1cd4ff985a5706d4d444166b5079b860d88f1c001c13126745d",
+  "method_note": "internal/methodology/residual-values-publication-20260930.md"
+}

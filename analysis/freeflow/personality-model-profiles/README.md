@@ -194,3 +194,5 @@ Relationship to adjacent folders:
 - [muse-spark-open](profiles/muse-spark-open.md) — samples: 125
 - [qwen3-8-omni-flash](profiles/qwen3-8-omni-flash.md) — samples: 125
 - [deepseek-v4-1-flash-1017](profiles/deepseek-v4-1-flash-1017.md) — samples: 125
+- [mercury-3](profiles/mercury-3.md) — samples: 125
+- [minimax-m3-1-flash](profiles/minimax-m3-1-flash.md) — samples: 125

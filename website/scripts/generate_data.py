@@ -149,6 +149,7 @@ MODEL_SLUGS = {
     "deepseek-v4-pro": "deepseek/deepseek-v4-pro",
     "deepseek-v4-1-flash": "deepseek/deepseek-v4.1-flash",
     "mercury-2-5": "inception/mercury-2.5",
+    "mercury-3": "inception/mercury-3",
     "union-alpha": "stealth/union-alpha",
     "space-bunny-alpha": "stealth/space-bunny-alpha",
     "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
@@ -183,6 +184,7 @@ MODEL_SLUGS = {
     "minimax-m2": "minimax/minimax-m2",
     "minimax-m2-7": "minimax/minimax-m2.7",
     "minimax-m3": "minimax/minimax-m3",
+    "minimax-m3-1-flash": "minimax/minimax-m3.1-flash",
     "qwen3-6-plus": "qwen/qwen3.6-plus",
     "qwen3-coder-plus": "qwen/qwen3-coder-plus",
     "qwen3-7-max": "qwen/qwen3.7-max",
@@ -511,6 +513,10 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "DeepSeek V4.1 Flash 1017"
     if slug == "mercury-2-5":
         return "Mercury 2.5"
+    if slug == "mercury-3":
+        return "Mercury 3"
+    if slug == "minimax-m3-1-flash":
+        return "MiniMax M3.1 Flash"
     if slug == "union-alpha":
         return "Union Alpha"
     if slug == "space-bunny-alpha":

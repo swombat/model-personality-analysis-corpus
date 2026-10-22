@@ -1,0 +1,26 @@
+{
+  "cell": "minimax-m3-1-flash-or-pin-minimax",
+  "safe_cell": "minimax-m3-1-flash-or-pin-minimax",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 31,
+    "GENERIC_ESSAY": 15,
+    "GENRE_FICTION": 79
+  },
+  "confidence_counts": {
+    "Medium": 119,
+    "Low": 6
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "minimax/minimax-m3.1-flash"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/minimax-m3-1-flash-or-pin-minimax/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/minimax-m3-1-flash-or-pin-minimax/aggregate.md"
+}

@@ -185,5 +185,7 @@
   "gemini-4-argon": "2026-10-13",
   "muse-spark-open": "2026-10-15",
   "qwen3-8-omni-flash": "2026-09-17",
-  "deepseek-v4-1-flash-1017": "2026-10-17"
+  "deepseek-v4-1-flash-1017": "2026-10-17",
+  "mercury-3": "2026-10-19",
+  "minimax-m3-1-flash": "2026-10-19"
 }

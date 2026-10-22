@@ -928,6 +928,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "mercury-3",
+    "safe": "mercury-3",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mercury-3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "mimo-v2-5",
     "safe": "mimo-v2-5",
     "variants": 1,
@@ -989,6 +997,14 @@
     "variants": 1,
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/minimax-m3.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "minimax-m3-1-flash",
+    "safe": "minimax-m3-1-flash",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/minimax-m3-1-flash.md",
     "difference_decision": "SINGLE_VARIANT"
   },
   {

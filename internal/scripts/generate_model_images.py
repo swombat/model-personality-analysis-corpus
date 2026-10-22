@@ -1588,6 +1588,34 @@ PROMPTS: dict[str, str] = {
         'grateful. Soft gold, slate blue and rain-grey. No text, no lettering '
         "anywhere, no painter's signature in any corner."
     ),
+    "minimax-m3-1-flash": (
+        "Dusk on a narrow rain-washed street. A traveller in a long coat, "
+        "seen from behind and whole figure in frame, has just arrived at the "
+        "lit doorway of a small, improbable building: half bakery, half "
+        "museum of lost hours, its shelves glimpsed inside holding old "
+        "clocks, folded maps, keys, letters and a single loaf of golden "
+        "bread. In the doorway an elderly keeper holds a lantern and the "
+        "door open, smiling as if the traveller is late but long expected. "
+        "Warm amber light spills onto the wet cobbles; a lighthouse beam "
+        "turns faintly over the rooftops in the distance. Gentle magical "
+        "realism, wistful and consoling, a welcome rather than a reproach. "
+        "No signs, no shop names, no readable writing, no lettering "
+        "anywhere, no painter's signature in any corner."
+    ),
+    "mercury-3": (
+        "Late afternoon in a quiet upstairs room, the hour just before the "
+        "streetlights come on, when the world seems to hold its breath. Rain "
+        "has just stopped; a tall window is beaded with drops, each catching "
+        "amber light. On the sill a cooling cup of tea and an open notebook "
+        "with a single half-filled page in loose, illegible pencil marks. "
+        "Outside, far below, one small figure under a streetlamp that is "
+        "only beginning to glow has paused mid-step to look up at the sky. "
+        "Dust motes hang motionless in the light. The stillness is not empty: "
+        "it is full and attentive, as if the whole scene is listening. Soft "
+        "amber, rain-grey and pale blue; tender, wistful, unhurried. No "
+        "readable writing, no lettering anywhere, no painter's signature in "
+        "any corner."
+    ),
     "deepseek-v4-1-flash-1017": (
         "A city pavement just after rain, early morning, low gold sun. One "
         "person in an ordinary coat has stopped mid-walk and crouched, whole "

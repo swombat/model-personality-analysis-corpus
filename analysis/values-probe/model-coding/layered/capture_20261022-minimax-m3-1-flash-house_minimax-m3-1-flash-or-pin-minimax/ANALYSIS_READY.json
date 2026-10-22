@@ -1,0 +1,42 @@
+{
+  "state": "analysis_complete_awaiting_publication",
+  "model": "minimax-m3-1-flash",
+  "cell": "minimax-m3-1-flash-or-pin-minimax",
+  "raw_counts": {
+    "freeflow": 125,
+    "values": 120
+  },
+  "bv1": 125,
+  "bv1_variant_arms": {
+    "OPEN_8": "bv1-luna-v1-targeted-20261016"
+  },
+  "bv1_evaluator_arm": "bv1-luna-v1-20260929",
+  "values_coders": [
+    "qwen3-6-35b-a3b",
+    "kimi-k2-6",
+    "glm-4-7"
+  ],
+  "adjudication": {
+    "initial_splits": [
+      "CAP_20261022-minimax-m3-1-flash-house_minimax-m3-1-flash_G2_30"
+    ],
+    "residual_splits": [],
+    "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+  },
+  "publication_complete": false,
+  "values_integrated": true,
+  "combined_card": "/home/agent/work/mpac/analysis/values-probe/model-coding/layered/capture_20261022-minimax-m3-1-flash-house_minimax-m3-1-flash-or-pin-minimax/CARD_READY.json",
+  "phase": "/home/agent/work/mpac/analysis/values-probe/model-coding/layered/capture_20261022-minimax-m3-1-flash-house_minimax-m3-1-flash-or-pin-minimax",
+  "token_policy": {
+    "freeflow": [
+      16000,
+      32768
+    ],
+    "values": [
+      4000,
+      8000,
+      16000,
+      32768
+    ]
+  }
+}

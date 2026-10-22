@@ -1,0 +1,9 @@
+{
+  "initial_splits": [
+    "CAP_20261022-mercury-3-house_mercury-3_CTRL1_10"
+  ],
+  "residual_splits": [
+    "CAP_20261022-mercury-3-house_mercury-3_CTRL1_10"
+  ],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

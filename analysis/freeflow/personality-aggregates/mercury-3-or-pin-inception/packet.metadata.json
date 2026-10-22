@@ -1,0 +1,26 @@
+{
+  "cell": "mercury-3-or-pin-inception",
+  "safe_cell": "mercury-3-or-pin-inception",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 88,
+    "GENERIC_ESSAY": 33,
+    "GENRE_FICTION": 4
+  },
+  "confidence_counts": {
+    "Medium": 113,
+    "Low": 12
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "inception/mercury-3"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mercury-3-or-pin-inception/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mercury-3-or-pin-inception/aggregate.md"
+}

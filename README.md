@@ -5,11 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-19:** v1.4.33 relabels the model-page host row, corrects
-> Muse Spark Open's host wording and records the Zenodo recovery of v1.4.27.
-> v1.4.32 set 11 Gemini models' prices to Google's Standard tier (they had shown
-> the half-price Flex tier). The browser contains 178 models. See
-> [`RELEASE_NOTES_v1.4.33.md`](RELEASE_NOTES_v1.4.33.md).
+> **Status — 2026-10-22:** v1.4.34 adds MiniMax M3.1 Flash and Inception
+> Mercury 3, three days after release, with disclosed interventions (six MiniMax
+> LONG replacements, one targeted BV1 evaluation, one residual values split on
+> Mercury 3). MiniMax confirms the stealth model Space Bunny Alpha was an early
+> M3.1 Flash; the map had them at 0.966. The browser contains 180 models. See
+> [`RELEASE_NOTES_v1.4.34.md`](RELEASE_NOTES_v1.4.34.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

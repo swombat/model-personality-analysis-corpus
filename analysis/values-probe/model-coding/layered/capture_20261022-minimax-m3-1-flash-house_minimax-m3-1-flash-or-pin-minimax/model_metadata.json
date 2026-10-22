@@ -1,0 +1,12 @@
+{
+  "model": "minimax/minimax-m3.1-flash",
+  "slug": "minimax-m3-1-flash",
+  "label": "minimax-m3-1-flash-or-pin-minimax",
+  "family": "minimax",
+  "or_provider": "Minimax",
+  "quantization": "unknown",
+  "release_date": "2026-10-19",
+  "release_date_source": "https://www.minimax.io/blog/minimax-m31f",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/minimax-m3-1-flash-2026-10-19/endpoints.json",
+  "release_date_status": "sourced"
+}

@@ -185,3 +185,5 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [muse-spark-open](cards/muse-spark-open.md) — samples: 125
 - [qwen3-8-omni-flash](cards/qwen3-8-omni-flash.md) — samples: 125
 - [deepseek-v4-1-flash-1017](cards/deepseek-v4-1-flash-1017.md) — samples: 125
+- [mercury-3](cards/mercury-3.md) — samples: 125
+- [minimax-m3-1-flash](cards/minimax-m3-1-flash.md) — samples: 125

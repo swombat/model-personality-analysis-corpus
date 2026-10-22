@@ -1,0 +1,12 @@
+{
+  "model": "inception/mercury-3",
+  "slug": "mercury-3",
+  "label": "mercury-3-or-pin-inception",
+  "family": "mercury",
+  "or_provider": "Inception",
+  "quantization": "unknown",
+  "release_date": "2026-10-19",
+  "release_date_source": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/mercury-3-2026-10-19/endpoints.json",
+  "release_date_status": "sourced"
+}
