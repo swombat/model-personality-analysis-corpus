@@ -5,11 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-22:** v1.4.34 adds MiniMax M3.1 Flash and Inception
-> Mercury 3, three days after release, with disclosed interventions (six MiniMax
-> LONG replacements, one targeted BV1 evaluation, one residual values split on
-> Mercury 3). MiniMax confirms the stealth model Space Bunny Alpha was an early
-> M3.1 Flash; the map had them at 0.966. The browser contains 180 models. See
+> **Status — 2026-10-23:** v1.4.35 adds a map-neighbour note to MiniMax M3.1
+> Flash: after Space Bunny Alpha (0.966), its nearest neighbours are six OpenAI
+> models, well ahead of MiniMax's own earlier releases. See
+> [`RELEASE_NOTES_v1.4.35.md`](RELEASE_NOTES_v1.4.35.md). v1.4.34 added MiniMax
+> M3.1 Flash and Inception Mercury 3 with disclosed interventions; see
 > [`RELEASE_NOTES_v1.4.34.md`](RELEASE_NOTES_v1.4.34.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
