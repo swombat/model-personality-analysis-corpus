@@ -180,6 +180,7 @@ MODEL_SLUGS = {
     "kimi-k2-7-code": "moonshotai/kimi-k2.7-code",
     "kimi-k2-thinking": "moonshotai/kimi-k2-thinking",
     "kimi-k3": "moonshotai/kimi-k3",
+    "kimi-k3-1-pro": "moonshotai/kimi-k3.1-pro",
     "kimi-coding": "moonshotai/kimi-coding",
     "minimax-m2": "minimax/minimax-m2",
     "minimax-m2-7": "minimax/minimax-m2.7",
@@ -517,6 +518,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Mercury 3"
     if slug == "minimax-m3-1-flash":
         return "MiniMax M3.1 Flash"
+    if slug == "kimi-k3-1-pro":
+        return "Kimi K3.1 Pro"
     if slug == "union-alpha":
         return "Union Alpha"
     if slug == "space-bunny-alpha":

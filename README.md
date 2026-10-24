@@ -5,12 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-23:** v1.4.35 adds a map-neighbour note to MiniMax M3.1
-> Flash: after Space Bunny Alpha (0.966), its nearest neighbours are six OpenAI
-> models, well ahead of MiniMax's own earlier releases. See
-> [`RELEASE_NOTES_v1.4.35.md`](RELEASE_NOTES_v1.4.35.md). v1.4.34 added MiniMax
-> M3.1 Flash and Inception Mercury 3 with disclosed interventions; see
-> [`RELEASE_NOTES_v1.4.34.md`](RELEASE_NOTES_v1.4.34.md).
+> **Status — 2026-10-24:** v1.4.36 adds Kimi K3.1 Pro, collected on its
+> release day, with no interventions. Its nearest map neighbours are OpenAI
+> models; Kimi K3, the model it was post-trained from, sits at 0.842. The browser
+> contains 181 models. See [`RELEASE_NOTES_v1.4.36.md`](RELEASE_NOTES_v1.4.36.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

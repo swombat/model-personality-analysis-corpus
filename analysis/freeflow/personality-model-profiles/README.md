@@ -196,3 +196,4 @@ Relationship to adjacent folders:
 - [deepseek-v4-1-flash-1017](profiles/deepseek-v4-1-flash-1017.md) — samples: 125
 - [mercury-3](profiles/mercury-3.md) — samples: 125
 - [minimax-m3-1-flash](profiles/minimax-m3-1-flash.md) — samples: 125
+- [kimi-k3-1-pro](profiles/kimi-k3-1-pro.md) — samples: 125

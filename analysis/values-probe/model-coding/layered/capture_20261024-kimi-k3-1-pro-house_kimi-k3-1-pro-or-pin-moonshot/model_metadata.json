@@ -1,0 +1,12 @@
+{
+  "model": "moonshotai/kimi-k3.1-pro",
+  "slug": "kimi-k3-1-pro",
+  "label": "kimi-k3-1-pro-or-pin-moonshot",
+  "family": "kimi",
+  "or_provider": "Moonshot AI",
+  "quantization": "mxfp4",
+  "release_date": "2026-10-24",
+  "release_date_source": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/kimi-k3-1-pro-2026-10-24/endpoints.json",
+  "release_date_status": "sourced"
+}

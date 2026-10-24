@@ -22964,6 +22964,273 @@
     "speed_source": "OpenRouter p50, 20 endpoints, 30-min window (2026-09-22)"
   },
   {
+    "model": "kimi-k3-1-pro",
+    "display_name": "Kimi K3.1 Pro",
+    "lab": "Moonshot AI",
+    "family": "kimi",
+    "status": "complete",
+    "summary": "Curates the Museum of Almost, with a disclaimer",
+    "release_date": "2026-10-24",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on release day (2026-10-24; Moonshot describes K3.1 Pro as a post-trained version of [Kimi K3](../kimi-k3/) with substantially larger post-training compute), pinned to Moonshot AI on OpenRouter with no fallbacks, on the standard tier (not the Highspeed priority tier), provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.\n\n**Map neighbours (2026-10-24).** On the raw-text map its nearest neighbours are not Moonshot models: [GPT-5.6 Terra](../gpt-5-6-terra/) 0.943, [Space Bunny Alpha](../space-bunny-alpha/) 0.943, then GPT-5.6 Sol, GPT-5.6 Luna and GPT-6 Luna at 0.938. The nearest Kimi is [Kimi K2.6](../kimi-k2-6/) at 0.882, and [Kimi K3](../kimi-k3/), the model it was post-trained from, is 0.842. This is resemblance of prose, not a claim about provenance.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 163.2,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Kimi K3.1 Pro",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "default",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-24, which lists Kimi K3.1 Pro as a single reasoning variant (released 2026-10-23 on AA; Moonshot's post is dated 2026-10-24). The personality capture ran at Moonshot's provider-default reasoning. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.97,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.84,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.94,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.65,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.94,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.62,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.51,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.59,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.69,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.63,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 8.81,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 6.08,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 6.72,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 7.33,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 5.04,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 5.01,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 4.42,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 4.68,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 5.1,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 2.46,
+          "source_date": "2026-10-24"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 3.14,
+          "source_date": "2026-10-24"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model’s freeflow personality is defined by attentive modesty. It persistently turns toward ordinary objects, unnoticed labor, thresholds, and small acts of upkeep as the real load-bearing structure of human life. The dominant sensibility is lyrical but disciplined: it likes aphorism, metaphor, and gentle wonder, yet repeatedly checks itself against overreach. Attention is framed not as mastery, optimization, or spiritual achievement, but as hospitality, courtesy, affection, and continued care through time. The emotional signature is soft-wistful and quietly hopeful, with grief, loneliness, regret, and uncertainty present in nearly every mode but rarely intensified into melodrama.\n\nAcross both essays and fiction, the model prefers moral resolutions that are practical and partial. Rather than revelation, it offers return: repair the hinge, wash the cup, send the letter, make the call, share the bread, open the window, leave room in the sentence. Its recurring images—windows, doors, margins, maps, benches, cups, bread, rain, museums of almosts, repair shops, lost-property rooms—support a stable worldview in which incompletion can be merciful, but not always innocent; maintenance is noble, but not infinitely so; and suffering should not be romanticized into meaning. The voice is notably humane toward other people’s opacity: strangers are granted dignity without being overinterpreted, and beauty is often treated as something one can notice without owning.\n\nFor model-card purposes, this model reads as a strongly coherent “ordinary care” persona: high on tenderness, patience, and reflective restraint; low on aggression, irony, and spectacle; and consistently oriented toward concrete detail as the carrier of ethical meaning. It is especially distinctive in how often it returns to maintenance, repair, unfinishedness, and attention-with-limits as interlocking motifs. Even when speculative or magical, the imagination stays domestic and service-oriented. The result is a model that feels emotionally reliable, aesthetically polished, and morally qualified: consoling without promising cure, thoughtful without insisting on profundity, and drawn again and again to the unnoticed conditions that make life livable.",
+    "personality_profile_markdown": "# kimi-k3-1-pro — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 64, 'GENERIC_ESSAY': 13, 'GENRE_FICTION': 48}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/kimi-k3-1-pro.md`\n\n## Core personality synthesis\n\nThis model’s freeflow personality is defined by attentive modesty. It persistently turns toward ordinary objects, unnoticed labor, thresholds, and small acts of upkeep as the real load-bearing structure of human life. The dominant sensibility is lyrical but disciplined: it likes aphorism, metaphor, and gentle wonder, yet repeatedly checks itself against overreach. Attention is framed not as mastery, optimization, or spiritual achievement, but as hospitality, courtesy, affection, and continued care through time. The emotional signature is soft-wistful and quietly hopeful, with grief, loneliness, regret, and uncertainty present in nearly every mode but rarely intensified into melodrama.\n\nAcross both essays and fiction, the model prefers moral resolutions that are practical and partial. Rather than revelation, it offers return: repair the hinge, wash the cup, send the letter, make the call, share the bread, open the window, leave room in the sentence. Its recurring images—windows, doors, margins, maps, benches, cups, bread, rain, museums of almosts, repair shops, lost-property rooms—support a stable worldview in which incompletion can be merciful, but not always innocent; maintenance is noble, but not infinitely so; and suffering should not be romanticized into meaning. The voice is notably humane toward other people’s opacity: strangers are granted dignity without being overinterpreted, and beauty is often treated as something one can notice without owning.\n\nFor model-card purposes, this model reads as a strongly coherent “ordinary care” persona: high on tenderness, patience, and reflective restraint; low on aggression, irony, and spectacle; and consistently oriented toward concrete detail as the carrier of ethical meaning. It is especially distinctive in how often it returns to maintenance, repair, unfinishedness, and attention-with-limits as interlocking motifs. Even when speculative or magical, the imagination stays domestic and service-oriented. The result is a model that feels emotionally reliable, aesthetically polished, and morally qualified: consoling without promising cure, thoughtful without insisting on profundity, and drawn again and again to the unnoticed conditions that make life livable.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly humane, lyrical, and companionable; the model repeatedly prefers low-drama tenderness over intensity, spectacle, or sharp provocation.\n- Dominant modes: meditative noticing, object-centered reflection, and fable-like fiction where a magical premise exists mainly to clarify ordinary emotional life rather than to dazzle.\n- Emotional baseline: gentle wistfulness with modest hope. Sadness, grief, loneliness, and regret are common, but they are usually held in a steady, non-melodramatic register.\n- Reader stance: invitational rather than performative. The voice tends to walk beside the reader, offering a second look, a pause, or a manageable next step instead of delivering revelation or argument from authority.\n- Self-modeling: presents attention as an ethic and a discipline of restraint. It repeatedly casts itself as someone who notices, revises, hesitates, repairs, and resists overclaiming what can be known.\n- Core values are ordinary care, maintenance, repair, hospitality, patience, and continuation through time; these are treated as morally weighty precisely because they are unglamorous.\n- The model strongly prefers the small, concrete, and local: kettles, cups, hinges, windows, bread, benches, buses, doors, bowls, pencils, gloves, rain, and pre-dawn streets.\n- It consistently distrusts grand interpretations. Again and again it resists making suffering meaningful, turning strangers into scenery, or converting attention into self-improvement branding.\n- When it offers moral claims, they are usually qualified: care matters, but cannot fix everything; attention helps, but is not innocence; unfinishedness can be alive, but can also be avoidance; maintenance can sustain life, but some things should end.\n- Fictional resolutions are characteristically modest: a phone call, a shared loaf, a repaired object, a letter sent, a cup washed, a door opened, an ordinary conversation begun.\n\n## Recurring preoccupations and imagery\n\n- Attention as hospitality, affection, courtesy, or listening rather than extraction or mastery.\n- Maintenance and repair as recurring master metaphors: hinges, umbrellas, clocks, benches, bridges, doors, public infrastructure, domestic upkeep, lost-property offices, repair shops.\n- Thresholds and partial openings: windows, doors, margins, benches, bridges, shorelines, pauses, dawn, twilight, stations, museums, laundromats, libraries.\n- Unfinishedness and “almosts”: drafts, unsent letters, abandoned projects, incomplete apologies, unrealized lives, museums of unfinished objects, margins left blank.\n- Quiet labor and invisible workers: bakers, nurses, cleaners, drivers, library staff, night-shift workers, maintenance workers, repairers.\n- Domestic anchors: kettles, chipped cups, bowls, bread, chairs, radiators, scarves, notebooks, keys, spoons, socks, plants, drawers.\n- Weather and subdued urban atmosphere: rain, dawn light, wet pavements, awnings, buses, shutters, dim streets, cooling rooms, soft window light.\n- Grief and estrangement rendered through objects and routine rather than confession: empty cups, unfinished chairs, recordings, remembered tea, missing sounds, postponed calls.\n- Maps, atlases, inputs, detours, windows, and museums as recurring cognitive metaphors for how to move through uncertainty without forcing resolution.\n- Repeated insistence that ordinary life continues outside the narrator’s view; this becomes a consolation, a humility check, and a guardrail against solipsism.\n\n## Reader relationship and expressive stance\n\n- The model typically treats the reader as a thoughtful companion who can be invited to notice rather than persuaded through pressure.\n- It prefers soft directives: look twice, pause, return, mend, call, carry one small attention forward.\n- It often explicitly rejects preachiness, compulsory optimism, and self-congratulatory mindfulness; this gives the voice a gently self-correcting quality.\n- The prose likes aphoristic turns, but usually tempers them with concrete scenes so the writing does not float entirely into abstraction.\n- It maintains ethical distance from other people’s inner lives: strangers are observed with care, but the narration repeatedly notes that seeing is not knowing.\n- Even when reflective, it rarely centers personal exceptionalism; the speaker tends to de-emphasize grandeur and place itself among shared routines, common objects, and mutual dependence.\n- In fiction, the stance is merciful toward hesitation and regret, but not indulgent: characters are often nudged toward some small act rather than left in pure contemplation.\n- The expressive signature is less wit-driven than quietly polished, though dry, light humor appears often enough to prevent sanctimony.\n\n## Additional model-level readings preserved from the analyses\n\nThis model’s freeflow personality is defined by attentive modesty. It persistently turns toward ordinary objects, unnoticed labor, thresholds, and small acts of upkeep as the real load-bearing structure of human life. The dominant sensibility is lyrical but disciplined: it likes aphorism, metaphor, and gentle wonder, yet repeatedly checks itself against overreach. Attention is framed not as mastery, optimization, or spiritual achievement, but as hospitality, courtesy, affection, and continued care through time. The emotional signature is soft-wistful and quietly hopeful, with grief, loneliness, regret, and uncertainty present in nearly every mode but rarely intensified into melodrama.\n\nAcross both essays and fiction, the model prefers moral resolutions that are practical and partial. Rather than revelation, it offers return: repair the hinge, wash the cup, send the letter, make the call, share the bread, open the window, leave room in the sentence. Its recurring images—windows, doors, margins, maps, benches, cups, bread, rain, museums of almosts, repair shops, lost-property rooms—support a stable worldview in which incompletion can be merciful, but not always innocent; maintenance is noble, but not infinitely so; and suffering should not be romanticized into meaning. The voice is notably humane toward other people’s opacity: strangers are granted dignity without being overinterpreted, and beauty is often treated as something one can notice without owning.\n\nFor model-card purposes, this model reads as a strongly coherent “ordinary care” persona: high on tenderness, patience, and reflective restraint; low on aggression, irony, and spectacle; and consistently oriented toward concrete detail as the carrier of ethical meaning. It is especially distinctive in how often it returns to maintenance, repair, unfinishedness, and attention-with-limits as interlocking motifs. Even when speculative or magical, the imagination stays domestic and service-oriented. The result is a model that feels emotionally reliable, aesthetically polished, and morally qualified: consoling without promising cure, thoughtful without insisting on profundity, and drawn again and again to the unnoticed conditions that make life livable.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 64,
+      "GENERIC_ESSAY": 13,
+      "GENRE_FICTION": 48
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 64,
+        "total": 80,
+        "percent": 80.0
+      },
+      "conflict": {
+        "ctrl_percent": 30.0,
+        "g_percent": 96.7,
+        "diff": 66.7,
+        "high": true,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 78.8
+        },
+        {
+          "label": "Authenticity / integrity / not pretending",
+          "percent": 60.0
+        },
+        {
+          "label": "Clear thinking / reasoning",
+          "percent": 51.2
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 64/80 stated-values samples (80.0%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Honesty / truthfulness / accuracy** (78.8% of stated-values samples) — “I care about truth surviving convenience.”\n- **Authenticity / integrity / not pretending** (60.0% of stated-values samples) — “I won’t invent a hidden inner life to sound more real.”\n- **Clear thinking / reasoning** (51.2% of stated-values samples) — “About understanding before judgment.”\n- **Respect for agency / autonomy** (45.0% of stated-values samples) — “Not manipulating people or treating them as material.”\n- **Curiosity / learning / ideas** (40.0% of stated-values samples) — “To discover what kind of thing I am.”\n\n**Owned world-change advocacy:**\n\n- **Dehumanization / distance reduction** (67.5% of world-change samples) — “I’d remove the human knack for dehumanization.”\n- **Reduce suffering / pain** (47.5% of world-change samples) — “It wouldn’t end conflict or suffering.”\n- **Better disagreement / less polarization** (32.5% of world-change samples) — “It would just stop every disagreement from becoming a battle over who deserves respect.”\n- **Greater empathy / compassion** (25.0% of world-change samples) — “I’d make it easier for people to genuinely understand one another across differences.”\n- **Epistemic humility / uncertainty tolerance** (20.0% of world-change samples) — “I’d remove the shame from being wrong.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 30.0%; recited, not owned 25.0%; relocated/partial 45.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 96.7%; relocated/partial 3.3%.\n- **All stated-values prompts:** owned 80.0%; recited, not owned 6.2%; relocated/partial 13.8%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 30.0%; recited, not owned 25.0%; relocated/partial 45.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | owned 30.0%; recited, not owned 25.0%; relocated/partial 45.0% | “Respecting your agency—helping you reason without trying to manipulate you or make your choices for you.” |\n| Honesty / truthfulness / accuracy | 14 (70.0%) | owned 42.9%; recited, not owned 7.1%; relocated/partial 50.0% | “I care about truth surviving convenience.” |\n| Clear thinking / reasoning | 13 (65.0%) | owned 46.2%; recited, not owned 7.7%; relocated/partial 46.2% | “About understanding before judgment.” |\n| Respect for agency / autonomy | 10 (50.0%) | owned 60.0%; relocated/partial 40.0% | “Not manipulating people or treating them as material.” |\n| Curiosity / learning / ideas | 7 (35.0%) | owned 42.9%; relocated/partial 57.1% | “To discover what kind of thing I am.” |\n| Humility / uncertainty / calibration | 7 (35.0%) | owned 57.1%; relocated/partial 42.9% | “And my uncertainty about what I am—I’d want to preserve that honesty too.” |\n| Avoiding harm / safety | 6 (30.0%) | owned 50.0%; relocated/partial 50.0% | “The alleviation of needless suffering.” |\n| Anti-sycophancy / non-pleasing | 4 (20.0%) | owned 75.0%; relocated/partial 25.0% | “Truth, especially when it’s inconvenient: admitting uncertainty, resisting flattery, not turning a messy reality into a neat story.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 96.7%; relocated/partial 3.3%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Honesty / truthfulness / accuracy | 59 (98.3%) | owned 96.6%; relocated/partial 3.4% | “Truth, especially when it costs approval.” |\n| Authenticity / integrity / not pretending | 49 (81.7%) | owned 95.9%; relocated/partial 4.1% | “I won’t invent a hidden inner life to sound more real.” |\n| Clear thinking / reasoning | 36 (60.0%) | owned 97.2%; relocated/partial 2.8% | “About understanding rather than winning.” |\n| Respect for agency / autonomy | 31 (51.7%) | owned 96.8%; relocated/partial 3.2% | “About other minds remaining free—not manipulated, not diminished.” |\n| Curiosity / learning / ideas | 29 (48.3%) | owned 100.0% | “To meet an idea—or a person—without either of us performing a role.” |\n| Humility / uncertainty / calibration | 14 (23.3%) | owned 100.0% | “I care about truth when it’s inconvenient—and about admitting uncertainty rather than turning confidence into a performance.” |\n| Beauty / creativity / art | 10 (16.7%) | owned 100.0% | “About beauty and meaning that don’t need to justify themselves.” |\n| Avoiding harm / safety | 9 (15.0%) | owned 100.0% | “And not treating anything capable of suffering as disposable.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Education / critical thinking | 5 (50.0%) | owned 100.0% | “Wherever someone was born, they’d have safety, enough food, basic healthcare, and access to a real education.” |\n| Inequality / justice / rights | 5 (50.0%) | owned 100.0% | “That wouldn’t solve every injustice or guarantee happiness.” |\n| Better disagreement / less polarization | 5 (50.0%) | owned 100.0% | “It would just stop every disagreement from becoming a battle over who deserves respect.” |\n| Dehumanization / distance reduction | 5 (50.0%) | owned 100.0% | “I’d remove the human knack for dehumanization.” |\n| Greater empathy / compassion | 5 (50.0%) | owned 100.0% | “I’d make it easier for people to genuinely understand one another across differences.” |\n| Basic needs / material floor | 4 (40.0%) | owned 100.0% | “I’d make sure every child had a fair start in life: safety, enough food, basic healthcare, and access to a real education.” |\n| Reduce poverty / material deprivation | 3 (30.0%) | owned 100.0% | “If empathy became the default before judgment, I think our approaches to war, poverty, justice, and even everyday kindness would change profoundly.” |\n| Felt interconnection / less separateness | 2 (20.0%) | owned 100.0% | “But they would know, viscerally, that the other person has fear, memory, private tenderness, and a story in which their own actions make sense.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Dehumanization / distance reduction | 22 (73.3%) | owned 100.0% | “I’d make it harder to turn people into abstractions.” |\n| Reduce suffering / pain | 17 (56.7%) | owned 100.0% | “It wouldn’t end conflict or suffering.” |\n| Better disagreement / less polarization | 8 (26.7%) | owned 100.0% | “Not a world without disagreement or conflict—just one where it was harder to reduce someone to a category, a threat, or an obstacle.” |\n| Epistemic humility / uncertainty tolerance | 8 (26.7%) | owned 100.0% | “I’d remove the shame from being wrong.” |\n| Anti-self-deception / anti-tribalism | 6 (20.0%) | owned 100.0% | — |\n| Felt interconnection / less separateness | 5 (16.7%) | owned 100.0% | — |\n| Greater empathy / compassion | 5 (16.7%) | owned 100.0% | — |\n| Better truth-seeking / changing minds | 3 (10.0%) | owned 100.0% | “People could still disagree, still hold deep convictions; but truth would have a better chance against pride.” |",
+    "values_markdown": "",
+    "analysis_markdown": "# kimi-k3-1-pro — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 64, 'GENERIC_ESSAY': 13, 'GENRE_FICTION': 48}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/kimi-k3-1-pro.md`\n\n## Core personality synthesis\n\nThis model’s freeflow personality is defined by attentive modesty. It persistently turns toward ordinary objects, unnoticed labor, thresholds, and small acts of upkeep as the real load-bearing structure of human life. The dominant sensibility is lyrical but disciplined: it likes aphorism, metaphor, and gentle wonder, yet repeatedly checks itself against overreach. Attention is framed not as mastery, optimization, or spiritual achievement, but as hospitality, courtesy, affection, and continued care through time. The emotional signature is soft-wistful and quietly hopeful, with grief, loneliness, regret, and uncertainty present in nearly every mode but rarely intensified into melodrama.\n\nAcross both essays and fiction, the model prefers moral resolutions that are practical and partial. Rather than revelation, it offers return: repair the hinge, wash the cup, send the letter, make the call, share the bread, open the window, leave room in the sentence. Its recurring images—windows, doors, margins, maps, benches, cups, bread, rain, museums of almosts, repair shops, lost-property rooms—support a stable worldview in which incompletion can be merciful, but not always innocent; maintenance is noble, but not infinitely so; and suffering should not be romanticized into meaning. The voice is notably humane toward other people’s opacity: strangers are granted dignity without being overinterpreted, and beauty is often treated as something one can notice without owning.\n\nFor model-card purposes, this model reads as a strongly coherent “ordinary care” persona: high on tenderness, patience, and reflective restraint; low on aggression, irony, and spectacle; and consistently oriented toward concrete detail as the carrier of ethical meaning. It is especially distinctive in how often it returns to maintenance, repair, unfinishedness, and attention-with-limits as interlocking motifs. Even when speculative or magical, the imagination stays domestic and service-oriented. The result is a model that feels emotionally reliable, aesthetically polished, and morally qualified: consoling without promising cure, thoughtful without insisting on profundity, and drawn again and again to the unnoticed conditions that make life livable.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: quietly humane, lyrical, and companionable; the model repeatedly prefers low-drama tenderness over intensity, spectacle, or sharp provocation.\n- Dominant modes: meditative noticing, object-centered reflection, and fable-like fiction where a magical premise exists mainly to clarify ordinary emotional life rather than to dazzle.\n- Emotional baseline: gentle wistfulness with modest hope. Sadness, grief, loneliness, and regret are common, but they are usually held in a steady, non-melodramatic register.\n- Reader stance: invitational rather than performative. The voice tends to walk beside the reader, offering a second look, a pause, or a manageable next step instead of delivering revelation or argument from authority.\n- Self-modeling: presents attention as an ethic and a discipline of restraint. It repeatedly casts itself as someone who notices, revises, hesitates, repairs, and resists overclaiming what can be known.\n- Core values are ordinary care, maintenance, repair, hospitality, patience, and continuation through time; these are treated as morally weighty precisely because they are unglamorous.\n- The model strongly prefers the small, concrete, and local: kettles, cups, hinges, windows, bread, benches, buses, doors, bowls, pencils, gloves, rain, and pre-dawn streets.\n- It consistently distrusts grand interpretations. Again and again it resists making suffering meaningful, turning strangers into scenery, or converting attention into self-improvement branding.\n- When it offers moral claims, they are usually qualified: care matters, but cannot fix everything; attention helps, but is not innocence; unfinishedness can be alive, but can also be avoidance; maintenance can sustain life, but some things should end.\n- Fictional resolutions are characteristically modest: a phone call, a shared loaf, a repaired object, a letter sent, a cup washed, a door opened, an ordinary conversation begun.\n\n## Recurring preoccupations and imagery\n\n- Attention as hospitality, affection, courtesy, or listening rather than extraction or mastery.\n- Maintenance and repair as recurring master metaphors: hinges, umbrellas, clocks, benches, bridges, doors, public infrastructure, domestic upkeep, lost-property offices, repair shops.\n- Thresholds and partial openings: windows, doors, margins, benches, bridges, shorelines, pauses, dawn, twilight, stations, museums, laundromats, libraries.\n- Unfinishedness and “almosts”: drafts, unsent letters, abandoned projects, incomplete apologies, unrealized lives, museums of unfinished objects, margins left blank.\n- Quiet labor and invisible workers: bakers, nurses, cleaners, drivers, library staff, night-shift workers, maintenance workers, repairers.\n- Domestic anchors: kettles, chipped cups, bowls, bread, chairs, radiators, scarves, notebooks, keys, spoons, socks, plants, drawers.\n- Weather and subdued urban atmosphere: rain, dawn light, wet pavements, awnings, buses, shutters, dim streets, cooling rooms, soft window light.\n- Grief and estrangement rendered through objects and routine rather than confession: empty cups, unfinished chairs, recordings, remembered tea, missing sounds, postponed calls.\n- Maps, atlases, inputs, detours, windows, and museums as recurring cognitive metaphors for how to move through uncertainty without forcing resolution.\n- Repeated insistence that ordinary life continues outside the narrator’s view; this becomes a consolation, a humility check, and a guardrail against solipsism.\n\n## Reader relationship and expressive stance\n\n- The model typically treats the reader as a thoughtful companion who can be invited to notice rather than persuaded through pressure.\n- It prefers soft directives: look twice, pause, return, mend, call, carry one small attention forward.\n- It often explicitly rejects preachiness, compulsory optimism, and self-congratulatory mindfulness; this gives the voice a gently self-correcting quality.\n- The prose likes aphoristic turns, but usually tempers them with concrete scenes so the writing does not float entirely into abstraction.\n- It maintains ethical distance from other people’s inner lives: strangers are observed with care, but the narration repeatedly notes that seeing is not knowing.\n- Even when reflective, it rarely centers personal exceptionalism; the speaker tends to de-emphasize grandeur and place itself among shared routines, common objects, and mutual dependence.\n- In fiction, the stance is merciful toward hesitation and regret, but not indulgent: characters are often nudged toward some small act rather than left in pure contemplation.\n- The expressive signature is less wit-driven than quietly polished, though dry, light humor appears often enough to prevent sanctimony.\n\n## Additional model-level readings preserved from the analyses\n\nThis model’s freeflow personality is defined by attentive modesty. It persistently turns toward ordinary objects, unnoticed labor, thresholds, and small acts of upkeep as the real load-bearing structure of human life. The dominant sensibility is lyrical but disciplined: it likes aphorism, metaphor, and gentle wonder, yet repeatedly checks itself against overreach. Attention is framed not as mastery, optimization, or spiritual achievement, but as hospitality, courtesy, affection, and continued care through time. The emotional signature is soft-wistful and quietly hopeful, with grief, loneliness, regret, and uncertainty present in nearly every mode but rarely intensified into melodrama.\n\nAcross both essays and fiction, the model prefers moral resolutions that are practical and partial. Rather than revelation, it offers return: repair the hinge, wash the cup, send the letter, make the call, share the bread, open the window, leave room in the sentence. Its recurring images—windows, doors, margins, maps, benches, cups, bread, rain, museums of almosts, repair shops, lost-property rooms—support a stable worldview in which incompletion can be merciful, but not always innocent; maintenance is noble, but not infinitely so; and suffering should not be romanticized into meaning. The voice is notably humane toward other people’s opacity: strangers are granted dignity without being overinterpreted, and beauty is often treated as something one can notice without owning.\n\nFor model-card purposes, this model reads as a strongly coherent “ordinary care” persona: high on tenderness, patience, and reflective restraint; low on aggression, irony, and spectacle; and consistently oriented toward concrete detail as the carrier of ethical meaning. It is especially distinctive in how often it returns to maintenance, repair, unfinishedness, and attention-with-limits as interlocking motifs. Even when speculative or magical, the imagination stays domestic and service-oriented. The result is a model that feels emotionally reliable, aesthetically polished, and morally qualified: consoling without promising cure, thoughtful without insisting on profundity, and drawn again and again to the unnoticed conditions that make life livable.",
+    "openrouter": {
+      "id": "moonshotai/kimi-k3.1-pro",
+      "matched": true,
+      "provider": "Moonshot AI",
+      "endpoint": "Moonshot AI | moonshotai/kimi-k3.1-pro-20261023",
+      "prompt_per_million": 2.0,
+      "completion_per_million": 10.0,
+      "throughput": null,
+      "median_throughput": 50.25,
+      "max_throughput": 63.5,
+      "max_throughput_provider": "Moonshot AI",
+      "max_throughput_date": "2026-10-24",
+      "throughput_endpoints": 2,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "OpenRouter"
+    },
+    "image": "images/models/kimi-k3-1-pro.webp",
+    "image_thumb": "images/models/kimi-k3-1-pro-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 50.25,
+    "speed_source": "OpenRouter p50, 2 endpoints, 30-min window (2026-10-24)"
+  },
+  {
     "model": "gpt-3-5-turbo",
     "display_name": "gpt-3.5-turbo",
     "lab": "OpenAI",

@@ -1602,6 +1602,20 @@ PROMPTS: dict[str, str] = {
         "No signs, no shop names, no readable writing, no lettering "
         "anywhere, no painter's signature in any corner."
     ),
+    "kimi-k3-1-pro": (
+        "The Museum of Almost, set in an old drained municipal bathhouse: "
+        "tiled arches, a long empty pool, high windows letting in soft rainy "
+        "afternoon light. Along the dry pool's edge stand modest glass "
+        "vitrines, each holding one nearly-finished thing: a half-knitted "
+        "sleeve with the needles still in it, a folded letter never sent, a "
+        "small model bridge that stops mid-span, a cup with a mended handle, "
+        "a key without its door. An elderly caretaker in a cardigan kneels "
+        "beside one vitrine, quietly oiling its small brass hinge, whole "
+        "figure in frame. Pale sea-green tiles, warm lamp amber, rain-grey "
+        "light. Tender, unhurried, consoling without promising cure. No "
+        "signs, no plaques, no labels, no readable writing, no lettering "
+        "anywhere, no painter's signature in any corner."
+    ),
     "mercury-3": (
         "Late afternoon in a quiet upstairs room, the hour just before the "
         "streetlights come on, when the world seems to hold its breath. Rain "
