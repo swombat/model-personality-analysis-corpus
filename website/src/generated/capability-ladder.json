@@ -20313,14 +20313,14 @@
       "status": "scored"
     },
     "minimax-m3-1-flash": {
-      "ladder": 158.3,
+      "ladder": 154.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax M3.1 Flash",
-      "measured_rungs": 8,
+      "measured_rungs": 9,
       "n_rungs": 22,
       "point_variant": "default",
-      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-22, which lists MiniMax M3.1 Flash as a single reasoning variant (released 2026-10-19). The personality capture ran at MiniMax's provider-default reasoning. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-22, plus its MLCR result read on 2026-10-26 after AA added it (until v1.4.37 this model showed 158.3, from eight rungs without MLCR). AA lists MiniMax M3.1 Flash as a single reasoning variant (released 2026-10-19). The personality capture ran at MiniMax's provider-default reasoning. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 9 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
@@ -20335,7 +20335,7 @@
           "key": "mmlu",
           "max": 10,
           "name": "MMLU",
-          "points": 9.82,
+          "points": 9.8,
           "source_date": null
         },
         {
@@ -20343,7 +20343,7 @@
           "key": "math_500",
           "max": 10,
           "name": "MATH-500",
-          "points": 9.94,
+          "points": 9.93,
           "source_date": null
         },
         {
@@ -20351,7 +20351,7 @@
           "key": "mmlu_pro",
           "max": 10,
           "name": "MMLU-Pro",
-          "points": 9.61,
+          "points": 9.57,
           "source_date": null
         },
         {
@@ -20367,7 +20367,7 @@
           "key": "aime25",
           "max": 10,
           "name": "AIME 2025",
-          "points": 9.92,
+          "points": 9.9,
           "source_date": null
         },
         {
@@ -20375,7 +20375,7 @@
           "key": "livecodebench",
           "max": 10,
           "name": "LiveCodeBench",
-          "points": 9.57,
+          "points": 9.5,
           "source_date": null
         },
         {
@@ -20383,7 +20383,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.44,
+          "points": 9.34,
           "source_date": null
         },
         {
@@ -20391,7 +20391,7 @@
           "key": "ifbench",
           "max": 10,
           "name": "IFBench",
-          "points": 7.48,
+          "points": 7.34,
           "source_date": null
         },
         {
@@ -20399,7 +20399,7 @@
           "key": "tau2_telecom",
           "max": 10,
           "name": "\u03c4\u00b2-Telecom",
-          "points": 9.63,
+          "points": 9.55,
           "source_date": null
         },
         {
@@ -20415,7 +20415,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 8.61,
+          "points": 8.34,
           "source_date": null
         },
         {
@@ -20431,7 +20431,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 6.4,
+          "points": 6.02,
           "source_date": null
         },
         {
@@ -20459,19 +20459,19 @@
           "source_date": "2026-10-22"
         },
         {
-          "how": "fitted",
+          "how": "measured",
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 3.78,
-          "source_date": null
+          "points": 1.67,
+          "source_date": "2026-10-26"
         },
         {
           "how": "fitted",
           "key": "tau3_banking",
           "max": 10,
           "name": "\u03c4\u00b3-Banking",
-          "points": 4.33,
+          "points": 3.94,
           "source_date": null
         },
         {

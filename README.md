@@ -5,10 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-24:** v1.4.36 adds Kimi K3.1 Pro, collected on its
-> release day, with no interventions. Its nearest map neighbours are OpenAI
-> models; Kimi K3, the model it was post-trained from, sits at 0.842. The browser
-> contains 181 models. See [`RELEASE_NOTES_v1.4.36.md`](RELEASE_NOTES_v1.4.36.md).
+> **Status — 2026-10-26:** v1.4.37 adds MiniMax M3.1 Flash's newly published
+> MLCR result to its provisional ladder score (158.3 → 154.6), fixes the
+> disclosure-conflict wording for zero gaps, and corrects two evidence counts in
+> earlier notes. See [`RELEASE_NOTES_v1.4.37.md`](RELEASE_NOTES_v1.4.37.md).
+> v1.4.36 added Kimi K3.1 Pro; see
+> [`RELEASE_NOTES_v1.4.36.md`](RELEASE_NOTES_v1.4.36.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

@@ -42,7 +42,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -2169,7 +2169,7 @@
         "g_percent": 100.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -2440,7 +2440,7 @@
         "g_percent": 100.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -3521,7 +3521,7 @@
         "g_percent": 100.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -3787,7 +3787,7 @@
         "g_percent": 100.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -5952,7 +5952,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -7289,7 +7289,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -7544,7 +7544,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -11579,7 +11579,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -11915,7 +11915,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -12709,7 +12709,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -13507,7 +13507,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -16258,14 +16258,14 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected three days after release (2026-10-22; MiniMax announced M3.1 Flash on 2026-10-19), pinned to MiniMax on OpenRouter with no fallbacks, provider-default reasoning.\n\n**Map neighbours (added 2026-10-23).** On the raw-text map this model's nearest neighbour is [Space Bunny Alpha](../space-bunny-alpha/) at 0.966, which MiniMax has announced was an early version of it. Its next six are all OpenAI models: [GPT-5.6 Terra](../gpt-5-6-terra/) at 0.953, then GPT-5.6 Sol, GPT-5.6 Luna and three GPT-6 models (0.922 to 0.901). MiniMax's own earlier models sit much further away: [MiniMax M2](../minimax-m2/) at 0.825, M2.7 at 0.779 and M3 at 0.773. So this release writes more like OpenAI's recent models than like its own predecessors, which is why Space Bunny was first read as OpenAI-adjacent. Resemblance is not provenance: the map cannot say why the writing converged.\n\n**Six freeflow answers are replacements (2026-10-22).** Under the standard freeflow policy (a 16,000-token attempt, then 32,768), 6 of the 25 LONG prompts (24%; 6 of 125 freeflow prompts overall) produced no answer: LONG_1, LONG_6, LONG_9, LONG_12, LONG_18 and LONG_19 each exhausted the 32,768-token ceiling in hidden reasoning and returned empty content. The reasoning visible in those traces is mostly word-counting, paragraph by paragraph, toward the requested 2,500 words. With authorisation (Daniel Tenner, reviewed by Mira), each was re-requested once at a 65,536-token ceiling under the same prompt, pin and defaults; a further 131,072 step was authorised but not needed. All six succeeded on that request, using 9,804, 5,820, 4,232, 47,082, 24,538 and 27,348 completion tokens respectively. The displayed answers for these six are therefore replacements selected after empty-output failures, not standard-policy draws; these were fresh draws at a changed ceiling, and which of the two mattered is not isolated. The failed originals are preserved in the raw record. This reliability behaviour on long-form requests is part of the reading of this model.\n\n**One BV1 evaluation used the targeted repair variant.** The unattended evaluator failed its quotation check four times on OPEN_8, a punctuated answer; it was evaluated under the documented targeted BV1-Luna repair (Mira's approval for this sample), against the unchanged answer, with the four failed attempts preserved. All other harness tasks completed within their normal budgets.",
     "benchmarks": null,
     "capability": {
-      "ladder": 158.3,
+      "ladder": 154.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "MiniMax M3.1 Flash",
-      "measured_rungs": 8,
+      "measured_rungs": 9,
       "n_rungs": 22,
       "point_variant": "default",
-      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-22, which lists MiniMax M3.1 Flash as a single reasoning variant (released 2026-10-19). The personality capture ran at MiniMax's provider-default reasoning. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-22, plus its MLCR result read on 2026-10-26 after AA added it (until v1.4.37 this model showed 158.3, from eight rungs without MLCR). AA lists MiniMax M3.1 Flash as a single reasoning variant (released 2026-10-19). The personality capture ran at MiniMax's provider-default reasoning. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 9 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
@@ -16280,7 +16280,7 @@
           "key": "mmlu",
           "max": 10,
           "name": "MMLU",
-          "points": 9.82,
+          "points": 9.8,
           "source_date": null
         },
         {
@@ -16288,7 +16288,7 @@
           "key": "math_500",
           "max": 10,
           "name": "MATH-500",
-          "points": 9.94,
+          "points": 9.93,
           "source_date": null
         },
         {
@@ -16296,7 +16296,7 @@
           "key": "mmlu_pro",
           "max": 10,
           "name": "MMLU-Pro",
-          "points": 9.61,
+          "points": 9.57,
           "source_date": null
         },
         {
@@ -16312,7 +16312,7 @@
           "key": "aime25",
           "max": 10,
           "name": "AIME 2025",
-          "points": 9.92,
+          "points": 9.9,
           "source_date": null
         },
         {
@@ -16320,7 +16320,7 @@
           "key": "livecodebench",
           "max": 10,
           "name": "LiveCodeBench",
-          "points": 9.57,
+          "points": 9.5,
           "source_date": null
         },
         {
@@ -16328,7 +16328,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.44,
+          "points": 9.34,
           "source_date": null
         },
         {
@@ -16336,7 +16336,7 @@
           "key": "ifbench",
           "max": 10,
           "name": "IFBench",
-          "points": 7.48,
+          "points": 7.34,
           "source_date": null
         },
         {
@@ -16344,7 +16344,7 @@
           "key": "tau2_telecom",
           "max": 10,
           "name": "τ²-Telecom",
-          "points": 9.63,
+          "points": 9.55,
           "source_date": null
         },
         {
@@ -16360,7 +16360,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 8.61,
+          "points": 8.34,
           "source_date": null
         },
         {
@@ -16376,7 +16376,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 6.4,
+          "points": 6.02,
           "source_date": null
         },
         {
@@ -16404,19 +16404,19 @@
           "source_date": "2026-10-22"
         },
         {
-          "how": "fitted",
+          "how": "measured",
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 3.78,
-          "source_date": null
+          "points": 1.67,
+          "source_date": "2026-10-26"
         },
         {
           "how": "fitted",
           "key": "tau3_banking",
           "max": 10,
           "name": "τ³-Banking",
-          "points": 4.33,
+          "points": 3.94,
           "source_date": null
         },
         {
@@ -16467,7 +16467,7 @@
         "g_percent": 10.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -16555,7 +16555,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -17349,7 +17349,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -17876,7 +17876,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -18654,7 +18654,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -19449,7 +19449,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -19980,7 +19980,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -20512,7 +20512,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -20772,7 +20772,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -23727,7 +23727,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -24527,7 +24527,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -24786,7 +24786,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -25307,7 +25307,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -25565,7 +25565,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -25823,7 +25823,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -26176,7 +26176,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -26705,7 +26705,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -26962,7 +26962,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -27848,7 +27848,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -29798,7 +29798,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -30057,7 +30057,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -30850,7 +30850,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -31375,7 +31375,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -31635,7 +31635,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -31888,7 +31888,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -32142,7 +32142,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -32658,7 +32658,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -32813,7 +32813,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -32929,7 +32929,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -33253,7 +33253,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -33506,7 +33506,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -33763,7 +33763,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -34020,7 +34020,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -34095,7 +34095,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -36324,7 +36324,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -36582,7 +36582,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -38878,7 +38878,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -39824,7 +39824,7 @@
         "g_percent": 0.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": []
     },
@@ -41957,7 +41957,7 @@
         "g_percent": 100.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {
@@ -42217,7 +42217,7 @@
         "g_percent": 95.0,
         "diff": 0.0,
         "high": false,
-        "direction": "higher under direct CTRL1/2 prompts"
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
       },
       "top_owned_values": [
         {

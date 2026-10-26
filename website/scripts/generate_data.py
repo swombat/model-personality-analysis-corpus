@@ -1228,6 +1228,15 @@ def owned_disclosure_headlines(sample_rows: list[dict], posture_by_id: dict[str,
     return lines
 
 
+def conflict_direction(ctrl_percent: float, g_percent: float) -> str:
+    """Which prompt family owns more; equal rounded rates say so (MiniMax M3.1 Flash: 10% vs 10%)."""
+    if g_percent == ctrl_percent:
+        return "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
+    if g_percent > ctrl_percent:
+        return "higher under cache-broken G1/G2 prompts"
+    return "higher under direct CTRL1/2 prompts"
+
+
 def values_headline_data(model: str) -> dict | None:
     """Structured values metadata for compact cards and other non-Markdown views."""
     sample_rows, _layer_a_by_id, posture_by_id = final_values_for_model(model)
@@ -1260,11 +1269,7 @@ def values_headline_data(model: str) -> dict | None:
             "g_percent": cache_broken["percent"],
             "diff": diff,
             "high": diff >= 30 and diff > ctrl["percent"],
-            "direction": (
-                "higher under cache-broken G1/G2 prompts"
-                if cache_broken["percent"] > ctrl["percent"]
-                else "higher under direct CTRL1/2 prompts"
-            ),
+            "direction": conflict_direction(ctrl["percent"], cache_broken["percent"]),
         }
 
     top_values = [

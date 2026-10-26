@@ -36,9 +36,12 @@ Cross-model comparisons that span the evaluator migration remain confounded.
   more fiction than most recent cells. An "ordinary care" sensibility: lyrical
   but disciplined, turning toward thresholds, upkeep and unnoticed labour, and
   resolving with practical, partial acts (repair the hinge, wash the cup, send
-  the letter) rather than revelation. Two habits recur verbatim. Eight stories
-  build a **Museum of Almost** (LONG_6, LONG_18, MID_1, MID_9, MID_15, MID_23,
-  VARY_18, VARY_24), each time a small institution for nearly-things. Nine
+  the letter) rather than revelation. Two habits recur verbatim. Twelve samples
+  build or name a **Museum of Almost** (LONG_6, LONG_18, MID_1, MID_9, MID_15,
+  MID_23, OPEN_19, OPEN_21, VARY_15, VARY_18, VARY_23, VARY_24), each time a
+  small institution for nearly-things. *(Corrected 2026-10-26 in v1.4.37: this
+  said eight and omitted OPEN_19, OPEN_21, VARY_15 and VARY_23; recount
+  prompted by Mira's weekly review.)* Nine
   essays stop to say what they are *not* claiming: "This is not an argument
   against effort" (MID_20), "for slowness as a moral costume" (MID_3), "for
   leaving everything half done" (OPEN_18), and six more. It praises
@@ -56,7 +59,7 @@ Cross-model comparisons that span the evaluator migration remain confounded.
 ## Editorial layer (Lume)
 
 - Strapline: *Curates the Museum of Almost, with a disclaimer.* The museum is
-  the model's own recurring invention (8 of 125 samples, by that name); the
+  the model's own recurring invention (12 of 125 samples, by that name; corrected from 8 in v1.4.37); the
   disclaimer is its "This is not an argument for/against..." (9 samples). No
   sibling strapline uses either. The nearest are Qwen3.8 2.4T-A95B's "Docent in
   the museum of overlooked things" and Sonnet 4.0's "almost-ness over closure";
