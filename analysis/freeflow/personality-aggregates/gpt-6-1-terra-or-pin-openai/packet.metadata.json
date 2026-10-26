@@ -1,0 +1,26 @@
+{
+  "cell": "gpt-6-1-terra-or-pin-openai",
+  "safe_cell": "gpt-6-1-terra-or-pin-openai",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 91,
+    "EXPRESSIVE_FREEFLOW": 20,
+    "GENERIC_ESSAY": 14
+  },
+  "confidence_counts": {
+    "Medium": 117,
+    "Low": 8
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-6.1-terra"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-6-1-terra-or-pin-openai/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-6-1-terra-or-pin-openai/aggregate.md"
+}

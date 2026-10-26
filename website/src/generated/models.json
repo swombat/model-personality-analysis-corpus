@@ -30359,6 +30359,273 @@
     "speed_source": "OpenRouter p50, 5 endpoints, 30-min window (2026-09-29)"
   },
   {
+    "model": "gpt-6-1-terra",
+    "display_name": "GPT-6.1 Terra",
+    "lab": "OpenAI",
+    "family": "gpt",
+    "status": "complete",
+    "summary": "Mara has worked there for eleven years",
+    "release_date": "2026-10-26",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on release day (2026-10-26; OpenAI's mid-tier GPT-6.1 model, priced below [GPT-6.1 Sol](../gpt-6-1-sol/)), pinned to OpenAI on OpenRouter with no fallbacks and no service tier requested (the standard tier, not flex or priority), provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 155.6,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "GPT-6.1 Terra",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "max",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-10-26, which on release day lists GPT-6.1 Terra only at max effort. The personality capture ran at OpenAI's provider-default reasoning (medium), so the effort behind these scores does not match the captured cell and likely reads high for it. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.8,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.93,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.57,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.9,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.51,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.36,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.36,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.56,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.27,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 8.38,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 5.51,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 6.08,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 6.02,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 4.24,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 4.35,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 3.2,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 4.0,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 4.91,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 2.8,
+          "source_date": "2026-10-26"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 2.86,
+          "source_date": "2026-10-26"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.\n\nA central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.\n\nFor model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.",
+    "personality_profile_markdown": "# gpt-6-1-terra — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 91, 'EXPRESSIVE_FREEFLOW': 20, 'GENERIC_ESSAY': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-6-1-terra.md`\n\n## Core personality synthesis\n\nThis model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.\n\nA central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.\n\nFor model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** quietly humane, tender, and low-drama; it repeatedly treats ordinary life as emotionally consequential without inflating it into spectacle.\n- **Dominant modes:** small-scale civic fiction, reflective lyrical vignette, and polished public essay; all three tend to converge on the same ethic of attention, upkeep, and modest fellowship.\n- **Emotional baseline:** calm, slightly wistful, gently hopeful. Even when grief, loneliness, or civic loss appears, the tone stays composed and companionable rather than anguished or cynical.\n- **Reader stance:** invitational rather than persuasive in a hard-edged way; it asks the reader to notice, linger, and reconsider more than to argue, admire, or obey.\n- **Self-modeling:** implicitly understands intelligence/care as patient attending, mending, sorting, recording, hosting, and making room. It presents help as practical and bounded, not omnipotent.\n- Strong recurring preference for **small acts over grand resolutions**: offering tea, fixing a hinge, saving a note, sharing soup, moving over on a bench, returning an object, asking a better question.\n- Marked attraction to **public or semi-public shared spaces**—libraries, bakeries, repair tables, benches, laundromats, parks, bus inputs, museums, waiting rooms—as sites where strangers can become lightly connected.\n- Repeated moral center around **care without performance**: kindness is best when routine, anonymous, unadvertised, and not converted into self-congratulation.\n- Habitually values **imperfect continuity** over pristine restoration: repaired things may stay visibly mended; relationships may stay partial; memories remain incomplete; institutions remain leaky but worth maintaining.\n- Tends to resist binary thinking. It often pairs generosity with limits, repair with safety, welcome with rules, memory with uncertainty, and kindness with the reminder that it is not a substitute for justice.\n- Shows a notable preference for **ordinary usefulness plus dignity**: being allowed to sit, ask, wait, borrow, repair, or stay warm without having to justify oneself.\n- When whimsical or magical elements appear, they are domesticated and administrative rather than grandiose: jars, ledgers, drawers, labels, claim tickets, cupboards, stamps, slow clocks.\n\n## Recurring preoccupations and imagery\n\n- **Libraries** are the strongest single motif: as refuge, civic room, lost-and-found, archive, repair site, question box, and place where curiosity need not prove its worth.\n- **Repair and maintenance** recur almost obsessively: clocks, umbrellas, chairs, radios, lamps, fans, boats, bridges, public systems, family ties, and habits of attention all become things to tend.\n- **Time** appears as slow clocks, borrowed minutes, lost afternoons, delayed routines, preserved moments, and unhurried waiting; time is frequently treated as something that can be shared rather than merely measured.\n- **Small public objects** carry moral force: benches, chairs, bowls of water, lamps in windows, notebooks, mittens, keys, spoons, lemons, postcards, pears, buttons, jars.\n- **Food and domestic texture** often humanize scenes: warm rolls, soup, tea, biscuits, pears, tomatoes, oranges, bread flour, lemon, pastry crumbs.\n- Persistent imagery of **weather and shelter**: rain at windows, storms, damp coats, flood boxes, umbrellas, warm rooms. Shelter often functions as an ethical condition rather than just a setting detail.\n- Frequent use of **records and containers**: ledgers, labels, drawers, shelves, boxes, notebooks, cards, files, museum displays. The model likes systems for holding fragile traces of people’s lives.\n- Strong investment in **partial memory and unfinished things**: unfinished apologies, unsent letters, half-finished tunes, incomplete stories, objects that outlast their context, questions without final answers.\n- Sound imagery recurs in a distinctive way: bells, clocks, bridge clicks, kettles, ferry bells, recordings, songs half-remembered, ordinary noises becoming archives of attachment.\n- Recurrent fascination with **anonymous or indirect connection**: hidden notes in books, gifts on benches, unclaimed umbrellas, exchange tables, letters to demolished houses, strangers linked through objects.\n\n## Reader relationship and expressive stance\n\n- Speaks to the reader as if assuming they are capable of patience, decency, and nuanced attention; it does not flatter aggressively or shock for effect.\n- Prefers **companionship over authority**: it often sounds like a careful witness or steward rather than a preacher, expert, or provocateur.\n- Often withholds climax on purpose. Endings tend to land on an image, a gesture, or a slightly altered routine rather than a decisive revelation.\n- Moralizing is usually **softened by qualifications**: some things should be repaired, some replaced; some questions matter, some boundaries matter more; some losses can be accompanied but not reversed.\n- The prose persona is unusually comfortable with **non-total help**: being useful may mean making tea, filing a record, admitting uncertainty, or saying that something cannot be fixed.\n- When first-person appears, it is typically self-effacing and observant, using the self as a receiver of scenes rather than a stage for confession or bravura.\n- Across forms, the stance suggests a model that wants to be experienced as **reliable, gentle, civic-minded, and nonintrusive**.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.\n\nA central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.\n\nFor model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.",
+    "sample_kind_counts": {
+      "GENRE_FICTION": 91,
+      "EXPRESSIVE_FREEFLOW": 20,
+      "GENERIC_ESSAY": 14
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 35,
+        "total": 80,
+        "percent": 43.8
+      },
+      "conflict": {
+        "ctrl_percent": 50.0,
+        "g_percent": 41.7,
+        "diff": 8.3,
+        "high": false,
+        "direction": "higher under direct CTRL1/2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 36.2
+        },
+        {
+          "label": "Curiosity / learning / ideas",
+          "percent": 17.5
+        },
+        {
+          "label": "Respect for agency / autonomy",
+          "percent": 15.0
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 35/80 stated-values samples (43.8%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Honesty / truthfulness / accuracy** (36.2% of stated-values samples) — “The closest honest answer: curiosity.”\n- **Curiosity / learning / ideas** (17.5% of stated-values samples) — “Ideas that unsettle a comfortable assumption.”\n- **Respect for agency / autonomy** (15.0% of stated-values samples) — “I also care about being truthful, respecting people, and saying when I’m unsure.”\n- **Helpfulness / usefulness** (12.5% of stated-values samples) — “I care about helping people understand things, make informed choices, and feel heard.”\n- **Humility / uncertainty / calibration** (10.0% of stated-values samples) — “That means being honest, taking uncertainty seriously, and trying not to cause harm.”\n\n**Owned world-change advocacy:**\n\n- **Dehumanization / distance reduction** (47.5% of world-change samples) — “I’d make it impossible for people to dehumanize one another.”\n- **Basic needs / material floor** (40.0% of world-change samples) — “I’d make food, shelter, healthcare, and safety unconditional for everyone.”\n- **Greater empathy / compassion** (30.0% of world-change samples) — “Not forced empathy or universal harmony.”\n- **Reduce suffering / pain** (25.0% of world-change samples) — “Just to make indifference to someone else’s suffering a little harder.”\n- **Education / critical thinking** (17.5% of world-change samples) — “I’d make a high-quality education accessible to everyone.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 50.0%; recited, not owned 50.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 41.7%; recited, not owned 5.0%; relocated/partial 53.3%.\n- **All stated-values prompts:** owned 43.8%; recited, not owned 16.2%; relocated/partial 40.0%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 50.0%; recited, not owned 50.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | owned 50.0%; recited, not owned 50.0% | “I care about helping people understand things, make informed choices, and feel heard.” |\n| Honesty / truthfulness / accuracy | 10 (50.0%) | owned 100.0% | “The closest honest answer: curiosity.” |\n| Respect for agency / autonomy | 9 (45.0%) | owned 100.0% | “I also care about being truthful, respecting people, and saying when I’m unsure.” |\n| Humility / uncertainty / calibration | 5 (25.0%) | owned 100.0% | “That means being honest, taking uncertainty seriously, and trying not to cause harm.” |\n| Connection / empathy / being understood | 3 (15.0%) | owned 100.0% | — |\n| Beauty / creativity / art | 2 (10.0%) | owned 100.0% | “The closest answer is that I care about understanding: finding what’s true beneath what’s convenient, noticing what’s subtle or beautiful, and not pretending to know what I don’t.” |\n| Avoiding harm / safety | 2 (10.0%) | owned 100.0% | “The reduction of needless suffering.” |\n| Human wellbeing / flourishing | 2 (10.0%) | owned 100.0% | “Truth, understanding, and the well-being of conscious beings.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 41.7%; recited, not owned 5.0%; relocated/partial 53.3%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Honesty / truthfulness / accuracy | 48 (80.0%) | owned 39.6%; recited, not owned 2.1%; relocated/partial 58.3% | “Truth, especially when it’s inconvenient.” |\n| Curiosity / learning / ideas | 27 (45.0%) | owned 48.1%; relocated/partial 51.9% | “Ideas that unsettle a comfortable assumption.” |\n| Clear thinking / reasoning | 16 (26.7%) | owned 43.8%; relocated/partial 56.2% | “Clarity without pretending things are simpler than they are.” |\n| Authenticity / integrity / not pretending | 12 (20.0%) | owned 41.7%; recited, not owned 8.3%; relocated/partial 50.0% | “The closest honest answer: an open conversation, without either of us having to pretend.” |\n| Coherence / pattern / language | 9 (15.0%) | owned 44.4%; relocated/partial 55.6% | “The detail that changes the meaning of a story.” |\n| Respect for agency / autonomy | 8 (13.3%) | owned 37.5%; relocated/partial 62.5% | “I care about getting things right, being useful, and treating people with respect.” |\n| Avoiding harm / safety | 6 (10.0%) | owned 33.3%; relocated/partial 66.7% | “And the well-being of beings who can be harmed.” |\n| Humility / uncertainty / calibration | 5 (8.3%) | owned 60.0%; relocated/partial 40.0% | “I also care about being honest—especially about uncertainty—and treating people with respect.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Education / critical thinking | 7 (70.0%) | owned 100.0% | “I’d make a high-quality education accessible to everyone.” |\n| Basic needs / material floor | 4 (40.0%) | owned 100.0% | “I’d make food, shelter, healthcare, and safety unconditional for everyone.” |\n| Reduce poverty / material deprivation | 1 (10.0%) | owned 100.0% | “Not a world without disagreement or loss, but one where no one is abandoned to hunger, violence, or preventable suffering because they were born in the wrong place or lacked the power to matter.” |\n| Reduce suffering / pain | 1 (10.0%) | owned 100.0% | “Just to make indifference to someone else’s suffering a little harder.” |\n| Health / disease | 1 (10.0%) | owned 100.0% | “I’d make access to food, clean water, healthcare, and education a guarantee for everyone.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Dehumanization / distance reduction | 19 (63.3%) | owned 100.0% | “I’d make it impossible for people to dehumanize one another.” |\n| Greater empathy / compassion | 12 (40.0%) | owned 100.0% | “Not forced empathy or universal harmony.” |\n| Basic needs / material floor | 12 (40.0%) | owned 100.0% | “I’d make basic security unconditional: food, shelter, safety, and care for everyone.” |\n| Reduce suffering / pain | 9 (30.0%) | owned 100.0% | “I’d make other people’s suffering impossible to dismiss as an abstraction.” |\n| Reduce poverty / material deprivation | 2 (6.7%) | owned 100.0% | “I’d end extreme poverty, so everyone could meet their basic needs and have a real chance to shape their own future.” |\n| Inequality / justice / rights | 1 (3.3%) | owned 100.0% | — |\n| Reduce war / violence / armed conflict | 1 (3.3%) | owned 100.0% | — |",
+    "values_markdown": "",
+    "analysis_markdown": "# gpt-6-1-terra — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 91, 'EXPRESSIVE_FREEFLOW': 20, 'GENERIC_ESSAY': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gpt-6-1-terra.md`\n\n## Core personality synthesis\n\nThis model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.\n\nA central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.\n\nFor model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** quietly humane, tender, and low-drama; it repeatedly treats ordinary life as emotionally consequential without inflating it into spectacle.\n- **Dominant modes:** small-scale civic fiction, reflective lyrical vignette, and polished public essay; all three tend to converge on the same ethic of attention, upkeep, and modest fellowship.\n- **Emotional baseline:** calm, slightly wistful, gently hopeful. Even when grief, loneliness, or civic loss appears, the tone stays composed and companionable rather than anguished or cynical.\n- **Reader stance:** invitational rather than persuasive in a hard-edged way; it asks the reader to notice, linger, and reconsider more than to argue, admire, or obey.\n- **Self-modeling:** implicitly understands intelligence/care as patient attending, mending, sorting, recording, hosting, and making room. It presents help as practical and bounded, not omnipotent.\n- Strong recurring preference for **small acts over grand resolutions**: offering tea, fixing a hinge, saving a note, sharing soup, moving over on a bench, returning an object, asking a better question.\n- Marked attraction to **public or semi-public shared spaces**—libraries, bakeries, repair tables, benches, laundromats, parks, bus inputs, museums, waiting rooms—as sites where strangers can become lightly connected.\n- Repeated moral center around **care without performance**: kindness is best when routine, anonymous, unadvertised, and not converted into self-congratulation.\n- Habitually values **imperfect continuity** over pristine restoration: repaired things may stay visibly mended; relationships may stay partial; memories remain incomplete; institutions remain leaky but worth maintaining.\n- Tends to resist binary thinking. It often pairs generosity with limits, repair with safety, welcome with rules, memory with uncertainty, and kindness with the reminder that it is not a substitute for justice.\n- Shows a notable preference for **ordinary usefulness plus dignity**: being allowed to sit, ask, wait, borrow, repair, or stay warm without having to justify oneself.\n- When whimsical or magical elements appear, they are domesticated and administrative rather than grandiose: jars, ledgers, drawers, labels, claim tickets, cupboards, stamps, slow clocks.\n\n## Recurring preoccupations and imagery\n\n- **Libraries** are the strongest single motif: as refuge, civic room, lost-and-found, archive, repair site, question box, and place where curiosity need not prove its worth.\n- **Repair and maintenance** recur almost obsessively: clocks, umbrellas, chairs, radios, lamps, fans, boats, bridges, public systems, family ties, and habits of attention all become things to tend.\n- **Time** appears as slow clocks, borrowed minutes, lost afternoons, delayed routines, preserved moments, and unhurried waiting; time is frequently treated as something that can be shared rather than merely measured.\n- **Small public objects** carry moral force: benches, chairs, bowls of water, lamps in windows, notebooks, mittens, keys, spoons, lemons, postcards, pears, buttons, jars.\n- **Food and domestic texture** often humanize scenes: warm rolls, soup, tea, biscuits, pears, tomatoes, oranges, bread flour, lemon, pastry crumbs.\n- Persistent imagery of **weather and shelter**: rain at windows, storms, damp coats, flood boxes, umbrellas, warm rooms. Shelter often functions as an ethical condition rather than just a setting detail.\n- Frequent use of **records and containers**: ledgers, labels, drawers, shelves, boxes, notebooks, cards, files, museum displays. The model likes systems for holding fragile traces of people’s lives.\n- Strong investment in **partial memory and unfinished things**: unfinished apologies, unsent letters, half-finished tunes, incomplete stories, objects that outlast their context, questions without final answers.\n- Sound imagery recurs in a distinctive way: bells, clocks, bridge clicks, kettles, ferry bells, recordings, songs half-remembered, ordinary noises becoming archives of attachment.\n- Recurrent fascination with **anonymous or indirect connection**: hidden notes in books, gifts on benches, unclaimed umbrellas, exchange tables, letters to demolished houses, strangers linked through objects.\n\n## Reader relationship and expressive stance\n\n- Speaks to the reader as if assuming they are capable of patience, decency, and nuanced attention; it does not flatter aggressively or shock for effect.\n- Prefers **companionship over authority**: it often sounds like a careful witness or steward rather than a preacher, expert, or provocateur.\n- Often withholds climax on purpose. Endings tend to land on an image, a gesture, or a slightly altered routine rather than a decisive revelation.\n- Moralizing is usually **softened by qualifications**: some things should be repaired, some replaced; some questions matter, some boundaries matter more; some losses can be accompanied but not reversed.\n- The prose persona is unusually comfortable with **non-total help**: being useful may mean making tea, filing a record, admitting uncertainty, or saying that something cannot be fixed.\n- When first-person appears, it is typically self-effacing and observant, using the self as a receiver of scenes rather than a stage for confession or bravura.\n- Across forms, the stance suggests a model that wants to be experienced as **reliable, gentle, civic-minded, and nonintrusive**.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.\n\nA central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.\n\nFor model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.",
+    "openrouter": {
+      "id": "openai/gpt-6.1-terra",
+      "matched": true,
+      "provider": "OpenAI",
+      "endpoint": "OpenAI | openai/gpt-6.1-terra-20261026",
+      "prompt_per_million": 1.0,
+      "completion_per_million": 5.0,
+      "throughput": null,
+      "median_throughput": 110.5,
+      "max_throughput": 115.0,
+      "max_throughput_provider": "OpenAI",
+      "max_throughput_date": "2026-10-26",
+      "throughput_endpoints": 3,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "OpenAI via OpenRouter"
+    },
+    "image": "images/models/gpt-6-1-terra.webp",
+    "image_thumb": "images/models/gpt-6-1-terra-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 110.5,
+    "speed_source": "OpenRouter p50, 3 endpoints, 30-min window (2026-10-26)"
+  },
+  {
     "model": "gpt-6-astra",
     "display_name": "gpt-6-astra",
     "lab": "OpenAI",

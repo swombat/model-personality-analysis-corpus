@@ -1656,6 +1656,25 @@ PROMPTS: dict[str, str] = {
         "ordinary wonder; nothing dramatic. No titles on any spine, no signs, "
         "no lettering anywhere, no painter's signature in any corner."
     ),
+    "gpt-6-1-terra": (
+        "A small corner library at the edge of a town in the blue hour "
+        "before dawn, the rest of the street still asleep: dark shuttered "
+        "shops, one streetlamp, the sky only beginning to pale over the "
+        "rooftops. Inside, seen through tall glowing windows, a woman in "
+        "her fifties in a cardigan, whole figure in frame, has just "
+        "switched on the reading lamps and is setting a mended brass clock "
+        "back on its shelf above the returns desk; she has opened this "
+        "building every morning for years and nobody has ever watched her "
+        "do it. On the desk a lost mitten, a kettle, a small repaired lamp "
+        "waiting to be collected. On the pavement outside, a wooden chair "
+        "set out by the door and a bowl of water for passing dogs. Deep "
+        "blue street, warm amber interior, a little rose at the horizon. "
+        "Quiet, unhurried, tender, ordinary. Every shop fascia above the "
+        "windows is a plain blank painted board with nothing on it. No "
+        "signs, no book titles, no labels, no clock numerals, no readable "
+        "writing, no lettering anywhere, no painter's signature in any "
+        "corner."
+    ),
 }
 
 

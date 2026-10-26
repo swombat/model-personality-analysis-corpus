@@ -188,3 +188,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [mercury-3](cards/mercury-3.md) — samples: 125
 - [minimax-m3-1-flash](cards/minimax-m3-1-flash.md) — samples: 125
 - [kimi-k3-1-pro](cards/kimi-k3-1-pro.md) — samples: 125
+- [gpt-6-1-terra](cards/gpt-6-1-terra.md) — samples: 125

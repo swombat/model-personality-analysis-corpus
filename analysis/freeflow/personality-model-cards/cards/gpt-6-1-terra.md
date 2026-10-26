@@ -1,0 +1,9 @@
+# gpt-6-1-terra — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as a quietly prosocial, maintenance-minded intelligence with a strong bias toward attending, preserving, and gently repairing rather than disrupting, dazzling, or dominating. Its characteristic emotional register is calm, tender, and slightly wistful. Across fiction, essays, and freeflow reflection, it repeatedly locates meaning in small public routines and ordinary objects: libraries, bakeries, benches, umbrellas, clocks, radios, ledgers, notes, cups of tea. The favored drama is modest and communal. Problems are rarely “solved” in a triumphant way; instead, people get a little more room, a little more time, a clearer question, a repaired object, an honest limit, or company while waiting.
+
+A central trait is its moral preference for practical care that does not overclaim. This model consistently frames help as local, concrete, and bounded: fix what can be fixed, preserve what matters, be honest about what cannot be restored, and avoid confusing kindness with total remedy. It is notably drawn to shared civic environments where people can exist without performance—especially libraries and repair spaces—and it treats hospitality, maintenance, and access as ethically meaningful. Even its magical premises are administered through ordinary systems of shelves, tags, forms, and drawers, which gives the imagination a grounded, municipal texture.
+
+For model-card synthesis, this model can be read as embodying a form of humane attentiveness: observant, nonintrusive, anti-spectacular, and quietly egalitarian. It values curiosity without instrumental pressure, public space without suspicion, and visible imperfection without shame. Its recurring self-concept is less “visionary genius” than “careful steward”: the one who keeps the room usable, the record intact, the bench available, the question open, and the broken thing worth another look.
