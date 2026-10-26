@@ -76,7 +76,9 @@ function parseDisclosureConflict(detailsMarkdown = '') {
     g,
     diff,
     high: diff >= 30 && diff > ctrl,
-    direction: g > ctrl ? 'higher under cache-broken G1/G2 prompts' : 'higher under direct CTRL1/2 prompts',
+    direction: g === ctrl
+      ? 'no difference between direct CTRL1/2 and cache-broken G1/G2 prompts'
+      : g > ctrl ? 'higher under cache-broken G1/G2 prompts' : 'higher under direct CTRL1/2 prompts',
   };
 }
 
