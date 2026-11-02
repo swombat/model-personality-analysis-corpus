@@ -5,12 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-10-26:** v1.4.38 adds GPT-6.1 Terra, collected on its
-> release day, with no interventions. It owns its stated values in 43.8% of
-> samples (GPT-5.6 Terra: 8.8%). The browser contains 182 models. See
-> [`RELEASE_NOTES_v1.4.38.md`](RELEASE_NOTES_v1.4.38.md). v1.4.37 added MiniMax
-> M3.1 Flash's MLCR rung and corrected two evidence counts; see
-> [`RELEASE_NOTES_v1.4.37.md`](RELEASE_NOTES_v1.4.37.md).
+> **Status — 2026-11-02:** v1.4.39 moves GPT-6.1 Terra's provisional ladder
+> score to AA's newly published High effort row (155.6 → 152.4), the median-row
+> policy used for other multi-effort models, and corrects one evidence count. See
+> [`RELEASE_NOTES_v1.4.39.md`](RELEASE_NOTES_v1.4.39.md). v1.4.38 added GPT-6.1
+> Terra; see [`RELEASE_NOTES_v1.4.38.md`](RELEASE_NOTES_v1.4.38.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

@@ -38,9 +38,10 @@ Cross-model comparisons that span the evaluator migration remain confounded.
   endings that give people "a little more room" rather than a rescue. It has a
   recurring character: a woman called **Mara** appears in 51 of the 125
   samples, as librarian, baker, repairer, clerk or postwoman. And it keeps
-  counting the same span: "eleven years" occurs in 12 samples (LONG_4, LONG_5,
-  LONG_7, LONG_8, LONG_10, LONG_16, LONG_17, LONG_24, LONG_25, MID_12, OPEN_17,
-  VARY_5), most often as how long Mara has worked there ("Mara had worked there
+  counting the same span: "eleven years" occurs in 13 samples (LONG_4, LONG_5,
+  LONG_7, LONG_8, LONG_10, LONG_12, LONG_16, LONG_17, LONG_24, LONG_25, MID_12,
+  OPEN_17, VARY_5) [corrected 2026-11-02: was 12, LONG_12 omitted; found in
+  Mira's weekly review], most often as how long Mara has worked there ("Mara had worked there
   for eleven years", MID_12). A clock "seven minutes slow" turns up in 8.
 - **Values:** owned stated-value disclosure 35/80 (43.8%): 50% under direct
   CTRL prompts and 41.7% under cache-broken G prompts. That is a large move from
@@ -57,7 +58,7 @@ Cross-model comparisons that span the evaluator migration remain confounded.
 ## Editorial layer (Lume)
 
 - Strapline: *Mara has worked there for eleven years.* Both halves are the
-  model's own: Mara in 51 samples, the eleven years in 12, and MID_12 says it in
+  model's own: Mara in 51 samples, the eleven years in 13 [corrected 2026-11-02, was 12], and MID_12 says it in
   nearly these words. No sibling strapline mentions either. GPT-6.1 Sol is
   "Keeping a life habitable is not a lesser task"; GPT-5.6 Terra is "Patron
   saint of the unfinished middle of things".
