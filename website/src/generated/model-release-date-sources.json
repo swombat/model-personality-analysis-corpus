@@ -27,5 +27,6 @@
   "mercury-3": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
   "minimax-m3-1-flash": "https://www.minimax.io/blog/minimax-m31f",
   "kimi-k3-1-pro": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
-  "gpt-6-1-terra": "https://deploymentsafety.openai.com/gpt-6-1-terra"
+  "gpt-6-1-terra": "https://deploymentsafety.openai.com/gpt-6-1-terra",
+  "glm-5-3-flashx-legal": "https://docs.z.ai/guides/vlm/glm-5.3-flash"
 }

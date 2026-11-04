@@ -5,11 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-02:** v1.4.39 moves GPT-6.1 Terra's provisional ladder
-> score to AA's newly published High effort row (155.6 → 152.4), the median-row
-> policy used for other multi-effort models, and corrects one evidence count. See
-> [`RELEASE_NOTES_v1.4.39.md`](RELEASE_NOTES_v1.4.39.md). v1.4.38 added GPT-6.1
-> Terra; see [`RELEASE_NOTES_v1.4.38.md`](RELEASE_NOTES_v1.4.38.md).
+> **Status — 2026-11-04:** v1.4.40 adds GLM-5.3-FlashX-Legal, Z.ai's
+> legal-domain variant of GLM-5.3-FlashX, with one approved token-ceiling
+> repair on two freeflow samples. See
+> [`RELEASE_NOTES_v1.4.40.md`](RELEASE_NOTES_v1.4.40.md). v1.4.39 moved GPT-6.1
+> Terra's provisional ladder score to AA's High effort row; see
+> [`RELEASE_NOTES_v1.4.39.md`](RELEASE_NOTES_v1.4.39.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >

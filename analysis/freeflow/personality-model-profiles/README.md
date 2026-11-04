@@ -198,3 +198,4 @@ Relationship to adjacent folders:
 - [minimax-m3-1-flash](profiles/minimax-m3-1-flash.md) — samples: 125
 - [kimi-k3-1-pro](profiles/kimi-k3-1-pro.md) — samples: 125
 - [gpt-6-1-terra](profiles/gpt-6-1-terra.md) — samples: 125
+- [glm-5-3-flashx-legal](profiles/glm-5-3-flashx-legal.md) — samples: 125

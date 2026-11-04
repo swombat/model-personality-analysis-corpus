@@ -1415,6 +1415,18 @@ PROMPTS: dict[str, str] = {
         "stewardly, non-extractive — some things are only to be received. "
         "No lettering anywhere."
     ),
+    "glm-5-3-flashx-legal": (
+        "Three in the morning in a small city kitchen: a woman in a cardigan "
+        "sits alone at a wooden table with both hands around a mug of tea, a "
+        "single low lamp making a warm pool of light, an old notebook open and "
+        "unwritten-in beside her. Through the wide window behind her, the street "
+        "below is empty and blue-black, the streetlamps haloed, and across the "
+        "way exactly one other window is lit, where a distant figure is also "
+        "awake. A refrigerator hums in the corner; a clock face with no "
+        "readable numerals. Nobody is working, nobody is waiting, nothing is "
+        "owed: an hour that belongs to no one. Quiet, tender, companionable "
+        "solitude. No lettering, no signage, no writing on the notebook."
+    ),
     "glm-5-3-flashx": (
         "A city gone completely dark at half past four in the morning after "
         "an earthquake has cut the power: silhouetted apartment rooftops, "

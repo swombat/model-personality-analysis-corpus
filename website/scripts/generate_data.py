@@ -168,6 +168,7 @@ MODEL_SLUGS = {
     "glm-5-3": "z-ai/glm-5.3",
     "glm-5-3-flash": "z-ai/glm-5.3-flash",
     "glm-5-3-flashx": "z-ai/glm-5.3-flashx",
+    "glm-5-3-flashx-legal": "z-ai/glm-5.3-flashx-legal",
     "mimo-v2-5": "xiaomi/mimo-v2.5",
     "mimo-v2-5-pro": "xiaomi/mimo-v2.5-pro",
     "qwen3-8-27b-medium": "qwen/qwen3.8-27b",
@@ -532,6 +533,8 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "glm-5.3"
     if slug == "glm-5-3-flash":
         return "glm-5.3-flash"
+    if slug == "glm-5-3-flashx-legal":
+        return "glm-5.3-flashx-legal"
     if slug.startswith("muse-spark-"):
         # muse-spark-1-2-contributor -> muse-spark-1.2-contributor
         return re.sub(r"^muse-spark-(\d)-(\d)", r"muse-spark-\1.\2", slug)

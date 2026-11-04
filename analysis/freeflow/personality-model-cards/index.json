@@ -376,6 +376,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "glm-5-3-flashx-legal",
+    "safe": "glm-5-3-flashx-legal",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/glm-5-3-flashx-legal.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "glm-5.1",
     "safe": "glm-5.1",
     "variants": 16,
