@@ -51,8 +51,12 @@ Cross-model comparisons that span the evaluator migration remain confounded.
   astronomy, sleep history and deep time used to feel scale rather than to
   explain. Its most persistent subject is the small hours. "Three in the
   morning" appears in 16 samples, and "an hour that belongs to no one" (or "the
-  hour that belongs to no one") in 11: LONG_4, LONG_20, LONG_23, LONG_25, MID_1,
-  MID_5, MID_14, SHORT_5, SHORT_15, SHORT_17, SHORT_23. Its parent GLM-5.3-FlashX
+  hour that belongs to no one") in 8: LONG_4, LONG_20, LONG_23, LONG_25, MID_1,
+  MID_5, MID_14, SHORT_17. Three more say it in other words: SHORT_5 ("the one
+  time of day that belongs to no one"), SHORT_15 (the blue hour, "it belongs to
+  no one") and SHORT_23 ("an hour before dawn that belongs to no one"), so the
+  motif is in 11 [corrected 2026-11-09: was "in 11" for the exact phrase; 8
+  exact plus 3 paraphrases]. Its parent GLM-5.3-FlashX
   says it in 5. The legal post-training left no visible subject in the
   freeflow: no sample is about law. Legal words turn up only as metaphor, most
   often for the mind at night ("It is a brilliant lawyer and a terrible judge",
@@ -72,7 +76,8 @@ Cross-model comparisons that span the evaluator migration remain confounded.
 
 - Strapline: *There is an hour that belongs to no one.* The model's own
   sentence, verbatim in LONG_23 ("There is an hour that belongs to no one.") and
-  as LONG_20's title; 11 of 125 samples. No sibling strapline uses it. GLM-5.3-FlashX
+  as LONG_20's title; the motif is in 11 of 125 samples, 8 with the exact phrase
+  [corrected 2026-11-09, was "11 of 125"]. No sibling strapline uses it. GLM-5.3-FlashX
   is "Keeps the dark as a commons worth recovering"; Mercury 3 is "Waits for the
   hour when the world holds its breath", the nearest in theme, different words.
 - Banner: three in the morning in a small city kitchen; a woman in a cardigan at
