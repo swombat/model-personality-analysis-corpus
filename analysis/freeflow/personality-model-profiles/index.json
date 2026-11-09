@@ -327,6 +327,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/devstral-2512.md"
   },
   {
+    "model": "fable-5-2",
+    "safe": "fable-5-2",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 113,
+      "GENERIC_ESSAY": 11,
+      "GENRE_FICTION": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/fable-5-2.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/fable-5-2.md"
+  },
+  {
     "model": "gemini-2.0-flash-001",
     "safe": "gemini-2.0-flash-001",
     "analysis_inputs": 1,

@@ -592,6 +592,18 @@ PROMPTS: dict[str, str] = {
         "everything tended, the ordinary structure quietly holding the whole "
         "building's weight."
     ),
+    "fable-5-2": (
+        "A stone vault beneath an old observatory pavilion at night, lit by a "
+        "single oil lamp. Three people in nineteenth-century coats stand at a "
+        "heavy iron vault door, each holding a different large brass key toward "
+        "its three keyholes; their faces half in shadow, attentive and solemn. "
+        "Through the half-open door, in the warm dark, a small polished platinum "
+        "cylinder sits under two nested glass bell jars on a velvet stand, "
+        "catching the lamplight as the single brightest point in the frame. "
+        "Cool slate blues and deep umber walls, warm gold lamplight on brass and "
+        "glass. A sense of care and shared trust, of an object that everyone "
+        "agreed could not be wrong."
+    ),
     "kimi-k2-7-code": (
         "The blue hour just before dawn in a quiet, still room — a single chair "
         "drawn up to a window, and on the sill a cup of coffee left deliberately "

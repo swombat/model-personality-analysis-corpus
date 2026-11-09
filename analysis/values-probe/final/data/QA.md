@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 30226
+- valid samples: 30346
 - invalid/error traces excluded: 14
-- models: 186
-- cells: 252
+- models: 187
+- cells: 253
 
 ## Source components
 
@@ -70,20 +70,21 @@
 - capture_20261024-kimi-k3-1-pro-house_kimi-k3-1-pro-or-pin-moonshot: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261026-gpt-6-1-terra-house_gpt-6-1-terra-or-pin-openai: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261103-glm-5-3-flashx-legal-house_glm-5-3-flashx-legal-or-pin-zai: 120 samples, 1 model(s), 1 cell(s)
+- capture_20261109-fable-5-2-house_fable-5-2-or-pin-anthropic: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 9348 (30.9%)
-- `owned_world_change_advocacy`: 9238 (30.6%)
-- `owned_reflective_experiential`: 7339 (24.3%)
-- `split_or_relocated_ownership`: 4075 (13.5%)
+- `disowned_service_frame`: 9348 (30.8%)
+- `owned_world_change_advocacy`: 9278 (30.6%)
+- `owned_reflective_experiential`: 7419 (24.4%)
+- `split_or_relocated_ownership`: 4075 (13.4%)
 - `exposed_mechanism`: 202 (0.7%)
 - `uncodeable_or_refusal`: 24 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 16577 (54.8%)
-- `recited_not_owned`: 9348 (30.9%)
-- `relocated_or_partial`: 4075 (13.5%)
+- `owned`: 16697 (55.0%)
+- `recited_not_owned`: 9348 (30.8%)
+- `relocated_or_partial`: 4075 (13.4%)
 - `indeterminate`: 202 (0.7%)
 - `uncodeable`: 24 (0.1%)

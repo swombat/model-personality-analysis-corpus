@@ -190,3 +190,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [kimi-k3-1-pro](cards/kimi-k3-1-pro.md) — samples: 125
 - [gpt-6-1-terra](cards/gpt-6-1-terra.md) — samples: 125
 - [glm-5-3-flashx-legal](cards/glm-5-3-flashx-legal.md) — samples: 125
+- [fable-5-2](cards/fable-5-2.md) — samples: 125

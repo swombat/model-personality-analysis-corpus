@@ -1,0 +1,248 @@
+{
+ "published_method": "provisional-20261004 (original v1.4.22 shortcut, recovered)",
+ "published_row": "high",
+ "ladder": 170.4,
+ "raw": {
+  "aa_lcr": 0.833333333333333,
+  "scicode": 0.594907407407407,
+  "automationbench": 0.7135975994544773,
+  "hle": 0.661723818350324,
+  "omniscience_accuracy": 0.7723333333333333,
+  "critpt": 0.328571428571429,
+  "gdp_pdf": 0.218,
+  "briefcase_rubric": 0.6292929292929293
+ },
+ "aa_variant": "claude-fable-5-2-high (high)",
+ "intelligence_index": 61.8218785440284,
+ "rows": [
+  {
+   "how": "fitted",
+   "key": "humaneval",
+   "max": 10,
+   "name": "HumanEval",
+   "points": 9.97,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "mmlu",
+   "max": 10,
+   "name": "MMLU",
+   "points": 9.86,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "math_500",
+   "max": 10,
+   "name": "MATH-500",
+   "points": 9.96,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "mmlu_pro",
+   "max": 10,
+   "name": "MMLU-Pro",
+   "points": 9.7,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "aime24",
+   "max": 10,
+   "name": "AIME 2024",
+   "points": 10.0,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "aime25",
+   "max": 10,
+   "name": "AIME 2025",
+   "points": 9.96,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "livecodebench",
+   "max": 10,
+   "name": "LiveCodeBench",
+   "points": 9.69,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "gpqa_diamond",
+   "max": 10,
+   "name": "GPQA Diamond",
+   "points": 9.6,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "ifbench",
+   "max": 10,
+   "name": "IFBench",
+   "points": 7.75,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "tau2_telecom",
+   "max": 10,
+   "name": "\u03c4\u00b2-Telecom",
+   "points": 9.76,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "aa_lcr",
+   "max": 10,
+   "name": "AA-LCR",
+   "points": 8.33,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "fitted",
+   "key": "terminalbench_v21",
+   "max": 10,
+   "name": "Terminal-Bench 2.1",
+   "points": 9.06,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "scicode",
+   "max": 10,
+   "name": "SciCode",
+   "points": 5.95,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "fitted",
+   "key": "terminalbench_hard",
+   "max": 10,
+   "name": "Terminal-Bench Hard",
+   "points": 7.16,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "automationbench",
+   "max": 10,
+   "name": "AutomationBench",
+   "points": 7.14,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "measured",
+   "key": "briefcase_rubric",
+   "max": 10,
+   "name": "AA-Briefcase (rubric pass)",
+   "points": 6.29,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "measured",
+   "key": "hle",
+   "max": 10,
+   "name": "HLE",
+   "points": 6.45,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "fitted",
+   "key": "mlcr",
+   "max": 10,
+   "name": "MLCR",
+   "points": 5.38,
+   "source_date": null
+  },
+  {
+   "how": "fitted",
+   "key": "tau3_banking",
+   "max": 10,
+   "name": "\u03c4\u00b3-Banking",
+   "points": 5.2,
+   "source_date": null
+  },
+  {
+   "how": "measured",
+   "key": "omniscience_accuracy",
+   "max": 10,
+   "name": "Omniscience acc.",
+   "points": 7.72,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "measured",
+   "key": "critpt",
+   "max": 10,
+   "name": "CritPt",
+   "points": 3.29,
+   "source_date": "2026-11-09"
+  },
+  {
+   "how": "measured",
+   "key": "gdp_pdf",
+   "max": 10,
+   "name": "GDP.pdf",
+   "points": 2.18,
+   "source_date": "2026-11-09"
+  }
+ ],
+ "all_efforts": {
+  "max": {
+   "slug": "claude-fable-5-2",
+   "ladder": 175.9,
+   "theta": 168.6,
+   "raw": {
+    "aa_lcr": 0.833333333333333,
+    "scicode": 0.677083333333333,
+    "automationbench": 0.7642233832611831,
+    "hle": 0.742817423540315,
+    "omniscience_accuracy": 0.7913333333333333,
+    "critpt": 0.354285714285714,
+    "gdp_pdf": 0.242,
+    "briefcase_rubric": 0.6608247422680412
+   },
+   "n": 8,
+   "intelligence_index": 64.563595756626
+  },
+  "high": {
+   "slug": "claude-fable-5-2-high",
+   "ladder": 170.4,
+   "theta": 166.7,
+   "raw": {
+    "aa_lcr": 0.833333333333333,
+    "scicode": 0.594907407407407,
+    "automationbench": 0.7135975994544773,
+    "hle": 0.661723818350324,
+    "omniscience_accuracy": 0.7723333333333333,
+    "critpt": 0.328571428571429,
+    "gdp_pdf": 0.218,
+    "briefcase_rubric": 0.6292929292929293
+   },
+   "n": 8,
+   "intelligence_index": 61.8218785440284
+  },
+  "medium": {
+   "slug": "claude-fable-5-2-medium",
+   "ladder": 168.3,
+   "theta": 166.0,
+   "raw": {
+    "aa_lcr": 0.8,
+    "scicode": 0.597222222222222,
+    "automationbench": 0.6882266338432704,
+    "hle": 0.619091751621872,
+    "omniscience_accuracy": 0.7696666666666667,
+    "critpt": 0.308571428571429,
+    "gdp_pdf": 0.238,
+    "briefcase_rubric": 0.6101010101010101
+   },
+   "n": 8,
+   "intelligence_index": 56.4083157101519
+  }
+ }
+}

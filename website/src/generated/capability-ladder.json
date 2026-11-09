@@ -30821,6 +30821,196 @@
       "point_variant": null,
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
+    },
+    "fable-5-2": {
+      "ladder": 170.4,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Claude Fable 5.2",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-11-09, High effort row (claude-fable-5-2-high). AA lists Claude Fable 5.2 at max, xhigh, high, medium and low effort; as for Haiku 5.5, Opus 5.5, Sonnet 5.5, GPT-6.1 Sol and GPT-6.1 Terra, the ladder uses the median row, High. AA's default page row is Max; the same method gives 175.9 for the Max row (8 measured) and 168.3 for Medium (8 measured). Each row is scored from its own fields only. The personality capture ran at the provider default, so the High row may not match the captured cell. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.97,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.86,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.7,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.69,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.6,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.75,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "\u03c4\u00b2-Telecom",
+          "points": 9.76,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.33,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 9.06,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 5.95,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 7.16,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 7.14,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 6.29,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 6.45,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 5.38,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "\u03c4\u00b3-Banking",
+          "points": 5.2,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 7.72,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 3.29,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 2.18,
+          "source_date": "2026-11-09"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
     }
   },
   "n_rungs": 22,

@@ -200,6 +200,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "fable-5-2",
+    "safe": "fable-5-2",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/fable-5-2.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "gemini-2.0-flash-001",
     "safe": "gemini-2.0-flash-001",
     "variants": 1,

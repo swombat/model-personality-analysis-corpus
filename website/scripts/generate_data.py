@@ -57,6 +57,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 MODEL_SLUGS = {
     "fable-5": "anthropic/claude-fable-5",
     "fable-5-1": "anthropic/claude-fable-5-1",
+    "fable-5-2": "anthropic/claude-fable-5.2",
     "opus-3": "anthropic/claude-3-opus",
     "opus-4-0": "anthropic/claude-opus-4",
     "opus-4-1": "anthropic/claude-opus-4.1",
@@ -267,6 +268,7 @@ FIRST_PARTY_API_PRICING = {
     "opus-5": (5.00, 25.00, "Anthropic API"),
     "opus-5-5": (4.00, 20.00, "Anthropic API"),
     "fable-5-1": (10.00, 50.00, "Anthropic API"),
+    "fable-5-2": (8.00, 40.00, "Anthropic API"),
     # Gemini API pricing: https://ai.google.dev/gemini-api/docs/pricing (Standard
     # paid tier, read 2026-10-13). OpenRouter's cheapest endpoint is Flex at half
     # price, so the interactive rate is pinned here. Launch price runs through
@@ -412,6 +414,8 @@ def site_slug_from_profile_model(name: str) -> str:
         "anthropic/claude-fable-5": "fable-5",
         "claude-fable-5-1": "fable-5-1",
         "anthropic/claude-fable-5-1": "fable-5-1",
+        "claude-fable-5.2": "fable-5-2",
+        "anthropic/claude-fable-5.2": "fable-5-2",
         "claude-3-opus-20240229": "opus-3",
         "claude-opus-4.0": "opus-4-0",
         "claude-opus-4.1": "opus-4-1",
@@ -505,6 +509,9 @@ def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
         return "Mistral Large 4"
     if slug == "haiku-5-5":
         return "Claude Haiku 5.5"
+    if slug == "fable-5-2":
+        # Siblings display as claude-fable-5 / claude-fable-5-1.
+        return "claude-fable-5-2"
     # Public Qwen pages should use the site slug form (qwen3-max-thinking),
     # not the OpenRouter/provider id form (qwen/qwen3-max-thinking).
     if slug.startswith("qwen"):

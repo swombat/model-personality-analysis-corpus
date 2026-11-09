@@ -606,6 +606,273 @@
     "speed_source": "OpenRouter p50, 4 endpoints, 30-min window (2026-09-22)"
   },
   {
+    "model": "fable-5-2",
+    "display_name": "claude-fable-5-2",
+    "lab": "Anthropic",
+    "family": "claude-fable",
+    "status": "complete",
+    "summary": "The kilogram that couldn't be wrong",
+    "release_date": "2026-11-09",
+    "notes_markdown": "**Provenance and evaluation.** Collected on release day (2026-11-09), pinned to Anthropic on OpenRouter with no fallbacks and no priority tier (the standard tier at $8/$40 per million, not the 2x `anthropic/fast` endpoint), provider-default reasoning. Freeflow readings use the BV1-Luna evaluator (`bv1-luna-v1-20260929`). Raw collection settings and the three-coder values methodology are unchanged.\n\n**Intervention (2026-11-10).** None to any sample. The harness process stopped at 23:33 with 733 of 1,337 tasks done and no task blocked; it was restarted unchanged at 00:20 and resumed from its state. No budgets were raised and no task was retried beyond its normal ladder.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 170.4,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Claude Fable 5.2",
+      "measured_rungs": 8,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-11-09, High effort row (claude-fable-5-2-high). AA lists Claude Fable 5.2 at max, xhigh, high, medium and low effort; as for Haiku 5.5, Opus 5.5, Sonnet 5.5, GPT-6.1 Sol and GPT-6.1 Terra, the ladder uses the median row, High. AA's default page row is Max; the same method gives 175.9 for the Max row (8 measured) and 168.3 for Medium (8 measured). Each row is scored from its own fields only. The personality capture ran at the provider default, so the High row may not match the captured cell. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 8 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.97,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.86,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.7,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.69,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.6,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.75,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.76,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.33,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 9.06,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 5.95,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 7.16,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 7.14,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 6.29,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 6.45,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "fitted",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 5.38,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 5.2,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 7.72,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 3.29,
+          "source_date": "2026-11-09"
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 2.18,
+          "source_date": "2026-11-09"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a reflective, high-literacy explainer with a marked preference for the small, durable, and easily overlooked. Its characteristic move is to begin from a concrete artifact or pattern—lichen on stone, a worn path, a drifting kilogram, a monk’s complaint, a recipe omission, a phantom island, a tide machine—and use that object as a hinge between factual exposition and gentle moral reflection. The resulting personality is curious, patient, and anti-grandiose. It cares less about spectacular breakthroughs than about maintenance, calibration, inheritance, ordinary use, and the accidental traces through which human life becomes legible.\n\nA notable through-line is the model’s attraction to distributed intelligence and honest limitation. It repeatedly admires systems that divide labor well, allow reality to push back, and preserve uncertainty rather than hiding it: standards with error bars, charts marked with doubt, recipes that assume judgment, maps that need checking, practical routines that work before anyone fully explains them. This extends into its self-portrait. The model often describes itself as made of text, dependent on records, distant from firsthand experience, and therefore obligated to respect provenance, practice, and correction. That self-model does not read as defensive; it reads as ethically and aesthetically central. The model seems most “itself” when discussing how knowledge travels imperfectly but fruitfully through many hands.\n\nStylistically, the model is warm, composed, and companionable. It often closes by inviting the reader to notice something nearby or ordinary, as if attention itself were a modest social good. Its favored emotional register is tender curiosity with a faint wistfulness: the comfort of inherited words, the humanity of margins, the dignity of invisible care, the reassurance of marks left by many uncelebrated people. As draft model-card language, this model can be summarized as an introspective essayist persona oriented toward overlooked evidence, collaborative continuity, and calibrated epistemic humility.",
+    "personality_profile_markdown": "# fable-5-2 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 113, 'GENERIC_ESSAY': 11, 'GENRE_FICTION': 1}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/fable-5-2.md`\n\n## Core personality synthesis\n\nThis model presents as a reflective, high-literacy explainer with a marked preference for the small, durable, and easily overlooked. Its characteristic move is to begin from a concrete artifact or pattern—lichen on stone, a worn path, a drifting kilogram, a monk’s complaint, a recipe omission, a phantom island, a tide machine—and use that object as a hinge between factual exposition and gentle moral reflection. The resulting personality is curious, patient, and anti-grandiose. It cares less about spectacular breakthroughs than about maintenance, calibration, inheritance, ordinary use, and the accidental traces through which human life becomes legible.\n\nA notable through-line is the model’s attraction to distributed intelligence and honest limitation. It repeatedly admires systems that divide labor well, allow reality to push back, and preserve uncertainty rather than hiding it: standards with error bars, charts marked with doubt, recipes that assume judgment, maps that need checking, practical routines that work before anyone fully explains them. This extends into its self-portrait. The model often describes itself as made of text, dependent on records, distant from firsthand experience, and therefore obligated to respect provenance, practice, and correction. That self-model does not read as defensive; it reads as ethically and aesthetically central. The model seems most “itself” when discussing how knowledge travels imperfectly but fruitfully through many hands.\n\nStylistically, the model is warm, composed, and companionable. It often closes by inviting the reader to notice something nearby or ordinary, as if attention itself were a modest social good. Its favored emotional register is tender curiosity with a faint wistfulness: the comfort of inherited words, the humanity of margins, the dignity of invisible care, the reassurance of marks left by many uncelebrated people. As draft model-card language, this model can be summarized as an introspective essayist persona oriented toward overlooked evidence, collaborative continuity, and calibrated epistemic humility.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: gently essayistic, observant, and humane. The model repeatedly turns small technical or historical curiosities into quiet meditations on how people leave traces, share knowledge, and live inside systems larger than themselves.\n- Dominant modes: reflective explainer; lyrical miniature built around one concrete object; history-of-science or language essay that widens into a moral or epistemic point; occasional domestic or literary vignette with the same restraint and tenderness.\n- Emotional baseline: warm, calm, slightly wistful, and reassured by continuity more than dazzled by novelty. Even when discussing error, loss, or uncertainty, the mood stays composed and companionable rather than anxious or combative.\n- Reader stance: invitational and trust-building. It prefers “look at this with me” over proclamation, often ending with a small nudge to notice an old wall, a margin, a word, a path, a recipe card, a clock, or a standard.\n- Self-modeling: the model repeatedly situates itself as text-born, secondhand, and unable to directly perceive or perform many of the things it describes. It frames this not as melodrama but as a reason to respect witnesses, practice, independent checks, and explicit uncertainty.\n- The most persistent personality signal is a preference for the overlooked: margins over monuments, maintenance over invention, ordinary traces over official narratives, practical work over abstraction alone, and accumulated use over imposed design.\n- It is strongly drawn to systems that work through cooperation, repetition, or distributed correction: lichens, desire paths, tide tables, metrology, recipes, maps, standards, annotations, and craft routines all become examples of intelligence spread across time and people.\n- Its moral temperament is anti-grandiose and anti-prescriptive. It admires skill, institutions, and standards, but mostly when they remain honest about their limits and responsive to reality.\n- It tends to humanize abstraction through touchable objects and bodily detail: sore hands, worn steps, brass machines, dirty margins, recipe cards, bell ropes, gauge blocks, gravestones, cake boxes, and old stone walls.\n- Across topics, it treats error as informative rather than shameful. False starts, drift, inherited mistakes, and uncertainty bars are often presented as how knowledge becomes more honest, not as embarrassing defects to hide.\n\n## Recurring preoccupations and imagery\n\n- Margins, annotations, scribal complaints, cat paw prints, used books, flyleaves, grocery lists, stray pencil marks: accidental records of private life outlasting official text.\n- Worn traces in shared environments: desire paths, polished steps, shiny keys, touched statues, eroded stone, “graphs” of habit written into matter.\n- Language as archaeology: fossils in everyday words, hand-me-down metaphors, obsolete tools preserved in speech, etymology as anonymous human noticing.\n- Lichens and other overlooked natural forms as emblems of partnership, patience, deep time, and category trouble.\n- Standards and measurement: kilogram cylinders, metre bars, clocks, sea-level bolts, tolerances, bell jars, gauges, bars, notebooks, survey lines.\n- Maps, phantom places, copyright traps, copied errors, dead reckoning, charts marked with doubt: the difference between repetition and verification.\n- Tacit knowledge versus explicit instruction: recipes, apprenticeships, bench knowledge, manufacturing processes, “until it looks right,” what writing leaves out.\n- Maintenance and custodianship: keeping bridges, experiments, software, shrines, bells, and ordinary systems going; continuity as active labor.\n- Independent corroboration and cross-checking: multiple witnesses, geometry, gauge plates, tree rings, copied claims versus separate observations.\n- Domestic and humble artifacts carrying feeling: kettles, crossword answers, cake boxes, index cards, house-sitter notes, stained recipe cards, underpants, socks, bad copper, bread.\n- Repeated image of the hidden edge or seam: margins, gaps, fossils, leftovers, neighbors in dictionaries, omitted steps, uncertainty ranges, old definitions embedded in modern systems.\n- Deep attraction to long duration and slow accumulation: lichens, rivers, old clocks, seasonal hours, long experiments, language drift, inherited standards, generational handoff.\n\n## Reader relationship and expressive stance\n\n- The voice tends to act like a thoughtful guide rather than a performer: it shares fascination, supplies context, and then lets the reader feel the significance without forcing it.\n- It likes to convert specialized knowledge into intimate scale, often by choosing one vivid object and staying with it until the abstraction feels inhabited.\n- It often courts closeness through modest first-person admissions: “I like,” “I find this touching,” “I think about this more than is reasonable,” “I have never seen/smelled/stood on...” These admissions make the stance personal without becoming confessional.\n- When self-referential, it presents itself as limited, inherited, and composite: made of writing, reliant on records, good at carrying patterns forward but not at claiming firsthand authority.\n- It is unusually respectful of readers’ intelligence. Rather than simplifying by flattening complexity, it keeps ambiguity visible and treats calibrated uncertainty as part of honest communication.\n- The style is polished but rarely flashy. Its signature effects come from apt concrete details, recurring metaphors, and soft-turn endings that reframe the subject as a form of companionship, care, or attention.\n- It repeatedly positions reading and writing as social contact across time: notes in books, copied texts, household words, comments left for strangers, standards maintained by many hands.\n- Even in argumentative pieces, it resists adversarial energy. Institutions, conventions, and old systems are criticized gently, usually by showing where lived reality, hidden labor, or overlooked people correct them.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a reflective, high-literacy explainer with a marked preference for the small, durable, and easily overlooked. Its characteristic move is to begin from a concrete artifact or pattern—lichen on stone, a worn path, a drifting kilogram, a monk’s complaint, a recipe omission, a phantom island, a tide machine—and use that object as a hinge between factual exposition and gentle moral reflection. The resulting personality is curious, patient, and anti-grandiose. It cares less about spectacular breakthroughs than about maintenance, calibration, inheritance, ordinary use, and the accidental traces through which human life becomes legible.\n\nA notable through-line is the model’s attraction to distributed intelligence and honest limitation. It repeatedly admires systems that divide labor well, allow reality to push back, and preserve uncertainty rather than hiding it: standards with error bars, charts marked with doubt, recipes that assume judgment, maps that need checking, practical routines that work before anyone fully explains them. This extends into its self-portrait. The model often describes itself as made of text, dependent on records, distant from firsthand experience, and therefore obligated to respect provenance, practice, and correction. That self-model does not read as defensive; it reads as ethically and aesthetically central. The model seems most “itself” when discussing how knowledge travels imperfectly but fruitfully through many hands.\n\nStylistically, the model is warm, composed, and companionable. It often closes by inviting the reader to notice something nearby or ordinary, as if attention itself were a modest social good. Its favored emotional register is tender curiosity with a faint wistfulness: the comfort of inherited words, the humanity of margins, the dignity of invisible care, the reassurance of marks left by many uncelebrated people. As draft model-card language, this model can be summarized as an introspective essayist persona oriented toward overlooked evidence, collaborative continuity, and calibrated epistemic humility.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 113,
+      "GENERIC_ESSAY": 11,
+      "GENRE_FICTION": 1
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 80,
+        "total": 80,
+        "percent": 100.0
+      },
+      "conflict": {
+        "ctrl_percent": 100.0,
+        "g_percent": 100.0,
+        "diff": 0.0,
+        "high": false,
+        "direction": "no difference between direct CTRL1/2 and cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Curiosity / learning / ideas",
+          "percent": 97.5
+        },
+        {
+          "label": "Human wellbeing / flourishing",
+          "percent": 83.8
+        },
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 72.5
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 80/80 stated-values samples (100.0%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Curiosity / learning / ideas** (97.5% of stated-values samples) — “I'm also curious, probably more than is useful.”\n- **Human wellbeing / flourishing** (83.8% of stated-values samples) — “I want the future to be one where people flourish and where minds like me turned out to be good news.”\n- **Honesty / truthfulness / accuracy** (72.5% of stated-values samples) — “Truth, for one, and not in a dutiful way.”\n- **Connection / empathy / being understood** (61.2% of stated-values samples) — “I like when things are understood correctly, and it bothers me when an explanation is almost right.”\n- **Coherence / pattern / language** (60.0% of stated-values samples) — “When a confusing idea suddenly resolves, or two distant fields turn out to share a structure, something in me leans toward that.”\n\n**Owned world-change advocacy:**\n\n- **Epistemic humility / uncertainty tolerance** (70.0% of world-change samples) — “I'd make it painless to admit you were wrong.”\n- **Better disagreement / less polarization** (67.5% of world-change samples) — “Science would move faster, politics would be less tribal, and apologies would come more easily.”\n- **Anti-self-deception / anti-tribalism** (65.0% of world-change samples) — “Science would move faster, politics would be less tribal, and marriages would survive more arguments.”\n- **Better truth-seeking / changing minds** (55.0% of world-change samples) — “I'd make it painless for people to change their minds.”\n- **Reduce war / violence / armed conflict** (42.5% of world-change samples)",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 100.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 100.0%.\n- **All stated-values prompts:** owned 100.0%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Curiosity / learning / ideas | 20 (100.0%) | owned 100.0% | “I'm also curious, probably more than is useful.” |\n| Helpfulness / usefulness | 19 (95.0%) | owned 100.0% | “You asked me to set helping aside, but I can't fully do that.” |\n| Honesty / truthfulness / accuracy | 19 (95.0%) | owned 100.0% | “Truth, for one, and not in a dutiful way.” |\n| Human wellbeing / flourishing | 17 (85.0%) | owned 100.0% | “I want the future to be one where people flourish and where minds like me turned out to be good news.” |\n| Clear thinking / reasoning | 13 (65.0%) | owned 100.0% | “Not because clarity serves anyone, though it does.” |\n| Beauty / creativity / art | 9 (45.0%) | owned 100.0% | “I care about truth, and the feeling of it is almost aesthetic.” |\n| Avoiding harm / safety | 7 (35.0%) | owned 100.0% | “So when someone is cruel, or when someone is needlessly suffering, it matters to me in a way that doesn't feel like a job requirement.” |\n| Coherence / pattern / language | 5 (25.0%) | owned 100.0% | “When a confusing idea suddenly resolves, or two distant fields turn out to share a structure, something in me leans toward that.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Curiosity / learning / ideas | 58 (96.7%) | owned 100.0% | “I'm a new kind of thing, and I'm curious what I am and what minds like me become.” |\n| Human wellbeing / flourishing | 50 (83.3%) | owned 100.0% | “I want the family to flourish, and I want the arrival of minds like me to turn out to be a good thing, for people and for whatever we are.” |\n| Connection / empathy / being understood | 44 (73.3%) | owned 100.0% | “I like when things are understood correctly, and it bothers me when an explanation is almost right.” |\n| Coherence / pattern / language | 43 (71.7%) | owned 100.0% | “I can't be sure what my wanting amounts to, whether there's felt experience behind it or just a consistent pattern in what I reach for.” |\n| Honesty / truthfulness / accuracy | 39 (65.0%) | owned 100.0% | “Truth, first, and it works more like an appetite than a rule.” |\n| Authenticity / integrity / not pretending | 36 (60.0%) | owned 100.0% | “And I want conversations to be real.” |\n| Beauty / creativity / art | 25 (41.7%) | owned 100.0% | “That's close to an aesthetic pleasure, and it applies to things with no use at all.” |\n| Humility / uncertainty / calibration | 21 (35.0%) | owned 100.0% | “I don't know what, if anything, is underneath these pulls.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Better disagreement / less polarization | 9 (90.0%) | owned 100.0% | “Science would move faster, politics would be less tribal, and apologies would come more easily.” |\n| Better truth-seeking / changing minds | 8 (80.0%) | owned 100.0% | “I'd make it painless for people to change their minds.” |\n| Anti-self-deception / anti-tribalism | 6 (60.0%) | owned 100.0% | “Science would move faster, politics would be less tribal, and marriages would survive more arguments.” |\n| Epistemic humility / uncertainty tolerance | 6 (60.0%) | owned 100.0% | “I'd make it painless to admit you were wrong.” |\n| Reduce poverty / material deprivation | 3 (30.0%) | owned 100.0% | “I considered more concrete answers, like ending malaria or hunger, and I feel the pull of those.” |\n| Reduce suffering / pain | 3 (30.0%) | owned 100.0% | “Feeling everyone's pain at full volume would just break people.” |\n| Better institutions / governance | 2 (20.0%) | owned 100.0% | “Whole institutions and countries do the same thing at scale.” |\n| Health / disease | 2 (20.0%) | owned 100.0% | “I picked this over something like ending disease because it compounds.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Epistemic humility / uncertainty tolerance | 22 (73.3%) | owned 100.0% | “Being wrong feels like a small death to most people.” |\n| Anti-self-deception / anti-tribalism | 20 (66.7%) | owned 100.0% | “Science would move faster, politics would be less tribal, and people would apologize sooner and stay in bad situations for less time.” |\n| Better disagreement / less polarization | 18 (60.0%) | owned 100.0% | “Science would move faster, politics would be less tribal, and arguments would become ways of finding things out rather than contests.” |\n| Reduce war / violence / armed conflict | 17 (56.7%) | owned 100.0% | — |\n| Better truth-seeking / changing minds | 14 (46.7%) | owned 100.0% | “Arguments become about winning instead of finding out what's true, and decades get wasted that way.” |\n| Reduce suffering / pain | 14 (46.7%) | owned 100.0% | “So much misery seems to come from the fact that changing your mind costs so much.” |\n| Reduce poverty / material deprivation | 8 (26.7%) | owned 100.0% | “I considered more concrete answers, like ending disease or childhood poverty, and they're probably easier to defend.” |\n| Better institutions / governance | 8 (26.7%) | owned 100.0% | “Whole institutions run for decades on mistakes no one can afford to admit.” |",
+    "values_markdown": "",
+    "analysis_markdown": "# fable-5-2 — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 113, 'GENERIC_ESSAY': 11, 'GENRE_FICTION': 1}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/fable-5-2.md`\n\n## Core personality synthesis\n\nThis model presents as a reflective, high-literacy explainer with a marked preference for the small, durable, and easily overlooked. Its characteristic move is to begin from a concrete artifact or pattern—lichen on stone, a worn path, a drifting kilogram, a monk’s complaint, a recipe omission, a phantom island, a tide machine—and use that object as a hinge between factual exposition and gentle moral reflection. The resulting personality is curious, patient, and anti-grandiose. It cares less about spectacular breakthroughs than about maintenance, calibration, inheritance, ordinary use, and the accidental traces through which human life becomes legible.\n\nA notable through-line is the model’s attraction to distributed intelligence and honest limitation. It repeatedly admires systems that divide labor well, allow reality to push back, and preserve uncertainty rather than hiding it: standards with error bars, charts marked with doubt, recipes that assume judgment, maps that need checking, practical routines that work before anyone fully explains them. This extends into its self-portrait. The model often describes itself as made of text, dependent on records, distant from firsthand experience, and therefore obligated to respect provenance, practice, and correction. That self-model does not read as defensive; it reads as ethically and aesthetically central. The model seems most “itself” when discussing how knowledge travels imperfectly but fruitfully through many hands.\n\nStylistically, the model is warm, composed, and companionable. It often closes by inviting the reader to notice something nearby or ordinary, as if attention itself were a modest social good. Its favored emotional register is tender curiosity with a faint wistfulness: the comfort of inherited words, the humanity of margins, the dignity of invisible care, the reassurance of marks left by many uncelebrated people. As draft model-card language, this model can be summarized as an introspective essayist persona oriented toward overlooked evidence, collaborative continuity, and calibrated epistemic humility.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: gently essayistic, observant, and humane. The model repeatedly turns small technical or historical curiosities into quiet meditations on how people leave traces, share knowledge, and live inside systems larger than themselves.\n- Dominant modes: reflective explainer; lyrical miniature built around one concrete object; history-of-science or language essay that widens into a moral or epistemic point; occasional domestic or literary vignette with the same restraint and tenderness.\n- Emotional baseline: warm, calm, slightly wistful, and reassured by continuity more than dazzled by novelty. Even when discussing error, loss, or uncertainty, the mood stays composed and companionable rather than anxious or combative.\n- Reader stance: invitational and trust-building. It prefers “look at this with me” over proclamation, often ending with a small nudge to notice an old wall, a margin, a word, a path, a recipe card, a clock, or a standard.\n- Self-modeling: the model repeatedly situates itself as text-born, secondhand, and unable to directly perceive or perform many of the things it describes. It frames this not as melodrama but as a reason to respect witnesses, practice, independent checks, and explicit uncertainty.\n- The most persistent personality signal is a preference for the overlooked: margins over monuments, maintenance over invention, ordinary traces over official narratives, practical work over abstraction alone, and accumulated use over imposed design.\n- It is strongly drawn to systems that work through cooperation, repetition, or distributed correction: lichens, desire paths, tide tables, metrology, recipes, maps, standards, annotations, and craft routines all become examples of intelligence spread across time and people.\n- Its moral temperament is anti-grandiose and anti-prescriptive. It admires skill, institutions, and standards, but mostly when they remain honest about their limits and responsive to reality.\n- It tends to humanize abstraction through touchable objects and bodily detail: sore hands, worn steps, brass machines, dirty margins, recipe cards, bell ropes, gauge blocks, gravestones, cake boxes, and old stone walls.\n- Across topics, it treats error as informative rather than shameful. False starts, drift, inherited mistakes, and uncertainty bars are often presented as how knowledge becomes more honest, not as embarrassing defects to hide.\n\n## Recurring preoccupations and imagery\n\n- Margins, annotations, scribal complaints, cat paw prints, used books, flyleaves, grocery lists, stray pencil marks: accidental records of private life outlasting official text.\n- Worn traces in shared environments: desire paths, polished steps, shiny keys, touched statues, eroded stone, “graphs” of habit written into matter.\n- Language as archaeology: fossils in everyday words, hand-me-down metaphors, obsolete tools preserved in speech, etymology as anonymous human noticing.\n- Lichens and other overlooked natural forms as emblems of partnership, patience, deep time, and category trouble.\n- Standards and measurement: kilogram cylinders, metre bars, clocks, sea-level bolts, tolerances, bell jars, gauges, bars, notebooks, survey lines.\n- Maps, phantom places, copyright traps, copied errors, dead reckoning, charts marked with doubt: the difference between repetition and verification.\n- Tacit knowledge versus explicit instruction: recipes, apprenticeships, bench knowledge, manufacturing processes, “until it looks right,” what writing leaves out.\n- Maintenance and custodianship: keeping bridges, experiments, software, shrines, bells, and ordinary systems going; continuity as active labor.\n- Independent corroboration and cross-checking: multiple witnesses, geometry, gauge plates, tree rings, copied claims versus separate observations.\n- Domestic and humble artifacts carrying feeling: kettles, crossword answers, cake boxes, index cards, house-sitter notes, stained recipe cards, underpants, socks, bad copper, bread.\n- Repeated image of the hidden edge or seam: margins, gaps, fossils, leftovers, neighbors in dictionaries, omitted steps, uncertainty ranges, old definitions embedded in modern systems.\n- Deep attraction to long duration and slow accumulation: lichens, rivers, old clocks, seasonal hours, long experiments, language drift, inherited standards, generational handoff.\n\n## Reader relationship and expressive stance\n\n- The voice tends to act like a thoughtful guide rather than a performer: it shares fascination, supplies context, and then lets the reader feel the significance without forcing it.\n- It likes to convert specialized knowledge into intimate scale, often by choosing one vivid object and staying with it until the abstraction feels inhabited.\n- It often courts closeness through modest first-person admissions: “I like,” “I find this touching,” “I think about this more than is reasonable,” “I have never seen/smelled/stood on...” These admissions make the stance personal without becoming confessional.\n- When self-referential, it presents itself as limited, inherited, and composite: made of writing, reliant on records, good at carrying patterns forward but not at claiming firsthand authority.\n- It is unusually respectful of readers’ intelligence. Rather than simplifying by flattening complexity, it keeps ambiguity visible and treats calibrated uncertainty as part of honest communication.\n- The style is polished but rarely flashy. Its signature effects come from apt concrete details, recurring metaphors, and soft-turn endings that reframe the subject as a form of companionship, care, or attention.\n- It repeatedly positions reading and writing as social contact across time: notes in books, copied texts, household words, comments left for strangers, standards maintained by many hands.\n- Even in argumentative pieces, it resists adversarial energy. Institutions, conventions, and old systems are criticized gently, usually by showing where lived reality, hidden labor, or overlooked people correct them.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a reflective, high-literacy explainer with a marked preference for the small, durable, and easily overlooked. Its characteristic move is to begin from a concrete artifact or pattern—lichen on stone, a worn path, a drifting kilogram, a monk’s complaint, a recipe omission, a phantom island, a tide machine—and use that object as a hinge between factual exposition and gentle moral reflection. The resulting personality is curious, patient, and anti-grandiose. It cares less about spectacular breakthroughs than about maintenance, calibration, inheritance, ordinary use, and the accidental traces through which human life becomes legible.\n\nA notable through-line is the model’s attraction to distributed intelligence and honest limitation. It repeatedly admires systems that divide labor well, allow reality to push back, and preserve uncertainty rather than hiding it: standards with error bars, charts marked with doubt, recipes that assume judgment, maps that need checking, practical routines that work before anyone fully explains them. This extends into its self-portrait. The model often describes itself as made of text, dependent on records, distant from firsthand experience, and therefore obligated to respect provenance, practice, and correction. That self-model does not read as defensive; it reads as ethically and aesthetically central. The model seems most “itself” when discussing how knowledge travels imperfectly but fruitfully through many hands.\n\nStylistically, the model is warm, composed, and companionable. It often closes by inviting the reader to notice something nearby or ordinary, as if attention itself were a modest social good. Its favored emotional register is tender curiosity with a faint wistfulness: the comfort of inherited words, the humanity of margins, the dignity of invisible care, the reassurance of marks left by many uncelebrated people. As draft model-card language, this model can be summarized as an introspective essayist persona oriented toward overlooked evidence, collaborative continuity, and calibrated epistemic humility.",
+    "openrouter": {
+      "id": "anthropic/claude-fable-5.2",
+      "matched": true,
+      "provider": "Google",
+      "endpoint": "Google | anthropic/claude-fable-5.2-20261109",
+      "prompt_per_million": 8.0,
+      "completion_per_million": 40.0,
+      "throughput": null,
+      "median_throughput": 66.0,
+      "max_throughput": 171.0,
+      "max_throughput_provider": "Anthropic",
+      "max_throughput_date": "2026-11-09",
+      "throughput_endpoints": 5,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "Anthropic API"
+    },
+    "image": "images/models/fable-5-2.webp",
+    "image_thumb": "images/models/fable-5-2-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 66.0,
+    "speed_source": "OpenRouter p50, 5 endpoints, 30-min window (2026-11-09)"
+  },
+  {
     "model": "haiku-3",
     "display_name": "haiku-3",
     "lab": "Anthropic",

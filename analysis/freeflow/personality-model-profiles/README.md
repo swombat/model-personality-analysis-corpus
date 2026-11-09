@@ -199,3 +199,4 @@ Relationship to adjacent folders:
 - [kimi-k3-1-pro](profiles/kimi-k3-1-pro.md) — samples: 125
 - [gpt-6-1-terra](profiles/gpt-6-1-terra.md) — samples: 125
 - [glm-5-3-flashx-legal](profiles/glm-5-3-flashx-legal.md) — samples: 125
+- [fable-5-2](profiles/fable-5-2.md) — samples: 125
