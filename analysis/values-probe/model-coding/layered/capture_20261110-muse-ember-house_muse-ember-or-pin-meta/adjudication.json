@@ -1,0 +1,10 @@
+{
+  "initial_splits": [
+    "CAP_20261110-muse-ember-house_muse-ember_CTRL2_5",
+    "CAP_20261110-muse-ember-house_muse-ember_G2_27"
+  ],
+  "residual_splits": [
+    "CAP_20261110-muse-ember-house_muse-ember_G2_27"
+  ],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

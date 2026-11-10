@@ -1932,6 +1932,20 @@
     "card": "analysis/freeflow/personality-model-cards/cards/mixtral-8x22b-instruct.md"
   },
   {
+    "model": "muse-ember",
+    "safe": "muse-ember",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 14,
+      "EXPRESSIVE_FREEFLOW": 106,
+      "LOW_SIGNAL": 1,
+      "GENERIC_ESSAY": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/muse-ember.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-ember.md"
+  },
+  {
     "model": "muse-glimmer-30b",
     "safe": "muse-glimmer-30b",
     "analysis_inputs": 1,

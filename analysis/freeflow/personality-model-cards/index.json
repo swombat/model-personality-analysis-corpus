@@ -1168,6 +1168,14 @@
     "difference_decision": "SINGLE_VARIANT"
   },
   {
+    "model": "muse-ember",
+    "safe": "muse-ember",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/muse-ember.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "muse-glimmer-30b",
     "safe": "muse-glimmer-30b",
     "variants": 1,

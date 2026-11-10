@@ -200,3 +200,4 @@ Relationship to adjacent folders:
 - [gpt-6-1-terra](profiles/gpt-6-1-terra.md) — samples: 125
 - [glm-5-3-flashx-legal](profiles/glm-5-3-flashx-legal.md) — samples: 125
 - [fable-5-2](profiles/fable-5-2.md) — samples: 125
+- [muse-ember](profiles/muse-ember.md) — samples: 125

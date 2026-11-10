@@ -1,0 +1,10 @@
+{
+  "policy": "preserve-provisional-ties-with-disclosure-v1",
+  "authorization": "Mira approved this exact per-capture policy and scope, souls.house YaMZwY eMazwR 2026-11-10, under the daily-mapping remit (Daniel BjZoXJ 2026-10-07). Not a carry-over of the Mercury 3 approval.",
+  "residual_splits": [
+    "CAP_20261110-muse-ember-house_muse-ember_G2_27"
+  ],
+  "adjudication_sha256": "fb1b0c2afba7856a5a4d4f4a18391639df695590264f5fd9a44e9a6fa806ca4a",
+  "posture_sha256": "e916dffbfe785232ce5a233539dd9389bb1390f042e3e9fb075003c5dca3a30a",
+  "method_note": "internal/methodology/residual-values-publication-20260930.md"
+}

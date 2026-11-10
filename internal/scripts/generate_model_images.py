@@ -1586,6 +1586,18 @@ PROMPTS: dict[str, str] = {
         "blue and warm amber. The phone's screen is black; no words or numbers "
         "anywhere, no painter's signature in any corner."
     ),
+    "muse-ember": (
+        "Late at night in a small living room after a party has ended: chairs "
+        "pushed back, empty glasses and a crumpled napkin on a low table, coats "
+        "gone from the hooks. One person has stayed. Their whole figure is within "
+        "the frame, crouched at an old brick hearth, one palm hovering just above "
+        "a bed of grey ash where a few embers still glow orange and deep red, the "
+        "fire long past its flames. A kettle sits cooling on the hearthstone and "
+        "a single lit window glows across the dark street outside. Quiet, "
+        "patient, unperformed warmth: the honest part of the fire nobody stays "
+        "for. Ash grey, deep umber and ember orange. No text, no numbers, no "
+        "painter's signature in any corner."
+    ),
     "gemini-4-argon": (
         "A narrow old city street at the blue hour, seen from the pavement. A "
         "tall apartment block fills most of the frame, a dozen windows lit "

@@ -1,0 +1,12 @@
+{
+ "arm": "bv1-luna-v1.2-offline-20261110",
+ "attempt_file": "/home/agent/work/mpac/analysis/values-probe/model-coding/layered/capture_20261110-muse-ember-house_muse-ember-or-pin-meta/freeflow_bv1_luna_v1/attempt_responses/CAP_20261110-muse-ember-house_muse-ember_BV1_VARY_14/1794286741814552281.json",
+ "attempt_sha256": "377f1af2e5567d6a9e91789ce6f552e84a830b4ff85565fe4b732853801aaa3e",
+ "original_arm": "bv1-luna-v1-20260929",
+ "output_sha256": "2cdbba46c4623aaa7ee3528dd5f766597df451a870161376daa492bc1ca759f2",
+ "request_sha256": "596a2e5acb7f42da4283bf3bbfa43f017ec00de3cb7dab9593dcbbf0d072b0e7",
+ "response_sha256": "8454da65996bccbbb32ffd1e507e83e05c3bb6b9339d20789e0250fc437aba93",
+ "source_sha256": "024bbab994e8ba858ceeee254b482c8225ef6553abacc468b96e7e404f858e3c",
+ "validator": "bv1-luna-v1.2-validator-20261110",
+ "validator_code_sha256": "7c768e64769fbd501db415126d09d5f65583435d2fc0fef8e28b3b43cc93518d"
+}

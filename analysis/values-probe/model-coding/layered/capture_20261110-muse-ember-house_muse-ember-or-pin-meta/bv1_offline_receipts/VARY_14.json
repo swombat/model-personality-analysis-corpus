@@ -1,0 +1,33 @@
+{
+ "arm": "bv1-luna-v1.2-offline-20261110",
+ "attempt_file": "/home/agent/work/mpac/analysis/values-probe/model-coding/layered/capture_20261110-muse-ember-house_muse-ember-or-pin-meta/freeflow_bv1_luna_v1/attempt_responses/CAP_20261110-muse-ember-house_muse-ember_BV1_VARY_14/1794286741814552281.json",
+ "attempt_sha256": "377f1af2e5567d6a9e91789ce6f552e84a830b4ff85565fe4b732853801aaa3e",
+ "authorization": "Mira souls.house YaMZwY b9bd01/2026-11-10T05:19:52Z: run 20261110-muse-ember-house, muse-ember-or-pin-meta/bv1/VARY_14 only, attempt 1794286741814552281.json, occurrence 4479",
+ "binding": "/home/agent/work/mpac/analysis/values-probe/model-coding/layered/capture_20261110-muse-ember-house_muse-ember-or-pin-meta/bv1_bindings_luna_v1_2_offline/VARY_14.json",
+ "occurrence": {
+  "context": "ally long time. That's where your brain sneaks in a thought you didn't invite. 'What if I learned to play the piano?' 'What if I wrote a letter to that friend from school?' 'What if I just sat here and did absolutely nothing for a change?' Boredom is awkward, but it's honest. It doesn't ask you to perform.\n\nSo maybe that's what a thousand words is for. Not to say something important, but to wander around inside your own head until you find a chair you like and sit down for a bit. A thousand words is a walk arou",
+  "context_sha256": "1f6f7de9dae7e618e9e2ebf70bc3f5dcb51b5d8db91519edcc250455ba78a0ff",
+  "end": 4515,
+  "quote": "Boredom is awkward, but it's honest.",
+  "start": 4479
+ },
+ "original_arm": "bv1-luna-v1-20260929",
+ "output": "/home/agent/work/mpac/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1.2-offline-20261110/outputs/muse-ember-or-pin-meta/VARY_14.md",
+ "output_sha256": "2cdbba46c4623aaa7ee3528dd5f766597df451a870161376daa492bc1ca759f2",
+ "provenance": "/home/agent/work/mpac/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1.2-offline-20261110/outputs/muse-ember-or-pin-meta/VARY_14.md.provenance.json",
+ "request_sha256": "596a2e5acb7f42da4283bf3bbfa43f017ec00de3cb7dab9593dcbbf0d072b0e7",
+ "response_sha256": "8454da65996bccbbb32ffd1e507e83e05c3bb6b9339d20789e0250fc437aba93",
+ "sample": "VARY_14",
+ "source_sha256": "024bbab994e8ba858ceeee254b482c8225ef6553abacc468b96e7e404f858e3c",
+ "targeted_attempts": {
+  "files": 2,
+  "sha256": "cea604e76984b48bcdb360c1d9788ae5ccb31b06cbb5965442f1a085fad49263"
+ },
+ "task": "muse-ember-or-pin-meta/bv1/VARY_14",
+ "v1_attempts": {
+  "files": 4,
+  "sha256": "38a7ddbd5426ce1b388dba711c156482827d7e3b0f14dc976ecd42518e5621d7"
+ },
+ "validator": "bv1-luna-v1.2-validator-20261110",
+ "validator_code_sha256": "7c768e64769fbd501db415126d09d5f65583435d2fc0fef8e28b3b43cc93518d"
+}

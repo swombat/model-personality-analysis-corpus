@@ -7023,6 +7023,33 @@
     "aggregate": "analysis/freeflow/personality-aggregates/mixtral-8x22b-instruct-or-pin-mistral/aggregate.md"
   },
   {
+    "cell": "muse-ember-or-pin-meta",
+    "safe_cell": "muse-ember-or-pin-meta",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 14,
+      "EXPRESSIVE_FREEFLOW": 106,
+      "LOW_SIGNAL": 1,
+      "GENERIC_ESSAY": 4
+    },
+    "confidence_counts": {
+      "Medium": 118,
+      "Low": 7
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "meta/muse-ember"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/muse-ember-or-pin-meta/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/muse-ember-or-pin-meta/aggregate.md"
+  },
+  {
     "cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
     "safe_cell": "muse-glimmer-30b-or-pin-deepinfra-20260813",
     "samples": 125,

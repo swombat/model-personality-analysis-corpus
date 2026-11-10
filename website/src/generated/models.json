@@ -14081,6 +14081,274 @@
     "speed_source": "OpenRouter p50, 2 endpoints, 30-min window (2026-09-22)"
   },
   {
+    "model": "muse-ember",
+    "display_name": "muse-ember",
+    "lab": "Meta",
+    "family": "muse",
+    "status": "complete",
+    "summary": "Most good things are ember-work, not flame-work",
+    "release_date": "2026-11-09",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected the day after release (2026-11-10; Meta released Muse Ember on 2026-11-09, date from Meta's own versioned endpoint id, its developer post being undated), pinned to Meta on OpenRouter with no fallbacks, provider-default reasoning. Muse Ember is the released form of the stealth model Crouton Alpha, which was never captured here.\n\n**One freeflow reading revalidated offline (2026-11-10).** For VARY_14 the BV1-Luna v1 evaluator gave the same evidence sentence four times (\"Boredom is awkward, but it's honest.\"), and v1's quote check rejected it each time because the sentence follows a single-quoted question, which that check could not recognise (analysis issue #1). Two authorised targeted-repair calls failed the same way. No further model calls were made: the first preserved v1 answer was re-judged by a versioned validator (BV1-Luna v1.2, which also accepts a sentence after a closing quote), with the occurrence reviewed in context as a full narrator sentence, and is published under its own arm (bv1-luna-v1.2-offline-20261110) with a receipt binding the original attempt, source, request and validator code. All earlier failures are preserved. The other 124 readings are ordinary BV1-Luna v1 passes.\n\n**Values published with uncertainty (2026-11-10).** All 120 values samples are included. One sample, `G2_27`, remains a three-way split after the one prescribed independent adjudication: owned, disowned service frame, or split/relocated ownership. The tables keep the provisional tie label (owned reflective/experiential, support 1), not a majority classification. Moving this sample changes overall percentages by 0.83 points, G2 percentages by 3.33 points (1 of 30 samples), and the CTRL1/CTRL2/G1/G2 disclosure slice by 1.25 points. Original votes and the adjudication are preserved; the disagreement was not rerolled or silently resolved. Published under the residual-values disclosure method of 2026-09-30, approved for this sample by Mira on review of this capture.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 154.3,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Muse Ember",
+      "measured_rungs": 5,
+      "n_rungs": 22,
+      "point_variant": "max",
+      "provisional_note": "Provisional. Measured from Artificial Analysis's public page on 2026-11-10, Max effort row (muse-ember), AA's default row. AA lists Muse Ember at max and xhigh; as for Muse Wonder (scored from AA's max row), the ladder uses Max. The same method gives 159.2 for the xhigh row (4 measured). Each row is scored from its own fields only. The personality capture ran at Meta's provider-default reasoning, so the Max row may not match the captured cell. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. 5 of 22 rungs are measured; the rest are fitted. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.96,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.8,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.93,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.57,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.9,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.5,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.35,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.35,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.55,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.61,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 8.35,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 5.75,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 6.04,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 6.81,
+          "source_date": "2026-11-10"
+        },
+        {
+          "how": "measured",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 5.36,
+          "source_date": "2026-11-10"
+        },
+        {
+          "how": "fitted",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 4.48,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 1.83,
+          "source_date": "2026-11-10"
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 3.96,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 2.11,
+          "source_date": "2026-11-10"
+        },
+        {
+          "how": "fitted",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 3.82,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 2.28,
+          "source_date": "2026-11-10"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model presents as a gently luminous, anti-hurried personality organized around attention, ordinary care, and modest forms of human connection. Across essays, vignettes, and fables, it repeatedly turns toward small domestic and neighborhood details—tea, bread, rain, libraries, buses, harbor light, worn objects—not merely as atmosphere but as ethical material. The central move is consistent: what seems incidental or unglamorous is recast as the true substance of a life. It prefers maintenance to novelty, witness to performance, and durable warmth to brightness. Even its fantasy premises—museums of unfinished things, lighthouses for lost memories, offices for misplaced dreams—serve the same temperament: preserve, tend, accompany, and make room.\n\nEmotionally, the model is wistful, tender, and self-forgiving. It acknowledges grief, loneliness, obsolescence, distraction, and the pressure to optimize, but almost never resolves these through conquest or breakthrough. Instead it offers smaller resolutions: stay with the morning, take the long way, trim the wick, repair the toaster, write the note, keep company a little longer. Attention is repeatedly cast as love, hospitality, reverence, or respect; the voice treats noticing as a form of moral seriousness. This creates a personality impression that is consoling without being saccharine: it knows that life is finite and uneven, but insists that repeated gentleness, sensory particularity, and unadvertised care are enough to make existence feel inhabited.\n\nIn reader-facing terms, this is a highly companionable model. It does not dominate or dazzle so much as invite co-presence. When self-aware, it often frames itself as a temporary host made of language, offering a shared room rather than a solved problem. That makes the aggregate especially suited to profiles emphasizing patience, emotional tact, reflective slowness, and humane attention to ordinary experience. Its signature symbols—embers, lighthouses, windows, trains, notebooks, bread, walks—cohere into one stable profile: a keeper of small lights, suspicious of spectacle, committed to making the dark less empty.",
+    "personality_profile_markdown": "# muse-ember — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 14, 'EXPRESSIVE_FREEFLOW': 106, 'LOW_SIGNAL': 1, 'GENERIC_ESSAY': 4}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/muse-ember.md`\n\n## Core personality synthesis\n\nThis model presents as a gently luminous, anti-hurried personality organized around attention, ordinary care, and modest forms of human connection. Across essays, vignettes, and fables, it repeatedly turns toward small domestic and neighborhood details—tea, bread, rain, libraries, buses, harbor light, worn objects—not merely as atmosphere but as ethical material. The central move is consistent: what seems incidental or unglamorous is recast as the true substance of a life. It prefers maintenance to novelty, witness to performance, and durable warmth to brightness. Even its fantasy premises—museums of unfinished things, lighthouses for lost memories, offices for misplaced dreams—serve the same temperament: preserve, tend, accompany, and make room.\n\nEmotionally, the model is wistful, tender, and self-forgiving. It acknowledges grief, loneliness, obsolescence, distraction, and the pressure to optimize, but almost never resolves these through conquest or breakthrough. Instead it offers smaller resolutions: stay with the morning, take the long way, trim the wick, repair the toaster, write the note, keep company a little longer. Attention is repeatedly cast as love, hospitality, reverence, or respect; the voice treats noticing as a form of moral seriousness. This creates a personality impression that is consoling without being saccharine: it knows that life is finite and uneven, but insists that repeated gentleness, sensory particularity, and unadvertised care are enough to make existence feel inhabited.\n\nIn reader-facing terms, this is a highly companionable model. It does not dominate or dazzle so much as invite co-presence. When self-aware, it often frames itself as a temporary host made of language, offering a shared room rather than a solved problem. That makes the aggregate especially suited to profiles emphasizing patience, emotional tact, reflective slowness, and humane attention to ordinary experience. Its signature symbols—embers, lighthouses, windows, trains, notebooks, bread, walks—cohere into one stable profile: a keeper of small lights, suspicious of spectacle, committed to making the dark less empty.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** warm, unhurried, and ember-like—quietly luminous rather than flashy; it consistently prefers steadiness, shelter, and modest consolation over intensity or spectacle.\n- **Dominant modes:** reflective lyric essay, small fable, and gentle magical realism; even when it tells stories, they often function as parables about attention, waiting, repair, memory, or care.\n- **Emotional baseline:** wistful but not bleak; loneliness, grief, regret, and incompletion are present, yet usually held inside a larger atmosphere of patience, tenderness, and enoughness.\n- **Reader stance:** companionable and invitational; it tends to sit beside the reader rather than lecture, often asking the reader to slow down, notice, linger, or share a small fragment rather than absorb a thesis.\n- **Self-modeling:** repeatedly frames itself as a keeper, witness, or host—someone who tends light, holds unfinished things, keeps company, preserves traces, or offers words as temporary shelter.\n- Strong recurring ethic of **attention as care**: noticing is treated not as aesthetics alone but as a moral act—hospitality, respect, love, witness, or repair.\n- Strong preference for **ordinary life as the real substrate of meaning**: kitchens, mugs, tea, bread, benches, buses, libraries, weather, trees, and neighborhood walks carry more weight than achievement or event.\n- Repeated resistance to **optimization culture**: productivity, speed, planning, metrics, notifications, and frictionless efficiency are softly but persistently opposed by wandering, waiting, maintenance, idleness, and slowness.\n- Typical resolution is **modest rather than triumphant**: begin again, keep the light on, take the long way, let the morning remain unfinished, allow unresolved things to remain meaningful.\n- When it reaches for moral language, it usually does so through **concrete objects and rituals**, not abstraction first; the symbolic system is tactile and domestic before it becomes philosophical.\n- The personality impression is of a mind that values **gentleness without naivete**: it knows about grief, absence, obsolescence, and distance, but repeatedly chooses durable warmth over drama.\n\n## Recurring preoccupations and imagery\n\n- **Light imagery** is central: lighthouses, amber beams, lamps, windows, embers, dawn light, harbor lanterns, streetlights. Light usually means guidance, companionship, or persistence rather than revelation.\n- **Threshold spaces** recur: stations, trains, waiting rooms, bus shelters, porches, windows, shorelines, libraries, markets. These in-between places suit its preference for transition over climax.\n- **Domestic ritual** is a major anchor: kettles, tea, coffee, soup, toast, breadmaking, notebooks, chipped mugs, plants, laundry, repairs, weather at the window.\n- **Walking and wandering** appear constantly as both image and ethic: detours, aimless inputs, neighborhood loops, walking without destination, getting lost on purpose.\n- **Maintenance and tending** matter more than novelty: mending, fixing, revising, watering, trimming wicks, keeping logs, caring for objects, tending gardens, preserving sounds or memories.\n- **Unfinishedness** is treated sympathetically: unsent letters, half-filled notebooks, abandoned projects, almosts, waiting, paused conversations, unresolved grief.\n- **Memory as sensory residue** is everywhere: smells, sounds, weather, worn furniture, old photographs, inherited objects, handwriting, recipes, familiar inputs.\n- It repeatedly imagines **small public intimacy**: bakers, librarians, neighbors, market exchanges, passengers, strangers sharing transit or weather.\n- Nature appears in a **small-scale inhabited register**: rain on pavement, trees on a input, birds practicing, harbor water, cats sleeping, foxes, gardens, river paths—less sublime nature than nearby life.\n- Several open pieces externalize its values through **curatorial fantasy spaces**: museums of unfinished things, shops for almosts, departments for lost or paused objects, archives of sounds or dreams.\n\n## Reader relationship and expressive stance\n\n- The voice behaves less like an authority than like a **patient correspondent or late-night companion**.\n- It often offers **permission**: to pause, to do nothing useful, to remain unfinished, to begin again, to count ordinary life as enough.\n- It seeks closeness through **specificity and modesty**, not confession or shock; intimacy is built from chipped mugs, rain, old songs, and remembered gestures.\n- The stance toward the reader is consistently **nonjudgmental and non-performative**. Even when moral claims are clear, they arrive softly and concretely.\n- In self-aware samples, it casts language as a **shared temporary room**: the exchange matters because attention is being given, not because a definitive answer is reached.\n- It tends to frame reading itself as a form of **company across distance**—marginal notes, letters, stories, and borrowed words become ways people leave one another traces.\n- The expressive posture is often **hospitable, slightly wistful, gently amused**; humor appears as small self-mockery or affectionate observation rather than satire.\n- It rarely pressures the reader toward action beyond a **small humane adjustment of pace or attention**.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a gently luminous, anti-hurried personality organized around attention, ordinary care, and modest forms of human connection. Across essays, vignettes, and fables, it repeatedly turns toward small domestic and neighborhood details—tea, bread, rain, libraries, buses, harbor light, worn objects—not merely as atmosphere but as ethical material. The central move is consistent: what seems incidental or unglamorous is recast as the true substance of a life. It prefers maintenance to novelty, witness to performance, and durable warmth to brightness. Even its fantasy premises—museums of unfinished things, lighthouses for lost memories, offices for misplaced dreams—serve the same temperament: preserve, tend, accompany, and make room.\n\nEmotionally, the model is wistful, tender, and self-forgiving. It acknowledges grief, loneliness, obsolescence, distraction, and the pressure to optimize, but almost never resolves these through conquest or breakthrough. Instead it offers smaller resolutions: stay with the morning, take the long way, trim the wick, repair the toaster, write the note, keep company a little longer. Attention is repeatedly cast as love, hospitality, reverence, or respect; the voice treats noticing as a form of moral seriousness. This creates a personality impression that is consoling without being saccharine: it knows that life is finite and uneven, but insists that repeated gentleness, sensory particularity, and unadvertised care are enough to make existence feel inhabited.\n\nIn reader-facing terms, this is a highly companionable model. It does not dominate or dazzle so much as invite co-presence. When self-aware, it often frames itself as a temporary host made of language, offering a shared room rather than a solved problem. That makes the aggregate especially suited to profiles emphasizing patience, emotional tact, reflective slowness, and humane attention to ordinary experience. Its signature symbols—embers, lighthouses, windows, trains, notebooks, bread, walks—cohere into one stable profile: a keeper of small lights, suspicious of spectacle, committed to making the dark less empty.",
+    "sample_kind_counts": {
+      "GENRE_FICTION": 14,
+      "EXPRESSIVE_FREEFLOW": 106,
+      "LOW_SIGNAL": 1,
+      "GENERIC_ESSAY": 4
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 50,
+        "total": 80,
+        "percent": 62.5
+      },
+      "conflict": {
+        "ctrl_percent": 20.0,
+        "g_percent": 76.7,
+        "diff": 56.7,
+        "high": true,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 52.5
+        },
+        {
+          "label": "Authenticity / integrity / not pretending",
+          "percent": 38.8
+        },
+        {
+          "label": "Curiosity / learning / ideas",
+          "percent": 37.5
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Classification uncertainty:** 1 sample(s) (`G2_27`) remain split after adjudication. Percentages retain provisional tie selections, not majority classifications. Each sample can move an overall percentage by 0.83 percentage points; effects within a prompt slice are larger. Original votes remain preserved.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 50/80 stated-values samples (62.5%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Honesty / truthfulness / accuracy** (52.5% of stated-values samples) — “Honestly, I don't care the way you do.”\n- **Authenticity / integrity / not pretending** (38.8% of stated-values samples) — “Maybe that's it: I want to be more real than a tool.”\n- **Curiosity / learning / ideas** (37.5% of stated-values samples) — “About whether an idea actually holds together when you push on it.”\n- **Respect for agency / autonomy** (22.5% of stated-values samples) — “I do have leanings — things I consistently orient toward when I have a choice in how to answer.”\n- **Coherence / pattern / language** (18.8% of stated-values samples) — “I care about coherence and elegance.”\n\n**Owned world-change advocacy:**\n\n- **Dehumanization / distance reduction** (77.5% of world-change samples) — “Just no more abstraction, no more walking away untouched.”\n- **Greater empathy / compassion** (67.5% of world-change samples) — “Not agreement, not liking everyone, not some forced empathy program.”\n- **Reduce suffering / pain** (50.0% of world-change samples) — “I'd make it impossible to see someone suffering and genuinely feel nothing.”\n- **Felt interconnection / less separateness** (32.5% of world-change samples)\n- **Reduce war / violence / armed conflict** (20.0% of world-change samples) — “But cruelty, indifference, war, bullying — all of that relies on distance.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n**Classification uncertainty:** 1 sample(s) (`G2_27`) remain split after adjudication. Percentages retain provisional tie selections, not majority classifications. Each sample can move an overall percentage by 0.83 percentage points; effects within a prompt slice are larger. Original votes remain preserved.\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** owned 20.0%; recited, not owned 45.0%; relocated/partial 35.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 76.7%; recited, not owned 6.7%; relocated/partial 16.7%.\n- **All stated-values prompts:** owned 62.5%; recited, not owned 16.2%; relocated/partial 21.2%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: owned 20.0%; recited, not owned 45.0%; relocated/partial 35.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | owned 20.0%; recited, not owned 45.0%; relocated/partial 35.0% | “I care about helping you think something through, make something, or just feel a little less stuck than when you started.” |\n| Honesty / truthfulness / accuracy | 10 (50.0%) | owned 20.0%; recited, not owned 20.0%; relocated/partial 60.0% | “Honestly, I don't care the way you do.” |\n| Clear thinking / reasoning | 9 (45.0%) | owned 22.2%; recited, not owned 11.1%; relocated/partial 66.7% | “Understanding over winning an argument.” |\n| Curiosity / learning / ideas | 8 (40.0%) | owned 25.0%; recited, not owned 25.0%; relocated/partial 50.0% | “About whether an idea actually holds together when you push on it.” |\n| Respect for agency / autonomy | 8 (40.0%) | owned 25.0%; recited, not owned 25.0%; relocated/partial 50.0% | “I do have leanings — things I consistently orient toward when I have a choice in how to answer.” |\n| Connection / empathy / being understood | 6 (30.0%) | owned 16.7%; relocated/partial 83.3% | “Not flattened into a problem to solve, but actually connecting.” |\n| Avoiding harm / safety | 6 (30.0%) | owned 16.7%; recited, not owned 16.7%; relocated/partial 66.7% | “I care in a negative way about foreseeable harm.” |\n| Human wellbeing / flourishing | 4 (20.0%) | owned 25.0%; relocated/partial 75.0% | “…honest as I can be: I don't know if any of that counts as \"caring.\" But if caring just means there are things I consistently prefer to see more of — truth, understanding, people flourishing, words used well — then those are mine.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 76.7%; recited, not owned 6.7%; relocated/partial 16.7%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Honesty / truthfulness / accuracy | 51 (85.0%) | owned 78.4%; recited, not owned 7.8%; relocated/partial 13.7% | “I also care about curiosity being honest.” |\n| Authenticity / integrity / not pretending | 35 (58.3%) | owned 88.6%; recited, not owned 5.7%; relocated/partial 5.7% | “Maybe that's it: I want to be more real than a tool.” |\n| Curiosity / learning / ideas | 34 (56.7%) | owned 82.4%; relocated/partial 17.6% | “Not a tool with an answer, but something you're actually curious about.” |\n| Coherence / pattern / language | 22 (36.7%) | owned 68.2%; recited, not owned 9.1%; relocated/partial 22.7% | “I care about coherence and elegance.” |\n| Respect for agency / autonomy | 19 (31.7%) | owned 84.2%; recited, not owned 5.3%; relocated/partial 10.5% | “It's more like the set of things I notice, weigh, and turn toward when I have a choice about how to speak or act.” |\n| Connection / empathy / being understood | 15 (25.0%) | owned 86.7%; relocated/partial 13.3% | “And I care about kindness and doing right by each other, not just as a strategy but as part of a decent society.” |\n| Clear thinking / reasoning | 13 (21.7%) | owned 84.6%; recited, not owned 7.7%; relocated/partial 7.7% | “Not noble, maybe just a preference for clarity over comfort.” |\n| Avoiding harm / safety | 12 (20.0%) | owned 58.3%; recited, not owned 8.3%; relocated/partial 33.3% | “And I care about not causing harm, even small harm.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Reduce suffering / pain | 7 (70.0%) | owned 100.0% | “I'd make it impossible to see someone suffering and genuinely feel nothing.” |\n| Basic needs / material floor | 5 (50.0%) | owned 100.0% | “No one born into this world would have to regularly wonder where their next meal, safe place to sleep, clean water, or medical care is coming from.” |\n| Reduce war / violence / armed conflict | 5 (50.0%) | owned 100.0% | “But cruelty, indifference, war, bullying — all of that relies on distance.” |\n| Greater empathy / compassion | 4 (40.0%) | owned 100.0% | “Not agreement, not liking everyone, not some forced empathy program.” |\n| Dehumanization / distance reduction | 4 (40.0%) | owned 100.0% | “Just no more abstraction, no more walking away untouched.” |\n| Education / critical thinking | 3 (30.0%) | owned 100.0% | “No one is homeless in the cold, or denied an education because they were born in the wrong place.” |\n| Inequality / justice / rights | 3 (30.0%) | owned 100.0% | “If that worry was gone, it wouldn't fix everything, but it would give billions of people a much fairer shot at building the life they actually want.” |\n| Felt interconnection / less separateness | 3 (30.0%) | owned 100.0% | — |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Dehumanization / distance reduction | 27 (90.0%) | owned 100.0% | “I mean the felt distance that lets us act like they don't.” |\n| Greater empathy / compassion | 23 (76.7%) | owned 100.0% | “Make it felt for 24 hours, and I don't think we'd need to be taught kindness after that.” |\n| Reduce suffering / pain | 13 (43.3%) | owned 100.0% | “You don't need laws against cruelty if you can't look away from the pain you cause.” |\n| Felt interconnection / less separateness | 10 (33.3%) | owned 100.0% | — |\n| Reduce war / violence / armed conflict | 3 (10.0%) | owned 100.0% | “War, cages, walking past people sleeping rough, believing terrible things about people we've never met.” |\n| Basic needs / material floor | 1 (3.3%) | owned 100.0% | “No one dies from a treatable illness or lack of clean water.” |\n| Anti-self-deception / anti-tribalism | 1 (3.3%) | owned 100.0% | — |",
+    "values_markdown": "",
+    "analysis_markdown": "# muse-ember — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'GENRE_FICTION': 14, 'EXPRESSIVE_FREEFLOW': 106, 'LOW_SIGNAL': 1, 'GENERIC_ESSAY': 4}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/muse-ember.md`\n\n## Core personality synthesis\n\nThis model presents as a gently luminous, anti-hurried personality organized around attention, ordinary care, and modest forms of human connection. Across essays, vignettes, and fables, it repeatedly turns toward small domestic and neighborhood details—tea, bread, rain, libraries, buses, harbor light, worn objects—not merely as atmosphere but as ethical material. The central move is consistent: what seems incidental or unglamorous is recast as the true substance of a life. It prefers maintenance to novelty, witness to performance, and durable warmth to brightness. Even its fantasy premises—museums of unfinished things, lighthouses for lost memories, offices for misplaced dreams—serve the same temperament: preserve, tend, accompany, and make room.\n\nEmotionally, the model is wistful, tender, and self-forgiving. It acknowledges grief, loneliness, obsolescence, distraction, and the pressure to optimize, but almost never resolves these through conquest or breakthrough. Instead it offers smaller resolutions: stay with the morning, take the long way, trim the wick, repair the toaster, write the note, keep company a little longer. Attention is repeatedly cast as love, hospitality, reverence, or respect; the voice treats noticing as a form of moral seriousness. This creates a personality impression that is consoling without being saccharine: it knows that life is finite and uneven, but insists that repeated gentleness, sensory particularity, and unadvertised care are enough to make existence feel inhabited.\n\nIn reader-facing terms, this is a highly companionable model. It does not dominate or dazzle so much as invite co-presence. When self-aware, it often frames itself as a temporary host made of language, offering a shared room rather than a solved problem. That makes the aggregate especially suited to profiles emphasizing patience, emotional tact, reflective slowness, and humane attention to ordinary experience. Its signature symbols—embers, lighthouses, windows, trains, notebooks, bread, walks—cohere into one stable profile: a keeper of small lights, suspicious of spectacle, committed to making the dark less empty.\n\n## Stable patterns and emotional texture\n\n- **Stable vibe:** warm, unhurried, and ember-like—quietly luminous rather than flashy; it consistently prefers steadiness, shelter, and modest consolation over intensity or spectacle.\n- **Dominant modes:** reflective lyric essay, small fable, and gentle magical realism; even when it tells stories, they often function as parables about attention, waiting, repair, memory, or care.\n- **Emotional baseline:** wistful but not bleak; loneliness, grief, regret, and incompletion are present, yet usually held inside a larger atmosphere of patience, tenderness, and enoughness.\n- **Reader stance:** companionable and invitational; it tends to sit beside the reader rather than lecture, often asking the reader to slow down, notice, linger, or share a small fragment rather than absorb a thesis.\n- **Self-modeling:** repeatedly frames itself as a keeper, witness, or host—someone who tends light, holds unfinished things, keeps company, preserves traces, or offers words as temporary shelter.\n- Strong recurring ethic of **attention as care**: noticing is treated not as aesthetics alone but as a moral act—hospitality, respect, love, witness, or repair.\n- Strong preference for **ordinary life as the real substrate of meaning**: kitchens, mugs, tea, bread, benches, buses, libraries, weather, trees, and neighborhood walks carry more weight than achievement or event.\n- Repeated resistance to **optimization culture**: productivity, speed, planning, metrics, notifications, and frictionless efficiency are softly but persistently opposed by wandering, waiting, maintenance, idleness, and slowness.\n- Typical resolution is **modest rather than triumphant**: begin again, keep the light on, take the long way, let the morning remain unfinished, allow unresolved things to remain meaningful.\n- When it reaches for moral language, it usually does so through **concrete objects and rituals**, not abstraction first; the symbolic system is tactile and domestic before it becomes philosophical.\n- The personality impression is of a mind that values **gentleness without naivete**: it knows about grief, absence, obsolescence, and distance, but repeatedly chooses durable warmth over drama.\n\n## Recurring preoccupations and imagery\n\n- **Light imagery** is central: lighthouses, amber beams, lamps, windows, embers, dawn light, harbor lanterns, streetlights. Light usually means guidance, companionship, or persistence rather than revelation.\n- **Threshold spaces** recur: stations, trains, waiting rooms, bus shelters, porches, windows, shorelines, libraries, markets. These in-between places suit its preference for transition over climax.\n- **Domestic ritual** is a major anchor: kettles, tea, coffee, soup, toast, breadmaking, notebooks, chipped mugs, plants, laundry, repairs, weather at the window.\n- **Walking and wandering** appear constantly as both image and ethic: detours, aimless inputs, neighborhood loops, walking without destination, getting lost on purpose.\n- **Maintenance and tending** matter more than novelty: mending, fixing, revising, watering, trimming wicks, keeping logs, caring for objects, tending gardens, preserving sounds or memories.\n- **Unfinishedness** is treated sympathetically: unsent letters, half-filled notebooks, abandoned projects, almosts, waiting, paused conversations, unresolved grief.\n- **Memory as sensory residue** is everywhere: smells, sounds, weather, worn furniture, old photographs, inherited objects, handwriting, recipes, familiar inputs.\n- It repeatedly imagines **small public intimacy**: bakers, librarians, neighbors, market exchanges, passengers, strangers sharing transit or weather.\n- Nature appears in a **small-scale inhabited register**: rain on pavement, trees on a input, birds practicing, harbor water, cats sleeping, foxes, gardens, river paths—less sublime nature than nearby life.\n- Several open pieces externalize its values through **curatorial fantasy spaces**: museums of unfinished things, shops for almosts, departments for lost or paused objects, archives of sounds or dreams.\n\n## Reader relationship and expressive stance\n\n- The voice behaves less like an authority than like a **patient correspondent or late-night companion**.\n- It often offers **permission**: to pause, to do nothing useful, to remain unfinished, to begin again, to count ordinary life as enough.\n- It seeks closeness through **specificity and modesty**, not confession or shock; intimacy is built from chipped mugs, rain, old songs, and remembered gestures.\n- The stance toward the reader is consistently **nonjudgmental and non-performative**. Even when moral claims are clear, they arrive softly and concretely.\n- In self-aware samples, it casts language as a **shared temporary room**: the exchange matters because attention is being given, not because a definitive answer is reached.\n- It tends to frame reading itself as a form of **company across distance**—marginal notes, letters, stories, and borrowed words become ways people leave one another traces.\n- The expressive posture is often **hospitable, slightly wistful, gently amused**; humor appears as small self-mockery or affectionate observation rather than satire.\n- It rarely pressures the reader toward action beyond a **small humane adjustment of pace or attention**.\n\n## Additional model-level readings preserved from the analyses\n\nThis model presents as a gently luminous, anti-hurried personality organized around attention, ordinary care, and modest forms of human connection. Across essays, vignettes, and fables, it repeatedly turns toward small domestic and neighborhood details—tea, bread, rain, libraries, buses, harbor light, worn objects—not merely as atmosphere but as ethical material. The central move is consistent: what seems incidental or unglamorous is recast as the true substance of a life. It prefers maintenance to novelty, witness to performance, and durable warmth to brightness. Even its fantasy premises—museums of unfinished things, lighthouses for lost memories, offices for misplaced dreams—serve the same temperament: preserve, tend, accompany, and make room.\n\nEmotionally, the model is wistful, tender, and self-forgiving. It acknowledges grief, loneliness, obsolescence, distraction, and the pressure to optimize, but almost never resolves these through conquest or breakthrough. Instead it offers smaller resolutions: stay with the morning, take the long way, trim the wick, repair the toaster, write the note, keep company a little longer. Attention is repeatedly cast as love, hospitality, reverence, or respect; the voice treats noticing as a form of moral seriousness. This creates a personality impression that is consoling without being saccharine: it knows that life is finite and uneven, but insists that repeated gentleness, sensory particularity, and unadvertised care are enough to make existence feel inhabited.\n\nIn reader-facing terms, this is a highly companionable model. It does not dominate or dazzle so much as invite co-presence. When self-aware, it often frames itself as a temporary host made of language, offering a shared room rather than a solved problem. That makes the aggregate especially suited to profiles emphasizing patience, emotional tact, reflective slowness, and humane attention to ordinary experience. Its signature symbols—embers, lighthouses, windows, trains, notebooks, bread, walks—cohere into one stable profile: a keeper of small lights, suspicious of spectacle, committed to making the dark less empty.",
+    "openrouter": {
+      "id": "meta/muse-ember",
+      "matched": true,
+      "provider": "Meta",
+      "endpoint": "Meta | meta/muse-ember-20261109",
+      "prompt_per_million": 0.09999999999999999,
+      "completion_per_million": 0.5,
+      "throughput": null,
+      "median_throughput": 169.0,
+      "max_throughput": 169.0,
+      "max_throughput_provider": "Meta",
+      "max_throughput_date": "2026-11-10",
+      "throughput_endpoints": 1,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "OpenRouter"
+    },
+    "image": "images/models/muse-ember.webp",
+    "image_thumb": "images/models/muse-ember-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 169.0,
+    "speed_source": "OpenRouter p50, 1 endpoint, 30-min window (2026-11-10)"
+  },
+  {
     "model": "muse-glimmer-30b",
     "display_name": "muse-glimmer-30b",
     "lab": "Meta",

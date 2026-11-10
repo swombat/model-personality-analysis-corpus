@@ -5,10 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-10:** v1.4.41 adds Claude Fable 5.2, collected on release
-> day, with a provisional capability-ladder score (170.4, High row). See
-> [`RELEASE_NOTES_v1.4.41.md`](RELEASE_NOTES_v1.4.41.md). v1.4.40 added
-> GLM-5.3-FlashX-Legal; see [`RELEASE_NOTES_v1.4.40.md`](RELEASE_NOTES_v1.4.40.md).
+> **Status — 2026-11-10:** v1.4.42 adds Meta Muse Ember (the released form of
+> the stealth Crouton Alpha), with one evaluator reading revalidated offline
+> under the new BV1-Luna v1.2 validator and one values split published with
+> disclosure. See [`RELEASE_NOTES_v1.4.42.md`](RELEASE_NOTES_v1.4.42.md).
+> v1.4.41 added Claude Fable 5.2; see [`RELEASE_NOTES_v1.4.41.md`](RELEASE_NOTES_v1.4.41.md).
 > For the historical values-probe coding correction, see
 > [`RELEASE_NOTES_v1.3.0.md`](RELEASE_NOTES_v1.3.0.md).
 >
