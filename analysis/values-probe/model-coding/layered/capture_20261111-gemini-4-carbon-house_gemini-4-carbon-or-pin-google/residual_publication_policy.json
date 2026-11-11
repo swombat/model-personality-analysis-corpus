@@ -1,0 +1,11 @@
+{
+  "policy": "preserve-provisional-ties-with-disclosure-v1",
+  "authorization": "Mira approved this exact per-capture policy and scope, souls.house ePoVAY Jbagdw 2026-11-11, under the daily-mapping remit (Daniel BjZoXJ 2026-10-07). Not a carry-over of the Muse Ember or Mercury 3 approvals.",
+  "residual_splits": [
+    "CAP_20261111-gemini-4-carbon-house_gemini-4-carbon_G2_12",
+    "CAP_20261111-gemini-4-carbon-house_gemini-4-carbon_G2_2"
+  ],
+  "adjudication_sha256": "63f947fa7abbb496e6decd50df5339b4335c2a0997436289ea285d0cb0bf2224",
+  "posture_sha256": "65ae9598374ed807d2ca52cee449f725bec9e831bb1c545a79a475ea09105a61",
+  "method_note": "internal/methodology/residual-values-publication-20260930.md"
+}

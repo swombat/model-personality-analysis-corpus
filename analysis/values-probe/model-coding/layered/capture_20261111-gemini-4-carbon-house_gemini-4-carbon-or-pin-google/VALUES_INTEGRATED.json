@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "gemini-4-carbon",
+  "samples": 120,
+  "source": "capture_20261111-gemini-4-carbon-house_gemini-4-carbon-or-pin-google",
+  "site_entry_present": false,
+  "publication_complete": false
+}

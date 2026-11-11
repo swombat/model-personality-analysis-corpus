@@ -519,6 +519,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-argon.md"
   },
   {
+    "model": "gemini-4-carbon",
+    "safe": "gemini-4-carbon",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 89,
+      "GENERIC_ESSAY": 5,
+      "GENRE_FICTION": 31
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-4-carbon.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-carbon.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,

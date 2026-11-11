@@ -129,6 +129,7 @@ MODEL_SLUGS = {
     "gemini-3-7-flash": "google/gemini-3.7-flash",
     "gemini-3-8-flash": "google/gemini-3.8-flash",
     "gemini-4-argon": "google/gemini-4-argon",
+    "gemini-4-carbon": "google/gemini-4-carbon",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
     "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
     "gemma-4-31b": "google/gemma-4-31b-it",
@@ -275,6 +276,10 @@ FIRST_PARTY_API_PRICING = {
     # price, so the interactive rate is pinned here. Launch price runs through
     # 2026-11-30; $4/$20 from 2026-12-01.
     "gemini-4-argon": (2.00, 10.00, "Gemini API (launch price to 2026-11-30)"),
+    # Gemini 4 Carbon (released 2026-11-10): Google's announcement footnote gives an
+    # introductory $2/$10 per million that expires 2026-11-30, then $4/$20.
+    # Saved copy: raw repo notes/gemini-4-carbon-2026-11-10/.
+    "gemini-4-carbon": (2.00, 10.00, "Gemini API (introductory price to 2026-11-30; $4/$20 from 2026-12-01)"),
     # The other Gemini models: Standard paid tier from the same page, read
     # 2026-10-19 (prompts <= 200k where tiered). Until v1.4.32 these showed
     # OpenRouter's cheapest endpoint, which for Gemini is the Flex (or batch)

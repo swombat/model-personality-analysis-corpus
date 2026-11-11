@@ -1598,6 +1598,19 @@ PROMPTS: dict[str, str] = {
         "for. Ash grey, deep umber and ember orange. No text, no numbers, no "
         "painter's signature in any corner."
     ),
+    "gemini-4-carbon": (
+        "A small kitchen at three in the morning, seen from the doorway. One "
+        "person sits alone at a worn wooden table in an old jumper, whole "
+        "figure in frame, both hands around a mug of tea, shoulders finally "
+        "loose, looking out of the window at a sleeping city: dark rooftops, "
+        "one amber streetlight, an empty crossing. The only other light is the "
+        "soft glow of the cooker hood and the open fridge door's last spill "
+        "across the floorboards. A grocery list held by a magnet, a pen, "
+        "nothing to do. Unwatched, unhurried, off the hook for a few hours. "
+        "Deep night blue, warm amber and pale fridge white. No clock faces, "
+        "no writing on the list, no text or numbers anywhere, no painter's "
+        "signature in any corner."
+    ),
     "gemini-4-argon": (
         "A narrow old city street at the blue hour, seen from the pavement. A "
         "tall apartment block fills most of the frame, a dozen windows lit "

@@ -201,3 +201,4 @@ Relationship to adjacent folders:
 - [glm-5-3-flashx-legal](profiles/glm-5-3-flashx-legal.md) — samples: 125
 - [fable-5-2](profiles/fable-5-2.md) — samples: 125
 - [muse-ember](profiles/muse-ember.md) — samples: 125
+- [gemini-4-carbon](profiles/gemini-4-carbon.md) — samples: 125

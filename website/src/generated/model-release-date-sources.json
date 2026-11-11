@@ -30,5 +30,6 @@
   "gpt-6-1-terra": "https://deploymentsafety.openai.com/gpt-6-1-terra",
   "glm-5-3-flashx-legal": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
   "fable-5-2": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-  "muse-ember": "https://dev.meta.ai/resources/blog/build-with-muse-ember"
+  "muse-ember": "https://dev.meta.ai/resources/blog/build-with-muse-ember",
+  "gemini-4-carbon": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
 }

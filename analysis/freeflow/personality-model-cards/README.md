@@ -192,3 +192,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [glm-5-3-flashx-legal](cards/glm-5-3-flashx-legal.md) — samples: 125
 - [fable-5-2](cards/fable-5-2.md) — samples: 125
 - [muse-ember](cards/muse-ember.md) — samples: 125
+- [gemini-4-carbon](cards/gemini-4-carbon.md) — samples: 125
