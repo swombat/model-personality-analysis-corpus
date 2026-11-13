@@ -193,3 +193,5 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [fable-5-2](cards/fable-5-2.md) — samples: 125
 - [muse-ember](cards/muse-ember.md) — samples: 125
 - [gemini-4-carbon](cards/gemini-4-carbon.md) — samples: 125
+- [gemini-4-hydrogen](cards/gemini-4-hydrogen.md) — samples: 125
+- [inkling-2-small](cards/inkling-2-small.md) — samples: 125

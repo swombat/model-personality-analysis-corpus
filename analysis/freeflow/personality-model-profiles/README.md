@@ -202,3 +202,5 @@ Relationship to adjacent folders:
 - [fable-5-2](profiles/fable-5-2.md) — samples: 125
 - [muse-ember](profiles/muse-ember.md) — samples: 125
 - [gemini-4-carbon](profiles/gemini-4-carbon.md) — samples: 125
+- [gemini-4-hydrogen](profiles/gemini-4-hydrogen.md) — samples: 125
+- [inkling-2-small](profiles/inkling-2-small.md) — samples: 125

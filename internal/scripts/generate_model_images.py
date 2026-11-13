@@ -64,6 +64,28 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    "gemini-4-hydrogen": (
+        "In the last blue hour before dawn, a night caretaker sits at a worn "
+        "workbench in a small city maintenance workshop, patiently repairing "
+        "an old brass clock with its plain unnumbered face turned away. A "
+        "mended coat hangs nearby, well-used tools rest on a folded cloth, "
+        "and a warm task lamp catches the grain and scratches of the wood. "
+        "Through a wide window the sleeping street is just beginning to pale. "
+        "Unnoticed labor keeping the world intact, quiet custody rather than "
+        "spectacle; deep petrol blue and a small pool of amber. No writing, "
+        "numerals, signatures, or watermarks anywhere."
+    ),
+    "inkling-2-small": (
+        "At a modest neighborhood kitchen table, one person quietly pulls "
+        "out a spare chair for a visitor who pauses respectfully at the open "
+        "door. Two chipped cups and a loaf wrapped in plain linen wait on "
+        "the table; a carefully repaired chair leg and a small green plant "
+        "on the windowsill show everyday upkeep. The host listens without "
+        "leaning across the visitor's space. Hospitality as accurate, gentle "
+        "attention, an invitation without demand; warm terracotta, muted "
+        "sage and soft morning light, generous breathing room. No papers, "
+        "writing, lettering, signatures, or watermarks anywhere."
+    ),
     "mimo-v2-5-pro": (
         "Two people sit at opposite ends of a long wooden table in a quiet "
         "public reading room, one leaning forward to listen while the other "

@@ -1,0 +1,12 @@
+{
+  "model": "google/gemini-4-hydrogen",
+  "slug": "gemini-4-hydrogen",
+  "label": "gemini-4-hydrogen-or-pin-google",
+  "family": "gemini",
+  "or_provider": "Google",
+  "quantization": "unknown",
+  "release_date": "2026-11-12",
+  "release_date_source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/gemini-4-hydrogen-2026-11-12/endpoints.json",
+  "release_date_status": "sourced"
+}

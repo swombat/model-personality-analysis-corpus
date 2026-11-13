@@ -532,6 +532,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-carbon.md"
   },
   {
+    "model": "gemini-4-hydrogen",
+    "safe": "gemini-4-hydrogen",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 77,
+      "GENERIC_ESSAY": 10,
+      "GENRE_FICTION": 38
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-4-hydrogen.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-hydrogen.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,
@@ -1358,6 +1371,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/inkling.md",
     "card": "analysis/freeflow/personality-model-cards/cards/inkling.md"
+  },
+  {
+    "model": "inkling-2-small",
+    "safe": "inkling-2-small",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 97,
+      "GENERIC_ESSAY": 20,
+      "GENRE_FICTION": 8
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/inkling-2-small.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/inkling-2-small.md"
   },
   {
     "model": "inkling-small",

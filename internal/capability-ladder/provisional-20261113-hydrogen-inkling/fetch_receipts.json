@@ -1,0 +1,35 @@
+{
+  "gemini-4-hydrogen": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 773831,
+    "fetched_date": "2026-11-13",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-hydrogen",
+    "html_bytes": 1474366,
+    "html_sha256": "16db8a4d72fae58c7e4a2a9561dd0f71556e5ea9fc0670c6b5fb35aa665a8c19",
+    "http_status": 200,
+    "title": "Gemini 4 Hydrogen (xhigh) - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-hydrogen"
+  },
+  "gemini-4-hydrogen-high": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 779091,
+    "fetched_date": "2026-11-13",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-hydrogen-high",
+    "html_bytes": 1478271,
+    "html_sha256": "59041cd128b5cd6491d216f5ea80a58f9d5b82f03270128e9485ca8bc6c0b43c",
+    "http_status": 200,
+    "title": "Gemini 4 Hydrogen (high) - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-hydrogen-high"
+  },
+  "inkling-2-small": {
+    "currentModel_count": 1,
+    "decoded_flight_bytes": 3001316,
+    "fetched_date": "2026-11-13",
+    "final_url": "https://artificialanalysis.ai/models/inkling-2-small",
+    "html_bytes": 3962530,
+    "html_sha256": "30d4f08a38dfeff79f9d3eb6aef443080a38a03956c35685e0575f78bed77bb4",
+    "http_status": 200,
+    "title": "Inkling 2 Small - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/inkling-2-small"
+  }
+}

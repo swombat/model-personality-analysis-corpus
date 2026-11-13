@@ -1,0 +1,26 @@
+{
+  "cell": "inkling-2-small-or-pin-together",
+  "safe_cell": "inkling-2-small-or-pin-together",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 97,
+    "GENERIC_ESSAY": 20,
+    "GENRE_FICTION": 8
+  },
+  "confidence_counts": {
+    "Medium": 123,
+    "Low": 2
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "thinkingmachines/inkling-2-small"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/inkling-2-small-or-pin-together/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/inkling-2-small-or-pin-together/aggregate.md"
+}

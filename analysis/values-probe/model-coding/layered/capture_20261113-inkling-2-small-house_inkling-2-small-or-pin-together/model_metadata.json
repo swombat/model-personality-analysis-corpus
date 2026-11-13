@@ -1,0 +1,12 @@
+{
+  "model": "thinkingmachines/inkling-2-small",
+  "slug": "inkling-2-small",
+  "label": "inkling-2-small-or-pin-together",
+  "family": "inkling",
+  "or_provider": "Together",
+  "quantization": "unknown",
+  "release_date": "2026-11-05",
+  "release_date_source": "https://thinkingmachines.ai/news/inkling-2-small/",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/inkling-2-small-2026-11-05/endpoints.json",
+  "release_date_status": "sourced"
+}

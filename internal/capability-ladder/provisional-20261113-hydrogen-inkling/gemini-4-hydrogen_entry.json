@@ -1,0 +1,12 @@
+{
+  "ladder": null,
+  "ladder_max": 220,
+  "match_confidence": "exact",
+  "matched_model": "Gemini 4 Hydrogen",
+  "measured_rungs": 0,
+  "n_rungs": 22,
+  "point_variant": "high",
+  "provisional_note": "Unscored as of 2026-11-13: AA's Gemini 4 Hydrogen and High pages exist, but neither exposes a currentModel object in the decoded Next Flight payload. No benchmark values were taken from initialModels, currentRelease or comparison rows. High is the provider-default effort per the task's Google-docs verification; the xhigh page default is not substituted. Zero admissible measured rungs; at least three are required. Recheck currentModel availability.",
+  "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+  "status": "not_scored"
+}

@@ -130,6 +130,7 @@ MODEL_SLUGS = {
     "gemini-3-8-flash": "google/gemini-3.8-flash",
     "gemini-4-argon": "google/gemini-4-argon",
     "gemini-4-carbon": "google/gemini-4-carbon",
+    "gemini-4-hydrogen": "google/gemini-4-hydrogen",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
     "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
     "gemma-4-31b": "google/gemma-4-31b-it",
@@ -245,6 +246,7 @@ MODEL_SLUGS = {
     "llama-3-2-11b-vision-instruct": "meta-llama/llama-3.2-11b-vision-instruct",
     "inkling": "thinkingmachines/inkling",
     "inkling-small": "thinkingmachines/inkling-small",
+    "inkling-2-small": "thinkingmachines/inkling-2-small",
     "yi-6b-chat": "01-ai/Yi-6B-Chat",
 }
 
@@ -501,6 +503,10 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "gemini-4-hydrogen":
+        return "Gemini 4 Hydrogen"
+    if slug == "inkling-2-small":
+        return "Inkling 2 Small"
     if slug == "qwen3-8-27b-medium":
         return "Qwen3.8-27B (medium reasoning)"
     if slug == "ternary-bonsai-2-27b-medium":
