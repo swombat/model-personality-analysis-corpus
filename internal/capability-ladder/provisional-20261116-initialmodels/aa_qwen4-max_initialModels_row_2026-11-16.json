@@ -1,0 +1,200 @@
+{
+  "aime25": null,
+  "analystAgent": 0.4625,
+  "apexAgents": 0.591445427728614,
+  "automationBenchPartialScore": 0.7256119376604481,
+  "briefcaseBreakdown": {
+    "overall": {
+      "elo": 1686.07,
+      "lower95ci": 1675.59,
+      "upper95ci": 1696.55
+    }
+  },
+  "cacheHitDiscountPercent": 0.95,
+  "cacheHitPrice": 0.075,
+  "canonicalIntelligenceIndexTokenCount": {
+    "answer": 30253132,
+    "input": 9901229682,
+    "output": 127144486,
+    "reasoning": 96891354
+  },
+  "capabilities": {
+    "economics": 51.3173666666667,
+    "engineering": 50.0565564393939,
+    "financeAndAccounting": 54.1068956216928,
+    "legal": 49.574077249488,
+    "strategyAndOps": 56.8505476675757
+  },
+  "chartDefaultSelected": true,
+  "chartHighlighted": true,
+  "contextWindowTokens": 983616,
+  "creator": {
+    "color": "#ff7018",
+    "country": "cn",
+    "id": "d874d370-74d3-4fa0-ba00-5272f92f946b",
+    "logo": "/img/logos/alibaba.svg",
+    "name": "Alibaba",
+    "slug": "alibaba"
+  },
+  "critpt": null,
+  "critptAgenticHard": 0.43,
+  "deprecated": false,
+  "effort": {
+    "label": "xhigh",
+    "level": 50,
+    "slug": "xhigh"
+  },
+  "enterpriseOpsGym": 0.4852282900626679,
+  "frontierCode": null,
+  "frontierCode20": 0.264534595959596,
+  "gdpPdfAllPass": 0.262,
+  "gdpval": 1808.69,
+  "gdpvalInterval": {
+    "lower": 1787.86,
+    "upper": 1829.51
+  },
+  "gpqa": null,
+  "harveyLab": 0.09444444444444443,
+  "headline": null,
+  "healthbench": null,
+  "healthbenchProfessional": null,
+  "hle": null,
+  "hleDiamond": 0.449,
+  "hosts": [
+    {
+      "logo": "/img/logos/alibaba.svg",
+      "name": "Alibaba Cloud",
+      "slug": "alibaba_cloud"
+    }
+  ],
+  "id": "fef6625d-9097-45f6-95c0-bcaa06e3d8e1",
+  "ifbench": null,
+  "inferenceParametersActiveBillions": null,
+  "inputModalityImage": true,
+  "inputModalitySpeech": false,
+  "inputModalityText": true,
+  "inputModalityVideo": false,
+  "intelligenceIndex": 42.8914543287565,
+  "intelligenceIndexCost": {
+    "answer": 136.139094,
+    "cacheRead": 685.7726712055248,
+    "cacheWrite": 1113.8368423895026,
+    "input": 1822.1637700950273,
+    "nonCacheInput": 22.5542565,
+    "output": 572.150187,
+    "reasoning": 436.011093,
+    "total": 2394.313957095027
+  },
+  "intelligenceIndexCostPerTask": {
+    "cost": {
+      "answer": 0.1621142289859575,
+      "cacheRead": 1.1153682726372187,
+      "cacheWrite": 1.669921347835324,
+      "input": 2.795903734547543,
+      "nonCacheInput": 0.010614114074999998,
+      "output": 0.4722289955421897,
+      "reasoning": 0.31011476655623216,
+      "total": 3.2681327300897323
+    },
+    "evaluations": [
+      {
+        "slug": "aa-briefcase",
+        "weightedCostPerTask": 0.8869758894907424
+      },
+      {
+        "slug": "automationbench-aa",
+        "weightedCostPerTask": 0.025688998359023805
+      },
+      {
+        "slug": "terminalbench-4-0",
+        "weightedCostPerTask": 0.6425101626821804
+      },
+      {
+        "slug": "frontiercode-2-0",
+        "weightedCostPerTask": 0.33596357311194885
+      },
+      {
+        "slug": "omniscience",
+        "weightedCostPerTask": 0.0011817190499999997
+      },
+      {
+        "slug": "gdp-pdf",
+        "weightedCostPerTask": 0.012831988499999999
+      },
+      {
+        "slug": "hle-diamond",
+        "weightedCostPerTask": 0.0122529165
+      },
+      {
+        "slug": "critpt-v2-hard",
+        "weightedCostPerTask": 0.04814781190610387
+      },
+      {
+        "slug": "terminal-bench-science",
+        "weightedCostPerTask": 1.3025796704897332
+      }
+    ]
+  },
+  "intelligenceIndexOutputTokensPerTask": {
+    "answer": 36025.384219101674,
+    "output": 104939.77678715324,
+    "reasoning": 68914.39256805157
+  },
+  "isOpenWeights": false,
+  "isReasoning": true,
+  "itBenchSre": null,
+  "knowledgeCutoffDate": null,
+  "lcr": null,
+  "licenseName": null,
+  "licenseUrl": null,
+  "livecodebench": null,
+  "microevalsEnabled": false,
+  "mkaClimbWsr": null,
+  "mmmuPro": null,
+  "modelWeightsSourceUrl": null,
+  "multiTurn": null,
+  "name": "Qwen4 Max",
+  "omniscience": 27.7,
+  "omniscienceAccuracy": 0.437,
+  "omniscienceHallucinationRate": 0.2841918294849023,
+  "openSourceCategorization": "proprietary",
+  "outputModalityImage": false,
+  "outputModalitySpeech": false,
+  "outputModalityText": true,
+  "outputModalityVideo": false,
+  "parameters": null,
+  "performanceDataSource": {
+    "type": "median"
+  },
+  "price1mBlended0To100To1": 1.5297029702970297,
+  "price1mBlended0To1To1": 3,
+  "price1mBlended0To3To1": 2.25,
+  "price1mBlended100To1To1": 0.1323529411764706,
+  "price1mBlended7To2To1": 0.8025,
+  "price1mInputTokens": 1.5,
+  "price1mOutputTokens": 4.5,
+  "priceDataSource": {
+    "providerName": "Alibaba",
+    "type": "firstParty"
+  },
+  "pricePer1k1mpImages": null,
+  "release": {
+    "deprecatedTo": null,
+    "name": "Qwen4 Max",
+    "slug": "qwen4-max"
+  },
+  "releaseDate": "2026-11-16",
+  "scicode": null,
+  "shortName": "Qwen4 Max",
+  "sizeClass": "large",
+  "slug": "qwen4-max",
+  "suffix": null,
+  "tau2": null,
+  "tauBanking": null,
+  "terminalBench21": null,
+  "terminalBench40": 0.484848484848485,
+  "terminalBenchScience": 0.233333333333333,
+  "terminalbenchHard": null,
+  "vialsScore": null,
+  "workloads": {}
+}

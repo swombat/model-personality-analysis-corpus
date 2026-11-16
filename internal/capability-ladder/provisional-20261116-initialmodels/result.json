@@ -1,0 +1,54 @@
+{
+  "gemini-4-hydrogen": {
+    "aa_slug": "gemini-4-hydrogen-high",
+    "effort": "high",
+    "intelligence_index": 50.7870826951304,
+    "ladder": 169.2,
+    "n": 3,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7443589447089903,
+      "gdp_pdf": 0.3,
+      "omniscience_accuracy": 0.4816666666666667
+    },
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-hydrogen-high"
+      ],
+      [
+        "low",
+        "gemini-4-hydrogen-low"
+      ],
+      [
+        "medium",
+        "gemini-4-hydrogen-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-hydrogen"
+      ]
+    ],
+    "theta": 166.6
+  },
+  "qwen4-max": {
+    "aa_slug": "qwen4-max",
+    "effort": "xhigh",
+    "intelligence_index": 42.8914543287565,
+    "ladder": 165.9,
+    "n": 3,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7256119376604481,
+      "gdp_pdf": 0.262,
+      "omniscience_accuracy": 0.437
+    },
+    "same_release_rows": [
+      [
+        "xhigh",
+        "qwen4-max"
+      ]
+    ],
+    "theta": 165.5
+  }
+}

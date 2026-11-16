@@ -1,0 +1,52 @@
+{
+  "gemini-4-hydrogen-high": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 629209,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-16",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-hydrogen",
+    "html_bytes": 1240845,
+    "html_sha256": "46420dd96b5cf3aa647159dd0d1ce7a4e226ab3da47677a61335075bf60d9c9f",
+    "http_status": 200,
+    "initialModels_len": 29,
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-hydrogen-high"
+      ],
+      [
+        "low",
+        "gemini-4-hydrogen-low"
+      ],
+      [
+        "medium",
+        "gemini-4-hydrogen-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-hydrogen"
+      ]
+    ],
+    "title": "Gemini 4 Hydrogen Models - Intelligence, Performance &amp; Price Comparison | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-hydrogen-high"
+  },
+  "qwen4-max": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 590700,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-16",
+    "final_url": "https://artificialanalysis.ai/models/qwen4-max",
+    "html_bytes": 1118451,
+    "html_sha256": "fd9f248591c71984fc8e588b2cb3971511262656f71bb07bba1a8fe808909cb7",
+    "http_status": 200,
+    "initialModels_len": 29,
+    "same_release_rows": [
+      [
+        "xhigh",
+        "qwen4-max"
+      ]
+    ],
+    "title": "Qwen4 Max - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen4-max"
+  }
+}
