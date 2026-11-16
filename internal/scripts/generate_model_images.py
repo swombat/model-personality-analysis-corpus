@@ -64,6 +64,20 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    "qwen4-max": (
+        "Late afternoon at the foot of a tall sea cliff whose face is banded "
+        "with sediment layers: ochre, slate grey, rust, chalk white, thin dark "
+        "seams of shale. One person stands close to the rock, whole figure in "
+        "frame, an old canvas coat, one palm laid flat against a single pale "
+        "band at shoulder height, head tilted as if listening to it. Behind "
+        "them, on the wide wet sand and in the shallows, ordinary life goes on "
+        "unrecorded: a child chasing a dog, two fishermen hauling a small boat, "
+        "gulls, a thermos on a rock, footprints the tide is already erasing. "
+        "Curious, honest, a little wistful about everything that never got "
+        "laid down. Ochre, slate and sea-glass green under low gold light. No "
+        "carvings or marks on the rock, no text or numbers anywhere, no "
+        "painter's signature in any corner."
+    ),
     "gemini-4-hydrogen": (
         "In the last blue hour before dawn, a night caretaker sits at a worn "
         "workbench in a small city maintenance workshop, patiently repairing "

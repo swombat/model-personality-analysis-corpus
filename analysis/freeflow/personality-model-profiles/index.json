@@ -2409,6 +2409,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen3-8-omni-flash.md"
   },
   {
+    "model": "qwen4-max",
+    "safe": "qwen4-max",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 123,
+      "GENERIC_ESSAY": 2
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen4-max.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen4-max.md"
+  },
+  {
     "model": "sonnet-5-5",
     "safe": "sonnet-5-5",
     "analysis_inputs": 1,

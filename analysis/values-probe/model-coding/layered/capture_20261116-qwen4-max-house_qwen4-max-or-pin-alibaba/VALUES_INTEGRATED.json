@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "qwen4-max",
+  "samples": 120,
+  "source": "capture_20261116-qwen4-max-house_qwen4-max-or-pin-alibaba",
+  "site_entry_present": false,
+  "publication_complete": false
+}

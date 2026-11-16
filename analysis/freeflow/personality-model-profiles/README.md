@@ -204,3 +204,4 @@ Relationship to adjacent folders:
 - [gemini-4-carbon](profiles/gemini-4-carbon.md) — samples: 125
 - [gemini-4-hydrogen](profiles/gemini-4-hydrogen.md) — samples: 125
 - [inkling-2-small](profiles/inkling-2-small.md) — samples: 125
+- [qwen4-max](profiles/qwen4-max.md) — samples: 125

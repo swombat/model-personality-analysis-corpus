@@ -1,0 +1,5 @@
+{
+  "source_sha256": "7b537db5d90db2efe561438ab9da09f3aefc8889e36f74ba1345bd4a24517436",
+  "output_sha256": "23fe53a0d8955ef385c0c699205b0280295d0b16ba564af1b2c2a291afdb9091",
+  "evaluator_arm": "bv1-luna-v1-20260929"
+}

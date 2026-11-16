@@ -5,7 +5,10 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-13:** v1.4.44 adds Google Gemini 4 Hydrogen and Thinking
+> **Status — 2026-11-16:** v1.4.45 adds Alibaba Qwen4 Max, with 125 freeflow
+> and 120 values samples, a banner and a map position; its capability ladder
+> is explicitly unscored. See [`RELEASE_NOTES_v1.4.45.md`](RELEASE_NOTES_v1.4.45.md).
+> v1.4.44 added Google Gemini 4 Hydrogen and Thinking
 > Machines Inkling 2 Small, each with 125 freeflow and 120 values samples,
 > banners, map positions and capability-ladder provenance. Hydrogen is
 > explicitly unscored; Inkling's provisional ladder is 151.1/220.

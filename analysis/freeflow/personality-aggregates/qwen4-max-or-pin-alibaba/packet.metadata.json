@@ -1,0 +1,25 @@
+{
+  "cell": "qwen4-max-or-pin-alibaba",
+  "safe_cell": "qwen4-max-or-pin-alibaba",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 123,
+    "GENERIC_ESSAY": 2
+  },
+  "confidence_counts": {
+    "Medium": 118,
+    "High": 7
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "qwen/qwen4-max"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen4-max-or-pin-alibaba/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen4-max-or-pin-alibaba/aggregate.md"
+}
