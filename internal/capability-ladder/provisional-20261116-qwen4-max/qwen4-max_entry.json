@@ -1,0 +1,12 @@
+{
+  "ladder": null,
+  "ladder_max": 220,
+  "match_confidence": "exact",
+  "matched_model": "Qwen4 Max",
+  "measured_rungs": 0,
+  "n_rungs": 22,
+  "point_variant": null,
+  "provisional_note": "Unscored as of 2026-11-16: AA's Qwen4 Max page exists (HTTP 200, correct title, release date 2026-11-16) but exposes no currentModel object in the decoded Next Flight payload. No benchmark values were taken from currentRelease (which carries only an Intelligence Index), initialModels or comparison rows. Zero admissible measured rungs; at least three are required. Recheck currentModel availability.",
+  "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+  "status": "not_scored"
+}

@@ -196,6 +196,7 @@ MODEL_SLUGS = {
     "qwen3-7-max": "qwen/qwen3.7-max",
     "qwen3-8-max": "qwen/qwen3.8-max",
     "qwen3-8-omni-flash": "qwen/qwen3.8-omni-flash",
+    "qwen4-max": "qwen/qwen4-max",
     "qwen3-7-flash": "qwen/qwen3.7-flash",
     "qwen3-5-plus-20260420": "qwen/qwen3.5-plus-20260420",
     "qwen3-6-flash": "qwen/qwen3.6-flash",

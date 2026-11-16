@@ -1,0 +1,13 @@
+{
+  "qwen4-max": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 590701,
+    "fetched_date": "2026-11-16",
+    "final_url": "https://artificialanalysis.ai/models/qwen4-max",
+    "html_bytes": 1118452,
+    "html_sha256": "7403394f70872ea715b0018548dc6dc18c90efa36769993df1c7e8e53c2efb9e",
+    "http_status": 200,
+    "title": "Qwen4 Max - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen4-max"
+  }
+}
