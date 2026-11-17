@@ -1,0 +1,8 @@
+{
+  "initial_splits": [
+    "CAP_20261117-gpt-6-2-astra-house_gpt-6-2-astra_G1_9",
+    "CAP_20261117-gpt-6-2-astra-house_gpt-6-2-astra_G2_15"
+  ],
+  "residual_splits": [],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

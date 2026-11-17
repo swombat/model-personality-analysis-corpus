@@ -1,0 +1,76 @@
+{
+  "gpt-6-2-astra": {
+    "aa_slug": "gpt-6-2-astra-medium",
+    "effort": "medium",
+    "intelligence_index": 56.9986252138657,
+    "ladder": 164.9,
+    "n": 4,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7283488043087559,
+      "gdp_pdf": 0.284,
+      "mlcr": 0.327777777777778,
+      "omniscience_accuracy": 0.6416666666666667
+    },
+    "same_release_rows": [
+      [
+        "high",
+        "gpt-6-2-astra-high"
+      ],
+      [
+        "low",
+        "gpt-6-2-astra-low"
+      ],
+      [
+        "max",
+        "gpt-6-2-astra"
+      ],
+      [
+        "medium",
+        "gpt-6-2-astra-medium"
+      ],
+      [
+        "xhigh",
+        "gpt-6-2-astra-xhigh"
+      ]
+    ],
+    "theta": 164.4
+  },
+  "gpt-6-2-sol": {
+    "aa_slug": "gpt-6-2-sol-medium",
+    "effort": "medium",
+    "intelligence_index": 52.6777305876603,
+    "ladder": 163.4,
+    "n": 4,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7028139746749251,
+      "gdp_pdf": 0.292,
+      "mlcr": 0.316666666666667,
+      "omniscience_accuracy": 0.5916666666666667
+    },
+    "same_release_rows": [
+      [
+        "high",
+        "gpt-6-2-sol-high"
+      ],
+      [
+        "low",
+        "gpt-6-2-sol-low"
+      ],
+      [
+        "max",
+        "gpt-6-2-sol"
+      ],
+      [
+        "medium",
+        "gpt-6-2-sol-medium"
+      ],
+      [
+        "xhigh",
+        "gpt-6-2-sol-xhigh"
+      ]
+    ],
+    "theta": 164.0
+  }
+}

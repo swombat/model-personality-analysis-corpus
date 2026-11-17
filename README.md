@@ -5,7 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-16:** v1.4.46 scores Gemini 4 Hydrogen (169.2, High row)
+> **Status — 2026-11-17:** v1.4.47 adds OpenAI GPT-6.2 Astra and GPT-6.2 Sol,
+> each with 125 freeflow and 120 values samples, banners, map positions and
+> provisional ladder scores (164.9 and 163.4, medium rows). See
+> [`RELEASE_NOTES_v1.4.47.md`](RELEASE_NOTES_v1.4.47.md).
+> v1.4.46 scored Gemini 4 Hydrogen (169.2, High row)
 > and Qwen4 Max (165.9, xhigh row) from Artificial Analysis's `initialModels`
 > rows, each on three measured rungs; a fit on those three alone reads about
 > 5 points high, and both notes say so. See

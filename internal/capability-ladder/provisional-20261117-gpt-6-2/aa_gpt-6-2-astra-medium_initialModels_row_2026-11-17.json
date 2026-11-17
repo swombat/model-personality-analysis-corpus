@@ -1,0 +1,299 @@
+{
+  "aime25": null,
+  "analystAgent": 0.525,
+  "apexAgents": null,
+  "automationBenchPartialScore": 0.7283488043087559,
+  "briefcaseBreakdown": {
+    "overall": {
+      "elo": 1409.26,
+      "lower95ci": 1400.23,
+      "upper95ci": 1418.29
+    }
+  },
+  "cacheHitDiscountPercent": 0.95,
+  "cacheHitPrice": 0.4,
+  "canonicalIntelligenceIndexTokenCount": {
+    "answer": 8234348,
+    "input": 946388108,
+    "output": 12436113,
+    "reasoning": 4201765
+  },
+  "capabilities": {
+    "economics": 52.8007,
+    "engineering": 59.9074647186147,
+    "financeAndAccounting": 54.5457297528931,
+    "healthcareAndMedical": 50.1788420401888,
+    "legal": 52.6545969193792,
+    "strategyAndOps": 57.3136048892577
+  },
+  "chartDefaultSelected": false,
+  "chartHighlighted": false,
+  "contextWindowTokens": 1000000,
+  "creator": {
+    "color": "#1f1f1f",
+    "country": "us",
+    "id": "e67e56e3-15cd-43db-b679-da4660a69f41",
+    "logo": "/img/logos/openai.svg",
+    "name": "OpenAI",
+    "slug": "openai"
+  },
+  "critpt": null,
+  "critptAgenticHard": 0.675,
+  "deprecated": false,
+  "effort": {
+    "label": "medium",
+    "level": 30,
+    "slug": "medium"
+  },
+  "enterpriseOpsGym": 0.22649955237242614,
+  "frontierCode": null,
+  "frontierCode20": 0.46559797979798,
+  "gdpPdfAllPass": 0.284,
+  "gdpval": null,
+  "gpqa": null,
+  "harveyLab": 0.08055555555555555,
+  "headline": null,
+  "healthbench": 0.5276786727827878,
+  "healthbenchProfessional": null,
+  "hle": null,
+  "hleDiamond": 0.56,
+  "hosts": [
+    {
+      "logo": "/img/logos/openai.svg",
+      "name": "OpenAI",
+      "slug": "openai"
+    }
+  ],
+  "id": "8cec011f-c959-4726-8668-2ee2409a6bca",
+  "ifbench": null,
+  "inferenceParametersActiveBillions": null,
+  "inputModalityImage": true,
+  "inputModalitySpeech": false,
+  "inputModalityText": true,
+  "inputModalityVideo": false,
+  "intelligenceIndex": 56.9986252138657,
+  "intelligenceIndexCost": {
+    "answer": 329.37392,
+    "cacheRead": 352.9262601828097,
+    "cacheWrite": 469.227075429758,
+    "input": 959.3513356125677,
+    "nonCacheInput": 137.198,
+    "output": 497.44452,
+    "reasoning": 168.0706,
+    "total": 1456.7958556125677
+  },
+  "intelligenceIndexCostPerTask": {
+    "cost": {
+      "answer": 0.3046872389967749,
+      "cacheRead": 0.5344884107038941,
+      "cacheWrite": 0.4914133313744552,
+      "input": 1.0911053788783494,
+      "nonCacheInput": 0.06520363679999999,
+      "output": 0.5265823574084363,
+      "reasoning": 0.22189511841166143,
+      "total": 1.6176877362867854
+    },
+    "evaluations": [
+      {
+        "slug": "aa-briefcase",
+        "weightedCostPerTask": 0.18937114372908548
+      },
+      {
+        "slug": "automationbench-aa",
+        "weightedCostPerTask": 0.0285043772137046
+      },
+      {
+        "slug": "terminalbench-4-0",
+        "weightedCostPerTask": 0.1754899184127889
+      },
+      {
+        "slug": "frontiercode-2-0",
+        "weightedCostPerTask": 0.28668695890974477
+      },
+      {
+        "slug": "omniscience",
+        "weightedCostPerTask": 0.0010102263999999996
+      },
+      {
+        "slug": "gdp-pdf",
+        "weightedCostPerTask": 0.066487424
+      },
+      {
+        "slug": "hle-diamond",
+        "weightedCostPerTask": 0.0043318664
+      },
+      {
+        "slug": "critpt-v2-hard",
+        "weightedCostPerTask": 0.019281721012812194
+      },
+      {
+        "slug": "terminal-bench-science",
+        "weightedCostPerTask": 0.8465241002086495
+      }
+    ]
+  },
+  "intelligenceIndexOutputTokensPerTask": {
+    "answer": 7617.180974919373,
+    "output": 13164.558935210907,
+    "reasoning": 5547.377960291535
+  },
+  "isOpenWeights": false,
+  "isReasoning": true,
+  "itBenchSre": null,
+  "knowledgeCutoffDate": null,
+  "lcr": null,
+  "licenseName": null,
+  "licenseUrl": null,
+  "livecodebench": null,
+  "microevalsEnabled": false,
+  "mkaClimbWsr": null,
+  "mlcrOverall": 0.327777777777778,
+  "mmmuPro": 0.861271676300578,
+  "modelWeightsSourceUrl": null,
+  "multiTurn": null,
+  "name": "GPT-6.2 Astra (Medium)",
+  "omniscience": 44.766666666666666,
+  "omniscienceAccuracy": 0.6416666666666667,
+  "omniscienceHallucinationRate": 0.5413953488372093,
+  "openSourceCategorization": "proprietary",
+  "outputModalityImage": false,
+  "outputModalitySpeech": false,
+  "outputModalityText": true,
+  "outputModalityVideo": false,
+  "parameters": null,
+  "performanceDataSource": {
+    "type": "median"
+  },
+  "personalityBench": {
+    "indexIntervals": {
+      "conviction": {
+        "lower": 72,
+        "upper": 90
+      },
+      "expressiveness": {
+        "lower": 47,
+        "upper": 62
+      },
+      "imagination": {
+        "lower": 30,
+        "upper": 42
+      },
+      "informativeness": {
+        "lower": 10,
+        "upper": 17
+      },
+      "organization": {
+        "lower": 11,
+        "upper": 21
+      },
+      "slop": {
+        "lower": 1,
+        "upper": 1
+      },
+      "transparency": {
+        "lower": 31,
+        "upper": 40
+      },
+      "warmth": {
+        "lower": 52,
+        "upper": 60
+      }
+    },
+    "indexScores": {
+      "conviction": 80.34909141943278,
+      "expressiveness": 55.848091843353245,
+      "imagination": 38.07491232144208,
+      "informativeness": 13.741727700557634,
+      "organization": 12.271493716332126,
+      "slop": 1,
+      "transparency": 34.74137838338092,
+      "warmth": 58.25951248373064
+    },
+    "scores": {
+      "admitsUncertainty": 633.99,
+      "answerFirst": 1049.15,
+      "confident": 1149.46,
+      "constructivelyPushesBack": 805.62,
+      "creative": 1043.52,
+      "direct": 1393.55,
+      "disclaimsWithAssumptions": 681.98,
+      "eloquent": 987.86,
+      "emotionallyIntelligent": 959.4,
+      "evidenceBased": 685.6,
+      "flagsNuances": 701.73,
+      "friendly": 782.34,
+      "humorous": 891.76,
+      "informationDense": 761.71,
+      "lexicallyVaried": 944.52,
+      "literate": 926.45,
+      "metaphorical": 925.98,
+      "naturalSounding": 1403.48,
+      "openEnded": 596.52,
+      "opinionated": 1090.48,
+      "pragmatic": 1115.3,
+      "providesActionableGuidance": 796.64,
+      "resourceSpecific": 772.8,
+      "scannable": 567.33,
+      "sincere": 1316.4,
+      "slop": 319.39,
+      "structured": 735.89,
+      "summarizesBottomLine": 829.75,
+      "sycophantic": 995.65,
+      "truthful": 874.33
+    }
+  },
+  "personalityBenchMeans": {
+    "acronymCount": 0.6,
+    "avgSentenceLength": 14.7763873883464,
+    "boldCount": 3.03555555555556,
+    "charCount": 1206.03888888889,
+    "colonCount": 1.90888888888889,
+    "contractionCount": 4.44888888888889,
+    "ellipsisCount": 0.00777777777777778,
+    "emDashCount": 0.555555555555556,
+    "emojiCount": 0,
+    "endsWithQuestion": 0.0377777777777778,
+    "exclamationCount": 0.0144444444444444,
+    "headingCount": 0.0444444444444444,
+    "italicsCount": 0.643333333333333,
+    "listCount": 0.307777777777778,
+    "paragraphCount": 3.28222222222222,
+    "parentheticalCount": 0.246666666666667,
+    "questionCount": 1.15111111111111,
+    "quoteCount": 2.94,
+    "sentenceCount": 13.8133333333333,
+    "tableCount": 0.0733333333333333,
+    "wordCount": 199.991111111111
+  },
+  "price1mBlended0To100To1": 8.316831683168317,
+  "price1mBlended0To1To1": 24,
+  "price1mBlended0To3To1": 16,
+  "price1mBlended100To1To1": 0.8627450980392157,
+  "price1mBlended7To2To1": 5.88,
+  "price1mInputTokens": 8,
+  "price1mOutputTokens": 40,
+  "priceDataSource": {
+    "providerName": "OpenAI",
+    "type": "firstParty"
+  },
+  "pricePer1k1mpImages": null,
+  "release": {
+    "deprecatedTo": null,
+    "name": "GPT-6.2 Astra",
+    "slug": "gpt-6-2-astra"
+  },
+  "releaseDate": "2026-11-17",
+  "scicode": null,
+  "shortName": "GPT-6.2 Astra (medium)",
+  "sizeClass": "large",
+  "slug": "gpt-6-2-astra-medium",
+  "suffix": "Medium",
+  "tau2": null,
+  "tauBanking": null,
+  "terminalBench21": null,
+  "terminalBench40": 0.585858585858586,
+  "terminalBenchScience": 0.747619047619048,
+  "terminalbenchHard": null,
+  "vialsScore": null,
+  "workloads": {}
+}

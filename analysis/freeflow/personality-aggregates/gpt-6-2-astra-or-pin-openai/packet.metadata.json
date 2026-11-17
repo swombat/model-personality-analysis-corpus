@@ -1,0 +1,25 @@
+{
+  "cell": "gpt-6-2-astra-or-pin-openai",
+  "safe_cell": "gpt-6-2-astra-or-pin-openai",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 62,
+    "GENRE_FICTION": 63
+  },
+  "confidence_counts": {
+    "Medium": 122,
+    "High": 3
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "openai/gpt-6.2-astra"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gpt-6-2-astra-or-pin-openai/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gpt-6-2-astra-or-pin-openai/aggregate.md"
+}

@@ -1,0 +1,190 @@
+{
+  "ladder": 163.4,
+  "ladder_max": 220,
+  "match_confidence": "exact",
+  "matched_model": "GPT-6.2 Sol",
+  "measured_rungs": 4,
+  "n_rungs": 22,
+  "point_variant": "medium",
+  "provisional_note": "Provisional. Measured from the exact gpt-6-2-sol-medium row in Artificial Analysis's page data (initialModels) on 2026-11-17: AA's pages no longer expose the currentModel object that earlier scores were read from, and the same model's row now sits in initialModels (slug, release and effort checked). Medium effort row (gpt-6-2-sol-medium), OpenAI's provider default, which the capture used; AA also lists low, high, xhigh and max (its default page is max), and those are not substituted. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits of this kind read high: on three rungs (AutomationBench, Omniscience accuracy, GDP.pdf), 19 models scoring 150 or more came out a median 4.9 points above their all-rung fit (provisional-20261116-initialmodels/three_rung_bias.py); this fit adds MLCR as a fourth rung, whose bias is not separately measured. Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
+  "rungs": [
+    {
+      "how": "fitted",
+      "key": "humaneval",
+      "max": 10,
+      "name": "HumanEval",
+      "points": 9.97,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "mmlu",
+      "max": 10,
+      "name": "MMLU",
+      "points": 9.83,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "math_500",
+      "max": 10,
+      "name": "MATH-500",
+      "points": 9.94,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "mmlu_pro",
+      "max": 10,
+      "name": "MMLU-Pro",
+      "points": 9.63,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "aime24",
+      "max": 10,
+      "name": "AIME 2024",
+      "points": 10.0,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "aime25",
+      "max": 10,
+      "name": "AIME 2025",
+      "points": 9.93,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "livecodebench",
+      "max": 10,
+      "name": "LiveCodeBench",
+      "points": 9.6,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "gpqa_diamond",
+      "max": 10,
+      "name": "GPQA Diamond",
+      "points": 9.47,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "ifbench",
+      "max": 10,
+      "name": "IFBench",
+      "points": 7.54,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "tau2_telecom",
+      "max": 10,
+      "name": "\u03c4\u00b2-Telecom",
+      "points": 9.66,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "aa_lcr",
+      "max": 10,
+      "name": "AA-LCR",
+      "points": 8.87,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "terminalbench_v21",
+      "max": 10,
+      "name": "Terminal-Bench 2.1",
+      "points": 8.72,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "scicode",
+      "max": 10,
+      "name": "SciCode",
+      "points": 5.99,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "terminalbench_hard",
+      "max": 10,
+      "name": "Terminal-Bench Hard",
+      "points": 6.57,
+      "source_date": null
+    },
+    {
+      "how": "measured",
+      "key": "automationbench",
+      "max": 10,
+      "name": "AutomationBench",
+      "points": 7.03,
+      "source_date": "2026-11-17"
+    },
+    {
+      "how": "fitted",
+      "key": "briefcase_rubric",
+      "max": 10,
+      "name": "AA-Briefcase (rubric pass)",
+      "points": 5.29,
+      "source_date": null
+    },
+    {
+      "how": "fitted",
+      "key": "hle",
+      "max": 10,
+      "name": "HLE",
+      "points": 4.76,
+      "source_date": null
+    },
+    {
+      "how": "measured",
+      "key": "mlcr",
+      "max": 10,
+      "name": "MLCR",
+      "points": 3.17,
+      "source_date": "2026-11-17"
+    },
+    {
+      "how": "fitted",
+      "key": "tau3_banking",
+      "max": 10,
+      "name": "\u03c4\u00b3-Banking",
+      "points": 4.52,
+      "source_date": null
+    },
+    {
+      "how": "measured",
+      "key": "omniscience_accuracy",
+      "max": 10,
+      "name": "Omniscience acc.",
+      "points": 5.92,
+      "source_date": "2026-11-17"
+    },
+    {
+      "how": "fitted",
+      "key": "critpt",
+      "max": 10,
+      "name": "CritPt",
+      "points": 4.09,
+      "source_date": null
+    },
+    {
+      "how": "measured",
+      "key": "gdp_pdf",
+      "max": 10,
+      "name": "GDP.pdf",
+      "points": 2.92,
+      "source_date": "2026-11-17"
+    }
+  ],
+  "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+  "status": "scored"
+}

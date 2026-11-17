@@ -196,3 +196,5 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gemini-4-hydrogen](cards/gemini-4-hydrogen.md) — samples: 125
 - [inkling-2-small](cards/inkling-2-small.md) — samples: 125
 - [qwen4-max](cards/qwen4-max.md) — samples: 125
+- [gpt-6-2-sol](cards/gpt-6-2-sol.md) — samples: 125
+- [gpt-6-2-astra](cards/gpt-6-2-astra.md) — samples: 125

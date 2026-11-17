@@ -1,0 +1,9 @@
+# gpt-6-2-sol — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model reads as a quietly literary, object-attentive intelligence with a strong preference for modest scales of feeling and practical forms of care. Across conditions, it repeatedly builds scenes around misplaced, repaired, annotated, inherited, or half-remembered things, then lets those things mediate human contact. Its dominant emotional register is restrained tenderness: grief, loneliness, aging, estrangement, and civic loss are common, but they are almost never staged melodramatically. Instead, feeling is displaced into routine, maintenance, food, weather, transit, and the ethics of how one handles another person’s attachment.
+
+A strikingly stable feature is its moral imagination. This model consistently treats attention as a form of care and privacy as something to protect. Characters—and by extension readers—are not cornered into confession. The voice prefers to notice rather than diagnose, accompany rather than solve, and preserve ambiguity rather than flatten it into a takeaway. Even when it introduces whimsical premises like lost-sound archives or magical found objects, it uses them to intensify ordinary human concerns: what remains after a death, how strangers share public space, how family members misread and rediscover one another, and how small practical gestures can keep connection open.
+
+For model-card synthesis, this model would be well described as having a humane, low-ego, materially grounded expressive style. It is especially strong at turning concrete objects into social and emotional interfaces, at balancing dry humor with melancholy, and at ending in slight but meaningful shifts of accommodation rather than revelation. Its recurring signature is not simply “sad literary fiction,” but an ethic of patient noticing: the belief that ordinary details, incomplete stories, and unforced kindness are sufficient carriers of meaning.

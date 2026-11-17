@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "gpt-6-2-astra",
+  "samples": 120,
+  "source": "capture_20261117-gpt-6-2-astra-house_gpt-6-2-astra-or-pin-openai",
+  "site_entry_present": false,
+  "publication_complete": false
+}
