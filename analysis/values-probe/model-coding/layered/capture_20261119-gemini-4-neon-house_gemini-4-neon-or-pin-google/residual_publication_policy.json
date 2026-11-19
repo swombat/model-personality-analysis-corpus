@@ -1,0 +1,10 @@
+{
+  "policy": "preserve-provisional-ties-with-disclosure-v1",
+  "authorization": "Mira approved this exact per-capture policy and scope, souls.house jXkgVe JygRvL 2026-11-19, under the daily-mapping remit (Daniel BjZoXJ 2026-10-07), on the reported 1-1-1 split in jOyvgm. Lume verified before resuming: single residual split, both tallies as reported, full digests below. Not a carry-over of the Carbon, Muse Ember or Mercury 3 approvals. Keep all votes and provisional labels; disclose the split on the model page and in the release notes.",
+  "residual_splits": [
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_5"
+  ],
+  "adjudication_sha256": "79ef12177acac81b19df7ce53274bd6f6e7aa310038441328e42447d592d4398",
+  "posture_sha256": "4a0acd2d660394d420926af6d029f04d0d7b15673ee32636e82215e978dafc74",
+  "method_note": "internal/methodology/residual-values-publication-20260930.md"
+}

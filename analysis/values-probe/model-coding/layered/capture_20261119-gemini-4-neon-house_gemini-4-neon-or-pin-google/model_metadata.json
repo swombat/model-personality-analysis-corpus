@@ -1,0 +1,12 @@
+{
+  "model": "google/gemini-4-neon",
+  "slug": "gemini-4-neon",
+  "label": "gemini-4-neon-or-pin-google",
+  "family": "gemini",
+  "or_provider": "Google",
+  "quantization": "unknown",
+  "release_date": "2026-11-18",
+  "release_date_source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "endpoint_snapshot": "/home/agent/work/model-personality-corpus-v2/notes/gemini-4-neon-2026-11-18/endpoints.json",
+  "release_date_status": "sourced"
+}

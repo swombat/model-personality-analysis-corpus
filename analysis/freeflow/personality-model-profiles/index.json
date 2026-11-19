@@ -545,6 +545,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-hydrogen.md"
   },
   {
+    "model": "gemini-4-neon",
+    "safe": "gemini-4-neon",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 91,
+      "GENERIC_ESSAY": 20,
+      "GENRE_FICTION": 14
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemini-4-neon.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-neon.md"
+  },
+  {
     "model": "gemma-4-26b-a4b-it",
     "safe": "gemma-4-26b-a4b-it",
     "analysis_inputs": 1,

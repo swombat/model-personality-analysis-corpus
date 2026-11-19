@@ -1,0 +1,33 @@
+{
+  "gemini-4-neon-high": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 638318,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-19",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-neon",
+    "html_bytes": 1237613,
+    "html_sha256": "d94ed0ce20ba67056a5f12e623de5ad20eee77b5958732e7b5a3d5f51e8b4f51",
+    "http_status": 200,
+    "initialModels_len": 28,
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-neon-high"
+      ],
+      [
+        "low",
+        "gemini-4-neon-low"
+      ],
+      [
+        "medium",
+        "gemini-4-neon-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-neon"
+      ]
+    ],
+    "title": "Gemini 4 Neon Models - Intelligence, Performance &amp; Price Comparison | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-neon"
+  }
+}

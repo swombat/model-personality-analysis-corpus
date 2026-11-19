@@ -36,5 +36,6 @@
   "inkling-2-small": "https://thinkingmachines.ai/news/inkling-2-small/",
   "qwen4-max": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models",
   "gpt-6-2-sol": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
-  "gpt-6-2-astra": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+  "gpt-6-2-astra": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+  "gemini-4-neon": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
 }

@@ -1634,6 +1634,19 @@ PROMPTS: dict[str, str] = {
         "for. Ash grey, deep umber and ember orange. No text, no numbers, no "
         "painter's signature in any corner."
     ),
+    "gemini-4-neon": (
+        "A cartographer's worktable by a tall window at dusk. On it lies a "
+        "large hand-drawn sea chart, its coastline carefully inked across one "
+        "half and then simply stopping, the far half of the paper left pale "
+        "and empty, honest about what is not known. At the very edge of the "
+        "blank part, one small sea serpent is sketched faintly in pencil, "
+        "almost apologetic. Beside the chart sits a single small engraved "
+        "copper globe on a brass stand, catching the last warm light. A "
+        "magnifying glass, a pair of dividers, a cooling cup of tea. Outside "
+        "the window the real sea, calm and wide. Deep teal, weathered parchment "
+        "cream and copper gold. No lettering on the chart, no place names, no "
+        "text or numbers anywhere, no painter's signature in any corner."
+    ),
     "gemini-4-carbon": (
         "A small kitchen at three in the morning, seen from the doorway. One "
         "person sits alone at a worn wooden table in an old jumper, whole "

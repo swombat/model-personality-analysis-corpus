@@ -1,0 +1,16 @@
+{
+  "initial_splits": [
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_10",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_13",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_15",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_16",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_17",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_19",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_26",
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_5"
+  ],
+  "residual_splits": [
+    "CAP_20261119-gemini-4-neon-house_gemini-4-neon_G2_5"
+  ],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}

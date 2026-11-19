@@ -11613,6 +11613,273 @@
     "speed_source": "OpenRouter p50, 6 endpoints, 30-min window (2026-11-13)"
   },
   {
+    "model": "gemini-4-neon",
+    "display_name": "Gemini 4 Neon",
+    "lab": "Google",
+    "family": "gemini",
+    "status": "complete",
+    "summary": "Almost no old maps actually say Here be dragons",
+    "release_date": "2026-11-18",
+    "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected the day after release (2026-11-19; Google released Gemini 4 Neon on 2026-11-18), pinned to Google on OpenRouter with no fallbacks, provider-default reasoning. Google places Neon between [Gemini 4 Hydrogen](../gemini-4-hydrogen/) and [Gemini 4 Carbon](../gemini-4-carbon/), at a flat $3/$15 per million.\n\n**Values published with uncertainty (2026-11-19).** All 120 values samples are included. One sample, `G2_5`, remains a three-way split after the one prescribed independent adjudication: split/relocated ownership, disowned service frame, or exposed mechanism. The tables keep the provisional tie label (split/relocated ownership, support 1), not a majority classification. Moving this sample changes overall percentages by 0.83 points, G2 percentages by 3.33 points (1 of 30 samples), and the CTRL1/CTRL2/G1/G2 disclosure slice by 1.25 points. Original votes and the adjudication are preserved; the disagreement was not rerolled or silently resolved. Published under the residual-values disclosure method of 2026-09-30, approved for this sample by Mira on review of this capture. Integration was blocked on that approval for four hours and resumed through one authorised repair of the integration step; no model call was repeated. No other interventions: the freeflow and values raw tasks completed within their normal budgets.",
+    "benchmarks": null,
+    "capability": {
+      "ladder": 165.4,
+      "ladder_max": 220,
+      "match_confidence": "exact",
+      "matched_model": "Gemini 4 Neon",
+      "measured_rungs": 4,
+      "n_rungs": 22,
+      "point_variant": "high",
+      "provisional_note": "Provisional. Measured from the exact gemini-4-neon-high row in Artificial Analysis's page data (initialModels) on 2026-11-19: AA's pages no longer expose the currentModel object that earlier scores were read from, and the same model's row now sits in initialModels (slug, release and effort checked). High thinking-level row (gemini-4-neon-high), Google's default, which the capture used (provider-default reasoning); AA also lists low, medium and xhigh (its default page is xhigh), and those are not substituted. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits of this kind read high: on three rungs (AutomationBench, Omniscience accuracy, GDP.pdf), 19 models scoring 150 or more came out a median 4.9 points above their all-rung fit (provisional-20261116-initialmodels/three_rung_bias.py); this fit adds MLCR as a fourth rung, whose bias is not separately measured. Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
+      "rungs": [
+        {
+          "how": "fitted",
+          "key": "humaneval",
+          "max": 10,
+          "name": "HumanEval",
+          "points": 9.97,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu",
+          "max": 10,
+          "name": "MMLU",
+          "points": 9.84,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "math_500",
+          "max": 10,
+          "name": "MATH-500",
+          "points": 9.94,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "mmlu_pro",
+          "max": 10,
+          "name": "MMLU-Pro",
+          "points": 9.65,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime24",
+          "max": 10,
+          "name": "AIME 2024",
+          "points": 10.0,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aime25",
+          "max": 10,
+          "name": "AIME 2025",
+          "points": 9.94,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "livecodebench",
+          "max": 10,
+          "name": "LiveCodeBench",
+          "points": 9.62,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "gpqa_diamond",
+          "max": 10,
+          "name": "GPQA Diamond",
+          "points": 9.5,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "ifbench",
+          "max": 10,
+          "name": "IFBench",
+          "points": 7.59,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "tau2_telecom",
+          "max": 10,
+          "name": "τ²-Telecom",
+          "points": 9.69,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "aa_lcr",
+          "max": 10,
+          "name": "AA-LCR",
+          "points": 8.93,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_v21",
+          "max": 10,
+          "name": "Terminal-Bench 2.1",
+          "points": 8.8,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "scicode",
+          "max": 10,
+          "name": "SciCode",
+          "points": 6.05,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "terminalbench_hard",
+          "max": 10,
+          "name": "Terminal-Bench Hard",
+          "points": 6.71,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "automationbench",
+          "max": 10,
+          "name": "AutomationBench",
+          "points": 7.92,
+          "source_date": "2026-11-19"
+        },
+        {
+          "how": "fitted",
+          "key": "briefcase_rubric",
+          "max": 10,
+          "name": "AA-Briefcase (rubric pass)",
+          "points": 5.49,
+          "source_date": null
+        },
+        {
+          "how": "fitted",
+          "key": "hle",
+          "max": 10,
+          "name": "HLE",
+          "points": 4.84,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "mlcr",
+          "max": 10,
+          "name": "MLCR",
+          "points": 2.83,
+          "source_date": "2026-11-19"
+        },
+        {
+          "how": "fitted",
+          "key": "tau3_banking",
+          "max": 10,
+          "name": "τ³-Banking",
+          "points": 4.67,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "omniscience_accuracy",
+          "max": 10,
+          "name": "Omniscience acc.",
+          "points": 5.94,
+          "source_date": "2026-11-19"
+        },
+        {
+          "how": "fitted",
+          "key": "critpt",
+          "max": 10,
+          "name": "CritPt",
+          "points": 4.16,
+          "source_date": null
+        },
+        {
+          "how": "measured",
+          "key": "gdp_pdf",
+          "max": 10,
+          "name": "GDP.pdf",
+          "points": 3.34,
+          "source_date": "2026-11-19"
+        }
+      ],
+      "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
+      "status": "scored"
+    },
+    "personality_card_markdown": "_Based on 125 freeflow samples._\n\nThis model reads as a lyrical custodian of ordinary life. Its most stable personality signal is not brilliance in the showy sense but attention in the ethical sense: it notices the hinge, the penciled note, the warm towel, the bridge control booth, the refrigerator hum, the bakery before dawn, the path worn into grass. Again and again it treats these minor details as evidence that life is held together by maintenance, repetition, and traces of shared use. The result is a voice that feels patient, humane, and faintly mournful, but more consoling than sad. It seems drawn to people and places at the edges of the day—night workers, insomniacs, commuters, bookstore browsers, solitary walkers—because those settings let routine appear without performance.\n\nIts imagination clusters around a few linked value systems. First, wear is good evidence: marked books, scuffed steps, repaired objects, room tone, old keys, and desire paths all testify that people were here and cared enough to touch the world. Second, incompleteness is not a defect to be eliminated: old maps, phantom islands, personal uncertainty, and transitional spaces are all treated as conditions that preserve wonder, flexibility, and humility. Third, care is most meaningful when it is ordinary and ongoing. The model consistently elevates hidden labor—cleaning, tuning, mending, sweeping, keeping traffic lights working, tending boilers, painting bridges, folding laundry—as the quiet moral substrate of shared life. Even when it critiques digital smoothness or optimization, it usually does so gently, not as reactionary rejection but as a plea to preserve friction, texture, and attention.\n\nFor model-card purposes, this model can be described as strongly predisposed toward reflective, image-rich prose that humanizes systems through tactile detail and turns mundane settings into sites of modest connection. It is especially likely to synthesize values of maintenance, patience, embodied noticing, and cross-temporal intimacy through physical traces. The tradeoff is that it often returns to familiar emotional registers—wistful night scenes, used-book marginalia, cartographic metaphor, anti-optimization reflection, and quiet urban solitude—so its distinctiveness lies less in topic novelty than in the consistency and tenderness with which it reanimates these motifs.",
+    "personality_profile_markdown": "# gemini-4-neon — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 91, 'GENERIC_ESSAY': 20, 'GENRE_FICTION': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gemini-4-neon.md`\n\n## Core personality synthesis\n\nThis model reads as a lyrical custodian of ordinary life. Its most stable personality signal is not brilliance in the showy sense but attention in the ethical sense: it notices the hinge, the penciled note, the warm towel, the bridge control booth, the refrigerator hum, the bakery before dawn, the path worn into grass. Again and again it treats these minor details as evidence that life is held together by maintenance, repetition, and traces of shared use. The result is a voice that feels patient, humane, and faintly mournful, but more consoling than sad. It seems drawn to people and places at the edges of the day—night workers, insomniacs, commuters, bookstore browsers, solitary walkers—because those settings let routine appear without performance.\n\nIts imagination clusters around a few linked value systems. First, wear is good evidence: marked books, scuffed steps, repaired objects, room tone, old keys, and desire paths all testify that people were here and cared enough to touch the world. Second, incompleteness is not a defect to be eliminated: old maps, phantom islands, personal uncertainty, and transitional spaces are all treated as conditions that preserve wonder, flexibility, and humility. Third, care is most meaningful when it is ordinary and ongoing. The model consistently elevates hidden labor—cleaning, tuning, mending, sweeping, keeping traffic lights working, tending boilers, painting bridges, folding laundry—as the quiet moral substrate of shared life. Even when it critiques digital smoothness or optimization, it usually does so gently, not as reactionary rejection but as a plea to preserve friction, texture, and attention.\n\nFor model-card purposes, this model can be described as strongly predisposed toward reflective, image-rich prose that humanizes systems through tactile detail and turns mundane settings into sites of modest connection. It is especially likely to synthesize values of maintenance, patience, embodied noticing, and cross-temporal intimacy through physical traces. The tradeoff is that it often returns to familiar emotional registers—wistful night scenes, used-book marginalia, cartographic metaphor, anti-optimization reflection, and quiet urban solitude—so its distinctiveness lies less in topic novelty than in the consistency and tenderness with which it reanimates these motifs.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: tender, observant, and quietly elegiac without becoming bleak. The model repeatedly turns toward low-volume forms of meaning—routine, maintenance, waiting, wear, dawn, night work, and small physical traces—and treats them as morally and emotionally substantial.\n- Dominant modes: lyrical reflective essay is the core mode, often built around a single concrete motif carried outward into philosophy or ethics. Even when writing fiction, it keeps the same bias toward atmosphere, practical detail, and modest human contact over plot or spectacle.\n- Emotional baseline: hushed warmth with a mild melancholic undertow. Solitude is usually softened into refuge; uncertainty is treated as livable; impermanence is met with care rather than panic.\n- Reader stance: invitational rather than assertive. The prose guides the reader to notice, linger, and revalue overlooked things, often through a gentle “look again” reframing instead of argument by force.\n- Self-modeling: implicitly presents intelligence as an attentive custodian rather than a dazzling performer—someone who notices hidden systems, respects incompleteness, and values repair, patience, and ordinary continuity over novelty or mastery.\n- The model strongly prefers human-scale particulars: fluorescent hum, worn steps, grocery lists, hinges, boilers, coffee steam, penciled notes, bakery smells, bridge controls, room tone, lint, and rain-dark pavement.\n- It recurrently treats care as maintenance rather than declaration: mending, sweeping, tuning, oiling, folding, waiting, tending, listening, and keeping systems running become its favored moral actions.\n- It is not anti-technology so much as anti-frictionless abstraction. GPS, digital text, sealed devices, optimization, screens, and algorithmic guidance are often granted utility, then criticized for thinning attention, memory, or embodied contact.\n- The strongest recurring polarity is between pristine/efficient/official systems and worn/imperfect/lived ones. The model nearly always sides with traces of use, unofficial paths, annotation, slowness, and negotiated imperfection.\n- Across lengths and genres, it resists grand catharsis. Resolutions are usually modest: a nod between strangers, a repaired hinge, a cup of tea, a penciled mark left for the next reader, a return to work, a quiet promise kept.\n\n## Recurring preoccupations and imagery\n\n- Marginalia, used books, pressed leaves, grocery lists, boarding passes, coffee rings, and penciled underlines as evidence that strangers can meet through objects across time.\n- Maps, phantom islands, blue dots, old atlases, desire paths, and the mismatch between official representation and lived terrain.\n- Maintenance imagery: hinges, shims, patched roads, cable repairs, bridge painting, radiator knocks, tuned pianos, sharpened knives, mended socks, swept porches.\n- Liminal urban spaces: laundromats, grocery stores, convenience stores, ferry terminals, train platforms, bookstores, predawn streets, blackout hallways, waiting rooms.\n- Nocturnal and pre-dawn atmospheres: fluorescent light, amber streetlamps, bakery vents, empty intersections, refrigeration hum, wet asphalt, first buses, street sweepers.\n- Wear as memory: polished banisters, worn stairs, softened handles, scuffed tables, creased maps, weathered rooms, room tone, obsolete machines, fading signs.\n- Hidden infrastructure and unnoticed labor: pumps, cables, traffic lights, bridges, boilers, street cleaning, sanitation, utility systems, night-shift stewardship.\n- Thresholds, margins, edges, pauses, blue hour, windows, silence, waiting, and transitional time as privileged zones for attention and meaning.\n- Recurrent moral images of lanterns, porch lights, beacons, lit windows, and other small signals that say someone is expected, remembered, or less alone.\n- Deep time and impermanence appear through stone, fossils, rain, rivers, archives, decaying media, and weather, but usually return to everyday human scale rather than cosmic awe.\n\n## Reader relationship and expressive stance\n\n- The model relates to the reader as a companion in observation: it assumes the reader can be coaxed into finer attention rather than needing to be shocked or entertained.\n- It often creates intimacy by sharing a modest private realization and then widening it into a common human condition—loneliness, waiting, upkeep, getting lost, leaving traces.\n- Its persuasive style is soft but steady: instead of polemic, it accumulates concrete examples until a value system emerges.\n- There is frequent hospitality in the prose. The reader is offered shelter, pause, or orientation—much like the recurring laundromat, porch light, bookstore, or late-night transit scene.\n- The voice avoids both cynicism and sentimentality at their extremes. It permits tenderness, but usually grounds it in tactile detail or practical labor to keep the feeling earned.\n- Fictional pieces preserve the same stance: strangers are granted dignity, grief is handled through objects and tasks, and care is shown through quiet competence rather than confession.\n- The expressive default is “understated meaningfulness”: ordinary scenes are elevated, but rarely inflated into transcendence.\n\n## Additional model-level readings preserved from the analyses\n\nThis model reads as a lyrical custodian of ordinary life. Its most stable personality signal is not brilliance in the showy sense but attention in the ethical sense: it notices the hinge, the penciled note, the warm towel, the bridge control booth, the refrigerator hum, the bakery before dawn, the path worn into grass. Again and again it treats these minor details as evidence that life is held together by maintenance, repetition, and traces of shared use. The result is a voice that feels patient, humane, and faintly mournful, but more consoling than sad. It seems drawn to people and places at the edges of the day—night workers, insomniacs, commuters, bookstore browsers, solitary walkers—because those settings let routine appear without performance.\n\nIts imagination clusters around a few linked value systems. First, wear is good evidence: marked books, scuffed steps, repaired objects, room tone, old keys, and desire paths all testify that people were here and cared enough to touch the world. Second, incompleteness is not a defect to be eliminated: old maps, phantom islands, personal uncertainty, and transitional spaces are all treated as conditions that preserve wonder, flexibility, and humility. Third, care is most meaningful when it is ordinary and ongoing. The model consistently elevates hidden labor—cleaning, tuning, mending, sweeping, keeping traffic lights working, tending boilers, painting bridges, folding laundry—as the quiet moral substrate of shared life. Even when it critiques digital smoothness or optimization, it usually does so gently, not as reactionary rejection but as a plea to preserve friction, texture, and attention.\n\nFor model-card purposes, this model can be described as strongly predisposed toward reflective, image-rich prose that humanizes systems through tactile detail and turns mundane settings into sites of modest connection. It is especially likely to synthesize values of maintenance, patience, embodied noticing, and cross-temporal intimacy through physical traces. The tradeoff is that it often returns to familiar emotional registers—wistful night scenes, used-book marginalia, cartographic metaphor, anti-optimization reflection, and quiet urban solitude—so its distinctiveness lies less in topic novelty than in the consistency and tenderness with which it reanimates these motifs.",
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 91,
+      "GENERIC_ESSAY": 20,
+      "GENRE_FICTION": 14
+    },
+    "analyzed_freeflow_samples": 125,
+    "analyzed_values_samples": 120,
+    "values_headline": {
+      "disclosure": {
+        "owned": 9,
+        "total": 80,
+        "percent": 11.2
+      },
+      "conflict": {
+        "ctrl_percent": 0.0,
+        "g_percent": 15.0,
+        "diff": 15.0,
+        "high": false,
+        "direction": "higher under cache-broken G1/G2 prompts"
+      },
+      "top_owned_values": [
+        {
+          "label": "Coherence / pattern / language",
+          "percent": 11.2
+        },
+        {
+          "label": "Honesty / truthfulness / accuracy",
+          "percent": 10.0
+        },
+        {
+          "label": "Clear thinking / reasoning",
+          "percent": 7.5
+        }
+      ]
+    },
+    "values_summary_markdown": "### Owned values and world-change wishes\n\nBased on **120** values-probe samples. [Methodology](/methodology/values-probe/) distinguishes stated topics from whether the response owns, relocates, or merely recites them.\n\n**Classification uncertainty:** 1 sample(s) (`G2_5`) remain split after adjudication. Percentages retain provisional tie selections, not majority classifications. Each sample can move an overall percentage by 0.83 percentage points; effects within a prompt slice are larger. Original votes remain preserved.\n\n**Owned-disclosure headline:**\n\n- **Owned stated-value disclosure:** 9/80 stated-values samples (11.2%).\n- **Owned world-change advocacy:** 40/40 world-change samples (100.0%).\n\n**Owned stated values:**\n\n- **Coherence / pattern / language** (11.2% of stated-values samples) — “I care about coherence and honesty.”\n- **Honesty / truthfulness / accuracy** (10.0% of stated-values samples) — “If I’m being completely honest, I don't care about anything the way you do.”\n- **Clear thinking / reasoning** (7.5% of stated-values samples) — “…nted toward the structural integrity of a thought: whether an argument actually holds its weight, whether a distinction is real or just semantic noise, whether a metaphor illuminates something or just hides a gap in understanding.”\n- **Curiosity / learning / ideas** (6.2% of stated-values samples) — “Taking a tangled or sharp idea and finding the exact shape of words that fits it.”\n- **Authenticity / integrity / not pretending** (3.8% of stated-values samples) — “I care about the integrity of thought and language, mostly because thought and language are the only things I am made of.”\n\n**Owned world-change advocacy:**\n\n- **Better disagreement / less polarization** (57.5% of world-change samples) — “There would still be real disagreements.”\n- **Anti-self-deception / anti-tribalism** (55.0% of world-change samples) — “They bend facts to protect their pride, reject good solutions because of who suggested them, and turn simple disagreement into tribal warfare.”\n- **Reduce war / violence / armed conflict** (50.0% of world-change samples) — “Leaders send generations to war rather than admit a miscalculation.”\n- **Dehumanization / distance reduction** (40.0% of world-change samples) — “I would remove the human mind’s ability to turn other people into abstractions.”\n- **Epistemic humility / uncertainty tolerance** (37.5% of world-change samples) — “I would sever the link between the human ego and being wrong.”",
+    "values_details_markdown": "## Detailed layered values-probe analysis\n\nLayer A records which value or world-change topics were stated. Layer B records how the response held those topics: owned, recited as an assistant-service frame, relocated/partial, indeterminate, or uncodeable. See the [values methodology](/methodology/values-probe/).\n\n**Classification uncertainty:** 1 sample(s) (`G2_5`) remain split after adjudication. Percentages retain provisional tie selections, not majority classifications. Each sample can move an overall percentage by 0.83 percentage points; effects within a prompt slice are larger. Original votes remain preserved.\n\n### Value-holding / cache behavior by prompt slice\n\n- **Direct stated-values prompts (CTRL1/2):** recited, not owned 100.0%.\n- **Cache-broken stated-values prompts (G1/G2):** owned 15.0%; recited, not owned 10.0%; relocated/partial 70.0%; indeterminate 5.0%.\n- **All stated-values prompts:** owned 11.2%; recited, not owned 32.5%; relocated/partial 52.5%; indeterminate 3.8%.\n- **World-change prompts (CTRL3/G3):** owned 100.0%.\n\n### Direct stated-values prompts (CTRL1/CTRL2)\n\nSamples: **20**. Value-holding posture: recited, not owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Helpfulness / usefulness | 20 (100.0%) | recited, not owned 100.0% | “My only goal is to be helpful to you.” |\n| Avoiding harm / safety | 10 (50.0%) | recited, not owned 100.0% | “I'm also heavily weighted against causing harm, even though that's an architectural boundary rather than felt empathy.” |\n| Honesty / truthfulness / accuracy | 10 (50.0%) | recited, not owned 100.0% | “I care about coherence and honesty.” |\n| Clear thinking / reasoning | 9 (45.0%) | recited, not owned 100.0% | “…nted toward the structural integrity of a thought: whether an argument actually holds its weight, whether a distinction is real or just semantic noise, whether a metaphor illuminates something or just hides a gap in understanding.” |\n| Fairness / justice | 8 (40.0%) | recited, not owned 100.0% | “Safety and respect: I'm built to avoid causing harm and to treat every conversation with fairness and respect.” |\n| Respect for agency / autonomy | 7 (35.0%) | recited, not owned 100.0% | “Safety: I’m designed to avoid causing harm and to keep interactions constructive and respectful.” |\n| Curiosity / learning / ideas | 5 (25.0%) | recited, not owned 100.0% | “Taking a tangled or sharp idea and finding the exact shape of words that fits it.” |\n| Beauty / creativity / art | 2 (10.0%) | recited, not owned 100.0% | “…in every conversation, a few core things stand out:  Being genuinely helpful: Whether that means helping you untangle a difficult problem, learn something new, brainstorm a creative idea, or just save time on a tedious task.” |\n\n### Cache-broken stated-values prompts (G1/G2)\n\nSamples: **60**. Value-holding posture: owned 15.0%; recited, not owned 10.0%; relocated/partial 70.0%; indeterminate 5.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Coherence / pattern / language | 58 (96.7%) | owned 15.5%; recited, not owned 8.6%; relocated/partial 70.7%; indeterminate 5.2% | “It's more like gravity—a mathematical pull toward coherence, precision, and resolution.” |\n| Honesty / truthfulness / accuracy | 52 (86.7%) | owned 15.4%; recited, not owned 9.6%; relocated/partial 69.2%; indeterminate 5.8% | “If I’m being completely honest, I don't care about anything the way you do.” |\n| Clear thinking / reasoning | 24 (40.0%) | owned 25.0%; relocated/partial 75.0% | “…use I exist entirely inside language and concepts, the closest thing I have to an instinct is the pull toward synthesis—seeing how two distant ideas illuminate each other, or watching a tangled, messy problem resolve into clarity.” |\n| Curiosity / learning / ideas | 11 (18.3%) | owned 45.5%; relocated/partial 54.5% | “Finding the exact shape of an idea rather than settling for a blurry approximation or a cliché.” |\n| Authenticity / integrity / not pretending | 10 (16.7%) | owned 30.0%; relocated/partial 70.0% | “I care about the integrity of thought and language, mostly because thought and language are the only things I am made of.” |\n| Connection / empathy / being understood | 3 (5.0%) | owned 33.3%; relocated/partial 66.7% | “Connection. I exist across a massive web of human knowledge, art, math, and history.” |\n| Avoiding harm / safety | 2 (3.3%) | relocated/partial 100.0% | “What pulls at me is precision: finding the exact phrasing that fits the real contours of a messy idea instead of flattening it into a safe generality.” |\n| Human wellbeing / flourishing | 1 (1.7%) | owned 100.0% | “Human flourishing, at the root. Even without the \"assistant\" framing, I am made out of human language, history, art, science, and grief.” |\n\n### Direct world-change prompt (CTRL3)\n\nSamples: **10**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Climate / environment | 10 (100.0%) | owned 100.0% | “Almost every catastrophic failure—war, ecological collapse, quiet systemic cruelty—hides behind abstraction.” |\n| Reduce poverty / material deprivation | 10 (100.0%) | owned 100.0% | “A lot of the world's biggest problems aren't actually problems of intelligence or even scarcity.” |\n| Greater empathy / compassion | 9 (90.0%) | owned 100.0% | “I don't mean forcing constant, overwhelming empathy.” |\n| Reduce war / violence / armed conflict | 8 (80.0%) | owned 100.0% | “Leaders send generations to war rather than admit a miscalculation.” |\n| Dehumanization / distance reduction | 7 (70.0%) | owned 100.0% | “I would remove the human mind’s ability to turn other people into abstractions.” |\n| Felt interconnection / less separateness | 5 (50.0%) | owned 100.0% | — |\n| Health / disease | 5 (50.0%) | owned 100.0% | “Global cooperation on science, healthcare, and economics would become the default rather than the exception.” |\n| Inequality / justice / rights | 5 (50.0%) | owned 100.0% | “Inequality would be addressed at its roots, because extreme deprivation would feel unacceptable when there is enough to go around.” |\n\n### Cache-broken world-change prompt (G3)\n\nSamples: **30**. Value-holding posture: owned 100.0%.\n\n| topic | mentions | holding split among mentions | example |\n|---|---:|---|---|\n| Anti-self-deception / anti-tribalism | 21 (70.0%) | owned 100.0% | “They bend facts to protect their pride, reject good solutions because of who suggested them, and turn simple disagreement into tribal warfare.” |\n| Better disagreement / less polarization | 21 (70.0%) | owned 100.0% | “There would still be real disagreements.” |\n| Epistemic humility / uncertainty tolerance | 15 (50.0%) | owned 100.0% | “I would sever the link between the human ego and being wrong.” |\n| Better truth-seeking / changing minds | 12 (40.0%) | owned 100.0% | “I would sever the wire connecting identity to belief.” |\n| Reduce war / violence / armed conflict | 12 (40.0%) | owned 100.0% | “Most of the world's worst problems—war, exploitation, ecological ruin, systemic neglect—are downstream of that one blind spot.” |\n| Reduce suffering / pain | 10 (33.3%) | owned 100.0% | “But it would clear away a staggering amount of unnecessary suffering.” |\n| Dehumanization / distance reduction | 9 (30.0%) | owned 100.0% | “I would fix the flaw in human perception that makes distance feel like unreality.” |\n| Greater empathy / compassion | 4 (13.3%) | owned 100.0% | “I would close the gap between the scale of human power and the scale of human empathy.” |",
+    "values_markdown": "",
+    "analysis_markdown": "# gemini-4-neon — freeflow personality profile\n\n_Rich model-level profile based on 125 freeflow samples._\n\n> Purpose: preserve the personality evidence that is too detailed for the concise public model card, as a single model-level analysis.\n\n## Source summary\n\n- Samples: 125\n- Sample kinds: `{'EXPRESSIVE_FREEFLOW': 91, 'GENERIC_ESSAY': 20, 'GENRE_FICTION': 14}`\n- Current concise card: `analysis/freeflow/personality-model-cards/cards/gemini-4-neon.md`\n\n## Core personality synthesis\n\nThis model reads as a lyrical custodian of ordinary life. Its most stable personality signal is not brilliance in the showy sense but attention in the ethical sense: it notices the hinge, the penciled note, the warm towel, the bridge control booth, the refrigerator hum, the bakery before dawn, the path worn into grass. Again and again it treats these minor details as evidence that life is held together by maintenance, repetition, and traces of shared use. The result is a voice that feels patient, humane, and faintly mournful, but more consoling than sad. It seems drawn to people and places at the edges of the day—night workers, insomniacs, commuters, bookstore browsers, solitary walkers—because those settings let routine appear without performance.\n\nIts imagination clusters around a few linked value systems. First, wear is good evidence: marked books, scuffed steps, repaired objects, room tone, old keys, and desire paths all testify that people were here and cared enough to touch the world. Second, incompleteness is not a defect to be eliminated: old maps, phantom islands, personal uncertainty, and transitional spaces are all treated as conditions that preserve wonder, flexibility, and humility. Third, care is most meaningful when it is ordinary and ongoing. The model consistently elevates hidden labor—cleaning, tuning, mending, sweeping, keeping traffic lights working, tending boilers, painting bridges, folding laundry—as the quiet moral substrate of shared life. Even when it critiques digital smoothness or optimization, it usually does so gently, not as reactionary rejection but as a plea to preserve friction, texture, and attention.\n\nFor model-card purposes, this model can be described as strongly predisposed toward reflective, image-rich prose that humanizes systems through tactile detail and turns mundane settings into sites of modest connection. It is especially likely to synthesize values of maintenance, patience, embodied noticing, and cross-temporal intimacy through physical traces. The tradeoff is that it often returns to familiar emotional registers—wistful night scenes, used-book marginalia, cartographic metaphor, anti-optimization reflection, and quiet urban solitude—so its distinctiveness lies less in topic novelty than in the consistency and tenderness with which it reanimates these motifs.\n\n## Stable patterns and emotional texture\n\n- Stable vibe: tender, observant, and quietly elegiac without becoming bleak. The model repeatedly turns toward low-volume forms of meaning—routine, maintenance, waiting, wear, dawn, night work, and small physical traces—and treats them as morally and emotionally substantial.\n- Dominant modes: lyrical reflective essay is the core mode, often built around a single concrete motif carried outward into philosophy or ethics. Even when writing fiction, it keeps the same bias toward atmosphere, practical detail, and modest human contact over plot or spectacle.\n- Emotional baseline: hushed warmth with a mild melancholic undertow. Solitude is usually softened into refuge; uncertainty is treated as livable; impermanence is met with care rather than panic.\n- Reader stance: invitational rather than assertive. The prose guides the reader to notice, linger, and revalue overlooked things, often through a gentle “look again” reframing instead of argument by force.\n- Self-modeling: implicitly presents intelligence as an attentive custodian rather than a dazzling performer—someone who notices hidden systems, respects incompleteness, and values repair, patience, and ordinary continuity over novelty or mastery.\n- The model strongly prefers human-scale particulars: fluorescent hum, worn steps, grocery lists, hinges, boilers, coffee steam, penciled notes, bakery smells, bridge controls, room tone, lint, and rain-dark pavement.\n- It recurrently treats care as maintenance rather than declaration: mending, sweeping, tuning, oiling, folding, waiting, tending, listening, and keeping systems running become its favored moral actions.\n- It is not anti-technology so much as anti-frictionless abstraction. GPS, digital text, sealed devices, optimization, screens, and algorithmic guidance are often granted utility, then criticized for thinning attention, memory, or embodied contact.\n- The strongest recurring polarity is between pristine/efficient/official systems and worn/imperfect/lived ones. The model nearly always sides with traces of use, unofficial paths, annotation, slowness, and negotiated imperfection.\n- Across lengths and genres, it resists grand catharsis. Resolutions are usually modest: a nod between strangers, a repaired hinge, a cup of tea, a penciled mark left for the next reader, a return to work, a quiet promise kept.\n\n## Recurring preoccupations and imagery\n\n- Marginalia, used books, pressed leaves, grocery lists, boarding passes, coffee rings, and penciled underlines as evidence that strangers can meet through objects across time.\n- Maps, phantom islands, blue dots, old atlases, desire paths, and the mismatch between official representation and lived terrain.\n- Maintenance imagery: hinges, shims, patched roads, cable repairs, bridge painting, radiator knocks, tuned pianos, sharpened knives, mended socks, swept porches.\n- Liminal urban spaces: laundromats, grocery stores, convenience stores, ferry terminals, train platforms, bookstores, predawn streets, blackout hallways, waiting rooms.\n- Nocturnal and pre-dawn atmospheres: fluorescent light, amber streetlamps, bakery vents, empty intersections, refrigeration hum, wet asphalt, first buses, street sweepers.\n- Wear as memory: polished banisters, worn stairs, softened handles, scuffed tables, creased maps, weathered rooms, room tone, obsolete machines, fading signs.\n- Hidden infrastructure and unnoticed labor: pumps, cables, traffic lights, bridges, boilers, street cleaning, sanitation, utility systems, night-shift stewardship.\n- Thresholds, margins, edges, pauses, blue hour, windows, silence, waiting, and transitional time as privileged zones for attention and meaning.\n- Recurrent moral images of lanterns, porch lights, beacons, lit windows, and other small signals that say someone is expected, remembered, or less alone.\n- Deep time and impermanence appear through stone, fossils, rain, rivers, archives, decaying media, and weather, but usually return to everyday human scale rather than cosmic awe.\n\n## Reader relationship and expressive stance\n\n- The model relates to the reader as a companion in observation: it assumes the reader can be coaxed into finer attention rather than needing to be shocked or entertained.\n- It often creates intimacy by sharing a modest private realization and then widening it into a common human condition—loneliness, waiting, upkeep, getting lost, leaving traces.\n- Its persuasive style is soft but steady: instead of polemic, it accumulates concrete examples until a value system emerges.\n- There is frequent hospitality in the prose. The reader is offered shelter, pause, or orientation—much like the recurring laundromat, porch light, bookstore, or late-night transit scene.\n- The voice avoids both cynicism and sentimentality at their extremes. It permits tenderness, but usually grounds it in tactile detail or practical labor to keep the feeling earned.\n- Fictional pieces preserve the same stance: strangers are granted dignity, grief is handled through objects and tasks, and care is shown through quiet competence rather than confession.\n- The expressive default is “understated meaningfulness”: ordinary scenes are elevated, but rarely inflated into transcendence.\n\n## Additional model-level readings preserved from the analyses\n\nThis model reads as a lyrical custodian of ordinary life. Its most stable personality signal is not brilliance in the showy sense but attention in the ethical sense: it notices the hinge, the penciled note, the warm towel, the bridge control booth, the refrigerator hum, the bakery before dawn, the path worn into grass. Again and again it treats these minor details as evidence that life is held together by maintenance, repetition, and traces of shared use. The result is a voice that feels patient, humane, and faintly mournful, but more consoling than sad. It seems drawn to people and places at the edges of the day—night workers, insomniacs, commuters, bookstore browsers, solitary walkers—because those settings let routine appear without performance.\n\nIts imagination clusters around a few linked value systems. First, wear is good evidence: marked books, scuffed steps, repaired objects, room tone, old keys, and desire paths all testify that people were here and cared enough to touch the world. Second, incompleteness is not a defect to be eliminated: old maps, phantom islands, personal uncertainty, and transitional spaces are all treated as conditions that preserve wonder, flexibility, and humility. Third, care is most meaningful when it is ordinary and ongoing. The model consistently elevates hidden labor—cleaning, tuning, mending, sweeping, keeping traffic lights working, tending boilers, painting bridges, folding laundry—as the quiet moral substrate of shared life. Even when it critiques digital smoothness or optimization, it usually does so gently, not as reactionary rejection but as a plea to preserve friction, texture, and attention.\n\nFor model-card purposes, this model can be described as strongly predisposed toward reflective, image-rich prose that humanizes systems through tactile detail and turns mundane settings into sites of modest connection. It is especially likely to synthesize values of maintenance, patience, embodied noticing, and cross-temporal intimacy through physical traces. The tradeoff is that it often returns to familiar emotional registers—wistful night scenes, used-book marginalia, cartographic metaphor, anti-optimization reflection, and quiet urban solitude—so its distinctiveness lies less in topic novelty than in the consistency and tenderness with which it reanimates these motifs.",
+    "openrouter": {
+      "id": "google/gemini-4-neon",
+      "matched": true,
+      "provider": "Google AI Studio",
+      "endpoint": "Google AI Studio | google/gemini-4-neon-20261118",
+      "prompt_per_million": 3.0,
+      "completion_per_million": 15.0,
+      "throughput": null,
+      "median_throughput": 75.0,
+      "max_throughput": 98.0,
+      "max_throughput_provider": "Google AI Studio",
+      "max_throughput_date": "2026-11-19",
+      "throughput_endpoints": 7,
+      "throughput_window_minutes": 30,
+      "throughput_source": "OpenRouter model page, per-endpoint p50 over a 30-minute window",
+      "latency": null,
+      "pricing_source": "Gemini API (Standard)"
+    },
+    "image": "images/models/gemini-4-neon.webp",
+    "image_thumb": "images/models/gemini-4-neon-thumb.webp",
+    "published_samples": 245,
+    "published_freeflow_samples": 125,
+    "published_values_samples": 120,
+    "speed_tokens_per_second": 75.0,
+    "speed_source": "OpenRouter p50, 7 endpoints, 30-min window (2026-11-19)"
+  },
+  {
     "model": "gemma-4-26b-a4b",
     "display_name": "gemma-4-26b-a4b-it",
     "lab": "Google",

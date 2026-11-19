@@ -133,6 +133,7 @@ MODEL_SLUGS = {
     "gemini-4-argon": "google/gemini-4-argon",
     "gemini-4-carbon": "google/gemini-4-carbon",
     "gemini-4-hydrogen": "google/gemini-4-hydrogen",
+    "gemini-4-neon": "google/gemini-4-neon",
     "gemini-3-1-pro": "google/gemini-3.1-pro-preview",
     "gemma-4-26b-a4b": "google/gemma-4-26b-a4b-it",
     "gemma-4-31b": "google/gemma-4-31b-it",
@@ -284,6 +285,10 @@ FIRST_PARTY_API_PRICING = {
     # Gemini 4 Carbon (released 2026-11-10): Google's announcement footnote gives an
     # introductory $2/$10 per million that expires 2026-11-30, then $4/$20.
     # Saved copy: raw repo notes/gemini-4-carbon-2026-11-10/.
+    # Gemini 4 Neon (released 2026-11-18): flat $3/$15 per million (cached input
+    # $0.15), stated in Google's launch post; OpenRouter's cheapest endpoint is
+    # Flex at half that. Saved copy: raw repo notes/gemini-4-neon-2026-11-18/.
+    "gemini-4-neon": (3.00, 15.00, "Gemini API (Standard)"),
     "gemini-4-carbon": (2.00, 10.00, "Gemini API (introductory price to 2026-11-30; $4/$20 from 2026-12-01)"),
     # The other Gemini models: Standard paid tier from the same page, read
     # 2026-10-19 (prompts <= 200k where tiered). Until v1.4.32 these showed
@@ -511,6 +516,8 @@ def site_slug_from_profile_model(name: str) -> str:
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
     if slug == "gemini-4-hydrogen":
         return "Gemini 4 Hydrogen"
+    if slug == "gemini-4-neon":
+        return "Gemini 4 Neon"
     if slug == "inkling-2-small":
         return "Inkling 2 Small"
     if slug == "qwen3-8-27b-medium":

@@ -207,3 +207,4 @@ Relationship to adjacent folders:
 - [qwen4-max](profiles/qwen4-max.md) — samples: 125
 - [gpt-6-2-sol](profiles/gpt-6-2-sol.md) — samples: 125
 - [gpt-6-2-astra](profiles/gpt-6-2-astra.md) — samples: 125
+- [gemini-4-neon](profiles/gemini-4-neon.md) — samples: 125
