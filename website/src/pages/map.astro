@@ -49,6 +49,7 @@ const pct = (x) => Math.round(x * 100);
         </fieldset>
         <fieldset>
           <legend>Labs</legend>
+          <div class="seg"><button id="deselect-labs" type="button">Deselect all</button></div>
           <div class="labs" id="labs"></div>
         </fieldset>
       </details>
@@ -276,7 +277,14 @@ const pct = (x) => Math.round(x * 100);
   document.getElementById('q').oninput = e => { state.q = e.target.value.trim(); state.focus = null; build(); if (state.q) { const found = M.map((_, i) => i).filter(matches); const i = found.find(visible) ?? found[0]; if (i != null) { showCard(i); highlightLeaf(i); } else { state.card = null; document.getElementById('card').innerHTML = '<p>No matching models. Try a different name or strapline.</p>'; } } };
   const labsEl = document.getElementById('labs');
   labsEl.innerHTML = labs.map(l => `<label><input type="checkbox" data-lab="${esc(l)}" checked><span class="sw" style="background:${color(l)}"></span>${esc(l)} <span class="n">${labCounts[l]}</span></label>`).join('');
-  labsEl.querySelectorAll('input').forEach(cb => cb.addEventListener('change', () => { cb.checked ? state.hidden.delete(cb.dataset.lab) : state.hidden.add(cb.dataset.lab); build(); }));
+  const labCheckboxes = labsEl.querySelectorAll('input[data-lab]');
+  labCheckboxes.forEach(cb => cb.addEventListener('change', () => { cb.checked ? state.hidden.delete(cb.dataset.lab) : state.hidden.add(cb.dataset.lab); build(); }));
+  document.getElementById('deselect-labs').onclick = () => {
+    if (state.hidden.size === labs.length) return;
+    labs.forEach(lab => state.hidden.add(lab));
+    labCheckboxes.forEach(cb => { cb.checked = false; });
+    build();
+  };
   document.getElementById('card').addEventListener('click', e => {
     const neighbour = e.target.closest('[data-model]');
     if (neighbour) { selectModel(idxOf[neighbour.dataset.model]); return; }
