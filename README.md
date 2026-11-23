@@ -5,7 +5,12 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-19:** v1.4.48 adds Google Gemini 4 Neon, with 125
+> **Status — 2026-11-23:** v1.4.49 refreshes three ladder rows from MLCR that
+> Artificial Analysis newly published (Hydrogen 161.8, Qwen4 Max 157.8, Neon
+> 165.6; four measured rungs each, which read about 5 points high) and labels
+> fixed-effort rows by the rule that chose them. See
+> [`RELEASE_NOTES_v1.4.49.md`](RELEASE_NOTES_v1.4.49.md).
+> v1.4.48 added Google Gemini 4 Neon, with 125
 > freeflow and 120 values samples, a banner, a map position and a provisional
 > ladder score (165.4, High row, 4 rungs); one residual values split (G2_5) is
 > published with disclosure. See

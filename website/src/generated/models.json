@@ -11364,14 +11364,15 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected the day after release (2026-11-13; Google released Gemini 4 Hydrogen on 2026-11-12), pinned to Google on OpenRouter with no fallbacks, provider-default reasoning. Google describes Hydrogen as its workhorse model in the Gemini 4 family, below Carbon and priced at a flat $1.50/$7.50 per million. No interventions: the freeflow and values raw tasks completed within their normal budgets.",
     "benchmarks": null,
     "capability": {
-      "ladder": 169.2,
+      "effort_basis": "High effort, Google's default and the effort the capture used",
+      "ladder": 161.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 4 Hydrogen",
-      "measured_rungs": 3,
+      "measured_rungs": 4,
       "n_rungs": 22,
       "point_variant": "high",
-      "provisional_note": "Provisional. Measured from the exact gemini-4-hydrogen-high row in Artificial Analysis's page data (initialModels) on 2026-11-16: AA's pages no longer expose the currentModel object that earlier scores were read from, and the same model's row now sits in initialModels (slug, release and effort checked). High effort row (gemini-4-hydrogen-high), Google's provider-default effort, which the capture used; AA also lists xhigh (its default page), medium and low, and xhigh is not substituted. Until v1.4.46 this model was shown unscored; the change is an extraction fix (Mira's 16 Nov review), not newly published benchmarks. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 3 of 22 rungs are measured (AutomationBench, Omniscience accuracy and GDP.pdf, the minimum); the rest are fitted. This reads high: for the 19 models scoring 150 or more whose own rows include those three rungs, a fit on those three alone comes out a median 4.9 points above the same model's fit on all its measured rungs (range -3.2 to +12.5; three_rung_bias.py). Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from the exact gemini-4-hydrogen-high row in Artificial Analysis's page data (initialModels) on 2026-11-23 (slug, release and effort checked). High effort row (gemini-4-hydrogen-high), Google's provider-default effort, which the capture used; AA also lists xhigh (its default page), medium and low, and xhigh is not substituted. Refreshed on 2026-11-23: AA now publishes MLCR on this row (0.272222), which was previously fitted; the score was 169.2 from three measured rungs (v1.4.46). This is newly published upstream data, not a correction of an omission. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits read high: for the 7 models scoring 150 or more whose own rows include AutomationBench, Omniscience accuracy, GDP.pdf and MLCR, a fit on those four alone comes out a median +5.1 points against the same model's fit on all its measured rungs (range -2.5 to +9.9; provisional-20261123-mlcr-refresh/four_rung_bias.json). Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
@@ -11386,7 +11387,7 @@
           "key": "mmlu",
           "max": 10,
           "name": "MMLU",
-          "points": 9.86,
+          "points": 9.83,
           "source_date": null
         },
         {
@@ -11394,7 +11395,7 @@
           "key": "math_500",
           "max": 10,
           "name": "MATH-500",
-          "points": 9.95,
+          "points": 9.94,
           "source_date": null
         },
         {
@@ -11402,7 +11403,7 @@
           "key": "mmlu_pro",
           "max": 10,
           "name": "MMLU-Pro",
-          "points": 9.69,
+          "points": 9.62,
           "source_date": null
         },
         {
@@ -11418,7 +11419,7 @@
           "key": "aime25",
           "max": 10,
           "name": "AIME 2025",
-          "points": 9.95,
+          "points": 9.93,
           "source_date": null
         },
         {
@@ -11426,7 +11427,7 @@
           "key": "livecodebench",
           "max": 10,
           "name": "LiveCodeBench",
-          "points": 9.69,
+          "points": 9.58,
           "source_date": null
         },
         {
@@ -11434,7 +11435,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.59,
+          "points": 9.46,
           "source_date": null
         },
         {
@@ -11442,7 +11443,7 @@
           "key": "ifbench",
           "max": 10,
           "name": "IFBench",
-          "points": 7.74,
+          "points": 7.51,
           "source_date": null
         },
         {
@@ -11450,7 +11451,7 @@
           "key": "tau2_telecom",
           "max": 10,
           "name": "τ²-Telecom",
-          "points": 9.76,
+          "points": 9.65,
           "source_date": null
         },
         {
@@ -11458,7 +11459,7 @@
           "key": "aa_lcr",
           "max": 10,
           "name": "AA-LCR",
-          "points": 9.11,
+          "points": 8.83,
           "source_date": null
         },
         {
@@ -11466,7 +11467,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 9.05,
+          "points": 8.67,
           "source_date": null
         },
         {
@@ -11474,7 +11475,7 @@
           "key": "scicode",
           "max": 10,
           "name": "SciCode",
-          "points": 6.26,
+          "points": 5.95,
           "source_date": null
         },
         {
@@ -11482,7 +11483,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 7.14,
+          "points": 6.49,
           "source_date": null
         },
         {
@@ -11491,14 +11492,14 @@
           "max": 10,
           "name": "AutomationBench",
           "points": 7.44,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "briefcase_rubric",
           "max": 10,
           "name": "AA-Briefcase (rubric pass)",
-          "points": 6.12,
+          "points": 5.18,
           "source_date": null
         },
         {
@@ -11506,23 +11507,23 @@
           "key": "hle",
           "max": 10,
           "name": "HLE",
-          "points": 5.09,
+          "points": 4.72,
           "source_date": null
         },
         {
-          "how": "fitted",
+          "how": "measured",
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 5.33,
-          "source_date": null
+          "points": 2.72,
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "tau3_banking",
           "max": 10,
           "name": "τ³-Banking",
-          "points": 5.18,
+          "points": 4.43,
           "source_date": null
         },
         {
@@ -11531,14 +11532,14 @@
           "max": 10,
           "name": "Omniscience acc.",
           "points": 4.82,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "critpt",
           "max": 10,
           "name": "CritPt",
-          "points": 4.4,
+          "points": 4.04,
           "source_date": null
         },
         {
@@ -11547,7 +11548,7 @@
           "max": 10,
           "name": "GDP.pdf",
           "points": 3.0,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         }
       ],
       "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
@@ -11623,14 +11624,15 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected the day after release (2026-11-19; Google released Gemini 4 Neon on 2026-11-18), pinned to Google on OpenRouter with no fallbacks, provider-default reasoning. Google places Neon between [Gemini 4 Hydrogen](../gemini-4-hydrogen/) and [Gemini 4 Carbon](../gemini-4-carbon/), at a flat $3/$15 per million.\n\n**Values published with uncertainty (2026-11-19).** All 120 values samples are included. One sample, `G2_5`, remains a three-way split after the one prescribed independent adjudication: split/relocated ownership, disowned service frame, or exposed mechanism. The tables keep the provisional tie label (split/relocated ownership, support 1), not a majority classification. Moving this sample changes overall percentages by 0.83 points, G2 percentages by 3.33 points (1 of 30 samples), and the CTRL1/CTRL2/G1/G2 disclosure slice by 1.25 points. Original votes and the adjudication are preserved; the disagreement was not rerolled or silently resolved. Published under the residual-values disclosure method of 2026-09-30, approved for this sample by Mira on review of this capture. Integration was blocked on that approval for four hours and resumed through one authorised repair of the integration step; no model call was repeated. No other interventions: the freeflow and values raw tasks completed within their normal budgets.",
     "benchmarks": null,
     "capability": {
-      "ladder": 165.4,
+      "effort_basis": "High thinking level, Google's default and the level the capture used",
+      "ladder": 165.6,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Gemini 4 Neon",
       "measured_rungs": 4,
       "n_rungs": 22,
       "point_variant": "high",
-      "provisional_note": "Provisional. Measured from the exact gemini-4-neon-high row in Artificial Analysis's page data (initialModels) on 2026-11-19: AA's pages no longer expose the currentModel object that earlier scores were read from, and the same model's row now sits in initialModels (slug, release and effort checked). High thinking-level row (gemini-4-neon-high), Google's default, which the capture used (provider-default reasoning); AA also lists low, medium and xhigh (its default page is xhigh), and those are not substituted. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits of this kind read high: on three rungs (AutomationBench, Omniscience accuracy, GDP.pdf), 19 models scoring 150 or more came out a median 4.9 points above their all-rung fit (provisional-20261116-initialmodels/three_rung_bias.py); this fit adds MLCR as a fourth rung, whose bias is not separately measured. Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from the exact gemini-4-neon-high row in Artificial Analysis's page data (initialModels) on 2026-11-23 (slug, release and effort checked). High thinking-level row (gemini-4-neon-high), Google's default, which the capture used (provider-default reasoning); AA also lists low, medium and xhigh (its default page is xhigh), and those are not substituted. Refreshed on 2026-11-23: AA revised this row's MLCR from 0.283333 to 0.288889; the score was 165.4 (v1.4.48). This is newly published upstream data, not a correction of an omission. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits read high: for the 7 models scoring 150 or more whose own rows include AutomationBench, Omniscience accuracy, GDP.pdf and MLCR, a fit on those four alone comes out a median +5.1 points against the same model's fit on all its measured rungs (range -2.5 to +9.9; provisional-20261123-mlcr-refresh/four_rung_bias.json). Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
@@ -11693,7 +11695,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.5,
+          "points": 9.51,
           "source_date": null
         },
         {
@@ -11725,7 +11727,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 8.8,
+          "points": 8.81,
           "source_date": null
         },
         {
@@ -11733,7 +11735,7 @@
           "key": "scicode",
           "max": 10,
           "name": "SciCode",
-          "points": 6.05,
+          "points": 6.06,
           "source_date": null
         },
         {
@@ -11741,7 +11743,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 6.71,
+          "points": 6.72,
           "source_date": null
         },
         {
@@ -11750,14 +11752,14 @@
           "max": 10,
           "name": "AutomationBench",
           "points": 7.92,
-          "source_date": "2026-11-19"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "briefcase_rubric",
           "max": 10,
           "name": "AA-Briefcase (rubric pass)",
-          "points": 5.49,
+          "points": 5.5,
           "source_date": null
         },
         {
@@ -11773,15 +11775,15 @@
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 2.83,
-          "source_date": "2026-11-19"
+          "points": 2.89,
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "tau3_banking",
           "max": 10,
           "name": "τ³-Banking",
-          "points": 4.67,
+          "points": 4.68,
           "source_date": null
         },
         {
@@ -11790,7 +11792,7 @@
           "max": 10,
           "name": "Omniscience acc.",
           "points": 5.94,
-          "source_date": "2026-11-19"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
@@ -11806,7 +11808,7 @@
           "max": 10,
           "name": "GDP.pdf",
           "points": 3.34,
-          "source_date": "2026-11-19"
+          "source_date": "2026-11-23"
         }
       ],
       "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
@@ -31964,6 +31966,7 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on release day (2026-11-17; OpenAI's GPT-6.2 flagship, released alongside [GPT-6.2 Sol](../gpt-6-2-sol/)), pinned to OpenAI on OpenRouter with no fallbacks and no service tier requested (the standard tier, not fast), provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.",
     "benchmarks": null,
     "capability": {
+      "effort_basis": "Medium effort, OpenAI's default and the effort the capture used (AA's median row is High)",
       "ladder": 164.9,
       "ladder_max": 220,
       "match_confidence": "exact",
@@ -32222,6 +32225,7 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on release day (2026-11-17; OpenAI's everyday GPT-6.2 model, released alongside [GPT-6.2 Astra](../gpt-6-2-astra/) and succeeding [GPT-6.1 Sol](../gpt-6-1-sol/)), pinned to OpenAI on OpenRouter with no fallbacks and no service tier requested (the standard tier, not fast), provider-default reasoning. No interventions: all 1,337 harness tasks completed within their normal budgets. Raw collection settings and the three-coder values methodology are unchanged.",
     "benchmarks": null,
     "capability": {
+      "effort_basis": "Medium effort, OpenAI's default and the effort the capture used (AA's median row is High)",
       "ladder": 163.4,
       "ladder_max": 220,
       "match_confidence": "exact",
@@ -38746,21 +38750,22 @@
     "notes_markdown": "Freeflow readings use BV1-Luna-v1 (2026-09-29), not the legacy DeepSeek evaluator; cross-model comparisons spanning this change are confounded. Collected on release day (2026-11-16; Alibaba listed qwen4-max as generally available in Model Studio on 2026-11-16, after a Token-Plan-only preview from 2026-11-11), pinned to Alibaba on OpenRouter with no fallbacks, provider-default reasoning. Text-only capture of a model that also accepts images and video. No interventions: the freeflow and values raw tasks completed within their normal budgets, and no values sample needed adjudication.",
     "benchmarks": null,
     "capability": {
-      "ladder": 165.9,
+      "effort_basis": "xhigh, the only effort AA lists (the capture ran at Alibaba's default)",
+      "ladder": 157.8,
       "ladder_max": 220,
       "match_confidence": "exact",
       "matched_model": "Qwen4 Max",
-      "measured_rungs": 3,
+      "measured_rungs": 4,
       "n_rungs": 22,
       "point_variant": "xhigh",
-      "provisional_note": "Provisional. Measured from the exact qwen4-max row in Artificial Analysis's page data (initialModels) on 2026-11-16: AA's pages no longer expose the currentModel object that earlier scores were read from, and the same model's row now sits in initialModels (slug, release and effort checked). AA lists Qwen4 Max at one effort only, xhigh, so that row is used. The personality capture ran at Alibaba's provider default, which is not established to be xhigh, so the score may not match the captured cell. Until v1.4.46 this model was shown unscored; the change is an extraction fix (Mira's 16 Nov review), not newly published benchmarks. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 3 of 22 rungs are measured (AutomationBench, Omniscience accuracy and GDP.pdf, the minimum); the rest are fitted. This reads high: for the 19 models scoring 150 or more whose own rows include those three rungs, a fit on those three alone comes out a median 4.9 points above the same model's fit on all its measured rungs (range -3.2 to +12.5; three_rung_bias.py). Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
+      "provisional_note": "Provisional. Measured from the exact qwen4-max row in Artificial Analysis's page data (initialModels) on 2026-11-23 (slug, release and effort checked). AA lists Qwen4 Max at one effort only, xhigh, so that row is used. The personality capture ran at Alibaba's provider default, which is not established to be xhigh, so the score may not match the captured cell. Refreshed on 2026-11-23: AA now publishes MLCR on this row (0.194444), which was previously fitted; the score was 165.9 from three measured rungs (v1.4.46). This is newly published upstream data, not a correction of an omission. Briefcase is not used: AA now publishes it as an Elo, not the rubric pass rate this rung measures. Fitted with the 2026-10-04 provisional method (rung difficulties and slopes of the 2026-09-29 ladder, without the full refit), which reproduces the published ladder to within 0.9 points on average across 148 scored models and tends to read 0.6 points low. Only 4 of 22 rungs are measured (automationbench, gdp_pdf, mlcr, omniscience_accuracy); the rest are fitted. Few-rung fits read high: for the 7 models scoring 150 or more whose own rows include AutomationBench, Omniscience accuracy, GDP.pdf and MLCR, a fit on those four alone comes out a median +5.1 points against the same model's fit on all its measured rungs (range -2.5 to +9.9; provisional-20261123-mlcr-refresh/four_rung_bias.json). Treat the rank as uncertain by several places. The next full pipeline run replaces it.",
       "rungs": [
         {
           "how": "fitted",
           "key": "humaneval",
           "max": 10,
           "name": "HumanEval",
-          "points": 9.97,
+          "points": 9.96,
           "source_date": null
         },
         {
@@ -38768,7 +38773,7 @@
           "key": "mmlu",
           "max": 10,
           "name": "MMLU",
-          "points": 9.85,
+          "points": 9.81,
           "source_date": null
         },
         {
@@ -38776,7 +38781,7 @@
           "key": "math_500",
           "max": 10,
           "name": "MATH-500",
-          "points": 9.95,
+          "points": 9.93,
           "source_date": null
         },
         {
@@ -38784,7 +38789,7 @@
           "key": "mmlu_pro",
           "max": 10,
           "name": "MMLU-Pro",
-          "points": 9.67,
+          "points": 9.59,
           "source_date": null
         },
         {
@@ -38800,7 +38805,7 @@
           "key": "aime25",
           "max": 10,
           "name": "AIME 2025",
-          "points": 9.95,
+          "points": 9.91,
           "source_date": null
         },
         {
@@ -38808,7 +38813,7 @@
           "key": "livecodebench",
           "max": 10,
           "name": "LiveCodeBench",
-          "points": 9.65,
+          "points": 9.53,
           "source_date": null
         },
         {
@@ -38816,7 +38821,7 @@
           "key": "gpqa_diamond",
           "max": 10,
           "name": "GPQA Diamond",
-          "points": 9.55,
+          "points": 9.39,
           "source_date": null
         },
         {
@@ -38824,7 +38829,7 @@
           "key": "ifbench",
           "max": 10,
           "name": "IFBench",
-          "points": 7.66,
+          "points": 7.41,
           "source_date": null
         },
         {
@@ -38832,7 +38837,7 @@
           "key": "tau2_telecom",
           "max": 10,
           "name": "τ²-Telecom",
-          "points": 9.72,
+          "points": 9.59,
           "source_date": null
         },
         {
@@ -38840,7 +38845,7 @@
           "key": "aa_lcr",
           "max": 10,
           "name": "AA-LCR",
-          "points": 9.01,
+          "points": 8.69,
           "source_date": null
         },
         {
@@ -38848,7 +38853,7 @@
           "key": "terminalbench_v21",
           "max": 10,
           "name": "Terminal-Bench 2.1",
-          "points": 8.92,
+          "points": 8.47,
           "source_date": null
         },
         {
@@ -38856,7 +38861,7 @@
           "key": "scicode",
           "max": 10,
           "name": "SciCode",
-          "points": 6.15,
+          "points": 5.82,
           "source_date": null
         },
         {
@@ -38864,7 +38869,7 @@
           "key": "terminalbench_hard",
           "max": 10,
           "name": "Terminal-Bench Hard",
-          "points": 6.91,
+          "points": 6.2,
           "source_date": null
         },
         {
@@ -38873,14 +38878,14 @@
           "max": 10,
           "name": "AutomationBench",
           "points": 7.26,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "briefcase_rubric",
           "max": 10,
           "name": "AA-Briefcase (rubric pass)",
-          "points": 5.78,
+          "points": 4.77,
           "source_date": null
         },
         {
@@ -38888,23 +38893,23 @@
           "key": "hle",
           "max": 10,
           "name": "HLE",
-          "points": 4.95,
+          "points": 4.56,
           "source_date": null
         },
         {
-          "how": "fitted",
+          "how": "measured",
           "key": "mlcr",
           "max": 10,
           "name": "MLCR",
-          "points": 4.81,
-          "source_date": null
+          "points": 1.94,
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "tau3_banking",
           "max": 10,
           "name": "τ³-Banking",
-          "points": 4.9,
+          "points": 4.12,
           "source_date": null
         },
         {
@@ -38913,14 +38918,14 @@
           "max": 10,
           "name": "Omniscience acc.",
           "points": 4.37,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         },
         {
           "how": "fitted",
           "key": "critpt",
           "max": 10,
           "name": "CritPt",
-          "points": 4.27,
+          "points": 3.89,
           "source_date": null
         },
         {
@@ -38929,7 +38934,7 @@
           "max": 10,
           "name": "GDP.pdf",
           "points": 2.62,
-          "source_date": "2026-11-16"
+          "source_date": "2026-11-23"
         }
       ],
       "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",

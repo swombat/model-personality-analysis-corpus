@@ -54,7 +54,7 @@ function capabilityTitle(display) {
     const cap = display.cap;
     return (
       `Capability ladder: ${cap.ladder} / ${cap.ladder_max} ` +
-      `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs, median thinking budget; ` +
+      `(measured ${cap.measured_rungs} of ${cap.n_rungs} rungs, ${cap.effort_basis || 'median thinking budget'}; ` +
       `${cap.match_confidence} match to ${cap.matched_model}). ` +
       (cap.borrowed_from
         ? `Borrowed: this is ${cap.borrowed_from_display}'s score (same weights, faster serving; not measured separately). `

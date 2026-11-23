@@ -1,0 +1,83 @@
+{
+  "gemini-4-hydrogen-high": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 654040,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-23",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-hydrogen",
+    "html_bytes": 1260256,
+    "html_sha256": "955ae4a2bf52567056fc0cf98a277305121cd835fd8b5c41c36d82c6b675d97e",
+    "http_status": 200,
+    "initialModels_len": 28,
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-hydrogen-high"
+      ],
+      [
+        "low",
+        "gemini-4-hydrogen-low"
+      ],
+      [
+        "medium",
+        "gemini-4-hydrogen-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-hydrogen"
+      ]
+    ],
+    "title": "Gemini 4 Hydrogen Models - Intelligence, Performance &amp; Price Comparison | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-hydrogen"
+  },
+  "gemini-4-neon-high": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 656144,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-23",
+    "final_url": "https://artificialanalysis.ai/models/gemini-4-neon",
+    "html_bytes": 1263515,
+    "html_sha256": "e737a85857030dd3ee3f0a4ce104b69fb0d9a85a4c3e865e0bed1ebb0ab0da7e",
+    "http_status": 200,
+    "initialModels_len": 28,
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-neon-high"
+      ],
+      [
+        "low",
+        "gemini-4-neon-low"
+      ],
+      [
+        "medium",
+        "gemini-4-neon-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-neon"
+      ]
+    ],
+    "title": "Gemini 4 Neon Models - Intelligence, Performance &amp; Price Comparison | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-neon"
+  },
+  "qwen4-max": {
+    "currentModel_count": 0,
+    "decoded_flight_bytes": 651485,
+    "exact_row_count": 1,
+    "fetched_date": "2026-11-23",
+    "final_url": "https://artificialanalysis.ai/models/qwen4-max",
+    "html_bytes": 1261230,
+    "html_sha256": "cc1c5bc0d134d511aa5e38b5b1a3e50c6907934514fc53116b9b055ac1a7094f",
+    "http_status": 200,
+    "initialModels_len": 28,
+    "same_release_rows": [
+      [
+        "xhigh",
+        "qwen4-max"
+      ]
+    ],
+    "title": "Qwen4 Max - Intelligence, Performance &amp; Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen4-max"
+  }
+}

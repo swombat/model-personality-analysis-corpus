@@ -260,7 +260,7 @@ const borrowedFromName = borrowedFromModel?.display_name || model.capability?.bo
                     </span>
                   )}
                   <span class="capability-caption">
-                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs{borrowedFromSlug && ` (on ${borrowedFromName})`}, median thinking budget
+                    measured {capabilityDisplayValue.cap.measured_rungs}/{capabilityDisplayValue.cap.n_rungs} rungs{borrowedFromSlug && ` (on ${borrowedFromName})`}, {capabilityDisplayValue.cap.effort_basis || 'median thinking budget'}
                   </span>
                 </div>
                 <div><b>Source</b><br /><span>{capabilityDisplayValue.cap.source}</span></div>

@@ -1,0 +1,92 @@
+{
+  "gemini-4-hydrogen": {
+    "aa_slug": "gemini-4-hydrogen-high",
+    "effort": "high",
+    "intelligence_index": 50.7870826951304,
+    "ladder": 161.8,
+    "n": 4,
+    "previous_ladder": 169.2,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7443589447089903,
+      "gdp_pdf": 0.3,
+      "mlcr": 0.272222222222222,
+      "omniscience_accuracy": 0.4816666666666667
+    },
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-hydrogen-high"
+      ],
+      [
+        "low",
+        "gemini-4-hydrogen-low"
+      ],
+      [
+        "medium",
+        "gemini-4-hydrogen-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-hydrogen"
+      ]
+    ],
+    "theta": 163.65
+  },
+  "gemini-4-neon": {
+    "aa_slug": "gemini-4-neon-high",
+    "effort": "high",
+    "intelligence_index": 59.6189441875232,
+    "ladder": 165.6,
+    "n": 4,
+    "previous_ladder": 165.4,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.792440904479822,
+      "gdp_pdf": 0.334,
+      "mlcr": 0.288888888888889,
+      "omniscience_accuracy": 0.594
+    },
+    "same_release_rows": [
+      [
+        "high",
+        "gemini-4-neon-high"
+      ],
+      [
+        "low",
+        "gemini-4-neon-low"
+      ],
+      [
+        "medium",
+        "gemini-4-neon-medium"
+      ],
+      [
+        "xhigh",
+        "gemini-4-neon"
+      ]
+    ],
+    "theta": 164.65
+  },
+  "qwen4-max": {
+    "aa_slug": "qwen4-max",
+    "effort": "xhigh",
+    "intelligence_index": 42.8914543287565,
+    "ladder": 157.8,
+    "n": 4,
+    "previous_ladder": 165.9,
+    "published_method": "provisional-20261004 (recovered)",
+    "raw": {
+      "automationbench": 0.7256119376604481,
+      "gdp_pdf": 0.262,
+      "mlcr": 0.194444444444444,
+      "omniscience_accuracy": 0.437
+    },
+    "same_release_rows": [
+      [
+        "xhigh",
+        "qwen4-max"
+      ]
+    ],
+    "theta": 162.4
+  }
+}

@@ -34,7 +34,7 @@ const methodologyHref = `${base}methodology/capability-ladder/`;
       <strong>{cap.ladder}</strong> / {cap.ladder_max}
     </p>
     <p class="capability-caption">
-      measured {measuredCount} of {cap.n_rungs} rungs · effort row: {cap.point_variant || 'default'} (the median of its published effort settings)
+      measured {measuredCount} of {cap.n_rungs} rungs · effort row: {cap.effort_basis || `${cap.point_variant || 'default'} (the median of its published effort settings)`}
     </p>
     {cap.borrowed_from && (
       <div class="model-note">
