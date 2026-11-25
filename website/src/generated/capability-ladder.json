@@ -28297,6 +28297,17 @@
       "source": "Artificial Analysis per-benchmark results (public model pages), fitted by the Model Capability Ladder pipeline; permission requested 2026-09-05",
       "status": "not_scored"
     },
+    "qwen2-5-32b-instruct": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "No verified per-benchmark measurements imported for the historical local BF16 cell.",
+      "status": "not_scored"
+    },
     "qwen2-5-7b-instruct": {
       "ladder": null,
       "ladder_max": 220,

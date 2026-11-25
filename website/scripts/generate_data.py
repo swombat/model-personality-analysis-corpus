@@ -55,6 +55,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 
 MODEL_SLUGS = {
+    "qwen2-5-32b-instruct": "Qwen/Qwen2.5-32B-Instruct",
     "fable-5": "anthropic/claude-fable-5",
     "fable-5-1": "anthropic/claude-fable-5-1",
     "fable-5-2": "anthropic/claude-fable-5.2",
@@ -394,6 +395,11 @@ API_ACCESS_OVERRIDES = {
         "availability_label": "Measured as a local BF16 Transformers/MPS run of the official Qwen/Qwen2.5-7B-Instruct checkpoint (revision a09a3545), not a hosted endpoint; OpenRouter lists qwen/qwen-2.5-7b-instruct separately",
         "pricing_source": "OpenRouter list for qwen/qwen-2.5-7b-instruct (hosted); measured cell ran locally",
     },
+    "qwen2-5-32b-instruct": {
+        "availability": "unavailable",
+        "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab A100 80GB, official Qwen/Qwen2.5-32B-Instruct revision 5ede1c97; not a hosted endpoint and no comparable per-token API price",
+        "pricing_source": "Local BF16 capture; no hosted API price assigned",
+    },
 }
 
 # Exact corpus-cell aliases for releases whose public site slug intentionally
@@ -401,6 +407,7 @@ API_ACCESS_OVERRIDES = {
 # matching would either drop these samples or risk folding a later model
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
+    "qwen2-5-32b-instruct-colab-vllm-bf16-r5ede1c97": "qwen2-5-32b-instruct",
     "deepseek-v4-flash-direct-20260731": "deepseek-v4-flash-0731",
     "ox-alpha-or-pin-stealth-20260821": "ox-alpha-260821",
     # 2026-09-22: the Opus 5.5 cells carry the corpus name "claude-opus-5-5"; the
@@ -514,6 +521,8 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "qwen2-5-32b-instruct":
+        return "Qwen2.5 32B Instruct"
     if slug == "gemini-4-hydrogen":
         return "Gemini 4 Hydrogen"
     if slug == "gemini-4-neon":

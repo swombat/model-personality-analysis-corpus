@@ -37,5 +37,6 @@
   "qwen4-max": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models",
   "gpt-6-2-sol": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
   "gpt-6-2-astra": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
-  "gemini-4-neon": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  "gemini-4-neon": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "qwen2-5-32b-instruct": "Qwen2.5 family announcement, 'Qwen2.5: A Party of Foundation Models!', 2024-09-19: https://qwenlm.github.io/blog/qwen2.5/ . Historical official Qwen/Qwen2.5-32B-Instruct BF16 checkpoint, not a new November 2026 model release."
 }

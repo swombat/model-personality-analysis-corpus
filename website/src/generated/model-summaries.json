@@ -1,4 +1,5 @@
 {
+  "qwen2-5-32b-instruct": "Given the whole world, writes the report on itself",
   "chatglm2-6b": "Asks for a topic before it will dream",
   "chatglm3-6b": "Says it has no self, then thanks the rain",
   "codestral-2508": "Softens every haunting into a quiet inheritance",
