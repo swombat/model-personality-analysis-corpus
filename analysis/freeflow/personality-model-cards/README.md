@@ -199,3 +199,4 @@ Clean model-level personality cards collapsed from the freeflow personality anal
 - [gpt-6-2-sol](cards/gpt-6-2-sol.md) — samples: 125
 - [gpt-6-2-astra](cards/gpt-6-2-astra.md) — samples: 125
 - [gemini-4-neon](cards/gemini-4-neon.md) — samples: 125
+- [qwen2-5-32b-instruct](cards/qwen2-5-32b-instruct.md) — samples: 125

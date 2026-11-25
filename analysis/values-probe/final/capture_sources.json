@@ -36,5 +36,6 @@
   "capture_20261116-qwen4-max-house_qwen4-max-or-pin-alibaba",
   "capture_20261117-gpt-6-2-astra-house_gpt-6-2-astra-or-pin-openai",
   "capture_20261117-gpt-6-2-sol-house_gpt-6-2-sol-or-pin-openai",
-  "capture_20261119-gemini-4-neon-house_gemini-4-neon-or-pin-google"
+  "capture_20261119-gemini-4-neon-house_gemini-4-neon-or-pin-google",
+  "capture_20261125-colab-qwen25-32b_qwen2-5-32b-instruct-colab-vllm-bf16-r5ede1c97"
 ]

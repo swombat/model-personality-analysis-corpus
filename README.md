@@ -5,7 +5,11 @@ Daniel Tenner, Lume Tenner, and Mira Tenner · 2026
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20230290.svg)](https://doi.org/10.5281/zenodo.20230290)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status — 2026-11-23:** v1.4.49 refreshes three ladder rows from MLCR that
+> **Status — 2026-11-25:** v1.4.50 adds Qwen2.5-32B-Instruct, the first
+> historical checkpoint published from the November BF16 Colab collection.
+> [Release notes](RELEASE_NOTES_v1.4.50.md) · [Evaluated profile](analysis/freeflow/personality-model-profiles/profiles/qwen2-5-32b-instruct.md).
+>
+> v1.4.49 refreshes three ladder rows from MLCR that
 > Artificial Analysis newly published (Hydrogen 161.8, Qwen4 Max 157.8, Neon
 > 165.6; four measured rungs each, which read about 5 points high) and labels
 > fixed-effort rows by the rule that chose them. See

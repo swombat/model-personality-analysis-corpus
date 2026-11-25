@@ -2391,6 +2391,19 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md"
   },
   {
+    "model": "qwen2-5-32b-instruct",
+    "safe": "qwen2-5-32b-instruct",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 122,
+      "REFUSAL_OR_ROLE_BOUNDARY": 2,
+      "GENRE_FICTION": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen2-5-32b-instruct.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-32b-instruct.md"
+  },
+  {
     "model": "qwen2-5-7b-instruct",
     "safe": "qwen2-5-7b-instruct",
     "analysis_inputs": 1,

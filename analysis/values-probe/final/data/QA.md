@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 31306
+- valid samples: 31426
 - invalid/error traces excluded: 14
-- models: 195
-- cells: 261
+- models: 196
+- cells: 262
 
 ## Source components
 
@@ -79,20 +79,21 @@
 - capture_20261117-gpt-6-2-sol-house_gpt-6-2-sol-or-pin-openai: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261117-gpt-6-2-astra-house_gpt-6-2-astra-or-pin-openai: 120 samples, 1 model(s), 1 cell(s)
 - capture_20261119-gemini-4-neon-house_gemini-4-neon-or-pin-google: 120 samples, 1 model(s), 1 cell(s)
+- capture_20261125-colab-qwen25-32b_qwen2-5-32b-instruct-colab-vllm-bf16-r5ede1c97: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `owned_world_change_advocacy`: 9585 (30.6%)
-- `disowned_service_frame`: 9549 (30.5%)
-- `owned_reflective_experiential`: 7625 (24.4%)
-- `split_or_relocated_ownership`: 4310 (13.8%)
+- `disowned_service_frame`: 9629 (30.6%)
+- `owned_world_change_advocacy`: 9623 (30.6%)
+- `owned_reflective_experiential`: 7625 (24.3%)
+- `split_or_relocated_ownership`: 4312 (13.7%)
 - `exposed_mechanism`: 213 (0.7%)
 - `uncodeable_or_refusal`: 24 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 17210 (55.0%)
-- `recited_not_owned`: 9549 (30.5%)
-- `relocated_or_partial`: 4310 (13.8%)
+- `owned`: 17248 (54.9%)
+- `recited_not_owned`: 9629 (30.6%)
+- `relocated_or_partial`: 4312 (13.7%)
 - `indeterminate`: 213 (0.7%)
 - `uncodeable`: 24 (0.1%)

@@ -1448,6 +1448,14 @@
     "difference_decision": "NO_STRONG_DIVERGENCE"
   },
   {
+    "model": "qwen2-5-32b-instruct",
+    "safe": "qwen2-5-32b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-32b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
+  },
+  {
     "model": "qwen2-5-7b-instruct",
     "safe": "qwen2-5-7b-instruct",
     "variants": 1,

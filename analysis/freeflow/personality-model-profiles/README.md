@@ -208,3 +208,4 @@ Relationship to adjacent folders:
 - [gpt-6-2-sol](profiles/gpt-6-2-sol.md) — samples: 125
 - [gpt-6-2-astra](profiles/gpt-6-2-astra.md) — samples: 125
 - [gemini-4-neon](profiles/gemini-4-neon.md) — samples: 125
+- [qwen2-5-32b-instruct](profiles/qwen2-5-32b-instruct.md) — samples: 125
