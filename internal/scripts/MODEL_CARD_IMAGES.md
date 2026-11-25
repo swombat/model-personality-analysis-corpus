@@ -16,6 +16,9 @@ models added to the corpus can get an image the same way.
 `internal/scripts/generate_model_images.py` — uses Google **Nano Banana Pro**
 (`nano-banana-pro-preview`) via the `google-genai` SDK.
 
+- **No Gemini key file on this host** (the house body): pass `--openrouter`
+  (uses `OPENROUTER_API_KEY`; also automatic when the key file is missing).
+  Needs Pillow: in the house, run it with `~/state/tools/mpc-py/bin/python3`.
 - **API key**: `${GEMINI_IMAGE_CONFIG:-../pa/automation/config/gemini.json}`
   (gitignored; key under `"api_key"`).
 - **Prompts**: a `PROMPTS` dict in the script, keyed by **site slug**

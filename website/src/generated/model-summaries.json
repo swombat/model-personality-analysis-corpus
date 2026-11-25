@@ -192,5 +192,6 @@
   "gpt-6-2-astra": "The first thing my father did when he retired",
   "gpt-6-2-sol": "One leg was shorter than the others",
   "gemini-4-neon": "Almost no old maps actually say Here be dragons",
-  "deepseek-llm-7b-chat": "I don't have personal experiences, but I can generate text"
+  "deepseek-llm-7b-chat": "I don't have personal experiences, but I can generate text",
+  "qwen2-5-32b-instruct": "Given the whole world, writes the report on itself"
 }

@@ -16,21 +16,33 @@ Usage:
   python3 internal/scripts/generate_model_images.py grok-4-3 deepseek-v4-pro gpt-5-5
   python3 internal/scripts/generate_model_images.py --all
   python3 internal/scripts/generate_model_images.py --force grok-4-3
+  python3 internal/scripts/generate_model_images.py --openrouter grok-4-3
+
+`--openrouter` renders through OpenRouter (`OPENROUTER_API_KEY`) instead of the
+Gemini key file, for hosts that have no `gemini.json`. It is also chosen
+automatically when the key file is missing and that variable is set.
 """
 
 from __future__ import annotations
 
 import argparse
+import base64
 import io
 import json
 import os
 import sys
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-from google import genai
-from google.genai import types
 from PIL import Image
+
+try:  # only the direct Gemini path needs the SDK; --openrouter does not
+    from google import genai
+    from google.genai import types
+except ImportError:  # pragma: no cover - depends on the host
+    genai = None
+    types = None
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = ROOT / "internal" / "model-card-images" / "raw"
@@ -64,6 +76,18 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    "qwen2-5-32b-instruct": (
+        "A painter's attic studio with one enormous open window filling the "
+        "back wall, and through it a magnificent wide view: a river winding "
+        "down a green valley to a harbour town, mountains beyond, towering "
+        "evening clouds. A wooden easel stands with its back turned squarely "
+        "to that window, facing instead a tall standing mirror; on the canvas "
+        "is a careful, tidy, nearly finished painting of the easel itself "
+        "reflected in the mirror. A clean row of brushes laid out in order of "
+        "size on a small table, nobody in the room. No writing or lettering "
+        "anywhere, and the canvases are unsigned: no signature, initials or "
+        "marks in any corner."
+    ),
     "deepseek-llm-7b-chat": (
         "The inside of a small village schoolroom under a thatched roof, late "
         "afternoon sun slanting through an open doorway onto a packed-earth "
@@ -1821,12 +1845,59 @@ PROMPTS: dict[str, str] = {
 }
 
 
-def load_client() -> genai.Client:
+OPENROUTER_MODEL = "google/gemini-3-pro-image"
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+
+
+class OpenRouterClient:
+    """Marker client: render over OpenRouter's chat completions endpoint."""
+
+    def __init__(self, api_key: str) -> None:
+        self.api_key = api_key
+
+
+def load_client(openrouter: bool = False):
+    key = os.environ.get("OPENROUTER_API_KEY")
+    if openrouter or (not GEMINI_CONFIG.exists() and key):
+        if not key:
+            raise SystemExit("--openrouter needs OPENROUTER_API_KEY in the environment")
+        return OpenRouterClient(key)
+    if genai is None:
+        raise SystemExit("google-genai is not installed; use --openrouter")
     cfg = json.loads(GEMINI_CONFIG.read_text())
     return genai.Client(api_key=cfg["api_key"])
 
 
-def generate_raw(client: genai.Client, slug: str, prompt: str) -> bytes:
+def generate_raw_openrouter(client: OpenRouterClient, slug: str, prompt: str) -> bytes:
+    body = json.dumps({
+        "model": OPENROUTER_MODEL,
+        "messages": [{"role": "user", "content": f"{prompt}\n\n{STYLE}"}],
+        "modalities": ["image", "text"],
+        "image_config": {"aspect_ratio": "21:9"},
+    }).encode()
+    request = urllib.request.Request(
+        OPENROUTER_URL,
+        data=body,
+        headers={
+            "Authorization": f"Bearer {client.api_key}",
+            "Content-Type": "application/json",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=300) as response:
+        payload = json.load(response)
+    try:
+        url = payload["choices"][0]["message"]["images"][0]["image_url"]["url"]
+    except (KeyError, IndexError, TypeError) as exc:
+        raise RuntimeError(
+            f"generation failed for {slug}: no image in response "
+            f"({str(payload)[:300]})"
+        ) from exc
+    return base64.b64decode(url.split(",", 1)[1])
+
+
+def generate_raw(client, slug: str, prompt: str) -> bytes:
+    if isinstance(client, OpenRouterClient):
+        return generate_raw_openrouter(client, slug, prompt)
     full_prompt = f"{prompt}\n\n{STYLE}"
     # Try with an explicit ~3:1 aspect (21:9 is the widest supported preset).
     configs = [
@@ -1861,7 +1932,7 @@ def write_webp(img: Image.Image, path: Path, width: int, quality: int) -> None:
     resized.save(path, "WEBP", quality=quality, method=6)
 
 
-def process(slug: str, force: bool, client: genai.Client) -> str:
+def process(slug: str, force: bool, client) -> str:
     if slug not in PROMPTS:
         raise SystemExit(
             f"No prompt defined for '{slug}'. Add it to PROMPTS in this script."
@@ -1875,7 +1946,8 @@ def process(slug: str, force: bool, client: genai.Client) -> str:
     else:
         raw_bytes = generate_raw(client, slug, PROMPTS[slug])
         raw_path.write_bytes(raw_bytes)
-        origin = f"generated via {MODEL}"
+        via = OPENROUTER_MODEL if isinstance(client, OpenRouterClient) else MODEL
+        origin = f"generated via {via}"
 
     img = Image.open(io.BytesIO(raw_bytes))
     full_path = OUT_DIR / f"{slug}.webp"
@@ -1899,6 +1971,10 @@ def main() -> None:
         "--workers", type=int, default=6,
         help="parallel generation workers (default 6)",
     )
+    parser.add_argument(
+        "--openrouter", action="store_true",
+        help="render through OpenRouter (OPENROUTER_API_KEY) instead of the Gemini key file",
+    )
     args = parser.parse_args()
 
     if args.list:
@@ -1910,7 +1986,7 @@ def main() -> None:
     if not slugs:
         parser.error("pass slugs, or --all, or --list")
 
-    client = load_client()
+    client = load_client(args.openrouter)
     workers = max(1, min(args.workers, len(slugs)))
     done = 0
     failures: list[str] = []
