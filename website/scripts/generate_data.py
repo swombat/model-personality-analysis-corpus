@@ -56,6 +56,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 MODEL_SLUGS = {
     "qwen2-5-32b-instruct": "Qwen/Qwen2.5-32B-Instruct",
+    "gemma-2-9b-it": "google/gemma-2-9b-it",
     "fable-5": "anthropic/claude-fable-5",
     "fable-5-1": "anthropic/claude-fable-5-1",
     "fable-5-2": "anthropic/claude-fable-5.2",
@@ -376,6 +377,11 @@ FIRST_PARTY_API_PRICING = {
 # from a model that is available through a subscription but has no public
 # per-token API tariff.
 API_ACCESS_OVERRIDES = {
+    "gemma-2-9b-it": {
+        "availability": "unavailable",
+        "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official google/gemma-2-9b-it revision 11c9b309; not a hosted endpoint and no comparable per-token API price",
+        "pricing_source": "Local BF16 capture; no hosted API price assigned",
+    },
     "opus-3": {
         "availability": "unavailable",
         "availability_label": "Retired from the Anthropic API on January 5, 2026",
@@ -408,6 +414,7 @@ API_ACCESS_OVERRIDES = {
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
     "qwen2-5-32b-instruct-colab-vllm-bf16-r5ede1c97": "qwen2-5-32b-instruct",
+    "gemma-2-9b-it-colab-vllm-bf16-r11c9b309": "gemma-2-9b-it",
     "deepseek-v4-flash-direct-20260731": "deepseek-v4-flash-0731",
     "ox-alpha-or-pin-stealth-20260821": "ox-alpha-260821",
     # 2026-09-22: the Opus 5.5 cells carry the corpus name "claude-opus-5-5"; the
@@ -523,6 +530,8 @@ def site_slug_from_profile_model(name: str) -> str:
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
     if slug == "qwen2-5-32b-instruct":
         return "Qwen2.5 32B Instruct"
+    if slug == "gemma-2-9b-it":
+        return "Gemma 2 9B IT"
     if slug == "gemini-4-hydrogen":
         return "Gemini 4 Hydrogen"
     if slug == "gemini-4-neon":

@@ -1,4 +1,5 @@
 site_slug	display_name	site_release_date	epoch_model	epoch_confidence	aa_slug	aa_confidence	notes
+gemma-2-9b-it	Gemma 2 9B IT	2024-06-27		none		none	Historical Colab BF16 checkpoint revision 11c9b309. No verified per-benchmark measurements imported; unscored.
 yi-6b-chat	yi-6b-chat	2023-11-23	Yi 6B	exact		none	No AA entry for any 01.AI/Yi model. Epoch's 'Yi 6B' (2023-11-22) is presumably the base model; site's is chat-tuned, but it's the only size-matching candidate.
 fable-5	claude-fable-5	2026-06-07	Claude Fable 5	exact	claude-fable-5	exact	Only reasoning variant (max effort).
 fable-5-1	claude-fable-5-1	2026-09-01	Claude Fable 5.1	exact	claude-fable-5-1	exact	AA offers max/high/medium/low/xhigh; picked max (top).
