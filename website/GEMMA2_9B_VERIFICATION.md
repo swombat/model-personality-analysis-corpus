@@ -28,4 +28,6 @@ python3 website/scripts/test_pricing.py
 
 The Gemma invariant test checks exact-cell sample counts, provenance, unscored capability, disclosure, preservation of all other main model objects, and map input fingerprint. Map generation uses `~/work/.corpus-venv/bin/python website/scripts/generate_map.py`.
 
+Final results: Gemma and Qwen invariant checks pass; all 8 map unit tests, pricing checks, and all 10 capture-integration unit tests pass. The established values integration validates against the raw checkout. Final Astro build passes with 606 pages.
+
 Browser verification with the supplied `LD_LIBRARY_PATH=/home/agent/work/.browser-libs/usr/lib/x86_64-linux-gnu` passed desktop rendering, camera retention, all six projections, fidelity/provenance controls and keyboard tree activation. It failed the existing mobile first-viewport assertion (map top 894px); this integration does not change layout. Static rendered-page checks confirm Lume's exact strapline, supplied banner, and residual disclosure. No banner was generated through a paid service. No push, release publication, or remote tag action was performed.
