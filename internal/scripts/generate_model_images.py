@@ -76,6 +76,9 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    'yi-34b-chat': (
+        "A painter's easel standing in an open doorway at dawn, holding a large canvas that is completely blank and bright. On a stool beside it a palette has been loaded with fresh, untouched dabs of orange, pink and gold, the very colours of the sunrise spreading across the sky outside, and one clean brush lies ready across it. Nobody in the picture; the first stroke has not been made. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
     'qwen1-5-0-5b-chat': (
         'A long wooden table in a warm room, laid end to end with carefully wrapped presents of every size and colour, each tied with a different ribbon and plainly meant for someone else. At the head of the table one place is set with nothing at all: an empty chair, a bare patch of tablecloth in a pool of lamplight. Nobody in the room. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
     ),
