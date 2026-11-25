@@ -16434,7 +16434,7 @@
           "how": "fitted",
           "key": "tau2_telecom",
           "max": 10,
-          "name": "τ²-Telecom",
+          "name": "\u03c4\u00b2-Telecom",
           "points": 9.46,
           "source_date": null
         },
@@ -16506,7 +16506,7 @@
           "how": "measured",
           "key": "tau3_banking",
           "max": 10,
-          "name": "τ³-Banking",
+          "name": "\u03c4\u00b3-Banking",
           "points": 4.04,
           "source_date": "2026-11-13"
         },
@@ -32547,6 +32547,17 @@
       ],
       "source": "Artificial Analysis per-benchmark results (public model pages), provisionally fitted against the 2026-09-29 ladder's rung parameters (full refit pending); permission requested 2026-09-05",
       "status": "scored"
+    },
+    "gemma-2-9b-it": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "No verified per-benchmark measurements imported for the historical local BF16 cell.",
+      "status": "not_scored"
     }
   },
   "n_rungs": 22,
