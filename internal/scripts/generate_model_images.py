@@ -64,6 +64,18 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    "deepseek-llm-7b-chat": (
+        "The inside of a small village schoolroom under a thatched roof, late "
+        "afternoon sun slanting through an open doorway onto a packed-earth "
+        "floor. The mud walls are covered edge to edge with children's bright "
+        "paintings of suns, houses, goats and birds (pictures only, no writing "
+        "anywhere), and in one corner stands a little makeshift stage of planks "
+        "and crates hung with a patchwork cloth. In the foreground, facing the "
+        "stage, a single plain wooden visitor's chair stands empty in a pool of "
+        "light, with no bag, coat or person near it: the guest who remembers "
+        "this room so fondly was never here. The canvas is unsigned: no "
+        "signature, initials or marks in any corner."
+    ),
     "qwen4-max": (
         "Late afternoon at the foot of a tall sea cliff whose face is banded "
         "with sediment layers: ochre, slate grey, rust, chalk white, thin dark "
