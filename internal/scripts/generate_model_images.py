@@ -76,6 +76,81 @@ STYLE = (
 
 # Bespoke, personality-faithful prompts. One per site slug.
 PROMPTS: dict[str, str] = {
+    'qwen1-5-0-5b-chat': (
+        'A long wooden table in a warm room, laid end to end with carefully wrapped presents of every size and colour, each tied with a different ribbon and plainly meant for someone else. At the head of the table one place is set with nothing at all: an empty chair, a bare patch of tablecloth in a pool of lamplight. Nobody in the room. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen1-5-1-8b-chat': (
+        'A brass weathervane on a rooftop ridge under an enormous open sky, caught mid-spin so its arrow blurs toward every direction at once. Below it a wide patchwork of rooftops, fields, a river and a distant sea, all equally bright, none favoured. High clean wind, scudding clouds. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen1-5-4b-chat': (
+        'A sunny grassy hilltop with a cheerful picnic laid out on a checked blanket: a basket, a jug of lemonade, a bright kite tugging at its string. Beyond the hill, filling the horizon, a line of white wind turbines turning over a low coast where the tide has come a little too far up the fields. Nobody on the blanket. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen1-5-moe-a2-7b-chat': (
+        'A plain writing desk under a window in afternoon light, a single blank sheet of paper squared in the middle of it. Resting on the sheet, one ivory die just come to rest; beside it an untouched cup gone cold and a chair pulled slightly out. Through the window an ordinary street, unwatched. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen1-5-14b-chat': (
+        "A small open sightseeing boat with rows of empty seats gliding down a wide calm river at dusk, a guide's little pennant flying at the bow. Along the bank the sights pass in one improbable row: an observatory dome open to the stars, a rocket on its pad, a glacier front, a field of windmills, a ruined temple. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'qwen1-5-32b-chat': (
+        'A long straight village lane in morning light where every house has exactly the same small white wooden gate, repeated to the vanishing point. Behind each identical gate the gardens differ a little: one with sunflowers, one with a vegetable patch, one with a swing, one with beehives. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen2-0-5b-instruct': (
+        'A tiny wooden kiosk standing alone at the edge of a wide flowering meadow, its shutter pulled halfway down. On the narrow sill beneath the shutter someone has left a small vase of fresh wildflowers and a little brass bell, as an apology. Soft overcast light, the meadow going on behind it for miles. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen2-1-5b-instruct': (
+        "The front desk of a small quiet guesthouse lobby seen from the visitor's side: a polished counter with a brass bell, a board of room keys on hooks behind it, an open guestbook whose pages are blank. A lamp is lit and a chair behind the desk is turned attentively toward the door. Nobody has come in yet. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'qwen2-5-0-5b-instruct': (
+        'The vestibule of a provincial town hall in grey daylight: a tall wire rack filled with plain pastel pamphlets whose covers are blank colour, and beside it a table bearing a stack of ring binders taller than the potted fern next to them. A row of empty waiting chairs, a floor polished by years of feet. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen2-5-1-5b-instruct': (
+        'A bare table in even, shadowless grey light holding a brass balance scale with both pans empty and perfectly level. Beside it a metronome stopped exactly upright, and a folded grey cloth. The wall behind is a calm unbroken slate blue; nothing in the picture leans either way. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen2-5-3b-instruct': (
+        'A young woman with a satchel of paintbrushes stepping eagerly out of a cottage doorway onto a winding path, seen from behind, in bright storybook colours. The path leads through a meadow to a forest whose trees glow faintly gold from within, with an ancient tree standing at its gate like a host. Morning light, everything about to begin. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'qwen2-5-14b-instruct': (
+        'The inside of a grand glass-and-iron exhibition hall hung with coloured bunting, sunlight pouring through the roof. In the centre, on a plinth under a spotlight, stands an elaborate gleaming brass calculating engine of wheels and dials, proudly displayed; before it, neat rows of empty gilt chairs wait for the address to begin. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'gemma-2b-it': (
+        "A cliff-top at a blazing mountain sunset where the clouds themselves are woven like threads on a vast loom, strands of fiery orange, purple and gold crossing the whole sky. On the grass at the cliff's edge stands a half-circle of empty orchestra music stands and a conductor's podium facing the view, a river shimmering far below. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'gemma-7b-it': (
+        'A storybook village nestled among great weeping willows beside a winding creek at twilight: thatched cottages with lamplit windows, a little stone bridge, a loaf of bread cooling on a windowsill, fireflies over the water and the first stars coming out. Everything is quaint, snug and slightly too perfect. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'gemma-2-2b-it': (
+        'A single shaft of late sunlight falling through a small attic window, thick with drifting golden dust motes. It lands on forgotten things: a cracked teacup, a worn leather trunk with a broken strap, a faded ribbon, a moth-eaten coat on a chair. The rest of the attic is deep umber shadow. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'gemma-2-9b-it': (
+        'A dark window streaming with rain at night, city lights blurred to soft smears behind the glass. Reflected in the pane, and standing on the sill inside, is a small rack of machinery with rows of tiny steady green and amber lights, humming; beside it lies an open notebook with a pen across it. Blue-black and warm amber. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'mistral-7b-instruct-v0-1': (
+        "A young person's bedroom desk in bright morning sun: an open diary filled with loose, unreadable pen strokes, a pen resting in the gutter, a mug of coffee steaming. The window is thrown wide open, curtains lifting, two sparrows on the sill, and a pair of trainers kicked off under the chair. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'mistral-7b-instruct-v0-3': (
+        'A vast medieval stone hall whose entire far wall is one enormous tapestry, depicting everything at once: stars and galaxies at the top flowing down into mountains, cities, forests, oceans and tiny dancing figures. Loose threads of every colour trail from its lower edge across the flagstones, and a small ladder leans against it. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'phi-3-mini-4k-instruct': (
+        "A scholar's workbench by candlelight, lined with small glass alembics and flasks. In each one a single ordinary object, a feather, a key, an oak leaf, a seashell, is suspended and being slowly distilled into one glowing drop that gathers in a tiny vial beneath. Brass stands, coiled glass tubing, deep green shadow. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'phi-3-mini-128k-instruct': (
+        'A small writing desk by an open cottage door, and from it a single continuous scroll of cream paper that has rolled off the desk, across the floorboards, out through the doorway, down the garden path and away over the hills to the horizon. The paper is covered in fine wavy lines of unreadable ink; the pen is still wet. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'phi-3-medium-4k-instruct': (
+        'A low table in a sunlit sitting room with a dozen glossy magazines fanned out across it, every cover a different handsome picture and nothing else: a garden in bloom, a copper kettle, a comet, a figure meditating on a hill, a bowl of green vegetables, a lighthouse. An armchair, a reading lamp, a cup of tea. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'phi-3-5-mini-instruct': (
+        "A vast Byzantine floor mosaic seen at a low angle, glittering gold and lapis, showing one long voyage across the ages: an oared galley becoming a sailing ship becoming a steamship becoming a vessel among the stars. At the unfinished edge lie loose tesserae, a mosaicist's hammer and a bowl of gold tiles. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner."
+    ),
+    'yi-1-5-6b-chat': (
+        'A lone small traveller with a staff and a pack, seen from behind, standing at the top of a high mountain pass at dawn. Ahead the path winds down through valley after valley of mist toward a far peak that glows from within like a lantern. Enormous sky, the first light just touching the snow. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'yi-1-5-9b-chat': (
+        'A chair drawn up to a bedroom window deep in the night, moonlight falling through thin curtains across the floor. On the sill a single candle burns steadily beside a cup; outside, sleeping rooftops under a sky thick with stars, not one lit window among them. Stillness, silver and deep blue. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
+    'yi-1-5-34b-chat': (
+        'A hidden glen in the heart of an ancient forest, ringed by colossal mossy trees whose branches knit overhead. In the centre of the clearing stands a weathered standing stone shaped a little like a hooded watcher, wreathed in ivy, with shafts of green-gold light falling on it and small glowing motes drifting like fireflies around a still pool. No writing or lettering anywhere, and the canvas is unsigned: no signature, initials or marks in any corner.'
+    ),
     "qwen2-5-32b-instruct": (
         "A painter's attic studio with one enormous open window filling the "
         "back wall, and through it a magnificent wide view: a river winding "
