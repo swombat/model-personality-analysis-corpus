@@ -1,5 +1,18 @@
 [
   {
+    "model": "yi-1-5-9b-chat",
+    "safe": "yi-1-5-9b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 63,
+      "GENERIC_ESSAY": 44,
+      "GENRE_FICTION": 18
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-1-5-9b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/yi-1-5-9b-chat.md"
+  },
+  {
     "model": "yi-34b-chat",
     "safe": "yi-34b-chat",
     "analysis_inputs": 1,

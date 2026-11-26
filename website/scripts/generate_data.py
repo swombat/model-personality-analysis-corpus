@@ -55,6 +55,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 
 MODEL_SLUGS = {
+    "yi-1-5-9b-chat": "01-ai/Yi-1.5-9B-Chat",
     "yi-34b-chat": "01-ai/Yi-34B-Chat",
     "gemma-7b-it": "google/gemma-7b-it",
     "qwen1-5-0-5b-chat": "Qwen/Qwen1.5-0.5B-Chat",
@@ -384,6 +385,7 @@ FIRST_PARTY_API_PRICING = {
 # from a model that is available through a subscription but has no public
 # per-token API tariff.
 API_ACCESS_OVERRIDES = {
+    "yi-1-5-9b-chat": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official 01-ai/Yi-1.5-9B-Chat revision 1a0fc698; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "yi-34b-chat": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB), official 01-ai/Yi-34B-Chat revision cf02cb50; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "gemma-7b-it": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official google/gemma-7b-it revision 9c5798d2; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "qwen1-5-0-5b-chat": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official Qwen/Qwen1.5-0.5B-Chat revision 4d14e384; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
@@ -427,6 +429,7 @@ API_ACCESS_OVERRIDES = {
 # matching would either drop these samples or risk folding a later model
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
+    "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698": "yi-1-5-9b-chat",
     "yi-34b-chat-colab-vllm-bf16-rcf02cb50": "yi-34b-chat",
     "gemma-7b-it-colab-vllm-bf16-r9c5798d2": "gemma-7b-it",
     "qwen1-5-0-5b-chat-colab-vllm-bf16-r4d14e384": "qwen1-5-0-5b-chat",
@@ -549,6 +552,8 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "yi-1-5-9b-chat":
+        return "Yi 1.5 9B Chat"
     if slug == "yi-34b-chat":
         return "Yi 34B Chat"
     if slug == "gemma-7b-it":

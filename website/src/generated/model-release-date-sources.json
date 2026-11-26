@@ -46,5 +46,6 @@
   "qwen1-5-moe-a2-7b-chat": "Qwen official announcement, 'Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters', 2024-03-28: https://qwenlm.github.io/blog/qwen-moe/ . Historical checkpoint release, not November 2026 capture.",
   "qwen1-5-0-5b-chat": "Qwen official announcement, 'Introducing Qwen1.5', 2024-02-04: https://qwenlm.github.io/blog/qwen1.5/ . Historical checkpoint release, not November 2026 capture.",
   "gemma-7b-it": "Google: Gemma open models announcement, 2024-02-21. https://blog.google/technology/developers/gemma-open-models/",
-  "yi-34b-chat": "01.AI Yi project: public release of the chat models on 2023-11-23. https://github.com/01-ai/Yi#news"
+  "yi-34b-chat": "01.AI Yi project: public release of the chat models on 2023-11-23. https://github.com/01-ai/Yi#news",
+  "yi-1-5-9b-chat": "01.AI Yi-1.5 release, 2024-05-13. https://github.com/01-ai/Yi-1.5"
 }

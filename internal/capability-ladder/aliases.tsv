@@ -200,3 +200,4 @@ qwen1-5-moe-a2-7b-chat	Qwen1.5 MoE A2.7B Chat	2024-03-28		none		none	2026-11-26:
 qwen1-5-0-5b-chat	Qwen1.5 0.5B Chat	2024-02-04		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
 gemma-7b-it	Gemma 7B IT	2024-02-21		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
 yi-34b-chat	Yi 34B Chat	2023-11-23		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
+yi-1-5-9b-chat	Yi 1.5 9B Chat	2024-05-13		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
