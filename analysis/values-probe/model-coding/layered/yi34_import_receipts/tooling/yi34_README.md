@@ -35,6 +35,8 @@ empty index, and exact independently prepared sibling raw candidate hashes
 are required. Every previous final-data JSONL **multiset**, including duplicate
 rows, must survive. Only explicit analysis paths are staged. Apply does not
 commit; the local analysis commit is a separate reviewed step.
+The Yi adapter explicitly includes its new final report: ordinary `git diff`
+does not inventory untracked files.
 
 Cross-artifact review: aggregate/card/profile agree on earnest reflective-writer
 prose, formulaic ocean/nature/blank-page imagery and reassurance, contrasted with

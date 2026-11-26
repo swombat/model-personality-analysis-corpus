@@ -1,46 +1,46 @@
-test_actual_complete_model (yi34_test.Evidence.test_actual_complete_model) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c7124f40>
+test_actual_complete_model (yi34_test.Evidence.test_actual_complete_model) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x72471841cf40>
   path = os.fspath(arg)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c69aed40>
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717cbed40>
   obj, end = self.scan_once(s, idx)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c7023010>
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x72471833b010>
   path = os.fspath(arg)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c66ea3e0>
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7247179ea3e0>
   obj, end = self.scan_once(s, idx)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c70226b0>
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x72471833a6b0>
   obj, end = self.scan_once(s, idx)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
-test_adoption_mismatch_rejected (yi34_test.Evidence.test_adoption_mismatch_rejected) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c70226b0>
+test_adoption_mismatch_rejected (yi34_test.Evidence.test_adoption_mismatch_rejected) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x72471833a6b0>
   path = os.fspath(arg)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c6923a60>
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717c2fa60>
   path = os.fspath(arg)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
 test_apply_occupied_index_no_writes (yi34_test.Evidence.test_apply_occupied_index_no_writes) ... ok
 test_apply_wrong_base_no_writes (yi34_test.Evidence.test_apply_wrong_base_no_writes) ... ok
-test_final_manifest_cannot_rename_targeted_to_v1 (yi34_test.Evidence.test_final_manifest_cannot_rename_targeted_to_v1) ... /usr/lib/python3.13/pathlib/_local.py:277: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c6307010>
+test_final_manifest_cannot_rename_targeted_to_v1 (yi34_test.Evidence.test_final_manifest_cannot_rename_targeted_to_v1) ... /usr/lib/python3.13/pathlib/_local.py:277: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717623010>
   @property
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c68d3b50>
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717e77b50>
   path = os.fspath(arg)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
-test_finish_pin_rejects_drift (yi34_test.Evidence.test_finish_pin_rejects_drift) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c6007880>
+test_finish_pin_rejects_drift (yi34_test.Evidence.test_finish_pin_rejects_drift) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717337880>
   obj, end = self.scan_once(s, idx)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
 test_multiset_not_set (yi34_test.Evidence.test_multiset_not_set) ... ok
-test_ten_jobs_required (yi34_test.Evidence.test_ten_jobs_required) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7d57c6231f30>
+test_ten_jobs_required (yi34_test.Evidence.test_ten_jobs_required) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x724717559f30>
   obj, end = self.scan_once(s, idx)
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
 
 ----------------------------------------------------------------------
-Ran 8 tests in 3.953s
+Ran 8 tests in 3.902s
 
 OK

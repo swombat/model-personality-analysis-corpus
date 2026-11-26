@@ -18,6 +18,14 @@ def main():
     source = source.replace('evidence.HOME.parent / "colab-g7-raw"', "RAW")
     source = source.replace('"17d4b64f2d3c9985e64ae31f72a8ff3603057b70"', "HEAD")
     source = source.replace("gemma7", "yi34")
+    # git diff omits new untracked reports: explicitly inventory this model's
+    # integrator output rather than scooping up the owner's concurrent work.
+    anchor = '    paths = sorted(set(imported + changed))'
+    assert source.count(anchor) == 1
+    source = source.replace(anchor,
+        '    report_path = final / "reports/yi-34b-chat.md"\n'
+        '    need(report_path.is_file(), "final report absent")\n'
+        '    changed.append(str(report_path.relative_to(TARGET)))\n' + anchor)
     namespace = dict(TARGET=TARGET, RAW=RAW, HEAD=HEAD, __name__="yi34_analysis_lane")
     exec(compile(source, lane.__file__, "exec"), namespace)
     namespace["main"]()
