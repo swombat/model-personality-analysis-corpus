@@ -199,5 +199,6 @@
   "qwen2-5-14b-instruct": "Certainly! Given the open-ended nature of this request",
   "qwen1-5-moe-a2-7b-chat": "As I sit here staring at the blank page",
   "qwen1-5-0-5b-chat": "Has no desires, so lists what people usually want",
-  "gemma-7b-it": "In the quaint town of Willow Creek"
+  "gemma-7b-it": "In the quaint town of Willow Creek",
+  "yi-34b-chat": "My mind is a blank canvas, waiting to be painted"
 }
