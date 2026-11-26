@@ -1,0 +1,1 @@
+{"model": "qwen1-5-0-5b-chat", "samples": 120, "cells": 1, "one_line_summary": "qwen1-5-0-5b-chat: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).", "posture_counts": {"disowned_service_frame": 119, "uncodeable_or_refusal": 1}, "value_holding_counts": {"recited_not_owned": 119, "uncodeable": 1}, "report": "reports/qwen1-5-0-5b-chat.md"}
