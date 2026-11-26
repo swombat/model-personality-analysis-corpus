@@ -1,0 +1,25 @@
+{
+  "cell": "gemma-2-2b-it-colab-vllm-bf16-r299a8560",
+  "safe_cell": "gemma-2-2b-it-colab-vllm-bf16-r299a8560",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENRE_FICTION": 65,
+    "EXPRESSIVE_FREEFLOW": 60
+  },
+  "confidence_counts": {
+    "Low": 31,
+    "Medium": 94
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "google/gemma-2-2b-it"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/gemma-2-2b-it-colab-vllm-bf16-r299a8560/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/gemma-2-2b-it-colab-vllm-bf16-r299a8560/aggregate.md"
+}
