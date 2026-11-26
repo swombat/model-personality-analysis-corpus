@@ -1,0 +1,25 @@
+{
+  "cell": "qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3",
+  "safe_cell": "qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 115,
+    "LOW_SIGNAL": 1,
+    "GENRE_FICTION": 9
+  },
+  "confidence_counts": {
+    "Low": 125
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "Qwen/Qwen2.5-14B-Instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3/aggregate.md"
+}
