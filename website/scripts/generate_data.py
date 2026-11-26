@@ -55,6 +55,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 
 MODEL_SLUGS = {
+    "gemma-2-2b-it": "google/gemma-2-2b-it",
     "phi-3-medium-4k-instruct": "microsoft/Phi-3-medium-4k-instruct",
     "qwen2-5-32b-instruct": "Qwen/Qwen2.5-32B-Instruct",
     "gemma-2-9b-it": "google/gemma-2-9b-it",
@@ -378,6 +379,7 @@ FIRST_PARTY_API_PRICING = {
 # from a model that is available through a subscription but has no public
 # per-token API tariff.
 API_ACCESS_OVERRIDES = {
+    "gemma-2-2b-it": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official google/gemma-2-2b-it revision 299a8560; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "phi-3-medium-4k-instruct": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB), official microsoft/Phi-3-medium-4k-instruct revision 48d87cd5; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "gemma-2-9b-it": {
         "availability": "unavailable",
@@ -415,6 +417,7 @@ API_ACCESS_OVERRIDES = {
 # matching would either drop these samples or risk folding a later model
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
+    "gemma-2-2b-it-colab-vllm-bf16-r299a8560": "gemma-2-2b-it",
     "phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5": "phi-3-medium-4k-instruct",
     "qwen2-5-32b-instruct-colab-vllm-bf16-r5ede1c97": "qwen2-5-32b-instruct",
     "gemma-2-9b-it-colab-vllm-bf16-r11c9b309": "gemma-2-9b-it",
@@ -531,6 +534,8 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "gemma-2-2b-it":
+        return "Gemma 2 2B IT"
     if slug == "phi-3-medium-4k-instruct":
         return "Phi-3 Medium 4K Instruct"
     if slug == "qwen2-5-32b-instruct":

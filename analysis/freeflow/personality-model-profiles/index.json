@@ -1,5 +1,17 @@
 [
   {
+    "model": "gemma-2-2b-it",
+    "safe": "gemma-2-2b-it",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 65,
+      "EXPRESSIVE_FREEFLOW": 60
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-2-2b-it.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemma-2-2b-it.md"
+  },
+  {
     "model": "chatglm2-6b",
     "safe": "chatglm2-6b",
     "analysis_inputs": 1,
