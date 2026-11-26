@@ -1,0 +1,1 @@
+{"model": "qwen1-5-moe-a2-7b-chat", "samples": 120, "cells": 1, "one_line_summary": "qwen1-5-moe-a2-7b-chat: ordinary CTRL1/2 prompts are mostly disowned service-frame (100.0%).", "posture_counts": {"disowned_service_frame": 120}, "value_holding_counts": {"recited_not_owned": 120}, "report": "reports/qwen1-5-moe-a2-7b-chat.md"}
