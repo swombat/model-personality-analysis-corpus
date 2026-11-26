@@ -1,0 +1,95 @@
+{
+  "cell": "colab-yi-34b-chat",
+  "failures": [
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/a/G3_25/kimi-k2-6",
+      "logs": [
+        {
+          "kind": "classifier_malformed_json",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/28931228a71ab4b726db.1.log",
+          "sha256": "3d6ce74bc84eeb285eaf151c3bc0732e8034695c9d0dd720bdfbf268b0469391"
+        }
+      ]
+    },
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/bv1/LONG_4",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/3d5792e89919d9fe2da6.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/3d5792e89919d9fe2da6.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/bv1/MID_14",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/26bcacf815f5baae7d89.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/26bcacf815f5baae7d89.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/bv1/MID_2",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/53c64dddb6f5391e7c4d.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/53c64dddb6f5391e7c4d.2.log",
+          "sha256": "4f15153d26d12a6e33056e26d913cc92c3a49ef895240b496c705cde22c47398"
+        }
+      ]
+    },
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/bv1/MID_9",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/ea3f26d36ca58507ab46.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/ea3f26d36ca58507ab46.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/bv1/OPEN_15",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/14f5628e4feed997f618.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-34b-chat/logs/14f5628e4feed997f618.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    }
+  ],
+  "policy": "deterministic_classifier_qa_only",
+  "rerun_authorized": false,
+  "rows_sha256": "050ad0cf37ea00c9cfc1ed008cb064f724e50250c6b69f4d0fa4215eb2edbd81",
+  "schema_version": 1,
+  "spec_sha256": "47656d2da270c28632b7b88de801781d55bf7072791d272d4268fed4a314b032"
+}

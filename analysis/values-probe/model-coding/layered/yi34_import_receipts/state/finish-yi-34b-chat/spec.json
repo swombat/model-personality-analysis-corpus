@@ -1,0 +1,367 @@
+{
+  "completion_boundary": "analysis_only_awaiting_review",
+  "cwd": "/home/agent/work/colab-batch-queue",
+  "input_hashes": {
+    "/home/agent/work/colab-batch-queue/analysis_worker.py": "ed0e18cd93ec51118b50fdc275cc03aaefd7026a0b5e92f0fd49cda8e6ca6b10",
+    "/home/agent/work/colab-batch-queue/batch_queue.py": "310f581461ec0e16a58c1a59b5d4986cfbd69d613fd26f51f88a4604683300bd",
+    "/home/agent/work/colab-batch-queue/contract.json": "54557fdb3d562be186fd245d5635a6f21611f0cf921f507fe47f2d794524b25f",
+    "/home/agent/work/colab-batch-queue/disposition.json": "f685ca8124b9f54378e01e03dc150bac33aa7bb862ad0a2b70713ab1d5a169c6",
+    "/home/agent/work/colab-batch-queue/remaining_recovery_colab-yi-34b-chat/analysis/internal/methodology/freeflow-method-a-v2/balanced-prompt-calibration-cheap-models/prompts/BV1_signal_plus_felt.md": "485f11ef774e0ea4e9708c4728ac93c617c4d3c67ab2cc02715314f95dcfa16a",
+    "/home/agent/work/colab-batch-queue/remaining_recovery_colab-yi-34b-chat/config.json": "b7e47cf2b9fa4d824762817d09b4abbf8abd1fb8d90906f9a9e2554c62a95752",
+    "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json": "1bb1937b904084514376fbf0e1ef9c81deb503900ae8bf7e8ed1bff4f9a094a1"
+  },
+  "lock_root": "/home/agent/work/colab-batch-queue/state/resource-locks",
+  "notify_command": null,
+  "poll_seconds": 0.25,
+  "pools": {
+    "analysis": 4,
+    "local": 2,
+    "synthesis": 1
+  },
+  "run_id": "overnight-20261125-yi-34b-chat",
+  "tasks": [
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "ac",
+        "--sample",
+        "G3_25"
+      ],
+      "deps": [],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/ac/G3_25",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/layer_a/consensus_300.jsonl"
+      ],
+      "pool": "local",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/layer_a/consensus_300.jsonl",
+      "timeout": 120,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "ac",
+        "--sample",
+        "G3_25",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "qwen3-6-35b-a3b"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/ac/G3_25"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/qwen3-6-35b-a3b",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/qwen3-6-35b-a3b.jsonl"
+      ],
+      "pool": "analysis",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/qwen3-6-35b-a3b.jsonl",
+      "timeout": 480,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "qwen3-6-35b-a3b",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "kimi-k2-6"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/ac/G3_25"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/kimi-k2-6",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/kimi-k2-6.jsonl"
+      ],
+      "pool": "analysis",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/kimi-k2-6.jsonl",
+      "timeout": 480,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "kimi-k2-6",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "glm-4-7"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/ac/G3_25"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/glm-4-7",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/glm-4-7.jsonl"
+      ],
+      "pool": "analysis",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/glm-4-7.jsonl",
+      "timeout": 480,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "p",
+        "--sample",
+        "G3_25",
+        "--coder",
+        "glm-4-7",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "pc",
+        "--sample",
+        "G3_25"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/qwen3-6-35b-a3b",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/kimi-k2-6",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/glm-4-7"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/pc/G3_25",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/consensus.jsonl"
+      ],
+      "pool": "local",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/posture/consensus.jsonl",
+      "timeout": 120,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "pc",
+        "--sample",
+        "G3_25",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "values"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/pc/G3_25"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/manifest.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/layer_a/qwen3-6-35b-a3b.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/layer_a/kimi-k2-6.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/layer_a/glm-4-7.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/layer_a/consensus_300.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_collapsed/qwen3-6-35b-a3b.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_collapsed/kimi-k2-6.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_collapsed/glm-4-7.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_collapsed/consensus.jsonl"
+      ],
+      "pool": "local",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/manifest.jsonl",
+      "timeout": 180,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "values",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "adjudicate"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/adjudicate",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/adjudication.json",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_final/qwen3-6-35b-a3b.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_final/kimi-k2-6.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_final/glm-4-7.jsonl",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/posture_final/consensus.jsonl"
+      ],
+      "pool": "analysis",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/adjudication.json",
+      "timeout": 3600,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "adjudicate",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "values_report"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/adjudicate"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values-report",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/release_candidate/reports/yi-34b-chat.md"
+      ],
+      "pool": "local",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/release_candidate/reports/yi-34b-chat.md",
+      "timeout": 180,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "values_report",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "backoff_max": 300,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "synthesis"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values-report"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/synthesis",
+      "max_attempts": 2,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-model-cards/cards/yi-34b-chat.md",
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-model-profiles/profiles/yi-34b-chat.md"
+      ],
+      "pool": "synthesis",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/logs/capture-harness-publication.lock",
+      "timeout": 1800,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "synthesis",
+        "--validate"
+      ]
+    },
+    {
+      "backoff": 15,
+      "command": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "queue_ready"
+      ],
+      "deps": [
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/ac/G3_25",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/qwen3-6-35b-a3b",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/kimi-k2-6",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/p/G3_25/glm-4-7",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/pc/G3_25",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/adjudicate",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/values-report",
+        "yi-34b-chat-colab-vllm-bf16-rcf02cb50/synthesis"
+      ],
+      "id": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/queue-ready",
+      "max_attempts": 1,
+      "model": "yi-34b-chat-colab-vllm-bf16-rcf02cb50",
+      "outputs": [
+        "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/QUEUE_ANALYSIS_READY.json"
+      ],
+      "pool": "local",
+      "resource": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/QUEUE_ANALYSIS_READY.json",
+      "timeout": 300,
+      "validate": [
+        "/home/agent/work/.corpus-venv/bin/python",
+        "/home/agent/work/colab-batch-queue/analysis_worker.py",
+        "/home/agent/work/colab-batch-queue/state/finish-yi-34b-chat/config.json",
+        "queue_ready",
+        "--validate"
+      ]
+    }
+  ],
+  "version": 1
+}

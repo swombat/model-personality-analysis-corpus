@@ -1,0 +1,8 @@
+{
+  "attempt": 1,
+  "output": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/yi34_layer_a_v1_capture_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50/samples/G3_25/layer_a/kimi-k2-6.jsonl",
+  "parent_hold_sha256": "2118b81b76edd29d161033fc1b93871e834eb55bb79a73b33e43edb745485382",
+  "production_validation": true,
+  "sha256": "80ec847b30a72614c01ace557cf711d7f79b44c023097c7222bafb512579f4b8",
+  "task": "yi-34b-chat-colab-vllm-bf16-rcf02cb50/a/G3_25/kimi-k2-6"
+}

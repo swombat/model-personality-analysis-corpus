@@ -44,5 +44,6 @@
   "capture_recovery_v1_overnight-20261125-gemma-7b-it_gemma-7b-it-colab-vllm-bf16-r9c5798d2",
   "capture_recovery_v1_overnight-20261125-qwen1-5-0-5b-chat_qwen1-5-0-5b-chat-colab-vllm-bf16-r4d14e384",
   "capture_recovery_v1_overnight-20261125-qwen1-5-moe-a2-7b-chat_qwen1-5-moe-a2-7b-chat-colab-vllm-bf16-rec052fda",
-  "capture_recovery_v1_overnight-20261125-qwen2-5-14b-instruct_qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3"
+  "capture_recovery_v1_overnight-20261125-qwen2-5-14b-instruct_qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3",
+  "capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50"
 ]
