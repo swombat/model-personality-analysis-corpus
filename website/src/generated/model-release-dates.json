@@ -205,5 +205,6 @@
   "qwen2-5-32b-instruct": "2024-09-19",
   "phi-3-medium-4k-instruct": "2024-05-21",
   "qwen2-5-14b-instruct": "2024-09-19",
-  "qwen1-5-moe-a2-7b-chat": "2024-03-28"
+  "qwen1-5-moe-a2-7b-chat": "2024-03-28",
+  "qwen1-5-0-5b-chat": "2024-02-04"
 }

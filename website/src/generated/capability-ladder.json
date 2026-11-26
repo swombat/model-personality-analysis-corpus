@@ -32602,6 +32602,17 @@
       "point_variant": null,
       "source": "No verified per-benchmark measurements imported for the historical local BF16 cell.",
       "status": "not_scored"
+    },
+    "qwen1-5-0-5b-chat": {
+      "ladder": null,
+      "ladder_max": 220,
+      "match_confidence": "none",
+      "matched_model": null,
+      "measured_rungs": 0,
+      "n_rungs": 22,
+      "point_variant": null,
+      "source": "No verified per-benchmark measurements imported for the historical local BF16 cell.",
+      "status": "not_scored"
     }
   },
   "n_rungs": 22,

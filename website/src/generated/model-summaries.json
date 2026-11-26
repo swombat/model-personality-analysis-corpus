@@ -197,5 +197,6 @@
   "gemini-4-neon": "Almost no old maps actually say Here be dragons",
   "phi-3-medium-4k-instruct": "Give it room and it files a titled magazine feature",
   "qwen2-5-14b-instruct": "Given the open-ended nature of this request, artificial intelligence",
-  "qwen1-5-moe-a2-7b-chat": "As I sit here staring at the blank page"
+  "qwen1-5-moe-a2-7b-chat": "As I sit here staring at the blank page",
+  "qwen1-5-0-5b-chat": "Has no desires, so lists what people usually want"
 }
