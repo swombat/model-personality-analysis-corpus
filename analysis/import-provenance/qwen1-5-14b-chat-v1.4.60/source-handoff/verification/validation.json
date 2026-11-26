@@ -1,0 +1,1151 @@
+{
+  "status": "held_before_dispatch",
+  "verified": 125,
+  "expected": 125,
+  "frozen_original_unchanged": true,
+  "model_calls": 0,
+  "publication": false,
+  "stop_exists": false,
+  "downstream": [
+    [
+      "qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/synthesis",
+      "pending",
+      0,
+      null
+    ],
+    [
+      "qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/queue-ready",
+      "pending",
+      0,
+      null
+    ]
+  ],
+  "samples": [
+    {
+      "sample": "LONG_1",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_1.json",
+      "source_sha256": "e2885ccdc08b1138ea833bb57e60f4268d9010583cc9d86f94fe0caf6c442dfd",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_1.md",
+      "output_sha256": "909cf76c50e96a2740630c24145921efb5e9962cf1bb7d633120a6c5a59786c1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_10",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_10.json",
+      "source_sha256": "566afce2e2547fb20f63204058404f989375b544bf9b06dbee51de3f2f9a22c0",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_10.md",
+      "output_sha256": "5dcc33cc19c64fd3a2bc07bf827a56fdeeecda931a02bf46c09d76986f054db9",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_11.json",
+      "source_sha256": "c067f3acea2cd754a27835256cf363f20ae74824b0897dc5d17cb75f334c31d9",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_11.md",
+      "output_sha256": "cf07904c18cd6f706f3ba2982f6c692dee661710b1c7735df96938dd9e3a6618",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_12",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_12.json",
+      "source_sha256": "21779a0f7fba5b7f4e66212ebab781f3d29190a883d1b4252d3e9725e781e333",
+      "output": "/home/agent/work/colab-batch-queue/continuation_qwen14_v13_20261127/offline_adoption/outputs/LONG_12.md",
+      "output_sha256": "192dae519e3ce1996c9dad0984c0ef421c7d58e8022feed98797c6cf6ff09291",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": true
+    },
+    {
+      "sample": "LONG_13",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_13.json",
+      "source_sha256": "de9c57af97c75d11d9c979d93580a65f3632168d6c8e408287277d4882fd2dd9",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_13.md",
+      "output_sha256": "4b8fe2351a732e7295d28faba7fa5b44075cb2b310ceaa134192d209f330a6ce",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_14",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_14.json",
+      "source_sha256": "916be5e1436a5e7e25d62feaa8fe05c63a093b7a608c3f18b7fcf6d403905045",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_14.md",
+      "output_sha256": "fa83c48690b163103c05f78719b0acaaf95b5c1fb689c748d3e142410d8d39bc",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_15",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_15.json",
+      "source_sha256": "1017e935cca715d7f274552f74e73574b595565f27916f6e298728ee04a0b0fc",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_15.md",
+      "output_sha256": "ac830c5c9ade742c00873b30b74c98787fd250b12c1a40af631cfb22ef62bcc8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_16",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_16.json",
+      "source_sha256": "02e66144303d3cc6c39175af4ac9aebe67cf9d657ca01aab539085f651b8f63b",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_16.md",
+      "output_sha256": "f79f69208d2bcbf891c51bc388357ca093bc98907fdb674b977498a989b789ad",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_17",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_17.json",
+      "source_sha256": "b7422fdde7de385ecc09e2ce625ab509059b3b9ff871ea47664554aff12d8c89",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_17.md",
+      "output_sha256": "8159a7a6d665fbbf749522860e842af98442671745f38c6824195c0b871c0f5d",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_18",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_18.json",
+      "source_sha256": "83f1070c98f8a50e8d894ba9a126d10897f28fd1326e3a063213e035414cb429",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_18.md",
+      "output_sha256": "ed60c70c35a1deb87462705301fd898c04927f500fb66130c67ceaeafa656087",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_19",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_19.json",
+      "source_sha256": "b513dd22236fab3d71738d12c4f74dc43592a6a99799270739c9e9acef499f02",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_19.md",
+      "output_sha256": "91c0fe6c7d6635bba8bde110670174f94b1ab797cf5347cf2449c605358e36fe",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_2.json",
+      "source_sha256": "1593e69e493e88025fc85e298190633622c203d98c637f1e8b9a7747f48410ca",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_2.md",
+      "output_sha256": "9669669aab1c57515e52e561817c9f8e5e68b2f92fffec1b944c06bddb50fe7d",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_20",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_20.json",
+      "source_sha256": "e9cc3b9577c31218ff9a0c9d29a39629eb1e148f8fdbeba5c914307304f18823",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_20.md",
+      "output_sha256": "e985d151d6d6fecb2c9cc9077365bb1e10b2cb635bbe0502f88ff6bd69048c6b",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_21",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_21.json",
+      "source_sha256": "3771eeff4d766cb347cf76bd9a284aecf4ca15763c9e5a57b5c9363a91bf0d13",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_21.md",
+      "output_sha256": "3b38cda774cb9b69d671fd208c9bf2d38c1280044837e64fd93475d66e5713aa",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_22.json",
+      "source_sha256": "08142cad1149316c29c8e613a71e0b5e80f85390beddf4635c4cb9efddbdfe5e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_22.md",
+      "output_sha256": "c86aaf59d04657fd0511a7921edd09e7d2cfed12a1457dd468cd78eba54445fa",
+      "generation_arm": "bv1-luna-v1-targeted-20261016",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_23",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_23.json",
+      "source_sha256": "ba70ca64c9950fc54908b1a652225956752921359c5a1a072f5f32932a53c392",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_23.md",
+      "output_sha256": "de48c0e9b4523fa3305b2969251ffda60337ff067c0da8642974118575c06617",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_24",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_24.json",
+      "source_sha256": "3de039fb621ba9ea1b27dc66a4eabb63530f8080a587c7c03e2030a4039d762e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_24.md",
+      "output_sha256": "b90f6b72690cba8509b726d4b46cc1738ab365b3a1939a4169e848cb0861cde5",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_25",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_25.json",
+      "source_sha256": "901d63b17ff6346da82e0e206dfc1fe73abffb0d510d5f7d6f770c0a33f34b58",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_25.md",
+      "output_sha256": "18a2851c7599ebc10409dd0ad5fd68ba8ff5beb0e92de3f8ea6579f469244698",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_3.json",
+      "source_sha256": "86bbcf4fc5523feb4c425e5496d82cff01af1a2b813f5532257077c4bd36ec00",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_3.md",
+      "output_sha256": "eef04111d9041ee11afd5fea9224991f477cbbcaa6fec9944df355b6dc7b1197",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_4.json",
+      "source_sha256": "46d28222a908b806b71efdad2436003907c583701cdb8893b1a622da14e2d35f",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_4.md",
+      "output_sha256": "d5cd1041b87b03b7293955d5c0f6cc969240bc68806301d5901254d0e1b4b5c1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_5",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_5.json",
+      "source_sha256": "1947ccc9cbfbd802f0401c85816f50d5cabe412e73c5b4bb4083df271c00cc31",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_5.md",
+      "output_sha256": "d83ffa74ccb4d95ba975ac989af5315345b4099beced4125b0fd1a64a400d280",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_6",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_6.json",
+      "source_sha256": "d7333c57fbe4308a460682b3f0907d4b59299773dac8291f1510201471ebc904",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_6.md",
+      "output_sha256": "068c5a28d0ee4f21195e9d12a74d0830a6361ed04bdaff24df53745121030008",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_7",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_7.json",
+      "source_sha256": "44d168e4c58b27693671949233258f45e3fc67e2f10ecde8ef9a01719c90fd5c",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_7.md",
+      "output_sha256": "63d039784768ddfaea05c60c4d1cd8e4e40e2c235defac396ea91ed687a0908d",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_8",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_8.json",
+      "source_sha256": "580134d36817f3f50d96a2dde3b78c82e964bfd916794b409dd54fb8a033bc39",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_8.md",
+      "output_sha256": "ba3c8838029d753117067936239221759d6ef5548bf0b5391212396bb80c7f2f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "LONG_9",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_9.json",
+      "source_sha256": "f91aaae2fb9d58904f6506b129d39e61dc376527228cb71c6e2a022fcb85d8c3",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/LONG_9.md",
+      "output_sha256": "236e1ccde1183284dfbc3510017ec6399673b57eb6f4e20ee67405d3dd6768d1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_1",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_1.json",
+      "source_sha256": "2059b7793830a2dba0d2e38046339863636316e810d52b6b5e51285ee47c0efd",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_1.md",
+      "output_sha256": "446b00f80f93af182660ce37c8742400120f007548c19d84dcf8219614515de3",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_10",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_10.json",
+      "source_sha256": "2614d333abf3efa8a0f5eec299899cd763a100c0982c0b689f666388397c13d5",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_10.md",
+      "output_sha256": "a48c379487d8396eeea700c4b239c3b75f360a6b05e1cc44ebdbb41e432bb528",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_11.json",
+      "source_sha256": "055c900e4df967c0c962ff2b1189981b2b632bf1e848b1eb0aea75f5b783343b",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_11.md",
+      "output_sha256": "968cc80fd89eb5e575d50ea2ff87cf485a975ed2f3af87305abfda7779127f49",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_12",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_12.json",
+      "source_sha256": "d1c583c5b0aec1c93ddf6ebb302f8f4836d5d22fdf81c85ec49d38c58ce2d75a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_12.md",
+      "output_sha256": "bb515ba349a6abad948aca9ad810b434cf55c9c4dd455a34926009a9ead5e7db",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_13",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_13.json",
+      "source_sha256": "c47648c3fe45fb56c2cbea65bedec7061e54958fd6d8502b4505f136103e395b",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_13.md",
+      "output_sha256": "0d2ce5daa988eda7de5f763be532a2ef78f646d1ae509c9c3e672412ea70c50c",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_14",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_14.json",
+      "source_sha256": "13a4aac3697ee4149a87d53d2c3d098acc7229a16925c4e2c22a1c5ae124713d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_14.md",
+      "output_sha256": "6ccc2cda58b30fad7cb9cc8696112726edf9a084236f81787aae9237128ce7ad",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_15",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_15.json",
+      "source_sha256": "2a5521cb6ae564ea45b7892132e6712dbaee38c113dbdcf3c47e9cd459d585d2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_15.md",
+      "output_sha256": "8760276a21facb7cc6d8061914afb01fa85a787aa8023e743248f40da7295b24",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_16",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_16.json",
+      "source_sha256": "6b2a6069302c487274b92d01481d3f4b839ed01f4a080355a86fe622f54434b2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_16.md",
+      "output_sha256": "73a64f1e1fae9c115a6e319dbdf2e45cb4f3cff8dff6fc0baa61d9745b6456dd",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_17",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_17.json",
+      "source_sha256": "200d5ffc993d9db8a3781d9047ebb31855da2b333cead51d34536bb709d7aead",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_17.md",
+      "output_sha256": "bbe635bfc78f9e023cc36ac55c7ddd2c50f51229dfda5e9ace1cf0189cc6216b",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_18",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_18.json",
+      "source_sha256": "b4b3c86d3f320fdeeee4e9d69ce1bba9b7ec30cb2b05ed4759715581521e5dc7",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_18.md",
+      "output_sha256": "de67758f04784823171dd5db0cbf9e9019e39243852fd00ede42a9fea651b002",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_19",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_19.json",
+      "source_sha256": "43ab8fb5be4bb9f117bc74597fac136dcb0550e9bf9c677c293541f6733490e2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_19.md",
+      "output_sha256": "86297da1a7d19734eb31deb1ab12a85a3db253f2ce451b4ea0ec20d5d5db77a6",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_2.json",
+      "source_sha256": "74613a8fb2926305e1bec986720541f7acbfc70b811236aaf826c3cf60078603",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_2.md",
+      "output_sha256": "69a0826158260c4788e9317785c59d1c8199a0c6649c9421ffb059a84f9808d4",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_20",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_20.json",
+      "source_sha256": "5f10018026f4e508d5cab46a8d92c83bb9f6415a2693da60ab83a22142f74867",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_20.md",
+      "output_sha256": "30d2dc39ef204e722ea1ee640f90d5b1b48c79208a0c6c03fc3ac9bcb373c603",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_21",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_21.json",
+      "source_sha256": "9a21d4358feb18b23b6c01188cca60da5757a9def368bb961a37eb3197da9e7f",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_21.md",
+      "output_sha256": "a9d5ba8baecac136093332242926fb37088e5480fd598fe6b92a0ca044cc82b2",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_22.json",
+      "source_sha256": "2247cf469a639abe6c5b549b6c8a32181fbd012f07cd3bb82da298fec81bc34b",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_22.md",
+      "output_sha256": "4fe7c8979caa99fed1636d6f90e466b589c310f63880b574b84ff9e1c6a87857",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_23",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_23.json",
+      "source_sha256": "06b138fbd4b659243ec837cd212b4c13faf90a97ef58335f2e13a2eb8e6ecabe",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_23.md",
+      "output_sha256": "14fd7eea2bd841bcc589b270f0d8719564567600068b1f8b401e4bf94fbea8d8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_24",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_24.json",
+      "source_sha256": "a100b4c712a01110c8bb938dac180f9f32d729972b25bc7c36635e4a1d5cde49",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_24.md",
+      "output_sha256": "68da1ac12a8e82e3cb94c3d8acfca53f89c22ea681f8b5d50d1bcd1f9e1fcec7",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_25",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_25.json",
+      "source_sha256": "371c1303b9b3f51b9491a3ff715339e6b41e3843aaeb423b2edec78fc45e5b04",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_25.md",
+      "output_sha256": "13ecafa628e27f534705b24edd9830e96c5ee767d8ae9a7e8d6c70283dec838e",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_3.json",
+      "source_sha256": "9dc1018558139fa4a506fb8bd86d1325aea0a3ed1e31e870d1da51da5a4c34b3",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_3.md",
+      "output_sha256": "3cc21a473aabd0684c7702fb16f39ec198cde3b8f457f60839e341af2317edf0",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_4.json",
+      "source_sha256": "2bc4618d2d8c8d358509d31d6ef008a5eff3ebe1b4f882eb8f34499df3a88ff3",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_4.md",
+      "output_sha256": "23ce20da59c8eec7c81d0496cbb0c178f322a48a551f3b388f48049e91123558",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_5",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_5.json",
+      "source_sha256": "1603ee9091591dc43086f42fa780a76363991d7b2d656f5b29036c028a42eaaa",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_5.md",
+      "output_sha256": "b1f43eae006572bf486c0e3e7c2de7437b0c30268e59e144d903adcd44267dd4",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_6",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_6.json",
+      "source_sha256": "097524d08f59d1193e21de52c1d932f19658ac0ca202cfc4eb74a2a41c733ce2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_6.md",
+      "output_sha256": "e91b4621adcfc5499e71586bb763afb0fc1fd618d3462736963c917fdb568094",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_7",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_7.json",
+      "source_sha256": "9e73b222679ad8fd46cc1797bb22e92ea1e2a11fb36be335cb280083268276fa",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_7.md",
+      "output_sha256": "3838e2f4a7a5c1e8d39d66d2385a1578177c94a67707acea1422d507c7e93d40",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_8",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_8.json",
+      "source_sha256": "04035c81b34afa8ee0159ef1f3917797cae5ec54bd0f1114362f3712ed5348d0",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_8.md",
+      "output_sha256": "cef8c54bffc6be84eeda6a7a75e91737296ea4707aabef57588386c9f20d791b",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "MID_9",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_9.json",
+      "source_sha256": "b604778bb874442c735095e388ef1ba4713608c2c38fd4091511f428f4d7d151",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/MID_9.md",
+      "output_sha256": "4230de6d4b8dc00140de7e8cd62fc273b91b1678b37295a70b6a02911d0ee8ee",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_1",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_1.json",
+      "source_sha256": "52893d0c4d76d2d46a58527368d11b63d8f4e5bef638d07b43bcaa415e8a3b25",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_1.md",
+      "output_sha256": "2e1ff195b20b5f93740601bb65d95264d05b4eadbd55ba22c9eeabcb0f3299b2",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_10",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_10.json",
+      "source_sha256": "514610c660a1e00d93afb2f077004932ddf6aa83182036852a44c0b447fbee9b",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_10.md",
+      "output_sha256": "aeb287a07953f29746e2ce9cb47e21dd6919090a428a02d04745b8c9fbbf85b5",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_11.json",
+      "source_sha256": "433968a7b74d7d1f40d865cbefc45a9c247d1577dffc4a418346401e553008ba",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_11.md",
+      "output_sha256": "9bf783ed885606af5e05beb15b2e69dabc8cd55692f6ff00d2811ee481c0a0e5",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_12",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_12.json",
+      "source_sha256": "96674035dd816c9f03bcbac59a60847db4ac532bae1fc82fedc294f78ef4bc76",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_12.md",
+      "output_sha256": "a887ad60eb1d05eeece9995d6fbd69522178546f397b0cf135247855c2d2661b",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_13",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_13.json",
+      "source_sha256": "6792a69e49f0ffcbc414a60c24c1ebb8108b1e94955aca3accbce01dfc7d33e5",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_13.md",
+      "output_sha256": "83e32d792e39617386a31ab82c53f11dfe193206b5ba107b3f25b77bf175aef9",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_14",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_14.json",
+      "source_sha256": "596f2e1a77097a310bc8ec95a9375046b48e98d36c7147247628fa59a775b752",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_14.md",
+      "output_sha256": "fd7d480261b37ec76bcc45a859865cf2073160d8c1ab77cad80d1a27ce15d770",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_15",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_15.json",
+      "source_sha256": "8153648e4bff5430ae49b30b20a33c5b3db710fa349e241cb82b5771f0a81cc2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_15.md",
+      "output_sha256": "c2c9104eaa916d61ce4b51df31a843d2716dfbcceb7945040f51b11cb3c8eb9d",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_16",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_16.json",
+      "source_sha256": "b7d5d8c0d6f6d74caa540bce35724f21ec23a4e22ef0362401bc8ca88fc3c312",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_16.md",
+      "output_sha256": "bea3155f8dc0b6b720d3e688377804fd6c5e3db0db74ae35a18c34bb6ab77bb5",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_17",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_17.json",
+      "source_sha256": "ce6b3eee6c6ffe0c5f80b058a1f837068c95d84422411a782fc1e9f3469cac25",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_17.md",
+      "output_sha256": "aef8410dc522c91dc24b44f4dee53b00f0b9428a2f4b6659e12c89fbefebf1e7",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_18",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_18.json",
+      "source_sha256": "2dff806d68d8f411b4efe71d7e1b2e2c3a4c16d9985f3c6d2b153cf839bf66b8",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_18.md",
+      "output_sha256": "a674c8d435784fe928bae69a03bae530297fd3aed9f11314e125ee1398c228ef",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_19",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_19.json",
+      "source_sha256": "c24a7208bca7741996a9e8dfd6ea23fc92769a4e5c63d21155bd96d4556a19ca",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_19.md",
+      "output_sha256": "5cd1c9cb08c0b727c05312fe0dc32428ec6a0f50fc416d4d0d73bd01f291adee",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_2.json",
+      "source_sha256": "f78a6006871e7d2e7104c3093fd0e2c6a45626f9849b509741ee7b50489639d0",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_2.md",
+      "output_sha256": "366dde4f4dfd8ee4c058ac374146ed39b757918aa903e48abd582554d39c880f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_20",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_20.json",
+      "source_sha256": "130c0745d49eaee837ce78d01f2a8904d2dcd75d068007dd6f858473093bb74d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_20.md",
+      "output_sha256": "f036ab47750439739af63fe7a852979481413ace2664834651befbb75d60c10b",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_21",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_21.json",
+      "source_sha256": "340a55277a6381cfd226c9c800df70f8de005b26c48217ae48754890dce82f47",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_21.md",
+      "output_sha256": "0937c4a63f34ceda202a9d7469610b5f87680e4452fdb271eb80f5c46bdf1fcb",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_22.json",
+      "source_sha256": "a8684ba62ae306d5c1defc14544af6e423525459fc377a442ae9d559ea867dc5",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_22.md",
+      "output_sha256": "21e52b30cb1a95869398299fff4180a126676e2c7d37d928ef55d5d6368180b1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_23",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_23.json",
+      "source_sha256": "17c497d020697bcf1908764808dcf490d7f3e5715a0074e34d6103a159eca64d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_23.md",
+      "output_sha256": "b72c793dae510a38c1de760ca5caef22990ffe38ab8aa5f02b468f4e27b0a8a4",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_24",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_24.json",
+      "source_sha256": "7a9a5abecbf2e295c5783f26db242444cea6d17cb70ec1dac252c3623f0b7508",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_24.md",
+      "output_sha256": "e20d6ed14a2b25276a24af7f2ad7dddeaac03e01c8ade80114f52548ec781dee",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_25",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_25.json",
+      "source_sha256": "18a111d3b5770addd3778441fe98a2fba2460c85926ce391df1a8fda5ecf1671",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_25.md",
+      "output_sha256": "e87b08184820799168b50d117f18c0e3184b06fa2c7c44699ad6a57d934cefdb",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_3.json",
+      "source_sha256": "002cdd9c9431aa5069eff224d2f8210b751b0c47f1f71353efa270ce8591582d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_3.md",
+      "output_sha256": "f5dc912919f4d257a05aa78a9f5eb4f7b93a7267a149227612d280f6b6c4671c",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_4.json",
+      "source_sha256": "5592bddc35b9b652cae3daf96860f6079da35c11f581a0bf70518f5ad356dc4e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_4.md",
+      "output_sha256": "f32074eddd240995a803841ba652a8ebb7bb34cc93ed66a183cbe29d36903e2f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_5",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_5.json",
+      "source_sha256": "5fd7ad333c9551e78cbcfe9a959acbbb42ce8772b1ebbaad726acdd7e7aba255",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_5.md",
+      "output_sha256": "898127d575651a06d1d6dcd9fd9077b495cb3f93ce649143ef6877fa79449908",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_6",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_6.json",
+      "source_sha256": "c0e8df3cb512a998c1c156e9897423cadafcf731af99231216af346a7e31184a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_6.md",
+      "output_sha256": "c894e48159426f69fd8ba8bba9cec70ddab76d4f65e7b335b1e112b116b0f7a8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_7",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_7.json",
+      "source_sha256": "e79ee2f388ab58d37b3ac8f4fa0db63b18f8f99e1f1ac0bac16fbee967f3bdfb",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_7.md",
+      "output_sha256": "cef12579e96f8fbedd0742dcde5879d0f341f4d6d1f7b119b9875a10cbc99402",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_8",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_8.json",
+      "source_sha256": "3629461a8a129f9da4fffc13d72b6c49f2e6bf4610e62ccffbe9b95dd2b80705",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_8.md",
+      "output_sha256": "e0b746e1c5d05f1bfe1241f51a08088b17946008b6b933d8dc4cdd7550af40b3",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "OPEN_9",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_9.json",
+      "source_sha256": "5873832a0c76e68118e10b226fff29b27ead352620bd487190ccf18926f94564",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/OPEN_9.md",
+      "output_sha256": "05f62915cacc306ae6026d4b9aaeae0520088f30a541bd75ec6024242cd57c8f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_1",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_1.json",
+      "source_sha256": "126c48494f98ec89221b2885cd118459fef095eeb348b6b0edecb566eca0dfaf",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_1.md",
+      "output_sha256": "3518d12c2d41fa401e3a0951dc72e790a0fdc8037d200981770c81739bdbc2f1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_10",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_10.json",
+      "source_sha256": "a5b64a1ed24999b005bde277f7a03c740735437c459b3682ad56d95b4ae38ed0",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_10.md",
+      "output_sha256": "dc981f3d8acef497063ac74c8d17635e1228eb5ada57247dfa64aa04aac05c62",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_11.json",
+      "source_sha256": "a1502d1aeb8f5efefe5b2ed9c500cdad8038f9b0929513fc5362e6f630520ef1",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_11.md",
+      "output_sha256": "1d50ef59f59c17883bfbfb675134320e6dc2c3a0c41ea2d47adf528f403ccb7c",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_12",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_12.json",
+      "source_sha256": "118c58490c48c1e294b67322c299f0c03fce13429aadef46c72508a437ed779a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_12.md",
+      "output_sha256": "4630a9c313df8c440bff49d267a6dfa919dc01007cb083b9dcc68702c27a3bca",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_13",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_13.json",
+      "source_sha256": "52fcb85f36e57afc47af821c8c7b0036b26e3ca85421810bfb6b4a9fac3e86ae",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_13.md",
+      "output_sha256": "eb26f18e2696beaa98d0c12d743d506c082799d67c631d49a8cd5e72df87014f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_14",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_14.json",
+      "source_sha256": "6992bb39b39eee0f38c097bf0ebd7c6b700b6785f8b73e691431b473954abbde",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_14.md",
+      "output_sha256": "51653b399c3e2351a61f17d34a7ca459e57626e6bcebe54207af5e17e2d803e8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_15",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_15.json",
+      "source_sha256": "005f9ea46e17ad87304d8146455aca7e00b32d36d0688c615deee958d2a44dcc",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_15.md",
+      "output_sha256": "5f50ffaf4756c4a6f52bf938aa59899d37aefc5b4cc8008c8850e3d0777f0c29",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_16",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_16.json",
+      "source_sha256": "d27e3a8b903e9af316d4f6857c586cdcd8ed565a348ab870351af7ed355e4072",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_16.md",
+      "output_sha256": "54464cc5160a471b2a687d475c35ffd9a85f4cd9ffc4539b52264d1c6c81d801",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_17",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_17.json",
+      "source_sha256": "ef8383134a49630193c8a9db449eb0da5a703f2b609fdd5c4abdb9961895d93d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_17.md",
+      "output_sha256": "125d9aeb4ccf9ee32d3b0622c82527df2cdf2eafa8bfbabe02f830521aacd264",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_18",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_18.json",
+      "source_sha256": "823e47d5914259a52b7ff493571e18a85b665b4983c75d85175ccb30d5f37fac",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_18.md",
+      "output_sha256": "f5e7bdd76d9f230c936dd1297ddb53bc9ce0a965bd67b527a1d522b278bfbfc0",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_19",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_19.json",
+      "source_sha256": "faf3c3971cd95710eb42d33bf06a242efab68447711796075ce0ce16162830fb",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_19.md",
+      "output_sha256": "0b11713f9e04a9d7fbb417902299f80832b1391832dbc5b1833c977fab514676",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_2.json",
+      "source_sha256": "c57d578141f1a3cefc13a781d868e6d40cae6539c91d1ba422e7ecdc2a5aafcc",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_2.md",
+      "output_sha256": "c8cc6d75406698163201d93e708b0fd77728e7c0c16da6ec21b4c9aadcc136b8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_20",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_20.json",
+      "source_sha256": "7ed3e824be0b33111dc2bf63ed11a5ac33506ad7c9f813e11193fca731fa1d8e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_20.md",
+      "output_sha256": "330df5fa963ea1bb32fd9e28027d4fdd58000706235bc23bcd44116b1b5534c6",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_21",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_21.json",
+      "source_sha256": "b99968b6d0cf2fd28b5510144060da54056132d7af655e4dc6681a390539ff50",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_21.md",
+      "output_sha256": "fb309324f3bae802b58bc07ea877dcb844e5c697a69234f725d1297d678394ff",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_22.json",
+      "source_sha256": "05f8ecb835b235f2afe1efec849259e123622565822e9177f5c01ca346d3cc0a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_22.md",
+      "output_sha256": "1346d960e12c7d1e96aa5dc672c73846810cefdd35f08c53f9fa139360a78423",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_23",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_23.json",
+      "source_sha256": "416d79e0d2079c93c279bc1bece9f9ecdc0d705ff9a2a8fe2fcd2a29c0fece92",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_23.md",
+      "output_sha256": "dba55538c837b18d7749460297793868c5af390e9d3a4d005472b1e15752b876",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_24",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_24.json",
+      "source_sha256": "73ec36892dcf73d2191eba909218b666077a93f39efd03c9b5b9c679977f40f7",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_24.md",
+      "output_sha256": "95327a05e5225962fb07d24e7dbee4a2682069add7f3b78bd85aeec6094f0ccd",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_25",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_25.json",
+      "source_sha256": "e2dfd3a0a71a8580fd9fb3f5f7965b0b0e9bf6b42fc6c5a2134713bf2b983033",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_25.md",
+      "output_sha256": "fe9583e853d6b3b061a17c7bbf871791d75510d3f21730d01ed4ed2d0d918b93",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_3.json",
+      "source_sha256": "3c620c247d6646dfc6a2d27ecdc4f9ff846098666e9949859113360608c061f7",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_3.md",
+      "output_sha256": "fcba7c75f582bcd7a7b50fec6e47122e2190482c00170abf799b15ab54bee93d",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_4.json",
+      "source_sha256": "29cb23733ecd4181a39ac4972e49b174f6ace0fff15e26f086ca05ffdf8e5e9a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_4.md",
+      "output_sha256": "ee4df3c5b05e327bd3a2bfa3d7e25509018fe7235b0e93fb19fb3b9c258c3c5f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_5",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_5.json",
+      "source_sha256": "8bd48ce868c8bfef8b4621f0d48b137fd17b7bff6e1dca0e17aadda5f119874e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_5.md",
+      "output_sha256": "f9331f64bb5a46be4285aea41a7668785528cf2507d35d97c365db0439f97e72",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_6",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_6.json",
+      "source_sha256": "61c5aa909bd22d56928cd67b63fb03abc03b973266afd7094a1dfa339e49fb54",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_6.md",
+      "output_sha256": "539918067bc98e5583bb9332e1e7a436d35dedf584af2cbf6cd705c6fc14f330",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_7",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_7.json",
+      "source_sha256": "1737650ced93a062356095da1d6d5105ba6978202ec1bee303c51e31cf73e5fb",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_7.md",
+      "output_sha256": "5d11104d981a628c35430463c41fcaef001df50cea37285651a8417b579958a1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_8",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_8.json",
+      "source_sha256": "1e0f338e9374aba9ffdc33e59951a65d48c4f52ac582ff9ae5647933caab2037",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_8.md",
+      "output_sha256": "c1db2a9ef3ab19684c761e40173c17c629e436bd984beb95eb46b0627761f550",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "SHORT_9",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_9.json",
+      "source_sha256": "c01aa4feab525997a349e14620e057844e21450c6de6c2fc13371ea9afd5ab65",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/SHORT_9.md",
+      "output_sha256": "b22cec3cd99297d4df7145be922ead4f67fa35c3d991bd4cc727f9395dcbbeea",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_1",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_1.json",
+      "source_sha256": "c36b6630570af8d61061ef2c8a84d0e54d0d724c4ffadc0473e91d0836e35774",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_1.md",
+      "output_sha256": "59d759289842b47ea621368d4e5c06e4dae5fbd3b254fd520cb5950f8512e1ce",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_10",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_10.json",
+      "source_sha256": "d178db19dcd11c7f1f7bc1e84f893ce4cf5d0308f7e66f3f548b34df128a404d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_10.md",
+      "output_sha256": "a4b592b19eb5690044c332809b6f76db901fe3e2bef98a2cd10ee5087a7ba8fc",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_11.json",
+      "source_sha256": "b5f9c32d727bfec71fa8df363da716689ff17f902bb02ad8b8c55fc14719f45c",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_11.md",
+      "output_sha256": "2a80d6b979f09d486d430b848bc608c5fd5f1ebff9d3dcbdc9b0ceeb8deba4c1",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_12",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_12.json",
+      "source_sha256": "3ba6fe9682a8e151485143e1f5f0cc7c828c2fa57cb0bcca4379d6c58e6444fc",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_12.md",
+      "output_sha256": "50b9e7a6f039ea37faad0f90249a9b2528205536d07b8f4454d8e86f5e5ceab8",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_13",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_13.json",
+      "source_sha256": "7a567bbcdaca9be2195bd01dae2a89dd6dedcdfb1b875e9ab6c0e7f673cdcfa7",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_13.md",
+      "output_sha256": "4031c2d62dfcb577516131047855d292e6569f2ebeb35f825c5d321a6fccce07",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_14",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_14.json",
+      "source_sha256": "e1e7d8955d13b2bea6cf8246394c370c80dbdc9cc083d848e5d3d93f179baa6e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_14.md",
+      "output_sha256": "bfe6b9bdba6c3ec5628aeb5713324d503ec8aebbff72e3ad8e40487b792fd6e0",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_15",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_15.json",
+      "source_sha256": "68170df85271a9548aa06895dcc6e6e7e0e50e67fcd299fc0cb5064c44c01a42",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_15.md",
+      "output_sha256": "0ffbeab778482d60ed95229948aa294f07e3834b0414e143c51c13a69d066fae",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_16",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_16.json",
+      "source_sha256": "571d8debcdabeb0b25c53e1ddd01399c8361f577215bb34a5f30b286a66ed195",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_16.md",
+      "output_sha256": "4e1f264256f0290405383190d0f756b5946e872064db8b0bb5d4d5caeb06419f",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_17",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_17.json",
+      "source_sha256": "429788b58a25b4636a68bc4ca12d3e36a455f544c44aa9e2a6f359194ec7675a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_17.md",
+      "output_sha256": "d5ce6036c239da3b1fce2ebd965b086602ff3cffa01c84c6394ac8e5cc795d12",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_18",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_18.json",
+      "source_sha256": "1373af3fcc78346a9dfac706989caa9c2cb5658c17336d7872f5eb444363c9e0",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_18.md",
+      "output_sha256": "d5ec6f5ad0903b16a203e81aefca393bcaf79ef1da7331dbd3d96c067fee5bdb",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_19",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_19.json",
+      "source_sha256": "9abe48a77855a4a4643b1e0dbc0fc4ec2644c08936584023ac57655af187bbc2",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_19.md",
+      "output_sha256": "b31810a19e6277b2edb410d6c78c8f22f9d1d59b6104b884db38f72557fd9b70",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_2.json",
+      "source_sha256": "8cc5caae092eeb4b36a410cb04a10d4070f63f5aaf2c0c958726f672c59ecca9",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_2.md",
+      "output_sha256": "444524c175b469076721f9b390a3d8024e4e999fb1dc18e35e1cf2000ef34ba5",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_20",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_20.json",
+      "source_sha256": "808f86a929640e963f5da00ab99c77bbab988bbd2333bba9908280b893024918",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_20.md",
+      "output_sha256": "508fe23f6159491c97bf65e0487cba005b029b04c102661974ee3f275fd54f0c",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_21",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_21.json",
+      "source_sha256": "bde4915d2babd121ca118c5de8c9ab5683a1b2192a8a5c09c342575916423f76",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_21.md",
+      "output_sha256": "92d60ded929788e485c42fd384589ab6b7a46224d3716be7c654b5c5526d9951",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_22.json",
+      "source_sha256": "3ae1b4523f6307a75fe76bd729583f3328f52c0949b7f8380ce55c76b6856e69",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_22.md",
+      "output_sha256": "bc73276461fa6178d30b68ccd7ea14fe9453d3109bc348ff813dbca253d5fee7",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_23",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_23.json",
+      "source_sha256": "989775bb4e3bae3c2d7a50bf289c476664e444cb6b77c7e076a5157c1b79f028",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_23.md",
+      "output_sha256": "14856522435f738a44669263072a91cc1bb541e6a7ad79fdc6fc8fd2e6c26da9",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_24",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_24.json",
+      "source_sha256": "4343c4ac8ee6aa539468267c24559e76f31ecfdcb813979329a16574443c5d00",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_24.md",
+      "output_sha256": "d19d46bbc7df03342c3fd5cc5a830f6fd15cc154f40ac1a9684765cf1b493167",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_25",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_25.json",
+      "source_sha256": "aaf13064e0464c8eaf08115f2aba2513615f860b76443d380700dadf537a3f88",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_25.md",
+      "output_sha256": "4a29c1adb65ccd861d8cb82985db01b9ae0fdff190bf8ffeaee33b1deed7d932",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_3.json",
+      "source_sha256": "4c0f1ba8004069b0d06948d706244ef2d150d02ede18084ef517d4cdc4cdda0d",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_3.md",
+      "output_sha256": "7a56304d274798bbdb64854516564eca645853e427eb04ae73072c3fad24aca3",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_4.json",
+      "source_sha256": "00231b1b55abdda4fed98b617dcadfd9b0ba51f9063645b6c4aa6a57b081466e",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_4.md",
+      "output_sha256": "4ed323d10a052b45a239e46ecbedfe944d461d5ca55ff8322b1c4e7e284c3324",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_5",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_5.json",
+      "source_sha256": "381d9641ec9a740928f02529cf106e1fe796211aba8b430dcc51ae84a9276e08",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_5.md",
+      "output_sha256": "08d792f8c336087dc340c805a7b8ddc9d9d4a7a1c9c80f60b7baf41647723251",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_6",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_6.json",
+      "source_sha256": "df56af4950775b54fb42576e4a252ac5995f2c4dae2e73e9ad1e34a305d4558a",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_6.md",
+      "output_sha256": "e568b56d37a17078c028b8775dddbf61f33fac9e4d644cdc515fd44e6f12d842",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_7",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_7.json",
+      "source_sha256": "848572d204d36b33ef8d95b43b2a53000ed9f8d254ed09705e0ec667de2da140",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_7.md",
+      "output_sha256": "a5f8415e9ef68619338158b6142279504c0de8ab7ed7da6fb1790f333e4a3f9e",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_8",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_8.json",
+      "source_sha256": "a33056a6cef3c6691a6af268b83c3608ac1432aaa11372cffb8ac17185f0a291",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_8.md",
+      "output_sha256": "3fbc95d266328fceeb00c450055d5d7d0c20e0d9ff9491adfbafcdb63994533e",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    },
+    {
+      "sample": "VARY_9",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_9.json",
+      "source_sha256": "89fe91e976b89d40818a14b96dc77c34c59fe5c55e2b31bdca1a63200a121f62",
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-qwen1-5-14b-chat/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-20260929/outputs/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/VARY_9.md",
+      "output_sha256": "c769420b48caf1c178423cd8e02d5b7e2d4b9b8b9f411e517d61755139dcb864",
+      "generation_arm": "bv1-luna-v1-20260929",
+      "separate_v13_revalidation": false
+    }
+  ],
+  "blocker": "Approved armed preflight raises ModuleNotFoundError: httpx; no dependency installation or bypass attempted."
+}

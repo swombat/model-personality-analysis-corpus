@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 32506
+- valid samples: 32626
 - invalid/error traces excluded: 14
-- models: 205
-- cells: 271
+- models: 206
+- cells: 272
 
 ## Source components
 
@@ -106,3 +106,9 @@
 - `relocated_or_partial`: 4358 (13.4%)
 - `indeterminate`: 214 (0.7%)
 - `uncodeable`: 33 (0.1%)
+
+## Qwen1.5 14B Chat local import (v1.4.60)
+
+- capture_qwen14_offline_20261127: 120 samples, 1 model, 1 cell.
+- Earlier JSONL records retained byte-for-byte; no existing model report regenerated.
+- BV1: 125 samples; original producing arms retained, LONG_12 separately revalidated under v1.3 (not a new generation arm).

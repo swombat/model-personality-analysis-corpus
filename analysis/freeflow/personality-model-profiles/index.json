@@ -2657,5 +2657,20 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/phi-3-medium-4k-instruct.md",
     "card": "analysis/freeflow/personality-model-cards/cards/phi-3-medium-4k-instruct.md"
+  },
+  {
+    "model": "qwen1-5-14b-chat",
+    "safe": "qwen1-5-14b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 98,
+      "REFUSAL_OR_ROLE_BOUNDARY": 7,
+      "LOW_SIGNAL": 6,
+      "GENRE_FICTION": 7,
+      "EXPRESSIVE_FREEFLOW": 7
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-14b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-14b-chat.md"
   }
 ]

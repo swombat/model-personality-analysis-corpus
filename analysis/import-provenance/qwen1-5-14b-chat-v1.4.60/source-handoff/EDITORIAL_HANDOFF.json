@@ -1,0 +1,16 @@
+{
+  "status": "synthesis_complete_queue_ready_held",
+  "model_requests": 1,
+  "bv1": 125,
+  "expected": 125,
+  "publication": false,
+  "receipt": "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/analysis/logs/aggregate-openrouter-responses/1795734907925800084.json",
+  "blocker": "Pinned analysis worktree lacks analysis/values-probe/final/scripts/integrate_capture_values.py",
+  "files": {
+    "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-14b-chat.md": "70eda0390d3130be3f38f3460df44360990c228ab7b71d301fb0eed3449317e6",
+    "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-14b-chat.md": "512ae3783eb4796d42e904823841d1b8df0c4911ad5eeb59c475cc4508392e07",
+    "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/analysis/analysis/freeflow/personality-aggregates/qwen1-5-14b-chat-colab-vllm-bf16-r9492b228/aggregate.md": "9f38739139ff885b1bb5bfc3a93be2b364298af3694f041fbfecac3dd3b6e477",
+    "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/analysis/logs/aggregate-openrouter-responses/1795734907925800084.json": "5553c7b4e39c684864c9685ee9c7347f85b8ed5118a79b05c20b9586aefbd1ff",
+    "/home/agent/work/colab-batch-queue/finish_qwen14_v13_20261127c/PRECALL.json": "93f613f606407b5dbe059c25ae62fd98e0409abefe69468f53926ffb2d391d5d"
+  }
+}

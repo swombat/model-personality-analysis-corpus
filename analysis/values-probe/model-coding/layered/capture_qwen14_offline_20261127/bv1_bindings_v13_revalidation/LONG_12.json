@@ -1,0 +1,13 @@
+{
+  "source_sha256": "21779a0f7fba5b7f4e66212ebab781f3d29190a883d1b4252d3e9725e781e333",
+  "output_sha256": "192dae519e3ce1996c9dad0984c0ef421c7d58e8022feed98797c6cf6ff09291",
+  "evaluator_arm": "bv1-luna-v1-20260929",
+  "generation_attempt_sha256": "b7398af79325fac8916b7bd14dbe28ada035875758283939ecee3a9b1456f04e",
+  "validator": "bv1-luna-v1.3-candidate-20261126",
+  "validator_commit": "0736983b404300033ce20858c64870b17f68d269",
+  "validator_code_sha256": "9732484859bf9fb129c37a520d3e174a7fdd472fd670424c11f83cc0dc3b9b53",
+  "original_qa_pass": false,
+  "original_qa_reason": "quote_sentence_boundary",
+  "revalidation_pass": true,
+  "model_calls": 0
+}

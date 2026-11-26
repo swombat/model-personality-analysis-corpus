@@ -1,0 +1,9 @@
+{
+  "status": "queue-ready",
+  "model_requests": 1,
+  "model_requests_this_completion": 0,
+  "publication": false,
+  "bv1": 125,
+  "expected": 125,
+  "generation_and_revalidation_separate": true
+}

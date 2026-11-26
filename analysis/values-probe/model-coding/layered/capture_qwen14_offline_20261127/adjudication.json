@@ -1,0 +1,8 @@
+{
+  "initial_splits": [
+    "CAP_overnight-20261125-qwen1-5-14b-chat_qwen1-5-14b-chat_G3_10",
+    "CAP_overnight-20261125-qwen1-5-14b-chat_qwen1-5-14b-chat_G3_9"
+  ],
+  "residual_splits": [],
+  "rule": "one independent adjudication; preserve original votes; residual splits are not majority labels"
+}
