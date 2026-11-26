@@ -1,0 +1,4 @@
+glm-4-7: 0 done, 1 todo
+glm-4-7 CAP_overnight-20261125-gemma-7b-it_gemma-7b-it_G1_27 ERR Illegal trailing comma before end of array: line 6 column 221 (char 366)
+glm-4-7: ok=0 err=1
+BLOCKED: 

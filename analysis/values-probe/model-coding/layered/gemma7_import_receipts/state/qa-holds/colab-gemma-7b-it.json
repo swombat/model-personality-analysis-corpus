@@ -1,0 +1,50 @@
+{
+  "cell": "colab-gemma-7b-it",
+  "failures": [
+    {
+      "id": "gemma-7b-it-colab-vllm-bf16-r9c5798d2/a/G1_27/glm-4-7",
+      "logs": [
+        {
+          "kind": "classifier_malformed_json",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-gemma-7b-it/logs/1b61b30b1742f23283db.1.log",
+          "sha256": "bd3be6140b48508e9fad571b69970cc40e6c29efa2e154303532dd45c0ed2e4e"
+        }
+      ]
+    },
+    {
+      "id": "gemma-7b-it-colab-vllm-bf16-r9c5798d2/bv1/MID_5",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-gemma-7b-it/logs/b6b6513f93517c1a7a93.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-gemma-7b-it/logs/b6b6513f93517c1a7a93.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "gemma-7b-it-colab-vllm-bf16-r9c5798d2/bv1/VARY_9",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-gemma-7b-it/logs/b9667e9ecd29dd3cd5d7.1.log",
+          "sha256": "4f15153d26d12a6e33056e26d913cc92c3a49ef895240b496c705cde22c47398"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-gemma-7b-it/logs/b9667e9ecd29dd3cd5d7.2.log",
+          "sha256": "4f15153d26d12a6e33056e26d913cc92c3a49ef895240b496c705cde22c47398"
+        }
+      ]
+    }
+  ],
+  "policy": "deterministic_classifier_qa_only",
+  "rerun_authorized": false,
+  "rows_sha256": "6b2b1f36655158affaca36419c2a7407d3fbc89874de21fe1b90be5100ff6fe9",
+  "schema_version": 1,
+  "spec_sha256": "0b27a30826a48e2e51ac8bb570208dd5add0cdf06db72563113bf45bd298487f"
+}

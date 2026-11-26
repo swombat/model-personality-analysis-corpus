@@ -1,0 +1,13 @@
+{
+  "command": [
+    "/home/agent/work/.corpus-venv/bin/python",
+    "/home/agent/work/colab-batch-queue/analysis_worker.py",
+    "/home/agent/work/colab-batch-queue/state/gemma7-values-recovery-v1/attempt-1/config.json",
+    "a",
+    "--sample",
+    "G1_27",
+    "--coder",
+    "glm-4-7"
+  ],
+  "timeout": 480
+}

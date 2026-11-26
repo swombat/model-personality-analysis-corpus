@@ -1,0 +1,52 @@
+test_actual_complete_model (gemma7_import_test.ModelEvidence.test_actual_complete_model) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cca35f790>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc9324d60>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc93249a0>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc942ee30>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_adoption_mismatch_rejected (gemma7_import_test.ModelEvidence.test_adoption_mismatch_rejected) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc8f671f0>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc93e09a0>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc94ca4d0>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc94ca110>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_apply_occupied_index_no_writes (gemma7_import_test.ModelEvidence.test_apply_occupied_index_no_writes) ... ok
+test_apply_wrong_base_no_writes (gemma7_import_test.ModelEvidence.test_apply_wrong_base_no_writes) ... ok
+test_final_manifest_cannot_rename_targeted_to_v1 (gemma7_import_test.ModelEvidence.test_final_manifest_cannot_rename_targeted_to_v1) ... /usr/lib/python3.13/pathlib/_local.py:116: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc9467d30>
+  def __init__(self, *args):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:116: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc95f67a0>
+  def __init__(self, *args):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:116: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc95f63e0>
+  def __init__(self, *args):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_finish_pin_rejects_drift (gemma7_import_test.ModelEvidence.test_finish_pin_rejects_drift) ... ok
+test_multiset_not_set (gemma7_import_test.ModelEvidence.test_multiset_not_set) ... ok
+test_ten_jobs_required (gemma7_import_test.ModelEvidence.test_ten_jobs_required) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc95cfd30>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7b1cc910aa70>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 3.431s
+
+OK

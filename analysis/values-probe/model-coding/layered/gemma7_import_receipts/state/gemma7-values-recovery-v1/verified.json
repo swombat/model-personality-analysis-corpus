@@ -1,0 +1,11 @@
+{
+  "attempt": 1,
+  "original_receipts_unchanged": true,
+  "output": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/gemma7_values_recovery_v1_attempt1_capture_overnight-20261125-gemma-7b-it_gemma-7b-it-colab-vllm-bf16-r9c5798d2/samples/G1_27/layer_a/glm-4-7.jsonl",
+  "parent_hold_sha256": "6c9bd7f80cc6980df37590878eb00f3e8a11dc8335aff61a5e91102b48f8a103",
+  "production_validation": true,
+  "publication_complete": false,
+  "sha256": "13c2a52279794fa5e75f2c7ccb8e2f22b85b652e150ab4ad17580438996fc9b4",
+  "state": "verified",
+  "task": "gemma-7b-it-colab-vllm-bf16-r9c5798d2/a/G1_27/glm-4-7"
+}

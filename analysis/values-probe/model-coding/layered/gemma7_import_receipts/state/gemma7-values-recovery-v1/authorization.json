@@ -1,0 +1,8 @@
+{
+  "max_attempts": 2,
+  "original_config_sha256": "e48891413e34d96a8c6a701bf6e9015cb78426823a2990910392d766cc65f850",
+  "original_spec_sha256": "0b27a30826a48e2e51ac8bb570208dd5add0cdf06db72563113bf45bd298487f",
+  "parent_hold_sha256": "6c9bd7f80cc6980df37590878eb00f3e8a11dc8335aff61a5e91102b48f8a103",
+  "publication_authorized": false,
+  "task": "gemma-7b-it-colab-vllm-bf16-r9c5798d2/a/G1_27/glm-4-7"
+}
