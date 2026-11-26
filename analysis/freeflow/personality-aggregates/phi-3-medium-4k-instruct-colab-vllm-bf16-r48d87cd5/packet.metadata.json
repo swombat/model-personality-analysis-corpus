@@ -1,0 +1,27 @@
+{
+  "cell": "phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5",
+  "safe_cell": "phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 81,
+    "EXPRESSIVE_FREEFLOW": 12,
+    "GENRE_FICTION": 31,
+    "LOW_SIGNAL": 1
+  },
+  "confidence_counts": {
+    "Low": 118,
+    "Medium": 7
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "microsoft/Phi-3-medium-4k-instruct"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5/aggregate.md"
+}
