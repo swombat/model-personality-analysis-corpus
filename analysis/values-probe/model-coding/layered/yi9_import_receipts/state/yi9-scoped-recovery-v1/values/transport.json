@@ -1,0 +1,8 @@
+{
+  "automatic_retries": false,
+  "httpx_timeout_seconds": 120,
+  "isolated_sha256": "f3c08ce6e22768e668471e381b547adf3736f3710b36eeb7ed8db71f8cfce693",
+  "original_sha256": "1b5466e517dc5f8baafd9f153162c6998b8a3aa1cd1265ae5a2fbe206f179150",
+  "range_attempts": 1,
+  "taxonomy_sha256": "85ebc0e3ca9e36758c1441f9dcd97f2d6f80110add62b636d098c1ffa3efbb41"
+}

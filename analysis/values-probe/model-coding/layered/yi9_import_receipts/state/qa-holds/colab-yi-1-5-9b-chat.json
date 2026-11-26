@@ -1,0 +1,65 @@
+{
+  "cell": "colab-yi-1-5-9b-chat",
+  "failures": [
+    {
+      "id": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_25",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/c73e68aff81f05eb2e41.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/c73e68aff81f05eb2e41.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_9",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/df5ac69538acab8a1abf.1.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/df5ac69538acab8a1abf.2.log",
+          "sha256": "2ee14c5de1b4df7391bdafe8a231c96673575e573d219cb916617ac303ed3894"
+        }
+      ]
+    },
+    {
+      "id": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/OPEN_18",
+      "logs": [
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/7ff7b0936d1d873fc6fa.1.log",
+          "sha256": "4f15153d26d12a6e33056e26d913cc92c3a49ef895240b496c705cde22c47398"
+        },
+        {
+          "kind": "bv1_quote_qa",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/7ff7b0936d1d873fc6fa.2.log",
+          "sha256": "4f15153d26d12a6e33056e26d913cc92c3a49ef895240b496c705cde22c47398"
+        }
+      ]
+    },
+    {
+      "id": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6",
+      "logs": [
+        {
+          "kind": "classifier_malformed_json",
+          "path": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/logs/1ac3ebe4ca86d017c437.1.log",
+          "sha256": "d7e9202bdb8fd53b97e2d29524bd24cb938ab02139a6e46f1c714de6d16526a9"
+        }
+      ]
+    }
+  ],
+  "policy": "deterministic_classifier_qa_only",
+  "rerun_authorized": false,
+  "rows_sha256": "52127f86358f4e4c95e21ded0bde8a9be9c3399c88640b725c460b27127983bc",
+  "schema_version": 1,
+  "spec_sha256": "51812b293e365b18e88267cfdd59789c4ccb8427ad1102fb35cd53bde62c8d71"
+}

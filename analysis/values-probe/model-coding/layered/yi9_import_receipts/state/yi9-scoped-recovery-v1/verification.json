@@ -1,0 +1,35 @@
+{
+  "downstream_run": false,
+  "essay_receipts_verified": true,
+  "original_info_unchanged": true,
+  "original_phase_files_byte_identical": 1942,
+  "original_preflight": true,
+  "publication": false,
+  "targeted_budgets": [
+    [
+      "yi9-exact-mixed-20261126-v1",
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_25",
+      1,
+      2
+    ],
+    [
+      "yi9-exact-mixed-20261126-v1",
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_9",
+      1,
+      2
+    ],
+    [
+      "yi9-exact-mixed-20261126-v1",
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/OPEN_18",
+      1,
+      2
+    ]
+  ],
+  "values_failure": "analysis_worker rejects isolated analysis_root before coder dispatch; both charged slots retained; no reset",
+  "values_requests": 0,
+  "values_terminal": {
+    "attempts": 2,
+    "state": "exhausted",
+    "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+  }
+}

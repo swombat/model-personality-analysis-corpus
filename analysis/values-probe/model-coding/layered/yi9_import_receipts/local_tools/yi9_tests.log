@@ -1,0 +1,41 @@
+test_actual (yi9_test.Evidence.test_actual) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91f759030>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91ee3b010>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:116: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91ed7c220>
+  def __init__(self, *args):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91ed93010>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91eb772e0>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_adopted_posture (yi9_test.Evidence.test_adopted_posture) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91eb772e0>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91efc3b50>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_multiset (yi9_test.Evidence.test_multiset) ... ok
+test_pin (yi9_test.Evidence.test_pin) ... /usr/lib/python3.13/json/decoder.py:361: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91ec432e0>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_untrusted_raw_manifest_path (yi9_test.Evidence.test_untrusted_raw_manifest_path) ... /usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91ed57c40>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.13/pathlib/_local.py:128: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x76e91edb7b50>
+  path = os.fspath(arg)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_wrong_base_no_writes (yi9_test.Evidence.test_wrong_base_no_writes) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 3.560s
+
+OK

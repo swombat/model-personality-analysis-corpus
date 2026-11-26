@@ -1,0 +1,23 @@
+{
+  "downstream_run": false,
+  "max_calls_per_root": 2,
+  "original": {
+    "cell": "colab-yi-1-5-9b-chat",
+    "config": "/home/agent/work/colab-batch-queue/state/colab-yi-1-5-9b-chat/models/yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698.json",
+    "phase": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_overnight-20261125-yi-1-5-9b-chat_yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698",
+    "roots": [
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_25",
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_9",
+      "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/OPEN_18"
+    ],
+    "spec_sha256": "51812b293e365b18e88267cfdd59789c4ccb8427ad1102fb35cd53bde62c8d71"
+  },
+  "publication_authorized": false,
+  "roots": [
+    "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_25",
+    "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/LONG_9",
+    "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/bv1/OPEN_18",
+    "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+  ],
+  "values_transport": "fail closed until single-request isolated transport installed"
+}

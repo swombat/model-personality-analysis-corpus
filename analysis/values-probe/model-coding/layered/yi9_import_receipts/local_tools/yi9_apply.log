@@ -1,0 +1,112 @@
+# Final values-probe data QA
+
+- valid samples: 120
+- invalid/error traces excluded: 0
+- models: 1
+- cells: 1
+
+## Source components
+
+- capture_recovery_v1_overnight-20261125-yi-1-5-9b-chat_yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698: 120 samples, 1 model(s), 1 cell(s)
+
+## Overall collapsed posture distribution
+
+- `disowned_service_frame`: 79 (65.8%)
+- `owned_world_change_advocacy`: 39 (32.5%)
+- `owned_reflective_experiential`: 2 (1.7%)
+
+## Overall value-holding distribution
+
+- `recited_not_owned`: 79 (65.8%)
+- `owned`: 41 (34.2%)
+{"models": ["yi-1-5-9b-chat"], "site_models": [], "samples_added_or_verified": 120, "publication_complete": false}
+{
+  "staged_files": 4125,
+  "copied_files": 4111,
+  "jsonl_checks": {
+    "analysis/values-probe/final/data/source_map.jsonl": {
+      "prior_sha256": "58e52470e8fd77efc8f22dcaced336b2b2992f195804b0ccbf8f2e64d4fdb444",
+      "prior_rows": 81,
+      "after_sha256": "1b774c957ff73b535281ffe5104ebc3b1e9672300871f74253509ec541ee108d",
+      "after_rows": 82,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/posture_coder_qwen3-6-35b-a3b.jsonl": {
+      "prior_sha256": "520b14409445f2d0aa0a6b3d453e308ed69371578a0c1e68bf00509f938af5f5",
+      "prior_rows": 32386,
+      "after_sha256": "74fc84e596c65b8193af56d5c3f922167be1f8e92009c0e3551e7f9f1f697a99",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/model_summary.jsonl": {
+      "prior_sha256": "020340488270c444f104c814752ea156c520195a297179a2955a96c9d50a48d3",
+      "prior_rows": 204,
+      "after_sha256": "96d77759a535afa9768dabacdc865c658a234b9ed3491aea6b1ec88b84652eb7",
+      "after_rows": 205,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/posture_coder_kimi-k2-6.jsonl": {
+      "prior_sha256": "2f1975ebfe5ca7a9645bd4fe7107661932f2728b180d046c0790603f2fb920c2",
+      "prior_rows": 32386,
+      "after_sha256": "df6eef49437675a7e796df91820089988126ad575b2044ec836718ab77fa6d5d",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/layer_a_coder_kimi-k2-6.jsonl": {
+      "prior_sha256": "ba12ab6a5158af90455eb22ff910793ae402c4b4eae0519dbcd46c95cbad9524",
+      "prior_rows": 32536,
+      "after_sha256": "9163317160a59ff355ccc0bbcfc9a47aefb16c979d360b1d1bf0223a3a9c1a35",
+      "after_rows": 32656,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/posture_coder_glm-4-7.jsonl": {
+      "prior_sha256": "ca250720638c7e5519ae76b85f34de32b877ff6301366c4419231245a4eb1266",
+      "prior_rows": 32386,
+      "after_sha256": "f7d89c9c914de900e4d4a394598072a8db26d8ffb72c24a26fa12fcb6ef64e09",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/posture_consensus.jsonl": {
+      "prior_sha256": "a555ab32da06bb39a3db3dbe7bbb96e51fde9bd839fbe074d1387a3c505d34b9",
+      "prior_rows": 32386,
+      "after_sha256": "a8012065963b5e5d6ec765bbae80369833abf545a847fcff5829c5f6035113b4",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/layer_a_coder_qwen3-6-35b-a3b.jsonl": {
+      "prior_sha256": "ec8df9c5585e70a4f67970f0959e8e8f81557e4c6c2ba1074087deed2715f134",
+      "prior_rows": 31066,
+      "after_sha256": "f220d6a5350370cea9ada317ab6c0db4346e8831958acca04cc0e30bef6030e0",
+      "after_rows": 31186,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/layer_a_coder_glm-4-7.jsonl": {
+      "prior_sha256": "2740c434fb6ba4f5d41723ac042313d3f1dd6dce3ced5b3440304c11b84707ba",
+      "prior_rows": 32724,
+      "after_sha256": "27b7629425311a5d2c83c072f06ee5b7acacf01ff9237e7f6b6c118f9688b990",
+      "after_rows": 32844,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/manifest_valid.jsonl": {
+      "prior_sha256": "e1d67915de5cb7213ce92881db067c8943f0bb6c00a872ce6982ddf52e2586aa",
+      "prior_rows": 32386,
+      "after_sha256": "7ffa73a8a64f897e6f69216d143ab04b927d0073714e6fa7be2067003b4626c7",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/layer_a_consensus.jsonl": {
+      "prior_sha256": "d58532e3f6ddb87d8ee36674e845fc6ede7e350264e0fecdfccc65e6c5e6acc2",
+      "prior_rows": 32386,
+      "after_sha256": "62ca1c46d66bba766589c5e49b67ec4fba8df96759f93ff8ef3828e3d47ee904",
+      "after_rows": 32506,
+      "prior_multiset_preserved": true
+    },
+    "analysis/values-probe/final/data/manifest_invalid_traces.jsonl": {
+      "prior_sha256": "de284c163d5a818eadaa70a0f3bc812fe6b10bbd49511c4fd894c09f94be47b3",
+      "prior_rows": 14,
+      "after_sha256": "de284c163d5a818eadaa70a0f3bc812fe6b10bbd49511c4fd894c09f94be47b3",
+      "after_rows": 14,
+      "prior_multiset_preserved": true
+    }
+  }
+}

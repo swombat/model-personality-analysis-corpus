@@ -1,0 +1,7 @@
+{
+  "automatic_retries": false,
+  "max_requests": 1,
+  "publication_authorized": false,
+  "request_sha256": "f151f9952b21230e44b0ae1aaef2e2d46c46ae2f5ded92bc1189fc7f466e6874",
+  "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+}

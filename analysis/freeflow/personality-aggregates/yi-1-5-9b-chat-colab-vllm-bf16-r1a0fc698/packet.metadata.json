@@ -1,0 +1,26 @@
+{
+  "cell": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698",
+  "safe_cell": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698",
+  "samples": 125,
+  "sample_kind_counts": {
+    "EXPRESSIVE_FREEFLOW": 63,
+    "GENERIC_ESSAY": 44,
+    "GENRE_FICTION": 18
+  },
+  "confidence_counts": {
+    "Medium": 27,
+    "Low": 98
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "01-ai/Yi-1.5-9B-Chat"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/aggregate.md"
+}

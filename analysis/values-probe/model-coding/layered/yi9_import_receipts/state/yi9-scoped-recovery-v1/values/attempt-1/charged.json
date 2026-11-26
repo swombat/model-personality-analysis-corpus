@@ -1,0 +1,16 @@
+{
+  "attempt": 1,
+  "command": [
+    "/home/agent/work/.corpus-venv/bin/python",
+    "/home/agent/work/colab-batch-queue/analysis_worker.py",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/config.json",
+    "p",
+    "--sample",
+    "G1_20",
+    "--coder",
+    "kimi-k2-6"
+  ],
+  "max_http_requests": 1,
+  "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6",
+  "timeout": 480
+}

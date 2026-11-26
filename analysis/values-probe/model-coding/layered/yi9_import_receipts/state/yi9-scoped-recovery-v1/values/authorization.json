@@ -1,0 +1,6 @@
+{
+  "max_attempts": 2,
+  "max_http_requests_per_attempt": 1,
+  "publication_authorized": false,
+  "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+}

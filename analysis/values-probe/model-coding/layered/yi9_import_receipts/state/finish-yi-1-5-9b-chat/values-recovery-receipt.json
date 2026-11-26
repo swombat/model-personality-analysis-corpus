@@ -1,0 +1,9 @@
+{
+  "output": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/yi9_values_capture_v3_capture_overnight-20261125-yi-1-5-9b-chat_yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/samples/G1_20/posture/kimi-k2-6.jsonl",
+  "parent_hold_sha256": "a771550f9bd01fafcfbed82e704d6a61b8075145266bce40334e70990113f3f4",
+  "production_validation": true,
+  "publication_authorized": false,
+  "requests": 1,
+  "sha256": "748a476a10d278fae707030a2fa9b3cd33a5b8e47a6b489cf7baaba6e76b2671",
+  "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+}

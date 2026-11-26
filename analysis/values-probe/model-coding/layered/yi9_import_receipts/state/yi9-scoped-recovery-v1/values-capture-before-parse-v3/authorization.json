@@ -1,0 +1,33 @@
+{
+  "max_requests": 1,
+  "old_lane_hashes": {
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/authorization.json": "c8aa4fef397414334fcd71af0b5c538a7f2c7646f2118e74f0c534af44e6fd74",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/essay-result.json": "7fa84a9e971a631a954587a79245c7da45e9c241dbfeb805fea3383c041bb6a5",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/scoped-run.log": "c9de7b063e9b7646e684030d5f1955b309d0086bc82c242dcaeb8e0529425981",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/terminal.json": "e5ef07135ec56d8fd17fa95dbe46ac8a93f61e1274c64c64c715bdaacc46c16d",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values-run.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values-single-request-v2/authorization.json": "0465e5a08d85441b765428982e4bcdb912b264911efa147961666befd932507f",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values-single-request-v2/config.json": "5788a82e66b0de65e78a08faf9cca18f71c7661e933c8aa3f88e544704a9e94c",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values-single-request-v2/failed.json": "f4369804da639f9f899eea6aebed1fcfeb788399ee6606d3227543c0cc2346d0",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values-single-request-v2/request-consumed.json": "9b7a55e95fe562f740c2fb8e5822f22b7aacd9959d0e46e0050b40531b73fc68",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/analysis/analysis/values-probe/model-coding/layered/posture/TAXONOMY_v1_COLLAPSED.md": "85ebc0e3ca9e36758c1441f9dcd97f2d6f80110add62b636d098c1ffa3efbb41",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/analysis/analysis/values-probe/model-coding/layered/run_posture_coder_collapsed.py": "f3c08ce6e22768e668471e381b547adf3736f3710b36eeb7ed8db71f8cfce693",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/charged.json": "79dd056f65dc53883fb1cc9a73a28d46a33fe88fb1c1b722e0ddd9e6c0fafd7f",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/config.json": "adfdc75e0a36813f9499b72af0731160c594c313317452a37e3cf3cebacfe569",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/failed.json": "7af9592723626f1e719e760e1029bf4cdcba640968e63c35b906d2ccc8c6d6c2",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/phase/samples/G1_20/layer_a/consensus_300.jsonl": "7ea4a598474e8a08eb14a26fb486eb4439d7c36917387b4e94515cf92792b61f",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-1/run.log": "75f1e6638538934cb80a347ec03b397a77b03283b7bb4096e8512426dacd6490",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-2/charged.json": "302364b11f77be15e868b714d6e90d48787693162834d154803107bd8252ecab",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-2/config.json": "381a3f32c33dd63fab883f49b49268cc90b419208b0a1916c231e4d41e7f80da",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-2/failed.json": "73e870c1a40c48bc59be5ed6577d8cb773f41b95897238a63a02bb3a02ed6114",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-2/phase/samples/G1_20/layer_a/consensus_300.jsonl": "7ea4a598474e8a08eb14a26fb486eb4439d7c36917387b4e94515cf92792b61f",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/attempt-2/run.log": "75f1e6638538934cb80a347ec03b397a77b03283b7bb4096e8512426dacd6490",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/authorization.json": "589cea10061a640fa3d50b8f22e73931a898f5263f2545eb3b227793f02fc81e",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/terminal.json": "57b46be9e203cdb88e04a50826a8a5b816fcfad98476e3fab8e779c95a384d04",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/values/transport.json": "57b0f40465c85c3991bd947f074fc9298eed69c07b4949f682777e77bdb42b1a",
+    "/home/agent/work/colab-batch-queue/state/yi9-scoped-recovery-v1/verification.json": "b081732c5cf37584681cb044cf8251ee4edcda6442b5706901e7750a8ab204fe"
+  },
+  "parent_hold_sha256": "a771550f9bd01fafcfbed82e704d6a61b8075145266bce40334e70990113f3f4",
+  "publication_authorized": false,
+  "task": "yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698/p/G1_20/kimi-k2-6"
+}
