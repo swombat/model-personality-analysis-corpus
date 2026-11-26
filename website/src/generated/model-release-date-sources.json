@@ -41,5 +41,6 @@
   "gpt-6-2-astra": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
   "gemini-4-neon": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
   "qwen2-5-32b-instruct": "Qwen2.5 family announcement, 'Qwen2.5: A Party of Foundation Models!', 2024-09-19: https://qwenlm.github.io/blog/qwen2.5/ . Historical official Qwen/Qwen2.5-32B-Instruct BF16 checkpoint, not a new November 2026 model release.",
-  "phi-3-medium-4k-instruct": "Microsoft official model card: \"Release dates: The model weight is released on May 21, 2024.\" https://huggingface.co/microsoft/Phi-3-medium-4k-instruct . Historical checkpoint release, not November 2026 capture."
+  "phi-3-medium-4k-instruct": "Microsoft official model card: \"Release dates: The model weight is released on May 21, 2024.\" https://huggingface.co/microsoft/Phi-3-medium-4k-instruct . Historical checkpoint release, not November 2026 capture.",
+  "qwen2-5-14b-instruct": "Qwen official announcement, 'Qwen2.5: A Party of Foundation Models!', 2024-09-19: https://qwenlm.github.io/blog/qwen2.5/ . Includes the 14B size. Historical checkpoint release, not November 2026 capture."
 }

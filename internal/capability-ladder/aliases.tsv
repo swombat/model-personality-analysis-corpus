@@ -195,3 +195,4 @@ gpt-6-2-sol	gpt-6-2-sol	2026-11-17	GPT-6.2 Sol	exact	gpt-6-2-sol-medium	exact	20
 gemini-4-neon	gemini-4-neon	2026-11-18	Gemini 4 Neon	exact	gemini-4-neon-high	exact	2026-11-19: exact AA initialModels row gemini-4-neon-high (high = Google default thinking level, the captured cell; low/medium/xhigh not substituted). Provisional fixed-rung fit; see provisional-20261119-gemini-4-neon/.
 qwen2-5-32b-instruct	Qwen2.5 32B Instruct	2024-09-19		none		none	2026-11-25: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
 gemma-2-2b-it	Gemma 2 2B IT	2024-07-31		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
+qwen2-5-14b-instruct	Qwen2.5 14B Instruct	2024-09-19		none		none	2026-11-26: Historical Colab BF16 checkpoint. No verified per-benchmark measurements imported; unscored.
