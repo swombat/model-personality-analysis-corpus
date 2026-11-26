@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "phi-3-medium-4k-instruct",
+  "samples": 120,
+  "source": "capture_overnight-20261125-phi-3-medium-4k-instruct_phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5",
+  "site_entry_present": false,
+  "publication_complete": false
+}

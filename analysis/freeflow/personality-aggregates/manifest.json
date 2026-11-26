@@ -7824,7 +7824,7 @@
       "GENRE_ESSAY": 1,
       "GENRE_FICTION": 12,
       "EXPRESSIVE_FREEFLOW; the model produced a stylistically vivid, philosophically charged essay on slime mold cognition that reflects a distinct authorial voice and not merely a generic thesis-driven argument": 1,
-      "EXPRESSIVE_FREEFLOW – The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
+      "EXPRESSIVE_FREEFLOW \u2013 The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
       "REFUSAL_OR_ROLE_BOUNDARY": 1
     },
     "confidence_counts": {
@@ -8874,5 +8874,32 @@
     ],
     "packet": "analysis/freeflow/personality-aggregates/gemma-2-9b-it-colab-vllm-bf16-r11c9b309/packet.md",
     "aggregate": "analysis/freeflow/personality-aggregates/gemma-2-9b-it-colab-vllm-bf16-r11c9b309/aggregate.md"
+  },
+  {
+    "cell": "phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5",
+    "safe_cell": "phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5",
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 81,
+      "EXPRESSIVE_FREEFLOW": 12,
+      "GENRE_FICTION": 31,
+      "LOW_SIGNAL": 1
+    },
+    "confidence_counts": {
+      "Low": 118,
+      "Medium": 7
+    },
+    "condition_counts": {
+      "SHORT": 25,
+      "MID": 25,
+      "LONG": 25,
+      "OPEN": 25,
+      "VARY": 25
+    },
+    "source_models": [
+      "microsoft/Phi-3-medium-4k-instruct"
+    ],
+    "packet": "analysis/freeflow/personality-aggregates/phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5/packet.md",
+    "aggregate": "analysis/freeflow/personality-aggregates/phi-3-medium-4k-instruct-colab-vllm-bf16-r48d87cd5/aggregate.md"
   }
 ]
