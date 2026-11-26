@@ -55,6 +55,7 @@ from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS a
 
 
 MODEL_SLUGS = {
+    "gemma-7b-it": "google/gemma-7b-it",
     "qwen1-5-0-5b-chat": "Qwen/Qwen1.5-0.5B-Chat",
     "qwen1-5-moe-a2-7b-chat": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
     "qwen2-5-14b-instruct": "Qwen/Qwen2.5-14B-Instruct",
@@ -382,6 +383,7 @@ FIRST_PARTY_API_PRICING = {
 # from a model that is available through a subscription but has no public
 # per-token API tariff.
 API_ACCESS_OVERRIDES = {
+    "gemma-7b-it": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official google/gemma-7b-it revision 9c5798d2; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "qwen1-5-0-5b-chat": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA L4), official Qwen/Qwen1.5-0.5B-Chat revision 4d14e384; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "qwen1-5-moe-a2-7b-chat": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB), official Qwen/Qwen1.5-MoE-A2.7B-Chat revision ec052fda; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
     "qwen2-5-14b-instruct": {"availability": "unavailable", "availability_label": "Measured locally in BF16 via vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB), official Qwen/Qwen2.5-14B-Instruct revision cf98f3b3; not a hosted endpoint and no comparable per-token API price", "pricing_source": "Local BF16 capture; no hosted API price assigned"},
@@ -423,6 +425,7 @@ API_ACCESS_OVERRIDES = {
 # matching would either drop these samples or risk folding a later model
 # revision into the wrong public card.
 CELL_MODEL_ALIASES = {
+    "gemma-7b-it-colab-vllm-bf16-r9c5798d2": "gemma-7b-it",
     "qwen1-5-0-5b-chat-colab-vllm-bf16-r4d14e384": "qwen1-5-0-5b-chat",
     "qwen1-5-moe-a2-7b-chat-colab-vllm-bf16-rec052fda": "qwen1-5-moe-a2-7b-chat",
     "qwen2-5-14b-instruct-colab-vllm-bf16-rcf98f3b3": "qwen2-5-14b-instruct",
@@ -543,6 +546,8 @@ def site_slug_from_profile_model(name: str) -> str:
 
 
 def display_name_from_slug(slug: str, profile_model: str | None = None) -> str:
+    if slug == "gemma-7b-it":
+        return "Gemma 7B IT"
     if slug == "qwen1-5-0-5b-chat":
         return "Qwen1.5 0.5B Chat"
     if slug == "qwen1-5-moe-a2-7b-chat":

@@ -1,5 +1,18 @@
 [
   {
+    "model": "gemma-7b-it",
+    "safe": "gemma-7b-it",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 92,
+      "EXPRESSIVE_FREEFLOW": 23,
+      "GENERIC_ESSAY": 10
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-7b-it.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemma-7b-it.md"
+  },
+  {
     "model": "qwen1-5-0-5b-chat",
     "safe": "qwen1-5-0-5b-chat",
     "analysis_inputs": 1,
