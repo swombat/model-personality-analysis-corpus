@@ -35282,9 +35282,9 @@
     "lab": "Qwen",
     "family": "qwen",
     "status": "complete",
-    "summary": "Given the open-ended nature of this request, artificial intelligence",
+    "summary": "Certainly! Given the open-ended nature of this request",
     "release_date": "2024-09-19",
-    "notes_markdown": "Historical local-weight capture, not a hosted endpoint: official Qwen/Qwen2.5-14B-Instruct revision cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8, BF16, vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB). 125 freeflow responses and 120 values responses, preserved byte-for-byte. Of the 125 BV1-Luna evaluations, 123 use bv1-luna-v1-20260929 and two (LONG_24, VARY_21) use bv1-luna-v1-targeted-20261016. The targeted variants change the evaluation, not the model responses. [Qwen announced Qwen2.5 on September 19, 2024](https://qwenlm.github.io/blog/qwen2.5/). No verified capability-ladder benchmarks or hosted API prices assigned.",
+    "notes_markdown": "Historical local-weight capture, not a hosted endpoint: official Qwen/Qwen2.5-14B-Instruct revision cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8, BF16, vLLM 0.34.0 on Google Colab (one NVIDIA A100-SXM4-80GB). 125 freeflow responses and 120 values responses, preserved byte-for-byte. Of the 125 BV1-Luna evaluations, 123 use bv1-luna-v1-20260929 and two (LONG_24, VARY_21) use bv1-luna-v1-targeted-20261016. The targeted variants change the evaluation, not the model responses. [Qwen announced Qwen2.5 on September 19, 2024](https://qwenlm.github.io/blog/qwen2.5/). No verified capability-ladder benchmarks or hosted API prices assigned. Seven responses begin with the strapline followed by a comma. Of the 18 that use “Given the open-ended nature of”, 16 answer the 1000- or 2500-word prompts. The phrase “artificial intelligence” appears in 98 of the 125 freeflow responses; it is a recurring subject, not part of the quoted opening.",
     "benchmarks": null,
     "capability": {
       "ladder": null,
