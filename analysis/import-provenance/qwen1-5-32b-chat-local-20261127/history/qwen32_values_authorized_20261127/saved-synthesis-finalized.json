@@ -1,0 +1,8 @@
+{
+  "model_calls": 0,
+  "original_dispatch_count": 1,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-32b-chat.md": "f5d32e13acf0133c68c955184491c065b8ddfeafeb1f0362aa74d715327e48b3",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-32b-chat.md": "04c776329ddd223a877c17f6c04d1c435fa30d7597586b4419f84cb13f86719f"
+  }
+}

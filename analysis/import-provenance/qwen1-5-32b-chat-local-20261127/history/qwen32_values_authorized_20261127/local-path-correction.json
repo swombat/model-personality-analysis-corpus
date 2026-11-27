@@ -1,0 +1,8 @@
+{
+  "corrections": {
+    "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-model-cards/cards/qwen1-5-32b-chat.md": "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-32b-chat.md",
+    "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-32b-chat.md": "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-32b-chat.md"
+  },
+  "network_calls": 0,
+  "reason": "stale compiled output paths only; no task budgets or commands changed"
+}

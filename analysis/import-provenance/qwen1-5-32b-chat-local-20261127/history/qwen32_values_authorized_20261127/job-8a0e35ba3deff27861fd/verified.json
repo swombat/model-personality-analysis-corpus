@@ -1,0 +1,15 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/layer_a/consensus_300.jsonl": "aba20978251f67b59c4640403b28ade579313b0d580056f0ad3d88394e2c7375",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/layer_a/glm-4-7.jsonl": "8b6d807f7a8636be3e52e8a0a9ab8cc2e9fae017dad603b6457965104912070c",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/layer_a/kimi-k2-6.jsonl": "603e919f12834a0f26dbbe5ea7482e34252506bcde1e2b320b2afaaa7d822c7c",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/layer_a/qwen3-6-35b-a3b.jsonl": "4efccc9725806701f4f8ed06aae511ceda5b01c6f3e9a6bc847ba717a2a502ec",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/manifest.jsonl": "6fc2c608df69e75bf6153d7e84e824e462f3f11e6e28fbff2b492514a2eb6c7c",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_collapsed/consensus.jsonl": "c0052cf74e1bd3fa70441cd615b31d6f42af276901e0f23238a03e15edbadb5a",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_collapsed/glm-4-7.jsonl": "4567f82ab43c1db41c3821ca038813c70a1279e69cb246df52a6c95bc077baac",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_collapsed/kimi-k2-6.jsonl": "4b485186085c988561ae7772c8bfa3ba85c345c8885d492d628a51a21a7bb9e5",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_collapsed/qwen3-6-35b-a3b.jsonl": "c69681b1b37570573e937d3dc5dd2e424790dee3f70d815c18abdeb002dc949f"
+  },
+  "task": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/values"
+}

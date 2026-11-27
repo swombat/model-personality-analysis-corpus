@@ -1,0 +1,8 @@
+{
+  "adapter": "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127.py",
+  "adapter_sha256": "bd0296d0a6a2a774ccfe77124071096d8b3511017b88d15963345c9ad07815e0",
+  "capture_child_sha256": "0fdc20d84a71d637d377737be16cb0947f96dd5b6c410f58e5376d05081b727d",
+  "executed_sha256": "224d8045e91d425bce1c4f4e3f4403044ee3b79fb271a20edbeaab780cea9a69",
+  "parent": "/home/agent/work/colab-batch-queue/qwen18_values_authorized.py",
+  "parent_sha256": "c72335eb06fe3def099e391e41b0a4dd16764acd9ff7823c24f05a397889a275"
+}

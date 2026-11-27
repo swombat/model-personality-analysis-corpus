@@ -1,0 +1,7 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/samples/CTRL3_2/posture/consensus.jsonl": "e12bdf796c9b7216c6ccf5b52efa305d713dca6d0aa4465d075e4555b12f6418"
+  },
+  "task": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/pc/CTRL3_2"
+}

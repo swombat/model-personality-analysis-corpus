@@ -1,0 +1,10 @@
+{
+  "state": "infra-or-interruption-stop",
+  "stage": "authorized-key-wrapper",
+  "error": "source_sops_keys.sh failed: /home/agent/work/colab-publication-intake/secrets/provider-keys.sops.json absent; runner not started",
+  "targeted_slots_spent": 0,
+  "evaluator_calls": 0,
+  "values_attempted": false,
+  "downstream_run": false,
+  "publication_attempted": false
+}

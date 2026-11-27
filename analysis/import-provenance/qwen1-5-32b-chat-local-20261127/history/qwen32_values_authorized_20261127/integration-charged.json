@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "job": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/queue-ready",
+  "maximum": 1,
+  "network_calls": 0
+}

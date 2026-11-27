@@ -1,0 +1,94 @@
+{
+  "state": "blocked",
+  "updated_at": 1795658123.8823736,
+  "counts": {
+    "done": 1315,
+    "blocked": 21
+  },
+  "models": {
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012": {
+      "done": 1315,
+      "blocked": 21
+    }
+  },
+  "blockers": [
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/SHORT_14",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657317.5527544
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/a/CTRL3_2/qwen3-6-35b-a3b",
+      "state": "blocked",
+      "attempts": 1,
+      "reason": "exit 21; attempt 1/2",
+      "started": 1795657360.1560216
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_2",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657426.6096225
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_7",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657475.910308
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_9",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657491.3285968
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_19",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657593.401817
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_22",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657624.5025578
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_23",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657634.1562479
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_2",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657663.030493
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_5",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657684.810916
+    },
+    {
+      "id": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_21",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795657792.4118366
+    }
+  ],
+  "completion_boundary": "analysis_only_awaiting_review"
+}

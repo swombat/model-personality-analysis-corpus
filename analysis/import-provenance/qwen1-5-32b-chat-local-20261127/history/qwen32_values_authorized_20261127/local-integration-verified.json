@@ -1,0 +1,15 @@
+{
+  "boundary": "authorized full local integration replaces analysis-only QUEUE sentinel",
+  "inherited_queue_ready_budget": 1,
+  "new_requests": 0,
+  "production_validation": true,
+  "publication": false,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-32b-chat.md": "f5d32e13acf0133c68c955184491c065b8ddfeafeb1f0362aa74d715327e48b3",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-32b-chat.md": "04c776329ddd223a877c17f6c04d1c435fa30d7597586b4419f84cb13f86719f",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/ANALYSIS_READY.json": "5f3a72438543d24529193b90529472e5dfc69431c2b02ebc2ede442b41aea1a5",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/CARD_READY.json": "8f61f32e79701f2dd7d1d3e99edce662df1a31675bc721cdb113ba80de73f532",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/VALUES_CARD.json": "4b0d5fb399f8ee74f36fbf7fe47c41db75690bf65625fc90712ea9474c58b9fb",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/release_candidate/reports/qwen1-5-32b-chat.md": "e6fd83a968686c33a53ad5df9fc0d4f898c90683ccf57ae76ed419887f0104a4"
+  }
+}

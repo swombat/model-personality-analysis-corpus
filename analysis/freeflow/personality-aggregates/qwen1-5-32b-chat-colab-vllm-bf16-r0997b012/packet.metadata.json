@@ -1,0 +1,26 @@
+{
+  "cell": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012",
+  "safe_cell": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 122,
+    "REFUSAL_OR_ROLE_BOUNDARY": 2,
+    "GENRE_FICTION": 1
+  },
+  "confidence_counts": {
+    "Low": 124,
+    "Medium": 1
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "Qwen/Qwen1.5-32B-Chat"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/aggregate.md"
+}

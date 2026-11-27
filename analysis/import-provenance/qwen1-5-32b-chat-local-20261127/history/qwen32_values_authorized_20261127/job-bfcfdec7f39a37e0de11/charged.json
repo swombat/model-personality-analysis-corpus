@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "max_attempts": 2,
+  "task": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/p/CTRL3_2/glm-4-7",
+  "transport_maximum": 1
+}

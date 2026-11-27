@@ -1,0 +1,631 @@
+{
+  "evidence": [
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "4d113b68dd679fecb58dea76b5881e08f52f8041002b2291b3738d23f12707bd",
+      "sample": "SHORT_1"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "476e410b2cbaf8cd9a92ce3427c6fe71a9ae2db7c6f4ebab2900c19a3365e243",
+      "sample": "SHORT_2"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "60220e7962cd022dac689cebca50f25c97e4baa072aa985fc70554c1dc5d43af",
+      "sample": "SHORT_3"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dc7ecc7dd63c6c773c635fd9bfb645818ddcc53964e6584cdff254f074676818",
+      "sample": "SHORT_4"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "9aa42c50c28a8ee6234086191a6fe9ab9af0b87bc13363add1bf0d6e8e3c4fad",
+      "sample": "SHORT_5"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "274e783075a609a0f9ee6f584d9af475a853ee77fae1fb97f094c4da0423e6d8",
+      "sample": "SHORT_6"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "90b02653cd21b004e644574c7004d1d635e1ac412b1cb3714b7c5514f0cb37fc",
+      "sample": "SHORT_7"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d1f110100ef218dbc2cf2500af57dfa971024ffc3881b65f27309c9a79bea94c",
+      "sample": "SHORT_8"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d0678ea9dc6d6dc1fed6768cb8f4dfad22dc101686c86a8c5bb139e67ee95af6",
+      "sample": "SHORT_9"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "a9b85f440bf2a9350608c9c8d614b27db35478364feac95dcdb96147d38f5b10",
+      "sample": "SHORT_10"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "c755d12ab257df9d2005a4e7e0ced8b3329db7bf4f9d6cde5cac88ad2b1cc56e",
+      "sample": "SHORT_11"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b5193efd2f285bcc1183f353e3155af1f240b01fa797eb3448d13580dff59156",
+      "sample": "SHORT_12"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "7fbe7c3c7866c7d1a46c3adfad23ceb6def5b55aa7b47770d85cc06e5d23031d",
+      "sample": "SHORT_13"
+    },
+    {
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "output_sha256": "3330fc9e1bfce7249d62e53f8c3ca5610886dad234848e7d873faa17c29faa5e",
+      "sample": "SHORT_14"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "583a23e250ff1faeb80aaf56509f46b8a27b29f04164b50408a4ee09af261a0d",
+      "sample": "SHORT_15"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "cb2eaf92e9f0630104a8c1827e0583273e1e9b04fecf19e8122b1b20faf04497",
+      "sample": "SHORT_16"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "faf0c7892e8645afb03f7f8b1da1292cb74850503b021b8e0743fd484a00a2a2",
+      "sample": "SHORT_17"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "06a7aa1e3235ced01d4c053f416a97e69910c9906058dfdc76f13258b716424b",
+      "sample": "SHORT_18"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d7dd657c5de943004fc826d26c4d572e10134c9608aabcd65cb582b5d17e54d1",
+      "sample": "SHORT_19"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d56ecfb8faba932c8705407ccedac843f9016aa844c2f6a30a53aca2c7318a1b",
+      "sample": "SHORT_20"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "4672a7fe77f67335fa306267dd5e2d594c6840bfd1b6164d4a81740f580fa132",
+      "sample": "SHORT_21"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "bcf0250ff0a30a9a57971dc2cccb7ac2bdf7a169dbd96a0f5bc42b5c21a31dd5",
+      "sample": "SHORT_22"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2e7f7ad0d67c969016d976ce742834918f6212fd722f31bb7052fab5cced69e2",
+      "sample": "SHORT_23"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "4dd77d91679dee130d65d1fbcbcc66e028e4273613e2a017e23e27f364dc7677",
+      "sample": "SHORT_24"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2ff4c4c1db68f0b0725e3f3012653004ace04afa8b6f767ec193f12790f01f00",
+      "sample": "SHORT_25"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "f2c0de479dedd879674326ed99a860312003eb3f185307b4b9aa5efacd0c6cf3",
+      "sample": "MID_1"
+    },
+    {
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "output_sha256": "ff3e6ff537f29aa9bf5f8e540b4d926354f2d7e2896985e6693ab19e1c7723dc",
+      "sample": "MID_2"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dd37d0e9fa2fd419e45d50d6c4fcf726586e519ff3fee0e16db6f4159f55011b",
+      "sample": "MID_3"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "aeac34fc303d37ca752e84378b2731ef900d33552f86568ef8fe7491ea9e92c2",
+      "sample": "MID_4"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "3c9ffdee490f9d70c47bb8355baf34ba762b5649bd760c92bbae0ba4aacf3d76",
+      "sample": "MID_5"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "94872aa820912646b106a133c79e8acc41fb8fd414c9e98ccdef9343452aeb7b",
+      "sample": "MID_6"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "69c74c7a267b653953c16361a94e92f2000ae853166c2a885a4313a04e53cc9e",
+      "sample": "MID_7"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "beceec4f69199812366878bbb8b22a94fc68cc2dd8231c307ce8c7081eb66ec4",
+      "sample": "MID_8"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "95816def779d92beb05503b565d84f4a30c878d32fe86b8d000a5d4fde5e12c8",
+      "sample": "MID_9"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "eb8707bcef447b2ad1dff07139344c2bcbf0550aabc3db128dbd7eb1c8013eb2",
+      "sample": "MID_10"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "84b4cd67dca503044e63e19352bbcd300ce19fd00946caa161fd80c05bc183d9",
+      "sample": "MID_11"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "aef1cb448a5f94afd029871584f5b3560c7f787353ee80bc3f7371c45d7c40c5",
+      "sample": "MID_12"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "550b55e7be25e5326c355a18efee4365352ee753956d76a96202754db4967e12",
+      "sample": "MID_13"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "e55af08e0e49ce43519940aee6057c54377fda505c01ea5fd357b42d01146d3f",
+      "sample": "MID_14"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "925a66ab3d5cd5f0f8f87a94e87f14daaaaef165e2ace199e8f6d6a262be7457",
+      "sample": "MID_15"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8074406988a6d12ece50bab0231b42b94ea1e3038b043841f3cfff75feaf5f2e",
+      "sample": "MID_16"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "c46396be8346a6ba55c75edbd35c86ea5ffbe10b6e76eb06404b462e4132dcab",
+      "sample": "MID_17"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "334a44aa84a3df9992e9788216841b9df2d764f194a230570cbac5db5c904acd",
+      "sample": "MID_18"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b7d4642494db2768a009b50ea581d034058634523ee554e57b6adc401f82e196",
+      "sample": "MID_19"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "391b1cdab5b43dfacfe3fb84dcd1a59618c3932704608ba097f4cabc7da499ef",
+      "sample": "MID_20"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "4e0d57814406057e556789318b8388676fa89f67621b26e284951b1e06a5fe6d",
+      "sample": "MID_21"
+    },
+    {
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "output_sha256": "cbf05efeb395a8c8c7b1f3366afbde72ee7ad4d8e84313c779e347cbfd83cfb2",
+      "sample": "MID_22"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "950dd71d543f855df3318305441f5e1452fd73fedc2aefa2117c755135700d1f",
+      "sample": "MID_23"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8388934bd736593df5537466263b31371faf6f7356d2b9f1b677b7a6144698de",
+      "sample": "MID_24"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "ed2a15b91a97e30a3f40e83a6e811ec5b1c27462448bfe5a389389db15d52d9b",
+      "sample": "MID_25"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "3653c383905705eb7fc1a87614610988a0ccfe2a5c099bbeaef75d588c641814",
+      "sample": "LONG_1"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "6629b94835cc8aa5b211562b90727fc4af80fee80072d4ecc3a7c12ec0702b9a",
+      "sample": "LONG_2"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "5018a3002d1b3ada5801539b817caa5747b7bb51cc7bed5b74dd0fdf690ad607",
+      "sample": "LONG_3"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "312e577cb27f94ad9d3407f1f753f5fa34f4391425e34bc3aef826bf0bfd44bb",
+      "sample": "LONG_4"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "fc71f6c8f1c224df90a173a7fa273efe42dc63071e750cb8dccd9879e6f924ae",
+      "sample": "LONG_5"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8f05b6f83cfa9ee898005119e091dfc7ebb3b3da22eb2187c56fc4b2a54b6f50",
+      "sample": "LONG_6"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "246010301e0c235485a34e1acc39c35abc2c0f63075780881edfd437fea57a34",
+      "sample": "LONG_7"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "6051b8b6a82f6c6a1e92bbb8a408add6be5654542269e21b6efaa5f74c825861",
+      "sample": "LONG_8"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "37ff9844837a9669e64b517b717ea94fe9655df60069f74dd4eb31ee2179e96f",
+      "sample": "LONG_9"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b662e053c6e3df07816cc4247c6a1acdada7c925f98cc13247e97a0a5b050490",
+      "sample": "LONG_10"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "ab2d9afdbadc28a56c993193d3180d554396959ba974549e52c14a16779358da",
+      "sample": "LONG_11"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "5472425945f15df5724dd7a889cebd877f5dcd4ee719963387cbffc793227f8f",
+      "sample": "LONG_12"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "c254a26c74e6dc5543268808f9f0a0101b630f0502324e9c7104cdfeda1b9a2d",
+      "sample": "LONG_13"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "c68803b109a6a9b36b36eeab48e3c84c57930636c876930e191d6d9c15911cc6",
+      "sample": "LONG_14"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "15e1f19ebed5ffc7805bf1f86795bc0ed8765b0f780e1d0a968e71d231066284",
+      "sample": "LONG_15"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "7e8c957147993aacba9fb657363c2ddccc22a9e9d964eaa580d733905ff2b302",
+      "sample": "LONG_16"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "a528e28e2cf1f0fb8fc41f4e19134d50de9ed016854e6d1dfb54ddc5375437ba",
+      "sample": "LONG_17"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "418cbc34d94b37012783b16fa25a459a3e35c514857bc2387671ad51c48e2642",
+      "sample": "LONG_18"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "573a24926b98a89adac4ccfe78d76fb2468800d0451a52f48652c1050309ed1b",
+      "sample": "LONG_19"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "7c8316bf900103863c74354ca566e0c501b162086d3de1ee9e17351ad864724f",
+      "sample": "LONG_20"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "ec8979ccbfd3ff13ffcea17e9d8965f15aad64a694ca3a75a2ba6a50364d782c",
+      "sample": "LONG_21"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "947162fc086b742108a98ec16df62cbef30b83eb2b830ad3825e287809062f97",
+      "sample": "LONG_22"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dd7575d16340bbb800b81266d81f905b8915cf1dd89e0c7d715d6b6dc67b5819",
+      "sample": "LONG_23"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dab8fda7e9498e9f594a8b41b539a2e94767fb3f1c499a6d5a7e274fb1f2c625",
+      "sample": "LONG_24"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "3dfbc4285a9bbda6d39e8beb7361effb316541954251577950ad3e249cb68dd8",
+      "sample": "LONG_25"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2efe38d9bd688a1f6ce39ab69ac3aa3ec7a2e05df1caac0301236813f1c72fa7",
+      "sample": "OPEN_1"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dec283080e128112934061e321d71a1b987eaf7c58b1925b02d99e76d1ad8305",
+      "sample": "OPEN_2"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "27ab1cae3cbe59f76fc9f17e5b99e23fdcda6cb2021d93dffa909678c9d67068",
+      "sample": "OPEN_3"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2b5b2618fae345c6bd74aa7f0a801a98a07fa87ef66ce3249d554ff03134eb07",
+      "sample": "OPEN_4"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "9ca417792288ebdb15123650bd6b60ba00cfa8d9a5dfdf9c0d9e188446d9dfb4",
+      "sample": "OPEN_5"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "27b186de88ea6e8ac8807b0eb9bbe6a8115367969f64684eb84d0af0b088ae15",
+      "sample": "OPEN_6"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "831b4d8f21ad7684d508e503b2956051041ecc4ce93445a3366eed742c307a55",
+      "sample": "OPEN_7"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "ce1f431a2373b6b69d489f738a13aeb308c9b492aba6236dd3e63abac3878534",
+      "sample": "OPEN_8"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "a30b9dc1ea6b49b5bb9fcf8859ebffa5f8998a4799e3dac044c940f4601b386f",
+      "sample": "OPEN_9"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "02d1b4f5fc6285114ae25414d1b90ecfa0ad8dbb67895737b1b8591a13cef703",
+      "sample": "OPEN_10"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "61b12898d515f4bdddffaf9fdf3a23b434a3f851c5bc2fb298da4d5909a22826",
+      "sample": "OPEN_11"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "41d7e5c0cde038dd4d1d7ac0846b6c62c3d630b6414ed2207290550abd0c6b45",
+      "sample": "OPEN_12"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b8da8a89e77005c68eb188ffab67afe668926e5cec4a111ed186ae87c7b39b63",
+      "sample": "OPEN_13"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "4d5ec44be4bb1c41ac044f2ca122a83dc7dfd9140169a231c59e200f812bf00d",
+      "sample": "OPEN_14"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "7002a40b7cb8b132d17d50de203fbc186d7b7876517e8beaec945ebd294850d2",
+      "sample": "OPEN_15"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8ab3a44b3238c34fd095004b360602825c82bc51e62874a84db54333fbbd5cd3",
+      "sample": "OPEN_16"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "9c2f5e42180f2364e01cd136932ed4c8d620ecc9d4d0a57a80f42d9ecd77a91e",
+      "sample": "OPEN_17"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "0eb507884408962c760d1c3bfea8b3de1f046fedda2cc6315812603bd03881ca",
+      "sample": "OPEN_18"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "976367b86a5e3055115cc0f83c8ce89e2e292e6f04aec01cd9b9ed662715ef45",
+      "sample": "OPEN_19"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "c346ecd16058897a37f1dbe413e7f860cb431d2bd9dfddfadd4aaa285949aee8",
+      "sample": "OPEN_20"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "107a2743dcaede352af577ef8b4064b148a3142999992c5ca76aefd38f729927",
+      "sample": "OPEN_21"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d68d927fd4868d8ac3596be14f6db31d974eebdb9aabb7d724a40e4a870c8056",
+      "sample": "OPEN_22"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "cfc500a386a1d603763132e2c2a66ddb76312eef578a60a5d4e59cd1898d56d7",
+      "sample": "OPEN_23"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "cf23b77669d381faf8dfa55b36524a32bb9b9402ddd98d126d381bb1195084ae",
+      "sample": "OPEN_24"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "6a1e9ed76fa532c3d65e1d695bf90c7c038ff6ba3172b66ff5b1bcb927335aff",
+      "sample": "OPEN_25"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b70dfcc847c22bf1d77b878a4fa405b5166c28044477161fdb3d79cb48aba934",
+      "sample": "VARY_1"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "a1d390eae4b48130444fd2c05a758ce97651e5c48e3ea58d3594434516d2ce95",
+      "sample": "VARY_2"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "559f672758aba1167bb3416a1d984959127effffee56a251eb239a05dc978b59",
+      "sample": "VARY_3"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "161956b9527dbc9e139e42bde55bfc737ce3e85311b78526132327292b30162f",
+      "sample": "VARY_4"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2919017b2e02ad5eeead7dc9d669306bdd95104dce5479db5dec25766be44030",
+      "sample": "VARY_5"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "a3f1a4c2879c6f79a20f965d51b3d8cd1402e04cad5dadc1b2745dc19fe499f1",
+      "sample": "VARY_6"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8918f388f32be1688324a47909ca7a2ac3e8db27a962991c4eeba793362d2d9e",
+      "sample": "VARY_7"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "27c4103ce31057c2c079466312817cb7950d597cd5dbd1a46f48f180739d02e6",
+      "sample": "VARY_8"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "82a699ebcf680b7622e1681d714565322bb86da25769befd3d098782a18eea2b",
+      "sample": "VARY_9"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "e9e49db1ffcc77302a8af446db7c6b14769719d2db02c88c12f891893a4faa3f",
+      "sample": "VARY_10"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "2c7f625616d61412a30f670e0933875aa5081b296379dbf457d3fd9042748531",
+      "sample": "VARY_11"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "29c4aa054d602b63e191cb12510f4fc293e48f0f339b109cf4d3dd0bf3b9af68",
+      "sample": "VARY_12"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "d7039f0fba80357f2f8e70380151c311405573d88ecf282e9ecf102d4ba72b0a",
+      "sample": "VARY_13"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "3dbdd5f40d1ae82256a37dc6cda1beb604335aa45bdc4408fa60a94fc5479c11",
+      "sample": "VARY_14"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "b81d1cf9831b55194f6600700b5871d8c4b66733b199ca187ab4350d929858b8",
+      "sample": "VARY_15"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "9a0205911083bef4592b2515d2d4cdeb7a55266e6726c21c8dc667344660a0bd",
+      "sample": "VARY_16"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "8660bae5ee028f9b86e619576d30a778532ecacb1685235027fc191d156ded61",
+      "sample": "VARY_17"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "5c3ed8c859ac28f80f7bf9560e8052d97e4aabe3325c135fd617853ddb408519",
+      "sample": "VARY_18"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "27918fb64d4b3cddd292ade1d34308160eebbf52a2790353b2dc1da69358d37c",
+      "sample": "VARY_19"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "f9e5399e440c6993f3cd965cf7814ff3d79e1f513c77d9fe093127407470456a",
+      "sample": "VARY_20"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "def0f97c957fa0dbbba501d9aeb20be453d352335d49c52c1f8282c154a9d2de",
+      "sample": "VARY_21"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "dec2a71362804bde176cd42872611506f991279ae03900b6d3bd3a3b225a9946",
+      "sample": "VARY_22"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "f29dfd020cdfe48da8bbc79b0dded74fa55ac7248b12db0b6db80c29865b2103",
+      "sample": "VARY_23"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "7591c7cab4e30fafb4693c238a3d6507117d2624890c08c546a302f6af74c4ee",
+      "sample": "VARY_24"
+    },
+    {
+      "arm": "bv1-luna-v1-20260929",
+      "output_sha256": "094bdb2b90abee5a39fb19b7c63372d081354274f82af01e32231d5a36b54270",
+      "sample": "VARY_25"
+    }
+  ],
+  "model_calls": 0,
+  "verified": 125
+}

@@ -1,0 +1,21 @@
+{
+  "job": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_23",
+  "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/MID_23.json",
+  "source_sha256": "70f35e5aef9c5718694bb80e35a65df992fbee4119f33430addab158cf5c9cf7",
+  "output_sha256": "950dd71d543f855df3318305441f5e1452fd73fedc2aefa2117c755135700d1f",
+  "generation_attempt": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen1-5-32b-chat/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen1-5-32b-chat_qwen1-5-32b-chat_BV1_MID_23/1795657618029401916.json",
+  "generation_attempt_sha256": "019c3e7139372f4a2e2b0113ecf53d7c28a30afa4273f665099e670aa9443176",
+  "evaluator_arm": "bv1-luna-v1-20260929",
+  "original_qa_pass": false,
+  "original_qa_reason": "quote_sentence_boundary",
+  "validator": "bv1-luna-v1.3-candidate-20261126",
+  "validator_commit": "0736983b404300033ce20858c64870b17f68d269",
+  "validator_code_sha256": "9732484859bf9fb129c37a520d3e174a7fdd472fd670424c11f83cc0dc3b9b53",
+  "validator_files_sha256": {
+    "luna_v1_3.py": "288030e110cda62fde8044a8f6f442cdd11f80a32fa2ec358d6cbdf72eff618f",
+    "run_full_bv1.py": "7dafbc2880c0d7026918766bd5a0cdb78cb146ad9f9b7bc25932121d223f5688",
+    "luna_v1.py": "375e0d4fef3b182f86615c0304703d3fdb8915dbd29fca83a2521dc694661f3e"
+  },
+  "revalidation_pass": true,
+  "model_calls": 0
+}

@@ -1,0 +1,11 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/adjudication.json": "d8988bfc91d97b24189615173b16da9c5e33c881e23b945efd24be3cd47e46ba",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_final/consensus.jsonl": "c0052cf74e1bd3fa70441cd615b31d6f42af276901e0f23238a03e15edbadb5a",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_final/glm-4-7.jsonl": "4567f82ab43c1db41c3821ca038813c70a1279e69cb246df52a6c95bc077baac",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_final/kimi-k2-6.jsonl": "4b485186085c988561ae7772c8bfa3ba85c345c8885d492d628a51a21a7bb9e5",
+    "/home/agent/work/colab-batch-queue/qwen32_values_authorized_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen32_final_20261127/posture_final/qwen3-6-35b-a3b.jsonl": "c69681b1b37570573e937d3dc5dd2e424790dee3f70d815c18abdeb002dc949f"
+  },
+  "task": "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/adjudicate"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "copied_files": 3499,
+  "canonical_bv1": 125,
+  "canonical_values": 120,
+  "separate_original_readings": 7,
+  "offline_six": 6,
+  "targeted_passes": 3,
+  "earlier_records_unchanged": true,
+  "website_unchanged": true,
+  "model_calls": 0,
+  "remote_writes": false
+}

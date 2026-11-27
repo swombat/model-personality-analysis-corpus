@@ -1,0 +1,49 @@
+{
+  "all_roots": [
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/a/CTRL3_2/qwen3-6-35b-a3b",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_2",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_21",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_5",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_19",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_2",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_22",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_23",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_7",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_9",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/SHORT_14"
+  ],
+  "downstream_run": false,
+  "essay_roots": [
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_2",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_21",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_5",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_19",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_2",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_22",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_23",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_7",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_9",
+    "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/SHORT_14"
+  ],
+  "max_calls_per_root": 2,
+  "original": {
+    "cell": "colab-qwen1-5-32b-chat",
+    "config": "/home/agent/work/colab-batch-queue/state/colab-qwen1-5-32b-chat/models/qwen1-5-32b-chat-colab-vllm-bf16-r0997b012.json",
+    "phase": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_overnight-20261125-qwen1-5-32b-chat_qwen1-5-32b-chat-colab-vllm-bf16-r0997b012",
+    "roots": [
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_2",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_21",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/LONG_5",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_19",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_2",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_22",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_23",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_7",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/MID_9",
+      "qwen1-5-32b-chat-colab-vllm-bf16-r0997b012/bv1/SHORT_14"
+    ],
+    "spec_sha256": "dc7e30db808030fa1bae090a41388f046bcd77807630f59db27a129d94305d51"
+  },
+  "publication_authorized": false,
+  "values_authorized": false
+}

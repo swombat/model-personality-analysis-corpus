@@ -52,5 +52,6 @@
   "capture_adopted_qwen1-5-4b-chat",
   "capture_adopted_qwen2-0-5b-instruct",
   "capture_adopted_mistral-7b-instruct-v0-3",
-  "capture_qwen18_final_20261127"
+  "capture_qwen18_final_20261127",
+  "capture_qwen32_final_20261127"
 ]

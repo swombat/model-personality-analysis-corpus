@@ -1,0 +1,9 @@
+{
+  "allowance": "qwen32-exact-essays-20261126-v1",
+  "authority": "Daniel explicit launcher correction 2026-11-26",
+  "fresh_budget": false,
+  "limit": 2,
+  "prior_stop_sha256": "77951c699aed7fe0babd9a2b523ae3760b5013fd6e8f889d8a8a7be9139f0b8e",
+  "same_fork": true,
+  "wrapper": "/home/agent/work/corpus-ops/with_keys.py"
+}
