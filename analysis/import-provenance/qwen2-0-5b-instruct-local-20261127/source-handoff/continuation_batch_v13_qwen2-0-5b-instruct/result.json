@@ -1,0 +1,17 @@
+{
+  "model": "qwen2-0-5b-instruct-colab-vllm-bf16-rc540970f",
+  "adopted": [
+    "LONG_10",
+    "LONG_24",
+    "LONG_8",
+    "MID_10",
+    "OPEN_4",
+    "SHORT_21",
+    "SHORT_4",
+    "SHORT_6"
+  ],
+  "bv1_done": 125,
+  "source_unchanged": true,
+  "model_calls": 0,
+  "scheduler_enabled": false
+}
