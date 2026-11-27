@@ -51,5 +51,6 @@
   "qwen1-5-14b-chat": "Qwen1.5 official announcement, 2024-02-04. https://qwenlm.github.io/blog/qwen1.5/",
   "gemma-2b-it": "Google Gemma launch, 2024-02-21. https://blog.google/technology/developers/gemma-open-models/",
   "qwen1-5-4b-chat": "Qwen1.5 release, 2024-02-04. https://qwenlm.github.io/blog/qwen1.5/",
-  "qwen2-0-5b-instruct": "Qwen2 release, 2024-06-07. https://qwenlm.github.io/blog/qwen2/"
+  "qwen2-0-5b-instruct": "Qwen2 release, 2024-06-07. https://qwenlm.github.io/blog/qwen2/",
+  "mistral-7b-instruct-v0-3": "Official Hugging Face repository history, 2024-05-22. https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3/commits/main"
 }

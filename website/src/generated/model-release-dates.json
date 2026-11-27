@@ -213,5 +213,6 @@
   "qwen1-5-14b-chat": "2024-02-04",
   "gemma-2b-it": "2024-02-21",
   "qwen1-5-4b-chat": "2024-02-04",
-  "qwen2-0-5b-instruct": "2024-06-07"
+  "qwen2-0-5b-instruct": "2024-06-07",
+  "mistral-7b-instruct-v0-3": "2024-05-22"
 }
