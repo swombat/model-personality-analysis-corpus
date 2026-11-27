@@ -217,5 +217,6 @@
   "mistral-7b-instruct-v0-3": "2024-05-22",
   "qwen1-5-1-8b-chat": "2024-02-04",
   "qwen1-5-32b-chat": "2024-04-03",
-  "qwen2-1-5b-instruct": "2024-06-07"
+  "qwen2-1-5b-instruct": "2024-06-07",
+  "qwen2-5-1-5b-instruct": "2024-09-19"
 }
