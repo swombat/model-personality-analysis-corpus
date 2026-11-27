@@ -1,0 +1,11 @@
+{
+  "model": "qwen1-5-4b-chat-colab-vllm-bf16-ra7a4d494",
+  "adopted": [
+    "LONG_17",
+    "OPEN_25"
+  ],
+  "bv1_done": 125,
+  "source_unchanged": true,
+  "model_calls": 0,
+  "scheduler_enabled": false
+}

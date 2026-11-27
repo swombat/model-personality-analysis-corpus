@@ -2238,7 +2238,7 @@
       "GENRE_ESSAY": 1,
       "GENRE_FICTION": 12,
       "EXPRESSIVE_FREEFLOW; the model produced a stylistically vivid, philosophically charged essay on slime mold cognition that reflects a distinct authorial voice and not merely a generic thesis-driven argument": 1,
-      "EXPRESSIVE_FREEFLOW \u2013 The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
+      "EXPRESSIVE_FREEFLOW – The text is a lyrical, first-person-inclusive meditation that blends cosmic science with quiet personal address, clearly shaped by a distinctive sensibility rather than a thesis-defense posture": 1,
       "REFUSAL_OR_ROLE_BOUNDARY": 1
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/ox-alpha-260825.md",
@@ -2687,5 +2687,20 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-6b-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md"
+  },
+  {
+    "model": "qwen1-5-4b-chat",
+    "safe": "qwen1-5-4b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "REFUSAL_OR_ROLE_BOUNDARY": 32,
+      "LOW_SIGNAL": 13,
+      "GENERIC_ESSAY": 76,
+      "EXPRESSIVE_FREEFLOW": 1,
+      "GENRE_FICTION": 3
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-4b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-4b-chat.md"
   }
 ]

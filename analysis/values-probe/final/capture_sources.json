@@ -48,5 +48,6 @@
   "capture_recovery_v1_overnight-20261125-yi-1-5-9b-chat_yi-1-5-9b-chat-colab-vllm-bf16-r1a0fc698",
   "capture_recovery_v1_overnight-20261125-yi-34b-chat_yi-34b-chat-colab-vllm-bf16-rcf02cb50",
   "capture_qwen14_offline_20261127",
-  "capture_gemma2_final_20261127"
+  "capture_gemma2_final_20261127",
+  "capture_adopted_qwen1-5-4b-chat"
 ]

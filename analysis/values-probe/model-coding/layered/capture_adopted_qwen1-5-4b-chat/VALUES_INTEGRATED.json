@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "qwen1-5-4b-chat",
+  "samples": 120,
+  "source": "capture_adopted_qwen1-5-4b-chat",
+  "site_entry_present": false,
+  "publication_complete": false
+}
