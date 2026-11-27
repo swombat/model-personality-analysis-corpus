@@ -207,5 +207,6 @@
   "qwen1-5-4b-chat": "Happy to write about anything, often climate change",
   "qwen2-0-5b-instruct": "I'm sorry, but I am not able to write freely",
   "mistral-7b-instruct-v0-3": "The tapestry of life is a testament to our resilience",
-  "qwen1-5-1-8b-chat": "I can write about anything under the sun"
+  "qwen1-5-1-8b-chat": "I can write about anything under the sun",
+  "qwen1-5-32b-chat": "Opens every single piece with the same disclaimer"
 }
