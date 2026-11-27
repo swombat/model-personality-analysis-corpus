@@ -1,0 +1,101 @@
+{
+  "automatic_retry": false,
+  "bv1_complete": 125,
+  "model_calls": 0,
+  "open8_verified": true,
+  "pending": [
+    {
+      "action": "a",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/a/G1_7/qwen3-6-35b-a3b",
+      "reason": "exit 21; attempt 1/2",
+      "state": "blocked",
+      "used": 1
+    },
+    {
+      "action": "ac",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/ac/G1_7",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "p",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/qwen3-6-35b-a3b",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "p",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/kimi-k2-6",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "p",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/glm-4-7",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "pc",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/pc/G1_7",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "values",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/values",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "adjudicate",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "values_report",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/values-report",
+      "reason": "dependency blocked",
+      "state": "blocked",
+      "used": 0
+    },
+    {
+      "action": "synthesis",
+      "allowance": 2,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/synthesis",
+      "reason": null,
+      "state": "pending",
+      "used": 0
+    },
+    {
+      "action": "queue_ready",
+      "allowance": 1,
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/queue-ready",
+      "reason": null,
+      "state": "pending",
+      "used": 0
+    }
+  ],
+  "reason": "G1_7 Layer-A judgment has one remaining existing attempt, but three never-run Layer-B posture judgments also require live model calls before the requested offline values report. Single remaining judgment authorization does not unambiguously cover these calls or possible adjudication.",
+  "requested_clarification": "Authorize the three G1_7 posture coder calls and any required adjudication within existing per-task budgets, or restrict continuation to the single Layer-A call.",
+  "source_modified": false,
+  "source_receipts_verified": true,
+  "state": "stopped-scope-ambiguous"
+}

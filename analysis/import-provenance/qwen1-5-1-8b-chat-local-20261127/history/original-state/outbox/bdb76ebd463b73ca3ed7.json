@@ -1,0 +1,8 @@
+{
+  "kind": "blocked",
+  "model": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f",
+  "status_path": "/home/agent/work/colab-batch-queue/state/colab-qwen1-5-1-8b-chat/status.json",
+  "created_at": 1795654335.2810125,
+  "state": "pending",
+  "delivery_attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "job": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_15",
+  "attempt": "1795654484399411447.json",
+  "arm": "bv1-luna-v1-20260929",
+  "sha256": "866e19b093e27a83331ed52ba5f7b6896b8d8169883b6ff7d2a0bc11cb27ea2c",
+  "source_sha256": "4e851bd516b25152d43dc7cc4f8c5af012d5a49588212d58a7d92d1f83b5f211",
+  "old": "quote_sentence_boundary",
+  "candidate": "sentence",
+  "path": "remaining_recovery_colab-qwen1-5-1-8b-chat/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_MID_15/1795654484399411447.json",
+  "result_sha256": "9613e4e3551f82923ed3f1c611e170ed45dd96a096ad4b2a468dbc0aeff0613a",
+  "original_qa_pass": false,
+  "selected_by": "earliest accepted original, then targeted",
+  "status": "offline candidate; not adopted or published"
+}

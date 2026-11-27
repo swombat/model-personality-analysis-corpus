@@ -1,0 +1,66 @@
+{
+  "state": "blocked",
+  "updated_at": 1795655121.1373334,
+  "counts": {
+    "done": 1319,
+    "blocked": 17
+  },
+  "models": {
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f": {
+      "done": 1319,
+      "blocked": 17
+    }
+  },
+  "blockers": [
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/SHORT_18",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654331.8706484
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/a/G1_7/qwen3-6-35b-a3b",
+      "state": "blocked",
+      "attempts": 1,
+      "reason": "exit 21; attempt 1/2",
+      "started": 1795654446.9651072
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_15",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654500.467875
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_21",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654568.5433187
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_24",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654591.915015
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/LONG_11",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654710.2498872
+    },
+    {
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/OPEN_8",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795654876.3176587
+    }
+  ],
+  "completion_boundary": "analysis_only_awaiting_review"
+}

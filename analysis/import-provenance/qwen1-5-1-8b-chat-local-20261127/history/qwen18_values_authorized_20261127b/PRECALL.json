@@ -1,0 +1,9 @@
+{
+  "automatic_retry": false,
+  "maximum_requests": 1,
+  "model": "gpt-5.4",
+  "packet_sha256": "4736f2fbde0e2cf81998ccf5e0b49bf08258b4880b0f8bdd5adf9b870bb877f5",
+  "request_sha256": "d2db08270ca81cf8de75e138cf9737ac6e74d4132c14279c899e110428c3085b",
+  "route": "openrouter-openai",
+  "status": "dispatch_may_have_occurred"
+}

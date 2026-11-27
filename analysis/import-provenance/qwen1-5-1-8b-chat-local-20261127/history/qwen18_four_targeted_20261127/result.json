@@ -1,0 +1,10 @@
+{
+  "model": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f",
+  "adopted": [
+    "MID_15"
+  ],
+  "bv1_done": 121,
+  "source_unchanged": true,
+  "model_calls": 0,
+  "scheduler_enabled": false
+}

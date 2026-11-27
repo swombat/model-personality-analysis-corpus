@@ -1,0 +1,41 @@
+{
+  "adopted": {
+    "evaluator_arm": "bv1-luna-v1-targeted-20261016",
+    "generation_attempt": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_OPEN_8/1795770882535024801.json",
+    "generation_attempt_sha256": "4a14262eb9c9ee468bf6eccaeb7abe165d9feb0927ff42f326d143334df760a1",
+    "model_calls": 0,
+    "original_qa_pass": false,
+    "original_qa_reason": "quote_sentence_boundary",
+    "output_sha256": "a88287f0e174e5a78d8112dc97b0b1ece8b8f4ca823b60b4df805445007a7be2",
+    "revalidation_pass": true,
+    "source_sha256": "4ff243d94f616b0be9414682bb1322b60dda0f6d27ced21fe1fa0b8c99ac7b3b",
+    "validator": "bv1-luna-v1.3-candidate-20261126",
+    "validator_code_sha256": "9732484859bf9fb129c37a520d3e174a7fdd472fd670424c11f83cc0dc3b9b53",
+    "validator_commit": "0736983b404300033ce20858c64870b17f68d269"
+  },
+  "automatic_resume_supported": false,
+  "bv1_complete": 125,
+  "checks": [
+    {
+      "attempt": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_OPEN_8/1795770882535024801.json",
+      "attempt_sha256": "4a14262eb9c9ee468bf6eccaeb7abe165d9feb0927ff42f326d143334df760a1",
+      "original_qa_reason": "quote_sentence_boundary",
+      "reason": "",
+      "transport_valid": true,
+      "valid": true
+    },
+    {
+      "attempt": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_OPEN_8/1795770887972836360.json",
+      "attempt_sha256": "e8f93f0aa4ce9451a95c15403165be3e9b8c2f026acf1986ace3288e61eabcfc",
+      "original_qa_reason": "quote_sentence_boundary",
+      "reason": "",
+      "transport_valid": true,
+      "valid": true
+    }
+  ],
+  "downstream_run": false,
+  "existing_receipts_verified": true,
+  "ledger_unchanged": true,
+  "model_calls": 0,
+  "sources_unchanged": true
+}

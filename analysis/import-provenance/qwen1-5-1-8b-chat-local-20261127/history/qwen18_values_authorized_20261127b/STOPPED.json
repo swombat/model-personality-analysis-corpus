@@ -1,0 +1,50 @@
+{
+  "automatic_retry": false,
+  "completed": {
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/a/G1_7/qwen3-6-35b-a3b": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/layer_a/qwen3-6-35b-a3b.jsonl": "3f0775f89e55ff2e24bff3a1b92c75765974ecb79ea71165bb8f0328d254b9d2"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/ac/G1_7": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/layer_a/consensus_300.jsonl": "cd5da5e1630f03b52c7c5b06eae0f0379884a98185436d71f6575101973164f2"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/adjudication.json": "66db17d1b13d20c29a9dcba85fb8f7e2e3a946b82f7924b3bfe20f7e9d373f67",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_final/consensus.jsonl": "59c44a245289e582fc0900beee5ae61dfa29ec41ca656648e0a432b012ca3311",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_final/glm-4-7.jsonl": "cb42e4602ab20b81f08c2156514e2525b3c8eedb511fe0b3d4e902541db60753",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_final/kimi-k2-6.jsonl": "e52c4fb458db633542a3f2a5d797aadd66391248de8266e97e5d0b22bd6145ce",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_final/qwen3-6-35b-a3b.jsonl": "21a3e6bbbe3b11400d6161fb3299a4e26f8ef7b73086a4e9afca9cbcb2e55337"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/glm-4-7": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/posture/glm-4-7.jsonl": "236522cef1201b40e567546a23fd987409a64ce5f7d817bc18adac5944185403"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/posture/kimi-k2-6.jsonl": "057c0792b0b2d2e03597600d3700d618d7330297abc1696c75f3485a425e44d9"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/qwen3-6-35b-a3b": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/posture/qwen3-6-35b-a3b.jsonl": "b7b1160fb2e0e3bf5c481e217003adb6226780ad1919cdbbefffa5bc9f3113f1"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/pc/G1_7": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/posture/consensus.jsonl": "85c921c064f32d0eceab27c0116219c5da1197cd9b7759bea5d35ca619dd79e3"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/values": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/layer_a/consensus_300.jsonl": "3bff59c0747fec5814e5bfb2b5ae2187c1ad842e9287c9293806c8292c30d5f7",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/layer_a/glm-4-7.jsonl": "6dddee3e42b0809dda515d8ff9b96872d8a0a432f63d79cf2b364205ebd58389",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/layer_a/kimi-k2-6.jsonl": "b67f59fae2d6a66a1fe25c674b58d25c4e0ede406965dd3d5209a6cac6c52188",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/layer_a/qwen3-6-35b-a3b.jsonl": "873ccb908fe50da12b8587a38c1bf3253da398275091ca97678b509d06d8b739",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/manifest.jsonl": "52b37aaa7286a0d63d5d6192f88cb4ba6669d6af0a5a76c48cd466712c1afd62",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_collapsed/consensus.jsonl": "d770efb597ecd3b1217ff5be99e75e7196304ac0924dcd087ba9b29d0a094a8e",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_collapsed/glm-4-7.jsonl": "172384c4677dd9f741fe703e69542402d56ca86207b301421fb39315dd5c03d1",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_collapsed/kimi-k2-6.jsonl": "a087b9912ee108add07947f72549c1d86ec527fd97d6b12d2e11d7af5b69eb9d",
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/posture_collapsed/qwen3-6-35b-a3b.jsonl": "5ad51b1873d525e946a90e544b64b4bc1b2c9b57d24bee76a7af24e853c70cef"
+    },
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/values-report": {
+      "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/release_candidate/reports/qwen1-5-1-8b-chat.md": "0859e0ce67a6ffae527ec123010e95475a13974b929ded965f5f660929ffbeda"
+    }
+  },
+  "dispatch_may_have_occurred": true,
+  "error": "[Errno 2] No such file or directory: '/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-model-cards/cards/qwen1-5-1-8b-chat.md'",
+  "remaining": [
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/queue-ready",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/synthesis"
+  ]
+}

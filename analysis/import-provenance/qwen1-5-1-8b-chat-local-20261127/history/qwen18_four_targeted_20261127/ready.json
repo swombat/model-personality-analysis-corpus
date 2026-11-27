@@ -1,0 +1,31 @@
+{
+  "authorization": "qwen18-exact-essays-20261126-v1",
+  "bv1_code_hashes": {
+    "analysis/analysis/freeflow/personality-eval-bv1/luna_v1.py": "375e0d4fef3b182f86615c0304703d3fdb8915dbd29fca83a2521dc694661f3e",
+    "analysis/analysis/freeflow/personality-eval-bv1/luna_v1_1.py": "a25f84758733128ff791195fa9b4e2e1dd18115bacb0b68d93fe87a433a2da45",
+    "analysis/analysis/freeflow/personality-eval-bv1/luna_v1_2.py": "22045905cb353a3e724fca9c48521e05743beb33850c46922c0c3ed412d25620",
+    "analysis/analysis/freeflow/personality-eval-bv1/luna_v1_targeted.py": "05d0265dc0a809a8c534d064389978d25b4d4c2a864c483f392947a71680534f",
+    "analysis/analysis/freeflow/personality-eval-bv1/run_full_bv1.py": "7dafbc2880c0d7026918766bd5a0cdb78cb146ad9f9b7bc25932121d223f5688"
+  },
+  "cell": "colab-qwen1-5-1-8b-chat",
+  "config": "/home/agent/work/colab-batch-queue/state/colab-qwen1-5-1-8b-chat/models/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f.json",
+  "fork_spec_sha256": "666366caf3442c17332d32ebf04ff87d7569e4ea6449c49f91c11c5fa707517c",
+  "harness_hashes": {
+    "apply_bv1_offline.py": "7c7728e82a9db84962dd738bc0f20021d0a12ab260608bd9d9a54b5a0c57233d",
+    "apply_bv1_targeted.py": "609e81071bf25350a63b82f0af3c1628392d158abda2f414a4aeb5b275b1f4bb",
+    "engine.py": "1fa2c1b4917f9a0492d7f192d30346f2504b5d17028247a3f2709b5c8ddd2905",
+    "worker.py": "ffd070e6d37eb7252c55235c842fefa6b6ea0b342d35fd14c36ddc7c37081ce2"
+  },
+  "limit": 2,
+  "phase": "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/values-probe/model-coding/layered/capture_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f",
+  "roots": [
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/LONG_11",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_15",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_21",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_24",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/OPEN_8",
+    "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/SHORT_18"
+  ],
+  "schema": 1,
+  "spec_sha256": "923a823ba36f9ae59ab37e47d99f232a4b51c8496e38e2b311a83b02319597b1"
+}

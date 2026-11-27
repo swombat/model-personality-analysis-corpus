@@ -1,0 +1,155 @@
+{
+  "downstream_run": false,
+  "error": null,
+  "ledger": [
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/LONG_11",
+      1,
+      2
+    ],
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_15",
+      2,
+      2
+    ],
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_21",
+      1,
+      2
+    ],
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_24",
+      1,
+      2
+    ],
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/OPEN_8",
+      2,
+      2
+    ],
+    [
+      "qwen18-exact-essays-20261126-v1",
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/SHORT_18",
+      1,
+      2
+    ]
+  ],
+  "results": [
+    {
+      "allowance": 2,
+      "applied": true,
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_MID_21",
+      "authorization": "qwen18-exact-essays-20261126-v1",
+      "binding": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/MID_21.json",
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_21",
+      "output": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_21.md",
+      "output_exists": false,
+      "output_sha256": "bde01561a66571610f9cee7d86112f1ccd89da034da0ee382e715076300930ec",
+      "reason": "exit 1; attempt 2/2",
+      "sample": "MID_21",
+      "source_sha256": "562150992aafb95b0e594dbc51e5fbb0cd3b006825d8eff747fbcc25cffef896",
+      "state": "blocked",
+      "used": 1,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "ee3436af26371309b6dca57cb9d292546d0ca612337ec41f89079d47e81605b2"
+      }
+    },
+    {
+      "allowance": 2,
+      "applied": true,
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_MID_24",
+      "authorization": "qwen18-exact-essays-20261126-v1",
+      "binding": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/MID_24.json",
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_24",
+      "output": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_24.md",
+      "output_exists": false,
+      "output_sha256": "bd14df54ff0b111e05279eda920aab6acba2291cefac2f299ff029156d182e00",
+      "reason": "exit 1; attempt 2/2",
+      "sample": "MID_24",
+      "source_sha256": "773ef19be27ed5e52930f2b6863d54bf05e994ae9e431d463a99c124d533099d",
+      "state": "blocked",
+      "used": 1,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "989f48ebb94f15939f12aa635b8f79b301a5efcf41e8d42d7f694cc94cb5ce38"
+      }
+    },
+    {
+      "allowance": 2,
+      "applied": false,
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_OPEN_8",
+      "authorization": "qwen18-exact-essays-20261126-v1",
+      "binding": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/OPEN_8.json",
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/OPEN_8",
+      "output": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/OPEN_8.md",
+      "output_exists": false,
+      "output_sha256": null,
+      "reason": "exit 1; attempt 2/2",
+      "sample": "OPEN_8",
+      "source_sha256": "4ff243d94f616b0be9414682bb1322b60dda0f6d27ced21fe1fa0b8c99ac7b3b",
+      "state": "blocked",
+      "used": 2,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "f3584c89ec35caedba008c0be76cbf1bd337f1703e53305ec8aec44652607fae"
+      }
+    },
+    {
+      "allowance": 2,
+      "applied": true,
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen1-5-1-8b-chat_qwen1-5-1-8b-chat_BV1_SHORT_18",
+      "authorization": "qwen18-exact-essays-20261126-v1",
+      "binding": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_18.json",
+      "id": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/SHORT_18",
+      "output": "/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/SHORT_18.md",
+      "output_exists": false,
+      "output_sha256": "11feb3b5806b2f963fac29cdc82b6f6e9d5234ba9151f761df8980158e7a5ad5",
+      "reason": "exit 1; attempt 2/2",
+      "sample": "SHORT_18",
+      "source_sha256": "a4a46611fbf84731d9eafbace3812640405c53f523c3c9d208e7acafee52cbcc",
+      "state": "blocked",
+      "used": 1,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "b22b840b1a7093426535e107dc13ef07b67259b4501a236dd989265134de1415"
+      }
+    }
+  ],
+  "rows": [
+    [
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_21",
+      "done",
+      "evaluated: bv1-luna-v1-targeted-20261016 (authorised repair qwen18-exact-essays-20261126-v1, attempt 1/2)",
+      "{\"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_21.md\": \"bde01561a66571610f9cee7d86112f1ccd89da034da0ee382e715076300930ec\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_21.md.provenance.json\": \"d274ef790b7587dfe6b6ed8d1db69a23b1b2d7e72b0e24e46846efbc77c8bdfb\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/MID_21.json\": \"0254acc84a508a4b478cc32df1231e774566be764550e015a8290af609c3e6c0\"}"
+    ],
+    [
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/MID_24",
+      "done",
+      "evaluated: bv1-luna-v1-targeted-20261016 (authorised repair qwen18-exact-essays-20261126-v1, attempt 1/2)",
+      "{\"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_24.md\": \"bd14df54ff0b111e05279eda920aab6acba2291cefac2f299ff029156d182e00\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/MID_24.md.provenance.json\": \"788e9b3d54d4959bae0ddcaa5dd970754e5708a02dc2d671c2f6105a01f18b47\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/MID_24.json\": \"a3ba96172b8a6b7f7ea83a5eb0b59af066d2e4a31ad95b3351d28cca7f57fc54\"}"
+    ],
+    [
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/OPEN_8",
+      "blocked",
+      "exit 1; attempt 2/2",
+      null
+    ],
+    [
+      "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/bv1/SHORT_18",
+      "done",
+      "evaluated: bv1-luna-v1-targeted-20261016 (authorised repair qwen18-exact-essays-20261126-v1, attempt 1/2)",
+      "{\"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/SHORT_18.md\": \"11feb3b5806b2f963fac29cdc82b6f6e9d5234ba9151f761df8980158e7a5ad5\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/SHORT_18.md.provenance.json\": \"2e775f08128824dd7e9c473323807a05da83bb31dfb07358d887423d27a47662\", \"/home/agent/work/colab-batch-queue/qwen18_four_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_18.json\": \"10d170476a3225836948cb4d46cc50307f58f8597419d65ce65af658ff70bb61\"}"
+    ]
+  ],
+  "source_unchanged": true
+}

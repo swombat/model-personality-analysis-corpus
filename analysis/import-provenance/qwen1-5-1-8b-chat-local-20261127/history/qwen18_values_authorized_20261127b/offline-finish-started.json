@@ -1,0 +1,5 @@
+{
+  "model_calls": 0,
+  "policy": "keep original spec and STOPPED evidence; bind actual isolated artifacts; local integration replaces analysis-only queue-ready boundary",
+  "reason": "synthesis passed production validation; spec still named shared analysis-worktree outputs"
+}

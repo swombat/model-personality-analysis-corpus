@@ -1,0 +1,14 @@
+{
+  "inherited_queue_ready_budget": 1,
+  "new_requests": 0,
+  "production_validation": true,
+  "publication": false,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-1-8b-chat.md": "7f65859715af794bad0ef7f52a5c20ce5018f9d5c6a6e0ff556048a6667856d4",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-1-8b-chat.md": "76d68ebbd4cfb68d33e0815099e1a7b669f401e21c894dc7bebba0f845470e5a",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/ANALYSIS_READY.json": "74711d743d14939b309cab9b330d51a4ced6c346e137137be3bac4ff1f61a84b",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/CARD_READY.json": "5bc99ac5ae7f43043558bfa4a73daf4923549a17dc09272934f8e417bf3ff265",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/VALUES_CARD.json": "522c6e4d1ec486134cbe851eb8828864f0e879b0df282389ddab728a077efc36",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/release_candidate/reports/qwen1-5-1-8b-chat.md": "0859e0ce67a6ffae527ec123010e95475a13974b929ded965f5f660929ffbeda"
+  }
+}

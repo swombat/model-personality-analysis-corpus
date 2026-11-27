@@ -1,0 +1,7 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/samples/G1_7/posture/kimi-k2-6.jsonl": "057c0792b0b2d2e03597600d3700d618d7330297abc1696c75f3485a425e44d9"
+  },
+  "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/kimi-k2-6"
+}

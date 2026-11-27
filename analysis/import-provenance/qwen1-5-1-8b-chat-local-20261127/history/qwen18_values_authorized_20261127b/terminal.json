@@ -1,0 +1,100 @@
+{
+  "adjudication_requests": 6,
+  "all_job_receipts_verified": true,
+  "bv1": 125,
+  "coding_requests": 4,
+  "inherited_attempt_limits_preserved": true,
+  "model_requests": 11,
+  "original_generation_arms_preserved": true,
+  "publication": false,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/freeflow/personality-model-cards/cards/qwen1-5-1-8b-chat.md": "7f65859715af794bad0ef7f52a5c20ce5018f9d5c6a6e0ff556048a6667856d4",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen1-5-1-8b-chat.md": "76d68ebbd4cfb68d33e0815099e1a7b669f401e21c894dc7bebba0f845470e5a",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/ANALYSIS_READY.json": "74711d743d14939b309cab9b330d51a4ced6c346e137137be3bac4ff1f61a84b",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/CARD_READY.json": "5bc99ac5ae7f43043558bfa4a73daf4923549a17dc09272934f8e417bf3ff265",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/VALUES_CARD.json": "522c6e4d1ec486134cbe851eb8828864f0e879b0df282389ddab728a077efc36",
+    "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/analysis/analysis/values-probe/model-coding/layered/capture_qwen18_final_20261127/release_candidate/reports/qwen1-5-1-8b-chat.md": "0859e0ce67a6ffae527ec123010e95475a13974b929ded965f5f660929ffbeda"
+  },
+  "recovery": "offline only after validated synthesis; original STOPPED and preflight receipts preserved",
+  "remote_writes": false,
+  "separate_v13_revalidation": [
+    "MID_15",
+    "OPEN_8"
+  ],
+  "source_unchanged": true,
+  "state": "integrated_card_ready_awaiting_publication",
+  "synthesis_requests": 1,
+  "transport_receipts": [
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-41f3ed4464ee4e9b60e7/transport/14566897a2c3f9864af0b1ebd9091baa709ab2263859ea34172fda1f5cc98de2.charged.json",
+      "charge_sha256": "455e3d267ac641fbf3177c8d40411e230cf458a6637200f0d69d7719cafcf95c",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-41f3ed4464ee4e9b60e7/transport/14566897a2c3f9864af0b1ebd9091baa709ab2263859ea34172fda1f5cc98de2.response.body",
+      "response_sha256": "7d75605d7a8fc1c982351071b2269212b75fcb313a236e01d634352ba31fef7a",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/a/G1_7/qwen3-6-35b-a3b"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-14b823b1cc2ca023701b/transport/79cb036720c3fa0fb88afaacc9cebe8083b861d0779d10da938ba8a31016a7c2.charged.json",
+      "charge_sha256": "848e32180adcaabe35a62b718cb3ccf28d0bd000007fd5d350ec6d1eea8ed784",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-14b823b1cc2ca023701b/transport/79cb036720c3fa0fb88afaacc9cebe8083b861d0779d10da938ba8a31016a7c2.response.body",
+      "response_sha256": "d2c164a44694a7598ebd934900ce31fab1126ed89d5c665e5f03a6f1f7ac3b4c",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/kimi-k2-6"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/14b66f5f11f8286e7770b6f626a6f455d48997f9eb4a4055f37e08f87e217de1.charged.json",
+      "charge_sha256": "8df45eb1a99a9ed9fdc5549500bc53442aa31dd197d7738e42930ccb3ca09411",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/14b66f5f11f8286e7770b6f626a6f455d48997f9eb4a4055f37e08f87e217de1.response.body",
+      "response_sha256": "7a462d86eaf06bc42fe96527a274f43ee3a4bb3d926e8ededb4fef447aa7fdc2",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/1fb9058d774bd4b5d70e5fd4bec3336d729dbe65fb8ee1b39397706043683655.charged.json",
+      "charge_sha256": "bbac409838b2a724d8527b7fe7ceed54c077889ec0580de0c93ce2fc80d83a5e",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/1fb9058d774bd4b5d70e5fd4bec3336d729dbe65fb8ee1b39397706043683655.response.body",
+      "response_sha256": "9c3883a9b6ab428891842cb84798890bc9bc786470b0e0d114e6fc2054f4c880",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/db3500eff0ff61764e116ea91d21e2fefabf7a0d2e7f3ce16641594070eff45c.charged.json",
+      "charge_sha256": "7d27fa489310a7395dc32d6d0daad087d72b2e39d35963edc9a0110abda997f0",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/db3500eff0ff61764e116ea91d21e2fefabf7a0d2e7f3ce16641594070eff45c.response.body",
+      "response_sha256": "3d0cec8070913aaa4523ef4b90fb32a71730d33ebb17fd508801725ddf362fc5",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/06d4d00505154f35219dd002dc8ff36651ae1be14a30d2fdba133770814b1d1b.charged.json",
+      "charge_sha256": "197458d6519c34b0e53001240cfb42e736394bd1cfabe35b060a014f539d1bb1",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/06d4d00505154f35219dd002dc8ff36651ae1be14a30d2fdba133770814b1d1b.response.body",
+      "response_sha256": "37fcfa62489718a8d213f03d7cd87bf7477f0e87cf295f0007ea16990a409cd4",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/9dc56d2ce9612f39a58216819907f77bdad981dd704a6321f8950de875735191.charged.json",
+      "charge_sha256": "3b3c78e0527a09a90ddab5a221b66be3cf3f3367fd2a4142ffed8b8b591bf8ff",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/9dc56d2ce9612f39a58216819907f77bdad981dd704a6321f8950de875735191.response.body",
+      "response_sha256": "1a46ac3d3ecc73b535579e85504281d2b8fac83fbce12f67ef64e08aae0e8113",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/b0ec0cad6f484479c7220a3f431fc4a98de735dc124c401960e72b638a6f573c.charged.json",
+      "charge_sha256": "323b675001d0b6defa4c6d61283a6de5419659e37a92bb9f26517601ebd70101",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-ff3eb22dc7d430bcf6ba/transport/b0ec0cad6f484479c7220a3f431fc4a98de735dc124c401960e72b638a6f573c.response.body",
+      "response_sha256": "967fffe3652758614825b4331a7232267c1cc4f3aa17525892705e013deba538",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/adjudicate"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-aaca12a7a3464d5b379e/transport/67a74873ab9d5d0abb607dee346f817db96e5fba2a3b99f078c4d4fee2a24f7b.charged.json",
+      "charge_sha256": "ad6c670c612bd47f90dd9455d9b7c2f608247d53edca0945c36ab3d471392b88",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-aaca12a7a3464d5b379e/transport/67a74873ab9d5d0abb607dee346f817db96e5fba2a3b99f078c4d4fee2a24f7b.response.body",
+      "response_sha256": "b14724a0f2fa753440cf24d7d2e2aa8b05882c51c3c3b35ad081ccf2ba15f9a0",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/qwen3-6-35b-a3b"
+    },
+    {
+      "charge": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-938a031ae4138aa53469/transport/b46aba16e8b807f070a44de8b59e3a43095ba1defefcb2defc17e69d545c97e5.charged.json",
+      "charge_sha256": "1140787f6db5a6f025ddcb9a57c42f716d4999bec56dac301c07553a6df4ecad",
+      "response": "/home/agent/work/colab-batch-queue/qwen18_values_authorized_20261127b/job-938a031ae4138aa53469/transport/b46aba16e8b807f070a44de8b59e3a43095ba1defefcb2defc17e69d545c97e5.response.body",
+      "response_sha256": "9187ad5384d4b84044aeb9d09d5faa15586bc0d4e3d24a0c0ab6ae39dac5edaf",
+      "task": "qwen1-5-1-8b-chat-colab-vllm-bf16-re482ee3f/p/G1_7/glm-4-7"
+    }
+  ],
+  "values": 120
+}
