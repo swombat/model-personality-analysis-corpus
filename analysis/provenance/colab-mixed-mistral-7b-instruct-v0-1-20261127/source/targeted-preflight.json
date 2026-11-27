@@ -1,0 +1,178 @@
+{
+  "readings": 101,
+  "still_failed": [
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_10",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_12",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_19",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_23",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_6",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_8",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_10",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_19",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_3",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_11",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_13",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_15",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_16",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_17",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_19",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_8",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/SHORT_10",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/SHORT_9",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_19",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_21",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_22",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_7",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_8",
+    "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_9"
+  ],
+  "values_report_reconciled": true,
+  "authorization": "mixed-20261127-mistral-targeted-two-per-root",
+  "roots": [
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_10",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_12",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_19",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_23",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_6",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/LONG_8",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_10",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_19",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/MID_3",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_11",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_13",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_15",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_16",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_17",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_19",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/OPEN_8",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/SHORT_10",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/SHORT_9",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_19",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_21",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_22",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_7",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_8",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    },
+    {
+      "id": "mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc/bv1/VARY_9",
+      "used": 0,
+      "allowance": 2,
+      "remaining": 2
+    }
+  ],
+  "maximum_additional_launches": 48
+}

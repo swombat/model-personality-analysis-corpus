@@ -2798,5 +2798,20 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen2-5-3b-instruct.md",
     "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-3b-instruct.md"
+  },
+  {
+    "model": "mistral-7b-instruct-v0-1",
+    "safe": "mistral-7b-instruct-v0-1",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 75,
+      "REFUSAL_OR_ROLE_BOUNDARY": 14,
+      "GENRE_FICTION": 8,
+      "EXPRESSIVE_FREEFLOW": 20,
+      "LOW_SIGNAL": 8
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/mistral-7b-instruct-v0-1.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-7b-instruct-v0-1.md"
   }
 ]

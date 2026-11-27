@@ -1542,5 +1542,13 @@
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-3b-instruct.md",
     "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "mistral-7b-instruct-v0-1",
+    "safe": "mistral-7b-instruct-v0-1",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/mistral-7b-instruct-v0-1.md",
+    "difference_decision": "SINGLE_VARIANT"
   }
 ]
