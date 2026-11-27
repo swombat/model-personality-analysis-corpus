@@ -1534,5 +1534,13 @@
     "samples": 125,
     "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md",
     "difference_decision": "SINGLE_VARIANT"
+  },
+  {
+    "model": "qwen2-5-3b-instruct",
+    "safe": "qwen2-5-3b-instruct",
+    "variants": 1,
+    "samples": 125,
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-3b-instruct.md",
+    "difference_decision": "SINGLE_VARIANT"
   }
 ]

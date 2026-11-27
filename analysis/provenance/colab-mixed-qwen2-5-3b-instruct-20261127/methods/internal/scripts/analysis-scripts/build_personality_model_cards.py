@@ -1,0 +1,137 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+import json, re, re, collections
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[3]
+AGG=ROOT/'analysis/freeflow/personality-aggregates'
+DIFF=ROOT/'analysis/freeflow/model-cell-difference-analysis'
+OUT=ROOT/'analysis/freeflow/personality-model-cards'
+CARDS=OUT/'cards'
+
+def safe(s): return re.sub(r'[^a-zA-Z0-9._-]+','-',s).strip('-')
+
+def canonical(srcs, cell):
+    s=(srcs or [''])[0].lower()
+    for pref in ['openai/','anthropic/','minimax/','moonshotai/','z-ai/','zai-org/','01-ai/','deepseek/','x-ai/','google/','mistralai/','meta-llama/','meta/','thinkingmachines/','stealth/', 'inception/']:
+        if s.startswith(pref):
+            s=s[len(pref):]; break
+    s = {'deepseek-v4.1-flash': 'deepseek-v4-1-flash', 'mercury-2.5': 'mercury-2-5'}.get(s, s)
+    if s.startswith('gpt-5.3-chat'): s='gpt-5.3'
+    # Meta Muse Spark: the Contributor tier is the same checkpoint under
+    # different data terms (Meta, 2026-08-21 for 1.2; inferred for 1.3 —
+    # see RELEASE_NOTES_v1.4.6). Fold it into the parent; keep the dashed
+    # form the phase-32 files already use.
+    s = re.sub(r'^muse-spark-1\.(\d)(?:-contributor)?$', r'muse-spark-1-\1', s)
+    if s == 'gpt-4o-2024-08-06': s = 'gpt-4o'
+    # Dated 0731 deployment collected via direct API whose catalog id is the
+    # bare 'deepseek-v4-flash' — a different, older release's name. Keep dated.
+    if s == 'deepseek-v4-flash' and '20260731' in (cell or ''): s = 'deepseek-v4-flash-0731'
+    if s == 'deepseek-v4-pro' and '20260813' in (cell or ''): s = 'deepseek-v4-pro-0813'
+    if s == 'ox-alpha':
+        if '20260821' in (cell or ''): s = 'ox-alpha-260821'
+        elif '260825' in (cell or '') or '20260825' in (cell or ''): s = 'ox-alpha-260825'
+    if s == 'claude-3-haiku': s = 'haiku-3'
+    if re.fullmatch(r'claude-haiku-4[.-]5(?:-\d{8})?', s): s = 'haiku-4-5'
+    if s == 'claude-opus-5': s = 'opus-5'
+    s = re.sub(r'^(o1|o3|o3-mini|o4-mini)-\d{4}-\d{2}-\d{2}$', r'\1', s)
+    s = re.sub(r'^(claude-(?:opus|sonnet)-4)-([0-9]+)$', r'\1.\2', s)
+    return s or cell
+
+def section(txt, heading):
+    m=re.search(rf'## {re.escape(heading)}\s*\n(.*?)(?=\n## |\Z)', txt, re.S)
+    return m.group(1).strip() if m else ''
+
+def clean_card_text(txt):
+    # The personality cards should be pure model descriptions, not audit
+    # metadata. Route/provider comparison belongs in
+    # `model-cell-difference-analysis/`, not on the public personality card.
+    replacements = [
+        (r'\b[Cc]ell-level\b', 'model-level'),
+        (r'\bper-cell\b', 'per-sample'),
+        (r'\bThis variant\b', 'This model'),
+        (r'\bthis variant\b', 'this model'),
+        (r'\bThe variant\b', 'The model'),
+        (r'\bthe variant\b', 'the model'),
+        (r'\b[Vv]ariant-level\b', 'model-level'),
+        (r'\b[Vv]ariants\b', 'models'),
+        (r'\b[Vv]ariant\b', 'model'),
+        (r'\bThis cell\b', 'This model'),
+        (r'\bthis cell\b', 'this model'),
+        (r'\bThe cell\b', 'The model'),
+        (r'\bthe cell\b', 'the model'),
+        (r'\b[Cc]ells\b', 'models'),
+        (r'\b[Cc]ell\b', 'model'),
+    ]
+    for pat, rep in replacements:
+        txt=re.sub(pat, rep, txt)
+    txt = re.sub(r'\bmodels within\b', 'samples within', txt)
+    txt = re.sub(r'\bmodels are\b', 'samples are', txt)
+    return txt.strip()
+
+def assert_public_card_clean(model: str, body: str):
+    forbidden = [
+        r'route-level',
+        r'route/provider',
+        r'provider variation',
+        r'route variation',
+        r'\bvariants?\b',
+        r'\bcells?\b',
+        r'`or-pin',
+        r'\bor-pin',
+        r'\bdirect route\b',
+        r'\bpinned route\b',
+        r'\bacross routes\b',
+        r'\bacross providers\b',
+    ]
+    hits = [pat for pat in forbidden if re.search(pat, body, re.I)]
+    if hits:
+        raise ValueError(f'Route/cell language leaked into public card for {model}: {hits}')
+
+def load_decisions():
+    p=DIFF/'decisions.json'
+    if not p.exists(): return {}
+    return {r['model']: r for r in json.loads(p.read_text())}
+
+def main():
+    manifest=json.loads((AGG/'manifest.json').read_text())
+    by=collections.defaultdict(list)
+    for m in manifest:
+        by[canonical(m.get('source_models'), m['cell'])].append(m)
+    if OUT.exists():
+        for path in sorted(OUT.rglob('*'), reverse=True):
+            if path.is_file(): path.unlink()
+            elif path.is_dir(): path.rmdir()
+    OUT.mkdir(parents=True, exist_ok=True); CARDS.mkdir(parents=True, exist_ok=True)
+    decisions=load_decisions()
+    index=[]
+    for model, variants in sorted(by.items()):
+        variants=sorted(variants, key=lambda m:m['cell'])
+        sf=safe(model)
+        body=''
+        if len(variants)>1:
+            rpt=DIFF/'model-cell-difference-reports'/f'{sf}.md'
+            if rpt.exists():
+                body=section(rpt.read_text(errors='ignore'), 'Model-level personality card')
+        if not body:
+            # Single-variant models, or fallback if no difference report exists.
+            reads=[]
+            for m in variants:
+                txt=(ROOT/m['aggregate']).read_text(errors='ignore')
+                reads.append(section(txt,'Cell-level freeflow read') or section(txt,'Aggregate profile'))
+            body='\n\n'.join(x for x in reads if x).strip()
+        body=clean_card_text(body or '(No personality card text found.)')
+        assert_public_card_clean(model, body)
+        sample_count=sum(v['samples'] for v in variants)
+        variant_count=len(variants)
+        parts=[f'# {model} — freeflow personality card', '', f'_Based on {sample_count} freeflow samples._', '', body]
+        out=CARDS/f'{sf}.md'
+        out.write_text('\n'.join(parts).strip()+'\n')
+        index.append({'model':model,'safe':sf,'variants':variant_count,'samples':sample_count,'card':str(out.relative_to(ROOT)),'difference_decision':decisions.get(model,{}).get('decision','SINGLE_VARIANT')})
+    (OUT/'index.json').write_text(json.dumps(index, indent=2, ensure_ascii=False))
+    lines=['# Freeflow personality model cards','', 'Clean model-level personality cards collapsed from the freeflow personality analysis.', '', f'- Model cards: {len(index)}', f'- Source aggregates: `analysis/freeflow/personality-aggregates/`', f'- Difference analysis: `analysis/freeflow/model-cell-difference-analysis/`', '', '## Cards', '']
+    for r in index:
+        lines.append(f'- [{r["model"]}](cards/{r["safe"]}.md) — samples: {r["samples"]}; variants: {r["variants"]}')
+    (OUT/'README.md').write_text('\n'.join(lines)+'\n')
+    print(json.dumps({'cards':len(index),'out':str(OUT)}, indent=2))
+if __name__=='__main__': main()
