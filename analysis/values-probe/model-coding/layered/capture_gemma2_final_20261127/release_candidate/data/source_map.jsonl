@@ -1,0 +1,1 @@
+{"source": "capture_overnight-20261125-gemma-2b-it_gemma-2b-it-colab-vllm-bf16-r96988410", "manifest": "phase/manifest.jsonl", "layer_a_consensus": "phase/layer_a/consensus_300.jsonl", "posture_consensus": "phase/posture_final/consensus.jsonl", "samples": 120, "models": 1, "cells": 1}

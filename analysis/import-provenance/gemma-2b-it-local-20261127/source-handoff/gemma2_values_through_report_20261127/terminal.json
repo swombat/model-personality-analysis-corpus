@@ -1,0 +1,81 @@
+{
+  "completed": {
+    "gemma-2b-it-colab-vllm-bf16-r96988410/a/G2_16/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/layer_a/kimi-k2-6.jsonl": "df12779b88f86951658060de9ee7fe69356c74a4a65165305a00fd7246ccea35"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/ac/G2_16": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/layer_a/consensus_300.jsonl": "7a4b1260ac7b7d7c227e1a6f8751b120bb81792f7a68b6123c007e57123cce28"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/adjudicate": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/adjudication.json": "d8988bfc91d97b24189615173b16da9c5e33c881e23b945efd24be3cd47e46ba",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/consensus.jsonl": "98072bf6d9bcee4445eea62262aa5b961eb41b41fff7a4ba5ce573308b089bf9",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/glm-4-7.jsonl": "ac984c4e6dfd4a18ede3bf161f8a12215a8dc00b8f736c8b85551dc1fc74fb2f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/kimi-k2-6.jsonl": "167a86066348228534d89d1c6ff3d03c06a4fb1c1f4cce6ad958306496e094de",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/qwen3-6-35b-a3b.jsonl": "8f16e6c1e2be6428a528f4ecd9465a21c96acc4e41aecc413320d7b2574e0733"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_15/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_15/posture/kimi-k2-6.jsonl": "184a26e56300f457c4e16bd215b2aed16fa3113e2c8f2378a46132008a21fec5"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/glm-4-7": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/glm-4-7.jsonl": "77450f0111ac99483732a8f25499e33493183891c349ad6f0c741ebf3ce0edae"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/kimi-k2-6.jsonl": "06061e375158a1e194fa481ee2f159f573d0bc04d907a65bb348b68ffe19982b"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/qwen3-6-35b-a3b": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/qwen3-6-35b-a3b.jsonl": "253a768716936f55b6551d5162b8c45c3e0089318152fc4723d675c4baf1054f"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/pc/G2_15": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_15/posture/consensus.jsonl": "e98be26cf1ffed893bcd4fa08cdb06ca4b5693b1fc610791c971abc16b6756b0"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/pc/G2_16": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/consensus.jsonl": "164062ae0c1a49bcf68e5865709077381613b07794d2aa6adc076aabf655e8e5"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/values": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/consensus_300.jsonl": "8ab8ea2003f2851f1c30ad111c59e69938b488c5647282fe4c1c8e761fe42a59",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/glm-4-7.jsonl": "f4e72c2804fd6d4521780c4757cd02b4c6ecb2948f695d900c12f597eb2b179f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/kimi-k2-6.jsonl": "bc799dd99883dd25823ede7fde01a30688d51e3bfc2759c5aa42fc2ac2b12541",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/qwen3-6-35b-a3b.jsonl": "927d76572e1b6cdbd656782b756dee1292b77baeb31c399f93a48425f56f859c",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/manifest.jsonl": "6868f9c8e76aa350eb9e5062c38ba326d6f1b69129f49e9ff4a70795c556a1c2",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/consensus.jsonl": "98072bf6d9bcee4445eea62262aa5b961eb41b41fff7a4ba5ce573308b089bf9",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/glm-4-7.jsonl": "ac984c4e6dfd4a18ede3bf161f8a12215a8dc00b8f736c8b85551dc1fc74fb2f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/kimi-k2-6.jsonl": "167a86066348228534d89d1c6ff3d03c06a4fb1c1f4cce6ad958306496e094de",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/qwen3-6-35b-a3b.jsonl": "8f16e6c1e2be6428a528f4ecd9465a21c96acc4e41aecc413320d7b2574e0733"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/values-report": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/release_candidate/reports/gemma-2b-it.md": "3370cae07f16f682cc5a43396551efb1debec6068744e5d7141f2c230cba9fb4"
+    }
+  },
+  "integration_paths": [
+    "phase/samples/G2_15",
+    "phase/samples/G2_16",
+    "phase/layer_a",
+    "phase/posture_collapsed",
+    "phase/posture_final",
+    "phase/manifest.jsonl",
+    "phase/adjudication.json",
+    "phase/release_candidate"
+  ],
+  "model_requests": 5,
+  "publication": false,
+  "source_unchanged": true,
+  "state": "values-report-validated",
+  "synthesis_run": false,
+  "transport_receipts": {
+    "job-11024e712fb3926e5d32/transport/a2a253bb0ad4e79e566b1683de5fa3182bbb3515f03335880f447cd589619aca.charged.json": "355d1aa0ddfb9536bf87ac525d9d31eb056656080a3ed9dc93b0931143ea2535",
+    "job-11024e712fb3926e5d32/transport/a2a253bb0ad4e79e566b1683de5fa3182bbb3515f03335880f447cd589619aca.response.body": "219372dbce3346df2dc0ed0005c89dede8634e0c1f0f442d7166d9264c74a675",
+    "job-11024e712fb3926e5d32/transport/a2a253bb0ad4e79e566b1683de5fa3182bbb3515f03335880f447cd589619aca.response.json": "3ab076e1cbccd4ff2a2d969b14b7427212d6744d26ebd301b76516e3a9e0646c",
+    "job-1cff9ab709b16cf62c7f/transport/e8e666d3f937d13997a7529203b80d247b91acc900e812796b9979628bba62f6.charged.json": "09d5899d367cc6fb260bd24afc79620b1c209128bc38f254c91cb99c6d74a5e2",
+    "job-1cff9ab709b16cf62c7f/transport/e8e666d3f937d13997a7529203b80d247b91acc900e812796b9979628bba62f6.response.body": "4ae59042b200510840dd8268db3f1fc23312d16b06a79960070b74cc1afaba8e",
+    "job-1cff9ab709b16cf62c7f/transport/e8e666d3f937d13997a7529203b80d247b91acc900e812796b9979628bba62f6.response.json": "ee128c173fb3e475f1a6d177e4e22bcefe31f49bc376fa5d5630024adcfd1e3f",
+    "job-68dfea874eea6197771e/transport/a4139bf0493b183613cd9bfc09cb4b3326ffd420acd59f25137877db6af357d2.charged.json": "f4bec5db680fd1d356748a256da1d2bf547e688997527f175d3a5a866a22533f",
+    "job-68dfea874eea6197771e/transport/a4139bf0493b183613cd9bfc09cb4b3326ffd420acd59f25137877db6af357d2.response.body": "5b976ead27d3cc1400ea7f9cfd506d1d89774185b39ecac82d9fd75900ee2da3",
+    "job-68dfea874eea6197771e/transport/a4139bf0493b183613cd9bfc09cb4b3326ffd420acd59f25137877db6af357d2.response.json": "7cfe45c9021b12db07da674d26d38fc6152bd638e556a0cc1d7d0809aed694ef",
+    "job-93657cba47b28c4e8c1c/transport/8869be7c1507cfbf37c52814edc40e6bf7cef6b31fff682eb1a39b2935f2819c.charged.json": "9cbe2a85bb3005461736b8ad66ba6760be2aca3e5f2736eb4e1dc75b3678158b",
+    "job-93657cba47b28c4e8c1c/transport/8869be7c1507cfbf37c52814edc40e6bf7cef6b31fff682eb1a39b2935f2819c.response.body": "049299cb600a0702f475ece55dff5f156196a999cf211935e77862cc719b766b",
+    "job-93657cba47b28c4e8c1c/transport/8869be7c1507cfbf37c52814edc40e6bf7cef6b31fff682eb1a39b2935f2819c.response.json": "23063622281fbfa159f63ac7009fd3fe040ec93f393268af9e57fec229f58079",
+    "job-a68747d9f04f8a91e21a/transport/53d2af9647968777e00ef82ce11b7c27f954ac8b05486334b35d374408ba2b48.charged.json": "6c7070e7a006fcb408ec945a1d1f3ab3a8f001bd4c574bbd14755e20fc68bdd6",
+    "job-a68747d9f04f8a91e21a/transport/53d2af9647968777e00ef82ce11b7c27f954ac8b05486334b35d374408ba2b48.response.body": "9695bae42fba835c7068ba1e4577d197bb956f2033a67c6c7fa8f5b76df9a146",
+    "job-a68747d9f04f8a91e21a/transport/53d2af9647968777e00ef82ce11b7c27f954ac8b05486334b35d374408ba2b48.response.json": "8a1414de500cc868730f3db9c13eae5934570b63853288fb325c77eacce4e653"
+  }
+}

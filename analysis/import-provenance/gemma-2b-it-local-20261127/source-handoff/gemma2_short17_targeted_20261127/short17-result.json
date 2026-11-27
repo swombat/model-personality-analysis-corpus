@@ -1,0 +1,48 @@
+{
+  "downstream_run": false,
+  "ledger": [
+    [
+      "original-gemma2-scoped-20261126-v1",
+      "gemma-2b-it-colab-vllm-bf16-r96988410/bv1/OPEN_7",
+      2,
+      2
+    ],
+    [
+      "original-gemma2-scoped-20261126-v1",
+      "gemma-2b-it-colab-vllm-bf16-r96988410/bv1/SHORT_17",
+      1,
+      2
+    ]
+  ],
+  "reason": "evaluated: bv1-luna-v1-targeted-20261016 (authorised repair original-gemma2-scoped-20261126-v1, attempt 1/2)",
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/gemma-2b-it-colab-vllm-bf16-r96988410/SHORT_17.md": "215cd013a745e2455e0cac5ed0f8ace435833fbc535edcf03fb8ce47fd05d4ff",
+    "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/gemma-2b-it-colab-vllm-bf16-r96988410/SHORT_17.md.provenance.json": "5090710d41b63368222777627a90efbe05d0a22be8b4baf3ff985c6122d7e06d",
+    "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_17.json": "562e234a876777208af360d416108877b5cc0a14c2bc7d6a351bbb94781dc499"
+  },
+  "result": [
+    {
+      "allowance": 2,
+      "applied": true,
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "attempts": "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-gemma-2b-it_gemma-2b-it_BV1_SHORT_17",
+      "authorization": "original-gemma2-scoped-20261126-v1",
+      "binding": "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_17.json",
+      "id": "gemma-2b-it-colab-vllm-bf16-r96988410/bv1/SHORT_17",
+      "output": "/home/agent/work/colab-batch-queue/gemma2_short17_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/gemma-2b-it-colab-vllm-bf16-r96988410/SHORT_17.md",
+      "output_exists": false,
+      "output_sha256": "215cd013a745e2455e0cac5ed0f8ace435833fbc535edcf03fb8ce47fd05d4ff",
+      "reason": "exit 1; attempt 2/2",
+      "sample": "SHORT_17",
+      "source_sha256": "390314d5c2e000b153116243521c7637ba411b145b073d52ac4b89855ce195eb",
+      "state": "blocked",
+      "used": 1,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "bfc067fff2ca18688b99807c0b682588fb1d2ec8b3c079e02b290b8689435ca9"
+      }
+    }
+  ],
+  "source_unchanged": true,
+  "state": "done"
+}

@@ -1,0 +1,16 @@
+{
+  "bv1": 125,
+  "model_requests": 1,
+  "publication": false,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/freeflow/personality-model-cards/cards/gemma-2b-it.md": "e31aefd077ba4824cc419fe7e753dba4547fc1fec323409b5c2329f3b2397911",
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/gemma-2b-it.md": "9b56a25513339c0fbca47407de1bf40da99146cd6addc9d110a03c2bbb1402dd",
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/values-probe/model-coding/layered/capture_gemma2_final_20261127/ANALYSIS_READY.json": "a0d5e23d59b2d26b216f19592f32faeb6d9bd9baa8ba6d97a0398c7c0c97176a",
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/values-probe/model-coding/layered/capture_gemma2_final_20261127/CARD_READY.json": "e2324c70b871a5c2e829416c96fac32e25ef95b764f04979ac04895b4ef28d62",
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/values-probe/model-coding/layered/capture_gemma2_final_20261127/VALUES_CARD.json": "9ff30c8d47caf31edeef6c861a9fc39d3926a72d8f003b2035fb1059956574ad",
+    "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/values-probe/model-coding/layered/capture_gemma2_final_20261127/release_candidate/reports/gemma-2b-it.md": "3370cae07f16f682cc5a43396551efb1debec6068744e5d7141f2c230cba9fb4"
+  },
+  "source_unchanged": true,
+  "state": "integrated_card_ready_awaiting_publication",
+  "values": 120
+}

@@ -1,0 +1,7 @@
+{
+  "card": "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/freeflow/personality-model-cards/cards/gemma-2b-it.md",
+  "model_requests": 1,
+  "profile": "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/gemma-2b-it.md",
+  "state": "synthesized",
+  "values_report": "/home/agent/work/colab-batch-queue/finish_gemma2_one_synthesis_20261127/analysis/analysis/values-probe/model-coding/layered/capture_gemma2_final_20261127/release_candidate/reports/gemma-2b-it.md"
+}

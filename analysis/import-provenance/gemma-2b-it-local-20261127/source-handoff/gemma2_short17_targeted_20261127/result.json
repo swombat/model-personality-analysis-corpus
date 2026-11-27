@@ -1,0 +1,10 @@
+{
+  "model": "gemma-2b-it-colab-vllm-bf16-r96988410",
+  "adopted": [
+    "OPEN_7"
+  ],
+  "bv1_done": 124,
+  "source_unchanged": true,
+  "model_calls": 0,
+  "scheduler_enabled": false
+}

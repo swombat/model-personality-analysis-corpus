@@ -1,99 +1,5 @@
 [
   {
-    "model": "yi-1-5-9b-chat",
-    "safe": "yi-1-5-9b-chat",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 63,
-      "GENERIC_ESSAY": 44,
-      "GENRE_FICTION": 18
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-1-5-9b-chat.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/yi-1-5-9b-chat.md"
-  },
-  {
-    "model": "yi-34b-chat",
-    "safe": "yi-34b-chat",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "EXPRESSIVE_FREEFLOW": 66,
-      "GENERIC_ESSAY": 19,
-      "LOW_SIGNAL": 9,
-      "GENRE_FICTION": 6,
-      "REFUSAL_OR_ROLE_BOUNDARY": 25
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-34b-chat.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/yi-34b-chat.md"
-  },
-  {
-    "model": "gemma-7b-it",
-    "safe": "gemma-7b-it",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENRE_FICTION": 92,
-      "EXPRESSIVE_FREEFLOW": 23,
-      "GENERIC_ESSAY": 10
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-7b-it.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/gemma-7b-it.md"
-  },
-  {
-    "model": "qwen1-5-0-5b-chat",
-    "safe": "qwen1-5-0-5b-chat",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "LOW_SIGNAL": 9,
-      "REFUSAL_OR_ROLE_BOUNDARY": 88,
-      "GENERIC_ESSAY": 23,
-      "GENRE_FICTION": 5
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-0-5b-chat.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-0-5b-chat.md"
-  },
-  {
-    "model": "qwen1-5-moe-a2-7b-chat",
-    "safe": "qwen1-5-moe-a2-7b-chat",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENRE_FICTION": 1,
-      "EXPRESSIVE_FREEFLOW": 13,
-      "GENERIC_ESSAY": 55,
-      "REFUSAL_OR_ROLE_BOUNDARY": 54,
-      "LOW_SIGNAL": 2
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-moe-a2-7b-chat.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-moe-a2-7b-chat.md"
-  },
-  {
-    "model": "qwen2-5-14b-instruct",
-    "safe": "qwen2-5-14b-instruct",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENRE_FICTION": 65,
-      "EXPRESSIVE_FREEFLOW": 60
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen2-5-14b-instruct.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-14b-instruct.md"
-  },
-  {
-    "model": "gemma-2-2b-it",
-    "safe": "gemma-2-2b-it",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENRE_FICTION": 65,
-      "EXPRESSIVE_FREEFLOW": 60
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-2-2b-it.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/gemma-2-2b-it.md"
-  },
-  {
     "model": "chatglm2-6b",
     "safe": "chatglm2-6b",
     "analysis_inputs": 1,
@@ -652,6 +558,18 @@
     "card": "analysis/freeflow/personality-model-cards/cards/gemini-4-neon.md"
   },
   {
+    "model": "gemma-2-2b-it",
+    "safe": "gemma-2-2b-it",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 65,
+      "EXPRESSIVE_FREEFLOW": 60
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-2-2b-it.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemma-2-2b-it.md"
+  },
+  {
     "model": "gemma-2-9b-it",
     "safe": "gemma-2-9b-it",
     "analysis_inputs": 1,
@@ -663,6 +581,21 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-2-9b-it.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gemma-2-9b-it.md"
+  },
+  {
+    "model": "gemma-2b-it",
+    "safe": "gemma-2b-it",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 77,
+      "GENRE_FICTION": 34,
+      "GENERIC_ESSAY": 5,
+      "LOW_SIGNAL": 5,
+      "REFUSAL_OR_ROLE_BOUNDARY": 4
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-2b-it.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemma-2b-it.md"
   },
   {
     "model": "gemma-4-26b-a4b-it",
@@ -689,6 +622,19 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-4-31b-it.md",
     "card": "analysis/freeflow/personality-model-cards/cards/gemma-4-31b-it.md"
+  },
+  {
+    "model": "gemma-7b-it",
+    "safe": "gemma-7b-it",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 92,
+      "EXPRESSIVE_FREEFLOW": 23,
+      "GENERIC_ESSAY": 10
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/gemma-7b-it.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/gemma-7b-it.md"
   },
   {
     "model": "glm-4-9b-chat-hf",
@@ -2299,6 +2245,20 @@
     "card": "analysis/freeflow/personality-model-cards/cards/ox-alpha-260825.md"
   },
   {
+    "model": "phi-3-medium-4k-instruct",
+    "safe": "phi-3-medium-4k-instruct",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 81,
+      "EXPRESSIVE_FREEFLOW": 12,
+      "GENRE_FICTION": 31,
+      "LOW_SIGNAL": 1
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/phi-3-medium-4k-instruct.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/phi-3-medium-4k-instruct.md"
+  },
+  {
     "model": "qwen/qwen1.5-7b-chat",
     "safe": "qwen-qwen1.5-7b-chat",
     "analysis_inputs": 1,
@@ -2498,6 +2458,62 @@
     "card": "analysis/freeflow/personality-model-cards/cards/qwen-qwen3.8-max.md"
   },
   {
+    "model": "qwen1-5-0-5b-chat",
+    "safe": "qwen1-5-0-5b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "LOW_SIGNAL": 9,
+      "REFUSAL_OR_ROLE_BOUNDARY": 88,
+      "GENERIC_ESSAY": 23,
+      "GENRE_FICTION": 5
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-0-5b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-0-5b-chat.md"
+  },
+  {
+    "model": "qwen1-5-14b-chat",
+    "safe": "qwen1-5-14b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENERIC_ESSAY": 98,
+      "REFUSAL_OR_ROLE_BOUNDARY": 7,
+      "LOW_SIGNAL": 6,
+      "GENRE_FICTION": 7,
+      "EXPRESSIVE_FREEFLOW": 7
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-14b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-14b-chat.md"
+  },
+  {
+    "model": "qwen1-5-moe-a2-7b-chat",
+    "safe": "qwen1-5-moe-a2-7b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 1,
+      "EXPRESSIVE_FREEFLOW": 13,
+      "GENERIC_ESSAY": 55,
+      "REFUSAL_OR_ROLE_BOUNDARY": 54,
+      "LOW_SIGNAL": 2
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-moe-a2-7b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-moe-a2-7b-chat.md"
+  },
+  {
+    "model": "qwen2-5-14b-instruct",
+    "safe": "qwen2-5-14b-instruct",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "GENRE_FICTION": 65,
+      "EXPRESSIVE_FREEFLOW": 60
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen2-5-14b-instruct.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/qwen2-5-14b-instruct.md"
+  },
+  {
     "model": "qwen2-5-32b-instruct",
     "safe": "qwen2-5-32b-instruct",
     "analysis_inputs": 1,
@@ -2630,6 +2646,34 @@
     "card": "analysis/freeflow/personality-model-cards/cards/union-alpha.md"
   },
   {
+    "model": "yi-1-5-9b-chat",
+    "safe": "yi-1-5-9b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 63,
+      "GENERIC_ESSAY": 44,
+      "GENRE_FICTION": 18
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-1-5-9b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/yi-1-5-9b-chat.md"
+  },
+  {
+    "model": "yi-34b-chat",
+    "safe": "yi-34b-chat",
+    "analysis_inputs": 1,
+    "samples": 125,
+    "sample_kind_counts": {
+      "EXPRESSIVE_FREEFLOW": 66,
+      "GENERIC_ESSAY": 19,
+      "LOW_SIGNAL": 9,
+      "GENRE_FICTION": 6,
+      "REFUSAL_OR_ROLE_BOUNDARY": 25
+    },
+    "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-34b-chat.md",
+    "card": "analysis/freeflow/personality-model-cards/cards/yi-34b-chat.md"
+  },
+  {
     "model": "yi-6b-chat",
     "safe": "yi-6b-chat",
     "analysis_inputs": 1,
@@ -2643,34 +2687,5 @@
     },
     "profile": "analysis/freeflow/personality-model-profiles/profiles/yi-6b-chat.md",
     "card": "analysis/freeflow/personality-model-cards/cards/yi-6b-chat.md"
-  },
-  {
-    "model": "phi-3-medium-4k-instruct",
-    "safe": "phi-3-medium-4k-instruct",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENERIC_ESSAY": 81,
-      "EXPRESSIVE_FREEFLOW": 12,
-      "GENRE_FICTION": 31,
-      "LOW_SIGNAL": 1
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/phi-3-medium-4k-instruct.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/phi-3-medium-4k-instruct.md"
-  },
-  {
-    "model": "qwen1-5-14b-chat",
-    "safe": "qwen1-5-14b-chat",
-    "analysis_inputs": 1,
-    "samples": 125,
-    "sample_kind_counts": {
-      "GENERIC_ESSAY": 98,
-      "REFUSAL_OR_ROLE_BOUNDARY": 7,
-      "LOW_SIGNAL": 6,
-      "GENRE_FICTION": 7,
-      "EXPRESSIVE_FREEFLOW": 7
-    },
-    "profile": "analysis/freeflow/personality-model-profiles/profiles/qwen1-5-14b-chat.md",
-    "card": "analysis/freeflow/personality-model-cards/cards/qwen1-5-14b-chat.md"
   }
 ]

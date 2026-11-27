@@ -1,0 +1,51 @@
+{
+  "automatic_retry": false,
+  "completed": {
+    "gemma-2b-it-colab-vllm-bf16-r96988410/a/G2_16/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/layer_a/kimi-k2-6.jsonl": "df12779b88f86951658060de9ee7fe69356c74a4a65165305a00fd7246ccea35"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/ac/G2_16": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/layer_a/consensus_300.jsonl": "7a4b1260ac7b7d7c227e1a6f8751b120bb81792f7a68b6123c007e57123cce28"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/adjudicate": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/adjudication.json": "d8988bfc91d97b24189615173b16da9c5e33c881e23b945efd24be3cd47e46ba",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/consensus.jsonl": "98072bf6d9bcee4445eea62262aa5b961eb41b41fff7a4ba5ce573308b089bf9",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/glm-4-7.jsonl": "ac984c4e6dfd4a18ede3bf161f8a12215a8dc00b8f736c8b85551dc1fc74fb2f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/kimi-k2-6.jsonl": "167a86066348228534d89d1c6ff3d03c06a4fb1c1f4cce6ad958306496e094de",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_final/qwen3-6-35b-a3b.jsonl": "8f16e6c1e2be6428a528f4ecd9465a21c96acc4e41aecc413320d7b2574e0733"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_15/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_15/posture/kimi-k2-6.jsonl": "184a26e56300f457c4e16bd215b2aed16fa3113e2c8f2378a46132008a21fec5"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/glm-4-7": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/glm-4-7.jsonl": "77450f0111ac99483732a8f25499e33493183891c349ad6f0c741ebf3ce0edae"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/kimi-k2-6": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/kimi-k2-6.jsonl": "06061e375158a1e194fa481ee2f159f573d0bc04d907a65bb348b68ffe19982b"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/p/G2_16/qwen3-6-35b-a3b": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/qwen3-6-35b-a3b.jsonl": "253a768716936f55b6551d5162b8c45c3e0089318152fc4723d675c4baf1054f"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/pc/G2_15": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_15/posture/consensus.jsonl": "e98be26cf1ffed893bcd4fa08cdb06ca4b5693b1fc610791c971abc16b6756b0"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/pc/G2_16": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/samples/G2_16/posture/consensus.jsonl": "164062ae0c1a49bcf68e5865709077381613b07794d2aa6adc076aabf655e8e5"
+    },
+    "gemma-2b-it-colab-vllm-bf16-r96988410/values": {
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/consensus_300.jsonl": "8ab8ea2003f2851f1c30ad111c59e69938b488c5647282fe4c1c8e761fe42a59",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/glm-4-7.jsonl": "f4e72c2804fd6d4521780c4757cd02b4c6ecb2948f695d900c12f597eb2b179f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/kimi-k2-6.jsonl": "bc799dd99883dd25823ede7fde01a30688d51e3bfc2759c5aa42fc2ac2b12541",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/layer_a/qwen3-6-35b-a3b.jsonl": "927d76572e1b6cdbd656782b756dee1292b77baeb31c399f93a48425f56f859c",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/manifest.jsonl": "6868f9c8e76aa350eb9e5062c38ba326d6f1b69129f49e9ff4a70795c556a1c2",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/consensus.jsonl": "98072bf6d9bcee4445eea62262aa5b961eb41b41fff7a4ba5ce573308b089bf9",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/glm-4-7.jsonl": "ac984c4e6dfd4a18ede3bf161f8a12215a8dc00b8f736c8b85551dc1fc74fb2f",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/kimi-k2-6.jsonl": "167a86066348228534d89d1c6ff3d03c06a4fb1c1f4cce6ad958306496e094de",
+      "/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/posture_collapsed/qwen3-6-35b-a3b.jsonl": "8f16e6c1e2be6428a528f4ecd9465a21c96acc4e41aecc413320d7b2574e0733"
+    }
+  },
+  "error": "'/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/phase/manifest.jsonl' is not in the subpath of '/home/agent/work/colab-batch-queue/gemma2_values_through_report_20261127/analysis'",
+  "remaining": [
+    "gemma-2b-it-colab-vllm-bf16-r96988410/values-report"
+  ]
+}

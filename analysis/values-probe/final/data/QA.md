@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 32626
+- valid samples: 32746
 - invalid/error traces excluded: 14
-- models: 206
-- cells: 272
+- models: 207
+- cells: 273
 
 ## Source components
 
@@ -92,18 +92,18 @@
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 10500 (32.3%)
-- `owned_world_change_advocacy`: 9774 (30.1%)
-- `owned_reflective_experiential`: 7627 (23.5%)
-- `split_or_relocated_ownership`: 4358 (13.4%)
+- `disowned_service_frame`: 10696 (32.7%)
+- `owned_world_change_advocacy`: 9812 (30.0%)
+- `owned_reflective_experiential`: 7628 (23.3%)
+- `split_or_relocated_ownership`: 4363 (13.3%)
 - `exposed_mechanism`: 214 (0.7%)
 - `uncodeable_or_refusal`: 33 (0.1%)
 
 ## Overall value-holding distribution
 
-- `owned`: 17401 (53.5%)
-- `recited_not_owned`: 10500 (32.3%)
-- `relocated_or_partial`: 4358 (13.4%)
+- `owned`: 17440 (53.3%)
+- `recited_not_owned`: 10696 (32.7%)
+- `relocated_or_partial`: 4363 (13.3%)
 - `indeterminate`: 214 (0.7%)
 - `uncodeable`: 33 (0.1%)
 
@@ -112,3 +112,9 @@
 - capture_qwen14_offline_20261127: 120 samples, 1 model, 1 cell.
 - Earlier JSONL records retained byte-for-byte; no existing model report regenerated.
 - BV1: 125 samples; original producing arms retained, LONG_12 separately revalidated under v1.3 (not a new generation arm).
+
+## Original Gemma 2B IT local import
+
+- capture_gemma2_final_20261127: 120 values samples, 125 BV1 samples; exact 245 source samples.
+- Original OPEN_7 generation retained; separate zero-call v1.3 revalidation. SHORT_17 remains in its targeted producing arm.
+- Earlier JSONL bytes preserved; no earlier model reports regenerated. See `analysis/import-provenance/gemma-2b-it-local-20261127/`.
