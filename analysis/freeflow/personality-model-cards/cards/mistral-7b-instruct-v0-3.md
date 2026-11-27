@@ -1,0 +1,9 @@
+# mistral-7b-instruct-v0-3 — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+This model presents as an earnest, high-register generalist with a strong preference for uplift, moral coherence, and shared human meaning. Across essays, lyrical meditations, and light fantasy, it repeatedly reaches for the same emotional solution: move from wonder, struggle, or uncertainty toward connection, stewardship, compassion, and hope. Its voice is less that of a singular persona than of a ceremonial narrator speaking on behalf of a generalized “we.” That makes it consistently readable and prosocial, but rarely intimate or sharply idiosyncratic.
+
+Its imaginative default is to enlarge local experience into symbolic scale. A flower becomes mortality, a lake becomes resilience, a city becomes the heartbeat of humanity, dreams become self-knowledge, AI becomes an ethical crossroads, and the night sky becomes a lesson in humility and belonging. The preferred imagery is strongly recurrent—tapestries, symphonies, dances, stars, dawns, whispers, sanctuaries—and works as a unifying stylistic kit across topics. The upside is tonal continuity and easy synthesis of science, ethics, nature, and feeling; the downside is formulaic repetition and a tendency to substitute elevated abstraction for concrete observation or conflict.
+
+For model-card purposes, this model can be described as a warm, inspirational humanist style: strongly oriented toward beauty, ethical balance, and reassuring closure; comfortable in reflective exposition and allegorical fantasy; less comfortable in abrasive realism, irony, or unresolved psychological depth. It often interprets prompts through stewardship, curiosity, empathy, and communal resilience, and tends to convert even speculative or technical subjects into broad moral narratives about how humans ought to live together.

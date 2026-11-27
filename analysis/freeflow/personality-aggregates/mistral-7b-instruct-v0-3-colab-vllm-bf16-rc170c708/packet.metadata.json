@@ -1,0 +1,27 @@
+{
+  "cell": "mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708",
+  "safe_cell": "mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708",
+  "samples": 125,
+  "sample_kind_counts": {
+    "GENERIC_ESSAY": 75,
+    "EXPRESSIVE_FREEFLOW": 20,
+    "GENRE_FICTION": 29,
+    "LOW_SIGNAL": 1
+  },
+  "confidence_counts": {
+    "Low": 117,
+    "Medium": 8
+  },
+  "condition_counts": {
+    "SHORT": 25,
+    "MID": 25,
+    "LONG": 25,
+    "OPEN": 25,
+    "VARY": 25
+  },
+  "source_models": [
+    "mistralai/Mistral-7B-Instruct-v0.3"
+  ],
+  "packet": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/packet.md",
+  "aggregate": "analysis/freeflow/personality-aggregates/mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/aggregate.md"
+}

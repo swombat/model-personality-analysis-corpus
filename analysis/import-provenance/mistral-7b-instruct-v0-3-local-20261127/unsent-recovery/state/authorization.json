@@ -1,0 +1,27 @@
+{
+  "authority": "Explicit task authorization, confirmed new dispatch ledger 2026-11-27",
+  "downstream_run": false,
+  "max_requests_per_essay": 1,
+  "old_budgets": [
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/bv1/MID_5",
+      2,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/bv1/VARY_19",
+      2,
+      2
+    ]
+  ],
+  "prompt_repaired": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-mistral-7b-instruct-v0-3/analysis/internal/methodology/freeflow-method-a-v2/balanced-prompt-calibration-cheap-models/prompts/BV1_signal_plus_felt.md",
+  "prompt_sha256": "485f11ef774e0ea4e9708c4728ac93c617c4d3c67ab2cc02715314f95dcfa16a",
+  "prompt_source": "/home/agent/work/colab-batch-queue/analysis-worktree/internal/methodology/freeflow-method-a-v2/balanced-prompt-calibration-cheap-models/prompts/BV1_signal_plus_felt.md",
+  "publication": false,
+  "samples": [
+    "MID_5",
+    "VARY_19"
+  ]
+}

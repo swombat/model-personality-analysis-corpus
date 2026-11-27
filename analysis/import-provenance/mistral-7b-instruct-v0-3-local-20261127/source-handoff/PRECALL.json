@@ -1,0 +1,6 @@
+{
+  "route": "openrouter-openai",
+  "model": "gpt-5.4",
+  "maximum_requests": 1,
+  "packet_sha256": "e7e5a1ff1a6e3eb52a9085f71a65cbac76a5de275a2f53492b8b70b975690a0f"
+}

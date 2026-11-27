@@ -1,0 +1,22 @@
+{
+  "dispatches": 2,
+  "downstream_run": false,
+  "results": [
+    {
+      "error": null,
+      "evidence": {
+        "/home/agent/work/colab-batch-queue/remaining_recovery_colab-mistral-7b-instruct-v0-3/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-mistral-7b-instruct-v0-3_mistral-7b-instruct-v0-3_BV1_MID_5/1795734158640756331.json": "9f52fd85f48d7e2a83b18f3cce75b64fdff43cd907f3ecb7f3ec7f5c9cd0c075"
+      },
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-mistral-7b-instruct-v0-3/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/MID_5.md",
+      "sample": "MID_5"
+    },
+    {
+      "error": null,
+      "evidence": {
+        "/home/agent/work/colab-batch-queue/remaining_recovery_colab-mistral-7b-instruct-v0-3/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-mistral-7b-instruct-v0-3_mistral-7b-instruct-v0-3_BV1_VARY_19/1795734163118166513.json": "73b4432f4d5bc77553b6e67703c89f30c480f46ab32f73ba1e92e13f5501cc5c"
+      },
+      "output": "/home/agent/work/colab-batch-queue/remaining_recovery_colab-mistral-7b-instruct-v0-3/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/mistral-7b-instruct-v0-3-colab-vllm-bf16-rc170c708/VARY_19.md",
+      "sample": "VARY_19"
+    }
+  ]
+}
