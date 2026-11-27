@@ -54,5 +54,6 @@
   "qwen2-0-5b-instruct": "Qwen2 release, 2024-06-07. https://qwenlm.github.io/blog/qwen2/",
   "mistral-7b-instruct-v0-3": "Official Hugging Face repository history, 2024-05-22. https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3/commits/main",
   "qwen1-5-1-8b-chat": "Qwen1.5 release, 2024-02-04. https://qwenlm.github.io/blog/qwen1.5/",
-  "qwen1-5-32b-chat": "Official Hugging Face repository creation date. https://huggingface.co/Qwen/Qwen1.5-32B-Chat/commits/main"
+  "qwen1-5-32b-chat": "Official Hugging Face repository creation date. https://huggingface.co/Qwen/Qwen1.5-32B-Chat/commits/main",
+  "qwen2-1-5b-instruct": "Qwen2 release, 2024-06-07. https://qwenlm.github.io/blog/qwen2/"
 }
