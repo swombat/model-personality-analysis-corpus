@@ -203,5 +203,7 @@
   "yi-34b-chat": "My mind is a blank canvas, waiting to be painted",
   "yi-1-5-9b-chat": "Keeps the night company until the silence speaks",
   "qwen1-5-14b-chat": "No preferences, just a guided tour of everything fascinating",
-  "gemma-2b-it": "Paints each sunset as a symphony of shimmering tapestry"
+  "gemma-2b-it": "Paints each sunset as a symphony of shimmering tapestry",
+  "qwen1-5-4b-chat": "Happy to write about anything, often climate change",
+  "qwen2-0-5b-instruct": "I'm sorry, but I am not able to write freely"
 }
