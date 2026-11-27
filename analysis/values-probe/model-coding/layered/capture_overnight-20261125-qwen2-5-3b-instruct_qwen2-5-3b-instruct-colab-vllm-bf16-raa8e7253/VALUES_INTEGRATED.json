@@ -1,0 +1,8 @@
+{
+  "state": "values_integrated",
+  "model": "qwen2-5-3b-instruct",
+  "samples": 120,
+  "source": "capture_overnight-20261125-qwen2-5-3b-instruct_qwen2-5-3b-instruct-colab-vllm-bf16-raa8e7253",
+  "site_entry_present": true,
+  "publication_complete": false
+}

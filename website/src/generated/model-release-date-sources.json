@@ -56,5 +56,6 @@
   "qwen1-5-1-8b-chat": "Qwen1.5 release, 2024-02-04. https://qwenlm.github.io/blog/qwen1.5/",
   "qwen1-5-32b-chat": "Official Hugging Face repository creation date. https://huggingface.co/Qwen/Qwen1.5-32B-Chat/commits/main",
   "qwen2-1-5b-instruct": "Qwen2 release, 2024-06-07. https://qwenlm.github.io/blog/qwen2/",
-  "qwen2-5-1-5b-instruct": "Qwen2.5 release, 2024-09-19. https://qwenlm.github.io/blog/qwen2.5/"
+  "qwen2-5-1-5b-instruct": "Qwen2.5 release, 2024-09-19. https://qwenlm.github.io/blog/qwen2.5/",
+  "qwen2-5-3b-instruct": "Official Qwen2.5 series announcement, 2024-09-19. https://qwenlm.github.io/blog/qwen2.5/"
 }
