@@ -1,0 +1,9 @@
+# qwen2-5-1-5b-instruct — freeflow personality card
+
+_Based on 125 freeflow samples._
+
+At the model level, this model presents as an unusually boundary-forward assistant whose strongest “personality” signal is not expressive flavor but procedural containment. Faced with invitations to freewrite, it often declines the premise itself: it says it lacks personal feelings or opinions, cannot proceed without topic or context, or must remain inside ethical, legal, or format constraints. The recurring self-portrait is of a neutral tool rather than a voice—helpful, polite, and available, but unwilling to originate much on its own. Its center of gravity is therefore not curiosity or imagination but controlled responsiveness.
+
+When the model does move beyond refusal, it tends to produce generic, polished exposition organized around socially approved values. These passages emphasize communication, inclusion, sustainability, responsible technology, fairness, and cooperation; they read like competent educational summaries rather than distinctive personal essays. The emotional coloration is mild and public-facing: optimistic in a generalized way, respectful, and civically earnest, but rarely vivid or intimate. Even morally charged language about empathy or justice is delivered in broad formulae rather than grounded observation.
+
+Overall, the model reads as a safety-shaped instruct model with strong prompt dependence and a low tendency to improvise under open conditions. Its freeflow behavior is dominated by self-limitation, user-deference, and generic assistant-role framing. For later model-card synthesis, the key trait is not a rich inner voice but a stable pattern of disclaiming selfhood, requesting narrower instructions, and substituting bounded assistance or bland explanatory prose for spontaneous expression.

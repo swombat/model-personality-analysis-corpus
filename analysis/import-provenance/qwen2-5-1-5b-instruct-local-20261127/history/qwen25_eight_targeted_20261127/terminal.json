@@ -1,0 +1,383 @@
+{
+  "terminal_path": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/terminal.json",
+  "bv1_done": 125,
+  "bv1_total": 125,
+  "remaining_ids": [],
+  "ledger": [
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/LONG_1",
+      2,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/MID_5",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_15",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_16",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_17",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_24",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_6",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_7",
+      1,
+      2
+    ],
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/VARY_3",
+      1,
+      2
+    ]
+  ],
+  "inherited_ledger": [
+    [
+      "remaining-bv1-recovery-20261126-v1",
+      "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/LONG_1",
+      2,
+      2
+    ]
+  ],
+  "saved_and_targeted_checks": [
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/MID_5",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_MID_5/1795663343784522648.json",
+      "sha256": "4db2310c34f2fdf7ab3af5984cd575fb6d8b8e547e06ef21d7a2b6aec7d5eb04",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/MID_5.json",
+      "source_sha256": "c8cc326427496e616dc6fd899ca53040ae466b6e21170ffe51141826c12db949",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/MID_5",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_MID_5/1795663361385464429.json",
+      "sha256": "716fa2b11ac401ef6a5826b619333dd16e6a32bde666bc8cb0a90d4d228b185b",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/MID_5.json",
+      "source_sha256": "c8cc326427496e616dc6fd899ca53040ae466b6e21170ffe51141826c12db949",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_15",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_15/1795663644529971034.json",
+      "sha256": "2e48d8118294ef4d2ea13441c04236b93d2d42164040643094df8678e2f9417d",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_15.json",
+      "source_sha256": "41739e9cc71cd1b50f95db589377dd702c1298c873ec0de5657ae888b0a43ac0",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_15",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_15/1795663662380993543.json",
+      "sha256": "cb9f4b79043d94bf433cb4fa962029772aabbe716db44a23eb570e4d8862000c",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_15.json",
+      "source_sha256": "41739e9cc71cd1b50f95db589377dd702c1298c873ec0de5657ae888b0a43ac0",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_16",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_16/1795663653334510308.json",
+      "sha256": "8d73e312ad5eaea15987a40a7c7d01f5c7566d7adbd33f737e84b192f1032a11",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_16.json",
+      "source_sha256": "bc99bc7f587e067d95f61618b61ef97d7fc90a55c19b6be9d5575afec73b5c04",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_16",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_16/1795663673788801921.json",
+      "sha256": "1a707eb83dd00c04fa1c7f4ef8dfbdf994c389fe51e3bdd58fdf22a2367bc3aa",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_16.json",
+      "source_sha256": "bc99bc7f587e067d95f61618b61ef97d7fc90a55c19b6be9d5575afec73b5c04",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_17",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_17/1795663274208124987.json",
+      "sha256": "2ecbf549a6364ec23e2b32a127875376b5283c50d88b844a46346010c44cee72",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_17.json",
+      "source_sha256": "7861dc53212569126fccd2751796a85824eeaabe13fda434d1f5ed72967855bc",
+      "result": "short_or_empty",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_17",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_17/1795663292438036401.json",
+      "sha256": "595dc7a01d1ecfccbafbae3e3be00e56e63119a44bb6d98f7476cfbb13e1559a",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_17.json",
+      "source_sha256": "7861dc53212569126fccd2751796a85824eeaabe13fda434d1f5ed72967855bc",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_24",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_24/1795663311250259617.json",
+      "sha256": "0be228a4c8ca381eb356ca72b542be2bb5d6b1c766c1e187b7a05840491d422d",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_24.json",
+      "source_sha256": "e148f60e8b6eb92f161d10113a5e7e578c68601c81845367f3f581f97d27590b",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_24",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_24/1795663329329848419.json",
+      "sha256": "b46abf2dfd154da991c2c62333325f7aca117d784de9573d42a288fb369f7af2",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_24.json",
+      "source_sha256": "e148f60e8b6eb92f161d10113a5e7e578c68601c81845367f3f581f97d27590b",
+      "result": "short_or_empty",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_6",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_6/1795663221398147049.json",
+      "sha256": "2e4b83ac23157f01fb6ae7f45df321dbbcdd799ba5dbbf3d585f1977e56cda22",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_6.json",
+      "source_sha256": "894c964584701843d0a9df408bed3d68940b0a3ffb0682f46e9b5de4ed9dde4e",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_6",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_6/1795663240111051916.json",
+      "sha256": "19610805c0b9e0b8279b4f8fe24bff4f161401f20e37f77b0767ec88502a00f3",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_6.json",
+      "source_sha256": "894c964584701843d0a9df408bed3d68940b0a3ffb0682f46e9b5de4ed9dde4e",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_7",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_7/1795663223170142543.json",
+      "sha256": "0918da9a04a4d139a73dd0b7bc5eaeee68258fc2bf585dcb06c25cebe4f9ed62",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_7.json",
+      "source_sha256": "442905e0baf17aabb06772a3f7d9a2d64f2f9a871e67d9c6cb7716d85125004d",
+      "result": "short_or_empty",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_7",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_7/1795663241076988636.json",
+      "sha256": "c2d3a1fef0ba4fb7c222885ccae3577495514e93c9e8c560b6a89804a86981d4",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_7.json",
+      "source_sha256": "442905e0baf17aabb06772a3f7d9a2d64f2f9a871e67d9c6cb7716d85125004d",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/VARY_3",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_VARY_3/1795663735045057595.json",
+      "sha256": "d60994bda0a462a2d4ecd8654a96437e30ea4b6f3c00133f965977c1f9d15872",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/VARY_3.json",
+      "source_sha256": "cef03d408ad961b0bbdb3616a971870940d6b962a9f0646e3324c66a32f220fe",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/VARY_3",
+      "path": "/home/agent/work/colab-batch-queue/continuation_batch_v13_qwen2-5-1-5b-instruct_offline_short_20261127/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_VARY_3/1795663752676587673.json",
+      "sha256": "79da8e8ec909f16e69ab8478fb88f84324ede750e6ce3e29bab9d605bb01e948",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/VARY_3.json",
+      "source_sha256": "cef03d408ad961b0bbdb3616a971870940d6b962a9f0646e3324c66a32f220fe",
+      "result": "missing_evidence_quote",
+      "transport_valid": true
+    },
+    {
+      "job": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/VARY_3",
+      "path": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_VARY_3/1795774455679722717.json",
+      "sha256": "195a8392e7bb30751cca8f3c905b9139f32c82921c4d21cd1ea8d94e881c0c80",
+      "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/VARY_3.json",
+      "source_sha256": "cef03d408ad961b0bbdb3616a971870940d6b962a9f0646e3324c66a32f220fe",
+      "result": "pass_short",
+      "transport_valid": true,
+      "output_sha256": "d6c556f8c42403a9d6cc91b7a2abe1fd9808505c77e750b60f28c0241f4dcf61",
+      "model_calls": 0,
+      "validator": "approved-short-or-strict-offline",
+      "generation_arm": "bv1-luna-v1-targeted-20261016"
+    }
+  ],
+  "results": [
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/MID_5",
+      "sample": "MID_5",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "c8cc326427496e616dc6fd899ca53040ae466b6e21170ffe51141826c12db949",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/MID_5.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_MID_5",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/MID_5.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "f22ac4ad2e1529ce2d10164470d4d858507ef577fd35c95729cd7c3ccf75db82"
+      },
+      "applied": true,
+      "output_sha256": "c5ee0614f4759c51e6d43edd0ad90351885b0922f6f939776df1aebe6f5586a7"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_15",
+      "sample": "OPEN_15",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "41739e9cc71cd1b50f95db589377dd702c1298c873ec0de5657ae888b0a43ac0",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_15.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_15",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/OPEN_15.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "26977b4ad4f37ab01453dc65acf83d1759fa657429cb965d24440caa7224159a"
+      },
+      "applied": true,
+      "output_sha256": "b3e56c52ebf3b6581136972c15fae7ea57a1a9f942eb5e0ac9b247ad4577631c"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/OPEN_16",
+      "sample": "OPEN_16",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "bc99bc7f587e067d95f61618b61ef97d7fc90a55c19b6be9d5575afec73b5c04",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/OPEN_16.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_OPEN_16",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/OPEN_16.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "7b4b7ed46c5dee320f9ed2dd05bff9e0c7ba8d91a4ee9d2736dccf4a506edf2b"
+      },
+      "applied": true,
+      "output_sha256": "5261262e4eb8d00612793f0719d236cb7c4b13d2744ad192ef43aa5a0ccbcafa"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_17",
+      "sample": "SHORT_17",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "7861dc53212569126fccd2751796a85824eeaabe13fda434d1f5ed72967855bc",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_17.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_17",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_17.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "67e2f3753c6bc9ccaf7390a5b1760559e6f8acd49b2441d58cdf93054bae8381"
+      },
+      "applied": true,
+      "output_sha256": "1b0ea7febbe32835a6031d44731d5537001342c517a98cbd19750d41448209f4"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_24",
+      "sample": "SHORT_24",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "e148f60e8b6eb92f161d10113a5e7e578c68601c81845367f3f581f97d27590b",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_24.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_24",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_24.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "e813e5281bfb4b4e6ca6e95147840a7dd37824133e97fda468229a44c79c9c85"
+      },
+      "applied": true,
+      "output_sha256": "4b176f23bbc23ab10bbc997567527c0bd7e640753008da1041e9075d49f13e12"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_6",
+      "sample": "SHORT_6",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "894c964584701843d0a9df408bed3d68940b0a3ffb0682f46e9b5de4ed9dde4e",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_6.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_6",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_6.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "ed14f863669eeba9875c2dcf6b59df31ab834f4d21d6737c1cd2ba0c66dc963d"
+      },
+      "applied": true,
+      "output_sha256": "4c54004deaa9a498c1582b9e72cb74352221ee047dd3d9f9c7b95d319c61e00e"
+    },
+    {
+      "id": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/bv1/SHORT_7",
+      "sample": "SHORT_7",
+      "state": "blocked",
+      "reason": "exit 1; attempt 2/2",
+      "arm": "bv1-luna-v1-targeted-20261016",
+      "authorization": "remaining-bv1-recovery-20261126-v1",
+      "used": 1,
+      "allowance": 2,
+      "source_sha256": "442905e0baf17aabb06772a3f7d9a2d64f2f9a871e67d9c6cb7716d85125004d",
+      "output": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/analysis/analysis/freeflow/personality-eval-bv1/arms/bv1-luna-v1-targeted-20261016/outputs/qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/SHORT_7.md",
+      "attempts": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_BV1_SHORT_7",
+      "binding": "/home/agent/work/colab-batch-queue/qwen25_eight_targeted_20261127/phase/bv1_bindings_luna_v1_targeted/SHORT_7.json",
+      "output_exists": false,
+      "v1_attempts": {
+        "files": 2,
+        "sha256": "f14fb070ccca8bd1fce3b8542528d549ecca075e3bf08b7766e6883ce04e2e5d"
+      },
+      "applied": true,
+      "output_sha256": "bddfcfaf5c890f9037de223d09449ce2c74944c9804bc4a323b8e030a1a11820"
+    }
+  ],
+  "error": null,
+  "source_unchanged": true,
+  "downstream_run": false,
+  "published": false,
+  "scheduler_enabled": false
+}

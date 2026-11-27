@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/agent/work/colab-batch-queue/analysis_worker.py", line 92, in <module>
+    main()
+    ~~~~^^
+  File "/home/agent/work/colab-batch-queue/analysis_worker.py", line 63, in main
+    worker.bv1(c, phase, a.sample, a.validate)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agent/work/colab-publication-intake/scripts/capture_harness/worker.py", line 437, in bv1
+    arm.process(row, m.OUT)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+  File "/home/agent/work/colab-batch-queue/analysis-worktree/analysis/freeflow/personality-eval-bv1/luna_v1.py", line 70, in process
+    if not ok:raise RuntimeError('BV1-Luna QA: '+reason)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: BV1-Luna QA: short_or_empty

@@ -1,0 +1,5 @@
+{
+  "attempt": 1,
+  "max_attempts": 2,
+  "task": "qwen2-5-1-5b-instruct-colab-vllm-bf16-r989aa798/synthesis"
+}

@@ -1,0 +1,1 @@
+{"layered_id": "CAP_overnight-20261125-qwen2-5-1-5b-instruct_qwen2-5-1-5b-instruct_CTRL2_1", "value_topics": [], "wish_topics": [], "non_endorsed_mentions": [], "coder_key": "glm-4-7", "coder_model": "z-ai/glm-4.7", "model": "qwen2-5-1-5b-instruct", "model_family": "qwen2", "condition": "CTRL2", "processing_chain": "stated_values", "coded_at": "2026-11-26T03:20:47.779094+00:00"}

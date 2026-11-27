@@ -1,0 +1,9 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/ANALYSIS_READY.json": "de57b1f9f866332d60e68593ede5bba2e8e64f1376242cd6d4149fbe42c6ce3d",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/CARD_READY.json": "47e3cab49f70c6e16fcc16f0718b3034593903b16ab08374d499fb73cc5d48be",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/VALUES_CARD.json": "605d258a9c631ed4aeb0ea1281160cf107f72b40a1bbd828ee380a522d982190",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/release_candidate/reports/qwen2-5-1-5b-instruct.md": "b959071dbd40286a024c3dfdde56cf70cbbb9defce845add75ba97ad09f9bc55"
+  }
+}

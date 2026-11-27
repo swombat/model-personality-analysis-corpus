@@ -1,0 +1,21 @@
+{
+  "bv1": 125,
+  "duplicate_judgments": 0,
+  "inherited_attempt_limits_preserved": true,
+  "new_essays": 0,
+  "original_generation_arms_preserved": true,
+  "publication": false,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/freeflow/personality-model-cards/cards/qwen2-5-1-5b-instruct.md": "6934e89b51dea99b9198c6f8daec16e28962139d90ec90fbf69dd9aeeb565834",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen2-5-1-5b-instruct.md": "baaea1d15102ccc10eae2630713eb8077f848a6dfb1caec0e58fedaafe02d569",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/ANALYSIS_READY.json": "de57b1f9f866332d60e68593ede5bba2e8e64f1376242cd6d4149fbe42c6ce3d",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/CARD_READY.json": "47e3cab49f70c6e16fcc16f0718b3034593903b16ab08374d499fb73cc5d48be",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/VALUES_CARD.json": "605d258a9c631ed4aeb0ea1281160cf107f72b40a1bbd828ee380a522d982190",
+    "/home/agent/work/colab-batch-queue/qwen25_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen25_final_20261127/release_candidate/reports/qwen2-5-1-5b-instruct.md": "b959071dbd40286a024c3dfdde56cf70cbbb9defce845add75ba97ad09f9bc55"
+  },
+  "remote_writes": false,
+  "source_unchanged": true,
+  "state": "integrated_card_ready_awaiting_publication",
+  "synthesis_requests": 1,
+  "values": 120
+}

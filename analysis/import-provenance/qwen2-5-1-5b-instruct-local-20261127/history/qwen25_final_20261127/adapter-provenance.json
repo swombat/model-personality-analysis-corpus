@@ -1,0 +1,7 @@
+{
+  "adapter": "/home/agent/work/colab-batch-queue/qwen25_final_20261127.py",
+  "adapter_sha256": "4e0ffa9ffa93c5b82125bed6db7f1a95de2e0db13cba238be274cf318a801f37",
+  "caveat": "Task-local validation/path adapter, not a mainline validator change; inherited generation arms and separate offline short-rule receipts retained.",
+  "precedent": "/home/agent/work/colab-batch-queue/qwen2_final_20261127.py",
+  "precedent_sha256": "7d3269e3339961aa87dfc0f5f4e782ff91ac6822c3279c5efd72108e13c2c385"
+}
