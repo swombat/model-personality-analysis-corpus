@@ -1,0 +1,10 @@
+{
+  "model": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1",
+  "adopted": [
+    "LONG_1"
+  ],
+  "bv1_done": 103,
+  "source_unchanged": true,
+  "model_calls": 0,
+  "scheduler_enabled": false
+}

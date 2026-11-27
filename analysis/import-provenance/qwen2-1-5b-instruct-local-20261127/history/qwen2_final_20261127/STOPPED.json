@@ -1,0 +1,5 @@
+{
+  "automatic_retry": false,
+  "dispatch_may_have_occurred": false,
+  "error": "[Errno 17] File exists: '/home/agent/work/colab-batch-queue/qwen2_final_20261127/analysis/analysis/values-probe/model-coding/layered/capture_qwen2_final_20261127/bv1_bindings_luna_v1_targeted/MID_3.json'"
+}

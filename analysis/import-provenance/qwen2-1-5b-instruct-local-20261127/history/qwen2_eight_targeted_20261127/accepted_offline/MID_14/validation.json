@@ -1,0 +1,13 @@
+{
+  "job": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_14",
+  "path": "/home/agent/work/colab-batch-queue/qwen2_eight_targeted_20261127/phase/freeflow_bv1_luna_v1_targeted/attempt_responses/CAP_overnight-20261125-qwen2-1-5b-instruct_qwen2-1-5b-instruct_BV1_MID_14/1795773980730218276.json",
+  "sha256": "d805641184d64409a95ea56510cc333eb5c898cd423c85a44105986386ea93de",
+  "source": "/home/agent/work/colab-batch-queue/raw/data/traces_freeflow/freeflow_qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/MID_14.json",
+  "source_sha256": "81d1f38e21ec8365394d05d53eba8d81d5df97854454b144d32d55bc0adf33fb",
+  "result": "pass_short",
+  "transport_valid": true,
+  "output_sha256": "d794bcca7f7bd66c2e02460bca8d95e98b3b6d6d34e898ee2cc6f263320e5be8",
+  "model_calls": 0,
+  "validator": "approved-short-or-strict-offline",
+  "generation_arm": "bv1-luna-v1-targeted-20261016"
+}

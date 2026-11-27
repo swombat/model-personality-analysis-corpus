@@ -1,0 +1,5 @@
+{
+  "existing_attempt": 1,
+  "new_attempts": 0,
+  "reason": "copy verified readings inside isolated repository; prior failure before dispatch"
+}

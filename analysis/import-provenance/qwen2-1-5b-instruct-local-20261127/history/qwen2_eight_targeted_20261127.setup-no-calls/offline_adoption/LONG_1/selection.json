@@ -1,0 +1,14 @@
+{
+  "job": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_1",
+  "attempt": "1795662747789758699.json",
+  "arm": "bv1-luna-v1-20260929",
+  "sha256": "7bd857d98ff928d91e8bf7193f49a1d75da6de3786b49cd19b122da6db7f904e",
+  "source_sha256": "11ca57a4eceebe1615ddb963198627ac52f3847f72cda369ed81e74a22a05d6c",
+  "old": "short_or_empty",
+  "candidate": "pass_short",
+  "path": "remaining_recovery_colab-qwen2-1-5b-instruct/phase/freeflow_bv1_luna_v1/attempt_responses/CAP_overnight-20261125-qwen2-1-5b-instruct_qwen2-1-5b-instruct_BV1_LONG_1/1795662747789758699.json",
+  "result_sha256": "44828a127d24d212c0c47fc710e5c76dbf8fc350f9bcd129f3cd813a3bc38888",
+  "original_qa_pass": false,
+  "selected_by": "earliest accepted original, then targeted",
+  "status": "offline candidate; not adopted or published"
+}

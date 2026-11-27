@@ -1,0 +1,178 @@
+{
+  "state": "blocked",
+  "updated_at": 1795663183.0839834,
+  "counts": {
+    "done": 1311,
+    "blocked": 25
+  },
+  "models": {
+    "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1": {
+      "done": 1311,
+      "blocked": 25
+    }
+  },
+  "blockers": [
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_3",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662605.2139702
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_5",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662624.8050332
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_9",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662655.2397702
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_11",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662671.3573413
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_14",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662690.123181
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_18",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662715.4899926
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_20",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662725.7340908
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/MID_24",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662753.7069533
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_1",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662763.314269
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_5",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662788.4637086
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_11",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662823.9842675
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_15",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662849.1346166
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_17",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662854.1758218
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/LONG_22",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662890.7741628
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/OPEN_7",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662941.3779001
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/OPEN_9",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795662954.6009076
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_5",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663080.307869
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_6",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663085.4261687
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_9",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663109.1656225
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_14",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663137.8087828
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_15",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663145.1409345
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_23",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663179.1803577
+    },
+    {
+      "id": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1/bv1/VARY_24",
+      "state": "blocked",
+      "attempts": 2,
+      "reason": "exit 1; attempt 2/2",
+      "started": 1795663180.8251405
+    }
+  ],
+  "completion_boundary": "analysis_only_awaiting_review"
+}

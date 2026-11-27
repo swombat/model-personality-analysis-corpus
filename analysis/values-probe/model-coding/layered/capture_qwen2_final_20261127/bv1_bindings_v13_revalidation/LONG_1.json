@@ -1,0 +1,18 @@
+{
+  "source_sha256": "11ca57a4eceebe1615ddb963198627ac52f3847f72cda369ed81e74a22a05d6c",
+  "output_sha256": "44828a127d24d212c0c47fc710e5c76dbf8fc350f9bcd129f3cd813a3bc38888",
+  "evaluator_arm": "bv1-luna-v1-20260929",
+  "generation_attempt_sha256": "7bd857d98ff928d91e8bf7193f49a1d75da6de3786b49cd19b122da6db7f904e",
+  "validator": "offline-short-source-30-word-rule",
+  "validator_code_sha256": {
+    "luna_v1_3.py": "288030e110cda62fde8044a8f6f442cdd11f80a32fa2ec358d6cbdf72eff618f",
+    "replay_v13_candidates.py": "fdb62d019198f5bac748493625715e02b0bc460fe0d59d3f9bf862e20bf224c9",
+    "run_full_bv1.py": "7dafbc2880c0d7026918766bd5a0cdb78cb146ad9f9b7bc25932121d223f5688",
+    "audit_short_readings.py": "ac4c77456f9f21059c87649b8304515ac7021d5baec71608dbf2a5fb810f17f7",
+    "luna_v1.py": "375e0d4fef3b182f86615c0304703d3fdb8915dbd29fca83a2521dc694661f3e"
+  },
+  "original_qa_pass": false,
+  "original_qa_reason": "short_or_empty",
+  "revalidation_pass": true,
+  "model_calls": 0
+}

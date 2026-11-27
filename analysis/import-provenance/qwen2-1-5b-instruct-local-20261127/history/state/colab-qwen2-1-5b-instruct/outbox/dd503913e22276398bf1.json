@@ -1,0 +1,8 @@
+{
+  "kind": "blocked",
+  "model": "qwen2-1-5b-instruct-colab-vllm-bf16-r2ebb13f1",
+  "status_path": "/home/agent/work/colab-batch-queue/state/colab-qwen2-1-5b-instruct/status.json",
+  "created_at": 1795662607.3790858,
+  "state": "pending",
+  "delivery_attempts": 0
+}

@@ -1,0 +1,14 @@
+{
+  "base": "b264fb61cccbe50318449014afcb4c4fda991b38",
+  "bv1": 125,
+  "values": 120,
+  "copied_files_checked": 3788,
+  "original_offline_adoptions": 14,
+  "targeted_scope": 8,
+  "targeted_short_adoptions": 4,
+  "prior_records_unchanged": true,
+  "website_unchanged": true,
+  "model_calls": 0,
+  "remote_writes": false,
+  "validation_sha256": "bb5acb9d7e56359e46abcdb928e2962a0a34927d7e6a2452a5d9d8878c15d55c"
+}

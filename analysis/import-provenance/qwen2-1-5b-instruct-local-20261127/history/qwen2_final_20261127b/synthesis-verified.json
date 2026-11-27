@@ -1,0 +1,7 @@
+{
+  "production_validation": true,
+  "receipts": {
+    "/home/agent/work/colab-batch-queue/qwen2_final_20261127b/analysis/analysis/freeflow/personality-model-cards/cards/qwen2-1-5b-instruct.md": "2636fb983bea38319b547b85f36b178d62613f60df483b62d05acb7d3822f28f",
+    "/home/agent/work/colab-batch-queue/qwen2_final_20261127b/analysis/analysis/freeflow/personality-model-profiles/profiles/qwen2-1-5b-instruct.md": "2201bf4bb5dd9173666a683d42d665ad73207c3cd17741ffa260cb90c2ae0a53"
+  }
+}

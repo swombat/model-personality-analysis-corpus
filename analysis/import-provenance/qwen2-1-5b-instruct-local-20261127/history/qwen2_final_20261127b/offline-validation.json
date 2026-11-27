@@ -1,0 +1,27 @@
+{
+  "bv1": 125,
+  "model_calls": 0,
+  "offline_samples": [
+    "LONG_1",
+    "LONG_11",
+    "LONG_17",
+    "LONG_22",
+    "LONG_5",
+    "MID_14",
+    "MID_18",
+    "MID_20",
+    "MID_3",
+    "MID_5",
+    "OPEN_7",
+    "OPEN_9",
+    "VARY_14",
+    "VARY_15",
+    "VARY_23",
+    "VARY_24",
+    "VARY_5",
+    "VARY_6",
+    "VARY_9"
+  ],
+  "original_generation_arms_preserved": true,
+  "values": 120
+}
