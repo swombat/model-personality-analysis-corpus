@@ -211,5 +211,6 @@
   "qwen1-5-32b-chat": "Opens every single piece with the same disclaimer",
   "qwen2-1-5b-instruct": "Just let me know what you're looking for",
   "qwen2-5-1-5b-instruct": "I do not have personal opinions or emotions",
-  "qwen2-5-3b-instruct": "One day, a young woman named Elara"
+  "qwen2-5-3b-instruct": "One day, a young woman named Elara",
+  "mistral-7b-instruct-v0-1": "Sometimes, I just want to write freely, without any rules"
 }

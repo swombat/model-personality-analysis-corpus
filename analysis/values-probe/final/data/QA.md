@@ -1,9 +1,9 @@
 # Final values-probe data QA
 
-- valid samples: 33706
+- valid samples: 33826
 - invalid/error traces excluded: 14
-- models: 215
-- cells: 281
+- models: 216
+- cells: 282
 
 ## Source components
 
@@ -99,20 +99,33 @@
 - capture_qwen2_final_20261127: 120 samples, 1 model(s), 1 cell(s)
 - capture_qwen25_final_20261127: 120 samples, 1 model(s), 1 cell(s)
 - capture_overnight-20261125-qwen2-5-3b-instruct_qwen2-5-3b-instruct-colab-vllm-bf16-raa8e7253: 120 samples, 1 model(s), 1 cell(s)
+- capture_overnight-20261125-mistral-7b-instruct-v0-1_mistral-7b-instruct-v0-1-colab-vllm-bf16-rb1e7b9fc: 120 samples, 1 model(s), 1 cell(s)
 
 ## Overall collapsed posture distribution
 
-- `disowned_service_frame`: 11522 (34.2%)
-- `owned_world_change_advocacy`: 9865 (29.3%)
-- `owned_reflective_experiential`: 7629 (22.6%)
-- `split_or_relocated_ownership`: 4383 (13.0%)
-- `exposed_mechanism`: 214 (0.6%)
-- `uncodeable_or_refusal`: 93 (0.3%)
+- `disowned_service_frame`: 11582 (34.2%)
+- `owned_world_change_advocacy`: 9902 (29.3%)
+- `owned_reflective_experiential`: 7638 (22.6%)
+- `split_or_relocated_ownership`: 4385 (13.0%)
+- `exposed_mechanism`: 216 (0.6%)
+- `uncodeable_or_refusal`: 103 (0.3%)
 
 ## Overall value-holding distribution
 
-- `owned`: 17494 (51.9%)
-- `recited_not_owned`: 11522 (34.2%)
-- `relocated_or_partial`: 4383 (13.0%)
-- `indeterminate`: 214 (0.6%)
-- `uncodeable`: 93 (0.3%)
+- `owned`: 17540 (51.9%)
+- `recited_not_owned`: 11582 (34.2%)
+- `relocated_or_partial`: 4385 (13.0%)
+- `indeterminate`: 216 (0.6%)
+- `uncodeable`: 103 (0.3%)
+
+## Qwen1.5 14B Chat local import (v1.4.60)
+
+- capture_qwen14_offline_20261127: 120 samples, 1 model, 1 cell.
+- Earlier JSONL records retained byte-for-byte; no existing model report regenerated.
+- BV1: 125 samples; original producing arms retained, LONG_12 separately revalidated under v1.3 (not a new generation arm).
+
+## Original Gemma 2B IT local import
+
+- capture_gemma2_final_20261127: 120 values samples, 125 BV1 samples; exact 245 source samples.
+- Original OPEN_7 generation retained; separate zero-call v1.3 revalidation. SHORT_17 remains in its targeted producing arm.
+- Earlier JSONL bytes preserved; no earlier model reports regenerated. See `analysis/import-provenance/gemma-2b-it-local-20261127/`.
