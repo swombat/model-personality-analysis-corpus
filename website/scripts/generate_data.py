@@ -50,7 +50,7 @@ def model_images(slug: str) -> dict[str, str]:
     return result
 
 sys.path.insert(0, str(ROOT / "internal" / "scripts" / "analysis-scripts"))
-from _corpus_paths import V2_FREEFLOW, V1_FREEFLOW, V2_VALUES, V1_VALUES  # noqa: E402
+from _corpus_paths import V2_CORPUS, V2_FREEFLOW, V1_FREEFLOW, V2_VALUES, V1_VALUES  # noqa: E402
 from values_probe_extract import VALUE_TOPICS as VALUE_TOPIC_DEFS, WISH_TOPICS as WISH_TOPIC_DEFS  # noqa: E402
 
 
@@ -1769,8 +1769,44 @@ def sample_record(path: Path, sample_type: str, source: str, cell: str) -> dict 
     }
 
 
+def v2_excluded_probe_cells(v2_corpus: Path | None = None) -> set[tuple[str, str]]:
+    """Return (probe, physical_cell) pairs gated out of named-weight bare sample bundles."""
+    corpus_root = v2_corpus or V2_CORPUS
+    excluded: set[tuple[str, str]] = set()
+    mic_path = corpus_root / "data" / "MODEL_IDENTITY_CORRECTIONS.json"
+    if mic_path.is_file():
+        mic = json.loads(mic_path.read_text())
+        for entry in mic.get("corrections", []):
+            if entry.get("eligible_for_named_weight_analysis") is False:
+                excluded.add((entry["probe"], entry["physical_cell"]))
+    spp_path = corpus_root / "data" / "SYSTEM_PROMPT_PROVENANCE.json"
+    if spp_path.is_file():
+        spp = json.loads(spp_path.read_text())
+        ff_root = corpus_root / "data" / "traces_freeflow"
+        val_root = corpus_root / "data" / "traces_values"
+        for cell_entry in spp.get("cells", []):
+            phys = cell_entry["physical_cell"]
+            repl = cell_entry.get("replacement_bare_cell")
+            if repl:
+                if (ff_root / f"freeflow_{repl}").is_dir():
+                    excluded.add(("freeflow", phys))
+                if (val_root / repl).is_dir():
+                    excluded.add(("values", phys))
+            if "-hfstock-" in phys and not cell_entry.get("strict_bare_instruction_eligible", True):
+                excluded.add(("freeflow", phys))
+                excluded.add(("values", phys))
+    return excluded
+
+
+def physical_cell_name(dir_name: str, sample_type: str) -> str:
+    if sample_type == "freeflow" and dir_name.startswith("freeflow_"):
+        return dir_name[len("freeflow_"):]
+    return dir_name
+
+
 def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
     samples_by_model = {model: [] for model in model_ids}
+    v2_excluded = v2_excluded_probe_cells()
     roots = [
         (V2_FREEFLOW, "freeflow", "v2"),
         (V1_FREEFLOW, "freeflow", "v1"),
@@ -1782,6 +1818,8 @@ def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
             print(f"warn: missing corpus path {root}", file=sys.stderr)
             continue
         for cell_dir in sorted(path for path in root.iterdir() if path.is_dir()):
+            if source == "v2" and (sample_type, physical_cell_name(cell_dir.name, sample_type)) in v2_excluded:
+                continue
             model = model_from_cell(cell_dir.name, SAMPLE_ROUTING_MODELS or model_ids, source)
             if model not in samples_by_model:
                 continue
