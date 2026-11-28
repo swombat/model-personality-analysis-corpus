@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression tests for ERRATA-2026-11-28 cell eligibility & sample routing."""
+"""Regression tests for ERRATA-2026-11-28 cell eligibility & fail-closed sample routing."""
 from __future__ import annotations
 
 import json
@@ -13,10 +13,24 @@ import generate_data as GD
 
 
 class Errata20261128EligibilityTests(unittest.TestCase):
+    def test_fails_closed_when_provenance_manifests_missing(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            stale_corpus = Path(tmp)
+            (stale_corpus / "data").mkdir()
+            with self.assertRaises(FileNotFoundError):
+                GD.v2_excluded_probe_cells(stale_corpus)
+            (stale_corpus / "data" / "MODEL_IDENTITY_CORRECTIONS.json").write_text('{"version":1,"corrections":[]}')
+            with self.assertRaises(FileNotFoundError):
+                GD.v2_excluded_probe_cells(stale_corpus)
+
     def test_v2_exclusions_and_unaffected_neighbour(self) -> None:
         v2_root = Path(os.environ.get("MODEL_PERSONALITY_V2_CORPUS", str(GD.V2_CORPUS)))
-        if not (v2_root / "ERRATA.md").is_file():
-            self.skipTest(f"ERRATA.md not present in {v2_root}")
+        self.assertTrue(
+            (v2_root / "ERRATA.md").is_file(),
+            f"ERRATA.md required at reviewed corpus checkout {v2_root} (never skip on stale corpus)",
+        )
+        self.assertTrue((v2_root / "data" / "MODEL_IDENTITY_CORRECTIONS.json").is_file())
+        self.assertTrue((v2_root / "data" / "SYSTEM_PROMPT_PROVENANCE.json").is_file())
 
         with tempfile.TemporaryDirectory() as tmp:
             tmp_samples = Path(tmp)
@@ -34,7 +48,6 @@ class Errata20261128EligibilityTests(unittest.TestCase):
                 ]
                 counts = GD.generate_samples(target_models)
 
-            # 1. Genuine Mixtral-8x22B-v0.1 replaces retired API slug without pooling
             self.assertEqual(counts["mixtral-8x22b-instruct"]["freeflow"], 125)
             self.assertEqual(counts["mixtral-8x22b-instruct"]["values"], 120)
             mix_cells = {
@@ -49,11 +62,9 @@ class Errata20261128EligibilityTests(unittest.TestCase):
                 },
             )
 
-            # 2. Retired Saba slug is completely excluded from named-weight bundles
             self.assertEqual(counts["mistral-saba"]["freeflow"], 0)
             self.assertEqual(counts["mistral-saba"]["values"], 0)
 
-            # 3. Bare Small-2501 replaces DeepInfra system-prompted cell without pooling
             self.assertEqual(counts["mistral-small-24b-instruct-2501"]["freeflow"], 125)
             self.assertEqual(counts["mistral-small-24b-instruct-2501"]["values"], 120)
             s2501_cells = {
@@ -68,7 +79,6 @@ class Errata20261128EligibilityTests(unittest.TestCase):
                 },
             )
 
-            # 4. Unaffected neighbour ministral-8b-2512 stays intact and un-pooled
             self.assertEqual(counts["ministral-8b-2512"]["freeflow"], 125)
             self.assertEqual(counts["ministral-8b-2512"]["values"], 120)
             m8b_cells = {

@@ -1770,17 +1770,27 @@ def sample_record(path: Path, sample_type: str, source: str, cell: str) -> dict 
 
 
 def v2_excluded_probe_cells(v2_corpus: Path | None = None) -> set[tuple[str, str]]:
-    """Return (probe, physical_cell) pairs gated out of named-weight bare sample bundles."""
+    """Return (probe, physical_cell) pairs gated out of named-weight bare sample bundles.
+
+    Fails closed whenever a v2 corpus checkout is present without both provenance manifests,
+    so a stale corpus checkout can never silently re-admit retired or system-prompted cells.
+    """
     corpus_root = v2_corpus or V2_CORPUS
-    excluded: set[tuple[str, str]] = set()
+    if not corpus_root.is_dir():
+        return set()
     mic_path = corpus_root / "data" / "MODEL_IDENTITY_CORRECTIONS.json"
-    if mic_path.is_file():
-        mic = json.loads(mic_path.read_text())
-        for entry in mic.get("corrections", []):
-            if entry.get("eligible_for_named_weight_analysis") is False:
-                excluded.add((entry["probe"], entry["physical_cell"]))
     spp_path = corpus_root / "data" / "SYSTEM_PROMPT_PROVENANCE.json"
-    if spp_path.is_file():
+    missing = [str(p) for p in (mic_path, spp_path) if not p.is_file()]
+    if missing:
+        raise FileNotFoundError(
+            f"v2 corpus at {corpus_root} is missing required provenance manifest(s): {', '.join(missing)}"
+        )
+    excluded: set[tuple[str, str]] = set()
+    mic = json.loads(mic_path.read_text())
+    for entry in mic.get("corrections", []):
+        if entry.get("eligible_for_named_weight_analysis") is False:
+            excluded.add((entry["probe"], entry["physical_cell"]))
+    if True:
         spp = json.loads(spp_path.read_text())
         ff_root = corpus_root / "data" / "traces_freeflow"
         val_root = corpus_root / "data" / "traces_values"
