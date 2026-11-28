@@ -1808,6 +1808,55 @@ def v2_excluded_probe_cells(v2_corpus: Path | None = None) -> set[tuple[str, str
     return excluded
 
 
+def _parse_index_range_selector(selector: str) -> tuple[int, int]:
+    m = re.fullmatch(r"\*_(\d+)\.json through \*_(\d+)\.json", selector.strip())
+    if not m:
+        raise ValueError(f"Unsupported partition sample_selector in MODEL_IDENTITY_CORRECTIONS.json: {selector!r}")
+    lo, hi = int(m.group(1)), int(m.group(2))
+    if lo > hi:
+        raise ValueError(f"Invalid partition range {lo}..{hi} in {selector!r}")
+    return lo, hi
+
+
+def v2_ineligible_sample_partitions(v2_corpus: Path | None = None) -> dict[tuple[str, str], list[tuple[int, int, str]]]:
+    """Return {(probe, physical_cell): [(lo_idx, hi_idx, returned_model), ...]} for gated-out partitions."""
+    corpus_root = v2_corpus or V2_CORPUS
+    if not corpus_root.is_dir():
+        return {}
+    mic_path = corpus_root / "data" / "MODEL_IDENTITY_CORRECTIONS.json"
+    if not mic_path.is_file():
+        raise FileNotFoundError(f"Missing required provenance manifest: {mic_path}")
+    mic = json.loads(mic_path.read_text())
+    rules: dict[tuple[str, str], list[tuple[int, int, str]]] = {}
+    for entry in mic.get("corrections", []):
+        for part in entry.get("partitions", []):
+            if part.get("eligible_for_named_weight_analysis") is False:
+                lo, hi = _parse_index_range_selector(part["sample_selector"])
+                rules.setdefault((entry["probe"], entry["physical_cell"]), []).append(
+                    (lo, hi, part["returned_model"])
+                )
+    return rules
+
+
+def is_v2_partition_excluded(
+    sample_id: str,
+    returned_model: str | None,
+    rules: list[tuple[int, int, str]],
+) -> bool:
+    idx = int(sample_id.rsplit("_", 1)[1])
+    for lo, hi, expected_ret in rules:
+        in_range = lo <= idx <= hi
+        ret_matches = returned_model == expected_ret
+        if in_range != ret_matches:
+            raise ValueError(
+                f"Partition provenance mismatch on {sample_id}: in_range={in_range} ({lo}..{hi}) "
+                f"but returned_model={returned_model!r} (expected {expected_ret!r})"
+            )
+        if in_range:
+            return True
+    return False
+
+
 def physical_cell_name(dir_name: str, sample_type: str) -> str:
     if sample_type == "freeflow" and dir_name.startswith("freeflow_"):
         return dir_name[len("freeflow_"):]
@@ -1817,6 +1866,7 @@ def physical_cell_name(dir_name: str, sample_type: str) -> str:
 def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
     samples_by_model = {model: [] for model in model_ids}
     v2_excluded = v2_excluded_probe_cells()
+    v2_part_rules = v2_ineligible_sample_partitions()
     roots = [
         (V2_FREEFLOW, "freeflow", "v2"),
         (V1_FREEFLOW, "freeflow", "v1"),
@@ -1838,6 +1888,14 @@ def generate_samples(model_ids: list[str]) -> dict[str, dict[str, int]]:
                     continue
                 record = sample_record(sample_file, sample_type, source, cell_dir.name)
                 if record:
+                    if source == "v2":
+                        part_rules = v2_part_rules.get(
+                            (sample_type, physical_cell_name(cell_dir.name, sample_type))
+                        )
+                        if part_rules and is_v2_partition_excluded(
+                            record["sample_id"], record.get("model"), part_rules
+                        ):
+                            continue
                     destination_model = model
                     # The direct `deepseek-chat` alias moved during the original
                     # top-up. Samples 6–25 in each freeflow condition identify
