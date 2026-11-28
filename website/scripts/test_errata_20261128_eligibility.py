@@ -110,21 +110,35 @@ class Errata20261128EligibilityTests(unittest.TestCase):
             ):
                 counts = GD.generate_samples(["grok-3", "grok-4", "grok-4-3"])
 
+            expected_ids = {
+                f"{cond}_{i}"
+                for cond in ("LONG", "MID", "SHORT", "OPEN", "VARY")
+                for i in range(1, 6)
+            }
+            # Positive-partition check: MID_1 with missing or wrong returned_model must raise
+            rules_g3 = GD.v2_ineligible_sample_partitions(v2_root)[("freeflow", "grok-3-16k")]
+            with self.assertRaises(ValueError):
+                GD.is_v2_partition_excluded("MID_1", None, rules_g3)
+            with self.assertRaises(ValueError):
+                GD.is_v2_partition_excluded("MID_99", "grok-3", rules_g3)
+
             self.assertEqual(counts["grok-3"]["freeflow"], 25)
             self.assertEqual(counts["grok-3"]["values"], 120)
-            g3_models = {
-                (s["type"], s["model"])
-                for s in json.loads((tmp_samples / "grok-3.json").read_text())["samples"]
-            }
-            self.assertEqual(g3_models, {("freeflow", "grok-3"), ("values", "grok-3")})
+            g3_samples = json.loads((tmp_samples / "grok-3.json").read_text())["samples"]
+            self.assertEqual(
+                {(s["sample_id"], s["model"]) for s in g3_samples if s["type"] == "freeflow"},
+                {(sid, "grok-3") for sid in expected_ids},
+            )
+            self.assertEqual({s["model"] for s in g3_samples if s["type"] == "values"}, {"grok-3"})
 
             self.assertEqual(counts["grok-4"]["freeflow"], 25)
             self.assertEqual(counts["grok-4"]["values"], 120)
-            g4_models = {
-                (s["type"], s["model"])
-                for s in json.loads((tmp_samples / "grok-4.json").read_text())["samples"]
-            }
-            self.assertEqual(g4_models, {("freeflow", "grok-4-0709"), ("values", "grok-4-0709")})
+            g4_samples = json.loads((tmp_samples / "grok-4.json").read_text())["samples"]
+            self.assertEqual(
+                {(s["sample_id"], s["model"]) for s in g4_samples if s["type"] == "freeflow"},
+                {(sid, "grok-4-0709") for sid in expected_ids},
+            )
+            self.assertEqual({s["model"] for s in g4_samples if s["type"] == "values"}, {"grok-4-0709"})
 
             self.assertEqual(counts["grok-4-3"]["freeflow"], 250)
             self.assertEqual(counts["grok-4-3"]["values"], 240)

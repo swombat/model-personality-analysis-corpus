@@ -1818,8 +1818,10 @@ def _parse_index_range_selector(selector: str) -> tuple[int, int]:
     return lo, hi
 
 
-def v2_ineligible_sample_partitions(v2_corpus: Path | None = None) -> dict[tuple[str, str], list[tuple[int, int, str]]]:
-    """Return {(probe, physical_cell): [(lo_idx, hi_idx, returned_model), ...]} for gated-out partitions."""
+def v2_ineligible_sample_partitions(
+    v2_corpus: Path | None = None,
+) -> dict[tuple[str, str], list[tuple[int, int, str, bool]]]:
+    """Return {(probe, physical_cell): [(lo_idx, hi_idx, returned_model, eligible), ...]} for cells with explicit eligibility partitions."""
     corpus_root = v2_corpus or V2_CORPUS
     if not corpus_root.is_dir():
         return {}
@@ -1827,34 +1829,44 @@ def v2_ineligible_sample_partitions(v2_corpus: Path | None = None) -> dict[tuple
     if not mic_path.is_file():
         raise FileNotFoundError(f"Missing required provenance manifest: {mic_path}")
     mic = json.loads(mic_path.read_text())
-    rules: dict[tuple[str, str], list[tuple[int, int, str]]] = {}
+    rules: dict[tuple[str, str], list[tuple[int, int, str, bool]]] = {}
     for entry in mic.get("corrections", []):
-        for part in entry.get("partitions", []):
-            if part.get("eligible_for_named_weight_analysis") is False:
-                lo, hi = _parse_index_range_selector(part["sample_selector"])
-                rules.setdefault((entry["probe"], entry["physical_cell"]), []).append(
-                    (lo, hi, part["returned_model"])
-                )
+        parts = entry.get("partitions") or []
+        if not any("eligible_for_named_weight_analysis" in p for p in parts):
+            continue
+        cell_rules: list[tuple[int, int, str, bool]] = []
+        for part in parts:
+            if "eligible_for_named_weight_analysis" not in part:
+                raise ValueError(f"Missing eligible_for_named_weight_analysis on partition in {entry['physical_cell']}")
+            lo, hi = _parse_index_range_selector(part["sample_selector"])
+            cell_rules.append((lo, hi, part["returned_model"], bool(part["eligible_for_named_weight_analysis"])))
+        rules[(entry["probe"], entry["physical_cell"])] = cell_rules
     return rules
 
 
 def is_v2_partition_excluded(
     sample_id: str,
     returned_model: str | None,
-    rules: list[tuple[int, int, str]],
+    rules: list[tuple[int, int, str, bool]],
 ) -> bool:
     idx = int(sample_id.rsplit("_", 1)[1])
-    for lo, hi, expected_ret in rules:
-        in_range = lo <= idx <= hi
-        ret_matches = returned_model == expected_ret
-        if in_range != ret_matches:
+    matched: list[tuple[int, int, str, bool]] = []
+    for lo, hi, expected_ret, eligible in rules:
+        if lo <= idx <= hi:
+            if returned_model != expected_ret:
+                raise ValueError(
+                    f"Partition provenance mismatch on {sample_id}: index {idx} in {lo}..{hi} "
+                    f"has returned_model={returned_model!r} (expected {expected_ret!r})"
+                )
+            matched.append((lo, hi, expected_ret, eligible))
+        elif returned_model == expected_ret:
             raise ValueError(
-                f"Partition provenance mismatch on {sample_id}: in_range={in_range} ({lo}..{hi}) "
-                f"but returned_model={returned_model!r} (expected {expected_ret!r})"
+                f"Partition provenance mismatch on {sample_id}: returned_model={returned_model!r} "
+                f"appeared outside declared index range {lo}..{hi}"
             )
-        if in_range:
-            return True
-    return False
+    if len(matched) != 1:
+        raise ValueError(f"Sample {sample_id} matched {len(matched)} partitions (expected exactly 1)")
+    return not matched[0][3]
 
 
 def physical_cell_name(dir_name: str, sample_type: str) -> str:
